@@ -1,64 +1,67 @@
 # AION Intelligence
 
-## CMA drops pursuit of private equity executives over price gouging
-UK regulator decides not to pursue ban against two former Cinven executives
-
-## Grant Thornton seals accounting sector’s largest takeover in a generation
-US audit and consulting firm to buy publicly listed CBIZ for $5bn in all-cash deal
+## EU warns it will investigate Fifa’s $20bn commercial venture
+Bloc joins protests against plans by football’s governing body to raise billions from outside investors
 
 ## Burnham opens door to tax rises to pay for social care overhaul
 Prime minister says he wants to avoid people having to sell their homes to pay for care
 
-## Assisted dying debate should wait until social care is fixed, Burnham says
-Prime minister’s comments dash Labour MPs’ hopes of reviving contentious legislation later this year
+## Elon Musk settles long-running legal battle with X advertisers
+Billionaire had accused brands of organising an illegal boycott
 
-## Populism will eat itself
-A movement that admires belligerence and confrontation will turn on its own in the end
+## Brookfield to turn former nuclear weapons site into AI campus
+Canadian investment group to partner utility NextEra on data centre in Kentucky
 
-## The thrill of South Korea’s ‘dopamine apps’
-One faux delivery site allows users to select and order food without paying money or receiving anything
+## Trump vows to deliver ‘beating’ to Iran in retaliation for latest attack
+Washington says Tehran launched ballistic missiles at US military installations in the Middle East
 
-## EU warns it will investigate Fifa’s $20bn commercial venture
-Bloc joins wave of indignation at Fifa’s plan to raise billions from outside investors
+## Burham dashes hopes of assisted dying law
+Prime minister says contentious change should wait until after solutions are found for social care and palliative care
 
-## Russia puts Telegram founder Pavel Durov on international wanted list
-Kremlin’s fight with messaging app chief escalates as he is charged with ‘facilitating terrorist activities’
+## Half of England declared in drought after heatwaves
+Second summer drought in two years is ‘exceptionally serious’, says Environment Agency
 
-## How long can big investors ignore climate risk?
-Shift by Nesta Trust of funds from a US asset manager to a European one highlights the divergence
+## CMA drops pursuit of private equity executives over price gouging
+UK regulator decides not to pursue ban against two former Cinven executives
 
-## Daily Mail publisher seeks £10mn upfront from Prince Harry and other claimants
-Demand to immediately cover part of Associated Newspapers’ “eye-watering” legal costs after lost privacy lawsuit
+## Zijin’s $4bn deal with Allied Gold collapses
+Objections from Chinese regulators put tie-up on rocks before the two groups cancelled acquisition
 
-## FirstFT: Mark Zuckerberg says US should not ban Chinese AI
-Also in today’s newsletter: Iran launches surprise attack on US forces, and a PwC report riddled with AI-generated errors
+## Daily Mail publisher seeks £10mn upfront from Prince Harry and other privacy claimants
+Demand for ‘eye-watering’ costs threatens to leave gap in celebrities’ insurance cover after lost lawsuit
 
-## Hermès shares drop as investors fret over weak China luxury market
-Luxury goods group hit by fall in tourist shopping in the Gulf
+## Ferrari EV designed by Jony Ive has already hit 2026 sales target
+Italian carmaker reports strong demand from China for electric model derided for its unconventional design
 
-## Copper futures: Uptrend valid
-Roll-over the longs to August futures
+## SBI Card, Google Pay launch co-branded credit card for everyday digital spending
+The new offering combines SBI Card’s credit card expertise with Google Pay’s rapidly expanding digital payments ecosystem.
 
-## ITC Infotech ties up with Google Cloud to drive AI-powered growth
-By embedding AI into its own operations first, ITC Infotech will offer customers implementation experience anchored in measurable business result
-
-## GST rollout boosted state tax revenues, buoyancy, says India Ratings
-The top five states with the highest tax buoyancy, post GST implementation, are Manipur, Nagaland, Goa, Maharashtra and Sikkim
-
-## El Niño, the Indian Ocean Dipole, and the Indian Economy: A 2026 reality check
-This meteorological event will severely test the government’s ability to deal with food stock and rural safety nets in the coming months
-
-## Deep depression drags rain fury west; targets MP, Gujarat next
-IMD has warned of heavy to very heavy rainfall and extremely heavy falls, over West Madhya Pradesh on Thursday after issuing a similar alert for Vidarbha and Chhattisgarh on Wednesday
+## Panel seeks to make SEBI's enforcement framework more legally sustainable
+The proposed Securities Markets Code strengthens due process and investor safeguards without diluting regulatory powers
 
 ## IPL’s business value soars to $20.6 billion, RCB most valued franchise
 Royal Challengers Bengaluru was ranked as the most valuable franchise with a brand value of $312 million, up 16 per cent year-on-year, becoming the first franchise to cross the $ 300 million-mark
 
-## Sensex, Nifty rise as investors shrug off Iran attack; IT stocks lead fourth straight rally
-Nifty IT index surges 2.3% for fourth consecutive session, extending its three-day rally to around 8% and its monthly gain to over 17%
+## Tredence Positioned as a 'Leader' in AIM Research's Top AI Service Providers for Life Sciences & Healthcare PeMa Quadrant 2026
+Tredence Positioned as a 'Leader' in AIM Research's Top AI Service Providers for Life Sciences & Healthcare PeMa Quadrant 2026
 
-## HashKey Proposes to Acquire Entire Equity Interests in Singapore's APEX
-HashKey Proposes to Acquire Entire Equity Interests in Singapore's APEX
+## Zepto likely to cut IPO size, lower valuation expectations as anchor investor talks continue: Sources
+The company is discussing an IPO valuation of around $2.5-3 billion, significantly lower than the $7 billion valuation at which it raised $450 million from investors led by CalPERS in October 2025
+
+## Q1 Results Today Live: Adani Enterprises con. loss at ₹1462 cr, Vedanta Oil logs ₹695 cr profit, Asian Paints, Adani Ports, Colgate, V-Guard Q1 profit rise, Thangamayil Jewellery shares tank 10% after results; Eicher Motors, Waaree Energies, Prestige Estates, Dabur, ACME Solar to announce Q1 results
+Q1 Results Today, 29th July 2026 Live Updates: Stay tuned for more from businessline
+
+## Star Health Q1 PAT up 25% at ₹550 crore under Ind AS accounting
+Underwriting profit sharply higher at ₹111 crore
+
+## SC closes coal block allocation case against former PM Manmohan Singh
+Singh passed away in December 2024, but the case and the aftertaste of the adverse observations of the trial court continued to linger on
+
+## US stock market today: Wall Street in red ahead of US Federal Reserve policy review; oil prices climb
+Markets are currently assigning about a 36% probability to a US rate hike, which, if delivered, would mark the first increase in three years. While higher interest rates help curb inflation, they can also dampen economic activity and weigh on equity valuations.
+
+## India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill - what it means
+India has stepped up Russian crude oil purchases to make up for the deficit, helped in part by the US sanctions waiver which lapsed recently. However, India has continued to procure Russian crude.
 
 ## ITR filing deadline nears: How to file income tax return online on e-filing portal - quick 15-step guide
 The process to file the income tax return has evolved over the last few years and the income tax portal now pre-fills a lot of your tax related information drawing from information in documents such as Form 16, Form 26AS, Annual Information Statement (AIS), bank records etc.
@@ -78,59 +81,56 @@ Stock market today: Nifty50 and BSE Sensex rallied strongly in trade on Wednesda
 ## Higher US LPG imports: Why Indian Oil is looking to acquire 50% stake in very large gas carriers
 If the plan goes ahead, IOC will become the first Indian refiner to own VLGCs. At present, the company primarily depends on time-chartered vessels to transport both LPG and crude oil.
 
-## South Korea's Kospi tumbles 6% as SK Hynix slide, AI spending worries trigger chip selloff
-South Korea's Kospi index dropped significantly due to chipmaker weakness. SK Hynix reported earnings that missed market expectations, causing its shares to fall. This selloff reflects investor concerns over high valuations for artificial intelligence-linked stocks. Other Asian markets also experien
+## Union minister returned ₹99-lakh subsidy he took for his cucumber farm: Govt to Parliament
+“Bhagirath Choudhary has communicated that he has refunded the subsidy to the bank concerned under the scheme," MoS Thakur said in reply to a question in LS
 
-## Indian IT stocks rally: Why TCS, Infosys, Wipro are rising as global AI stocks plunge
-The gains came even as India's IT sector continues to face headwinds, including subdued discretionary technology spending, pricing pressure, higher employee costs and uncertainty over how artificial intelligence could affect conventional outsourcing revenues.
+## Cosmetic and an eyewash, says RSP MP Premachandran on paper leak bill
+The bill proposes a minimum jail term of five years and setting up of fast-track courts that will complete the trial within three months
 
-## 11 road ministry officials removed over highway collapses: Gadkari
-Nitin Gadkari said the action followed a series of failures involving bridges, flyovers and highway infrastructure across several states
+## No abnormality found in fuel control switch of Boeing 787 fleet: Centre
+The issue was highlighted by the pilot in command of a London-Bengaluru flight in February.
 
-## Delhi court stays arrest warrant against SFI leader Aishe Ghosh over 2021 demonstration
-The court had issued the arrest warrant on April 11 after being informed that a warrant issued for Ghosh was come back unexecuted.
+## NDA ally SKM defends student protests in Lok Sabha, calls them a ‘wake-up call’
+Sikkim Krantikari Morcha (SKM) leader Indra Hang Subba said the widespread demonstrations reflected the growing frustration of aspirants
 
-## ‘I am in Russia’: Bihar man claims he was booked in NEET protest case even when abroad for 4 months
-“On July 24, there was a protest at LRP Chowk, and the Bahadurganj administration named me in that," Sadaqat says in purported video.
+## Modi govt says no ‘goli’ fired at CJP protest, but Rahul sticks to ‘pellets’ claim, cites medical evidence
+While govt has denied use of “goli” — usually meaning bullets — the Opposition and findings from HT have said at least five people sustained pellet injuries.
 
-## 3 years jail, fine or both: Bill to make insult to Vande Mataram a criminal offence passed in Rajya Sabha | What we know
-If passed in the Lok Sabha, the bill will then be sent to the President for assent before being implemented as a law.
+## Flood deaths rise to 5 in Odisha’s Keonjhar; Balasore bears brunt of deluge
+Officials said Balasore accounted for more than half of the affected population, with 109,429 people impacted
 
-## Prashant Kishor calls Nitish Kumar campaign video ‘AI’, JD(U) files complaint: What we know
-A 57-second JD(U) campaign video showed Nitish Kumar asking Bankipur voters to support NDA candidate Neeraj Kumar Sinha. Prashant Kishor claimed it was AI-made.
+## Indian Air Force personnel have 'no unqualified right to leave service at will to take civil jobs: SC
+Upholding the rules of the Air Force, the court said that seeking prior approval for leaving is not just a simple procedural requirement.
 
-## Rajasthan: 4-yr-old girl sexually assaulted inside school washroom, say police
-Her family took her to a private hospital where a doctor, in its preliminary examination reportedly suspected sexual assault
+## 'Join BJP or we'll deal with your parents': Abhijeet Dipke received threats after CJP launch, his father claims
+Bhagwanrao Dipke's remarks came as Abhijeet returned to his hometown in Maharashtra after leading weeks of protests in New Delhi.
 
-## From news to CBI case: Union MoS Jitendra Singh gives timeline of NEET paper leak probe
-“The information on the recent paper leak was received on July 8, and the case was transferred to the CBI by July 12,” Jitendra Singh said on the NEET-UG leak.
-
-## Kanwar Mela traffic plan: Delhi-Dehradun Expressway barred for kanwariya vehicles
-During the peak days of the pilgrimage, NH-58 will be closed to general traffic and all lanes will be opened exclusively for kanwariyas
-
-## Three dead, over 2 lakh affected as heavy rain triggers floods in Odisha
+## Former PM Manmohan Singh gets posthumous clean chit: Recalling the coal block ‘scam’ case
 
 
-## Did Shivangi Joshi lie about family’s financial crisis on Lock Upp? Team responds
+## The Daily Catch-Up: The NEET row returns to Centre stage
 
 
-## J&K woman alleges gangrape in the forests of North Kashmir, 2 arrested
+## IRDAI unveils reforms to boost insurance sector, improve policyholder protection
 
 
-## Amitabh Bachchan didn’t attend Mukri’s funeral, never called: ‘Filmon ki dosti aisi hai’
+## ‘My time with national team is over’: Neymar makes Brazil retirement official
 
 
-## Delhi High Court upholds 10-year jail term for mother of 3 who said abuse was ‘okay’
+## UPSC Key: Cauvery Water Dispute, Eco-Sensitive Zones and Rupee Overvalued
 
 
-## ‘Avoided them for 2 years’: How Mira Kapoor enjoys mangoes to ‘balance the heat’
+## Delhi man stabbed in face and chest in park dies, woman friend injured
 
 
-## From 54% in Class 10 to IIT Bombay: Student’s remarkable turnaround
+## Netanyahu says he’ll go to New York despite Zohran Mamdani’s arrest calls
 
 
-## Gen Z is teaching some of us to speak again
+## Amit Shah ‘culpable or incompetent’, sack him for crackdown on students: Rahul Gandhi
 
+
+## ‘Explosive demand’ for cooling continues as Europe swelters, China’s Midea says
+Chinese home appliance maker Midea reported that European demand for its air conditioners continues to soar amid recurrent heatwaves, with two of its factories receiving hundreds of thousands of new orders in a month. The factories, in the eastern city of Wuhu and the southern port city Guangzhou, r
 
 ## Hong Kong expands CMU’s global reach with Swiss, Spanish securities link
 Hong Kong’s de facto central bank has linked its securities settlement platform with Switzerland’s SIX stock exchange, giving its members direct access to securities in the Swiss and Spanish markets. The Hong Kong Monetary Authority (HKMA) announced the new connection between SIX and its Central Mon
@@ -153,8 +153,11 @@ Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 
 ## How ‘Hoe Hin White Flower Embrocation’ keeps a century-old family legacy in bloom
 For any family business built up over many decades, succession is rarely as simple as passing down a title. Each generation must understand the values and qualities that have made the company popular with customers, while finding ways to carry on its legacy and ensure it endures. That process often 
 
-## China’s ATRenew has big plans for Hong Kong’s little-known phone trading hub
-China’s largest second-hand electronics platform, ATRenew, plans to use its technology and trading standards to modernise Hong Kong’s huge wholesale market for pre-owned devices, as it seeks to make the city a springboard for its global expansion. The New York-listed company on Tuesday launched Fone
+## The Paradox of Self-Reliance
+Building an independent defense industry does not mean going it alone.
+
+## Coming to Terms With Middle-Power Populism
+How to build a world order with leaders who prefer Trump to Carney.
 
 ## The Wildberries Theory of Russian Defeat
 After oil refineries and cargo ships, Ukraine is now taking out Russian e-commerce.
@@ -173,12 +176,6 @@ The leaders of Ukraine and Israel both came to Washington to curry U.S. favor.
 
 ## Compromised Candidates
 How backroom deals shape the race for secretary-general and prevent U.N. reform.
-
-## What a Powerful El Niño Means for the World
-Governments are bracing for the fallout of the intense weather phenomenon.
-
-## Washington Can’t Keep Ignoring Minab
-A human rights-centered foreign policy is both a moral imperative and a geopolitical necessity.
 
 ## The Quad and ASEAN’s First Step Off The Fence
 For the first time, the Quad issued a dedicated joint statement on cooperation with ASEAN.
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war
-F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.
+## Why Saudi Arabia holds the key to Palestinian statehood
+Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.
 
-## American, Asian confederations blindsided by FIFA’s World Cup plan
-Americas governing body 'deeply concerned' by lack of due process in FIFA private investment plan, AFC 'disappointed'.
+## Indian student in Russia says he’s been wrongly charged over Bihar protests
+An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.
 
-## Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?
-The US says it intercepted an Iranian 'surprise attack' on US forces as fears rise of wider war.
+## US and Israeli leaders expected ‘swift outcome’ in Iran
+New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.
 
-## Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?
-How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.
+## ‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes
+'There is no ceasefire' say Palestinians in Gaza after new Israeli strikes
 
-## ‘Iran attacks now to send message as US assets build up in Israel’
-‘Iran attacks now to send message as US assets build up in Israel’
+## How a seaweed bloom is affecting tourism in Mexico
+In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.
 
-## Married couple deported by ICE killed in Guatemala
-Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.
+## Fragile peace in Syria’s Set Zaynab as sectarian challenges persist
+Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.
 
-## EU crisis chief urges tougher climate action amid France, Spain wildfires
-Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.
+## How are AI models able to autonomously hack others?
+The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input.
 
-## Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’
-Russia's FSB says Telegram has not pulled content used by Ukrainian intelligence and 'terrorist' groups to plan attacks.
+## Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan
+FIFA's president lobbies for latest, and heavily criticised, proposal for investment in football's governing body.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
