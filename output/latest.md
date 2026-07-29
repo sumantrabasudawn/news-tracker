@@ -1,67 +1,79 @@
 # AION Intelligence
 
+## CMA drops pursuit of private equity executives over price gouging
+UK regulator decides not to pursue ban against two former Cinven executives
+
+## Grant Thornton seals accounting sector’s largest takeover in a generation
+US audit and consulting firm to buy publicly listed CBIZ for $5bn in all-cash deal
+
+## Burnham opens door to tax rises to pay for social care overhaul
+Prime minister says he wants to avoid people having to sell their homes to pay for care
+
+## Assisted dying debate should wait until social care is fixed, Burnham says
+Prime minister’s comments dash Labour MPs’ hopes of reviving contentious legislation later this year
+
+## Populism will eat itself
+A movement that admires belligerence and confrontation will turn on its own in the end
+
+## The thrill of South Korea’s ‘dopamine apps’
+One faux delivery site allows users to select and order food without paying money or receiving anything
+
+## EU warns it will investigate Fifa’s $20bn commercial venture
+Bloc joins wave of indignation at Fifa’s plan to raise billions from outside investors
+
+## Russia puts Telegram founder Pavel Durov on international wanted list
+Kremlin’s fight with messaging app chief escalates as he is charged with ‘facilitating terrorist activities’
+
+## How long can big investors ignore climate risk?
+Shift by Nesta Trust of funds from a US asset manager to a European one highlights the divergence
+
+## Daily Mail publisher seeks £10mn upfront from Prince Harry and other claimants
+Demand to immediately cover part of Associated Newspapers’ “eye-watering” legal costs after lost privacy lawsuit
+
 ## FirstFT: Mark Zuckerberg says US should not ban Chinese AI
 Also in today’s newsletter: Iran launches surprise attack on US forces, and a PwC report riddled with AI-generated errors
-
-## Tech rout roils markets after SK Hynix profits disappoint
-South Korean chip giant misses analyst expectations but insists risk of memory oversupply remains ‘limited’
-
-## BNY to adopt blockchain technology for records in new era for Wall Street
-Banks rush to embrace tokenised system blurring the lines between traditional finance and digital asset ecosystem
-
-## Inflation gauge reboot to ease pressure on Fed to raise interest rates
-Updates to official statistics are expected to show prices rising less quickly
-
-## Asia’s richest man Adani weighs bid for UK’s top port operator
-Indian industrialist considers offer for Associated British Ports as two Canadian pension funds prepare to sell stakes
-
-## What’s up with CCC-rated bond spreads?
-Whatcha gon’ do with all that junk
-
-## US says it intercepted ‘surprise’ Iranian missile attack
-Incident ends a days-long pause in direct air strikes
-
-## Burnham has Labour voters’ attention but for how long?
-Whether core voters stay onside remains to be seen, while opposition parties’ strategies look unconvincing
 
 ## Hermès shares drop as investors fret over weak China luxury market
 Luxury goods group hit by fall in tourist shopping in the Gulf
 
-## Aston Martin defends contentious £550mn debt deal
-UK carmaker reports bigger than expected quarterly loss
+## Copper futures: Uptrend valid
+Roll-over the longs to August futures
 
-## Greggs profits rise despite heatwave and growth worries
-Baker has continued its expansion in face of scepticism over UK’s continued appetite for its sausage rolls
+## ITC Infotech ties up with Google Cloud to drive AI-powered growth
+By embedding AI into its own operations first, ITC Infotech will offer customers implementation experience anchored in measurable business result
 
-## Kering’s shares rise 11% after Gucci owner returns to growth
-Strong demand for jewellery and eyewear delivers luxury group’s first sales increase in three years
+## GST rollout boosted state tax revenues, buoyancy, says India Ratings
+The top five states with the highest tax buoyancy, post GST implementation, are Manipur, Nagaland, Goa, Maharashtra and Sikkim
 
-## Q1 Results Today Live: Adani Enterprises con. loss at ₹1462 cr, Vedanta Oil logs ₹695 cr profit, Asian Paints, Adani Ports, Colgate, V-Guard Q1 profit rise, Thangamayil Jewellery shares tank 10% after results, Eicher Motors, Waaree Energies, Prestige Estates, Dabur, ACME Solar to announce Q1 results
-Q1 Results Today, 29th July 2026 Live Updates: Stay tuned for more from businessline
+## El Niño, the Indian Ocean Dipole, and the Indian Economy: A 2026 reality check
+This meteorological event will severely test the government’s ability to deal with food stock and rural safety nets in the coming months
 
-## Sensex today | Stock Market Live: Sensex rises 888 pts to close at 77,654, Nifty ends at 24,250; Hindustan Unilever, Infosys top gainers
-Sensex, Nifty, Share Prices Live: Sensex settled 888.68 pts or 1.16% higher at 77,654.60, and Nifty 50 gained 264.85 pts or 1.10% to 24,250.20.
+## Deep depression drags rain fury west; targets MP, Gujarat next
+IMD has warned of heavy to very heavy rainfall and extremely heavy falls, over West Madhya Pradesh on Thursday after issuing a similar alert for Vidarbha and Chhattisgarh on Wednesday
 
-## Jammu & Kashmir Bank Q1 net drops 11.5% to ₹429 crore
-Total income rises to ₹3,765 crore during June quarter of FY27, from ₹3,521 crore in the corresponding period of last fiscal; Net Interest Income (NII) increases 2% to ₹1,497 crore
+## IPL’s business value soars to $20.6 billion, RCB most valued franchise
+Royal Challengers Bengaluru was ranked as the most valuable franchise with a brand value of $312 million, up 16 per cent year-on-year, becoming the first franchise to cross the $ 300 million-mark
 
-## India's mobile phone exports jump 165-fold in a decade to ₹2.59 lakh crore: Govt
-On memory chip manufacturing, the minister said two companies are currently producing memory chips in India
+## Sensex, Nifty rise as investors shrug off Iran attack; IT stocks lead fourth straight rally
+Nifty IT index surges 2.3% for fourth consecutive session, extending its three-day rally to around 8% and its monthly gain to over 17%
 
-## Coal India arm SECL says it closed 28 abandoned mines in two financial years
-SECL aims to close 11 mines in the current fiscal and the remaining 15 mines in 2027-28, completing the scientific closure of all identified abandoned mines in phases
+## HashKey Proposes to Acquire Entire Equity Interests in Singapore's APEX
+HashKey Proposes to Acquire Entire Equity Interests in Singapore's APEX
 
-## Colgate-Palmolive India Q1 profit rises 7% to ₹343 crore as premium toothpaste demand lifts sales 12%
-Consolidated revenue from operations increased 11.8% to ₹1,603.30 crore from ₹1,434.06 crore
+## ITR filing deadline nears: How to file income tax return online on e-filing portal - quick 15-step guide
+The process to file the income tax return has evolved over the last few years and the income tax portal now pre-fills a lot of your tax related information drawing from information in documents such as Form 16, Form 26AS, Annual Information Statement (AIS), bank records etc.
 
-## [CityUHK Research for the Future] From wired to wireless: CityUHK's world‑class research transforms wireless charging
-[CityUHK Research for the Future] From wired to wireless: CityUHK's world‑class research transforms wireless charging
+## GST boost: Maharashtra emerges as India’s top state tax contributor
+Maharashtra now leads states in tax revenue after the Goods and Services Tax implementation. This growth is supported by high domestic consumption and a large services sector. State tax collections have strengthened significantly since the GST reform began. Tax buoyancy for twenty-six states improve
 
-## Billet Manufacturing division of Remal Alcast achieves AS9100D Certificate for Aerospace and Defence
-Billet Manufacturing division of Remal Alcast achieves AS9100D Certificate for Aerospace and Defence
+## ‘Made in India’ phones go global: Smartphone exports jump 165 times to Rs 2.59 lakh crore
+India's electronics manufacturing sector has seen substantial growth over the past decade. Mobile phone exports have increased significantly, reaching approximately Rs 2.59 lakh crore by 2025-26. Domestic mobile phone production has also risen around 33 times during the same period. The broader elec
 
-## Stock market today: Sensex climbs over 800 points; Nifty gains 1%
+## Payday winners: India’s salary hikes projected at 8.6%-10.2%; who gets the most?
+Professionals in electric vehicles, fintech, healthcare, and engineering can expect brighter salary outlooks. Fast-growing sectors and technical roles will likely see higher pay increases. Electrical engineers and quality control inspectors are projected for the strongest salary growth. Chennai, Pun
 
+## Why did stock market rise today? BSE Sensex rallies 1,000 points; Nifty50 crosses 24,250 - top reasons for rally
+Stock market today: Nifty50 and BSE Sensex rallied strongly in trade on Wednesday as IT sector stocks led the recovery. Broader markets also remained firmly positive, with the Nifty Midcap 100 and Nifty Smallcap 100 indices rising by as much as 0.6%.
 
 ## Higher US LPG imports: Why Indian Oil is looking to acquire 50% stake in very large gas carriers
 If the plan goes ahead, IOC will become the first Indian refiner to own VLGCs. At present, the company primarily depends on time-chartered vessels to transport both LPG and crude oil.
@@ -72,65 +84,59 @@ South Korea's Kospi index dropped significantly due to chipmaker weakness. SK Hy
 ## Indian IT stocks rally: Why TCS, Infosys, Wipro are rising as global AI stocks plunge
 The gains came even as India's IT sector continues to face headwinds, including subdued discretionary technology spending, pricing pressure, higher employee costs and uncertainty over how artificial intelligence could affect conventional outsourcing revenues.
 
-## Gold price prediction today: What factors will determine gold's movement? Check July 29, 2026 outlook
-Gold price prediction today: Both gold and silver prices are expected to be volatile this week ahead of the US Federal Reserve’s policy, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
+## 11 road ministry officials removed over highway collapses: Gadkari
+Nitin Gadkari said the action followed a series of failures involving bridges, flyovers and highway infrastructure across several states
 
-## India may soon get plastic notes: Why they are being introduced and what happens to paper money
-The RBI has recently floated a tender to procure material for polymer banknotes, reviving a proposal that has been under consideration for nearly two decades. Polymer notes, which are produced using durable plastic film instead of paper, generally have a longer lifespan and require replacement less 
+## Delhi court stays arrest warrant against SFI leader Aishe Ghosh over 2021 demonstration
+The court had issued the arrest warrant on April 11 after being informed that a warrant issued for Ghosh was come back unexecuted.
 
-## Rupee gains for fourth straight session as dollar weakens, oil prices remain below $90
-The Indian Rupee strengthened for a fourth straight session on Wednesday. It gained five paise against the US dollar, reaching 95.77. This rise was supported by a softer American currency and lower crude oil prices. Improved domestic equity sentiment and foreign investor buying also boosted the rupe
+## ‘I am in Russia’: Bihar man claims he was booked in NEET protest case even when abroad for 4 months
+“On July 24, there was a protest at LRP Chowk, and the Bahadurganj administration named me in that," Sadaqat says in purported video.
 
-## Top stocks to buy or sell today: Stock recommendations for July 29, 2026 - check list
-Stock market recommendations: United Breweries, and Max Healthcare are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 29, 2026. Adani Enterprises has been identified as a sell call.
+## 3 years jail, fine or both: Bill to make insult to Vande Mataram a criminal offence passed in Rajya Sabha | What we know
+If passed in the Lok Sabha, the bill will then be sent to the President for assent before being implemented as a law.
 
-## Rajya Sabha passes bill to make insult of Vande Mataram criminal offence
-The discussion witnessed protests and sloganeering from the opposition parties, who also staged a walkout amid discussion.
+## Prashant Kishor calls Nitish Kumar campaign video ‘AI’, JD(U) files complaint: What we know
+A 57-second JD(U) campaign video showed Nitish Kumar asking Bankipur voters to support NDA candidate Neeraj Kumar Sinha. Prashant Kishor claimed it was AI-made.
 
-## India in touch with Ukraine to ensure safety of 13 seafarers in Black Sea
-Five Indian seafarers have died and two more reported missing following recent Russian and Ukrainian attacks on merchant vessels in the Black Sea
+## Rajasthan: 4-yr-old girl sexually assaulted inside school washroom, say police
+Her family took her to a private hospital where a doctor, in its preliminary examination reportedly suspected sexual assault
 
-## ‘Farmers, students, youth must together corner Modi govt’: CJP's Ranka speaks at Kisan Morcha event attended by Tikait
-Ashutosh Ranka addressed Samyukta Kisan Morcha's (SKM) all-India conference in Delhi on Tuesday
+## From news to CBI case: Union MoS Jitendra Singh gives timeline of NEET paper leak probe
+“The information on the recent paper leak was received on July 8, and the case was transferred to the CBI by July 12,” Jitendra Singh said on the NEET-UG leak.
 
-## Schools shut, traffic disrupted: Farmers march to Bhopal demanding 100% moong procurement at MSP, other key demands
-The farmers' key demands include 100 per cent procurement of moong at MSP, resolution of issues with the e-token system, and timely availability of fertilisers.
+## Kanwar Mela traffic plan: Delhi-Dehradun Expressway barred for kanwariya vehicles
+During the peak days of the pilgrimage, NH-58 will be closed to general traffic and all lanes will be opened exclusively for kanwariyas
 
-## NHRC takes suo motu case on Assam factory blast deaths, seeks report in 2 weeks
-The NHRC issued notices to the Assam government’s chief secretary and the senior superintendent of police
-
-## Top quotes from Rahul Gandhi's speech that triggered ruckus in Parliament
-Rahul Gandhi accused the Home Minister of ordering the use of force against students and the NDA MPs took strong objection to his remarks.
-
-## Nepalese man sentenced to 10 years RI for kidnapping and sexually assaulting Palghar girl in 2018
-Nepalese man sentenced to 10 years RI for kidnapping and sexually assaulting Palghar girl in 2018
-
-## ITR deadline on July 31: Extension, penalties, refund, 5 things taxpayers should know
-The deadline to file income tax returns for 2026-27 is almost here, and many taxpayers are still waiting to complete the process.
-
-## ‘Priyanka Chopra looked ordinary’: Suneel Darshan says she got Andaaz after nose surgery
+## Three dead, over 2 lakh affected as heavy rain triggers floods in Odisha
 
 
-## Ram Charan undergoes wrist surgery after Peddi injury: Doctor explains TFCC tear, recovery
+## Did Shivangi Joshi lie about family’s financial crisis on Lock Upp? Team responds
 
 
-## What’s the Cauvery dispute and how does the Mekedatu dam feature in it?
+## J&K woman alleges gangrape in the forests of North Kashmir, 2 arrested
 
 
-## NEET ‘paper leak’ case: CBI’s 20,000-page chargesheet reaches fast-track court
+## Amitabh Bachchan didn’t attend Mukri’s funeral, never called: ‘Filmon ki dosti aisi hai’
 
 
-## Why Misir Besra’s arrest could mark the end of the Maoist insurgency
+## Delhi High Court upholds 10-year jail term for mother of 3 who said abuse was ‘okay’
 
 
-## ‘Use of pellet gun, iron rod’: Complaint claims ‘police excesses’ at CJP protest
+## ‘Avoided them for 2 years’: How Mira Kapoor enjoys mangoes to ‘balance the heat’
 
 
-## Indian Embassy monitors ship carrying 13 Indians amid Ukraine drone attacks
+## From 54% in Class 10 to IIT Bombay: Student’s remarkable turnaround
 
 
-## Google launches Gemini Spark, a 24/7 personal AI agent, in India
+## Gen Z is teaching some of us to speak again
 
+
+## Hong Kong expands CMU’s global reach with Swiss, Spanish securities link
+Hong Kong’s de facto central bank has linked its securities settlement platform with Switzerland’s SIX stock exchange, giving its members direct access to securities in the Swiss and Spanish markets. The Hong Kong Monetary Authority (HKMA) announced the new connection between SIX and its Central Mon
+
+## The CXMT shock: how China’s viable alternatives punch Nvidia, Micron, SK Hynix shares
+China’s increasing clout in the global semiconductor supply chain is accelerating the unravelling of the artificial-intelligence trade, as expectations grow that the Asian nation will challenge foreign tech juggernauts by supplying the world with cheaper alternative products. The US$9.8 billion stoc
 
 ## Chinese MLCC firms’ profits and stock prices fatten on hunger for electronic ‘rice’
 Chinese manufacturers of multilayer ceramic capacitors (MLCCs) – tiny components required in great numbers to regulate electrical flow in electronic devices – are riding a stock rally on the back of explosive first-half earnings, fuelled by insatiable global demand for artificial intelligence infras
@@ -150,11 +156,8 @@ For any family business built up over many decades, succession is rarely as simp
 ## China’s ATRenew has big plans for Hong Kong’s little-known phone trading hub
 China’s largest second-hand electronics platform, ATRenew, plans to use its technology and trading standards to modernise Hong Kong’s huge wholesale market for pre-owned devices, as it seeks to make the city a springboard for its global expansion. The New York-listed company on Tuesday launched Fone
 
-## Chinese AI chip giant Cambricon sets US$14.8b revenue goal tied to staff incentive plan
-Chinese artificial intelligence chip champion Cambricon Technologies has set a target of more than 100 billion yuan (US$14.8 billion) in revenue over the next three years as the prerequisite for a newly proposed employee stock incentive plan. The goal marked a nearly 20-fold increase from its previo
-
-## China’s Pop Mart opens new store in Singapore’s Sentosa amid slowing domestic sales
-Chinese toymaker Pop Mart International ramped up its global expansion on Wednesday by opening a new store on Singapore’s Sentosa Island – alongside its first overseas Pop Bakery dessert store in the same venue – with observers predicting that more overseas locations would help drive growth, especia
+## The Wildberries Theory of Russian Defeat
+After oil refineries and cargo ships, Ukraine is now taking out Russian e-commerce.
 
 ## An ASEAN Summit Consumed by Middle East Worries
 The South China Sea ran a distant second.
@@ -177,8 +180,20 @@ Governments are bracing for the fallout of the intense weather phenomenon.
 ## Washington Can’t Keep Ignoring Minab
 A human rights-centered foreign policy is both a moral imperative and a geopolitical necessity.
 
-## Why Putin Will Escalate
-The coming months will mark the most dangerous phase of Russia’s war in Ukraine.
+## The Quad and ASEAN’s First Step Off The Fence
+For the first time, the Quad issued a dedicated joint statement on cooperation with ASEAN.
+
+## A New – and Old – China Human Rights Agenda at the United Nations
+Why did China support the re-election of Volker Turk as U.N. High Commissioner for Human Rights?
+
+## Why Did China Sanction 2 High-Tech Institutions in Poland?
+Beijing has offered no explanation for why these particular Polish entities were selected, but several recent developments are worth noting.
+
+## The ‘Poisonous Heart’: Australia’s Most Secretive Base Draws New Scrutiny
+The largest U.S. spy facility in the region attracted a massive protest action amid rising concerns about the Australia-U.S. alliance.
+
+## Christianity in China: Testing Religious Freedom
+Insights from Paul H. B. Chang.
 
 ## The Cockroach Uprising: How the CJP Protest Exposed India’s Broken Institutions
 Journalist and author Snigdhendu Bhattacharya joins host Tushar Shetty to examine what the Cockroach Janata Party protests reveal about the erosion of India's democratic institutions.
@@ -188,21 +203,6 @@ Washington has moved from an emphasis on human rights to “selective” contact
 
 ## Sri Lanka’s Tariff Concession May Carry a Diplomatic Cost With China
 To avoid higher US tariffs, Sri Lanka is having to act as if allegations of forced labor against China, a country with a high level of mechanization, are credible.
-
-## What Ails India’s Education Sector
-What India needs is deep systemic changes to its education system, economy, and more generally, the life that it offers its youth.
-
-## Uzbekistan Launches Its First Tax-Free Crypto Mining Zone
-Uzbekistan wants to reap the economic benefits of cryptocurrency, while keeping the industry regulated.
-
-## RIMPAC 2026 and the Future of Multinational Maritime Operations in the Indo-Pacific
-This year's iteration of the exercise reflects several important strategic concepts – and a focus on countering China's navy.
-
-## Vietnam’s New AI Law and Its Strategic Implications
-The country's government is leading Southeast Asian efforts to regulate AI technologies, but its approach has several important shortcomings.
-
-## The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?
-The vulnerabilities of Hormuz and Malacca are fundamentally different – but a closure of the Strait of Malacca would be far worse.
 
 ## ASML’s Extreme Ultraviolet Lithography and the Limits of Reverse Engineering in China
 In June, the U.S. Department of Commerce informed the Dutch company ASML that it suspects one of its extreme ultraviolet lithography machines has reached China, an accusation that ASML denied, and for which no supporting evidence has yet been made public. ASML is the sole global producer of the mach
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war
+F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.
+
+## American, Asian confederations blindsided by FIFA’s World Cup plan
+Americas governing body 'deeply concerned' by lack of due process in FIFA private investment plan, AFC 'disappointed'.
+
+## Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?
+The US says it intercepted an Iranian 'surprise attack' on US forces as fears rise of wider war.
+
+## Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?
+How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.
+
+## ‘Iran attacks now to send message as US assets build up in Israel’
+‘Iran attacks now to send message as US assets build up in Israel’
+
+## Married couple deported by ICE killed in Guatemala
+Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.
+
 ## EU crisis chief urges tougher climate action amid France, Spain wildfires
 Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.
 
 ## Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’
 Russia's FSB says Telegram has not pulled content used by Ukrainian intelligence and 'terrorist' groups to plan attacks.
-
-## How has the Indian government responded to ‘Cockroach’ protests?
-The BJP government's response so far has been a measured crackdown as it also attempts to woo the youth.
-
-## A safe space for Gaza women: A sanctuary to speak, heal and share amid war
-A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.
-
-## US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq
-The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.
-
-## Jayden Seales takes five wickets as West Indies beat Pakistan in first Test
-West Indies take a 1-0 lead in the two-Test series after Jayden Seales dominates with the ball on day 4 in Trinidad.
-
-## Iran and Oman swap proposals to manage Strait of Hormuz: What we know
-Iran is proposing a deal that would see it have significantly more control than Oman.
-
-## Will Germany bring back mandatory military conscription next year?
-A voluntary recruitment drive has only drawn 500 people so far this year, with many more eager to opt out.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
@@ -300,6 +300,9 @@ The World Economic Forum estimates that nearly 40 per cent of workers' existing 
 ## NFRA sets 10 principles for technology use in audits, says AI cannot replace auditor judgement
 The framework calls for pre deployment validation, continuous monitoring and stronger data safeguards as audit firms increasingly use analytics, automated tools and AI, while warning against automation bias and over reliance on machine generated outputs.
 
+## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
+Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
+
 ## Govt companies request RBI to extend concessional forex swap by three months
 Public sector firms want the RBI's forex swap facility extended by three months. This facility helps government companies hedge dollar costs for external borrowing.
 
@@ -320,7 +323,4 @@ Economists predict the Reserve Bank of India will maintain its key interest rate
 
 ## Listed debt entities must list transferred unlisted NCDs after business restructuring: SEBI
 Market regulator Securities and Exchange Board of India (SEBI) has clarified that listed debt entities taking over outstanding unlisted non-convertible debentures (NCDs) as part of a corporate restructuring or business transfer cannot avoid mandatory listing requirements merely because no fresh debe
-
-## India may see up to $85 billion in forex inflows after RBI's FCNR move: Report
-India anticipates substantial Foreign Currency Non-Resident deposits, possibly reaching eighty to eighty-five billion dollars. Public sector banks are leading this significant mobilization effort, exceeding previous records. FCNR(B) deposits have already reached seventeen point forty-one billion dol
 
