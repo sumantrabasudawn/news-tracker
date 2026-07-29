@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack
+Washington says Tehran launched an attempted ‘surprise attack’ on US military installations in the Middle East
+
 ## Split Fed decision to hold rates in July
 The committee reiterated that it would ‘deliver price stability’ but chair Kevin Warsh provided little information as to how
 
@@ -8,9 +11,6 @@ Republican lawmakers threaten to hold scientist in contempt for failing to answe
 
 ## Ex-Goldman executive awarded £1.45mn after paternity leave ‘stigma’
 Jon Reeves lost his job after he took six months off to look after his baby
-
-## Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack
-Washington says Tehran launched an attempted ‘surprise attack’ on US military installations in the Middle East
 
 ## Social care reform is a test of UK politics
 Efforts to fix England’s broken system must answer the question: who pays?
@@ -108,28 +108,28 @@ On the anti-paper leak bill passed in the Lok Sabha, Abhijeet Dipke said laws wo
 ## ‘Unstable approach’: Delhi-Hyderabad flight with CM Reddy onboard lands in 2nd attempt after go-around amid rain, wind
 An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onboard had an “unstable approach” at the Hyderabad airport
 
+## Para Athletics: Dilip Gavit, Basil ensure top two podium finish for India
+
+
+## AAP attacks BJP over Laxmi Yojana, says govt wants to exclude most women in Capital
+
+
+## Digital to cash: The changing way in which people pay for Delhi Metro rides
+
+
+## Government appoints members of Delhi Medical Council over a year after it was dissolved over ‘irregularities’
+
+
+## CWG: Sreeshankar bags silver in long jump at Glasgow
+
+
+## Class 5 student sexually assaulted in school van, driver and helper arrested
+
+
+## Jamnagar Police look for body buried on factory premises
+
+
 ## Hathnikund Barrage releases water over last two days, Yamuna sees staggered rise
-
-
-## PM should become an influencer, says CJP founder Abhijeet Dipke as he returns home
-
-
-## Amid CJP warning of protests again, Delhi Police welds barricades at Jantar Mantar
-
-
-## ‘Police have no business being nosy parkers, should investigate crimes, not marriages’: Allahabad HC
-
-
-## Centre says 120 adverse events reported after nearly 56 lakh HPV vaccine doses administered, HC refuses to stay drive
-
-
-## Opposition’s next move in House: Raising Ram temple ‘donation theft’ while continuing to target Amit Shah
-
-
-## ‘No home district posting, transfer after 3 years’: Bengal government rolls out new transfer policy for health department
-
-
-## Gujarat Confidential: Aerial ‘Surveillance’
 
 
 ## ‘Explosive demand’ for cooling continues as Europe swelters, China’s Midea says
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Videos show aftermath of US-Saudi strikes on Iraq PMF bases
+US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases
+
+## Trump’s attorney general pick faces possible Republican roadblock
+Todd Blanche, Trump's former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.
+
+## Algeria elects first-ever woman speaker of parliament
+Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.
+
+## How is Islamabad handling crisis in Pakistan-administered Kashmir?
+Fatal confrontations between security forces and protesters have marred local elections.
+
+## James Comey’s lawyers say US government distorted details in seashell case
+Case centres on social media post featuring seashells that prosecutors allege is a reference to killing President Trump.
+
+## New investigation shows how an Israeli settler escaped justice
+A Palestinian rights' group found that an Israeli settler killed Awdah Hathaleen but is still escaping justice.
+
+## Ice cream for education: Gaza cafe raises funds for studies
+In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.
+
 ## Al-Shabab kills five Kenyan security personnel in ambush
 The ambush is part of a rapid surge in cross-border attacks along Kenya's northern frontier.
-
-## Hindus take holy dip in India’s rivers on sacred holiday
-Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.
-
-## Bordeaux wildfire battle continues amid extreme heat
-Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux
-
-## Dr Anthony Fauci pleads the Fifth at Covid hearing
-Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.
-
-## US Fed holds interest rates steady citing ‘elevated’ inflation
-Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.
-
-## Libya electricity blackout protests expose country’s failing grid
-Libyans protest severe power cuts, demanding an end to corruption and grid decay.
-
-## Fire erupts on ships at Egypt’s Damietta port
-Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight.
-
-## Japan earthquake leaves widespread destruction
-Japan earthquake leaves widespread destruction
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
