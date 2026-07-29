@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Microsoft’s cloud business boosts sales as capex climbs to $41bn
+Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
+
+## US borrowing costs hit 19-year high as Fed defies inflation fears
+Central bank stands pat on rates even as investors worry Trump’s Iran war will ignite jolt of price growth
+
+## Meta tumbles 6% as sales forecast and profits disappoint
+Mark Zuckerberg under pressure over huge AI spending
+
+## Qualcomm posts shrinking sales and profits as rising costs hit smartphone market
+Net income fell 25% as higher memory chip prices hurt device business
+
 ## Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack
 Washington says Tehran launched an attempted ‘surprise attack’ on US military installations in the Middle East
 
@@ -12,17 +24,8 @@ Republican lawmakers threaten to hold scientist in contempt for failing to answe
 ## Ex-Goldman executive awarded £1.45mn after paternity leave ‘stigma’
 Jon Reeves lost his job after he took six months off to look after his baby
 
-## Social care reform is a test of UK politics
-Efforts to fix England’s broken system must answer the question: who pays?
-
-## Reality bites for South Korea’s memory chip wonder-stocks
-Even the most stalwart boom believer must now reckon with nuance
-
-## Takaichi warns of ‘race against time’ to rescue Japan earthquake survivors
-Powerful tremor in Kumamoto prefecture has left at least 14 dead
-
-## US oil inventories fall to ‘precariously low’ level as Iran war disrupts supply
-Decline could erode ability to supply Asian and European markets dependent on supplies from the Middle East
+## Infantino defends $20bn Fifa commercial venture after mounting backlash
+President of world football’s governing body says plan to sell stake to investors ‘is an opportunity and not an obligation’
 
 ## Airbus profits surge as jet deliveries rise
 World’s largest planemaker hands over 237 aircraft as supply-chain snags ease
@@ -30,11 +33,8 @@ World’s largest planemaker hands over 237 aircraft as supply-chain snags ease
 ## For sale: Saba repellent
 You’ve got a nice trust there. Would be a shame if something happened to it
 
-## Greggs shares soar as baker defies fears of sausage roll peak
-UK chain has continued its expansion in face of scepticism over continued appetite for its sausage rolls
-
-## France moves to expel pro-Kremlin TV personality
-Xenia Fedorova features prominently on media owned by billionaire Vincent Bolloré
+## Social care reform is a test of UK politics
+Efforts to fix England’s broken system must answer the question: who pays?
 
 ## Cotton imports likely to rise to a record 60 lakh bales
 Exports are taking a hit, dropping to 15 lakh bales from 18 lakh, as local consumption is on the rise and is now projected to hit 348 lakh bales this season
@@ -108,6 +108,15 @@ On the anti-paper leak bill passed in the Lok Sabha, Abhijeet Dipke said laws wo
 ## ‘Unstable approach’: Delhi-Hyderabad flight with CM Reddy onboard lands in 2nd attempt after go-around amid rain, wind
 An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onboard had an “unstable approach” at the Hyderabad airport
 
+## Delhi Confidential: Kiren Rijiju guest Appearance
+
+
+## Karnataka HC slams Civil Judge involved in road rage incident, halts probe against 2
+
+
+## Rajasthan youth’s death in ‘accident’: Why was UPSC aspirant found walking naked on road before his death, asks Gujarat HC, seeks report from govt
+
+
 ## Para Athletics: Dilip Gavit, Basil ensure top two podium finish for India
 
 
@@ -123,14 +132,8 @@ An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onb
 ## CWG: Sreeshankar bags silver in long jump at Glasgow
 
 
-## Class 5 student sexually assaulted in school van, driver and helper arrested
-
-
-## Jamnagar Police look for body buried on factory premises
-
-
-## Hathnikund Barrage releases water over last two days, Yamuna sees staggered rise
-
+## Powering Hong Kong’s Future
+As Hong Kong prepares to formulate its first Five-Year Plan (2026–2030), aligning closely with the national 15th Five-Year Plan, the city faces a defining question: how will it power its next stage of development? For Mr Joseph Law, Managing Director of CLP Power Hong Kong Limited (CLP), the answer 
 
 ## ‘Explosive demand’ for cooling continues as Europe swelters, China’s Midea says
 Chinese home appliance maker Midea reported that European demand for its air conditioners continues to soar amid recurrent heatwaves, with two of its factories receiving hundreds of thousands of new orders in a month. The factories, in the eastern city of Wuhu and the southern port city Guangzhou, r
@@ -153,8 +156,11 @@ China’s Moonshot AI, whose recently released Kimi K3 model stunned with perfor
 ## Why is Zhongji unveiling US$1.2 billion in buy-backs before its Hong Kong debut?
 Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 billion) in the run-up to its offshore listing in Hong Kong – may give global investors an anchor for pricing, as the Chinese supplier of US hyperscalers seeks to pre-empt a shaky start to trading in the city. The Chinese ma
 
-## How ‘Hoe Hin White Flower Embrocation’ keeps a century-old family legacy in bloom
-For any family business built up over many decades, succession is rarely as simple as passing down a title. Each generation must understand the values and qualities that have made the company popular with customers, while finding ways to carry on its legacy and ensure it endures. That process often 
+## U.S.-Saudi Strikes Add a New Front to the Iran War
+Iraqi militias backed by Tehran are the latest targets in the ever-expanding conflict.
+
+## How to End the Iran War
+Trump needs to learn the diplomatic art of losing well.
 
 ## Does Modi Have a Cockroach Problem?
 India’s youth-led protest movement led to a rare instance of the government giving in.
@@ -173,12 +179,6 @@ The South China Sea ran a distant second.
 
 ## Scandal Exposes Limits of China’s Scientific Rise
 The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.
-
-## Washington’s Reset With Serbia Is a Mistake
-Trump is bolstering an aspiring autocrat’s political fortunes.
-
-## Trump’s Diplomatic Doubleheader
-The leaders of Ukraine and Israel both came to Washington to curry U.S. favor.
 
 ## Who is Responsible for the June 20 Police Brutalities in New Delhi?
 Delhi Police and the Rapid Action Force, which unleashed the violence on student protesters, fall under the direct jurisdiction of Home Minister Amit Shah.
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Is Fifa selling parts of the World Cup to private investors?
+This week Fifa announced it will form a new subsidiary company to run part of the World Cup and offer a 20% stake.
+
+## Myanmar court sentences activists to 37 years over election protest
+Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.
+
+## FIFA charges Argentina after World Cup final brawl with Spain
+FIFA hits Argentina with World Cup charges for scuffle after final with Spain and 'Malvinas' banner after England game.
+
+## Trump threatens Iran strikes after attack on US base in Jordan
+”It’s our turn.” President Donald Trump says the US will hit Iran “very hard” following an attack on US forces in Jordan
+
 ## Videos show aftermath of US-Saudi strikes on Iraq PMF bases
 US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases
 
@@ -263,18 +275,6 @@ Khalida Boufedeche of the National Liberation Front has become the first-ever wo
 
 ## How is Islamabad handling crisis in Pakistan-administered Kashmir?
 Fatal confrontations between security forces and protesters have marred local elections.
-
-## James Comey’s lawyers say US government distorted details in seashell case
-Case centres on social media post featuring seashells that prosecutors allege is a reference to killing President Trump.
-
-## New investigation shows how an Israeli settler escaped justice
-A Palestinian rights' group found that an Israeli settler killed Awdah Hathaleen but is still escaping justice.
-
-## Ice cream for education: Gaza cafe raises funds for studies
-In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.
-
-## Al-Shabab kills five Kenyan security personnel in ambush
-The ambush is part of a rapid surge in cross-border attacks along Kenya's northern frontier.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
