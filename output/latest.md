@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Split Fed decision to hold rates in July
+The committee reiterated that it would ‘deliver price stability’ but chair Kevin Warsh provided little information as to how
+
 ## Fauci invokes Fifth Amendment at fiery Senate hearing on Covid-19
 Republican lawmakers threaten to hold scientist in contempt for failing to answer questions
 
@@ -21,26 +24,17 @@ Powerful tremor in Kumamoto prefecture has left at least 14 dead
 ## US oil inventories fall to ‘precariously low’ level as Iran war disrupts supply
 Decline could erode ability to supply Asian and European markets dependent on supplies from the Middle East
 
-## France moves to expel pro-Kremlin TV personality
-Xenia Fedorova features prominently on media owned by billionaire Vincent Bolloré
+## Airbus profits surge as jet deliveries rise
+World’s largest planemaker hands over 237 aircraft as supply-chain snags ease
+
+## For sale: Saba repellent
+You’ve got a nice trust there. Would be a shame if something happened to it
 
 ## Greggs shares soar as baker defies fears of sausage roll peak
 UK chain has continued its expansion in face of scepticism over continued appetite for its sausage rolls
 
-## Nvidia’s chips may be novel, but its ‘circular financing’ isn’t
-Chipmaker is basically writing cheques to enable its customers to buy more of its products than they could otherwise afford
-
-## Airbus profits climb as jet deliveries rise
-Planemaker delivers 237 aircraft in second quarter, up 39% from a year ago
-
-## Here’s how to make North Sea drilling compatible with net zero
-Energy project licences should be conditional on carbon dioxide disposal
-
-## L’Oréal chief plans to more than triple sales of Gucci beauty products
-French group will take on beauty licence for luxury brand next year after buying rights from owner Kering in €4bn deal
-
-## Wildfire evacuations hurt France’s oyster capital
-About half of shellfish farms in Cap Ferret affected, according to industry officials
+## France moves to expel pro-Kremlin TV personality
+Xenia Fedorova features prominently on media owned by billionaire Vincent Bolloré
 
 ## Cotton imports likely to rise to a record 60 lakh bales
 Exports are taking a hit, dropping to 15 lakh bales from 18 lakh, as local consumption is on the rise and is now projected to hit 348 lakh bales this season
@@ -66,6 +60,9 @@ Fuel control switch detents carried out at the OEM facility in Seattle did not r
 ## India’s corporate bond market matures
 India’s corporate bond market is shifting from a bank-dominated credit model toward a market-based structure. According to a report from Crisil, private issuers led by NBFCs have reached a record share of issuance, surpassing their long-run average. Even as high-grade AAA paper continues to dominate
 
+## US Federal Reserve meet today: Kevin Warsh-led FOMC keeps interest rates unchanged
+The US Federal Reserve, which began its two-day policy meeting on Tuesday, was widely expected to leave its benchmark interest rate unchanged.
+
 ## India-US trade pact: Piyush Goyal explains the one condition to seal the deal
 India's trade pact with the US awaits tariff competitiveness restoration for its first phase. Minister Piyush Goyal stated India needs a comparative advantage over rival nations. This condition must be met before the bilateral trade agreement can commence. Meanwhile, a US legislative proposal could 
 
@@ -86,9 +83,6 @@ The process to file the income tax return has evolved over the last few years an
 
 ## GST boost: Maharashtra emerges as India’s top state tax contributor
 Maharashtra now leads states in tax revenue after the Goods and Services Tax implementation. This growth is supported by high domestic consumption and a large services sector. State tax collections have strengthened significantly since the GST reform began. Tax buoyancy for twenty-six states improve
-
-## ‘Made in India’ phones go global: Smartphone exports jump 165 times to Rs 2.59 lakh crore
-India's electronics manufacturing sector has seen substantial growth over the past decade. Mobile phone exports have increased significantly, reaching approximately Rs 2.59 lakh crore by 2025-26. Domestic mobile phone production has also risen around 33 times during the same period. The broader elec
 
 ## Bangladesh 'reviewing' PM Modi's invitation to PM Rahman to visit India: FM
 Foreign Minister Khalilur Rahman made the comments when asked about India's invitation to PM Tarique Rahman to attend the upcoming 18th BRICS Summit in Delhi.
@@ -114,28 +108,28 @@ On the anti-paper leak bill passed in the Lok Sabha, Abhijeet Dipke said laws wo
 ## ‘Unstable approach’: Delhi-Hyderabad flight with CM Reddy onboard lands in 2nd attempt after go-around amid rain, wind
 An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onboard had an “unstable approach” at the Hyderabad airport
 
-## Pitch-a-friend dating trend: Why singles are ditching apps for friend-led matchmaking
+## Hathnikund Barrage releases water over last two days, Yamuna sees staggered rise
 
 
-## Prime Minister Facebook post: Meta writes to government, outlines rigorous safeguards for posts by prominent accounts
+## PM should become an influencer, says CJP founder Abhijeet Dipke as he returns home
 
 
-## ‘No prospect of early conclusion’: In jail for 12 years, 2 UAPA accused get bail
+## Amid CJP warning of protests again, Delhi Police welds barricades at Jantar Mantar
 
 
-## HC puts Punjab pharmacist recruitment on hold over alleged hi-tech cheating racket
+## ‘Police have no business being nosy parkers, should investigate crimes, not marriages’: Allahabad HC
 
 
-## ‘US will beat the f*****g s**t out of them’: Trump warns Iran of major escalation
+## Centre says 120 adverse events reported after nearly 56 lakh HPV vaccine doses administered, HC refuses to stay drive
 
 
-## Amid row, Suvendu says Bengal govt to provide eggs with ISKCON-cooked veg food in mid-day meals
+## Opposition’s next move in House: Raising Ram temple ‘donation theft’ while continuing to target Amit Shah
 
 
-## Litton Das appointed new Bangladesh ODI captain
+## ‘No home district posting, transfer after 3 years’: Bengal government rolls out new transfer policy for health department
 
 
-## Paper’ ‘leak’ at Gujarat Ayurved University: Students’ wings of 3 political parties stage protests
+## Gujarat Confidential: Aerial ‘Surveillance’
 
 
 ## ‘Explosive demand’ for cooling continues as Europe swelters, China’s Midea says
@@ -162,6 +156,9 @@ Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 
 ## How ‘Hoe Hin White Flower Embrocation’ keeps a century-old family legacy in bloom
 For any family business built up over many decades, succession is rarely as simple as passing down a title. Each generation must understand the values and qualities that have made the company popular with customers, while finding ways to carry on its legacy and ensure it endures. That process often 
 
+## Does Modi Have a Cockroach Problem?
+India’s youth-led protest movement led to a rare instance of the government giving in.
+
 ## The Paradox of Self-Reliance
 Building an independent defense industry does not mean going it alone.
 
@@ -183,32 +180,29 @@ Trump is bolstering an aspiring autocrat’s political fortunes.
 ## Trump’s Diplomatic Doubleheader
 The leaders of Ukraine and Israel both came to Washington to curry U.S. favor.
 
-## Compromised Candidates
-How backroom deals shape the race for secretary-general and prevent U.N. reform.
+## Who is Responsible for the June 20 Police Brutalities in New Delhi?
+Delhi Police and the Rapid Action Force, which unleashed the violence on student protesters, fall under the direct jurisdiction of Home Minister Amit Shah.
+
+## From Hanoi to Manila: Japan’s Updated ‘Free and Open Indo-Pacific’ Takes Shape
+Tokyo's Manila diplomacy linked ASEAN security cooperation to a wider Indo-Pacific network stretching to the Pacific Islands.
+
+## Tokayev Urges Russia to ‘Freeze’ Ukraine Conflict While Embracing ‘Allied Relationship’
+Tokayev's call for peace talks came alongside remarks on Kazakhstan's enduring strategic cooperation and alliance with Russia.
+
+## How Indonesia and Singapore Handle Information Pressure
+From election debates to AI‑manipulated content, audiences in both countries rely on legacy media for credibility while increasingly consuming politics through fast, visual, and creator‑driven formats.
+
+## Alleged Cambodia Scam Kingpin Chen Zhi Could Face the Death Penalty in China
+Myanmar follows Beijing's lead in amending anti-scam laws as crime syndicates shift operations.
+
+## Following Expansion in China, Regional Private Equity Faces New Scrutiny in Southeast Asia
+An overreliance on China is one issue.
+
+## Indonesia Eyes Closer Relations With Madagascar
+A recent bilateral exchange hinted that Jakarta is taking a greater interest in its Austronesian cousin on the other side of the Indian Ocean.
 
 ## The Quad and ASEAN’s First Step Off The Fence
 For the first time, the Quad issued a dedicated joint statement on cooperation with ASEAN.
-
-## A New – and Old – China Human Rights Agenda at the United Nations
-Why did China support the re-election of Volker Turk as U.N. High Commissioner for Human Rights?
-
-## Why Did China Sanction 2 High-Tech Institutions in Poland?
-Beijing has offered no explanation for why these particular Polish entities were selected, but several recent developments are worth noting.
-
-## The ‘Poisonous Heart’: Australia’s Most Secretive Base Draws New Scrutiny
-The largest U.S. spy facility in the region attracted a massive protest action amid rising concerns about the Australia-U.S. alliance.
-
-## Christianity in China: Testing Religious Freedom
-Insights from Paul H. B. Chang.
-
-## The Cockroach Uprising: How the CJP Protest Exposed India’s Broken Institutions
-Journalist and author Snigdhendu Bhattacharya joins host Tushar Shetty to examine what the Cockroach Janata Party protests reveal about the erosion of India's democratic institutions.
-
-## America’s Changing Policy on Afghanistan
-Washington has moved from an emphasis on human rights to “selective” contacts driven by specific cases. That's a win for the Taliban.
-
-## Sri Lanka’s Tariff Concession May Carry a Diplomatic Cost With China
-To avoid higher US tariffs, Sri Lanka is having to act as if allegations of forced labor against China, a country with a high level of mechanization, are credible.
 
 ## How Mexico Locked In Its Militarized Police State
 In 2021, Andrew Ivey wrote, “‘I Have Other Data’: The Guardia Nacional and the Entrenchment of Mexico’s Militarization’,” where he warned Mexico was headed toward a militarization trap. Five years later, amidst increased pressure from the Trump administration and the election of a new Mexican presid
@@ -258,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South Korea’s stock market plunges as AI-driven boom fades
-The benchmark KOSPI .KS11 sees steep decline as interest in chipmakers falls.
+## Al-Shabab kills five Kenyan security personnel in ambush
+The ambush is part of a rapid surge in cross-border attacks along Kenya's northern frontier.
 
-## Iran pushes back against US as regional attacks heat up
-New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.
+## Hindus take holy dip in India’s rivers on sacred holiday
+Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.
 
-## Democrat senators ask US SEC to probe Trump Media’s fast feed sale
-Trump Media has discussed charging as much as $100,000 a month for the Truth API product for buyers to get first access.
+## Bordeaux wildfire battle continues amid extreme heat
+Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux
 
-## Fauci invokes Fifth Amendment in heated COVID-19 Senate hearing
-Physician declines to answer Senate questions as Republicans like Rand Paul accuse him of covering up COVID's origins.
+## Dr Anthony Fauci pleads the Fifth at Covid hearing
+Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.
 
-## Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work
-Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.
+## US Fed holds interest rates steady citing ‘elevated’ inflation
+Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.
 
-## Is the world at risk of another energy shock?
-Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.
+## Libya electricity blackout protests expose country’s failing grid
+Libyans protest severe power cuts, demanding an end to corruption and grid decay.
 
-## Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors
-Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal that moves 'people's game' further from fans.
+## Fire erupts on ships at Egypt’s Damietta port
+Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight.
 
-## Trump says US to deliver ‘beating’ to Iran after bases again targeted
-US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.
+## Japan earthquake leaves widespread destruction
+Japan earthquake leaves widespread destruction
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
