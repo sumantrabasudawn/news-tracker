@@ -1,61 +1,70 @@
 # AION Intelligence
 
+## Saudi Arabia joins US strikes on Iran-backed militias in Iraq
+Iran also fired ballistic missiles at US forces in Jordan, ending a days-long pause in direct air strikes
+
+## Tom Holland and Zendaya are the saving grace of Spider-Man: Brand New Day
+The pair has gifted Marvel with a series of commercial bangers but don’t expect novelty from the latest episode
+
+## Wildfire evacuations hurt France’s oyster capital
+About half of shellfish farms in Cap Ferret affected, according to industry officials
+
+## The pathway to prosperity is getting harder for developing countries
+The rules-based global market in which rich nations tolerate trade surpluses does not exist any more
+
+## Elon Musk settles long-running legal battle with X advertising group
+Billionaire had accused brands of organising an illegal boycott
+
+## South Korea cracks down on risky retail funds after tech rout
+Regulators move to limit access to leveraged ETF products after Kospi falls by a third this month
+
 ## EU warns it will investigate Fifa’s $20bn commercial venture
 Bloc joins protests against plans by football’s governing body to raise billions from outside investors
 
 ## Burnham opens door to tax rises to pay for social care overhaul
 Prime minister says he wants to avoid people having to sell their homes to pay for care
 
-## Elon Musk settles long-running legal battle with X advertisers
-Billionaire had accused brands of organising an illegal boycott
+## Zijin’s $4bn deal with Allied Gold collapses
+Objections from Chinese regulators put tie-up on rocks before the two groups cancelled acquisition
 
 ## Brookfield to turn former nuclear weapons site into AI campus
 Canadian investment group to partner utility NextEra on data centre in Kentucky
 
-## Trump vows to deliver ‘beating’ to Iran in retaliation for latest attack
-Washington says Tehran launched ballistic missiles at US military installations in the Middle East
-
-## Burham dashes hopes of assisted dying law
-Prime minister says contentious change should wait until after solutions are found for social care and palliative care
-
-## Half of England declared in drought after heatwaves
-Second summer drought in two years is ‘exceptionally serious’, says Environment Agency
-
-## CMA drops pursuit of private equity executives over price gouging
-UK regulator decides not to pursue ban against two former Cinven executives
-
-## Zijin’s $4bn deal with Allied Gold collapses
-Objections from Chinese regulators put tie-up on rocks before the two groups cancelled acquisition
-
 ## Daily Mail publisher seeks £10mn upfront from Prince Harry and other privacy claimants
 Demand for ‘eye-watering’ costs threatens to leave gap in celebrities’ insurance cover after lost lawsuit
 
-## Ferrari EV designed by Jony Ive has already hit 2026 sales target
-Italian carmaker reports strong demand from China for electric model derided for its unconventional design
-
-## SBI Card, Google Pay launch co-branded credit card for everyday digital spending
-The new offering combines SBI Card’s credit card expertise with Google Pay’s rapidly expanding digital payments ecosystem.
-
-## Panel seeks to make SEBI's enforcement framework more legally sustainable
-The proposed Securities Markets Code strengthens due process and investor safeguards without diluting regulatory powers
+## India’s corporate bond market matures
+India’s corporate bond market is shifting from a bank-dominated credit model toward a market-based structure. According to a report from Crisil, private issuers led by NBFCs have reached a record share of issuance, surpassing their long-run average. Even as high-grade AAA paper continues to dominate
 
 ## IPL’s business value soars to $20.6 billion, RCB most valued franchise
 Royal Challengers Bengaluru was ranked as the most valuable franchise with a brand value of $312 million, up 16 per cent year-on-year, becoming the first franchise to cross the $ 300 million-mark
 
-## Tredence Positioned as a 'Leader' in AIM Research's Top AI Service Providers for Life Sciences & Healthcare PeMa Quadrant 2026
-Tredence Positioned as a 'Leader' in AIM Research's Top AI Service Providers for Life Sciences & Healthcare PeMa Quadrant 2026
+## Deep depression drags rain fury west; targets MP, Gujarat next
+IMD has warned of heavy to very heavy rainfall and extremely heavy falls, over West Madhya Pradesh on Thursday after issuing a similar alert for Vidarbha and Chhattisgarh on Wednesday
 
-## Zepto likely to cut IPO size, lower valuation expectations as anchor investor talks continue: Sources
-The company is discussing an IPO valuation of around $2.5-3 billion, significantly lower than the $7 billion valuation at which it raised $450 million from investors led by CalPERS in October 2025
+## Indian rice prices increase on El Nino factor, but still stay competitive f.o.b basis
+Including cost and freight, Pakistan’s limited availability of rice poses stiff competition on cheaper container availability
 
-## Q1 Results Today Live: Adani Enterprises con. loss at ₹1462 cr, Vedanta Oil logs ₹695 cr profit, Asian Paints, Adani Ports, Colgate, V-Guard Q1 profit rise, Thangamayil Jewellery shares tank 10% after results; Eicher Motors, Waaree Energies, Prestige Estates, Dabur, ACME Solar to announce Q1 results
-Q1 Results Today, 29th July 2026 Live Updates: Stay tuned for more from businessline
+## Q1 Results Today Highlights: Adani Enterprises con. loss at ₹1,462 cr, Vedanta Oil logs ₹695 cr profit, Asian Paints, Adani Ports, Colgate, V-Guard Q1 profit rise, Thangamayil Jewellery shares tank 10% after results; Eicher Motors PAT up 21%, Waaree Energies' rise 15%, Dabur's up 15%, ACME Solar con. profit zooms 80%
+Q1 Results Today, 29th July 2026 Highlights: Stay tuned for more from businessline
 
-## Star Health Q1 PAT up 25% at ₹550 crore under Ind AS accounting
-Underwriting profit sharply higher at ₹111 crore
+## Manipal Health IPO: Leading operator at premium valuation
+High acquisition led growth should be monitored after listing for stock exposure
 
-## SC closes coal block allocation case against former PM Manmohan Singh
-Singh passed away in December 2024, but the case and the aftertaste of the adverse observations of the trial court continued to linger on
+## Sensex, Nifty rise as investors shrug off Iran attack; IT stocks lead fourth straight rally
+Nifty IT index surges 2.3% for fourth consecutive session, extending its three-day rally to around 8% and its monthly gain to over 17%
+
+## Services sector showed moderation in May due to lower growth in retail trade, road transport, IT and admin & support
+Number of sectors with double digit growth came down
+
+## India-US trade pact: Piyush Goyal explains the one condition to seal the deal
+India's trade pact with the US awaits tariff competitiveness restoration for its first phase. Minister Piyush Goyal stated India needs a comparative advantage over rival nations. This condition must be met before the bilateral trade agreement can commence. Meanwhile, a US legislative proposal could 
+
+## What India needs to do to respond to emerging global challenges, high crude oil prices: Finance Ministry outlines
+The report stressed that deeper domestic reforms and quicker policy execution will be essential to alter the country's long-term economic trajectory.
+
+## Oil prices jump over 7% as Middle East chaos flares up, brent crude back at $90 per barrel
+Oil prices surged over seven percent on Wednesday amid renewed Middle East military actions. This rally was also supported by industry data showing a drawdown in US crude inventories. Renewed strikes involving the United States and Iran-backed groups reignited supply concerns. Disruptions continued 
 
 ## US stock market today: Wall Street in red ahead of US Federal Reserve policy review; oil prices climb
 Markets are currently assigning about a 36% probability to a US rate hike, which, if delivered, would mark the first increase in three years. While higher interest rates help curb inflation, they can also dampen economic activity and weigh on equity valuations.
@@ -72,61 +81,52 @@ Maharashtra now leads states in tax revenue after the Goods and Services Tax imp
 ## ‘Made in India’ phones go global: Smartphone exports jump 165 times to Rs 2.59 lakh crore
 India's electronics manufacturing sector has seen substantial growth over the past decade. Mobile phone exports have increased significantly, reaching approximately Rs 2.59 lakh crore by 2025-26. Domestic mobile phone production has also risen around 33 times during the same period. The broader elec
 
-## Payday winners: India’s salary hikes projected at 8.6%-10.2%; who gets the most?
-Professionals in electric vehicles, fintech, healthcare, and engineering can expect brighter salary outlooks. Fast-growing sectors and technical roles will likely see higher pay increases. Electrical engineers and quality control inspectors are projected for the strongest salary growth. Chennai, Pun
+## 13 Indian seafarers remain stranded aboard MV AMIR1 at Chornomorsk port: Ukrainian Embassy
+Ukrainian Embassy said that disturbing news continues to emerge from Ukraine's Black Sea ports, as it claimed that Russia has “intensified its attacks”.
 
-## Why did stock market rise today? BSE Sensex rallies 1,000 points; Nifty50 crosses 24,250 - top reasons for rally
-Stock market today: Nifty50 and BSE Sensex rallied strongly in trade on Wednesday as IT sector stocks led the recovery. Broader markets also remained firmly positive, with the Nifty Midcap 100 and Nifty Smallcap 100 indices rising by as much as 0.6%.
+## 'Leave the chair, become an influencer': CJP's Abhijeet Dipke takes swipe at PM Modi; questions anti-paper leak bill
+On the anti-paper leak bill passed in the Lok Sabha, Abhijeet Dipke said laws would not solve the problem without proper implementation.
 
-## Higher US LPG imports: Why Indian Oil is looking to acquire 50% stake in very large gas carriers
-If the plan goes ahead, IOC will become the first Indian refiner to own VLGCs. At present, the company primarily depends on time-chartered vessels to transport both LPG and crude oil.
+## ‘Unstable approach’: Delhi-Hyderabad flight with CM Reddy onboard lands in 2nd attempt after go-around amid rain, wind
+An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onboard had an “unstable approach” at the Hyderabad airport
 
-## Union minister returned ₹99-lakh subsidy he took for his cucumber farm: Govt to Parliament
-“Bhagirath Choudhary has communicated that he has refunded the subsidy to the bank concerned under the scheme," MoS Thakur said in reply to a question in LS
+## Meta writes to govt, assures stricter checks for prominent accounts after PM Modi post row : Report
+Meta has informed the IT Ministry that posts by the Prime Minister and prominent accounts will have additional oversight on the platform.
 
-## Cosmetic and an eyewash, says RSP MP Premachandran on paper leak bill
-The bill proposes a minimum jail term of five years and setting up of fast-track courts that will complete the trial within three months
+## ‘DMs filled with death threats’: CJP's Ratna Singh says she relies on lessons from Jantar Mantar protest
+“No amount of judgment can outweigh the work we have done… This movement has given me a thick skin," says Ratna Singh, spokesperson of Cockroach Janta Party.
 
-## No abnormality found in fuel control switch of Boeing 787 fleet: Centre
-The issue was highlighted by the pilot in command of a London-Bengaluru flight in February.
+## Bengal govt to add eggs as ISKCON serves ‘Satvik’ mid-day meals in Kolkata schools
+Adhikari said that as a pilot project, ISKCON would provide midday meals to schools in a large part of Kolkata from August 1.
 
-## NDA ally SKM defends student protests in Lok Sabha, calls them a ‘wake-up call’
-Sikkim Krantikari Morcha (SKM) leader Indra Hang Subba said the widespread demonstrations reflected the growing frustration of aspirants
+## In Bengal, Suvendu Adhikari unveils pilot project to keep eggs in mid-day meals
+West Bengal will launch a pilot project from August 1, allowing ISKCON to provide vegetarian mid-day meals, while eggs are served separately by SHGs.
 
-## Modi govt says no ‘goli’ fired at CJP protest, but Rahul sticks to ‘pellets’ claim, cites medical evidence
-While govt has denied use of “goli” — usually meaning bullets — the Opposition and findings from HT have said at least five people sustained pellet injuries.
+## 2 brothers die in a landslide in Nagaland’s Mokokchung town: Police
+A prayer service was held later in the day and the mortal remains were taken to their native Alisopur village in Kiphire district
 
-## Flood deaths rise to 5 in Odisha’s Keonjhar; Balasore bears brunt of deluge
-Officials said Balasore accounted for more than half of the affected population, with 109,429 people impacted
-
-## Indian Air Force personnel have 'no unqualified right to leave service at will to take civil jobs: SC
-Upholding the rules of the Air Force, the court said that seeking prior approval for leaving is not just a simple procedural requirement.
-
-## 'Join BJP or we'll deal with your parents': Abhijeet Dipke received threats after CJP launch, his father claims
-Bhagwanrao Dipke's remarks came as Abhijeet returned to his hometown in Maharashtra after leading weeks of protests in New Delhi.
-
-## Former PM Manmohan Singh gets posthumous clean chit: Recalling the coal block ‘scam’ case
+## CWG 2026: Neeraj Chopra returns to Glasgow, but the javelin field has changed
 
 
-## The Daily Catch-Up: The NEET row returns to Centre stage
+## Rajeev Khandelwal calls himself a ‘slave’ to wife Manjiri; expert explains psychology
 
 
-## IRDAI unveils reforms to boost insurance sector, improve policyholder protection
+## CWG silver translates for some more farmland for lifter Harjinder Kaur’s family
 
 
-## ‘My time with national team is over’: Neymar makes Brazil retirement official
+## Maharashtra State Film Awards 2025 winners: Prasad Oak, Rani Mukerji, Salim Khan honoured
 
 
-## UPSC Key: Cauvery Water Dispute, Eco-Sensitive Zones and Rupee Overvalued
+## ‘See ground reality’: D K Shivakumar offers helicopter tour of Cauvery to Tamil Nadu CM Vijay
 
 
-## Delhi man stabbed in face and chest in park dies, woman friend injured
+## Kartik Aaryan-Anurag Basu film is ‘more or less complete’, says Bhushan Kumar
 
 
-## Netanyahu says he’ll go to New York despite Zohran Mamdani’s arrest calls
+## Deadline for mandatory mobility smart card in buses extended to September 1
 
 
-## Amit Shah ‘culpable or incompetent’, sack him for crackdown on students: Rahul Gandhi
+## On camera, Bengaluru beggar pretending to be disabled caught by locals
 
 
 ## ‘Explosive demand’ for cooling continues as Europe swelters, China’s Midea says
@@ -249,6 +249,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors
+Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal that moves 'people's game' further from fans.
+
+## Trump says US to deliver ‘beating’ to Iran after bases again targeted
+US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.
+
 ## Why Saudi Arabia holds the key to Palestinian statehood
 Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.
 
@@ -266,12 +272,6 @@ In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanke
 
 ## Fragile peace in Syria’s Set Zaynab as sectarian challenges persist
 Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.
-
-## How are AI models able to autonomously hack others?
-The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input.
-
-## Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan
-FIFA's president lobbies for latest, and heavily criticised, proposal for investment in football's governing body.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
