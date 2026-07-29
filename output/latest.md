@@ -1,154 +1,163 @@
 # AION Intelligence
 
-## FirstFT: AI sell-off sparks hedge fund collateral calls
-Also in today’s newsletter: anger at Fifa plan and firefighting aircraft shortages
+## FirstFT: Mark Zuckerberg says US should not ban Chinese AI
+Also in today’s newsletter: Iran launches surprise attack on US forces, and a PwC report riddled with AI-generated errors
 
-## Stock markets slide again after SK Hynix profits disappoint
+## Tech rout roils markets after SK Hynix profits disappoint
 South Korean chip giant misses analyst expectations but insists risk of memory oversupply remains ‘limited’
 
-## The Story of Money
-Watch the latest episode from the FT podcast exploring the history of finance
+## BNY to adopt blockchain technology for records in new era for Wall Street
+Banks rush to embrace tokenised system blurring the lines between traditional finance and digital asset ecosystem
 
-## PwC published ‘thought leadership’ reports marred by AI hallucinations
-Big Four consultant is latest firm found to have produced slapdash work while marketing expertise on the technology
+## Inflation gauge reboot to ease pressure on Fed to raise interest rates
+Updates to official statistics are expected to show prices rising less quickly
 
-## China’s commercial space boom poses strategic challenge for the US
-Research warns Washington should be alarmed at military implications of the sector’s rapid expansion
+## Asia’s richest man Adani weighs bid for UK’s top port operator
+Indian industrialist considers offer for Associated British Ports as two Canadian pension funds prepare to sell stakes
 
-## Bank of England probes Asian equity risk at prime brokers
-Regulator to review exposure to AI sector at hedge funds and other clients of investment banks operating in UK
+## What’s up with CCC-rated bond spreads?
+Whatcha gon’ do with all that junk
 
-## Mamdani’s pro-business push
-The Democratic socialist mayor of New York is targeting support at small companies — the likes of the food truck or corner bodega
+## US says it intercepted ‘surprise’ Iranian missile attack
+Incident ends a days-long pause in direct air strikes
 
-## European wildfires expose shortage of Canadair water-bomber planes
-Lack of amphibious aircraft sparks political backlash as France and Spain fight blazes
+## Burnham has Labour voters’ attention but for how long?
+Whether core voters stay onside remains to be seen, while opposition parties’ strategies look unconvincing
 
-## Standard Chartered launches $1bn share buyback as bank embraces AI
-Asia-focused UK lender has embarked on cost-cutting plan that includes reducing back-office jobs
+## Hermès shares drop as investors fret over weak China luxury market
+Luxury goods group hit by fall in tourist shopping in the Gulf
 
-## Nuclear revival needs $250bn a year, industry says
-Banks urged to unlock private capital as governments eye more atomic energy projects
+## Aston Martin defends contentious £550mn debt deal
+UK carmaker reports bigger than expected quarterly loss
 
-## Sensex today | Stock Market Live: IT stocks, FII buying lift Sensex 657 points; Fed rate decision in focus
-Sensex, Nifty, Share Prices Live: Early stock market gains were led by IT, consumer and telecom stocks, even as global investors waited for the U.S. Federal Reserve's interest rate decision later in the day.
+## Greggs profits rise despite heatwave and growth worries
+Baker has continued its expansion in face of scepticism over UK’s continued appetite for its sausage rolls
 
-## ACME Solar raises ₹3,405 crore from PFC to develop 250 MW FDRE project
-Long-term funding supports construction of integrated solar, wind and battery storage assets, strengthening clean energy capacity across two western states.
+## Kering’s shares rise 11% after Gucci owner returns to growth
+Strong demand for jewellery and eyewear delivers luxury group’s first sales increase in three years
 
-## Manipal Health IPO opens today; Here’s what brokerages say
-After raising ₹4,167 crore from anchor investors, the healthcare major opens its IPO amid focus on valuation and growth prospects.
-
-## Q1 Results Today Live: Adani Enterprises, Adani Ports, Asian Paints, Eicher Motors, Waaree Energies, Colgate, Prestige Estates, Syrma SGS Tech, Hexaware Tech, Dabur, Vedanta Oil, ACME Solar to announce Q1 results, HUL, L&T, Tata Capital, Pfizer shares gain, Ambuja Cements & Suzlon dip
+## Q1 Results Today Live: Adani Enterprises con. loss at ₹1462 cr, Vedanta Oil logs ₹695 cr profit, Asian Paints, Adani Ports, Colgate, V-Guard Q1 profit rise, Thangamayil Jewellery shares tank 10% after results, Eicher Motors, Waaree Energies, Prestige Estates, Dabur, ACME Solar to announce Q1 results
 Q1 Results Today, 29th July 2026 Live Updates: Stay tuned for more from businessline
 
-## L&T profit up 14% at ₹4,123 crore, lifted by performance of energy, realty businesses
-Company confident of winning more orders from West Asia
+## Sensex today | Stock Market Live: Sensex rises 888 pts to close at 77,654, Nifty ends at 24,250; Hindustan Unilever, Infosys top gainers
+Sensex, Nifty, Share Prices Live: Sensex settled 888.68 pts or 1.16% higher at 77,654.60, and Nifty 50 gained 264.85 pts or 1.10% to 24,250.20.
 
-## Gift Nifty signals positive opening; markets await US Fed decision despite West Asia tensions
-Strong industrial growth and healthy earnings support market sentiment, but investors remain focused on the US Fed policy outcome, crude oil prices and geopolitical developments before taking fresh positions
+## Jammu & Kashmir Bank Q1 net drops 11.5% to ₹429 crore
+Total income rises to ₹3,765 crore during June quarter of FY27, from ₹3,521 crore in the corresponding period of last fiscal; Net Interest Income (NII) increases 2% to ₹1,497 crore
 
-## Rupee rises 5 paise to 95.77 against US dollar in early trade
-At the interbank foreign exchange, the rupee opened at 95.70 and slipped to 95.77 against the greenback, registering a gain of 5 paise from its previous close
+## India's mobile phone exports jump 165-fold in a decade to ₹2.59 lakh crore: Govt
+On memory chip manufacturing, the minister said two companies are currently producing memory chips in India
 
-## L&T shares gain 3.5% after Q1 profit rises, brokerages retain positive view
-L&T acknowledged near-term execution challenges from the Middle East conflict but expects tendering and project awards to pick up from Q2FY27.
+## Coal India arm SECL says it closed 28 abandoned mines in two financial years
+SECL aims to close 11 mines in the current fiscal and the remaining 15 mines in 2027-28, completing the scientific closure of all identified abandoned mines in phases
+
+## Colgate-Palmolive India Q1 profit rises 7% to ₹343 crore as premium toothpaste demand lifts sales 12%
+Consolidated revenue from operations increased 11.8% to ₹1,603.30 crore from ₹1,434.06 crore
+
+## [CityUHK Research for the Future] From wired to wireless: CityUHK's world‑class research transforms wireless charging
+[CityUHK Research for the Future] From wired to wireless: CityUHK's world‑class research transforms wireless charging
+
+## Billet Manufacturing division of Remal Alcast achieves AS9100D Certificate for Aerospace and Defence
+Billet Manufacturing division of Remal Alcast achieves AS9100D Certificate for Aerospace and Defence
+
+## Stock market today: Sensex climbs over 800 points; Nifty gains 1%
+
+
+## Higher US LPG imports: Why Indian Oil is looking to acquire 50% stake in very large gas carriers
+If the plan goes ahead, IOC will become the first Indian refiner to own VLGCs. At present, the company primarily depends on time-chartered vessels to transport both LPG and crude oil.
+
+## South Korea's Kospi tumbles 6% as SK Hynix slide, AI spending worries trigger chip selloff
+South Korea's Kospi index dropped significantly due to chipmaker weakness. SK Hynix reported earnings that missed market expectations, causing its shares to fall. This selloff reflects investor concerns over high valuations for artificial intelligence-linked stocks. Other Asian markets also experien
+
+## Indian IT stocks rally: Why TCS, Infosys, Wipro are rising as global AI stocks plunge
+The gains came even as India's IT sector continues to face headwinds, including subdued discretionary technology spending, pricing pressure, higher employee costs and uncertainty over how artificial intelligence could affect conventional outsourcing revenues.
+
+## Gold price prediction today: What factors will determine gold's movement? Check July 29, 2026 outlook
+Gold price prediction today: Both gold and silver prices are expected to be volatile this week ahead of the US Federal Reserve’s policy, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
+
+## India may soon get plastic notes: Why they are being introduced and what happens to paper money
+The RBI has recently floated a tender to procure material for polymer banknotes, reviving a proposal that has been under consideration for nearly two decades. Polymer notes, which are produced using durable plastic film instead of paper, generally have a longer lifespan and require replacement less 
+
+## Rupee gains for fourth straight session as dollar weakens, oil prices remain below $90
+The Indian Rupee strengthened for a fourth straight session on Wednesday. It gained five paise against the US dollar, reaching 95.77. This rise was supported by a softer American currency and lower crude oil prices. Improved domestic equity sentiment and foreign investor buying also boosted the rupe
 
 ## Top stocks to buy or sell today: Stock recommendations for July 29, 2026 - check list
 Stock market recommendations: United Breweries, and Max Healthcare are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 29, 2026. Adani Enterprises has been identified as a sell call.
 
-## 100% tariffs for India? US Senate advances key Russian sanctions bill
-The US Senate overwhelmingly advanced a bipartisan bill to impose new sanctions on Russia. This legislation grants President Trump powers to penalize major energy export buyers. India and China are among the largest customers of Russian crude oil and natural gas. The measure also extends the Iran Sa
+## Rajya Sabha passes bill to make insult of Vande Mataram criminal offence
+The discussion witnessed protests and sloganeering from the opposition parties, who also staged a walkout amid discussion.
 
-## Gold, silver prices slip as Fed decision, stronger dollar keep traders cautious
+## India in touch with Ukraine to ensure safety of 13 seafarers in Black Sea
+Five Indian seafarers have died and two more reported missing following recent Russian and Ukrainian attacks on merchant vessels in the Black Sea
 
+## ‘Farmers, students, youth must together corner Modi govt’: CJP's Ranka speaks at Kisan Morcha event attended by Tikait
+Ashutosh Ranka addressed Samyukta Kisan Morcha's (SKM) all-India conference in Delhi on Tuesday
 
-## Crude prices climb over 4% as Middle East tensions, inventory draw fuel supply fears
-Oil prices rebounded sharply on Wednesday due to renewed Middle East tensions. Concerns over global crude supplies and lower US inventories supported the market. Military developments in the region and air strikes on militant targets heightened worries. Shipping companies operating in the Gulf remai
+## Schools shut, traffic disrupted: Farmers march to Bhopal demanding 100% moong procurement at MSP, other key demands
+The farmers' key demands include 100 per cent procurement of moong at MSP, resolution of issues with the e-token system, and timely availability of fertilisers.
 
-## Radico Khaitan sees 10% jump in revenue
-Radico Khaitan reported a 76% net profit increase for the June quarter. This growth was driven by strong demand for premium liquor brands. Easing input costs also contributed to the company's improved financial performance. Total income rose by 10% to Rs 5,869 crore. Overall liquor volumes saw a mod
+## NHRC takes suo motu case on Assam factory blast deaths, seeks report in 2 weeks
+The NHRC issued notices to the Assam government’s chief secretary and the senior superintendent of police
 
-## Delhi high court orders winding up of Paytm Payments Bank
-The Delhi High Court has ordered the winding up of Paytm Payments Bank. This directive follows the Reserve Bank of India's cancellation of its banking license. The court appointed Girikumar M Nair as the official liquidator for this process. RBI had previously cancelled the bank's license with immed
+## Top quotes from Rahul Gandhi's speech that triggered ruckus in Parliament
+Rahul Gandhi accused the Home Minister of ordering the use of force against students and the NDA MPs took strong objection to his remarks.
 
-## 'Transformation of Air India may take up to a decade'
-Air India's transformation journey is now a decade-long endeavor. Supply chain disruptions and legacy system overhauls present significant challenges. The aviation industry faces constant pressures from global conflicts and fuel costs. Recent events like airspace closures and foreign exchange fluctu
+## Nepalese man sentenced to 10 years RI for kidnapping and sexually assaulting Palghar girl in 2018
+Nepalese man sentenced to 10 years RI for kidnapping and sexually assaulting Palghar girl in 2018
 
-## Priceless stake: Noel's children now Tata Sons shareholders
-Noel Tata's three children are now Tata Sons shareholders after inheriting shares. They each received two Tata Sons shares from their grandmother, Simone Tata. Simone Tata held eight shares before her passing in December 2025. Her holdings were divided equally among her son and grandchildren. This i
+## ITR deadline on July 31: Extension, penalties, refund, 5 things taxpayers should know
+The deadline to file income tax returns for 2026-27 is almost here, and many taxpayers are still waiting to complete the process.
 
-## A report card for NEP as it turns six: Curriculum moved, reforms for regulator and education funding didn't
-NEP's six year-mark comes at a time when widespread protests over NEET paper leak forced the resignation of Union education minister Dharmendra Pradhan.
-
-## Rajasthan: One child killed as school van crashes into parked truck in Banswara
-According to local reports, one of the critically injured children was administered cardiopulmonary resuscitation (CPR) in an attempt to revive him, but he succumbed to his injuries
-
-## HC declines to interfere with ECI’s timeline for SIR exercise
-The state high court on Tuesday declined to interfere with the Election Commission of India’s (ECI) timeline for the ongoing Special Intensive Revision (SIR) of electoral rolls, saying that the poll body alone must decide whether the schedule allows enough time to complete the exercise
-
-## Parliament monsoon session 2026 LIVE: Rahul Gandhi to speak on anti-paper leak bill in Lok Sabha day after fiery debate
-Parliament monsoon session 2026 LIVE: Union Minister Jitendra Singh is scheduled to move Paper Leak Amendment Bill, aimed at curbing examination malpractices, be taken into consideration and subsequently passed.
-
-## Probe into irregularities in KPSC’s hiring of veterinary officers transferred to CID
-The probe into cases registered in connection with the alleged irregularities in the Karnataka Public Service Commission’s recruitment of 400 veterinary officers has been handed over to the Criminal Investigation Department (CID), officials said on Tuesday
-
-## Cauvery panel orders release of water to TN
-The Cauvery Water Regulation Committee on Tuesday directed Karnataka to release 4 tmcft of water to Tamil Nadu over the next 15 days, ordering a daily discharge of 3,500 cusecs despite the state’s contention that dwindling reservoir levels are sufficient only to meet drinking water needs
-
-## Vijay writes to PM on Mekedatu, to visit Bengaluru for talks next month
-Tamil Nadu chief minister C Joseph Vijay on Tuesday wrote to Prime Minister Narendra Modi expressing disappointment over Union minister of state for Jal Shakti Raj Bhushan Choudhary’s statement that Karnataka need not obtain the consent of lower riparian states for the proposed Mekedatu reservoir, e
-
-## YSRCP protests across Andhra, seeks Lokesh’s resignation over alleged irregularities in the 2025 teacher recruitment
-The YSR Congress Party (YSRCP) held protests across Andhra Pradesh on Tuesday, demanding the resignation of state education minister Nara Lokesh over alleged irregularities in the 2025 teacher recruitment process
-
-## India’s HIV fight has changed: Why ageing, diabetes and new hotspots are the next big challenge
+## ‘Priyanka Chopra looked ordinary’: Suneel Darshan says she got Andaaz after nose surgery
 
 
-## Jharkhand’s top Maoist leader Misir Besra, carrying Rs 1 crore bounty, arrested
+## Ram Charan undergoes wrist surgery after Peddi injury: Doctor explains TFCC tear, recovery
 
 
-## Parliament Monsoon Session 2026 Day 8 Live Updates: Anti exam-paper leak law to be presented today
+## What’s the Cauvery dispute and how does the Mekedatu dam feature in it?
 
 
-## ‘I think very highly of him’: Ashwin on Sundar’s replacement in India Test squad
+## NEET ‘paper leak’ case: CBI’s 20,000-page chargesheet reaches fast-track court
 
 
-## Ranbir Kapoor’s Ramayana bags Rs 75 cr T-Series music deal ahead of trailer drop: Report
+## Why Misir Besra’s arrest could mark the end of the Maoist insurgency
 
 
-## From ‘delulu’ to ‘FOMO’: After CJP protests on the streets, Gen-Z slang takes over Parliament
+## ‘Use of pellet gun, iron rod’: Complaint claims ‘police excesses’ at CJP protest
 
 
-## ‘High time system stops supporting illegal immigrants’: Court to Karnataka
+## Indian Embassy monitors ship carrying 13 Indians amid Ukraine drone attacks
 
 
-## Daily Briefing: SC questions police crackdown on student protesters; the long shadow of gangland murder
+## Google launches Gemini Spark, a 24/7 personal AI agent, in India
 
 
-## Standard Chartered posts 10% rise in first-half profit, launches US$1b buy-back
-Standard Chartered reported a 10 per cent rise in its first-half profit as strong wealth management gains were offset by an impairment charge tied to the Middle East conflict. The London-headquartered lender also announced a new US$1 billion share buy-back starting immediately, according to a stock 
+## Chinese MLCC firms’ profits and stock prices fatten on hunger for electronic ‘rice’
+Chinese manufacturers of multilayer ceramic capacitors (MLCCs) – tiny components required in great numbers to regulate electrical flow in electronic devices – are riding a stock rally on the back of explosive first-half earnings, fuelled by insatiable global demand for artificial intelligence infras
 
-## HSBC to relocate senior executive to Hong Kong amid pivot to Asia: sources
-HSBC Holdings will relocate its group chief people and governance officer, Aileen Taylor, from London to Hong Kong later this year, as the lender doubles down on expanding its Hong Kong and Asia operations, according to sources at the bank. A source told the South China Morning Post that an internal
+## Why has the China-US profit gap widened on the Fortune Global 500?
+China’s unaddressed economic structural problems are swallowing profits and leaving its multinationals falling far behind their US peers in the latest Fortune Global 500 list, despite its firms remaining strong in terms of revenue. The profit gap between Chinese and US companies has continued to wid
 
-## Hong Kong stocks hunker down for a day packed with Fed decision, jumbo IPO debut
-Hong Kong stocks are gearing up for an eventful day on Thursday, when both a rate decision by the US Federal Reserve and a debut of the city’s largest initial public offering (IPO) in seven years coincide to test investors’ risk appetite. An unexpected increase in the US borrowing costs, or even a h
+## Chinese AI start-up Moonshot seeks influential ambassadors to widen Kimi’s global reach
+China’s Moonshot AI, whose recently released Kimi K3 model stunned with performance close to American frontier systems, is seeking ambassadors to elevate its global influence. The Beijing-based start-up on Tuesday launched the “Kimi Ambassador Program”, aimed at “passionate Kimi users to build up co
 
-## Shanghai Clearing House targets global growth with expanded offshore yuan push
-China is pushing a new model to boost international sales of its domestic bonds, with the Shanghai Clearing House (SHCH) leveraging global financial networks to expand the offshore yuan pool. Writing in a recent article, SHCH chief Ma Jianyang noted that the initiative was designed to solidify Shang
+## Why is Zhongji unveiling US$1.2 billion in buy-backs before its Hong Kong debut?
+Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 billion) in the run-up to its offshore listing in Hong Kong – may give global investors an anchor for pricing, as the Chinese supplier of US hyperscalers seeks to pre-empt a shaky start to trading in the city. The Chinese ma
 
-## Elon Musk launches invite-only X Money where users can send cash to one another
-Elon Musk’s social media company X, formerly known as Twitter, launched its own bank account-like product where users can send money to one another. The service, known as X Money, is not a new bank. X Money is using technology and banking services provided by Cross River Bank and branding that backb
+## How ‘Hoe Hin White Flower Embrocation’ keeps a century-old family legacy in bloom
+For any family business built up over many decades, succession is rarely as simple as passing down a title. Each generation must understand the values and qualities that have made the company popular with customers, while finding ways to carry on its legacy and ensure it endures. That process often 
 
-## Turning tenants into sustainability partners
-[The content of this article has been produced by our advertising partner.] In the built environment, long-term sustainability performance depends on how a building is designed and constructed, as well as how occupiers manage and use the space each day. That collective responsibility, carried by lan
+## China’s ATRenew has big plans for Hong Kong’s little-known phone trading hub
+China’s largest second-hand electronics platform, ATRenew, plans to use its technology and trading standards to modernise Hong Kong’s huge wholesale market for pre-owned devices, as it seeks to make the city a springboard for its global expansion. The New York-listed company on Tuesday launched Fone
 
-## From CXMT to Zhipu: How Alibaba’s investment pays off with a growing AI and chip portfolio
-ChangXin Memory Technologies (CXMT) and Zhipu AI have not only seen their share prices skyrocket, but they have also handed a windfall to their common backer: Alibaba Group Holding. Before the listing of China’s memory-chip giant on Monday, Alibaba owned nearly 5 per cent of CXMT, making it the chip
+## Chinese AI chip giant Cambricon sets US$14.8b revenue goal tied to staff incentive plan
+Chinese artificial intelligence chip champion Cambricon Technologies has set a target of more than 100 billion yuan (US$14.8 billion) in revenue over the next three years as the prerequisite for a newly proposed employee stock incentive plan. The goal marked a nearly 20-fold increase from its previo
 
-## Sun Life targets Asia’s booming wealth transfer market with new platform
-Canadian insurer Sun Life has launched a new platform targeting Asia’s fastest-growing wealth management markets, as high-net-worth individuals in the region increasingly seek to use insurance products to protect their wealth and pass it on to the next generation. The integrated platform – named Sun
+## China’s Pop Mart opens new store in Singapore’s Sentosa amid slowing domestic sales
+Chinese toymaker Pop Mart International ramped up its global expansion on Wednesday by opening a new store on Singapore’s Sentosa Island – alongside its first overseas Pop Bakery dessert store in the same venue – with observers predicting that more overseas locations would help drive growth, especia
+
+## An ASEAN Summit Consumed by Middle East Worries
+The South China Sea ran a distant second.
 
 ## Scandal Exposes Limits of China’s Scientific Rise
 The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.
@@ -170,9 +179,6 @@ A human rights-centered foreign policy is both a moral imperative and a geopolit
 
 ## Why Putin Will Escalate
 The coming months will mark the most dangerous phase of Russia’s war in Ukraine.
-
-## Netanyahu’s Palestine Philosophy Is Finally Exposed
-The Israeli prime minister’s thinking on Palestine has always been consistent—and consistently disastrous.
 
 ## The Cockroach Uprising: How the CJP Protest Exposed India’s Broken Institutions
 Journalist and author Snigdhendu Bhattacharya joins host Tushar Shetty to examine what the Cockroach Janata Party protests reveal about the erosion of India's democratic institutions.
@@ -198,6 +204,12 @@ The country's government is leading Southeast Asian efforts to regulate AI techn
 ## The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?
 The vulnerabilities of Hormuz and Malacca are fundamentally different – but a closure of the Strait of Malacca would be far worse.
 
+## ASML’s Extreme Ultraviolet Lithography and the Limits of Reverse Engineering in China
+In June, the U.S. Department of Commerce informed the Dutch company ASML that it suspects one of its extreme ultraviolet lithography machines has reached China, an accusation that ASML denied, and for which no supporting evidence has yet been made public. ASML is the sole global producer of the mach
+
+## Parsing Trump’s Decision to (Maybe) Give Uranium Enrichment to Saudi Arabia
+On June 22, the United States announced that it had signed a nuclear cooperation agreement with Saudi Arabia. This type of agreement broadly authorizes trade in nuclear technology, equipment, and materials, but only if the agreement and the country in question meet defined nonproliferation requireme
+
 ## Key Areas Where Water Scarcity Intensifies Risks of Conflict
 Water disputes can directly drive conflict, but more often, water scarcity acts as a catalyst — one that, combined with other pressures, raises the risk of conflict. This is nothing new; water has shaped human conflict for millennia. What’s changed is the accumulation of stress, as climate change, p
 
@@ -215,12 +227,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense
 Taiwan produces the world’s most advanced semiconductors, yet the island’s own military is only in the opening stages of adopting artificial intelligence systems. This mismatch bears directly on Taiwan’s ability to deter Chinese aggression.Beijing is pushing to develop and field sophisticated AI-ena
-
-## Why Norway and Finland Should Preserve Two of Europe’s Most Important Security Arrangements
-Svalbard is a stark archipelago of glaciers and coal mines lying 650 kilometers (403 miles) north of Norway’s North Cape, roughly halfway between the Norwegian mainland and the North Pole. It belongs to Norway but is governed under a 1920 treaty that grants nationals of more than 40 signatory states
-
-## Global Risks Heating Up
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThe U.S.-Iranian ceasefire agreed in April began deteriorating — and the Memorandum of Understanding signed 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -246,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Haitians living in fear as Temporary Protected Status ends in the US
-New York’s Haitian community is living in limbo and fear after Temporary Protected Status (TPS) was terminated Monday.
+## EU crisis chief urges tougher climate action amid France, Spain wildfires
+Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.
 
-## Iran missiles target US forces in Jordan after a five-day pause in war
-The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.
+## Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’
+Russia's FSB says Telegram has not pulled content used by Ukrainian intelligence and 'terrorist' groups to plan attacks.
 
-## Israel kills Palestinian, destroys mosque in Gaza
-Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.
+## How has the Indian government responded to ‘Cockroach’ protests?
+The BJP government's response so far has been a measured crackdown as it also attempts to woo the youth.
 
-## OpenAI’s rogue agent hacked an account at a second technology firm: Report
-The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers.
+## A safe space for Gaza women: A sanctuary to speak, heal and share amid war
+A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.
 
-## Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq
-Riyadh says its targeted attacks were done in coordination with the US military.
+## US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq
+The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.
 
-## After fleeing Sudan’s war, refugees battle thirst in Chad’s camps
-After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.
+## Jayden Seales takes five wickets as West Indies beat Pakistan in first Test
+West Indies take a 1-0 lead in the two-Test series after Jayden Seales dominates with the ball on day 4 in Trinidad.
 
-## Media not invited as Trump, Netanyahu hold talks at the White House
-US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.
+## Iran and Oman swap proposals to manage Strait of Hormuz: What we know
+Iran is proposing a deal that would see it have significantly more control than Oman.
 
-## Turkiye takes ‘historic step’ on energy alliance with Iraq
-Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.
+## Will Germany bring back mandatory military conscription next year?
+A voluntary recruitment drive has only drawn 500 people so far this year, with many more eager to opt out.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
@@ -294,6 +300,9 @@ The World Economic Forum estimates that nearly 40 per cent of workers' existing 
 ## NFRA sets 10 principles for technology use in audits, says AI cannot replace auditor judgement
 The framework calls for pre deployment validation, continuous monitoring and stronger data safeguards as audit firms increasingly use analytics, automated tools and AI, while warning against automation bias and over reliance on machine generated outputs.
 
+## Govt companies request RBI to extend concessional forex swap by three months
+Public sector firms want the RBI's forex swap facility extended by three months. This facility helps government companies hedge dollar costs for external borrowing.
+
 ## MSME Bill introduced, looks to speed up payments
 A key provision of the Bill is to strengthen the framework for addressing delayed payments, a long-standing challenge for micro and small enterprises that often strains their liquidity and disrupts business operations.
 
@@ -314,7 +323,4 @@ Market regulator Securities and Exchange Board of India (SEBI) has clarified tha
 
 ## India may see up to $85 billion in forex inflows after RBI's FCNR move: Report
 India anticipates substantial Foreign Currency Non-Resident deposits, possibly reaching eighty to eighty-five billion dollars. Public sector banks are leading this significant mobilization effort, exceeding previous records. FCNR(B) deposits have already reached seventeen point forty-one billion dol
-
-## US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts
-The tariffs, set to increase significantly from August 2029, could impact affordable medicine access. Experts emphasise strengthening domestic manufacturing while preserving global supply chain integration.
 
