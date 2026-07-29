@@ -1,133 +1,136 @@
 # AION Intelligence
 
-## US says it intercepted ‘surprise’ Iranian missile attack
-Incident ends a days-long pause in direct air strikes
+## FirstFT: AI sell-off sparks hedge fund collateral calls
+Also in today’s newsletter: anger at Fifa plan and firefighting aircraft shortages
 
-## US poised to impose new Russia sanctions package
-Measures are the latest sign of Washington’s warming relations with Ukrainian President Volodymyr Zelenskyy
+## Stock markets slide again after SK Hynix profits disappoint
+South Korean chip giant misses analyst expectations but insists risk of memory oversupply remains ‘limited’
 
-## SK Hynix profits soar sixfold on AI boom
-Second-largest memory-chip maker says it won multiyear contracts with about 10 customers
+## The Story of Money
+Watch the latest episode from the FT podcast exploring the history of finance
 
-## Hedge funds face demands to stump up collateral as AI stocks tumble
-Scale of losses in recent weeks sparks growing risk aversion on Wall Street
+## PwC published ‘thought leadership’ reports marred by AI hallucinations
+Big Four consultant is latest firm found to have produced slapdash work while marketing expertise on the technology
 
-## Higher inflation to cut value of UK public spending by £24bn, think-tank says
-Niesr calls for new policy commitments to be fully funded owing to impact of Iran war
+## China’s commercial space boom poses strategic challenge for the US
+Research warns Washington should be alarmed at military implications of the sector’s rapid expansion
 
-## Hong Kong imitates US IPO market but China is its real competition
-Allowing all companies to file confidentially for an initial public offering looks fruitless
+## Bank of England probes Asian equity risk at prime brokers
+Regulator to review exposure to AI sector at hedge funds and other clients of investment banks operating in UK
 
-## Apple tops $5tn valuation for first time
-Tech giant gains due to its lack of huge spending on AI and as investors seek havens from sell-off in chip sector
+## Mamdani’s pro-business push
+The Democratic socialist mayor of New York is targeting support at small companies — the likes of the food truck or corner bodega
 
-## Chip stocks tumble as AI sell-off deepens
-Nasdaq 100 briefly falls into correction territory ahead of Big Tech earnings
+## European wildfires expose shortage of Canadair water-bomber planes
+Lack of amphibious aircraft sparks political backlash as France and Spain fight blazes
 
-## World’s biggest EV battery maker pivots to AI, grids and ships
-China’s CATL aims to become market leader for battery energy storage systems
+## Standard Chartered launches $1bn share buyback as bank embraces AI
+Asia-focused UK lender has embarked on cost-cutting plan that includes reducing back-office jobs
 
-## Fifa faces fierce backlash over plans for $20bn commercial stake sale
-UK prime minister joins chorus of criticism as football’s governing body holds talks with Trump-linked investment vehicle
+## Nuclear revival needs $250bn a year, industry says
+Banks urged to unlock private capital as governments eye more atomic energy projects
 
-## Wachtell co-chair who grilled Musk departs for rival Gibson Dunn
-Bill Savitt leaves the corporate law powerhouse alongside five other partners
+## Sensex today | Stock Market Live: IT stocks, FII buying lift Sensex 657 points; Fed rate decision in focus
+Sensex, Nifty, Share Prices Live: Early stock market gains were led by IT, consumer and telecom stocks, even as global investors waited for the U.S. Federal Reserve's interest rate decision later in the day.
 
-## Go Digit, Graphite India, RVNL, HUDCO, Tanla Platforms, Euro Panel in focus today
-Corporate developments kept several stocks in focus as Go Digit received CCI clearance, Graphite India faced a US duty, RVNL secured a major railway order, HUDCO advanced overseas fundraising, and Tanla Platforms and Euro Panel unveiled expansion-related announcements.
+## ACME Solar raises ₹3,405 crore from PFC to develop 250 MW FDRE project
+Long-term funding supports construction of integrated solar, wind and battery storage assets, strengthening clean energy capacity across two western states.
 
-## Suzlon picks Singapore as global hub to drive overseas expansion
-The Singapore office will function as the group’s international control centre, overseeing overseas sales, operations and maintenance services, banking and procurement
+## Manipal Health IPO opens today; Here’s what brokerages say
+After raising ₹4,167 crore from anchor investors, the healthcare major opens its IPO amid focus on valuation and growth prospects.
 
-## HDFC Bank, Axis Bank, ICICI Bank collected more than all 12 PSBs for not maintaining minimum avg balance
-To enhance customer centricity and promote inclusive banking, PSBs have reviewed their service charge structures.
-
-## Net profit of PSBs surged to ₹1.98 lakh cr in FY26
-Gross advances of PSBs grew by 15.7 per cent to ₹127 lakh crore as on March 31, 2026
-
-## HUL Q1 net dips amid inflation, one-time tax credit in FY26
-Revenues grow 10 per cent YoY to ₹17,529 crore
-
-## SIP inflows of most listed MFs hit a bump
-Sequential SIP inflows slow down in June quarter on weak returns
+## Q1 Results Today Live: Adani Enterprises, Adani Ports, Asian Paints, Eicher Motors, Waaree Energies, Colgate, Prestige Estates, Syrma SGS Tech, Hexaware Tech, Dabur, Vedanta Oil, ACME Solar to announce Q1 results, HUL, L&T, Tata Capital, Pfizer shares gain, Ambuja Cements & Suzlon dip
+Q1 Results Today, 29th July 2026 Live Updates: Stay tuned for more from businessline
 
 ## L&T profit up 14% at ₹4,123 crore, lifted by performance of energy, realty businesses
 Company confident of winning more orders from West Asia
 
-## Purpose, scale and long-term bets build enduring businesses: Kumar Mangalam Birla
-Birla noted that India has the potential, the credentials and track record to become a global manufacturing powerhouse
+## Gift Nifty signals positive opening; markets await US Fed decision despite West Asia tensions
+Strong industrial growth and healthy earnings support market sentiment, but investors remain focused on the US Fed policy outcome, crude oil prices and geopolitical developments before taking fresh positions
 
-## For ease of liquidity & business, government to amend MSME Act
-New amendments to the MSME Development Act will ensure faster payments for small businesses. Mandatory digital invoicing and stronger protections against delayed payments are proposed. The government aims to improve liquidity for these vital enterprises. Dispute resolution will be accelerated throug
+## Rupee rises 5 paise to 95.77 against US dollar in early trade
+At the interbank foreign exchange, the rupee opened at 95.70 and slipped to 95.77 against the greenback, registering a gain of 5 paise from its previous close
 
-## US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop
-Broader market sentiment remained supported by another round of stronger-than-expected corporate earnings. Coca-Cola advanced 5.8% after reporting a 7% increase in revenue, despite what Chief Executive Officer Henrique Braun described as “a dynamic consumer landscape.”
+## L&T shares gain 3.5% after Q1 profit rises, brokerages retain positive view
+L&T acknowledged near-term execution challenges from the Middle East conflict but expects tendering and project awards to pick up from Q2FY27.
 
-## Big manufacturing push: How India is aiming to future proof its supply chains from global conflicts
-The idea is to reduce trade deficit, conserve foreign exchange reserves and also to position India as an alternative global manufacturing hub to China. What is being planned and how will the focus on the manufacturing sector help India reduce its dependence on global supplies?
+## Top stocks to buy or sell today: Stock recommendations for July 29, 2026 - check list
+Stock market recommendations: United Breweries, and Max Healthcare are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 29, 2026. Adani Enterprises has been identified as a sell call.
 
-## India’s 'looksmaxxing' economy: More science, more spending, fewer taboos
-India's beauty market is rapidly expanding, driven by evolving consumer attitudes and increased awareness. Skincare routines now feature advanced ingredients, replacing older methods. Cosmetic procedures are becoming mainstream, with many seeking subtle enhancements. Digital platforms and influencer
+## 100% tariffs for India? US Senate advances key Russian sanctions bill
+The US Senate overwhelmingly advanced a bipartisan bill to impose new sanctions on Russia. This legislation grants President Trump powers to penalize major energy export buyers. India and China are among the largest customers of Russian crude oil and natural gas. The measure also extends the Iran Sa
 
-## IIP data: Industrial production posts strong growth; rises by 7.3% in June
-According to the NSO, the IIP growth rate accelerated to 7.3% in June 2026 from the quick estimate of 5% reported for May 2026. The revised estimate for May has since been lowered marginally to 5% from 5.1%.
-
-## Swiggy Instamart CEO Amitesh Kumar Jha resigns; Myntra's Nandita Sinha to take charge
+## Gold, silver prices slip as Fed decision, stronger dollar keep traders cautious
 
 
-## Can using E20 petrol lead to insurance claim rejection? What the government said
-The Ministry of Petroleum and Natural Gas clarified E20 petrol use is not a valid reason for insurance claim rejection. Government sources have dismissed claims that using E20 fuel will invalidate vehicle insurance policies. Assertions about widespread engine damage or insect attraction from ethanol
+## Crude prices climb over 4% as Middle East tensions, inventory draw fuel supply fears
+Oil prices rebounded sharply on Wednesday due to renewed Middle East tensions. Concerns over global crude supplies and lower US inventories supported the market. Military developments in the region and air strikes on militant targets heightened worries. Shipping companies operating in the Gulf remai
 
-## South Korea's KOSPI crashes around 11%: Circuit breaker triggered, market sees worst session in 5 months
-Investor sentiment was also weighed down by developments in China, including the blockbuster listing of ChangXin Memory Technologies (CXMT) and reports that a Chinese state-backed company has started manufacturing immersion DUV lithography equipment.
+## Radico Khaitan sees 10% jump in revenue
+Radico Khaitan reported a 76% net profit increase for the June quarter. This growth was driven by strong demand for premium liquor brands. Easing input costs also contributed to the company's improved financial performance. Total income rose by 10% to Rs 5,869 crore. Overall liquor volumes saw a mod
 
-## US Senate passes Russia sanctions bill, India and others at risk of 100% tariffs
-US Senate passes Russia sanctions bill, India and others at risk of 100% tariffs
+## Delhi high court orders winding up of Paytm Payments Bank
+The Delhi High Court has ordered the winding up of Paytm Payments Bank. This directive follows the Reserve Bank of India's cancellation of its banking license. The court appointed Girikumar M Nair as the official liquidator for this process. RBI had previously cancelled the bank's license with immed
 
-## Odisha govt orders evacuation as over 1 lakh hit by floods
-Odisha govt orders evacuation as over 1 lakh hit by floods
+## 'Transformation of Air India may take up to a decade'
+Air India's transformation journey is now a decade-long endeavor. Supply chain disruptions and legacy system overhauls present significant challenges. The aviation industry faces constant pressures from global conflicts and fuel costs. Recent events like airspace closures and foreign exchange fluctu
 
-## Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official
-Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official
+## Priceless stake: Noel's children now Tata Sons shareholders
+Noel Tata's three children are now Tata Sons shareholders after inheriting shares. They each received two Tata Sons shares from their grandmother, Simone Tata. Simone Tata held eight shares before her passing in December 2025. Her holdings were divided equally among her son and grandchildren. This i
 
-## Assam govt hikes ex gratia for flood victims' kin, relaxes norms for compensation
-Assam govt hikes ex gratia for flood victims' kin, relaxes norms for compensation
+## A report card for NEP as it turns six: Curriculum moved, reforms for regulator and education funding didn't
+NEP's six year-mark comes at a time when widespread protests over NEET paper leak forced the resignation of Union education minister Dharmendra Pradhan.
 
-## 'Gaumutra expert': Priyanka Gandhi questions inclusion of IIT Madras director in PM's exam reforms panel, BJP hits back
-Responding to her remarks, BJP MP Anurag Thakur accused Gandhi of making an innocent face while covering up the wrongdoings of her own government's past.
+## Rajasthan: One child killed as school van crashes into parked truck in Banswara
+According to local reports, one of the critically injured children was administered cardiopulmonary resuscitation (CPR) in an attempt to revive him, but he succumbed to his injuries
 
-## ‘Nobody takes her seriously’: War of words escalates between Kangana and CJP after BJP MP's ‘Generation Gutter’ remark
-CJPs Saurav Das said Kangana Ranaut's own public remarks about her role as an MP reflected a lack of seriousness.
+## HC declines to interfere with ECI’s timeline for SIR exercise
+The state high court on Tuesday declined to interfere with the Election Commission of India’s (ECI) timeline for the ongoing Special Intensive Revision (SIR) of electoral rolls, saying that the poll body alone must decide whether the schedule allows enough time to complete the exercise
 
-## 'Not acceptable': CJP claims Supreme Court order on student FIRs contradicts govt promises
-CJP spokesperson Saurav Das said the Supreme Court should not be ‘politicised’ and its orders ‘weaponised’ for the government’s ‘gains’.
+## Parliament monsoon session 2026 LIVE: Rahul Gandhi to speak on anti-paper leak bill in Lok Sabha day after fiery debate
+Parliament monsoon session 2026 LIVE: Union Minister Jitendra Singh is scheduled to move Paper Leak Amendment Bill, aimed at curbing examination malpractices, be taken into consideration and subsequently passed.
 
-## Schools to remain shut in 3 Odisha districts due to heavy rains: Officials
-Indian Meteorological Department issued a red warning for Sundargarh, Sambalpur, Bargarh and Jharsuguda districts, for Wednesday
+## Probe into irregularities in KPSC’s hiring of veterinary officers transferred to CID
+The probe into cases registered in connection with the alleged irregularities in the Karnataka Public Service Commission’s recruitment of 400 veterinary officers has been handed over to the Criminal Investigation Department (CID), officials said on Tuesday
 
-## Gujarat: Polling for high-stakes local body bypolls ends
+## Cauvery panel orders release of water to TN
+The Cauvery Water Regulation Committee on Tuesday directed Karnataka to release 4 tmcft of water to Tamil Nadu over the next 15 days, ordering a daily discharge of 3,500 cusecs despite the state’s contention that dwindling reservoir levels are sufficient only to meet drinking water needs
 
+## Vijay writes to PM on Mekedatu, to visit Bengaluru for talks next month
+Tamil Nadu chief minister C Joseph Vijay on Tuesday wrote to Prime Minister Narendra Modi expressing disappointment over Union minister of state for Jal Shakti Raj Bhushan Choudhary’s statement that Karnataka need not obtain the consent of lower riparian states for the proposed Mekedatu reservoir, e
 
-## You were at Delhi protest, but your police booked protesters in Kerala: Pinarayi Vijayan to CM Satheesan
+## YSRCP protests across Andhra, seeks Lokesh’s resignation over alleged irregularities in the 2025 teacher recruitment
+The YSR Congress Party (YSRCP) held protests across Andhra Pradesh on Tuesday, demanding the resignation of state education minister Nara Lokesh over alleged irregularities in the 2025 teacher recruitment process
 
-
-## 2022 Khargone communal violence: 11 accused acquitted by court as prosecution case collapses
-
-
-## ‘PM must change angle of his heart, not of cameras’: Priyanka Gandhi slams action on protesters
-
-
-## 2,000 farmers march towards Bhopal, bedding and cooking material in hand
+## India’s HIV fight has changed: Why ageing, diabetes and new hotspots are the next big challenge
 
 
-## ‘Granted leave only after stillbirth’, teacher’s family claims officials demanded Rs 50,000 bribe
+## Jharkhand’s top Maoist leader Misir Besra, carrying Rs 1 crore bounty, arrested
 
 
-## Prashant Kishor’s ‘AI video’ claim, BJP chief’s temple visits — last day in a busy Bihar campaign
+## Parliament Monsoon Session 2026 Day 8 Live Updates: Anti exam-paper leak law to be presented today
 
 
-## CJP warns of fresh protest if cases continue; Maharashtra, Bengal say ‘no coercive action’
+## ‘I think very highly of him’: Ashwin on Sundar’s replacement in India Test squad
 
+
+## Ranbir Kapoor’s Ramayana bags Rs 75 cr T-Series music deal ahead of trailer drop: Report
+
+
+## From ‘delulu’ to ‘FOMO’: After CJP protests on the streets, Gen-Z slang takes over Parliament
+
+
+## ‘High time system stops supporting illegal immigrants’: Court to Karnataka
+
+
+## Daily Briefing: SC questions police crackdown on student protesters; the long shadow of gangland murder
+
+
+## Standard Chartered posts 10% rise in first-half profit, launches US$1b buy-back
+Standard Chartered reported a 10 per cent rise in its first-half profit as strong wealth management gains were offset by an impairment charge tied to the Middle East conflict. The London-headquartered lender also announced a new US$1 billion share buy-back starting immediately, according to a stock 
+
+## HSBC to relocate senior executive to Hong Kong amid pivot to Asia: sources
+HSBC Holdings will relocate its group chief people and governance officer, Aileen Taylor, from London to Hong Kong later this year, as the lender doubles down on expanding its Hong Kong and Asia operations, according to sources at the bank. A source told the South China Morning Post that an internal
 
 ## Hong Kong stocks hunker down for a day packed with Fed decision, jumbo IPO debut
 Hong Kong stocks are gearing up for an eventful day on Thursday, when both a rate decision by the US Federal Reserve and a debut of the city’s largest initial public offering (IPO) in seven years coincide to test investors’ risk appetite. An unexpected increase in the US borrowing costs, or even a h
@@ -146,12 +149,6 @@ ChangXin Memory Technologies (CXMT) and Zhipu AI have not only seen their share 
 
 ## Sun Life targets Asia’s booming wealth transfer market with new platform
 Canadian insurer Sun Life has launched a new platform targeting Asia’s fastest-growing wealth management markets, as high-net-worth individuals in the region increasingly seek to use insurance products to protect their wealth and pass it on to the next generation. The integrated platform – named Sun
-
-## China’s home-grown DUV progress not the biggest threat to ASML, analysts say
-Western anxiety over a potential breakthrough in Chinese chipmaking gear may be rising, but home-grown machines are not the greatest threat facing industry leader ASML, according to analysts. The Dutch firm’s shares fell more than 8 per cent at one point on Monday in the US before closing down 5.8 p
-
-## Hong Kong’s Exchange Fund first-half earnings fall 37% on equity slump, softer bond income
-The Exchange Fund, the war chest used to defend the local currency, reported a 37 per cent decline in first-half earnings as losses in Hong Kong equities and weaker bond returns weighed on performance, the Hong Kong Monetary Authority (HKMA) said on Tuesday. Earnings stood at HK$134.7 billion (US$17
 
 ## Scandal Exposes Limits of China’s Scientific Rise
 The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.
@@ -249,29 +246,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## FIFA proposes plan to sell stakes in the World Cup, angering UEFA
-Football's world governing body announces plans to sell stakes of up to 20 percent in the World Cup and other events.
+## Haitians living in fear as Temporary Protected Status ends in the US
+New York’s Haitian community is living in limbo and fear after Temporary Protected Status (TPS) was terminated Monday.
 
-## Iran war live: US accuses IRGC of ‘surprise’ ballistic missile attacks
-US claim comes as Saudi Arabia intercepts drones and Iran warns of 'any action' to maintain its control of Hormuz.
+## Iran missiles target US forces in Jordan after a five-day pause in war
+The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.
 
-## Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker
-The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.
+## Israel kills Palestinian, destroys mosque in Gaza
+Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.
 
-## Japan Kumamoto earthquake: What happened, damage, victims, latest updates
-A magnitude 6.8 earthquake struck Japan's Kyushu island, causing building collapses, fires and widespread damage.
+## OpenAI’s rogue agent hacked an account at a second technology firm: Report
+The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers.
 
-## Israeli airstrike destroys Gaza City mosque near displacement camp
-Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium
+## Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq
+Riyadh says its targeted attacks were done in coordination with the US military.
 
-## Donald Trump and world leaders attend Lindsey Graham’s funeral
-Donald Trump said Lindsey Graham was a force in politics at the late senator's funeral in DC.
+## After fleeing Sudan’s war, refugees battle thirst in Chad’s camps
+After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.
 
-## Iran and Oman exchange proposals to manage Strait of Hormuz
-Omani proposal is based on the Strait of Malacca model, where ships that use the strait provide voluntary fees.
+## Media not invited as Trump, Netanyahu hold talks at the White House
+US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.
 
-## Rome’s viral graffiti cleaner is taking on an ancient problem
-Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.
+## Turkiye takes ‘historic step’ on energy alliance with Iraq
+Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.
+
+## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
+Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
@@ -294,8 +294,11 @@ The World Economic Forum estimates that nearly 40 per cent of workers' existing 
 ## NFRA sets 10 principles for technology use in audits, says AI cannot replace auditor judgement
 The framework calls for pre deployment validation, continuous monitoring and stronger data safeguards as audit firms increasingly use analytics, automated tools and AI, while warning against automation bias and over reliance on machine generated outputs.
 
-## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
-Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
+## MSME Bill introduced, looks to speed up payments
+A key provision of the Bill is to strengthen the framework for addressing delayed payments, a long-standing challenge for micro and small enterprises that often strains their liquidity and disrupts business operations.
+
+## RBI likely to hold rates on August 5 despite inflation uptick
+Headline inflation is expected to remain elevated through the October-December quarter because of unfavourable base effects, with inflation averaging just 0.6% during the same period last year.
 
 ## India's IPO market to stay resilient with over 70 firms awaiting SEBI clearance: Report
 India's IPO activity has continued to stay resilient with 175 companies currently holding valid SEBI observations for their draft IPO papers and another 70 firms awaiting regulatory clearance, as per a report by Equirus.
@@ -314,10 +317,4 @@ India anticipates substantial Foreign Currency Non-Resident deposits, possibly r
 
 ## US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts
 The tariffs, set to increase significantly from August 2029, could impact affordable medicine access. Experts emphasise strengthening domestic manufacturing while preserving global supply chain integration.
-
-## Budget has buffers to tackle global risks, no need to revisit its budget estimates yet: FM Sitharaman
-Speaking at the NDTV Profit Business Leadership Awards 2026 in Mumbai, Sitharaman said the government had made provisions to absorb the impact of rising oil prices, fertiliser imports and increased shipping costs arising from global developments.
-
-## Parliamentary panel backs Sebi board expansion, longer cooling-off period for top brass
-Standing Committee on Finance, headed by Bhartruhari Mahtab, backs key provisions of the Securities Markets Code Bill, including raising Sebi board strength to 15 from 9, and calls for a regulatory framework for virtual digital assets
 
