@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## US says it intercepted ‘surprise’ Iranian missile attack
+Incident ends a days-long pause in direct air strikes
+
+## US poised to impose new Russia sanctions package
+Measures are the latest sign of Washington’s warming relations with Ukrainian President Volodymyr Zelenskyy
+
+## SK Hynix profits soar sixfold on AI boom
+Second-largest memory-chip maker says it won multiyear contracts with about 10 customers
+
+## Hedge funds face demands to stump up collateral as AI stocks tumble
+Scale of losses in recent weeks sparks growing risk aversion on Wall Street
+
+## Higher inflation to cut value of UK public spending by £24bn, think-tank says
+Niesr calls for new policy commitments to be fully funded owing to impact of Iran war
+
+## Hong Kong imitates US IPO market but China is its real competition
+Allowing all companies to file confidentially for an initial public offering looks fruitless
+
 ## Apple tops $5tn valuation for first time
 Tech giant gains due to its lack of huge spending on AI and as investors seek havens from sell-off in chip sector
 
 ## Chip stocks tumble as AI sell-off deepens
 Nasdaq 100 briefly falls into correction territory ahead of Big Tech earnings
-
-## Burnham wants partnership with private sector, says UK business secretary
-Jonathan Reynolds tells FT that Starmer government dropped focus on economic growth because of ‘so many priorities’
-
-## Wachtell co-chair who grilled Musk departs for rival Gibson Dunn
-Bill Savitt leaves the corporate law powerhouse alongside five other partners
-
-## Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine
-Kyiv hopes White House talks will result in fresh US backing against Russia
-
-## Polish opposition rift hands Donald Tusk pre-election boost
-Ex-PM Mateusz Morawiecki prepares breakaway party after dozens of lawmakers expelled from rightwing PiS
-
-## Dictator’s daughter Keiko Fujimori takes power in Peru
-Conservative daughter of former dictator becomes latest rightwing leader in Latin America
-
-## Powerful earthquake hits Japan’s southern Kumamoto prefecture
-Reports of multiple deaths from tremor after blast at shopping centre and damage to factories, buildings and infrastructure
 
 ## World’s biggest EV battery maker pivots to AI, grids and ships
 China’s CATL aims to become market leader for battery energy storage systems
@@ -30,14 +30,11 @@ China’s CATL aims to become market leader for battery energy storage systems
 ## Fifa faces fierce backlash over plans for $20bn commercial stake sale
 UK prime minister joins chorus of criticism as football’s governing body holds talks with Trump-linked investment vehicle
 
-## Fifa plans $20bn commercial vehicle to lure external investors
-Joshua Kushner set to lead investor group as football’s governing body moves to cash in on World Cup
+## Wachtell co-chair who grilled Musk departs for rival Gibson Dunn
+Bill Savitt leaves the corporate law powerhouse alongside five other partners
 
-## Mike Ashley’s Frasers Group builds stake in Burberry
-Sports Direct owner discloses 4% position as it strives to establish itself in the luxury market
-
-## Ares’ next big private capital deal looks deceptively close to home
-While it’s already common to find private equity and credit under the same roof, any tie-up will prove a test of culture
+## Go Digit, Graphite India, RVNL, HUDCO, Tanla Platforms, Euro Panel in focus today
+Corporate developments kept several stocks in focus as Go Digit received CCI clearance, Graphite India faced a US duty, RVNL secured a major railway order, HUDCO advanced overseas fundraising, and Tanla Platforms and Euro Panel unveiled expansion-related announcements.
 
 ## Suzlon picks Singapore as global hub to drive overseas expansion
 The Singapore office will function as the group’s international control centre, overseeing overseas sales, operations and maintenance services, banking and procurement
@@ -60,8 +57,8 @@ Company confident of winning more orders from West Asia
 ## Purpose, scale and long-term bets build enduring businesses: Kumar Mangalam Birla
 Birla noted that India has the potential, the credentials and track record to become a global manufacturing powerhouse
 
-## South Korean market meltdown barely ruffles India; IT stocks steal the show
-The Nifty 50 closed at 23,985, down just 0.04%; Nifty IT index rallies 3.3%
+## For ease of liquidity & business, government to amend MSME Act
+New amendments to the MSME Development Act will ensure faster payments for small businesses. Mandatory digital invoicing and stronger protections against delayed payments are proposed. The government aims to improve liquidity for these vital enterprises. Dispute resolution will be accelerated throug
 
 ## US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop
 Broader market sentiment remained supported by another round of stronger-than-expected corporate earnings. Coca-Cola advanced 5.8% after reporting a 7% increase in revenue, despite what Chief Executive Officer Henrique Braun described as “a dynamic consumer landscape.”
@@ -84,8 +81,8 @@ The Ministry of Petroleum and Natural Gas clarified E20 petrol use is not a vali
 ## South Korea's KOSPI crashes around 11%: Circuit breaker triggered, market sees worst session in 5 months
 Investor sentiment was also weighed down by developments in China, including the blockbuster listing of ChangXin Memory Technologies (CXMT) and reports that a Chinese state-backed company has started manufacturing immersion DUV lithography equipment.
 
-## Gold price prediction today: Will gold prices stay range-bound? Check July 28, 2026 outlook
-Gold price prediction today: Gold prices are rising but are still not out of the woods, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+## US Senate passes Russia sanctions bill, India and others at risk of 100% tariffs
+US Senate passes Russia sanctions bill, India and others at risk of 100% tariffs
 
 ## Odisha govt orders evacuation as over 1 lakh hit by floods
 Odisha govt orders evacuation as over 1 lakh hit by floods
@@ -108,32 +105,35 @@ CJP spokesperson Saurav Das said the Supreme Court should not be ‘politicised�
 ## Schools to remain shut in 3 Odisha districts due to heavy rains: Officials
 Indian Meteorological Department issued a red warning for Sundargarh, Sambalpur, Bargarh and Jharsuguda districts, for Wednesday
 
-## Karnataka man kills wife, films her hanging, shares video with family: Police
-Praveen Ashok Jigalur allegedly hanged his wife and filmed her as she struggled while hanging from a noose, investigators said.
-
-## IPS trainee arrested in sexual harassment case that rocked National Police Academy
+## Gujarat: Polling for high-stakes local body bypolls ends
 
 
-## Panjab University scholar dies of electrocution on campus, students protest
+## You were at Delhi protest, but your police booked protesters in Kerala: Pinarayi Vijayan to CM Satheesan
 
 
-## BJP rejects report on Govt offer to change Pradhan portfolio
+## 2022 Khargone communal violence: 11 accused acquitted by court as prosecution case collapses
 
 
-## ‘Hit without provocation’: Ranchi woman who suffered ear injury during Sansad Chalo
+## ‘PM must change angle of his heart, not of cameras’: Priyanka Gandhi slams action on protesters
 
 
-## ‘Masti must not stop’: 19-yr-old whose reels energised protest
+## 2,000 farmers march towards Bhopal, bedding and cooking material in hand
 
 
-## ‘Copyright strikes used to extort creators’: Delhi HC asks Meta, Centre to respond
+## ‘Granted leave only after stillbirth’, teacher’s family claims officials demanded Rs 50,000 bribe
 
 
-## In Delhi’s wholesale hub Sadar, choked drains and water inside shops
+## Prashant Kishor’s ‘AI video’ claim, BJP chief’s temple visits — last day in a busy Bihar campaign
 
 
-## Traffic snarls, water enters shops: Heavy rain sinks parts of Delhi
+## CJP warns of fresh protest if cases continue; Maharashtra, Bengal say ‘no coercive action’
 
+
+## Hong Kong stocks hunker down for a day packed with Fed decision, jumbo IPO debut
+Hong Kong stocks are gearing up for an eventful day on Thursday, when both a rate decision by the US Federal Reserve and a debut of the city’s largest initial public offering (IPO) in seven years coincide to test investors’ risk appetite. An unexpected increase in the US borrowing costs, or even a h
+
+## Shanghai Clearing House targets global growth with expanded offshore yuan push
+China is pushing a new model to boost international sales of its domestic bonds, with the Shanghai Clearing House (SHCH) leveraging global financial networks to expand the offshore yuan pool. Writing in a recent article, SHCH chief Ma Jianyang noted that the initiative was designed to solidify Shang
 
 ## Elon Musk launches invite-only X Money where users can send cash to one another
 Elon Musk’s social media company X, formerly known as Twitter, launched its own bank account-like product where users can send money to one another. The service, known as X Money, is not a new bank. X Money is using technology and banking services provided by Cross River Bank and branding that backb
@@ -152,12 +152,6 @@ Western anxiety over a potential breakthrough in Chinese chipmaking gear may be 
 
 ## Hong Kong’s Exchange Fund first-half earnings fall 37% on equity slump, softer bond income
 The Exchange Fund, the war chest used to defend the local currency, reported a 37 per cent decline in first-half earnings as losses in Hong Kong equities and weaker bond returns weighed on performance, the Hong Kong Monetary Authority (HKMA) said on Tuesday. Earnings stood at HK$134.7 billion (US$17
-
-## Hong Kong’s Asean charm offensive bags US$1.5 billion Malaysian bond listing
-Hong Kong’s push to draw Southeast Asian companies and markets into its financing orbit has scored a milestone, with the Malaysian government preparing to list a US$1.5 billion Islamic bond in the international financial centre later this week. The dual listing – sold on Bursa Malaysia and Hong Kong
-
-## CATL, BYD battle for supremacy in Middle East energy-storage market
-Competition among Chinese energy-storage firms is intensifying in the Middle East, as a massive deal that was expected to go to global electric vehicle (EV) battery king Contemporary Amperex Technology Ltd (CATL) was ultimately won by BYD and Sungrow Power Supply. Shenzhen-headquartered BYD, which m
 
 ## Scandal Exposes Limits of China’s Scientific Rise
 The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.
@@ -255,6 +249,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA proposes plan to sell stakes in the World Cup, angering UEFA
+Football's world governing body announces plans to sell stakes of up to 20 percent in the World Cup and other events.
+
+## Iran war live: US accuses IRGC of ‘surprise’ ballistic missile attacks
+US claim comes as Saudi Arabia intercepts drones and Iran warns of 'any action' to maintain its control of Hormuz.
+
+## Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker
+The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.
+
 ## Japan Kumamoto earthquake: What happened, damage, victims, latest updates
 A magnitude 6.8 earthquake struck Japan's Kyushu island, causing building collapses, fires and widespread damage.
 
@@ -269,15 +272,6 @@ Omani proposal is based on the Strait of Malacca model, where ships that use the
 
 ## Rome’s viral graffiti cleaner is taking on an ancient problem
 Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.
-
-## Many feared dead from 7.1-magnitude quake in Kumamoto, Japan
-A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread damage, injuries and fears of deaths.
-
-## Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack
-Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.
-
-## Protests in DC against Netanyahu’s meeting with Trump
-A group of demonstrators gathered near the White House to protest Benjamin Netanyahu’s visit to Washington.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
