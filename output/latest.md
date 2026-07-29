@@ -1,61 +1,70 @@
 # AION Intelligence
 
-## Saudi Arabia joins US strikes on Iran-backed militias in Iraq
-Iran also fired ballistic missiles at US forces in Jordan, ending a days-long pause in direct air strikes
+## Fauci invokes Fifth Amendment at fiery Senate hearing on Covid-19
+Republican lawmakers threaten to hold scientist in contempt for failing to answer questions
 
-## Tom Holland and Zendaya are the saving grace of Spider-Man: Brand New Day
-The pair has gifted Marvel with a series of commercial bangers but don’t expect novelty from the latest episode
+## Ex-Goldman executive awarded £1.45mn after paternity leave ‘stigma’
+Jon Reeves lost his job after he took six months off to look after his baby
+
+## Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack
+Washington says Tehran launched an attempted ‘surprise attack’ on US military installations in the Middle East
+
+## Social care reform is a test of UK politics
+Efforts to fix England’s broken system must answer the question: who pays?
+
+## Reality bites for South Korea’s memory chip wonder-stocks
+Even the most stalwart boom believer must now reckon with nuance
+
+## Takaichi warns of ‘race against time’ to rescue Japan earthquake survivors
+Powerful tremor in Kumamoto prefecture has left at least 14 dead
+
+## US oil inventories fall to ‘precariously low’ level as Iran war disrupts supply
+Decline could erode ability to supply Asian and European markets dependent on supplies from the Middle East
+
+## France moves to expel pro-Kremlin TV personality
+Xenia Fedorova features prominently on media owned by billionaire Vincent Bolloré
+
+## Greggs shares soar as baker defies fears of sausage roll peak
+UK chain has continued its expansion in face of scepticism over continued appetite for its sausage rolls
+
+## Nvidia’s chips may be novel, but its ‘circular financing’ isn’t
+Chipmaker is basically writing cheques to enable its customers to buy more of its products than they could otherwise afford
+
+## Airbus profits climb as jet deliveries rise
+Planemaker delivers 237 aircraft in second quarter, up 39% from a year ago
+
+## Here’s how to make North Sea drilling compatible with net zero
+Energy project licences should be conditional on carbon dioxide disposal
+
+## L’Oréal chief plans to more than triple sales of Gucci beauty products
+French group will take on beauty licence for luxury brand next year after buying rights from owner Kering in €4bn deal
 
 ## Wildfire evacuations hurt France’s oyster capital
 About half of shellfish farms in Cap Ferret affected, according to industry officials
 
-## The pathway to prosperity is getting harder for developing countries
-The rules-based global market in which rich nations tolerate trade surpluses does not exist any more
+## Cotton imports likely to rise to a record 60 lakh bales
+Exports are taking a hit, dropping to 15 lakh bales from 18 lakh, as local consumption is on the rise and is now projected to hit 348 lakh bales this season
 
-## Elon Musk settles long-running legal battle with X advertising group
-Billionaire had accused brands of organising an illegal boycott
+## Chola MS records 6.7% growth in Gross Written Premium in Q1FY27, profit falls
 
-## South Korea cracks down on risky retail funds after tech rout
-Regulators move to limit access to leveraged ETF products after Kospi falls by a third this month
 
-## EU warns it will investigate Fifa’s $20bn commercial venture
-Bloc joins protests against plans by football’s governing body to raise billions from outside investors
+## Premiumisation powers Radico’s Q1 numbers; P&A growth guidance raised to 25%+
+Revenue from operations grew 11.8% year-on-year to ₹1,683.7 crore
 
-## Burnham opens door to tax rises to pay for social care overhaul
-Prime minister says he wants to avoid people having to sell their homes to pay for care
+## NEET UG Counselling 2026 to introduce one-time physical reporting, online verification
+The revised counselling system will allow candidates to indicate their preference after seat allotment by choosing either the ‘Freeze’ or ‘Float’ option online
 
-## Zijin’s $4bn deal with Allied Gold collapses
-Objections from Chinese regulators put tie-up on rocks before the two groups cancelled acquisition
+## Redington posts record revenue and PAT growth in Q2
+Revenue from operations for the quarter went up 34.5% year-on-year to ₹34,922 crore
 
-## Brookfield to turn former nuclear weapons site into AI campus
-Canadian investment group to partner utility NextEra on data centre in Kentucky
+## NCDEX ventures into MF distribution with launch of NCDEX Nidhi
+The exchange aims to take MF investments to smaller cities through its farmers producers organisation network
 
-## Daily Mail publisher seeks £10mn upfront from Prince Harry and other privacy claimants
-Demand for ‘eye-watering’ costs threatens to leave gap in celebrities’ insurance cover after lost lawsuit
+## DGCA’s thrust control module inspection continues: Minister
+Fuel control switch detents carried out at the OEM facility in Seattle did not reveal any abnormalities, the civil aviation minister said
 
 ## India’s corporate bond market matures
 India’s corporate bond market is shifting from a bank-dominated credit model toward a market-based structure. According to a report from Crisil, private issuers led by NBFCs have reached a record share of issuance, surpassing their long-run average. Even as high-grade AAA paper continues to dominate
-
-## IPL’s business value soars to $20.6 billion, RCB most valued franchise
-Royal Challengers Bengaluru was ranked as the most valuable franchise with a brand value of $312 million, up 16 per cent year-on-year, becoming the first franchise to cross the $ 300 million-mark
-
-## Deep depression drags rain fury west; targets MP, Gujarat next
-IMD has warned of heavy to very heavy rainfall and extremely heavy falls, over West Madhya Pradesh on Thursday after issuing a similar alert for Vidarbha and Chhattisgarh on Wednesday
-
-## Indian rice prices increase on El Nino factor, but still stay competitive f.o.b basis
-Including cost and freight, Pakistan’s limited availability of rice poses stiff competition on cheaper container availability
-
-## Q1 Results Today Highlights: Adani Enterprises con. loss at ₹1,462 cr, Vedanta Oil logs ₹695 cr profit, Asian Paints, Adani Ports, Colgate, V-Guard Q1 profit rise, Thangamayil Jewellery shares tank 10% after results; Eicher Motors PAT up 21%, Waaree Energies' rise 15%, Dabur's up 15%, ACME Solar con. profit zooms 80%
-Q1 Results Today, 29th July 2026 Highlights: Stay tuned for more from businessline
-
-## Manipal Health IPO: Leading operator at premium valuation
-High acquisition led growth should be monitored after listing for stock exposure
-
-## Sensex, Nifty rise as investors shrug off Iran attack; IT stocks lead fourth straight rally
-Nifty IT index surges 2.3% for fourth consecutive session, extending its three-day rally to around 8% and its monthly gain to over 17%
-
-## Services sector showed moderation in May due to lower growth in retail trade, road transport, IT and admin & support
-Number of sectors with double digit growth came down
 
 ## India-US trade pact: Piyush Goyal explains the one condition to seal the deal
 India's trade pact with the US awaits tariff competitiveness restoration for its first phase. Minister Piyush Goyal stated India needs a comparative advantage over rival nations. This condition must be met before the bilateral trade agreement can commence. Meanwhile, a US legislative proposal could 
@@ -81,6 +90,21 @@ Maharashtra now leads states in tax revenue after the Goods and Services Tax imp
 ## ‘Made in India’ phones go global: Smartphone exports jump 165 times to Rs 2.59 lakh crore
 India's electronics manufacturing sector has seen substantial growth over the past decade. Mobile phone exports have increased significantly, reaching approximately Rs 2.59 lakh crore by 2025-26. Domestic mobile phone production has also risen around 33 times during the same period. The broader elec
 
+## Bangladesh 'reviewing' PM Modi's invitation to PM Rahman to visit India: FM
+Foreign Minister Khalilur Rahman made the comments when asked about India's invitation to PM Tarique Rahman to attend the upcoming 18th BRICS Summit in Delhi.
+
+## No Pakistani Kashmir, only Pakistan-occupied Kashmir: Indian Embassy in US
+The embassy said the Union Territories of Jammu & Kashmir and Ladakh, have been, are and will "always remain an integral and inalienable part of India."
+
+## Sonam Raghuvanshi surrenders after Supreme Court cancels bail in Meghalaya honeymoon murder case
+The Supreme Court noted that Sonam Raghuvanshi was fully aware of the grounds of her arrest at the time she was taken into custody.
+
+## Centre trying to disrupt AAP's Aug 1 town hall against E20 fuel: Kejriwal
+The AAP chief claimed that police approached the Constitution Club and asked it to cancel the booking for the event.
+
+## Suspected timber poacher shot dead in gunfight with forest guards in Assam’s Kokrajhar
+Kokrajhar DFO Mustafa Ali Ahmed said when the forest personnel approached the group, they opened fire, leading the guards to fire retaliatory shots
+
 ## 13 Indian seafarers remain stranded aboard MV AMIR1 at Chornomorsk port: Ukrainian Embassy
 Ukrainian Embassy said that disturbing news continues to emerge from Ukraine's Black Sea ports, as it claimed that Russia has “intensified its attacks”.
 
@@ -90,43 +114,28 @@ On the anti-paper leak bill passed in the Lok Sabha, Abhijeet Dipke said laws wo
 ## ‘Unstable approach’: Delhi-Hyderabad flight with CM Reddy onboard lands in 2nd attempt after go-around amid rain, wind
 An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onboard had an “unstable approach” at the Hyderabad airport
 
-## Meta writes to govt, assures stricter checks for prominent accounts after PM Modi post row : Report
-Meta has informed the IT Ministry that posts by the Prime Minister and prominent accounts will have additional oversight on the platform.
-
-## ‘DMs filled with death threats’: CJP's Ratna Singh says she relies on lessons from Jantar Mantar protest
-“No amount of judgment can outweigh the work we have done… This movement has given me a thick skin," says Ratna Singh, spokesperson of Cockroach Janta Party.
-
-## Bengal govt to add eggs as ISKCON serves ‘Satvik’ mid-day meals in Kolkata schools
-Adhikari said that as a pilot project, ISKCON would provide midday meals to schools in a large part of Kolkata from August 1.
-
-## In Bengal, Suvendu Adhikari unveils pilot project to keep eggs in mid-day meals
-West Bengal will launch a pilot project from August 1, allowing ISKCON to provide vegetarian mid-day meals, while eggs are served separately by SHGs.
-
-## 2 brothers die in a landslide in Nagaland’s Mokokchung town: Police
-A prayer service was held later in the day and the mortal remains were taken to their native Alisopur village in Kiphire district
-
-## CWG 2026: Neeraj Chopra returns to Glasgow, but the javelin field has changed
+## Pitch-a-friend dating trend: Why singles are ditching apps for friend-led matchmaking
 
 
-## Rajeev Khandelwal calls himself a ‘slave’ to wife Manjiri; expert explains psychology
+## Prime Minister Facebook post: Meta writes to government, outlines rigorous safeguards for posts by prominent accounts
 
 
-## CWG silver translates for some more farmland for lifter Harjinder Kaur’s family
+## ‘No prospect of early conclusion’: In jail for 12 years, 2 UAPA accused get bail
 
 
-## Maharashtra State Film Awards 2025 winners: Prasad Oak, Rani Mukerji, Salim Khan honoured
+## HC puts Punjab pharmacist recruitment on hold over alleged hi-tech cheating racket
 
 
-## ‘See ground reality’: D K Shivakumar offers helicopter tour of Cauvery to Tamil Nadu CM Vijay
+## ‘US will beat the f*****g s**t out of them’: Trump warns Iran of major escalation
 
 
-## Kartik Aaryan-Anurag Basu film is ‘more or less complete’, says Bhushan Kumar
+## Amid row, Suvendu says Bengal govt to provide eggs with ISKCON-cooked veg food in mid-day meals
 
 
-## Deadline for mandatory mobility smart card in buses extended to September 1
+## Litton Das appointed new Bangladesh ODI captain
 
 
-## On camera, Bengaluru beggar pretending to be disabled caught by locals
+## Paper’ ‘leak’ at Gujarat Ayurved University: Students’ wings of 3 political parties stage protests
 
 
 ## ‘Explosive demand’ for cooling continues as Europe swelters, China’s Midea says
@@ -201,6 +210,9 @@ Washington has moved from an emphasis on human rights to “selective” contact
 ## Sri Lanka’s Tariff Concession May Carry a Diplomatic Cost With China
 To avoid higher US tariffs, Sri Lanka is having to act as if allegations of forced labor against China, a country with a high level of mechanization, are credible.
 
+## How Mexico Locked In Its Militarized Police State
+In 2021, Andrew Ivey wrote, “‘I Have Other Data’: The Guardia Nacional and the Entrenchment of Mexico’s Militarization’,” where he warned Mexico was headed toward a militarization trap. Five years later, amidst increased pressure from the Trump administration and the election of a new Mexican presid
+
 ## ASML’s Extreme Ultraviolet Lithography and the Limits of Reverse Engineering in China
 In June, the U.S. Department of Commerce informed the Dutch company ASML that it suspects one of its extreme ultraviolet lithography machines has reached China, an accusation that ASML denied, and for which no supporting evidence has yet been made public. ASML is the sole global producer of the mach
 
@@ -221,9 +233,6 @@ In the speech announcing his invasion of Ukraine on Feb. 24, 2022, Vladimir Puti
 
 ## Zelensky’s Political Storm Starts to Clear
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
-
-## Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense
-Taiwan produces the world’s most advanced semiconductors, yet the island’s own military is only in the opening stages of adopting artificial intelligence systems. This mismatch bears directly on Taiwan’s ability to deter Chinese aggression.Beijing is pushing to develop and field sophisticated AI-ena
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Korea’s stock market plunges as AI-driven boom fades
+The benchmark KOSPI .KS11 sees steep decline as interest in chipmakers falls.
+
+## Iran pushes back against US as regional attacks heat up
+New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.
+
+## Democrat senators ask US SEC to probe Trump Media’s fast feed sale
+Trump Media has discussed charging as much as $100,000 a month for the Truth API product for buyers to get first access.
+
+## Fauci invokes Fifth Amendment in heated COVID-19 Senate hearing
+Physician declines to answer Senate questions as Republicans like Rand Paul accuse him of covering up COVID's origins.
+
+## Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work
+Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.
+
+## Is the world at risk of another energy shock?
+Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.
+
 ## Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors
 Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal that moves 'people's game' further from fans.
 
 ## Trump says US to deliver ‘beating’ to Iran after bases again targeted
 US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.
-
-## Why Saudi Arabia holds the key to Palestinian statehood
-Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.
-
-## Indian student in Russia says he’s been wrongly charged over Bihar protests
-An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.
-
-## US and Israeli leaders expected ‘swift outcome’ in Iran
-New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.
-
-## ‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes
-'There is no ceasefire' say Palestinians in Gaza after new Israeli strikes
-
-## How a seaweed bloom is affecting tourism in Mexico
-In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.
-
-## Fragile peace in Syria’s Set Zaynab as sectarian challenges persist
-Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
