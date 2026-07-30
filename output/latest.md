@@ -3,17 +3,35 @@
 ## Japan’s yen jumps 3% as speculation over intervention swirls
 Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide
 
+## Warsh’s stripped-back Fed communication ‘already backfiring’, say investors
+Traders warn lack of guidance on interest rates erodes US central bank’s influence on Treasury market
+
+## Thousands of Moroccans swim to Spanish enclave
+Fresh migration crisis puts pressure on embattled Prime Minister Pedro Sánchez
+
+## Data suggests fears of UK ‘non-dom’ exodus overblown
+Number fell by just 0.5% in 2024-25, casting doubt on claims tougher rules would lead to wealthy people leaving
+
+## Trump says he could pull Todd Blanche’s attorney-general nomination
+President’s suggestion comes as two Republican senators threaten to torpedo top lawyer’s confirmation process
+
+## BoE holds rates at 3.75% as it waits to see impact of Iran war
+Monetary Policy Committee split six to three, with key voters more confident that underlying price pressures are receding
+
+## Microsoft surges 15% as results and data centre leases cheer investors
+Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
+
 ## Saudi economy shrinks as Middle East conflict takes heavy toll
 GDP contracted by 4.8% in second quarter compared with same period in 2025
 
-## Declining PCE inflation in June likely to be reversed in July
-Higher energy prices this month will send the inflation gauge back up
+## Citadel buys Situational Awareness equity holdings after steep AI losses
+Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors
 
-## Reform UK stands by Farage aide George Cottrell amid financial scrutiny
-Metropolitan Police are investigating donations made by mother of long-term party figure
+## Ferrari profits boosted by AI wealth and hyper-personalisation boom
+Custom services set to account for as much as 20% of revenue, Italian luxury-car maker says
 
-## US economy grew less than expected at 1.5% rate in second quarter
-Slowdown comes amid continued impact from Middle East war
+## BP to cut 700 jobs as it warns on oil ‘oversupply’
+UK oil major says reduction in ‘non-frontline’ roles will result in flatter corporate structure
 
 ## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
 Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
@@ -21,50 +39,41 @@ Social media chief defends strategy based on personalised bots as costs rise and
 ## NYSE owner to buy bond platform MarketAxess in $5.7bn deal
 Acquisition marks significant step by Intercontinental Exchange into fixed-income trading
 
-## Can Vance square his Catholicism with Trump’s Republican Party?
-The vice-president’s new book criticises the hypocrisy of the old religious right
-
-## Situational Awareness offloads large portion of public equity holdings
-The $20bn hedge fund run by Leopold Aschenbrenner suffered steep losses in recent days from tech sell-off
-
-## Hyper-personalisation boom and AI wealth drive up Ferrari profits
-Custom services set to account for as much as 20% of revenue, Italian luxury-car maker says
-
-## BP to cut 700 jobs as it warns on oil ‘oversupply’
-UK oil major says reduction in ‘non-frontline’ roles will result in flatter corporate structure
-
 ## Fifa not ‘selling the World Cup’ in $20bn commercial plan, says adviser
 Greg Maffei defends contentious proposal he helped shape as body’s move to bring in outside investors is hit by backlash
 
 ## Has the market lost its mind over AI? You asked, we answered
 Lex head John Foley and tech comment editor Elaine Moore replied to reader questions
 
-## How autonomous are AI agents?
-What the Hugging Face cyber attack and a remote work index can tell us about risk vs reward
+## India tightens drug quality norms, eyes biopharma push: Pharma Secretary
+Manoj Joshi said restoring confidence in India's pharmaceutical manufacturing through stricter regulation is the government's immediate priority
+
+## Bajaj Finance Q1FY27 standalone net up 29% at ₹5,345.50 cr
+The NBFC logged a 28% y-o-y growth in consolidated net profit at ₹6,081 crore against ₹4,765 crore in Q1FY26
+
+## Buffalo meat, non-basmati rice lift India’s Q1 agri produce exports
+Shipments rise 14% to $7.64 billion; Basmati rice shipments decline on reduced offtake
+
+## Vedanta net up 72% in Q1 on better realisation
+Vedanta’s demerger was unlocking significant shareholder value, with combined market cap of resulting companies growing by over ₹71,000 crore in the first quarter, added Ajay Goel, Group CFO, Vedanta.
 
 ## Closing auction for F&O stocks may dent broker revenues, alter end-of-day trading
 Industry expects institutional orders to migrate to the auction window as the new closing mechanism takes effect on August 3
 
-## Dividend windfall, disinvestment receipts give fiscal cushion
-Total collections outpace full-year Budget Estimate of ₹3.19 lakh crore
+## Domestic sugar prices to remain firm in short-term, says Triveni
+Company registers 2.1 per cent growth in net turnover at Rs 1,581 crore
 
-## Data Patterns to acquire ST Advanced Composites; net profit down 14% in Q1
-The total order book as on June 30, 2026, stood at ₹928 crore
+## Hyundai Q1 FY27 net income, revenue down due to West Asia crisis, Chennai plant mishap
+Numbers expected to improve in the current quarter with production coming back to normalcy after a fire incident at its Chennai plant
 
-## Zepto puts IPO on hold, looks to raise over ₹1,000 crore in pre-IPO funding
-The move comes as Zepto recalibrates its public market strategy amid a gap between its internal valuation expectations and those of prospective public market investors
+## M&M Q1 attributable profit jumps 34% to ₹5,455 crore, beats Street; revenue rises 28%
+Robust demand for SUVs and tractors, along with strong contributions from its financial services and technology businesses, helped the group navigate commodity inflation and continued investments in electric vehicles
 
-## Karnataka to see Statewide protests Friday over Cauvery release order to Tamil Nadu
-Karnataka had opposed the CWRC order, citing cumulative inflows into the reservoirs between June 1 and July 27 were 65.86% below the 30-year average
+## Transponders switched off: How tankers with Saudi oil for India are exiting Red Sea by going ‘dark’
+Following the Houthi attacks on several Saudi tankers, Indian refiners have increasingly opted to purchase Middle Eastern crude on a delivered basis.
 
-## Natural gas’ share in primary energy supply at 7.12% in FY25
-While the share of natural gas in the primary energy mix was 7 per cent in FY24, this share was around 6.7 per cent in FY23.
-
-## TN govt forms expert committee to advise on mitigating El Nino challenges
-The Committee will comprise academicians and researchers and officials from State government agencies
-
-## Aarti Industries Delivers Promising Q1 FY27; Reaffirms Long-Term Growth Outlook
-Aarti Industries Delivers Promising Q1 FY27; Reaffirms Long-Term Growth Outlook
+## E20 petrol debate: Govt debunks 7 claims on ethanol blended fuel - impact on mileage, engines & more
+Road Transport and Highways Minister Nitin Gadkari has said that petrol blended with 20% ethanol (E20) may lower fuel efficiency by 2-6%, depending on the type and age of the vehicle.
 
 ## US economy slows as GDP growth slips to 1.5%, consumers keep momentum alive
 US economic growth slowed to 1.5% in the second quarter, impacted by a significant rise in imports. Strong consumer spending and business investment provided crucial support for the economy during this period. Inflation continued to ease in June, though it remained above the Federal Reserve's target
@@ -84,59 +93,56 @@ Experts say the hiring landscape is becoming increasingly project and demand dri
 ## India's renewable energy boom could make Germany a customer for green hydrogen
 India's expanding renewable energy capacity could soon make it an energy exporter. Germany's ambassador sees potential for India to export green hydrogen in coming years. Renewable energy is a strong pillar of India-Germany economic cooperation. Artificial intelligence and a proposed EU Free Trade A
 
-## Global gold demand flat at 1,269 tonnes in April-June quarter: WGC report
+## Woman booked for using abusive language against PM Modi at CJP-led Jantar Mantar protest
+Case registered after Ghaziabad resident approached Noida police; complaint says her act “hurt the dignity of constitutional office; intended to spread hatred”
 
+## Mahanadi river dispute with Chhattisgarh may be resolved before Diwali: Odisha CM
+Odisha CM Majhi expects resolution of the Mahanadi water dispute with Chhattisgarh before Diwali, following a tripartite meeting aimed at negotiation.
 
-## Will AI take your job? Cashiers to doctors, which professions face biggest risk
-Artificial intelligence will automate routine jobs across many industries. Complex tasks requiring human judgment will be supported by generative AI. Financial services and retail trade see high automation risk for basic operations. Healthcare and education will see AI strengthen clinical and learni
+## Gujarat on high alert as extremely heavy rainfall likely over next 2 days
+The Indian Army, Navy and Air Force have been kept on standby for relief and rescue operations.
+
+## Another paper leak? Odisha medical exam questions land on WhatsApp during test
+Authorities said someone managed to ‘smuggle’ a device into the examination hall to photograph and share the question paper despite routine frisking.
+
+## At CCS meet, Modi orders ‘whole of govt’ plan to protect oil supplies, Indians in West Asia
+The meeting, the CCS's fourth special gathering since the start of the West Asia conflict, comes at a time the Iran-US ceasefire is on the verge of collapse
+
+## Gangster Chhota Rajan gets 7 years in jail in fake passport case after 22-year legal battle
+Chhota Rajan, one of India's most notorious gangsters, split from Dawood Ibrahim after the 1993 Mumbai blasts, and is now serving multiple life sentences.
+
+## Odisha plans new anti-trafficking policy after years of poor conviction rates
+Odisha drafting a new policy that aims to overhaul the state’s approach from a reactive policing model to a systemic, survivor-centred strategy and improving prosecutions
 
 ## CJP's Saurav Das on criticism for abusive slogans: ‘Pursue defamation proceedings against the individuals’
 Saurav Das also urged young protesters to be mindful of the language they use during demonstrations.
 
-## Rajya Sabha debates anti-paper leak bill for tougher jail terms, higher fines, fast-track probes and courts
-Once RS clears it, bill will be sent to President Droupadi Murmu for approval before it becomes law, and thus the 2024 law gets amended
-
-## Kedarnath Yatra suspended after landslide blocks trek route near Gaurikund
-Kedarnath Yatra was suspended after a landslide blocked the Gaurikund trek, while heavy rain triggered road closures and fresh IMD alerts across Uttarakhand.
-
-## US deported 414 Indian nationals in first three months of 2026: EAM Jaishankar tells Rajya Sabha
-In total, 588 Indians were deported from the US and European countries from the period of January to March, 2026.
-
-## Umar Khalid moves High Court against bail rejection in 2020 North-East Delhi riots case
-Umar Khalid has challenged the July 4 order of the Karkardooma Court, which refused him regular bail.
-
-## BJP asks Suvendu to set up chemical park under new central scheme in Bengal
-West Bengal BJP president Samik Bhattacharya has asked chief minister Suvendu Adhikari to seek a ₹1,500 crore central grant under the BHAVYA Rasayan Scheme for a chemical park in the state
-
-## Insurer not liable to pay compensation for accidents if driver's licence invalid, says SC
-The top court said that an insurance company could not be saddled with the liability if the offending vehicle was driven without a valid driving licence.
-
-## Better ride quality, lower fuel average: Nitin Gadkari to Parliament on how E20 petrol affects vehicles
-Opposition parties and some consumer groups have criticised the rollout of E20 fuel, alleging that it can cause engine damage.
-
-## Priyanka Gandhi’s ‘gaumutra expert’ jibe draws ire of over 200 academicians: ‘Mockery not a substitute’
+## FIFA stake sale plans: UEFA nations threaten to boycott World Cup
 
 
-## Indian Railways to allow online booking of personal luggage on confirmed train tickets from July 31
+## DC trailer: Lokesh Kanagaraj, Wamiqa Gabbi’s romance unfolds amid crime and revenge
 
 
-## Husband withdraws IVF consent, woman fights for motherhood in Karnataka High Court
+## Delhi government to introduce Land Records Bill; issue smart cards to all properties
 
 
-## When severe back pain threatened Mohanlal’s career, Osho and KJ Yesudas helped him heal
+## Nitish Bharadwaj calls Ramayana ‘100%’ Oscar-worthy: ‘Ranbir now at par with Ranveer’
 
 
-## ‘Not even our grandfathers saw this’: Upper Assam reels as floods wash away entire villages
+## From Vaquita to Kakapo: 7 wildlife species fighting for their future
 
 
-## UPSC Essentials | Daily subject-wise quiz : Economy MCQs on deflationary phase of Indian tea market, Effective Exchange Rate and more (Week 173)
+## ‘No pressure on automakers to hide any fact’: Centre clears air amid E20 backlash
 
 
-## Nasir Nagar demolition | ‘Model state image at stake’: Gujarat HC asks why Surat civic chief remains in post
+## Nurturing storytellers for a filmmaking future that belongs to those who know AI
 
 
-## ‘Western format’: Mamta Kulkarni breaks silence on Mahira Sharma’s Ranaji 2.0
+## Student leader who CJP’s Ashutosh Ranka visited forcibly taken to hospital from Rajasthan university
 
+
+## The GBA is optimised for AI to achieve its full potential
+[The content of this article has been produced by our advertising partner.] In 2022, the concept of functional, intuitive, and interactive artificial intelligence (AI) systems leapt from the domain of science fiction into reality, powering the imagination of consumers, corporations, and governments 
 
 ## Hongkong Land acquires Singapore’s Wheelock Place in US$900m deal
 Hongkong Land will acquire Singapore’s Wheelock Place for about S$1.1 billion (US$900 million) through its Singapore Central Private Real Estate Fund (SCPREF), marking the fund’s first acquisition since its launch in February. The mixed-use commercial property on Orchard Road is being acquired from 
@@ -158,9 +164,6 @@ Chinese stocks trading overseas may emerge as a shelter for global investors, as
 
 ## AI stock rout fells Innolight after mega Hong Kong IPO
 Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares. The stock closed down 2 per cent after earlier plunging as much as 10 per cent. Shenzhen-listed shares of Innolight, w
-
-## BYD to debut first humanoid robots in August as rivalry with Tesla intensifies
-Electric vehicle giant BYD plans to unveil its first humanoid robots within the next few weeks, as China’s electric car makers accelerate their push into the embodied artificial intelligence market. The Shenzhen-based company told the South China Morning Post in a statement that its long-anticipated
 
 ## Trump Has Weakened America’s Sanctions Weapon
 The administration’s inconsistency has undermined a key tool of U.S. foreign policy.
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Is Pakistan ‘using India’s playbook’ in Kashmir?
-Pakistan is facing accusations that its forces have killed unarmed protesters in Pakistan-administered Kashmir
+## ‘To play God’: Cuba’s healthcare system collapses under US pressure
+As the Trump administration tightens US sanctions, Cuba's healthcare sector struggles with fuel and supply shortages.
 
-## Smoke rises over southern Iran after renewed US attacks
-A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.
+## In Their Own Hands: Ghana’s Drug Vigilantes
+Citizen vigilantes patrol Ghana's streets, fighting an opioid crisis. We meet those taking the law into their own hands.
 
-## War on Iran: Phase II: Day 19
-The US resumes bombing Iran, with a family of three killed in Qeshm Island.
+## NATO jets scramble as Russian missile detonates in Poland
+The growing series of NATO airspace violations is raising concern that Russia's war on Ukraine could escalate.
 
-## Police arrest dozens at London rally supporting Palestine Action
-The protest is the first in support of the proscribed group since Andy Burnham became prime minister.
+## IRGC video of retaliatory strikes on US targets in Jordan
+The IRGC released a video of what they say were missiles launched by their naval forces targeting US aircraft in Jordan.
 
-## El Salvador sentences gang members to 1,000 years in prison
-El Salvador sentences gang members to 1,000 years in prison
+## US GDP growth dips as inflation and trade deficits pressure economy
+GDP grew by 1.5 percent in the second quarter following a 2.1 percent increase in the first quarter.
 
-## ‘Go back to your own country’: NZ foreign minister faces backlash
-New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.
+## Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco
+Estimates suggest up to 2,000 have entered the Spanish territory in recent days in an attempt to reach Europe.
 
-## Islamabad residents rally in solidarity with Kashmir protests
-A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.
+## Republicans delay vote on Trump’s US attorney general pick amid concerns
+Senate committee postpones vote as key Republican says he has not received information on 'anti-weaponisation' fund.
 
-## Sudan’s RSF vows to return to Khartoum
-Sudan’s RSF released a video of leader Mohamed Hamdan Dagalo, known as Hemedti, telling his forces to seize Khartoum.
+## UEFA members vote to boycott FIFA if Infantino’s World Cup plans pursued
+European nations agree in virtual meeting to boycott FIFA competitions in protest at the private equity plan for World Cup.
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
