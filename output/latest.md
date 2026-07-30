@@ -1,73 +1,73 @@
 # AION Intelligence
 
-## ‘My life’s screwed’: Korean investors stress out after AI bubble bursts
-Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles
-
-## BoE expected to ‘talk tough’ but leave rates on hold
-Decision comes against backdrop of renewed volatility in energy prices
-
-## US borrowing costs hit 19-year high as Fed defies inflation fears
-Central bank holds rates even as investors worry Iran war will ignite jolt of price growth
-
-## Eurozone grew by 0.4% in second quarter despite Middle East energy shock
-Economists had expected a slower pace of expansion
-
-## Ukraine’s ex-defence minister blames procurement reforms for dismissal
-Fedorov interview offers his most detailed account of sacking that triggered wave of protest
-
-## Rolls-Royce raises 2026 targets after profits beat expectations
-Strong demand for UK aero-engine group’s civil and military engines boosts earnings
-
-## Chinese stocks on track for worst month in decade
-Investors pull out of ‘picks and shovels’ suppliers to AI boom
-
-## The Burnham bounce shouldn’t come as a surprise
-Labour may be enjoying an uptick in the polls but the public mood remains largely one of disinterest
-
-## Shell posts second-highest profits ever as traders cash in on Iran disruption
-UK oil major says earnings have surged even as its gas production fell sharply because of Middle East war
-
-## Lloyds targets £2bn cost cuts as part of new four-year strategy
-Plan builds on UK bank’s pivot from traditional lending business
-
-## Winner of US-China AI rivalry falls 2% in Hong Kong debut
-Shandong-based Innolight supplies data centre equipment to American and Chinese tech groups
-
-## Submit your questions: Has the market lost its mind over AI?
-Take part in a live Ask an Expert Q&A with Lex head John Foley and tech comment editor Elaine Moore today at 1pm (BST)
-
-## Adidas shares tumble after profits hit by World Cup marketing spend
-Net profit rose 6 per cent in the second quarter, below expectations
-
 ## BAE lifts profit and sales guidance following surge in orders
 UK defence group benefits from higher military spending amid ‘highly volatile’ picture on global threats
 
-## Maruti Suzuki commences 4th plant in Gujarat with 10-lakh capacity
-Maruti Suzuki’s total manufacturing capacity stands at 29 lakh units per annum
+## France allows some wildfire evacuees to return as blazes stabilise
+More than half of those affected have been permitted to go home in sign that worst fires in decades are under control
 
-## Deepak Fertilisers & Petrochemicals Q1 net profit doubles to ₹490 cr
-Total income rose to ₹3,262.21 crore in the first quarter of this fiscal from ₹2,682.52 crore in the corresponding period of the preceding year
+## KKR profits soar as it cashes in record amount of private equity bets
+Private capital giant weathers turmoil that has curtailed asset sales and fundraising by other players
 
-## Sensex today | Stock Market Live: Sensex, Nifty trade flat; IT stocks outperform in cautious market
-Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices traded in a narrow range on Thursday, with gains in IT stocks led by Persistent Systems, Wipro and Coforge helping offset global uncertainty over the Fed, elevated crude oil prices and geopolitical tensions in West Asia, while investo
+## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
+Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
 
-## Q1 Results Today Live: Vedanta Aluminium Q1 profit zooms, M&M, Gillette, IRFC, ICRA profit rise, Westlife profit falls, Bajaj Finance, Tata Steel, Vedanta, Torrent Pharma, Hyundai Motor, Swiggy, NSDL to announce Q1 results
+## There is no modern-day Maggie to save Britain from Burnhamism
+The right hopes that Labour’s new leader will fail, but who exactly is going to step in and shake things up?
+
+## Warsh’s stripped-back Fed communication ‘already backfiring’, say investors
+Traders warn lack of guidance on interest rates erodes US central bank’s influence on Treasury market
+
+## Bordeaux wineries at risk from ‘zombie fires’
+France’s famous vineyards are vulnerable to absorbing smoke particles
+
+## Amazon finds cases of AI causing runaway spending on tech projects
+E-commerce giant’s staff said the new technology had caused budget overruns that sometimes took months to detect
+
+## Biggest fusion start-up taps institutional investors as it eyes first commercial plant
+No company has yet proved it can build a commercially viable power plant
+
+## Aston Martin investors kept in dark over details of asset shift
+Carmaker bats away questions over £550mn debt deal with BlackRock-owned private credit firm HPS
+
+## Magnum boosted by heatwave as ice cream sales surge in Europe
+Ben & Jerry’s maker expanded distribution to cope with increase in summer demand
+
+## Over-speeding caused 82,124 road accidents in 2025: Gadkari
+In a written reply to the Lok Sabha, Road Transport Minister Nitin Gadkari said driving on the wrong side and lane indiscipline caused 4,089 accidents, followed by jumping red lights (276) and the use of mobile phones while driving (136).
+
+## Google, RAI partner to drive digital adoption across over 600,000 retail storefronts
+As part of the partnership, retailers will be supported in using Google Business Profile and Merchant Center to improve the online discoverability of their stores and showcase in-store inventory
+
+## Q1 Results Today Live: Swiggy narrows loss, Bajaj Finance, M&M, Gillette, Vedanta, Vedanta Aluminium, Ajanta Pharma, IRFC, ICRA, Niva Bupa profit rise, Hyundai PAT down; Tata Steel, Torrent Pharma, NSDL to announce Q1 results
 Q1 Results Today, 30th July 2026 Live Updates: Stay tuned for more from businessline
 
-## Growatt Recognized as S&P Global Energy Tier 1 PV Inverter Supplier for 2026
-Growatt Recognized as S&P Global Energy Tier 1 PV Inverter Supplier for 2026
+## EU lays out $11.4 billion for 7 AI gigafactories as it aims to catch up with US, China
+Brussels has moved to establish ‘tech sovereignty’ amid growing concern that technologies from foreign providers could be ‘weaponised’ against the Europeans
 
-## Prestige Estates Q1 profit down 19% to ₹236 cr
-Total income rose to ₹2,835.6 crore during the quarter from ₹2,468.7 crore a year ago
+## BookMyForex adds travel rewards to forex card with MakeMyTrip travel discounts
+New customers will also receive up to 2% cashback on their first forex load on a minimum load of ₹25,000
 
-## Govt empanels 16 third party testing agencies for Coal Exchange
-The third-party agencies will collect, test and certify coal samples as the Centre prepares to operationalise the regulated Coal Exchange within 12 months.
+## NCW set target of eliminating child marriage across country by 2030: Rahatkar
+The national average of child marriage stands at 23.3%, while West Bengal, Bihar and Tripura have among the highest rates, with over 40% of women married before the age of 18
 
-## Tamil Nadu can lead next phase of growth in wind energy: IWTMA
-The industry body commissioned a report “Action Items for Energy Transition in Tamil Nadu” that outlined policy reforms, manufacturing expansion and export-focused strategies to cement the state’s leadership in India’s renewable energy transition.
+## Kotak Securities Earns Great Place to Work® Certification and Recognition Among India's Best Workplaces™ in Investments 2026
+Kotak Securities Earns Great Place to Work® Certification and Recognition Among India's Best Workplaces™ in Investments 2026
 
-## Stock market today: Sensex rises 105 points; Nifty holds above 24,275 in afternoon trade
+## MetaOptics and Elsoft partner to scale next-generation semiconductor optics manufacturing equipment
+MetaOptics and Elsoft partner to scale next-generation semiconductor optics manufacturing equipment
 
+## Stock market today: Sensex rises 300 points; Nifty holds above 24,300 in afternoon trade
+
+
+## India's renewable energy boom could make Germany a customer for green hydrogen
+India's expanding renewable energy capacity could soon make it an energy exporter. Germany's ambassador sees potential for India to export green hydrogen in coming years. Renewable energy is a strong pillar of India-Germany economic cooperation. Artificial intelligence and a proposed EU Free Trade A
+
+## Global gold demand flat at 1,269 tonnes in April-June quarter: WGC report
+
+
+## Will AI take your job? Cashiers to doctors, which professions face biggest risk
+Artificial intelligence will automate routine jobs across many industries. Complex tasks requiring human judgment will be supported by generative AI. Financial services and retail trade see high automation risk for basic operations. Healthcare and education will see AI strengthen clinical and learni
 
 ## India’s crude oil imports from Russia may touch new record of 3 million barrels per day - here’s why
 If shipping through the Red Sea remains unaffected, Indian refiners will continue to have an important supply cushion through Saudi Arabia's East-West (Yanbu) pipeline, which has recently been supplying around 300,000-500,000 barrels per day (kbd) of crude.
@@ -81,62 +81,62 @@ Samsung Electronics achieved its highest-ever quarterly operating profit, fueled
 ## Asian stocks trade mixed after Fed holds rates; Kospi rallies 4%, Shenzhen slips 300 points
 Asian equities showed signs of stabilizing on Thursday after a turbulent week. Taiwan and South Korea saw gains, while Japan's Nikkei headed for a decline. Oil prices briefly soared due to Middle East tensions before slipping back below $90. The US Federal Reserve kept interest rates unchanged, leav
 
-## Mahindra arm, SML combine to be 4th largest CV player
-Mahindra Group aims for substantial market share growth in India's commercial vehicle sector. The company targets a 10-12% share of the heavy commercial vehicle market by FY31. It also seeks over 20% market share by FY36 after business consolidation. The combined entity will become India's fourth-la
+## India raises with UAE issue of Indians affected by Dubai Iranian hospital closure
+The government said is aware of the issues faced by over 130 Indian nationals who were working in an Iranian hospital in Dubai
 
-## 'GenAI to reshape workforce, GCCs to cushion job impact'
-GenAI will transform India's labor market over the next decade. Tasks will be automated, and many jobs will be augmented by AI. The technology sector's employment narrative is challenged by this evolving landscape. Global capability centers are expected to cushion the employment impact significantly
+## Manmohan Singh ‘did not need SC certificate’: Tharoor on posthumous clean chit by Supreme Court in coal block case
+SC has formally exonerated the late ex-PM and quashed the 2015 trial order filed against him; Tharoor called him “cleanest man in Indian politics”
 
-## IPL's business value crosses $20 billion, RCB top brand: Report
-Indian Premier League's business value reached $20.6 billion in 2026, showing significant growth. Royal Challengers Bengaluru's brand value crossed $300 million, marking a historic milestone. Mumbai Indians also saw its brand value increase, securing the second position. Landmark franchise transacti
+## Supreme Court shuts one door on retrospective green clearances. Experts say it leaves a backdoor open
+The top court barred administrative orders regularising past environmental violations, but referred to a legal route the Centre could still use in the future.
 
-## ‘You took them from Cong’: Priyanka Gandhi-Kalyan Banerjee banter outside Parliament as he opposes TMC rebels
-As Kalyan Banerjee continued his protest, Priyanka Gandhi walked up to him and said that the TMC had earlier welcomed several Congress leaders into the party.
+## 'I also believe Amit Shah should resign': CJP founder Abhijeet Dipke backs Rahul Gandhi after police action on students
+CJP founder Abhijeet Dipke alleged that the Delhi Police orchestrated stone-throwing to justify action against the protesters.
 
-## Meta to appear before govt to explain policy, technical issues within 7-10 days: MeitY Secretary S Krishnan
-S Krishnan said the government is currently examining the matter and has sought views from several messaging platforms as part of its assessment.
+## Kharge’s ‘will drag you out’ remark at Shah sparks fresh face-off in House, he then clarifies
+Opposition MPs, including Congress MP Rahul Gandhi, have accused Shah of issuing orders to the security personnel to use lethal force against the protesters.
 
-## Karnataka govt officer attacked for excluding Bangladesh, Pak nationals in SIR list: BJP
-The former deputy mayor, S Harish, also demanded the resignation of Karnataka's home minister Priyank Kharge over the assault.
+## Did Karnataka make HIV testing mandatory in colleges? Here's a fact check
+The state has clarified that HIV testing is not mandatory under the HIV and AIDS (Prevention and Control) Act, 2017.
 
-## Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh: ‘Beautiful experience’
-Wangchuk appealed the government to stick to the promise made to the students that no FIRs will be filed against those who took part in nationwide protests.
+## Jantar Mantar in Trafalgar Square
+The gathering had been called by the UK arm of the Students’ Federation of India, SFI-UK
 
-## Delhi BJP protests against Punjab education minister, demands his resignation over 'paper leaks'
-The protesters gathered near AAP headquarters at Ferozshah Road and demanded the resignation of Punjab Education minister Harjot Singh Bains.
+## Traffic restrictions across Delhi, Uttar Pradesh as Kanwar Yatra begins | Check affected routes
+Traffic restrictions have been introduced across Uttar Pradesh and Delhi, with police deployed at key locations, as the annual Kanwar Yatra began on Thursday.
 
-## Human trafficking in Nagaland taking new forms linked to cybercrime, money laundering: Official
-Human trafficking in Nagaland taking new forms linked to cybercrime, money laundering: Official
-
-## VACB finds no evidence against CM Satheesan in Punarjani-FCRA case, closes probe: Chennithala
-VACB finds no evidence against CM Satheesan in Punarjani-FCRA case, closes probe: Chennithala
-
-## Bill to provide statutory framework to Indian Statistical Institute up for introduction in LS
-Bill to provide statutory framework to Indian Statistical Institute up for introduction in LS
-
-## Madras High Court cancels FIR against bishop over discrepancy in baptism certificate
+## Government to hold policy, tech discussions with Meta within a week on removal of PM Modi’s post
 
 
-## SFI’s Aishe Ghosh gets relief as court cancels non-bailable warrants in 2021 case
+## IMD issues orange alert for Punjab, Haryana, Chandigarh; heavy rain expected till Aug 3
 
 
-## Man ‘fails’ to use paper cup machine due to ‘lack of training’, wins Rs 7.25 lakh
+## Today News Headlines for School Assembly, July 31, 2026: Over 3 lakh people affected due to Assam flood, CBI files chargesheet in NEET paper leak
 
 
-## India at Commonwealth Games Day 8 Live: Neeraj Chopra in action today
+## ‘Allegations of money demands don’t mean suicide abetment: Punjab High Court
 
 
-## How Gurgaon’s 28-km Metro line will make your daily commute easier
+## ‘No law to punish those who watched it’: Editor Pradeep E Ragav on the Jana Nayagan leak
 
 
-## Srinivasa Mangapuram movie review: Jai Krishna, Rasha Thadani’s love story loses itself in violence
+## ‘Aishwarya Rai se mujra kara diya’: When Bhansali was ridiculed for ‘Nimbooda’
 
 
-## ISRO Apprentice Recruitment 2026: Application process started at nats.education.gov.in
+## TSLPRB notification 2026 released at tgprb.in; registration schedule to be announced soon
 
 
-## ‘Don’t you feel ashamed?’: Vikas Gupta schools Shilpa Shinde on Lock Upp 2
+## Dealer ‘fails to transfer’ SUV ownership, buyer wins Rs 12.30 lakh refund, payout
 
+
+## Chinese motorcycle exports roar to record highs amid tech gains, upmarket push
+Chinese motorcycle exports hit a record in the first half of the year as domestic manufacturers, armed with their own technology gains, targeted upmarket segments long dominated by Honda, Yamaha and BMW. Exports reached 26.2 million units worth US$11.28 billion, rising 23.2 per cent in volume and 26
+
+## Hong Kong regulators freeze US$15.9 million linked to suspected IPO fraud
+Hong Kong’s securities regulator has frozen more than HK$125 million (US$15.9 million) in assets linked to a suspected market manipulation scheme, as authorities tighten oversight of the city’s booming IPO market. The Securities and Futures Commission (SFC) said on Thursday that it had issued a rest
+
+## US-listed Chinese stocks benefit as Fed policy haze drives rotation amid AI slump
+Chinese stocks trading overseas may emerge as a shelter for global investors, as confusion over the Federal Reserve’s monetary path drives diversification away from US equities and bonds amid a stumbling artificial intelligence trade. The Nasdaq Golden Dragon China Index of the biggest Chinese compa
 
 ## AI stock rout fells Innolight after mega Hong Kong IPO
 Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares. The stock closed down 2 per cent after earlier plunging as much as 10 per cent. Shenzhen-listed shares of Innolight, w
@@ -151,16 +151,7 @@ Chinese regulators are intensifying their sweeping crackdown on corporate inside
 Hong Kong’s gold imports are set to maintain an upwards trajectory after crossing the 150-tonne mark in June for the first time in over a decade, driven by renewed investor appetite and the city’s ambition to transform itself into a premier international precious metals trading hub, analysts said. T
 
 ## Finance firms set to pour more investment into AI amid ‘data divide’ fears
-A majority of surveyed global asset management firms plan to raise their artificial intelligence budgets by at least 50 per cent within the next year as the technology transforms the finance industry, a recent study showed. The adoption of AI is also going to have a big impact on labour-intensive op
-
-## Zhongji Innolight shares fall on Hong Kong debut amid global AI sell-off
-Zhongji Innolight suffered a rocky start in its highly anticipated Hong Kong stock market debut on Thursday, as the Chinese firm felt the impact of a global downturn in investor sentiment towards the artificial intelligence sector. By the midday break, the company’s shares had slipped 7.4 per cent b
-
-## How South Korea’s tech rout hit Hong Kong – and why regulators stepped in
-South Korea’s roller-coaster market, driven by sharp swings in semiconductor giants Samsung Electronics and SK Hynix this year, has also reverberated in Hong Kong, where suspected fund embezzlement by a loss-making investment manager and outcry from leveraged-product investors have made headlines. A
-
-## HKMA warns of interest-rate risk as traders bet on September rate rise
-The Hong Kong Monetary Authority (HKMA) has maintained its base rate following the US Federal Reserve’s decision to keep its key rate unchanged, but US traders are already betting on a rate rise in September. The city’s base rate was kept at 4 per cent by the HKMA on Thursday. Hours earlier, the US 
+A majority of surveyed global asset management firms plan to raise their artificial intelligence budgets by at least 50 per cent within the next year as the technology transforms the finance industry, a recent study showed. The study, released Tuesday by US fintech firm Clearwater Analytics, indicat
 
 ## The OpenAI Hack Shows the Genie Is Out of the Bottle
 Attempts at control are futile. Policy should now turn to defense.
@@ -186,29 +177,29 @@ Building an independent defense industry does not mean going it alone.
 ## Coming to Terms With Middle-Power Populism
 How to build a world order with leaders who prefer Trump to Carney.
 
+## Why a Bangladesh-India Deal Over the Teesta’s Waters is Imperative
+China can help Dhaka dredge the riverbed, but it cannot fill the Teesta river if upstream flows into Bangladesh remain low.
+
+## When India’s Youth Tested the Limits of Centralized Governance
+Youth protests across India transformed digital dissent into accountability, compelling unprecedented political concessions and democratic institutional reflection.
+
+## A Stock Market Correction Reveals South Korea’s Economic Dependency on Semiconductors
+Is there any way back for KOSPI?
+
+## Why China’s Internet Is Talking About ‘Korean Women’
+The term Hannü is not really about Korean women at all. It’s a stand-in for sentiments Chinese women long to express.
+
+## How the US Can Counter China’s Emerging Tech Trap
+Welcome to the world of AI diplomacy.
+
+## Australia Must Rethink Leadership in the Trump Era – Starting With Climate
+“Climate disruption is the most significant strategic threat Australia faces,” writes a former Australian Defense Force chief. ”This is a moment for clear-eyed reckoning.”
+
+## China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit
+The China Coast Guard has apparently established a regular presence in the waters east of Taiwan, asserting Beijing’s jurisdictional claim.
+
 ## Who is Responsible for the June 20 Police Brutalities in New Delhi?
 Delhi Police and the Rapid Action Force, which unleashed the violence on student protesters, fall under the direct jurisdiction of Home Minister Amit Shah.
-
-## From Hanoi to Manila: Japan’s Updated ‘Free and Open Indo-Pacific’ Takes Shape
-Tokyo's Manila diplomacy linked ASEAN security cooperation to a wider Indo-Pacific network stretching to the Pacific Islands.
-
-## Tokayev Urges Russia to ‘Freeze’ Ukraine Conflict While Embracing ‘Allied Relationship’
-Tokayev's call for peace talks came alongside remarks on Kazakhstan's enduring strategic cooperation and alliance with Russia.
-
-## How Indonesia and Singapore Handle Information Pressure
-From election debates to AI‑manipulated content, audiences in both countries rely on legacy media for credibility while increasingly consuming politics through fast, visual, and creator‑driven formats.
-
-## Alleged Cambodia Scam Kingpin Chen Zhi Could Face the Death Penalty in China
-Myanmar follows Beijing's lead in amending anti-scam laws as crime syndicates shift operations.
-
-## Following Expansion in China, Regional Private Equity Faces New Scrutiny in Southeast Asia
-An overreliance on China is one issue.
-
-## Indonesia Eyes Closer Relations With Madagascar
-A recent bilateral exchange hinted that Jakarta is taking a greater interest in its Austronesian cousin on the other side of the Indian Ocean.
-
-## The Quad and ASEAN’s First Step Off The Fence
-For the first time, the Quad issued a dedicated joint statement on cooperation with ASEAN.
 
 ## Can Cyber Operations Be Deterred? What Wargames Reveal
 The most successful deterrent threats leave no evidence behind. No missiles fly. No networks go down. No troops cross borders. Nothing happens. For policymakers, that is often the desired outcome. For researchers, it is a nightmare. Imagine, however, being able to observe a decision-maker preparing 
@@ -258,29 +249,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Saudi Arabia confirmed to host Asian Champions League Elite finals
-Saudi Arabia has hosted the last two Asian Champions League Elite finals and has now been confirmed for the next three.
+## AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’
+Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport's continental structure.
 
-## Infantino insists FIFA’s World Cup plan is proposal and not ‘obligation’
-Football governing bodies hit out at plans to sell World Cup stakes, as FIFA insist proposal is not an 'obligation'.
+## Israeli raids and settler attacks intensify across the occupied West Bank
+Israeli raids and settler attacks intensify across the occupied West Bank
 
-## US strikes cause extensive damage on Iran’s Qeshm Island
-Video from Iran's Qeshm Island shows widespread damage following US attacks.
+## Attack on northwest Pakistan police post kills 11 officers
+Fifteen attackers were also killed during the hours-long raid in Pakistan's northwestern Hangu district.
 
-## Is Israel repeating the Crusaders’ fatal mistake?
-Deja Vu explores why the Crusader kingdom fell and asks: could Israel be next?
+## Several children killed and wounded in Israeli attacks across Gaza
+Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.
 
-## India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says
-Rights group says India continues to support the Israeli military despite genocide 'broadcast worldwide on daily basis'.
+## Why is Saudi Arabia forming a coalition to protect the Red Sea?
+The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.
 
-## Can the UN’s Refugee Convention survive?
-The 1951 UN Refugee Convention marks its 75th anniversary this week but is facing anti-migration sentiment in the West.
+## Poland says Russian missile breaches NATO airspace
+Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine
 
-## In the waters off Malaysia, Iranian oil sales continue despite blockade
-A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.
+## Howe exits Newcastle on Premier League season eve, with Al-Ahli boss touted
+Eddie Howe has left Newcastle on the eve of Premier League season, with Matthias Jaissle touted as new manager.
 
-## Messi returns to MLS training 10 days after World Cup final heartbreak
-Lionel Messi returns to Inter Miami after Argentina's World Cup final defeat by Spain, which led to retirement rumours.
+## US hits multiple targets in Iran as IRGC pledges retaliation: What we know
+Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.
+
+## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
+Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
 
 ## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
 The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
@@ -303,8 +297,8 @@ India's primary market momentum continues with over two dozen issuers planning I
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
 
-## Gen Z, Jobs and India Inc’s Hiring Problem
-The World Economic Forum estimates that nearly 40 per cent of workers' existing skills will require updating within the next five years as artificial intelligence, automation and digital technologies reshape industries. Ironically, because of this mismatch, many Indian businesses struggle to fill va
+## RBI sold about $7 billion to defend rupee on Friday
+India's central bank sold approximately $7 billion to defend the rupee. The Reserve Bank of India intervened across markets as the currency neared a record low. This intervention followed a surge in crude prices impacting Asian oil importers. The RBI's actions helped lift the rupee further away from
 
 ## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
 The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
@@ -323,7 +317,4 @@ Headline inflation is expected to remain elevated through the October-December q
 
 ## India's IPO market to stay resilient with over 70 firms awaiting SEBI clearance: Report
 India's IPO activity has continued to stay resilient with 175 companies currently holding valid SEBI observations for their draft IPO papers and another 70 firms awaiting regulatory clearance, as per a report by Equirus.
-
-## Govt approves RBI's trials of ₹10, ₹20 polymer notes; no plan to replace paper currency
-The government has approved the Reserve Bank of India's proposal for polymer banknotes. One billion pieces each of ten and twenty rupee polymer notes will undergo field trials. These new notes are expected to be more durable and have a longer lifespan. The introduction of polymer notes is still in a
 
