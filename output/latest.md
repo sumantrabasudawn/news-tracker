@@ -3,23 +3,32 @@
 ## Amazon increases AI infrastructure spending to $220bn this year
 Seattle-based group had in April expected to spend $200bn in 2026
 
+## Japan’s yen jumps 3% as speculation over intervention swirls
+Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide
+
+## Spain’s migrant crisis triggers Italian call for EU travel restrictions
+Mass arrivals in North African enclave of Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez
+
+## Labour readmits veteran MP Diane Abbott after disciplinary process
+Scottish MP Joani Reid also returns to party just a fortnight into Andy Burnham’s new premiership
+
+## Apple forecasts slower growth as AI build-out strains tech supply chains
+Smartphone revenue rose more than a fifth as rivals struggle
+
+## Burnham to give mayors share of income tax from 2028
+New prime minister accelerates former chancellor Rachel Reeves’ efforts to move power away from Westminster
+
 ## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
 Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
 
 ## Saudi Arabia announces maritime defence coalition as Houthi attacks threaten Red Sea route
 Fourteen countries, including Pakistan, Turkey, Egypt and Sudan, vow to protect shipping and energy supplies
 
-## Apple defies smartphone downturn with strong iPhone sales
-Smartphone revenue rose more than a fifth as rivals struggle
-
 ## Skirts and sandwiches fail to excite cautious IPO investors
 Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures
 
 ## Microsoft adds record $450bn in market cap as results cheer investors
 Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
-
-## Madrid deploys army as thousands of Moroccans swim to Spanish enclave
-Mass arrivals in Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez
 
 ## Mark Zuckerberg is becoming the king of the ‘side quest’
 Meta is working on a plethora of products outside its comfort zone — and the side hustles come with high stakes
@@ -102,29 +111,32 @@ According to the ASDMA's daily flood report, more than 2,12,400 people remained 
 ## We want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt decision
 “Delhi govt released notification that all the FIRs will not be pursued further and they may be treated as closed. We are not very happy with the term.”
 
+## Delhi Confidential: Tharoor’s Mango Party For All
+
+
+## ISRO’s NavIC system can no longer provide navigation data independently: Govt
+
+
+## ISRO & Japanese scientists review mission Chandrayaan-5 preparation
+
+
+## Minister in RS: Potential conflict of interest in RDI Fund disbursement
+
+
+## Government to House panel: Sheikh Hasina not allowed to conduct political activities from India
+
+
+## Modi reviews safety of seafarers, supply chain constraints in extended CCS meet
+
+
 ## Seema Kaliramna, PhD and mother of 3-year-old, wins CWG 2026 discus bronze
 
 
 ## Figuratively, Dubai 15th district of Kerala, says Brittas as JDU MP alleges ‘foreign role’ in Jantar Mantar stir
 
 
-## After 12 years, India completes first comprehensive catalogue of butterflies, moths
-
-
-## Despite struggling with knee, Tejaswin finishes 1st day of Decathlon at 2nd spot
-
-
-## 9 died in March 18 blaze: Bronto Skylift failed, crew not trained — magisterial inquiry report on Palam fire
-
-
-## Likely before fast-track court: Paper leak cases impacted after judge was moved out at key stages
-
-
-## Love, lies and fake gold: An extramarital affair that led to a Rs 3-crore loan fraud
-
-
-## Eye on 800 TPD waste management, MCD signs deal with Oil India to set up CBG plants
-
+## Hong Kong home price rally set to cool after strongest first half in 7 years: analysts
+The rally in Hong Kong’s housing market is expected to slow in the coming months, after a stellar first half of the year that saw home prices post their strongest gains for the period in seven years. Despite the market’s strong recent recovery, analysts warned that weaker stock-market sentiment and 
 
 ## The GBA is optimised for AI to achieve its full potential
 [The content of this article has been produced by our advertising partner.] In 2022, the concept of functional, intuitive, and interactive artificial intelligence (AI) systems leapt from the domain of science fiction into reality, powering the imagination of consumers, corporations, and governments 
@@ -147,8 +159,8 @@ Hong Kong’s securities regulator has frozen more than HK$125 million (US$15.9 
 ## US-listed Chinese stocks benefit as Fed policy haze drives rotation amid AI slump
 Chinese stocks trading overseas may emerge as a shelter for global investors, as confusion over the Federal Reserve’s monetary path drives diversification away from US equities and bonds amid a stumbling artificial intelligence trade. The Nasdaq Golden Dragon China Index of the biggest Chinese compa
 
-## AI stock rout fells Innolight after mega Hong Kong IPO
-Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares. The stock closed down 2 per cent after earlier plunging as much as 10 per cent. Shenzhen-listed shares of Innolight, w
+## Is the U.S.-Iran War Expanding?
+Violence is escalating, but it also follows familiar trends.
 
 ## NATO Says Russian Missile Violated Polish Airspace
 Secretary-General Mark Rutte warned that Moscow’s “reckless” actions risk spreading the Ukraine war.
@@ -170,9 +182,6 @@ The administration’s inconsistency has undermined a key tool of U.S. foreign p
 
 ## The OpenAI Hack Shows the Genie Is Out of the Bottle
 Attempts at control are futile. Policy should now turn to defense.
-
-## Yes, Europe Is a Middle Power, Too
-The Iran war has underscored the need for a change in state psychology.
 
 ## Why Did China Test a Submarine-launched Ballistic Missile?
 July 6 was the first time that China has launched a submarine-launched ballistic missile into international waters.
@@ -246,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza
+This is a breaking news story.
+
+## Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis
+Zoox will launch its commercial robotaxi service in Las Vegas after receiving federal clearance.
+
+## Why is US GDP growth slowing, and how can it be reversed?
+Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.
+
+## French teen fined in Singapore over ‘straw licking’ stunt
+A French teenager has been fined about $465 after pleading guilty to a public nuisance charge in Singapore.
+
+## Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country
+Experts have cast doubt on legality of the emergency decree as Milei decries a campaign of 'hostility' after World Cup.
+
 ## Will Saudi Arabia be dragged further into the war in Iran?
 Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.
 
@@ -254,21 +278,6 @@ Keepers at Prague Zoo used tonnes of ice to provide much relief to animals as Eu
 
 ## UN launches hunt for next chief amid rising challenges
 Antonio Guterres’s successor will be tasked with revitalising an organisation in crisis and facing pressure to reform.
-
-## Security camera shows ‘Russian missile’ exploding in Poland
-Security camera video shows the moment a suspected Russian missile exploded inside Poland.
-
-## Father of Georgia Apalachee school shooter sentenced to 15 years in prison
-Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.
-
-## US authorities probe cyberattack on water systems in Minnesota
-A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.
-
-## Palestine Action co-founder wins UK Supreme Court appeal bid
-Huda Ammori has won permission to challenge Palestine Action's ban at the UK Supreme Court.
-
-## Pakistan coal mine explosion kills at least 11, traps dozens
-Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
