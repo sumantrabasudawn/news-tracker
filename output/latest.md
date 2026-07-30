@@ -1,31 +1,28 @@
 # AION Intelligence
 
-## Japan’s yen jumps 3% as speculation over intervention swirls
-Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide
+## Madrid deploys army as thousands of Moroccans swim to Spanish enclave
+Mass arrivals in Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez
 
-## Warsh’s stripped-back Fed communication ‘already backfiring’, say investors
-Traders warn lack of guidance on interest rates erodes US central bank’s influence on Treasury market
-
-## Thousands of Moroccans swim to Spanish enclave
-Fresh migration crisis puts pressure on embattled Prime Minister Pedro Sánchez
-
-## Data suggests fears of UK ‘non-dom’ exodus overblown
-Number fell by just 0.5% in 2024-25, casting doubt on claims tougher rules would lead to wealthy people leaving
-
-## Trump says he could pull Todd Blanche’s attorney-general nomination
-President’s suggestion comes as two Republican senators threaten to torpedo top lawyer’s confirmation process
-
-## BoE holds rates at 3.75% as it waits to see impact of Iran war
-Monetary Policy Committee split six to three, with key voters more confident that underlying price pressures are receding
-
-## Microsoft surges 15% as results and data centre leases cheer investors
-Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
-
-## Saudi economy shrinks as Middle East conflict takes heavy toll
-GDP contracted by 4.8% in second quarter compared with same period in 2025
+## Mark Zuckerberg is becoming the king of the ‘side quest’
+Meta is working on a plethora of products outside its comfort zone — and the side hustles come with high stakes
 
 ## Citadel buys Situational Awareness equity holdings after steep AI losses
 Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors
+
+## Kevin Warsh’s concerning communication style
+Fed chair’s press conference exposes the shortcomings of his approach
+
+## China is not the solution to the US chipflation problem
+Buying memory chips from companies like CXMT could lower costs but risks dependence
+
+## Microsoft adds record $480bn in market cap as results cheer investors
+Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
+
+## Are investors really getting cold feet about the AI boom?
+It is not clear whether there has been a serious change of heart about the trade underpinning the stock market
+
+## Japan’s yen jumps 3% as speculation over intervention swirls
+Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide
 
 ## Ferrari profits boosted by AI wealth and hyper-personalisation boom
 Custom services set to account for as much as 20% of revenue, Italian luxury-car maker says
@@ -36,14 +33,17 @@ UK oil major says reduction in ‘non-frontline’ roles will result in flatter 
 ## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
 Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
 
-## NYSE owner to buy bond platform MarketAxess in $5.7bn deal
-Acquisition marks significant step by Intercontinental Exchange into fixed-income trading
+## 2 months of monsoon, yet over 50% of Indian key reservoirs are half-empty
+The level in major reservoirs improved further this week to 44% of the 183.565 billion cubic metres capacity
 
-## Fifa not ‘selling the World Cup’ in $20bn commercial plan, says adviser
-Greg Maffei defends contentious proposal he helped shape as body’s move to bring in outside investors is hit by backlash
+## Tata Steel net up 19% in Q1 on better realisation
+Global operating environment remained complex, says Chief Executive Officer & Managing Director
 
-## Has the market lost its mind over AI? You asked, we answered
-Lex head John Foley and tech comment editor Elaine Moore replied to reader questions
+## M&M Q1 attributable profit jumps 34% to ₹5,455 crore, beats Street; revenue rises 28%
+Robust demand for SUVs and tractors, along with strong contributions from its financial services and technology businesses, helped the group navigate commodity inflation and continued investments in electric vehicles
+
+## SEBI agrees to NSE settlements in colo, dark-fibre cases
+The regulator has in-principle agreed to terms of settlement, seeks an additional Rs 714.74 crore after an earlier deposit of Rs 776.47 crore
 
 ## India tightens drug quality norms, eyes biopharma push: Pharma Secretary
 Manoj Joshi said restoring confidence in India's pharmaceutical manufacturing through stricter regulation is the government's immediate priority
@@ -56,18 +56,6 @@ Shipments rise 14% to $7.64 billion; Basmati rice shipments decline on reduced o
 
 ## Vedanta net up 72% in Q1 on better realisation
 Vedanta’s demerger was unlocking significant shareholder value, with combined market cap of resulting companies growing by over ₹71,000 crore in the first quarter, added Ajay Goel, Group CFO, Vedanta.
-
-## Closing auction for F&O stocks may dent broker revenues, alter end-of-day trading
-Industry expects institutional orders to migrate to the auction window as the new closing mechanism takes effect on August 3
-
-## Domestic sugar prices to remain firm in short-term, says Triveni
-Company registers 2.1 per cent growth in net turnover at Rs 1,581 crore
-
-## Hyundai Q1 FY27 net income, revenue down due to West Asia crisis, Chennai plant mishap
-Numbers expected to improve in the current quarter with production coming back to normalcy after a fire incident at its Chennai plant
-
-## M&M Q1 attributable profit jumps 34% to ₹5,455 crore, beats Street; revenue rises 28%
-Robust demand for SUVs and tractors, along with strong contributions from its financial services and technology businesses, helped the group navigate commodity inflation and continued investments in electric vehicles
 
 ## Transponders switched off: How tankers with Saudi oil for India are exiting Red Sea by going ‘dark’
 Following the Houthi attacks on several Saudi tankers, Indian refiners have increasingly opted to purchase Middle Eastern crude on a delivered basis.
@@ -93,52 +81,52 @@ Experts say the hiring landscape is becoming increasingly project and demand dri
 ## India's renewable energy boom could make Germany a customer for green hydrogen
 India's expanding renewable energy capacity could soon make it an energy exporter. Germany's ambassador sees potential for India to export green hydrogen in coming years. Renewable energy is a strong pillar of India-Germany economic cooperation. Artificial intelligence and a proposed EU Free Trade A
 
+## 'Skin brighter than country's future': CJP’s Dipke comments on PM Modi’s new video
+In the selfie-style video posted on Thursday, PM Modi called the legislation a major step towards creating a credible examination system.
+
+## Teen, walking on track with earphones on, run over by goods train in Faridabad
+The deceased had come to Prahaladpur with his mother to visit his maternal grandparents.
+
+## PM Modi back with a selfie video, hails passage of stricter anti-paper leak bill
+PM Modi said the issue of question paper leaks had plagued governments at both the Centre and the states for decades and threatened the future of students.
+
+## Jaishankar condemns Black Sea attacks in call with Ukrainian counterpart
+Jaishankar emphasised the “fragility of the current international situation, with multiple conflicts in different geographies” that are impacting fuel, fertiliser and food security.
+
+## Assam floods: Death toll climbs to 80, 2 lakh remain affected in 4 districts
+According to the ASDMA's daily flood report, more than 2,12,400 people remained affected in Charaideo, Golaghat, Jorhat and Sivasagar districts.
+
+## We want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt decision
+“Delhi govt released notification that all the FIRs will not be pursued further and they may be treated as closed. We are not very happy with the term.”
+
 ## Woman booked for using abusive language against PM Modi at CJP-led Jantar Mantar protest
 Case registered after Ghaziabad resident approached Noida police; complaint says her act “hurt the dignity of constitutional office; intended to spread hatred”
 
 ## Mahanadi river dispute with Chhattisgarh may be resolved before Diwali: Odisha CM
 Odisha CM Majhi expects resolution of the Mahanadi water dispute with Chhattisgarh before Diwali, following a tripartite meeting aimed at negotiation.
 
-## Gujarat on high alert as extremely heavy rainfall likely over next 2 days
-The Indian Army, Navy and Air Force have been kept on standby for relief and rescue operations.
-
-## Another paper leak? Odisha medical exam questions land on WhatsApp during test
-Authorities said someone managed to ‘smuggle’ a device into the examination hall to photograph and share the question paper despite routine frisking.
-
-## At CCS meet, Modi orders ‘whole of govt’ plan to protect oil supplies, Indians in West Asia
-The meeting, the CCS's fourth special gathering since the start of the West Asia conflict, comes at a time the Iran-US ceasefire is on the verge of collapse
-
-## Gangster Chhota Rajan gets 7 years in jail in fake passport case after 22-year legal battle
-Chhota Rajan, one of India's most notorious gangsters, split from Dawood Ibrahim after the 1993 Mumbai blasts, and is now serving multiple life sentences.
-
-## Odisha plans new anti-trafficking policy after years of poor conviction rates
-Odisha drafting a new policy that aims to overhaul the state’s approach from a reactive policing model to a systemic, survivor-centred strategy and improving prosecutions
-
-## CJP's Saurav Das on criticism for abusive slogans: ‘Pursue defamation proceedings against the individuals’
-Saurav Das also urged young protesters to be mindful of the language they use during demonstrations.
-
-## FIFA stake sale plans: UEFA nations threaten to boycott World Cup
+## Leave of all officials cancelled; 24×7 control rooms in each affected district: Gujarat Government
 
 
-## DC trailer: Lokesh Kanagaraj, Wamiqa Gabbi’s romance unfolds amid crime and revenge
+## ‘No substantial change in case’s circumstances’: Second bail plea of ex-PU professor accused of wife’s murder also rejected
 
 
-## Delhi government to introduce Land Records Bill; issue smart cards to all properties
+## Appoint Polar Ambassador, become full member of Arctic Council, suggests panel
 
 
-## Nitish Bharadwaj calls Ramayana ‘100%’ Oscar-worthy: ‘Ranbir now at par with Ranveer’
+## Vidya Balan on why she stopped trying to fit Bollywood’s beauty standards: ‘I was 26’
 
 
-## From Vaquita to Kakapo: 7 wildlife species fighting for their future
+## 2020 Delhi riots larger conspiracy case: Umar Khalid moves HC for third time seeking bail
 
 
-## ‘No pressure on automakers to hide any fact’: Centre clears air amid E20 backlash
+## ICC unveils venues of 2027 ODI World Cup
 
 
-## Nurturing storytellers for a filmmaking future that belongs to those who know AI
+## ‘Education reform necessary’: PM Modi says won’t spare any paper mafia
 
 
-## Student leader who CJP’s Ashutosh Ranka visited forcibly taken to hospital from Rajasthan university
+## Two-thirds city roads lack footpaths, 90% cycle tracks not up to standard: PMC
 
 
 ## The GBA is optimised for AI to achieve its full potential
@@ -165,6 +153,15 @@ Chinese stocks trading overseas may emerge as a shelter for global investors, as
 ## AI stock rout fells Innolight after mega Hong Kong IPO
 Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares. The stock closed down 2 per cent after earlier plunging as much as 10 per cent. Shenzhen-listed shares of Innolight, w
 
+## Lindsey Graham’s Parting Gift to Ukraine
+The late senator’s long-stalled Russia sanctions bill is on its way to becoming law.
+
+## Zaidi’s Militia Dilemma
+Iraq’s new prime minister faces a familiar challenge in confronting Iran-backed groups.
+
+## Why Energy Prices Didn’t Soar Higher This Year
+Daniel Yergin on China’s surprising role as a shock absorber.
+
 ## Trump Has Weakened America’s Sanctions Weapon
 The administration’s inconsistency has undermined a key tool of U.S. foreign policy.
 
@@ -180,38 +177,29 @@ Amid extreme heat, demonstrators are protesting power cuts—and the governments
 ## U.S.-Saudi Strikes Add a New Front to the Iran War
 Iraqi militias backed by Tehran are the latest targets in the ever-expanding conflict.
 
-## How to End the Iran War
-Trump needs to learn the diplomatic art of losing well.
+## Why Did China Test a Submarine-launched Ballistic Missile?
+July 6 was the first time that China has launched a submarine-launched ballistic missile into international waters.
 
-## Does Modi Have a Cockroach Problem?
-India’s youth-led protest movement led to a rare instance of the government giving in.
+## Europe’s China Strategy Is Ready for a Refresh
+EU leaders have an opportunity to stop treating repression as a side issue and instead make human rights more central to their engagement with China.
 
-## The Paradox of Self-Reliance
-Building an independent defense industry does not mean going it alone.
+## Resilience at the Heart of Australia-Singapore Ties
+At the 15th Singapore-Australia Joint Ministerial Committee this week, the two sides emphasized resilience across sectors, from defense to trade.
+
+## Can Southeast Asia Overcome the Middle-Income Trap?
+Southeast Asian nations won’t overcome the middle-income trap unless predatory elites stop undermining education and R&D.
+
+## At a Jakarta Conference, Two Maritime Orders Collide
+The gap between legalistic and "relationalist" approaches is the region’s primary fault line when it comes to the South China Sea disputes.
+
+## Kazakh President Tokayev’s ‘Humble’ Query for Peace
+As Russia’s full-scale invasion of Ukraine starts to take a financial toll on Kazakhstan, Tokayev puts forward a rare call for negotiations.
+
+## Indonesia’s Chinese Fighter Gamble Will Test ASEAN Trust
+President Prabowo Subianto’s hyper-hedging may preserve his country’s diplomatic flexibility, but it risks military fragmentation and regional uncertainty.
 
 ## Why a Bangladesh-India Deal Over the Teesta’s Waters is Imperative
 China can help Dhaka dredge the riverbed, but it cannot fill the Teesta river if upstream flows into Bangladesh remain low.
-
-## When India’s Youth Tested the Limits of Centralized Governance
-Youth protests across India transformed digital dissent into accountability, compelling unprecedented political concessions and democratic institutional reflection.
-
-## A Stock Market Correction Reveals South Korea’s Economic Dependency on Semiconductors
-Is there any way back for KOSPI?
-
-## Why China’s Internet Is Talking About ‘Korean Women’
-The term Hannü is not really about Korean women at all. It’s a stand-in for sentiments Chinese women long to express.
-
-## How the US Can Counter China’s Emerging Tech Trap
-Welcome to the world of AI diplomacy.
-
-## Australia Must Rethink Leadership in the Trump Era – Starting With Climate
-“Climate disruption is the most significant strategic threat Australia faces,” writes a former Australian Defense Force chief. ”This is a moment for clear-eyed reckoning.”
-
-## China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit
-The China Coast Guard has apparently established a regular presence in the waters east of Taiwan, asserting Beijing’s jurisdictional claim.
-
-## Who is Responsible for the June 20 Police Brutalities in New Delhi?
-Delhi Police and the Rapid Action Force, which unleashed the violence on student protesters, fall under the direct jurisdiction of Home Minister Amit Shah.
 
 ## Can Cyber Operations Be Deterred? What Wargames Reveal
 The most successful deterrent threats leave no evidence behind. No missiles fly. No networks go down. No troops cross borders. Nothing happens. For policymakers, that is often the desired outcome. For researchers, it is a nightmare. Imagine, however, being able to observe a decision-maker preparing 
@@ -261,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Spain’s Ceuta declares emergency over surge in migrant arrivals
+More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.
+
+## Turtle rescued from rubble a month after Venezuela earthquake
+A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued
+
+## Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team
+Viral cricket scandal sees 'Clicky Ponting' suspended from UK team
+
+## Europe’s heating climate sparks ‘major intensification’ of fires: Report
+Climate change has helped southern Europe's likelihood of wildfires double since 1981, say researchers.
+
+## Rights report reconstructs fatal shooting of Palestinian man
+Rights report reconstructs fatal shooting of Palestinian man
+
 ## ‘To play God’: Cuba’s healthcare system collapses under US pressure
 As the Trump administration tightens US sanctions, Cuba's healthcare sector struggles with fuel and supply shortages.
 
@@ -269,21 +272,6 @@ Citizen vigilantes patrol Ghana's streets, fighting an opioid crisis. We meet th
 
 ## NATO jets scramble as Russian missile detonates in Poland
 The growing series of NATO airspace violations is raising concern that Russia's war on Ukraine could escalate.
-
-## IRGC video of retaliatory strikes on US targets in Jordan
-The IRGC released a video of what they say were missiles launched by their naval forces targeting US aircraft in Jordan.
-
-## US GDP growth dips as inflation and trade deficits pressure economy
-GDP grew by 1.5 percent in the second quarter following a 2.1 percent increase in the first quarter.
-
-## Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco
-Estimates suggest up to 2,000 have entered the Spanish territory in recent days in an attempt to reach Europe.
-
-## Republicans delay vote on Trump’s US attorney general pick amid concerns
-Senate committee postpones vote as key Republican says he has not received information on 'anti-weaponisation' fund.
-
-## UEFA members vote to boycott FIFA if Infantino’s World Cup plans pursued
-European nations agree in virtual meeting to boycott FIFA competitions in protest at the private equity plan for World Cup.
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
