@@ -1,7 +1,22 @@
 # AION Intelligence
 
+## Winner of US-China AI rivalry falls 9% in Hong Kong debut
+Shandong-based Innolight supplies data centre equipment to American and Chinese tech groups
+
+## ‘My life’s screwed’: Korean investors stress out after AI bubble bursts
+Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles
+
+## US launches strikes on Iran after Trump vows to deliver ‘beating’
+Attack comes day after Tehran launched ballistic missiles at American forces
+
 ## Microsoft signs $130bn in data centre leases as it races to meet AI demand
 Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
+
+## Investors warn BoJ faces test to inflation-fighting credibility
+Friday’s meeting on interest rates will be closely watched for signs of future policy decisions
+
+## Falling stocks, a tumbling currency and now Bank Indonesia’s governor resigns
+Abrupt departure of technocrat at volatile time stokes concerns about policy unpredictability
 
 ## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
 Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
@@ -9,20 +24,11 @@ Social media chief defends strategy based on personalised bots as costs rise and
 ## Digital avatar of Jair Bolsonaro tests Brazil’s AI election rules
 Lawyers for former president insist he did not authorise the projection following legal challenge from leftwing groups
 
-## MoD’s Afghan data leak was ‘foreseeable systemic failure’, say MPs
-Soldier accidentally disclosed the personal details of 25,000 people who had applied for relocation to Britain
-
 ## Summer slowdown ‘sharper than usual’ for UK property sales
 Higher mortgage rates and economic uncertainty have led to a market favouring buyers, new data suggests
 
 ## Qualcomm posts shrinking sales and profits as chip costs hurt smartphone market
 Net income falls 25% as higher memory chip prices hit device business
-
-## FirstFT: US borrowing costs hit 19-year high after Fed holds rates steady
-Also in today’s newsletter: Mark Zuckerberg says US should not ban Chinese AI and SK Hynix profits disappoint
-
-## US borrowing costs hit 19-year high as Fed defies inflation fears
-Central bank stands pat on rates even as investors worry Trump’s Iran war will ignite jolt of price growth
 
 ## Infantino defends $20bn Fifa commercial venture after mounting backlash
 President of world football’s governing body says plan to sell stake to investors ‘is an opportunity and not an obligation’
@@ -33,110 +39,110 @@ World’s largest planemaker hands over 237 aircraft as supply-chain snags ease
 ## For sale: Saba repellent
 You’ve got a nice trust there. Would be a shame if something happened to it
 
-## Ex-Goldman executive awarded £1.45mn after paternity leave ‘stigma’
-Jon Reeves lost his job after he took six months off to look after his baby
+## Zoho’s Arattai introduces Aadhaar verification to combat spam and impersonation
+The optional identity verification feature enhances user trust while expanding privacy protections through encryption and secure communication controls.
+
+## Sensex today | Stock Market Live: Sensex, Nifty seen opening cautious amid Fed split, global headwinds
+Sensex, Nifty, Stock Price Live Updates: Mixed global cues, a divided US Federal Reserve and renewed Middle East tensions are set to keep Indian equities cautious, while easing volatility, sustained FPI inflows, a stable rupee and robust Q1 earnings are expected to provide support during the ongoing
+
+## Samsung reports record earnings on surging AI memory chip demand
+The semiconductor division offset losses elsewhere as rising AI infrastructure investments boosted demand for advanced memory chips and server components.
+
+## Q1 Results Today Live: Bajaj Finance, M&M, Tata Steel, Gillette, Vedanta, Torrent Pharma, Hyundai Motor, IRFC, Swiggy, NSDL to announce Q1 results, Adani Ports, Adani Enterprises, Asian Paints, Colgate, Eicher Motors, Dabur in focus
+Q1 Results Today, 30th July 2026 Live Updates: Stay tuned for more from businessline
+
+## PE firm ChrysCapital acquires Swiss parent’s stake in Novartis India
+The ₹1,446-crore deal follows Novartis AG’s strategic review, with NIL set to adopt a new identity under ChrysCapital’s ownership
+
+## Ready Server Pilots Full-Immersion Cooling to Prepare Singapore Facility for AI-Ready Compute Services
+Ready Server Pilots Full-Immersion Cooling to Prepare Singapore Facility for AI-Ready Compute Services
+
+## Franchising & Licensing Asia 2026 Opens New Chapter Under MP, Strengthening Singapore's Position as Asia's Franchise and Licensing Hub
+Franchising & Licensing Asia 2026 Opens New Chapter Under MP, Strengthening Singapore's Position as Asia's Franchise and Licensing Hub
 
 ## US launches strikes on Iranian targets after attack on American forces
 US forces launched retaliatory strikes on Iranian targets after Tehran attacked American troops, significantly escalating military tensions across the West Asia.
 
-## Federal Reserve holds interest rates as rare split vote signals rising inflation concerns
-A divided policymaking committee underscored persistent inflation risks, keeping investors focused on the timing and likelihood of the next policy move
+## Asian stocks trade mixed after Fed holds rates; Kospi rallies 4%, Shenzhen slips 300 points
+Asian equities showed signs of stabilizing on Thursday after a turbulent week. Taiwan and South Korea saw gains, while Japan's Nikkei headed for a decline. Oil prices briefly soared due to Middle East tensions before slipping back below $90. The US Federal Reserve kept interest rates unchanged, leav
 
-## Cotton imports likely to rise to a record 60 lakh bales
-Exports are taking a hit, dropping to 15 lakh bales from 18 lakh, as local consumption is on the rise and is now projected to hit 348 lakh bales this season
+## Mahindra arm, SML combine to be 4th largest CV player
+Mahindra Group aims for substantial market share growth in India's commercial vehicle sector. The company targets a 10-12% share of the heavy commercial vehicle market by FY31. It also seeks over 20% market share by FY36 after business consolidation. The combined entity will become India's fourth-la
 
-## Chola MS records 6.7% growth in Gross Written Premium in Q1FY27, profit falls
+## 'GenAI to reshape workforce, GCCs to cushion job impact'
+GenAI will transform India's labor market over the next decade. Tasks will be automated, and many jobs will be augmented by AI. The technology sector's employment narrative is challenged by this evolving landscape. Global capability centers are expected to cushion the employment impact significantly
 
+## IPL's business value crosses $20 billion, RCB top brand: Report
+Indian Premier League's business value reached $20.6 billion in 2026, showing significant growth. Royal Challengers Bengaluru's brand value crossed $300 million, marking a historic milestone. Mumbai Indians also saw its brand value increase, securing the second position. Landmark franchise transacti
 
-## Premiumisation powers Radico’s Q1 numbers; P&A growth guidance raised to 25%+
-Revenue from operations grew 11.8% year-on-year to ₹1,683.7 crore
-
-## NEET UG Counselling 2026 to introduce one-time physical reporting, online verification
-The revised counselling system will allow candidates to indicate their preference after seat allotment by choosing either the ‘Freeze’ or ‘Float’ option online
-
-## Redington posts record revenue and PAT growth in Q2
-Revenue from operations for the quarter went up 34.5% year-on-year to ₹34,922 crore
-
-## NCDEX ventures into MF distribution with launch of NCDEX Nidhi
-The exchange aims to take MF investments to smaller cities through its farmers producers organisation network
-
-## Need to reinvent ways to deal with global challenges: Finance ministry
-India's economy shows resilience despite global challenges and uncertainties. Swift policy responses and implementation are crucial for attracting investment. Rising crude oil prices pose a potential pressure on fiscal and current accounts. The external sector remains resilient due to strong exports
-
-## US Federal Reserve meet today: Kevin Warsh-led FOMC keeps interest rates unchanged
-The US Federal Reserve, which began its two-day policy meeting on Tuesday, was widely expected to leave its benchmark interest rate unchanged.
-
-## India-US trade pact: Piyush Goyal explains the one condition to seal the deal
-India's trade pact with the US awaits tariff competitiveness restoration for its first phase. Minister Piyush Goyal stated India needs a comparative advantage over rival nations. This condition must be met before the bilateral trade agreement can commence. Meanwhile, a US legislative proposal could 
-
-## What India needs to do to respond to emerging global challenges, high crude oil prices: Finance Ministry outlines
-The report stressed that deeper domestic reforms and quicker policy execution will be essential to alter the country's long-term economic trajectory.
-
-## Oil prices jump over 7% as Middle East chaos flares up, brent crude back at $90 per barrel
-Oil prices surged over seven percent on Wednesday amid renewed Middle East military actions. This rally was also supported by industry data showing a drawdown in US crude inventories. Renewed strikes involving the United States and Iran-backed groups reignited supply concerns. Disruptions continued 
-
-## US stock market today: Wall Street in red ahead of US Federal Reserve policy review; oil prices climb
-Markets are currently assigning about a 36% probability to a US rate hike, which, if delivered, would mark the first increase in three years. While higher interest rates help curb inflation, they can also dampen economic activity and weigh on equity valuations.
-
-## India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill - what it means
-India has stepped up Russian crude oil purchases to make up for the deficit, helped in part by the US sanctions waiver which lapsed recently. However, India has continued to procure Russian crude.
-
-## ITR filing deadline nears: How to file income tax return online on e-filing portal - quick 15-step guide
-The process to file the income tax return has evolved over the last few years and the income tax portal now pre-fills a lot of your tax related information drawing from information in documents such as Form 16, Form 26AS, Annual Information Statement (AIS), bank records etc.
-
-## Bangladesh 'reviewing' PM Modi's invitation to PM Rahman to visit India: FM
-Foreign Minister Khalilur Rahman made the comments when asked about India's invitation to PM Tarique Rahman to attend the upcoming 18th BRICS Summit in Delhi.
-
-## No Pakistani Kashmir, only Pakistan-occupied Kashmir: Indian Embassy in US
-The embassy said the Union Territories of Jammu & Kashmir and Ladakh, have been, are and will "always remain an integral and inalienable part of India."
-
-## Sonam Raghuvanshi surrenders after Supreme Court cancels bail in Meghalaya honeymoon murder case
-The Supreme Court noted that Sonam Raghuvanshi was fully aware of the grounds of her arrest at the time she was taken into custody.
-
-## Centre trying to disrupt AAP's Aug 1 town hall against E20 fuel: Kejriwal
-The AAP chief claimed that police approached the Constitution Club and asked it to cancel the booking for the event.
-
-## Suspected timber poacher shot dead in gunfight with forest guards in Assam’s Kokrajhar
-Kokrajhar DFO Mustafa Ali Ahmed said when the forest personnel approached the group, they opened fire, leading the guards to fire retaliatory shots
-
-## 13 Indian seafarers remain stranded aboard MV AMIR1 at Chornomorsk port: Ukrainian Embassy
-Ukrainian Embassy said that disturbing news continues to emerge from Ukraine's Black Sea ports, as it claimed that Russia has “intensified its attacks”.
-
-## 'Leave the chair, become an influencer': CJP's Abhijeet Dipke takes swipe at PM Modi; questions anti-paper leak bill
-On the anti-paper leak bill passed in the Lok Sabha, Abhijeet Dipke said laws would not solve the problem without proper implementation.
-
-## ‘Unstable approach’: Delhi-Hyderabad flight with CM Reddy onboard lands in 2nd attempt after go-around amid rain, wind
-An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onboard had an “unstable approach” at the Hyderabad airport
-
-## As India’s youth spoke up, the message from across the border — you inspire us
+## Smartphone exports rise 23% to $9.8 billion in Q1
 
 
-## Happy birthday, Punch the monkey, many friends to you
+## Crude prices retreat as oil continues flowing through Hormuz alternatives
+Oil prices declined on Thursday after a significant rally the previous day. Crude oil continued to move out of the Middle East despite escalating conflict. Shipping activity indicated that oil supplies were still finding routes out of the region. Military actions intensified with US-Saudi strikes ta
+
+## Exporters flag concerns over West Asia war impact
+Exporters face order uncertainty and higher logistics costs due to the West Asia crisis. Shipping schedules are delayed, and buyers are delaying purchase decisions. Commerce Minister Piyush Goyal met with export promotion bodies to discuss these issues. He backed further support for service exporter
+
+## Gold loans rise on larger ticket sizes, unsecured credit shift
+Gold loans are experiencing significant growth, driven by existing borrowers taking larger amounts. This surge also reflects a shift from unsecured personal loans to secured gold financing options. Gold loans now represent a substantial portion of total consumer credit in India. Non-banking financia
+
+## CAQM issues SOP on drones to Punjab, Haryana, Uttar Pradesh and Rajasthan to track crop burning
+The SOP asks for drone deployment to be done preferably between 3 pm and 9 pm – when farmers are more likely to make attempts to evade satellite detection.
+
+## ‘Wake-up call for govts, MPs’: NDA ally backs student protests
+An ally of the National Democratic Alliance (NDA) on Wednesday said in Parliament that the student protests that swept across the country over alleged paper leaks and irregularities in competitive examinations should not be viewed negatively, calling them a “wake-up call” for governments and lawmake
+
+## One killed, five injured in Manipur gunfight
+Imphal One person was killed and five people, including two CRPF personnel, were injured during a gunfight between security forces and the Naga volunteers during a search operation in Bitiang on Wednesday, officials said
+
+## Habitat loss key challenge in conservation: Yadav on Gloal Tiger Day
+New Delhi: Habitat fragmentation and loss of prey are key challenges India will need to focus on – to expand its existing tiger population in the coming years, with an “urgent need for systemic capacity building” across all levels of conservation – a new publication, one among five new publications 
+
+## How sugarcane lends its sweetness to verse
+It is the month of Aashadi (or Aadi)
+
+## SC rejects plea to halt 'Mahaprabhu Jagannath' release, upholds artistic freedom
+The Supreme Court refused to halt Mahaprabhu Jagannath, saying artistic creativity cannot be curbed because of objections to creative works.
+
+## India, 4 other nations face 100% tariffs as US Senate advances Russia sanctions bill
+The bill, formally titled the “Lindsey O. Graham Sanctioning Russia Act of 2026”, is now set for a final Senate vote later this week, where it is widely expected to pass comfortably
+
+## CJP's Saurav Das backs Rahul Gandhi's ‘firing order’ claims against Amit Shah: ‘He must be held accountable’
+Parliamentary affairs minister Kiren Rijiju immediately objected to Rahul Gandhi's remarks and asked the basis for his claims, telling him to “show the order”.
+
+## Amid row over pellet use, CRPF chief’s ‘work fearlessly’ message to troops
 
 
-## Ramayana trailer: Ranbir Kapoor takes on Yash in the righteous fight; fans ask where is Hanuman?
+## India’s first Vande Bharat freight train begins trial run, hits 145 kmph
 
 
-## No blanket amnesty or bar: How SC set ‘public interest’ test for ex-post facto environment clearances
+## Jana Nayagan Box Office Collection Day 7 Updates: Vijay-starrer drops further, earns Rs 255.63 crore worldwide
 
 
-## A medical education more inclusive
+## Spider-Man Brand New Day Review, Release Live Updates: MCU film expected to earn Rs 45 cr in India
 
 
-## After youth protests, Parliament must open its doors wider
+## Bankipur byelection: Prashant Kishor’s Bihar bypoll test today after late-night drama with cops
 
 
-## India at CWG 2026 Day 8 Schedule: Full list of Indian athletes in action on Thursday
+## ‘A worshipper of nudity’: Raj Kapoor chose hypersexualisation for last heroine Mandakini
 
 
-## Vrajesh Hirjee on theatre, comedy, and the fear every actor faces: ‘Why is my phone not ringing?’
+## Dealer ‘fails’ to deliver SUV before daughter’s wedding, bride’s father wins Rs 1.30 lakh
 
+
+## Can drinking coffee before a 20-minute nap boost your brain? What sleep and gut experts say
+
+
+## Zhongji Innolight shares fall on Hong Kong debut amid global AI sell-off
+Zhongji Innolight saw its share price drop as much as 3 per cent after its hotly anticipated debut on the Hong Kong stock market on Thursday, as the Chinese firm felt the impact of a global downturn in investor sentiment towards the artificial intelligence sector. By 9.33am, it dropped by 2.86 per c
 
 ## How South Korea’s tech rout hit Hong Kong – and why regulators stepped in
 South Korea’s roller-coaster market, driven by sharp swings in semiconductor giants Samsung Electronics and SK Hynix this year, has also reverberated in Hong Kong, where suspected fund embezzlement by a loss-making investment manager and outcry from leveraged-product investors have made headlines. A
 
 ## HKMA keeps base rate at 4% as US market slumps, fears the Fed is losing inflation fight
-Hong Kong’s monetary authority has maintained its base rate following the US Federal Reserve’s decision to keep its key rate unchanged. The city’s base rate was kept at 4 per cent by the Hong Kong Monetary Authority (HKMA) on Thursday. Hours earlier, the US Federal Reserve also retained its target r
+Hong Kong’s monetary authority has maintained its base rate following the US Federal Reserve’s decision to keep its key rate unchanged, but US traders are already betting on a rate rise in September. The city’s base rate was kept at 4 per cent by the Hong Kong Monetary Authority (HKMA) on Thursday. 
 
 ## Powering Hong Kong’s Future
 As Hong Kong prepares to formulate its first Five-Year Plan (2026–2030), aligning closely with the national 15th Five-Year Plan, the city faces a defining question: how will it power its next stage of development? For Mr Joseph Law, Managing Director of CLP Power Hong Kong Limited (CLP), the answer 
@@ -152,9 +158,6 @@ China’s increasing clout in the global semiconductor supply chain is accelerat
 
 ## Chinese MLCC firms’ profits and stock prices fatten on hunger for electronic ‘rice’
 Chinese manufacturers of multilayer ceramic capacitors (MLCCs) – tiny components required in great numbers to regulate electrical flow in electronic devices – are riding a stock rally on the back of explosive first-half earnings, fuelled by insatiable global demand for artificial intelligence infras
-
-## Why has the China-US profit gap widened on the Fortune Global 500?
-China’s unaddressed economic structural problems are swallowing profits and leaving its multinationals falling far behind their US peers in the latest Fortune Global 500 list, despite its firms remaining strong in terms of revenue. The profit gap between Chinese and US companies has continued to wid
 
 ## Anti-Government Protests Resurge in North Africa
 Amid extreme heat, demonstrators are protesting power cuts—and the governments behind them.
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Dramatic sea rescue as firefighters die on the Greek island of Crete
+The Greek Coast Guard is rescuing people trapped by rapidly spreading wildfires on the island of Crete.
+
+## Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained
+The former top US health official invoked the amendment as Republicans questioned him over COVID-19.
+
+## Living with fear: Inside a southern Lebanon village divided by Israel
+Southern Lebanon’s Mansouri village is divided by Israel's Yellow Line, a military boundary separating area it occupies.
+
+## After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing
+After losing her husband and two children, Safiya now fears losing the fragile future she rebuilt.
+
+## Japan turns to Canadian crude as Asia feels Hormuz supply pinch
+Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada's TMX crude oil.
+
+## Trump pushes fighter jet sale to Turkiye despite Israeli opposition
+US President Donald Trump has again signalled support for selling F-35 fighter jets to Turkiye.
+
 ## Trump cuts WHO off from Gavi vaccine alliance funding
 Decision follows long-running feud between Trump and UN group.
 
-## Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning
+## One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning
 Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.
-
-## Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan
-Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.
-
-## Saudi Arabia seeks international coalition against Houthis in Red Sea
-Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.
-
-## Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections
-Ortega has overseen a sweeping crackdown on civil society in Nicaragua and concentrated power in his own hands.
-
-## Israel slams Canada for statement opposing West Bank settlement expansion
-Canada says that illegal settlements in occupied Palestinian territory undermine 'peace, security and stability'.
-
-## Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court
-The Department of Justice has issued separate filings in support of Trump's case to toss the defamation award.
-
-## Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’
-Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
@@ -300,6 +303,12 @@ The World Economic Forum estimates that nearly 40 per cent of workers' existing 
 ## NFRA sets 10 principles for technology use in audits, says AI cannot replace auditor judgement
 The framework calls for pre deployment validation, continuous monitoring and stronger data safeguards as audit firms increasingly use analytics, automated tools and AI, while warning against automation bias and over reliance on machine generated outputs.
 
+## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
+The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
+
+## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
+The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
+
 ## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
 Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
 
@@ -317,10 +326,4 @@ India's IPO activity has continued to stay resilient with 175 companies currentl
 
 ## Govt approves RBI's trials of ₹10, ₹20 polymer notes; no plan to replace paper currency
 The government has approved the Reserve Bank of India's proposal for polymer banknotes. One billion pieces each of ten and twenty rupee polymer notes will undergo field trials. These new notes are expected to be more durable and have a longer lifespan. The introduction of polymer notes is still in a
-
-## RBI to hold rates through 2026 as growth risks outweigh inflation: Reuters poll
-Economists predict the Reserve Bank of India will maintain its key interest rate at 5.25% through August. This decision comes as the central bank assesses global war impacts and domestic price pressures. Inflation has risen above the target, but rate hikes are considered premature by many experts. T
-
-## Listed debt entities must list transferred unlisted NCDs after business restructuring: SEBI
-Market regulator Securities and Exchange Board of India (SEBI) has clarified that listed debt entities taking over outstanding unlisted non-convertible debentures (NCDs) as part of a corporate restructuring or business transfer cannot avoid mandatory listing requirements merely because no fresh debe
 
