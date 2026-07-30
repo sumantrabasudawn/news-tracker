@@ -1,28 +1,28 @@
 # AION Intelligence
 
-## Qualcomm posts shrinking sales and profits as rising costs hit smartphone market
-Net income falls 25% as higher memory chip prices hurt device business
+## Microsoft signs $130bn in data centre leases as it races to meet AI demand
+Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
 
-## Meta shares tumble 10% as Zuckerberg tries to sell his vision for AI ‘agents’
+## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
 Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
+
+## Digital avatar of Jair Bolsonaro tests Brazil’s AI election rules
+Lawyers for former president insist he did not authorise the projection following legal challenge from leftwing groups
+
+## MoD’s Afghan data leak was ‘foreseeable systemic failure’, say MPs
+Soldier accidentally disclosed the personal details of 25,000 people who had applied for relocation to Britain
+
+## Summer slowdown ‘sharper than usual’ for UK property sales
+Higher mortgage rates and economic uncertainty have led to a market favouring buyers, new data suggests
+
+## Qualcomm posts shrinking sales and profits as chip costs hurt smartphone market
+Net income falls 25% as higher memory chip prices hit device business
 
 ## FirstFT: US borrowing costs hit 19-year high after Fed holds rates steady
 Also in today’s newsletter: Mark Zuckerberg says US should not ban Chinese AI and SK Hynix profits disappoint
 
-## Microsoft’s cloud business boosts sales as capex climbs to $41bn
-Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
-
 ## US borrowing costs hit 19-year high as Fed defies inflation fears
 Central bank stands pat on rates even as investors worry Trump’s Iran war will ignite jolt of price growth
-
-## Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack
-Washington says Tehran launched an attempted ‘surprise attack’ on US military installations in the Middle East
-
-## Split Fed decision to hold rates in July
-The committee reiterated that it would ‘deliver price stability’ but chair Kevin Warsh provided little information as to how
-
-## Fauci invokes Fifth Amendment at fiery Senate hearing on Covid-19
-Republican lawmakers threaten to hold scientist in contempt for failing to answer questions
 
 ## Infantino defends $20bn Fifa commercial venture after mounting backlash
 President of world football’s governing body says plan to sell stake to investors ‘is an opportunity and not an obligation’
@@ -36,8 +36,11 @@ You’ve got a nice trust there. Would be a shame if something happened to it
 ## Ex-Goldman executive awarded £1.45mn after paternity leave ‘stigma’
 Jon Reeves lost his job after he took six months off to look after his baby
 
-## Social care reform is a test of UK politics
-Efforts to fix England’s broken system must answer the question: who pays?
+## US launches strikes on Iranian targets after attack on American forces
+US forces launched retaliatory strikes on Iranian targets after Tehran attacked American troops, significantly escalating military tensions across the West Asia.
+
+## Federal Reserve holds interest rates as rare split vote signals rising inflation concerns
+A divided policymaking committee underscored persistent inflation risks, keeping investors focused on the timing and likelihood of the next policy move
 
 ## Cotton imports likely to rise to a record 60 lakh bales
 Exports are taking a hit, dropping to 15 lakh bales from 18 lakh, as local consumption is on the rise and is now projected to hit 348 lakh bales this season
@@ -57,11 +60,8 @@ Revenue from operations for the quarter went up 34.5% year-on-year to ₹34,922 
 ## NCDEX ventures into MF distribution with launch of NCDEX Nidhi
 The exchange aims to take MF investments to smaller cities through its farmers producers organisation network
 
-## DGCA’s thrust control module inspection continues: Minister
-Fuel control switch detents carried out at the OEM facility in Seattle did not reveal any abnormalities, the civil aviation minister said
-
-## India’s corporate bond market matures
-India’s corporate bond market is shifting from a bank-dominated credit model toward a market-based structure. According to a report from Crisil, private issuers led by NBFCs have reached a record share of issuance, surpassing their long-run average. Even as high-grade AAA paper continues to dominate
+## Need to reinvent ways to deal with global challenges: Finance ministry
+India's economy shows resilience despite global challenges and uncertainties. Swift policy responses and implementation are crucial for attracting investment. Rising crude oil prices pose a potential pressure on fiscal and current accounts. The external sector remains resilient due to strong exports
 
 ## US Federal Reserve meet today: Kevin Warsh-led FOMC keeps interest rates unchanged
 The US Federal Reserve, which began its two-day policy meeting on Tuesday, was widely expected to leave its benchmark interest rate unchanged.
@@ -83,9 +83,6 @@ India has stepped up Russian crude oil purchases to make up for the deficit, hel
 
 ## ITR filing deadline nears: How to file income tax return online on e-filing portal - quick 15-step guide
 The process to file the income tax return has evolved over the last few years and the income tax portal now pre-fills a lot of your tax related information drawing from information in documents such as Form 16, Form 26AS, Annual Information Statement (AIS), bank records etc.
-
-## GST boost: Maharashtra emerges as India’s top state tax contributor
-Maharashtra now leads states in tax revenue after the Goods and Services Tax implementation. This growth is supported by high domestic consumption and a large services sector. State tax collections have strengthened significantly since the GST reform began. Tax buoyancy for twenty-six states improve
 
 ## Bangladesh 'reviewing' PM Modi's invitation to PM Rahman to visit India: FM
 Foreign Minister Khalilur Rahman made the comments when asked about India's invitation to PM Tarique Rahman to attend the upcoming 18th BRICS Summit in Delhi.
@@ -111,29 +108,35 @@ On the anti-paper leak bill passed in the Lok Sabha, Abhijeet Dipke said laws wo
 ## ‘Unstable approach’: Delhi-Hyderabad flight with CM Reddy onboard lands in 2nd attempt after go-around amid rain, wind
 An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onboard had an “unstable approach” at the Hyderabad airport
 
-## ‘Bhadohi to be renamed Sant Ravidas Nagar again’: Yogi Adityanath at Varanasi event
+## As India’s youth spoke up, the message from across the border — you inspire us
 
 
-## Ram Temple Trust seized cash from donation ‘theft’ accused before police filed FIR, reveals Champat Rai’s letter
+## Happy birthday, Punch the monkey, many friends to you
 
 
-## Amid Opposition protest, Rajya Sabha passes Bill criminalising insult to Vande Mataram
+## Ramayana trailer: Ranbir Kapoor takes on Yash in the righteous fight; fans ask where is Hanuman?
 
 
-## Delhi Confidential: Kiren Rijiju guest Appearance
+## No blanket amnesty or bar: How SC set ‘public interest’ test for ex-post facto environment clearances
 
 
-## Karnataka HC slams Civil Judge involved in road rage incident, halts probe against 2
+## A medical education more inclusive
 
 
-## Rajasthan youth’s death in ‘accident’: Why was UPSC aspirant found walking naked on road before his death, asks Gujarat HC, seeks report from govt
+## After youth protests, Parliament must open its doors wider
 
 
-## Para Athletics: Dilip Gavit, Basil ensure top two podium finish for India
+## India at CWG 2026 Day 8 Schedule: Full list of Indian athletes in action on Thursday
 
 
-## AAP attacks BJP over Laxmi Yojana, says govt wants to exclude most women in Capital
+## Vrajesh Hirjee on theatre, comedy, and the fear every actor faces: ‘Why is my phone not ringing?’
 
+
+## How South Korea’s tech rout hit Hong Kong – and why regulators stepped in
+South Korea’s roller-coaster market, driven by sharp swings in semiconductor giants Samsung Electronics and SK Hynix this year, has also reverberated in Hong Kong, where suspected fund embezzlement by a loss-making investment manager and outcry from leveraged-product investors have made headlines. A
+
+## HKMA keeps base rate at 4% as US market slumps, fears the Fed is losing inflation fight
+Hong Kong’s monetary authority has maintained its base rate following the US Federal Reserve’s decision to keep its key rate unchanged. The city’s base rate was kept at 4 per cent by the Hong Kong Monetary Authority (HKMA) on Thursday. Hours earlier, the US Federal Reserve also retained its target r
 
 ## Powering Hong Kong’s Future
 As Hong Kong prepares to formulate its first Five-Year Plan (2026–2030), aligning closely with the national 15th Five-Year Plan, the city faces a defining question: how will it power its next stage of development? For Mr Joseph Law, Managing Director of CLP Power Hong Kong Limited (CLP), the answer 
@@ -152,12 +155,6 @@ Chinese manufacturers of multilayer ceramic capacitors (MLCCs) – tiny componen
 
 ## Why has the China-US profit gap widened on the Fortune Global 500?
 China’s unaddressed economic structural problems are swallowing profits and leaving its multinationals falling far behind their US peers in the latest Fortune Global 500 list, despite its firms remaining strong in terms of revenue. The profit gap between Chinese and US companies has continued to wid
-
-## Chinese AI start-up Moonshot seeks influential ambassadors to widen Kimi’s global reach
-China’s Moonshot AI, whose recently released Kimi K3 model stunned with performance close to American frontier systems, is seeking ambassadors to elevate its global influence. The Beijing-based start-up on Tuesday launched the “Kimi Ambassador Program”, aimed at “passionate Kimi users to build up co
-
-## Why is Zhongji unveiling US$1.2 billion in buy-backs before its Hong Kong debut?
-Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 billion) in the run-up to its offshore listing in Hong Kong – may give global investors an anchor for pricing, as the Chinese supplier of US hyperscalers seeks to pre-empt a shaky start to trading in the city. The Chinese ma
 
 ## Anti-Government Protests Resurge in North Africa
 Amid extreme heat, demonstrators are protesting power cuts—and the governments behind them.
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Sam Altman meets lawmakers on back of OpenAI agents hacking companies
-US President Donald Trump says he is considering 'AI controls' following OpenAI's disclosure.
+## Trump cuts WHO off from Gavi vaccine alliance funding
+Decision follows long-running feud between Trump and UN group.
 
-## Is FIFA selling parts of the World Cup to private investors?
-This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.
+## Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning
+Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.
 
-## Myanmar court sentences activists to 37 years over election protest
-Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.
+## Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan
+Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.
 
-## FIFA charges Argentina after World Cup final brawl with Spain
-FIFA hits Argentina with World Cup charges for scuffle after final with Spain and 'Malvinas' banner after England game.
+## Saudi Arabia seeks international coalition against Houthis in Red Sea
+Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.
 
-## Trump threatens Iran strikes after attack on US base in Jordan
-”It’s our turn.” President Donald Trump says the US will hit Iran “very hard” following an attack on US forces in Jordan
+## Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections
+Ortega has overseen a sweeping crackdown on civil society in Nicaragua and concentrated power in his own hands.
 
-## Videos show aftermath of US-Saudi strikes on Iraq PMF bases
-US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases
+## Israel slams Canada for statement opposing West Bank settlement expansion
+Canada says that illegal settlements in occupied Palestinian territory undermine 'peace, security and stability'.
 
-## Trump’s attorney general pick faces possible Republican roadblock
-Todd Blanche, Trump's former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.
+## Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court
+The Department of Justice has issued separate filings in support of Trump's case to toss the defamation award.
 
-## Algeria elects first-ever woman speaker of parliament
-Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.
+## Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’
+Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
