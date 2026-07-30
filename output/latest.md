@@ -1,64 +1,70 @@
 # AION Intelligence
 
+## US economy grew less than expected at 1.5% rate in second quarter
+Slowdown comes amid continued impact from Middle East war
+
+## Antwerp cocaine gangs sentenced in ‘exceptionally large’ case
+Belgian authorities tighten security at major port which is a key point for drug to enter Europe
+
+## Fifa not ‘selling the World Cup’ in $20bn commercial plan, says adviser
+Greg Maffei defends contentious proposal he helped shape as body’s move to bring in outside investors is hit by backlash
+
+## Saudi economy shrinks as Middle East conflict takes heavy toll
+GDP contracted by 4.8% in second quarter compared with same period in 2025
+
+## Trying to make sense of Warsh
+Abdicating responsibility or fortifying the markets with anti-fragility serum?
+
+## Château Rouge — Amit Chaudhuri’s vivid vignettes of living in Paris
+In a non-linear novel ripe with wit and writerly ambition, profound insights emerge amid evocations of the prosaic
+
+## NYSE owner to buy bond platform MarketAxess in $5.7bn deal
+Acquisition marks significant step by Intercontinental Exchange into fixed-income trading
+
+## Has the market lost its mind over AI? You asked, we answered
+Lex head John Foley and tech comment editor Elaine Moore replied to reader questions
+
+## How autonomous are AI agents?
+What the Hugging Face cyber attack and a remote work index can tell us about risk vs reward
+
+## Blue Owl’s private credit fundraising falls to slowest pace in three years
+Demand for data centre investments helped bolster group as redemption requests weigh on credit arm
+
 ## BAE lifts profit and sales guidance following surge in orders
 UK defence group benefits from higher military spending amid ‘highly volatile’ picture on global threats
-
-## France allows some wildfire evacuees to return as blazes stabilise
-More than half of those affected have been permitted to go home in sign that worst fires in decades are under control
 
 ## KKR profits soar as it cashes in record amount of private equity bets
 Private capital giant weathers turmoil that has curtailed asset sales and fundraising by other players
 
-## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
-Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
-
-## There is no modern-day Maggie to save Britain from Burnhamism
-The right hopes that Labour’s new leader will fail, but who exactly is going to step in and shake things up?
-
-## Warsh’s stripped-back Fed communication ‘already backfiring’, say investors
-Traders warn lack of guidance on interest rates erodes US central bank’s influence on Treasury market
-
-## Bordeaux wineries at risk from ‘zombie fires’
-France’s famous vineyards are vulnerable to absorbing smoke particles
-
-## Amazon finds cases of AI causing runaway spending on tech projects
-E-commerce giant’s staff said the new technology had caused budget overruns that sometimes took months to detect
-
 ## Biggest fusion start-up taps institutional investors as it eyes first commercial plant
 No company has yet proved it can build a commercially viable power plant
 
-## Aston Martin investors kept in dark over details of asset shift
-Carmaker bats away questions over £550mn debt deal with BlackRock-owned private credit firm HPS
+## Torrent Pharma FYQ1 PAT rises 3.3% as JB integration costs & higher finance charges weigh on earnings
+Revenue from operations surged 55 per cent to ₹4,921 crore
 
-## Magnum boosted by heatwave as ice cream sales surge in Europe
-Ben & Jerry’s maker expanded distribution to cope with increase in summer demand
+## India’s gold demand falls 6% as volatile prices turn away consumers
+However, demand for gold is still high in value terms, which actually means consumers are buying gold as per their budget, says Sachin Jain, Regional CEO-India, World Gold Council
 
-## Over-speeding caused 82,124 road accidents in 2025: Gadkari
-In a written reply to the Lok Sabha, Road Transport Minister Nitin Gadkari said driving on the wrong side and lane indiscipline caused 4,089 accidents, followed by jumping red lights (276) and the use of mobile phones while driving (136).
+## Cipla Health's new 'W.H.O. hai toh woh ORS hai' campaign highlights the importance of knowing the correct ORS
+Cipla Health's new 'W.H.O. hai toh woh ORS hai' campaign highlights the importance of knowing the correct ORS
 
-## Google, RAI partner to drive digital adoption across over 600,000 retail storefronts
-As part of the partnership, retailers will be supported in using Google Business Profile and Merchant Center to improve the online discoverability of their stores and showcase in-store inventory
+## Chandigarh University's Biotechnology & Pharmacy Students Secure 178 Placements with Leading Pharmaceutical and Biotechnology Companies
+Chandigarh University's Biotechnology & Pharmacy Students Secure 178 Placements with Leading Pharmaceutical and Biotechnology Companies
 
-## Q1 Results Today Live: Swiggy narrows loss, Bajaj Finance, M&M, Gillette, Vedanta, Vedanta Aluminium, Ajanta Pharma, IRFC, ICRA, Niva Bupa profit rise, Hyundai PAT down; Tata Steel, Torrent Pharma, NSDL to announce Q1 results
-Q1 Results Today, 30th July 2026 Live Updates: Stay tuned for more from businessline
+## Commodity experts, policymakers to brainstorm at 3-day Global Commodity Conclave in Mumbai from Aug 12
+It will the first-of-its-kind platform designed to accelerate India’s evolution as a price setter
 
-## EU lays out $11.4 billion for 7 AI gigafactories as it aims to catch up with US, China
-Brussels has moved to establish ‘tech sovereignty’ amid growing concern that technologies from foreign providers could be ‘weaponised’ against the Europeans
+## Study moots phased time-bound reduction of import duty on aluminium to zero
+The report says it is undermining their domestic value addition and eroding their manufacturing competitiveness
 
-## BookMyForex adds travel rewards to forex card with MakeMyTrip travel discounts
-New customers will also receive up to 2% cashback on their first forex load on a minimum load of ₹25,000
+## Sundaram Home Finance Q1 net profit up 37% at ₹85 crore
+Disbursements rise 12% to ₹1,665 crore
 
-## NCW set target of eliminating child marriage across country by 2030: Rahatkar
-The national average of child marriage stands at 23.3%, while West Bengal, Bihar and Tripura have among the highest rates, with over 40% of women married before the age of 18
+## SEBI indicates its stand may not support petitioners’ claims in Embassy REIT matters; Bombay HC seeks detailed affidavits
+The regulator also indicated that its decision was unlikely to support the relief sought by the petitioner
 
-## Kotak Securities Earns Great Place to Work® Certification and Recognition Among India's Best Workplaces™ in Investments 2026
-Kotak Securities Earns Great Place to Work® Certification and Recognition Among India's Best Workplaces™ in Investments 2026
-
-## MetaOptics and Elsoft partner to scale next-generation semiconductor optics manufacturing equipment
-MetaOptics and Elsoft partner to scale next-generation semiconductor optics manufacturing equipment
-
-## Stock market today: Sensex rises 300 points; Nifty holds above 24,300 in afternoon trade
-
+## Fewer jobs, delayed onboarding: Why Indian IT sector is getting tougher for freshers
+Experts say the hiring landscape is becoming increasingly project and demand driven rather than a case where freshers were hired in thousands to increase bench strength. The trend reflects a broader reset in the IT sector.
 
 ## India's renewable energy boom could make Germany a customer for green hydrogen
 India's expanding renewable energy capacity could soon make it an energy exporter. Germany's ambassador sees potential for India to export green hydrogen in coming years. Renewable energy is a strong pillar of India-Germany economic cooperation. Artificial intelligence and a proposed EU Free Trade A
@@ -81,53 +87,62 @@ Samsung Electronics achieved its highest-ever quarterly operating profit, fueled
 ## Asian stocks trade mixed after Fed holds rates; Kospi rallies 4%, Shenzhen slips 300 points
 Asian equities showed signs of stabilizing on Thursday after a turbulent week. Taiwan and South Korea saw gains, while Japan's Nikkei headed for a decline. Oil prices briefly soared due to Middle East tensions before slipping back below $90. The US Federal Reserve kept interest rates unchanged, leav
 
-## India raises with UAE issue of Indians affected by Dubai Iranian hospital closure
-The government said is aware of the issues faced by over 130 Indian nationals who were working in an Iranian hospital in Dubai
+## Why must a child say 'sorry mummy-papa', Trinamool MP asks as she tears into Centre over NEET suicides
+“A child has gone because of the failure of this government and the Prime Minister (Narendra Modi) has not said one word on these children," Ghose said.
 
-## Manmohan Singh ‘did not need SC certificate’: Tharoor on posthumous clean chit by Supreme Court in coal block case
-SC has formally exonerated the late ex-PM and quashed the 2015 trial order filed against him; Tharoor called him “cleanest man in Indian politics”
+## Blindness, paralysis, PTSD: Pellets can cause irreversible damage, experts say amid uproar over CJP protest crackdown
+An injured protester may lose vision in his eye, experts say. His family claimed doctors told them the pellets recovered from his injuries were made of metal.
 
-## Supreme Court shuts one door on retrospective green clearances. Experts say it leaves a backdoor open
-The top court barred administrative orders regularising past environmental violations, but referred to a legal route the Centre could still use in the future.
+## 16 Indians killed, 75 more injured in West Asia conflict since Feb: Govt
+The government said 12 Indian nationals also lost their lives in Ras Laffan Gas Facility in Qatar in a separate accident not related to the West Asia conflict
 
-## 'I also believe Amit Shah should resign': CJP founder Abhijeet Dipke backs Rahul Gandhi after police action on students
-CJP founder Abhijeet Dipke alleged that the Delhi Police orchestrated stone-throwing to justify action against the protesters.
+## Open letter slams Priyanka Gandhi's ‘gaumutra expert’ remark for IIT Madras director: ‘Among top tech brains of India’
+Priyanka Gandhi's remark for the IIT-M director came as Kamakoti has claimed in the past that cow urine “has anti-bacterial and anti-fungal properties”.
 
-## Kharge’s ‘will drag you out’ remark at Shah sparks fresh face-off in House, he then clarifies
-Opposition MPs, including Congress MP Rahul Gandhi, have accused Shah of issuing orders to the security personnel to use lethal force against the protesters.
+## PM Modi has not resigned, PIB fact-checks 'letter' going viral in his name
+The letter was shared by several users on social media platforms, with claims that Modi had quit as prime minister.
 
-## Did Karnataka make HIV testing mandatory in colleges? Here's a fact check
-The state has clarified that HIV testing is not mandatory under the HIV and AIDS (Prevention and Control) Act, 2017.
+## Delhi govt closes NEET protest cases with caveat: No protection for those with criminal antecedents
+The Delhi government announced it will cease legal actions against NEET protest participants, barring those with criminal backgrounds.
 
-## Jantar Mantar in Trafalgar Square
-The gathering had been called by the UK arm of the Students’ Federation of India, SFI-UK
+## India-Japan action plan targets exchange of 5 00,000 personnel: Govt tells RS
+The action plan is part of the Joint Vision for the Next Decade adopted at the India-Japan annual summit held in Tokyo last year, Singh said
 
-## Traffic restrictions across Delhi, Uttar Pradesh as Kanwar Yatra begins | Check affected routes
-Traffic restrictions have been introduced across Uttar Pradesh and Delhi, with police deployed at key locations, as the annual Kanwar Yatra began on Thursday.
+## Opposition slams saffron hockey jersey, says Army uniform could be next
+The unveiling of a saffron jersey for Indian hockey teams has sparked backlash from the Opposition, who accuse the BJP and RSS of ideological manipulation.
 
-## Government to hold policy, tech discussions with Meta within a week on removal of PM Modi’s post
-
-
-## IMD issues orange alert for Punjab, Haryana, Chandigarh; heavy rain expected till Aug 3
+## Saif Ali Khan recalls how Agent Vinod failed despite a ‘vast budget’: ‘I could’ve made anything’
 
 
-## Today News Headlines for School Assembly, July 31, 2026: Over 3 lakh people affected due to Assam flood, CBI files chargesheet in NEET paper leak
+## Amid air quality concerns, PMC plans survey on health risks of rising PM2.5 levels
 
 
-## ‘Allegations of money demands don’t mean suicide abetment: Punjab High Court
+## From walking with crutches to leaping to silver: Sreeshankar Murali’s comeback
 
 
-## ‘No law to punish those who watched it’: Editor Pradeep E Ragav on the Jana Nayagan leak
+## Kavin and Monicka welcome twins, actor announces news in a warm note
 
 
-## ‘Aishwarya Rai se mujra kara diya’: When Bhansali was ridiculed for ‘Nimbooda’
+## AP EAMCET 2026 Counselling: Phase 1 revised schedule out at cap.apcfss.in; registrations extended till August 1
 
 
-## TSLPRB notification 2026 released at tgprb.in; registration schedule to be announced soon
+## A missing husband, an Australia story, and a body beneath a factory
 
 
-## Dealer ‘fails to transfer’ SUV ownership, buyer wins Rs 12.30 lakh refund, payout
+## Chandigarh to revamp parking lot management, may rope in market bodies
 
+
+## Children can’t fall in non-creamy OBC layer if parents’ income in excess: Kerala High Court
+
+
+## Hongkong Land acquires Singapore’s Wheelock Place in US$900m deal
+Hongkong Land will acquire Singapore’s Wheelock Place for about S$1.1 billion (US$900 million) through its Singapore Central Private Real Estate Fund (SCPREF), marking the fund’s first acquisition since its launch in February. The mixed-use commercial property on Orchard Road is being acquired from 
+
+## ByteDance’s US$4b projected AI revenue tops China as it restructures office tool Lark
+ByteDance has integrated its enterprise collaboration unit into other teams, a move that sharpens its focus on using artificial intelligence to serve corporate clients as annualised AI revenue of US$4 billion pushes it to the front of the pack in China, according to sources. The Beijing-based compan
+
+## Ant Group spin-offs pursue independent growth with strategic capital moves
+The three independent spin-offs of Chinese fintech giant Ant Group are accelerating their capital-raising efforts, forging distinct financial paths after gaining operational autonomy in 2024. Ant Digital Technologies is preparing a financing round ahead of its initial public offering, according to C
 
 ## Chinese motorcycle exports roar to record highs amid tech gains, upmarket push
 Chinese motorcycle exports hit a record in the first half of the year as domestic manufacturers, armed with their own technology gains, targeted upmarket segments long dominated by Honda, Yamaha and BMW. Exports reached 26.2 million units worth US$11.28 billion, rising 23.2 per cent in volume and 26
@@ -143,15 +158,6 @@ Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial 
 
 ## BYD to debut first humanoid robots in August as rivalry with Tesla intensifies
 Electric vehicle giant BYD plans to unveil its first humanoid robots within the next few weeks, as China’s electric car makers accelerate their push into the embodied artificial intelligence market. The Shenzhen-based company told the South China Morning Post in a statement that its long-anticipated
-
-## China’s corporate crackdown: insider trading fines and bans intensify
-Chinese regulators are intensifying their sweeping crackdown on corporate insiders, slapping top executives with severe fines, criminal sentences and market bans as Beijing seeks to restore confidence in the country’s embattled stock markets. Securities regulators placed at least 21 controlling shar
-
-## Trading hub ambitions see Hong Kong’s gold imports hit 11-year high in June
-Hong Kong’s gold imports are set to maintain an upwards trajectory after crossing the 150-tonne mark in June for the first time in over a decade, driven by renewed investor appetite and the city’s ambition to transform itself into a premier international precious metals trading hub, analysts said. T
-
-## Finance firms set to pour more investment into AI amid ‘data divide’ fears
-A majority of surveyed global asset management firms plan to raise their artificial intelligence budgets by at least 50 per cent within the next year as the technology transforms the finance industry, a recent study showed. The study, released Tuesday by US fintech firm Clearwater Analytics, indicat
 
 ## The OpenAI Hack Shows the Genie Is Out of the Bottle
 Attempts at control are futile. Policy should now turn to defense.
@@ -249,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Detained Ugandan opposition leader Besigye in intensive care, wife says
+Kizza Besigye, who faces treason charges, is reported to be 'unconscious' in hospital after collapsing in court.
+
+## England appoint Root and Fleming as Test cricket captain and coach
+England confirm Joe Root to return as Test captain, while Stephen Fleming replaces Brendon McCullum as coach.
+
+## How does a safe zone in Lebanon become a target three times?
+Three times in three decades, Qana's shelters were bombed. AJLabs tracks a village the Israeli military keeps hitting.
+
+## Israeli strikes kill at least four, including children, across Gaza Strip
+Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.
+
 ## AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’
 Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport's continental structure.
 
@@ -260,18 +278,6 @@ Fifteen attackers were also killed during the hours-long raid in Pakistan's nort
 
 ## Several children killed and wounded in Israeli attacks across Gaza
 Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.
-
-## Why is Saudi Arabia forming a coalition to protect the Red Sea?
-The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.
-
-## Poland says Russian missile breaches NATO airspace
-Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine
-
-## Howe exits Newcastle on Premier League season eve, with Al-Ahli boss touted
-Eddie Howe has left Newcastle on the eve of Premier League season, with Matthias Jaissle touted as new manager.
-
-## US hits multiple targets in Iran as IRGC pledges retaliation: What we know
-Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
