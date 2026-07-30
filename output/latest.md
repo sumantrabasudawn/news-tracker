@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Microsoft adds record $450bn in market cap as results cheer investors
+Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
+
+## Skirts and sandwiches fail to excite cautious IPO investors
+Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures
+
 ## Madrid deploys army as thousands of Moroccans swim to Spanish enclave
 Mass arrivals in Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez
 
@@ -15,23 +21,14 @@ Fed chair’s press conference exposes the shortcomings of his approach
 ## China is not the solution to the US chipflation problem
 Buying memory chips from companies like CXMT could lower costs but risks dependence
 
-## Microsoft adds record $480bn in market cap as results cheer investors
-Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
-
 ## Are investors really getting cold feet about the AI boom?
 It is not clear whether there has been a serious change of heart about the trade underpinning the stock market
-
-## Japan’s yen jumps 3% as speculation over intervention swirls
-Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide
 
 ## Ferrari profits boosted by AI wealth and hyper-personalisation boom
 Custom services set to account for as much as 20% of revenue, Italian luxury-car maker says
 
 ## BP to cut 700 jobs as it warns on oil ‘oversupply’
 UK oil major says reduction in ‘non-frontline’ roles will result in flatter corporate structure
-
-## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
-Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
 
 ## 2 months of monsoon, yet over 50% of Indian key reservoirs are half-empty
 The level in major reservoirs improved further this week to 44% of the 183.565 billion cubic metres capacity
@@ -81,6 +78,12 @@ Experts say the hiring landscape is becoming increasingly project and demand dri
 ## India's renewable energy boom could make Germany a customer for green hydrogen
 India's expanding renewable energy capacity could soon make it an energy exporter. Germany's ambassador sees potential for India to export green hydrogen in coming years. Renewable energy is a strong pillar of India-Germany economic cooperation. Artificial intelligence and a proposed EU Free Trade A
 
+## Gudiya rape-murder: Constable, key witness in custodial death case, suspended; family alleges harassment Family of Gudiya case witness alleges police harassment, seeks government intervention
+Gudiya rape-murder: Constable, key witness in custodial death case, suspended; family alleges harassment Family of Gudiya case witness alleges police harassment, seeks government intervention
+
+## Punjab CM says Mukh Mantri Teerath Yatra Yojana scheme has been expanded
+Punjab CM says Mukh Mantri Teerath Yatra Yojana scheme has been expanded
+
 ## 'Skin brighter than country's future': CJP’s Dipke comments on PM Modi’s new video
 In the selfie-style video posted on Thursday, PM Modi called the legislation a major step towards creating a credible examination system.
 
@@ -99,34 +102,28 @@ According to the ASDMA's daily flood report, more than 2,12,400 people remained 
 ## We want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt decision
 “Delhi govt released notification that all the FIRs will not be pursued further and they may be treated as closed. We are not very happy with the term.”
 
-## Woman booked for using abusive language against PM Modi at CJP-led Jantar Mantar protest
-Case registered after Ghaziabad resident approached Noida police; complaint says her act “hurt the dignity of constitutional office; intended to spread hatred”
-
-## Mahanadi river dispute with Chhattisgarh may be resolved before Diwali: Odisha CM
-Odisha CM Majhi expects resolution of the Mahanadi water dispute with Chhattisgarh before Diwali, following a tripartite meeting aimed at negotiation.
-
-## Leave of all officials cancelled; 24×7 control rooms in each affected district: Gujarat Government
+## Eye on 800 TPD waste management, MCD signs deal with Oil India to set up CBG plants
 
 
-## ‘No substantial change in case’s circumstances’: Second bail plea of ex-PU professor accused of wife’s murder also rejected
+## AAP retains Bilothi seat in Netrang Taluka panchayat
 
 
-## Appoint Polar Ambassador, become full member of Arctic Council, suggests panel
+## Noida woman booked for ‘abusive’ remarks against PM during Jantar Mantar protest
 
 
-## Vidya Balan on why she stopped trying to fit Bollywood’s beauty standards: ‘I was 26’
+## Baruipur case: Calcutta High Court seeks police report on circumstances that led to accused’s encounter
 
 
-## 2020 Delhi riots larger conspiracy case: Umar Khalid moves HC for third time seeking bail
+## Commonwealth Games: Weightlifter Lovepreet Singh wins silver in 110+kg final
 
 
-## ICC unveils venues of 2027 ODI World Cup
+## Court dismisses second bail plea of Hyderabad man arrested for circulating ‘misleading’ video linked to PM Modi
 
 
-## ‘Education reform necessary’: PM Modi says won’t spare any paper mafia
+## Iran war: Why Gulf nations are turning to China, not US, to reopen Strait of Hormuz
 
 
-## Two-thirds city roads lack footpaths, 90% cycle tracks not up to standard: PMC
+## Watch: Thousands swim into Spain’s Ceuta from Morocco. Why the border collapsed today
 
 
 ## The GBA is optimised for AI to achieve its full potential
@@ -153,6 +150,9 @@ Chinese stocks trading overseas may emerge as a shelter for global investors, as
 ## AI stock rout fells Innolight after mega Hong Kong IPO
 Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares. The stock closed down 2 per cent after earlier plunging as much as 10 per cent. Shenzhen-listed shares of Innolight, w
 
+## How Gen Z ‘Cockroaches’ Beat Modi at His Own Game
+India’s prime minister is famous for his savvy use of social media. Now he’s getting a wake-up call.
+
 ## Lindsey Graham’s Parting Gift to Ukraine
 The late senator’s long-stalled Russia sanctions bill is on its way to becoming law.
 
@@ -173,9 +173,6 @@ The Iran war has underscored the need for a change in state psychology.
 
 ## Anti-Government Protests Resurge in North Africa
 Amid extreme heat, demonstrators are protesting power cuts—and the governments behind them.
-
-## U.S.-Saudi Strikes Add a New Front to the Iran War
-Iraqi militias backed by Tehran are the latest targets in the ever-expanding conflict.
 
 ## Why Did China Test a Submarine-launched Ballistic Missile?
 July 6 was the first time that China has launched a submarine-launched ballistic missile into international waters.
@@ -249,6 +246,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Saudi Arabia announces maritime defence alliance to secure vital waterways
+Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.
+
+## Congo’s Ebola death toll passes 1,500 as it struggles to halt spread
+There's still no vaccine for the Bundibugyo strain of the virus as the country struggles for control in infected areas.
+
+## UN demands end of Ugandan clampdown on dissent
+Pervasive climate of fear condemned amid human rights violations and crackdowns on opposition.
+
+## ABC News says FCC is carrying out intimidation campaign to shape coverage
+Trump administration has frequently sought to pressure companies over coverage critical of the president and his allies.
+
 ## Spain’s Ceuta declares emergency over surge in migrant arrivals
 More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.
 
@@ -260,18 +269,6 @@ Viral cricket scandal sees 'Clicky Ponting' suspended from UK team
 
 ## Europe’s heating climate sparks ‘major intensification’ of fires: Report
 Climate change has helped southern Europe's likelihood of wildfires double since 1981, say researchers.
-
-## Rights report reconstructs fatal shooting of Palestinian man
-Rights report reconstructs fatal shooting of Palestinian man
-
-## ‘To play God’: Cuba’s healthcare system collapses under US pressure
-As the Trump administration tightens US sanctions, Cuba's healthcare sector struggles with fuel and supply shortages.
-
-## In Their Own Hands: Ghana’s Drug Vigilantes
-Citizen vigilantes patrol Ghana's streets, fighting an opioid crisis. We meet those taking the law into their own hands.
-
-## NATO jets scramble as Russian missile detonates in Poland
-The growing series of NATO airspace violations is raising concern that Russia's war on Ukraine could escalate.
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
