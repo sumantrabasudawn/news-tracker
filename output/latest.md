@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## Kevin Warsh is confusing markets
-The Fed is a player, not a referee
+## ‘My life’s screwed’: Korean investors stress out after AI bubble bursts
+Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles
+
+## BoE expected to ‘talk tough’ but leave rates on hold
+Decision comes against backdrop of renewed volatility in energy prices
+
+## US borrowing costs hit 19-year high as Fed defies inflation fears
+Central bank holds rates even as investors worry Iran war will ignite jolt of price growth
+
+## Eurozone grew by 0.4% in second quarter despite Middle East energy shock
+Economists had expected a slower pace of expansion
+
+## Ukraine’s ex-defence minister blames procurement reforms for dismissal
+Fedorov interview offers his most detailed account of sacking that triggered wave of protest
+
+## Rolls-Royce raises 2026 targets after profits beat expectations
+Strong demand for UK aero-engine group’s civil and military engines boosts earnings
 
 ## Chinese stocks on track for worst month in decade
 Investors pull out of ‘picks and shovels’ suppliers to AI boom
 
-## Winner of US-China AI rivalry falls 10% in Hong Kong debut
+## The Burnham bounce shouldn’t come as a surprise
+Labour may be enjoying an uptick in the polls but the public mood remains largely one of disinterest
+
+## Shell posts second-highest profits ever as traders cash in on Iran disruption
+UK oil major says earnings have surged even as its gas production fell sharply because of Middle East war
+
+## Lloyds targets £2bn cost cuts as part of new four-year strategy
+Plan builds on UK bank’s pivot from traditional lending business
+
+## Winner of US-China AI rivalry falls 2% in Hong Kong debut
 Shandong-based Innolight supplies data centre equipment to American and Chinese tech groups
 
-## Russia exploits Spain’s grounded firefighting helicopters as wildfires rage
-Also in this newsletter: Austria imposes strict social media ban
+## Submit your questions: Has the market lost its mind over AI?
+Take part in a live Ask an Expert Q&A with Lex head John Foley and tech comment editor Elaine Moore today at 1pm (BST)
 
-## FirstFT: Meta and Microsoft kick off turbulent tech results
-Also in today’s newsletter: EDF’s nuclear venture and UK’s mobile network woes
+## Adidas shares tumble after profits hit by World Cup marketing spend
+Net profit rose 6 per cent in the second quarter, below expectations
 
-## The tech wreck roiling Wall Street
-Banks have asked hedge funds to post more collateral as concerns grow about just how concentrated their positions are
+## BAE lifts profit and sales guidance following surge in orders
+UK defence group benefits from higher military spending amid ‘highly volatile’ picture on global threats
 
-## What are PuFins and how do Burnham and Healey plan to use them?
-State-owned institutions are aimed at spurring private-sector activity, and mayors want them to work more flexibly
+## Maruti Suzuki commences 4th plant in Gujarat with 10-lakh capacity
+Maruti Suzuki’s total manufacturing capacity stands at 29 lakh units per annum
 
-## UK business secretary argues against rejoining EU customs union
-Labour’s 2024 manifesto position on the bloc ‘absolutely the right one’, says Jonathan Reynolds
+## Deepak Fertilisers & Petrochemicals Q1 net profit doubles to ₹490 cr
+Total income rose to ₹3,262.21 crore in the first quarter of this fiscal from ₹2,682.52 crore in the corresponding period of the preceding year
 
-## SocGen profit jumps as banking boom offsets weak trading
-French lender announces €1.5bn share buyback alongside record quarterly earnings
+## Sensex today | Stock Market Live: Sensex, Nifty trade flat; IT stocks outperform in cautious market
+Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices traded in a narrow range on Thursday, with gains in IT stocks led by Persistent Systems, Wipro and Coforge helping offset global uncertainty over the Fed, elevated crude oil prices and geopolitical tensions in West Asia, while investo
 
-## The corgi-inspired ETF provider that wants to disrupt BlackRock
-Turning the ETF spaghetti cannon dial to 11
-
-## AI Exchange
-In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
-
-## Accelerating Business
-A monthly series that examines how the legal ecosystem uses new technologies to serve fast-changing business needs. This time: how in-house legal teams are getting creative with AI tools
-
-## Sensex today | Stock Market Live: Indian markets remain range-bound; IT stocks lend support amid global uncertainty
-Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices traded in a narrow range on Thursday, with IT stocks providing support as investors weighed elevated crude oil prices, Middle East tensions and a divided US Federal Reserve against resilient FPI inflows and the ongoing Q1 earnings sea
-
-## Q1 Results Today Live: Gillette & Hester Biosciences Q1 profit up y-o-y, Bajaj Finance, M&M, Tata Steel, Vedanta, Torrent Pharma, Hyundai Motor, IRFC, Swiggy, NSDL to announce Q1 results
+## Q1 Results Today Live: Vedanta Aluminium Q1 profit zooms, M&M, Gillette, IRFC, ICRA profit rise, Westlife profit falls, Bajaj Finance, Tata Steel, Vedanta, Torrent Pharma, Hyundai Motor, Swiggy, NSDL to announce Q1 results
 Q1 Results Today, 30th July 2026 Live Updates: Stay tuned for more from businessline
 
-## TASMAC scam case: Madras High Court refuses anticipatory bail to Senthilbalaji
+## Growatt Recognized as S&P Global Energy Tier 1 PV Inverter Supplier for 2026
+Growatt Recognized as S&P Global Energy Tier 1 PV Inverter Supplier for 2026
+
+## Prestige Estates Q1 profit down 19% to ₹236 cr
+Total income rose to ₹2,835.6 crore during the quarter from ₹2,468.7 crore a year ago
+
+## Govt empanels 16 third party testing agencies for Coal Exchange
+The third-party agencies will collect, test and certify coal samples as the Centre prepares to operationalise the regulated Coal Exchange within 12 months.
+
+## Tamil Nadu can lead next phase of growth in wind energy: IWTMA
+The industry body commissioned a report “Action Items for Energy Transition in Tamil Nadu” that outlined policy reforms, manufacturing expansion and export-focused strategies to cement the state’s leadership in India’s renewable energy transition.
+
+## Stock market today: Sensex rises 105 points; Nifty holds above 24,275 in afternoon trade
 
 
-## India’s gold demand falls 6% as volatile prices turn away consumers
-However, demand for gold is still high in value terms, which actually means consumers are buying gold as per their budget, says Sachin Jain, Regional CEO-India, World Gold Council
-
-## Cognizant trims 2026 growth estimate on cautious client spending
-Cognizant revises 2026 growth estimates downward due to cautious client spending, despite strong quarterly performance exceeding tier 1 peers.
-
-## M&M Q1 FY27 Street expectations: Revenue seen up 19-24%; profit growth may stay muted
-Profit growth is seen capped at 2.3% as higher input costs, richer EV mix and continued investments weigh on profitability, with Street estimates pointing to a 150-200 bps contraction in standalone EBITDA margins.
-
-## P&G Hygiene Q1 attributable profit drops 34% on weak sales, higher input and ad costs
-Procter & Gamble Hygiene and health care reported a sharp deterioration in profitability during the June quarter as commodity inflation and heavier brand investments outpaced revenue, highlighting the margin pressures facing the FMCG maker
-
-## Milken Institute Unveils Details for 2026 Asia Summit, Calls for Smart Leadership in an AI-Driven World
-Milken Institute Unveils Details for 2026 Asia Summit, Calls for Smart Leadership in an AI-Driven World
-
-## Stock Market Today Live Updates: BSE Sensex and Nifty50 trade flat; Asian markets mixed
-
+## India’s crude oil imports from Russia may touch new record of 3 million barrels per day - here’s why
+If shipping through the Red Sea remains unaffected, Indian refiners will continue to have an important supply cushion through Saudi Arabia's East-West (Yanbu) pipeline, which has recently been supplying around 300,000-500,000 barrels per day (kbd) of crude.
 
 ## Microsoft Q4 results: Azure tops $100 billion as AI growth helps beat earnings estimates
 Microsoft reported strong cloud revenue growth and increased paid AI users. Azure revenue surpassed one hundred billion dollars for the first time. Microsoft 365 Copilot now has over thirty million paid seats. Investors are observing returns from significant artificial intelligence spending. The com
@@ -81,56 +90,62 @@ GenAI will transform India's labor market over the next decade. Tasks will be au
 ## IPL's business value crosses $20 billion, RCB top brand: Report
 Indian Premier League's business value reached $20.6 billion in 2026, showing significant growth. Royal Challengers Bengaluru's brand value crossed $300 million, marking a historic milestone. Mumbai Indians also saw its brand value increase, securing the second position. Landmark franchise transacti
 
-## Smartphone exports rise 23% to $9.8 billion in Q1
+## ‘You took them from Cong’: Priyanka Gandhi-Kalyan Banerjee banter outside Parliament as he opposes TMC rebels
+As Kalyan Banerjee continued his protest, Priyanka Gandhi walked up to him and said that the TMC had earlier welcomed several Congress leaders into the party.
+
+## Meta to appear before govt to explain policy, technical issues within 7-10 days: MeitY Secretary S Krishnan
+S Krishnan said the government is currently examining the matter and has sought views from several messaging platforms as part of its assessment.
+
+## Karnataka govt officer attacked for excluding Bangladesh, Pak nationals in SIR list: BJP
+The former deputy mayor, S Harish, also demanded the resignation of Karnataka's home minister Priyank Kharge over the assault.
+
+## Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh: ‘Beautiful experience’
+Wangchuk appealed the government to stick to the promise made to the students that no FIRs will be filed against those who took part in nationwide protests.
+
+## Delhi BJP protests against Punjab education minister, demands his resignation over 'paper leaks'
+The protesters gathered near AAP headquarters at Ferozshah Road and demanded the resignation of Punjab Education minister Harjot Singh Bains.
+
+## Human trafficking in Nagaland taking new forms linked to cybercrime, money laundering: Official
+Human trafficking in Nagaland taking new forms linked to cybercrime, money laundering: Official
+
+## VACB finds no evidence against CM Satheesan in Punarjani-FCRA case, closes probe: Chennithala
+VACB finds no evidence against CM Satheesan in Punarjani-FCRA case, closes probe: Chennithala
+
+## Bill to provide statutory framework to Indian Statistical Institute up for introduction in LS
+Bill to provide statutory framework to Indian Statistical Institute up for introduction in LS
+
+## Madras High Court cancels FIR against bishop over discrepancy in baptism certificate
 
 
-## Absentia trial begins in Delhi against UK-based gangster Kapil Sangwan
-The court noted that the non-bailable warrants issued against Sangwan could not be executed and his house was found to be locked
-
-## “We are in India, a fly is on my table”: Bombay HC judge as FDA suspends licence of top Mumbai hotel
-“Last week, there was a big insect sitting right in front of my table. So what can we do?" the bench said.
-
-## ‘Don’t wait for last-minute rush': All you need to know as ITR filing deadline ends tomorrow
-Taxpayers who miss the July 31 deadline can still file their income tax return, but doing so may attract penalties and interests.
-
-## Devotees participate in Kanwar Yatra festivities in Haridwar as holy month of Shravan begins
-Devotees were seen carrying water from the Ganga as part of the annual pilgrimage associated with the worship of Lord Shiva during the sacred month.
-
-## Datia bypoll: Congress candidate confident of 'historic victory', accused BJP of 'causing disturbance'
-Ghanshyam Singh expressed confidence of a big win as both parties traded allegations, while officials said polling was peaceful.
-
-## Goa police grill organisers of student protests over funding, intent behind pro-Umar Khalid placards
-Goa police grill organisers of student protests over funding, intent behind pro-Umar Khalid placards
-
-## NSUI leaders begin indefinite hunger strike atop Jaipur water tank
-They are demanding the restoration of student union elections in Rajasthan and action against those responsible for the excesses against student protesters
-
-## Chaos of protests: Despite govt efforts, law-abiding citizens pay, bureaucracy carries on
-Dharmendra Pradhan resigned and with this the issue of political accountability for paper leaks is settled. But is this all?
-
-## Question sets for junked NEET exam were codenamed Kailash, Shivalik: probe
+## SFI’s Aishe Ghosh gets relief as court cancels non-bailable warrants in 2021 case
 
 
-## Humanoid robot, powered by Qualcomm’s AI chips, collapses during Taipei event
+## Man ‘fails’ to use paper cup machine due to ‘lack of training’, wins Rs 7.25 lakh
 
 
-## UPSC Issue at a Glance | Assam Floods: The anatomy of flash floods, from sudden disasters to smarter preparedness
+## India at Commonwealth Games Day 8 Live: Neeraj Chopra in action today
 
 
-## ‘Brand-new’ motorbike shows ‘defects’ in maiden ride, Kerala buyer wins Rs 2.3 lakh
+## How Gurgaon’s 28-km Metro line will make your daily commute easier
 
 
-## How 22 inches of rain left Ahmedabad’s Bopal, Ghuma waterlogged for three days
+## Srinivasa Mangapuram movie review: Jai Krishna, Rasha Thadani’s love story loses itself in violence
 
 
-## DU UG Admissions 2026: Over 71,000 admissions confirmed; Round 3, mid-entry schedule announced
+## ISRO Apprentice Recruitment 2026: Application process started at nats.education.gov.in
 
 
-## 2 insects in kitchen can’t shut down 5-star Mumbai hotel: Bombay High Court
+## ‘Don’t you feel ashamed?’: Vikas Gupta schools Shilpa Shinde on Lock Upp 2
 
 
-## Vishal Bhardwaj’s honest confession on ‘sharafat’ resonates with many
+## AI stock rout fells Innolight after mega Hong Kong IPO
+Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares. The stock closed down 2 per cent after earlier plunging as much as 10 per cent. Shenzhen-listed shares of Innolight, w
 
+## BYD to debut first humanoid robots in August as rivalry with Tesla intensifies
+Electric vehicle giant BYD plans to unveil its first humanoid robots within the next few weeks, as China’s electric car makers accelerate their push into the embodied artificial intelligence market. The Shenzhen-based company told the South China Morning Post in a statement that its long-anticipated
+
+## China’s corporate crackdown: insider trading fines and bans intensify
+Chinese regulators are intensifying their sweeping crackdown on corporate insiders, slapping top executives with severe fines, criminal sentences and market bans as Beijing seeks to restore confidence in the country’s embattled stock markets. Securities regulators placed at least 21 controlling shar
 
 ## Trading hub ambitions see Hong Kong’s gold imports hit 11-year high in June
 Hong Kong’s gold imports are set to maintain an upwards trajectory after crossing the 150-tonne mark in June for the first time in over a decade, driven by renewed investor appetite and the city’s ambition to transform itself into a premier international precious metals trading hub, analysts said. T
@@ -146,15 +161,6 @@ South Korea’s roller-coaster market, driven by sharp swings in semiconductor g
 
 ## HKMA warns of interest-rate risk as traders bet on September rate rise
 The Hong Kong Monetary Authority (HKMA) has maintained its base rate following the US Federal Reserve’s decision to keep its key rate unchanged, but US traders are already betting on a rate rise in September. The city’s base rate was kept at 4 per cent by the HKMA on Thursday. Hours earlier, the US 
-
-## Powering Hong Kong’s Future
-As Hong Kong prepares to formulate its first Five-Year Plan (2026–2030), aligning closely with the national 15th Five-Year Plan, the city faces a defining question: how will it power its next stage of development? For Mr Joseph Law, Managing Director of CLP Power Hong Kong Limited (CLP), the answer 
-
-## ‘Explosive demand’ for cooling continues as Europe swelters, China’s Midea says
-Chinese home appliance maker Midea reported that European demand for its air conditioners continues to soar amid recurrent heatwaves, with two of its factories receiving hundreds of thousands of new orders in a month. The factories, in the eastern city of Wuhu and the southern port city Guangzhou, r
-
-## Hong Kong expands CMU’s global reach with Swiss, Spanish securities link
-Hong Kong’s de facto central bank has linked its securities settlement platform with Switzerland’s SIX stock exchange, giving its members direct access to securities in the Swiss and Spanish markets. The Hong Kong Monetary Authority (HKMA) announced the new connection between SIX and its Central Mon
 
 ## The OpenAI Hack Shows the Genie Is Out of the Bottle
 Attempts at control are futile. Policy should now turn to defense.
@@ -204,6 +210,9 @@ A recent bilateral exchange hinted that Jakarta is taking a greater interest in 
 ## The Quad and ASEAN’s First Step Off The Fence
 For the first time, the Quad issued a dedicated joint statement on cooperation with ASEAN.
 
+## Can Cyber Operations Be Deterred? What Wargames Reveal
+The most successful deterrent threats leave no evidence behind. No missiles fly. No networks go down. No troops cross borders. Nothing happens. For policymakers, that is often the desired outcome. For researchers, it is a nightmare. Imagine, however, being able to observe a decision-maker preparing 
+
 ## How Mexico Locked In Its Militarized Police State
 In 2021, Andrew Ivey wrote, “‘I Have Other Data’: The Guardia Nacional and the Entrenchment of Mexico’s Militarization’,” where he warned Mexico was headed toward a militarization trap. Five years later, amidst increased pressure from the Trump administration and the election of a new Mexican presid
 
@@ -224,9 +233,6 @@ In the Pacific War, the U.S. Navy’s underwater demolition teams prepared the w
 
 ## How Orbán’s Fall Changed Serbia’s Political Future
 In the speech announcing his invasion of Ukraine on Feb. 24, 2022, Vladimir Putin took only minutes to arrive at the original sin in his catalogue of Western crimes. Before Iraq, before Libya, before Syria, came Belgrade: “First a bloody military operation was waged against Belgrade, without the U.N
-
-## Zelensky’s Political Storm Starts to Clear
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +258,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Viral finger-clicker suspended as cricket storm remains in global spotlight
-Saltburn's amateur cricketer at centre of cheating allegations that grabbed global headlines is suspended by club.
+## Saudi Arabia confirmed to host Asian Champions League Elite finals
+Saudi Arabia has hosted the last two Asian Champions League Elite finals and has now been confirmed for the next three.
 
-## War and shortages push Gaza hospitals to breaking point
-Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.
+## Infantino insists FIFA’s World Cup plan is proposal and not ‘obligation’
+Football governing bodies hit out at plans to sell World Cup stakes, as FIFA insist proposal is not an 'obligation'.
 
-## US launches ‘powerful’ strikes on Iran after Jordan attack
-The US has bombed multiple cities across southern Iran in what Central Command described as a ‘heavy wave of strikes’.
+## US strikes cause extensive damage on Iran’s Qeshm Island
+Video from Iran's Qeshm Island shows widespread damage following US attacks.
 
-## Evo Morales defiant after new Bolivia arrest warrant
-Bolivia's former president is being investigated 'for armed uprising' against the state, among other things.
+## Is Israel repeating the Crusaders’ fatal mistake?
+Deja Vu explores why the Crusader kingdom fell and asks: could Israel be next?
 
-## Rescue operation in Argentina to free more than 100 snow-trapped tourists
-Emergency services have rescued more than 100 tourists, trapped by a snowstorm in Argentina.
+## India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says
+Rights group says India continues to support the Israeli military despite genocide 'broadcast worldwide on daily basis'.
 
-## ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake
-Japanese PM Takaichi says 'race against time' to rescue those trapped in the mall and others affected by the quake.
+## Can the UN’s Refugee Convention survive?
+The 1951 UN Refugee Convention marks its 75th anniversary this week but is facing anti-migration sentiment in the West.
 
-## US launches another round of attacks on Iran
-Targets across southern Iran hit, including on strategic Qeshm Island.
+## In the waters off Malaysia, Iranian oil sales continue despite blockade
+A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.
 
-## Israeli strikes leave buildings burning in Gaza City
-Israeli strikes have displaced dozens of families in Gaza City's Shati refugee camp.
+## Messi returns to MLS training 10 days after World Cup final heartbreak
+Lionel Messi returns to Inter Miami after Argentina's World Cup final defeat by Spain, which led to retirement rumours.
+
+## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
+The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
@@ -296,12 +305,6 @@ While experts agree that iPIE has the potential to streamline operational aspect
 
 ## Gen Z, Jobs and India Inc’s Hiring Problem
 The World Economic Forum estimates that nearly 40 per cent of workers' existing skills will require updating within the next five years as artificial intelligence, automation and digital technologies reshape industries. Ironically, because of this mismatch, many Indian businesses struggle to fill va
-
-## NFRA sets 10 principles for technology use in audits, says AI cannot replace auditor judgement
-The framework calls for pre deployment validation, continuous monitoring and stronger data safeguards as audit firms increasingly use analytics, automated tools and AI, while warning against automation bias and over reliance on machine generated outputs.
-
-## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
-The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
 
 ## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
 The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
