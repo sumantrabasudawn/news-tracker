@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## Microsoft adds record $450bn in market cap as results cheer investors
-Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
+## Amazon increases AI infrastructure spending to $220bn this year
+Seattle-based group had in April expected to spend $200bn in 2026
+
+## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
+Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
+
+## Saudi Arabia announces maritime defence coalition as Houthi attacks threaten Red Sea route
+Fourteen countries, including Pakistan, Turkey, Egypt and Sudan, vow to protect shipping and energy supplies
+
+## Apple defies smartphone downturn with strong iPhone sales
+Smartphone revenue rose more than a fifth as rivals struggle
 
 ## Skirts and sandwiches fail to excite cautious IPO investors
 Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures
+
+## Microsoft adds record $450bn in market cap as results cheer investors
+Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
 
 ## Madrid deploys army as thousands of Moroccans swim to Spanish enclave
 Mass arrivals in Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez
@@ -15,20 +27,8 @@ Meta is working on a plethora of products outside its comfort zone — and the s
 ## Citadel buys Situational Awareness equity holdings after steep AI losses
 Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors
 
-## Kevin Warsh’s concerning communication style
-Fed chair’s press conference exposes the shortcomings of his approach
-
 ## China is not the solution to the US chipflation problem
 Buying memory chips from companies like CXMT could lower costs but risks dependence
-
-## Are investors really getting cold feet about the AI boom?
-It is not clear whether there has been a serious change of heart about the trade underpinning the stock market
-
-## Ferrari profits boosted by AI wealth and hyper-personalisation boom
-Custom services set to account for as much as 20% of revenue, Italian luxury-car maker says
-
-## BP to cut 700 jobs as it warns on oil ‘oversupply’
-UK oil major says reduction in ‘non-frontline’ roles will result in flatter corporate structure
 
 ## 2 months of monsoon, yet over 50% of Indian key reservoirs are half-empty
 The level in major reservoirs improved further this week to 44% of the 183.565 billion cubic metres capacity
@@ -102,28 +102,28 @@ According to the ASDMA's daily flood report, more than 2,12,400 people remained 
 ## We want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt decision
 “Delhi govt released notification that all the FIRs will not be pursued further and they may be treated as closed. We are not very happy with the term.”
 
+## Seema Kaliramna, PhD and mother of 3-year-old, wins CWG 2026 discus bronze
+
+
+## Figuratively, Dubai 15th district of Kerala, says Brittas as JDU MP alleges ‘foreign role’ in Jantar Mantar stir
+
+
+## After 12 years, India completes first comprehensive catalogue of butterflies, moths
+
+
+## Despite struggling with knee, Tejaswin finishes 1st day of Decathlon at 2nd spot
+
+
+## 9 died in March 18 blaze: Bronto Skylift failed, crew not trained — magisterial inquiry report on Palam fire
+
+
+## Likely before fast-track court: Paper leak cases impacted after judge was moved out at key stages
+
+
+## Love, lies and fake gold: An extramarital affair that led to a Rs 3-crore loan fraud
+
+
 ## Eye on 800 TPD waste management, MCD signs deal with Oil India to set up CBG plants
-
-
-## AAP retains Bilothi seat in Netrang Taluka panchayat
-
-
-## Noida woman booked for ‘abusive’ remarks against PM during Jantar Mantar protest
-
-
-## Baruipur case: Calcutta High Court seeks police report on circumstances that led to accused’s encounter
-
-
-## Commonwealth Games: Weightlifter Lovepreet Singh wins silver in 110+kg final
-
-
-## Court dismisses second bail plea of Hyderabad man arrested for circulating ‘misleading’ video linked to PM Modi
-
-
-## Iran war: Why Gulf nations are turning to China, not US, to reopen Strait of Hormuz
-
-
-## Watch: Thousands swim into Spain’s Ceuta from Morocco. Why the border collapsed today
 
 
 ## The GBA is optimised for AI to achieve its full potential
@@ -150,6 +150,9 @@ Chinese stocks trading overseas may emerge as a shelter for global investors, as
 ## AI stock rout fells Innolight after mega Hong Kong IPO
 Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares. The stock closed down 2 per cent after earlier plunging as much as 10 per cent. Shenzhen-listed shares of Innolight, w
 
+## NATO Says Russian Missile Violated Polish Airspace
+Secretary-General Mark Rutte warned that Moscow’s “reckless” actions risk spreading the Ukraine war.
+
 ## How Gen Z ‘Cockroaches’ Beat Modi at His Own Game
 India’s prime minister is famous for his savvy use of social media. Now he’s getting a wake-up call.
 
@@ -170,9 +173,6 @@ Attempts at control are futile. Policy should now turn to defense.
 
 ## Yes, Europe Is a Middle Power, Too
 The Iran war has underscored the need for a change in state psychology.
-
-## Anti-Government Protests Resurge in North Africa
-Amid extreme heat, demonstrators are protesting power cuts—and the governments behind them.
 
 ## Why Did China Test a Submarine-launched Ballistic Missile?
 July 6 was the first time that China has launched a submarine-launched ballistic missile into international waters.
@@ -246,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Saudi Arabia announces maritime defence alliance to secure vital waterways
-Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.
+## Will Saudi Arabia be dragged further into the war in Iran?
+Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.
 
-## Congo’s Ebola death toll passes 1,500 as it struggles to halt spread
-There's still no vaccine for the Bundibugyo strain of the virus as the country struggles for control in infected areas.
+## Prague Zoo keeps polar bears cool with ice amid heatwave
+Keepers at Prague Zoo used tonnes of ice to provide much relief to animals as Europe grappled with scorching heat.
 
-## UN demands end of Ugandan clampdown on dissent
-Pervasive climate of fear condemned amid human rights violations and crackdowns on opposition.
+## UN launches hunt for next chief amid rising challenges
+Antonio Guterres’s successor will be tasked with revitalising an organisation in crisis and facing pressure to reform.
 
-## ABC News says FCC is carrying out intimidation campaign to shape coverage
-Trump administration has frequently sought to pressure companies over coverage critical of the president and his allies.
+## Security camera shows ‘Russian missile’ exploding in Poland
+Security camera video shows the moment a suspected Russian missile exploded inside Poland.
 
-## Spain’s Ceuta declares emergency over surge in migrant arrivals
-More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.
+## Father of Georgia Apalachee school shooter sentenced to 15 years in prison
+Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.
 
-## Turtle rescued from rubble a month after Venezuela earthquake
-A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued
+## US authorities probe cyberattack on water systems in Minnesota
+A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.
 
-## Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team
-Viral cricket scandal sees 'Clicky Ponting' suspended from UK team
+## Palestine Action co-founder wins UK Supreme Court appeal bid
+Huda Ammori has won permission to challenge Palestine Action's ban at the UK Supreme Court.
 
-## Europe’s heating climate sparks ‘major intensification’ of fires: Report
-Climate change has helped southern Europe's likelihood of wildfires double since 1981, say researchers.
+## Pakistan coal mine explosion kills at least 11, traps dozens
+Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
