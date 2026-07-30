@@ -1,25 +1,40 @@
 # AION Intelligence
 
-## US economy grew less than expected at 1.5% rate in second quarter
-Slowdown comes amid continued impact from Middle East war
-
-## Antwerp cocaine gangs sentenced in ‘exceptionally large’ case
-Belgian authorities tighten security at major port which is a key point for drug to enter Europe
-
-## Fifa not ‘selling the World Cup’ in $20bn commercial plan, says adviser
-Greg Maffei defends contentious proposal he helped shape as body’s move to bring in outside investors is hit by backlash
+## Japan’s yen jumps 3% as speculation over intervention swirls
+Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide
 
 ## Saudi economy shrinks as Middle East conflict takes heavy toll
 GDP contracted by 4.8% in second quarter compared with same period in 2025
 
-## Trying to make sense of Warsh
-Abdicating responsibility or fortifying the markets with anti-fragility serum?
+## Declining PCE inflation in June likely to be reversed in July
+Higher energy prices this month will send the inflation gauge back up
 
-## Château Rouge — Amit Chaudhuri’s vivid vignettes of living in Paris
-In a non-linear novel ripe with wit and writerly ambition, profound insights emerge amid evocations of the prosaic
+## Reform UK stands by Farage aide George Cottrell amid financial scrutiny
+Metropolitan Police are investigating donations made by mother of long-term party figure
+
+## US economy grew less than expected at 1.5% rate in second quarter
+Slowdown comes amid continued impact from Middle East war
+
+## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
+Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
 
 ## NYSE owner to buy bond platform MarketAxess in $5.7bn deal
 Acquisition marks significant step by Intercontinental Exchange into fixed-income trading
+
+## Can Vance square his Catholicism with Trump’s Republican Party?
+The vice-president’s new book criticises the hypocrisy of the old religious right
+
+## Situational Awareness offloads large portion of public equity holdings
+The $20bn hedge fund run by Leopold Aschenbrenner suffered steep losses in recent days from tech sell-off
+
+## Hyper-personalisation boom and AI wealth drive up Ferrari profits
+Custom services set to account for as much as 20% of revenue, Italian luxury-car maker says
+
+## BP to cut 700 jobs as it warns on oil ‘oversupply’
+UK oil major says reduction in ‘non-frontline’ roles will result in flatter corporate structure
+
+## Fifa not ‘selling the World Cup’ in $20bn commercial plan, says adviser
+Greg Maffei defends contentious proposal he helped shape as body’s move to bring in outside investors is hit by backlash
 
 ## Has the market lost its mind over AI? You asked, we answered
 Lex head John Foley and tech comment editor Elaine Moore replied to reader questions
@@ -27,41 +42,41 @@ Lex head John Foley and tech comment editor Elaine Moore replied to reader quest
 ## How autonomous are AI agents?
 What the Hugging Face cyber attack and a remote work index can tell us about risk vs reward
 
-## Blue Owl’s private credit fundraising falls to slowest pace in three years
-Demand for data centre investments helped bolster group as redemption requests weigh on credit arm
+## Closing auction for F&O stocks may dent broker revenues, alter end-of-day trading
+Industry expects institutional orders to migrate to the auction window as the new closing mechanism takes effect on August 3
 
-## BAE lifts profit and sales guidance following surge in orders
-UK defence group benefits from higher military spending amid ‘highly volatile’ picture on global threats
+## Dividend windfall, disinvestment receipts give fiscal cushion
+Total collections outpace full-year Budget Estimate of ₹3.19 lakh crore
 
-## KKR profits soar as it cashes in record amount of private equity bets
-Private capital giant weathers turmoil that has curtailed asset sales and fundraising by other players
+## Data Patterns to acquire ST Advanced Composites; net profit down 14% in Q1
+The total order book as on June 30, 2026, stood at ₹928 crore
 
-## Biggest fusion start-up taps institutional investors as it eyes first commercial plant
-No company has yet proved it can build a commercially viable power plant
+## Zepto puts IPO on hold, looks to raise over ₹1,000 crore in pre-IPO funding
+The move comes as Zepto recalibrates its public market strategy amid a gap between its internal valuation expectations and those of prospective public market investors
 
-## Torrent Pharma FYQ1 PAT rises 3.3% as JB integration costs & higher finance charges weigh on earnings
-Revenue from operations surged 55 per cent to ₹4,921 crore
+## Karnataka to see Statewide protests Friday over Cauvery release order to Tamil Nadu
+Karnataka had opposed the CWRC order, citing cumulative inflows into the reservoirs between June 1 and July 27 were 65.86% below the 30-year average
 
-## India’s gold demand falls 6% as volatile prices turn away consumers
-However, demand for gold is still high in value terms, which actually means consumers are buying gold as per their budget, says Sachin Jain, Regional CEO-India, World Gold Council
+## Natural gas’ share in primary energy supply at 7.12% in FY25
+While the share of natural gas in the primary energy mix was 7 per cent in FY24, this share was around 6.7 per cent in FY23.
 
-## Cipla Health's new 'W.H.O. hai toh woh ORS hai' campaign highlights the importance of knowing the correct ORS
-Cipla Health's new 'W.H.O. hai toh woh ORS hai' campaign highlights the importance of knowing the correct ORS
+## TN govt forms expert committee to advise on mitigating El Nino challenges
+The Committee will comprise academicians and researchers and officials from State government agencies
 
-## Chandigarh University's Biotechnology & Pharmacy Students Secure 178 Placements with Leading Pharmaceutical and Biotechnology Companies
-Chandigarh University's Biotechnology & Pharmacy Students Secure 178 Placements with Leading Pharmaceutical and Biotechnology Companies
+## Aarti Industries Delivers Promising Q1 FY27; Reaffirms Long-Term Growth Outlook
+Aarti Industries Delivers Promising Q1 FY27; Reaffirms Long-Term Growth Outlook
 
-## Commodity experts, policymakers to brainstorm at 3-day Global Commodity Conclave in Mumbai from Aug 12
-It will the first-of-its-kind platform designed to accelerate India’s evolution as a price setter
+## US economy slows as GDP growth slips to 1.5%, consumers keep momentum alive
+US economic growth slowed to 1.5% in the second quarter, impacted by a significant rise in imports. Strong consumer spending and business investment provided crucial support for the economy during this period. Inflation continued to ease in June, though it remained above the Federal Reserve's target
 
-## Study moots phased time-bound reduction of import duty on aluminium to zero
-The report says it is undermining their domestic value addition and eroding their manufacturing competitiveness
+## US stock market today: Wall Street flat; Nasdaq climbs over 1.5% as tech stocks rally
+Economic data released on Thursday showed the US economy expanded more slowly than economists had expected during the spring. Inflation remained above the Federal Reserve's target in the latest month, although it came in slightly below market expectations.
 
-## Sundaram Home Finance Q1 net profit up 37% at ₹85 crore
-Disbursements rise 12% to ₹1,665 crore
+## ‘Uncompetitive’: Months after IndiGo flights fiasco, airline MD criticises new pilot duty rules
+IndiGo, which held a 66.3% share of the domestic aviation market in June, came under the regulator's scanner after operational disruptions in December 2025 led to the cancellation of 2,507 flights over three days.
 
-## SEBI indicates its stand may not support petitioners’ claims in Embassy REIT matters; Bombay HC seeks detailed affidavits
-The regulator also indicated that its decision was unlikely to support the relief sought by the petitioner
+## From ayurveda to insurance: Patanjali gets IRDAI nod for Rs 4,500 crore insurance entry
+Patanjali Ayurved is set to enter financial services after IRDAI approved its nearly Rs 4,500 crore acquisition of Magma General Insurance.
 
 ## Fewer jobs, delayed onboarding: Why Indian IT sector is getting tougher for freshers
 Experts say the hiring landscape is becoming increasingly project and demand driven rather than a case where freshers were hired in thousands to increase bench strength. The trend reflects a broader reset in the IT sector.
@@ -75,64 +90,52 @@ India's expanding renewable energy capacity could soon make it an energy exporte
 ## Will AI take your job? Cashiers to doctors, which professions face biggest risk
 Artificial intelligence will automate routine jobs across many industries. Complex tasks requiring human judgment will be supported by generative AI. Financial services and retail trade see high automation risk for basic operations. Healthcare and education will see AI strengthen clinical and learni
 
-## India’s crude oil imports from Russia may touch new record of 3 million barrels per day - here’s why
-If shipping through the Red Sea remains unaffected, Indian refiners will continue to have an important supply cushion through Saudi Arabia's East-West (Yanbu) pipeline, which has recently been supplying around 300,000-500,000 barrels per day (kbd) of crude.
+## CJP's Saurav Das on criticism for abusive slogans: ‘Pursue defamation proceedings against the individuals’
+Saurav Das also urged young protesters to be mindful of the language they use during demonstrations.
 
-## Microsoft Q4 results: Azure tops $100 billion as AI growth helps beat earnings estimates
-Microsoft reported strong cloud revenue growth and increased paid AI users. Azure revenue surpassed one hundred billion dollars for the first time. Microsoft 365 Copilot now has over thirty million paid seats. Investors are observing returns from significant artificial intelligence spending. The com
+## Rajya Sabha debates anti-paper leak bill for tougher jail terms, higher fines, fast-track probes and courts
+Once RS clears it, bill will be sent to President Droupadi Murmu for approval before it becomes law, and thus the 2024 law gets amended
 
-## Samsung Q2 results: Tech giant posts record high $62 billion profit on AI chip boom
-Samsung Electronics achieved its highest-ever quarterly operating profit, fueled by strong AI chip demand. Rival SK Hynix also reported record revenue, reflecting industry strength. However, investor sentiment declined due to expansion plans and Chinese competition. Both companies are investing heav
+## Kedarnath Yatra suspended after landslide blocks trek route near Gaurikund
+Kedarnath Yatra was suspended after a landslide blocked the Gaurikund trek, while heavy rain triggered road closures and fresh IMD alerts across Uttarakhand.
 
-## Asian stocks trade mixed after Fed holds rates; Kospi rallies 4%, Shenzhen slips 300 points
-Asian equities showed signs of stabilizing on Thursday after a turbulent week. Taiwan and South Korea saw gains, while Japan's Nikkei headed for a decline. Oil prices briefly soared due to Middle East tensions before slipping back below $90. The US Federal Reserve kept interest rates unchanged, leav
+## US deported 414 Indian nationals in first three months of 2026: EAM Jaishankar tells Rajya Sabha
+In total, 588 Indians were deported from the US and European countries from the period of January to March, 2026.
 
-## Why must a child say 'sorry mummy-papa', Trinamool MP asks as she tears into Centre over NEET suicides
-“A child has gone because of the failure of this government and the Prime Minister (Narendra Modi) has not said one word on these children," Ghose said.
+## Umar Khalid moves High Court against bail rejection in 2020 North-East Delhi riots case
+Umar Khalid has challenged the July 4 order of the Karkardooma Court, which refused him regular bail.
 
-## Blindness, paralysis, PTSD: Pellets can cause irreversible damage, experts say amid uproar over CJP protest crackdown
-An injured protester may lose vision in his eye, experts say. His family claimed doctors told them the pellets recovered from his injuries were made of metal.
+## BJP asks Suvendu to set up chemical park under new central scheme in Bengal
+West Bengal BJP president Samik Bhattacharya has asked chief minister Suvendu Adhikari to seek a ₹1,500 crore central grant under the BHAVYA Rasayan Scheme for a chemical park in the state
 
-## 16 Indians killed, 75 more injured in West Asia conflict since Feb: Govt
-The government said 12 Indian nationals also lost their lives in Ras Laffan Gas Facility in Qatar in a separate accident not related to the West Asia conflict
+## Insurer not liable to pay compensation for accidents if driver's licence invalid, says SC
+The top court said that an insurance company could not be saddled with the liability if the offending vehicle was driven without a valid driving licence.
 
-## Open letter slams Priyanka Gandhi's ‘gaumutra expert’ remark for IIT Madras director: ‘Among top tech brains of India’
-Priyanka Gandhi's remark for the IIT-M director came as Kamakoti has claimed in the past that cow urine “has anti-bacterial and anti-fungal properties”.
+## Better ride quality, lower fuel average: Nitin Gadkari to Parliament on how E20 petrol affects vehicles
+Opposition parties and some consumer groups have criticised the rollout of E20 fuel, alleging that it can cause engine damage.
 
-## PM Modi has not resigned, PIB fact-checks 'letter' going viral in his name
-The letter was shared by several users on social media platforms, with claims that Modi had quit as prime minister.
-
-## Delhi govt closes NEET protest cases with caveat: No protection for those with criminal antecedents
-The Delhi government announced it will cease legal actions against NEET protest participants, barring those with criminal backgrounds.
-
-## India-Japan action plan targets exchange of 5 00,000 personnel: Govt tells RS
-The action plan is part of the Joint Vision for the Next Decade adopted at the India-Japan annual summit held in Tokyo last year, Singh said
-
-## Opposition slams saffron hockey jersey, says Army uniform could be next
-The unveiling of a saffron jersey for Indian hockey teams has sparked backlash from the Opposition, who accuse the BJP and RSS of ideological manipulation.
-
-## Saif Ali Khan recalls how Agent Vinod failed despite a ‘vast budget’: ‘I could’ve made anything’
+## Priyanka Gandhi’s ‘gaumutra expert’ jibe draws ire of over 200 academicians: ‘Mockery not a substitute’
 
 
-## Amid air quality concerns, PMC plans survey on health risks of rising PM2.5 levels
+## Indian Railways to allow online booking of personal luggage on confirmed train tickets from July 31
 
 
-## From walking with crutches to leaping to silver: Sreeshankar Murali’s comeback
+## Husband withdraws IVF consent, woman fights for motherhood in Karnataka High Court
 
 
-## Kavin and Monicka welcome twins, actor announces news in a warm note
+## When severe back pain threatened Mohanlal’s career, Osho and KJ Yesudas helped him heal
 
 
-## AP EAMCET 2026 Counselling: Phase 1 revised schedule out at cap.apcfss.in; registrations extended till August 1
+## ‘Not even our grandfathers saw this’: Upper Assam reels as floods wash away entire villages
 
 
-## A missing husband, an Australia story, and a body beneath a factory
+## UPSC Essentials | Daily subject-wise quiz : Economy MCQs on deflationary phase of Indian tea market, Effective Exchange Rate and more (Week 173)
 
 
-## Chandigarh to revamp parking lot management, may rope in market bodies
+## Nasir Nagar demolition | ‘Model state image at stake’: Gujarat HC asks why Surat civic chief remains in post
 
 
-## Children can’t fall in non-creamy OBC layer if parents’ income in excess: Kerala High Court
+## ‘Western format’: Mamta Kulkarni breaks silence on Mahira Sharma’s Ranaji 2.0
 
 
 ## Hongkong Land acquires Singapore’s Wheelock Place in US$900m deal
@@ -159,6 +162,9 @@ Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial 
 ## BYD to debut first humanoid robots in August as rivalry with Tesla intensifies
 Electric vehicle giant BYD plans to unveil its first humanoid robots within the next few weeks, as China’s electric car makers accelerate their push into the embodied artificial intelligence market. The Shenzhen-based company told the South China Morning Post in a statement that its long-anticipated
 
+## Trump Has Weakened America’s Sanctions Weapon
+The administration’s inconsistency has undermined a key tool of U.S. foreign policy.
+
 ## The OpenAI Hack Shows the Genie Is Out of the Bottle
 Attempts at control are futile. Policy should now turn to defense.
 
@@ -179,9 +185,6 @@ India’s youth-led protest movement led to a rare instance of the government gi
 
 ## The Paradox of Self-Reliance
 Building an independent defense industry does not mean going it alone.
-
-## Coming to Terms With Middle-Power Populism
-How to build a world order with leaders who prefer Trump to Carney.
 
 ## Why a Bangladesh-India Deal Over the Teesta’s Waters is Imperative
 China can help Dhaka dredge the riverbed, but it cannot fill the Teesta river if upstream flows into Bangladesh remain low.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Detained Ugandan opposition leader Besigye in intensive care, wife says
-Kizza Besigye, who faces treason charges, is reported to be 'unconscious' in hospital after collapsing in court.
+## Is Pakistan ‘using India’s playbook’ in Kashmir?
+Pakistan is facing accusations that its forces have killed unarmed protesters in Pakistan-administered Kashmir
 
-## England appoint Root and Fleming as Test cricket captain and coach
-England confirm Joe Root to return as Test captain, while Stephen Fleming replaces Brendon McCullum as coach.
+## Smoke rises over southern Iran after renewed US attacks
+A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.
 
-## How does a safe zone in Lebanon become a target three times?
-Three times in three decades, Qana's shelters were bombed. AJLabs tracks a village the Israeli military keeps hitting.
+## War on Iran: Phase II: Day 19
+The US resumes bombing Iran, with a family of three killed in Qeshm Island.
 
-## Israeli strikes kill at least four, including children, across Gaza Strip
-Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.
+## Police arrest dozens at London rally supporting Palestine Action
+The protest is the first in support of the proscribed group since Andy Burnham became prime minister.
 
-## AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’
-Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport's continental structure.
+## El Salvador sentences gang members to 1,000 years in prison
+El Salvador sentences gang members to 1,000 years in prison
 
-## Israeli raids and settler attacks intensify across the occupied West Bank
-Israeli raids and settler attacks intensify across the occupied West Bank
+## ‘Go back to your own country’: NZ foreign minister faces backlash
+New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.
 
-## Attack on northwest Pakistan police post kills 11 officers
-Fifteen attackers were also killed during the hours-long raid in Pakistan's northwestern Hangu district.
+## Islamabad residents rally in solidarity with Kashmir protests
+A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.
 
-## Several children killed and wounded in Israeli attacks across Gaza
-Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.
+## Sudan’s RSF vows to return to Khartoum
+Sudan’s RSF released a video of leader Mohamed Hamdan Dagalo, known as Hemedti, telling his forces to seize Khartoum.
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
