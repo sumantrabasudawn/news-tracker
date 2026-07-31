@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## Amazon increases AI infrastructure spending to $220bn this year
-Seattle-based group had in April expected to spend $200bn in 2026
+## Apple forecasts slower growth as AI build-out strains tech supply chains
+CEO Tim Cook says impact of memory prices is set to worsen as he steps down
+
+## Rolls-Royce raises 2026 targets after profits beat expectations
+Strong demand for UK aero-engine group’s civil and military engines boosts earnings
 
 ## Japan’s yen jumps 3% as speculation over intervention swirls
 Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide
+
+## Amazon increases AI infrastructure spending to $220bn this year
+Seattle-based group had in April expected to spend $200bn in 2026
 
 ## Spain’s migrant crisis triggers Italian call for EU travel restrictions
 Mass arrivals in North African enclave of Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez
@@ -12,17 +18,11 @@ Mass arrivals in North African enclave of Ceuta heap further pressure on embattl
 ## Labour readmits veteran MP Diane Abbott after disciplinary process
 Scottish MP Joani Reid also returns to party just a fortnight into Andy Burnham’s new premiership
 
-## Apple forecasts slower growth as AI build-out strains tech supply chains
-Smartphone revenue rose more than a fifth as rivals struggle
-
 ## Burnham to give mayors share of income tax from 2028
 New prime minister accelerates former chancellor Rachel Reeves’ efforts to move power away from Westminster
 
 ## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
 Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
-
-## Saudi Arabia announces maritime defence coalition as Houthi attacks threaten Red Sea route
-Fourteen countries, including Pakistan, Turkey, Egypt and Sudan, vow to protect shipping and energy supplies
 
 ## Skirts and sandwiches fail to excite cautious IPO investors
 Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures
@@ -36,8 +36,8 @@ Meta is working on a plethora of products outside its comfort zone — and the s
 ## Citadel buys Situational Awareness equity holdings after steep AI losses
 Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors
 
-## China is not the solution to the US chipflation problem
-Buying memory chips from companies like CXMT could lower costs but risks dependence
+## Maharashtra FDA drive: Hotel industry calls for consultative approach on food safety
+Hospitality industry bodies backed stronger food safety checks while urging regulators to prioritise corrective measures before punitive action against establishments.
 
 ## 2 months of monsoon, yet over 50% of Indian key reservoirs are half-empty
 The level in major reservoirs improved further this week to 44% of the 183.565 billion cubic metres capacity
@@ -60,32 +60,29 @@ The NBFC logged a 28% y-o-y growth in consolidated net profit at ₹6,081 crore 
 ## Buffalo meat, non-basmati rice lift India’s Q1 agri produce exports
 Shipments rise 14% to $7.64 billion; Basmati rice shipments decline on reduced offtake
 
-## Vedanta net up 72% in Q1 on better realisation
-Vedanta’s demerger was unlocking significant shareholder value, with combined market cap of resulting companies growing by over ₹71,000 crore in the first quarter, added Ajay Goel, Group CFO, Vedanta.
+## Mileage drop due to E20? 2-6%, says 1 minister, 3-5%, says another
+Government ministries have offered varied figures regarding fuel efficiency changes. Older vehicles using E20 fuel may see a slight mileage reduction. The Road Transport Ministry cited a 2-6% potential decrease in efficiency. The Petroleum Ministry indicated a general reduction of about 3-5%. Both m
 
-## Transponders switched off: How tankers with Saudi oil for India are exiting Red Sea by going ‘dark’
-Following the Houthi attacks on several Saudi tankers, Indian refiners have increasingly opted to purchase Middle Eastern crude on a delivered basis.
+## AI labs proving why IT companies still matter: Infosys CEO Salil Parekh
+Salil Parekh led Infosys to double revenue and secure significant large deals. He focused on disciplined execution and a stable company culture. Infosys sees AI services as a substantial long-term growth opportunity. The company's strong client relationships provide a natural advantage. Internal lea
 
-## E20 petrol debate: Govt debunks 7 claims on ethanol blended fuel - impact on mileage, engines & more
-Road Transport and Highways Minister Nitin Gadkari has said that petrol blended with 20% ethanol (E20) may lower fuel efficiency by 2-6%, depending on the type and age of the vehicle.
+## Formal retail credit access doubles over past decade
+Formal retail credit penetration in India more than doubled over the past decade. Consumption-led lending, including personal loans, drove this significant growth. Credit access expanded to younger borrowers and women across India. Northern and central states saw increased credit activity, while wes
 
-## US economy slows as GDP growth slips to 1.5%, consumers keep momentum alive
-US economic growth slowed to 1.5% in the second quarter, impacted by a significant rise in imports. Strong consumer spending and business investment provided crucial support for the economy during this period. Inflation continued to ease in June, though it remained above the Federal Reserve's target
+## NSE settles pending Sebi cases for nearly Rs 1,500 crore
+The National Stock Exchange has settled past regulatory lapses with Sebi for Rs 1,491 crore. This settlement resolves issues related to co-location and dark-fibre cases involving former officials. Sebi has accepted revised settlement terms, demanding an additional payment from the exchange. The NSE 
 
-## US stock market today: Wall Street flat; Nasdaq climbs over 1.5% as tech stocks rally
-Economic data released on Thursday showed the US economy expanded more slowly than economists had expected during the spring. Inflation remained above the Federal Reserve's target in the latest month, although it came in slightly below market expectations.
+## Zepto delays listing, looks to raise Rs 1,000 crore in funding
+Zepto is seeking Rs 1,000 crore in pre-IPO funding, delaying its public listing plans. The quick commerce startup is targeting a valuation of $4-4.5 billion for this investment round. This valuation is over 30% lower than its previous $7 billion valuation. Zepto aims to close this funding round with
 
-## ‘Uncompetitive’: Months after IndiGo flights fiasco, airline MD criticises new pilot duty rules
-IndiGo, which held a 66.3% share of the domestic aviation market in June, came under the regulator's scanner after operational disruptions in December 2025 led to the cancellation of 2,507 flights over three days.
+## NTT Data Payments to take UPI global
+NTT Data Payment Services is developing a hub-based architecture for cross-border retail payments. This strategy aims to connect India's UPI with other Asian fast payment systems. The company's Adaptis brand unifies its digital payment suite across various markets. This new model moves away from slo
 
-## From ayurveda to insurance: Patanjali gets IRDAI nod for Rs 4,500 crore insurance entry
-Patanjali Ayurved is set to enter financial services after IRDAI approved its nearly Rs 4,500 crore acquisition of Magma General Insurance.
+## Tata Steel ends 25-year joint-venture with German company Martrade
+Tata Steel is acquiring Martrade's stake in their joint shipping venture for Rs 335 crore. This move ends a twenty-five-year partnership with the German logistics group. The company also committed Rs 33,873 crore for capacity expansion at Neelachal Ispat Nigam. This expansion will bolster its long p
 
-## Fewer jobs, delayed onboarding: Why Indian IT sector is getting tougher for freshers
-Experts say the hiring landscape is becoming increasingly project and demand driven rather than a case where freshers were hired in thousands to increase bench strength. The trend reflects a broader reset in the IT sector.
-
-## India's renewable energy boom could make Germany a customer for green hydrogen
-India's expanding renewable energy capacity could soon make it an energy exporter. Germany's ambassador sees potential for India to export green hydrogen in coming years. Renewable energy is a strong pillar of India-Germany economic cooperation. Artificial intelligence and a proposed EU Free Trade A
+## Flipkart, Amazon mount fee war as race heats up
+Amazon and Flipkart are reducing seller fees to attract more businesses. This strategy aims to boost sales volumes in smaller Indian cities and towns. Lower costs for sellers translate into more affordable products for consumers. The e-commerce giants are focusing on onboarding local sellers from ti
 
 ## Gudiya rape-murder: Constable, key witness in custodial death case, suspended; family alleges harassment Family of Gudiya case witness alleges police harassment, seeks government intervention
 Gudiya rape-murder: Constable, key witness in custodial death case, suspended; family alleges harassment Family of Gudiya case witness alleges police harassment, seeks government intervention
@@ -111,29 +108,35 @@ According to the ASDMA's daily flood report, more than 2,12,400 people remained 
 ## We want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt decision
 “Delhi govt released notification that all the FIRs will not be pursued further and they may be treated as closed. We are not very happy with the term.”
 
-## Delhi Confidential: Tharoor’s Mango Party For All
+## On Vande Mataram, a law in search of a crime
 
 
-## ISRO’s NavIC system can no longer provide navigation data independently: Govt
+## Jet lag and blood sugar: How long-haul travel affect glucose levels
 
 
-## ISRO & Japanese scientists review mission Chandrayaan-5 preparation
+## Supreme Court balances ecology and public interest. Centre must pay heed
 
 
-## Minister in RS: Potential conflict of interest in RDI Fund disbursement
+## Nirmal Purja among 10 climbers feared missing after avalanche on Pakistan’s Broad Peak
 
 
-## Government to House panel: Sheikh Hasina not allowed to conduct political activities from India
+## Long after these UP mafia dons were killed, their wives remain absconding
 
 
-## Modi reviews safety of seafarers, supply chain constraints in extended CCS meet
+## Fudged records to pay party faithful: CAG flags anomalies in Cyclone Amphan relief under TMC
 
 
-## Seema Kaliramna, PhD and mother of 3-year-old, wins CWG 2026 discus bronze
+## Kanwar Yatra: Chief Secretary, DGP review arrangements, security
 
 
-## Figuratively, Dubai 15th district of Kerala, says Brittas as JDU MP alleges ‘foreign role’ in Jantar Mantar stir
+## Amid Opposition protests, House clears Bill criminalising insult to Vande Mataram
 
+
+## Beyond the Pitch: How IdeaPOP! Is Teaching Students to Build Social Innovation That Works
+[The content of this article has been produced by our advertising partner.] When the SEED Foundation began reviewing applications for IdeaPOP! 2026, a pattern emerged almost immediately. Across more than a hundred submissions from Hong Kong secondary school students, artificial intelligence featured
+
+## Foreign buying of US homes falls 14% as Chinese remain top spenders despite state curbs
+Foreign purchases of US homes fell to their second-lowest level on record between April last year and March, although Chinese buyers remained the largest spenders as they bought higher-priced properties primarily in California, a new report found. Chinese buyers, last year’s top group, fell to third
 
 ## Hong Kong home price rally set to cool after strongest first half in 7 years: analysts
 The rally in Hong Kong’s housing market is expected to slow in the coming months, after a stellar first half of the year that saw home prices post their strongest gains for the period in seven years. Despite the market’s strong recent recovery, analysts warned that weaker stock-market sentiment and 
@@ -152,12 +155,6 @@ The three independent spin-offs of Chinese fintech giant Ant Group are accelerat
 
 ## Chinese motorcycle exports roar to record highs amid tech gains, upmarket push
 Chinese motorcycle exports hit a record in the first half of the year as domestic manufacturers, armed with their own technology gains, targeted upmarket segments long dominated by Honda, Yamaha and BMW. Exports reached 26.2 million units worth US$11.28 billion, rising 23.2 per cent in volume and 26
-
-## Hong Kong regulators freeze US$15.9 million linked to suspected IPO fraud
-Hong Kong’s securities regulator has frozen more than HK$125 million (US$15.9 million) in assets linked to a suspected market manipulation scheme, as authorities tighten oversight of the city’s booming IPO market. The Securities and Futures Commission (SFC) said on Thursday that it had issued a rest
-
-## US-listed Chinese stocks benefit as Fed policy haze drives rotation amid AI slump
-Chinese stocks trading overseas may emerge as a shelter for global investors, as confusion over the Federal Reserve’s monetary path drives diversification away from US equities and bonds amid a stumbling artificial intelligence trade. The Nasdaq Golden Dragon China Index of the biggest Chinese compa
 
 ## Is the U.S.-Iran War Expanding?
 Violence is escalating, but it also follows familiar trends.
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US Escalation with Iran is ‘pointless’, warns former US diplomat
+As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.
+
+## Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually
+Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.
+
+## Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza
+US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.
+
+## UK left-wing MP Diane Abbott reinstated by Labour Party after suspension
+Diane Abbott returns to Labour, a year after her suspension over comments about racism.
+
+## Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final
+Sri Lanka's Rumesh Pathirage is favourite ahead of rivalry between India's Neeraj Chopra and Pakistan's Arshad Nadeem.
+
+## US appeals court rejects Trump expansion of mandatory migrant detention
+Appeals court rules that the Trump administration cannot deny detained migrants the chance for release on bond.
+
+## Trump administration appeals to never-before-used court for deportation
+US government prosecutors are seeking the removal of Nazira Haji Zada, though she faces no criminal charges.
+
 ## Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza
-This is a breaking news story.
-
-## Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis
-Zoox will launch its commercial robotaxi service in Las Vegas after receiving federal clearance.
-
-## Why is US GDP growth slowing, and how can it be reversed?
-Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.
-
-## French teen fined in Singapore over ‘straw licking’ stunt
-A French teenager has been fined about $465 after pleading guilty to a public nuisance charge in Singapore.
-
-## Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country
-Experts have cast doubt on legality of the emergency decree as Milei decries a campaign of 'hostility' after World Cup.
-
-## Will Saudi Arabia be dragged further into the war in Iran?
-Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.
-
-## Prague Zoo keeps polar bears cool with ice amid heatwave
-Keepers at Prague Zoo used tonnes of ice to provide much relief to animals as Europe grappled with scorching heat.
-
-## UN launches hunt for next chief amid rising challenges
-Antonio Guterres’s successor will be tasked with revitalising an organisation in crisis and facing pressure to reform.
+US president says Israel will withdraw from Gaza following the disarmament of Hamas.
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
