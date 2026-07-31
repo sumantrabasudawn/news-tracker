@@ -1,73 +1,79 @@
 # AION Intelligence
 
-## Europe braces for wave of wildfires as prospects rise for ‘overload’
-Greece, Italy and parts of central Europe are the most vulnerable in coming weeks, officials warn
+## Europe’s long hot summer
+Wildfires show climate change adaptation needs to move up the agenda alongside mitigation
 
-## US Treasury warns banks it may intervene in yen
-Move comes amid speculation Tokyo intervened to support the currency
+## Israel’s far right urges Netanyahu to reject Trump’s Gaza plan
+Prime Minister has not commented on the US president’s claim that Hamas has agreed to disarm
 
-## Brazilian police launch graft probe into President Lula’s son
-Supreme Court authorises investigation into Fábio Luís Lula da Silva months before presidential election
+## Healey to deliver Budget on October 28
+Chancellor says he will stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’
 
-## Rhine drought strands ships and forces German production shutdowns
-Water level of crucial trade river has fallen to match 2018 record low after extreme heatwaves
+## Eurozone inflation rises to 2.9% in July
+Energy shock will keep ECB on alert ahead of September rate decision
 
 ## Spanish prime minister condemns influx of 60,000 migrants
-Record daily influx into Spanish enclave of Ceuta on north African coast dwarfs peak of Europe’s 2015 migration crisis
-
-## Fifa stake sale could work — but not at this price
-Commercialisation does not always mean corruption
+Mass arrival at enclave of Ceuta is ‘violation of . . . territorial integrity’, says Pedro Sánchez
 
 ## South Korean stock market soars 18% as investors pile back into AI
 Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally
 
+## Abu Dhabi abandons bid to build global oil benchmark
+Adnoc returns to pricing its crude against the Dubai benchmark after Iran war exposes problems with Murban futures
+
+## I helped bring in US bank stress tests. Now it is time to drop them
+The time-consuming ritual risks misleading the public about the true health of the financial system
+
+## NXP in talks to buy $3.3bn designer of camera chips for self-driving cars
+Deal would land amid consolidation wave sweeping semiconductors as they position for AI revolution
+
+## Google Earth AI tool raises fears over spread of fake satellite images
+Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents
+
+## Rhine drought strands ships and forces German production cuts
+Water level of crucial trade river has fallen to match 2018 record low after extreme heatwaves
+
+## Fifa stake sale could work — but not at this price
+Commercialisation does not always mean corruption
+
 ## Apple shares tumble as AI build-out hits supply chains and growth
 Chief executive Tim Cook says impact of memory prices is set to worsen as he steps down
 
-## Amazon increases AI infrastructure spending to $220bn this year
-Seattle-based group had in April expected to spend $200bn in 2026
-
-## US nuclear reactor company Westinghouse files for IPO
-Brookfield-owned company plots listing nine years after cost overruns forced it into bankruptcy protection
-
-## Markets are getting AI right
-Recent volatility reflects economic reality
-
-## Novo Nordisk shares drop 10% after cardiovascular drug trial disappoints
-Danish drugmaker has been trying to diversify beyond its blockbuster obesity treatments Wegovy and Ozempic
-
-## India seen as hedge against AI bubble, says Bay Capital white paper
-The India-focused fund manager says foreign portfolio investors will return to Indian equities once sentiment around AI normalises
-
-## Sun Pharma on track to complete Organon transaction by Q4, says management
-Drug major posts 27 per cent growth in Q1 net profit at ₹2,894 crore
-
-## Letters to Editor
-
-
-## India monitoring US Bill proposing 100% tariffs on Russian energy buyers: MEA
-In touch with relevant stakeholders in Washington on the matter
-
-## Q1 Results Today Live: Bajaj Finserv, Sun Pharma, GAIL, Dixon Tech, Aether Q1 profit rise, Urban Company logs Q1 loss, Maruti Suzuki, ITC, IOC Q1 profit down, Glenmark to announce Q1 results
-Q1 Results Today, 31st July 2026 Live Updates: Stay tuned for more from businessline
-
-## AI lifts Q1 global trade despite West Asia conflict: WTO
-WTO warns Strait of Hormuz disruptions will become evident from April data
-
-## Indian Oil posts first quarterly loss in 15 on crude price surge
-IOC recorded a standalone net loss of ₹2,661 crore for the quarter ‌ended June 30, against a profit of ₹5,689 crore a year ‌ago
+## IndiGo to end wide-body flights, London service from October-end
+The airline took the decision due to the challenging operating environment triggered by the ongoing geopolitical tensions
 
 ## Pro-Kannada organisations call for statewide bandh on August 13 over Cauvery water release to Tamil Nadu
 Shivakumar has also postponed his planned August 3 meeting with Tamil Nadu Chief Minister Joseph Vijay on the issue, saying legal matters should be resolved before the two parties meet.
+
+## Honda emerges as largest two-wheeler retailer; ends Hero’s six-month run
+Honda Motorcycle & Scooter India overtakes Hero MotoCorp in July as industry registrations rise 22.3% year-on-year despite a seasonal moderation from June
+
+## TN’s new Revenue Augmentation Committee holds first meeting in virtual mode to discuss terms and steps ahead
+The panel will be supported by a research team from the Tax Policy Research Unit and the Financial Data Analytics Unit of the Finance Dept
+
+## FarEye features in Gartner Market Guide
+The inclusion marks FarEye’s 12th overall Gartner recognition
+
+## Aadhar Housing Finance logs 19% increase in Q1FY26 net profit at ₹282 cr
+Assets Under Management increased 18% YoY to stand at ₹31,364 crore as at June-end 2026
+
+## Rainbow Hospitals expanding its operations to Mumbai, inks pact with Fountainhead TCHM Healthcare
+The hospital is expected to commence operations in Q1 FY28, subject to receipt of necessary approvals and completion of development activities.
+
+## Cabinet approved expanded Khelo India scheme
+Khelo India was launched in 2017 and has been receiving the lion’s share of allocation from the union sports budget annually
+
+## India to get plastic notes soon: Why the move is important - explained
+RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
+
+## Tough road for Trump: Why sanctions Bill for tariffs on Russian oil buyers may fail House test
+Lawmakers from both parties, along with industry trade groups, have raised concerns over a section of the legislation that would allow Trump to impose hefty tariffs on countries that buy significant volumes of Russian oil and gas.
 
 ## US stock market today: Nasdaq rises as Amazon rallies strongly
 Amazon joined other Big Tech firms in reporting robust cloud business growth, easing investor concerns over returns from heavy artificial intelligence spending.
 
 ## ITR deadline on July 31, 2026: Top things NRIs should keep in mind when filing tax return
 The return filing process and mandatory return filing requirement for NRIs is broadly similar to that of resident taxpayers, as returns are filed through the same Income Tax e-Filing portal using the applicable ITR form.
-
-## India to get plastic notes soon: Why the move is important - explained
-RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
 
 ## ‘Samudra Manthan’: Cabinet approves Rs 84,084 cr scheme for oil & gas exploration - top things to know
 The scheme will be implemented through FY2030-31 with an aim to harness India's vast offshore energy resources - in what the government has termed as a modern day Samudra Manthan.
@@ -81,56 +87,29 @@ The scheme has been approved for a period of 5 years. It will support up to Rs 1
 ## Gold futures drop to Rs 1,44,022 per 10g on weak spot demand
 
 
-## After made-in-India bullet train, new high-speed corridors to get indigenous signalling system
-Indian Railways is developing an indigenous signalling protocol for high-speed rail called the Bharat Train Control System (BTCS). The system is being designed specifically for Indian operating conditions.
+## 21-year-old dies after ambulance oxygen runs out in MP; probe ordered
+Ajit Baraiya, a resident of Sunhara Mal village, died on July 27 while being transferred from Bamhani Hospital to Mandla with oxygen support
 
-## Why Karnataka-Tamil Nadu Cauvery dispute keeps recurring — a river that has changed, a framework that hasn't
-The 2018 division formula was built on the assumption that the river carried 740 tmcft water in a typical year. The problem is that water levels keep moving.
+## 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR against woman over anti-Modi remarks
+Abhijeet Dipke claimed that if abusive language alone were the basis for criminal prosecution, BJP leaders would face the highest number of cases.
 
-## India’s dual-use exports comply with international obligations: MEA
-India said its exports of dual-use items follow national laws and international obligations, responding to Amnesty International’s report on Israel.
+## 'My friend, they may pull you down from power': Actor Prakash Raj mocks PM, warns against 'witch-hunting' students
+Prakash Raj said that when children use abusive language towards elders, they are warned against it and are not subjected to criminal cases.
 
-## Air Marshal Sandeep Thareja to take over as Armed Forces Medical Services chief
-Air Marshal Sandeep Thareja will take over as the Director General Armed Forces Medical Services (DGAFMS) — India’s senior-most military doctor — on August 31
+## PM Modi, UK PM Andy Burnham discuss trade deal, West Asia crisis
+PM Modi and UK PM Andy Burnham discussed the India-UK trade deal, technology, defence cooperation and joint efforts for West Asia de-escalation.
 
-## Centre plans 3-day Jan Sunwai drive to boost welfare delivery in tribal areas ahead of Independence Day
-According to the ministry, the Jan Sunwai should be conducted at every operational ASK between August 13 and 15.
+## 70% water samples near abandoned Union Carbide factory in Bhopal found contaminated
+Bhopal gas survivors’ groups claimed 70% of drinking water samples near the abandoned Union Carbide factory tested positive for faecal coliform contamination.
 
-## CBI arrests 2 BJP workers for murder of Suvendu Adhikari’s PA Chandranath Rath
-The two brothers were arrested on charges that they planned the murder, starting from arranging the shooters, providing logistics and even helping them conduct the recce
+## Assam govt invokes NSA against activist who opposed Kaziranga hotel project
+Pranab Doley was arrested on July 12 after he carried out protests at Ingle Pathar, a village located near Kaziranga National Park and Tiger Reserve
 
-## MP govt clears plot near Bhojshala for Friday prayers after Supreme Court order
-The Muslim community offered Friday prayers near Dhar’s Bhojshala after a two-week gap on land allocated by the administration following SC directions.
+## 1 dead, another injured in terror attack in J&K's Kulgam
+The attack took place at a brick kiln in the Kelam area, where the assailants targeted the workers.
 
-## Four men die while cleaning water tank in Assam’s Cachar: Police
-Assam police detained a property owner after four people died while cleaning an underground water tank at an under-construction house in Cachar.
-
-## PM Modi, UK PM Andy Burnham vow to take India-UK ties to 'new heights
-In a social media post, Modi said he congratulated Burnham on assuming the charge of the top office and conveyed his best wishes for a successful tenure.
-
-## Bihar STF constable arrested as probe intensifies into Bharat Tiwari’s death
-
-
-## From London to local: How Andy Burnham’s ‘Manchesterism’ could transfer power away from Westminster’s corridors
-
-
-## Jaishankar asks Iran to avoid attacks on ships, conveys ‘deep concern’
-
-
-## UPSC Key: Chief Election Commissioner, Arctic Council and Guru Ravidas
-
-
-## Emily Campbell: From Celebrity MasterChef to top of weightlifting podium
-
-
-## Why Europe’s summer of reckoning has just begun
-
-
-## Bond disappointment: Bloomberg defers India’s inclusion into global index again
-
-
-## What’s happening in Spain? 41 dead as up to 60,000 migrants storm Ceuta border from Morocco
-
+## India again denounces Pakistan’s crackdown in PoJK, urges global action
+New Delhi has criticised Islamabad’s actions in PoJK several times over the past few weeks as the region has witnessed widespread violence that has left more than 40 people dead since June
 
 ## Hang Lung profit falls as property losses and weak offices offset record mall rents
 Hong Kong developer Hang Lung Properties’ underlying profit fell in the first half as losses from property sales, higher finance costs and a weak mainland China office market offset record rental income from its shopping malls. Underlying net profit declined 10 per cent from a year earlier to HK$1.4
@@ -156,6 +135,9 @@ China’s cross-border payment system is reshaping how Mongolian banks move mone
 ## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
 RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
+## Africa’s Financial Third Way
+As Western aid retreats and Chinese investment shifts, the continent needs a model that is truly its own.
+
 ## Trump’s Pacific Islands Blind Spot
 Washington is losing influence to Beijing in a strategic region.
 
@@ -176,9 +158,6 @@ India’s prime minister is famous for his savvy use of social media. Now he’s
 
 ## Lindsey Graham’s Parting Gift to Ukraine
 The late senator’s long-stalled Russia sanctions bill is on its way to becoming law.
-
-## Zaidi’s Militia Dilemma
-Iraq’s new prime minister faces a familiar challenge in confronting Iran-backed groups.
 
 ## Why the Bangsamoro Peace Process Still Depends on Trust
 Elections set for September 14 will mark an important step forward, but the peace process will continue for long after the ballots have been counted.
@@ -252,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## DR Congo Ebola epidemic becomes world’s second largest outbreak
+Officials declare the outbreak the fastest spreading ever, warning the world to 'pay much more attention'.
+
+## Three-year roadmap proposed for Hamas disarmament in Gaza
+Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza's political transition
+
+## LIVE: Chopra, Nadeem and Pathirage meet in Commonwealth Games javelin final
+Follow live text updates and commentary stream coverage as India's Neeraj Chopra and Pakistan's Arshad Nadeem face-off.
+
+## Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’
+Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation."
+
+## Tunisian wildfires expose failing infrastructure, community vulnerabilities
+For families in Tunisia's north, the wildfires have meant lost homes, livestock and harvests.
+
+## The promise I made to Ismail al-Ghoul
+He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.
+
+## World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition
+FIFA's World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.
+
 ## Police chief resigns days after deadly shooting in US city of Seattle
 Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.
-
-## Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction
-Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.
-
-## Russia and Ukraine report casualties as they continue to trade attacks
-Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.
-
-## Turkiye’s Davutoglu steps back from politics: A timeline of his career
-Ahmet Davutoglu, a former Turkish PM and Erdogan ally-turned-critic, has stepped down from politics.
-
-## Spain deploys military to Ceuta after migrant surge: What we know
-At least 34 people reported killed trying to cross into the Spanish enclave bordering Morocco.
-
-## Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard
-Reports emerge from the front that Russia has infiltrated most of Kostiantynivka as it tries to regain the offensive.
-
-## Why is UEFA threatening FIFA boycott? Infantino’s World Cup plan explained
-Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino's private investment plan.
-
-## Palestinians in Gaza react to latest ceasefire deal
-‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
