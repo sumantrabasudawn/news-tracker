@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Google Earth AI tool pulled after spate of fake satellite images
+Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents
+
+## How 60,000 people swam to Spanish territory
+Migrants prepared days in advance to reach Ceuta’s beach
+
+## KKR nears deal to buy medical device maker Integer for more than $4bn
+Healthcare company was recently targeted by an activist hedge fund established by an Elliott Management alumnus
+
 ## Healey looks for fiscal buffer in October’s UK Budget
 Chancellor to stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’
 
@@ -15,29 +24,17 @@ Mass arrival at enclave of Ceuta is ‘violation of . . . territorial integrity�
 ## NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars
 Deal would land amid consolidation wave sweeping semiconductors as they position for AI revolution
 
-## Warsh goes blank
-The new Fed chair’s ‘less is more’ communications policy came under fire this week
+## Directors’ Deals: M&S directors cash out as shares climb
+Retailer seems to have shrugged off effects of cyber attack
 
 ## Stockpickers: Restore, Rio Tinto, Unite Group
 Our experts discuss which companies to buy, sell or hold this week
-
-## Europe’s long hot summer
-Wildfires show climate change adaptation needs to move up the agenda alongside mitigation
-
-## Directors’ Deals: M&S directors cash out as shares climb
-Retailer seems to have shrugged off effects of cyber attack
 
 ## South Korean stock market soars 18% as investors pile back into AI
 Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally
 
 ## Abu Dhabi abandons bid to build global oil benchmark
 Adnoc returns to pricing its crude against the Dubai benchmark after Iran war exposes problems with Murban futures
-
-## Google Earth AI tool raises fears over spread of fake satellite images
-Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents
-
-## I helped bring in US bank stress tests. Now it is time to drop them
-The time-consuming ritual risks misleading the public about the true health of the financial system
 
 ## Modi in new video: I and my late mother were abused at Jantar Mantar, but I forgive these children
 The Prime Minister urged compassion, saying young protesters should be counselled and encouraged to learn instead of facing legal action
@@ -135,6 +132,15 @@ China’s cross-border payment system is reshaping how Mongolian banks move mone
 ## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
 RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
+## Trump’s Biggest Challenge to American Democracy
+The corruption crisis may be the most important source of rot in the U.S. system.
+
+## What Homer’s ‘Odyssey’ Tells Us About the Economics of the Bronze Age
+The epic poem describes events around the sacking of Troy.
+
+## The Book That Predicted Pete Hegseth’s Failures
+‘On the Psychology of Military Incompetence’ examines the narrow minds of petty men.
+
 ## The Dreams of ‘Star Trek’ Aren’t Dead
 Space utopianism belongs to everyone, not billionaires.
 
@@ -149,15 +155,6 @@ Test yourself on the week of July 25: India’s Cockroach movement gets a win, B
 
 ## Africa’s Financial Third Way
 As Western aid retreats and Chinese investment shifts, the continent needs a model that is truly its own.
-
-## Trump’s Pacific Islands Blind Spot
-Washington is losing influence to Beijing in a strategic region.
-
-## U.S. Boat Strike Campaign Is Shrouded in Secrecy
-The Trump administration has shared few details and little evidence.
-
-## Germany Is Much More Socially Conservative Than You Think
-What a recent scandal reveals about the country’s political culture.
 
 ## Safeguarding Children Online: Beyond Singapore’s Social Media Ban Debate
 Singapore might consider championing a roadmap of “supported autonomy.”
@@ -231,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Strategic partner’: Peru’s Fujimori plans to intensify ties with the US
+Peru's newly inaugurated president indicates her government will join Trump's Shield of the Americas coalition.
+
+## Poland protests to Russian ambassador over missile incursion
+Warsaw asserts missile recently made, illustrating Russia's nightly barrage against Ukraine is draining arsenal.
+
+## Trump says US has ‘understanding’ with Israel on Hamas disarmament deal
+Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.
+
+## World reacts with cautious optimism to Hamas disarmament agreement
+Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.
+
+## Trump says Hamas disarmament deal will be complex to deliver
+Trump said Israel strongly supports an agreement for the complete disarmament of Hamas
+
 ## Syrian lawyer takes on ex-Assad official in landmark trial
 Syrian lawyer takes on ex-Assad official in landmark trial
 
@@ -239,21 +251,6 @@ As settler attacks reach record levels, the government has distributed more than
 
 ## New York sues Kalshi, says its prediction markets are ‘illegal gambling’
 New York is one of many states with cases against Kalshi and others in dispute with Trump gov't on who gets to regulate.
-
-## FIFA COO Lamour says staff deceived over Infantino’s World Cup plan
-Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino's World Cup sell-off plan.
-
-## Western allies warn North Korean IT workers funding nuclear arsenal
-Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.
-
-## DR Congo Ebola epidemic becomes world’s second largest outbreak
-Officials declare the outbreak the fastest spreading ever, warning the world to 'pay much more attention'.
-
-## Three-year roadmap proposed for Hamas disarmament in Gaza
-Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza's political transition
-
-## LIVE: Chopra, Nadeem and Pathirage meet in Commonwealth Games javelin final
-Follow live text updates and commentary stream coverage as India's Neeraj Chopra and Pakistan's Arshad Nadeem face-off.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
