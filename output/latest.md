@@ -1,67 +1,70 @@
 # AION Intelligence
 
-## US nuclear reactor company Westinghouse files for IPO
-Brookfield-owned company plots listing nine years after cost overruns forced it into bankruptcy protection
+## Europe braces for wave of wildfires as prospects rise for ‘overload’
+Greece, Italy and parts of central Europe are the most vulnerable in coming weeks, officials warn
 
-## Fed dissenters warn of challenges in taming inflation
-Three rate-setters rebelled against US central bank’s majority decision to hold rates steady this week
+## US Treasury warns banks it may intervene in yen
+Move comes amid speculation Tokyo intervened to support the currency
 
-## Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July
-Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’
+## Brazilian police launch graft probe into President Lula’s son
+Supreme Court authorises investigation into Fábio Luís Lula da Silva months before presidential election
 
-## How Wall Street’s litigators finally became superstar lawyers
-Gibson Dunn’s move on a group of Wachtell litigation partners has expanded the law firms’ talent war beyond dealmakers
+## Rhine drought strands ships and forces German production shutdowns
+Water level of crucial trade river has fallen to match 2018 record low after extreme heatwaves
 
-## Burnham says Infantino is ‘wrong man’ to lead Fifa after stake-sale plan
-UK prime minister’s intervention raises pressure on Fifa president after resignation of a top adviser
+## Spanish prime minister condemns influx of 60,000 migrants
+Record daily influx into Spanish enclave of Ceuta on north African coast dwarfs peak of Europe’s 2015 migration crisis
 
-## ‘Total devastation’: Suffolk confronts aftermath of unprecedented wildfire
-Homeowners and holidaymakers affected as flames sweep across heathland and approach nuclear power plant
-
-## Israel’s far right urges Netanyahu to reject Trump’s Gaza plan
-Prime minister has not yet commented on US president’s claim that Hamas has agreed to disarm
-
-## Spain says 49,000 migrants entered Ceuta enclave in one day
-Record influx into North African territory is nearly five times higher than at peak of Europe’s 2015 migration crisis
-
-## Data centres vs housing: how London became a central battleground
-The city has become the largest hub for AI power centres across Europe, competing with homes for energy, space and water. Its priorities are being called into question
-
-## FirstFT: The fight for football’s future
-Also in today’s newsletter: Citadel bails out Situational Awareness and Claude hacks three organisations
-
-## Universal Music shares plunge by a quarter on streaming growth fears
-Potential impact of AI-generated songs also weighs on the world’s largest music group
-
-## Chevron and Exxon earnings soar as Trump threatens price interventions
-Rise in profits comes amid increasing political scrutiny ahead of US midterm elections
+## Fifa stake sale could work — but not at this price
+Commercialisation does not always mean corruption
 
 ## South Korean stock market soars 18% as investors pile back into AI
 Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally
 
-## Shree Cement Q1 profit declines 17.48%, revenue rises to ₹6,233 cr
-The company had posted a net profit of ₹643.66 crore in the April-June period a year ago
+## Apple shares tumble as AI build-out hits supply chains and growth
+Chief executive Tim Cook says impact of memory prices is set to worsen as he steps down
 
-## PFO clears claim settlement backlog, targets same-day or 2-day disposal of fresh claims: CPFC
-Krishnamurthy said EPFO's new employment schemes and ongoing reforms are focused on providing world-class member services while simplifying compliance for employers
+## Amazon increases AI infrastructure spending to $220bn this year
+Seattle-based group had in April expected to spend $200bn in 2026
 
-## Global wheat output may drop 24 million tonnes next season on Iran war, El Nino impacts
-The global wheat market balance in 2026-27 could become a little worrisome in the 2027-28 season, say analysts
+## US nuclear reactor company Westinghouse files for IPO
+Brookfield-owned company plots listing nine years after cost overruns forced it into bankruptcy protection
 
-## India's April-June fiscal deficit at 18.2% of 2026/27 target
-Fiscal deficit in April-June stands at ₹3.1 lakh crore
+## Markets are getting AI right
+Recent volatility reflects economic reality
 
-## India’s monsoon narrows deficit after 1% surplus in July, IMD predicts ‘below normal’ rain in August
-However, the Indian Ocean Dipole could turn positive in September, negating the adverse impact of the El Nino on the monsoon, say experts
+## Novo Nordisk shares drop 10% after cardiovascular drug trial disappoints
+Danish drugmaker has been trying to diversify beyond its blockbuster obesity treatments Wegovy and Ozempic
 
-## RBI asks banks to install fake currency detection machines at branches along international borders
-RBI says all banknotes received by the bank to be examined for authenticity through machines, counterfeit notes should be impounded in all cases, and in no case the counterfeit note shall be returned to the tenderer or destroyed at the bank
+## India seen as hedge against AI bubble, says Bay Capital white paper
+The India-focused fund manager says foreign portfolio investors will return to Indian equities once sentiment around AI normalises
 
-## Manipal Health Enterprises IPO subscribed 5x so far on closing day
-The IPO comprises a fresh issue of equity shares worth up to ₹8,000 crore and an offer for sale of up to 2.16 crore equity shares by existing shareholders
+## Sun Pharma on track to complete Organon transaction by Q4, says management
+Drug major posts 27 per cent growth in Q1 net profit at ₹2,894 crore
 
-## West Asia conflict: India’s Q1 FY27 crude oil import bill hits all-time high of $50 billion
-One of the reasons behind the higher value in US Dollars is due to weaker Indian Rupee. India had procured a similar quantity in Q1 FY23 for around $47.88 billion.
+## Letters to Editor
+
+
+## India monitoring US Bill proposing 100% tariffs on Russian energy buyers: MEA
+In touch with relevant stakeholders in Washington on the matter
+
+## Q1 Results Today Live: Bajaj Finserv, Sun Pharma, GAIL, Dixon Tech, Aether Q1 profit rise, Urban Company logs Q1 loss, Maruti Suzuki, ITC, IOC Q1 profit down, Glenmark to announce Q1 results
+Q1 Results Today, 31st July 2026 Live Updates: Stay tuned for more from businessline
+
+## AI lifts Q1 global trade despite West Asia conflict: WTO
+WTO warns Strait of Hormuz disruptions will become evident from April data
+
+## Indian Oil posts first quarterly loss in 15 on crude price surge
+IOC recorded a standalone net loss of ₹2,661 crore for the quarter ‌ended June 30, against a profit of ₹5,689 crore a year ‌ago
+
+## Pro-Kannada organisations call for statewide bandh on August 13 over Cauvery water release to Tamil Nadu
+Shivakumar has also postponed his planned August 3 meeting with Tamil Nadu Chief Minister Joseph Vijay on the issue, saying legal matters should be resolved before the two parties meet.
+
+## US stock market today: Nasdaq rises as Amazon rallies strongly
+Amazon joined other Big Tech firms in reporting robust cloud business growth, easing investor concerns over returns from heavy artificial intelligence spending.
+
+## ITR deadline on July 31, 2026: Top things NRIs should keep in mind when filing tax return
+The return filing process and mandatory return filing requirement for NRIs is broadly similar to that of resident taxpayers, as returns are filed through the same Income Tax e-Filing portal using the applicable ITR form.
 
 ## India to get plastic notes soon: Why the move is important - explained
 RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
@@ -81,58 +84,52 @@ The scheme has been approved for a period of 5 years. It will support up to Rs 1
 ## After made-in-India bullet train, new high-speed corridors to get indigenous signalling system
 Indian Railways is developing an indigenous signalling protocol for high-speed rail called the Bharat Train Control System (BTCS). The system is being designed specifically for Indian operating conditions.
 
-## ITR filing deadline extension: Is July 31, 2026 the last date to file income tax return? Check latest developments
-A belated return can still be filed within nine months from the end of the relevant tax year. For the 2025-26 tax year, this means the return can be submitted by December 31, 2026.
+## Why Karnataka-Tamil Nadu Cauvery dispute keeps recurring — a river that has changed, a framework that hasn't
+The 2018 division formula was built on the assumption that the river carried 740 tmcft water in a typical year. The problem is that water levels keep moving.
 
-## Seeking job in US? Trump weighs $100,000 work permit fee from foreign graduates
-The Trump administration is considering a $100,000 fee for international students' work permits. This proposed charge would impact the Optional Practical Training program significantly. US universities and tech firms could face substantial repercussions from this policy change. The Department of Hom
+## India’s dual-use exports comply with international obligations: MEA
+India said its exports of dual-use items follow national laws and international obligations, responding to Amnesty International’s report on Israel.
 
-## 'Not too late, HC will ensure justice': Tahir Hussain on life term in Ankit Sharma murder case
-The Delhi Police argued for the death penalty, describing the killing of Ankit Sharma as "exceptionally brutal" and "cold-blooded".
+## Air Marshal Sandeep Thareja to take over as Armed Forces Medical Services chief
+Air Marshal Sandeep Thareja will take over as the Director General Armed Forces Medical Services (DGAFMS) — India’s senior-most military doctor — on August 31
 
-## 'BJP goons, not students, attacked police': Dipke expresses sympathy for Delhi cops injured during Jantar Mantar protest
-Abhijeet Dipke said that brutality on police was not done by student protestors, but by goons sent by BJP.
+## Centre plans 3-day Jan Sunwai drive to boost welfare delivery in tribal areas ahead of Independence Day
+According to the ministry, the Jan Sunwai should be conducted at every operational ASK between August 13 and 15.
 
-## Badrinath donation theft: Cash recovered as SIT says accused admitted to crime
-Badrinath SHO Mahadev Uniyal said the recoveries were made from the accommodation allotted to Nautiyal at Badrinath Dham
+## CBI arrests 2 BJP workers for murder of Suvendu Adhikari’s PA Chandranath Rath
+The two brothers were arrested on charges that they planned the murder, starting from arranging the shooters, providing logistics and even helping them conduct the recce
 
-## Shivakumar postpones meeting with Vijay amid protests over Cauvery water sharing
-Farmers and Kannada outfits have staged protests against the direction to release 3,500 cusecs of water daily to Tamil Nadu for 15 days
+## MP govt clears plot near Bhojshala for Friday prayers after Supreme Court order
+The Muslim community offered Friday prayers near Dhar’s Bhojshala after a two-week gap on land allocated by the administration following SC directions.
 
-## Rajasthan govt revises blood donation guidelines, raises government share to 50%
-Government blood centres will now collect 50% of blood units at voluntary donation camps in Rajasthan, up from 20%, under revised state guidelines.
+## Four men die while cleaning water tank in Assam’s Cachar: Police
+Assam police detained a property owner after four people died while cleaning an underground water tank at an under-construction house in Cachar.
 
-## Delhi riots: Ex-AAP councillor Tahir Hussain gets life term in IB official Ankit Sharma murder case
-The order was pronounced by additional sessions judge Parveen Singh of the Karkardooma courts.
+## PM Modi, UK PM Andy Burnham vow to take India-UK ties to 'new heights
+In a social media post, Modi said he congratulated Burnham on assuming the charge of the top office and conveyed his best wishes for a successful tenure.
 
-## 'Students will win, mafia will lose': Raghav Chadha backs anti-paper leak Bill. Read full Parliament speech
-Chadha argued that the new legislation would introduce India's first comprehensive anti-paper leak framework with stricter punishments.
-
-## 'Punish miscreants, free students after verification': Wife of Delhi cop injured during Jantar Mantar protest
-Family members of Delhi police personnel injured in the July 20 parliament march, organised by the CJP, held a press conference in Delhi on Friday.
-
-## ‘BJP went into emergency mode after Rahul Gandhi’s attack’: Gaurav Gogoi
+## Bihar STF constable arrested as probe intensifies into Bharat Tiwari’s death
 
 
-## No tridents, hockey sticks, communal slogans or liquor: Rajasthan police SOP for kanwarias
+## From London to local: How Andy Burnham’s ‘Manchesterism’ could transfer power away from Westminster’s corridors
 
 
-## Look who’s calling? In the digital age, Indians need a ‘right to know the contactor’
+## Jaishankar asks Iran to avoid attacks on ships, conveys ‘deep concern’
 
 
-## Man loses Rs 1.64 lakh in online ‘fraud’, bank ordered to refund amount, pay Rs 25,000
+## UPSC Key: Chief Election Commissioner, Arctic Council and Guru Ravidas
 
 
-## India’s monsoon hits halfway mark: Why July witnessed prolonged wet and dry spells
+## Emily Campbell: From Celebrity MasterChef to top of weightlifting podium
 
 
-## The outreach to Dipke: How the two Senas played CJP agitation differently
+## Why Europe’s summer of reckoning has just begun
 
 
-## ‘The world turned its back’: Nadia Hashimi on Afghanistan, resistance and City of Widows
+## Bond disappointment: Bloomberg defers India’s inclusion into global index again
 
 
-## 4 gut health tests that are often overlooked
+## What’s happening in Spain? 41 dead as up to 60,000 migrants storm Ceuta border from Morocco
 
 
 ## Hang Lung profit falls as property losses and weak offices offset record mall rents
@@ -159,6 +156,9 @@ China’s cross-border payment system is reshaping how Mongolian banks move mone
 ## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
 RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
+## Trump’s Pacific Islands Blind Spot
+Washington is losing influence to Beijing in a strategic region.
+
 ## U.S. Boat Strike Campaign Is Shrouded in Secrecy
 The Trump administration has shared few details and little evidence.
 
@@ -179,9 +179,6 @@ The late senator’s long-stalled Russia sanctions bill is on its way to becomin
 
 ## Zaidi’s Militia Dilemma
 Iraq’s new prime minister faces a familiar challenge in confronting Iran-backed groups.
-
-## Why Energy Prices Didn’t Soar Higher This Year
-Daniel Yergin on China’s surprising role as a shock absorber.
 
 ## Why the Bangsamoro Peace Process Still Depends on Trust
 Elections set for September 14 will mark an important step forward, but the peace process will continue for long after the ballots have been counted.
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Approval for China’s mega embassy in London was lawful, UK court rules
-The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.
+## Police chief resigns days after deadly shooting in US city of Seattle
+Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.
 
-## Inside Barcelona’s most sweltering neighbourhood: El Raval
-Densely packed apartments, low incomes, lack of tree cover and poor housing put migrant heart of the capital at risk.
+## Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction
+Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.
 
-## Second day of Spain – Morocco border clashes amid mass migrant influx
-Second day of Spain - Morocco border clashes amid mass migrant influx.
+## Russia and Ukraine report casualties as they continue to trade attacks
+Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.
 
-## ‘Migrant tsunami’: Second day of Spain – Morocco border clashes
-'Migrant tsunami': Second day of Spain - Morocco border clashes.
+## Turkiye’s Davutoglu steps back from politics: A timeline of his career
+Ahmet Davutoglu, a former Turkish PM and Erdogan ally-turned-critic, has stepped down from politics.
 
-## Russia’s Africa Corps killed Mali civilians in air strike: HRW
-Russian paramilitaries fight alongside Malian soldiers battling multiple armed groups linked to al-Qaeda and ISIL.
+## Spain deploys military to Ceuta after migrant surge: What we know
+At least 34 people reported killed trying to cross into the Spanish enclave bordering Morocco.
 
-## Gaza Board of Peace announces Hamas disarmament agreement: What we know
-Under the agreement, Israel would have to withdraw from Gaza. But Palestinians remain sceptical.
+## Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard
+Reports emerge from the front that Russia has infiltrated most of Kostiantynivka as it tries to regain the offensive.
 
-## Palestinians in Gaza are sceptical about the latest peace plan
-Palestinians in Gaza are sceptical of the latest peace plan, questioning whether it will bring lasting change.
+## Why is UEFA threatening FIFA boycott? Infantino’s World Cup plan explained
+Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino's private investment plan.
 
-## Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco
-Regional leader says 60,000 crossed into Ceuta by land and sea as EU chief calls situation 'unacceptable'.
+## Palestinians in Gaza react to latest ceasefire deal
+‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
