@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## KKR nears over $4bn deal to buy medical device maker Integer Holdings
+Healthcare company has been targeted by activist hedge fund established by an Elliott Management alumnus
+
+## US Treasury warns banks it may intervene in yen
+Move comes amid speculation Tokyo intervened to support the currency
+
 ## Google Earth AI tool pulled after spate of fake satellite images
 Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents
 
 ## How 60,000 people swam to Spanish territory
-Migrants prepared days in advance to reach Ceuta’s beach
-
-## KKR nears deal to buy medical device maker Integer for more than $4bn
-Healthcare company was recently targeted by an activist hedge fund established by an Elliott Management alumnus
+Migrants spent days preparing to reach the Spanish enclave of Ceuta from neighbouring Morocco
 
 ## Healey looks for fiscal buffer in October’s UK Budget
 Chancellor to stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’
@@ -132,6 +135,9 @@ China’s cross-border payment system is reshaping how Mongolian banks move mone
 ## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
 RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
+## Spain Records Unprecedented Migrant Crossing
+Some 60,000 people from Morocco surged into the Spanish exclave of Ceuta.
+
 ## Trump’s Biggest Challenge to American Democracy
 The corruption crisis may be the most important source of rot in the U.S. system.
 
@@ -152,9 +158,6 @@ An explosive novel probes the roots of homophobia in Senegal, where a chilling a
 
 ## What in the World?
 Test yourself on the week of July 25: India’s Cockroach movement gets a win, Burnham receives his first foreign leader, and Peru inaugurates a new president.
-
-## Africa’s Financial Third Way
-As Western aid retreats and Chinese investment shifts, the continent needs a model that is truly its own.
 
 ## Safeguarding Children Online: Beyond Singapore’s Social Media Ban Debate
 Singapore might consider championing a roadmap of “supported autonomy.”
@@ -180,6 +183,9 @@ The Arakan Army’s quest for international recognition should be tied to Rohing
 ## Tajikistan Denies a Clothing Ban Its Police Keep Enforcing
 A rumor with one traceable source drew an official rebuttal in Dushanbe that buried its documented enforcement.
 
+## The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation
+In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities resumed in mid-July. More recently, the Houthis in Yemen have
+
 ## Can Cyber Operations Be Deterred? What Wargames Reveal
 The most successful deterrent threats leave no evidence behind. No missiles fly. No networks go down. No troops cross borders. Nothing happens. For policymakers, that is often the desired outcome. For researchers, it is a nightmare. Imagine, however, being able to observe a decision-maker preparing 
 
@@ -200,9 +206,6 @@ Editor’s note: This is the sixth article in a limited series celebrating Ameri
 
 ## The First Waves of Amphibious Assault Will Be Unmanned
 In the Pacific War, the U.S. Navy’s underwater demolition teams prepared the way for U.S. and allied amphibious landings on enemy-held islands. Through beach reconnaissance, obstacle breaching, mine clearance, and other missions, these teams paved paths for the first waves of amphibious assaults con
-
-## How Orbán’s Fall Changed Serbia’s Political Future
-In the speech announcing his invasion of Ukraine on Feb. 24, 2022, Vladimir Putin took only minutes to arrive at the original sin in his catalogue of Western crimes. Before Iraq, before Libya, before Syria, came Belgrade: “First a bloody military operation was waged against Belgrade, without the U.N
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Children face higher threat of US deportation as legal support deal expires
+Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.
+
+## Cambridge students on why they protested at graduation ceremony
+Several Cambridge students protested during their graduation ceremonies
+
+## Powerful El Nino to intensify heat on ‘a planet already on fire’: UN
+UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide
+
+## Venezuela government and opposition to hold talks aimed at path to election
+Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.
+
+## At least 25 people killed, dozens injured in Algeria bus crash
+At least 25 people have been killed and dozens others injured in a bus crash in Algeria.
+
+## Does FIFA need private investment?
+The world football body is facing growing backlash after its proposal to sell a stake in its top events.
+
+## Algerian bus plunges into ravine killing at least 27
+Dozens also injured in accident outside the country's capital Algiers.
+
 ## ‘Strategic partner’: Peru’s Fujimori plans to intensify ties with the US
 Peru's newly inaugurated president indicates her government will join Trump's Shield of the Americas coalition.
-
-## Poland protests to Russian ambassador over missile incursion
-Warsaw asserts missile recently made, illustrating Russia's nightly barrage against Ukraine is draining arsenal.
-
-## Trump says US has ‘understanding’ with Israel on Hamas disarmament deal
-Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.
-
-## World reacts with cautious optimism to Hamas disarmament agreement
-Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.
-
-## Trump says Hamas disarmament deal will be complex to deliver
-Trump said Israel strongly supports an agreement for the complete disarmament of Hamas
-
-## Syrian lawyer takes on ex-Assad official in landmark trial
-Syrian lawyer takes on ex-Assad official in landmark trial
-
-## Why is Israel arming illegal settlers?
-As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.
-
-## New York sues Kalshi, says its prediction markets are ‘illegal gambling’
-New York is one of many states with cases against Kalshi and others in dispute with Trump gov't on who gets to regulate.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
