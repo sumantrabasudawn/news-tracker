@@ -1,70 +1,70 @@
 # AION Intelligence
 
-## Burnham to give mayors share of income tax from 2028
-New prime minister accelerates former chancellor Rachel Reeves’ efforts to move power away from Westminster
+## Top Infantino adviser quits over Fifa plan to sell stake in $20bn commercial arm
+Former Goldman Sachs banker Carlos Cordeiro exits as world football body vows to press ahead with scheme
 
-## Fifa opens door to amending controversial stake sale plan
-Football body reaffirms commitment to bringing in external investors despite widespread opposition
+## Rising Eurozone inflation keeps rate rise on the table
+The ECB is likely to act again in September amid still-high energy costs
 
 ## South Korean stock market soars 18% as investors pile back into AI
-SK Hynix and Samsung stage storming recoveries after this week’s punishing sell-off
+Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally
 
-## Trump says Hamas has agreed to disarm over time
-US president claims Board of Peace reached breakthrough in Gaza talks
+## Ares secures biggest flagship credit fund commitments in three years
+Equity commitments from investors to private credit group up more than 40% from a year ago
+
+## Coal back in favour as US plant bidding war highlights rising demand to power AI
+Top utility fought ‘aggressively’ to outbid data centre developer for control of West Virginia facility
+
+## Spain says 49,000 migrants entered Ceuta enclave in one day
+Record influx into North African territory is nearly five times higher than at peak of Europe’s 2015 migration crisis
+
+## Eurozone inflation rises to 2.9% in July
+Energy shock will keep ECB on alert ahead of September rate decision
+
+## Bank of Japan holds rates with hawkish guidance
+New forecasts show the central bank to be more confident about activity and inflation
 
 ## BP puts its UK North Sea business up for sale
 Decision to market assets comes after talks with Ithaca Energy
 
-## What Warsh is (probably) up to
-The pro-volatility Fed chair
-
-## Iceland’s EU referendum on knife-edge as bloc braces for enlargement litmus test
-Also in this newsletter: EU wants to build up to seven AI ‘gigafactories’
-
-## FirstFT: Europe vows World Cup boycott in Fifa protest
-Also in today’s newsletter: Europe’s wildfire risks and the ‘Nostradamus of AI’
-
-## Sainsbury’s strikes deal to sell Argos for £120mn to Swift Partners
-Sale marks UK retailer’s second attempt to offload general merchandise chain as it focuses on its core food business
-
-## NatWest profits buoyed by retail and wealth units
-High street lender’s second-quarter earnings of £2.3bn top analysts’ forecasts
-
-## British Airways owner IAG ditches growth plans amid Iran conflict
-Soaring fuel prices force airline group to cut capacity
-
-## Ken Griffin’s Situational Awareness
-Aschenbrenner’s hedge fund behind Wall Street’s AI trade sells off assets to Citadel
-
 ## Rhine drought strands ships and forces German production shutdowns
-Crucial trade river near its lowest level in eight years as temperatures head towards 40C
+Water level of crucial trade river has fallen to match 2018 record low after extreme heatwaves
 
-## How investors should brace portfolios for tech volatility
-Many cross-asset holdings are too tilted towards innovation and not protected enough against inflation
+## Taylor Wimpey cuts shareholder returns as weak housing market squeezes builders
+UK housebuilder also pares guidance for home completions amid subdued sales
 
-## Karnataka’s Neelam, Totapuri mangoes fly to Maldives as APEDA facilitates first-ever air shipment
-The export consignment, comprising one metric tonne of Neelam and Totapuri mangoes, was sourced directly from farmers associated with Prakruthimaya Farmers Producer Company Ltd in Kolar district
+## NatWest chief resists calls for tax rises on banks
+Bumper profits from the sector fuel demands for higher UK levies
 
-## Q1 Results Today Live: Bajaj Finserv, Strides Pharma, Shadowfax, Aether Q1 profit rise, Maruti Suzuki, Sun Pharma, ITC, IOC, Dixon, Glenmark to announce Q1 results, Bajaj Finance & Quess Corp hit 52-week high
+## Mayoral scrutiny is a pressing issue
+As Burnham devolves power, remember much of the country lacks Manchester’s media ecosystem
+
+## Please defer August 3 meeting: Karnataka CM Shivakumar appeals to Tamil Nadu CM Vijay following Cauvery protests
+His appeal came amid widespread protests across Karnataka, particularly in Mandya, where demonstrators tore posters of Vijay's recently released film Jananayagan and forced theatres at some places to halt its screening.
+
+## K Rajaraman gets extension as IFSCA chief till October 2028
+Rajaraman’s extension is aimed at ensuring continuity at the helm as the regulator works towards strengthening the International Financial Services Centre ecosystem at GIFT City
+
+## Bajaj Finserv’s Q1FY27 consolidated net profit attributable to owners up 12% at ₹3,132 cr
+BFS to enter re-insurance business
+
+## Q1 Results Today Live: Bajaj Finserv, Sun Pharma, GAIL, Dixon Tech, Aether Q1 profit rise, Urban Company logs Q1 loss, Maruti Suzuki, ITC, IOC, Glenmark to announce Q1 results
 Q1 Results Today, 31st July 2026 Live Updates: Stay tuned for more from businessline
 
-## Sensex today | Stock Market Live: Sensex rises over 300 points, Nifty tops 24,400 on strong global cues
-Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices traded with a positive bias on Thursday, supported by Wall Street's technology-led rally, renewed foreign investor buying and firm Asian markets. Elevated crude oil prices amid US-Iran tensions, however, continued to temper optimism d
+## Most Australian teens still on social media three months after under-16 ban began: Study
+Before ‌the ban, nearly 86% of children surveyed reported using at least one age-restricted platform. Three months later, that figure remained above 81%, the report said.
 
-## Bajaj Finance shares jumps 8% post Q1 results; brokerages turn bullish
-The company reported a 29% y-o-y rise in Q1FY27 standalone net profit to ₹5,345.50 crore, prompting several brokerages to reiterate or upgrade their positive stance on the stock
+## Sensex today | Stock Market Live: Markets end with marginal gains; Sensex up 166 pts, Nifty rises 66 pts to 24,383; Bajaj Finance, Bajaj Finserv, M&M top gainers
+Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices extended gains on Thursday, supported by a Wall Street-led technology rally, strong foreign investor inflows and easing crude oil prices. Positive Asian markets and favourable derivatives positioning reinforced sentiment, keeping the 
 
-## Associated Alcohols & Breweries moves court against FSSAI notice
-The company said industry associations have also raised concerns, arguing the disputed labelling practice complies with existing food safety regulations.
+## Moody's assigns Baa2 rating to RBL Bank
+The outlook for the bank is ‘stable’ and incorporates strong affiliate support from Emirates NBD Bank, its largest shareholder
 
-## Synergys E&C Global profit doubles on better execution
-The company added work in the quarter from the Hong Fu group’s Ranipet facility, from Reliance Consumer Products at Kurnool, and from Ceylon Beverage Can in both India and Sri Lanka
+## Air India to study use of electric air taxis for healthcare deliveries
+Airline signs MoU with SkyDrive and Suzuki to assess feasibility of eVTOL-based medical logistics in India
 
-## Trump announces deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain
-The White House announcement comes nine months after a US-brokered ceasefire was signed
+## Markets end slightly higher; Sensex gains 166 points, Nifty closes above 24,380
 
-## Anthropic says its AI models hacked 3 organisations during testing
-In all three incidents, the AI models were tasked with a ‘capture the flag' cybersecurity challenge, which Anthropic said has been one of the ways it assesses a model's cyber capabilities.
 
 ## Gold futures drop to Rs 1,44,022 per 10g on weak spot demand
 
@@ -87,80 +87,80 @@ Salil Parekh led Infosys to double revenue and secure significant large deals. H
 ## Formal retail credit access doubles over past decade
 Formal retail credit penetration in India more than doubled over the past decade. Consumption-led lending, including personal loans, drove this significant growth. Credit access expanded to younger borrowers and women across India. Northern and central states saw increased credit activity, while wes
 
-## NSE settles pending Sebi cases for nearly Rs 1,500 crore
-The National Stock Exchange has settled past regulatory lapses with Sebi for Rs 1,491 crore. This settlement resolves issues related to co-location and dark-fibre cases involving former officials. Sebi has accepted revised settlement terms, demanding an additional payment from the exchange. The NSE 
+## 'Punish miscreants, free students after verification': Wife of Delhi cop injured during Jantar Mantar protest
+Family members of Delhi police personnel injured in the July 20 parliament march, organised by the CJP, held a press conference in Delhi on Friday.
 
-## 'You cannot threaten Gen Z into silence': Rahul Gandhi backs student, attacks PM Modi, Amit Shah
-LoP renews attack on the government over alleged police action against NEET protesters, questions Amit Shah's absence from Parliament.
+## Maharashtra court cites doubtful evidence, acquits 3 in cattle slaughter case
+The court pointed to material contradictions in the evidence of the prosecution witnesses regarding the collection of the seized meat samples
 
-## Maharashtra to bring law ensuring transparency in property deals: Bawankule
-Maharashtra to bring law ensuring transparency in property deals: Bawankule
+## ED raids 30+ locations in Jharkhand, identifies ₹600 crore assets in illegal coal case: Reports
+ED searched over 30 locations in Jharkhand, froze ₹160 crore in mutual funds, seized ₹1.02 crore cash and traced suspected assets worth ₹600 crore.
 
-## 'My father was almost lynched near Jantar Mantar stage': Kin of Delhi cops injured during stir
-Families of the injured Delhi Police personnel said that the suffering faced by them had been ignored amid allegations of police brutality against students.
+## 'Donation thief, step down': Rahul joins Pappu Yadav's Ram Temple 'chanda' theft skit in Parliament premises | Watch
+Dressed in saffron robes and carrying a photograph of Lord Ram, Purnia MP Rajesh Ranjan, popularly known as Pappu Yadav, played the role of a temple priest.
 
-## Stone trader Tullu Mondal's house sealed as Bengal police intensify probe into Birbhum cash haul
-Stone trader Tullu Mondal's house sealed as Bengal police intensify probe into Birbhum cash haul
+## Oppn steps up Ram Temple donation row; BJP accuses them of insulting faith
+The Congress and the Samajwadi Party staged a street play outside Makar Dwar, the main entrance to Parliament, depicting the alleged donation theft.
 
-## Will Pakistan invite PM Modi for SCO Summit next year? What Islamabad said
-The statement was issued in response to a query on whether Prime Minister Narendra Modi would be invited for the high-level meeting next year.
+## Heavy rainfall batters south, central Gujarat; ‘red alert’ in 13 districts
+According to the state government’s media statement issued on Friday noon, as many as 5,167 people had been shifted to safer locations
 
-## SC Judge V Mohana recuses from hearing Senthil Balaji's anticipatory bail plea
-SC Judge V Mohana recuses from hearing Senthil Balaji's anticipatory bail plea
+## SC grants anticipatory bail to ex-Tamil Nadu minister Balaji in corruption case
+The Supreme Court said that Balaji was no longer a serving minister and it was unlikely he exercises any clout to influence the investigation
 
-## TDB denies role in alleged Sabarimala ghee irregularity, says no outside procurement this season
-TDB denies role in alleged Sabarimala ghee irregularity, says no outside procurement this season
+## 'Only BJP can give self-made person like Modi': Shehzad Poonawalla after quitting party
+“The rest will only promote their children and dynasties,” he said on X.
 
-## Delhi high court issues notice on former JNU scholar Umar Khalid’s bail plea
-The court asked Delhi Police to file a response to the petition against a trial court’s May 4 order denying Umar Khalid bail
-
-## OpenAI slashes prices for Luna and Terra AI models as competition heats up
+## Meghalaya’s Lakadong turmeric is in the spotlight: Is it healthier than regular haldi?
 
 
-## 37 deaths, 12 contentious seats, regional polls: What has triggered violent clashes in PoK?
+## 3 die of electrocution amid heavy rain in Gujarat’s Navsari, 2000 residents evacuated
 
 
-## Bangladeshi author-in-exile Taslima Nasreen returns to Kolkata after 19 years
+## Arjun Kapoor on losing 70 kgs, battle with obesity, and why therapy ‘is non-negotiable’
 
 
-## Jatin Pandit slams ‘Aankhon Se Tune’ remix: ‘It’s like adding yellow to peacock’s feather’
+## Bengaluru woman alleges Rs 2.5 crore fraud by self-styled godman; case registered
 
 
-## Bail for Vinay Kulkarni, Karnataka Congress leader, over BJP worker’s death
+## Indian missions facilitated 1.4 lakh citizens’ return amid US-Iran war: Centre
 
 
-## Hockey India president Dilip Tirkey seeks explanation over jersey change, says Board was not consulted
+## Gauahar Khan reacts as ex Kushal Tandon kisses husband Zaid Darbar on Alliance
 
 
-## Where were Ben Lerner and Amitav Ghosh? The biggest Booker longlist snubs
+## Woman gets stuck in Tamil Nadu’s Moksha Margam; video goes viral
 
 
-## Dharmendra Pradhan’s resignation was a victory for CJP — and Modi. Here’s why
+## Ram Gopal Varma compares Bollywood, South cinema: ‘Hindi films have accountability, discipline’
 
+
+## Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model
+Chinese AI firm MiniMax has launched H3, its newest multimodal video generation model, pledging to break closed-source “dominance” through open weights and competitive pricing – as rival ByteDance rolls out its latest Seedance 2.5 model. H3 was currently the world’s most powerful AI model in video e
+
+## Why Elon Musk would find it hard to decouple Tesla from China
+Elon Musk has dismissed a media report claiming electric vehicle (EV) company Tesla is considering selling its China business, even as the speculation threatens to renew scrutiny over the American carmaker’s dependence on its main manufacturing hub in Shanghai. “This has never even come up in a disc
+
+## HSBC to sell US$25b of Australian home loans to Blackstone at a loss of less than US$100m
+HSBC Holdings has agreed to sell its US$25 billion Australian home loan portfolio to a unit of Blackstone, which is expected to result in an immaterial pre-tax loss of less than US$100 million for the group by the first half of 2027, according to a stock exchange filing on Friday. The sale price was
+
+## China’s CIPS will become settlement norm in Mongolia within 2 years, Golomt Bank says
+China’s cross-border payment system is reshaping how Mongolian banks move money, with the country’s second-largest lender predicting most major banks would join the network within two years as trade with its southern neighbour becomes increasingly settled in yuan. Golomt Bank became one of Mongolia’
+
+## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
+RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
 ## China’s Xiaomi takes aim at Tesla, staking 23% lower price on premium SUV
 Xiaomi, one of Tesla’s biggest challengers in mainland China over the past year, has priced its newest cars at a 23 per cent discount to the US carmaker’s Model Y L SUV amid intensified competition in the country’s premium electric vehicle (EV) segment. Beijing-based Xiaomi announced on Thursday tha
 
 ## Politburo meeting boosts confidence that Beijing will support troubled stock markets
-China’s Politburo meeting has stoked speculation about more policy support for the country’s stock markets after the first leg of state buying did little to stem a decline that drove technology shares to their biggest-ever monthly slide. The economic-policy huddle, chaired by President Xi Jinping, m
+China’s Politburo meeting has stoked speculation about more policy support for the country’s stock markets after the first leg of state buying stopped short of stemming a decline that drove technology shares to their biggest-ever monthly slide. The economic-policy huddle, chaired by President Xi Jin
 
 ## Elite company: the listed firms that were China’s most valuable before CXMT
 After soaring 466 per cent in its Shanghai trading debut on Monday, ChangXin Memory Technologies (CXMT) became the most valuable company on mainland China’s stock market – the first semiconductor firm to hold the top spot in the market’s 35-year history. The state-backed maker of memory chips saw it
 
-## Tim Cook warns of slow Siri AI roll-out in China, worsening memory crisis
-Apple is taking its first concrete steps to roll out initial artificial intelligence (AI) features in China, but CEO Tim Cook warned that a full integration of a revamped Siri AI there would take longer. Mainland Chinese consumers would first get a targeted suite of original Apple Intelligence capab
-
-## Cross-border investment still ‘robust’ despite China’s growing controls: CICC
-Beijing’s heightened scrutiny of overseas portfolio investment and tax practices has yet to significantly weaken mainland investors’ demand for legitimate cross-border investments, according to China International Capital Corporation (CICC). The Beijing-headquartered investment bank is still seeing 
-
-## Beyond the Pitch: How IdeaPOP! Is Teaching Students to Build Social Innovation That Works
-[The content of this article has been produced by our advertising partner.] When the SEED Foundation began reviewing applications for IdeaPOP! 2026, a pattern emerged almost immediately. Across more than a hundred submissions from Hong Kong secondary school students, artificial intelligence featured
-
-## Foreign buying of US homes falls 14% as Chinese remain top spenders despite state curbs
-Foreign purchases of US homes fell to their second-lowest level on record between April last year and March, although Chinese buyers remained the largest spenders as they bought higher-priced properties primarily in California, a new report found. Chinese buyers, last year’s top group, fell to third
-
-## Hong Kong home price rally set to cool after strongest first half in 7 years: analysts
-The rally in Hong Kong’s housing market is expected to slow in the coming months, after a stellar first half of the year that saw home prices post their strongest gains for the period in seven years. Despite the market’s strong recent recovery, analysts warned that weaker stock-market sentiment and 
+## Germany Is Much More Socially Conservative Than You Think
+What a recent scandal reveals about the country’s political culture.
 
 ## Is the U.S.-Iran War Expanding?
 Violence is escalating, but it also follows familiar trends.
@@ -183,35 +183,29 @@ Daniel Yergin on China’s surprising role as a shock absorber.
 ## Trump Has Weakened America’s Sanctions Weapon
 The administration’s inconsistency has undermined a key tool of U.S. foreign policy.
 
-## The OpenAI Hack Shows the Genie Is Out of the Bottle
-Attempts at control are futile. Policy should now turn to defense.
+## Why the Bangsamoro Peace Process Still Depends on Trust
+Elections set for September 14 will mark an important step forward, but the peace process will continue for long after the ballots have been counted.
+
+## Thailand Cracks Down on USDT Transactions in Fight Against China-linked Criminal Networks
+Bangkok has been evolving toward measures that target the financial infrastructure used by region-spanning criminal networks.
+
+## EU Announces New Sanctions Targeting Southeast Asia-Based Online Scam Networks
+Cambodia's Prince Holding Group and the Democratic Karen Benevolent Army, a Myanmar-based rebel group, were among the targeted groups.
+
+## US Aircraft Carrier USS George Washington Arrives in Vietnam on Friendship Visit
+The port call, the fourth by a U.S. carrier group since 2018, is a sign that relations between Washington and Hanoi remain healthy, despite ongoing trade tensions.
+
+## What the Reopening of Nathu La Means for China-India Relations
+Some practical cooperation is being restored between the two neighbors, despite the serious differences that remain.
+
+## North Korea Needs China and Russia – But Doesn’t Want Its People Admiring Them
+Pyongyang’s strict ideological controls apply to perceptions of its allies as well as to “hostile states” like the United States.
 
 ## Why Did China Test a Submarine-launched Ballistic Missile?
 July 6 was the first time that China has launched a submarine-launched ballistic missile into international waters.
 
 ## Europe’s China Strategy Is Ready for a Refresh
 EU leaders have an opportunity to stop treating repression as a side issue and instead make human rights more central to their engagement with China.
-
-## Resilience at the Heart of Australia-Singapore Ties
-At the 15th Singapore-Australia Joint Ministerial Committee this week, the two sides emphasized resilience across sectors, from defense to trade.
-
-## Can Southeast Asia Overcome the Middle-Income Trap?
-Southeast Asian nations won’t overcome the middle-income trap unless predatory elites stop undermining education and R&D.
-
-## At a Jakarta Conference, Two Maritime Orders Collide
-The gap between legalistic and "relationalist" approaches is the region’s primary fault line when it comes to the South China Sea disputes.
-
-## Kazakh President Tokayev’s ‘Humble’ Query for Peace
-As Russia’s full-scale invasion of Ukraine starts to take a financial toll on Kazakhstan, Tokayev puts forward a rare call for negotiations.
-
-## Indonesia’s Chinese Fighter Gamble Will Test ASEAN Trust
-President Prabowo Subianto’s hyper-hedging may preserve his country’s diplomatic flexibility, but it risks military fragmentation and regional uncertainty.
-
-## Why a Bangladesh-India Deal Over the Teesta’s Waters is Imperative
-China can help Dhaka dredge the riverbed, but it cannot fill the Teesta river if upstream flows into Bangladesh remain low.
-
-## The (Un)importance of the Battle of Tours
-Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, that looked important in isolation but had negligible strategic or political effect, or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles nev
 
 ## Can Cyber Operations Be Deterred? What Wargames Reveal
 The most successful deterrent threats leave no evidence behind. No missiles fly. No networks go down. No troops cross borders. Nothing happens. For policymakers, that is often the desired outcome. For researchers, it is a nightmare. Imagine, however, being able to observe a decision-maker preparing 
@@ -233,6 +227,9 @@ Editor’s note: This is the sixth article in a limited series celebrating Ameri
 
 ## The First Waves of Amphibious Assault Will Be Unmanned
 In the Pacific War, the U.S. Navy’s underwater demolition teams prepared the way for U.S. and allied amphibious landings on enemy-held islands. Through beach reconnaissance, obstacle breaching, mine clearance, and other missions, these teams paved paths for the first waves of amphibious assaults con
+
+## How Orbán’s Fall Changed Serbia’s Political Future
+In the speech announcing his invasion of Ukraine on Feb. 24, 2022, Vladimir Putin took only minutes to arrive at the original sin in his catalogue of Western crimes. Before Iraq, before Libya, before Syria, came Belgrade: “First a bloody military operation was waged against Belgrade, without the U.N
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Liberia burns 4.2 metric tonnes of cocaine after record drug seizure
-Liberian authorities burned 4.2 metric tonnes of cocaine worth about $336 million.
+## Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66
+Franco Baresi, who won the World Cup with Italy and was regarded as one of football's finest defenders, dies aged 66.
 
-## FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott
-European football's governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.
+## AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals
+FIFA face global mutiny as Asian Football Confederation stand with Europe and North America after their boycott threats.
 
-## US government mislabels countries on map of Africa at global conference
-The US State Department acknowledged 'an unfortunate error' after the highly inaccurate African map caused a stir.
+## FIFA World Cup plan fallout: Infantino’s senior adviser, Cordeiro, resigns
+Pressure is growing on FIFA and its president Gianni Infantino following proposals for private investment in World Cups.
 
-## Latin America is becoming a laboratory for tech-supremacism
-Trumpism, corporate deregulation and biometric surveillance are converging into a new model of control in the region.
+## At least 11, including children, injured in Israeli raids near Nablus
+Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.
 
-## How Netanyahu lost America
-By tying Israel to the Republican right, he shattered bipartisan consensus that sustained its most important alliance.
+## Her mother said no to a phone. Then came the Gaza genocide
+As the world debated social media use, Eman Lulu's phone became a lifeline and a window into Gaza for millions.
 
-## Pakistan’s attacks on Afghanistan are about more than the TTP
-Islamabad is using a domestic insurgency to justify its broader pursuit of strategic dominance.
+## IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events
+Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.
 
-## Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait
-Iran has continued its attacks on Gulf states, in what it calls retaliation for US strikes on Thursday.
+## Hamas agrees to phased disarmament in Gaza
+Hamas has agreed to gradually disarm in Gaza as part of Donald Trump’s 20-point peace plan.
 
-## How US Senate Russia sanctions could spell 100% tariffs for India, China
-Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.
+## Israeli forces blow up structures near Lebanon’s Beaufort Castle
+Israel claims army blew up Hezbollah tunnels in southern Lebanon, amid reports of blasts near UNESCO-listed fortress.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
