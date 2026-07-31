@@ -1,10 +1,37 @@
 # AION Intelligence
 
+## Burnham to give mayors share of income tax from 2028
+New prime minister accelerates former chancellor Rachel Reeves’ efforts to move power away from Westminster
+
+## Fifa opens door to amending controversial stake sale plan
+Football body reaffirms commitment to bringing in external investors despite widespread opposition
+
+## South Korean stock market soars 18% as investors pile back into AI
+SK Hynix and Samsung stage storming recoveries after this week’s punishing sell-off
+
+## Trump says Hamas has agreed to disarm over time
+US president claims Board of Peace reached breakthrough in Gaza talks
+
+## BP puts its UK North Sea business up for sale
+Decision to market assets comes after talks with Ithaca Energy
+
+## What Warsh is (probably) up to
+The pro-volatility Fed chair
+
+## Iceland’s EU referendum on knife-edge as bloc braces for enlargement litmus test
+Also in this newsletter: EU wants to build up to seven AI ‘gigafactories’
+
 ## FirstFT: Europe vows World Cup boycott in Fifa protest
 Also in today’s newsletter: Europe’s wildfire risks and the ‘Nostradamus of AI’
 
-## The Fed will face a pivotal meeting in September unless there is a durable ceasefire
-Read the July forecast from the FT’s Monetary Policy Radar team
+## Sainsbury’s strikes deal to sell Argos for £120mn to Swift Partners
+Sale marks UK retailer’s second attempt to offload general merchandise chain as it focuses on its core food business
+
+## NatWest profits buoyed by retail and wealth units
+High street lender’s second-quarter earnings of £2.3bn top analysts’ forecasts
+
+## British Airways owner IAG ditches growth plans amid Iran conflict
+Soaring fuel prices force airline group to cut capacity
 
 ## Ken Griffin’s Situational Awareness
 Aschenbrenner’s hedge fund behind Wall Street’s AI trade sells off assets to Citadel
@@ -12,50 +39,41 @@ Aschenbrenner’s hedge fund behind Wall Street’s AI trade sells off assets to
 ## Rhine drought strands ships and forces German production shutdowns
 Crucial trade river near its lowest level in eight years as temperatures head towards 40C
 
-## We’ve moved from income world to wealth world
-Passive wealth gains increasingly matter more than earnings for one’s standing in society
-
-## Europe braces for wave of wildfires as prospects rise for ‘overload’
-Greece, Italy and parts of central Europe are the most vulnerable in coming weeks, officials warn
-
-## FCA launches new push to revive London share trading
-Regulator sets out plans for single stream of stock data and will publish market depth figures
-
-## JPMorgan walks into another football firestorm
-After getting caught up in the Super League controversy, the US bank has been instrumental in Fifa’s plans to raise billions
-
 ## How investors should brace portfolios for tech volatility
 Many cross-asset holdings are too tilted towards innovation and not protected enough against inflation
 
-## The Gen Z and Millennial couples saying ‘I do’ to a prenup
-If this is how we normalise talking about money within relationships, I’m all for it
+## Karnataka’s Neelam, Totapuri mangoes fly to Maldives as APEDA facilitates first-ever air shipment
+The export consignment, comprising one metric tonne of Neelam and Totapuri mangoes, was sourced directly from farmers associated with Prakruthimaya Farmers Producer Company Ltd in Kolar district
 
-## US regulators cite ‘circular’ risk in investments used by KKR and Apollo
-Warning signals growing concern that investments filling insurance balance sheets could harbour unseen risk
-
-## Q1 Results Today Live: Maruti Suzuki, Sun Pharma, Bajaj Finserv, ITC, IOC, Dixon, Bajaj Holdings, ABB India, Kirloskar Brothers, BlueDart, Glenmark, Aether to announce Q1 results, Bajaj Finance, M&M shares up, Vedanta & Tata Steel flat, Swiggy declines, Thermax drags after Q1
+## Q1 Results Today Live: Bajaj Finserv, Strides Pharma, Shadowfax, Aether Q1 profit rise, Maruti Suzuki, Sun Pharma, ITC, IOC, Dixon, Glenmark to announce Q1 results, Bajaj Finance & Quess Corp hit 52-week high
 Q1 Results Today, 31st July 2026 Live Updates: Stay tuned for more from businessline
 
-## Hyundai Motor India shares rise 7.2% as investors bet on recovery
-Hyundai Motor India retains its full year operating margin outlook ‌of 11%-14% and volume growth forecast ​of 8%-10% even as profits fall
+## Sensex today | Stock Market Live: Sensex rises over 300 points, Nifty tops 24,400 on strong global cues
+Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices traded with a positive bias on Thursday, supported by Wall Street's technology-led rally, renewed foreign investor buying and firm Asian markets. Elevated crude oil prices amid US-Iran tensions, however, continued to temper optimism d
 
-## Sensex today | Stock Market Live: Sensex tops 78,000, Nifty gains as AI-fuelled rally sweeps Asian markets
-Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices opened higher on Friday, supported by a Wall Street rally, firm Asian markets and renewed foreign investor buying, while traders monitored elevated crude oil prices, Middle East tensions and key technical levels for further market dir
-
-## Swiggy shares fall over 5% after Q1 results, brokerages remain divided
-Swiggy narrowed its losses in the June quarter to ₹791 crore, compared with ₹1,197 crore in the year-ago period.
-
-## Bajaj Finance shares hit fresh 52-week high after Q1 results; brokerages turn bullish
+## Bajaj Finance shares jumps 8% post Q1 results; brokerages turn bullish
 The company reported a 29% y-o-y rise in Q1FY27 standalone net profit to ₹5,345.50 crore, prompting several brokerages to reiterate or upgrade their positive stance on the stock
 
-## Adani Energy plans another share sale by early next fiscal year
-The group's flagship, Adani Enterprises, raised ₹158 crore ($1.58 ‌billion) ⁠via a QIP earlier this month and ₹280 crore ($2.8 ⁠billion) through a rights issue
+## Associated Alcohols & Breweries moves court against FSSAI notice
+The company said industry associations have also raised concerns, arguing the disputed labelling practice complies with existing food safety regulations.
 
-## Nifty Prediction Today – July 31, 2026: Nifty futures: Likely to extend the gain, go long
-Nifty futures (Aug) can rise to 24,500 today
+## Synergys E&C Global profit doubles on better execution
+The company added work in the quarter from the Hong Fu group’s Ranipet facility, from Reliance Consumer Products at Kurnool, and from Ceylon Beverage Can in both India and Sri Lanka
 
-## Rupee rises 20 paise to 95.30 against US dollar in early trade
-Rising for the fifth straight session, the rupee surged 26 paise to close at 95.50 against the US dollar on Thursday.
+## Trump announces deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain
+The White House announcement comes nine months after a US-brokered ceasefire was signed
+
+## Anthropic says its AI models hacked 3 organisations during testing
+In all three incidents, the AI models were tasked with a ‘capture the flag' cybersecurity challenge, which Anthropic said has been one of the ways it assesses a model's cyber capabilities.
+
+## Gold futures drop to Rs 1,44,022 per 10g on weak spot demand
+
+
+## After made-in-India bullet train, new high-speed corridors to get indigenous signalling system
+Indian Railways is developing an indigenous signalling protocol for high-speed rail called the Bharat Train Control System (BTCS). The system is being designed specifically for Indian operating conditions.
+
+## ITR filing deadline extension: Is July 31, 2026 the last date to file income tax return? Check latest developments
+A belated return can still be filed within nine months from the end of the relevant tax year. For the 2025-26 tax year, this means the return can be submitted by December 31, 2026.
 
 ## Seeking job in US? Trump weighs $100,000 work permit fee from foreign graduates
 The Trump administration is considering a $100,000 fee for international students' work permits. This proposed charge would impact the Optional Practical Training program significantly. US universities and tech firms could face substantial repercussions from this policy change. The Department of Hom
@@ -72,62 +90,56 @@ Formal retail credit penetration in India more than doubled over the past decade
 ## NSE settles pending Sebi cases for nearly Rs 1,500 crore
 The National Stock Exchange has settled past regulatory lapses with Sebi for Rs 1,491 crore. This settlement resolves issues related to co-location and dark-fibre cases involving former officials. Sebi has accepted revised settlement terms, demanding an additional payment from the exchange. The NSE 
 
-## Zepto delays listing, looks to raise Rs 1,000 crore in funding
-Zepto is seeking Rs 1,000 crore in pre-IPO funding, delaying its public listing plans. The quick commerce startup is targeting a valuation of $4-4.5 billion for this investment round. This valuation is over 30% lower than its previous $7 billion valuation. Zepto aims to close this funding round with
+## 'You cannot threaten Gen Z into silence': Rahul Gandhi backs student, attacks PM Modi, Amit Shah
+LoP renews attack on the government over alleged police action against NEET protesters, questions Amit Shah's absence from Parliament.
 
-## NTT Data Payments to take UPI global
-NTT Data Payment Services is developing a hub-based architecture for cross-border retail payments. This strategy aims to connect India's UPI with other Asian fast payment systems. The company's Adaptis brand unifies its digital payment suite across various markets. This new model moves away from slo
+## Maharashtra to bring law ensuring transparency in property deals: Bawankule
+Maharashtra to bring law ensuring transparency in property deals: Bawankule
 
-## Tata Steel ends 25-year joint-venture with German company Martrade
-Tata Steel is acquiring Martrade's stake in their joint shipping venture for Rs 335 crore. This move ends a twenty-five-year partnership with the German logistics group. The company also committed Rs 33,873 crore for capacity expansion at Neelachal Ispat Nigam. This expansion will bolster its long p
+## 'My father was almost lynched near Jantar Mantar stage': Kin of Delhi cops injured during stir
+Families of the injured Delhi Police personnel said that the suffering faced by them had been ignored amid allegations of police brutality against students.
 
-## Building collapses near Mumbai; 8 bodies pulled out after overnight op, more feared trapped
-Preliminary information suggests that residents heard loud cracking noises from the building between 8 pm and 9 pm.
+## Stone trader Tullu Mondal's house sealed as Bengal police intensify probe into Birbhum cash haul
+Stone trader Tullu Mondal's house sealed as Bengal police intensify probe into Birbhum cash haul
 
-## Parliament monsoon session LIVE: Rahul slams Modi, Shah over 'Gen Z protest': ‘First you broke bones, now FIRs’
-Parliament monsoon session LIVE: After the anti-paper leak bill was passed in the Parliament Leader of Opposition in the Rajya Sabha Mallikarjun Kharge questioned whether the government's reforms would bring any real change to the examination system, saying replacing a minister alone was not enough.
+## Will Pakistan invite PM Modi for SCO Summit next year? What Islamabad said
+The statement was issued in response to a query on whether Prime Minister Narendra Modi would be invited for the high-level meeting next year.
 
-## 'Didn't want headlines, wanted solutions': Raghav Chadha on why he didn't speak on NEET paper leak issue
-The Rajya Sabha MP from Punjab also said that the proposed bill to prevent paper leaks will help make the system stronger and exams “more secure”.
+## SC Judge V Mohana recuses from hearing Senthil Balaji's anticipatory bail plea
+SC Judge V Mohana recuses from hearing Senthil Balaji's anticipatory bail plea
 
-## One killed, at least 7 feared trapped after building collapses in Maharashtra's Bhiwandi
-One person died and several others were feared trapped after a four-storey residential building collapsed in Maharashtra's Bhiwandi late on Thursday.
+## TDB denies role in alleged Sabarimala ghee irregularity, says no outside procurement this season
+TDB denies role in alleged Sabarimala ghee irregularity, says no outside procurement this season
 
-## Union minister Bandi Sanjayseeks probe into diversion of central funds
-Union minister of state for home affairs Bandi Sanjay on Thursday demanded a comprehensive and impartial inquiry into the allegations of diversion of 15th Finance Commission grants released to gram panchayats in Telangana by the Congress government
+## Delhi high court issues notice on former JNU scholar Umar Khalid’s bail plea
+The court asked Delhi Police to file a response to the petition against a trial court’s May 4 order denying Umar Khalid bail
 
-## Expert panel suggests ₹802-crore plan to beat El Niño impact in Telangana
-Provisions for subsidy-driven irrigation systems, promotion of drought-tolerant crops and establishment of fodder banks and cattle camps to aid keepers of livestock and efficient utilisation of the Mission Bhagiratha drinking water network were among the key recommendations in the Telangana governme
-
-## Trainee IPS officer was ‘extremely possessive’ towards victim: Police
-Trainee IPS officer M Uday Krishna Reddy, currently in jail for allegedly sexually harassing a married woman trainee IPS officer at Sardar Vallabhbhai Patel National Police Academy (SVPNPA), was extremely possessive and emotionally manipulated her, the remand report submitted by the police in the co
-
-## DMK slams CM’s ‘silence’ on Mekedatu dam, seeks all-party meet to protect TN’s rights
-The main opposition party in Tamil Nadu, Dravida Munnetra Kazhagam (DMK), on Thursday criticised the ruling Tamilaga Vettri Kazhagam (TVK) over its seemingly ambiguous stand on the contentious Mekedatu dam issue, demanding that the state government convene an all-party meeting to protect the state’s
-
-## Over-leveraged borrowers jump 3-fold, credit expansion loses pace: Cibil
+## OpenAI slashes prices for Luna and Terra AI models as competition heats up
 
 
-## ‘Respect the culture’: Venky Atluri on Deepika Padukone’s fixed working hours debate
+## 37 deaths, 12 contentious seats, regional polls: What has triggered violent clashes in PoK?
 
 
-## Tamil Nadu +2 Supplementary Result 2026 to be released today at tnresults.nic.in
+## Bangladeshi author-in-exile Taslima Nasreen returns to Kolkata after 19 years
 
 
-## ‘Want outcome, not headline’: Raghav Chadha breaks silence on student protests
+## Jatin Pandit slams ‘Aankhon Se Tune’ remix: ‘It’s like adding yellow to peacock’s feather’
 
 
-## Neeraj Chopra at Commonwealth Games 2026 Final Live Streaming: When, Where to Watch Men’s Javelin Throw
+## Bail for Vinay Kulkarni, Karnataka Congress leader, over BJP worker’s death
 
 
-## Producer sues Netflix for $105 million over missing Nicolas Cage movie
+## Hockey India president Dilip Tirkey seeks explanation over jersey change, says Board was not consulted
 
 
-## ‘Kangana should learn to become a student of life’: Saurav Das on actor calling him ‘useless’
+## Where were Ben Lerner and Amitav Ghosh? The biggest Booker longlist snubs
 
 
-## Remo D’Souza on strict, ‘cut-to-cut’ meal routine: ‘Particular about my food’
+## Dharmendra Pradhan’s resignation was a victory for CJP — and Modi. Here’s why
 
+
+## China’s Xiaomi takes aim at Tesla, staking 23% lower price on premium SUV
+Xiaomi, one of Tesla’s biggest challengers in mainland China over the past year, has priced its newest cars at a 23 per cent discount to the US carmaker’s Model Y L SUV amid intensified competition in the country’s premium electric vehicle (EV) segment. Beijing-based Xiaomi announced on Thursday tha
 
 ## Politburo meeting boosts confidence that Beijing will support troubled stock markets
 China’s Politburo meeting has stoked speculation about more policy support for the country’s stock markets after the first leg of state buying did little to stem a decline that drove technology shares to their biggest-ever monthly slide. The economic-policy huddle, chaired by President Xi Jinping, m
@@ -149,9 +161,6 @@ Foreign purchases of US homes fell to their second-lowest level on record betwee
 
 ## Hong Kong home price rally set to cool after strongest first half in 7 years: analysts
 The rally in Hong Kong’s housing market is expected to slow in the coming months, after a stellar first half of the year that saw home prices post their strongest gains for the period in seven years. Despite the market’s strong recent recovery, analysts warned that weaker stock-market sentiment and 
-
-## The GBA is optimised for AI to achieve its full potential
-[The content of this article has been produced by our advertising partner.] In 2022, the concept of functional, intuitive, and interactive artificial intelligence (AI) systems leapt from the domain of science fiction into reality, powering the imagination of consumers, corporations, and governments 
 
 ## Is the U.S.-Iran War Expanding?
 Violence is escalating, but it also follows familiar trends.
@@ -201,6 +210,9 @@ President Prabowo Subianto’s hyper-hedging may preserve his country’s diplom
 ## Why a Bangladesh-India Deal Over the Teesta’s Waters is Imperative
 China can help Dhaka dredge the riverbed, but it cannot fill the Teesta river if upstream flows into Bangladesh remain low.
 
+## The (Un)importance of the Battle of Tours
+Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, that looked important in isolation but had negligible strategic or political effect, or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles nev
+
 ## Can Cyber Operations Be Deterred? What Wargames Reveal
 The most successful deterrent threats leave no evidence behind. No missiles fly. No networks go down. No troops cross borders. Nothing happens. For policymakers, that is often the desired outcome. For researchers, it is a nightmare. Imagine, however, being able to observe a decision-maker preparing 
 
@@ -221,9 +233,6 @@ Editor’s note: This is the sixth article in a limited series celebrating Ameri
 
 ## The First Waves of Amphibious Assault Will Be Unmanned
 In the Pacific War, the U.S. Navy’s underwater demolition teams prepared the way for U.S. and allied amphibious landings on enemy-held islands. Through beach reconnaissance, obstacle breaching, mine clearance, and other missions, these teams paved paths for the first waves of amphibious assaults con
-
-## How Orbán’s Fall Changed Serbia’s Political Future
-In the speech announcing his invasion of Ukraine on Feb. 24, 2022, Vladimir Putin took only minutes to arrive at the original sin in his catalogue of Western crimes. Before Iraq, before Libya, before Syria, came Belgrade: “First a bloody military operation was waged against Belgrade, without the U.N
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘First somewhat optimistic day’ in France since fire outbreak says prefect
-Fire-ravaged southwestern France experienced its ‘first somewhat optimistic day’ since wildfires broke out.
+## Liberia burns 4.2 metric tonnes of cocaine after record drug seizure
+Liberian authorities burned 4.2 metric tonnes of cocaine worth about $336 million.
 
-## Iran holds funeral for Revolutionary Guard members reportedly killed in US
-Residents gathered in the northwestern Iranian for the funeral of IRGC members killed in what Iran says was a US strike.
+## FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott
+European football's governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.
 
-## Southern Lebanese towns near Beaufort Castle hit by Israeli strikes
-IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.
+## US government mislabels countries on map of Africa at global conference
+The US State Department acknowledged 'an unfortunate error' after the highly inaccurate African map caused a stir.
 
-## Death toll from Japan earthquake climbs to 34
-The magnitude 7.1 quake has killed 34 people and left six more seriously injured.
+## Latin America is becoming a laboratory for tech-supremacism
+Trumpism, corporate deregulation and biometric surveillance are converging into a new model of control in the region.
 
-## After OpenAI disclosure, Anthropic says Claude also hacked outside systems
-The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.
+## How Netanyahu lost America
+By tying Israel to the Republican right, he shattered bipartisan consensus that sustained its most important alliance.
 
-## Israeli blockades seal off village in the occupied West Bank
-Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances
+## Pakistan’s attacks on Afghanistan are about more than the TTP
+Islamabad is using a domestic insurgency to justify its broader pursuit of strategic dominance.
 
-## India to increase penalties for exam leaks after Cockroach party protests
-The new legislation comes after youth-led protests calling for sweeping reforms and forcing minister's resignation
+## Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait
+Iran has continued its attacks on Gulf states, in what it calls retaliation for US strikes on Thursday.
 
-## Why a MAGA influencer’s shift to support Ukraine war is good for Trump
-One of the most prominent pro-Trump influencers, Laura Loomer, just made a major shift in her stance on Ukraine.
+## How US Senate Russia sanctions could spell 100% tariffs for India, China
+Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
