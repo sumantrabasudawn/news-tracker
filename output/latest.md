@@ -1,64 +1,64 @@
 # AION Intelligence
 
-## Apple forecasts slower growth as AI build-out strains tech supply chains
-CEO Tim Cook says impact of memory prices is set to worsen as he steps down
+## FirstFT: Europe vows World Cup boycott in Fifa protest
+Also in today’s newsletter: Europe’s wildfire risks and the ‘Nostradamus of AI’
 
-## Rolls-Royce raises 2026 targets after profits beat expectations
-Strong demand for UK aero-engine group’s civil and military engines boosts earnings
+## The Fed will face a pivotal meeting in September unless there is a durable ceasefire
+Read the July forecast from the FT’s Monetary Policy Radar team
 
-## Japan’s yen jumps 3% as speculation over intervention swirls
-Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide
+## Ken Griffin’s Situational Awareness
+Aschenbrenner’s hedge fund behind Wall Street’s AI trade sells off assets to Citadel
 
-## Amazon increases AI infrastructure spending to $220bn this year
-Seattle-based group had in April expected to spend $200bn in 2026
+## Rhine drought strands ships and forces German production shutdowns
+Crucial trade river near its lowest level in eight years as temperatures head towards 40C
 
-## Spain’s migrant crisis triggers Italian call for EU travel restrictions
-Mass arrivals in North African enclave of Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez
+## We’ve moved from income world to wealth world
+Passive wealth gains increasingly matter more than earnings for one’s standing in society
 
-## Labour readmits veteran MP Diane Abbott after disciplinary process
-Scottish MP Joani Reid also returns to party just a fortnight into Andy Burnham’s new premiership
+## Europe braces for wave of wildfires as prospects rise for ‘overload’
+Greece, Italy and parts of central Europe are the most vulnerable in coming weeks, officials warn
 
-## Burnham to give mayors share of income tax from 2028
-New prime minister accelerates former chancellor Rachel Reeves’ efforts to move power away from Westminster
+## FCA launches new push to revive London share trading
+Regulator sets out plans for single stream of stock data and will publish market depth figures
 
-## Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’
-Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
+## JPMorgan walks into another football firestorm
+After getting caught up in the Super League controversy, the US bank has been instrumental in Fifa’s plans to raise billions
 
-## Skirts and sandwiches fail to excite cautious IPO investors
-Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures
+## How investors should brace portfolios for tech volatility
+Many cross-asset holdings are too tilted towards innovation and not protected enough against inflation
 
-## Microsoft adds record $450bn in market cap as results cheer investors
-Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
+## The Gen Z and Millennial couples saying ‘I do’ to a prenup
+If this is how we normalise talking about money within relationships, I’m all for it
 
-## Mark Zuckerberg is becoming the king of the ‘side quest’
-Meta is working on a plethora of products outside its comfort zone — and the side hustles come with high stakes
+## US regulators cite ‘circular’ risk in investments used by KKR and Apollo
+Warning signals growing concern that investments filling insurance balance sheets could harbour unseen risk
 
-## Citadel buys Situational Awareness equity holdings after steep AI losses
-Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors
+## Q1 Results Today Live: Maruti Suzuki, Sun Pharma, Bajaj Finserv, ITC, IOC, Dixon, Bajaj Holdings, ABB India, Kirloskar Brothers, BlueDart, Glenmark, Aether to announce Q1 results, Bajaj Finance, M&M shares up, Vedanta & Tata Steel flat, Swiggy declines, Thermax drags after Q1
+Q1 Results Today, 31st July 2026 Live Updates: Stay tuned for more from businessline
 
-## Maharashtra FDA drive: Hotel industry calls for consultative approach on food safety
-Hospitality industry bodies backed stronger food safety checks while urging regulators to prioritise corrective measures before punitive action against establishments.
+## Hyundai Motor India shares rise 7.2% as investors bet on recovery
+Hyundai Motor India retains its full year operating margin outlook ‌of 11%-14% and volume growth forecast ​of 8%-10% even as profits fall
 
-## 2 months of monsoon, yet over 50% of Indian key reservoirs are half-empty
-The level in major reservoirs improved further this week to 44% of the 183.565 billion cubic metres capacity
+## Sensex today | Stock Market Live: Sensex tops 78,000, Nifty gains as AI-fuelled rally sweeps Asian markets
+Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices opened higher on Friday, supported by a Wall Street rally, firm Asian markets and renewed foreign investor buying, while traders monitored elevated crude oil prices, Middle East tensions and key technical levels for further market dir
 
-## Tata Steel net up 19% in Q1 on better realisation
-Global operating environment remained complex, says Chief Executive Officer & Managing Director
+## Swiggy shares fall over 5% after Q1 results, brokerages remain divided
+Swiggy narrowed its losses in the June quarter to ₹791 crore, compared with ₹1,197 crore in the year-ago period.
 
-## M&M Q1 attributable profit jumps 34% to ₹5,455 crore, beats Street; revenue rises 28%
-Robust demand for SUVs and tractors, along with strong contributions from its financial services and technology businesses, helped the group navigate commodity inflation and continued investments in electric vehicles
+## Bajaj Finance shares hit fresh 52-week high after Q1 results; brokerages turn bullish
+The company reported a 29% y-o-y rise in Q1FY27 standalone net profit to ₹5,345.50 crore, prompting several brokerages to reiterate or upgrade their positive stance on the stock
 
-## SEBI agrees to NSE settlements in colo, dark-fibre cases
-The regulator has in-principle agreed to terms of settlement, seeks an additional Rs 714.74 crore after an earlier deposit of Rs 776.47 crore
+## Adani Energy plans another share sale by early next fiscal year
+The group's flagship, Adani Enterprises, raised ₹158 crore ($1.58 ‌billion) ⁠via a QIP earlier this month and ₹280 crore ($2.8 ⁠billion) through a rights issue
 
-## India tightens drug quality norms, eyes biopharma push: Pharma Secretary
-Manoj Joshi said restoring confidence in India's pharmaceutical manufacturing through stricter regulation is the government's immediate priority
+## Nifty Prediction Today – July 31, 2026: Nifty futures: Likely to extend the gain, go long
+Nifty futures (Aug) can rise to 24,500 today
 
-## Bajaj Finance Q1FY27 standalone net up 29% at ₹5,345.50 cr
-The NBFC logged a 28% y-o-y growth in consolidated net profit at ₹6,081 crore against ₹4,765 crore in Q1FY26
+## Rupee rises 20 paise to 95.30 against US dollar in early trade
+Rising for the fifth straight session, the rupee surged 26 paise to close at 95.50 against the US dollar on Thursday.
 
-## Buffalo meat, non-basmati rice lift India’s Q1 agri produce exports
-Shipments rise 14% to $7.64 billion; Basmati rice shipments decline on reduced offtake
+## Seeking job in US? Trump weighs $100,000 work permit fee from foreign graduates
+The Trump administration is considering a $100,000 fee for international students' work permits. This proposed charge would impact the Optional Practical Training program significantly. US universities and tech firms could face substantial repercussions from this policy change. The Department of Hom
 
 ## Mileage drop due to E20? 2-6%, says 1 minister, 3-5%, says another
 Government ministries have offered varied figures regarding fuel efficiency changes. Older vehicles using E20 fuel may see a slight mileage reduction. The Road Transport Ministry cited a 2-6% potential decrease in efficiency. The Petroleum Ministry indicated a general reduction of about 3-5%. Both m
@@ -81,56 +81,65 @@ NTT Data Payment Services is developing a hub-based architecture for cross-borde
 ## Tata Steel ends 25-year joint-venture with German company Martrade
 Tata Steel is acquiring Martrade's stake in their joint shipping venture for Rs 335 crore. This move ends a twenty-five-year partnership with the German logistics group. The company also committed Rs 33,873 crore for capacity expansion at Neelachal Ispat Nigam. This expansion will bolster its long p
 
-## Flipkart, Amazon mount fee war as race heats up
-Amazon and Flipkart are reducing seller fees to attract more businesses. This strategy aims to boost sales volumes in smaller Indian cities and towns. Lower costs for sellers translate into more affordable products for consumers. The e-commerce giants are focusing on onboarding local sellers from ti
+## Building collapses near Mumbai; 8 bodies pulled out after overnight op, more feared trapped
+Preliminary information suggests that residents heard loud cracking noises from the building between 8 pm and 9 pm.
 
-## Gudiya rape-murder: Constable, key witness in custodial death case, suspended; family alleges harassment Family of Gudiya case witness alleges police harassment, seeks government intervention
-Gudiya rape-murder: Constable, key witness in custodial death case, suspended; family alleges harassment Family of Gudiya case witness alleges police harassment, seeks government intervention
+## Parliament monsoon session LIVE: Rahul slams Modi, Shah over 'Gen Z protest': ‘First you broke bones, now FIRs’
+Parliament monsoon session LIVE: After the anti-paper leak bill was passed in the Parliament Leader of Opposition in the Rajya Sabha Mallikarjun Kharge questioned whether the government's reforms would bring any real change to the examination system, saying replacing a minister alone was not enough.
 
-## Punjab CM says Mukh Mantri Teerath Yatra Yojana scheme has been expanded
-Punjab CM says Mukh Mantri Teerath Yatra Yojana scheme has been expanded
+## 'Didn't want headlines, wanted solutions': Raghav Chadha on why he didn't speak on NEET paper leak issue
+The Rajya Sabha MP from Punjab also said that the proposed bill to prevent paper leaks will help make the system stronger and exams “more secure”.
 
-## 'Skin brighter than country's future': CJP’s Dipke comments on PM Modi’s new video
-In the selfie-style video posted on Thursday, PM Modi called the legislation a major step towards creating a credible examination system.
+## One killed, at least 7 feared trapped after building collapses in Maharashtra's Bhiwandi
+One person died and several others were feared trapped after a four-storey residential building collapsed in Maharashtra's Bhiwandi late on Thursday.
 
-## Teen, walking on track with earphones on, run over by goods train in Faridabad
-The deceased had come to Prahaladpur with his mother to visit his maternal grandparents.
+## Union minister Bandi Sanjayseeks probe into diversion of central funds
+Union minister of state for home affairs Bandi Sanjay on Thursday demanded a comprehensive and impartial inquiry into the allegations of diversion of 15th Finance Commission grants released to gram panchayats in Telangana by the Congress government
 
-## PM Modi back with a selfie video, hails passage of stricter anti-paper leak bill
-PM Modi said the issue of question paper leaks had plagued governments at both the Centre and the states for decades and threatened the future of students.
+## Expert panel suggests ₹802-crore plan to beat El Niño impact in Telangana
+Provisions for subsidy-driven irrigation systems, promotion of drought-tolerant crops and establishment of fodder banks and cattle camps to aid keepers of livestock and efficient utilisation of the Mission Bhagiratha drinking water network were among the key recommendations in the Telangana governme
 
-## Jaishankar condemns Black Sea attacks in call with Ukrainian counterpart
-Jaishankar emphasised the “fragility of the current international situation, with multiple conflicts in different geographies” that are impacting fuel, fertiliser and food security.
+## Trainee IPS officer was ‘extremely possessive’ towards victim: Police
+Trainee IPS officer M Uday Krishna Reddy, currently in jail for allegedly sexually harassing a married woman trainee IPS officer at Sardar Vallabhbhai Patel National Police Academy (SVPNPA), was extremely possessive and emotionally manipulated her, the remand report submitted by the police in the co
 
-## Assam floods: Death toll climbs to 80, 2 lakh remain affected in 4 districts
-According to the ASDMA's daily flood report, more than 2,12,400 people remained affected in Charaideo, Golaghat, Jorhat and Sivasagar districts.
+## DMK slams CM’s ‘silence’ on Mekedatu dam, seeks all-party meet to protect TN’s rights
+The main opposition party in Tamil Nadu, Dravida Munnetra Kazhagam (DMK), on Thursday criticised the ruling Tamilaga Vettri Kazhagam (TVK) over its seemingly ambiguous stand on the contentious Mekedatu dam issue, demanding that the state government convene an all-party meeting to protect the state’s
 
-## We want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt decision
-“Delhi govt released notification that all the FIRs will not be pursued further and they may be treated as closed. We are not very happy with the term.”
-
-## On Vande Mataram, a law in search of a crime
+## Over-leveraged borrowers jump 3-fold, credit expansion loses pace: Cibil
 
 
-## Jet lag and blood sugar: How long-haul travel affect glucose levels
+## ‘Respect the culture’: Venky Atluri on Deepika Padukone’s fixed working hours debate
 
 
-## Supreme Court balances ecology and public interest. Centre must pay heed
+## Tamil Nadu +2 Supplementary Result 2026 to be released today at tnresults.nic.in
 
 
-## Nirmal Purja among 10 climbers feared missing after avalanche on Pakistan’s Broad Peak
+## ‘Want outcome, not headline’: Raghav Chadha breaks silence on student protests
 
 
-## Long after these UP mafia dons were killed, their wives remain absconding
+## Neeraj Chopra at Commonwealth Games 2026 Final Live Streaming: When, Where to Watch Men’s Javelin Throw
 
 
-## Fudged records to pay party faithful: CAG flags anomalies in Cyclone Amphan relief under TMC
+## Producer sues Netflix for $105 million over missing Nicolas Cage movie
 
 
-## Kanwar Yatra: Chief Secretary, DGP review arrangements, security
+## ‘Kangana should learn to become a student of life’: Saurav Das on actor calling him ‘useless’
 
 
-## Amid Opposition protests, House clears Bill criminalising insult to Vande Mataram
+## Remo D’Souza on strict, ‘cut-to-cut’ meal routine: ‘Particular about my food’
 
+
+## Politburo meeting boosts confidence that Beijing will support troubled stock markets
+China’s Politburo meeting has stoked speculation about more policy support for the country’s stock markets after the first leg of state buying did little to stem a decline that drove technology shares to their biggest-ever monthly slide. The economic-policy huddle, chaired by President Xi Jinping, m
+
+## Elite company: the listed firms that were China’s most valuable before CXMT
+After soaring 466 per cent in its Shanghai trading debut on Monday, ChangXin Memory Technologies (CXMT) became the most valuable company on mainland China’s stock market – the first semiconductor firm to hold the top spot in the market’s 35-year history. The state-backed maker of memory chips saw it
+
+## Tim Cook warns of slow Siri AI roll-out in China, worsening memory crisis
+Apple is taking its first concrete steps to roll out initial artificial intelligence (AI) features in China, but CEO Tim Cook warned that a full integration of a revamped Siri AI there would take longer. Mainland Chinese consumers would first get a targeted suite of original Apple Intelligence capab
+
+## Cross-border investment still ‘robust’ despite China’s growing controls: CICC
+Beijing’s heightened scrutiny of overseas portfolio investment and tax practices has yet to significantly weaken mainland investors’ demand for legitimate cross-border investments, according to China International Capital Corporation (CICC). The Beijing-headquartered investment bank is still seeing 
 
 ## Beyond the Pitch: How IdeaPOP! Is Teaching Students to Build Social Innovation That Works
 [The content of this article has been produced by our advertising partner.] When the SEED Foundation began reviewing applications for IdeaPOP! 2026, a pattern emerged almost immediately. Across more than a hundred submissions from Hong Kong secondary school students, artificial intelligence featured
@@ -143,18 +152,6 @@ The rally in Hong Kong’s housing market is expected to slow in the coming mont
 
 ## The GBA is optimised for AI to achieve its full potential
 [The content of this article has been produced by our advertising partner.] In 2022, the concept of functional, intuitive, and interactive artificial intelligence (AI) systems leapt from the domain of science fiction into reality, powering the imagination of consumers, corporations, and governments 
-
-## Hongkong Land acquires Singapore’s Wheelock Place in US$900m deal
-Hongkong Land will acquire Singapore’s Wheelock Place for about S$1.1 billion (US$900 million) through its Singapore Central Private Real Estate Fund (SCPREF), marking the fund’s first acquisition since its launch in February. The mixed-use commercial property on Orchard Road is being acquired from 
-
-## ByteDance’s US$4b projected AI revenue tops China as it restructures office tool Lark
-ByteDance has integrated its enterprise collaboration unit into other teams, a move that sharpens its focus on using artificial intelligence to serve corporate clients as annualised AI revenue of US$4 billion pushes it to the front of the pack in China, according to sources. The Beijing-based compan
-
-## Ant Group spin-offs pursue independent growth with strategic capital moves
-The three independent spin-offs of Chinese fintech giant Ant Group are accelerating their capital-raising efforts, forging distinct financial paths after gaining operational autonomy in 2024. Ant Digital Technologies is preparing a financing round ahead of its initial public offering, according to C
-
-## Chinese motorcycle exports roar to record highs amid tech gains, upmarket push
-Chinese motorcycle exports hit a record in the first half of the year as domestic manufacturers, armed with their own technology gains, targeted upmarket segments long dominated by Honda, Yamaha and BMW. Exports reached 26.2 million units worth US$11.28 billion, rising 23.2 per cent in volume and 26
 
 ## Is the U.S.-Iran War Expanding?
 Violence is escalating, but it also follows familiar trends.
@@ -252,29 +249,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US Escalation with Iran is ‘pointless’, warns former US diplomat
-As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.
+## ‘First somewhat optimistic day’ in France since fire outbreak says prefect
+Fire-ravaged southwestern France experienced its ‘first somewhat optimistic day’ since wildfires broke out.
 
-## Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually
-Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.
+## Iran holds funeral for Revolutionary Guard members reportedly killed in US
+Residents gathered in the northwestern Iranian for the funeral of IRGC members killed in what Iran says was a US strike.
 
-## Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza
-US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.
+## Southern Lebanese towns near Beaufort Castle hit by Israeli strikes
+IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.
 
-## UK left-wing MP Diane Abbott reinstated by Labour Party after suspension
-Diane Abbott returns to Labour, a year after her suspension over comments about racism.
+## Death toll from Japan earthquake climbs to 34
+The magnitude 7.1 quake has killed 34 people and left six more seriously injured.
 
-## Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final
-Sri Lanka's Rumesh Pathirage is favourite ahead of rivalry between India's Neeraj Chopra and Pakistan's Arshad Nadeem.
+## After OpenAI disclosure, Anthropic says Claude also hacked outside systems
+The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.
 
-## US appeals court rejects Trump expansion of mandatory migrant detention
-Appeals court rules that the Trump administration cannot deny detained migrants the chance for release on bond.
+## Israeli blockades seal off village in the occupied West Bank
+Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances
 
-## Trump administration appeals to never-before-used court for deportation
-US government prosecutors are seeking the removal of Nazira Haji Zada, though she faces no criminal charges.
+## India to increase penalties for exam leaks after Cockroach party protests
+The new legislation comes after youth-led protests calling for sweeping reforms and forcing minister's resignation
 
-## Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza
-US president says Israel will withdraw from Gaza following the disarmament of Hamas.
+## Why a MAGA influencer’s shift to support Ukraine war is good for Trump
+One of the most prominent pro-Trump influencers, Laura Loomer, just made a major shift in her stance on Ukraine.
+
+## India’s Wealth Disparity
+India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
 
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
@@ -296,9 +296,6 @@ In a notable move, HDFC Bank has penalized senior executives and delivered warni
 
 ## August Rush: Over 2 dozen companies plan Street debut next month
 India's primary market momentum continues with over two dozen issuers planning IPOs. These companies aim to collectively raise approximately ₹35,000 crore in the upcoming month. New-age companies like Zepto and PhonePe are expected to lead this significant market activity. Investor appetite is retur
-
-## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
-While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
 
 ## RBI sold about $7 billion to defend rupee on Friday
 India's central bank sold approximately $7 billion to defend the rupee. The Reserve Bank of India intervened across markets as the currency neared a record low. This intervention followed a surge in crude prices impacting Asian oil importers. The RBI's actions helped lift the rupee further away from
