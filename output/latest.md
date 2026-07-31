@@ -1,19 +1,31 @@
 # AION Intelligence
 
+## Healey looks for fiscal buffer in October’s UK Budget
+Chancellor to stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’
+
+## Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July
+Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’
+
+## Fifa insiders turn on Infantino over controversial $20bn investment plan
+Interventions by two senior officials deepen crisis over president’s plan to create new commercial venture and sell 20% stake
+
+## Spain’s prime minister condemns influx of 60,000 migrants
+Mass arrival at enclave of Ceuta is ‘violation of . . . territorial integrity’, says Pedro Sánchez
+
+## NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars
+Deal would land amid consolidation wave sweeping semiconductors as they position for AI revolution
+
+## Warsh goes blank
+The new Fed chair’s ‘less is more’ communications policy came under fire this week
+
+## Stockpickers: Restore, Rio Tinto, Unite Group
+Our experts discuss which companies to buy, sell or hold this week
+
 ## Europe’s long hot summer
 Wildfires show climate change adaptation needs to move up the agenda alongside mitigation
 
-## Israel’s far right urges Netanyahu to reject Trump’s Gaza plan
-Prime Minister has not commented on the US president’s claim that Hamas has agreed to disarm
-
-## Healey to deliver Budget on October 28
-Chancellor says he will stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’
-
-## Eurozone inflation rises to 2.9% in July
-Energy shock will keep ECB on alert ahead of September rate decision
-
-## Spanish prime minister condemns influx of 60,000 migrants
-Mass arrival at enclave of Ceuta is ‘violation of . . . territorial integrity’, says Pedro Sánchez
+## Directors’ Deals: M&S directors cash out as shares climb
+Retailer seems to have shrugged off effects of cyber attack
 
 ## South Korean stock market soars 18% as investors pile back into AI
 Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally
@@ -21,23 +33,26 @@ Chipmakers rebound at end of bruising month for the sector, helped by Wall Stree
 ## Abu Dhabi abandons bid to build global oil benchmark
 Adnoc returns to pricing its crude against the Dubai benchmark after Iran war exposes problems with Murban futures
 
-## I helped bring in US bank stress tests. Now it is time to drop them
-The time-consuming ritual risks misleading the public about the true health of the financial system
-
-## NXP in talks to buy $3.3bn designer of camera chips for self-driving cars
-Deal would land amid consolidation wave sweeping semiconductors as they position for AI revolution
-
 ## Google Earth AI tool raises fears over spread of fake satellite images
 Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents
 
-## Rhine drought strands ships and forces German production cuts
-Water level of crucial trade river has fallen to match 2018 record low after extreme heatwaves
+## I helped bring in US bank stress tests. Now it is time to drop them
+The time-consuming ritual risks misleading the public about the true health of the financial system
 
-## Fifa stake sale could work — but not at this price
-Commercialisation does not always mean corruption
+## Modi in new video: I and my late mother were abused at Jantar Mantar, but I forgive these children
+The Prime Minister urged compassion, saying young protesters should be counselled and encouraged to learn instead of facing legal action
 
-## Apple shares tumble as AI build-out hits supply chains and growth
-Chief executive Tim Cook says impact of memory prices is set to worsen as he steps down
+## SEBI closes proceedings against Religare Enterprises, Rashmi Saluja after Burman Group takeover
+The regulator concluded its preventive action had achieved its objective after the change in control and completion of the open offer.
+
+## Spain’s Ceuta faces migrant surge as up to 60,000 cross from Morocco; at least 57 die
+Authorities rushed security forces as thousands arrived within hours, overwhelming services and leaving dozens dead during dangerous border crossings.
+
+## SEBI bars Zee Entertainment’s Punit Goenka and Subhash Chandra for one year; imposes ₹1.48 crore penalty
+The regulator cited governance failures, undisclosed transactions and misuse of company assets while imposing penalties and market restrictions
+
+## Aadhar Housing Finance logs 19% increase in Q1FY27 net profit at ₹282 cr
+Assets Under Management increased 18% YoY to stand at ₹31,364 crore as at June-end 2026
 
 ## IndiGo to end wide-body flights, London service from October-end
 The airline took the decision due to the challenging operating environment triggered by the ongoing geopolitical tensions
@@ -47,21 +62,6 @@ Shivakumar has also postponed his planned August 3 meeting with Tamil Nadu Chief
 
 ## Honda emerges as largest two-wheeler retailer; ends Hero’s six-month run
 Honda Motorcycle & Scooter India overtakes Hero MotoCorp in July as industry registrations rise 22.3% year-on-year despite a seasonal moderation from June
-
-## TN’s new Revenue Augmentation Committee holds first meeting in virtual mode to discuss terms and steps ahead
-The panel will be supported by a research team from the Tax Policy Research Unit and the Financial Data Analytics Unit of the Finance Dept
-
-## FarEye features in Gartner Market Guide
-The inclusion marks FarEye’s 12th overall Gartner recognition
-
-## Aadhar Housing Finance logs 19% increase in Q1FY26 net profit at ₹282 cr
-Assets Under Management increased 18% YoY to stand at ₹31,364 crore as at June-end 2026
-
-## Rainbow Hospitals expanding its operations to Mumbai, inks pact with Fountainhead TCHM Healthcare
-The hospital is expected to commence operations in Q1 FY28, subject to receipt of necessary approvals and completion of development activities.
-
-## Cabinet approved expanded Khelo India scheme
-Khelo India was launched in 2017 and has been receiving the lion’s share of allocation from the union sports budget annually
 
 ## India to get plastic notes soon: Why the move is important - explained
 RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
@@ -87,6 +87,15 @@ The scheme has been approved for a period of 5 years. It will support up to Rs 1
 ## Gold futures drop to Rs 1,44,022 per 10g on weak spot demand
 
 
+## PM Modi forgives students amid abusive video row: 'Let's guide the misguided'
+In a video message, PM Modi said the language used by some protesters was unfit for a civilised society, but urged people to reform, not punish, the students.
+
+## ‘Attack on Hindu society’: Poonawalla slams Rahul Gandhi over Ram Temple theft skit in Parliament
+He claimed the parties involved had "faith only in vote-bank politics" and not in Lord Ram.
+
+## Missed filing ITR by July 31? Here's how you can still file your income tax return
+Missing the deadline could cost you more than just a late fee.
+
 ## 21-year-old dies after ambulance oxygen runs out in MP; probe ordered
 Ajit Baraiya, a resident of Sunhara Mal village, died on July 27 while being transferred from Bamhani Hospital to Mandla with oxygen support
 
@@ -101,15 +110,6 @@ PM Modi and UK PM Andy Burnham discussed the India-UK trade deal, technology, de
 
 ## 70% water samples near abandoned Union Carbide factory in Bhopal found contaminated
 Bhopal gas survivors’ groups claimed 70% of drinking water samples near the abandoned Union Carbide factory tested positive for faecal coliform contamination.
-
-## Assam govt invokes NSA against activist who opposed Kaziranga hotel project
-Pranab Doley was arrested on July 12 after he carried out protests at Ingle Pathar, a village located near Kaziranga National Park and Tiger Reserve
-
-## 1 dead, another injured in terror attack in J&K's Kulgam
-The attack took place at a brick kiln in the Kelam area, where the assailants targeted the workers.
-
-## India again denounces Pakistan’s crackdown in PoJK, urges global action
-New Delhi has criticised Islamabad’s actions in PoJK several times over the past few weeks as the region has witnessed widespread violence that has left more than 40 people dead since June
 
 ## Hang Lung profit falls as property losses and weak offices offset record mall rents
 Hong Kong developer Hang Lung Properties’ underlying profit fell in the first half as losses from property sales, higher finance costs and a weak mainland China office market offset record rental income from its shopping malls. Underlying net profit declined 10 per cent from a year earlier to HK$1.4
@@ -135,6 +135,18 @@ China’s cross-border payment system is reshaping how Mongolian banks move mone
 ## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
 RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
+## The Dreams of ‘Star Trek’ Aren’t Dead
+Space utopianism belongs to everyone, not billionaires.
+
+## Resurrecting the Real Monroe Doctrine
+Hidden behind two centuries of aggressive presidential corollaries is an enduring appeal to hemispheric solidarity.
+
+## The Myth of African Heterosexual Purity
+An explosive novel probes the roots of homophobia in Senegal, where a chilling anti-LGBTQ+ law just passed.
+
+## What in the World?
+Test yourself on the week of July 25: India’s Cockroach movement gets a win, Burnham receives his first foreign leader, and Peru inaugurates a new president.
+
 ## Africa’s Financial Third Way
 As Western aid retreats and Chinese investment shifts, the continent needs a model that is truly its own.
 
@@ -147,41 +159,29 @@ The Trump administration has shared few details and little evidence.
 ## Germany Is Much More Socially Conservative Than You Think
 What a recent scandal reveals about the country’s political culture.
 
-## Is the U.S.-Iran War Expanding?
-Violence is escalating, but it also follows familiar trends.
+## Safeguarding Children Online: Beyond Singapore’s Social Media Ban Debate
+Singapore might consider championing a roadmap of “supported autonomy.”
 
-## NATO Says Russian Missile Violated Polish Airspace
-Secretary-General Mark Rutte warned that Moscow’s “reckless” actions risk spreading the Ukraine war.
+## Afghanistan’s Return Crisis: Why Sending People Back Is Not a Durable Solution
+The shift in policies from protection to return assumes that return represents a durable solution.
 
-## How Gen Z ‘Cockroaches’ Beat Modi at His Own Game
-India’s prime minister is famous for his savvy use of social media. Now he’s getting a wake-up call.
+## Johor State Election 2026: Decoding Peninsular Malaysian Politics
+The Johor state election does not automatically presage a nationwide BN sweep because the results are heavily steeped in Johor's unique local context.
 
-## Lindsey Graham’s Parting Gift to Ukraine
-The late senator’s long-stalled Russia sanctions bill is on its way to becoming law.
+## Lee Pushes AI Investment in Silicon Valley and Turns to South American Minerals
+The South Korean president secured semiconductor pledges in San Francisco before turning to trade and mineral agreements in Brazil and Chile.
 
-## Why the Bangsamoro Peace Process Still Depends on Trust
-Elections set for September 14 will mark an important step forward, but the peace process will continue for long after the ballots have been counted.
+## South Asia’s Smaller States Push to Revive SAARC — Again
+Will the region’s perpetually squabbling siblings -- India and Pakistan -- put aside their insecurities to make regional cooperation happen?
 
-## Thailand Cracks Down on USDT Transactions in Fight Against China-linked Criminal Networks
-Bangkok has been evolving toward measures that target the financial infrastructure used by region-spanning criminal networks.
+## Mongolia Signs Fuel Deal With South Korea
+South Korea is now becoming a key guarantor of stability for Mongolian gas stations and aviation.
 
-## EU Announces New Sanctions Targeting Southeast Asia-Based Online Scam Networks
-Cambodia's Prince Holding Group and the Democratic Karen Benevolent Army, a Myanmar-based rebel group, were among the targeted groups.
+## For the Arakan Army, Recognition Must Be Earned
+The Arakan Army’s quest for international recognition should be tied to Rohingya rights and accountability.
 
-## US Aircraft Carrier USS George Washington Arrives in Vietnam on Friendship Visit
-The port call, the fourth by a U.S. carrier group since 2018, is a sign that relations between Washington and Hanoi remain healthy, despite ongoing trade tensions.
-
-## What the Reopening of Nathu La Means for China-India Relations
-Some practical cooperation is being restored between the two neighbors, despite the serious differences that remain.
-
-## North Korea Needs China and Russia – But Doesn’t Want Its People Admiring Them
-Pyongyang’s strict ideological controls apply to perceptions of its allies as well as to “hostile states” like the United States.
-
-## Why Did China Test a Submarine-launched Ballistic Missile?
-July 6 was the first time that China has launched a submarine-launched ballistic missile into international waters.
-
-## Europe’s China Strategy Is Ready for a Refresh
-EU leaders have an opportunity to stop treating repression as a side issue and instead make human rights more central to their engagement with China.
+## Tajikistan Denies a Clothing Ban Its Police Keep Enforcing
+A rumor with one traceable source drew an official rebuttal in Dushanbe that buried its documented enforcement.
 
 ## Can Cyber Operations Be Deterred? What Wargames Reveal
 The most successful deterrent threats leave no evidence behind. No missiles fly. No networks go down. No troops cross borders. Nothing happens. For policymakers, that is often the desired outcome. For researchers, it is a nightmare. Imagine, however, being able to observe a decision-maker preparing 
@@ -231,6 +231,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syrian lawyer takes on ex-Assad official in landmark trial
+Syrian lawyer takes on ex-Assad official in landmark trial
+
+## Why is Israel arming illegal settlers?
+As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.
+
+## New York sues Kalshi, says its prediction markets are ‘illegal gambling’
+New York is one of many states with cases against Kalshi and others in dispute with Trump gov't on who gets to regulate.
+
+## FIFA COO Lamour says staff deceived over Infantino’s World Cup plan
+Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino's World Cup sell-off plan.
+
+## Western allies warn North Korean IT workers funding nuclear arsenal
+Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.
+
 ## DR Congo Ebola epidemic becomes world’s second largest outbreak
 Officials declare the outbreak the fastest spreading ever, warning the world to 'pay much more attention'.
 
@@ -239,21 +254,6 @@ Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza
 
 ## LIVE: Chopra, Nadeem and Pathirage meet in Commonwealth Games javelin final
 Follow live text updates and commentary stream coverage as India's Neeraj Chopra and Pakistan's Arshad Nadeem face-off.
-
-## Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’
-Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation."
-
-## Tunisian wildfires expose failing infrastructure, community vulnerabilities
-For families in Tunisia's north, the wildfires have meant lost homes, livestock and harvests.
-
-## The promise I made to Ismail al-Ghoul
-He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.
-
-## World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition
-FIFA's World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.
-
-## Police chief resigns days after deadly shooting in US city of Seattle
-Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
