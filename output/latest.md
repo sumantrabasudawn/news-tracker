@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## Top Infantino adviser quits over Fifa plan to sell stake in $20bn commercial arm
-Former Goldman Sachs banker Carlos Cordeiro exits as world football body vows to press ahead with scheme
+## US nuclear reactor company Westinghouse files for IPO
+Brookfield-owned company plots listing nine years after cost overruns forced it into bankruptcy protection
 
-## Rising Eurozone inflation keeps rate rise on the table
-The ECB is likely to act again in September amid still-high energy costs
+## Fed dissenters warn of challenges in taming inflation
+Three rate-setters rebelled against US central bank’s majority decision to hold rates steady this week
 
-## South Korean stock market soars 18% as investors pile back into AI
-Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally
+## Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July
+Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’
 
-## Ares secures biggest flagship credit fund commitments in three years
-Equity commitments from investors to private credit group up more than 40% from a year ago
+## How Wall Street’s litigators finally became superstar lawyers
+Gibson Dunn’s move on a group of Wachtell litigation partners has expanded the law firms’ talent war beyond dealmakers
 
-## Coal back in favour as US plant bidding war highlights rising demand to power AI
-Top utility fought ‘aggressively’ to outbid data centre developer for control of West Virginia facility
+## Burnham says Infantino is ‘wrong man’ to lead Fifa after stake-sale plan
+UK prime minister’s intervention raises pressure on Fifa president after resignation of a top adviser
+
+## ‘Total devastation’: Suffolk confronts aftermath of unprecedented wildfire
+Homeowners and holidaymakers affected as flames sweep across heathland and approach nuclear power plant
+
+## Israel’s far right urges Netanyahu to reject Trump’s Gaza plan
+Prime minister has not yet commented on US president’s claim that Hamas has agreed to disarm
 
 ## Spain says 49,000 migrants entered Ceuta enclave in one day
 Record influx into North African territory is nearly five times higher than at peak of Europe’s 2015 migration crisis
 
-## Eurozone inflation rises to 2.9% in July
-Energy shock will keep ECB on alert ahead of September rate decision
+## Data centres vs housing: how London became a central battleground
+The city has become the largest hub for AI power centres across Europe, competing with homes for energy, space and water. Its priorities are being called into question
 
-## Bank of Japan holds rates with hawkish guidance
-New forecasts show the central bank to be more confident about activity and inflation
+## FirstFT: The fight for football’s future
+Also in today’s newsletter: Citadel bails out Situational Awareness and Claude hacks three organisations
 
-## BP puts its UK North Sea business up for sale
-Decision to market assets comes after talks with Ithaca Energy
+## Universal Music shares plunge by a quarter on streaming growth fears
+Potential impact of AI-generated songs also weighs on the world’s largest music group
 
-## Rhine drought strands ships and forces German production shutdowns
-Water level of crucial trade river has fallen to match 2018 record low after extreme heatwaves
+## Chevron and Exxon earnings soar as Trump threatens price interventions
+Rise in profits comes amid increasing political scrutiny ahead of US midterm elections
 
-## Taylor Wimpey cuts shareholder returns as weak housing market squeezes builders
-UK housebuilder also pares guidance for home completions amid subdued sales
+## South Korean stock market soars 18% as investors pile back into AI
+Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally
 
-## NatWest chief resists calls for tax rises on banks
-Bumper profits from the sector fuel demands for higher UK levies
+## Shree Cement Q1 profit declines 17.48%, revenue rises to ₹6,233 cr
+The company had posted a net profit of ₹643.66 crore in the April-June period a year ago
 
-## Mayoral scrutiny is a pressing issue
-As Burnham devolves power, remember much of the country lacks Manchester’s media ecosystem
+## PFO clears claim settlement backlog, targets same-day or 2-day disposal of fresh claims: CPFC
+Krishnamurthy said EPFO's new employment schemes and ongoing reforms are focused on providing world-class member services while simplifying compliance for employers
 
-## Please defer August 3 meeting: Karnataka CM Shivakumar appeals to Tamil Nadu CM Vijay following Cauvery protests
-His appeal came amid widespread protests across Karnataka, particularly in Mandya, where demonstrators tore posters of Vijay's recently released film Jananayagan and forced theatres at some places to halt its screening.
+## Global wheat output may drop 24 million tonnes next season on Iran war, El Nino impacts
+The global wheat market balance in 2026-27 could become a little worrisome in the 2027-28 season, say analysts
 
-## K Rajaraman gets extension as IFSCA chief till October 2028
-Rajaraman’s extension is aimed at ensuring continuity at the helm as the regulator works towards strengthening the International Financial Services Centre ecosystem at GIFT City
+## India's April-June fiscal deficit at 18.2% of 2026/27 target
+Fiscal deficit in April-June stands at ₹3.1 lakh crore
 
-## Bajaj Finserv’s Q1FY27 consolidated net profit attributable to owners up 12% at ₹3,132 cr
-BFS to enter re-insurance business
+## India’s monsoon narrows deficit after 1% surplus in July, IMD predicts ‘below normal’ rain in August
+However, the Indian Ocean Dipole could turn positive in September, negating the adverse impact of the El Nino on the monsoon, say experts
 
-## Q1 Results Today Live: Bajaj Finserv, Sun Pharma, GAIL, Dixon Tech, Aether Q1 profit rise, Urban Company logs Q1 loss, Maruti Suzuki, ITC, IOC, Glenmark to announce Q1 results
-Q1 Results Today, 31st July 2026 Live Updates: Stay tuned for more from businessline
+## RBI asks banks to install fake currency detection machines at branches along international borders
+RBI says all banknotes received by the bank to be examined for authenticity through machines, counterfeit notes should be impounded in all cases, and in no case the counterfeit note shall be returned to the tenderer or destroyed at the bank
 
-## Most Australian teens still on social media three months after under-16 ban began: Study
-Before ‌the ban, nearly 86% of children surveyed reported using at least one age-restricted platform. Three months later, that figure remained above 81%, the report said.
+## Manipal Health Enterprises IPO subscribed 5x so far on closing day
+The IPO comprises a fresh issue of equity shares worth up to ₹8,000 crore and an offer for sale of up to 2.16 crore equity shares by existing shareholders
 
-## Sensex today | Stock Market Live: Markets end with marginal gains; Sensex up 166 pts, Nifty rises 66 pts to 24,383; Bajaj Finance, Bajaj Finserv, M&M top gainers
-Sensex, Nifty, Stock Price Live Updates: Indian benchmark indices extended gains on Thursday, supported by a Wall Street-led technology rally, strong foreign investor inflows and easing crude oil prices. Positive Asian markets and favourable derivatives positioning reinforced sentiment, keeping the 
+## West Asia conflict: India’s Q1 FY27 crude oil import bill hits all-time high of $50 billion
+One of the reasons behind the higher value in US Dollars is due to weaker Indian Rupee. India had procured a similar quantity in Q1 FY23 for around $47.88 billion.
 
-## Moody's assigns Baa2 rating to RBL Bank
-The outlook for the bank is ‘stable’ and incorporates strong affiliate support from Emirates NBD Bank, its largest shareholder
+## India to get plastic notes soon: Why the move is important - explained
+RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
 
-## Air India to study use of electric air taxis for healthcare deliveries
-Airline signs MoU with SkyDrive and Suzuki to assess feasibility of eVTOL-based medical logistics in India
+## ‘Samudra Manthan’: Cabinet approves Rs 84,084 cr scheme for oil & gas exploration - top things to know
+The scheme will be implemented through FY2030-31 with an aim to harness India's vast offshore energy resources - in what the government has termed as a modern day Samudra Manthan.
+
+## PM Surya Sarovar Yojana: Cabinet approves Rs 5,070 crore scheme for floating solar projects
+The scheme has been approved for a period of 5 years. It will support up to Rs 1 crore per MW under the scheme with total outlay of Rs 5070 crore.
 
 ## Markets end slightly higher; Sensex gains 166 points, Nifty closes above 24,380
 
@@ -78,62 +87,62 @@ A belated return can still be filed within nine months from the end of the relev
 ## Seeking job in US? Trump weighs $100,000 work permit fee from foreign graduates
 The Trump administration is considering a $100,000 fee for international students' work permits. This proposed charge would impact the Optional Practical Training program significantly. US universities and tech firms could face substantial repercussions from this policy change. The Department of Hom
 
-## Mileage drop due to E20? 2-6%, says 1 minister, 3-5%, says another
-Government ministries have offered varied figures regarding fuel efficiency changes. Older vehicles using E20 fuel may see a slight mileage reduction. The Road Transport Ministry cited a 2-6% potential decrease in efficiency. The Petroleum Ministry indicated a general reduction of about 3-5%. Both m
+## 'Not too late, HC will ensure justice': Tahir Hussain on life term in Ankit Sharma murder case
+The Delhi Police argued for the death penalty, describing the killing of Ankit Sharma as "exceptionally brutal" and "cold-blooded".
 
-## AI labs proving why IT companies still matter: Infosys CEO Salil Parekh
-Salil Parekh led Infosys to double revenue and secure significant large deals. He focused on disciplined execution and a stable company culture. Infosys sees AI services as a substantial long-term growth opportunity. The company's strong client relationships provide a natural advantage. Internal lea
+## 'BJP goons, not students, attacked police': Dipke expresses sympathy for Delhi cops injured during Jantar Mantar protest
+Abhijeet Dipke said that brutality on police was not done by student protestors, but by goons sent by BJP.
 
-## Formal retail credit access doubles over past decade
-Formal retail credit penetration in India more than doubled over the past decade. Consumption-led lending, including personal loans, drove this significant growth. Credit access expanded to younger borrowers and women across India. Northern and central states saw increased credit activity, while wes
+## Badrinath donation theft: Cash recovered as SIT says accused admitted to crime
+Badrinath SHO Mahadev Uniyal said the recoveries were made from the accommodation allotted to Nautiyal at Badrinath Dham
+
+## Shivakumar postpones meeting with Vijay amid protests over Cauvery water sharing
+Farmers and Kannada outfits have staged protests against the direction to release 3,500 cusecs of water daily to Tamil Nadu for 15 days
+
+## Rajasthan govt revises blood donation guidelines, raises government share to 50%
+Government blood centres will now collect 50% of blood units at voluntary donation camps in Rajasthan, up from 20%, under revised state guidelines.
+
+## Delhi riots: Ex-AAP councillor Tahir Hussain gets life term in IB official Ankit Sharma murder case
+The order was pronounced by additional sessions judge Parveen Singh of the Karkardooma courts.
+
+## 'Students will win, mafia will lose': Raghav Chadha backs anti-paper leak Bill. Read full Parliament speech
+Chadha argued that the new legislation would introduce India's first comprehensive anti-paper leak framework with stricter punishments.
 
 ## 'Punish miscreants, free students after verification': Wife of Delhi cop injured during Jantar Mantar protest
 Family members of Delhi police personnel injured in the July 20 parliament march, organised by the CJP, held a press conference in Delhi on Friday.
 
-## Maharashtra court cites doubtful evidence, acquits 3 in cattle slaughter case
-The court pointed to material contradictions in the evidence of the prosecution witnesses regarding the collection of the seized meat samples
-
-## ED raids 30+ locations in Jharkhand, identifies ₹600 crore assets in illegal coal case: Reports
-ED searched over 30 locations in Jharkhand, froze ₹160 crore in mutual funds, seized ₹1.02 crore cash and traced suspected assets worth ₹600 crore.
-
-## 'Donation thief, step down': Rahul joins Pappu Yadav's Ram Temple 'chanda' theft skit in Parliament premises | Watch
-Dressed in saffron robes and carrying a photograph of Lord Ram, Purnia MP Rajesh Ranjan, popularly known as Pappu Yadav, played the role of a temple priest.
-
-## Oppn steps up Ram Temple donation row; BJP accuses them of insulting faith
-The Congress and the Samajwadi Party staged a street play outside Makar Dwar, the main entrance to Parliament, depicting the alleged donation theft.
-
-## Heavy rainfall batters south, central Gujarat; ‘red alert’ in 13 districts
-According to the state government’s media statement issued on Friday noon, as many as 5,167 people had been shifted to safer locations
-
-## SC grants anticipatory bail to ex-Tamil Nadu minister Balaji in corruption case
-The Supreme Court said that Balaji was no longer a serving minister and it was unlikely he exercises any clout to influence the investigation
-
-## 'Only BJP can give self-made person like Modi': Shehzad Poonawalla after quitting party
-“The rest will only promote their children and dynasties,” he said on X.
-
-## Meghalaya’s Lakadong turmeric is in the spotlight: Is it healthier than regular haldi?
+## ‘BJP went into emergency mode after Rahul Gandhi’s attack’: Gaurav Gogoi
 
 
-## 3 die of electrocution amid heavy rain in Gujarat’s Navsari, 2000 residents evacuated
+## No tridents, hockey sticks, communal slogans or liquor: Rajasthan police SOP for kanwarias
 
 
-## Arjun Kapoor on losing 70 kgs, battle with obesity, and why therapy ‘is non-negotiable’
+## Look who’s calling? In the digital age, Indians need a ‘right to know the contactor’
 
 
-## Bengaluru woman alleges Rs 2.5 crore fraud by self-styled godman; case registered
+## Man loses Rs 1.64 lakh in online ‘fraud’, bank ordered to refund amount, pay Rs 25,000
 
 
-## Indian missions facilitated 1.4 lakh citizens’ return amid US-Iran war: Centre
+## India’s monsoon hits halfway mark: Why July witnessed prolonged wet and dry spells
 
 
-## Gauahar Khan reacts as ex Kushal Tandon kisses husband Zaid Darbar on Alliance
+## The outreach to Dipke: How the two Senas played CJP agitation differently
 
 
-## Woman gets stuck in Tamil Nadu’s Moksha Margam; video goes viral
+## ‘The world turned its back’: Nadia Hashimi on Afghanistan, resistance and City of Widows
 
 
-## Ram Gopal Varma compares Bollywood, South cinema: ‘Hindi films have accountability, discipline’
+## 4 gut health tests that are often overlooked
 
+
+## Hang Lung profit falls as property losses and weak offices offset record mall rents
+Hong Kong developer Hang Lung Properties’ underlying profit fell in the first half as losses from property sales, higher finance costs and a weak mainland China office market offset record rental income from its shopping malls. Underlying net profit declined 10 per cent from a year earlier to HK$1.4
+
+## OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%
+In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GPT-5.6 model line-up by up to 80 per cent. In a post on social media platform X on Thursday, OpenAI C
+
+## 30% of owners looking to sell Hong Kong luxury homes willing to lower prices: agents
+Celebrities including Chow Yun-fat, Stephen Fung Tak-lun and William Chan Wai-ting slashed prices before selling luxury properties recently, with property agents saying secondary luxury home trading will continue to slow in the short term, with prices up to 10 per cent lower. The asking price for Ho
 
 ## Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model
 Chinese AI firm MiniMax has launched H3, its newest multimodal video generation model, pledging to break closed-source “dominance” through open weights and competitive pricing – as rival ByteDance rolls out its latest Seedance 2.5 model. H3 was currently the world’s most powerful AI model in video e
@@ -150,14 +159,8 @@ China’s cross-border payment system is reshaping how Mongolian banks move mone
 ## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
 RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
-## China’s Xiaomi takes aim at Tesla, staking 23% lower price on premium SUV
-Xiaomi, one of Tesla’s biggest challengers in mainland China over the past year, has priced its newest cars at a 23 per cent discount to the US carmaker’s Model Y L SUV amid intensified competition in the country’s premium electric vehicle (EV) segment. Beijing-based Xiaomi announced on Thursday tha
-
-## Politburo meeting boosts confidence that Beijing will support troubled stock markets
-China’s Politburo meeting has stoked speculation about more policy support for the country’s stock markets after the first leg of state buying stopped short of stemming a decline that drove technology shares to their biggest-ever monthly slide. The economic-policy huddle, chaired by President Xi Jin
-
-## Elite company: the listed firms that were China’s most valuable before CXMT
-After soaring 466 per cent in its Shanghai trading debut on Monday, ChangXin Memory Technologies (CXMT) became the most valuable company on mainland China’s stock market – the first semiconductor firm to hold the top spot in the market’s 35-year history. The state-backed maker of memory chips saw it
+## U.S. Boat Strike Campaign Is Shrouded in Secrecy
+The Trump administration has shared few details and little evidence.
 
 ## Germany Is Much More Socially Conservative Than You Think
 What a recent scandal reveals about the country’s political culture.
@@ -179,9 +182,6 @@ Iraq’s new prime minister faces a familiar challenge in confronting Iran-backe
 
 ## Why Energy Prices Didn’t Soar Higher This Year
 Daniel Yergin on China’s surprising role as a shock absorber.
-
-## Trump Has Weakened America’s Sanctions Weapon
-The administration’s inconsistency has undermined a key tool of U.S. foreign policy.
 
 ## Why the Bangsamoro Peace Process Still Depends on Trust
 Elections set for September 14 will mark an important step forward, but the peace process will continue for long after the ballots have been counted.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66
-Franco Baresi, who won the World Cup with Italy and was regarded as one of football's finest defenders, dies aged 66.
+## Approval for China’s mega embassy in London was lawful, UK court rules
+The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.
 
-## AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals
-FIFA face global mutiny as Asian Football Confederation stand with Europe and North America after their boycott threats.
+## Inside Barcelona’s most sweltering neighbourhood: El Raval
+Densely packed apartments, low incomes, lack of tree cover and poor housing put migrant heart of the capital at risk.
 
-## FIFA World Cup plan fallout: Infantino’s senior adviser, Cordeiro, resigns
-Pressure is growing on FIFA and its president Gianni Infantino following proposals for private investment in World Cups.
+## Second day of Spain – Morocco border clashes amid mass migrant influx
+Second day of Spain - Morocco border clashes amid mass migrant influx.
 
-## At least 11, including children, injured in Israeli raids near Nablus
-Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.
+## ‘Migrant tsunami’: Second day of Spain – Morocco border clashes
+'Migrant tsunami': Second day of Spain - Morocco border clashes.
 
-## Her mother said no to a phone. Then came the Gaza genocide
-As the world debated social media use, Eman Lulu's phone became a lifeline and a window into Gaza for millions.
+## Russia’s Africa Corps killed Mali civilians in air strike: HRW
+Russian paramilitaries fight alongside Malian soldiers battling multiple armed groups linked to al-Qaeda and ISIL.
 
-## IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events
-Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.
+## Gaza Board of Peace announces Hamas disarmament agreement: What we know
+Under the agreement, Israel would have to withdraw from Gaza. But Palestinians remain sceptical.
 
-## Hamas agrees to phased disarmament in Gaza
-Hamas has agreed to gradually disarm in Gaza as part of Donald Trump’s 20-point peace plan.
+## Palestinians in Gaza are sceptical about the latest peace plan
+Palestinians in Gaza are sceptical of the latest peace plan, questioning whether it will bring lasting change.
 
-## Israeli forces blow up structures near Lebanon’s Beaufort Castle
-Israel claims army blew up Hezbollah tunnels in southern Lebanon, amid reports of blasts near UNESCO-listed fortress.
+## Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco
+Regional leader says 60,000 crossed into Ceuta by land and sea as EU chief calls situation 'unacceptable'.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
