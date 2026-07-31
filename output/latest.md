@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Labour holds Greater Manchester mayoralty vacated by Andy Burnham
+Council leader Bev Craig beats the Reform UK candidate in a second-round run-off
+
+## Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout
+Investors say the hedge fund deal reassured jittery traders in tech stocks
+
+## Amazon completes $50bn investment in OpenAI
+Ecommerce giant has roughly 5% stake in AI lab after equity deal
+
 ## KKR nears over $4bn deal to buy medical device maker Integer Holdings
 Healthcare company has been targeted by activist hedge fund established by an Elliott Management alumnus
 
@@ -18,12 +27,6 @@ Chancellor to stick to Labour’s fiscal rules while moving ‘power and money o
 ## Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July
 Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’
 
-## Fifa insiders turn on Infantino over controversial $20bn investment plan
-Interventions by two senior officials deepen crisis over president’s plan to create new commercial venture and sell 20% stake
-
-## Spain’s prime minister condemns influx of 60,000 migrants
-Mass arrival at enclave of Ceuta is ‘violation of . . . territorial integrity’, says Pedro Sánchez
-
 ## NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars
 Deal would land amid consolidation wave sweeping semiconductors as they position for AI revolution
 
@@ -32,12 +35,6 @@ Retailer seems to have shrugged off effects of cyber attack
 
 ## Stockpickers: Restore, Rio Tinto, Unite Group
 Our experts discuss which companies to buy, sell or hold this week
-
-## South Korean stock market soars 18% as investors pile back into AI
-Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally
-
-## Abu Dhabi abandons bid to build global oil benchmark
-Adnoc returns to pricing its crude against the Dubai benchmark after Iran war exposes problems with Murban futures
 
 ## Modi in new video: I and my late mother were abused at Jantar Mantar, but I forgive these children
 The Prime Minister urged compassion, saying young protesters should be counselled and encouraged to learn instead of facing legal action
@@ -135,6 +132,9 @@ China’s cross-border payment system is reshaping how Mongolian banks move mone
 ## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
 RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
+## France’s Wildfires Are Swallowing Its Politics
+The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
+
 ## Spain Records Unprecedented Migrant Crossing
 Some 60,000 people from Morocco surged into the Spanish exclave of Ceuta.
 
@@ -155,9 +155,6 @@ Hidden behind two centuries of aggressive presidential corollaries is an endurin
 
 ## The Myth of African Heterosexual Purity
 An explosive novel probes the roots of homophobia in Senegal, where a chilling anti-LGBTQ+ law just passed.
-
-## What in the World?
-Test yourself on the week of July 25: India’s Cockroach movement gets a win, Burnham receives his first foreign leader, and Peru inaugurates a new president.
 
 ## Safeguarding Children Online: Beyond Singapore’s Social Media Ban Debate
 Singapore might consider championing a roadmap of “supported autonomy.”
@@ -231,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli settlers vandalise Palestinian cemetery in West Bank
+Israeli settlers vandalise Palestinian cemetery in West Bank
+
+## US Senate’s Fauci hearing renews COVID origin debate but reveals little
+Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.
+
+## Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
+Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit.
+
 ## Children face higher threat of US deportation as legal support deal expires
 Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.
 
@@ -245,15 +251,6 @@ Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Co
 
 ## At least 25 people killed, dozens injured in Algeria bus crash
 At least 25 people have been killed and dozens others injured in a bus crash in Algeria.
-
-## Does FIFA need private investment?
-The world football body is facing growing backlash after its proposal to sell a stake in its top events.
-
-## Algerian bus plunges into ravine killing at least 27
-Dozens also injured in accident outside the country's capital Algiers.
-
-## ‘Strategic partner’: Peru’s Fujimori plans to intensify ties with the US
-Peru's newly inaugurated president indicates her government will join Trump's Shield of the Americas coalition.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
