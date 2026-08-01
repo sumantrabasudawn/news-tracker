@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Labour has harmed universities as much as Trump, London School of Economics head says
+LSE vice-chancellor Larry Kramer points to domestic students’ fees, limits on international students and rise in employers’ national insurance
+
+## Massive US tungsten discovery could run into Nasa roadblock
+Miner may have found America’s largest deposit of crucial defence metal but space agency is blocking development
+
 ## Sánchez hits out at EU leaders over criticism of Spain’s migrant crisis
 Prime minister calls for meeting of bloc’s home affairs ministers as tensions over immigration policy mount
 
@@ -12,17 +18,11 @@ Daily trades jump in July as FTSE 100 hits record high
 ## Greece’s island fires expose risks of tourism boom
 Wildfire on Paros that started in a saturated landfill leads to mayor’s arrest
 
-## Labour has harmed universities as much as Trump, London School of Economics head says
-LSE vice-chancellor Larry Kramer points to domestic student fees freeze, international student limits and rise in employers’ national insurance
-
 ## Abhijeet Dipke, the face of India’s victorious ‘cockroach’ protests
 The campaign he started online while completing a master’s degree galvanised millions to take to the streets
 
 ## Higher earners warned over taper tax trap on pensions
 Surge in savers hit by pension tax charges due to complex rules, say wealth managers
-
-## Venezuela divided over US-brokered election talks
-Opposition leaders refuse to join negotiations and government hardliners burn US flags
 
 ## Special edition: Wall Street’s wild week
 Inside the tumult at Situational Awareness and Fifa abandons its World Cup deal
@@ -42,32 +42,32 @@ US dairies are boosting whey production to meet surging protein demand. Now they
 ## How the West End’s landlords are preparing London for Saudi summers
 Redesign of the capital’s squares and buildings for a future of more heat and floods
 
-## AI’s ‘cookie banner’ moment: EU labels come for the bots
-New regulations require companies to label chatbots, deepfakes and AI-generated marketing material
+## Centre reviews pilot recruitment rules to make entry easier for new airlines
+MoCA to review notice periods, NOC requirements, DGCA staffing norms and airport slot allocation as part of broader market entry reforms
 
-## Tamil Nadu Industries Minister S. Keerthana reviews Budget Demand for Grants for FY27
-Tamil Nadu reviewed industrial investment priorities and development projects to accelerate manufacturing growth, attract investments and create more employment opportunities.
+## Mutual Funds returns
+As on : Aug 01, 2026
 
-## Sundaram Home Finance hikes interest rates for fixed deposits
-Interest rate hiked 0.25% to 7.25% for 3 year deposits and to 7.40% for 4 and 5 year deposits for regular category
+## Adani Total Gas raises CNG prices by ₹4 per kg amid rising LNG costs
+Rising fuel procurement costs and global supply disruptions have pushed up CNG prices despite continued strong demand across city gas networks.
 
-## Muthoot Finance announces leadership succession: Names Alexander George as MD
-Muthoot Finance has unveiled a leadership transition as it prepares for its next growth phase after achieving record business milestones
+## India eyes Rwanda’s critical minerals as both sides expand trade agenda
+Both sides noted that the MoU between the health authorities of the two countries is at an advanced stage of finalisation for signature
 
-## Q1 Results Today Live: Divis Laboratories, Muthoot Finance, APL Apollo Tubes, Gujarat Ambuja Exports, Clean Science & Technology to announce Q1 results
-Q1 Results Today, 01st August 2026 Live Updates: Follow BusinessLine's live coverage of Q1 FY27 earnings on August 1, 2026. Stay updated with the latest financial results, key announcements, earnings highlights and market reaction from companies scheduled to report their June quarter performance tod
+## UPI transactions reach record high of ₹29.9 lakh cr in July
+UPI transactions touched a record high of ₹29.9 lakh crore in May 2026
 
-## Kia India July sales up 27.4% at 28,200 units
-This marks Kia India's best-ever July wholesale performance since inception, the company said in a statement
+## Renewable generation in July cuts coal's share in power mix to 1-year low
+Renewable power in India rose to 20% of the energy mix, totaling 36.25 billion kWh in July, a 30% increase from last year
 
-## Coal India production rises 8% to 50.36 MT in July
-"Coal India Ltd recorded a robust operational performance in July 26-27, registering an 8.44% growth in coal production," it said in a statement
+## Shipki La border trade between India and China restarts after six years
+Historic barter trade resumes via the Himalayan border crossing, reviving commercial activity and strengthening livelihoods in remote frontier communities
 
-## Voda Idea gets ₹26.8 cr DoT notice for alleged default in spectrum-related rollout obligations
-The violation pertains to network rollout obligations as specified under the Notice Inviting Applications 2022 (the bid document), which needs to be complied with once the spectrum is assigned
+## Odisha's export can reach $50 billion by FY 2029-30: Study
+Odisha’s merchandise exports reached $10.8 billion in FY 2025-26, accounting for 2.4% of India’s total exports
 
-## Muthoot Finance Q1 profit rises 25% to ₹2,550 crore; gold loan AUM jumps 44%
-Strong demand for gold-backed credit helped Muthoot Finance deliver record loan growth and double-digit profit expansion in the first quarter
+## Samudra Manthan explained: How India’s offshore oil & gas exploration scheme can be a game-changer
+The Samudra Manthan – National Offshore Exploration Scheme aims to unlock India’s offshore oil and gas potential. This will be done through large-scale seismic surveys, deepwater exploration, scientific drilling.
 
 ## Indian Oil ramps up spot crude purchases as Middle East disruptions hit supplies
 Indian Oil Corporation has significantly increased its spot crude purchases to nearly eighty-four percent. This strategic shift occurred after Middle East supply routes faced disruptions. The company also diversified imports from West Africa and Latin America. Despite higher crude costs, Indian Oil 
@@ -90,32 +90,29 @@ FIFA has withdrawn its plan to sell a stake in its commercial operations. Strong
 ## India to get plastic notes soon: Why the move is important - explained
 RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
 
-## Commercial LPG prices cut by over Rs 200: Check 19-kg cylinder rates in Delhi, Kolkata
-Commercial Liquefied Petroleum Gas cylinder prices have been reduced effective August 1. A 19 kg cylinder in Kolkata saw a Rs 209 price cut. Delhi experienced a Rs 202 reduction for the same commercial cylinder. This marks the second consecutive month of price decreases for commercial LPG. Domestic 
+## Bhiwani boxers Preeti Pawar, Jasmine Lamboria win CWG golds
+Lamboria comes from a rich boxing legacy. Her great-grandfather, Captain Hawa Singh, was one of India’s most celebrated boxers
+
+## 'We are modernising education infra': PM Modi says India committed to discrimination-free education, equal opportunity
+PM Narendra Modi said that the great spiritual leader Swami Vivekanand considered equality just as crucial as education for the nation's upliftment.
+
+## E20 petrol saved consumers nearly ₹30 per litre during crude price spike: Govt
+The clarification comes as the Centre introduced the use of E20 petrol, a move that has faced criticism from opposition parties and consumer groups.
+
+## Ahmedabad to receive CWG flag, Host Baton at Glasgow closing ceremony
+The handover will mark the formal transition to Ahmedabad for hosting the 2030 Commonwealth Games as the sporting event completes 100 years
+
+## Rahul Gandhi attacks PM Modi amid abusive video row: 'Students deserve an apology, not forgiveness'
+“He has not met a single grieving parent. He has not sat with a single student whose future was stolen by a leaked paper,” Rahul said.
+
+## 'Sacrifice personal interests, build a great nation': NSA Doval's message to youth
+Doval said India has a "window of opportunity" to build a stronger nation and urged youth to contribute by putting national interest above personal gains.
 
 ## Amit Shah presents Lokmanya Tilak Award to NSA Ajit Doval, calls him 'fearless'
 During his speech, Home Minister Amit Shah drew parallels between NSA Ajit Doval and the nationalist vision of Lokmanya Bal Gangadhar Tilak.
 
 ## Uttarakhand CM approves ₹227 crore for Haridwar Kumbh works, road upgrade and police infrastructure
 Uttarakhand CM Pushkar Singh Dhami has approved ₹227 crore for infrastructure projects, including Kumbh Mela preparations with ₹98.18 crore for ghats.
-
-## PM Modi inaugurates Andhra Pradesh’s Bhogapuram international airport
-The airport has been designed to handle six million passengers annually in the first phase, with a master plan to expand capacity to 40 million passengers annually
-
-## MP to host Public Transport Vision Summit 2026 in Indore
-Indore will host the pivotal Public Transport Vision Summit 2026 on September 11-12. This summit promises to unite policymakers and tech experts.
-
-## Uttarakhand CM Dhami reviews disaster preparedness during visit to NDRF battalion in Gadarpur
-During a recent visit to the NDRF battalion in Gadarpur, Uttarakhand CM Dhami highlighted the state's vulnerability to natural disasters.
-
-## ‘Modi ji, learn from Rahul’: Shehzad Poonawalla's sarcastic swipe over PM ‘not behaving like a proper dictator’ | Watch
-BJP's former spokesperson upset at PM's video in which he “forgave” the young protesters who “abused” him at recent agitation led by Cockroach Janta Party
-
-## 'Heartbeat of hope': Vande Bharat transports live donor heart 250 km in 2 hours to save a life
-Gujarat chief minister Bhupendra Patel said the donor heart was successfully transplanted into a patient at the institute, giving him a new lease of life.
-
-## Dipke questions PM Modi after his message to students who hurled abuses: ‘Is this forgiveness only for the reel?’
-PM Modi in a video said he was forgiving students who hurled abuses at him and his late mother during the Jantar Mantar protest, saying they were “misguided”
 
 ## Turnover at the top: 17 people have held title of China’s richest person in past 27 years
 Seventeen Chinese entrepreneurs have held the title of the country’s richest billionaire in the past 27 years, over four times as many as in the United States, which wealth research firm Hurun Group attributed to the “dynamism” of the Chinese market. China’s richest people – including ByteDance foun
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Is Spain being punished?
+In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave
+
+## Children run marathon to spotlight Gaza’s growing orphan crises
+Children run marathon to spotlight Gaza's growing orphan crisis
+
+## Most Australian teens still online three months after under-16 ban
+The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.
+
+## Spain says migrants leaving Ceuta after mass influx in which 67 died
+Spain’s foreign minister maintains 'the integrity of the Schengen area is absolutely guaranteed'.
+
+## Iran warns against ‘flames of war’ amid US strike threats on energy sites
+Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.
+
+## Sde Teiman walkout lays bare an Israeli military running out of trust
+Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.
+
+## Who could replace Infantino as president after FIFA World Cup crisis?
+Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?
+
 ## Vanishing forests: Why is the Philippines failing at reforestation?
 101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.
-
-## Spain says migrants in Ceuta have returned to Morocco
-Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.
-
-## Trump mimics sound of Patriot missile interceptions
-US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.
-
-## India’s Modi says he forgives students who abused him in Cockroach protests
-PM says 'misled children' need to be shown 'the right path' as his supporters dox and abuse protesters on social media.
-
-## Omani legend, US novice: Pakistan recovers bodies from Broad Peak
-Rescuers are still looking for other missing climbers swept away in an avalanche on the world's 12th largest peak.
-
-## Iran: The Making of a War
-From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.
-
-## Infantino’s World Cup crisis: UEFA has ‘lost confidence’ in FIFA leadership
-UEFA, who were the strongest opponents of FIFA's plan, slam the Gianni Infantino-led governing body despite standdown.
-
-## Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
-Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
