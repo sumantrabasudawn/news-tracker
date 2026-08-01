@@ -45,29 +45,35 @@ Redesign of the capital’s squares and buildings for a future of more heat and 
 ## AI’s ‘cookie banner’ moment: EU labels come for the bots
 New regulations require companies to label chatbots, deepfakes and AI-generated marketing material
 
-## M&M tractor sales rise 20% to 34,420 units in July
-Exports at 1,777 units, a growth of 3% from July 2025
+## Q1 Results Today Live: Divis Laboratories, Muthoot Finance, APL Apollo Tubes, Gujarat Ambuja Exports, Clean Science & Technology to announce Q1 results
+Q1 Results Today, 01st August 2026 Live Updates: Follow BusinessLine's live coverage of Q1 FY27 earnings on August 1, 2026. Stay updated with the latest financial results, key announcements, earnings highlights and market reaction from companies scheduled to report their June quarter performance tod
 
-## Hyundai Motor India July total sales hit all-time high at 75,360 units, up 25.4%
-Exports reach 21,150 units, a growth of 31.4%
+## Gross GST collection rose over 15% in July
+According to data made public on GST portal, collection from domestic sources rose over 10% to around ₹1.45 lakh crore reflecting consumption picking up
 
-## Bloomberg puts off adding Indian bonds to its global index
-Indian bonds are likely to see selling on Monday (August 3) on disappointment over the development, traders say
+## Forcas Studio taps Flipkart Minutes to deliver fashion in 20 minutes
+The fast delivery strengthens the company’s omnichannel retail strategy and expands presence across India’s rapidly growing quick commerce ecosystem
 
-## Adani Green de-risks growth strategy, shifts 4 GW renewable portfolio to AESL
-The move marks a strategic shift which will increasingly focus on building and operating renewable assets while leaving power marketing and customer aggregation to AESL
+## 182 Chandigarh University Animation & Multimedia Students Secure Jobs in Top Animation, VFX, Gaming, Digital Media & Filmmaking Studios
+182 Chandigarh University Animation & Multimedia Students Secure Jobs in Top Animation, VFX, Gaming, Digital Media & Filmmaking Studios
 
-## FCNR(B) deposit inflows robust at $36.725 billion between June 8 and July 31: RBI
-Banks have attracted massive NRI deposits under the RBI’s temporary hedging facility, boosting forex inflows and strengthening external sector confidence.
+## Tata Motors Passenger Vehicles sales rise 59% to 63,760 units in July
+International business PV sales climb to 1,149 units in July as compared to 654 units in same month last year, up 76%
 
-## BL Explainer: SEBI’s new Closing Auction Session, what investors need to know
-The move aims to strengthen price discovery, reduce the risk of end-of-day price manipulation, and ensure that benchmark prices are used for indices
+## The future of energy marketing: Lessons for India’s energy transition | Energonomics EP 20
+Join Richa Mishra and Harish Bijoor in exploring the marketing clash between fossil fuels and renewable energy in this episode of Energonomics.
 
-## Prime Minister Modi to inaugurate Bhogapuram Airport
-Around 11 am, the PM will inaugurate the airport terminal building and subsequently inspect the facility along with Governor S Abdul Nazeer and Chief Minister N Chandrababu Naidu
+## JSW MG Motor India sales up 22% at 8,158 units in July
+New energy vehicles portfolio records its highest-ever wholesale volumes in July 2026
 
-## India's total assistance to Sri Lanka exceeds $7.5 billion, boosting growing bilateral ties
-The Colombo Plan operates as an inter-governmental body, grounded in the concept of self-help and mutual cooperation to advance human capital development and foster South-South collaboration
+## FSSAI suspends license of Switz Foods
+FSSAI has asked the company to immediately cease all food business activities until it rectifies all deficiencies and comply with the rules to the satisfaction of the competent authority under the FSS Act, 2006
+
+## US crude bound for Israel for first time since 2023
+A US crude oil cargo is heading to Israel after almost three years. The Aframax tanker Captain John loaded the oil in Texas on Thursday. This shipment carries approximately 550,000 barrels of West Texas Intermediate crude. The vessel is chartered by the global trading house Vitol for this journey. T
+
+## GST collections jump 15.4% to over Rs 2.11 lakh crore in July
+India's gross Goods and Services Tax collections reached over Rs 2.11 lakh crore in July. This represents a significant 15.4 percent increase compared to the previous year. Higher revenues from both domestic transactions and imports contributed to this strong performance. The government also maintai
 
 ## PM Modi to inaugurate Rs 5,640-crore Alluri Sitarama Raju International Airport in Andhra Pradesh — See pics
 Prime Minister Narendra Modi inaugurates the Alluri Sitarama Raju International Airport on Saturday. He will also lay foundation stones for significant development projects worth over seventeen thousand nine hundred crore. The new airport is designed to handle six million passengers annually and boo
@@ -87,35 +93,32 @@ Zee shareholders approved convertible warrants for promoters, raising over three
 ## Bloomberg delays India’s bond index inclusion
 
 
-## Cybercriminals widen net as assessees rush to meet I-T return filing deadline
-Cybercriminals are targeting taxpayers during income tax return filing season. They send fake notices via WhatsApp and use cloned tax portals. These scams aim to steal banking credentials and gain device access. Attackers use malware-laden attachments and phishing websites to deceive victims. This c
+## Tehseen Poonawalla claims house arrest ahead of hunger strike over E20 petrol: ‘Nitin Gadkari is scared’
+Tehseen Poonawalla shared a series of posts on social media showing police personnel outside his residence and claimed he had been confined to his home.
 
-## ‘Domestic funds own over 20% of Indian companies, FPIs 17%’
+## Higher educational institutions must intellectually empower students: Rajasthan Governor
+Higher educational institutions must intellectually empower students: Rajasthan Governor
 
+## Suspended Badrinath Temple official ‘admits’ role in funds theft
+Police said silver coins, ornaments, Nepalese currency and cash were recovered during searches conducted.
 
-## Revenue Minister says Kerala prepared, situation under control despite rain havoc
-Revenue Minister says Kerala prepared, situation under control despite rain havoc
+## Karnataka: Rat caught ‘stealing’ gold jewellery from shop; CCTV solves mystery
+The incident that occurred earlier this week came to light after staff found that 10 rings and two chains were missing during a routine stock count, they said.
 
-## Zee's Subhash Chandra, Punit Goenka fined by SEBI, barred from markets for one year
-ZEEL has also been fined ₹3 million and barred from the securities market for two months.
+## 2,000 everyday artefacts, rare textiles go on display at Humayun Tomb
+The collection, originally housed in the Sanskriti Kendra in Anandgram, was built by OP Jain, a 97-year-old Delhi-based paper merchant
 
-## Gen Z student's PPT counter to BJP's 'Babar ki Virasat' post; Rahul Gandhi, Kejriwal, CJP come in support | Watch
-The BJP's Chhattisgarh unit had made a post comparing the state's students who make people proud and the ones who “dance on Babur's heritage”.
+## Four killed in landslides as heavy rain triggers floods across Kerala
+Four killed in landslides as heavy rain triggers floods across Kerala
 
-## Rajasthan teacher booked for abducting, raping Class 11 student during lunch break
-Rajasthan police launched a search for a government school PTI accused of abducting and raping a 16-year-old Class 11 student during lunch break.
+## EC extends electoral roll revision deadlines in Odisha, Telangana
+The SIR exercise is aimed at updating electoral rolls through extensive field verification, scrutiny of voter records and the settlement of claims
 
-## Haryana SIR : Draft electoral rolls published for all 90 assembly constituencies
-The SIR process in Haryana was carried out to ensure maximum participation, complete inclusion of eligible electors, and full transparency at every stage.
+## FIR against 3 Instagram accounts in Bengaluru for ‘offensive’ content against Rahul Gandhi
+The FIR has reportedly been filed based on a complaint by a member of the Karnataka Pradesh Congress Committee (KPCC)
 
-## Delhi court rejects govt department's plea to register FIR, upholds magistrate's order
-Delhi court rejects govt department's plea to register FIR, upholds magistrate's order
-
-## Kerala CM says govt prepared to tackle rain-related emergencies
-Kerala CM says govt prepared to tackle rain-related emergencies
-
-## Supreme Court orders DNA tests for Indians killed while serving Russian army
-The court also directed the Centre to appoint a nodal officer to help families pursue compensation claims with the Russian authorities.
+## Turnover at the top: 17 people have held title of China’s richest person in past 27 years
+Seventeen Chinese entrepreneurs have held the title of the country’s richest billionaire in the past 27 years, over four times as many as in the United States, which wealth research firm Hurun Group attributed to the “dynamism” of the Chinese market. China’s richest people – including ByteDance foun
 
 ## China cuts durian settlement to 30 minutes with first outbound e-CNY payment to Malaysia
 China has completed its first outbound digital yuan payment to Malaysia, settling a 43,000 yuan (US$6,360) shipment of fresh durian, as Beijing accelerates efforts to build a cross-border clearing network in Southeast Asia outside the Society for Worldwide Interbank Financial Telecommunication (Swif
@@ -137,9 +140,6 @@ Chinese AI firm MiniMax has launched H3, its newest multimodal video generation 
 
 ## Why Elon Musk would find it hard to decouple Tesla from China
 Elon Musk has dismissed a media report claiming electric vehicle (EV) company Tesla is considering selling its China business, even as the speculation threatens to renew scrutiny over the American carmaker’s dependence on its main manufacturing hub in Shanghai. “This has never even come up in a disc
-
-## HSBC to sell US$25b of Australian home loans to Blackstone at a loss of less than US$100m
-HSBC Holdings has agreed to sell its US$25 billion Australian home loan portfolio to a unit of Blackstone, which is expected to result in an immaterial pre-tax loss of less than US$100 million for the group by the first half of 2027, according to a stock exchange filing on Friday. The sale price was
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
@@ -237,6 +237,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push
+Asian Football Confederation says FIFA future must be 'shaped through proper consultation' after World Cup plan fallout.
+
 ## Protesters detained at rally in support of Pakistan-administered Kashmir
 Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.
 
@@ -255,11 +258,8 @@ Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel's po
 ## Liberia’s kush crisis: The hidden trade behind a generation at risk
 As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.
 
-## Russian missile attack kills three in Ukraine’s Kyiv
-Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.
-
-## US military says F-35B jet fighter crashes in California, pilot safe
-The jet went down on Friday near the Miramar airbase in San Diego.
+## Russian missile attacks kill at least nine in Ukraine’s Kyiv
+Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
