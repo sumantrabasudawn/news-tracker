@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism
+Bloc’s home affairs ministers will convene on Tuesday as tensions over immigration policy mount
+
 ## US Treasury undertakes historic intervention in yen market
 New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency
 
@@ -8,9 +11,6 @@ LSE vice-chancellor Larry Kramer points to domestic students’ fees, limits on 
 
 ## Massive US tungsten discovery could run into Nasa roadblock
 Miner may have found America’s largest deposit of crucial defence metal but space agency hinders development
-
-## Sánchez hits out at EU leaders over criticism of Spain’s migrant crisis
-Prime minister calls for meeting of bloc’s home affairs ministers as tensions over immigration policy mount
 
 ## Burnham grabs the narrative in first fortnight of power
 Labour Party overtakes Nigel Farage’s Reform UK in some polls after new prime minister finds feel-good tone
@@ -45,29 +45,32 @@ US dairies are boosting whey production to meet surging protein demand. Now they
 ## How the West End’s landlords are preparing London for Saudi summers
 Redesign of the capital’s squares and buildings for a future of more heat and floods
 
-## Q1 Results Today Live: Muthoot Finance profit up 25%, CleanMax posts ₹55-cr profit, Raymond Lifestyle Q1 loss widens to ₹22.6 cr
-Q1 Results Today, 01st August 2026 Live Updates: Follow BusinessLine's live coverage of Q1 FY27 earnings on August 1, 2026. Stay updated with the latest financial results, key announcements, earnings highlights and market reaction from companies scheduled to report their June quarter performance tod
+## Who Am I? August 2, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## F&O Strategy: Buy NTPC futures
-Stay away from this strategy, if NTPC August futures opens below ₹345 or above ₹352
+## AI’s dotcom deja vu
+The rout in Kospi index is no longer a Korea-only story and AI-theme stocks have been under pressure across markets
 
-## F&O Tracker: Bulls back in the game
-Fresh long build-up and easing FII bearishness improve the outlook
+## ICICI Prudential Flexicap: Conviction behind the flexibility
+The ₹22,500-crore fund blends conviction, flexibility and disciplined portfolio construction effectively
 
-## Crude Check: Direction unclear
-Support levels remain crucial
+## Mastering Derivatives: Revising a short call position
+The true cost of this spread is the net debit and the loss from closing the short call
 
-## Seeking shelter in myriad choices
-100 plus health insurance products in market implores one to develop a clear understanding of oneself for the right fit
+## Balrampur Chini Mills: Why investors should accumulate this stock
+As Balrampur Chini Mills is poised to morph into an integrated bio-plastics player now, the pay-offs can be significant
 
-## Bullion Cues: Support in focus
-Recovery possible from current levels
+## New fund houses deliver split return fortunes
+An analysis of schemes launched by fund houses that entered the market over the past five years reveals a mixed performance record
 
-## Tech Query: IDFC First Bank, Rail Vikas Nigam Limited (RVNL), Visaka Industries, Snowman Logistics – What is the outlook? Where are these stocks headed?
-We look at the prospects of IDFC First Bank, Rail Vikas Nigam Limited (RVNL), Visaka Industries, Snowman Logistics
+## India’s active MFs lag benchmarks, yet beat global peers
+Seven in 10 large-cap and three in four mid-cap schemes trail five-year benchmarks; small-cap schemes emerge as the relative bright spot
 
-## Bandu’s Blockbusters for August 2, 2026
-Guess the stock that will give the best return by next Friday
+## Maruti Suzuki banks on new plants, CNG push to sustain growth after record July sales
+The company expects recently commissioned plants at Hansalpur and Kharkhoda to help ease supply constraints over the next three to four months, enabling it to meet festive season demand
+
+## UPI reaches new milestone in July with highest-ever transaction value of Rs 29.88 lakh crore
+India's UPI platform achieved its highest monthly transaction value ever. In July, transaction volumes also reached a new record high. The platform processed billions of transactions, surpassing previous records. This sustained growth strengthens India's digital payment ecosystem significantly. UPI 
 
 ## Indian equities ‘probably oversold’: FIIs warm up after months of outflows
 Foreign investors are showing renewed interest in Indian equities after significant outflows. Geopolitical uncertainties and elevated oil prices continue to pose risks to the outlook. India's domestic economy demonstrates robust performance with healthy sales and credit growth. The Reserve Bank of I
@@ -90,11 +93,11 @@ India's gross Goods and Services Tax collections reached over Rs 2.11 lakh crore
 ## PM Modi to inaugurate Rs 5,640-crore Alluri Sitarama Raju International Airport in Andhra Pradesh — See pics
 Prime Minister Narendra Modi inaugurates the Alluri Sitarama Raju International Airport on Saturday. He will also lay foundation stones for significant development projects worth over seventeen thousand nine hundred crore. The new airport is designed to handle six million passengers annually and boo
 
-## FIFA abandons $4.2-billion World Cup stake sale plan after global backlash
-FIFA has withdrawn its plan to sell a stake in its commercial operations. Strong opposition from football federations led to the proposal's abandonment. FIFA President Gianni Infantino announced the decision after listening to all views. Major continental bodies like UEFA and CONCACAF rejected the p
+## 'On Aug 4, at 12 pm': Kejriwal plans march to PM's residence with '100 who don't fear jail' over E20 concerns
+The scheduled march marks the latest in a series of attacks by the AAP targeted towards the Centre's fuel-blending policy.
 
-## Abhijeet Dipke asks for PM Modi's apology over police brutality on 12-year-old kids on July 20
-Abhijeet Dipke asks for PM Modi's apology over police brutality on 12-year-old kids on July 20
+## ‘Hopefully, he will post another video’: Dipke seeks PM's apology over cops' action on '12-year-olds' during CJP protest
+Referring to PM Modi’s late-night video in which he “forgave” students for “abuses” against him, Dipke said he hoped for another video.
 
 ## Pappu Yadav faces police complaint over Parliament skit on Ram Mandir donations theft
 The complaint accused Yadav of hurting religious sentiments during the Parliament protest.
@@ -113,9 +116,6 @@ Amit Shah added Lokmanya Tilak's interpretation explained how an ordinary citize
 
 ## Tripura’s Ashmita Dey wins India’s first Commonwealth judo gold
 Ashmita’s interest in judo began when she watched one of her cousins practise the sport at the age of seven or eight
-
-## Bhiwani boxers Preeti Pawar, Jasmine Lamboria win CWG golds
-Lamboria comes from a rich boxing legacy. Her great-grandfather, Captain Hawa Singh, was one of India’s most celebrated boxers
 
 ## Turnover at the top: 17 people have held title of China’s richest person in past 27 years
 Seventeen Chinese entrepreneurs have held the title of the country’s richest billionaire in the past 27 years, over four times as many as in the United States, which wealth research firm Hurun Group attributed to the “dynamism” of the Chinese market. China’s richest people – including ByteDance foun
@@ -237,6 +237,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Moroccan rapper Mehdi El Youbi temporarily released from prison
+The outspoken artist was detained in mid-July for ‘insulting a constitutional institution'.
+
+## Israeli strikes kill four across Gaza, destroy medical supply warehouse
+Attacks kill four as Gaza Health Ministry condemns 'heinous' strike on medicine stores, days after disarmament deal.
+
+## At least 11 wounded by Colombia car bomb days before presidential election
+President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.
+
+## Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings
+Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.
+
 ## India cracks down on protesters accused of ‘abusing’ Modi
 Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.
 
@@ -248,18 +260,6 @@ Backlash to FIFA's private investment plan for World Cups and events was huge; n
 
 ## Is Spain being punished?
 In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave
-
-## Children run marathon to spotlight Gaza’s growing orphan crises
-Children run marathon to spotlight Gaza's growing orphan crisis
-
-## Most Australian teens still online three months after under-16 ban
-The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.
-
-## Spain says migrants leaving Ceuta after mass influx in which 67 died
-Spain’s foreign minister maintains 'the integrity of the Schengen area is absolutely guaranteed'.
-
-## Iran warns against ‘flames of war’ amid US strike threats on energy sites
-Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
