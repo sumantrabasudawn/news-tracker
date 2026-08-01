@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Sánchez hits out at EU leaders over criticism of Spain’s migrant crisis
+Prime minister calls for meeting of bloc’s home affairs ministers as tensions over immigration policy mount
+
 ## Burnham grabs the narrative in first fortnight of power
 Labour Party overtakes Nigel Farage’s Reform UK in some polls after new prime minister finds feel-good tone
 
@@ -20,9 +23,6 @@ Surge in savers hit by pension tax charges due to complex rules, say wealth mana
 
 ## Venezuela divided over US-brokered election talks
 Opposition leaders refuse to join negotiations and government hardliners burn US flags
-
-## Gunther von Hagens, anatomist, 1945-2026
-Nicknamed ‘Dr Death’, his Body Worlds exhibitions drew millions of visitors worldwide
 
 ## Special edition: Wall Street’s wild week
 Inside the tumult at Situational Awareness and Fifa abandons its World Cup deal
@@ -45,29 +45,29 @@ Redesign of the capital’s squares and buildings for a future of more heat and 
 ## AI’s ‘cookie banner’ moment: EU labels come for the bots
 New regulations require companies to label chatbots, deepfakes and AI-generated marketing material
 
-## Commonwealth baton passes to Ahmedabad 2030 from Glasgow on Sunday
-The Glasgow handover ceremony will showcase Ahmedabad’s 2030 Commonwealth Games with a cultural presentation highlighting India and Gujarat for the event’s 100th anniversary
+## Tamil Nadu Industries Minister S. Keerthana reviews Budget Demand for Grants for FY27
+Tamil Nadu reviewed industrial investment priorities and development projects to accelerate manufacturing growth, attract investments and create more employment opportunities.
 
-## World Lung Cancer Day: Gujarat’s lung cancer cases rise as tobacco acreage and output expand
-Lung cancer registrations continue rising while tobacco farming expands, underscoring the gap between public health concerns and agricultural production trends
+## Sundaram Home Finance hikes interest rates for fixed deposits
+Interest rate hiked 0.25% to 7.25% for 3 year deposits and to 7.40% for 4 and 5 year deposits for regular category
 
-## PM Modi inaugurates Alluri Sitarama Raju International Airport in Bhogapuram in Andhra Pradesh
-The Greenfield airport has been designed to handle 6 million passengers annually which can be scaled up to 40 million passengers
-
-## Realty industry hails govt advisory to extend project completion timeline by 4 months in view of West Asia conflict
-The ministry had received several representations from stakeholders in the real estate sector seeking relief in view of the disruptions affecting timely completion of projects
+## Muthoot Finance announces leadership succession: Names Alexander George as MD
+Muthoot Finance has unveiled a leadership transition as it prepares for its next growth phase after achieving record business milestones
 
 ## Q1 Results Today Live: Divis Laboratories, Muthoot Finance, APL Apollo Tubes, Gujarat Ambuja Exports, Clean Science & Technology to announce Q1 results
 Q1 Results Today, 01st August 2026 Live Updates: Follow BusinessLine's live coverage of Q1 FY27 earnings on August 1, 2026. Stay updated with the latest financial results, key announcements, earnings highlights and market reaction from companies scheduled to report their June quarter performance tod
 
-## WhatsApp tests ‘Offers & Updates’ folder for business chats
-The experimental feature aims to separate promotional and service-related conversations from personal chats, creating a cleaner messaging experience for users.
+## Kia India July sales up 27.4% at 28,200 units
+This marks Kia India's best-ever July wholesale performance since inception, the company said in a statement
 
-## Real-time tracking, improved services key features of proposed Maharashtra Ambulance Policy
-The citizen application will enable users to locate the nearest available ambulance, track its live location and estimated arrival time, receive preliminary guidance via video calls and check the estimated fare before booking
+## Coal India production rises 8% to 50.36 MT in July
+"Coal India Ltd recorded a robust operational performance in July 26-27, registering an 8.44% growth in coal production," it said in a statement
 
-## Maharashtra extends PMFBY enrolment deadline to Aug 10; 61.82 lakh farmers registered so far
-The extension was granted because some farmers faced technical issues, pending documentation, and personal reasons, Bharane stated
+## Voda Idea gets ₹26.8 cr DoT notice for alleged default in spectrum-related rollout obligations
+The violation pertains to network rollout obligations as specified under the Notice Inviting Applications 2022 (the bid document), which needs to be complied with once the spectrum is assigned
+
+## Muthoot Finance Q1 profit rises 25% to ₹2,550 crore; gold loan AUM jumps 44%
+Strong demand for gold-backed credit helped Muthoot Finance deliver record loan growth and double-digit profit expansion in the first quarter
 
 ## Indian Oil ramps up spot crude purchases as Middle East disruptions hit supplies
 Indian Oil Corporation has significantly increased its spot crude purchases to nearly eighty-four percent. This strategic shift occurred after Middle East supply routes faced disruptions. The company also diversified imports from West Africa and Latin America. Despite higher crude costs, Indian Oil 
@@ -93,29 +93,29 @@ RBI has already floated the tender to source materials for the polymer notes wit
 ## Commercial LPG prices cut by over Rs 200: Check 19-kg cylinder rates in Delhi, Kolkata
 Commercial Liquefied Petroleum Gas cylinder prices have been reduced effective August 1. A 19 kg cylinder in Kolkata saw a Rs 209 price cut. Delhi experienced a Rs 202 reduction for the same commercial cylinder. This marks the second consecutive month of price decreases for commercial LPG. Domestic 
 
+## Amit Shah presents Lokmanya Tilak Award to NSA Ajit Doval, calls him 'fearless'
+During his speech, Home Minister Amit Shah drew parallels between NSA Ajit Doval and the nationalist vision of Lokmanya Bal Gangadhar Tilak.
+
+## Uttarakhand CM approves ₹227 crore for Haridwar Kumbh works, road upgrade and police infrastructure
+Uttarakhand CM Pushkar Singh Dhami has approved ₹227 crore for infrastructure projects, including Kumbh Mela preparations with ₹98.18 crore for ghats.
+
+## PM Modi inaugurates Andhra Pradesh’s Bhogapuram international airport
+The airport has been designed to handle six million passengers annually in the first phase, with a master plan to expand capacity to 40 million passengers annually
+
+## MP to host Public Transport Vision Summit 2026 in Indore
+Indore will host the pivotal Public Transport Vision Summit 2026 on September 11-12. This summit promises to unite policymakers and tech experts.
+
+## Uttarakhand CM Dhami reviews disaster preparedness during visit to NDRF battalion in Gadarpur
+During a recent visit to the NDRF battalion in Gadarpur, Uttarakhand CM Dhami highlighted the state's vulnerability to natural disasters.
+
+## ‘Modi ji, learn from Rahul’: Shehzad Poonawalla's sarcastic swipe over PM ‘not behaving like a proper dictator’ | Watch
+BJP's former spokesperson upset at PM's video in which he “forgave” the young protesters who “abused” him at recent agitation led by Cockroach Janta Party
+
 ## 'Heartbeat of hope': Vande Bharat transports live donor heart 250 km in 2 hours to save a life
 Gujarat chief minister Bhupendra Patel said the donor heart was successfully transplanted into a patient at the institute, giving him a new lease of life.
 
 ## Dipke questions PM Modi after his message to students who hurled abuses: ‘Is this forgiveness only for the reel?’
 PM Modi in a video said he was forgiving students who hurled abuses at him and his late mother during the Jantar Mantar protest, saying they were “misguided”
-
-## Army bids final farewell to Gen Sharma with full military honours
-Army bids final farewell to Gen Sharma with full military honours
-
-## Govt advisory for relief to builders: How a war in West Asia is pushing construction costs higher across India
-India doesn't buy much construction material from the conflict zone. The war still ended up in cement and steel prices. Here's the route.
-
-## Operation Sindoor planner Vice Admiral AN Pramod takes over as Navy deputy chief
-As DGNO, he was closely involved in the planning, preparedness, and operational readiness of the Indian Navy during Operation Sindoor
-
-## Dissenters like Umar Khalid jailed, killers walk free: Ex-Delhi HC judge
-“One of the most publicised detentions has been that of Umar Khalid. He has been under trial for seven years while some of the worst kind of offenders”
-
-## Dehradun teacher dowry death: Husband, sister-in-law arrested amid outrage
-Police arrested government school teacher's husband and sister-in-law after a video allegedly detailing dowry harassment surfaced before her death in Dehradun.
-
-## CJP's Abhijeet Dipke falls sick days after Delhi protests; doctors to examine him
-During the protests at Jantar Mantar in New Delhi, Dipke on July 25 said he had been diagnosed with typhoid.
 
 ## Turnover at the top: 17 people have held title of China’s richest person in past 27 years
 Seventeen Chinese entrepreneurs have held the title of the country’s richest billionaire in the past 27 years, over four times as many as in the United States, which wealth research firm Hurun Group attributed to the “dynamism” of the Chinese market. China’s richest people – including ByteDance foun
@@ -237,6 +237,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Vanishing forests: Why is the Philippines failing at reforestation?
+101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.
+
+## Spain says migrants in Ceuta have returned to Morocco
+Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.
+
+## Trump mimics sound of Patriot missile interceptions
+US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.
+
+## India’s Modi says he forgives students who abused him in Cockroach protests
+PM says 'misled children' need to be shown 'the right path' as his supporters dox and abuse protesters on social media.
+
 ## Omani legend, US novice: Pakistan recovers bodies from Broad Peak
 Rescuers are still looking for other missing climbers swept away in an avalanche on the world's 12th largest peak.
 
@@ -248,18 +260,6 @@ UEFA, who were the strongest opponents of FIFA's plan, slam the Gianni Infantino
 
 ## Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
 Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
-
-## Beneath Tunisia’s silence, public anger simmers
-Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
-
-## Sri Lanka sentences two officials to death for not stopping Easter bombings
-Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.
-
-## FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push
-Asian Football Confederation says FIFA future must be 'shaped through proper consultation' after World Cup plan fallout.
-
-## Protesters detained at rally in support of Pakistan-administered Kashmir
-Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
