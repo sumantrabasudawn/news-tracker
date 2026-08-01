@@ -69,6 +69,15 @@ Seven in 10 large-cap and three in four mid-cap schemes trail five-year benchmar
 ## Maruti Suzuki banks on new plants, CNG push to sustain growth after record July sales
 The company expects recently commissioned plants at Hansalpur and Kharkhoda to help ease supply constraints over the next three to four months, enabling it to meet festive season demand
 
+## Zepto to raise funds amid delayed listing
+
+
+## 5.9 crore returns filed till July 31 deadline: I-T dept
+Nearly 5.9 crore income tax returns were filed by the July 31 deadline. This number is lower than last year's extended filing period. Major tax concessions were announced during the last financial year. Taxpayers can still file returns until December with a penalty. Business income filers have diffe
+
+## UPI transactions touch Rs 76cr/day, FASTag declines
+UPI processed 2,366 crore transactions in July, showing significant year-on-year growth. NETC FASTag transactions declined by 6% compared to the previous year. The value of UPI transactions rose to Rs 29.88 lakh crore in July. NETC FASTag transaction value also saw a decrease from the prior month. U
+
 ## Forex mop up under RBI's swap scheme doubles to over $40bn
 Total forex mobilization under RBI's concessional dollar swap facility has exceeded forty billion dollars. This amount more than doubled in just a fortnight, surpassing previous deposit drives. Foreign Currency Non-Resident (Bank) deposits formed the largest portion of these inflows. The facility en
 
@@ -83,15 +92,6 @@ India's UPI platform achieved its highest monthly transaction value ever. In Jul
 
 ## Indian equities ‘probably oversold’: FIIs warm up after months of outflows
 Foreign investors are showing renewed interest in Indian equities after significant outflows. Geopolitical uncertainties and elevated oil prices continue to pose risks to the outlook. India's domestic economy demonstrates robust performance with healthy sales and credit growth. The Reserve Bank of I
-
-## Samudra Manthan explained: How India’s offshore oil & gas exploration scheme can be a game-changer
-The Samudra Manthan – National Offshore Exploration Scheme aims to unlock India’s offshore oil and gas potential. This will be done through large-scale seismic surveys, deepwater exploration, scientific drilling.
-
-## Indian Oil ramps up spot crude purchases as Middle East disruptions hit supplies
-Indian Oil Corporation has significantly increased its spot crude purchases to nearly eighty-four percent. This strategic shift occurred after Middle East supply routes faced disruptions. The company also diversified imports from West Africa and Latin America. Despite higher crude costs, Indian Oil 
-
-## Forex boost: RBI's special swap facility draws $40.8 bn in foreign inflows
-Foreign exchange inflows under RBI's special swap facility reached $40.816 billion by July end. This figure nearly doubled from $20.718 billion reported just two weeks prior. FCNR(B) deposits were the primary driver, contributing $36.725 billion to the total collections. Overseas foreign currency an
 
 ## 'On Aug 4, at 12 pm': Kejriwal plans march to PM's residence with '100 who don't fear jail' over E20 concerns
 The scheduled march marks the latest in a series of attacks by the AAP targeted towards the Centre's fuel-blending policy.
@@ -237,6 +237,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?
+What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?
+
 ## Al Jazeera reports from Ceuta as migrants leave the enclave
 Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.
 
@@ -257,9 +260,6 @@ The US president pushes back after a federal prosecutor says damage caused by 'b
 
 ## Palestinian children among those detained by Israel in West Bank raids
 Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
-
-## At least three killed in explosion near cafe in Russia’s Moscow
-More than 15 people also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
