@@ -1,10 +1,13 @@
 # AION Intelligence
 
+## US Treasury undertakes historic intervention in yen market
+New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency
+
 ## Labour has harmed universities as much as Trump, London School of Economics head says
 LSE vice-chancellor Larry Kramer points to domestic students’ fees, limits on international students and rise in employers’ national insurance
 
 ## Massive US tungsten discovery could run into Nasa roadblock
-Miner may have found America’s largest deposit of crucial defence metal but space agency is blocking development
+Miner may have found America’s largest deposit of crucial defence metal but space agency hinders development
 
 ## Sánchez hits out at EU leaders over criticism of Spain’s migrant crisis
 Prime minister calls for meeting of bloc’s home affairs ministers as tensions over immigration policy mount
@@ -21,14 +24,14 @@ Wildfire on Paros that started in a saturated landfill leads to mayor’s arrest
 ## Abhijeet Dipke, the face of India’s victorious ‘cockroach’ protests
 The campaign he started online while completing a master’s degree galvanised millions to take to the streets
 
-## Higher earners warned over taper tax trap on pensions
-Surge in savers hit by pension tax charges due to complex rules, say wealth managers
-
 ## Special edition: Wall Street’s wild week
 Inside the tumult at Situational Awareness and Fifa abandons its World Cup deal
 
 ## Situational Awareness got the future right but misread the past
 Leopold Aschenbrenner thought AI-related stocks would go one way; they went the other. The mistake was funding the trades with debt
+
+## Higher earners warned over taper tax trap on pensions
+Surge in savers hit by pension tax charges due to complex rules, say wealth managers
 
 ## Is Lloyds Bank’s techie boss a secret AI contrarian?
 The possibility of consumers delegating financial tasks to agentic AI poses a new risk for lenders
@@ -42,29 +45,32 @@ US dairies are boosting whey production to meet surging protein demand. Now they
 ## How the West End’s landlords are preparing London for Saudi summers
 Redesign of the capital’s squares and buildings for a future of more heat and floods
 
-## Centre reviews pilot recruitment rules to make entry easier for new airlines
-MoCA to review notice periods, NOC requirements, DGCA staffing norms and airport slot allocation as part of broader market entry reforms
+## Q1 Results Today Live: Muthoot Finance profit up 25%, CleanMax posts ₹55-cr profit, Raymond Lifestyle Q1 loss widens to ₹22.6 cr
+Q1 Results Today, 01st August 2026 Live Updates: Follow BusinessLine's live coverage of Q1 FY27 earnings on August 1, 2026. Stay updated with the latest financial results, key announcements, earnings highlights and market reaction from companies scheduled to report their June quarter performance tod
 
-## Mutual Funds returns
-As on : Aug 01, 2026
+## F&O Strategy: Buy NTPC futures
+Stay away from this strategy, if NTPC August futures opens below ₹345 or above ₹352
 
-## Adani Total Gas raises CNG prices by ₹4 per kg amid rising LNG costs
-Rising fuel procurement costs and global supply disruptions have pushed up CNG prices despite continued strong demand across city gas networks.
+## F&O Tracker: Bulls back in the game
+Fresh long build-up and easing FII bearishness improve the outlook
 
-## India eyes Rwanda’s critical minerals as both sides expand trade agenda
-Both sides noted that the MoU between the health authorities of the two countries is at an advanced stage of finalisation for signature
+## Crude Check: Direction unclear
+Support levels remain crucial
 
-## UPI transactions reach record high of ₹29.9 lakh cr in July
-UPI transactions touched a record high of ₹29.9 lakh crore in May 2026
+## Seeking shelter in myriad choices
+100 plus health insurance products in market implores one to develop a clear understanding of oneself for the right fit
 
-## Renewable generation in July cuts coal's share in power mix to 1-year low
-Renewable power in India rose to 20% of the energy mix, totaling 36.25 billion kWh in July, a 30% increase from last year
+## Bullion Cues: Support in focus
+Recovery possible from current levels
 
-## Shipki La border trade between India and China restarts after six years
-Historic barter trade resumes via the Himalayan border crossing, reviving commercial activity and strengthening livelihoods in remote frontier communities
+## Tech Query: IDFC First Bank, Rail Vikas Nigam Limited (RVNL), Visaka Industries, Snowman Logistics – What is the outlook? Where are these stocks headed?
+We look at the prospects of IDFC First Bank, Rail Vikas Nigam Limited (RVNL), Visaka Industries, Snowman Logistics
 
-## Odisha's export can reach $50 billion by FY 2029-30: Study
-Odisha’s merchandise exports reached $10.8 billion in FY 2025-26, accounting for 2.4% of India’s total exports
+## Bandu’s Blockbusters for August 2, 2026
+Guess the stock that will give the best return by next Friday
+
+## Indian equities ‘probably oversold’: FIIs warm up after months of outflows
+Foreign investors are showing renewed interest in Indian equities after significant outflows. Geopolitical uncertainties and elevated oil prices continue to pose risks to the outlook. India's domestic economy demonstrates robust performance with healthy sales and credit growth. The Reserve Bank of I
 
 ## Samudra Manthan explained: How India’s offshore oil & gas exploration scheme can be a game-changer
 The Samudra Manthan – National Offshore Exploration Scheme aims to unlock India’s offshore oil and gas potential. This will be done through large-scale seismic surveys, deepwater exploration, scientific drilling.
@@ -87,32 +93,29 @@ Prime Minister Narendra Modi inaugurates the Alluri Sitarama Raju International 
 ## FIFA abandons $4.2-billion World Cup stake sale plan after global backlash
 FIFA has withdrawn its plan to sell a stake in its commercial operations. Strong opposition from football federations led to the proposal's abandonment. FIFA President Gianni Infantino announced the decision after listening to all views. Major continental bodies like UEFA and CONCACAF rejected the p
 
-## India to get plastic notes soon: Why the move is important - explained
-RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
+## Abhijeet Dipke asks for PM Modi's apology over police brutality on 12-year-old kids on July 20
+Abhijeet Dipke asks for PM Modi's apology over police brutality on 12-year-old kids on July 20
+
+## Pappu Yadav faces police complaint over Parliament skit on Ram Mandir donations theft
+The complaint accused Yadav of hurting religious sentiments during the Parliament protest.
+
+## Ram temple donation probe in final stage: Trust member
+Trust member Mahant Das said inquiry into the alleged irregularities involving gold, silver and other offerings made by devotees has reached its final stage.
+
+## Six dead as heavy rain batters Kerala, rescue operations continue
+Four of the deaths occurred in separate landslides in Idukki and Kottayam districts, where several others were rescued.
+
+## 'I got only five minutes': DKS says PM Modi's message more important, cuts short speech at Mysuru event
+"I don't want to waste your time. Prime Minister's message is very important for the country,” Shivakumar said.
+
+## Amit Shah urges youth to read Bhagavad Gita Rahasya: 'You'll never make mistakes in life'
+Amit Shah added Lokmanya Tilak's interpretation explained how an ordinary citizen could imbibe the principles of the Bhagavad Gita in everyday life."
+
+## Tripura’s Ashmita Dey wins India’s first Commonwealth judo gold
+Ashmita’s interest in judo began when she watched one of her cousins practise the sport at the age of seven or eight
 
 ## Bhiwani boxers Preeti Pawar, Jasmine Lamboria win CWG golds
 Lamboria comes from a rich boxing legacy. Her great-grandfather, Captain Hawa Singh, was one of India’s most celebrated boxers
-
-## 'We are modernising education infra': PM Modi says India committed to discrimination-free education, equal opportunity
-PM Narendra Modi said that the great spiritual leader Swami Vivekanand considered equality just as crucial as education for the nation's upliftment.
-
-## E20 petrol saved consumers nearly ₹30 per litre during crude price spike: Govt
-The clarification comes as the Centre introduced the use of E20 petrol, a move that has faced criticism from opposition parties and consumer groups.
-
-## Ahmedabad to receive CWG flag, Host Baton at Glasgow closing ceremony
-The handover will mark the formal transition to Ahmedabad for hosting the 2030 Commonwealth Games as the sporting event completes 100 years
-
-## Rahul Gandhi attacks PM Modi amid abusive video row: 'Students deserve an apology, not forgiveness'
-“He has not met a single grieving parent. He has not sat with a single student whose future was stolen by a leaked paper,” Rahul said.
-
-## 'Sacrifice personal interests, build a great nation': NSA Doval's message to youth
-Doval said India has a "window of opportunity" to build a stronger nation and urged youth to contribute by putting national interest above personal gains.
-
-## Amit Shah presents Lokmanya Tilak Award to NSA Ajit Doval, calls him 'fearless'
-During his speech, Home Minister Amit Shah drew parallels between NSA Ajit Doval and the nationalist vision of Lokmanya Bal Gangadhar Tilak.
-
-## Uttarakhand CM approves ₹227 crore for Haridwar Kumbh works, road upgrade and police infrastructure
-Uttarakhand CM Pushkar Singh Dhami has approved ₹227 crore for infrastructure projects, including Kumbh Mela preparations with ₹98.18 crore for ghats.
 
 ## Turnover at the top: 17 people have held title of China’s richest person in past 27 years
 Seventeen Chinese entrepreneurs have held the title of the country’s richest billionaire in the past 27 years, over four times as many as in the United States, which wealth research firm Hurun Group attributed to the “dynamism” of the Chinese market. China’s richest people – including ByteDance foun
@@ -234,6 +237,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## India cracks down on protesters accused of ‘abusing’ Modi
+Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.
+
+## Israeli strike destroys Gaza hospital warehouse
+Israeli strike destroys medical supplies warehouse at Gaza's Al-Aqsa Martyrs Hospital, staff say.
+
+## Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?
+Backlash to FIFA's private investment plan for World Cups and events was huge; now football reacts to U-turn's fallout.
+
 ## Is Spain being punished?
 In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave
 
@@ -248,15 +260,6 @@ Spain’s foreign minister maintains 'the integrity of the Schengen area is abso
 
 ## Iran warns against ‘flames of war’ amid US strike threats on energy sites
 Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.
-
-## Sde Teiman walkout lays bare an Israeli military running out of trust
-Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.
-
-## Who could replace Infantino as president after FIFA World Cup crisis?
-Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?
-
-## Vanishing forests: Why is the Philippines failing at reforestation?
-101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
