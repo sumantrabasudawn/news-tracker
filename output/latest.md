@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Trouble at lunchtime as Hong Kong private club spat escalates
+Golf and Tennis Academy members unhappy that Carlyle & Co members can now use their exclusive Town Club
+
+## Why South Korea’s won is one of world’s best performers
+Currency strengthened nearly 8% against dollar last month despite tech stock sell-off
+
 ## Trump doubles down on threat to hit Iran ‘very hard’
 US president’s remarks raise possibility Washington will launch new strikes
 
@@ -33,80 +39,83 @@ Deal would land amid consolidation wave sweeping semiconductors as they position
 ## Directors’ Deals: M&S directors cash out as shares climb
 Retailer seems to have shrugged off effects of cyber attack
 
-## Stockpickers: Restore, Rio Tinto, Unite Group
-Our experts discuss which companies to buy, sell or hold this week
+## Maharashtra’s AI advantage: Building the future of Indian agriculture
+Maharashtra has the policy framework, institutional capacity and agricultural diversity to move ahead
+
+## Commercial LPG prices drop: 19-kg cylinder rate cut by ₹202 in Delhi, ₹209 in Kolkata
+No change in domestic cylinder prices
+
+## NSE pays ₹714.74 crore demand to SEBI as part of ₹1,491.21 crore settlement
+The latest payment is in addition to a deposit of ₹776.47 crore that NSE had previously made with SEBI
+
+## US to make visa bond requirement permanent for travellers from 50 countries, mostly in Africa
+The visa bond programme becomes permanent on Monday, with the US raising the maximum bond to USD 20,000, eliminating the lowest payment tier and allowing more countries to join the list
+
+## OpenAI finds more AI agent escape incidents during Hugging Face hack investigation
+Fresh findings have intensified concerns over autonomous AI systems as regulators scrutinise safety controls at leading artificial intelligence companies.
+
+## Fed Chair Kevin Warsh proposes reducing number of Federal Reserve policy meetings: Report
+The proposal could mark the biggest operational change at the Federal Reserve in decades, altering how often policymakers communicate.
+
+## Bessent’s ‘to-do’ list says ‘Buy $5-10 billion in Japanese yen,’ Reuters photo shows
+A Reuters photograph has sparked fresh speculation over possible U.S. Treasury action after Japanese authorities intervened to support the yen
 
 ## Modi in new video: I and my late mother were abused at Jantar Mantar, but I forgive these children
 The Prime Minister urged compassion, saying young protesters should be counselled and encouraged to learn instead of facing legal action
 
-## SEBI closes proceedings against Religare Enterprises, Rashmi Saluja after Burman Group takeover
-The regulator concluded its preventive action had achieved its objective after the change in control and completion of the open offer.
-
-## Spain’s Ceuta faces migrant surge as up to 60,000 cross from Morocco; at least 57 die
-Authorities rushed security forces as thousands arrived within hours, overwhelming services and leaving dozens dead during dangerous border crossings.
-
-## SEBI bars Zee Entertainment’s Punit Goenka and Subhash Chandra for one year; imposes ₹1.48 crore penalty
-The regulator cited governance failures, undisclosed transactions and misuse of company assets while imposing penalties and market restrictions
-
-## Aadhar Housing Finance logs 19% increase in Q1FY27 net profit at ₹282 cr
-Assets Under Management increased 18% YoY to stand at ₹31,364 crore as at June-end 2026
-
-## IndiGo to end wide-body flights, London service from October-end
-The airline took the decision due to the challenging operating environment triggered by the ongoing geopolitical tensions
-
-## Pro-Kannada organisations call for statewide bandh on August 13 over Cauvery water release to Tamil Nadu
-Shivakumar has also postponed his planned August 3 meeting with Tamil Nadu Chief Minister Joseph Vijay on the issue, saying legal matters should be resolved before the two parties meet.
-
-## Honda emerges as largest two-wheeler retailer; ends Hero’s six-month run
-Honda Motorcycle & Scooter India overtakes Hero MotoCorp in July as industry registrations rise 22.3% year-on-year despite a seasonal moderation from June
+## FIFA abandons $4.2-billion World Cup stake sale plan after global backlash
+FIFA has withdrawn its plan to sell a stake in its commercial operations. Strong opposition from football federations led to the proposal's abandonment. FIFA President Gianni Infantino announced the decision after listening to all views. Major continental bodies like UEFA and CONCACAF rejected the p
 
 ## India to get plastic notes soon: Why the move is important - explained
 RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
 
-## Moody’s assigns Baa2 rating to RBL Bank, 1st for lender
+## Commercial LPG prices cut by over Rs 200: Check 19-kg cylinder rates in Delhi, Kolkata
+Commercial Liquefied Petroleum Gas cylinder prices have been reduced effective August 1. A 19 kg cylinder in Kolkata saw a Rs 209 price cut. Delhi experienced a Rs 202 reduction for the same commercial cylinder. This marks the second consecutive month of price decreases for commercial LPG. Domestic 
+
+## Shareholders approve issue of warrants to promoter group entity
+Zee shareholders approved convertible warrants for promoters, raising over three thousand crore rupees. This approval allows promoters to increase their stake significantly in the company. Institutional shareholders largely opposed the resolution, while non-institutional investors provided strong ba
+
+## Bloomberg delays India’s bond index inclusion
 
 
-## Tough road for Trump: Why sanctions Bill for tariffs on Russian oil buyers may fail House test
-Lawmakers from both parties, along with industry trade groups, have raised concerns over a section of the legislation that would allow Trump to impose hefty tariffs on countries that buy significant volumes of Russian oil and gas.
+## Cybercriminals widen net as assessees rush to meet I-T return filing deadline
+Cybercriminals are targeting taxpayers during income tax return filing season. They send fake notices via WhatsApp and use cloned tax portals. These scams aim to steal banking credentials and gain device access. Attackers use malware-laden attachments and phishing websites to deceive victims. This c
 
-## US stock market today: Nasdaq rises as Amazon rallies strongly
-Amazon joined other Big Tech firms in reporting robust cloud business growth, easing investor concerns over returns from heavy artificial intelligence spending.
-
-## ITR deadline on July 31, 2026: Top things NRIs should keep in mind when filing tax return
-The return filing process and mandatory return filing requirement for NRIs is broadly similar to that of resident taxpayers, as returns are filed through the same Income Tax e-Filing portal using the applicable ITR form.
-
-## ‘Samudra Manthan’: Cabinet approves Rs 84,084 cr scheme for oil & gas exploration - top things to know
-The scheme will be implemented through FY2030-31 with an aim to harness India's vast offshore energy resources - in what the government has termed as a modern day Samudra Manthan.
-
-## PM Surya Sarovar Yojana: Cabinet approves Rs 5,070 crore scheme for floating solar projects
-The scheme has been approved for a period of 5 years. It will support up to Rs 1 crore per MW under the scheme with total outlay of Rs 5070 crore.
-
-## Markets end slightly higher; Sensex gains 166 points, Nifty closes above 24,380
+## ‘Domestic funds own over 20% of Indian companies, FPIs 17%’
 
 
-## PM Modi forgives students amid abusive video row: 'Let's guide the misguided'
-In a video message, PM Modi said the language used by some protesters was unfit for a civilised society, but urged people to reform, not punish, the students.
+## GST rate cuts slow down Q1 tax collection growth
+The Centre's fiscal deficit reached eighteen percent of its annual estimate during the first quarter. Tax revenue saw a modest increase, while capital expenditure rose significantly. Revenue expenditure also experienced a notable rise, driven by subsidies. Increased fertilizer and fuel subsidies wer
 
-## ‘Attack on Hindu society’: Poonawalla slams Rahul Gandhi over Ram Temple theft skit in Parliament
-He claimed the parties involved had "faith only in vote-bank politics" and not in Lord Ram.
+## Muthanga cop murder: After 23 years, all accused acquitted
+A court on Friday acquitted all the accused in connection with the murder of police constable KV Vinod in 2003 during the Adivasi agitation for land rights in Muthanga in Kerala’s Wayanad district
 
-## Missed filing ITR by July 31? Here's how you can still file your income tax return
-Missing the deadline could cost you more than just a late fee.
+## Adityanath hails Asmita Dey for first-ever judo win at CWG, calls her 'Maa Bharati'
+Adityanath hails Asmita Dey for first-ever judo win at CWG, calls her 'Maa Bharati'
 
-## 21-year-old dies after ambulance oxygen runs out in MP; probe ordered
-Ajit Baraiya, a resident of Sunhara Mal village, died on July 27 while being transferred from Bamhani Hospital to Mandla with oxygen support
+## Ballari man held for allegedly killing wife, baby with hammer
+BIDAR: Police arrested a 28-year-old man in Ballari for allegedly killing his wife and their seven-month-old daughter with a hammer following repeated disputes over suspicions if the youngest child was his, officials said on Friday
 
-## 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR against woman over anti-Modi remarks
-Abhijeet Dipke claimed that if abusive language alone were the basis for criminal prosecution, BJP leaders would face the highest number of cases.
+## Mangaluru courts deliver 20 year sentences in two sexual assault cases
+MANGALURU: Two separate courts in Mangaluru have sentenced five men to prison in two unrelated sexual assault cases, with four men receiving 20 years each for a 2018 gang rape and another man receiving 20 years for repeatedly sexually assaulting a minor
 
-## 'My friend, they may pull you down from power': Actor Prakash Raj mocks PM, warns against 'witch-hunting' students
-Prakash Raj said that when children use abusive language towards elders, they are warned against it and are not subjected to criminal cases.
+## CM defends Mekedatu as Centre seeks revisions
+BENGALURU: Chief minister D K Shivakumar on Friday defended the proposed Mekedatu reservoir after the Centre returned the project’s detailed report for revisions, saying the scheme would primarily serve drinking water and power needs and would not be used for irrigation
 
-## PM Modi, UK PM Andy Burnham discuss trade deal, West Asia crisis
-PM Modi and UK PM Andy Burnham discussed the India-UK trade deal, technology, defence cooperation and joint efforts for West Asia de-escalation.
+## Ex-army chief General Sharma dies at 96
+Former army chief General Vishwa Nath Sharma passed away on Friday at the age of 96
 
-## 70% water samples near abandoned Union Carbide factory in Bhopal found contaminated
-Bhopal gas survivors’ groups claimed 70% of drinking water samples near the abandoned Union Carbide factory tested positive for faecal coliform contamination.
+## BSF reservation benefits extend to ex-Agniveers
+The Centre on Thursday issued a notification extending reservation benefits to ex-Agniveers in the Border Security Force
+
+## Govt clears floating solar capacity boost, PM-Kisan extension
+NEW DELHI: The Union Cabinet, chaired by Prime Minister Narendra Modi, on Friday approved a series of measures aimed at strengthening farmer welfare, expanding sports infrastructure and accelerating India’s clean energy transition
+
+## China cuts durian settlement to 30 minutes with first outbound e-CNY payment to Malaysia
+China has completed its first outbound digital yuan payment to Malaysia, settling a 43,000 yuan (US$6,360) shipment of fresh durian, as Beijing accelerates efforts to build a cross-border clearing network in Southeast Asia outside the Society for Worldwide Interbank Financial Telecommunication (Swif
+
+## Chinese families turn to cash and cautious stock bets as real estate avenues narrow
+Chinese families are fast retreating from real estate, with many holding large cash reserves now cautiously weighing stock investments, marking a stark contrast with South Korea, where retail investors are aggressively using leverage to fuel equity bets at home and abroad. Property’s share of househ
 
 ## Hang Lung profit falls as property losses and weak offices offset record mall rents
 Hong Kong developer Hang Lung Properties’ underlying profit fell in the first half as losses from property sales, higher finance costs and a weak mainland China office market offset record rental income from its shopping malls. Underlying net profit declined 10 per cent from a year earlier to HK$1.4
@@ -125,12 +134,6 @@ Elon Musk has dismissed a media report claiming electric vehicle (EV) company Te
 
 ## HSBC to sell US$25b of Australian home loans to Blackstone at a loss of less than US$100m
 HSBC Holdings has agreed to sell its US$25 billion Australian home loan portfolio to a unit of Blackstone, which is expected to result in an immaterial pre-tax loss of less than US$100 million for the group by the first half of 2027, according to a stock exchange filing on Friday. The sale price was
-
-## China’s CIPS will become settlement norm in Mongolia within 2 years, Golomt Bank says
-China’s cross-border payment system is reshaping how Mongolian banks move money, with the country’s second-largest lender predicting most major banks would join the network within two years as trade with its southern neighbour becomes increasingly settled in yuan. Golomt Bank became one of Mongolia’
-
-## RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says
-RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move that comes amid China’s massive artificial intelligence (AI) infrastructure push
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Analyst: the US faces a strategic ‘dead end’ in Iran
-Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.
+## Yemen’s Houthis deny plan to charge ships transiting Red Sea
+Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.
 
-## US proposes cuts to Colorado River use for Arizona, California and Nevada
-The proposal comes as the river faces a historic water shortage, with reservoirs reaching levels not seen since 1957.
+## Is Israel really ready to withdraw from Gaza?
+Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel's potential withdrawal from the enclave.
 
-## Israeli settlers vandalise Palestinian cemetery in West Bank
-Israeli settlers vandalise Palestinian cemetery in West Bank
+## Liberia’s kush crisis: The hidden trade behind a generation at risk
+As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.
 
-## US Senate’s Fauci hearing renews COVID origin debate but reveals little
-Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.
+## Russian missile attack kills three in Ukraine’s Kyiv
+Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.
 
-## Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
-Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit.
+## US military says F-35B jet fighter crashes in California, pilot safe
+The jet went down on Friday near the Miramar airbase in San Diego.
 
-## Children face higher threat of US deportation as legal support deal expires
-Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.
+## Why has Infantino scrapped FIFA’s World Cup investment plan? What to know
+How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.
 
-## Cambridge students on why they protested at graduation ceremony
-Several Cambridge students protested during their graduation ceremonies
+## Israel launches attacks across Gaza one day after Hamas agrees to disarm
+Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.
 
-## Powerful El Nino to intensify heat on ‘a planet already on fire’: UN
-UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide
+## Trump administration to dismiss Reflecting Pool charges against David Hearn
+US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of 'botched installation'.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
