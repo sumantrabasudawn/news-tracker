@@ -237,11 +237,17 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Record-breaking climber Nirmal Purja among those killed in avalanche
+14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.
+
+## Trump denounces Justice Department decision to drop Reflecting Pool charges
+The US president pushes back after a federal prosecutor says damage caused by 'botched' installation, not vandalism.
+
 ## Palestinian children among those detained in Israeli West Bank raids
 Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
 
 ## At least three killed in explosion near cafe in Russia’s Moscow
-⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
+Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
 
 ## ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
 More than 58,000 children have lost one or both parents by Israel's war, highlighting urgent humanitarian challenges.
@@ -254,12 +260,6 @@ At least 9 people have been killed and dozens injured in Russian missile strikes
 
 ## Care for a dirty soda? How this drink trend became a US obsession
 How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.
-
-## Israeli forces detain residents and demolish homes in southern Syria
-Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria's southern provinces.
-
-## Turkiye and Iraq sign one-year oil pipeline deal amid global shift
-The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
