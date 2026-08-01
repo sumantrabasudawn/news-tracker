@@ -45,29 +45,35 @@ Redesign of the capital’s squares and buildings for a future of more heat and 
 ## AI’s ‘cookie banner’ moment: EU labels come for the bots
 New regulations require companies to label chatbots, deepfakes and AI-generated marketing material
 
+## Commonwealth baton passes to Ahmedabad 2030 from Glasgow on Sunday
+The Glasgow handover ceremony will showcase Ahmedabad’s 2030 Commonwealth Games with a cultural presentation highlighting India and Gujarat for the event’s 100th anniversary
+
+## World Lung Cancer Day: Gujarat’s lung cancer cases rise as tobacco acreage and output expand
+Lung cancer registrations continue rising while tobacco farming expands, underscoring the gap between public health concerns and agricultural production trends
+
+## PM Modi inaugurates Alluri Sitarama Raju International Airport in Bhogapuram in Andhra Pradesh
+The Greenfield airport has been designed to handle 6 million passengers annually which can be scaled up to 40 million passengers
+
+## Realty industry hails govt advisory to extend project completion timeline by 4 months in view of West Asia conflict
+The ministry had received several representations from stakeholders in the real estate sector seeking relief in view of the disruptions affecting timely completion of projects
+
 ## Q1 Results Today Live: Divis Laboratories, Muthoot Finance, APL Apollo Tubes, Gujarat Ambuja Exports, Clean Science & Technology to announce Q1 results
 Q1 Results Today, 01st August 2026 Live Updates: Follow BusinessLine's live coverage of Q1 FY27 earnings on August 1, 2026. Stay updated with the latest financial results, key announcements, earnings highlights and market reaction from companies scheduled to report their June quarter performance tod
 
-## Gross GST collection rose over 15% in July
-According to data made public on GST portal, collection from domestic sources rose over 10% to around ₹1.45 lakh crore reflecting consumption picking up
+## WhatsApp tests ‘Offers & Updates’ folder for business chats
+The experimental feature aims to separate promotional and service-related conversations from personal chats, creating a cleaner messaging experience for users.
 
-## Forcas Studio taps Flipkart Minutes to deliver fashion in 20 minutes
-The fast delivery strengthens the company’s omnichannel retail strategy and expands presence across India’s rapidly growing quick commerce ecosystem
+## Real-time tracking, improved services key features of proposed Maharashtra Ambulance Policy
+The citizen application will enable users to locate the nearest available ambulance, track its live location and estimated arrival time, receive preliminary guidance via video calls and check the estimated fare before booking
 
-## 182 Chandigarh University Animation & Multimedia Students Secure Jobs in Top Animation, VFX, Gaming, Digital Media & Filmmaking Studios
-182 Chandigarh University Animation & Multimedia Students Secure Jobs in Top Animation, VFX, Gaming, Digital Media & Filmmaking Studios
+## Maharashtra extends PMFBY enrolment deadline to Aug 10; 61.82 lakh farmers registered so far
+The extension was granted because some farmers faced technical issues, pending documentation, and personal reasons, Bharane stated
 
-## Tata Motors Passenger Vehicles sales rise 59% to 63,760 units in July
-International business PV sales climb to 1,149 units in July as compared to 654 units in same month last year, up 76%
+## Indian Oil ramps up spot crude purchases as Middle East disruptions hit supplies
+Indian Oil Corporation has significantly increased its spot crude purchases to nearly eighty-four percent. This strategic shift occurred after Middle East supply routes faced disruptions. The company also diversified imports from West Africa and Latin America. Despite higher crude costs, Indian Oil 
 
-## The future of energy marketing: Lessons for India’s energy transition | Energonomics EP 20
-Join Richa Mishra and Harish Bijoor in exploring the marketing clash between fossil fuels and renewable energy in this episode of Energonomics.
-
-## JSW MG Motor India sales up 22% at 8,158 units in July
-New energy vehicles portfolio records its highest-ever wholesale volumes in July 2026
-
-## FSSAI suspends license of Switz Foods
-FSSAI has asked the company to immediately cease all food business activities until it rectifies all deficiencies and comply with the rules to the satisfaction of the competent authority under the FSS Act, 2006
+## Forex boost: RBI's special swap facility draws $40.8 bn in foreign inflows
+Foreign exchange inflows under RBI's special swap facility reached $40.816 billion by July end. This figure nearly doubled from $20.718 billion reported just two weeks prior. FCNR(B) deposits were the primary driver, contributing $36.725 billion to the total collections. Overseas foreign currency an
 
 ## US crude bound for Israel for first time since 2023
 A US crude oil cargo is heading to Israel after almost three years. The Aframax tanker Captain John loaded the oil in Texas on Thursday. This shipment carries approximately 550,000 barrels of West Texas Intermediate crude. The vessel is chartered by the global trading house Vitol for this journey. T
@@ -87,35 +93,29 @@ RBI has already floated the tender to source materials for the polymer notes wit
 ## Commercial LPG prices cut by over Rs 200: Check 19-kg cylinder rates in Delhi, Kolkata
 Commercial Liquefied Petroleum Gas cylinder prices have been reduced effective August 1. A 19 kg cylinder in Kolkata saw a Rs 209 price cut. Delhi experienced a Rs 202 reduction for the same commercial cylinder. This marks the second consecutive month of price decreases for commercial LPG. Domestic 
 
-## Shareholders approve issue of warrants to promoter group entity
-Zee shareholders approved convertible warrants for promoters, raising over three thousand crore rupees. This approval allows promoters to increase their stake significantly in the company. Institutional shareholders largely opposed the resolution, while non-institutional investors provided strong ba
+## 'Heartbeat of hope': Vande Bharat transports live donor heart 250 km in 2 hours to save a life
+Gujarat chief minister Bhupendra Patel said the donor heart was successfully transplanted into a patient at the institute, giving him a new lease of life.
 
-## Bloomberg delays India’s bond index inclusion
+## Dipke questions PM Modi after his message to students who hurled abuses: ‘Is this forgiveness only for the reel?’
+PM Modi in a video said he was forgiving students who hurled abuses at him and his late mother during the Jantar Mantar protest, saying they were “misguided”
 
+## Army bids final farewell to Gen Sharma with full military honours
+Army bids final farewell to Gen Sharma with full military honours
 
-## Tehseen Poonawalla claims house arrest ahead of hunger strike over E20 petrol: ‘Nitin Gadkari is scared’
-Tehseen Poonawalla shared a series of posts on social media showing police personnel outside his residence and claimed he had been confined to his home.
+## Govt advisory for relief to builders: How a war in West Asia is pushing construction costs higher across India
+India doesn't buy much construction material from the conflict zone. The war still ended up in cement and steel prices. Here's the route.
 
-## Higher educational institutions must intellectually empower students: Rajasthan Governor
-Higher educational institutions must intellectually empower students: Rajasthan Governor
+## Operation Sindoor planner Vice Admiral AN Pramod takes over as Navy deputy chief
+As DGNO, he was closely involved in the planning, preparedness, and operational readiness of the Indian Navy during Operation Sindoor
 
-## Suspended Badrinath Temple official ‘admits’ role in funds theft
-Police said silver coins, ornaments, Nepalese currency and cash were recovered during searches conducted.
+## Dissenters like Umar Khalid jailed, killers walk free: Ex-Delhi HC judge
+“One of the most publicised detentions has been that of Umar Khalid. He has been under trial for seven years while some of the worst kind of offenders”
 
-## Karnataka: Rat caught ‘stealing’ gold jewellery from shop; CCTV solves mystery
-The incident that occurred earlier this week came to light after staff found that 10 rings and two chains were missing during a routine stock count, they said.
+## Dehradun teacher dowry death: Husband, sister-in-law arrested amid outrage
+Police arrested government school teacher's husband and sister-in-law after a video allegedly detailing dowry harassment surfaced before her death in Dehradun.
 
-## 2,000 everyday artefacts, rare textiles go on display at Humayun Tomb
-The collection, originally housed in the Sanskriti Kendra in Anandgram, was built by OP Jain, a 97-year-old Delhi-based paper merchant
-
-## Four killed in landslides as heavy rain triggers floods across Kerala
-Four killed in landslides as heavy rain triggers floods across Kerala
-
-## EC extends electoral roll revision deadlines in Odisha, Telangana
-The SIR exercise is aimed at updating electoral rolls through extensive field verification, scrutiny of voter records and the settlement of claims
-
-## FIR against 3 Instagram accounts in Bengaluru for ‘offensive’ content against Rahul Gandhi
-The FIR has reportedly been filed based on a complaint by a member of the Karnataka Pradesh Congress Committee (KPCC)
+## CJP's Abhijeet Dipke falls sick days after Delhi protests; doctors to examine him
+During the protests at Jantar Mantar in New Delhi, Dipke on July 25 said he had been diagnosed with typhoid.
 
 ## Turnover at the top: 17 people have held title of China’s richest person in past 27 years
 Seventeen Chinese entrepreneurs have held the title of the country’s richest billionaire in the past 27 years, over four times as many as in the United States, which wealth research firm Hurun Group attributed to the “dynamism” of the Chinese market. China’s richest people – including ByteDance foun
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Omani legend, US novice: Pakistan recovers bodies from Broad Peak
+Rescuers are still looking for other missing climbers swept away in an avalanche on the world's 12th largest peak.
+
+## Iran: The Making of a War
+From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.
+
+## Infantino’s World Cup crisis: UEFA has ‘lost confidence’ in FIFA leadership
+UEFA, who were the strongest opponents of FIFA's plan, slam the Gianni Infantino-led governing body despite standdown.
+
+## Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
+Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
+
+## Beneath Tunisia’s silence, public anger simmers
+Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
+
+## Sri Lanka sentences two officials to death for not stopping Easter bombings
+Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.
+
 ## FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push
 Asian Football Confederation says FIFA future must be 'shaped through proper consultation' after World Cup plan fallout.
 
 ## Protesters detained at rally in support of Pakistan-administered Kashmir
 Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.
-
-## US drops charges against Olympian for damage to Reflecting Pool
-The US Department of Justice has moved to dismiss its case against Olympian David Hearn.
-
-## Peru’s ex-president Humala released after conviction overturned
-Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.
-
-## Yemen’s Houthis deny plan to charge ships transiting Red Sea
-Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.
-
-## Is Israel really ready to withdraw from Gaza?
-Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel's potential withdrawal from the enclave.
-
-## Liberia’s kush crisis: The hidden trade behind a generation at risk
-As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.
-
-## Russian missile attacks kill at least nine in Ukraine’s Kyiv
-Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
