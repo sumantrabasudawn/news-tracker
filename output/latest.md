@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Trump doubles down on threat to hit Iran ‘very hard’
+US president’s remarks raise possibility Washington will launch new strikes
+
+## Bond sell-off sent warning on Fed’s credibility, says top central bank official
+Alberto Musalem says he supported dissenters’ calls for a quarter-point interest rate rise
+
+## US Treasury undertakes historic intervention in yen market
+New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency
+
 ## Labour holds Greater Manchester mayoralty vacated by Andy Burnham
 Council leader Bev Craig beats the Reform UK candidate in a second-round run-off
 
@@ -12,17 +21,8 @@ Ecommerce giant has roughly 5% stake in AI lab after equity deal
 ## KKR nears over $4bn deal to buy medical device maker Integer Holdings
 Healthcare company has been targeted by activist hedge fund established by an Elliott Management alumnus
 
-## US Treasury warns banks it may intervene in yen
-Move comes amid speculation Tokyo intervened to support the currency
-
 ## Google Earth AI tool pulled after spate of fake satellite images
 Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents
-
-## How 60,000 people swam to Spanish territory
-Migrants spent days preparing to reach the Spanish enclave of Ceuta from neighbouring Morocco
-
-## Healey looks for fiscal buffer in October’s UK Budget
-Chancellor to stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’
 
 ## Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July
 Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’
@@ -63,6 +63,9 @@ Honda Motorcycle & Scooter India overtakes Hero MotoCorp in July as industry reg
 ## India to get plastic notes soon: Why the move is important - explained
 RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the
 
+## Moody’s assigns Baa2 rating to RBL Bank, 1st for lender
+
+
 ## Tough road for Trump: Why sanctions Bill for tariffs on Russian oil buyers may fail House test
 Lawmakers from both parties, along with industry trade groups, have raised concerns over a section of the legislation that would allow Trump to impose hefty tariffs on countries that buy significant volumes of Russian oil and gas.
 
@@ -79,9 +82,6 @@ The scheme will be implemented through FY2030-31 with an aim to harness India's 
 The scheme has been approved for a period of 5 years. It will support up to Rs 1 crore per MW under the scheme with total outlay of Rs 5070 crore.
 
 ## Markets end slightly higher; Sensex gains 166 points, Nifty closes above 24,380
-
-
-## Gold futures drop to Rs 1,44,022 per 10g on weak spot demand
 
 
 ## PM Modi forgives students amid abusive video row: 'Let's guide the misguided'
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Analyst: the US faces a strategic ‘dead end’ in Iran
+Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.
+
+## US proposes cuts to Colorado River use for Arizona, California and Nevada
+The proposal comes as the river faces a historic water shortage, with reservoirs reaching levels not seen since 1957.
+
 ## Israeli settlers vandalise Palestinian cemetery in West Bank
 Israeli settlers vandalise Palestinian cemetery in West Bank
 
@@ -245,12 +251,6 @@ Several Cambridge students protested during their graduation ceremonies
 
 ## Powerful El Nino to intensify heat on ‘a planet already on fire’: UN
 UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide
-
-## Venezuela government and opposition to hold talks aimed at path to election
-Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.
-
-## At least 25 people killed, dozens injured in Algeria bus crash
-At least 25 people have been killed and dozens others injured in a bus crash in Algeria.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
