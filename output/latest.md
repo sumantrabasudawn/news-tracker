@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## Trouble at lunchtime as Hong Kong private club spat escalates
-Golf and Tennis Academy members unhappy that Carlyle & Co members can now use their exclusive Town Club
+## Burnham grabs the narrative in first fortnight of power
+Labour Party overtakes Nigel Farage’s Reform UK in some polls after new prime minister finds feel-good tone
 
-## Why South Korea’s won is one of world’s best performers
-Currency strengthened nearly 8% against dollar last month despite tech stock sell-off
+## Surging UK stocks prompt flurry of trades on investment platforms
+Daily trades jump in July as FTSE 100 hits record high
 
-## Trump doubles down on threat to hit Iran ‘very hard’
-US president’s remarks raise possibility Washington will launch new strikes
+## Greece’s island fires expose risks of tourism boom
+Wildfire on Paros that started in a saturated landfill leads to mayor’s arrest
 
-## Bond sell-off sent warning on Fed’s credibility, says top central bank official
-Alberto Musalem says he supported dissenters’ calls for a quarter-point interest rate rise
+## Labour has harmed universities as much as Trump, London School of Economics head says
+LSE vice-chancellor Larry Kramer points to domestic student fees freeze, international student limits and rise in employers’ national insurance
 
-## US Treasury undertakes historic intervention in yen market
-New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency
+## Abhijeet Dipke, the face of India’s victorious ‘cockroach’ protests
+The campaign he started online while completing a master’s degree galvanised millions to take to the streets
 
-## Labour holds Greater Manchester mayoralty vacated by Andy Burnham
-Council leader Bev Craig beats the Reform UK candidate in a second-round run-off
+## Higher earners warned over taper tax trap on pensions
+Surge in savers hit by pension tax charges due to complex rules, say wealth managers
 
-## Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout
-Investors say the hedge fund deal reassured jittery traders in tech stocks
+## Venezuela divided over US-brokered election talks
+Opposition leaders refuse to join negotiations and government hardliners burn US flags
 
-## Amazon completes $50bn investment in OpenAI
-Ecommerce giant has roughly 5% stake in AI lab after equity deal
+## Gunther von Hagens, anatomist, 1945-2026
+Nicknamed ‘Dr Death’, his Body Worlds exhibitions drew millions of visitors worldwide
 
-## KKR nears over $4bn deal to buy medical device maker Integer Holdings
-Healthcare company has been targeted by activist hedge fund established by an Elliott Management alumnus
+## Special edition: Wall Street’s wild week
+Inside the tumult at Situational Awareness and Fifa abandons its World Cup deal
 
-## Google Earth AI tool pulled after spate of fake satellite images
-Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents
+## Situational Awareness got the future right but misread the past
+Leopold Aschenbrenner thought AI-related stocks would go one way; they went the other. The mistake was funding the trades with debt
 
-## Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July
-Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’
+## Is Lloyds Bank’s techie boss a secret AI contrarian?
+The possibility of consumers delegating financial tasks to agentic AI poses a new risk for lenders
 
-## NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars
-Deal would land amid consolidation wave sweeping semiconductors as they position for AI revolution
+## Beating Berlin’s Sunday blues
+Germany’s weekly retail shutdown is bad for the country’s economy and the atmosphere of its cities
 
-## Directors’ Deals: M&S directors cash out as shares climb
-Retailer seems to have shrugged off effects of cyber attack
+## The great American cheese ambassadors get to work
+US dairies are boosting whey production to meet surging protein demand. Now they have to sell the curds
 
-## Maharashtra’s AI advantage: Building the future of Indian agriculture
-Maharashtra has the policy framework, institutional capacity and agricultural diversity to move ahead
+## How the West End’s landlords are preparing London for Saudi summers
+Redesign of the capital’s squares and buildings for a future of more heat and floods
 
-## Commercial LPG prices drop: 19-kg cylinder rate cut by ₹202 in Delhi, ₹209 in Kolkata
-No change in domestic cylinder prices
+## AI’s ‘cookie banner’ moment: EU labels come for the bots
+New regulations require companies to label chatbots, deepfakes and AI-generated marketing material
 
-## NSE pays ₹714.74 crore demand to SEBI as part of ₹1,491.21 crore settlement
-The latest payment is in addition to a deposit of ₹776.47 crore that NSE had previously made with SEBI
+## M&M tractor sales rise 20% to 34,420 units in July
+Exports at 1,777 units, a growth of 3% from July 2025
 
-## US to make visa bond requirement permanent for travellers from 50 countries, mostly in Africa
-The visa bond programme becomes permanent on Monday, with the US raising the maximum bond to USD 20,000, eliminating the lowest payment tier and allowing more countries to join the list
+## Hyundai Motor India July total sales hit all-time high at 75,360 units, up 25.4%
+Exports reach 21,150 units, a growth of 31.4%
 
-## OpenAI finds more AI agent escape incidents during Hugging Face hack investigation
-Fresh findings have intensified concerns over autonomous AI systems as regulators scrutinise safety controls at leading artificial intelligence companies.
+## Bloomberg puts off adding Indian bonds to its global index
+Indian bonds are likely to see selling on Monday (August 3) on disappointment over the development, traders say
 
-## Fed Chair Kevin Warsh proposes reducing number of Federal Reserve policy meetings: Report
-The proposal could mark the biggest operational change at the Federal Reserve in decades, altering how often policymakers communicate.
+## Adani Green de-risks growth strategy, shifts 4 GW renewable portfolio to AESL
+The move marks a strategic shift which will increasingly focus on building and operating renewable assets while leaving power marketing and customer aggregation to AESL
 
-## Bessent’s ‘to-do’ list says ‘Buy $5-10 billion in Japanese yen,’ Reuters photo shows
-A Reuters photograph has sparked fresh speculation over possible U.S. Treasury action after Japanese authorities intervened to support the yen
+## FCNR(B) deposit inflows robust at $36.725 billion between June 8 and July 31: RBI
+Banks have attracted massive NRI deposits under the RBI’s temporary hedging facility, boosting forex inflows and strengthening external sector confidence.
 
-## Modi in new video: I and my late mother were abused at Jantar Mantar, but I forgive these children
-The Prime Minister urged compassion, saying young protesters should be counselled and encouraged to learn instead of facing legal action
+## BL Explainer: SEBI’s new Closing Auction Session, what investors need to know
+The move aims to strengthen price discovery, reduce the risk of end-of-day price manipulation, and ensure that benchmark prices are used for indices
+
+## Prime Minister Modi to inaugurate Bhogapuram Airport
+Around 11 am, the PM will inaugurate the airport terminal building and subsequently inspect the facility along with Governor S Abdul Nazeer and Chief Minister N Chandrababu Naidu
+
+## India's total assistance to Sri Lanka exceeds $7.5 billion, boosting growing bilateral ties
+The Colombo Plan operates as an inter-governmental body, grounded in the concept of self-help and mutual cooperation to advance human capital development and foster South-South collaboration
+
+## PM Modi to inaugurate Rs 5,640-crore Alluri Sitarama Raju International Airport in Andhra Pradesh — See pics
+Prime Minister Narendra Modi inaugurates the Alluri Sitarama Raju International Airport on Saturday. He will also lay foundation stones for significant development projects worth over seventeen thousand nine hundred crore. The new airport is designed to handle six million passengers annually and boo
 
 ## FIFA abandons $4.2-billion World Cup stake sale plan after global backlash
 FIFA has withdrawn its plan to sell a stake in its commercial operations. Strong opposition from football federations led to the proposal's abandonment. FIFA President Gianni Infantino announced the decision after listening to all views. Major continental bodies like UEFA and CONCACAF rejected the p
@@ -84,32 +93,29 @@ Cybercriminals are targeting taxpayers during income tax return filing season. T
 ## ‘Domestic funds own over 20% of Indian companies, FPIs 17%’
 
 
-## GST rate cuts slow down Q1 tax collection growth
-The Centre's fiscal deficit reached eighteen percent of its annual estimate during the first quarter. Tax revenue saw a modest increase, while capital expenditure rose significantly. Revenue expenditure also experienced a notable rise, driven by subsidies. Increased fertilizer and fuel subsidies wer
+## Revenue Minister says Kerala prepared, situation under control despite rain havoc
+Revenue Minister says Kerala prepared, situation under control despite rain havoc
 
-## Muthanga cop murder: After 23 years, all accused acquitted
-A court on Friday acquitted all the accused in connection with the murder of police constable KV Vinod in 2003 during the Adivasi agitation for land rights in Muthanga in Kerala’s Wayanad district
+## Zee's Subhash Chandra, Punit Goenka fined by SEBI, barred from markets for one year
+ZEEL has also been fined ₹3 million and barred from the securities market for two months.
 
-## Adityanath hails Asmita Dey for first-ever judo win at CWG, calls her 'Maa Bharati'
-Adityanath hails Asmita Dey for first-ever judo win at CWG, calls her 'Maa Bharati'
+## Gen Z student's PPT counter to BJP's 'Babar ki Virasat' post; Rahul Gandhi, Kejriwal, CJP come in support | Watch
+The BJP's Chhattisgarh unit had made a post comparing the state's students who make people proud and the ones who “dance on Babur's heritage”.
 
-## Ballari man held for allegedly killing wife, baby with hammer
-BIDAR: Police arrested a 28-year-old man in Ballari for allegedly killing his wife and their seven-month-old daughter with a hammer following repeated disputes over suspicions if the youngest child was his, officials said on Friday
+## Rajasthan teacher booked for abducting, raping Class 11 student during lunch break
+Rajasthan police launched a search for a government school PTI accused of abducting and raping a 16-year-old Class 11 student during lunch break.
 
-## Mangaluru courts deliver 20 year sentences in two sexual assault cases
-MANGALURU: Two separate courts in Mangaluru have sentenced five men to prison in two unrelated sexual assault cases, with four men receiving 20 years each for a 2018 gang rape and another man receiving 20 years for repeatedly sexually assaulting a minor
+## Haryana SIR : Draft electoral rolls published for all 90 assembly constituencies
+The SIR process in Haryana was carried out to ensure maximum participation, complete inclusion of eligible electors, and full transparency at every stage.
 
-## CM defends Mekedatu as Centre seeks revisions
-BENGALURU: Chief minister D K Shivakumar on Friday defended the proposed Mekedatu reservoir after the Centre returned the project’s detailed report for revisions, saying the scheme would primarily serve drinking water and power needs and would not be used for irrigation
+## Delhi court rejects govt department's plea to register FIR, upholds magistrate's order
+Delhi court rejects govt department's plea to register FIR, upholds magistrate's order
 
-## Ex-army chief General Sharma dies at 96
-Former army chief General Vishwa Nath Sharma passed away on Friday at the age of 96
+## Kerala CM says govt prepared to tackle rain-related emergencies
+Kerala CM says govt prepared to tackle rain-related emergencies
 
-## BSF reservation benefits extend to ex-Agniveers
-The Centre on Thursday issued a notification extending reservation benefits to ex-Agniveers in the Border Security Force
-
-## Govt clears floating solar capacity boost, PM-Kisan extension
-NEW DELHI: The Union Cabinet, chaired by Prime Minister Narendra Modi, on Friday approved a series of measures aimed at strengthening farmer welfare, expanding sports infrastructure and accelerating India’s clean energy transition
+## Supreme Court orders DNA tests for Indians killed while serving Russian army
+The court also directed the Centre to appoint a nodal officer to help families pursue compensation claims with the Russian authorities.
 
 ## China cuts durian settlement to 30 minutes with first outbound e-CNY payment to Malaysia
 China has completed its first outbound digital yuan payment to Malaysia, settling a 43,000 yuan (US$6,360) shipment of fresh durian, as Beijing accelerates efforts to build a cross-border clearing network in Southeast Asia outside the Society for Worldwide Interbank Financial Telecommunication (Swif
@@ -231,6 +237,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Protesters detained at rally in support of Pakistan-administered Kashmir
+Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.
+
+## US drops charges against Olympian for damage to Reflecting Pool
+The US Department of Justice has moved to dismiss its case against Olympian David Hearn.
+
+## Peru’s ex-president Humala released after conviction overturned
+Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.
+
 ## Yemen’s Houthis deny plan to charge ships transiting Red Sea
 Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.
 
@@ -245,15 +260,6 @@ Residents trapped as partially collapsed building catches fire after deadly stri
 
 ## US military says F-35B jet fighter crashes in California, pilot safe
 The jet went down on Friday near the Miramar airbase in San Diego.
-
-## Why has Infantino scrapped FIFA’s World Cup investment plan? What to know
-How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.
-
-## Israel launches attacks across Gaza one day after Hamas agrees to disarm
-Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.
-
-## Trump administration to dismiss Reflecting Pool charges against David Hearn
-US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of 'botched installation'.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
