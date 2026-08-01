@@ -1,7 +1,10 @@
 # AION Intelligence
 
+## Spain pushes migrants home as Ceuta vents over ‘invasion’
+Soldiers round up Moroccans hoping to remain in the enclave in the face of local opposition
+
 ## Burnham says devolution plan paves the way for a written UK constitution
-Prime minister’s sweeping powers for local mayors could lead to ‘new principles’ for running England
+Prime Minister’s sweeping powers for local mayors could lead to ‘new principles’ for running England
 
 ## EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism
 Bloc’s home affairs ministers will convene on Tuesday as tensions over immigration policy mount
@@ -20,9 +23,6 @@ Labour Party overtakes Nigel Farage’s Reform UK in some polls after new prime 
 
 ## Surging UK stocks prompt flurry of trades on investment platforms
 Daily trades jump in July as FTSE 100 hits record high
-
-## Greece’s island fires expose risks of tourism boom
-Wildfire on Paros that started in a saturated landfill leads to mayor’s arrest
 
 ## Special edition: Wall Street’s wild week
 Inside the tumult at Situational Awareness and Fifa abandons its World Cup deal
@@ -237,6 +237,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## New York Times reveals Trump administration subpoena over North Korea story
+The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.
+
+## Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?
+Taiwan's GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.
+
+## Michigan joins Minnesota in reporting cyberattacks, with FBI investigating
+No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.
+
+## US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks
+Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.
+
 ## Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?
 What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?
 
@@ -248,18 +260,6 @@ Those killed included 11 passengers and two pilots flying over the famous archeo
 
 ## Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
 Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.
-
-## Greece battles raging wildfires as flames appear to ease in France
-French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.
-
-## Record-breaking climber Nirmal Purja among those killed in avalanche
-14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.
-
-## Trump denounces Justice Department decision to drop Reflecting Pool charges
-The US president pushes back after a federal prosecutor says damage caused by 'botched' installation, not vandalism.
-
-## Palestinian children among those detained by Israel in West Bank raids
-Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
