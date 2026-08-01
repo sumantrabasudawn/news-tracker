@@ -69,6 +69,15 @@ Seven in 10 large-cap and three in four mid-cap schemes trail five-year benchmar
 ## Maruti Suzuki banks on new plants, CNG push to sustain growth after record July sales
 The company expects recently commissioned plants at Hansalpur and Kharkhoda to help ease supply constraints over the next three to four months, enabling it to meet festive season demand
 
+## Forex mop up under RBI's swap scheme doubles to over $40bn
+Total forex mobilization under RBI's concessional dollar swap facility has exceeded forty billion dollars. This amount more than doubled in just a fortnight, surpassing previous deposit drives. Foreign Currency Non-Resident (Bank) deposits formed the largest portion of these inflows. The facility en
+
+## July auto sales rev up as Maruti crosses 2L, Tata EVs double
+Several automakers achieved record July sales, largely due to new sport utility vehicle launches. Maruti Suzuki and Tata Motors reported significant year-on-year growth in their passenger vehicle segments. Mahindra also saw substantial increases in its utility vehicle sales during the month. Hyundai
+
+## July GST collections up 15.4% to Rs 2.1 L cr on higher imports
+Goods and Services Tax collections rose 15.4 percent to Rs 2,11,205 crore in July. This increase was largely due to a 29 percent jump in integrated GST on imports. Strong economic activity and higher commodity prices also contributed to the robust tax collections. Central GST mop-up increased 12.3 p
+
 ## UPI reaches new milestone in July with highest-ever transaction value of Rs 29.88 lakh crore
 India's UPI platform achieved its highest monthly transaction value ever. In July, transaction volumes also reached a new record high. The platform processed billions of transactions, surpassing previous records. This sustained growth strengthens India's digital payment ecosystem significantly. UPI 
 
@@ -83,15 +92,6 @@ Indian Oil Corporation has significantly increased its spot crude purchases to n
 
 ## Forex boost: RBI's special swap facility draws $40.8 bn in foreign inflows
 Foreign exchange inflows under RBI's special swap facility reached $40.816 billion by July end. This figure nearly doubled from $20.718 billion reported just two weeks prior. FCNR(B) deposits were the primary driver, contributing $36.725 billion to the total collections. Overseas foreign currency an
-
-## US crude bound for Israel for first time since 2023
-A US crude oil cargo is heading to Israel after almost three years. The Aframax tanker Captain John loaded the oil in Texas on Thursday. This shipment carries approximately 550,000 barrels of West Texas Intermediate crude. The vessel is chartered by the global trading house Vitol for this journey. T
-
-## GST collections jump 15.4% to over Rs 2.11 lakh crore in July
-India's gross Goods and Services Tax collections reached over Rs 2.11 lakh crore in July. This represents a significant 15.4 percent increase compared to the previous year. Higher revenues from both domestic transactions and imports contributed to this strong performance. The government also maintai
-
-## PM Modi to inaugurate Rs 5,640-crore Alluri Sitarama Raju International Airport in Andhra Pradesh — See pics
-Prime Minister Narendra Modi inaugurates the Alluri Sitarama Raju International Airport on Saturday. He will also lay foundation stones for significant development projects worth over seventeen thousand nine hundred crore. The new airport is designed to handle six million passengers annually and boo
 
 ## 'On Aug 4, at 12 pm': Kejriwal plans march to PM's residence with '100 who don't fear jail' over E20 concerns
 The scheduled march marks the latest in a series of attacks by the AAP targeted towards the Centre's fuel-blending policy.
@@ -117,6 +117,9 @@ Amit Shah added Lokmanya Tilak's interpretation explained how an ordinary citize
 ## Tripura’s Ashmita Dey wins India’s first Commonwealth judo gold
 Ashmita’s interest in judo began when she watched one of her cousins practise the sport at the age of seven or eight
 
+## China’s next export is the world’s factory itself
+China’s export boom is reaching its limits. The country’s next phase of growth will come not from shipping more goods abroad, but from exporting its factories, technologies and brands. China is running up against the limits of its old model. It is obvious as the economy looks increasingly K-shaped. 
+
 ## Turnover at the top: 17 people have held title of China’s richest person in past 27 years
 Seventeen Chinese entrepreneurs have held the title of the country’s richest billionaire in the past 27 years, over four times as many as in the United States, which wealth research firm Hurun Group attributed to the “dynamism” of the Chinese market. China’s richest people – including ByteDance foun
 
@@ -137,9 +140,6 @@ Celebrities including Chow Yun-fat, Stephen Fung Tak-lun and William Chan Wai-ti
 
 ## Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model
 Chinese AI firm MiniMax has launched H3, its newest multimodal video generation model, pledging to break closed-source “dominance” through open weights and competitive pricing – as rival ByteDance rolls out its latest Seedance 2.5 model. H3 was currently the world’s most powerful AI model in video e
-
-## Why Elon Musk would find it hard to decouple Tesla from China
-Elon Musk has dismissed a media report claiming electric vehicle (EV) company Tesla is considering selling its China business, even as the speculation threatens to renew scrutiny over the American carmaker’s dependence on its main manufacturing hub in Shanghai. “This has never even come up in a disc
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Al Jazeera reports from Ceuta as migrants leave the enclave
+Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.
+
+## Police say 13 killed as small plane viewing Nazca Lines in Peru crashes
+Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO.
+
+## Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
+Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.
+
+## Greece battles raging wildfires as flames appear to ease in France
+French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.
+
 ## Record-breaking climber Nirmal Purja among those killed in avalanche
 14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.
 
 ## Trump denounces Justice Department decision to drop Reflecting Pool charges
 The US president pushes back after a federal prosecutor says damage caused by 'botched' installation, not vandalism.
 
-## Palestinian children among those detained in Israeli West Bank raids
+## Palestinian children among those detained by Israel in West Bank raids
 Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
 
 ## At least three killed in explosion near cafe in Russia’s Moscow
-Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
-
-## ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
-More than 58,000 children have lost one or both parents by Israel's war, highlighting urgent humanitarian challenges.
-
-## Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff
-The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.
-
-## At least 9 people killed in Russian missile attacks on Kyiv
-At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.
-
-## Care for a dirty soda? How this drink trend became a US obsession
-How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.
+More than 15 people also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
