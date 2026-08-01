@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Burnham says devolution plan paves the way for a written UK constitution
+Prime minister’s sweeping powers for local mayors could lead to ‘new principles’ for running England
+
 ## EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism
 Bloc’s home affairs ministers will convene on Tuesday as tensions over immigration policy mount
 
@@ -20,9 +23,6 @@ Daily trades jump in July as FTSE 100 hits record high
 
 ## Greece’s island fires expose risks of tourism boom
 Wildfire on Paros that started in a saturated landfill leads to mayor’s arrest
-
-## Abhijeet Dipke, the face of India’s victorious ‘cockroach’ protests
-The campaign he started online while completing a master’s degree galvanised millions to take to the streets
 
 ## Special edition: Wall Street’s wild week
 Inside the tumult at Situational Awareness and Fifa abandons its World Cup deal
@@ -237,6 +237,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Palestinian children among those detained in Israeli West Bank raids
+Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
+
+## At least three killed in explosion near cafe in Russia’s Moscow
+⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
+
 ## ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
 More than 58,000 children have lost one or both parents by Israel's war, highlighting urgent humanitarian challenges.
 
@@ -254,12 +260,6 @@ Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement lin
 
 ## Turkiye and Iraq sign one-year oil pipeline deal amid global shift
 The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
-
-## Moroccan rapper Mehdi El Youbi temporarily released from prison
-The outspoken artist was detained in mid-July for ‘insulting a constitutional institution'.
-
-## Israeli strikes kill four across Gaza, destroy medical supply warehouse
-Attacks kill four as Gaza Health Ministry condemns 'heinous' strike on medicine stores, days after disarmament deal.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
