@@ -1,70 +1,64 @@
 # AION Intelligence
 
-## Chinese VC firms rush to raise funds after 3-year drought
-Managers capitalise on investors’ desire to ‘hedge’ against US market bets
+## Who needs junior markets like Aim anyway?
+The London Stock Exchange is trying to stem Aim’s decline by streamlining rules to cut costs and make capital-raising easier
 
-## Spain pushes migrants home as Ceuta vents over ‘invasion’
-Soldiers round up Moroccans hoping to remain in the enclave in the face of local opposition
+## Italy’s Giorgia Meloni bets big on nuclear power revival
+Rural backlash against renewables that ‘spoil the landscape’ fuels support for atomic energy decades after reactor shutdowns
 
-## Burnham says devolution plan paves the way for a written UK constitution
-Prime Minister’s sweeping powers for local mayors could lead to ‘new principles’ for running England
+## MPs call for routine lead testing for children near abandoned mines
+Health risks from Britain’s industrial past have been ‘left unaddressed’ for too long, Welsh secretary told
 
-## EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism
-Bloc’s home affairs ministers will convene on Tuesday as tensions over immigration policy mount
+## Freemasons seek a new generation of members
+Society known for secret handshakes tries to attract younger people as its membership ages
 
-## US Treasury undertakes historic intervention in yen market
-New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency
+## Foreign bidders woo UK companies with ‘bear hug’ takeover offers
+London-listed businesses face surge in unsolicited public offers that aim to pressure boards into acceptance
 
-## Labour has harmed universities as much as Trump, London School of Economics head says
-LSE vice-chancellor Larry Kramer points to domestic students’ fees, limits on international students and rise in employers’ national insurance
+## Apple struggles to keep pace with AI ‘bug’ hunters
+iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports
 
-## Massive US tungsten discovery could run into Nasa roadblock
-Miner may have found America’s largest deposit of crucial defence metal but space agency hinders development
+## German carmakers flood jobs market with managers after wielding axe
+Volkswagen approaches headhunter to find positions for hundreds of departing managers
 
-## Burnham grabs the narrative in first fortnight of power
-Labour Party overtakes Nigel Farage’s Reform UK in some polls after new prime minister finds feel-good tone
+## Bangladesh’s future depends on the military distancing itself from politics
+The generals’ pursuit of wealth and civilian power fuelled corruption while leaving the army hollowed out
+
+## Air France-KLM targets easyJet passengers during takeover turmoil
+Chief executive of French-Dutch airline group sees opportunity if low-cost carrier is acquired by its suitors
 
 ## Australian farmers in trade dispute over pineapple import plan
 Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity threat
 
-## Special edition: Wall Street’s wild week
-Inside the tumult at Situational Awareness and Fifa abandons its World Cup deal
+## Chinese VC firms rush to raise funds after 3-year drought
+Managers capitalise on investors’ desire to ‘hedge’ against US market bets
 
-## Situational Awareness got the future right but misread the past
-Leopold Aschenbrenner thought AI-related stocks would go one way; they went the other. The mistake was funding the trades with debt
+## Fertiliser demand rebounds with revival in kharif sowing; urea continues to dominate sales
+Fertiliser sales touch 41.09 lt by July 17, against an estimated demand of 74.28 lt for the entire month
 
-## Higher earners warned over taper tax trap on pensions
-Surge in savers hit by pension tax charges due to complex rules, say wealth managers
+## Iran names Saudi, UAE, Qatar and Israeli energy sites as targets if Trump orders new strikes
+The warning comes as a US official told Axios that Trump is seriously contemplating strikes on Iranian energy targets, though no final decision has been taken
 
-## Is Lloyds Bank’s techie boss a secret AI contrarian?
-The possibility of consumers delegating financial tasks to agentic AI poses a new risk for lenders
+## Market outlook: RBI policy, Q1 earnings and global cues to steer markets this week
+On the macroeconomic front, market participants will watch July Composite PMI and GST collection data for signals on the strength of domestic economic activity
 
-## Beating Berlin’s Sunday blues
-Germany’s weekly retail shutdown is bad for the country’s economy and the atmosphere of its cities
+## Record 2.73 lakh register for NEET-PG 2026; exam to be held in single shift across 340 cities
+Over 1,300 examination centres to improve accessibility for candidates across the country. Multi-layer frisking, biometric verification, CCTV surveillance and real-time monitoring to be implemented
 
-## Singapore Good Soil Foundation Hosts Third Next Generation Philanthropy Leadership Program at the University of Hong Kong, Empowering the Next Generation of Global Changemakers
-Singapore Good Soil Foundation Hosts Third Next Generation Philanthropy Leadership Program at the University of Hong Kong, Empowering the Next Generation of Global Changemakers
+## Tata Steel UK expects electricity access for EAF project by 2029: CEO Narendran
+Talks are underway with National Grid -- the power supplier -- to work out solutions if the power supply can start early as Tata Steel UK (TSUK) will have to conduct trials before operationalising the project
 
-## Micron, SK hynix, Oracle, SpaceX, Google, Microsoft et al: AI’s dotcom deja vu
-The rout in Kospi index is no longer a Korea-only story and AI-theme stocks have been under pressure across markets
+## India's data centre capacity may reach 3-3.6 GW by 2030, hyperscalers to drive growth: Axis Capital
+India’s installed data centre capacity currently stands at around 1.3-1.4 GW
 
-## Who Am I? August 2, 2026
-Are you an avid investor? How well do you know corporate India?
+## Space stocks could offer long-term growth beyond launch providers: Report
+Goldman Sachs says its custom basket of US space and satellite stocks had gained around 13% in 2026 through July 14, outperforming the 9.8% rise in the S&P 500 over the same period
 
-## ICICI Prudential Flexicap: Conviction behind the flexibility
-The ₹22,500-crore fund blends conviction, flexibility and disciplined portfolio construction effectively
+## Cauvery issue: CM Shivakumar to preside all-party meeting in Bengaluru
+Shivakumar deferred his meeting with his Tamil Nadu counterpart, C Vijay Joseph, which was planned on August 3.
 
-## Mastering Derivatives: Revising a short call position
-The true cost of this spread is the net debit and the loss from closing the short call
-
-## Balrampur Chini Mills: Why investors should accumulate this stock
-As Balrampur Chini Mills is poised to morph into an integrated bio-plastics player now, the pay-offs can be significant
-
-## New fund houses deliver split return fortunes
-An analysis of schemes launched by fund houses that entered the market over the past five years reveals a mixed performance record
-
-## India’s active MFs lag benchmarks, yet beat global peers
-Seven in 10 large-cap and three in four mid-cap schemes trail five-year benchmarks; small-cap schemes emerge as the relative bright spot
+## Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records
+India's passenger vehicle sales saw robust growth in July. Leading manufacturers like Maruti Suzuki and Hyundai reported record monthly dispatches. Tata Motors and Mahindra & Mahindra also posted substantial increases in their sales. This strong momentum was supported by government demand-boosting m
 
 ## Zepto to raise funds amid delayed listing
 
@@ -87,32 +81,29 @@ Goods and Services Tax collections rose 15.4 percent to Rs 2,11,205 crore in Jul
 ## UPI reaches new milestone in July with highest-ever transaction value of Rs 29.88 lakh crore
 India's UPI platform achieved its highest monthly transaction value ever. In July, transaction volumes also reached a new record high. The platform processed billions of transactions, surpassing previous records. This sustained growth strengthens India's digital payment ecosystem significantly. UPI 
 
-## Indian equities ‘probably oversold’: FIIs warm up after months of outflows
-Foreign investors are showing renewed interest in Indian equities after significant outflows. Geopolitical uncertainties and elevated oil prices continue to pose risks to the outlook. India's domestic economy demonstrates robust performance with healthy sales and credit growth. The Reserve Bank of I
+## Three Instagram accounts face FIR over 'derogatory' posts targeting Rahul Gandhi
+The complainant alleged that the content was intended to tarnish the reputation and public image of the senior Congress leader.
 
-## Former Bihar minister, husband to serve 7-year term in Arms Act case
-They were also fined ₹50,000 each under Section 25 (1-A) read with Section 35 of the Arms Act, said public prosecutor Ram Prakash Yadav.
+## CPI(M) leaders criticise Kerala CM over attending events during rain disaster
+CPI(M) leaders criticise Kerala CM over attending events during rain disaster
 
-## Anybody who backs delimitation is betraying Tamil Nadu, says Rahul Gandhi
-He urged all parties in the state to oppose the proposal, alleging it would weaken Tamil Nadu’s voice in national politics.
+## Maharashtra’s anti-conversion law takes effect
+The gazette was published after the legislation was approved by President Droupadi Murmu on July 17, paving the way for its implementation in the state.
 
-## DMK moves SC, seeks immediate Cauvery water release by Karnataka
-Pointing out the urgency of the situation, the DMK said, “The present period is the most crucial period of the entire water year for the Cauvery Delta
+## Just Like That: What matrimonial ads tell us about India
+An analysis of Indian matrimonial ads shows how caste, colour, class and technology continue to define arranged marriages in modern India.
 
-## Illegal sale of unauthorised army-pattern combat clothes busted in Rajasthan's Sriganganagar
-The Indian army had earlier secured a patent for a new combat uniform unveiled in 2022 to prevent unauthorised sale and misuse.
+## 6 dead after heavy rain lashes parts of Kerala, landslides triggered
+A statement from Kerala chief minister’s office said four out of six deaths occurred in separate landslides in Idukki and Kottayam.
 
-## Day after 'forgive' remark, PM Modi praises youth for powering India's growth
-PM Modi said the country’s transformation from the constraints of colonial rule had been made possible by the capabilities of its young people.
+## Dissent is fine, but should stay within constitutional limits: Author Amish on Gen Z protests
+Dissent is fine, but should stay within constitutional limits: Author Amish on Gen Z protests
 
-## ‘Took me 19 years to say I have returned to Kolkata’: Exiled Bangladeshi author Taslima Nasrin
-Nasrin returned to Kolkata after more than 18 years, after she was forced to leave in November 2007 by the then Left Front government.
+## Stone-pelting by CJP protesters happened even after Parliament march violence: Officials
+The violence by protesters was contained with enforcement agencies exercising restraint despite servere aggravation.
 
-## FIR against Rahul Gandhi, Pappu Yadav, Awadhesh Prasad in Varanasi over donation theft skit at Parliament
-INDIA bloc MPs on Friday enacted a skit to highlight Ram Temple donation theft and the police action against protesters during their July 20 Parliament march.
-
-## Embattled NTA floats ₹7.5 crore tender for round-the-clock security at HQ, regional offices
-The contract will initially be for two years and can be extended by two additional one-year terms based on performance.
+## Injured worker succumbs, Kulgam terror attack toll rises to 2
+Terrorists had attacked two brick kiln workers in Kelam area, where one of them died on the spot, while Bhupendra Bhaina (28) succumbed to his injuries later.
 
 ## China’s next export is the world’s factory itself
 China’s export boom is reaching its limits. The country’s next phase of growth will come not from shipping more goods abroad, but from exporting its factories, technologies and brands. China is running up against the limits of its old model. It is obvious as the economy looks increasingly K-shaped. 
@@ -234,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Thirteen dead in Peruvian tourist plane crash over Nazca Lines
-Footage shows firefighters dousing the wreckage of a crashed tourist aircraft in southern Peru.
+## At least three dead in Idaho shopping mall mass shooting
+Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.
 
-## Gunman kills several at Idaho fast-food restaurant
-Multiple deaths reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho.
+## Gaza students overcome Israel’s genocide to celebrate Tawjihi results
+Students in Gaza overcome distressing conditions amid Israel's genocide to finish their Tawjihi high school exams.
 
-## Hungary plans to shut down only nuclear power plant amid drought
-Officials say they must shut down nation's sole nuclear plant as record-low Danube water levels disrupt reactor cooling.
+## Three dead including female bomber in Moscow restaurant attack
+At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.
 
-## Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’
-Iran's Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.
+## Why isn’t anyone challenging Infantino for FIFA’s top job?
+FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in the World Cup after global outrage.
 
-## Singapore bans UK band Massive Attack over Palestinian flag
-Singapore barred two members of British band Massive Attack from re-entering the country.
+## How Virunga Park protects people and gorillas from Ebola in eastern DRC
+Health checkpoints and surveillance aim to contain the outbreak and protect endangered mountain gorillas.
 
-## New York Times reveals Trump administration subpoena over North Korea story
-The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.
+## Trump cancels Iran strike, says ‘deal perimeters’ reached
+The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.
 
-## Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?
-Taiwan's GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.
+## Israel kills eight in Gaza despite Trump’s Hamas disarmament plan
+Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.
 
-## Michigan joins Minnesota in reporting cyberattacks, with FBI investigating
-No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.
+## Is criticism of Spain on border management legitimate or politics?
+Tens of thousands of migrants briefly cross into Spain's north African territory of Ceuta from Morocco.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
