@@ -1,6 +1,9 @@
 # AION Intelligence
 
-## Trump says he cancelled Iran strikes after Middle East allies’ request
+## Hungary braced for power cuts amid extreme drought
+Record-low water levels on Danube force country’s first shutdown of nuclear power plant
+
+## Trump says he cancelled Iran strikes at request of Middle East nations
 US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack
 
 ## Rupert Lowe offers to find ‘common way forward’ with Reform UK
@@ -36,32 +39,29 @@ Rural backlash against renewables that ‘spoil the landscape’ fuels support f
 ## Foreign bidders woo UK companies with ‘bear hug’ takeover offers
 London-listed businesses face surge in unsolicited public offers that aim to pressure boards into acceptance
 
-## Apple struggles to keep pace with AI ‘bug’ hunters
-iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports
+## A dispatch from the last sane era of AI
+A perfect chronicle of the pre-2022 moment in AI, when the field still had protagonists
 
-## Raw jute prices down nearly 50% in Bengal since July, industry questions market quotations
+## Bajaj tops overall July three-wheeler retails; Mahindra leads electric three-wheelers: Vahaan Data
+Electric three-wheeler registrations surged 84.3% in July, with Bajaj Auto leading the overall market and Mahindra Last Mile Mobility as the top electric manufacturer
 
+## Why not a have a GRE-style NEET exam?
+The GRE conducted by the ETS in the US gives us a useful template to revamp NEET
 
-## “Muthoot is to gold loan what SBI is to banking,” George Alexandar Muthoot
-For our customers, gold loans remain primarily a short-term financing product.
+## India approves just 1 Chinese FDI proposal worth ₹1 cr, 13 Hong Kong proposals worth ₹610.42 cr
+These approvals are crucial, as investments from countries sharing a land border with India have required prior government approval since April 2020 under DPIIT’s Press Note 3
 
-## IT industry not creating new jobs, funds diverted to AI, data centre costs: Sridhar Vembu
-Vembu questioned the need for increased software production in the current environment
+## Tata Consumer Products warms up to frozen foods as quick commerce changes the game
+Managing Director and CEO Sunil D’Souza noted that quick commerce is enhancing India’s cold-chain infrastructure, making the category commercially viable
 
-## New UG institution with IIMB a major milestone: Noel Tata
-He said Tata Trusts is moving beyond its traditional role of funding NGOs and individual development projects towards creating institutions
+## Ashok Leyland to invest ₹1,000 crore in FY27 to scale EV, battery and alternate-fuels
+The CV maker’s FY27 challenge is not building cleaner vehicles, but proving that batteries, EVs and alternate-fuel technologies can work profitably at fleet scale
 
-## Heavy rain batters Keralam; Eight dead, 13 injured, 8 missing: CM Satheesan
-The CM said that despite the reduction in rainfall since the previous day, people should be vigilant, especially in the hilly areas
+## Take dedicated insurance cover for your travel
+Most travellers assume they covered their bases once they buy the standard travel cover; when it comes to risks specific to adventure sports, dedicated cover will protect against them
 
-## Warehouse automation to humanoids: Addverb bets on India, CEO says physical AI race has begun
-On the widespread fears of job losses, Kumar said although some repetitive and physically demanding tasks would inevitably be automated, robotics would create new jobs as it boosts industrial productivity
-
-## British brewer Lion returns to India after 60 years, enters Delhi market with premium beer
-The company has partnered with Copperdrop Spirits as its exclusive importer and distributor in India, planning to expand to Haryana and Uttar Pradesh next
-
-## Gold, silver seen range-bound as focus shifts to US job numbers, Fed cues: Analysts
-On the domestic front, gold futures for August delivery fell by ₹1,595, or 1.1%, during the last week to close at ₹1.41 lakh per 10 grams
+## Rajiv Bajaj shares tips for students on navigating disruption through adaptation
+Bajaj has emerged as the country’s largest EV company by volume, with EVs accounting for 30% of its domestic sales
 
 ## New stock market timings from August 3: What has changed?
 Starting August 3, Sebi will implement a new Closing Auction Session for F&O stocks. This session will determine the official closing price after regular trading concludes. Trading hours in the equity derivatives segment will also extend by ten minutes. The pre-open session has been revised with new
@@ -87,6 +87,21 @@ India's passenger vehicle sales saw robust growth in July. Leading manufacturers
 ## Zepto to raise funds amid delayed listing
 
 
+## 'Vijay is a courageous leader': DKS after TN CM agrees to defer Cauvery-related Bengaluru visit
+Following widespread protests by farmers and political groups across Karnataka, DK Shivakumar requested C Jospeh Vijay to postpone his visit.
+
+## A black crust is decaying Humayun's Tomb in Delhi. How the air is to blame, and what can be done
+For Delhi's monuments, researchers recommend regular maintenance, protective coatings and then monitoring.
+
+## Prashant Kishor says he'll give crushing defeat to BJP in Bankipur, takes ‘dogs or cats’ swipe | Bypoll result on Aug 3
+The Bankipur bypoll, necessitated by the resignation of BJP national president Nitin Nabin following his election to the Rajya Sabha, was held on Thursday.
+
+## Climate change shifts malaria risk to southern, East Africa: Study
+The southern and East African regions expected to be hit the hardest in the future are also regions that aren’t accustomed to needing to fight the disease today
+
+## NEET UG 2026 counselling begins August 4; academic session to start Sept 8 | Check schedule here
+The first round of counselling for deemed and central universities will be conducted from August 4 to August 17.
+
 ## 'Some madrasas produce jihadis, should not exist': Taslima Nasreen sparks row with remarks on religious schools
 Exiled Bangladeshi author Taslima Nasreen criticized madrasas in Kolkata, claiming they produce jihadists and enable child abuse.
 
@@ -95,21 +110,6 @@ The new division will explore regulations and challenges faced by Japanese compa
 
 ## Meghalaya records 58% monsoon rainfall deficit, IMD raises concern
 The rainfall deficit has been widespread, with 10 of Meghalaya’s 11 districts receiving below-normal precipitation during the season
-
-## India launches 100-week campaign against drug abuse | A look at 5 similar crackdowns across the globe
-PM Modi vowed strict action is being taken against traffickers and drug abuse, adding that the primary focus is to tackle drug, substance abuse among the youth.
-
-## Raj Thackeray targets Vivek Oberoi, R Madhavan: ‘If India is doing well under PM Modi, why live in Dubai?’
-The MNS chief criticised the actors for supporting PM Modi and acting in “government-sponsored films” yet choosing to live outside India.
-
-## 4 held after 15-year-old girl found dead at Assam home; family claims rape: Cop
-The victim’s sister alleged that the attackers used utensils and other objects to mutilate the body after the assault
-
-## Mother of teen girl who abused PM Modi upset as 'FIR not withdrawn' despite apology, claims CJP
-Lawyer Ratna Singh said that the mother was relieved to hear that the CJP was backing her and said she would reach out whenever any assistance is required.
-
-## Leading pharma company recalls eye drops in India after contamination scare | Full list of 10 products here
-Sun Pharma says, “We have taken all necessary steps in the best interest of patients and in accordance with regulatory requirements."
 
 ## AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
 The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank. “Th
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South Korea has hottest day on record amid extreme weather globally
-Scientists say the climate crisis driven by human activity is making heatwaves more frequent.
+## CIA whistleblower John Kiriakou on accountability and CIA’s history
+Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.
 
-## At least five dead, 41 missing after ferry catches fire off Indonesia
-The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.
+## Firefighting helicopters collide near Athens as Greece battles wildfires
+Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.
 
-## Why has EU called an emergency meeting on Spain migrant surge?
-In joint letter, 22 member states call for 'strengthening of external borders' after nearly 60,000 migrants enter Ceuta.
+## Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea
+Deadly ferry fire leaves dozens missing in Indonesia's Java Sea
 
-## Spanish Ceuta witnesses a deadly ‘game’ for Moroccan migrants
-This weekend, thousands of Moroccans attempted to reach the Spanish North African enclave of Ceuta.
+## No breakthrough on Strait of Hormuz as Trump halts attack on Iran
+Iran says Trump's comment on pullback from threatened strikes made 'within the context of psychological operations'.
 
-## The Board of Peace is a failed body and should be abandoned
-The Palestinian issue should be returned to the UN framework and anchored again in international law.
+## Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?
+Experts warn that Marco Rubio's Hormuz bypass plan is hindered by pipeline limits and severe Red Sea threats.
 
-## Israel’s influence industry in the US
-Abdul El-Sayed's hardline campaign exposes a party, a media ecosystem and a debate over Israel in the US.
+## Communal violence between Hindus and Muslims grips southern Nepal
+Several towns in southern Nepal remain on edge after days of communal violence between Hindu and Muslim communities.
 
-## Indigenous groups oppose Milei plan to open Argentina to foreign buyers
-Indigenous people protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.
+## Hundreds mourn Moroccan footballer who died trying to reach Ceuta
+Moroccan footballer Faten Ben Omar El Azizi has been buried after dying while trying to reach Ceuta.
 
-## Ben-Gvir mocks Palestinian detainee over prison conditions
-Ben-Gvir mocks Palestinian detainee over prison conditions
+## Pakistan-administered Kashmir election boycott follows deadly crackdown
+Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
