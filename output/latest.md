@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Trump cancels new strikes on Iran after Middle East allies’ request
+US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack
+
+## Iran sets the pace in war with Trump
+Tehran’s military raised the stakes with Washington by further expanding the battle across the Middle East
+
 ## Who needs junior markets like Aim anyway?
 The London Stock Exchange is trying to stem Aim’s decline by streamlining rules to cut costs and make capital-raising easier
 
@@ -18,14 +24,11 @@ London-listed businesses face surge in unsolicited public offers that aim to pre
 ## Apple struggles to keep pace with AI ‘bug’ hunters
 iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports
 
-## German carmakers flood jobs market with managers after wielding axe
-Volkswagen approaches headhunter to find positions for hundreds of departing managers
-
-## Bangladesh’s future depends on the military distancing itself from politics
-The generals’ pursuit of wealth and civilian power fuelled corruption while leaving the army hollowed out
-
 ## Air France-KLM targets easyJet passengers during takeover turmoil
 Chief executive of French-Dutch airline group sees opportunity if low-cost carrier is acquired by its suitors
+
+## German carmakers flood jobs market with managers after wielding axe
+Volkswagen approaches headhunter to find positions for hundreds of departing managers
 
 ## Australian farmers in trade dispute over pineapple import plan
 Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity threat
@@ -33,29 +36,32 @@ Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity th
 ## Chinese VC firms rush to raise funds after 3-year drought
 Managers capitalise on investors’ desire to ‘hedge’ against US market bets
 
-## Fertiliser demand rebounds with revival in kharif sowing; urea continues to dominate sales
-Fertiliser sales touch 41.09 lt by July 17, against an estimated demand of 74.28 lt for the entire month
+## Andhra Pradesh, Australia ink 4 MoUs for collaboration across sectors
+MoUs cover solar manufacturing centre, inclusive education, student mental health and vocational training
 
-## Iran names Saudi, UAE, Qatar and Israeli energy sites as targets if Trump orders new strikes
-The warning comes as a US official told Axios that Trump is seriously contemplating strikes on Iranian energy targets, though no final decision has been taken
+## IndiGo operates Navi Mumbai airport’s first cargo flight, plans regular freighter service
+The shift comes as Mumbai International Airport Ltd intends to suspend freighter flights in order to carry out airside improvement works
 
-## Market outlook: RBI policy, Q1 earnings and global cues to steer markets this week
-On the macroeconomic front, market participants will watch July Composite PMI and GST collection data for signals on the strength of domestic economic activity
+## Leading FMCG firms report robust growth on quick-commerce channel as buying behaviour changes
+Companies are rapidly tailoring their offerings for the quick-commerce platforms
 
-## Record 2.73 lakh register for NEET-PG 2026; exam to be held in single shift across 340 cities
-Over 1,300 examination centres to improve accessibility for candidates across the country. Multi-layer frisking, biometric verification, CCTV surveillance and real-time monitoring to be implemented
+## Dr Reddy’s gets USFDA nod for rituximab biosimilar
+The approval follows Pre-License Inspection (PLI) conducted by the USFDA at the company’s biologics manufacturing facility in Bachupally, Hyderabad.
 
-## Tata Steel UK expects electricity access for EAF project by 2029: CEO Narendran
-Talks are underway with National Grid -- the power supplier -- to work out solutions if the power supply can start early as Tata Steel UK (TSUK) will have to conduct trials before operationalising the project
+## Carmakers post strong July sales, driving 33% YoY industry growth
+Strong consumer demand, new launches and lower borrowing costs drove robust sales growth across passenger vehicle and two-wheeler manufacturers
 
-## India's data centre capacity may reach 3-3.6 GW by 2030, hyperscalers to drive growth: Axis Capital
-India’s installed data centre capacity currently stands at around 1.3-1.4 GW
+## Call to seek Centre’s intervention to revive, modernize FACT
+The sharp increase in raw material prices has substantially raised the production cost of phosphatic fertilizers and ammonium sulphate, undermining the company’s financial viability
 
-## Space stocks could offer long-term growth beyond launch providers: Report
-Goldman Sachs says its custom basket of US space and satellite stocks had gained around 13% in 2026 through July 14, outperforming the 9.8% rise in the S&P 500 over the same period
+## Higher tobacco taxes weigh on cigarette makers’ Q1 performance
+ITC, Godfrey Phillips India, and VST Industries reported declines in net revenue, volumes and profitability
 
-## Cauvery issue: CM Shivakumar to preside all-party meeting in Bengaluru
-Shivakumar deferred his meeting with his Tamil Nadu counterpart, C Vijay Joseph, which was planned on August 3.
+## No plan to monetise subsidiaries, focus on enhancing their value: PNB MD
+PNB’s capital adequacy improved to 18.13% as on June 30, 2026, compared to 17.5% at the end of the first quarter of the previous fiscal year
+
+## Capital One says anti-money laundering review led to closure of over 300 Trump Organization accounts
+In a significant move, Capital One has closed the Trump Organization's accounts, citing anti-money laundering concerns backed by detailed analysis and adherence to internal policies. This action occurs amidst ongoing legal disputes initiated by the Trump Organization, which accuses the bank of discr
 
 ## Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records
 India's passenger vehicle sales saw robust growth in July. Leading manufacturers like Maruti Suzuki and Hyundai reported record monthly dispatches. Tata Motors and Mahindra & Mahindra also posted substantial increases in their sales. This strong momentum was supported by government demand-boosting m
@@ -78,32 +84,38 @@ Several automakers achieved record July sales, largely due to new sport utility 
 ## July GST collections up 15.4% to Rs 2.1 L cr on higher imports
 Goods and Services Tax collections rose 15.4 percent to Rs 2,11,205 crore in July. This increase was largely due to a 29 percent jump in integrated GST on imports. Strong economic activity and higher commodity prices also contributed to the robust tax collections. Central GST mop-up increased 12.3 p
 
-## UPI reaches new milestone in July with highest-ever transaction value of Rs 29.88 lakh crore
-India's UPI platform achieved its highest monthly transaction value ever. In July, transaction volumes also reached a new record high. The platform processed billions of transactions, surpassing previous records. This sustained growth strengthens India's digital payment ecosystem significantly. UPI 
+## Fake identities, phone numbers: How 5 men impersonated deceased owners in ₹2.29 crore land fraud in Navi Mumbai
+As per police, Shinde got his father and brother-in-law to impersonate the dead brothers by using fake identity documents.
 
-## Three Instagram accounts face FIR over 'derogatory' posts targeting Rahul Gandhi
-The complainant alleged that the content was intended to tarnish the reputation and public image of the senior Congress leader.
+## ‘Pakistan eroded faith’: India envoy to US calls out Islamabad's ‘distraction policy’ over Indus Waters Treaty
+Vinay Kwatra said Indus Waters Treaty was founded on "goodwill and friendship", but Pakistan spent decades eroding those principles through its actions.
 
-## CPI(M) leaders criticise Kerala CM over attending events during rain disaster
-CPI(M) leaders criticise Kerala CM over attending events during rain disaster
+## Protests over paper leaks: SC to hear on Monday pleas relating to police action
+Protests over paper leaks: SC to hear on Monday pleas relating to police action
 
-## Maharashtra’s anti-conversion law takes effect
-The gazette was published after the legislation was approved by President Droupadi Murmu on July 17, paving the way for its implementation in the state.
+## ‘Drugs being used to hurt India’s interests': PM Modi launches ‘Nasha Mukt Yuva Abhiyan’, urges youths to lead movement
+“More than one crore youths from different sectors, institutions and backgrounds have come together. I urge all of you to lead this movement,” PM Modi said.
 
-## Just Like That: What matrimonial ads tell us about India
-An analysis of Indian matrimonial ads shows how caste, colour, class and technology continue to define arranged marriages in modern India.
+## Jharkhand man climbs 100 ft mobile tower after exam irregularities prevent wife from getting job
+Students are protesting in Jharkhand against the alleged irregularities in the JPSC, JSSC and other recruitment exams over the last few days.
 
-## 6 dead after heavy rain lashes parts of Kerala, landslides triggered
-A statement from Kerala chief minister’s office said four out of six deaths occurred in separate landslides in Idukki and Kottayam.
+## Raj Thackeray alleges donation theft at Mumbai's Siddhivinayak Temple: ‘ ₹18 crore stolen annually’
+Alleging that ₹1,400 crore had been stolen at the Ram Temple in Ayodhya, Thackeray remarked that temples are not safe these days.
 
-## Dissent is fine, but should stay within constitutional limits: Author Amish on Gen Z protests
-Dissent is fine, but should stay within constitutional limits: Author Amish on Gen Z protests
+## Tatkal ticket booking is now faster on IRCTC's new website
+Citing recent data, IRCTC said bookings done within first three minutes of the Tatkal window increased by over 5%.
 
-## Stone-pelting by CJP protesters happened even after Parliament march violence: Officials
-The violence by protesters was contained with enforcement agencies exercising restraint despite servere aggravation.
+## Assam CM says rehab top priority as flood situation improves, toll rises to 82
+Assam CM Himanta Biswa Sarma says flood-hit families are returning home as the government launches a time-bound rehabilitation plan amid a death toll of 82.
 
-## Injured worker succumbs, Kulgam terror attack toll rises to 2
-Terrorists had attacked two brick kiln workers in Kelam area, where one of them died on the spot, while Bhupendra Bhaina (28) succumbed to his injuries later.
+## China sees flurry of commercial property deals as investors sniff out bargains
+Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery. The value of office buildings, hotels and shopping malls across Ch
+
+## First impressions count as Chinese buyers open their homes to UBTech’s consumer humanoids
+When 39-year-old Beijing investor Song shelled out 159,800 yuan (US$23,680) for a companion robot, he knew it would not be cooking meals or scrubbing floors. For him, becoming one of China’s first owners of a consumer humanoid was more about embracing the cutting edge. “The happiest part is often th
+
+## Cheung Kong Center II tests higher rents amid rebound in Central office market
+Cheung Kong Center II is testing office rents above HK$100 (US$12.75) per square foot, as the once slow-leasing tower begins to close the gap with Central’s most in-demand office buildings, according to property agents. The increase marks a turnaround for one of Hong Kong’s most closely watched offi
 
 ## China’s next export is the world’s factory itself
 China’s export boom is reaching its limits. The country’s next phase of growth will come not from shipping more goods abroad, but from exporting its factories, technologies and brands. China is running up against the limits of its old model. It is obvious as the economy looks increasingly K-shaped. 
@@ -119,15 +131,6 @@ Chinese families are fast retreating from real estate, with many holding large c
 
 ## Hang Lung profit falls as property losses and weak offices offset record mall rents
 Hong Kong developer Hang Lung Properties’ underlying profit fell in the first half as losses from property sales, higher finance costs and a weak mainland China office market offset record rental income from its shopping malls. Underlying net profit declined 10 per cent from a year earlier to HK$1.4
-
-## OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%
-In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GPT-5.6 model line-up by up to 80 per cent. In a post on social media platform X on Thursday, OpenAI C
-
-## 30% of owners looking to sell Hong Kong luxury homes willing to lower prices: agents
-Celebrities including Chow Yun-fat, Stephen Fung Tak-lun and William Chan Wai-ting slashed prices before selling luxury properties recently, with property agents saying secondary luxury home trading will continue to slow in the short term, with prices up to 10 per cent lower. The asking price for Ho
-
-## Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model
-Chinese AI firm MiniMax has launched H3, its newest multimodal video generation model, pledging to break closed-source “dominance” through open weights and competitive pricing – as rival ByteDance rolls out its latest Seedance 2.5 model. H3 was currently the world’s most powerful AI model in video e
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
@@ -225,10 +228,13 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arsenal’s Arteta expects more signings as Tzolis scores against Girona
+Newly acquired Christos Tzolis scores for the English champions who have been linked to Bruno Guimaraes and Vinicius Jr.
+
 ## At least three dead in Idaho shopping mall mass shooting
 Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.
 
-## Gaza students overcome Israel’s genocide to celebrate Tawjihi results
+## Gaza students overcome Israel’s genocide to mark Tawjihi results
 Students in Gaza overcome distressing conditions amid Israel's genocide to finish their Tawjihi high school exams.
 
 ## Three dead including female bomber in Moscow restaurant attack
@@ -245,9 +251,6 @@ The US president announced that he has cancelled a planned military strike on Ir
 
 ## Israel kills eight in Gaza despite Trump’s Hamas disarmament plan
 Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.
-
-## Is criticism of Spain on border management legitimate or politics?
-Tens of thousands of migrants briefly cross into Spain's north African territory of Ceuta from Morocco.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
