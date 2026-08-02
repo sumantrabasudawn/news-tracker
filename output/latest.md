@@ -1,31 +1,37 @@
 # AION Intelligence
 
+## Trump says he cancelled Iran strikes after Middle East allies’ request
+US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack
+
+## Rupert Lowe offers to find ‘common way forward’ with Reform UK
+Comments by Restore Britain founder come as Nigel Farage’s party slips in polls and faces scrutiny over its finances
+
+## ‘Crush this lady’: how eBay harassment campaign led to $56mn payout
+Employees’ cyberstalking of Boston couple involving macabre deliveries ended in jail time and financial settlement
+
+## Walter insurers paid millions of dollars to credit rating provider Egan-Jones
+Billionaire investor faces wide-ranging probe into the private credit holdings of insurers he controls
+
+## Will July’s US employment data prompt a rethink on rates?
+Market Questions is the FT’s guide to the week ahead
+
+## What percentage of UK households are net contributors?
+Despite attempts, the figure is virtually impossible to calculate
+
 ## ‘Voters have had it’: influence of pro-Israel lobby group sparks backlash in the US
 Aipac’s links to Israeli Prime Minister Benjamin Netanyahu provoke controversy in midterm election campaigns
 
 ## Morgan Stanley’s IPO after-party: a wealth management bonanza
 Bank’s underwriting of SpaceX and other new issues generates $74bn second-quarter haul in wealth management assets
 
-## Trump says he cancelled Iran strikes after Middle East allies’ request
-US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack
-
-## Iran sets the pace in war with Trump
-Tehran’s military raised the stakes with Washington by further expanding the battle across the Middle East
-
 ## Who needs junior markets like Aim anyway?
 The London Stock Exchange is trying to stem Aim’s decline by streamlining rules to cut costs and make capital-raising easier
 
-## Italy’s Giorgia Meloni bets big on nuclear power revival
-Rural backlash against renewables that ‘spoil the landscape’ fuels support for atomic energy decades after reactor shutdowns
-
-## MPs call for routine lead testing for children near abandoned mines
-Health risks from Britain’s industrial past have been ‘left unaddressed’ for too long, Welsh secretary told
-
-## Freemasons seek a new generation of members
-Society known for secret handshakes tries to attract younger people as its membership ages
-
 ## Air France-KLM targets easyJet passengers during takeover turmoil
 Chief executive of French-Dutch airline group sees opportunity if low-cost carrier is acquired by its suitors
+
+## Italy’s Giorgia Meloni bets big on nuclear power revival
+Rural backlash against renewables that ‘spoil the landscape’ fuels support for atomic energy decades after reactor shutdowns
 
 ## Foreign bidders woo UK companies with ‘bear hug’ takeover offers
 London-listed businesses face surge in unsolicited public offers that aim to pressure boards into acceptance
@@ -33,35 +39,32 @@ London-listed businesses face surge in unsolicited public offers that aim to pre
 ## Apple struggles to keep pace with AI ‘bug’ hunters
 iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports
 
-## German carmakers flood jobs market with managers after wielding axe
-Volkswagen approaches headhunter to find positions for hundreds of departing managers
+## Raw jute prices down nearly 50% in Bengal since July, industry questions market quotations
 
-## Australian farmers in trade dispute over pineapple import plan
-Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity threat
+
+## “Muthoot is to gold loan what SBI is to banking,” George Alexandar Muthoot
+For our customers, gold loans remain primarily a short-term financing product.
+
+## IT industry not creating new jobs, funds diverted to AI, data centre costs: Sridhar Vembu
+Vembu questioned the need for increased software production in the current environment
+
+## New UG institution with IIMB a major milestone: Noel Tata
+He said Tata Trusts is moving beyond its traditional role of funding NGOs and individual development projects towards creating institutions
+
+## Heavy rain batters Keralam; Eight dead, 13 injured, 8 missing: CM Satheesan
+The CM said that despite the reduction in rainfall since the previous day, people should be vigilant, especially in the hilly areas
+
+## Warehouse automation to humanoids: Addverb bets on India, CEO says physical AI race has begun
+On the widespread fears of job losses, Kumar said although some repetitive and physically demanding tasks would inevitably be automated, robotics would create new jobs as it boosts industrial productivity
+
+## British brewer Lion returns to India after 60 years, enters Delhi market with premium beer
+The company has partnered with Copperdrop Spirits as its exclusive importer and distributor in India, planning to expand to Haryana and Uttar Pradesh next
 
 ## Gold, silver seen range-bound as focus shifts to US job numbers, Fed cues: Analysts
 On the domestic front, gold futures for August delivery fell by ₹1,595, or 1.1%, during the last week to close at ₹1.41 lakh per 10 grams
 
-## Govt to introduce Bill to replace 125-year-old law on presenting bank records as evidence in courts
-Finance Minister Nirmala Sitharaman will introduce the Bankers’ Books Evidence Bill, 2026 in Parliament on Monday, replacing the 125-year-old Bankers’ Books Evidence Act, 1891
-
-## India needs more quality universities to curb demand for overseas education: Noel Tata
-He said Tata Trusts is moving beyond its traditional role of funding NGOs and individual development projects towards creating institutions
-
-## Apartment sales in Bengaluru rise 16% in Jan-Jun to 35K units, highest among top 7 cities: JLL
-Strong demand and a 41% increase in new apartment supply highlight Bengaluru’s robust real estate growth, as buyers increasingly seek premium living options in a city evolving beyond its IT-centric roots
-
-## Lodha Developers to monetise 150 acres at data centre park in MMR for ₹10,000 cr: MD
-The company is expecting an average of ₹60 crore per acre from the land sale at data centre park at Pallava in MMR
-
-## New market timings from Monday; F&O segment to remain open till 3:40pm
-Revised trading hours add a Closing Auction Session for F&O stocks, improving market efficiency and price discovery, while non-F&O stock timings remain unchanged
-
-## IMD forecasts heavy rain in several parts of Jharkhand till August 6
-Light to moderate rainfall accompanied by thunderstorms, lightning, and gusty winds with speeds of 40-50 kmph is likely across the state during this period, the India Meteorological Department
-
-## TN govt to expand scope of CM health insurance scheme: Minister Arunraj
-“We are discussing if we can further increase its scope. A good decision will be taken soon," TN Health Minister K G Arunraj, said.
+## New stock market timings from August 3: What has changed?
+Starting August 3, Sebi will implement a new Closing Auction Session for F&O stocks. This session will determine the official closing price after regular trading concludes. Trading hours in the equity derivatives segment will also extend by ten minutes. The pre-open session has been revised with new
 
 ## Market recap: Top-10 firms add Rs 2.51 lakh crore; Bajaj Finance biggest winner
 India's largest listed firms saw market value increase by Rs 2.51 lakh crore last week. Nine of the top ten most-valued companies experienced valuation gains on Dalal Street. Bajaj Finance led the surge after reporting strong June-quarter earnings, while Hindustan Unilever declined. The BSE Sensex a
@@ -84,8 +87,17 @@ India's passenger vehicle sales saw robust growth in July. Leading manufacturers
 ## Zepto to raise funds amid delayed listing
 
 
-## 5.9 crore returns filed till July 31 deadline: I-T dept
-Nearly 5.9 crore income tax returns were filed by the July 31 deadline. This number is lower than last year's extended filing period. Major tax concessions were announced during the last financial year. Taxpayers can still file returns until December with a penalty. Business income filers have diffe
+## 'Some madrasas produce jihadis, should not exist': Taslima Nasreen sparks row with remarks on religious schools
+Exiled Bangladeshi author Taslima Nasreen criticized madrasas in Kolkata, claiming they produce jihadists and enable child abuse.
+
+## New unit in Japan’s foreign ministry to help firms enter India
+The new division will explore regulations and challenges faced by Japanese companies that don’t have bases or sales channels in India
+
+## Meghalaya records 58% monsoon rainfall deficit, IMD raises concern
+The rainfall deficit has been widespread, with 10 of Meghalaya’s 11 districts receiving below-normal precipitation during the season
+
+## India launches 100-week campaign against drug abuse | A look at 5 similar crackdowns across the globe
+PM Modi vowed strict action is being taken against traffickers and drug abuse, adding that the primary focus is to tackle drug, substance abuse among the youth.
 
 ## Raj Thackeray targets Vivek Oberoi, R Madhavan: ‘If India is doing well under PM Modi, why live in Dubai?’
 The MNS chief criticised the actors for supporting PM Modi and acting in “government-sponsored films” yet choosing to live outside India.
@@ -99,17 +111,8 @@ Lawyer Ratna Singh said that the mother was relieved to hear that the CJP was ba
 ## Leading pharma company recalls eye drops in India after contamination scare | Full list of 10 products here
 Sun Pharma says, “We have taken all necessary steps in the best interest of patients and in accordance with regulatory requirements."
 
-## Jaish operative, his girlfriend, honeytrap, and a plan to ‘target’ CM Suvendu, CJP protest: Bengal police's big case
-The Bengal STF arrested the alleged Jaish operative – who had planned to target Adhikari and carry out sabotage at the recent students' protest – on Friday.
-
-## 'Grateful for a second chance': Mother of teen girl thanks PM Modi for forgiving her over abusive remarks
-The remarks came a day after PM Modi's video, in which he said he forgives kids for hurling abuse at him during the recent anti-paper-leak protests in Delhi.
-
-## No one can interfere if adult women embrace Islam, marry by choice: Allahabad HC
-The court noted that the adult women are competent to take independent decisions regarding their faith, marriage, and future course of life.
-
-## ‘Modi govt's familiar script’: Cong decries NSA detention of Assam activist Pranab Doley after he gets bail
-Pranab Doley was arrested on July 12 over protests against a proposed luxury hotel near Kaziranga National Park; was detained under NSA after he got bail.
+## AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
+The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank. “Th
 
 ## China sees flurry of commercial property deals as investors sniff out bargains
 Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery. The value of office buildings, hotels and shopping malls across Ch
@@ -131,9 +134,6 @@ China has completed its first outbound digital yuan payment to Malaysia, settlin
 
 ## Chinese families turn to cash and cautious stock bets as real estate avenues narrow
 Chinese families are fast retreating from real estate, with many holding large cash reserves now cautiously weighing stock investments, marking a stark contrast with South Korea, where retail investors are aggressively using leverage to fuel equity bets at home and abroad. Property’s share of househ
-
-## Hang Lung profit falls as property losses and weak offices offset record mall rents
-Hong Kong developer Hang Lung Properties’ underlying profit fell in the first half as losses from property sales, higher finance costs and a weak mainland China office market offset record rental income from its shopping malls. Underlying net profit declined 10 per cent from a year earlier to HK$1.4
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Korea has hottest day on record amid extreme weather globally
+Scientists say the climate crisis driven by human activity is making heatwaves more frequent.
+
+## At least five dead, 41 missing after ferry catches fire off Indonesia
+The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.
+
+## Why has EU called an emergency meeting on Spain migrant surge?
+In joint letter, 22 member states call for 'strengthening of external borders' after nearly 60,000 migrants enter Ceuta.
+
+## Spanish Ceuta witnesses a deadly ‘game’ for Moroccan migrants
+This weekend, thousands of Moroccans attempted to reach the Spanish North African enclave of Ceuta.
+
+## The Board of Peace is a failed body and should be abandoned
+The Palestinian issue should be returned to the UN framework and anchored again in international law.
+
+## Israel’s influence industry in the US
+Abdul El-Sayed's hardline campaign exposes a party, a media ecosystem and a debate over Israel in the US.
+
 ## Indigenous groups oppose Milei plan to open Argentina to foreign buyers
 Indigenous people protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.
 
 ## Ben-Gvir mocks Palestinian detainee over prison conditions
 Ben-Gvir mocks Palestinian detainee over prison conditions
-
-## From Sudan to Spain: Between war and home | Al Jazeera Originals
-A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.
-
-## Israeli soldiers jailed over Sde Teiman walkout
-Fourteen Israeli soldiers have been sentenced to military prison after leading an unauthorised walkout from Sde Teiman.
-
-## FIFA boss Infantino’s position looks unacceptable: European Leagues head
-Claudius Schafer says there can be 'only one consequence' to Infantino's actions over his World Cup privatisation plan.
-
-## Residents of Spain’s Ceuta shut down far-right anti-migrant rally
-Hundreds of residents in Spain's North African enclave of Ceuta gathered to oppose a planned far-right rally.
-
-## A quiet day in Harare after Zimbabwe’s shutdown call
-A heavy security presence and cautious businesses reflected tensions over constitutional changes.
-
-## Why has Trump halted Iran attacks, and what is the deal he is hinting at?
-Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
