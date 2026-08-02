@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse
+MPS chief executive weighs approach to Banco BPM’s largest shareholder, Crédit Agricole
+
+## Earnings season reaches a peak
+SpaceX gives first results call, Flutter migrates to New York, inflation updates from China and India
+
 ## America’s biggest companies report ‘rock solid’ profits as consumers face higher costs
 S&P 500 groups on track for strongest earnings in five years
 
@@ -18,26 +24,17 @@ Record-low water levels on Danube force country’s first shutdown of nuclear po
 ## Trump says he cancelled Iran strikes at request of Middle East nations
 US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack
 
-## Rupert Lowe offers to find ‘common way forward’ with Reform UK
-Comments by Restore Britain founder come as Nigel Farage’s party slips in polls and faces scrutiny over its finances
+## AstraZeneca holds talks with Bristol Myers Squibb on $400bn megadeal
+Tie-up would create one of the world’s biggest drugmakers
+
+## Hugo spritz boom shakes Aperol’s fizz
+US sales of Campari’s orange spirit outstripped by Bacardi’s St-Germain elderflower liqueur
 
 ## ‘Crush this lady’: how eBay harassment campaign led to $56mn payout
 Employees’ cyberstalking of Boston couple involving macabre deliveries ended in jail time and financial settlement
 
 ## Walter insurers paid millions of dollars to credit rating provider Egan-Jones
 Billionaire investor faces wide-ranging probe into the private credit holdings of insurers he controls
-
-## Morgan Stanley’s IPO after-party: a wealth management bonanza
-Bank’s underwriting of SpaceX and other new issues generates $74bn second-quarter haul in wealth management assets
-
-## Who needs junior markets like Aim anyway?
-The London Stock Exchange is trying to stem Aim’s decline by streamlining rules to cut costs and make capital-raising easier
-
-## Air France-KLM targets easyJet passengers during takeover turmoil
-Chief executive of French-Dutch airline group sees opportunity if low-cost carrier is acquired by its suitors
-
-## Italy’s Giorgia Meloni bets big on nuclear power revival
-Rural backlash against renewables that ‘spoil the landscape’ fuels support for atomic energy decades after reactor shutdowns
 
 ## “Muthoot is to gold loan what SBI is to banking,” George Alexander Muthoot
 For our customers, gold loans remain primarily a short-term financing product.
@@ -231,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran says negotiations with Oman over Strait of Hormuz in final stages
+Tehran's announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.
+
+## Two helicopters collide mid-air while tackling wildfires in Greece
+Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.
+
+## Ukrainian drone attacks kill eight in response to Russian missiles
+Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.
+
+## ‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran
+Former US hostage John Limbert says Washington ‘can’t bomb and assassinate its way to a better relationship’ with Iran.
+
+## Republican senator says former son-in-law should resign from US Congress
+Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller.
+
 ## Fetus found among the ruins of a deadly Israeli strike on Gaza
 Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.
 
@@ -239,21 +251,6 @@ Five more bodies have been found along Ceuta's coastline as enclave recovers fro
 
 ## ‘Iran war participation trophy’ mocking Trump appears in New York
 A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.
-
-## Deadly floods and landslide hit India’s Kerala
-At least two people have been killed and eight injured after torrential rain triggered flooding
-
-## Suicide bomber kills 14 outside police station in Pakistan’s Swat
-Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.
-
-## Capital One cites anti-money laundering concerns in Trump Organization case
-Capital One says Trump Organization account closures in 2021 followed review by anti-money-laundering team.
-
-## Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war
-US president halted strikes after earlier threatening Iran with unprecedented force.
-
-## Israeli settlers shoot Palestinian child during farm raid
-CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
