@@ -39,29 +39,35 @@ Rural backlash against renewables that ‘spoil the landscape’ fuels support f
 ## Foreign bidders woo UK companies with ‘bear hug’ takeover offers
 London-listed businesses face surge in unsolicited public offers that aim to pressure boards into acceptance
 
-## A dispatch from the last sane era of AI
-A perfect chronicle of the pre-2022 moment in AI, when the field still had protagonists
+## No extraordinary spending planned this fiscal, says Niva Bupa; insurer eyes EoM reduction
 
-## Bajaj tops overall July three-wheeler retails; Mahindra leads electric three-wheelers: Vahaan Data
-Electric three-wheeler registrations surged 84.3% in July, with Bajaj Auto leading the overall market and Mahindra Last Mile Mobility as the top electric manufacturer
 
-## Why not a have a GRE-style NEET exam?
-The GRE conducted by the ETS in the US gives us a useful template to revamp NEET
+## Editorial. Surprising pause
+FOMC ambivalence leaves elbow room for MPC
 
-## India approves just 1 Chinese FDI proposal worth ₹1 cr, 13 Hong Kong proposals worth ₹610.42 cr
-These approvals are crucial, as investments from countries sharing a land border with India have required prior government approval since April 2020 under DPIIT’s Press Note 3
+## Cabinet note in the works to end forex rule for SEZ services
+A proposal to amend the SEZ Act could boost MRO, defence, engineering and IT services by allowing INR payments for services to domestic clients
 
-## Tata Consumer Products warms up to frozen foods as quick commerce changes the game
-Managing Director and CEO Sunil D’Souza noted that quick commerce is enhancing India’s cold-chain infrastructure, making the category commercially viable
+## Over 235 GW RE curtailed in Q1 FY27; Gujarat records highest wastage
+Most of the wastage of this clean energy resource is due to the growing mismatch between fast-moving solar projects and slower-moving transmission infrastructure
 
-## Ashok Leyland to invest ₹1,000 crore in FY27 to scale EV, battery and alternate-fuels
-The CV maker’s FY27 challenge is not building cleaner vehicles, but proving that batteries, EVs and alternate-fuel technologies can work profitably at fleet scale
+## Air freight rises 16% in June, Delhi tops with 1 lakh tonnes for 3rd straight month
+Total cargo handling crosses one million in June quarter led by international cargo growth despite West Asia crisis
 
-## Take dedicated insurance cover for your travel
-Most travellers assume they covered their bases once they buy the standard travel cover; when it comes to risks specific to adventure sports, dedicated cover will protect against them
+## FMCG ad spends resurge encouraged by uptick in customer sentiment
+Brands boost marketing spend expecting stronger demand amid improving macroeconomic conditions
 
-## Rajiv Bajaj shares tips for students on navigating disruption through adaptation
-Bajaj has emerged as the country’s largest EV company by volume, with EVs accounting for 30% of its domestic sales
+## Maharani Wedding Collections sets world record with unique saree pookkalam
+The achievement has been recognized by the Universal Records Forum
+
+## Below the line
+
+
+## India's deep-sea bet: Centre's 'Samudra Manthan' to churn crude — How it works
+India is funding half the cost of deepwater oil and gas exploration wells. This new scheme aims to reduce reliance on imported energy supplies. The government will support sixty exploration wells over the next five years. This initiative encourages companies to explore previously avoided offshore ar
+
+## Bullion market: What will guide gold, silver prices this week?
+Gold and silver prices are expected to trade within a narrow range this week. Investors await key US economic data, especially non-farm payrolls, for Fed policy direction. Purchasing managers' index data from major economies will also be closely monitored. Developments concerning the US-Iran conflic
 
 ## New stock market timings from August 3: What has changed?
 Starting August 3, Sebi will implement a new Closing Auction Session for F&O stocks. This session will determine the official closing price after regular trading concludes. Trading hours in the equity derivatives segment will also extend by ten minutes. The pre-open session has been revised with new
@@ -81,11 +87,17 @@ The stock market faces a crucial week with key domestic and global events. The R
 ## Capital One says anti-money laundering review led to closure of over 300 Trump Organization accounts
 In a significant move, Capital One has closed the Trump Organization's accounts, citing anti-money laundering concerns backed by detailed analysis and adherence to internal policies. This action occurs amidst ongoing legal disputes initiated by the Trump Organization, which accuses the bank of discr
 
-## Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records
-India's passenger vehicle sales saw robust growth in July. Leading manufacturers like Maruti Suzuki and Hyundai reported record monthly dispatches. Tata Motors and Mahindra & Mahindra also posted substantial increases in their sales. This strong momentum was supported by government demand-boosting m
+## IIT Guwahati student dies in Brahmaputra drowning, another rescued: Police
+Local sailors immediately came to the rescue, followed by the National Disaster Response Force (NDRF) team
 
-## Zepto to raise funds amid delayed listing
+## Watch: Scuffle erupts after ‘slipper thrown’ at Pappu Yadav, MP claims ‘plot to kill’ him
+In a video of the incident, a man is heard questioning Yadav, claiming the Independent MP from Purnia had hurt religious sentiments.
 
+## Birbhum police raid aides of absconding stone quarry kingpin Tulu Mondal
+The operation against Mondal started on Wednesday when police seized 15kg of gold bars and ₹28.05 crore from his cousin’s home
+
+## ‘RSS-BJP masters, Taliban slaves’: Pakistan army spokesman flays ‘Muslims befriending kafirs’
+“Does this Taliban regime have any conduct that reflects Islamic values?” the Pak army officer said, “What they do to women, to children… issuing fatwas.”
 
 ## 'Vijay is a courageous leader': DKS after TN CM agrees to defer Cauvery-related Bengaluru visit
 Following widespread protests by farmers and political groups across Karnataka, DK Shivakumar requested C Jospeh Vijay to postpone his visit.
@@ -98,18 +110,6 @@ The Bankipur bypoll, necessitated by the resignation of BJP national president N
 
 ## Climate change shifts malaria risk to southern, East Africa: Study
 The southern and East African regions expected to be hit the hardest in the future are also regions that aren’t accustomed to needing to fight the disease today
-
-## NEET UG 2026 counselling begins August 4; academic session to start Sept 8 | Check schedule here
-The first round of counselling for deemed and central universities will be conducted from August 4 to August 17.
-
-## 'Some madrasas produce jihadis, should not exist': Taslima Nasreen sparks row with remarks on religious schools
-Exiled Bangladeshi author Taslima Nasreen criticized madrasas in Kolkata, claiming they produce jihadists and enable child abuse.
-
-## New unit in Japan’s foreign ministry to help firms enter India
-The new division will explore regulations and challenges faced by Japanese companies that don’t have bases or sales channels in India
-
-## Meghalaya records 58% monsoon rainfall deficit, IMD raises concern
-The rainfall deficit has been widespread, with 10 of Meghalaya’s 11 districts receiving below-normal precipitation during the season
 
 ## AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
 The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank. “Th
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli settlers shoot Palestinian child during farm raid
+CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.
+
+## How to end the ‘Hormuz war’
+The least bad option for the US is to let the MoU Article 5 play out.
+
+## Ukrainian farmers use temporary storage to revive grain exports
+Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.
+
+## Heatwave forces nuclear shutdown in Hungary
+Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.
+
+## Tanks, troops and space
+Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe's security strategy.
+
 ## CIA whistleblower John Kiriakou on accountability and CIA’s history
 Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.
 
-## Firefighting helicopters collide near Athens as Greece battles wildfires
-Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.
+## Greek firefighting helicopters in mid-air collision, four crew missing
+Europe struggles with record-breaking summer heat as wildfires ravage Greece, France and Spain causing mass evacuations.
 
 ## Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea
 Deadly ferry fire leaves dozens missing in Indonesia's Java Sea
-
-## No breakthrough on Strait of Hormuz as Trump halts attack on Iran
-Iran says Trump's comment on pullback from threatened strikes made 'within the context of psychological operations'.
-
-## Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?
-Experts warn that Marco Rubio's Hormuz bypass plan is hindered by pipeline limits and severe Red Sea threats.
-
-## Communal violence between Hindus and Muslims grips southern Nepal
-Several towns in southern Nepal remain on edge after days of communal violence between Hindu and Muslim communities.
-
-## Hundreds mourn Moroccan footballer who died trying to reach Ceuta
-Moroccan footballer Faten Ben Omar El Azizi has been buried after dying while trying to reach Ceuta.
-
-## Pakistan-administered Kashmir election boycott follows deadly crackdown
-Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
