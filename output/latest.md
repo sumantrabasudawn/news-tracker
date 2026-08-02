@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Local volunteers help rebuild destroyed Christian monastery in Lebanon
+Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.
+
+## UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
+UK Prime Minister Andy Burnham said his government will be "relentless" in tackling small boat crossings the Channel.
+
 ## Venezuela and the Dominican Republic say they will work to restore ties
 Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.
 
@@ -245,12 +251,6 @@ Search for remains of three last climbers continues on Broad Peak, days after av
 
 ## Most Americans say Trump has gone too far on US immigration: Poll
 Half of Americans say Trump has gone too far on deportations, though most Republicans still support his approach.
-
-## Iran says negotiations with Oman over Strait of Hormuz in final stages
-Tehran's announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.
-
-## Two helicopters collide mid-air while tackling wildfires in Greece
-Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
