@@ -63,6 +63,15 @@ A proposal to amend the SEZ Act could boost MRO, defence, engineering and IT ser
 ## Over 235 GW RE curtailed in Q1 FY27; Gujarat records highest wastage
 Most of the wastage of this clean energy resource is due to the growing mismatch between fast-moving solar projects and slower-moving transmission infrastructure
 
+## RBI expected to hold rates on Aug 5
+
+
+## Investments in PE-VC fall 6% to $20.3bn in Jan-July
+India's private equity and venture capital investments surpassed twenty billion dollars this year. This figure shows a slight decrease compared to the previous year's performance. July saw investments of three billion dollars, remaining stable from last year's figures. Investors maintain long-term c
+
+## Education needs more capital, fewer curbs: Noel Tata
+
+
 ## West Asia war uncertainty keeps businesses on edge
 Businesses face significant cost management challenges due to ongoing West Asia conflict. Commodity inflation and freight charges create persistent planning uncertainties for companies. This instability may lead to postponed capital deployment and fewer new job additions. Consumers can expect widesp
 
@@ -77,15 +86,6 @@ Gold and silver prices are expected to trade within a narrow range this week. In
 
 ## New stock market timings from August 3: What has changed?
 Starting August 3, Sebi will implement a new Closing Auction Session for F&O stocks. This session will determine the official closing price after regular trading concludes. Trading hours in the equity derivatives segment will also extend by ten minutes. The pre-open session has been revised with new
-
-## Market recap: Top-10 firms add Rs 2.51 lakh crore; Bajaj Finance biggest winner
-India's largest listed firms saw market value increase by Rs 2.51 lakh crore last week. Nine of the top ten most-valued companies experienced valuation gains on Dalal Street. Bajaj Finance led the surge after reporting strong June-quarter earnings, while Hindustan Unilever declined. The BSE Sensex a
-
-## RBI updates deposit rules: From differential rates to daily disclosures, here's what's changing
-The Reserve Bank of India has revised rules for bulk deposits, effective October 2026. Banks can now offer differential interest rates based on liquidity risk under the LCR framework. This move aligns deposit pricing with revised LCR guidelines for better asset-liability management. Mandatory daily 
-
-## FPIs return to India: Rs 20,200 cr injected into equities after months of selling
-Foreign portfolio investors returned to Indian equities in July after four months of outflows. They invested twenty thousand two hundred crore rupees in stocks during July. This renewed interest stems from attractive valuations and improving corporate earnings. Foreign investors also showed strong i
 
 ## 3 states, 3 bypolls: All eyes on PK, Ashutosh Tiwari as Bankipur, Datia, Manjalpur await verdict on Monday
 Both Bankipur and Datia have become prestige battles for the Bharatiya Janata Party, with both being traditional strongholds of the saffron party.
@@ -111,6 +111,9 @@ The operation against Mondal started on Wednesday when police seized 15kg of gol
 ## ‘RSS-BJP masters, Taliban slaves’: Pakistan army spokesman flays ‘Muslims befriending kafirs’
 “Does this Taliban regime have any conduct that reflects Islamic values?” the Pak army officer said, “What they do to women, to children… issuing fatwas.”
 
+## Price war fears grip China’s EV market after woeful July sales figures
+The bearish sentiment surrounding China’s electric vehicle (EV) sector has intensified after three premium carmakers reported weak sales for July, further heightening concerns that the market is heading for another brutal price war. EV makers Xpeng, Nio and Li Auto all reported month-on-month sales 
+
 ## AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
 The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank. “Th
 
@@ -131,9 +134,6 @@ Seventeen Chinese entrepreneurs have held the title of the country’s richest b
 
 ## China cuts durian settlement to 30 minutes with first outbound e-CNY payment to Malaysia
 China has completed its first outbound digital yuan payment to Malaysia, settling a 43,000 yuan (US$6,360) shipment of fresh durian, as Beijing accelerates efforts to build a cross-border clearing network in Southeast Asia outside the Society for Worldwide Interbank Financial Telecommunication (Swif
-
-## Chinese families turn to cash and cautious stock bets as real estate avenues narrow
-Chinese families are fast retreating from real estate, with many holding large cash reserves now cautiously weighing stock investments, marking a stark contrast with South Korea, where retail investors are aggressively using leverage to fuel equity bets at home and abroad. Property’s share of househ
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Brazil’s Lula launches fourth-term bid, focuses on national sovereignty
+Lula seeks to use Bolsonaro family ties with Trump to cast election as fight against submission to foreign interests.
+
+## Sudan army drone attack on Darfur kills 35, rights group says
+Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.
+
 ## Wildfires force mass evacuations across the Pacific Northwest
 Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
 
@@ -248,12 +254,6 @@ Venezuela's government and a section of the opposition plan to hold talks, backe
 
 ## How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?
 Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.
-
-## Israelis attack Armenian monastery in Jerusalem’s Old City
-Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem's Old City.
-
-## Body of climber Nirmal Purja, six others recovered after Pakistan avalanche
-Search for remains of three last climbers continues on Broad Peak, days after avalanche killed all 10 mountaineers.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
