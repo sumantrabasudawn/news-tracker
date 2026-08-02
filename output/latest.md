@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## Iran says deal with Oman to manage shipping through Hormuz is close
-Negotiations on agreement seen as critical to preventing the US-Iran war from escalating said to be in ‘final stages’
+## Trump says Iran talks to resume after US called off major attack
+Oil falls on signs of de-escalation as Tehran says a deal with Oman to reopen Strait of Hormuz to shipping was close
+
+## Labour overtakes Reform UK in polls for first time in more than a year
+Party commands about 25 per cent of the vote as Andy Burnham promises to ‘bring back hope’
 
 ## Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse
 MPS chief executive weighs approach to Banco BPM’s largest shareholder, Crédit Agricole
@@ -21,14 +24,14 @@ Families search for children not seen since 60,000 people crossed into Spanish e
 ## How to save the British high street
 Communities need help to tackle the blight of delinquent landlords who let empty properties decay
 
-## Hungary braced for power cuts amid extreme drought
-Record-low water levels on Danube force country’s first shutdown of nuclear power plant
-
 ## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
 Deal would create the world’s fourth-largest drugmaker by market value
 
 ## Hugo spritz boom shakes Aperol’s fizz
 US sales of Campari’s orange spirit outstripped by Bacardi’s St-Germain elderflower liqueur
+
+## Hungary braced for power cuts amid extreme drought
+Record-low water levels on Danube force country’s first shutdown of nuclear power plant
 
 ## ‘Crush this lady’: how eBay harassment campaign led to $56mn payout
 Employees’ cyberstalking of Boston couple involving macabre deliveries ended in jail time and financial settlement
@@ -60,6 +63,9 @@ A proposal to amend the SEZ Act could boost MRO, defence, engineering and IT ser
 ## Over 235 GW RE curtailed in Q1 FY27; Gujarat records highest wastage
 Most of the wastage of this clean energy resource is due to the growing mismatch between fast-moving solar projects and slower-moving transmission infrastructure
 
+## West Asia war uncertainty keeps businesses on edge
+Businesses face significant cost management challenges due to ongoing West Asia conflict. Commodity inflation and freight charges create persistent planning uncertainties for companies. This instability may lead to postponed capital deployment and fewer new job additions. Consumers can expect widesp
+
 ## China gets just 1 FDI approval in India in FY26, Hong Kong secures 13 proposals
 India approved only one Chinese FDI proposal worth one crore rupees in 2025-26. Hong Kong received approvals for thirteen proposals totaling six hundred ten crore rupees. Singapore led approved investment values with three thousand two hundred fifty-nine crore rupees. The UK and Thailand also saw si
 
@@ -80,9 +86,6 @@ The Reserve Bank of India has revised rules for bulk deposits, effective October
 
 ## FPIs return to India: Rs 20,200 cr injected into equities after months of selling
 Foreign portfolio investors returned to Indian equities in July after four months of outflows. They invested twenty thousand two hundred crore rupees in stocks during July. This renewed interest stems from attractive valuations and improving corporate earnings. Foreign investors also showed strong i
-
-## Dalal Street outlook: RBI policy, earnings and other cues to drive market this week
-The stock market faces a crucial week with key domestic and global events. The Reserve Bank of India's interest rate decision is a major focus for investors. Geopolitical developments in West Asia and crude oil prices will also influence sentiment. Several large companies are set to announce their q
 
 ## 3 states, 3 bypolls: All eyes on PK, Ashutosh Tiwari as Bankipur, Datia, Manjalpur await verdict on Monday
 Both Bankipur and Datia have become prestige battles for the Bharatiya Janata Party, with both being traditional strongholds of the saffron party.
@@ -228,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Wildfires force mass evacuations across the Pacific Northwest
+Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
+
 ## Local volunteers help rebuild destroyed Christian monastery in Lebanon
 Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.
 
@@ -248,9 +254,6 @@ Six Jewish Israelis were filmed spitting at the entrance to Saint James Monaster
 
 ## Body of climber Nirmal Purja, six others recovered after Pakistan avalanche
 Search for remains of three last climbers continues on Broad Peak, days after avalanche killed all 10 mountaineers.
-
-## Most Americans say Trump has gone too far on US immigration: Poll
-Half of Americans say Trump has gone too far on deportations, though most Republicans still support his approach.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
