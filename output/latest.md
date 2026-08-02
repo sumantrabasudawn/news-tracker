@@ -1,6 +1,6 @@
 # AION Intelligence
 
-## Trump cancels new strikes on Iran after Middle East allies’ request
+## Trump says he cancelled Iran strikes after Middle East allies’ request
 US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack
 
 ## Iran sets the pace in war with Trump
@@ -36,29 +36,32 @@ Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity th
 ## Chinese VC firms rush to raise funds after 3-year drought
 Managers capitalise on investors’ desire to ‘hedge’ against US market bets
 
-## Andhra Pradesh, Australia ink 4 MoUs for collaboration across sectors
-MoUs cover solar manufacturing centre, inclusive education, student mental health and vocational training
+## Over 235 GW RE curtailed in Q1 FY27; Gujarat records highest wastage
+Most of the wastage of this clean energy resource is due to the growing mismatch between fast-moving solar projects and slower-moving transmission infrastructure
 
-## IndiGo operates Navi Mumbai airport’s first cargo flight, plans regular freighter service
-The shift comes as Mumbai International Airport Ltd intends to suspend freighter flights in order to carry out airside improvement works
+## IRDAI mandates approval at every key ownership threshold in insurers as sector opens up
+The most significant change relates to prior approval for share transfers
 
-## Leading FMCG firms report robust growth on quick-commerce channel as buying behaviour changes
-Companies are rapidly tailoring their offerings for the quick-commerce platforms
+## Q1 Results Highlights: Muthoot Finance profit up 25%, CleanMax posts ₹55-cr profit, Raymond Lifestyle Q1 loss widens to ₹22.6 cr
+Q1 Results Today, 01st August 2026 Highlights: Find the latest financial results, key announcements, earnings highlights, and market reaction from companies for the June quarter today.
 
-## Dr Reddy’s gets USFDA nod for rituximab biosimilar
-The approval follows Pre-License Inspection (PLI) conducted by the USFDA at the company’s biologics manufacturing facility in Bachupally, Hyderabad.
+## Air freight rises 16% in June, Delhi tops with 1 lakh tonnes for 3rd straight month
+Total cargo handling crosses one million in June quarter led by international cargo growth despite West Asia crisis
 
-## Carmakers post strong July sales, driving 33% YoY industry growth
-Strong consumer demand, new launches and lower borrowing costs drove robust sales growth across passenger vehicle and two-wheeler manufacturers
+## IndiGo at 20: How India’s largest airline took flight, and where it plans to go
+IndiGo, with a domestic market share of more than 66%, is set to induct Airbus A321 XLR aircraft before taking delivery of wide-body A350s from 2028
 
-## Call to seek Centre’s intervention to revive, modernize FACT
-The sharp increase in raw material prices has substantially raised the production cost of phosphatic fertilizers and ammonium sulphate, undermining the company’s financial viability
+## India to fund ₹650 crore per well for 60 deep-sea wells to break its oil import habit
+The Union Cabinet approved the ₹84,084-crore Samudra Manthan National Offshore Exploration Scheme, under which the government will fund half of the the cost of drilling a deep-sea and ultra-deep water exploration well
 
-## Higher tobacco taxes weigh on cigarette makers’ Q1 performance
-ITC, Godfrey Phillips India, and VST Industries reported declines in net revenue, volumes and profitability
+## TVS Motor expands TVS Raider Super Squad Edition with a new Doctor Doom-inspired variant
+It is equipped with connected reverse LCD cluster and iGO Assist technology
 
-## No plan to monetise subsidiaries, focus on enhancing their value: PNB MD
-PNB’s capital adequacy improved to 18.13% as on June 30, 2026, compared to 17.5% at the end of the first quarter of the previous fiscal year
+## Capital inflows, RBI support limit rupee's decline despite 20% oil price surge in July: Report
+BoB says a decline in the US Dollar Index (DXY) by 1.3% during July also provided support to the rupee, even as higher crude oil prices weighed on the domestic currency
+
+## Dalal Street outlook: RBI policy, earnings and other cues to drive market this week
+The stock market faces a crucial week with key domestic and global events. The Reserve Bank of India's interest rate decision is a major focus for investors. Geopolitical developments in West Asia and crude oil prices will also influence sentiment. Several large companies are set to announce their q
 
 ## Capital One says anti-money laundering review led to closure of over 300 Trump Organization accounts
 In a significant move, Capital One has closed the Trump Organization's accounts, citing anti-money laundering concerns backed by detailed analysis and adherence to internal policies. This action occurs amidst ongoing legal disputes initiated by the Trump Organization, which accuses the bank of discr
@@ -81,32 +84,29 @@ Total forex mobilization under RBI's concessional dollar swap facility has excee
 ## July auto sales rev up as Maruti crosses 2L, Tata EVs double
 Several automakers achieved record July sales, largely due to new sport utility vehicle launches. Maruti Suzuki and Tata Motors reported significant year-on-year growth in their passenger vehicle segments. Mahindra also saw substantial increases in its utility vehicle sales during the month. Hyundai
 
-## July GST collections up 15.4% to Rs 2.1 L cr on higher imports
-Goods and Services Tax collections rose 15.4 percent to Rs 2,11,205 crore in July. This increase was largely due to a 29 percent jump in integrated GST on imports. Strong economic activity and higher commodity prices also contributed to the robust tax collections. Central GST mop-up increased 12.3 p
+## 'Grateful for a second chance': Mother of teen girl thanks PM Modi for forgiving her over abusive remarks
+The remarks came a day after PM Modi's video, in which he said he forgives kids for hurling abuse at him during the recent anti-paper-leak protests in Delhi.
 
-## Fake identities, phone numbers: How 5 men impersonated deceased owners in ₹2.29 crore land fraud in Navi Mumbai
-As per police, Shinde got his father and brother-in-law to impersonate the dead brothers by using fake identity documents.
+## No one can interfere if adult women embrace Islam, marry by choice: Allahabad HC
+The court noted that the adult women are competent to take independent decisions regarding their faith, marriage, and future course of life.
 
-## ‘Pakistan eroded faith’: India envoy to US calls out Islamabad's ‘distraction policy’ over Indus Waters Treaty
-Vinay Kwatra said Indus Waters Treaty was founded on "goodwill and friendship", but Pakistan spent decades eroding those principles through its actions.
+## ‘Modi govt's familiar script’: Cong decries NSA detention of Assam activist Pranab Doley after he gets bail
+Pranab Doley was arrested on July 12 over protests against a proposed luxury hotel near Kaziranga National Park; was detained under NSA after he got bail.
 
-## Protests over paper leaks: SC to hear on Monday pleas relating to police action
-Protests over paper leaks: SC to hear on Monday pleas relating to police action
+## Anbumani says Mekedatu dam would block Cauvery flows to TN
+Anbumani says Mekedatu dam would block Cauvery flows to TN
 
-## ‘Drugs being used to hurt India’s interests': PM Modi launches ‘Nasha Mukt Yuva Abhiyan’, urges youths to lead movement
-“More than one crore youths from different sectors, institutions and backgrounds have come together. I urge all of you to lead this movement,” PM Modi said.
+## TN minister rejects demand for all-party meeting to discuss Cauvery water issue
+TN minister rejects demand for all-party meeting to discuss Cauvery water issue
 
-## Jharkhand man climbs 100 ft mobile tower after exam irregularities prevent wife from getting job
-Students are protesting in Jharkhand against the alleged irregularities in the JPSC, JSSC and other recruitment exams over the last few days.
+## Delhi court orders framing of charges in codeine syrup seizure case
+Delhi court orders framing of charges in codeine syrup seizure case
 
-## Raj Thackeray alleges donation theft at Mumbai's Siddhivinayak Temple: ‘ ₹18 crore stolen annually’
-Alleging that ₹1,400 crore had been stolen at the Ram Temple in Ayodhya, Thackeray remarked that temples are not safe these days.
+## Kerala rain fury leaves 8 dead; several missing as downpour triggers landslides, floods | Videos
+In an update shared on X, Kerala CM V D Satheesan on Sunday confirmed eight fatalities, while eight individuals remain missing and 13 others sustained injuries.
 
-## Tatkal ticket booking is now faster on IRCTC's new website
-Citing recent data, IRCTC said bookings done within first three minutes of the Tatkal window increased by over 5%.
-
-## Assam CM says rehab top priority as flood situation improves, toll rises to 82
-Assam CM Himanta Biswa Sarma says flood-hit families are returning home as the government launches a time-bound rehabilitation plan amid a death toll of 82.
+## Studying in Canada is tougher now | See new study permit checks, rules changed
+For study permit renewals, officers have also been instructed to assess whether applicants have sufficient funds for the first year following the extension.
 
 ## China sees flurry of commercial property deals as investors sniff out bargains
 Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery. The value of office buildings, hotels and shopping malls across Ch
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why has Trump halted Iran attacks, and what is the deal he is hinting at?
+Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?
+
+## How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it
+Once Turkiye's prime minister, Ahmet Davutoglu has stepped back from party politics.
+
+## Trump ‘cancels attack on Iran’ saying deal is near
+US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.
+
+## Petro urges global support to stop possible US invasion of Cuba
+Petro urges global support to stop possible US invasion of Cuba
+
+## Lionel Messi returns for Inter Miami after extended post-World Cup break
+Argentinian star made his return for the MLS champions as Inter Miami play out a 2-2 result with Columbus Crew.
+
+## Tarik Skubal acquired by LA Dodgers at the MLB trade deadline
+World Series champions for the past two years add Skubal to star-studded roster that already includes Shohei Ohtani.
+
 ## Arsenal’s Arteta expects more signings as Tzolis scores against Girona
 Newly acquired Christos Tzolis scores for the English champions who have been linked to Bruno Guimaraes and Vinicius Jr.
 
 ## At least three dead in Idaho shopping mall mass shooting
 Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.
-
-## Gaza students overcome Israel’s genocide to mark Tawjihi results
-Students in Gaza overcome distressing conditions amid Israel's genocide to finish their Tawjihi high school exams.
-
-## Three dead including female bomber in Moscow restaurant attack
-At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.
-
-## Why isn’t anyone challenging Infantino for FIFA’s top job?
-FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in the World Cup after global outrage.
-
-## How Virunga Park protects people and gorillas from Ebola in eastern DRC
-Health checkpoints and surveillance aim to contain the outbreak and protect endangered mountain gorillas.
-
-## Trump cancels Iran strike, says ‘deal perimeters’ reached
-The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.
-
-## Israel kills eight in Gaza despite Trump’s Hamas disarmament plan
-Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
