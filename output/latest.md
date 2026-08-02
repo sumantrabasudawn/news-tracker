@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## America’s biggest companies report ‘rock solid’ profits as consumers face higher costs
+S&P 500 groups on track for strongest earnings in five years
+
+## Europe’s weak reaction to Spain’s migrant crisis
+Pedro Sánchez is being unfairly singled out for a liberal immigration policy
+
+## Morocco counts its dead and missing after mass swim to Ceuta
+Families search for children not seen since 60,000 people crossed into Spanish enclave, as death toll rises to 72
+
+## How to save the British high street
+Communities need help to tackle the blight of delinquent landlords who let empty properties decay
+
 ## Hungary braced for power cuts amid extreme drought
 Record-low water levels on Danube force country’s first shutdown of nuclear power plant
 
@@ -15,15 +27,6 @@ Employees’ cyberstalking of Boston couple involving macabre deliveries ended i
 ## Walter insurers paid millions of dollars to credit rating provider Egan-Jones
 Billionaire investor faces wide-ranging probe into the private credit holdings of insurers he controls
 
-## Will July’s US employment data prompt a rethink on rates?
-Market Questions is the FT’s guide to the week ahead
-
-## What percentage of UK households are net contributors?
-Despite attempts, the figure is virtually impossible to calculate
-
-## ‘Voters have had it’: influence of pro-Israel lobby group sparks backlash in the US
-Aipac’s links to Israeli Prime Minister Benjamin Netanyahu provoke controversy in midterm election campaigns
-
 ## Morgan Stanley’s IPO after-party: a wealth management bonanza
 Bank’s underwriting of SpaceX and other new issues generates $74bn second-quarter haul in wealth management assets
 
@@ -36,8 +39,17 @@ Chief executive of French-Dutch airline group sees opportunity if low-cost carri
 ## Italy’s Giorgia Meloni bets big on nuclear power revival
 Rural backlash against renewables that ‘spoil the landscape’ fuels support for atomic energy decades after reactor shutdowns
 
-## Foreign bidders woo UK companies with ‘bear hug’ takeover offers
-London-listed businesses face surge in unsolicited public offers that aim to pressure boards into acceptance
+## SEBI’s ban on Zee from securities market puts warrants issuance in limbo: inGovern
+Zee Entertainment Enterprises approved the issue of ₹3,143.5 crore worth of fully convertible warrants to promoter group entity Sunbright Mauritius Investments Ltd. on a preferential basis.
+
+## “Muthoot is to gold loan what SBI is to banking,” George Alexandar Muthoot
+For our customers, gold loans remain primarily a short-term financing product.
+
+## FSSAI says some alcobev firms add flavours to mask natural chemical composition, mislead consumers
+FSSAI has issued notices to some companies for adding artificial flavors to alcobev products like rum and whisky, violating regulations
+
+## Trump holds Off Iran strikes on pledge a Hormuz deal is close
+Neither Iranian media nor officials have indicated a deal is close
 
 ## No extraordinary spending planned this fiscal, says Niva Bupa; insurer eyes EoM reduction
 
@@ -51,17 +63,8 @@ A proposal to amend the SEZ Act could boost MRO, defence, engineering and IT ser
 ## Over 235 GW RE curtailed in Q1 FY27; Gujarat records highest wastage
 Most of the wastage of this clean energy resource is due to the growing mismatch between fast-moving solar projects and slower-moving transmission infrastructure
 
-## Air freight rises 16% in June, Delhi tops with 1 lakh tonnes for 3rd straight month
-Total cargo handling crosses one million in June quarter led by international cargo growth despite West Asia crisis
-
-## FMCG ad spends resurge encouraged by uptick in customer sentiment
-Brands boost marketing spend expecting stronger demand amid improving macroeconomic conditions
-
-## Maharani Wedding Collections sets world record with unique saree pookkalam
-The achievement has been recognized by the Universal Records Forum
-
-## Below the line
-
+## China gets just 1 FDI approval in India in FY26, Hong Kong secures 13 proposals
+India approved only one Chinese FDI proposal worth one crore rupees in 2025-26. Hong Kong received approvals for thirteen proposals totaling six hundred ten crore rupees. Singapore led approved investment values with three thousand two hundred fifty-nine crore rupees. The UK and Thailand also saw si
 
 ## India's deep-sea bet: Centre's 'Samudra Manthan' to churn crude — How it works
 India is funding half the cost of deepwater oil and gas exploration wells. This new scheme aims to reduce reliance on imported energy supplies. The government will support sixty exploration wells over the next five years. This initiative encourages companies to explore previously avoided offshore ar
@@ -84,13 +87,16 @@ Foreign portfolio investors returned to Indian equities in July after four month
 ## Dalal Street outlook: RBI policy, earnings and other cues to drive market this week
 The stock market faces a crucial week with key domestic and global events. The Reserve Bank of India's interest rate decision is a major focus for investors. Geopolitical developments in West Asia and crude oil prices will also influence sentiment. Several large companies are set to announce their q
 
-## Capital One says anti-money laundering review led to closure of over 300 Trump Organization accounts
-In a significant move, Capital One has closed the Trump Organization's accounts, citing anti-money laundering concerns backed by detailed analysis and adherence to internal policies. This action occurs amidst ongoing legal disputes initiated by the Trump Organization, which accuses the bank of discr
+## Taslima Nasreen pushes for UCC implementation in India: ‘Much needed in any civilised country’
+Nasreen pushed for the implementation of a Uniform Civil Code in Bangladesh, India and Pakistan to prevent discrimination, particularly against women.
+
+## Sheikh Hasina to make first public appearance two years after Bangladesh ouster: Reports
+According to multiple media reports, Hasina will attend a virtual event hosted by the Foreign Correspondents' Club of South Asia (FCC South Asia) in New Delhi.
 
 ## IIT Guwahati student dies in Brahmaputra drowning, another rescued: Police
 Local sailors immediately came to the rescue, followed by the National Disaster Response Force (NDRF) team
 
-## Watch: Scuffle erupts after ‘slipper thrown’ at Pappu Yadav, MP claims ‘plot to kill’ him
+## Watch: Scuffle erupts after slipper thrown at Pappu Yadav, MP claims ‘plot to kill’ him
 In a video of the incident, a man is heard questioning Yadav, claiming the Independent MP from Purnia had hurt religious sentiments.
 
 ## Birbhum police raid aides of absconding stone quarry kingpin Tulu Mondal
@@ -104,12 +110,6 @@ Following widespread protests by farmers and political groups across Karnataka, 
 
 ## A black crust is decaying Humayun's Tomb in Delhi. How the air is to blame, and what can be done
 For Delhi's monuments, researchers recommend regular maintenance, protective coatings and then monitoring.
-
-## Prashant Kishor says he'll give crushing defeat to BJP in Bankipur, takes ‘dogs or cats’ swipe | Bypoll result on Aug 3
-The Bankipur bypoll, necessitated by the resignation of BJP national president Nitin Nabin following his election to the Rajya Sabha, was held on Thursday.
-
-## Climate change shifts malaria risk to southern, East Africa: Study
-The southern and East African regions expected to be hit the hardest in the future are also regions that aren’t accustomed to needing to fight the disease today
 
 ## AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
 The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank. “Th
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Suicide bomber kills 14 outside police station in Pakistan’s Swat
+Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.
+
+## Capital One cites anti-money laundering concerns in Trump Organization case
+Capital One says Trump Organization account closures in 2021 followed review by anti-money-laundering team.
+
+## Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war
+US president halted strikes after earlier threatening Iran with unprecedented force.
+
 ## Israeli settlers shoot Palestinian child during farm raid
 CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.
 
@@ -245,15 +254,6 @@ Hungary says a heatwave has forced the shutdown of its largest nuclear plant as 
 
 ## Tanks, troops and space
 Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe's security strategy.
-
-## CIA whistleblower John Kiriakou on accountability and CIA’s history
-Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.
-
-## Greek firefighting helicopters in mid-air collision, four crew missing
-Europe struggles with record-breaking summer heat as wildfires ravage Greece, France and Spain causing mass evacuations.
-
-## Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea
-Deadly ferry fire leaves dozens missing in Indonesia's Java Sea
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
