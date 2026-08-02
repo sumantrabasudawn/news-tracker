@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## ‘Voters have had it’: influence of pro-Israel lobby group sparks backlash in the US
+Aipac’s links to Israeli Prime Minister Benjamin Netanyahu provoke controversy in midterm election campaigns
+
+## Morgan Stanley’s IPO after-party: a wealth management bonanza
+Bank’s underwriting of SpaceX and other new issues generates $74bn second-quarter haul in wealth management assets
+
 ## Trump says he cancelled Iran strikes after Middle East allies’ request
 US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack
 
@@ -18,14 +24,14 @@ Health risks from Britain’s industrial past have been ‘left unaddressed’ f
 ## Freemasons seek a new generation of members
 Society known for secret handshakes tries to attract younger people as its membership ages
 
+## Air France-KLM targets easyJet passengers during takeover turmoil
+Chief executive of French-Dutch airline group sees opportunity if low-cost carrier is acquired by its suitors
+
 ## Foreign bidders woo UK companies with ‘bear hug’ takeover offers
 London-listed businesses face surge in unsolicited public offers that aim to pressure boards into acceptance
 
 ## Apple struggles to keep pace with AI ‘bug’ hunters
 iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports
-
-## Air France-KLM targets easyJet passengers during takeover turmoil
-Chief executive of French-Dutch airline group sees opportunity if low-cost carrier is acquired by its suitors
 
 ## German carmakers flood jobs market with managers after wielding axe
 Volkswagen approaches headhunter to find positions for hundreds of departing managers
@@ -33,32 +39,38 @@ Volkswagen approaches headhunter to find positions for hundreds of departing man
 ## Australian farmers in trade dispute over pineapple import plan
 Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity threat
 
-## Chinese VC firms rush to raise funds after 3-year drought
-Managers capitalise on investors’ desire to ‘hedge’ against US market bets
+## Gold, silver seen range-bound as focus shifts to US job numbers, Fed cues: Analysts
+On the domestic front, gold futures for August delivery fell by ₹1,595, or 1.1%, during the last week to close at ₹1.41 lakh per 10 grams
 
-## Over 235 GW RE curtailed in Q1 FY27; Gujarat records highest wastage
-Most of the wastage of this clean energy resource is due to the growing mismatch between fast-moving solar projects and slower-moving transmission infrastructure
+## Govt to introduce Bill to replace 125-year-old law on presenting bank records as evidence in courts
+Finance Minister Nirmala Sitharaman will introduce the Bankers’ Books Evidence Bill, 2026 in Parliament on Monday, replacing the 125-year-old Bankers’ Books Evidence Act, 1891
 
-## IRDAI mandates approval at every key ownership threshold in insurers as sector opens up
-The most significant change relates to prior approval for share transfers
+## India needs more quality universities to curb demand for overseas education: Noel Tata
+He said Tata Trusts is moving beyond its traditional role of funding NGOs and individual development projects towards creating institutions
 
-## Q1 Results Highlights: Muthoot Finance profit up 25%, CleanMax posts ₹55-cr profit, Raymond Lifestyle Q1 loss widens to ₹22.6 cr
-Q1 Results Today, 01st August 2026 Highlights: Find the latest financial results, key announcements, earnings highlights, and market reaction from companies for the June quarter today.
+## Apartment sales in Bengaluru rise 16% in Jan-Jun to 35K units, highest among top 7 cities: JLL
+Strong demand and a 41% increase in new apartment supply highlight Bengaluru’s robust real estate growth, as buyers increasingly seek premium living options in a city evolving beyond its IT-centric roots
 
-## Air freight rises 16% in June, Delhi tops with 1 lakh tonnes for 3rd straight month
-Total cargo handling crosses one million in June quarter led by international cargo growth despite West Asia crisis
+## Lodha Developers to monetise 150 acres at data centre park in MMR for ₹10,000 cr: MD
+The company is expecting an average of ₹60 crore per acre from the land sale at data centre park at Pallava in MMR
 
-## IndiGo at 20: How India’s largest airline took flight, and where it plans to go
-IndiGo, with a domestic market share of more than 66%, is set to induct Airbus A321 XLR aircraft before taking delivery of wide-body A350s from 2028
+## New market timings from Monday; F&O segment to remain open till 3:40pm
+Revised trading hours add a Closing Auction Session for F&O stocks, improving market efficiency and price discovery, while non-F&O stock timings remain unchanged
 
-## India to fund ₹650 crore per well for 60 deep-sea wells to break its oil import habit
-The Union Cabinet approved the ₹84,084-crore Samudra Manthan National Offshore Exploration Scheme, under which the government will fund half of the the cost of drilling a deep-sea and ultra-deep water exploration well
+## IMD forecasts heavy rain in several parts of Jharkhand till August 6
+Light to moderate rainfall accompanied by thunderstorms, lightning, and gusty winds with speeds of 40-50 kmph is likely across the state during this period, the India Meteorological Department
 
-## TVS Motor expands TVS Raider Super Squad Edition with a new Doctor Doom-inspired variant
-It is equipped with connected reverse LCD cluster and iGO Assist technology
+## TN govt to expand scope of CM health insurance scheme: Minister Arunraj
+“We are discussing if we can further increase its scope. A good decision will be taken soon," TN Health Minister K G Arunraj, said.
 
-## Capital inflows, RBI support limit rupee's decline despite 20% oil price surge in July: Report
-BoB says a decline in the US Dollar Index (DXY) by 1.3% during July also provided support to the rupee, even as higher crude oil prices weighed on the domestic currency
+## Market recap: Top-10 firms add Rs 2.51 lakh crore; Bajaj Finance biggest winner
+India's largest listed firms saw market value increase by Rs 2.51 lakh crore last week. Nine of the top ten most-valued companies experienced valuation gains on Dalal Street. Bajaj Finance led the surge after reporting strong June-quarter earnings, while Hindustan Unilever declined. The BSE Sensex a
+
+## RBI updates deposit rules: From differential rates to daily disclosures, here's what's changing
+The Reserve Bank of India has revised rules for bulk deposits, effective October 2026. Banks can now offer differential interest rates based on liquidity risk under the LCR framework. This move aligns deposit pricing with revised LCR guidelines for better asset-liability management. Mandatory daily 
+
+## FPIs return to India: Rs 20,200 cr injected into equities after months of selling
+Foreign portfolio investors returned to Indian equities in July after four months of outflows. They invested twenty thousand two hundred crore rupees in stocks during July. This renewed interest stems from attractive valuations and improving corporate earnings. Foreign investors also showed strong i
 
 ## Dalal Street outlook: RBI policy, earnings and other cues to drive market this week
 The stock market faces a crucial week with key domestic and global events. The Reserve Bank of India's interest rate decision is a major focus for investors. Geopolitical developments in West Asia and crude oil prices will also influence sentiment. Several large companies are set to announce their q
@@ -75,14 +87,20 @@ India's passenger vehicle sales saw robust growth in July. Leading manufacturers
 ## 5.9 crore returns filed till July 31 deadline: I-T dept
 Nearly 5.9 crore income tax returns were filed by the July 31 deadline. This number is lower than last year's extended filing period. Major tax concessions were announced during the last financial year. Taxpayers can still file returns until December with a penalty. Business income filers have diffe
 
-## UPI transactions touch Rs 76cr/day, FASTag declines
-UPI processed 2,366 crore transactions in July, showing significant year-on-year growth. NETC FASTag transactions declined by 6% compared to the previous year. The value of UPI transactions rose to Rs 29.88 lakh crore in July. NETC FASTag transaction value also saw a decrease from the prior month. U
+## Raj Thackeray targets Vivek Oberoi, R Madhavan: ‘If India is doing well under PM Modi, why live in Dubai?’
+The MNS chief criticised the actors for supporting PM Modi and acting in “government-sponsored films” yet choosing to live outside India.
 
-## Forex mop up under RBI's swap scheme doubles to over $40bn
-Total forex mobilization under RBI's concessional dollar swap facility has exceeded forty billion dollars. This amount more than doubled in just a fortnight, surpassing previous deposit drives. Foreign Currency Non-Resident (Bank) deposits formed the largest portion of these inflows. The facility en
+## 4 held after 15-year-old girl found dead at Assam home; family claims rape: Cop
+The victim’s sister alleged that the attackers used utensils and other objects to mutilate the body after the assault
 
-## July auto sales rev up as Maruti crosses 2L, Tata EVs double
-Several automakers achieved record July sales, largely due to new sport utility vehicle launches. Maruti Suzuki and Tata Motors reported significant year-on-year growth in their passenger vehicle segments. Mahindra also saw substantial increases in its utility vehicle sales during the month. Hyundai
+## Mother of teen girl who abused PM Modi upset as 'FIR not withdrawn' despite apology, claims CJP
+Lawyer Ratna Singh said that the mother was relieved to hear that the CJP was backing her and said she would reach out whenever any assistance is required.
+
+## Leading pharma company recalls eye drops in India after contamination scare | Full list of 10 products here
+Sun Pharma says, “We have taken all necessary steps in the best interest of patients and in accordance with regulatory requirements."
+
+## Jaish operative, his girlfriend, honeytrap, and a plan to ‘target’ CM Suvendu, CJP protest: Bengal police's big case
+The Bengal STF arrested the alleged Jaish operative – who had planned to target Adhikari and carry out sabotage at the recent students' protest – on Friday.
 
 ## 'Grateful for a second chance': Mother of teen girl thanks PM Modi for forgiving her over abusive remarks
 The remarks came a day after PM Modi's video, in which he said he forgives kids for hurling abuse at him during the recent anti-paper-leak protests in Delhi.
@@ -92,21 +110,6 @@ The court noted that the adult women are competent to take independent decisions
 
 ## ‘Modi govt's familiar script’: Cong decries NSA detention of Assam activist Pranab Doley after he gets bail
 Pranab Doley was arrested on July 12 over protests against a proposed luxury hotel near Kaziranga National Park; was detained under NSA after he got bail.
-
-## Anbumani says Mekedatu dam would block Cauvery flows to TN
-Anbumani says Mekedatu dam would block Cauvery flows to TN
-
-## TN minister rejects demand for all-party meeting to discuss Cauvery water issue
-TN minister rejects demand for all-party meeting to discuss Cauvery water issue
-
-## Delhi court orders framing of charges in codeine syrup seizure case
-Delhi court orders framing of charges in codeine syrup seizure case
-
-## Kerala rain fury leaves 8 dead; several missing as downpour triggers landslides, floods | Videos
-In an update shared on X, Kerala CM V D Satheesan on Sunday confirmed eight fatalities, while eight individuals remain missing and 13 others sustained injuries.
-
-## Studying in Canada is tougher now | See new study permit checks, rules changed
-For study permit renewals, officers have also been instructed to assess whether applicants have sufficient funds for the first year following the extension.
 
 ## China sees flurry of commercial property deals as investors sniff out bargains
 Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery. The value of office buildings, hotels and shopping malls across Ch
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Indigenous groups oppose Milei plan to open Argentina to foreign buyers
+Indigenous people protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.
+
+## Ben-Gvir mocks Palestinian detainee over prison conditions
+Ben-Gvir mocks Palestinian detainee over prison conditions
+
+## From Sudan to Spain: Between war and home | Al Jazeera Originals
+A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.
+
+## Israeli soldiers jailed over Sde Teiman walkout
+Fourteen Israeli soldiers have been sentenced to military prison after leading an unauthorised walkout from Sde Teiman.
+
+## FIFA boss Infantino’s position looks unacceptable: European Leagues head
+Claudius Schafer says there can be 'only one consequence' to Infantino's actions over his World Cup privatisation plan.
+
+## Residents of Spain’s Ceuta shut down far-right anti-migrant rally
+Hundreds of residents in Spain's North African enclave of Ceuta gathered to oppose a planned far-right rally.
+
+## A quiet day in Harare after Zimbabwe’s shutdown call
+A heavy security presence and cautious businesses reflected tensions over constitutional changes.
+
 ## Why has Trump halted Iran attacks, and what is the deal he is hinting at?
 Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?
-
-## How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it
-Once Turkiye's prime minister, Ahmet Davutoglu has stepped back from party politics.
-
-## Trump ‘cancels attack on Iran’ saying deal is near
-US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.
-
-## Petro urges global support to stop possible US invasion of Cuba
-Petro urges global support to stop possible US invasion of Cuba
-
-## Lionel Messi returns for Inter Miami after extended post-World Cup break
-Argentinian star made his return for the MLS champions as Inter Miami play out a 2-2 result with Columbus Crew.
-
-## Tarik Skubal acquired by LA Dodgers at the MLB trade deadline
-World Series champions for the past two years add Skubal to star-studded roster that already includes Shohei Ohtani.
-
-## Arsenal’s Arteta expects more signings as Tzolis scores against Girona
-Newly acquired Christos Tzolis scores for the English champions who have been linked to Bruno Guimaraes and Vinicius Jr.
-
-## At least three dead in Idaho shopping mall mass shooting
-Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
