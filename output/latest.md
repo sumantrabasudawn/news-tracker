@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Chinese VC firms rush to raise funds after 3-year drought
+Managers capitalise on investors’ desire to ‘hedge’ against US market bets
+
 ## Spain pushes migrants home as Ceuta vents over ‘invasion’
 Soldiers round up Moroccans hoping to remain in the enclave in the face of local opposition
 
@@ -21,8 +24,8 @@ Miner may have found America’s largest deposit of crucial defence metal but sp
 ## Burnham grabs the narrative in first fortnight of power
 Labour Party overtakes Nigel Farage’s Reform UK in some polls after new prime minister finds feel-good tone
 
-## Surging UK stocks prompt flurry of trades on investment platforms
-Daily trades jump in July as FTSE 100 hits record high
+## Australian farmers in trade dispute over pineapple import plan
+Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity threat
 
 ## Special edition: Wall Street’s wild week
 Inside the tumult at Situational Awareness and Fifa abandons its World Cup deal
@@ -39,17 +42,14 @@ The possibility of consumers delegating financial tasks to agentic AI poses a ne
 ## Beating Berlin’s Sunday blues
 Germany’s weekly retail shutdown is bad for the country’s economy and the atmosphere of its cities
 
-## The great American cheese ambassadors get to work
-US dairies are boosting whey production to meet surging protein demand. Now they have to sell the curds
+## Singapore Good Soil Foundation Hosts Third Next Generation Philanthropy Leadership Program at the University of Hong Kong, Empowering the Next Generation of Global Changemakers
+Singapore Good Soil Foundation Hosts Third Next Generation Philanthropy Leadership Program at the University of Hong Kong, Empowering the Next Generation of Global Changemakers
 
-## How the West End’s landlords are preparing London for Saudi summers
-Redesign of the capital’s squares and buildings for a future of more heat and floods
+## Micron, SK hynix, Oracle, SpaceX, Google, Microsoft et al: AI’s dotcom deja vu
+The rout in Kospi index is no longer a Korea-only story and AI-theme stocks have been under pressure across markets
 
 ## Who Am I? August 2, 2026
 Are you an avid investor? How well do you know corporate India?
-
-## AI’s dotcom deja vu
-The rout in Kospi index is no longer a Korea-only story and AI-theme stocks have been under pressure across markets
 
 ## ICICI Prudential Flexicap: Conviction behind the flexibility
 The ₹22,500-crore fund blends conviction, flexibility and disciplined portfolio construction effectively
@@ -65,9 +65,6 @@ An analysis of schemes launched by fund houses that entered the market over the 
 
 ## India’s active MFs lag benchmarks, yet beat global peers
 Seven in 10 large-cap and three in four mid-cap schemes trail five-year benchmarks; small-cap schemes emerge as the relative bright spot
-
-## Maruti Suzuki banks on new plants, CNG push to sustain growth after record July sales
-The company expects recently commissioned plants at Hansalpur and Kharkhoda to help ease supply constraints over the next three to four months, enabling it to meet festive season demand
 
 ## Zepto to raise funds amid delayed listing
 
@@ -93,29 +90,29 @@ India's UPI platform achieved its highest monthly transaction value ever. In Jul
 ## Indian equities ‘probably oversold’: FIIs warm up after months of outflows
 Foreign investors are showing renewed interest in Indian equities after significant outflows. Geopolitical uncertainties and elevated oil prices continue to pose risks to the outlook. India's domestic economy demonstrates robust performance with healthy sales and credit growth. The Reserve Bank of I
 
-## 'On Aug 4, at 12 pm': Kejriwal plans march to PM's residence with '100 who don't fear jail' over E20 concerns
-The scheduled march marks the latest in a series of attacks by the AAP targeted towards the Centre's fuel-blending policy.
+## Former Bihar minister, husband to serve 7-year term in Arms Act case
+They were also fined ₹50,000 each under Section 25 (1-A) read with Section 35 of the Arms Act, said public prosecutor Ram Prakash Yadav.
 
-## ‘Hopefully, he will post another video’: Dipke seeks PM's apology over cops' action on '12-year-olds' during CJP protest
-Referring to PM Modi’s late-night video in which he “forgave” students for “abuses” against him, Dipke said he hoped for another video.
+## Anybody who backs delimitation is betraying Tamil Nadu, says Rahul Gandhi
+He urged all parties in the state to oppose the proposal, alleging it would weaken Tamil Nadu’s voice in national politics.
 
-## Pappu Yadav faces police complaint over Parliament skit on Ram Mandir donations theft
-The complaint accused Yadav of hurting religious sentiments during the Parliament protest.
+## DMK moves SC, seeks immediate Cauvery water release by Karnataka
+Pointing out the urgency of the situation, the DMK said, “The present period is the most crucial period of the entire water year for the Cauvery Delta
 
-## Ram temple donation probe in final stage: Trust member
-Trust member Mahant Das said inquiry into the alleged irregularities involving gold, silver and other offerings made by devotees has reached its final stage.
+## Illegal sale of unauthorised army-pattern combat clothes busted in Rajasthan's Sriganganagar
+The Indian army had earlier secured a patent for a new combat uniform unveiled in 2022 to prevent unauthorised sale and misuse.
 
-## Six dead as heavy rain batters Kerala, rescue operations continue
-Four of the deaths occurred in separate landslides in Idukki and Kottayam districts, where several others were rescued.
+## Day after 'forgive' remark, PM Modi praises youth for powering India's growth
+PM Modi said the country’s transformation from the constraints of colonial rule had been made possible by the capabilities of its young people.
 
-## 'I got only five minutes': DKS says PM Modi's message more important, cuts short speech at Mysuru event
-"I don't want to waste your time. Prime Minister's message is very important for the country,” Shivakumar said.
+## ‘Took me 19 years to say I have returned to Kolkata’: Exiled Bangladeshi author Taslima Nasrin
+Nasrin returned to Kolkata after more than 18 years, after she was forced to leave in November 2007 by the then Left Front government.
 
-## Amit Shah urges youth to read Bhagavad Gita Rahasya: 'You'll never make mistakes in life'
-Amit Shah added Lokmanya Tilak's interpretation explained how an ordinary citizen could imbibe the principles of the Bhagavad Gita in everyday life."
+## FIR against Rahul Gandhi, Pappu Yadav, Awadhesh Prasad in Varanasi over donation theft skit at Parliament
+INDIA bloc MPs on Friday enacted a skit to highlight Ram Temple donation theft and the police action against protesters during their July 20 Parliament march.
 
-## Tripura’s Ashmita Dey wins India’s first Commonwealth judo gold
-Ashmita’s interest in judo began when she watched one of her cousins practise the sport at the age of seven or eight
+## Embattled NTA floats ₹7.5 crore tender for round-the-clock security at HQ, regional offices
+The contract will initially be for two years and can be extended by two additional one-year terms based on performance.
 
 ## China’s next export is the world’s factory itself
 China’s export boom is reaching its limits. The country’s next phase of growth will come not from shipping more goods abroad, but from exporting its factories, technologies and brands. China is running up against the limits of its old model. It is obvious as the economy looks increasingly K-shaped. 
@@ -237,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Thirteen dead in Peruvian tourist plane crash over Nazca Lines
+Footage shows firefighters dousing the wreckage of a crashed tourist aircraft in southern Peru.
+
+## Gunman kills several at Idaho fast-food restaurant
+Multiple deaths reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho.
+
+## Hungary plans to shut down only nuclear power plant amid drought
+Officials say they must shut down nation's sole nuclear plant as record-low Danube water levels disrupt reactor cooling.
+
+## Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’
+Iran's Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.
+
+## Singapore bans UK band Massive Attack over Palestinian flag
+Singapore barred two members of British band Massive Attack from re-entering the country.
+
 ## New York Times reveals Trump administration subpoena over North Korea story
 The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.
 
@@ -245,21 +257,6 @@ Taiwan's GDP is soaring on back of US imports of AI chips, but experts warn that
 
 ## Michigan joins Minnesota in reporting cyberattacks, with FBI investigating
 No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.
-
-## US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks
-Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.
-
-## Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?
-What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?
-
-## Al Jazeera reports from Ceuta as migrants leave the enclave
-Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.
-
-## Police say 13 killed as small plane viewing Nazca Lines in Peru crashes
-Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO.
-
-## Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
-Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
