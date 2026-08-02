@@ -39,11 +39,11 @@ Chief executive of French-Dutch airline group sees opportunity if low-cost carri
 ## Italy’s Giorgia Meloni bets big on nuclear power revival
 Rural backlash against renewables that ‘spoil the landscape’ fuels support for atomic energy decades after reactor shutdowns
 
+## “Muthoot is to gold loan what SBI is to banking,” George Alexander Muthoot
+For our customers, gold loans remain primarily a short-term financing product.
+
 ## SEBI’s ban on Zee from securities market puts warrants issuance in limbo: inGovern
 Zee Entertainment Enterprises approved the issue of ₹3,143.5 crore worth of fully convertible warrants to promoter group entity Sunbright Mauritius Investments Ltd. on a preferential basis.
-
-## “Muthoot is to gold loan what SBI is to banking,” George Alexandar Muthoot
-For our customers, gold loans remain primarily a short-term financing product.
 
 ## FSSAI says some alcobev firms add flavours to mask natural chemical composition, mislead consumers
 FSSAI has issued notices to some companies for adding artificial flavors to alcobev products like rum and whisky, violating regulations
@@ -87,6 +87,12 @@ Foreign portfolio investors returned to Indian equities in July after four month
 ## Dalal Street outlook: RBI policy, earnings and other cues to drive market this week
 The stock market faces a crucial week with key domestic and global events. The Reserve Bank of India's interest rate decision is a major focus for investors. Geopolitical developments in West Asia and crude oil prices will also influence sentiment. Several large companies are set to announce their q
 
+## 3 states, 3 bypolls: All eyes on PK, Ashutosh Tiwari as Bankipur, Datia, Manjalpur await verdict on Monday
+Both Bankipur and Datia have become prestige battles for the Bharatiya Janata Party, with both being traditional strongholds of the saffron party.
+
+## 'CJP stands with all students': Dipke backs Jharkhand students protesting JPSC, JSSC exam irregularities
+CJP founder Abhijeet Dipke on Sunday said that he spoke with the students protesting in Jharkhand.
+
 ## Taslima Nasreen pushes for UCC implementation in India: ‘Much needed in any civilised country’
 Nasreen pushed for the implementation of a Uniform Civil Code in Bangladesh, India and Pakistan to prevent discrimination, particularly against women.
 
@@ -104,12 +110,6 @@ The operation against Mondal started on Wednesday when police seized 15kg of gol
 
 ## ‘RSS-BJP masters, Taliban slaves’: Pakistan army spokesman flays ‘Muslims befriending kafirs’
 “Does this Taliban regime have any conduct that reflects Islamic values?” the Pak army officer said, “What they do to women, to children… issuing fatwas.”
-
-## 'Vijay is a courageous leader': DKS after TN CM agrees to defer Cauvery-related Bengaluru visit
-Following widespread protests by farmers and political groups across Karnataka, DK Shivakumar requested C Jospeh Vijay to postpone his visit.
-
-## A black crust is decaying Humayun's Tomb in Delhi. How the air is to blame, and what can be done
-For Delhi's monuments, researchers recommend regular maintenance, protective coatings and then monitoring.
 
 ## AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
 The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank. “Th
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Fetus found among the ruins of a deadly Israeli strike on Gaza
+Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.
+
+## Migrant deaths in Ceuta rise to 72 after border surge from Morocco
+Five more bodies have been found along Ceuta's coastline as enclave recovers from unprecedented border influx.
+
+## ‘Iran war participation trophy’ mocking Trump appears in New York
+A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.
+
+## Deadly floods and landslide hit India’s Kerala
+At least two people have been killed and eight injured after torrential rain triggered flooding
+
 ## Suicide bomber kills 14 outside police station in Pakistan’s Swat
 Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.
 
@@ -242,18 +254,6 @@ US president halted strikes after earlier threatening Iran with unprecedented fo
 
 ## Israeli settlers shoot Palestinian child during farm raid
 CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.
-
-## How to end the ‘Hormuz war’
-The least bad option for the US is to let the MoU Article 5 play out.
-
-## Ukrainian farmers use temporary storage to revive grain exports
-Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.
-
-## Heatwave forces nuclear shutdown in Hungary
-Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.
-
-## Tanks, troops and space
-Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe's security strategy.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
