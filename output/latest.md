@@ -3,6 +3,12 @@
 ## Trump says Iran talks to resume after US called off major attack
 Oil falls on signs of de-escalation as Tehran says a deal with Oman to reopen Strait of Hormuz to shipping was close
 
+## Japan vows to intervene again with US over yen if needed
+Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’
+
+## UK graduate job openings fall to lowest level since pandemic
+Indeed’s findings point to challenge facing Andy Burnham to boost youth unemployment and cut welfare bill
+
 ## Labour overtakes Reform UK in polls for first time in more than a year
 Party commands about 25 per cent of the vote as Andy Burnham promises to ‘bring back hope’
 
@@ -18,14 +24,8 @@ S&P 500 groups on track for strongest earnings in five years
 ## Europe’s weak reaction to Spain’s migrant crisis
 Pedro Sánchez is being unfairly singled out for a liberal immigration policy
 
-## Morocco counts its dead and missing after mass swim to Ceuta
-Families search for children not seen since 60,000 people crossed into Spanish enclave, as death toll rises to 72
-
-## How to save the British high street
-Communities need help to tackle the blight of delinquent landlords who let empty properties decay
-
 ## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
-Deal would create the world’s fourth-largest drugmaker by market value
+Deal would create world’s fourth-largest drugmaker by market value
 
 ## Hugo spritz boom shakes Aperol’s fizz
 US sales of Campari’s orange spirit outstripped by Bacardi’s St-Germain elderflower liqueur
@@ -39,29 +39,35 @@ Employees’ cyberstalking of Boston couple involving macabre deliveries ended i
 ## Walter insurers paid millions of dollars to credit rating provider Egan-Jones
 Billionaire investor faces wide-ranging probe into the private credit holdings of insurers he controls
 
-## “Muthoot is to gold loan what SBI is to banking,” George Alexander Muthoot
-For our customers, gold loans remain primarily a short-term financing product.
+## BL Explainer: SEBI’s new Closing Auction Session, what investors need to know
+The move aims to strengthen price discovery, reduce the risk of end-of-day price manipulation, and ensure that benchmark prices are used for indices
 
-## SEBI’s ban on Zee from securities market puts warrants issuance in limbo: inGovern
-Zee Entertainment Enterprises approved the issue of ₹3,143.5 crore worth of fully convertible warrants to promoter group entity Sunbright Mauritius Investments Ltd. on a preferential basis.
+## Sensex today | Stock Market Live: Sensex, Nifty set for strong open as Gift Nifty signals 150-point rally; Crude slumps to $81.5 on Iran deal optimism
+Sensex, Nifty, Stock Price Live Updates: The fresh week is set to begin on a positive note for Indian stocks, thanks to softer crude oil prices and stable global markets. Gift Nifty at 24,595 signals that Nifty may gain over 150 points at open.
 
-## FSSAI says some alcobev firms add flavours to mask natural chemical composition, mislead consumers
-FSSAI has issued notices to some companies for adding artificial flavors to alcobev products like rum and whisky, violating regulations
+## Nifty, Sensex set for strong opening on August 3
+Positive global cues, FPIs buying, Q1 results, monsoon to add strength to bulls
 
-## Trump holds Off Iran strikes on pledge a Hormuz deal is close
-Neither Iranian media nor officials have indicated a deal is close
+## Stocks to watch, Aug 3: Tata Motors Passenger vehicles, TMCV, Maruti Suzuki, Mahindra & Mahindra, TVS Motor, Bajaj Auto
+Over two dozen stocks across energy, Pharma, automobiles, PSUs will remain in focus on Monday
 
-## No extraordinary spending planned this fiscal, says Niva Bupa; insurer eyes EoM reduction
+## CERC proposes transmission charge relief for delayed renewable projects
+⁠The move would mark a policy roll-back. India had begun phasing out ​interstate transmission ‌charge waivers for new solar, wind and hybrid projects from July 2025.
 
+## Crude oil slumps 6% to $82 on hopes of Iran deal
+S&P 500 futures rose 0.4% while Nasdaq futures gained ⁠0.6%. But Japan’s Nikkei dipped 1% and South Korea’s KOSPI slid 3.6% after a turbulent July in which it slumped 22%.
 
-## Editorial. Surprising pause
-FOMC ambivalence leaves elbow room for MPC
+## From today, closing price will be discovered through auction mechanism for F&O stocks
+Industry expects institutional orders to migrate to the auction window as the new closing mechanism takes effect on August 3
 
-## Cabinet note in the works to end forex rule for SEZ services
-A proposal to amend the SEZ Act could boost MRO, defence, engineering and IT services by allowing INR payments for services to domestic clients
+## AgniKul Cosmos and India’s reusable rocket push
+In this exclusive conversation AgniKul Cosmos Co-Founder & CEO Srinath Ravichandran and Co-Founder & COO Moin SPM discuss Mission 2, reusable rockets, and how 3D printing is transforming India’s private space sector.
 
-## Over 235 GW RE curtailed in Q1 FY27; Gujarat records highest wastage
-Most of the wastage of this clean energy resource is due to the growing mismatch between fast-moving solar projects and slower-moving transmission infrastructure
+## Top stocks to buy: Stock recommendations for August 3, 2026 week - check list
+Stock market recommendations: RR Kable, and KFin Technologies have been picked as the top stocks to buy for the week starting August 3, 2026 by Motilal Oswal Wealth Management Research Desk:
+
+## Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions
+Oil prices dropped significantly as United States and Iran negotiations offered hope for de-escalation. Uncertainty surrounds these talks and ongoing security risks persist along vital shipping lanes. Brent crude futures experienced a sharp decline after President Trump announced potential discussio
 
 ## RBI expected to hold rates on Aug 5
 
@@ -81,35 +87,41 @@ India approved only one Chinese FDI proposal worth one crore rupees in 2025-26. 
 ## India's deep-sea bet: Centre's 'Samudra Manthan' to churn crude — How it works
 India is funding half the cost of deepwater oil and gas exploration wells. This new scheme aims to reduce reliance on imported energy supplies. The government will support sixty exploration wells over the next five years. This initiative encourages companies to explore previously avoided offshore ar
 
-## Bullion market: What will guide gold, silver prices this week?
-Gold and silver prices are expected to trade within a narrow range this week. Investors await key US economic data, especially non-farm payrolls, for Fed policy direction. Purchasing managers' index data from major economies will also be closely monitored. Developments concerning the US-Iran conflic
+## Centre to push 4 bills amid House impasse; FCRA, SC judges and 2 other bills on agenda today
+The legislative push comes with nine working days left in the Monsoon Session, as the Opposition plans to continue raising the Ram Mandir donation row.
 
-## New stock market timings from August 3: What has changed?
-Starting August 3, Sebi will implement a new Closing Auction Session for F&O stocks. This session will determine the official closing price after regular trading concludes. Trading hours in the equity derivatives segment will also extend by ten minutes. The pre-open session has been revised with new
+## Delhi's untold case files: From protecting the Prime Minister to chasing exam mafias| Top cop's story
+According to Pathak, police feared that even a single protester breaching the security cordon could trigger a much larger security failure near Parliament.
+
+## Bankipur, Datia election result LIVE: Key test for Prashant Kishor in Bihar, counting of votes begins shortly
+Bankipur, Datia election result LIVE: Counting of votes for the bypolls in three assembly constituencies, Bankipur, Datia and Manjalpur, will begin at 8am today. The Bankipur contest is a key test for Jan Suraaj Party founder Prashant Kishor, who threw his hat after the seat fell vacant.
+
+## Slipper thrown at MP Pappu Yadav over Parliament Ram temple skit, two detained
+The incident came amid backlash over the MP's Parliament protest on the alleged Ram temple donation theft, with police detaining two people after the scuffle.
+
+## Only 1 active local terrorist left in J&K; hunt on for Mohammed Lateef Bhat
+Around five years ago, security agencies estimated there were 50-60 active local terrorists. In May 2025, official records showed 17 active local terrorists.
+
+## 8 dead, 8 missing in Kerala as major towns flooded after rain
+More than 5,700 people have been shifted to relief camps as floodwaters continue to inundate several towns despite reduced rainfall.
+
+## Tamil Nadu CM Vijay postponed Bengaluru visit on my request, says DK Shivakumar amid Cauvery water-sharing dispute
+The Cauvery dispute is a long-running water-sharing conflict between Karnataka and Tamil Nadu, with both states contesting allocations from the river.
 
 ## 3 states, 3 bypolls: All eyes on PK, Ashutosh Tiwari as Bankipur, Datia, Manjalpur await verdict on Monday
 Both Bankipur and Datia have become prestige battles for the Bharatiya Janata Party, with both being traditional strongholds of the saffron party.
 
-## 'CJP stands with all students': Dipke backs Jharkhand students protesting JPSC, JSSC exam irregularities
-CJP founder Abhijeet Dipke on Sunday said that he spoke with the students protesting in Jharkhand.
+## Will new batteries give China’s EVs the jolt they need to charge past their rivals?
+On a cloudy evening in late April, a tech event hosted at Beijing’s National Convention Centre by Contemporary Amperex Technology Ltd (CATL) drew nearly 1,000 people eager for a glimpse of next-generation electric vehicle (EV) batteries that could reshape the global automotive landscape. Gao Huan, c
 
-## Taslima Nasreen pushes for UCC implementation in India: ‘Much needed in any civilised country’
-Nasreen pushed for the implementation of a Uniform Civil Code in Bangladesh, India and Pakistan to prevent discrimination, particularly against women.
+## Treasury bond futures ‘a milestone’ to boost Hong Kong’s bridgehead role: CSRC chairman
+Beijing is encouraging mainland China’s financial firms to use the city to go global, as well as urging Hong Kong-listed companies to list on the mainland, the head of the country’s securities regulator said on Monday. “Mainland financial institutions have been using Hong Kong to go global. There ar
 
-## Sheikh Hasina to make first public appearance two years after Bangladesh ouster: Reports
-According to multiple media reports, Hasina will attend a virtual event hosted by the Foreign Correspondents' Club of South Asia (FCC South Asia) in New Delhi.
+## The international hotel chains targeting China’s value-driven travellers
+As a fresh graduate who recently received his first pay cheque after starting his first job in June, Ryan Liu decided to mark the milestone with a weekend getaway. Having recently relocated from Shandong province to Shenzhen, he was looking for a place that offered quality facilities without stretch
 
-## IIT Guwahati student dies in Brahmaputra drowning, another rescued: Police
-Local sailors immediately came to the rescue, followed by the National Disaster Response Force (NDRF) team
-
-## Watch: Scuffle erupts after slipper thrown at Pappu Yadav, MP claims ‘plot to kill’ him
-In a video of the incident, a man is heard questioning Yadav, claiming the Independent MP from Purnia had hurt religious sentiments.
-
-## Birbhum police raid aides of absconding stone quarry kingpin Tulu Mondal
-The operation against Mondal started on Wednesday when police seized 15kg of gold bars and ₹28.05 crore from his cousin’s home
-
-## ‘RSS-BJP masters, Taliban slaves’: Pakistan army spokesman flays ‘Muslims befriending kafirs’
-“Does this Taliban regime have any conduct that reflects Islamic values?” the Pak army officer said, “What they do to women, to children… issuing fatwas.”
+## Global institutional investors eager to trade Chinese bond futures in Hong Kong, HKEX says
+International asset managers, pension funds and insurance companies have shown strong interest in offshore China government bond futures, which are set to start trading in Hong Kong for the first time on Monday, according to senior stock exchange executives. The new 5-year China government bond futu
 
 ## Price war fears grip China’s EV market after woeful July sales figures
 The bearish sentiment surrounding China’s electric vehicle (EV) sector has intensified after three premium carmakers reported weak sales for July, further heightening concerns that the market is heading for another brutal price war. EV makers Xpeng, Nio and Li Auto all reported month-on-month sales 
@@ -122,18 +134,6 @@ Major Chinese cities including Shanghai are witnessing a significant uptick in c
 
 ## First impressions count as Chinese buyers open their homes to UBTech’s consumer humanoids
 When 39-year-old Beijing investor Song shelled out 159,800 yuan (US$23,680) for a companion robot, he knew it would not be cooking meals or scrubbing floors. For him, becoming one of China’s first owners of a consumer humanoid was more about embracing the cutting edge. “The happiest part is often th
-
-## Cheung Kong Center II tests higher rents amid rebound in Central office market
-Cheung Kong Center II is testing office rents above HK$100 (US$12.75) per square foot, as the once slow-leasing tower begins to close the gap with Central’s most in-demand office buildings, according to property agents. The increase marks a turnaround for one of Hong Kong’s most closely watched offi
-
-## China’s next export is the world’s factory itself
-China’s export boom is reaching its limits. The country’s next phase of growth will come not from shipping more goods abroad, but from exporting its factories, technologies and brands. China is running up against the limits of its old model. It is obvious as the economy looks increasingly K-shaped. 
-
-## Turnover at the top: 17 people have held title of China’s richest person in past 27 years
-Seventeen Chinese entrepreneurs have held the title of the country’s richest billionaire in the past 27 years, over four times as many as in the United States, which wealth research firm Hurun Group attributed to the “dynamism” of the Chinese market. China’s richest people – including ByteDance foun
-
-## China cuts durian settlement to 30 minutes with first outbound e-CNY payment to Malaysia
-China has completed its first outbound digital yuan payment to Malaysia, settling a 43,000 yuan (US$6,360) shipment of fresh durian, as Beijing accelerates efforts to build a cross-border clearing network in Southeast Asia outside the Society for Worldwide Interbank Financial Telecommunication (Swif
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
@@ -231,6 +231,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?
+Court cases over new lodges have raised questions about protecting one of Africa’s greatest wildlife spectacles.
+
+## Japan and US confirm rare joint intervention to prop up yen
+US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship.
+
+## Suicide bombing kills at least 14 people in Pakistan’s Swat Valley
+Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.
+
+## Iran war live: Trump says talks to resume; Tehran urges US to honour MoU
+US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.
+
+## Trump says new round of Iran talks will begin Monday
+The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response.
+
 ## Brazil’s Lula launches fourth-term bid, focuses on national sovereignty
 Lula seeks to use Bolsonaro family ties with Trump to cast election as fight against submission to foreign interests.
 
@@ -240,20 +255,8 @@ Tens of thousands of people have been killed in the ongoing war between army chi
 ## Wildfires force mass evacuations across the Pacific Northwest
 Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
 
-## Local volunteers help rebuild destroyed Christian monastery in Lebanon
-Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.
-
-## UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
-UK Prime Minister Andy Burnham said his government will be "relentless" in tackling small boat crossings the Channel.
-
-## Venezuela and the Dominican Republic say they will work to restore ties
-Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.
-
-## Is Washington dictating the agenda for talks in Venezuela?
-Venezuela's government and a section of the opposition plan to hold talks, backed by the US.
-
-## How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?
-Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.
+## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
+Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
@@ -275,9 +278,6 @@ Guidance for Reporting Crypto Asset Service Providers explains obligations under
 
 ## HDFC Bank fines CEO, CFO Rs 1 lakh each over MSRDC deposit case
 In a notable move, HDFC Bank has penalized senior executives and delivered warning letters after conducting an internal assessment of a deposit arrangement from 2017 and 2021. The bank's board determined that the actions were categorized as business overreach, lacking any improper intentions. Conseq
-
-## August Rush: Over 2 dozen companies plan Street debut next month
-India's primary market momentum continues with over two dozen issuers planning IPOs. These companies aim to collectively raise approximately ₹35,000 crore in the upcoming month. New-age companies like Zepto and PhonePe are expected to lead this significant market activity. Investor appetite is retur
 
 ## RBI sold about $7 billion to defend rupee on Friday
 India's central bank sold approximately $7 billion to defend the rupee. The Reserve Bank of India intervened across markets as the currency neared a record low. This intervention followed a surge in crude prices impacting Asian oil importers. The RBI's actions helped lift the rupee further away from
