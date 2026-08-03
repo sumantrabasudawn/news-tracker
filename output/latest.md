@@ -1,69 +1,75 @@
 # AION Intelligence
 
-## Trump says Iran talks to resume after US called off major attack
-Oil falls on signs of de-escalation as Tehran says a deal with Oman to reopen Strait of Hormuz to shipping was close
+## Team America: Yen police
+A puzzling intervention
 
-## Japan vows to intervene again with US over yen if needed
-Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’
+## Beefing with the Big Mac Index
+McDonald’s signature burger offers economic lessons — but not about purchasing power parity
 
-## UK graduate job openings fall to lowest level since pandemic
-Indeed’s findings point to challenge facing Andy Burnham to boost youth unemployment and cut welfare bill
+## FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up
+Also in today’s newsletter: Ceuta migrant crossing and Uefa’s response to failed Fifa plan
 
-## Labour overtakes Reform UK in polls for first time in more than a year
-Party commands about 25 per cent of the vote as Andy Burnham promises to ‘bring back hope’
+## European wildfire costs this year have already surpassed €3bn
+Economic toll in worst-hit countries exceeds official estimate of costs to bloc in average year, according to FT analysis
 
-## Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse
-MPS chief executive weighs approach to Banco BPM’s largest shareholder, Crédit Agricole
+## French banks warm to election financing in potential boost for Le Pen
+Lenders signal willingness to offer campaign loans if government guarantees are in place
 
-## Earnings season reaches a peak
-SpaceX gives first results call, Flutter migrates to New York, inflation updates from China and India
+## A digital iron curtain is threatening the global economy
+Amid geopolitical barriers that risk slowing progress and trade, Europe can become a trusted connector
 
-## America’s biggest companies report ‘rock solid’ profits as consumers face higher costs
-S&P 500 groups on track for strongest earnings in five years
+## US gas guzzlers see off Europe’s EVs in latest round of car wars
+Detroit carmakers had a strong second quarter, while their European rivals remain downbeat
 
-## Europe’s weak reaction to Spain’s migrant crisis
-Pedro Sánchez is being unfairly singled out for a liberal immigration policy
+## Ofcom chair launches review of regulator to help rein in Big Tech
+Ian Cheshire tells FT that watchdog will need ‘more resources’ to enforce online safety rules as it takes on wider brief
 
-## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
-Deal would create world’s fourth-largest drugmaker by market value
+## The ‘Trump effect’ is taking a toll on corporate gender goals
+Changes at the Australian Securities Exchange are the latest sign of a global rollback of diversity policies
 
-## Hugo spritz boom shakes Aperol’s fizz
-US sales of Campari’s orange spirit outstripped by Bacardi’s St-Germain elderflower liqueur
+## How US drinkers fell out of love with Bud Light
+AB InBev shifts marketing dollars to other brands as tie-ups with celebrities and cage fighting fail to halt decline in sales
 
-## Hungary braced for power cuts amid extreme drought
-Record-low water levels on Danube force country’s first shutdown of nuclear power plant
+## James Dacombe, 25, triples AI chip start-up’s valuation to $3.3bn
+British entrepreneur behind Olix raises $312mn from investors including Arm in effort to take on Nvidia
 
-## ‘Crush this lady’: how eBay harassment campaign led to $56mn payout
-Employees’ cyberstalking of Boston couple involving macabre deliveries ended in jail time and financial settlement
+## Parliamentary Panel to meet Meta, X, Snapchat, and Google today at 4pm
+The development follows an incident involving Meta, when Prime Minister Narendra Modi’s Facebook video addressing action against examination paper leaks was briefly removed from the platform before being restored
 
-## Walter insurers paid millions of dollars to credit rating provider Egan-Jones
-Billionaire investor faces wide-ranging probe into the private credit holdings of insurers he controls
+## Sensex today | Stock Market Live: Sensex rises 600 pts, Nifty near 24,600; ITC, IndiGo lead gainers; Muthoot Finance down 10%; PMI Manufacturing slips to near 5-year low in July
+Sensex, Nifty, Stock Price Live Updates: The fresh week began on a positive note for Indian stocks, thanks to softer crude oil prices and stable global markets.
 
-## BL Explainer: SEBI’s new Closing Auction Session, what investors need to know
-The move aims to strengthen price discovery, reduce the risk of end-of-day price manipulation, and ensure that benchmark prices are used for indices
+## ITC shares bounce back as analysts back volume resilience despite cigarette earnings hit
+ITC has shed over 30% in the past year and trades well below its 52-week high of ₹427, hit in September 2025
 
-## Sensex today | Stock Market Live: Sensex, Nifty set for strong open as Gift Nifty signals 150-point rally; Crude slumps to $81.5 on Iran deal optimism
-Sensex, Nifty, Stock Price Live Updates: The fresh week is set to begin on a positive note for Indian stocks, thanks to softer crude oil prices and stable global markets. Gift Nifty at 24,595 signals that Nifty may gain over 150 points at open.
+## Asian stocks mixed as yen jumps against dollar, while oil prices fall
+Japan's Nikkei 225 index lost 1.9 per cent to 63,140.68 early Monday, while the Kospi in South Korea dropped 4.5 per cent to 6,298.75
 
-## Nifty, Sensex set for strong opening on August 3
-Positive global cues, FPIs buying, Q1 results, monsoon to add strength to bulls
+## Fourteen dead, thousands displaced as rains, floods strike southern India
+Heavy rains also forced closures of many ‌schools across the state, while the government ​postponed a state-level teacher recruitment exam
 
-## Stocks to watch, Aug 3: Tata Motors Passenger vehicles, TMCV, Maruti Suzuki, Mahindra & Mahindra, TVS Motor, Bajaj Auto
-Over two dozen stocks across energy, Pharma, automobiles, PSUs will remain in focus on Monday
+## Q1 Results Today Live: Park Medi World logs mixed Q1, DLF, UPL, Torrent Power, IREDA, KEI, Escorts Kubota, Jindal Stainless, Ather, Inox, Nazara, KIMS, MobiKwik, Texmaco, DOMS Q1 results today
+Q1 Results Today, 03rd August 2026 Live Updates: Get real-time Q1 FY27 earnings updates, profit growth, revenue numbers and management outlook
 
-## CERC proposes transmission charge relief for delayed renewable projects
-⁠The move would mark a policy roll-back. India had begun phasing out ​interstate transmission ‌charge waivers for new solar, wind and hybrid projects from July 2025.
+## PMI Manufacturing slips to near 5-year low in July
+While demand remained resilient in July, growth cooled across metrics such as total sales, input purchasing and employment
 
-## Crude oil slumps 6% to $82 on hopes of Iran deal
-S&P 500 futures rose 0.4% while Nasdaq futures gained ⁠0.6%. But Japan’s Nikkei dipped 1% and South Korea’s KOSPI slid 3.6% after a turbulent July in which it slumped 22%.
+## India's bank credit growth remains robust at 18.6% in June 2026: Haitong Securities
+The report said overall bank credit, estimated at around Rs 219 trillion, grew 18.6% year-on-year (YoY) in June 2026, while non-food credit expanded 18.3% YoY
 
-## From today, closing price will be discovered through auction mechanism for F&O stocks
-Industry expects institutional orders to migrate to the auction window as the new closing mechanism takes effect on August 3
+## Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows
+The Indian rupee strengthened against the US dollar on Monday morning. Falling global crude oil prices and a weaker US dollar supported the rupee's rise. Foreign fund inflows and higher forex reserves also provided additional support. Easing geopolitical concerns after US President Donald Trump dela
 
-## AgniKul Cosmos and India’s reusable rocket push
-In this exclusive conversation AgniKul Cosmos Co-Founder & CEO Srinath Ravichandran and Co-Founder & COO Moin SPM discuss Mission 2, reusable rockets, and how 3D printing is transforming India’s private space sector.
+## Japan, US step in to support yen, Tokyo keeps door open for more action
+Japan and the United States intervened in currency markets to address yen volatility. This joint action followed a September 2025 finance ministers' statement. Tokyo is ready for further intervention if the yen continues to swing. Japan also plans to use the Federal Reserve's FIMA Repo Facility. Eco
 
-## Top stocks to buy: Stock recommendations for August 3, 2026 week - check list
+## Gold, Silver Rate Today Live Updates: Spot gold edges higher as oil prices tumble after Trump delays fresh Iran strike
+
+
+## Stock market today: BSE Sensex jumps over 600 points, NSE Nifty50 above 24,550
+
+
+## Top stocks to buy: Stock recommendations for this week - check list
 Stock market recommendations: RR Kable, and KFin Technologies have been picked as the top stocks to buy for the week starting August 3, 2026 by Motilal Oswal Wealth Management Research Desk:
 
 ## Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions
@@ -75,41 +81,32 @@ Oil prices dropped significantly as United States and Iran negotiations offered 
 ## Investments in PE-VC fall 6% to $20.3bn in Jan-July
 India's private equity and venture capital investments surpassed twenty billion dollars this year. This figure shows a slight decrease compared to the previous year's performance. July saw investments of three billion dollars, remaining stable from last year's figures. Investors maintain long-term c
 
-## Education needs more capital, fewer curbs: Noel Tata
+## Bihar municipal officer beaten to death by his driver after dispute, police say
+The EO of Dehri-Dalmianagar Municipal Council was allegedly killed by his driver after an argument. The driver later confessed to the murder.
 
+## No FIR against girl who abused PM Modi at Jantar Mantar protest by Delhi Police yet: Report
+After the FIR was filed against the girl, she apologized on video and said that she “came under the influence of some people at the protest”.
 
-## West Asia war uncertainty keeps businesses on edge
-Businesses face significant cost management challenges due to ongoing West Asia conflict. Commodity inflation and freight charges create persistent planning uncertainties for companies. This instability may lead to postponed capital deployment and fewer new job additions. Consumers can expect widesp
+## Multiple Delhi schools receive bomb threats, search ops on
+Authorities said all safety protocols are in place and no suspicious objects have been found so far.
 
-## China gets just 1 FDI approval in India in FY26, Hong Kong secures 13 proposals
-India approved only one Chinese FDI proposal worth one crore rupees in 2025-26. Hong Kong received approvals for thirteen proposals totaling six hundred ten crore rupees. Singapore led approved investment values with three thousand two hundred fifty-nine crore rupees. The UK and Thailand also saw si
+## Delhi HC's OpenAI-ANI ruling: What it means for AI, copyright and publishers in India — so far
+The court ruled on three key questions — whether training is fair dealing, whether outputs infringe, and whether Indian courts can hear the case.
 
-## India's deep-sea bet: Centre's 'Samudra Manthan' to churn crude — How it works
-India is funding half the cost of deepwater oil and gas exploration wells. This new scheme aims to reduce reliance on imported energy supplies. The government will support sixty exploration wells over the next five years. This initiative encourages companies to explore previously avoided offshore ar
+## CJP's Abhijeet Dipke reveals how he paid for US education, funded Jantar Mantar protests
+Abhijeet Dipke's clarification came after a Gujarat-based RTI activist sought details about how his foreign education was financed.
 
-## Centre to push 4 bills amid House impasse; FCRA, SC judges and 2 other bills on agenda today
-The legislative push comes with nine working days left in the Monsoon Session, as the Opposition plans to continue raising the Ram Mandir donation row.
+## 'If even one allegation was proved...': Brij Bhushan Sharan Singh reacts after acquittal in wrestlers' sexual harassment
+Former Wrestling Federation of India (WFI) chief Brij Bhushan Sharan Singh welcomed his acquittal in the sexual harassment case.
 
-## Delhi's untold case files: From protecting the Prime Minister to chasing exam mafias| Top cop's story
-According to Pathak, police feared that even a single protester breaching the security cordon could trigger a much larger security failure near Parliament.
+## Former IATA chief Willie Walsh takes charge as IndiGo CEO
+Willie Walsh has held leadership positions at several respected aviation organisations including CEO of British Airways (2005-2011), CEO of International Airlines Group (2011- 2020)
 
-## Bankipur, Datia election result LIVE: Key test for Prashant Kishor in Bihar, counting of votes begins shortly
-Bankipur, Datia election result LIVE: Counting of votes for the bypolls in three assembly constituencies, Bankipur, Datia and Manjalpur, will begin at 8am today. The Bankipur contest is a key test for Jan Suraaj Party founder Prashant Kishor, who threw his hat after the seat fell vacant.
+## Delhi court clears Brij Bhushan Singh in sexual harassment case by six women wrestlers
+Brij Bhushan Singh was cleared on Monday after two years of trial in the cases that came following a wave of protests by wrestlers at Jantar Mantar in 2023.
 
-## Slipper thrown at MP Pappu Yadav over Parliament Ram temple skit, two detained
-The incident came amid backlash over the MP's Parliament protest on the alleged Ram temple donation theft, with police detaining two people after the scuffle.
-
-## Only 1 active local terrorist left in J&K; hunt on for Mohammed Lateef Bhat
-Around five years ago, security agencies estimated there were 50-60 active local terrorists. In May 2025, official records showed 17 active local terrorists.
-
-## 8 dead, 8 missing in Kerala as major towns flooded after rain
-More than 5,700 people have been shifted to relief camps as floodwaters continue to inundate several towns despite reduced rainfall.
-
-## Tamil Nadu CM Vijay postponed Bengaluru visit on my request, says DK Shivakumar amid Cauvery water-sharing dispute
-The Cauvery dispute is a long-running water-sharing conflict between Karnataka and Tamil Nadu, with both states contesting allocations from the river.
-
-## 3 states, 3 bypolls: All eyes on PK, Ashutosh Tiwari as Bankipur, Datia, Manjalpur await verdict on Monday
-Both Bankipur and Datia have become prestige battles for the Bharatiya Janata Party, with both being traditional strongholds of the saffron party.
+## Chinese EV demand cools
+–
 
 ## Will new batteries give China’s EVs the jolt they need to charge past their rivals?
 On a cloudy evening in late April, a tech event hosted at Beijing’s National Convention Centre by Contemporary Amperex Technology Ltd (CATL) drew nearly 1,000 people eager for a glimpse of next-generation electric vehicle (EV) batteries that could reshape the global automotive landscape. Gao Huan, c
@@ -132,8 +129,11 @@ The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenis
 ## China sees flurry of commercial property deals as investors sniff out bargains
 Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery. The value of office buildings, hotels and shopping malls across Ch
 
-## First impressions count as Chinese buyers open their homes to UBTech’s consumer humanoids
-When 39-year-old Beijing investor Song shelled out 159,800 yuan (US$23,680) for a companion robot, he knew it would not be cooking meals or scrubbing floors. For him, becoming one of China’s first owners of a consumer humanoid was more about embracing the cutting edge. “The happiest part is often th
+## Special Treatment for Cuban Refugees Is No More
+The Trump administration has rendered them as vulnerable to removal as other immigrants.
+
+## The Cure for Russia’s Labor Shortage Is Worse Than the Disease
+What happens when a demographic crisis meets an ever-expanding military-industrial complex?
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
@@ -152,12 +152,6 @@ The epic poem describes events around the sacking of Troy.
 
 ## The Dreams of ‘Star Trek’ Aren’t Dead
 Space utopianism belongs to everyone, not billionaires.
-
-## Resurrecting the Real Monroe Doctrine
-Hidden behind two centuries of aggressive presidential corollaries is an enduring appeal to hemispheric solidarity.
-
-## The Myth of African Heterosexual Purity
-An explosive novel probes the roots of homophobia in Senegal, where a chilling anti-LGBTQ+ law just passed.
 
 ## Safeguarding Children Online: Beyond Singapore’s Social Media Ban Debate
 Singapore might consider championing a roadmap of “supported autonomy.”
@@ -231,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Grid failure plunges Cuba into nationwide blackout
+Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.
+
+## Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations
+A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.
+
+## Trump pauses ‘massive attack’ on Iran, says new talks to begin
+US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.
+
+## Brazil’s Lula launches reelection bid amid foreign interference concerns
+Brazil's President Luiz Inácio Lula da Silva has officially launched his reelection campaign.
+
 ## The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?
 Court cases over new lodges have raised questions about protecting one of Africa’s greatest wildlife spectacles.
 
@@ -243,20 +249,20 @@ Footage shows blast victims hurried into a hospital in northwestern Pakistan, af
 ## Iran war live: Trump says talks to resume; Tehran urges US to honour MoU
 US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.
 
-## Trump says new round of Iran talks will begin Monday
-The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response.
-
-## Brazil’s Lula launches fourth-term bid, focuses on national sovereignty
-Lula seeks to use Bolsonaro family ties with Trump to cast election as fight against submission to foreign interests.
-
-## Sudan army drone attack on Darfur kills 35, rights group says
-Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.
-
-## Wildfires force mass evacuations across the Pacific Northwest
-Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
-
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
+
+## Global FMCG majors bullish on India, to step up investments to accelerate retail presence
+Global consumer goods majors such as Mondelez International, L'Oreal, Reckitt, Unilever, Nestle and The Coca-Cola Company see India as a key growth market and a major driver of future growth.
+
+## Companies may soon get to retain legal identity in flipbacks
+A parliamentary panel proposes a new statutory framework for inward re-domiciliation. This would allow overseas companies to migrate to India while retaining their legal identity. The joint committee will recommend this new framework in its upcoming report. Sweeping changes are also expected to alig
+
+## Government plans to ease forex rule for SEZ services exports to domestic tariff areas
+The current provision under Section 2(z) of the SEZ Act, 2005 mandates that proceeds for SEZ to DTA supplies of services must be realised in foreign exchange, although there is no such requirement in case of supply of goods to DTA entities.
+
+## India writing new chapters in AI, semiconductors and space, says PM Modi
+Modi said India’s youth have driven growth in mobile manufacturing, startups and emerging sectors like AI, semiconductors and space technology.
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
@@ -267,17 +273,8 @@ Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging e
 ## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
 The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
 
-## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
-Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
-
-## EMPLOYEE WELLNESS: Is it Important for Businesses?
-For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
-
-## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
-Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
-
-## HDFC Bank fines CEO, CFO Rs 1 lakh each over MSRDC deposit case
-In a notable move, HDFC Bank has penalized senior executives and delivered warning letters after conducting an internal assessment of a deposit arrangement from 2017 and 2021. The bank's board determined that the actions were categorized as business overreach, lacking any improper intentions. Conseq
+## RBI likely to extend rate pause; neutral stance seen unchanged
+Economists anticipate the Reserve Bank of India will maintain its current interest rate at 5.25 percent. The central bank is also expected to keep its neutral monetary policy stance for the fourth review. Some economists foresee a potential rate hike in the second half of fiscal year twenty twenty-s
 
 ## RBI sold about $7 billion to defend rupee on Friday
 India's central bank sold approximately $7 billion to defend the rupee. The Reserve Bank of India intervened across markets as the currency neared a record low. This intervention followed a surge in crude prices impacting Asian oil importers. The RBI's actions helped lift the rupee further away from
@@ -293,10 +290,4 @@ Public sector firms want the RBI's forex swap facility extended by three months.
 
 ## MSME Bill introduced, looks to speed up payments
 A key provision of the Bill is to strengthen the framework for addressing delayed payments, a long-standing challenge for micro and small enterprises that often strains their liquidity and disrupts business operations.
-
-## RBI likely to hold rates on August 5 despite inflation uptick
-Headline inflation is expected to remain elevated through the October-December quarter because of unfavourable base effects, with inflation averaging just 0.6% during the same period last year.
-
-## India's IPO market to stay resilient with over 70 firms awaiting SEBI clearance: Report
-India's IPO activity has continued to stay resilient with 175 companies currently holding valid SEBI observations for their draft IPO papers and another 70 firms awaiting regulatory clearance, as per a report by Equirus.
 
