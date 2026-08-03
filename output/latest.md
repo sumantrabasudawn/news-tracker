@@ -129,6 +129,15 @@ China’s social security sovereign fund cast a vote of confidence in the onshor
 ## Will new batteries give China’s EVs the jolt they need to charge past their rivals?
 On a cloudy evening in late April, a tech event hosted at Beijing’s National Convention Centre by Contemporary Amperex Technology Ltd (CATL) drew nearly 1,000 people eager for a glimpse of next-generation electric vehicle (EV) batteries that could reshape the global automotive landscape. Gao Huan, c
 
+## Iran Denies Peace Talks After the United States Cancels Military Strikes
+Trump’s “imminent” deal remains elusive.
+
+## A Patchwork Approach to AI Regulation Is Best—for Now
+Many want a global treaty to govern AI risk. California and New York may already be writing it.
+
+## China’s Quiet Bet on Methanol Is Paying Off
+An abandoned project reveals why industrial policy must preserve technological options.
+
 ## A Saudi-Emirati Thaw Can Help Contain Iran
 The Gulf needs a joint front on deterrence, engagement, and freedom of navigation.
 
@@ -143,15 +152,6 @@ What happens when a demographic crisis meets an ever-expanding military-industri
 
 ## France’s Wildfires Are Swallowing Its Politics
 The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
-
-## Spain Records Unprecedented Migrant Crossing
-Some 60,000 people from Morocco surged into the Spanish exclave of Ceuta.
-
-## Trump’s Biggest Challenge to American Democracy
-The corruption crisis may be the most important source of rot in the U.S. system.
-
-## What Homer’s ‘Odyssey’ Tells Us About the Economics of the Bronze Age
-The epic poem describes events around the sacking of Troy.
 
 ## Xi Jinping’s AI Vision
 Xi’s speech addressed the attendees at the World Artificial Intelligence Conference, but his real audience was the international community, and of course the United States.
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## From Donald Trump to Abdul El-Sayed: US Arabs centre Palestine in politics
+Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.
+
+## Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown
+Alex Eala rallies past top seed Jessica Pegula in a two-day, rain-hit final, while Taylor Fritz beats teen Rafael Jodar.
+
 ## Migrants await asylum in Ceuta amid hunger and thirst
 Migrants rushed to receive water and beverages in Ceuta, Spain, where many have spent days on a beach awaiting asylum.
 
@@ -242,12 +248,6 @@ Survivors reach port after deadly Indonesia ferry fire
 
 ## Clergy members arrested while protesting at Senate office
 Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.
-
-## Trump says talks with Iran are ‘last chance’ to forge a deal
-US President Donald Trump said Iran has a "last chance" to reach a nuclear agreement.
-
-## Bomb disposal underway in Le Porge after wildfires unearth WWII shells
-Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
