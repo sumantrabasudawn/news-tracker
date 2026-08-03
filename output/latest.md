@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## AstraZeneca investors raise concerns over mega-merger talks
+Shareholders question looming patent cliff and antitrust risks in potential $400bn tie-up with Bristol Myers Squibb
+
+## Palantir forecasts greater demand from US groups for its AI software
+Tech company posts second-quarter results with US sales climbing 23%
+
 ## Israel’s defence minister triggers row after sacking general on TV
 Opposition decries attempt by Israel Katz to oust commander responsible for West Bank as sop to far-right voters
 
@@ -12,29 +18,20 @@ We can but guess, for now
 ## AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough
 Sheer mass helps when enlarged balance sheets allow for bigger bets on potential blockbuster drugs
 
-## AstraZeneca investors raise concerns over mega-merger talks
-Shareholders question looming patent cliff and antitrust risks in potential $400bn tie-up with Bristol Myers Squibb
-
 ## Iran denies Trump claim of imminent talks
 US president had said negotiations would begin on Monday but Tehran denied the two parties were in talks
 
 ## UBS fined $125mn over lax money laundering controls
 Swiss bank failed to implement adequate curbs despite previous sanction by US regulators
 
-## Reform UK promises large-scale ‘military operation’ to block small boat crossings
-Policy pledge comes as rightwing party drops behind Labour in polls
+## Aston Martin creditors threaten legal action after branding rights sale plan
+Bondholders send carmaker letter warning they may file suit aimed at unwinding HPS transaction and blocking asset disposal
 
 ## Texas law firm agrees $15mn settlement over judicial scandal
 Jackson Walker admitted it failed to disclose romantic relationship between former partner and federal bankruptcy judge
 
 ## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
 Deal would create world’s fourth-largest drugmaker by market value
-
-## Iranian tanker tolls: totally legit after all?
-Nice Suezmax you’ve got there. Shame if something happened to it
-
-## Time for Andy Burnham to smile on UK science
-Waning support for basic research threatens Britain’s technology ambitions
 
 ## Centre moves to impose MDR on UPI, extend tax breaks for contract manufacturers
 Exemptions until 2041 give a major boost to Apple
@@ -228,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Migrants await asylum in Ceuta amid hunger and thirst
+Migrants rushed to receive water and beverages in Ceuta, Spain, where many have spent days on a beach awaiting asylum.
+
+## Will Israel withdraw from Gaza if Hamas disarms?
+Israel says it has doubts about the Palestinian group laying down its weapons.
+
+## El-Sayed, Stevens face off in Michigan Democratic Senate primary
+Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party.
+
+## Hundreds of migrant minors stranded in Ceuta after border crisis
+Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.
+
 ## Survivors reach port after deadly Indonesia ferry fire
 Survivors reach port after deadly Indonesia ferry fire
 
@@ -239,18 +248,6 @@ US President Donald Trump said Iran has a "last chance" to reach a nuclear agree
 
 ## Bomb disposal underway in Le Porge after wildfires unearth WWII shells
 Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.
-
-## US announces first two deaths from cyclospora outbreak
-Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.
-
-## Can Netanyahu survive Israel’s most consequential election?
-Israelis head to the polls in October for the country's first election since the war on Gaza began.
-
-## Israel top court hears challenge to UNRWA ban
-Israel's highest court heard a constitutional challenge to legislation banning UNRWA's operations in Israel.
-
-## Drone slams into Russian beach, killing at least 7 people
-Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
