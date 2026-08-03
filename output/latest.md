@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## Reform UK promises large-scale ‘military operation’ to block small boat crossings
-Rightwing party’s policy announcement comes as Reform drops behind Labour in polls
+## Can Democrats win over the working class?
+A new report shows that the party can’t take disillusioned Trump voters for granted
 
-## Oil slides after Trump says talks with Iran will resume
-Tehran says a deal with Oman to reopen Strait of Hormuz to shipping was close
+## Why Burnham is wrong about education and opportunity
+Success in adulthood is not just about connections
 
-## Don’t let tax rows eclipse the fundamentals of social care
-Like in the case of wind power, agreement on the big structural issues is much more important than finance
+## Reform’s Richard Tice probed over alleged failure to declare an interest
+UK’s parliamentary standards watchdog is investigating the rightwing party’s deputy leader
 
-## Todd Blanche confirms scrapping of $1.8bn ‘slush fund’ ahead of confirmation vote
-Acting US attorney-general U-turns on ‘anti-weaponisation fund’ after two Republicans threaten to torpedo nomination
-
-## Japan vows further yen intervention with US if needed
-Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’
-
-## Team America: Yen police
-A puzzling intervention
-
-## Beefing with the Big Mac Index
-McDonald’s signature burger offers economic lessons — but not about purchasing power parity
+## Football has given Europe a rare geopolitical victory
+Players like Lamine Yamal and Jude Bellingham are Europe’s rare earths
 
 ## FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up
 Also in today’s newsletter: Oil prices drop after Trump says talks with Iran will begin today and Uefa threatens Fifa with legal action
+
+## Reform UK promises large-scale ‘military operation’ to block small boat crossings
+Policy pledge comes as rightwing party drops behind Labour in polls
+
+## Plurilateral deals are last best hope for world trading system
+Agreements between ‘coalitions of the willing’ can gain traction over time and be subsumed into WTO frameworks
+
+## Oil slides after Trump says talks with Iran will resume
+Tehran says deal with Oman to reopen Strait of Hormuz to shipping is close
+
+## SpaceX’s staggered lock-up release prolongs the pain
+The biggest IPO wanted to avoid a cliff edge of insider selling but now has 12 months of uncertainty
+
+## Don’t let tax rows eclipse the fundamentals of social care
+Like in the case of wind power, agreement on the big structural issues is much more important than finance
 
 ## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
 Deal would create world’s fourth-largest drugmaker by market value
@@ -39,32 +45,35 @@ Detroit carmakers had a strong second quarter, while their European rivals remai
 ## The ‘Trump effect’ is taking a toll on corporate gender goals
 Changes at the Australian Securities Exchange are the latest sign of a global rollback of diversity policies
 
-## How US drinkers fell out of love with Bud Light
-AB InBev shifts marketing dollars to other brands as tie-ups with celebrities and cage fighting fail to halt decline in sales
+## Nifty surges past key resistance in CAS debut; crude slump, Iran talks lift sentiment
+Nifty 50 closed at 24,774.30, up 390.70 points or 1.60%, after a 200-point surge in the closing minutes; Sensex rose 0.70% to finish at 78,639
 
-## Sensex today | Stock Market Live: Sensex rises nearly 600 pts, Nifty holds 24,500; IndiGo leads gainers
-Sensex, Nifty, Stock Price Live Updates: The fresh week began on a positive note for Indian stocks, thanks to softer crude oil prices and stable global markets.
+## RBI sold $14.9 billion in forex market during Jan-May 2026 to curb rupee volatility
+The Finance Ministry also updated Parliament on loan recoveries, wilful defaulters, SWAMIH housing, gold loan NPAs and Kisan Credit Cards
 
-## India’s economy at a crossroads: Robust revenues, emerging headwinds
-Arun Singh, Global Chief Economist at Dun & Bradstreet, speaks on the significance of record GST collections, rising import-linked tax revenues, trends in the newly introduced Index of Services Production (ISP), and the evolving fiscal deficit situation.
+## SEA delegation to participate in ‘Soy Connext 2026’ in Chicago
+Hosted by the US Soybean Export Council (USSEC), the event brings the global soy industry together
 
-## TRAI revamps 'MyCall' mobile app to assess voice call quality via user feedback
-The app will help consumers report calling experience issues to service providers, said TRAI Chairman Anil Kumar Lahoti
-
-## Essar Group’s $5.8 billion investment supports UK’s energy transition: Prashant Ruia
-The investment roadmap focuses on hydrogen, cleaner refining, retail expansion and new industries to strengthen Britain’s long-term energy transition ambitions
-
-## Migrant workers stay put, easing fears for Valley’s labour dependent economy
-Every year, around 400,000 migrant workers from States such as Bihar, Uttar Pradesh, West Bengal, Punjab and Rajasthan travel to Jammu and Kashmir for seasonal employment
-
-## Q1 Results Today Live: UPL & Ather Energy narrows Q1 loss, Sundaram Finance, CAMS, Ethos Q1 PAT up, MobiKwik logs ₹8 cr profit, Jindal Stainless PAT dips, DLF, Torrent Power, IREDA, KEI, Inox, Nazara, KIMS, Texmaco, DOMS Q1 results today
-Q1 Results Today, 03rd August 2026 Live Updates: Get real-time Q1 FY27 earnings updates, profit growth, revenue numbers and management outlook
+## Row over Bangladesh rejecting Indian rice consignments on quality issues
+The shipment was initially found ‘fit for human consumption’ when samples were drawn soon after landing, but was subsequently found to have ‘quality issues’
 
 ## CBDT's Nudge campaign results in 1.25 crore updated ITRs, ₹9,494 crore additional tax payment
 The taxpayers are selected on the basis of advanced risk analysis identifying incorrect or non-reporting of assets or income, or excess claims of deductions or exemptions in their ITRs
 
-## State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows
-ICICI Bank leads private-sector peers with about $3.7 billion in deposits under the scheme. HDFC Bank and Axis Bank, the country’s largest and third-largest private lenders respectively, raise about $1.5 billion each
+## India proposes extending tax breaks for contract manufacturing in a boost for Apple
+The tax exemptions would be extended until 2041 for ​foreign companies that provide machinery to contract manufacturers
+
+## Broker’s Call: Westlife Food (Reduce)
+ICICI Securities
+
+## Free is the most expensive word in public policy, says CEA Anantha Nageswaran
+Stresses on need to revisit the policy governing key resources such as water
+
+## Bank holidays in August 2026: Where and when banks will remain closed this month
+August brings numerous bank holidays across India, affecting branch operations. Banks will close on specific dates due to regional festivals and national observances. Customers should verify local branch availability before planning visits. Digital banking services will remain accessible throughout 
+
+## More than 1.18 lakh Central employees choose Unified Pension Scheme: FM Sitharaman tells Parliament
+More than 1.18 lakh employees and retirees chose the Unified Pension Scheme. This scheme offers an assured monthly payout after retirement. It was introduced as an option under the National Pension System. Benefits like gratuity and death gratuity were extended to these employees. Tax treatment alig
 
 ## What time will stock market close from today? New timings and rationale explained
 The Closing Auction Session aims to concentrate liquidity at the end of the trading day. The idea is to facilitate smoother execution of large orders and generate a closing price that is more accurate in terms of reflecting overall market demand and supply.
@@ -84,35 +93,32 @@ Stock market recommendations: Sansera Engineering, and Paytm have been picked as
 ## Gold price prediction today: Will gold maintain its upward momentum? Check outlook for August 3, 2026 week
 Gold price prediction today: Gold prices are showing signs of stabilising after a prolonged phase of correction, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
 
-## Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows
-The Indian rupee strengthened against the US dollar on Monday morning. Falling global crude oil prices and a weaker US dollar supported the rupee's rise. Foreign fund inflows and higher forex reserves also provided additional support. Easing geopolitical concerns after US President Donald Trump dela
+## Congress retains Madhya Pradesh's Datia seat; BJP loses bypoll after candidate switch
+At the end of all 15 rounds of counting, Singh secured 66,757 votes, while Tiwari polled 60,741 votes.
 
-## Japan, US step in to support yen, Tokyo keeps door open for more action
-Japan and the United States intervened in currency markets to address yen volatility. This joint action followed a September 2025 finance ministers' statement. Tokyo is ready for further intervention if the yen continues to swing. Japan also plans to use the Federal Reserve's FIMA Repo Facility. Eco
+## India closes in on its first homegrown fighter jet engine
+PM urged India’s defence ecosystem to deliver an indigenous fighter jet powered by an Indian engine in 2025. The system has now moved to specific timelines.
 
-## Tripura: TMP announces party restructure after TTAADC village council polls
-Earlier this June, the Supreme Court directed the state Election Commission to hold the village council polls by the first week of next September
+## 'BJP just lost its president's seat': Kejriwal on Prashant Kishor's big debut win in Bihar's Bankipur
+The AAP chief claimed the result showed growing public anger against the Narendra Modi-led government over several issues.
 
-## Teacher dragged, stabbed 20 times by masked man at Faridabad school, dies
-Police said CCTV footage of the murder has surfaced and they were trying to ascertain the assailant's identity to arrest him.
+## RSS chief Mohan Bhagwat to engage with Gen Z at Mumbai event, days after Jantar Mantar protest forced a minister out
+The interaction will take place in Mumbai during an event commemorating the 15th anniversary of India's International Movement to Unite Nations (IIMUN).
 
-## From Jantar Mantar protest to Brij Bhushan's acquittal: Timeline of wrestlers' case against man who ruled federation
-After the verdict, Vinesh Phogat said the fight for justice was not over and that the wrestlers would not give up.
+## Ghaziabad schools, colleges shut till Aug 12 amid Kanwar Yatra: Official
+On July 24, the Ghaziabad traffic police rolled out a comprehensive traffic diversion plan that came into effect from July 29
 
-## ‘He garlanded rapists’: Abhijeet Dipke on Pralhad Joshi as education minister after CJP protest forced Pradhan's exit
-Abhijeet Dipke warned the Centre of another sit-in if the demands of the CJP are not met.
+## Terms of Trade: Is PK’s parabolic victory hyperbolic in Bihar’s larger politics?
+Prashant Kishor has gained voters from both the BJP and the RJD, given the BJP’s and RJD’s vote shares of 62.6% and 29.5%, respectively.
 
-## Brij Bhushan's acquittal in sexual harassment case a 'slap in opponents' face': WFI chief
-The remarks came hours after a Delhi court acquitted Brij Bhushan and co-accused Vinod Tumar in the case filed by the women wrestlers.
+## Tamil Nadu moves Supreme Court over Cauvery water dispute with Karnataka
+Shivakumar on Sunday said, “If the Mekedatu reservoir is built, nearly 90% of the benefit would go to Tamil Nadu”
 
-## CJP to hold its first core committee meeting on Aug 5 to discuss future plans
-CJP led the 36-day-long student protest over the National Eligibility cum Entrance Test (NEET) paper leak and other alleged exam irregularities at Delhi’s Jantar Mantar
+## 'Bankipur won't become Bengaluru overnight': Prashant Kishor after big win in Bihar
+Prashant Kishor won with 63,946 votes, defeating BJP candidate Neeraj Kumar Sinha.
 
-## Will Abhijeet Dipke enter politics? Cockroach Janta Party founder answers big question
-Cockroach Janta Party founder Abhijeet Dipke has denied claims about formally entering politics, calling for public movements instead.
-
-## Ghaziabad psychiatrist found dead year after divorce battle, suicide suspected
-Police said that they have not found a suicide note, adding that the body has been sent for autopsy.
+## Chinese biotech giant Wuxi AppTec sees first-half earnings surge amid US scrutiny
+Wuxi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business. Interim net profit attributable to the owners of 
 
 ## Chinese EV sales falter at home as growth slows
 Chinese carmakers reported slack sales for July, igniting fears of fresh price wars, and the country’s central bank pledged to promote stable growth and continue monetary easing after the pace of economic expansion slowed in the second quarter. Electric-vehicle (EV) makers Xpeng, Nio, and Li Auto, t
@@ -124,10 +130,10 @@ Major consumer goods multinationals – including Coca-Cola and Unilever – hav
 On August 3, five-year Chinese treasury bond futures began trading on the Hong Kong stock exchange. Market attention has focused on the new product, but its real significance emerges when set against the deep shifts under way in the international monetary system. History offers a clear lesson: no cu
 
 ## China’s tech giants race to put AI on delivery riders’ heads
-Chinese e-commerce giant JD.com has launched an smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency. The helmet integrate
+Chinese e-commerce giant JD.com has launched a smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency. The helmet integrates
 
 ## China’s social security fund boosts stakes in A-share firms in first 7 months, data shows
-China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed. The buying came as the CSI 300 Index, which tracks the 300 largest and most liquid stocks listed on th
+China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed. “[The fund] is investing in China’s tech sector to capture its faster growth rate,” said Gary Ng, seni
 
 ## Chinese EV demand cools
 –
@@ -135,8 +141,8 @@ China’s social security sovereign fund cast a vote of confidence in the onshor
 ## Will new batteries give China’s EVs the jolt they need to charge past their rivals?
 On a cloudy evening in late April, a tech event hosted at Beijing’s National Convention Centre by Contemporary Amperex Technology Ltd (CATL) drew nearly 1,000 people eager for a glimpse of next-generation electric vehicle (EV) batteries that could reshape the global automotive landscape. Gao Huan, c
 
-## Treasury bond futures ‘a milestone’ to boost Hong Kong’s bridgehead role: CSRC chairman
-Beijing is encouraging mainland China’s financial firms to use the city to go global, as well as urging Hong Kong-listed companies to list on the mainland, the head of the country’s securities regulator said on Monday. “Mainland financial institutions have been using Hong Kong to go global. There ar
+## Europe’s Dangerous Hesitation on Its Own Air Defense
+Russia’s ballistic missile attacks on Ukraine pose an urgent question for NATO leaders.
 
 ## Special Treatment for Cuban Refugees Is No More
 The Trump administration has rendered them as vulnerable to removal as other immigrants.
@@ -158,9 +164,6 @@ The epic poem describes events around the sacking of Troy.
 
 ## The Book That Predicted Pete Hegseth’s Failures
 ‘On the Psychology of Military Incompetence’ examines the narrow minds of petty men.
-
-## The Dreams of ‘Star Trek’ Aren’t Dead
-Space utopianism belongs to everyone, not billionaires.
 
 ## For a Gen Z Revolt, Pakistan Needs a Cause, Not a Captain
 Imran Khan is undoubtedly popular. But building a protest movement that revolves around Khan and his freedom immediately excludes half the population.
@@ -234,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Vozinha gets hero’s welcome in Chile after Cape Verde’s historic World Cup
-Vozinha gets hero's welcome in Chile after Cape Verde’s historic World Cup.
+## Why genocide keeps repeating in Sudan
+The lack of international action after the atrocities in el-Geneina and el-Fasher has doomed el-Obeid.
 
-## Trump says new Iran negotiations starting: What we know
-Analysts say deal on Hormuz might be achievable but lasting peace agreement still far off.
+## Detained Myanmar leader Suu Kyi has first foreign visitor in five years
+Aung San Suu Kyi has met a Red Cross representative in her first confirmed contact with a foreign official since 2021.
 
-## Wildfires still burning in France and Spain amid fears of more to come
-Europe's warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.
+## Protests, boycott cast shadow on Pakistan-administered Kashmir election
+Second round in regional elections held amid deadly clashes and heightened tensions over demands for electoral reforms.
 
-## Wales FA withdraws support for Infantino re-election after FIFA stake plan
-Wales is the first federation to formally withdraw support for Gianni Infantino after botched World Cup investment plan.
+## Who will shape post-war Iran?
+There are competing narratives in Tehran for its post-war recovery.
 
-## Dangerous summers: How heatwaves and wildfires change life across Europe
-Climate change makes Europe's summers hotter, intensifying fires and droughts while threatening lives and economies.
+## Palestine’s new ambassador to Spain calls for deeper friendship
+Palestine's new ambassador to Spain, Fadi Elhusseini, has shared his first message since taking office.
 
-## ‘He had a lot of profiles’: The rise of online drug-facilitated rape gangs
-Cases across many countries point to a worrying trend of men gathering on the internet to carry out sexual abuse crimes.
+## Pakistan-administered Kashmir elections and protests – all you need to know
+Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.
 
-## Myanmar releases first images of Aung San Suu Kyi since 2021 military coup
-Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.
+## Ukraine strikes Russia’s biggest retailer again
+Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.
 
-## Australia warns H5N1 likely to spread after first mass mortality episode
-Agriculture minister ​says testing confirmed H5N1 bird flu in a group of 49 dead and 35 sick terns.
+## Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza
+Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
@@ -282,6 +285,9 @@ Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging e
 ## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
 The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
 
+## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
+The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
+
 ## RBI likely to extend rate pause; neutral stance seen unchanged
 Economists anticipate the Reserve Bank of India will maintain its current interest rate at 5.25 percent. The central bank is also expected to keep its neutral monetary policy stance for the fourth review. Some economists foresee a potential rate hike in the second half of fiscal year twenty twenty-s
 
@@ -296,7 +302,4 @@ Sebi has cancelled ten research analyst registrations for unpaid renewal fees. T
 
 ## Govt companies request RBI to extend concessional forex swap by three months
 Public sector firms want the RBI's forex swap facility extended by three months. This facility helps government companies hedge dollar costs for external borrowing.
-
-## MSME Bill introduced, looks to speed up payments
-A key provision of the Bill is to strengthen the framework for addressing delayed payments, a long-standing challenge for micro and small enterprises that often strains their liquidity and disrupts business operations.
 
