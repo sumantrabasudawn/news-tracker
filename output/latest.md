@@ -1,67 +1,67 @@
 # AION Intelligence
 
+## Apple launches legal challenge to UK attempt to access encrypted user data
+iPhone maker files complaint over latest government demand to connect to cloud backups of British users
+
+## Israel’s defence minister triggers row after sacking general on TV
+Opposition decries attempt by Israel Katz to oust commander responsible for West Bank as sop to far-right voters
+
+## How big was the American JPY intervention?
+We can but guess, for now
+
+## AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough
+Sheer mass helps when enlarged balance sheets allow for bigger bets on potential blockbuster drugs
+
+## AstraZeneca investors raise concerns over mega-merger talks
+Shareholders question looming patent cliff and antitrust risks in potential $400bn tie-up with Bristol Myers Squibb
+
+## Iran denies Trump claim of imminent talks
+US president had said negotiations would begin on Monday but Tehran denied the two parties were in talks
+
 ## UBS fined $125mn over lax money laundering controls
 Swiss bank failed to implement adequate curbs despite previous sanction by US regulators
 
 ## Reform UK promises large-scale ‘military operation’ to block small boat crossings
 Policy pledge comes as rightwing party drops behind Labour in polls
 
-## Todd Blanche wins backing of senators after scrapping $1.8bn ‘slush fund’
-Support of two Republicans paves way for acting US attorney-general to be confirmed in the post
+## Texas law firm agrees $15mn settlement over judicial scandal
+Jackson Walker admitted it failed to disclose romantic relationship between former partner and federal bankruptcy judge
 
-## Japan vows further yen intervention with US if needed
-Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’
+## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
+Deal would create world’s fourth-largest drugmaker by market value
 
 ## Iranian tanker tolls: totally legit after all?
 Nice Suezmax you’ve got there. Shame if something happened to it
 
-## Apple launches legal challenge to UK attempt to access encrypted user data
-iPhone maker files complaint over latest government demand to connect to cloud backups of British users
-
 ## Time for Andy Burnham to smile on UK science
 Waning support for basic research threatens Britain’s technology ambitions
 
-## Iran denies Trump claim of imminent talks
-US president had said negotiations would begin on Monday but Tehran denied the two parties were in talks
+## Centre moves to impose MDR on UPI, extend tax breaks for contract manufacturers
+Exemptions until 2041 give a major boost to Apple
 
-## Struggling to make sense of AstraZeneca-BMS
-All about oncology? A cardio workout? Patent-cliff avoidance? American dreaming?
+## KPJ Healthcare Launches First Orthopaedic and Rheumatology Centre of Excellence Under the KPJ Health System
+KPJ Healthcare Launches First Orthopaedic and Rheumatology Centre of Excellence Under the KPJ Health System
 
-## ASML’s hold over the future of chipmaking is weakening
-The Dutch company’s monopoly is not at imminent risk but China is edging ever closer
+## Closing price discovery faces first test as CAS spikes Nifty by nearly 200 points
+The top 10 stocks contributed around 30% of the total CAS turnover on NSE
 
-## FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up
-Also in today’s newsletter: Oil prices drop after Trump says talks with Iran will begin today and Uefa threatens Fifa with legal action
+## FSSAI orders Dabur to stop selling products with misleading “100%” claims
+The regulator also flagged alleged organic labelling violations and directed Dabur India to submit an Action Taken Report within 15 days
 
-## SpaceX’s staggered lock-up release prolongs the pain
-The biggest IPO wanted to avoid a cliff edge of insider selling but now has 12 months of uncertainty
+## Anthropic brings Claude in-country inference to India via Amazon Bedrock
+In February, Anthropic opened its Bengaluru office, since when its India team has grown, providing applied AI expertise to enterprises, digital natives, and startups building on Claude
 
-## Don’t let tax rows eclipse the fundamentals of social care
-Like in the case of wind power, agreement on the big structural issues is much more important than finance
+## Govt to offload 6.54% in LIC, likely to get over ₹31,000 crore
+Based on the floor price, it is expected to generate over ₹31,000 crore for the government, marking the largest OFS proceeds to date
 
-## Editorial. Growth engine
-IIP signals resilience to external challenges
+## Delayed justice in market violation cases makes pittance of penalties
+Investigated by multiple agencies for over two decades, the co-location case relates to allegations that certain brokers received preferential access to market data ahead of other participants
 
-## Eisai launches Leqembi to treat early Alzheimer’s disease
-About 8.8 million Indians over the age of 60 are living with dementia, a note from the company said, citing a study
+## Centre proposes safety norms for two-wheeled road ambulances
+Draft rules seek dedicated regulatory framework for emergency medical motorcycles operating in rural and difficult terrain
 
-## SBI Funds Management net up 4% in Q1
-Revenue from operations increased 15% to ₹1,153 crore (₹1,001 crore)
-
-## SC says States free to ‘close, withdraw’ proceedings against protesters as per law
-Appearing for the petitioners, Ms. Grover submitted that there was no standing order of the Delhi Police authorising the use of pellet guns.
-
-## New challengers spark pricing war in food delivery, putting Swiggy and Zomato under pressure
-The two companies are betting that lower commissions will help them attract restaurant partners at a time when merchants have increasingly voiced concerns over the high fees charged by incumbent platforms
-
-## Tea Board launches courses on tea tasting, to create pool of professionally trained tea tasters
-The programme is also aimed at promoting tea literacy among youth and generating employment opportunities in the tea industry
-
-## Q1 Results Highlights: Ather narrows Q1 loss; UPL, Sundaram Finance, CAMS, Ethos, MobiKwik, DLF post profit rise; Jindal Stainless PAT dips
-Q1 Results Today, 03rd August 2026 Highlights: Get real-time Q1 FY27 earnings updates, profit growth, revenue numbers and management outlook
-
-## TN finances under new government
-
+## Centre raises windfall tax on petrol, diesel and ATF exports from August 3
+India has increased export duties on petrol, diesel, and aviation fuel. These revised rates will be effective from August 3 for the next fortnight. Domestic fuel duties remain unchanged, providing stability for local consumers. This move follows a reduction in commercial LPG prices earlier this mont
 
 ## Amazon achieves new milestone! Market cap crosses $3 trillion as AI, cloud growth power stock rally
 Shares of the Seattle-headquartered e-commerce and cloud giant had surged 15% on Friday after the company reported its fastest cloud revenue growth in over four years and increased its forecast for annual capital expenditure.
@@ -84,32 +84,29 @@ The Closing Auction Session aims to concentrate liquidity at the end of the trad
 ## Flavoured rum, whisky? FSSAI tightens rules for alcohol labels
 
 
-## Near 5-year low! India’s manufacturing growth slows, but HSBC PMI stays in expansion territory
-The survey indicated that resilient demand continued to support the sector, although the pace of growth in new orders, input purchases and hiring moderated during the month.
+## WhatsApp puts multiple accounts under review, blocks app access for 24 hours in India
+Affected users said they were unable to use the Meta-owned messaging app despite receiving no prior warning.
 
-## 2 losses, 1 win: BJP election scorecard days after Gen Z delivered a setback to Modi govt
-The biggest setback for the BJP came from Bihar, where Jan Suraaj Party founder Prashant Kishor defeated BJP candidate Neeraj Kumar by 19,324 votes in Bankipur.
+## Every dowry harassment complaint serious, advising compromise may prove costly: Allahabad HC
+The court noted that women facing dowry harassment are often advised by their families to "compromise", "adjust" or "save the marriage".
 
-## Glaw Lake becomes Arunachal Pradesh's first Ramsar site, India's 101st
-Ramsar sites are wetlands of international importance under the Ramsar Convention, an environmental treaty established in 1971.
+## FSSAI prohibits Dabur from selling food products with '100 pc' claims
+The regulator asserted that the use of the 100 per cent claims is in contravention of the FSS (Advertising & Claims) Regulations, 2018.
 
-## No alliance with any party, says Prashant Kishor after Bankipur bypoll win
-With his victory, the Jan Suraaj Party will have its maiden presence in the Bihar assembly.
+## BJP chief Nitin Nabin reacts as Prashant Kishor wrests his family seat: ‘Unexpected’
+BJP national president Nitin Nabin thanked voters in Gujarat for helping the party retain the Manjalpur Assembly seat and congratulated workers on the victory.
 
-## ‘Zuckerberg intends to destabilise India’: Parliament panel chief demands apology from Meta boss over PM post row
-Highlighting the removal of PM Modi's content, Nishikant Dubey said this was “not the first time” Meta had done this.
+## Prashant Kishor didn't defeat just BJP, but a Lalu Yadav and a Nitish Kumar too
+The spotlight was on Jan Suraaj Party founder Prashant Kishor breaching the BJP bastion with 64,151 vote.
 
-## India’s monsoon is getting weirder
-Expect more extreme weather
+## 22 children dead in Gujarat's Chandipura virus outbreak; 35 infections confirmed
+Health teams are spraying pesticides in animal husbandry areas to control sandflies, which spread the virus, state health minister Praful Panseriya said.
 
-## Chhattisgarh CM announces DSP post for CWG silver medallist Gyaneshwari Yadav
-The 23-year-old athlete from Rajnandgaon district secured the silver medal in the women’s 53kg weightlifting event
+## Sheikh Hasina’s event can hit positive momentum in ties, says top aide to Bangladesh PM
+Humaiun Kobir, adviser on foreign affairs to PM Tarique Rahman, conveyed the message to Dinesh Trivedi during a meeting at the Prime Minister’s Office in Dhaka
 
-## Bengal STF arrests college student over links with Jaish operative Hamim Mondal
-Preliminary investigations suggested that Singh had shared information about Rai’s movements and pictures of Rai and his son
-
-## Courts can't ‘teach or preach’ citizens on what to say: Former SC judge Abhay S Oka
-Justice Oka said courts are not meant to decide what citizens should or should not say. Their responsibility is to safeguard fundamental rights.
+## Arunachal Pradesh’s Glaw Lake is India’s 101st Ramsar site: Bhupender Yadav
+Ramsar sites are recognised for their biodiversity, critical habitats for migratory birds, and ecological significance, such as carbon sequestration and flood control
 
 ## Chinese biotech giant Wuxi AppTec sees first-half earnings surge amid US scrutiny
 Wuxi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business. Interim net profit attributable to the owners of 
@@ -159,29 +156,32 @@ The corruption crisis may be the most important source of rot in the U.S. system
 ## What Homer’s ‘Odyssey’ Tells Us About the Economics of the Bronze Age
 The epic poem describes events around the sacking of Troy.
 
+## Xi Jinping’s AI Vision
+Xi’s speech addressed the attendees at the World Artificial Intelligence Conference, but his real audience was the international community, and of course the United States.
+
+## Is Japan Decoupling From China?
+The new generation of Japanese policymakers is far less willing to accommodate China than its predecessors.
+
+## Uzbekistan’s Nuclear Power Plant Project Advances
+Officials say that the first small modular reactor of Uzbekistan’s nuclear power plant project is to be commissioned in 2029.
+
+## Pakistan Wields Iron Fist Against Protesters in Pakistan-administered Jammu and Kashmir
+Last week, Pakistani Defense Minister Khwaja Asif described protesters “as enemies like India."
+
+## Is Islamic Extremism Taking Over Bangladesh?
+Two years after Sheikh Hasina's ouster, what is the role of Islamism movements in Bangladesh?
+
+## 12 Asian Countries Subject to Finalized US Visa Bond Program
+The program, which launched as a pilot in August 2025, is now permanent and at present affects the citizens of 50 countries.
+
+## Myanmar’s Depleted Oil Pipeline
+A cross-border energy project deals with the impact of two conflicts.
+
 ## For a Gen Z Revolt, Pakistan Needs a Cause, Not a Captain
 Imran Khan is undoubtedly popular. But building a protest movement that revolves around Khan and his freedom immediately excludes half the population.
 
-## Myanmar Leader Criticizes Five-Point Consensus, Accuses ASEAN of ‘Discrimination’
-Marking his 100th day as president, Min Aung Hlaing told parliament that his administration would pursue its own “solution” to the country’s conflict.
-
-## Anwar Ibrahim’s Coalition Suffers Another State-level Electoral Defeat
-In Negeri Sembilan, the Pakatan Harapan coalition was washed away by a wave of Malay unity that could determine the outcome of the next general election.
-
-## Safeguarding Children Online: Beyond Singapore’s Social Media Ban Debate
-Singapore might consider championing a roadmap of “supported autonomy.”
-
-## Afghanistan’s Return Crisis: Why Sending People Back Is Not a Durable Solution
-The shift in policies from protection to return assumes that return represents a durable solution.
-
-## Johor State Election 2026: Decoding Peninsular Malaysian Politics
-The Johor state election does not automatically presage a nationwide BN sweep because the results are heavily steeped in Johor's unique local context.
-
-## Lee Pushes AI Investment in Silicon Valley and Turns to South American Minerals
-The South Korean president secured semiconductor pledges in San Francisco before turning to trade and mineral agreements in Brazil and Chile.
-
-## South Asia’s Smaller States Push to Revive SAARC — Again
-Will the region’s perpetually squabbling siblings -- India and Pakistan -- put aside their insecurities to make regional cooperation happen?
+## Why Egypt’s Opinion of Ukraine Matters, Now and Later
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## How to Stop China from Freeriding on American AI
 The release of the Chinese open-weight AI model Kimi K3 has compressed a year’s worth of unresolved AI policy debate into a single news cycle. On July 21, Treasury Secretary Scott Bessent threatened sanctions against Chinese labs found to have built their models on “theft,” reporting that the govern
@@ -203,9 +203,6 @@ In June, the U.S. Department of Commerce informed the Dutch company ASML that it
 
 ## Parsing Trump’s Decision to (Maybe) Give Uranium Enrichment to Saudi Arabia
 On June 22, the United States announced that it had signed a nuclear cooperation agreement with Saudi Arabia. This type of agreement broadly authorizes trade in nuclear technology, equipment, and materials, but only if the agreement and the country in question meet defined nonproliferation requireme
-
-## Key Areas Where Water Scarcity Intensifies Risks of Conflict
-Water disputes can directly drive conflict, but more often, water scarcity acts as a catalyst — one that, combined with other pressures, raises the risk of conflict. This is nothing new; water has shaped human conflict for millennia. What’s changed is the accumulation of stress, as climate change, p
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How Israel and the European far right tried to exploit Ceuta
-A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.
+## Drone slams into Russian beach, killing at least 7 people
+Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.
 
-## Australia’s under-16 social media ban failing, study shows: What it means
-Australia's internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.
+## Republicans say they will back Blanche after US Justice Department order
+Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.
 
-## Tigray refugees flee into Sudan after deadly violence on Ethiopia border
-Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.
+## Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
+US president demands 'Total Surrender' amid escalating naval blockade in the crucial Strait of Hormuz.
 
-## Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain
-Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production
+## New illegal Israeli outpost spotted in occupied West Bank
+Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.
 
-## Trump slams Chevron CEO, demands immediate reduction in US fuel prices
-Trump claims Chevron's success stems from his policies, calling for urgent reductions in US fuel prices for consumers.
+## Uncertainty on Iranians’ minds as Trump fluctuates on war and talk
+Iranians feeling pressure amid US president's on-again, off-again comments on conflict and negotiations.
 
-## Pochettino agrees to new manager contract with US Soccer
-Mauricio Pochettino inks a four-year head coach extension after Team USA finished in the last-16 at World Cup 2026.
+## Inside the Palestine Action protests
+After the UK proscribed Palestine Action as a terrorist organisation, thousands were arrested or investigated.
 
-## More than 10 killed as Russia and Ukraine trade heavy attacks
-Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.
+## Iraqi Kurdish regional leader meets Syrian president in Damascus
+Barzani meets Syria's al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.
 
-## FIFA’s Infantino sought Trump backing after World Cup selloff plan: Report
-FIFA boss Gianni Infantino turned to Donald Trump to save his job amid revolt against World Cup privatisation plan.
+## Romanian navy blasts riverbed to protect nuclear plant
+Romania's military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
