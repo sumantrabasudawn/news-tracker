@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## Apple launches legal challenge to UK attempt to access encrypted user data
-iPhone maker files complaint over latest government demand to connect to cloud backups of British users
-
 ## Israel’s defence minister triggers row after sacking general on TV
 Opposition decries attempt by Israel Katz to oust commander responsible for West Bank as sop to far-right voters
+
+## Apple launches legal challenge to UK attempt to access encrypted user data
+iPhone maker files complaint over latest government demand to connect to cloud backups of British users
 
 ## How big was the American JPY intervention?
 We can but guess, for now
@@ -84,7 +84,7 @@ The Closing Auction Session aims to concentrate liquidity at the end of the trad
 ## Flavoured rum, whisky? FSSAI tightens rules for alcohol labels
 
 
-## WhatsApp puts multiple accounts under review, blocks app access for 24 hours in India
+## WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours
 Affected users said they were unable to use the Meta-owned messaging app despite receiving no prior warning.
 
 ## Every dowry harassment complaint serious, advising compromise may prove costly: Allahabad HC
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Survivors reach port after deadly Indonesia ferry fire
+Survivors reach port after deadly Indonesia ferry fire
+
+## Clergy members arrested while protesting at Senate office
+Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.
+
+## Trump says talks with Iran are ‘last chance’ to forge a deal
+US President Donald Trump said Iran has a "last chance" to reach a nuclear agreement.
+
+## Bomb disposal underway in Le Porge after wildfires unearth WWII shells
+Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.
+
+## US announces first two deaths from cyclospora outbreak
+Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.
+
+## Can Netanyahu survive Israel’s most consequential election?
+Israelis head to the polls in October for the country's first election since the war on Gaza began.
+
+## Israel top court hears challenge to UNRWA ban
+Israel's highest court heard a constitutional challenge to legislation banning UNRWA's operations in Israel.
+
 ## Drone slams into Russian beach, killing at least 7 people
 Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.
-
-## Republicans say they will back Blanche after US Justice Department order
-Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.
-
-## Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
-US president demands 'Total Surrender' amid escalating naval blockade in the crucial Strait of Hormuz.
-
-## New illegal Israeli outpost spotted in occupied West Bank
-Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.
-
-## Uncertainty on Iranians’ minds as Trump fluctuates on war and talk
-Iranians feeling pressure amid US president's on-again, off-again comments on conflict and negotiations.
-
-## Inside the Palestine Action protests
-After the UK proscribed Palestine Action as a terrorist organisation, thousands were arrested or investigated.
-
-## Iraqi Kurdish regional leader meets Syrian president in Damascus
-Barzani meets Syria's al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.
-
-## Romanian navy blasts riverbed to protect nuclear plant
-Romania's military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
