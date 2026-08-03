@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Reform UK promises large-scale ‘military operation’ to block small boat crossings
+Rightwing party’s policy announcement comes as Reform drops behind Labour in polls
+
+## Oil slides after Trump says talks with Iran will resume
+Tehran says a deal with Oman to reopen Strait of Hormuz to shipping was close
+
+## Don’t let tax rows eclipse the fundamentals of social care
+Like in the case of wind power, agreement on the big structural issues is much more important than finance
+
+## Todd Blanche confirms scrapping of $1.8bn ‘slush fund’ ahead of confirmation vote
+Acting US attorney-general U-turns on ‘anti-weaponisation fund’ after two Republicans threaten to torpedo nomination
+
+## Japan vows further yen intervention with US if needed
+Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’
+
 ## Team America: Yen police
 A puzzling intervention
 
@@ -7,10 +22,10 @@ A puzzling intervention
 McDonald’s signature burger offers economic lessons — but not about purchasing power parity
 
 ## FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up
-Also in today’s newsletter: Ceuta migrant crossing and Uefa’s response to failed Fifa plan
+Also in today’s newsletter: Oil prices drop after Trump says talks with Iran will begin today and Uefa threatens Fifa with legal action
 
-## European wildfire costs this year have already surpassed €3bn
-Economic toll in worst-hit countries exceeds official estimate of costs to bloc in average year, according to FT analysis
+## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
+Deal would create world’s fourth-largest drugmaker by market value
 
 ## French banks warm to election financing in potential boost for Le Pen
 Lenders signal willingness to offer campaign loans if government guarantees are in place
@@ -21,41 +36,53 @@ Amid geopolitical barriers that risk slowing progress and trade, Europe can beco
 ## US gas guzzlers see off Europe’s EVs in latest round of car wars
 Detroit carmakers had a strong second quarter, while their European rivals remain downbeat
 
-## Ofcom chair launches review of regulator to help rein in Big Tech
-Ian Cheshire tells FT that watchdog will need ‘more resources’ to enforce online safety rules as it takes on wider brief
-
 ## The ‘Trump effect’ is taking a toll on corporate gender goals
 Changes at the Australian Securities Exchange are the latest sign of a global rollback of diversity policies
 
 ## How US drinkers fell out of love with Bud Light
 AB InBev shifts marketing dollars to other brands as tie-ups with celebrities and cage fighting fail to halt decline in sales
 
-## James Dacombe, 25, triples AI chip start-up’s valuation to $3.3bn
-British entrepreneur behind Olix raises $312mn from investors including Arm in effort to take on Nvidia
-
-## Parliamentary Panel to meet Meta, X, Snapchat, and Google today at 4pm
-The development follows an incident involving Meta, when Prime Minister Narendra Modi’s Facebook video addressing action against examination paper leaks was briefly removed from the platform before being restored
-
-## Sensex today | Stock Market Live: Sensex rises 600 pts, Nifty near 24,600; ITC, IndiGo lead gainers; Muthoot Finance down 10%; PMI Manufacturing slips to near 5-year low in July
+## Sensex today | Stock Market Live: Sensex rises nearly 600 pts, Nifty holds 24,500; IndiGo leads gainers
 Sensex, Nifty, Stock Price Live Updates: The fresh week began on a positive note for Indian stocks, thanks to softer crude oil prices and stable global markets.
 
-## ITC shares bounce back as analysts back volume resilience despite cigarette earnings hit
-ITC has shed over 30% in the past year and trades well below its 52-week high of ₹427, hit in September 2025
+## India’s economy at a crossroads: Robust revenues, emerging headwinds
+Arun Singh, Global Chief Economist at Dun & Bradstreet, speaks on the significance of record GST collections, rising import-linked tax revenues, trends in the newly introduced Index of Services Production (ISP), and the evolving fiscal deficit situation.
 
-## Asian stocks mixed as yen jumps against dollar, while oil prices fall
-Japan's Nikkei 225 index lost 1.9 per cent to 63,140.68 early Monday, while the Kospi in South Korea dropped 4.5 per cent to 6,298.75
+## TRAI revamps 'MyCall' mobile app to assess voice call quality via user feedback
+The app will help consumers report calling experience issues to service providers, said TRAI Chairman Anil Kumar Lahoti
 
-## Fourteen dead, thousands displaced as rains, floods strike southern India
-Heavy rains also forced closures of many ‌schools across the state, while the government ​postponed a state-level teacher recruitment exam
+## Essar Group’s $5.8 billion investment supports UK’s energy transition: Prashant Ruia
+The investment roadmap focuses on hydrogen, cleaner refining, retail expansion and new industries to strengthen Britain’s long-term energy transition ambitions
 
-## Q1 Results Today Live: Park Medi World logs mixed Q1, DLF, UPL, Torrent Power, IREDA, KEI, Escorts Kubota, Jindal Stainless, Ather, Inox, Nazara, KIMS, MobiKwik, Texmaco, DOMS Q1 results today
+## Migrant workers stay put, easing fears for Valley’s labour dependent economy
+Every year, around 400,000 migrant workers from States such as Bihar, Uttar Pradesh, West Bengal, Punjab and Rajasthan travel to Jammu and Kashmir for seasonal employment
+
+## Q1 Results Today Live: UPL & Ather Energy narrows Q1 loss, Sundaram Finance, CAMS, Ethos Q1 PAT up, MobiKwik logs ₹8 cr profit, Jindal Stainless PAT dips, DLF, Torrent Power, IREDA, KEI, Inox, Nazara, KIMS, Texmaco, DOMS Q1 results today
 Q1 Results Today, 03rd August 2026 Live Updates: Get real-time Q1 FY27 earnings updates, profit growth, revenue numbers and management outlook
 
-## PMI Manufacturing slips to near 5-year low in July
-While demand remained resilient in July, growth cooled across metrics such as total sales, input purchasing and employment
+## CBDT's Nudge campaign results in 1.25 crore updated ITRs, ₹9,494 crore additional tax payment
+The taxpayers are selected on the basis of advanced risk analysis identifying incorrect or non-reporting of assets or income, or excess claims of deductions or exemptions in their ITRs
 
-## India's bank credit growth remains robust at 18.6% in June 2026: Haitong Securities
-The report said overall bank credit, estimated at around Rs 219 trillion, grew 18.6% year-on-year (YoY) in June 2026, while non-food credit expanded 18.3% YoY
+## State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows
+ICICI Bank leads private-sector peers with about $3.7 billion in deposits under the scheme. HDFC Bank and Axis Bank, the country’s largest and third-largest private lenders respectively, raise about $1.5 billion each
+
+## What time will stock market close from today? New timings and rationale explained
+The Closing Auction Session aims to concentrate liquidity at the end of the trading day. The idea is to facilitate smoother execution of large orders and generate a closing price that is more accurate in terms of reflecting overall market demand and supply.
+
+## Flavoured rum, whisky? FSSAI tightens rules for alcohol labels
+
+
+## Near 5-year low! India’s manufacturing growth slows, but HSBC PMI stays in expansion territory
+The survey indicated that resilient demand continued to support the sector, although the pace of growth in new orders, input purchases and hiring moderated during the month.
+
+## Saudi’s Yanbu port sees busy days despite Houthi threats; crude transits as oil tankers go dark
+Yanbu has become a critical export hub for Saudi Arabia after the Iran war disrupted shipping through the Strait of Hormuz. To maintain crude exports, the kingdom has been transporting millions of barrels of oil each day via pipeline to the Red Sea port.
+
+## Stocks to buy: What's the outlook for Nifty for August 3-August 7 week? Check list of top stock recommendations
+Stock market recommendations: Sansera Engineering, and Paytm have been picked as the top stocks to buy this week starting August 3, 2026 by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities.
+
+## Gold price prediction today: Will gold maintain its upward momentum? Check outlook for August 3, 2026 week
+Gold price prediction today: Gold prices are showing signs of stabilising after a prolonged phase of correction, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
 
 ## Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows
 The Indian rupee strengthened against the US dollar on Monday morning. Falling global crude oil prices and a weaker US dollar supported the rupee's rise. Foreign fund inflows and higher forex reserves also provided additional support. Easing geopolitical concerns after US President Donald Trump dela
@@ -63,47 +90,44 @@ The Indian rupee strengthened against the US dollar on Monday morning. Falling g
 ## Japan, US step in to support yen, Tokyo keeps door open for more action
 Japan and the United States intervened in currency markets to address yen volatility. This joint action followed a September 2025 finance ministers' statement. Tokyo is ready for further intervention if the yen continues to swing. Japan also plans to use the Federal Reserve's FIMA Repo Facility. Eco
 
-## Gold, Silver Rate Today Live Updates: Spot gold edges higher as oil prices tumble after Trump delays fresh Iran strike
+## Tripura: TMP announces party restructure after TTAADC village council polls
+Earlier this June, the Supreme Court directed the state Election Commission to hold the village council polls by the first week of next September
 
+## Teacher dragged, stabbed 20 times by masked man at Faridabad school, dies
+Police said CCTV footage of the murder has surfaced and they were trying to ascertain the assailant's identity to arrest him.
 
-## Stock market today: BSE Sensex jumps over 600 points, NSE Nifty50 above 24,550
+## From Jantar Mantar protest to Brij Bhushan's acquittal: Timeline of wrestlers' case against man who ruled federation
+After the verdict, Vinesh Phogat said the fight for justice was not over and that the wrestlers would not give up.
 
+## ‘He garlanded rapists’: Abhijeet Dipke on Pralhad Joshi as education minister after CJP protest forced Pradhan's exit
+Abhijeet Dipke warned the Centre of another sit-in if the demands of the CJP are not met.
 
-## Top stocks to buy: Stock recommendations for this week - check list
-Stock market recommendations: RR Kable, and KFin Technologies have been picked as the top stocks to buy for the week starting August 3, 2026 by Motilal Oswal Wealth Management Research Desk:
+## Brij Bhushan's acquittal in sexual harassment case a 'slap in opponents' face': WFI chief
+The remarks came hours after a Delhi court acquitted Brij Bhushan and co-accused Vinod Tumar in the case filed by the women wrestlers.
 
-## Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions
-Oil prices dropped significantly as United States and Iran negotiations offered hope for de-escalation. Uncertainty surrounds these talks and ongoing security risks persist along vital shipping lanes. Brent crude futures experienced a sharp decline after President Trump announced potential discussio
+## CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+CJP led the 36-day-long student protest over the National Eligibility cum Entrance Test (NEET) paper leak and other alleged exam irregularities at Delhi’s Jantar Mantar
 
-## RBI expected to hold rates on Aug 5
+## Will Abhijeet Dipke enter politics? Cockroach Janta Party founder answers big question
+Cockroach Janta Party founder Abhijeet Dipke has denied claims about formally entering politics, calling for public movements instead.
 
+## Ghaziabad psychiatrist found dead year after divorce battle, suicide suspected
+Police said that they have not found a suicide note, adding that the body has been sent for autopsy.
 
-## Investments in PE-VC fall 6% to $20.3bn in Jan-July
-India's private equity and venture capital investments surpassed twenty billion dollars this year. This figure shows a slight decrease compared to the previous year's performance. July saw investments of three billion dollars, remaining stable from last year's figures. Investors maintain long-term c
+## Chinese EV sales falter at home as growth slows
+Chinese carmakers reported slack sales for July, igniting fears of fresh price wars, and the country’s central bank pledged to promote stable growth and continue monetary easing after the pace of economic expansion slowed in the second quarter. Electric-vehicle (EV) makers Xpeng, Nio, and Li Auto, t
 
-## Bihar municipal officer beaten to death by his driver after dispute, police say
-The EO of Dehri-Dalmianagar Municipal Council was allegedly killed by his driver after an argument. The driver later confessed to the murder.
+## Multinational giants defy China’s sluggish retail market with strong 2026 sales
+Major consumer goods multinationals – including Coca-Cola and Unilever – have reported strong sales growth in China during the first half of the year, indicating continued opportunities in the world’s second-largest consumer market despite headwinds. The revenue figures disclosed in corporate exchan
 
-## No FIR against girl who abused PM Modi at Jantar Mantar protest by Delhi Police yet: Report
-After the FIR was filed against the girl, she apologized on video and said that she “came under the influence of some people at the protest”.
+## Hong Kong’s Chinese bond futures are a major step for the global yuan
+On August 3, five-year Chinese treasury bond futures began trading on the Hong Kong stock exchange. Market attention has focused on the new product, but its real significance emerges when set against the deep shifts under way in the international monetary system. History offers a clear lesson: no cu
 
-## Multiple Delhi schools receive bomb threats, search ops on
-Authorities said all safety protocols are in place and no suspicious objects have been found so far.
+## China’s tech giants race to put AI on delivery riders’ heads
+Chinese e-commerce giant JD.com has launched an smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency. The helmet integrate
 
-## Delhi HC's OpenAI-ANI ruling: What it means for AI, copyright and publishers in India — so far
-The court ruled on three key questions — whether training is fair dealing, whether outputs infringe, and whether Indian courts can hear the case.
-
-## CJP's Abhijeet Dipke reveals how he paid for US education, funded Jantar Mantar protests
-Abhijeet Dipke's clarification came after a Gujarat-based RTI activist sought details about how his foreign education was financed.
-
-## 'If even one allegation was proved...': Brij Bhushan Sharan Singh reacts after acquittal in wrestlers' sexual harassment
-Former Wrestling Federation of India (WFI) chief Brij Bhushan Sharan Singh welcomed his acquittal in the sexual harassment case.
-
-## Former IATA chief Willie Walsh takes charge as IndiGo CEO
-Willie Walsh has held leadership positions at several respected aviation organisations including CEO of British Airways (2005-2011), CEO of International Airlines Group (2011- 2020)
-
-## Delhi court clears Brij Bhushan Singh in sexual harassment case by six women wrestlers
-Brij Bhushan Singh was cleared on Monday after two years of trial in the cases that came following a wave of protests by wrestlers at Jantar Mantar in 2023.
+## China’s social security fund boosts stakes in A-share firms in first 7 months, data shows
+China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed. The buying came as the CSI 300 Index, which tracks the 300 largest and most liquid stocks listed on th
 
 ## Chinese EV demand cools
 –
@@ -113,21 +137,6 @@ On a cloudy evening in late April, a tech event hosted at Beijing’s National C
 
 ## Treasury bond futures ‘a milestone’ to boost Hong Kong’s bridgehead role: CSRC chairman
 Beijing is encouraging mainland China’s financial firms to use the city to go global, as well as urging Hong Kong-listed companies to list on the mainland, the head of the country’s securities regulator said on Monday. “Mainland financial institutions have been using Hong Kong to go global. There ar
-
-## The international hotel chains targeting China’s value-driven travellers
-As a fresh graduate who recently received his first pay cheque after starting his first job in June, Ryan Liu decided to mark the milestone with a weekend getaway. Having recently relocated from Shandong province to Shenzhen, he was looking for a place that offered quality facilities without stretch
-
-## Global institutional investors eager to trade Chinese bond futures in Hong Kong, HKEX says
-International asset managers, pension funds and insurance companies have shown strong interest in offshore China government bond futures, which are set to start trading in Hong Kong for the first time on Monday, according to senior stock exchange executives. The new 5-year China government bond futu
-
-## Price war fears grip China’s EV market after woeful July sales figures
-The bearish sentiment surrounding China’s electric vehicle (EV) sector has intensified after three premium carmakers reported weak sales for July, further heightening concerns that the market is heading for another brutal price war. EV makers Xpeng, Nio and Li Auto all reported month-on-month sales 
-
-## AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
-The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank. “Th
-
-## China sees flurry of commercial property deals as investors sniff out bargains
-Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery. The value of office buildings, hotels and shopping malls across Ch
 
 ## Special Treatment for Cuban Refugees Is No More
 The Trump administration has rendered them as vulnerable to removal as other immigrants.
@@ -153,6 +162,15 @@ The epic poem describes events around the sacking of Troy.
 ## The Dreams of ‘Star Trek’ Aren’t Dead
 Space utopianism belongs to everyone, not billionaires.
 
+## For a Gen Z Revolt, Pakistan Needs a Cause, Not a Captain
+Imran Khan is undoubtedly popular. But building a protest movement that revolves around Khan and his freedom immediately excludes half the population.
+
+## Myanmar Leader Criticizes Five-Point Consensus, Accuses ASEAN of ‘Discrimination’
+Marking his 100th day as president, Min Aung Hlaing told parliament that his administration would pursue its own “solution” to the country’s conflict.
+
+## Anwar Ibrahim’s Coalition Suffers Another State-level Electoral Defeat
+In Negeri Sembilan, the Pakatan Harapan coalition was washed away by a wave of Malay unity that could determine the outcome of the next general election.
+
 ## Safeguarding Children Online: Beyond Singapore’s Social Media Ban Debate
 Singapore might consider championing a roadmap of “supported autonomy.”
 
@@ -168,14 +186,11 @@ The South Korean president secured semiconductor pledges in San Francisco before
 ## South Asia’s Smaller States Push to Revive SAARC — Again
 Will the region’s perpetually squabbling siblings -- India and Pakistan -- put aside their insecurities to make regional cooperation happen?
 
-## Mongolia Signs Fuel Deal With South Korea
-South Korea is now becoming a key guarantor of stability for Mongolian gas stations and aviation.
+## How to Stop China from Freeriding on American AI
+The release of the Chinese open-weight AI model Kimi K3 has compressed a year’s worth of unresolved AI policy debate into a single news cycle. On July 21, Treasury Secretary Scott Bessent threatened sanctions against Chinese labs found to have built their models on “theft,” reporting that the govern
 
-## For the Arakan Army, Recognition Must Be Earned
-The Arakan Army’s quest for international recognition should be tied to Rohingya rights and accountability.
-
-## Tajikistan Denies a Clothing Ban Its Police Keep Enforcing
-A rumor with one traceable source drew an official rebuttal in Dushanbe that buried its documented enforcement.
+## Possible Is Not Plausible: How Nightmare Scenarios Hijack Unconventional Weapons Policy
+Current conversations surrounding unconventional weapons — chemical, biological, radiological, and nuclear — have become so fantastical as to be unserious. As the Chinese military fundamentally rethinks biological warfare and Russia continues to use chloropicrin in Ukraine, hypothetical scenarios of
 
 ## The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation
 In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities resumed in mid-July. More recently, the Houthis in Yemen have
@@ -194,12 +209,6 @@ On June 22, the United States announced that it had signed a nuclear cooperation
 
 ## Key Areas Where Water Scarcity Intensifies Risks of Conflict
 Water disputes can directly drive conflict, but more often, water scarcity acts as a catalyst — one that, combined with other pressures, raises the risk of conflict. This is nothing new; water has shaped human conflict for millennia. What’s changed is the accumulation of stress, as climate change, p
-
-## The Octane Revolution: How Jimmy Doolittle Catalyzed a Wartime Industry
-Editor’s note: This is the sixth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
-
-## The First Waves of Amphibious Assault Will Be Unmanned
-In the Pacific War, the U.S. Navy’s underwater demolition teams prepared the way for U.S. and allied amphibious landings on enemy-held islands. Through beach reconnaissance, obstacle breaching, mine clearance, and other missions, these teams paved paths for the first waves of amphibious assaults con
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Grid failure plunges Cuba into nationwide blackout
-Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.
+## Vozinha gets hero’s welcome in Chile after Cape Verde’s historic World Cup
+Vozinha gets hero's welcome in Chile after Cape Verde’s historic World Cup.
 
-## Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations
-A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.
+## Trump says new Iran negotiations starting: What we know
+Analysts say deal on Hormuz might be achievable but lasting peace agreement still far off.
 
-## Trump pauses ‘massive attack’ on Iran, says new talks to begin
-US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.
+## Wildfires still burning in France and Spain amid fears of more to come
+Europe's warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.
 
-## Brazil’s Lula launches reelection bid amid foreign interference concerns
-Brazil's President Luiz Inácio Lula da Silva has officially launched his reelection campaign.
+## Wales FA withdraws support for Infantino re-election after FIFA stake plan
+Wales is the first federation to formally withdraw support for Gianni Infantino after botched World Cup investment plan.
 
-## The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?
-Court cases over new lodges have raised questions about protecting one of Africa’s greatest wildlife spectacles.
+## Dangerous summers: How heatwaves and wildfires change life across Europe
+Climate change makes Europe's summers hotter, intensifying fires and droughts while threatening lives and economies.
 
-## Japan and US confirm rare joint intervention to prop up yen
-US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship.
+## ‘He had a lot of profiles’: The rise of online drug-facilitated rape gangs
+Cases across many countries point to a worrying trend of men gathering on the internet to carry out sexual abuse crimes.
 
-## Suicide bombing kills at least 14 people in Pakistan’s Swat Valley
-Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.
+## Myanmar releases first images of Aung San Suu Kyi since 2021 military coup
+Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.
 
-## Iran war live: Trump says talks to resume; Tehran urges US to honour MoU
-US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.
+## Australia warns H5N1 likely to spread after first mass mortality episode
+Agriculture minister ​says testing confirmed H5N1 bird flu in a group of 49 dead and 35 sick terns.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
