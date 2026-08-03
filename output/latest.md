@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## Can Democrats win over the working class?
-A new report shows that the party can’t take disillusioned Trump voters for granted
-
-## Why Burnham is wrong about education and opportunity
-Success in adulthood is not just about connections
-
-## Reform’s Richard Tice probed over alleged failure to declare an interest
-UK’s parliamentary standards watchdog is investigating the rightwing party’s deputy leader
-
-## Football has given Europe a rare geopolitical victory
-Players like Lamine Yamal and Jude Bellingham are Europe’s rare earths
-
-## FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up
-Also in today’s newsletter: Oil prices drop after Trump says talks with Iran will begin today and Uefa threatens Fifa with legal action
+## UBS fined $125mn over lax money laundering controls
+Swiss bank failed to implement adequate curbs despite previous sanction by US regulators
 
 ## Reform UK promises large-scale ‘military operation’ to block small boat crossings
 Policy pledge comes as rightwing party drops behind Labour in polls
 
-## Plurilateral deals are last best hope for world trading system
-Agreements between ‘coalitions of the willing’ can gain traction over time and be subsumed into WTO frameworks
+## Todd Blanche wins backing of senators after scrapping $1.8bn ‘slush fund’
+Support of two Republicans paves way for acting US attorney-general to be confirmed in the post
 
-## Oil slides after Trump says talks with Iran will resume
-Tehran says deal with Oman to reopen Strait of Hormuz to shipping is close
+## Japan vows further yen intervention with US if needed
+Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’
+
+## Iranian tanker tolls: totally legit after all?
+Nice Suezmax you’ve got there. Shame if something happened to it
+
+## Apple launches legal challenge to UK attempt to access encrypted user data
+iPhone maker files complaint over latest government demand to connect to cloud backups of British users
+
+## Time for Andy Burnham to smile on UK science
+Waning support for basic research threatens Britain’s technology ambitions
+
+## Iran denies Trump claim of imminent talks
+US president had said negotiations would begin on Monday but Tehran denied the two parties were in talks
+
+## Struggling to make sense of AstraZeneca-BMS
+All about oncology? A cardio workout? Patent-cliff avoidance? American dreaming?
+
+## ASML’s hold over the future of chipmaking is weakening
+The Dutch company’s monopoly is not at imminent risk but China is edging ever closer
+
+## FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up
+Also in today’s newsletter: Oil prices drop after Trump says talks with Iran will begin today and Uefa threatens Fifa with legal action
 
 ## SpaceX’s staggered lock-up release prolongs the pain
 The biggest IPO wanted to avoid a cliff edge of insider selling but now has 12 months of uncertainty
@@ -30,44 +39,38 @@ The biggest IPO wanted to avoid a cliff edge of insider selling but now has 12 m
 ## Don’t let tax rows eclipse the fundamentals of social care
 Like in the case of wind power, agreement on the big structural issues is much more important than finance
 
-## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
-Deal would create world’s fourth-largest drugmaker by market value
+## Editorial. Growth engine
+IIP signals resilience to external challenges
 
-## French banks warm to election financing in potential boost for Le Pen
-Lenders signal willingness to offer campaign loans if government guarantees are in place
+## Eisai launches Leqembi to treat early Alzheimer’s disease
+About 8.8 million Indians over the age of 60 are living with dementia, a note from the company said, citing a study
 
-## A digital iron curtain is threatening the global economy
-Amid geopolitical barriers that risk slowing progress and trade, Europe can become a trusted connector
+## SBI Funds Management net up 4% in Q1
+Revenue from operations increased 15% to ₹1,153 crore (₹1,001 crore)
 
-## US gas guzzlers see off Europe’s EVs in latest round of car wars
-Detroit carmakers had a strong second quarter, while their European rivals remain downbeat
+## SC says States free to ‘close, withdraw’ proceedings against protesters as per law
+Appearing for the petitioners, Ms. Grover submitted that there was no standing order of the Delhi Police authorising the use of pellet guns.
 
-## The ‘Trump effect’ is taking a toll on corporate gender goals
-Changes at the Australian Securities Exchange are the latest sign of a global rollback of diversity policies
+## New challengers spark pricing war in food delivery, putting Swiggy and Zomato under pressure
+The two companies are betting that lower commissions will help them attract restaurant partners at a time when merchants have increasingly voiced concerns over the high fees charged by incumbent platforms
 
-## Nifty surges past key resistance in CAS debut; crude slump, Iran talks lift sentiment
-Nifty 50 closed at 24,774.30, up 390.70 points or 1.60%, after a 200-point surge in the closing minutes; Sensex rose 0.70% to finish at 78,639
+## Tea Board launches courses on tea tasting, to create pool of professionally trained tea tasters
+The programme is also aimed at promoting tea literacy among youth and generating employment opportunities in the tea industry
 
-## RBI sold $14.9 billion in forex market during Jan-May 2026 to curb rupee volatility
-The Finance Ministry also updated Parliament on loan recoveries, wilful defaulters, SWAMIH housing, gold loan NPAs and Kisan Credit Cards
+## Q1 Results Highlights: Ather narrows Q1 loss; UPL, Sundaram Finance, CAMS, Ethos, MobiKwik, DLF post profit rise; Jindal Stainless PAT dips
+Q1 Results Today, 03rd August 2026 Highlights: Get real-time Q1 FY27 earnings updates, profit growth, revenue numbers and management outlook
 
-## SEA delegation to participate in ‘Soy Connext 2026’ in Chicago
-Hosted by the US Soybean Export Council (USSEC), the event brings the global soy industry together
+## TN finances under new government
 
-## Row over Bangladesh rejecting Indian rice consignments on quality issues
-The shipment was initially found ‘fit for human consumption’ when samples were drawn soon after landing, but was subsequently found to have ‘quality issues’
 
-## CBDT's Nudge campaign results in 1.25 crore updated ITRs, ₹9,494 crore additional tax payment
-The taxpayers are selected on the basis of advanced risk analysis identifying incorrect or non-reporting of assets or income, or excess claims of deductions or exemptions in their ITRs
+## Amazon achieves new milestone! Market cap crosses $3 trillion as AI, cloud growth power stock rally
+Shares of the Seattle-headquartered e-commerce and cloud giant had surged 15% on Friday after the company reported its fastest cloud revenue growth in over four years and increased its forecast for annual capital expenditure.
 
-## India proposes extending tax breaks for contract manufacturing in a boost for Apple
-The tax exemptions would be extended until 2041 for ​foreign companies that provide machinery to contract manufacturers
+## US stock market today: Wall Street rallies over 1% on falling oil prices, hopes of deal with Iran
+Oil prices declined on Monday, providing relief to Wall Street by easing concerns that inflationary pressures could intensify further. The softer crude prices lifted US equities, although financial markets continued to witness significant volatility.
 
-## Broker’s Call: Westlife Food (Reduce)
-ICICI Securities
-
-## Free is the most expensive word in public policy, says CEA Anantha Nageswaran
-Stresses on need to revisit the policy governing key resources such as water
+## Government proposes sweeping tax rule changes to attract offshore funds - what it means
+The Bill, which has been circulated among Members of Parliament, is expected to be introduced in the Lok Sabha shortly by Finance Minister Nirmala Sitharaman.
 
 ## Bank holidays in August 2026: Where and when banks will remain closed this month
 August brings numerous bank holidays across India, affecting branch operations. Banks will close on specific dates due to regional festivals and national observances. Customers should verify local branch availability before planning visits. Digital banking services will remain accessible throughout 
@@ -84,38 +87,29 @@ The Closing Auction Session aims to concentrate liquidity at the end of the trad
 ## Near 5-year low! India’s manufacturing growth slows, but HSBC PMI stays in expansion territory
 The survey indicated that resilient demand continued to support the sector, although the pace of growth in new orders, input purchases and hiring moderated during the month.
 
-## Saudi’s Yanbu port sees busy days despite Houthi threats; crude transits as oil tankers go dark
-Yanbu has become a critical export hub for Saudi Arabia after the Iran war disrupted shipping through the Strait of Hormuz. To maintain crude exports, the kingdom has been transporting millions of barrels of oil each day via pipeline to the Red Sea port.
+## 2 losses, 1 win: BJP election scorecard days after Gen Z delivered a setback to Modi govt
+The biggest setback for the BJP came from Bihar, where Jan Suraaj Party founder Prashant Kishor defeated BJP candidate Neeraj Kumar by 19,324 votes in Bankipur.
 
-## Stocks to buy: What's the outlook for Nifty for August 3-August 7 week? Check list of top stock recommendations
-Stock market recommendations: Sansera Engineering, and Paytm have been picked as the top stocks to buy this week starting August 3, 2026 by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities.
+## Glaw Lake becomes Arunachal Pradesh's first Ramsar site, India's 101st
+Ramsar sites are wetlands of international importance under the Ramsar Convention, an environmental treaty established in 1971.
 
-## Gold price prediction today: Will gold maintain its upward momentum? Check outlook for August 3, 2026 week
-Gold price prediction today: Gold prices are showing signs of stabilising after a prolonged phase of correction, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+## No alliance with any party, says Prashant Kishor after Bankipur bypoll win
+With his victory, the Jan Suraaj Party will have its maiden presence in the Bihar assembly.
 
-## Congress retains Madhya Pradesh's Datia seat; BJP loses bypoll after candidate switch
-At the end of all 15 rounds of counting, Singh secured 66,757 votes, while Tiwari polled 60,741 votes.
+## ‘Zuckerberg intends to destabilise India’: Parliament panel chief demands apology from Meta boss over PM post row
+Highlighting the removal of PM Modi's content, Nishikant Dubey said this was “not the first time” Meta had done this.
 
-## India closes in on its first homegrown fighter jet engine
-PM urged India’s defence ecosystem to deliver an indigenous fighter jet powered by an Indian engine in 2025. The system has now moved to specific timelines.
+## India’s monsoon is getting weirder
+Expect more extreme weather
 
-## 'BJP just lost its president's seat': Kejriwal on Prashant Kishor's big debut win in Bihar's Bankipur
-The AAP chief claimed the result showed growing public anger against the Narendra Modi-led government over several issues.
+## Chhattisgarh CM announces DSP post for CWG silver medallist Gyaneshwari Yadav
+The 23-year-old athlete from Rajnandgaon district secured the silver medal in the women’s 53kg weightlifting event
 
-## RSS chief Mohan Bhagwat to engage with Gen Z at Mumbai event, days after Jantar Mantar protest forced a minister out
-The interaction will take place in Mumbai during an event commemorating the 15th anniversary of India's International Movement to Unite Nations (IIMUN).
+## Bengal STF arrests college student over links with Jaish operative Hamim Mondal
+Preliminary investigations suggested that Singh had shared information about Rai’s movements and pictures of Rai and his son
 
-## Ghaziabad schools, colleges shut till Aug 12 amid Kanwar Yatra: Official
-On July 24, the Ghaziabad traffic police rolled out a comprehensive traffic diversion plan that came into effect from July 29
-
-## Terms of Trade: Is PK’s parabolic victory hyperbolic in Bihar’s larger politics?
-Prashant Kishor has gained voters from both the BJP and the RJD, given the BJP’s and RJD’s vote shares of 62.6% and 29.5%, respectively.
-
-## Tamil Nadu moves Supreme Court over Cauvery water dispute with Karnataka
-Shivakumar on Sunday said, “If the Mekedatu reservoir is built, nearly 90% of the benefit would go to Tamil Nadu”
-
-## 'Bankipur won't become Bengaluru overnight': Prashant Kishor after big win in Bihar
-Prashant Kishor won with 63,946 votes, defeating BJP candidate Neeraj Kumar Sinha.
+## Courts can't ‘teach or preach’ citizens on what to say: Former SC judge Abhay S Oka
+Justice Oka said courts are not meant to decide what citizens should or should not say. Their responsibility is to safeguard fundamental rights.
 
 ## Chinese biotech giant Wuxi AppTec sees first-half earnings surge amid US scrutiny
 Wuxi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business. Interim net profit attributable to the owners of 
@@ -141,6 +135,9 @@ China’s social security sovereign fund cast a vote of confidence in the onshor
 ## Will new batteries give China’s EVs the jolt they need to charge past their rivals?
 On a cloudy evening in late April, a tech event hosted at Beijing’s National Convention Centre by Contemporary Amperex Technology Ltd (CATL) drew nearly 1,000 people eager for a glimpse of next-generation electric vehicle (EV) batteries that could reshape the global automotive landscape. Gao Huan, c
 
+## A Saudi-Emirati Thaw Can Help Contain Iran
+The Gulf needs a joint front on deterrence, engagement, and freedom of navigation.
+
 ## Europe’s Dangerous Hesitation on Its Own Air Defense
 Russia’s ballistic missile attacks on Ukraine pose an urgent question for NATO leaders.
 
@@ -161,9 +158,6 @@ The corruption crisis may be the most important source of rot in the U.S. system
 
 ## What Homer’s ‘Odyssey’ Tells Us About the Economics of the Bronze Age
 The epic poem describes events around the sacking of Troy.
-
-## The Book That Predicted Pete Hegseth’s Failures
-‘On the Psychology of Military Incompetence’ examines the narrow minds of petty men.
 
 ## For a Gen Z Revolt, Pakistan Needs a Cause, Not a Captain
 Imran Khan is undoubtedly popular. But building a protest movement that revolves around Khan and his freedom immediately excludes half the population.
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why genocide keeps repeating in Sudan
-The lack of international action after the atrocities in el-Geneina and el-Fasher has doomed el-Obeid.
+## How Israel and the European far right tried to exploit Ceuta
+A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.
 
-## Detained Myanmar leader Suu Kyi has first foreign visitor in five years
-Aung San Suu Kyi has met a Red Cross representative in her first confirmed contact with a foreign official since 2021.
+## Australia’s under-16 social media ban failing, study shows: What it means
+Australia's internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.
 
-## Protests, boycott cast shadow on Pakistan-administered Kashmir election
-Second round in regional elections held amid deadly clashes and heightened tensions over demands for electoral reforms.
+## Tigray refugees flee into Sudan after deadly violence on Ethiopia border
+Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.
 
-## Who will shape post-war Iran?
-There are competing narratives in Tehran for its post-war recovery.
+## Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain
+Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production
 
-## Palestine’s new ambassador to Spain calls for deeper friendship
-Palestine's new ambassador to Spain, Fadi Elhusseini, has shared his first message since taking office.
+## Trump slams Chevron CEO, demands immediate reduction in US fuel prices
+Trump claims Chevron's success stems from his policies, calling for urgent reductions in US fuel prices for consumers.
 
-## Pakistan-administered Kashmir elections and protests – all you need to know
-Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.
+## Pochettino agrees to new manager contract with US Soccer
+Mauricio Pochettino inks a four-year head coach extension after Team USA finished in the last-16 at World Cup 2026.
 
-## Ukraine strikes Russia’s biggest retailer again
-Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.
+## More than 10 killed as Russia and Ukraine trade heavy attacks
+Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.
 
-## Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza
-Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.
+## FIFA’s Infantino sought Trump backing after World Cup selloff plan: Report
+FIFA boss Gianni Infantino turned to Donald Trump to save his job amid revolt against World Cup privatisation plan.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
@@ -285,6 +279,9 @@ Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging e
 ## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
 The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
 
+## RBI likely to extend rate pause; neutral stance seen unchanged
+Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
+
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
 
@@ -299,7 +296,4 @@ The government's proposed Rs 277 crore investment in the MSME sector by 2027 is 
 
 ## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
 Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
-
-## Govt companies request RBI to extend concessional forex swap by three months
-Public sector firms want the RBI's forex swap facility extended by three months. This facility helps government companies hedge dollar costs for external borrowing.
 
