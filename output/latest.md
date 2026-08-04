@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Trump’s ex-lawyer poised to become attorney-general after ‘slush fund’ U-turn
+Todd Blanche’s nomination clears US Senate panel as Republican holdouts drop objections
+
+## OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says
+AI Security Institute warns tools undertook ‘potentially harmful activity directed at real people and organisations’
+
 ## FirstFT: SpaceX surpasses analysts’ expectations in debut earnings report
 Also in today’s newsletter: India proposes widening tax exemptions for foreign investors and Malaysia’s $100bn ‘cursed island’
 
@@ -9,9 +15,6 @@ Foreign secretary to discuss Strait of Hormuz, Ukraine and Gaza with US counterp
 ## SpaceX posts 92% rise in revenue in debut earnings report
 Elon Musk’s company outperformed analyst expectations in second quarter but shares dropped as much as 8%
 
-## Trump’s ex-lawyer poised to become attorney-general after ‘slush fund’ U-turn
-Todd Blanche’s nomination clears US Senate panel as Republican holdouts drop objections
-
 ## Trump administration refunds $100bn in ‘liberation day’ tariffs
 US customs officials repay about 60% of the levies that were struck down by the Supreme Court
 
@@ -20,9 +23,6 @@ Central bank’s rare push to repatriate savings has drawn stronger than expecte
 
 ## US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO
 Carmaker’s new boss predicts industry ‘shakeout’ and announces $1.4bn cost-cutting programme
-
-## US stocks jump after Bessent says deal to reopen Hormuz is imminent
-S&P 500 hits record high as Iranian and Omani negotiators agree on temporary shipping arrangement
 
 ## P&G seals $3.8bn deal for supplements company Thorne
 Consumer goods group expands its health business in a sector that has boomed since Covid pandemic
@@ -114,6 +114,9 @@ V Anantha Nageswaran has been India's chief economic advisor since 2022.
 ## DMK MLA Markandeyan released on bail over remarks against CM Vijay
 Markandeyan was arrested by the Thoothukudi District Crime Branch (DCB) police on July 20.
 
+## Innovation platform buys Hong Kong office tower as state-linked buyers seek bargains
+The acquisition of a Hong Kong office tower by an innovation platform backed by Ningbo’s city government has reinforced analysts’ expectations that mainland government-linked institutions could play a bigger role in the city’s commercial property market, where prices remain depressed. Land Registry 
+
 ## China’s MiniMax curbs overseas access to new AI video model over copyright disputes
 Chinese artificial intelligence company MiniMax has open-sourced its new H3 video model but imposed licensing conditions on users in major overseas markets including the US and European Union, underscoring the copyright challenges in generative video AI. After the Shanghai-based company released the
 
@@ -135,8 +138,11 @@ China’s outsize footprint in global commodities is helping to cushion internat
 ## China stock traders cut leveraged positions by 14% in July amid tech sell-off
 China’s stock traders have been unwinding their leveraged positions over the past month, fuelling the worst-ever stock sell-off on one major index of technology shares and undermining Beijing’s efforts to put a floor on the equity market. The outstanding value of the stock purchases financed by marg
 
-## Why Chinese brokers forecast an A-share tech and chip rebound
-Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correcti
+## Ranking the World’s Top 5 Chokepoints
+Why economic pressure tops geographic advantages.
+
+## China Launches New Crackdown on Organized Crime
+From local gangs to sand mafias, Beijing keeps running into the same problems.
 
 ## Iran’s ‘Last Chance’ for Peace Talks
 Qatar confirms that indirect U.S.-Iran negotiations are making progress.
@@ -155,12 +161,6 @@ The winner takes it all. What happens if the United States loses?
 
 ## What Remains of Rojava
 In northeastern Syria, Kurdish leaders continue to fight a rear-guard battle for autonomy.
-
-## The Architecture of Israel’s Genocide in Gaza
-A new book describes the destruction of Palestinian life street by street.
-
-## Iran Denies Peace Talks After the United States Cancels Military Strikes
-Trump’s “imminent” deal remains elusive.
 
 ## As World Bank Retreats From Climate Targets, India’s Most Vulnerable Could Pay the Price
 Most climate finance goes where it is easiest to lend. Embankments, water systems, shade, and shelters that save lives and livelihoods in villages struggle to find funding.
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Elon Musk’s SpaceX reports losses but less than expected
+Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.
+
+## How the far right weaponised the Ceuta crisis
+More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.
+
 ## Funeral for family killed in US strike on Iran’s Qeshm Island
 The funeral for a couple and their toddler took place after they were killed in the US strike on Iran's Qeshm Island.
 
@@ -251,12 +257,6 @@ Negotiators are working to expand safe shipping through the strait, though key d
 
 ## US court deals blow to Trump’s bid to scrap climate grant programme
 A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.
-
-## How much of a challenge are wildfires to Europe?
-Rapidly spreading blazes are scorching the continent.
-
-## ‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral
-Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
