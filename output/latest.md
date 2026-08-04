@@ -1,61 +1,70 @@
 # AION Intelligence
 
-## India’s IndiGo struggles to emerge from turbulence
-Also in this newsletter, Meta in hot water
+## Yen intervention = US self-preservation
+More thoughts on why it’s happening
 
-## Palantir forecasts greater demand from US groups for its AI software
-Tech company posts second-quarter results with American sales climbing 23%
+## FirstFT: Russia expands shadow LNG fleet
+Also in today’s newsletter: Spain’s migrant amnesty and Google’s finance machine
 
-## Trump claims Iran talks under way despite denial from Tehran
-US president said negotiations were ‘last chance’ for Islamic republic
+## The king who outfoxed Pedro Sánchez
+Morocco’s absolute ruler Mohammed VI turned Spain’s border into leverage over Madrid
 
-## How ‘The Millionaires’ Factory’ might shift under new CEO
-Macquarie leans a little more into traditional banking but growth could come from elsewhere
+## The $400bn megadeal brewing in big pharma
+AstraZeneca’s talks with Bristol Myers Squibb could create the world’s fourth-largest drugmaker by market value
 
-## US states accuse Trump administration of ‘sham’ tariff probe
-More than 20 attorneys-general launch legal challenge to duties for alleged forced labour violations
+## Spanish stocks offer a sunny escape for tech-weary investors
+But the country’s relative isolation from AI may not last
 
-## Andy Burnham bars serious sex offenders from early release scheme
-Prime minister insists ‘keeping the public safe is my top priority’ after campaigners raised concerns
+## Italy and Germany’s censure of Spain’s migrant amnesty is ‘hypocritical’
+Rights groups say Rome and Berlin have used similar policies to regularise the status of unauthorised immigrants
 
-## AstraZeneca investors raise concerns over mega-merger talks
-Shareholders question looming patent cliff and antitrust risks in potential $400bn tie-up with Bristol Myers Squibb
+## Inside Google’s $200bn Wall Street finance machine for Anthropic
+Private credit, chip leases and data centre guarantees underpin a vast new model for AI spending
 
-## Israel’s defence minister triggers row after sacking general on TV
-Opposition decries attempt by Israel Katz to oust commander responsible for West Bank as sop to far-right voters
+## Tory party rebuilds relations with UK business after rocky two years
+Corporate Britain is gaining confidence in Kemi Badenoch after a revolving door of shortlived Conservative leaders
 
-## Aston Martin creditors threaten legal action after branding rights sale plan
-Bondholders send carmaker letter warning they may file suit aimed at unwinding HPS transaction and blocking asset disposal
+## HSBC resumes share buybacks as quarterly profit soars to $10.1bn
+Europe’s largest lender boosted by wealth management and insurance business in Hong Kong
 
-## Apple launches legal challenge to UK attempt to access encrypted user data
-iPhone maker files complaint over latest government demand to connect to cloud backups of British users
+## Infantino is not the problem
+Fifa’s regulatory functions must be separated from its commercial activities
 
-## Texas law firm agrees $15mn settlement over judicial scandal
-Jackson Walker admitted it failed to disclose romantic relationship between former partner and federal bankruptcy judge
+## Companies linked to top health official and husband received £2bn in public contracts
+Samantha Jones or spouse held financial interests in G Square Capital private equity business
 
-## Bharat Electronics, Esri India join hands for defence projects
-Esri India and Bharat Electronics will collaborate on defence projects involving geographic information systems, location intelligence and GeoAI
+## Offshore firm Mourant sells stake in private equity rush for legal deals
+Investor MML buys 27% of Jersey-based law firm that operates in tax havens around the world
 
-## Sensex today | Stock Market Live: Sensex, Nifty to open stable; Asian stocks dip after US tech rally, Kospi drops nearly 2%
-Sensex, Nifty, Share Prices LIVE: Gift Nifty at 24,670 indicates stable opening of Indian markets despite Asian stock markets reeling under pressure.
+## Sensex today | Stock Market Live: Sensex down 100 pts, Nifty near 24,500 as CAS correction weighs; RBI MPC meet outcome in focus
+Sensex, Nifty, Share Prices LIVE: Benchmark indices opened Tuesday’s session on a weak note, with the Nifty 50 trading lower by 175 points and the Sensex slipping modestly, as markets corrected after Monday’s sharp rally that analysts attributed partly to a technical distortion from the new Closing 
 
-## Tata’s battery unit Agratas turns to in-house tech for making Lithium cells amid China curbs
-The move is a deliberate pivot for Agratas after executives assessed that the chances of a technology deal with a Chinese firm are close to nil, the people said, given Beijing’s stringent restrictions on exports of critical manufacturing know-how.
+## Q1 Results Today Live: Godrej Properties con. PAT declines 42%, Bharti Airtel, ONGC, Pidilite, Marico, Nykaa, Bharti Hexacom, NHPC, MCX, Kalyan Jewellers, Alembic, RITES, Zydus Wellness to announce Q1 results
+Q1 Results Today, 4th August 2026 Live Updates: Follow businessline for more
 
-## Telegram says app restored on Apple's App Store
-“Telegram ⁠has been ⁠restored on the App Store and ​should ‌soon be available again for all users,” Telegram ‌said.
+## Apple seeks preliminary injunction against OpenAI in trade secrets case
+Apple ​last month sued OpenAI and the two ⁠former employees, both now working for OpenAI, alleging misappropriation of its trade secrets
 
-## Nifty to open stable on Tuesday
-Gift Nifty at 24,670 indicates stable opening of Indian markets despite Asian stock markets reeling under pressure.
+## Udhayanidhi Stalin detained over remarks against Tamil Nadu CM; political row deepens
+It is alleged that he made the comments after the public chanted an actress’s name while he was criticising the Chief Minister, sparking political controversy
 
-## WhatsApp restricts multiple accounts, users say their accounts ‘put under review’
-Affected users reported being locked out of key app functions, while WhatsApp said it aims to correct any mistaken account actions as quickly as possible.
+## SAMHI Hotels posts 30% profit jump, stock slides
+Revenue per available room rose 9.6% year-on-year to ₹5,219, on a same-store basis, while occupancy improved to approximately 79.3% from 74.2% in Q1 FY26
 
-## KP Energy inks PPA with GUVNL for 100 MW wind project
-Under the terms of the agreement, the project involves an aggregate capacity of 100 MW at an approved tariff of ₹3.435 per unit, with the PPA running for 25 years.
+## Promoter entity Adani Infra buys 1.03% stake in Adani Green Energy for ₹2,380 cr
+After the transaction, shares of Adani Green Energy Ltd (AGEL) rose 1.48 per cent to ₹1,415.60
 
-## Stocks to watch, August 4: LIC, Arvind, Paytm, Meesho among 8 stocks to be in focus today
-Key triggers for UPL, Jupiter Wagons, Kirloskar Pneumatic
+## CAS imbroglio: NSE clarifies all is well
+As both BSE and NSE have separate order books, closing price bound to vary, says NSE
+
+## India bonds pause before RBI policy, debt supply
+The benchmark 6.94% 2036 bond yield ⁠was flat at 6.8346%
+
+## BSE Sensex trades in green, Nifty50 slips in red: Why benchmark indices moved opposite?
+Indian stock market indices Nifty50 and BSE Sensex diverged due to a new closing auction session. This new mechanism replaced the volume-weighted average price for price discovery. The exchange clarified that this divergence was not an anomaly but a result of the new process. The closing price is no
+
+## 'Likely to mislead': FSSAI bars Dabur from selling products with '100%' guarantee claims
+India's food regulator has prohibited Dabur India from selling certain food products. These products carried "100 per cent" claims which are considered misleading. The FSSAI stated these labels are ambiguous and unverifiable for consumers. Dabur India is now reviewing the notice issued by the food r
 
 ## Trump slams Exxon Mobil, Chevron for 'making too much money'; asks to give it back
 President Donald Trump criticized major oil companies for excessive profits. He urged Exxon Mobil and Chevron to lower consumer fuel prices. The companies reported strong quarterly earnings due to higher crude prices. Industry representatives stated prices reflect global market pressures and uncerta
@@ -63,7 +72,7 @@ President Donald Trump criticized major oil companies for excessive profits. He 
 ## Top stocks to buy today: Stock market recommendations for August 4, 2026 - check list
 Stock market recommendations: Honasa Consumer, Gland Pharma, Bata India, and Siemens - these are the top stocks to buy picked by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for August 4, 2026:
 
-## Stock Market Today Live Updates: Where are NSE Nifty50 and BSE Sensex headed?
+## Stock market today: BSE Sensex opens over 150 points up, NSE Nifty50 dips to 24,600
 
 
 ## Oil rebounds from three-week low as Hormuz tensions keep supply fears alive
@@ -75,35 +84,32 @@ Oil prices saw a modest recovery on Tuesday after a significant decline. Benchma
 ## Lower min age for MD, directors to 18: Parliamentary panel
 A parliamentary panel suggests lowering the minimum director age to eighteen years. The committee also backs raising the maximum director age to seventy-five years. Special NCLT benches for insolvency matters are recommended for efficient asset resolution. The panel proposes retaining the ten crore 
 
-## Changes to boost electronics, investment
-New tax law amendments are proposed by Finance Minister Nirmala Sitharaman. These changes aim to offer concessions to overseas investors and boost electronics manufacturing. The government plans to extend tax exemptions for specified electronic goods by ten years. It also introduces new exemptions f
+## What did Udhayanidhi Stalin say on actor Trisha that led to his detention?
+Stalin said what can be roughly translated to, “Water comes or not, the water should come. I meant the Cauvery,” as people around him cheered and hooted.
 
-## AI fraud is hitting India’s new net users hardest: Amazon
-Protecting new online shoppers from AI scams is India's next e-commerce challenge. Amazon's trust chief highlights consumer awareness as critical for digital fraud. Generative AI creates sophisticated scams, but also aids detection efforts. Behavioral data helps distinguish genuine sellers from bad 
+## Did Narottam Mishra's ticket snub cost BJP the Datia bypoll?
+Narottam Mishra represented the Datia constituency for three terms after first winning it in 2008.
 
-## ‘True face exposed’: Opposition slams BJP after Brij Bhushan Singh cleared in wrestlers' sexual harassment case
-After the acquittal of Brij Bhushan Singh, Vinesh Phogat stated that wrestlers who had filed a sexual harassment case will appeal against the court's decision.
+## 'Remarks were directed at BJP, not at students': Priyank Kharge clarifies comment on police recruitment exams
+Priyank Kharge clarified that his comments were aimed at the BJP’s demand for his resignation and not at students who appeared for the examination.
 
-## No woman in cabinet after Gayathri’s name dropped from final expansion list
-Karnataka’s expanded Congress Cabinet took shape on Monday without a woman minister after Gayathri Shanthegowda, the only woman included in the list approved by the party leadership, was left out before the swearing-in ceremony
+## Siddhivinayak Temple Trust calls for audit after MNS chief Raj Thackeray claimed donation theft
+The audit comes after MNS chief Raj Thackeray said that trustees of the temple had written to Eknath Shinde, alleging a theft of ₹18 cr from the donation box.
 
-## Cauvery crisis sparks farmers’ protest in TN
-Farmers from the Cauvery delta districts, particularly Thanjavur and Nagapattinam, on Monday demanded that the Tamil Nadu government provide adequate compensation amid poor rainfall and Karnataka’s alleged failure to release sufficient water to the state
+## Andhra intensifies search for elusive royal bengal tiger ‘Explorer’, livestock attacks
+The Andhra Pradesh forest department is tracking a male tiger named Explorer, which has roamed the Godavari region for six months, causing livestock attacks.
 
-## CM raises presence of Muslims, Dalits in govt
-BENGALURU: Chief minister DK Shivakumar has expanded his Cabinet without altering the Congress’ core social coalition, retaining the party’s traditional support among Lingayats and Vokkaligas while increasing representation for Scheduled Castes and Muslims
+## Udhayanidhi Stalin detained after TVK's complaint over his alleged remarks against Trisha Krishnan
+Vijay's TVK alleged that Udhayanidhi Stalin made an obscene and double-meaning remark after the crowd at a public meeting chanted Trisha's name.
 
-## Will show my scholarship letter if PM Modi shows his degree: Abhijeet Dipke amid US education row
-A Surat-based RTI activist had sought a probe into the finances of Dipke’s father, a retired government employee who sent his son abroad for education.
+## President Murmu undertakes 170-km train journey on 2nd day of Odisha visit
+President Murmu undertakes 170-km train journey on 2nd day of Odisha visit
 
-## Nishikant seeks Zuckerberg’s apology over PM reel removal
-The chairperson of the Parliament’s Standing Committee on Communications and Information Technology on Monday said that Meta’s chief executive Mark Zuckerberg should apologise for the temporary removal of Prime Minister Narendra Modi’s Facebook Reel or the company could lose the “safe harbour” prote
+## Which Dabur products are banned from using 'misleading' 100% claims? Full list
+The food regulator added that this action comes after no action was taken by Dabur India during previous notices sent to the company.
 
-## ‘Wake-up call’: Prashant Kishor has a message for PM Modi after big BJP upset in Bankipur
-Prashant Kishor credited his win to the ‘backing of’ disgruntled supporters of BJP, Congress and RJD and also acknowledged the role of Gen Z protests.
-
-## SC summons top Arunachal govt officials in probe against Khandu
-The Supreme Court on Monday summoned the chief secretary and principal secretary (home) of the Arunachal Pradesh government, expressing strong displeasure over what it described as the state’s non-cooperation with a court-monitored CBI probe into allegations that chief minister Pema Khandu favoured 
+## HSBC sets aside US$1 billion for first share buy-back since October
+HSBC – the top lender in Hong Kong – resumed its share repurchase programme for the first time since October on Tuesday, earmarking US$1 billion to buy back shares over the next three months, according to a stock exchange filing. The bank said in October it had to pause share buy-backs for three qua
 
 ## China’s outsize commodities footprint cushions global energy shocks: Goldman Sachs
 China’s outsize footprint in global commodities is helping to cushion international energy shocks and stabilise gold prices, even as its export controls on rare earths and other critical minerals trigger violent price swings in the Western technology supply chain, according to Goldman Sachs. In a re
@@ -125,9 +131,6 @@ Major consumer goods multinationals – including Coca-Cola and Unilever – hav
 
 ## Hong Kong’s Chinese bond futures are a major step for the global yuan
 On August 3, five-year Chinese treasury bond futures began trading on the Hong Kong stock exchange. Market attention has focused on the new product, but its real significance emerges when set against the deep shifts under way in the international monetary system. History offers a clear lesson: no cu
-
-## China’s tech giants race to put AI on delivery riders’ heads
-Chinese e-commerce giant JD.com has launched a smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency. The helmet integrates
 
 ## Iran Denies Peace Talks After the United States Cancels Military Strikes
 Trump’s “imminent” deal remains elusive.
@@ -225,29 +228,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal
+Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a 'breakthrough'.
+
+## Why are the Washington wildfires so severe? Spokane fires explained
+Why Spokane's wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.
+
+## Bodycam video shows firefighters battling blaze in Spokane, US
+Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.
+
+## Colombia’s Petro repeats vote fraud claims days before handing over power
+Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.
+
+## Pochettino agrees to coach men’s US Soccer through 2030 World Cup
+Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.
+
 ## Salvadoran man dies in ICE custody at New Jersey detention centre
 Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.
 
 ## US stocks near record high, oil falls as Trump claims Iran talks under way
-Benchmark S&P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
+Benchmark S&P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
 
 ## Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
 Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.
 
-## Does the US blockade on Cuba make America safer?
-Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.
-
-## Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms
-Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.
-
-## Trump administration sued by 25 states over new tariffs on trading partners
-The states claim the new levies are a pretext to re-impose tariffs that were ruled illegal by the US Supreme Court.
-
-## Iran war live: Tehran denies US talks as Trump warns of ‘last chance’
-US president says talks with Iran are under way, warning the negotiations are Tehran's 'last chance' to secure a deal.
-
-## Two workers who died in quake-hit Japan mall were sent in to get cash
-A Japanese company has admitted that two workers, who died in a shopping mall explosion following powerful earthquake.
+## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
+Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
@@ -270,8 +276,11 @@ India's wealth creation story is becoming increasingly entrepreneurial. Nearly t
 ## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
 Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
 
-## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
-The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
+## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
+The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
+
+## RBI likely to extend rate pause; neutral stance seen unchanged
+Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
 
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
@@ -282,12 +291,9 @@ Economists anticipate the Reserve Bank of India will maintain its current intere
 ## RBI sold about $7 billion to defend rupee on Friday
 India's central bank sold approximately $7 billion to defend the rupee. The Reserve Bank of India intervened across markets as the currency neared a record low. This intervention followed a surge in crude prices impacting Asian oil importers. The RBI's actions helped lift the rupee further away from
 
+## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
+The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
+
 ## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
 The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
-
-## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
-Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
-
-## Govt companies request RBI to extend concessional forex swap by three months
-Public sector firms want the RBI's forex swap facility extended by three months. This facility helps government companies hedge dollar costs for external borrowing.
 
