@@ -1,28 +1,28 @@
 # AION Intelligence
 
-## Oil falls after Bessent says deal to reopen Strait of Hormuz is imminent
-Brent drops 4% and US stocks hit record high as Iranian and Omani negotiators agree on temporary shipping arrangement
+## Trump’s ex-lawyer poised to become attorney-general after ‘slush fund’ U-turn
+Todd Blanche’s nomination clears US Senate panel as Republican holdouts drop objections
 
-## Trump’s pick for US attorney-general clears key Senate hurdle
-Todd Blanche’s nomination narrowly passed by committee after he agreed to scrap the president’s $1.8bn ‘slush fund’
+## US diesel prices overtake Biden-era average in blow to Trump
+Cost for fuel that powers industrial America set to remain elevated even as crude falls
+
+## An overdue show of EU solidarity with Spain
+Instinct to punish Madrid’s liberal approach to migration is self-defeating
+
+## US stocks jump after Bessent says deal to reopen Hormuz is imminent
+S&P 500 hits record high as Iranian and Omani negotiators agree on temporary shipping arrangement
+
+## Palantir rides high on greed and fear — but mostly fear
+Given its prodigious growth and the belief that this will continue, the anxiety many feel is the fear of missing out
+
+## Early release scheme may not avert future prison crisis, say experts
+Ex-chief inspector of prisons warns of ‘real risk’ that measure will not be enough to prevent overcrowding within a few years
+
+## US labour market stable in June
+While headline vacancies fell, other indicators suggested robust economic activity
 
 ## Saudi-Israel tensions could frustrate India’s IMEC dreams
 Modi banked on an India-Mediterranean corridor to rival China’s Belt and Road, but politics is getting in the way
-
-## In Venezuela, legitimacy matters more than continuity
-Washington has forgotten the lessons of 1989, when the US backed democratic dissidents over ancien regime insiders
-
-## Blanche secures key Republican support clearing way for A-G confirmation
-Also in today’s newsletter, how Michigan’s Senate race is putting ideological divisions of Democrats on display
-
-## Developing countries have ‘less to fear’ from AI than rich nations
-World Bank says workers in poorer economies more likely to benefit from the technology than be replaced by it
-
-## South African court hears challenge to land seizure law opposed by US
-Democratic Alliance party seeks to scrap ANC policy used by Trump to justify ‘refugee’ scheme for white South Africans
-
-## The Fed goes Wacko
-Warsh’s Awful Communications: Knowingly Opaque. Also in this newsletter, the BoE shows how it’s done
 
 ## Spotify profits hit by heavy spending as fears build over streaming growth
 US-listed group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
@@ -36,8 +36,11 @@ Creditors of failed UK mortgage provider try to recoup assets amid allegations o
 ## Polymarket in fundraising talks at valuation of more than $20bn
 Prediction platform looks to raise $1bn as it tries to gain ground on rival Kalshi
 
-## Water companies feel squeeze of extraction limits as drought deepens
-Industry group calls for abstraction targets to be relaxed during heatwaves
+## Water companies feel squeeze of abstraction limits as drought deepens
+Industry group calls for government targets to be relaxed during heatwaves
+
+## Developing countries have ‘less to fear’ from AI than rich nations
+World Bank says workers in poorer economies more likely to benefit from the technology than be replaced by it
 
 ## Japan’s fusion industry seeks state backing amid Middle East energy strain
 Also in today’s newsletter, oil bosses draw Trump’s ire after blockbuster earnings
@@ -45,29 +48,32 @@ Also in today’s newsletter, oil bosses draw Trump’s ire after blockbuster ea
 ## FirstFT: Progressives versus traditionalists in Michigan
 Also in today’s newsletter: Google’s finance machine and the US’s new era of ‘currency activism’
 
-## Institutional investors oversubscribe LIC OFS on Day 1
-Robust institutional participation boosted the government’s disinvestment programme ahead of the retail subscription for the country’s largest insurer.
+## RBI MPC Meeting Highlights: RBI cuts repo rate by 25 bps to 5.25%, maintains neutral stance
+RBI MPC 2025, RBI Monetary Policy Meeting Outcomes, RBI MPC Meeting December 2025 News & Highlights: Here are the major live updates related to the latest bi-monthly RBI Monetary Policy Committee meeting.
 
-## India’s mobile apps market hits new high of $345 million in Q2, up 35% y-o-y
-The growth is largely driven by rising subscriptions to AI services, video streaming and digital platforms, with non-gaming revenue alone accounting for nearly $240 million — up over 50% from last year
+## Corporate law changes to ease compliance, boost buyback flexibility for listed firms
+Bill decriminalises procedural lapses, streamlines restructurings and strengthens audit oversight under NFRA
 
-## Consider MP Telecom Manufacturing Zone an extension of PLI: Union Minister Jyotiraditya Scindia
-Representatives of 20 telecom stakeholders including Jio, Airtel, Vi, participated in the closed door event
+## Govt moves Bill to levy MDR on UPI, digital payments on big merchants; no fee for consumers
+Bill will enable the government to notify which instruments, category of people making payment, threshold, etc for exemption from MDR
 
-## Fermenta Biotech shares make debut on NSE
-The company said the listing marks a milestone in Fermenta’s 75-year journey
+## Most labels and ads changed, says Dabur after FSSAI crackdown on ‘100 per cent’ claims
+Dabur says labelling update underway; company also “seeking legal advice” on the future course of action
 
-## ESAF Small Finance Bank eyes ₹1 lakh cr total biz of by 2030
-Bank chief outlines universal bank plans
+## Closing auction: Nifty swings on Day 2 raise eyebrows
+Weekly expiry turns auction-driven price moves into real gains and losses, as market participants debate liquidity, price discovery
 
-## Letters to the Editor dated August 4, 2026
+## ONGC Q1 FY27 net profit at ₹6,554 crore
+On a standalone basis, ONGC’s crude oil net realisation from nominated fields rose by 50.4 per cent y-o-y to $99.45 per barrel in Q1 FY27
 
+## LIC’s investment portfolio shifts decisively away from loans
+LIC’s investment portfolio growth has slowed in recent years, even as the insurer steadily increased its exposure to private and unlisted companies
 
-## AI won’t steal India’s jobs. It’ll reshape them
+## DGCA launches probe into Air India altitude loss incident; 17 passengers, crew injured
+Flight from Phuket to Delhi landed safely after sudden loss of altitude during cruise; aircraft grounded for investigation
 
-
-## Rupee’s recovery faces test
-Lower crude prices and a softer dollar support the local currency ahead of the RBI policy
+## Airtel Q1 profit jumps 37% to Rs 8,167 crore
+Bharti Airtel reported a significant profit increase of 37.3% in the first quarter. This growth was fueled by higher mobile tariffs and strong customer additions across businesses. Revenue also saw a substantial rise of 18.4% during the same period. The company's average revenue per user increased t
 
 ## ONGC Q1 results: Oil giant's profit doubles to Rs 17,034 crore amid rising crude prices
 ONGC's profit more than doubled in the April-June quarter. Higher crude oil prices and improved realisations significantly boosted earnings. Total income rose substantially compared to the previous year. Oil and gas production remained broadly stable with marginal declines. Strategic projects are ex
@@ -90,8 +96,20 @@ The Ministry of Petroleum has rolled out enhanced fuel quality measures, impleme
 ## LIC OFS off to a strong start as institutional investors subscribe 66% by noon
 Institutional investors subscribed nearly two-thirds of LIC shares offered by noon Tuesday. The government aims to divest up to 6.5% of its stake through this offer. This stake sale is expected to raise approximately Rs 31,000 crore for the government. The transaction also helps LIC meet Sebi's mini
 
-## Stock market today: BSE Sensex tumbles over 200 points, Nifty50 closes below 24,700
+## ‘My words had only one meaning’: Udhayanidhi Stalin rejects Trisha remark allegations, calls Vijay's TVK a ‘circus’
+The DMK leader alleged that the Vijay-led government edited his speech to divert attention from the Cauvery issue.
 
+## ‘I said nothing wrong’: Udhayanidhi Stalin released on bail after 10-hour detention
+Udhayanidhi was taken into custody by a police team from his residence in Chennai on Tuesday morning and taken to Thanjavur,
+
+## Heavy rains lash Kerala: 25 dead, 4 missing, 10 injured; ‘red alert’ in 8 districts
+The government said 52 houses were destroyed and 565 homes were partially damaged between August 1 and August 4.
+
+## Indian-flagged ship attacked, capsizes in Red Sea, all 14 crew members rescued
+Ministry of External Affairs condemned attack on MSV Faize Noor Oliya in the Red Sea; minister says all 14 seafarers, including 13 Indians, rescued.
+
+## Tharoor to attend Mumbai event where RSS chief will have ‘session with Gen Z’? He clarifies
+Tharoor clarified that the programme was not an RSS event and was instead a student-led initiative involving educationists and thought leaders.
 
 ## Why 'free' public services can cost more, as per chief economic advisor V Anantha Nageswaran
 V Anantha Nageswaran has been India's chief economic advisor since 2022.
@@ -101,21 +119,6 @@ Markandeyan was arrested by the Thoothukudi District Crime Branch (DCB) police o
 
 ## Pakistan responded to PoK discontent with bullets, blackouts and repression: MEA
 India condemned Pakistan for using lethal force against protesters in PoK, urging global accountability for 90 civilian deaths amid ongoing violence.
-
-## Champat Rai visits Ayodhya temple in first public appearance since donation row
-Since the controversy erupted, Rai remained largely confined to Teerth Kshetra Bhawan, a three-storey building located 200 metres from the temple complex.
-
-## ‘No sadhu involved’: Yogi cites SIT report in Ram Temple donation theft case as Oppn demands debate in Parliament
-Yogi's remarks came amid a political row over the alleged donation theft, which has triggered protests inside the Parliament.
-
-## Supreme Court proposes no fuel for uninsured vehicles, seeks Centre's plan
-The top court also ordered a technology-driven enforcement mechanism to automatically identify and penalise such vehicles without an insurance.
-
-## India generates more sewage than its treatment capacity: Report
-Only 32% of septic tanks are properly lined, raising the risk of groundwater contamination, while 43% lack access chambers for desludging and maintenance
-
-## Air India's technology head Satya Ramaswamy quits, eyes AI ventures
-Satya Ramaswamy said that he would continue to be part of the Air India management team till his successor was in place and settled.
 
 ## China’s MiniMax curbs overseas access to new AI video model over copyright disputes
 Chinese artificial intelligence company MiniMax has open-sourced its new H3 video model but imposed licensing conditions on users in major overseas markets including the US and European Union, underscoring the copyright challenges in generative video AI. After the Shanghai-based company released the
@@ -141,6 +144,9 @@ China’s stock traders have been unwinding their leveraged positions over the p
 ## Why Chinese brokers forecast an A-share tech and chip rebound
 Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correcti
 
+## India’s Political Atmosphere Has Changed
+If Modi responds to the Cockroach protesters with further repression, it could backfire.
+
 ## What’s Behind Indonesia’s Anti-Corruption Crusade?
 A high-profile case is raising doubts about President Prabowo Subianto’s motivations.
 
@@ -162,8 +168,14 @@ Many want a global treaty to govern AI risk. California and New York may already
 ## China’s Quiet Bet on Methanol Is Paying Off
 An abandoned project reveals why industrial policy must preserve technological options.
 
-## A Saudi-Emirati Thaw Can Help Contain Iran
-The Gulf needs a joint front on deterrence, engagement, and freedom of navigation.
+## As World Bank Retreats From Climate Targets, India’s Most Vulnerable Could Pay the Price
+Most climate finance goes where it is easiest to lend. Embankments, water systems, shade, and shelters that save lives and livelihoods in villages struggle to find funding.
+
+## KMT, TPP Mull Referendums to Go With Taiwan’s Local Elections
+Up to six proposals – ranging from nuclear power to absentee voting – will be put to voters in the November polls, but without the usual round of campaigning for signatures.
+
+## Japan’s 2026 Defense White Paper Warns of China’s Expanding Military Reach in the Pacific
+This year’s white paper places particular emphasis on Beijing’s growing ability to project military power beyond the First Island Chain.
 
 ## Malaysia’s DAP to Hold Vote on Whether to Remain in Anwar’s ‘Unity’ Government
 The announcement follows the Pakatan Harapan coalition's bruising defeat in the Negeri Sembilan state election on Saturday.
@@ -171,23 +183,14 @@ The announcement follows the Pakatan Harapan coalition's bruising defeat in the 
 ## Iran in Port Sudan? The Next Threat to Asian Markets
 The Red Sea corridor Asian trade depends on has another volatile shore, and almost nobody is watching it.
 
+## It’s Time for the East Asia Summit to Tackle Nuclear Proliferation
+As more countries consider acquiring nuclear weapons, the EAS should take the lead in addressing the growing challenges of proliferation.
+
 ## What Philippine President Marcos Said About China in His State of the Nation Address
 His rhetoric was familiar, but carried additional weight in light of recent clashes between Chinese and Philippine vessels in the South China Sea.
 
 ## Donald Trump’s Tariff Re-Do in Southeast Asia
 The capricious treatment of partners and allies threatens to do long-term damage to Washington's standing in the region.
-
-## Myanmar’s Detained Leader Aung San Suu Kyi Meets Red Cross Official
-The move is intended to weaken ASEAN's determination to hold Myanmar to the Five-Point Consensus and widen the divisions between the bloc's member states.
-
-## Why India’s Cockroach Movement Might Not Collapse Like the Others
-The Cockroach Janta Party reflects every hallmark of modern decentralized leadership theories, but is set to leave a lasting imprint on Indian politics.
-
-## Xi’s Shanghai Tour Offers No Relief for the Housing Crisis
-Aside from making sympathetic noises about living standards, Xi offered no new wisdom or solutions.
-
-## Xi Jinping’s AI Vision
-Xi’s speech addressed the attendees at the World Artificial Intelligence Conference, but his real audience was the international community, and of course the United States.
 
 ## A Conversation with the Pentagon’s Chief Buyer, Under Secretary Michael P. Duffey
 Under Secretary of Defense for Acquisition and Sustainment Michael P. Duffey joins Jonathan to discuss the Pentagon’s ongoing acquisition transformation. Their conversation spans the recent munitions agreements, industry investments, the shift to portfolio acquisition executives, allied coproduction
@@ -237,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?
-US president's hand-picked DC attorney in firing line after dropping charges for vandalism of Washington landmark.
+## Three lionesses die in Tokyo zoo as heatwave scorches East Asia
+A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.
 
-## Guatemala issues second-highest ‘danger’ alert after Fuego volcano erupts
-Fuego, one of the region's most active volcanoes, has erupted repeatedly in recent years, forcing mass evacuations.
+## Jordan FA chief accuses FIFA’s Infantino of ‘blackmail’ over endorsement
+Fallout from failed FIFA World Cup selloff continues, as Jordan FA president joins list of Gianni Infantino detractors.
 
-## Crews battle wildfire that shut down major highways in Israel
-A major wildfire swept through Ben Shemen Forest in central Israel, prompting authorities to close Highway 6.
+## Real Madrid: Vinicius Junior drops huge future hint amid Arsenal interest
+Brazil's Vinicius has been linked to Arsenal and Manchester United, but heaps praise on new Real coach Jose Mourinho.
 
-## Migrants stranded in Ceuta hope for a better future
-Longing for asylum, people from countries such as Sudan, Somalia and Mali are faced with an uncertain future.
+## Republicans clear Todd Blanche for top US Justice Department role
+Blanche's nomination now goes to the full US Senate for a vote.
 
-## More key FIFA staff break ranks as Infantino’s World Cup plan faces mutiny
-Battle lines being drawn within FIFA as key figures break ranks with President Gianni Infantino over failed selloff.
+## Senate Democrat’s report says major banks ‘looked the other way’ on Epstein
+The report accuses banks of failing to meet their legal requirements to flag suspicious activity and calls for a probe.
 
-## Qatar says indirect talks continue to reopen Strait of Hormuz
-Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.
+## Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack
+Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.
 
-## Drone appears to stalk man before exploding
-A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.
+## EU offers emergency aid to Spain to strengthen Ceuta border
+EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week
 
-## Photos: Thousands in Gaza City join mass funeral for 112 Palestinians
-Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.
+## Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title
+Former Saudi Arabia and Tunisia coach Herve Renard returns to Ivory Coast in attempt to repeat 2015 AFCON success.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
