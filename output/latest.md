@@ -1,25 +1,37 @@
 # AION Intelligence
 
+## Oil falls after Bessent says deal to reopen Strait of Hormuz is imminent
+Brent crude drops 4% as Iranian and Omani negotiators agree on temporary arrangement for shipping through waterway
+
+## Blanche secures key Republican support clearing way for A-G confirmation
+Also in today’s newsletter, how Michigan’s Senate race is putting ideological divisions of Democrats on display
+
+## Developing countries have ‘less to fear’ from AI than rich nations
+World Bank says workers in poorer economies more likely to benefit from the technology than be replaced by it
+
+## South African court hears challenge to land seizure law opposed by US
+Democratic Alliance party seeks to scrap ANC policy used by Trump to justify ‘refugee’ scheme for white South Africans
+
+## The Fed goes Wacko
+Warsh’s Awful Communications: Knowingly Opaque. Also in this newsletter, the BoE shows how it’s done
+
+## Japan’s fusion industry seeks state backing amid Middle East energy strain
+Also in today’s newsletter, oil bosses draw Trump’s ire after blockbuster earnings
+
 ## Ukrainian drones hit Wildberries warehouses in overnight strikes
-Russian retailer has become a key target for Kyiv as it aims to bring Putin’s war closer to home
+Russian retailer has become key target for Kyiv as it aims to bring Putin’s war closer to home
 
 ## FirstFT: Progressives versus traditionalists in Michigan
 Also in today’s newsletter: Google’s finance machine and the US’s new era of ‘currency activism’
 
-## Bessent’s yen intervention signals new era of US ‘currency activism’
-Bid to support Japan’s currency shows US is ready to scupper trades that push against its interests
+## Spotify profits hit by heavy spending as fears build over streaming growth
+US group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
 
 ## Apollo misses out on big asset sales that have boosted rivals
 Private capital group says it ‘prudently delayed’ sales ‘amid an evolving exit environment’
 
 ## OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight
 Legal clash deepens after an AI partnership over devices gives way to acrimony
-
-## The Democrats’ civil war over Israel is getting worse
-While the party fractures over Middle East policy, it is ignoring the threat posed by AI and social media
-
-## Tax consumption, not income or AI
-If the US needs more revenue, it should overhaul its broken taxation system
 
 ## India seeks to widen tax exemptions to woo investors such as Apple
 New Delhi wants to extend holiday for foreign tech companies that supply equipment to local contract manufacturers
@@ -30,35 +42,35 @@ World’s biggest carmaker expects to sell more than 5mn hybrid electric vehicle
 ## Segro accepts £14bn takeover offer from US rival Prologis
 Deal adds to spate of takeovers of London-listed companies after acquisitions of Schroders and Intertek
 
-## BP to sell $4bn US biogas business as profits more than double
-UK oil major has had several approaches for its North Sea assets, says chief
+## Bhatia hands over to Walsh as IndiGo charts next phase of expansion
+Promoter-MD, Rahul Bhatia, credits employees for two decades of growth; new CEO says India is poised to become a global aviation hub
 
-## HSBC resumes share buybacks as quarterly profits soar to $10.1bn
-Wealth management and insurance business in Hong Kong boosts Europe’s biggest lender
+## India is in touch with all stakeholders regarding Chabahar port operations: MEA
+India’s Chabahar project is strategically important as it provides access to Afghanistan and Central Asia while bypassing Pakistan
 
-## Nykaa posts higher quarterly profit on strong beauty demand, fashion growth
-The ‌company's consolidated net profit rose to ₹80.01 crore ($8.39 million) ‌in the quarter ended June ‌30, ⁠from ₹23.32 crore a year ⁠earlier
+## Assets worth ₹17,874 cr of fugitive criminals attached under PMLA
+India has also brought back 274 fugitive criminals from 36 countries since 2019, Union Ministry of Home Affairs said on Tuesday
 
-## Symphony Q1FY27 profit dips 5% on consolidated basis despite revenue growth
-On a standalone basis, PAT fell 24% to ₹28 crore from ₹37 crore in Q1FY26, while revenue increased 5% to ₹241 crore
+## Vaaree raises ₹65 crore in Series A led by Hero Enterprise, Cap Alpha Ventures
+The new capital will expand Vaaree’s fulfilment and quality verification centres, speed up deliveries, and enhance its AI-powered home styling platform, VibeCheck
 
-## Broker’s Call: Aditya Birla Lifestyle (Buy)
-Emkay Global
+## Dabur defends product purity after FSSAI prohibition
+Dabur says labelling update underway; company also “seeking legal advice” on the future course of action
 
-## Q1 Results Today Live: Bharti Airtel, Bharti Hexacom, Pidilite, Graphite, Alembic, Wonderla Holidays Q1 PAT rise, Marico posts mixed Q1, Godrej Properties, Zydus Wellness & Protean PAT decline, ONGC, NHPC, MCX, Kalyan Jewellers to announce Q1 results
-Q1 Results Today, 4th August 2026 Live Updates: Follow businessline for more
+## Marico Q1 profit jumps 25% on strong India business and volume growth
+Strong domestic demand, improving product mix and steady overseas expansion helped the FMCG company deliver its best quarterly profit growth in years
 
-## India on track for $5.1 trillion GDP by FY29, says Finance Minister
-The government outlined a broad-based economic roadmap centred on investment, manufacturing, exports, infrastructure and innovation to sustain long-term growth momentum.
+## Ionic Wealth rolls out AI tool for personalised mutual fund portfolio analysis
+The feature syncs an investor’s data from Mutual Fund Central with Ionic’s internal market, macroeconomic, and asset class knowledge
 
-## Nazara Tech slips into ₹82.5 cr loss in Q1; Nitish Mittersain steps down as CEO
-The company had posted a consolidated net profit of ₹51.34 crore in the corresponding quarter of the previous fiscal, according to a regulatory filing
+## NCPCR orders inquiry into allegations of child sexual abuse material ads on Meta
+The NCPCR has expressed its intention to delve deeper into the validity of the claims and assess the adequacy of Meta’s response.
 
-## Alembic Pharma Q1 net profit up 12.1% at ₹173.07 cr
-The company had posted a consolidated net profit of ₹154.38 crore in the corresponding period of the last fiscal
+## Merchant Discount Rate on UPI transactions? Amendments to payments act may pave way - what it means
+Merchant Discount Rate (MDR) is the fee merchants pay to banks and payment service providers for processing digital transactions. In India, credit card payments generally attract an MDR of around 1.5%.
 
-## Bharti Airtel Q1 profit jumps 37% to ₹8,167 crore on strong subscriber growth
-Higher-value customer additions and upgrades to premium plans helped the telecom operator deliver robust earnings growth during the June quarter.
+## 'Over 2000 samples tested': Oil ministry dismisses fuel adulteration claims, says only 2 cases detected
+The Ministry of Petroleum has rolled out enhanced fuel quality measures, implementing water ingress testing that occurs multiple times a day at various fuel stations. In a comprehensive assessment, more than two thousand samples were analyzed for contaminants, revealing minimal problems. Sales were 
 
 ## LIC OFS off to a strong start as institutional investors subscribe 66% by noon
 Institutional investors subscribed nearly two-thirds of LIC shares offered by noon Tuesday. The government aims to divest up to 6.5% of its stake through this offer. This stake sale is expected to raise approximately Rs 31,000 crore for the government. The transaction also helps LIC meet Sebi's mini
@@ -78,35 +90,32 @@ The United States and Japan have jointly intervened to support the Japanese yen'
 ## Gold price prediction today: Will gold prices stay range-bound in the current scenario? Check August 4, 2026 outlook
 Gold price prediction today: Gold prices will continue to be influenced by US-Iran talks and macroeconomic data in America which would likely provide direction to the Federal Reserve on its rate decisions, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
-## BSE Sensex trades in green, Nifty50 slips in red: Why benchmark indices moved opposite?
-Indian stock market indices Nifty50 and BSE Sensex diverged due to a new closing auction session. This new mechanism replaced the volume-weighted average price for price discovery. The exchange clarified that this divergence was not an anomaly but a result of the new process. The closing price is no
+## Rajasthan HC grants Asaram 20-day parole, says state failed to justify rejection
+The self-styles godman is serving a life sentence in Jodhpur Central Jail for the rape of a minor.
 
-## 'Likely to mislead': FSSAI bars Dabur from selling products with '100%' guarantee claims
-India's food regulator has prohibited Dabur India from selling certain food products. These products carried "100 per cent" claims which are considered misleading. The FSSAI stated these labels are ambiguous and unverifiable for consumers. Dabur India is now reviewing the notice issued by the food r
+## ‘Forgot Indira Gandhi?’: NCP retorts as Cong calls Sunetra Pawar ‘gungi gudiya’
+NCP spokesperson questioned whether the Congress was indirectly validating the criticism once levelled against former prime minister Indira Gandhi.
 
-## 'CJP got 30 million views, BJP only 10 mn': Parl panel chief alleges Meta promoting 'anti-democracy' content
-The Parliamentary panel chief cited data on views garnered by accounts to highlight the gap between the 'anti-establishment' content and the mainstream parties.
+## Child protection panel to probe Meta over sexual content: Report
+NCPCR launches an inquiry into alleged CSEAM advertisements on Meta platforms after the BBC Eye report and the company's response.
 
-## ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament remains disrupted
-CJP spokesperson Saurav Das questioned why Shah had not appeared in Parliament to respond to the Opposition's demands.
+## 'If widespread corruption…': In 1979 Independence Day speech, then-PM Charan Singh's stern message
+Hindustan Times revisits some of the most iconic Independence Day speeches delivered by India's Prime Ministers.
 
-## Bombay HC designates 23 more fast-track courts to try Maharashtra paper leak cases
-On July 24, the high court designated two special courts in Nagpur and Aurangabad to fast-track trials in examination paper leak cases
+## TVK intimidating Udhayanidhi; doesn’t want him in assembly tomorrow: MK Stalin
+“If questioning was the only goal, could it not have been conducted in Chennai? Why take him to Thanjavur?” MK Stalin asked
 
-## Mid-air turbulence causes Air India's Phuket-Delhi flight to drop 300 feet: Why monsoon airspace is unlike any other
-Ten passengers and four crew were taken for medical checks after AI2379's sudden and brief drop. The weather it flew through may explain why
+## Uttarakhand CM inaugurates, lays foundation for ₹17.8 crore projects in Mussoorie constituency
+Uttarakhand's CM Pushkar Singh Dhami inaugurated projects worth ₹17.8 crore in Mussoorie, enhancing community facilities, roads, and water access.
 
-## 'Saw my sister thrown up in air, blood on man's face': Air India Phuket-Delhi passengers recall horror
-At least 14 people – 10 passengers and two crew members – were injured in the incident onboard AI2379.
+## India distances itself from Sheikh Hasina’s presser, says it has no connection
+Randhir Jaiswal declined to comment on another question about Hasina’s plans to return to Bangladesh from self-exile in India by December.
 
-## TMC-turned-NCPI MP cites Muslim interests, says will not remain in NDA nor join BJP
-Abu Taher Khan said they are from Murshidabad, West Bengal’s Muslim-majority district, and have to protect the interests of Muslims
+## PM dedicates two POWERGRID transmission projects, lays foundation stone for ₹5,550 crore renewable energy corridor
+PM Modi has launched two major POWERGRID transmission projects and laid the foundation for a renewable energy corridor in Andhra Pradesh.
 
-## Prashant Kishor's singular target after defeating BJP in stronghold Bankipur: ‘Remove Samrat as CM’
-After his maiden electoral victory, Prashant Kishor said the people wanted the BJP to appoint “a better person” as chief minister.
-
-## ‘Are achhe din finally ahead?’: Wangchuk's wife takes dig at Modi govt after PK's win in Bihar
-Gitanjali Angmo's remarks came after Kishor won the Bankipur Assembly bypoll, ending the BJP's long-held hold over the constituency.
+## China’s MiniMax curbs overseas access to new AI video model over copyright disputes
+Chinese artificial intelligence company MiniMax has open-sourced its new H3 video model but imposed licensing conditions on users in major overseas markets including the US and European Union, underscoring the copyright challenges in generative video AI. After the Shanghai-based company released the
 
 ## SpaceX report, share unlock may sway Hong Kong, mainland China stocks as AI trade recovers
 SpaceX’s first earnings report since its listing, together with the coming supply of a large chunk of shares available for public trading, will test the strength of the artificial intelligence trade’s recovery, which has driven the S&P 500 within striking distance of its record high and helped Hong 
@@ -129,8 +138,11 @@ China’s stock traders have been unwinding their leveraged positions over the p
 ## Why Chinese brokers forecast an A-share tech and chip rebound
 Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correcti
 
-## Chinese biotech giant WuXi AppTec sees first-half earnings surge amid US scrutiny
-WuXi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business. Interim net profit attributable to the owners of 
+## America’s Cosmic Bet on AI
+The winner takes it all. What happens if the United States loses?
+
+## What Remains of Rojava
+In northeastern Syria, Kurdish leaders continue to fight a rear-guard battle for autonomy.
 
 ## The Architecture of Israel’s Genocide in Gaza
 A new book describes the destruction of Palestinian life street by street.
@@ -149,12 +161,6 @@ The Gulf needs a joint front on deterrence, engagement, and freedom of navigatio
 
 ## Europe’s Dangerous Hesitation on Its Own Air Defense
 Russia’s ballistic missile attacks on Ukraine pose an urgent question for NATO leaders.
-
-## Special Treatment for Cuban Refugees Is No More
-The Trump administration has rendered them as vulnerable to removal as other immigrants.
-
-## The Cure for Russia’s Labor Shortage Is Worse Than the Disease
-What happens when a demographic crisis meets an ever-expanding military-industrial complex?
 
 ## Malaysia’s DAP to Hold Vote on Whether to Remain in Anwar’s ‘Unity’ Government
 The announcement follows the Pakatan Harapan coalition's bruising defeat in the Negeri Sembilan state election on Saturday.
@@ -228,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Misread as passive, the Gulf is quietly ending fifty years of dependence
-Iran’s attacks exposed the limits of external guarantees and the need for a Gulf-built security architecture.
+## Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings
+The vast majority of migrants have left the North African enclave and returned to Morocco.
 
-## Who is behind settler violence in the occupied West Bank?
-A look at the main settler groups driving the escalation against Palestinians in the West Bank.
+## Top Africa football leaders back Infantino after FIFA selloff scandal
+Five influential African football leaders back Gianni Infantino amid World Cup private investment row.
 
-## ‘One last chance’: The times Trump threatened Iran, said deal imminent
-US president has claimed Iran 'desperate' to do a deal or given Tehran 'last chance' on multiple occasions.
+## Hamas negotiator says deal to disarm was necessary to ‘save Gaza’
+Hamas negotiator says deal to disarm was necessary to ‘save Gaza’
 
-## Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?
-Italy's move to halt border-free travel with Spain after the deadly crossing is political, not practical, analysts say.
+## Typhoon Dolphin hurtles towards Japan: Tracker, updates and what to expect
+The large storm is forecast to cause strong winds and rainfall in parts of Japan, China and Taiwan.
 
-## Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza
-Second-quarter revenue jumped 93 percent but Palantir's ties to Israel and role in military technology are controversial
+## Twelve years after ISIL’s massacres, thousands of Yazidis seek justice
+Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.
 
-## Palestinian patients return to Gaza as thousands still await evacuation
-Palestinian patients returned to Gaza after receiving medical treatment abroad, reuniting after years of separation.
+## More than 150 people rescued in English Channel after boat catches fire
+Rescue boats from both France and the UK took part in the operation to evacuate passengers from the stricken vessel.
 
-## US primaries: What to watch in Kansas, Missouri, Virginia, Washington
-From House battlegrounds to party fights and Trump's influence, here are the races to follow during Tuesday's primaries.
+## Six years after Beirut blast, families fight for truth
+The tragedy remains an open wound, with grieving families fighting for accountability.
 
-## Cars burn in reported settler attack in occupied West Bank
-Cars burn in reported settler attack in occupied West Bank
+## Seventh round of Israel-Lebanon talks begins – what’s on the agenda?
+The latest talks come as Israel continues to occupy and strike southern Lebanon.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
