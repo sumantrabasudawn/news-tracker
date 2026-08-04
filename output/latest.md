@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## AstraZeneca investors raise concerns over mega-merger talks
-Shareholders question looming patent cliff and antitrust risks in potential $400bn tie-up with Bristol Myers Squibb
-
 ## Palantir forecasts greater demand from US groups for its AI software
 Tech company posts second-quarter results with US sales climbing 23%
+
+## Trump claims Iran talks under way despite denial from Tehran
+US president said negotiations were ‘last chance’ for Islamic republic
+
+## How ‘The Millionaires’ Factory’ might shift under new CEO
+Macquarie leans a little more into traditional banking but growth could come from elsewhere
+
+## US states accuse Trump administration of ‘sham’ tariff probe
+More than 20 attorneys-general launch legal challenge to duties for alleged forced labour violations
+
+## Andy Burnham bars serious sex offenders from early release scheme
+Prime minister insists ‘Keeping the public safe is my top priority’ after campaigners raised concerns
+
+## AstraZeneca investors raise concerns over mega-merger talks
+Shareholders question looming patent cliff and antitrust risks in potential $400bn tie-up with Bristol Myers Squibb
 
 ## Israel’s defence minister triggers row after sacking general on TV
 Opposition decries attempt by Israel Katz to oust commander responsible for West Bank as sop to far-right voters
@@ -12,26 +24,14 @@ Opposition decries attempt by Israel Katz to oust commander responsible for West
 ## Apple launches legal challenge to UK attempt to access encrypted user data
 iPhone maker files complaint over latest government demand to connect to cloud backups of British users
 
-## How big was the American JPY intervention?
-We can but guess, for now
-
-## AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough
-Sheer mass helps when enlarged balance sheets allow for bigger bets on potential blockbuster drugs
-
-## Iran denies Trump claim of imminent talks
-US president had said negotiations would begin on Monday but Tehran denied the two parties were in talks
-
-## UBS fined $125mn over lax money laundering controls
-Swiss bank failed to implement adequate curbs despite previous sanction by US regulators
-
 ## Aston Martin creditors threaten legal action after branding rights sale plan
 Bondholders send carmaker letter warning they may file suit aimed at unwinding HPS transaction and blocking asset disposal
 
 ## Texas law firm agrees $15mn settlement over judicial scandal
 Jackson Walker admitted it failed to disclose romantic relationship between former partner and federal bankruptcy judge
 
-## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up
-Deal would create world’s fourth-largest drugmaker by market value
+## AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough
+Sheer mass helps when enlarged balance sheets allow for bigger bets on potential blockbuster drugs
 
 ## Centre moves to impose MDR on UPI, extend tax breaks for contract manufacturers
 Exemptions until 2041 give a major boost to Apple
@@ -57,28 +57,28 @@ Investigated by multiple agencies for over two decades, the co-location case rel
 ## Centre proposes safety norms for two-wheeled road ambulances
 Draft rules seek dedicated regulatory framework for emergency medical motorcycles operating in rural and difficult terrain
 
-## Centre raises windfall tax on petrol, diesel and ATF exports from August 3
-India has increased export duties on petrol, diesel, and aviation fuel. These revised rates will be effective from August 3 for the next fortnight. Domestic fuel duties remain unchanged, providing stability for local consumers. This move follows a reduction in commercial LPG prices earlier this mont
+## Free is the most expensive word in public policy: Nageswaran
 
-## Amazon achieves new milestone! Market cap crosses $3 trillion as AI, cloud growth power stock rally
-Shares of the Seattle-headquartered e-commerce and cloud giant had surged 15% on Friday after the company reported its fastest cloud revenue growth in over four years and increased its forecast for annual capital expenditure.
 
-## US stock market today: Wall Street rallies over 1% on falling oil prices, hopes of deal with Iran
-Oil prices declined on Monday, providing relief to Wall Street by easing concerns that inflationary pressures could intensify further. The softer crude prices lifted US equities, although financial markets continued to witness significant volatility.
+## Lower min age for MD, directors to 18: Parliamentary panel
+A parliamentary panel suggests lowering the minimum director age to eighteen years. The committee also backs raising the maximum director age to seventy-five years. Special NCLT benches for insolvency matters are recommended for efficient asset resolution. The panel proposes retaining the ten crore 
 
-## Government proposes sweeping tax rule changes to attract offshore funds - what it means
-The Bill, which has been circulated among Members of Parliament, is expected to be introduced in the Lok Sabha shortly by Finance Minister Nirmala Sitharaman.
+## Changes to boost electronics, investment
+New tax law amendments are proposed by Finance Minister Nirmala Sitharaman. These changes aim to offer concessions to overseas investors and boost electronics manufacturing. The government plans to extend tax exemptions for specified electronic goods by ten years. It also introduces new exemptions f
 
-## Bank holidays in August 2026: Where and when banks will remain closed this month
-August brings numerous bank holidays across India, affecting branch operations. Banks will close on specific dates due to regional festivals and national observances. Customers should verify local branch availability before planning visits. Digital banking services will remain accessible throughout 
+## AI fraud is hitting India’s new net users hardest: Amazon
+Protecting new online shoppers from AI scams is India's next e-commerce challenge. Amazon's trust chief highlights consumer awareness as critical for digital fraud. Generative AI creates sophisticated scams, but also aids detection efforts. Behavioral data helps distinguish genuine sellers from bad 
 
-## More than 1.18 lakh Central employees choose Unified Pension Scheme: FM Sitharaman tells Parliament
-More than 1.18 lakh employees and retirees chose the Unified Pension Scheme. This scheme offers an assured monthly payout after retirement. It was introduced as an option under the National Pension System. Benefits like gratuity and death gratuity were extended to these employees. Tax treatment alig
+## Consider capping rates on affordable loans: LICHF chief
 
-## What time will stock market close from today? New timings and rationale explained
-The Closing Auction Session aims to concentrate liquidity at the end of the trading day. The idea is to facilitate smoother execution of large orders and generate a closing price that is more accurate in terms of reflecting overall market demand and supply.
 
-## Flavoured rum, whisky? FSSAI tightens rules for alcohol labels
+## Government to sell up to 6.5% stake in LIC, may mop up Rs 31k cr
+The government is selling up to 6.5% of LIC shares through an offer for sale. This divestment aims to meet minimum public shareholding norms ahead of schedule. The offer begins Tuesday and closes Wednesday with a base price of Rs 382. Successful sale will raise approximately Rs 31,400 crore for the 
+
+## Low-cost Asean imports worry medical device companies
+Low-priced medical device imports from China and Malaysia are impacting India's domestic manufacturing capabilities. Imports from Asean countries have increased significantly, affecting local players. Chinese products often enter India through Asean nations, exploiting free trade agreements. Domesti
+
+## ICICI’s add-on for post-accident hassles
 
 
 ## WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours
@@ -105,6 +105,9 @@ Humaiun Kobir, adviser on foreign affairs to PM Tarique Rahman, conveyed the mes
 ## Arunachal Pradesh’s Glaw Lake is India’s 101st Ramsar site: Bhupender Yadav
 Ramsar sites are recognised for their biodiversity, critical habitats for migratory birds, and ecological significance, such as carbon sequestration and flood control
 
+## Why Chinese brokers forecast an A-share tech and chip rebound
+Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correcti
+
 ## Chinese biotech giant Wuxi AppTec sees first-half earnings surge amid US scrutiny
 Wuxi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business. Interim net profit attributable to the owners of 
 
@@ -125,9 +128,6 @@ China’s social security sovereign fund cast a vote of confidence in the onshor
 
 ## Chinese EV demand cools
 –
-
-## Will new batteries give China’s EVs the jolt they need to charge past their rivals?
-On a cloudy evening in late April, a tech event hosted at Beijing’s National Convention Centre by Contemporary Amperex Technology Ltd (CATL) drew nearly 1,000 people eager for a glimpse of next-generation electric vehicle (EV) batteries that could reshape the global automotive landscape. Gao Huan, c
 
 ## Iran Denies Peace Talks After the United States Cancels Military Strikes
 Trump’s “imminent” deal remains elusive.
@@ -225,7 +225,19 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## From Donald Trump to Abdul El-Sayed: US Arabs centre Palestine in politics
+## Iran war live: Tehran denies US talks as Trump warns of ‘last chance’
+US president says talks with Iran are under way, warning the negotiations are Tehran's 'last chance' to secure a deal.
+
+## Two workers who died in quake-hit Japan mall were sent in to get cash
+A Japanese company has admitted that two workers, who died in a shopping mall explosion following powerful earthquake.
+
+## Death toll from Venezuela earthquakes passes 6,000
+National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.
+
+## Petrol prices strain US households as oil giants Chevron, Exxon profits soar
+Low-income US households are hit hardest, spending more than 10 percent of monthly income on petrol as prices rise.
+
+## From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics
 Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.
 
 ## Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown
@@ -236,18 +248,6 @@ Migrants rushed to receive water and beverages in Ceuta, Spain, where many have 
 
 ## Will Israel withdraw from Gaza if Hamas disarms?
 Israel says it has doubts about the Palestinian group laying down its weapons.
-
-## El-Sayed, Stevens face off in Michigan Democratic Senate primary
-Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party.
-
-## Hundreds of migrant minors stranded in Ceuta after border crisis
-Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.
-
-## Survivors reach port after deadly Indonesia ferry fire
-Survivors reach port after deadly Indonesia ferry fire
-
-## Clergy members arrested while protesting at Senate office
-Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
