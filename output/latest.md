@@ -1,7 +1,16 @@
 # AION Intelligence
 
 ## Oil falls after Bessent says deal to reopen Strait of Hormuz is imminent
-Brent crude drops 4% as Iranian and Omani negotiators agree on temporary arrangement for shipping through waterway
+Brent drops 4% and US stocks hit record high as Iranian and Omani negotiators agree on temporary shipping arrangement
+
+## Trump’s pick for US attorney-general clears key Senate hurdle
+Todd Blanche’s nomination narrowly passed by committee after he agreed to scrap the president’s $1.8bn ‘slush fund’
+
+## Saudi-Israel tensions could frustrate India’s IMEC dreams
+Modi banked on an India-Mediterranean corridor to rival China’s Belt and Road, but politics is getting in the way
+
+## In Venezuela, legitimacy matters more than continuity
+Washington has forgotten the lessons of 1989, when the US backed democratic dissidents over ancien regime insiders
 
 ## Blanche secures key Republican support clearing way for A-G confirmation
 Also in today’s newsletter, how Michigan’s Senate race is putting ideological divisions of Democrats on display
@@ -15,56 +24,62 @@ Democratic Alliance party seeks to scrap ANC policy used by Trump to justify ‘
 ## The Fed goes Wacko
 Warsh’s Awful Communications: Knowingly Opaque. Also in this newsletter, the BoE shows how it’s done
 
+## Spotify profits hit by heavy spending as fears build over streaming growth
+US-listed group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
+
+## Wall Street’s insurance takeover presents circular risks and rewards
+Aggressive tactics are prompting increased regulatory scrutiny
+
+## MFS administrators sue Barclays after accounts access frozen
+Creditors of failed UK mortgage provider try to recoup assets amid allegations of double pledging
+
+## Polymarket in fundraising talks at valuation of more than $20bn
+Prediction platform looks to raise $1bn as it tries to gain ground on rival Kalshi
+
+## Water companies feel squeeze of extraction limits as drought deepens
+Industry group calls for abstraction targets to be relaxed during heatwaves
+
 ## Japan’s fusion industry seeks state backing amid Middle East energy strain
 Also in today’s newsletter, oil bosses draw Trump’s ire after blockbuster earnings
-
-## Ukrainian drones hit Wildberries warehouses in overnight strikes
-Russian retailer has become key target for Kyiv as it aims to bring Putin’s war closer to home
 
 ## FirstFT: Progressives versus traditionalists in Michigan
 Also in today’s newsletter: Google’s finance machine and the US’s new era of ‘currency activism’
 
-## Spotify profits hit by heavy spending as fears build over streaming growth
-US group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
+## Institutional investors oversubscribe LIC OFS on Day 1
+Robust institutional participation boosted the government’s disinvestment programme ahead of the retail subscription for the country’s largest insurer.
 
-## Apollo misses out on big asset sales that have boosted rivals
-Private capital group says it ‘prudently delayed’ sales ‘amid an evolving exit environment’
+## India’s mobile apps market hits new high of $345 million in Q2, up 35% y-o-y
+The growth is largely driven by rising subscriptions to AI services, video streaming and digital platforms, with non-gaming revenue alone accounting for nearly $240 million — up over 50% from last year
 
-## OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight
-Legal clash deepens after an AI partnership over devices gives way to acrimony
+## Consider MP Telecom Manufacturing Zone an extension of PLI: Union Minister Jyotiraditya Scindia
+Representatives of 20 telecom stakeholders including Jio, Airtel, Vi, participated in the closed door event
 
-## India seeks to widen tax exemptions to woo investors such as Apple
-New Delhi wants to extend holiday for foreign tech companies that supply equipment to local contract manufacturers
+## Fermenta Biotech shares make debut on NSE
+The company said the listing marks a milestone in Fermenta’s 75-year journey
 
-## Toyota plans $6.3bn buyback as weak yen boosts outlook
-World’s biggest carmaker expects to sell more than 5mn hybrid electric vehicles this year
+## ESAF Small Finance Bank eyes ₹1 lakh cr total biz of by 2030
+Bank chief outlines universal bank plans
 
-## Segro accepts £14bn takeover offer from US rival Prologis
-Deal adds to spate of takeovers of London-listed companies after acquisitions of Schroders and Intertek
+## Letters to the Editor dated August 4, 2026
 
-## Bhatia hands over to Walsh as IndiGo charts next phase of expansion
-Promoter-MD, Rahul Bhatia, credits employees for two decades of growth; new CEO says India is poised to become a global aviation hub
 
-## India is in touch with all stakeholders regarding Chabahar port operations: MEA
-India’s Chabahar project is strategically important as it provides access to Afghanistan and Central Asia while bypassing Pakistan
+## AI won’t steal India’s jobs. It’ll reshape them
 
-## Assets worth ₹17,874 cr of fugitive criminals attached under PMLA
-India has also brought back 274 fugitive criminals from 36 countries since 2019, Union Ministry of Home Affairs said on Tuesday
 
-## Vaaree raises ₹65 crore in Series A led by Hero Enterprise, Cap Alpha Ventures
-The new capital will expand Vaaree’s fulfilment and quality verification centres, speed up deliveries, and enhance its AI-powered home styling platform, VibeCheck
+## Rupee’s recovery faces test
+Lower crude prices and a softer dollar support the local currency ahead of the RBI policy
 
-## Dabur defends product purity after FSSAI prohibition
-Dabur says labelling update underway; company also “seeking legal advice” on the future course of action
+## ONGC Q1 results: Oil giant's profit doubles to Rs 17,034 crore amid rising crude prices
+ONGC's profit more than doubled in the April-June quarter. Higher crude oil prices and improved realisations significantly boosted earnings. Total income rose substantially compared to the previous year. Oil and gas production remained broadly stable with marginal declines. Strategic projects are ex
 
-## Marico Q1 profit jumps 25% on strong India business and volume growth
-Strong domestic demand, improving product mix and steady overseas expansion helped the FMCG company deliver its best quarterly profit growth in years
+## 54 bank fraud accused fled India, ED seizes assets worth over Rs 35,000 crore
+The Enforcement Directorate is investigating 32 bank fraud cases with 54 absconding accused. Proceedings under the Fugitive Economic Offenders Act have been launched against 27 individuals. Assets worth over Rs 840 crore have been confiscated after nine were declared offenders. Unclaimed bank deposi
 
-## Ionic Wealth rolls out AI tool for personalised mutual fund portfolio analysis
-The feature syncs an investor’s data from Mutual Fund Central with Ionic’s internal market, macroeconomic, and asset class knowledge
+## US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip
+Despite persistent concerns over elevated inflation, the Iran conflict and the possibility of an AI-driven stock market bubble, Wall Street has continued to scale new highs, supported by robust corporate earnings.
 
-## NCPCR orders inquiry into allegations of child sexual abuse material ads on Meta
-The NCPCR has expressed its intention to delve deeper into the validity of the claims and assess the adequacy of Meta’s response.
+## Will Nifty & Sensex continue to diverge? What new stock market timings, closing auction session mean
+As per SEBI guidelines, a new Closing Auction Session has been introduced for eligible stocks, where continuous trading will halt at 3:15 PM instead of 3:30 PM. This has altered the final closing price calculation methodology for several stocks.
 
 ## Merchant Discount Rate on UPI transactions? Amendments to payments act may pave way - what it means
 Merchant Discount Rate (MDR) is the fee merchants pay to banks and payment service providers for processing digital transactions. In India, credit card payments generally attract an MDR of around 1.5%.
@@ -78,41 +93,29 @@ Institutional investors subscribed nearly two-thirds of LIC shares offered by no
 ## Stock market today: BSE Sensex tumbles over 200 points, Nifty50 closes below 24,700
 
 
-## Income tax refund: How soon after filing ITR can you expect your refund to be issued?
-With the filing window now closed for most salaried taxpayers, attention has shifted to income tax refunds. Taxpayers who have filed and successfully e-verified their returns are now awaiting the refund process.
+## Why 'free' public services can cost more, as per chief economic advisor V Anantha Nageswaran
+V Anantha Nageswaran has been India's chief economic advisor since 2022.
 
-## Indian refiners maximise: Fuel exports hit 1-yr high as robust margins, Russia diesel export ban help
-According to shipping data from analytics firm Kpler, India exported 1.53 million barrels per day (bpd) of refined fuels during July. This is about 27% higher than the average monthly volume over the previous 12 months.
+## DMK MLA Markandeyan released on bail over remarks against CM Vijay
+Markandeyan was arrested by the Thoothukudi District Crime Branch (DCB) police on July 20.
 
-## Friendship with benefits: Why Trump is helping Japan rescue the yen
-The United States and Japan have jointly intervened to support the Japanese yen's value. This unprecedented action aims to stabilize the currency after its significant decline. Washington's involvement signals broader economic and financial system concerns beyond Japan. The intervention seeks to pro
+## Pakistan responded to PoK discontent with bullets, blackouts and repression: MEA
+India condemned Pakistan for using lethal force against protesters in PoK, urging global accountability for 90 civilian deaths amid ongoing violence.
 
-## Gold price prediction today: Will gold prices stay range-bound in the current scenario? Check August 4, 2026 outlook
-Gold price prediction today: Gold prices will continue to be influenced by US-Iran talks and macroeconomic data in America which would likely provide direction to the Federal Reserve on its rate decisions, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+## Champat Rai visits Ayodhya temple in first public appearance since donation row
+Since the controversy erupted, Rai remained largely confined to Teerth Kshetra Bhawan, a three-storey building located 200 metres from the temple complex.
 
-## Rajasthan HC grants Asaram 20-day parole, says state failed to justify rejection
-The self-styles godman is serving a life sentence in Jodhpur Central Jail for the rape of a minor.
+## ‘No sadhu involved’: Yogi cites SIT report in Ram Temple donation theft case as Oppn demands debate in Parliament
+Yogi's remarks came amid a political row over the alleged donation theft, which has triggered protests inside the Parliament.
 
-## ‘Forgot Indira Gandhi?’: NCP retorts as Cong calls Sunetra Pawar ‘gungi gudiya’
-NCP spokesperson questioned whether the Congress was indirectly validating the criticism once levelled against former prime minister Indira Gandhi.
+## Supreme Court proposes no fuel for uninsured vehicles, seeks Centre's plan
+The top court also ordered a technology-driven enforcement mechanism to automatically identify and penalise such vehicles without an insurance.
 
-## Child protection panel to probe Meta over sexual content: Report
-NCPCR launches an inquiry into alleged CSEAM advertisements on Meta platforms after the BBC Eye report and the company's response.
+## India generates more sewage than its treatment capacity: Report
+Only 32% of septic tanks are properly lined, raising the risk of groundwater contamination, while 43% lack access chambers for desludging and maintenance
 
-## 'If widespread corruption…': In 1979 Independence Day speech, then-PM Charan Singh's stern message
-Hindustan Times revisits some of the most iconic Independence Day speeches delivered by India's Prime Ministers.
-
-## TVK intimidating Udhayanidhi; doesn’t want him in assembly tomorrow: MK Stalin
-“If questioning was the only goal, could it not have been conducted in Chennai? Why take him to Thanjavur?” MK Stalin asked
-
-## Uttarakhand CM inaugurates, lays foundation for ₹17.8 crore projects in Mussoorie constituency
-Uttarakhand's CM Pushkar Singh Dhami inaugurated projects worth ₹17.8 crore in Mussoorie, enhancing community facilities, roads, and water access.
-
-## India distances itself from Sheikh Hasina’s presser, says it has no connection
-Randhir Jaiswal declined to comment on another question about Hasina’s plans to return to Bangladesh from self-exile in India by December.
-
-## PM dedicates two POWERGRID transmission projects, lays foundation stone for ₹5,550 crore renewable energy corridor
-PM Modi has launched two major POWERGRID transmission projects and laid the foundation for a renewable energy corridor in Andhra Pradesh.
+## Air India's technology head Satya Ramaswamy quits, eyes AI ventures
+Satya Ramaswamy said that he would continue to be part of the Air India management team till his successor was in place and settled.
 
 ## China’s MiniMax curbs overseas access to new AI video model over copyright disputes
 Chinese artificial intelligence company MiniMax has open-sourced its new H3 video model but imposed licensing conditions on users in major overseas markets including the US and European Union, underscoring the copyright challenges in generative video AI. After the Shanghai-based company released the
@@ -138,6 +141,9 @@ China’s stock traders have been unwinding their leveraged positions over the p
 ## Why Chinese brokers forecast an A-share tech and chip rebound
 Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correcti
 
+## What’s Behind Indonesia’s Anti-Corruption Crusade?
+A high-profile case is raising doubts about President Prabowo Subianto’s motivations.
+
 ## America’s Cosmic Bet on AI
 The winner takes it all. What happens if the United States loses?
 
@@ -158,9 +164,6 @@ An abandoned project reveals why industrial policy must preserve technological o
 
 ## A Saudi-Emirati Thaw Can Help Contain Iran
 The Gulf needs a joint front on deterrence, engagement, and freedom of navigation.
-
-## Europe’s Dangerous Hesitation on Its Own Air Defense
-Russia’s ballistic missile attacks on Ukraine pose an urgent question for NATO leaders.
 
 ## Malaysia’s DAP to Hold Vote on Whether to Remain in Anwar’s ‘Unity’ Government
 The announcement follows the Pakatan Harapan coalition's bruising defeat in the Negeri Sembilan state election on Saturday.
@@ -234,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings
-The vast majority of migrants have left the North African enclave and returned to Morocco.
+## Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?
+US president's hand-picked DC attorney in firing line after dropping charges for vandalism of Washington landmark.
 
-## Top Africa football leaders back Infantino after FIFA selloff scandal
-Five influential African football leaders back Gianni Infantino amid World Cup private investment row.
+## Guatemala issues second-highest ‘danger’ alert after Fuego volcano erupts
+Fuego, one of the region's most active volcanoes, has erupted repeatedly in recent years, forcing mass evacuations.
 
-## Hamas negotiator says deal to disarm was necessary to ‘save Gaza’
-Hamas negotiator says deal to disarm was necessary to ‘save Gaza’
+## Crews battle wildfire that shut down major highways in Israel
+A major wildfire swept through Ben Shemen Forest in central Israel, prompting authorities to close Highway 6.
 
-## Typhoon Dolphin hurtles towards Japan: Tracker, updates and what to expect
-The large storm is forecast to cause strong winds and rainfall in parts of Japan, China and Taiwan.
+## Migrants stranded in Ceuta hope for a better future
+Longing for asylum, people from countries such as Sudan, Somalia and Mali are faced with an uncertain future.
 
-## Twelve years after ISIL’s massacres, thousands of Yazidis seek justice
-Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.
+## More key FIFA staff break ranks as Infantino’s World Cup plan faces mutiny
+Battle lines being drawn within FIFA as key figures break ranks with President Gianni Infantino over failed selloff.
 
-## More than 150 people rescued in English Channel after boat catches fire
-Rescue boats from both France and the UK took part in the operation to evacuate passengers from the stricken vessel.
+## Qatar says indirect talks continue to reopen Strait of Hormuz
+Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.
 
-## Six years after Beirut blast, families fight for truth
-The tragedy remains an open wound, with grieving families fighting for accountability.
+## Drone appears to stalk man before exploding
+A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.
 
-## Seventh round of Israel-Lebanon talks begins – what’s on the agenda?
-The latest talks come as Israel continues to occupy and strike southern Lebanon.
+## Photos: Thousands in Gaza City join mass funeral for 112 Palestinians
+Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
