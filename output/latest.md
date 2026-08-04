@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## Toyota plans $6.3bn buyback as weak yen boosts outlook
-World’s biggest carmaker expects to sell more than 5mn hybrid electric vehicles this year
-
 ## Ukrainian drones hit Wildberries warehouses in overnight strikes
 Russian retailer has become a key target for Kyiv as it aims to bring Putin’s war closer to home
 
-## Burnham bars serious sex offenders from early release scheme
-Prime minister insists ‘keeping the public safe’ is his priority after campaigners raised concerns
+## FirstFT: Progressives versus traditionalists in Michigan
+Also in today’s newsletter: Google’s finance machine and the US’s new era of ‘currency activism’
+
+## Bessent’s yen intervention signals new era of US ‘currency activism’
+Bid to support Japan’s currency shows US is ready to scupper trades that push against its interests
+
+## Apollo misses out on big asset sales that have boosted rivals
+Private capital group says it ‘prudently delayed’ sales ‘amid an evolving exit environment’
+
+## OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight
+Legal clash deepens after an AI partnership over devices gives way to acrimony
+
+## The Democrats’ civil war over Israel is getting worse
+While the party fractures over Middle East policy, it is ignoring the threat posed by AI and social media
+
+## Tax consumption, not income or AI
+If the US needs more revenue, it should overhaul its broken taxation system
+
+## India seeks to widen tax exemptions to woo investors such as Apple
+New Delhi wants to extend holiday for foreign tech companies that supply equipment to local contract manufacturers
+
+## Toyota plans $6.3bn buyback as weak yen boosts outlook
+World’s biggest carmaker expects to sell more than 5mn hybrid electric vehicles this year
 
 ## Segro accepts £14bn takeover offer from US rival Prologis
 Deal adds to spate of takeovers of London-listed companies after acquisitions of Schroders and Intertek
-
-## Yen intervention = US self-preservation
-More thoughts on why it’s happening
-
-## FirstFT: Russia expands shadow LNG fleet
-Also in today’s newsletter: Spain’s migrant amnesty and Google’s finance machine
-
-## The king who outfoxed Pedro Sánchez
-Morocco’s absolute ruler Mohammed VI turned Spain’s border into leverage over Madrid
-
-## The $400bn megadeal brewing in big pharma
-AstraZeneca’s talks with Bristol Myers Squibb could create the world’s fourth-largest drugmaker by market value
 
 ## BP to sell $4bn US biogas business as profits more than double
 UK oil major has had several approaches for its North Sea assets, says chief
@@ -30,35 +36,35 @@ UK oil major has had several approaches for its North Sea assets, says chief
 ## HSBC resumes share buybacks as quarterly profits soar to $10.1bn
 Wealth management and insurance business in Hong Kong boosts Europe’s biggest lender
 
-## Spanish stocks offer a sunny escape for tech-weary investors
-But the country’s relative isolation from AI may not last
+## Nykaa posts higher quarterly profit on strong beauty demand, fashion growth
+The ‌company's consolidated net profit rose to ₹80.01 crore ($8.39 million) ‌in the quarter ended June ‌30, ⁠from ₹23.32 crore a year ⁠earlier
 
-## Infantino is not the problem
-Fifa’s regulatory functions must be separated from its commercial activities
+## Symphony Q1FY27 profit dips 5% on consolidated basis despite revenue growth
+On a standalone basis, PAT fell 24% to ₹28 crore from ₹37 crore in Q1FY26, while revenue increased 5% to ₹241 crore
 
-## Sensex today | Stock Market Live: Sensex down 300 pts, Nifty slips 300 pts to 24,470 as CAS correction weighs; RBI MPC meet outcome in focus
-Sensex, Nifty, Share Prices LIVE: Benchmark indices opened Tuesday’s session on a weak note, with the Nifty 50 trading lower by 175 points and the Sensex slipping modestly, as markets corrected after Monday’s sharp rally that analysts attributed partly to a technical distortion from the new Closing 
+## Broker’s Call: Aditya Birla Lifestyle (Buy)
+Emkay Global
 
-## Dr Reddy’s Laboratories launches Sugammadex injection in US
-Sugammadex Injection is indicated for the reversal of neuromuscular blockade induced by rocuronium bromide and vecuronium bromide in adult and pediatric patients
-
-## Apple briefly removed Telegram from App Store after sexual abuse content violated guidelines
-The company said it restored the app ​after ‘the developer promptly ‌removed the content and banned the user who ‌posted it’
-
-## Q1 Results Today Live: Pidilite, Graphite, Alembic, Wonderla Holidays Q1 PAT rise, Godrej Properties & Zydus Wellness con. PAT decline, Bharti Airtel, ONGC, Marico, Nykaa, Bharti Hexacom, NHPC, MCX, Kalyan Jewellers to announce Q1 results
+## Q1 Results Today Live: Bharti Airtel, Bharti Hexacom, Pidilite, Graphite, Alembic, Wonderla Holidays Q1 PAT rise, Marico posts mixed Q1, Godrej Properties, Zydus Wellness & Protean PAT decline, ONGC, NHPC, MCX, Kalyan Jewellers to announce Q1 results
 Q1 Results Today, 4th August 2026 Live Updates: Follow businessline for more
 
-## India extends anti-dumping duty on 4 products in July; imposes duty on one
-Duties were extended on untreated fumed silica; arylides; seamless tubes, pipes and hollow profiles of iron, alloy or non-alloy steel; and normal butanol
+## India on track for $5.1 trillion GDP by FY29, says Finance Minister
+The government outlined a broad-based economic roadmap centred on investment, manufacturing, exports, infrastructure and innovation to sustain long-term growth momentum.
 
-## Canara HSBC Life Insurance simplifies claims process for families affected by the Assam floods
-Canara HSBC Life Insurance simplifies claims process for families affected by the Assam floods
+## Nazara Tech slips into ₹82.5 cr loss in Q1; Nitish Mittersain steps down as CEO
+The company had posted a consolidated net profit of ₹51.34 crore in the corresponding quarter of the previous fiscal, according to a regulatory filing
 
-## Jio-BlackRock enters India's ETF market with Nifty 50 fund
-The ETF will ‌track the Nifty ‌50 Index, ⁠giving investors an exposure to ⁠India’s 50 largest listed companies through a single investment
+## Alembic Pharma Q1 net profit up 12.1% at ₹173.07 cr
+The company had posted a consolidated net profit of ₹154.38 crore in the corresponding period of the last fiscal
 
-## Air India's Phuket-Delhi flight experiences turbulence; 12 people onboard suffer injuries
-Air India said there have been no reports of serious injuries.
+## Bharti Airtel Q1 profit jumps 37% to ₹8,167 crore on strong subscriber growth
+Higher-value customer additions and upgrades to premium plans helped the telecom operator deliver robust earnings growth during the June quarter.
+
+## LIC OFS off to a strong start as institutional investors subscribe 66% by noon
+Institutional investors subscribed nearly two-thirds of LIC shares offered by noon Tuesday. The government aims to divest up to 6.5% of its stake through this offer. This stake sale is expected to raise approximately Rs 31,000 crore for the government. The transaction also helps LIC meet Sebi's mini
+
+## Stock market today: BSE Sensex tumbles over 200 points, Nifty50 closes below 24,700
+
 
 ## Income tax refund: How soon after filing ITR can you expect your refund to be issued?
 With the filing window now closed for most salaried taxpayers, attention has shifted to income tax refunds. Taxpayers who have filed and successfully e-verified their returns are now awaiting the refund process.
@@ -78,37 +84,34 @@ Indian stock market indices Nifty50 and BSE Sensex diverged due to a new closing
 ## 'Likely to mislead': FSSAI bars Dabur from selling products with '100%' guarantee claims
 India's food regulator has prohibited Dabur India from selling certain food products. These products carried "100 per cent" claims which are considered misleading. The FSSAI stated these labels are ambiguous and unverifiable for consumers. Dabur India is now reviewing the notice issued by the food r
 
-## Trump slams Exxon Mobil, Chevron for 'making too much money'; asks to give it back
-President Donald Trump criticized major oil companies for excessive profits. He urged Exxon Mobil and Chevron to lower consumer fuel prices. The companies reported strong quarterly earnings due to higher crude prices. Industry representatives stated prices reflect global market pressures and uncerta
+## 'CJP got 30 million views, BJP only 10 mn': Parl panel chief alleges Meta promoting 'anti-democracy' content
+The Parliamentary panel chief cited data on views garnered by accounts to highlight the gap between the 'anti-establishment' content and the mainstream parties.
 
-## Top stocks to buy today: Stock market recommendations for August 4, 2026 - check list
-Stock market recommendations: Honasa Consumer, Gland Pharma, Bata India, and Siemens - these are the top stocks to buy picked by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for August 4, 2026:
+## ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament remains disrupted
+CJP spokesperson Saurav Das questioned why Shah had not appeared in Parliament to respond to the Opposition's demands.
 
-## Meta global team summoned in India on August 5-6, says IT Secretary
-Govt summons Meta global team in India on August 5-6, says IT Secretary S Krishnan.
+## Bombay HC designates 23 more fast-track courts to try Maharashtra paper leak cases
+On July 24, the high court designated two special courts in Nagpur and Aurangabad to fast-track trials in examination paper leak cases
 
-## From Sanatana row to alleged remarks against Trisha: The many controversies of Udhayanidhi Stalin
-As Stalin denies any wrongdoing, this is not the first time his remarks have sparked a row.
+## Mid-air turbulence causes Air India's Phuket-Delhi flight to drop 300 feet: Why monsoon airspace is unlike any other
+Ten passengers and four crew were taken for medical checks after AI2379's sudden and brief drop. The weather it flew through may explain why
 
-## UP govt to shower flowers from sky on kanwariyas in 7 western districts
-UP plans helicopter flower showers for kanwariyas across 7 western districts
+## 'Saw my sister thrown up in air, blood on man's face': Air India Phuket-Delhi passengers recall horror
+At least 14 people – 10 passengers and two crew members – were injured in the incident onboard AI2379.
 
-## Constable injured as two groups of Kanwariyas clash in Uttar Pradesh’s Meerut
-Police counselled the two groups and warned them against repeating such behaviour before allowing them to continue their journey
+## TMC-turned-NCPI MP cites Muslim interests, says will not remain in NDA nor join BJP
+Abu Taher Khan said they are from Murshidabad, West Bengal’s Muslim-majority district, and have to protect the interests of Muslims
 
-## Groww Foundation, JLF launch publishing programme for aspiring writers
-Groww Foundation, JLF launch publishing programme for aspiring writers
+## Prashant Kishor's singular target after defeating BJP in stronghold Bankipur: ‘Remove Samrat as CM’
+After his maiden electoral victory, Prashant Kishor said the people wanted the BJP to appoint “a better person” as chief minister.
 
-## Air India Phuket-Delhi flight drops 300 feet after turbulence; 10 passengers, 4 crew injured
-The Air India aircraft on Tuesday experienced a sudden drop in its altitude, likely caused due to turbulence.
+## ‘Are achhe din finally ahead?’: Wangchuk's wife takes dig at Modi govt after PK's win in Bihar
+Gitanjali Angmo's remarks came after Kishor won the Bankipur Assembly bypoll, ending the BJP's long-held hold over the constituency.
 
-## ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over allegedly offensive remarks
-The DMK trained its guns on the ruling TVK and Tamil Nadu chief minister Vijay and said that Udhayanidhi's detention was based on “false and fabricated” claims.
+## SpaceX report, share unlock may sway Hong Kong, mainland China stocks as AI trade recovers
+SpaceX’s first earnings report since its listing, together with the coming supply of a large chunk of shares available for public trading, will test the strength of the artificial intelligence trade’s recovery, which has driven the S&P 500 within striking distance of its record high and helped Hong 
 
-## Dabur asked to stop sale of honey, other products with '100%' claims. Here's why
-FSSAI directed Dabur India Limited issued the prohibition order saying such claims were ‘ambiguous and unverifiable’.
-
-## Could China’s new trust tax pull Pan Shiyi’s wealth into capital flight spotlight?
+## Could China’s new trust tax pull Pan Shiyi’s wealth into the capital flight spotlight?
 China’s ultra-rich are finding themselves under greater scrutiny as new tax rules on offshore trusts raise questions over their fortunes, with New York-based property tycoon Pan Shiyi’s Cayman structure cast back into the spotlight. Market watchers said the rules – which impose a flat 20 per cent le
 
 ## Europe’s new EV power struggle sees Chinese giants seize record market share
@@ -129,8 +132,8 @@ Leading Chinese brokerages have expressed optimism for domestic tech shares trad
 ## Chinese biotech giant WuXi AppTec sees first-half earnings surge amid US scrutiny
 WuXi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business. Interim net profit attributable to the owners of 
 
-## Chinese EV sales falter at home as growth slows
-Chinese carmakers reported slack sales for July, igniting fears of fresh price wars, and the country’s central bank pledged to promote stable growth and continue monetary easing after the pace of economic expansion slowed in the second quarter. Electric-vehicle (EV) makers Xpeng, Nio, and Li Auto, t
+## The Architecture of Israel’s Genocide in Gaza
+A new book describes the destruction of Palestinian life street by street.
 
 ## Iran Denies Peace Talks After the United States Cancels Military Strikes
 Trump’s “imminent” deal remains elusive.
@@ -153,32 +156,29 @@ The Trump administration has rendered them as vulnerable to removal as other imm
 ## The Cure for Russia’s Labor Shortage Is Worse Than the Disease
 What happens when a demographic crisis meets an ever-expanding military-industrial complex?
 
-## France’s Wildfires Are Swallowing Its Politics
-The country’s next presidential election is more ominous in the glow of its latest environmental disaster.
+## Malaysia’s DAP to Hold Vote on Whether to Remain in Anwar’s ‘Unity’ Government
+The announcement follows the Pakatan Harapan coalition's bruising defeat in the Negeri Sembilan state election on Saturday.
+
+## Iran in Port Sudan? The Next Threat to Asian Markets
+The Red Sea corridor Asian trade depends on has another volatile shore, and almost nobody is watching it.
+
+## What Philippine President Marcos Said About China in His State of the Nation Address
+His rhetoric was familiar, but carried additional weight in light of recent clashes between Chinese and Philippine vessels in the South China Sea.
+
+## Donald Trump’s Tariff Re-Do in Southeast Asia
+The capricious treatment of partners and allies threatens to do long-term damage to Washington's standing in the region.
+
+## Myanmar’s Detained Leader Aung San Suu Kyi Meets Red Cross Official
+The move is intended to weaken ASEAN's determination to hold Myanmar to the Five-Point Consensus and widen the divisions between the bloc's member states.
+
+## Why India’s Cockroach Movement Might Not Collapse Like the Others
+The Cockroach Janta Party reflects every hallmark of modern decentralized leadership theories, but is set to leave a lasting imprint on Indian politics.
+
+## Xi’s Shanghai Tour Offers No Relief for the Housing Crisis
+Aside from making sympathetic noises about living standards, Xi offered no new wisdom or solutions.
 
 ## Xi Jinping’s AI Vision
 Xi’s speech addressed the attendees at the World Artificial Intelligence Conference, but his real audience was the international community, and of course the United States.
-
-## Is Japan Decoupling From China?
-The new generation of Japanese policymakers is far less willing to accommodate China than its predecessors.
-
-## Uzbekistan’s Nuclear Power Plant Project Advances
-Officials say that the first small modular reactor of Uzbekistan’s nuclear power plant project is to be commissioned in 2029.
-
-## Pakistan Wields Iron Fist Against Protesters in Pakistan-administered Jammu and Kashmir
-Last week, Pakistani Defense Minister Khwaja Asif described protesters “as enemies like India."
-
-## Is Islamic Extremism Taking Over Bangladesh?
-Two years after Sheikh Hasina's ouster, what is the role of Islamism movements in Bangladesh?
-
-## 12 Asian Countries Subject to Finalized US Visa Bond Program
-The program, which launched as a pilot in August 2025, is now permanent and at present affects the citizens of 50 countries.
-
-## Myanmar’s Depleted Oil Pipeline
-A cross-border energy project deals with the impact of two conflicts.
-
-## For a Gen Z Revolt, Pakistan Needs a Cause, Not a Captain
-Imran Khan is undoubtedly popular. But building a protest movement that revolves around Khan and his freedom immediately excludes half the population.
 
 ## A Conversation with the Pentagon’s Chief Buyer, Under Secretary Michael P. Duffey
 Under Secretary of Defense for Acquisition and Sustainment Michael P. Duffey joins Jonathan to discuss the Pentagon’s ongoing acquisition transformation. Their conversation spans the recent munitions agreements, industry investments, the shift to portfolio acquisition executives, allied coproduction
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Misread as passive, the Gulf is quietly ending fifty years of dependence
+Iran’s attacks exposed the limits of external guarantees and the need for a Gulf-built security architecture.
+
+## Who is behind settler violence in the occupied West Bank?
+A look at the main settler groups driving the escalation against Palestinians in the West Bank.
+
+## ‘One last chance’: The times Trump threatened Iran, said deal imminent
+US president has claimed Iran 'desperate' to do a deal or given Tehran 'last chance' on multiple occasions.
+
+## Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?
+Italy's move to halt border-free travel with Spain after the deadly crossing is political, not practical, analysts say.
+
+## Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza
+Second-quarter revenue jumped 93 percent but Palantir's ties to Israel and role in military technology are controversial
+
+## Palestinian patients return to Gaza as thousands still await evacuation
+Palestinian patients returned to Gaza after receiving medical treatment abroad, reuniting after years of separation.
+
+## US primaries: What to watch in Kansas, Missouri, Virginia, Washington
+From House battlegrounds to party fights and Trump's influence, here are the races to follow during Tuesday's primaries.
+
 ## Cars burn in reported settler attack in occupied West Bank
 Cars burn in reported settler attack in occupied West Bank
-
-## We demand accountability for the Beirut blast
-Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.
-
-## UEFA confirm legal letter served to FIFA after Infantino World Cup plan
-UEFA confirm to Al Jazeera a preservation letter is with FIFA following failed Gianni Infantino-led World Cup sell-off.
-
-## US arrests suspect over Spokane wildfire as tens of thousands flee blaze
-Authorities say about 65,000 people have been displaced by the fires in Washington state.
-
-## Nascimento: UFC fighter dead at 34 after apparent heart attack
-The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.
-
-## Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal
-Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a 'breakthrough'.
-
-## Why are the Washington wildfires so severe? Spokane fires explained
-Why Spokane's wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.
-
-## Bodycam video shows firefighters battling blaze in Spokane, US
-Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
