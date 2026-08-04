@@ -1,7 +1,10 @@
 # AION Intelligence
 
+## India’s IndiGo struggles to emerge from turbulence
+Also in this newsletter, Meta in hot water
+
 ## Palantir forecasts greater demand from US groups for its AI software
-Tech company posts second-quarter results with US sales climbing 23%
+Tech company posts second-quarter results with American sales climbing 23%
 
 ## Trump claims Iran talks under way despite denial from Tehran
 US president said negotiations were ‘last chance’ for Islamic republic
@@ -13,7 +16,7 @@ Macquarie leans a little more into traditional banking but growth could come fro
 More than 20 attorneys-general launch legal challenge to duties for alleged forced labour violations
 
 ## Andy Burnham bars serious sex offenders from early release scheme
-Prime minister insists ‘Keeping the public safe is my top priority’ after campaigners raised concerns
+Prime minister insists ‘keeping the public safe is my top priority’ after campaigners raised concerns
 
 ## AstraZeneca investors raise concerns over mega-merger talks
 Shareholders question looming patent cliff and antitrust risks in potential $400bn tie-up with Bristol Myers Squibb
@@ -21,41 +24,50 @@ Shareholders question looming patent cliff and antitrust risks in potential $400
 ## Israel’s defence minister triggers row after sacking general on TV
 Opposition decries attempt by Israel Katz to oust commander responsible for West Bank as sop to far-right voters
 
-## Apple launches legal challenge to UK attempt to access encrypted user data
-iPhone maker files complaint over latest government demand to connect to cloud backups of British users
-
 ## Aston Martin creditors threaten legal action after branding rights sale plan
 Bondholders send carmaker letter warning they may file suit aimed at unwinding HPS transaction and blocking asset disposal
+
+## Apple launches legal challenge to UK attempt to access encrypted user data
+iPhone maker files complaint over latest government demand to connect to cloud backups of British users
 
 ## Texas law firm agrees $15mn settlement over judicial scandal
 Jackson Walker admitted it failed to disclose romantic relationship between former partner and federal bankruptcy judge
 
-## AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough
-Sheer mass helps when enlarged balance sheets allow for bigger bets on potential blockbuster drugs
+## Bharat Electronics, Esri India join hands for defence projects
+Esri India and Bharat Electronics will collaborate on defence projects involving geographic information systems, location intelligence and GeoAI
 
-## Centre moves to impose MDR on UPI, extend tax breaks for contract manufacturers
-Exemptions until 2041 give a major boost to Apple
+## Sensex today | Stock Market Live: Sensex, Nifty to open stable; Asian stocks dip after US tech rally, Kospi drops nearly 2%
+Sensex, Nifty, Share Prices LIVE: Gift Nifty at 24,670 indicates stable opening of Indian markets despite Asian stock markets reeling under pressure.
 
-## KPJ Healthcare Launches First Orthopaedic and Rheumatology Centre of Excellence Under the KPJ Health System
-KPJ Healthcare Launches First Orthopaedic and Rheumatology Centre of Excellence Under the KPJ Health System
+## Tata’s battery unit Agratas turns to in-house tech for making Lithium cells amid China curbs
+The move is a deliberate pivot for Agratas after executives assessed that the chances of a technology deal with a Chinese firm are close to nil, the people said, given Beijing’s stringent restrictions on exports of critical manufacturing know-how.
 
-## Closing price discovery faces first test as CAS spikes Nifty by nearly 200 points
-The top 10 stocks contributed around 30% of the total CAS turnover on NSE
+## Telegram says app restored on Apple's App Store
+“Telegram ⁠has been ⁠restored on the App Store and ​should ‌soon be available again for all users,” Telegram ‌said.
 
-## FSSAI orders Dabur to stop selling products with misleading “100%” claims
-The regulator also flagged alleged organic labelling violations and directed Dabur India to submit an Action Taken Report within 15 days
+## Nifty to open stable on Tuesday
+Gift Nifty at 24,670 indicates stable opening of Indian markets despite Asian stock markets reeling under pressure.
 
-## Anthropic brings Claude in-country inference to India via Amazon Bedrock
-In February, Anthropic opened its Bengaluru office, since when its India team has grown, providing applied AI expertise to enterprises, digital natives, and startups building on Claude
+## WhatsApp restricts multiple accounts, users say their accounts ‘put under review’
+Affected users reported being locked out of key app functions, while WhatsApp said it aims to correct any mistaken account actions as quickly as possible.
 
-## Govt to offload 6.54% in LIC, likely to get over ₹31,000 crore
-Based on the floor price, it is expected to generate over ₹31,000 crore for the government, marking the largest OFS proceeds to date
+## KP Energy inks PPA with GUVNL for 100 MW wind project
+Under the terms of the agreement, the project involves an aggregate capacity of 100 MW at an approved tariff of ₹3.435 per unit, with the PPA running for 25 years.
 
-## Delayed justice in market violation cases makes pittance of penalties
-Investigated by multiple agencies for over two decades, the co-location case relates to allegations that certain brokers received preferential access to market data ahead of other participants
+## Stocks to watch, August 4: LIC, Arvind, Paytm, Meesho among 8 stocks to be in focus today
+Key triggers for UPL, Jupiter Wagons, Kirloskar Pneumatic
 
-## Centre proposes safety norms for two-wheeled road ambulances
-Draft rules seek dedicated regulatory framework for emergency medical motorcycles operating in rural and difficult terrain
+## Trump slams Exxon Mobil, Chevron for 'making too much money'; asks to give it back
+President Donald Trump criticized major oil companies for excessive profits. He urged Exxon Mobil and Chevron to lower consumer fuel prices. The companies reported strong quarterly earnings due to higher crude prices. Industry representatives stated prices reflect global market pressures and uncerta
+
+## Top stocks to buy today: Stock market recommendations for August 4, 2026 - check list
+Stock market recommendations: Honasa Consumer, Gland Pharma, Bata India, and Siemens - these are the top stocks to buy picked by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for August 4, 2026:
+
+## Stock Market Today Live Updates: Where are NSE Nifty50 and BSE Sensex headed?
+
+
+## Oil rebounds from three-week low as Hormuz tensions keep supply fears alive
+Oil prices saw a modest recovery on Tuesday after a significant decline. Benchmark Brent crude climbed to $84.26 and WTI crude reached $80.75. This rebound followed a sharp slide after US President Donald Trump paused military action against Iran. Shipping patterns are changing, and concerns about e
 
 ## Free is the most expensive word in public policy: Nageswaran
 
@@ -69,47 +81,41 @@ New tax law amendments are proposed by Finance Minister Nirmala Sitharaman. Thes
 ## AI fraud is hitting India’s new net users hardest: Amazon
 Protecting new online shoppers from AI scams is India's next e-commerce challenge. Amazon's trust chief highlights consumer awareness as critical for digital fraud. Generative AI creates sophisticated scams, but also aids detection efforts. Behavioral data helps distinguish genuine sellers from bad 
 
-## Consider capping rates on affordable loans: LICHF chief
+## ‘True face exposed’: Opposition slams BJP after Brij Bhushan Singh cleared in wrestlers' sexual harassment case
+After the acquittal of Brij Bhushan Singh, Vinesh Phogat stated that wrestlers who had filed a sexual harassment case will appeal against the court's decision.
 
+## No woman in cabinet after Gayathri’s name dropped from final expansion list
+Karnataka’s expanded Congress Cabinet took shape on Monday without a woman minister after Gayathri Shanthegowda, the only woman included in the list approved by the party leadership, was left out before the swearing-in ceremony
 
-## Government to sell up to 6.5% stake in LIC, may mop up Rs 31k cr
-The government is selling up to 6.5% of LIC shares through an offer for sale. This divestment aims to meet minimum public shareholding norms ahead of schedule. The offer begins Tuesday and closes Wednesday with a base price of Rs 382. Successful sale will raise approximately Rs 31,400 crore for the 
+## Cauvery crisis sparks farmers’ protest in TN
+Farmers from the Cauvery delta districts, particularly Thanjavur and Nagapattinam, on Monday demanded that the Tamil Nadu government provide adequate compensation amid poor rainfall and Karnataka’s alleged failure to release sufficient water to the state
 
-## Low-cost Asean imports worry medical device companies
-Low-priced medical device imports from China and Malaysia are impacting India's domestic manufacturing capabilities. Imports from Asean countries have increased significantly, affecting local players. Chinese products often enter India through Asean nations, exploiting free trade agreements. Domesti
+## CM raises presence of Muslims, Dalits in govt
+BENGALURU: Chief minister DK Shivakumar has expanded his Cabinet without altering the Congress’ core social coalition, retaining the party’s traditional support among Lingayats and Vokkaligas while increasing representation for Scheduled Castes and Muslims
 
-## ICICI’s add-on for post-accident hassles
+## Will show my scholarship letter if PM Modi shows his degree: Abhijeet Dipke amid US education row
+A Surat-based RTI activist had sought a probe into the finances of Dipke’s father, a retired government employee who sent his son abroad for education.
 
+## Nishikant seeks Zuckerberg’s apology over PM reel removal
+The chairperson of the Parliament’s Standing Committee on Communications and Information Technology on Monday said that Meta’s chief executive Mark Zuckerberg should apologise for the temporary removal of Prime Minister Narendra Modi’s Facebook Reel or the company could lose the “safe harbour” prote
 
-## WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours
-Affected users said they were unable to use the Meta-owned messaging app despite receiving no prior warning.
+## ‘Wake-up call’: Prashant Kishor has a message for PM Modi after big BJP upset in Bankipur
+Prashant Kishor credited his win to the ‘backing of’ disgruntled supporters of BJP, Congress and RJD and also acknowledged the role of Gen Z protests.
 
-## Every dowry harassment complaint serious, advising compromise may prove costly: Allahabad HC
-The court noted that women facing dowry harassment are often advised by their families to "compromise", "adjust" or "save the marriage".
+## SC summons top Arunachal govt officials in probe against Khandu
+The Supreme Court on Monday summoned the chief secretary and principal secretary (home) of the Arunachal Pradesh government, expressing strong displeasure over what it described as the state’s non-cooperation with a court-monitored CBI probe into allegations that chief minister Pema Khandu favoured 
 
-## FSSAI prohibits Dabur from selling food products with '100 pc' claims
-The regulator asserted that the use of the 100 per cent claims is in contravention of the FSS (Advertising & Claims) Regulations, 2018.
+## China’s outsize commodities footprint cushions global energy shocks: Goldman Sachs
+China’s outsize footprint in global commodities is helping to cushion international energy shocks and stabilise gold prices, even as its export controls on rare earths and other critical minerals trigger violent price swings in the Western technology supply chain, according to Goldman Sachs. In a re
 
-## BJP chief Nitin Nabin reacts as Prashant Kishor wrests his family seat: ‘Unexpected’
-BJP national president Nitin Nabin thanked voters in Gujarat for helping the party retain the Manjalpur Assembly seat and congratulated workers on the victory.
-
-## Prashant Kishor didn't defeat just BJP, but a Lalu Yadav and a Nitish Kumar too
-The spotlight was on Jan Suraaj Party founder Prashant Kishor breaching the BJP bastion with 64,151 vote.
-
-## 22 children dead in Gujarat's Chandipura virus outbreak; 35 infections confirmed
-Health teams are spraying pesticides in animal husbandry areas to control sandflies, which spread the virus, state health minister Praful Panseriya said.
-
-## Sheikh Hasina’s event can hit positive momentum in ties, says top aide to Bangladesh PM
-Humaiun Kobir, adviser on foreign affairs to PM Tarique Rahman, conveyed the message to Dinesh Trivedi during a meeting at the Prime Minister’s Office in Dhaka
-
-## Arunachal Pradesh’s Glaw Lake is India’s 101st Ramsar site: Bhupender Yadav
-Ramsar sites are recognised for their biodiversity, critical habitats for migratory birds, and ecological significance, such as carbon sequestration and flood control
+## China stock traders cut leveraged positions by 14% in July amid tech sell-off
+China’s stock traders have been unwinding their leveraged positions over the past month, fuelling the worst-ever stock sell-off on one major index of technology shares and undermining Beijing’s efforts to put a floor on the equity market. The outstanding value of the stock purchases financed by marg
 
 ## Why Chinese brokers forecast an A-share tech and chip rebound
 Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correcti
 
-## Chinese biotech giant Wuxi AppTec sees first-half earnings surge amid US scrutiny
-Wuxi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business. Interim net profit attributable to the owners of 
+## Chinese biotech giant WuXi AppTec sees first-half earnings surge amid US scrutiny
+WuXi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business. Interim net profit attributable to the owners of 
 
 ## Chinese EV sales falter at home as growth slows
 Chinese carmakers reported slack sales for July, igniting fears of fresh price wars, and the country’s central bank pledged to promote stable growth and continue monetary easing after the pace of economic expansion slowed in the second quarter. Electric-vehicle (EV) makers Xpeng, Nio, and Li Auto, t
@@ -122,12 +128,6 @@ On August 3, five-year Chinese treasury bond futures began trading on the Hong K
 
 ## China’s tech giants race to put AI on delivery riders’ heads
 Chinese e-commerce giant JD.com has launched a smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency. The helmet integrates
-
-## China’s social security fund boosts stakes in A-share firms in first 7 months, data shows
-China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed. “[The fund] is investing in China’s tech sector to capture its faster growth rate,” said Gary Ng, seni
-
-## Chinese EV demand cools
-–
 
 ## Iran Denies Peace Talks After the United States Cancels Military Strikes
 Trump’s “imminent” deal remains elusive.
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Salvadoran man dies in ICE custody at New Jersey detention centre
+Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.
+
+## US stocks near record high, oil falls as Trump claims Iran talks under way
+Benchmark S&P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
+
+## Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
+Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.
+
+## Does the US blockade on Cuba make America safer?
+Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.
+
+## Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms
+Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.
+
+## Trump administration sued by 25 states over new tariffs on trading partners
+The states claim the new levies are a pretext to re-impose tariffs that were ruled illegal by the US Supreme Court.
+
 ## Iran war live: Tehran denies US talks as Trump warns of ‘last chance’
 US president says talks with Iran are under way, warning the negotiations are Tehran's 'last chance' to secure a deal.
 
 ## Two workers who died in quake-hit Japan mall were sent in to get cash
 A Japanese company has admitted that two workers, who died in a shopping mall explosion following powerful earthquake.
-
-## Death toll from Venezuela earthquakes passes 6,000
-National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.
-
-## Petrol prices strain US households as oil giants Chevron, Exxon profits soar
-Low-income US households are hit hardest, spending more than 10 percent of monthly income on petrol as prices rise.
-
-## From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics
-Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.
-
-## Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown
-Alex Eala rallies past top seed Jessica Pegula in a two-day, rain-hit final, while Taylor Fritz beats teen Rafael Jodar.
-
-## Migrants await asylum in Ceuta amid hunger and thirst
-Migrants rushed to receive water and beverages in Ceuta, Spain, where many have spent days on a beach awaiting asylum.
-
-## Will Israel withdraw from Gaza if Hamas disarms?
-Israel says it has doubts about the Palestinian group laying down its weapons.
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
@@ -273,9 +273,6 @@ Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging e
 ## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
 The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
 
-## RBI likely to extend rate pause; neutral stance seen unchanged
-Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
-
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
 
@@ -290,4 +287,7 @@ The government's proposed Rs 277 crore investment in the MSME sector by 2027 is 
 
 ## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
 Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
+
+## Govt companies request RBI to extend concessional forex swap by three months
+Public sector firms want the RBI's forex swap facility extended by three months. This facility helps government companies hedge dollar costs for external borrowing.
 
