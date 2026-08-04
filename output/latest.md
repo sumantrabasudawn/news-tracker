@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US stocks jump after Bessent says deal to reopen Hormuz is imminent
+S&P 500 hits record high as Iranian and Omani negotiators agree on temporary shipping arrangement
+
+## UK to strip back procurement rules to focus on job creation, says Louise Haigh
+Burnham’s de facto deputy PM says requirements for businesses vying for Whitehall contracts will be streamlined
+
+## P&G seals $3.8bn deal for supplements company Thorne
+Consumer goods group expands its health business in a sector that has boomed since Covid pandemic
+
 ## Trump’s ex-lawyer poised to become attorney-general after ‘slush fund’ U-turn
 Todd Blanche’s nomination clears US Senate panel as Republican holdouts drop objections
 
@@ -9,20 +18,11 @@ Cost for fuel that powers industrial America set to remain elevated even as crud
 ## An overdue show of EU solidarity with Spain
 Instinct to punish Madrid’s liberal approach to migration is self-defeating
 
-## US stocks jump after Bessent says deal to reopen Hormuz is imminent
-S&P 500 hits record high as Iranian and Omani negotiators agree on temporary shipping arrangement
-
 ## Palantir rides high on greed and fear — but mostly fear
 Given its prodigious growth and the belief that this will continue, the anxiety many feel is the fear of missing out
 
 ## Early release scheme may not avert future prison crisis, say experts
 Ex-chief inspector of prisons warns of ‘real risk’ that measure will not be enough to prevent overcrowding within a few years
-
-## US labour market stable in June
-While headline vacancies fell, other indicators suggested robust economic activity
-
-## Saudi-Israel tensions could frustrate India’s IMEC dreams
-Modi banked on an India-Mediterranean corridor to rival China’s Belt and Road, but politics is getting in the way
 
 ## Spotify profits hit by heavy spending as fears build over streaming growth
 US-listed group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
@@ -38,15 +38,6 @@ Prediction platform looks to raise $1bn as it tries to gain ground on rival Kals
 
 ## Water companies feel squeeze of abstraction limits as drought deepens
 Industry group calls for government targets to be relaxed during heatwaves
-
-## Developing countries have ‘less to fear’ from AI than rich nations
-World Bank says workers in poorer economies more likely to benefit from the technology than be replaced by it
-
-## Japan’s fusion industry seeks state backing amid Middle East energy strain
-Also in today’s newsletter, oil bosses draw Trump’s ire after blockbuster earnings
-
-## FirstFT: Progressives versus traditionalists in Michigan
-Also in today’s newsletter: Google’s finance machine and the US’s new era of ‘currency activism’
 
 ## RBI MPC Meeting Highlights: RBI cuts repo rate by 25 bps to 5.25%, maintains neutral stance
 RBI MPC 2025, RBI Monetary Policy Meeting Outcomes, RBI MPC Meeting December 2025 News & Highlights: Here are the major live updates related to the latest bi-monthly RBI Monetary Policy Committee meeting.
@@ -96,17 +87,20 @@ The Ministry of Petroleum has rolled out enhanced fuel quality measures, impleme
 ## LIC OFS off to a strong start as institutional investors subscribe 66% by noon
 Institutional investors subscribed nearly two-thirds of LIC shares offered by noon Tuesday. The government aims to divest up to 6.5% of its stake through this offer. This stake sale is expected to raise approximately Rs 31,000 crore for the government. The transaction also helps LIC meet Sebi's mini
 
+## Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
+Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
+
 ## ‘My words had only one meaning’: Udhayanidhi Stalin rejects Trisha remark allegations, calls Vijay's TVK a ‘circus’
 The DMK leader alleged that the Vijay-led government edited his speech to divert attention from the Cauvery issue.
 
-## ‘I said nothing wrong’: Udhayanidhi Stalin released on bail after 10-hour detention
+## Udhayanidhi Stalin held for controversial comment, released on bail after 10 hrs
 Udhayanidhi was taken into custody by a police team from his residence in Chennai on Tuesday morning and taken to Thanjavur,
 
 ## Heavy rains lash Kerala: 25 dead, 4 missing, 10 injured; ‘red alert’ in 8 districts
 The government said 52 houses were destroyed and 565 homes were partially damaged between August 1 and August 4.
 
-## Indian-flagged ship attacked, capsizes in Red Sea, all 14 crew members rescued
-Ministry of External Affairs condemned attack on MSV Faize Noor Oliya in the Red Sea; minister says all 14 seafarers, including 13 Indians, rescued.
+## 13 Indians rescued as merchant vessel sinks after attack off Yemen coast
+Shipping minister Sarbananda Sonowal said on social media that the cargo vessel MSV Faize Noore Oliya sank after being hit by “a projectile” near Yemeni waters.
 
 ## Tharoor to attend Mumbai event where RSS chief will have ‘session with Gen Z’? He clarifies
 Tharoor clarified that the programme was not an RSS event and was instead a student-led initiative involving educationists and thought leaders.
@@ -116,9 +110,6 @@ V Anantha Nageswaran has been India's chief economic advisor since 2022.
 
 ## DMK MLA Markandeyan released on bail over remarks against CM Vijay
 Markandeyan was arrested by the Thoothukudi District Crime Branch (DCB) police on July 20.
-
-## Pakistan responded to PoK discontent with bullets, blackouts and repression: MEA
-India condemned Pakistan for using lethal force against protesters in PoK, urging global accountability for 90 civilian deaths amid ongoing violence.
 
 ## China’s MiniMax curbs overseas access to new AI video model over copyright disputes
 Chinese artificial intelligence company MiniMax has open-sourced its new H3 video model but imposed licensing conditions on users in major overseas markets including the US and European Union, underscoring the copyright challenges in generative video AI. After the Shanghai-based company released the
@@ -144,6 +135,9 @@ China’s stock traders have been unwinding their leveraged positions over the p
 ## Why Chinese brokers forecast an A-share tech and chip rebound
 Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correcti
 
+## Will Trump Destroy the Deep Oceans?
+Seabed mining is a threat to both ecology and the international order.
+
 ## India’s Political Atmosphere Has Changed
 If Modi responds to the Cockroach protesters with further repression, it could backfire.
 
@@ -164,9 +158,6 @@ Trump’s “imminent” deal remains elusive.
 
 ## A Patchwork Approach to AI Regulation Is Best—for Now
 Many want a global treaty to govern AI risk. California and New York may already be writing it.
-
-## China’s Quiet Bet on Methanol Is Paying Off
-An abandoned project reveals why industrial policy must preserve technological options.
 
 ## As World Bank Retreats From Climate Targets, India’s Most Vulnerable Could Pay the Price
 Most climate finance goes where it is easiest to lend. Embankments, water systems, shade, and shelters that save lives and livelihoods in villages struggle to find funding.
@@ -240,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Three lionesses die in Tokyo zoo as heatwave scorches East Asia
-A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.
+## Telegram says Apple suspension followed content norms violation by one user
+Apple said its review found the content had violated guidelines prohibiting child sexual abuse material.
 
-## Jordan FA chief accuses FIFA’s Infantino of ‘blackmail’ over endorsement
-Fallout from failed FIFA World Cup selloff continues, as Jordan FA president joins list of Gianni Infantino detractors.
+## Kazakhstan releases first tiger to restore extinct species
+Kazakhstan has released the first Amur tiger in the wild in more than 70 years to help restore the extinct Caspian tiger
 
-## Real Madrid: Vinicius Junior drops huge future hint amid Arsenal interest
-Brazil's Vinicius has been linked to Arsenal and Manchester United, but heaps praise on new Real coach Jose Mourinho.
+## White House to meet AI firms on advanced model safety
+The White House confirmed Tuesday’s meeting to address advanced model safety amid recent high-profile hacking incidents.
 
-## Republicans clear Todd Blanche for top US Justice Department role
-Blanche's nomination now goes to the full US Senate for a vote.
+## DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim
+While FBI poll monitoring not new, US lawmakers raise alarm amid Trump's years-long claims of election fraud.
 
-## Senate Democrat’s report says major banks ‘looked the other way’ on Epstein
-The report accuses banks of failing to meet their legal requirements to flag suspicious activity and calls for a probe.
+## Mass funeral held for 112 members of two Palestinian families
+Palestinians in Gaza held a mass funeral for 112 members of the Abu Sharia and al-Hasayna families.
 
-## Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack
-Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.
+## ‘Maximum use’: Iran boosts military strength during ceasefire with US
+IRGC spokesman Hossein Mohebbi said last month that Iran's missile production rate increased during the ceasefire.
 
-## EU offers emergency aid to Spain to strengthen Ceuta border
-EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week
+## Rubio: Progress made to reopen Strait of Hormuz
+Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz.
 
-## Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title
-Former Saudi Arabia and Tunisia coach Herve Renard returns to Ivory Coast in attempt to repeat 2015 AFCON success.
+## Why did the US economy slow down?
+The US economy slowed more than expected, but it's not because Americans stopped spending. So what really happened?
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
@@ -291,9 +282,6 @@ India's wealth creation story is becoming increasingly entrepreneurial. Nearly t
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
-## RBI likely to extend rate pause; neutral stance seen unchanged
-Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
-
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
 
@@ -308,4 +296,7 @@ The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation
 
 ## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
 The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
+
+## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
+Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
 
