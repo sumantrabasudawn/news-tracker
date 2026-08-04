@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Toyota plans $6.3bn buyback as weak yen boosts outlook
+World’s biggest carmaker expects to sell more than 5mn hybrid electric vehicles this year
+
+## Ukrainian drones hit Wildberries warehouses in overnight strikes
+Russian retailer has become a key target for Kyiv as it aims to bring Putin’s war closer to home
+
+## Burnham bars serious sex offenders from early release scheme
+Prime minister insists ‘keeping the public safe’ is his priority after campaigners raised concerns
+
+## Segro accepts £14bn takeover offer from US rival Prologis
+Deal adds to spate of takeovers of London-listed companies after acquisitions of Schroders and Intertek
+
 ## Yen intervention = US self-preservation
 More thoughts on why it’s happening
 
@@ -12,53 +24,53 @@ Morocco’s absolute ruler Mohammed VI turned Spain’s border into leverage ove
 ## The $400bn megadeal brewing in big pharma
 AstraZeneca’s talks with Bristol Myers Squibb could create the world’s fourth-largest drugmaker by market value
 
+## BP to sell $4bn US biogas business as profits more than double
+UK oil major has had several approaches for its North Sea assets, says chief
+
+## HSBC resumes share buybacks as quarterly profits soar to $10.1bn
+Wealth management and insurance business in Hong Kong boosts Europe’s biggest lender
+
 ## Spanish stocks offer a sunny escape for tech-weary investors
 But the country’s relative isolation from AI may not last
-
-## Italy and Germany’s censure of Spain’s migrant amnesty is ‘hypocritical’
-Rights groups say Rome and Berlin have used similar policies to regularise the status of unauthorised immigrants
-
-## Inside Google’s $200bn Wall Street finance machine for Anthropic
-Private credit, chip leases and data centre guarantees underpin a vast new model for AI spending
-
-## Tory party rebuilds relations with UK business after rocky two years
-Corporate Britain is gaining confidence in Kemi Badenoch after a revolving door of shortlived Conservative leaders
-
-## HSBC resumes share buybacks as quarterly profit soars to $10.1bn
-Europe’s largest lender boosted by wealth management and insurance business in Hong Kong
 
 ## Infantino is not the problem
 Fifa’s regulatory functions must be separated from its commercial activities
 
-## Companies linked to top health official and husband received £2bn in public contracts
-Samantha Jones or spouse held financial interests in G Square Capital private equity business
-
-## Offshore firm Mourant sells stake in private equity rush for legal deals
-Investor MML buys 27% of Jersey-based law firm that operates in tax havens around the world
-
-## Sensex today | Stock Market Live: Sensex down 100 pts, Nifty near 24,500 as CAS correction weighs; RBI MPC meet outcome in focus
+## Sensex today | Stock Market Live: Sensex down 300 pts, Nifty slips 300 pts to 24,470 as CAS correction weighs; RBI MPC meet outcome in focus
 Sensex, Nifty, Share Prices LIVE: Benchmark indices opened Tuesday’s session on a weak note, with the Nifty 50 trading lower by 175 points and the Sensex slipping modestly, as markets corrected after Monday’s sharp rally that analysts attributed partly to a technical distortion from the new Closing 
 
-## Q1 Results Today Live: Godrej Properties con. PAT declines 42%, Bharti Airtel, ONGC, Pidilite, Marico, Nykaa, Bharti Hexacom, NHPC, MCX, Kalyan Jewellers, Alembic, RITES, Zydus Wellness to announce Q1 results
+## Dr Reddy’s Laboratories launches Sugammadex injection in US
+Sugammadex Injection is indicated for the reversal of neuromuscular blockade induced by rocuronium bromide and vecuronium bromide in adult and pediatric patients
+
+## Apple briefly removed Telegram from App Store after sexual abuse content violated guidelines
+The company said it restored the app ​after ‘the developer promptly ‌removed the content and banned the user who ‌posted it’
+
+## Q1 Results Today Live: Pidilite, Graphite, Alembic, Wonderla Holidays Q1 PAT rise, Godrej Properties & Zydus Wellness con. PAT decline, Bharti Airtel, ONGC, Marico, Nykaa, Bharti Hexacom, NHPC, MCX, Kalyan Jewellers to announce Q1 results
 Q1 Results Today, 4th August 2026 Live Updates: Follow businessline for more
 
-## Apple seeks preliminary injunction against OpenAI in trade secrets case
-Apple ​last month sued OpenAI and the two ⁠former employees, both now working for OpenAI, alleging misappropriation of its trade secrets
+## India extends anti-dumping duty on 4 products in July; imposes duty on one
+Duties were extended on untreated fumed silica; arylides; seamless tubes, pipes and hollow profiles of iron, alloy or non-alloy steel; and normal butanol
 
-## Udhayanidhi Stalin detained over remarks against Tamil Nadu CM; political row deepens
-It is alleged that he made the comments after the public chanted an actress’s name while he was criticising the Chief Minister, sparking political controversy
+## Canara HSBC Life Insurance simplifies claims process for families affected by the Assam floods
+Canara HSBC Life Insurance simplifies claims process for families affected by the Assam floods
 
-## SAMHI Hotels posts 30% profit jump, stock slides
-Revenue per available room rose 9.6% year-on-year to ₹5,219, on a same-store basis, while occupancy improved to approximately 79.3% from 74.2% in Q1 FY26
+## Jio-BlackRock enters India's ETF market with Nifty 50 fund
+The ETF will ‌track the Nifty ‌50 Index, ⁠giving investors an exposure to ⁠India’s 50 largest listed companies through a single investment
 
-## Promoter entity Adani Infra buys 1.03% stake in Adani Green Energy for ₹2,380 cr
-After the transaction, shares of Adani Green Energy Ltd (AGEL) rose 1.48 per cent to ₹1,415.60
+## Air India's Phuket-Delhi flight experiences turbulence; 12 people onboard suffer injuries
+Air India said there have been no reports of serious injuries.
 
-## CAS imbroglio: NSE clarifies all is well
-As both BSE and NSE have separate order books, closing price bound to vary, says NSE
+## Income tax refund: How soon after filing ITR can you expect your refund to be issued?
+With the filing window now closed for most salaried taxpayers, attention has shifted to income tax refunds. Taxpayers who have filed and successfully e-verified their returns are now awaiting the refund process.
 
-## India bonds pause before RBI policy, debt supply
-The benchmark 6.94% 2036 bond yield ⁠was flat at 6.8346%
+## Indian refiners maximise: Fuel exports hit 1-yr high as robust margins, Russia diesel export ban help
+According to shipping data from analytics firm Kpler, India exported 1.53 million barrels per day (bpd) of refined fuels during July. This is about 27% higher than the average monthly volume over the previous 12 months.
+
+## Friendship with benefits: Why Trump is helping Japan rescue the yen
+The United States and Japan have jointly intervened to support the Japanese yen's value. This unprecedented action aims to stabilize the currency after its significant decline. Washington's involvement signals broader economic and financial system concerns beyond Japan. The intervention seeks to pro
+
+## Gold price prediction today: Will gold prices stay range-bound in the current scenario? Check August 4, 2026 outlook
+Gold price prediction today: Gold prices will continue to be influenced by US-Iran talks and macroeconomic data in America which would likely provide direction to the Federal Reserve on its rate decisions, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
 ## BSE Sensex trades in green, Nifty50 slips in red: Why benchmark indices moved opposite?
 Indian stock market indices Nifty50 and BSE Sensex diverged due to a new closing auction session. This new mechanism replaced the volume-weighted average price for price discovery. The exchange clarified that this divergence was not an anomaly but a result of the new process. The closing price is no
@@ -72,44 +84,38 @@ President Donald Trump criticized major oil companies for excessive profits. He 
 ## Top stocks to buy today: Stock market recommendations for August 4, 2026 - check list
 Stock market recommendations: Honasa Consumer, Gland Pharma, Bata India, and Siemens - these are the top stocks to buy picked by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for August 4, 2026:
 
-## Stock market today: BSE Sensex opens over 150 points up, NSE Nifty50 dips to 24,600
+## Meta global team summoned in India on August 5-6, says IT Secretary
+Govt summons Meta global team in India on August 5-6, says IT Secretary S Krishnan.
 
+## From Sanatana row to alleged remarks against Trisha: The many controversies of Udhayanidhi Stalin
+As Stalin denies any wrongdoing, this is not the first time his remarks have sparked a row.
 
-## Oil rebounds from three-week low as Hormuz tensions keep supply fears alive
-Oil prices saw a modest recovery on Tuesday after a significant decline. Benchmark Brent crude climbed to $84.26 and WTI crude reached $80.75. This rebound followed a sharp slide after US President Donald Trump paused military action against Iran. Shipping patterns are changing, and concerns about e
+## UP govt to shower flowers from sky on kanwariyas in 7 western districts
+UP plans helicopter flower showers for kanwariyas across 7 western districts
 
-## Free is the most expensive word in public policy: Nageswaran
+## Constable injured as two groups of Kanwariyas clash in Uttar Pradesh’s Meerut
+Police counselled the two groups and warned them against repeating such behaviour before allowing them to continue their journey
 
+## Groww Foundation, JLF launch publishing programme for aspiring writers
+Groww Foundation, JLF launch publishing programme for aspiring writers
 
-## Lower min age for MD, directors to 18: Parliamentary panel
-A parliamentary panel suggests lowering the minimum director age to eighteen years. The committee also backs raising the maximum director age to seventy-five years. Special NCLT benches for insolvency matters are recommended for efficient asset resolution. The panel proposes retaining the ten crore 
+## Air India Phuket-Delhi flight drops 300 feet after turbulence; 10 passengers, 4 crew injured
+The Air India aircraft on Tuesday experienced a sudden drop in its altitude, likely caused due to turbulence.
 
-## What did Udhayanidhi Stalin say on actor Trisha that led to his detention?
-Stalin said what can be roughly translated to, “Water comes or not, the water should come. I meant the Cauvery,” as people around him cheered and hooted.
+## ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over allegedly offensive remarks
+The DMK trained its guns on the ruling TVK and Tamil Nadu chief minister Vijay and said that Udhayanidhi's detention was based on “false and fabricated” claims.
 
-## Did Narottam Mishra's ticket snub cost BJP the Datia bypoll?
-Narottam Mishra represented the Datia constituency for three terms after first winning it in 2008.
+## Dabur asked to stop sale of honey, other products with '100%' claims. Here's why
+FSSAI directed Dabur India Limited issued the prohibition order saying such claims were ‘ambiguous and unverifiable’.
 
-## 'Remarks were directed at BJP, not at students': Priyank Kharge clarifies comment on police recruitment exams
-Priyank Kharge clarified that his comments were aimed at the BJP’s demand for his resignation and not at students who appeared for the examination.
+## Could China’s new trust tax pull Pan Shiyi’s wealth into capital flight spotlight?
+China’s ultra-rich are finding themselves under greater scrutiny as new tax rules on offshore trusts raise questions over their fortunes, with New York-based property tycoon Pan Shiyi’s Cayman structure cast back into the spotlight. Market watchers said the rules – which impose a flat 20 per cent le
 
-## Siddhivinayak Temple Trust calls for audit after MNS chief Raj Thackeray claimed donation theft
-The audit comes after MNS chief Raj Thackeray said that trustees of the temple had written to Eknath Shinde, alleging a theft of ₹18 cr from the donation box.
+## Europe’s new EV power struggle sees Chinese giants seize record market share
+Chinese electric vehicle (EV) makers and Tesla are locked in a tug of war across western Europe, taking advantage of rising consumer demand for battery-powered vehicles as volatile oil prices drive buyers away from traditional models. Chinese brands – including BYD to Xpeng – saw their combined mark
 
-## Andhra intensifies search for elusive royal bengal tiger ‘Explorer’, livestock attacks
-The Andhra Pradesh forest department is tracking a male tiger named Explorer, which has roamed the Godavari region for six months, causing livestock attacks.
-
-## Udhayanidhi Stalin detained after TVK's complaint over his alleged remarks against Trisha Krishnan
-Vijay's TVK alleged that Udhayanidhi Stalin made an obscene and double-meaning remark after the crowd at a public meeting chanted Trisha's name.
-
-## President Murmu undertakes 170-km train journey on 2nd day of Odisha visit
-President Murmu undertakes 170-km train journey on 2nd day of Odisha visit
-
-## Which Dabur products are banned from using 'misleading' 100% claims? Full list
-The food regulator added that this action comes after no action was taken by Dabur India during previous notices sent to the company.
-
-## HSBC sets aside US$1 billion for first share buy-back since October
-HSBC – the top lender in Hong Kong – resumed its share repurchase programme for the first time since October on Tuesday, earmarking US$1 billion to buy back shares over the next three months, according to a stock exchange filing. The bank said in October it had to pause share buy-backs for three qua
+## HSBC share price drops following lower-than-expected US$1 billion buy-back
+The share price of HSBC Holdings fell 2.5 per cent on Tuesday afternoon following the lender’s announcement of a lower-than-expected share buy-back. HSBC – the top lender in Hong Kong – resumed its share repurchase programme for the first time since October on Tuesday, earmarking US$1 billion to buy
 
 ## China’s outsize commodities footprint cushions global energy shocks: Goldman Sachs
 China’s outsize footprint in global commodities is helping to cushion international energy shocks and stabilise gold prices, even as its export controls on rare earths and other critical minerals trigger violent price swings in the Western technology supply chain, according to Goldman Sachs. In a re
@@ -125,12 +131,6 @@ WuXi AppTec, Asia’s largest provider of contract pharmaceutical research, post
 
 ## Chinese EV sales falter at home as growth slows
 Chinese carmakers reported slack sales for July, igniting fears of fresh price wars, and the country’s central bank pledged to promote stable growth and continue monetary easing after the pace of economic expansion slowed in the second quarter. Electric-vehicle (EV) makers Xpeng, Nio, and Li Auto, t
-
-## Multinational giants defy China’s sluggish retail market with strong 2026 sales
-Major consumer goods multinationals – including Coca-Cola and Unilever – have reported strong sales growth in China during the first half of the year, indicating continued opportunities in the world’s second-largest consumer market despite headwinds. The revenue figures disclosed in corporate exchan
-
-## Hong Kong’s Chinese bond futures are a major step for the global yuan
-On August 3, five-year Chinese treasury bond futures began trading on the Hong Kong stock exchange. Market attention has focused on the new product, but its real significance emerges when set against the deep shifts under way in the international monetary system. History offers a clear lesson: no cu
 
 ## Iran Denies Peace Talks After the United States Cancels Military Strikes
 Trump’s “imminent” deal remains elusive.
@@ -180,6 +180,12 @@ A cross-border energy project deals with the impact of two conflicts.
 ## For a Gen Z Revolt, Pakistan Needs a Cause, Not a Captain
 Imran Khan is undoubtedly popular. But building a protest movement that revolves around Khan and his freedom immediately excludes half the population.
 
+## A Conversation with the Pentagon’s Chief Buyer, Under Secretary Michael P. Duffey
+Under Secretary of Defense for Acquisition and Sustainment Michael P. Duffey joins Jonathan to discuss the Pentagon’s ongoing acquisition transformation. Their conversation spans the recent munitions agreements, industry investments, the shift to portfolio acquisition executives, allied coproduction
+
+## Is Washington Rewriting the North American Trade Agreement Around China?
+Washington has repeatedly used trade policy and U.S. market access over the past decade to advance broader economic security priorities with its trading partners. The Trump administration’s decision not to renew the U.S.-Mexico-Canada Agreement on July 1, during a mandatory six-year review, is the l
+
 ## Why Egypt’s Opinion of Ukraine Matters, Now and Later
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
@@ -197,12 +203,6 @@ The most successful deterrent threats leave no evidence behind. No missiles fly.
 
 ## How Mexico Locked In Its Militarized Police State
 In 2021, Andrew Ivey wrote, “‘I Have Other Data’: The Guardia Nacional and the Entrenchment of Mexico’s Militarization’,” where he warned Mexico was headed toward a militarization trap. Five years later, amidst increased pressure from the Trump administration and the election of a new Mexican presid
-
-## ASML’s Extreme Ultraviolet Lithography and the Limits of Reverse Engineering in China
-In June, the U.S. Department of Commerce informed the Dutch company ASML that it suspects one of its extreme ultraviolet lithography machines has reached China, an accusation that ASML denied, and for which no supporting evidence has yet been made public. ASML is the sole global producer of the mach
-
-## Parsing Trump’s Decision to (Maybe) Give Uranium Enrichment to Saudi Arabia
-On June 22, the United States announced that it had signed a nuclear cooperation agreement with Saudi Arabia. This type of agreement broadly authorizes trade in nuclear technology, equipment, and materials, but only if the agreement and the country in question meet defined nonproliferation requireme
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Cars burn in reported settler attack in occupied West Bank
+Cars burn in reported settler attack in occupied West Bank
+
+## We demand accountability for the Beirut blast
+Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.
+
+## UEFA confirm legal letter served to FIFA after Infantino World Cup plan
+UEFA confirm to Al Jazeera a preservation letter is with FIFA following failed Gianni Infantino-led World Cup sell-off.
+
+## US arrests suspect over Spokane wildfire as tens of thousands flee blaze
+Authorities say about 65,000 people have been displaced by the fires in Washington state.
+
+## Nascimento: UFC fighter dead at 34 after apparent heart attack
+The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.
+
 ## Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal
 Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a 'breakthrough'.
 
@@ -237,23 +252,11 @@ Why Spokane's wildfires spread so fast, what caused them and why Washington is f
 ## Bodycam video shows firefighters battling blaze in Spokane, US
 Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.
 
-## Colombia’s Petro repeats vote fraud claims days before handing over power
-Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.
-
-## Pochettino agrees to coach men’s US Soccer through 2030 World Cup
-Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.
-
-## Salvadoran man dies in ICE custody at New Jersey detention centre
-Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.
-
-## US stocks near record high, oil falls as Trump claims Iran talks under way
-Benchmark S&P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
-
-## Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
-Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.
-
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
+
+## Joint panel seeks to curb NFRA's powers, backs lower penalties and greater government oversight
+A parliamentary committee proposed limiting the National Financial Reporting Authority's powers. It also recommended reducing proposed penalties and preserving government oversight. The panel backed decriminalizing business laws and rationalizing penalties for non-compliance. It cautioned against re
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
@@ -272,9 +275,6 @@ Modi said India’s youth have driven growth in mobile manufacturing, startups a
 
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
-
-## 30,745 insolvency applications involving Rs 13.94 lakh crore settled before admission, says MCA
-Annual Report 2025–26 says the Insolvency and Bankruptcy Code is encouraging early settlement of financial distress, with creditors recovering Rs 4.11 lakh crore through approved resolution plans and realising 171.54 per cent of liquidation value.
 
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
