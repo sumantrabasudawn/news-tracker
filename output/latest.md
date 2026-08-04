@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## US stocks jump after Bessent says deal to reopen Hormuz is imminent
-S&P 500 hits record high as Iranian and Omani negotiators agree on temporary shipping arrangement
+## FirstFT: SpaceX surpasses analysts’ expectations in debut earnings report
+Also in today’s newsletter: India proposes widening tax exemptions for foreign investors and Malaysia’s $100bn ‘cursed island’
 
-## UK to strip back procurement rules to focus on job creation, says Louise Haigh
-Burnham’s de facto deputy PM says requirements for businesses vying for Whitehall contracts will be streamlined
+## ‘Two very different characters’: Miliband and Rubio to meet in Washington
+Foreign secretary to discuss Strait of Hormuz, Ukraine and Gaza with US counterpart
 
-## P&G seals $3.8bn deal for supplements company Thorne
-Consumer goods group expands its health business in a sector that has boomed since Covid pandemic
+## SpaceX posts 92% rise in revenue in debut earnings report
+Elon Musk’s company outperformed analyst expectations in second quarter but shares dropped as much as 8%
 
 ## Trump’s ex-lawyer poised to become attorney-general after ‘slush fund’ U-turn
 Todd Blanche’s nomination clears US Senate panel as Republican holdouts drop objections
 
+## Trump administration refunds $100bn in ‘liberation day’ tariffs
+US customs officials repay about 60% of the levies that were struck down by the Supreme Court
+
+## India raises $40bn from diaspora to support sagging rupee
+Central bank’s rare push to repatriate savings has drawn stronger than expected inflows
+
+## US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO
+Carmaker’s new boss predicts industry ‘shakeout’ and announces $1.4bn cost-cutting programme
+
+## US stocks jump after Bessent says deal to reopen Hormuz is imminent
+S&P 500 hits record high as Iranian and Omani negotiators agree on temporary shipping arrangement
+
+## P&G seals $3.8bn deal for supplements company Thorne
+Consumer goods group expands its health business in a sector that has boomed since Covid pandemic
+
 ## US diesel prices overtake Biden-era average in blow to Trump
 Cost for fuel that powers industrial America set to remain elevated even as crude falls
 
-## An overdue show of EU solidarity with Spain
-Instinct to punish Madrid’s liberal approach to migration is self-defeating
-
 ## Palantir rides high on greed and fear — but mostly fear
 Given its prodigious growth and the belief that this will continue, the anxiety many feel is the fear of missing out
-
-## Early release scheme may not avert future prison crisis, say experts
-Ex-chief inspector of prisons warns of ‘real risk’ that measure will not be enough to prevent overcrowding within a few years
 
 ## Spotify profits hit by heavy spending as fears build over streaming growth
 US-listed group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
@@ -32,12 +41,6 @@ Aggressive tactics are prompting increased regulatory scrutiny
 
 ## MFS administrators sue Barclays after accounts access frozen
 Creditors of failed UK mortgage provider try to recoup assets amid allegations of double pledging
-
-## Polymarket in fundraising talks at valuation of more than $20bn
-Prediction platform looks to raise $1bn as it tries to gain ground on rival Kalshi
-
-## Water companies feel squeeze of abstraction limits as drought deepens
-Industry group calls for government targets to be relaxed during heatwaves
 
 ## RBI MPC Meeting Highlights: RBI cuts repo rate by 25 bps to 5.25%, maintains neutral stance
 RBI MPC 2025, RBI Monetary Policy Meeting Outcomes, RBI MPC Meeting December 2025 News & Highlights: Here are the major live updates related to the latest bi-monthly RBI Monetary Policy Committee meeting.
@@ -135,6 +138,9 @@ China’s stock traders have been unwinding their leveraged positions over the p
 ## Why Chinese brokers forecast an A-share tech and chip rebound
 Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correcti
 
+## Iran’s ‘Last Chance’ for Peace Talks
+Qatar confirms that indirect U.S.-Iran negotiations are making progress.
+
 ## Will Trump Destroy the Deep Oceans?
 Seabed mining is a threat to both ecology and the international order.
 
@@ -155,9 +161,6 @@ A new book describes the destruction of Palestinian life street by street.
 
 ## Iran Denies Peace Talks After the United States Cancels Military Strikes
 Trump’s “imminent” deal remains elusive.
-
-## A Patchwork Approach to AI Regulation Is Best—for Now
-Many want a global treaty to govern AI risk. California and New York may already be writing it.
 
 ## As World Bank Retreats From Climate Targets, India’s Most Vulnerable Could Pay the Price
 Most climate finance goes where it is easiest to lend. Embankments, water systems, shade, and shelters that save lives and livelihoods in villages struggle to find funding.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Telegram says Apple suspension followed content norms violation by one user
-Apple said its review found the content had violated guidelines prohibiting child sexual abuse material.
+## Funeral for family killed in US strike on Iran’s Qeshm Island
+The funeral for a couple and their toddler took place after they were killed in the US strike on Iran's Qeshm Island.
 
-## Kazakhstan releases first tiger to restore extinct species
-Kazakhstan has released the first Amur tiger in the wild in more than 70 years to help restore the extinct Caspian tiger
+## Death toll rises to 87 in India’s flood-stricken Assam
+Flood victims in India’s Assam district are living in makeshift shelters after monsoon rains caused widespread flooding.
 
-## White House to meet AI firms on advanced model safety
-The White House confirmed Tuesday’s meeting to address advanced model safety amid recent high-profile hacking incidents.
+## Six years on, Beirut blast families still await justice
+Families of victims of the Beirut port blast marked six years since the explosion by demanding truth and accountability.
 
-## DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim
-While FBI poll monitoring not new, US lawmakers raise alarm amid Trump's years-long claims of election fraud.
+## National Guard deployment to Washington, DC will cost US roughly $1.4bn
+The figure offers a glimpse of how much taxpayer money will be spent on a deployment that has been widely criticised.
 
-## Mass funeral held for 112 members of two Palestinian families
-Palestinians in Gaza held a mass funeral for 112 members of the Abu Sharia and al-Hasayna families.
+## US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks
+Negotiators are working to expand safe shipping through the strait, though key differences remain unresolved.
 
-## ‘Maximum use’: Iran boosts military strength during ceasefire with US
-IRGC spokesman Hossein Mohebbi said last month that Iran's missile production rate increased during the ceasefire.
+## US court deals blow to Trump’s bid to scrap climate grant programme
+A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.
 
-## Rubio: Progress made to reopen Strait of Hormuz
-Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz.
+## How much of a challenge are wildfires to Europe?
+Rapidly spreading blazes are scorching the continent.
 
-## Why did the US economy slow down?
-The US economy slowed more than expected, but it's not because Americans stopped spending. So what really happened?
+## ‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral
+Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
@@ -282,6 +285,9 @@ India's wealth creation story is becoming increasingly entrepreneurial. Nearly t
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
+## RBI likely to extend rate pause; neutral stance seen unchanged
+Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
+
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
 
@@ -296,7 +302,4 @@ The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation
 
 ## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
 The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
-
-## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
-Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
 
