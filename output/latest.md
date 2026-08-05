@@ -1,5 +1,26 @@
 # AION Intelligence
 
+## Musk’s SpaceX unnerves investors with lavish AI spending plans
+Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled
+
+## US bans exports of various used critical minerals
+Washington announces year-long ban on overseas sales of scrap tungsten and ‘black mass’
+
+## Burnham rewires the ‘unaccountable’ state
+Prime minister’s opening devolution gambit does not lack ambition
+
+## Glencore plans secondary listing in Australia
+Miner has long complained its London shares are undervalued
+
+## Solid wage growth keeps BoJ on course for tightening
+Japan’s headline and real wage growth were above expectations in June
+
+## India raises $40bn from diaspora to support sagging rupee
+Central bank’s rare push to repatriate savings has drawn stronger than expected inflows
+
+## Russian bombardment kills 17 in Kyiv as Ukraine runs low on interceptors
+Patriot interceptor stocks are depleted as retaliatory 40-day air campaign expires
+
 ## Bank of England: QT bye?
 The case for active quantitative tightening is getting weaker
 
@@ -18,38 +39,35 @@ An exodus of litigation partners expands the talent war beyond dealmakers
 ## SpaceX bolsters the case against quarterly earnings
 What has happened to the finances of Elon Musk’s rocket maker over the past three months is pretty irrelevant
 
-## UK’s ability to make medicines and missiles hit by decline of chemicals industry
-Rate of UK chemical company closures doubled between 2020 and 2025, study finds
+## Q1 Results Today Live: Whirlpool Q1 PAT declines 34%, Shilpa Medicare, Cheviot Company Q1 PAT rise, Power Grid, Cummins, GE Vernova, Aurobindo Pharma, PB Fintech, Biocon, Berger Paints, Aster DM, Navin Fluorine to announce Q1 results
+Q1 Results Today, 5th August 2026 Live Updates:
 
-## Paradise Papers law firm explores private equity sale
-Appleby, once at the centre of offshore data leak, draws up list of potential investors
+## Sensex today | Stock Market Live: Sensex, Nifty slip into the red by mid-session; RBI keeps repo rate unchanged at 5.25%
+Sensex, Nifty, Share Prices LIVE: Sensex declined 110.78 pts or 0.14% to 78,318.17; and Nifty 50 fell 111.55 pts or 0.45% to 24,503.35.
 
-## Pressure on UK bank earnings peeks out from behind the hedge
-Strong headline figures mask some pressures that lie underneath the surface
+## Tamil Nadu Budget 2026: Government announces ₹1 Lakh subsidy for rooftop solar under PM SuryaGhar
+A system for installing smart meters will also be introduced for all consumers in Chennai city, as well as for 50 lakh industrial and commercial consumers across other parts of the state
 
-## Tamil Nadu Budget 2026 Live: We aim to reach $1.5 trillion economy by 2035-36: Finance Minister Marie Wilson
-TN Budget 2026-27 Updates & Announcements: Amid a charged political atmosphere, the Tamil Nadu Finance Minister Marie Wilson is presenting his maiden budget in the Tamil Nadu Legislative Assembly.
+## AMD falls as investors seek bigger AI payoff
+The shares were last down 7.4% ‌at $480.28, set to wipe out about $61.1 billion ‌from ⁠AMD's market value.
 
-## TVK govt sets sight on $1.5 trillion economy by 2031
-In his address to the Legislative Assembly, the Finance Minister lauded the leadership of Chief Minister Vijay, stating that his entry into public service was driven by a moral obligation to the people
+## TONGWEI Secures Fourth Consecutive Fortune Global 500 Listing
+TONGWEI Secures Fourth Consecutive Fortune Global 500 Listing
 
-## Sensex today | Stock Market Live: RBI keeps repo rate unchanged at 5.25%; Sensex jumps 405 pts to 78,834; Nifty edges up 18 pts to 24,633
-Sensex, Nifty, Share Prices LIVE: The benchmark indices Sensex and Nifty edged lower in the morning session on Wednesday, after the RBI held the repo rate steady at 5.25%. At 11.14 am, Sensex gained 404.81 pts or 0.52% to 78,833.76; and Nifty 50 inched up 17.90 pts or 0.07% to 24,632.80 The top gain
+## Para Light Launches ThermaFlat™ SiC MOSFETs to Break the Thermal Barrier in High-Power Applications
+Para Light Launches ThermaFlat™ SiC MOSFETs to Break the Thermal Barrier in High-Power Applications
 
-## Freshworks beats guidance estimates to post 16% revenue growth in Q2 2026
-SaaS firm posts net profit, raises full-year guidance; hits GAAP profitability ahead of plan
+## Essar Energy Transition secures $400 million in financing
+The development strengthens the company’s balance sheet, enhancing working capital efficiency, and supporting its long-term growth and decarbonisation strategy
 
-## Xiong'an: Where a better city means a better life
-Xiong'an: Where a better city means a better life
+## Tamil Nadu targets industrial push with new policy, AI-powered investor services and ₹3,200-crore industrial parks
+For the MSME sector, the Budget earmarks ₹225 crore under the Tamil Nadu Women Entrepreneurs Empowerment Scheme and ₹352 crore under the Capital Subsidy Scheme
 
-## Airtel Q1 results beats estimates; stock slips marginally
-Consolidated EBITDA came in at ₹33,599 crore, reflecting a margin of 57.4 per cent
+## India to get its first plastic notes next year: RBI governor shares timeline, explains benefits
+The government has authorised the Reserve Bank of India to print up to 2 billion polymer (plastic) notes - 1 billion each in the Rs 10 and Rs 20 denominations for field trials. At present, there is no proposal to replace paper currency entirely.
 
-## RBI MPC Meeting 2026 Live: RBI keeps repo rate unchanged, neutral stance to continue
-The repo rate has been unchanged since Dec 2025 RBI Monetary Policy meet and the neutral stance has been maintained since June 2025 in the past 7 RBI MPC meets
-
-## Elevation Capital, Peak XV Partners sell 2.3% stake in Meesho for ₹1,949 crore; stock falls
-The transactions were executed on Tuesday at an average price of ₹186 apiece, taking the aggregate deal size to ₹1,949.28 crore, as per the data
+## ‘Someone has to pay the cost’: RBI governor on MDR proposal for UPI transactions above Rs 2,000
+According to official estimates, the Rs 2,000 threshold would cover only around 5% of all UPI transactions, although these account for nearly 65% of the total value processed on the platform. As a result, routine purchases such as milk, vegetables, groceries, or payments for auto-rickshaws and taxis
 
 ## Gold price prediction today: Is the worst over for gold? Check August 5, 2026 outlook
 Gold price prediction today: Recent gold price trends suggest that the worst of the downside may be behind us, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers. Early this week, bullion has started on a firmer footing, supported by a weaker US d
@@ -69,35 +87,38 @@ In an impressive first quarter, Bharti Airtel recorded a remarkable profit surge
 ## SpaceX's first earnings: Revenue soars to $7.8 billion in debut results
 SpaceX has reported a reduced loss alongside increased revenue, mainly driven by its burgeoning Starlink business. With ambitions to dominate global internet services, Starlink's subscriber count has now doubled. The company is heavily investing in artificial intelligence and infrastructure, aiming 
 
-## Nykaa posts over 3x profit in Q1 on strong beauty biz
+## SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+The court said any grievance against the resolution can be best addressed through the democratic process under the association’s rules
 
+## Goa child rights panel directs ban on minor’s entry into casino vessels
+Offshore casinos in Goa that operate on the River Mandovi were allegedly allowing children to enter the vessels in violation of the law until a group of activists raised the issue
 
-## Brent falls to $80, goverment vows to mitigate volatility
+## Three Maoists carrying ₹22 lakh bounty arrested in Jharkhand: Police
+An AK-47 assault rifle, a pistol, two magazines , walkie-talkie and large cache of ammunition have been recovered from their possession
 
+## Devendra Mahto, student leader on hunger strike in Jharkhand, drinks water on call with Wangchuk | Watch
+After his call with Sonam Wangchuk, Mahto told reporters that he will only consume water and salt till the government listens to the protesters.
 
-## TN fin min Wilson praises CM Vijay as 'true Jananayagan'
-TN fin min Wilson praises CM Vijay as 'true Jananayagan'
+## CJP to act as a 'pressure group': Abhijeet Dipke shifts focus to E20 after NEET protest
+Core members of Cockroach Janta Party are currently holding a meeting in Maharashtra’s Chhatrapati Sambhajinagar.
 
-## TVK govt presents first Budget in Assembly, Fin Min hails Vijay for halting kickbacks in tenders
-TVK govt presents first Budget in Assembly, Fin Min hails Vijay for halting kickbacks in tenders
+## SIAM's now-withdrawn letter: What the science says about chloride, moisture and your E20 petrol
+Industry body flagged chloride and moisture contamination. HT explains why chloride corrodes and why moisture matters in ethanol-blended petrol.
 
-## ‘I could have resigned too’: Karnataka CM Shivakumar recalls cabinet berth denial during Siddaramaiah's tenure
-His statement came a day after a few Congress MLAs offered to resign after failing to secure a ministerial post in the long-awaited cabinet reshuffle.
+## Calcutta HC denies Abhishek Banerjee permission to go abroad for treatment
+Banerjee’s lawyers told the court that he had been going to the USA for ten years for his treatment and hence should be allowed to travel
 
-## Maharashtra: ECI grants 2nd SIR extension; draft roll to be published on Aug 24
-An ECI order said the commission has directed all election officials to adhere to the revised schedule and ensure that political parties are informed
+## Meta warned of ‘safe harbour’ protection loss over Modi reel row: What is it and what happens if removed?
+A parliamentary committee warned Meta could lose its “safe harbour” protection if Zuckerberg does not apologise for briefly removing PM Modi's Facebook reel.
 
-## Sitharaman introduces tax amendment Bill to attract global capital, strengthen manufacturing
-The Appropriation Bill, 2026 was passed in Lok Sabha by Voice vote amid opposition protest over alleged theft of donation at the Ram Temple and other issues.
+## China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources
+Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong initial public offering (IPO) as early as the end of the year, according to two sources familiar wit
 
-## Big change in UPI policy? Payments above ₹2,000 may carry a fee. What we know
-The bill seeks to remove the provision that prevents banks and payment service providers from charging a fee, including MDR, on notified electronic payments.
+## China’s X Square Robot submits confidential filing for Hong Kong IPO, sources say
+Chinese start-up X Square Robot has filed confidentially for an initial public offering (IPO) in Hong Kong, according to two sources familiar with the matter, joining a growing wave of domestic robot makers flocking to capital markets, despite new US trade restrictions. The Shenzhen-based firm has t
 
-## Jharkhand students go on hunger strike as CJP's Abhijeet Dipke backs protests: What the row is about
-Ranchi protests have gained momentum over as the protesters are seeking a probe by central agencies into ‘irregularities’ exam conducted by the JPSC and JSSC.
-
-## CWG gold medallist Asmita Dey faces backlash over UP benefits eligibility
-Since Dey's permanent roots are in Tripura, questions have arisen about whether she qualifies under UP’s August 2024 order for state rewards.
+## China’s foreign reserves hold steady as external earnings stay in private hands
+China’s foreign exchange reserves barely budged last year despite a record US$1.18 trillion trade surplus, as the country’s massive external earnings increasingly wound up on the balance sheets of domestic households, commercial banks and corporations rather than in Beijing’s central coffers, a new 
 
 ## BYD’s first humanoid robots; Brazil named biggest buyer of Chinese cars: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to debut first humanoid robots in August as rivalry with Tesla intensifies Electri
@@ -113,15 +134,6 @@ China’s Ministry of Finance has successfully raised 15 billion yuan (US$2.22 b
 
 ## Innovation platform buys Hong Kong office tower as state-linked buyers seek bargains
 The acquisition of a Hong Kong office tower by an innovation platform backed by Ningbo’s city government has reinforced analysts’ expectations that mainland government-linked institutions could play a bigger role in the city’s commercial property market, where prices remain depressed. Land Registry 
-
-## China’s MiniMax curbs overseas access to new AI video model over copyright disputes
-Chinese artificial intelligence company MiniMax has open-sourced its new H3 video model but imposed licensing conditions on users in major overseas markets including the US and European Union, underscoring the copyright challenges in generative video AI. After the Shanghai-based company released the
-
-## SpaceX report, share unlock may sway Hong Kong, mainland China stocks as AI trade recovers
-SpaceX’s first earnings report since its listing, together with the coming supply of a large chunk of shares available for public trading, will test the strength of the artificial intelligence trade’s recovery, which has driven the S&P 500 within striking distance of its record high and helped Hong 
-
-## Could China’s new trust tax pull Pan Shiyi’s wealth into the capital flight spotlight?
-China’s ultra-rich are finding themselves under greater scrutiny as new tax rules on offshore trusts raise questions over their fortunes, with New York-based property tycoon Pan Shiyi’s Cayman structure cast back into the spotlight. Market watchers said the rules – which impose a flat 20 per cent le
 
 ## El Niño Bakes Southeast Asia
 The world’s rice bowl takes a hit.
@@ -171,6 +183,12 @@ The announcement follows the Pakatan Harapan coalition's bruising defeat in the 
 ## Iran in Port Sudan? The Next Threat to Asian Markets
 The Red Sea corridor Asian trade depends on has another volatile shore, and almost nobody is watching it.
 
+## Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal
+Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal “totally subject” to Saudi Arabia j
+
+## Beyond the Output Trap: Haiti and the Future of International Stabilization
+Five years after the assassinations in Haiti of Monferrier Dorval, Diego Charles, and Antoinette Duclaire, justice remains elusive. Four years after the assassination of President Jovenel Moïse, accountability is still incomplete. Yet international reporting on Haiti continues to foreground outputs:
+
 ## A Conversation with the Pentagon’s Chief Buyer, Under Secretary Michael P. Duffey
 Under Secretary of Defense for Acquisition and Sustainment Michael P. Duffey joins Jonathan to discuss the Pentagon’s ongoing acquisition transformation. Their conversation spans the recent munitions agreements, industry investments, the shift to portfolio acquisition executives, allied coproduction
 
@@ -188,12 +206,6 @@ Current conversations surrounding unconventional weapons — chemical, biologica
 
 ## The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation
 In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities resumed in mid-July. More recently, the Houthis in Yemen have
-
-## Can Cyber Operations Be Deterred? What Wargames Reveal
-The most successful deterrent threats leave no evidence behind. No missiles fly. No networks go down. No troops cross borders. Nothing happens. For policymakers, that is often the desired outcome. For researchers, it is a nightmare. Imagine, however, being able to observe a decision-maker preparing 
-
-## How Mexico Locked In Its Militarized Police State
-In 2021, Andrew Ivey wrote, “‘I Have Other Data’: The Guardia Nacional and the Entrenchment of Mexico’s Militarization’,” where he warned Mexico was headed toward a militarization trap. Five years later, amidst increased pressure from the Trump administration and the election of a new Mexican presid
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -219,32 +231,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## The yearly mild weather spell that brings Yemen’s coast back to life
-Al-Baldah transforms Mukalla with mild temperatures, beach fun and a rare economic boost for the southern Yemeni city.
+## Michigan, Missouri, Washington primary elections: Key takeaways
+Recent US primaries have revealed Democratic Party rift between progressives and centrists over US support for Israel.
 
-## Return of goods to markets in Gaza doesn’t mean people can afford them
-Displaced Palestinians in Gaza struggle daily to afford food, with soaring prices and limited income opportunities.
+## Trump hails progress but warned Iran of ‘hard hit’ if no deal reached
+US President Donald Trump says progress with Iran has been made, but warned Iran of 'hard hit' if no deal reached.
 
-## Egypt’s Mohamed Salah looks set to swap Liverpool for Turkiye’s Trabzonspor
-The Egyptian forward has been linked with a move to Turkiye since announcing he was leaving Liverpool.
+## Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo
+Vozinha says he always believed he was a 'big club' player after his move to Colo-Colo in Chile.
 
-## Bangladesh Truth Seeker
-Amid political upheaval in Bangladesh, a journalist debunks fake news in a fight for his nation’s democratic future.
+## Inside the Air India Phuket-Delhi flight that dropped 300 feet mid-air
+Seventeen people were injured when an Air India flight from Phuket to Delhi encountered severe turbulence.
 
-## Explosions across Kyiv as Russian missiles strike Ukraine’s capital
-At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.
+## Japan tests US-Tomahawk missile as it moves away from Post-WWII status
+Japan tested a US-Tomahawk cruise missile, launching from their Chokai warship in the Pacific Ocean on July 29.
 
-## Has a US court just set the grounds for another January 6 insurrection?
-A US judge has begrudgingly dismissed the last prosecution cases tied to the January 6 insurrection on Capitol Hill.
+## Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated
+Officials warn the next three days are critical, as forecast rain threatens to trigger more mudflows from the volcano.
 
-## Bolivia sends troops to stop Brazilian gang violence along border
-Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.
+## FIFA’s Infantino set for crunch meeting after World Cup selloff crisis
+Gianni Infantino under increasing pressure before Wednesday's FIFA talks after president's failed World Cup selloff.
 
-## North Korea’s Kim Yo Jong issues military threat over Japan missile test
-The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.
+## Piece of SpaceX rocket the size of a school bus crashes into the Moon
+Scientists will track stray rocket part striking the Moon to study crater formation and lunar dust from cosmic impacts.
 
 ## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
 In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
+
+## Rupee may strengthen further as tensions ease, says RBI Governor Malhotra; RBI to intervene only against excessive volatility
+RBI Governor Sanjay Malhotra has indicated that the Indian rupee may gain strength if global tensions subside. He emphasized that the bank does not aim for specific exchange rates. In recent weeks, the rupee has made notable gains against the US dollar. The RBI plans to let market dynamics dictate c
+
+## RBI Governor Sanjay Malhotra says India growth may touch 7%; ‘nothing to worry’ on geopolitical shocks
+Governor says 6.7% FY27 growth forecast is an estimate; RBI to look through food and fuel-driven inflation volatility.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
@@ -261,11 +279,8 @@ Global consumer goods majors such as Mondelez International, L'Oreal, Reckitt, U
 ## Companies may soon get to retain legal identity in flipbacks
 A parliamentary panel proposes a new statutory framework for inward re-domiciliation. This would allow overseas companies to migrate to India while retaining their legal identity. The joint committee will recommend this new framework in its upcoming report. Sweeping changes are also expected to alig
 
-## Government plans to ease forex rule for SEZ services exports to domestic tariff areas
-The current provision under Section 2(z) of the SEZ Act, 2005 mandates that proceeds for SEZ to DTA supplies of services must be realised in foreign exchange, although there is no such requirement in case of supply of goods to DTA entities.
-
-## India writing new chapters in AI, semiconductors and space, says PM Modi
-Modi said India’s youth have driven growth in mobile manufacturing, startups and emerging sectors like AI, semiconductors and space technology.
+## RBI to resume urban cooperative bank licensing process after two decades
+The Reserve Bank of India will resume issuing new licenses for urban cooperative banks. This process has been paused for over two decades due to past financial instability. Draft guidelines for resuming UCB licensing have now been issued by the central bank. The operating environment for these banks
 
 ## RBI likely to maintain status quo on interest rates
 The Reserve Bank of India (RBI) is expected to leave key interest rates untouched in its monetary policy review to be announced on August 4 with an eye on promoting economic growth as inflation is seen to be under control, analysts said on Tuesday.
@@ -282,6 +297,6 @@ The Securities and Exchange Board of India (SEBI) has strengthened its Environme
 ## RBI likely to extend rate pause; neutral stance seen unchanged
 Economists anticipate the Reserve Bank of India will maintain its current interest rate at 5.25 percent. The central bank is also expected to keep its neutral monetary policy stance for the fourth review. Some economists foresee a potential rate hike in the second half of fiscal year twenty twenty-s
 
-## RBI sold about $7 billion to defend rupee on Friday
-India's central bank sold approximately $7 billion to defend the rupee. The Reserve Bank of India intervened across markets as the currency neared a record low. This intervention followed a surge in crude prices impacting Asian oil importers. The RBI's actions helped lift the rupee further away from
+## Government plans to ease forex rule for SEZ services exports to domestic tariff areas
+The current provision under Section 2(z) of the SEZ Act, 2005 mandates that proceeds for SEZ to DTA supplies of services must be realised in foreign exchange, although there is no such requirement in case of supply of goods to DTA entities.
 
