@@ -1,19 +1,22 @@
 # AION Intelligence
 
-## Trump’s ex-lawyer poised to become attorney-general after ‘slush fund’ U-turn
-Todd Blanche’s nomination clears US Senate panel as Republican holdouts drop objections
-
 ## OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says
 AI Security Institute warns tools undertook ‘potentially harmful activity directed at real people and organisations’
+
+## Musk’s SpaceX unnerves investors with lavish AI spending plans
+Shares slide even as group says its quarterly revenues nearly doubled
+
+## US revokes visa for Brazilian ambassador
+Retaliatory move deepens diplomatic rift ahead of South American nation’s October elections
+
+## Trump’s ex-lawyer poised to become attorney-general after ‘slush fund’ U-turn
+Todd Blanche’s nomination clears US Senate panel as Republican holdouts drop objections
 
 ## FirstFT: SpaceX surpasses analysts’ expectations in debut earnings report
 Also in today’s newsletter: India proposes widening tax exemptions for foreign investors and Malaysia’s $100bn ‘cursed island’
 
 ## ‘Two very different characters’: Miliband and Rubio to meet in Washington
 Foreign secretary to discuss Strait of Hormuz, Ukraine and Gaza with US counterpart
-
-## SpaceX posts 92% rise in revenue in debut earnings report
-Elon Musk’s company outperformed analyst expectations in second quarter but shares dropped as much as 8%
 
 ## Trump administration refunds $100bn in ‘liberation day’ tariffs
 US customs officials repay about 60% of the levies that were struck down by the Supreme Court
@@ -35,12 +38,6 @@ Given its prodigious growth and the belief that this will continue, the anxiety 
 
 ## Spotify profits hit by heavy spending as fears build over streaming growth
 US-listed group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
-
-## Wall Street’s insurance takeover presents circular risks and rewards
-Aggressive tactics are prompting increased regulatory scrutiny
-
-## MFS administrators sue Barclays after accounts access frozen
-Creditors of failed UK mortgage provider try to recoup assets amid allegations of double pledging
 
 ## RBI MPC Meeting Highlights: RBI cuts repo rate by 25 bps to 5.25%, maintains neutral stance
 RBI MPC 2025, RBI Monetary Policy Meeting Outcomes, RBI MPC Meeting December 2025 News & Highlights: Here are the major live updates related to the latest bi-monthly RBI Monetary Policy Committee meeting.
@@ -66,29 +63,29 @@ LIC’s investment portfolio growth has slowed in recent years, even as the insu
 ## DGCA launches probe into Air India altitude loss incident; 17 passengers, crew injured
 Flight from Phuket to Delhi landed safely after sudden loss of altitude during cruise; aircraft grounded for investigation
 
+## Brent falls to $80, goverment vows to mitigate volatility
+
+
+## Tax bill aims to woo global investors
+
+
+## United Spirits contests FSSAI's flavouring order, petitions HC
+United Spirits finds itself at the center of a legal battle, opposing a food regulator’s decree about its McDowell's No. 1 Rum labeling. The FSSAI asserts that flavors typical of rum and whisky are not permissible in spirits. Inspections have uncovered that various manufacturers employed neutral alc
+
+## MDR to help fintechs recover costs, boost their IPO hopes
+
+
+## Govt ups LIC offer size, OFS India's biggest
+The government has announced an extra four percent sale in LIC’s offering, responding to considerable interest revealed by a 3.3 times subscription on day one. This strong demand from institutional buyers led to the exercise of the green shoe option, anticipating a total raise of roughly Rs 31,400 c
+
+## 21-yr gold quest: Expand mining, make India export hub
+In a groundbreaking announcement, the World Gold Council has introduced an extensive twenty-one-year roadmap for India's gold industry. This plan focuses on ramping up local mining efforts while establishing India as a premier jewelry hub. It also envisions increased integration of gold in high-tech
+
 ## Airtel Q1 profit jumps 37% to Rs 8,167 crore
 Bharti Airtel reported a significant profit increase of 37.3% in the first quarter. This growth was fueled by higher mobile tariffs and strong customer additions across businesses. Revenue also saw a substantial rise of 18.4% during the same period. The company's average revenue per user increased t
 
 ## ONGC Q1 results: Oil giant's profit doubles to Rs 17,034 crore amid rising crude prices
 ONGC's profit more than doubled in the April-June quarter. Higher crude oil prices and improved realisations significantly boosted earnings. Total income rose substantially compared to the previous year. Oil and gas production remained broadly stable with marginal declines. Strategic projects are ex
-
-## 54 bank fraud accused fled India, ED seizes assets worth over Rs 35,000 crore
-The Enforcement Directorate is investigating 32 bank fraud cases with 54 absconding accused. Proceedings under the Fugitive Economic Offenders Act have been launched against 27 individuals. Assets worth over Rs 840 crore have been confiscated after nine were declared offenders. Unclaimed bank deposi
-
-## US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip
-Despite persistent concerns over elevated inflation, the Iran conflict and the possibility of an AI-driven stock market bubble, Wall Street has continued to scale new highs, supported by robust corporate earnings.
-
-## Will Nifty & Sensex continue to diverge? What new stock market timings, closing auction session mean
-As per SEBI guidelines, a new Closing Auction Session has been introduced for eligible stocks, where continuous trading will halt at 3:15 PM instead of 3:30 PM. This has altered the final closing price calculation methodology for several stocks.
-
-## Merchant Discount Rate on UPI transactions? Amendments to payments act may pave way - what it means
-Merchant Discount Rate (MDR) is the fee merchants pay to banks and payment service providers for processing digital transactions. In India, credit card payments generally attract an MDR of around 1.5%.
-
-## 'Over 2000 samples tested': Oil ministry dismisses fuel adulteration claims, says only 2 cases detected
-The Ministry of Petroleum has rolled out enhanced fuel quality measures, implementing water ingress testing that occurs multiple times a day at various fuel stations. In a comprehensive assessment, more than two thousand samples were analyzed for contaminants, revealing minimal problems. Sales were 
-
-## LIC OFS off to a strong start as institutional investors subscribe 66% by noon
-Institutional investors subscribed nearly two-thirds of LIC shares offered by noon Tuesday. The government aims to divest up to 6.5% of its stake through this offer. This stake sale is expected to raise approximately Rs 31,000 crore for the government. The transaction also helps LIC meet Sebi's mini
 
 ## Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
 Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
@@ -114,6 +111,9 @@ V Anantha Nageswaran has been India's chief economic advisor since 2022.
 ## DMK MLA Markandeyan released on bail over remarks against CM Vijay
 Markandeyan was arrested by the Thoothukudi District Crime Branch (DCB) police on July 20.
 
+## Why China’s new sovereign bond sale in Hong Kong is drawing global interest
+China’s Ministry of Finance is set to raise 15 billion yuan (US$2.22 billion) through a sovereign bond auction in Hong Kong, tapping international capital just days after the city launched a long-awaited tool designed to help global investors hedge against mainland bond market risks. The sale marks 
+
 ## Innovation platform buys Hong Kong office tower as state-linked buyers seek bargains
 The acquisition of a Hong Kong office tower by an innovation platform backed by Ningbo’s city government has reinforced analysts’ expectations that mainland government-linked institutions could play a bigger role in the city’s commercial property market, where prices remain depressed. Land Registry 
 
@@ -134,9 +134,6 @@ The share price of HSBC Holdings fell 2.5 per cent on Tuesday afternoon followin
 
 ## China’s outsize commodities footprint cushions global energy shocks: Goldman Sachs
 China’s outsize footprint in global commodities is helping to cushion international energy shocks and stabilise gold prices, even as its export controls on rare earths and other critical minerals trigger violent price swings in the Western technology supply chain, according to Goldman Sachs. In a re
-
-## China stock traders cut leveraged positions by 14% in July amid tech sell-off
-China’s stock traders have been unwinding their leveraged positions over the past month, fuelling the worst-ever stock sell-off on one major index of technology shares and undermining Beijing’s efforts to put a floor on the equity market. The outstanding value of the stock purchases financed by marg
 
 ## Ranking the World’s Top 5 Chokepoints
 Why economic pressure tops geographic advantages.
@@ -234,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
+Iran says talks with Oman are proceeding 'positively' as US officials say a deal could be possible soon.
+
+## US revokes visa of Brazilian ambassador amid deepening diplomatic spat
+An official has indicated that the visa revocation would not mean that Brazil's ambassador will be expelled from the US.
+
+## Sri Lanka shuts schools as floods and mudslides kill 7
+Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.
+
+## One killed, five injured in Russian ballistic missile attack on Kyiv
+The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.
+
 ## Elon Musk’s SpaceX reports losses but less than expected
 Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.
 
@@ -245,18 +254,6 @@ The funeral for a couple and their toddler took place after they were killed in 
 
 ## Death toll rises to 87 in India’s flood-stricken Assam
 Flood victims in India’s Assam district are living in makeshift shelters after monsoon rains caused widespread flooding.
-
-## Six years on, Beirut blast families still await justice
-Families of victims of the Beirut port blast marked six years since the explosion by demanding truth and accountability.
-
-## National Guard deployment to Washington, DC will cost US roughly $1.4bn
-The figure offers a glimpse of how much taxpayer money will be spent on a deployment that has been widely criticised.
-
-## US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks
-Negotiators are working to expand safe shipping through the strait, though key differences remain unresolved.
-
-## US court deals blow to Trump’s bid to scrap climate grant programme
-A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
@@ -285,9 +282,6 @@ India's wealth creation story is becoming increasingly entrepreneurial. Nearly t
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
-## RBI likely to extend rate pause; neutral stance seen unchanged
-Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
-
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
 
@@ -302,4 +296,7 @@ The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation
 
 ## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
 The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
+
+## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
+Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
 
