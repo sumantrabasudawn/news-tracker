@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## Musk’s SpaceX unnerves investors with lavish AI spending plans
-Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled
-
-## US bans exports of various used critical minerals
-Washington announces year-long ban on overseas sales of scrap tungsten and ‘black mass’
-
-## Burnham rewires the ‘unaccountable’ state
-Prime minister’s opening devolution gambit does not lack ambition
-
-## Glencore plans secondary listing in Australia
-Miner has long complained its London shares are undervalued
-
-## Solid wage growth keeps BoJ on course for tightening
-Japan’s headline and real wage growth were above expectations in June
-
-## India raises $40bn from diaspora to support sagging rupee
-Central bank’s rare push to repatriate savings has drawn stronger than expected inflows
+## Europe and the eternal north-south rift
+On defence, the two sides of the continent increasingly inhabit different worlds
 
 ## Russian bombardment kills 17 in Kyiv as Ukraine runs low on interceptors
 Patriot interceptor stocks are depleted as retaliatory 40-day air campaign expires
 
-## Bank of England: QT bye?
-The case for active quantitative tightening is getting weaker
+## China launches global tax hunt going back decades
+Fiscal pressure sparks retroactive campaign and tougher controls on future offshore capital flows
 
-## FirstFT: SpaceX’s AI spending plans rattle investors
-Also in today’s newsletter: AI infrastructure debt and John Lewis profit warning
+## As airlines struggle, their suppliers are flying high
+The aviation supply chain is buoyant but its wings will be clipped if customers struggle
 
-## Shares in Chinese AI darlings slide on US ban fears
-Zhongji Innolight and Eoptolink hit by report that Washington is drafting ban on optical transceivers
+## Citadel surges 6% after swoop on Situational Awareness
+Ken Griffin’s flagship fund bought billions of dollars of AI stocks from Leopold Aschenbrenner’s firm
 
-## The Story of Money
-Watch the latest episode from the FT podcast exploring the history of finance
+## High-stakes Michigan Democratic Senate primary too close to call
+Fewer than 20,000 votes separate centrist congresswoman Haley Stevens and progressive challenger Abdul El-Sayed
 
-## The earthquake at Wachtell
-An exodus of litigation partners expands the talent war beyond dealmakers
+## Uber pledges $10bn to win robotaxi race
+Chief Dara Khosrowshahi lauds strong bookings and record cash flow as company seeks to fund costly AV push
 
-## SpaceX bolsters the case against quarterly earnings
-What has happened to the finances of Elon Musk’s rocket maker over the past three months is pretty irrelevant
+## Where are they now? The ex-Trump lawyers in plum US government posts
+Todd Blanche is the latest former member of the president’s personal legal team to snag a prestigious federal position
 
-## Q1 Results Today Live: Whirlpool Q1 PAT declines 34%, Shilpa Medicare, Cheviot Company Q1 PAT rise, Power Grid, Cummins, GE Vernova, Aurobindo Pharma, PB Fintech, Biocon, Berger Paints, Aster DM, Navin Fluorine to announce Q1 results
-Q1 Results Today, 5th August 2026 Live Updates:
+## Flutter chief steps down as gambling group cuts guidance
+Peter Jackson to be replaced as CEO by head of Flutter’s international business in October
 
-## Sensex today | Stock Market Live: Sensex, Nifty slip into the red by mid-session; RBI keeps repo rate unchanged at 5.25%
-Sensex, Nifty, Share Prices LIVE: Sensex declined 110.78 pts or 0.14% to 78,318.17; and Nifty 50 fell 111.55 pts or 0.45% to 24,503.35.
+## Hooked on diesel: the economy looking to kick the habit
+Pacific island of Palau is fundraising for a pivot to clean energy
 
-## Tamil Nadu Budget 2026: Government announces ₹1 Lakh subsidy for rooftop solar under PM SuryaGhar
-A system for installing smart meters will also be introduced for all consumers in Chennai city, as well as for 50 lakh industrial and commercial consumers across other parts of the state
+## FirstFT: Hopes for Strait of Hormuz deal grow
+Also in today’s newsletter: SpaceX shares fall after maiden results and Trump administration revokes visa of Brazil’s ambassador
 
-## AMD falls as investors seek bigger AI payoff
-The shares were last down 7.4% ‌at $480.28, set to wipe out about $61.1 billion ‌from ⁠AMD's market value.
+## Musk’s SpaceX unnerves investors with lavish AI spending plans
+Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled
 
-## TONGWEI Secures Fourth Consecutive Fortune Global 500 Listing
-TONGWEI Secures Fourth Consecutive Fortune Global 500 Listing
+## Tech Mahindra’s AI tech helping clients improve productivity, prune debt
+It’s the year to reap returns, says COO Atul Soneja
 
-## Para Light Launches ThermaFlat™ SiC MOSFETs to Break the Thermal Barrier in High-Power Applications
-Para Light Launches ThermaFlat™ SiC MOSFETs to Break the Thermal Barrier in High-Power Applications
+## RBI targeting polymer currency notes launch in early FY28: Guv Malhotra
+Malhotra says polymer currency notes have lasted for over 30 years in some jurisdictions and will come in handy, especially for the lower denomination notes which have high velocity
 
-## Essar Energy Transition secures $400 million in financing
-The development strengthens the company’s balance sheet, enhancing working capital efficiency, and supporting its long-term growth and decarbonisation strategy
+## Is UPI becoming chargeable? Here’s what you need to know
+A Bill tabled in the Lok Sabha has led to speculation around MDR on UPI. Expert opinion suggests charges on UPI may not be on the cards
 
-## Tamil Nadu targets industrial push with new policy, AI-powered investor services and ₹3,200-crore industrial parks
+## Motorola Edge 70 Max: Moto shifts gears to performance overdrive
+Designed for your need for speed with a massive battery and display
+
+## Persistent Systems wins shareholder favour for Nagarro acquisition
+Persistent Systems says all offer details to be laid out shortly
+
+## TN Budget: New Industrial policy, AI-powered approval systems and industrial parks to push economic growth
 For the MSME sector, the Budget earmarks ₹225 crore under the Tamil Nadu Women Entrepreneurs Empowerment Scheme and ₹352 crore under the Capital Subsidy Scheme
+
+## Oyster Renewable commissions 52.8 MW wind capacity in Gujarat for Jindal Stainless
+The commissioned facility comprises 16 turbines and involved an investment of around ₹385 crore
+
+## Today’s Gold Rate in India August 5: Gold prices down in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
+22, 24 carat Gold prices down across Indian cities on August 5
+
+## As gold, stock markets lose lustre - why your humble fixed deposit is forever
+Experts say that instead of timing the interest rate cycle, fixed deposits should be opted for based on goals and cash flow. But, if you are looking at fresh investments in FDs, higher interest rates may be a good lure. Is it the right time to invest in FDs? We ask experts:
+
+## Nearly half of India's workforce wants a new job. Here's why
+Google leads India's most attractive employer brands, with Tata Group and Amazon following closely. Nearly half of India's workforce plans job changes within the next six months. Work-life balance and career progression are key factors influencing employee preferences. Employers must adapt to evolvi
+
+## India's services PMI hits over 4.5-year low as demand, new orders lose momentum
+India's services sector growth slowed significantly in July, reaching its weakest pace in over four years. New business inflows expanded at the slowest rate since early 2022, driven by softer demand. Overseas demand remained relatively resilient, with export business outperforming overall sales grow
 
 ## India to get its first plastic notes next year: RBI governor shares timeline, explains benefits
 The government has authorised the Reserve Bank of India to print up to 2 billion polymer (plastic) notes - 1 billion each in the Rs 10 and Rs 20 denominations for field trials. At present, there is no proposal to replace paper currency entirely.
@@ -78,38 +84,38 @@ Indeed, RBI governor Sanjay Malhotra has acknowledged that the conflict in West 
 ## Stock market today: Sensex jumps over 430 points, Nifty opens above 24,600
 
 
-## Oil price today: Crude steadies below $80 as Hormuz blockade keeps investors on edge
-Oil prices nudged higher on Wednesday after a series of declines, as investors keep a keen eye on the diplomatic maneuvers surrounding the US-Iran standoff. Progress is reportedly being made by negotiators striving to bring an end to the conflict and restore access to the Strait of Hormuz. While US 
+## Rajasthan couple flee after tribal woman branded ‘witch’, assaulted over deaths
+A tribal woman in Rajasthan’s Sirohi alleged villagers branded her a “witch”, assaulted her and forced her and her husband to flee after two deaths.
 
-## Higher tariffs boost Airtel profit by 37%
-In an impressive first quarter, Bharti Airtel recorded a remarkable profit surge of 37.3%, driven by increased mobile tariffs and a robust influx of new customers. The company's revenue also soared by 18.4%, showcasing strong growth across its India and Africa segments. Notably, Airtel's average rev
+## Mark Zuckerberg apologises over deepfakes, child sexual abuse content on Meta platforms: Sources
+Zuckerberg also apologised for the errors in operating the intermediary platforms, the sources said.
 
-## SpaceX's first earnings: Revenue soars to $7.8 billion in debut results
-SpaceX has reported a reduced loss alongside increased revenue, mainly driven by its burgeoning Starlink business. With ambitions to dominate global internet services, Starlink's subscriber count has now doubled. The company is heavily investing in artificial intelligence and infrastructure, aiming 
+## Govt-opposition stand-off continues as Rahul sticks to demand for Shah’s statement
+Parliamentary affairs minister Kiren Rijiju reached out to Rahul Gandhi to discuss the possibility of allowing House business
 
-## SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
-The court said any grievance against the resolution can be best addressed through the democratic process under the association’s rules
+## Bhupender Yadav chairs meeting on human-wildlife conflict mitigation
+States including Assam, Karnataka, Kerala, Madhya Pradesh, Uttarakhand and Uttar Pradesh shared their conflict scenarios before the committee
 
-## Goa child rights panel directs ban on minor’s entry into casino vessels
-Offshore casinos in Goa that operate on the River Mandovi were allegedly allowing children to enter the vessels in violation of the law until a group of activists raised the issue
+## NHAI suspends toll on Kanpur-Lucknow Expressway, cracks down on officials over damaged stretch
+The decision follows complaints about damaged portions and patchwork at various locations on the 63-km-long expressway within weeks of its inauguration.
 
-## Three Maoists carrying ₹22 lakh bounty arrested in Jharkhand: Police
-An AK-47 assault rifle, a pistol, two magazines , walkie-talkie and large cache of ammunition have been recovered from their possession
+## Uttarakhand man held for defamatory videos targeting woman, BJP MLA
+A 34-year-old Bageshwar man was arrested for allegedly posting defamatory videos targeting a woman and BJP MLA Suresh Garia on social media.
 
-## Devendra Mahto, student leader on hunger strike in Jharkhand, drinks water on call with Wangchuk | Watch
-After his call with Sonam Wangchuk, Mahto told reporters that he will only consume water and salt till the government listens to the protesters.
+## Akhilesh Yadav defends PDA, accuses BJP of targeting Brahmins and opposition workers
+Akhilesh Yadav of the Samajwadi Party urges support from the Brahmin community, claiming BJP targets opposition and religious leaders.
 
-## CJP to act as a 'pressure group': Abhijeet Dipke shifts focus to E20 after NEET protest
-Core members of Cockroach Janta Party are currently holding a meeting in Maharashtra’s Chhatrapati Sambhajinagar.
+## 'Grave security threat': CJP's Saurav Das raises SOS after YouTubers enter his house
+In a series of posts on X, Saurav Das, one of the faces of the recent protest at Delhi's Jantar Mantar, called it a “grave security threat” to his family.
 
-## SIAM's now-withdrawn letter: What the science says about chloride, moisture and your E20 petrol
-Industry body flagged chloride and moisture contamination. HT explains why chloride corrodes and why moisture matters in ethanol-blended petrol.
+## Peninsula group to renovate Hong Kong flagship, Tokyo hotel in US$268m project
+The owner of Hong Kong’s iconic Peninsula hotel plans to invest HK$2.1 billion (US$268 million) to renovate its flagship hotel in the city and its Tokyo property, betting on the long-term strength of the luxury travel market despite geopolitical uncertainty and volatile consumer demand. Hongkong and
 
-## Calcutta HC denies Abhishek Banerjee permission to go abroad for treatment
-Banerjee’s lawyers told the court that he had been going to the USA for ten years for his treatment and hence should be allowed to travel
+## China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs
+Rising cost efficiency and rapidly advancing capabilities from players like DeepSeek and MiniMax have prompted Goldman Sachs to raise its run-rate revenue forecast for China’s artificial intelligence model market by 30 per cent to US$13 billion. In a research note published on Monday, the US investm
 
-## Meta warned of ‘safe harbour’ protection loss over Modi reel row: What is it and what happens if removed?
-A parliamentary committee warned Meta could lose its “safe harbour” protection if Zuckerberg does not apologise for briefly removing PM Modi's Facebook reel.
+## Amid slowing hotpot growth in China, Haidilao takes on biggest American burger brands
+China’s largest hotpot chain Haidilao International Holding is aiming to further diversify its business with hamburger stores – following the example set by American brands like McDonald’s and KFC – and has also opened up more sushi stores to tap new growth drivers, as its core hotpot business shows
 
 ## China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources
 Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong initial public offering (IPO) as early as the end of the year, according to two sources familiar wit
@@ -125,15 +131,6 @@ We have put together stories from our coverage on electric and new energy vehicl
 
 ## Amid AI tumult, more Chinese investors seek haven in undervalued Hang Seng Index
 Mainland Chinese investors bought more Hong Kong stocks than they sold for a second consecutive month in July, rotating into the undervalued market to take shelter from the tumult in artificial intelligence-linked shares. Onshore traders purchased a total of HK$62.9 billion (US$8.02 billion) worth o
-
-## China’s stock market sees drop in new A-share, margin-trading accounts amid tech sell-off
-New account openings and leveraged trading in mainland China’s stock market slowed in July, as a global artificial intelligence-linked sell-off dented investor appetite following a positive first half of the year for technology shares. The Shanghai Stock Exchange opened 2.66 million new A-share acco
-
-## China’s sovereign bond sale in Hong Kong draws global interest, raising over US$2 billion
-China’s Ministry of Finance has successfully raised 15 billion yuan (US$2.22 billion) through a sovereign bond auction in Hong Kong, tapping international capital just days after the city launched a long-awaited tool designed to help global investors hedge against mainland bond market risks. The sal
-
-## Innovation platform buys Hong Kong office tower as state-linked buyers seek bargains
-The acquisition of a Hong Kong office tower by an innovation platform backed by Ningbo’s city government has reinforced analysts’ expectations that mainland government-linked institutions could play a bigger role in the city’s commercial property market, where prices remain depressed. Land Registry 
 
 ## El Niño Bakes Southeast Asia
 The world’s rice bowl takes a hit.
@@ -159,6 +156,15 @@ A high-profile case is raising doubts about President Prabowo Subianto’s motiv
 ## America’s Cosmic Bet on AI
 The winner takes it all. What happens if the United States loses?
 
+## What a Near-Miss Drone Incident Reveals About South Korea-US Operational Coordination
+South Korea's army thought they were locked on to a North Korean UAV. It actually belonged to the U.S. Marine Corps.
+
+## When Small States Practice Buddhist Diplomacy
+While China and India compete for influence through Buddhism, smaller states such as Bhutan and Singapore are showing how Buddhist values, networks, and heritage can be transformed into diplomatic influence.
+
+## China’s ‘Internet Addiction’ Schools Are Now Locking Up Adults
+Parents are paying institutions to coerce adults whose life choices conflict with family expectations.
+
 ## Russia’s New Move in the Kuril Dispute
 Moscow is naming one of the disputed islands after a Soviet spy who operated in Imperial Japan.
 
@@ -173,15 +179,6 @@ Most climate finance goes where it is easiest to lend. Embankments, water system
 
 ## KMT, TPP Mull Referendums to Go With Taiwan’s Local Elections
 Up to six proposals – ranging from nuclear power to absentee voting – will be put to voters in the November polls, but without the usual round of campaigning for signatures.
-
-## Japan’s 2026 Defense White Paper Warns of China’s Expanding Military Reach in the Pacific
-This year’s white paper places particular emphasis on Beijing’s growing ability to project military power beyond the First Island Chain.
-
-## Malaysia’s DAP to Hold Vote on Whether to Remain in Anwar’s ‘Unity’ Government
-The announcement follows the Pakatan Harapan coalition's bruising defeat in the Negeri Sembilan state election on Saturday.
-
-## Iran in Port Sudan? The Next Threat to Asian Markets
-The Red Sea corridor Asian trade depends on has another volatile shore, and almost nobody is watching it.
 
 ## Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal
 Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal “totally subject” to Saudi Arabia j
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Michigan, Missouri, Washington primary elections: Key takeaways
-Recent US primaries have revealed Democratic Party rift between progressives and centrists over US support for Israel.
+## Turkish cargo ship catches fire after Black Sea drone attack
+A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.
 
-## Trump hails progress but warned Iran of ‘hard hit’ if no deal reached
-US President Donald Trump says progress with Iran has been made, but warned Iran of 'hard hit' if no deal reached.
+## How a social media campaign triggered huge migrant surge on Ceuta
+Following a court ruling protecting migrants swimming to Ceuta the previous week, accounts called on thousands to go.
 
-## Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo
-Vozinha says he always believed he was a 'big club' player after his move to Colo-Colo in Chile.
+## Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor
+Egypt forward Mohamed Salah arrived in Istanbul on Wednesday to complete his move to Turkiye club Trabzonspor.
 
-## Inside the Air India Phuket-Delhi flight that dropped 300 feet mid-air
-Seventeen people were injured when an Air India flight from Phuket to Delhi encountered severe turbulence.
+## Israeli forces detain Palestinians during raid in occupied West Bank
+A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.
 
-## Japan tests US-Tomahawk missile as it moves away from Post-WWII status
-Japan tested a US-Tomahawk cruise missile, launching from their Chokai warship in the Pacific Ocean on July 29.
+## Lebanon and Israel still split over disarming Hezbollah at Rome talks
+Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.
 
-## Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated
-Officials warn the next three days are critical, as forecast rain threatens to trigger more mudflows from the volcano.
+## Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’
+Cape Verde's World Cup goalkeeper Vozinha has been officially unveiled as the newest signing for Chilean club Colo-Colo.
 
-## FIFA’s Infantino set for crunch meeting after World Cup selloff crisis
-Gianni Infantino under increasing pressure before Wednesday's FIFA talks after president's failed World Cup selloff.
+## Israeli raid deepens fears across West Bank refugee camps
+Israeli raid deepens fears across West Bank refugee camps
 
-## Piece of SpaceX rocket the size of a school bus crashes into the Moon
-Scientists will track stray rocket part striking the Moon to study crater formation and lunar dust from cosmic impacts.
+## India’s severe monsoon season causes more than 100 deaths since July
+Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.
 
 ## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
 In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
