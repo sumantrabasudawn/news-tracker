@@ -1,13 +1,22 @@
 # AION Intelligence
 
-## Progressive Democrat wins in Michigan in rebuke to party establishment
-Victory for Abdul El-Sayed sets stage for fierce midterm battle in must-win Senate seat
-
-## Musk’s SpaceX slides 10% as lavish AI spending plans unnerve investors
-Shares slide even as group says its quarterly revenues nearly doubled
-
 ## Flutter chief steps down as gambling group cuts guidance
 Peter Jackson to be replaced as CEO in October by head of Flutter’s international business
+
+## Reform repaid Tice loan on same day £1mn donated by mother of Farage aide Cottrell
+Transactions fuel criticism of the party’s lack of transparency over its financing
+
+## Polanski calls for higher taxes on oil and gas profits to fund wildfire prevention
+Demand comes as both Shell and BP declared their highest quarterly profit in 4 years
+
+## Drone carrying explosives found at Leipzig airport, say German police
+Incident appears to mark an escalation after two years of drone incursions at European airports
+
+## Musk’s SpaceX unnerves investors with lavish AI spending plans
+Shares slide even as group says its quarterly revenues nearly doubled
+
+## Progressive Democrat wins in Michigan in rebuke to party establishment
+Victory for Abdul El-Sayed sets stage for fierce midterm battle in must-win Senate seat
 
 ## Eli Lilly and Novo Nordisk raise profit outlook as weight-loss drug demand soars
 Drugmakers’ share prices diverge as investors take dim view of Novo’s over-reliance on obesity treatments
@@ -15,14 +24,8 @@ Drugmakers’ share prices diverge as investors take dim view of Novo’s over-r
 ## China hits back at US with sanctions and tighter drone export rules
 Beijing’s retaliation highlights tensions ahead of Xi Jinping’s planned trip in September
 
-## Russia drone company chief injured in car bombing
-Attack on Vladimir Tkachuk is latest targeting prominent figures in the Russian war effort
-
 ## Strong box office for ‘Toy Story 5’ boosts Disney as US theme parks rebound
 Shares rise as entertainment group increases buyback plan
-
-## The bureaucratic misery of India’s voter revision
-Millions of Indians have been forced into the near-impossible task of trying to prove they are who they say they are
 
 ## China launches global tax hunt going back decades
 Fiscal pressure sparks retroactive campaign and tougher controls on future offshore capital flows
@@ -30,35 +33,35 @@ Fiscal pressure sparks retroactive campaign and tougher controls on future offsh
 ## As airlines struggle, their suppliers are flying high
 The aviation supply chain is buoyant but its wings will be clipped if customers struggle
 
-## Citadel surges 6% after swoop on Situational Awareness
-Ken Griffin’s flagship fund bought billions of dollars of AI stocks from Leopold Aschenbrenner’s firm
+## West Bengal govt awaits Calcutta Stock Exchange’s roadmap, board to discuss future strategy
+In its maiden Budget, the BJP government in the State proposed to support revival of the iconic bourse to reclaim Kolkata’s place as a financial capital
 
-## Hooked on diesel: the economy looking to kick the habit
-Pacific island of Palau is fundraising for a pivot to clean energy
+## Tata Sons to continue as upper-layer NBFC
+RBI signals no change in status, keeping listing trigger alive
 
-## Q1 Results Today Live: Godrej Agrovet posts mixed Q1, Whirlpool PAT declines 34%, Berger Paints, Biocon, Shilpa Medicare, Aster DM, Navin Fluorine Q1 PAT rise, Power Grid, Cummins, GE Vernova, Aurobindo, PB Fintech to announce Q1 results
-Q1 Results Today, 5th August 2026 Live Updates:
+## Completion of LIC OFS helped govt get nearly 2/3rd of BE for ‘miscellaneous receipt’
+The OFS allows the government to boost its financial resources while enhancing public ownership in the nation’s largest life insurer.
 
-## India is a ‘priority market’ for us: Riyadh Air’s commercial head
-The airline, backed by Saudi Arabia’s sovereign wealth fund, recently launched its services to Mumbai, its first international destination in India
+## Molbio Diagnostics IPO opens on Aug 10 at a price band of ₹768-807
+Funds will used to set up own research centre Bengaluru, among other things
 
-## News outlets can report courts, but cannot 'utilise' audio-video clips of proceedings: SC order
-A Bench headed by Chief Justice of India Surya Kant passed the July 31 order to clear the “confusion” over an earlier judicial direction on July 24
+## Edelweiss arm RYP acquires office park in Pune
+The acquisition expands RYP’s portfolio to 5.2 million square feet
 
-## Bengaluru bike taxi crackdown: Karnataka seizes nearly 260 two-wheelers
-Enforcement teams targeted unauthorised operators while the legal dispute over bike taxi permits remains pending before the Supreme Court.
+## Chandipura virus outbreak: Centre sends expert team to Gujarat and Rajasthan
+Scientists are intensifying surveillance, animal testing and genome sequencing to better understand the virus and strengthen disease control measures nationwide
 
-## Marico says profitable growth is central to its strategy, aims to cross ₹15,000 cr by FY27-end
-Our strategy of making fewer, bigger, bolder bets, coupled with our journey of premiumization and diversification agenda, is not only driving topline growth but has also significantly improved the profitability profile of our Foods and Digital businesses.
+## PGIM India MF to suspend SIP, STP in overseas funds
+The suspension applies to PGIM India Global Equity Opportunities Fund of Fund, India Emerging Markets Equity FoF and India Global Select Real Estate Securities FoF
 
-## TVK’s first Budget versus DMK’s interim budget: Much of the same
-TVK’s maiden Budget retains fiscal path with limited structural changes overall
+## Karnataka attracts fresh investments from Cipla, Rocket India during Mumbai roadshow
+Karnataka’s investment outreach gained momentum with major manufacturing expansion plans and fresh investor interest across infrastructure, renewable energy and industries.
 
-## Infosys expands partnership with Finland’s Metsä Group to drive AI-led IT transformation
-The expanded engagement strengthens enterprise technology capabilities through AI, cloud and automation to improve efficiency, productivity and service delivery worldwide
+## Rupee hits 1-month closing high despite RBI repo rate pause; sliding crude oil prices help
+The currency opened 0.5% stronger at 94.92 against the US dollar, its highest level since July 1. It later gave up nearly half of its early advance to settle at 95.1175 per dollar, its strongest closing level since July 7.
 
-## Proposed UPI MDR could shift fintech focus to merchants, unlock sustainable revenue model
-The MDR on UPI is likely to be in the range of 25-30 basis points and may apply only to high-value merchant transactions
+## US stock market today: Wall Street scales new record highs; oil prices hold steady
+Both the S&P 500 and the Dow closed at record highs on Tuesday, while the Nasdaq remained within 2% of its all-time peak. The major US indices have posted strong gains so far this week, giving August a solid start, according to an AP report.
 
 ## Who is Tewolde Gebremariam? Meet Air India’s new CEO - all you want to know about him
 Tewolde Gebremariam takes over from Campbell Wilson, the New Zealander and former Singapore Airlines executive who was appointed in 2022 to lead Air India's transformation. Air India had earlier disclosed that Wilson had informed Chairman N Chandrasekaran in 2024 of his intention to step down during
@@ -78,35 +81,32 @@ The government has authorised the Reserve Bank of India to print up to 2 billion
 ## ‘Someone has to pay the cost’: RBI governor on MDR proposal for UPI transactions above Rs 2,000
 According to official estimates, the Rs 2,000 threshold would cover only around 5% of all UPI transactions, although these account for nearly 65% of the total value processed on the platform. As a result, routine purchases such as milk, vegetables, groceries, or payments for auto-rickshaws and taxis
 
-## Gold price prediction today: Is the worst over for gold? Check August 5, 2026 outlook
-Gold price prediction today: Recent gold price trends suggest that the worst of the downside may be behind us, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers. Early this week, bullion has started on a firmer footing, supported by a weaker US d
+## Centre deploys response team to Gujarat, Rajasthan amid Chandipura virus cases
+The Centre has also stepped up disease surveillance, scientific investigations and testing in the affected districts to better understand and contain Chandipura Virus Disease outbreak
 
-## US-Iran conflict, El Nino: Why RBI did not hike repo rate despite headwinds
-Indeed, RBI governor Sanjay Malhotra has acknowledged that the conflict in West Asia continues to weigh on the global economy by disrupting critical trade routes and supply chains, increasing market volatility and weakening business confidence. But the biggest factor for keeping repo rate unchanged 
+## Who is Tewolde Gebremariam? Former Ethiopian Airlines chief with 37 years in aviation now leading Air India
+Before joining Air India, Gebremariam served as the longest-serving Chief Executive Officer of Ethiopian Airlines Group, holding the position for 11 years.
 
-## UP has the highest number of traffic violations caught on e-challan: Centre
-Nitin Gadkari said the Central Government has introduced the Central Motor Vehicles (Third Amendment) Rules, 2026
+## CRPF constable dies by suicide in Manipur: Police
+The incident comes a day after a CRPF assistant sub-inspector allegedly killed two colleagues and injured another using a service rifle before dying by suicide
 
-## Army personnel among 2 killed, 2 injured after SUV crashes into tree in Rajasthan
-According to police officers, the SUV was completely mangled in the crash, trapping the occupants inside near the Bagad turn in Jhunjhunu district
+## Air India Phuket- Delhi flight faced turbulence for four-five minutes: Naidu
+The airline said that the 13 injured passengers have been discharged from hospital, while four crew members remain under medical care.
 
-## JP Nadda visits Nagaland’s landslide-hit Mon, assures Centre’s support
-Nadda also conveyed PM’s condolences and solidarity with the people affected by the unprecedented tragedy
+## Between placards and Parliament: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+In political science, a pressure group tries to influence policy without contesting elections. History shows the line often moves.
 
-## Air India appoints Tewolde Gebremariam as Chief Executive Officer and Managing Director
-The appointment was approved by the airline's Board of Directors, with Gebremariam set to succeed Campbell Wilson.
+## Class 12 girl held captive, blackmailed, raped by Instagram friend for 24 hours in Nagpur
+The suspect first connected with the girl on Instagram last year, where he had created a handle under the fake name ‘Akash Mehra’ in May.
 
-## 471 NH bridges found distressed; repairs on 312 due by Dec 2028: Centre
-Centre had recently decided to centralise data gathering for bridge safety following a series of bridge failures in recent years
+## Meghalaya’s draft electoral roll declines by 180,402 after SIR
+The election department on Tuesday published the Draft Electoral Roll, 2026 and opened a month-long window for claims and objections before the final list is published
 
-## Space push, cricket World Cup, electricity in villages: Indira Gandhi's 1983 Independence Day speech
-As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister Indira Gandhi's August 15 address from the Red Fort in 1983.
+## 'India has always been a great friend and will remain so': Sheikh Hasina
+Sheikh Hasina, former Prime Minister of Bangladesh, praised India's support, asserting the enduring friendship between the two nations.
 
-## Water cannons, ‘lathi-charge’ in Punjab's Chandigarh as youth Congress, ABVP protest against paper leaks | Video
-Indian Youth Congress chief Udai Bhanu Chib alleged that Punjab's government used water cannons and lathi-charge during the protest march against paper leaks.
-
-## Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
-Devendra Nath Mahto contested the 2024 Lok Sabha elections from the Ranchi parliamentary constituency as an Independent candidate.
+## From wealth transfer to living legacy: How Asia’s founders are architecting the future
+[The content of this article has been produced by our advertising partner.] Asia is on the precipice of a monumental economic shift. By 2030, an estimated US$5.8 trillion of wealth is expected to pass from the region’s founding generations to their successors. In today’s world, wealth is rarely held
 
 ## Chinese and Western firms are teaming up even as governments fight
 In an era defined by escalating geopolitical tensions and the weaponisation of supply chains, a counterintuitive phenomenon is taking root in the industrial heartlands of China, the United States and Europe. While governments in Beijing, Washington and Brussels engage in high-stakes chess matches of
@@ -129,8 +129,14 @@ Chinese start-up X Square Robot has filed confidentially for an initial public o
 ## China’s foreign reserves hold steady as external earnings stay in private hands
 China’s foreign exchange reserves barely budged last year despite a record US$1.18 trillion trade surplus, as the country’s massive external earnings increasingly wound up on the balance sheets of domestic households, commercial banks and corporations rather than in Beijing’s central coffers, a new 
 
-## BYD’s first humanoid robots; Brazil named biggest buyer of Chinese cars: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to debut first humanoid robots in August as rivalry with Tesla intensifies Electri
+## Why the United States Keeps Losing Wars
+Washington has a long record of fighting the wrong war for the wrong objective.
+
+## Kevin Warsh Has a Problem
+The Fed chair “is really rolling the dice” while holding out against interest rate hikes, one expert said.
+
+## The Ceuta Crisis Reveals the Limits of European Defense Cooperation
+In their willingness to blame Spain, European leaders have shown they cannot be trusted on collective security.
 
 ## El Niño Bakes Southeast Asia
 The world’s rice bowl takes a hit.
@@ -146,15 +152,6 @@ Qatar confirms that indirect U.S.-Iran negotiations are making progress.
 
 ## Will Trump Destroy the Deep Oceans?
 Seabed mining is a threat to both ecology and the international order.
-
-## India’s Political Atmosphere Has Changed
-If Modi responds to the Cockroach protesters with further repression, it could backfire.
-
-## What’s Behind Indonesia’s Anti-Corruption Crusade?
-A high-profile case is raising doubts about President Prabowo Subianto’s motivations.
-
-## America’s Cosmic Bet on AI
-The winner takes it all. What happens if the United States loses?
 
 ## What a Near-Miss Drone Incident Reveals About South Korea-US Operational Coordination
 South Korea's army thought they were locked on to a North Korean UAV. It actually belonged to the U.S. Marine Corps.
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Boxer Chapman recovering after emergency surgery for brain bleed
-Featherweight Raven Chapman collapsed while sparring on July 24 and was rushed to surgery, her team says.
+## Puerto Rican cities hit with water rationing measures during record drought
+Governor Jenniffer Gonzalez says she does not know how long the rationing measures will remain in place.
 
-## Ex-PM Sheikh Hasina announces her plan to return to Bangladesh
-The decision of the 78-year-old ousted leader comes despite her facing the death penalty in Bangladesh.
+## Arab officials call for action over Jerusalem tensions
+Arab officials call for action over Jerusalem tensions
 
-## Why are US Republicans losing faith in War Secretary Pete Hegseth?
-The reasons for dissent are not unanimous, ranging from the war in Iran to an overhaul of military leadership.
+## Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites
+Foreign ministers warn Christian and Islamic holy sites 'threatened' by Israel 'as never before'.
 
-## Iraq faces crisis as Shia armed groups defy disarmament
-Iraqi PM faces a serious crisis as powerful Shia paramilitaries refuse to disarm as September 30 deadline looms.
+## UK tribunal confirms professor’s anti-Zionism is legally protected belief
+David Miller has told Al Jazeera the ruling is a victory that will encourage others to speak out against Zionism.
 
-## Former heavyweight champ ⁠Parker cleared to fight again after doping ban
-Joseph Parker was suspended in October after failing a voluntary drug test, but denied taking any prohibited substance.
+## War on Iran: US-Iran deal edges closer
+A deal between the US and Iran could be signed within 48 hours, according to US officials.
 
-## UN rights chief says Iran executed at least 56 people since March
-Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.
+## Germany investigates explosive device attached to drone at Leipzig airport
+An airport employee spotted the object carrying what authorities described as 'an unknown explosive device'.
 
-## Pakistan’s Khan in jail for 3 years: PTI rallies over ‘arbitrary detention’
-Thousands of supporters of former PM Imran Khan's party demonstrate across country to call for his immediate release.
+## Demolition complicates the search for bodies after Venezuela’s earthquakes
+Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?
 
-## SpaceX rocket segment to crash into the moon: What happened?
-A piece of the SpaceX Falcon 9 rocket is believed to have crashed into the moon after floating in space since last year.
+## Gaza father opens play center to restore childhood amid Israeli attacks
+A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.
 
 ## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
 In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
