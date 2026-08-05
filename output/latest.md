@@ -222,6 +222,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli occupation destroys farmland and lives in southern Syria
+Israeli occupation destroys farmland and lives in southern Syria
+
+## US officials push back on reports of dangerously low munitions supplies
+Experts warn that low stockpiles of air defence interceptors as a result of the war on Iran leave the US vulnerable.
+
+## US man arrested at Trump’s golf course charged with multiple felonies
+Ex-Marine denies charges after arrest at Los Angeles golf course, with weapons, badge and 'concerning' notebooks found.
+
+## Israeli forces raid camp in occupied West Bank
+Israeli forces have launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank.
+
 ## Clashes on anniversary of Imran Khan imprisonment
 Pakistan police fired tear gas at supporters of jailed former Prime Minister Imran Khan in Rawalpindi.
 
@@ -233,18 +245,6 @@ The Trump administration has sought to weaken the leadership of high-profile Mex
 
 ## Iran says Hormuz talks with Oman in ‘final’ stages as route approved
 The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.
-
-## What’s behind US Representative Massie’s claims over crisis at Ceuta?
-Figures like Representative Thomas Massie have questioned whether crisis is related to US support for Morocco.
-
-## SpaceX shares slide on the heels of first quarterly report
-The stock was down more than 13 percent as investors were spooked by the company's heavy investments.
-
-## Sheikh Hasina says she will return to Bangladesh in December
-Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.
-
-## New Mexico sues US Justice Department for impeding Epstein probe
-The southwestern US state's attorney general argues that the federal government is withholding key unredacted documents.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
