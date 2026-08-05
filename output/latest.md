@@ -1,10 +1,19 @@
 # AION Intelligence
 
+## FirstFT: China launches global tax hunt
+Also in today’s newsletter: Google DeepMind CEO Demis Hassabis steps down and Iran says agreement reached with Oman on Hormuz shipping route
+
+## ‘Toy Story 5’ box office boosts Disney as US theme parks rebound
+Shares rise as entertainment group increases buyback plan
+
+## US puts $25mn bounty on top Mexican drug cartel leader
+Trump administration makes offer for information on Juan Carlos Valencia González as part of package of up to $102mn in rewards
+
 ## Iran says it has reached agreement with Oman on Hormuz shipping route
 Islamic republic is determined to retain a degree of control over the chokepoint
 
-## Big US hedge funds hit by wave of cyber attacks
-Point72 and Citadel among firms targeted by audio phishing schemes
+## Big US hedge funds targeted by wave of cyber attacks
+Point72 and Citadel among firms hit by audio phishing schemes
 
 ## Bikemaker Accell files for insolvency four years after €1.8bn KKR-led buyout
 Announcement by Dutch owner of Raleigh and Babboe brands follows four difficult years since it was taken private
@@ -12,26 +21,14 @@ Announcement by Dutch owner of Raleigh and Babboe brands follows four difficult 
 ## JPMorgan poaches M&A banker Amy Lissauer from Bank of America
 Executive will lead activism defence practice at biggest US lender
 
-## Google DeepMind CEO Demis Hassabis steps down in shake-up of AI lab
+## Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab
 Chief scientist Jeff Dean leaves the group to found his own start-up
 
-## Badenoch ‘sad’ over former antisemite’s withdrawal as Tory council candidate
-Joshua Bonehill-Paine says he will now advise Conservative Party on its culture and integration commission
-
-## How to solve Britain’s prisons crisis
-It will require changes to sentencing as well as building more capacity
-
-## Europe must do more to harness its AI ambitions
-The US and China use the technology as an instrument of state power, while the EU is still considering its course
+## LIV Golf pursues ‘grand bargain’ with Saudi wealth fund and BC Partners
+Potential investors seek assurances that the lossmaking tour’s star players will stay on
 
 ## Bodycote gets twin private equity bids as buyers feast on London market
 Separate offers from CVC and Veritas value FTSE 250 industrials group at about £1.8bn including debt
-
-## Musk’s SpaceX unnerves investors with lavish AI spending plans
-Shares slide even as group says its quarterly revenues nearly doubled
-
-## ‘Toy Story 5’ box office boosts Disney as US theme parks rebound
-Shares rise as entertainment group increases buyback plan
 
 ## Oil Ministry to deploy tactical teams for petrol pump inspections, says Team Bharat
 Enhanced inspections, stronger quality checks and public reporting aim to improve fuel transparency and curb adulteration across petrol retail outlets nationwide
@@ -129,6 +126,9 @@ Chinese start-up X Square Robot has filed confidentially for an initial public o
 ## China’s foreign reserves hold steady as external earnings stay in private hands
 China’s foreign exchange reserves barely budged last year despite a record US$1.18 trillion trade surplus, as the country’s massive external earnings increasingly wound up on the balance sheets of domestic households, commercial banks and corporations rather than in Beijing’s central coffers, a new 
 
+## Ukraine’s Deadly Missile Defense Shortage
+Kyiv has run out of Patriot interceptors, but allies remain reluctant to supply more.
+
 ## South Africa’s Global Image Loses Its Luster
 Pretoria’s influence across Africa may be waning following widespread xenophobic attacks.
 
@@ -149,9 +149,6 @@ In their willingness to blame Spain, European leaders have shown they cannot be 
 
 ## El Niño Bakes Southeast Asia
 The world’s rice bowl takes a hit.
-
-## Ranking the World’s Top 5 Chokepoints
-Why economic pressure tops geographic advantages.
 
 ## Why Asia Is More Enthusiastic About AI Than the West
 In China, India, much of Southeast Asia, and elsewhere in Asia, the net benefits of AI are perceived by populations to be greater than their drawbacks.
@@ -225,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## New Mexico sues US Justice Department for impeding Epstein probe
-The southwestern US state's attorney general argues that the federal government is withholding key unredacted documents.
-
-## Young pilot makes daring emergency landing on Florida interstate
-A 21-year-old flight instructor safely landed her small aircraft on a US freeway near Pensacola, Florida.
-
-## Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate
-The announcement comes as Lula warns of foreign interference and polls show a tightening presidential race.
-
-## Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk
-Authorities are screening 5,000 refugees as rights groups warn they remain at risk of persecution in Myanmar.
-
-## US authorities report deadly mass shooting in Prospect Hill, North Carolina
-This is a breaking news story.
-
-## Is the conflict between Russia and Ukraine deepening?
-The war sees a surge in attacks by both sides with little diplomatic movement.
-
-## Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp
-Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.
+## Clashes on anniversary of Imran Khan imprisonment
+Pakistan police fired tear gas at supporters of jailed former Prime Minister Imran Khan in Rawalpindi.
 
 ## El-Sayed wins Michigan Democratic Senate primary
-Abdul El-Sayed won Michigan's Democratic primary for US Senate, narrowly defeating Rep. Haley Stevens.
+Abdul el-Sayed has won Michigan’s Democratic senate primary
+
+## US announces more than $100m in rewards for eight Jalisco cartel leaders
+The Trump administration has sought to weaken the leadership of high-profile Mexican cartels by increasing the bounties.
+
+## Iran says Hormuz talks with Oman in ‘final’ stages as route approved
+The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.
+
+## What’s behind US Representative Massie’s claims over crisis at Ceuta?
+Figures like Representative Thomas Massie have questioned whether crisis is related to US support for Morocco.
+
+## SpaceX shares slide on the heels of first quarterly report
+The stock was down more than 13 percent as investors were spooked by the company's heavy investments.
+
+## Sheikh Hasina says she will return to Bangladesh in December
+Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.
+
+## New Mexico sues US Justice Department for impeding Epstein probe
+The southwestern US state's attorney general argues that the federal government is withholding key unredacted documents.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
