@@ -1,10 +1,28 @@
 # AION Intelligence
 
-## Europe and the eternal north-south rift
-On defence, the two sides of the continent increasingly inhabit different worlds
+## Progressive Democrat wins in Michigan in rebuke to party establishment
+Victory for Abdul El-Sayed sets stage for fierce midterm battle in must-win Senate seat
 
-## Russian bombardment kills 17 in Kyiv as Ukraine runs low on interceptors
-Patriot interceptor stocks are depleted as retaliatory 40-day air campaign expires
+## Musk’s SpaceX slides 10% as lavish AI spending plans unnerve investors
+Shares slide even as group says its quarterly revenues nearly doubled
+
+## Flutter chief steps down as gambling group cuts guidance
+Peter Jackson to be replaced as CEO in October by head of Flutter’s international business
+
+## Eli Lilly and Novo Nordisk raise profit outlook as weight-loss drug demand soars
+Drugmakers’ share prices diverge as investors take dim view of Novo’s over-reliance on obesity treatments
+
+## China hits back at US with sanctions and tighter drone export rules
+Beijing’s retaliation highlights tensions ahead of Xi Jinping’s planned trip in September
+
+## Russia drone company chief injured in car bombing
+Attack on Vladimir Tkachuk is latest targeting prominent figures in the Russian war effort
+
+## Strong box office for ‘Toy Story 5’ boosts Disney as US theme parks rebound
+Shares rise as entertainment group increases buyback plan
+
+## The bureaucratic misery of India’s voter revision
+Millions of Indians have been forced into the near-impossible task of trying to prove they are who they say they are
 
 ## China launches global tax hunt going back decades
 Fiscal pressure sparks retroactive campaign and tougher controls on future offshore capital flows
@@ -15,50 +33,35 @@ The aviation supply chain is buoyant but its wings will be clipped if customers 
 ## Citadel surges 6% after swoop on Situational Awareness
 Ken Griffin’s flagship fund bought billions of dollars of AI stocks from Leopold Aschenbrenner’s firm
 
-## High-stakes Michigan Democratic Senate primary too close to call
-Fewer than 20,000 votes separate centrist congresswoman Haley Stevens and progressive challenger Abdul El-Sayed
-
-## Uber pledges $10bn to win robotaxi race
-Chief Dara Khosrowshahi lauds strong bookings and record cash flow as company seeks to fund costly AV push
-
-## Where are they now? The ex-Trump lawyers in plum US government posts
-Todd Blanche is the latest former member of the president’s personal legal team to snag a prestigious federal position
-
-## Flutter chief steps down as gambling group cuts guidance
-Peter Jackson to be replaced as CEO by head of Flutter’s international business in October
-
 ## Hooked on diesel: the economy looking to kick the habit
 Pacific island of Palau is fundraising for a pivot to clean energy
 
-## FirstFT: Hopes for Strait of Hormuz deal grow
-Also in today’s newsletter: SpaceX shares fall after maiden results and Trump administration revokes visa of Brazil’s ambassador
+## Q1 Results Today Live: Godrej Agrovet posts mixed Q1, Whirlpool PAT declines 34%, Berger Paints, Biocon, Shilpa Medicare, Aster DM, Navin Fluorine Q1 PAT rise, Power Grid, Cummins, GE Vernova, Aurobindo, PB Fintech to announce Q1 results
+Q1 Results Today, 5th August 2026 Live Updates:
 
-## Musk’s SpaceX unnerves investors with lavish AI spending plans
-Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled
+## India is a ‘priority market’ for us: Riyadh Air’s commercial head
+The airline, backed by Saudi Arabia’s sovereign wealth fund, recently launched its services to Mumbai, its first international destination in India
 
-## Tech Mahindra’s AI tech helping clients improve productivity, prune debt
-It’s the year to reap returns, says COO Atul Soneja
+## News outlets can report courts, but cannot 'utilise' audio-video clips of proceedings: SC order
+A Bench headed by Chief Justice of India Surya Kant passed the July 31 order to clear the “confusion” over an earlier judicial direction on July 24
 
-## RBI targeting polymer currency notes launch in early FY28: Guv Malhotra
-Malhotra says polymer currency notes have lasted for over 30 years in some jurisdictions and will come in handy, especially for the lower denomination notes which have high velocity
+## Bengaluru bike taxi crackdown: Karnataka seizes nearly 260 two-wheelers
+Enforcement teams targeted unauthorised operators while the legal dispute over bike taxi permits remains pending before the Supreme Court.
 
-## Is UPI becoming chargeable? Here’s what you need to know
-A Bill tabled in the Lok Sabha has led to speculation around MDR on UPI. Expert opinion suggests charges on UPI may not be on the cards
+## Marico says profitable growth is central to its strategy, aims to cross ₹15,000 cr by FY27-end
+Our strategy of making fewer, bigger, bolder bets, coupled with our journey of premiumization and diversification agenda, is not only driving topline growth but has also significantly improved the profitability profile of our Foods and Digital businesses.
 
-## Motorola Edge 70 Max: Moto shifts gears to performance overdrive
-Designed for your need for speed with a massive battery and display
+## TVK’s first Budget versus DMK’s interim budget: Much of the same
+TVK’s maiden Budget retains fiscal path with limited structural changes overall
 
-## Persistent Systems wins shareholder favour for Nagarro acquisition
-Persistent Systems says all offer details to be laid out shortly
+## Infosys expands partnership with Finland’s Metsä Group to drive AI-led IT transformation
+The expanded engagement strengthens enterprise technology capabilities through AI, cloud and automation to improve efficiency, productivity and service delivery worldwide
 
-## TN Budget: New Industrial policy, AI-powered approval systems and industrial parks to push economic growth
-For the MSME sector, the Budget earmarks ₹225 crore under the Tamil Nadu Women Entrepreneurs Empowerment Scheme and ₹352 crore under the Capital Subsidy Scheme
+## Proposed UPI MDR could shift fintech focus to merchants, unlock sustainable revenue model
+The MDR on UPI is likely to be in the range of 25-30 basis points and may apply only to high-value merchant transactions
 
-## Oyster Renewable commissions 52.8 MW wind capacity in Gujarat for Jindal Stainless
-The commissioned facility comprises 16 turbines and involved an investment of around ₹385 crore
-
-## Today’s Gold Rate in India August 5: Gold prices down in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
-22, 24 carat Gold prices down across Indian cities on August 5
+## Who is Tewolde Gebremariam? Meet Air India’s new CEO - all you want to know about him
+Tewolde Gebremariam takes over from Campbell Wilson, the New Zealander and former Singapore Airlines executive who was appointed in 2022 to lead Air India's transformation. Air India had earlier disclosed that Wilson had informed Chairman N Chandrasekaran in 2024 of his intention to step down during
 
 ## As gold, stock markets lose lustre - why your humble fixed deposit is forever
 Experts say that instead of timing the interest rate cycle, fixed deposits should be opted for based on goals and cash flow. But, if you are looking at fresh investments in FDs, higher interest rates may be a good lure. Is it the right time to invest in FDs? We ask experts:
@@ -81,32 +84,32 @@ Gold price prediction today: Recent gold price trends suggest that the worst of 
 ## US-Iran conflict, El Nino: Why RBI did not hike repo rate despite headwinds
 Indeed, RBI governor Sanjay Malhotra has acknowledged that the conflict in West Asia continues to weigh on the global economy by disrupting critical trade routes and supply chains, increasing market volatility and weakening business confidence. But the biggest factor for keeping repo rate unchanged 
 
-## Stock market today: Sensex jumps over 430 points, Nifty opens above 24,600
+## UP has the highest number of traffic violations caught on e-challan: Centre
+Nitin Gadkari said the Central Government has introduced the Central Motor Vehicles (Third Amendment) Rules, 2026
 
+## Army personnel among 2 killed, 2 injured after SUV crashes into tree in Rajasthan
+According to police officers, the SUV was completely mangled in the crash, trapping the occupants inside near the Bagad turn in Jhunjhunu district
 
-## Rajasthan couple flee after tribal woman branded ‘witch’, assaulted over deaths
-A tribal woman in Rajasthan’s Sirohi alleged villagers branded her a “witch”, assaulted her and forced her and her husband to flee after two deaths.
+## JP Nadda visits Nagaland’s landslide-hit Mon, assures Centre’s support
+Nadda also conveyed PM’s condolences and solidarity with the people affected by the unprecedented tragedy
 
-## Mark Zuckerberg apologises over deepfakes, child sexual abuse content on Meta platforms: Sources
-Zuckerberg also apologised for the errors in operating the intermediary platforms, the sources said.
+## Air India appoints Tewolde Gebremariam as Chief Executive Officer and Managing Director
+The appointment was approved by the airline's Board of Directors, with Gebremariam set to succeed Campbell Wilson.
 
-## Govt-opposition stand-off continues as Rahul sticks to demand for Shah’s statement
-Parliamentary affairs minister Kiren Rijiju reached out to Rahul Gandhi to discuss the possibility of allowing House business
+## 471 NH bridges found distressed; repairs on 312 due by Dec 2028: Centre
+Centre had recently decided to centralise data gathering for bridge safety following a series of bridge failures in recent years
 
-## Bhupender Yadav chairs meeting on human-wildlife conflict mitigation
-States including Assam, Karnataka, Kerala, Madhya Pradesh, Uttarakhand and Uttar Pradesh shared their conflict scenarios before the committee
+## Space push, cricket World Cup, electricity in villages: Indira Gandhi's 1983 Independence Day speech
+As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister Indira Gandhi's August 15 address from the Red Fort in 1983.
 
-## NHAI suspends toll on Kanpur-Lucknow Expressway, cracks down on officials over damaged stretch
-The decision follows complaints about damaged portions and patchwork at various locations on the 63-km-long expressway within weeks of its inauguration.
+## Water cannons, ‘lathi-charge’ in Punjab's Chandigarh as youth Congress, ABVP protest against paper leaks | Video
+Indian Youth Congress chief Udai Bhanu Chib alleged that Punjab's government used water cannons and lathi-charge during the protest march against paper leaks.
 
-## Uttarakhand man held for defamatory videos targeting woman, BJP MLA
-A 34-year-old Bageshwar man was arrested for allegedly posting defamatory videos targeting a woman and BJP MLA Suresh Garia on social media.
+## Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+Devendra Nath Mahto contested the 2024 Lok Sabha elections from the Ranchi parliamentary constituency as an Independent candidate.
 
-## Akhilesh Yadav defends PDA, accuses BJP of targeting Brahmins and opposition workers
-Akhilesh Yadav of the Samajwadi Party urges support from the Brahmin community, claiming BJP targets opposition and religious leaders.
-
-## 'Grave security threat': CJP's Saurav Das raises SOS after YouTubers enter his house
-In a series of posts on X, Saurav Das, one of the faces of the recent protest at Delhi's Jantar Mantar, called it a “grave security threat” to his family.
+## Chinese and Western firms are teaming up even as governments fight
+In an era defined by escalating geopolitical tensions and the weaponisation of supply chains, a counterintuitive phenomenon is taking root in the industrial heartlands of China, the United States and Europe. While governments in Beijing, Washington and Brussels engage in high-stakes chess matches of
 
 ## Peninsula group to renovate Hong Kong flagship, Tokyo hotel in US$268m project
 The owner of Hong Kong’s iconic Peninsula hotel plans to invest HK$2.1 billion (US$268 million) to renovate its flagship hotel in the city and its Tokyo property, betting on the long-term strength of the luxury travel market despite geopolitical uncertainty and volatile consumer demand. Hongkong and
@@ -128,9 +131,6 @@ China’s foreign exchange reserves barely budged last year despite a record US$
 
 ## BYD’s first humanoid robots; Brazil named biggest buyer of Chinese cars: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to debut first humanoid robots in August as rivalry with Tesla intensifies Electri
-
-## Amid AI tumult, more Chinese investors seek haven in undervalued Hang Seng Index
-Mainland Chinese investors bought more Hong Kong stocks than they sold for a second consecutive month in July, rotating into the undervalued market to take shelter from the tumult in artificial intelligence-linked shares. Onshore traders purchased a total of HK$62.9 billion (US$8.02 billion) worth o
 
 ## El Niño Bakes Southeast Asia
 The world’s rice bowl takes a hit.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Turkish cargo ship catches fire after Black Sea drone attack
-A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.
+## Boxer Chapman recovering after emergency surgery for brain bleed
+Featherweight Raven Chapman collapsed while sparring on July 24 and was rushed to surgery, her team says.
 
-## How a social media campaign triggered huge migrant surge on Ceuta
-Following a court ruling protecting migrants swimming to Ceuta the previous week, accounts called on thousands to go.
+## Ex-PM Sheikh Hasina announces her plan to return to Bangladesh
+The decision of the 78-year-old ousted leader comes despite her facing the death penalty in Bangladesh.
 
-## Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor
-Egypt forward Mohamed Salah arrived in Istanbul on Wednesday to complete his move to Turkiye club Trabzonspor.
+## Why are US Republicans losing faith in War Secretary Pete Hegseth?
+The reasons for dissent are not unanimous, ranging from the war in Iran to an overhaul of military leadership.
 
-## Israeli forces detain Palestinians during raid in occupied West Bank
-A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.
+## Iraq faces crisis as Shia armed groups defy disarmament
+Iraqi PM faces a serious crisis as powerful Shia paramilitaries refuse to disarm as September 30 deadline looms.
 
-## Lebanon and Israel still split over disarming Hezbollah at Rome talks
-Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.
+## Former heavyweight champ ⁠Parker cleared to fight again after doping ban
+Joseph Parker was suspended in October after failing a voluntary drug test, but denied taking any prohibited substance.
 
-## Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’
-Cape Verde's World Cup goalkeeper Vozinha has been officially unveiled as the newest signing for Chilean club Colo-Colo.
+## UN rights chief says Iran executed at least 56 people since March
+Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.
 
-## Israeli raid deepens fears across West Bank refugee camps
-Israeli raid deepens fears across West Bank refugee camps
+## Pakistan’s Khan in jail for 3 years: PTI rallies over ‘arbitrary detention’
+Thousands of supporters of former PM Imran Khan's party demonstrate across country to call for his immediate release.
 
-## India’s severe monsoon season causes more than 100 deaths since July
-Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.
+## SpaceX rocket segment to crash into the moon: What happened?
+A piece of the SpaceX Falcon 9 rocket is believed to have crashed into the moon after floating in space since last year.
 
 ## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
 In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
@@ -276,6 +276,9 @@ Global consumer goods majors such as Mondelez International, L'Oreal, Reckitt, U
 ## Companies may soon get to retain legal identity in flipbacks
 A parliamentary panel proposes a new statutory framework for inward re-domiciliation. This would allow overseas companies to migrate to India while retaining their legal identity. The joint committee will recommend this new framework in its upcoming report. Sweeping changes are also expected to alig
 
+## RBI upper-layer NBFC list to come out soon
+The Reserve Bank of India will soon release a list of upper-layer NBFCs. New principle-based regulations will classify these financial companies into different layers. Companies in the upper layer will be required to publicly list their shares. Tata Sons may be included on this upcoming list of NBFC
+
 ## RBI to resume urban cooperative bank licensing process after two decades
 The Reserve Bank of India will resume issuing new licenses for urban cooperative banks. This process has been paused for over two decades due to past financial instability. Draft guidelines for resuming UCB licensing have now been issued by the central bank. The operating environment for these banks
 
@@ -293,7 +296,4 @@ The Securities and Exchange Board of India (SEBI) has strengthened its Environme
 
 ## RBI likely to extend rate pause; neutral stance seen unchanged
 Economists anticipate the Reserve Bank of India will maintain its current interest rate at 5.25 percent. The central bank is also expected to keep its neutral monetary policy stance for the fourth review. Some economists foresee a potential rate hike in the second half of fiscal year twenty twenty-s
-
-## Government plans to ease forex rule for SEZ services exports to domestic tariff areas
-The current provision under Section 2(z) of the SEZ Act, 2005 mandates that proceeds for SEZ to DTA supplies of services must be realised in foreign exchange, although there is no such requirement in case of supply of goods to DTA entities.
 
