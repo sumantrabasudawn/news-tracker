@@ -102,6 +102,9 @@ Dwivedi, is a 1997-batch officer of the Arunachal Pradesh-Goa-Mizoram and Union 
 ## Centre deploys response team to Gujarat, Rajasthan amid Chandipura virus cases
 The Centre has also stepped up disease surveillance, scientific investigations and testing in the affected districts to better understand and contain Chandipura Virus Disease outbreak
 
+## How SAIC’s recharged venture with GM plans to catch up with top EV makers in China
+China’s SAIC Motor has extended its cooperation with General Motors by 20 years, renewing the joint venture through 2047 amid aggressive competition from home-grown rivals. SAIC and GM, the largest carmakers in China and the United States, respectively, in terms of sales volume, signed the agreement
+
 ## From wealth transfer to living legacy: How Asia’s founders are architecting the future
 [The content of this article has been produced by our advertising partner.] Asia is on the precipice of a monumental economic shift. By 2030, an estimated US$5.8 trillion of wealth is expected to pass from the region’s founding generations to their successors. In today’s world, wealth is rarely held
 
@@ -122,9 +125,6 @@ Chinese unicorn Moonshot AI has started and is expected to close its latest fina
 
 ## China’s X Square Robot submits confidential filing for Hong Kong IPO, sources say
 Chinese start-up X Square Robot has filed confidentially for an initial public offering (IPO) in Hong Kong, according to two sources familiar with the matter, joining a growing wave of domestic robot makers flocking to capital markets, despite new US trade restrictions. The Shenzhen-based firm has t
-
-## China’s foreign reserves hold steady as external earnings stay in private hands
-China’s foreign exchange reserves barely budged last year despite a record US$1.18 trillion trade surplus, as the country’s massive external earnings increasingly wound up on the balance sheets of domestic households, commercial banks and corporations rather than in Beijing’s central coffers, a new 
 
 ## Ukraine’s Deadly Missile Defense Shortage
 Kyiv has run out of Patriot interceptors, but allies remain reluctant to supply more.
@@ -222,6 +222,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Nigeria announces rescue of 308 kidnapped citizens
+Kidnapping for ransom by armed groups and bandits has become a major crisis in Nigeria.
+
+## FIFA pledges to defend Infantino after World Cup rights plan collapses
+Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.
+
+## Erica Schwartz confirmed as new CDC chief amid US agency turmoil
+US public health agency faces toughest test as Schwartz takes charge amid political pressure and public health crises.
+
 ## Israeli occupation destroys farmland and lives in southern Syria
 Israeli occupation destroys farmland and lives in southern Syria
 
@@ -236,15 +245,6 @@ Israeli forces have launched a large-scale military operation in Qalandiya refug
 
 ## Clashes on anniversary of Imran Khan imprisonment
 Pakistan police fired tear gas at supporters of jailed former Prime Minister Imran Khan in Rawalpindi.
-
-## El-Sayed wins Michigan Democratic Senate primary
-Abdul el-Sayed has won Michigan’s Democratic senate primary
-
-## US announces more than $100m in rewards for eight Jalisco cartel leaders
-The Trump administration has sought to weaken the leadership of high-profile Mexican cartels by increasing the bounties.
-
-## Iran says Hormuz talks with Oman in ‘final’ stages as route approved
-The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
