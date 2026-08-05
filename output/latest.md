@@ -1,61 +1,70 @@
 # AION Intelligence
 
-## Flutter chief steps down as gambling group cuts guidance
-Peter Jackson to be replaced as CEO in October by head of Flutter’s international business
+## How to solve Britain’s prisons crisis
+It will require changes to sentencing as well as building more capacity
 
-## Reform repaid Tice loan on same day £1mn donated by mother of Farage aide Cottrell
-Transactions fuel criticism of the party’s lack of transparency over its financing
+## Iran says it has reached agreement with Oman on Hormuz shipping route
+Islamic republic is determined to retain a degree of control over the chokepoint
 
-## Polanski calls for higher taxes on oil and gas profits to fund wildfire prevention
-Demand comes as both Shell and BP declared their highest quarterly profit in 4 years
+## Europe must do more to harness its AI ambitions
+The US and China use the technology as an instrument of state power, while the EU is still considering its course
 
-## Drone carrying explosives found at Leipzig airport, say German police
-Incident appears to mark an escalation after two years of drone incursions at European airports
+## Israel launches strikes on Lebanon in new flare-up
+Israeli military issues first evacuation order in over a month amid renewed efforts to de-escalate tensions in the region
+
+## Bodycote gets twin private equity bids as buyers feast on London market
+Separate offers from CVC and Veritas value FTSE 250 industrials group at about £1.8bn including debt
 
 ## Musk’s SpaceX unnerves investors with lavish AI spending plans
 Shares slide even as group says its quarterly revenues nearly doubled
 
-## Progressive Democrat wins in Michigan in rebuke to party establishment
-Victory for Abdul El-Sayed sets stage for fierce midterm battle in must-win Senate seat
+## Sheikh Hasina vows to return to Bangladesh despite death sentence
+Exiled former prime minister’s plans pose political test for new government in Dhaka
 
-## Eli Lilly and Novo Nordisk raise profit outlook as weight-loss drug demand soars
-Drugmakers’ share prices diverge as investors take dim view of Novo’s over-reliance on obesity treatments
-
-## China hits back at US with sanctions and tighter drone export rules
-Beijing’s retaliation highlights tensions ahead of Xi Jinping’s planned trip in September
-
-## Strong box office for ‘Toy Story 5’ boosts Disney as US theme parks rebound
+## ‘Toy Story 5’ box office boosts Disney as US theme parks rebound
 Shares rise as entertainment group increases buyback plan
 
-## China launches global tax hunt going back decades
-Fiscal pressure sparks retroactive campaign and tougher controls on future offshore capital flows
+## Google DeepMind CEO Demis Hassabis steps down to become chair
+Chief scientist Jeff Dean leaves the group to found his own start-up
 
-## As airlines struggle, their suppliers are flying high
-The aviation supply chain is buoyant but its wings will be clipped if customers struggle
+## Partners Group nears €2bn deal for beauty group Aroma-Zone
+French asset manager Eurazeo in talks to sell stake in group that sells face serums and food supplements
 
-## West Bengal govt awaits Calcutta Stock Exchange’s roadmap, board to discuss future strategy
-In its maiden Budget, the BJP government in the State proposed to support revival of the iconic bourse to reclaim Kolkata’s place as a financial capital
+## Flutter chief steps down as gambling group cuts guidance
+Peter Jackson to be replaced as CEO in October by head of Flutter’s international business
 
-## Tata Sons to continue as upper-layer NBFC
-RBI signals no change in status, keeping listing trigger alive
+## Polanski calls for higher taxes on oil and gas profits to fund wildfire prevention
+Demand comes as both Shell and BP declared their highest quarterly profit in 4 years
 
-## Completion of LIC OFS helped govt get nearly 2/3rd of BE for ‘miscellaneous receipt’
+## Oil Ministry to deploy tactical teams for petrol pump inspections, says Team Bharat
+Enhanced inspections, stronger quality checks and public reporting aim to improve fuel transparency and curb adulteration across petrol retail outlets nationwide
+
+## Aurobindo Pharma posts record Q1 revenue of ₹9,150 crore; PAT up 25%
+Broad-based growth across business segments helped the drugmaker deliver record quarterly sales and stronger profitability despite a dynamic global operating environment
+
+## TVK’s first Budget versus DMK’s interim budget: Much of the same
+TVK’s maiden Budget retains fiscal path with limited structural changes overall
+
+## Google DeepMind revamp: Demis Hassabis takes new role, Jeff Dean leaves
+The leadership changes coincide with Gemini delays, growing AI competition and a wave of high-profile departures reshaping Google’s artificial intelligence strategy
+
+## Urad eases on improved crop prospects, weak demand
+As per the Agriculture Ministry data, the All India average wholesale mandi prices of urad have eased to Rs 8,638 per quintal as of August 3
+
+## India’s rice procurement up 5% in 2025-26, as Govt buys 18% higher from rabi crop
+
+
+## DGCA summons Air India management after Phuket-Delhi altitude loss incident
+Investigators are analysing flight data, cockpit recordings and witness accounts to determine the cause of the mid-air altitude loss incident
+
+## Completion of LIC OFS helps govt achieve nearly two-thirds of Budget Estimate for miscellaneous receipts
 The OFS allows the government to boost its financial resources while enhancing public ownership in the nation’s largest life insurer.
 
-## Molbio Diagnostics IPO opens on Aug 10 at a price band of ₹768-807
-Funds will used to set up own research centre Bengaluru, among other things
+## Consumers already bearing UPI costs through broader economy: RBI governor
+RBI governor Sanjay Malhotra emphasized that the costs of UPI transactions are already subtly included in operations. He expressed it is premature to introduce explicit fees for merchants. The priority lies in enhancing the payment infrastructure and increasing utilization. Any fee implementation sh
 
-## Edelweiss arm RYP acquires office park in Pune
-The acquisition expands RYP’s portfolio to 5.2 million square feet
+## Liquidity surge due to NRI deposits to be limited and temporary: RBI
 
-## Chandipura virus outbreak: Centre sends expert team to Gujarat and Rajasthan
-Scientists are intensifying surveillance, animal testing and genome sequencing to better understand the virus and strengthen disease control measures nationwide
-
-## PGIM India MF to suspend SIP, STP in overseas funds
-The suspension applies to PGIM India Global Equity Opportunities Fund of Fund, India Emerging Markets Equity FoF and India Global Select Real Estate Securities FoF
-
-## Karnataka attracts fresh investments from Cipla, Rocket India during Mumbai roadshow
-Karnataka’s investment outreach gained momentum with major manufacturing expansion plans and fresh investor interest across infrastructure, renewable energy and industries.
 
 ## Rupee hits 1-month closing high despite RBI repo rate pause; sliding crude oil prices help
 The currency opened 0.5% stronger at 94.92 against the US dollar, its highest level since July 1. It later gave up nearly half of its early advance to settle at 95.1175 per dollar, its strongest closing level since July 7.
@@ -75,11 +84,20 @@ Google leads India's most attractive employer brands, with Tata Group and Amazon
 ## India's services PMI hits over 4.5-year low as demand, new orders lose momentum
 India's services sector growth slowed significantly in July, reaching its weakest pace in over four years. New business inflows expanded at the slowest rate since early 2022, driven by softer demand. Overseas demand remained relatively resilient, with export business outperforming overall sales grow
 
-## India to get its first plastic notes next year: RBI governor shares timeline, explains benefits
-The government has authorised the Reserve Bank of India to print up to 2 billion polymer (plastic) notes - 1 billion each in the Rs 10 and Rs 20 denominations for field trials. At present, there is no proposal to replace paper currency entirely.
+## 'Pakistan asked for ceasefire, we kept them waiting': Ex-defence chief Anil Chauhan recalls Operation Sindoor
+The former CDS said India was determined to achieve its military objectives before considering a ceasefire, with additional waves of strikes already planned.
 
-## ‘Someone has to pay the cost’: RBI governor on MDR proposal for UPI transactions above Rs 2,000
-According to official estimates, the Rs 2,000 threshold would cover only around 5% of all UPI transactions, although these account for nearly 65% of the total value processed on the platform. As a result, routine purchases such as milk, vegetables, groceries, or payments for auto-rickshaws and taxis
+## 12 rat miners who saved 41 trapped workers in Silkyara awarded Sarvottam Jeevan Raksha Padak
+Gadkari presented the awards to the rat miners for their “exceptional courage and selfless service” during the 2023 Silkyara tunnel rescue operation
+
+## 'Opposition is anti-Lord Ram': Kiren Rijiju attacks Congress, SP over Ram Temple donation row protest
+Kiren Rijiju alleged that the Opposition had earlier protested against the construction of the Ram Temple and was now repeating the same stand.
+
+## 'Pakistan's ISI has a free hand in Bangladesh': Sheikh Hasina's son calls it a 'problem for India'
+Sajeeb Wazed Joy said the developments in Bangladesh did not “portend well for India and the world at large.”
+
+## Manoj Kumar Dwivedi appointed NDMC chairperson
+Dwivedi, is a 1997-batch officer of the Arunachal Pradesh-Goa-Mizoram and Union Territory (AGMUT) cadre.
 
 ## Centre deploys response team to Gujarat, Rajasthan amid Chandipura virus cases
 The Centre has also stepped up disease surveillance, scientific investigations and testing in the affected districts to better understand and contain Chandipura Virus Disease outbreak
@@ -89,21 +107,6 @@ Before joining Air India, Gebremariam served as the longest-serving Chief Execut
 
 ## CRPF constable dies by suicide in Manipur: Police
 The incident comes a day after a CRPF assistant sub-inspector allegedly killed two colleagues and injured another using a service rifle before dying by suicide
-
-## Air India Phuket- Delhi flight faced turbulence for four-five minutes: Naidu
-The airline said that the 13 injured passengers have been discharged from hospital, while four crew members remain under medical care.
-
-## Between placards and Parliament: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
-In political science, a pressure group tries to influence policy without contesting elections. History shows the line often moves.
-
-## Class 12 girl held captive, blackmailed, raped by Instagram friend for 24 hours in Nagpur
-The suspect first connected with the girl on Instagram last year, where he had created a handle under the fake name ‘Akash Mehra’ in May.
-
-## Meghalaya’s draft electoral roll declines by 180,402 after SIR
-The election department on Tuesday published the Draft Electoral Roll, 2026 and opened a month-long window for claims and objections before the final list is published
-
-## 'India has always been a great friend and will remain so': Sheikh Hasina
-Sheikh Hasina, former Prime Minister of Bangladesh, praised India's support, asserting the enduring friendship between the two nations.
 
 ## From wealth transfer to living legacy: How Asia’s founders are architecting the future
 [The content of this article has been produced by our advertising partner.] Asia is on the precipice of a monumental economic shift. By 2030, an estimated US$5.8 trillion of wealth is expected to pass from the region’s founding generations to their successors. In today’s world, wealth is rarely held
@@ -129,6 +132,9 @@ Chinese start-up X Square Robot has filed confidentially for an initial public o
 ## China’s foreign reserves hold steady as external earnings stay in private hands
 China’s foreign exchange reserves barely budged last year despite a record US$1.18 trillion trade surplus, as the country’s massive external earnings increasingly wound up on the balance sheets of domestic households, commercial banks and corporations rather than in Beijing’s central coffers, a new 
 
+## The Saudis Are the Architects of Their Own Misfortune
+Missed opportunities and strategic blunders have plagued Riyadh.
+
 ## Why the United States Keeps Losing Wars
 Washington has a long record of fighting the wrong war for the wrong objective.
 
@@ -150,8 +156,17 @@ From local gangs to sand mafias, Beijing keeps running into the same problems.
 ## Iran’s ‘Last Chance’ for Peace Talks
 Qatar confirms that indirect U.S.-Iran negotiations are making progress.
 
-## Will Trump Destroy the Deep Oceans?
-Seabed mining is a threat to both ecology and the international order.
+## Why Asia Is More Enthusiastic About AI Than the West
+In China, India, much of Southeast Asia, and elsewhere in Asia, the net benefits of AI are perceived by populations to be greater than their drawbacks.
+
+## China’s World AI Cooperation Organization Agenda
+Insights from Gloria Chen.
+
+## Kim Yo Jong Warns Japan Over First Tomahawk Missile Test
+The powerful sister of North Korea’s leader said Japan’s preemptive attack capability is entering the “stage of the actual act.”
+
+## 15 Months After Massacre at Pahalgam, Terrorists Target Non-local Civilians Again in Kashmir
+Two laborers from central India were shot dead at a brick kiln in Kulgam in the Kashmir valley on July 31.
 
 ## What a Near-Miss Drone Incident Reveals About South Korea-US Operational Coordination
 South Korea's army thought they were locked on to a North Korean UAV. It actually belonged to the U.S. Marine Corps.
@@ -165,17 +180,8 @@ Parents are paying institutions to coerce adults whose life choices conflict wit
 ## Russia’s New Move in the Kuril Dispute
 Moscow is naming one of the disputed islands after a Soviet spy who operated in Imperial Japan.
 
-## Germany’s Deportation of an Afghan Without Criminal Record Sets a New Precedent
-Germany stepped up its deportations of Afghan nationals even as critics take aim at its interactions with the Taliban regime.
-
-## How Aging Populations Are Transforming Police Work Across Asia
-In East Asia’s graying societies, police are becoming the “catch-all” agency for managing aging, like dementia-related wandering.
-
-## As World Bank Retreats From Climate Targets, India’s Most Vulnerable Could Pay the Price
-Most climate finance goes where it is easiest to lend. Embankments, water systems, shade, and shelters that save lives and livelihoods in villages struggle to find funding.
-
-## KMT, TPP Mull Referendums to Go With Taiwan’s Local Elections
-Up to six proposals – ranging from nuclear power to absentee voting – will be put to voters in the November polls, but without the usual round of campaigning for signatures.
+## Beyond Hormuz: The Future of Maritime Chokepoints
+Iran’s closure of the Strait of Hormuz and efforts to extract payments for safe passage — plus, more recently, the Houthis’ move to attack Saudi shipping through the Bab el-Mandeb Strait — have highlighted the risks of maritime chokepoints to global shipping and raised questions about the future for
 
 ## Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal
 Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal “totally subject” to Saudi Arabia j
@@ -197,9 +203,6 @@ The release of the Chinese open-weight AI model Kimi K3 has compressed a year’
 
 ## Possible Is Not Plausible: How Nightmare Scenarios Hijack Unconventional Weapons Policy
 Current conversations surrounding unconventional weapons — chemical, biological, radiological, and nuclear — have become so fantastical as to be unserious. As the Chinese military fundamentally rethinks biological warfare and Russia continues to use chloropicrin in Ukraine, hypothetical scenarios of
-
-## The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation
-In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities resumed in mid-July. More recently, the Houthis in Yemen have
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +228,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp
+Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.
+
+## El-Sayed wins Michigan Democratic Senate primary
+Abdul El-Sayed won Michigan's Democratic primary for US Senate, narrowly defeating Rep. Haley Stevens.
+
+## Puntland forces seize government-held camp in Somalia’s Galkayo
+Puntland says it has taken control of Galkayo camp as rival federal-aligned forces retreat following intense clashes.
+
+## At least one Lebanese person, two Israeli soldiers killed in south Lebanon
+The violence comes amid talks between Lebanon and Israel as Beirut pushes for a phased Israeli troop withdrawal.
+
+## LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit
+An agreement with an unnamed investor is approved by the LIV Golf board to replace Saudi Arabia deal.
+
+## Russia kills 17 in ballistic missile attacks around Kyiv
+At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.
+
+## Pope Leo XIV to visit Peru, Argentina and Uruguay in November
+The pontiff’s first Latin America trip will take him back to Peru, where he spent decades as a missionary and bishop.
+
 ## Puerto Rican cities hit with water rationing measures during record drought
 Governor Jenniffer Gonzalez says she does not know how long the rationing measures will remain in place.
 
-## Arab officials call for action over Jerusalem tensions
-Arab officials call for action over Jerusalem tensions
-
-## Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites
-Foreign ministers warn Christian and Islamic holy sites 'threatened' by Israel 'as never before'.
-
-## UK tribunal confirms professor’s anti-Zionism is legally protected belief
-David Miller has told Al Jazeera the ruling is a victory that will encourage others to speak out against Zionism.
-
-## War on Iran: US-Iran deal edges closer
-A deal between the US and Iran could be signed within 48 hours, according to US officials.
-
-## Germany investigates explosive device attached to drone at Leipzig airport
-An airport employee spotted the object carrying what authorities described as 'an unknown explosive device'.
-
-## Demolition complicates the search for bodies after Venezuela’s earthquakes
-Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?
-
-## Gaza father opens play center to restore childhood amid Israeli attacks
-A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.
+## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
+While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
 
 ## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
 In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
@@ -269,9 +275,6 @@ Taxpayers challenging GST penalty orders received a major relief after the Delhi
 
 ## Global FMCG majors bullish on India, to step up investments to accelerate retail presence
 Global consumer goods majors such as Mondelez International, L'Oreal, Reckitt, Unilever, Nestle and The Coca-Cola Company see India as a key growth market and a major driver of future growth.
-
-## Companies may soon get to retain legal identity in flipbacks
-A parliamentary panel proposes a new statutory framework for inward re-domiciliation. This would allow overseas companies to migrate to India while retaining their legal identity. The joint committee will recommend this new framework in its upcoming report. Sweeping changes are also expected to alig
 
 ## RBI upper-layer NBFC list to come out soon
 The Reserve Bank of India will soon release a list of upper-layer NBFCs. New principle-based regulations will classify these financial companies into different layers. Companies in the upper layer will be required to publicly list their shares. Tata Sons may be included on this upcoming list of NBFC
