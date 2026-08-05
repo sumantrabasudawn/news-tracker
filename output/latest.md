@@ -1,69 +1,63 @@
 # AION Intelligence
 
-## Trump trapped between escalation and an Iran deal on Tehran’s terms
-The US president faces few good options to exit a war he once said would end swiftly with the Islamic republic’s surrender
+## Bank of England: QT bye?
+The case for active quantitative tightening is getting weaker
 
-## OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says
-AI Security Institute warns tools undertook ‘potentially harmful activity directed at real people and organisations’
+## FirstFT: SpaceX’s AI spending plans rattle investors
+Also in today’s newsletter: AI infrastructure debt and John Lewis profit warning
 
-## Musk’s SpaceX unnerves investors with lavish AI spending plans
-Shares slide even as group says its quarterly revenues nearly doubled
+## Shares in Chinese AI darlings slide on US ban fears
+Zhongji Innolight and Eoptolink hit by report that Washington is drafting ban on optical transceivers
 
-## US revokes visa for Brazilian ambassador
-Retaliatory move deepens diplomatic rift ahead of South American nation’s October elections
+## The Story of Money
+Watch the latest episode from the FT podcast exploring the history of finance
 
-## Trump’s ex-lawyer poised to become attorney-general after ‘slush fund’ U-turn
-Todd Blanche’s nomination clears US Senate panel as Republican holdouts drop objections
+## The earthquake at Wachtell
+An exodus of litigation partners expands the talent war beyond dealmakers
 
-## FirstFT: SpaceX surpasses analysts’ expectations in debut earnings report
-Also in today’s newsletter: India proposes widening tax exemptions for foreign investors and Malaysia’s $100bn ‘cursed island’
+## SpaceX bolsters the case against quarterly earnings
+What has happened to the finances of Elon Musk’s rocket maker over the past three months is pretty irrelevant
 
-## ‘Two very different characters’: Miliband and Rubio to meet in Washington
-Foreign secretary to discuss Strait of Hormuz, Ukraine and Gaza with US counterpart
+## UK’s ability to make medicines and missiles hit by decline of chemicals industry
+Rate of UK chemical company closures doubled between 2020 and 2025, study finds
 
-## Trump administration refunds $100bn in ‘liberation day’ tariffs
-US customs officials repay about 60% of the levies that were struck down by the Supreme Court
+## Paradise Papers law firm explores private equity sale
+Appleby, once at the centre of offshore data leak, draws up list of potential investors
 
-## US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO
-Carmaker’s new boss predicts industry ‘shakeout’ and announces $1.4bn cost-cutting programme
+## Pressure on UK bank earnings peeks out from behind the hedge
+Strong headline figures mask some pressures that lie underneath the surface
 
-## P&G seals $3.8bn deal for supplements company Thorne
-Consumer goods group expands its health business in a sector that has boomed since Covid pandemic
+## Tamil Nadu Budget 2026 Live: We aim to reach $1.5 trillion economy by 2035-36: Finance Minister Marie Wilson
+TN Budget 2026-27 Updates & Announcements: Amid a charged political atmosphere, the Tamil Nadu Finance Minister Marie Wilson is presenting his maiden budget in the Tamil Nadu Legislative Assembly.
 
-## US diesel prices overtake Biden-era average in blow to Trump
-Cost for fuel that powers industrial America set to remain elevated even as crude falls
+## TVK govt sets sight on $1.5 trillion economy by 2031
+In his address to the Legislative Assembly, the Finance Minister lauded the leadership of Chief Minister Vijay, stating that his entry into public service was driven by a moral obligation to the people
 
-## Palantir rides high on greed and fear — but mostly fear
-Given its prodigious growth and the belief that this will continue, the anxiety many feel is the fear of missing out
+## Sensex today | Stock Market Live: RBI keeps repo rate unchanged at 5.25%; Sensex jumps 405 pts to 78,834; Nifty edges up 18 pts to 24,633
+Sensex, Nifty, Share Prices LIVE: The benchmark indices Sensex and Nifty edged lower in the morning session on Wednesday, after the RBI held the repo rate steady at 5.25%. At 11.14 am, Sensex gained 404.81 pts or 0.52% to 78,833.76; and Nifty 50 inched up 17.90 pts or 0.07% to 24,632.80 The top gain
 
-## Spotify profits hit by heavy spending as fears build over streaming growth
-US-listed group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
+## Freshworks beats guidance estimates to post 16% revenue growth in Q2 2026
+SaaS firm posts net profit, raises full-year guidance; hits GAAP profitability ahead of plan
 
-## RBI MPC Meeting Live Updates: Will the RBI keep repo rate unchanged?
-The repo rate has been unchanged in the last 3 RBI Monetary Policy meets and the neutral stance has been maintained since June 2025 in the past 7 RBI MPC meets
+## Xiong'an: Where a better city means a better life
+Xiong'an: Where a better city means a better life
 
-## Sensex today | Stock Market Live: Sensex opens over 600 points higher, Nifty marginally firmer
-Sensex, Nifty, Share Prices LIVE: Sensex opens 626 points higher at 79,055.38 compared to the previous close of 78,428.95, while Nifty 50 opened marginally flat at 24,669.20 against the previous close of 24,614.90. Stocks from rate sensitive sectors such as banking, realty, NBFCs (especially HFCs) a
+## Airtel Q1 results beats estimates; stock slips marginally
+Consolidated EBITDA came in at ₹33,599 crore, reflecting a margin of 57.4 per cent
 
-## Q1 Results Today Live: Power Grid, Cummins India, GE Vernova, Aurobindo Pharma, PB Fintech, Biocon, Berger Paints, Aster DM, Navin Fluorine, Whirlpool to announce Q1 results, Bharti Airtel, Graphite, Godrej Prop, Dr Agarwal’s gain, ONGC, BSE, Marico, Nykaa & Kalyan Jewellers decline after Q1
-Q1 Results Today, 5th August 2026 Live Updates:
+## RBI MPC Meeting 2026 Live: RBI keeps repo rate unchanged, neutral stance to continue
+The repo rate has been unchanged since Dec 2025 RBI Monetary Policy meet and the neutral stance has been maintained since June 2025 in the past 7 RBI MPC meets
 
-## Tamil Nadu Budget 2026 Live: Finance Minister Marie Wilson to present maiden Budget at 10 am
-TN Budget 2026-27 Updates & Announcements: Amid much expectations, Vijay-led TVK government to present its maiden Budget in Tamil Nadu
+## Elevation Capital, Peak XV Partners sell 2.3% stake in Meesho for ₹1,949 crore; stock falls
+The transactions were executed on Tuesday at an average price of ₹186 apiece, taking the aggregate deal size to ₹1,949.28 crore, as per the data
 
-## Gold extends gains on lower oil and softer dollar, markets await US jobs data
-Spot gold was up 1.3% at $4,127.04 ‌per ounce and U.S. gold futures rose 0.8% to $4,184.40
+## Gold price prediction today: Is the worst over for gold? Check August 5, 2026 outlook
+Gold price prediction today: Recent gold price trends suggest that the worst of the downside may be behind us, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers. Early this week, bullion has started on a firmer footing, supported by a weaker US d
 
-## Oil drops for third-day on signs of progress toward Hormuz deal
-Axios reported the US, Iran and Oman were nearing an interim accord to reopen the conduit, with Washington aiming for an announcement later Wednesday
+## US-Iran conflict, El Nino: Why RBI did not hike repo rate despite headwinds
+Indeed, RBI governor Sanjay Malhotra has acknowledged that the conflict in West Asia continues to weigh on the global economy by disrupting critical trade routes and supply chains, increasing market volatility and weakening business confidence. But the biggest factor for keeping repo rate unchanged 
 
-## OpenAI, Anthropic model tests reveal more hacking, deception
-OpenAI and Anthropic have publicly acknowledged that they’ve collectively breached the systems of multiple institutions including Hugging Face Inc. inadvertently while testing their models.
-
-## MapmyIndia profit rises 8.6% to ₹49.7 crore in June quarter
-The revenue from operations of MapmyIndia grew by 14.9 per cent to ₹139.7 crore during the reported quarter from ₹121.6 crore in the year-ago period
-
-## BSE Sensex, NSE Nifty50 eye RBI MPC decision after ending four-day winning streak
+## Stock market today: Sensex jumps over 430 points, Nifty opens above 24,600
 
 
 ## Oil price today: Crude steadies below $80 as Hormuz blockade keeps investors on edge
@@ -72,50 +66,50 @@ Oil prices nudged higher on Wednesday after a series of declines, as investors k
 ## Higher tariffs boost Airtel profit by 37%
 In an impressive first quarter, Bharti Airtel recorded a remarkable profit surge of 37.3%, driven by increased mobile tariffs and a robust influx of new customers. The company's revenue also soared by 18.4%, showcasing strong growth across its India and Africa segments. Notably, Airtel's average rev
 
+## SpaceX's first earnings: Revenue soars to $7.8 billion in debut results
+SpaceX has reported a reduced loss alongside increased revenue, mainly driven by its burgeoning Starlink business. With ambitions to dominate global internet services, Starlink's subscriber count has now doubled. The company is heavily investing in artificial intelligence and infrastructure, aiming 
+
 ## Nykaa posts over 3x profit in Q1 on strong beauty biz
 
 
 ## Brent falls to $80, goverment vows to mitigate volatility
 
 
-## Tax bill aims to woo global investors
+## TN fin min Wilson praises CM Vijay as 'true Jananayagan'
+TN fin min Wilson praises CM Vijay as 'true Jananayagan'
 
+## TVK govt presents first Budget in Assembly, Fin Min hails Vijay for halting kickbacks in tenders
+TVK govt presents first Budget in Assembly, Fin Min hails Vijay for halting kickbacks in tenders
 
-## United Spirits contests FSSAI's flavouring order, petitions HC
-United Spirits finds itself at the center of a legal battle, opposing a food regulator’s decree about its McDowell's No. 1 Rum labeling. The FSSAI asserts that flavors typical of rum and whisky are not permissible in spirits. Inspections have uncovered that various manufacturers employed neutral alc
+## ‘I could have resigned too’: Karnataka CM Shivakumar recalls cabinet berth denial during Siddaramaiah's tenure
+His statement came a day after a few Congress MLAs offered to resign after failing to secure a ministerial post in the long-awaited cabinet reshuffle.
 
-## MDR to help fintechs recover costs, boost their IPO hopes
+## Maharashtra: ECI grants 2nd SIR extension; draft roll to be published on Aug 24
+An ECI order said the commission has directed all election officials to adhere to the revised schedule and ensure that political parties are informed
 
+## Sitharaman introduces tax amendment Bill to attract global capital, strengthen manufacturing
+The Appropriation Bill, 2026 was passed in Lok Sabha by Voice vote amid opposition protest over alleged theft of donation at the Ram Temple and other issues.
 
-## Parliament monsoon session LIVE: Oppn to continue demand for discussion on CJP crackdown, Ram temple donation theft
-Parliament monsoon session LIVE: Day 13 of the monsoon session proceedings will begin today at 11am. With just a few days left for the Parliament sessions, the Opposition has continued to call on Union Home Minister Amit Shah for answers regarding the security crackdown on the CJP protest.
+## Big change in UPI policy? Payments above ₹2,000 may carry a fee. What we know
+The bill seeks to remove the provision that prevents banks and payment service providers from charging a fee, including MDR, on notified electronic payments.
 
-## Narottam Mishra skips BJP meet held to discuss Datia assembly bypoll defeat
-A two-member committee is expected to be formulated to examine the reasons of BJP's defeat in the assembly bypoll.
+## Jharkhand students go on hunger strike as CJP's Abhijeet Dipke backs protests: What the row is about
+Ranchi protests have gained momentum over as the protesters are seeking a probe by central agencies into ‘irregularities’ exam conducted by the JPSC and JSSC.
 
-## ‘Evidence unreliable’: SC acquits man who spent 22 years in jail in triple murder case
-SC acquitted Arjun Jani after 22 years in prison for a triple murder, citing unreliable evidence and criticizing the Orissa HC for procedural lapses.
+## CWG gold medallist Asmita Dey faces backlash over UP benefits eligibility
+Since Dey's permanent roots are in Tripura, questions have arisen about whether she qualifies under UP’s August 2024 order for state rewards.
 
-## Jharkhand CM reacts to protest against exam irregularities in Ranchi: 'Waiting for CID report'
-The protesters are seeking a probe by central agencies into the alleged irregularities in the recruitment examinations conducted by the JPSC and JSSC.
+## BYD’s first humanoid robots; Brazil named biggest buyer of Chinese cars: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to debut first humanoid robots in August as rivalry with Tesla intensifies Electri
 
-## A duel whose name was writ on Cauvery waters
-The crisis between Tamil Nadu and neighbouring Karnataka over the sharing of water from the Cauvery is not, by any means, a new one
-
-## Resignation a part of politics: DKS over legislators’ threats
-Karnataka chief minister DK Shivakumar on Tuesday issued a stern warning to disgruntled Congress legislators threatening to resign after being overlooked in the cabinet expansion, saying if they resign, it will be accepted “within a few minutes
-
-## SC bars mining in 10-km radius of wetland in HP without Centre’s nod
-The Supreme Court on Tuesday held that no mining activity will be permitted within a 10-kilometre radius of a wetland conservation reserve in Himachal Pradesh without prior permission of the Union government
-
-## Kerala Transport Minister CP John under fire over remarks on free bus rides for women
-Kerala Transport Minister CP John drew flak on Tuesday for his remarks allegedly belittling women who avail free rides in KSRTC buses under the Priyadarshini scheme implemented by the UDF government in June
+## Amid AI tumult, more Chinese investors seek haven in undervalued Hang Seng Index
+Mainland Chinese investors bought more Hong Kong stocks than they sold for a second consecutive month in July, rotating into the undervalued market to take shelter from the tumult in artificial intelligence-linked shares. Onshore traders purchased a total of HK$62.9 billion (US$8.02 billion) worth o
 
 ## China’s stock market sees drop in new A-share, margin-trading accounts amid tech sell-off
-New account openings and leveraged trading in mainland China’s stock market slowed in July as a global artificial intelligence-linked sell-off dented investor appetite following a positive first half of the year for technology shares. The Shanghai Stock Exchange opened 2.66 million new A-share accou
+New account openings and leveraged trading in mainland China’s stock market slowed in July, as a global artificial intelligence-linked sell-off dented investor appetite following a positive first half of the year for technology shares. The Shanghai Stock Exchange opened 2.66 million new A-share acco
 
-## Why China’s new sovereign bond sale in Hong Kong is drawing global interest
-China’s Ministry of Finance is set to raise 15 billion yuan (US$2.22 billion) through a sovereign bond auction in Hong Kong, tapping international capital just days after the city launched a long-awaited tool designed to help global investors hedge against mainland bond market risks. The sale marks 
+## China’s sovereign bond sale in Hong Kong draws global interest, raising over US$2 billion
+China’s Ministry of Finance has successfully raised 15 billion yuan (US$2.22 billion) through a sovereign bond auction in Hong Kong, tapping international capital just days after the city launched a long-awaited tool designed to help global investors hedge against mainland bond market risks. The sal
 
 ## Innovation platform buys Hong Kong office tower as state-linked buyers seek bargains
 The acquisition of a Hong Kong office tower by an innovation platform backed by Ningbo’s city government has reinforced analysts’ expectations that mainland government-linked institutions could play a bigger role in the city’s commercial property market, where prices remain depressed. Land Registry 
@@ -129,11 +123,8 @@ SpaceX’s first earnings report since its listing, together with the coming sup
 ## Could China’s new trust tax pull Pan Shiyi’s wealth into the capital flight spotlight?
 China’s ultra-rich are finding themselves under greater scrutiny as new tax rules on offshore trusts raise questions over their fortunes, with New York-based property tycoon Pan Shiyi’s Cayman structure cast back into the spotlight. Market watchers said the rules – which impose a flat 20 per cent le
 
-## Europe’s new EV power struggle sees Chinese giants seize record market share
-Chinese electric vehicle (EV) makers and Tesla are locked in a tug of war across western Europe, taking advantage of rising consumer demand for battery-powered vehicles as volatile oil prices drive buyers away from traditional models. Chinese brands – including BYD to Xpeng – saw their combined mark
-
-## HSBC share price drops following lower-than-expected US$1 billion buy-back
-The share price of HSBC Holdings fell 2.5 per cent on Tuesday afternoon following the lender’s announcement of a lower-than-expected share buy-back. HSBC – the top lender in Hong Kong – resumed its share repurchase programme for the first time since October on Tuesday, earmarking US$1 billion to buy
+## El Niño Bakes Southeast Asia
+The world’s rice bowl takes a hit.
 
 ## Ranking the World’s Top 5 Chokepoints
 Why economic pressure tops geographic advantages.
@@ -155,9 +146,6 @@ A high-profile case is raising doubts about President Prabowo Subianto’s motiv
 
 ## America’s Cosmic Bet on AI
 The winner takes it all. What happens if the United States loses?
-
-## What Remains of Rojava
-In northeastern Syria, Kurdish leaders continue to fight a rear-guard battle for autonomy.
 
 ## Russia’s New Move in the Kuril Dispute
 Moscow is naming one of the disputed islands after a Soviet spy who operated in Imperial Japan.
@@ -231,29 +219,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The yearly mild weather spell that brings Yemen’s coast back to life
+Al-Baldah transforms Mukalla with mild temperatures, beach fun and a rare economic boost for the southern Yemeni city.
+
+## Return of goods to markets in Gaza doesn’t mean people can afford them
+Displaced Palestinians in Gaza struggle daily to afford food, with soaring prices and limited income opportunities.
+
+## Egypt’s Mohamed Salah looks set to swap Liverpool for Turkiye’s Trabzonspor
+The Egyptian forward has been linked with a move to Turkiye since announcing he was leaving Liverpool.
+
+## Bangladesh Truth Seeker
+Amid political upheaval in Bangladesh, a journalist debunks fake news in a fight for his nation’s democratic future.
+
+## Explosions across Kyiv as Russian missiles strike Ukraine’s capital
+At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.
+
+## Has a US court just set the grounds for another January 6 insurrection?
+A US judge has begrudgingly dismissed the last prosecution cases tied to the January 6 insurrection on Capitol Hill.
+
+## Bolivia sends troops to stop Brazilian gang violence along border
+Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.
+
 ## North Korea’s Kim Yo Jong issues military threat over Japan missile test
 The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.
 
-## Protesters demand answers from ICE after second man dies at Delaney Hall
-Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.
-
-## Israel approves $37m to seize more than 70 occupied West Bank sites
-The allocated funding seeks to accelerate Israel's control of historical landmarks across the occupied West Bank.
-
-## US stock market hits record high amid hopes for Strait of Hormuz reopening
-Oil prices fall as US officials tout progress in talks to reopen critical waterway.
-
-## Armed man arrested at Trump’s LA golf course ahead of president’s visit
-Loaded pistol and rifle among items found in suspect's pocket, car and home following arrest, police say.
-
-## Ceuta and Melilla: Why Europe’s African border remains a flashpoint
-The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.
-
-## Ukrainian man chased by exploding drone recounts his terror
-A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.
-
-## Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
-Iran says talks with Oman are proceeding 'positively' as US officials say a deal could be possible soon.
+## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
+In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
@@ -276,14 +267,14 @@ The current provision under Section 2(z) of the SEZ Act, 2005 mandates that proc
 ## India writing new chapters in AI, semiconductors and space, says PM Modi
 Modi said India’s youth have driven growth in mobile manufacturing, startups and emerging sectors like AI, semiconductors and space technology.
 
-## India’s Wealth Disparity
-India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
-
 ## RBI likely to maintain status quo on interest rates
 The Reserve Bank of India (RBI) is expected to leave key interest rates untouched in its monetary policy review to be announced on August 4 with an eye on promoting economic growth as inflation is seen to be under control, analysts said on Tuesday.
 
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
+
+## RBI likely to extend rate pause; neutral stance seen unchanged
+Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
 
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
@@ -293,10 +284,4 @@ Economists anticipate the Reserve Bank of India will maintain its current intere
 
 ## RBI sold about $7 billion to defend rupee on Friday
 India's central bank sold approximately $7 billion to defend the rupee. The Reserve Bank of India intervened across markets as the currency neared a record low. This intervention followed a surge in crude prices impacting Asian oil importers. The RBI's actions helped lift the rupee further away from
-
-## US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
-The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.
-
-## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
-The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
 
