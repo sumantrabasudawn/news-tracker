@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump trapped between escalation and an Iran deal on Tehran’s terms
+The US president faces few good options to exit a war he once said would end swiftly with the Islamic republic’s surrender
+
 ## OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says
 AI Security Institute warns tools undertook ‘potentially harmful activity directed at real people and organisations’
 
@@ -21,9 +24,6 @@ Foreign secretary to discuss Strait of Hormuz, Ukraine and Gaza with US counterp
 ## Trump administration refunds $100bn in ‘liberation day’ tariffs
 US customs officials repay about 60% of the levies that were struck down by the Supreme Court
 
-## India raises $40bn from diaspora to support sagging rupee
-Central bank’s rare push to repatriate savings has drawn stronger than expected inflows
-
 ## US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO
 Carmaker’s new boss predicts industry ‘shakeout’ and announces $1.4bn cost-cutting programme
 
@@ -39,29 +39,41 @@ Given its prodigious growth and the belief that this will continue, the anxiety 
 ## Spotify profits hit by heavy spending as fears build over streaming growth
 US-listed group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber base
 
-## RBI MPC Meeting Highlights: RBI cuts repo rate by 25 bps to 5.25%, maintains neutral stance
-RBI MPC 2025, RBI Monetary Policy Meeting Outcomes, RBI MPC Meeting December 2025 News & Highlights: Here are the major live updates related to the latest bi-monthly RBI Monetary Policy Committee meeting.
+## RBI MPC Meeting Live Updates: Will the RBI keep repo rate unchanged?
+The repo rate has been unchanged in the last 3 RBI Monetary Policy meets and the neutral stance has been maintained since June 2025 in the past 7 RBI MPC meets
 
-## Corporate law changes to ease compliance, boost buyback flexibility for listed firms
-Bill decriminalises procedural lapses, streamlines restructurings and strengthens audit oversight under NFRA
+## Sensex today | Stock Market Live: Sensex opens over 600 points higher, Nifty marginally firmer
+Sensex, Nifty, Share Prices LIVE: Sensex opens 626 points higher at 79,055.38 compared to the previous close of 78,428.95, while Nifty 50 opened marginally flat at 24,669.20 against the previous close of 24,614.90. Stocks from rate sensitive sectors such as banking, realty, NBFCs (especially HFCs) a
 
-## Govt moves Bill to levy MDR on UPI, digital payments on big merchants; no fee for consumers
-Bill will enable the government to notify which instruments, category of people making payment, threshold, etc for exemption from MDR
+## Q1 Results Today Live: Power Grid, Cummins India, GE Vernova, Aurobindo Pharma, PB Fintech, Biocon, Berger Paints, Aster DM, Navin Fluorine, Whirlpool to announce Q1 results, Bharti Airtel, Graphite, Godrej Prop, Dr Agarwal’s gain, ONGC, BSE, Marico, Nykaa & Kalyan Jewellers decline after Q1
+Q1 Results Today, 5th August 2026 Live Updates:
 
-## Most labels and ads changed, says Dabur after FSSAI crackdown on ‘100 per cent’ claims
-Dabur says labelling update underway; company also “seeking legal advice” on the future course of action
+## Tamil Nadu Budget 2026 Live: Finance Minister Marie Wilson to present maiden Budget at 10 am
+TN Budget 2026-27 Updates & Announcements: Amid much expectations, Vijay-led TVK government to present its maiden Budget in Tamil Nadu
 
-## Closing auction: Nifty swings on Day 2 raise eyebrows
-Weekly expiry turns auction-driven price moves into real gains and losses, as market participants debate liquidity, price discovery
+## Gold extends gains on lower oil and softer dollar, markets await US jobs data
+Spot gold was up 1.3% at $4,127.04 ‌per ounce and U.S. gold futures rose 0.8% to $4,184.40
 
-## ONGC Q1 FY27 net profit at ₹6,554 crore
-On a standalone basis, ONGC’s crude oil net realisation from nominated fields rose by 50.4 per cent y-o-y to $99.45 per barrel in Q1 FY27
+## Oil drops for third-day on signs of progress toward Hormuz deal
+Axios reported the US, Iran and Oman were nearing an interim accord to reopen the conduit, with Washington aiming for an announcement later Wednesday
 
-## LIC’s investment portfolio shifts decisively away from loans
-LIC’s investment portfolio growth has slowed in recent years, even as the insurer steadily increased its exposure to private and unlisted companies
+## OpenAI, Anthropic model tests reveal more hacking, deception
+OpenAI and Anthropic have publicly acknowledged that they’ve collectively breached the systems of multiple institutions including Hugging Face Inc. inadvertently while testing their models.
 
-## DGCA launches probe into Air India altitude loss incident; 17 passengers, crew injured
-Flight from Phuket to Delhi landed safely after sudden loss of altitude during cruise; aircraft grounded for investigation
+## MapmyIndia profit rises 8.6% to ₹49.7 crore in June quarter
+The revenue from operations of MapmyIndia grew by 14.9 per cent to ₹139.7 crore during the reported quarter from ₹121.6 crore in the year-ago period
+
+## BSE Sensex, NSE Nifty50 eye RBI MPC decision after ending four-day winning streak
+
+
+## Oil price today: Crude steadies below $80 as Hormuz blockade keeps investors on edge
+Oil prices nudged higher on Wednesday after a series of declines, as investors keep a keen eye on the diplomatic maneuvers surrounding the US-Iran standoff. Progress is reportedly being made by negotiators striving to bring an end to the conflict and restore access to the Strait of Hormuz. While US 
+
+## Higher tariffs boost Airtel profit by 37%
+In an impressive first quarter, Bharti Airtel recorded a remarkable profit surge of 37.3%, driven by increased mobile tariffs and a robust influx of new customers. The company's revenue also soared by 18.4%, showcasing strong growth across its India and Africa segments. Notably, Airtel's average rev
+
+## Nykaa posts over 3x profit in Q1 on strong beauty biz
+
 
 ## Brent falls to $80, goverment vows to mitigate volatility
 
@@ -75,41 +87,32 @@ United Spirits finds itself at the center of a legal battle, opposing a food reg
 ## MDR to help fintechs recover costs, boost their IPO hopes
 
 
-## Govt ups LIC offer size, OFS India's biggest
-The government has announced an extra four percent sale in LIC’s offering, responding to considerable interest revealed by a 3.3 times subscription on day one. This strong demand from institutional buyers led to the exercise of the green shoe option, anticipating a total raise of roughly Rs 31,400 c
+## Parliament monsoon session LIVE: Oppn to continue demand for discussion on CJP crackdown, Ram temple donation theft
+Parliament monsoon session LIVE: Day 13 of the monsoon session proceedings will begin today at 11am. With just a few days left for the Parliament sessions, the Opposition has continued to call on Union Home Minister Amit Shah for answers regarding the security crackdown on the CJP protest.
 
-## 21-yr gold quest: Expand mining, make India export hub
-In a groundbreaking announcement, the World Gold Council has introduced an extensive twenty-one-year roadmap for India's gold industry. This plan focuses on ramping up local mining efforts while establishing India as a premier jewelry hub. It also envisions increased integration of gold in high-tech
+## Narottam Mishra skips BJP meet held to discuss Datia assembly bypoll defeat
+A two-member committee is expected to be formulated to examine the reasons of BJP's defeat in the assembly bypoll.
 
-## Airtel Q1 profit jumps 37% to Rs 8,167 crore
-Bharti Airtel reported a significant profit increase of 37.3% in the first quarter. This growth was fueled by higher mobile tariffs and strong customer additions across businesses. Revenue also saw a substantial rise of 18.4% during the same period. The company's average revenue per user increased t
+## ‘Evidence unreliable’: SC acquits man who spent 22 years in jail in triple murder case
+SC acquitted Arjun Jani after 22 years in prison for a triple murder, citing unreliable evidence and criticizing the Orissa HC for procedural lapses.
 
-## ONGC Q1 results: Oil giant's profit doubles to Rs 17,034 crore amid rising crude prices
-ONGC's profit more than doubled in the April-June quarter. Higher crude oil prices and improved realisations significantly boosted earnings. Total income rose substantially compared to the previous year. Oil and gas production remained broadly stable with marginal declines. Strategic projects are ex
+## Jharkhand CM reacts to protest against exam irregularities in Ranchi: 'Waiting for CID report'
+The protesters are seeking a probe by central agencies into the alleged irregularities in the recruitment examinations conducted by the JPSC and JSSC.
 
-## Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
-Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
+## A duel whose name was writ on Cauvery waters
+The crisis between Tamil Nadu and neighbouring Karnataka over the sharing of water from the Cauvery is not, by any means, a new one
 
-## ‘My words had only one meaning’: Udhayanidhi Stalin rejects Trisha remark allegations, calls Vijay's TVK a ‘circus’
-The DMK leader alleged that the Vijay-led government edited his speech to divert attention from the Cauvery issue.
+## Resignation a part of politics: DKS over legislators’ threats
+Karnataka chief minister DK Shivakumar on Tuesday issued a stern warning to disgruntled Congress legislators threatening to resign after being overlooked in the cabinet expansion, saying if they resign, it will be accepted “within a few minutes
 
-## Udhayanidhi Stalin held for controversial comment, released on bail after 10 hrs
-Udhayanidhi was taken into custody by a police team from his residence in Chennai on Tuesday morning and taken to Thanjavur,
+## SC bars mining in 10-km radius of wetland in HP without Centre’s nod
+The Supreme Court on Tuesday held that no mining activity will be permitted within a 10-kilometre radius of a wetland conservation reserve in Himachal Pradesh without prior permission of the Union government
 
-## Heavy rains lash Kerala: 25 dead, 4 missing, 10 injured; ‘red alert’ in 8 districts
-The government said 52 houses were destroyed and 565 homes were partially damaged between August 1 and August 4.
+## Kerala Transport Minister CP John under fire over remarks on free bus rides for women
+Kerala Transport Minister CP John drew flak on Tuesday for his remarks allegedly belittling women who avail free rides in KSRTC buses under the Priyadarshini scheme implemented by the UDF government in June
 
-## 13 Indians rescued as merchant vessel sinks after attack off Yemen coast
-Shipping minister Sarbananda Sonowal said on social media that the cargo vessel MSV Faize Noore Oliya sank after being hit by “a projectile” near Yemeni waters.
-
-## Tharoor to attend Mumbai event where RSS chief will have ‘session with Gen Z’? He clarifies
-Tharoor clarified that the programme was not an RSS event and was instead a student-led initiative involving educationists and thought leaders.
-
-## Why 'free' public services can cost more, as per chief economic advisor V Anantha Nageswaran
-V Anantha Nageswaran has been India's chief economic advisor since 2022.
-
-## DMK MLA Markandeyan released on bail over remarks against CM Vijay
-Markandeyan was arrested by the Thoothukudi District Crime Branch (DCB) police on July 20.
+## China’s stock market sees drop in new A-share, margin-trading accounts amid tech sell-off
+New account openings and leveraged trading in mainland China’s stock market slowed in July as a global artificial intelligence-linked sell-off dented investor appetite following a positive first half of the year for technology shares. The Shanghai Stock Exchange opened 2.66 million new A-share accou
 
 ## Why China’s new sovereign bond sale in Hong Kong is drawing global interest
 China’s Ministry of Finance is set to raise 15 billion yuan (US$2.22 billion) through a sovereign bond auction in Hong Kong, tapping international capital just days after the city launched a long-awaited tool designed to help global investors hedge against mainland bond market risks. The sale marks 
@@ -131,9 +134,6 @@ Chinese electric vehicle (EV) makers and Tesla are locked in a tug of war across
 
 ## HSBC share price drops following lower-than-expected US$1 billion buy-back
 The share price of HSBC Holdings fell 2.5 per cent on Tuesday afternoon following the lender’s announcement of a lower-than-expected share buy-back. HSBC – the top lender in Hong Kong – resumed its share repurchase programme for the first time since October on Tuesday, earmarking US$1 billion to buy
-
-## China’s outsize commodities footprint cushions global energy shocks: Goldman Sachs
-China’s outsize footprint in global commodities is helping to cushion international energy shocks and stabilise gold prices, even as its export controls on rare earths and other critical minerals trigger violent price swings in the Western technology supply chain, according to Goldman Sachs. In a re
 
 ## Ranking the World’s Top 5 Chokepoints
 Why economic pressure tops geographic advantages.
@@ -159,6 +159,15 @@ The winner takes it all. What happens if the United States loses?
 ## What Remains of Rojava
 In northeastern Syria, Kurdish leaders continue to fight a rear-guard battle for autonomy.
 
+## Russia’s New Move in the Kuril Dispute
+Moscow is naming one of the disputed islands after a Soviet spy who operated in Imperial Japan.
+
+## Germany’s Deportation of an Afghan Without Criminal Record Sets a New Precedent
+Germany stepped up its deportations of Afghan nationals even as critics take aim at its interactions with the Taliban regime.
+
+## How Aging Populations Are Transforming Police Work Across Asia
+In East Asia’s graying societies, police are becoming the “catch-all” agency for managing aging, like dementia-related wandering.
+
 ## As World Bank Retreats From Climate Targets, India’s Most Vulnerable Could Pay the Price
 Most climate finance goes where it is easiest to lend. Embankments, water systems, shade, and shelters that save lives and livelihoods in villages struggle to find funding.
 
@@ -173,15 +182,6 @@ The announcement follows the Pakatan Harapan coalition's bruising defeat in the 
 
 ## Iran in Port Sudan? The Next Threat to Asian Markets
 The Red Sea corridor Asian trade depends on has another volatile shore, and almost nobody is watching it.
-
-## It’s Time for the East Asia Summit to Tackle Nuclear Proliferation
-As more countries consider acquiring nuclear weapons, the EAS should take the lead in addressing the growing challenges of proliferation.
-
-## What Philippine President Marcos Said About China in His State of the Nation Address
-His rhetoric was familiar, but carried additional weight in light of recent clashes between Chinese and Philippine vessels in the South China Sea.
-
-## Donald Trump’s Tariff Re-Do in Southeast Asia
-The capricious treatment of partners and allies threatens to do long-term damage to Washington's standing in the region.
 
 ## A Conversation with the Pentagon’s Chief Buyer, Under Secretary Michael P. Duffey
 Under Secretary of Defense for Acquisition and Sustainment Michael P. Duffey joins Jonathan to discuss the Pentagon’s ongoing acquisition transformation. Their conversation spans the recent munitions agreements, industry investments, the shift to portfolio acquisition executives, allied coproduction
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## North Korea’s Kim Yo Jong issues military threat over Japan missile test
+The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.
+
+## Protesters demand answers from ICE after second man dies at Delaney Hall
+Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.
+
+## Israel approves $37m to seize more than 70 occupied West Bank sites
+The allocated funding seeks to accelerate Israel's control of historical landmarks across the occupied West Bank.
+
+## US stock market hits record high amid hopes for Strait of Hormuz reopening
+Oil prices fall as US officials tout progress in talks to reopen critical waterway.
+
+## Armed man arrested at Trump’s LA golf course ahead of president’s visit
+Loaded pistol and rifle among items found in suspect's pocket, car and home following arrest, police say.
+
+## Ceuta and Melilla: Why Europe’s African border remains a flashpoint
+The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.
+
+## Ukrainian man chased by exploding drone recounts his terror
+A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.
+
 ## Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
 Iran says talks with Oman are proceeding 'positively' as US officials say a deal could be possible soon.
-
-## US revokes visa of Brazilian ambassador amid deepening diplomatic spat
-An official has indicated that the visa revocation would not mean that Brazil's ambassador will be expelled from the US.
-
-## Sri Lanka shuts schools as floods and mudslides kill 7
-Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.
-
-## One killed, five injured in Russian ballistic missile attack on Kyiv
-The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.
-
-## Elon Musk’s SpaceX reports losses but less than expected
-Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.
-
-## How the far right weaponised the Ceuta crisis
-More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.
-
-## Funeral for family killed in US strike on Iran’s Qeshm Island
-The funeral for a couple and their toddler took place after they were killed in the US strike on Iran's Qeshm Island.
-
-## Death toll rises to 87 in India’s flood-stricken Assam
-Flood victims in India’s Assam district are living in makeshift shelters after monsoon rains caused widespread flooding.
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
@@ -279,6 +279,9 @@ Modi said India’s youth have driven growth in mobile manufacturing, startups a
 ## India’s Wealth Disparity
 India's wealth creation story is becoming increasingly entrepreneurial. Nearly two-thirds of the wealth creators continue to actively run their businesses rather than simply inheriting wealth. The digital economy has emerged as a powerful wealth creator, with nearly half of the self-made wealth crea
 
+## RBI likely to maintain status quo on interest rates
+The Reserve Bank of India (RBI) is expected to leave key interest rates untouched in its monetary policy review to be announced on August 4 with an eye on promoting economic growth as inflation is seen to be under control, analysts said on Tuesday.
+
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
@@ -296,7 +299,4 @@ The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation
 
 ## Govt's proposed Rs 277 crore MSME investment set to boost India's economy: Industry officials
 The government's proposed Rs 277 crore investment in the MSME sector by 2027 is expected to accelerate digitalisation of small businesses and strengthen their contribution to India's economic growth, industry officials said.
-
-## Sebi cancels registration of 10 research analysts for non-payment of renewal fee
-Sebi has cancelled ten research analyst registrations for unpaid renewal fees. These entities failed to renew their licenses despite receiving official notices. In a separate action, Firstcapital Alternate Investment Trust also lost its registration. This fund failed to submit required quarterly act
 
