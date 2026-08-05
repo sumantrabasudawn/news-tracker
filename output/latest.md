@@ -1,16 +1,28 @@
 # AION Intelligence
 
-## How to solve Britain’s prisons crisis
-It will require changes to sentencing as well as building more capacity
-
 ## Iran says it has reached agreement with Oman on Hormuz shipping route
 Islamic republic is determined to retain a degree of control over the chokepoint
 
+## Big US hedge funds hit by wave of cyber attacks
+Point72 and Citadel among firms targeted by audio phishing schemes
+
+## Bikemaker Accell files for insolvency four years after €1.8bn KKR-led buyout
+Announcement by Dutch owner of Raleigh and Babboe brands follows four difficult years since it was taken private
+
+## JPMorgan poaches M&A banker Amy Lissauer from Bank of America
+Executive will lead activism defence practice at biggest US lender
+
+## Google DeepMind CEO Demis Hassabis steps down in shake-up of AI lab
+Chief scientist Jeff Dean leaves the group to found his own start-up
+
+## Badenoch ‘sad’ over former antisemite’s withdrawal as Tory council candidate
+Joshua Bonehill-Paine says he will now advise Conservative Party on its culture and integration commission
+
+## How to solve Britain’s prisons crisis
+It will require changes to sentencing as well as building more capacity
+
 ## Europe must do more to harness its AI ambitions
 The US and China use the technology as an instrument of state power, while the EU is still considering its course
-
-## Israel launches strikes on Lebanon in new flare-up
-Israeli military issues first evacuation order in over a month amid renewed efforts to de-escalate tensions in the region
 
 ## Bodycote gets twin private equity bids as buyers feast on London market
 Separate offers from CVC and Veritas value FTSE 250 industrials group at about £1.8bn including debt
@@ -18,23 +30,8 @@ Separate offers from CVC and Veritas value FTSE 250 industrials group at about �
 ## Musk’s SpaceX unnerves investors with lavish AI spending plans
 Shares slide even as group says its quarterly revenues nearly doubled
 
-## Sheikh Hasina vows to return to Bangladesh despite death sentence
-Exiled former prime minister’s plans pose political test for new government in Dhaka
-
 ## ‘Toy Story 5’ box office boosts Disney as US theme parks rebound
 Shares rise as entertainment group increases buyback plan
-
-## Google DeepMind CEO Demis Hassabis steps down to become chair
-Chief scientist Jeff Dean leaves the group to found his own start-up
-
-## Partners Group nears €2bn deal for beauty group Aroma-Zone
-French asset manager Eurazeo in talks to sell stake in group that sells face serums and food supplements
-
-## Flutter chief steps down as gambling group cuts guidance
-Peter Jackson to be replaced as CEO in October by head of Flutter’s international business
-
-## Polanski calls for higher taxes on oil and gas profits to fund wildfire prevention
-Demand comes as both Shell and BP declared their highest quarterly profit in 4 years
 
 ## Oil Ministry to deploy tactical teams for petrol pump inspections, says Team Bharat
 Enhanced inspections, stronger quality checks and public reporting aim to improve fuel transparency and curb adulteration across petrol retail outlets nationwide
@@ -84,6 +81,12 @@ Google leads India's most attractive employer brands, with Tata Group and Amazon
 ## India's services PMI hits over 4.5-year low as demand, new orders lose momentum
 India's services sector growth slowed significantly in July, reaching its weakest pace in over four years. New business inflows expanded at the slowest rate since early 2022, driven by softer demand. Overseas demand remained relatively resilient, with export business outperforming overall sales grow
 
+## Tourism ministry's partnership with Netflix, YouTube can create wonders: Shekhawat
+Tourism ministry's partnership with Netflix, YouTube can create wonders: Shekhawat
+
+## Centre blocks 4,996 Telegram channels, 1,263 websites in anti-piracy crackdown
+Under the Information Technology Rules, 2021, intermediaries are required to remove any content that violates any law for the time being in force.
+
 ## 'Pakistan asked for ceasefire, we kept them waiting': Ex-defence chief Anil Chauhan recalls Operation Sindoor
 The former CDS said India was determined to achieve its military objectives before considering a ceasefire, with additional waves of strikes already planned.
 
@@ -101,12 +104,6 @@ Dwivedi, is a 1997-batch officer of the Arunachal Pradesh-Goa-Mizoram and Union 
 
 ## Centre deploys response team to Gujarat, Rajasthan amid Chandipura virus cases
 The Centre has also stepped up disease surveillance, scientific investigations and testing in the affected districts to better understand and contain Chandipura Virus Disease outbreak
-
-## Who is Tewolde Gebremariam? Former Ethiopian Airlines chief with 37 years in aviation now leading Air India
-Before joining Air India, Gebremariam served as the longest-serving Chief Executive Officer of Ethiopian Airlines Group, holding the position for 11 years.
-
-## CRPF constable dies by suicide in Manipur: Police
-The incident comes a day after a CRPF assistant sub-inspector allegedly killed two colleagues and injured another using a service rifle before dying by suicide
 
 ## From wealth transfer to living legacy: How Asia’s founders are architecting the future
 [The content of this article has been produced by our advertising partner.] Asia is on the precipice of a monumental economic shift. By 2030, an estimated US$5.8 trillion of wealth is expected to pass from the region’s founding generations to their successors. In today’s world, wealth is rarely held
@@ -132,6 +129,12 @@ Chinese start-up X Square Robot has filed confidentially for an initial public o
 ## China’s foreign reserves hold steady as external earnings stay in private hands
 China’s foreign exchange reserves barely budged last year despite a record US$1.18 trillion trade surplus, as the country’s massive external earnings increasingly wound up on the balance sheets of domestic households, commercial banks and corporations rather than in Beijing’s central coffers, a new 
 
+## South Africa’s Global Image Loses Its Luster
+Pretoria’s influence across Africa may be waning following widespread xenophobic attacks.
+
+## What’s Behind the Violence in Pakistan-Administered Kashmir
+The region has become ground zero for protests against poor governance.
+
 ## The Saudis Are the Architects of Their Own Misfortune
 Missed opportunities and strategic blunders have plagued Riyadh.
 
@@ -149,12 +152,6 @@ The world’s rice bowl takes a hit.
 
 ## Ranking the World’s Top 5 Chokepoints
 Why economic pressure tops geographic advantages.
-
-## China Launches New Crackdown on Organized Crime
-From local gangs to sand mafias, Beijing keeps running into the same problems.
-
-## Iran’s ‘Last Chance’ for Peace Talks
-Qatar confirms that indirect U.S.-Iran negotiations are making progress.
 
 ## Why Asia Is More Enthusiastic About AI Than the West
 In China, India, much of Southeast Asia, and elsewhere in Asia, the net benefits of AI are perceived by populations to be greater than their drawbacks.
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## New Mexico sues US Justice Department for impeding Epstein probe
+The southwestern US state's attorney general argues that the federal government is withholding key unredacted documents.
+
+## Young pilot makes daring emergency landing on Florida interstate
+A 21-year-old flight instructor safely landed her small aircraft on a US freeway near Pensacola, Florida.
+
+## Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate
+The announcement comes as Lula warns of foreign interference and polls show a tightening presidential race.
+
+## Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk
+Authorities are screening 5,000 refugees as rights groups warn they remain at risk of persecution in Myanmar.
+
+## US authorities report deadly mass shooting in Prospect Hill, North Carolina
+This is a breaking news story.
+
+## Is the conflict between Russia and Ukraine deepening?
+The war sees a surge in attacks by both sides with little diplomatic movement.
+
 ## Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp
 Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.
 
 ## El-Sayed wins Michigan Democratic Senate primary
 Abdul El-Sayed won Michigan's Democratic primary for US Senate, narrowly defeating Rep. Haley Stevens.
-
-## Puntland forces seize government-held camp in Somalia’s Galkayo
-Puntland says it has taken control of Galkayo camp as rival federal-aligned forces retreat following intense clashes.
-
-## At least one Lebanese person, two Israeli soldiers killed in south Lebanon
-The violence comes amid talks between Lebanon and Israel as Beirut pushes for a phased Israeli troop withdrawal.
-
-## LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit
-An agreement with an unnamed investor is approved by the LIV Golf board to replace Saudi Arabia deal.
-
-## Russia kills 17 in ballistic missile attacks around Kyiv
-At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.
-
-## Pope Leo XIV to visit Peru, Argentina and Uruguay in November
-The pontiff’s first Latin America trip will take him back to Peru, where he spent decades as a missionary and bishop.
-
-## Puerto Rican cities hit with water rationing measures during record drought
-Governor Jenniffer Gonzalez says she does not know how long the rationing measures will remain in place.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
