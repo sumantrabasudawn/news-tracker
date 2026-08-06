@@ -3,6 +3,18 @@
 ## Insurance and bank stocks slide amid China tax crackdown fears
 Move to impose levy on returns from policies that serve as investment products causes consternation in Hong Kong
 
+## SoftBank’s $8bn gain on Intel stake helps Japanese group beat expectations
+First-quarter profits decline following records set in recent quarters
+
+## Wizz Air warns high fuel costs may wipe out profits
+Low-cost carrier swings to loss of almost €200mn between April and June
+
+## OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving
+ChatGPT maker seeks to dismiss blockbuster case as it prepares to launch its own AI device
+
+## Is the AI trade back?
+Plus, looking ahead to the jobs report
+
 ## More moaning about UK monthly GDP
 Sorry, we can’t let this one go
 
@@ -12,56 +24,56 @@ Also in today’s newsletter: DeepMind CEO Hassabis steps down and golden visas
 ## BP North Sea exit presents wake-up call on Scottish energy
 Blow to oil and gas industry comes as renewables projects are faltering
 
-## Citadel ‘makes a killing’
-Ken Griffin’s hedge fund made billions last week after it bought the bulk of Situational Awareness’s stock book
+## WPP shares jump more than 20% as overhaul begins to bear fruit
+Improved results follow London-listed advertising group’s root-and-branch review to streamline its businesses
 
-## At least half a dozen senior NHS leaders linked to Palantir
-Extent of ties revealed as scrutiny grows of US tech company’s contract to build new data platform
+## Rheinmetall cuts sales outlook after Germany scraps warship project
+Tank maker expects €300mn hit this year from cancelled programme but revenues have still grown as defence spending booms
 
-## Iceland demands fisheries control in any EU membership deal
-Foreign minister sets red lines ahead of referendum this month on reopening talks to join bloc
+## Partners Group nears €2bn deal for beauty group Aroma-Zone
+French asset manager Eurazeo in talks to sell stake in group that sells face serums and food supplements
 
-## Virginia governor urges Democrats to unite on affordability to win in midterms
-Centrist dismisses suggestions of civil war in her party after progressive candidate wins Michigan primary
+## SpaceX makes a splash and China scores a memory win
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## The trends in central bank research papers
-Research appears reactive rather than proactive, but at least our AI readers think quality is rising
+## Chiripal Squash Excellence gears up for Olympics in Los Angeles
+The Chiripal Squash Excellence Programme collaborates with the All Gujarat Squash Rackets Association and the Squash Rackets Federation of India to organize activities in Gujarat and beyond
 
-## Who needs consultants in the age of AI?
-Getting a company to implement recommended changes is a contact sport that only humans can play
+## Lok Sabha passes Taxation and Other Laws (Amendment) Bill without discussion
+The Bill aims to amend the Payment and Settlement Systems Act, 2007 which could lead to imposing a Merchant Discount Rate on the Unified Payment Interface
 
-## Scammers pose as watchdogs to prey on EU crypto rule changes
-Customers at hundreds of unlicensed exchanges told to withdraw funds, creating openings for fraudsters
-
-## Ares scales back blockbuster private credit vehicle after valuation pushback
-Wall Street firm sought to complete €1bn continuation fund but failed to get buy-in for pricing from investors
-
-## Sensex today | Stock Market Live: Sensex up 200 pts, Nifty holds 24,600 in choppy trade; Eternal, Reliance leads gainers
-Sensex, Nifty, Share Prices LIVE: Benchmark indices edged higher at the open ‌on Thursday, supported by hopes of a diplomatic breakthrough ⁠in the Middle East and a better-than-expected June-quarter earnings season.
-
-## Vedaanta Senior Living plans ₹800-crore expansion, eyes external funding to double footprint
-The expansion will cover new projects in Trichy, Kancheepuram, Hosur, Madurai and Coimbatore in Tamil Nadu, besides Hyderabad, Tirupati, Mysuru and Bengaluru
-
-## Q1 Results Today Live: Trent, Hero MotoCorp, Lupin, Britannia, Siemens Energy, LIC, BOSCH, Kirloskar Oil Engines, Aegis Logistics, Premier Energies, Emcure Pharma to announce Q1 results, Biocon, Berger Paints, Neuland Lab, ArisInfra gain, Aurobindo Pharma, Aster DM, Whirlpool, PB Fintech, Power Grid, Godrej Agrovet in red after Q1
+## Q1 Results Today Live: Trent & Emcure Pharma log Q1 PAT growth, Blue Star profit declines, Hero MotoCorp, Lupin, Britannia, Siemens Energy, LIC, BOSCH, Kirloskar Oil Engines, Premier Energies to announce Q1 results
 Q1 Results Today, 06th August 2026 Live Updates: Follow Q1FY27 live updates frmo businessline
 
-## 12 districts likely to be affected more due to El Niño: TN Agri Minister
-The District Agricultural Contingency Plan prepared by the Tamil Nadu Agricultural University to tackle El Niño impact communicated to the district collectors, he said
+## Sensex today | Stock Market Live: Sensex up 234 pts, Nifty holds 24,646 in choppy trade; Reliance, BEL lead gainers; TTK Healthcare shares jump 15% on strong Q1
+Sensex, Nifty, Share Prices LIVE: Benchmark indices edged higher at the open ‌on Thursday, supported by hopes of a diplomatic breakthrough ⁠in the Middle East and a better-than-expected June-quarter earnings season.
 
-## Cuticura charts pan-India expansion, eyes younger consumers with portfolio expansion
-Cholayil plans phased expansion starting with South India; focuses on younger consumers and new categories
+## Paramotor Digital Tech to distribute prepaid products of Aditya Birla Capital Digital
+Paramotor will undertake the marketing and distribution of ABCDL’s prepaid products while ensuring compliance with applicable RBI regulations
 
-## Zinc futures face resistance
-Traders can book profits at ₹393
+## iQIYI Launches Short-Form Suspense Drama Brand "Undercurrent Theater" to Advance Premium Genre Storytelling
+iQIYI Launches Short-Form Suspense Drama Brand "Undercurrent Theater" to Advance Premium Genre Storytelling
 
-## RRP Electronics to acquire Vital Electronics
-Plans 100% stake by March 2028; aims to create seamless value chain from semiconductor packaging to complete electronic systems
+## India crosses 300 GW non-fossil fuel capacity, on track to achieve 500 GW by 2030: Pralhad Joshi
+The minister reported that 30.58 GW of non-fossil fuel electricity generation capacity was added from January to June, a 25% increase compared to last year
 
-## Swiggy targets $1.05 billion in core earnings by fiscal 2031
-The company predicts Instamart’s gross order value will grow four-to-fivefold to ₹1.5 lakh crore by fiscal 2031, up from ₹28,000 crore in fiscal 2026
+## Experts at Apollo Hospital, Bilaspur, Remove Esophagus Cancer, Create A New Food Passage Using Stomach
+Experts at Apollo Hospital, Bilaspur, Remove Esophagus Cancer, Create A New Food Passage Using Stomach
 
-## Stock market today: Sensex opens 201 pts higher; Nifty holds above 24,600
+## Stock market today: Sensex rises over 250 pts, Nifty50 holds above 24,600
 
+
+## Gold rate today: Yellow metal hits seven-week high as oil prices lift demand
+
+
+## 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil
+A year since the whole penal tariff cycle began - India now faces uncertainty related to its Russian crude purchases. A new Russia related sanctions bill in the US may see the light of the day if passed this year implying that Trump would have the power to impose tariffs on India again.
+
+## Trump administration refunds $100 billion in tariffs struck down by US Supreme Court
+In a significant move, the Trump administration has reimbursed nearly one hundred billion dollars in tariffs after the Supreme Court ruled against wide-ranging duties. By July, around sixty percent of these tariffs were refunded to importers. The court's decision emphasized that the existing law did
+
+## Gold, silver price prediction: Is gold, silver price rise sustainable? Check outlook on August 6, 2026
+MCX Gold has breached from its consolidation and is heading toward the recent swing highs, pointing to an intermediate bullish move underway. Silver has stepped out of its consolidation and is now aligning with the base trend, a near-term recovery looks well on the cards. Much like gold’s positive t
 
 ## Oil prices today: Crude slips as Iran-Oman talks fuel hopes of peace deal, Hormuz reopening
 Oil prices edged lower as investors assessed Iran-Oman talks for peace. Brent crude futures fell, and US West Texas Intermediate also declined. Market sentiment focused on diplomatic efforts to resolve tensions between Tehran and Washington. Fresh US inventory data showed crude oil stockpiles increa
@@ -72,41 +84,32 @@ Top stock market recommendations: Ambuja Cements, Asahi India Glass, and Pfizer 
 ## Google rejigs AI leadership as DeepMind CEO shifts role
 
 
-## ‘Zero tolerance for unethical practices at HDFC’
+## 2 dead after dispute among brothers over loud music in Mumbai
+Sunil allegedly played music at a high volume in the early hours, following which his brothers, Surendra and Suraj, objected, a senior police official said.
 
+## Priyanka Gandhi critises cancellation of 'Chhatron Ki Goonj' programme in Prayagraj
+The Kayastha Pathshala Trust revoked permission for Rahul Gandhi's 'Chhatron Ki Goonj' programme, scheduled at Prayagraj's K.P. Ground on August 8.
 
-## Airtel Money eyes London listing this year, telco gets ARPU boost
+## Scientists pave way for plant-grown meat
+Scientists engineered tobacco and lettuce to produce myoglobin, a key meat protein, paving the way for sustainable plant-grown meat alternatives.
 
+## Jharkhand CM Hemant Soren meets governor amid student protests, briefs him on JPSC exam row
+Hemant Soren met Jharkhand governor Santosh Kumar Gangwar and apprised him of ongoing protests for alleged irregularities in the JPSC and JSSC exams.
 
-## Rupees 10 and 20 polymer notes to be in circulation by early FY28
+## Jharkhand govt reaches out to protesting students, stalemate continues
+The Jharkhand students protests are demanding for a proper probe into irregularities in the 14th JPSC Civil Service Examination.
 
+## 3,280 visually impaired children in Bengal benefit from Sighsavers programme
+3,280 visually impaired children in Bengal benefit from Sighsavers programme
 
-## Repo rate unchanged, RBI sees higher growth, lower inflation
+## ‘Hemant Soren unfit for office’: Students seek Jharkhand CM's resignation amid protest, plan state assembly gherao
+The student protest in Jharkhand has entered Day 13 and as protestors continue their hunger strike, they have called for the resignation of Hemant Soren.
 
+## ‘Will approach Supreme Court’: Ex-Tehelka editor Tarun Tejpal after conviction in 2013 sexual assault case
+Justices Neela Gokhale and Amit Jamsandekar of the Bombay High Court at Goa overturned Tarun Tejpal's acquittal in the case granted to him in 2021.
 
-## Pizza, soft bedding: Man who befriended teen on Instagram, sexually assaulted her makes demands in jail
-The accused, also complained that the walls were dirty and the toilets were unhygienic, police said.
-
-## Bombay HC convicts Tarun Tejpal in 2013 sexual assault case, overturns acquittal
-The Goa bench of the Bombay high court found the former journalist guilty of raping a colleague at a Goa hotel in 2013.
-
-## Assam girl allegedly raped, killed; family says body brutalised, rod inserted in private parts
-A 16-year-old was allegedly raped and murdered in Assam. Her family said her face was smashed and body mutilated. The probe points to a possible love triangle.
-
-## 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
-Police said the motive behind the killing the 63-year-old security guard is yet to be established, and an investigation is underway
-
-## Kerala Minister says SC directions on Mullaperiyar dam unimplemented, objects water level hike
-Kerala Minister says SC directions on Mullaperiyar dam unimplemented, objects water level hike
-
-## Parliament Monsoon Session LIVE: Lok Sabha adjourned till 2 pm as Opposition presses Ram Mandir, student protest issues
-Parliament Monsoon Session LIVE: As the protests continued, Birla said Question Hour is a crucial part of parliamentary proceedings and noted that it had not been allowed to function even once since the Monsoon Session began on July 20.
-
-## ‘No proposal to extend Parliament session’: Union parliamentary affairs minister Kiren Rijiju
-Rijiju said there is no proposal to extend the monsoon session or convene a special sitting, as talks with the Opposition failed to break the deadlock.
-
-## Kejriwal claims Instagram account restricted in India, tells Meta to not 'bow down to PM Modi so much'
-Arvind Kejriwal told Meta that lack of responses and clarification from their end amounted to “pretty bad service”.
+## US efforts to prop up the yen risk doing more harm than good
+Has the interminable decline in the yen finally run its course? Since the beginning of 2022, Japan’s currency has fallen a staggering 36 per cent against the US dollar. Despite the resolve of the Bank of Japan (BOJ) to keep raising interest rates, the surge in Japanese bond yields over the past year
 
 ## Chinese fund managers’ pursuit of AI plays backfires as hot tech stocks wobble
 A shift to technology stocks by China’s most seasoned fund managers has backfired, with the unwinding of AI plays taking a toll on the performances of their products. Funds run by some star managers with a value-investing approach all recorded declines in net asset values last month after they switc
@@ -118,7 +121,7 @@ Hong Kong’s securities regulator has put a spotlight on highly concentrated sh
 Shares of major Hong Kong-listed insurance and financial institutions tumbled on Thursday, after reports surfaced that mainland Chinese authorities had begun taxing gains on offshore insurance policies bought by mainland visitors in the city, reviving fears of tighter curbs on cross-border capital f
 
 ## Does Beijing really have the power to lift up the Australian dollar?
-While global markets watched closely for a joint move by Washington and Tokyo to prop up the Japanese yen this week, Australian dollar traders have been laser-focused on the actions of another power: China. Some analysts view the Australian currency as particularly sensitive to policy moves in Beiji
+While global markets watched closely for another joint move by Washington and Tokyo to prop up the Japanese yen this week, Australian dollar traders have been laser-focused on the actions of another economic power: China. Some analysts view the Australian currency as particularly sensitive to policy
 
 ## How SAIC’s recharged venture with GM plans to catch up with top EV makers in China
 China’s SAIC Motor has extended its cooperation with General Motors by 20 years, renewing the joint venture through 2047 amid aggressive competition from home-grown rivals. SAIC and GM, the largest carmakers in China and the United States, respectively, in terms of sales volume, signed the agreement
@@ -128,9 +131,6 @@ China’s SAIC Motor has extended its cooperation with General Motors by 20 year
 
 ## Chinese and Western firms are teaming up even as governments fight
 In an era defined by escalating geopolitical tensions and the weaponisation of supply chains, a counterintuitive phenomenon is taking root in the industrial heartlands of China, the United States and Europe. While governments in Beijing, Washington and Brussels engage in high-stakes chess matches of
-
-## Peninsula group to renovate Hong Kong flagship, Tokyo hotel in US$268m project
-The owner of Hong Kong’s iconic Peninsula hotel plans to invest HK$2.1 billion (US$268 million) to renovate its flagship hotel in the city and its Tokyo property, betting on the long-term strength of the luxury travel market despite geopolitical uncertainty and volatile consumer demand. Hongkong and
 
 ## Ukraine’s Deadly Missile Defense Shortage
 Kyiv has run out of Patriot interceptors, but allies remain reluctant to supply more.
@@ -180,6 +180,12 @@ Two laborers from central India were shot dead at a brick kiln in Kulgam in the 
 ## What a Near-Miss Drone Incident Reveals About South Korea-US Operational Coordination
 South Korea's army thought they were locked on to a North Korean UAV. It actually belonged to the U.S. Marine Corps.
 
+## The Arsenal and the Statehouse: New Defense Firms, Venture Capital and State Industrial Policy
+When Anduril announced a $910 million drone production facility in Ohio, it was not politics as usual. The main message came from Ohio’s governor, Mike DeWine, while Representative Mike Carey’s press release thanked the governor. Members of Congress usually take substantial credit for defense indust
+
+## The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power
+In late June, cadets at the Israeli military’s officer training school sat through a lecture by Ofer Winter, a retired brigadier general and a polarizing figure in the Israel Defense Forces. According to Haaretz, Winter told the future officers that “there are no uninvolved civilians in Gaza” and ac
+
 ## Beyond Hormuz: The Future of Maritime Chokepoints
 Iran’s closure of the Strait of Hormuz and efforts to extract payments for safe passage — plus, more recently, the Houthis’ move to attack Saudi shipping through the Bab el-Mandeb Strait — have highlighted the risks of maritime chokepoints to global shipping and raised questions about the future for
 
@@ -197,12 +203,6 @@ Washington has repeatedly used trade policy and U.S. market access over the past
 
 ## Why Egypt’s Opinion of Ukraine Matters, Now and Later
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
-
-## How to Stop China from Freeriding on American AI
-The release of the Chinese open-weight AI model Kimi K3 has compressed a year’s worth of unresolved AI policy debate into a single news cycle. On July 21, Treasury Secretary Scott Bessent threatened sanctions against Chinese labs found to have built their models on “theft,” reporting that the govern
-
-## Possible Is Not Plausible: How Nightmare Scenarios Hijack Unconventional Weapons Policy
-Current conversations surrounding unconventional weapons — chemical, biological, radiological, and nuclear — have become so fantastical as to be unserious. As the Chinese military fundamentally rethinks biological warfare and Russia continues to use chloropicrin in Ukraine, hypothetical scenarios of
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Carney curses Infantino as FIFA backs its president
-FIFA’s President Gianni Infantino gets the support of executive members at an emergency meeting in Morocco.
+## Sheikh Hasina vows to return, but will Bangladesh accept fugitive ex-PM?
+Awami League leader plans to return from India exile despite facing death sentence over 2024 protest crackdown.
 
-## Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn
-Eight leading shipping organisations sign letter opposing fees in critical waterway.
+## What to know about this week’s US primary elections in Tennessee and Hawaii
+Republicans eye Congressional sweep after only Democrat-dominated district redrawn ahead of primary vote in Tennessee.
 
-## Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win
-US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.'
+## UK police confirm Uganda boxers unaccounted for after Commonwealth Games
+Athletes from Uganda and Pakistan were reported 'missing' after failing to return home from 2026 Commonwealth Games.
 
-## Could the Iran war derail Donald Trump’s legacy?
-President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.
+## Shifting US politics offers opportunity for Palestinian self-determination
+Palestinian advocacy needs to actively engage with changes in attitudes among both Democratic and Republican voters.
 
-## Trump administration refunds $100bn in tariffs struck down by Supreme Court
-Move comes after the US Supreme Court struck down many of Trump's sweeping levies in February.
+## Why is France developing a new nuclear strategy?
+As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal
 
-## Lightning strike kills Thai footballer during match
-Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.
+## Iran anthem protest: Female footballers ‘proud’ to become Australian
+Fatemeh Pasandideh and Atefeh Ramezanisadeh refused to sing Iran anthem at Asian Cup, now granted Australia citizenship.
 
-## How Gambian women are restoring the mangroves protecting Banjul
-Trees provide a living for the women, who plant and care for them, and shield the island capital from erosion, flooding.
+## Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones
+Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.
 
-## Explosive-laden drone found at German airport hosting Ukrainian fleet
-German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport.
+## Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout
+Former Bangladesh captain Shakib Al Hasan's home attacked after joining former Prime Minister Sheikh Hasina’s event.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
@@ -291,9 +291,9 @@ The Reserve Bank of India (RBI) is expected to leave key interest rates untouche
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
+## RBI likely to extend rate pause; neutral stance seen unchanged
+Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
+
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
-
-## RBI likely to extend rate pause; neutral stance seen unchanged
-Economists anticipate the Reserve Bank of India will maintain its current interest rate at 5.25 percent. The central bank is also expected to keep its neutral monetary policy stance for the fourth review. Some economists foresee a potential rate hike in the second half of fiscal year twenty twenty-s
 
