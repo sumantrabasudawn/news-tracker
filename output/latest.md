@@ -1,70 +1,73 @@
 # AION Intelligence
 
+## Abdul El-Sayed delivers significant victory for progressive Democrats
+Also in today’s newsletter, a wide-ranging exclusive interview with Virginia governor Abigail Spanberger
+
+## Paramount agrees safeguards for UK approval of $110bn WBD deal
+David Ellison makes commitments on news provision, investment and programming to win government nod
+
+## Referrals to Prevent anti-radicalisation scheme jump after Southport attacks
+Concerns about people being fascinated with extreme violence increase following conviction of Axel Rudakubana
+
+## The confounding ‘compounding’ of ‘compounding’
+When growth isn’t enough
+
+## ConocoPhillips chief Ryan Lance to step down after 14 years
+Third-largest US oil and gas company changes leadership as profits climb on war-driven price surge
+
+## The good, the bad and the green of Badenoch
+The Tory leader’s stance on climate exposes her greatest strength and weaknesses
+
+## Russia targets Maga influencers ahead of German state vote
+The ‘Matryoshka’ campaign is seeking to amplify inflammatory English-language posts, officials say
+
 ## US public pension funds and business groups clash on SEC climate risk disclosure shift
 Vanguard and Norway’s sovereign wealth fund strike cautious response to regulator
 
-## Both Trump and young Americans are warming to China
-The president and Gen Z voters are far more open to a co-operative relationship with Beijing than hawks in Congress
+## EasyJet agrees to £5.7bn Apollo takeover after Castlelake walks away
+Two US private capital groups had vied for months to buy low-cost carrier
 
-## Only 1 in 7 of England’s rivers, lakes and estuaries meet ecological standards
-Charity says Environment Agency data shows that the country’s waters are ‘among the filthiest in Europe’
+## Mike Ashley says Harvey Nichols is in a ‘death spiral’
+Sports Direct founder casts doubt over department store chain’s prospects even as he vies to acquire it
 
-## FirstFT: US law firms weigh stake sale to private equity
-Also in today’s newsletter: An interview with Virginia’s governor Abigail Spanberger and DeepMind’s CEO Hassabis steps down
+## Diageo boss Dave Lewis stakes revival on canned cocktails and Guinness
+New chief unveils plans to restore growth along with suite of cost cuts
 
-## Insurance and bank stocks slide amid China tax crackdown fears
-Move to impose levy on returns from policies that serve as investment products causes consternation in Hong Kong
-
-## SoftBank’s $8bn gain on Intel stake helps Japanese group beat expectations
-First-quarter profits decline following records set in recent quarters
-
-## Wizz Air warns high fuel costs may wipe out profits
-Low-cost carrier swings to loss of almost €200mn between April and June
-
-## OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving
-ChatGPT maker seeks to dismiss blockbuster case as it prepares to launch its own AI device
-
-## Diageo boss Lewis launches aggressive cost-cutting to revive drinks group
-Thousands of staff to be laid off in restructuring plan unveiled by new chief
+## Europe must create an AI money-mobilisation machine
+Talented researchers and entrepreneurs have built a dynamic start-up ecosystem that deserves to be magnified
 
 ## Could over-investment in natural gas drive up US electricity bills?
 A new report finds that meeting data centre demand primarily with gas creates financial risks for utility customers
 
-## How not to do an M&A league table
-Alpha: vile
+## Auto retail sales surge 26% y-o-y in July, FADA data show
+Month-on-month, retail sales were almost flat (-0.16 per cent) over a strong June 2026
 
-## WPP shares jump more than 20% as overhaul begins to bear fruit
-Improved results follow London-listed advertising group’s root-and-branch review to streamline its businesses
+## Solinas Integrity raises $5.5 million Series A funding from Hero Enterprise Partner Ventures, Mela Ventures
+Solinas builds robotics and AI systems that inspect, clean, and digitise underground water and wastewater infrastructure
 
-## Unolabs appoints Sudarshan as Chief Growth Officer
-Sudarshan brings over 30 years of experience across telecom, technology consulting and enterprise transformation to Unolabs
+## Biocon sees stronger H2 on US biosimilar launches, regulatory easing
+The US regulator’s decision to move away from subjecting companies to undertake mandatory efficacy trials in phase-3 bodes well for incumbents such as Biocon
 
-## Kerala braces for renewed monsoon fury as IMD warns of heavy downpour
-Adding to the weather threat are projected strong surface across Coastal Karnataka, Kerala and Mahe, Lakshadweep, Rayalaseema and Telangana for the next two days
+## SC ‘hopeful’ of amicable settlement in Sunjay Kapur estate row
+Mediator seeks more time as family cooperates in six mediation sessions
 
-## Visakhapatnam data centre boom to create over 51,800 jobs, boost housing demand: Report
-Expanding digital infrastructure is expected to accelerate employment, housing demand and commercial development, reshaping the city’s long-term economic growth trajectory
+## Andhra Pradesh Cabinet approves Ease of Doing Business Act, PPP Policy for 2026
+Business reforms, infrastructure approvals and industrial policy decisions dominated the Andhra Pradesh Cabinet meeting, alongside renewable energy and education initiatives
 
-## Standard Chartered gets nod to launch wealth management services from GIFT City
-Standard Chartered was the first foreign bank to commence operations in GIFT City in 2020
+## Q1 Results Today Live: LIC, Trent, Apollo Tyres, Emcure Pharma log Q1 PAT growth, Blue Star profit declines, Hero MotoCorp, Lupin, Britannia, Siemens Energy, BOSCH, Kirloskar Oil Engines, Premier Energies to announce Q1 results
+Q1 Results Today, 06th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Sensex today | Stock Market Highlights: Sensex climbs 374 pts; Nifty ends above 24,600 on RBI, crude oil cues
-Sensex, Nifty, Share Prices Highlights: Indian benchmark indices closed higher as easing crude oil prices, the RBI's steady policy stance and buying in heavyweight banking and energy stocks outweighed profit booking, while broader markets remained resilient with sustained gains in small- and mid-cap
+## Govt approves national unified scheme for CBG with $2.5 billion push
+The scheme addresses off-take, pricing, infrastructure and aims to spur investment and rural bioeconomy growth
 
-## SBI MF launches Magnum Equity Ex-top 100 Long Short fund
-The new fund offer will be open for subscription on August 7
+## Ice Make Refrigeration raises ₹190 cr via preferential issue
+Ice Make Refrigeration partners with Japan’s Galilei Holdings for strategic investment and joint venture
 
-## Afcons receives LoA for ₹1,918-cr desalinated water tunnel project in Mumbai
-Afcons receives LoA for ₹1,918-cr desalinated water tunnel project in Mumbai
+## 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil
+A year since the whole penal tariff cycle began - India now faces uncertainty related to its Russian crude purchases. A new Russia related sanctions bill in the US may see the light of the day if passed this year implying that Trump would have the power to impose tariffs on India again.
 
-## Milton and Feeding India collaborate to distribute steel tiffin boxes to children
-Milton and Feeding India collaborate to distribute steel tiffin boxes to children
-
-## Stock market today: Sensex rises over 250 pts, Nifty50 holds above 24,600
-
-
-## Gold rate today: Yellow metal hits seven-week high as oil prices lift demand
-
+## Crèche benefits under India’s Labour Codes: What employers and working parents need to know
+While the requirement to provide a crèche is not new for many employers, the Labour Codes introduce a more comprehensive framework governing how such benefits may be provided, administered and accessed by employees.
 
 ## India eyes LNG import alternatives: Cabinet approves Rs 23,731 cr GOBARdhan scheme for compressed bio-gas
 GOBARdhan or the Galvanizing Organic Bio- Agro Resources Dhan scheme aims to push for the production of compressed bio-gas. The scheme has six pillars: assured offtake, price stability, capex support, pipeline infra development, credit guarantee, and challenge fund for innovation.
@@ -75,8 +78,8 @@ Under the proposed changes, the Central government would be empowered to specify
 ## 'Completely false, irresponsible': Centre refutes claim of ethanol blending with jet fuel
 
 
-## 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil
-A year since the whole penal tariff cycle began - India now faces uncertainty related to its Russian crude purchases. A new Russia related sanctions bill in the US may see the light of the day if passed this year implying that Trump would have the power to impose tariffs on India again.
+## Gold rate today: Yellow metal hits seven-week high as oil prices lift demand
+
 
 ## Trump administration refunds $100 billion in tariffs struck down by US Supreme Court
 In a significant move, the Trump administration has reimbursed nearly one hundred billion dollars in tariffs after the Supreme Court ruled against wide-ranging duties. By July, around sixty percent of these tariffs were refunded to importers. The court's decision emphasized that the existing law did
@@ -84,29 +87,32 @@ In a significant move, the Trump administration has reimbursed nearly one hundre
 ## Gold, silver price prediction: Is gold, silver price rise sustainable? Check outlook on August 6, 2026
 MCX Gold has breached from its consolidation and is heading toward the recent swing highs, pointing to an intermediate bullish move underway. Silver has stepped out of its consolidation and is now aligning with the base trend, a near-term recovery looks well on the cards. Much like gold’s positive t
 
-## 'Marketing expense, referral commission': Raghav Chadha raises lab-doctor nexus issue over medical tests
-Raghav Chadha said the issue is especially relevant for tier-2 or tier-3 cities, where the referral commission is becoming an informal economy.
+## Pak, China not whole-heartedly our enemies, conflicts can't hit ties: RSS chief
+Pakistan is not whole-heartedly our enemies, conflicts cant hit ties: RSS chief
 
-## Ladakh to launch India's first high-altitude wildlife safari, LG approves eco-tourism initiative
-As part of initiative, 20 local youths will be selected and trained in birdwatching, bird identification and bird-spotting skills and equipped with binoculars.
+## ₹557.51 crore spent on PM Modi’s trips to 77 countries since 2021: Govt
+Government told Parliament PM Modi’s visits to 77 countries since 2021 cost ₹557.51 crore and resulted in 316 agreements across key sectors.
 
-## Flower petals, ‘sher aaya’ slogans: Brij Bhushan gets grand welcome after acquittal in sexual harassment case | Video
-Singh, a former Lok Sabha MP from Gonda’s Kaisarganj constituency, was accompanied by supporters during the roadshow.
+## 'Will believe GenZ with eyes shut': Mohan Bhagwat on row over use of pellet guns at Jantar Mantar
+Speaking about the use of force, Bhagwat said, “Why did the lathi charge happen, pallet guns are used and need to study for the reason.”
 
-## ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
-CJP founder Abhijeet Dipke announced the campaign after a two-day conclave of the party’s core committee members
+## ‘If GenZ is protesting, they are not anti-national’: Mohan Bhagwat
+Addressing an event in Mumbai, Mohan Bhagwat said that when his generation was of the age Gen Z is now, it would just listen to its elders.
 
-## Lakhimpur Kheri case: SC refuses to relax Ashish Mishra’s bail conditions
-The bench dismissed Mishra’s application seeking relaxation of his bail conditions and permitting him to visit his native place to take part in family functions
+## CJP forms National Working Committee to better outreach. See members' list here
+Vijay Reddy Mallangi has been apponted as Media Lead while Ratna Singh as Legal Affairs Lead.
 
-## Passenger attempts to open emergency door of Kochi-bound flight; arrested
-The passenger tried to force open the aircraft's emergency exit, damaged its window panel and threatened fellow passengers.
+## 'Indira Gandhi was killed for 'tukde, tukde' of India…': Rajiv Gandhi's 1989 Independence Day speech
+As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister Rajiv Gandhi's August 15 address from the Red Fort in 1989.
 
-## Govt amends rules to debar pharma firms submitting fake or fabricated data
-The Union health and family welfare ministry called the amendments a significant step towards strengthening the integrity of the regulatory system
+## Driver suffered 'momentary blackout' before high-speed crash that killed Atiq Ahmed's son Abaan, police say
+According to Jhansi SSP BB GTS Murti, the car had five occupants, out of which two, including 20-year-old Abaan, died in the crash.
 
-## Centre keen on investing to develop tea, textile sector in Bengal: CM Suvendu Adhikari
-Chief minister Suvendu Adhikari said that Union finance minister Nirmala Sitharaman said the Centre wanted to develop the state’s tea and textile sectors
+## Union cabinet approves ₹8,970 crore Guwahati-Tezpur highway in Assam
+The ₹8,970 crore Guwahati-Tezpur highway corridor will halve travel time, boost Northeast connectivity and improve access to industrial and tourism hubs.
+
+## Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch
+Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year. Up to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed ann
 
 ## China’s MLCC supply chain expanding rapidly amid surge in global AI demand
 China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of electronics” – is racing to expand capacity, as an artificial intelligence-driven boom triggers a surge in global orders. Shandong Sinocera Functional Materials, a major supplier of dielectr
@@ -129,8 +135,8 @@ Hong Kong’s securities regulator has put a spotlight on highly concentrated sh
 ## Investors eye Beijing’s next steps as Hong Kong insurance shares react to 20% levy report
 Hong Kong’s long-standing appeal as a tax-efficient gateway for mainland Chinese buyers of insurance and wealth products is facing its biggest test in years, as authorities in mainland China begin levying tax on gains from offshore insurance policies – a shift that threatens to reshape competition f
 
-## Does Beijing really have the power to lift up the Australian dollar?
-While global markets watched closely for another joint move by Washington and Tokyo to prop up the Japanese yen this week, Australian dollar traders have been laser-focused on the actions of another economic power: China. Some analysts view the Australian currency as particularly sensitive to policy
+## Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
+Experts say political uncertainty makes the Trump-backed plan untenable, for now.
 
 ## Ukraine’s Deadly Missile Defense Shortage
 Kyiv has run out of Patriot interceptors, but allies remain reluctant to supply more.
@@ -152,9 +158,6 @@ The Fed chair “is really rolling the dice” while holding out against interes
 
 ## The Ceuta Crisis Reveals the Limits of European Defense Cooperation
 In their willingness to blame Spain, European leaders have shown they cannot be trusted on collective security.
-
-## El Niño Bakes Southeast Asia
-The world’s rice bowl takes a hit.
 
 ## India at a Crossroads: Examining Comprehensive National Power and the Road to 2047
 Just how powerful is India? CNP may present a better picture than GDP.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ebola outbreak accelerates as healthcare workers strike over pay
-Ebola outbreak accelerates as healthcare workers strike over pay
+## UFC 331: Van-Pantoja rematch, Tsarukyan returns and full fight card
+Van and Pantoja to fight for flyweight title, while Tsarukyan faces the dangerous Mauricio Ruffy at lightweight.
 
-## Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?
-Gastelum's death comes after the killing of TikToker Valeria Marquez last year.
+## Indian court sentences high-profile journalist to 10 years for rape
+Tarun Tejpal, 63, says that he will appeal the conviction at the Supreme Court.
 
-## What the CJP protests reveal about India’s next generation
-The politics of aspiration is reshaping Generation Z worldwide, and India may still have an opportunity to respond.
+## Senate panel votes to hold former official Fauci in contempt of Congress
+This is a breaking news story.
 
-## Cambridge professor Jason Arday quits amid plagiarism allegations
-The scholar announced his resignation amid a new investigation into his qualifications.
+## ‘There is no money’: Is Iraq entering a phase of lean years?
+Iraqi government needs approximately $8.24bn a month to pay state salaries and cover basic obligations.
 
-## Hormuz deal ‘close’: What’s the latest on each side’s positions?
-US officials say they would not accept any arrangement on the waterway that would leave Iran in control.
+## UEFA vice president seeks ‘custodian of ⁠sport’ after FIFA-Infantino furore
+UEFA continues to lead criticism of FIFA President Gianni Infantino despite global body's defiant stance.
 
-## Uganda football star Owori killed, weeks after death of rugby’s Gongodyo
-SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.
+## Iran tightens security grip at home as war conditions with US linger
+Executions, arrests and closure of public gathering spaces have raised concerns among Iranians and rights groups.
 
-## South Korea police raid football association over Hong appointment process
-Hong Myung-bo's appointment under scrutiny amid raids with lack of proper interview process previously alleged.
+## Will the US-Iran war and Hormuz deadlock last for months?
+Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.
 
-## Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site
-More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating war and neglect.
+## Mohamed Salah signs two-year deal with Trabzonspor after Liverpool exit
+Egypt's Mohamed Salah, who left Liverpool last season after nine years with Premier League club, signs for Trabzonspor.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
@@ -291,9 +294,9 @@ The Reserve Bank of India (RBI) is expected to leave key interest rates untouche
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
+## RBI likely to extend rate pause; neutral stance seen unchanged
+Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
+
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
-
-## RBI likely to extend rate pause; neutral stance seen unchanged
-Economists anticipate the Reserve Bank of India will maintain its current interest rate at 5.25 percent. The central bank is also expected to keep its neutral monetary policy stance for the fourth review. Some economists foresee a potential rate hike in the second half of fiscal year twenty twenty-s
 
