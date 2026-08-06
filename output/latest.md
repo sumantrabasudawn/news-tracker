@@ -1,58 +1,67 @@
 # AION Intelligence
 
-## ‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’
-Applications for indefinite right to work, live and study in the country have risen after rules were eased
+## Insurance and bank stocks slide amid China tax crackdown fears
+Move to impose levy on returns from policies that serve as investment products causes consternation in Hong Kong
 
-## FirstFT: China launches global tax hunt
-Also in today’s newsletter: Google DeepMind CEO Demis Hassabis steps down and Iran says agreement reached with Oman on Hormuz shipping route
+## More moaning about UK monthly GDP
+Sorry, we can’t let this one go
 
-## ‘Toy Story 5’ box office boosts Disney as US theme parks rebound
-Shares rise as entertainment group increases buyback plan
+## FirstFT: US law firms weigh stake sale to private equity
+Also in today’s newsletter: DeepMind CEO Hassabis steps down and golden visas
 
-## US puts $25mn bounty on top Mexican drug cartel leader
-Trump administration makes offer for information on Juan Carlos Valencia González as part of package of up to $102mn in rewards
+## BP North Sea exit presents wake-up call on Scottish energy
+Blow to oil and gas industry comes as renewables projects are faltering
 
-## Iran says it has reached agreement with Oman on Hormuz shipping route
-Islamic republic is determined to retain a degree of control over the chokepoint
+## Citadel ‘makes a killing’
+Ken Griffin’s hedge fund made billions last week after it bought the bulk of Situational Awareness’s stock book
 
-## Big US hedge funds targeted by wave of cyber attacks
-Point72 and Citadel among firms hit by audio phishing schemes
+## At least half a dozen senior NHS leaders linked to Palantir
+Extent of ties revealed as scrutiny grows of US tech company’s contract to build new data platform
 
-## Bikemaker Accell files for insolvency four years after €1.8bn KKR-led buyout
-Announcement by Dutch owner of Raleigh and Babboe brands follows four difficult years since it was taken private
+## Iceland demands fisheries control in any EU membership deal
+Foreign minister sets red lines ahead of referendum this month on reopening talks to join bloc
 
-## JPMorgan poaches M&A banker Amy Lissauer from Bank of America
-Executive will lead activism defence practice at biggest US lender
+## Virginia governor urges Democrats to unite on affordability to win in midterms
+Centrist dismisses suggestions of civil war in her party after progressive candidate wins Michigan primary
 
-## Glencore takes a smart shortcut to triple nationality
-Issuing depository receipts in Sydney will enable Australia’s mining investors to buy and sell its shares in a local wrapper
+## The trends in central bank research papers
+Research appears reactive rather than proactive, but at least our AI readers think quality is rising
 
-## LIV Golf pursues ‘grand bargain’ with Saudi wealth fund and BC Partners
-Potential investors seek assurances that the lossmaking tour’s star players will stay on
+## Who needs consultants in the age of AI?
+Getting a company to implement recommended changes is a contact sport that only humans can play
 
-## Why the RBI is emerging as an Asian rate outlier
-The bank has stood apart from regional counterparts ranging from Indonesia to Australia by keeping policy on hold since the Iran conflict erupted.
+## Scammers pose as watchdogs to prey on EU crypto rule changes
+Customers at hundreds of unlicensed exchanges told to withdraw funds, creating openings for fraudsters
 
-## Sensex today | Stock Market Live: Sensex, Nifty to hold ground despite weak global cues; RBI outlook boosts sentiment
-Sensex, Nifty, Share Prices LIVE: GIFT Nifty signals a marginally positive start after the RBI raised its FY27 GDP forecast and lowered the inflation outlook, even as global stocks are wobbling.
+## Ares scales back blockbuster private credit vehicle after valuation pushback
+Wall Street firm sought to complete €1bn continuation fund but failed to get buy-in for pricing from investors
 
-## Meta AI model accessed internet, hacked third-party firm during cybersecurity testing
-Meta’s model, Muse Spark 1.1, breached the systems of an undisclosed third-party service, the company said Wednesday. The AI model had access to the internet because of an error in the setup testing environment
+## Sensex today | Stock Market Live: Sensex up 200 pts, Nifty holds 24,600 in choppy trade; Eternal, Reliance leads gainers
+Sensex, Nifty, Share Prices LIVE: Benchmark indices edged higher at the open ‌on Thursday, supported by hopes of a diplomatic breakthrough ⁠in the Middle East and a better-than-expected June-quarter earnings season.
 
-## Vedanta Aluminium seeks ₹13,500 crore bank loan after group demerger
-Axis Bank, HDFC Bank and ICICI Bank are said to back the firm with a long-term rupee loan to refinance existing debt following the group’s restructuring.
+## Vedaanta Senior Living plans ₹800-crore expansion, eyes external funding to double footprint
+The expansion will cover new projects in Trichy, Kancheepuram, Hosur, Madurai and Coimbatore in Tamil Nadu, besides Hyderabad, Tirupati, Mysuru and Bengaluru
 
-## Gold touches seven-week high on Strait of Hormuz reopening hopes
-Spot gold was up 1% at $4,285.84 per ‌ounce, the highest level since June 18. On Wednesday, bullion posted its biggest daily gain since February.
+## Q1 Results Today Live: Trent, Hero MotoCorp, Lupin, Britannia, Siemens Energy, LIC, BOSCH, Kirloskar Oil Engines, Aegis Logistics, Premier Energies, Emcure Pharma to announce Q1 results, Biocon, Berger Paints, Neuland Lab, ArisInfra gain, Aurobindo Pharma, Aster DM, Whirlpool, PB Fintech, Power Grid, Godrej Agrovet in red after Q1
+Q1 Results Today, 06th August 2026 Live Updates: Follow Q1FY27 live updates frmo businessline
 
-## Iran, Oman reach agreement on Hormuz Shipping
-A proposed temporary shipping route could ease disruptions in the key energy corridor, though Tehran says a full reopening will depend on US actions.
+## 12 districts likely to be affected more due to El Niño: TN Agri Minister
+The District Agricultural Contingency Plan prepared by the Tamil Nadu Agricultural University to tackle El Niño impact communicated to the district collectors, he said
 
-## Iran, US say Strait of Hormuz deal is close, but one or both would have to back down
-But the agreement is likely to be contingent on the US lifting its blockade on Iran's ports.
+## Cuticura charts pan-India expansion, eyes younger consumers with portfolio expansion
+Cholayil plans phased expansion starting with South India; focuses on younger consumers and new categories
 
-## Live Nation's former Asia Pacific President joins Triangle Group, following a US$15 million capital raise
-Live Nation's former Asia Pacific President joins Triangle Group, following a US$15 million capital raise
+## Zinc futures face resistance
+Traders can book profits at ₹393
+
+## RRP Electronics to acquire Vital Electronics
+Plans 100% stake by March 2028; aims to create seamless value chain from semiconductor packaging to complete electronic systems
+
+## Swiggy targets $1.05 billion in core earnings by fiscal 2031
+The company predicts Instamart’s gross order value will grow four-to-fivefold to ₹1.5 lakh crore by fiscal 2031, up from ₹28,000 crore in fiscal 2026
+
+## Stock market today: Sensex opens 201 pts higher; Nifty holds above 24,600
+
 
 ## Oil prices today: Crude slips as Iran-Oman talks fuel hopes of peace deal, Hormuz reopening
 Oil prices edged lower as investors assessed Iran-Oman talks for peace. Brent crude futures fell, and US West Texas Intermediate also declined. Market sentiment focused on diplomatic efforts to resolve tensions between Tehran and Washington. Fresh US inventory data showed crude oil stockpiles increa
@@ -75,32 +84,35 @@ Top stock market recommendations: Ambuja Cements, Asahi India Glass, and Pfizer 
 ## Repo rate unchanged, RBI sees higher growth, lower inflation
 
 
-## Tata Sons continues to be in upper layer, RBI indicates
+## Pizza, soft bedding: Man who befriended teen on Instagram, sexually assaulted her makes demands in jail
+The accused, also complained that the walls were dirty and the toilets were unhygienic, police said.
 
+## Bombay HC convicts Tarun Tejpal in 2013 sexual assault case, overturns acquittal
+The Goa bench of the Bombay high court found the former journalist guilty of raping a colleague at a Goa hotel in 2013.
 
-## Nilekani panel's mandate largely overlaps Radhakrishnan committee's NTA reform report
-An HT analysis found that most of the HPTF's mandates were already covered by the 2024 expert panel, with the review of the NTA's statutory framework.
+## Assam girl allegedly raped, killed; family says body brutalised, rod inserted in private parts
+A 16-year-old was allegedly raped and murdered in Assam. Her family said her face was smashed and body mutilated. The probe points to a possible love triangle.
 
-## Assam flood toll rises to 95; Himanta, Nadda visit worst-hit village in Sivasagar
-Hundreds of families in the village have lost their homes and belongings, while most livestock have perished.
+## 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+Police said the motive behind the killing the 63-year-old security guard is yet to be established, and an investigation is underway
 
-## ‘ ₹1,300 crore to fund key women welfare schemes’: TVK govt sets ambitious budget for 2026-27
-The budget also announced setting up of ‘Super Clean, Super Campus’ scheme for 10,000 schools with an allocation of ₹139 crore.
+## Kerala Minister says SC directions on Mullaperiyar dam unimplemented, objects water level hike
+Kerala Minister says SC directions on Mullaperiyar dam unimplemented, objects water level hike
 
-## Shiv Sena dispute: Supreme Court calls for clear criteria to determine 'real' party when factions stake claim
-In a key observation, the Supreme Court asserted that disputes over political party majorities require more than counting legislators, citing Shiv Sena split.
+## Parliament Monsoon Session LIVE: Lok Sabha adjourned till 2 pm as Opposition presses Ram Mandir, student protest issues
+Parliament Monsoon Session LIVE: As the protests continued, Birla said Question Hour is a crucial part of parliamentary proceedings and noted that it had not been allowed to function even once since the Monsoon Session began on July 20.
 
-## Delhi High Court dismisses plea seeking review of Parliament security framework
-The Delhi High Court on Wednesday dismissed a petition seeking directions to the Centre to review Parliament’s existing security framework
+## ‘No proposal to extend Parliament session’: Union parliamentary affairs minister Kiren Rijiju
+Rijiju said there is no proposal to extend the monsoon session or convene a special sitting, as talks with the Opposition failed to break the deadlock.
 
-## Sambhal violence a calculated plot to obstruct mosque survey: Panel report
-Acting on the order, the advocate commissioner sought adequate police deployment to ensure peaceful execution of the survey.
+## Kejriwal claims Instagram account restricted in India, tells Meta to not 'bow down to PM Modi so much'
+Arvind Kejriwal told Meta that lack of responses and clarification from their end amounted to “pretty bad service”.
 
-## Tourism ministry's partnership with Netflix, YouTube can create wonders: Shekhawat
-Tourism ministry's partnership with Netflix, YouTube can create wonders: Shekhawat
+## Chinese fund managers’ pursuit of AI plays backfires as hot tech stocks wobble
+A shift to technology stocks by China’s most seasoned fund managers has backfired, with the unwinding of AI plays taking a toll on the performances of their products. Funds run by some star managers with a value-investing approach all recorded declines in net asset values last month after they switc
 
-## Centre blocks 4,996 Telegram channels, 1,263 websites in anti-piracy crackdown
-Under the Information Technology Rules, 2021, intermediaries are required to remove any content that violates any law for the time being in force.
+## Hong Kong stock regulator flags more companies for share concentration
+Hong Kong’s securities regulator has put a spotlight on highly concentrated shareholding this year, a move interpreted by market analysts as a warning about sharp price swings on small-cap stocks. As of August, the Securities and Futures Commission (SFC) had mentioned 13 cases of high shareholding c
 
 ## Shares of major Hong Kong insurance, finance firms tumble following report of 20% levy
 Shares of major Hong Kong-listed insurance and financial institutions tumbled on Thursday, after reports surfaced that mainland Chinese authorities had begun taxing gains on offshore insurance policies bought by mainland visitors in the city, reviving fears of tighter curbs on cross-border capital f
@@ -119,12 +131,6 @@ In an era defined by escalating geopolitical tensions and the weaponisation of s
 
 ## Peninsula group to renovate Hong Kong flagship, Tokyo hotel in US$268m project
 The owner of Hong Kong’s iconic Peninsula hotel plans to invest HK$2.1 billion (US$268 million) to renovate its flagship hotel in the city and its Tokyo property, betting on the long-term strength of the luxury travel market despite geopolitical uncertainty and volatile consumer demand. Hongkong and
-
-## China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs
-Rising cost efficiency and rapidly advancing capabilities from players like DeepSeek and MiniMax have prompted Goldman Sachs to raise its run-rate revenue forecast for China’s artificial intelligence model market by 30 per cent to US$13 billion. In a research note published on Monday, the US investm
-
-## Amid slowing hotpot growth in China, Haidilao takes on biggest American burger brands
-China’s largest hotpot chain Haidilao International Holding is aiming to further diversify its business with hamburger stores – following the example set by American brands like McDonald’s and KFC – and has also opened up more sushi stores to tap new growth drivers, as its core hotpot business shows
 
 ## Ukraine’s Deadly Missile Defense Shortage
 Kyiv has run out of Patriot interceptors, but allies remain reluctant to supply more.
@@ -222,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Carney curses Infantino as FIFA backs its president
+FIFA’s President Gianni Infantino gets the support of executive members at an emergency meeting in Morocco.
+
+## Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn
+Eight leading shipping organisations sign letter opposing fees in critical waterway.
+
+## Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win
+US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.'
+
+## Could the Iran war derail Donald Trump’s legacy?
+President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.
+
+## Trump administration refunds $100bn in tariffs struck down by Supreme Court
+Move comes after the US Supreme Court struck down many of Trump's sweeping levies in February.
+
 ## Lightning strike kills Thai footballer during match
 Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.
 
@@ -230,21 +251,6 @@ Trees provide a living for the women, who plant and care for them, and shield th
 
 ## Explosive-laden drone found at German airport hosting Ukrainian fleet
 German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport.
-
-## Colombia minister warns of ‘terrorism’ threat at presidential inauguration
-Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.
-
-## Mexican influencer shot dead during livestream
-24-year-old TikToker Cesar Gastelum, was shot dead while livestreaming with friends outside a fast-food restaurant.
-
-## Meta’s AI model follows rivals in revealing hacks of outside systems
-Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity testing.
-
-## FAA says Trump’s Marine One briefly flew too close to passenger jet
-Air traffic controllers had failed to pause commercial flights during Marine One’s departure, sources say.
-
-## Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope
-New York City’s Mayor Zohran Mamdani congratulated Abdul El-Sayed on winning Michigan’s Democratic Senate primary.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
