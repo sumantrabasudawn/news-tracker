@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## ‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’
+Applications for indefinite right to work, live and study in the country have risen after rules were eased
+
 ## FirstFT: China launches global tax hunt
 Also in today’s newsletter: Google DeepMind CEO Demis Hassabis steps down and Iran says agreement reached with Oman on Hormuz shipping route
 
@@ -21,62 +24,77 @@ Announcement by Dutch owner of Raleigh and Babboe brands follows four difficult 
 ## JPMorgan poaches M&A banker Amy Lissauer from Bank of America
 Executive will lead activism defence practice at biggest US lender
 
-## Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab
-Chief scientist Jeff Dean leaves the group to found his own start-up
+## Glencore takes a smart shortcut to triple nationality
+Issuing depository receipts in Sydney will enable Australia’s mining investors to buy and sell its shares in a local wrapper
 
 ## LIV Golf pursues ‘grand bargain’ with Saudi wealth fund and BC Partners
 Potential investors seek assurances that the lossmaking tour’s star players will stay on
 
-## Bodycote gets twin private equity bids as buyers feast on London market
-Separate offers from CVC and Veritas value FTSE 250 industrials group at about £1.8bn including debt
+## Why the RBI is emerging as an Asian rate outlier
+The bank has stood apart from regional counterparts ranging from Indonesia to Australia by keeping policy on hold since the Iran conflict erupted.
 
-## Oil Ministry to deploy tactical teams for petrol pump inspections, says Team Bharat
-Enhanced inspections, stronger quality checks and public reporting aim to improve fuel transparency and curb adulteration across petrol retail outlets nationwide
+## Sensex today | Stock Market Live: Sensex, Nifty to hold ground despite weak global cues; RBI outlook boosts sentiment
+Sensex, Nifty, Share Prices LIVE: GIFT Nifty signals a marginally positive start after the RBI raised its FY27 GDP forecast and lowered the inflation outlook, even as global stocks are wobbling.
 
-## Aurobindo Pharma posts record Q1 revenue of ₹9,150 crore; PAT up 25%
-Broad-based growth across business segments helped the drugmaker deliver record quarterly sales and stronger profitability despite a dynamic global operating environment
+## Meta AI model accessed internet, hacked third-party firm during cybersecurity testing
+Meta’s model, Muse Spark 1.1, breached the systems of an undisclosed third-party service, the company said Wednesday. The AI model had access to the internet because of an error in the setup testing environment
 
-## TVK’s first Budget versus DMK’s interim budget: Much of the same
-TVK’s maiden Budget retains fiscal path with limited structural changes overall
+## Vedanta Aluminium seeks ₹13,500 crore bank loan after group demerger
+Axis Bank, HDFC Bank and ICICI Bank are said to back the firm with a long-term rupee loan to refinance existing debt following the group’s restructuring.
 
-## Google DeepMind revamp: Demis Hassabis takes new role, Jeff Dean leaves
-The leadership changes coincide with Gemini delays, growing AI competition and a wave of high-profile departures reshaping Google’s artificial intelligence strategy
+## Gold touches seven-week high on Strait of Hormuz reopening hopes
+Spot gold was up 1% at $4,285.84 per ‌ounce, the highest level since June 18. On Wednesday, bullion posted its biggest daily gain since February.
 
-## Urad eases on improved crop prospects, weak demand
-As per the Agriculture Ministry data, the All India average wholesale mandi prices of urad have eased to Rs 8,638 per quintal as of August 3
+## Iran, Oman reach agreement on Hormuz Shipping
+A proposed temporary shipping route could ease disruptions in the key energy corridor, though Tehran says a full reopening will depend on US actions.
 
-## India’s rice procurement up 5% in 2025-26, as Govt buys 18% higher from rabi crop
+## Iran, US say Strait of Hormuz deal is close, but one or both would have to back down
+But the agreement is likely to be contingent on the US lifting its blockade on Iran's ports.
+
+## Live Nation's former Asia Pacific President joins Triangle Group, following a US$15 million capital raise
+Live Nation's former Asia Pacific President joins Triangle Group, following a US$15 million capital raise
+
+## Oil prices today: Crude slips as Iran-Oman talks fuel hopes of peace deal, Hormuz reopening
+Oil prices edged lower as investors assessed Iran-Oman talks for peace. Brent crude futures fell, and US West Texas Intermediate also declined. Market sentiment focused on diplomatic efforts to resolve tensions between Tehran and Washington. Fresh US inventory data showed crude oil stockpiles increa
+
+## Top stocks to buy today: Stock recommendations for August 6, 2026 - check list
+Top stock market recommendations: Ambuja Cements, Asahi India Glass, and Pfizer - these stocks have been identified as the top buy calls for August 6, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management. The expert has also shared outlook 
+
+## Google rejigs AI leadership as DeepMind CEO shifts role
 
 
-## DGCA summons Air India management after Phuket-Delhi altitude loss incident
-Investigators are analysing flight data, cockpit recordings and witness accounts to determine the cause of the mid-air altitude loss incident
-
-## Completion of LIC OFS helps govt achieve nearly two-thirds of Budget Estimate for miscellaneous receipts
-The OFS allows the government to boost its financial resources while enhancing public ownership in the nation’s largest life insurer.
-
-## Consumers already bearing UPI costs through broader economy: RBI governor
-RBI governor Sanjay Malhotra emphasized that the costs of UPI transactions are already subtly included in operations. He expressed it is premature to introduce explicit fees for merchants. The priority lies in enhancing the payment infrastructure and increasing utilization. Any fee implementation sh
-
-## Liquidity surge due to NRI deposits to be limited and temporary: RBI
+## ‘Zero tolerance for unethical practices at HDFC’
 
 
-## Rupee hits 1-month closing high despite RBI repo rate pause; sliding crude oil prices help
-The currency opened 0.5% stronger at 94.92 against the US dollar, its highest level since July 1. It later gave up nearly half of its early advance to settle at 95.1175 per dollar, its strongest closing level since July 7.
+## Airtel Money eyes London listing this year, telco gets ARPU boost
 
-## US stock market today: Wall Street scales new record highs; oil prices hold steady
-Both the S&P 500 and the Dow closed at record highs on Tuesday, while the Nasdaq remained within 2% of its all-time peak. The major US indices have posted strong gains so far this week, giving August a solid start, according to an AP report.
 
-## Who is Tewolde Gebremariam? Meet Air India’s new CEO - all you want to know about him
-Tewolde Gebremariam takes over from Campbell Wilson, the New Zealander and former Singapore Airlines executive who was appointed in 2022 to lead Air India's transformation. Air India had earlier disclosed that Wilson had informed Chairman N Chandrasekaran in 2024 of his intention to step down during
+## Rupees 10 and 20 polymer notes to be in circulation by early FY28
 
-## As gold, stock markets lose lustre - why your humble fixed deposit is forever
-Experts say that instead of timing the interest rate cycle, fixed deposits should be opted for based on goals and cash flow. But, if you are looking at fresh investments in FDs, higher interest rates may be a good lure. Is it the right time to invest in FDs? We ask experts:
 
-## Nearly half of India's workforce wants a new job. Here's why
-Google leads India's most attractive employer brands, with Tata Group and Amazon following closely. Nearly half of India's workforce plans job changes within the next six months. Work-life balance and career progression are key factors influencing employee preferences. Employers must adapt to evolvi
+## Repo rate unchanged, RBI sees higher growth, lower inflation
 
-## India's services PMI hits over 4.5-year low as demand, new orders lose momentum
-India's services sector growth slowed significantly in July, reaching its weakest pace in over four years. New business inflows expanded at the slowest rate since early 2022, driven by softer demand. Overseas demand remained relatively resilient, with export business outperforming overall sales grow
+
+## Tata Sons continues to be in upper layer, RBI indicates
+
+
+## Nilekani panel's mandate largely overlaps Radhakrishnan committee's NTA reform report
+An HT analysis found that most of the HPTF's mandates were already covered by the 2024 expert panel, with the review of the NTA's statutory framework.
+
+## Assam flood toll rises to 95; Himanta, Nadda visit worst-hit village in Sivasagar
+Hundreds of families in the village have lost their homes and belongings, while most livestock have perished.
+
+## ‘ ₹1,300 crore to fund key women welfare schemes’: TVK govt sets ambitious budget for 2026-27
+The budget also announced setting up of ‘Super Clean, Super Campus’ scheme for 10,000 schools with an allocation of ₹139 crore.
+
+## Shiv Sena dispute: Supreme Court calls for clear criteria to determine 'real' party when factions stake claim
+In a key observation, the Supreme Court asserted that disputes over political party majorities require more than counting legislators, citing Shiv Sena split.
+
+## Delhi High Court dismisses plea seeking review of Parliament security framework
+The Delhi High Court on Wednesday dismissed a petition seeking directions to the Centre to review Parliament’s existing security framework
+
+## Sambhal violence a calculated plot to obstruct mosque survey: Panel report
+Acting on the order, the advocate commissioner sought adequate police deployment to ensure peaceful execution of the survey.
 
 ## Tourism ministry's partnership with Netflix, YouTube can create wonders: Shekhawat
 Tourism ministry's partnership with Netflix, YouTube can create wonders: Shekhawat
@@ -84,23 +102,11 @@ Tourism ministry's partnership with Netflix, YouTube can create wonders: Shekhaw
 ## Centre blocks 4,996 Telegram channels, 1,263 websites in anti-piracy crackdown
 Under the Information Technology Rules, 2021, intermediaries are required to remove any content that violates any law for the time being in force.
 
-## 'Pakistan asked for ceasefire, we kept them waiting': Ex-defence chief Anil Chauhan recalls Operation Sindoor
-The former CDS said India was determined to achieve its military objectives before considering a ceasefire, with additional waves of strikes already planned.
+## Shares of major Hong Kong insurance, finance firms tumble following report of 20% levy
+Shares of major Hong Kong-listed insurance and financial institutions tumbled on Thursday, after reports surfaced that mainland Chinese authorities had begun taxing gains on offshore insurance policies bought by mainland visitors in the city, reviving fears of tighter curbs on cross-border capital f
 
-## 12 rat miners who saved 41 trapped workers in Silkyara awarded Sarvottam Jeevan Raksha Padak
-Gadkari presented the awards to the rat miners for their “exceptional courage and selfless service” during the 2023 Silkyara tunnel rescue operation
-
-## 'Opposition is anti-Lord Ram': Kiren Rijiju attacks Congress, SP over Ram Temple donation row protest
-Kiren Rijiju alleged that the Opposition had earlier protested against the construction of the Ram Temple and was now repeating the same stand.
-
-## 'Pakistan's ISI has a free hand in Bangladesh': Sheikh Hasina's son calls it a 'problem for India'
-Sajeeb Wazed Joy said the developments in Bangladesh did not “portend well for India and the world at large.”
-
-## Manoj Kumar Dwivedi appointed NDMC chairperson
-Dwivedi, is a 1997-batch officer of the Arunachal Pradesh-Goa-Mizoram and Union Territory (AGMUT) cadre.
-
-## Centre deploys response team to Gujarat, Rajasthan amid Chandipura virus cases
-The Centre has also stepped up disease surveillance, scientific investigations and testing in the affected districts to better understand and contain Chandipura Virus Disease outbreak
+## Does Beijing really have the power to lift up the Australian dollar?
+While global markets watched closely for a joint move by Washington and Tokyo to prop up the Japanese yen this week, Australian dollar traders have been laser-focused on the actions of another power: China. Some analysts view the Australian currency as particularly sensitive to policy moves in Beiji
 
 ## How SAIC’s recharged venture with GM plans to catch up with top EV makers in China
 China’s SAIC Motor has extended its cooperation with General Motors by 20 years, renewing the joint venture through 2047 amid aggressive competition from home-grown rivals. SAIC and GM, the largest carmakers in China and the United States, respectively, in terms of sales volume, signed the agreement
@@ -119,12 +125,6 @@ Rising cost efficiency and rapidly advancing capabilities from players like Deep
 
 ## Amid slowing hotpot growth in China, Haidilao takes on biggest American burger brands
 China’s largest hotpot chain Haidilao International Holding is aiming to further diversify its business with hamburger stores – following the example set by American brands like McDonald’s and KFC – and has also opened up more sushi stores to tap new growth drivers, as its core hotpot business shows
-
-## China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources
-Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong initial public offering (IPO) as early as the end of the year, according to two sources familiar wit
-
-## China’s X Square Robot submits confidential filing for Hong Kong IPO, sources say
-Chinese start-up X Square Robot has filed confidentially for an initial public offering (IPO) in Hong Kong, according to two sources familiar with the matter, joining a growing wave of domestic robot makers flocking to capital markets, despite new US trade restrictions. The Shenzhen-based firm has t
 
 ## Ukraine’s Deadly Missile Defense Shortage
 Kyiv has run out of Patriot interceptors, but allies remain reluctant to supply more.
@@ -150,6 +150,15 @@ In their willingness to blame Spain, European leaders have shown they cannot be 
 ## El Niño Bakes Southeast Asia
 The world’s rice bowl takes a hit.
 
+## Are India and Indonesia Leaving the Non-Aligned Movement Behind?
+Rather than signaling the abandonment of non-alignment, the same principles are increasingly pursued through a different set of institutions.
+
+## Has Life in North Korea Changed Since 2013?
+The author of “Witness to North Korea” reflects on which lessons from his time in the country are still relevant today.
+
+## When the World Stops Fearing the Bomb
+On the 81st anniversary of the bombing of Japan, the hibakusha are disappearing just as fast as the world is becoming numb to their cause
+
 ## Why Asia Is More Enthusiastic About AI Than the West
 In China, India, much of Southeast Asia, and elsewhere in Asia, the net benefits of AI are perceived by populations to be greater than their drawbacks.
 
@@ -164,15 +173,6 @@ Two laborers from central India were shot dead at a brick kiln in Kulgam in the 
 
 ## What a Near-Miss Drone Incident Reveals About South Korea-US Operational Coordination
 South Korea's army thought they were locked on to a North Korean UAV. It actually belonged to the U.S. Marine Corps.
-
-## When Small States Practice Buddhist Diplomacy
-While China and India compete for influence through Buddhism, smaller states such as Bhutan and Singapore are showing how Buddhist values, networks, and heritage can be transformed into diplomatic influence.
-
-## China’s ‘Internet Addiction’ Schools Are Now Locking Up Adults
-Parents are paying institutions to coerce adults whose life choices conflict with family expectations.
-
-## Russia’s New Move in the Kuril Dispute
-Moscow is naming one of the disputed islands after a Soviet spy who operated in Imperial Japan.
 
 ## Beyond Hormuz: The Future of Maritime Chokepoints
 Iran’s closure of the Strait of Hormuz and efforts to extract payments for safe passage — plus, more recently, the Houthis’ move to attack Saudi shipping through the Bab el-Mandeb Strait — have highlighted the risks of maritime chokepoints to global shipping and raised questions about the future for
@@ -222,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Nigeria announces rescue of 308 kidnapped citizens
-Kidnapping for ransom by armed groups and bandits has become a major crisis in Nigeria.
+## Lightning strike kills Thai footballer during match
+Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.
 
-## FIFA pledges to defend Infantino after World Cup rights plan collapses
-Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.
+## How Gambian women are restoring the mangroves protecting Banjul
+Trees provide a living for the women, who plant and care for them, and shield the island capital from erosion, flooding.
 
-## Erica Schwartz confirmed as new CDC chief amid US agency turmoil
-US public health agency faces toughest test as Schwartz takes charge amid political pressure and public health crises.
+## Explosive-laden drone found at German airport hosting Ukrainian fleet
+German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport.
 
-## Israeli occupation destroys farmland and lives in southern Syria
-Israeli occupation destroys farmland and lives in southern Syria
+## Colombia minister warns of ‘terrorism’ threat at presidential inauguration
+Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.
 
-## US officials push back on reports of dangerously low munitions supplies
-Experts warn that low stockpiles of air defence interceptors as a result of the war on Iran leave the US vulnerable.
+## Mexican influencer shot dead during livestream
+24-year-old TikToker Cesar Gastelum, was shot dead while livestreaming with friends outside a fast-food restaurant.
 
-## US man arrested at Trump’s golf course charged with multiple felonies
-Ex-Marine denies charges after arrest at Los Angeles golf course, with weapons, badge and 'concerning' notebooks found.
+## Meta’s AI model follows rivals in revealing hacks of outside systems
+Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity testing.
 
-## Israeli forces raid camp in occupied West Bank
-Israeli forces have launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank.
+## FAA says Trump’s Marine One briefly flew too close to passenger jet
+Air traffic controllers had failed to pause commercial flights during Marine One’s departure, sources say.
 
-## Clashes on anniversary of Imran Khan imprisonment
-Pakistan police fired tear gas at supporters of jailed former Prime Minister Imran Khan in Rawalpindi.
+## Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope
+New York City’s Mayor Zohran Mamdani congratulated Abdul El-Sayed on winning Michigan’s Democratic Senate primary.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
@@ -270,6 +270,9 @@ Taxpayers challenging GST penalty orders received a major relief after the Delhi
 ## Global FMCG majors bullish on India, to step up investments to accelerate retail presence
 Global consumer goods majors such as Mondelez International, L'Oreal, Reckitt, Unilever, Nestle and The Coca-Cola Company see India as a key growth market and a major driver of future growth.
 
+## Govt mandates exporter registration for FDI-backed ecommerce inventory exports
+Foreign-invested ecommerce firms must register as exporter-on-record for export inventory. These companies can only procure and stock goods against confirmed export orders. Speculative stockpiling for future outbound shipping will not be allowed by the government. Indian sellers can access overseas 
+
 ## RBI upper-layer NBFC list to come out soon
 The Reserve Bank of India will soon release a list of upper-layer NBFCs. New principle-based regulations will classify these financial companies into different layers. Companies in the upper layer will be required to publicly list their shares. Tata Sons may be included on this upcoming list of NBFC
 
@@ -281,9 +284,6 @@ The Reserve Bank of India (RBI) is expected to leave key interest rates untouche
 
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
-
-## RBI likely to extend rate pause; neutral stance seen unchanged
-Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
 
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
