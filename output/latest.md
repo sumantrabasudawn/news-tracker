@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## US public pension funds and business groups clash on SEC climate risk disclosure shift
+Vanguard and Norway’s sovereign wealth fund strike cautious response to regulator
+
+## Both Trump and young Americans are warming to China
+The president and Gen Z voters are far more open to a co-operative relationship with Beijing than hawks in Congress
+
+## Only 1 in 7 of England’s rivers, lakes and estuaries meet ecological standards
+Charity says Environment Agency data shows that the country’s waters are ‘among the filthiest in Europe’
+
+## FirstFT: US law firms weigh stake sale to private equity
+Also in today’s newsletter: An interview with Virginia’s governor Abigail Spanberger and DeepMind’s CEO Hassabis steps down
+
 ## Insurance and bank stocks slide amid China tax crackdown fears
 Move to impose levy on returns from policies that serve as investment products causes consternation in Hong Kong
 
@@ -12,58 +24,55 @@ Low-cost carrier swings to loss of almost €200mn between April and June
 ## OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving
 ChatGPT maker seeks to dismiss blockbuster case as it prepares to launch its own AI device
 
-## Is the AI trade back?
-Plus, looking ahead to the jobs report
+## Diageo boss Lewis launches aggressive cost-cutting to revive drinks group
+Thousands of staff to be laid off in restructuring plan unveiled by new chief
 
-## More moaning about UK monthly GDP
-Sorry, we can’t let this one go
+## Could over-investment in natural gas drive up US electricity bills?
+A new report finds that meeting data centre demand primarily with gas creates financial risks for utility customers
 
-## FirstFT: US law firms weigh stake sale to private equity
-Also in today’s newsletter: DeepMind CEO Hassabis steps down and golden visas
-
-## BP North Sea exit presents wake-up call on Scottish energy
-Blow to oil and gas industry comes as renewables projects are faltering
+## How not to do an M&A league table
+Alpha: vile
 
 ## WPP shares jump more than 20% as overhaul begins to bear fruit
 Improved results follow London-listed advertising group’s root-and-branch review to streamline its businesses
 
-## Rheinmetall cuts sales outlook after Germany scraps warship project
-Tank maker expects €300mn hit this year from cancelled programme but revenues have still grown as defence spending booms
+## Unolabs appoints Sudarshan as Chief Growth Officer
+Sudarshan brings over 30 years of experience across telecom, technology consulting and enterprise transformation to Unolabs
 
-## Partners Group nears €2bn deal for beauty group Aroma-Zone
-French asset manager Eurazeo in talks to sell stake in group that sells face serums and food supplements
+## Kerala braces for renewed monsoon fury as IMD warns of heavy downpour
+Adding to the weather threat are projected strong surface across Coastal Karnataka, Kerala and Mahe, Lakshadweep, Rayalaseema and Telangana for the next two days
 
-## SpaceX makes a splash and China scores a memory win
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## Visakhapatnam data centre boom to create over 51,800 jobs, boost housing demand: Report
+Expanding digital infrastructure is expected to accelerate employment, housing demand and commercial development, reshaping the city’s long-term economic growth trajectory
 
-## Chiripal Squash Excellence gears up for Olympics in Los Angeles
-The Chiripal Squash Excellence Programme collaborates with the All Gujarat Squash Rackets Association and the Squash Rackets Federation of India to organize activities in Gujarat and beyond
+## Standard Chartered gets nod to launch wealth management services from GIFT City
+Standard Chartered was the first foreign bank to commence operations in GIFT City in 2020
 
-## Lok Sabha passes Taxation and Other Laws (Amendment) Bill without discussion
-The Bill aims to amend the Payment and Settlement Systems Act, 2007 which could lead to imposing a Merchant Discount Rate on the Unified Payment Interface
+## Sensex today | Stock Market Highlights: Sensex climbs 374 pts; Nifty ends above 24,600 on RBI, crude oil cues
+Sensex, Nifty, Share Prices Highlights: Indian benchmark indices closed higher as easing crude oil prices, the RBI's steady policy stance and buying in heavyweight banking and energy stocks outweighed profit booking, while broader markets remained resilient with sustained gains in small- and mid-cap
 
-## Q1 Results Today Live: Trent & Emcure Pharma log Q1 PAT growth, Blue Star profit declines, Hero MotoCorp, Lupin, Britannia, Siemens Energy, LIC, BOSCH, Kirloskar Oil Engines, Premier Energies to announce Q1 results
-Q1 Results Today, 06th August 2026 Live Updates: Follow Q1FY27 live updates frmo businessline
+## SBI MF launches Magnum Equity Ex-top 100 Long Short fund
+The new fund offer will be open for subscription on August 7
 
-## Sensex today | Stock Market Live: Sensex up 234 pts, Nifty holds 24,646 in choppy trade; Reliance, BEL lead gainers; TTK Healthcare shares jump 15% on strong Q1
-Sensex, Nifty, Share Prices LIVE: Benchmark indices edged higher at the open ‌on Thursday, supported by hopes of a diplomatic breakthrough ⁠in the Middle East and a better-than-expected June-quarter earnings season.
+## Afcons receives LoA for ₹1,918-cr desalinated water tunnel project in Mumbai
+Afcons receives LoA for ₹1,918-cr desalinated water tunnel project in Mumbai
 
-## Paramotor Digital Tech to distribute prepaid products of Aditya Birla Capital Digital
-Paramotor will undertake the marketing and distribution of ABCDL’s prepaid products while ensuring compliance with applicable RBI regulations
-
-## iQIYI Launches Short-Form Suspense Drama Brand "Undercurrent Theater" to Advance Premium Genre Storytelling
-iQIYI Launches Short-Form Suspense Drama Brand "Undercurrent Theater" to Advance Premium Genre Storytelling
-
-## India crosses 300 GW non-fossil fuel capacity, on track to achieve 500 GW by 2030: Pralhad Joshi
-The minister reported that 30.58 GW of non-fossil fuel electricity generation capacity was added from January to June, a 25% increase compared to last year
-
-## Experts at Apollo Hospital, Bilaspur, Remove Esophagus Cancer, Create A New Food Passage Using Stomach
-Experts at Apollo Hospital, Bilaspur, Remove Esophagus Cancer, Create A New Food Passage Using Stomach
+## Milton and Feeding India collaborate to distribute steel tiffin boxes to children
+Milton and Feeding India collaborate to distribute steel tiffin boxes to children
 
 ## Stock market today: Sensex rises over 250 pts, Nifty50 holds above 24,600
 
 
 ## Gold rate today: Yellow metal hits seven-week high as oil prices lift demand
+
+
+## India eyes LNG import alternatives: Cabinet approves Rs 23,731 cr GOBARdhan scheme for compressed bio-gas
+GOBARdhan or the Galvanizing Organic Bio- Agro Resources Dhan scheme aims to push for the production of compressed bio-gas. The scheme has six pillars: assured offtake, price stability, capex support, pipeline infra development, credit guarantee, and challenge fund for innovation.
+
+## Taxation bill to promote electronic manufacturing clears LS; allows provision for MDR on UPI transactions
+Under the proposed changes, the Central government would be empowered to specify, through a notification, the electronic payment modes or transactions that must continue to remain free of charges.
+
+## 'Completely false, irresponsible': Centre refutes claim of ethanol blending with jet fuel
 
 
 ## 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil
@@ -75,38 +84,38 @@ In a significant move, the Trump administration has reimbursed nearly one hundre
 ## Gold, silver price prediction: Is gold, silver price rise sustainable? Check outlook on August 6, 2026
 MCX Gold has breached from its consolidation and is heading toward the recent swing highs, pointing to an intermediate bullish move underway. Silver has stepped out of its consolidation and is now aligning with the base trend, a near-term recovery looks well on the cards. Much like gold’s positive t
 
-## Oil prices today: Crude slips as Iran-Oman talks fuel hopes of peace deal, Hormuz reopening
-Oil prices edged lower as investors assessed Iran-Oman talks for peace. Brent crude futures fell, and US West Texas Intermediate also declined. Market sentiment focused on diplomatic efforts to resolve tensions between Tehran and Washington. Fresh US inventory data showed crude oil stockpiles increa
+## 'Marketing expense, referral commission': Raghav Chadha raises lab-doctor nexus issue over medical tests
+Raghav Chadha said the issue is especially relevant for tier-2 or tier-3 cities, where the referral commission is becoming an informal economy.
 
-## Top stocks to buy today: Stock recommendations for August 6, 2026 - check list
-Top stock market recommendations: Ambuja Cements, Asahi India Glass, and Pfizer - these stocks have been identified as the top buy calls for August 6, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management. The expert has also shared outlook 
+## Ladakh to launch India's first high-altitude wildlife safari, LG approves eco-tourism initiative
+As part of initiative, 20 local youths will be selected and trained in birdwatching, bird identification and bird-spotting skills and equipped with binoculars.
 
-## Google rejigs AI leadership as DeepMind CEO shifts role
+## Flower petals, ‘sher aaya’ slogans: Brij Bhushan gets grand welcome after acquittal in sexual harassment case | Video
+Singh, a former Lok Sabha MP from Gonda’s Kaisarganj constituency, was accompanied by supporters during the roadshow.
 
+## ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+CJP founder Abhijeet Dipke announced the campaign after a two-day conclave of the party’s core committee members
 
-## 2 dead after dispute among brothers over loud music in Mumbai
-Sunil allegedly played music at a high volume in the early hours, following which his brothers, Surendra and Suraj, objected, a senior police official said.
+## Lakhimpur Kheri case: SC refuses to relax Ashish Mishra’s bail conditions
+The bench dismissed Mishra’s application seeking relaxation of his bail conditions and permitting him to visit his native place to take part in family functions
 
-## Priyanka Gandhi critises cancellation of 'Chhatron Ki Goonj' programme in Prayagraj
-The Kayastha Pathshala Trust revoked permission for Rahul Gandhi's 'Chhatron Ki Goonj' programme, scheduled at Prayagraj's K.P. Ground on August 8.
+## Passenger attempts to open emergency door of Kochi-bound flight; arrested
+The passenger tried to force open the aircraft's emergency exit, damaged its window panel and threatened fellow passengers.
 
-## Scientists pave way for plant-grown meat
-Scientists engineered tobacco and lettuce to produce myoglobin, a key meat protein, paving the way for sustainable plant-grown meat alternatives.
+## Govt amends rules to debar pharma firms submitting fake or fabricated data
+The Union health and family welfare ministry called the amendments a significant step towards strengthening the integrity of the regulatory system
 
-## Jharkhand CM Hemant Soren meets governor amid student protests, briefs him on JPSC exam row
-Hemant Soren met Jharkhand governor Santosh Kumar Gangwar and apprised him of ongoing protests for alleged irregularities in the JPSC and JSSC exams.
+## Centre keen on investing to develop tea, textile sector in Bengal: CM Suvendu Adhikari
+Chief minister Suvendu Adhikari said that Union finance minister Nirmala Sitharaman said the Centre wanted to develop the state’s tea and textile sectors
 
-## Jharkhand govt reaches out to protesting students, stalemate continues
-The Jharkhand students protests are demanding for a proper probe into irregularities in the 14th JPSC Civil Service Examination.
+## China’s MLCC supply chain expanding rapidly amid surge in global AI demand
+China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of electronics” – is racing to expand capacity, as an artificial intelligence-driven boom triggers a surge in global orders. Shandong Sinocera Functional Materials, a major supplier of dielectr
 
-## 3,280 visually impaired children in Bengal benefit from Sighsavers programme
-3,280 visually impaired children in Bengal benefit from Sighsavers programme
+## Swire earnings show Hong Kong’s prime commercial districts outpacing others in recovery
+Hong Kong’s commercial property recovery is increasingly becoming a story of location, with the fortunes of the city’s biggest landlords diverging depending on the districts where they own office space. Swire Properties’ first-half results on Thursday captured that shift. The developer owns office t
 
-## ‘Hemant Soren unfit for office’: Students seek Jharkhand CM's resignation amid protest, plan state assembly gherao
-The student protest in Jharkhand has entered Day 13 and as protestors continue their hunger strike, they have called for the resignation of Hemant Soren.
-
-## ‘Will approach Supreme Court’: Ex-Tehelka editor Tarun Tejpal after conviction in 2013 sexual assault case
-Justices Neela Gokhale and Amit Jamsandekar of the Bombay High Court at Goa overturned Tarun Tejpal's acquittal in the case granted to him in 2021.
+## Unrelenting AI demand spawns new plant for Chinese PCB maker Victory Giant
+Chinese printed circuit board (PCB) maker Victory Giant Technology is aggressively expanding its manufacturing footprint and international order book, highlighting relentless growth momentum across China’s artificial intelligence hardware sector. The Guangdong-based company has been negotiating new 
 
 ## US efforts to prop up the yen risk doing more harm than good
 Has the interminable decline in the yen finally run its course? Since the beginning of 2022, Japan’s currency has fallen a staggering 36 per cent against the US dollar. Despite the resolve of the Bank of Japan (BOJ) to keep raising interest rates, the surge in Japanese bond yields over the past year
@@ -117,20 +126,11 @@ A shift to technology stocks by China’s most seasoned fund managers has backfi
 ## Hong Kong stock regulator flags more companies for share concentration
 Hong Kong’s securities regulator has put a spotlight on highly concentrated shareholding this year, a move interpreted by market analysts as a warning about sharp price swings on small-cap stocks. As of August, the Securities and Futures Commission (SFC) had mentioned 13 cases of high shareholding c
 
-## Shares of major Hong Kong insurance, finance firms tumble following report of 20% levy
-Shares of major Hong Kong-listed insurance and financial institutions tumbled on Thursday, after reports surfaced that mainland Chinese authorities had begun taxing gains on offshore insurance policies bought by mainland visitors in the city, reviving fears of tighter curbs on cross-border capital f
+## Investors eye Beijing’s next steps as Hong Kong insurance shares react to 20% levy report
+Hong Kong’s long-standing appeal as a tax-efficient gateway for mainland Chinese buyers of insurance and wealth products is facing its biggest test in years, as authorities in mainland China begin levying tax on gains from offshore insurance policies – a shift that threatens to reshape competition f
 
 ## Does Beijing really have the power to lift up the Australian dollar?
 While global markets watched closely for another joint move by Washington and Tokyo to prop up the Japanese yen this week, Australian dollar traders have been laser-focused on the actions of another economic power: China. Some analysts view the Australian currency as particularly sensitive to policy
-
-## How SAIC’s recharged venture with GM plans to catch up with top EV makers in China
-China’s SAIC Motor has extended its cooperation with General Motors by 20 years, renewing the joint venture through 2047 amid aggressive competition from home-grown rivals. SAIC and GM, the largest carmakers in China and the United States, respectively, in terms of sales volume, signed the agreement
-
-## From wealth transfer to living legacy: How Asia’s founders are architecting the future
-[The content of this article has been produced by our advertising partner.] Asia is on the precipice of a monumental economic shift. By 2030, an estimated US$5.8 trillion of wealth is expected to pass from the region’s founding generations to their successors. In today’s world, wealth is rarely held
-
-## Chinese and Western firms are teaming up even as governments fight
-In an era defined by escalating geopolitical tensions and the weaponisation of supply chains, a counterintuitive phenomenon is taking root in the industrial heartlands of China, the United States and Europe. While governments in Beijing, Washington and Brussels engage in high-stakes chess matches of
 
 ## Ukraine’s Deadly Missile Defense Shortage
 Kyiv has run out of Patriot interceptors, but allies remain reluctant to supply more.
@@ -156,6 +156,18 @@ In their willingness to blame Spain, European leaders have shown they cannot be 
 ## El Niño Bakes Southeast Asia
 The world’s rice bowl takes a hit.
 
+## India at a Crossroads: Examining Comprehensive National Power and the Road to 2047
+Just how powerful is India? CNP may present a better picture than GDP.
+
+## Malaysia Says It Will Not Deport Rohingya if There Are Risks to Their Safety
+Prime Minister Anwar Ibrahim's government has announced plans to repatriate around 5,000 Rohingya with Myanmar's assent.
+
+## Artillery-Missile Command: Vietnam’s Answer to the Maritime-Continental Dilemma
+Long-range surface-to-surface and ground-based anti-ship missiles will help defend the country on both land and sea.
+
+## Vietnam to Build Memorial to North Korean War Dead Outside Hanoi
+The memorial will be built at an existing ⁠cemetery that commemorates 14 North Korean fighter pilots shot down while battling the U.S. Air Force in the late 1960s.
+
 ## Are India and Indonesia Leaving the Non-Aligned Movement Behind?
 Rather than signaling the abandonment of non-alignment, the same principles are increasingly pursued through a different set of institutions.
 
@@ -167,18 +179,6 @@ On the 81st anniversary of the bombing of Japan, the hibakusha are disappearing 
 
 ## Why Asia Is More Enthusiastic About AI Than the West
 In China, India, much of Southeast Asia, and elsewhere in Asia, the net benefits of AI are perceived by populations to be greater than their drawbacks.
-
-## China’s World AI Cooperation Organization Agenda
-Insights from Gloria Chen.
-
-## Kim Yo Jong Warns Japan Over First Tomahawk Missile Test
-The powerful sister of North Korea’s leader said Japan’s preemptive attack capability is entering the “stage of the actual act.”
-
-## 15 Months After Massacre at Pahalgam, Terrorists Target Non-local Civilians Again in Kashmir
-Two laborers from central India were shot dead at a brick kiln in Kulgam in the Kashmir valley on July 31.
-
-## What a Near-Miss Drone Incident Reveals About South Korea-US Operational Coordination
-South Korea's army thought they were locked on to a North Korean UAV. It actually belonged to the U.S. Marine Corps.
 
 ## The Arsenal and the Statehouse: New Defense Firms, Venture Capital and State Industrial Policy
 When Anduril announced a $910 million drone production facility in Ohio, it was not politics as usual. The main message came from Ohio’s governor, Mike DeWine, while Representative Mike Carey’s press release thanked the governor. Members of Congress usually take substantial credit for defense indust
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Sheikh Hasina vows to return, but will Bangladesh accept fugitive ex-PM?
-Awami League leader plans to return from India exile despite facing death sentence over 2024 protest crackdown.
+## Ebola outbreak accelerates as healthcare workers strike over pay
+Ebola outbreak accelerates as healthcare workers strike over pay
 
-## What to know about this week’s US primary elections in Tennessee and Hawaii
-Republicans eye Congressional sweep after only Democrat-dominated district redrawn ahead of primary vote in Tennessee.
+## Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?
+Gastelum's death comes after the killing of TikToker Valeria Marquez last year.
 
-## UK police confirm Uganda boxers unaccounted for after Commonwealth Games
-Athletes from Uganda and Pakistan were reported 'missing' after failing to return home from 2026 Commonwealth Games.
+## What the CJP protests reveal about India’s next generation
+The politics of aspiration is reshaping Generation Z worldwide, and India may still have an opportunity to respond.
 
-## Shifting US politics offers opportunity for Palestinian self-determination
-Palestinian advocacy needs to actively engage with changes in attitudes among both Democratic and Republican voters.
+## Cambridge professor Jason Arday quits amid plagiarism allegations
+The scholar announced his resignation amid a new investigation into his qualifications.
 
-## Why is France developing a new nuclear strategy?
-As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal
+## Hormuz deal ‘close’: What’s the latest on each side’s positions?
+US officials say they would not accept any arrangement on the waterway that would leave Iran in control.
 
-## Iran anthem protest: Female footballers ‘proud’ to become Australian
-Fatemeh Pasandideh and Atefeh Ramezanisadeh refused to sing Iran anthem at Asian Cup, now granted Australia citizenship.
+## Uganda football star Owori killed, weeks after death of rugby’s Gongodyo
+SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.
 
-## Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones
-Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.
+## South Korea police raid football association over Hong appointment process
+Hong Myung-bo's appointment under scrutiny amid raids with lack of proper interview process previously alleged.
 
-## Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout
-Former Bangladesh captain Shakib Al Hasan's home attacked after joining former Prime Minister Sheikh Hasina’s event.
+## Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site
+More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating war and neglect.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
@@ -291,9 +291,9 @@ The Reserve Bank of India (RBI) is expected to leave key interest rates untouche
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
-## RBI likely to extend rate pause; neutral stance seen unchanged
-Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
-
 ## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
 The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
+
+## RBI likely to extend rate pause; neutral stance seen unchanged
+Economists anticipate the Reserve Bank of India will maintain its current interest rate at 5.25 percent. The central bank is also expected to keep its neutral monetary policy stance for the fourth review. Some economists foresee a potential rate hike in the second half of fiscal year twenty twenty-s
 
