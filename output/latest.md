@@ -1,73 +1,70 @@
 # AION Intelligence
 
-## Abdul El-Sayed delivers significant victory for progressive Democrats
-Also in today’s newsletter, a wide-ranging exclusive interview with Virginia governor Abigail Spanberger
+## Alibaba’s latest AI model puts it back in the great game
+The ecommerce and cloud company hopes to recoup some of its lost shine with Monday’s release
 
-## Paramount agrees safeguards for UK approval of $110bn WBD deal
-David Ellison makes commitments on news provision, investment and programming to win government nod
+## Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside
+Silicon Valley parent consolidates control as the London lab’s scientific culture gives way to urgency to build AI products
 
-## Referrals to Prevent anti-radicalisation scheme jump after Southport attacks
-Concerns about people being fascinated with extreme violence increase following conviction of Axel Rudakubana
+## Rail users face further disruption after Manchester power cut
+Hundreds of trains were cancelled in north-west England after a 90-second outage at a critical train signalling centre
 
-## The confounding ‘compounding’ of ‘compounding’
-When growth isn’t enough
+## Mexico deploys hundreds of troops to secure avocado heartlands
+Violence in Michoacán state prompts US to withdraw its inspectors and suspends imports of the fruit
 
-## ConocoPhillips chief Ryan Lance to step down after 14 years
-Third-largest US oil and gas company changes leadership as profits climb on war-driven price surge
+## FirstFT: US scientists use AI to create first synthetic viruses
+Also in today’s newsletter: Jane Street in talks to refinance $11bn debt load and SoftBank beats analysts’ expectations
 
-## The good, the bad and the green of Badenoch
-The Tory leader’s stance on climate exposes her greatest strength and weaknesses
+## Tories vow to ban foreign nationals from accessing UK social housing
+Party leader Kemi Badenoch pledges to implement policy if she forms next government as she tries to outflank Reform
 
-## Russia targets Maga influencers ahead of German state vote
-The ‘Matryoshka’ campaign is seeking to amplify inflammatory English-language posts, officials say
+## Jane Street in talks to shift its $11bn in debt to investors including Pimco
+Private credit deal would allow the secretive trading firm to make further investments in AI
 
-## US public pension funds and business groups clash on SEC climate risk disclosure shift
-Vanguard and Norway’s sovereign wealth fund strike cautious response to regulator
+## Honeywell Aerospace shares plunge on failure to overcome supply snarls
+Group slashes outlook as bottlenecks limit ability to convert strong demand for advanced parts into sales
 
-## EasyJet agrees to £5.7bn Apollo takeover after Castlelake walks away
-Two US private capital groups had vied for months to buy low-cost carrier
+## Argentine company accuses US of meddling in Huawei project
+Incident underscores duelling pressures on rightwing president Javier Milei from Washington and Beijing
 
-## Mike Ashley says Harvey Nichols is in a ‘death spiral’
-Sports Direct founder casts doubt over department store chain’s prospects even as he vies to acquire it
+## California sues DuPont over alleged effort to avoid ‘forever chemicals’ liabilities
+State’s attorney-general says lawsuit involves ‘first-of-its-kind’ litigation
 
-## Diageo boss Dave Lewis stakes revival on canned cocktails and Guinness
-New chief unveils plans to restore growth along with suite of cost cuts
+## Cyble Says the Future of Endpoint Security Goes Beyond Detection, Unveils the Next Evolution of Titan at Black Hat USA 2026
+Cyble Says the Future of Endpoint Security Goes Beyond Detection, Unveils the Next Evolution of Titan at Black Hat USA 2026
 
-## Europe must create an AI money-mobilisation machine
-Talented researchers and entrepreneurs have built a dynamic start-up ecosystem that deserves to be magnified
+## Cision Wins 2026 MarTech Breakthrough Awards for Social Listening, Press Release Distribution, and AEO
+Cision Wins 2026 MarTech Breakthrough Awards for Social Listening, Press Release Distribution, and AEO
 
-## Could over-investment in natural gas drive up US electricity bills?
-A new report finds that meeting data centre demand primarily with gas creates financial risks for utility customers
+## TN CM to meet State MPs on delimitation
 
-## Auto retail sales surge 26% y-o-y in July, FADA data show
-Month-on-month, retail sales were almost flat (-0.16 per cent) over a strong June 2026
 
-## Solinas Integrity raises $5.5 million Series A funding from Hero Enterprise Partner Ventures, Mela Ventures
-Solinas builds robotics and AI systems that inspect, clean, and digitise underground water and wastewater infrastructure
+## TN CM Vijay urges PM Modi to expedite work on linking Godavari-Cauvery-Gundar rivers
+Implementation of the Godavari-Cauvery–Vaigai–Gundar Link Project would facilitate the transfer of surplus floodwaters from water-surplus basins to water-deficit regions, says CM Vijay
 
-## Biocon sees stronger H2 on US biosimilar launches, regulatory easing
-The US regulator’s decision to move away from subjecting companies to undertake mandatory efficacy trials in phase-3 bodes well for incumbents such as Biocon
+## MDR applies only on merchants, not on end users: FM
+She clarified that no decision yet on MDR has been taken yet
 
-## SC ‘hopeful’ of amicable settlement in Sunjay Kapur estate row
-Mediator seeks more time as family cooperates in six mediation sessions
+## Bajaj General Insurance, Swiss Re team up for commercial insurance in India
+The proposed partnership aims to leverage Swiss Re Corporate Solutions’ International Programmes platform
 
-## Andhra Pradesh Cabinet approves Ease of Doing Business Act, PPP Policy for 2026
-Business reforms, infrastructure approvals and industrial policy decisions dominated the Andhra Pradesh Cabinet meeting, alongside renewable energy and education initiatives
+## Indel Money’s arm get RBI approval to offer trade remittance services
+The RBI approval enables the company to expand regulated cross-border payment services for businesses with faster and compliant trade remittances
 
-## Q1 Results Today Live: LIC, Trent, Apollo Tyres, Emcure Pharma log Q1 PAT growth, Blue Star profit declines, Hero MotoCorp, Lupin, Britannia, Siemens Energy, BOSCH, Kirloskar Oil Engines, Premier Energies to announce Q1 results
-Q1 Results Today, 06th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## India’s ISMA, coop sugar mills seek incentives to offset early crushing losses
+In a letter to Union Food Secretary Sanjeev Chopra, they’re pushing for this proactive move to boost sugar supplies just in time for the festive season
 
-## Govt approves national unified scheme for CBG with $2.5 billion push
-The scheme addresses off-take, pricing, infrastructure and aims to spur investment and rural bioeconomy growth
-
-## Ice Make Refrigeration raises ₹190 cr via preferential issue
-Ice Make Refrigeration partners with Japan’s Galilei Holdings for strategic investment and joint venture
+## Merchant charges for UPI soon? LS passes bill authorising govt to allow banks to levy fees - top facts
+This empowers the government to allow banks and other payment service providers to impose charges on transactions conducted through the unified payments interface (UPI) and other electronic payment modes that may be notified.
 
 ## 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil
 A year since the whole penal tariff cycle began - India now faces uncertainty related to its Russian crude purchases. A new Russia related sanctions bill in the US may see the light of the day if passed this year implying that Trump would have the power to impose tariffs on India again.
 
 ## Crèche benefits under India’s Labour Codes: What employers and working parents need to know
 While the requirement to provide a crèche is not new for many employers, the Labour Codes introduce a more comprehensive framework governing how such benefits may be provided, administered and accessed by employees.
+
+## US stock market today: Wall Street mixed as earnings reports drive key indices
+The S&P 500 gained 0.2%, remaining close to the record high it reached on Tuesday. By 9:53 a.m. Eastern time, the Dow Jones Industrial Average was down 21 points, or less than 0.1%, while also trading near its all-time high. The Nasdaq composite advanced 0.2%.
 
 ## India eyes LNG import alternatives: Cabinet approves Rs 23,731 cr GOBARdhan scheme for compressed bio-gas
 GOBARdhan or the Galvanizing Organic Bio- Agro Resources Dhan scheme aims to push for the production of compressed bio-gas. The scheme has six pillars: assured offtake, price stability, capex support, pipeline infra development, credit guarantee, and challenge fund for innovation.
@@ -81,35 +78,41 @@ Under the proposed changes, the Central government would be empowered to specify
 ## Gold rate today: Yellow metal hits seven-week high as oil prices lift demand
 
 
-## Trump administration refunds $100 billion in tariffs struck down by US Supreme Court
-In a significant move, the Trump administration has reimbursed nearly one hundred billion dollars in tariffs after the Supreme Court ruled against wide-ranging duties. By July, around sixty percent of these tariffs were refunded to importers. The court's decision emphasized that the existing law did
+## 'Prime Influencer': Dipke takes a dig at PM Modi's National Handloom Day Instagram video
+PM Modi promoted National Handloom Day online, while CJP founder Abhijeet Dipke reacted with a comment and later appealed for youth-focused announcements.
 
-## Gold, silver price prediction: Is gold, silver price rise sustainable? Check outlook on August 6, 2026
-MCX Gold has breached from its consolidation and is heading toward the recent swing highs, pointing to an intermediate bullish move underway. Silver has stepped out of its consolidation and is now aligning with the base trend, a near-term recovery looks well on the cards. Much like gold’s positive t
+## Zero tolerance for attempts to disrupt Kanwar Yatra: Adityanath
+Zero tolerance for attempts to disrupt Kanwar Yatra: Adityanath
 
-## Pak, China not whole-heartedly our enemies, conflicts can't hit ties: RSS chief
-Pakistan is not whole-heartedly our enemies, conflicts cant hit ties: RSS chief
+## NHRC sends notice to MP govt over assault on Dalit student by teacher
+NHRC sends notice to MP govt over assault on Dalit student by teacher
 
-## ₹557.51 crore spent on PM Modi’s trips to 77 countries since 2021: Govt
-Government told Parliament PM Modi’s visits to 77 countries since 2021 cost ₹557.51 crore and resulted in 316 agreements across key sectors.
+## 'Students, Gen-Z -- I'm here to listen': Rahul Gandhi launches 'Ask Me Anything' on Instagram
+Asked about the student protest in Jharkhand, which is governed by the JMM, an INDIA bloc ally, Gandhi said the education system in the country has collapsed.
 
-## 'Will believe GenZ with eyes shut': Mohan Bhagwat on row over use of pellet guns at Jantar Mantar
-Speaking about the use of force, Bhagwat said, “Why did the lathi charge happen, pallet guns are used and need to study for the reason.”
+## Govt, Meta to continue talks on content moderation policies after PM Modi reel row
+MeitY officials said discussions with Meta will focus on content moderation policies, algorithms and compliance systems after PM Modi’s Facebook Reel takedown.
 
-## ‘If GenZ is protesting, they are not anti-national’: Mohan Bhagwat
-Addressing an event in Mumbai, Mohan Bhagwat said that when his generation was of the age Gen Z is now, it would just listen to its elders.
+## Rajasthan court acquits 40 in 2015 murder of 5 Dalits, cites probe lapses
+Rajasthan police did not conduct a Test Identification Parade of the accused or collect their samples for DNA test to match blood samples lifted from crime scene, a local court in Merta said
 
-## CJP forms National Working Committee to better outreach. See members' list here
-Vijay Reddy Mallangi has been apponted as Media Lead while Ratna Singh as Legal Affairs Lead.
+## Pedestal fans used to dry ₹4,200-cr Lucknow-Kanpur Expressway repair
+This is the new wave of BJP-style ‘progress, said SP president Akhilesh Yadav, taking a swipe at the government over the quality of the new expressway
 
-## 'Indira Gandhi was killed for 'tukde, tukde' of India…': Rajiv Gandhi's 1989 Independence Day speech
-As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister Rajiv Gandhi's August 15 address from the Red Fort in 1989.
+## 'Education is a necessity, not a business': RSS chief Mohan Bhagwat backs 6% budget demand
+Bhagwat stressed that the system should be designed in a way that makes quality education available to everybody without placing financial burden on families.
 
-## Driver suffered 'momentary blackout' before high-speed crash that killed Atiq Ahmed's son Abaan, police say
-According to Jhansi SSP BB GTS Murti, the car had five occupants, out of which two, including 20-year-old Abaan, died in the crash.
+## Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push
+Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion. Supporting the outlook, Beijing – which has added to its gold reserve for 20 straight mon
 
-## Union cabinet approves ₹8,970 crore Guwahati-Tezpur highway in Assam
-The ₹8,970 crore Guwahati-Tezpur highway corridor will halve travel time, boost Northeast connectivity and improve access to industrial and tourism hubs.
+## From Hong Kong’s bond futures to SpaceX: the numbers moving markets
+China’s push for treasury bond futures in Hong Kong has been well received, with brisk trading reflecting strong hedging demand. On the other side of the Pacific, Elon Musk’s aerospace company, SpaceX, has published its first-ever quarterly financial statement as a public entity, offering a glimpse 
+
+## Chinese luxury brands rise from challengers to market shapers as global houses lose lustre
+After months of declining gold prices, Li Yue recently spent nearly 28,000 yuan (US$4,148) on a 10-gram (0.35-ounce) pure gold necklace – more than double the prevailing market rate for the metal. The piece in question: a gourd-shaped pendant from Laopu Gold, a Chinese heritage jewellery brand that 
+
+## Swire Pacific posts record first-half profit as investment surges to fresh high
+Swire Pacific – whose high-profile assets include Hong Kong’s flag carrier Cathay Pacific Airways, Swire Properties and Swire Coca-Cola – logged a record first-half profit during the first six months of the year, with the company’s investment also hitting a new high. The Hong Kong-based conglomerate
 
 ## Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch
 Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year. Up to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed ann
@@ -123,65 +126,59 @@ Hong Kong’s commercial property recovery is increasingly becoming a story of l
 ## Unrelenting AI demand spawns new plant for Chinese PCB maker Victory Giant
 Chinese printed circuit board (PCB) maker Victory Giant Technology is aggressively expanding its manufacturing footprint and international order book, highlighting relentless growth momentum across China’s artificial intelligence hardware sector. The Guangdong-based company has been negotiating new 
 
-## US efforts to prop up the yen risk doing more harm than good
-Has the interminable decline in the yen finally run its course? Since the beginning of 2022, Japan’s currency has fallen a staggering 36 per cent against the US dollar. Despite the resolve of the Bank of Japan (BOJ) to keep raising interest rates, the surge in Japanese bond yields over the past year
+## Is Iran Winning the Battle Over the Strait of Hormuz?
+Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.
 
-## Chinese fund managers’ pursuit of AI plays backfires as hot tech stocks wobble
-A shift to technology stocks by China’s most seasoned fund managers has backfired, with the unwinding of AI plays taking a toll on the performances of their products. Funds run by some star managers with a value-investing approach all recorded declines in net asset values last month after they switc
+## What Everyone Is Missing About Ceuta
+The history of the disputed exclave should inform what Spain does next.
 
-## Hong Kong stock regulator flags more companies for share concentration
-Hong Kong’s securities regulator has put a spotlight on highly concentrated shareholding this year, a move interpreted by market analysts as a warning about sharp price swings on small-cap stocks. As of August, the Securities and Futures Commission (SFC) had mentioned 13 cases of high shareholding c
+## China’s AI Acceleration
+Washington isn’t sure how to counter Chinese technological advancements.
 
-## Investors eye Beijing’s next steps as Hong Kong insurance shares react to 20% levy report
-Hong Kong’s long-standing appeal as a tax-efficient gateway for mainland Chinese buyers of insurance and wealth products is facing its biggest test in years, as authorities in mainland China begin levying tax on gains from offshore insurance policies – a shift that threatens to reshape competition f
+## Why Israel’s Upcoming Election Might Be Its Most Pivotal
+Benjamin Netanyahu’s reelection as prime minister would hasten the illiberal drift.
+
+## Selling Trust From Orbit
+Satellite images are plentiful, affordable, and easy to fake. Providers will benefit from curbing their misuse.
+
+## Colombia’s Road to Peace Runs Through the Countryside
+Rural neglect has produced a continual security crisis.
+
+## Russia and Ukraine Are Mutually Shutting Down the Black Sea
+Strikes on ports and ships could portend another global food shortage.
 
 ## Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
 Experts say political uncertainty makes the Trump-backed plan untenable, for now.
 
-## Ukraine’s Deadly Missile Defense Shortage
-Kyiv has run out of Patriot interceptors, but allies remain reluctant to supply more.
+## China’s ‘Ethnic Unity’ Law is Already Harming Uyghurs
+Government actions that could once be described as regional campaigns are now embedded in national legislation. Restrictions will become easier to expand and harder to challenge.
 
-## South Africa’s Global Image Loses Its Luster
-Pretoria’s influence across Africa may be waning following widespread xenophobic attacks.
+## Balochistan Is Now Pakistan’s Most Dangerous Province
+July was Balochistan’s most violent month this year. It also overtook Khyber Pakhtunkhwa to emerge as Pakistan’s most volatile province.
 
-## What’s Behind the Violence in Pakistan-Administered Kashmir
-The region has become ground zero for protests against poor governance.
+## Delhi’s EV Policy Changes the Engine, Not the System
+Electric vehicles can reduce pollution and emissions. But underlying issues of preserving car dependence, displacing environmental harm, and workers bearing the costs of a clean future need to be addressed.
 
-## The Saudis Are the Architects of Their Own Misfortune
-Missed opportunities and strategic blunders have plagued Riyadh.
+## Mongolia’s Fuel Crisis Is a Demand Problem, Not Just a Supply One
+The cause of the crisis can be attributed to both external and internal factors, highlighting Mongolia's energy insecurity. The cure might be a path toward transportation electrification.
 
-## Why the United States Keeps Losing Wars
-Washington has a long record of fighting the wrong war for the wrong objective.
+## How Kazakhstan Wrote Its Security Service Into the AI Business
+Largely construed as routine modernization efforts, the KNB’s new responsibilities may not have not attracted much scrutiny but they could have significant implications.
 
-## Kevin Warsh Has a Problem
-The Fed chair “is really rolling the dice” while holding out against interest rate hikes, one expert said.
+## Sheikh Hasina’s Remarks Spark Bangladesh’s Boldest Message to India Yet
+Dhaka wants the post-2024 political order to be viewed not only as a domestic transition but also as the basis of a more assertive foreign policy identity.
 
-## The Ceuta Crisis Reveals the Limits of European Defense Cooperation
-In their willingness to blame Spain, European leaders have shown they cannot be trusted on collective security.
+## US Pacific Command Considers Moving Billions in Planned Infrastructure Out of Micronesia
+The U.S. is threatening to pull a $2 billion infrastructure project in Yap. It's second time recently there have been major problems in U.S. defense negotiations with a COFA partner.
 
-## India at a Crossroads: Examining Comprehensive National Power and the Road to 2047
-Just how powerful is India? CNP may present a better picture than GDP.
+## As Taiwan’s Drone Budget Debate Drags on, Time Is Running out
+Taiwan could end 2026 without awarding a single new large-scale contract for domestically produced combat drones.
 
-## Malaysia Says It Will Not Deport Rohingya if There Are Risks to Their Safety
-Prime Minister Anwar Ibrahim's government has announced plans to repatriate around 5,000 Rohingya with Myanmar's assent.
+## Attacks, Deals, and Discontent
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOver the last two weeks, President Donald Trump repeatedly threatened major attacks on Iran. Going into the 
 
-## Artillery-Missile Command: Vietnam’s Answer to the Maritime-Continental Dilemma
-Long-range surface-to-surface and ground-based anti-ship missiles will help defend the country on both land and sea.
-
-## Vietnam to Build Memorial to North Korean War Dead Outside Hanoi
-The memorial will be built at an existing ⁠cemetery that commemorates 14 North Korean fighter pilots shot down while battling the U.S. Air Force in the late 1960s.
-
-## Are India and Indonesia Leaving the Non-Aligned Movement Behind?
-Rather than signaling the abandonment of non-alignment, the same principles are increasingly pursued through a different set of institutions.
-
-## Has Life in North Korea Changed Since 2013?
-The author of “Witness to North Korea” reflects on which lessons from his time in the country are still relevant today.
-
-## When the World Stops Fearing the Bomb
-On the 81st anniversary of the bombing of Japan, the hibakusha are disappearing just as fast as the world is becoming numb to their cause
-
-## Why Asia Is More Enthusiastic About AI Than the West
-In China, India, much of Southeast Asia, and elsewhere in Asia, the net benefits of AI are perceived by populations to be greater than their drawbacks.
+## Does Latent Nuclear Deterrence Really Work?
+In 2025, Matthew Fuhrmann wrote, “U.S. Allies and Adversaries Are Attempting Nuclear Deterrence Without Weapons – Will It Work?,” where he argued countries don’t always need to go as far as actually building nuclear weapons to reap the benefits of nuclear deterrence. A year later, we asked Matthew t
 
 ## The Arsenal and the Statehouse: New Defense Firms, Venture Capital and State Industrial Policy
 When Anduril announced a $910 million drone production facility in Ohio, it was not politics as usual. The main message came from Ohio’s governor, Mike DeWine, while Representative Mike Carey’s press release thanked the governor. Members of Congress usually take substantial credit for defense indust
@@ -200,12 +197,6 @@ Five years after the assassinations in Haiti of Monferrier Dorval, Diego Charles
 
 ## A Conversation with the Pentagon’s Chief Buyer, Under Secretary Michael P. Duffey
 Under Secretary of Defense for Acquisition and Sustainment Michael P. Duffey joins Jonathan to discuss the Pentagon’s ongoing acquisition transformation. Their conversation spans the recent munitions agreements, industry investments, the shift to portfolio acquisition executives, allied coproduction
-
-## Is Washington Rewriting the North American Trade Agreement Around China?
-Washington has repeatedly used trade policy and U.S. market access over the past decade to advance broader economic security priorities with its trading partners. The Trump administration’s decision not to renew the U.S.-Mexico-Canada Agreement on July 1, during a mandatory six-year review, is the l
-
-## Why Egypt’s Opinion of Ukraine Matters, Now and Later
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UFC 331: Van-Pantoja rematch, Tsarukyan returns and full fight card
-Van and Pantoja to fight for flyweight title, while Tsarukyan faces the dangerous Mauricio Ruffy at lightweight.
+## Trump says war can’t ‘go much longer’, Hormuz deal close
+The US, Iran, and Oman are close to a temporary deal to reopen the Strait of Hormuz
 
-## Indian court sentences high-profile journalist to 10 years for rape
-Tarun Tejpal, 63, says that he will appeal the conviction at the Supreme Court.
+## Travel restrictions – from Israel and Europe – trap students in Gaza
+Blockades and bureaucracy turn education into an uphill journey for talented Gaza students seeking a brighter future.
 
-## Senate panel votes to hold former official Fauci in contempt of Congress
-This is a breaking news story.
+## ‘No red line’: South Lebanon residents outraged as Israel resumes strikes
+People in South Lebanon question their government's approach as Israel launches more attacks and displacement orders.
 
-## ‘There is no money’: Is Iraq entering a phase of lean years?
-Iraqi government needs approximately $8.24bn a month to pay state salaries and cover basic obligations.
+## Trump signs executive orders banning so-called ‘birth tourism’
+US President Donald Trump signed two executive orders to further limit who is eligible for birthright citizenship.
 
-## UEFA vice president seeks ‘custodian of ⁠sport’ after FIFA-Infantino furore
-UEFA continues to lead criticism of FIFA President Gianni Infantino despite global body's defiant stance.
+## Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’
+US president says he is involved in talks and war will end 'pretty soon', claiming that Iran cannot 'go much longer'.
 
-## Iran tightens security grip at home as war conditions with US linger
-Executions, arrests and closure of public gathering spaces have raised concerns among Iranians and rights groups.
+## How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment
+Michigan progressive fended off AIPAC as well as Democratic establishment in US Senate race, supporters say.
 
-## Will the US-Iran war and Hormuz deadlock last for months?
-Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.
+## Far-right fitness clubs mask extremist recruitment, experts warn
+Al Jazeera's Nils Adler reports on how far-right 'Active Clubs' use fitness and camaraderie to recruit young white men.
 
-## Mohamed Salah signs two-year deal with Trabzonspor after Liverpool exit
-Egypt's Mohamed Salah, who left Liverpool last season after nine years with Premier League club, signs for Trabzonspor.
+## Trump signs new executive orders seeking to limit US birthright citizenship
+The US president's latest effort comes after Supreme Court ruled against his push to reinterpret constitutional right.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
