@@ -3,6 +3,9 @@
 ## US economy unexpectedly sheds 23,000 jobs in July
 Lacklustre figure prompts traders to scale back bets on Fed rate rises
 
+## Cambridge university to review appointments process after Jason Arday affair
+Elite institution’s youngest-ever Black professor resigned this week following allegations of plagiarism
+
 ## Mixed July payrolls report takes pressure off the Fed to tighten
 Weak figures give some cover to central bank’s July decision to hold rates
 
@@ -16,16 +19,16 @@ On the ground in Clacton; plus, what Badenoch’s backing for a former neo-Nazi 
 Lloyds’ data shows house prices were unchanged in July as higher mortgage rates stretch affordability
 
 ## Iran’s oil exports stall and Kharg Island idles under US blockade
-US naval blockade appears to be halting tankers from carrying Tehran’s crude
+Naval interdiction appears to be halting tankers from carrying Tehran’s crude
 
 ## UK manages record share of assets on behalf of overseas clients
 New data helps dispel worries over London’s status as a world-leading financial centre
 
-## Explosive drone at German airport raises ‘hybrid threat’ alarm
-Chancellor holds emergency national security meeting as investigators examine ‘concrete leads’ and possible Russian role
-
 ## Premium seats, more charges: Apollo’s upmarket plans for easyJet
 Airline will offer extra services and feed long-haul carriers under proposals
+
+## Explosive drone at German airport raises ‘hybrid threat’ alarm
+Chancellor holds emergency national security meeting as investigators examine ‘concrete leads’ and possible Russian role
 
 ## Exxon nears peak impunity on climate obligations
 Oil major’s move against the EU’s carbon storage rules is odd
@@ -36,29 +39,35 @@ CMA proposes changes to clamp down on discounters’ use of anti-competitive pro
 ## FirstFT: All eyes on the US jobs market
 Also in today’s newsletter: Jane Street debt discussions and the latest cutting-edge Chinese AI model
 
-## ADA acquires Algonomy, strengthening its intelligent growth platform for a fully agentic experience
+## Editorial. Timely support
+MSME Act amendments can aid timely payments
+
+## Letters to the Editor dated August 7, 2026
 
 
-## Biotech International Limited Reports Strong FY2025 Performance
-The New Delhi-based company manufacturing and marketing biological products for agriculture and public health reported revenue in the range of INR 100–150 crore for the financial year ended March 31, 2025!
-
-## Kidney Stone Prevention Initiative Led by Himalaya Wellness Company Unites More Than 8,200 Doctors Across India, Earns Asia Book of Records Recognition
-Nationwide doctor-led awareness drive on kidney stone prevention recognized for scale and reach, reinforcing the role of preventive healthcare in everyday patient care.
-
-## Product of the Year Announces 2026 Winners – Consumers Celebrate Innovation
-Mumbai, Maharashtra, India – Business Wire India
-
-## English Skills Emerging as a Critical Employability Benchmark in The Age of AI, Say Educators at Cambridge Conference
+## Pocket
 
 
-## Bergner India Brings The Kitchen to The Runway With Arpita Mehta at India Couture Week 2026
-Bergner India becomes the first cookware brand to be showcased at India Couture Week, celebrating the growing intersection of design, fashion and modern living
+## Monsoon poised for fresh surge, riding on twin low-pressure areas
+Though separated by thousands of kilometres, emerging Indian Ocean Dipole and a massive El Nino might be interacting through atmospheric teleconnections, reshaping rainfall patterns
 
-## Reckitt Forges Historic Seven-Partner Alliance to Deliver Better Health in More Hands, Every Day
-New Delhi, Delhi, India --- Business Wire India
+## Top five States account for 54% of Jan Dhan beneficiaries; SBI leads in accounts
+The latest data highlights regional concentration in banking access while showing improving account quality and stronger participation by public sector banks
 
-## Embassy REIT Reports 17% YoY Growth in Revenue and Net Operating Income; Leases 1.3 Million Square Feet in Q1 FY2027
+## Q1 Results Today Highlights: SBI, Titan, Hindalco, Hitachi Energy, Oil India and PFC post profit growth; Ola Electric, BEML losses narrow; HGS slips into loss
+Q1 Results Today, 07th August 2026 Highlights: Follow Q1FY27 live updates from businessline
 
+## NBFC credit rises 14.4% in June 2026, led by retail lending
+Housing loans increased 11.4 per cent to ₹8.44 lakh crore, while vehicle loans rose 15.2% to ₹6.24 lakh crore, highlighting steady consumer demand
+
+## AI to power GST reforms, boost revenue: Telangana CM Revanth Reddy
+The State government was planning to introduce an AI-enabled system to simplify processes for GST officials while helping identify tax leakages and enhance revenue mobilisation
+
+## More hirings than firings: Nomura report tests ‘ground zero’; says AI creating more jobs in India than cuts
+According to the report by Nomura Holdings Inc, AI-driven recruitment continues to be more than job losses in the country. Given the country's vast workforce, India is experiencing the "largest absolute impact" of AI across layoffs, hiring freezes and recruitment.
+
+## Food for thought: Global food prices rise in July as cereals, sugar turn costly
+In July, global food prices saw a notable rise, with cereals, vegetable oils, and sugar reflecting increased costs. Wheat and maize surged due to weather conditions and market apprehensions. Vegetable oils peaked since June 2022, bolstered by robust demand. Sugar prices also rebounded, driven by wea
 
 ## US stock market today: Wall Street rallies as 23,000 job cuts boost hopes of softer Fed policy
 Large-cap technology companies provided much of the market's upward momentum, reflecting their significant influence on the broader indexes. Nvidia rose 1.3%, while Broadcom added 1.1%.
@@ -78,35 +87,29 @@ For over three decades, the closing price was the volume-weighted average (VWAP)
 ## Gold price prediction: Buy on dips the right strategy for gold right now? Check August 7, 2026 outlook
 MCX Gold October futures continue to trade with a positive bias as prices remain well supported above key moving averages despite witnessing intermittent profit booking. The overall trend remains constructive, with higher highs and higher lows indicating sustained buying interest.
 
-## Rupee slips to 95.28 against US dollar as oil, treasury yields remain elevated
-On Friday, the Indian rupee experienced a decrease of six paise against the US dollar. Factors such as a robust dollar, escalating US Treasury yields, and elevated dollar demand from importers contributed to this decline. Additionally, rising global oil prices, combined with geopolitical tensions, a
+## MHA proposes higher rank officers for cybercrime probes under IT Act
+MHA has proposed an IT Act amendment to ensure cybercrime cases are investigated by police officers above inspector rank, following a panel recommendation.
 
-## Will you have to pay to use UPI? FM Sitharaman clarifies who bears MDR
-In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI transaction charges will be applicable to merchants rather than customers. She explained that any Merchant Discount Rate (MDR) imposed would be instrumental in enhancing the digital payment ecosystem. Following the passag
+## ‘America shooting itself in the foot’: US Senators Wyden, Paul oppose 100% tariffs on India, China
+US senators opposed tariffs during debate on a Russia sanctions bill. It affects India as the country relies more on Russian energy amid the West Asia conflict
 
-## ‘Must listen and engage with youth’: Shashi Tharoor's message to politicians
-Referring to his visit to Jantar Mantar, Tharoor said he chose not to deliver a speech and instead focused on hearing the views of those gathered there.
+## Tripura SIR of electoral rolls to begin from September 5: Chief electoral officer
+The Election Commission will begin Tripura’s SIR on September 5, with the final electoral roll to be published on December 23.
+
+## Rahul Gandhi's next plan of action is regarding the E20 issue: 'We’re going to…'
+The Congress leader said the party would take up the issue aggressively and claimed the rollout was hurting vehicle owners across the country.
+
+## BJP MP to propose bills seeking age checks for children, curbs on AI deepfakes
+The proposed Bills seek parental consent for children under 13 on social media and penalties for misuse of AI-generated deepfakes.
+
+## 'Rude wake-up call': Shashi Tharoor on Pradhan's resignation over NEET paper leak protests
+Tharoor said the resignation of Dharmendra Pradhan as education minister marked an unusual moment for the ruling government.
 
 ## 'Does SC want everyone to take bullets?': Abhijeet Dipke on top court's 'fear eggs' remark to Mahua
 Dipke slammed the Supreme Court over its remarks during the hearing of Mahua Moitra's plea to join police interrogation via video conference.
 
 ## Airline technical defects hit five-year high in 2025: Govt data
 In a written reply, minister of state for civil aviation Murlidhar Mohol said 889 significant technical defects were reported during flight operations in 2025
-
-## India issues names for 27 Arunachal locations in response to China’s renaming moves
-India on Friday issued standard names for 27 places and geographical features in Arunachal Pradesh located along the Line of Actual Control (LAC)
-
-## Delhi high court stays FSSAI ban on Dabur selling food products with '100 per cent' claims
-The court issued notice to FSSAI on Dabur's petition challenging the prohibition and asked it to file its reply before the next date of hearing.
-
-## 'Fake News': MEA rejects report that India approached Israel for defence pact after Pak-Saudi-Turkey deal
-A Turkish media outlet, citing unnamed Pakistani sources, claimed India sought a defence pact with Israel to counter the Pakistan-Saudi Arabia-Turkey alliance
-
-## Can banks charge for UPI payments now? Here is what we know
-The Bill gives the government the power to permit charges on notified electronic payment systems, including UPI, if it decides to do so in the future.
-
-## Karnataka SIR: Draft electoral roll publication deferred to August 24
-The publication of Karnataka’s draft electoral roll under the Special Intensive Revision (SIR) has been deferred to August 24, and the final electoral roll will now be published on October 27
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
 A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
@@ -228,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Italy vows to maintain border checks despite Spain’s countermeasures threat
+Madrid warns of 'proportional measures' if Rome does not put an end to checks amid fallout from Ceuta migrant crisis.
+
 ## Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos
 Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.
 
@@ -248,9 +254,6 @@ Moscow's troops suffer high rate of losses as Zelenskyy renews air campaign agai
 
 ## Armenian Apostolic Church leader faces trial as feud with PM deepens
 Catholicos Karekin II and six other clerics are accused of failing to reinstate a bishop who was defrocked.
-
-## Saudi Arabia, Turkiye and Pakistan sign joint defence pact
-The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
