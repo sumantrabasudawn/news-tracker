@@ -1,64 +1,64 @@
 # AION Intelligence
 
+## US economy unexpectedly shed 23,000 jobs in July
+Lacklustre figure prompts traders to scale back bets on Fed rate rises
+
+## Will Farage’s gamble pay off?
+On the ground in Clacton; plus, what Badenoch’s backing for a former neo-Nazi says about her leadership style
+
+## UK housing market in ‘suspended animation’
+Lloyds’ data shows house prices were unchanged in July as higher mortgage rates stretch affordability
+
+## Iran’s oil exports stall and Kharg Island idles under US blockade
+US naval blockade appears to be halting tankers from carrying Tehran’s crude
+
+## UK manages record share of assets on behalf of overseas clients
+New data helps dispel worries over London’s status as a world-leading financial centre
+
+## Explosive drone at German airport raises ‘hybrid threat’ alarm
+Chancellor holds emergency national security meeting as investigators examine ‘concrete leads’ and possible Russian role
+
 ## Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca
 Three allies seek to deepen regional security co-operation to deal with wars and instability
 
 ## Exxon nears peak impunity on climate obligations
 Oil major’s move against the EU’s carbon storage rules is odd
 
-## Youngkin’s swing-state school campaign fuels White House speculation
-Billionaire mega-donor Thomas Peterffy backs former Republican governor of Virginia for presidential run in 2028
-
-## UK shares: hotter than below decks in a heatwave
-While away on holiday sweating, my FTSE 100 fund rose 4 per cent
+## Watchdog moves to stop Aldi and Lidl blocking rival UK store openings
+CMA proposes changes to clamp down on discounters’ use of anti-competitive property covenants
 
 ## FirstFT: All eyes on the US jobs market
 Also in today’s newsletter: Jane Street debt discussions and the latest cutting-edge Chinese AI model
 
-## The cockroach rebellion in India
-Can Gen Z’s protest movement shake Modi’s grip on power?
-
 ## Britain curbs power exports to Europe to preserve supplies
 Restrictions placed on interconnectors after power grid comes under pressure during heatwaves
-
-## Rare earth access: still a thing
-Alphaville 🤜 🤛 The Economics Show
-
-## CMA moves to stop Aldi and Lidl blocking rival UK store openings
-Competition watchdog proposes changes to clamp down on discounters’ use of anti-competitive property covenants
 
 ## MFS collapse prompts UK watchdog to crack down on financial crime
 FCA demanding more information around fraud risks from unregulated entities in wake of mortgage lender scandal
 
-## DR Congo launches probe into uranium-contaminated cobalt exports
-Government measures triggered by FT and Lighthouse Reports investigation
+## Broker’s Call: Aster DM Healthcare (Buy)
+Prabhudas Lilladhar
 
-## Dreadnought supplier Goodwin explores sale of defence business
-London-listed supplier to UK and US nuclear submarines has received bids from buyout firms
-
-## LIC shares close 1.66% higher as analysts upgrade targets after record VNB margin beat
-The stock reached an intraday high of ₹396.85 after the state-owned insurer reported improved Q1FY27 results on Thursday
-
-## Britannia shares close 1.96% higher after Q1 results; analysts mixed on margin miss
-The stock opened at ₹5,502.50 against the previous close of ₹5,404, with traded volume crossing 10.41 lakh shares by early afternoon.
-
-## RBI’s draft NBFC lending norms drag Sensex, Nifty despite strong Q1 earnings
-Financial stocks weakened after the RBI’s draft proposals, while robust corporate earnings and resilient broader markets limited the benchmark indices’ decline.
+## Monsoon poised for fresh surge, riding on twin low-pressure areas
+Though separated by thousands of kilometres, emerging Indian Ocean Dipole and a massive El Nino might be interacting through atmospheric teleconnections, reshaping rainfall patterns
 
 ## Q1 Results Today Live: SBI, Titan and Hindalco post Q1 profit growth, Ola Electric & BEML Q1 loss narrowed y-o-y, Hitachi Energy, PFC, Oil India, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
 Q1 Results Today, 07th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Godrej Consumer Products sees 19% jump in Q1 revenue
-The company’s board also declared an interim dividend of ₹5 per equity share for FY2026-27
+## Inox Wind Q1 PAT falls 34% on strategic shift, says benefits to reflect from Q3
+The company said operations remained resilient after its strategic pivot towards an equipment supply-led business model, the benefits of which are expected to start reflecting from third quarter onwards
 
-## India has over 86,000 PG medical seats; no proposal to convert all DNB diploma seats, says Centre
-The government outlined measures to expand postgraduate medical education while maintaining the existing framework for DNB diploma programmes nationwide.
+## Ola Electric narrows Q1 loss by 21% as deliveries surge and market share recovers
+Improving sales momentum, wider retail reach and fresh capital strengthened the EV maker’s growth outlook despite higher commodity and input costs
 
-## Ardee Industries IPO Day 3: Subscription hits 133x led by NIIs demand
-Robust institutional and retail participation reflected strong investor appetite, with proceeds earmarked for working capital, debt reduction and expansion
+## Woxsen University Marks National Handloom Day with Handloom Workshop, in Association with Weaver Service Centre, Hyderabad
+Woxsen University Marks National Handloom Day with Handloom Workshop, in Association with Weaver Service Centre, Hyderabad
 
-## India’s cultivable land declines, but gross area under crops increases
-The total cultivable land across the country stood at 179.43 million hectares, while the gross cropped area has expanded to 225.19 million hectares
+## Top five States account for 54% of Jan Dhan beneficiaries; SBI leads in accounts
+The latest data highlights regional concentration in banking access while showing improving account quality and stronger participation by public sector banks
+
+## Trent shares fall 3.5% despite Q1 beat as analysts diverge on growth outlook
+Sell orders outnumber buys by nearly two to one, with 66 per cent of order flow on the sell side
 
 ## Younger, wider, diverse: How India's investor base is changing
 India's investor community is witnessing remarkable transformation, with a younger demographic leading the growth. The median age of investors has notably declined, indicating an influx of fresh talent. Additionally, participation is extending beyond major metropolitan areas, while the growing numbe
@@ -84,29 +84,35 @@ In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI t
 ## ENIL EBITDA rises 42% in Q1, digital business grows
 
 
-## MEA's riposte to US lawmaker's foreign funding remarks: 'Our internal affairs'
-“I would also like to point out that there are several nations, including the US, which regulate the flow of foreign funds,” the MEA said.
+## Prashant Kishor meets Sunetra Pawar days after Bankipur bypoll win. Why? NCP reveals reason
+NCP spokesperson said Kishor, who is advising the party on organisational rebuilding, met Sunetra Pawar, her MP son Parth Pawar on Thursday
 
-## India reacts to Turkey-Pak-Saudi defence deal: 'Closely following the development'
+## Uttarakhand cabinet approves 38 hectares for new high court complex in Haldwani
+The Supreme Court directed the state government to transfer the identified land within six weeks while hearing a petition filed by the High Court Bar Association last month
+
+## National Handloom Day: Govt showcases India’s tribal textile heritage through RISA
+The event showcased several GI-tagged tribal textiles including Kotpad Cotton, Tussar Silk, Eri Silk, Muga Silk, Toda embroidery and Dongria embroidery.
+
+## 'Biggest joke I heard today': KC Venugopal reacts to Rijiju's 'Oppn won't be able to digest' Amit Shah remark
+Responding to allegations that Home Minister was not attending Parliament, Kiren Rijiju claimed that Amit Shah comes to the Parliament complex every day.
+
+## 23-year-old Kanwariya killed, 2 injured as motorcycle collides with bus in Haridwar
+A 23-year-old Kanwariya was killed and two others injured after their motorcycle collided with a UTC bus on the Haridwar-Najibabad highway in Uttarakhand.
+
+## POWERGRID posts Q1 PAT of ₹3,598 crore; secures Japan loan for Khavda-Nagpur project
+Power Grid Corporation of India Ltd. achieves remarkable financial growth with a Q1 PAT of ₹3,598 crore.
+
+## MEA's riposte to US lawmaker's foreign funding remarks: 'Our internal affairs'
+“I would also like to point out that there are several nations, including the US, which regulate the flow of foreign funds,” the MEA spokesperson said.
+
+## India reacts to Turkey-Pakistan-Saudi defence deal: 'Closely following the development'
 The development is significant for India as, according to Pakistan's foreign ministry, the agreement treats an attack on any one member as an attack on all
 
-## News, Space Rani, He Ram clear Chhattisgarh police exam, ignite political row
-The CGPSC insisted all the names on the list are genuine and matched the information candidates submitted in their application forms and documents
+## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
+A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
 
-## HAL Airport gets satellite-guided navigation system for choppers
-Called the Required Navigation Performance – Category H (RNP CAT H) helicopter approach procedure, it has been developed by the Airports Authority of India (AAI)
-
-## 'I wear this ink with pride': AISA's Neha Bora alleges 'RSS-BJP goons' attacked her, Jharkhand protesters
-The accused said he targeted Neha Bora over her support for former JNU scholar Umar Khalid.
-
-## Nagaur hotel operator shot as trader displayed pistol, dies in ambulance crash
-Police said the hotel operator was accidentally shot by a liquor trader in Nagaur and died when the ambulance taking him to Jodhpur met with an accident.
-
-## Tamil Nadu CM Vijay's wife Sangeetha withdraws divorce plea; case closed: Report
-In February 2026, Vijay's wife Sangeetha filed a divorce petition before the Chengalpattu court under the Special Marriage Act, 1954.
-
-## Supreme Court expands CBI probe into builder-bank subvention scam, brings ED into fold
-Supreme Court orders CBI to expand probe into subvention scheme scam sharing details of criminal cases with ED, emphasizing timely investigations.
+## Beijing says 20% offshore insurance tax not new – and does not target Hong Kong
+China’s State Taxation Administration (STA) on Friday clarified that the 20 per cent personal income tax imposed on gains from offshore insurance policies was not a new policy – and was not specifically targeting the Hong Kong insurance industry. The STA urged the market not to overreact to the poli
 
 ## As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?
 Hong Kong is stepping up its efforts to invest in a cluster of biotech companies, positioning itself as a linchpin in Beijing’s push to reach new levels of innovation and challenge the United States for dominance in the global pharmaceutical market. Hong Kong Investment Corporation (HKIC), which man
@@ -126,11 +132,8 @@ China’s central state-owned enterprises (SOEs) are consolidating scattered ove
 ## Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push
 Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion. Supporting the outlook, Beijing – which has added to its gold reserve for 20 straight mon
 
-## From Hong Kong’s bond futures to SpaceX: the numbers moving markets
-China’s push for treasury bond futures in Hong Kong has been well received, with brisk trading reflecting strong hedging demand. On the other side of the Pacific, Elon Musk’s aerospace company, SpaceX, has published its first-ever quarterly financial statement as a public entity, offering a glimpse 
-
-## Chinese luxury brands rise from challengers to market shapers as global houses lose lustre
-After months of declining gold prices, Li Yue recently spent nearly 28,000 yuan (US$4,148) on a 10-gram (0.35-ounce) pure gold necklace – more than double the prevailing market rate for the metal. The piece in question: a gourd-shaped pendant from Laopu Gold, a Chinese heritage jewellery brand that 
+## Latin America’s Second Pink Tide Recedes
+The latest leftward shift was shorter-lived and less accomplished than its predecessor.
 
 ## Is Iran Winning the Battle Over the Strait of Hormuz?
 Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.
@@ -152,9 +155,6 @@ Rural neglect has produced a continual security crisis.
 
 ## Russia and Ukraine Are Mutually Shutting Down the Black Sea
 Strikes on ports and ships could portend another global food shortage.
-
-## Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
-Experts say political uncertainty makes the Trump-backed plan untenable, for now.
 
 ## How the World Learned to Live with the Exclusion of Afghan Women
 The world has to do more than admire Afghan women’s resilience. It must stand with them by taking concrete actions.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Saudi Arabia, Turkiye and Pakistan sign joint defence pact
+The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.
+
+## UN chief condemns both Ukraine and Russia amid escalation in war
+UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine attacks intensify.
+
+## Iran’s grip on trade is a potent weapon, but it has an expiry date
+Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage
+
+## Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know
+How does FIFA presidency stand? Norway wants resignation, but Argentina and Mexico join Africa in Gianni Infantino camp.
+
+## First school for robots opens in China
+"Our main goal is to empower robots' brains." China has launched its first robot school.
+
+## Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure
+Sheikh ⁠Hasina ally Shakib Al Hasan will face Bangladesh trial if safety assured, with Cricket World Cup return eyed.
+
+## Northern Ethiopia’s shifting alliances explained
+The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.
+
 ## Trump says war ‘can’t go much longer’ – what’s the latest on talks?
 Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.
-
-## Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing
-Houthis' expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.
-
-## Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil
-The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all, Pakistan says.
-
-## Why Trump is caught in an ‘escalation trap’ with Iran
-University of Chicago Professor Robert Pape explains why US President Trump is caught in an ‘escalation trap’ with Iran.
-
-## Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know
-Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.
-
-## Central Europe sees record temperatures as heatwave continues
-Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
-
-## Saudi Pro League’s England international Toney charged with assault
-Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.
-
-## ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
-The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
