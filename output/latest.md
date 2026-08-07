@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## FirstFT: All eyes on the US jobs market
+Also in today’s newsletter: Jane Street debt discussions and the latest cutting-edge Chinese AI model
+
+## The cockroach rebellion in India
+Can Gen Z’s protest movement shake Modi’s grip on power?
+
+## Britain curbs power exports to Europe to preserve supplies
+Restrictions placed on interconnectors after power grid comes under pressure during heatwaves
+
+## Rare earth access: still a thing
+Alphaville 🤜 🤛 The Economics Show
+
 ## The Manchester roots of Andy Burnham’s skills revolution
 An early political dividing line on technical education risks obscuring the case for which he has long argued
 
@@ -12,17 +24,11 @@ Take part in a live Ask an Expert Q&A with business columnist Pilita Clark and c
 ## Tories vow to ban foreign nationals from accessing UK social housing
 Party leader Kemi Badenoch pledges to implement policy if she forms next government as she tries to outflank Reform
 
-## US euro sale to prop up yen blindsided ECB
-Christine Lagarde and Scott Bessent spoke only after Washington’s historic intervention
+## MFS collapse prompts UK watchdog to crack down on financial crime
+FCA demanding more information around fraud risks from unregulated entities in wake of mortgage lender scandal
 
-## After the great deleveraging
-Plus, was that . . . forward guidance?
-
-## The curious case of the Japanese government bond yields
-Maybe not as high as you think
-
-## FirstFT: Google shakes up AI leadership
-Also in today’s newsletter: ECB yen shock and UK tuition fees
+## CMA moves to stop Aldi and Lidl blocking rival UK store openings
+Competition watchdog proposes changes to clamp down on discounters’ use of anti-competitive property covenants
 
 ## Dreadnought supplier Goodwin explores sale of defence business
 London-listed supplier to UK and US nuclear submarines has received bids from buyout firms
@@ -33,41 +39,35 @@ Mike Cannon-Brookes’ move comes as shares in Australian software company soar 
 ## ByteDance targets mega AI model nearing Anthropic’s Mythos
 TikTok owner training a model three times larger than Moonshot’s Kimi K3
 
-## Revisiting our estimates for Japan’s neutral rate
-Research suggests the rate has moved up slightly in the past few years
-
-## Big Law’s new private equity era
-Top law firms are exploring ways they may be able to take outside capital
-
-## Britain’s incoming CEOs enjoy the ‘new boss bounce’
-Clutch of newly-minted chief executives tasked with reviving FTSE 100 stalwarts are winning shareholder approval
-
-## Refining crunch keeps fuel prices high as crude retreats
-Lost capacity in Russia and the Gulf is a boon to US refiners but a political problem for Donald Trump
-
-## US Ambassador Sergio Gor meets key industry leaders to advance US-India collaborations
-Ambassador Gor’s talks with industry leaders emphasise collaboration in advanced manufacturing and critical minerals, aiming to strengthen strategic partnerships and drive sustainable innovation
-
-## Premier Energies Q1 profit jumps 53% to ₹472 crore
-Premier Energies’ first quarter profit for FY27, jumps over 53% to ₹472 crore; the company had reported a net profit of ₹307.8 crore in the first quarter of preceding 2025-26 fiscal
-
-## Q1 Results Today Live: Hindalco Q1 PAT zooms, SBI profit rises 10.2%, BEML loss narrows in Q1, Titan, Hitachi Energy, PFC, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
+## Q1 Results Today Live: SBI, Titan and Hindalco post Q1 profit growth, BEML loss narrows, Hitachi Energy, PFC, Oil India, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
 Q1 Results Today, 07th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Lupin Q1 PAT rises 16% at ₹1,417 cr
-Consolidated total revenue from operations in the first quarter was at ₹8,276.89 crore, as against ₹6,268.34 crore in the year-ago period
+## Sensex today | Stock Market Live: Sensex falls 456 points, Nifty slips as banking stocks drag markets lower
+Sensex, Nifty, Share Prices Live: Indian equities snapped a two-day winning streak on Friday as heavy selling in banking and financial stocks, elevated crude oil prices and lingering geopolitical uncertainties outweighed positive corporate earnings, pushing benchmark indices lower despite gains in s
 
-## Andhra to procure 1,600 MW thermal power through competitive bidding
-The bidding process will be conducted on the basis of the standard Request for Qualification (RfQ), Request for Proposal (RfP) and Power Supply Agreement (PSA) documents notified by the Union Ministry of Power
+## Tamil Nadu CM C Joseph Vijay’s wife Sangeetha withdraws divorce plea
+The family court closed the proceedings after the petitioner informed it she would no longer pursue the matrimonial case.
 
-## Crop loss due to rain nears ₹100 crore; Kerala seeks ₹110 crore central aid
-Agriculture Minister T Siddique said soil testing facilities would be established across flood-affected areas in the state to assess nutrient depletion
+## New Tax Bill positive for REITs, InvITs: Share India Institutional Business
+The report said one of the biggest changes is that dividends paid by Special Purpose Vehicles (SPVs) to REIT and InvIT investors will now be tax-free, regardless of whether the SPV follows the old or the new tax regime
 
-## FSSAI won't ease 'energy drink' label deadline, unnerving companies, sources say
-ndia's energy drinks retail sales are growing 12.6% annually, faster than in the ⁠United States and China
+## AIBOA urges President to halt IDBI Bank divestment, cites breach of assurance
+Officers’ body sought intervention of President as ‘Custodian’ of public sector financial institutions and public sector undertakings, to safeguard institutions created and nurtured in public interest
 
-## Gold futures rise to Rs 1.50 lakh/10 gm on spot demand
-Gold prices on Friday rose by 0.85% per 10 grams in futures trade as speculators created fresh positions on a firm spot demand
+## India records highest monthly EV sales in July 2026, up 66% y-o-y: FADA
+Electric vehicles accounted for nearly one in every eight vehicles sold in the country during the month, FADA says
+
+## Ardee Industries IPO Day 3: Subscription hits 98x, NII booked 233x
+Robust institutional and retail participation reflected strong investor appetite, with proceeds earmarked for working capital, debt reduction and expansion
+
+## SBI Q1 net profit rises 10% to ₹21,121 crore on strong NII, lower NPA provisions
+Net interest income rose 15% to ₹46,992 crore, up from ₹40,907 crore a year ago
+
+## Younger, wider, diverse: How India's investor base is changing
+India's investor community is witnessing remarkable transformation, with a younger demographic leading the growth. The median age of investors has notably declined, indicating an influx of fresh talent. Additionally, participation is extending beyond major metropolitan areas, while the growing numbe
+
+## Why stock market's close is now an auction - explained
+For over three decades, the closing price was the volume-weighted average (VWAP) of all trades between 3:00 pm and 3:30 pm. Nobody actually traded at that price. It was a calculation, not a transaction. For long-term investors, nothing changes. For index funds and traders, the closing routine is now
 
 ## Gold price prediction: Buy on dips the right strategy for gold right now? Check August 7, 2026 outlook
 MCX Gold October futures continue to trade with a positive bias as prices remain well supported above key moving averages despite witnessing intermittent profit booking. The overall trend remains constructive, with higher highs and higher lows indicating sustained buying interest.
@@ -87,35 +87,35 @@ In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI t
 ## ENIL EBITDA rises 42% in Q1, digital business grows
 
 
-## India may see productivity gains from AI, says Nilekani
+## Nagaur hotel operator shot as trader displayed pistol, dies in ambulance crash
+Police said the hotel operator was accidentally shot by a liquor trader in Nagaur and died when the ambulance taking him to Jodhpur met with an accident.
 
+## Tamil Nadu CM Vijay's wife Sangeetha withdraws divorce plea filed in local court: Report
+Tamil Nadu CM Vijay's wife Sangeetha withdraws divorce plea filed in local court
 
-## Options volumes down over 50% on stricter rules: Sebi
+## Supreme Court expands CBI probe into builder-bank subvention scam, brings ED into fold
+Supreme Court orders CBI to expand probe into subvention scheme scam sharing details of criminal cases with ED, emphasizing timely investigations.
 
+## Aravali hills conservation is a shared responsibility: Haryana CM Nayab Singh Saini
+The state has set a target of planting 1.40 crore saplings during the current financial year under Prime Minister Narendra Modi’s ‘Ek Ped Maa Ke Naam’ campaign
 
-## Massive sinkhole in Ludhiana triggers house evacuation, traffic chaos | Watch
-A massive sinkhole, several feet deep, appeared on a road, prompting local administration to immediately evacuatethe adjacent house and halt traffic.
+## AIMIM corporator held for sheltering accused in Nashik religious coercion case
+All India Majlis-e-Ittehadul Muslimeen (AIMIM) corporator Mateen Patel was sent to judicial custody until August 11 for sheltering Nida Khan
 
-## Defence ministry issues Independence Day invites with Vande Mataram lyrics
-The 77th Republic Day celebrations were organised around the theme of Vande Mataram, marking 150 years of the song
+## 'Why should a city be put to ransom unnecessarily': Delhi HC questions Jantar Mantar as protest site
+Justice Mahajan questioned Additional Solicitor General Chetan Sharma on why the government continued to allow Jantar Mantar to function as a protest site
 
-## Tamil Nadu CM Vijay urges PM Modi to implement project linking 3 major rivers
-The chief minister suggested consider establishing a dedicated special purpose vehicle (SPV) for a coordinated and time-bound execution.
+## No threats, abuses or social media harassment: RBI's new loan recovery rules to bring relief for borrowers
+The new loan recovery regulations issued by RBI will come into effect from January 1, 2027.
 
-## Banbasa station in Uttarakhand to get Achhnera-Tanakpur Express halt after rail ministry nod
-The Union Railways Ministry has approved a regular halt for the Achhnera-Tanakpur Express at Banbasa station in Uttarakhand, enhancing connectivity.
+## How India's law on retrospective environmental clearances evolved — and where it stands now
+A 1994 notification, a 2006 rewrite, three circulars, precedents, and a July 2026 verdict — how the rules on post-facto environmental clearance took shape.
 
-## Karnataka legislative council chairman Basavaraj Horatti resigns, says 'don't know why Congress asked me to leave'
-Speaking to reporters, the leader said he does not know why Congress asked him to tender his resignation
+## As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?
+Hong Kong is stepping up its efforts to invest in a cluster of biotech companies, positioning itself as a linchpin in Beijing’s push to reach new levels of innovation and challenge the United States for dominance in the global pharmaceutical market. Hong Kong Investment Corporation (HKIC), which man
 
-## 3 NTA experts named in CBI's NEET paper leak probe chargesheet, may face life term if proven guilty
-The chargesheet names Manisha Gurunath Mandhare, Prahalad Kulkarni and Manisha Sanjay Havaldar.
-
-## ‘Good to see our concerns being heard’: Students respond to Mohan Bhagwat’s Gen Z outreach
-While a section has welcomed Mohan Bhagwat's backing of youngsters, others feel there are issues that still need clear answers.
-
-## WhatsApp groups, photographs, Telegram: The digital trail that led to NEET UG paper leak
-Before reaching candidates, the confidential material went through subject experts, private brokers and operators, according to the probe by CBI.
+## Hong Kong’s Hang Lung Properties names former Starbucks China head Leo Tsoi as new CEO
+Hong Kong developer Hang Lung Properties has tapped Leo Tsoi Tak-lun, CEO of Toys ‘R’ Us Asia and former head of Starbucks China, as its new CEO and executive director. Tsoi will join Hang Lung Group and Hang Lung Properties on September 7 as CEO-designate and executive director ahead of formally as
 
 ## Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?
 The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh calls for review, after a local financial industry body urged greater use of the yuan and floated the idea of shifting to a basket of major currencies and gold – though financial analysts argue the current system is likely t
@@ -124,7 +124,7 @@ The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh ca
 The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil prices ease fears of monetary tightening. The tech-heavy Star Market 50 Index, whi
 
 ## Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs
-China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as the preferred base amid a broader crackdown on outflows of state cash. Decades of overseas expansion had seen many SOEs build up assets in multiple juri
+China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as their preferred base amid a broader crackdown on outflows of state cash. Decades of overseas expansion had seen many SOEs build up assets in multiple ju
 
 ## Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push
 Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion. Supporting the outlook, Beijing – which has added to its gold reserve for 20 straight mon
@@ -134,12 +134,6 @@ China’s push for treasury bond futures in Hong Kong has been well received, wi
 
 ## Chinese luxury brands rise from challengers to market shapers as global houses lose lustre
 After months of declining gold prices, Li Yue recently spent nearly 28,000 yuan (US$4,148) on a 10-gram (0.35-ounce) pure gold necklace – more than double the prevailing market rate for the metal. The piece in question: a gourd-shaped pendant from Laopu Gold, a Chinese heritage jewellery brand that 
-
-## Swire Pacific posts record first-half profit as investment surges to fresh high
-Swire Pacific – whose high-profile assets include Hong Kong’s flag carrier Cathay Pacific Airways, Swire Properties and Swire Coca-Cola – logged a record first-half profit during the first six months of the year, with the company’s investment also hitting a new high. The Hong Kong-based conglomerate
-
-## Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch
-Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year. Up to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed ann
 
 ## Is Iran Winning the Battle Over the Strait of Hormuz?
 Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.
@@ -165,6 +159,18 @@ Strikes on ports and ships could portend another global food shortage.
 ## Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
 Experts say political uncertainty makes the Trump-backed plan untenable, for now.
 
+## How the World Learned to Live with the Exclusion of Afghan Women
+The world has to do more than admire Afghan women’s resilience. It must stand with them by taking concrete actions.
+
+## Where is Myanmar’s Aung San Suu Kyi?
+Sean Turnell, an economist and former advisor to the ousted leader, returns to Beyond The Mekong to discuss recent events in Myanmar.
+
+## Vietnam’s Top Leader To Lam to Pay State Visits to Australia and New Zealand
+The visits are likely to build on the momentum created by the Comprehensive Strategic Partnerships signed recently with both countries.
+
+## Japan’s Billions Are the Wildcard in Southeast Asia’s Aid Race
+Few development actors in the region can currently match Tokyo’s combination of credibility and quality.
+
 ## Was Tarique Rahman’s Youth Outreach More Than an Election Strategy?
 The BNP’s credibility with Bangladesh’s youth will ultimately depend not on whether the government can deliver jobs, fair recruitment, and meaningful participation in state-building.
 
@@ -176,18 +182,6 @@ To be rightfully concerned about the present is not an excuse to distort the pas
 
 ## Bangladesh-India Relations Hit Fresh Turbulence
 Bangladesh expressed “outrage” even as India said it had nothing to do with Sheikh Hasina’s online media engagement at the Awami League presser in New Delhi.
-
-## Clashes Erupt at Susta Along India-Nepal Border
-India and Nepal have settled almost 98 percent of their border. Differences over Kalapani and Susta have proven difficult to resolve.
-
-## China’s ‘Ethnic Unity’ Law is Already Harming Uyghurs
-Government actions that could once be described as regional campaigns are now embedded in national legislation. Restrictions will become easier to expand and harder to challenge.
-
-## Balochistan Is Now Pakistan’s Most Dangerous Province
-July was Balochistan’s most violent month this year. It also overtook Khyber Pakhtunkhwa to emerge as Pakistan’s most volatile province.
-
-## Delhi’s EV Policy Changes the Engine, Not the System
-Electric vehicles can reduce pollution and emissions. But underlying issues of preserving car dependence, displacing environmental harm, and workers bearing the costs of a clean future need to be addressed.
 
 ## Warlords of Greece: Warfare in Homer’s World
 The Iliad and Odyssey have shaped Western ideas of heroism for nearly three millennia. Yet despite centuries of debate over whether they reflect historical reality or poetic fantasy, the Homeric world remains an internally consistent universe worth studying on its own terms. This isn’t about separat
@@ -237,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Central Europe sees record temperatures as heatwave continues
+Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
+
+## Saudi Pro League’s England international Toney charged with assault
+Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.
+
+## ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
+The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.
+
+## Several killed after student opens fire inside Thailand school
+At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.
+
 ## The other classroom: Returning to sacred knowledge
 Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.
 
@@ -248,18 +254,6 @@ A viral video shows medical staff protecting a patient as an earthquake struck J
 
 ## ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
 Jaswant Singh Khalra's daughter Navkiran reflects on slain father's life and legacy, which also inspired a recent film.
-
-## Bodies of climbers killed in avalanche retrieved from Broad Peak
-A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.
-
-## Mexico deploys troops to secure avocado region after US halts imports
-Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.
-
-## Record-high heat soars through South Korea
-A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.
-
-## Turkiye’s Erdogan visits Saudi Arabia: What to expect
-Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
