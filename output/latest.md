@@ -117,7 +117,7 @@ The Congress leader said the party would take up the issue aggressively and clai
 ## BJP MP to propose bills seeking age checks for children, curbs on AI deepfakes
 The proposed Bills seek parental consent for children under 13 on social media and penalties for misuse of AI-generated deepfakes.
 
-## Meet the next generation of Chinese stars influencing how global finance operates
+## Meet the Next Generation of Chinese Stars Influencing How Global Finance Operates
 A new generation of Chinese stars is influencing how global finance operates – applying analytical power, cross-cultural agility, and resilience developed in China’s demanding environments straight to leading firms from Citadel Securities to BlackRock. That shift is easier to grasp by looking beyond
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
@@ -237,6 +237,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Democrats gain momentum in pivotal US Senate and governor’s races in Texas
+James Talarico leads Ken Paxton in the Texas Senate race, signalling a potential shift in the Republican stronghold.
+
 ## US appeals court halts White House ballroom construction
 A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.
 
@@ -257,9 +260,6 @@ The two-judge majority underscored that the president needed congressional autho
 
 ## Contaminated water putting Gaza families at risk
 Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.
-
-## DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
-ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
