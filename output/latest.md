@@ -1,7 +1,13 @@
 # AION Intelligence
 
-## US economy unexpectedly shed 23,000 jobs in July
+## US economy unexpectedly sheds 23,000 jobs in July
 Lacklustre figure prompts traders to scale back bets on Fed rate rises
+
+## Mixed July payrolls report takes pressure off the Fed to tighten
+Weak figures give some cover to central bank’s July decision to hold rates
+
+## The meaning of Michigan
+What conclusions should Democrats draw from Abdul El-Sayed’s narrow win in the state’s Senate primary?
 
 ## Will Farage’s gamble pay off?
 On the ground in Clacton; plus, what Badenoch’s backing for a former neo-Nazi says about her leadership style
@@ -18,8 +24,8 @@ New data helps dispel worries over London’s status as a world-leading financia
 ## Explosive drone at German airport raises ‘hybrid threat’ alarm
 Chancellor holds emergency national security meeting as investigators examine ‘concrete leads’ and possible Russian role
 
-## Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca
-Three allies seek to deepen regional security co-operation to deal with wars and instability
+## Premium seats, more charges: Apollo’s upmarket plans for easyJet
+Airline will offer extra services and feed long-haul carriers under proposals
 
 ## Exxon nears peak impunity on climate obligations
 Oil major’s move against the EU’s carbon storage rules is odd
@@ -30,35 +36,32 @@ CMA proposes changes to clamp down on discounters’ use of anti-competitive pro
 ## FirstFT: All eyes on the US jobs market
 Also in today’s newsletter: Jane Street debt discussions and the latest cutting-edge Chinese AI model
 
-## Britain curbs power exports to Europe to preserve supplies
-Restrictions placed on interconnectors after power grid comes under pressure during heatwaves
-
-## MFS collapse prompts UK watchdog to crack down on financial crime
-FCA demanding more information around fraud risks from unregulated entities in wake of mortgage lender scandal
-
-## Broker’s Call: Aster DM Healthcare (Buy)
-Prabhudas Lilladhar
-
-## Monsoon poised for fresh surge, riding on twin low-pressure areas
-Though separated by thousands of kilometres, emerging Indian Ocean Dipole and a massive El Nino might be interacting through atmospheric teleconnections, reshaping rainfall patterns
-
-## Q1 Results Today Live: SBI, Titan and Hindalco post Q1 profit growth, Ola Electric & BEML Q1 loss narrowed y-o-y, Hitachi Energy, PFC, Oil India, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
-Q1 Results Today, 07th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
-
-## Inox Wind Q1 PAT falls 34% on strategic shift, says benefits to reflect from Q3
-The company said operations remained resilient after its strategic pivot towards an equipment supply-led business model, the benefits of which are expected to start reflecting from third quarter onwards
-
-## Ola Electric narrows Q1 loss by 21% as deliveries surge and market share recovers
+## Ola Electric narrows Q1 loss 21%; revenues fall 45% even as volumes recover
 Improving sales momentum, wider retail reach and fresh capital strengthened the EV maker’s growth outlook despite higher commodity and input costs
 
-## Woxsen University Marks National Handloom Day with Handloom Workshop, in Association with Weaver Service Centre, Hyderabad
-Woxsen University Marks National Handloom Day with Handloom Workshop, in Association with Weaver Service Centre, Hyderabad
+## Lok Sabha approves MSME Bill to speed up payments, improve ease of business
+The Lok Sabha passed the legislation without a debate amid continued protests by Opposition members over various issues
 
-## Top five States account for 54% of Jan Dhan beneficiaries; SBI leads in accounts
-The latest data highlights regional concentration in banking access while showing improving account quality and stronger participation by public sector banks
+## NEET protests: SC says SIT may be set up to probe police excesses
+A probe is also required to ascertain the attacks on 250 policemen and whether they were by students or some "miscreants", the court said.
 
-## Trent shares fall 3.5% despite Q1 beat as analysts diverge on growth outlook
-Sell orders outnumber buys by nearly two to one, with 66 per cent of order flow on the sell side
+## Saudi Aramco considers new crude pricing for Asia as shipping costs rise
+Rising freight expenses from longer export routes are prompting the world’s biggest oil exporter to reassess how additional logistics costs are shared with Asian crude buyers
+
+## Keralam deploys ANNAM.AI smart weather stations for climate-smart farming
+The initiative is aimed at improving farmers’ access to reliable weather information, enabling better planning, reducing input costs and promoting informed farming practices
+
+## Transparency boost: Candidates can now see answer sheets of MP civil service main exams
+The exercise will begin with the answer sheets of the state service main examination 2019, and the inspection process for them will commence in November, according to an official release issued on Monday.
+
+## India's IPO market to stay resilient with over 70 firms awaiting SEBI clearance: Report
+Mainboard issuance hit a three-year high in both deal count and capital mobilised, driven by large-cap supply as corporates utilised favourable market windows during FY26
+
+## IT ministry summons Meta after PM Modi's post removed; co admits error, says content restored
+According to sources, the global head of public policy of Meta (Facebook and Instagram) has been summoned by the IT ministry over the issue
+
+## Will you have to pay to use UPI? 7 FAQs on possible MDR and what it means for consumers answered
+The government is expected to permit a Merchant Discount Rate (MDR) of between 0.25% and 0.4% on UPI transactions above Rs 2,000 made to businesses, while person-to-person payments are likely to remain outside the scope of the proposed levy. The proposal is not expected to affect routine purchases s
 
 ## Younger, wider, diverse: How India's investor base is changing
 India's investor community is witnessing remarkable transformation, with a younger demographic leading the growth. The median age of investors has notably declined, indicating an influx of fresh talent. Additionally, participation is extending beyond major metropolitan areas, while the growing numbe
@@ -81,32 +84,29 @@ In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI t
 ## Bankers unaware, government timed LIC stake sale to max receipts
 
 
-## ENIL EBITDA rises 42% in Q1, digital business grows
+## NGT seeks report over alleged sewage discharge into Bhagirathi river in Uttarakhand
+NGT passed the order while hearing a petition filed by a Teerth Purohit of Badrinath over alleged discharge of sewage into Bhagirathi at Devprayag.
 
+## India again distances itself from Sheikh Hasina’s remarks on Bangladesh
+MEA said India had no role in Sheikh Hasina’s New Delhi news conference and did not endorse remarks targeting Bangladesh’s government.
 
-## Prashant Kishor meets Sunetra Pawar days after Bankipur bypoll win. Why? NCP reveals reason
-NCP spokesperson said Kishor, who is advising the party on organisational rebuilding, met Sunetra Pawar, her MP son Parth Pawar on Thursday
+## India again distances itself from Sheikh Hasina’s remarks
+MEA said India had no role in Sheikh Hasina’s New Delhi news conference and did not endorse remarks targeting Bangladesh’s government.
 
-## Uttarakhand cabinet approves 38 hectares for new high court complex in Haldwani
-The Supreme Court directed the state government to transfer the identified land within six weeks while hearing a petition filed by the High Court Bar Association last month
+## Pakistan says ‘India infection’ after Sheikh Hasina’s US-based son alleges ISI influence in Bangladesh
+Pakistan’s swipe at Sajeeb Wazed Joy over ISI allegations seemingly backfired as the spokesperson incorrectly said he lived in India.
 
-## National Handloom Day: Govt showcases India’s tribal textile heritage through RISA
-The event showcased several GI-tagged tribal textiles including Kotpad Cotton, Tussar Silk, Eri Silk, Muga Silk, Toda embroidery and Dongria embroidery.
+## 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest site
+The CJP last month had spearheaded the students’ agitation at Jantar Mantar against the NEET-UG paper leak.
 
-## 'Biggest joke I heard today': KC Venugopal reacts to Rijiju's 'Oppn won't be able to digest' Amit Shah remark
-Responding to allegations that Home Minister was not attending Parliament, Kiren Rijiju claimed that Amit Shah comes to the Parliament complex every day.
+## India pushes back against US criticism of proposed FCRA changes
+India said proposed FCRA amendments are an internal legislative matter after US lawmakers criticised changes over concerns about foreign funding rules.
 
-## 23-year-old Kanwariya killed, 2 injured as motorcycle collides with bus in Haridwar
-A 23-year-old Kanwariya was killed and two others injured after their motorcycle collided with a UTC bus on the Haridwar-Najibabad highway in Uttarakhand.
+## Non-stop rain brings Delhi-NCR to its knees; IMD predicts thunderstorms, more showers in next 2 hours
+Heavy rainfall was recorded across the Delhi-NCR region, with some weather stations crossing the 100 mm rainfall mark.
 
-## POWERGRID posts Q1 PAT of ₹3,598 crore; secures Japan loan for Khavda-Nagpur project
-Power Grid Corporation of India Ltd. achieves remarkable financial growth with a Q1 PAT of ₹3,598 crore.
-
-## MEA's riposte to US lawmaker's foreign funding remarks: 'Our internal affairs'
-“I would also like to point out that there are several nations, including the US, which regulate the flow of foreign funds,” the MEA spokesperson said.
-
-## India reacts to Turkey-Pakistan-Saudi defence deal: 'Closely following the development'
-The development is significant for India as, according to Pakistan's foreign ministry, the agreement treats an attack on any one member as an attack on all
+## Gurugram: Two workers killed as dilapidated school wall collapses in DLF Phase-II
+Police officer said that both were working at the site to replace several old plants with new one when the wall collapsed on them.
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
 A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Diego Maradona bloated, bedridden and resigned before death, says masseur
+Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.
+
+## Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?
+Pact will 'reshape security architecture' of the region, experts say.
+
+## Russia drops record number of glide bombs on Ukraine as casualties pile up
+Moscow's troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.
+
+## Armenian Apostolic Church leader faces trial as feud with PM deepens
+Catholicos Karekin II and six other clerics are accused of failing to reinstate a bishop who was defrocked.
+
 ## Saudi Arabia, Turkiye and Pakistan sign joint defence pact
 The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.
 
@@ -239,18 +251,6 @@ Iran can exploit dependence on Hormuz today, but prolonged disruption will erode
 
 ## Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know
 How does FIFA presidency stand? Norway wants resignation, but Argentina and Mexico join Africa in Gianni Infantino camp.
-
-## First school for robots opens in China
-"Our main goal is to empower robots' brains." China has launched its first robot school.
-
-## Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure
-Sheikh ⁠Hasina ally Shakib Al Hasan will face Bangladesh trial if safety assured, with Cricket World Cup return eyed.
-
-## Northern Ethiopia’s shifting alliances explained
-The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.
-
-## Trump says war ‘can’t go much longer’ – what’s the latest on talks?
-Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
