@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Trump revives threat to sack Fed governor Lisa Cook
+Move comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved
+
+## Burnham’s UK tour to focus on cutting cost of living and helping high streets
+Prime Minister returns from holiday next week with plans to visit every region
+
+## Passing the Clarity Act on digital assets is a matter of national security
+If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues
+
 ## US economy unexpectedly sheds 23,000 jobs in July
 Lacklustre figure prompts traders to scale back bets on Fed rate rises
 
@@ -15,20 +24,20 @@ What conclusions should Democrats draw from Abdul El-Sayed’s narrow win in the
 ## Will Farage’s gamble pay off?
 On the ground in Clacton; plus, what Badenoch’s backing for a former neo-Nazi says about her leadership style
 
+## Taming AI’s wild frontier
+The most advanced systems are evolving faster than efforts to keep them safe
+
 ## UK housing market in ‘suspended animation’
 Lloyds’ data shows house prices were unchanged in July as higher mortgage rates stretch affordability
 
 ## Iran’s oil exports stall and Kharg Island idles under US blockade
 Naval interdiction appears to be halting tankers from carrying Tehran’s crude
 
-## UK manages record share of assets on behalf of overseas clients
-New data helps dispel worries over London’s status as a world-leading financial centre
-
-## Taming AI’s wild frontier
-The most advanced systems are evolving faster than efforts to keep them safe
-
 ## Premium seats, more charges: Apollo’s upmarket plans for easyJet
 Airline will offer extra services and feed long-haul carriers under proposals
+
+## UK manages record share of assets on behalf of overseas clients
+New data helps dispel worries over London’s status as a world-leading financial centre
 
 ## Explosive drone at German airport raises ‘hybrid threat’ alarm
 Chancellor holds emergency national security meeting as investigators examine ‘concrete leads’ and possible Russian role
@@ -87,6 +96,9 @@ India's investor community is witnessing remarkable transformation, with a young
 ## Why stock market's close is now an auction - explained
 For over three decades, the closing price was the volume-weighted average (VWAP) of all trades between 3:00 pm and 3:30 pm. Nobody actually traded at that price. It was a calculation, not a transaction. For long-term investors, nothing changes. For index funds and traders, the closing routine is now
 
+## Punjab Assembly: AAP MLA questions minister over non-bidding of panchayat land
+Punjab Assembly: AAP MLA questions minister over non-bidding of panchayat land
+
 ## US supplies about 67% of India's LPG imports, reducing Gulf reliance: Hardeep Puri
 Hardeep Puri noted that India is now the world's third-largest energy consumer and importer, and the fourth-largest refiner
 
@@ -107,9 +119,6 @@ The Congress leader said the party would take up the issue aggressively and clai
 
 ## BJP MP to propose bills seeking age checks for children, curbs on AI deepfakes
 The proposed Bills seek parental consent for children under 13 on social media and penalties for misuse of AI-generated deepfakes.
-
-## 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir, Prashant Kishor's victory
-Tharoor said the growing engagement of Gen Z and Gen Alpha with political issues reflected a changing landscape that parties could not ignore.
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
 A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
@@ -135,6 +144,15 @@ China’s central state-owned enterprises (SOEs) are consolidating scattered ove
 ## Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push
 Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion. Supporting the outlook, Beijing – which has added to its gold reserve for 20 straight mon
 
+## The Straits Are Not OK
+After Hormuz, global waterways will return to being sites of bloody contention.
+
+## There’s No Going Back
+Thomas Wright on the post-Cold War order.
+
+## An ‘Odyssey,’ From a Dog’s Perspective
+Plus, a satire about a Nigerian on holiday, and more international fiction in August.
+
 ## Latin America’s Second Pink Tide Recedes
 The latest leftward shift was shorter-lived and less accomplished than its predecessor.
 
@@ -149,15 +167,6 @@ Washington isn’t sure how to counter Chinese technological advancements.
 
 ## Why Israel’s Upcoming Election Might Be Its Most Pivotal
 Benjamin Netanyahu’s reelection as prime minister would hasten the illiberal drift.
-
-## Selling Trust From Orbit
-Satellite images are plentiful, affordable, and easy to fake. Providers will benefit from curbing their misuse.
-
-## Colombia’s Road to Peace Runs Through the Countryside
-Rural neglect has produced a continual security crisis.
-
-## Russia and Ukraine Are Mutually Shutting Down the Black Sea
-Strikes on ports and ships could portend another global food shortage.
 
 ## India’s Climate Stress and the Solar Power Paradox
 Rising demand will keep coal the backbone of India’s power grid in the coming years. This buys time for executing an energy transition, if India can see through its plans.
@@ -231,6 +240,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
+Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.
+
+## Inside the results: How redistricting shaped Tennessee’s primary election
+Tennessee's party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.
+
 ## New Delhi on red alert as heavy rains pound the city
 Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.
 
@@ -248,12 +263,6 @@ US labour market loses 23,000 jobs in July as education, government and retail s
 
 ## Saudi Arabia, Pakistan, Turkiye defence pact challenges US role
 Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment
-
-## Italy vows to maintain border checks despite Spain’s countermeasures threat
-Madrid warns of 'proportional measures' if Rome does not put an end to checks amid fallout from Ceuta migrant crisis.
-
-## Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos
-Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
