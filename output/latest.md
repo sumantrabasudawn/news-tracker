@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## US euro sale to prop up yen blindsided ECB
+Christine Lagarde and Scott Bessent spoke only after Washington’s historic intervention
+
 ## After the great deleveraging
 Plus, was that . . . forward guidance?
 
@@ -21,8 +24,8 @@ Reform UK leader forecast to comfortably win by-election in Essex seat even as n
 ## Britain’s incoming CEOs enjoy the ‘new boss bounce’
 Clutch of newly-minted chief executives tasked with reviving FTSE 100 stalwarts are winning shareholder approval
 
-## ‘It’s now or never.’ Is the EU serious about letting in new members?
-Candidate countries hope for progress after years of inaction, but some in Brussels are still uncertain about enlargement
+## Atlassian shakes off ‘SaaSpocalypse’ as chief vows to spend $250mn buying shares
+Mike Cannon-Brookes’ move comes as shares in Australian software company soar on strong quarterly sales
 
 ## ByteDance targets mega AI model nearing Anthropic’s Mythos
 TikTok owner training a model three times larger than Moonshot’s Kimi K3
@@ -30,35 +33,35 @@ TikTok owner training a model three times larger than Moonshot’s Kimi K3
 ## Refining crunch keeps fuel prices high as crude retreats
 Lost capacity in Russia and the Gulf is a boon to US refiners but a political problem for Donald Trump
 
-## Naval parts supplier Goodwin explores sale of defence business
+## Dreadnought supplier Goodwin explores sale of defence business
 London-listed supplier to UK and US nuclear submarines has received bids from buyout firms
 
-## Billionaire’s financial data group Ion chased by landlords for overdue rent
-Group behind Dealogic and Mergermarket made late payments on offices in Sydney, Munich and Connecticut
+## Trent shares fall 3% despite Q1 beat as analysts diverge on growth outlook
+Sell orders outnumber buys by nearly two to one, with 66 per cent of order flow on the sell side
 
-## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty slips to 24,560; TCS leads gainers; Siemens Energy soars 13%
-Sensex, Nifty, Share Prices Live: Benchmark indices opened ​lower on Friday, weighed down by ‌heavyweight financial stocks and ​rising oil prices amid ⁠concerns over the reopening of the Strait of Hormuz, while quarterly ‌earnings drove stock-specific moves.
+## Chavda Infra shareholders approve 1:1 bonus issuance
+The Board of Directors also approved an increase in the company’s authorised share capital from ₹35 crore to ₹70 crore
 
-## Britannia rises as upbeat demand outlook, profit growth cheer investors
-Following higher quarterly profit, shares of Britannia Industries rose as much as 4.7%, signalling stronger demand
+## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty slips to 24,560; Siemens Energy soars 13%, Bajaj Finance tanks 5.5%
+Sensex, Nifty, Share Prices Live: Markets remained under pressure through mid-session on Friday. Both indices opened gap-down and have struggled to recover, with selling pressure concentrated in financial stocks even as information technology continued to provide support.
 
-## Q1 Results Today Live: ixigo shares tank after Q1, SBI, Titan, Hindalco, Hitachi Energy, PFC, Godrej Consumer, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results, LIC, Hero Motocorp, Britannia, Muthoot Microfin shares gain
+## HarperCollins Publishers to publish Dr Sylvia Karpagam's new book about the politics of food
+HarperCollins Publishers to publish Dr Sylvia Karpagam's new book about the politics of food
+
+## What’s driving Gold above $4,200? Fed bets & West Asia hopes drive rally
+Spot gold was at $4,262.39 per ounce, up 0.60%, while MCX gold was around ₹1,31,850 per 10 grams; Silver increased 1.30% to $62.20 per ounce
+
+## Q1 Results Today Live: BEML loss narrows in Q1, Godrej Consumer con. PAT up 11.5%, ixigo shares tank after Q1, SBI, Titan, Hindalco, Hitachi Energy, PFC, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
 Q1 Results Today, 07th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## IPO-bound Fibe's AUM rises 63% to ₹8,603 crore in FY26
-Fibe’s assets under management expanded from ₹4,064 crore in March 2024 to ₹5,268 crore in March 2025, before surging to ₹8,603 crore by March 2026
+## F&O Query: Analysis of BSE futures
 
-## Bangladesh move to reject Indian rice consignments on quality issues sparks controversy
-The shipment was initially found ‘fit for human consumption’ when samples were drawn soon after landing, but was subsequently found to have ‘quality issues’
 
-## FSSAI imposes penalty, adjudication order on AWL Agri Business Ltd
-Regulator also directs PIE Foods to halt sale of monk fruit sweeteners over licensing, labelling violations
+## Britannia shares rise 2% after Q1 results; analysts mixed on margin miss
+The stock opened at ₹5,502.50 against the previous close of ₹5,404, with traded volume crossing 10.41 lakh shares by early afternoon.
 
-## Akasa Air launches loyalty programme
-The loyalty programme called 'Akasa Elevate' will enable members to earn points on eligible flights and ancillary products and services
-
-## LV Swaroop Representing Bengaluru, Wins the MONIN Cup 2026 India Finals
-LV Swaroop Representing Bengaluru, Wins the MONIN Cup 2026 India Finals
+## Gold price prediction: Buy on dips the right strategy for gold right now? Check August 7, 2026 outlook
+MCX Gold October futures continue to trade with a positive bias as prices remain well supported above key moving averages despite witnessing intermittent profit booking. The overall trend remains constructive, with higher highs and higher lows indicating sustained buying interest.
 
 ## Rupee slips to 95.28 against US dollar as oil, treasury yields remain elevated
 On Friday, the Indian rupee experienced a decrease of six paise against the US dollar. Factors such as a robust dollar, escalating US Treasury yields, and elevated dollar demand from importers contributed to this decline. Additionally, rising global oil prices, combined with geopolitical tensions, a
@@ -81,32 +84,29 @@ In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI t
 ## Options volumes down over 50% on stricter rules: Sebi
 
 
-## RBI bars NBFCs from offering revolving credit facilities
+## Sena councillor gets bail in assault case, directed to stay out of Maharashtra
+The court said the probe was nearing completion, and the accused could not be kept behind bars indefinitely, while transferring the case to a fast-track court
 
+## ‘Ready to face insults’: Tamil Nadu CM Vijay amid face-off with Udhayanidhi over Cauvery dispute
+CM Vijay said he was "prepared to bear insults" if it meant opening talks on the Cauvery issue in the interest of the people of Tamil Nadu.
 
-## Abhijeet Dipke jabs critics as Mohan Bhagwat says protesting doesn't make Gen Z anti-national: ‘To whom it may concern’
-CJP founder Abhijeet Dipke appeared to target a section of BJP leaders who had accused the protesters of being "anti-nationals".
+## The deal was made 4 decades ago, the latest appeal just got over: Supreme Court draws the curtain on Bofors 'scandal'
+Supreme Court's dismissal of an appeal shuts the last legal door on a 40-year prosecution, which began after a Swedish Radio raised allegations in April 1987.
 
-## India, China to use diplomatic, military channels to resolve outstanding border issues: MEA
-The representatives of both the countries met and engaged in what the MEA described as “frank” discussions and reviewed the situation along the LAC.
+## Decade-long push empowered Arunachal's handloom sector: CM
+Decade-long push empowered Arunachal's handloom sector: CM
 
-## Rahul Gandhi reveals his favourite BJP leader: 'Get along with him, he's cool'
-The Congress leader added that he likes Amarinder Singh because of his expertise in military history.
+## Vehicles torched, stones pelted as violence breaks out in Patna over man's death in road accident
+Patna Police said a the victim died while crossing the road when he was hit by a car.
 
-## Mayawati urges Gujarat govt to seek strict punishment for accused in Una Dalit flogging case
-Mayawati urges Gujarat govt to seek strict punishment for accused in Una Dalit flogging case
+## Heavy rain alert across India as incessant downpour hits Delhi, Kerala, other states; Check IMD forecast
+The IMD issued heavy rain alert across several states, including Uttarakhand, Odisha, Bihar, Haryana and Tamil Nadu.
 
-## All about National Handloom Day as PM Modi urges people to hop on GRWM trend
-India celebrates National Handloom Day on August 7 every year to commemorate the historic day when the Swadeshi Movement was launched in 1905.
+## ‘For cheap publicity’: SC junks plea for criminal probe against Justice Varma
+The court declined to entertain the plea for registration of an FIR over the alleged recovery of cash from Justice Varma’s official residence in 2025
 
-## ‘Economic status not sole criterion’: Why govt said ‘creamy layer’ can’t be extended to SC, ST categories
-The Centre said the reservation policy is "not solely based on economic status," but rather on historical and social criterion.
-
-## Delhi high court denies bail to Olympic wrestler Sushil Kumar in murder case
-The Delhi high court in March last year granted Kumar bail but the Supreme Court subsequently set aside that order in August 2025
-
-## Maharashtra govt bans literature of proscribed outfits glorifying violent extremism
-Maharashtra govt bans literature of proscribed outfits glorifying violent extremism
+## Scientifically Speaking: The killer hiding in plain sight
+For more than a century, botanists collected an alpine flower with dead insects still attached. A new study has finally shown that the plant was eating them.
 
 ## Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs
 The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil prices ease fears of monetary tightening. The tech-heavy Star Market 50 Index, whi
@@ -180,6 +180,12 @@ July was Balochistan’s most violent month this year. It also overtook Khyber P
 ## Delhi’s EV Policy Changes the Engine, Not the System
 Electric vehicles can reduce pollution and emissions. But underlying issues of preserving car dependence, displacing environmental harm, and workers bearing the costs of a clean future need to be addressed.
 
+## Warlords of Greece: Warfare in Homer’s World
+The Iliad and Odyssey have shaped Western ideas of heroism for nearly three millennia. Yet despite centuries of debate over whether they reflect historical reality or poetic fantasy, the Homeric world remains an internally consistent universe worth studying on its own terms. This isn’t about separat
+
+## How Can U.S. Special Operations Forces Help Defeat China on Taiwan?
+It is conceivable that in one blistering campaign, the People’s Republic of China could invade, occupy, and forcibly annex Taiwan. One question would dominate the post-occupation debate: “What more could have been done?” The obvious answers will be better intelligence, bigger exercises, more weapons
+
 ## Attacks, Deals, and Discontent
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOver the last two weeks, President Donald Trump repeatedly threatened major attacks on Iran. Going into the 
 
@@ -197,12 +203,6 @@ Iran’s closure of the Strait of Hormuz and efforts to extract payments for saf
 
 ## Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal
 Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal “totally subject” to Saudi Arabia j
-
-## Beyond the Output Trap: Haiti and the Future of International Stabilization
-Five years after the assassinations in Haiti of Monferrier Dorval, Diego Charles, and Antoinette Duclaire, justice remains elusive. Four years after the assassination of President Jovenel Moïse, accountability is still incomplete. Yet international reporting on Haiti continues to foreground outputs:
-
-## A Conversation with the Pentagon’s Chief Buyer, Under Secretary Michael P. Duffey
-Under Secretary of Defense for Acquisition and Sustainment Michael P. Duffey joins Jonathan to discuss the Pentagon’s ongoing acquisition transformation. Their conversation spans the recent munitions agreements, industry investments, the shift to portfolio acquisition executives, allied coproduction
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
+CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA's Gianni Infantino.
+
+## Earthquake strikes as doctors perform surgery
+A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.
+
 ## ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
 Jaswant Singh Khalra's daughter Navkiran reflects on slain father's life and legacy, which also inspired a recent film.
 
@@ -244,13 +250,7 @@ A record-high heatwave is sweeping through the Korean Peninsula, sending tempera
 Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.
 
 ## At least six killed, 15 wounded in Thailand school shooting, police say
-Authorities say suspected gunman also found dead after shooting at a school northwest of Bangkok.
-
-## Anti-Muslim US Congressman Andy Ogles loses Republican primary
-Trump's endorsement fails to save Tennessee legislator who recently said 'Muslims don't belong in American society'.
-
-## AI used to create viruses not found in nature for first time
-US researchers say they created 16 viruses using AI, prompting hopes for medical advances and concerns about misuse.
+Authorities say suspected gunman shot and ⁠killed his grandparents ​at their home before opening fire at the school.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
