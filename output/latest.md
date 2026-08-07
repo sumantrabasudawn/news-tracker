@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US euro sale to prop up yen blindsided ECB
+Christine Lagarde and Scott Bessent spoke only after Washington’s historic intervention
+
+## Airtel to list its $10bn Africa finance business in London
+Also in this newsletter: Indian government sells stake in LIC
+
+## Why Modi’s economic model is not working for India’s youth
+Protests reflect deep frustration with poor job prospects and government mis-steps
+
 ## Alibaba’s latest AI model puts it back in the great game
 The ecommerce and cloud company hopes to recoup some of its lost shine with Monday’s release
 
@@ -15,9 +24,6 @@ Violence in Michoacán state prompts US to withdraw its inspectors and suspends 
 ## FirstFT: US scientists use AI to create first synthetic viruses
 Also in today’s newsletter: Jane Street in talks to refinance $11bn debt load and SoftBank beats analysts’ expectations
 
-## Tories vow to ban foreign nationals from accessing UK social housing
-Party leader Kemi Badenoch pledges to implement policy if she forms next government as she tries to outflank Reform
-
 ## Jane Street in talks to shift its $11bn in debt to investors including Pimco
 Private credit deal would allow the secretive trading firm to make further investments in AI
 
@@ -27,80 +33,80 @@ Group slashes outlook as bottlenecks limit ability to convert strong demand for 
 ## Argentine company accuses US of meddling in Huawei project
 Incident underscores duelling pressures on rightwing president Javier Milei from Washington and Beijing
 
-## California sues DuPont over alleged effort to avoid ‘forever chemicals’ liabilities
-State’s attorney-general says lawsuit involves ‘first-of-its-kind’ litigation
+## Sensex today | Stock Market Live: Gift Nifty signals muted start amid rising oil prices; Q1 earnings to stay in focus
+Sensex, Nifty, Share Prices Live: GIFT Nifty futures were ​at 24,653 points, as of 7:50 am ⁠IST, indicating a muted start for the Nifty 50, which closed at 24,636 on Thursday.
 
-## Cyble Says the Future of Endpoint Security Goes Beyond Detection, Unveils the Next Evolution of Titan at Black Hat USA 2026
-Cyble Says the Future of Endpoint Security Goes Beyond Detection, Unveils the Next Evolution of Titan at Black Hat USA 2026
+## Alibaba plans to charge big users of its next open-source AI model, sources say
+The plans show Chinese AI firms, ​which have shocked markets by releasing open-source models ‌nearly as capable as those from OpenAI and Anthropic, are converging on a business model as they push to take market share from their US rivals
 
-## Cision Wins 2026 MarTech Breakthrough Awards for Social Listening, Press Release Distribution, and AEO
-Cision Wins 2026 MarTech Breakthrough Awards for Social Listening, Press Release Distribution, and AEO
+## Tewolde Gebremariam: A proven navigator
+Air India looks up to crisis-tested new CEO Tewolde Gebremariam to take it out of turbulence
 
-## TN CM to meet State MPs on delimitation
+## Truck rentals hold steady in July as logistics sector eyes festive demand: Shriram Mobility Bulletin
+Steady freight rates across key routes signal resilience, with the logistics sector pinning hopes on festive season cargo demand.
 
+## Asian shares pause for US jobs, oil extends gains on Mideast risk
+After ‌bouts ⁠of volatility sparked by concerns over the durability of the AI-driven rally, investors ⁠are now squarely focused on the U.S. payrolls report due later in the day, which could prove crucial for the interest-rate outlook.
 
-## TN CM Vijay urges PM Modi to expedite work on linking Godavari-Cauvery-Gundar rivers
-Implementation of the Godavari-Cauvery–Vaigai–Gundar Link Project would facilitate the transfer of surplus floodwaters from water-surplus basins to water-deficit regions, says CM Vijay
+## Gold heads for biggest weekly gain since January ahead of US jobs data
+Spot gold was up 0.4% at $4,254.11 per ounce, after ‌hitting a seven-week high in the previous session. Prices were ‌up ⁠over 5% for the week.
 
-## MDR applies only on merchants, not on end users: FM
-She clarified that no decision yet on MDR has been taken yet
+## Sensex, Nifty on track for muted start amid rising oil prices; Q1 earnings, US-Iran war in focus
+GIFT Nifty futures were ​at 24,653 points, as of 7:50 am, indicating a muted start for the Nifty 50, which closed at 24,636 on Thursday.
 
-## Bajaj General Insurance, Swiss Re team up for commercial insurance in India
-The proposed partnership aims to leverage Swiss Re Corporate Solutions’ International Programmes platform
+## OpenAI’s new device will be hockey puck-sized and cost over $300
+The product — essentially a smart speaker without a display — will be shaped like a doughnut that’s roughly the size of a hockey puck. The idea is to make the device easy to carry around the home with one hand.
 
-## Indel Money’s arm get RBI approval to offer trade remittance services
-The RBI approval enables the company to expand regulated cross-border payment services for businesses with faster and compliant trade remittances
-
-## India’s ISMA, coop sugar mills seek incentives to offset early crushing losses
-In a letter to Union Food Secretary Sanjeev Chopra, they’re pushing for this proactive move to boost sugar supplies just in time for the festive season
-
-## Merchant charges for UPI soon? LS passes bill authorising govt to allow banks to levy fees - top facts
-This empowers the government to allow banks and other payment service providers to impose charges on transactions conducted through the unified payments interface (UPI) and other electronic payment modes that may be notified.
-
-## 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil
-A year since the whole penal tariff cycle began - India now faces uncertainty related to its Russian crude purchases. A new Russia related sanctions bill in the US may see the light of the day if passed this year implying that Trump would have the power to impose tariffs on India again.
-
-## Crèche benefits under India’s Labour Codes: What employers and working parents need to know
-While the requirement to provide a crèche is not new for many employers, the Labour Codes introduce a more comprehensive framework governing how such benefits may be provided, administered and accessed by employees.
-
-## US stock market today: Wall Street mixed as earnings reports drive key indices
-The S&P 500 gained 0.2%, remaining close to the record high it reached on Tuesday. By 9:53 a.m. Eastern time, the Dow Jones Industrial Average was down 21 points, or less than 0.1%, while also trading near its all-time high. The Nasdaq composite advanced 0.2%.
-
-## India eyes LNG import alternatives: Cabinet approves Rs 23,731 cr GOBARdhan scheme for compressed bio-gas
-GOBARdhan or the Galvanizing Organic Bio- Agro Resources Dhan scheme aims to push for the production of compressed bio-gas. The scheme has six pillars: assured offtake, price stability, capex support, pipeline infra development, credit guarantee, and challenge fund for innovation.
-
-## Taxation bill to promote electronic manufacturing clears LS; allows provision for MDR on UPI transactions
-Under the proposed changes, the Central government would be empowered to specify, through a notification, the electronic payment modes or transactions that must continue to remain free of charges.
-
-## 'Completely false, irresponsible': Centre refutes claim of ethanol blending with jet fuel
+## Stock Market Today Live Updates: Where are BSE Sensex and NSE Nifty50 headed today? Oil prices, global cues and more in focus
 
 
-## Gold rate today: Yellow metal hits seven-week high as oil prices lift demand
+## Bankers unaware, government timed LIC stake sale to max receipts
 
 
-## 'Prime Influencer': Dipke takes a dig at PM Modi's National Handloom Day Instagram video
-PM Modi promoted National Handloom Day online, while CJP founder Abhijeet Dipke reacted with a comment and later appealed for youth-focused announcements.
+## ENIL EBITDA rises 42% in Q1, digital business grows
 
-## Zero tolerance for attempts to disrupt Kanwar Yatra: Adityanath
-Zero tolerance for attempts to disrupt Kanwar Yatra: Adityanath
 
-## NHRC sends notice to MP govt over assault on Dalit student by teacher
-NHRC sends notice to MP govt over assault on Dalit student by teacher
+## India may see productivity gains from AI, says Nilekani
 
-## 'Students, Gen-Z -- I'm here to listen': Rahul Gandhi launches 'Ask Me Anything' on Instagram
-Asked about the student protest in Jharkhand, which is governed by the JMM, an INDIA bloc ally, Gandhi said the education system in the country has collapsed.
 
-## Govt, Meta to continue talks on content moderation policies after PM Modi reel row
-MeitY officials said discussions with Meta will focus on content moderation policies, algorithms and compliance systems after PM Modi’s Facebook Reel takedown.
+## Options volumes down over 50% on stricter rules: Sebi
 
-## Rajasthan court acquits 40 in 2015 murder of 5 Dalits, cites probe lapses
-Rajasthan police did not conduct a Test Identification Parade of the accused or collect their samples for DNA test to match blood samples lifted from crime scene, a local court in Merta said
 
-## Pedestal fans used to dry ₹4,200-cr Lucknow-Kanpur Expressway repair
-This is the new wave of BJP-style ‘progress, said SP president Akhilesh Yadav, taking a swipe at the government over the quality of the new expressway
+## RBI bars NBFCs from offering revolving credit facilities
 
-## 'Education is a necessity, not a business': RSS chief Mohan Bhagwat backs 6% budget demand
-Bhagwat stressed that the system should be designed in a way that makes quality education available to everybody without placing financial burden on families.
+
+## Next budget may see lowering of customs duties: FM
+
+
+## Tata Sons stays, 4 more PSUs enter NBFC upper layer
+
+
+## ₹23k-cr plan to boost compressed biogas production gets cabinet nod
+The Union Cabinet on Thursday approved a ₹23,731 crore national scheme to accelerate domestic Compressed Biogas (CBG) production, strengthen energy security and promote rural livelihoods by converting organic waste into clean fuel
+
+## FCRA bill debate likely on Aug 12: Mizoram CM
+Mizoram chief minister Lalduhoma met Union home minister Amit Shah on Thursday to discuss the concerns of church representatives about the proposed Foreign Contribution (Regulation) Amendment Bill, 2026, saying later that he was assured that the legislation will not apply retrospectively
+
+## Trump confronted Hegseth over weapons shortage due to Iran war? US president reacts
+Trump said that the United States has an abundant supply of munitions. He also warned that those spreading claims about shortages could face prison.
+
+## SC hopeful of settlement in Sunjay Kapur family inheritance row
+The Supreme Court on Thursday recorded that mediation in the high-stakes inheritance dispute within the family of late businessman Sunjay Kapur was progressing satisfactorily and that the warring factions had agreed to explore the possibility of “crystallising a holistic settlement of their claims”,
+
+## Supreme Court hopeful of settlement in Sunjay Kapur case: 'Parties cooperating'
+Mediation in the high-stakes inheritance dispute within late businessman Sunjay Kapur's family was progressing satisfactorily, the Supreme Court said.
+
+## 57,000 names to be dropped from Bengal housing scheme beneficiaries list after SIR
+At least 57,000 names will be removed from the list of beneficiaries of Awas Yojana because they were already struck off from the electoral rolls during SIR.
+
+## Bengal govt reaches out to Tata Group, seeks to resolve ₹765.78 crore compensation dispute over Singur
+The BJP-led Bengal government initiated talks to set up new industries and resolve a dispute over compensation of ₹765.78 crore that previous govt didn't pay.
+
+## Supreme Court denies Asaram bail on medical grounds, but allows 24x7 caretaker inside jail
+SC denied interim bail to Asaram, serving a life sentence for sexual assault on a minor, citing medical grounds while permitting a caretaker for assistance.
+
+## Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs
+China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as the preferred base amid a broader crackdown on outflows of state cash. Decades of overseas expansion had seen many SOEs build up assets in multiple juri
 
 ## Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push
 Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion. Supporting the outlook, Beijing – which has added to its gold reserve for 20 straight mon
@@ -122,9 +128,6 @@ China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – ti
 
 ## Swire earnings show Hong Kong’s prime commercial districts outpacing others in recovery
 Hong Kong’s commercial property recovery is increasingly becoming a story of location, with the fortunes of the city’s biggest landlords diverging depending on the districts where they own office space. Swire Properties’ first-half results on Thursday captured that shift. The developer owns office t
-
-## Unrelenting AI demand spawns new plant for Chinese PCB maker Victory Giant
-Chinese printed circuit board (PCB) maker Victory Giant Technology is aggressively expanding its manufacturing footprint and international order book, highlighting relentless growth momentum across China’s artificial intelligence hardware sector. The Guangdong-based company has been negotiating new 
 
 ## Is Iran Winning the Battle Over the Strait of Hormuz?
 Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.
@@ -150,6 +153,21 @@ Strikes on ports and ships could portend another global food shortage.
 ## Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
 Experts say political uncertainty makes the Trump-backed plan untenable, for now.
 
+## Was Tarique Rahman’s Youth Outreach More Than an Election Strategy?
+The BNP’s credibility with Bangladesh’s youth will ultimately depend not on whether the government can deliver jobs, fair recruitment, and meaningful participation in state-building.
+
+## How South Korea Can Survive the Unbundling of International Order
+South Korea’s strategic challenges – and the potential solutions – make the case for democratic multilateralism.
+
+## The Rule of Law in Afghanistan Failed Long Before the Taliban’s Triumph
+To be rightfully concerned about the present is not an excuse to distort the past.
+
+## Bangladesh-India Relations Hit Fresh Turbulence
+Bangladesh expressed “outrage” even as India said it had nothing to do with Sheikh Hasina’s online media engagement at the Awami League presser in New Delhi.
+
+## Clashes Erupt at Susta Along India-Nepal Border
+India and Nepal have settled almost 98 percent of their border. Differences over Kalapani and Susta have proven difficult to resolve.
+
 ## China’s ‘Ethnic Unity’ Law is Already Harming Uyghurs
 Government actions that could once be described as regional campaigns are now embedded in national legislation. Restrictions will become easier to expand and harder to challenge.
 
@@ -158,21 +176,6 @@ July was Balochistan’s most violent month this year. It also overtook Khyber P
 
 ## Delhi’s EV Policy Changes the Engine, Not the System
 Electric vehicles can reduce pollution and emissions. But underlying issues of preserving car dependence, displacing environmental harm, and workers bearing the costs of a clean future need to be addressed.
-
-## Mongolia’s Fuel Crisis Is a Demand Problem, Not Just a Supply One
-The cause of the crisis can be attributed to both external and internal factors, highlighting Mongolia's energy insecurity. The cure might be a path toward transportation electrification.
-
-## How Kazakhstan Wrote Its Security Service Into the AI Business
-Largely construed as routine modernization efforts, the KNB’s new responsibilities may not have not attracted much scrutiny but they could have significant implications.
-
-## Sheikh Hasina’s Remarks Spark Bangladesh’s Boldest Message to India Yet
-Dhaka wants the post-2024 political order to be viewed not only as a domestic transition but also as the basis of a more assertive foreign policy identity.
-
-## US Pacific Command Considers Moving Billions in Planned Infrastructure Out of Micronesia
-The U.S. is threatening to pull a $2 billion infrastructure project in Yap. It's second time recently there have been major problems in U.S. defense negotiations with a COFA partner.
-
-## As Taiwan’s Drone Budget Debate Drags on, Time Is Running out
-Taiwan could end 2026 without awarding a single new large-scale contract for domestically produced combat drones.
 
 ## Attacks, Deals, and Discontent
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOver the last two weeks, President Donald Trump repeatedly threatened major attacks on Iran. Going into the 
@@ -222,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump says war can’t ‘go much longer’, Hormuz deal close
-The US, Iran, and Oman are close to a temporary deal to reopen the Strait of Hormuz
+## More than one million affected by floods in India’s Assam state
+Thousands of people in India have been displaced since July after monsoon rains triggered severe flooding.
 
-## Travel restrictions – from Israel and Europe – trap students in Gaza
-Blockades and bureaucracy turn education into an uphill journey for talented Gaza students seeking a brighter future.
+## Exclusive report with the 308 people rescued by Nigerian forces
+Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.
 
-## ‘No red line’: South Lebanon residents outraged as Israel resumes strikes
-People in South Lebanon question their government's approach as Israel launches more attacks and displacement orders.
+## Israeli raid in West Bank’s Qalandiya injures 51 Palestinians
+Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.
 
-## Trump signs executive orders banning so-called ‘birth tourism’
-US President Donald Trump signed two executive orders to further limit who is eligible for birthright citizenship.
+## New Mexico court orders Meta to pay $567m over harm to youths
+The ruling comes in the second phase of a landmark trial, with the Instagram, Facebook owner also losing in March.
 
-## Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’
-US president says he is involved in talks and war will end 'pretty soon', claiming that Iran cannot 'go much longer'.
+## Brazil formally accuses 16 people over 2024 Voepass deadly plane crash
+Official says plane was irregularly cleared for departure before crash that killed 62 people outside Sao Paulo.
 
-## How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment
-Michigan progressive fended off AIPAC as well as Democratic establishment in US Senate race, supporters say.
+## Police in Argentina use tear gas to stop protesters
+Al Jazeera’s Teresa Bo reports from Buenos Aires, where police fired tear gas as thousands protested.
 
-## Far-right fitness clubs mask extremist recruitment, experts warn
-Al Jazeera's Nils Adler reports on how far-right 'Active Clubs' use fitness and camaraderie to recruit young white men.
+## Do you know who owns the media you watch?
+Today, a total of 6 companies own 90% of the American media market.
 
-## Trump signs new executive orders seeking to limit US birthright citizenship
-The US president's latest effort comes after Supreme Court ruled against his push to reinterpret constitutional right.
+## After the floods, hunger: Mozambique’s second disaster
+Lost harvests and disrupted supply routes have pushed many families deeper into food insecurity.
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
