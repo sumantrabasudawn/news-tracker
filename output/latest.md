@@ -24,6 +24,9 @@ Naval interdiction appears to be halting tankers from carrying Tehran’s crude
 ## UK manages record share of assets on behalf of overseas clients
 New data helps dispel worries over London’s status as a world-leading financial centre
 
+## Taming AI’s wild frontier
+The most advanced systems are evolving faster than efforts to keep them safe
+
 ## Premium seats, more charges: Apollo’s upmarket plans for easyJet
 Airline will offer extra services and feed long-haul carriers under proposals
 
@@ -35,9 +38,6 @@ Oil major’s move against the EU’s carbon storage rules is odd
 
 ## Watchdog moves to stop Aldi and Lidl blocking rival UK store openings
 CMA proposes changes to clamp down on discounters’ use of anti-competitive property covenants
-
-## FirstFT: All eyes on the US jobs market
-Also in today’s newsletter: Jane Street debt discussions and the latest cutting-edge Chinese AI model
 
 ## Nifty Prediction Today – July 29, 2026: Nifty futures: Gap-up sustaining, traders can buy
 Nifty futures (Aug) can rally to 24,370 and subsequently to 24,450
@@ -87,6 +87,9 @@ India's investor community is witnessing remarkable transformation, with a young
 ## Why stock market's close is now an auction - explained
 For over three decades, the closing price was the volume-weighted average (VWAP) of all trades between 3:00 pm and 3:30 pm. Nobody actually traded at that price. It was a calculation, not a transaction. For long-term investors, nothing changes. For index funds and traders, the closing routine is now
 
+## US supplies about 67% of India's LPG imports, reducing Gulf reliance: Hardeep Puri
+Hardeep Puri noted that India is now the world's third-largest energy consumer and importer, and the fourth-largest refiner
+
 ## Indian-origin doctor seeking Trump pardon gave $1 million to MAGA fund
 Krishna Tripuraneni, who served prison time for tax fraud, donated $1 million to Trump’s MAGA Inc fund while seeking a presidential pardon.
 
@@ -99,7 +102,7 @@ US senators opposed tariffs during debate on a Russia sanctions bill. It affects
 ## Tripura SIR of electoral rolls to begin from September 5: Chief electoral officer
 The Election Commission will begin Tripura’s SIR on September 5, with the final electoral roll to be published on December 23.
 
-## Rahul Gandhi's next plan of action is regarding the E20 issue: 'We’re going to…'
+## Rahul Gandhi's big plan regarding the E20 issue gets a ‘Pappu’ retort from the BJP: ‘Puri Daal hi kaali hai’
 The Congress leader said the party would take up the issue aggressively and claimed the rollout was hurting vehicle owners across the country.
 
 ## BJP MP to propose bills seeking age checks for children, curbs on AI deepfakes
@@ -107,9 +110,6 @@ The proposed Bills seek parental consent for children under 13 on social media a
 
 ## 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir, Prashant Kishor's victory
 Tharoor said the growing engagement of Gen Z and Gen Alpha with political issues reflected a changing landscape that parties could not ignore.
-
-## 'Does SC want everyone to take bullets?': Abhijeet Dipke on top court's 'fear eggs' remark to Mahua
-Dipke slammed the Supreme Court over its remarks during the hearing of Mahua Moitra's plea to join police interrogation via video conference.
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
 A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
@@ -159,29 +159,29 @@ Rural neglect has produced a continual security crisis.
 ## Russia and Ukraine Are Mutually Shutting Down the Black Sea
 Strikes on ports and ships could portend another global food shortage.
 
-## How the World Learned to Live with the Exclusion of Afghan Women
-The world has to do more than admire Afghan women’s resilience. It must stand with them by taking concrete actions.
+## India’s Climate Stress and the Solar Power Paradox
+Rising demand will keep coal the backbone of India’s power grid in the coming years. This buys time for executing an energy transition, if India can see through its plans.
 
-## Where is Myanmar’s Aung San Suu Kyi?
-Sean Turnell, an economist and former advisor to the ousted leader, returns to Beyond The Mekong to discuss recent events in Myanmar.
+## No Wonderland: Alice’s Shameful Australian Aboriginal Camps
+The conditions in and around Australia’s Aboriginal camps, such as the one where a 5-year-old girl was murdered in April, are shameful for one of the world’s wealthiest countries.
 
-## Vietnam’s Top Leader To Lam to Pay State Visits to Australia and New Zealand
-The visits are likely to build on the momentum created by the Comprehensive Strategic Partnerships signed recently with both countries.
+## Taiwan’s Missing Deterrent
+Conventional deterrence alone overlooks the vector of conflict most likely to define a cross-strait crisis: civil defense.
 
-## Japan’s Billions Are the Wildcard in Southeast Asia’s Aid Race
-Few development actors in the region can currently match Tokyo’s combination of credibility and quality.
+## China’s Military Is Now Using AI to Plan Strike Operations
+What does that mean for the future of human control in war – including a war over Taiwan?
 
-## Was Tarique Rahman’s Youth Outreach More Than an Election Strategy?
-The BNP’s credibility with Bangladesh’s youth will ultimately depend not on whether the government can deliver jobs, fair recruitment, and meaningful participation in state-building.
+## How China Is Reordering Global Governance From Within
+Beijing’s June white paper leaves the U.N.-centered architecture intact – but re-interprets the priorities.
 
-## How South Korea Can Survive the Unbundling of International Order
-South Korea’s strategic challenges – and the potential solutions – make the case for democratic multilateralism.
+## India’s Communal Violence is Crossing into Nepal
+With the RSS steadily building on Nepali soil, Hindu-Muslim tensions and violence are growing, especially in Nepal’s Tarai-Madhesh region bordering India
 
-## The Rule of Law in Afghanistan Failed Long Before the Taliban’s Triumph
-To be rightfully concerned about the present is not an excuse to distort the past.
+## From Jobs to Skills: Rethinking Vietnam’s FDI success
+Despite its rapid industrialization, the country's economy is not creating enough jobs that make productive use of advanced skills.
 
-## Bangladesh-India Relations Hit Fresh Turbulence
-Bangladesh expressed “outrage” even as India said it had nothing to do with Sheikh Hasina’s online media engagement at the Awami League presser in New Delhi.
+## Thailand Pledges to Work Towards Myanmar’s Full Reintegration With ASEAN
+The pledge came as Prime Minister Anutin Charnvirakul hosted the country's military-appointed president, Min Aung Hlaing, in Bangkok.
 
 ## Warlords of Greece: Warfare in Homer’s World
 The Iliad and Odyssey have shaped Western ideas of heroism for nearly three millennia. Yet despite centuries of debate over whether they reflect historical reality or poetic fantasy, the Homeric world remains an internally consistent universe worth studying on its own terms. This isn’t about separat
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## New Delhi on red alert as heavy rains pound the city
+Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.
+
+## Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested
+Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.
+
+## Hun Manet is refining Cambodia’s authoritarian model
+The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.
+
 ## War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
 Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.
 
@@ -245,15 +254,6 @@ Madrid warns of 'proportional measures' if Rome does not put an end to checks am
 
 ## Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos
 Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.
-
-## Two civilians killed in Houthi strike on Marib, says Yemen’s government
-Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.
-
-## Imade
-A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.
-
-## Diego Maradona bloated, bedridden and resigned before death, says masseur
-Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
