@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## After the great deleveraging
+Plus, was that . . . forward guidance?
+
+## The curious case of the Japanese government bond yields
+Maybe not as high as you think
+
 ## FirstFT: Google shakes up AI leadership
 Also in today’s newsletter: ECB yen shock and UK tuition fees
 
@@ -18,12 +24,6 @@ Clutch of newly-minted chief executives tasked with reviving FTSE 100 stalwarts 
 ## ‘It’s now or never.’ Is the EU serious about letting in new members?
 Candidate countries hope for progress after years of inaction, but some in Brussels are still uncertain about enlargement
 
-## Yen intervention illustrates the dangers of monetary experiments
-Tokyo and Washington’s desire to maintain stability may be creating long-term danger
-
-## Youngkin’s swing-state school campaign fuels White House speculation
-Billionaire mega-donor Thomas Peterffy backs former Republican governor of Virginia for presidential run in 2028
-
 ## ByteDance targets mega AI model nearing Anthropic’s Mythos
 TikTok owner training a model three times larger than Moonshot’s Kimi K3
 
@@ -36,29 +36,32 @@ London-listed supplier to UK and US nuclear submarines has received bids from bu
 ## Billionaire’s financial data group Ion chased by landlords for overdue rent
 Group behind Dealogic and Mergermarket made late payments on offices in Sydney, Munich and Connecticut
 
-## ByteDance targets mega AI model nearing Anthropic’s Mythos, FT reports
-
-
-## Sensex today | Stock Market Live: Sensex down 350 pts, Nifty slips below 24,600; TCS leads gainers; Bajaj Finance falls 4.5%
+## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty slips to 24,560; TCS leads gainers; Siemens Energy soars 13%
 Sensex, Nifty, Share Prices Live: Benchmark indices opened ​lower on Friday, weighed down by ‌heavyweight financial stocks and ​rising oil prices amid ⁠concerns over the reopening of the Strait of Hormuz, while quarterly ‌earnings drove stock-specific moves.
 
-## Q1 Results Today Live: SBI, Titan, Hindalco, Hitachi Energy, PFC, Godrej Consumer, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results, LIC, Hero Motocorp, Britannia, Siemens Energy, Muthoot Microfin shares gain, Trent, Premier Energies decline after Q1
+## Britannia rises as upbeat demand outlook, profit growth cheer investors
+Following higher quarterly profit, shares of Britannia Industries rose as much as 4.7%, signalling stronger demand
+
+## Q1 Results Today Live: ixigo shares tank after Q1, SBI, Titan, Hindalco, Hitachi Energy, PFC, Godrej Consumer, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results, LIC, Hero Motocorp, Britannia, Muthoot Microfin shares gain
 Q1 Results Today, 07th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Office assets lead real estate investments across APAC and India in H1 2026, accounting for over 40% of total inflows in India: Colliers
-Office assets lead real estate investments across APAC and India in H1 2026, accounting for over 40% of total inflows in India: Colliers
+## IPO-bound Fibe's AUM rises 63% to ₹8,603 crore in FY26
+Fibe’s assets under management expanded from ₹4,064 crore in March 2024 to ₹5,268 crore in March 2025, before surging to ₹8,603 crore by March 2026
 
-## Tamil Nadu govt to move resolution urging Centre for fair devolution of taxes
-The TVK-led government will also demand that States’ achievements in population stabilisation and human development do not place them at a comparative disadvantage
+## Bangladesh move to reject Indian rice consignments on quality issues sparks controversy
+The shipment was initially found ‘fit for human consumption’ when samples were drawn soon after landing, but was subsequently found to have ‘quality issues’
 
-## Center reduces takedown timeline for unlawful content to three hours
-Intermediaries are also required to ensure clear labelling and traceable metadata for permissible AI-generated content, so that users can easily identify synthetically generated material and prevent deception or misuse
+## FSSAI imposes penalty, adjudication order on AWL Agri Business Ltd
+Regulator also directs PIE Foods to halt sale of monk fruit sweeteners over licensing, labelling violations
 
-## Tamil Nadu seeks public suggestions to boost State revenues
-The State has launched a public consultation to gather ideas for strengthening revenue mobilisation, fiscal efficiency and long-term financial sustainability
+## Akasa Air launches loyalty programme
+The loyalty programme called 'Akasa Elevate' will enable members to earn points on eligible flights and ancillary products and services
 
-## Nifty prediction today – August 7, 2026: Nifty futures: Support holds
-But we suggest buying Nifty futures (Aug) only on a breakout of 24,750
+## LV Swaroop Representing Bengaluru, Wins the MONIN Cup 2026 India Finals
+LV Swaroop Representing Bengaluru, Wins the MONIN Cup 2026 India Finals
+
+## Rupee slips to 95.28 against US dollar as oil, treasury yields remain elevated
+On Friday, the Indian rupee experienced a decrease of six paise against the US dollar. Factors such as a robust dollar, escalating US Treasury yields, and elevated dollar demand from importers contributed to this decline. Additionally, rising global oil prices, combined with geopolitical tensions, a
 
 ## Will you have to pay to use UPI? FM Sitharaman clarifies who bears MDR
 In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI transaction charges will be applicable to merchants rather than customers. She explained that any Merchant Discount Rate (MDR) imposed would be instrumental in enhancing the digital payment ecosystem. Following the passag
@@ -81,32 +84,32 @@ In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI t
 ## RBI bars NBFCs from offering revolving credit facilities
 
 
-## Next budget may see lowering of customs duties: FM
+## Abhijeet Dipke jabs critics as Mohan Bhagwat says protesting doesn't make Gen Z anti-national: ‘To whom it may concern’
+CJP founder Abhijeet Dipke appeared to target a section of BJP leaders who had accused the protesters of being "anti-nationals".
 
+## India, China to use diplomatic, military channels to resolve outstanding border issues: MEA
+The representatives of both the countries met and engaged in what the MEA described as “frank” discussions and reviewed the situation along the LAC.
 
-## Watch | Farm well in Gujarat Morbi making waves, literally. Experts have an answer
-While videos of waves in a well in Gujarat's Morbi has left people stunned, authorities believe there may be a scientific explanation behind the bizarre sight.
+## Rahul Gandhi reveals his favourite BJP leader: 'Get along with him, he's cool'
+The Congress leader added that he likes Amarinder Singh because of his expertise in military history.
 
-## Paper leak ‘more heinous than murder’: HC denies bail to ex-IAS officer in CGPSC case
-Jeevan Kishore Dhruv, who was serving as secretary of the CGPSC when the alleged irregularities took place during the 2020-2022 recruitment process, was arrested by the CBI in September 2025
+## Mayawati urges Gujarat govt to seek strict punishment for accused in Una Dalit flogging case
+Mayawati urges Gujarat govt to seek strict punishment for accused in Una Dalit flogging case
 
-## ‘No one has seen us in same room’: Rahul Gandhi's cheeky AMA response to ‘are you Batman’ question
-Rahul Gandhi was asked who his favourite politician is from BJP, to which he just it was Capt Amrinder Singh. “I get along with him, he's cool,” Gandhi said.
+## All about National Handloom Day as PM Modi urges people to hop on GRWM trend
+India celebrates National Handloom Day on August 7 every year to commemorate the historic day when the Swadeshi Movement was launched in 1905.
 
-## Andhra recorded six-fold hike in FDI in last 2 yrs, says Naidu govt
-Andhra Pradesh has witnessed a sharp six-fold increase in foreign direct investment (FDI) in the last two years of the Telugu Desam Party-led coalition government, compared to the previous YSR Congress Party regime, an official statement said on Thursday, citing the data tabled in Lok Sabha
+## ‘Economic status not sole criterion’: Why govt said ‘creamy layer’ can’t be extended to SC, ST categories
+The Centre said the reservation policy is "not solely based on economic status," but rather on historical and social criterion.
 
-## Kavitha announces nationwide movement for legislative bodies’ 50% BC quota
-Telangana Rakshana Sena (TRS) president and former MP Kalvakuntla Kavitha on Thursday announced the launch of a nationwide movement for securing 50% reservations for other backward classes (OBCs) in legislative bodies
+## Delhi high court denies bail to Olympic wrestler Sushil Kumar in murder case
+The Delhi high court in March last year granted Kumar bail but the Supreme Court subsequently set aside that order in August 2025
 
-## Andhra cabinet decides to withdraw Disha Bill
-The Andhra Pradesh cabinet, chaired by chief minister N Chandrababu Naidu, on Thursday decided to withdraw the “Disha Bill” brought in by the previous YSR Congress Party government to ensure speedy investigation and trial of crimes against women and children
+## Maharashtra govt bans literature of proscribed outfits glorifying violent extremism
+Maharashtra govt bans literature of proscribed outfits glorifying violent extremism
 
-## TN unveils ₹58k-cr agriculture budget, focus on El Nino impact
-Anticipating 12 districts to be affected due to the Super El Nino phenomenon in the current year, Tamil Nadu has developed a district agricultural contingency plan, state minister R Vinoth said on Thursday, while presenting the ₹58,374
-
-## Kiren Rijiju calls Rahul Gandhi in new bid to end logjam
-The union government on Thursday made a fresh attempt to break the ongoing deadlock in Parliament with parliamentary affairs minister Kiren Rijiju reaching out to Leader of the Opposition in Lok Sabha, Rahul Gandhi, on Thursday, and to extend support for the delimitation bill.
+## Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs
+The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil prices ease fears of monetary tightening. The tech-heavy Star Market 50 Index, whi
 
 ## Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs
 China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as the preferred base amid a broader crackdown on outflows of state cash. Decades of overseas expansion had seen many SOEs build up assets in multiple juri
@@ -128,9 +131,6 @@ Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bon
 
 ## China’s MLCC supply chain expanding rapidly amid surge in global AI demand
 China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of electronics” – is racing to expand capacity, as an artificial intelligence-driven boom triggers a surge in global orders. Shandong Sinocera Functional Materials, a major supplier of dielectr
-
-## Swire earnings show Hong Kong’s prime commercial districts outpacing others in recovery
-Hong Kong’s commercial property recovery is increasingly becoming a story of location, with the fortunes of the city’s biggest landlords diverging depending on the districts where they own office space. Swire Properties’ first-half results on Thursday captured that shift. The developer owns office t
 
 ## Is Iran Winning the Battle Over the Strait of Hormuz?
 Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
+Jaswant Singh Khalra's daughter Navkiran reflects on slain father's life and legacy, which also inspired a recent film.
+
+## Bodies of climbers killed in avalanche retrieved from Broad Peak
+A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.
+
+## Mexico deploys troops to secure avocado region after US halts imports
+Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.
+
 ## Record-high heat soars through South Korea
 A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.
 
 ## Turkiye’s Erdogan visits Saudi Arabia: What to expect
 Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.
 
-## One killed, four injured in Thailand school shooting, officials say
-Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.
+## At least six killed, 15 wounded in Thailand school shooting, police say
+Authorities say suspected gunman also found dead after shooting at a school northwest of Bangkok.
 
 ## Anti-Muslim US Congressman Andy Ogles loses Republican primary
 Trump's endorsement fails to save Tennessee legislator who recently said 'Muslims don't belong in American society'.
 
 ## AI used to create viruses not found in nature for first time
 US researchers say they created 16 viruses using AI, prompting hopes for medical advances and concerns about misuse.
-
-## More than one million affected by floods in India’s Assam state
-Thousands of people in India have been displaced since July after monsoon rains triggered severe flooding.
-
-## Exclusive report with the 308 people rescued by Nigerian forces
-Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.
-
-## Israeli raid in West Bank’s Qalandiya injures 51 Palestinians
-Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
@@ -276,6 +276,9 @@ A parliamentary committee proposed limiting the National Financial Reporting Aut
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
 
+## CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI
+Amid concerns over the 'mismatch' in stock prices on domestic indices due to the new Closing Auction Session (CAS) system, the Securities and Exchange Board of India (SEBI) has said that the strategic transition "marks a significant step in achieving cross-market consistency and enhancing the robust
+
 ## Govt mandates exporter registration for FDI-backed ecommerce inventory exports
 Foreign-invested ecommerce firms must register as exporter-on-record for export inventory. These companies can only procure and stock goods against confirmed export orders. Speculative stockpiling for future outbound shipping will not be allowed by the government. Indian sellers can access overseas 
 
@@ -293,7 +296,4 @@ The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. T
 
 ## RBI likely to extend rate pause; neutral stance seen unchanged
 Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
-
-## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
-The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
 
