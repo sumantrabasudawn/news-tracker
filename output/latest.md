@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Iran’s oil exports stall and Kharg Island idles under US blockade
+Naval interdiction appears to be halting tankers from carrying Tehran’s crude
+
 ## US economy unexpectedly sheds 23,000 jobs in July
 Lacklustre figure prompts traders to scale back bets on Fed rate rises
 
@@ -21,9 +24,6 @@ Weak figures give some cover to central bank’s July decision to hold rates
 ## The meaning of Michigan
 What conclusions should Democrats draw from Abdul El-Sayed’s narrow win in the state’s Senate primary?
 
-## Will Farage’s gamble pay off?
-On the ground in Clacton; plus, what Badenoch’s backing for a former neo-Nazi says about her leadership style
-
 ## Mike Ashley says Harvey Nichols is in a ‘death spiral’
 Sports Direct founder casts doubt over department store chain’s prospects even as he vies to acquire it
 
@@ -32,9 +32,6 @@ The most advanced systems are evolving faster than efforts to keep them safe
 
 ## UK housing market in ‘suspended animation’
 Lloyds’ data shows house prices were unchanged in July as higher mortgage rates stretch affordability
-
-## Iran’s oil exports stall and Kharg Island idles under US blockade
-Naval interdiction appears to be halting tankers from carrying Tehran’s crude
 
 ## Premium seats, more charges: Apollo’s upmarket plans for easyJet
 Airline will offer extra services and feed long-haul carriers under proposals
@@ -120,6 +117,9 @@ The Congress leader said the party would take up the issue aggressively and clai
 ## BJP MP to propose bills seeking age checks for children, curbs on AI deepfakes
 The proposed Bills seek parental consent for children under 13 on social media and penalties for misuse of AI-generated deepfakes.
 
+## Meet the next generation of Chinese stars influencing how global finance operates
+A new generation of Chinese stars is influencing how global finance operates – applying analytical power, cross-cultural agility, and resilience developed in China’s demanding environments straight to leading firms from Citadel Securities to BlackRock. That shift is easier to grasp by looking beyond
+
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
 A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
 
@@ -140,9 +140,6 @@ The outlook for Chinese technology stocks has improved after a sharp monthly sel
 
 ## Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs
 China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as their preferred base amid a broader crackdown on outflows of state cash. Decades of overseas expansion had seen many SOEs build up assets in multiple ju
-
-## Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push
-Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion. Supporting the outlook, Beijing – which has added to its gold reserve for 20 straight mon
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -240,6 +237,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US appeals court halts White House ballroom construction
+A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.
+
+## South Koreans beat the heat with ‘silent disco’ pool party
+South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.
+
 ## Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
 New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
 
@@ -257,12 +260,6 @@ Gaza’s damaged water infrastructure is leaving families struggling to access s
 
 ## DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
 ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.
-
-## Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
-Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.
-
-## Inside the results: How redistricting shaped Tennessee’s primary election
-Tennessee's party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
