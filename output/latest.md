@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Moonshot shake-up seeks to win Beijing nod for stock market debut
+Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development
+
+## Police investigating Ann Widdecombe murder reopen inquiry into attempted burglary
+Counterterror officers had identified ‘relevant’ information missed during an investigation last year
+
+## Spain reinstates border controls on Italy as tensions rise over migrants
+Move widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni
+
 ## Iran’s oil exports stall and Kharg Island idles under US blockade
 Naval interdiction appears to be halting tankers from carrying Tehran’s crude
 
@@ -14,15 +23,6 @@ Prime Minister returns from holiday next week with plans to visit every region
 
 ## Passing the Clarity Act on digital assets is a matter of national security
 If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues
-
-## Cambridge university to review appointments process after Jason Arday affair
-Elite institution’s youngest-ever Black professor resigned this week following allegations of plagiarism
-
-## Mixed July payrolls report takes pressure off the Fed to tighten
-Weak figures give some cover to central bank’s July decision to hold rates
-
-## The meaning of Michigan
-What conclusions should Democrats draw from Abdul El-Sayed’s narrow win in the state’s Senate primary?
 
 ## Mike Ashley says Harvey Nichols is in a ‘death spiral’
 Sports Direct founder casts doubt over department store chain’s prospects even as he vies to acquire it
@@ -117,7 +117,7 @@ The Congress leader said the party would take up the issue aggressively and clai
 ## BJP MP to propose bills seeking age checks for children, curbs on AI deepfakes
 The proposed Bills seek parental consent for children under 13 on social media and penalties for misuse of AI-generated deepfakes.
 
-## Meet the Next Generation of Chinese Stars Influencing How Global Finance Operates
+## Meet the next generation of Chinese stars influencing how global finance operates
 A new generation of Chinese stars is influencing how global finance operates – applying analytical power, cross-cultural agility, and resilience developed in China’s demanding environments straight to leading firms from Citadel Securities to BlackRock. That shift is easier to grasp by looking beyond
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
@@ -237,6 +237,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Donald Trump renews effort to fire Federal Reserve governor Lisa Cook
+US president has clashed with Federal Reserve members over his bid to rapidly slash interest rates despite inflation.
+
+## ICC body urges Chad and Venezuela to reverse course on withdrawal
+International court's oversight body warns exits threaten global justice, as US intensifies campaign against tribunal.
+
+## Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?
+The Mecca Joint Defence Pact brings together countries that sit between Iran and Israel, but will it be effective?
+
+## Medics among six Palestinians injured in Israeli attacks across West Bank
+Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.
+
 ## Democrats gain momentum in pivotal US Senate and governor’s races in Texas
 James Talarico leads Ken Paxton in the Texas Senate race, signalling a potential shift in the Republican stronghold.
 
@@ -248,18 +260,6 @@ South Koreans in Seoul cooled off with a silent disco pool party during a record
 
 ## Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
 New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
-
-## Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial
-The Bundibugyo epidemic, ​the world's second-largest, has been described as the ⁠fastest-spreading on record.
-
-## Can diplomacy end the conflict in Libya?
-The country has been divided since 2014, with rival governments in the east and west.
-
-## US appeals court upholds injunction pausing Trump’s White House ballroom
-The two-judge majority underscored that the president needed congressional authority to move forward with his plans.
-
-## Contaminated water putting Gaza families at risk
-Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
