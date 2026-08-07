@@ -48,29 +48,29 @@ Chancellor holds emergency national security meeting as investigators examine �
 ## Exxon nears peak impunity on climate obligations
 Oil major’s move against the EU’s carbon storage rules is odd
 
-## Sun Pharma posts higher quarterly profit on strong demand
-Consolidated net profit in Q1 rises to ₹2,895 crore ($303.54 million) from ₹2,279 crore a year earlier
+## US Senate passes sweeping Russia sanctions bill, House vote next
+A bipartisan Senate vote advances tougher economic pressure on Russia while setting up a contentious House debate over presidential tariff powers.
 
-## Parliament gets its own street play as Pappu Yadav turns ‘sadhu’
-Dressed as a saffron-clad sadhu, the Purnia MP targeted the BJP over alleged Ayodhya temple donation irregularities in a dramatic protest.
+## K Rajaraman gets extension as IFSCA chief till October 2028
+Rajaraman’s extension is aimed at ensuring continuity at the helm as the regulator works towards strengthening the International Financial Services Centre ecosystem at GIFT City
 
-## Medical tourism brought 18.11 lakh foreign nationals to India during 2023-25: Govt
-Minister of State for Health and Family Welfare Anupriya Patel says India’s medical tourism sector is ‘rapidly growing’ and has ‘immense global potential’
+## ITC profit falls as cigarette tax hike weighs
+The consumer goods ‌major, home to ‌brands ⁠such as Aashirvaad flour and ⁠Bingo chips, said profit fell to ₹3,579 crore ($375.24 million) ​in the ‌first quarter ended June 30, from ₹4,911 crore a year earlier
 
-## Broker’s call: Sunteck Realty (Buy)
-Investec
+## Malabar Gold & Diamonds execute first jewellery export to UK under India–UK trade pact
 
-## Births and Deaths (Amendment) Bill, 2026, passed in LS amid protests over police crackdown
-Parliamentary Affairs Minister Kiren Rijiju expresses displeasure over the Opposition's refusal to participate in the debate, saying the government wanted a discussion on the "important Bill"
 
-## Emerge Renewables commissions new solar glass plant in Rajasthan
-The facility has a manufacturing capacity of 300 tonnes per day
+## Govt approves National Offshore Exploration Scheme
+The Scheme is also expected to stimulate significant investments across the exploration and production value chain
 
-## TASMAC scam case: Supreme Court stays FIR against DMK’s Senthil Balaji
-Issues notice to Tamil Nadu government on his plea challenging the Madras High Court’s refusal to grant him anticipatory bail in the alleged TASMAC scam case.
+## BGR Energy Systems nears debt resolution
+NCLAT allows the engineering services company further time to conclude a settlement with its principal lender.
 
-## US appeals court blocks Trump’s $400 million White House ballroom project
-A federal appeals court has paused a high-profile White House construction project, setting up another major constitutional battle over presidential authority.
+## Gujarat-based Infistar & Finland’s Arciplug form JV to tap small compressed biogas plant market
+
+
+## Aditya Birla Capital Q1 profit rises 40% to ₹1,175 crore
+Consolidated total income grew to ₹12,187 crore in the April-June period, from ₹9,531 crore in the year-ago period
 
 ## Onion, oil or chicken: What made your thali costlier in July
 In July, the prices for home-cooked thalis surged compared to the previous year, with vegetarian options increasing by four percent and non-vegetarian increasing by nine percent. The rise in costs was driven by expensive onions, vegetable oil, and LPG for vegetarian meals, while non-vegetarian thali
@@ -240,6 +240,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
+New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
+
+## Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial
+The Bundibugyo epidemic, ​the world's second-largest, has been described as the ⁠fastest-spreading on record.
+
+## Can diplomacy end the conflict in Libya?
+The country has been divided since 2014, with rival governments in the east and west.
+
+## US appeals court upholds injunction pausing Trump’s White House ballroom
+The two-judge majority underscored that the president needed congressional authority to move forward with his plans.
+
+## Contaminated water putting Gaza families at risk
+Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.
+
 ## DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
 ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.
 
@@ -248,21 +263,6 @@ Ukraine continues to strike warehouses and logistics hubs run by Wildberries, wh
 
 ## Inside the results: How redistricting shaped Tennessee’s primary election
 Tennessee's party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.
-
-## New Delhi on red alert as heavy rains pound the city
-Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.
-
-## Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested
-Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.
-
-## Hun Manet is refining Cambodia’s authoritarian model
-The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.
-
-## War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
-Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.
-
-## US labour market sheds jobs in July as labour force participation slumps
-US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
