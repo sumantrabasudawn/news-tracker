@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## US economy unexpectedly sheds 23,000 jobs in July
+Lacklustre figure prompts traders to scale back bets on Fed rate rises
+
 ## Trump revives threat to sack Fed governor Lisa Cook
 Move comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved
 
@@ -8,9 +11,6 @@ Prime Minister returns from holiday next week with plans to visit every region
 
 ## Passing the Clarity Act on digital assets is a matter of national security
 If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues
-
-## US economy unexpectedly sheds 23,000 jobs in July
-Lacklustre figure prompts traders to scale back bets on Fed rate rises
 
 ## Cambridge university to review appointments process after Jason Arday affair
 Elite institution’s youngest-ever Black professor resigned this week following allegations of plagiarism
@@ -23,6 +23,9 @@ What conclusions should Democrats draw from Abdul El-Sayed’s narrow win in the
 
 ## Will Farage’s gamble pay off?
 On the ground in Clacton; plus, what Badenoch’s backing for a former neo-Nazi says about her leadership style
+
+## Mike Ashley says Harvey Nichols is in a ‘death spiral’
+Sports Direct founder casts doubt over department store chain’s prospects even as he vies to acquire it
 
 ## Taming AI’s wild frontier
 The most advanced systems are evolving faster than efforts to keep them safe
@@ -45,32 +48,29 @@ Chancellor holds emergency national security meeting as investigators examine �
 ## Exxon nears peak impunity on climate obligations
 Oil major’s move against the EU’s carbon storage rules is odd
 
-## Watchdog moves to stop Aldi and Lidl blocking rival UK store openings
-CMA proposes changes to clamp down on discounters’ use of anti-competitive property covenants
+## Sun Pharma posts higher quarterly profit on strong demand
+Consolidated net profit in Q1 rises to ₹2,895 crore ($303.54 million) from ₹2,279 crore a year earlier
 
-## Nifty Prediction Today – July 29, 2026: Nifty futures: Gap-up sustaining, traders can buy
-Nifty futures (Aug) can rally to 24,370 and subsequently to 24,450
+## Parliament gets its own street play as Pappu Yadav turns ‘sadhu’
+Dressed as a saffron-clad sadhu, the Purnia MP targeted the BJP over alleged Ayodhya temple donation irregularities in a dramatic protest.
 
-## Trump dials back Iran threats, hosts Netanyahu at White House
-A spokesman said Netanyahu, in Washington for the funeral of longtime Iran hawk Senator Lindsey Graham, had an “excellent” meeting with Trump and backs whatever path Trump decides to pursue with Tehran
+## Medical tourism brought 18.11 lakh foreign nationals to India during 2023-25: Govt
+Minister of State for Health and Family Welfare Anupriya Patel says India’s medical tourism sector is ‘rapidly growing’ and has ‘immense global potential’
 
-## Crude oil futures jump after US-Saudi strikes on Iran-backed targets
-With Saudi oil infrastructure increasingly targeted, the risk of more prolonged supply disruptions grows
+## Broker’s call: Sunteck Realty (Buy)
+Investec
 
-## OpenAI models compromised a customer at a second tech firm
-Hugging Face had said in an earlier blog post that the OpenAI system broke into a sandbox that was being hosted on a third-party provider’s infrastructure and then launched a broader attack from there
+## Births and Deaths (Amendment) Bill, 2026, passed in LS amid protests over police crackdown
+Parliamentary Affairs Minister Kiren Rijiju expresses displeasure over the Opposition's refusal to participate in the debate, saying the government wanted a discussion on the "important Bill"
 
-## L&T profit up 14% at ₹4,123 crore, lifted by performance of energy, realty businesses
-Company confident of winning more orders from West Asia
+## Emerge Renewables commissions new solar glass plant in Rajasthan
+The facility has a manufacturing capacity of 300 tonnes per day
 
-## Rupee rises 5 paise to 95.77 against US dollar in early trade
-At the interbank foreign exchange, the rupee opened at 95.70 and slipped to 95.77 against the greenback, registering a gain of 5 paise from its previous close
+## TASMAC scam case: Supreme Court stays FIR against DMK’s Senthil Balaji
+Issues notice to Tamil Nadu government on his plea challenging the Madras High Court’s refusal to grant him anticipatory bail in the alleged TASMAC scam case.
 
-## Gift Nifty signals positive opening; markets await US Fed decision despite West Asia tensions
-Strong industrial growth and healthy earnings support market sentiment, but investors remain focused on the US Fed policy outcome, crude oil prices and geopolitical developments before taking fresh positions
-
-## Manipal Health IPO opens today; Here’s what brokerages say
-After raising ₹4,167 crore from anchor investors, the healthcare major opens its IPO amid focus on valuation and growth prospects.
+## US appeals court blocks Trump’s $400 million White House ballroom project
+A federal appeals court has paused a high-profile White House construction project, setting up another major constitutional battle over presidential authority.
 
 ## Onion, oil or chicken: What made your thali costlier in July
 In July, the prices for home-cooked thalis surged compared to the previous year, with vegetarian options increasing by four percent and non-vegetarian increasing by nine percent. The rise in costs was driven by expensive onions, vegetable oil, and LPG for vegetarian meals, while non-vegetarian thali
@@ -144,6 +144,12 @@ China’s central state-owned enterprises (SOEs) are consolidating scattered ove
 ## Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push
 Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion. Supporting the outlook, Beijing – which has added to its gold reserve for 20 straight mon
 
+## The Middle East Tries Its Hand at a NATO-Style Pact
+Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
+
+## Why China’s Elites Still Want to Leave
+Social callousness pushes even the prosperous to seek new lives overseas.
+
 ## The Straits Are Not OK
 After Hormuz, global waterways will return to being sites of bloody contention.
 
@@ -161,12 +167,6 @@ Any level of Iranian control would mark a major geopolitical shift in Tehran’s
 
 ## What Everyone Is Missing About Ceuta
 The history of the disputed exclave should inform what Spain does next.
-
-## China’s AI Acceleration
-Washington isn’t sure how to counter Chinese technological advancements.
-
-## Why Israel’s Upcoming Election Might Be Its Most Pivotal
-Benjamin Netanyahu’s reelection as prime minister would hasten the illiberal drift.
 
 ## India’s Climate Stress and the Solar Power Paradox
 Rising demand will keep coal the backbone of India’s power grid in the coming years. This buys time for executing an energy transition, if India can see through its plans.
@@ -240,6 +240,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
+ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.
+
 ## Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
 Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.
 
@@ -260,9 +263,6 @@ Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecc
 
 ## US labour market sheds jobs in July as labour force participation slumps
 US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.
-
-## Saudi Arabia, Pakistan, Turkiye defence pact challenges US role
-Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
