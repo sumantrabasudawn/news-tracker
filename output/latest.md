@@ -39,29 +39,32 @@ CMA proposes changes to clamp down on discounters’ use of anti-competitive pro
 ## FirstFT: All eyes on the US jobs market
 Also in today’s newsletter: Jane Street debt discussions and the latest cutting-edge Chinese AI model
 
-## Editorial. Timely support
-MSME Act amendments can aid timely payments
+## Nifty Prediction Today – July 29, 2026: Nifty futures: Gap-up sustaining, traders can buy
+Nifty futures (Aug) can rally to 24,370 and subsequently to 24,450
 
-## Letters to the Editor dated August 7, 2026
+## Trump dials back Iran threats, hosts Netanyahu at White House
+A spokesman said Netanyahu, in Washington for the funeral of longtime Iran hawk Senator Lindsey Graham, had an “excellent” meeting with Trump and backs whatever path Trump decides to pursue with Tehran
 
+## Crude oil futures jump after US-Saudi strikes on Iran-backed targets
+With Saudi oil infrastructure increasingly targeted, the risk of more prolonged supply disruptions grows
 
-## Pocket
+## OpenAI models compromised a customer at a second tech firm
+Hugging Face had said in an earlier blog post that the OpenAI system broke into a sandbox that was being hosted on a third-party provider’s infrastructure and then launched a broader attack from there
 
+## L&T profit up 14% at ₹4,123 crore, lifted by performance of energy, realty businesses
+Company confident of winning more orders from West Asia
 
-## Monsoon poised for fresh surge, riding on twin low-pressure areas
-Though separated by thousands of kilometres, emerging Indian Ocean Dipole and a massive El Nino might be interacting through atmospheric teleconnections, reshaping rainfall patterns
+## Rupee rises 5 paise to 95.77 against US dollar in early trade
+At the interbank foreign exchange, the rupee opened at 95.70 and slipped to 95.77 against the greenback, registering a gain of 5 paise from its previous close
 
-## Top five States account for 54% of Jan Dhan beneficiaries; SBI leads in accounts
-The latest data highlights regional concentration in banking access while showing improving account quality and stronger participation by public sector banks
+## Gift Nifty signals positive opening; markets await US Fed decision despite West Asia tensions
+Strong industrial growth and healthy earnings support market sentiment, but investors remain focused on the US Fed policy outcome, crude oil prices and geopolitical developments before taking fresh positions
 
-## Q1 Results Today Highlights: SBI, Titan, Hindalco, Hitachi Energy, Oil India and PFC post profit growth; Ola Electric, BEML losses narrow; HGS slips into loss
-Q1 Results Today, 07th August 2026 Highlights: Follow Q1FY27 live updates from businessline
+## Manipal Health IPO opens today; Here’s what brokerages say
+After raising ₹4,167 crore from anchor investors, the healthcare major opens its IPO amid focus on valuation and growth prospects.
 
-## NBFC credit rises 14.4% in June 2026, led by retail lending
-Housing loans increased 11.4 per cent to ₹8.44 lakh crore, while vehicle loans rose 15.2% to ₹6.24 lakh crore, highlighting steady consumer demand
-
-## AI to power GST reforms, boost revenue: Telangana CM Revanth Reddy
-The State government was planning to introduce an AI-enabled system to simplify processes for GST officials while helping identify tax leakages and enhance revenue mobilisation
+## Onion, oil or chicken: What made your thali costlier in July
+In July, the prices for home-cooked thalis surged compared to the previous year, with vegetarian options increasing by four percent and non-vegetarian increasing by nine percent. The rise in costs was driven by expensive onions, vegetable oil, and LPG for vegetarian meals, while non-vegetarian thali
 
 ## More hirings than firings: Nomura report tests ‘ground zero’; says AI creating more jobs in India than cuts
 According to the report by Nomura Holdings Inc, AI-driven recruitment continues to be more than job losses in the country. Given the country's vast workforce, India is experiencing the "largest absolute impact" of AI across layoffs, hiring freezes and recruitment.
@@ -84,8 +87,8 @@ India's investor community is witnessing remarkable transformation, with a young
 ## Why stock market's close is now an auction - explained
 For over three decades, the closing price was the volume-weighted average (VWAP) of all trades between 3:00 pm and 3:30 pm. Nobody actually traded at that price. It was a calculation, not a transaction. For long-term investors, nothing changes. For index funds and traders, the closing routine is now
 
-## Gold price prediction: Buy on dips the right strategy for gold right now? Check August 7, 2026 outlook
-MCX Gold October futures continue to trade with a positive bias as prices remain well supported above key moving averages despite witnessing intermittent profit booking. The overall trend remains constructive, with higher highs and higher lows indicating sustained buying interest.
+## Indian-origin doctor seeking Trump pardon gave $1 million to MAGA fund
+Krishna Tripuraneni, who served prison time for tax fraud, donated $1 million to Trump’s MAGA Inc fund while seeking a presidential pardon.
 
 ## MHA proposes higher rank officers for cybercrime probes under IT Act
 MHA has proposed an IT Act amendment to ensure cybercrime cases are investigated by police officers above inspector rank, following a panel recommendation.
@@ -102,14 +105,11 @@ The Congress leader said the party would take up the issue aggressively and clai
 ## BJP MP to propose bills seeking age checks for children, curbs on AI deepfakes
 The proposed Bills seek parental consent for children under 13 on social media and penalties for misuse of AI-generated deepfakes.
 
-## 'Rude wake-up call': Shashi Tharoor on Pradhan's resignation over NEET paper leak protests
-Tharoor said the resignation of Dharmendra Pradhan as education minister marked an unusual moment for the ruling government.
+## 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir, Prashant Kishor's victory
+Tharoor said the growing engagement of Gen Z and Gen Alpha with political issues reflected a changing landscape that parties could not ignore.
 
 ## 'Does SC want everyone to take bullets?': Abhijeet Dipke on top court's 'fear eggs' remark to Mahua
 Dipke slammed the Supreme Court over its remarks during the hearing of Mahua Moitra's plea to join police interrogation via video conference.
-
-## Airline technical defects hit five-year high in 2025: Govt data
-In a written reply, minister of state for civil aviation Murlidhar Mohol said 889 significant technical defects were reported during flight operations in 2025
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
 A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
+Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.
+
+## US labour market sheds jobs in July as labour force participation slumps
+US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.
+
+## Saudi Arabia, Pakistan, Turkiye defence pact challenges US role
+Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment
+
 ## Italy vows to maintain border checks despite Spain’s countermeasures threat
 Madrid warns of 'proportional measures' if Rome does not put an end to checks amid fallout from Ceuta migrant crisis.
 
@@ -245,15 +254,6 @@ A young deaf migrant in Spain prepares for an emotional reunion with his family 
 
 ## Diego Maradona bloated, bedridden and resigned before death, says masseur
 Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.
-
-## Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?
-Pact will 'reshape security architecture' of the region, experts say.
-
-## Russia drops record number of glide bombs on Ukraine as casualties pile up
-Moscow's troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.
-
-## Armenian Apostolic Church leader faces trial as feud with PM deepens
-Catholicos Karekin II and six other clerics are accused of failing to reinstate a bishop who was defrocked.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
