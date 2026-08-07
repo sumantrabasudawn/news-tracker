@@ -1,63 +1,69 @@
 # AION Intelligence
 
-## US euro sale to prop up yen blindsided ECB
-Christine Lagarde and Scott Bessent spoke only after Washington’s historic intervention
+## FirstFT: Google shakes up AI leadership
+Also in today’s newsletter: ECB yen shock and UK tuition fees
 
-## Airtel to list its $10bn Africa finance business in London
-Also in this newsletter: Indian government sells stake in LIC
+## Revisiting our estimates for Japan’s neutral rate
+Research suggests the rate has moved up slightly in the past few years
 
-## Why Modi’s economic model is not working for India’s youth
-Protests reflect deep frustration with poor job prospects and government mis-steps
+## Big Law’s new private equity era
+Top law firms are exploring ways they may be able to take outside capital
 
-## Alibaba’s latest AI model puts it back in the great game
-The ecommerce and cloud company hopes to recoup some of its lost shine with Monday’s release
+## ‘I’ll support him all the way’: Clacton voters rally to Farage despite scrutiny
+Reform UK leader forecast to comfortably win by-election in Essex seat even as national approval ratings plunge
 
-## Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside
-Silicon Valley parent consolidates control as the London lab’s scientific culture gives way to urgency to build AI products
+## Britain’s incoming CEOs enjoy the ‘new boss bounce’
+Clutch of newly-minted chief executives tasked with reviving FTSE 100 stalwarts are winning shareholder approval
 
-## Rail users face further disruption after Manchester power cut
-Hundreds of trains were cancelled in north-west England after a 90-second outage at a critical train signalling centre
+## ‘It’s now or never.’ Is the EU serious about letting in new members?
+Candidate countries hope for progress after years of inaction, but some in Brussels are still uncertain about enlargement
 
-## Mexico deploys hundreds of troops to secure avocado heartlands
-Violence in Michoacán state prompts US to withdraw its inspectors and suspends imports of the fruit
+## Yen intervention illustrates the dangers of monetary experiments
+Tokyo and Washington’s desire to maintain stability may be creating long-term danger
 
-## FirstFT: US scientists use AI to create first synthetic viruses
-Also in today’s newsletter: Jane Street in talks to refinance $11bn debt load and SoftBank beats analysts’ expectations
+## Youngkin’s swing-state school campaign fuels White House speculation
+Billionaire mega-donor Thomas Peterffy backs former Republican governor of Virginia for presidential run in 2028
 
-## Jane Street in talks to shift its $11bn in debt to investors including Pimco
-Private credit deal would allow the secretive trading firm to make further investments in AI
+## ByteDance targets mega AI model nearing Anthropic’s Mythos
+TikTok owner training a model three times larger than Moonshot’s Kimi K3
 
-## Honeywell Aerospace shares plunge on failure to overcome supply snarls
-Group slashes outlook as bottlenecks limit ability to convert strong demand for advanced parts into sales
+## Refining crunch keeps fuel prices high as crude retreats
+Lost capacity in Russia and the Gulf is a boon to US refiners but a political problem for Donald Trump
 
-## Argentine company accuses US of meddling in Huawei project
-Incident underscores duelling pressures on rightwing president Javier Milei from Washington and Beijing
+## Naval parts supplier Goodwin explores sale of defence business
+London-listed supplier to UK and US nuclear submarines has received bids from buyout firms
 
-## Sensex today | Stock Market Live: Gift Nifty signals muted start amid rising oil prices; Q1 earnings to stay in focus
-Sensex, Nifty, Share Prices Live: GIFT Nifty futures were ​at 24,653 points, as of 7:50 am ⁠IST, indicating a muted start for the Nifty 50, which closed at 24,636 on Thursday.
+## Billionaire’s financial data group Ion chased by landlords for overdue rent
+Group behind Dealogic and Mergermarket made late payments on offices in Sydney, Munich and Connecticut
 
-## Alibaba plans to charge big users of its next open-source AI model, sources say
-The plans show Chinese AI firms, ​which have shocked markets by releasing open-source models ‌nearly as capable as those from OpenAI and Anthropic, are converging on a business model as they push to take market share from their US rivals
+## ByteDance targets mega AI model nearing Anthropic’s Mythos, FT reports
 
-## Tewolde Gebremariam: A proven navigator
-Air India looks up to crisis-tested new CEO Tewolde Gebremariam to take it out of turbulence
 
-## Truck rentals hold steady in July as logistics sector eyes festive demand: Shriram Mobility Bulletin
-Steady freight rates across key routes signal resilience, with the logistics sector pinning hopes on festive season cargo demand.
+## Sensex today | Stock Market Live: Sensex down 350 pts, Nifty slips below 24,600; TCS leads gainers; Bajaj Finance falls 4.5%
+Sensex, Nifty, Share Prices Live: Benchmark indices opened ​lower on Friday, weighed down by ‌heavyweight financial stocks and ​rising oil prices amid ⁠concerns over the reopening of the Strait of Hormuz, while quarterly ‌earnings drove stock-specific moves.
 
-## Asian shares pause for US jobs, oil extends gains on Mideast risk
-After ‌bouts ⁠of volatility sparked by concerns over the durability of the AI-driven rally, investors ⁠are now squarely focused on the U.S. payrolls report due later in the day, which could prove crucial for the interest-rate outlook.
+## Q1 Results Today Live: SBI, Titan, Hindalco, Hitachi Energy, PFC, Godrej Consumer, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results, LIC, Hero Motocorp, Britannia, Siemens Energy, Muthoot Microfin shares gain, Trent, Premier Energies decline after Q1
+Q1 Results Today, 07th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Gold heads for biggest weekly gain since January ahead of US jobs data
-Spot gold was up 0.4% at $4,254.11 per ounce, after ‌hitting a seven-week high in the previous session. Prices were ‌up ⁠over 5% for the week.
+## Office assets lead real estate investments across APAC and India in H1 2026, accounting for over 40% of total inflows in India: Colliers
+Office assets lead real estate investments across APAC and India in H1 2026, accounting for over 40% of total inflows in India: Colliers
 
-## Sensex, Nifty on track for muted start amid rising oil prices; Q1 earnings, US-Iran war in focus
-GIFT Nifty futures were ​at 24,653 points, as of 7:50 am, indicating a muted start for the Nifty 50, which closed at 24,636 on Thursday.
+## Tamil Nadu govt to move resolution urging Centre for fair devolution of taxes
+The TVK-led government will also demand that States’ achievements in population stabilisation and human development do not place them at a comparative disadvantage
 
-## OpenAI’s new device will be hockey puck-sized and cost over $300
-The product — essentially a smart speaker without a display — will be shaped like a doughnut that’s roughly the size of a hockey puck. The idea is to make the device easy to carry around the home with one hand.
+## Center reduces takedown timeline for unlawful content to three hours
+Intermediaries are also required to ensure clear labelling and traceable metadata for permissible AI-generated content, so that users can easily identify synthetically generated material and prevent deception or misuse
 
-## Stock Market Today Live Updates: Where are BSE Sensex and NSE Nifty50 headed today? Oil prices, global cues and more in focus
+## Tamil Nadu seeks public suggestions to boost State revenues
+The State has launched a public consultation to gather ideas for strengthening revenue mobilisation, fiscal efficiency and long-term financial sustainability
+
+## Nifty prediction today – August 7, 2026: Nifty futures: Support holds
+But we suggest buying Nifty futures (Aug) only on a breakout of 24,750
+
+## Will you have to pay to use UPI? FM Sitharaman clarifies who bears MDR
+In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI transaction charges will be applicable to merchants rather than customers. She explained that any Merchant Discount Rate (MDR) imposed would be instrumental in enhancing the digital payment ecosystem. Following the passag
+
+## Stock market today: BSE Sensex tumbles over 300 points, Nifty50 opens below 24,600
 
 
 ## Bankers unaware, government timed LIC stake sale to max receipts
@@ -78,32 +84,29 @@ The product — essentially a smart speaker without a display — will be shaped
 ## Next budget may see lowering of customs duties: FM
 
 
-## Tata Sons stays, 4 more PSUs enter NBFC upper layer
+## Watch | Farm well in Gujarat Morbi making waves, literally. Experts have an answer
+While videos of waves in a well in Gujarat's Morbi has left people stunned, authorities believe there may be a scientific explanation behind the bizarre sight.
 
+## Paper leak ‘more heinous than murder’: HC denies bail to ex-IAS officer in CGPSC case
+Jeevan Kishore Dhruv, who was serving as secretary of the CGPSC when the alleged irregularities took place during the 2020-2022 recruitment process, was arrested by the CBI in September 2025
 
-## ₹23k-cr plan to boost compressed biogas production gets cabinet nod
-The Union Cabinet on Thursday approved a ₹23,731 crore national scheme to accelerate domestic Compressed Biogas (CBG) production, strengthen energy security and promote rural livelihoods by converting organic waste into clean fuel
+## ‘No one has seen us in same room’: Rahul Gandhi's cheeky AMA response to ‘are you Batman’ question
+Rahul Gandhi was asked who his favourite politician is from BJP, to which he just it was Capt Amrinder Singh. “I get along with him, he's cool,” Gandhi said.
 
-## FCRA bill debate likely on Aug 12: Mizoram CM
-Mizoram chief minister Lalduhoma met Union home minister Amit Shah on Thursday to discuss the concerns of church representatives about the proposed Foreign Contribution (Regulation) Amendment Bill, 2026, saying later that he was assured that the legislation will not apply retrospectively
+## Andhra recorded six-fold hike in FDI in last 2 yrs, says Naidu govt
+Andhra Pradesh has witnessed a sharp six-fold increase in foreign direct investment (FDI) in the last two years of the Telugu Desam Party-led coalition government, compared to the previous YSR Congress Party regime, an official statement said on Thursday, citing the data tabled in Lok Sabha
 
-## Trump confronted Hegseth over weapons shortage due to Iran war? US president reacts
-Trump said that the United States has an abundant supply of munitions. He also warned that those spreading claims about shortages could face prison.
+## Kavitha announces nationwide movement for legislative bodies’ 50% BC quota
+Telangana Rakshana Sena (TRS) president and former MP Kalvakuntla Kavitha on Thursday announced the launch of a nationwide movement for securing 50% reservations for other backward classes (OBCs) in legislative bodies
 
-## SC hopeful of settlement in Sunjay Kapur family inheritance row
-The Supreme Court on Thursday recorded that mediation in the high-stakes inheritance dispute within the family of late businessman Sunjay Kapur was progressing satisfactorily and that the warring factions had agreed to explore the possibility of “crystallising a holistic settlement of their claims”,
+## Andhra cabinet decides to withdraw Disha Bill
+The Andhra Pradesh cabinet, chaired by chief minister N Chandrababu Naidu, on Thursday decided to withdraw the “Disha Bill” brought in by the previous YSR Congress Party government to ensure speedy investigation and trial of crimes against women and children
 
-## Supreme Court hopeful of settlement in Sunjay Kapur case: 'Parties cooperating'
-Mediation in the high-stakes inheritance dispute within late businessman Sunjay Kapur's family was progressing satisfactorily, the Supreme Court said.
+## TN unveils ₹58k-cr agriculture budget, focus on El Nino impact
+Anticipating 12 districts to be affected due to the Super El Nino phenomenon in the current year, Tamil Nadu has developed a district agricultural contingency plan, state minister R Vinoth said on Thursday, while presenting the ₹58,374
 
-## 57,000 names to be dropped from Bengal housing scheme beneficiaries list after SIR
-At least 57,000 names will be removed from the list of beneficiaries of Awas Yojana because they were already struck off from the electoral rolls during SIR.
-
-## Bengal govt reaches out to Tata Group, seeks to resolve ₹765.78 crore compensation dispute over Singur
-The BJP-led Bengal government initiated talks to set up new industries and resolve a dispute over compensation of ₹765.78 crore that previous govt didn't pay.
-
-## Supreme Court denies Asaram bail on medical grounds, but allows 24x7 caretaker inside jail
-SC denied interim bail to Asaram, serving a life sentence for sexual assault on a minor, citing medical grounds while permitting a caretaker for assistance.
+## Kiren Rijiju calls Rahul Gandhi in new bid to end logjam
+The union government on Thursday made a fresh attempt to break the ongoing deadlock in Parliament with parliamentary affairs minister Kiren Rijiju reaching out to Leader of the Opposition in Lok Sabha, Rahul Gandhi, on Thursday, and to extend support for the delimitation bill.
 
 ## Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs
 China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as the preferred base amid a broader crackdown on outflows of state cash. Decades of overseas expansion had seen many SOEs build up assets in multiple juri
@@ -225,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Record-high heat soars through South Korea
+A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.
+
+## Turkiye’s Erdogan visits Saudi Arabia: What to expect
+Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.
+
+## One killed, four injured in Thailand school shooting, officials say
+Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.
+
+## Anti-Muslim US Congressman Andy Ogles loses Republican primary
+Trump's endorsement fails to save Tennessee legislator who recently said 'Muslims don't belong in American society'.
+
+## AI used to create viruses not found in nature for first time
+US researchers say they created 16 viruses using AI, prompting hopes for medical advances and concerns about misuse.
+
 ## More than one million affected by floods in India’s Assam state
 Thousands of people in India have been displaced since July after monsoon rains triggered severe flooding.
 
@@ -234,20 +252,8 @@ Nigerian security forces have rescued 308 people abducted in separate attacks in
 ## Israeli raid in West Bank’s Qalandiya injures 51 Palestinians
 Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.
 
-## New Mexico court orders Meta to pay $567m over harm to youths
-The ruling comes in the second phase of a landmark trial, with the Instagram, Facebook owner also losing in March.
-
-## Brazil formally accuses 16 people over 2024 Voepass deadly plane crash
-Official says plane was irregularly cleared for departure before crash that killed 62 people outside Sao Paulo.
-
-## Police in Argentina use tear gas to stop protesters
-Al Jazeera’s Teresa Bo reports from Buenos Aires, where police fired tear gas as thousands protested.
-
-## Do you know who owns the media you watch?
-Today, a total of 6 companies own 90% of the American media market.
-
-## After the floods, hunger: Mozambique’s second disaster
-Lost harvests and disrupted supply routes have pushed many families deeper into food insecurity.
+## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
+This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
@@ -269,9 +275,6 @@ A parliamentary committee proposed limiting the National Financial Reporting Aut
 
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
-
-## Global FMCG majors bullish on India, to step up investments to accelerate retail presence
-Global consumer goods majors such as Mondelez International, L'Oreal, Reckitt, Unilever, Nestle and The Coca-Cola Company see India as a key growth market and a major driver of future growth.
 
 ## Govt mandates exporter registration for FDI-backed ecommerce inventory exports
 Foreign-invested ecommerce firms must register as exporter-on-record for export inventory. These companies can only procure and stock goods against confirmed export orders. Speculative stockpiling for future outbound shipping will not be allowed by the government. Indian sellers can access overseas 
