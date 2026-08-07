@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## The Manchester roots of Andy Burnham’s skills revolution
+An early political dividing line on technical education risks obscuring the case for which he has long argued
+
+## DR Congo launches probe into uranium-contaminated cobalt exports
+Government measures triggered by FT and Lighthouse Reports investigation
+
+## Submit your questions: Is this summer our new normal?
+Take part in a live Ask an Expert Q&A with business columnist Pilita Clark and climate correspondent Attracta Mooney at 1pm (BST) on Thursday August 13
+
+## Tories vow to ban foreign nationals from accessing UK social housing
+Party leader Kemi Badenoch pledges to implement policy if she forms next government as she tries to outflank Reform
+
 ## US euro sale to prop up yen blindsided ECB
 Christine Lagarde and Scott Bessent spoke only after Washington’s historic intervention
 
@@ -12,17 +24,8 @@ Maybe not as high as you think
 ## FirstFT: Google shakes up AI leadership
 Also in today’s newsletter: ECB yen shock and UK tuition fees
 
-## Revisiting our estimates for Japan’s neutral rate
-Research suggests the rate has moved up slightly in the past few years
-
-## Big Law’s new private equity era
-Top law firms are exploring ways they may be able to take outside capital
-
-## ‘I’ll support him all the way’: Clacton voters rally to Farage despite scrutiny
-Reform UK leader forecast to comfortably win by-election in Essex seat even as national approval ratings plunge
-
-## Britain’s incoming CEOs enjoy the ‘new boss bounce’
-Clutch of newly-minted chief executives tasked with reviving FTSE 100 stalwarts are winning shareholder approval
+## Dreadnought supplier Goodwin explores sale of defence business
+London-listed supplier to UK and US nuclear submarines has received bids from buyout firms
 
 ## Atlassian shakes off ‘SaaSpocalypse’ as chief vows to spend $250mn buying shares
 Mike Cannon-Brookes’ move comes as shares in Australian software company soar on strong quarterly sales
@@ -30,35 +33,41 @@ Mike Cannon-Brookes’ move comes as shares in Australian software company soar 
 ## ByteDance targets mega AI model nearing Anthropic’s Mythos
 TikTok owner training a model three times larger than Moonshot’s Kimi K3
 
+## Revisiting our estimates for Japan’s neutral rate
+Research suggests the rate has moved up slightly in the past few years
+
+## Big Law’s new private equity era
+Top law firms are exploring ways they may be able to take outside capital
+
+## Britain’s incoming CEOs enjoy the ‘new boss bounce’
+Clutch of newly-minted chief executives tasked with reviving FTSE 100 stalwarts are winning shareholder approval
+
 ## Refining crunch keeps fuel prices high as crude retreats
 Lost capacity in Russia and the Gulf is a boon to US refiners but a political problem for Donald Trump
 
-## Dreadnought supplier Goodwin explores sale of defence business
-London-listed supplier to UK and US nuclear submarines has received bids from buyout firms
+## US Ambassador Sergio Gor meets key industry leaders to advance US-India collaborations
+Ambassador Gor’s talks with industry leaders emphasise collaboration in advanced manufacturing and critical minerals, aiming to strengthen strategic partnerships and drive sustainable innovation
 
-## Trent shares fall 3% despite Q1 beat as analysts diverge on growth outlook
-Sell orders outnumber buys by nearly two to one, with 66 per cent of order flow on the sell side
+## Premier Energies Q1 profit jumps 53% to ₹472 crore
+Premier Energies’ first quarter profit for FY27, jumps over 53% to ₹472 crore; the company had reported a net profit of ₹307.8 crore in the first quarter of preceding 2025-26 fiscal
 
-## Chavda Infra shareholders approve 1:1 bonus issuance
-The Board of Directors also approved an increase in the company’s authorised share capital from ₹35 crore to ₹70 crore
-
-## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty slips to 24,560; Siemens Energy soars 13%, Bajaj Finance tanks 5.5%
-Sensex, Nifty, Share Prices Live: Markets remained under pressure through mid-session on Friday. Both indices opened gap-down and have struggled to recover, with selling pressure concentrated in financial stocks even as information technology continued to provide support.
-
-## HarperCollins Publishers to publish Dr Sylvia Karpagam's new book about the politics of food
-HarperCollins Publishers to publish Dr Sylvia Karpagam's new book about the politics of food
-
-## What’s driving Gold above $4,200? Fed bets & West Asia hopes drive rally
-Spot gold was at $4,262.39 per ounce, up 0.60%, while MCX gold was around ₹1,31,850 per 10 grams; Silver increased 1.30% to $62.20 per ounce
-
-## Q1 Results Today Live: BEML loss narrows in Q1, Godrej Consumer con. PAT up 11.5%, ixigo shares tank after Q1, SBI, Titan, Hindalco, Hitachi Energy, PFC, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
+## Q1 Results Today Live: Hindalco Q1 PAT zooms, SBI profit rises 10.2%, BEML loss narrows in Q1, Titan, Hitachi Energy, PFC, Oil India, NLC, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
 Q1 Results Today, 07th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## F&O Query: Analysis of BSE futures
+## Lupin Q1 PAT rises 16% at ₹1,417 cr
+Consolidated total revenue from operations in the first quarter was at ₹8,276.89 crore, as against ₹6,268.34 crore in the year-ago period
 
+## Andhra to procure 1,600 MW thermal power through competitive bidding
+The bidding process will be conducted on the basis of the standard Request for Qualification (RfQ), Request for Proposal (RfP) and Power Supply Agreement (PSA) documents notified by the Union Ministry of Power
 
-## Britannia shares rise 2% after Q1 results; analysts mixed on margin miss
-The stock opened at ₹5,502.50 against the previous close of ₹5,404, with traded volume crossing 10.41 lakh shares by early afternoon.
+## Crop loss due to rain nears ₹100 crore; Kerala seeks ₹110 crore central aid
+Agriculture Minister T Siddique said soil testing facilities would be established across flood-affected areas in the state to assess nutrient depletion
+
+## FSSAI won't ease 'energy drink' label deadline, unnerving companies, sources say
+ndia's energy drinks retail sales are growing 12.6% annually, faster than in the ⁠United States and China
+
+## Gold futures rise to Rs 1.50 lakh/10 gm on spot demand
+Gold prices on Friday rose by 0.85% per 10 grams in futures trade as speculators created fresh positions on a firm spot demand
 
 ## Gold price prediction: Buy on dips the right strategy for gold right now? Check August 7, 2026 outlook
 MCX Gold October futures continue to trade with a positive bias as prices remain well supported above key moving averages despite witnessing intermittent profit booking. The overall trend remains constructive, with higher highs and higher lows indicating sustained buying interest.
@@ -84,29 +93,32 @@ In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI t
 ## Options volumes down over 50% on stricter rules: Sebi
 
 
-## Sena councillor gets bail in assault case, directed to stay out of Maharashtra
-The court said the probe was nearing completion, and the accused could not be kept behind bars indefinitely, while transferring the case to a fast-track court
+## Massive sinkhole in Ludhiana triggers house evacuation, traffic chaos | Watch
+A massive sinkhole, several feet deep, appeared on a road, prompting local administration to immediately evacuatethe adjacent house and halt traffic.
 
-## ‘Ready to face insults’: Tamil Nadu CM Vijay amid face-off with Udhayanidhi over Cauvery dispute
-CM Vijay said he was "prepared to bear insults" if it meant opening talks on the Cauvery issue in the interest of the people of Tamil Nadu.
+## Defence ministry issues Independence Day invites with Vande Mataram lyrics
+The 77th Republic Day celebrations were organised around the theme of Vande Mataram, marking 150 years of the song
 
-## The deal was made 4 decades ago, the latest appeal just got over: Supreme Court draws the curtain on Bofors 'scandal'
-Supreme Court's dismissal of an appeal shuts the last legal door on a 40-year prosecution, which began after a Swedish Radio raised allegations in April 1987.
+## Tamil Nadu CM Vijay urges PM Modi to implement project linking 3 major rivers
+The chief minister suggested consider establishing a dedicated special purpose vehicle (SPV) for a coordinated and time-bound execution.
 
-## Decade-long push empowered Arunachal's handloom sector: CM
-Decade-long push empowered Arunachal's handloom sector: CM
+## Banbasa station in Uttarakhand to get Achhnera-Tanakpur Express halt after rail ministry nod
+The Union Railways Ministry has approved a regular halt for the Achhnera-Tanakpur Express at Banbasa station in Uttarakhand, enhancing connectivity.
 
-## Vehicles torched, stones pelted as violence breaks out in Patna over man's death in road accident
-Patna Police said a the victim died while crossing the road when he was hit by a car.
+## Karnataka legislative council chairman Basavaraj Horatti resigns, says 'don't know why Congress asked me to leave'
+Speaking to reporters, the leader said he does not know why Congress asked him to tender his resignation
 
-## Heavy rain alert across India as incessant downpour hits Delhi, Kerala, other states; Check IMD forecast
-The IMD issued heavy rain alert across several states, including Uttarakhand, Odisha, Bihar, Haryana and Tamil Nadu.
+## 3 NTA experts named in CBI's NEET paper leak probe chargesheet, may face life term if proven guilty
+The chargesheet names Manisha Gurunath Mandhare, Prahalad Kulkarni and Manisha Sanjay Havaldar.
 
-## ‘For cheap publicity’: SC junks plea for criminal probe against Justice Varma
-The court declined to entertain the plea for registration of an FIR over the alleged recovery of cash from Justice Varma’s official residence in 2025
+## ‘Good to see our concerns being heard’: Students respond to Mohan Bhagwat’s Gen Z outreach
+While a section has welcomed Mohan Bhagwat's backing of youngsters, others feel there are issues that still need clear answers.
 
-## Scientifically Speaking: The killer hiding in plain sight
-For more than a century, botanists collected an alpine flower with dead insects still attached. A new study has finally shown that the plant was eating them.
+## WhatsApp groups, photographs, Telegram: The digital trail that led to NEET UG paper leak
+Before reaching candidates, the confidential material went through subject experts, private brokers and operators, according to the probe by CBI.
+
+## Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?
+The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh calls for review, after a local financial industry body urged greater use of the yuan and floated the idea of shifting to a basket of major currencies and gold – though financial analysts argue the current system is likely t
 
 ## Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs
 The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil prices ease fears of monetary tightening. The tech-heavy Star Market 50 Index, whi
@@ -128,9 +140,6 @@ Swire Pacific – whose high-profile assets include Hong Kong’s flag carrier C
 
 ## Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch
 Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year. Up to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed ann
-
-## China’s MLCC supply chain expanding rapidly amid surge in global AI demand
-China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of electronics” – is racing to expand capacity, as an artificial intelligence-driven boom triggers a surge in global orders. Shandong Sinocera Functional Materials, a major supplier of dielectr
 
 ## Is Iran Winning the Battle Over the Strait of Hormuz?
 Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.
@@ -228,6 +237,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The other classroom: Returning to sacred knowledge
+Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.
+
 ## Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
 CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA's Gianni Infantino.
 
@@ -248,9 +260,6 @@ A record-high heatwave is sweeping through the Korean Peninsula, sending tempera
 
 ## Turkiye’s Erdogan visits Saudi Arabia: What to expect
 Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.
-
-## At least six killed, 15 wounded in Thailand school shooting, police say
-Authorities say suspected gunman shot and ⁠killed his grandparents ​at their home before opening fire at the school.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
@@ -294,6 +303,6 @@ The Reserve Bank of India (RBI) is expected to leave key interest rates untouche
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
-## RBI likely to extend rate pause; neutral stance seen unchanged
-Economists anticipate the Reserve Bank of India will maintain current interest rates. The central bank is also expected to keep its neutral monetary policy stance. Future rate hikes may be signaled due to global oil price volatility. Inflation forecasts for the fiscal year remain a point of division
+## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
+The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
 
