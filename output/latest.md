@@ -36,29 +36,35 @@ CMA proposes changes to clamp down on discounters’ use of anti-competitive pro
 ## FirstFT: All eyes on the US jobs market
 Also in today’s newsletter: Jane Street debt discussions and the latest cutting-edge Chinese AI model
 
-## Ola Electric narrows Q1 loss 21%; revenues fall 45% even as volumes recover
-Improving sales momentum, wider retail reach and fresh capital strengthened the EV maker’s growth outlook despite higher commodity and input costs
+## ADA acquires Algonomy, strengthening its intelligent growth platform for a fully agentic experience
 
-## Lok Sabha approves MSME Bill to speed up payments, improve ease of business
-The Lok Sabha passed the legislation without a debate amid continued protests by Opposition members over various issues
 
-## NEET protests: SC says SIT may be set up to probe police excesses
-A probe is also required to ascertain the attacks on 250 policemen and whether they were by students or some "miscreants", the court said.
+## Biotech International Limited Reports Strong FY2025 Performance
+The New Delhi-based company manufacturing and marketing biological products for agriculture and public health reported revenue in the range of INR 100–150 crore for the financial year ended March 31, 2025!
 
-## Saudi Aramco considers new crude pricing for Asia as shipping costs rise
-Rising freight expenses from longer export routes are prompting the world’s biggest oil exporter to reassess how additional logistics costs are shared with Asian crude buyers
+## Kidney Stone Prevention Initiative Led by Himalaya Wellness Company Unites More Than 8,200 Doctors Across India, Earns Asia Book of Records Recognition
+Nationwide doctor-led awareness drive on kidney stone prevention recognized for scale and reach, reinforcing the role of preventive healthcare in everyday patient care.
 
-## Keralam deploys ANNAM.AI smart weather stations for climate-smart farming
-The initiative is aimed at improving farmers’ access to reliable weather information, enabling better planning, reducing input costs and promoting informed farming practices
+## Product of the Year Announces 2026 Winners – Consumers Celebrate Innovation
+Mumbai, Maharashtra, India – Business Wire India
 
-## Transparency boost: Candidates can now see answer sheets of MP civil service main exams
-The exercise will begin with the answer sheets of the state service main examination 2019, and the inspection process for them will commence in November, according to an official release issued on Monday.
+## English Skills Emerging as a Critical Employability Benchmark in The Age of AI, Say Educators at Cambridge Conference
 
-## India's IPO market to stay resilient with over 70 firms awaiting SEBI clearance: Report
-Mainboard issuance hit a three-year high in both deal count and capital mobilised, driven by large-cap supply as corporates utilised favourable market windows during FY26
 
-## IT ministry summons Meta after PM Modi's post removed; co admits error, says content restored
-According to sources, the global head of public policy of Meta (Facebook and Instagram) has been summoned by the IT ministry over the issue
+## Bergner India Brings The Kitchen to The Runway With Arpita Mehta at India Couture Week 2026
+Bergner India becomes the first cookware brand to be showcased at India Couture Week, celebrating the growing intersection of design, fashion and modern living
+
+## Reckitt Forges Historic Seven-Partner Alliance to Deliver Better Health in More Hands, Every Day
+New Delhi, Delhi, India --- Business Wire India
+
+## Embassy REIT Reports 17% YoY Growth in Revenue and Net Operating Income; Leases 1.3 Million Square Feet in Q1 FY2027
+
+
+## US stock market today: Wall Street rallies as 23,000 job cuts boost hopes of softer Fed policy
+Large-cap technology companies provided much of the market's upward momentum, reflecting their significant influence on the broader indexes. Nvidia rose 1.3%, while Broadcom added 1.1%.
+
+## ‘No hire, no fire’: US employers unexpectedly cut 23,000 jobs - sharp reversal for labour market
+The employment report released by the Labor Department on Friday signalled a sharp deterioration in the US labour market and dealt a political blow to President Donald Trump. Among the biggest job losses, local public schools shed 50,000 positions in July, while restaurants and bars eliminated 26,00
 
 ## Will you have to pay to use UPI? 7 FAQs on possible MDR and what it means for consumers answered
 The government is expected to permit a Merchant Discount Rate (MDR) of between 0.25% and 0.4% on UPI transactions above Rs 2,000 made to businesses, while person-to-person payments are likely to remain outside the scope of the proposed levy. The proposal is not expected to affect routine purchases s
@@ -78,35 +84,29 @@ On Friday, the Indian rupee experienced a decrease of six paise against the US d
 ## Will you have to pay to use UPI? FM Sitharaman clarifies who bears MDR
 In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI transaction charges will be applicable to merchants rather than customers. She explained that any Merchant Discount Rate (MDR) imposed would be instrumental in enhancing the digital payment ecosystem. Following the passag
 
-## Stock market today: BSE Sensex tumbles over 300 points, Nifty50 opens below 24,600
+## ‘Must listen and engage with youth’: Shashi Tharoor's message to politicians
+Referring to his visit to Jantar Mantar, Tharoor said he chose not to deliver a speech and instead focused on hearing the views of those gathered there.
 
+## 'Does SC want everyone to take bullets?': Abhijeet Dipke on top court's 'fear eggs' remark to Mahua
+Dipke slammed the Supreme Court over its remarks during the hearing of Mahua Moitra's plea to join police interrogation via video conference.
 
-## Bankers unaware, government timed LIC stake sale to max receipts
+## Airline technical defects hit five-year high in 2025: Govt data
+In a written reply, minister of state for civil aviation Murlidhar Mohol said 889 significant technical defects were reported during flight operations in 2025
 
+## India issues names for 27 Arunachal locations in response to China’s renaming moves
+India on Friday issued standard names for 27 places and geographical features in Arunachal Pradesh located along the Line of Actual Control (LAC)
 
-## NGT seeks report over alleged sewage discharge into Bhagirathi river in Uttarakhand
-NGT passed the order while hearing a petition filed by a Teerth Purohit of Badrinath over alleged discharge of sewage into Bhagirathi at Devprayag.
+## Delhi high court stays FSSAI ban on Dabur selling food products with '100 per cent' claims
+The court issued notice to FSSAI on Dabur's petition challenging the prohibition and asked it to file its reply before the next date of hearing.
 
-## India again distances itself from Sheikh Hasina’s remarks on Bangladesh
-MEA said India had no role in Sheikh Hasina’s New Delhi news conference and did not endorse remarks targeting Bangladesh’s government.
+## 'Fake News': MEA rejects report that India approached Israel for defence pact after Pak-Saudi-Turkey deal
+A Turkish media outlet, citing unnamed Pakistani sources, claimed India sought a defence pact with Israel to counter the Pakistan-Saudi Arabia-Turkey alliance
 
-## India again distances itself from Sheikh Hasina’s remarks
-MEA said India had no role in Sheikh Hasina’s New Delhi news conference and did not endorse remarks targeting Bangladesh’s government.
+## Can banks charge for UPI payments now? Here is what we know
+The Bill gives the government the power to permit charges on notified electronic payment systems, including UPI, if it decides to do so in the future.
 
-## Pakistan says ‘India infection’ after Sheikh Hasina’s US-based son alleges ISI influence in Bangladesh
-Pakistan’s swipe at Sajeeb Wazed Joy over ISI allegations seemingly backfired as the spokesperson incorrectly said he lived in India.
-
-## 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest site
-The CJP last month had spearheaded the students’ agitation at Jantar Mantar against the NEET-UG paper leak.
-
-## India pushes back against US criticism of proposed FCRA changes
-India said proposed FCRA amendments are an internal legislative matter after US lawmakers criticised changes over concerns about foreign funding rules.
-
-## Non-stop rain brings Delhi-NCR to its knees; IMD predicts thunderstorms, more showers in next 2 hours
-Heavy rainfall was recorded across the Delhi-NCR region, with some weather stations crossing the 100 mm rainfall mark.
-
-## Gurugram: Two workers killed as dilapidated school wall collapses in DLF Phase-II
-Police officer said that both were working at the site to replace several old plants with new one when the wall collapsed on them.
+## Karnataka SIR: Draft electoral roll publication deferred to August 24
+The publication of Karnataka’s draft electoral roll under the Special Intensive Revision (SIR) has been deferred to August 24, and the final electoral roll will now be published on October 27
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
 A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos
+Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.
+
+## Two civilians killed in Houthi strike on Marib, says Yemen’s government
+Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.
+
+## Imade
+A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.
+
 ## Diego Maradona bloated, bedridden and resigned before death, says masseur
 Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.
 
@@ -242,15 +251,6 @@ Catholicos Karekin II and six other clerics are accused of failing to reinstate 
 
 ## Saudi Arabia, Turkiye and Pakistan sign joint defence pact
 The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.
-
-## UN chief condemns both Ukraine and Russia amid escalation in war
-UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine attacks intensify.
-
-## Iran’s grip on trade is a potent weapon, but it has an expiry date
-Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage
-
-## Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know
-How does FIFA presidency stand? Norway wants resignation, but Argentina and Mexico join Africa in Gianni Infantino camp.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
