@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca
+Three allies seek to deepen regional security co-operation to deal with wars and instability
+
+## Exxon nears peak impunity on climate obligations
+Oil major’s move against the EU’s carbon storage rules is odd
+
+## Youngkin’s swing-state school campaign fuels White House speculation
+Billionaire mega-donor Thomas Peterffy backs former Republican governor of Virginia for presidential run in 2028
+
+## UK shares: hotter than below decks in a heatwave
+While away on holiday sweating, my FTSE 100 fund rose 4 per cent
+
 ## FirstFT: All eyes on the US jobs market
 Also in today’s newsletter: Jane Street debt discussions and the latest cutting-edge Chinese AI model
 
@@ -12,56 +24,41 @@ Restrictions placed on interconnectors after power grid comes under pressure dur
 ## Rare earth access: still a thing
 Alphaville 🤜 🤛 The Economics Show
 
-## The Manchester roots of Andy Burnham’s skills revolution
-An early political dividing line on technical education risks obscuring the case for which he has long argued
-
-## DR Congo launches probe into uranium-contaminated cobalt exports
-Government measures triggered by FT and Lighthouse Reports investigation
-
-## Submit your questions: Is this summer our new normal?
-Take part in a live Ask an Expert Q&A with business columnist Pilita Clark and climate correspondent Attracta Mooney at 1pm (BST) on Thursday August 13
-
-## Tories vow to ban foreign nationals from accessing UK social housing
-Party leader Kemi Badenoch pledges to implement policy if she forms next government as she tries to outflank Reform
+## CMA moves to stop Aldi and Lidl blocking rival UK store openings
+Competition watchdog proposes changes to clamp down on discounters’ use of anti-competitive property covenants
 
 ## MFS collapse prompts UK watchdog to crack down on financial crime
 FCA demanding more information around fraud risks from unregulated entities in wake of mortgage lender scandal
 
-## CMA moves to stop Aldi and Lidl blocking rival UK store openings
-Competition watchdog proposes changes to clamp down on discounters’ use of anti-competitive property covenants
+## DR Congo launches probe into uranium-contaminated cobalt exports
+Government measures triggered by FT and Lighthouse Reports investigation
 
 ## Dreadnought supplier Goodwin explores sale of defence business
 London-listed supplier to UK and US nuclear submarines has received bids from buyout firms
 
-## Atlassian shakes off ‘SaaSpocalypse’ as chief vows to spend $250mn buying shares
-Mike Cannon-Brookes’ move comes as shares in Australian software company soar on strong quarterly sales
+## LIC shares close 1.66% higher as analysts upgrade targets after record VNB margin beat
+The stock reached an intraday high of ₹396.85 after the state-owned insurer reported improved Q1FY27 results on Thursday
 
-## ByteDance targets mega AI model nearing Anthropic’s Mythos
-TikTok owner training a model three times larger than Moonshot’s Kimi K3
+## Britannia shares close 1.96% higher after Q1 results; analysts mixed on margin miss
+The stock opened at ₹5,502.50 against the previous close of ₹5,404, with traded volume crossing 10.41 lakh shares by early afternoon.
 
-## Q1 Results Today Live: SBI, Titan and Hindalco post Q1 profit growth, BEML loss narrows, Hitachi Energy, PFC, Oil India, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
+## RBI’s draft NBFC lending norms drag Sensex, Nifty despite strong Q1 earnings
+Financial stocks weakened after the RBI’s draft proposals, while robust corporate earnings and resilient broader markets limited the benchmark indices’ decline.
+
+## Q1 Results Today Live: SBI, Titan and Hindalco post Q1 profit growth, Ola Electric & BEML Q1 loss narrowed y-o-y, Hitachi Energy, PFC, Oil India, Kaynes Tech, Ramco Cements, Afcons Infra, Lemon Tree, Cello to announce Q1 results
 Q1 Results Today, 07th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Sensex today | Stock Market Live: Sensex falls 456 points, Nifty slips as banking stocks drag markets lower
-Sensex, Nifty, Share Prices Live: Indian equities snapped a two-day winning streak on Friday as heavy selling in banking and financial stocks, elevated crude oil prices and lingering geopolitical uncertainties outweighed positive corporate earnings, pushing benchmark indices lower despite gains in s
+## Godrej Consumer Products sees 19% jump in Q1 revenue
+The company’s board also declared an interim dividend of ₹5 per equity share for FY2026-27
 
-## Tamil Nadu CM C Joseph Vijay’s wife Sangeetha withdraws divorce plea
-The family court closed the proceedings after the petitioner informed it she would no longer pursue the matrimonial case.
+## India has over 86,000 PG medical seats; no proposal to convert all DNB diploma seats, says Centre
+The government outlined measures to expand postgraduate medical education while maintaining the existing framework for DNB diploma programmes nationwide.
 
-## New Tax Bill positive for REITs, InvITs: Share India Institutional Business
-The report said one of the biggest changes is that dividends paid by Special Purpose Vehicles (SPVs) to REIT and InvIT investors will now be tax-free, regardless of whether the SPV follows the old or the new tax regime
-
-## AIBOA urges President to halt IDBI Bank divestment, cites breach of assurance
-Officers’ body sought intervention of President as ‘Custodian’ of public sector financial institutions and public sector undertakings, to safeguard institutions created and nurtured in public interest
-
-## India records highest monthly EV sales in July 2026, up 66% y-o-y: FADA
-Electric vehicles accounted for nearly one in every eight vehicles sold in the country during the month, FADA says
-
-## Ardee Industries IPO Day 3: Subscription hits 98x, NII booked 233x
+## Ardee Industries IPO Day 3: Subscription hits 133x led by NIIs demand
 Robust institutional and retail participation reflected strong investor appetite, with proceeds earmarked for working capital, debt reduction and expansion
 
-## SBI Q1 net profit rises 10% to ₹21,121 crore on strong NII, lower NPA provisions
-Net interest income rose 15% to ₹46,992 crore, up from ₹40,907 crore a year ago
+## India’s cultivable land declines, but gross area under crops increases
+The total cultivable land across the country stood at 179.43 million hectares, while the gross cropped area has expanded to 225.19 million hectares
 
 ## Younger, wider, diverse: How India's investor base is changing
 India's investor community is witnessing remarkable transformation, with a younger demographic leading the growth. The median age of investors has notably declined, indicating an influx of fresh talent. Additionally, participation is extending beyond major metropolitan areas, while the growing numbe
@@ -87,29 +84,29 @@ In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI t
 ## ENIL EBITDA rises 42% in Q1, digital business grows
 
 
+## MEA's riposte to US lawmaker's foreign funding remarks: 'Our internal affairs'
+“I would also like to point out that there are several nations, including the US, which regulate the flow of foreign funds,” the MEA said.
+
+## India reacts to Turkey-Pak-Saudi defence deal: 'Closely following the development'
+The development is significant for India as, according to Pakistan's foreign ministry, the agreement treats an attack on any one member as an attack on all
+
+## News, Space Rani, He Ram clear Chhattisgarh police exam, ignite political row
+The CGPSC insisted all the names on the list are genuine and matched the information candidates submitted in their application forms and documents
+
+## HAL Airport gets satellite-guided navigation system for choppers
+Called the Required Navigation Performance – Category H (RNP CAT H) helicopter approach procedure, it has been developed by the Airports Authority of India (AAI)
+
+## 'I wear this ink with pride': AISA's Neha Bora alleges 'RSS-BJP goons' attacked her, Jharkhand protesters
+The accused said he targeted Neha Bora over her support for former JNU scholar Umar Khalid.
+
 ## Nagaur hotel operator shot as trader displayed pistol, dies in ambulance crash
 Police said the hotel operator was accidentally shot by a liquor trader in Nagaur and died when the ambulance taking him to Jodhpur met with an accident.
 
-## Tamil Nadu CM Vijay's wife Sangeetha withdraws divorce plea filed in local court: Report
-Tamil Nadu CM Vijay's wife Sangeetha withdraws divorce plea filed in local court
+## Tamil Nadu CM Vijay's wife Sangeetha withdraws divorce plea; case closed: Report
+In February 2026, Vijay's wife Sangeetha filed a divorce petition before the Chengalpattu court under the Special Marriage Act, 1954.
 
 ## Supreme Court expands CBI probe into builder-bank subvention scam, brings ED into fold
 Supreme Court orders CBI to expand probe into subvention scheme scam sharing details of criminal cases with ED, emphasizing timely investigations.
-
-## Aravali hills conservation is a shared responsibility: Haryana CM Nayab Singh Saini
-The state has set a target of planting 1.40 crore saplings during the current financial year under Prime Minister Narendra Modi’s ‘Ek Ped Maa Ke Naam’ campaign
-
-## AIMIM corporator held for sheltering accused in Nashik religious coercion case
-All India Majlis-e-Ittehadul Muslimeen (AIMIM) corporator Mateen Patel was sent to judicial custody until August 11 for sheltering Nida Khan
-
-## 'Why should a city be put to ransom unnecessarily': Delhi HC questions Jantar Mantar as protest site
-Justice Mahajan questioned Additional Solicitor General Chetan Sharma on why the government continued to allow Jantar Mantar to function as a protest site
-
-## No threats, abuses or social media harassment: RBI's new loan recovery rules to bring relief for borrowers
-The new loan recovery regulations issued by RBI will come into effect from January 1, 2027.
-
-## How India's law on retrospective environmental clearances evolved — and where it stands now
-A 1994 notification, a 2006 rewrite, three circulars, precedents, and a July 2026 verdict — how the rules on post-facto environmental clearance took shape.
 
 ## As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?
 Hong Kong is stepping up its efforts to invest in a cluster of biotech companies, positioning itself as a linchpin in Beijing’s push to reach new levels of innovation and challenge the United States for dominance in the global pharmaceutical market. Hong Kong Investment Corporation (HKIC), which man
@@ -231,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump says war ‘can’t go much longer’ – what’s the latest on talks?
+Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.
+
+## Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing
+Houthis' expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.
+
+## Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil
+The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all, Pakistan says.
+
+## Why Trump is caught in an ‘escalation trap’ with Iran
+University of Chicago Professor Robert Pape explains why US President Trump is caught in an ‘escalation trap’ with Iran.
+
+## Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know
+Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.
+
 ## Central Europe sees record temperatures as heatwave continues
 Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
 
@@ -239,21 +251,6 @@ Ivan Toney charged for an assault that allegedly ​took place on December 6 las
 
 ## ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
 The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.
-
-## Several killed after student opens fire inside Thailand school
-At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.
-
-## The other classroom: Returning to sacred knowledge
-Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.
-
-## Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
-CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA's Gianni Infantino.
-
-## Earthquake strikes as doctors perform surgery
-A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.
-
-## ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
-Jaswant Singh Khalra's daughter Navkiran reflects on slain father's life and legacy, which also inspired a recent film.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
@@ -279,6 +276,9 @@ A parliamentary committee proposed limiting the National Financial Reporting Aut
 ## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
 Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
 
+## RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley
+The Reserve Bank of India has proposed new directions that could limit the availability of revolving credit facilities for NBFCs. This change might notably affect flexi and overdraft loan offerings, leading to potential adjustments in products to comply with regulations. If borrowers are transitione
+
 ## CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI
 Amid concerns over the 'mismatch' in stock prices on domestic indices due to the new Closing Auction Session (CAS) system, the Securities and Exchange Board of India (SEBI) has said that the strategic transition "marks a significant step in achieving cross-market consistency and enhancing the robust
 
@@ -296,7 +296,4 @@ The Reserve Bank of India (RBI) is expected to leave key interest rates untouche
 
 ## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
 The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
-
-## SEBI strengthens ESG norms, mandates safeguards against 'purpose-washing' in green debt securities: Government
-The Securities and Exchange Board of India (SEBI) has strengthened its Environmental, Social and Governance (ESG) regulatory framework by introducing safeguards against 'purpose-washing' in ESG debt securities, the government informed Parliament on Monday.
 
