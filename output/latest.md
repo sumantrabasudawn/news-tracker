@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## First Brands urges court to approve bankruptcy settlement
+Plan would fund lawsuits to pursue billions of dollars in claims arising from alleged fraud scheme at collapsed car-parts maker
+
+## Landmark crypto bill stalls in US Senate despite $225mn spending push
+Lobby struggles to pass top priority in Congress as lawmakers spar over legislation
+
+## Pfizer grapples with ‘a world of hurt’ after Covid triumph
+Sliding vaccine revenues and fears it overpaid for new drugs pile pressure on boss Albert Bourla
+
 ## Spain reinstates border controls on Italy as tensions rise over migrants
 Decision widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni
 
@@ -15,14 +24,8 @@ Counterterror officers have identified ‘relevant’ information missed during 
 ## Six hot takes from Copenhagen Fashion Week
 The 20th-anniversary edition of the event championed underwear as street style, smart sustainability and cycling chic everywhere
 
-## Parents of UK students dig deep to fund university costs
-Many expect to provide more than £50,000 towards tuition fees and living expenses, says survey
-
 ## Venezuelans take to the streets as country hit by daily blackouts
 Caracas experiencing power cuts for first time in 7 years despite government pledges to invest in grid
-
-## Kids, flats and student loans: Why UK first-time buyers are getting older
-One in three starts a family before having a home of their own
 
 ## Credit insurer to cut cover for UK housebuilder Vistry’s suppliers
 Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggling company
@@ -30,41 +33,41 @@ Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggli
 ## Sainsbury’s needs a dose of Big Tech’s boldness
 UK’s second-largest supermarket has spent the last two decades delivering distinctly terrestrial returns
 
+## Kids, flats and student loans: Why UK first-time buyers are getting older
+One in three starts a family before having a home of their own
+
 ## London’s dejected housebuilders finally catch a break
 Merely returning to normal won’t be enough if the government wants to meet its ambitious construction targets
 
 ## Burnham urged to rule out changes to pension lump sums in next Budget
 Do not invite pre-Budget speculation for third year running, City bosses warn new PM
 
-## How to fix Britain’s housing crisis
-We need to find ways to lift the financial and resource constraints on new homebuilding
+## Has coffee become the most misunderstood agricultural product in India?
+When it is understood, everyone across the coffee value chain—from farmer and producer to roaster, barista and consumer—stands to benefit
 
-## The joy of cooking imaginary food
-From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eat
-
-## AIBOA urges President to halt IDBI Bank divestment, cites breach of assurance
-Officers’ body sought intervention of President as ‘Custodian’ of public sector financial institutions and public sector undertakings, to safeguard institutions created and nurtured in public interest
-
-## Q1 Results Today Live: BEML Q1 loss narrows to ₹27 cr, Eveready profit up 22%; Delhivery, Aditya Birla Fashion among firms to announce results today
+## Q1 Results Today Live: BEML Q1 loss narrows to ₹27 cr, Eveready profit up 22%, Aditya Birla Fashion Q1 loss widens to ₹249 cr; Delhivery, Akums Drugs Pharma among firms to announce results today
 Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
 
-## FPIs pump in ₹12,290 crore in first week of August, equities lead the charge
-Foreign fund inflows into equities touched ₹9,323.38 crore on August 5
+## DPIIT signs 5 MoUs to expand digital, cloud and investment support for startups
+These collaborations enhance digital infrastructure, offer mentorship, and foster investment, empowering startups to thrive globally
 
-## Eveready Industries Q1 profit rises over 22% to ₹37 crore, revenue grows 9%
-Revenue from operations rose 8.97% to ₹407.71 crore in Q2 FY27, up from ₹374.14 crore in the same quarter last year
+## Molbio Diagnostics raises ₹281 cr from anchor investors ahead of IPO
+The IPO, with a price band of ₹768-807 per share, will open for public subscription on August 10 and conclude on August 12
 
-## BEML Q1 loss narrows to ₹27 crore
-Total income rose to ₹821.19 crore from ₹642.56 crore last year
+## Can agricultural waste become India’s next commodity?
+Treating agricultural residue as an economic resource could transform a seasonal environmental challenge into India’s most significant rural and green economy opportunities
 
-## RBI has proactively helped UCBs; cooperatives should look at regulator differently: Shah
-Shah urges UCBs to change their view of the RBI, noting recent regulatory support and the importance of lending to small borrowers for sector growth and stability
+## Aditya Birla Fashion and Retail Q1 loss widens to ₹249 crore
+Total expenses of ABFRL, which owns Pantaloons and Style Up brands , along with a host of ethnic brands, were at ₹2,395.45 crore, up 11.5%
 
-## Great Lakes Institute of Management graduates 707 management students in 2026
-V. Narayanan highlighted the evolution of India’s space programme as a powerful example of what can be achieved through perseverance and indigenous capability
+## High tokenisation cost will only optimise AI work: ServiceNow’s Sumeet Mathur
+We have committed to the street that we will have revenue of $1.5 billion by the end of next year, just from our AI related products, says Sumeet Mathur, Senior VP & MD, ServiceNow India Technology & Business Center
 
-## Delhi HC stays FSSAI ban on Dabur selling food products with '100%' claims
-Justice Amit Mahajan observed that Dabur was selling the products for decades and has made out a prima facie case for relief at this stage as the FSSAI order was passed without giving it any hearing
+## Unsold housing inventory rises 4% YoY to over 5.25 lakh units in H1 2026: Knight Frank
+The report highlighted a mixed picture across price segments, with lower-priced housing continuing to see absorption while inventory increasingly gets concentrated in premium and luxury segments
+
+## Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations
+Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-ba
 
 ## 100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know
 The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian energy purchases. India has increased its
@@ -87,8 +90,17 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## RBI removes priority sector burden for FCNR(B) deposits
 
 
-## Religare’s demerger nixed by RBI
+## After meeting PM Modi, Sukhbir Singh Badal’s SAD backs women’s quota, delimitation bills
+The Shiromani Akali Dal demanded the immediate implementation of the Women’s Reservation Bill, SAD president Sukhbir Singh Badal said in a post on X.
 
+## Chhattisgarh horror: 65-year-old man held for rape-murder of woman, killing her infant daughter
+The cops arrested the accused, identified as Bhikariram Nagvanshi, on August 6 after weeks of intensive probe, an official said on Saturday.
+
+## RSS-linked BMS ‘Yagna’ at Jadavpur University sparks political row
+The ‘yagna’ was performed in the afternoon in front of the administrative building, Aurobindo Building, while classes were being held
+
+## E20 petrol ‘well within’ quality limits, oil companies dismiss contamination concerns after nationwide tests
+Nationwide testing of E20 discovered no evidence to support claims of high moisture or chloride contamination in ethanol, as per the companies' statement.
 
 ## Big blow to CM Vijay's all-party meet on delimitation as 37 of 57 Tamil Nadu MPs opt out
 The meeting had been called to determine a state response to delimitation, which had raised concerns over the potential reduction of seats for southern states.
@@ -101,18 +113,6 @@ The government has sought these specific changes as part of efforts to strengthe
 
 ## Thackeray questions PM Modi meeting MPs who left Uddhav Sena
 He also criticised the six MPs who broke away from Sena UBT and joined Sena, a part of the National Democratic Alliance (NDA)
-
-## Access to justice begins with dialogue, must ensure dignity and inclusion: CJI Surya Kant
-The CJI said access to justice cannot be considered meaningful if it is hindered due poverty, disability, language or lack of awareness.
-
-## Collision between Mercedes and WagonR kills 70-year-old woman in Delhi's Narela
-The preliminary investigation revealed that the impact sent the WagonR hurtling backwards, after which it rammed into a three-wheeler loading van parked nearby.
-
-## Uttarakhand panchayat member found dead on Kheerganga river bank in Bageshwar
-Tara Singh Koranga, a 48-year-old Kshetra panchayat member, was found dead on the banks of the Kheerganga river in Bageshwar, Uttarakhand.
-
-## Rampur SP's 'true Muslim' remark on cow slaughter sparks row: ‘My objective was only to maintain brotherhood’
-The SP said he would hold meetings with mutawallis and clerics in Rampur and urge them to ensure that such incidents do not take place.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Woman screams for her man as Ukraine war recruiters pounce
+Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.
+
+## Yemen’s collapsing healthcare forces the sick to seek alternative medicines
+Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.
+
 ## How Israel’s occupation fuels resistance
 Israel is trapped in a cycle it created.
 
@@ -251,12 +257,6 @@ Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newca
 
 ## US announces $400m investment in Australian rare earth mine
 Deal aims to secure scandium supply as China restricts exports for defence products.
-
-## Messi will decide when he retires, says Argentina FA chief
-Retirement rumours surrounded Lionel Messi at last two World Cups, but Argentina FA chief says decision will be his.
-
-## Typhoon Dolphin hits Japan, heads towards China
-Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
