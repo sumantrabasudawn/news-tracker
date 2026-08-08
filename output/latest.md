@@ -42,6 +42,21 @@ We need to find ways to lift the financial and resource constraints on new homeb
 ## The joy of cooking imaginary food
 From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eat
 
+## AIBOA urges President to halt IDBI Bank divestment, cites breach of assurance
+Officers’ body sought intervention of President as ‘Custodian’ of public sector financial institutions and public sector undertakings, to safeguard institutions created and nurtured in public interest
+
+## Q1 Results Today Live: BEML Q1 loss narrows to ₹27 cr, Eveready profit up 22%; Delhivery, Aditya Birla Fashion among firms to announce results today
+Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
+
+## FPIs pump in ₹12,290 crore in first week of August, equities lead the charge
+Foreign fund inflows into equities touched ₹9,323.38 crore on August 5
+
+## Eveready Industries Q1 profit rises over 22% to ₹37 crore, revenue grows 9%
+Revenue from operations rose 8.97% to ₹407.71 crore in Q2 FY27, up from ₹374.14 crore in the same quarter last year
+
+## BEML Q1 loss narrows to ₹27 crore
+Total income rose to ₹821.19 crore from ₹642.56 crore last year
+
 ## RBI has proactively helped UCBs; cooperatives should look at regulator differently: Shah
 Shah urges UCBs to change their view of the RBI, noting recent regulatory support and the importance of lending to small borrowers for sector growth and stability
 
@@ -50,21 +65,6 @@ V. Narayanan highlighted the evolution of India’s space programme as a powerfu
 
 ## Delhi HC stays FSSAI ban on Dabur selling food products with '100%' claims
 Justice Amit Mahajan observed that Dabur was selling the products for decades and has made out a prima facie case for relief at this stage as the FSSAI order was passed without giving it any hearing
-
-## Mahamandleshwar Gita Manishi Swami Shri Gyananand Ji Maharaj Enlightens Chandigarh University Students with Timeless Teachings of Bhagavad Gita
-Mahamandleshwar Gita Manishi Swami Shri Gyananand Ji Maharaj Enlightens Chandigarh University Students with Timeless Teachings of Bhagavad Gita
-
-## Over 4,048 seafarers repatriated amid West Asia conflict: Shipping Minister
-Sonowal stated that PM Modi has directed measures for the safety and welfare of Indian seafarers, with their location and condition to be reported to the DGMA
-
-## Foreign flows into Indian bonds may remain muted despite tax relief: SBI Funds
-Foreign investment flows into Indian government bonds are likely to remain muted in the near term despite the removal of taxes on overseas purchases of sovereign bonds
-
-## India's resilient economy to support markets but global risks remain elevated: SEBI
-Indian equities faced a difficult 2025-26, with the Nifty 50 and broader indices declining around 14% in US dollar terms
-
-## Q1 Results Today Live: Delhivery, Anant Raj, Apollo Micro Systems, Akums Drugs Pharma, Aditya Birla Fashion, Ceigall India, PNC Infratech Oswal Pumps to announce Q1 results
-Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
 
 ## 100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know
 The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian energy purchases. India has increased its
@@ -90,6 +90,9 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Religare’s demerger nixed by RBI
 
 
+## Big blow to CM Vijay's all-party meet on delimitation as 37 of 57 Tamil Nadu MPs opt out
+The meeting had been called to determine a state response to delimitation, which had raised concerns over the potential reduction of seats for southern states.
+
 ## Pinarayi Vijayan demands withdrawal of order to sing full Vande Mataram on Aug 15
 While speaking to reporters, Vijayan alleged that the complete version of Vande Mataram was not in line with secularism, referring to Nehru and Congress policy.
 
@@ -111,8 +114,8 @@ Tara Singh Koranga, a 48-year-old Kshetra panchayat member, was found dead on th
 ## Rampur SP's 'true Muslim' remark on cow slaughter sparks row: ‘My objective was only to maintain brotherhood’
 The SP said he would hold meetings with mutawallis and clerics in Rampur and urge them to ensure that such incidents do not take place.
 
-## Parliament panel renews push for EWS fee relief, scholarships in Sainik Schools
-The defence panel urged the Centre to subsidise Sainik School fees for EWS students and introduce scholarships for girl cadets, citing gaps in the ministry’s response.
+## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
+Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
 
 ## Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report
 Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – national capital Beijing, financial centre Shanghai and southern Guangdong province, a technology and expor
@@ -134,9 +137,6 @@ Hong Kong is stepping up its efforts to invest in a cluster of biotech companies
 
 ## Hong Kong’s Hang Lung Properties names former Starbucks China head Leo Tsoi as new CEO
 Hong Kong developer Hang Lung Properties has tapped Leo Tsoi Tak-lun, CEO of Toys ‘R’ Us Asia and former head of Starbucks China, as its new CEO and executive director. Tsoi will join Hang Lung Group and Hang Lung Properties on September 7 as CEO-designate and executive director ahead of formally as
-
-## Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?
-The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh calls for review, after a local financial industry body urged greater use of the yuan and floated the idea of shifting to a basket of major currencies and gold – though financial analysts argue the current system is likely t
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -234,6 +234,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How Israel’s occupation fuels resistance
+Israel is trapped in a cycle it created.
+
+## Trump’s former personal lawyer narrowly confirmed as US attorney general
+US Senate confirms Todd Blanche in narrow vote despite concerns over independence of office.
+
+## Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit
+Saimoni Vunilagi was hospitalised with symptoms of heatstroke after rugby team training on Monday, but died on Friday.
+
+## Mount Etna ash suspends arrivals at Italy’s Catania airport
+Catania international airport services the eastern part of Sicily, one of Italy's most popular tourist destinations.
+
 ## Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms
 Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.
 
@@ -245,18 +257,6 @@ Retirement rumours surrounded Lionel Messi at last two World Cups, but Argentina
 
 ## Typhoon Dolphin hits Japan, heads towards China
 Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.
-
-## Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland
-Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second game of five-match ODI series.
-
-## South Korea FA apologises over ‘sexual services’ allegations
-Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.
-
-## NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
-Memphis Grizzlies ⁠forward Brandon Clarke's ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.
-
-## Hundreds camp on sweltering Rome street amid tussle over squatted building
-After a fire broke out, the building was cleared in what activists say was a politically motivated move.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
