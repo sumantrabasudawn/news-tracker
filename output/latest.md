@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What are the challenges facing the Mecca agreement?
+Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.
+
 ## At least 200 people evacuated as wildfire rages near Lake Garda
 At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.
 
@@ -248,9 +251,6 @@ The UK media has been accused of giving far-right leader Nigel Farage an easy ri
 
 ## Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
 Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.
-
-## British Columbia issues evacuation orders ahead of fast-moving wildfires
-Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
