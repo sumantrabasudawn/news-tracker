@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Myanmar junta looks to come in from the cold with Aung San Suu Kyi photos
+Regime offers proof of life of jailed democracy icon as it steps up campaign to end international isolation
+
+## China’s biggest travel site grapples with watchdog’s reservations
+Probe concludes that Trip.com abused its power as platform handling more than half of country’s hotel bookings
+
+## Rightwing populist ‘El Tigre’ sworn in as Colombia’s president
+Political neophyte Abelardo de la Espriella promises to crush organised crime and build Amazon mega-jails
+
 ## Moonshot shake-up seeks to win Beijing nod for stock market debut
 Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development
 
@@ -14,15 +23,6 @@ Naval interdiction appears to be halting tankers from carrying Tehran’s crude
 
 ## US economy unexpectedly sheds 23,000 jobs in July
 Lacklustre figure prompts traders to scale back bets on Fed rate rises
-
-## Trump revives threat to sack Fed governor Lisa Cook
-Move comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved
-
-## Burnham’s UK tour to focus on cutting cost of living and helping high streets
-Prime Minister returns from holiday next week with plans to visit every region
-
-## Passing the Clarity Act on digital assets is a matter of national security
-If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues
 
 ## Mike Ashley says Harvey Nichols is in a ‘death spiral’
 Sports Direct founder casts doubt over department store chain’s prospects even as he vies to acquire it
@@ -39,35 +39,29 @@ Airline will offer extra services and feed long-haul carriers under proposals
 ## UK manages record share of assets on behalf of overseas clients
 New data helps dispel worries over London’s status as a world-leading financial centre
 
-## Explosive drone at German airport raises ‘hybrid threat’ alarm
-Chancellor holds emergency national security meeting as investigators examine ‘concrete leads’ and possible Russian role
+## Markets open lower as CAS correction weighs; RBI policy, earnings in focus
+Sensex opened at ₹79,132.97, was trading at ₹78,774.73, up ₹135.70 or 0.17%; Nifty 50 opened at 24,703.90, was trading at 24,599.05, down 175.25 points or 0.71%
 
-## Exxon nears peak impunity on climate obligations
-Oil major’s move against the EU’s carbon storage rules is odd
+## Modi seeks sweeping tax cuts for global funds
+Lawmakers will seek to clear bills that formalise tax cuts for overseas investors buying Indian sovereign debt and insulate offshore funds from tax liability
 
-## US Senate passes sweeping Russia sanctions bill, House vote next
-A bipartisan Senate vote advances tougher economic pressure on Russia while setting up a contentious House debate over presidential tariff powers.
+## Financial services landscape undergoing a fundamental shift: JFSL chairman
+KV Kamath says era of traditional ‘moats’ being challenged
 
-## K Rajaraman gets extension as IFSCA chief till October 2028
-Rajaraman’s extension is aimed at ensuring continuity at the helm as the regulator works towards strengthening the International Financial Services Centre ecosystem at GIFT City
+## India's EV sales jump 63% YoY to over 3.07 lakh units in July; electric car sales up 81%: Report
+The report said electric car sales stood at 30,806 units in July, up 81% year-on-year, although they were down 2% from the previous month
 
-## ITC profit falls as cigarette tax hike weighs
-The consumer goods ‌major, home to ‌brands ⁠such as Aashirvaad flour and ⁠Bingo chips, said profit fell to ₹3,579 crore ($375.24 million) ​in the ‌first quarter ended June 30, from ₹4,911 crore a year earlier
+## Ashika Global Securities net up 15%, plans ₹1000 cr fund raise via QIP
+Board also approved plans to raise ₹1,000 crore through a Qualified Institutions Placement, subject to shareholders and regulatory approval.
 
-## Malabar Gold & Diamonds execute first jewellery export to UK under India–UK trade pact
+## Commerce Department begins Budget consultations with industry amid global trade uncertainty
+Industry likely to push for extension of export incentives, customs duty rationalisation and lower compliance costs, among other measures
 
+## Bank Retirees’ body wants payment of ex-gratia to private sector bank pensioners
+AKBRF alleged that private sector banks such as DLB, Kotak Mahindra Bank, Karnataka Bank, Karur Vysya Bank, RBL Bank and SIB have not implemented payment of ex-gratia to the pensioners
 
-## Govt approves National Offshore Exploration Scheme
-The Scheme is also expected to stimulate significant investments across the exploration and production value chain
-
-## BGR Energy Systems nears debt resolution
-NCLAT allows the engineering services company further time to conclude a settlement with its principal lender.
-
-## Gujarat-based Infistar & Finland’s Arciplug form JV to tap small compressed biogas plant market
-
-
-## Aditya Birla Capital Q1 profit rises 40% to ₹1,175 crore
-Consolidated total income grew to ₹12,187 crore in the April-June period, from ₹9,531 crore in the year-ago period
+## Crude oil futures rise as US-Iran talks remain uncertain
+October Brent oil futures were at $84.87, up by 1.31%, and September crude oil futures on WTI (West Texas Intermediate) were at $81.11, up by 0.96%
 
 ## Onion, oil or chicken: What made your thali costlier in July
 In July, the prices for home-cooked thalis surged compared to the previous year, with vegetarian options increasing by four percent and non-vegetarian increasing by nine percent. The rise in costs was driven by expensive onions, vegetable oil, and LPG for vegetarian meals, while non-vegetarian thali
@@ -93,6 +87,15 @@ India's investor community is witnessing remarkable transformation, with a young
 ## Why stock market's close is now an auction - explained
 For over three decades, the closing price was the volume-weighted average (VWAP) of all trades between 3:00 pm and 3:30 pm. Nobody actually traded at that price. It was a calculation, not a transaction. For long-term investors, nothing changes. For index funds and traders, the closing routine is now
 
+## PM Modi-Sukhbir Badal meet sparks buzz. BJP-Akali Dal to unite for Punjab polls?
+The one-on-one meeting at the PM's Office in Parliament House complex came years after the SAD walked out of the BJP-led NDA in 2020.
+
+## From NTA's Delhi building to Pune: How NEET questions made it out
+At the centre of the 20,000-page chargesheet are three Pune-based experts appointed by the NTA who allegedly originated the leak.
+
+## ‘Freedom fighters took bullets, you fear eggs?’: SC refuses Mahua Moitra's plea seeking to virtually join probe
+Mahua Moitra had sought to join police interrogation through video-conferencing in a case over her allegedly provocative Facebook posts.
+
 ## Punjab Assembly: AAP MLA questions minister over non-bidding of panchayat land
 Punjab Assembly: AAP MLA questions minister over non-bidding of panchayat land
 
@@ -107,15 +110,6 @@ MHA has proposed an IT Act amendment to ensure cybercrime cases are investigated
 
 ## ‘America shooting itself in the foot’: US Senators Wyden, Paul oppose 100% tariffs on India, China
 US senators opposed tariffs during debate on a Russia sanctions bill. It affects India as the country relies more on Russian energy amid the West Asia conflict
-
-## Tripura SIR of electoral rolls to begin from September 5: Chief electoral officer
-The Election Commission will begin Tripura’s SIR on September 5, with the final electoral roll to be published on December 23.
-
-## Rahul Gandhi's big plan regarding the E20 issue gets a ‘Pappu’ retort from the BJP: ‘Puri Daal hi kaali hai’
-The Congress leader said the party would take up the issue aggressively and claimed the rollout was hurting vehicle owners across the country.
-
-## BJP MP to propose bills seeking age checks for children, curbs on AI deepfakes
-The proposed Bills seek parental consent for children under 13 on social media and penalties for misuse of AI-generated deepfakes.
 
 ## Meet the next generation of Chinese stars influencing how global finance operates
 A new generation of Chinese stars is influencing how global finance operates – applying analytical power, cross-cultural agility, and resilience developed in China’s demanding environments straight to leading firms from Citadel Securities to BlackRock. That shift is easier to grasp by looking beyond
@@ -165,6 +159,12 @@ Any level of Iranian control would mark a major geopolitical shift in Tehran’s
 ## What Everyone Is Missing About Ceuta
 The history of the disputed exclave should inform what Spain does next.
 
+## China’s Asian Affairs Reshuffle
+The elevation of a former ambassador to Mongolia signals a shift in diplomatic execution – but the change can only go so far.
+
+## Hopes for the North Korean Human Rights Act of 2026
+The North Korean Human Rights Act of 2004 expired in 2022. An important bipartisan effort seeks to reauthorize it.
+
 ## India’s Climate Stress and the Solar Power Paradox
 Rising demand will keep coal the backbone of India’s power grid in the coming years. This buys time for executing an energy transition, if India can see through its plans.
 
@@ -182,12 +182,6 @@ Beijing’s June white paper leaves the U.N.-centered architecture intact – bu
 
 ## India’s Communal Violence is Crossing into Nepal
 With the RSS steadily building on Nepali soil, Hindu-Muslim tensions and violence are growing, especially in Nepal’s Tarai-Madhesh region bordering India
-
-## From Jobs to Skills: Rethinking Vietnam’s FDI success
-Despite its rapid industrialization, the country's economy is not creating enough jobs that make productive use of advanced skills.
-
-## Thailand Pledges to Work Towards Myanmar’s Full Reintegration With ASEAN
-The pledge came as Prime Minister Anutin Charnvirakul hosted the country's military-appointed president, Min Aung Hlaing, in Bangkok.
 
 ## Warlords of Greece: Warfare in Homer’s World
 The Iliad and Odyssey have shaped Western ideas of heroism for nearly three millennia. Yet despite centuries of debate over whether they reflect historical reality or poetic fantasy, the Homeric world remains an internally consistent universe worth studying on its own terms. This isn’t about separat
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Donald Trump renews effort to fire Federal Reserve governor Lisa Cook
-US president has clashed with Federal Reserve members over his bid to rapidly slash interest rates despite inflation.
+## What could the Mecca defence pact mean for the US role in the Middle East?
+Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.
 
-## ICC body urges Chad and Venezuela to reverse course on withdrawal
-International court's oversight body warns exits threaten global justice, as US intensifies campaign against tribunal.
+## Trump shifts blame to Republicans for waning support from public
+Republican senators are using the summer recess to avoid politically difficult votes.
 
-## Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?
-The Mecca Joint Defence Pact brings together countries that sit between Iran and Israel, but will it be effective?
+## Colombia’s new president takes office vowing to ‘crush’ narco-terrorism
+Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.
 
-## Medics among six Palestinians injured in Israeli attacks across West Bank
-Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.
+## De la Espriella sworn in as Colombia’s leader, vows armed group crackdown
+The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.
 
-## Democrats gain momentum in pivotal US Senate and governor’s races in Texas
-James Talarico leads Ken Paxton in the Texas Senate race, signalling a potential shift in the Republican stronghold.
+## Sudan’s war threatens an ‘entire generation’s’ future, UN warns
+War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.
 
-## US appeals court halts White House ballroom construction
-A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.
+## Puerto Rico rations water as severe drought leaves reservoirs depleted
+Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.
 
-## South Koreans beat the heat with ‘silent disco’ pool party
-South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.
+## US Senate passes sweeping Russian energy sanctions bill amid Ukraine war
+Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.
 
-## Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
-New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
+## Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms
+Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
