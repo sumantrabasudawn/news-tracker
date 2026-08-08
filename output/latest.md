@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Spain reinstates border controls on Italy as tensions rise over migrants
+Decision widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni
+
+## Currency interventions have a mixed record
+You can’t fight macro with FX interventions
+
 ## US Senate narrowly confirms Todd Blanche as US attorney-general
 Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump
 
@@ -18,17 +24,14 @@ Caracas experiencing power cuts for first time in 7 years despite government ple
 ## Kids, flats and student loans: Why UK first-time buyers are getting older
 One in three starts a family before having a home of their own
 
-## The exciting boring decade
-Why hasn’t all the chaos in the real world inspired more interesting art?
-
-## London’s dejected housebuilders finally catch a break
-Merely returning to normal won’t be enough if the government wants to meet its ambitious construction targets
-
 ## Credit insurer to cut cover for UK housebuilder Vistry’s suppliers
 Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggling company
 
 ## Sainsbury’s needs a dose of Big Tech’s boldness
 UK’s second-largest supermarket has spent the last two decades delivering distinctly terrestrial returns
+
+## London’s dejected housebuilders finally catch a break
+Merely returning to normal won’t be enough if the government wants to meet its ambitious construction targets
 
 ## Burnham urged to rule out changes to pension lump sums in next Budget
 Do not invite pre-Budget speculation for third year running, City bosses warn new PM
@@ -39,29 +42,29 @@ We need to find ways to lift the financial and resource constraints on new homeb
 ## The joy of cooking imaginary food
 From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eat
 
-## Canada deported record 3,323 Indians in first half of 2026, data shows
-Canada routinely deports Indian nationals primarily due to non-compliance with immigration rules, rejected asylum or refugee claims, visa overstays and visa fraud scams
+## RBI has proactively helped UCBs; cooperatives should look at regulator differently: Shah
+Shah urges UCBs to change their view of the RBI, noting recent regulatory support and the importance of lending to small borrowers for sector growth and stability
 
-## Unclaimed mutual fund dividends rise 15.7% to ₹ 2,689 crore in FY26: SEBI
-Taken together, unclaimed dividend and redemption amounts in mutual funds stood at ₹3,811 crore as of March 31, 2026, compared with ₹3,452 crore at the end of the preceding financial year
+## Great Lakes Institute of Management graduates 707 management students in 2026
+V. Narayanan highlighted the evolution of India’s space programme as a powerful example of what can be achieved through perseverance and indigenous capability
 
-## India, Russia reaffirm commitment to advance defence industrial and technological cooperation
-India and Russia exchanged anti-terror strategies and agreed to expand joint mechanisms tackling violent extremism, radicalisation, financial channels of terror and the exploitation of modern digital financial instruments
+## Delhi HC stays FSSAI ban on Dabur selling food products with '100%' claims
+Justice Amit Mahajan observed that Dabur was selling the products for decades and has made out a prima facie case for relief at this stage as the FSSAI order was passed without giving it any hearing
+
+## Mahamandleshwar Gita Manishi Swami Shri Gyananand Ji Maharaj Enlightens Chandigarh University Students with Timeless Teachings of Bhagavad Gita
+Mahamandleshwar Gita Manishi Swami Shri Gyananand Ji Maharaj Enlightens Chandigarh University Students with Timeless Teachings of Bhagavad Gita
+
+## Over 4,048 seafarers repatriated amid West Asia conflict: Shipping Minister
+Sonowal stated that PM Modi has directed measures for the safety and welfare of Indian seafarers, with their location and condition to be reported to the DGMA
+
+## Foreign flows into Indian bonds may remain muted despite tax relief: SBI Funds
+Foreign investment flows into Indian government bonds are likely to remain muted in the near term despite the removal of taxes on overseas purchases of sovereign bonds
+
+## India's resilient economy to support markets but global risks remain elevated: SEBI
+Indian equities faced a difficult 2025-26, with the Nifty 50 and broader indices declining around 14% in US dollar terms
 
 ## Q1 Results Today Live: Delhivery, Anant Raj, Apollo Micro Systems, Akums Drugs Pharma, Aditya Birla Fashion, Ceigall India, PNC Infratech Oswal Pumps to announce Q1 results
 Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
-
-## AI boom or Dot-com echo
-
-
-## Fresh 100% US tariff threat could add to India's inflation, CAD pressures: CareEdge
-Gupta said that if India is forced to reduce its dependence on Russian crude while the Strait of Hormuz remains disrupted, global oil supplies could come under severe pressure, potentially pushing crude prices beyond $100 per barrel
-
-## India's energy transition may create new import dependence on critical minerals: CII-EY
-Critical minerals such as lithium, nickel, cobalt, silicon and rare earth elements will become increasingly important for the clean-energy transition
-
-## Pralhad Joshi discusses next course of action, reviews key initiatives of Education Ministry
-At the BRICS meeting, the Union Minister reiterated India's commitment to working closely with all the BRICS partners and expressed confidence that the momentum generated during the meeting would translate into meaningful action
 
 ## 100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know
 The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian energy purchases. India has increased its
@@ -87,29 +90,29 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Religare’s demerger nixed by RBI
 
 
-## Cricketer Rishabh Pant seeks land in Uttarakhand, CM Dhami directs officials to help
-Uttarakhand CM Dhami promises to assist cricketer Rishabh Pant with land acquisition after his three-year struggle to relocate from Delhi.
+## Pinarayi Vijayan demands withdrawal of order to sing full Vande Mataram on Aug 15
+While speaking to reporters, Vijayan alleged that the complete version of Vande Mataram was not in line with secularism, referring to Nehru and Congress policy.
 
-## Yogi Adityanath showers petals on Kanwariyas in Meerut | Watch
-Earlier in the day, the UP CM conducted an aerial survey by helicopter over the Meerut region to review the arrangements in place for the pilgrimage.
+## Govt asks Meta to revamp algorithms, curb spread of propaganda: Report
+The government has sought these specific changes as part of efforts to strengthen the detection and removal of harmful and manipulated content.
 
-## 7 killed, 11 injured in Himachal bus accident; PM Modi expresses sorrow
-Seven people were killed, and eleven were injured after a private bus skidded off the road and met with an accident in Himachal Pradesh's Chamba district.
+## Thackeray questions PM Modi meeting MPs who left Uddhav Sena
+He also criticised the six MPs who broke away from Sena UBT and joined Sena, a part of the National Democratic Alliance (NDA)
 
-## ABVP's scuffle with cops, Jharkhand govt's ‘quick decision’ assurance: What's latest on student protests?
-The protesters have been demanding the cancellation of the 14th Jharkhand PSC Civil Services Examination over alleged paper leak.
+## Access to justice begins with dialogue, must ensure dignity and inclusion: CJI Surya Kant
+The CJI said access to justice cannot be considered meaningful if it is hindered due poverty, disability, language or lack of awareness.
 
-## You will influence journey of 'Viksit Bharat': PM Modi's message to Gen Z at IIT-Delhi convocation
-Addressing the convocation ceremony of the IIT, Delhi, Modi said the rapid pace of change means nobody can predict what the next 20 to 30 years will look like.
+## Collision between Mercedes and WagonR kills 70-year-old woman in Delhi's Narela
+The preliminary investigation revealed that the impact sent the WagonR hurtling backwards, after which it rammed into a three-wheeler loading van parked nearby.
 
-## Who is Neha Bora? Activist in focus over Jharkhand protest sat on hunger strike next to Wangchuk at Jantar Mantar
-Neha Bora shot to fame during the Jantar Mantar protests, where she spent 23 days on hunger strike alongside AISA leaders and Sonam Wangchuk.
+## Uttarakhand panchayat member found dead on Kheerganga river bank in Bageshwar
+Tara Singh Koranga, a 48-year-old Kshetra panchayat member, was found dead on the banks of the Kheerganga river in Bageshwar, Uttarakhand.
 
-## BJP MLA lodges FIR against 4 including Bhagalpur central jail supdt: Bihar Police
-Bihar BJP MLA Rakesh Ranjan Ojha alleged that three jail inmates were plotting to kill him, with the Bhagalpur jail superintendent also named in the FIR.
+## Rampur SP's 'true Muslim' remark on cow slaughter sparks row: ‘My objective was only to maintain brotherhood’
+The SP said he would hold meetings with mutawallis and clerics in Rampur and urge them to ensure that such incidents do not take place.
 
-## Shahi paneer, pizza, momo without onion, garlic. The menu at Kanwar camps
-The UP government said the district authorities are continuously inspecting private camps to monitor food quality, hygiene standards, and overall arrangements.
+## Parliament panel renews push for EWS fee relief, scholarships in Sainik Schools
+The defence panel urged the Centre to subsidise Sainik School fees for EWS students and introduce scholarships for girl cadets, citing gaps in the ministry’s response.
 
 ## Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report
 Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – national capital Beijing, financial centre Shanghai and southern Guangdong province, a technology and expor
@@ -231,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms
+Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.
+
+## US announces $400m investment in Australian rare earth mine
+Deal aims to secure scandium supply as China restricts exports for defence products.
+
 ## Messi will decide when he retires, says Argentina FA chief
 Retirement rumours surrounded Lionel Messi at last two World Cups, but Argentina FA chief says decision will be his.
 
@@ -248,12 +257,6 @@ Memphis Grizzlies ⁠forward Brandon Clarke's ⁠May 11 death ruled accidental, 
 
 ## Hundreds camp on sweltering Rome street amid tussle over squatted building
 After a fire broke out, the building was cleared in what activists say was a politically motivated move.
-
-## Bangladesh say Shakib will not play cricket again after Hasina event
-Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.
-
-## Violence is driving Palestinian Christians out of their Holy Land
-Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
