@@ -36,6 +36,15 @@ We need to find ways to lift the financial and resource constraints on new homeb
 ## The joy of cooking imaginary food
 From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eat
 
+## No renewable energy project within 1 km of borders: MHA guidelines
+Under these guidelines, areas within 50 km of the Line of Control, Line of Actual Control, or the International Border have been designated as ‘sensitive areas’
+
+## Govt examines if Meta recommendation system deciding what-to-show-to-whom fits intermediary status
+The issue centres on whether a platform that actively decides what users see, can continue to claim intermediary status under the Information Technology Act
+
+## Q1 Results Today Live: Delhivery, Anant Raj, Apollo Micro Systems, Akums Drugs Pharma, Aditya Birla Fashion, Ceigall India, PNC Infratech Oswal Pumps to announce Q1 results
+Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
+
 ## Air India can’t seem to catch a break as passengers blame airline for turbulence
 A recent incident in which 17 passengers were injured due to turbulence on an Air India flight from Phuket has spawned a litany of complaints on social media
 
@@ -50,15 +59,6 @@ Responding to a query on the India-Africa Summit, Jaiswal said the event had bee
 
 ## US Senate passes sweeping Russia sanctions bill, House vote next
 A bipartisan Senate vote advances tougher economic pressure on Russia while setting up a contentious House debate over presidential tariff powers.
-
-## US appeals court blocks Trump’s $400 million White House ballroom project
-A federal appeals court has paused a high-profile White House construction project, setting up another major constitutional battle over presidential authority.
-
-## Pakistan, Saudi Arabia and Turkiye sign joint defence pact amid West Asia tensions
-The landmark agreement deepens defence cooperation among three key regional powers as security concerns intensify across West Asia and nearby waterways.
-
-## Q1 Results Today Live: Delhivery, Anant Raj, Apollo Micro Systems, Akums Drugs Pharma, Aditya Birla Fashion, Ceigall India, PNC Infratech Oswal Pumps to announce Q1 results
-Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
 
 ## 100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know
 The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian energy purchases. India has increased its
@@ -84,6 +84,12 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Religare’s demerger nixed by RBI
 
 
+## BJP MLA lodges FIR against 4 including Bhagalpur central jail supdt: Bihar Police
+Bihar BJP MLA Rakesh Ranjan Ojha alleged that three jail inmates were plotting to kill him, with the Bhagalpur jail superintendent also named in the FIR.
+
+## Shahi paneer, pizza, momo without onion, garlic. Kanwar camps striking perfect balance on menus
+The UP government said the district authorities are continuously inspecting private camps to monitor food quality, hygiene standards, and overall arrangements.
+
 ## Vehicle stuck in mud for hours, 17-year-old girl dies en route to hospital in J&K’s Rajouri
 The girl from Methyani village fell seriously ill and was being taken to GMC, Rajouri, when the vehicle got stranded for hours due to mudslide at Chak Methyani.
 
@@ -94,19 +100,13 @@ Women’s Reservation Bill, 2023 reserves one-third of seats for women in the Lo
 Yet, the crackdown failed to dampen the spirit of the movement, instead inspiring a new generation of young leaders.
 
 ## IAF officer held for leaking defence data to Pak operative; was 'honey-trapped' by woman on social media
-The IAF Wing Commander was arrested in May under the Official Secrets Act (OSA) for “allegations of being honey trapped by a Pakistani Intelligence Operative”.
-
-## Many aspects of donation 'theft' probe done, chargesheet to be filed end of next month: Police
-Many aspects of donation 'theft' probe done, chargesheet to be filed end of next month: Police
+The IAF wing commander was befriended by a Pakistani operative and has been charged under the Official Secrets Act for sharing critical defence information.
 
 ## No renewable energy project within 1 km of borders: MHA guidelines
 No renewable energy project within 1 km of borders: MHA guidelines
 
 ## How US bill proposing 100% tariffs over Russian oil purchase could hurt India
 India, China, Slovakia, Hungary and Azerbaijan will face tariffs as the bill aims to increase economic pressure on Moscow over its invasion of Ukraine.
-
-## ‘A morning I will cherish’: Raghav Chadha meets PM Modi, thanks him for ‘insights and guidance’
-Raghav Chadha said he was grateful for the Prime Minister’s time and for the opportunity to benefit from his “insights and guidance”.
 
 ## Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report
 Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – national capital Beijing, financial centre Shanghai and southern Guangdong province, a technology and expor
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Korea FA apologises over ‘sexual services’ allegations
+Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.
+
 ## NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
 Memphis Grizzlies ⁠forward Brandon Clarke's ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.
 
@@ -248,9 +251,6 @@ Norway’s football federation has called on Gianni Infantino to resign.
 
 ## Armenia puts Church leader on trial for allegedly being a Russian spy
 Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.
-
-## ‘I’ve never been counted’: DR Congo’s first census in 42 years
-For many Congolese, the census is about identity, recognition and finally being recorded by the state.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
