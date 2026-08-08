@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Widdecombe murder probe reopens inquiry into attempted burglary at Farage’s house
+Counterterror officers have identified ‘relevant’ information missed during an investigation last year
+
 ## Six hot takes from Copenhagen Fashion Week
 The 20th-anniversary edition of the event championed underwear as street style, smart sustainability and cycling chic everywhere
 
@@ -21,9 +24,6 @@ Merely returning to normal won’t be enough if the government wants to meet its
 ## Burnham urged to rule out changes to pension lump sums in next Budget
 Do not invite pre-Budget speculation for third year running, City bosses warn new PM
 
-## The US bares its financial weak spot
-Yen intervention points to the squishy underbelly of American weakness
-
 ## Credit insurer to cut cover for UK housebuilder Vistry’s suppliers
 Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggling company
 
@@ -36,29 +36,29 @@ We need to find ways to lift the financial and resource constraints on new homeb
 ## The joy of cooking imaginary food
 From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eat
 
+## Air India can’t seem to catch a break as passengers blame airline for turbulence
+A recent incident in which 17 passengers were injured due to turbulence on an Air India flight from Phuket has spawned a litany of complaints on social media
+
+## Nvidia to invest up to $3 billion in Stargate data centre developer Lancium
+Nvidia will invest ​up to $3 billion in ‌Lancium; the chip-maker will invest an initial $2 billion for ‌a stake of roughly 20 per cent in the power infrastructure developer
+
 ## ASK Property Fund invests in Bhumika Group real estate projects
-ASK Property Fund will invest ₹125 crore in a plotted development project in Faridabad, as a part of its arrangement to invest ₹500 crore in Bhoomika Group real estate projects
+ASK Property Fund will invest ₹125 crore in a plotted development project in Faridabad, as a part of its arrangement to invest ₹500 crore in Bhumika Group real estate projects
 
-## Railways imposes ₹5.13 cr fine, terminates 6 contracts and debars defaulting licensees for food quality violations in last 3 years
-Regular and surprise inspections are conducted by Railway/IRCTC officials, including Food Safety Officers, to ensure quality, hygiene, safety and regulatory compliance
+## India, African Union in touch to finalise mutually convenient dates for India-Africa Summit: MEA
+Responding to a query on the India-Africa Summit, Jaiswal said the event had been postponed after consultations with the African Union and that both sides are now working towards holding it at a mutually convenient time
 
-## Limitless potential between US, India goes through Karnataka: Ambassador Sergio Gor
-Gor says Karnataka has more than 1,000 American companies, and their presence is growing steadily
+## US Senate passes sweeping Russia sanctions bill, House vote next
+A bipartisan Senate vote advances tougher economic pressure on Russia while setting up a contentious House debate over presidential tariff powers.
 
-## Given geopolitical situation, defence budgetary allocation under capital head be enhanced: Par panel
-The panel in its report has also said that it "unanimously agrees with the Ministry (of Defence) that the matter of exemption of income tax on disability pension granted to defence forces personnel comes under the purview of the finance ministry
+## US appeals court blocks Trump’s $400 million White House ballroom project
+A federal appeals court has paused a high-profile White House construction project, setting up another major constitutional battle over presidential authority.
 
-## Warming of Himalayas, expanding human settlements reasons behind Assam's flood crisis: Analysis
-About 40% of its land is flood-prone, as the highly dynamic and sediment-laden Brahmaputra continuously shifts its course, eroding riverbanks and altering floodplains
+## Pakistan, Saudi Arabia and Turkiye sign joint defence pact amid West Asia tensions
+The landmark agreement deepens defence cooperation among three key regional powers as security concerns intensify across West Asia and nearby waterways.
 
-## Dhoot Transmission collects ₹918 cr from anchor investors; IPO to open on Aug 10
-The ₹3,067-crore IPO’s price band has been set at ₹829-871 per share
-
-## Akasa Air, AI Express say their B737 planes are not impacted by FAA directive
-The US Federal Aviation Administration (FAA) on Thursday issued an Airworthiness Directive (AD) for certain Boeing 737-8, 737-9 and 737-8200 aircraft
-
-## Govt-Meta talks turn technical; company outlines measures to curb deepfakes, CSAM
-Meta and the government held technical discussions, during which the company detailed how it plans to address the Centre’s concerns
+## Q1 Results Today Live: Delhivery, Anant Raj, Apollo Micro Systems, Akums Drugs Pharma, Aditya Birla Fashion, Ceigall India, PNC Infratech Oswal Pumps to announce Q1 results
+Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
 
 ## 100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know
 The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian energy purchases. India has increased its
@@ -84,29 +84,29 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Religare’s demerger nixed by RBI
 
 
+## Vehicle stuck in mud for hours, 17-year-old girl dies en route to hospital in J&K’s Rajouri
+The girl from Methyani village fell seriously ill and was being taken to GMC, Rajouri, when the vehicle got stranded for hours due to mudslide at Chak Methyani.
+
+## ‘Implement women’s quota bill unconditionally’: Rahul Gandhi hits back at BJP
+Women’s Reservation Bill, 2023 reserves one-third of seats for women in the Lok Sabha and state assemblies
+
+## HT archives: ‘Quit India’ begins, British crack down with tear gas squibs, lathis, arrests
+Yet, the crackdown failed to dampen the spirit of the movement, instead inspiring a new generation of young leaders.
+
+## IAF officer held for leaking defence data to Pak operative; was 'honey-trapped' by woman on social media
+The IAF Wing Commander was arrested in May under the Official Secrets Act (OSA) for “allegations of being honey trapped by a Pakistani Intelligence Operative”.
+
+## Many aspects of donation 'theft' probe done, chargesheet to be filed end of next month: Police
+Many aspects of donation 'theft' probe done, chargesheet to be filed end of next month: Police
+
+## No renewable energy project within 1 km of borders: MHA guidelines
+No renewable energy project within 1 km of borders: MHA guidelines
+
+## How US bill proposing 100% tariffs over Russian oil purchase could hurt India
+India, China, Slovakia, Hungary and Azerbaijan will face tariffs as the bill aims to increase economic pressure on Moscow over its invasion of Ukraine.
+
 ## ‘A morning I will cherish’: Raghav Chadha meets PM Modi, thanks him for ‘insights and guidance’
 Raghav Chadha said he was grateful for the Prime Minister’s time and for the opportunity to benefit from his “insights and guidance”.
-
-## CCTV, security audits: Parliament panel calls for tighter security at J&K tourist spots
-The panel’s suggestions come a year after 25 tourists and a pony operator were killed by three Pakistani terrorists in Pahalgam’s Baisaran meadow last year.
-
-## Tech to the Rescue: New apps aid relief, rehabilitation of Assam’s flood-affected
-Assam floods spur tech-led relief efforts as AI and community platforms connect flood-hit people with volunteers, NGOs and relief providers to coordinate aid.
-
-## Children under 13 could be barred from making accounts on social media, gaming platforms: Bill in Parliament
-As per the proposal, children under the age of 13 could be barred from creating accounts without parental consent along with limits on personalised advertising.
-
-## Centre mulling framework to check ‘offensive’ OTT content via review panel
-The Ministry of Information and Broadcasting is considering a statutory framework to regulate OTT content considered offensive to society’s moral standards.
-
-## Bengaluru woman's skeleton found inside home, cops suspect she may have died a year ago
-The deceased woman has been identified as 52-year-old Dakshayini and had been living alone in her house in Havanur Layout locality of Bagalagunte.
-
-## 21 land areas, four passes, a lake: List of Arunachal locations India named to counter China
-According to the MHA, identifying the places and features in Arunachal Pradesh is aimed to facilitate their accurate recognition and help public awareness.
-
-## Assam flood: Over 1.55 lakh people hit, toll at 98; damage assessment from Sunday
-Assam flood: Over 1.55 lakh people hit, toll at 98; damage assessment from Sunday
 
 ## Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report
 Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – national capital Beijing, financial centre Shanghai and southern Guangdong province, a technology and expor
