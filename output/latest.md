@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## At least 200 people evacuated as wildfire rages near Lake Garda
+At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.
+
+## Lebanese soldiers injured while Israeli troops intrude on southern town
+Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.
+
+## US slams Chinese ‘nature reserve’ as effort to claim South China Sea
+US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.
+
 ## ‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer
 The younger Biden son has addressed his father's debate performance and the pardon he received after felony convictions.
 
@@ -242,15 +251,6 @@ Fears increase for life of Hussam Abu Safia detained by Israel amid reports of t
 
 ## British Columbia issues evacuation orders ahead of fast-moving wildfires
 Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
-
-## Serbia and Ukraine pledge closer economic ties, eye free trade deal
-Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.
-
-## Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?
-The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.
-
-## Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG
-From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs' season?
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
