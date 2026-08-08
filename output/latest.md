@@ -42,29 +42,29 @@ Merely returning to normal won’t be enough if the government wants to meet its
 ## Burnham urged to rule out changes to pension lump sums in next Budget
 Do not invite pre-Budget speculation for third year running, City bosses warn new PM
 
-## Has coffee become the most misunderstood agricultural product in India?
-When it is understood, everyone across the coffee value chain—from farmer and producer to roaster, barista and consumer—stands to benefit
+## Share of insured bank deposits slips below 40% in value terms in FY26
+Share of fully protected accounts remained overwhelmingly high at 97.38% in FY26, only marginally lower than 97.56% in FY25 and 97.78% in FY24
 
-## Q1 Results Today Live: BEML Q1 loss narrows to ₹27 cr, Eveready profit up 22%, Aditya Birla Fashion Q1 loss widens to ₹249 cr; Delhivery, Akums Drugs Pharma among firms to announce results today
-Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
+## UPI transactions will remain free for consumers, says Phonepe CEO
+The current debate about the UPI ecosystem is not about changing the fundamental design principles
+
+## Q&T Foods fixes IPO price at ₹115 a share; offer to open on Aug 12
+The ₹26.24 crore IPO is entirely a fresh issue of 22,82,400 equity shares having a face value of ₹10 each
 
 ## DPIIT signs 5 MoUs to expand digital, cloud and investment support for startups
 These collaborations enhance digital infrastructure, offer mentorship, and foster investment, empowering startups to thrive globally
 
-## Molbio Diagnostics raises ₹281 cr from anchor investors ahead of IPO
-The IPO, with a price band of ₹768-807 per share, will open for public subscription on August 10 and conclude on August 12
-
-## Can agricultural waste become India’s next commodity?
-Treating agricultural residue as an economic resource could transform a seasonal environmental challenge into India’s most significant rural and green economy opportunities
-
 ## Aditya Birla Fashion and Retail Q1 loss widens to ₹249 crore
 Total expenses of ABFRL, which owns Pantaloons and Style Up brands , along with a host of ethnic brands, were at ₹2,395.45 crore, up 11.5%
 
-## High tokenisation cost will only optimise AI work: ServiceNow’s Sumeet Mathur
-We have committed to the street that we will have revenue of $1.5 billion by the end of next year, just from our AI related products, says Sumeet Mathur, Senior VP & MD, ServiceNow India Technology & Business Center
+## Andhra Pradesh offers rent-free land, subsidised power for mobile towers in remote villages
+Once the operational break-even threshold of approximately 450 subscribers per tower is reached, the subsidy will cease and the applicable electricity tariff will be levied
 
 ## Unsold housing inventory rises 4% YoY to over 5.25 lakh units in H1 2026: Knight Frank
 The report highlighted a mixed picture across price segments, with lower-priced housing continuing to see absorption while inventory increasingly gets concentrated in premium and luxury segments
+
+## Govt examines if Meta recommendation system deciding what-to-show-to-whom fits intermediary status
+The issue centres on whether a platform that actively decides what users see, can continue to claim intermediary status under the Information Technology Act
 
 ## Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations
 Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-ba
@@ -90,6 +90,18 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## RBI removes priority sector burden for FCNR(B) deposits
 
 
+## 18-year-old swept away while crossing drain in southeast Delhi amid heavy rain, search underway
+The incident took place on Friday evening near the Priyanka Camp Nala in Madanpur Khadar within the Sarita Vihar police station limits.
+
+## Chhattisgarh Christian Forum office-bearer held over ‘objectionable’ Lord Shiva post
+Bajrang Dal workers and leaders protested outside Pannalal’s residence in Raipur on Friday night. Heavy police deployment was made in the area
+
+## Ramesh Mhatre leaves jail after granted bail In doctors' assault case
+Doctors assault case: Bombay High Court grants bail to Shiv Sena corporator Ramesh Mhatre; orders trial to be fast-tracked.
+
+## 'In complete solidarity': CJP joins Jharkhand students' protest in Ranchi, vows to 'provide all forms of support'
+CJP spokesperson Ashutosh Ranks said the delegation, led by Mukesh and Akshay Shinde, would provide “all forms of support” to the students.
+
 ## After meeting PM Modi, Sukhbir Singh Badal’s SAD backs women’s quota, delimitation bills
 The Shiromani Akali Dal demanded the immediate implementation of the Women’s Reservation Bill, SAD president Sukhbir Singh Badal said in a post on X.
 
@@ -101,18 +113,6 @@ The ‘yagna’ was performed in the afternoon in front of the administrative bu
 
 ## E20 petrol ‘well within’ quality limits, oil companies dismiss contamination concerns after nationwide tests
 Nationwide testing of E20 discovered no evidence to support claims of high moisture or chloride contamination in ethanol, as per the companies' statement.
-
-## Big blow to CM Vijay's all-party meet on delimitation as 37 of 57 Tamil Nadu MPs opt out
-The meeting had been called to determine a state response to delimitation, which had raised concerns over the potential reduction of seats for southern states.
-
-## Pinarayi Vijayan demands withdrawal of order to sing full Vande Mataram on Aug 15
-While speaking to reporters, Vijayan alleged that the complete version of Vande Mataram was not in line with secularism, referring to Nehru and Congress policy.
-
-## Govt asks Meta to revamp algorithms, curb spread of propaganda: Report
-The government has sought these specific changes as part of efforts to strengthen the detection and removal of harmful and manipulated content.
-
-## Thackeray questions PM Modi meeting MPs who left Uddhav Sena
-He also criticised the six MPs who broke away from Sena UBT and joined Sena, a part of the National Democratic Alliance (NDA)
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Woman screams for her man as Ukraine war recruiters pounce
+## Drones spotted in Bulgaria and Germany raise concerns of Russian escalation
+The drone incidents in Europe have ignited fears that Moscow's war on Kyiv is now entangling NATO nations.
+
+## Police bodycam and CCTV catches Idaho mall shooting as it unfolds
+Police bodycam and CCTV catches Idaho mall shooting as it unfolds
+
+## Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone
+Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.
+
+## Arsenal complete signing of Newcastle midfielder Bruno Guimaraes
+Brazil international signed on a four-year contract with further one-year option for reported fee of about $101m.
+
+## ‘Hi friends’: Modi’s curious campaign to win over Gen Z
+For Gen Z in India, PM Narendra Modi is trying to become an unlikely friend through late-night Instagram reels.
+
+## The post-American Middle East is beginning to take shape
+The pact between Saudi Arabia, Pakistan and Turkiye is yet another step towards a new regional security architecture.
+
+## Families retrieve bodies after deadly shooting rampage outside Bangkok
+Thailand has one of the highest rates of gun ownership in Asia.
+
+## Woman screams in fear as Ukraine war recruiters pounce on man
 Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.
-
-## Yemen’s collapsing healthcare forces the sick to seek alternative medicines
-Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.
-
-## How Israel’s occupation fuels resistance
-Israel is trapped in a cycle it created.
-
-## Trump’s former personal lawyer narrowly confirmed as US attorney general
-US Senate confirms Todd Blanche in narrow vote despite concerns over independence of office.
-
-## Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit
-Saimoni Vunilagi was hospitalised with symptoms of heatstroke after rugby team training on Monday, but died on Friday.
-
-## Mount Etna ash suspends arrivals at Italy’s Catania airport
-Catania international airport services the eastern part of Sicily, one of Italy's most popular tourist destinations.
-
-## Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms
-Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.
-
-## US announces $400m investment in Australian rare earth mine
-Deal aims to secure scandium supply as China restricts exports for defence products.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
