@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG
+From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs' season?
+
 ## Opposition MP hurls eggs at Kosovo Prime Minister
 An opposition lawmaker threw eggs at acting Prime Minster Albin Kurti during a parliamentary session.
 
@@ -248,9 +251,6 @@ Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, acco
 
 ## War on Iran: Phase II: Day 28
 Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.
-
-## FIFA President Gianni Infantino denies claims UEFA paid off alleged lover
-However, UEFA says a 'departure payment' was made to a female employee when Infantino was the body's general-secretary.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
