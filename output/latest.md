@@ -84,6 +84,12 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Britannia signals another 1.5-2% price hike in Q2
 
 
+## US Vice President JD Vance dials PM Modi, discusses deepening India-US strategic ties
+Warmly congratulated him and the Second Lady on the birth of their son and conveyed best wishes to the entire family,” PM Modi wrote on X.
+
+## Man who tried to open emergency exit on Kochi flight booked for attempt to murder
+The passenger, identified as Jamsheer Athanikkal of Koottanad in Palakkad, was travelling on the Batik Air flight OD231 from Kuala Lumpur to Kochi.
+
 ## Jharkhand govt to hold fresh talks with students on Sunday protesting job exam 'irregularities'
 The talks will be held around 12 pm, the member said after the panel held a four-hour meeting with Chief Minister Hemant Soren.
 
@@ -101,12 +107,6 @@ According to the complaint, the MLA's daughter Pragya married Prakhar Trivedi, s
 
 ## Kerala Lower Primary School Teacher rank holders eat grass in protest over delay in appointments
 The agitation has crossed 34 days, highlighting the frustration of the candidates candidates who cleared the Kerala Public Service Commission examination.
-
-## Manipur govt announces free movement on NH, Imphal-Dimapur bus service to resume
-As part of the government’s ongoing peace-building and reconciliation efforts, the CM visited Kangpokpi district headquarters
-
-## 100+ horns on a bike? Video of Uttarakhand Police ‘seizing’ modified motorcycle goes viral
-A motorcycle fitted with over 100 horns has gained viral attention on social media, allegedly seized by Uttarakhand Police during the Kanwar Yatra.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The influencers taking on far-right leader Nigel Farage
+The UK media has been accused of giving far-right leader Nigel Farage an easy ride
+
 ## Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
 Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.
 
@@ -248,9 +251,6 @@ An opposition lawmaker threw eggs at acting Prime Minster Albin Kurti during a p
 
 ## UNRWA has been with me since birth, I cannot imagine a future without it
 The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it
-
-## Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria
-Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
