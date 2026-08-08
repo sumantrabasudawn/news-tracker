@@ -39,29 +39,29 @@ Airline will offer extra services and feed long-haul carriers under proposals
 ## UK manages record share of assets on behalf of overseas clients
 New data helps dispel worries over London’s status as a world-leading financial centre
 
-## Markets open lower as CAS correction weighs; RBI policy, earnings in focus
-Sensex opened at ₹79,132.97, was trading at ₹78,774.73, up ₹135.70 or 0.17%; Nifty 50 opened at 24,703.90, was trading at 24,599.05, down 175.25 points or 0.71%
+## Q1 Results Today Live: Delhivery, Anant Raj, Apollo Micro Systems, Akums Drugs Pharma, Aditya Birla Fashion, Ceigall India, PNC Infratech Oswal Pumps to announce Q1 results
+Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
 
-## Modi seeks sweeping tax cuts for global funds
-Lawmakers will seek to clear bills that formalise tax cuts for overseas investors buying Indian sovereign debt and insulate offshore funds from tax liability
+## Q2 cost expected to rise 4-5% sequentially, likely to peak in September quarter: Satish Pai
+“Our biggest investments are going into the new copper smelter and copper wire rod plant and we will also expand smelting and refining, as well as our rolling operations,” says Pai
 
-## Financial services landscape undergoing a fundamental shift: JFSL chairman
-KV Kamath says era of traditional ‘moats’ being challenged
+## NLC India Q1 profit falls 48% to ₹436 crore as deferred tax base effect weighs
+Higher mining output and electricity generation supported revenue growth despite a lower quarterly profit resulting from a one-time base effect
 
-## India's EV sales jump 63% YoY to over 3.07 lakh units in July; electric car sales up 81%: Report
-The report said electric car sales stood at 30,806 units in July, up 81% year-on-year, although they were down 2% from the previous month
+## NSE proposes tighter oversight of authorised persons, stricter eligibility norms
+Draft framework mandates higher qualifications, surveillance, biometric authentication and enhanced broker accountability to curb misconduct
 
-## Ashika Global Securities net up 15%, plans ₹1000 cr fund raise via QIP
-Board also approved plans to raise ₹1,000 crore through a Qualified Institutions Placement, subject to shareholders and regulatory approval.
+## SEBI streamlines inspections of market intermediaries, cuts routine visits
+Regulator to adopt risk-based approach, conduct joint inspections and prioritise high-risk entities from FY27
 
-## Commerce Department begins Budget consultations with industry amid global trade uncertainty
-Industry likely to push for extension of export incentives, customs duty rationalisation and lower compliance costs, among other measures
+## Big on Character
+The largest Mini yet argues that character still counts in a segment where everything else is a bit, well, homogenous
 
-## Bank Retirees’ body wants payment of ex-gratia to private sector bank pensioners
-AKBRF alleged that private sector banks such as DLB, Kotak Mahindra Bank, Karnataka Bank, Karur Vysya Bank, RBL Bank and SIB have not implemented payment of ex-gratia to the pensioners
+## Truck or Treat?
+The Toyota Hilux toys with duality, continuing with its traditional goodness while trying its hand at modernity
 
-## Crude oil futures rise as US-Iran talks remain uncertain
-October Brent oil futures were at $84.87, up by 1.31%, and September crude oil futures on WTI (West Texas Intermediate) were at $81.11, up by 0.96%
+## BTS & ARMY: Inside a self-sustaining global brand ecosystem | Overthinkers Anonymous | EP 01
+Did BTS just rewrite the rules of marketing?
 
 ## Hero MotoCorp Q1 PAT down 17% at 1.4k cr
 
@@ -87,29 +87,29 @@ October Brent oil futures were at $84.87, up by 1.31%, and September crude oil f
 ## ‘AI creating more jobs than it cuts in India’
 
 
-## ‘Need to check where we failed’: Tharoor says Cong's paper leak protest did not resonate as much as CJP's
-Shashi Tharoor made the the remarks during his conversation at the 15th anniversary of India's International Movement to Unite Nations (IIMUN) in Mumbai.
+## Fresh case against history-sheeter Ayanki over FB post targeting Kerala CM
+Fresh case against history-sheeter Ayanki over FB post targeting Kerala CM
 
-## Vijay’s wife withdraws petition to divorce him
-Sangeetha, the wife of Tamil Nadu chief minister C Joseph Vijay, on Friday withdrew her divorce petition filed before the family court in Chengalpattu, near Chennai
+## Rotten meat, fungus on veggies: Bengaluru's 3-star, 5-star hotels in soup over food safety violations
+An inspection across 26 hotels uncovered the stark food safety violations in Bengaluru as expired milk, bakery items among other rotten food items were found.
 
-## Army enhanced ‘non-kinetic’ ops capability: Parl panel informed
-The Indian Army has significantly enhanced its capabilities in cyber warfare, electronic warfare, information operations, and electromagnetic spectrum management, strengthening its capacity to conduct operations across the non-kinetic domain, the defence ministry informed a Parliamentary panel that 
+## K'taka CM calls on industries to partner with govt to boost rural education through CSR
+K'taka CM calls on industries to partner with govt to boost rural education through CSR
 
-## Oppn may press for statement by Shah as govt set to table FCRA bill
-A large section of the Opposition is set to continue to press for Union home minister Amit Shah’s statement on allegations of police excess during student protests in Jantar Mantar and stick to their demand even if the Foreign Contribution (Regulation) Amendment Bill is introduced in Parliament next
+## EC extends SIR deadline, BLOs get nine more days
+BENGALURU: The Election Commission has extended the deadline for Karnataka’s electoral roll revision from August 8 to August 17, giving Booth Level Officers nine additional days to complete house-to-house verification and pushing publication of the draft electoral roll to August 24 after nearly half
 
-## Bhagwat’s outreach to GenZ sparks slugfest
-RSS chief Mohan Bhagwat’s remarks defending Gen Z protesters as “not anti-national” triggered sharp political reactions on Friday, with the Congress accusing the Rashtriya Swayamsevak Sangh (RSS) of running the government from behind the scenes, while Jammu and Kashmir chief minister Omar Abdullah w
+## Upa Lokayukta takes sou motu action against 54 officials over Hampi homestays violations
+BIDAR: The Karnataka Upa Lokayukta has initiated suo motu proceedings against 54 officials over alleged failures to prevent unauthorised homestays and other commercial activity in the protected areas of Hampi
 
-## On day 3, MeitY-Meta technical teams hold talks on platform algorithms
-The Ministry of Electronics and Information Technology (MeitY) on Friday held a third round of discussions with Meta, this time with their technical team, focusing on technical aspects of the social media giant’s platform algorithms, two people aware of the matter said
+## Horatti quits after govt threatens no confidence motion
+The Karnataka Legislative Council chairman, Basavaraj Horatti, resigned on Friday after the Congress government told him it would seek his removal through a no confidence motion if he refused to step aside, clearing the way for the ruling party to take control of the Upper House
 
-## IT Act amendment proposed: Only senior cops may probe cybercrime cases
-MHA proposed amending the IT Act to require that cybercrime cases be investigated by police officers senior to the rank of inspector
+## Search resumes for 3 fishermen missing after separate boat mishaps in Kerala
+Search resumes for 3 fishermen missing after separate boat mishaps in Kerala
 
-## Ministry issues I-Day invites with Vande Mataram lyrics
-Invitation cards issued by the defence ministry for this year’s Independence Day ceremony at the Red Fort include the lyrics of Vande Mataram, which will be played for the first time at the annual celebrations during the hoisting of the national flag, officials aware of the matter said on Friday
+## Over Remarks against House: CM TN speaker rejects apology, to refer DMK MLA to House panel
+DMK MLA Markandayan G V on Friday appealed to the Tamil Nadu Assembly to forget the remarks he made against the House and chief minister C Joseph Vijay at a public meeting last month
 
 ## Hong Kong’s US dollar peg explained: history, benefits and risks
 As international investors diversify away from US dollar assets and amid the rise of internationalisation of the yuan, there are calls for reviewing the Hong Kong dollar’s peg. Here is what to know about the system. Why is the Hong Kong dollar pegged to the US dollar? The birth of the peg is closely
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian strikes near Ukrainian capital kill three, including child
+Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.
+
+## Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation
+Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.
+
+## US Senate passes Russia sanctions that could hurt India and China
+The US Senate approved its strongest move against Russia under Trump.
+
 ## Submerged Indonesian village re-emerges as drought lowers water levels
 Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.
 
@@ -246,14 +255,8 @@ Republican senators are using the summer recess to avoid politically difficult v
 ## Colombia’s new president takes office vowing to ‘crush’ narco-terrorism
 Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.
 
-## De la Espriella sworn in as Colombia’s leader, vows armed group crackdown
-The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.
-
-## Sudan’s war threatens an ‘entire generation’s’ future, UN warns
-War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.
-
-## Puerto Rico rations water as severe drought leaves reservoirs depleted
-Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.
+## BRICS trade meet clears MSME credit framework
+Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
@@ -276,9 +279,6 @@ Bill extends electronics manufacturing incentives till FY41, simplifies data cen
 ## Joint panel seeks to curb NFRA's powers, backs lower penalties and greater government oversight
 A parliamentary committee proposed limiting the National Financial Reporting Authority's powers. It also recommended reducing proposed penalties and preserving government oversight. The panel backed decriminalizing business laws and rationalizing penalties for non-compliance. It cautioned against re
 
-## Delhi HC grants relief to taxpayers, says 10% GST penalty appeal pre-deposit can't apply retrospectively
-Taxpayers challenging GST penalty orders received a major relief after the Delhi High Court ruled that the mandatory 10% pre-deposit for filing appeals cannot be imposed on proceedings that had already been initiated before the provision came into effect. The judgment clarifies the transitional appl
-
 ## RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley
 The Reserve Bank of India has proposed new directions that could limit the availability of revolving credit facilities for NBFCs. This change might notably affect flexi and overdraft loan offerings, leading to potential adjustments in products to comply with regulations. If borrowers are transitione
 
@@ -296,7 +296,4 @@ The Reserve Bank of India will resume issuing new licenses for urban cooperative
 
 ## RBI likely to maintain status quo on interest rates
 The Reserve Bank of India (RBI) is expected to leave key interest rates untouched in its monetary policy review to be announced on August 4 with an eye on promoting economic growth as inflation is seen to be under control, analysts said on Tuesday.
-
-## Rajya Sabha clears MSME bill to fast-track payment disputes amid Opposition protests
-The Rajya Sabha approved the MSME Development Amendment Bill, 2026, on Monday. This legislation aims to expedite delayed payment dispute resolutions for small businesses. It also seeks to improve cash flow and strengthen the sector's financial framework. Opposition members disrupted proceedings, dem
 
