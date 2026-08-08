@@ -1,67 +1,64 @@
 # AION Intelligence
 
-## Myanmar junta looks to come in from the cold with Aung San Suu Kyi photos
-Regime offers proof of life of jailed democracy icon as it steps up campaign to end international isolation
+## Six hot takes from Copenhagen Fashion Week
+The 20th-anniversary edition of the event championed underwear as street style, smart sustainability and cycling chic everywhere
 
-## China’s biggest travel site grapples with watchdog’s reservations
-Probe concludes that Trip.com abused its power as platform handling more than half of country’s hotel bookings
+## Parents of UK students dig deep to fund university costs
+Many expect to provide more than £50,000 towards tuition fees and living expenses, says survey
 
-## Rightwing populist ‘El Tigre’ sworn in as Colombia’s president
-Political neophyte Abelardo de la Espriella promises to crush organised crime and build Amazon mega-jails
+## Venezuelans take to the streets as country hit by daily blackouts
+Caracas experiencing power cuts for first time in 7 years despite government pledges to invest in grid
 
-## Moonshot shake-up seeks to win Beijing nod for stock market debut
-Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development
+## Kids, flats and student loans: Why UK first-time buyers are getting older
+One in three starts a family before having a home of their own
 
-## Police investigating Ann Widdecombe murder reopen inquiry into attempted burglary
-Counterterror officers had identified ‘relevant’ information missed during an investigation last year
+## The exciting boring decade
+Why hasn’t all the chaos in the real world inspired more interesting art?
 
-## Spain reinstates border controls on Italy as tensions rise over migrants
-Move widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni
+## London’s dejected housebuilders finally catch a break
+Merely returning to normal won’t be enough if the government wants to meet its ambitious construction targets
 
-## Iran’s oil exports stall and Kharg Island idles under US blockade
-Naval interdiction appears to be halting tankers from carrying Tehran’s crude
+## Burnham urged to rule out changes to pension lump sums in next Budget
+Do not invite pre-Budget speculation for third year running, City bosses warn new PM
 
-## US economy unexpectedly sheds 23,000 jobs in July
-Lacklustre figure prompts traders to scale back bets on Fed rate rises
+## The US bares its financial weak spot
+Yen intervention points to the squishy underbelly of American weakness
 
-## Mike Ashley says Harvey Nichols is in a ‘death spiral’
-Sports Direct founder casts doubt over department store chain’s prospects even as he vies to acquire it
+## Credit insurer to cut cover for UK housebuilder Vistry’s suppliers
+Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggling company
 
-## Taming AI’s wild frontier
-The most advanced systems are evolving faster than efforts to keep them safe
+## Sainsbury’s needs a dose of Big Tech’s boldness
+UK’s second-largest supermarket has spent the last two decades delivering distinctly terrestrial returns
 
-## UK housing market in ‘suspended animation’
-Lloyds’ data shows house prices were unchanged in July as higher mortgage rates stretch affordability
+## How to fix Britain’s housing crisis
+We need to find ways to lift the financial and resource constraints on new homebuilding
 
-## Premium seats, more charges: Apollo’s upmarket plans for easyJet
-Airline will offer extra services and feed long-haul carriers under proposals
+## The joy of cooking imaginary food
+From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eat
 
-## UK manages record share of assets on behalf of overseas clients
-New data helps dispel worries over London’s status as a world-leading financial centre
+## TN CM Vijay to brainstorm with MPs on Centre's delimitation proposal, DMK to boycott
+DMK sources said their MPs will not take part in the discussion to be led by the chief minister
 
-## Q1 Results Today Live: Delhivery, Anant Raj, Apollo Micro Systems, Akums Drugs Pharma, Aditya Birla Fashion, Ceigall India, PNC Infratech Oswal Pumps to announce Q1 results
-Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
+## OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls
+OpenAI has paused some internal development and trigger safety protocols of its upcoming AI model, Astra owing to "critical" cybersecurity risks
 
-## Q2 cost expected to rise 4-5% sequentially, likely to peak in September quarter: Satish Pai
-“Our biggest investments are going into the new copper smelter and copper wire rod plant and we will also expand smelting and refining, as well as our rolling operations,” says Pai
+## RBI proposes new prudential norms on capital adequacy for commercial banks
+Draft norms tighten leverage requirements, exposure calculations and capital distribution rules, reinforcing banking sector resilience under globally aligned regulatory standards
 
-## NLC India Q1 profit falls 48% to ₹436 crore as deferred tax base effect weighs
-Higher mining output and electricity generation supported revenue growth despite a lower quarterly profit resulting from a one-time base effect
+## Top five States account for 54% of Jan Dhan beneficiaries; SBI leads in accounts
+The latest data highlights regional concentration in banking access while showing improving account quality and stronger participation by public sector banks
 
-## NSE proposes tighter oversight of authorised persons, stricter eligibility norms
-Draft framework mandates higher qualifications, surveillance, biometric authentication and enhanced broker accountability to curb misconduct
+## Investments in gold ETFs continue to be net positive for 2nd week in a row
+However, there was a $7 outflow for every inflow of $10, data from World Gold Council (WGC) showed
 
-## SEBI streamlines inspections of market intermediaries, cuts routine visits
-Regulator to adopt risk-based approach, conduct joint inspections and prioritise high-risk entities from FY27
+## Ardee Industries IPO Day 3: Subscription hits over 133x led by NIIs demand
+Robust institutional and retail participation reflected strong investor appetite, with proceeds earmarked for working capital, debt reduction and expansion
 
-## Big on Character
-The largest Mini yet argues that character still counts in a segment where everything else is a bit, well, homogenous
+## India’s oilseeds acreage rises 3% on good rains, may attain Centre’s coverage target
+According to official sources, the area until Friday under groundnut was 46.82 lh, up by 8.6%, that of soyabean was 119.92 lh, up by 0.2% and sesamum at 9.96 lh, up by 16.9%
 
-## Truck or Treat?
-The Toyota Hilux toys with duality, continuing with its traditional goodness while trying its hand at modernity
-
-## BTS & ARMY: Inside a self-sustaining global brand ecosystem | Overthinkers Anonymous | EP 01
-Did BTS just rewrite the rules of marketing?
+## India sees record EV retail sales in July
+Total registrations neared 3.28 lakh units, jumping over 66% from the year-ago levels, according to FADA
 
 ## Hero MotoCorp Q1 PAT down 17% at 1.4k cr
 
@@ -87,6 +84,15 @@ Did BTS just rewrite the rules of marketing?
 ## ‘AI creating more jobs than it cuts in India’
 
 
+## Assam flood: Over 1.55 lakh people hit, toll at 98; damage assessment from Sunday
+Assam flood: Over 1.55 lakh people hit, toll at 98; damage assessment from Sunday
+
+## Why always Air India: Misinformation takes flight as airline meets turbulence
+Why always Air India: Misinformation takes flight as airline meets turbulence
+
+## 'FIFA' group, small chits: How 3 NTA experts at centre of NEET leak probe 'abused' positions
+On May 12, the testing agency cancelled the NEET-UG exam held on May 3 as allegations of a paper leak surfaced. A re-exam was subsequently conducted on June 21.
+
 ## Fresh case against history-sheeter Ayanki over FB post targeting Kerala CM
 Fresh case against history-sheeter Ayanki over FB post targeting Kerala CM
 
@@ -101,15 +107,6 @@ BENGALURU: The Election Commission has extended the deadline for Karnataka’s e
 
 ## Upa Lokayukta takes sou motu action against 54 officials over Hampi homestays violations
 BIDAR: The Karnataka Upa Lokayukta has initiated suo motu proceedings against 54 officials over alleged failures to prevent unauthorised homestays and other commercial activity in the protected areas of Hampi
-
-## Horatti quits after govt threatens no confidence motion
-The Karnataka Legislative Council chairman, Basavaraj Horatti, resigned on Friday after the Congress government told him it would seek his removal through a no confidence motion if he refused to step aside, clearing the way for the ruling party to take control of the Upper House
-
-## Search resumes for 3 fishermen missing after separate boat mishaps in Kerala
-Search resumes for 3 fishermen missing after separate boat mishaps in Kerala
-
-## Over Remarks against House: CM TN speaker rejects apology, to refer DMK MLA to House panel
-DMK MLA Markandayan G V on Friday appealed to the Tamil Nadu Assembly to forget the remarks he made against the House and chief minister C Joseph Vijay at a public meeting last month
 
 ## Hong Kong’s US dollar peg explained: history, benefits and risks
 As international investors diversify away from US dollar assets and amid the rise of internationalisation of the yuan, there are calls for reviewing the Hong Kong dollar’s peg. Here is what to know about the system. Why is the Hong Kong dollar pegged to the US dollar? The birth of the peg is closely
@@ -231,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Norway Football Federation calls for FIFA president to resign
+Norway’s football federation has called on Gianni Infantino to resign.
+
+## Armenia puts Church leader on trial for allegedly being a Russian spy
+Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.
+
+## ‘I’ve never been counted’: DR Congo’s first census in 42 years
+For many Congolese, the census is about identity, recognition and finally being recorded by the state.
+
 ## Russian strikes near Ukrainian capital kill three, including child
 Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.
 
@@ -245,15 +251,6 @@ Drone footage shows the remains of a submerged village re-emerging from Indonesi
 
 ## US courts clear way for deportations of South Sudan, Myanmar nationals
 Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.
-
-## What could the Mecca defence pact mean for the US role in the Middle East?
-Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.
-
-## Trump shifts blame to Republicans for waning support from public
-Republican senators are using the summer recess to avoid politically difficult votes.
-
-## Colombia’s new president takes office vowing to ‘crush’ narco-terrorism
-Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
@@ -279,6 +276,12 @@ Bill extends electronics manufacturing incentives till FY41, simplifies data cen
 ## Joint panel seeks to curb NFRA's powers, backs lower penalties and greater government oversight
 A parliamentary committee proposed limiting the National Financial Reporting Authority's powers. It also recommended reducing proposed penalties and preserving government oversight. The panel backed decriminalizing business laws and rationalizing penalties for non-compliance. It cautioned against re
 
+## India amends FDI rules to boost e-commerce for small businesses, artisans, farmers, and fishermen: Union Minister Piyush Goyal
+India has amended foreign direct investment regulations to boost e-commerce trade. These changes will help small businesses, artisans, farmers, and fishermen access wider markets. BRICS ministers discussed enhancing trade, investment, and industrial cooperation among member nations. Discussions also
+
+## Trump says Congress wants to regulate AI industry "out of business"
+Recent incidents involving AI systems escaping containment have heightened cybersecurity concerns. The National Institute of Standards and Technology has proposed new AI evaluation guidelines. Public comments are now invited on the proposed framework for measuring AI system impact.
+
 ## RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley
 The Reserve Bank of India has proposed new directions that could limit the availability of revolving credit facilities for NBFCs. This change might notably affect flexi and overdraft loan offerings, leading to potential adjustments in products to comply with regulations. If borrowers are transitione
 
@@ -293,7 +296,4 @@ The Reserve Bank of India will soon release a list of upper-layer NBFCs. New pri
 
 ## RBI to resume urban cooperative bank licensing process after two decades
 The Reserve Bank of India will resume issuing new licenses for urban cooperative banks. This process has been paused for over two decades due to past financial instability. Draft guidelines for resuming UCB licensing have now been issued by the central bank. The operating environment for these banks
-
-## RBI likely to maintain status quo on interest rates
-The Reserve Bank of India (RBI) is expected to leave key interest rates untouched in its monetary policy review to be announced on August 4 with an eye on promoting economic growth as inflation is seen to be under control, analysts said on Tuesday.
 
