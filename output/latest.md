@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Car bomb attack rattles Colombia after inauguration of hardline president
+Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.
+
 ## Will Pakistan-Saudi-Turkiye defence pact change US strategy?
 Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.
 
@@ -248,9 +251,6 @@ US State Department accuses China of attempting to deny Filipino vessels access 
 
 ## ‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer
 The younger Biden son has addressed his father's debate performance and the pardon he received after felony convictions.
-
-## Yemen’s government forces attack Houthis amid renewed shelling of Marib
-Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
