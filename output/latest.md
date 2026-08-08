@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## US Senate narrowly confirms Todd Blanche as US attorney-general
+Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump
+
 ## Widdecombe murder probe reopens inquiry into attempted burglary at Farage’s house
 Counterterror officers have identified ‘relevant’ information missed during an investigation last year
 
@@ -21,14 +24,14 @@ Why hasn’t all the chaos in the real world inspired more interesting art?
 ## London’s dejected housebuilders finally catch a break
 Merely returning to normal won’t be enough if the government wants to meet its ambitious construction targets
 
-## Burnham urged to rule out changes to pension lump sums in next Budget
-Do not invite pre-Budget speculation for third year running, City bosses warn new PM
-
 ## Credit insurer to cut cover for UK housebuilder Vistry’s suppliers
 Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggling company
 
 ## Sainsbury’s needs a dose of Big Tech’s boldness
 UK’s second-largest supermarket has spent the last two decades delivering distinctly terrestrial returns
+
+## Burnham urged to rule out changes to pension lump sums in next Budget
+Do not invite pre-Budget speculation for third year running, City bosses warn new PM
 
 ## How to fix Britain’s housing crisis
 We need to find ways to lift the financial and resource constraints on new homebuilding
@@ -36,29 +39,29 @@ We need to find ways to lift the financial and resource constraints on new homeb
 ## The joy of cooking imaginary food
 From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eat
 
-## No renewable energy project within 1 km of borders: MHA guidelines
-Under these guidelines, areas within 50 km of the Line of Control, Line of Actual Control, or the International Border have been designated as ‘sensitive areas’
+## Canada deported record 3,323 Indians in first half of 2026, data shows
+Canada routinely deports Indian nationals primarily due to non-compliance with immigration rules, rejected asylum or refugee claims, visa overstays and visa fraud scams
 
-## Govt examines if Meta recommendation system deciding what-to-show-to-whom fits intermediary status
-The issue centres on whether a platform that actively decides what users see, can continue to claim intermediary status under the Information Technology Act
+## Unclaimed mutual fund dividends rise 15.7% to ₹ 2,689 crore in FY26: SEBI
+Taken together, unclaimed dividend and redemption amounts in mutual funds stood at ₹3,811 crore as of March 31, 2026, compared with ₹3,452 crore at the end of the preceding financial year
+
+## India, Russia reaffirm commitment to advance defence industrial and technological cooperation
+India and Russia exchanged anti-terror strategies and agreed to expand joint mechanisms tackling violent extremism, radicalisation, financial channels of terror and the exploitation of modern digital financial instruments
 
 ## Q1 Results Today Live: Delhivery, Anant Raj, Apollo Micro Systems, Akums Drugs Pharma, Aditya Birla Fashion, Ceigall India, PNC Infratech Oswal Pumps to announce Q1 results
 Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
 
-## Air India can’t seem to catch a break as passengers blame airline for turbulence
-A recent incident in which 17 passengers were injured due to turbulence on an Air India flight from Phuket has spawned a litany of complaints on social media
+## AI boom or Dot-com echo
 
-## Nvidia to invest up to $3 billion in Stargate data centre developer Lancium
-Nvidia will invest ​up to $3 billion in ‌Lancium; the chip-maker will invest an initial $2 billion for ‌a stake of roughly 20 per cent in the power infrastructure developer
 
-## ASK Property Fund invests in Bhumika Group real estate projects
-ASK Property Fund will invest ₹125 crore in a plotted development project in Faridabad, as a part of its arrangement to invest ₹500 crore in Bhumika Group real estate projects
+## Fresh 100% US tariff threat could add to India's inflation, CAD pressures: CareEdge
+Gupta said that if India is forced to reduce its dependence on Russian crude while the Strait of Hormuz remains disrupted, global oil supplies could come under severe pressure, potentially pushing crude prices beyond $100 per barrel
 
-## India, African Union in touch to finalise mutually convenient dates for India-Africa Summit: MEA
-Responding to a query on the India-Africa Summit, Jaiswal said the event had been postponed after consultations with the African Union and that both sides are now working towards holding it at a mutually convenient time
+## India's energy transition may create new import dependence on critical minerals: CII-EY
+Critical minerals such as lithium, nickel, cobalt, silicon and rare earth elements will become increasingly important for the clean-energy transition
 
-## US Senate passes sweeping Russia sanctions bill, House vote next
-A bipartisan Senate vote advances tougher economic pressure on Russia while setting up a contentious House debate over presidential tariff powers.
+## Pralhad Joshi discusses next course of action, reviews key initiatives of Education Ministry
+At the BRICS meeting, the Union Minister reiterated India's commitment to working closely with all the BRICS partners and expressed confidence that the momentum generated during the meeting would translate into meaningful action
 
 ## 100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know
 The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian energy purchases. India has increased its
@@ -84,29 +87,29 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Religare’s demerger nixed by RBI
 
 
+## Cricketer Rishabh Pant seeks land in Uttarakhand, CM Dhami directs officials to help
+Uttarakhand CM Dhami promises to assist cricketer Rishabh Pant with land acquisition after his three-year struggle to relocate from Delhi.
+
+## Yogi Adityanath showers petals on Kanwariyas in Meerut | Watch
+Earlier in the day, the UP CM conducted an aerial survey by helicopter over the Meerut region to review the arrangements in place for the pilgrimage.
+
+## 7 killed, 11 injured in Himachal bus accident; PM Modi expresses sorrow
+Seven people were killed, and eleven were injured after a private bus skidded off the road and met with an accident in Himachal Pradesh's Chamba district.
+
+## ABVP's scuffle with cops, Jharkhand govt's ‘quick decision’ assurance: What's latest on student protests?
+The protesters have been demanding the cancellation of the 14th Jharkhand PSC Civil Services Examination over alleged paper leak.
+
+## You will influence journey of 'Viksit Bharat': PM Modi's message to Gen Z at IIT-Delhi convocation
+Addressing the convocation ceremony of the IIT, Delhi, Modi said the rapid pace of change means nobody can predict what the next 20 to 30 years will look like.
+
+## Who is Neha Bora? Activist in focus over Jharkhand protest sat on hunger strike next to Wangchuk at Jantar Mantar
+Neha Bora shot to fame during the Jantar Mantar protests, where she spent 23 days on hunger strike alongside AISA leaders and Sonam Wangchuk.
+
 ## BJP MLA lodges FIR against 4 including Bhagalpur central jail supdt: Bihar Police
 Bihar BJP MLA Rakesh Ranjan Ojha alleged that three jail inmates were plotting to kill him, with the Bhagalpur jail superintendent also named in the FIR.
 
-## Shahi paneer, pizza, momo without onion, garlic. Kanwar camps striking perfect balance on menus
+## Shahi paneer, pizza, momo without onion, garlic. The menu at Kanwar camps
 The UP government said the district authorities are continuously inspecting private camps to monitor food quality, hygiene standards, and overall arrangements.
-
-## Vehicle stuck in mud for hours, 17-year-old girl dies en route to hospital in J&K’s Rajouri
-The girl from Methyani village fell seriously ill and was being taken to GMC, Rajouri, when the vehicle got stranded for hours due to mudslide at Chak Methyani.
-
-## ‘Implement women’s quota bill unconditionally’: Rahul Gandhi hits back at BJP
-Women’s Reservation Bill, 2023 reserves one-third of seats for women in the Lok Sabha and state assemblies
-
-## HT archives: ‘Quit India’ begins, British crack down with tear gas squibs, lathis, arrests
-Yet, the crackdown failed to dampen the spirit of the movement, instead inspiring a new generation of young leaders.
-
-## IAF officer held for leaking defence data to Pak operative; was 'honey-trapped' by woman on social media
-The IAF wing commander was befriended by a Pakistani operative and has been charged under the Official Secrets Act for sharing critical defence information.
-
-## No renewable energy project within 1 km of borders: MHA guidelines
-No renewable energy project within 1 km of borders: MHA guidelines
-
-## How US bill proposing 100% tariffs over Russian oil purchase could hurt India
-India, China, Slovakia, Hungary and Azerbaijan will face tariffs as the bill aims to increase economic pressure on Moscow over its invasion of Ukraine.
 
 ## Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report
 Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – national capital Beijing, financial centre Shanghai and southern Guangdong province, a technology and expor
@@ -228,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Messi will decide when he retires, says Argentina FA chief
+Retirement rumours surrounded Lionel Messi at last two World Cups, but Argentina FA chief says decision will be his.
+
+## Typhoon Dolphin hits Japan, heads towards China
+Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.
+
+## Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland
+Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second game of five-match ODI series.
+
 ## South Korea FA apologises over ‘sexual services’ allegations
 Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.
 
@@ -242,15 +254,6 @@ Shakib Al Hasan says he will return home to face trial if safety assured, but Ba
 
 ## Violence is driving Palestinian Christians out of their Holy Land
 Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.
-
-## FIFA’s Infantino backed in Colombia where he attends president inauguration
-FIFA president Gianni Infantino gets South American football's backing while at Abelardo de la Espriella's inauguration.
-
-## Norway Football Federation calls for FIFA president to resign
-Norway’s football federation has called on Gianni Infantino to resign.
-
-## Armenia puts Church leader on trial for allegedly being a Russian spy
-Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
