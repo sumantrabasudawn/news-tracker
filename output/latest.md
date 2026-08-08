@@ -84,6 +84,9 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Britannia signals another 1.5-2% price hike in Q2
 
 
+## Jharkhand govt to hold fresh talks with students on Sunday protesting job exam 'irregularities'
+The talks will be held around 12 pm, the member said after the panel held a four-hour meeting with Chief Minister Hemant Soren.
+
 ## 'Modi understands language of votes only': Kejriwal reveals plan to pressure Centre over E20 policy
 Arvind Kejriwal comments come as part of his solution to pressure the Modi govt to roll back E20 fuel policy.
 
@@ -104,9 +107,6 @@ As part of the government’s ongoing peace-building and reconciliation efforts,
 
 ## 100+ horns on a bike? Video of Uttarakhand Police ‘seizing’ modified motorcycle goes viral
 A motorcycle fitted with over 100 horns has gained viral attention on social media, allegedly seized by Uttarakhand Police during the Kanwar Yatra.
-
-## 'CM Yogi is rattled': Cong attacks BJP for sabotaging 'Chhatron Ki Goonj' event in Prayagraj
-KC Venugopal dded that no “petty” tactics will deter Rahul Gandhi’s efforts from raising the issues of the students.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
+Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.
+
+## British Columbia issues evacuation orders ahead of fast-moving wildfires
+Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
+
+## Serbia and Ukraine pledge closer economic ties, eye free trade deal
+Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.
+
+## Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?
+The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.
+
 ## Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG
 From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs' season?
 
@@ -239,18 +251,6 @@ The UN body has been part of the lives of millions of Palestinian refugees. Post
 
 ## Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria
 Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.
-
-## UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties
-Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.
-
-## Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani
-In an interview with Al Jazeera, Masrour Barzani denies any 'pressure' to enter the Iran war despite over 1,000 attacks.
-
-## Lionel Messi’s father dies aged 68 after a long illness
-Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.
-
-## War on Iran: Phase II: Day 28
-Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
