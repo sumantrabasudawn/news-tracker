@@ -1,13 +1,13 @@
 # AION Intelligence
 
-## US Senate narrowly confirms Todd Blanche as US attorney-general
-Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump
-
-## Iranian missile targets UAE tanker despite talks to reopen strait
-Latest attacks launched as Iran said it was close to finalising deal with Oman to manage shipping through Hormuz
+## Tehran says US must ‘rectify its behaviour’ before Iran reopens strait
+Senior security official wants Washington to pay compensation for war damage
 
 ## Greg Abel finally puts Buffett’s cash pile to work
 Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks
+
+## US Senate narrowly confirms Todd Blanche as US attorney-general
+Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump
 
 ## Solar eclipse threatens to tighten Europe’s electricity squeeze
 Continent’s power system already under stress from heatwaves
@@ -36,6 +36,15 @@ UK’s second-largest supermarket has spent the last two decades delivering dist
 ## Kids, flats and student loans: Why UK first-time buyers are getting older
 One in three starts a family before having a home of their own
 
+## Government clarifies UPI users will not be charged, says MDR may apply to select merchants
+Finance Ministry said, “Consumers making payments will not face any transaction charges” and that “all Person-to-Person transactions will continue to be free of charge”
+
+## Retail participation in IPOs remains lacklustre as investors eye quality over listing day gains
+Of the 12 issues that hit the market in July, the retail portion of only five was oversubscribed in double digits, while six issues registered single digit oversubscription
+
+## Q1 Results Highlights: BEML loss narrows to ₹27 cr, Eveready profit up 22%, Aditya Birla Fashion loss widens to ₹249 cr, Cupid profit nearly triples, Ceigall up 35%
+Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
+
 ## Should you subscribe to Dhoot Transmission’s IPO?
 The IPO of Dhoot Transmission is open for subscription from August 10-12
 
@@ -51,14 +60,8 @@ Indus Towers (₹386*) has announced an interim dividend, which will lead to nec
 ## Tech Query: Bajaj Auto, MRF, LMW, Asian Granito India – What is the outlook? Where are these stocks headed?
 We look at the prospects of Bajaj Auto, MRF, LMW, Asian Granito India
 
-## Bandu’s Blockbusters for August 9, 2026
-Guess the stock that will give the best return by next Friday
-
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of Indian Bank, LT Foods and MCX
-
-## IOCL leverages Sprint 2.0 to strengthen brand image, expand retail presence
-Last year, Project Sprint helped us save around ₹2,200 crore; for instance, IOCL’s Fuel & Loss stood at 8% in Q1 FY27, compared to 8.5% in Q1 FY26 and FY26, which is a “very good margin” to save
+## Berkshire Hathaway Q2 earnings: Profit rises 16% to $12.98 billion as buybacks accelerate
+Berkshire Hathaway showcased impressive growth in its second-quarter results, with notable increases in both operating profit and net income. While revenue surged, the company's cash reserves took a hit from recent stock buybacks. Although Geico struggled, profits rose in BNSF Railway and other sect
 
 ## Kavach: What makes Indian Railways indigenous world-class tech special
 Indian Railways is prioritising Kavach deployment on high-density and highly used network routes, which carry nearly 96% of railway traffic. Now, the next-generation Kavach 5.0 is being developed for suburban rail operations with an aim to support higher train frequencies.
@@ -81,8 +84,11 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Britannia signals another 1.5-2% price hike in Q2
 
 
-## US employers cut 23k jobs amid war strain
+## 'Modi understands language of votes only': Kejriwal reveals plan to pressure Centre over E20 policy
+Arvind Kejriwal comments come as part of his solution to pressure the Modi govt to roll back E20 fuel policy.
 
+## 8 from banned underground outfits arrested with arms, explosives: Manipur police
+According to the statement, the arrest were made in different areas including Imphal East, Imphal West, Bishnupur, Kakching and Tengnoupal district
 
 ## After Vijay-led all-party meet, Tamil Nadu leaders vow united front against delimitation
 The meeting, held at Kalaivanar Arangam, was attended by around 21 Lok Sabha and Rajya Sabha MPs, primarily from the Congress, VCK, CPI, CPI(M), MDMK and IUML.
@@ -101,12 +107,6 @@ A motorcycle fitted with over 100 horns has gained viral attention on social med
 
 ## 'CM Yogi is rattled': Cong attacks BJP for sabotaging 'Chhatron Ki Goonj' event in Prayagraj
 KC Venugopal dded that no “petty” tactics will deter Rahul Gandhi’s efforts from raising the issues of the students.
-
-## ‘Most passengers discharged, DGCA investigating’: Ram Mohan Naidu on Air India flight turbulence
-Speaking on the medical status of those affected, the Minister noted that the majority of injured passengers were treated and released shortly after landing.
-
-## ‘Degree means nothing in India today’: Rahul talks of ‘dard’, ‘data’ and 'daulat' at ‘Chhatron ki Goonj’ event
-Rahul Gandhi said a degree certificate “means nothing in India today” because it does not lead to a job.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Opposition MP hurls eggs at Kosovo Prime Minister
+An opposition lawmaker threw eggs at acting Prime Minster Albin Kurti during a parliamentary session.
+
+## UNRWA has been with me since birth, I cannot imagine a future without it
+The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it
+
+## Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria
+Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.
+
 ## UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties
 Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.
 
@@ -242,15 +251,6 @@ Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Horm
 
 ## FIFA President Gianni Infantino denies claims UEFA paid off alleged lover
 However, UEFA says a 'departure payment' was made to a female employee when Infantino was the body's general-secretary.
-
-## Iran deliberates Hormuz arrangement amid uncertain prospects with US
-Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.
-
-## Israel mulls Saudi, Turkiye, Pakistan pact as elections loom
-Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain.
-
-## Ivory Coast’s ‘talking drum’ returns to home village after 110 years
-Ivory Coast's 'talking drum' returns to home village after 110 years
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
