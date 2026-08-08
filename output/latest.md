@@ -63,53 +63,56 @@ AKBRF alleged that private sector banks such as DLB, Kotak Mahindra Bank, Karnat
 ## Crude oil futures rise as US-Iran talks remain uncertain
 October Brent oil futures were at $84.87, up by 1.31%, and September crude oil futures on WTI (West Texas Intermediate) were at $81.11, up by 0.96%
 
-## Onion, oil or chicken: What made your thali costlier in July
-In July, the prices for home-cooked thalis surged compared to the previous year, with vegetarian options increasing by four percent and non-vegetarian increasing by nine percent. The rise in costs was driven by expensive onions, vegetable oil, and LPG for vegetarian meals, while non-vegetarian thali
+## Hero MotoCorp Q1 PAT down 17% at 1.4k cr
 
-## More hirings than firings: Nomura report tests ‘ground zero’; says AI creating more jobs in India than cuts
-According to the report by Nomura Holdings Inc, AI-driven recruitment continues to be more than job losses in the country. Given the country's vast workforce, India is experiencing the "largest absolute impact" of AI across layoffs, hiring freezes and recruitment.
 
-## Food for thought: Global food prices rise in July as cereals, sugar turn costly
-In July, global food prices saw a notable rise, with cereals, vegetable oils, and sugar reflecting increased costs. Wheat and maize surged due to weather conditions and market apprehensions. Vegetable oils peaked since June 2022, bolstered by robust demand. Sugar prices also rebounded, driven by wea
+## RBI move on revolving credit hits NBFC stocks
 
-## US stock market today: Wall Street rallies as 23,000 job cuts boost hopes of softer Fed policy
-Large-cap technology companies provided much of the market's upward momentum, reflecting their significant influence on the broader indexes. Nvidia rose 1.3%, while Broadcom added 1.1%.
 
-## ‘No hire, no fire’: US employers unexpectedly cut 23,000 jobs - sharp reversal for labour market
-The employment report released by the Labor Department on Friday signalled a sharp deterioration in the US labour market and dealt a political blow to President Donald Trump. Among the biggest job losses, local public schools shed 50,000 positions in July, while restaurants and bars eliminated 26,00
+## Hindalco Q1 net jumps 75% to over 7,000 crore
 
-## Will you have to pay to use UPI? 7 FAQs on possible MDR and what it means for consumers answered
-The government is expected to permit a Merchant Discount Rate (MDR) of between 0.25% and 0.4% on UPI transactions above Rs 2,000 made to businesses, while person-to-person payments are likely to remain outside the scope of the proposed levy. The proposal is not expected to affect routine purchases s
 
-## Younger, wider, diverse: How India's investor base is changing
-India's investor community is witnessing remarkable transformation, with a younger demographic leading the growth. The median age of investors has notably declined, indicating an influx of fresh talent. Additionally, participation is extending beyond major metropolitan areas, while the growing numbe
+## Britannia signals another 1.5-2% price hike in Q2
 
-## Why stock market's close is now an auction - explained
-For over three decades, the closing price was the volume-weighted average (VWAP) of all trades between 3:00 pm and 3:30 pm. Nobody actually traded at that price. It was a calculation, not a transaction. For long-term investors, nothing changes. For index funds and traders, the closing routine is now
 
-## PM Modi-Sukhbir Badal meet sparks buzz. BJP-Akali Dal to unite for Punjab polls?
-The one-on-one meeting at the PM's Office in Parliament House complex came years after the SAD walked out of the BJP-led NDA in 2020.
+## US employers cut 23k jobs amid war strain
 
-## From NTA's Delhi building to Pune: How NEET questions made it out
-At the centre of the 20,000-page chargesheet are three Pune-based experts appointed by the NTA who allegedly originated the leak.
 
-## ‘Freedom fighters took bullets, you fear eggs?’: SC refuses Mahua Moitra's plea seeking to virtually join probe
-Mahua Moitra had sought to join police interrogation through video-conferencing in a case over her allegedly provocative Facebook posts.
+## RBI removes priority sector burden for FCNR(B) deposits
 
-## Punjab Assembly: AAP MLA questions minister over non-bidding of panchayat land
-Punjab Assembly: AAP MLA questions minister over non-bidding of panchayat land
 
-## US supplies about 67% of India's LPG imports, reducing Gulf reliance: Hardeep Puri
-Hardeep Puri noted that India is now the world's third-largest energy consumer and importer, and the fourth-largest refiner
+## Religare’s demerger nixed by RBI
 
-## Indian-origin doctor seeking Trump pardon gave $1 million to MAGA fund
-Krishna Tripuraneni, who served prison time for tax fraud, donated $1 million to Trump’s MAGA Inc fund while seeking a presidential pardon.
 
-## MHA proposes higher rank officers for cybercrime probes under IT Act
-MHA has proposed an IT Act amendment to ensure cybercrime cases are investigated by police officers above inspector rank, following a panel recommendation.
+## ‘AI creating more jobs than it cuts in India’
 
-## ‘America shooting itself in the foot’: US Senators Wyden, Paul oppose 100% tariffs on India, China
-US senators opposed tariffs during debate on a Russia sanctions bill. It affects India as the country relies more on Russian energy amid the West Asia conflict
+
+## ‘Need to check where we failed’: Tharoor says Cong's paper leak protest did not resonate as much as CJP's
+Shashi Tharoor made the the remarks during his conversation at the 15th anniversary of India's International Movement to Unite Nations (IIMUN) in Mumbai.
+
+## Vijay’s wife withdraws petition to divorce him
+Sangeetha, the wife of Tamil Nadu chief minister C Joseph Vijay, on Friday withdrew her divorce petition filed before the family court in Chengalpattu, near Chennai
+
+## Army enhanced ‘non-kinetic’ ops capability: Parl panel informed
+The Indian Army has significantly enhanced its capabilities in cyber warfare, electronic warfare, information operations, and electromagnetic spectrum management, strengthening its capacity to conduct operations across the non-kinetic domain, the defence ministry informed a Parliamentary panel that 
+
+## Oppn may press for statement by Shah as govt set to table FCRA bill
+A large section of the Opposition is set to continue to press for Union home minister Amit Shah’s statement on allegations of police excess during student protests in Jantar Mantar and stick to their demand even if the Foreign Contribution (Regulation) Amendment Bill is introduced in Parliament next
+
+## Bhagwat’s outreach to GenZ sparks slugfest
+RSS chief Mohan Bhagwat’s remarks defending Gen Z protesters as “not anti-national” triggered sharp political reactions on Friday, with the Congress accusing the Rashtriya Swayamsevak Sangh (RSS) of running the government from behind the scenes, while Jammu and Kashmir chief minister Omar Abdullah w
+
+## On day 3, MeitY-Meta technical teams hold talks on platform algorithms
+The Ministry of Electronics and Information Technology (MeitY) on Friday held a third round of discussions with Meta, this time with their technical team, focusing on technical aspects of the social media giant’s platform algorithms, two people aware of the matter said
+
+## IT Act amendment proposed: Only senior cops may probe cybercrime cases
+MHA proposed amending the IT Act to require that cybercrime cases be investigated by police officers senior to the rank of inspector
+
+## Ministry issues I-Day invites with Vande Mataram lyrics
+Invitation cards issued by the defence ministry for this year’s Independence Day ceremony at the Red Fort include the lyrics of Vande Mataram, which will be played for the first time at the annual celebrations during the hoisting of the national flag, officials aware of the matter said on Friday
+
+## Hong Kong’s US dollar peg explained: history, benefits and risks
+As international investors diversify away from US dollar assets and amid the rise of internationalisation of the yuan, there are calls for reviewing the Hong Kong dollar’s peg. Here is what to know about the system. Why is the Hong Kong dollar pegged to the US dollar? The birth of the peg is closely
 
 ## Meet the next generation of Chinese stars influencing how global finance operates
 A new generation of Chinese stars is influencing how global finance operates – applying analytical power, cross-cultural agility, and resilience developed in China’s demanding environments straight to leading firms from Citadel Securities to BlackRock. That shift is easier to grasp by looking beyond
@@ -131,9 +134,6 @@ The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh ca
 
 ## Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs
 The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil prices ease fears of monetary tightening. The tech-heavy Star Market 50 Index, whi
-
-## Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs
-China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as their preferred base amid a broader crackdown on outflows of state cash. Decades of overseas expansion had seen many SOEs build up assets in multiple ju
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Submerged Indonesian village re-emerges as drought lowers water levels
+Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.
+
+## US courts clear way for deportations of South Sudan, Myanmar nationals
+Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.
+
 ## What could the Mecca defence pact mean for the US role in the Middle East?
 Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.
 
@@ -248,12 +254,6 @@ War in Sudan has left over 8 million children out of school, and nearly three-qu
 
 ## Puerto Rico rations water as severe drought leaves reservoirs depleted
 Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.
-
-## US Senate passes sweeping Russian energy sanctions bill amid Ukraine war
-Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.
-
-## Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms
-Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.
 
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
