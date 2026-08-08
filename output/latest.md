@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Greg Abel finally puts Buffett’s cash pile to work
+Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks
+
+## Solar eclipse threatens to tighten Europe’s electricity squeeze
+Continent’s power system already under stress from heatwaves
+
 ## First Brands urges court to approve bankruptcy settlement
 Plan would fund lawsuits to pursue billions of dollars in claims arising from alleged fraud scheme at collapsed car-parts maker
 
@@ -18,12 +24,6 @@ You can’t fight macro with FX interventions
 ## US Senate narrowly confirms Todd Blanche as US attorney-general
 Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump
 
-## Widdecombe murder probe reopens inquiry into attempted burglary at Farage’s house
-Counterterror officers have identified ‘relevant’ information missed during an investigation last year
-
-## Six hot takes from Copenhagen Fashion Week
-The 20th-anniversary edition of the event championed underwear as street style, smart sustainability and cycling chic everywhere
-
 ## Venezuelans take to the streets as country hit by daily blackouts
 Caracas experiencing power cuts for first time in 7 years despite government pledges to invest in grid
 
@@ -36,35 +36,29 @@ UK’s second-largest supermarket has spent the last two decades delivering dist
 ## Kids, flats and student loans: Why UK first-time buyers are getting older
 One in three starts a family before having a home of their own
 
-## London’s dejected housebuilders finally catch a break
-Merely returning to normal won’t be enough if the government wants to meet its ambitious construction targets
+## Retail participation in IPOs remains dull as investors eye quality over listing day gains
+Of the 12 issues that hit the market in July, the retail portion of only five was oversubscribed in double digits, while six issues registered single digit oversubscription
 
-## Burnham urged to rule out changes to pension lump sums in next Budget
-Do not invite pre-Budget speculation for third year running, City bosses warn new PM
+## Govt to launch seafarer tracking dashboard on August 15
+This will enable constant monitoring, co-ordinated action and an effective response to support seafarers in an event of crisis
 
-## Share of insured bank deposits slips below 40% in value terms in FY26
-Share of fully protected accounts remained overwhelmingly high at 97.38% in FY26, only marginally lower than 97.56% in FY25 and 97.78% in FY24
+## Chandigarh University Researchers Granted Patent for Attendance-Based Health Monitoring System to Monitor Three Vital Health Parameters
+Chandigarh University Researchers Granted Patent for Attendance-Based Health Monitoring System to Monitor Three Vital Health Parameters
+
+## 12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills
+12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills
 
 ## UPI transactions will remain free for consumers, says Phonepe CEO
 The current debate about the UPI ecosystem is not about changing the fundamental design principles
 
+## Monsoon poised for fresh surge, riding on twin low-pressure areas
+Though separated by thousands of kilometres, emerging Indian Ocean Dipole and a massive El Nino might be interacting through atmospheric teleconnections, reshaping rainfall patterns
+
+## Share of insured bank deposits slips below 40% in value terms in FY26
+Share of fully protected accounts remained overwhelmingly high at 97.38% in FY26, only marginally lower than 97.56% in FY25 and 97.78% in FY24
+
 ## Q&T Foods fixes IPO price at ₹115 a share; offer to open on Aug 12
 The ₹26.24 crore IPO is entirely a fresh issue of 22,82,400 equity shares having a face value of ₹10 each
-
-## DPIIT signs 5 MoUs to expand digital, cloud and investment support for startups
-These collaborations enhance digital infrastructure, offer mentorship, and foster investment, empowering startups to thrive globally
-
-## Aditya Birla Fashion and Retail Q1 loss widens to ₹249 crore
-Total expenses of ABFRL, which owns Pantaloons and Style Up brands , along with a host of ethnic brands, were at ₹2,395.45 crore, up 11.5%
-
-## Andhra Pradesh offers rent-free land, subsidised power for mobile towers in remote villages
-Once the operational break-even threshold of approximately 450 subscribers per tower is reached, the subsidy will cease and the applicable electricity tariff will be levied
-
-## Unsold housing inventory rises 4% YoY to over 5.25 lakh units in H1 2026: Knight Frank
-The report highlighted a mixed picture across price segments, with lower-priced housing continuing to see absorption while inventory increasingly gets concentrated in premium and luxury segments
-
-## Govt examines if Meta recommendation system deciding what-to-show-to-whom fits intermediary status
-The issue centres on whether a platform that actively decides what users see, can continue to claim intermediary status under the Information Technology Act
 
 ## Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations
 Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-ba
@@ -90,13 +84,19 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## RBI removes priority sector burden for FCNR(B) deposits
 
 
+## 'Visible change of heart from Congress': Rijiju, Rahul spar on X over women's quota, delimitation bills
+The exchange began after Kiren Rijiju responded to a video posted by Rahul Gandhi, in which the Congress MP is seen answering a question about young women.
+
+## 'Separatism In Kashmir, Punjab, Assam…': In 1990 Independence Day speech, Then-PM VP Singh's warning
+As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister V.P. Singh's historic Independence Day address from the Red Fort.
+
 ## 18-year-old swept away while crossing drain in southeast Delhi amid heavy rain, search underway
 The incident took place on Friday evening near the Priyanka Camp Nala in Madanpur Khadar within the Sarita Vihar police station limits.
 
 ## Chhattisgarh Christian Forum office-bearer held over ‘objectionable’ Lord Shiva post
 Bajrang Dal workers and leaders protested outside Pannalal’s residence in Raipur on Friday night. Heavy police deployment was made in the area
 
-## Ramesh Mhatre leaves jail after granted bail In doctors' assault case
+## Ramesh Mhatre leaves jail after granted bail in doctors' assault case
 Doctors assault case: Bombay High Court grants bail to Shiv Sena corporator Ramesh Mhatre; orders trial to be fast-tracked.
 
 ## 'In complete solidarity': CJP joins Jharkhand students' protest in Ranchi, vows to 'provide all forms of support'
@@ -107,12 +107,6 @@ The Shiromani Akali Dal demanded the immediate implementation of the Women’s R
 
 ## Chhattisgarh horror: 65-year-old man held for rape-murder of woman, killing her infant daughter
 The cops arrested the accused, identified as Bhikariram Nagvanshi, on August 6 after weeks of intensive probe, an official said on Saturday.
-
-## RSS-linked BMS ‘Yagna’ at Jadavpur University sparks political row
-The ‘yagna’ was performed in the afternoon in front of the administrative building, Aurobindo Building, while classes were being held
-
-## E20 petrol ‘well within’ quality limits, oil companies dismiss contamination concerns after nationwide tests
-Nationwide testing of E20 discovered no evidence to support claims of high moisture or chloride contamination in ethanol, as per the companies' statement.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -234,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ivory Coast’s ‘talking drum’ returns to home village after 110 years
+Ivory Coast's 'talking drum' returns to home village after 110 years
+
 ## Drones spotted in Bulgaria and Germany raise concerns of Russian escalation
 The drone incidents in Europe have ignited fears that Moscow's war on Kyiv is now entangling NATO nations.
 
@@ -254,9 +251,6 @@ The pact between Saudi Arabia, Pakistan and Turkiye is yet another step towards 
 
 ## Families retrieve bodies after deadly shooting rampage outside Bangkok
 Thailand has one of the highest rates of gun ownership in Asia.
-
-## Woman screams in fear as Ukraine war recruiters pounce on man
-Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
