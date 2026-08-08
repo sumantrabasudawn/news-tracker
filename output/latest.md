@@ -36,6 +36,21 @@ UK’s second-largest supermarket has spent the last two decades delivering dist
 ## Kids, flats and student loans: Why UK first-time buyers are getting older
 One in three starts a family before having a home of their own
 
+## Who Am I? August 2, 2026
+Are you an avid investor? How well do you know corporate India?
+
+## Shiprocket’s new businesses grow 65% as logistics firm eyes ₹1,618-crore IPO
+The company’s shift towards businesses such as checkout, advertising, data and omnichannel logistics is central to its strategy to build a broader technology platform for India’s small and medium businesses
+
+## Small borrowers’ honest: smaller the loan, better is the asset quality, says Union Coop Minister Shah
+The Minister underscored that common peoples co-operatives should be formed by aggregating their savings, creating a big pool which can be used to do big business
+
+## Q1 Results Today Live: BEML Q1 loss narrows to ₹27 cr, Eveready profit up 22%, Aditya Birla Fashion Q1 loss widens to ₹249 cr; Delhivery, Akums Drugs Pharma among firms to announce results today
+Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
+
+## Years after Group Captain’s arrest, IAF Wing Commander nabbed in ISI honey-trap probe
+This time, IAF officials said that the Group Captain was under active surveillance of the IAF’s intelligence wing and subsequently handed over to the Delhi Police more than a month ago for further action
+
 ## To avoid 5th-gen lag, India moves to co-join French-led FCAS 6th-gen fighter development initiative
 Another consortium of the UK, Italy, and Japan is also developing 6th generation fighter aircraft development programme called Global Combat Air Programme
 
@@ -45,20 +60,8 @@ This will enable constant monitoring, co-ordinated action and an effective respo
 ## UPI transactions will remain free for consumers, says Phonepe CEO
 The current debate about the UPI ecosystem is not about changing the fundamental design principles
 
-## What they say on their India plans
-Read on to know what CXOs of global corporations are saying about India and their perspectives and plans during this earnings season
-
-## Small borrowers’ honest: smaller the loan, better is the asset quality, says Union Coop Minister Shah
-The Minister underscored that common peoples co-operatives should be formed by aggregating their savings, creating a big pool which can be used to do big business
-
-## Cupid Q1 net profit nearly triples to ₹44 crore on robust demand
-Revenue more than doubles to ₹155 crore in the quarter
-
-## Q1 Results Today Live: BEML Q1 loss narrows to ₹27 cr, Eveready profit up 22%, Aditya Birla Fashion Q1 loss widens to ₹249 cr; Delhivery, Akums Drugs Pharma among firms to announce results today
-Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
-
-## Iran FM Araghchi says Hormuz reopening hinges on "other conditions", compensation for US "violation"
-Araghchi said that the sides were “very close to the final result” but stressed that reopening the strait remained subject to additional conditions
+## Kavach: What makes Indian Railways indigenous world-class tech special
+Indian Railways is prioritising Kavach deployment on high-density and highly used network routes, which carry nearly 96% of railway traffic. Now, the next-generation Kavach 5.0 is being developed for suburban rail operations with an aim to support higher train frequencies.
 
 ## Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations
 Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-ba
@@ -81,8 +84,14 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## US employers cut 23k jobs amid war strain
 
 
-## RBI removes priority sector burden for FCNR(B) deposits
+## Kerala Lower Primary School Teacher rank holders eat grass in protest over delay in appointments
+The agitation has crossed 34 days, highlighting the frustration of the candidates candidates who cleared the Kerala Public Service Commission examination.
 
+## Manipur govt announces free movement on NH, Imphal-Dimapur bus service to resume
+As part of the government’s ongoing peace-building and reconciliation efforts, the CM visited Kangpokpi district headquarters
+
+## 100+ horns on a bike? Video of Uttarakhand Police ‘seizing’ modified motorcycle goes viral
+A motorcycle fitted with over 100 horns has gained viral attention on social media, allegedly seized by Uttarakhand Police during the Kanwar Yatra.
 
 ## 'CM Yogi is rattled': Cong attacks BJP for sabotaging 'Chhatron Ki Goonj' event in Prayagraj
 KC Venugopal dded that no “petty” tactics will deter Rahul Gandhi’s efforts from raising the issues of the students.
@@ -98,15 +107,6 @@ The Payment and Settlement Systems Act, 2007 was passed in Lok Sabha, giving ris
 
 ## 'What is their stand on delimitation?': DMK explains boycott of CM Vijay's all-party meet
 Most major opposition parties, including DMK and the AIADMK, steered clear of Vijay’s meeting, with 37 of the state’s 57 MPs absent.
-
-## 'Visible change of heart from Congress': Rijiju, Rahul spar on X over women's quota, delimitation bills
-The exchange began after Kiren Rijiju responded to a video posted by Rahul Gandhi, in which the Congress MP is seen answering a question about young women.
-
-## 'Separatism In Kashmir, Punjab, Assam…': In 1990 Independence Day speech, Then-PM VP Singh's warning
-As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister V.P. Singh's historic Independence Day address from the Red Fort.
-
-## 18-year-old swept away while crossing drain in southeast Delhi amid heavy rain, search underway
-The incident took place on Friday evening near the Priyanka Camp Nala in Madanpur Khadar within the Sarita Vihar police station limits.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lionel Messi’s father dies aged 68 after a long illness
+Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.
+
 ## War on Iran: Phase II: Day 28
 Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.
 
@@ -248,9 +251,6 @@ The drone incidents in Europe have ignited fears that Moscow's war on Kyiv is no
 
 ## Police bodycam and CCTV catches Idaho mall shooting as it unfolds
 Police bodycam and CCTV catches Idaho mall shooting as it unfolds
-
-## Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone
-Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
