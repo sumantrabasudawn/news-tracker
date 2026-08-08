@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US Senate narrowly confirms Todd Blanche as US attorney-general
+Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump
+
+## Iranian missile targets UAE tanker despite talks to reopen strait
+Latest attacks launched as Iran said it was close to finalising deal with Oman to manage shipping through Hormuz
+
 ## Greg Abel finally puts Buffett’s cash pile to work
 Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks
 
@@ -18,12 +24,6 @@ Sliding vaccine revenues and fears it overpaid for new drugs pile pressure on bo
 ## Spain reinstates border controls on Italy as tensions rise over migrants
 Decision widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni
 
-## Currency interventions have a mixed record
-You can’t fight macro with FX interventions
-
-## US Senate narrowly confirms Todd Blanche as US attorney-general
-Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump
-
 ## Venezuelans take to the streets as country hit by daily blackouts
 Caracas experiencing power cuts for first time in 7 years despite government pledges to invest in grid
 
@@ -36,29 +36,29 @@ UK’s second-largest supermarket has spent the last two decades delivering dist
 ## Kids, flats and student loans: Why UK first-time buyers are getting older
 One in three starts a family before having a home of their own
 
-## Retail participation in IPOs remains dull as investors eye quality over listing day gains
-Of the 12 issues that hit the market in July, the retail portion of only five was oversubscribed in double digits, while six issues registered single digit oversubscription
+## To avoid 5th-gen lag, India moves to co-join French-led FCAS 6th-gen fighter development initiative
+Another consortium of the UK, Italy, and Japan is also developing 6th generation fighter aircraft development programme called Global Combat Air Programme
 
 ## Govt to launch seafarer tracking dashboard on August 15
 This will enable constant monitoring, co-ordinated action and an effective response to support seafarers in an event of crisis
 
-## Chandigarh University Researchers Granted Patent for Attendance-Based Health Monitoring System to Monitor Three Vital Health Parameters
-Chandigarh University Researchers Granted Patent for Attendance-Based Health Monitoring System to Monitor Three Vital Health Parameters
-
-## 12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills
-12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills
-
 ## UPI transactions will remain free for consumers, says Phonepe CEO
 The current debate about the UPI ecosystem is not about changing the fundamental design principles
 
-## Monsoon poised for fresh surge, riding on twin low-pressure areas
-Though separated by thousands of kilometres, emerging Indian Ocean Dipole and a massive El Nino might be interacting through atmospheric teleconnections, reshaping rainfall patterns
+## What they say on their India plans
+Read on to know what CXOs of global corporations are saying about India and their perspectives and plans during this earnings season
 
-## Share of insured bank deposits slips below 40% in value terms in FY26
-Share of fully protected accounts remained overwhelmingly high at 97.38% in FY26, only marginally lower than 97.56% in FY25 and 97.78% in FY24
+## Small borrowers’ honest: smaller the loan, better is the asset quality, says Union Coop Minister Shah
+The Minister underscored that common peoples co-operatives should be formed by aggregating their savings, creating a big pool which can be used to do big business
 
-## Q&T Foods fixes IPO price at ₹115 a share; offer to open on Aug 12
-The ₹26.24 crore IPO is entirely a fresh issue of 22,82,400 equity shares having a face value of ₹10 each
+## Cupid Q1 net profit nearly triples to ₹44 crore on robust demand
+Revenue more than doubles to ₹155 crore in the quarter
+
+## Q1 Results Today Live: BEML Q1 loss narrows to ₹27 cr, Eveready profit up 22%, Aditya Birla Fashion Q1 loss widens to ₹249 cr; Delhivery, Akums Drugs Pharma among firms to announce results today
+Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
+
+## Iran FM Araghchi says Hormuz reopening hinges on "other conditions", compensation for US "violation"
+Araghchi said that the sides were “very close to the final result” but stressed that reopening the strait remained subject to additional conditions
 
 ## Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations
 Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-ba
@@ -84,6 +84,21 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## RBI removes priority sector burden for FCNR(B) deposits
 
 
+## 'CM Yogi is rattled': Cong attacks BJP for sabotaging 'Chhatron Ki Goonj' event in Prayagraj
+KC Venugopal dded that no “petty” tactics will deter Rahul Gandhi’s efforts from raising the issues of the students.
+
+## ‘Most passengers discharged, DGCA investigating’: Ram Mohan Naidu on Air India flight turbulence
+Speaking on the medical status of those affected, the Minister noted that the majority of injured passengers were treated and released shortly after landing.
+
+## ‘Degree means nothing in India today’: Rahul talks of ‘dard’, ‘data’ and 'daulat' at ‘Chhatron ki Goonj’ event
+Rahul Gandhi said a degree certificate “means nothing in India today” because it does not lead to a job.
+
+## UPI transactions to remain free, nominal charges may apply on limited merchant transactions, govt clarifies
+The Payment and Settlement Systems Act, 2007 was passed in Lok Sabha, giving rise to concerns that the law would allow banks to charge fees on UPI transactions.
+
+## 'What is their stand on delimitation?': DMK explains boycott of CM Vijay's all-party meet
+Most major opposition parties, including DMK and the AIADMK, steered clear of Vijay’s meeting, with 37 of the state’s 57 MPs absent.
+
 ## 'Visible change of heart from Congress': Rijiju, Rahul spar on X over women's quota, delimitation bills
 The exchange began after Kiren Rijiju responded to a video posted by Rahul Gandhi, in which the Congress MP is seen answering a question about young women.
 
@@ -92,21 +107,6 @@ As India prepares to celebrate Independence Day, Hindustan Times revisits Prime 
 
 ## 18-year-old swept away while crossing drain in southeast Delhi amid heavy rain, search underway
 The incident took place on Friday evening near the Priyanka Camp Nala in Madanpur Khadar within the Sarita Vihar police station limits.
-
-## Chhattisgarh Christian Forum office-bearer held over ‘objectionable’ Lord Shiva post
-Bajrang Dal workers and leaders protested outside Pannalal’s residence in Raipur on Friday night. Heavy police deployment was made in the area
-
-## Ramesh Mhatre leaves jail after granted bail in doctors' assault case
-Doctors assault case: Bombay High Court grants bail to Shiv Sena corporator Ramesh Mhatre; orders trial to be fast-tracked.
-
-## 'In complete solidarity': CJP joins Jharkhand students' protest in Ranchi, vows to 'provide all forms of support'
-CJP spokesperson Ashutosh Ranks said the delegation, led by Mukesh and Akshay Shinde, would provide “all forms of support” to the students.
-
-## After meeting PM Modi, Sukhbir Singh Badal’s SAD backs women’s quota, delimitation bills
-The Shiromani Akali Dal demanded the immediate implementation of the Women’s Reservation Bill, SAD president Sukhbir Singh Badal said in a post on X.
-
-## Chhattisgarh horror: 65-year-old man held for rape-murder of woman, killing her infant daughter
-The cops arrested the accused, identified as Bhikariram Nagvanshi, on August 6 after weeks of intensive probe, an official said on Saturday.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## War on Iran: Phase II: Day 28
+Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.
+
+## FIFA President Gianni Infantino denies claims UEFA paid off alleged lover
+However, UEFA says a 'departure payment' was made to a female employee when Infantino was the body's general-secretary.
+
+## Iran deliberates Hormuz arrangement amid uncertain prospects with US
+Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.
+
+## Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom
+Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain
+
 ## Ivory Coast’s ‘talking drum’ returns to home village after 110 years
 Ivory Coast's 'talking drum' returns to home village after 110 years
 
@@ -239,18 +251,6 @@ Police bodycam and CCTV catches Idaho mall shooting as it unfolds
 
 ## Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone
 Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.
-
-## Arsenal complete signing of Newcastle midfielder Bruno Guimaraes
-Brazil international signed on a four-year contract with further one-year option for reported fee of about $101m.
-
-## ‘Hi friends’: Modi’s curious campaign to win over Gen Z
-For Gen Z in India, PM Narendra Modi is trying to become an unlikely friend through late-night Instagram reels.
-
-## The post-American Middle East is beginning to take shape
-The pact between Saudi Arabia, Pakistan and Turkiye is yet another step towards a new regional security architecture.
-
-## Families retrieve bodies after deadly shooting rampage outside Bangkok
-Thailand has one of the highest rates of gun ownership in Asia.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
