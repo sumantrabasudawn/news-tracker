@@ -36,29 +36,32 @@ We need to find ways to lift the financial and resource constraints on new homeb
 ## The joy of cooking imaginary food
 From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eat
 
-## TN CM Vijay to brainstorm with MPs on Centre's delimitation proposal, DMK to boycott
-DMK sources said their MPs will not take part in the discussion to be led by the chief minister
+## ASK Property Fund invests in Bhumika Group real estate projects
+ASK Property Fund will invest ₹125 crore in a plotted development project in Faridabad, as a part of its arrangement to invest ₹500 crore in Bhoomika Group real estate projects
 
-## OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls
-OpenAI has paused some internal development and trigger safety protocols of its upcoming AI model, Astra owing to "critical" cybersecurity risks
+## Railways imposes ₹5.13 cr fine, terminates 6 contracts and debars defaulting licensees for food quality violations in last 3 years
+Regular and surprise inspections are conducted by Railway/IRCTC officials, including Food Safety Officers, to ensure quality, hygiene, safety and regulatory compliance
 
-## RBI proposes new prudential norms on capital adequacy for commercial banks
-Draft norms tighten leverage requirements, exposure calculations and capital distribution rules, reinforcing banking sector resilience under globally aligned regulatory standards
+## Limitless potential between US, India goes through Karnataka: Ambassador Sergio Gor
+Gor says Karnataka has more than 1,000 American companies, and their presence is growing steadily
 
-## Top five States account for 54% of Jan Dhan beneficiaries; SBI leads in accounts
-The latest data highlights regional concentration in banking access while showing improving account quality and stronger participation by public sector banks
+## Given geopolitical situation, defence budgetary allocation under capital head be enhanced: Par panel
+The panel in its report has also said that it "unanimously agrees with the Ministry (of Defence) that the matter of exemption of income tax on disability pension granted to defence forces personnel comes under the purview of the finance ministry
 
-## Investments in gold ETFs continue to be net positive for 2nd week in a row
-However, there was a $7 outflow for every inflow of $10, data from World Gold Council (WGC) showed
+## Warming of Himalayas, expanding human settlements reasons behind Assam's flood crisis: Analysis
+About 40% of its land is flood-prone, as the highly dynamic and sediment-laden Brahmaputra continuously shifts its course, eroding riverbanks and altering floodplains
 
-## Ardee Industries IPO Day 3: Subscription hits over 133x led by NIIs demand
-Robust institutional and retail participation reflected strong investor appetite, with proceeds earmarked for working capital, debt reduction and expansion
+## Dhoot Transmission collects ₹918 cr from anchor investors; IPO to open on Aug 10
+The ₹3,067-crore IPO’s price band has been set at ₹829-871 per share
 
-## India’s oilseeds acreage rises 3% on good rains, may attain Centre’s coverage target
-According to official sources, the area until Friday under groundnut was 46.82 lh, up by 8.6%, that of soyabean was 119.92 lh, up by 0.2% and sesamum at 9.96 lh, up by 16.9%
+## Akasa Air, AI Express say their B737 planes are not impacted by FAA directive
+The US Federal Aviation Administration (FAA) on Thursday issued an Airworthiness Directive (AD) for certain Boeing 737-8, 737-9 and 737-8200 aircraft
 
-## India sees record EV retail sales in July
-Total registrations neared 3.28 lakh units, jumping over 66% from the year-ago levels, according to FADA
+## Govt-Meta talks turn technical; company outlines measures to curb deepfakes, CSAM
+Meta and the government held technical discussions, during which the company detailed how it plans to address the Centre’s concerns
+
+## 100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know
+The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian energy purchases. India has increased its
 
 ## Hero MotoCorp Q1 PAT down 17% at 1.4k cr
 
@@ -81,32 +84,32 @@ Total registrations neared 3.28 lakh units, jumping over 66% from the year-ago l
 ## Religare’s demerger nixed by RBI
 
 
-## ‘AI creating more jobs than it cuts in India’
+## ‘A morning I will cherish’: Raghav Chadha meets PM Modi, thanks him for ‘insights and guidance’
+Raghav Chadha said he was grateful for the Prime Minister’s time and for the opportunity to benefit from his “insights and guidance”.
 
+## CCTV, security audits: Parliament panel calls for tighter security at J&K tourist spots
+The panel’s suggestions come a year after 25 tourists and a pony operator were killed by three Pakistani terrorists in Pahalgam’s Baisaran meadow last year.
+
+## Tech to the Rescue: New apps aid relief, rehabilitation of Assam’s flood-affected
+Assam floods spur tech-led relief efforts as AI and community platforms connect flood-hit people with volunteers, NGOs and relief providers to coordinate aid.
+
+## Children under 13 could be barred from making accounts on social media, gaming platforms: Bill in Parliament
+As per the proposal, children under the age of 13 could be barred from creating accounts without parental consent along with limits on personalised advertising.
+
+## Centre mulling framework to check ‘offensive’ OTT content via review panel
+The Ministry of Information and Broadcasting is considering a statutory framework to regulate OTT content considered offensive to society’s moral standards.
+
+## Bengaluru woman's skeleton found inside home, cops suspect she may have died a year ago
+The deceased woman has been identified as 52-year-old Dakshayini and had been living alone in her house in Havanur Layout locality of Bagalagunte.
+
+## 21 land areas, four passes, a lake: List of Arunachal locations India named to counter China
+According to the MHA, identifying the places and features in Arunachal Pradesh is aimed to facilitate their accurate recognition and help public awareness.
 
 ## Assam flood: Over 1.55 lakh people hit, toll at 98; damage assessment from Sunday
 Assam flood: Over 1.55 lakh people hit, toll at 98; damage assessment from Sunday
 
-## Why always Air India: Misinformation takes flight as airline meets turbulence
-Why always Air India: Misinformation takes flight as airline meets turbulence
-
-## 'FIFA' group, small chits: How 3 NTA experts at centre of NEET leak probe 'abused' positions
-On May 12, the testing agency cancelled the NEET-UG exam held on May 3 as allegations of a paper leak surfaced. A re-exam was subsequently conducted on June 21.
-
-## Fresh case against history-sheeter Ayanki over FB post targeting Kerala CM
-Fresh case against history-sheeter Ayanki over FB post targeting Kerala CM
-
-## Rotten meat, fungus on veggies: Bengaluru's 3-star, 5-star hotels in soup over food safety violations
-An inspection across 26 hotels uncovered the stark food safety violations in Bengaluru as expired milk, bakery items among other rotten food items were found.
-
-## K'taka CM calls on industries to partner with govt to boost rural education through CSR
-K'taka CM calls on industries to partner with govt to boost rural education through CSR
-
-## EC extends SIR deadline, BLOs get nine more days
-BENGALURU: The Election Commission has extended the deadline for Karnataka’s electoral roll revision from August 8 to August 17, giving Booth Level Officers nine additional days to complete house-to-house verification and pushing publication of the draft electoral roll to August 24 after nearly half
-
-## Upa Lokayukta takes sou motu action against 54 officials over Hampi homestays violations
-BIDAR: The Karnataka Upa Lokayukta has initiated suo motu proceedings against 54 officials over alleged failures to prevent unauthorised homestays and other commercial activity in the protected areas of Hampi
+## Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report
+Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – national capital Beijing, financial centre Shanghai and southern Guangdong province, a technology and expor
 
 ## Hong Kong’s US dollar peg explained: history, benefits and risks
 As international investors diversify away from US dollar assets and amid the rise of internationalisation of the yuan, there are calls for reviewing the Hong Kong dollar’s peg. Here is what to know about the system. Why is the Hong Kong dollar pegged to the US dollar? The birth of the peg is closely
@@ -128,9 +131,6 @@ Hong Kong developer Hang Lung Properties has tapped Leo Tsoi Tak-lun, CEO of Toy
 
 ## Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?
 The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh calls for review, after a local financial industry body urged greater use of the yuan and floated the idea of shifting to a basket of major currencies and gold – though financial analysts argue the current system is likely t
-
-## Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs
-The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil prices ease fears of monetary tightening. The tech-heavy Star Market 50 Index, whi
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -228,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
+Memphis Grizzlies ⁠forward Brandon Clarke's ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.
+
+## Hundreds camp on sweltering Rome street amid tussle over squatted building
+After a fire broke out, the building was cleared in what activists say was a politically motivated move.
+
+## Bangladesh say Shakib will not play cricket again after Hasina event
+Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.
+
+## Violence is driving Palestinian Christians out of their Holy Land
+Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.
+
+## FIFA’s Infantino backed in Colombia where he attends president inauguration
+FIFA president Gianni Infantino gets South American football's backing while at Abelardo de la Espriella's inauguration.
+
 ## Norway Football Federation calls for FIFA president to resign
 Norway’s football federation has called on Gianni Infantino to resign.
 
@@ -236,21 +251,6 @@ Armenia’s head of the Apostolic Church and senior clergy could face jail time 
 
 ## ‘I’ve never been counted’: DR Congo’s first census in 42 years
 For many Congolese, the census is about identity, recognition and finally being recorded by the state.
-
-## Russian strikes near Ukrainian capital kill three, including child
-Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.
-
-## Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation
-Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.
-
-## US Senate passes Russia sanctions that could hurt India and China
-The US Senate approved its strongest move against Russia under Trump.
-
-## Submerged Indonesian village re-emerges as drought lowers water levels
-Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.
-
-## US courts clear way for deportations of South Sudan, Myanmar nationals
-Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
