@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Will Pakistan-Saudi-Turkiye defence pact change US strategy?
+Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.
+
+## Trump’s Former Lawyer Is Now Attorney General
+Todd Blanche, President Trump’s former lawyer, is now US attorney general.
+
 ## What are the challenges facing the Mecca agreement?
 Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.
 
@@ -245,12 +251,6 @@ The younger Biden son has addressed his father's debate performance and the pard
 
 ## Yemen’s government forces attack Houthis amid renewed shelling of Marib
 Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.
-
-## The influencers taking on far-right leader Nigel Farage
-The UK media has been accused of giving far-right leader Nigel Farage an easy ride
-
-## Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
-Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
