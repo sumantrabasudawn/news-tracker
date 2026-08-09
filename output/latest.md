@@ -42,29 +42,35 @@ Berkshire Hathaway chief ends more than three-year selling streak as he ploughs 
 ## Solar eclipse threatens to tighten Europe’s electricity squeeze
 Continent’s power system already under stress from heatwaves
 
-## India considers restricting Carbosulfan insecticide use, weeks after proposing ban on Paraquat
-A final decision on restricting the pesticide, sold under FMC India’s ‘Marshal’ brand (which contains 25% Carbosulfan), is expected by the end of August
+## Govt considering raising CCEA approval threshold for FDI proposals to ₹15,000 cr: Sources
+The existing limit of ₹5,000 crore has remained unchanged since November 2015
 
-## GOBARdhan Scheme can help reduce gas imports by $5 billion, says IBA
-The recently approved GOBARdhan (Galvanising Organic Bio-Agro Resources Dhan) with a financial outlay of ₹23,731 crore, should be viewed as a strategic national investment rather than a public expenditure
+## CPCB flags violations in ‘deep burial’ of medical waste by 17 states, UTs
+Of 9,178 healthcare facilities using deep burial, only 5,715 were found compliant with prescribed rules, according to a CPCB report submitted to the NGT.
 
-## India unlikely to curb Russian oil buys despite fresh US sanctions threat: Sources
-New Delhi signals little appetite for sacrificing energy security, defence ties, strategic cooperation with Moscow
+## Excise case: Delhi HC to hear on Monday ED plea against Arvind Kejriwal's bail
+The Enforcement Directorate's (ED) petition, filed in 2024, is listed for hearing before Justice Manoj Jain.
 
-## FMCG firms signal price hikes in Q2 as input cost pressures persist; demand remains resilient
-Higher sugar, palm oil and crude-linked costs are prompting FMCG majors like Britannia, HUL, Dabur and others to protect margins
+## Delhi’s public healthcare procurement in limbo after ₹650 crore CPA scam; hospitals face shortages
+Hospitals face medicine shortage while vast supplies lie unused in ill-maintained warehouses
 
-## Outcome-based IT services no longer optional: Nasscom’s Rajesh Nambiar
-In an interview with businessline, Rajesh Nambiar, President of IT industry body Nasscom, discusses how AI is changing the economics of IT services, why outcome-based delivery is becoming inevitable, the industry’s AI readiness, talent and policy priorities
+## Sky Gold & Diamonds Q1 profit more than doubles to ₹104.90 crore
+Total expenses rose to ₹1,885.94 crore from ₹1,076.70 crore in the year-ago period
 
-## Titan sees positive momentum in July; on track to beat FY30 growth targets: MD
-Titan Managing Director Ajoy Chawla stated that the company is on track to meet its growth goals and may exceed them this year
+## India, emerging markets power business of pharma majors amid US slowdown
+An analysis of Q1 results show Sun Pharma and Aurobindo Pharma delivering strong growth, while Dr Reddy’s earnings were hit by lower lenalidomide sales and a semaglutide-related provision
 
-## No immunity, no data: Legal gap clouds GIFT City’s data embassy aspirations
-Absence of legal guarantees for the inviolability of sovereign data remains the biggest hurdle to establishing data embassies in GIFT City
+## Crude oil, developments in West Asia, inflation data to drive markets this week, say analysts
+Globally, market participants will continue to monitor developments surrounding the Strait of Hormuz, movements in crude oil prices, and broader geopolitical negotiations involving Iran
 
-## Milk prices set to rise by ₹2 in Maharashtra from Aug 11
-The decision was taken at a meeting of the Milk Producers and Processors Welfare Association chaired by its president Gopalrao Mhaske on Friday
+## QSR chains say June quarter saw uptick in footfalls, same store sales growth
+After a surge in demand post-pandemic, QSR chains have faced challenges in the last 2-3 years due to subdued same-store sales growth from various macroeconomic factors
+
+## Centre weighs 200% increase in foreign investment approval threshold
+India's government is considering raising the foreign investment approval threshold significantly. This move aims to attract larger overseas investments and simplify the process. The current Rs 5,000 crore limit has been in place since 2015. Changes to downstream investment rules are also being expl
+
+## Market recap: Four of top 10 firms add Rs 1.43 lakh crore; SBI bags biggest gains
+Dalal Street wrapped up last week on a high note, showcasing impressive gains among leading firms. State Bank of India saw a remarkable surge in its market value, joining industry giants Reliance Industries and TCS, which also experienced robust growth. Conversely, several other major companies face
 
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
@@ -84,11 +90,17 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Hero MotoCorp Q1 PAT down 17% at 1.4k cr
 
 
-## RBI move on revolving credit hits NBFC stocks
+## Man performs ‘tantric ritual’ with Chhattisgarh chief justice's photo in effort to get bail for kin; held at crematorium
+Police recover a fish, some lemons, vermilion and photographs of Chhattisgarh HC CJ Ramesh Sinha from the spot
 
+## Laser light disorients Malaysia Airlines pilot approaching Kolkata airport; flight circles before landing
+When the aircraft was around eight nautical miles from the runway, the pilot reportedly noticed a bright laser beam flashing towards the cockpit.
 
-## Hindalco Q1 net jumps 75% to over 7,000 crore
+## SC to hear plea seeking time-bound NDPS probes, confiscation of traffickers' properties on Monday
+SC to hear plea seeking time-bound NDPS probes, confiscation of traffickers' properties on Monday
 
+## Raja Raghuvanshi’s two brothers booked for selling liquor without licence in MP
+Assistant Commissioner of Police Nidhi Saxena said the action followed the discovery that liquor was being served to customers without the mandatory licence.
 
 ## Himachal Pradesh issues orange alert for heavy rain
 Heavy rain is forecasted in at isolated places in the Himachal Pradesh on Monday, Tuesday, Friday and Saturday with an 'orange alert' active this week.
@@ -96,23 +108,17 @@ Heavy rain is forecasted in at isolated places in the Himachal Pradesh on Monday
 ## Violations in 'deep burial' of medical waste by 17 states, UTs: CPCB to NGT
 Violations in 'deep burial' of medical waste by 17 states, UTs: CPCB to NGT
 
-## JNU cancels auditorium booking as discussion centred on jailed activist Umar Khalid's book
+## JNU cancels event booking as discussion centred on jailed activist Umar Khalid's book ‘Fractured Communities’
 Student union said no particular reason was given for cancelling venue. JNU on X later cited “non-disclosure of the full facts about the program” as the reason.
 
 ## Bihar labourer hit by vehicle of J&K deputy CM's cavalcade in Gangyal, dies
 J&K deputy CM Surinder Choudhary's cavalcade was on the way back after dropping him at his residence when the accident happened.
 
-## ‘Bid to saffronise': Question on VD Savarkar in primary level quiz triggers row in Kerala | What we know
-Former Kerala chief minister Pinarayi Vijayan accused the Congress-led UDF government in the state of “colluding” with the RSS and “glorifying” Savarkar.
+## Demand for affordable EVs will force open US market to Chinese models eventually: analysts
+Consumer demand for affordable electric vehicles is likely to force open the US market to Chinese electric vehicle (EV) brands within the next few years, even though they currently face trade barriers, according to analysts. US carmakers are expecting the same, with Ford CEO Jim Farley recently pred
 
-## Opposition gears up to resist Centre's FCRA amendment; why foreign funding bill is under fire
-The Foreign Contribution (Regulation) Amendment Bill, 2026 seeks to make amendments to the existing foreign funding law.
-
-## Advocate claims PGIMER's heritage furniture listed for auction in US, seeks govt intervention
-Advocate claims PGIMER's heritage furniture listed for auction in US, seeks govt intervention
-
-## Andhra CM calls for mass movement to make every citizen partner in nation building
-Andhra CM calls for mass movement to make every citizen partner in nation building
+## China races to develop brain-computer interfaces that can be inserted in 10 minutes
+Chinese start-ups and researchers are racing to bring brain-computer interfaces (BCIs) to market that can be implanted in just a few minutes, as Beijing pushes to nurture home-grown players in the sector to compete with Elon Musk’s Neuralink. The Chinese devices – which enable patients to control di
 
 ## Derelict cinema on scenic Hong Kong island up for auction with a US$1 million price tag
 Peng Chau Cinema, an Instagrammable spot for tourists on an outlying Hong Kong island, will be auctioned off in mid-August at a valuation 30 per cent below estimation after almost 40 years of abandonment – a dormancy lengthy enough to fuel dark rumours among some residents. The former cinema is curr
@@ -131,12 +137,6 @@ A new generation of Chinese stars is influencing how global finance operates –
 
 ## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
 A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
-
-## Beijing says 20% offshore insurance tax not new – and does not target Hong Kong
-China’s State Taxation Administration (STA) on Friday clarified that the 20 per cent personal income tax imposed on gains from offshore insurance policies was not a new policy – and was not specifically targeting the Hong Kong insurance industry. The STA urged the market not to overreact to the poli
-
-## As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?
-Hong Kong is stepping up its efforts to invest in a cluster of biotech companies, positioning itself as a linchpin in Beijing’s push to reach new levels of innovation and challenge the United States for dominance in the global pharmaceutical market. Hong Kong Investment Corporation (HKIC), which man
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
+The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.
+
 ## It won’t be Trump who kills the ICC
 It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.
 
@@ -254,9 +257,6 @@ Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabal
 
 ## Israel announces tender for 627 settler units in occupied West Bank
 New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.
-
-## Wildfire forces thousands of evacuations in Western Canada
-A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
