@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## Tehran says US must meet new conditions before Iran reopens strait
-Iranian rhetoric hardens amid push to seal deal between Islamic republic and Oman that would reopen the waterway
-
 ## Organised crime suspect Daniel Kinahan extradited from Dubai to Ireland
 Irish government jet believed to be carrying alleged drug trafficker lands in Dublin
+
+## Burnham promises to tackle false discounts in latest cost-of-living pledge
+
+
+## FirstFT: Ex-CIA officials warn Donald Trump is dismantling US guardrails
+Also in today’s newsletter: Kashmir protests test Pakistan’s military rulers and the bank behind China’s AI listings bonanza
+
+## Tehran says US must meet new conditions before Iran reopens strait
+Iranian rhetoric hardens amid push to seal deal between Islamic republic and Oman that would reopen the waterway
 
 ## A very British by-election reaches its finale
 Clacton poll unlikely to settle serious questions over Reform UK leader, while a solar eclipse promises an economic lift
@@ -17,12 +23,6 @@ Ex-CIA staffers step up efforts to publicise their deepening alarm about the sta
 
 ## Britain needs to redefine what it considers cutting-edge
 Burnham should promote a broader conception of advanced manufacturing that goes beyond frontier technologies
-
-## Netanyahu rejects Trump’s Gaza disarmament plan
-Israeli prime minister says military will not withdraw from Palestinian enclave ‘until Hamas is disarmed’
-
-## America’s hidden M&A boom
-It’s lurking in one of the US’s top exports: higher education
 
 ## Holding public servants to account is harder than it seems
 A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?
@@ -41,9 +41,6 @@ Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in prof
 
 ## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
 Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
-
-## One of the world’s biggest coal producers battles to keep lights on
-Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market
 
 ## AI may redraw India’s IT services map; 20-25% of firms could struggle to cross over, says Nasscom chief
 Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth
