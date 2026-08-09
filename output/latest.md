@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Organised crime suspect Daniel Kinahan extradited from Dubai
+Irish government jet flies alleged drug trafficker back to Dublin to face charges
+
+## Syria makes deal to take control of Russian bases
+Strategic blow for Moscow as Trump moves closer to Syrian regime
+
+## Trump is dismantling US guardrails, warn former security officials
+Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy
+
+## Britain needs to redefine what it considers cutting-edge
+Burnham should promote a broader conception of advanced manufacturing that goes beyond frontier technologies
+
 ## Tehran says US must meet new conditions before Iran reopens strait
 Senior security official wants Washington to pay compensation for war damage
 
@@ -9,17 +21,11 @@ Israeli prime minister says military will not withdraw from Palestinian enclave 
 ## America’s hidden M&A boom
 It’s lurking in one of the US’s top exports: higher education
 
-## Organised crime suspect Daniel Kinahan extradited from Dubai
-Irish government jet flies alleged drug trafficker back to Dublin to face charges
-
 ## Could AI create a ‘permanent underclass’?
 San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market
 
-## Will US inflation be cool enough to trim bets on a September rate rise?
-Market Questions is the FT’s guide to the week ahead
-
-## US social security could soon be insolvent
-But will Congress have the courage to save it?
+## A very British by-election reaches its finale
+Clacton poll unlikely to settle serious questions over Reform UK leader, while a solar eclipse promises an economic lift
 
 ## Holding public servants to account is harder than it seems
 A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?
@@ -41,9 +47,6 @@ Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent
 
 ## One of the world’s biggest coal producers battles to keep lights on
 Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market
-
-## The bank behind China’s AI listings bonanza
-CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
 ## AI may redraw India’s IT services map; 20-25% of firms could struggle to cross over, says Nasscom chief
 Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth
@@ -93,6 +96,12 @@ Dalal Street wrapped up last week on a high note, showcasing impressive gains am
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
 
+## Four detained in UP's Bareilly as police raid shops selling non-veg food on Kanwar Yatra route
+This came after authorities had directed traders not to sell meat, chicken, fish and other non-vegetarian food along the routes to be travelled by Kanwariyas.
+
+## 'Pellet guns strictly for...': Ranchi police 'fully prepared' as Jharkhand students announce ‘Vidhan Sabha gherao’
+Ranchi City SP Paras Rana said precautionary force deployment would be carried out effectively as a large number of students are expected.
+
 ## Right-wing commentator Mohandas taken into custody over remarks on NEET protest
 A team from Thiruvananthapuram Cyber Police Station, which is probing the case, reached Mohandas' residence at Koovappadam near Mattancherry on Sunday evening
 
@@ -110,12 +119,6 @@ The Jharkhand government on Sunday began fresh talks with the students after thr
 
 ## 'Cheer 4 Bharat': PM Modi meets CWG medal winners, shares new video
 PM Modi also shared a short video of his interaction with the athletes on Instagram, calling the meeting a special occasion.
-
-## Training aircraft skids off Baramati runway: Govt explains what happened
-The aircraft, the government said, was being operated for a Circuit and Landing Emergencies (CL Emergencies) training exercise.
-
-## Row over Umar Khalid book event: JNU cancels venue permission, ABVP claims credit
-JNU Students' Union, professor say admn lying that full details of event were not shared; ABVP, student wing of RSS, claims cancellation came after its campaign
 
 ## Can Hong Kong Become Asia’s Blueprint for Sustainable Urban Growth?
 [The content of this article has been produced by our advertising partner.] Hong Kong has long been a city in motion, where capital, talent and ideas move with remarkable speed. For AtkinsRéalis, a world-class engineering services and nuclear power organisation, the city is more than a strategic bas
@@ -237,6 +240,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Jannik Sinner withdraws from Cincinnati Open with knee injury
+Number one ranked player in men's tennis will miss the tournament due to a knee issue, he says via organisers.
+
+## Former Iraqi provincial governor arrested as graft crackdown continues
+Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.
+
+## Wildfires in Albania and Spain cause hundreds to evacuate
+Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.
+
 ## How Israel’s occupation fuels resistance
 Israel is trapped in a cycle it created.
 
@@ -251,15 +263,6 @@ Marmoush scores twice in three minutes as City rallies to beat Atletico in club 
 
 ## UAE extradites alleged international crime boss Daniel Kinahan to Ireland
 Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.
-
-## War on Iran: Phase II: Day 29
-Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.
-
-## Pentagon urges faster US weapons production amid stockpile concerns
-US defence industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.
-
-## Concerns mount over integrity of Israel’s upcoming October elections
-Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
