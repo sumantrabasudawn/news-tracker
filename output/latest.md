@@ -39,6 +39,12 @@ Indonesia’s attempt to contain prices at home has discouraged companies from s
 ## The bank behind China’s AI listings bonanza
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
+## NABARD handloom exhibition clocks ₹67 lakh in sales
+The event, held from August 5 to 7, showcased 15 weaving traditions from 14 states, including nine GI-registered (Geographical Indication registration) products
+
+## Kotak Bank launches hybrid home loan; enables customers to lock rate for up to 65 months
+The product allows customers to choose a fixed-rate period of 39, 52 or 65 months, during which their interest rate and EMI remain unchanged even if the repo rate changes
+
 ## Shahpur Kandi dam nears completion, Ujh project gets revival push
 Once commissioned, the two projects are expected to generate hundreds of megawatts of electricity and provide irrigation to large tracts of land in Jammu and Kashmir and Punjab
 
@@ -57,11 +63,8 @@ PNB plans to deploy 1,300 Customer Relationship Managers across 1,300 branches b
 ## Govt considering raising CCEA approval threshold for FDI proposals to ₹15,000 cr: Sources
 The existing limit of ₹5,000 crore has remained unchanged since November 2015
 
-## CPCB flags violations in ‘deep burial’ of medical waste by 17 states, UTs
-Of 9,178 healthcare facilities using deep burial, only 5,715 were found compliant with prescribed rules, according to a CPCB report submitted to the NGT.
-
-## Excise case: Delhi HC to hear on Monday ED plea against Arvind Kejriwal's bail
-The Enforcement Directorate's (ED) petition, filed in 2024, is listed for hearing before Justice Manoj Jain.
+## Gold, silver prices may rise next week as US inflation data, Gulf tensions guide markets
+Gold and silver prices are expected to remain firm next week. Investors will track inflation data from major economies and West Asia developments. Upcoming Chinese economic data will also be important for industrial metals. Analysts predict gold and silver will trade with a positive bias. Volatility
 
 ## Crude, Hormuz & more: What will drive stock market this week
 This week, Dalal Street will closely observe global geopolitical shifts and local economic data. Investors will pay attention to fluctuations in crude oil prices and news from the Strait of Hormuz. In addition, important domestic inflation figures and updates on foreign exchange reserves are on the 
@@ -84,8 +87,14 @@ Berkshire Hathaway showcased impressive growth in its second-quarter results, wi
 ## Kavach: What makes Indian Railways indigenous world-class tech special
 Indian Railways is prioritising Kavach deployment on high-density and highly used network routes, which carry nearly 96% of railway traffic. Now, the next-generation Kavach 5.0 is being developed for suburban rail operations with an aim to support higher train frequencies.
 
-## Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations
-Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-ba
+## 86-year-old on evening walk killed as car hits 4 in Kolkata township
+An eyewitness said that the car shot out of the parking area and hit the pedestrians at considerable speed.
+
+## Kerala school teacher suspended for Savarkar question amid 'freedom quiz' row
+The education minister's office said the question was framed in a manner that could lead to spread of misleading and historically unsupported information.
+
+## After dope test, AI Phuket-Delhi flight pilot to undergo ‘confirmatory analysis’: Govt says AAIB probing turbulence
+Pilot-in-command of the August 4 flight, which dipped suddenly by 300 feet causing injuries to some passengers and crew, is undergoing “confirmatory analysis”
 
 ## Russia to India by train? Moscow floats rail route to Indian Ocean
 The proposal comes amid escalating maritime disruptions in the Strait of Hormuz following armed hostilities involving the US, Israel and Iran.
@@ -102,14 +111,8 @@ Union minister Rijiju had asked about Karnataka as Rahul, in a social media AMA,
 ## 'Couldn't bring to complete stop': Why trainer aircraft ran off Baramati runway
 The aircraft reportedly crossed the threshold of Runway 29 at the Baramati airfield, reaching around 20 feet beyond the end of the runway.
 
-## 96 pc Indian travellers opt to adapt, not cancel amid disruptions: Report
-96 pc Indian travellers opt to adapt, not cancel amid disruptions: Report
-
-## 'Dialogue, not batons': Jharkhand CM warns parties against misleading youth, politicisation
-"Dialogue, not batons, can solve problems; weapons for enemies at the border," CM Hemant Soren said.
-
-## Six killed as container truck rams into car in Madhya Pradesh's Dhar
-The collision took place at around 1.30 pm near Panchak Vasa, nearly 4 km from Badnawar town.
+## How China’s brands are thriving in the US despite rising geopolitical tensions
+The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely 
 
 ## Demand for affordable EVs will force open US market to Chinese models eventually: analysts
 Consumer demand for affordable electric vehicles is likely to force open the US market to Chinese electric vehicle (EV) brands within the next few years, even though they currently face trade barriers, according to analysts. US carmakers are expecting the same, with Ford CEO Jim Farley recently pred
@@ -131,9 +134,6 @@ As international investors diversify away from US dollar assets and amid the ris
 
 ## Meet the next generation of Chinese stars influencing how global finance operates
 A new generation of Chinese stars is influencing how global finance operates – applying analytical power, cross-cultural agility, and resilience developed in China’s demanding environments straight to leading firms from Citadel Securities to BlackRock. That shift is easier to grasp by looking beyond
-
-## Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m
-A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market. Wu Xiaoming agreed to buy a home at Villa
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Nigeria mass weddings ease financial burden for couples
+For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.
+
+## Which other countries could join the Turkiye-Saudi-Pakistan defence pact?
+While Egypt has been floated as a candidate, analysts say Cairo may be wary of defence commitments.
+
+## ‘US and Iran are talking past each other’ in indirect negotiations
+‘US and Iran are talking past each other’ in indirect negotiations
+
 ## Hundreds forced onto Rome streets amid crackdown on squatted building
 Around 300 residents camp on Rome streets amid crackdown on squatted buildings.
 
@@ -245,15 +254,6 @@ Yemeni army warns Houthis after attacks heighten escalation risk
 
 ## Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day
 Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.
-
-## FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens
-Statement comes after Infantino denies UEFA paid off his alleged lover while he was the body's general secretary.
-
-## Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup
-The North African nations become the first teams from the continent to qualify for next year's World Cup in Brazil.
-
-## Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
-The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
