@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Tehran says US must meet new conditions before Iran reopens strait
+Senior security official wants Washington to pay compensation for war damage
+
+## Netanyahu rejects Trump’s Gaza disarmament plan
+Israeli prime minister says military will not withdraw from Palestinian enclave ‘until Hamas is disarmed’
+
+## America’s hidden M&A boom
+It’s lurking in one of the US’s top exports: higher education
+
 ## Organised crime suspect Daniel Kinahan extradited from Dubai
 Irish government jet flies alleged drug trafficker back to Dublin to face charges
 
@@ -17,12 +26,6 @@ A new law imposing a duty of candour seeks to force officials to tell the truth.
 
 ## Asian carmakers cash in as high petrol prices lift US demand for hybrids
 Sales, including of models made by Honda, Hyundai and Toyota, jump by a fifth in July
-
-## Burnham failed to end rough sleeping as a mayor — can he succeed as PM?
-Charities who worked with him in Greater Manchester believe PM enters Number 10 understanding what drives the crisis
-
-## Career satisfaction in an uncertain world? Dream on
-Children’s cute job hopes look unattainable, but they are still worth encouraging
 
 ## Turkey’s cyber law shifts sweeping powers to presidency
 Move raises concern about ‘absolute digital obedience’ among social media and gaming platforms
@@ -42,29 +45,29 @@ Indonesia’s attempt to contain prices at home has discouraged companies from s
 ## The bank behind China’s AI listings bonanza
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
+## Strategic reforms
+Focus on small ticket disinvestment is paying off
+
+## Below the Line
+
+
+## Gulliver and the Lilliputians
+Ridicule by a thousand memes could lay the BJP low but they won’t
+
+## AI broadens India office demand beyond Fortune 500, Embassy REIT says
+India’s large and increasingly fungible technology talent pool is lowering the entry barrier for smaller overseas companies, says Embassy REIT CEO Amit Shetty
+
+## Tomato, onion, potato prices push up July veg thali cost; annual food bill still lower
+Veg thali rises 4 per cent in July as tomato prices jump; lower vegetable and broiler prices keep both veg and non-veg thalis cheaper than a year ago
+
+## Market likely to adapt to new closing auction
+Closing auctions do not erase sharp moves. They may change where those moves occur
+
+## IN-SPACe invites private operators for new space port in Thoothukudi
+The new spaceport is also expected to bolster India’s private launch capabilities
+
 ## Loss making Mutual Fund schemes nearly triple in FY26
 Around 731 schemes posted negative annual returns against 243 a year earlier, while the ones earning over 10 per cent fell fell sharply
-
-## Good Flippin’ Burgers bets on metro density, store economics before wider expansion
-Good Flippin’ Burgers is currently trending at an annualised revenue run rate (ARR) of about ₹250 crore for the current financial year, according to Viren D’Silva
-
-## Import fears cast shadow over watermelon farmers ahead of new season
-Watermelon is generally sown between June and August, with the crop beginning to reach markets from early September
-
-## IAM Ignite Museum unfolds a new chapter in tech history
-Put together by ex-TCS veterans, it will showcase the Information Age revolutions
-
-## Britannia sees uneven recovery in international business as supply-chain pressures ease
-Despite external pressures, Britannia reported a consolidated net profit of ₹593 crore in the first quarter of FY27
-
-## Five companies to launch IPOs next week to raise over ₹7,400 crore
-Molbio Diagnostics and Dhoot Transmission will open their issues on August 10, followed by Milky Mist, Shiprocket and Behari Lal Engineering.
-
-## RBI survey sees stronger FY27 growth, higher inflation; FY28 outlook points to ‘Goldilocks’ economy
-The RBI’s 101st SPF, conducted in July 2026, pegged FY27 real GDP growth at 6.6%, up from 6.5% projected in the 100th SPF conducted in May 2026
-
-## AI may redraw India’s IT services map; 20-25% firms could struggle to cross over, says Nasscom chief
-Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth
 
 ## Gold, silver prices may rise next week as US inflation data, Gulf tensions guide markets
 Gold and silver prices are expected to remain firm next week. Investors will track inflation data from major economies and West Asia developments. Upcoming Chinese economic data will also be important for industrial metals. Analysts predict gold and silver will trade with a positive bias. Volatility
@@ -90,6 +93,21 @@ Berkshire Hathaway showcased impressive growth in its second-quarter results, wi
 ## Kavach: What makes Indian Railways indigenous world-class tech special
 Indian Railways is prioritising Kavach deployment on high-density and highly used network routes, which carry nearly 96% of railway traffic. Now, the next-generation Kavach 5.0 is being developed for suburban rail operations with an aim to support higher train frequencies.
 
+## Govt extends ED director Rahul Navin's tenure by 1 year
+Govt extends ED director Rahul Navin's tenure by 1 year
+
+## BSF firing kills Bangladesh national in Tripura during alleged smuggling attempt
+The Bangladeshi national, suspected of involvement in smuggling Burmese cigarettes, was allegedly carrying out smuggling activities at midnight on Saturday
+
+## CID probe, fast-track courts: Jharkhand govt's promises to student protesters; minister says ‘98% demands met’
+The Jharkhand government on Sunday began fresh talks with the students after three days of inconclusive meetings.
+
+## 'Cheer 4 Bharat': PM Modi meets CWG medal winners, shares new video
+PM Modi also shared a short video of his interaction with the athletes on Instagram, calling the meeting a special occasion.
+
+## Training aircraft skids off Baramati runway: Govt explains what happened
+The aircraft, the government said, was being operated for a Circuit and Landing Emergencies (CL Emergencies) training exercise.
+
 ## Row over Umar Khalid book event: JNU cancels venue permission, ABVP claims credit
 JNU Students' Union, professor say admn lying that full details of event were not shared; ABVP, student wing of RSS, claims cancellation came after its campaign
 
@@ -98,21 +116,6 @@ The resignations of Ajita Bhattacharya, Anima Hansda, and Jamal Ahmed were accep
 
 ## Chhattisgarh to provide ₹5 crore aid to flood-hit Assam: CM Vishnu Deo Sai
 Sai spoke to Assam CM Himanta Biswa Sarma over the phone and took stock of the situation arising from the floods
-
-## ‘25 marriages, fake identity’: UP BJP MLA's shocking claims about son-in-law
-Gyan Tiwari levelled the allegations in a video posted on social media; accused and his father arrested in cheating case
-
-## Assam govt begins flood damage survey, compensation to start by mid-September
-The survey, which will continue until August 30, will take stock of damages to affected families to provide compensation for loss
-
-## ‘Apologise or meet in court’: Sirsa warns AAP leaders over rice scam allegation, gives 24-hour ultimatum
-Majinder Singh Sirsa said he would initiate legal proceedings if Saurabh Bharadwaj and Sanjeev Jha failed to withdraw their claims.
-
-## ‘We condemn such incidents’: BJP's Samik Bhattacharya denies party role in alleged attack on Mamata Banerjee's car
-Reacting to the incident, suspended TMC MP Kalyan Banerjee alleged that stones were repeatedly hurled at Mamata Banerjee's vehicle.
-
-## JPSC exam cancellation demand met, but Jharkhand protesters to continue stir, march to assembly seeking CBI probe
-Jharkhand Minister Sudivya Kumar Sonu said fast-track courts would be constituted and charge sheets against the accused would be filed within 90 days.
 
 ## How China’s brands are thriving in the US despite rising geopolitical tensions
 The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely 
@@ -234,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Concerns mount over integrity of Israel’s upcoming October elections
+Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.
+
+## Gaza’s children still struggling with hunger as another famine threatens
+Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.
+
+## Gaza engineer builds animal shelters out of empty cans
+Gaza engineer builds animal shelters out of empty cans
+
+## What now as Israel rejects Trump’s 15-point plan for Gaza?
+As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out from Gaza, a look at what happens next.
+
+## The Mecca pact is not just another regional alliance
+It could set the stage for a profound transformation of regional security in the Gulf.
+
+## Syria says it reached deal with Moscow on future of Russian bases
+Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.
+
+## Trump targets birthright citizenship again
+US President Donald Trump has signed two new executive orders targeting birthright citizenship.
+
 ## Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say
 Experts warn Israel's new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.
-
-## British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin
-Aprilia rider's victory over Jorge Martin extends Silverstone’s run of different Grand Prix winners to twelve in a row.
-
-## Why does Iran defeat the empires trying to conquer it?
-On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.
-
-## Barzani says Iraqi Kurdistan wants peace as regional tensions rise
-Barzani says Iraqi Kurdistan wants peace as regional tensions rise
-
-## ‘The wealthy poor’: Soaring food prices hurt Iranian families
-Iranians from all walks of life struggle under the weight of rising inflation and war pressure.
-
-## Netanyahu rejects Trump’s Board of Peace plan for Gaza
-Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.
-
-## Indonesia closes national park in East Java as wildfire expands
-Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.
-
-## Israel rejects Donald Trump’s Gaza Board of Peace plan
-Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
