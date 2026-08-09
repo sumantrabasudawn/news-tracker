@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Asian carmakers cash in as high petrol prices lift US demand for hybrids
+Sales, including of models made by Honda, Hyundai and Toyota, jump by a fifth in July
+
 ## Burnham failed to end rough sleeping as a mayor — can he succeed as PM?
 Charities who worked with him in Greater Manchester believe PM enters Number 10 understanding what drives the crisis
 
@@ -21,9 +24,6 @@ Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in prof
 ## How a made-up agency found its way into Nigeria’s budget
 Alleged head of fictional investment council was allocated government funding and met top officials
 
-## The Bayeux Tapestry loan is a model for the Parthenon Marbles
-Burnham has a chance to create a legislative carve-out that speeds the process of returning the artefacts to Greece
-
 ## Hargreaves Lansdown orders staff back to office
 UK’s biggest DIY investment platform calls employees back to the workplace three days a week
 
@@ -42,6 +42,21 @@ Berkshire Hathaway chief ends more than three-year selling streak as he ploughs 
 ## Solar eclipse threatens to tighten Europe’s electricity squeeze
 Continent’s power system already under stress from heatwaves
 
+## Shahpur Kandi dam nears completion, Ujh project gets revival push
+Once commissioned, the two projects are expected to generate hundreds of megawatts of electricity and provide irrigation to large tracts of land in Jammu and Kashmir and Punjab
+
+## Signature Global awards ₹920 cr contracts to construct housing project in Gurugram
+KEC International Ltd, NCC awarded ₹460 crore contracts each
+
+## Professional guidance for financial plans
+How a middle-aged couple with two kids planned for their retirement and their children’s education and sought help to evaluate and achieve their goals
+
+## Balrampur Chini Mills: Why investors should accumulate this stock
+As Balrampur Chini Mills is poised to morph into an integrated bio-plastics player now, the pay-offs can be significant
+
+## PNB to roll out its wealth management product by Dec aimed at boosting non-interest income
+PNB plans to deploy 1,300 Customer Relationship Managers across 1,300 branches by end of this month
+
 ## Govt considering raising CCEA approval threshold for FDI proposals to ₹15,000 cr: Sources
 The existing limit of ₹5,000 crore has remained unchanged since November 2015
 
@@ -51,20 +66,11 @@ Of 9,178 healthcare facilities using deep burial, only 5,715 were found complian
 ## Excise case: Delhi HC to hear on Monday ED plea against Arvind Kejriwal's bail
 The Enforcement Directorate's (ED) petition, filed in 2024, is listed for hearing before Justice Manoj Jain.
 
-## Delhi’s public healthcare procurement in limbo after ₹650 crore CPA scam; hospitals face shortages
-Hospitals face medicine shortage while vast supplies lie unused in ill-maintained warehouses
+## Crude, Hormuz & more: What will drive stock market this week
+This week, Dalal Street will closely observe global geopolitical shifts and local economic data. Investors will pay attention to fluctuations in crude oil prices and news from the Strait of Hormuz. In addition, important domestic inflation figures and updates on foreign exchange reserves are on the 
 
-## Sky Gold & Diamonds Q1 profit more than doubles to ₹104.90 crore
-Total expenses rose to ₹1,885.94 crore from ₹1,076.70 crore in the year-ago period
-
-## India, emerging markets power business of pharma majors amid US slowdown
-An analysis of Q1 results show Sun Pharma and Aurobindo Pharma delivering strong growth, while Dr Reddy’s earnings were hit by lower lenalidomide sales and a semaglutide-related provision
-
-## Crude oil, developments in West Asia, inflation data to drive markets this week, say analysts
-Globally, market participants will continue to monitor developments surrounding the Strait of Hormuz, movements in crude oil prices, and broader geopolitical negotiations involving Iran
-
-## QSR chains say June quarter saw uptick in footfalls, same store sales growth
-After a surge in demand post-pandemic, QSR chains have faced challenges in the last 2-3 years due to subdued same-store sales growth from various macroeconomic factors
+## IPO bonanza: 5 firms to raise over Rs 7,400 crore this week
+A bustling week looms for India's primary market as five companies gear up to unveil their IPOs, collectively aiming to gather an impressive Rs 7,443 crore for diverse corporate initiatives. Dhoot Transmission and Molbio Diagnostics set to kick off on August 10, while Milky Mist Dairy Food and Shipr
 
 ## Centre weighs 200% increase in foreign investment approval threshold
 India's government is considering raising the foreign investment approval threshold significantly. This move aims to attract larger overseas investments and simplify the process. The current Rs 5,000 crore limit has been in place since 2015. Changes to downstream investment rules are also being expl
@@ -84,11 +90,20 @@ Indian Railways is prioritising Kavach deployment on high-density and highly use
 ## Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations
 Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-ba
 
-## 100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know
-The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian energy purchases. India has increased its
+## Amid taunts over no woman in Karnataka Cong cabinet, change may be in offing as Shivakumar headed to Delhi for key meet
+Union minister Rijiju had asked about Karnataka as Rahul, in a social media AMA, said “no country can be successful if women are not expressing themselves”.
 
-## Hero MotoCorp Q1 PAT down 17% at 1.4k cr
+## 'Couldn't bring to complete stop': Why trainer aircraft ran off Baramati runway
+The aircraft reportedly crossed the threshold of Runway 29 at the Baramati airfield, reaching around 20 feet beyond the end of the runway.
 
+## 96 pc Indian travellers opt to adapt, not cancel amid disruptions: Report
+96 pc Indian travellers opt to adapt, not cancel amid disruptions: Report
+
+## 'Dialogue, not batons': Jharkhand CM warns parties against misleading youth, politicisation
+"Dialogue, not batons, can solve problems; weapons for enemies at the border," CM Hemant Soren said.
+
+## Six killed as container truck rams into car in Madhya Pradesh's Dhar
+The collision took place at around 1.30 pm near Panchak Vasa, nearly 4 km from Badnawar town.
 
 ## Man performs ‘tantric ritual’ with Chhattisgarh chief justice's photo in effort to get bail for kin; held at crematorium
 Police recover a fish, some lemons, vermilion and photographs of Chhattisgarh HC CJ Ramesh Sinha from the spot
@@ -98,21 +113,6 @@ When the aircraft was around eight nautical miles from the runway, the pilot rep
 
 ## SC to hear plea seeking time-bound NDPS probes, confiscation of traffickers' properties on Monday
 SC to hear plea seeking time-bound NDPS probes, confiscation of traffickers' properties on Monday
-
-## Raja Raghuvanshi’s two brothers booked for selling liquor without licence in MP
-Assistant Commissioner of Police Nidhi Saxena said the action followed the discovery that liquor was being served to customers without the mandatory licence.
-
-## Himachal Pradesh issues orange alert for heavy rain
-Heavy rain is forecasted in at isolated places in the Himachal Pradesh on Monday, Tuesday, Friday and Saturday with an 'orange alert' active this week.
-
-## Violations in 'deep burial' of medical waste by 17 states, UTs: CPCB to NGT
-Violations in 'deep burial' of medical waste by 17 states, UTs: CPCB to NGT
-
-## JNU cancels event booking as discussion centred on jailed activist Umar Khalid's book ‘Fractured Communities’
-Student union said no particular reason was given for cancelling venue. JNU on X later cited “non-disclosure of the full facts about the program” as the reason.
-
-## Bihar labourer hit by vehicle of J&K deputy CM's cavalcade in Gangyal, dies
-J&K deputy CM Surinder Choudhary's cavalcade was on the way back after dropping him at his residence when the accident happened.
 
 ## Demand for affordable EVs will force open US market to Chinese models eventually: analysts
 Consumer demand for affordable electric vehicles is likely to force open the US market to Chinese electric vehicle (EV) brands within the next few years, even though they currently face trade barriers, according to analysts. US carmakers are expecting the same, with Ford CEO Jim Farley recently pred
@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
+President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa's port.
+
+## Yemeni army warns Houthis after attacks heighten escalation risk
+Yemeni army warns Houthis after attacks heighten escalation risk
+
+## Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day
+Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.
+
+## FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens
+Statement comes after Infantino denies UEFA paid off his alleged lover while he was the body's general secretary.
+
+## Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup
+The North African nations become the first teams from the continent to qualify for next year's World Cup in Brazil.
+
 ## Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
 The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.
 
@@ -242,21 +257,6 @@ It would be the International Criminal Court’s alleged supporters who refuse t
 
 ## Women’s Day in South Africa turns 70 with equality still out of reach
 The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.
-
-## Flight cancellations, evacuations as China braces for Typhoon Dolphin
-Over 1,600 flights cancelled as Typhoon Dolphin approaches China's eastern coast, with winds reaching 162km/h overnight.
-
-## Saudi Arabia says fire extinguished at Aramco facility in Jizan
-No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.
-
-## Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’
-Nagasaki Mayor says ‘humanity and nuclear weapons can't coexist’ as Japan marks anniversary of the US atomic bombing.
-
-## World number one Sabalenka upset by Alexandrova at Canadian Open
-Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabalenka in a three-set marathon in Toronto.
-
-## Israel announces tender for 627 settler units in occupied West Bank
-New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
