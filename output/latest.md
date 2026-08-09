@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## One of the world’s biggest coal producers battles to keep lights on
+Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market
+
+## Deadly protests in Kashmir test Pakistan’s military rulers
+Dozens killed in worst violence in region in decades
+
+## The bank behind China’s AI listings bonanza
+CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
+
 ## Tehran says US must ‘rectify its behaviour’ before Iran reopens strait
 Senior security official wants Washington to pay compensation for war damage
 
@@ -15,14 +24,8 @@ Continent’s power system already under stress from heatwaves
 ## First Brands urges court to approve bankruptcy settlement
 Plan would fund lawsuits to pursue billions of dollars in claims arising from alleged fraud scheme at collapsed car-parts maker
 
-## Landmark crypto bill stalls in US Senate despite $225mn spending push
-Lobby struggles to pass top priority in Congress as lawmakers spar over legislation
-
 ## Pfizer grapples with ‘a world of hurt’ after Covid triumph
 Sliding vaccine revenues and fears it overpaid for new drugs pile pressure on boss Albert Bourla
-
-## Spain reinstates border controls on Italy as tensions rise over migrants
-Decision widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni
 
 ## Venezuelans take to the streets as country hit by daily blackouts
 Caracas experiencing power cuts for first time in 7 years despite government pledges to invest in grid
@@ -32,9 +35,6 @@ Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggli
 
 ## Sainsbury’s needs a dose of Big Tech’s boldness
 UK’s second-largest supermarket has spent the last two decades delivering distinctly terrestrial returns
-
-## Kids, flats and student loans: Why UK first-time buyers are getting older
-One in three starts a family before having a home of their own
 
 ## Nifty & Bank Nifty இந்த வாரம் (10 Aug’26 to 14 Aug’26) என்ன ஆகும்? எங்கு செல்லும்?
 
@@ -60,6 +60,9 @@ Demand for a strike can matter more than time left for expiry
 ## Short Take: Indus Towers F&O adjustments
 Indus Towers (₹386*) has announced an interim dividend, which will lead to necessary adjustments in the F&O contracts on this stock on the record date.
 
+## India’s markets have strong domestic cushion, but global risks loom: Sebi
+India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
+
 ## Berkshire Hathaway Q2 earnings: Profit rises 16% to $12.98 billion as buybacks accelerate
 Berkshire Hathaway showcased impressive growth in its second-quarter results, with notable increases in both operating profit and net income. While revenue surged, the company's cash reserves took a hit from recent stock buybacks. Although Geico struggled, profits rose in BNSF Railway and other sect
 
@@ -81,8 +84,20 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Hindalco Q1 net jumps 75% to over 7,000 crore
 
 
-## Britannia signals another 1.5-2% price hike in Q2
+## ‘Distorting it’: Shashi Tharoor says remarks on Rahul Gandhi's ‘Chhatron ki goonj’ campaign not an attack on Congress
+Shashi Tharoor said he was stressing that political parties must open their doors and create paths for the next generation to gain the power to shape politics.
 
+## Supreme Court collegium to recommend five judges for high court chief justices
+The collegium is headed by Chief Justice of India Surya Kant and comprises of justices Vikram Nath and BV Nagarathna.
+
+## Tamil Nadu CM Vijay holds meeting to discuss delimitation; DMK, AIADMK skip
+The DMK and the AIADMK boycotted the meeting, calling it a “farce” and a “drama” while saying they were “not completely against delimitation”.
+
+## Two years since RG Kar rape-murder, West Bengal medical institutions to observe 2-min silence today
+RG Kar Medical College and Hospital rape and murder case dates back to August 9, 2024, when the body of a trainee doctor was found in a seminar room on campus.
+
+## Hilsa spotted in Ganga near Ghazipur in UP, decades after barrage cut off migration route
+Scientists spotted two hilsa in the Ganga along Ghazipur town in Uttar Pradesh earlier this week
 
 ## At IIT-Delhi, PM Modi asks students to measure career by nation's needs, not salaries: 'Basis of every decision'
 Addressing the 57th convocation ceremony, PM Modi told the graduating class that an IIT degree was “a mandate to contribute to the nation.”
@@ -92,21 +107,6 @@ Jharkhand govt held talks with student groups over JPSC, JSSC exam irregularitie
 
 ## As loud as chainsaw at close range? Kanwar Yatra boomboxes deafen Delhi above permitted limits, law on mute
 Delhi Traffic Police has designated 8 Kanwar corridors along the city’s busiest arterials, including Ring Road, Mathura Road, Wazirabad Road. Grand Trunk Road.
-
-## US Vice President JD Vance dials PM Modi, discusses deepening India-US strategic ties
-Apart from discussing India-US strategic ties, PM Modi said he also congratulated JD Vance and Second Lady Usha on the birth of their son.
-
-## Man who tried to open emergency exit on Kochi flight booked for attempt to murder
-The passenger, identified as Jamsheer Athanikkal of Koottanad in Palakkad, was travelling on the Batik Air flight OD231 from Kuala Lumpur to Kochi.
-
-## Jharkhand govt to hold fresh talks with students on Sunday protesting job exam 'irregularities'
-The talks will be held around 12 pm, the member said after the panel held a four-hour meeting with Chief Minister Hemant Soren.
-
-## 'Modi understands language of votes only': Kejriwal reveals plan to pressure Centre over E20 policy
-Arvind Kejriwal comments come as part of his solution to pressure the Modi govt to roll back E20 fuel policy.
-
-## 8 from banned underground outfits arrested with arms, explosives: Manipur police
-According to the statement, the arrest were made in different areas including Imphal East, Imphal West, Bishnupur, Kakching and Tengnoupal district
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -228,10 +228,13 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli settler attacks rise as West Bank residents lose land
+Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
+
 ## Hungary nominates former Supreme Court chief Andras Baka for presidency
 Andras Baka, a strong advocate for judicial independence, becomes governing party's pick for Hungary's next president.
 
-## Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
+## Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks
 IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.
 
 ## Turkiye says Mecca defence pact not aimed at Iran
@@ -248,9 +251,6 @@ More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts
 
 ## Car bomb attack rattles Colombia after inauguration of hardline president
 Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.
-
-## Will Pakistan-Saudi-Turkiye defence pact change US strategy?
-Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
