@@ -24,6 +24,9 @@ Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in prof
 ## How a made-up agency found its way into Nigeria’s budget
 Alleged head of fictional investment council was allocated government funding and met top officials
 
+## Holding public servants to account is harder than it seems
+A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?
+
 ## Hargreaves Lansdown orders staff back to office
 UK’s biggest DIY investment platform calls employees back to the workplace three days a week
 
@@ -35,12 +38,6 @@ Indonesia’s attempt to contain prices at home has discouraged companies from s
 
 ## The bank behind China’s AI listings bonanza
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
-
-## Greg Abel finally puts Buffett’s cash pile to work
-Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks
-
-## Solar eclipse threatens to tighten Europe’s electricity squeeze
-Continent’s power system already under stress from heatwaves
 
 ## Shahpur Kandi dam nears completion, Ujh project gets revival push
 Once commissioned, the two projects are expected to generate hundreds of megawatts of electricity and provide irrigation to large tracts of land in Jammu and Kashmir and Punjab
@@ -90,6 +87,15 @@ Indian Railways is prioritising Kavach deployment on high-density and highly use
 ## Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations
 Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-ba
 
+## Russia to India by train? Moscow floats rail route to Indian Ocean
+The proposal comes amid escalating maritime disruptions in the Strait of Hormuz following armed hostilities involving the US, Israel and Iran.
+
+## 2 Kanwariyas die in separate hit-and-run accidents in Haridwar: Police
+Police teams in both cases are examining CCTV footage from the accident areas and investigating to trace the vehicles and their drivers
+
+## ‘Could have been killed’: Mamata Banerjee's vehicle attacked with ‘stones, mud’ in North 24 Parganas
+The TMC president said she was on her way to visit the family of a deceased party worker when the incident took place.
+
 ## Amid taunts over no woman in Karnataka Cong cabinet, change may be in offing as Shivakumar headed to Delhi for key meet
 Union minister Rijiju had asked about Karnataka as Rahul, in a social media AMA, said “no country can be successful if women are not expressing themselves”.
 
@@ -104,15 +110,6 @@ The aircraft reportedly crossed the threshold of Runway 29 at the Baramati airfi
 
 ## Six killed as container truck rams into car in Madhya Pradesh's Dhar
 The collision took place at around 1.30 pm near Panchak Vasa, nearly 4 km from Badnawar town.
-
-## Man performs ‘tantric ritual’ with Chhattisgarh chief justice's photo in effort to get bail for kin; held at crematorium
-Police recover a fish, some lemons, vermilion and photographs of Chhattisgarh HC CJ Ramesh Sinha from the spot
-
-## Laser light disorients Malaysia Airlines pilot approaching Kolkata airport; flight circles before landing
-When the aircraft was around eight nautical miles from the runway, the pilot reportedly noticed a bright laser beam flashing towards the cockpit.
-
-## SC to hear plea seeking time-bound NDPS probes, confiscation of traffickers' properties on Monday
-SC to hear plea seeking time-bound NDPS probes, confiscation of traffickers' properties on Monday
 
 ## Demand for affordable EVs will force open US market to Chinese models eventually: analysts
 Consumer demand for affordable electric vehicles is likely to force open the US market to Chinese electric vehicle (EV) brands within the next few years, even though they currently face trade barriers, according to analysts. US carmakers are expecting the same, with Ford CEO Jim Farley recently pred
@@ -234,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Hundreds forced onto Rome streets amid crackdown on squatted building
+Around 300 residents camp on Rome streets amid crackdown on squatted buildings.
+
+## Israel rejects Trump’s 15-point plan for Gaza
+Prime Minister Benjamin Netanyahu says Israel will not ⁠withdraw ​forces from Gaza until Hamas ⁠fully disarms.
+
 ## Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
 President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa's port.
 
@@ -251,12 +254,6 @@ The North African nations become the first teams from the continent to qualify f
 
 ## Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
 The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.
-
-## It won’t be Trump who kills the ICC
-It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.
-
-## Women’s Day in South Africa turns 70 with equality still out of reach
-The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
