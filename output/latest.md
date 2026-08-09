@@ -24,6 +24,12 @@ Alleged head of fictional investment council was allocated government funding an
 ## The Bayeux Tapestry loan is a model for the Parthenon Marbles
 Burnham has a chance to create a legislative carve-out that speeds the process of returning the artefacts to Greece
 
+## Hargreaves Lansdown orders staff back to office
+UK’s biggest DIY investment platform calls employees back to the workplace three days a week
+
+## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
+Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
+
 ## One of the world’s biggest coal producers battles to keep lights on
 Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market
 
@@ -36,41 +42,29 @@ Berkshire Hathaway chief ends more than three-year selling streak as he ploughs 
 ## Solar eclipse threatens to tighten Europe’s electricity squeeze
 Continent’s power system already under stress from heatwaves
 
-## First Brands urges court to approve bankruptcy settlement
-Plan would fund lawsuits to pursue billions of dollars in claims arising from alleged fraud scheme at collapsed car-parts maker
+## Transfer to core from satellite?
+You can transfer gains from your satellite to a core portfolio but not the other way around; this constraint is very important to protect the excess gains you may have in any of your core portfolios
 
-## Pfizer grapples with ‘a world of hurt’ after Covid triumph
-Sliding vaccine revenues and fears it overpaid for new drugs pile pressure on boss Albert Bourla
+## Jindal Stainless to identify site for ₹40,000-cr Maharashtra project in next two quarters
+The proposed stainless steel facility will have a capacity of 4 million tonnes per annum, constructed in phases, with the first phase to be operational in 4 years
 
-## Venezuelans take to the streets as country hit by daily blackouts
-Caracas experiencing power cuts for first time in 7 years despite government pledges to invest in grid
+## Mutual fund flows and takeaways for you
+Investors are staying invested despite volatility, getting comfortable delegating market-cap allocation decisions to fund managers and warming up to one-stop asset allocation via MAFs
 
-## Credit insurer to cut cover for UK housebuilder Vistry’s suppliers
-Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggling company
+## Premiumisation lifts liquor companies' June quarter topline amid cost headwinds
+Leading alcobev players, such as United Spirits Ltd, Radico Khaitan and Allied Blenders and Distillers Ltd, reported a high double-digit growth of 10 to 36% in their prestige-and-above segment, which is higher-end, premium, luxury spirits including whiskey, vodka, gin and rum
 
-## Former AIADMK Ministers C Vijayabaskar, MR Vijayabhaskar get key posts in TVK
-C Vijayabaskar has been appointed as Pudukkottai district organisational secretary and M R Vijayabhaskar as Karur district organisational secretary.
+## Samsung tracking consumer AI adoption to shape future features: Official
+Samsung’s Jay Kim aims for AI to operate seamlessly in the background, allowing users to complete tasks effortlessly without considering the technology involved
 
-## Cyril Shroff, IIM Ahmedabad set up leadership academy for general counsels
-The initiative comes as the role of general counsels has expanded beyond traditional legal advisory functions to include enterprise strategy, governance, risk management, technology and business transformation
+## NCLAT junks plea of Log 9 Mobility's execs against order to assist in recovery of EVs leased from Gensol
+NCLAT affirms NCLT’s authority to mandate assistance from Log 9 Mobility’s suspended directors in recovering leased electric vehicles
 
-## Loan book to cross ₹2 lakh crore milestone in FY27: HUDCO CMD
-The company has raised ₹20,000 crore in Q1 and plans to mobilise the remaining ₹55,000 crore in the next three quarters of FY27, said HUDCO CMD Sanjay Kulshrestha
+## Households in India, other Asia-Pacific regions highly vulnerable to El Nino-driven price shocks: S&P
+S&P noted that the 2026 El Niño will affect Asia-Pacific mainly through weaker rainfall and climate disruption, but the macroeconomic impact is expected to be manageable
 
-## BRICS trade ministers to study invoice discounting mechanism for MSME financing
-The BRICS trade ministers have decided to study the setting up an 'Invoice Discounting Mechanism' for member countries, considering the MSME finance gap
-
-## Typhoon Dolphin: Shanghai cancels 1,300 flights as China prepares for heavy rains
-The storm's maximum sustained winds were estimated at about 162 kilometres per hour as of Sunday morning. It is bringing heavy rains, creating a risk of severe flooding as well as landslides
-
-## Mcap of four of top-10 most valued firms jumps ₹1.43 lakh crore; State Bank biggest winner
-From the top-10 pack, Reliance, SBI, TCS and L&T were the gainers, while Bharti Airtel, HDFC Bank, ICICI Bank, Bajaj Finance, LIC and Hindustan Unilever faced a combined erosion of ₹1.23 lakh crore from their valuation
-
-## Hyundai Motor India expects exports volume to recover from Q2: MD & CEO Tarun Garg
-The company's exports were down 19.6% at 38,708 units in Q1 FY27 as compared to 48,140 units in the corresponding period last fiscal
-
-## Markets may remain difficult to beat, but investor crowding could create opportunities at extremes
-The report noted that the stock market is vulnerable to a lack of diversity due to the social nature of investing
+## US Vice President Vance dials PM Modi, discusses ways to expand India-US partnership
+The two leaders also reaffirmed their commitment to strengthening cooperation in emerging technologies and critical minerals.
 
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
@@ -96,29 +90,29 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Hindalco Q1 net jumps 75% to over 7,000 crore
 
 
+## Punjab: 3 kanwariyas killed, 1 injured in Sirhind after vehicle hit from behind
+The deceased have been identified as Jagdish, Mahinder Pal and Deepak Kumar, while another person was injured and taken to a hospital for treatment.
+
+## Indian Navy joins search for three fishermen missing after boat mishaps in Kerala
+Indian Navy joins search for three fishermen missing after boat mishaps in Kerala
+
+## Fresh talks with govt today, protesters on hunger strike ‘stable’: Latest updates on Jharkhand protests
+The doctor said while the protesters should be taken to the hospital, they are refusing to move. The required treatment was being provided on the spot.
+
+## 'Bid to silence him': Tarun Tejpal's daughter says he was targeted for investigative journalism after his conviction
+Bombay high court sentenced Tarun Tejpal to 10 years in jail for raping a junior colleague in 2013.
+
+## Who is Juan Antonio March Pujol? Spain's India ambassador set to be replaced over spending row
+The move comes as Juan Antonio March faces scrutiny over his handling of cultural events linked to the Spanish embassy.
+
+## Did pilot of turbulence-hit Phuket-Delhi flight fail dope test? Air India says results not shared yet
+The Air India statement comes amid reports saying that a pilot failed the drug test conducted after the flight's mid-flight turbulence on August 4.
+
 ## OBC representation below quota in postal dept, parliamentary panel flags shortfall
 A parliamentary panel flagged OBC under-representation in several postal cadres and sought steps to meet the 27% quota, fill 207 backlog vacancies and raise GDS pay.
 
 ## Mayawati opposes 'creamy layer' for SCs, STs in reservation, hits out at RSS
 Mayawati opposes 'creamy layer' for SCs, STs in reservation, hits out at RSS
-
-## AAP's Saurabh Bharadwaj alleges ‘ ₹22,000 crore rice scam plan’ by Delhi govt
-Saurabh Bharadwaj alleged that Delhi government sought highly subsidised rice to distribute among poor people but it never reached the public.
-
-## Andhra CM directs officials to make Jaladhara-Jalaharathi continuous programme
-Andhra CM directs officials to make Jaladhara-Jalaharathi continuous programme
-
-## Bengaluru delivery boy abused in Hindi by girls, beaten by male friends; incident caught on cam
-According to the FIR, some girls hurled abuses at him, provoking a response. He confronted them and said he did not understand Hindi.
-
-## 70-year-old woman killed as ‘drunk’ son of Haryana police officer crashes Mercedes in Delhi
-Officials said a beer bottle and an empty liquor bottle were found in the sedan and alleged that the luxury Sedan's driver misbehaved when confronted.
-
-## Prime suspect in Bulandshahr girl’s rape-murder killed in encounter: UP Police
-The prime suspect in the rape and murder of a 12-year-old girl in Bulandshahr, was killed in a police encounter in Gulawathi early Sunday.
-
-## 'Rapid, rigorous investigations': NTA revamps top ranks, creates new roles to probe exam malpractices
-NTA has advertised senior roles in cybersecurity, exam-centre operations and vigilance as part of its institutional overhaul after exam controversies.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -240,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Wildfire forces thousands of evacuations in Western Canada
+A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.
+
 ## Lionel Messi returns to Argentina after father Jorge’s death
 Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.
 
@@ -260,9 +257,6 @@ A fruit long left to rot could become a new source of income for Ghana’s cashe
 
 ## Helicopter crash kills pilot and crew member amid Utah wildfire battle
 Utah wildfire suppression efforts continued, with containment standing at 24 percent.
-
-## Israeli settler attacks rise as West Bank residents lose land
-Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
