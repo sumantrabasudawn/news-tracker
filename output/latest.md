@@ -1,6 +1,9 @@
 # AION Intelligence
 
-## Organised crime suspect Daniel Kinahan extradited from Dubai
+## Tehran says US must meet new conditions before Iran reopens strait
+Iranian rhetoric hardens amid push to seal deal between Islamic republic and Oman that would reopen the waterway
+
+## Organised crime suspect Daniel Kinahan extradited from Dubai to Ireland
 Irish government jet believed to be carrying alleged drug trafficker lands in Dublin
 
 ## A very British by-election reaches its finale
@@ -14,9 +17,6 @@ Ex-CIA staffers step up efforts to publicise their deepening alarm about the sta
 
 ## Britain needs to redefine what it considers cutting-edge
 Burnham should promote a broader conception of advanced manufacturing that goes beyond frontier technologies
-
-## Tehran says US must meet new conditions before Iran reopens strait
-Senior security official wants Washington to pay compensation for war damage
 
 ## Netanyahu rejects Trump’s Gaza disarmament plan
 Israeli prime minister says military will not withdraw from Palestinian enclave ‘until Hamas is disarmed’
@@ -237,6 +237,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Can the Doha Framework end the conflict in eastern DRC?
+Kinshasa hands over 15 prisoners to powerful rebel alliance.
+
+## Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
+Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.
+
+## Where does Iran stand on Saudi-Pakistan-Turkiye pact?
+Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
+
 ## Jannik Sinner withdraws from Cincinnati Open with knee injury
 Number one ranked player in men's tennis will miss the tournament due to a knee issue, he says via organisers.
 
@@ -251,15 +260,6 @@ Israel is trapped in a cycle it created.
 
 ## ‘No surprise’: Netanyahu rejects US-backed Gaza plan
 Palestinian politician Mustafa Barghouti says Netanyahu's rejection of the US-backed Gaza plan is no surprise.
-
-## Incumbents secure Hawaii primary wins, defying progressive challengers
-Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.
-
-## Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul
-Marmoush scores twice in three minutes as City rallies to beat Atletico in club friendly at the Seoul World Cup stadium.
-
-## UAE extradites alleged international crime boss Daniel Kinahan to Ireland
-Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
