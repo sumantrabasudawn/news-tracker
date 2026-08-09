@@ -237,6 +237,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace
+‘We're going backwards.’
+
+## Israel is ‘trying to make Palestine disappear’: The Elders
+Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.
+
 ## Can the Doha Framework end the conflict in eastern DRC?
 Kinshasa hands over 15 prisoners to powerful rebel alliance.
 
@@ -254,12 +260,6 @@ Ahmed al-Jubouri and a close associate were arrested on charges of misusing cont
 
 ## Wildfires in Albania and Spain cause hundreds to evacuate
 Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.
-
-## How Israel’s occupation fuels resistance
-Israel is trapped in a cycle it created.
-
-## ‘No surprise’: Netanyahu rejects US-backed Gaza plan
-Palestinian politician Mustafa Barghouti says Netanyahu's rejection of the US-backed Gaza plan is no surprise.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
