@@ -1,7 +1,10 @@
 # AION Intelligence
 
 ## Organised crime suspect Daniel Kinahan extradited from Dubai
-Irish government jet flies alleged drug trafficker back to Dublin to face charges
+Irish government jet believed to be carrying alleged drug trafficker lands in Dublin
+
+## A very British by-election reaches its finale
+Clacton poll unlikely to settle serious questions over Reform UK leader, while a solar eclipse promises an economic lift
 
 ## Syria makes deal to take control of Russian bases
 Strategic blow for Moscow as Trump moves closer to Syrian regime
@@ -20,12 +23,6 @@ Israeli prime minister says military will not withdraw from Palestinian enclave 
 
 ## America’s hidden M&A boom
 It’s lurking in one of the US’s top exports: higher education
-
-## Could AI create a ‘permanent underclass’?
-San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market
-
-## A very British by-election reaches its finale
-Clacton poll unlikely to settle serious questions over Reform UK leader, while a solar eclipse promises an economic lift
 
 ## Holding public servants to account is harder than it seems
 A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?
