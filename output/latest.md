@@ -114,6 +114,9 @@ The Jharkhand government on Sunday began fresh talks with the students after thr
 ## 'Cheer 4 Bharat': PM Modi meets CWG medal winners, shares new video
 PM Modi also shared a short video of his interaction with the athletes on Instagram, calling the meeting a special occasion.
 
+## DFI navigates ‘hardest’ market China as 7-Eleven stores profit despite online price wars
+For international retailers like DFI Retail Group, which operates 7-Eleven and Maxim’s in 12 global markets, mainland China is a tough market to crack given its “unsustainable” online subsidies, according to an executive. “I think customers in China still have a very value-focused, careful use of th
+
 ## Can Hong Kong Become Asia’s Blueprint for Sustainable Urban Growth?
 [The content of this article has been produced by our advertising partner.] Hong Kong has long been a city in motion, where capital, talent and ideas move with remarkable speed. For AtkinsRéalis, a world-class engineering services and nuclear power organisation, the city is more than a strategic bas
 
@@ -134,9 +137,6 @@ Global pharmaceutical giants are doubling down on investing in China’s fast-gr
 
 ## Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report
 Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – national capital Beijing, financial centre Shanghai and southern Guangdong province, a technology and expor
-
-## Hong Kong’s US dollar peg explained: history, benefits and risks
-As international investors diversify away from US dollar assets and amid the rise of internationalisation of the yuan, there are calls for reviewing the Hong Kong dollar’s peg. Here is what to know about the system. Why is the Hong Kong dollar pegged to the US dollar? The birth of the peg is closely
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What’s driving unrest in Pakistan-administered Kashmir?
+Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera's Ava Warriner explains.
+
 ## Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found
 Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.
 
@@ -254,9 +257,6 @@ Iran not immediately threatened by pact, analysts say, with officials focusing o
 
 ## Jannik Sinner withdraws from Cincinnati Open with knee injury
 Number one ranked player in men's tennis will miss the tournament due to a knee issue, he says via organisers.
-
-## Former Iraqi provincial governor arrested as graft crackdown continues
-Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
