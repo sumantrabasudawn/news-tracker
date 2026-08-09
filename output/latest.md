@@ -6,7 +6,7 @@ Charities who worked with him in Greater Manchester believe PM enters Number 10 
 ## Career satisfaction in an uncertain world? Dream on
 Children’s cute job hopes look unattainable, but they are still worth encouraging
 
-## UK state subsidies soar as post-Brexit grants boost energy projects
+## UK state subsidies soar as post-Brexit support boosts energy projects
 Government backing climbs to £114bn in year to March, more than double the previous 12 months
 
 ## Turkey’s cyber law shifts sweeping powers to presidency
@@ -42,29 +42,29 @@ Berkshire Hathaway chief ends more than three-year selling streak as he ploughs 
 ## Solar eclipse threatens to tighten Europe’s electricity squeeze
 Continent’s power system already under stress from heatwaves
 
+## India considers restricting Carbosulfan insecticide use, weeks after proposing ban on Paraquat
+A final decision on restricting the pesticide, sold under FMC India’s ‘Marshal’ brand (which contains 25% Carbosulfan), is expected by the end of August
+
+## GOBARdhan Scheme can help reduce gas imports by $5 billion, says IBA
+The recently approved GOBARdhan (Galvanising Organic Bio-Agro Resources Dhan) with a financial outlay of ₹23,731 crore, should be viewed as a strategic national investment rather than a public expenditure
+
+## India unlikely to curb Russian oil buys despite fresh US sanctions threat: Sources
+New Delhi signals little appetite for sacrificing energy security, defence ties, strategic cooperation with Moscow
+
+## FMCG firms signal price hikes in Q2 as input cost pressures persist; demand remains resilient
+Higher sugar, palm oil and crude-linked costs are prompting FMCG majors like Britannia, HUL, Dabur and others to protect margins
+
+## Outcome-based IT services no longer optional: Nasscom’s Rajesh Nambiar
+In an interview with businessline, Rajesh Nambiar, President of IT industry body Nasscom, discusses how AI is changing the economics of IT services, why outcome-based delivery is becoming inevitable, the industry’s AI readiness, talent and policy priorities
+
+## Titan sees positive momentum in July; on track to beat FY30 growth targets: MD
+Titan Managing Director Ajoy Chawla stated that the company is on track to meet its growth goals and may exceed them this year
+
+## No immunity, no data: Legal gap clouds GIFT City’s data embassy aspirations
+Absence of legal guarantees for the inviolability of sovereign data remains the biggest hurdle to establishing data embassies in GIFT City
+
 ## Milk prices set to rise by ₹2 in Maharashtra from Aug 11
 The decision was taken at a meeting of the Milk Producers and Processors Welfare Association chaired by its president Gopalrao Mhaske on Friday
-
-## Tractor sales grew 28% in July on better monsoon, rural demand
-The July volume was a record for the month, with rural tractor demand benefiting from the catch-up in kharif sowing and improving monsoon conditions, said FADA.
-
-## Pick of BL commodities -Aug 9, 2026
-India is set to be the first in the world to begin cultivation of gene-edited rice, while ICAR has developed the country’s first fully annotated T2T genome of pigeonpea. The deficiency in kharif sowing has shrunk to 3%, but domestic rice prices have gained on the demand-supply gap and fears of a def
-
-## Cyclone Ditwah: India hands over third consignment of Bailey bridges to Sri Lanka
-The latest shipment of five modular bridges, weighing over 250 mt, is part of India’s $450 million post-disaster reconstruction package for Sri Lanka.
-
-## Ownly, magicpin step up push for bigger slice of India's food delivery market
-he developments come as India's food delivery sector sees more platforms seeking a foothold in the market, while restaurants push for greater control over commercial terms and customer-facing promotions
-
-## BIS to scale up silver hallmarking testing as buyers shift from costly gold
-Since 2005, silver hallmarking has been voluntary, and from September 2025, it will include a Hallmark Unique Identification (HUID) number for purity verification
-
-## If your NPS corpus is too small
-Buying an annuity via NPS has one important advantage: there is no GST on the purchase. Your entire amount goes towards buying the pension
-
-## Car industry to hit 6.3 million units by FY31, with small cars growing faster: Maruti Suzuki Chairman RC Bhargava
-Urges government, including the State governments, to proceed faster reforms and increase efforts to make doing business easier
 
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
@@ -90,29 +90,29 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Hindalco Q1 net jumps 75% to over 7,000 crore
 
 
-## Who all are allegedly involved in Delhi's ‘rice scam’? AAP leader Saurabh Bharadwaj's big charge
-Saurabh Bharadwaj alleged a chain involving four actors, essentially saying that rice meant for the poor was sold to a firm in Haryana, and money made illegally
+## Himachal Pradesh issues orange alert for heavy rain
+Heavy rain is forecasted in at isolated places in the Himachal Pradesh on Monday, Tuesday, Friday and Saturday with an 'orange alert' active this week.
 
-## 20,000 security personnel, NDRF force, CCTVs: Preparations in full swing for Independence Day at Delhi's Red Fort
-The security arrangements include Delhi Police units, paramilitary forces, commandos and NSG teams, including snipers and specialised ‘hit teams’.
+## Violations in 'deep burial' of medical waste by 17 states, UTs: CPCB to NGT
+Violations in 'deep burial' of medical waste by 17 states, UTs: CPCB to NGT
 
-## ‘It’s their internal matter': Supriya Sule on Sunetra Pawar-led NCP's talks with Prashant Kishor
-Supriya Sule stressed that Prashant Kishor worked independently in his professional capacity and that deciding whom to work with was entirely his call.
+## JNU cancels auditorium booking as discussion centred on jailed activist Umar Khalid's book
+Student union said no particular reason was given for cancelling venue. JNU on X later cited “non-disclosure of the full facts about the program” as the reason.
 
-## 40 people injured as bus collides with truck, falls off bridge in Andhra Pradesh
-At least 40 passengers were injured, including 10 critically, after a Volvo bus collided with a truck and plunged off a bridge in Andhra Pradesh’s Anantapur.
+## Bihar labourer hit by vehicle of J&K deputy CM's cavalcade in Gangyal, dies
+J&K deputy CM Surinder Choudhary's cavalcade was on the way back after dropping him at his residence when the accident happened.
 
-## Woman arrested for killing husband in Mathura; daughter, her lover also involved
-Woman arrested for killing husband in Mathura; daughter, her lover also involved
+## ‘Bid to saffronise': Question on VD Savarkar in primary level quiz triggers row in Kerala | What we know
+Former Kerala chief minister Pinarayi Vijayan accused the Congress-led UDF government in the state of “colluding” with the RSS and “glorifying” Savarkar.
 
-## Delhi tribunal awards ₹44 lakh to children of couple killed in UP road accident
-Delhi tribunal awards ₹44 lakh to children of couple killed in UP road accident
+## Opposition gears up to resist Centre's FCRA amendment; why foreign funding bill is under fire
+The Foreign Contribution (Regulation) Amendment Bill, 2026 seeks to make amendments to the existing foreign funding law.
 
-## Milk prices in Maharashtra set to increase by ₹2 per litre from August 11, association cites rising cost pressure
-The decision to increase milk prices in Maharashtra by ₹2/litre follows discussions on protecting dairy farmers' interests while safeguarding consumers.
+## Advocate claims PGIMER's heritage furniture listed for auction in US, seeks govt intervention
+Advocate claims PGIMER's heritage furniture listed for auction in US, seeks govt intervention
 
-## Punjab: 3 kanwariyas killed, 1 injured in Sirhind after vehicle hit from behind
-The deceased have been identified as Jagdish, Mahinder Pal and Deepak Kumar, while another person was injured and taken to a hospital for treatment.
+## Andhra CM calls for mass movement to make every citizen partner in nation building
+Andhra CM calls for mass movement to make every citizen partner in nation building
 
 ## Derelict cinema on scenic Hong Kong island up for auction with a US$1 million price tag
 Peng Chau Cinema, an Instagrammable spot for tourists on an outlying Hong Kong island, will be auctioned off in mid-August at a valuation 30 per cent below estimation after almost 40 years of abandonment – a dormancy lengthy enough to fuel dark rumours among some residents. The former cinema is curr
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## It won’t be Trump who kills the ICC
+It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.
+
+## Women’s Day in South Africa turns 70 with equality still out of reach
+The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.
+
+## Flight cancellations, evacuations as China braces for Typhoon Dolphin
+Over 1,600 flights cancelled as Typhoon Dolphin approaches China's eastern coast, with winds reaching 162km/h overnight.
+
 ## Saudi Arabia says fire extinguished at Aramco facility in Jizan
 No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.
 
@@ -248,15 +257,6 @@ New settlement tender in West Bank deepens Israeli efforts to sever Palestinian 
 
 ## Wildfire forces thousands of evacuations in Western Canada
 A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.
-
-## Lionel Messi returns to Argentina after father Jorge’s death
-Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.
-
-## Iran issues new demands as Pezeshkian seeks deal
-Senior Iranian security official sets broader conditions for reopening Hormuz.
-
-## ‘Very painful’: Joe Biden’s cancer has spread, son Hunter says
-Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
