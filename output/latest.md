@@ -48,29 +48,29 @@ Caracas experiencing power cuts for first time in 7 years despite government ple
 ## Credit insurer to cut cover for UK housebuilder Vistry’s suppliers
 Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggling company
 
-## Rajya Sabha to take up Taxation Laws Amendment Bill, Bankers' Books Evidence Bill tomorrow
-The 'Taxation and Other Laws (Amendment) Bill, 2026 ' seeks to amend the Payment and Settlement Systems Act, 2007, Income-tax Act, 2025, and Finance Act, 2026
+## Former AIADMK Ministers C Vijayabaskar, MR Vijayabhaskar get key posts in TVK
+C Vijayabaskar has been appointed as Pudukkottai district organisational secretary and M R Vijayabhaskar as Karur district organisational secretary.
 
-## Cochin International Airport says FY26 profit surpasses ₹500 cr on higher revenue
-CIAL handled 11,442,583 passengers and recorded 73,134 aircraft movements during the year
+## Cyril Shroff, IIM Ahmedabad set up leadership academy for general counsels
+The initiative comes as the role of general counsels has expanded beyond traditional legal advisory functions to include enterprise strategy, governance, risk management, technology and business transformation
 
-## The 16th Worldwide Chinese Life Insurance Congress & 2026 International Dragon Award (IDA) Annual Conference Grandly Held
-The 16th Worldwide Chinese Life Insurance Congress & 2026 International Dragon Award (IDA) Annual Conference Grandly Held
+## Loan book to cross ₹2 lakh crore milestone in FY27: HUDCO CMD
+The company has raised ₹20,000 crore in Q1 and plans to mobilise the remaining ₹55,000 crore in the next three quarters of FY27, said HUDCO CMD Sanjay Kulshrestha
 
-## Strong credit growth, capital inflows likely to support Indian markets; rupee outlook improves: Report
-The report noted that the domestic economy shows promise, with bank credit growth reaching 17-18% year-on-year, the highest in over a decade
+## BRICS trade ministers to study invoice discounting mechanism for MSME financing
+The BRICS trade ministers have decided to study the setting up an 'Invoice Discounting Mechanism' for member countries, considering the MSME finance gap
 
-## Nifty & Bank Nifty இந்த வாரம் (10 Aug’26 to 14 Aug’26) என்ன ஆகும்? எங்கு செல்லும்?
+## Typhoon Dolphin: Shanghai cancels 1,300 flights as China prepares for heavy rains
+The storm's maximum sustained winds were estimated at about 162 kilometres per hour as of Sunday morning. It is bringing heavy rains, creating a risk of severe flooding as well as landslides
 
+## Mcap of four of top-10 most valued firms jumps ₹1.43 lakh crore; State Bank biggest winner
+From the top-10 pack, Reliance, SBI, TCS and L&T were the gainers, while Bharti Airtel, HDFC Bank, ICICI Bank, Bajaj Finance, LIC and Hindustan Unilever faced a combined erosion of ₹1.23 lakh crore from their valuation
 
-## Share of insured bank deposits slips below 40% in value terms in FY26
-Share of fully protected accounts remained overwhelmingly high at 97.38% in FY26, only marginally lower than 97.56% in FY25 and 97.78% in FY24
+## Hyundai Motor India expects exports volume to recover from Q2: MD & CEO Tarun Garg
+The company's exports were down 19.6% at 38,708 units in Q1 FY27 as compared to 48,140 units in the corresponding period last fiscal
 
-## Retail participation in IPOs remains lacklustre as investors eye quality over listing day gains
-Of the 12 issues that hit the market in July, the retail portion of only five was oversubscribed in double digits, while six issues registered single digit oversubscription
-
-## Government clarifies UPI users will not be charged, says MDR may apply to select merchants
-Finance Ministry said, “Consumers making payments will not face any transaction charges” and that “all Person-to-Person transactions will continue to be free of charge”
+## Markets may remain difficult to beat, but investor crowding could create opportunities at extremes
+The report noted that the stock market is vulnerable to a lack of diversity due to the social nature of investing
 
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
@@ -96,6 +96,18 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Hindalco Q1 net jumps 75% to over 7,000 crore
 
 
+## OBC representation below quota in postal dept, parliamentary panel flags shortfall
+A parliamentary panel flagged OBC under-representation in several postal cadres and sought steps to meet the 27% quota, fill 207 backlog vacancies and raise GDS pay.
+
+## Mayawati opposes 'creamy layer' for SCs, STs in reservation, hits out at RSS
+Mayawati opposes 'creamy layer' for SCs, STs in reservation, hits out at RSS
+
+## AAP's Saurabh Bharadwaj alleges ‘ ₹22,000 crore rice scam plan’ by Delhi govt
+Saurabh Bharadwaj alleged that Delhi government sought highly subsidised rice to distribute among poor people but it never reached the public.
+
+## Andhra CM directs officials to make Jaladhara-Jalaharathi continuous programme
+Andhra CM directs officials to make Jaladhara-Jalaharathi continuous programme
+
 ## Bengaluru delivery boy abused in Hindi by girls, beaten by male friends; incident caught on cam
 According to the FIR, some girls hurled abuses at him, provoking a response. He confronted them and said he did not understand Hindi.
 
@@ -107,18 +119,6 @@ The prime suspect in the rape and murder of a 12-year-old girl in Bulandshahr, w
 
 ## 'Rapid, rigorous investigations': NTA revamps top ranks, creates new roles to probe exam malpractices
 NTA has advertised senior roles in cybersecurity, exam-centre operations and vigilance as part of its institutional overhaul after exam controversies.
-
-## ‘Distorting it’: Shashi Tharoor says remarks on Rahul Gandhi's ‘Chhatron ki goonj’ campaign not an attack on Congress
-Shashi Tharoor said he was stressing that political parties must open their doors and create paths for the next generation to gain the power to shape politics.
-
-## Supreme Court collegium to recommend five judges for high court chief justices
-The collegium is headed by Chief Justice of India Surya Kant and comprises of justices Vikram Nath and BV Nagarathna.
-
-## Tamil Nadu CM Vijay holds meeting to discuss delimitation; DMK, AIADMK skip
-The DMK and the AIADMK boycotted the meeting, calling it a “farce” and a “drama” while saying they were “not completely against delimitation”.
-
-## Two years since RG Kar rape-murder, West Bengal medical institutions to observe 2-min silence today
-RG Kar Medical College and Hospital rape and murder case dates back to August 9, 2024, when the body of a trainee doctor was found in a seminar room on campus.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -240,6 +240,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lionel Messi returns to Argentina after father Jorge’s death
+Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.
+
+## Iran issues new demands as Pezeshkian seeks deal
+Senior Iranian security official sets broader conditions for reopening Hormuz.
+
+## ‘Very painful’: Joe Biden’s cancer has spread, son Hunter says
+Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.
+
+## Car bomb hits Colombia highway day after new president sworn in
+A car bomb destroyed a toll booth on a highway in Colombia a day after President Abelardo de la Espriella was sworn in.
+
 ## Iran seeks way out of ‘neither war nor peace’ stalemate with US
 Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.
 
@@ -251,18 +263,6 @@ Utah wildfire suppression efforts continued, with containment standing at 24 per
 
 ## Israeli settler attacks rise as West Bank residents lose land
 Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
-
-## Hungary nominates former Supreme Court chief Andras Baka for presidency
-Andras Baka, a strong advocate for judicial independence, becomes governing party's pick for Hungary's next president.
-
-## Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks
-IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.
-
-## Turkiye says Mecca defence pact not aimed at Iran
-Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.
-
-## Vance says US ‘destroyed’ Iran’s nuclear programme
-US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
