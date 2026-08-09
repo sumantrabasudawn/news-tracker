@@ -108,7 +108,7 @@ A team from Thiruvananthapuram Cyber Police Station, which is probing the case, 
 ## Adhikari orders probe into cremation of RG Kar rape-murder victim; names 3 TMC leaders
 The memorial event was also addressed by Ratna Debnath, the victim’s mother, who won the Panihati assembly seat in May
 
-## Govt extends ED director Rahul Navin's tenure by 1 year
+## Govt extends ED director Rahul Navin's tenure by a year
 The extension will continue beyond his scheduled retirement on July 31, 2027, according to the government order
 
 ## BSF firing kills Bangladesh national in Tripura during alleged smuggling attempt
