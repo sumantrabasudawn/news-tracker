@@ -42,6 +42,18 @@ Indonesia’s attempt to contain prices at home has discouraged companies from s
 ## The bank behind China’s AI listings bonanza
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
+## Loss making Mutual Fund schemes nearly triple in FY26
+Around 731 schemes posted negative annual returns against 243 a year earlier, while the ones earning over 10 per cent fell fell sharply
+
+## Good Flippin’ Burgers bets on metro density, store economics before wider expansion
+Good Flippin’ Burgers is currently trending at an annualised revenue run rate (ARR) of about ₹250 crore for the current financial year, according to Viren D’Silva
+
+## Import fears cast shadow over watermelon farmers ahead of new season
+Watermelon is generally sown between June and August, with the crop beginning to reach markets from early September
+
+## IAM Ignite Museum unfolds a new chapter in tech history
+Put together by ex-TCS veterans, it will showcase the Information Age revolutions
+
 ## Britannia sees uneven recovery in international business as supply-chain pressures ease
 Despite external pressures, Britannia reported a consolidated net profit of ₹593 crore in the first quarter of FY27
 
@@ -53,18 +65,6 @@ The RBI’s 101st SPF, conducted in July 2026, pegged FY27 real GDP growth at 6.
 
 ## AI may redraw India’s IT services map; 20-25% firms could struggle to cross over, says Nasscom chief
 Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth
-
-## India, emerging markets power business of pharma majors amid US slowdown
-An analysis of Q1 results show Sun Pharma and Aurobindo Pharma delivering strong growth, while Dr Reddy’s earnings were hit by lower lenalidomide sales and a semaglutide-related provision
-
-## Confirmatory dope test results awaited for Air India pilot
-Screening test of the pilot-in-command indicated a result requiring confirmatory testing
-
-## India adds over 16 GW RE in April-June; Rajasthan, UP, Gujarat shine
-Uttar Pradesh recorded the largest sequential growth in renewable energy capacity additions in Q2 2026.
-
-## CPCB flags violations in ‘deep burial’ of medical waste by 17 states, UTs
-Of 9,178 healthcare facilities using deep burial, only 5,715 were found compliant with prescribed rules, according to a CPCB report submitted to the NGT.
 
 ## Gold, silver prices may rise next week as US inflation data, Gulf tensions guide markets
 Gold and silver prices are expected to remain firm next week. Investors will track inflation data from major economies and West Asia developments. Upcoming Chinese economic data will also be important for industrial metals. Analysts predict gold and silver will trade with a positive bias. Volatility
@@ -90,6 +90,18 @@ Berkshire Hathaway showcased impressive growth in its second-quarter results, wi
 ## Kavach: What makes Indian Railways indigenous world-class tech special
 Indian Railways is prioritising Kavach deployment on high-density and highly used network routes, which carry nearly 96% of railway traffic. Now, the next-generation Kavach 5.0 is being developed for suburban rail operations with an aim to support higher train frequencies.
 
+## Row over Umar Khalid book event: JNU cancels venue permission, ABVP claims credit
+JNU Students' Union, professor say admn lying that full details of event were not shared; ABVP, student wing of RSS, claims cancellation came after its campaign
+
+## All 3 JPSC members quit amid CID summons; Jharkhand Governor accepts resignations
+The resignations of Ajita Bhattacharya, Anima Hansda, and Jamal Ahmed were accepted by Jharkhand Governor Santosh Gangwar.
+
+## Chhattisgarh to provide ₹5 crore aid to flood-hit Assam: CM Vishnu Deo Sai
+Sai spoke to Assam CM Himanta Biswa Sarma over the phone and took stock of the situation arising from the floods
+
+## ‘25 marriages, fake identity’: UP BJP MLA's shocking claims about son-in-law
+Gyan Tiwari levelled the allegations in a video posted on social media; accused and his father arrested in cheating case
+
 ## Assam govt begins flood damage survey, compensation to start by mid-September
 The survey, which will continue until August 30, will take stock of damages to affected families to provide compensation for loss
 
@@ -101,18 +113,6 @@ Reacting to the incident, suspended TMC MP Kalyan Banerjee alleged that stones w
 
 ## JPSC exam cancellation demand met, but Jharkhand protesters to continue stir, march to assembly seeking CBI probe
 Jharkhand Minister Sudivya Kumar Sonu said fast-track courts would be constituted and charge sheets against the accused would be filed within 90 days.
-
-## 86-year-old on evening walk killed as car hits 4 in Kolkata township
-An eyewitness said that the car shot out of the parking area and hit the pedestrians at considerable speed.
-
-## Kerala school teacher suspended for Savarkar question amid 'freedom quiz' row
-The education minister's office said the question was framed in a manner that could lead to spread of misleading and historically unsupported information.
-
-## After dope test, Air India Phuket-Delhi pilot to undergo ‘confirmatory analysis’: Govt says AAIB probing turbulence
-Pilot-in-command of the August 4 flight, which dipped suddenly by 300 feet causing injuries to some passengers and crew, is undergoing “confirmatory analysis”
-
-## Russia to India by train? Moscow floats rail route to Indian Ocean
-The proposal comes amid escalating maritime disruptions in the Strait of Hormuz following armed hostilities involving the US, Israel and Iran.
 
 ## How China’s brands are thriving in the US despite rising geopolitical tensions
 The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely 
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say
+Experts warn Israel's new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.
+
+## British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin
+Aprilia rider's victory over Jorge Martin extends Silverstone’s run of different Grand Prix winners to twelve in a row.
+
 ## Why does Iran defeat the empires trying to conquer it?
 On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.
 
@@ -251,12 +257,6 @@ Firefighters struggle to battle the growing blaze near Mount Bromo in thick fore
 
 ## Israel rejects Donald Trump’s Gaza Board of Peace plan
 Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.
-
-## La Liga: Five key talking points heading into the 2026-2027 season
-Jose Mourinho is back at Madrid, and Barcelona eye third straight title while new rule changes aim to cut time-wasting.
-
-## Nigeria mass weddings ease financial burden for couples
-For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
