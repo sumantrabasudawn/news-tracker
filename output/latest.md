@@ -1,22 +1,37 @@
 # AION Intelligence
 
+## Burnham failed to end rough sleeping as a mayor — can he succeed as PM?
+Charities who worked with him in Greater Manchester believe PM enters Number 10 understanding what drives the crisis
+
+## Career satisfaction in an uncertain world? Dream on
+Children’s cute job hopes look unattainable, but they are still worth encouraging
+
+## UK state subsidies soar as post-Brexit grants boost energy projects
+Government backing climbs to £114bn in year to March, more than double the previous 12 months
+
+## Turkey’s cyber law shifts sweeping powers to presidency
+Move raises concern about ‘absolute digital obedience’ among social media and gaming platforms
+
+## France faces budget showdown as presidential election looms
+Minister David Amiel urges opposition to help cut deficit and not leave mess for next leader
+
+## Investors return to European stocks as strong earnings lift Iran war gloom
+Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter
+
+## How a made-up agency found its way into Nigeria’s budget
+Alleged head of fictional investment council was allocated government funding and met top officials
+
+## The Bayeux Tapestry loan is a model for the Parthenon Marbles
+Burnham has a chance to create a legislative carve-out that speeds the process of returning the artefacts to Greece
+
 ## One of the world’s biggest coal producers battles to keep lights on
 Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market
-
-## Deadly protests in Kashmir test Pakistan’s military rulers
-Dozens killed in worst violence in region in decades
 
 ## The bank behind China’s AI listings bonanza
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
-## Tehran says US must ‘rectify its behaviour’ before Iran reopens strait
-Senior security official wants Washington to pay compensation for war damage
-
 ## Greg Abel finally puts Buffett’s cash pile to work
 Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks
-
-## US Senate narrowly confirms Todd Blanche as US attorney-general
-Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump
 
 ## Solar eclipse threatens to tighten Europe’s electricity squeeze
 Continent’s power system already under stress from heatwaves
@@ -33,8 +48,17 @@ Caracas experiencing power cuts for first time in 7 years despite government ple
 ## Credit insurer to cut cover for UK housebuilder Vistry’s suppliers
 Allianz Trade’s planned move could exacerbate squeeze on cash flow of struggling company
 
-## Sainsbury’s needs a dose of Big Tech’s boldness
-UK’s second-largest supermarket has spent the last two decades delivering distinctly terrestrial returns
+## Rajya Sabha to take up Taxation Laws Amendment Bill, Bankers' Books Evidence Bill tomorrow
+The 'Taxation and Other Laws (Amendment) Bill, 2026 ' seeks to amend the Payment and Settlement Systems Act, 2007, Income-tax Act, 2025, and Finance Act, 2026
+
+## Cochin International Airport says FY26 profit surpasses ₹500 cr on higher revenue
+CIAL handled 11,442,583 passengers and recorded 73,134 aircraft movements during the year
+
+## The 16th Worldwide Chinese Life Insurance Congress & 2026 International Dragon Award (IDA) Annual Conference Grandly Held
+The 16th Worldwide Chinese Life Insurance Congress & 2026 International Dragon Award (IDA) Annual Conference Grandly Held
+
+## Strong credit growth, capital inflows likely to support Indian markets; rupee outlook improves: Report
+The report noted that the domestic economy shows promise, with bank credit growth reaching 17-18% year-on-year, the highest in over a decade
 
 ## Nifty & Bank Nifty இந்த வாரம் (10 Aug’26 to 14 Aug’26) என்ன ஆகும்? எங்கு செல்லும்?
 
@@ -47,18 +71,6 @@ Of the 12 issues that hit the market in July, the retail portion of only five wa
 
 ## Government clarifies UPI users will not be charged, says MDR may apply to select merchants
 Finance Ministry said, “Consumers making payments will not face any transaction charges” and that “all Person-to-Person transactions will continue to be free of charge”
-
-## Q1 Results Highlights: BEML loss narrows to ₹27 cr, Eveready profit up 22%, Aditya Birla Fashion loss widens to ₹249 cr, Cupid profit nearly triples, Ceigall up 35%
-Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
-
-## Should you subscribe to Dhoot Transmission’s IPO?
-The IPO of Dhoot Transmission is open for subscription from August 10-12
-
-## Mastering Derivatives: Choosing strikes: Implied volatility Vs Time value
-Demand for a strike can matter more than time left for expiry
-
-## Short Take: Indus Towers F&O adjustments
-Indus Towers (₹386*) has announced an interim dividend, which will lead to necessary adjustments in the F&O contracts on this stock on the record date.
 
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
@@ -84,6 +96,18 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Hindalco Q1 net jumps 75% to over 7,000 crore
 
 
+## Bengaluru delivery boy abused in Hindi by girls, beaten by male friends; incident caught on cam
+According to the FIR, some girls hurled abuses at him, provoking a response. He confronted them and said he did not understand Hindi.
+
+## 70-year-old woman killed as ‘drunk’ son of Haryana police officer crashes Mercedes in Delhi
+Officials said a beer bottle and an empty liquor bottle were found in the sedan and alleged that the luxury Sedan's driver misbehaved when confronted.
+
+## Prime suspect in Bulandshahr girl’s rape-murder killed in encounter: UP Police
+The prime suspect in the rape and murder of a 12-year-old girl in Bulandshahr, was killed in a police encounter in Gulawathi early Sunday.
+
+## 'Rapid, rigorous investigations': NTA revamps top ranks, creates new roles to probe exam malpractices
+NTA has advertised senior roles in cybersecurity, exam-centre operations and vigilance as part of its institutional overhaul after exam controversies.
+
 ## ‘Distorting it’: Shashi Tharoor says remarks on Rahul Gandhi's ‘Chhatron ki goonj’ campaign not an attack on Congress
 Shashi Tharoor said he was stressing that political parties must open their doors and create paths for the next generation to gain the power to shape politics.
 
@@ -95,18 +119,6 @@ The DMK and the AIADMK boycotted the meeting, calling it a “farce” and a “
 
 ## Two years since RG Kar rape-murder, West Bengal medical institutions to observe 2-min silence today
 RG Kar Medical College and Hospital rape and murder case dates back to August 9, 2024, when the body of a trainee doctor was found in a seminar room on campus.
-
-## Hilsa spotted in Ganga near Ghazipur in UP, decades after barrage cut off migration route
-Scientists spotted two hilsa in the Ganga along Ghazipur town in Uttar Pradesh earlier this week
-
-## At IIT-Delhi, PM Modi asks students to measure career by nation's needs, not salaries: 'Basis of every decision'
-Addressing the 57th convocation ceremony, PM Modi told the graduating class that an IIT degree was “a mandate to contribute to the nation.”
-
-## 'The demands are genuine': No headway in Jharkhand govt's talks with protesting students, stir to continue
-Jharkhand govt held talks with student groups over JPSC, JSSC exam irregularities, but protesting aspirants said the stir will continue until demands are met.
-
-## As loud as chainsaw at close range? Kanwar Yatra boomboxes deafen Delhi above permitted limits, law on mute
-Delhi Traffic Police has designated 8 Kanwar corridors along the city’s busiest arterials, including Ring Road, Mathura Road, Wazirabad Road. Grand Trunk Road.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -228,6 +240,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran seeks way out of ‘neither war nor peace’ stalemate with US
+Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.
+
+## Ghana’s cashew apples get a second life
+A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.
+
+## Helicopter crash kills pilot and crew member amid Utah wildfire battle
+Utah wildfire suppression efforts continued, with containment standing at 24 percent.
+
 ## Israeli settler attacks rise as West Bank residents lose land
 Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
 
@@ -242,15 +263,6 @@ Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not targ
 
 ## Vance says US ‘destroyed’ Iran’s nuclear programme
 US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.
-
-## Four killed in helicopter crash in Brazil’s Rio de Janeiro
-Three Colombian tourists are among the victims of Saturday's crash on mountainside forest of Tijuca National Park.
-
-## Crews recover 19 bodies from rubble of destroyed Gaza building
-More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.
-
-## Car bomb attack rattles Colombia after inauguration of hardline president
-Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
