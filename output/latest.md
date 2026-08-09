@@ -45,6 +45,9 @@ Indonesia’s attempt to contain prices at home has discouraged companies from s
 ## The bank behind China’s AI listings bonanza
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
+## AI may redraw India’s IT services map; 20-25% of firms could struggle to cross over, says Nasscom chief
+Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth
+
 ## Tomato, onion, potato prices push up July veg thali cost; annual food bill still lower
 Veg thali rises 4 per cent in July as tomato prices jump; lower vegetable and broiler prices keep both veg and non-veg thalis cheaper than a year ago
 
@@ -57,17 +60,14 @@ Focus on small ticket disinvestment is paying off
 ## F&O Query: Analysis of BSE and Lupin futures
 
 
+## bl Changemaker Awards: Jury to meet on Monday
+The eighth edition of the awards will be held on September 22 in New Delhi
+
 ## Below the Line
 
 
 ## Gulliver and the Lilliputians
 Ridicule by a thousand memes could lay the BJP low but they won’t
-
-## AI broadens India office demand beyond Fortune 500, Embassy REIT says
-India’s large and increasingly fungible technology talent pool is lowering the entry barrier for smaller overseas companies, says Embassy REIT CEO Amit Shetty
-
-## Market likely to adapt to new closing auction
-Closing auctions do not erase sharp moves. They may change where those moves occur
 
 ## Clean power push: India hits 300 GW non-fossil capacity milestone ahead of 2030 target
 India has now achieved over 300 GW of non-fossil fuel electricity generation capacity. This significant milestone represents more than half of the nation's total installed power capacity. Solar power leads this expansion, followed by wind and hydro energy sources. The country aims to reach 500 GW of
@@ -93,6 +93,9 @@ Dalal Street wrapped up last week on a high note, showcasing impressive gains am
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
 
+## Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+A team from Thiruvananthapuram Cyber Police Station, which is probing the case, reached Mohandas' residence at Koovappadam near Mattancherry on Sunday evening
+
 ## Adhikari orders probe into cremation of RG Kar rape-murder victim; names 3 TMC leaders
 The memorial event was also addressed by Ratna Debnath, the victim’s mother, who won the Panihati assembly seat in May
 
@@ -114,8 +117,8 @@ The aircraft, the government said, was being operated for a Circuit and Landing 
 ## Row over Umar Khalid book event: JNU cancels venue permission, ABVP claims credit
 JNU Students' Union, professor say admn lying that full details of event were not shared; ABVP, student wing of RSS, claims cancellation came after its campaign
 
-## All 3 JPSC members quit amid CID summons; Jharkhand Governor accepts resignations
-The resignations of Ajita Bhattacharya, Anima Hansda, and Jamal Ahmed were accepted by Jharkhand Governor Santosh Gangwar.
+## Can Hong Kong Become Asia’s Blueprint for Sustainable Urban Growth?
+[The content of this article has been produced by our advertising partner.] Hong Kong has long been a city in motion, where capital, talent and ideas move with remarkable speed. For AtkinsRéalis, a world-class engineering services and nuclear power organisation, the city is more than a strategic bas
 
 ## How China’s brands are thriving in the US despite rising geopolitical tensions
 The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely 
@@ -137,9 +140,6 @@ Chinese megacities are seeing a slight decrease in households with assets of at 
 
 ## Hong Kong’s US dollar peg explained: history, benefits and risks
 As international investors diversify away from US dollar assets and amid the rise of internationalisation of the yuan, there are calls for reviewing the Hong Kong dollar’s peg. Here is what to know about the system. Why is the Hong Kong dollar pegged to the US dollar? The birth of the peg is closely
-
-## Meet the next generation of Chinese stars influencing how global finance operates
-A new generation of Chinese stars is influencing how global finance operates – applying analytical power, cross-cultural agility, and resilience developed in China’s demanding environments straight to leading firms from Citadel Securities to BlackRock. That shift is easier to grasp by looking beyond
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How Israel’s occupation fuels resistance
+Israel is trapped in a cycle it created.
+
+## ‘No surprise’: Netanyahu rejects US-backed Gaza plan
+Palestinian politician Mustafa Barghouti says Netanyahu's rejection of the US-backed Gaza plan is no surprise.
+
+## Incumbents secure Hawaii primary wins, defying progressive challengers
+Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.
+
+## Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul
+Marmoush scores twice in three minutes as City rallies to beat Atletico in club friendly at the Seoul World Cup stadium.
+
+## UAE extradites alleged international crime boss Daniel Kinahan to Ireland
+Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.
+
+## War on Iran: Phase II: Day 29
+Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.
+
+## Pentagon urges faster US weapons production amid stockpile concerns
+US defence industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.
+
 ## Concerns mount over integrity of Israel’s upcoming October elections
 Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.
-
-## Gaza’s children still struggling with hunger as another famine threatens
-Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.
-
-## Gaza engineer builds animal shelters out of empty cans
-Gaza engineer builds animal shelters out of empty cans
-
-## What now as Israel rejects Trump’s 15-point plan for Gaza?
-As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out from Gaza, a look at what happens next.
-
-## The Mecca pact is not just another regional alliance
-It could set the stage for a profound transformation of regional security in the Gulf.
-
-## Syria says it reached deal with Moscow on future of Russian bases
-Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.
-
-## Trump targets birthright citizenship again
-US President Donald Trump has signed two new executive orders targeting birthright citizenship.
-
-## Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say
-Experts warn Israel's new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
