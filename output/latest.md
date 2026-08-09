@@ -36,11 +36,17 @@ UK’s second-largest supermarket has spent the last two decades delivering dist
 ## Kids, flats and student loans: Why UK first-time buyers are getting older
 One in three starts a family before having a home of their own
 
-## Government clarifies UPI users will not be charged, says MDR may apply to select merchants
-Finance Ministry said, “Consumers making payments will not face any transaction charges” and that “all Person-to-Person transactions will continue to be free of charge”
+## Nifty & Bank Nifty இந்த வாரம் (10 Aug’26 to 14 Aug’26) என்ன ஆகும்? எங்கு செல்லும்?
+
+
+## Share of insured bank deposits slips below 40% in value terms in FY26
+Share of fully protected accounts remained overwhelmingly high at 97.38% in FY26, only marginally lower than 97.56% in FY25 and 97.78% in FY24
 
 ## Retail participation in IPOs remains lacklustre as investors eye quality over listing day gains
 Of the 12 issues that hit the market in July, the retail portion of only five was oversubscribed in double digits, while six issues registered single digit oversubscription
+
+## Government clarifies UPI users will not be charged, says MDR may apply to select merchants
+Finance Ministry said, “Consumers making payments will not face any transaction charges” and that “all Person-to-Person transactions will continue to be free of charge”
 
 ## Q1 Results Highlights: BEML loss narrows to ₹27 cr, Eveready profit up 22%, Aditya Birla Fashion loss widens to ₹249 cr, Cupid profit nearly triples, Ceigall up 35%
 Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Delhivery, Eveready Industries India, Medi Assist Healthcare Services, Oswal Pumps, Studds Accessories report their June quarter results.
@@ -53,12 +59,6 @@ Demand for a strike can matter more than time left for expiry
 
 ## Short Take: Indus Towers F&O adjustments
 Indus Towers (₹386*) has announced an interim dividend, which will lead to necessary adjustments in the F&O contracts on this stock on the record date.
-
-## F&O Query: Analysis of BSE and Lupin futures
-
-
-## Tech Query: Bajaj Auto, MRF, LMW, Asian Granito India – What is the outlook? Where are these stocks headed?
-We look at the prospects of Bajaj Auto, MRF, LMW, Asian Granito India
 
 ## Berkshire Hathaway Q2 earnings: Profit rises 16% to $12.98 billion as buybacks accelerate
 Berkshire Hathaway showcased impressive growth in its second-quarter results, with notable increases in both operating profit and net income. While revenue surged, the company's cash reserves took a hit from recent stock buybacks. Although Geico struggled, profits rose in BNSF Railway and other sect
@@ -84,8 +84,17 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Britannia signals another 1.5-2% price hike in Q2
 
 
+## At IIT-Delhi, PM Modi asks students to measure career by nation's needs, not salaries: 'Basis of every decision'
+Addressing the 57th convocation ceremony, PM Modi told the graduating class that an IIT degree was “a mandate to contribute to the nation.”
+
+## 'The demands are genuine': No headway in Jharkhand govt's talks with protesting students, stir to continue
+Jharkhand govt held talks with student groups over JPSC, JSSC exam irregularities, but protesting aspirants said the stir will continue until demands are met.
+
+## As loud as chainsaw at close range? Kanwar Yatra boomboxes deafen Delhi above permitted limits, law on mute
+Delhi Traffic Police has designated 8 Kanwar corridors along the city’s busiest arterials, including Ring Road, Mathura Road, Wazirabad Road. Grand Trunk Road.
+
 ## US Vice President JD Vance dials PM Modi, discusses deepening India-US strategic ties
-Warmly congratulated him and the Second Lady on the birth of their son and conveyed best wishes to the entire family,” PM Modi wrote on X.
+Apart from discussing India-US strategic ties, PM Modi said he also congratulated JD Vance and Second Lady Usha on the birth of their son.
 
 ## Man who tried to open emergency exit on Kochi flight booked for attempt to murder
 The passenger, identified as Jamsheer Athanikkal of Koottanad in Palakkad, was travelling on the Batik Air flight OD231 from Kuala Lumpur to Kochi.
@@ -98,15 +107,6 @@ Arvind Kejriwal comments come as part of his solution to pressure the Modi govt 
 
 ## 8 from banned underground outfits arrested with arms, explosives: Manipur police
 According to the statement, the arrest were made in different areas including Imphal East, Imphal West, Bishnupur, Kakching and Tengnoupal district
-
-## After Vijay-led all-party meet, Tamil Nadu leaders vow united front against delimitation
-The meeting, held at Kalaivanar Arangam, was attended by around 21 Lok Sabha and Rajya Sabha MPs, primarily from the Congress, VCK, CPI, CPI(M), MDMK and IUML.
-
-## UP: BJP MLA alleges he was duped into marrying his daughter to conman, FIR filed
-According to the complaint, the MLA's daughter Pragya married Prakhar Trivedi, son of Anuj Trivedi and a resident of Chandrawal in Mishrikh, in 2024.
-
-## Kerala Lower Primary School Teacher rank holders eat grass in protest over delay in appointments
-The agitation has crossed 34 days, highlighting the frustration of the candidates candidates who cleared the Kerala Public Service Commission examination.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Hungary nominates former Supreme Court chief Andras Baka for presidency
+Andras Baka, a strong advocate for judicial independence, becomes governing party's pick for Hungary's next president.
+
+## Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
+IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.
+
+## Turkiye says Mecca defence pact not aimed at Iran
+Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.
+
+## Vance says US ‘destroyed’ Iran’s nuclear programme
+US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.
+
+## Four killed in helicopter crash in Brazil’s Rio de Janeiro
+Three Colombian tourists are among the victims of Saturday's crash on mountainside forest of Tijuca National Park.
+
+## Crews recover 19 bodies from rubble of destroyed Gaza building
+More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.
+
 ## Car bomb attack rattles Colombia after inauguration of hardline president
 Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.
 
 ## Will Pakistan-Saudi-Turkiye defence pact change US strategy?
 Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.
-
-## Trump’s Former Lawyer Is Now Attorney General
-Todd Blanche, President Trump’s former lawyer, is now US attorney general.
-
-## What are the challenges facing the Mecca agreement?
-Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.
-
-## At least 200 people evacuated as wildfire rages near Lake Garda
-At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.
-
-## Lebanese soldiers injured while Israeli troops intrude on southern town
-Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.
-
-## US slams Chinese ‘nature reserve’ as effort to claim South China Sea
-US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.
-
-## ‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer
-The younger Biden son has addressed his father's debate performance and the pardon he received after felony convictions.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
