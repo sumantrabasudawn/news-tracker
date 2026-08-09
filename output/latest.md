@@ -237,6 +237,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found
+Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.
+
 ## Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace
 ‘We're going backwards.’
 
@@ -257,9 +260,6 @@ Number one ranked player in men's tennis will miss the tournament due to a knee 
 
 ## Former Iraqi provincial governor arrested as graft crackdown continues
 Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.
-
-## Wildfires in Albania and Spain cause hundreds to evacuate
-Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
