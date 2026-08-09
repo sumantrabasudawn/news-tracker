@@ -42,6 +42,12 @@ Berkshire Hathaway chief ends more than three-year selling streak as he ploughs 
 ## Solar eclipse threatens to tighten Europe’s electricity squeeze
 Continent’s power system already under stress from heatwaves
 
+## Milk prices set to rise by ₹2 in Maharashtra from Aug 11
+The decision was taken at a meeting of the Milk Producers and Processors Welfare Association chaired by its president Gopalrao Mhaske on Friday
+
+## Tractor sales grew 28% in July on better monsoon, rural demand
+The July volume was a record for the month, with rural tractor demand benefiting from the catch-up in kharif sowing and improving monsoon conditions, said FADA.
+
 ## Pick of BL commodities -Aug 9, 2026
 India is set to be the first in the world to begin cultivation of gene-edited rice, while ICAR has developed the country’s first fully annotated T2T genome of pigeonpea. The deficiency in kharif sowing has shrunk to 3%, but domestic rice prices have gained on the demand-supply gap and fears of a def
 
@@ -59,12 +65,6 @@ Buying an annuity via NPS has one important advantage: there is no GST on the pu
 
 ## Car industry to hit 6.3 million units by FY31, with small cars growing faster: Maruti Suzuki Chairman RC Bhargava
 Urges government, including the State governments, to proceed faster reforms and increase efforts to make doing business easier
-
-## Transfer to core from satellite?
-You can transfer gains from your satellite to a core portfolio but not the other way around; this constraint is very important to protect the excess gains you may have in any of your core portfolios
-
-## Jindal Stainless to identify site for ₹40,000-cr Maharashtra project in next two quarters
-The proposed stainless steel facility will have a capacity of 4 million tonnes per annum, constructed in phases, with the first phase to be operational in 4 years
 
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
@@ -90,6 +90,21 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Hindalco Q1 net jumps 75% to over 7,000 crore
 
 
+## Who all are allegedly involved in Delhi's ‘rice scam’? AAP leader Saurabh Bharadwaj's big charge
+Saurabh Bharadwaj alleged a chain involving four actors, essentially saying that rice meant for the poor was sold to a firm in Haryana, and money made illegally
+
+## 20,000 security personnel, NDRF force, CCTVs: Preparations in full swing for Independence Day at Delhi's Red Fort
+The security arrangements include Delhi Police units, paramilitary forces, commandos and NSG teams, including snipers and specialised ‘hit teams’.
+
+## ‘It’s their internal matter': Supriya Sule on Sunetra Pawar-led NCP's talks with Prashant Kishor
+Supriya Sule stressed that Prashant Kishor worked independently in his professional capacity and that deciding whom to work with was entirely his call.
+
+## 40 people injured as bus collides with truck, falls off bridge in Andhra Pradesh
+At least 40 passengers were injured, including 10 critically, after a Volvo bus collided with a truck and plunged off a bridge in Andhra Pradesh’s Anantapur.
+
+## Woman arrested for killing husband in Mathura; daughter, her lover also involved
+Woman arrested for killing husband in Mathura; daughter, her lover also involved
+
 ## Delhi tribunal awards ₹44 lakh to children of couple killed in UP road accident
 Delhi tribunal awards ₹44 lakh to children of couple killed in UP road accident
 
@@ -99,20 +114,8 @@ The decision to increase milk prices in Maharashtra by ₹2/litre follows discus
 ## Punjab: 3 kanwariyas killed, 1 injured in Sirhind after vehicle hit from behind
 The deceased have been identified as Jagdish, Mahinder Pal and Deepak Kumar, while another person was injured and taken to a hospital for treatment.
 
-## Indian Navy joins search for three fishermen missing after boat mishaps in Kerala
-Indian Navy joins search for three fishermen missing after boat mishaps in Kerala
-
-## Fresh talks with govt today, protesters on hunger strike ‘stable’: Latest updates on Jharkhand protests
-The doctor said while the protesters should be taken to the hospital, they are refusing to move. The required treatment was being provided on the spot.
-
-## 'Bid to silence him': Tarun Tejpal's daughter says he was targeted for investigative journalism after his conviction
-Bombay high court sentenced Tarun Tejpal to 10 years in jail for raping a junior colleague in 2013.
-
-## Who is Juan Antonio March Pujol? Spain's India ambassador set to be replaced over spending row
-The move comes as Juan Antonio March faces scrutiny over his handling of cultural events linked to the Spanish embassy.
-
-## Did pilot of turbulence-hit Phuket-Delhi flight fail dope test? Air India says results not shared yet
-The Air India statement comes amid reports saying that a pilot failed the drug test conducted after the flight's mid-air turbulence on August 4.
+## Derelict cinema on scenic Hong Kong island up for auction with a US$1 million price tag
+Peng Chau Cinema, an Instagrammable spot for tourists on an outlying Hong Kong island, will be auctioned off in mid-August at a valuation 30 per cent below estimation after almost 40 years of abandonment – a dormancy lengthy enough to fuel dark rumours among some residents. The former cinema is curr
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -134,9 +137,6 @@ China’s State Taxation Administration (STA) on Friday clarified that the 20 pe
 
 ## As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?
 Hong Kong is stepping up its efforts to invest in a cluster of biotech companies, positioning itself as a linchpin in Beijing’s push to reach new levels of innovation and challenge the United States for dominance in the global pharmaceutical market. Hong Kong Investment Corporation (HKIC), which man
-
-## Hong Kong’s Hang Lung Properties names former Starbucks China head Leo Tsoi as new CEO
-Hong Kong developer Hang Lung Properties has tapped Leo Tsoi Tak-lun, CEO of Toys ‘R’ Us Asia and former head of Starbucks China, as its new CEO and executive director. Tsoi will join Hang Lung Group and Hang Lung Properties on September 7 as CEO-designate and executive director ahead of formally as
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Saudi Arabia says fire extinguished at Aramco facility in Jizan
+No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.
+
+## Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’
+Nagasaki Mayor says ‘humanity and nuclear weapons can't coexist’ as Japan marks anniversary of the US atomic bombing.
+
 ## World number one Sabalenka upset by Alexandrova at Canadian Open
 Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabalenka in a three-set marathon in Toronto.
 
@@ -251,12 +257,6 @@ Senior Iranian security official sets broader conditions for reopening Hormuz.
 
 ## ‘Very painful’: Joe Biden’s cancer has spread, son Hunter says
 Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.
-
-## Car bomb hits Colombia highway day after new president sworn in
-A car bomb destroyed a toll booth on a highway in Colombia a day after President Abelardo de la Espriella was sworn in.
-
-## Iran seeks way out of ‘neither war nor peace’ stalemate with US
-Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
