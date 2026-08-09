@@ -45,8 +45,17 @@ Indonesia’s attempt to contain prices at home has discouraged companies from s
 ## The bank behind China’s AI listings bonanza
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
-## Strategic reforms
+## Tomato, onion, potato prices push up July veg thali cost; annual food bill still lower
+Veg thali rises 4 per cent in July as tomato prices jump; lower vegetable and broiler prices keep both veg and non-veg thalis cheaper than a year ago
+
+## IN-SPACe invites private operators for new space port in Thoothukudi
+The new spaceport is also expected to bolster India’s private launch capabilities
+
+## Editorial. Strategic reforms
 Focus on small ticket disinvestment is paying off
+
+## F&O Query: Analysis of BSE and Lupin futures
+
 
 ## Below the Line
 
@@ -57,17 +66,14 @@ Ridicule by a thousand memes could lay the BJP low but they won’t
 ## AI broadens India office demand beyond Fortune 500, Embassy REIT says
 India’s large and increasingly fungible technology talent pool is lowering the entry barrier for smaller overseas companies, says Embassy REIT CEO Amit Shetty
 
-## Tomato, onion, potato prices push up July veg thali cost; annual food bill still lower
-Veg thali rises 4 per cent in July as tomato prices jump; lower vegetable and broiler prices keep both veg and non-veg thalis cheaper than a year ago
-
 ## Market likely to adapt to new closing auction
 Closing auctions do not erase sharp moves. They may change where those moves occur
 
-## IN-SPACe invites private operators for new space port in Thoothukudi
-The new spaceport is also expected to bolster India’s private launch capabilities
+## Clean power push: India hits 300 GW non-fossil capacity milestone ahead of 2030 target
+India has now achieved over 300 GW of non-fossil fuel electricity generation capacity. This significant milestone represents more than half of the nation's total installed power capacity. Solar power leads this expansion, followed by wind and hydro energy sources. The country aims to reach 500 GW of
 
-## Loss making Mutual Fund schemes nearly triple in FY26
-Around 731 schemes posted negative annual returns against 243 a year earlier, while the ones earning over 10 per cent fell fell sharply
+## '$200 billion market in 15 countries': Here's what India can do if US slaps 100% tariffs
+As the US contemplates imposing substantial tariffs on Russian crude, India is strategically exploring alternative markets to bolster its exports. With fifteen potential markets worth an impressive two hundred billion dollars, Indian exporters are adapting to global challenges. In contrast to the US
 
 ## Gold, silver prices may rise next week as US inflation data, Gulf tensions guide markets
 Gold and silver prices are expected to remain firm next week. Investors will track inflation data from major economies and West Asia developments. Upcoming Chinese economic data will also be important for industrial metals. Analysts predict gold and silver will trade with a positive bias. Volatility
@@ -87,14 +93,11 @@ Dalal Street wrapped up last week on a high note, showcasing impressive gains am
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
 
-## Berkshire Hathaway Q2 earnings: Profit rises 16% to $12.98 billion as buybacks accelerate
-Berkshire Hathaway showcased impressive growth in its second-quarter results, with notable increases in both operating profit and net income. While revenue surged, the company's cash reserves took a hit from recent stock buybacks. Although Geico struggled, profits rose in BNSF Railway and other sect
-
-## Kavach: What makes Indian Railways indigenous world-class tech special
-Indian Railways is prioritising Kavach deployment on high-density and highly used network routes, which carry nearly 96% of railway traffic. Now, the next-generation Kavach 5.0 is being developed for suburban rail operations with an aim to support higher train frequencies.
+## Adhikari orders probe into cremation of RG Kar rape-murder victim; names 3 TMC leaders
+The memorial event was also addressed by Ratna Debnath, the victim’s mother, who won the Panihati assembly seat in May
 
 ## Govt extends ED director Rahul Navin's tenure by 1 year
-Govt extends ED director Rahul Navin's tenure by 1 year
+The extension will continue beyond his scheduled retirement on July 31, 2027, according to the government order
 
 ## BSF firing kills Bangladesh national in Tripura during alleged smuggling attempt
 The Bangladeshi national, suspected of involvement in smuggling Burmese cigarettes, was allegedly carrying out smuggling activities at midnight on Saturday
@@ -113,9 +116,6 @@ JNU Students' Union, professor say admn lying that full details of event were no
 
 ## All 3 JPSC members quit amid CID summons; Jharkhand Governor accepts resignations
 The resignations of Ajita Bhattacharya, Anima Hansda, and Jamal Ahmed were accepted by Jharkhand Governor Santosh Gangwar.
-
-## Chhattisgarh to provide ₹5 crore aid to flood-hit Assam: CM Vishnu Deo Sai
-Sai spoke to Assam CM Himanta Biswa Sarma over the phone and took stock of the situation arising from the floods
 
 ## How China’s brands are thriving in the US despite rising geopolitical tensions
 The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely 
