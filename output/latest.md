@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Organised crime suspect Daniel Kinahan extradited from Dubai
+Irish government jet flies alleged drug trafficker back to Dublin to face charges
+
+## Could AI create a ‘permanent underclass’?
+San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market
+
+## Will US inflation be cool enough to trim bets on a September rate rise?
+Market Questions is the FT’s guide to the week ahead
+
+## US social security could soon be insolvent
+But will Congress have the courage to save it?
+
+## Holding public servants to account is harder than it seems
+A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?
+
 ## Asian carmakers cash in as high petrol prices lift US demand for hybrids
 Sales, including of models made by Honda, Hyundai and Toyota, jump by a fifth in July
 
@@ -9,26 +24,14 @@ Charities who worked with him in Greater Manchester believe PM enters Number 10 
 ## Career satisfaction in an uncertain world? Dream on
 Children’s cute job hopes look unattainable, but they are still worth encouraging
 
-## UK state subsidies soar as post-Brexit support boosts energy projects
-Government backing climbs to £114bn in year to March, more than double the previous 12 months
-
 ## Turkey’s cyber law shifts sweeping powers to presidency
 Move raises concern about ‘absolute digital obedience’ among social media and gaming platforms
 
-## France faces budget showdown as presidential election looms
-Minister David Amiel urges opposition to help cut deficit and not leave mess for next leader
+## Hargreaves Lansdown orders staff back to office
+UK’s biggest DIY investment platform calls employees back to the workplace three days a week
 
 ## Investors return to European stocks as strong earnings lift Iran war gloom
 Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter
-
-## How a made-up agency found its way into Nigeria’s budget
-Alleged head of fictional investment council was allocated government funding and met top officials
-
-## Holding public servants to account is harder than it seems
-A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?
-
-## Hargreaves Lansdown orders staff back to office
-UK’s biggest DIY investment platform calls employees back to the workplace three days a week
 
 ## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
 Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
@@ -39,29 +42,29 @@ Indonesia’s attempt to contain prices at home has discouraged companies from s
 ## The bank behind China’s AI listings bonanza
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
-## NABARD handloom exhibition clocks ₹67 lakh in sales
-The event, held from August 5 to 7, showcased 15 weaving traditions from 14 states, including nine GI-registered (Geographical Indication registration) products
+## Britannia sees uneven recovery in international business as supply-chain pressures ease
+Despite external pressures, Britannia reported a consolidated net profit of ₹593 crore in the first quarter of FY27
 
-## Kotak Bank launches hybrid home loan; enables customers to lock rate for up to 65 months
-The product allows customers to choose a fixed-rate period of 39, 52 or 65 months, during which their interest rate and EMI remain unchanged even if the repo rate changes
+## Five companies to launch IPOs next week to raise over ₹7,400 crore
+Molbio Diagnostics and Dhoot Transmission will open their issues on August 10, followed by Milky Mist, Shiprocket and Behari Lal Engineering.
 
-## Shahpur Kandi dam nears completion, Ujh project gets revival push
-Once commissioned, the two projects are expected to generate hundreds of megawatts of electricity and provide irrigation to large tracts of land in Jammu and Kashmir and Punjab
+## RBI survey sees stronger FY27 growth, higher inflation; FY28 outlook points to ‘Goldilocks’ economy
+The RBI’s 101st SPF, conducted in July 2026, pegged FY27 real GDP growth at 6.6%, up from 6.5% projected in the 100th SPF conducted in May 2026
 
-## Signature Global awards ₹920 cr contracts to construct housing project in Gurugram
-KEC International Ltd, NCC awarded ₹460 crore contracts each
+## AI may redraw India’s IT services map; 20-25% firms could struggle to cross over, says Nasscom chief
+Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth
 
-## Professional guidance for financial plans
-How a middle-aged couple with two kids planned for their retirement and their children’s education and sought help to evaluate and achieve their goals
+## India, emerging markets power business of pharma majors amid US slowdown
+An analysis of Q1 results show Sun Pharma and Aurobindo Pharma delivering strong growth, while Dr Reddy’s earnings were hit by lower lenalidomide sales and a semaglutide-related provision
 
-## Balrampur Chini Mills: Why investors should accumulate this stock
-As Balrampur Chini Mills is poised to morph into an integrated bio-plastics player now, the pay-offs can be significant
+## Confirmatory dope test results awaited for Air India pilot
+Screening test of the pilot-in-command indicated a result requiring confirmatory testing
 
-## PNB to roll out its wealth management product by Dec aimed at boosting non-interest income
-PNB plans to deploy 1,300 Customer Relationship Managers across 1,300 branches by end of this month
+## India adds over 16 GW RE in April-June; Rajasthan, UP, Gujarat shine
+Uttar Pradesh recorded the largest sequential growth in renewable energy capacity additions in Q2 2026.
 
-## Govt considering raising CCEA approval threshold for FDI proposals to ₹15,000 cr: Sources
-The existing limit of ₹5,000 crore has remained unchanged since November 2015
+## CPCB flags violations in ‘deep burial’ of medical waste by 17 states, UTs
+Of 9,178 healthcare facilities using deep burial, only 5,715 were found compliant with prescribed rules, according to a CPCB report submitted to the NGT.
 
 ## Gold, silver prices may rise next week as US inflation data, Gulf tensions guide markets
 Gold and silver prices are expected to remain firm next week. Investors will track inflation data from major economies and West Asia developments. Upcoming Chinese economic data will also be important for industrial metals. Analysts predict gold and silver will trade with a positive bias. Volatility
@@ -87,29 +90,29 @@ Berkshire Hathaway showcased impressive growth in its second-quarter results, wi
 ## Kavach: What makes Indian Railways indigenous world-class tech special
 Indian Railways is prioritising Kavach deployment on high-density and highly used network routes, which carry nearly 96% of railway traffic. Now, the next-generation Kavach 5.0 is being developed for suburban rail operations with an aim to support higher train frequencies.
 
+## Assam govt begins flood damage survey, compensation to start by mid-September
+The survey, which will continue until August 30, will take stock of damages to affected families to provide compensation for loss
+
+## ‘Apologise or meet in court’: Sirsa warns AAP leaders over rice scam allegation, gives 24-hour ultimatum
+Majinder Singh Sirsa said he would initiate legal proceedings if Saurabh Bharadwaj and Sanjeev Jha failed to withdraw their claims.
+
+## ‘We condemn such incidents’: BJP's Samik Bhattacharya denies party role in alleged attack on Mamata Banerjee's car
+Reacting to the incident, suspended TMC MP Kalyan Banerjee alleged that stones were repeatedly hurled at Mamata Banerjee's vehicle.
+
+## JPSC exam cancellation demand met, but Jharkhand protesters to continue stir, march to assembly seeking CBI probe
+Jharkhand Minister Sudivya Kumar Sonu said fast-track courts would be constituted and charge sheets against the accused would be filed within 90 days.
+
 ## 86-year-old on evening walk killed as car hits 4 in Kolkata township
 An eyewitness said that the car shot out of the parking area and hit the pedestrians at considerable speed.
 
 ## Kerala school teacher suspended for Savarkar question amid 'freedom quiz' row
 The education minister's office said the question was framed in a manner that could lead to spread of misleading and historically unsupported information.
 
-## After dope test, AI Phuket-Delhi flight pilot to undergo ‘confirmatory analysis’: Govt says AAIB probing turbulence
+## After dope test, Air India Phuket-Delhi pilot to undergo ‘confirmatory analysis’: Govt says AAIB probing turbulence
 Pilot-in-command of the August 4 flight, which dipped suddenly by 300 feet causing injuries to some passengers and crew, is undergoing “confirmatory analysis”
 
 ## Russia to India by train? Moscow floats rail route to Indian Ocean
 The proposal comes amid escalating maritime disruptions in the Strait of Hormuz following armed hostilities involving the US, Israel and Iran.
-
-## 2 Kanwariyas die in separate hit-and-run accidents in Haridwar: Police
-Police teams in both cases are examining CCTV footage from the accident areas and investigating to trace the vehicles and their drivers
-
-## ‘Could have been killed’: Mamata Banerjee's vehicle attacked with ‘stones, mud’ in North 24 Parganas
-The TMC president said she was on her way to visit the family of a deceased party worker when the incident took place.
-
-## Amid taunts over no woman in Karnataka Cong cabinet, change may be in offing as Shivakumar headed to Delhi for key meet
-Union minister Rijiju had asked about Karnataka as Rahul, in a social media AMA, said “no country can be successful if women are not expressing themselves”.
-
-## 'Couldn't bring to complete stop': Why trainer aircraft ran off Baramati runway
-The aircraft reportedly crossed the threshold of Runway 29 at the Baramati airfield, reaching around 20 feet beyond the end of the runway.
 
 ## How China’s brands are thriving in the US despite rising geopolitical tensions
 The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why does Iran defeat the empires trying to conquer it?
+On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.
+
+## Barzani says Iraqi Kurdistan wants peace as regional tensions rise
+Barzani says Iraqi Kurdistan wants peace as regional tensions rise
+
+## ‘The wealthy poor’: Soaring food prices hurt Iranian families
+Iranians from all walks of life struggle under the weight of rising inflation and war pressure.
+
+## Netanyahu rejects Trump’s Board of Peace plan for Gaza
+Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.
+
+## Indonesia closes national park in East Java as wildfire expands
+Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.
+
+## Israel rejects Donald Trump’s Gaza Board of Peace plan
+Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.
+
+## La Liga: Five key talking points heading into the 2026-2027 season
+Jose Mourinho is back at Madrid, and Barcelona eye third straight title while new rule changes aim to cut time-wasting.
+
 ## Nigeria mass weddings ease financial burden for couples
 For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.
-
-## Which other countries could join the Turkiye-Saudi-Pakistan defence pact?
-While Egypt has been floated as a candidate, analysts say Cairo may be wary of defence commitments.
-
-## ‘US and Iran are talking past each other’ in indirect negotiations
-‘US and Iran are talking past each other’ in indirect negotiations
-
-## Hundreds forced onto Rome streets amid crackdown on squatted building
-Around 300 residents camp on Rome streets amid crackdown on squatted buildings.
-
-## Israel rejects Trump’s 15-point plan for Gaza
-Prime Minister Benjamin Netanyahu says Israel will not ⁠withdraw ​forces from Gaza until Hamas ⁠fully disarms.
-
-## Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
-President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa's port.
-
-## Yemeni army warns Houthis after attacks heighten escalation risk
-Yemeni army warns Houthis after attacks heighten escalation risk
-
-## Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day
-Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
