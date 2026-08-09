@@ -42,29 +42,29 @@ Berkshire Hathaway chief ends more than three-year selling streak as he ploughs 
 ## Solar eclipse threatens to tighten Europe’s electricity squeeze
 Continent’s power system already under stress from heatwaves
 
+## Pick of BL commodities -Aug 9, 2026
+India is set to be the first in the world to begin cultivation of gene-edited rice, while ICAR has developed the country’s first fully annotated T2T genome of pigeonpea. The deficiency in kharif sowing has shrunk to 3%, but domestic rice prices have gained on the demand-supply gap and fears of a def
+
+## Cyclone Ditwah: India hands over third consignment of Bailey bridges to Sri Lanka
+The latest shipment of five modular bridges, weighing over 250 mt, is part of India’s $450 million post-disaster reconstruction package for Sri Lanka.
+
+## Ownly, magicpin step up push for bigger slice of India's food delivery market
+he developments come as India's food delivery sector sees more platforms seeking a foothold in the market, while restaurants push for greater control over commercial terms and customer-facing promotions
+
+## BIS to scale up silver hallmarking testing as buyers shift from costly gold
+Since 2005, silver hallmarking has been voluntary, and from September 2025, it will include a Hallmark Unique Identification (HUID) number for purity verification
+
+## If your NPS corpus is too small
+Buying an annuity via NPS has one important advantage: there is no GST on the purchase. Your entire amount goes towards buying the pension
+
+## Car industry to hit 6.3 million units by FY31, with small cars growing faster: Maruti Suzuki Chairman RC Bhargava
+Urges government, including the State governments, to proceed faster reforms and increase efforts to make doing business easier
+
 ## Transfer to core from satellite?
 You can transfer gains from your satellite to a core portfolio but not the other way around; this constraint is very important to protect the excess gains you may have in any of your core portfolios
 
 ## Jindal Stainless to identify site for ₹40,000-cr Maharashtra project in next two quarters
 The proposed stainless steel facility will have a capacity of 4 million tonnes per annum, constructed in phases, with the first phase to be operational in 4 years
-
-## Mutual fund flows and takeaways for you
-Investors are staying invested despite volatility, getting comfortable delegating market-cap allocation decisions to fund managers and warming up to one-stop asset allocation via MAFs
-
-## Premiumisation lifts liquor companies' June quarter topline amid cost headwinds
-Leading alcobev players, such as United Spirits Ltd, Radico Khaitan and Allied Blenders and Distillers Ltd, reported a high double-digit growth of 10 to 36% in their prestige-and-above segment, which is higher-end, premium, luxury spirits including whiskey, vodka, gin and rum
-
-## Samsung tracking consumer AI adoption to shape future features: Official
-Samsung’s Jay Kim aims for AI to operate seamlessly in the background, allowing users to complete tasks effortlessly without considering the technology involved
-
-## NCLAT junks plea of Log 9 Mobility's execs against order to assist in recovery of EVs leased from Gensol
-NCLAT affirms NCLT’s authority to mandate assistance from Log 9 Mobility’s suspended directors in recovering leased electric vehicles
-
-## Households in India, other Asia-Pacific regions highly vulnerable to El Nino-driven price shocks: S&P
-S&P noted that the 2026 El Niño will affect Asia-Pacific mainly through weaker rainfall and climate disruption, but the macroeconomic impact is expected to be manageable
-
-## US Vice President Vance dials PM Modi, discusses ways to expand India-US partnership
-The two leaders also reaffirmed their commitment to strengthening cooperation in emerging technologies and critical minerals.
 
 ## India’s markets have strong domestic cushion, but global risks loom: Sebi
 India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
@@ -90,6 +90,12 @@ The US Senate approved a bill allowing President Trump to impose tariffs on nati
 ## Hindalco Q1 net jumps 75% to over 7,000 crore
 
 
+## Delhi tribunal awards ₹44 lakh to children of couple killed in UP road accident
+Delhi tribunal awards ₹44 lakh to children of couple killed in UP road accident
+
+## Milk prices in Maharashtra set to increase by ₹2 per litre from August 11, association cites rising cost pressure
+The decision to increase milk prices in Maharashtra by ₹2/litre follows discussions on protecting dairy farmers' interests while safeguarding consumers.
+
 ## Punjab: 3 kanwariyas killed, 1 injured in Sirhind after vehicle hit from behind
 The deceased have been identified as Jagdish, Mahinder Pal and Deepak Kumar, while another person was injured and taken to a hospital for treatment.
 
@@ -106,13 +112,7 @@ Bombay high court sentenced Tarun Tejpal to 10 years in jail for raping a junior
 The move comes as Juan Antonio March faces scrutiny over his handling of cultural events linked to the Spanish embassy.
 
 ## Did pilot of turbulence-hit Phuket-Delhi flight fail dope test? Air India says results not shared yet
-The Air India statement comes amid reports saying that a pilot failed the drug test conducted after the flight's mid-flight turbulence on August 4.
-
-## OBC representation below quota in postal dept, parliamentary panel flags shortfall
-A parliamentary panel flagged OBC under-representation in several postal cadres and sought steps to meet the 27% quota, fill 207 backlog vacancies and raise GDS pay.
-
-## Mayawati opposes 'creamy layer' for SCs, STs in reservation, hits out at RSS
-Mayawati opposes 'creamy layer' for SCs, STs in reservation, hits out at RSS
+The Air India statement comes amid reports saying that a pilot failed the drug test conducted after the flight's mid-air turbulence on August 4.
 
 ## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
 Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## World number one Sabalenka upset by Alexandrova at Canadian Open
+Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabalenka in a three-set marathon in Toronto.
+
+## Israel announces tender for 627 settler units in occupied West Bank
+New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.
+
 ## Wildfire forces thousands of evacuations in Western Canada
 A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.
 
@@ -251,12 +257,6 @@ A car bomb destroyed a toll booth on a highway in Colombia a day after President
 
 ## Iran seeks way out of ‘neither war nor peace’ stalemate with US
 Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.
-
-## Ghana’s cashew apples get a second life
-A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.
-
-## Helicopter crash kills pilot and crew member amid Utah wildfire battle
-Utah wildfire suppression efforts continued, with containment standing at 24 percent.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
