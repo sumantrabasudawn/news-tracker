@@ -1,7 +1,16 @@
 # AION Intelligence
 
-## Prabowo nominates new leader for Indonesia’s central bank
-Elevation of senior deputy governor Destry Damayanti may ease investor concerns over independence
+## Indonesia nominates new central bank governor after market turmoil
+Elevation of veteran technocrat Destry Damayanti comes after previous chief’s sudden resignation
+
+## Farage’s biggest threat is a divided right
+Even if Reform wins in Clacton, the party has a long way to go to cement itself as UK’s only alternative to Labour
+
+## Summary of opinions suggests BoJ set for more tightening
+One rate-setter noted that the central bank could deliver more rate rises than market expectations
+
+## Hong Kong builds its next chapter — and closer ties with China
+Evictions under way in remote rural villages as city strives to reinvent economy
 
 ## Your move, BoJ
 Plus, the weak jobs report
@@ -15,11 +24,8 @@ Sunrise Energy shares soar after Trump administration provides $400mn loan to de
 ## FirstFT: China sails ‘Ice Silk Road’ to Arctic
 Also in today’s newsletter: Russia’s coercive recruitment and German inward investments
 
-## German economy minister warns AfD’s rise could deter investors
-Katherina Reiche says Berlin seeks to attract €3.75tn in private capital by 2040
-
-## Senior UK detective under investigation for alleged misuse of AI
-Police watchdog says officer was referred to them by Derbyshire Constabulary following ‘internal review’
+## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
+Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
 
 ## UK raises cost projections for Palantir’s NHS data platform
 Lifetime charge rises to £1.1bn on ‘increased delivery at scale’ while forecast benefits fall to £808mn
@@ -36,32 +42,32 @@ Eldridge will embed technology in companies from Chelsea Football Club to film s
 ## Europe faces rocket launcher shortage by 2030, space agency chief warns
 Demand for launches is growing faster than the region’s capabilities
 
-## Smoking is cool again. Why?
-After two decades in disgrace, the habit is back in fashion
+## Gold eases from seven-week peak, US inflation data looms
+Gold ‌slipped on Monday as investors took profits after prices ​hit a seven-week high in the ⁠previous session; US gold futures ‌fell ⁠0.2 per cent to $4,390.60 on Monday
+
+## Titan hits 52-week high as Q1 results trigger analyst upgrades
+The rally comes a session after the company reported its first-quarter earnings for FY2026-27, with multiple brokerages raising price targets and earnings estimates.
+
+## Over 50% event-goers travel inter-city as outstation mobility and discretionary spending surge: KPMG-EEMA report
+According to the report, 54.4% of surveyed visitors travelled from outside their city to attend their most recent event, establishing long-distance movement as a baseline standard for the sector
 
 ## Sensex today | Stock Market Live: Sensex, Nifty hold marginal gains in lacklustre trade; CAS, US inflation in focus
 Sensex, Nifty, Share Prices Live: Indian equities remained range-bound at noon as investors weighed positive Asian cues and renewed FPI buying against elevated US bond yields and geopolitical risks, while sectoral rotation continued and the NSE’s new Closing Auction Session remained under close watc
 
-## India's connected mobility push gains momentum as Hyundai announces 1 million connected car sales by 2027
-Hyundai targets cumulative sales of 1 million connected cars by 2027 after the Road Transport Ministry issued a draft notification to implement V2V communication systems
+## India bonds may see positive opening, local and US inflation data in focus
+The yield on the benchmark ⁠6.94% 2036 bond is expected to trade in the 6.75% to 6.79% range; India's retail inflation rate will rise to 4.50% in July from 4.38% in June
 
-## AI coding boom puts software testing, verification in focus
-As AI accelerates software development, companies face a new challenge: ensuring machine-generated code performs reliably, safely and as intended
+## TN govt announces increase in procurement incentives for paddy, sugarcane farmers
+The government made this decision despite the state's financial position being not good at present, TN CM Joseph Vijay said
 
-## Q1 Results Today Live: Kwality Pharma, Ramco Industries Q1 PAT up, Vi, Bosch, Lloyds Metals, Bharat Forge, Gland Pharma, Zee Entertainment, Hindustan Copper, KEC International to announce Q1 results
-Q1 Results Today, 10th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani
+The state-run miner is exploring a joint venture with Chile’s Codelco as India seeks to secure copper concentrate to meet rapidly rising domestic demand.
 
-## Paytm shares jump 9% to 52-week high as Bernstein raises target to ₹2,200
-At 12.37 pm, the stock traded at ₹1,557 on the NSE, after hitting a 52-week high of ₹1,569, compared with the previous close of ₹1,441.60
+## Global stock rally extends, oil advances on Iran: Markets Wrap
+Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike
 
-## Mahindra Group names Amit Sinha CEO of Holidays and Lifespaces sector
-The move aligns with the group’s focus on its Holidays and Lifespaces sectors to accelerate growth and achieve operational synergies, termed ‘Growth Gems
-
-## Deadlock in Parliament will continue till Home Minister Amit Shah gives statement: Priyanka Gandhi
-With only 4 days of the monsoon session remaining, the fate of bills on women's reservation, delimitation and the Foreign Contribution (Regulation) Act (FCRA) remains uncertain
-
-## Traditional Martial Arts Showdown: Kungfu Elite from Home and Abroad Converge on Yongchun
-Traditional Martial Arts Showdown: Kungfu Elite from Home and Abroad Converge on Yongchun
+## ITR filing: How to track your tax refund status online: step-by-step guide
+ITR refund status: A refund arises when the income tax that you have paid exceeds your final tax liability. This can be due to excess TDS, TCS, advance tax, self-assessment tax, deductions, exemptions, or treaty-based relief claimed in the return.
 
 ## Stocks to buy: What's the outlook for Nifty for August 10-August 14 week? Check list of top stock recommendations
 Stock market recommendations: AIA Engineering, and Cochin Shipyard are the top stocks to buy identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for August 10, 2026 week.
@@ -84,32 +90,32 @@ Stock market recommendations: Motilal Oswal Wealth Management Research Desk has 
 ## Government mulls raising CCEA approval threshold for FDIs
 
 
-## ‘Compliances major friction point for companies’
+## SC asks panel to verify claims of Manipur violence-hit families yet to get rehabilitation benefits
+SC asks panel to verify claims of Manipur violence-hit families yet to get rehabilitation benefits
 
+## Maharashtra CM Fadnavis says FCRA bill aims to curb anti-national activities, not target any religion
+Maharashtra CM Devendra Fadnavis defended the FCRA Amendment Bill, stating it aims to prevent anti-national activities.
 
-## Psticide residues found in 58 food samples tested in Kerala, says Minister Siddique
-Psticide residues found in 58 food samples tested in Kerala, says Minister Siddique
+## XUV rams three two-wheelers, kills retired army jawan in Hyderabad
+A retired Army jawan was killed and two others were injured after an XUV allegedly rammed into three two-wheelers. The driver fled the spot immediately.
 
-## Navi Mumbai airport name, drought and more: Supriya Sule shares details of meeting with PM Modi
-NCP MP's also called for a Bharat Ratna for Jyotiba Phule and Savitri Phule, Shahir Anna Bhau Saathe, Saint Tukdoji Maharaj.
+## TN govt announces increase in procurement incentives for paddy, sugarcane farmers
+TN govt announces increase in procurement incentives for paddy, sugarcane farmers
 
-## HistoriCity: Ravidas – A cobbler’s son and his religion
-The Ravidassia sect today is dominated by the Punjab based branch as well as the ‘Chamar’ and other castes, with roots in Punjab.
+## Govt says ready to discuss student protests, Amit Shah to speak in Parliament: ‘Oppn should not create disturbances’
+Home minister Shah expected to speak on matter of police action on protesters on July 20, when Cockroach Janta Party gave a call for a march to Parliament
 
-## Ram temple donation row: SC urged to adjourn hearing on pleas due to unavailability of SG
-Ram temple donation row: SC urged to adjourn hearing on pleas due to unavailability of SG
+## Indian student sent girlfriend's mother series of texts after murder, was in US on F-1 visa: What we know so far
+Victim's mother said messages were “inconsistent” with the way she communicated, which is why she called the cops to go and check on her at her Tucson flat
 
-## Jharkhand examination irregularities: ED files case as protests enter 17th day
-The ED’s case under the Prevention of Money Laundering Act stems from the Jharkhand Police’s first information report
+## Cauvery water row: SC to hear Tamil Nadu’s plea seeking Karnataka’s compliance on August 13
+The DMK’s application seeking similar directions against Karnataka is also likely to come up for hearing on the same day.
 
-## West Bengal minister says ‘no BJP role’ in attack on Mamata Banerjee’s convoy in North 24 Parganas
-BJP also questioned the circumstances surrounding former Chief Minister Mamata Banerjee's movement.
+## SC allows TMC leader Abhishek Banerjee to travel abroad for eye surgery
+The relief comes after the Calcutta High Court had earlier denied Abhishek Banerjee's permission to travel overseas for treatment.
 
-## Shows govt's intolerance, state of judiciary: Sibal on court denying bail to two ex-TISS students
-Shows govt's intolerance, state of judiciary: Sibal on court denying bail to two ex-TISS students
-
-## TN CM's resolution on Tamil Thaai Vazhthu unanimously passed in Assembly
-TN CM's resolution on Tamil Thaai Vazhthu unanimously passed in Assembly
+## China’s five-year road map for the power sector
+China unveiled its 15th five-year plan for the power sector on August 3. Below are key targets of the blueprint, which was released jointly by the National Development and Reform Commission and National Energy Administration. See original document in Chinese: 新型电力系统建设“十五五”规划 by scmp
 
 ## Despite geopolitical tensions, China’s rare earth producers have profitable first half
 China’s rare earth producers have reported or anticipated hefty first-half profits, with Beijing’s use of the strategically critical minerals as leverage in trade relations with Japan and the United States not appearing to impede normal activity. The geopolitical factor – US President Donald Trump a
@@ -131,9 +137,6 @@ For international retailers like DFI Retail Group, which operates 7-Eleven and M
 
 ## How China’s brands are thriving in the US despite rising geopolitical tensions
 The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely 
-
-## Demand for affordable EVs will force open US market to Chinese models eventually: analysts
-Consumer demand for affordable electric vehicles is likely to force open the US market to Chinese electric vehicle (EV) brands within the next few years, even though they currently face trade barriers, according to analysts. US carmakers are expecting the same, with Ford CEO Jim Farley recently pred
 
 ## Todd Blanche’s Confirmation Would Have Been A Scandal in 1973
 Nixon’s “Saturday Night Massacre” triggered nationwide outage—and a firewall which is now gone.
@@ -183,6 +186,12 @@ Beijing’s June white paper leaves the U.N.-centered architecture intact – bu
 ## India’s Communal Violence is Crossing into Nepal
 With the RSS steadily building on Nepali soil, Hindu-Muslim tensions and violence are growing, especially in Nepal’s Tarai-Madhesh region bordering India
 
+## What America Learned About Democracy When It Gained Stealth
+Editor’s note: This is the seventh article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sel
+
+## Why Military Cooperation in the Indian Ocean Still Falls Short
+The United States has bluntly signaled a deprioritization of the Indian Ocean at a peculiar time. The reversion of U.S. Indo-Pacific Command to its former name, U.S. Pacific Command, signifies no material change in force posture or organizational responsibilities, but it unavoidably signals less foc
+
 ## Why Conflict Gold Sanctions Fail
 In April 2026, over a month after the United States launched its attack on Iran, leading to thousands of reprisal strikes across the Gulf, the United Arab Emirates shut down a network of money changers connected to the Islamic Revolutionary Guard Corps. Iranian exchange houses and the shell companie
 
@@ -200,12 +209,6 @@ In 2025, Matthew Fuhrmann wrote, “U.S. Allies and Adversaries Are Attempting N
 
 ## The Arsenal and the Statehouse: New Defense Firms, Venture Capital and State Industrial Policy
 When Anduril announced a $910 million drone production facility in Ohio, it was not politics as usual. The main message came from Ohio’s governor, Mike DeWine, while Representative Mike Carey’s press release thanked the governor. Members of Congress usually take substantial credit for defense indust
-
-## The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power
-In late June, cadets at the Israeli military’s officer training school sat through a lecture by Ofer Winter, a retired brigadier general and a polarizing figure in the Israel Defense Forces. According to Haaretz, Winter told the future officers that “there are no uninvolved civilians in Gaza” and ac
-
-## Beyond Hormuz: The Future of Maritime Chokepoints
-Iran’s closure of the Strait of Hormuz and efforts to extract payments for safe passage — plus, more recently, the Houthis’ move to attack Saudi shipping through the Bab el-Mandeb Strait — have highlighted the risks of maritime chokepoints to global shipping and raised questions about the future for
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup
+Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.
+
+## Pakistan-administered Kashmir votes in reduced third phase amid unrest
+Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region's elections.
+
+## North Korea’s hackers using AI for attacks, cybersecurity firm says
+Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.
+
+## Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86
+Nelson was a five-time NBA champion with the Boston Celtics but is best remembered for his innovative coaching style.
+
+## Israeli forces kill one in Gaza as another body recovered from rubble
+Gaza Health Ministry says hospitals receive bodies of two Palestinians as Netanyahu rejects Trump plan to end war.
+
 ## Solar eclipse tracker: What time will it hit your location on August 12?
 On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality.
 
@@ -239,21 +257,6 @@ What's driving unrest in Pakistan-administered Kashmir?
 
 ## Wildfires bear down on homes in Canada’s Okanagan region
 A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.
-
-## Trump names Will Scharf as White House counsel ahead of midterms
-Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.
-
-## Brazilian player falls into tunnel celebrating goal
-Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.
-
-## Trump signals shift to economic pressure on Iran over new military strikes
-US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
-
-## Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
-Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.
-
-## Clashes in Iraq’s Kut city during protests over power shortages
-Protests over power shortages escalated in Kut, Iraq, as demonstrators demanded more electricity amid soaring heat.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
