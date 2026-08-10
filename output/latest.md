@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Yen sinks as effect of US-Japan intervention fades
+Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks
+
 ## Colombian earthquake kills at least 111
 7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales
 
@@ -20,9 +23,6 @@ An award-winning novel moves between France and Rwanda to explore a national tra
 
 ## Marine heatwaves strike as climate change plays out ‘in front of our eyes’
 Sea temperature records broken for month of July, Copernicus report reveals
-
-## The ICC is all the women of Afghanistan have left
-Trump’s vow to dismantle the international court will inaugurate a new era of impunity
 
 ## AI will boost oil and gas production more than green energy, report finds
 Debate over tech impact on greenhouse gas emissions stoked by latest study
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russia bars only party opposing war in Ukraine from parliamentary vote
+The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.
+
+## Trump administration has revoked over 175,000 visas: US State Department
+Most of the visa revocations stemmed from law-enforcement encounters involving criminal activity, the department said.
+
 ## US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US
 US Rep. Nancy Mace clashed with CNN's Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan.
 
@@ -248,12 +254,6 @@ Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he la
 
 ## Iran hierarchy consolidation as IRGC veteran tapped for key security role
 The office of the supreme leader has named a new security chief and established war commanders in influential roles.
-
-## Oman trying to contain extensive oil spill from stricken tanker
-The Caroline Bezengi is believed to be part of Russia's 'shadow fleet' that Moscow uses to circumvent Western sanctions.
-
-## Zuckerberg’s yacht crew did not hear call for help, says spokesperson
-A skiff off Alaska coast received help from a nearby cruise ship after Zuckerberg's yacht crew did not respond in time.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
