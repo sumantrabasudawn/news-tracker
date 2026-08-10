@@ -42,29 +42,35 @@ Authorisation from regulator accelerates UK-headquartered fintech’s European e
 ## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
 Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
 
-## Telangana cops bust cyber call centres in Delhi
-The call centre had been operational for about one and a half years.
+## How a Mumbai start-up cracked missile cooling tech
+The lean manufacturing success story opens a high-value defence export market
 
-## With a pipeline of antibiotics, Wockhart looks to build a conversation on rational use and resistance
-Wockhardt Antibiotic Academy to be an open scientific learning platform to facilitate continuous medical education among healthcare professionals, says Founder Chairman Habil Khorakiwala
+## Demand for AI skills boosts campus placement salaries
+Fresh graduates can now snag job offers ranging from ₹7-12 lakh, a huge leap from the earlier ₹3-4 lakh norm
 
-## Nifty 50 may deliver 14-17% return in FY27 as earnings rebound: Birla MF
-Launches NFO of two new SIFs - Apex Equity Long-Short and Equity Ex-Top 100 Long-Short
+## Teething issues
+Market closing auction needs time to settle down
 
-## Tribunal Commission may become template for selection of judges
-To be headquartered in the national capital, the proposed commission will consist of a chairperson and four members -- two judicial members and two technical members
+## Letters to Editor
 
-## TVS Supply Chain Solutions posts ₹23 crore net profit in Q1
-The company reports its highest-ever quarterly business wins of ₹543 crore, providing strong growth visibility. Order pipeline stands at over ₹7,500 crore
 
-## RPSG Group’s renewable-energy arm to acquire Renew Solar Power’s portfolio for ₹4,859 crore
-The transaction will take Purvah’s contracted capacity to 4.8 GWp and battery capacity of 2.2 GWh (gigawatt hour) and accelerate the group’s path to 10 GW of renewable energy in the next few years
+## Vodafone Idea pares Q1 losses by 43%
+Delivered on all critical business parameters, says CEO Abhijit Kishore
 
-## Ola Electric reverses ₹57 crore PLI provision despite pending MHI waiver
-Revenue falls 45% y-o-y to ₹455 crore; auditor issues qualified conclusion on treatment
+## Hitachi Energy India: Grid expansion, not generation, emerges as the next bottleneck
+Grid expansion is universally required. It is needed not just for data centres but also for industries, urbanisation and changing load centres, says N Venu, MD& CEO Hitachi Energy India
 
-## SC agrees to TN govt plea to hear Cauvery water dispute early
-Appearing before Chief Justice of India Surya Kant, senior advocate CS Vaidyanathan, for Tamil Nadu, highlighted the deficit in allocation of the river water has left farmers in a perilous situation.
+## UPI is not a ‘cost’ to be recovered
+India should not weaken its most successful digital public infrastructure merely to collect a small fee, or to placate US interests
+
+## BEA France to assist AAIB in probe into Air India incident
+Multiple momentary snags being examined to establish cause of Phuket-Delhi aircraft’s altitude loss
+
+## BSE enters Nifty50, Wipro exits: What changes from September 30
+BSE Ltd is set to take the place of Wipro Ltd in the prestigious Nifty 50 index from September 30, 2026. This alteration comes after a semi-annual review by NSE Indices, focusing on market capitalization metrics. Following this shift, Wipro will transition to the Nifty Next 50 index. BSE's inclusion
+
+## US stock market today: Wall Street drifts near all-time high; crude oil prices rise
+US stock market: The recent rally in equities has begun to lose momentum after being fuelled by a strong corporate earnings season in which large US companies reported sharply higher spring-quarter profits.
 
 ## Beijing’s billion-barrel weapon: Why India must prepare for China-driven oil prices
 China has accumulated as much as 1.4 billion barrels in strategic and enterprise-controlled inventories, according to a new RAND study. That is more than three times the roughly 413 million barrels held in the US government’s Strategic Petroleum Reserve.
@@ -84,13 +90,19 @@ ITR refund status: A refund arises when the income tax that you have paid exceed
 ## Stocks to buy: What's the outlook for Nifty for August 10-August 14 week? Check list of top stock recommendations
 Stock market recommendations: AIA Engineering, and Cochin Shipyard are the top stocks to buy identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for August 10, 2026 week.
 
-## Rupee slips 8 paise against US dollar as crude prices rise amid Middle East chaos
-The Indian Rupee started the week on a weaker note against the US dollar, influenced by rising global crude oil prices and a strengthening dollar. However, inflows from foreign institutional investors and robust forex reserves offered some respite. Recently, India's foreign exchange reserves experie
+## Airbus team to assist AAIB probe into Air India Phuket-Delhi turbulence case
+Air India flight AI 2379, operating from Phuket to Delhi on August 4, experienced a sudden loss of altitude of around 300ft during cruise.
 
-## Stock market today: BSE Sensex rises 100 points, NSE Nifty50 opens above 25,600
+## Bombay HC directs Amazon to hand over expired goods to Maharashtra FDA for disposal
+Amazon Retail India moved the HC after the FDA took action against its warehouse in Bhiwandi, Thane, for allegedly sending expired food into the retail market.
 
+## Faridabad boy cycling dies after coming under e-rickshaw a day before birthday
+Police said neighbours raised an alarm, and on hearing the screams, Saksham’s father and other family members also rushed to the spot
 
-## Petrol, diesel prices to fall? Here's what the government said
+## 5 abandoned houses set ablaze by unknown armed individuals in Manipur: Police
+Manipur government and a delegation of UNC held the first round of talks on Monday at Taphou village to lift the ongoing economic blockade
+
+## Petrol, diesel prices to fall? Here's what government said
 The government cut excise duty by ₹10 per litre in March but has announced no fresh fuel price cut.
 
 ## Delhi HC seeks The Caravan's reply in defamation case filed by Nitin Gadkari's son
@@ -101,18 +113,6 @@ Inspectors found bottles had markings showing they were made from polyethylene t
 
 ## Idea that a woman in jeans can 'corrupt young boys' shows troubling mindset: HC
 In her 50-page verdict, the bench said what a girl or woman chooses to wear is entirely a matter of personal choice
-
-## 'No one interested in Shah's opinion, want to know who ordered firing': Rahul on Jantar Mantar chaos
-Lok Sabha Leader of Opposition (LoP) Rahul Gandhi noted that Shah must answer who authorised the alleged firing of pellet guns on the protesting students.
-
-## India adds 11 ports to e-Visa network, taking total entry points to 88
-The move brings airports, seaports, land borders and rail posts under a common framework defined by the new Immigration and Foreigners Act, 2025
-
-## Independence Day 2026: ‘Vande Mataram’ to be sung at Red Fort for first time in 80 years
-As India prepares to mark its milestone 80th Independence Day, the historic ramparts of the Red Fort are set to witness a historic first.
-
-## Bangladesh urges faster extradition of Hasina as Indian envoy meets PM Tarique
-“Bangladesh hopes that India will expedite the process of extraditing Sheikh Hasina,” said the readout issued in Bengali
 
 ## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
 Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
@@ -145,7 +145,7 @@ Punishing heat and wildfires have cost billions and displaced hundreds of thousa
 The Trump administration’s campaign against the court is transparently cynical.
 
 ## Todd Blanche’s Confirmation Would Have Been a Scandal in 1973
-Nixon’s “Saturday Night Massacre” triggered nationwide outage—and a firewall that is now gone.
+Nixon’s “Saturday Night Massacre” triggered nationwide outrage—and a firewall that is now gone.
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Earthquake with 7.4 magnitude hits Colombia, killing at least 20
+Emergency teams are still assessing the impact of the quake that was felt across the region.
+
+## Indian police attack protesters seeking action over ‘exam irregularities’
+Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
+
 ## Ben-Gvir posts AI video of starving Palestinian ahead of elections
 Ben-Gvir posts AI video of starving Palestinian ahead of elections
 
@@ -251,12 +257,6 @@ Iran gained leverage in Hormuz, but its neighbours are reshaping regional securi
 
 ## Why Netanyahu’s ‘coup’ against Gaza plan risks endless war
 The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.
-
-## Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
-Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
-
-## Why choosing low-fat dairy is not necessarily better for your health
-For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
