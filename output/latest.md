@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Wall Street giants partner with Nvidia on $500bn AI financing deal
+Apollo, Blackstone and Goldman Sachs are among groups working with the chipmaker to raise capital for data centre boom
+
+## Colombian earthquake kills at least 47
+7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales
+
+## Jacaranda by Gaël Faye — after the genocide
+An award-winning novel moves between France and Rwanda to explore a national trauma through exile, silences and family secrets
+
 ## Marine heatwaves strike as climate change plays out ‘in front of our eyes’
 Sea temperature records broken for month of July, Copernicus report reveals
 
@@ -15,11 +24,8 @@ Currency gives up roughly half its gains from joint action with investors citing
 ## Comms trouble
 Criticism of the Fed’s new communications strategy has been pointed
 
-## Wildfire smoke threatens to cloud the ‘Pure Michigan’ brand
-The blue skies of the American Midwest are likely to be hit by fleeting but powerfully unhealthy air every summer
-
-## Reform vows to deport all foreign prisoners from British jails
-Pledge comes as Andy Burnham faces criticism over government’s early-release scheme
+## Jeff Bezos investor group closing in on Liverpool FC stake
+Consortium led by son-in-law of steel billionaire Lakshmi Mittal nears deal that could value club at over $6bn
 
 ## Just how big is the hidden leverage of AI hyperscalers?
 Very
@@ -36,35 +42,38 @@ Department store’s managing director leaves less than three years after taking
 ## Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-## Revolut wins French banking licence
-Authorisation from regulator accelerates UK-headquartered fintech’s European expansion plans
+## MEPZ SEZ approves investment worth ₹443 crores
+Approvals expected to create 2,427 jobs across manufacturing, IT and logistics
 
-## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
-Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
+## Zee Entertainment Q1 net nearly halves to ₹74 crore
+Higher ad spends in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport; company bullish on sports content
 
-## How a Mumbai start-up cracked missile cooling tech
-The lean manufacturing success story opens a high-value defence export market
+## e-way bill generation surged to over 13.98 cr in July
+The sustained uptick in e-way bill generation is a strong proxy for economic momentum, reflecting robust movement of goods across the supply chain
 
-## Demand for AI skills boosts campus placement salaries
-Fresh graduates can now snag job offers ranging from ₹7-12 lakh, a huge leap from the earlier ₹3-4 lakh norm
+## Inflows into gold ETFs continue to be net positive for 3rd week in a row
+With gold prices gaining over 6 per cent, inflows outstripped outflows as overall investments were $3.04 billion
 
-## Teething issues
-Market closing auction needs time to settle down
+## 5 States, led by Tamil Nadu, accounts for over 80% of gold loan, reveals PSB data
+According to data annexed with written reply by Minister of State in the Finance Ministry, Pankaj Chaudhary, total gold loan outstanding for Public Sector Banks was over Rs ₹11.31 lakh crore
 
-## Letters to Editor
+## India’s kharif sowing deficit dips below 2% as overall coverage rises to 88% of normal
+Sugarcane acreage lowered to 58.31 lakh hectares, area under paddy down 4.3% as transplanting slows
 
+## Natural gas: Trend unclear
+A breakout of ₹270 can open the door for a rally to ₹290. Note that there is a minor hurdle at ₹275
 
 ## Vodafone Idea pares Q1 losses by 43%
 Delivered on all critical business parameters, says CEO Abhijit Kishore
 
-## Hitachi Energy India: Grid expansion, not generation, emerges as the next bottleneck
-Grid expansion is universally required. It is needed not just for data centres but also for industries, urbanisation and changing load centres, says N Venu, MD& CEO Hitachi Energy India
+## Ethanol or EVs? India needs both for cleaner mobility, says IFGE
 
-## UPI is not a ‘cost’ to be recovered
-India should not weaken its most successful digital public infrastructure merely to collect a small fee, or to placate US interests
 
-## BEA France to assist AAIB in probe into Air India incident
-Multiple momentary snags being examined to establish cause of Phuket-Delhi aircraft’s altitude loss
+## ‘Broken overnight’: How stock market’s new closing auction is making traders jittery
+New stock market closing system: Brokerages found themselves responding to a surge of client queries, while retail investors turned to social media after noticing that the official closing prices appeared to differ from where stocks had traded during the day.
+
+## India’s power demand hits new peak, evening supply gap widens to 3,045 MW
+In May, India's power consumption surged to an unprecedented 270.8 GW, reflecting heightened energy needs across the nation. However, June faced a significant power shortfall of 3,045 MW, mainly affecting the northern states. This gap in electricity supply resulted from limitations in the transmissi
 
 ## BSE enters Nifty50, Wipro exits: What changes from September 30
 BSE Ltd is set to take the place of Wipro Ltd in the prestigious Nifty 50 index from September 30, 2026. This alteration comes after a semi-annual review by NSE Indices, focusing on market capitalization metrics. Following this shift, Wipro will transition to the Nifty Next 50 index. BSE's inclusion
@@ -81,38 +90,29 @@ India is expanding its energy import portfolio for both LNG and crude oil, striv
 ## ONGC, Shell Energy India sign MoU to explore deepwater blocks, LNG sourcing opportunities
 ONGC and Shell Energy India have entered into a memorandum of understanding to collaboratively delve into potential joint ventures. Their focus will be on assessing opportunities in deepwater and ultra-deepwater oil and gas exploration, alongside investigating LNG sourcing alternatives to bolster In
 
-## Elon Musk net worth 2026: World’s richest person added over $800 million per day
-Between 2025 and 2026, Elon Musk's fortune saw remarkable growth, accumulating billions as a result of SpaceX's impressive stock performance. Despite heightened spending on artificial intelligence initiatives, the company reported solid revenue and significantly reduced losses. The concentration of 
+## ‘No firing at Jantar Mantar’: Nadda slams Rahul Gandhi; claims Congress leader ‘changing goalpost’
+Accusing the LoP in Lok Sabha of “running away from discussion”, JP Nadda accused Rahul Gandhi of “disrupting” Parliament for the last 15 days.
 
-## ITR filing: How to track your tax refund status online: step-by-step guide
-ITR refund status: A refund arises when the income tax that you have paid exceeds your final tax liability. This can be due to excess TDS, TCS, advance tax, self-assessment tax, deductions, exemptions, or treaty-based relief claimed in the return.
+## A warning BJP can no longer afford to ignore? NDA ally sounds wake-up call
+“My speech wasn't a dissent speech. It was an honest speech,” Sikkim MP Indra Hang Subba on his decision to speak in support of protesting students.
 
-## Stocks to buy: What's the outlook for Nifty for August 10-August 14 week? Check list of top stock recommendations
-Stock market recommendations: AIA Engineering, and Cochin Shipyard are the top stocks to buy identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for August 10, 2026 week.
+## Woman's family attempts self-immolation after her death in Uttar Pradesh hospital, demands action
+Padma Awasthi, a resident of Vallabhnagar Colony in Pilibhit, had fractured her hand after falling. She died during treatment at the private hospital.
+
+## Uttarakhand: BRO personnel missing, Bailey bridge washed away in flash flood
+Teams of the State Disaster Response Force and National Disaster Response Force have been rushed to the spot
+
+## Metal bridge ripped apart by swollen river after flash flood in Uttarakhand's Chamoli | Watch
+Authorities have advised residents and travellers to avoid the route and postpone journeys until the situation improves.
+
+## Suvendu meets wife of deceased TMC worker; promises job, ex-gratia of ₹10 lakh
+A political row erupted on Saturday after a local Halisahar TMC leader died in police custody. His arrest was based on an August 1 complaint
 
 ## Airbus team to assist AAIB probe into Air India Phuket-Delhi turbulence case
 Air India flight AI 2379, operating from Phuket to Delhi on August 4, experienced a sudden loss of altitude of around 300ft during cruise.
 
 ## Bombay HC directs Amazon to hand over expired goods to Maharashtra FDA for disposal
 Amazon Retail India moved the HC after the FDA took action against its warehouse in Bhiwandi, Thane, for allegedly sending expired food into the retail market.
-
-## Faridabad boy cycling dies after coming under e-rickshaw a day before birthday
-Police said neighbours raised an alarm, and on hearing the screams, Saksham’s father and other family members also rushed to the spot
-
-## 5 abandoned houses set ablaze by unknown armed individuals in Manipur: Police
-Manipur government and a delegation of UNC held the first round of talks on Monday at Taphou village to lift the ongoing economic blockade
-
-## Petrol, diesel prices to fall? Here's what government said
-The government cut excise duty by ₹10 per litre in March but has announced no fresh fuel price cut.
-
-## Delhi HC seeks The Caravan's reply in defamation case filed by Nitin Gadkari's son
-The plea said Nikhil Gadkari was being "targeted" by the defendants because he was the son of a former BJP national president and a senior Union minister.
-
-## Thousands of VAT 69 whisky, Smirnoff vodka PET bottles seized in food safety crackdown in Bengaluru
-Inspectors found bottles had markings showing they were made from polyethylene terephthalate (PET), but should have carried a mandated ‘recycled’ symbol
-
-## Idea that a woman in jeans can 'corrupt young boys' shows troubling mindset: HC
-In her 50-page verdict, the bench said what a girl or woman chooses to wear is entirely a matter of personal choice
 
 ## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
 Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Earthquake with 7.4 magnitude hits Colombia, killing at least 20
+## DRC’s Ebola outbreak began months before it was officially declared, says WHO
+Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.
+
+## ‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan
+Netanyahu's declaration has reinforced doubts of lasting calm without Israeli withdrawal, reconstruction and guarantees.
+
+## Sudan’s army chief holds unannounced talks on national dialogue
+Al-Burhan engaged in discreet consultations aiming to pave the way for a comprehensive Sudanese dialogue conference.
+
+## ‘They need each other’: What’s behind the new Syria-Russia accord?
+The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.
+
+## Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter
+10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.
+
+## Oil prices, stocks surge as Hormuz closure drags on
+US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.
+
+## Earthquake with 7.4 magnitude hits Colombia, killing at least 47
 Emergency teams are still assessing the impact of the quake that was felt across the region.
 
 ## Indian police attack protesters seeking action over ‘exam irregularities’
 Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
-
-## Ben-Gvir posts AI video of starving Palestinian ahead of elections
-Ben-Gvir posts AI video of starving Palestinian ahead of elections
-
-## How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed
-After his Senate primary win in Michigan, the Egyptian American doctor faced a coordinated digital smear campaign.
-
-## War on Iran: Phase II: Day 30
-Donald Trump says the US is only ‘semi-negotiating’ with Iran.
-
-## Record 230 people reach UK on single boat after crossing English Channel
-The government has accused people smugglers of 'cramming' migrants onto 'unseaworthy vessels' and putting lives at risk.
-
-## Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
-Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.
-
-## Why Netanyahu’s ‘coup’ against Gaza plan risks endless war
-The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
