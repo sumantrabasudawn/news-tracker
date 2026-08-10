@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Ukrainian drone strike on oil-refining city in central Russia kills 13
+Death toll one of highest in a single attack by Kyiv since 2022
+
+## Revolut wins French banking licence
+Authorisation from regulator accelerates UK-headquartered fintech’s European expansion plans
+
+## Reform vows to deport all foreign prisoners from British jails
+Pledge comes as prime minister faces criticism over Labour government’s early release scheme
+
+## Marine heatwaves strike as climate change plays out ‘in front of our eyes’
+Sea temperature records broken for month of July, Copernicus report reveals
+
 ## Indonesia nominates new central bank governor after market turmoil
 Elevation of veteran technocrat Destry Damayanti comes after previous chief’s sudden resignation
 
@@ -12,11 +24,17 @@ One rate-setter noted that the central bank could deliver more rate rises than m
 ## Hong Kong builds its next chapter — and closer ties with China
 Evictions under way in remote rural villages as city strives to reinvent economy
 
-## Your move, BoJ
-Plus, the weak jobs report
+## John Lewis boss Peter Ruis steps down amid ‘really tough’ trading
+Department store’s managing director leaves less than three years after taking up position
 
-## Lessons in letter writing for the Bank of England
-What Australia can teach a new chancellor seeking a fresh approach to QE and QT
+## Barrick and Newmont gold mining truce clears way for IPO
+Disagreement between top miners over Nevada joint venture had served as block to spin-off
+
+## Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models
+Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
+
+## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
+Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
 
 ## US backs Australian rare earth miner to cut out China
 Sunrise Energy shares soar after Trump administration provides $400mn loan to develop scandium project
@@ -24,47 +42,35 @@ Sunrise Energy shares soar after Trump administration provides $400mn loan to de
 ## FirstFT: China sails ‘Ice Silk Road’ to Arctic
 Also in today’s newsletter: Russia’s coercive recruitment and German inward investments
 
-## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
-Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
-
 ## UK raises cost projections for Palantir’s NHS data platform
 Lifetime charge rises to £1.1bn on ‘increased delivery at scale’ while forecast benefits fall to £808mn
 
-## UK missile and drone interceptor start-up raises $300mn at $3.4bn valuation
-Cambridge Aerospace has secured MoD contracts and is in talks with the US government about providing systems
+## Govt mulls curbing use of cane for ethanol to tame record-high sugar market
+Reduced rainfall in Maharashtra and Karnataka has raised concerns about next year’s sugar output, sources said
 
-## Finance groups could help solve Burnham’s social care conundrum
-A new system needs to replicate the universal appeal of the NHS without requiring commensurate public-sector spending
+## Sensex today | Stock Market Live: Sensex, Nifty end marginally higher in lacklustre trade; Titan, Bajaj Finance top gainers
+Sensex, Nifty, Share Prices Live: Market benchmark indices end marginally higher on Monday, with the Sensex climbing over 43 points and the Nifty ending flat, amid a spike in crude oil prices due to geopolitical uncertainties
 
-## Todd Boehly’s group rolls out AI to Chelsea and A24
-Eldridge will embed technology in companies from Chelsea Football Club to film studio A24 after acquiring 50% of Sudolabs
+## Broker’s call: Dee Development (Buy)
+Mirae Asset Sharekhan
 
-## Europe faces rocket launcher shortage by 2030, space agency chief warns
-Demand for launches is growing faster than the region’s capabilities
+## Natural gas: Trend unclear
+A breakout of ₹270 can open the door for a rally to ₹290. Note that there is a minor hurdle at ₹275
 
-## Sensex today | Stock Market Live: Sensex, Nifty end marginally down in lacklustre trade; Titan, Bajaj Finance top gainers
-Sensex, Nifty, Share Prices Live: Indian equities remained range-bound at noon as investors weighed positive Asian cues and renewed FPI buying against elevated US bond yields and geopolitical risks, while sectoral rotation continued and the NSE’s new Closing Auction Session remained under close watc
+## Manipal Academy of Higher Education, GHCL sign MoU to develop fuel quality monitoring solution
+The collaboration combines spectroscopy with artificial intelligence and machine learning to deliver a rapid, on-site fuel quality assessment system.
 
-## Dhoot Transmission IPO subscribed 36% so far on day 1, brokerages largely bullish
-Brokerages have largely taken a positive view of the issue, with SBI Securities, Swastika Investment, Anand Rathi, Ventura Securities and Choice Broking recommending subscription
+## Ola Electric shares decline 4% after Q1, brokerages split between neutral and sell calls
+Brokerages cautious, citing concerns around volumes, margins, competition and cash flow
 
-## Q1 Results Today Live: Bharat Forge shares tank after Q1 con. loss, Kwality Pharma, Ramco Industries, KPR Mill Q1 PAT up, Hindustan Copper PAT down q-o-q, AstraZeneca, Info Edge & Astra Microwave profit dip, Vi, Bosch, Lloyds Metals, Gland Pharma, Zee Entertainment, KEC International to announce Q1 results
+## Sky Gold shares jump over 8% after Q1 profit
+Sky Gold shares jumped 13.4% to hit a fresh 52-week high of ₹815.95 on the NSE after the company reported strong growth in its June quarter results
+
+## Q1 Results Today Live: Bharat Forge shares tank after Q1 loss, Kwality Pharma, Ramco Industries Q1 PAT up, Hindustan Copper PAT down q-o-q, AstraZeneca, Info Edge & Astra Microwave profit dip, Vi, Bosch, Lloyds Metals, Gland Pharma, Zee Entertainment, KEC International to announce Q1 results
 Q1 Results Today, 10th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Govt introduces bill to amend NCDC Act to boost cooperative sector
-The bill seeks to widen the institutional channels through which assistance may reach and strengthen the cooperative sector while cooperative societies will continue to remain the primary beneficiaries
-
-## Motilal Oswal AMC surpasses ₹2 lakh crore AUM
-Motilal Oswal AMC on Monday announced that its total AUM crossed ₹2 lakh crore in August
-
-## SOLIZE PARTNERS and Dassault Systèmes Form Partnership to Accelerate Digital Transformation in Manufacturing
-SOLIZE PARTNERS and Dassault Systèmes Form Partnership to Accelerate Digital Transformation in Manufacturing
-
-## Exicom Opens FY27 with Order Wins Across Both Businesses as Revenue Grows Sharply Year on Year
-Exicom Opens FY27 with Order Wins Across Both Businesses as Revenue Grows Sharply Year on Year
-
-## DGFT eases export compliance, removes physical challan requirement for exporters
-The DGFT has removed the requirement for exporters to submit physical duty payment challans while applying for EODC under the Advance Authorisation and EPCG schemes
+## Elon Musk net worth 2026: World’s richest person added over $800 million per day
+Between 2025 and 2026, Elon Musk's fortune saw remarkable growth, accumulating billions as a result of SpaceX's impressive stock performance. Despite heightened spending on artificial intelligence initiatives, the company reported solid revenue and significantly reduced losses. The concentration of 
 
 ## ITR filing: How to track your tax refund status online: step-by-step guide
 ITR refund status: A refund arises when the income tax that you have paid exceeds your final tax liability. This can be due to excess TDS, TCS, advance tax, self-assessment tax, deductions, exemptions, or treaty-based relief claimed in the return.
@@ -87,32 +93,32 @@ Stock market recommendations: Motilal Oswal Wealth Management Research Desk has 
 ## Maruti Suzuki chairman seeks faster reforms
 
 
-## Government mulls raising CCEA approval threshold for FDIs
+## BJP vs Muslim League: ‘Don’t provoke us,’ Rajeev Chandrasekhar warns IUML over Savarkar row
+The BJP and the Indian Union Muslim League have clashed in Kerala over the Savarkar controversy and Vande Mataram row.
 
+## ‘Suvendu executed it’: Abhishek Banerjee's ‘state-sponsored’ claim after Mamata's car attacked
+This came a day after protests erupted over Mamata Banerjee's visit to Bizpur to meet the family of a deceased TMC worker.
+
+## Air India flight turbulence: Pilot body issues advisory, seeks confidentiality
+The Airline Pilots’ Association of India said a non-negative screening result is a preliminary flag pending confirmatory laboratory testing and review
+
+## 4 days on job: Ahmedabad security guard rapes woman, flees; later shot in leg after attempting to snatch officer's gun
+After the crime came to light, the police apprehended the accused within hours using CCTV tracking.
+
+## Protesting Jharkhand students face lathi charge, tear gas, water cannon during march to assembly
+Several protesters claimed they were injured in the police action. The police said a section of the protesters turned violent and pelted stones at the forces.
+
+## Ex-JPSC head arrested, police vs protesters in Jharkhand assembly march: 5 key developments amid student stir
+Jharkhand CID arrested L Khiangte, former chairperson of the state public service commission, over alleged irregularities in the recruitment examinations.
 
 ## Keeping up with UP: Is abusive language really harmless or needs to be checked
 Prime Minister Narendra Modi spoke about the abusive language and underlined that dragging “misguided children” into court would not resolve the problem
 
-## MEA condemns defacement of Indian Embassy in Slovenia, calls for action against perpetrators
-The Ministry of External Affairs (MEA) on Monday condemned the defacement of the Indian Embassy premises in Ljubljana, Slovenia.
+## MEA condemns defacement of Indian Embassy in Slovenia, calls for action against ‘anti-India elements’
+People familiar with the matter said pro-Khalistan elements were behind the defacing of the embassy with anti-India slogans.
 
-## Tricolour aboard ISS as Russian cosmonauts greet India on Independence Day
-With India set to mark its 80th Independence Day, the cosmonauts reflected on the history of cooperation between India and Russia.
-
-## Heavy rain in Himachal: Orange alert for Kangra, Mandi and Chamba
-IMD advised residents and tourists to exercise caution while travelling, as heavy rainfall could lead to sudden rise in water levels in rivers
-
-## Bihar man poses as IAS officer, claims links to NSA Ajit Doval; cops seize Tesla car, SUV after arrest
-Police recovered a Tesla, luxury vehicles, and other items from Gupta’s residence as they investigate his alleged impersonation and fraudulent activities.
-
-## Hyderabad Police warn against ‘Rent a Boyfriend’ trap targeting young girls, women | What we know about the dating scam
-The new ‘Rent a Boyfriend’ scam flagged by Hyderabad police pretends to offer male companions to young women and girls as a means to scam them for payments.
-
-## Right-wing activist Mohandas arrested after alleged ‘girls enjoy rape’ remark over NEET protest
-RSS said T G Mohandas has no association with the organisation at any level and that his remarks on the recent protest were his personal views.
-
-## SC asks panel to verify claims of Manipur violence-hit families yet to get rehabilitation benefits
-SC asks panel to verify claims of Manipur violence-hit families yet to get rehabilitation benefits
+## Hong Kong trophy-home demand runs deep, as Stanley luxury sale tops US$19m
+A buyer with the same name as the founding chairwoman of a global immigration consultancy has bought a detached house in a luxury residential development in southern Hong Kong for over US$19 million, adding to a string of big-ticket deals as demand for trophy homes remains resilient despite a broade
 
 ## Can CATL’s battery breakthrough push flying cars closer to a commercial reality in China?
 Contemporary Amperex Technology Ltd (CATL), the world’s largest electric vehicle (EV) battery maker, has thrown its weight behind flying cars after its aviation battery system cleared a major safety test. A successful roll-out of passenger-carrying drone batteries, backed by CATL’s innovation drive 
@@ -135,8 +141,11 @@ One year after McDonald’s began selling its self-owned Hong Kong shops, the fa
 ## DFI navigates ‘hardest’ market China as 7-Eleven stores profit despite online price wars
 For international retailers like DFI Retail Group, which operates 7-Eleven and Maxim’s in 12 global markets, mainland China is a tough market to crack given its “unsustainable” online subsidies, according to an executive. “I think customers in China still have a very value-focused, careful use of th
 
-## Can Hong Kong Become Asia’s Blueprint for Sustainable Urban Growth?
-[The content of this article has been produced by our advertising partner.] Hong Kong has long been a city in motion, where capital, talent and ideas move with remarkable speed. For AtkinsRéalis, a world-class engineering services and nuclear power organisation, the city is more than a strategic bas
+## Europe’s Summer of Nightmares
+Punishing heat and wildfires have cost billions and displaced hundreds of thousands of people.
+
+## Dismantling the ICC Doesn’t Serve U.S. Interests
+The Trump administration’s campaign against the court is transparently cynical.
 
 ## Todd Blanche’s Confirmation Would Have Been A Scandal in 1973
 Nixon’s “Saturday Night Massacre” triggered nationwide outage—and a firewall which is now gone.
@@ -155,12 +164,6 @@ Thomas Wright on the post-Cold War order.
 
 ## An ‘Odyssey,’ From a Dog’s Perspective
 Plus, a satire about a Nigerian on holiday, and more international fiction in August.
-
-## Latin America’s Second Pink Tide Recedes
-The latest leftward shift was shorter-lived and less accomplished than its predecessor.
-
-## Is Iran Winning the Battle Over the Strait of Hormuz?
-Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.
 
 ## Myanmar Nationals Face Deportation From US After Court Ruling
 The ruling follows a Supreme Court decision in June that limited courts' ability to challenge TPS designations.
@@ -234,6 +237,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk
+A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.
+
+## June and July hottest on record in Western Europe, monitor says
+The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.
+
+## UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan
+Three confederations release letter criticising FIFA's president over his proposal to sell off stakes in the World Cup.
+
+## One year on, Gaza mourns journalist Anas al-Sharif’s death
+Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilians' lives.
+
+## Who is Mohsen Rezaei, and how significant is his appointment?
+Former IRGC commander Rezaei will be taking over as secretary of Iran's top security body amid Hormuz talks.
+
 ## Tropical Storm Dolphin batters eastern China with heavy rain, strong winds
 Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days.
 
@@ -242,21 +260,6 @@ World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while sta
 
 ## Anguished locals watch as Israel demolishes homes in southern Lebanon
 Anguished locals watch as Israel demolishes homes in southern Lebanon
-
-## ‘Like the movies’: How Ukraine’s ground robots are changing rules of war
-They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions.
-
-## China evacuates a million from homes as Typhoon Dolphin arrives
-China evacuates a million from homes as Typhoon Dolphin arrives
-
-## Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup
-Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.
-
-## Pakistan-administered Kashmir votes in reduced third phase amid unrest
-Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region's elections.
-
-## North Korea’s hackers using AI for attacks, cybersecurity firm says
-Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
