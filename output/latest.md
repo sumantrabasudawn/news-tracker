@@ -1,37 +1,43 @@
 # AION Intelligence
 
+## Yen sinks as effect of US-Japan intervention fades
+Currency gives up nearly half of gains from joint action with investors citing lack of ‘unified voice’ among central banks
+
+## Comms trouble
+Criticism of the Fed’s new communications strategy has been pointed
+
+## Wildfire smoke threatens to cloud the ‘Pure Michigan’ brand
+The blue skies of the American Midwest are likely to be hit by fleeting but powerfully unhealthy air every summer
+
+## Reform vows to deport all foreign prisoners from British jails
+Pledge comes as Andy Burnham faces criticism over government’s early-release scheme
+
+## Just how big is the hidden leverage of AI hyperscalers?
+Very
+
+## Arrival of 230 people in single boat shows gangs’ ‘reckless’ tactics, says Home Office
+People smugglers are using larger vessels as pressure from French authorities makes it more difficult to launch crossings
+
+## How the UAE won over Washington
+The Gulf state has deployed a mixture of cash and charm to become one of America’s most important Middle East allies
+
 ## Trump and the failure of the Fafo doctrine
 The president’s flawed decision-making is finally catching up with him
 
-## Ukrainian drone strike on oil-refining city in central Russia kills 13
-Death toll one of highest in a single attack by Kyiv since 2022
-
-## Whither Trump’s tariffs?
-Using a patchwork of obscure laws, US officials have set up a series of new probes that could result in fresh duties
+## Barrick and Newmont gold mining truce clears way for IPO
+Disagreement between top miners over Nevada joint venture had served as block to spin-off
 
 ## Start-up bank backed by Palmer Luckey set to raise $1.5bn
 Funding values Erebor at $8bn, underscoring growth of lender supported by Silicon Valley investors
-
-## Revolut wins French banking licence
-Authorisation from regulator accelerates UK-headquartered fintech’s European expansion plans
-
-## Reform vows to deport all foreign prisoners from British jails
-Pledge comes as prime minister faces criticism over Labour government’s early release scheme
-
-## Marine heatwaves strike as climate change plays out ‘in front of our eyes’
-Sea temperature records broken for month of July, Copernicus report reveals
-
-## Indonesia nominates new central bank governor after market turmoil
-Elevation of veteran technocrat Destry Damayanti comes after previous chief’s sudden resignation
-
-## Barrick and Newmont gold mining truce clears way for IPO
-Disagreement between top miners over Nevada joint venture had served as block to spin-off
 
 ## John Lewis boss Peter Ruis steps down amid ‘really tough’ trading
 Department store’s managing director leaves less than three years after taking up position
 
 ## Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
+
+## Revolut wins French banking licence
+Authorisation from regulator accelerates UK-headquartered fintech’s European expansion plans
 
 ## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
 Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
@@ -42,29 +48,32 @@ Sunrise Energy shares soar after Trump administration provides $400mn loan to de
 ## FirstFT: China sails ‘Ice Silk Road’ to Arctic
 Also in today’s newsletter: Russia’s coercive recruitment and German inward investments
 
-## Eye on FCNR-B deposits: Bank of India plans to raise up to $1 bn via Medium-Term Note programme
-Between June 5, 2026, and July 30, 2026, the public sector bank mobilised $207.46 million via FCNR-B deposits of 3-5 years tenor
+## Zee Entertainment Q1 net nearly halves to ₹74 crore
+Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport
 
-## Two CityUHK scholars elected to the European Academy of Engineering in recognition of their internationally acclaimed research achievements
-Two CityUHK scholars elected to the European Academy of Engineering in recognition of their internationally acclaimed research achievements
+## Kharif sowing area deficit less than 2%, sugarcane area revised to lower
+The sowing area in on-going Kharif season has reached 967.92 lh as of August 7 compared with 985.89 lh in the year-ago period, down by 1.8 per cent, the agriculture ministry said in its weekly update on Monday
 
-## Monika Alcobev appointed as Rémy Cointreau's exclusive partner across India
-Monika Alcobev appointed as Rémy Cointreau's exclusive partner across India
+## Broker’s call: Godrej Consumer
+HDFC Securities
 
-## Q1 Results Today Live: Bharat Forge shares tank after Q1 loss, Kwality Pharma, Ramco Industries Q1 PAT up, Hindustan Copper PAT down q-o-q, AstraZeneca, Info Edge & Astra Microwave profit dip, Vi, Bosch, Lloyds Metals, Gland Pharma, Zee Entertainment, KEC International to announce Q1 results
-Q1 Results Today, 10th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## 5 States, led by Tamil Nadu, accounts for over 80% of gold loan, reveals PSB data
+According to data annexed with written reply by Minister of State in the Finance Ministry, Pankaj Chaudhary, total gold loan outstanding for Public Sector Banks was over Rs ₹11.31 lakh crore
 
-## Benchmarks flatline for third day as crude keeps bulls at bay
-The Nifty 50 gained just 13 points, or 0.05%, to settle at 24,583.80, while the Sensex edged up 43 points, or 0.06%, to close at 78,542.44
+## Trilegal advises on India’s largest-ever OFS in LIC
+The stake sale raised LIC’s public shareholding from 3.5 per cent to 10%, allowing the government to meet the minimum public shareholding requirement ahead of the regulatory deadline
 
-## Tamil Nadu raises paddy, sugarcane incentives to record levels
-This is the first time in history that the State government has increased the subsidy amount for paddy by more than ₹156 in a single year, he said.
+## FAIFA flags concern over sharp reduction in tobacco crop size by Tobacco Board
+Demands viable transition support; action against unapproved cultivation
 
-## Cochin Port plans five-theme redevelopment of Willingdon Island
-Focus on cargo, cruise, shipbuilding, water transport and tourism hubs to revive multimodal potential
+## Ashok Leyland partners with Drivn for EV financing
+The partnership aims to make e-truck ownership more accessible by offering flexible, customised financing, leasing, and fleet ownership solutions to customers, a company release said
 
-## Govt mulls curbing use of cane for ethanol to tame record-high sugar market
-Reduced rainfall in Maharashtra and Karnataka has raised concerns about next year’s sugar output, sources said
+## Acumatica opens GCC in Hyderabad
+The centre will expand into additional disciplines and support continued regional growth
+
+## India diversifies energy sourcing amid geopolitical risks; taps 15 countries for LNG, 41 for crude
+India is expanding its energy import portfolio for both LNG and crude oil, striving to diminish reliance on any singular market or transport path. Additionally, the government is boosting domestic crude oil storage with new infrastructure. These strategies equip India to better handle supply interru
 
 ## ONGC, Shell Energy India sign MoU to explore deepwater blocks, LNG sourcing opportunities
 ONGC and Shell Energy India have entered into a memorandum of understanding to collaboratively delve into potential joint ventures. Their focus will be on assessing opportunities in deepwater and ultra-deepwater oil and gas exploration, alongside investigating LNG sourcing alternatives to bolster In
@@ -87,32 +96,32 @@ The Indian Rupee started the week on a weaker note against the US dollar, influe
 ## Top stocks to buy: Stock recommendations for August 10, 2026 week - check list
 Stock market recommendations: Motilal Oswal Wealth Management Research Desk has identified Happy Forgings and Siemens Energy as the top stocks to buy for the week starting August 10, 2026. Let’s take a look:
 
-## Gold, silver prices may continue rally; US inflation, Iran tensions and more in focus
+## Bangladesh urges faster extradition for Hasina as Indian envoy meets PM Tarique
+“Bangladesh hopes that India will expedite the process of extraditing Sheikh Hasina,” said the readout issued in Bengali
 
+## 8 injured in firing along Assam-Arunachal border, Himanta calls it local issue
+The incident happened at Mingmang Badati area under the Gogamukh Revenue Circle of Dhemaji district along the Assam-Arunachal border
 
-## ‘Narendra, the name feared in Pakistan’: Sports minister Mandaviya reacts to boxer’s anecdote for PM Modi
-Mansukh Mandaviya’s post came after boxer Narender Berwal recalled what a Pakistani opponent told him after a 2015 bout, leaving PM Narendra Modi laughing
+## Rain lashes Delhi as IMD issues yellow alert across capital, NCR
+The weather department had also forecast very light to light rain for Wednesday and Thursday, with further spells expected later in the week.
 
-## 11 members of family swept away in Madhya Pradesh; eight bodies recovered
-Police said the family was travelling from Dewas to Kadnavad village in Sarangpur for a religious visit when a van they were travelling in was swept away
+## 'Pushpa' joins PSC-JSSC aspirants' Ranchi protest, says 'Jharkhand ke students jhukenge nahi'
+The protester said he had adopted the character's style to draw attention to the Jharkhand students' demands.
 
-## BJP vs Muslim League: ‘Don’t provoke us,’ Rajeev Chandrasekhar warns IUML over Savarkar row
-The BJP and the Indian Union Muslim League have clashed in Kerala over the Savarkar controversy and Vande Mataram row.
+## 8 injured in Assam-Arunachal border firing; situation 'almost resolved', says CM Sarma
+An official clarified that the incident occurred when the miscreants from across the border opened indiscriminate fire targeting the Assam residents.
 
-## ‘Suvendu executed it’: Abhishek Banerjee's ‘state-sponsored’ claim after Mamata's car attacked
-This came a day after protests erupted over Mamata Banerjee's visit to Bizpur to meet the family of a deceased TMC worker.
+## ‘Use of force against students is wrong’: Rahul Gandhi speaks on Jharkhand protest crackdown
+“The Jharkhand government must continue to hear these students out and resolve their issues immediately,” Congress leader Rahul Gandhi posted on X.
 
-## Air India flight turbulence: Pilot body issues advisory, seeks confidentiality
-The Airline Pilots’ Association of India said a non-negative screening result is a preliminary flag pending confirmatory laboratory testing and review
+## The Mecca defence pact: A new Sunni bloc or a strategic tool against India?
+By locating the agreement in Mecca and framing it around Sunni-majority states, the bloc can be interpreted as a religiously infused security grouping.
 
-## Newly-hired guard rapes woman on terrace in Ahmedabad, shot during bid to snatch cop's gun
-After the crime came to light, the police apprehended the accused within hours using CCTV tracking.
+## MoRTH mandates automatic load covers for tippers, dumpers from April 2027
+The new rules also require an audio-visual alert in the driver’s cabin. The system must warn the driver if the load-body cover is open
 
-## Protesting Jharkhand students face lathi charge, tear gas, water cannon during march to assembly
-Several protesters claimed they were injured in the police action. The police said a section of the protesters turned violent and pelted stones at the forces.
-
-## Ex-JPSC head arrested, police vs protesters in Jharkhand assembly march: 5 key developments amid student stir
-Jharkhand CID arrested L Khiangte, former chairperson of the state public service commission, over alleged irregularities in the recruitment examinations.
+## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
+Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
 
 ## Hong Kong trophy-home demand runs deep, as Stanley luxury sale tops US$19m
 A buyer with the same name as the founding chairwoman of a global immigration consultancy has bought a detached house in a luxury residential development in southern Hong Kong for over US$19 million, adding to a string of big-ticket deals as demand for trophy homes remains resilient despite a broade
@@ -135,17 +144,14 @@ For decades, Hong Kong has been a magnet for the rich. From wealthy Chinese sett
 ## What makes McDonald’s assets stand out amid a weak Hong Kong retail property market?
 One year after McDonald’s began selling its self-owned Hong Kong shops, the fast-food giant has found buyers for nearly half its portfolio even as the city’s retail property market endures its weakest spell in decades. McDonald’s planned to dispose of all 23 shops in phases, market sources said, wit
 
-## DFI navigates ‘hardest’ market China as 7-Eleven stores profit despite online price wars
-For international retailers like DFI Retail Group, which operates 7-Eleven and Maxim’s in 12 global markets, mainland China is a tough market to crack given its “unsustainable” online subsidies, according to an executive. “I think customers in China still have a very value-focused, careful use of th
-
 ## Europe’s Summer of Nightmares
 Punishing heat and wildfires have cost billions and displaced hundreds of thousands of people.
 
 ## Dismantling the ICC Doesn’t Serve U.S. Interests
 The Trump administration’s campaign against the court is transparently cynical.
 
-## Todd Blanche’s Confirmation Would Have Been A Scandal in 1973
-Nixon’s “Saturday Night Massacre” triggered nationwide outage—and a firewall which is now gone.
+## Todd Blanche’s Confirmation Would Have Been a Scandal in 1973
+Nixon’s “Saturday Night Massacre” triggered nationwide outage—and a firewall that is now gone.
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -234,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses
-Al Jazeera is given rare access to one of Ukraine's long-range drone units tasked with targeting Russia.
+## Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
+Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 
-## UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch
-As Champions League and Europa League winners face off, here is everything to know on the venue, history and more.
+## Why choosing low-fat dairy is not necessarily better for your health
+For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.
 
-## Protesters rally in India’s Jharkhand over alleged exam irregularities
-Demonstrators in Ranchi demand an overhaul of ‌the state's examination system.
+## Nigel Farage vows to deport foreign criminals from UK prisons
+Nigel Farage vows to deport foreign criminals from UK prisons
 
-## Remembering Anas, Mohammed and Gaza’s other slain journalists
-Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they've paid a heavy price.
+## One million evacuated as Typhoon Dolphin pummels east China: What we know
+Hundreds of flights have been grounded in China due to weather conditions caused by Dolphin.
 
-## What’s behind Trump’s shift to economic pressure on Iran? Will it work?
-Months into the war, Trump is returning to squeezing Iran's economy rather than military offensive for now.
+## Has the army turned the page on control of western Sudan?
+Sudan's military repels a series of offensives by the RSF paramilitary in a strategically significant region.
 
-## Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings
-Typhoon Dolphin struck eastern China, affecting millions with strong winds, heavy rain, and massive waves.
+## Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports
+Investment reportedly values the club at about $5.9bn, making it one of the largest ever football club valuations.
 
-## At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk
-A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.
+## Taiwan holds military drills to prepare for invasion by China
+Taiwan holds military drills to prepare for invasion by China
 
-## June and July hottest on record in Western Europe, monitor says
-The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.
+## Former MP opens fire in Thailand’s second shooting within days
+A second shooting has occurred in Thailand within days after a former MP opened fire outside a government office.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
