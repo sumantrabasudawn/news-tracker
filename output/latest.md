@@ -1,7 +1,16 @@
 # AION Intelligence
 
+## Glencore-backed group looks to rescue cobalt refiner Sherritt
+New consortium is the second major investor aiming for control of North America’s only cobalt refinery
+
+## Ukraine needs more help in the battle of the sky
+Kyiv is short of interceptors to withstand Russia’s ballistic missile attacks
+
 ## Wall Street giants partner with Nvidia on $500bn AI financing deal
-Apollo, Blackstone and Goldman Sachs are among groups working with the chipmaker to raise capital for data centre boom
+Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
+
+## FanDuel and DraftKings hedge their bets with a predictions pivot
+Branching into predictions has charms for sportsbook operators that aren’t just defensive
 
 ## Colombian earthquake kills at least 47
 7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales
@@ -15,17 +24,14 @@ Sea temperature records broken for month of July, Copernicus report reveals
 ## The ICC is all the women of Afghanistan have left
 Trump’s vow to dismantle the international court will inaugurate a new era of impunity
 
-## Shein IPO pitched to investors at sub-$30bn valuation
-Fast-fashion retailer has suffered a roughly 70% drop in valuation over past four years
-
-## Yen sinks as effect of US-Japan intervention fades
-Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks
-
-## Comms trouble
-Criticism of the Fed’s new communications strategy has been pointed
+## AI will boost oil and gas production more than green energy, report finds
+Debate over tech impact on greenhouse gas emissions stoked by latest study
 
 ## Jeff Bezos investor group closing in on Liverpool FC stake
 Consortium led by son-in-law of steel billionaire Lakshmi Mittal nears deal that could value club at over $6bn
+
+## Shein IPO pitched to investors at sub-$30bn valuation
+Fast-fashion retailer has suffered a roughly 70% drop in valuation over past four years
 
 ## Just how big is the hidden leverage of AI hyperscalers?
 Very
@@ -33,14 +39,8 @@ Very
 ## Barrick and Newmont gold mining truce clears way for IPO
 Disagreement between top miners over Nevada joint venture had served as block to spin-off
 
-## Start-up bank backed by Palmer Luckey set to raise $1.5bn
-Funding values Erebor at $8bn, underscoring growth of lender supported by Silicon Valley investors
-
-## John Lewis boss Peter Ruis steps down amid ‘really tough’ trading
-Department store’s managing director leaves less than three years after taking up position
-
-## Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models
-Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
+## Colombia earthquake: 7.4-magnitude quake kills at least 69, buildings collapse
+The epicentre was near San José del Palmar in Chocó, while tremors were felt in neighbouring Ecuador and Panama
 
 ## MEPZ SEZ approves investment worth ₹443 crores
 Approvals expected to create 2,427 jobs across manufacturing, IT and logistics
@@ -62,9 +62,6 @@ Sugarcane acreage lowered to 58.31 lakh hectares, area under paddy down 4.3% as 
 
 ## Natural gas: Trend unclear
 A breakout of ₹270 can open the door for a rally to ₹290. Note that there is a minor hurdle at ₹275
-
-## Vodafone Idea pares Q1 losses by 43%
-Delivered on all critical business parameters, says CEO Abhijit Kishore
 
 ## Ethanol or EVs? India needs both for cleaner mobility, says IFGE
 
@@ -90,6 +87,12 @@ India is expanding its energy import portfolio for both LNG and crude oil, striv
 ## ONGC, Shell Energy India sign MoU to explore deepwater blocks, LNG sourcing opportunities
 ONGC and Shell Energy India have entered into a memorandum of understanding to collaboratively delve into potential joint ventures. Their focus will be on assessing opportunities in deepwater and ultra-deepwater oil and gas exploration, alongside investigating LNG sourcing alternatives to bolster In
 
+## Sourav Ganguly, wife Dona Ganguly receive death threat letters, cops begin probe
+The matter came to light after Sourav’s secretary approached Thakurpukur police station to register a complaint.
+
+## Sourav Ganguly, wife Dona Ganguly receive death threat letters, cops begin probe
+The letters had allegedly been arriving in the former BCCI president's name for around six months, but were initially not taken seriously.
+
 ## ‘No firing at Jantar Mantar’: Nadda slams Rahul Gandhi; claims Congress leader ‘changing goalpost’
 Accusing the LoP in Lok Sabha of “running away from discussion”, JP Nadda accused Rahul Gandhi of “disrupting” Parliament for the last 15 days.
 
@@ -107,12 +110,6 @@ Authorities have advised residents and travellers to avoid the route and postpon
 
 ## Suvendu meets wife of deceased TMC worker; promises job, ex-gratia of ₹10 lakh
 A political row erupted on Saturday after a local Halisahar TMC leader died in police custody. His arrest was based on an August 1 complaint
-
-## Airbus team to assist AAIB probe into Air India Phuket-Delhi turbulence case
-Air India flight AI 2379, operating from Phuket to Delhi on August 4, experienced a sudden loss of altitude of around 300ft during cruise.
-
-## Bombay HC directs Amazon to hand over expired goods to Maharashtra FDA for disposal
-Amazon Retail India moved the HC after the FDA took action against its warehouse in Bhiwandi, Thane, for allegedly sending expired food into the retail market.
 
 ## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
 Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
@@ -138,6 +135,9 @@ For decades, Hong Kong has been a magnet for the rich. From wealthy Chinese sett
 ## What makes McDonald’s assets stand out amid a weak Hong Kong retail property market?
 One year after McDonald’s began selling its self-owned Hong Kong shops, the fast-food giant has found buyers for nearly half its portfolio even as the city’s retail property market endures its weakest spell in decades. McDonald’s planned to dispose of all 23 shops in phases, market sources said, wit
 
+## Ukrainians Are Trying to Help a Traumatized Generation
+From refugees to abducted children, Russia has wreaked havoc on young Ukrainians.
+
 ## Europe’s Summer of Nightmares
 Punishing heat and wildfires have cost billions and displaced hundreds of thousands of people.
 
@@ -159,32 +159,32 @@ After Hormuz, global waterways will return to being sites of bloody contention.
 ## There’s No Going Back
 Thomas Wright on the post-Cold War order.
 
-## An ‘Odyssey,’ From a Dog’s Perspective
-Plus, a satire about a Nigerian on holiday, and more international fiction in August.
+## The Mecca Pact Extends Pakistan’s Security Role Westward
+Six months ago, it was unclear whether trilateral discussions between Pakistan, Saudi Arabia, and Turkiye would produce a formal agreement. They now have.
 
-## Myanmar Nationals Face Deportation From US After Court Ruling
-The ruling follows a Supreme Court decision in June that limited courts' ability to challenge TPS designations.
+## Austria Says No to the Tajik Government
+In Vienna, judges have now rejected four names from Dushanbe's 18-person extradition dossier.
 
-## The Quiet Vietnamese
-Landlocked Laos needs counterweights to its massive neighbor, China, if is to avoid being paralyzed by debt. The most obvious choice is Vietnam.
+## The China-Russia-North Korea Authoritarian Axis Looms Over Wars in Ukraine and Iran
+Taiwan and other Indo-Pacific targets could be next.
 
-## Myanmar Rejects ASEAN Call for Suu Kyi’s Release, Questions Need For Special Envoy
-The military-backed government is pushing for full readmission to ASEAN, while rejecting outright the bloc’s Five-Point Consensus initiative.
+## Samsung, SK Hynix Tests of Chinese Chip Tools Expose Cracks in US Export Strategy
+South Korean chipmakers are evaluating Chinese equipment as a hedge against shifting export rules from Washington.
 
-## The Murder of a Uyghur in America Spotlights the Dangers for the Diaspora
-China’s transnational repression is real, and host governments themselves are now playing a role in pressuring Uyghur communities.
+## Sheikh Hasina’s Media Event in India Hits Bangladesh-India Ties
+By giving the deposed Bangladeshi PM a platform to lash out at the present regime from Indian soil, India has signaled that it still stands with its old friend.
 
-## The Iran-US War a Win for China? Not So Fast.
-The war is also creating strategic opportunities for Washington and new challenges for Beijing in the Middle East.
+## Southeast Asia’s Border Disputes: Wars in Waiting?
+The region's maritime borders are hotly contested, but on land there's the real risk of conflict, too.
 
-## China’s Asian Affairs Reshuffle
-The elevation of a former ambassador to Mongolia signals a shift in diplomatic execution – but the change can only go so far.
+## Bangladesh Joins Saudi-led Defense Coalition as Bab el-Mandeb Risks Grow
+Bangladesh says that joining the Saudi-led defense coalition does not pose a threat to its relations with Iran.
 
-## Hopes for the North Korean Human Rights Act of 2026
-The North Korean Human Rights Act of 2004 expired in 2022. An important bipartisan effort seeks to reauthorize it.
+## Why Pakistan Is Pleased With Its Counterterrorism Dialogue With the US
+If the early rounds of talks focused on terror threats to U.S. security, the last two rounds included discussion of the BLA and TTP – threats to Pakistan’s security.
 
-## India’s Climate Stress and the Solar Power Paradox
-Rising demand will keep coal the backbone of India’s power grid in the coming years. This buys time for executing an energy transition, if India can see through its plans.
+## Is Ukraine Drifting Towards Groupthink on European Integration?
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## What America Learned About Democracy When It Gained Stealth
 Editor’s note: This is the seventh article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sel
@@ -206,9 +206,6 @@ Welcome to The Adversarial. Every other week, we’ll provide you with expert an
 
 ## Does Latent Nuclear Deterrence Really Work?
 In 2025, Matthew Fuhrmann wrote, “U.S. Allies and Adversaries Are Attempting Nuclear Deterrence Without Weapons – Will It Work?,” where he argued countries don’t always need to go as far as actually building nuclear weapons to reap the benefits of nuclear deterrence. A year later, we asked Matthew t
-
-## The Arsenal and the Statehouse: New Defense Firms, Venture Capital and State Industrial Policy
-When Anduril announced a $910 million drone production facility in Ohio, it was not politics as usual. The main message came from Ohio’s governor, Mike DeWine, while Representative Mike Carey’s press release thanked the governor. Members of Congress usually take substantial credit for defense indust
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Palestinian club football to restart in September after Gaza war suspension
+Palestinian sports leagues, including professional football, were halted due to Israel's genocidal war on Palestinians.
+
+## Iran’s president says Khamenei is in ‘perfect health’
+Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”
+
+## Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead
+Officials say at least 69 people have been killed in the quake, with some still trapped under rubble.
+
+## Photos: 7.4-magnitude earthquake rocks western Colombia
+A powerful earthquake kills more than 47 people and topples buildings across western Colombia.
+
 ## DRC’s Ebola outbreak began months before it was officially declared, says WHO
 Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.
 
@@ -245,18 +254,6 @@ Al-Burhan engaged in discreet consultations aiming to pave the way for a compreh
 
 ## ‘They need each other’: What’s behind the new Syria-Russia accord?
 The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.
-
-## Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter
-10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.
-
-## Oil prices, stocks surge as Hormuz closure drags on
-US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.
-
-## Earthquake with 7.4 magnitude hits Colombia, killing at least 47
-Emergency teams are still assessing the impact of the quake that was felt across the region.
-
-## Indian police attack protesters seeking action over ‘exam irregularities’
-Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
