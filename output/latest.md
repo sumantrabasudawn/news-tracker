@@ -19,7 +19,7 @@ Iranian rhetoric hardens amid push to seal deal between Islamic republic and Oma
 Clacton poll unlikely to settle serious questions over Reform UK leader, while a solar eclipse promises an economic lift
 
 ## Syria makes deal to take control of Russian bases
-Strategic blow for Moscow as Trump moves closer to Syrian regime
+Strategic blow for Moscow as Trump moves closer to Damascus regime
 
 ## Trump is dismantling US guardrails, warn former security officials
 Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy
@@ -39,77 +39,83 @@ UK’s biggest DIY investment platform calls employees back to the workplace thr
 ## Investors return to European stocks as strong earnings lift Iran war gloom
 Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter
 
-## AI may redraw India’s IT services map; 20-25% of firms could struggle to cross over, says Nasscom chief
-Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth
+## Nifty, Sensex set for flat opening amid CAS rollout
+Asian stocks rule firm in early deal
 
-## Tomato, onion, potato prices push up July veg thali cost; annual food bill still lower
-Veg thali rises 4 per cent in July as tomato prices jump; lower vegetable and broiler prices keep both veg and non-veg thalis cheaper than a year ago
+## Sensex today | Stock Market Live: Stock to buy today: PhysicsWallah
+Sensex, Nifty, Share Prices Live: The trend has been up for the stock of PhysicsWallah since March. While it recently witnessed a correction in price, the chart shows formation of a new base at ₹123, where the 50-day moving average coincides. We expect the scrip to witness a fresh leg of rally on th
 
-## IN-SPACe invites private operators for new space port in Thoothukudi
-The new spaceport is also expected to bolster India’s private launch capabilities
+## What brokerages say on Dhoot Transmissions IPO that opens today at ₹829-871
+Bain Capital backed company raised ₹918.27 crore from anchor investors
 
-## Editorial. Strategic reforms
-Focus on small ticket disinvestment is paying off
+## Molbio Diagnostics IPO: What Brokerages say: Buy or avoid?
+Issue opens today at Rs 768-807 price band
 
-## F&O Query: Analysis of BSE and Lupin futures
+## 20 stocks in focus today: Signature Global, IndusInd Bank, pharma, railway and power counters
+From Signature Global’s ₹920-crore construction contracts to IndusInd Bank’s RBI approval for a stockbroking subsidiary, today’s watchlist features major updates across real estate, banking, pharma, railways and clean energy, with NBCC, RITES and Emcure Pharma also in focus.
 
-
-## bl Changemaker Awards: Jury to meet on Monday
-The eighth edition of the awards will be held on September 22 in New Delhi
-
-## Below the Line
+## Why Indians are ageing faster than they realise
 
 
-## Gulliver and the Lilliputians
-Ridicule by a thousand memes could lay the BJP low but they won’t
+## Power flow yoga, detox rituals, and the art of letting go
+Diary of daily fitness
 
-## Clean power push: India hits 300 GW non-fossil capacity milestone ahead of 2030 target
-India has now achieved over 300 GW of non-fossil fuel electricity generation capacity. This significant milestone represents more than half of the nation's total installed power capacity. Solar power leads this expansion, followed by wind and hydro energy sources. The country aims to reach 500 GW of
+## Preventing accidental overdosing on chewable pet tablets
 
-## '$200 billion market in 15 countries': Here's what India can do if US slaps 100% tariffs
-As the US contemplates imposing substantial tariffs on Russian crude, India is strategically exploring alternative markets to bolster its exports. With fifteen potential markets worth an impressive two hundred billion dollars, Indian exporters are adapting to global challenges. In contrast to the US
 
-## Gold, silver prices may rise next week as US inflation data, Gulf tensions guide markets
-Gold and silver prices are expected to remain firm next week. Investors will track inflation data from major economies and West Asia developments. Upcoming Chinese economic data will also be important for industrial metals. Analysts predict gold and silver will trade with a positive bias. Volatility
+## Maruti Suzuki chairman seeks faster reforms
 
-## Crude, Hormuz & more: What will drive stock market this week
-This week, Dalal Street will closely observe global geopolitical shifts and local economic data. Investors will pay attention to fluctuations in crude oil prices and news from the Strait of Hormuz. In addition, important domestic inflation figures and updates on foreign exchange reserves are on the 
 
-## IPO bonanza: 5 firms to raise over Rs 7,400 crore this week
-A bustling week looms for India's primary market as five companies gear up to unveil their IPOs, collectively aiming to gather an impressive Rs 7,443 crore for diverse corporate initiatives. Dhoot Transmission and Molbio Diagnostics set to kick off on August 10, while Milky Mist Dairy Food and Shipr
+## Government mulls raising CCEA approval threshold for FDIs
 
-## Centre weighs 200% increase in foreign investment approval threshold
-India's government is considering raising the foreign investment approval threshold significantly. This move aims to attract larger overseas investments and simplify the process. The current Rs 5,000 crore limit has been in place since 2015. Changes to downstream investment rules are also being expl
 
-## Market recap: Four of top 10 firms add Rs 1.43 lakh crore; SBI bags biggest gains
-Dalal Street wrapped up last week on a high note, showcasing impressive gains among leading firms. State Bank of India saw a remarkable surge in its market value, joining industry giants Reliance Industries and TCS, which also experienced robust growth. Conversely, several other major companies face
+## ‘Compliances major friction point for companies’
 
-## India’s markets have strong domestic cushion, but global risks loom: Sebi
-India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, las
+
+## Oil price today: Brent crude jumps over 1% as traders await Hormuz reopening
+On Monday, oil prices surged amid ongoing uncertainty surrounding the reopening of the Hormuz Strait. While Iran and Oman are closing in on an agreement for a shipping lane, Iran's demands for concessions from the U.S. linger. Adding to market tensions, Houthi rebels targeted Saudi Aramco's Jazan re
+
+## Smaller, leaner GCCs reshape India’s engineering playbook
+
+
+## Spooked by CAS, retail traders call for boycott
+
+
+## Foreign funds invest 12.9k cr in Aug 1st week
+
+
+## CERT-In: Cyber threats for fin, healthcare stay elevated
+
+
+## 'Strongly reconsider': Hyderabad law university students object to CJI Surya Kant's invite for convocation
+Students have raised their objection, citing the refusal of an SC bench, led by CJI, to hear a plea regarding the alleged police brutality against protesters.
+
+## ‘May appease BJP, avoid’: KC Venugopal on Shashi Tharoor's remarks on Rahul Gandhi's youth outreach campaign
+After Shashi Tharoor's remarks, KC Venugopal said the BJP would be “delighted” if someone finds fault with Rahul Gandhi or says anything negative about him.
+
+## AAIB probing turbulence-hit Phuket-Delhi Air India flight, pilot's dope test results awaited: Govt
+AAIB is investigating the Air India Phuket-Delhi turbulence incident after it was classified as serious, while the pilot’s screening result awaits confirmation
+
+## Protests in Visakhapatnam, Thane against mega data centres over water, public resources; Amazon, Google respond
+AI data centre projects in India, backed by Google-Adani and Amazon, have started facing scrutiny from residents over their environmental and social costs.
+
+## Jharkhand student protests: Govt says 98% demands accepted, students call claim ‘lies’, plan Vidhan Sabha march today
+Negotiations between Jharkhand officials and student protesters are stalled as demands for canceling the JSSC CGL exam remain unmet.
+
+## Amit Shah likely to table bills to change Kerala's name, expand NCDC financing powers in Lok Sabha today
+Amit Shah is scheduled to present two bills in the Lok Sabha: one to rename Kerala as Keralam and another to enhance NCDC's financing powers.
+
+## ‘False, fabricated, politically motivated’: Delhi court on sexual harassment case against Brij Bhushan Singh
+A Delhi court last week acquitted former BJP MP from Uttar Pradesh Brij Bhushan Singh for lack of evidence, two years after the trial began.
 
 ## Four detained in UP's Bareilly as police raid shops selling non-veg food on Kanwar Yatra route
 This came after authorities had directed traders not to sell meat, chicken, fish and other non-vegetarian food along the routes to be travelled by Kanwariyas.
 
-## 'Pellet guns strictly for...': Ranchi police 'fully prepared' as Jharkhand students announce ‘Vidhan Sabha gherao’
-Ranchi City SP Paras Rana said precautionary force deployment would be carried out effectively as a large number of students are expected.
+## As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?
+For decades, Hong Kong has been a magnet for the rich. From wealthy Chinese setting up family trusts to millionaires migrating from across Southeast Asia, all of them have been sucked in by the city’s promise of free capital flows, a trustworthy legal system and extensive financial expertise. It is 
 
-## Right-wing commentator Mohandas taken into custody over remarks on NEET protest
-A team from Thiruvananthapuram Cyber Police Station, which is probing the case, reached Mohandas' residence at Koovappadam near Mattancherry on Sunday evening
-
-## Adhikari orders probe into cremation of RG Kar rape-murder victim; names 3 TMC leaders
-The memorial event was also addressed by Ratna Debnath, the victim’s mother, who won the Panihati assembly seat in May
-
-## Govt extends ED director Rahul Navin's tenure by a year
-The extension will continue beyond his scheduled retirement on July 31, 2027, according to the government order
-
-## BSF firing kills Bangladesh national in Tripura during alleged smuggling attempt
-The Bangladeshi national, suspected of involvement in smuggling Burmese cigarettes, was allegedly carrying out smuggling activities at midnight on Saturday
-
-## CID probe, fast-track courts: Jharkhand govt's promises to student protesters; minister says ‘98% demands met’
-The Jharkhand government on Sunday began fresh talks with the students after three days of inconclusive meetings.
-
-## 'Cheer 4 Bharat': PM Modi meets CWG medal winners, shares new video
-PM Modi also shared a short video of his interaction with the athletes on Instagram, calling the meeting a special occasion.
+## What makes McDonald’s assets stand out amid a weak Hong Kong retail property market?
+One year after McDonald’s began selling its self-owned Hong Kong shops, the fast-food giant has found buyers for nearly half its portfolio even as the city’s retail property market endures its weakest spell in decades. McDonald’s planned to dispose of all 23 shops in phases, market sources said, wit
 
 ## DFI navigates ‘hardest’ market China as 7-Eleven stores profit despite online price wars
 For international retailers like DFI Retail Group, which operates 7-Eleven and Maxim’s in 12 global markets, mainland China is a tough market to crack given its “unsustainable” online subsidies, according to an executive. “I think customers in China still have a very value-focused, careful use of th
@@ -128,12 +134,6 @@ Chinese start-ups and researchers are racing to bring brain-computer interfaces 
 
 ## Derelict cinema on scenic Hong Kong island up for auction with a US$1 million price tag
 Peng Chau Cinema, an Instagrammable spot for tourists on an outlying Hong Kong island, will be auctioned off in mid-August at a valuation 30 per cent below estimation after almost 40 years of abandonment – a dormancy lengthy enough to fuel dark rumours among some residents. The former cinema is curr
-
-## Global pharma giants turn to Chinese biotech to tap innovation, valuation growth
-Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summit, which concluded in Hong Kong on Saturday. “Multinational pharmaceutical companies are shifting t
-
-## Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report
-Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – national capital Beijing, financial centre Shanghai and southern Guangdong province, a technology and expor
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
@@ -231,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition
+Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.
+
+## Houthis launch fresh ballistic missile and drone attacks on al-Makha port
+Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.
+
+## Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?
+Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.
+
+## Houthis renew missile and drone attacks on Yemen’s port of al-Makha
+The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.
+
+## Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan
+Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.
+
 ## F-16s intercept two aircraft near Trump’s New Jersey golf club
 F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.
 
 ## Union reports 108 attacks on Palestinian journalists in July
 Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.
 
-## What’s driving unrest in Pakistan-administered Kashmir?
-Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera's Ava Warriner explains.
-
 ## Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found
 Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.
 
-## Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace
-‘We're going backwards.’
-
-## Israel is ‘trying to make Palestine disappear’: The Elders
-Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.
-
-## Can the Doha Framework end the conflict in eastern DRC?
-Kinshasa hands over 15 prisoners to powerful rebel alliance.
-
-## Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
-Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.
+## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
+EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
@@ -275,9 +278,6 @@ Governor says 6.7% FY27 growth forecast is an estimate; RBI to look through food
 
 ## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
 Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
-
-## Joint panel seeks to curb NFRA's powers, backs lower penalties and greater government oversight
-A parliamentary committee proposed limiting the National Financial Reporting Authority's powers. It also recommended reducing proposed penalties and preserving government oversight. The panel backed decriminalizing business laws and rationalizing penalties for non-compliance. It cautioned against re
 
 ## India amends FDI rules to boost e-commerce for small businesses, artisans, farmers, and fishermen: Union Minister Piyush Goyal
 India has amended foreign direct investment regulations to boost e-commerce trade. These changes will help small businesses, artisans, farmers, and fishermen access wider markets. BRICS ministers discussed enhancing trade, investment, and industrial cooperation among member nations. Discussions also
