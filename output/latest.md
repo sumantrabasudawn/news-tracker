@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Colombian earthquake kills at least 111
+7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales
+
 ## Glencore-backed group looks to rescue cobalt refiner Sherritt
 New consortium is the second major investor aiming for control of North America’s only cobalt refinery
 
@@ -11,9 +14,6 @@ Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to 
 
 ## FanDuel and DraftKings hedge their bets with a predictions pivot
 Branching into predictions has charms for sportsbook operators that aren’t just defensive
-
-## Colombian earthquake kills at least 47
-7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales
 
 ## Jacaranda by Gaël Faye — after the genocide
 An award-winning novel moves between France and Rwanda to explore a national trauma through exile, silences and family secrets
@@ -135,6 +135,9 @@ For decades, Hong Kong has been a magnet for the rich. From wealthy Chinese sett
 ## What makes McDonald’s assets stand out amid a weak Hong Kong retail property market?
 One year after McDonald’s began selling its self-owned Hong Kong shops, the fast-food giant has found buyers for nearly half its portfolio even as the city’s retail property market endures its weakest spell in decades. McDonald’s planned to dispose of all 23 shops in phases, market sources said, wit
 
+## Netanyahu Nixes Trump’s Gaza Deal
+Another weekend with no resolution to the Middle East’s wars.
+
 ## Ukrainians Are Trying to Help a Traumatized Generation
 From refugees to abducted children, Russia has wreaked havoc on young Ukrainians.
 
@@ -155,9 +158,6 @@ Social callousness pushes even the prosperous to seek new lives overseas.
 
 ## The Straits Are Not OK
 After Hormuz, global waterways will return to being sites of bloody contention.
-
-## There’s No Going Back
-Thomas Wright on the post-Cold War order.
 
 ## The Mecca Pact Extends Pakistan’s Security Role Westward
 Six months ago, it was unclear whether trilateral discussions between Pakistan, Saudi Arabia, and Turkiye would produce a formal agreement. They now have.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US
+US Rep. Nancy Mace clashed with CNN's Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan.
+
+## Migrant children go days without food in Ceuta amid asylum crisis
+A surge of migrant children and families remained in makeshift shelters in Ceuta, Spain’s North African enclave.
+
+## 111 dead after Colombia quakes leave trail of destruction
+At least 111 people are dead after a destructive 7.4 magnitude earthquake hit western Colombia.
+
+## Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh
+Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.
+
+## Netanyahu’s veto and the limits of American power
+Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.
+
+## Iran hierarchy consolidation as IRGC veteran tapped for key security role
+The office of the supreme leader has named a new security chief and established war commanders in influential roles.
+
 ## Oman trying to contain extensive oil spill from stricken tanker
 The Caroline Bezengi is believed to be part of Russia's 'shadow fleet' that Moscow uses to circumvent Western sanctions.
 
 ## Zuckerberg’s yacht crew did not hear call for help, says spokesperson
 A skiff off Alaska coast received help from a nearby cruise ship after Zuckerberg's yacht crew did not respond in time.
-
-## Palestinian club football to restart in September after Gaza war suspension
-Palestinian sports leagues, including professional football, were halted due to Israel's genocidal war on Palestinians.
-
-## Iran’s president says Khamenei is in ‘perfect health’
-Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”
-
-## Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead
-Officials say at least 69 people have been killed in the quake, with some still trapped under rubble.
-
-## Photos: 7.4-magnitude earthquake rocks western Colombia
-A powerful earthquake kills more than 69 people and topples buildings across western Colombia.
-
-## DRC’s Ebola outbreak began months before it was officially declared, says WHO
-Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.
-
-## ‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan
-Netanyahu's declaration has reinforced doubts of lasting calm without Israeli withdrawal, reconstruction and guarantees.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
