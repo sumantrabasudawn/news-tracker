@@ -1,7 +1,16 @@
 # AION Intelligence
 
+## Trump and the failure of the Fafo doctrine
+The president’s flawed decision-making is finally catching up with him
+
 ## Ukrainian drone strike on oil-refining city in central Russia kills 13
 Death toll one of highest in a single attack by Kyiv since 2022
+
+## Whither Trump’s tariffs?
+Using a patchwork of obscure laws, US officials have set up a series of new probes that could result in fresh duties
+
+## Start-up bank backed by Palmer Luckey set to raise $1.5bn
+Funding values Erebor at $8bn, underscoring growth of lender supported by Silicon Valley investors
 
 ## Revolut wins French banking licence
 Authorisation from regulator accelerates UK-headquartered fintech’s European expansion plans
@@ -15,20 +24,11 @@ Sea temperature records broken for month of July, Copernicus report reveals
 ## Indonesia nominates new central bank governor after market turmoil
 Elevation of veteran technocrat Destry Damayanti comes after previous chief’s sudden resignation
 
-## Farage’s biggest threat is a divided right
-Even if Reform wins in Clacton, the party has a long way to go to cement itself as UK’s only alternative to Labour
-
-## Summary of opinions suggests BoJ set for more tightening
-One rate-setter noted that the central bank could deliver more rate rises than market expectations
-
-## Hong Kong builds its next chapter — and closer ties with China
-Evictions under way in remote rural villages as city strives to reinvent economy
+## Barrick and Newmont gold mining truce clears way for IPO
+Disagreement between top miners over Nevada joint venture had served as block to spin-off
 
 ## John Lewis boss Peter Ruis steps down amid ‘really tough’ trading
 Department store’s managing director leaves less than three years after taking up position
-
-## Barrick and Newmont gold mining truce clears way for IPO
-Disagreement between top miners over Nevada joint venture had served as block to spin-off
 
 ## Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
@@ -42,32 +42,32 @@ Sunrise Energy shares soar after Trump administration provides $400mn loan to de
 ## FirstFT: China sails ‘Ice Silk Road’ to Arctic
 Also in today’s newsletter: Russia’s coercive recruitment and German inward investments
 
-## UK raises cost projections for Palantir’s NHS data platform
-Lifetime charge rises to £1.1bn on ‘increased delivery at scale’ while forecast benefits fall to £808mn
+## Eye on FCNR-B deposits: Bank of India plans to raise up to $1 bn via Medium-Term Note programme
+Between June 5, 2026, and July 30, 2026, the public sector bank mobilised $207.46 million via FCNR-B deposits of 3-5 years tenor
+
+## Two CityUHK scholars elected to the European Academy of Engineering in recognition of their internationally acclaimed research achievements
+Two CityUHK scholars elected to the European Academy of Engineering in recognition of their internationally acclaimed research achievements
+
+## Monika Alcobev appointed as Rémy Cointreau's exclusive partner across India
+Monika Alcobev appointed as Rémy Cointreau's exclusive partner across India
+
+## Q1 Results Today Live: Bharat Forge shares tank after Q1 loss, Kwality Pharma, Ramco Industries Q1 PAT up, Hindustan Copper PAT down q-o-q, AstraZeneca, Info Edge & Astra Microwave profit dip, Vi, Bosch, Lloyds Metals, Gland Pharma, Zee Entertainment, KEC International to announce Q1 results
+Q1 Results Today, 10th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+
+## Benchmarks flatline for third day as crude keeps bulls at bay
+The Nifty 50 gained just 13 points, or 0.05%, to settle at 24,583.80, while the Sensex edged up 43 points, or 0.06%, to close at 78,542.44
+
+## Tamil Nadu raises paddy, sugarcane incentives to record levels
+This is the first time in history that the State government has increased the subsidy amount for paddy by more than ₹156 in a single year, he said.
+
+## Cochin Port plans five-theme redevelopment of Willingdon Island
+Focus on cargo, cruise, shipbuilding, water transport and tourism hubs to revive multimodal potential
 
 ## Govt mulls curbing use of cane for ethanol to tame record-high sugar market
 Reduced rainfall in Maharashtra and Karnataka has raised concerns about next year’s sugar output, sources said
 
-## Sensex today | Stock Market Live: Sensex, Nifty end marginally higher in lacklustre trade; Titan, Bajaj Finance top gainers
-Sensex, Nifty, Share Prices Live: Market benchmark indices end marginally higher on Monday, with the Sensex climbing over 43 points and the Nifty ending flat, amid a spike in crude oil prices due to geopolitical uncertainties
-
-## Broker’s call: Dee Development (Buy)
-Mirae Asset Sharekhan
-
-## Natural gas: Trend unclear
-A breakout of ₹270 can open the door for a rally to ₹290. Note that there is a minor hurdle at ₹275
-
-## Manipal Academy of Higher Education, GHCL sign MoU to develop fuel quality monitoring solution
-The collaboration combines spectroscopy with artificial intelligence and machine learning to deliver a rapid, on-site fuel quality assessment system.
-
-## Ola Electric shares decline 4% after Q1, brokerages split between neutral and sell calls
-Brokerages cautious, citing concerns around volumes, margins, competition and cash flow
-
-## Sky Gold shares jump over 8% after Q1 profit
-Sky Gold shares jumped 13.4% to hit a fresh 52-week high of ₹815.95 on the NSE after the company reported strong growth in its June quarter results
-
-## Q1 Results Today Live: Bharat Forge shares tank after Q1 loss, Kwality Pharma, Ramco Industries Q1 PAT up, Hindustan Copper PAT down q-o-q, AstraZeneca, Info Edge & Astra Microwave profit dip, Vi, Bosch, Lloyds Metals, Gland Pharma, Zee Entertainment, KEC International to announce Q1 results
-Q1 Results Today, 10th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## ONGC, Shell Energy India sign MoU to explore deepwater blocks, LNG sourcing opportunities
+ONGC and Shell Energy India have entered into a memorandum of understanding to collaboratively delve into potential joint ventures. Their focus will be on assessing opportunities in deepwater and ultra-deepwater oil and gas exploration, alongside investigating LNG sourcing alternatives to bolster In
 
 ## Elon Musk net worth 2026: World’s richest person added over $800 million per day
 Between 2025 and 2026, Elon Musk's fortune saw remarkable growth, accumulating billions as a result of SpaceX's impressive stock performance. Despite heightened spending on artificial intelligence initiatives, the company reported solid revenue and significantly reduced losses. The concentration of 
@@ -90,8 +90,11 @@ Stock market recommendations: Motilal Oswal Wealth Management Research Desk has 
 ## Gold, silver prices may continue rally; US inflation, Iran tensions and more in focus
 
 
-## Maruti Suzuki chairman seeks faster reforms
+## ‘Narendra, the name feared in Pakistan’: Sports minister Mandaviya reacts to boxer’s anecdote for PM Modi
+Mansukh Mandaviya’s post came after boxer Narender Berwal recalled what a Pakistani opponent told him after a 2015 bout, leaving PM Narendra Modi laughing
 
+## 11 members of family swept away in Madhya Pradesh; eight bodies recovered
+Police said the family was travelling from Dewas to Kadnavad village in Sarangpur for a religious visit when a van they were travelling in was swept away
 
 ## BJP vs Muslim League: ‘Don’t provoke us,’ Rajeev Chandrasekhar warns IUML over Savarkar row
 The BJP and the Indian Union Muslim League have clashed in Kerala over the Savarkar controversy and Vande Mataram row.
@@ -102,7 +105,7 @@ This came a day after protests erupted over Mamata Banerjee's visit to Bizpur to
 ## Air India flight turbulence: Pilot body issues advisory, seeks confidentiality
 The Airline Pilots’ Association of India said a non-negative screening result is a preliminary flag pending confirmatory laboratory testing and review
 
-## 4 days on job: Ahmedabad security guard rapes woman, flees; later shot in leg after attempting to snatch officer's gun
+## Newly-hired guard rapes woman on terrace in Ahmedabad, shot during bid to snatch cop's gun
 After the crime came to light, the police apprehended the accused within hours using CCTV tracking.
 
 ## Protesting Jharkhand students face lathi charge, tear gas, water cannon during march to assembly
@@ -110,12 +113,6 @@ Several protesters claimed they were injured in the police action. The police sa
 
 ## Ex-JPSC head arrested, police vs protesters in Jharkhand assembly march: 5 key developments amid student stir
 Jharkhand CID arrested L Khiangte, former chairperson of the state public service commission, over alleged irregularities in the recruitment examinations.
-
-## Keeping up with UP: Is abusive language really harmless or needs to be checked
-Prime Minister Narendra Modi spoke about the abusive language and underlined that dragging “misguided children” into court would not resolve the problem
-
-## MEA condemns defacement of Indian Embassy in Slovenia, calls for action against ‘anti-India elements’
-People familiar with the matter said pro-Khalistan elements were behind the defacing of the embassy with anti-India slogans.
 
 ## Hong Kong trophy-home demand runs deep, as Stanley luxury sale tops US$19m
 A buyer with the same name as the founding chairwoman of a global immigration consultancy has bought a detached house in a luxury residential development in southern Hong Kong for over US$19 million, adding to a string of big-ticket deals as demand for trophy homes remains resilient despite a broade
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses
+Al Jazeera is given rare access to one of Ukraine's long-range drone units tasked with targeting Russia.
+
+## UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch
+As Champions League and Europa League winners face off, here is everything to know on the venue, history and more.
+
+## Protesters rally in India’s Jharkhand over alleged exam irregularities
+Demonstrators in Ranchi demand an overhaul of ‌the state's examination system.
+
+## Remembering Anas, Mohammed and Gaza’s other slain journalists
+Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they've paid a heavy price.
+
+## What’s behind Trump’s shift to economic pressure on Iran? Will it work?
+Months into the war, Trump is returning to squeezing Iran's economy rather than military offensive for now.
+
+## Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings
+Typhoon Dolphin struck eastern China, affecting millions with strong winds, heavy rain, and massive waves.
+
 ## At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk
 A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.
 
 ## June and July hottest on record in Western Europe, monitor says
 The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.
-
-## UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan
-Three confederations release letter criticising FIFA's president over his proposal to sell off stakes in the World Cup.
-
-## One year on, Gaza mourns journalist Anas al-Sharif’s death
-Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilians' lives.
-
-## Who is Mohsen Rezaei, and how significant is his appointment?
-Former IRGC commander Rezaei will be taking over as secretary of Iran's top security body amid Hormuz talks.
-
-## Tropical Storm Dolphin batters eastern China with heavy rain, strong winds
-Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days.
-
-## Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare
-World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while stars Naomi Osaka, Coco Gauff progress.
-
-## Anguished locals watch as Israel demolishes homes in southern Lebanon
-Anguished locals watch as Israel demolishes homes in southern Lebanon
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
