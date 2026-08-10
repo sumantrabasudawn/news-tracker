@@ -39,28 +39,37 @@ UK’s biggest DIY investment platform calls employees back to the workplace thr
 ## Investors return to European stocks as strong earnings lift Iran war gloom
 Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter
 
-## Nifty, Sensex set for flat opening amid CAS rollout
-Asian stocks rule firm in early deal
+## Q1 Results Today Live: Vodafone Idea, Bosch, Lloyds Metals, Bharat Forge, Gland Pharma, Zee Entertainment, Hindustan Copper, KEC International to announce Q1 results, Sky Gold, Dynamatic Tech, Quality Power, Anant Raj shares gain after Q1, Kaynes Tech, Ola, Oswal Pumps, Jamna Auto, Apollo Micro shares in red
+Q1 Results Today, 10th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Sensex today | Stock Market Live: Stock to buy today: PhysicsWallah
-Sensex, Nifty, Share Prices Live: The trend has been up for the stock of PhysicsWallah since March. While it recently witnessed a correction in price, the chart shows formation of a new base at ₹123, where the 50-day moving average coincides. We expect the scrip to witness a fresh leg of rally on th
+## Sensex today | Stock Market Live: Sensex gains 41 points, Nifty nearly flat at open; CAS, FPI flows in focus
+Sensex, Nifty, Share Prices Live: Indian markets began the week on a subdued note, with the Sensex edging higher and the Nifty marginally lower. Investors remained cautious amid the new closing auction mechanism, geopolitical risks, foreign inflows and expectations surrounding US inflation data.
 
-## What brokerages say on Dhoot Transmissions IPO that opens today at ₹829-871
-Bain Capital backed company raised ₹918.27 crore from anchor investors
+## Lok Sabha to take up introduction of four key bills, including Tribunals Reforms Bill today
+The session will include discussions on mining regulation amendments, a proposal to rename Kerala, and updates from key committees on financial and infrastructure issues
 
-## Molbio Diagnostics IPO: What Brokerages say: Buy or avoid?
-Issue opens today at Rs 768-807 price band
+## Mahindra Group appoints Shveta Arya as Group Chief Strategy Officer
+Shveta Arya moves to the Mahindra Group from Cummins India, where she was serving as Managing Director
 
-## 20 stocks in focus today: Signature Global, IndusInd Bank, pharma, railway and power counters
-From Signature Global’s ₹920-crore construction contracts to IndusInd Bank’s RBI approval for a stockbroking subsidiary, today’s watchlist features major updates across real estate, banking, pharma, railways and clean energy, with NBCC, RITES and Emcure Pharma also in focus.
+## India bonds may see positive opening, local and US inflation data in focus
+The yield on the benchmark ⁠6.94% 2036 bond is expected to trade in the 6.75% to 6.79% range; India's retail inflation rate will rise to 4.50% in July from 4.38% in June
 
-## Why Indians are ageing faster than they realise
+## What is Unitree and why are China’s humanoid robot makers racing to list?
+Robot maker Unitree has shown that China can make robots comparatively cheaply, and the public market offers robot makers like it the funds to keep developing the technology
+
+## Fading Fed hike bets, RBI backstop blunts oil pressure on rupee
+The rupee is expected to open ‌in the 95.14-95.16 range, per traders, having settled at ‌95.2075 ⁠to the dollar on Friday
+
+## Israel rejects Trump's Gaza plan, more details emerge on Strait of Hormuz and other Mideast news
+Yemen's Iranian-backed Houthi rebels struck a government-held port on the country's Red Sea coast, deepening fears over threats to strategic shipping routes and a potential return to civil war
+
+## Stock market today: BSE Sensex rises 100 points, NSE Nifty50 opens above 25,600
 
 
-## Power flow yoga, detox rituals, and the art of letting go
-Diary of daily fitness
+## Top stocks to buy: Stock recommendations for August 10, 2026 week - check list
+Stock market recommendations: Motilal Oswal Wealth Management Research Desk has identified Happy Forgings and Siemens Energy as the top stocks to buy for the week starting August 10, 2026. Let’s take a look:
 
-## Preventing accidental overdosing on chewable pet tablets
+## Gold, silver prices may continue rally; US inflation, Iran tensions and more in focus
 
 
 ## Maruti Suzuki chairman seeks faster reforms
@@ -78,38 +87,29 @@ On Monday, oil prices surged amid ongoing uncertainty surrounding the reopening 
 ## Smaller, leaner GCCs reshape India’s engineering playbook
 
 
-## Spooked by CAS, retail traders call for boycott
+## T'gana govt's 'Varuna Yagam' seeking bountiful rains begins at Nagarjuna Sagar in Nalgonda district
+T'gana govt's 'Varuna Yagam' seeking bountiful rains begins at Nagarjuna Sagar in Nalgonda district
 
+## Chidambaram slams TN parties for skipping delimitation meet
+Senior Congress leader and former Union home minister P Chidambaram on Sunday said Tamil Nadu lost an opportunity to announce to the world that there is a consensus regarding delimitation, referring to the absence of the opposition parties in the meeting of state MPs called by chief minister C Josep
 
-## Foreign funds invest 12.9k cr in Aug 1st week
+## T’gana govt mulls land pooling for infra works
+The Telangana government is contemplating introducing a comprehensive land pooling policy for acquiring land for infrastructure and development projects, inspired by the land pooling model adopted by the Andhra Pradesh government for its capital city Amaravati, people familiar with the development s
 
+## 24-yr-old Andhra medico succumbs to injuries in hit and run case
+A 24-year-old post-graduate medical student, who sustained critical head injuries after being run over by a car being driven by two inebriated youth at a mall in Andhra Pradesh’s Rajamahendravaram city on August 3, succumbed at a private hospital in Hyderabad on Sunday evening, officials said
 
-## CERT-In: Cyber threats for fin, healthcare stay elevated
+## Basic facilities for all tribal families in remote areas by 2027: CM Naidu
+Andhra Pradesh chief minister N Chandrababu Naidu on Sunday announced that his government is working towards ensuring that every tribal family in the remote forest areas has access to healthcare, safe drinking water and housing by 2027
 
+## 40 injured as bus rams truck, falls down bridge in Andhra
+A total of 40 passengers sustained injuries, some of them critically, after a private bus collided with a truck and plunged off a bridge on the Hyderabad-Bengaluru national highway (NH-44) in Andhra Pradesh’s Anantapur district in the early hours of Sunday, police said
 
-## 'Strongly reconsider': Hyderabad law university students object to CJI Surya Kant's invite for convocation
-Students have raised their objection, citing the refusal of an SC bench, led by CJI, to hear a plea regarding the alleged police brutality against protesters.
+## TG Mohandas detained over remarks on Delhi protestors
+Right-wing commentator TG Mohandas was taken into police custody from his residence in Kochi on Sunday, days after being charged for making provocative comments in a video about the CJP-led protests at Jantar Mantar in Delhi, an officer said
 
-## ‘May appease BJP, avoid’: KC Venugopal on Shashi Tharoor's remarks on Rahul Gandhi's youth outreach campaign
-After Shashi Tharoor's remarks, KC Venugopal said the BJP would be “delighted” if someone finds fault with Rahul Gandhi or says anything negative about him.
-
-## AAIB probing turbulence-hit Phuket-Delhi Air India flight, pilot's dope test results awaited: Govt
-AAIB is investigating the Air India Phuket-Delhi turbulence incident after it was classified as serious, while the pilot’s screening result awaits confirmation
-
-## Protests in Visakhapatnam, Thane against mega data centres over water, public resources; Amazon, Google respond
-AI data centre projects in India, backed by Google-Adani and Amazon, have started facing scrutiny from residents over their environmental and social costs.
-
-## Jharkhand student protests: Govt says 98% demands accepted, students call claim ‘lies’, plan Vidhan Sabha march today
-Negotiations between Jharkhand officials and student protesters are stalled as demands for canceling the JSSC CGL exam remain unmet.
-
-## Amit Shah likely to table bills to change Kerala's name, expand NCDC financing powers in Lok Sabha today
-Amit Shah is scheduled to present two bills in the Lok Sabha: one to rename Kerala as Keralam and another to enhance NCDC's financing powers.
-
-## ‘False, fabricated, politically motivated’: Delhi court on sexual harassment case against Brij Bhushan Singh
-A Delhi court last week acquitted former BJP MP from Uttar Pradesh Brij Bhushan Singh for lack of evidence, two years after the trial began.
-
-## Four detained in UP's Bareilly as police raid shops selling non-veg food on Kanwar Yatra route
-This came after authorities had directed traders not to sell meat, chicken, fish and other non-vegetarian food along the routes to be travelled by Kanwariyas.
+## UP rivers rise after heavy rain; Ganga, Ghaghra, Sharda cross danger mark in 3 districts
+The Yamuna was showing an increasing trend in Mathura, while the Ganga level was rising in Hapur, Farrukhabad, Budaun, Bulandshahr and Fatehpur.
 
 ## As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?
 For decades, Hong Kong has been a magnet for the rich. From wealthy Chinese setting up family trusts to millionaires migrating from across Southeast Asia, all of them have been sucked in by the city’s promise of free capital flows, a trustworthy legal system and extensive financial expertise. It is 
@@ -231,32 +231,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump names Will Scharf as White House counsel ahead of midterms
+Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.
+
+## Brazilian player falls into tunnel celebrating goal
+Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.
+
+## Trump signals shift to economic pressure on Iran over new military strikes
+US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
+
+## Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
+Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.
+
+## Clashes in Iraq’s Kut city during protests over power shortages
+Protests over power shortages escalated in Kut, Iraq, as demonstrators demanded more electricity amid soaring heat.
+
+## Israel confirms death of Palestinian detainee, nearly two years late
+The family of Ihab Diab disputes Israeli claims of health issues, alleging torture was behind his prison death.
+
+## Malaysian PM Anwar Ibrahim undergoes medical procedure
+Malaysia's government says Anwar, 79, is undergoing medical examinations and a procedure advised by his specialists.
+
 ## Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition
 Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.
 
-## Houthis launch fresh ballistic missile and drone attacks on al-Makha port
-Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.
-
-## Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?
-Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.
-
-## Houthis renew missile and drone attacks on Yemen’s port of al-Makha
-The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.
-
-## Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan
-Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.
-
-## F-16s intercept two aircraft near Trump’s New Jersey golf club
-F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.
-
-## Union reports 108 attacks on Palestinian journalists in July
-Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.
-
-## Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found
-Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.
-
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
+
+## REITs set to gain tax flexibility, cash flow boost under new Bill
+Indian REITs could gain greater tax flexibility under the Taxation and Other Laws (Amendment) Bill, 2026, which allows SPVs to opt for concessional corporate tax rates, avoid future MAT and use accumulated MAT credits while retaining tax-exempt dividends for unitholders.
+
+## FPIs turn buyers in IT stocks for first time in 2026, invest Rs 3,358 crore in July
+In July, overseas investors turned their attention to Indian IT stocks, marking the first instance of such purchases this year. The consumer durables and healthcare sectors also witnessed a surge in foreign portfolio investments. By mid-July, foreign investors emerged as net buyers in equities, expa
+
+## FMCG makers plan more price hikes as input costs stay elevated; demand holds strong
+Leading FMCG firms are planning price increases and shrinkflation this quarter. Rising commodity costs and geopolitical issues are driving these necessary adjustments. Companies aim to protect profit margins while maintaining consumer demand and growth. Britannia and Dabur India are among those impl
+
+## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
+While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
@@ -264,20 +276,8 @@ Brics trade ministers finalized their Economic Partnership 2030 strategy and ado
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
 
-## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
-While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
-
 ## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
 In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
-
-## Rupee may strengthen further as tensions ease, says RBI Governor Malhotra; RBI to intervene only against excessive volatility
-RBI Governor Sanjay Malhotra has indicated that the Indian rupee may gain strength if global tensions subside. He emphasized that the bank does not aim for specific exchange rates. In recent weeks, the rupee has made notable gains against the US dollar. The RBI plans to let market dynamics dictate c
-
-## RBI Governor Sanjay Malhotra says India growth may touch 7%; ‘nothing to worry’ on geopolitical shocks
-Governor says 6.7% FY27 growth forecast is an estimate; RBI to look through food and fuel-driven inflation volatility.
-
-## Govt rewrites tax rules to woo global capital; eases offshore fund norms, restores REIT tax neutrality
-Bill extends electronics manufacturing incentives till FY41, simplifies data centre rules and unveils fresh tax relief for government securities and diamond trade.
 
 ## India amends FDI rules to boost e-commerce for small businesses, artisans, farmers, and fishermen: Union Minister Piyush Goyal
 India has amended foreign direct investment regulations to boost e-commerce trade. These changes will help small businesses, artisans, farmers, and fishermen access wider markets. BRICS ministers discussed enhancing trade, investment, and industrial cooperation among member nations. Discussions also
