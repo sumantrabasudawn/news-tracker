@@ -60,6 +60,9 @@ According to data annexed with written reply by Minister of State in the Finance
 ## India’s kharif sowing deficit dips below 2% as overall coverage rises to 88% of normal
 Sugarcane acreage lowered to 58.31 lakh hectares, area under paddy down 4.3% as transplanting slows
 
+## West Asia war fallout: Oil product exports find many new markets
+
+
 ## SpaceX retail investors turn net sellers for first time since IPO; offload $4.5 million worth of shares
 Retail investors turned into net sellers of SpaceX shares as of August 7, marking the end of a buying frenzy. This change coincided with a stock price recovery, indicating that individuals may be taking profits. The shares have struggled post-IPO, dropping beneath the initial offering price. Investo
 
@@ -80,9 +83,6 @@ US stock market: The recent rally in equities has begun to lose momentum after b
 
 ## Beijing’s billion-barrel weapon: Why India must prepare for China-driven oil prices
 China has accumulated as much as 1.4 billion barrels in strategic and enterprise-controlled inventories, according to a new RAND study. That is more than three times the roughly 413 million barrels held in the US government’s Strategic Petroleum Reserve.
-
-## India diversifies energy sourcing amid geopolitical risks; taps 15 countries for LNG, 41 for crude
-India is expanding its energy import portfolio for both LNG and crude oil, striving to diminish reliance on any singular market or transport path. Additionally, the government is boosting domestic crude oil storage with new infrastructure. These strategies equip India to better handle supply interru
 
 ## UP temples reverberate with 'Har Har Mahadev' as devotees throng shrines on Sawan Monday
 UP temples reverberate with 'Har Har Mahadev' as devotees throng shrines on Sawan Monday
@@ -108,6 +108,9 @@ Padma Awasthi, a resident of Vallabhnagar Colony in Pilibhit, had fractured her 
 ## Uttarakhand: BRO personnel missing, Bailey bridge washed away in flash flood
 Teams of the State Disaster Response Force and National Disaster Response Force have been rushed to the spot
 
+## Hong Kong’s commercial property investment growth beats peer Asia-Pacific markets
+Hong Kong’s commercial property investment more than doubled to US$3.1 billion in the second quarter, making it the fastest growing investment market in Asia-Pacific thanks to a strong increase in retail and office deals and a low base effect, according to JLL. The 129 per cent growth from a year ea
+
 ## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
 Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
 
@@ -128,9 +131,6 @@ The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Ch
 
 ## As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?
 For decades, Hong Kong has been a magnet for the rich. From wealthy Chinese setting up family trusts to millionaires migrating from across Southeast Asia, all of them have been sucked in by the city’s promise of free capital flows, a trustworthy legal system and extensive financial expertise. It is 
-
-## What makes McDonald’s assets stand out amid a weak Hong Kong retail property market?
-One year after McDonald’s began selling its self-owned Hong Kong shops, the fast-food giant has found buyers for nearly half its portfolio even as the city’s retail property market endures its weakest spell in decades. McDonald’s planned to dispose of all 23 shops in phases, market sources said, wit
 
 ## Netanyahu Nixes Trump’s Gaza Deal
 Another weekend with no resolution to the Middle East’s wars.
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Moment of terror as powerful earthquake shakes airport in Colombia
+Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake
+
+## Ceuta mayor calls for migrant detention amid mass influx crisis
+Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.
+
+## Al Jazeera reporter on the ground as Colombia quake death toll rises
+Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.
+
 ## Colombia’s Espriella to lead emergency efforts following Bogota earthquake
 Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.
 
@@ -242,15 +251,6 @@ Text envisages a return to civilian life for some of the Kurdistan Workers’ Pa
 
 ## Trump says relationship is good even as Netanyahu rejects Gaza peace plan
 US President Donald Trump maintains that his relationship with Israel's PM Benjamin Netanyahu is still good.
-
-## US appeals court says social media addiction lawsuits can proceed
-US court rules Meta, Google and TikTok will face addiction lawsuits as Meta heads to trial this week over child safety
-
-## Trump to demand compensation for Tehran’s ‘conflicts’
-President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.
-
-## Russia bars only party opposing war in Ukraine from parliamentary vote
-The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
