@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Iran replaces top security official at crucial moment in talks over Strait of Hormuz
+Mohsen Rezaei appointed head of Supreme National Security Council after Mohammad Bagher Zolghadr steps down
+
 ## Organised crime suspect Daniel Kinahan extradited from Dubai to Ireland
 Irish government jet believed to be carrying alleged drug trafficker lands in Dublin
 
@@ -21,9 +24,6 @@ Strategic blow for Moscow as Trump moves closer to Syrian regime
 ## Trump is dismantling US guardrails, warn former security officials
 Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy
 
-## Britain needs to redefine what it considers cutting-edge
-Burnham should promote a broader conception of advanced manufacturing that goes beyond frontier technologies
-
 ## Holding public servants to account is harder than it seems
 A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?
 
@@ -38,9 +38,6 @@ UK’s biggest DIY investment platform calls employees back to the workplace thr
 
 ## Investors return to European stocks as strong earnings lift Iran war gloom
 Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter
-
-## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
-Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
 
 ## AI may redraw India’s IT services map; 20-25% of firms could struggle to cross over, says Nasscom chief
 Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth
@@ -234,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## F-16s intercept two aircraft near Trump’s New Jersey golf club
+F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.
+
+## Union reports 108 attacks on Palestinian journalists in July
+Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.
+
 ## What’s driving unrest in Pakistan-administered Kashmir?
 Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera's Ava Warriner explains.
 
@@ -251,12 +254,6 @@ Kinshasa hands over 15 prisoners to powerful rebel alliance.
 
 ## Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
 Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.
-
-## Where does Iran stand on Saudi-Pakistan-Turkiye pact?
-Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
-
-## Jannik Sinner withdraws from Cincinnati Open with knee injury
-Number one ranked player in men's tennis will miss the tournament due to a knee issue, he says via organisers.
 
 ## BRICS trade meet clears MSME credit framework
 Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
