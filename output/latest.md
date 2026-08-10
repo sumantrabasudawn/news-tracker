@@ -39,6 +39,9 @@ Very
 ## Barrick and Newmont gold mining truce clears way for IPO
 Disagreement between top miners over Nevada joint venture had served as block to spin-off
 
+## Meta, Google, TikTok face thousands of lawsuits over alleged youth addiction
+Thousands of lawsuits accusing major social media companies of harming young users can proceed after a US appeals court rejected an early appeal
+
 ## Colombia earthquake: 7.4-magnitude quake kills at least 69, buildings collapse
 The epicentre was near San José del Palmar in Chocó, while tremors were felt in neighbouring Ecuador and Panama
 
@@ -60,8 +63,8 @@ According to data annexed with written reply by Minister of State in the Finance
 ## India’s kharif sowing deficit dips below 2% as overall coverage rises to 88% of normal
 Sugarcane acreage lowered to 58.31 lakh hectares, area under paddy down 4.3% as transplanting slows
 
-## Natural gas: Trend unclear
-A breakout of ₹270 can open the door for a rally to ₹290. Note that there is a minor hurdle at ₹275
+## SpaceX retail investors turn net sellers for first time since IPO; offload $4.5 million worth of shares
+Retail investors turned into net sellers of SpaceX shares as of August 7, marking the end of a buying frenzy. This change coincided with a stock price recovery, indicating that individuals may be taking profits. The shares have struggled post-IPO, dropping beneath the initial offering price. Investo
 
 ## Ethanol or EVs? India needs both for cleaner mobility, says IFGE
 
@@ -84,8 +87,11 @@ China has accumulated as much as 1.4 billion barrels in strategic and enterprise
 ## India diversifies energy sourcing amid geopolitical risks; taps 15 countries for LNG, 41 for crude
 India is expanding its energy import portfolio for both LNG and crude oil, striving to diminish reliance on any singular market or transport path. Additionally, the government is boosting domestic crude oil storage with new infrastructure. These strategies equip India to better handle supply interru
 
-## ONGC, Shell Energy India sign MoU to explore deepwater blocks, LNG sourcing opportunities
-ONGC and Shell Energy India have entered into a memorandum of understanding to collaboratively delve into potential joint ventures. Their focus will be on assessing opportunities in deepwater and ultra-deepwater oil and gas exploration, alongside investigating LNG sourcing alternatives to bolster In
+## UP temples reverberate with 'Har Har Mahadev' as devotees throng shrines on Sawan Monday
+UP temples reverberate with 'Har Har Mahadev' as devotees throng shrines on Sawan Monday
+
+## UP hospital claims lab-grown cell therapy used for urethral stricture treatment
+UP hospital claims lab-grown cell therapy used for urethral stricture treatment
 
 ## Sourav Ganguly, wife Dona Ganguly receive death threat letters, cops begin probe
 The matter came to light after Sourav’s secretary approached Thakurpukur police station to register a complaint.
@@ -104,12 +110,6 @@ Padma Awasthi, a resident of Vallabhnagar Colony in Pilibhit, had fractured her 
 
 ## Uttarakhand: BRO personnel missing, Bailey bridge washed away in flash flood
 Teams of the State Disaster Response Force and National Disaster Response Force have been rushed to the spot
-
-## Metal bridge ripped apart by swollen river after flash flood in Uttarakhand's Chamoli | Watch
-Authorities have advised residents and travellers to avoid the route and postpone journeys until the situation improves.
-
-## Suvendu meets wife of deceased TMC worker; promises job, ex-gratia of ₹10 lakh
-A political row erupted on Saturday after a local Halisahar TMC leader died in police custody. His arrest was based on an August 1 complaint
 
 ## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
 Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Oman trying to contain extensive oil spill from stricken tanker
+The Caroline Bezengi is believed to be part of Russia's 'shadow fleet' that Moscow uses to circumvent Western sanctions.
+
+## Zuckerberg’s yacht crew did not hear call for help, says spokesperson
+A skiff off Alaska coast received help from a nearby cruise ship after Zuckerberg's yacht crew did not respond in time.
+
 ## Palestinian club football to restart in September after Gaza war suspension
 Palestinian sports leagues, including professional football, were halted due to Israel's genocidal war on Palestinians.
 
@@ -241,19 +247,13 @@ Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khame
 Officials say at least 69 people have been killed in the quake, with some still trapped under rubble.
 
 ## Photos: 7.4-magnitude earthquake rocks western Colombia
-A powerful earthquake kills more than 47 people and topples buildings across western Colombia.
+A powerful earthquake kills more than 69 people and topples buildings across western Colombia.
 
 ## DRC’s Ebola outbreak began months before it was officially declared, says WHO
 Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.
 
 ## ‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan
 Netanyahu's declaration has reinforced doubts of lasting calm without Israeli withdrawal, reconstruction and guarantees.
-
-## Sudan’s army chief holds unannounced talks on national dialogue
-Al-Burhan engaged in discreet consultations aiming to pave the way for a comprehensive Sudanese dialogue conference.
-
-## ‘They need each other’: What’s behind the new Syria-Russia accord?
-The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
