@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Europe braces for another heatwave after record-breaking temperatures
+Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.
+
+## Wildfires burn across Indonesia as officials cite El Nino as a cause
+Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.
+
+## Turkiye approves pardon-like bill for thousands of PKK fighters
+Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.
+
+## Trump says relationship is good even as Netanyahu rejects Gaza peace plan
+US President Donald Trump maintains that his relationship with Israel's PM Benjamin Netanyahu is still good.
+
+## US appeals court says social media addiction lawsuits can proceed
+US court rules Meta, Google and TikTok will face addiction lawsuits as Meta heads to trial this week over child safety
+
+## Trump to demand compensation for Tehran’s ‘conflicts’
+President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.
+
 ## Russia bars only party opposing war in Ukraine from parliamentary vote
 The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.
 
 ## Trump administration has revoked over 175,000 visas: US State Department
 Most of the visa revocations stemmed from law-enforcement encounters involving criminal activity, the department said.
-
-## US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US
-US Rep. Nancy Mace clashed with CNN's Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan.
-
-## Migrant children go days without food in Ceuta amid asylum crisis
-A surge of migrant children and families remained in makeshift shelters in Ceuta, Spain’s North African enclave.
-
-## 111 dead after Colombia quakes leave trail of destruction
-At least 111 people are dead after a destructive 7.4 magnitude earthquake hit western Colombia.
-
-## Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh
-Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.
-
-## Netanyahu’s veto and the limits of American power
-Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.
-
-## Iran hierarchy consolidation as IRGC veteran tapped for key security role
-The office of the supreme leader has named a new security chief and established war commanders in influential roles.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
