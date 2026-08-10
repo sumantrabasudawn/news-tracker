@@ -42,29 +42,29 @@ Eldridge will embed technology in companies from Chelsea Football Club to film s
 ## Europe faces rocket launcher shortage by 2030, space agency chief warns
 Demand for launches is growing faster than the region’s capabilities
 
-## Gold eases from seven-week peak, US inflation data looms
-Gold ‌slipped on Monday as investors took profits after prices ​hit a seven-week high in the ⁠previous session; US gold futures ‌fell ⁠0.2 per cent to $4,390.60 on Monday
-
-## Titan hits 52-week high as Q1 results trigger analyst upgrades
-The rally comes a session after the company reported its first-quarter earnings for FY2026-27, with multiple brokerages raising price targets and earnings estimates.
-
-## Over 50% event-goers travel inter-city as outstation mobility and discretionary spending surge: KPMG-EEMA report
-According to the report, 54.4% of surveyed visitors travelled from outside their city to attend their most recent event, establishing long-distance movement as a baseline standard for the sector
-
-## Sensex today | Stock Market Live: Sensex, Nifty hold marginal gains in lacklustre trade; CAS, US inflation in focus
+## Sensex today | Stock Market Live: Sensex, Nifty end marginally down in lacklustre trade; Titan, Bajaj Finance top gainers
 Sensex, Nifty, Share Prices Live: Indian equities remained range-bound at noon as investors weighed positive Asian cues and renewed FPI buying against elevated US bond yields and geopolitical risks, while sectoral rotation continued and the NSE’s new Closing Auction Session remained under close watc
 
-## India bonds may see positive opening, local and US inflation data in focus
-The yield on the benchmark ⁠6.94% 2036 bond is expected to trade in the 6.75% to 6.79% range; India's retail inflation rate will rise to 4.50% in July from 4.38% in June
+## Dhoot Transmission IPO subscribed 36% so far on day 1, brokerages largely bullish
+Brokerages have largely taken a positive view of the issue, with SBI Securities, Swastika Investment, Anand Rathi, Ventura Securities and Choice Broking recommending subscription
 
-## TN govt announces increase in procurement incentives for paddy, sugarcane farmers
-The government made this decision despite the state's financial position being not good at present, TN CM Joseph Vijay said
+## Q1 Results Today Live: Bharat Forge shares tank after Q1 con. loss, Kwality Pharma, Ramco Industries, KPR Mill Q1 PAT up, Hindustan Copper PAT down q-o-q, AstraZeneca, Info Edge & Astra Microwave profit dip, Vi, Bosch, Lloyds Metals, Gland Pharma, Zee Entertainment, KEC International to announce Q1 results
+Q1 Results Today, 10th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani
-The state-run miner is exploring a joint venture with Chile’s Codelco as India seeks to secure copper concentrate to meet rapidly rising domestic demand.
+## Govt introduces bill to amend NCDC Act to boost cooperative sector
+The bill seeks to widen the institutional channels through which assistance may reach and strengthen the cooperative sector while cooperative societies will continue to remain the primary beneficiaries
 
-## Global stock rally extends, oil advances on Iran: Markets Wrap
-Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike
+## Motilal Oswal AMC surpasses ₹2 lakh crore AUM
+Motilal Oswal AMC on Monday announced that its total AUM crossed ₹2 lakh crore in August
+
+## SOLIZE PARTNERS and Dassault Systèmes Form Partnership to Accelerate Digital Transformation in Manufacturing
+SOLIZE PARTNERS and Dassault Systèmes Form Partnership to Accelerate Digital Transformation in Manufacturing
+
+## Exicom Opens FY27 with Order Wins Across Both Businesses as Revenue Grows Sharply Year on Year
+Exicom Opens FY27 with Order Wins Across Both Businesses as Revenue Grows Sharply Year on Year
+
+## DGFT eases export compliance, removes physical challan requirement for exporters
+The DGFT has removed the requirement for exporters to submit physical duty payment challans while applying for EODC under the Advance Authorisation and EPCG schemes
 
 ## ITR filing: How to track your tax refund status online: step-by-step guide
 ITR refund status: A refund arises when the income tax that you have paid exceeds your final tax liability. This can be due to excess TDS, TCS, advance tax, self-assessment tax, deductions, exemptions, or treaty-based relief claimed in the return.
@@ -90,29 +90,32 @@ Stock market recommendations: Motilal Oswal Wealth Management Research Desk has 
 ## Government mulls raising CCEA approval threshold for FDIs
 
 
+## Keeping up with UP: Is abusive language really harmless or needs to be checked
+Prime Minister Narendra Modi spoke about the abusive language and underlined that dragging “misguided children” into court would not resolve the problem
+
+## MEA condemns defacement of Indian Embassy in Slovenia, calls for action against perpetrators
+The Ministry of External Affairs (MEA) on Monday condemned the defacement of the Indian Embassy premises in Ljubljana, Slovenia.
+
+## Tricolour aboard ISS as Russian cosmonauts greet India on Independence Day
+With India set to mark its 80th Independence Day, the cosmonauts reflected on the history of cooperation between India and Russia.
+
+## Heavy rain in Himachal: Orange alert for Kangra, Mandi and Chamba
+IMD advised residents and tourists to exercise caution while travelling, as heavy rainfall could lead to sudden rise in water levels in rivers
+
+## Bihar man poses as IAS officer, claims links to NSA Ajit Doval; cops seize Tesla car, SUV after arrest
+Police recovered a Tesla, luxury vehicles, and other items from Gupta’s residence as they investigate his alleged impersonation and fraudulent activities.
+
+## Hyderabad Police warn against ‘Rent a Boyfriend’ trap targeting young girls, women | What we know about the dating scam
+The new ‘Rent a Boyfriend’ scam flagged by Hyderabad police pretends to offer male companions to young women and girls as a means to scam them for payments.
+
+## Right-wing activist Mohandas arrested after alleged ‘girls enjoy rape’ remark over NEET protest
+RSS said T G Mohandas has no association with the organisation at any level and that his remarks on the recent protest were his personal views.
+
 ## SC asks panel to verify claims of Manipur violence-hit families yet to get rehabilitation benefits
 SC asks panel to verify claims of Manipur violence-hit families yet to get rehabilitation benefits
 
-## Maharashtra CM Fadnavis says FCRA bill aims to curb anti-national activities, not target any religion
-Maharashtra CM Devendra Fadnavis defended the FCRA Amendment Bill, stating it aims to prevent anti-national activities.
-
-## XUV rams three two-wheelers, kills retired army jawan in Hyderabad
-A retired Army jawan was killed and two others were injured after an XUV allegedly rammed into three two-wheelers. The driver fled the spot immediately.
-
-## TN govt announces increase in procurement incentives for paddy, sugarcane farmers
-TN govt announces increase in procurement incentives for paddy, sugarcane farmers
-
-## Govt says ready to discuss student protests, Amit Shah to speak in Parliament: ‘Oppn should not create disturbances’
-Home minister Shah expected to speak on matter of police action on protesters on July 20, when Cockroach Janta Party gave a call for a march to Parliament
-
-## Indian student sent girlfriend's mother series of texts after murder, was in US on F-1 visa: What we know so far
-Victim's mother said messages were “inconsistent” with the way she communicated, which is why she called the cops to go and check on her at her Tucson flat
-
-## Cauvery water row: SC to hear Tamil Nadu’s plea seeking Karnataka’s compliance on August 13
-The DMK’s application seeking similar directions against Karnataka is also likely to come up for hearing on the same day.
-
-## SC allows TMC leader Abhishek Banerjee to travel abroad for eye surgery
-The relief comes after the Calcutta High Court had earlier denied Abhishek Banerjee's permission to travel overseas for treatment.
+## Can CATL’s battery breakthrough push flying cars closer to a commercial reality in China?
+Contemporary Amperex Technology Ltd (CATL), the world’s largest electric vehicle (EV) battery maker, has thrown its weight behind flying cars after its aviation battery system cleared a major safety test. A successful roll-out of passenger-carrying drone batteries, backed by CATL’s innovation drive 
 
 ## China’s five-year road map for the power sector
 China unveiled its 15th five-year plan for the power sector on August 3. Below are key targets of the blueprint, which was released jointly by the National Development and Reform Commission and National Energy Administration. See original document in Chinese: 新型电力系统建设“十五五”规划 by scmp
@@ -134,9 +137,6 @@ For international retailers like DFI Retail Group, which operates 7-Eleven and M
 
 ## Can Hong Kong Become Asia’s Blueprint for Sustainable Urban Growth?
 [The content of this article has been produced by our advertising partner.] Hong Kong has long been a city in motion, where capital, talent and ideas move with remarkable speed. For AtkinsRéalis, a world-class engineering services and nuclear power organisation, the city is more than a strategic bas
-
-## How China’s brands are thriving in the US despite rising geopolitical tensions
-The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely 
 
 ## Todd Blanche’s Confirmation Would Have Been A Scandal in 1973
 Nixon’s “Saturday Night Massacre” triggered nationwide outage—and a firewall which is now gone.
@@ -162,6 +162,21 @@ The latest leftward shift was shorter-lived and less accomplished than its prede
 ## Is Iran Winning the Battle Over the Strait of Hormuz?
 Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.
 
+## Myanmar Nationals Face Deportation From US After Court Ruling
+The ruling follows a Supreme Court decision in June that limited courts' ability to challenge TPS designations.
+
+## The Quiet Vietnamese
+Landlocked Laos needs counterweights to its massive neighbor, China, if is to avoid being paralyzed by debt. The most obvious choice is Vietnam.
+
+## Myanmar Rejects ASEAN Call for Suu Kyi’s Release, Questions Need For Special Envoy
+The military-backed government is pushing for full readmission to ASEAN, while rejecting outright the bloc’s Five-Point Consensus initiative.
+
+## The Murder of a Uyghur in America Spotlights the Dangers for the Diaspora
+China’s transnational repression is real, and host governments themselves are now playing a role in pressuring Uyghur communities.
+
+## The Iran-US War a Win for China? Not So Fast.
+The war is also creating strategic opportunities for Washington and new challenges for Beijing in the Middle East.
+
 ## China’s Asian Affairs Reshuffle
 The elevation of a former ambassador to Mongolia signals a shift in diplomatic execution – but the change can only go so far.
 
@@ -170,21 +185,6 @@ The North Korean Human Rights Act of 2004 expired in 2022. An important bipartis
 
 ## India’s Climate Stress and the Solar Power Paradox
 Rising demand will keep coal the backbone of India’s power grid in the coming years. This buys time for executing an energy transition, if India can see through its plans.
-
-## No Wonderland: Alice’s Shameful Australian Aboriginal Camps
-The conditions in and around Australia’s Aboriginal camps, such as the one where a 5-year-old girl was murdered in April, are shameful for one of the world’s wealthiest countries.
-
-## Taiwan’s Missing Deterrent
-Conventional deterrence alone overlooks the vector of conflict most likely to define a cross-strait crisis: civil defense.
-
-## China’s Military Is Now Using AI to Plan Strike Operations
-What does that mean for the future of human control in war – including a war over Taiwan?
-
-## How China Is Reordering Global Governance From Within
-Beijing’s June white paper leaves the U.N.-centered architecture intact – but re-interprets the priorities.
-
-## India’s Communal Violence is Crossing into Nepal
-With the RSS steadily building on Nepali soil, Hindu-Muslim tensions and violence are growing, especially in Nepal’s Tarai-Madhesh region bordering India
 
 ## What America Learned About Democracy When It Gained Stealth
 Editor’s note: This is the seventh article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sel
@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Tropical Storm Dolphin batters eastern China with heavy rain, strong winds
+Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days.
+
+## Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare
+World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while stars Naomi Osaka, Coco Gauff progress.
+
+## Anguished locals watch as Israel demolishes homes in southern Lebanon
+Anguished locals watch as Israel demolishes homes in southern Lebanon
+
+## ‘Like the movies’: How Ukraine’s ground robots are changing rules of war
+They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions.
+
+## China evacuates a million from homes as Typhoon Dolphin arrives
+China evacuates a million from homes as Typhoon Dolphin arrives
+
 ## Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup
 Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.
 
@@ -242,21 +257,6 @@ Voting postponed in seven of 11 Poonch division constituencies as boycott calls 
 
 ## North Korea’s hackers using AI for attacks, cybersecurity firm says
 Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.
-
-## Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86
-Nelson was a five-time NBA champion with the Boston Celtics but is best remembered for his innovative coaching style.
-
-## Israeli forces kill one in Gaza as another body recovered from rubble
-Gaza Health Ministry says hospitals receive bodies of two Palestinians as Netanyahu rejects Trump plan to end war.
-
-## Solar eclipse tracker: What time will it hit your location on August 12?
-On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality.
-
-## What’s driving unrest in Pakistan-administered Kashmir?
-What's driving unrest in Pakistan-administered Kashmir?
-
-## Wildfires bear down on homes in Canada’s Okanagan region
-A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
