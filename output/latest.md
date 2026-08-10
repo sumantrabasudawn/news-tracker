@@ -1,7 +1,16 @@
 # AION Intelligence
 
+## Marine heatwaves strike as climate change plays out ‘in front of our eyes’
+Sea temperature records broken for month of July, Copernicus report reveals
+
+## The ICC is all the women of Afghanistan have left
+Trump’s vow to dismantle the international court will inaugurate a new era of impunity
+
+## Shein IPO pitched to investors at sub-$30bn valuation
+Fast-fashion retailer has suffered a roughly 70% drop in valuation over past four years
+
 ## Yen sinks as effect of US-Japan intervention fades
-Currency gives up nearly half of gains from joint action with investors citing lack of ‘unified voice’ among central banks
+Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks
 
 ## Comms trouble
 Criticism of the Fed’s new communications strategy has been pointed
@@ -14,15 +23,6 @@ Pledge comes as Andy Burnham faces criticism over government’s early-release s
 
 ## Just how big is the hidden leverage of AI hyperscalers?
 Very
-
-## Arrival of 230 people in single boat shows gangs’ ‘reckless’ tactics, says Home Office
-People smugglers are using larger vessels as pressure from French authorities makes it more difficult to launch crossings
-
-## How the UAE won over Washington
-The Gulf state has deployed a mixture of cash and charm to become one of America’s most important Middle East allies
-
-## Trump and the failure of the Fafo doctrine
-The president’s flawed decision-making is finally catching up with him
 
 ## Barrick and Newmont gold mining truce clears way for IPO
 Disagreement between top miners over Nevada joint venture had served as block to spin-off
@@ -42,35 +42,32 @@ Authorisation from regulator accelerates UK-headquartered fintech’s European e
 ## ‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins
 Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery
 
-## US backs Australian rare earth miner to cut out China
-Sunrise Energy shares soar after Trump administration provides $400mn loan to develop scandium project
+## Telangana cops bust cyber call centres in Delhi
+The call centre had been operational for about one and a half years.
 
-## FirstFT: China sails ‘Ice Silk Road’ to Arctic
-Also in today’s newsletter: Russia’s coercive recruitment and German inward investments
+## With a pipeline of antibiotics, Wockhart looks to build a conversation on rational use and resistance
+Wockhardt Antibiotic Academy to be an open scientific learning platform to facilitate continuous medical education among healthcare professionals, says Founder Chairman Habil Khorakiwala
 
-## Zee Entertainment Q1 net nearly halves to ₹74 crore
-Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport
+## Nifty 50 may deliver 14-17% return in FY27 as earnings rebound: Birla MF
+Launches NFO of two new SIFs - Apex Equity Long-Short and Equity Ex-Top 100 Long-Short
 
-## Kharif sowing area deficit less than 2%, sugarcane area revised to lower
-The sowing area in on-going Kharif season has reached 967.92 lh as of August 7 compared with 985.89 lh in the year-ago period, down by 1.8 per cent, the agriculture ministry said in its weekly update on Monday
+## Tribunal Commission may become template for selection of judges
+To be headquartered in the national capital, the proposed commission will consist of a chairperson and four members -- two judicial members and two technical members
 
-## Broker’s call: Godrej Consumer
-HDFC Securities
+## TVS Supply Chain Solutions posts ₹23 crore net profit in Q1
+The company reports its highest-ever quarterly business wins of ₹543 crore, providing strong growth visibility. Order pipeline stands at over ₹7,500 crore
 
-## 5 States, led by Tamil Nadu, accounts for over 80% of gold loan, reveals PSB data
-According to data annexed with written reply by Minister of State in the Finance Ministry, Pankaj Chaudhary, total gold loan outstanding for Public Sector Banks was over Rs ₹11.31 lakh crore
+## RPSG Group’s renewable-energy arm to acquire Renew Solar Power’s portfolio for ₹4,859 crore
+The transaction will take Purvah’s contracted capacity to 4.8 GWp and battery capacity of 2.2 GWh (gigawatt hour) and accelerate the group’s path to 10 GW of renewable energy in the next few years
 
-## Trilegal advises on India’s largest-ever OFS in LIC
-The stake sale raised LIC’s public shareholding from 3.5 per cent to 10%, allowing the government to meet the minimum public shareholding requirement ahead of the regulatory deadline
+## Ola Electric reverses ₹57 crore PLI provision despite pending MHI waiver
+Revenue falls 45% y-o-y to ₹455 crore; auditor issues qualified conclusion on treatment
 
-## FAIFA flags concern over sharp reduction in tobacco crop size by Tobacco Board
-Demands viable transition support; action against unapproved cultivation
+## SC agrees to TN govt plea to hear Cauvery water dispute early
+Appearing before Chief Justice of India Surya Kant, senior advocate CS Vaidyanathan, for Tamil Nadu, highlighted the deficit in allocation of the river water has left farmers in a perilous situation.
 
-## Ashok Leyland partners with Drivn for EV financing
-The partnership aims to make e-truck ownership more accessible by offering flexible, customised financing, leasing, and fleet ownership solutions to customers, a company release said
-
-## Acumatica opens GCC in Hyderabad
-The centre will expand into additional disciplines and support continued regional growth
+## Beijing’s billion-barrel weapon: Why India must prepare for China-driven oil prices
+China has accumulated as much as 1.4 billion barrels in strategic and enterprise-controlled inventories, according to a new RAND study. That is more than three times the roughly 413 million barrels held in the US government’s Strategic Petroleum Reserve.
 
 ## India diversifies energy sourcing amid geopolitical risks; taps 15 countries for LNG, 41 for crude
 India is expanding its energy import portfolio for both LNG and crude oil, striving to diminish reliance on any singular market or transport path. Additionally, the government is boosting domestic crude oil storage with new infrastructure. These strategies equip India to better handle supply interru
@@ -93,32 +90,29 @@ The Indian Rupee started the week on a weaker note against the US dollar, influe
 ## Stock market today: BSE Sensex rises 100 points, NSE Nifty50 opens above 25,600
 
 
-## Top stocks to buy: Stock recommendations for August 10, 2026 week - check list
-Stock market recommendations: Motilal Oswal Wealth Management Research Desk has identified Happy Forgings and Siemens Energy as the top stocks to buy for the week starting August 10, 2026. Let’s take a look:
+## Petrol, diesel prices to fall? Here's what the government said
+The government cut excise duty by ₹10 per litre in March but has announced no fresh fuel price cut.
 
-## Bangladesh urges faster extradition for Hasina as Indian envoy meets PM Tarique
+## Delhi HC seeks The Caravan's reply in defamation case filed by Nitin Gadkari's son
+The plea said Nikhil Gadkari was being "targeted" by the defendants because he was the son of a former BJP national president and a senior Union minister.
+
+## Thousands of VAT 69 whisky, Smirnoff vodka PET bottles seized in food safety crackdown in Bengaluru
+Inspectors found bottles had markings showing they were made from polyethylene terephthalate (PET), but should have carried a mandated ‘recycled’ symbol
+
+## Idea that a woman in jeans can 'corrupt young boys' shows troubling mindset: HC
+In her 50-page verdict, the bench said what a girl or woman chooses to wear is entirely a matter of personal choice
+
+## 'No one interested in Shah's opinion, want to know who ordered firing': Rahul on Jantar Mantar chaos
+Lok Sabha Leader of Opposition (LoP) Rahul Gandhi noted that Shah must answer who authorised the alleged firing of pellet guns on the protesting students.
+
+## India adds 11 ports to e-Visa network, taking total entry points to 88
+The move brings airports, seaports, land borders and rail posts under a common framework defined by the new Immigration and Foreigners Act, 2025
+
+## Independence Day 2026: ‘Vande Mataram’ to be sung at Red Fort for first time in 80 years
+As India prepares to mark its milestone 80th Independence Day, the historic ramparts of the Red Fort are set to witness a historic first.
+
+## Bangladesh urges faster extradition of Hasina as Indian envoy meets PM Tarique
 “Bangladesh hopes that India will expedite the process of extraditing Sheikh Hasina,” said the readout issued in Bengali
-
-## 8 injured in firing along Assam-Arunachal border, Himanta calls it local issue
-The incident happened at Mingmang Badati area under the Gogamukh Revenue Circle of Dhemaji district along the Assam-Arunachal border
-
-## Rain lashes Delhi as IMD issues yellow alert across capital, NCR
-The weather department had also forecast very light to light rain for Wednesday and Thursday, with further spells expected later in the week.
-
-## 'Pushpa' joins PSC-JSSC aspirants' Ranchi protest, says 'Jharkhand ke students jhukenge nahi'
-The protester said he had adopted the character's style to draw attention to the Jharkhand students' demands.
-
-## 8 injured in Assam-Arunachal border firing; situation 'almost resolved', says CM Sarma
-An official clarified that the incident occurred when the miscreants from across the border opened indiscriminate fire targeting the Assam residents.
-
-## ‘Use of force against students is wrong’: Rahul Gandhi speaks on Jharkhand protest crackdown
-“The Jharkhand government must continue to hear these students out and resolve their issues immediately,” Congress leader Rahul Gandhi posted on X.
-
-## The Mecca defence pact: A new Sunni bloc or a strategic tool against India?
-By locating the agreement in Mecca and framing it around Sunni-majority states, the bloc can be interpreted as a religiously infused security grouping.
-
-## MoRTH mandates automatic load covers for tippers, dumpers from April 2027
-The new rules also require an audio-visual alert in the driver’s cabin. The system must warn the driver if the load-body cover is open
 
 ## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
 Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
@@ -240,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ben-Gvir posts AI video of starving Palestinian ahead of elections
+Ben-Gvir posts AI video of starving Palestinian ahead of elections
+
+## How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed
+After his Senate primary win in Michigan, the Egyptian American doctor faced a coordinated digital smear campaign.
+
+## War on Iran: Phase II: Day 30
+Donald Trump says the US is only ‘semi-negotiating’ with Iran.
+
+## Record 230 people reach UK on single boat after crossing English Channel
+The government has accused people smugglers of 'cramming' migrants onto 'unseaworthy vessels' and putting lives at risk.
+
+## Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
+Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.
+
+## Why Netanyahu’s ‘coup’ against Gaza plan risks endless war
+The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.
+
 ## Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 
 ## Why choosing low-fat dairy is not necessarily better for your health
 For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.
-
-## Nigel Farage vows to deport foreign criminals from UK prisons
-Nigel Farage vows to deport foreign criminals from UK prisons
-
-## One million evacuated as Typhoon Dolphin pummels east China: What we know
-Hundreds of flights have been grounded in China due to weather conditions caused by Dolphin.
-
-## Has the army turned the page on control of western Sudan?
-Sudan's military repels a series of offensives by the RSF paramilitary in a strategically significant region.
-
-## Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports
-Investment reportedly values the club at about $5.9bn, making it one of the largest ever football club valuations.
-
-## Taiwan holds military drills to prepare for invasion by China
-Taiwan holds military drills to prepare for invasion by China
-
-## Former MP opens fire in Thailand’s second shooting within days
-A second shooting has occurred in Thailand within days after a former MP opened fire outside a government office.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
