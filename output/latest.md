@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Prabowo nominates new leader for Indonesia’s central bank
+Elevation of senior deputy governor Destry Damayanti may ease investor concerns over independence
+
+## Your move, BoJ
+Plus, the weak jobs report
+
+## Lessons in letter writing for the Bank of England
+What Australia can teach a new chancellor seeking a fresh approach to QE and QT
+
 ## US backs Australian rare earth miner to cut out China
 Sunrise Energy shares soar after Trump administration provides $400mn loan to develop scandium project
 
@@ -15,17 +24,14 @@ Police watchdog says officer was referred to them by Derbyshire Constabulary fol
 ## UK raises cost projections for Palantir’s NHS data platform
 Lifetime charge rises to £1.1bn on ‘increased delivery at scale’ while forecast benefits fall to £808mn
 
+## UK missile and drone interceptor start-up raises $300mn at $3.4bn valuation
+Cambridge Aerospace has secured MoD contracts and is in talks with the US government about providing systems
+
 ## Finance groups could help solve Burnham’s social care conundrum
 A new system needs to replicate the universal appeal of the NHS without requiring commensurate public-sector spending
 
 ## Todd Boehly’s group rolls out AI to Chelsea and A24
 Eldridge will embed technology in companies from Chelsea Football Club to film studio A24 after acquiring 50% of Sudolabs
-
-## New York is having a summer for the ages
-No matter the scene — start-ups to restaurants, real estate and even politics — the city has never felt buzzier
-
-## UK missile and drone interceptor start-up raises $300mn at $3.4bn valuation
-Cambridge Aerospace has secured MoD contracts and is in talks with the US government about providing systems
 
 ## Europe faces rocket launcher shortage by 2030, space agency chief warns
 Demand for launches is growing faster than the region’s capabilities
@@ -33,29 +39,35 @@ Demand for launches is growing faster than the region’s capabilities
 ## Smoking is cool again. Why?
 After two decades in disgrace, the habit is back in fashion
 
-## Cochin International Airport clocks record net profit at ₹502 crore in FY26
-CIAL reported its highest-ever annual financial performance, registering a record profit of ₹500 crore; the Board recommended a dividend of 55% for shareholders for FY25-26
+## Sensex today | Stock Market Live: Sensex, Nifty hold marginal gains in lacklustre trade; CAS, US inflation in focus
+Sensex, Nifty, Share Prices Live: Indian equities remained range-bound at noon as investors weighed positive Asian cues and renewed FPI buying against elevated US bond yields and geopolitical risks, while sectoral rotation continued and the NSE’s new Closing Auction Session remained under close watc
 
-## Sensex today | Stock Market Live: Sensex, Nifty slip into the red; CAS, FPI flows in focus
-Sensex, Nifty, Share Prices Live: At 10:14 a.m., the Sensex was down 70.89 points, or 0.09 per cent, at 78,428.28, while the Nifty declined 20.90 points, or 0.09 per cent, to 24,549.75. Indian markets began the week on a subdued note, with the Sensex edging higher and the Nifty marginally lower. Inv
+## India's connected mobility push gains momentum as Hyundai announces 1 million connected car sales by 2027
+Hyundai targets cumulative sales of 1 million connected cars by 2027 after the Road Transport Ministry issued a draft notification to implement V2V communication systems
 
-## SFO Tech in pact with US-based Smart IOPS to produce high-end AI hardware
-Through the tie-up, SFO has integrated Smart IOPS’ proprietary ‘TruRandom’ controller technology into its production lines
+## AI coding boom puts software testing, verification in focus
+As AI accelerates software development, companies face a new challenge: ensuring machine-generated code performs reliably, safely and as intended
 
-## Q1 Results Today Live: Vodafone Idea, Bosch, Lloyds Metals, Bharat Forge, Gland Pharma, Zee Entertainment, Hindustan Copper, KEC International to announce Q1 results, Sky Gold, Dynamatic Tech, Quality Power, Anant Raj shares gain after Q1, Kaynes Tech, Ola, Oswal Pumps, Jamna Auto, Apollo Micro shares in red
+## Q1 Results Today Live: Kwality Pharma, Ramco Industries Q1 PAT up, Vi, Bosch, Lloyds Metals, Bharat Forge, Gland Pharma, Zee Entertainment, Hindustan Copper, KEC International to announce Q1 results
 Q1 Results Today, 10th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Why Oil India shares are rising: Record profit, analysts bullish
-Oil India reported a standalone profit after tax of ₹2,870 crore for Q1 FY27, up 2.5 times year-on-year, from ₹813 crore in Q1 FY26
+## Paytm shares jump 9% to 52-week high as Bernstein raises target to ₹2,200
+At 12.37 pm, the stock traded at ₹1,557 on the NSE, after hitting a 52-week high of ₹1,569, compared with the previous close of ₹1,441.60
 
-## From Apple-1 to Xerox Alto, vintage computers find new life with collectors
-As artificial intelligence transforms technology, a growing community is looking backward, restoring the machines that helped create the modern digital world.
+## Mahindra Group names Amit Sinha CEO of Holidays and Lifespaces sector
+The move aligns with the group’s focus on its Holidays and Lifespaces sectors to accelerate growth and achieve operational synergies, termed ‘Growth Gems
 
-## Nifty Prediction Today – August 10, 2026: Nifty futures: Chart shows buying interest
-Nifty futures (Aug) is likely to see a fresh rally soon
+## Deadlock in Parliament will continue till Home Minister Amit Shah gives statement: Priyanka Gandhi
+With only 4 days of the monsoon session remaining, the fate of bills on women's reservation, delimitation and the Foreign Contribution (Regulation) Act (FCRA) remains uncertain
 
-## Gold eases from seven-week peak, US inflation data looms
-Gold ‌slipped on Monday as investors took profits after prices ​hit a seven-week high in the ⁠previous session; US gold futures ‌fell ⁠0.2 per cent to $4,390.60 on Monday
+## Traditional Martial Arts Showdown: Kungfu Elite from Home and Abroad Converge on Yongchun
+Traditional Martial Arts Showdown: Kungfu Elite from Home and Abroad Converge on Yongchun
+
+## Stocks to buy: What's the outlook for Nifty for August 10-August 14 week? Check list of top stock recommendations
+Stock market recommendations: AIA Engineering, and Cochin Shipyard are the top stocks to buy identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for August 10, 2026 week.
+
+## Rupee slips 8 paise against US dollar as crude prices rise amid Middle East chaos
+The Indian Rupee started the week on a weaker note against the US dollar, influenced by rising global crude oil prices and a strengthening dollar. However, inflows from foreign institutional investors and robust forex reserves offered some respite. Recently, India's foreign exchange reserves experie
 
 ## Stock market today: BSE Sensex rises 100 points, NSE Nifty50 opens above 25,600
 
@@ -75,35 +87,32 @@ Stock market recommendations: Motilal Oswal Wealth Management Research Desk has 
 ## ‘Compliances major friction point for companies’
 
 
-## Oil price today: Brent crude jumps over 1% as traders await Hormuz reopening
-On Monday, oil prices surged amid ongoing uncertainty surrounding the reopening of the Hormuz Strait. While Iran and Oman are closing in on an agreement for a shipping lane, Iran's demands for concessions from the U.S. linger. Adding to market tensions, Houthi rebels targeted Saudi Aramco's Jazan re
+## Psticide residues found in 58 food samples tested in Kerala, says Minister Siddique
+Psticide residues found in 58 food samples tested in Kerala, says Minister Siddique
 
-## Smaller, leaner GCCs reshape India’s engineering playbook
+## Navi Mumbai airport name, drought and more: Supriya Sule shares details of meeting with PM Modi
+NCP MP's also called for a Bharat Ratna for Jyotiba Phule and Savitri Phule, Shahir Anna Bhau Saathe, Saint Tukdoji Maharaj.
 
+## HistoriCity: Ravidas – A cobbler’s son and his religion
+The Ravidassia sect today is dominated by the Punjab based branch as well as the ‘Chamar’ and other castes, with roots in Punjab.
 
-## Rain expected after monsoon break, Delhi set to cross normal rainfall for Aug
-Delhi received daily showers from August 4 to August 8 and recorded 229.5mm, or over 98% of the normal rainfall, for the month (233.1mm)
+## Ram temple donation row: SC urged to adjourn hearing on pleas due to unavailability of SG
+Ram temple donation row: SC urged to adjourn hearing on pleas due to unavailability of SG
 
-## Why Jharkhand recruitment exams have faced scrutiny, and what is driving the latest student protests
-Jharkhand’s JPSC recruitment exams have faced allegations of irregularities and controversies since the state was carved out of Bihar.
+## Jharkhand examination irregularities: ED files case as protests enter 17th day
+The ED’s case under the Prevention of Money Laundering Act stems from the Jharkhand Police’s first information report
 
-## PM Modi lauds boxer Lovlina Borgohain for objecting to distorted Indian map at a restaurant in Glasgow
-Modi's remarks were made during a meeting with the Commonwealth champions after their return from Scotland.
+## West Bengal minister says ‘no BJP role’ in attack on Mamata Banerjee’s convoy in North 24 Parganas
+BJP also questioned the circumstances surrounding former Chief Minister Mamata Banerjee's movement.
 
-## DMK, AIADMK back TVK govt's state song resolution, Tamil Nadu CM Vijay says 'mother tongue is life, emotions'
-Vijay said the mother tongue was "as pure as our mother" and giving it the first place was a matter of state rights.
+## Shows govt's intolerance, state of judiciary: Sibal on court denying bail to two ex-TISS students
+Shows govt's intolerance, state of judiciary: Sibal on court denying bail to two ex-TISS students
 
-## CJP ‘pet project’ of AAP, Jantar Mantar protest agenda was to ‘target' PM Modi, claims BJP
-BJP claimed that former Delhi CM Arvind Kejriwal spilled the beans on CJP after the ‘cockroaches went rogue and stopped taking his calls’.
+## TN CM's resolution on Tamil Thaai Vazhthu unanimously passed in Assembly
+TN CM's resolution on Tamil Thaai Vazhthu unanimously passed in Assembly
 
-## Parliament monsoon session LIVE: Rahul Gandhi seeks Amit Shah's resignation over police brutality on protesters
-Parliament monsoon session LIVE: The government is expected to table key bills on Day 16 of the monsoon session of the Parliament. Among the key bills on table is the Foreign Contribution Regulation Act, 2026, and the bill to officially rename Kerala to ‘Keralam’.
-
-## Vijayan alleges harassment, politically motivated transfers of public servants under UDF govt
-Vijayan alleges harassment, politically motivated transfers of public servants under UDF govt
-
-## Regulating foreign funds sovereign step; US has similar laws: Kwatra
-Regulating foreign funds sovereign step; US has similar laws: Kwatra
+## Despite geopolitical tensions, China’s rare earth producers have profitable first half
+China’s rare earth producers have reported or anticipated hefty first-half profits, with Beijing’s use of the strategically critical minerals as leverage in trade relations with Japan and the United States not appearing to impede normal activity. The geopolitical factor – US President Donald Trump a
 
 ## How China DRAM champion CXMT’s MSCI entry could lure fund inflows, cement its top ranking
 The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Chinese stocks may strengthen the chipmaker’s position as the most valuable stock on the onshore market, with the move expected to spur passive buying, analysts say. CXMT, China’s biggest maker of dynamic random access mem
@@ -125,9 +134,6 @@ The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the
 
 ## Demand for affordable EVs will force open US market to Chinese models eventually: analysts
 Consumer demand for affordable electric vehicles is likely to force open the US market to Chinese electric vehicle (EV) brands within the next few years, even though they currently face trade barriers, according to analysts. US carmakers are expecting the same, with Ford CEO Jim Farley recently pred
-
-## China races to develop brain-computer interfaces that can be inserted in 10 minutes
-Chinese start-ups and researchers are racing to bring brain-computer interfaces (BCIs) to market that can be implanted in just a few minutes, as Beijing pushes to nurture home-grown players in the sector to compete with Elon Musk’s Neuralink. The Chinese devices – which enable patients to control di
 
 ## Todd Blanche’s Confirmation Would Have Been A Scandal in 1973
 Nixon’s “Saturday Night Massacre” triggered nationwide outage—and a firewall which is now gone.
@@ -177,6 +183,9 @@ Beijing’s June white paper leaves the U.N.-centered architecture intact – bu
 ## India’s Communal Violence is Crossing into Nepal
 With the RSS steadily building on Nepali soil, Hindu-Muslim tensions and violence are growing, especially in Nepal’s Tarai-Madhesh region bordering India
 
+## Why Conflict Gold Sanctions Fail
+In April 2026, over a month after the United States launched its attack on Iran, leading to thousands of reprisal strikes across the Gulf, the United Arab Emirates shut down a network of money changers connected to the Islamic Revolutionary Guard Corps. Iranian exchange houses and the shell companie
+
 ## Warlords of Greece: Warfare in Homer’s World
 The Iliad and Odyssey have shaped Western ideas of heroism for nearly three millennia. Yet despite centuries of debate over whether they reflect historical reality or poetic fantasy, the Homeric world remains an internally consistent universe worth studying on its own terms. This isn’t about separat
 
@@ -197,9 +206,6 @@ In late June, cadets at the Israeli military’s officer training school sat thr
 
 ## Beyond Hormuz: The Future of Maritime Chokepoints
 Iran’s closure of the Strait of Hormuz and efforts to extract payments for safe passage — plus, more recently, the Houthis’ move to attack Saudi shipping through the Bab el-Mandeb Strait — have highlighted the risks of maritime chokepoints to global shipping and raised questions about the future for
-
-## Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal
-Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal “totally subject” to Saudi Arabia j
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Solar eclipse tracker: What time will it hit your location on August 12?
+On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality.
+
+## What’s driving unrest in Pakistan-administered Kashmir?
+What's driving unrest in Pakistan-administered Kashmir?
+
 ## Wildfires bear down on homes in Canada’s Okanagan region
 A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.
 
@@ -242,12 +254,6 @@ Brent crude prices rise as Tehran says critical waterway will not reopen without
 
 ## Clashes in Iraq’s Kut city during protests over power shortages
 Protests over power shortages escalated in Kut, Iraq, as demonstrators demanded more electricity amid soaring heat.
-
-## Israel confirms death of Palestinian detainee, nearly two years late
-The family of Ihab Diab disputes Israeli claims of health issues, alleging torture was behind his prison death.
-
-## Malaysian PM Anwar Ibrahim undergoes medical procedure
-Malaysia's government says Anwar, 79, is undergoing medical examinations and a procedure advised by his specialists.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
