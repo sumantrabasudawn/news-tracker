@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Wall Street giants partner with Nvidia on $500bn AI financing deal
+Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
+
+## Iran’s supreme leader tightens grip with top appointments
+A raft of senior military and regime moves come as Tehran hardens its rhetoric over deal with US
+
+## Burnham to crack down on vape and betting shops in bid to boost high streets
+Councils will be given extra powers to curb unwanted retailers and ‘bring town centres back to life’
+
 ## Yen sinks as effect of US-Japan intervention fades
 Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks
 
@@ -12,17 +21,8 @@ New consortium is the second major investor aiming for control of North America�
 ## Ukraine needs more help in the battle of the sky
 Kyiv is short of interceptors to withstand Russia’s ballistic missile attacks
 
-## Wall Street giants partner with Nvidia on $500bn AI financing deal
-Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
-
 ## FanDuel and DraftKings hedge their bets with a predictions pivot
 Branching into predictions has charms for sportsbook operators that aren’t just defensive
-
-## Jacaranda by Gaël Faye — after the genocide
-An award-winning novel moves between France and Rwanda to explore a national trauma through exile, silences and family secrets
-
-## Marine heatwaves strike as climate change plays out ‘in front of our eyes’
-Sea temperature records broken for month of July, Copernicus report reveals
 
 ## AI will boost oil and gas production more than green energy, report finds
 Debate over tech impact on greenhouse gas emissions stoked by latest study
@@ -35,9 +35,6 @@ Fast-fashion retailer has suffered a roughly 70% drop in valuation over past fou
 
 ## Just how big is the hidden leverage of AI hyperscalers?
 Very
-
-## Barrick and Newmont gold mining truce clears way for IPO
-Disagreement between top miners over Nevada joint venture had served as block to spin-off
 
 ## Meta, Google, TikTok face thousands of lawsuits over alleged youth addiction
 Thousands of lawsuits accusing major social media companies of harming young users can proceed after a US appeals court rejected an early appeal
@@ -231,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Colombia’s Espriella to lead emergency efforts following Bogota earthquake
+Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.
+
 ## Europe braces for another heatwave after record-breaking temperatures
 Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.
 
@@ -251,9 +251,6 @@ President Donald Trump says he’ll demand compensation from Iran for people kil
 
 ## Russia bars only party opposing war in Ukraine from parliamentary vote
 The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.
-
-## Trump administration has revoked over 175,000 visas: US State Department
-Most of the visa revocations stemmed from law-enforcement encounters involving criminal activity, the department said.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
