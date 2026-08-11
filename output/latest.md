@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Trump warns ditching Infantino would be ‘terrible mistake’
+Comments come as Fifa president faces pressure to resign over private fundraising fiasco
+
+## Goldman staff named as suspects in Brazil investigation
+Probe concerns shareholder dispute over cancer specialist Oncoclínicas
+
+## Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors
+Unitree raises $900mn ahead of Shanghai listing expected later this month
+
 ## How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled
 A merger between the giant drugmakers would have marked a return to pharma megadeals
 
@@ -15,6 +24,12 @@ Also in today’s newsletter: Spain’s migrant amnesty and Turkish law on Kurdi
 ## What will Warsh do to favour Main Street over Wall Street?
 Evidence is mounting that the divide is rather more difficult to fix than the new Federal Reserve chair had thought
 
+## Nick Blair seeks funding for defence tech start-up
+Son of former British prime minister Tony Blair talks to investors for new venture called Pyra
+
+## Confessions of a former star M&A reporter
+Malice and aspirations at the billion-dollar rumour mill
+
 ## EU border checks double queues at major airports
 Peak waiting times hit two hours in Frankfurt and Amsterdam
 
@@ -24,38 +39,29 @@ Wall Street groups are working with the chipmaker to assemble a $500bn funding p
 ## German truckers take the load as drought hits Rhine shipping
 Emergency move to suspend Sunday ban comes as economists warn of hit to country’s GDP growth
 
-## Nick Blair seeks funding for defence tech start-up
-Son of former British prime minister Tony Blair talks to investors for new venture called Pyra
+## Intel raises $20 billion in upsized share sale to fund AI plans
+Intel priced the offering at $95 per share; the share sale drew more than $100 billion in demand
 
-## Confessions of a former star M&A reporter
-Malice and aspirations at the billion-dollar rumour mill
+## Indian economy, banks well positioned to tackle West Asia crisis, trade risks: RBI Governor Malhotra
+Points to strong bank capital and liquidity, low non-performing assets and resilient macroeconomic fundamentals as key strengths.
 
-## Carbon tax will hit EU’s budget airlines where it hurts
-Plans for a wider levy could benefit the bloc’s long-haul carriers but do little for low-cost operators
-
-## Sensex today | Stock Market Live: Noon trade - Sensex falls over 450 points as elevated crude oil prices weigh on equities
-Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as elevated crude prices and Strait of Hormuz concerns weighed on sentiment. The decline came despite stronger corporate earnings and renewed foreign buying, with investors also tracking Adani stocks and the Nifty 50 reshuffle
-
-## Centre reshuffles top bureaucracy; Deepti Gaur Mukerjee gets Higher Education charge
-The latest changes redraw responsibilities across several key departments, with senior bureaucrats receiving new assignments following a series of recent retirements.
-
-## Q1 Results Today Live: KPI Green Energy shares tank after Q1 PAT decline, Siemens, Zydus Lifesciences, MRF, RVNL, PI Industries, Manappuram Finance, NBCC, Kalpataru, Swan Defence, Bata, Gujarat Energy to announce Q1 results
+## Q1 Results Today Live: MRF, Zydus Lifesciences, KPI Green Q1 PAT decline, Siemens, RVNL, PI Industries, Manappuram Finance, NBCC, Kalpataru, Swan Defence, Bata, Gujarat Energy to announce Q1 results
 Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## RBI chief urges lenders to accelerate AI spend
-The central bank Governor, however, warned that AI use entailed risks including biased or opaque decision, besides data privacy and cybersecurity threats
+## Crude oil falls 10%: Will Brent prices drop further? | Trending commodity picks | EP 110
+Why oil prices are sliding despite Middle East tensions.
 
-## Trump reopens Fed battle at critical time for bond markets: Mike Dolan
-US President Trump has renewed his efforts to remove Fed Governor Lisa Cook over unproven mortgage fraud allegations, while his administration is anxious that the Fed could raise interest rates next month
+## L&T joins India’s race to build rare-earth magnet supply chain outside China
+The engineering giant is preparing to bid for a ₹7,280-crore incentive scheme aimed at building domestic capacity for the critical industrial component.
 
-## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 27% subscription in two hours of opening, LEAP India nears full subscription
-Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
+## Sensex today | Stock Market Live: Sensex down nearly 400 points, Nifty slips 0.53% as oil prices weigh
+Sensex, Nifty, Share Prices Live: Indian equities remained under pressure on Tuesday as elevated crude oil prices weighed on sentiment, despite stronger corporate earnings and renewed foreign portfolio inflows. Investors also tracked geopolitical risks, Adani Group stocks and upcoming changes to the
 
-## Jharkhand student protests enter 18th day as BJP calls statewide bandh
-The recruitment exam dispute has widened into a major political confrontation, with students, opposition parties and the government remaining locked in disagreement.
+## BRICS nations discuss linking payment systems and CBDCs, RBI chief says
+In the light of India hosting the ‌2026 edition of the BRICS summit, cross-border payments is considered an area of interest
 
-## AIRIA calls for diversified natural rubber sourcing, sees NE emerging as second production hub
-Kerala should continue to remain the country’s primary rubber-producing state, says Anay Gupta, president of AIRIA
+## MRF Q1 net profit down 1.3% at ₹495.35 cr
+The company had posted a consolidated net profit of ₹501.82 crore in the corresponding quarter last fiscal
 
 ## Gold price prediction today: Should you chase rally or buy gold on dips? Check August 11, 2026 outlook
 Gold prices may not be that much sensitive to higher oil prices as has been the case in the last few months unless oil surges sharply higher. However, as the Middle East situation remains volatile, gains in gold could be limited unless oil falls. Buying the dips is preferred over chasing the rally.
@@ -81,29 +87,29 @@ Oil prices are hovering near recent highs as prospects for a US-Iran agreement f
 ## Telecom companies report 24.4bn spam calls, messages in April-June
 
 
-## The World War 2 link that decided August 15 as India's independence date — and the astrologer who tried to stop it
-Britain had set June 1948 as its exit date. Mountbatten pulled it forward to a day that marked a wartime triumph, even as an astrologer warned of a curse.
+## Chaos erupts in Ranchi: ABVP workers climb on police bus, protesters detained
+The students have been protesting against the alleged irregularities in the Jharkhand government's recruitment exams JPSC and JSSC.
 
-## SC to hear PIL alleging breach of guidelines in Odisha DGP appointment process
-SC to hear PIL alleging breach of guidelines in Odisha DGP appointment process
+## Cal HC extends interim protection from arrest to Abhishek Banerjee till August 31
+Cal HC extends interim protection from arrest to Abhishek Banerjee till August 31
 
-## Police trainee officer arrested for cheating fellow trainees of over ₹7 lakh
-An officer of Peroorkada police station said that the accused -- Sambhu R Krishnan -- was a trainee in the Special Armed Police.
+## SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+The petition, however, makes it clear that it does not seek to curb criticism of the judiciary, democratic dissent, satire or free speech
 
-## NDA MPs target Rahul Gandhi over silence on use of lathis, water canons on protesting students in Jharkhand
-BJP MPs are questioning Rahul Gandhi's silence over the alleged use of lathis, water cannons against protesting students.
+## ‘Sunil Tatkare’s election illegal’: Complaint challenges Maha NCP chief's reappointment
+A complaint filed with the ECI challenges Sunil Tatkare’s re-election as Maharashtra NCP chief, alleging violations of the party’s constitution.
 
-## Lok Sabha adjourned within 4 mins as Opposition sticks to Shah statement demand
-Speaker Om Birla repeatedly urged Opposition lawmakers to stop protesting and let the lower House of Parliament function
+## Messi visit row: Kerala sports department submits probe report to govt
+Messi visit row: Kerala sports department submits probe report to govt
 
-## Kerala student seriously injured in Maharashtra taekwondo event; family alleges referee negligence
-Kerala student seriously injured in Maharashtra taekwondo event; family alleges referee negligence
+## Prakash Raj claims name dropped in Bengaluru voters' list after SIR: 'Kya kya kaagaz dikhana padega'
+Calling the development a 'joke', Raj said he was born and raised in the constituency, where he attended school and college and worked in theatre.
 
-## War of words, ‘photos and loyalties’ debate erupts in Tamil Nadu assembly over shifting alliances
-Sengottaiyan hit out at Panneerselvam and said "Just because you have shifted alliance, it does not mean you should sing paeans for your new leader."
+## Bill to bar state taxes on minerals tabled in Parliament, Oppn calls for committee review
+The bill seeks to give the Centre greater regulatory command over mines, while expanding this power to mineral-bearing lands.
 
-## Cops fact-check Harbhajan Singh over viral zombie drug clip: ‘From Rajasthan, not Punjab’
-BJP Rajya Sabha MP Harbhajan Singh re-shared a video that purportedly showed two men standing motionless, calling the situation “very sad.”
+## SC asks Centre to treat PIL for supervisory mechanism against digital harms as representation
+SC asks Centre to treat PIL for supervisory mechanism against digital harms as representation
 
 ## Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources
 Fast-fashion retailer Shein Global Holdings is planning to take investor orders for its Hong Kong initial public offering (IPO) as soon as next week, aiming for a valuation of US$35 billion, according to people familiar with the matter. The Singapore-headquartered company, which was founded in China
@@ -177,6 +183,12 @@ The region's maritime borders are hotly contested, but on land there's the real 
 ## Bangladesh Joins Saudi-led Defense Coalition as Bab el-Mandeb Risks Grow
 Bangladesh says that joining the Saudi-led defense coalition does not pose a threat to its relations with Iran.
 
+## Who Pays for America’s Research and Development?
+When the Soviet Union launched Sputnik in 1957, the U.S. government was the unrivaled patron of American science. It funded nearly two-thirds of the nation’s research and development — much of it for defense — defining the early Cold War. In a phenomenon that’s been widely explored in our Arsenal of
+
+## Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective
+Nine countries now possess nuclear weapons. Arms control agreements painstakingly built over decades have collapsed. Geopolitical competition is intensifying rivalries between nuclear-armed powers. North Korea continues expanding its arsenal and delivery systems. China is on a trajectory to go from 
+
 ## The White House Is Right on AI. Now Let Defenders Use It.
 The White House has the right instinct on AI. Its June 5 National Security Presidential Memorandum commits the government to putting the most capable models in the hands of national security professionals “without delay.” The military version of that bet is decision dominance: seeing, deciding, and 
 
@@ -194,12 +206,6 @@ In April 2026, over a month after the United States launched its attack on Iran,
 
 ## Warlords of Greece: Warfare in Homer’s World
 The Iliad and Odyssey have shaped Western ideas of heroism for nearly three millennia. Yet despite centuries of debate over whether they reflect historical reality or poetic fantasy, the Homeric world remains an internally consistent universe worth studying on its own terms. This isn’t about separat
-
-## How Can U.S. Special Operations Forces Help Defeat China on Taiwan?
-It is conceivable that in one blistering campaign, the People’s Republic of China could invade, occupy, and forcibly annex Taiwan. One question would dominate the post-occupation debate: “What more could have been done?” The obvious answers will be better intelligence, bigger exercises, more weapons
-
-## Attacks, Deals, and Discontent
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOver the last two weeks, President Donald Trump repeatedly threatened major attacks on Iran. Going into the 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town
+Officials accuse the Rapid Support Forces of carrying out the killings, saying grave held remains of children and women.
+
+## Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’
+Trump's comments are the first time he has spoken in FIFA president's defence since FFE plans were leaked on July 28.
+
+## Russian attacks kill six in Ukraine’s Zaporizhzhia
+A children's hospital has also been struck in Kyiv, according to Ukraine's state emergency service.
+
 ## Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
 The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
 
@@ -239,15 +254,6 @@ Trump Media & Technology Group earns less than $2m in Q2.
 
 ## Huge fire breaks out at Libya’s Zawiya refinery after drone attack
 National oil company warns it may halt operations at the country's largest operating refinery if drone attacks continue.
-
-## China’s Long March 7A rocket explodes after lift-off
-China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.
-
-## Fire rages after drone strikes Libya’s largest oil refinery
-A drone attack ignited gasoline at Libya's Zawiya oil refinery, the country's largest operational facility.
-
-## Where did all the money go if the US is running out of weapons?
-The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
 
 ## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
 The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
