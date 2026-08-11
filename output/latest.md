@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## FirstFT: EU border checks double waiting times
+Also in today’s newsletter: Chinese humanoid robot company prepares for IPO and Colombia earthquake death toll rises above 100
+
+## Burnham vows to stop early release of PC Harper’s killers
+PM says he is ‘increasingly confident’ prison space can be freed up to keep more serious criminals in jail
+
 ## Deutsche becomes first European clearing bank for renminbi
 China seeks to increase international use of its currency
 
@@ -18,12 +24,6 @@ A merger between the giant drugmakers would have marked a return to pharma megad
 ## Investing in the forgotten lands
 Getting Europe back on the radar
 
-## Singapore shrugs off Iran war as AI boom buoys growth
-Oil trading hub raises its GDP outlook and says energy market disruption has been less severe than expected
-
-## FirstFT: EU border checks double waiting times
-Also in today’s newsletter: Spain’s migrant amnesty and Turkish law on Kurdish militants
-
 ## Tony Blair’s son seeks funding for defence tech start-up
 Nick Blair in talks to raise roughly $200mn for new venture called Pyra
 
@@ -33,29 +33,35 @@ Malice and aspirations at the billion-dollar rumour mill
 ## EU border checks double queues at major airports
 Peak waiting times hit two hours in Frankfurt and Amsterdam
 
-## Sensex today | Stock Market Live: Sensex down over 400 pts, Nifty slips to 24,450 as crude oil prices weigh
+## Sensex today | Stock Market Live: Sensex drops 388 pts, Nifty slips to 24,471 on surging crude oil prices
 Sensex, Nifty, Share Prices Live: Indian equities remained under pressure on Tuesday as elevated crude oil prices weighed on sentiment, despite stronger corporate earnings and renewed foreign portfolio inflows. Investors also tracked geopolitical risks, Adani Group stocks and upcoming changes to the
 
-## Krystal Integrated Services bags ₹296 crore order in Maharashtra
-The orders, with an aggregate value of ₹740 crore, have been awarded to the LC Infra Krystal Consortium, wherein LC Infra Projects is the lead member and Krystal Integrated Services is the technical member
+## Rupee retreats to near two-week low as US-Iran standoff pushes oil higher
+Likely dollar selling intervention by the Reserve Bank of India, though, helped limit the currency’s losses, traders said.
 
-## Govt approves introduction of one billion polymer banknotes of ₹10 and ₹20
-The procurement of polymer banknotes still at an initial stage: Finance Minister
+## TN Assembly passes resolution urging Centre to withdraw FCRA Amendment Bill in its present form
+Rajmohan, Minister for School Education, Tamil Development, Information and Publicity, moved the Bill stating that this House expresses its deep concern over the provisions in the FCRA 2026, in its present form.
 
-## Q1 Results Today Live: Siemens, RVNL, Kalpataru Q1 profit rise, MRF, Zydus Lifesciences, KPI Green Q1 PAT decline, Unichem Lab turns profitable, PI Industries, Manappuram Finance, NBCC, Swan Defence, Bata, Gujarat Energy to announce Q1 results
+## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 66% subscription, LEAP India IPO crosses 4x subscription, Dhoot Transmission over 3x
+Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
+
+## Q1 Results Today Live: NBCC (India) PAT up 32% y-o-y, Siemens, RVNL, Kalpataru Q1 profit rise, MRF, Zydus Lifesciences, KPI Green Q1 PAT decline, PI Industries, Manappuram Finance, Swan Defence, Bata, Gujarat Energy to announce Q1 results
 Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Nine Bills passed in 52 minutes in a fortnight; average consideration time less than six minutes in Lok Sabha
-The Registration of Births and Deaths (Amendment) Bill, 2026, was passed in barely one minute.
+## India's index-options trading faces near-term drag from new stock closing, Bernstein says
+The equity research firm expects ‌the system to settle in the coming months even as the transition weighs on volumes and capital-market stocks ‌in the near term
 
-## Indian economy, banks well positioned to tackle West Asia crisis, trade risks: RBI Governor Malhotra
-Points to strong bank capital and liquidity, low non-performing assets and resilient macroeconomic fundamentals as key strengths
+## Andhra records 10.7% economic growth in Q2 of 2025-26
+The growth was led by agriculture at 13.5%, followed by industry at 10.6% and the services sector at 9.9%
 
-## ‘AI is not theoretical, or futuristic, it is already having an impact’: Philips India MD
-Future Health Index 2026 report finds physicians getting more time to see patients
+## TN Assembly passes resolution opposing FCRA Amendment Bill
+The resolution said the amendment may adversely affect the autonomy of charitable organisations and, in particular, the functioning of educational and social welfare institutions run by minorities
 
-## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 48% subscription
-Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
+## Rs 10, Rs 20 polymer notes get field-trial nod: What will change from paper currency?
+India is preparing to roll out polymer banknotes for initial trials shortly. The Reserve Bank of India plans to launch one billion pieces each of Rs 10 and Rs 20 denominations. These innovative polymer notes will coexist with current paper currency, with the goal of improving the longevity of lower 
+
+## India’s oil imports from Russia hit new record; refineries big exporters to countries sanctioning Moscow
+The US sanctions waiver on Russian crude has expired and a fresh tariff threat of up to 100% looms as the Trump administration pushes for a Russia sanctions bill that gives the American president powers to impose tariffs on biggest oil importers from Moscow.
 
 ## Gold price prediction today: Should you chase rally or buy gold on dips? Check August 11, 2026 outlook
 Gold prices may not be that much sensitive to higher oil prices as has been the case in the last few months unless oil surges sharply higher. However, as the Middle East situation remains volatile, gains in gold could be limited unless oil falls. Buying the dips is preferred over chasing the rally.
@@ -66,7 +72,7 @@ On Tuesday, the Indian rupee began its day lower against the US dollar, reflecti
 ## $500 bn AI boom: Nvidia, Wall Street giants join hands for chip, data centre push
 Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billion in external capital, positioning AI ch
 
-## Stock market today: BSE Sensex slips over 300 points, NSE Nifty50 trades at 24,500
+## Stock market today: Sensex ends over 380 points down, Nifty50 closes below 24,480
 
 
 ## Top stocks to buy today: Stock market recommendations for August 11, 2026 - check list
@@ -75,11 +81,23 @@ Mazagon Dock Shipbuilders, ICICI Lombard General Insurance, JSW Energy, and DLF 
 ## Trump Media Q2 results: US president-led media venture posts $238 m loss
 In the second quarter, Trump Media faced a dramatic loss of $238 million despite seeing its revenue more than double. However, operating losses expanded significantly, prompting the company to abandon new ventures like online betting and cryptocurrency. Their focus has shifted to the Truth API servi
 
-## Oil prices hold near one-week high as Strait of Hormuz reopening remains in limbo
-Oil prices are hovering near recent highs as prospects for a US-Iran agreement fade. On Tuesday morning, both WTI and Brent crude benchmarks experienced slight upticks. The situation is complicated by US demands for compensation, hindering the potential reopening of the crucial Strait of Hormuz. Ira
+## Coaching centres boom, charging huge fees: Why CM Vijay's govt wants NEET abolition
+State health minister KG Arunraj said the examination had “diverted focus of students” from the curriculum followed by schools to coaching.
 
-## Telecom companies report 24.4bn spam calls, messages in April-June
+## India needs a national urbanisation council to coordinate urban growth: Report
+WRI India also cites the United Nations-promoted degree of urbanisation methodology, under which about 61.6% of India’s population is classified as urban
 
+## In new video, PM Modi asks people to make Har Ghar Tiranga a celebration in every home
+Ahead of Independence Day, PM Modi has a request for citizens.
+
+## President Murmu gives assent to Vande Mataram Bill, grants it same legal protection as National Anthem
+The Parliament had passed the Prevention of Insults to National Honour (Amendment) Bill, 2026, amending the Prevention of Insults to National Honour Act, 1971.
+
+## ‘Zealots overlooked human nature’: Tharoor's ‘12 minutes’ question as new law for Vande Mataram okayed by President
+Congress MP Shashi Tharoor questioned the underlying premise of the law itself: “Can respect and patience be legislated?”
+
+## Dhruv Rathee’s video allegedly disparaging deities withheld, Google tells HC
+The Grievance Appellate Committee directed the video’s removal months after YouTuber Dhruv Rathee uploaded it on March 21
 
 ## Nasa invites Isro to join Moon Base program under Artemis Accords
 The two sides have also agreed to advance discussions for cooperation on open scientific data sharing under the Artemis Accords.
@@ -87,23 +105,11 @@ The two sides have also agreed to advance discussions for cooperation on open sc
 ## At least 31 school kids in Kolkata’s govt school fall ill, hospitalised: Officials
 While 24 students fell ill on Monday night and were taken to RG Kar Medical College and Hospital with complaints of nausea, vomiting and stomachache, seven more children were admitted on Tuesday
 
-## Kanwariyas form human chain to let Muslim man's funeral procession cross highway
-The funeral procession of 40-year-old Nizam, who died of heart attack, had to cross the highway as the graveyard was on the other side.
+## Wharf firms up balance sheet as Hong Kong home sales cushion profit slump
+Hong Kong developer Wharf (Holdings) is increasingly relying on Hong Kong’s luxury-home market to offset weakness in mainland China, while paring investments and building up cash as it navigates an uncertain outlook. Revenue from Wharf’s Hong Kong development properties nearly tripled to HK$1.35 bil
 
-## Chaos in Ranchi: ABVP workers climb on police bus, protesters detained
-The students have been protesting against the alleged irregularities in the Jharkhand government's recruitment exams JPSC and JSSC.
-
-## Cal HC extends interim protection from arrest to Abhishek Banerjee till August 31
-Cal HC extends interim protection from arrest to Abhishek Banerjee till August 31
-
-## SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
-The petition, however, makes it clear that it does not seek to curb criticism of the judiciary, democratic dissent, satire or free speech
-
-## ‘Sunil Tatkare’s election illegal’: Complaint challenges Maha NCP chief's reappointment
-A complaint filed with the ECI challenges Sunil Tatkare’s re-election as Maharashtra NCP chief, alleging violations of the party’s constitution.
-
-## Messi visit row: Kerala sports department submits probe report to govt
-Messi visit row: Kerala sports department submits probe report to govt
+## Alibaba says modular design delivers AI data centres in 100 days at 10% lower cost
+As demand for artificial intelligence infrastructure surges, Alibaba Group Holding says it can deliver new data centres in a fraction of the usual time while cutting construction costs by 10 per cent through its proprietary modular architecture. Using CUBE 5.0, Alibaba Cloud had slashed the delivery
 
 ## Unitree IPO deluge masks humanoid robots’ limitations
 Unitree Robotics’ Shanghai initial public offering (IPO) was more than 5,500 times oversubscribed by retail investors as optimism about fast stock gains and Chinese robot demand outweighed concerns about a US import ban. The 6.1 billion yuan (US$900 million) share sale drew 9.8 million orders from i
@@ -122,12 +128,6 @@ The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s
 
 ## Hong Kong index compiler proposes adding 20 more stocks to main technology tracker
 Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a criterion for selection to strengthen market representation, according to a consultation paper released on Monday. Hong Kong’s major stock index compiler proposed increasi
-
-## Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds
-While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of securing shares. Nearly 9.8 million accounts competed in the Hangzhou-based robot maker’s online sub
-
-## China’s banks look to unload more than US$8.2b in bad credit-card loans
-China’s commercial banks have stepped up efforts to dispose of non-performing credit-card loans, putting billions of yuan in troubled consumer debt up for sale as lenders seek to clean up balance sheets amid rising bad loans and shrinking interest margins. About 130 notices seeking buyers for bulk t
 
 ## What Morocco Was Saying to Spain in Ceuta
 The migrant crisis has underscored Madrid’s increasingly tenuous geopolitical position.
@@ -153,29 +153,29 @@ Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressi
 ## Why China’s Elites Still Want to Leave
 Social callousness pushes even the prosperous to seek new lives overseas.
 
+## Indonesia’s President Nominates Central Bank Deputy as New Governor
+The rupiah rose slightly on news of Destry Damayanti's nomination, which will now pass to the House of Representatives for approval.
+
+## Art, Surveillance, and the Politics of Memory in Southeast Asia
+In recent years, the region has seen a worrying rise of moral policing and restrictions on cultural expression.
+
+## ASEAN Fractures Widen as Thailand Hosts Myanmar’s Min Aung Hlaing
+A conversation with Mark Cogan of Kansai Gaidai University in Osaka.
+
+## US Official Reassures Asia of Commitment, Calls for Greater Burden Sharing
+Undersecretary of War Elbridge Colby told an audience in Manila that U.S. interests are "more engaged than ever in the Indo-Pacific."
+
+## Painting Bullseyes: What Iran’s Attacks on US Bases Mean for the Indo-Pacific
+The attacks in the Middle East have raised anxieties elsewhere, as residents of communities near U.S. bases the world over worry about becoming the target of external aggression.
+
+## Air Force Ascendant: Senior PLA Leadership Changes and Their Implications
+If current trends continue, the PLAAF is likely going to have a greater-than-usual presence on the next Central Military Commission.
+
 ## Safeguarding Storage: Wildberries’ Move to Kazakhstan
 As drone strikes on Wildberries warehouses across Russia continue, the company moves to increase its presence in Kazakhstan
 
 ## The Mecca Pact Extends Pakistan’s Security Role Westward
 Six months ago, it was unclear whether trilateral discussions between Pakistan, Saudi Arabia, and Turkiye would produce a formal agreement. They now have.
-
-## Austria Says No to the Tajik Government
-In Vienna, judges have now rejected four names from Dushanbe's 18-person extradition dossier.
-
-## The China-Russia-North Korea Authoritarian Axis Looms Over Wars in Ukraine and Iran
-Taiwan and other Indo-Pacific targets could be next.
-
-## Samsung, SK Hynix Tests of Chinese Chip Tools Expose Cracks in US Export Strategy
-South Korean chipmakers are evaluating Chinese equipment as a hedge against shifting export rules from Washington.
-
-## Sheikh Hasina’s Media Event in India Hits Bangladesh-India Ties
-By giving the deposed Bangladeshi PM a platform to lash out at the present regime from Indian soil, India has signaled that it still stands with its old friend.
-
-## Southeast Asia’s Border Disputes: Wars in Waiting?
-The region's maritime borders are hotly contested, but on land there's the real risk of conflict, too.
-
-## Bangladesh Joins Saudi-led Defense Coalition as Bab el-Mandeb Risks Grow
-Bangladesh says that joining the Saudi-led defense coalition does not pose a threat to its relations with Iran.
 
 ## Who Pays for America’s Research and Development?
 When the Soviet Union launched Sputnik in 1957, the U.S. government was the unrivaled patron of American science. It funded nearly two-thirds of the nation’s research and development — much of it for defense — defining the early Cold War. In a phenomenon that’s been widely explored in our Arsenal of
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Rescue efforts intensify as quake devastates western Colombia towns
-Rescue teams rush to find survivors as western Colombia grapples with deadly earthquake devastation.
+## East Libya military intelligence chief killed in car bomb
+Prime minister of the Eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.
 
-## Swiatek to face Svitolina in Canadian Open semifinal
-Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.
+## Who is Atef Najib, former Syrian official sentenced to death with al-Assad?
+Experts say this trial has been a test of Syria’s transitional justice.
 
-## What to know about the US primaries in Connecticut, Vermont, and Alabama
-Four redrawn Alabama districts will hold special elections for US House nominees on Tuesday.
+## Bangladesh and India battle to save cricket series after political turmoil
+Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.
 
-## ‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home
-Families divided as children of BJP supporters demand education reforms and reject politics of hate.
+## The Global South’s digital future must not belong to Bezos and Musk
+Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.
 
-## Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial
-This is a breaking news story.
+## Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on
+Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.
 
-## Trump sends conflicting signals on Iran strategy
-Trump sends conflicting signals on Iran strategy
+## Vietnam’s VinSpace announces deal with SpaceX to launch first satellite
+Hanoi-based aerospace firm says it will partner with Elon Musk's rocket company to deploy satellites next year.
 
-## Iran threat prompted secret Trump flight from Turkiye: Reports
-Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.
+## Colombia quake: Frantic search for survivors as over 2,700 reported missing
+Magnitude 7.4 earthquake kills at least 132 people and causes widespread damage in western Colombia.
 
-## Ukraine’s 40-day campaign has not brought the war closer to an end
-Kyiv is facing a brutal Russian response as its air defence missile stocks dwindle.
+## Israeli settler violence is ‘clear state terrorism’
+Israeli settler violence is ‘clear state terrorism’
 
 ## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
 The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
@@ -273,6 +273,9 @@ Brics trade ministers finalized their Economic Partnership 2030 strategy and ado
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
 
+## BRICS nations discuss linking payment systems and CBDCs, RBI chief says
+BRICS nations are exploring connections between their fast payment systems and central bank digital currencies. This initiative aims to significantly reduce the cost of cross-border payments for member countries. India is also working to promote the international use of its local currency, the rupee
+
 ## Rs 20,000 crore credit guarantee plan misses the mark
 Banks have disbursed merely seventeen percent of the credit guarantee scheme funds. Loan sanctions remain slow as banks show caution with smaller microfinance institutions. Larger microfinance companies are hesitant to borrow under the government's guarantee program. About one thousand crore rupees 
 
@@ -287,7 +290,4 @@ India has amended foreign direct investment regulations to boost e-commerce trad
 
 ## Trump says Congress wants to regulate AI industry "out of business"
 Recent incidents involving AI systems escaping containment have heightened cybersecurity concerns. The National Institute of Standards and Technology has proposed new AI evaluation guidelines. Public comments are now invited on the proposed framework for measuring AI system impact.
-
-## RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley
-The Reserve Bank of India has proposed new directions that could limit the availability of revolving credit facilities for NBFCs. This change might notably affect flexi and overdraft loan offerings, leading to potential adjustments in products to comply with regulations. If borrowers are transitione
 
