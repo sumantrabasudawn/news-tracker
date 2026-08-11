@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Investing in the forgotten lands
+Getting Europe back on the radar
+
+## Singapore shrugs off Iran war as AI boom buoys growth
+Oil trading hub raises its GDP outlook and says energy market disruption has been less severe than expected
+
 ## FirstFT: EU border checks double waiting times
 Also in today’s newsletter: Spain’s migrant amnesty and Turkish law on Kurdish militants
 
@@ -18,38 +24,41 @@ A merger between the giant drugmakers would have marked a return to pharma megad
 ## German truckers take the load as drought hits Rhine shipping
 Emergency move to suspend Sunday ban comes as economists warn of hit to country’s GDP growth
 
-## Carbon tax will hit EU’s budget airlines where it hurts
-Plans for a wider levy could benefit the bloc’s long-haul carriers but do little for low-cost operators
-
-## Banks’ refusal to take on crypto firms risks stunting UK industry’s growth, lawmakers say
-Parliamentary group asks lenders to clarify rules for serving crypto companies
+## Confessions of a former star M&A reporter
+Malice and aspirations at the billion-dollar rumour mill
 
 ## Nick Blair seeks funding for defence tech start-up
 Son of former British prime minister Tony Blair talks to investors for new venture called Pyra
 
+## Carbon tax will hit EU’s budget airlines where it hurts
+Plans for a wider levy could benefit the bloc’s long-haul carriers but do little for low-cost operators
+
 ## Q1 Results Today Live: Siemens, Zydus Lifesciences, MRF, RVNL, PI Industries, Manappuram Finance, NBCC, Kalpataru, Swan Defence, Bata, Gujarat Energy, KPI Green to announce Q1 results, Vi, Bosch, Hindustan Copper, Info Edge shares gain after Q1, Zee, Bharat Forge in red
 Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Shankesh Jewellers IPO to open on August 18; price band fixed at ₹88-93/share
-Mumbai-based jewellery wholesaler, Shankesh Jewellers, said on Tuesday that its ₹367 crore IPO will open for subscription on August 18
+## Gold futures rise to ₹1.54 lakh/10 gm on spot demand
+On the MCX, the yellow metal contracts for October delivery traded higher by ₹1,501, or 0.98%, at ₹1,54,600 per 10 grams in a business turnover of 1,332 lots
 
-## Entire top brass of CBIC-Chennai reshuffled overnight
-The scale and suddenness of the move is notable although the official order does not cite any complaint, disciplinary action or reason for the move.
+## Sparks fly in TN Assembly over alliance shifts
+The debate quickly turned personal as members traded barbs over changing political allegiances
 
-## Milky Mist IPO opens today: Why SBI Securities, Anand Rathi recommend ‘Subscribe’
-The IPO opens at a price band of ₹133-140 a share, after the company raised ₹465 crore from anchor investors ahead of the issue
+## Why the US is backing a tiny Australian town’s strategic scandium project
+A little-known Australian mining project is emerging as a potential strategic asset in the growing global contest over critical mineral supplies.
 
-## Sensex today | Stock Market Live: Sensex, Nifty fall as crude oil prices weigh on investor sentiment
-Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as elevated crude prices and Strait of Hormuz concerns weighed on sentiment. The decline came despite stronger corporate earnings and renewed foreign buying, with investors also tracking Adani stocks and the Nifty 50 reshuffle
+## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 16% subscription in first hour
+Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
 
-## Crude oil trades lower despite Trump demanding compensation from Iran
-At 10.02 am on Tuesday, October Brent oil futures were at $87.53, down by 0.22%, and September crude oil futures on WTI (West Texas Intermediate) were at $82, down by 0.16%
+## State Bank of India taps dollar bond market with five-year issue
+The bonds will be issued through SBI’s London branch, with initial price guidance set at roughly ‌120 basis points over US Treasuries.
 
-## Bharat Forge shares volatile after Q1FY27 loss, brokerages mixed on outlook
-The stock traded between ₹2,040.30 (down over 2%) and ₹2,114.90 on the NSE
+## Meta opens Muse Glimmer AI model weights to developers
+The move gives developers greater flexibility to build AI applications locally, while Meta prepares another model for broader developer access
 
-## Delhi likely to see cloudy skies, moderate rain on Tuesday
-Delhi will likely receive rain on Tuesday as the weather office issued a 'yellow alert' for generally cloudy skies and moderate rain
+## Vodafone Idea shares surge nearly 3% as Q1 loss narrows
+Nomura retains its ‘neutral’ rating with a target price of ₹12.60
+
+## $500 bn AI boom: Nvidia, Wall Street giants join hands for chip, data centre push
+Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billion in external capital, positioning AI ch
 
 ## Stock market today: BSE Sensex slips over 300 points, NSE Nifty50 trades at 24,500
 
@@ -72,32 +81,29 @@ Oil prices are hovering near recent highs as prospects for a US-Iran agreement f
 ## TCS flags data leak claims, finds no breach
 
 
-## CESC unit to buy six solar projects from ReNew
+## Multiple spells of rain expected in Delhi on Tuesday, IMD issues yellow alert
+The IMD said one or two spells of very light to light rain were expected at most places during the forenoon to afternoon
 
+## Tech Tonic: Mark Zuckerberg, an AI manifesto, and curating a tech guru aura
+From downplaying environment concerns to claiming we’ll all become entrepreneurs, Mark Zuckerberg wants to be the adult in an AI room. Should we let him?
+
+## How Saudi-Pakistan-Turkey pact casts a terror shadow over Delhi
+Red Fort bomber Umar Un Nabi and other India-linked terrorists had travelled to Turkey, where they met handlers or were radicalised, trained for terror attacks.
+
+## 17 children escape narrowly as school bus catches fire in Rajasthan’s Jaisalmer
+Police said the bus driver immediately stopped the bus and evacuated all the children safely before the flames engulfed the vehicle and burnt it completely
+
+## Nagaland CM urges Shah to reconsider FCRA amendments, seeks parliamentary panel review
+Nagaland CM urges Shah to reconsider FCRA amendments, seeks parliamentary panel review
+
+## Parliament monsoon session LIVE: Lok Sabha adjourned till 2 pm amid Oppn sloganeering
+Lok Sabha is set to hold discussion on the Kerala (Alteration of Name) Bill, 2026 and the National Co-operative Development Corporation (Amendment) Bill, 2026.
+
+## Wife of liquor chain owner held for assaulting domestic help at Gurugram's Camellias
+The matter came to light after a video of the incident, reportedly shot by an occupant of an adjacent flat in Camellias, was widely shared on social media.
 
 ## ‘New Parliament, PM house, why not…': CJP's Abhijeet Dipke launches campaign to improve govt schools in villages
 Abhijeet Dipke, while announcing the initiative, also called on parents to conduct a social audit of their children's schools and check for basic facilities.
-
-## Mumbai weather today: Rain lashes parts of city, SpiceJet issues advisory | Check forecast
-Some parts of the city received light rainfall on Tuesday morning, while others remained overcast.
-
-## FCRA bill may impact Christian groups, Nagaland CM tells Amit Shah
-Nagaland CM Rio requested the Centre to reconsider the FCRA amendments, highlighting potential negative effects on Christian groups and humanitarian efforts.
-
-## Live larvae, cockroach infestation: Why Blinkit, Reliance Retail facilities are under scanner
-FDA said it acted after receiving a complaint that live larvae were found in 'Laxmi Narayan' brand of packaged 'kaju katli' kept at the store.
-
-## SC to hear TN’s plea on Cauvery issue on August 13
-The Supreme Court will on Thursday hear Tamil Nadu’s plea seeking directions to Karnataka to comply with the Cauvery Water Management Authority’s (CWMA) decision to release 3,500 cusecs of water per day for 15 days from the Kabini and Krishna Raja Sagara reservoirs
-
-## 3 Bidar factories to be shut amid water pollution charges
-The state government on Monday ordered the immediate closure of three industrial plants in Humnabad Industrial Area after residents alleged that untreated chemical waste was being discharged into local water bodies, including the Guruganga and Manjra rivers
-
-## CJP's Abhijeet Dipke speaks to Devendra Mahto on video call: ‘He told me he was lathi-charged’
-Abhijeet Dipke claimed Devendra Mahto told him that he was lathi charged before being admitted to hospital, adding that he was also experiencing chest pain.
-
-## Savarkar row: BJP says IUML misusing power
-Thiruvananthapuram: A day after a school teacher was suspended over a controversial question on right-wing ideologue VD Savarkar in a quiz competition, the BJP on Monday alleged that the Indian Union Muslim League (IUML), whose minister is in charge of the education department, is “misusing power to
 
 ## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
 The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
@@ -219,6 +225,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Somali referee arrives for UEFA Super Cup after World Cup exclusion
+Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.
+
+## Family watches helplessly as Colombia quake destroys home
+A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.
+
+## Trump’s media company reports $238m loss
+Trump Media & Technology Group earns less than $2m in Q2.
+
+## Huge fire breaks out at Libya’s Zawiya refinery after drone attack
+National oil company warns it may halt operations at the country's largest operating refinery if drone attacks continue.
+
+## China’s Long March 7A rocket explodes after lift-off
+China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.
+
 ## Fire rages after drone strikes Libya’s largest oil refinery
 A drone attack ignited gasoline at Libya's Zawiya oil refinery, the country's largest operational facility.
 
@@ -227,21 +248,6 @@ The war on Iran is exposing shortages in US weapons stockpiles, raising question
 
 ## Colombia’s far-right government recognises Israeli claim over Golan Heights
 The South American nation is only the second country to recognise Israel's claims over the illegally annexed territory.
-
-## Trump demands compensation from Iran as talks on Strait of Hormuz continue
-US president seeks payment for '50 years' of alleged damages after Iran conditions opening of Hormuz on war reparations.
-
-## Trump orders fewer childhood vaccinations including splitting up MMR
-US President Donald Trump signed an executive order calling for fewer childhood vaccinations and splitting up MMR.
-
-## Soldiers take cover as Colombia quake flattens military barracks
-Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake
-
-## Turkiye passes law giving thousands of PKK members chance at amnesty
-Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.
-
-## Seventy years after South Africa’s women’s march, the struggle is not over
-Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
