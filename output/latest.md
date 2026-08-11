@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## When trouble strikes, who shadow-banks the shadow bankers?
+Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins
+
+## Long-term sickness may be smaller problem for UK than thought, says ONS
+Statistics agency’s new labour market survey shows lower levels of economic inactivity due to ill health
+
 ## Former Syrian dictator Assad sentenced to death in absentia
 Damascus court issues first ruling against ousted president since he fled to Russia in 2024
 
@@ -9,20 +15,14 @@ Deal by Hollywood mogul’s new venture Mari represents a big bet on continued d
 ## Why Washington views Abu Dhabi as one of its most capable Middle East allies
 Also in today’s newsletter, progressives gain ground as a Democratic socialist leads Wisconsin governor’s race
 
-## Democratic socialist leads Wisconsin governor’s race as progressives gain ground
-Some in party establishment think candidate’s views will lead to defeat against Republican in November’s election
+## Democratic socialist leads Wisconsin race in new threat to party leadership
+Primary victory would pit leftwing gubernatorial candidate against Trump-backed Republican in November midterms
 
 ## China tightens grip on Europe’s car supply chain
 Acquisitions of local parts makers amid resistance to Chinese exports have worried EU officials
 
 ## Volatility tumbles as markets shrug off Middle East risks
 Investors warn of complacency as Vix ‘fear gauge’ falls to prewar levels even as oil rises back to about $90 a barrel
-
-## How to stop Warsh becoming a lame duck
-The Federal Reserve chair needs to assert his authority or others will usurp his natural role
-
-## For prisons to work, we need to look at what is happening inside them
-The row over early releases ignores the fact that many will soon return without proper educational funding
 
 ## Humans cannot remain passengers in the back of the AGI car
 A sense of fatalistic inevitability about the technology’s evolution is triggering something close to despair
@@ -39,32 +39,32 @@ Also in today’s newsletter: Chinese humanoid robot company prepares for IPO an
 ## Deutsche becomes first European clearing bank for renminbi
 China seeks to increase international use of its currency
 
-## Goldman staff named as suspects in Brazil investigation
-Probe concerns shareholder dispute over cancer specialist Oncoclínicas
+## China imports rise sharply across engineering, textiles, toys
+Government cites QCOs, customs enforcement and trade remedies to curb sub-standard imports and duty evasion
 
-## Record cotton imports set to push up 2026-27 opening stocks to new high of 93.59 lakh bales
-The rise in domestic stocks is due to surge in imports to a record high this season, says Cotton Association of India
+## Vi optimistic of closing funding discussions with PSU banks: CEO Abhijit Kishore
+The company is said to be mainly in talks with the State Bank of India, while also exploring other funding routes
 
-## PSU bond issuances decline 37% in FY26 as more funding options emerge
-Capex by CPSEs rises 7.1% to ₹8.64 lakh crore in FY26 from ₹8.07 lakh crore in FY25
+## Pocket
 
-## Akasa Air loss widens 37% to ₹2716 crore in FY26
-The airline continues to face headwinds due to volatility in fuel and forex rates
 
-## FCRA amendment bill: Govt considers JPC route amid strong opposition stir
-Opposition parties, especially Congress, DMK, TMC and Samajwadi Party (SP), have hardened their stand and want the FCRA bill be either withdrawn or scrapped in the present format.
+## Godrej Consumer bets on Africa turnaround architect Aasif Malbari as new MD & CEO
+Godrej Consumer Products is betting on an internal leader who helped lift margins in Africa and has been closely involved in shaping the FMCG major’s financial strategy and growth since 2023.
 
-## India, China rice trade comes to a halt as Beijing revokes 7 rice exporters’ registration
-China alleges the presence of GMO in Indian rice consignments, but no GM food crop is grown in the subcontinent as stakeholders slam the move as ‘malafide’
+## Letters to Editor
 
-## Gujarat Energy Q1 profit jumps 70% on strong growth in gas businesses
-Revenues for the company’s city gas distribution and gas trading businesses rose 90% each during the June quarter
 
-## RBI wants AI to be responsibly harnessed; not to be seen as a risk: Sanjay Malhotra
-By harnessing AI capability, the economics of credit delivery changes fundamentally, banks can serve customers better and enhance their operational efficiency, he said
+## Bike taxis are not public transport vehicles, Karnataka tells SC
+Karnataka’s counsel emphasised that the restriction on bike taxis is both reasonable and necessary
 
-## LEAP India IPO subscribed 8.38 times, Technocraft Ventures issue sees 38.69x demand
-LEAP India IPO QIB portion subscribed 16.84 times, NII portion 12.64 times, retail portion 1.71 times and employee portion 10.99 times
+## Talent crunch intensifies as festive hiring of gig expected to go up 20% this year
+Demand is expected to be broad-based, with logistics, last-mile delivery and BFSI among the strongest hiring segments, where demand could rise by around 30%
+
+## UPI expands credit access beyond metros as first-time users adopt credit lines
+Access has also been relatively quick, with nearly 95 per cent % of eligible applicants receiving approval for a credit line within two hours, Kiwi said.
+
+## US stock market today: Wall Street near record high as inflation data in focus; oil prices swing
+Investors are now focused on Wednesday's release of the latest US inflation data. Economists expect the report to show that inflation remained elevated in July but eased slightly to 3.4% from 3.5% in June.
 
 ## What is MDR that is being proposed for UPI transactions, who pays the final cost? Explained
 The government has clarified that UPI will continue to remain free for consumers and no transaction charges will be applicable to person-to-person payments. The government has also said that if an MDR is introduced in the future it will only be applicable to a limited category of merchant transactio
@@ -87,32 +87,29 @@ Gold prices may not be that much sensitive to higher oil prices as has been the 
 ## Rupee slips 8 paise against US dollar as crude prices continue to rise
 On Tuesday, the Indian rupee began its day lower against the US dollar, reflecting a sense of caution in global markets due to concerns over the ongoing West Asia crisis. The rise in crude oil prices, combined with declines in domestic equity markets, has further pressured the rupee. However, suppor
 
-## $500 bn AI boom: Nvidia, Wall Street giants join hands for chip, data centre push
-Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billion in external capital, positioning AI ch
+## Bay low-pressure system to bring heavy rain to Bengal; fishermen warned
+The Regional Meteorological Centre, Kolkata, said an upper-air cyclonic circulation is currently lying over the northwest Bay of Bengal and adjoining areas.
+
+## 3 decades after he entered US, Indian-origin man accused of identity fraud, may lose American citizenship
+When stopped in US in 1991, he identified himself as Rushpal Singh; slipped through systemic cracks after deportation order, naturalised as citizen as Harinder
+
+## Theatre artists repaint Kolkata’s Academy of Fine Arts white from saffron
+The Academy of Fine Arts was established in 1933 by Lady Ranu Mukherjee and Maharaja Prodyot Kumar Tagore to promote Indian art
+
+## Assessing ramifications of new defence pact between Pak, Türkiye and Saudi: MEA
+The three Sunni Muslim countries signed the Makkah Joint Defence Agreement on August 7 that builds on a bilateral defence pact between Pakistan and Saudi Arabia
+
+## Search intensifies for BRO personnel who swept away in Chamoli flash flood
+The government on Tuesday also ordered a detailed scientific investigation of Chamoli flash flood that led to a sudden surge of water
+
+## 'Those who consider corruption a birthright…': in 1997 Independence Day speech, PM Gujral's appeal
+As India prepares to celebrate Independence Day, Hindustan Times revisits I. K. Gujral's Independence Day address from the Red Fort in 1997.
+
+## FDA inspects Indira canteens in Bengaluru after ‘rats found’ in kitchens
+The food safety and drug administration conducted the searches at Indira canteens at Gottigere in Bengaluru South and Lingarajapuram in Bengaluru North.
 
 ## Paper leaks systemic problem; non-BJP parties must set example in handling student protests: AISA chief Neha Bora
 Bora, who also took part in protest in JMM-ruled Jharkhand, called for greater unity among opposition and non-BJP parties in handling student movements
-
-## RSS chief Mohan Bahgwat to interact with Gen Z in Nagpur on Independence Day
-The RSS chief’s outreach to Gen-Z comes against the backdrop of growing political engagement among young people
-
-## Number of injured on Air India Phuket-Delhi flight that dropped 300 feet rises to 24
-Number of injured on Air India Phuket-Delhi flight that dropped 300 feet rises to 24
-
-## ‘We were just giving an update’: Outgoing Air India CEO on meeting with MoCA, DGCA over flight altitude drop
-Campbell Wilson stated that the briefing was focused on sharing preliminary findings and progress on the ongoing probe into the incident.
-
-## 'Cowards': Congress on Amit Shah's 'no show ' in Lok Sabha, Rijiju hits back
-This came a day after the government offered to debate students’ issues and police action in Parliament with a reply by Shah to resolve the Parliament logjam.
-
-## Record 48 million Kanwariyas visit Haridwar in 2026 Kanwar fair: Officials
-As many as 6.36 million devotees arrived in Haridwar on Monday alone to collect holy Ganga water, which they carried back
-
-## ‘Why are lathis not used in political parties' protests?’: Dipke slams police action on Jharkhand student protesters
-Abhijeet Dipke asserted that students are fighting for their rights and not for vote bank.
-
-## Pilot on Air India's Phuket-Delhi flight that dropped 300 feet tests positive for marijuana: Sources
-The pilot’s preliminary drug test had returned “non-negative”, a government release earlier said.
 
 ## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
 Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
@@ -234,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## DC residents debate safety gains a year into Trump’s Guard deployment
+Mixed reactions persist in Washington, DC, a year after Trump deployed the National Guard to address crime concerns.
+
+## Total solar eclipse 2026: Where, when and how to watch on Wednesday?
+Millions will see the sun disappear as the eclipse sweeps from the Arctic to Europe, bringing two minutes of totality.
+
+## Ten police and 17 “bandits” killed in firefight in northwestern Nigeria
+Police say 17 suspected gang members and two civilians were also killed in Kebbi State.
+
+## War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says
+President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.
+
 ## ‘Only job I know’: Philippine sailors return to sea despite wartime risks
 Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.
 
@@ -245,18 +254,6 @@ First responders in Lebanon risk their lives to save others even as Israeli atta
 
 ## Liverpool fans seek clarity on Bezos bid to buy stake
 Jeff Bezos reportedly part of consortium interested in English Premier League club Liverpool, but fans ask for meeting.
-
-## What’s behind Iran’s new military appointments and what do they indicate?
-Observers say the nominations empower the hardline old guard, prioritise loyalty over military innovation.
-
-## Hunter Biden defends Tucker Carlson over Netanyahu comments
-Hunter Biden defends Tucker Carlson over Netanyahu comments
-
-## Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup
-Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.
-
-## What to know about the US primary election in Minnesota
-Immigration is at the centre of another closely watched Democratic Senate race.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
