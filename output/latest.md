@@ -33,29 +33,29 @@ Malice and aspirations at the billion-dollar rumour mill
 ## EU border checks double queues at major airports
 Peak waiting times hit two hours in Frankfurt and Amsterdam
 
-## Sensex today | Stock Market Live: Sensex drops 388 pts, Nifty slips to 24,471 on surging crude oil prices
-Sensex, Nifty, Share Prices Live: Indian equities remained under pressure on Tuesday as elevated crude oil prices weighed on sentiment, despite stronger corporate earnings and renewed foreign portfolio inflows. Investors also tracked geopolitical risks, Adani Group stocks and upcoming changes to the
+## Vodafone Idea shares reverse early gains, Q1 loss narrows
+Nomura retains its ‘neutral’ rating with a target price of ₹12.60
 
-## Rupee retreats to near two-week low as US-Iran standoff pushes oil higher
-Likely dollar selling intervention by the Reserve Bank of India, though, helped limit the currency’s losses, traders said.
+## AP to adopt Dharavi model for slums development
+Project to use transferable development rights for 177 housing units on DBFT basis as pilot under Visakhapatnam Economic Region programme
 
-## TN Assembly passes resolution urging Centre to withdraw FCRA Amendment Bill in its present form
-Rajmohan, Minister for School Education, Tamil Development, Information and Publicity, moved the Bill stating that this House expresses its deep concern over the provisions in the FCRA 2026, in its present form.
+## Why BSE shares falling as Wipro set to replace it in Nifty 50
+Shares of BSE declined over 1% after opening flat on Tuesday, while Wipro traded flat, after the NSE announced that BSE will replace Wipro in the Nifty 50 index effective September 30
 
-## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 66% subscription, LEAP India IPO crosses 4x subscription, Dhoot Transmission over 3x
-Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
+## Govt extends PM E-Drive scheme till FY28
+PM E-Drive offers support for a maximum 45,79,120 e2Ws, with total funding support from the MHI pegged at ₹2,767 crore
 
 ## Q1 Results Today Live: NBCC (India) PAT up 32% y-o-y, Siemens, RVNL, Kalpataru Q1 profit rise, MRF, Zydus Lifesciences, KPI Green Q1 PAT decline, PI Industries, Manappuram Finance, Swan Defence, Bata, Gujarat Energy to announce Q1 results
 Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## India's index-options trading faces near-term drag from new stock closing, Bernstein says
-The equity research firm expects ‌the system to settle in the coming months even as the transition weighs on volumes and capital-market stocks ‌in the near term
+## Insecticides India Q1 net profit drops 24.5% to ₹43.87 crore on rainfall deficit
+The total income declined by 11.22% to ₹616.86 crore for the April-June quarter from ₹694.83 crore in the year-ago period
 
-## Andhra records 10.7% economic growth in Q2 of 2025-26
-The growth was led by agriculture at 13.5%, followed by industry at 10.6% and the services sector at 9.9%
+## Bharat Forge shares volatile after Q1FY27 loss, brokerages mixed on outlook
+The stock closed 2% lower
 
-## TN Assembly passes resolution opposing FCRA Amendment Bill
-The resolution said the amendment may adversely affect the autonomy of charitable organisations and, in particular, the functioning of educational and social welfare institutions run by minorities
+## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 76% subscription, LEAP India IPO crosses 8x subscription, Dhoot Transmission over 3x
+Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
 
 ## Rs 10, Rs 20 polymer notes get field-trial nod: What will change from paper currency?
 India is preparing to roll out polymer banknotes for initial trials shortly. The Reserve Bank of India plans to launch one billion pieces each of Rs 10 and Rs 20 denominations. These innovative polymer notes will coexist with current paper currency, with the goal of improving the longevity of lower 
@@ -81,29 +81,29 @@ Mazagon Dock Shipbuilders, ICICI Lombard General Insurance, JSW Energy, and DLF 
 ## Trump Media Q2 results: US president-led media venture posts $238 m loss
 In the second quarter, Trump Media faced a dramatic loss of $238 million despite seeing its revenue more than double. However, operating losses expanded significantly, prompting the company to abandon new ventures like online betting and cryptocurrency. Their focus has shifted to the Truth API servi
 
+## 'Where will jobs come from': Hemant Soren blames Centre policies for lack of employment, shutting of establishments
+Hemant Soren accused the BJP of providing government jobs in the state to people from other states during its tenure.
+
+## Disease outbreak in MP’s Balaghat kills 6 children, over 100 sick: Officials
+Experts are now supervising treatment, with acute nutritional deficiencies also detected among children
+
+## Manmohan Singh ‘most consequential PM’: Sonia Gandhi says his prophecy on Narendra Modi is coming true
+Congress Parliamentary Party chairperson's remarks come days after Supreme Court gave the late ex-PM Manmohan Singh a clean chit in coal block allocation case.
+
+## Mayawati urges Gen Z to stay away from BJP-Cong, says none serious about youth issues
+Mayawati said that the BSP has always stood firmly with the students and assured that the party will continue to do so.
+
+## ‘When will Trisha become deputy CM?’ After Stalin Jr, AIADMK leader targets CM Vijay
+In a video, Udhayakumar can be heard saying that the TVK government was appointing individuals closely associated with the Chief Minister.
+
 ## Coaching centres boom, charging huge fees: Why CM Vijay's govt wants NEET abolition
 State health minister KG Arunraj said the examination had “diverted focus of students” from the curriculum followed by schools to coaching.
 
 ## India needs a national urbanisation council to coordinate urban growth: Report
 WRI India also cites the United Nations-promoted degree of urbanisation methodology, under which about 61.6% of India’s population is classified as urban
 
-## In new video, PM Modi asks people to make Har Ghar Tiranga a celebration in every home
-Ahead of Independence Day, PM Modi has a request for citizens.
-
-## President Murmu gives assent to Vande Mataram Bill, grants it same legal protection as National Anthem
-The Parliament had passed the Prevention of Insults to National Honour (Amendment) Bill, 2026, amending the Prevention of Insults to National Honour Act, 1971.
-
-## ‘Zealots overlooked human nature’: Tharoor's ‘12 minutes’ question as new law for Vande Mataram okayed by President
-Congress MP Shashi Tharoor questioned the underlying premise of the law itself: “Can respect and patience be legislated?”
-
-## Dhruv Rathee’s video allegedly disparaging deities withheld, Google tells HC
-The Grievance Appellate Committee directed the video’s removal months after YouTuber Dhruv Rathee uploaded it on March 21
-
-## Nasa invites Isro to join Moon Base program under Artemis Accords
-The two sides have also agreed to advance discussions for cooperation on open scientific data sharing under the Artemis Accords.
-
-## At least 31 school kids in Kolkata’s govt school fall ill, hospitalised: Officials
-While 24 students fell ill on Monday night and were taken to RG Kar Medical College and Hospital with complaints of nausea, vomiting and stomachache, seven more children were admitted on Tuesday
+## In new video, PM Narendra Modi asks people to make Har Ghar Tiranga a celebration in every home
+Ahead of Independence Day, PM Narendra Modi has a request for citizens.
 
 ## Wharf firms up balance sheet as Hong Kong home sales cushion profit slump
 Hong Kong developer Wharf (Holdings) is increasingly relying on Hong Kong’s luxury-home market to offset weakness in mainland China, while paring investments and building up cash as it navigates an uncertain outlook. Revenue from Wharf’s Hong Kong development properties nearly tripled to HK$1.35 bil
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war
+After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.
+
+## Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out
+Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.
+
+## Palestine weekly: Netanyahu hedges on Gaza roadmap
+Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump's 15-point peace plan.
+
+## Baby among those rescued as hundreds feared missing after Colombia quake
+A 7.4-magnitude quake devastated western Colombia, killing 132, destroying buildings and leaving hundreds missing.
+
+## What to know about South Carolina’s election to replace Lindsey Graham
+Tuesday's special election will pick a Republican challenger for the midterm Senate race transformed by Graham's death.
+
+## DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record
+A total of 4,381 cases across five provinces have been confirmed in the Democratic Republic of the Congo as of Tuesday.
+
 ## East Libya military intelligence chief killed in car bomb
 Prime minister of the Eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.
 
 ## Who is Atef Najib, former Syrian official sentenced to death with al-Assad?
 Experts say this trial has been a test of Syria’s transitional justice.
-
-## Bangladesh and India battle to save cricket series after political turmoil
-Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.
-
-## The Global South’s digital future must not belong to Bezos and Musk
-Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.
-
-## Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on
-Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.
-
-## Vietnam’s VinSpace announces deal with SpaceX to launch first satellite
-Hanoi-based aerospace firm says it will partner with Elon Musk's rocket company to deploy satellites next year.
-
-## Colombia quake: Frantic search for survivors as over 2,700 reported missing
-Magnitude 7.4 earthquake kills at least 132 people and causes widespread damage in western Colombia.
-
-## Israeli settler violence is ‘clear state terrorism’
-Israeli settler violence is ‘clear state terrorism’
 
 ## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
 The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
@@ -273,6 +273,12 @@ Brics trade ministers finalized their Economic Partnership 2030 strategy and ado
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
 
+## Sebi measures reduce equity F&O losses for retail investors in FY26
+Sebi's new rules significantly lowered retail investor losses in equity derivatives. Aggregate net losses dropped to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore. Retail investor volumes and trading turnover also saw a decline in the same period. Sebi implemented several measures since November 2
+
+## Sebi measures reduce equity F&O losses for retail investors in FY26
+Sebi's new rules significantly lowered retail investor losses in equity derivatives. Aggregate net losses dropped to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore. Retail investor volumes and overall trading turnover also saw a decline in the same period. Sebi implemented several measures since No
+
 ## BRICS nations discuss linking payment systems and CBDCs, RBI chief says
 BRICS nations are exploring connections between their fast payment systems and central bank digital currencies. This initiative aims to significantly reduce the cost of cross-border payments for member countries. India is also working to promote the international use of its local currency, the rupee
 
@@ -287,7 +293,4 @@ Indonesian and Indian trade ministers met to boost bilateral trade and investmen
 
 ## India amends FDI rules to boost e-commerce for small businesses, artisans, farmers, and fishermen: Union Minister Piyush Goyal
 India has amended foreign direct investment regulations to boost e-commerce trade. These changes will help small businesses, artisans, farmers, and fishermen access wider markets. BRICS ministers discussed enhancing trade, investment, and industrial cooperation among member nations. Discussions also
-
-## Trump says Congress wants to regulate AI industry "out of business"
-Recent incidents involving AI systems escaping containment have heightened cybersecurity concerns. The National Institute of Standards and Technology has proposed new AI evaluation guidelines. Public comments are now invited on the proposed framework for measuring AI system impact.
 
