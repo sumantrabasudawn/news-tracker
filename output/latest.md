@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Can Democrats seize Congress from Trump?
+The races, the money and the issues that will determine the final half of Trump’s second term
+
+## Will failure in Iran reshape how the US fights?
+Veterans and voters have punished past administrations for costly wars, but these days many Americans don’t seem to care
+
 ## When trouble strikes, who shadow-banks the shadow bankers?
 Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins
 
@@ -18,14 +24,11 @@ Also in today’s newsletter, progressives gain ground as a Democratic socialist
 ## Democratic socialist leads Wisconsin race in new threat to party leadership
 Primary victory would pit leftwing gubernatorial candidate against Trump-backed Republican in November midterms
 
-## China tightens grip on Europe’s car supply chain
-Acquisitions of local parts makers amid resistance to Chinese exports have worried EU officials
-
-## Volatility tumbles as markets shrug off Middle East risks
-Investors warn of complacency as Vix ‘fear gauge’ falls to prewar levels even as oil rises back to about $90 a barrel
-
 ## Humans cannot remain passengers in the back of the AGI car
 A sense of fatalistic inevitability about the technology’s evolution is triggering something close to despair
+
+## China tightens grip on Europe’s car supply chain
+Acquisitions of local parts makers amid resistance to Chinese exports have worried EU officials
 
 ## Intel investors are banking on a comeback — and then some
 The spillover of AI mania has transformed demand and pricing
@@ -39,29 +42,35 @@ Also in today’s newsletter: Chinese humanoid robot company prepares for IPO an
 ## Deutsche becomes first European clearing bank for renminbi
 China seeks to increase international use of its currency
 
-## China imports rise sharply across engineering, textiles, toys
-Government cites QCOs, customs enforcement and trade remedies to curb sub-standard imports and duty evasion
-
-## Vi optimistic of closing funding discussions with PSU banks: CEO Abhijit Kishore
-The company is said to be mainly in talks with the State Bank of India, while also exploring other funding routes
-
-## Pocket
-
-
-## Godrej Consumer bets on Africa turnaround architect Aasif Malbari as new MD & CEO
-Godrej Consumer Products is betting on an internal leader who helped lift margins in Africa and has been closely involved in shaping the FMCG major’s financial strategy and growth since 2023.
-
-## Letters to Editor
-
-
-## Bike taxis are not public transport vehicles, Karnataka tells SC
-Karnataka’s counsel emphasised that the restriction on bike taxis is both reasonable and necessary
+## Record cotton imports set to push up 2026-27 opening stocks to new high of 93.59 lakh bales
+The rise in domestic stocks is due to surge in imports to a record high this season, says Cotton Association of India
 
 ## Talent crunch intensifies as festive hiring of gig expected to go up 20% this year
 Demand is expected to be broad-based, with logistics, last-mile delivery and BFSI among the strongest hiring segments, where demand could rise by around 30%
 
-## UPI expands credit access beyond metros as first-time users adopt credit lines
-Access has also been relatively quick, with nearly 95 per cent % of eligible applicants receiving approval for a credit line within two hours, Kiwi said.
+## Screening India’s healthcare diagnostics market
+
+
+## Vijay Singh exits Sir Ratan Tata Trust
+The resignation comes three days before his tenure was supposed to end
+
+## Vi optimistic of closing funding discussions with PSU banks: CEO Abhijit Kishore
+The company is said to be mainly in talks with the State Bank of India, while also exploring other funding routes
+
+## India’s crude oil imports from the US likely to hit record low in August
+Washington’s crude oil supply has become increasingly light, which does not always fit naturally into the refining diet of India
+
+## Air India management summoned over Phuket-Delhi incident
+Passenger injuries rise to 20; secondary psychoactive-substance test of pilot reportedly positive, official confirmation awaited
+
+## Govt constitutes empowered committee of secretaries for oil & gas upstream sector
+The government constitutes the ECS from time to time for resolving issues related to the E&P sector
+
+## Fitch retains India’s credit rating at BBB-, sees strong economy; warns of fiscal risks due to protests
+The ratings agency said the Indian economy continues to demonstrate resilience despite the energy shock arising from the conflict in West Asia, supported by a strong growth outlook and sound external financing fundamentals.
+
+## Direct tax collections rise sharply to Rs 8.11 lakh crore; non-corporate taxes lead
+India's direct tax collections have surged impressively, seeing an increase of over twenty-three percent. As of August 10, gross direct tax collections reached a staggering Rs 9.55 lakh crore. The bulk of these collections stemmed from non-corporate tax receipts, while both corporate tax collections
 
 ## US stock market today: Wall Street near record high as inflation data in focus; oil prices swing
 Investors are now focused on Wednesday's release of the latest US inflation data. Economists expect the report to show that inflation remained elevated in July but eased slightly to 3.4% from 3.5% in June.
@@ -81,35 +90,29 @@ India is preparing to roll out polymer banknotes for initial trials shortly. The
 ## India’s oil imports from Russia hit new record; refineries big exporters to countries sanctioning Moscow
 The US sanctions waiver on Russian crude has expired and a fresh tariff threat of up to 100% looms as the Trump administration pushes for a Russia sanctions bill that gives the American president powers to impose tariffs on biggest oil importers from Moscow.
 
-## Gold price prediction today: Should you chase rally or buy gold on dips? Check August 11, 2026 outlook
-Gold prices may not be that much sensitive to higher oil prices as has been the case in the last few months unless oil surges sharply higher. However, as the Middle East situation remains volatile, gains in gold could be limited unless oil falls. Buying the dips is preferred over chasing the rally.
+## Rainwater accumulates in Noida Airport, authorities say ‘cleared in 30 minutes’
+The Noida Airport statement added that there was no impact on flight operations or the overall functioning of the airport.
 
-## Rupee slips 8 paise against US dollar as crude prices continue to rise
-On Tuesday, the Indian rupee began its day lower against the US dollar, reflecting a sense of caution in global markets due to concerns over the ongoing West Asia crisis. The rise in crude oil prices, combined with declines in domestic equity markets, has further pressured the rupee. However, suppor
+## 'Well done': After Gen Z, Alpha get into protest arena in UP; CJP's Dipke, Das give a shoutout
+Schoolchildren marched several kilometres from Chandupur and nearby villages to the Collectorate, demanding a proper road.
+
+## 2020 Hathras rape: Court to hear defamation case against Rahul Gandhi on Sept 19
+According to the complainant's counsel, Gandhi allegedly stated that the accused were "roaming free" while the victim's family remained confined to their home.
+
+## ‘Will update when there is one’: India on Dhaka’s Hasina extradition request
+Jaiswal’s remarks came a day after Dhaka called for expediting Hasina’s extradition at a meeting between PM Tarique Rahman and Indian envoy Dinesh Trivedi.
+
+## How is AAIB probing Air India Phuket-Delhi 'turbulence' case? What Centre said
+The AAIB will take into account all relevant technical, operational, medical and human factor-based evidence.
+
+## First posting, WhatsApp chats: Trainee IPS officer in midst of ₹1-crore bribe allegations in cyber fraud case
+Matter relating to IPS Rahul Bansal reached CBI court in Delhi, which sought report from the DGP of Chhattisgarh and the director of CBI on action taken
 
 ## Bay low-pressure system to bring heavy rain to Bengal; fishermen warned
 The Regional Meteorological Centre, Kolkata, said an upper-air cyclonic circulation is currently lying over the northwest Bay of Bengal and adjoining areas.
 
 ## 3 decades after he entered US, Indian-origin man accused of identity fraud, may lose American citizenship
 When stopped in US in 1991, he identified himself as Rushpal Singh; slipped through systemic cracks after deportation order, naturalised as citizen as Harinder
-
-## Theatre artists repaint Kolkata’s Academy of Fine Arts white from saffron
-The Academy of Fine Arts was established in 1933 by Lady Ranu Mukherjee and Maharaja Prodyot Kumar Tagore to promote Indian art
-
-## Assessing ramifications of new defence pact between Pak, Türkiye and Saudi: MEA
-The three Sunni Muslim countries signed the Makkah Joint Defence Agreement on August 7 that builds on a bilateral defence pact between Pakistan and Saudi Arabia
-
-## Search intensifies for BRO personnel who swept away in Chamoli flash flood
-The government on Tuesday also ordered a detailed scientific investigation of Chamoli flash flood that led to a sudden surge of water
-
-## 'Those who consider corruption a birthright…': in 1997 Independence Day speech, PM Gujral's appeal
-As India prepares to celebrate Independence Day, Hindustan Times revisits I. K. Gujral's Independence Day address from the Red Fort in 1997.
-
-## FDA inspects Indira canteens in Bengaluru after ‘rats found’ in kitchens
-The food safety and drug administration conducted the searches at Indira canteens at Gottigere in Bengaluru South and Lingarajapuram in Bengaluru North.
-
-## Paper leaks systemic problem; non-BJP parties must set example in handling student protests: AISA chief Neha Bora
-Bora, who also took part in protest in JMM-ruled Jharkhand, called for greater unity among opposition and non-BJP parties in handling student movements
 
 ## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
 Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
@@ -135,6 +138,12 @@ A rebound in gold prices has pushed shares of Chinese producers of the precious 
 ## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
 The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
 
+## Debanking Dissidents
+The Trump administration is following in the footsteps of authoritarian regimes by weaponizing global banking rules against its enemies.
+
+## Trump Has His Own Communist Manifesto
+Seldom before has the U.S. government intervened so actively in the economy.
+
 ## China Has Chosen to Disappoint Its Consumers
 Beijing’s choice moves Washington’s leverage from tariffs to currency.
 
@@ -152,12 +161,6 @@ From refugees to abducted children, Russia has wreaked havoc on young Ukrainians
 
 ## Europe’s Summer of Nightmares
 Punishing heat and wildfires have cost billions and displaced hundreds of thousands of people.
-
-## Dismantling the ICC Doesn’t Serve U.S. Interests
-The Trump administration’s campaign against the court is transparently cynical.
-
-## Todd Blanche’s Confirmation Would Have Been a Scandal in 1973
-Nixon’s “Saturday Night Massacre” triggered nationwide outrage—and a firewall that is now gone.
 
 ## Indonesia’s President Nominates Central Bank Deputy as New Governor
 The rupiah rose slightly on news of Destry Damayanti's nomination, which will now pass to the House of Representatives for approval.
@@ -231,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Hungary elects supreme court judge ousted by Orban as new president
+Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.
+
+## Rwanda: The genocide against the Tutsi
+How colonial identity, extremist politics and 'hate radio' helped turn Rwanda’s genocide into organised mass murder.
+
+## Lebanon parliament votes to end death penalty, 1st in Middle East to do so
+Death sentences will be replaced with life imprisonment with aggravated hard labour.
+
 ## DC residents debate safety gains a year into Trump’s Guard deployment
 Mixed reactions persist in Washington, DC, a year after Trump deployed the National Guard to address crime concerns.
 
@@ -245,15 +257,6 @@ President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfec
 
 ## ‘Only job I know’: Philippine sailors return to sea despite wartime risks
 Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.
-
-## What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?
-The Mecca defence pact combines a top oil exporter, NATO's second-largest army and the only Muslim nuclear arsenal.
-
-## Under Fire: Lebanon’s first responders | Al Jazeera Originals
-First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.
-
-## Liverpool fans seek clarity on Bezos bid to buy stake
-Jeff Bezos reportedly part of consortium interested in English Premier League club Liverpool, but fans ask for meeting.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
