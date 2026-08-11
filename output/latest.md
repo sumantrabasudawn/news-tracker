@@ -1,66 +1,63 @@
 # AION Intelligence
 
-## How to fix the housing crisis | John Burn-Murdoch
-How housing shortages reached a crisis point, and what we can do about it
+## FirstFT: EU border checks double waiting times
+Also in today’s newsletter: Spain’s migrant amnesty and Turkish law on Kurdish militants
 
-## Hong Kong set to include trading firms in ‘big bang’ tax reforms
-Proposal is part of push by the Chinese territory to compete with Singapore for top-tier financial talent
+## What will Warsh do to favour Main Street over Wall Street?
+Evidence is mounting that the divide is rather more difficult to fix than the new Federal Reserve chair had thought
 
-## Yen sinks as effect of US-Japan intervention fades
-Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks
+## EU border checks double queues at major airports
+Peak waiting times hit two hours in Frankfurt and Amsterdam
 
-## India to allow charges on wildly successful digital payment system
-Also in this newsletter, more tariff threats
+## Nvidia becomes the bank of AI
+Wall Street groups are working with the chipmaker to assemble a $500bn funding package for AI infrastructure
 
-## Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth
-Hanoi prioritises homegrown conglomerates after relying on trade and foreign investment
+## How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled
+A merger between the giant drugmakers would have marked a return to pharma megadeals
 
-## JBS heir to become CEO of world’s largest meatpacker
-Wesley Batista Filho’s move to the top role will restore control of the company to its founding family
+## German truckers take the load as drought hits Rhine shipping
+Emergency move to suspend Sunday ban comes as economists warn of hit to country’s GDP growth
 
-## The renminbi’s hardest mile is only now beginning
-Turning currency into an asset the world wants to hold will be hard
+## Carbon tax will hit EU’s budget airlines where it hurts
+Plans for a wider levy could benefit the bloc’s long-haul carriers but do little for low-cost operators
 
-## OpenAI’s head of ethics leaves start-up less than one year after joining
-Chloé Bakalar’s departure is one of several high-profile exits at the group in recent weeks as safety concerns mount
+## Banks’ refusal to take on crypto firms risks stunting UK industry’s growth, lawmakers say
+Parliamentary group asks lenders to clarify rules for serving crypto companies
 
-## Chile grants unprecedented reprieve to state copper miner
-Codelco has seen production slump and debt surge as demand explodes for the metal that is critical for data centres
+## Nick Blair seeks funding for defence tech start-up
+Son of former British prime minister Tony Blair talks to investors for new venture called Pyra
 
-## Wall Street giants partner with Nvidia on $500bn AI financing deal
-Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
+## Q1 Results Today Live: Siemens, Zydus Lifesciences, MRF, RVNL, PI Industries, Manappuram Finance, NBCC, Kalpataru, Swan Defence, Bata, Gujarat Energy, KPI Green to announce Q1 results, Vi, Bosch, Hindustan Copper, Info Edge shares gain after Q1, Zee, Bharat Forge in red
+Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Burnham to crack down on vape and betting shops in bid to boost high streets
-Councils will be given extra powers to curb unwanted retailers and ‘bring town centres back to life’
+## Shankesh Jewellers IPO to open on August 18; price band fixed at ₹88-93/share
+Mumbai-based jewellery wholesaler, Shankesh Jewellers, said on Tuesday that its ₹367 crore IPO will open for subscription on August 18
 
-## Glencore-backed group looks to rescue cobalt refiner Sherritt
-New consortium is the second major investor aiming for control of North America’s only cobalt refinery
+## Entire top brass of CBIC-Chennai reshuffled overnight
+The scale and suddenness of the move is notable although the official order does not cite any complaint, disciplinary action or reason for the move.
 
-## State Bank of India taps dollar bond market with five-year issue
-SBI is tapping ​the dollar debt ⁠market through the public issue and plans to raise funds through ‌a sale of five-year bonds
-
-## Sensex today | Stock Market Live: Sensex, Nifty set for muted opening as crude oil prices rise
-Sensex, Nifty, Share Prices Live: Indian equities are likely to begin Tuesday on a subdued note as elevated crude prices and uncertainty over the Strait of Hormuz offset support from strong corporate earnings and renewed foreign inflows, keeping investors cautious ahead of fresh domestic cues.
-
-## Demand for AI skills boosts campus placement salaries
-Fresh graduates can now snag job offers ranging from ₹7-12 lakh, a huge leap from the earlier ₹3-4 lakh norm
-
-## Trump secretly flew on U.S. military jet from Turkey amid Iran threat: Report
-The revelation highlights heightened security precautions surrounding presidential travel as tensions between Washington and Tehran intensified during the NATO summit.
-
-## NABL introduces accreditation scheme for mobile food testing labs in India
-The new framework seeks to take accredited food testing services beyond conventional laboratories, bringing quality checks closer to consumers and communities.
-
-## Jupiter Wagons wins ₹400-crore battery storage projects from WBSEDCL
-The orders mark a significant step in the company’s push to expand its energy storage business alongside its established rail operations.
-
-## Tamil Nadu-based Milky Mist IPO opens today: Why SBI Securities, Anand Rathi recommend ‘Subscribe’
+## Milky Mist IPO opens today: Why SBI Securities, Anand Rathi recommend ‘Subscribe’
 The IPO opens at a price band of ₹133-140 a share, after the company raised ₹465 crore from anchor investors ahead of the issue
 
-## ITC partners with Swarna Andhra P4 Foundation to adopt 100 villages
-The partnership will focus on livelihoods, skilling, agriculture, water security and women’s empowerment, with 15 villages developed as Lighthouse models.
+## Sensex today | Stock Market Live: Sensex, Nifty fall as crude oil prices weigh on investor sentiment
+Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as elevated crude prices and Strait of Hormuz concerns weighed on sentiment. The decline came despite stronger corporate earnings and renewed foreign buying, with investors also tracking Adani stocks and the Nifty 50 reshuffle
 
-## Trump Media Q2 results: US president led media ventrue posts $238 million loss as crypto holdings tumble
+## Crude oil trades lower despite Trump demanding compensation from Iran
+At 10.02 am on Tuesday, October Brent oil futures were at $87.53, down by 0.22%, and September crude oil futures on WTI (West Texas Intermediate) were at $82, down by 0.16%
+
+## Bharat Forge shares volatile after Q1FY27 loss, brokerages mixed on outlook
+The stock traded between ₹2,040.30 (down over 2%) and ₹2,114.90 on the NSE
+
+## Delhi likely to see cloudy skies, moderate rain on Tuesday
+Delhi will likely receive rain on Tuesday as the weather office issued a 'yellow alert' for generally cloudy skies and moderate rain
+
+## Stock market today: BSE Sensex slips over 300 points, NSE Nifty50 trades at 24,500
+
+
+## Top stocks to buy today: Stock market recommendations for August 11, 2026 - check list
+Mazagon Dock Shipbuilders, ICICI Lombard General Insurance, JSW Energy, and DLF - Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has identified these as the top stocks
+
+## Trump Media Q2 results: US president-led media venture posts $238 m loss
 In the second quarter, Trump Media faced a dramatic loss of $238 million despite seeing its revenue more than double. However, operating losses expanded significantly, prompting the company to abandon new ventures like online betting and cryptocurrency. Their focus has shifted to the Truth API servi
 
 ## Oil prices hold near one-week high as Strait of Hormuz reopening remains in limbo
@@ -78,38 +75,35 @@ Oil prices are hovering near recent highs as prospects for a US-Iran agreement f
 ## CESC unit to buy six solar projects from ReNew
 
 
-## Voda Idea Q1 loss narrows to 3.7k cr post dues relaxation
+## ‘New Parliament, PM house, why not…': CJP's Abhijeet Dipke launches campaign to improve govt schools in villages
+Abhijeet Dipke, while announcing the initiative, also called on parents to conduct a social audit of their children's schools and check for basic facilities.
 
+## Mumbai weather today: Rain lashes parts of city, SpiceJet issues advisory | Check forecast
+Some parts of the city received light rainfall on Tuesday morning, while others remained overcast.
 
-## Govt: No policy stops airports from taking airline stakes
+## FCRA bill may impact Christian groups, Nagaland CM tells Amit Shah
+Nagaland CM Rio requested the Centre to reconsider the FCRA amendments, highlighting potential negative effects on Christian groups and humanitarian efforts.
 
+## Live larvae, cockroach infestation: Why Blinkit, Reliance Retail facilities are under scanner
+FDA said it acted after receiving a complaint that live larvae were found in 'Laxmi Narayan' brand of packaged 'kaju katli' kept at the store.
 
-## Full Vande Mataram to ring out from Red Fort for 1st time on Independence Day
-Vande Mataram will be sung as PM Modi arrives at Red Fort, followed by flag hoisting and his customary address to the nation.
+## SC to hear TN’s plea on Cauvery issue on August 13
+The Supreme Court will on Thursday hear Tamil Nadu’s plea seeking directions to Karnataka to comply with the Cauvery Water Management Authority’s (CWMA) decision to release 3,500 cusecs of water per day for 15 days from the Kabini and Krishna Raja Sagara reservoirs
 
-## Junior doctor found dead inside hostel room in Gujarat, 4 suspended for ragging
-Statements of fellow students indicated that the deceased doctor had faced repeated mental harassment and torture by senior doctors.
+## 3 Bidar factories to be shut amid water pollution charges
+The state government on Monday ordered the immediate closure of three industrial plants in Humnabad Industrial Area after residents alleged that untreated chemical waste was being discharged into local water bodies, including the Guruganga and Manjra rivers
 
-## Must file FIR for every missing person, says SC in bid to curb human trafficking
-This is a re-clarification on a May 22 order which states interpreted only in the sense of registerin FIRs against “missing children” and not "missing people.
+## CJP's Abhijeet Dipke speaks to Devendra Mahto on video call: ‘He told me he was lathi-charged’
+Abhijeet Dipke claimed Devendra Mahto told him that he was lathi charged before being admitted to hospital, adding that he was also experiencing chest pain.
 
-## Amit Shah will reply to student protests debate, says govt; Opposition demands specific reasons, Ram temple discussion
-NEET protest debate: Parliamentary affairs minister Kiren Rijiju made the offer during a BAC meeting in a bid to end the two-week-long logjam in the Lok Sabha.
+## Savarkar row: BJP says IUML misusing power
+Thiruvananthapuram: A day after a school teacher was suspended over a controversial question on right-wing ideologue VD Savarkar in a quiz competition, the BJP on Monday alleged that the Indian Union Muslim League (IUML), whose minister is in charge of the education department, is “misusing power to
 
-## 18 shortlisted for Ram Temple CEO post amid donation case, interviews from today
-The 18 shortlisted candidates reached Ayodhya late on Monday and were instructed to not talk to media during their stay in the city.
-
-## Delhi’s August rainfall crosses normal mark in just 10 days, with three more weeks of showers expected
-This is the earliest rains in Delhi have crossed the mark in at least 15 years, with just seven days of showers in the first 10 days of the month.
-
-## Gautam Adani welcomes big legal relief by US court: 'Deep respect for judiciary'
-Reacting to the legal relief, Gautam Adani took to the social media platform X and welcomed the judgement.
-
-## Man kills 2 daughters, attempts suicide at 5-star hotel near Bengaluru airport
-The police said that a note purportedly referring to a dispute over an alleged extramarital relationship was found in the Bengaluru hotel room.
+## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
+The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
 
 ## Hong Kong index compiler proposes adding 20 more stocks to main technology tracker
-Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a selection criterion to strengthen market representation, according to a consultation paper released on Monday. Hong Kong’s major stock index compiler proposed increasing t
+Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a criterion for selection to strengthen market representation, according to a consultation paper released on Monday. Hong Kong’s major stock index compiler proposed increasi
 
 ## Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds
 While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of securing shares. Nearly 9.8 million accounts competed in the Hangzhou-based robot maker’s online sub
@@ -129,8 +123,8 @@ A buyer with the same name as the founding chairwoman of a global immigration co
 ## Can CATL’s battery breakthrough push flying cars closer to a commercial reality in China?
 Contemporary Amperex Technology Ltd (CATL), the world’s largest electric vehicle (EV) battery maker, has thrown its weight behind flying cars after its aviation battery system cleared a major safety test. A successful roll-out of passenger-carrying drone batteries, backed by CATL’s innovation drive 
 
-## China’s five-year road map for the power sector
-China unveiled its 15th five-year plan for the power sector on August 3. Below are key targets of the blueprint, which was released jointly by the National Development and Reform Commission and National Energy Administration. See original document in Chinese: 新型电力系统建设“十五五”规划 by scmp
+## What Morocco Was Saying to Spain in Ceuta
+The migrant crisis has underscored Madrid’s increasingly tenuous geopolitical position.
 
 ## Netanyahu Nixes Trump’s Gaza Deal
 Another weekend with no resolution to the Middle East’s wars.
@@ -152,9 +146,6 @@ Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressi
 
 ## Why China’s Elites Still Want to Leave
 Social callousness pushes even the prosperous to seek new lives overseas.
-
-## The Straits Are Not OK
-After Hormuz, global waterways will return to being sites of bloody contention.
 
 ## Safeguarding Storage: Wildberries’ Move to Kazakhstan
 As drone strikes on Wildberries warehouses across Russia continue, the company moves to increase its presence in Kazakhstan
@@ -228,6 +219,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Fire rages after drone strikes Libya’s largest oil refinery
+A drone attack ignited gasoline at Libya's Zawiya oil refinery, the country's largest operational facility.
+
+## Where did all the money go if the US is running out of weapons?
+The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
+
 ## Colombia’s far-right government recognises Israeli claim over Golan Heights
 The South American nation is only the second country to recognise Israel's claims over the illegally annexed territory.
 
@@ -245,12 +242,6 @@ Turkiye passes law setting terms for thousands of PKK members to rejoin society 
 
 ## Seventy years after South Africa’s women’s march, the struggle is not over
 Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.
-
-## Can Netanyahu defy Trump on his Gaza peace plan?
-Can Netanyahu risk continuing to defy Trump?
-
-## Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
-US President Donald Trump said he will seek compensation from Iran for casualties in the war.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
@@ -276,6 +267,15 @@ This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecut
 ## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
 In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
 
+## Rs 20,000 crore credit guarantee plan misses the mark
+Banks have disbursed merely seventeen percent of the credit guarantee scheme funds. Loan sanctions remain slow as banks show caution with smaller microfinance institutions. Larger microfinance companies are hesitant to borrow under the government's guarantee program. About one thousand crore rupees 
+
+## India, South Africa-led SACU group may ink terms of reference for negotiating trade pact on Aug 12
+South Africa is India's largest trading partner within the SACU bloc. Bilateral trade between India and South Africa saw a dip last fiscal year. Other SACU members like Botswana and Namibia show growing trade with India.
+
+## Indonesia-India discuss proposal to create Preferential Trade Agreement
+Indonesian and Indian trade ministers met to boost bilateral trade and investment. They discussed accelerating cooperation and enhancing market access for mutual benefit. Both nations are reviewing the ASEAN-India Trade in Goods Agreement, aiming for 2026. Indonesia supports simpler, business-friend
+
 ## India amends FDI rules to boost e-commerce for small businesses, artisans, farmers, and fishermen: Union Minister Piyush Goyal
 India has amended foreign direct investment regulations to boost e-commerce trade. These changes will help small businesses, artisans, farmers, and fishermen access wider markets. BRICS ministers discussed enhancing trade, investment, and industrial cooperation among member nations. Discussions also
 
@@ -287,13 +287,4 @@ The Reserve Bank of India has proposed new directions that could limit the avail
 
 ## CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI
 Amid concerns over the 'mismatch' in stock prices on domestic indices due to the new Closing Auction Session (CAS) system, the Securities and Exchange Board of India (SEBI) has said that the strategic transition "marks a significant step in achieving cross-market consistency and enhancing the robust
-
-## Govt mandates exporter registration for FDI-backed ecommerce inventory exports
-Foreign-invested ecommerce firms must register as exporter-on-record for export inventory. These companies can only procure and stock goods against confirmed export orders. Speculative stockpiling for future outbound shipping will not be allowed by the government. Indian sellers can access overseas 
-
-## RBI upper-layer NBFC list to come out soon
-The Reserve Bank of India will soon release a list of upper-layer NBFCs. New principle-based regulations will classify these financial companies into different layers. Companies in the upper layer will be required to publicly list their shares. Tata Sons may be included on this upcoming list of NBFC
-
-## RBI to resume urban cooperative bank licensing process after two decades
-The Reserve Bank of India will resume issuing new licenses for urban cooperative banks. This process has been paused for over two decades due to past financial instability. Draft guidelines for resuming UCB licensing have now been issued by the central bank. The operating environment for these banks
 
