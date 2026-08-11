@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Deutsche becomes first European clearing bank for renminbi
+China seeks to increase international use of its currency
+
 ## Trump warns ditching Infantino would be ‘terrible mistake’
 Comments come as Fifa president faces pressure to resign over private fundraising fiasco
 
@@ -21,11 +24,8 @@ Oil trading hub raises its GDP outlook and says energy market disruption has bee
 ## FirstFT: EU border checks double waiting times
 Also in today’s newsletter: Spain’s migrant amnesty and Turkish law on Kurdish militants
 
-## What will Warsh do to favour Main Street over Wall Street?
-Evidence is mounting that the divide is rather more difficult to fix than the new Federal Reserve chair had thought
-
-## Nick Blair seeks funding for defence tech start-up
-Son of former British prime minister Tony Blair talks to investors for new venture called Pyra
+## Tony Blair’s son seeks funding for defence tech start-up
+Nick Blair in talks to raise roughly $200mn for new venture called Pyra
 
 ## Confessions of a former star M&A reporter
 Malice and aspirations at the billion-dollar rumour mill
@@ -33,35 +33,29 @@ Malice and aspirations at the billion-dollar rumour mill
 ## EU border checks double queues at major airports
 Peak waiting times hit two hours in Frankfurt and Amsterdam
 
-## Nvidia becomes the bank of AI
-Wall Street groups are working with the chipmaker to assemble a $500bn funding package for AI infrastructure
-
-## German truckers take the load as drought hits Rhine shipping
-Emergency move to suspend Sunday ban comes as economists warn of hit to country’s GDP growth
-
-## Intel raises $20 billion in upsized share sale to fund AI plans
-Intel priced the offering at $95 per share; the share sale drew more than $100 billion in demand
-
-## Indian economy, banks well positioned to tackle West Asia crisis, trade risks: RBI Governor Malhotra
-Points to strong bank capital and liquidity, low non-performing assets and resilient macroeconomic fundamentals as key strengths.
-
-## Q1 Results Today Live: MRF, Zydus Lifesciences, KPI Green Q1 PAT decline, Siemens, RVNL, PI Industries, Manappuram Finance, NBCC, Kalpataru, Swan Defence, Bata, Gujarat Energy to announce Q1 results
-Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
-
-## Crude oil falls 10%: Will Brent prices drop further? | Trending commodity picks | EP 110
-Why oil prices are sliding despite Middle East tensions.
-
-## L&T joins India’s race to build rare-earth magnet supply chain outside China
-The engineering giant is preparing to bid for a ₹7,280-crore incentive scheme aimed at building domestic capacity for the critical industrial component.
-
-## Sensex today | Stock Market Live: Sensex down nearly 400 points, Nifty slips 0.53% as oil prices weigh
+## Sensex today | Stock Market Live: Sensex down over 400 pts, Nifty slips to 24,450 as crude oil prices weigh
 Sensex, Nifty, Share Prices Live: Indian equities remained under pressure on Tuesday as elevated crude oil prices weighed on sentiment, despite stronger corporate earnings and renewed foreign portfolio inflows. Investors also tracked geopolitical risks, Adani Group stocks and upcoming changes to the
 
-## BRICS nations discuss linking payment systems and CBDCs, RBI chief says
-In the light of India hosting the ‌2026 edition of the BRICS summit, cross-border payments is considered an area of interest
+## Krystal Integrated Services bags ₹296 crore order in Maharashtra
+The orders, with an aggregate value of ₹740 crore, have been awarded to the LC Infra Krystal Consortium, wherein LC Infra Projects is the lead member and Krystal Integrated Services is the technical member
 
-## MRF Q1 net profit down 1.3% at ₹495.35 cr
-The company had posted a consolidated net profit of ₹501.82 crore in the corresponding quarter last fiscal
+## Govt approves introduction of one billion polymer banknotes of ₹10 and ₹20
+The procurement of polymer banknotes still at an initial stage: Finance Minister
+
+## Q1 Results Today Live: Siemens, RVNL, Kalpataru Q1 profit rise, MRF, Zydus Lifesciences, KPI Green Q1 PAT decline, Unichem Lab turns profitable, PI Industries, Manappuram Finance, NBCC, Swan Defence, Bata, Gujarat Energy to announce Q1 results
+Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+
+## Nine Bills passed in 52 minutes in a fortnight; average consideration time less than six minutes in Lok Sabha
+The Registration of Births and Deaths (Amendment) Bill, 2026, was passed in barely one minute.
+
+## Indian economy, banks well positioned to tackle West Asia crisis, trade risks: RBI Governor Malhotra
+Points to strong bank capital and liquidity, low non-performing assets and resilient macroeconomic fundamentals as key strengths
+
+## ‘AI is not theoretical, or futuristic, it is already having an impact’: Philips India MD
+Future Health Index 2026 report finds physicians getting more time to see patients
+
+## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 48% subscription
+Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
 
 ## Gold price prediction today: Should you chase rally or buy gold on dips? Check August 11, 2026 outlook
 Gold prices may not be that much sensitive to higher oil prices as has been the case in the last few months unless oil surges sharply higher. However, as the Middle East situation remains volatile, gains in gold could be limited unless oil falls. Buying the dips is preferred over chasing the rally.
@@ -87,7 +81,16 @@ Oil prices are hovering near recent highs as prospects for a US-Iran agreement f
 ## Telecom companies report 24.4bn spam calls, messages in April-June
 
 
-## Chaos erupts in Ranchi: ABVP workers climb on police bus, protesters detained
+## Nasa invites Isro to join Moon Base program under Artemis Accords
+The two sides have also agreed to advance discussions for cooperation on open scientific data sharing under the Artemis Accords.
+
+## At least 31 school kids in Kolkata’s govt school fall ill, hospitalised: Officials
+While 24 students fell ill on Monday night and were taken to RG Kar Medical College and Hospital with complaints of nausea, vomiting and stomachache, seven more children were admitted on Tuesday
+
+## Kanwariyas form human chain to let Muslim man's funeral procession cross highway
+The funeral procession of 40-year-old Nizam, who died of heart attack, had to cross the highway as the graveyard was on the other side.
+
+## Chaos in Ranchi: ABVP workers climb on police bus, protesters detained
 The students have been protesting against the alleged irregularities in the Jharkhand government's recruitment exams JPSC and JSSC.
 
 ## Cal HC extends interim protection from arrest to Abhishek Banerjee till August 31
@@ -102,14 +105,11 @@ A complaint filed with the ECI challenges Sunil Tatkare’s re-election as Mahar
 ## Messi visit row: Kerala sports department submits probe report to govt
 Messi visit row: Kerala sports department submits probe report to govt
 
-## Prakash Raj claims name dropped in Bengaluru voters' list after SIR: 'Kya kya kaagaz dikhana padega'
-Calling the development a 'joke', Raj said he was born and raised in the constituency, where he attended school and college and worked in theatre.
+## Unitree IPO deluge masks humanoid robots’ limitations
+Unitree Robotics’ Shanghai initial public offering (IPO) was more than 5,500 times oversubscribed by retail investors as optimism about fast stock gains and Chinese robot demand outweighed concerns about a US import ban. The 6.1 billion yuan (US$900 million) share sale drew 9.8 million orders from i
 
-## Bill to bar state taxes on minerals tabled in Parliament, Oppn calls for committee review
-The bill seeks to give the Centre greater regulatory command over mines, while expanding this power to mineral-bearing lands.
-
-## SC asks Centre to treat PIL for supervisory mechanism against digital harms as representation
-SC asks Centre to treat PIL for supervisory mechanism against digital harms as representation
+## Gap bucks retail headwinds with massive China expansion amid localisation drive
+Amid widespread store closures by foreign fast-fashion players in China, US apparel brand Gap is defying industry headwinds. It plans to open 50 new stores in mainland China this year and return to Hong Kong by year’s end, following a localisation overhaul that has attracted more Chinese consumers. 
 
 ## Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources
 Fast-fashion retailer Shein Global Holdings is planning to take investor orders for its Hong Kong initial public offering (IPO) as soon as next week, aiming for a valuation of US$35 billion, according to people familiar with the matter. The Singapore-headquartered company, which was founded in China
@@ -128,12 +128,6 @@ While Unitree Robotics’ early backers are poised for a windfall in one of Chin
 
 ## China’s banks look to unload more than US$8.2b in bad credit-card loans
 China’s commercial banks have stepped up efforts to dispose of non-performing credit-card loans, putting billions of yuan in troubled consumer debt up for sale as lenders seek to clean up balance sheets amid rising bad loans and shrinking interest margins. About 130 notices seeking buyers for bulk t
-
-## Hong Kong’s commercial property investment growth beats peer Asia-Pacific markets
-Hong Kong’s commercial property investment more than doubled to US$3.1 billion in the second quarter, making it the fastest growing investment market in Asia-Pacific thanks to a strong increase in retail and office deals and a low base effect, according to JLL. The 129 per cent growth from a year ea
-
-## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
-Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
 
 ## What Morocco Was Saying to Spain in Ceuta
 The migrant crisis has underscored Madrid’s increasingly tenuous geopolitical position.
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town
-Officials accuse the Rapid Support Forces of carrying out the killings, saying grave held remains of children and women.
+## Rescue efforts intensify as quake devastates western Colombia towns
+Rescue teams rush to find survivors as western Colombia grapples with deadly earthquake devastation.
 
-## Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’
-Trump's comments are the first time he has spoken in FIFA president's defence since FFE plans were leaked on July 28.
+## Swiatek to face Svitolina in Canadian Open semifinal
+Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.
 
-## Russian attacks kill six in Ukraine’s Zaporizhzhia
-A children's hospital has also been struck in Kyiv, according to Ukraine's state emergency service.
+## What to know about the US primaries in Connecticut, Vermont, and Alabama
+Four redrawn Alabama districts will hold special elections for US House nominees on Tuesday.
 
-## Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
-The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
+## ‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home
+Families divided as children of BJP supporters demand education reforms and reject politics of hate.
 
-## Somali referee arrives for UEFA Super Cup after World Cup exclusion
-Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.
+## Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial
+This is a breaking news story.
 
-## Family watches helplessly as Colombia quake destroys home
-A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.
+## Trump sends conflicting signals on Iran strategy
+Trump sends conflicting signals on Iran strategy
 
-## Trump’s media company reports $238m loss
-Trump Media & Technology Group earns less than $2m in Q2.
+## Iran threat prompted secret Trump flight from Turkiye: Reports
+Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.
 
-## Huge fire breaks out at Libya’s Zawiya refinery after drone attack
-National oil company warns it may halt operations at the country's largest operating refinery if drone attacks continue.
+## Ukraine’s 40-day campaign has not brought the war closer to an end
+Kyiv is facing a brutal Russian response as its air defence missile stocks dwindle.
 
 ## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
 The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
