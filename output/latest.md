@@ -1,67 +1,73 @@
 # AION Intelligence
 
+## Former Syrian dictator Assad sentenced to death in absentia
+Damascus court issues first ruling against ousted president since he fled to Russia in 2024
+
+## Ari Emanuel buys theatre group ATG for £4.5bn
+Deal by Hollywood mogul’s new venture Mari represents a big bet on continued demand for live events
+
+## Why Washington views Abu Dhabi as one of its most capable Middle East allies
+Also in today’s newsletter, progressives gain ground as a Democratic socialist leads Wisconsin governor’s race
+
+## Democratic socialist leads Wisconsin governor’s race as progressives gain ground
+Some in party establishment think candidate’s views will lead to defeat against Republican in November’s election
+
+## China tightens grip on Europe’s car supply chain
+Acquisitions of local parts makers amid resistance to Chinese exports have worried EU officials
+
+## Volatility tumbles as markets shrug off Middle East risks
+Investors warn of complacency as Vix ‘fear gauge’ falls to prewar levels even as oil rises back to about $90 a barrel
+
 ## How to stop Warsh becoming a lame duck
 The Federal Reserve chair needs to assert his authority or others will usurp his natural role
 
 ## For prisons to work, we need to look at what is happening inside them
 The row over early releases ignores the fact that many will soon return without proper educational funding
 
+## Humans cannot remain passengers in the back of the AGI car
+A sense of fatalistic inevitability about the technology’s evolution is triggering something close to despair
+
 ## Intel investors are banking on a comeback — and then some
 The spillover of AI mania has transformed demand and pricing
-
-## Sky City by Jacqueline Crooks — tuning into trauma
-Pirate radio offers solace for a troubled young north London woman in the follow-up to Crooks’s acclaimed debut, ‘Fire Rush’
-
-## FirstFT: EU border checks double waiting times
-Also in today’s newsletter: Chinese humanoid robot company prepares for IPO and Colombia earthquake death toll rises above 100
-
-## Burnham vows to stop early release of PC Harper’s killers
-PM says he is ‘increasingly confident’ prison space can be freed up to keep more serious criminals in jail
-
-## Deutsche becomes first European clearing bank for renminbi
-China seeks to increase international use of its currency
-
-## Trump warns ditching Infantino would be ‘terrible mistake’
-Comments come as Fifa president faces pressure to resign over private fundraising fiasco
 
 ## How a darling of the clean energy transition stumbled
 BlocPower, a green loan and building retrofit provider that drew in a Who’s Who of elite investors, is at risk of collapse
 
+## FirstFT: EU border checks double waiting times
+Also in today’s newsletter: Chinese humanoid robot company prepares for IPO and Colombia earthquake death toll rises above 100
+
+## Deutsche becomes first European clearing bank for renminbi
+China seeks to increase international use of its currency
+
 ## Goldman staff named as suspects in Brazil investigation
 Probe concerns shareholder dispute over cancer specialist Oncoclínicas
 
-## Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors
-Unitree raises $900mn ahead of Shanghai listing expected later this month
+## Record cotton imports set to push up 2026-27 opening stocks to new high of 93.59 lakh bales
+The rise in domestic stocks is due to surge in imports to a record high this season, says Cotton Association of India
 
-## Tony Blair’s son seeks funding for defence tech start-up
-Nick Blair in talks to raise roughly $200mn for new venture called Pyra
+## PSU bond issuances decline 37% in FY26 as more funding options emerge
+Capex by CPSEs rises 7.1% to ₹8.64 lakh crore in FY26 from ₹8.07 lakh crore in FY25
 
-## How investors killed AstraZeneca’s $400bn megadeal
-Tie-up with US rival Bristol Myers would have marked return to big pharma mergers
+## Akasa Air loss widens 37% to ₹2716 crore in FY26
+The airline continues to face headwinds due to volatility in fuel and forex rates
 
-## Broker’s call: Greenlam Ind (Long)
-Equirus Securities
+## FCRA amendment bill: Govt considers JPC route amid strong opposition stir
+Opposition parties, especially Congress, DMK, TMC and Samajwadi Party (SP), have hardened their stand and want the FCRA bill be either withdrawn or scrapped in the present format.
 
-## Fitch retains India’s sovereign rating at BBB- for 20 years in row
-The ratings agency forecast a 6.4 per cent GDP growth in the current fiscal year
+## India, China rice trade comes to a halt as Beijing revokes 7 rice exporters’ registration
+China alleges the presence of GMO in Indian rice consignments, but no GM food crop is grown in the subcontinent as stakeholders slam the move as ‘malafide’
 
-## Q1 Results Today Live: NBCC (India) PAT up 32% y-o-y, Siemens, RVNL, Kalpataru Q1 profit rise, MRF, Zydus Lifesciences, KPI Green Q1 PAT decline, PI Industries, Manappuram Finance, Swan Defence, Bata, Gujarat Energy to announce Q1 results
-Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## Gujarat Energy Q1 profit jumps 70% on strong growth in gas businesses
+Revenues for the company’s city gas distribution and gas trading businesses rose 90% each during the June quarter
 
-## Higher input costs affects MRF’s Q1 profitability
-Net profit came in ₹495 crore compared with ₹502 crore it reported in Q1 FY26
+## RBI wants AI to be responsibly harnessed; not to be seen as a risk: Sanjay Malhotra
+By harnessing AI capability, the economics of credit delivery changes fundamentally, banks can serve customers better and enhance their operational efficiency, he said
 
-## Construction equipment vehicle sales up 46 per cent in July; JCB remains the leader
-The last time the sector reported a growth was in June 2025
+## LEAP India IPO subscribed 8.38 times, Technocraft Ventures issue sees 38.69x demand
+LEAP India IPO QIB portion subscribed 16.84 times, NII portion 12.64 times, retail portion 1.71 times and employee portion 10.99 times
 
-## Broker’s call: Poonawalla Fin (Buy)
-Motilal Oswal
-
-## Major leaks in food security system
-Grain that should feed the poor is being rerouted to fuel vehicles. Legal rights are being diminished. The vulnerable are being digitally marginalised
-
-## AP’s GSDP up 10.7% in Q1 FY 27: Report
-While the spice production recorded a three-fold growth during the April-June period, reaching 89,383 metric tonnes, vegetable production also registered a growth of 45 per cent.
+## What is MDR that is being proposed for UPI transactions, who pays the final cost? Explained
+The government has clarified that UPI will continue to remain free for consumers and no transaction charges will be applicable to person-to-person payments. The government has also said that if an MDR is introduced in the future it will only be applicable to a limited category of merchant transactio
 
 ## RBI guv asks banks to build human oversight, says blaming technology is 'unacceptable'
 Reserve Bank governor Sanjay Malhotra stressed human accountability for AI decisions. Banks must ensure technology supports human judgment, not replaces it entirely. Meaningful human oversight is crucial from the AI design stage. Cyber security and model bias present significant risks for lenders. B
@@ -84,32 +90,29 @@ On Tuesday, the Indian rupee began its day lower against the US dollar, reflecti
 ## $500 bn AI boom: Nvidia, Wall Street giants join hands for chip, data centre push
 Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billion in external capital, positioning AI ch
 
-## Stock market today: Sensex ends over 380 points down, Nifty50 closes below 24,480
+## Paper leaks systemic problem; non-BJP parties must set example in handling student protests: AISA chief Neha Bora
+Bora, who also took part in protest in JMM-ruled Jharkhand, called for greater unity among opposition and non-BJP parties in handling student movements
 
+## RSS chief Mohan Bahgwat to interact with Gen Z in Nagpur on Independence Day
+The RSS chief’s outreach to Gen-Z comes against the backdrop of growing political engagement among young people
 
-## Woman hit by speeding BMW near Delhi airport, dies; traffic diverted near T-3 terminal amid stir
-The deceased was identified as Jaiwanti, who worked as a house help, they said, adding that the car driver has been apprehended.
+## Number of injured on Air India Phuket-Delhi flight that dropped 300 feet rises to 24
+Number of injured on Air India Phuket-Delhi flight that dropped 300 feet rises to 24
 
-## Minute-by-minute of August 15: What exactly happens at Red Fort on Independence Day
-The Independence Day ceremony at Red Fort blends the precision and discipline of the armed forces with national symbolism.
+## ‘We were just giving an update’: Outgoing Air India CEO on meeting with MoCA, DGCA over flight altitude drop
+Campbell Wilson stated that the briefing was focused on sharing preliminary findings and progress on the ongoing probe into the incident.
 
-## ‘Put some clothes on’: Rekha Gupta slams AAP MLA over video showing him in vest and shorts
-AAP MLA Anil Jha Vats was seen wearing a vest and shorts and sitting cross-legged on a chair, with a saffron cloth draped across his lap.
+## 'Cowards': Congress on Amit Shah's 'no show ' in Lok Sabha, Rijiju hits back
+This came a day after the government offered to debate students’ issues and police action in Parliament with a reply by Shah to resolve the Parliament logjam.
 
-## Notice issued to design consultant after approach road to Uttarakhand bridge caves in
-Uttarakhand issued a show-cause notice to the bridge’s design consultant after the approach road collapsed 16 days post-inauguration due to design flaws.
+## Record 48 million Kanwariyas visit Haridwar in 2026 Kanwar fair: Officials
+As many as 6.36 million devotees arrived in Haridwar on Monday alone to collect holy Ganga water, which they carried back
 
-## ‘US-India partnership vital for global security’: Envoy Sergio Gor holds talks with Ajit Doval
-The interaction follows Ambassador Sergio Gor's meeting with Foreign Secretary Vikram Misri in New Delhi on Monday evening.
+## ‘Why are lathis not used in political parties' protests?’: Dipke slams police action on Jharkhand student protesters
+Abhijeet Dipke asserted that students are fighting for their rights and not for vote bank.
 
-## MEA hits back at Chinese criticism over naming of 27 Arunachal sites: ‘Indisputable reality’
-Arunachal is an inalienable and integral part of India and this is a fact which is self-evident, India said.
-
-## Centre eyes consensus on sending foreign funding bill to JPC amid demands for complete withdrawal
-Union home minister Amit Shah assured Mizoram chief minister Lalduhoma that the FCRA laws will not be implemented retrospectively.
-
-## 'Where will jobs come from': Hemant Soren blames Centre policies for lack of employment, shutting of establishments
-Hemant Soren accused the BJP of providing government jobs in the state to people from other states during its tenure.
+## Pilot on Air India's Phuket-Delhi flight that dropped 300 feet tests positive for marijuana: Sources
+The pilot’s preliminary drug test had returned “non-negative”, a government release earlier said.
 
 ## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
 Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
@@ -135,6 +138,9 @@ A rebound in gold prices has pushed shares of Chinese producers of the precious 
 ## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
 The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
 
+## China Has Chosen to Disappoint Its Consumers
+Beijing’s choice moves Washington’s leverage from tariffs to currency.
+
 ## The West Bank, Not Gaza, Should Be Trump’s Priority
 With his Gaza plan dead in the water, he should refocus on preventing the next conflagration.
 
@@ -155,9 +161,6 @@ The Trump administration’s campaign against the court is transparently cynical
 
 ## Todd Blanche’s Confirmation Would Have Been a Scandal in 1973
 Nixon’s “Saturday Night Massacre” triggered nationwide outrage—and a firewall that is now gone.
-
-## The Middle East Tries Its Hand at a NATO-Style Pact
-Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
 
 ## Indonesia’s President Nominates Central Bank Deputy as New Governor
 The rupiah rose slightly on news of Destry Damayanti's nomination, which will now pass to the House of Representatives for approval.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Philippines sailors say they will work despite wartime risks
-Philippines sailors say they will work despite wartime risks
+## ‘Only job I know’: Philippine sailors return to sea despite wartime risks
+Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.
 
-## Late snow blankets parts of southern Africa as winter nears its end
-Late-season snow hits South Africa and Lesotho as the Northern Hemisphere swelters in heat and wildfires.
+## What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?
+The Mecca defence pact combines a top oil exporter, NATO's second-largest army and the only Muslim nuclear arsenal.
 
-## Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan
-Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.
+## Under Fire: Lebanon’s first responders | Al Jazeera Originals
+First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.
 
-## Iran, US set new conditions during Hormuz talks: What does this mean?
-Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.
+## Liverpool fans seek clarity on Bezos bid to buy stake
+Jeff Bezos reportedly part of consortium interested in English Premier League club Liverpool, but fans ask for meeting.
 
-## Final phase of voting in Pakistan-administered Kashmir, despite security fe
-Final phase of voting in Pakistan-administered Kashmir, despite security fears
+## What’s behind Iran’s new military appointments and what do they indicate?
+Observers say the nominations empower the hardline old guard, prioritise loyalty over military innovation.
 
-## What to watch in Wisconsin’s high-stakes primary
-US Democrats face another test after Michigan as voters choose nominees for governor and Congress.
+## Hunter Biden defends Tucker Carlson over Netanyahu comments
+Hunter Biden defends Tucker Carlson over Netanyahu comments
 
-## Syrian court sentences Bashar al-Assad to death in absentia
-Syrian court sentences Bashar al-Assad to death in absentia
+## Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup
+Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.
 
-## ‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war
-After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.
+## What to know about the US primary election in Minnesota
+Immigration is at the centre of another closely watched Democratic Senate race.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
@@ -280,9 +283,6 @@ Leading FMCG firms are planning price increases and shrinkflation this quarter. 
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
 
 ## Sebi measures reduce equity F&O losses for retail investors in FY26
-Sebi's new rules significantly lowered retail investor losses in equity derivatives. Aggregate net losses dropped to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore. Retail investor volumes and trading turnover also saw a decline in the same period. Sebi implemented several measures since November 2
-
-## Sebi measures reduce equity F&O losses for retail investors in FY26
 Sebi's new rules significantly lowered retail investor losses in equity derivatives. Aggregate net losses dropped to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore. Retail investor volumes and overall trading turnover also saw a decline in the same period. Sebi implemented several measures since No
 
 ## BRICS nations discuss linking payment systems and CBDCs, RBI chief says
@@ -299,4 +299,7 @@ Indonesian and Indian trade ministers met to boost bilateral trade and investmen
 
 ## India amends FDI rules to boost e-commerce for small businesses, artisans, farmers, and fishermen: Union Minister Piyush Goyal
 India has amended foreign direct investment regulations to boost e-commerce trade. These changes will help small businesses, artisans, farmers, and fishermen access wider markets. BRICS ministers discussed enhancing trade, investment, and industrial cooperation among member nations. Discussions also
+
+## Trump says Congress wants to regulate AI industry "out of business"
+Recent incidents involving AI systems escaping containment have heightened cybersecurity concerns. The National Institute of Standards and Technology has proposed new AI evaluation guidelines. Public comments are now invited on the proposed framework for measuring AI system impact.
 
