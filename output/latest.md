@@ -24,47 +24,50 @@ Also in today’s newsletter, progressives gain ground as a Democratic socialist
 ## Democratic socialist leads Wisconsin race in new threat to party leadership
 Primary victory would pit leftwing gubernatorial candidate against Trump-backed Republican in November midterms
 
+## Deputy PM Salvini proposes windfall tax on Italian bank profits
+Plan for three-year levy comes amid strained public finances
+
+## UK letting agents under pressure from AI-assisted tenant complaints
+One agent said 90 per cent of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
+
+## Heatwaves push European gas prices close to Iran war highs
+Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation
+
+## Rooftop panels in cities cannot replace solar farms
+Cleve Hill, the UK’s largest solar park, is unpopular with locals but the country needs more like it
+
 ## Humans cannot remain passengers in the back of the AGI car
 A sense of fatalistic inevitability about the technology’s evolution is triggering something close to despair
 
 ## China tightens grip on Europe’s car supply chain
 Acquisitions of local parts makers amid resistance to Chinese exports have worried EU officials
 
-## Intel investors are banking on a comeback — and then some
-The spillover of AI mania has transformed demand and pricing
+## Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
+Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
 
-## How a darling of the clean energy transition stumbled
-BlocPower, a green loan and building retrofit provider that drew in a Who’s Who of elite investors, is at risk of collapse
+## CPRL aims to ramp up presence of McCafe in north and east
+The expansion also comes at a time when the QSR chains have been witnessing an uptick in same-store sales growth and consumption recovery in the past few quarters
 
-## FirstFT: EU border checks double waiting times
-Also in today’s newsletter: Chinese humanoid robot company prepares for IPO and Colombia earthquake death toll rises above 100
+## Consultative Meet: Industry bodies hail West Bengal’s proposed sectoral approach in new industrial policy
+During the industrial policy consultative meeting, attended by a group of ministers, including Finance Minister Swapan Dasgupta and Industry Minister Tapas Roy, and senior officers of the government, industry bodies submitted their recommendations on industrial incentives, speedy and predictable app
 
-## Deutsche becomes first European clearing bank for renminbi
-China seeks to increase international use of its currency
+## Fusion Finance plans retail loan venture in September
+The average ticket size is expected to be ₹1.25-1.5 lakh, with a maximum loan size of ₹2 lakh
 
-## Record cotton imports set to push up 2026-27 opening stocks to new high of 93.59 lakh bales
-The rise in domestic stocks is due to surge in imports to a record high this season, says Cotton Association of India
+## GRSE launches next generation warship 'Shruti'
+Ship part of the Indian Navy’s 11-ship NGOPV programme, GRSE builds four of them
 
-## Talent crunch intensifies as festive hiring of gig expected to go up 20% this year
-Demand is expected to be broad-based, with logistics, last-mile delivery and BFSI among the strongest hiring segments, where demand could rise by around 30%
+## IFC to invest ₹225 crore in NDR Smart Spaces in equities
+The investment will support NDR Smart Spaces in developing a pipeline of around 20 million square feet of Grade A warehousing infrastructure across 14 cities, including approximately 8 million square feet under construction
 
-## Screening India’s healthcare diagnostics market
+## India’s top 300 family businesses worth $1.46 trillion, outperform Nifty and Sensex
+The list expanded by 27.5 per cent since the 2024 edition, even as the Nifty 50 declined 1.1 per cent and the BSE Sensex fell 3.7 per cent over the same period
 
+## LEAP India IPO subscribed 8.38 times, Technocraft Ventures issue sees 38.69x demand
+LEAP India IPO QIB portion subscribed 16.84 times, NII portion 12.64 times, retail portion 1.71 times and employee portion 10.99 times
 
-## Vijay Singh exits Sir Ratan Tata Trust
-The resignation comes three days before his tenure was supposed to end
+## Equity MF inflows fall 15% in July as investors turn cautious, SIPs stay strong
 
-## Vi optimistic of closing funding discussions with PSU banks: CEO Abhijit Kishore
-The company is said to be mainly in talks with the State Bank of India, while also exploring other funding routes
-
-## India’s crude oil imports from the US likely to hit record low in August
-Washington’s crude oil supply has become increasingly light, which does not always fit naturally into the refining diet of India
-
-## Air India management summoned over Phuket-Delhi incident
-Passenger injuries rise to 20; secondary psychoactive-substance test of pilot reportedly positive, official confirmation awaited
-
-## Govt constitutes empowered committee of secretaries for oil & gas upstream sector
-The government constitutes the ECS from time to time for resolving issues related to the E&P sector
 
 ## Fitch retains India’s credit rating at BBB-, sees strong economy; warns of fiscal risks due to protests
 The ratings agency said the Indian economy continues to demonstrate resilience despite the energy shock arising from the conflict in West Asia, supported by a strong growth outlook and sound external financing fundamentals.
@@ -87,8 +90,20 @@ Responding to the ruling, Gautam Adani said, "Truth has prevailed," adding that 
 ## Rs 10, Rs 20 polymer notes get field-trial nod: What will change from paper currency?
 India is preparing to roll out polymer banknotes for initial trials shortly. The Reserve Bank of India plans to launch one billion pieces each of Rs 10 and Rs 20 denominations. These innovative polymer notes will coexist with current paper currency, with the goal of improving the longevity of lower 
 
-## India’s oil imports from Russia hit new record; refineries big exporters to countries sanctioning Moscow
-The US sanctions waiver on Russian crude has expired and a fresh tariff threat of up to 100% looms as the Trump administration pushes for a Russia sanctions bill that gives the American president powers to impose tariffs on biggest oil importers from Moscow.
+## ‘Trump, Modi have good working relations; will work it out’: US official amid 100% tarrif threat
+The Lindsey Graham Bill passed by the US Senate can levy tariffs on top five countries that purchase Russian crude, which includes India and China.
+
+## 'Do you wear a janeu, eat non-veg food?' Ram Temple CEO candidates asked to fill Google form
+The 18 candidates who were shortlisted from a pool of 5,200 applicants were also asked about their work experience and their families.
+
+## Delhi traffic advisory on Aug 13 for I-Day rehearsal: Key Red Fort roads closed; check routes, diversions
+According to the Delhi Traffic Police advisory, roads around the Red Fort will remain closed to general traffic from 4 am to 10 am.
+
+## Zepto warehouse sealed in Bengaluru’s Hoskote by food safety dept
+The action at the Zepto warehouse comes as Karnataka’s food safety department widened its enforcement drive across Bengaluru.
+
+## FSSAI bans plastic, foil packaging for pan masala under new rules
+Moving forward, pan masala can only be sold in eco-friendly packaging or traditional rigid containers.
 
 ## Rainwater accumulates in Noida Airport, authorities say ‘cleared in 30 minutes’
 The Noida Airport statement added that there was no impact on flight operations or the overall functioning of the airport.
@@ -98,21 +113,6 @@ Schoolchildren marched several kilometres from Chandupur and nearby villages to 
 
 ## 2020 Hathras rape: Court to hear defamation case against Rahul Gandhi on Sept 19
 According to the complainant's counsel, Gandhi allegedly stated that the accused were "roaming free" while the victim's family remained confined to their home.
-
-## ‘Will update when there is one’: India on Dhaka’s Hasina extradition request
-Jaiswal’s remarks came a day after Dhaka called for expediting Hasina’s extradition at a meeting between PM Tarique Rahman and Indian envoy Dinesh Trivedi.
-
-## How is AAIB probing Air India Phuket-Delhi 'turbulence' case? What Centre said
-The AAIB will take into account all relevant technical, operational, medical and human factor-based evidence.
-
-## First posting, WhatsApp chats: Trainee IPS officer in midst of ₹1-crore bribe allegations in cyber fraud case
-Matter relating to IPS Rahul Bansal reached CBI court in Delhi, which sought report from the DGP of Chhattisgarh and the director of CBI on action taken
-
-## Bay low-pressure system to bring heavy rain to Bengal; fishermen warned
-The Regional Meteorological Centre, Kolkata, said an upper-air cyclonic circulation is currently lying over the northwest Bay of Bengal and adjoining areas.
-
-## 3 decades after he entered US, Indian-origin man accused of identity fraud, may lose American citizenship
-When stopped in US in 1991, he identified himself as Rushpal Singh; slipped through systemic cracks after deportation order, naturalised as citizen as Harinder
 
 ## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
 Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
@@ -234,6 +234,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russia frees ex-US Marine Robert Gilman from detention
+The US government had recently designated Gilman as wrongfully detained.
+
+## Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA
+Poland says their preparations to host the Women's Under-20 World Cup remain on schedule, despite UEFA-FIFA fallout.
+
+## PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams
+The traditional curtain raiser for Europe's football league season pits Paris Saint-Germain against Aston Villa.
+
+## Trump faces lawsuit over push to limit birthright citizenship
+Despite previous Supreme Court ruling, Trump has sought new approach to limit the longstanding practice.
+
 ## Hungary elects supreme court judge ousted by Orban as new president
 Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.
 
@@ -245,18 +257,6 @@ Death sentences will be replaced with life imprisonment with aggravated hard lab
 
 ## DC residents debate safety gains a year into Trump’s Guard deployment
 Mixed reactions persist in Washington, DC, a year after Trump deployed the National Guard to address crime concerns.
-
-## Total solar eclipse 2026: Where, when and how to watch on Wednesday?
-Millions will see the sun disappear as the eclipse sweeps from the Arctic to Europe, bringing two minutes of totality.
-
-## Ten police and 17 “bandits” killed in firefight in northwestern Nigeria
-Police say 17 suspected gang members and two civilians were also killed in Kebbi State.
-
-## War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says
-President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.
-
-## ‘Only job I know’: Philippine sailors return to sea despite wartime risks
-Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
