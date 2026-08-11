@@ -138,6 +138,9 @@ A rebound in gold prices has pushed shares of Chinese producers of the precious 
 ## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
 The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
 
+## Colombia’s New President Faces His First Major Test
+President Abelardo de la Espriella took office mere days before a major earthquake struck the country.
+
 ## The Regional Order Iran Wanted Is Taking Shape Without It
 Tehran has long called for greater cooperation among Muslim states. The Mecca pact is not what it had in mind.
 
@@ -158,9 +161,6 @@ With his Gaza plan dead in the water, he should refocus on preventing the next c
 
 ## What Morocco Was Saying to Spain in Ceuta
 The migrant crisis has underscored Madrid’s increasingly tenuous geopolitical position.
-
-## Netanyahu Nixes Trump’s Gaza Deal
-Another weekend with no resolution to the Middle East’s wars.
 
 ## The Mecca Pact and America’s Reduced Leverage in West Asia
 Erosion of U.S. influence could, in the long run, impact arms sales, the negotiation of military basing rights, and the management of regional crises.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel demolishes home of Palestinian killed during settler attack
+Video shows the moment Israeli forces blow up the home of Farouk Ramadan, a Palestinian man who was killed in July.
+
+## DR Congo Ebola death toll surpasses 2,000
+DR Congo's Ebola outbreak is spreading rapidly, with the death toll surpassing 2,000.
+
+## Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum
+Donald Trump labels US Democratic nominees 'jihadists' in inflammatory remarks made in the Oval Office.
+
+## Search for survivors underway in Colombia’s earthquake aftermath
+Rescuers search for survivors in western Colombia in what is called the country’s strongest earthquake this century.
+
+## US military fires on cargo vessel it said sought to break Iran blockade
+CENTCOM says helicopter fired at engine room of Panama-flagged Vela Nova as US-Iran diplomacy remains stalled.
+
+## Truck crash in Egypt kills 18, many of them child labourers
+Two pick-up trucks collide in Ismailia, Egypt, leaving 18 dead, mostly children working as agricultural labourers.
+
 ## UNESCO says 2.4 million Afghan girls denied access to further education
 UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.
 
 ## Venezuela and Israel restore consular ties as relations warm
 Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.
-
-## Tightened blockade on Gaza causes prices to soar
-As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.
-
-## Paramount CEO may remove operations from California over stalled merger
-Paramount's CEO David Ellison warns of a California exit if the US state does not agree to talks, according to reports.
-
-## ‘Justice at last’: Syrians react to Assad death sentence
-Syrians gathered to celebrate after a court sentenced ousted President Bashar al-Assad to death in absentia.
-
-## South Africa mine collapse kills 14 suspected illegal miners
-At least 14 suspected illegal miners were killed and eight injured when a mine dump collapsed in South Africa.
-
-## Tourists rush to Iceland to witness rare total solar eclipse
-Iceland is preparing for a total solar eclipse with hundreds of visitors expected in the country.
-
-## Rights groups launch new legal challenge to Trump campaign against ICC
-Prominent organisation charge sanctions against international tribunal trample consitutional rights, hinder their work.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
