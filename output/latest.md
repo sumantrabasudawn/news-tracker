@@ -90,29 +90,29 @@ Responding to the ruling, Gautam Adani said, "Truth has prevailed," adding that 
 ## Rs 10, Rs 20 polymer notes get field-trial nod: What will change from paper currency?
 India is preparing to roll out polymer banknotes for initial trials shortly. The Reserve Bank of India plans to launch one billion pieces each of Rs 10 and Rs 20 denominations. These innovative polymer notes will coexist with current paper currency, with the goal of improving the longevity of lower 
 
-## ‘Trump, Modi have good working relations; will work it out’: US official amid 100% tarrif threat
+## ‘Uncle sends his regards’: Mumbai thieves use innovative WhatsApp codes to run pickpocket gang
+The WhatsApp codes were allegedly used to know if every gang member was safe, if anyone was caught by the cops or if the day’s planning could be executed.
+
+## Cash-at-residence row: Inquiry report on Justice Yashwant Varma to be tabled in Lok Sabha
+The probe panel had submitted its findings to the Lok Sabha Speaker in May.
+
+## CAG detects irregularities in PMAY-G, Jal Jeevan Mission, MGNREGA implementation in Jharkhand
+Over 6.32 lakh eligible households remained uncovered under the Pradhan Mantri Awas Yojana (Gramin) due to deficient planning.
+
+## 'Through the big contacts I have...': Prashant Kishor assures jobs for 10,000 youngsters in Bankipur
+Prashant Kishor said that apart from facilitating jobs, he will work towards improving the education system and providing food grains.
+
+## ‘Trump, Modi have good working relations; will work it out’: US official amid 100% tariff threat
 The Lindsey Graham Bill passed by the US Senate can levy tariffs on top five countries that purchase Russian crude, which includes India and China.
 
-## 'Do you wear a janeu, eat non-veg food?' Ram Temple CEO candidates asked to fill Google form
+## ‘Are you a staunch Hindu, do you eat non-veg food?’ Ram Temple CEO candidates asked to fill Google form
 The 18 candidates who were shortlisted from a pool of 5,200 applicants were also asked about their work experience and their families.
 
 ## Delhi traffic advisory on Aug 13 for I-Day rehearsal: Key Red Fort roads closed; check routes, diversions
 According to the Delhi Traffic Police advisory, roads around the Red Fort will remain closed to general traffic from 4 am to 10 am.
 
-## Zepto warehouse sealed in Bengaluru’s Hoskote by food safety dept
+## Zepto warehouse sealed in Bengaluru’s Hoskote over violations: ‘Unhygienic food, non-compliant labelling, misbranding’
 The action at the Zepto warehouse comes as Karnataka’s food safety department widened its enforcement drive across Bengaluru.
-
-## FSSAI bans plastic, foil packaging for pan masala under new rules
-Moving forward, pan masala can only be sold in eco-friendly packaging or traditional rigid containers.
-
-## Rainwater accumulates in Noida Airport, authorities say ‘cleared in 30 minutes’
-The Noida Airport statement added that there was no impact on flight operations or the overall functioning of the airport.
-
-## 'Well done': After Gen Z, Alpha get into protest arena in UP; CJP's Dipke, Das give a shoutout
-Schoolchildren marched several kilometres from Chandupur and nearby villages to the Collectorate, demanding a proper road.
-
-## 2020 Hathras rape: Court to hear defamation case against Rahul Gandhi on Sept 19
-According to the complainant's counsel, Gandhi allegedly stated that the accused were "roaming free" while the victim's family remained confined to their home.
 
 ## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
 Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
@@ -138,6 +138,12 @@ A rebound in gold prices has pushed shares of Chinese producers of the precious 
 ## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
 The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
 
+## The Regional Order Iran Wanted Is Taking Shape Without It
+Tehran has long called for greater cooperation among Muslim states. The Mecca pact is not what it had in mind.
+
+## Here’s What Middle Powers Can Actually Do
+Mark Carney’s vision has gone unrealized, but that doesn’t mean states should give up.
+
 ## Debanking Dissidents
 The Trump administration is following in the footsteps of authoritarian regimes by weaponizing global banking rules against its enemies.
 
@@ -156,11 +162,17 @@ The migrant crisis has underscored Madrid’s increasingly tenuous geopolitical 
 ## Netanyahu Nixes Trump’s Gaza Deal
 Another weekend with no resolution to the Middle East’s wars.
 
-## Ukrainians Are Trying to Help a Traumatized Generation
-From refugees to abducted children, Russia has wreaked havoc on young Ukrainians.
+## The Mecca Pact and America’s Reduced Leverage in West Asia
+Erosion of U.S. influence could, in the long run, impact arms sales, the negotiation of military basing rights, and the management of regional crises.
 
-## Europe’s Summer of Nightmares
-Punishing heat and wildfires have cost billions and displaced hundreds of thousands of people.
+## Why the Pacific Islands Forum Should Watch Taiwan’s East Coast
+The waters east of Taiwan sit within a strategically integrated maritime space stretching from Northeast Asia, through Micronesia and Melanesia, to Polynesia.
+
+## Symbolic Concessions, No Implementation: Myanmar’s Promises of Rohingya Repatriation
+Myanmar’s latest pledge to repatriate 300,000 Rohingya refugees cannot be viewed as a credible commitment. It’s yet another iteration of a well-established diplomatic pattern.
+
+## Reclaiming the Backyard: ASEAN’s Realpolitik Push on Myanmar
+A Thailand-led push to re-engage the country's military-backed government is an attempt to prevent the bloc's diplomatic marginalization.
 
 ## Indonesia’s President Nominates Central Bank Deputy as New Governor
 The rupiah rose slightly on news of Destry Damayanti's nomination, which will now pass to the House of Representatives for approval.
@@ -173,18 +185,6 @@ A conversation with Mark Cogan of Kansai Gaidai University in Osaka.
 
 ## US Official Reassures Asia of Commitment, Calls for Greater Burden Sharing
 Undersecretary of War Elbridge Colby told an audience in Manila that U.S. interests are "more engaged than ever in the Indo-Pacific."
-
-## Painting Bullseyes: What Iran’s Attacks on US Bases Mean for the Indo-Pacific
-The attacks in the Middle East have raised anxieties elsewhere, as residents of communities near U.S. bases the world over worry about becoming the target of external aggression.
-
-## Air Force Ascendant: Senior PLA Leadership Changes and Their Implications
-If current trends continue, the PLAAF is likely going to have a greater-than-usual presence on the next Central Military Commission.
-
-## Safeguarding Storage: Wildberries’ Move to Kazakhstan
-As drone strikes on Wildberries warehouses across Russia continue, the company moves to increase its presence in Kazakhstan
-
-## The Mecca Pact Extends Pakistan’s Security Role Westward
-Six months ago, it was unclear whether trilateral discussions between Pakistan, Saudi Arabia, and Turkiye would produce a formal agreement. They now have.
 
 ## Who Pays for America’s Research and Development?
 When the Soviet Union launched Sputnik in 1957, the U.S. government was the unrivaled patron of American science. It funded nearly two-thirds of the nation’s research and development — much of it for defense — defining the early Cold War. In a phenomenon that’s been widely explored in our Arsenal of
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Brazil’s Supreme Court to weigh cases that could weaken Amazon protections
+The rulings could affect Indigenous land rights, soya farming and environmental safeguards across the Amazon rainforest.
+
+## Syrian court sentences Bashar al-Assad and Atef Najib to death
+Syria’s ex-president Bashar al-Assad, his brother Maher al-Assad and cousin Atef Najib have been sentenced to death
+
+## US jury in Luigi Mangione murder trial to remain anonymous
+The closely watched state trial over the killing of UnitedHealthcare CEO Brian Thompson is set to begin next month.
+
 ## Russia frees ex-US Marine Robert Gilman from detention
 The US government had recently designated Gilman as wrongfully detained.
 
@@ -248,15 +257,6 @@ Despite previous Supreme Court ruling, Trump has sought new approach to limit th
 
 ## Hungary elects supreme court judge ousted by Orban as new president
 Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.
-
-## Rwanda: The genocide against the Tutsi
-How colonial identity, extremist politics and 'hate radio' helped turn Rwanda’s genocide into organised mass murder.
-
-## Lebanon parliament votes to end death penalty, 1st in Middle East to do so
-Death sentences will be replaced with life imprisonment with aggravated hard labour.
-
-## DC residents debate safety gains a year into Trump’s Guard deployment
-Mixed reactions persist in Washington, DC, a year after Trump deployed the National Guard to address crime concerns.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
