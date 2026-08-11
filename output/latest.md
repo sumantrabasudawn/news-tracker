@@ -24,6 +24,9 @@ For Britain’s elite universities, governance issues add to funding woes
 ## Deputy PM Salvini proposes windfall tax on Italian bank profits
 Plan for three-year levy comes amid strained public finances
 
+## Households near UK grid upgrade projects in line for lower electricity bills
+Government aims to boost support for pylons and power lines needed to meet net zero targets
+
 ## UK letting agents under pressure from AI-assisted tenant complaints
 One agent said 90 per cent of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
 
@@ -35,12 +38,6 @@ Cleve Hill, the UK’s largest solar park, is unpopular with locals but the coun
 
 ## When trouble strikes, who shadow-banks the shadow bankers?
 Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins
-
-## Ari Emanuel buys theatre group ATG for £4.5bn
-Deal by Hollywood mogul’s new venture Mari represents a big bet on continued demand for live events
-
-## Humans cannot remain passengers in the back of the AGI car
-A sense of fatalistic inevitability about the technology’s evolution is triggering something close to despair
 
 ## Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
 Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
