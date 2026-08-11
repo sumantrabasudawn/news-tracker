@@ -24,6 +24,9 @@ The races, the money and the issues that will determine the final half of Trump�
 ## Will failure in Iran reshape how the US fights?
 Veterans and voters have punished past administrations for costly wars, but these days many Americans don’t seem to care
 
+## Panama Canal fees hit record high as El Niño and Iran war choke shipping
+Falling water levels caused by weather phenomenon could limit transit slots through crucial maritime passageway
+
 ## UK letting agents under pressure from AI-assisted tenant complaints
 One agent said 90 per cent of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
 
@@ -38,9 +41,6 @@ Deal by Hollywood mogul’s new venture Mari represents a big bet on continued d
 
 ## Humans cannot remain passengers in the back of the AGI car
 A sense of fatalistic inevitability about the technology’s evolution is triggering something close to despair
-
-## China tightens grip on Europe’s car supply chain
-Acquisitions of local parts makers amid resistance to Chinese exports have worried EU officials
 
 ## Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
 Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
@@ -234,6 +234,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Relatives mourn victims of Pakistan avalanche
+Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gyalu Sherpa, and Nima Sherpa.
+
+## Pakistan interior minister in Tehran amid talks to reopen Hormuz
+Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.
+
+## In Gaza’s tents, widows face war’s harshest realities alone
+Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.
+
+## Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone
+Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous.
+
 ## Israel demolishes home of Palestinian killed during settler attack
 Video shows the moment Israeli forces blow up the home of Farouk Ramadan, a Palestinian man who was killed in July.
 
@@ -245,18 +257,6 @@ Donald Trump labels US Democratic nominees 'jihadists' in inflammatory remarks m
 
 ## Search for survivors underway in Colombia’s earthquake aftermath
 Rescuers search for survivors in western Colombia in what is called the country’s strongest earthquake this century.
-
-## US military fires on cargo vessel it said sought to break Iran blockade
-CENTCOM says helicopter fired at engine room of Panama-flagged Vela Nova as US-Iran diplomacy remains stalled.
-
-## Truck crash in Egypt kills 18, many of them child labourers
-Two pick-up trucks collide in Ismailia, Egypt, leaving 18 dead, mostly children working as agricultural labourers.
-
-## UNESCO says 2.4 million Afghan girls denied access to further education
-UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.
-
-## Venezuela and Israel restore consular ties as relations warm
-Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
