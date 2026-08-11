@@ -1,10 +1,19 @@
 # AION Intelligence
 
-## Climate change an ‘existential threat’ to England’s green spaces, study finds
-Hotter, drier summers are creating stress on plants and soils
-
 ## Andy Burnham faces first real test over his handling of prisons crisis
 New UK prime minister has leaned into the idea that he can respond to Britons’ concerns
+
+## FirstFT: China tightens grip on Europe’s auto supply chain
+Also in today’s newsletter: US judge cites ‘concerning’ irregularities in Adani fraud case and the AI threat to India’s IT sector
+
+## Panama Canal fees hit record high as El Niño and Iran war choke shipping
+Falling water levels caused by weather phenomenon could limit transit slots through crucial maritime passageway
+
+## US fires on ship it says violated Iran blockade
+Central Command says Panama-flagged vessel ‘ignored repeated warnings’ from American forces
+
+## Climate change an ‘existential threat’ to England’s green spaces, study finds
+Hotter, drier summers are creating stress on plants and soils
 
 ## Moscow releases former US Marine after four-year stint in Russian prison
 State department says American was freed without prisoner exchange or Washington concessions
@@ -15,20 +24,11 @@ For Britain’s elite universities, governance issues add to funding woes
 ## Deputy PM Salvini proposes windfall tax on Italian bank profits
 Plan for three-year levy comes amid strained public finances
 
-## Heatwaves push European gas prices close to Iran war highs
-Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation
-
-## Can Democrats seize Congress from Trump?
-The races, the money and the issues that will determine the final half of Trump’s second term
-
-## Will failure in Iran reshape how the US fights?
-Veterans and voters have punished past administrations for costly wars, but these days many Americans don’t seem to care
-
-## Panama Canal fees hit record high as El Niño and Iran war choke shipping
-Falling water levels caused by weather phenomenon could limit transit slots through crucial maritime passageway
-
 ## UK letting agents under pressure from AI-assisted tenant complaints
 One agent said 90 per cent of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
+
+## Heatwaves push European gas prices close to Iran war highs
+Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation
 
 ## Rooftop panels in cities are no replacement for solar farms
 Cleve Hill, the UK’s largest solar park, is unpopular with locals but the country needs more like it
@@ -138,6 +138,9 @@ A rebound in gold prices has pushed shares of Chinese producers of the precious 
 ## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
 The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
 
+## Why Is AI So Popular in China?
+The technology is far less divisive than in the United States.
+
 ## Colombia’s New President Faces His First Major Test
 President Abelardo de la Espriella took office mere days before a major earthquake struck the country.
 
@@ -158,9 +161,6 @@ Beijing’s choice moves Washington’s leverage from tariffs to currency.
 
 ## The West Bank, Not Gaza, Should Be Trump’s Priority
 With his Gaza plan dead in the water, he should refocus on preventing the next conflagration.
-
-## What Morocco Was Saying to Spain in Ceuta
-The migrant crisis has underscored Madrid’s increasingly tenuous geopolitical position.
 
 ## The Mecca Pact and America’s Reduced Leverage in West Asia
 Erosion of U.S. influence could, in the long run, impact arms sales, the negotiation of military basing rights, and the management of regional crises.
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Father and sons forced to manually clear rubble in Gaza
+Forced to rely on basic tools, a father and his sons are clearing the rubble of their destroyed home in Gaza.
+
 ## Relatives mourn victims of Pakistan avalanche
 Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gyalu Sherpa, and Nima Sherpa.
 
@@ -254,9 +257,6 @@ DR Congo's Ebola outbreak is spreading rapidly, with the death toll surpassing 2
 
 ## Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum
 Donald Trump labels US Democratic nominees 'jihadists' in inflammatory remarks made in the Oval Office.
-
-## Search for survivors underway in Colombia’s earthquake aftermath
-Rescuers search for survivors in western Colombia in what is called the country’s strongest earthquake this century.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
