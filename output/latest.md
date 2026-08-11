@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled
+A merger between the giant drugmakers would have marked a return to pharma megadeals
+
 ## Investing in the forgotten lands
 Getting Europe back on the radar
 
@@ -18,44 +21,47 @@ Peak waiting times hit two hours in Frankfurt and Amsterdam
 ## Nvidia becomes the bank of AI
 Wall Street groups are working with the chipmaker to assemble a $500bn funding package for AI infrastructure
 
-## How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled
-A merger between the giant drugmakers would have marked a return to pharma megadeals
-
 ## German truckers take the load as drought hits Rhine shipping
 Emergency move to suspend Sunday ban comes as economists warn of hit to country’s GDP growth
-
-## Confessions of a former star M&A reporter
-Malice and aspirations at the billion-dollar rumour mill
 
 ## Nick Blair seeks funding for defence tech start-up
 Son of former British prime minister Tony Blair talks to investors for new venture called Pyra
 
+## Confessions of a former star M&A reporter
+Malice and aspirations at the billion-dollar rumour mill
+
 ## Carbon tax will hit EU’s budget airlines where it hurts
 Plans for a wider levy could benefit the bloc’s long-haul carriers but do little for low-cost operators
 
-## Q1 Results Today Live: Siemens, Zydus Lifesciences, MRF, RVNL, PI Industries, Manappuram Finance, NBCC, Kalpataru, Swan Defence, Bata, Gujarat Energy, KPI Green to announce Q1 results, Vi, Bosch, Hindustan Copper, Info Edge shares gain after Q1, Zee, Bharat Forge in red
+## Sensex today | Stock Market Live: Noon trade - Sensex falls over 450 points as elevated crude oil prices weigh on equities
+Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as elevated crude prices and Strait of Hormuz concerns weighed on sentiment. The decline came despite stronger corporate earnings and renewed foreign buying, with investors also tracking Adani stocks and the Nifty 50 reshuffle
+
+## Centre reshuffles top bureaucracy; Deepti Gaur Mukerjee gets Higher Education charge
+The latest changes redraw responsibilities across several key departments, with senior bureaucrats receiving new assignments following a series of recent retirements.
+
+## Q1 Results Today Live: KPI Green Energy shares tank after Q1 PAT decline, Siemens, Zydus Lifesciences, MRF, RVNL, PI Industries, Manappuram Finance, NBCC, Kalpataru, Swan Defence, Bata, Gujarat Energy to announce Q1 results
 Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Gold futures rise to ₹1.54 lakh/10 gm on spot demand
-On the MCX, the yellow metal contracts for October delivery traded higher by ₹1,501, or 0.98%, at ₹1,54,600 per 10 grams in a business turnover of 1,332 lots
+## RBI chief urges lenders to accelerate AI spend
+The central bank Governor, however, warned that AI use entailed risks including biased or opaque decision, besides data privacy and cybersecurity threats
 
-## Sparks fly in TN Assembly over alliance shifts
-The debate quickly turned personal as members traded barbs over changing political allegiances
+## Trump reopens Fed battle at critical time for bond markets: Mike Dolan
+US President Trump has renewed his efforts to remove Fed Governor Lisa Cook over unproven mortgage fraud allegations, while his administration is anxious that the Fed could raise interest rates next month
 
-## Why the US is backing a tiny Australian town’s strategic scandium project
-A little-known Australian mining project is emerging as a potential strategic asset in the growing global contest over critical mineral supplies.
-
-## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 16% subscription in first hour
+## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 27% subscription in two hours of opening, LEAP India nears full subscription
 Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
 
-## State Bank of India taps dollar bond market with five-year issue
-The bonds will be issued through SBI’s London branch, with initial price guidance set at roughly ‌120 basis points over US Treasuries.
+## Jharkhand student protests enter 18th day as BJP calls statewide bandh
+The recruitment exam dispute has widened into a major political confrontation, with students, opposition parties and the government remaining locked in disagreement.
 
-## Meta opens Muse Glimmer AI model weights to developers
-The move gives developers greater flexibility to build AI applications locally, while Meta prepares another model for broader developer access
+## AIRIA calls for diversified natural rubber sourcing, sees NE emerging as second production hub
+Kerala should continue to remain the country’s primary rubber-producing state, says Anay Gupta, president of AIRIA
 
-## Vodafone Idea shares surge nearly 3% as Q1 loss narrows
-Nomura retains its ‘neutral’ rating with a target price of ₹12.60
+## Gold price prediction today: Should you chase rally or buy gold on dips? Check August 11, 2026 outlook
+Gold prices may not be that much sensitive to higher oil prices as has been the case in the last few months unless oil surges sharply higher. However, as the Middle East situation remains volatile, gains in gold could be limited unless oil falls. Buying the dips is preferred over chasing the rally.
+
+## Rupee slips 8 paise against US dollar as crude prices continue to rise
+On Tuesday, the Indian rupee began its day lower against the US dollar, reflecting a sense of caution in global markets due to concerns over the ongoing West Asia crisis. The rise in crude oil prices, combined with declines in domestic equity markets, has further pressured the rupee. However, suppor
 
 ## $500 bn AI boom: Nvidia, Wall Street giants join hands for chip, data centre push
 Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billion in external capital, positioning AI ch
@@ -75,35 +81,35 @@ Oil prices are hovering near recent highs as prospects for a US-Iran agreement f
 ## Telecom companies report 24.4bn spam calls, messages in April-June
 
 
-## Insurers tighten focus on motor third-party fraud
+## The World War 2 link that decided August 15 as India's independence date — and the astrologer who tried to stop it
+Britain had set June 1948 as its exit date. Mountbatten pulled it forward to a day that marked a wartime triumph, even as an astrologer warned of a curse.
 
+## SC to hear PIL alleging breach of guidelines in Odisha DGP appointment process
+SC to hear PIL alleging breach of guidelines in Odisha DGP appointment process
 
-## TCS flags data leak claims, finds no breach
+## Police trainee officer arrested for cheating fellow trainees of over ₹7 lakh
+An officer of Peroorkada police station said that the accused -- Sambhu R Krishnan -- was a trainee in the Special Armed Police.
 
+## NDA MPs target Rahul Gandhi over silence on use of lathis, water canons on protesting students in Jharkhand
+BJP MPs are questioning Rahul Gandhi's silence over the alleged use of lathis, water cannons against protesting students.
 
-## Multiple spells of rain expected in Delhi on Tuesday, IMD issues yellow alert
-The IMD said one or two spells of very light to light rain were expected at most places during the forenoon to afternoon
+## Lok Sabha adjourned within 4 mins as Opposition sticks to Shah statement demand
+Speaker Om Birla repeatedly urged Opposition lawmakers to stop protesting and let the lower House of Parliament function
 
-## Tech Tonic: Mark Zuckerberg, an AI manifesto, and curating a tech guru aura
-From downplaying environment concerns to claiming we’ll all become entrepreneurs, Mark Zuckerberg wants to be the adult in an AI room. Should we let him?
+## Kerala student seriously injured in Maharashtra taekwondo event; family alleges referee negligence
+Kerala student seriously injured in Maharashtra taekwondo event; family alleges referee negligence
 
-## How Saudi-Pakistan-Turkey pact casts a terror shadow over Delhi
-Red Fort bomber Umar Un Nabi and other India-linked terrorists had travelled to Turkey, where they met handlers or were radicalised, trained for terror attacks.
+## War of words, ‘photos and loyalties’ debate erupts in Tamil Nadu assembly over shifting alliances
+Sengottaiyan hit out at Panneerselvam and said "Just because you have shifted alliance, it does not mean you should sing paeans for your new leader."
 
-## 17 children escape narrowly as school bus catches fire in Rajasthan’s Jaisalmer
-Police said the bus driver immediately stopped the bus and evacuated all the children safely before the flames engulfed the vehicle and burnt it completely
+## Cops fact-check Harbhajan Singh over viral zombie drug clip: ‘From Rajasthan, not Punjab’
+BJP Rajya Sabha MP Harbhajan Singh re-shared a video that purportedly showed two men standing motionless, calling the situation “very sad.”
 
-## Nagaland CM urges Shah to reconsider FCRA amendments, seeks parliamentary panel review
-Nagaland CM urges Shah to reconsider FCRA amendments, seeks parliamentary panel review
+## Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources
+Fast-fashion retailer Shein Global Holdings is planning to take investor orders for its Hong Kong initial public offering (IPO) as soon as next week, aiming for a valuation of US$35 billion, according to people familiar with the matter. The Singapore-headquartered company, which was founded in China
 
-## Parliament monsoon session LIVE: Lok Sabha adjourned till 2 pm amid Oppn sloganeering
-Lok Sabha is set to hold discussion on the Kerala (Alteration of Name) Bill, 2026 and the National Co-operative Development Corporation (Amendment) Bill, 2026.
-
-## Wife of liquor chain owner held for assaulting domestic help at Gurugram's Camellias
-The matter came to light after a video of the incident, reportedly shot by an occupant of an adjacent flat in Camellias, was widely shared on social media.
-
-## ‘New Parliament, PM house, why not…': CJP's Abhijeet Dipke launches campaign to improve govt schools in villages
-Abhijeet Dipke, while announcing the initiative, also called on parents to conduct a social audit of their children's schools and check for basic facilities.
+## Gold breakout rally sends Chinese bullion stocks near highs as central banks keep buying
+A rebound in gold prices has pushed shares of Chinese producers of the precious metal near record highs, while the bullion’s status as a strategic investment remains intact amid global central bank buying and financial stress in the world’s key economies. Shares of Zijin Mining Group and Chifeng Jil
 
 ## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
 The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
@@ -122,12 +128,6 @@ Hong Kong’s commercial property investment more than doubled to US$3.1 billion
 
 ## Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall
 Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China. The move comes as China’s premium “athleisure” market grows increasi
-
-## Hong Kong trophy-home demand runs deep, as Stanley luxury sale tops US$19m
-A buyer with the same name as the founding chairwoman of a global immigration consultancy has bought a detached house in a luxury residential development in southern Hong Kong for over US$19 million, adding to a string of big-ticket deals as demand for trophy homes remains resilient despite a broade
-
-## Can CATL’s battery breakthrough push flying cars closer to a commercial reality in China?
-Contemporary Amperex Technology Ltd (CATL), the world’s largest electric vehicle (EV) battery maker, has thrown its weight behind flying cars after its aviation battery system cleared a major safety test. A successful roll-out of passenger-carrying drone batteries, backed by CATL’s innovation drive 
 
 ## What Morocco Was Saying to Spain in Ceuta
 The migrant crisis has underscored Madrid’s increasingly tenuous geopolitical position.
@@ -177,6 +177,9 @@ The region's maritime borders are hotly contested, but on land there's the real 
 ## Bangladesh Joins Saudi-led Defense Coalition as Bab el-Mandeb Risks Grow
 Bangladesh says that joining the Saudi-led defense coalition does not pose a threat to its relations with Iran.
 
+## The White House Is Right on AI. Now Let Defenders Use It.
+The White House has the right instinct on AI. Its June 5 National Security Presidential Memorandum commits the government to putting the most capable models in the hands of national security professionals “without delay.” The military version of that bet is decision dominance: seeing, deciding, and 
+
 ## Is Ukraine Drifting Towards Groupthink on European Integration?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
@@ -197,9 +200,6 @@ It is conceivable that in one blistering campaign, the People’s Republic of Ch
 
 ## Attacks, Deals, and Discontent
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOver the last two weeks, President Donald Trump repeatedly threatened major attacks on Iran. Going into the 
-
-## Does Latent Nuclear Deterrence Really Work?
-In 2025, Matthew Fuhrmann wrote, “U.S. Allies and Adversaries Are Attempting Nuclear Deterrence Without Weapons – Will It Work?,” where he argued countries don’t always need to go as far as actually building nuclear weapons to reap the benefits of nuclear deterrence. A year later, we asked Matthew t
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,6 +225,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
+The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
+
 ## Somali referee arrives for UEFA Super Cup after World Cup exclusion
 Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.
 
@@ -246,8 +249,8 @@ A drone attack ignited gasoline at Libya's Zawiya oil refinery, the country's la
 ## Where did all the money go if the US is running out of weapons?
 The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
 
-## Colombia’s far-right government recognises Israeli claim over Golan Heights
-The South American nation is only the second country to recognise Israel's claims over the illegally annexed territory.
+## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
+The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
@@ -270,9 +273,6 @@ Brics trade ministers finalized their Economic Partnership 2030 strategy and ado
 ## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
 This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
 
-## RBI keeps repo rate unchanged at 5.25% in August policy; raises FY27 GDP forecast to 6.7%, flags West Asia risks
-In its August monetary policy review, the RBI maintained the repo rate at 5.25% while retaining a neutral stance, as it raised FY27 GDP growth forecast to 6.7%. The central bank projected CPI inflation at 5%, highlighted food and fuel-related supply pressures, and flagged El Niño and global risks.
-
 ## Rs 20,000 crore credit guarantee plan misses the mark
 Banks have disbursed merely seventeen percent of the credit guarantee scheme funds. Loan sanctions remain slow as banks show caution with smaller microfinance institutions. Larger microfinance companies are hesitant to borrow under the government's guarantee program. About one thousand crore rupees 
 
@@ -290,7 +290,4 @@ Recent incidents involving AI systems escaping containment have heightened cyber
 
 ## RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley
 The Reserve Bank of India has proposed new directions that could limit the availability of revolving credit facilities for NBFCs. This change might notably affect flexi and overdraft loan offerings, leading to potential adjustments in products to comply with regulations. If borrowers are transitione
-
-## CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI
-Amid concerns over the 'mismatch' in stock prices on domestic indices due to the new Closing Auction Session (CAS) system, the Securities and Exchange Board of India (SEBI) has said that the strategic transition "marks a significant step in achieving cross-market consistency and enhancing the robust
 
