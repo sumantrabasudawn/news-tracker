@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## JBS heir to become CEO of world’s largest meatpacker
+Wesley Batista Filho’s move to the top role will restore control of the company to its founding family
+
+## The renminbi’s hardest mile is only now beginning
+Turning currency into an asset the world wants to hold will be hard
+
+## OpenAI’s head of ethics leaves start-up less than one year after joining
+Chloé Bakalar’s departure is one of several high-profile exits at the group in recent weeks as safety concerns mount
+
+## Chile allows ailing state copper miner to reinvest all profits for first time
+Codelco has seen production slump and debt surge as demand explodes for the metal that is critical for data centres
+
+## Turkey’s parliament passes landmark law to end conflict with Kurdish militants
+Legislation includes a conditional pardon for thousands of fighters in the Kurdistan Workers’ Party
+
 ## Wall Street giants partner with Nvidia on $500bn AI financing deal
 Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
 
@@ -9,38 +24,29 @@ A raft of senior military and regime moves come as Tehran hardens its rhetoric o
 ## Burnham to crack down on vape and betting shops in bid to boost high streets
 Councils will be given extra powers to curb unwanted retailers and ‘bring town centres back to life’
 
-## Yen sinks as effect of US-Japan intervention fades
-Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks
-
-## Colombian earthquake kills at least 111
-7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales
-
 ## Glencore-backed group looks to rescue cobalt refiner Sherritt
 New consortium is the second major investor aiming for control of North America’s only cobalt refinery
-
-## Ukraine needs more help in the battle of the sky
-Kyiv is short of interceptors to withstand Russia’s ballistic missile attacks
-
-## FanDuel and DraftKings hedge their bets with a predictions pivot
-Branching into predictions has charms for sportsbook operators that aren’t just defensive
 
 ## AI will boost oil and gas production more than green energy, report finds
 Debate over tech impact on greenhouse gas emissions stoked by latest study
 
-## Jeff Bezos investor group closing in on Liverpool FC stake
-Consortium led by son-in-law of steel billionaire Lakshmi Mittal nears deal that could value club at over $6bn
+## FanDuel and DraftKings hedge their bets with a predictions pivot
+Branching into predictions has charms for sportsbook operators that aren’t just defensive
 
-## Shein IPO pitched to investors at sub-$30bn valuation
-Fast-fashion retailer has suffered a roughly 70% drop in valuation over past four years
+## US immigration applications to go online-only under new USCIS rule
+The policy will affect millions of immigration filings as USCIS accelerates its shift from paper processing to digital systems.
 
-## Just how big is the hidden leverage of AI hyperscalers?
-Very
+## Sensex today | Stock Market Live: Stock to buy today: Mazagon Dock Shipbuilders
+Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Mazagon Dock Shipbuilders. The stock is getting good support from its 200-Day Moving Average (DMA) over the last two trading days. The 3 per cent rise on Monday indicates that fresh buyers are coming into the market. The 200-DMA
+
+## Colombia earthquake: 7.4-magnitude quake kills at least 111, buildings collapse
+The epicentre was near San José del Palmar in Chocó, while tremors were felt in neighbouring Ecuador and Panama
+
+## US judge dismisses criminal charges against Gautam Adani
+The ruling came with sharp criticism of the Justice Department’s handling of the prosecution, with Judge Nicholas Garaufis questioning the unusual process followed by senior officials in abandoning the case
 
 ## Meta, Google, TikTok face thousands of lawsuits over alleged youth addiction
 Thousands of lawsuits accusing major social media companies of harming young users can proceed after a US appeals court rejected an early appeal
-
-## Colombia earthquake: 7.4-magnitude quake kills at least 69, buildings collapse
-The epicentre was near San José del Palmar in Chocó, while tremors were felt in neighbouring Ecuador and Panama
 
 ## MEPZ SEZ approves investment worth ₹443 crores
 Approvals expected to create 2,427 jobs across manufacturing, IT and logistics
@@ -51,38 +57,29 @@ Higher ad spends in the run-up to FIFA World Cup, muted tax expenses for earlier
 ## e-way bill generation surged to over 13.98 cr in July
 The sustained uptick in e-way bill generation is a strong proxy for economic momentum, reflecting robust movement of goods across the supply chain
 
-## Inflows into gold ETFs continue to be net positive for 3rd week in a row
-With gold prices gaining over 6 per cent, inflows outstripped outflows as overall investments were $3.04 billion
+## Telecom companies report 24.4bn spam calls, messages in April-June
 
-## 5 States, led by Tamil Nadu, accounts for over 80% of gold loan, reveals PSB data
-According to data annexed with written reply by Minister of State in the Finance Ministry, Pankaj Chaudhary, total gold loan outstanding for Public Sector Banks was over Rs ₹11.31 lakh crore
 
-## India’s kharif sowing deficit dips below 2% as overall coverage rises to 88% of normal
-Sugarcane acreage lowered to 58.31 lakh hectares, area under paddy down 4.3% as transplanting slows
+## Insurers tighten focus on motor third-party fraud
+
+
+## TCS flags data leak claims, finds no breach
+
+
+## CESC unit to buy six solar projects from ReNew
+
+
+## Voda Idea Q1 loss narrows to 3.7k cr post dues relaxation
+
+
+## Govt: No policy stops airports from taking airline stakes
+
 
 ## West Asia war fallout: Oil product exports find many new markets
 
 
 ## SpaceX retail investors turn net sellers for first time since IPO; offload $4.5 million worth of shares
 Retail investors turned into net sellers of SpaceX shares as of August 7, marking the end of a buying frenzy. This change coincided with a stock price recovery, indicating that individuals may be taking profits. The shares have struggled post-IPO, dropping beneath the initial offering price. Investo
-
-## Ethanol or EVs? India needs both for cleaner mobility, says IFGE
-
-
-## ‘Broken overnight’: How stock market’s new closing auction is making traders jittery
-New stock market closing system: Brokerages found themselves responding to a surge of client queries, while retail investors turned to social media after noticing that the official closing prices appeared to differ from where stocks had traded during the day.
-
-## India’s power demand hits new peak, evening supply gap widens to 3,045 MW
-In May, India's power consumption surged to an unprecedented 270.8 GW, reflecting heightened energy needs across the nation. However, June faced a significant power shortfall of 3,045 MW, mainly affecting the northern states. This gap in electricity supply resulted from limitations in the transmissi
-
-## BSE enters Nifty50, Wipro exits: What changes from September 30
-BSE Ltd is set to take the place of Wipro Ltd in the prestigious Nifty 50 index from September 30, 2026. This alteration comes after a semi-annual review by NSE Indices, focusing on market capitalization metrics. Following this shift, Wipro will transition to the Nifty Next 50 index. BSE's inclusion
-
-## US stock market today: Wall Street drifts near all-time high; crude oil prices rise
-US stock market: The recent rally in equities has begun to lose momentum after being fuelled by a strong corporate earnings season in which large US companies reported sharply higher spring-quarter profits.
-
-## Beijing’s billion-barrel weapon: Why India must prepare for China-driven oil prices
-China has accumulated as much as 1.4 billion barrels in strategic and enterprise-controlled inventories, according to a new RAND study. That is more than three times the roughly 413 million barrels held in the US government’s Strategic Petroleum Reserve.
 
 ## UP temples reverberate with 'Har Har Mahadev' as devotees throng shrines on Sawan Monday
 UP temples reverberate with 'Har Har Mahadev' as devotees throng shrines on Sawan Monday
@@ -108,6 +105,12 @@ Padma Awasthi, a resident of Vallabhnagar Colony in Pilibhit, had fractured her 
 ## Uttarakhand: BRO personnel missing, Bailey bridge washed away in flash flood
 Teams of the State Disaster Response Force and National Disaster Response Force have been rushed to the spot
 
+## Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds
+While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of securing shares. Nearly 9.8 million accounts competed in the Hangzhou-based robot maker’s online sub
+
+## China’s banks look to unload more than US$8.2b in bad credit-card loans
+China’s commercial banks have stepped up efforts to dispose of non-performing credit-card loans, putting billions of yuan in troubled consumer debt up for sale as lenders seek to clean up balance sheets amid rising bad loans and shrinking interest margins. About 130 notices seeking buyers for bulk t
+
 ## Hong Kong’s commercial property investment growth beats peer Asia-Pacific markets
 Hong Kong’s commercial property investment more than doubled to US$3.1 billion in the second quarter, making it the fastest growing investment market in Asia-Pacific thanks to a strong increase in retail and office deals and a low base effect, according to JLL. The 129 per cent growth from a year ea
 
@@ -125,12 +128,6 @@ China unveiled its 15th five-year plan for the power sector on August 3. Below a
 
 ## Despite geopolitical tensions, China’s rare earth producers have profitable first half
 China’s rare earth producers have reported or anticipated hefty first-half profits, with Beijing’s use of the strategically critical minerals as leverage in trade relations with Japan and the United States not appearing to impede normal activity. The geopolitical factor – US President Donald Trump a
-
-## How China DRAM champion CXMT’s MSCI entry could lure fund inflows, cement its top ranking
-The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Chinese stocks may strengthen the chipmaker’s position as the most valuable stock on the onshore market, with the move expected to spur passive buying, analysts say. CXMT, China’s biggest maker of dynamic random access mem
-
-## As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?
-For decades, Hong Kong has been a magnet for the rich. From wealthy Chinese setting up family trusts to millionaires migrating from across Southeast Asia, all of them have been sucked in by the city’s promise of free capital flows, a trustworthy legal system and extensive financial expertise. It is 
 
 ## Netanyahu Nixes Trump’s Gaza Deal
 Another weekend with no resolution to the Middle East’s wars.
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Soldiers take cover as Colombia quake flattens military barracks
+Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake
+
+## Turkiye passes law giving thousands of PKK members chance at amnesty
+Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.
+
+## Seventy years after South Africa’s women’s march, the struggle is not over
+Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.
+
+## Can Netanyahu defy Trump on his Gaza peace plan?
+Can Netanyahu risk continuing to defy Trump?
+
+## Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
+US President Donald Trump said he will seek compensation from Iran for casualties in the war.
+
+## Inside a secret launch site for Ukraine’s deep-strike drones
+AJ's Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.
+
 ## Moment of terror as powerful earthquake shakes airport in Colombia
 Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake
 
 ## Ceuta mayor calls for migrant detention amid mass influx crisis
 Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.
-
-## Al Jazeera reporter on the ground as Colombia quake death toll rises
-Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.
-
-## Colombia’s Espriella to lead emergency efforts following Bogota earthquake
-Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.
-
-## Europe braces for another heatwave after record-breaking temperatures
-Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.
-
-## Wildfires burn across Indonesia as officials cite El Nino as a cause
-Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.
-
-## Turkiye approves pardon-like bill for thousands of PKK fighters
-Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.
-
-## Trump says relationship is good even as Netanyahu rejects Gaza peace plan
-US President Donald Trump maintains that his relationship with Israel's PM Benjamin Netanyahu is still good.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
