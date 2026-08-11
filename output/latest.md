@@ -1,40 +1,40 @@
 # AION Intelligence
 
+## Climate change an ‘existential threat’ to England’s green spaces, study finds
+Hotter, drier summers are creating stress on plants and soils
+
+## Andy Burnham faces first real test over his handling of prisons crisis
+New UK prime minister has leaned into the idea that he can respond to Britons’ concerns
+
+## Moscow releases former US Marine after four-year stint in Russian prison
+State department says American was freed without prisoner exchange or Washington concessions
+
+## Arday case poses awkward questions for Cambridge
+For Britain’s elite universities, governance issues add to funding woes
+
+## Deputy PM Salvini proposes windfall tax on Italian bank profits
+Plan for three-year levy comes amid strained public finances
+
+## Heatwaves push European gas prices close to Iran war highs
+Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation
+
 ## Can Democrats seize Congress from Trump?
 The races, the money and the issues that will determine the final half of Trump’s second term
 
 ## Will failure in Iran reshape how the US fights?
 Veterans and voters have punished past administrations for costly wars, but these days many Americans don’t seem to care
 
-## When trouble strikes, who shadow-banks the shadow bankers?
-Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins
-
-## Long-term sickness may be smaller problem for UK than thought, says ONS
-Statistics agency’s new labour market survey shows lower levels of economic inactivity due to ill health
-
-## Former Syrian dictator Assad sentenced to death in absentia
-Damascus court issues first ruling against ousted president since he fled to Russia in 2024
-
-## Ari Emanuel buys theatre group ATG for £4.5bn
-Deal by Hollywood mogul’s new venture Mari represents a big bet on continued demand for live events
-
-## Why Washington views Abu Dhabi as one of its most capable Middle East allies
-Also in today’s newsletter, progressives gain ground as a Democratic socialist leads Wisconsin governor’s race
-
-## Democratic socialist leads Wisconsin race in new threat to party leadership
-Primary victory would pit leftwing gubernatorial candidate against Trump-backed Republican in November midterms
-
-## Deputy PM Salvini proposes windfall tax on Italian bank profits
-Plan for three-year levy comes amid strained public finances
-
 ## UK letting agents under pressure from AI-assisted tenant complaints
 One agent said 90 per cent of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
 
-## Heatwaves push European gas prices close to Iran war highs
-Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation
-
-## Rooftop panels in cities cannot replace solar farms
+## Rooftop panels in cities are no replacement for solar farms
 Cleve Hill, the UK’s largest solar park, is unpopular with locals but the country needs more like it
+
+## When trouble strikes, who shadow-banks the shadow bankers?
+Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins
+
+## Ari Emanuel buys theatre group ATG for £4.5bn
+Deal by Hollywood mogul’s new venture Mari represents a big bet on continued demand for live events
 
 ## Humans cannot remain passengers in the back of the AGI car
 A sense of fatalistic inevitability about the technology’s evolution is triggering something close to despair
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Brazil’s Supreme Court to weigh cases that could weaken Amazon protections
-The rulings could affect Indigenous land rights, soya farming and environmental safeguards across the Amazon rainforest.
+## UNESCO says 2.4 million Afghan girls denied access to further education
+UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.
 
-## Syrian court sentences Bashar al-Assad and Atef Najib to death
-Syria’s ex-president Bashar al-Assad, his brother Maher al-Assad and cousin Atef Najib have been sentenced to death
+## Venezuela and Israel restore consular ties as relations warm
+Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.
 
-## US jury in Luigi Mangione murder trial to remain anonymous
-The closely watched state trial over the killing of UnitedHealthcare CEO Brian Thompson is set to begin next month.
+## Tightened blockade on Gaza causes prices to soar
+As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.
 
-## Russia frees ex-US Marine Robert Gilman from detention
-The US government had recently designated Gilman as wrongfully detained.
+## Paramount CEO may remove operations from California over stalled merger
+Paramount's CEO David Ellison warns of a California exit if the US state does not agree to talks, according to reports.
 
-## Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA
-Poland says their preparations to host the Women's Under-20 World Cup remain on schedule, despite UEFA-FIFA fallout.
+## ‘Justice at last’: Syrians react to Assad death sentence
+Syrians gathered to celebrate after a court sentenced ousted President Bashar al-Assad to death in absentia.
 
-## PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams
-The traditional curtain raiser for Europe's football league season pits Paris Saint-Germain against Aston Villa.
+## South Africa mine collapse kills 14 suspected illegal miners
+At least 14 suspected illegal miners were killed and eight injured when a mine dump collapsed in South Africa.
 
-## Trump faces lawsuit over push to limit birthright citizenship
-Despite previous Supreme Court ruling, Trump has sought new approach to limit the longstanding practice.
+## Tourists rush to Iceland to witness rare total solar eclipse
+Iceland is preparing for a total solar eclipse with hundreds of visitors expected in the country.
 
-## Hungary elects supreme court judge ousted by Orban as new president
-Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.
+## Rights groups launch new legal challenge to Trump campaign against ICC
+Prominent organisation charge sanctions against international tribunal trample consitutional rights, hinder their work.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
