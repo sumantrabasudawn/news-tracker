@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## How to fix the housing crisis | John Burn-Murdoch
+How housing shortages reached a crisis point, and what we can do about it
+
+## Hong Kong set to include trading firms in ‘big bang’ tax reforms
+Proposal is part of push by the Chinese territory to compete with Singapore for top-tier financial talent
+
+## Yen sinks as effect of US-Japan intervention fades
+Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks
+
+## India to allow charges on wildly successful digital payment system
+Also in this newsletter, more tariff threats
+
+## Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth
+Hanoi prioritises homegrown conglomerates after relying on trade and foreign investment
+
 ## JBS heir to become CEO of world’s largest meatpacker
 Wesley Batista Filho’s move to the top role will restore control of the company to its founding family
 
@@ -9,17 +24,11 @@ Turning currency into an asset the world wants to hold will be hard
 ## OpenAI’s head of ethics leaves start-up less than one year after joining
 Chloé Bakalar’s departure is one of several high-profile exits at the group in recent weeks as safety concerns mount
 
-## Chile allows ailing state copper miner to reinvest all profits for first time
+## Chile grants unprecedented reprieve to state copper miner
 Codelco has seen production slump and debt surge as demand explodes for the metal that is critical for data centres
-
-## Turkey’s parliament passes landmark law to end conflict with Kurdish militants
-Legislation includes a conditional pardon for thousands of fighters in the Kurdistan Workers’ Party
 
 ## Wall Street giants partner with Nvidia on $500bn AI financing deal
 Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
-
-## Iran’s supreme leader tightens grip with top appointments
-A raft of senior military and regime moves come as Tehran hardens its rhetoric over deal with US
 
 ## Burnham to crack down on vape and betting shops in bid to boost high streets
 Councils will be given extra powers to curb unwanted retailers and ‘bring town centres back to life’
@@ -27,35 +36,35 @@ Councils will be given extra powers to curb unwanted retailers and ‘bring town
 ## Glencore-backed group looks to rescue cobalt refiner Sherritt
 New consortium is the second major investor aiming for control of North America’s only cobalt refinery
 
-## AI will boost oil and gas production more than green energy, report finds
-Debate over tech impact on greenhouse gas emissions stoked by latest study
+## State Bank of India taps dollar bond market with five-year issue
+SBI is tapping ​the dollar debt ⁠market through the public issue and plans to raise funds through ‌a sale of five-year bonds
 
-## FanDuel and DraftKings hedge their bets with a predictions pivot
-Branching into predictions has charms for sportsbook operators that aren’t just defensive
+## Sensex today | Stock Market Live: Sensex, Nifty set for muted opening as crude oil prices rise
+Sensex, Nifty, Share Prices Live: Indian equities are likely to begin Tuesday on a subdued note as elevated crude prices and uncertainty over the Strait of Hormuz offset support from strong corporate earnings and renewed foreign inflows, keeping investors cautious ahead of fresh domestic cues.
 
-## US immigration applications to go online-only under new USCIS rule
-The policy will affect millions of immigration filings as USCIS accelerates its shift from paper processing to digital systems.
+## Demand for AI skills boosts campus placement salaries
+Fresh graduates can now snag job offers ranging from ₹7-12 lakh, a huge leap from the earlier ₹3-4 lakh norm
 
-## Sensex today | Stock Market Live: Stock to buy today: Mazagon Dock Shipbuilders
-Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Mazagon Dock Shipbuilders. The stock is getting good support from its 200-Day Moving Average (DMA) over the last two trading days. The 3 per cent rise on Monday indicates that fresh buyers are coming into the market. The 200-DMA
+## Trump secretly flew on U.S. military jet from Turkey amid Iran threat: Report
+The revelation highlights heightened security precautions surrounding presidential travel as tensions between Washington and Tehran intensified during the NATO summit.
 
-## Colombia earthquake: 7.4-magnitude quake kills at least 111, buildings collapse
-The epicentre was near San José del Palmar in Chocó, while tremors were felt in neighbouring Ecuador and Panama
+## NABL introduces accreditation scheme for mobile food testing labs in India
+The new framework seeks to take accredited food testing services beyond conventional laboratories, bringing quality checks closer to consumers and communities.
 
-## US judge dismisses criminal charges against Gautam Adani
-The ruling came with sharp criticism of the Justice Department’s handling of the prosecution, with Judge Nicholas Garaufis questioning the unusual process followed by senior officials in abandoning the case
+## Jupiter Wagons wins ₹400-crore battery storage projects from WBSEDCL
+The orders mark a significant step in the company’s push to expand its energy storage business alongside its established rail operations.
 
-## Meta, Google, TikTok face thousands of lawsuits over alleged youth addiction
-Thousands of lawsuits accusing major social media companies of harming young users can proceed after a US appeals court rejected an early appeal
+## Tamil Nadu-based Milky Mist IPO opens today: Why SBI Securities, Anand Rathi recommend ‘Subscribe’
+The IPO opens at a price band of ₹133-140 a share, after the company raised ₹465 crore from anchor investors ahead of the issue
 
-## MEPZ SEZ approves investment worth ₹443 crores
-Approvals expected to create 2,427 jobs across manufacturing, IT and logistics
+## ITC partners with Swarna Andhra P4 Foundation to adopt 100 villages
+The partnership will focus on livelihoods, skilling, agriculture, water security and women’s empowerment, with 15 villages developed as Lighthouse models.
 
-## Zee Entertainment Q1 net nearly halves to ₹74 crore
-Higher ad spends in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport; company bullish on sports content
+## Trump Media Q2 results: US president led media ventrue posts $238 million loss as crypto holdings tumble
+In the second quarter, Trump Media faced a dramatic loss of $238 million despite seeing its revenue more than double. However, operating losses expanded significantly, prompting the company to abandon new ventures like online betting and cryptocurrency. Their focus has shifted to the Truth API servi
 
-## e-way bill generation surged to over 13.98 cr in July
-The sustained uptick in e-way bill generation is a strong proxy for economic momentum, reflecting robust movement of goods across the supply chain
+## Oil prices hold near one-week high as Strait of Hormuz reopening remains in limbo
+Oil prices are hovering near recent highs as prospects for a US-Iran agreement fade. On Tuesday morning, both WTI and Brent crude benchmarks experienced slight upticks. The situation is complicated by US demands for compensation, hindering the potential reopening of the crucial Strait of Hormuz. Ira
 
 ## Telecom companies report 24.4bn spam calls, messages in April-June
 
@@ -75,35 +84,32 @@ The sustained uptick in e-way bill generation is a strong proxy for economic mom
 ## Govt: No policy stops airports from taking airline stakes
 
 
-## West Asia war fallout: Oil product exports find many new markets
+## Full Vande Mataram to ring out from Red Fort for 1st time on Independence Day
+Vande Mataram will be sung as PM Modi arrives at Red Fort, followed by flag hoisting and his customary address to the nation.
 
+## Junior doctor found dead inside hostel room in Gujarat, 4 suspended for ragging
+Statements of fellow students indicated that the deceased doctor had faced repeated mental harassment and torture by senior doctors.
 
-## SpaceX retail investors turn net sellers for first time since IPO; offload $4.5 million worth of shares
-Retail investors turned into net sellers of SpaceX shares as of August 7, marking the end of a buying frenzy. This change coincided with a stock price recovery, indicating that individuals may be taking profits. The shares have struggled post-IPO, dropping beneath the initial offering price. Investo
+## Must file FIR for every missing person, says SC in bid to curb human trafficking
+This is a re-clarification on a May 22 order which states interpreted only in the sense of registerin FIRs against “missing children” and not "missing people.
 
-## UP temples reverberate with 'Har Har Mahadev' as devotees throng shrines on Sawan Monday
-UP temples reverberate with 'Har Har Mahadev' as devotees throng shrines on Sawan Monday
+## Amit Shah will reply to student protests debate, says govt; Opposition demands specific reasons, Ram temple discussion
+NEET protest debate: Parliamentary affairs minister Kiren Rijiju made the offer during a BAC meeting in a bid to end the two-week-long logjam in the Lok Sabha.
 
-## UP hospital claims lab-grown cell therapy used for urethral stricture treatment
-UP hospital claims lab-grown cell therapy used for urethral stricture treatment
+## 18 shortlisted for Ram Temple CEO post amid donation case, interviews from today
+The 18 shortlisted candidates reached Ayodhya late on Monday and were instructed to not talk to media during their stay in the city.
 
-## Sourav Ganguly, wife Dona Ganguly receive death threat letters, cops begin probe
-The matter came to light after Sourav’s secretary approached Thakurpukur police station to register a complaint.
+## Delhi’s August rainfall crosses normal mark in just 10 days, with three more weeks of showers expected
+This is the earliest rains in Delhi have crossed the mark in at least 15 years, with just seven days of showers in the first 10 days of the month.
 
-## Sourav Ganguly, wife Dona Ganguly receive death threat letters, cops begin probe
-The letters had allegedly been arriving in the former BCCI president's name for around six months, but were initially not taken seriously.
+## Gautam Adani welcomes big legal relief by US court: 'Deep respect for judiciary'
+Reacting to the legal relief, Gautam Adani took to the social media platform X and welcomed the judgement.
 
-## ‘No firing at Jantar Mantar’: Nadda slams Rahul Gandhi; claims Congress leader ‘changing goalpost’
-Accusing the LoP in Lok Sabha of “running away from discussion”, JP Nadda accused Rahul Gandhi of “disrupting” Parliament for the last 15 days.
+## Man kills 2 daughters, attempts suicide at 5-star hotel near Bengaluru airport
+The police said that a note purportedly referring to a dispute over an alleged extramarital relationship was found in the Bengaluru hotel room.
 
-## A warning BJP can no longer afford to ignore? NDA ally sounds wake-up call
-“My speech wasn't a dissent speech. It was an honest speech,” Sikkim MP Indra Hang Subba on his decision to speak in support of protesting students.
-
-## Woman's family attempts self-immolation after her death in Uttar Pradesh hospital, demands action
-Padma Awasthi, a resident of Vallabhnagar Colony in Pilibhit, had fractured her hand after falling. She died during treatment at the private hospital.
-
-## Uttarakhand: BRO personnel missing, Bailey bridge washed away in flash flood
-Teams of the State Disaster Response Force and National Disaster Response Force have been rushed to the spot
+## Hong Kong index compiler proposes adding 20 more stocks to main technology tracker
+Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a selection criterion to strengthen market representation, according to a consultation paper released on Monday. Hong Kong’s major stock index compiler proposed increasing t
 
 ## Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds
 While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of securing shares. Nearly 9.8 million accounts competed in the Hangzhou-based robot maker’s online sub
@@ -125,9 +131,6 @@ Contemporary Amperex Technology Ltd (CATL), the world’s largest electric vehic
 
 ## China’s five-year road map for the power sector
 China unveiled its 15th five-year plan for the power sector on August 3. Below are key targets of the blueprint, which was released jointly by the National Development and Reform Commission and National Energy Administration. See original document in Chinese: 新型电力系统建设“十五五”规划 by scmp
-
-## Despite geopolitical tensions, China’s rare earth producers have profitable first half
-China’s rare earth producers have reported or anticipated hefty first-half profits, with Beijing’s use of the strategically critical minerals as leverage in trade relations with Japan and the United States not appearing to impede normal activity. The geopolitical factor – US President Donald Trump a
 
 ## Netanyahu Nixes Trump’s Gaza Deal
 Another weekend with no resolution to the Middle East’s wars.
@@ -153,6 +156,9 @@ Social callousness pushes even the prosperous to seek new lives overseas.
 ## The Straits Are Not OK
 After Hormuz, global waterways will return to being sites of bloody contention.
 
+## Safeguarding Storage: Wildberries’ Move to Kazakhstan
+As drone strikes on Wildberries warehouses across Russia continue, the company moves to increase its presence in Kazakhstan
+
 ## The Mecca Pact Extends Pakistan’s Security Role Westward
 Six months ago, it was unclear whether trilateral discussions between Pakistan, Saudi Arabia, and Turkiye would produce a formal agreement. They now have.
 
@@ -173,9 +179,6 @@ The region's maritime borders are hotly contested, but on land there's the real 
 
 ## Bangladesh Joins Saudi-led Defense Coalition as Bab el-Mandeb Risks Grow
 Bangladesh says that joining the Saudi-led defense coalition does not pose a threat to its relations with Iran.
-
-## Why Pakistan Is Pleased With Its Counterterrorism Dialogue With the US
-If the early rounds of talks focused on terror threats to U.S. security, the last two rounds included discussion of the BLA and TTP – threats to Pakistan’s security.
 
 ## Is Ukraine Drifting Towards Groupthink on European Integration?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -225,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Colombia’s far-right government recognises Israeli claim over Golan Heights
+The South American nation is only the second country to recognise Israel's claims over the illegally annexed territory.
+
+## Trump demands compensation from Iran as talks on Strait of Hormuz continue
+US president seeks payment for '50 years' of alleged damages after Iran conditions opening of Hormuz on war reparations.
+
+## Trump orders fewer childhood vaccinations including splitting up MMR
+US President Donald Trump signed an executive order calling for fewer childhood vaccinations and splitting up MMR.
+
 ## Soldiers take cover as Colombia quake flattens military barracks
 Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake
 
@@ -239,15 +251,6 @@ Can Netanyahu risk continuing to defy Trump?
 
 ## Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
 US President Donald Trump said he will seek compensation from Iran for casualties in the war.
-
-## Inside a secret launch site for Ukraine’s deep-strike drones
-AJ's Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.
-
-## Moment of terror as powerful earthquake shakes airport in Colombia
-Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake
-
-## Ceuta mayor calls for migrant detention amid mass influx crisis
-Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
