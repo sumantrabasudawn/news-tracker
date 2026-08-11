@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## How to stop Warsh becoming a lame duck
+The Federal Reserve chair needs to assert his authority or others will usurp his natural role
+
+## For prisons to work, we need to look at what is happening inside them
+The row over early releases ignores the fact that many will soon return without proper educational funding
+
+## Intel investors are banking on a comeback — and then some
+The spillover of AI mania has transformed demand and pricing
+
+## Sky City by Jacqueline Crooks — tuning into trauma
+Pirate radio offers solace for a troubled young north London woman in the follow-up to Crooks’s acclaimed debut, ‘Fire Rush’
+
 ## FirstFT: EU border checks double waiting times
 Also in today’s newsletter: Chinese humanoid robot company prepares for IPO and Colombia earthquake death toll rises above 100
 
@@ -12,50 +24,50 @@ China seeks to increase international use of its currency
 ## Trump warns ditching Infantino would be ‘terrible mistake’
 Comments come as Fifa president faces pressure to resign over private fundraising fiasco
 
+## How a darling of the clean energy transition stumbled
+BlocPower, a green loan and building retrofit provider that drew in a Who’s Who of elite investors, is at risk of collapse
+
 ## Goldman staff named as suspects in Brazil investigation
 Probe concerns shareholder dispute over cancer specialist Oncoclínicas
 
 ## Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors
 Unitree raises $900mn ahead of Shanghai listing expected later this month
 
-## How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled
-A merger between the giant drugmakers would have marked a return to pharma megadeals
-
-## Investing in the forgotten lands
-Getting Europe back on the radar
-
 ## Tony Blair’s son seeks funding for defence tech start-up
 Nick Blair in talks to raise roughly $200mn for new venture called Pyra
 
-## Confessions of a former star M&A reporter
-Malice and aspirations at the billion-dollar rumour mill
+## How investors killed AstraZeneca’s $400bn megadeal
+Tie-up with US rival Bristol Myers would have marked return to big pharma mergers
 
-## EU border checks double queues at major airports
-Peak waiting times hit two hours in Frankfurt and Amsterdam
+## Broker’s call: Greenlam Ind (Long)
+Equirus Securities
 
-## Vodafone Idea shares reverse early gains, Q1 loss narrows
-Nomura retains its ‘neutral’ rating with a target price of ₹12.60
-
-## AP to adopt Dharavi model for slums development
-Project to use transferable development rights for 177 housing units on DBFT basis as pilot under Visakhapatnam Economic Region programme
-
-## Why BSE shares falling as Wipro set to replace it in Nifty 50
-Shares of BSE declined over 1% after opening flat on Tuesday, while Wipro traded flat, after the NSE announced that BSE will replace Wipro in the Nifty 50 index effective September 30
-
-## Govt extends PM E-Drive scheme till FY28
-PM E-Drive offers support for a maximum 45,79,120 e2Ws, with total funding support from the MHI pegged at ₹2,767 crore
+## Fitch retains India’s sovereign rating at BBB- for 20 years in row
+The ratings agency forecast a 6.4 per cent GDP growth in the current fiscal year
 
 ## Q1 Results Today Live: NBCC (India) PAT up 32% y-o-y, Siemens, RVNL, Kalpataru Q1 profit rise, MRF, Zydus Lifesciences, KPI Green Q1 PAT decline, PI Industries, Manappuram Finance, Swan Defence, Bata, Gujarat Energy to announce Q1 results
 Q1 Results Today, 11th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Insecticides India Q1 net profit drops 24.5% to ₹43.87 crore on rainfall deficit
-The total income declined by 11.22% to ₹616.86 crore for the April-June quarter from ₹694.83 crore in the year-ago period
+## Higher input costs affects MRF’s Q1 profitability
+Net profit came in ₹495 crore compared with ₹502 crore it reported in Q1 FY26
 
-## Bharat Forge shares volatile after Q1FY27 loss, brokerages mixed on outlook
-The stock closed 2% lower
+## Construction equipment vehicle sales up 46 per cent in July; JCB remains the leader
+The last time the sector reported a growth was in June 2025
 
-## Milky Mist IPO Day 1 Live Updates: ₹1,553-cr IPO gets 76% subscription, LEAP India IPO crosses 8x subscription, Dhoot Transmission over 3x
-Milky Mist IPO GMP Day 1 live updates: Follow businessline to know subscription status
+## Broker’s call: Poonawalla Fin (Buy)
+Motilal Oswal
+
+## Major leaks in food security system
+Grain that should feed the poor is being rerouted to fuel vehicles. Legal rights are being diminished. The vulnerable are being digitally marginalised
+
+## AP’s GSDP up 10.7% in Q1 FY 27: Report
+While the spice production recorded a three-fold growth during the April-June period, reaching 89,383 metric tonnes, vegetable production also registered a growth of 45 per cent.
+
+## RBI guv asks banks to build human oversight, says blaming technology is 'unacceptable'
+Reserve Bank governor Sanjay Malhotra stressed human accountability for AI decisions. Banks must ensure technology supports human judgment, not replaces it entirely. Meaningful human oversight is crucial from the AI design stage. Cyber security and model bias present significant risks for lenders. B
+
+## Relief for Adani group: US court permanently dismisses criminal case; what Gautam Adani said
+Responding to the ruling, Gautam Adani said, "Truth has prevailed," adding that he respected the judicial process and expressed gratitude to those who had supported the Adani Group during the proceedings. He also reaffirmed the conglomerate's commitment to "nation-building" and "long-term value crea
 
 ## Rs 10, Rs 20 polymer notes get field-trial nod: What will change from paper currency?
 India is preparing to roll out polymer banknotes for initial trials shortly. The Reserve Bank of India plans to launch one billion pieces each of Rs 10 and Rs 20 denominations. These innovative polymer notes will coexist with current paper currency, with the goal of improving the longevity of lower 
@@ -75,35 +87,32 @@ Nvidia has joined forces with six prominent financial institutions to enhance AI
 ## Stock market today: Sensex ends over 380 points down, Nifty50 closes below 24,480
 
 
-## Top stocks to buy today: Stock market recommendations for August 11, 2026 - check list
-Mazagon Dock Shipbuilders, ICICI Lombard General Insurance, JSW Energy, and DLF - Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has identified these as the top stocks
+## Woman hit by speeding BMW near Delhi airport, dies; traffic diverted near T-3 terminal amid stir
+The deceased was identified as Jaiwanti, who worked as a house help, they said, adding that the car driver has been apprehended.
 
-## Trump Media Q2 results: US president-led media venture posts $238 m loss
-In the second quarter, Trump Media faced a dramatic loss of $238 million despite seeing its revenue more than double. However, operating losses expanded significantly, prompting the company to abandon new ventures like online betting and cryptocurrency. Their focus has shifted to the Truth API servi
+## Minute-by-minute of August 15: What exactly happens at Red Fort on Independence Day
+The Independence Day ceremony at Red Fort blends the precision and discipline of the armed forces with national symbolism.
+
+## ‘Put some clothes on’: Rekha Gupta slams AAP MLA over video showing him in vest and shorts
+AAP MLA Anil Jha Vats was seen wearing a vest and shorts and sitting cross-legged on a chair, with a saffron cloth draped across his lap.
+
+## Notice issued to design consultant after approach road to Uttarakhand bridge caves in
+Uttarakhand issued a show-cause notice to the bridge’s design consultant after the approach road collapsed 16 days post-inauguration due to design flaws.
+
+## ‘US-India partnership vital for global security’: Envoy Sergio Gor holds talks with Ajit Doval
+The interaction follows Ambassador Sergio Gor's meeting with Foreign Secretary Vikram Misri in New Delhi on Monday evening.
+
+## MEA hits back at Chinese criticism over naming of 27 Arunachal sites: ‘Indisputable reality’
+Arunachal is an inalienable and integral part of India and this is a fact which is self-evident, India said.
+
+## Centre eyes consensus on sending foreign funding bill to JPC amid demands for complete withdrawal
+Union home minister Amit Shah assured Mizoram chief minister Lalduhoma that the FCRA laws will not be implemented retrospectively.
 
 ## 'Where will jobs come from': Hemant Soren blames Centre policies for lack of employment, shutting of establishments
 Hemant Soren accused the BJP of providing government jobs in the state to people from other states during its tenure.
 
-## Disease outbreak in MP’s Balaghat kills 6 children, over 100 sick: Officials
-Experts are now supervising treatment, with acute nutritional deficiencies also detected among children
-
-## Manmohan Singh ‘most consequential PM’: Sonia Gandhi says his prophecy on Narendra Modi is coming true
-Congress Parliamentary Party chairperson's remarks come days after Supreme Court gave the late ex-PM Manmohan Singh a clean chit in coal block allocation case.
-
-## Mayawati urges Gen Z to stay away from BJP-Cong, says none serious about youth issues
-Mayawati said that the BSP has always stood firmly with the students and assured that the party will continue to do so.
-
-## ‘When will Trisha become deputy CM?’ After Stalin Jr, AIADMK leader targets CM Vijay
-In a video, Udhayakumar can be heard saying that the TVK government was appointing individuals closely associated with the Chief Minister.
-
-## Coaching centres boom, charging huge fees: Why CM Vijay's govt wants NEET abolition
-State health minister KG Arunraj said the examination had “diverted focus of students” from the curriculum followed by schools to coaching.
-
-## India needs a national urbanisation council to coordinate urban growth: Report
-WRI India also cites the United Nations-promoted degree of urbanisation methodology, under which about 61.6% of India’s population is classified as urban
-
-## In new video, PM Narendra Modi asks people to make Har Ghar Tiranga a celebration in every home
-Ahead of Independence Day, PM Narendra Modi has a request for citizens.
+## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
+Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
 
 ## Wharf firms up balance sheet as Hong Kong home sales cushion profit slump
 Hong Kong developer Wharf (Holdings) is increasingly relying on Hong Kong’s luxury-home market to offset weakness in mainland China, while paring investments and building up cash as it navigates an uncertain outlook. Revenue from Wharf’s Hong Kong development properties nearly tripled to HK$1.35 bil
@@ -126,8 +135,8 @@ A rebound in gold prices has pushed shares of Chinese producers of the precious 
 ## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
 The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
 
-## Hong Kong index compiler proposes adding 20 more stocks to main technology tracker
-Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a criterion for selection to strengthen market representation, according to a consultation paper released on Monday. Hong Kong’s major stock index compiler proposed increasi
+## The West Bank, Not Gaza, Should Be Trump’s Priority
+With his Gaza plan dead in the water, he should refocus on preventing the next conflagration.
 
 ## What Morocco Was Saying to Spain in Ceuta
 The migrant crisis has underscored Madrid’s increasingly tenuous geopolitical position.
@@ -149,9 +158,6 @@ Nixon’s “Saturday Night Massacre” triggered nationwide outrage—and a fir
 
 ## The Middle East Tries Its Hand at a NATO-Style Pact
 Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.
-
-## Why China’s Elites Still Want to Leave
-Social callousness pushes even the prosperous to seek new lives overseas.
 
 ## Indonesia’s President Nominates Central Bank Deputy as New Governor
 The rupiah rose slightly on news of Destry Damayanti's nomination, which will now pass to the House of Representatives for approval.
@@ -225,35 +231,41 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Philippines sailors say they will work despite wartime risks
+Philippines sailors say they will work despite wartime risks
+
+## Late snow blankets parts of southern Africa as winter nears its end
+Late-season snow hits South Africa and Lesotho as the Northern Hemisphere swelters in heat and wildfires.
+
+## Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan
+Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.
+
+## Iran, US set new conditions during Hormuz talks: What does this mean?
+Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.
+
+## Final phase of voting in Pakistan-administered Kashmir, despite security fe
+Final phase of voting in Pakistan-administered Kashmir, despite security fears
+
+## What to watch in Wisconsin’s high-stakes primary
+US Democrats face another test after Michigan as voters choose nominees for governor and Congress.
+
+## Syrian court sentences Bashar al-Assad to death in absentia
+Syrian court sentences Bashar al-Assad to death in absentia
+
 ## ‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war
 After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.
 
-## Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out
-Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.
-
-## Palestine weekly: Netanyahu hedges on Gaza roadmap
-Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump's 15-point peace plan.
-
-## Baby among those rescued as hundreds feared missing after Colombia quake
-A 7.4-magnitude quake devastated western Colombia, killing 132, destroying buildings and leaving hundreds missing.
-
-## What to know about South Carolina’s election to replace Lindsey Graham
-Tuesday's special election will pick a Republican challenger for the midterm Senate race transformed by Graham's death.
-
-## DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record
-A total of 4,381 cases across five provinces have been confirmed in the Democratic Republic of the Congo as of Tuesday.
-
-## East Libya military intelligence chief killed in car bomb
-Prime minister of the Eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.
-
-## Who is Atef Najib, former Syrian official sentenced to death with al-Assad?
-Experts say this trial has been a test of Syria’s transitional justice.
+## Finance panel seeks sector-specific audit studies, faster NFRA reforms
+A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
 
 ## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
 The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
 
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
+
+## Parliament passes Taxation Bill, Sitharaman says no fee on UPI transactions
+The Parliament approved the Taxation and other Laws (Amendment) Bill on Monday, with Finance Minister Nirmala Sitharaman making it clear that the legislation does not impose any tax or transaction charge on users making payments through the Unified Payments Interface (UPI).
 
 ## REITs set to gain tax flexibility, cash flow boost under new Bill
 Indian REITs could gain greater tax flexibility under the Taxation and Other Laws (Amendment) Bill, 2026, which allows SPVs to opt for concessional corporate tax rates, avoid future MAT and use accumulated MAT credits while retaining tax-exempt dividends for unitholders.
@@ -266,12 +278,6 @@ Leading FMCG firms are planning price increases and shrinkflation this quarter. 
 
 ## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
 While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
-
-## BRICS trade meet clears MSME credit framework
-Brics trade ministers finalized their Economic Partnership 2030 strategy and adopted a joint declaration. They agreed on the Jaipur Consensus and Guiding Principles for MSME credit. This aims to close the trade finance gap and expand small business access. The declaration also supported a rules-base
-
-## Is RBI's Low Interest Rate Regime Really Powering India's Growth?
-This week, the RBI kept the repo rate unchanged at 5.25% for the fourth consecutive policy meeting. Since August 2023, the central bank has steadily reduced the repo rate from 6.50% to 5.25%, providing businesses and lenders with an unusually stable monetary policy backdrop. Such policy certainty is
 
 ## Sebi measures reduce equity F&O losses for retail investors in FY26
 Sebi's new rules significantly lowered retail investor losses in equity derivatives. Aggregate net losses dropped to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore. Retail investor volumes and trading turnover also saw a decline in the same period. Sebi implemented several measures since November 2
