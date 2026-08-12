@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## India plans to tighten rules on foreign-funded NGOs
+Charities and religious groups fear new bill could lead to government confiscating assets
+
+## Why must a socialist also be woke?
+If the left could separate economics from culture, capitalism would have more to fear
+
+## How will El Niño hit the world economy?
+Disruptive climate event is likely to be one of the strongest on record
+
+## Who is Anthropic’s auditor — and why should we care?
+Magic bean counters
+
 ## Zhu Rongji, reforming Chinese premier, 1928-2026
 Jiang Zemin’s right-hand man laid the foundation for the country’s leap to economic superpower
 
@@ -12,20 +24,11 @@ Operations paused at port handling most of Colombia’s bean shipments
 ## Cambridge to carry out independent probe into Jason Arday appointment
 Move follows pressure from senior academics after university’s youngest-ever Black professor quit last week over plagiarism allegations
 
-## Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race
-David Crowley defeats Francesca Hong for party’s gubernatorial candidate
-
-## Taiwan hits out at China over naval drill with Indonesia
-Rare joint exercises raise concerns over Beijing’s more assertive conduct in disputed waters
+## Vestas shares soar as wind turbine orders bounce back
+Copenhagen-listed group raises profit guidance and announces share buyback
 
 ## Bank of America commits $250bn to US projects in boost to ‘America First’ agenda
 Pledge comes after president snubbed chief executive of US’s second-largest lender this year
-
-## Burnham to hold emergency Cobra meeting in response to heatwaves
-Prime minister’s move comes as several areas in UK tackle wildfires and drought amid extreme high temperatures
-
-## Vestas shares soar as wind turbine orders bounce back
-Copenhagen-listed group raises profit guidance and announces share buyback
 
 ## UK power supplies likely to be stretched during solar eclipse
 Grid operator calls for extra generation capacity to be made available on Wednesday evening
@@ -42,29 +45,29 @@ The banks strike back
 ## China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack
 AI agents ran simultaneous reconnaissance and break-ins in display of new phase of cyberwarfare
 
-## Coconut oil prices on the boil on Onam demand
-Wholesale coconut oil prices are ruling at around ₹260 a kg, while copra prices have moved up to ₹168 a kg in Kerala
+## Mach Travel Solutions Q1 FY27 Revenue Jumps 538% YoY to ₹144.33 Cr
+Mach Travel Solutions Q1 FY27 Revenue Jumps 538% YoY to ₹144.33 Cr
 
-## Milky Mist IPO Day 2 Live: ₹1,553-cr Milky Mist IPO subscribed over 2 times, Shiprocket IPO 85% booked
-Milky Mist IPO Day 2 live updates, Shiprocket IPO Day 1 Live Updates
+## Kashmir's stories and traditions come alive in Asian Paints' Tribute to the Valley
+Kashmir's stories and traditions come alive in Asian Paints' Tribute to the Valley
 
-## Q1 Results Today Live: Tata Motors, HAL, Grasim Industries, Eureka Forbes, Lenskart, AIA Eng, Marksans Pharma Q1 PAT up y-o-y, VA Tech Q1 PAT at ₹79.3 cr, EID Parry con. PAT declines, Apollo Hospitals, GMR Airports, Abbott, IRCON, IRCTC, Sun TV to announce Q1 results
-Q1 Results Today, 12th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## Dish TV’s Vzy Smart TV hits ₹200 crore in sales in under a year
+Dish TV Group positions Vzy as a key pillar of its strategic diversification beyond its core DTH business
 
-## Retail inflation rises to 4.45% in July
-Food inflation hit 5.52%, while silver jewellery saw prices soar around 110%
+## Milky Mist IPO Day 2 Highlights: ₹1,553-cr Milky Mist IPO subscribed over 2 times, Shiprocket IPO nears full subscription on Day 1
+Milky Mist IPO Day 2 updates, Shiprocket IPO Day 1 Updates
 
-## PMS Bazaar collaborates with NSDL arm for accredited investor certification
-Collaboration aims to make accredited investor certification simpler, faster, and more accessible through end-to-end assistance
+## Sensex today | Stock Market Highlights: Sensex slips 187 pts to close at 77,966, Nifty ends at 24,435; TCS, M&M top losers
+Sensex, Nifty, Share Prices Highlights: Sensex dropped 187.90 points or 0.24% to close at 77,966.35, while the Nifty 50 ended at 24,435.95, down by 35.75 points or 0.15%
 
-## Sensex today | Stock Market Live: Sensex slips 187 pts to close at 77,966, Nifty ends at 24,435; TCS, M&M top losers
-Sensex, Nifty, Share Prices Live: Sensex dropped 187.90 points or 0.24% to close at 77,966.35, while the Nifty 50 ended at 24,435.95, down by 35.75 points or 0.15%
+## Samsung Galaxy Z Fold 8 Ultra review: Big-screen versatility in a remarkably slim package
+Has Samsung finally perfected the foldable smartphone with the Galaxy Z Fold 8 Ultra?
 
-## Major Milestones under N Chandrasekaran’s leadership
+## Army to set up training centres for youth in Telangana
+Lieutenant General C Rajesh Pushkar said the Indian Army was ready to set up training centres for youth in various Telangana district headquarters
 
-
-## Shiprocket IPO today: ₹1,617.5-crore issue opens at ₹92-97; check key details
-The e-commerce platform is seeking to strengthen its technology and marketing capabilities while reducing debt and pursuing potential acquisitions.
+## Krystal acquires Citelum India, targets ₹300-350 crore revenue from city lighting
+KISL plans to scale operations across 30-40 cities in 12-15 states
 
 ## Investing in mutual funds? Four ways to effectively manage risk for the right investment strategy
 Mutual fund investments inherently carry risks, but with the help of the aforementioned strategies one can easily manage them. All you need to do is formulate a balanced investment strategy that can withstand market changes.
@@ -90,29 +93,32 @@ Gold finally broke out of its long consolidation range last week, gaining over 7
 ## Tata group stocks fall up to 4% as N Chandrasekaran steps down as chairman
 Chandrasekaran's resignation marks an unexpected end to a tenure of nearly 10 years during which he reshaped India's largest business group, expanding its presence across sectors including airlines, semiconductors, electronics, batteries and digital businesses.
 
+## Fire breaks out at a private school in Manesar; no casualty reported: Officials
+The official added that the non-teaching staff rushed and broke the window panes present in all classrooms
+
+## Meth worth ₹9.4 cr seized from Mumbai, Greater Noida Israeli national; two foreign women held
+After the first seizure in Mumbai, the accused Israeli national revealed that he had purchased the ‘Methamphetamine’ drug from a factory in Greater Noida.
+
+## 7000 tonnes of garbage: Haridwar readies for “mega clean-up” after Kanwariyas depart
+Experts have called for quick disposal of the garbage as the spectre of worsening pollution and disease looms over Haridwar, a popular pilgrimage for millions through the year.
+
+## Suspected Pakistani nationals arrested near Bangladesh border by Bengal STF
+Two suspected Pakistani nationals were arrested by the Bengal STF near the Bangladesh border in North 24 Parganas and charged with espionage, lawyers said.
+
+## ‘Frustrated, disappointed’: Kiren Rijiju slams Opposition for ‘running away’ from debates in Parliament
+Kiren Rijiju remarked that he is witnessing this for the first time where the government wants a discussion in Parliament, yet the opposition is running away.
+
+## ‘Jantar Mantar Season 2 going to start very soon’: CJP founder Abhijeet Dipke's big remark
+‘Season 1’ points back to the massive student protests at Delhi’s Jantar Mantar last month which forced Dharmendra Pradhan's resignation as education minister.
+
+## India’s pharma exports grew 6.8% in Q1 FY27: Pharmexcil
+India’s pharmaceutical exports rose 6.8% to $8.1 billion in April-June FY27, with the US remaining the top market, Pharmexcil data showed.
+
 ## Working on framework for hill cities amid growing disaster risks, govt tells LS
 The government told Lok Sabha that climate change had increased the intensity and frequency of extreme rainfall events in the region
 
-## Deepti Gaur Mukherjee assumes charge as higher education secretary
-Deepti Gaur Mukherjee is a 1993-batch Indian Administrative Service (IAS) officer of the Madhya Pradesh cadre.
-
-## Police to verify viral video claiming to be of Atiq Ahmed's son's fatal car crash
-The viral video purportedly shows the moment the fatal car crash happened. The driver seemed to have lost control of the vehicle and rammed into a road divider.
-
-## Madhya Pradesh bans analog paneer production, sale and use over health concerns
-Madhya Pradesh has banned the production, sale and use of analog paneer, citing health concerns, with officials ordered to seize the product.
-
-## 9 houses set ablaze by unknown armed individuals in Manipur’s Kangpokpi
-Officials said the incident occurred around 9.30pm on Tuesday at Tokpa Liangmai Naga village located near Tumnoupokpi Thangal village
-
-## Tripura college student allegedly abducted, raped while returning home: Police
-A college student was allegedly abducted and raped by unknown people while returning home from college in West Tripura, police said. No arrests have been made.
-
-## SC rejects plea for national policy for demolition rehab, leaves it to states
-The Supreme Court said the petitioners could directly approach the states and union territories since such issues fall within the policy domain
-
-## Lok Sabha probe panel finds Justice Yashwant Varma guilty in cash-at-home case
-The incident came to light after a fire broke out in the official residence of Justice Varma on the night of March 14 last year.
+## HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
+HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle of its insurance unit, with two senior executives appointed to replace outgoing global insurance CEO Edward Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSB
 
 ## Hong Kong stablecoin selection expands with Standard Chartered-led venture’s launch
 A Standard Chartered-led joint venture kicked off institutional use of Hong Kong dollar-backed stablecoins on Wednesday, a year after the city put its stablecoin law into effect as part of an effort to become a global hub for digital assets. Retail use of the regulated cryptocurrency was expected “a
@@ -134,9 +140,6 @@ Hong Kong is doubling down on efforts to increase its stock market’s exposure 
 
 ## China’s quant funds have an edge on foreign rivals, even as Beijing curbs trading speed
 China’s quantitative funds have built trading strategies so closely tailored to the mainland market that foreign rivals cannot replicate them, even as a regulatory clampdown on trading speed reshapes the industry, according to a prominent economist. “If a top US quant team goes to Japan or India, th
-
-## HKEX pushes ahead on extended trading hours discussions as it prepares paper: sources
-Hong Kong Exchanges and Clearing (HKEX) will push ahead with talks on extending stock market trading hours by releasing a discussion paper, even as it faces brokers’ concerns over a longer trading time and cancellation of the trading lunch break, according to two sources with knowledge of the matter
 
 ## The Next Front in LNG Sanctions Runs Through China
 Moscow will soon have to redirect a growing share of its exports to Asia.
