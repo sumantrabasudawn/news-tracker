@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## US inflation falls to 3.4% in July
+Fallout from Iran war continues to reverberate across economy even as petrol prices decline
+
+## The west has given China the keys to the medicine cabinet
+The US and Europe led the antibiotic era but then outsourced the means to sustain it
+
+## Goldman Sachs to acquire ETF provider Neos for up to $2.3bn
+Wall Street bank continues to boost presence in asset management
+
+## Scottish North Sea tax revenues drop, fuelling debate on oil and gas industry’s future
+UK government to soon decide whether to approve production at the Rosebank and Jackdaw fields
+
+## Switzerland pushes ahead with post-Credit Suisse crackdown
+Financial regulator may be given greater powers to intervene at troubled banks and levy fines
+
 ## India plans to tighten rules on foreign-funded NGOs
 Charities and religious groups fear new bill could lead to government confiscating assets
 
@@ -9,65 +24,41 @@ If the left could separate economics from culture, capitalism would have more to
 ## How will El Niño hit the world economy?
 Disruptive climate event is likely to be one of the strongest on record
 
+## Vestas shares soar as wind turbine orders bounce back
+Copenhagen-listed group raises profit guidance and announces share buyback
+
+## America’s largest home lender falls out of the hamster wheel
+Non-bank mortgage lending is in trouble
+
 ## Who is Anthropic’s auditor — and why should we care?
 Magic bean counters
-
-## Zhu Rongji, reforming Chinese premier, 1928-2026
-Jiang Zemin’s right-hand man laid the foundation for the country’s leap to economic superpower
 
 ## FirstFT: Vance asked Ukraine to halt strikes on tankers
 Also in today’s newsletter: Moderate Democrat wins in Wisconsin, and Bank of America commits $250bn to US infrastructure projects
 
-## Colombian earthquake disrupts key coffee export road
-Operations paused at port handling most of Colombia’s bean shipments
+## India’s arabica coffee crop may be hit by deficit rain, pest attack
+Key coffee regions in Karnataka, Kerala receive uneven rainfall with deficit going up to 61%
 
-## Cambridge to carry out independent probe into Jason Arday appointment
-Move follows pressure from senior academics after university’s youngest-ever Black professor quit last week over plagiarism allegations
+## Grasim Industries net up 39% to ₹3,846 crore on better realisation
+Revenue was up 21 per cent at ₹48,716 crore
 
-## Vestas shares soar as wind turbine orders bounce back
-Copenhagen-listed group raises profit guidance and announces share buyback
+## Dhoot Transmission, Molbio Diagnostics IPOs see over 70 times subscription on closing day
+Dhoot Transmission QIB portion subscribed 212.92 times, NII 51.93 times; retail 8.12 times and employee portion 8.14 times
 
-## Bank of America commits $250bn to US projects in boost to ‘America First’ agenda
-Pledge comes after president snubbed chief executive of US’s second-largest lender this year
+## RK Swamy Q1 PAT up 21 per cent at ₹3.5 crore
+Consolidated revenue grew 7.5 per cent to ₹86 crore (₹80 crore)
 
-## UK power supplies likely to be stretched during solar eclipse
-Grid operator calls for extra generation capacity to be made available on Wednesday evening
+## bl Changemaker Awards: Jury to meet on Monday
+The eighth edition of the awards will be held on September 22 in New Delhi
 
-## Tata chair to step down as succession row escalates
-N Chandrasekaran to depart India’s largest conglomerate amid dispute with Noel Tata
+## RIR Power Electronics posts 29% revenue jump in Q1 FY27, PAT doubles
+Adjusted EBITDA climbs 62.87% to ₹4.71 crore, with margins expanding 357 basis points to 17.32%
 
-## HSBC’s global insurance head steps down
-Europe’s largest bank continues to overhaul its operations as industry grapples with uncertainties over China tax
+## Food safety crackdown: Companies turn to audits, legal advice as FSSAI tightens enforcement
+industry associations and experts insist that due process be followed before company names are made public
 
-## Business development companies are paying more to borrow. But why?
-The banks strike back
-
-## China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack
-AI agents ran simultaneous reconnaissance and break-ins in display of new phase of cyberwarfare
-
-## Mach Travel Solutions Q1 FY27 Revenue Jumps 538% YoY to ₹144.33 Cr
-Mach Travel Solutions Q1 FY27 Revenue Jumps 538% YoY to ₹144.33 Cr
-
-## Kashmir's stories and traditions come alive in Asian Paints' Tribute to the Valley
-Kashmir's stories and traditions come alive in Asian Paints' Tribute to the Valley
-
-## Dish TV’s Vzy Smart TV hits ₹200 crore in sales in under a year
-Dish TV Group positions Vzy as a key pillar of its strategic diversification beyond its core DTH business
-
-## Milky Mist IPO Day 2 Highlights: ₹1,553-cr Milky Mist IPO subscribed over 2 times, Shiprocket IPO nears full subscription on Day 1
-Milky Mist IPO Day 2 updates, Shiprocket IPO Day 1 Updates
-
-## Sensex today | Stock Market Highlights: Sensex slips 187 pts to close at 77,966, Nifty ends at 24,435; TCS, M&M top losers
-Sensex, Nifty, Share Prices Highlights: Sensex dropped 187.90 points or 0.24% to close at 77,966.35, while the Nifty 50 ended at 24,435.95, down by 35.75 points or 0.15%
-
-## Samsung Galaxy Z Fold 8 Ultra review: Big-screen versatility in a remarkably slim package
-Has Samsung finally perfected the foldable smartphone with the Galaxy Z Fold 8 Ultra?
-
-## Army to set up training centres for youth in Telangana
-Lieutenant General C Rajesh Pushkar said the Indian Army was ready to set up training centres for youth in various Telangana district headquarters
-
-## Krystal acquires Citelum India, targets ₹300-350 crore revenue from city lighting
-KISL plans to scale operations across 30-40 cities in 12-15 states
+## Arvind Ltd’s Q1 profit stays flat despite 25% revenue growth
+The strong operating performance was driven by robust demand across its core businesses
 
 ## Investing in mutual funds? Four ways to effectively manage risk for the right investment strategy
 Mutual fund investments inherently carry risks, but with the help of the aforementioned strategies one can easily manage them. All you need to do is formulate a balanced investment strategy that can withstand market changes.
@@ -93,29 +84,29 @@ Gold finally broke out of its long consolidation range last week, gaining over 7
 ## Tata group stocks fall up to 4% as N Chandrasekaran steps down as chairman
 Chandrasekaran's resignation marks an unexpected end to a tenure of nearly 10 years during which he reshaped India's largest business group, expanding its presence across sectors including airlines, semiconductors, electronics, batteries and digital businesses.
 
-## Fire breaks out at a private school in Manesar; no casualty reported: Officials
-The official added that the non-teaching staff rushed and broke the window panes present in all classrooms
+## Kaziranga eco-sensitive zone to be cut from 10km to 1km as per SC guidelines: Assam CM
+Assam CM Himanta Biswa Sarma said the Kaziranga ESZ would be reduced from 10km to 1km in line with Supreme Court guidelines.
 
-## Meth worth ₹9.4 cr seized from Mumbai, Greater Noida Israeli national; two foreign women held
-After the first seizure in Mumbai, the accused Israeli national revealed that he had purchased the ‘Methamphetamine’ drug from a factory in Greater Noida.
+## Food safety officials find expired ingredients at Zomato warehouse: ‘Uncovered licensing, labelling violations’
+Expired food was found at Arogya Soudha canteen on Magadi Road, where food storage practices did not comply with FSSAI requirements.
 
-## 7000 tonnes of garbage: Haridwar readies for “mega clean-up” after Kanwariyas depart
-Experts have called for quick disposal of the garbage as the spectre of worsening pollution and disease looms over Haridwar, a popular pilgrimage for millions through the year.
+## Tripura govt felicitates CWG gold medallist Asmita Dey; gives land, cheque
+Asmita learnt judo at a centre located at Belonia in South Tripura district and then moved to the Sports School in Agartala
 
-## Suspected Pakistani nationals arrested near Bangladesh border by Bengal STF
-Two suspected Pakistani nationals were arrested by the Bengal STF near the Bangladesh border in North 24 Parganas and charged with espionage, lawyers said.
+## 2003 Independence Day: 'Indian economy 4th largest today'– Atal Bihari Vajpayee's last Aug 15 speech
+As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister Atal Bihari Vajpayee's Independence Day address from the Red Fort.
 
-## ‘Frustrated, disappointed’: Kiren Rijiju slams Opposition for ‘running away’ from debates in Parliament
-Kiren Rijiju remarked that he is witnessing this for the first time where the government wants a discussion in Parliament, yet the opposition is running away.
+## Karnataka cabinet portfolion allocation: CM Shivakumar keeps finance, law; Zameer gets housing | Check full list
+Ramalinga Reddy was allotted the Forest, Ecology and Environment portfolio, while Lakshman Savadi was assigned Co-operation, excluding Agriculture Marketing.
 
-## ‘Jantar Mantar Season 2 going to start very soon’: CJP founder Abhijeet Dipke's big remark
-‘Season 1’ points back to the massive student protests at Delhi’s Jantar Mantar last month which forced Dharmendra Pradhan's resignation as education minister.
+## 'BJP threatening to hang Delhi hall owners upside down': Dipke's big claim after cancelled meet
+Dipke said a meeting of CJP volunteers was cancelled after the banquet hall where it was to be held revoked the booking.
 
-## India’s pharma exports grew 6.8% in Q1 FY27: Pharmexcil
-India’s pharmaceutical exports rose 6.8% to $8.1 billion in April-June FY27, with the US remaining the top market, Pharmexcil data showed.
+## A third of skilling scheme trainees remain unplaced
+The panel also questioned the performance of the RSETIs, under which only 4.5 million of 6.2 million trained beneficiaries had been “settled” in self-employment.
 
-## Working on framework for hill cities amid growing disaster risks, govt tells LS
-The government told Lok Sabha that climate change had increased the intensity and frequency of extreme rainfall events in the region
+## ‘Unbearably hot’: SpiceJet passengers suffer for hours after AC fails on Delhi-Pune flight
+The passengers protested after the aircraft was moved towards the runway despite the problem, prompting the airline to return.
 
 ## HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
 HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle of its insurance unit, with two senior executives appointed to replace outgoing global insurance CEO Edward Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSB
@@ -237,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Sudanese army intercepts RSF drones over el-Obeid
+Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.
+
+## Why has North Korea fired a missile ahead of US-South Korea drills?
+Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a 'rehearsal for invasion'.
+
+## Egyptian student livestreams his kidnapping
+Egyptian student livestreams his kidnapping
+
+## Top Iranian commander visited Iraq to discuss disarmament plan: Source
+Esmail Qaani held meetings over Iraqi government's plan to disarm armed groups and bring weapons under state control.
+
+## Rare solar eclipse to sweep across Europe and the Arctic
+Rare solar eclipse to sweep across Europe and the Arctic
+
 ## Putin warns of tit-for-tat seizures of European vessels
 If European states seize vessels with Russian cargo, Moscow will respond in kind 'wherever necessary', says Putin.
 
@@ -245,21 +251,6 @@ Three-quarters of the world has abolished the death penalty in law or in practic
 
 ## Woman rescued after 36 hours under rubble in Colombia
 A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.
-
-## Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?
-Iran says Hormuz stays closed until US meets its demands and changes its 'behaviour' as global energy prices rise.
-
-## ‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War
-A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.
-
-## More than 100 passengers rescued after Indonesia ferry fire
-More than 100 passengers rescued after Indonesia ferry fire
-
-## Pogba suffers new injury setback with Monaco future now in doubt
-Former France and Manchester United star Paul Pogba suffers latest injury setback, sparking rumours about Monaco future.
-
-## Zambia’s president rallies for second term ahead of election
-Zambia's president rallies for second term ahead of election
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
@@ -285,6 +276,9 @@ The Parliament approved the Taxation and other Laws (Amendment) Bill on Monday, 
 ## REITs set to gain tax flexibility, cash flow boost under new Bill
 Indian REITs could gain greater tax flexibility under the Taxation and Other Laws (Amendment) Bill, 2026, which allows SPVs to opt for concessional corporate tax rates, avoid future MAT and use accumulated MAT credits while retaining tax-exempt dividends for unitholders.
 
+## No evidence of manipulation in new closing auction session: SEBI Chief
+India's capital markets regulator has found no signs of manipulation in the newly introduced closing auction session, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey said on Wednesday, amid concerns raised by some market participants over the new mechanism.
+
 ## Govt to offer sops up to Rs 5,000 for electric two-wheelers till Mar 2028
 Government incentives for electric two-wheelers are extended until March 2028. Financing support mechanisms are being developed for electric buses and trucks. This initiative aims to reduce borrowing costs and accelerate EV adoption across segments. Registered electric two-wheelers will continue rec
 
@@ -302,7 +296,4 @@ South Africa is India's largest trading partner within the SACU bloc. Bilateral 
 
 ## Indonesia-India discuss proposal to create Preferential Trade Agreement
 Indonesian and Indian trade ministers met to boost bilateral trade and investment. They discussed accelerating cooperation and enhancing market access for mutual benefit. Both nations are reviewing the ASEAN-India Trade in Goods Agreement, aiming for 2026. Indonesia supports simpler, business-friend
-
-## India amends FDI rules to boost e-commerce for small businesses, artisans, farmers, and fishermen: Union Minister Piyush Goyal
-India has amended foreign direct investment regulations to boost e-commerce trade. These changes will help small businesses, artisans, farmers, and fishermen access wider markets. BRICS ministers discussed enhancing trade, investment, and industrial cooperation among member nations. Discussions also
 
