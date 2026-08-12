@@ -3,11 +3,14 @@
 ## World witnesses one of nature’s greatest spectacles: a total solar eclipse
 Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere
 
-## Mark Walter’s insurers rush to unwind affiliated investments
-TWG Global is seeking to refinance loans, restructure firms and bring in outside investors as prosecutors scrutinise books
+## Karoline Leavitt to step down as White House press secretary
+Donald Trump says chief spokesperson will leave job at the end of the month
 
 ## US inflation falls to 3.4% in July
 Fallout from Iran war continues to reverberate across economy even as petrol prices decline
+
+## Mark Walter’s insurers rush to unwind affiliated investments
+TWG Global is seeking to refinance loans, restructure firms and bring in outside investors as prosecutors scrutinise books
 
 ## Burnham urges retailers to stop selling disposable BBQs amid wildfires
 PM holds emergency government meeting in response to drought and heatwaves
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iceland and Spain plunged into darkness during total solar eclipse
-A total solar eclipse took place in Iceland and Spain as crowds gathered to watch.
+## Drone attacks on energy infrastructure deepen Libya’s energy crisis
+Repeated drone strikes on oil and power infrastructure are deepening Libya's energy crisis.
 
-## Brazil orders Discord to suspend livestreams after teen’s death
-Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.
+## Israeli air strike kills one in northern Gaza
+Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week
 
-## Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
-A US official confirmed that the United States expects to complete its pullout by September 30.
+## Deadly India landslide kills at least seven in Mumbai
+Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.
 
-## Thousands flee drought in Somalia amid sharp aid decline
-Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.
+## Can Syria deliver transitional justice?
+A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.
 
-## Paramount Skydance mulls CNN sale amid antitrust merger challenge
-Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.
+## Israel vows to keep troops in Lebanon, Gaza and Syria
+Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.
 
-## DR Congo Ebola outbreak set to become deadliest on record, WHO warns
-Outbreak to eclipse West Africa's Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.
+## Photos: Solar eclipse plunges parts of Europe into darkness
+A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.
 
-## Lebanese families demand release of detainees held by Israel
-Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.
+## ‘Platformicide’ of Palestine: Activists struggle to be heard on Meta
+Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.
 
-## Mount Etna eruption disrupts travel at Italy’s Catania airport
-Hundreds of passengers have been left stranded at Italy’s Catania airport after Mount Etna erupted.
+## Trump reveals Karoline Leavitt to step down as White House press secretary
+Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
