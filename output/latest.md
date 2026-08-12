@@ -1,10 +1,16 @@
 # AION Intelligence
 
+## Burnham to hold emergency Cobra meeting in response to heatwaves
+Prime minister’s move comes as several areas in UK tackle wildfires and drought amid extreme high temperatures
+
+## World prepares for one of nature’s greatest spectacles: a total solar eclipse
+Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere
+
 ## Tata chair resigns as succession row escalates
 N Chandrasekaran to depart India’s largest conglomerate amid dispute with Noel Tata
 
-## Democratic socialist locked in unexpectedly tight Wisconsin primary race
-Victory would pit leftwing candidate Francesca Hong against Trump-backed Republican in November midterms
+## Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race
+Francesca Hong had been expected to capitalise on recent wave of support for leftwing candidates
 
 ## Kevin Warsh’s monetary hall of mirrors
 Plus: cheese
@@ -18,12 +24,6 @@ Also in today’s newsletter: Revolut cuts WeWork access, and night farming
 ## China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack
 AI agents ran simultaneous reconnaissance and break-ins in display of new phase of cyberwarfare
 
-## Poorer Americans are struggling to make ‘ends meet’, top Fed official says
-Boston central bank branch head Susan Collins would back September interest rate rise if inflation remains hot
-
-## Britain needs more investors, not higher taxes on investment
-An increase in capital gains taxation would act against goals to support economic growth
-
 ## HSBC’s global insurance head steps down
 Europe’s largest bank continues to overhaul its operations as industry grapples with uncertainties over China tax
 
@@ -33,32 +33,38 @@ The banks strike back
 ## How AstraZeneca’s $400bn deal unravelled
 A chorus of investors revolted against the potential agreement
 
+## Britain needs more investors, not higher taxes on investment
+An increase in capital gains taxation would act against goals to support economic growth
+
 ## Revolut cuts back WeWork access for premium customers after price rises
 Subscribers lose access to in-demand European office spaces in cities including Paris, Brussels, Milan and London
 
-## Oil rises as doubts over US-Iran deal heighten supply concerns
-Brent futures were up 75 cents, or 0.84 per cent, to $89.66 a barrel by 0553 GMT, while US West Texas Intermediate (WTI) crude climbed 72 cents, or 0.87 per cent, to $83.92
+## HPCL, MRPL seek up to six million barrels crude, documents show
+HPCL plans ‌to ⁠import up ⁠to 4 million barrels of crude for delivery ​in September ‌and October, and MRPL is seeing up to 2 million ‌barrels for October ​10-20
 
-## Q1 Results Today Live: Marksans Pharma PAT rises 43.6% y-o-y, Tata Motors, Apollo Hospitals, HAL, Grasim GMR Airports, Lenskart, Abbott, VA Tech, IRCON, AIA, IRCTC, Sun TV, EID Parry to announce Q1 results
-Q1 Results Today, 12th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## N Chandrasekaran to exit Tata Sons, not to seek third term
+In his letter to the board, Chandrasekaran cited the absence of unanimous support for his reappointment as the reason for his decision.
 
-## Total solar eclipse 2026: Spain, Iceland prepare for rare celestial spectacle
-The eclipse sparked a surge in travel across Spain and Iceland, with authorities preparing for large crowds and heightened safety risks.
+## UAE shuttles oil exports from Iraq through the Strait of Hormuz
+In the so-called shuttling tactics, vessels make short trips — often with their transponders turned off to avoid detection — before typically transferring their cargoes to other ships just outside the Gulf
 
-## Tamil Nadu Assembly passes resolution against delimitation; urges freeze on LS seats at 543
-Tamil Nadu Assembly passes a resolution against delimitation, urging a freeze on Lok Sabha seats and advocating 33% women’s reservation
-
-## SEBI sees no manipulation in stock closing auction: Chairman Tuhin Kanta Pandey
-The closing auction is a big market ‌structure reform in line with global standards, Tuhin Kanta Pandey ‌said at an event in Mumbai.
-
-## Sensex today | Stock Market Live: Sensex falls over 600 points, Nifty drops below 24,300; Tata stocks tumble
+## Sensex today | Stock Market Live: Sensex falls nearly 600 points, Nifty drops below 24,300; Tata stocks tumble
 Sensex, Nifty, Share Prices Live: Indian equities traded lower on Wednesday as rising crude prices, weak global cues and geopolitical uncertainty weighed on sentiment. Sensex fell 580 points and Nifty dropped 187 points by 11.42 a.m., while Tata stocks declined sharply following N Chandrasekaran’s r
 
-## Milky Mist IPO Day 2 Live Updates: ₹1,553-cr IPO subscribed 1.30x, Shiprocket IPO 36% booked at noon
+## India warns border strains could weigh on China relations
+MEA spokesperson Randhir Jaiswal says peace and tranquillity along the disputed frontier remain essential as both sides continue talks through diplomatic and military channels.
+
+## Q1 Results Today Live: AIA Eng, Caplin Point, Marksans Pharma Q1 PAT up y-o-y, Tata Motors, Apollo Hospitals, HAL, Grasim, GMR Airports, Lenskart, Abbott, VA Tech, IRCON, IRCTC, Sun TV, EID Parry to announce Q1 results
+Q1 Results Today, 12th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+
+## Compunnel Doubles Down on its Digital Business to Lead the Enterprise AI Shift
+Compunnel Doubles Down on its Digital Business to Lead the Enterprise AI Shift
+
+## Milky Mist IPO Day 2 Live Updates: ₹1,553-cr IPO subscribed nearly 2x, Shiprocket IPO 51% booked
 Milky Mist IPO Day 2 live updates, Shiprocket IPO Day 1 Live Updates:
 
-## Himadri Speciality Chemicals aims to expand Birla Tyres into a ₹3,000-crore business
-Birla Tyres expected to enter EV, SUV tyre segment by FY28
+## Standoff with Noel Tata: What led to N Chandrasekaran’s exit as Tata Sons chairman
+The 63-year-old Chandrasekaran, who has been associated with the Tata Group for four decades, informed the Tata Sons board on Wednesday that he would not seek another term after his tenure expires on February 20, 2027.
 
 ## Gold price prediction today: Gold prices rise, but will silver continue to outperform? Check August 12, 2026 outlook
 Gold finally broke out of its long consolidation range last week, gaining over 7%, its strongest weekly rise since January. The rally has continued this week, with gold now up around 8.7% this month and trading near $4,400/oz.
@@ -81,38 +87,41 @@ Stock market recommendations: JSW Energy, Gujarat Mineral Development Corporatio
 ## Next wave of AI-led banking must help rural India, says Setty
 
 
-## AI can do to lending, what UPI did to payments: RBI governor Sanjay Malhotra
+## John Brittas claims BJP MP called him ‘lungi wala’ during his Parliament address: ‘Proud to be a Malayali’
+The CPI(M) leader also moved a privilege notice against Sushmita Dev and criticised the use of stereotypes in parliamentary discourse.
 
+## Karnataka bans sale of gutkha, pan masala containing tobacco or nicotine for 1 year
+Karnataka imposed a one-year ban on the manufacture, storage, distribution, transport, and sale of gutkha and pan masala containing tobacco or nicotine.
 
-## Who is Peter Navarro? Trump aide who led anti-India tirade over Russian oil is back in focus
-Peter Navarro has repeatedly attacked India's trade policies involving Russia and has accused the country of helping fund Russia's "war machine" in Ukraine.
+## ₹1000 cr required for rehabilitation of Assam flood victims: Himanta Sarma
+Sarma said that 72 social media influencers from Assam and outside have also raised funds for flood relief
 
-## Inquiry report on Allahabad High Court Judge Justice Yashwant Varma tabled in Rajya Sabha
-Inquiry report on Allahabad High Court Judge Justice Yashwant Varma tabled in Rajya Sabha
+## PM Modi remembers his mother at ex-president's autobiography launch: ‘Even today, I feel the void’
+At the launch of Ram Nath Kovind's book, Modi said his life showed how determination could help a person overcome adversity.
 
-## No response yet on invite to Brics Summit for Bangladesh PM Tarique Rahman
-Prime Minister Tarique Rahman has been invited to the Brics Summit in New Delhi in his capacity as the chair of the Bimstec grouping
+## Centre redefines Ganga floodplain, drops 'construction-free zone' provision
+Centre redefines Ganga floodplain, drops 'construction-free zone' provision
 
-## Private hospital room cost must not exceed 3-star hotel room tariff in cities: Parl panel
-Private hospital room cost must not exceed 3-star hotel room tariff in cities: Parl panel
+## Suspected Pakistani national among two held by West Bengal STF at India-Bangladesh border
+Acting on specific information, STF personnel conducted a search in the Bangaon area and apprehended Rauf, they said.
 
-## 2020 riots: HC seeks Delhi Police stand on appeals in IB official murder case
-The bench sought Delhi police’s response in an appeal filed by Nazim and Kasim against trial court’s orders and application for seeking suspension of the sentence
+## SC asks Karnataka to provide infrastructure for special UAPA court
+SC asks Karnataka to provide infrastructure for special UAPA court
 
-## 'In absence of unanimous support...': N Chandrasekaran steps down as Tata Sons Chairman. Full resignation statement
-N Chandrasekaran will not be seeking extension of his tenure which is due to end in February 2027.
+## Recovered & Returning Home: Hospital text 42 days after cop's death adds to grief; kin seek probe
+Recovered & Returning Home: Hospital text 42 days after cop's death adds to grief; kin seek probe
 
-## SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
-SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+## Fed policy outweighs geopolitical risks, China purchases as gold forecasts retreat: survey
+The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing the price forecasts for the precious metal, according to a survey. Analysts cut their price forecasts for 2026 compared with
 
-## Haryana health minister calls for greater adoption of AYUSH healthcare systems
-Haryana health minister calls for greater adoption of AYUSH healthcare systems
+## Chinese AI start-up ModelBest kicks off pre-IPO tutoring process for mainland listing
+Chinese AI start-up ModelBest has kicked off its pre-initial public offering (IPO) tutoring process for a listing in mainland China, capitalising on growing demand for compact artificial intelligence models that run locally on devices like smartphones and laptops, and in cars. The four-year-old comp
 
 ## China’s EV sales slide again amid fading incentives, weak demand and persistent price war
 Deliveries of electric vehicles (EVs) in China fell 3.9 per cent in July from a year earlier, extending their decline to a seventh consecutive month as fading government incentives and weaker consumer demand weighed on the market. Domestic sales of pure electric and plug-in hybrid vehicles last mont
 
 ## Hong Kong seeks tech exposure to take on Nasdaq amid Beijing’s rising AI dominance
-Hong Kong is doubling down on efforts to increase its stock market’s exposure to the technology industry, as the city endeavours to catch up in the global artificial intelligence trade and potentially even challenge the Nasdaq. A slew of mainland Chinese hardware tech companies – particularly the ma
+Hong Kong is doubling down on efforts to increase its stock market’s exposure to the technology industry, as the city endeavours to catch up in the global artificial intelligence trade and potentially even challenge the Nasdaq. Several mainland Chinese hardware tech companies – particularly producer
 
 ## China’s quant funds have an edge on foreign rivals, even as Beijing curbs trading speed
 China’s quantitative funds have built trading strategies so closely tailored to the mainland market that foreign rivals cannot replicate them, even as a regulatory clampdown on trading speed reshapes the industry, according to a prominent economist. “If a top US quant team goes to Japan or India, th
@@ -125,12 +134,6 @@ For years, quantitative trading was the undisputed darling of China’s stock ma
 
 ## Hong Kong property recovery faces new risk as Beijing widens offshore tax net
 The recovery of Hong Kong’s property market could face a fresh test if Beijing’s expanding crackdown on offshore wealth extends beyond insurance returns to property income, potentially curbing demand from mainland China and adding pressure to decentralised office markets, according to analysts. The 
-
-## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
-Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
-
-## Wharf firms up balance sheet as Hong Kong home sales cushion profit slump
-Hong Kong developer Wharf (Holdings) is increasingly relying on Hong Kong’s luxury-home market to offset weakness in mainland China, while paring investments and building up cash as it navigates an uncertain outlook. Revenue from Wharf’s Hong Kong development properties nearly tripled to HK$1.35 bil
 
 ## The Next Front in LNG Sanctions Runs Through China
 Moscow will soon have to redirect a growing share of its exports to Asia.
@@ -180,6 +183,12 @@ A Thailand-led push to re-engage the country's military-backed government is an 
 ## Indonesia’s President Nominates Central Bank Deputy as New Governor
 The rupiah rose slightly on news of Destry Damayanti's nomination, which will now pass to the House of Representatives for approval.
 
+## Hyman Rickover and the Birth of Nuclear Power
+Editor’s note: This is the eighth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sele
+
+## The Next School of War: Educating for Tomorrow’s Battlefield
+When war changes, schools change. New technology, the politics of mass mobilization and campaign design, and novel tactics that defined Napoleonic warfare led to Gerhard von Scharnhorst’s reforms and the idea of lifelong education as a professional obligation. The pattern repeated itself in the inte
+
 ## Who Pays for America’s Research and Development?
 When the Soviet Union launched Sputnik in 1957, the U.S. government was the unrivaled patron of American science. It funded nearly two-thirds of the nation’s research and development — much of it for defense — defining the early Cold War. In a phenomenon that’s been widely explored in our Arsenal of
 
@@ -197,12 +206,6 @@ Editor’s note: This is the seventh article in a limited series celebrating Ame
 
 ## Why Military Cooperation in the Indian Ocean Still Falls Short
 The United States has bluntly signaled a deprioritization of the Indian Ocean at a peculiar time. The reversion of U.S. Indo-Pacific Command to its former name, U.S. Pacific Command, signifies no material change in force posture or organizational responsibilities, but it unavoidably signals less foc
-
-## Why Conflict Gold Sanctions Fail
-In April 2026, over a month after the United States launched its attack on Iran, leading to thousands of reprisal strikes across the Gulf, the United Arab Emirates shut down a network of money changers connected to the Islamic Revolutionary Guard Corps. Iranian exchange houses and the shell companie
-
-## Warlords of Greece: Warfare in Homer’s World
-The Iliad and Odyssey have shaped Western ideas of heroism for nearly three millennia. Yet despite centuries of debate over whether they reflect historical reality or poetic fantasy, the Homeric world remains an internally consistent universe worth studying on its own terms. This isn’t about separat
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## At least 15 dead, dozens missing as ferry capsizes in Zimbabwe
-Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.
+## Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’
+The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.
 
-## Why have several nations raised red flags over Indian farm exports?
-As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what's wrong.
+## Clacton by-election: Farage may win the town, but can he win the country?
+Reform UK leader is set to claim victory over the seaside town that adores him, but the party's popularity is in doubt.
 
-## Zelenskyy says Ukraine has sent proposals to US to end war with Russia
-Ukraine's president also says Russia will use its election next month as a pretext to declare a new mobilisation.
+## Taiwan’s Foxconn reports 35 percent rise in profit on AI demand
+World's largest contract electronics maker forecasts strong growth in 2026 amid AI boom.
 
-## Can Trump keep his ‘irritation’ with Netanyahu in check?
-Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.
+## Three killed in overnight attacks on Russian, Ukrainian port cities
+Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor.
 
-## Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’
-Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.
+## Trump says his decoy plane faced ‘greater risk’ in secret flight change
+Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.
 
-## Did Trump flee an Iranian assassination plot on a catering truck?
-New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.
+## Israeli government accused of complicity as settlers demolish Jericho homes
+Israeli settlers demolish homes in village, leaving rubble and fear among displaced Palestinian families in Jericho.
 
-## Trump says secret plane switch ‘up to the Secret Service’
-US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.
+## Autism and war: Gaza families grapple with destruction and loss
+Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza's autistic children.
 
-## Drone strikes power station near Libya’s largest oil refinery
-A drone has struck a power station in Libya’s western city of Zawiya
+## Cristiano Ronaldo announces marriage to Georgina Rodriguez in Portugal
+Football's most famous current player wed his long-term partner Georgina Rodriguez after a decade together.
+
+## Tata Sons Chairman N Chandrasekaran to step down in February 2027
+N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
+
+## Beyond Chandrasekaran: Will Tata Sons opt for a new chairman or split power between chairman and CEO?
+The immediate question for Tata Sons is whether it will appoint another executive chairman in Chandrasekaran's mould or separate the group's governance and executive responsibilities between a chairman and a CEO or managing director.
 
 ## India's direct tax collections rise 23% to Rs 8.11 lakh crore as non-corporate tax drives growth
 India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 lakh crore as of August 10, 2026, from Rs 6.59 lakh crore in the corresponding period last year, according to data released by the Income Tax Department.
@@ -269,12 +278,6 @@ The Parliament approved the Taxation and other Laws (Amendment) Bill on Monday, 
 
 ## REITs set to gain tax flexibility, cash flow boost under new Bill
 Indian REITs could gain greater tax flexibility under the Taxation and Other Laws (Amendment) Bill, 2026, which allows SPVs to opt for concessional corporate tax rates, avoid future MAT and use accumulated MAT credits while retaining tax-exempt dividends for unitholders.
-
-## FPIs turn buyers in IT stocks for first time in 2026, invest Rs 3,358 crore in July
-In July, overseas investors turned their attention to Indian IT stocks, marking the first instance of such purchases this year. The consumer durables and healthcare sectors also witnessed a surge in foreign portfolio investments. By mid-July, foreign investors emerged as net buyers in equities, expa
-
-## FMCG makers plan more price hikes as input costs stay elevated; demand holds strong
-Leading FMCG firms are planning price increases and shrinkflation this quarter. Rising commodity costs and geopolitical issues are driving these necessary adjustments. Companies aim to protect profit margins while maintaining consumer demand and growth. Britannia and Dabur India are among those impl
 
 ## Govt to offer sops up to Rs 5,000 for electric two-wheelers till Mar 2028
 Government incentives for electric two-wheelers are extended until March 2028. Financing support mechanisms are being developed for electric buses and trucks. This initiative aims to reduce borrowing costs and accelerate EV adoption across segments. Registered electric two-wheelers will continue rec
