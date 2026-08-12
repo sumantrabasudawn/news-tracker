@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Zhu Rongji, reforming Chinese premier, 1928-2026
+Jiang Zemin’s right-hand man laid the foundation for the country’s leap to economic superpower
+
 ## FirstFT: Vance asked Ukraine to halt strikes on tankers
 Also in today’s newsletter: Moderate Democrat wins in Wisconsin, and Bank of America commits $250bn to US infrastructure projects
 
@@ -16,13 +19,10 @@ David Crowley defeats Francesca Hong for party’s gubernatorial candidate
 Rare joint exercises raise concerns over Beijing’s more assertive conduct in disputed waters
 
 ## Bank of America commits $250bn to US projects in boost to ‘America First’ agenda
-Pledge comes after president snubbed chief executive of US’s second-largest lender earlier this year
+Pledge comes after president snubbed chief executive of US’s second-largest lender this year
 
 ## Burnham to hold emergency Cobra meeting in response to heatwaves
 Prime minister’s move comes as several areas in UK tackle wildfires and drought amid extreme high temperatures
-
-## Burnham has more to lose from an early election, but we should not rule it out
-A bold move to seek a fresh mandate seems underpriced to me, even though the risks are formidable
 
 ## Vestas shares soar as wind turbine orders bounce back
 Copenhagen-listed group raises profit guidance and announces share buyback
@@ -39,29 +39,41 @@ Europe’s largest bank continues to overhaul its operations as industry grapple
 ## Business development companies are paying more to borrow. But why?
 The banks strike back
 
-## Eli Lilly escalates fight against black market weight-loss medicines
-The drug company said Wednesday that it planned to file lawsuits against US businesses that sell retatrutide products illegally, and it’s asking regulators to do more to rein in the illicit market
+## China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack
+AI agents ran simultaneous reconnaissance and break-ins in display of new phase of cyberwarfare
 
-## Sensex today | Stock Market Live: Sensex traded lower at 77,890.88, Nifty 50 was down 0.40%; Tata stocks tumble
-Sensex, Nifty, Share Prices Live: Markets were off the day’s low at around 3 pm. Sensex traded 263.37 points or 0.34% lower at 77,890.88, and Nifty 50 was down 97.50 points or 0.40% to 24,374.20.
+## Coconut oil prices on the boil on Onam demand
+Wholesale coconut oil prices are ruling at around ₹260 a kg, while copra prices have moved up to ₹168 a kg in Kerala
 
-## Lok Sabha refers FCRA Bill to joint parliamentary committee; Congress still adamant to scrap it
-Parliamentary Affairs Minister Kiren Rijiju, however, challenged Opposition members in the House to cite a single provision in the FCRA Bill that is against minorities
+## Milky Mist IPO Day 2 Live: ₹1,553-cr Milky Mist IPO subscribed over 2 times, Shiprocket IPO 85% booked
+Milky Mist IPO Day 2 live updates, Shiprocket IPO Day 1 Live Updates
 
-## India plans insurance reforms to rein in healthcare costs, sources say
-Medical ⁠inflation of roughly 12% to 14% a year, according to industry estimates, puts pressure on families and prompts authorities to hunt ways to standardise pricing and coverage
+## Q1 Results Today Live: Tata Motors, HAL, Grasim Industries, Eureka Forbes, Lenskart, AIA Eng, Marksans Pharma Q1 PAT up y-o-y, VA Tech Q1 PAT at ₹79.3 cr, EID Parry con. PAT declines, Apollo Hospitals, GMR Airports, Abbott, IRCON, IRCTC, Sun TV to announce Q1 results
+Q1 Results Today, 12th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Indian physicist Deepak Dhar wins prestigious 2026 Dirac Medal
-Dhar is a professor at the International Centre for Theoretical Sciences of the Tata Institute of Fundamental Research (ICTS-TIFR) in Bengaluru
+## Retail inflation rises to 4.45% in July
+Food inflation hit 5.52%, while silver jewellery saw prices soar around 110%
 
-## IIT Madras, CAMS expand partnership for Fintech innovation
-The CAMS IIT Madras FinTech Innovation Lab will focus on emerging areas such as AI in financial services, digital payments, blockchain and tokenisation, cybersecurity, regulatory technology, WealthTech and InsurTech
+## PMS Bazaar collaborates with NSDL arm for accredited investor certification
+Collaboration aims to make accredited investor certification simpler, faster, and more accessible through end-to-end assistance
 
-## Sensex, Nifty open flat as crude stays near $90, inflation data in focus
-Tuesday's session ended on a weak note, with the Nifty shedding 112.10 points or 0.46% and the Sensex falling 388 points, as a sharp rise in crude oil prices dragged both indices below key psychological levels
+## Sensex today | Stock Market Live: Sensex slips 187 pts to close at 77,966, Nifty ends at 24,435; TCS, M&M top losers
+Sensex, Nifty, Share Prices Live: Sensex dropped 187.90 points or 0.24% to close at 77,966.35, while the Nifty 50 ended at 24,435.95, down by 35.75 points or 0.15%
 
-## Tata Group stocks fall up to 5% after Tata Sons Chairman Chandrasekaran announces exit
-Tata Consultancy Services (TCS) led the losses, falling 5 per cent, while Tata Motors PV declined 4 per cent. Tata Steel fell 2 per cent.
+## Major Milestones under N Chandrasekaran’s leadership
+
+
+## Shiprocket IPO today: ₹1,617.5-crore issue opens at ₹92-97; check key details
+The e-commerce platform is seeking to strengthen its technology and marketing capabilities while reducing debt and pursuing potential acquisitions.
+
+## Investing in mutual funds? Four ways to effectively manage risk for the right investment strategy
+Mutual fund investments inherently carry risks, but with the help of the aforementioned strategies one can easily manage them. All you need to do is formulate a balanced investment strategy that can withstand market changes.
+
+## CPI data: Retail inflation moves up to 4.45% in July; stays above RBI's target for second month
+Based on the All India Consumer Food Price Index (CFPI), provisional food inflation stood at 5.52% year-on-year in July 2026. Rural food inflation was estimated at 5.79%, whereas the corresponding rate for urban India was 5.05%.
+
+## From trainee to Tata chairman: The remarkable rise of Ratan Tata’s pick N Chandrasekaran
+Popularly known as Chandra in corporate circles, he became the first non-Parsi chairman in the Tata Group's 150-year history and was personally chosen for the role by the late Ratan Tata. The Tata Group expanded significantly under his leadership. According to company figures, aggregate revenue incr
 
 ## ‘Emergence of Indian barrels notable’: Why Russia is buying gasoline from India for the first time
 Kpler data shows the first cargo arrived on August 5, with additional shipments expected to follow. Nayara Energy Ltd, the Indian refiner backed by Russia's largest oil producer Rosneft PJSC, has emerged as a supplier.
@@ -78,38 +90,35 @@ Gold finally broke out of its long consolidation range last week, gaining over 7
 ## Tata group stocks fall up to 4% as N Chandrasekaran steps down as chairman
 Chandrasekaran's resignation marks an unexpected end to a tenure of nearly 10 years during which he reshaped India's largest business group, expanding its presence across sectors including airlines, semiconductors, electronics, batteries and digital businesses.
 
-## Top stocks to buy today: Stock recommendations for August 12, 2026 - check list
-Stock market recommendations: JSW Energy, Gujarat Mineral Development Corporation (GMDC), and IRCTC have been recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares as the top stocks to buy today on August 12, 2026:
+## Working on framework for hill cities amid growing disaster risks, govt tells LS
+The government told Lok Sabha that climate change had increased the intensity and frequency of extreme rainfall events in the region
 
-## Precious metals rate today: Gold holds near 10-week high; silver rises
+## Deepti Gaur Mukherjee assumes charge as higher education secretary
+Deepti Gaur Mukherjee is a 1993-batch Indian Administrative Service (IAS) officer of the Madhya Pradesh cadre.
 
+## Police to verify viral video claiming to be of Atiq Ahmed's son's fatal car crash
+The viral video purportedly shows the moment the fatal car crash happened. The driver seemed to have lost control of the vehicle and rammed into a road divider.
 
-## Govt to offer sops up to Rs 5,000 for e-2-wheelers till Mar 2028
+## Madhya Pradesh bans analog paneer production, sale and use over health concerns
+Madhya Pradesh has banned the production, sale and use of analog paneer, citing health concerns, with officials ordered to seize the product.
 
+## 9 houses set ablaze by unknown armed individuals in Manipur’s Kangpokpi
+Officials said the incident occurred around 9.30pm on Tuesday at Tokpa Liangmai Naga village located near Tumnoupokpi Thangal village
 
-## Delhi HC asks Meta to explain its access policy on copyright management tool
-“Why does everybody not have access to it then? It is like giving the key to the robber and not to the owner of the house,” Justice Bhambhani remarked
+## Tripura college student allegedly abducted, raped while returning home: Police
+A college student was allegedly abducted and raped by unknown people while returning home from college in West Tripura, police said. No arrests have been made.
 
-## ‘Coming regularly to Parliament’: Amit Shah attacks Opposition over ‘laapata’, ‘bhaag gaye’ remarks
-Amit Shah, rejecting “missing” and “fugitive” labels, said he stayed out of the House as Opposition disruptions prevented proceedings.
+## SC rejects plea for national policy for demolition rehab, leaves it to states
+The Supreme Court said the petitioners could directly approach the states and union territories since such issues fall within the policy domain
 
-## Karnataka bandh: Will schools be open tomorrow during shutdown over Cauvery water-sharing row?
-Banks, hospitals, pharmacies and public transport and other essential services are likely to remain unaffected during the bandh.
+## Lok Sabha probe panel finds Justice Yashwant Varma guilty in cash-at-home case
+The incident came to light after a fire broke out in the official residence of Justice Varma on the night of March 14 last year.
 
-## Russia appoints former CJI DY Chandrachud as arbitrator in investment treaty dispute with Ukrainian bank: Report
-Oschadbank claims that it lost assets and operations in the regions of Donetsk, Luhansk, Kherson, and Zaporizhzhia after Russian military actions in Ukraine.
+## Hong Kong stablecoin selection expands with Standard Chartered-led venture’s launch
+A Standard Chartered-led joint venture kicked off institutional use of Hong Kong dollar-backed stablecoins on Wednesday, a year after the city put its stablecoin law into effect as part of an effort to become a global hub for digital assets. Retail use of the regulated cryptocurrency was expected “a
 
-## ‘School Thik Karo’: Dipke announces CJP campaign for Independence Day, says rural kids failed ‘in worst way’
-In a post shared on social media platform X, Dipke said, “Kids in villages shouldn’t be pleading for basic facilities at school after 80 years of Independence.”
-
-## John Brittas vs Sushmita Dev ‘lungiwala’ row escalates as BJP MP moves privilege notice against CPI(M) leader
-The CPI(M) leader had also earlier moved a privilege notice against Sushmita Dev and criticised the use of stereotypes in parliamentary discourse.
-
-## Karnataka bans sale of gutkha, pan masala containing tobacco or nicotine for 1 year
-Karnataka imposed a one-year ban on the manufacture, storage, distribution, transport, and sale of gutkha and pan masala containing tobacco or nicotine.
-
-## ₹1000 cr required for rehabilitation of Assam flood victims: Himanta Sarma
-Sarma said that 72 social media influencers from Assam and outside have also raised funds for flood relief
+## BTS bump? Hong Kong’s hotels set for bonanza from superstars’ Arirang world tour
+The arrival of BTS’s world tour in Hong Kong next year is expected to be a sure-fire hit with the city’s hospitality sector, with hotels likely to see a similar surge in bookings to the one experienced in Seoul earlier this year when the South Korean pop superstars launched their comeback series of 
 
 ## Fed policy outweighs geopolitical risks, China purchases as gold forecasts retreat: survey
 The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing price forecasts for the precious metal, according to a survey. Analysts cut their price projections for 2026 compared with s
@@ -128,12 +137,6 @@ China’s quantitative funds have built trading strategies so closely tailored t
 
 ## HKEX pushes ahead on extended trading hours discussions as it prepares paper: sources
 Hong Kong Exchanges and Clearing (HKEX) will push ahead with talks on extending stock market trading hours by releasing a discussion paper, even as it faces brokers’ concerns over a longer trading time and cancellation of the trading lunch break, according to two sources with knowledge of the matter
-
-## What are China’s quantitative trading funds, and why are they so controversial?
-For years, quantitative trading was the undisputed darling of China’s stock market, using sophisticated algorithms and artificial intelligence to deliver eye-popping returns and grow into one of the most powerful drivers of trading volume and liquidity, even as traditional, discretionary stock-picke
-
-## Hong Kong property recovery faces new risk as Beijing widens offshore tax net
-The recovery of Hong Kong’s property market could face a fresh test if Beijing’s expanding crackdown on offshore wealth extends beyond insurance returns to property income, potentially curbing demand from mainland China and adding pressure to decentralised office markets, according to analysts. The 
 
 ## The Next Front in LNG Sanctions Runs Through China
 Moscow will soon have to redirect a growing share of its exports to Asia.
@@ -231,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Putin warns of tit-for-tat seizures of European vessels
+If European states seize vessels with Russian cargo, Moscow will respond in kind 'wherever necessary', says Putin.
+
+## Lebanon ends executions: Where does the death penalty still exist in 2026?
+Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.
+
+## Woman rescued after 36 hours under rubble in Colombia
+A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.
+
+## Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?
+Iran says Hormuz stays closed until US meets its demands and changes its 'behaviour' as global energy prices rise.
+
+## ‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War
+A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.
+
 ## More than 100 passengers rescued after Indonesia ferry fire
 More than 100 passengers rescued after Indonesia ferry fire
 
@@ -239,21 +257,6 @@ Former France and Manchester United star Paul Pogba suffers latest injury setbac
 
 ## Zambia’s president rallies for second term ahead of election
 Zambia's president rallies for second term ahead of election
-
-## A hydrogen-powered vehicle sets new land speed record
-A hydrogen-powered vehicle sets new land speed record
-
-## Rybakina defeats Osaka, advances to Canadian Open semifinals to play Gauff
-Elena Rybakina stages a huge comeback to beat Naomi Osaka and will now play Coco Gauff for a place in the final.
-
-## Wisconsin race tight: Key takeaways from US primary election results
-Trump-backed candidates both win and lose: Results from Wisconsin, Minnesota, South Carolina and Alabama.
-
-## Wildberries under fire: Why is Ukraine targeting a Russian retail giant?
-The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.
-
-## Clacton by-election: Farage may win the town, but can he win the country?
-Reform UK leader is set to claim victory over the seaside town that adores him, but the party's popularity is in doubt.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
