@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## UK police chiefs urge Burnham to prevent early release of officer’s killers
+Intervention comes after PM signals he thinks those behind the death of Andrew Harper will remain in prison
+
+## Households near UK grid upgrade projects in line for lower electricity bills
+Government aims to boost support for pylons and power lines needed to meet net zero targets
+
 ## Andy Burnham faces first real test over his handling of prisons crisis
 New UK prime minister has leaned into the idea that he can respond to Britons’ concerns
 
@@ -18,14 +24,8 @@ Hotter, drier summers are creating stress on plants and soils
 ## Moscow releases former US Marine after four-year stint in Russian prison
 State department says American was freed without prisoner exchange or Washington concessions
 
-## Arday case poses awkward questions for Cambridge
-For Britain’s elite universities, governance issues add to funding woes
-
 ## Deputy PM Salvini proposes windfall tax on Italian bank profits
 Plan for three-year levy comes amid strained public finances
-
-## Households near UK grid upgrade projects in line for lower electricity bills
-Government aims to boost support for pylons and power lines needed to meet net zero targets
 
 ## UK letting agents under pressure from AI-assisted tenant complaints
 One agent said 90 per cent of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
@@ -39,6 +39,18 @@ Cleve Hill, the UK’s largest solar park, is unpopular with locals but the coun
 ## When trouble strikes, who shadow-banks the shadow bankers?
 Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins
 
+## Sensex today | Stock Market Live: Stock to buy today: Carborundum Universal
+Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Carborundum Universal. The price action since July indicates a rounding pattern. The strong 4.8 per cent on Tuesday confirms that a bottom is formed. It also indicates that the fall that was in place since mid-June has ended and
+
+## Trump, Modi to resolve Russian oil tariff issue, says US trade adviser Peter Navarro
+US trade adviser Peter Navarro sought to play down concerns over the latest trade tensions, saying Washington and New Delhi would work through the dispute.
+
+## ₹882-crore TB kit tender raises questions over brand-specific procurement
+Experts questioned why the tender identifies TrueNat by name instead of inviting bids for generic TB molecular diagnostic kits meeting prescribed technical specifications.
+
+## Buzzing stocks: Godrej Consumer, L&T, Tenneco Clean, Dr Agarwal’s, SJVN, BEML, Bajaj Electricals, Diamond Power, Saatvik Green, Innovision, SUGS Lloyd
+A string of corporate announcements brought leadership changes, business transfers and major order wins across consumer, infrastructure, defence and renewable energy sectors
+
 ## Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
 Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
 
@@ -51,17 +63,8 @@ During the industrial policy consultative meeting, attended by a group of minist
 ## Fusion Finance plans retail loan venture in September
 The average ticket size is expected to be ₹1.25-1.5 lakh, with a maximum loan size of ₹2 lakh
 
-## GRSE launches next generation warship 'Shruti'
-Ship part of the Indian Navy’s 11-ship NGOPV programme, GRSE builds four of them
+## 4G phones get a lifeline as entry-level 5G prices rise
 
-## IFC to invest ₹225 crore in NDR Smart Spaces in equities
-The investment will support NDR Smart Spaces in developing a pipeline of around 20 million square feet of Grade A warehousing infrastructure across 14 cities, including approximately 8 million square feet under construction
-
-## India’s top 300 family businesses worth $1.46 trillion, outperform Nifty and Sensex
-The list expanded by 27.5 per cent since the 2024 edition, even as the Nifty 50 declined 1.1 per cent and the BSE Sensex fell 3.7 per cent over the same period
-
-## LEAP India IPO subscribed 8.38 times, Technocraft Ventures issue sees 38.69x demand
-LEAP India IPO QIB portion subscribed 16.84 times, NII portion 12.64 times, retail portion 1.71 times and employee portion 10.99 times
 
 ## Equity MF inflows fall 15% in July as investors turn cautious, SIPs stay strong
 
@@ -84,8 +87,8 @@ Reserve Bank governor Sanjay Malhotra stressed human accountability for AI decis
 ## Relief for Adani group: US court permanently dismisses criminal case; what Gautam Adani said
 Responding to the ruling, Gautam Adani said, "Truth has prevailed," adding that he respected the judicial process and expressed gratitude to those who had supported the Adani Group during the proceedings. He also reaffirmed the conglomerate's commitment to "nation-building" and "long-term value crea
 
-## Rs 10, Rs 20 polymer notes get field-trial nod: What will change from paper currency?
-India is preparing to roll out polymer banknotes for initial trials shortly. The Reserve Bank of India plans to launch one billion pieces each of Rs 10 and Rs 20 denominations. These innovative polymer notes will coexist with current paper currency, with the goal of improving the longevity of lower 
+## IMD gets its rain data wrong, then quietly fixes it. Delhi yet to cross its average for August showers
+Delhi rain news: IMD had also updated rainfall data for August 5-6 to 18.77mm in the current chart, in comparison to the earlier 56mm.
 
 ## ‘Uncle sends his regards’: Mumbai thieves use innovative WhatsApp codes to run pickpocket gang
 The WhatsApp codes were allegedly used to know if every gang member was safe, if anyone was caught by the cops or if the day’s planning could be executed.
@@ -108,8 +111,11 @@ The 18 candidates who were shortlisted from a pool of 5,200 applicants were also
 ## Delhi traffic advisory on Aug 13 for I-Day rehearsal: Key Red Fort roads closed; check routes, diversions
 According to the Delhi Traffic Police advisory, roads around the Red Fort will remain closed to general traffic from 4 am to 10 am.
 
-## Zepto warehouse sealed in Bengaluru’s Hoskote over violations: ‘Unhygienic food, non-compliant labelling, misbranding’
-The action at the Zepto warehouse comes as Karnataka’s food safety department widened its enforcement drive across Bengaluru.
+## What are China’s quantitative trading funds, and why are they so controversial?
+For years, quantitative trading was the undisputed darling of China’s stock market, using sophisticated algorithms and artificial intelligence to deliver eye-popping returns and grow into one of the most powerful drivers of trading volume and liquidity, even as traditional, discretionary stock-picke
+
+## Hong Kong property recovery faces new risk as China widens offshore tax net
+Hong Kong’s property recovery could face a fresh test if China’s expanding crackdown on offshore wealth extends beyond insurance returns to property income, potentially curbing mainland demand for homes and adding pressure to decentralised office markets, according to analysts. The immediate issue i
 
 ## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
 Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
@@ -129,11 +135,8 @@ Amid widespread store closures by foreign fast-fashion players in China, US appa
 ## Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources
 Fast-fashion retailer Shein Global Holdings is planning to take investor orders for its Hong Kong initial public offering (IPO) as soon as next week, aiming for a valuation of US$35 billion, according to people familiar with the matter. The Singapore-headquartered company, which was founded in China
 
-## Gold breakout rally sends Chinese bullion stocks near highs as central banks keep buying
-A rebound in gold prices has pushed shares of Chinese producers of the precious metal near record highs, while the bullion’s status as a strategic investment remains intact amid global central bank buying and financial stress in the world’s key economies. Shares of Zijin Mining Group and Chifeng Jil
-
-## Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts
-The likelihood that US electric vehicle (EV) giant Tesla will obtain Beijing’s approval for higher-level autonomous driving remains a distant prospect, according to analysts. Though Tesla recently hired people to test its Full Self-Driving (FSD) system in China, many obstacles remained, with data re
+## A Middle Eastern NATO?
+What’s behind the defense pact between Turkey, Saudi Arabia, and Pakistan.
 
 ## Why Is AI So Popular in China?
 The technology is far less divisive than in the United States.
@@ -155,9 +158,6 @@ Seldom before has the U.S. government intervened so actively in the economy.
 
 ## China Has Chosen to Disappoint Its Consumers
 Beijing’s choice moves Washington’s leverage from tariffs to currency.
-
-## The West Bank, Not Gaza, Should Be Trump’s Priority
-With his Gaza plan dead in the water, he should refocus on preventing the next conflagration.
 
 ## The Mecca Pact and America’s Reduced Leverage in West Asia
 Erosion of U.S. influence could, in the long run, impact arms sales, the negotiation of military basing rights, and the management of regional crises.
@@ -231,6 +231,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Zambia to vote as economic hardship tests government reforms
+Debt restructuring, inflation and copper revenues are emerging as key issues in the vote.
+
+## N Korea launches ballistic missile as S Korea, US plan military drills
+Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.
+
+## Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz
+Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.
+
+## Cargo ship in flames after Houthi attack in Bab al-Mandeb strait
+Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.
+
+## Colombia scrambles to find survivors after deadly earthquake
+At least 254 deaths have been reported so far, as rescue workers continue to sift through collapsed buildings.
+
 ## Father and sons forced to manually clear rubble in Gaza
 Forced to rely on basic tools, a father and his sons are clearing the rubble of their destroyed home in Gaza.
 
@@ -239,21 +254,6 @@ Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gy
 
 ## Pakistan interior minister in Tehran amid talks to reopen Hormuz
 Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.
-
-## In Gaza’s tents, widows face war’s harshest realities alone
-Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.
-
-## Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone
-Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous.
-
-## Israel demolishes home of Palestinian killed during settler attack
-Video shows the moment Israeli forces blow up the home of Farouk Ramadan, a Palestinian man who was killed in July.
-
-## DR Congo Ebola death toll surpasses 2,000
-DR Congo's Ebola outbreak is spreading rapidly, with the death toll surpassing 2,000.
-
-## Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum
-Donald Trump labels US Democratic nominees 'jihadists' in inflammatory remarks made in the Oval Office.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
