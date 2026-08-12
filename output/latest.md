@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Tata chair resigns as succession row escalates
+N Chandrasekaran to depart India’s largest conglomerate amid dispute with Noel Tata
+
+## Democratic socialist locked in unexpectedly tight Wisconsin primary race
+Victory would pit leftwing candidate Francesca Hong against Trump-backed Republican in November midterms
+
+## Kevin Warsh’s monetary hall of mirrors
+Plus: cheese
+
+## Taiwan hits out at China over naval drill with Indonesia
+Rare joint exercises raise concerns over Beijing’s more assertive conduct in disputed waters
+
 ## FirstFT: Vance asked Ukraine to halt strikes on tankers
 Also in today’s newsletter: Revolut cuts WeWork access, and night farming
 
@@ -12,50 +24,47 @@ Boston central bank branch head Susan Collins would back September interest rate
 ## Britain needs more investors, not higher taxes on investment
 An increase in capital gains taxation would act against goals to support economic growth
 
-## How to stop global warming
-The answer is obvious to all except the real climate change zealots: the anti-net zero movement
+## HSBC’s global insurance head steps down
+Europe’s largest bank continues to overhaul its operations as industry grapples with uncertainties over China tax
 
-## Revolut cuts back WeWork access for premium customers after price rises
-Subscribers lose access to in-demand European office spaces in cities including Paris, Brussels, Milan and London
-
-## JD Vance asked Ukraine to halt strikes on tankers using Russian port
-Washington alarmed by Kyiv’s campaign on vessels collecting Kazakh oil from Novorossiysk
-
-## Private equity can score top marks with education deals
-Britain’s universities offer rich pickings — and financial buyers are keen
+## Business development companies are paying more to borrow. But why?
+The banks strike back
 
 ## How AstraZeneca’s $400bn deal unravelled
 A chorus of investors revolted against the potential agreement
 
-## Why everyone wants a one-carat ring
-Demand for solitaire diamonds is booming. And not just for proposals
+## Revolut cuts back WeWork access for premium customers after price rises
+Subscribers lose access to in-demand European office spaces in cities including Paris, Brussels, Milan and London
 
-## Is my architect liable for extra costs?
-Our builder followed incorrect plans and the council is making us rectify the mistake at a cost of thousands of pounds
+## Oil rises as doubts over US-Iran deal heighten supply concerns
+Brent futures were up 75 cents, or 0.84 per cent, to $89.66 a barrel by 0553 GMT, while US West Texas Intermediate (WTI) crude climbed 72 cents, or 0.87 per cent, to $83.92
 
-## Sensex today | Stock Market Live: Sensex slips 325 points, Nifty below 24,400 amid weak global cues
-Sensex, Nifty, Share Prices Live: Indian equities traded lower on Wednesday as rising crude oil prices, weak global cues and geopolitical uncertainty weighed on sentiment. Investors remained cautious ahead of US inflation data, while developments around US-Iran negotiations and the Strait of Hormuz 
-
-## N Chandrasekaran steps down as Tata Sons Chairman, to serve out current term
-
-
-## Milky Mist IPO Day 2 Live Updates: ₹1,553-cr IPO subscribed 1.11x, Shiprocket IPO 20% in first hour
-Milky Mist IPO Day 2 live updates, Shiprocket IPO Day 1 Live Updates:
-
-## Yulu raises $93 mn in Series C funding round, plans to scale EV fleet to 2 lakh
-The funding comprises $63 million in equity led by GEF Capital Partners and $30 million in debt
-
-## Incorrect test-city communicated to some NEET-PG candidates due to technical issues: NBEMS
-SMS and emails indicating the correct test city have subsequently been sent, the Board said.
-
-## South Western Railway begins Vande Bharat safety trials in critical Western Ghat Section
-The field trials are significant considering the ghat section between Sakleshpur and Subrahmanya Road is among the most technically demanding stretches on the Bengaluru-Mangaluru railway line
-
-## Q1 Results Today Live: Tata Motors, Apollo Hospitals, HAL, Grasim GMR Airports, Lenskart, Abbott, VA Tech, IRCON, AIA, IRCTC, Sun TV, EID Parry to announce Q1 results, NBCC, Siemens, RVNL, Kalpataru, MRF, Zydus Lifesciences, KPI Green, Manappuram Finance in focus, TD Power Systems, Finolex shares hit 52-week high
+## Q1 Results Today Live: Marksans Pharma PAT rises 43.6% y-o-y, Tata Motors, Apollo Hospitals, HAL, Grasim GMR Airports, Lenskart, Abbott, VA Tech, IRCON, AIA, IRCTC, Sun TV, EID Parry to announce Q1 results
 Q1 Results Today, 12th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Milky Mist IPO fully subscribed on Day 2, retail portion booked 1.26 times
-The IPO will close on August 13, with the price band fixed at ₹133-140 per share; The issue comprises a fresh issue of up to ₹1,428 crore and an offer-for-sale (OFS) of up to ₹125 crore
+## Total solar eclipse 2026: Spain, Iceland prepare for rare celestial spectacle
+The eclipse sparked a surge in travel across Spain and Iceland, with authorities preparing for large crowds and heightened safety risks.
+
+## Tamil Nadu Assembly passes resolution against delimitation; urges freeze on LS seats at 543
+Tamil Nadu Assembly passes a resolution against delimitation, urging a freeze on Lok Sabha seats and advocating 33% women’s reservation
+
+## SEBI sees no manipulation in stock closing auction: Chairman Tuhin Kanta Pandey
+The closing auction is a big market ‌structure reform in line with global standards, Tuhin Kanta Pandey ‌said at an event in Mumbai.
+
+## Sensex today | Stock Market Live: Sensex falls over 600 points, Nifty drops below 24,300; Tata stocks tumble
+Sensex, Nifty, Share Prices Live: Indian equities traded lower on Wednesday as rising crude prices, weak global cues and geopolitical uncertainty weighed on sentiment. Sensex fell 580 points and Nifty dropped 187 points by 11.42 a.m., while Tata stocks declined sharply following N Chandrasekaran’s r
+
+## Milky Mist IPO Day 2 Live Updates: ₹1,553-cr IPO subscribed 1.30x, Shiprocket IPO 36% booked at noon
+Milky Mist IPO Day 2 live updates, Shiprocket IPO Day 1 Live Updates:
+
+## Himadri Speciality Chemicals aims to expand Birla Tyres into a ₹3,000-crore business
+Birla Tyres expected to enter EV, SUV tyre segment by FY28
+
+## Gold price prediction today: Gold prices rise, but will silver continue to outperform? Check August 12, 2026 outlook
+Gold finally broke out of its long consolidation range last week, gaining over 7%, its strongest weekly rise since January. The rally has continued this week, with gold now up around 8.7% this month and trading near $4,400/oz.
+
+## Tata group stocks fall up to 4% as N Chandrasekaran steps down as chairman
+Chandrasekaran's resignation marks an unexpected end to a tenure of nearly 10 years during which he reshaped India's largest business group, expanding its presence across sectors including airlines, semiconductors, electronics, batteries and digital businesses.
 
 ## Top stocks to buy today: Stock recommendations for August 12, 2026 - check list
 Stock market recommendations: JSW Energy, Gujarat Mineral Development Corporation (GMDC), and IRCTC have been recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares as the top stocks to buy today on August 12, 2026:
@@ -75,35 +84,35 @@ Stock market recommendations: JSW Energy, Gujarat Mineral Development Corporatio
 ## AI can do to lending, what UPI did to payments: RBI governor Sanjay Malhotra
 
 
-## Retail investors’ losses in F&O segment drop
+## Who is Peter Navarro? Trump aide who led anti-India tirade over Russian oil is back in focus
+Peter Navarro has repeatedly attacked India's trade policies involving Russia and has accused the country of helping fund Russia's "war machine" in Ukraine.
 
+## Inquiry report on Allahabad High Court Judge Justice Yashwant Varma tabled in Rajya Sabha
+Inquiry report on Allahabad High Court Judge Justice Yashwant Varma tabled in Rajya Sabha
 
-## 4G phones get a lifeline as entry-level 5G prices rise
+## No response yet on invite to Brics Summit for Bangladesh PM Tarique Rahman
+Prime Minister Tarique Rahman has been invited to the Brics Summit in New Delhi in his capacity as the chair of the Bimstec grouping
 
+## Private hospital room cost must not exceed 3-star hotel room tariff in cities: Parl panel
+Private hospital room cost must not exceed 3-star hotel room tariff in cities: Parl panel
 
-## Full emergency at Chennai airport after left engine issue on IndiGo flight with 224 aboard
-The aircraft, which had 224 passengers on board, later landed safely at 11:37 pm, authorities added.
+## 2020 riots: HC seeks Delhi Police stand on appeals in IB official murder case
+The bench sought Delhi police’s response in an appeal filed by Nazim and Kasim against trial court’s orders and application for seeking suspension of the sentence
 
-## RSS wing seeks bans, boycott of US firms for tariffs over Russian oil purchase
-The SJM’s statement came weeks ahead of RSS chief Mohan Bhagwat’s visit to the US and Canada as part of an international outreach
+## 'In absence of unanimous support...': N Chandrasekaran steps down as Tata Sons Chairman. Full resignation statement
+N Chandrasekaran will not be seeking extension of his tenure which is due to end in February 2027.
 
-## UP: Two brothers get 20 years for gang-rape; mother jailed for aiding confinement
-UP: Two brothers get 20 years for gang-rape; mother jailed for aiding confinement
+## SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
 
-## SC sets aside protection from arrest granted to Future Group director in GST case
-The bench however, clarified that GST authorities are obligated to communicate to an individual the reasons for arrest recorded under Section 69 of the Central Goods and Services Tax (CGST) Act
+## Haryana health minister calls for greater adoption of AYUSH healthcare systems
+Haryana health minister calls for greater adoption of AYUSH healthcare systems
 
-## Weather today LIVE updates: 5 killed in landslide in Mumbai, 200+ roads blocked in Himachal, rain likely in Delhi today
-Weather today LIVE updates: Delhi has received regular rainfall over the past few days, triggering traffic snarls across the city and the national capital region (NCR). The Kanwar Yatra chaos has also added to the woes posed by rain.
+## China’s EV sales slide again amid fading incentives, weak demand and persistent price war
+Deliveries of electric vehicles (EVs) in China fell 3.9 per cent in July from a year earlier, extending their decline to a seventh consecutive month as fading government incentives and weaker consumer demand weighed on the market. Domestic sales of pure electric and plug-in hybrid vehicles last mont
 
-## ‘Compromised PM sold India’s interest': Rahul Gandhi after US court's relief to industrialist Gautam Adani
-A US court dismissed criminal charges against Gautam Adani and associates, ending a legal saga.
-
-## India’s long-term urban transition requires strategic planning: Parl panel report
-The ministry instead cited AMRUT 2.0, Swachh Bharat Mission (Urban) 2.0, PMAY-U 2.0, metro rail projects and PM e-Bus Sewa as initiatives addressing infrastructure, service delivery
-
-## After anti-NEET bill, Vijay to move resolution to keep Lok Sabha strength at 543, backs women's reservation
-The resolution also called for the immediate implementation of the 33 per cent women's reservation in the existing 543 seats in the Lok Sabha.
+## Hong Kong seeks tech exposure to take on Nasdaq amid Beijing’s rising AI dominance
+Hong Kong is doubling down on efforts to increase its stock market’s exposure to the technology industry, as the city endeavours to catch up in the global artificial intelligence trade and potentially even challenge the Nasdaq. A slew of mainland Chinese hardware tech companies – particularly the ma
 
 ## China’s quant funds have an edge on foreign rivals, even as Beijing curbs trading speed
 China’s quantitative funds have built trading strategies so closely tailored to the mainland market that foreign rivals cannot replicate them, even as a regulatory clampdown on trading speed reshapes the industry, according to a prominent economist. “If a top US quant team goes to Japan or India, th
@@ -115,7 +124,7 @@ Hong Kong Exchanges and Clearing (HKEX) will push ahead with talks on extending 
 For years, quantitative trading was the undisputed darling of China’s stock market, using sophisticated algorithms and artificial intelligence to deliver eye-popping returns and grow into one of the most powerful drivers of trading volume and liquidity, even as traditional, discretionary stock-picke
 
 ## Hong Kong property recovery faces new risk as Beijing widens offshore tax net
-Hong Kong’s property recovery could face a fresh test if China’s expanding crackdown on offshore wealth extends beyond insurance returns to property income, potentially curbing mainland demand for homes and adding pressure to decentralised office markets, according to analysts. The immediate issue i
+The recovery of Hong Kong’s property market could face a fresh test if Beijing’s expanding crackdown on offshore wealth extends beyond insurance returns to property income, potentially curbing demand from mainland China and adding pressure to decentralised office markets, according to analysts. The 
 
 ## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
 Real estate is no longer among the top life goals of most rich Hongkongers while travel is emerging as a form of investment, according to a new survey by Standard Chartered. The findings were published on Tuesday in the Hong Kong Travel Value Report 2026, in which the British bank interviewed 1,058 
@@ -123,11 +132,14 @@ Real estate is no longer among the top life goals of most rich Hongkongers while
 ## Wharf firms up balance sheet as Hong Kong home sales cushion profit slump
 Hong Kong developer Wharf (Holdings) is increasingly relying on Hong Kong’s luxury-home market to offset weakness in mainland China, while paring investments and building up cash as it navigates an uncertain outlook. Revenue from Wharf’s Hong Kong development properties nearly tripled to HK$1.35 bil
 
-## Alibaba says modular design delivers AI data centres in 100 days at 10% lower cost
-As demand for artificial intelligence infrastructure surges, Alibaba Group Holding says it can deliver new data centres in a fraction of the usual time while cutting construction costs by 10 per cent through its proprietary modular architecture. Using CUBE 5.0, Alibaba Cloud had slashed the delivery
+## The Next Front in LNG Sanctions Runs Through China
+Moscow will soon have to redirect a growing share of its exports to Asia.
 
-## Unitree IPO deluge masks humanoid robots’ limitations
-Unitree Robotics’ Shanghai initial public offering (IPO) was more than 5,500 times oversubscribed by retail investors as optimism about fast stock gains and Chinese robot demand outweighed concerns about a US import ban. The 6.1 billion yuan (US$900 million) share sale drew 9.8 million orders from i
+## Will Myanmar Get What It Wants From ASEAN?
+A Bangkok visit by junta leader Min Aung Hlaing reinforced the two countries’ ties.
+
+## The Houthis Are Risking Everything for Iran
+Tehran’s proxy risks pushing a newly consolidated Saudi Arabia into an all-out ground war.
 
 ## A Middle Eastern NATO?
 What’s behind the defense pact between Turkey, Saudi Arabia, and Pakistan.
@@ -143,15 +155,6 @@ Tehran has long called for greater cooperation among Muslim states. The Mecca pa
 
 ## Here’s What Middle Powers Can Actually Do
 Mark Carney’s vision has gone unrealized, but that doesn’t mean states should give up.
-
-## Debanking Dissidents
-The Trump administration is following in the footsteps of authoritarian regimes by weaponizing global banking rules against its enemies.
-
-## Trump Has His Own Communist Manifesto
-Seldom before has the U.S. government intervened so actively in the economy.
-
-## China Has Chosen to Disappoint Its Consumers
-Beijing’s choice moves Washington’s leverage from tariffs to currency.
 
 ## Armistice Regime, Peace Regime, or Time for a Different Mindset on the Korean Peninsula?
 Adopting a new mindset for peacebuilding on the peninsula requires preserving what works while targeting individual issues that remain unresolved.
@@ -225,13 +228,19 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## At least 15 dead, dozens missing as ferry capsizes in Zimbabwe
+Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.
+
+## Why have several nations raised red flags over Indian farm exports?
+As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what's wrong.
+
 ## Zelenskyy says Ukraine has sent proposals to US to end war with Russia
 Ukraine's president also says Russia will use its election next month as a pretext to declare a new mobilisation.
 
 ## Can Trump keep his ‘irritation’ with Netanyahu in check?
 Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.
 
-## Israeli raids, demolitions continue as UN warns West Bank at breaking point
+## Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’
 Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.
 
 ## Did Trump flee an Iranian assassination plot on a catering truck?
@@ -242,12 +251,6 @@ US President Donald Trump says the decision to make a plane switch in Turkiye af
 
 ## Drone strikes power station near Libya’s largest oil refinery
 A drone has struck a power station in Libya’s western city of Zawiya
-
-## Russia frees ex-US marine Gilman jailed since 2022
-Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.
-
-## Oil prices rise as attacks dent hopes for Strait of Hormuz reopening
-Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.
 
 ## India's direct tax collections rise 23% to Rs 8.11 lakh crore as non-corporate tax drives growth
 India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 lakh crore as of August 10, 2026, from Rs 6.59 lakh crore in the corresponding period last year, according to data released by the Income Tax Department.
