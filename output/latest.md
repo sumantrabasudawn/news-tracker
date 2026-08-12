@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## Burnham to hold emergency Cobra meeting in response to heatwaves
-Prime minister’s move comes as several areas in UK tackle wildfires and drought amid extreme high temperatures
+## FirstFT: Vance asked Ukraine to halt strikes on tankers
+Also in today’s newsletter: Moderate Democrat wins in Wisconsin, and Bank of America commits $250bn to US infrastructure projects
 
-## World prepares for one of nature’s greatest spectacles: a total solar eclipse
-Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere
+## Colombian earthquake disrupts key coffee export road
+Operations paused at port handling most of Colombia’s bean shipments
 
-## Tata chair resigns as succession row escalates
-N Chandrasekaran to depart India’s largest conglomerate amid dispute with Noel Tata
+## Cambridge to carry out independent probe into Jason Arday appointment
+Move follows pressure from senior academics after university’s youngest-ever Black professor quit last week over plagiarism allegations
 
 ## Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race
-Francesca Hong had been expected to capitalise on recent wave of support for leftwing candidates
-
-## Kevin Warsh’s monetary hall of mirrors
-Plus: cheese
+David Crowley defeats Francesca Hong for party’s gubernatorial candidate
 
 ## Taiwan hits out at China over naval drill with Indonesia
 Rare joint exercises raise concerns over Beijing’s more assertive conduct in disputed waters
 
-## FirstFT: Vance asked Ukraine to halt strikes on tankers
-Also in today’s newsletter: Revolut cuts WeWork access, and night farming
+## Bank of America commits $250bn to US projects in boost to ‘America First’ agenda
+Pledge comes after president snubbed chief executive of US’s second-largest lender earlier this year
 
-## China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack
-AI agents ran simultaneous reconnaissance and break-ins in display of new phase of cyberwarfare
+## Burnham to hold emergency Cobra meeting in response to heatwaves
+Prime minister’s move comes as several areas in UK tackle wildfires and drought amid extreme high temperatures
+
+## Burnham has more to lose from an early election, but we should not rule it out
+A bold move to seek a fresh mandate seems underpriced to me, even though the risks are formidable
+
+## Vestas shares soar as wind turbine orders bounce back
+Copenhagen-listed group raises profit guidance and announces share buyback
+
+## UK power supplies likely to be stretched during solar eclipse
+Grid operator calls for extra generation capacity to be made available on Wednesday evening
+
+## Tata chair to step down as succession row escalates
+N Chandrasekaran to depart India’s largest conglomerate amid dispute with Noel Tata
 
 ## HSBC’s global insurance head steps down
 Europe’s largest bank continues to overhaul its operations as industry grapples with uncertainties over China tax
@@ -30,38 +39,35 @@ Europe’s largest bank continues to overhaul its operations as industry grapple
 ## Business development companies are paying more to borrow. But why?
 The banks strike back
 
-## How AstraZeneca’s $400bn deal unravelled
-A chorus of investors revolted against the potential agreement
+## Eli Lilly escalates fight against black market weight-loss medicines
+The drug company said Wednesday that it planned to file lawsuits against US businesses that sell retatrutide products illegally, and it’s asking regulators to do more to rein in the illicit market
 
-## Britain needs more investors, not higher taxes on investment
-An increase in capital gains taxation would act against goals to support economic growth
+## Sensex today | Stock Market Live: Sensex traded lower at 77,890.88, Nifty 50 was down 0.40%; Tata stocks tumble
+Sensex, Nifty, Share Prices Live: Markets were off the day’s low at around 3 pm. Sensex traded 263.37 points or 0.34% lower at 77,890.88, and Nifty 50 was down 97.50 points or 0.40% to 24,374.20.
 
-## Revolut cuts back WeWork access for premium customers after price rises
-Subscribers lose access to in-demand European office spaces in cities including Paris, Brussels, Milan and London
+## Lok Sabha refers FCRA Bill to joint parliamentary committee; Congress still adamant to scrap it
+Parliamentary Affairs Minister Kiren Rijiju, however, challenged Opposition members in the House to cite a single provision in the FCRA Bill that is against minorities
 
-## HPCL, MRPL seek up to six million barrels crude, documents show
-HPCL plans ‌to ⁠import up ⁠to 4 million barrels of crude for delivery ​in September ‌and October, and MRPL is seeing up to 2 million ‌barrels for October ​10-20
+## India plans insurance reforms to rein in healthcare costs, sources say
+Medical ⁠inflation of roughly 12% to 14% a year, according to industry estimates, puts pressure on families and prompts authorities to hunt ways to standardise pricing and coverage
 
-## N Chandrasekaran to exit Tata Sons, not to seek third term
-In his letter to the board, Chandrasekaran cited the absence of unanimous support for his reappointment as the reason for his decision.
+## Indian physicist Deepak Dhar wins prestigious 2026 Dirac Medal
+Dhar is a professor at the International Centre for Theoretical Sciences of the Tata Institute of Fundamental Research (ICTS-TIFR) in Bengaluru
 
-## UAE shuttles oil exports from Iraq through the Strait of Hormuz
-In the so-called shuttling tactics, vessels make short trips — often with their transponders turned off to avoid detection — before typically transferring their cargoes to other ships just outside the Gulf
+## IIT Madras, CAMS expand partnership for Fintech innovation
+The CAMS IIT Madras FinTech Innovation Lab will focus on emerging areas such as AI in financial services, digital payments, blockchain and tokenisation, cybersecurity, regulatory technology, WealthTech and InsurTech
 
-## Sensex today | Stock Market Live: Sensex falls nearly 600 points, Nifty drops below 24,300; Tata stocks tumble
-Sensex, Nifty, Share Prices Live: Indian equities traded lower on Wednesday as rising crude prices, weak global cues and geopolitical uncertainty weighed on sentiment. Sensex fell 580 points and Nifty dropped 187 points by 11.42 a.m., while Tata stocks declined sharply following N Chandrasekaran’s r
+## Sensex, Nifty open flat as crude stays near $90, inflation data in focus
+Tuesday's session ended on a weak note, with the Nifty shedding 112.10 points or 0.46% and the Sensex falling 388 points, as a sharp rise in crude oil prices dragged both indices below key psychological levels
 
-## India warns border strains could weigh on China relations
-MEA spokesperson Randhir Jaiswal says peace and tranquillity along the disputed frontier remain essential as both sides continue talks through diplomatic and military channels.
+## Tata Group stocks fall up to 5% after Tata Sons Chairman Chandrasekaran announces exit
+Tata Consultancy Services (TCS) led the losses, falling 5 per cent, while Tata Motors PV declined 4 per cent. Tata Steel fell 2 per cent.
 
-## Q1 Results Today Live: AIA Eng, Caplin Point, Marksans Pharma Q1 PAT up y-o-y, Tata Motors, Apollo Hospitals, HAL, Grasim, GMR Airports, Lenskart, Abbott, VA Tech, IRCON, IRCTC, Sun TV, EID Parry to announce Q1 results
-Q1 Results Today, 12th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## ‘Emergence of Indian barrels notable’: Why Russia is buying gasoline from India for the first time
+Kpler data shows the first cargo arrived on August 5, with additional shipments expected to follow. Nayara Energy Ltd, the Indian refiner backed by Russia's largest oil producer Rosneft PJSC, has emerged as a supplier.
 
-## Compunnel Doubles Down on its Digital Business to Lead the Enterprise AI Shift
-Compunnel Doubles Down on its Digital Business to Lead the Enterprise AI Shift
-
-## Milky Mist IPO Day 2 Live Updates: ₹1,553-cr IPO subscribed nearly 2x, Shiprocket IPO 51% booked
-Milky Mist IPO Day 2 live updates, Shiprocket IPO Day 1 Live Updates:
+## Ethanol supplies cross 800 crore litres: Why India's next challenge is demand
+India's ethanol program surpassed eight hundred crore liters in the latest supply year. Grain-based feedstocks now dominate ethanol production, accounting for seventy-six percent in July. Maize and surplus FCI grains significantly contributed to this growing grain-based ethanol supply. Sugarcane-bas
 
 ## Standoff with Noel Tata: What led to N Chandrasekaran’s exit as Tata Sons chairman
 The 63-year-old Chandrasekaran, who has been associated with the Tata Group for four decades, informed the Tata Sons board on Wednesday that he would not seek another term after his tenure expires on February 20, 2027.
@@ -81,14 +87,23 @@ Stock market recommendations: JSW Energy, Gujarat Mineral Development Corporatio
 ## Govt to offer sops up to Rs 5,000 for e-2-wheelers till Mar 2028
 
 
-## Equity mutual fund inflows plunge 42% to Rs 25,000 crore
+## Delhi HC asks Meta to explain its access policy on copyright management tool
+“Why does everybody not have access to it then? It is like giving the key to the robber and not to the owner of the house,” Justice Bhambhani remarked
 
+## ‘Coming regularly to Parliament’: Amit Shah attacks Opposition over ‘laapata’, ‘bhaag gaye’ remarks
+Amit Shah, rejecting “missing” and “fugitive” labels, said he stayed out of the House as Opposition disruptions prevented proceedings.
 
-## Next wave of AI-led banking must help rural India, says Setty
+## Karnataka bandh: Will schools be open tomorrow during shutdown over Cauvery water-sharing row?
+Banks, hospitals, pharmacies and public transport and other essential services are likely to remain unaffected during the bandh.
 
+## Russia appoints former CJI DY Chandrachud as arbitrator in investment treaty dispute with Ukrainian bank: Report
+Oschadbank claims that it lost assets and operations in the regions of Donetsk, Luhansk, Kherson, and Zaporizhzhia after Russian military actions in Ukraine.
 
-## John Brittas claims BJP MP called him ‘lungi wala’ during his Parliament address: ‘Proud to be a Malayali’
-The CPI(M) leader also moved a privilege notice against Sushmita Dev and criticised the use of stereotypes in parliamentary discourse.
+## ‘School Thik Karo’: Dipke announces CJP campaign for Independence Day, says rural kids failed ‘in worst way’
+In a post shared on social media platform X, Dipke said, “Kids in villages shouldn’t be pleading for basic facilities at school after 80 years of Independence.”
+
+## John Brittas vs Sushmita Dev ‘lungiwala’ row escalates as BJP MP moves privilege notice against CPI(M) leader
+The CPI(M) leader had also earlier moved a privilege notice against Sushmita Dev and criticised the use of stereotypes in parliamentary discourse.
 
 ## Karnataka bans sale of gutkha, pan masala containing tobacco or nicotine for 1 year
 Karnataka imposed a one-year ban on the manufacture, storage, distribution, transport, and sale of gutkha and pan masala containing tobacco or nicotine.
@@ -96,23 +111,8 @@ Karnataka imposed a one-year ban on the manufacture, storage, distribution, tran
 ## ₹1000 cr required for rehabilitation of Assam flood victims: Himanta Sarma
 Sarma said that 72 social media influencers from Assam and outside have also raised funds for flood relief
 
-## PM Modi remembers his mother at ex-president's autobiography launch: ‘Even today, I feel the void’
-At the launch of Ram Nath Kovind's book, Modi said his life showed how determination could help a person overcome adversity.
-
-## Centre redefines Ganga floodplain, drops 'construction-free zone' provision
-Centre redefines Ganga floodplain, drops 'construction-free zone' provision
-
-## Suspected Pakistani national among two held by West Bengal STF at India-Bangladesh border
-Acting on specific information, STF personnel conducted a search in the Bangaon area and apprehended Rauf, they said.
-
-## SC asks Karnataka to provide infrastructure for special UAPA court
-SC asks Karnataka to provide infrastructure for special UAPA court
-
-## Recovered & Returning Home: Hospital text 42 days after cop's death adds to grief; kin seek probe
-Recovered & Returning Home: Hospital text 42 days after cop's death adds to grief; kin seek probe
-
 ## Fed policy outweighs geopolitical risks, China purchases as gold forecasts retreat: survey
-The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing the price forecasts for the precious metal, according to a survey. Analysts cut their price forecasts for 2026 compared with
+The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing price forecasts for the precious metal, according to a survey. Analysts cut their price projections for 2026 compared with s
 
 ## Chinese AI start-up ModelBest kicks off pre-IPO tutoring process for mainland listing
 Chinese AI start-up ModelBest has kicked off its pre-initial public offering (IPO) tutoring process for a listing in mainland China, capitalising on growing demand for compact artificial intelligence models that run locally on devices like smartphones and laptops, and in cars. The four-year-old comp
@@ -159,6 +159,9 @@ Tehran has long called for greater cooperation among Muslim states. The Mecca pa
 ## Here’s What Middle Powers Can Actually Do
 Mark Carney’s vision has gone unrealized, but that doesn’t mean states should give up.
 
+## The Cyrillic Stalemate: Why Uzbekistan’s Alphabet Reform is Still Stuck 30 Years Later
+Changing an alphabet involves more than just replacing letters; it requires a profound transformation of the state’s institutional and cultural fabric.
+
 ## Armistice Regime, Peace Regime, or Time for a Different Mindset on the Korean Peninsula?
 Adopting a new mindset for peacebuilding on the peninsula requires preserving what works while targeting individual issues that remain unresolved.
 
@@ -179,9 +182,6 @@ Myanmar’s latest pledge to repatriate 300,000 Rohingya refugees cannot be view
 
 ## Reclaiming the Backyard: ASEAN’s Realpolitik Push on Myanmar
 A Thailand-led push to re-engage the country's military-backed government is an attempt to prevent the bloc's diplomatic marginalization.
-
-## Indonesia’s President Nominates Central Bank Deputy as New Governor
-The rupiah rose slightly on news of Destry Damayanti's nomination, which will now pass to the House of Representatives for approval.
 
 ## Hyman Rickover and the Birth of Nuclear Power
 Editor’s note: This is the eighth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sele
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’
+## More than 100 passengers rescued after Indonesia ferry fire
+More than 100 passengers rescued after Indonesia ferry fire
+
+## Pogba suffers new injury setback with Monaco future now in doubt
+Former France and Manchester United star Paul Pogba suffers latest injury setback, sparking rumours about Monaco future.
+
+## Zambia’s president rallies for second term ahead of election
+Zambia's president rallies for second term ahead of election
+
+## A hydrogen-powered vehicle sets new land speed record
+A hydrogen-powered vehicle sets new land speed record
+
+## Rybakina defeats Osaka, advances to Canadian Open semifinals to play Gauff
+Elena Rybakina stages a huge comeback to beat Naomi Osaka and will now play Coco Gauff for a place in the final.
+
+## Wisconsin race tight: Key takeaways from US primary election results
+Trump-backed candidates both win and lose: Results from Wisconsin, Minnesota, South Carolina and Alabama.
+
+## Wildberries under fire: Why is Ukraine targeting a Russian retail giant?
 The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.
 
 ## Clacton by-election: Farage may win the town, but can he win the country?
 Reform UK leader is set to claim victory over the seaside town that adores him, but the party's popularity is in doubt.
-
-## Taiwan’s Foxconn reports 35 percent rise in profit on AI demand
-World's largest contract electronics maker forecasts strong growth in 2026 amid AI boom.
-
-## Three killed in overnight attacks on Russian, Ukrainian port cities
-Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor.
-
-## Trump says his decoy plane faced ‘greater risk’ in secret flight change
-Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.
-
-## Israeli government accused of complicity as settlers demolish Jericho homes
-Israeli settlers demolish homes in village, leaving rubble and fear among displaced Palestinian families in Jericho.
-
-## Autism and war: Gaza families grapple with destruction and loss
-Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza's autistic children.
-
-## Cristiano Ronaldo announces marriage to Georgina Rodriguez in Portugal
-Football's most famous current player wed his long-term partner Georgina Rodriguez after a decade together.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
