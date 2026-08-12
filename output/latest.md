@@ -1,10 +1,25 @@
 # AION Intelligence
 
+## US inflation falls to 3.4% in July
+Fallout from Iran war continues to reverberate across economy even as petrol prices decline
+
+## China is winning the race for the Ice Silk Road
+Melting in the Arctic is unleashing a geopolitical tussle over new trade routes
+
+## US press groups sue Trump over fast access to Truth Social posts
+Lawsuit seeks to stop president from publishing official government announcements exclusively on the platform
+
+## ‘Glorious 12th’ kicks off shooting season as debate rages about its future
+Landowners and environmentalists disagree about how to protect Britain’s wild moorland
+
+## Is university still worth it?
+The education system has been too slow in giving students support to gain AI skills and work readiness
+
+## Bob Iger and Josh Kushner in $12.5bn deal for Lakers basketball franchise
+Guggenheim’s Mark Walter sells team after just a year of ownership amid US inquiry into insurance empire
+
 ## Switzerland pushes ahead with post-Credit Suisse crackdown
 Financial regulator may be given greater powers to intervene at troubled banks and levy fines
-
-## Bob Iger and Josh Kushner in $12bn deal for Lakers basketball franchise
-Guggenheim’s Mark Walter sells team after just a year of ownership amid US inquiry into insurance empire
 
 ## Poor numeracy is a blind spot in the age of AI
 An understanding of maths can be crucial to judging if the tech is telling you the right thing
@@ -12,20 +27,11 @@ An understanding of maths can be crucial to judging if the tech is telling you t
 ## Investor Nelson Peltz prepares bid for US burger chain Wendy’s
 Trian Fund Management, BlueFive Capital and Flynn Group could submit offer in the coming weeks
 
-## Smile, you’re on camera: when the boss wants to read your mood
-Patent records show how many companies are interested in trying to record how people feel
-
-## July inflation decline does not mean Fed’s September rise is off the table
-Headline and core inflation rates were both lower, with energy prices registering another decline over the month
-
-## US inflation falls to 3.4% in July
-Fallout from Iran war continues to reverberate across economy even as petrol prices decline
-
-## The west has given China the keys to the medicine cabinet
-The US and Europe led the antibiotic era but then outsourced the means to sustain it
-
 ## Greenland oil wildcatters delay controversial drilling plan
 Big claims from new US explorer have run into permitting realities and a rebuke from island nation’s government
+
+## Smile, you’re on camera: when the boss wants to read your mood
+Patent records show how many companies are interested in trying to record how people feel
 
 ## Vestas shares soar as wind turbine orders bounce back
 Copenhagen-listed group raises profit guidance and announces share buyback
@@ -33,29 +39,35 @@ Copenhagen-listed group raises profit guidance and announces share buyback
 ## America’s largest home lender falls out of the hamster wheel
 Non-bank mortgage lending is in trouble
 
-## Waaree Transpower wins ₹160 crore BESS order, signals push into global energy storage market
-The contract arrives as demand for battery storage infrastructure accelerates worldwide, driven by the need to integrate higher volumes of renewable energy into power grids and maintain round-the-clock supply reliability
+## The west has given China the keys to the medicine cabinet
+The US and Europe led the antibiotic era but then outsourced the means to sustain it
 
-## Indel Money planning to raise up to ₹500 cr via public issue of NCDs
-The minimum application size is ₹10,000 across all Series of NCDs and in multiples of ₹1,000 thereafter
+## Jaro Education net up 48% on robust online learning adoption
+Jaro records gross bookings of ₹190 crore and 8,169 admissions during the quarter, comprising 6,979 degree admissions and 1,190 certification admissions
 
-## Era of Chandra: Steering Tata Group towards the digital age
-Under Chandra’s leadership, the Tata Group witnessed significant value creation, with its market capitalisation more than tripling to ₹27 lakh crore
+## Editorial. Shifting sands
+Chandrasekaran’s move heralds a new era
 
-## Apollo Hospitals reports robust 34 per cent profit growth in Q1FY27 on healthcare services growth
-Healthcare revenue for Q1FY27 was at ₹3,567 Crore, a growth of 22 per cent YoY
+## Bosch India bets on CAFE III, ADAS, localisation to power next growth phase
+Bosch Ltd expects its 14 per cent EBITDA margin to sustain as higher localisation, productivity gains and a richer product mix combine with regulatory opportunities in CAFE III and commercial-vehicle ADAS to drive its next phase of growth.
 
-## RBI unveils harmonised draft Directions on interest rates on loans for all lenders
+## Karan Adani meets AP CM Naidu on ₹16,000-cr titanium plant in Srikakulam
+Adani Group also presents master plan for its proposed data centre and IT park in Visakhapatnam
 
+## Govt says ₹882-crore Truenat tender is for existing machines, not technology selection
+The ministry has maintained that the tender was not designed to favour a particular manufacturer
 
-## Tata Motors CV Q1 profit jumps 83% as revenue rises 19%
-Tata Motors reported an 83 per cent rise in consolidated profit after tax in the June quarter as revenue grew 19 per cent, while a 3,400-plus electric commercial vehicle order pipeline strengthened its growth outlook even as commodity inflation threatens to keep margins under pressure in Q2.
+## Gautam Adani on US case: ‘A chapter has closed, but our journey is a long one’
+While there was ‘a lot of noise outside’, employees, workers, suppliers, vendors, contractors and partners continued with their work, says Adani
 
-## SAT questions logic of Zee’s two-month market ban, reserves interim order
-Zee seeks relief to complete ₹3,143-crore warrant issue within the 15-day window open from Aug 12
+## Tata’s financials under Chandra
+The Tata group has performed quite well in the last nine years under N Chandrasekaran. This is reflected in the net worth of Tata Sons growing at a healthy 19 per cent CAGR over the last nine years. The group’s revenue and profitability have improved dramatically since FY25, helped largely by Tata M
 
-## Pocket
+## Don’t rule out Noel Tata on experience; Ratan Tata faced similar doubts: Mukund Rajan
+N Chandrasekaran’s decision not to seek another term as Tata Sons Chairman puts the spotlight on succession at India’s largest conglomerate; former Tata Sons senior executive Mukund Rajan says Noel Tata should not be ruled out merely on the grounds of experience
 
+## N Chandrasekaran steps down: How power struggle at Tata group is deepening with exit of Ratan Tata’s key allies
+The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate.
 
 ## Indian Railways rolls out passenger train coaches for Bangladesh Railway; check top features & images
 The coaches have been tailor-made to meet the operational needs of Bangladesh Railway as well as improve passenger comfort. The ministry said the coaches also include a range of passenger-focused amenities.
@@ -78,8 +90,14 @@ Kpler data shows the first cargo arrived on August 5, with additional shipments 
 ## Ethanol supplies cross 800 crore litres: Why India's next challenge is demand
 India's ethanol program surpassed eight hundred crore liters in the latest supply year. Grain-based feedstocks now dominate ethanol production, accounting for seventy-six percent in July. Maize and surplus FCI grains significantly contributed to this growing grain-based ethanol supply. Sugarcane-bas
 
-## Standoff with Noel Tata: What led to N Chandrasekaran’s exit as Tata Sons chairman
-The 63-year-old Chandrasekaran, who has been associated with the Tata Group for four decades, informed the Tata Sons board on Wednesday that he would not seek another term after his tenure expires on February 20, 2027.
+## Rajya Sabha passes bill to rename Kerala as ‘Keralam’
+The bill seeks to amend the First Schedule of the Constitution to change the name of the southern state to “Keralam”
+
+## Search on for Indore techie who went missing during trek near Bengaluru: Police
+A resident of Begur area, Advait Upadhyay reportedly informed his fiancée of his Shivagange trekking plan.
+
+## J'khand: Raghubar Das threatens hunger strike if CBI probe into exam irregularities not recommended
+The BJP leader accused JMM-led government of playing with the fate of lakhs of students in the state.
 
 ## Why road accident death figures differ in govt reports, Gadkari tells Rajya Sabha
 The Centre said differences in India’s road crash death figures across MoRTH and NCRB reports stem from varying state and UT reporting methods.
@@ -95,15 +113,6 @@ Union finance minister Nirmala Sitharaman said public capital must act as a cata
 
 ## ‘Time to move on’: Bombay high court seeks ED view on Vijay Mallya’s 2020 plea
 Vijay Mallya’s 2020 petition challenged a court order allowing an SBI-led bank consortium to use ED-confiscated assets to recover unpaid dues.
-
-## What is N Chandrasekaran's net worth? Report shows he got ₹671.4 crore in 5 years
-While his exact personal net worth is not publicly disclosed, his Tata Sons remuneration has run into hundreds of crores.
-
-## Bengal assembly clears delimitation bills, Kolkata to have 209 municipal wards
-West Bengal assembly passes bills to increase Kolkata civic wards from 144 to 209 and Howrah wards from 50 to 68 ahead of municipal elections.
-
-## 'Why this harassment?': CJP's Saurav Das claims Puducherry Police 'showed up' at his family home, blames BJP
-Saurav Das alleged Puducherry Police arrived at his home and questioned his family without explaining the reason for the action.
 
 ## HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
 HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle of its insurance unit, with two senior executives appointed to replace outgoing global insurance CEO Edward Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSB
@@ -225,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump remarks on diminishing impact of pro-Israel groups in Congress
+Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.
+
+## PSG vs Aston Villa LIVE: UEFA Super Cup 2026
+Live coverage and text updates from our commentary stream as PSG's Dembele, Doue and Barcola target more trophies.
+
 ## Europe prepares for first total solar eclipse in 27 years
 Europe is gearing up for its first total solar eclipse in 27 years.
 
@@ -242,12 +257,6 @@ IRGC advisers say Iran has replaced more missiles and drones than it used, and c
 
 ## US consumer inflation slows in July as energy prices briefly retreat
 Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.
-
-## As Strait of Hormuz transit drops, Trump again says US has ‘control’
-Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.
-
-## Lebanon passes long-sought amnesty law, a day after death penalty repeal
-The legislation will 'exceptionally' reduce certain prison terms, says Lebanon's parliament speaker.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
