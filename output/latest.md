@@ -36,29 +36,35 @@ Magic bean counters
 ## FirstFT: Vance asked Ukraine to halt strikes on tankers
 Also in today’s newsletter: Moderate Democrat wins in Wisconsin, and Bank of America commits $250bn to US infrastructure projects
 
-## India’s arabica coffee crop may be hit by deficit rain, pest attack
-Key coffee regions in Karnataka, Kerala receive uneven rainfall with deficit going up to 61%
+## TN govt complains to SC of Kerala’s ‘obstructionist attitude’ to strengthening Mullaperiyar dam
+TN stated that the Kerala government was “attempting to delay the grant of permission for transportation of grouting materials and machinery and yet to grant permission”.
 
-## Grasim Industries net up 39% to ₹3,846 crore on better realisation
-Revenue was up 21 per cent at ₹48,716 crore
+## Meenakshi India Ltd posts net profit of ₹7 crore in Q1 FY27
+Improved profitability supported primarily by other income during the quarter, says MD
 
-## Dhoot Transmission, Molbio Diagnostics IPOs see over 70 times subscription on closing day
-Dhoot Transmission QIB portion subscribed 212.92 times, NII 51.93 times; retail 8.12 times and employee portion 8.14 times
+## After a marathon run, N Chandrasekaran steps down
+Tata Sons chairman not to seek third term
 
-## RK Swamy Q1 PAT up 21 per cent at ₹3.5 crore
-Consolidated revenue grew 7.5 per cent to ₹86 crore (₹80 crore)
+## Cauvery dispute posted to Aug 17 as judge down with viral fever
+The Chief Justice said Justice Nath would not be presiding over his Bench this week.
 
-## bl Changemaker Awards: Jury to meet on Monday
-The eighth edition of the awards will be held on September 22 in New Delhi
+## Shiprocket India IPO: Priced for orbit, profits stay grounded
+Profitable core business provides comfort, but losses in faster-growing businesses and steep valuation are negatives
 
-## RIR Power Electronics posts 29% revenue jump in Q1 FY27, PAT doubles
-Adjusted EBITDA climbs 62.87% to ₹4.71 crore, with margins expanding 357 basis points to 17.32%
+## All careers end at some point, Chandra tells Tata group staff
+In a townhall address hours after announcing his exit, Chandra assured employees that the group will continue to make progress
 
-## Food safety crackdown: Companies turn to audits, legal advice as FSSAI tightens enforcement
-industry associations and experts insist that due process be followed before company names are made public
+## Tata’s major milestones under N Chandrasekaran’s leadership
 
-## Arvind Ltd’s Q1 profit stays flat despite 25% revenue growth
-The strong operating performance was driven by robust demand across its core businesses
+
+## Aged guns, bureaucratic delays cited in 269 Army’s small arms accidents: parliamentary report
+This was exposed by the Public Accounts Committee in its 54th report on “Production of Small Arms in Ordnance Factories”
+
+## Indian Railways rolls out passenger train coaches for Bangladesh Railway; check top features & images
+The coaches have been tailor-made to meet the operational needs of Bangladesh Railway as well as improve passenger comfort. The ministry said the coaches also include a range of passenger-focused amenities.
+
+## ‘Don’t pay attention to gossip, conspiracies you hear’: What N Chandrasekaran told Tata Sons staff
+Speaking at a town hall meeting held at Bombay House in the afternoon, Chandrasekaran reportedly said he had been "touched with the love and affection" shown to him by employees throughout his career and looked back on his 40-year journey with the Tata Group.
 
 ## Investing in mutual funds? Four ways to effectively manage risk for the right investment strategy
 Mutual fund investments inherently carry risks, but with the help of the aforementioned strategies one can easily manage them. All you need to do is formulate a balanced investment strategy that can withstand market changes.
@@ -78,35 +84,29 @@ India's ethanol program surpassed eight hundred crore liters in the latest suppl
 ## Standoff with Noel Tata: What led to N Chandrasekaran’s exit as Tata Sons chairman
 The 63-year-old Chandrasekaran, who has been associated with the Tata Group for four decades, informed the Tata Sons board on Wednesday that he would not seek another term after his tenure expires on February 20, 2027.
 
-## Gold price prediction today: Gold prices rise, but will silver continue to outperform? Check August 12, 2026 outlook
-Gold finally broke out of its long consolidation range last week, gaining over 7%, its strongest weekly rise since January. The rally has continued this week, with gold now up around 8.7% this month and trading near $4,400/oz.
+## Hyderabad: 26-year-old constable found dead in LB Nagar Police Station restroom
+A 26-year-old police constable was found dead at the L B Nagar ACP office in Hyderabad. Police suspect suicide, while his family alleges foul play.
 
-## Tata group stocks fall up to 4% as N Chandrasekaran steps down as chairman
-Chandrasekaran's resignation marks an unexpected end to a tenure of nearly 10 years during which he reshaped India's largest business group, expanding its presence across sectors including airlines, semiconductors, electronics, batteries and digital businesses.
+## Air India pilot on Phuket-Delhi flight who tested +ve for marijuana had sleep difficulty: Sources
+The pilot of an Air India Phuket-Delhi flight that plunged 300 feet last week was on medication over “sleep difficulty”.
+
+## Surya Grahan 2026 live: Rare celestial event to begin in few hours; sighting expected in Spain, Iceland
+The solar eclipse will not be visible in India, either as a total or partial eclipse. The main reason is the eclipse's visibility path does not extend over India.
+
+## Gujarat’s Deesa to get ₹542-cr zoo, desert-themed night safari: Official
+The Gujarat Forest Department will develop the project on 103 hectares of government land at an estimated cost of ₹542.14 crore
+
+## BJP workers repaint Kolkata’s Academy of Fine Arts ticket counter saffron
+Bharatiya Janata Party (BJP) workers repainted the old ticket counter at Kolkata’s heritage Academy of Fine Arts saffron on Wednesday
+
+## Mumbai biker, 24, killed after motorcycle hit by heavy vehicle in Chhattisgarh
+The accident took place around 6 am at Markatola Ghat under Purur police station limits on National Highway 30, roughly 100 km from state capital Raipur.
 
 ## Kaziranga eco-sensitive zone to be cut from 10km to 1km as per SC guidelines: Assam CM
 Assam CM Himanta Biswa Sarma said the Kaziranga ESZ would be reduced from 10km to 1km in line with Supreme Court guidelines.
 
-## Food safety officials find expired ingredients at Zomato warehouse: ‘Uncovered licensing, labelling violations’
+## Food safety officials find expired ingredients at Zomato warehouse: ‘Problem with products, labelling violations'
 Expired food was found at Arogya Soudha canteen on Magadi Road, where food storage practices did not comply with FSSAI requirements.
-
-## Tripura govt felicitates CWG gold medallist Asmita Dey; gives land, cheque
-Asmita learnt judo at a centre located at Belonia in South Tripura district and then moved to the Sports School in Agartala
-
-## 2003 Independence Day: 'Indian economy 4th largest today'– Atal Bihari Vajpayee's last Aug 15 speech
-As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister Atal Bihari Vajpayee's Independence Day address from the Red Fort.
-
-## Karnataka cabinet portfolion allocation: CM Shivakumar keeps finance, law; Zameer gets housing | Check full list
-Ramalinga Reddy was allotted the Forest, Ecology and Environment portfolio, while Lakshman Savadi was assigned Co-operation, excluding Agriculture Marketing.
-
-## 'BJP threatening to hang Delhi hall owners upside down': Dipke's big claim after cancelled meet
-Dipke said a meeting of CJP volunteers was cancelled after the banquet hall where it was to be held revoked the booking.
-
-## A third of skilling scheme trainees remain unplaced
-The panel also questioned the performance of the RSETIs, under which only 4.5 million of 6.2 million trained beneficiaries had been “settled” in self-employment.
-
-## ‘Unbearably hot’: SpiceJet passengers suffer for hours after AC fails on Delhi-Pune flight
-The passengers protested after the aircraft was moved towards the runway despite the problem, prompting the airline to return.
 
 ## HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
 HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle of its insurance unit, with two senior executives appointed to replace outgoing global insurance CEO Edward Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSB
@@ -228,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanon passes long-sought amnesty law, a day after death penalty repeal
+The legislation will 'exceptionally' reduce certain prison terms, says Lebanon's parliament speaker.
+
+## Why the UK faces a prisons crisis amid row over release of cop killers
+The killers of PC Andrew Harper had been set to partake in early release scheme as prison system on verge of collapse.
+
+## Iran is not anti-imperialist. It is a state calculating survival
+Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.
+
+## Argentina star Messi not certain to play ‘much longer’ after father’s death
+Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement from football.
+
+## ‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks
+Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.
+
 ## Sudanese army intercepts RSF drones over el-Obeid
 Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.
 
@@ -236,21 +251,6 @@ Pyongyang has repeatedly condemned US–South Korea military drills, claiming th
 
 ## Egyptian student livestreams his kidnapping
 Egyptian student livestreams his kidnapping
-
-## Top Iranian commander visited Iraq to discuss disarmament plan: Source
-Esmail Qaani held meetings over Iraqi government's plan to disarm armed groups and bring weapons under state control.
-
-## Rare solar eclipse to sweep across Europe and the Arctic
-Rare solar eclipse to sweep across Europe and the Arctic
-
-## Putin warns of tit-for-tat seizures of European vessels
-If European states seize vessels with Russian cargo, Moscow will respond in kind 'wherever necessary', says Putin.
-
-## Lebanon ends executions: Where does the death penalty still exist in 2026?
-Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.
-
-## Woman rescued after 36 hours under rubble in Colombia
-A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
