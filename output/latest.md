@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## World witnesses one of nature’s greatest spectacles: a total solar eclipse
+Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere
+
+## Crackdown on zero-hours contracts could cost UK firms up to £3bn per year
+About £1.2bn will come from new rules forcing bosses to pay compensation for cancelled shifts
+
+## The Amazon of used cars gets a balance sheet tune-up
+Carvana has long been a target of short sellers but bets against the company have fallen sharply
+
 ## US inflation falls to 3.4% in July
 Fallout from Iran war continues to reverberate across economy even as petrol prices decline
 
@@ -9,7 +18,7 @@ Melting in the Arctic is unleashing a geopolitical tussle over new trade routes
 ## US press groups sue Trump over fast access to Truth Social posts
 Lawsuit seeks to stop president from publishing official government announcements exclusively on the platform
 
-## ‘Glorious 12th’ kicks off shooting season as debate rages about its future
+## ‘Glorious 12th’ kicks off UK shooting season as debate rages about its future
 Landowners and environmentalists disagree about how to protect Britain’s wild moorland
 
 ## Is university still worth it?
@@ -20,9 +29,6 @@ Guggenheim’s Mark Walter sells team after just a year of ownership amid US inq
 
 ## Switzerland pushes ahead with post-Credit Suisse crackdown
 Financial regulator may be given greater powers to intervene at troubled banks and levy fines
-
-## Poor numeracy is a blind spot in the age of AI
-An understanding of maths can be crucial to judging if the tech is telling you the right thing
 
 ## Investor Nelson Peltz prepares bid for US burger chain Wendy’s
 Trian Fund Management, BlueFive Capital and Flynn Group could submit offer in the coming weeks
@@ -42,6 +48,12 @@ Non-bank mortgage lending is in trouble
 ## The west has given China the keys to the medicine cabinet
 The US and Europe led the antibiotic era but then outsourced the means to sustain it
 
+## Google Pixel 11 lineup launched with prices starting at $899
+The Pixel 11 series brings upgraded cameras, brighter displays and enhanced Gemini AI, while Google also expands its foldable smartphone lineup
+
+## Bank of America to acquire up to 49.9% stake in Jio Credit for ₹18,268 crore
+Jio Credit is betting on digital innovation and fresh capital to transform credit delivery across India
+
 ## Jaro Education net up 48% on robust online learning adoption
 Jaro records gross bookings of ₹190 crore and 8,169 admissions during the quarter, comprising 6,979 degree admissions and 1,190 certification admissions
 
@@ -59,12 +71,6 @@ The ministry has maintained that the tender was not designed to favour a particu
 
 ## Gautam Adani on US case: ‘A chapter has closed, but our journey is a long one’
 While there was ‘a lot of noise outside’, employees, workers, suppliers, vendors, contractors and partners continued with their work, says Adani
-
-## Tata’s financials under Chandra
-The Tata group has performed quite well in the last nine years under N Chandrasekaran. This is reflected in the net worth of Tata Sons growing at a healthy 19 per cent CAGR over the last nine years. The group’s revenue and profitability have improved dramatically since FY25, helped largely by Tata M
-
-## Don’t rule out Noel Tata on experience; Ratan Tata faced similar doubts: Mukund Rajan
-N Chandrasekaran’s decision not to seek another term as Tata Sons Chairman puts the spotlight on succession at India’s largest conglomerate; former Tata Sons senior executive Mukund Rajan says Noel Tata should not be ruled out merely on the grounds of experience
 
 ## N Chandrasekaran steps down: How power struggle at Tata group is deepening with exit of Ratan Tata’s key allies
 The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate.
@@ -90,29 +96,29 @@ Kpler data shows the first cargo arrived on August 5, with additional shipments 
 ## Ethanol supplies cross 800 crore litres: Why India's next challenge is demand
 India's ethanol program surpassed eight hundred crore liters in the latest supply year. Grain-based feedstocks now dominate ethanol production, accounting for seventy-six percent in July. Maize and surplus FCI grains significantly contributed to this growing grain-based ethanol supply. Sugarcane-bas
 
+## Odisha: Woman allegedly gang-raped by six men in Cuttack, friend assaulted
+The group allegedly stopped their vehicle near Sukarpada village on the Cuttack-Chandbali Road, assaulted the man and raped the woman before fleeing the spot.
+
+## Video shows pitbull attacking couple on house hunt in Patiala; woman undergoes surgery
+A video of the incident shows the pet dog dashing out and attacking Shifali the moment the gate of the house was opened.
+
+## Kangana Ranaut slams Rahul Gandhi over remarks on Amit Shah: ‘He makes mockery of the country’
+Kangana's comments came after Rahul said he was not interested in hearing Shah’s response following the latter’s ‘prolonged absence’ from Parliament.
+
+## SC refuses deadline extension for Aravalli panel submissions
+The Supreme Court refused to extend the deadline for submissions to the committee defining the Aravalli hills, citing potential misuse to delay the process.
+
+## China says border situation with India 'generally stable' amid Arunachal tensions
+This came after India's external affairs ministry said that the state of border affairs has ramifications for overall India-China ties.
+
+## 9-year-old girl raped in front of brother in Madhya Pradesh's Bhind: Police
+The accused was identified as Arvind Valmiki (24). He also thrashed the brother of the victim.
+
 ## Rajya Sabha passes bill to rename Kerala as ‘Keralam’
 The bill seeks to amend the First Schedule of the Constitution to change the name of the southern state to “Keralam”
 
 ## Search on for Indore techie who went missing during trek near Bengaluru: Police
 A resident of Begur area, Advait Upadhyay reportedly informed his fiancée of his Shivagange trekking plan.
-
-## J'khand: Raghubar Das threatens hunger strike if CBI probe into exam irregularities not recommended
-The BJP leader accused JMM-led government of playing with the fate of lakhs of students in the state.
-
-## Why road accident death figures differ in govt reports, Gadkari tells Rajya Sabha
-The Centre said differences in India’s road crash death figures across MoRTH and NCRB reports stem from varying state and UT reporting methods.
-
-## CBI judge rejects Nirav Modi’s sister’s plea, says accused can’t dictate probe
-Purvi has been listed as accused no. 31 in CBI’s second supplementary charge sheet. Like her husband, she had earlier applied to become an approver in the case
-
-## Assam-Arunachal resolved most issues, disputes only in 52 villages: Himanta
-Arunachal Pradesh CM Pema Khandu said that he attended a meeting with several organisations to solve the matter
-
-## Public capital must act as catalyst, not substitute for pvt investment: Sitharaman
-Union finance minister Nirmala Sitharaman said public capital must act as a catalyst for private investment, citing VGF, HAM, InvITs, NIP and PM Gati Shakti.
-
-## ‘Time to move on’: Bombay high court seeks ED view on Vijay Mallya’s 2020 plea
-Vijay Mallya’s 2020 petition challenged a court order allowing an SBI-led bank consortium to use ED-confiscated assets to recover unpaid dues.
 
 ## HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
 HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle of its insurance unit, with two senior executives appointed to replace outgoing global insurance CEO Edward Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSB
@@ -162,29 +168,32 @@ Tehran has long called for greater cooperation among Muslim states. The Mecca pa
 ## Here’s What Middle Powers Can Actually Do
 Mark Carney’s vision has gone unrealized, but that doesn’t mean states should give up.
 
+## Data of 15 Million Kazakhstanis Allegedly Leaked
+A hacker claims to have stolen the data from Kazakhstan eGov service. The authorities are investigating the claim.
+
+## ‘Silence Is Not an Option’: The Quest to Bear Witness to China’s Uyghur Camps
+“Heart Full of Light,” Kalbinur Sidik’s memoir, provides a first-hand account of the atrocities against the Uyghur people in Xinjiang.
+
+## Takaichi, the Three Non-Nuclear Principles, and a Strained US Nuclear Umbrella
+For Japan, the most immediate question is not whether to pursue nuclear weapons itself, but whether to allow its ally’s nuclear-capable assets on Japanese soil.
+
+## Assessing KMT Leader Cheng Li-Wun’s Political Narrative
+Insights from Wayne Tan.
+
+## Should India Worry About the Mecca Pact?
+The agreement is not directed against India, but it alters the strategic environment in which India-Pakistan relations play out.
+
+## Is Badakhshan Becoming the Epicenter of Anti-Taliban Resistance?
+Mounting resistance and ethnic tension are testing Taliban rule in Afghanistan’s north.
+
+## Japan’s Nuclear Taboo Is Starting to Crack
+Whether or not Japan’s nuclear policy is actually revised, the very fact that such a revision is being openly debated is a striking development.
+
 ## The Cyrillic Stalemate: Why Uzbekistan’s Alphabet Reform is Still Stuck 30 Years Later
 Changing an alphabet involves more than just replacing letters; it requires a profound transformation of the state’s institutional and cultural fabric.
 
-## Armistice Regime, Peace Regime, or Time for a Different Mindset on the Korean Peninsula?
-Adopting a new mindset for peacebuilding on the peninsula requires preserving what works while targeting individual issues that remain unresolved.
-
-## When Is a Central Asian Leaders Summit Not a Summit?
-The latest gathering of Central Asian leaders, plus Azerbaijan’s president, saw the signing of a declaration, but the “C5” have not quite become a “C6.”
-
-## ‘Golden Kamuy’ and Modern Russo-Japanese Relations
-The manga-turned-anime serves as an important pop cultural piece in understanding Japan’s place in the world, most specifically its historic role with Russia and their Northeast Asian borderlands.
-
-## The Mecca Pact and America’s Reduced Leverage in West Asia
-Erosion of U.S. influence could, in the long run, impact arms sales, the negotiation of military basing rights, and the management of regional crises.
-
-## Why the Pacific Islands Forum Should Watch Taiwan’s East Coast
-The waters east of Taiwan sit within a strategically integrated maritime space stretching from Northeast Asia, through Micronesia and Melanesia, to Polynesia.
-
-## Symbolic Concessions, No Implementation: Myanmar’s Promises of Rohingya Repatriation
-Myanmar’s latest pledge to repatriate 300,000 Rohingya refugees cannot be viewed as a credible commitment. It’s yet another iteration of a well-established diplomatic pattern.
-
-## Reclaiming the Backyard: ASEAN’s Realpolitik Push on Myanmar
-A Thailand-led push to re-engage the country's military-backed government is an attempt to prevent the bloc's diplomatic marginalization.
+## Russia’s Blurry Line Between Science and Sabotage Beneath the Ocean’s Surface
+In 2025, Nurlan Aliyev wrote, “The Mayhem of Russia’s “Research” Fleet,” where he argued that NATO must act decisively to safeguard critical undersea infrastructure from Russian sabotage attempts. A year later, we asked him to revisit his arguments. Image: Andrey Luzik via Wikimedia CommonsIn your 2
 
 ## Hyman Rickover and the Birth of Nuclear Power
 Editor’s note: This is the eighth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sele
@@ -206,9 +215,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## What America Learned About Democracy When It Gained Stealth
 Editor’s note: This is the seventh article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sel
-
-## Why Military Cooperation in the Indian Ocean Still Falls Short
-The United States has bluntly signaled a deprioritization of the Indian Ocean at a peculiar time. The reversion of U.S. Indo-Pacific Command to its former name, U.S. Pacific Command, signifies no material change in force posture or organizational responsibilities, but it unavoidably signals less foc
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,6 +240,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## White House construction project to cost almost $1bn
+The White House defended reports it planned to spend nearly $1bn on controversial construction projects.
+
+## Drought exposes Nazi-era warship wrecks beneath the Danube
+Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels
+
 ## Trump remarks on diminishing impact of pro-Israel groups in Congress
 Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.
 
@@ -251,12 +263,6 @@ A widening deficit and Ukrainian strikes are testing Russia's economy, even as w
 
 ## WHO chief says Trump vaccine push goes against ‘decades of evidence’
 The US health secretary has spent years saying the MMR vaccine caused autism despite no medical evidence.
-
-## Iran remains defiant as it vows to fight US until demands met
-IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.
-
-## US consumer inflation slows in July as energy prices briefly retreat
-Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
