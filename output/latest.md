@@ -1,28 +1,31 @@
 # AION Intelligence
 
+## Switzerland pushes ahead with post-Credit Suisse crackdown
+Financial regulator may be given greater powers to intervene at troubled banks and levy fines
+
+## Bob Iger and Josh Kushner in $12bn deal for Lakers basketball franchise
+Guggenheim’s Mark Walter sells team after just a year of ownership amid US inquiry into insurance empire
+
+## Poor numeracy is a blind spot in the age of AI
+An understanding of maths can be crucial to judging if the tech is telling you the right thing
+
+## Investor Nelson Peltz prepares bid for US burger chain Wendy’s
+Trian Fund Management, BlueFive Capital and Flynn Group could submit offer in the coming weeks
+
+## Smile, you’re on camera: when the boss wants to read your mood
+Patent records show how many companies are interested in trying to record how people feel
+
+## July inflation decline does not mean Fed’s September rise is off the table
+Headline and core inflation rates were both lower, with energy prices registering another decline over the month
+
 ## US inflation falls to 3.4% in July
 Fallout from Iran war continues to reverberate across economy even as petrol prices decline
 
 ## The west has given China the keys to the medicine cabinet
 The US and Europe led the antibiotic era but then outsourced the means to sustain it
 
-## Goldman Sachs to acquire ETF provider Neos for up to $2.3bn
-Wall Street bank continues to boost presence in asset management
-
-## Scottish North Sea tax revenues drop, fuelling debate on oil and gas industry’s future
-UK government to soon decide whether to approve production at the Rosebank and Jackdaw fields
-
-## Switzerland pushes ahead with post-Credit Suisse crackdown
-Financial regulator may be given greater powers to intervene at troubled banks and levy fines
-
-## India plans to tighten rules on foreign-funded NGOs
-Charities and religious groups fear new bill could lead to government confiscating assets
-
-## Why must a socialist also be woke?
-If the left could separate economics from culture, capitalism would have more to fear
-
-## How will El Niño hit the world economy?
-Disruptive climate event is likely to be one of the strongest on record
+## Greenland oil wildcatters delay controversial drilling plan
+Big claims from new US explorer have run into permitting realities and a rebuke from island nation’s government
 
 ## Vestas shares soar as wind turbine orders bounce back
 Copenhagen-listed group raises profit guidance and announces share buyback
@@ -30,35 +33,29 @@ Copenhagen-listed group raises profit guidance and announces share buyback
 ## America’s largest home lender falls out of the hamster wheel
 Non-bank mortgage lending is in trouble
 
-## Who is Anthropic’s auditor — and why should we care?
-Magic bean counters
+## Waaree Transpower wins ₹160 crore BESS order, signals push into global energy storage market
+The contract arrives as demand for battery storage infrastructure accelerates worldwide, driven by the need to integrate higher volumes of renewable energy into power grids and maintain round-the-clock supply reliability
 
-## FirstFT: Vance asked Ukraine to halt strikes on tankers
-Also in today’s newsletter: Moderate Democrat wins in Wisconsin, and Bank of America commits $250bn to US infrastructure projects
+## Indel Money planning to raise up to ₹500 cr via public issue of NCDs
+The minimum application size is ₹10,000 across all Series of NCDs and in multiples of ₹1,000 thereafter
 
-## TN govt complains to SC of Kerala’s ‘obstructionist attitude’ to strengthening Mullaperiyar dam
-TN stated that the Kerala government was “attempting to delay the grant of permission for transportation of grouting materials and machinery and yet to grant permission”.
+## Era of Chandra: Steering Tata Group towards the digital age
+Under Chandra’s leadership, the Tata Group witnessed significant value creation, with its market capitalisation more than tripling to ₹27 lakh crore
 
-## Meenakshi India Ltd posts net profit of ₹7 crore in Q1 FY27
-Improved profitability supported primarily by other income during the quarter, says MD
+## Apollo Hospitals reports robust 34 per cent profit growth in Q1FY27 on healthcare services growth
+Healthcare revenue for Q1FY27 was at ₹3,567 Crore, a growth of 22 per cent YoY
 
-## After a marathon run, N Chandrasekaran steps down
-Tata Sons chairman not to seek third term
-
-## Cauvery dispute posted to Aug 17 as judge down with viral fever
-The Chief Justice said Justice Nath would not be presiding over his Bench this week.
-
-## Shiprocket India IPO: Priced for orbit, profits stay grounded
-Profitable core business provides comfort, but losses in faster-growing businesses and steep valuation are negatives
-
-## All careers end at some point, Chandra tells Tata group staff
-In a townhall address hours after announcing his exit, Chandra assured employees that the group will continue to make progress
-
-## Tata’s major milestones under N Chandrasekaran’s leadership
+## RBI unveils harmonised draft Directions on interest rates on loans for all lenders
 
 
-## Aged guns, bureaucratic delays cited in 269 Army’s small arms accidents: parliamentary report
-This was exposed by the Public Accounts Committee in its 54th report on “Production of Small Arms in Ordnance Factories”
+## Tata Motors CV Q1 profit jumps 83% as revenue rises 19%
+Tata Motors reported an 83 per cent rise in consolidated profit after tax in the June quarter as revenue grew 19 per cent, while a 3,400-plus electric commercial vehicle order pipeline strengthened its growth outlook even as commodity inflation threatens to keep margins under pressure in Q2.
+
+## SAT questions logic of Zee’s two-month market ban, reserves interim order
+Zee seeks relief to complete ₹3,143-crore warrant issue within the 15-day window open from Aug 12
+
+## Pocket
+
 
 ## Indian Railways rolls out passenger train coaches for Bangladesh Railway; check top features & images
 The coaches have been tailor-made to meet the operational needs of Bangladesh Railway as well as improve passenger comfort. The ministry said the coaches also include a range of passenger-focused amenities.
@@ -84,29 +81,29 @@ India's ethanol program surpassed eight hundred crore liters in the latest suppl
 ## Standoff with Noel Tata: What led to N Chandrasekaran’s exit as Tata Sons chairman
 The 63-year-old Chandrasekaran, who has been associated with the Tata Group for four decades, informed the Tata Sons board on Wednesday that he would not seek another term after his tenure expires on February 20, 2027.
 
-## Hyderabad: 26-year-old constable found dead in LB Nagar Police Station restroom
-A 26-year-old police constable was found dead at the L B Nagar ACP office in Hyderabad. Police suspect suicide, while his family alleges foul play.
+## Why road accident death figures differ in govt reports, Gadkari tells Rajya Sabha
+The Centre said differences in India’s road crash death figures across MoRTH and NCRB reports stem from varying state and UT reporting methods.
 
-## Air India pilot on Phuket-Delhi flight who tested +ve for marijuana had sleep difficulty: Sources
-The pilot of an Air India Phuket-Delhi flight that plunged 300 feet last week was on medication over “sleep difficulty”.
+## CBI judge rejects Nirav Modi’s sister’s plea, says accused can’t dictate probe
+Purvi has been listed as accused no. 31 in CBI’s second supplementary charge sheet. Like her husband, she had earlier applied to become an approver in the case
 
-## Surya Grahan 2026 live: Rare celestial event to begin in few hours; sighting expected in Spain, Iceland
-The solar eclipse will not be visible in India, either as a total or partial eclipse. The main reason is the eclipse's visibility path does not extend over India.
+## Assam-Arunachal resolved most issues, disputes only in 52 villages: Himanta
+Arunachal Pradesh CM Pema Khandu said that he attended a meeting with several organisations to solve the matter
 
-## Gujarat’s Deesa to get ₹542-cr zoo, desert-themed night safari: Official
-The Gujarat Forest Department will develop the project on 103 hectares of government land at an estimated cost of ₹542.14 crore
+## Public capital must act as catalyst, not substitute for pvt investment: Sitharaman
+Union finance minister Nirmala Sitharaman said public capital must act as a catalyst for private investment, citing VGF, HAM, InvITs, NIP and PM Gati Shakti.
 
-## BJP workers repaint Kolkata’s Academy of Fine Arts ticket counter saffron
-Bharatiya Janata Party (BJP) workers repainted the old ticket counter at Kolkata’s heritage Academy of Fine Arts saffron on Wednesday
+## ‘Time to move on’: Bombay high court seeks ED view on Vijay Mallya’s 2020 plea
+Vijay Mallya’s 2020 petition challenged a court order allowing an SBI-led bank consortium to use ED-confiscated assets to recover unpaid dues.
 
-## Mumbai biker, 24, killed after motorcycle hit by heavy vehicle in Chhattisgarh
-The accident took place around 6 am at Markatola Ghat under Purur police station limits on National Highway 30, roughly 100 km from state capital Raipur.
+## What is N Chandrasekaran's net worth? Report shows he got ₹671.4 crore in 5 years
+While his exact personal net worth is not publicly disclosed, his Tata Sons remuneration has run into hundreds of crores.
 
-## Kaziranga eco-sensitive zone to be cut from 10km to 1km as per SC guidelines: Assam CM
-Assam CM Himanta Biswa Sarma said the Kaziranga ESZ would be reduced from 10km to 1km in line with Supreme Court guidelines.
+## Bengal assembly clears delimitation bills, Kolkata to have 209 municipal wards
+West Bengal assembly passes bills to increase Kolkata civic wards from 144 to 209 and Howrah wards from 50 to 68 ahead of municipal elections.
 
-## Food safety officials find expired ingredients at Zomato warehouse: ‘Problem with products, labelling violations'
-Expired food was found at Arogya Soudha canteen on Magadi Road, where food storage practices did not comply with FSSAI requirements.
+## 'Why this harassment?': CJP's Saurav Das claims Puducherry Police 'showed up' at his family home, blames BJP
+Saurav Das alleged Puducherry Police arrived at his home and questioned his family without explaining the reason for the action.
 
 ## HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
 HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle of its insurance unit, with two senior executives appointed to replace outgoing global insurance CEO Edward Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSB
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Europe prepares for first total solar eclipse in 27 years
+Europe is gearing up for its first total solar eclipse in 27 years.
+
+## Colombia declares three days of mourning after deadly earthquake
+Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.
+
+## Is Russia’s economy cracking despite the Iran war windfall?
+A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.
+
+## WHO chief says Trump vaccine push goes against ‘decades of evidence’
+The US health secretary has spent years saying the MMR vaccine caused autism despite no medical evidence.
+
+## Iran remains defiant as it vows to fight US until demands met
+IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.
+
+## US consumer inflation slows in July as energy prices briefly retreat
+Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.
+
+## As Strait of Hormuz transit drops, Trump again says US has ‘control’
+Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.
+
 ## Lebanon passes long-sought amnesty law, a day after death penalty repeal
 The legislation will 'exceptionally' reduce certain prison terms, says Lebanon's parliament speaker.
-
-## Why the UK faces a prisons crisis amid row over release of cop killers
-The killers of PC Andrew Harper had been set to partake in early release scheme as prison system on verge of collapse.
-
-## Iran is not anti-imperialist. It is a state calculating survival
-Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.
-
-## Argentina star Messi not certain to play ‘much longer’ after father’s death
-Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement from football.
-
-## ‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks
-Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.
-
-## Sudanese army intercepts RSF drones over el-Obeid
-Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.
-
-## Why has North Korea fired a missile ahead of US-South Korea drills?
-Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a 'rehearsal for invasion'.
-
-## Egyptian student livestreams his kidnapping
-Egyptian student livestreams his kidnapping
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
