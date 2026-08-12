@@ -24,6 +24,9 @@ Carvana has long been a target of short sellers but bets against the company hav
 ## China is winning the race for the Ice Silk Road
 Melting in the Arctic is unleashing a geopolitical tussle over new trade routes
 
+## Wall Street giants bet Nvidia’s AI chips will defy the laws of finance
+Private capital firms are wagering that the crucial hardware will hold its value for years to come
+
 ## US press groups sue Trump over fast access to Truth Social posts
 Lawsuit seeks to stop president from publishing official government announcements exclusively on the platform
 
@@ -35,9 +38,6 @@ Financial regulator may be given greater powers to intervene at troubled banks a
 
 ## Investor Nelson Peltz prepares bid for US burger chain Wendy’s
 Trian Fund Management, BlueFive Capital and Flynn Group could submit offer in the coming weeks
-
-## Greenland oil wildcatters delay controversial drilling plan
-Big claims from new US explorer have run into permitting realities and a rebuke from island nation’s government
 
 ## AvenuesAI net profit rises 45%, targets ₹13,000 crore revenue in FY27
 The fintech firm is targeting faster growth through Rediff, US payments expansion and an AI-led transaction intelligence platform called TISco.
@@ -63,6 +63,15 @@ Bosch Ltd expects its 14 per cent EBITDA margin to sustain as higher localisatio
 ## Karan Adani meets AP CM Naidu on ₹16,000-cr titanium plant in Srikakulam
 Adani Group also presents master plan for its proposed data centre and IT park in Visakhapatnam
 
+## Food prices push up retail inflation to 4.45% in July
+Food Inflation Rises To 5.52% From 5.32% A Month Ago
+
+## New RBI rules may end loan spread tinkering
+To Standardise Rate Setting Across Banks, NBFCs
+
+## Who next? Tata Steel MD’s name does the rounds after Chandrasekaran steps down
+'Not prepared', P 26
+
 ## N Chandrasekaran steps down: How power struggle at Tata group is deepening with exit of Ratan Tata’s key allies
 The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate.
 
@@ -77,15 +86,6 @@ Mutual fund investments inherently carry risks, but with the help of the aforeme
 
 ## CPI data: Retail inflation moves up to 4.45% in July; stays above RBI's target for second month
 Based on the All India Consumer Food Price Index (CFPI), provisional food inflation stood at 5.52% year-on-year in July 2026. Rural food inflation was estimated at 5.79%, whereas the corresponding rate for urban India was 5.05%.
-
-## From trainee to Tata chairman: The remarkable rise of Ratan Tata’s pick N Chandrasekaran
-Popularly known as Chandra in corporate circles, he became the first non-Parsi chairman in the Tata Group's 150-year history and was personally chosen for the role by the late Ratan Tata. The Tata Group expanded significantly under his leadership. According to company figures, aggregate revenue incr
-
-## ‘Emergence of Indian barrels notable’: Why Russia is buying gasoline from India for the first time
-Kpler data shows the first cargo arrived on August 5, with additional shipments expected to follow. Nayara Energy Ltd, the Indian refiner backed by Russia's largest oil producer Rosneft PJSC, has emerged as a supplier.
-
-## Ethanol supplies cross 800 crore litres: Why India's next challenge is demand
-India's ethanol program surpassed eight hundred crore liters in the latest supply year. Grain-based feedstocks now dominate ethanol production, accounting for seventy-six percent in July. Maize and surplus FCI grains significantly contributed to this growing grain-based ethanol supply. Sugarcane-bas
 
 ## Odisha: Woman allegedly gang-raped by six men in Cuttack, friend assaulted
 The group allegedly stopped their vehicle near Sukarpada village on the Cuttack-Chandbali Road, assaulted the man and raped the woman before fleeing the spot.
@@ -135,6 +135,12 @@ Hong Kong is doubling down on efforts to increase its stock market’s exposure 
 ## China’s quant funds have an edge on foreign rivals, even as Beijing curbs trading speed
 China’s quantitative funds have built trading strategies so closely tailored to the mainland market that foreign rivals cannot replicate them, even as a regulatory clampdown on trading speed reshapes the industry, according to a prominent economist. “If a top US quant team goes to Japan or India, th
 
+## What Does the Mecca Pact Deliver Pakistan?
+The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
+
+## What to Watch in Zambia’s Elections
+The country’s natural resources have put the vote under intense international scrutiny.
+
 ## Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles
 Kyiv and Moscow are trading heavier and heavier blows.
 
@@ -152,12 +158,6 @@ Tehran’s proxy risks pushing a newly consolidated Saudi Arabia into an all-out
 
 ## A Middle Eastern NATO?
 What’s behind the defense pact between Turkey, Saudi Arabia, and Pakistan.
-
-## Why Is AI So Popular in China?
-The technology is far less divisive than in the United States.
-
-## Colombia’s New President Faces His First Major Test
-President Abelardo de la Espriella took office mere days before a major earthquake struck the country.
 
 ## Data of 15 Million Kazakhstanis Allegedly Leaked
 A hacker claims to have stolen the data from Kazakhstan eGov service. The authorities are investigating the claim.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
+The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
+
+## Hegseth cautions that ICC may investigate US boat strikes in Latin America
+US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.
+
+## PSG win back-to-back UEFA Super Cups with victory over Aston Villa
+Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo's goal is in vain for Aston Villa.
+
+## Thousands missing after Colombia quake as rescue continues
+Thousands missing after Colombia quake as rescue continues
+
+## Morocco says working to prevent potential new Ceuta crossings surge
+Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.
+
+## 11-year-old boy shot by Israeli forces in Gaza
+The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.
+
 ## Drone attacks on energy infrastructure deepen Libya’s energy crisis
 Repeated drone strikes on oil and power infrastructure are deepening Libya's energy crisis.
 
 ## Israeli air strike kills one in northern Gaza
 Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week
-
-## Deadly India landslide kills at least seven in Mumbai
-Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.
-
-## Can Syria deliver transitional justice?
-A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.
-
-## Israel vows to keep troops in Lebanon, Gaza and Syria
-Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.
-
-## Photos: Solar eclipse plunges parts of Europe into darkness
-A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.
-
-## ‘Platformicide’ of Palestine: Activists struggle to be heard on Meta
-Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.
-
-## Trump reveals Karoline Leavitt to step down as White House press secretary
-Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
