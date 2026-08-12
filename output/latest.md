@@ -1,7 +1,16 @@
 # AION Intelligence
 
+## Cambridge says it will carry out independent probe into Arday appointment
+Move follows pressure from academics after university’s youngest-ever Black professor quit over plagiarism allegations
+
+## FirstFT: Taiwan hit by unprecedented ‘autonomous’ AI hack linked to China
+Also in today’s newsletter: Tata chair to step down and former Chinese premier Zhu Rongji dies aged 97
+
+## Wall Street giants bet Nvidia’s AI chips will defy the laws of finance
+Private capital firms are wagering that the crucial hardware will hold its value for years to come
+
 ## World witnesses one of nature’s greatest spectacles: a total solar eclipse
-Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere
+Spectators and scientists gathered to witness full or partial blocking of the Sun across the northern hemisphere
 
 ## Karoline Leavitt to step down as White House press secretary
 Donald Trump says chief spokesperson will leave job at the end of the month
@@ -15,17 +24,11 @@ TWG Global is seeking to refinance loans, restructure firms and bring in outside
 ## Burnham urges retailers to stop selling disposable BBQs amid wildfires
 PM holds emergency government meeting in response to drought and heatwaves
 
-## Crackdown on zero-hours contracts could cost UK firms up to £3bn per year
-About £1.2bn will come from new rules forcing bosses to pay compensation for cancelled shifts
-
 ## The Amazon of used cars gets a balance sheet tune-up
 Carvana has long been a target of short sellers but bets against the company have fallen sharply
 
 ## China is winning the race for the Ice Silk Road
 Melting in the Arctic is unleashing a geopolitical tussle over new trade routes
-
-## Wall Street giants bet Nvidia’s AI chips will defy the laws of finance
-Private capital firms are wagering that the crucial hardware will hold its value for years to come
 
 ## US press groups sue Trump over fast access to Truth Social posts
 Lawsuit seeks to stop president from publishing official government announcements exclusively on the platform
@@ -111,6 +114,9 @@ The bill seeks to amend the First Schedule of the Constitution to change the nam
 ## Search on for Indore techie who went missing during trek near Bengaluru: Police
 A resident of Begur area, Advait Upadhyay reportedly informed his fiancée of his Shivagange trekking plan.
 
+## Can Berkshire Hathaway without Warren Buffett remain a ‘north star’ for China’s investors?
+For decades, thousands of Chinese investors made pilgrimages each spring to Omaha, in the central US state of Nebraska, treating Warren Buffett’s shareholder meetings for investment firm Berkshire Hathaway less as corporate briefings than as audiences with an oracle. Buffett’s retirement as CEO, eff
+
 ## HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
 HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle of its insurance unit, with two senior executives appointed to replace outgoing global insurance CEO Edward Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSB
 
@@ -131,9 +137,6 @@ Deliveries of electric vehicles (EVs) in China fell 3.9 per cent in July from a 
 
 ## Hong Kong seeks tech exposure to take on Nasdaq amid Beijing’s rising AI dominance
 Hong Kong is doubling down on efforts to increase its stock market’s exposure to the technology industry, as the city endeavours to catch up in the global artificial intelligence trade and potentially even challenge the Nasdaq. Several mainland Chinese hardware tech companies – particularly producer
-
-## China’s quant funds have an edge on foreign rivals, even as Beijing curbs trading speed
-China’s quantitative funds have built trading strategies so closely tailored to the mainland market that foreign rivals cannot replicate them, even as a regulatory clampdown on trading speed reshapes the industry, according to a prominent economist. “If a top US quant team goes to Japan or India, th
 
 ## What Does the Mecca Pact Deliver Pakistan?
 The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
@@ -231,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump administration plans to give ICE officers electric-shock gloves
+US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president's immigration crackdown.
+
 ## US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
 The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
 
@@ -251,9 +257,6 @@ The father of an 11-year-old boy says Israeli forces shot his son in the head an
 
 ## Drone attacks on energy infrastructure deepen Libya’s energy crisis
 Repeated drone strikes on oil and power infrastructure are deepening Libya's energy crisis.
-
-## Israeli air strike kills one in northern Gaza
-Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
