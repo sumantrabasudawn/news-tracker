@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Singapore Airlines loses about S$1bn on Air India bet — with more pain forecast
+Timing of decision to take 25% stake ‘could not have been worse’, says executive
+
+## Democratic socialist vies to win Wisconsin race in new threat to party leadership
+Primary victory would pit leftwing gubernatorial candidate against Trump-backed Republican in November midterms
+
+## Top Democrat demands briefing on secret mission to extract Trump from Turkey
+Chuck Schumer calls for full account of operation to protect president from alleged Iranian assassination threat
+
+## India plans to tighten rules on foreign-funded NGOs
+Charities and religious groups fear new bill could lead to government confiscating assets
+
 ## UK police chiefs urge Burnham to prevent early release of officer’s killers
 Intervention comes after PM signals he thinks those behind the death of Andrew Harper will remain in prison
 
@@ -15,20 +27,11 @@ Also in today’s newsletter: US judge cites ‘concerning’ irregularities in 
 ## Panama Canal fees hit record high as El Niño and Iran war choke shipping
 Falling water levels caused by weather phenomenon could limit transit slots through crucial maritime passageway
 
-## US fires on ship it says violated Iran blockade
-Central Command says Panama-flagged vessel ‘ignored repeated warnings’ from American forces
-
-## Climate change an ‘existential threat’ to England’s green spaces, study finds
-Hotter, drier summers are creating stress on plants and soils
-
-## Moscow releases former US Marine after four-year stint in Russian prison
-State department says American was freed without prisoner exchange or Washington concessions
-
 ## Deputy PM Salvini proposes windfall tax on Italian bank profits
 Plan for three-year levy comes amid strained public finances
 
 ## UK letting agents under pressure from AI-assisted tenant complaints
-One agent said 90 per cent of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
+One agent said 90% of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
 
 ## Heatwaves push European gas prices close to Iran war highs
 Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation
@@ -36,80 +39,80 @@ Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power 
 ## Rooftop panels in cities are no replacement for solar farms
 Cleve Hill, the UK’s largest solar park, is unpopular with locals but the country needs more like it
 
-## When trouble strikes, who shadow-banks the shadow bankers?
-Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins
+## TN CM Vijay to pilot Assembly resolution urging Centre to maintain Lok Sabha strength at 543
+Resolution expected to urge the Centre to implement 33% reservation for women in the 2029 election to the Lok Sabha
 
-## Sensex today | Stock Market Live: Stock to buy today: Carborundum Universal
-Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Carborundum Universal. The price action since July indicates a rounding pattern. The strong 4.8 per cent on Tuesday confirms that a bottom is formed. It also indicates that the fall that was in place since mid-June has ended and
+## Sensex today | Stock Market Live: Sensex, Nifty open lower amid weak global cues and rising crude oil prices
+Sensex, Nifty, Share Prices Live: Indian equities opened weak on Wednesday as rising crude oil prices, subdued global markets and geopolitical uncertainty weighed on sentiment. Investors remained cautious ahead of US inflation data, while strong domestic tax collections and resilient growth prospect
 
-## Trump, Modi to resolve Russian oil tariff issue, says US trade adviser Peter Navarro
-US trade adviser Peter Navarro sought to play down concerns over the latest trade tensions, saying Washington and New Delhi would work through the dispute.
+## Q1 Results Today Live: Tata Motors, Apollo Hospitals, HAL, Grasim GMR Airports, Lenskart, Abbott, VA Tech, IRCON, AIA, IRCTC, Sun TV, EID Parry to announce Q1 results, NBCC, Siemens, RVNL, Kalpataru, MRF, Zydus Lifesciences, KPI Green, Manappuram Finance in focus, TD Power Systems, Finolex shares hit 52-week high
+Q1 Results Today, 12th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## ₹882-crore TB kit tender raises questions over brand-specific procurement
+## ACV Auctions said to explore sale amid takeover interest
+ACV Auctions is also weighing a strategic partnership as an alternative to a sale
+
+## Rare Himalayan bee recorded in India for the first time in Arunachal Pradesh
+The discovery expands knowledge of eastern Himalayan pollinators and highlights the biodiversity still awaiting documentation across Arunachal Pradesh’s remote mountains.
+
+## Questions over ₹882-crore TB kit tender over brand-specific procurement; Govt says tender released to establish a rate contract for over 9,000 machines already available in the public health system
 Experts questioned why the tender identifies TrueNat by name instead of inviting bids for generic TB molecular diagnostic kits meeting prescribed technical specifications.
 
-## Buzzing stocks: Godrej Consumer, L&T, Tenneco Clean, Dr Agarwal’s, SJVN, BEML, Bajaj Electricals, Diamond Power, Saatvik Green, Innovision, SUGS Lloyd
-A string of corporate announcements brought leadership changes, business transfers and major order wins across consumer, infrastructure, defence and renewable energy sectors
+## Shipping Ministry approves Rs 334.89-cr flyover at Visakhapatnam Port to ease cargo movement
+The 3.584-km elevated corridor would separate road and rail traffic within the port
 
-## Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
-Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund
+## Sham Foam launches ₹40.48 crore Initial Public Offering
+The IPO, which comprises a fresh issue of 31.14 lakh shares, received bids for 57,000 shares on the BSE SME platform, exchange data showed
 
-## CPRL aims to ramp up presence of McCafe in north and east
-The expansion also comes at a time when the QSR chains have been witnessing an uptick in same-store sales growth and consumption recovery in the past few quarters
+## Top stocks to buy today: Stock recommendations for August 12, 2026 - check list
+Stock market recommendations: JSW Energy, Gujarat Mineral Development Corporation (GMDC), and IRCTC have been recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares as the top stocks to buy today on August 12, 2026:
 
-## Consultative Meet: Industry bodies hail West Bengal’s proposed sectoral approach in new industrial policy
-During the industrial policy consultative meeting, attended by a group of ministers, including Finance Minister Swapan Dasgupta and Industry Minister Tapas Roy, and senior officers of the government, industry bodies submitted their recommendations on industrial incentives, speedy and predictable app
+## Precious metals rate today: Gold holds near 10-week high; silver rises
 
-## Fusion Finance plans retail loan venture in September
-The average ticket size is expected to be ₹1.25-1.5 lakh, with a maximum loan size of ₹2 lakh
+
+## Govt to offer sops up to Rs 5,000 for e-2-wheelers till Mar 2028
+
+
+## Equity mutual fund inflows plunge 42% to Rs 25,000 crore
+
+
+## Next wave of AI-led banking must help rural India, says Setty
+
+
+## AI can do to lending, what UPI did to payments: RBI governor Sanjay Malhotra
+
+
+## Retail investors’ losses in F&O segment drop
+
 
 ## 4G phones get a lifeline as entry-level 5G prices rise
 
 
-## Equity MF inflows fall 15% in July as investors turn cautious, SIPs stay strong
+## First batch of Agniveers set to retire soon, may get to pick next service
+The first batch of Agniveers are set to complete their four-year military service later this year and will likely be allowed to choose where they want to serve next, with the Union government considering giving them options across central armed police forces (CAPFs), state police forces, and Indian 
 
+## SC asks states, UTs to declare cancer as notifiable disease for early detection
+The Supreme Court on Tuesday asked states and union territories to consider issuing notification declaring cancer as a “notifiable disease” observing that a uniform policy is the need of the hour to ensure the burgeoning cancer cases can be effectively remedied
 
-## Fitch retains India’s credit rating at BBB-, sees strong economy; warns of fiscal risks due to protests
-The ratings agency said the Indian economy continues to demonstrate resilience despite the energy shock arising from the conflict in West Asia, supported by a strong growth outlook and sound external financing fundamentals.
+## Two killed as earth caves in at underpass construction site
+Two workers were killed and three injured on Tuesday after earth collapsed into an excavation at an underpass construction site near FTI Circle, in front of Dr Rajkumar Samadhi, raising questions about safety measures at the Bengaluru Development Authority (BDA) project
 
-## Direct tax collections rise sharply to Rs 8.11 lakh crore; non-corporate taxes lead
-India's direct tax collections have surged impressively, seeing an increase of over twenty-three percent. As of August 10, gross direct tax collections reached a staggering Rs 9.55 lakh crore. The bulk of these collections stemmed from non-corporate tax receipts, while both corporate tax collections
+## CVC revises its master circulars on vigilance angle
+New Delhi: Financial and non-financial losses caused to a government department, need not necessarily be considered to be the result of corruption or malfeasance , and no government official should be retained at a sensitive post for unduly long period in the guise of indispensability, the Central V
 
-## US stock market today: Wall Street near record high as inflation data in focus; oil prices swing
-Investors are now focused on Wednesday's release of the latest US inflation data. Economists expect the report to show that inflation remained elevated in July but eased slightly to 3.4% from 3.5% in June.
+## Tamil Nadu adopts resolutions against NEET, FCRA
+The Tamil Nadu assembly on Tuesday passed two separate resolutions against the National Eligibility cum Entrance Test (NEET) and the Foreign Contribution (Regulation) Amendment (FCRA) Bill, even as the lone Bharatiya Janata Party (BJP) member opposed the resolutions and walked out of the House
 
-## What is MDR that is being proposed for UPI transactions, who pays the final cost? Explained
-The government has clarified that UPI will continue to remain free for consumers and no transaction charges will be applicable to person-to-person payments. The government has also said that if an MDR is introduced in the future it will only be applicable to a limited category of merchant transactio
+## Lok Sabha gives nod to bill to rename Kerala, NCDC Bill
+The Kerala (Alteration of Name) Bill, 2026, and the National Co-operative Development Corporation (Amendment) BIll, 2026, were passed in the Lok Sabha without debate on Tuesday, amid heavy protest and sloganeering by the Opposition members of the House, who demanded an apology from Prime Minister Na
 
-## RBI guv asks banks to build human oversight, says blaming technology is 'unacceptable'
-Reserve Bank governor Sanjay Malhotra stressed human accountability for AI decisions. Banks must ensure technology supports human judgment, not replaces it entirely. Meaningful human oversight is crucial from the AI design stage. Cyber security and model bias present significant risks for lenders. B
+## Zepto and Indira canteen warehouses sealed over food hygiene violations
+Food safety officials on Tuesday sealed warehouses of Zepto and an Indira Canteen in Bengaluru after finding “unhygienic” food handling and storage conditions, officials said, as Karnataka widened its enforcement drive beyond restaurants and hotels to food storage and distribution facilities
 
-## Relief for Adani group: US court permanently dismisses criminal case; what Gautam Adani said
-Responding to the ruling, Gautam Adani said, "Truth has prevailed," adding that he respected the judicial process and expressed gratitude to those who had supported the Adani Group during the proceedings. He also reaffirmed the conglomerate's commitment to "nation-building" and "long-term value crea
+## Police detains 116 foreign nationals over documents
+Bengaluru police have detained 116 foreign nationals suspected of staying in the city without valid documents and are verifying their identities and immigration records before deciding on further action, officials said on Tuesday
 
-## IMD gets its rain data wrong, then quietly fixes it. Delhi yet to cross its average for August showers
-Delhi rain news: IMD had also updated rainfall data for August 5-6 to 18.77mm in the current chart, in comparison to the earlier 56mm.
-
-## ‘Uncle sends his regards’: Mumbai thieves use innovative WhatsApp codes to run pickpocket gang
-The WhatsApp codes were allegedly used to know if every gang member was safe, if anyone was caught by the cops or if the day’s planning could be executed.
-
-## Cash-at-residence row: Inquiry report on Justice Yashwant Varma to be tabled in Lok Sabha
-The probe panel had submitted its findings to the Lok Sabha Speaker in May.
-
-## CAG detects irregularities in PMAY-G, Jal Jeevan Mission, MGNREGA implementation in Jharkhand
-Over 6.32 lakh eligible households remained uncovered under the Pradhan Mantri Awas Yojana (Gramin) due to deficient planning.
-
-## 'Through the big contacts I have...': Prashant Kishor assures jobs for 10,000 youngsters in Bankipur
-Prashant Kishor said that apart from facilitating jobs, he will work towards improving the education system and providing food grains.
-
-## ‘Trump, Modi have good working relations; will work it out’: US official amid 100% tariff threat
-The Lindsey Graham Bill passed by the US Senate can levy tariffs on top five countries that purchase Russian crude, which includes India and China.
-
-## ‘Are you a staunch Hindu, do you eat non-veg food?’ Ram Temple CEO candidates asked to fill Google form
-The 18 candidates who were shortlisted from a pool of 5,200 applicants were also asked about their work experience and their families.
-
-## Delhi traffic advisory on Aug 13 for I-Day rehearsal: Key Red Fort roads closed; check routes, diversions
-According to the Delhi Traffic Police advisory, roads around the Red Fort will remain closed to general traffic from 4 am to 10 am.
+## HKEX pushes ahead on extended trading hours discussions as it prepares paper: sources
+Hong Kong Exchanges and Clearing (HKEX) will push ahead with talks on extending stock market trading hours by releasing a discussion paper, even as it faces brokers’ concerns over a longer trading time and cancellation of the trading lunch break, according to two sources with knowledge of the matter
 
 ## What are China’s quantitative trading funds, and why are they so controversial?
 For years, quantitative trading was the undisputed darling of China’s stock market, using sophisticated algorithms and artificial intelligence to deliver eye-popping returns and grow into one of the most powerful drivers of trading volume and liquidity, even as traditional, discretionary stock-picke
@@ -131,9 +134,6 @@ Unitree Robotics’ Shanghai initial public offering (IPO) was more than 5,500 t
 
 ## Gap bucks retail headwinds with massive China expansion amid localisation drive
 Amid widespread store closures by foreign fast-fashion players in China, US apparel brand Gap is defying industry headwinds. It plans to open 50 new stores in mainland China this year and return to Hong Kong by year’s end, following a localisation overhaul that has attracted more Chinese consumers. 
-
-## Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources
-Fast-fashion retailer Shein Global Holdings is planning to take investor orders for its Hong Kong initial public offering (IPO) as soon as next week, aiming for a valuation of US$35 billion, according to people familiar with the matter. The Singapore-headquartered company, which was founded in China
 
 ## A Middle Eastern NATO?
 What’s behind the defense pact between Turkey, Saudi Arabia, and Pakistan.
@@ -159,6 +159,15 @@ Seldom before has the U.S. government intervened so actively in the economy.
 ## China Has Chosen to Disappoint Its Consumers
 Beijing’s choice moves Washington’s leverage from tariffs to currency.
 
+## Armistice Regime, Peace Regime, or Time for a Different Mindset on the Korean Peninsula?
+Adopting a new mindset for peacebuilding on the peninsula requires preserving what works while targeting individual issues that remain unresolved.
+
+## When Is a Central Asian Leaders Summit Not a Summit?
+The latest gathering of Central Asian leaders, plus Azerbaijan’s president, saw the signing of a declaration, but the “C5” have not quite become a “C6.”
+
+## ‘Golden Kamuy’ and Modern Russo-Japanese Relations
+The manga-turned-anime serves as an important pop cultural piece in understanding Japan’s place in the world, most specifically its historic role with Russia and their Northeast Asian borderlands.
+
 ## The Mecca Pact and America’s Reduced Leverage in West Asia
 Erosion of U.S. influence could, in the long run, impact arms sales, the negotiation of military basing rights, and the management of regional crises.
 
@@ -173,15 +182,6 @@ A Thailand-led push to re-engage the country's military-backed government is an 
 
 ## Indonesia’s President Nominates Central Bank Deputy as New Governor
 The rupiah rose slightly on news of Destry Damayanti's nomination, which will now pass to the House of Representatives for approval.
-
-## Art, Surveillance, and the Politics of Memory in Southeast Asia
-In recent years, the region has seen a worrying rise of moral policing and restrictions on cultural expression.
-
-## ASEAN Fractures Widen as Thailand Hosts Myanmar’s Min Aung Hlaing
-A conversation with Mark Cogan of Kansai Gaidai University in Osaka.
-
-## US Official Reassures Asia of Commitment, Calls for Greater Burden Sharing
-Undersecretary of War Elbridge Colby told an audience in Manila that U.S. interests are "more engaged than ever in the Indo-Pacific."
 
 ## Who Pays for America’s Research and Development?
 When the Soviet Union launched Sputnik in 1957, the U.S. government was the unrivaled patron of American science. It funded nearly two-thirds of the nation’s research and development — much of it for defense — defining the early Cold War. In a phenomenon that’s been widely explored in our Arsenal of
@@ -231,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russia frees ex-US marine Gilman jailed since 2022
+Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.
+
+## Oil prices rise as attacks dent hopes for Strait of Hormuz reopening
+Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.
+
+## Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says
+Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.
+
+## Dozens dead and missing after ferry capsizes in Zimbabwe
+An overloaded ferry capsized on Zimbabwe’s Lake Kariba, killing at least 15 people and leaving 27 missing.
+
+## Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran
+Iran's top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.
+
+## Stronghold of Syrian revolution celebrates Assad’s death sentence
+Syrians in Idlib gathered in celebration after a court sentenced ousted President Bashar al-Assad
+
+## On the ground in Cali, Colombia’s worst-hit city after the quake
+Reporting from the rubble of an apartment building, Al Jazeera’s Latin America Editor Lucia Newman describes the scene.
+
 ## Zambia to vote as economic hardship tests government reforms
 Debt restructuring, inflation and copper revenues are emerging as key issues in the vote.
 
-## N Korea launches ballistic missile as S Korea, US plan military drills
-Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.
-
-## Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz
-Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.
-
-## Cargo ship in flames after Houthi attack in Bab al-Mandeb strait
-Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.
-
-## Colombia scrambles to find survivors after deadly earthquake
-At least 254 deaths have been reported so far, as rescue workers continue to sift through collapsed buildings.
-
-## Father and sons forced to manually clear rubble in Gaza
-Forced to rely on basic tools, a father and his sons are clearing the rubble of their destroyed home in Gaza.
-
-## Relatives mourn victims of Pakistan avalanche
-Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gyalu Sherpa, and Nima Sherpa.
-
-## Pakistan interior minister in Tehran amid talks to reopen Hormuz
-Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.
+## India's direct tax collections rise 23% to Rs 8.11 lakh crore as non-corporate tax drives growth
+India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 lakh crore as of August 10, 2026, from Rs 6.59 lakh crore in the corresponding period last year, according to data released by the Income Tax Department.
 
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
@@ -276,8 +279,8 @@ In July, overseas investors turned their attention to Indian IT stocks, marking 
 ## FMCG makers plan more price hikes as input costs stay elevated; demand holds strong
 Leading FMCG firms are planning price increases and shrinkflation this quarter. Rising commodity costs and geopolitical issues are driving these necessary adjustments. Companies aim to protect profit margins while maintaining consumer demand and growth. Britannia and Dabur India are among those impl
 
-## India Inc CFOs back RBI's fourth straight rate pause, flag monsoon and geopolitical risks
-While domestic consumption remains robust, supporting corporate growth amid price increases, apprehension lingers about the impact of seasonal rains on rural markets. Companies continue to pursue their capital expenditure strategies, emphasizing long-term growth.
+## Govt to offer sops up to Rs 5,000 for electric two-wheelers till Mar 2028
+Government incentives for electric two-wheelers are extended until March 2028. Financing support mechanisms are being developed for electric buses and trucks. This initiative aims to reduce borrowing costs and accelerate EV adoption across segments. Registered electric two-wheelers will continue rec
 
 ## Sebi measures reduce equity F&O losses for retail investors in FY26
 Sebi's new rules significantly lowered retail investor losses in equity derivatives. Aggregate net losses dropped to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore. Retail investor volumes and overall trading turnover also saw a decline in the same period. Sebi implemented several measures since No
@@ -296,7 +299,4 @@ Indonesian and Indian trade ministers met to boost bilateral trade and investmen
 
 ## India amends FDI rules to boost e-commerce for small businesses, artisans, farmers, and fishermen: Union Minister Piyush Goyal
 India has amended foreign direct investment regulations to boost e-commerce trade. These changes will help small businesses, artisans, farmers, and fishermen access wider markets. BRICS ministers discussed enhancing trade, investment, and industrial cooperation among member nations. Discussions also
-
-## Trump says Congress wants to regulate AI industry "out of business"
-Recent incidents involving AI systems escaping containment have heightened cybersecurity concerns. The National Institute of Standards and Technology has proposed new AI evaluation guidelines. Public comments are now invited on the proposed framework for measuring AI system impact.
 
