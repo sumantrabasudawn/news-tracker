@@ -3,26 +3,26 @@
 ## World witnesses one of nature’s greatest spectacles: a total solar eclipse
 Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere
 
+## Mark Walter’s insurers rush to unwind affiliated investments
+TWG Global is seeking to refinance loans, restructure firms and bring in outside investors as prosecutors scrutinise books
+
+## US inflation falls to 3.4% in July
+Fallout from Iran war continues to reverberate across economy even as petrol prices decline
+
+## Burnham urges retailers to stop selling disposable BBQs amid wildfires
+PM holds emergency government meeting in response to drought and heatwaves
+
 ## Crackdown on zero-hours contracts could cost UK firms up to £3bn per year
 About £1.2bn will come from new rules forcing bosses to pay compensation for cancelled shifts
 
 ## The Amazon of used cars gets a balance sheet tune-up
 Carvana has long been a target of short sellers but bets against the company have fallen sharply
 
-## US inflation falls to 3.4% in July
-Fallout from Iran war continues to reverberate across economy even as petrol prices decline
-
 ## China is winning the race for the Ice Silk Road
 Melting in the Arctic is unleashing a geopolitical tussle over new trade routes
 
 ## US press groups sue Trump over fast access to Truth Social posts
 Lawsuit seeks to stop president from publishing official government announcements exclusively on the platform
-
-## ‘Glorious 12th’ kicks off UK shooting season as debate rages about its future
-Landowners and environmentalists disagree about how to protect Britain’s wild moorland
-
-## Is university still worth it?
-The education system has been too slow in giving students support to gain AI skills and work readiness
 
 ## Bob Iger and Josh Kushner in $12.5bn deal for Lakers basketball franchise
 Guggenheim’s Mark Walter sells team after just a year of ownership amid US inquiry into insurance empire
@@ -36,17 +36,11 @@ Trian Fund Management, BlueFive Capital and Flynn Group could submit offer in th
 ## Greenland oil wildcatters delay controversial drilling plan
 Big claims from new US explorer have run into permitting realities and a rebuke from island nation’s government
 
-## Smile, you’re on camera: when the boss wants to read your mood
-Patent records show how many companies are interested in trying to record how people feel
+## AvenuesAI net profit rises 45%, targets ₹13,000 crore revenue in FY27
+The fintech firm is targeting faster growth through Rediff, US payments expansion and an AI-led transaction intelligence platform called TISco.
 
-## Vestas shares soar as wind turbine orders bounce back
-Copenhagen-listed group raises profit guidance and announces share buyback
-
-## America’s largest home lender falls out of the hamster wheel
-Non-bank mortgage lending is in trouble
-
-## The west has given China the keys to the medicine cabinet
-The US and Europe led the antibiotic era but then outsourced the means to sustain it
+## July US CPI eases to 3.4%, keeping Fed September rate decision in focus
+July inflation data strengthened bets for a Fed rate hold, although persistent underlying pressures keep the possibility of a hike alive.
 
 ## Google Pixel 11 lineup launched with prices starting at $899
 The Pixel 11 series brings upgraded cameras, brighter displays and enhanced Gemini AI, while Google also expands its foldable smartphone lineup
@@ -65,12 +59,6 @@ Bosch Ltd expects its 14 per cent EBITDA margin to sustain as higher localisatio
 
 ## Karan Adani meets AP CM Naidu on ₹16,000-cr titanium plant in Srikakulam
 Adani Group also presents master plan for its proposed data centre and IT park in Visakhapatnam
-
-## Govt says ₹882-crore Truenat tender is for existing machines, not technology selection
-The ministry has maintained that the tender was not designed to favour a particular manufacturer
-
-## Gautam Adani on US case: ‘A chapter has closed, but our journey is a long one’
-While there was ‘a lot of noise outside’, employees, workers, suppliers, vendors, contractors and partners continued with their work, says Adani
 
 ## N Chandrasekaran steps down: How power struggle at Tata group is deepening with exit of Ratan Tata’s key allies
 The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate.
@@ -240,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Paramount Skydance mulls CNN sale amid antitrust merger challenge
+Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.
+
+## DR Congo Ebola outbreak set to become deadliest on record, WHO warns
+Outbreak to eclipse West Africa's Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.
+
+## Lebanese families demand release of detainees held by Israel
+Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.
+
+## Mount Etna eruption disrupts travel at Italy’s Catania airport
+Hundreds of passengers have been left stranded at Italy’s Catania airport after Mount Etna erupted.
+
 ## White House construction project to cost almost $1bn
 The White House defended reports it planned to spend nearly $1bn on controversial construction projects.
 
@@ -251,18 +251,6 @@ Trump claims pro-Israel lobbying no longer wields the power it had decades ago, 
 
 ## PSG vs Aston Villa LIVE: UEFA Super Cup 2026
 Live coverage and text updates from our commentary stream as PSG's Dembele, Doue and Barcola target more trophies.
-
-## Europe prepares for first total solar eclipse in 27 years
-Europe is gearing up for its first total solar eclipse in 27 years.
-
-## Colombia declares three days of mourning after deadly earthquake
-Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.
-
-## Is Russia’s economy cracking despite the Iran war windfall?
-A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.
-
-## WHO chief says Trump vaccine push goes against ‘decades of evidence’
-The US health secretary has spent years saying the MMR vaccine caused autism despite no medical evidence.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
