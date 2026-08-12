@@ -132,6 +132,12 @@ Hong Kong is doubling down on efforts to increase its stock market’s exposure 
 ## China’s quant funds have an edge on foreign rivals, even as Beijing curbs trading speed
 China’s quantitative funds have built trading strategies so closely tailored to the mainland market that foreign rivals cannot replicate them, even as a regulatory clampdown on trading speed reshapes the industry, according to a prominent economist. “If a top US quant team goes to Japan or India, th
 
+## Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles
+Kyiv and Moscow are trading heavier and heavier blows.
+
+## China Is Finding New Ways to Coerce Uyghurs Abroad
+Beijing is a pioneer in softer tools of transnational repression.
+
 ## The Next Front in LNG Sanctions Runs Through China
 Moscow will soon have to redirect a growing share of its exports to Asia.
 
@@ -149,12 +155,6 @@ The technology is far less divisive than in the United States.
 
 ## Colombia’s New President Faces His First Major Test
 President Abelardo de la Espriella took office mere days before a major earthquake struck the country.
-
-## The Regional Order Iran Wanted Is Taking Shape Without It
-Tehran has long called for greater cooperation among Muslim states. The Mecca pact is not what it had in mind.
-
-## Here’s What Middle Powers Can Actually Do
-Mark Carney’s vision has gone unrealized, but that doesn’t mean states should give up.
 
 ## Data of 15 Million Kazakhstanis Allegedly Leaked
 A hacker claims to have stolen the data from Kazakhstan eGov service. The authorities are investigating the claim.
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iceland and Spain plunged into darkness during total solar eclipse
+A total solar eclipse took place in Iceland and Spain as crowds gathered to watch.
+
+## Brazil orders Discord to suspend livestreams after teen’s death
+Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.
+
+## Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
+A US official confirmed that the United States expects to complete its pullout by September 30.
+
+## Thousands flee drought in Somalia amid sharp aid decline
+Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.
+
 ## Paramount Skydance mulls CNN sale amid antitrust merger challenge
 Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.
 
@@ -239,18 +251,6 @@ Lebanese families rallied in Beirut demanding answers about relatives detained b
 
 ## Mount Etna eruption disrupts travel at Italy’s Catania airport
 Hundreds of passengers have been left stranded at Italy’s Catania airport after Mount Etna erupted.
-
-## White House construction project to cost almost $1bn
-The White House defended reports it planned to spend nearly $1bn on controversial construction projects.
-
-## Drought exposes Nazi-era warship wrecks beneath the Danube
-Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels
-
-## Trump remarks on diminishing impact of pro-Israel groups in Congress
-Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.
-
-## PSG vs Aston Villa LIVE: UEFA Super Cup 2026
-Live coverage and text updates from our commentary stream as PSG's Dembele, Doue and Barcola target more trophies.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
