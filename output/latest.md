@@ -1,67 +1,61 @@
 # AION Intelligence
 
-## Singapore Airlines loses about S$1bn on Air India bet — with more pain forecast
-Timing of decision to take 25% stake ‘could not have been worse’, says executive
+## FirstFT: Vance asked Ukraine to halt strikes on tankers
+Also in today’s newsletter: Revolut cuts WeWork access, and night farming
 
-## Democratic socialist vies to win Wisconsin race in new threat to party leadership
-Primary victory would pit leftwing gubernatorial candidate against Trump-backed Republican in November midterms
+## China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack
+AI agents ran simultaneous reconnaissance and break-ins in display of new phase of cyberwarfare
 
-## Top Democrat demands briefing on secret mission to extract Trump from Turkey
-Chuck Schumer calls for full account of operation to protect president from alleged Iranian assassination threat
+## Poorer Americans are struggling to make ‘ends meet’, top Fed official says
+Boston central bank branch head Susan Collins would back September interest rate rise if inflation remains hot
 
-## India plans to tighten rules on foreign-funded NGOs
-Charities and religious groups fear new bill could lead to government confiscating assets
+## Britain needs more investors, not higher taxes on investment
+An increase in capital gains taxation would act against goals to support economic growth
 
-## UK police chiefs urge Burnham to prevent early release of officer’s killers
-Intervention comes after PM signals he thinks those behind the death of Andrew Harper will remain in prison
+## How to stop global warming
+The answer is obvious to all except the real climate change zealots: the anti-net zero movement
 
-## Households near UK grid upgrade projects in line for lower electricity bills
-Government aims to boost support for pylons and power lines needed to meet net zero targets
+## Revolut cuts back WeWork access for premium customers after price rises
+Subscribers lose access to in-demand European office spaces in cities including Paris, Brussels, Milan and London
 
-## Andy Burnham faces first real test over his handling of prisons crisis
-New UK prime minister has leaned into the idea that he can respond to Britons’ concerns
+## JD Vance asked Ukraine to halt strikes on tankers using Russian port
+Washington alarmed by Kyiv’s campaign on vessels collecting Kazakh oil from Novorossiysk
 
-## FirstFT: China tightens grip on Europe’s auto supply chain
-Also in today’s newsletter: US judge cites ‘concerning’ irregularities in Adani fraud case and the AI threat to India’s IT sector
+## Private equity can score top marks with education deals
+Britain’s universities offer rich pickings — and financial buyers are keen
 
-## Panama Canal fees hit record high as El Niño and Iran war choke shipping
-Falling water levels caused by weather phenomenon could limit transit slots through crucial maritime passageway
+## How AstraZeneca’s $400bn deal unravelled
+A chorus of investors revolted against the potential agreement
 
-## Deputy PM Salvini proposes windfall tax on Italian bank profits
-Plan for three-year levy comes amid strained public finances
+## Why everyone wants a one-carat ring
+Demand for solitaire diamonds is booming. And not just for proposals
 
-## UK letting agents under pressure from AI-assisted tenant complaints
-One agent said 90% of complaints arrive as email documents, often on multiple pages, showing signs of AI generation
+## Is my architect liable for extra costs?
+Our builder followed incorrect plans and the council is making us rectify the mistake at a cost of thousands of pounds
 
-## Heatwaves push European gas prices close to Iran war highs
-Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation
+## Sensex today | Stock Market Live: Sensex slips 325 points, Nifty below 24,400 amid weak global cues
+Sensex, Nifty, Share Prices Live: Indian equities traded lower on Wednesday as rising crude oil prices, weak global cues and geopolitical uncertainty weighed on sentiment. Investors remained cautious ahead of US inflation data, while developments around US-Iran negotiations and the Strait of Hormuz 
 
-## Rooftop panels in cities are no replacement for solar farms
-Cleve Hill, the UK’s largest solar park, is unpopular with locals but the country needs more like it
+## N Chandrasekaran steps down as Tata Sons Chairman, to serve out current term
 
-## TN CM Vijay to pilot Assembly resolution urging Centre to maintain Lok Sabha strength at 543
-Resolution expected to urge the Centre to implement 33% reservation for women in the 2029 election to the Lok Sabha
 
-## Sensex today | Stock Market Live: Sensex, Nifty open lower amid weak global cues and rising crude oil prices
-Sensex, Nifty, Share Prices Live: Indian equities opened weak on Wednesday as rising crude oil prices, subdued global markets and geopolitical uncertainty weighed on sentiment. Investors remained cautious ahead of US inflation data, while strong domestic tax collections and resilient growth prospect
+## Milky Mist IPO Day 2 Live Updates: ₹1,553-cr IPO subscribed 1.11x, Shiprocket IPO 20% in first hour
+Milky Mist IPO Day 2 live updates, Shiprocket IPO Day 1 Live Updates:
+
+## Yulu raises $93 mn in Series C funding round, plans to scale EV fleet to 2 lakh
+The funding comprises $63 million in equity led by GEF Capital Partners and $30 million in debt
+
+## Incorrect test-city communicated to some NEET-PG candidates due to technical issues: NBEMS
+SMS and emails indicating the correct test city have subsequently been sent, the Board said.
+
+## South Western Railway begins Vande Bharat safety trials in critical Western Ghat Section
+The field trials are significant considering the ghat section between Sakleshpur and Subrahmanya Road is among the most technically demanding stretches on the Bengaluru-Mangaluru railway line
 
 ## Q1 Results Today Live: Tata Motors, Apollo Hospitals, HAL, Grasim GMR Airports, Lenskart, Abbott, VA Tech, IRCON, AIA, IRCTC, Sun TV, EID Parry to announce Q1 results, NBCC, Siemens, RVNL, Kalpataru, MRF, Zydus Lifesciences, KPI Green, Manappuram Finance in focus, TD Power Systems, Finolex shares hit 52-week high
 Q1 Results Today, 12th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## ACV Auctions said to explore sale amid takeover interest
-ACV Auctions is also weighing a strategic partnership as an alternative to a sale
-
-## Rare Himalayan bee recorded in India for the first time in Arunachal Pradesh
-The discovery expands knowledge of eastern Himalayan pollinators and highlights the biodiversity still awaiting documentation across Arunachal Pradesh’s remote mountains.
-
-## Questions over ₹882-crore TB kit tender over brand-specific procurement; Govt says tender released to establish a rate contract for over 9,000 machines already available in the public health system
-Experts questioned why the tender identifies TrueNat by name instead of inviting bids for generic TB molecular diagnostic kits meeting prescribed technical specifications.
-
-## Shipping Ministry approves Rs 334.89-cr flyover at Visakhapatnam Port to ease cargo movement
-The 3.584-km elevated corridor would separate road and rail traffic within the port
-
-## Sham Foam launches ₹40.48 crore Initial Public Offering
-The IPO, which comprises a fresh issue of 31.14 lakh shares, received bids for 57,000 shares on the BSE SME platform, exchange data showed
+## Milky Mist IPO fully subscribed on Day 2, retail portion booked 1.26 times
+The IPO will close on August 13, with the price band fixed at ₹133-140 per share; The issue comprises a fresh issue of up to ₹1,428 crore and an offer-for-sale (OFS) of up to ₹125 crore
 
 ## Top stocks to buy today: Stock recommendations for August 12, 2026 - check list
 Stock market recommendations: JSW Energy, Gujarat Mineral Development Corporation (GMDC), and IRCTC have been recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares as the top stocks to buy today on August 12, 2026:
@@ -87,29 +81,32 @@ Stock market recommendations: JSW Energy, Gujarat Mineral Development Corporatio
 ## 4G phones get a lifeline as entry-level 5G prices rise
 
 
-## First batch of Agniveers set to retire soon, may get to pick next service
-The first batch of Agniveers are set to complete their four-year military service later this year and will likely be allowed to choose where they want to serve next, with the Union government considering giving them options across central armed police forces (CAPFs), state police forces, and Indian 
+## Full emergency at Chennai airport after left engine issue on IndiGo flight with 224 aboard
+The aircraft, which had 224 passengers on board, later landed safely at 11:37 pm, authorities added.
 
-## SC asks states, UTs to declare cancer as notifiable disease for early detection
-The Supreme Court on Tuesday asked states and union territories to consider issuing notification declaring cancer as a “notifiable disease” observing that a uniform policy is the need of the hour to ensure the burgeoning cancer cases can be effectively remedied
+## RSS wing seeks bans, boycott of US firms for tariffs over Russian oil purchase
+The SJM’s statement came weeks ahead of RSS chief Mohan Bhagwat’s visit to the US and Canada as part of an international outreach
 
-## Two killed as earth caves in at underpass construction site
-Two workers were killed and three injured on Tuesday after earth collapsed into an excavation at an underpass construction site near FTI Circle, in front of Dr Rajkumar Samadhi, raising questions about safety measures at the Bengaluru Development Authority (BDA) project
+## UP: Two brothers get 20 years for gang-rape; mother jailed for aiding confinement
+UP: Two brothers get 20 years for gang-rape; mother jailed for aiding confinement
 
-## CVC revises its master circulars on vigilance angle
-New Delhi: Financial and non-financial losses caused to a government department, need not necessarily be considered to be the result of corruption or malfeasance , and no government official should be retained at a sensitive post for unduly long period in the guise of indispensability, the Central V
+## SC sets aside protection from arrest granted to Future Group director in GST case
+The bench however, clarified that GST authorities are obligated to communicate to an individual the reasons for arrest recorded under Section 69 of the Central Goods and Services Tax (CGST) Act
 
-## Tamil Nadu adopts resolutions against NEET, FCRA
-The Tamil Nadu assembly on Tuesday passed two separate resolutions against the National Eligibility cum Entrance Test (NEET) and the Foreign Contribution (Regulation) Amendment (FCRA) Bill, even as the lone Bharatiya Janata Party (BJP) member opposed the resolutions and walked out of the House
+## Weather today LIVE updates: 5 killed in landslide in Mumbai, 200+ roads blocked in Himachal, rain likely in Delhi today
+Weather today LIVE updates: Delhi has received regular rainfall over the past few days, triggering traffic snarls across the city and the national capital region (NCR). The Kanwar Yatra chaos has also added to the woes posed by rain.
 
-## Lok Sabha gives nod to bill to rename Kerala, NCDC Bill
-The Kerala (Alteration of Name) Bill, 2026, and the National Co-operative Development Corporation (Amendment) BIll, 2026, were passed in the Lok Sabha without debate on Tuesday, amid heavy protest and sloganeering by the Opposition members of the House, who demanded an apology from Prime Minister Na
+## ‘Compromised PM sold India’s interest': Rahul Gandhi after US court's relief to industrialist Gautam Adani
+A US court dismissed criminal charges against Gautam Adani and associates, ending a legal saga.
 
-## Zepto and Indira canteen warehouses sealed over food hygiene violations
-Food safety officials on Tuesday sealed warehouses of Zepto and an Indira Canteen in Bengaluru after finding “unhygienic” food handling and storage conditions, officials said, as Karnataka widened its enforcement drive beyond restaurants and hotels to food storage and distribution facilities
+## India’s long-term urban transition requires strategic planning: Parl panel report
+The ministry instead cited AMRUT 2.0, Swachh Bharat Mission (Urban) 2.0, PMAY-U 2.0, metro rail projects and PM e-Bus Sewa as initiatives addressing infrastructure, service delivery
 
-## Police detains 116 foreign nationals over documents
-Bengaluru police have detained 116 foreign nationals suspected of staying in the city without valid documents and are verifying their identities and immigration records before deciding on further action, officials said on Tuesday
+## After anti-NEET bill, Vijay to move resolution to keep Lok Sabha strength at 543, backs women's reservation
+The resolution also called for the immediate implementation of the 33 per cent women's reservation in the existing 543 seats in the Lok Sabha.
+
+## China’s quant funds have an edge on foreign rivals, even as Beijing curbs trading speed
+China’s quantitative funds have built trading strategies so closely tailored to the mainland market that foreign rivals cannot replicate them, even as a regulatory clampdown on trading speed reshapes the industry, according to a prominent economist. “If a top US quant team goes to Japan or India, th
 
 ## HKEX pushes ahead on extended trading hours discussions as it prepares paper: sources
 Hong Kong Exchanges and Clearing (HKEX) will push ahead with talks on extending stock market trading hours by releasing a discussion paper, even as it faces brokers’ concerns over a longer trading time and cancellation of the trading lunch break, according to two sources with knowledge of the matter
@@ -117,7 +114,7 @@ Hong Kong Exchanges and Clearing (HKEX) will push ahead with talks on extending 
 ## What are China’s quantitative trading funds, and why are they so controversial?
 For years, quantitative trading was the undisputed darling of China’s stock market, using sophisticated algorithms and artificial intelligence to deliver eye-popping returns and grow into one of the most powerful drivers of trading volume and liquidity, even as traditional, discretionary stock-picke
 
-## Hong Kong property recovery faces new risk as China widens offshore tax net
+## Hong Kong property recovery faces new risk as Beijing widens offshore tax net
 Hong Kong’s property recovery could face a fresh test if China’s expanding crackdown on offshore wealth extends beyond insurance returns to property income, potentially curbing mainland demand for homes and adding pressure to decentralised office markets, according to analysts. The immediate issue i
 
 ## Rich Hongkongers rank travel over real estate in shifting life goals, survey shows
@@ -131,9 +128,6 @@ As demand for artificial intelligence infrastructure surges, Alibaba Group Holdi
 
 ## Unitree IPO deluge masks humanoid robots’ limitations
 Unitree Robotics’ Shanghai initial public offering (IPO) was more than 5,500 times oversubscribed by retail investors as optimism about fast stock gains and Chinese robot demand outweighed concerns about a US import ban. The 6.1 billion yuan (US$900 million) share sale drew 9.8 million orders from i
-
-## Gap bucks retail headwinds with massive China expansion amid localisation drive
-Amid widespread store closures by foreign fast-fashion players in China, US apparel brand Gap is defying industry headwinds. It plans to open 50 new stores in mainland China this year and return to Hong Kong by year’s end, following a localisation overhaul that has attracted more Chinese consumers. 
 
 ## A Middle Eastern NATO?
 What’s behind the defense pact between Turkey, Saudi Arabia, and Pakistan.
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Zelenskyy says Ukraine has sent proposals to US to end war with Russia
+Ukraine's president also says Russia will use its election next month as a pretext to declare a new mobilisation.
+
+## Can Trump keep his ‘irritation’ with Netanyahu in check?
+Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.
+
+## Israeli raids, demolitions continue as UN warns West Bank at breaking point
+Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.
+
+## Did Trump flee an Iranian assassination plot on a catering truck?
+New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.
+
+## Trump says secret plane switch ‘up to the Secret Service’
+US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.
+
+## Drone strikes power station near Libya’s largest oil refinery
+A drone has struck a power station in Libya’s western city of Zawiya
+
 ## Russia frees ex-US marine Gilman jailed since 2022
 Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.
 
 ## Oil prices rise as attacks dent hopes for Strait of Hormuz reopening
 Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.
-
-## Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says
-Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.
-
-## Dozens dead and missing after ferry capsizes in Zimbabwe
-An overloaded ferry capsized on Zimbabwe’s Lake Kariba, killing at least 15 people and leaving 27 missing.
-
-## Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran
-Iran's top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.
-
-## Stronghold of Syrian revolution celebrates Assad’s death sentence
-Syrians in Idlib gathered in celebration after a court sentenced ousted President Bashar al-Assad
-
-## On the ground in Cali, Colombia’s worst-hit city after the quake
-Reporting from the rubble of an apartment building, Al Jazeera’s Latin America Editor Lucia Newman describes the scene.
-
-## Zambia to vote as economic hardship tests government reforms
-Debt restructuring, inflation and copper revenues are emerging as key issues in the vote.
 
 ## India's direct tax collections rise 23% to Rs 8.11 lakh crore as non-corporate tax drives growth
 India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 lakh crore as of August 10, 2026, from Rs 6.59 lakh crore in the corresponding period last year, according to data released by the Income Tax Department.
