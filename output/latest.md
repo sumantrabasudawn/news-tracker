@@ -42,29 +42,35 @@ Swedish company was valued at $5.6bn only four months ago as interest in artific
 ## Everybody loves Nvidia — but then, they can’t afford not to
 There’s no mystery about why the Masters of the Universe are thrilled to be Huang’s wingmen
 
-## Milky Mist IPO Day 3 Highlights: ₹1,553-crore IPO booked over 56x on closing day
-Milky Mist IPO Day 3 updates, Shiprocket IPO Day 2 Updates: Follow businessline for more stock market news
-
-## Muthoot Fincorp files draft papers for ₹3,000 crore IPO
-The company plans to use the proceeds from the new issue to strengthen its Tier I capital base for future requirements
-
 ## Q1 Results Today Live: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Amber Enterprises, Brigade, JSW Cement to announce Q1 results
 Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## India options trading drops 27% as new auction upends strategies
-Many proprietary trading firms and high-frequency traders, which provide liquidity on expiry days, have either stayed away from the auction or reduced activity in the initial days
+## Jubilant FoodWorks profit rises as Domino's sales growth picks up
+Steady performance at Domino’s India and continued store expansion aid growth
 
-## Ladakh’s rare black-necked cranes face mounting threats
-The festival, being held from Aug. 11 to 14, has brought together conservationists, researchers and experts from India and abroad, including participants from Bhutan and Nepal, to discuss protection of the species and its fragile high-altitude habitat
+## Ministry of Corporate Affairs notifies changes in Indian Accounting rules
+The changes, effective August 12, align with OECD Pillar Two global tax reforms to enhance business transparency and compliance, according to a Ministry notification
 
-## F&B out-of-home sales volume dip 8.6 per cent, value growth in FY26 : Worldpanel by Numerator
-Group consumption ocassions, healthier food options reshaping the out-of-home food and beverage landscape
+## Fintech startup Navi said to hire banks for ₹3,000 crore IPO
+The IPO is expected to comprise a primary share sale, with no secondary offering by existing shareholders, the people said. Navi is seeking a valuation of as much as $2 billion and is targeting to file the prospectus by December
 
-## Sensex today | Stock Market Highlights: Sensex ends 113.61 points higher at 78,079; Nifty slips 40.10 points to 24,395
-Sensex, Nifty, Share Prices Highlights: Sensex managed to close 113.61 pts or 0.15% positive at 78,079.96 after hitting an intraday low of 77,665.89, and Nifty 50 was down 40.10 pts or 0.16% to 24,395.85.
+## Vizhinjam port to commence EXIM operations from Aug 18: Kerala CM Satheesan
+Kerala CM said the commencement of EXIM operations would be the first step towards enabling the state to directly benefit from the port's activities
 
-## NHAI sets 10-minute response time for highway ambulances; ₹10,000 penalty for delay
-NHAI, in its policy guidelines, further said that ambulances should bring accident victims to the nearest hospital within 1 hour from the time of ticket acceptance.
+## India in 'regular contact' with US on trade deal: Comm Secy
+Commerce Secretary Rajesh Agarwal said that both sides are committed to the framework deal that was agreed upon in February
+
+## Rahul Gandhi moves SC against Allahabad HC order in disproportionate assets case
+A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana is likely to hear the matter on August 17
+
+## Tamil Nadu govt’s maiden investment conclave finds commitment of ₹67,452 crore from 97 companies
+With these, cumulative investment commitments secured during the first 100 days of the new Tamil Nadu government has crossed ₹1 lakh crore
+
+## Indian IT sector job market is changing: What can get you hired & at a premium
+Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas.
+
+## India's trade deficit widens 31.5% to $15bn in July; electronics exports surge 11-fold
+In July, India faced a significant expansion in its trade deficit, as imports surged ahead of exports. Over the first four months of the fiscal year, cumulative trade gaps widened considerably. Nevertheless, merchandise exports reached impressive heights in July, with electronics manufacturing emerg
 
 ## US tariff threat on Russian oil: Bill a concern for India, but ‘talks have been reassuring’
 The proposed Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would empower the US President to levy tariffs of up to 100% on countries that purchase large volumes of crude oil and natural gas from Russia.
@@ -84,35 +90,35 @@ Gold had begun the week on a positive mark, breaking above the trendline resista
 ## Rupee falls 7 paise to 95.40 against US dollar amid FII selling, geopolitical risks
 The Indian Rupee weakened seven paise against the US dollar in early trade. Elevated crude oil prices and geopolitical uncertainty impacted investor sentiments significantly. The Strait of Hormuz standoff between the US and Iran added to market fragility. Foreign institutional investors were net sel
 
-## See Trump's posts first? Media groups sue over Truth Social’s paid access
-Press groups have filed a lawsuit against Trump Media & Technology Group. They challenge a new service offering paying customers early access to President Trump's posts. The lawsuit seeks to prevent exclusive release of official government information on the platform. Trump's firm defends the paid a
+## Kurukshetra man stabbed to death in Germany, had planned to visit home on Diwali
+The motive of the murder could not be immediately ascertained.
 
-## India looking to expand strategic petroleum reserves with new facilities in MP, Rajasthan
-India plans new petroleum reserves at Bina and Bikaner to boost energy security. Additional storage capacity is also being added at Mangalore for greater supply resilience. The government is also developing reserves at Padur and Chandikhol under its expansion plan. These projects aim to meet global 
+## PM Modi speaks with Sukhbir Singh Badal’s wife, asks about his health after Nanded attack
+Narendra Modi inquired about former Punjab deputy chief minister Sukhbir Singh Badal’s health in a phone conversation with his wife.
+
+## How Tata Sons will pick N Chandrasekaran's successor and who will choose him
+The Trusts specifically acknowledged Chandrasekaran's contribution during a period of "significant change, growth and transformation" across the Tata group.
+
+## 2 attacks in 2 years, 2 escapes: Sukhbir Singh Badal attack in Nanded reminiscent of close call in Amritsar
+Sukhbir Singh Badal survived an assassination attempt while performing sewa at the entrance of the Golden Temple in Amritsar on 4 December, 2024.
+
+## India, Indonesia launch project to restore 9th-century Prambanan Temple
+India and Indonesia have launched a landmark project to restore the 9th-century Prambanan Temple, a UNESCO World Heritage Site near Yogyakarta.
 
 ## Woman, 35, dies after husband allegedly sets her ablaze in Rajasthan: Police
 A 35-year-old woman died after her husband allegedly poured petrol on her and set her ablaze at her parental home in Rajasthan’s Sri Ganganagar.
 
-## Nihang in mid-60s: What we know about Sukhbir Singh Badal attacker
+## Nihang in 60s, worked as 'sewadar': What we know about Sukhbir Singh Badal's attacker
 Sukhbir Singh Badal was attacked while he was walking towards the langar hall after paying obeisance at the gurdwara.
 
 ## Govt says Track-2 dialogues with Pakistan outside its purview: ‘Individuals interacting in private capacity’
 On question asked by Kharge about Track-2 talks with Pakistan, MoS Kirti Vardhan Singh said participants act in private capacity.
 
-## Ex-district judge, 90, kept under ‘digital arrest’, cheated of ₹2.5 cr in Jaipur
-A 90-year-old retired district judge in Jaipur was allegedly kept under ‘digital arrest’ for 15 days and duped of ₹2.5 crore by fake CBI, RBI officials.
+## JD.com’s second-quarter profit climbs 15% as food-delivery losses narrow
+Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per cent year on year to 7.1 billion yuan (US$1.1 billion), beating market expectations despite a slight dip in overall revenue, as it contends with sluggish domestic consumer demand, fierce competition and a push into new bus
 
-## Himachal mostly dry amid scattered showers, heavy rain alert for Aug 14, 17, 18
-Of the 45 disrupted power transformers, 35 were in Mandi district, while 39 water supply schemes were affected across the state.
-
-## Din, disruptions and a dozen bills: Monsoon Session comes to a close
-The disruptions had two key flashpoints. One was the police crackdown on students at Jantar Mantar and the other was the alleged theft of Ram Temple donations.
-
-## Air India to screen all pilots for drug abuse after turbulent flight's captain found 'high'
-Air India stressed the need to go beyond regulations prescribed by the DGCA “ to uphold the highest standards of safety and professionalism".
-
-## 'No backdoor entry': Supreme Court gets UPSC undertaking on Odisha DGP selection
-The UPSC told the Supreme Court it will not finalise recommendations for Odisha’s next DGP until the court hears a plea challenging the selection process.
+## AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong
+China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand for domestic artificial intelligence chips free of US export controls. Net profit
 
 ## CK Hutchison Holdings reports 31-fold surge in first-half profit
 CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billionaire Li Ka-shing’s family, reported a 3,046 per cent increase in its first-half profit amid a period the firm’s chairman called “turbulent and uncertain”. Meanwhile, profit at CK Asset Holdings, the group’s other flagship
@@ -132,11 +138,8 @@ The gap in stock prices for dual-listed Chinese companies trading on the mainlan
 ## Hong Kong developer Hysan’s first-half earnings rise 7.4% as project milestones near
 Hysan Development, the largest commercial landlord in Hong Kong’s Causeway Bay shopping district, posted an underlying profit of HK$1.11 billion (US$140.19 million) for the first half of 2026, an increase of 7.4 per cent from a year earlier, driven by a realised gain from the sale of residential uni
 
-## China’s ‘brain chip’ drive accelerates with slew of state-backed initiatives
-For years, Elon Musk has dreamed of conquering a range of chronic health conditions by inserting computer chips into the human brain. But that vision could become reality fastest in China, where state authorities are launching a coordinated effort to accelerate the nascent industry’s development. Th
-
-## Why Hong Kong’s strategic advantages attract global talent
-A city’s ability to not only attract, but also retain high-calibre talent, plays an important role in the economic and policy development of governments around the world. Hong Kong has gained international recognition for its efforts in establishing itself as a world-class talent hub, with the city 
+## Drone Warfare Comes to Latin America
+Battle-tested tech from Ukraine has reached the region’s armed groups—and governments are struggling to catch up.
 
 ## What Does the Mecca Pact Deliver Pakistan?
 The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
@@ -158,9 +161,6 @@ A Bangkok visit by junta leader Min Aung Hlaing reinforced the two countries’ 
 
 ## The Houthis Are Risking Everything for Iran
 Tehran’s proxy risks pushing a newly consolidated Saudi Arabia into an all-out ground war.
-
-## A Middle Eastern NATO?
-What’s behind the defense pact between Turkey, Saudi Arabia, and Pakistan.
 
 ## Vietnam, Rare Earths, and the Evolving China Plus One Strategy
 Vietnam has benefited greatly from foreign firms' desire to de-risk from China. Can it free itself of dependence on the country's critical rare earth inputs?
@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Colombia earthquake response tests new far-right government
+Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
+
+## More than 135 million people in Europe set for temperatures over 35C
+Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.
+
+## Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’
+Israel carts away Gaza's rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.
+
+## Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest
+Fulham's friendly in Malaga turned sour as the Premier League club walked off ahead of a penalty shootout.
+
+## Civilian deaths in Ukraine in July hit highest level since May 2022: UN
+At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.
+
 ## Eurovision to bar countries at war from hosting: What that means
 Israel, which hosted the contest in 2019, will no longer be allowed to do so - but can still compete, protesters say.
 
@@ -242,21 +257,6 @@ Westbrook, a former NBA Most Valuable Player, holds the record for the most care
 
 ## Life and loss as a first responder in southern Lebanon
 A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon's largest city.
-
-## What postcolonialism looks like in Southeast Asia
-AJ's Jamal Elshayyal moderates a panel of academics and leaders from four countries
-
-## Japan protests as Russia’s Putin visits disputed Kuril Islands
-Japanese PM says Putin's visit to the Pacific island chain, seized by the Soviet Union in 1945, is 'unacceptable'.
-
-## Singapore-flagged container ship crashes into riverbank in India
-A Singapore-flagged container ship crashed into a bank of the Hooghly River in eastern India.
-
-## Yemeni forces say Houthi attack repelled in Taiz amid escalation
-Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.
-
-## La Liga: What to know ahead of new 2026-27 football season
-Predictions, news and transfer latest ahead of the new La Liga season, as Barcelona and Real Madrid renew title rivalry.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
