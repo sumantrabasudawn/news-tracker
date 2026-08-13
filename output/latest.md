@@ -1,10 +1,19 @@
 # AION Intelligence
 
+## Starmer allies warn Healey against blowing ‘strong’ economic inheritance
+Andy Burnham has signalled plans for spending increases
+
+## Trump enlists US tech groups for cyber privateering push
+Move echoes American Revolutionary War-era strategy of employing civilians to battle adversaries
+
+## Buyers should beware the dangers of new ETFs
+High leverage and insufficient oversight could amplify risks for individuals and markets
+
+## Seoul soars past Dubai as world’s busiest international airport
+South Korean hub receives boost as Iran war hits Middle East transfer passengers
+
 ## Burnham warns water companies against treating customers like ‘blank cheque’
 Prime minister criticises Ofwat decision to allow suppliers to raise bills by more than expected to pay for new projects
-
-## Donald Trump enlists corporate America in fight against cyber crime
-Privateering push echoes US revolutionary war-era strategy of employing civilians to battle adversaries
 
 ## US accuses more than 40 countries of helping China avoid Trump’s tariffs
 White House says Canada, Japan, EU and others enabling the evasion of levies for $60bn in trade via ‘transshipment scam’
@@ -15,14 +24,8 @@ Countryside battles punishing conditions as Britain faces its fifth heatwave of 
 ## Retail parks are the real threat to the British high street
 Outdoor commercial complexes are hot property, with supermarkets, stores and discount chains elbowing for room
 
-## Israeli settlers besiege Palestinian homes
-Incident in occupied West Bank is part of a broader campaign to push Palestinians off land
-
-## In charts: Private schools widen lead over state rivals on A-level results day
-A growing number of students are taking economics, politics and further maths
-
-## Starmer allies warn Healey against blowing ‘strong’ economic inheritance
-Andy Burnham has signalled plans for spending increases
+## Billionaires are taking over sports teams — and that’s a risk for fans
+Franchises risk getting caught up in the disparate affairs of their financier owners
 
 ## Passenger train derails near Lewes in East Sussex
 British Transport Police say paramedics and fire service are on site following the derailment
@@ -35,9 +38,6 @@ Personal details of people with Trezor hardware wallets stolen by hackers in sec
 
 ## The recovery in wind energy is picking up speed
 Prospects for the sector are looking up on hard-nosed commercial and strategic grounds
-
-## Seoul soars past Dubai as world’s busiest international airport
-South Korean hub receives boost as Iran war hits Middle East transfer passengers
 
 ## SEBI plans SME IPO route for companies valued up to ₹5,000 crore
 Regulator weighs to raise post-issue paid-up capital limit for SME listings to ₹100 crore from ₹25 crore, while easing minimum application size, market-making norms and underwriting norms to improve participation in the segment
@@ -87,6 +87,9 @@ The proposed Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would emp
 ## MDR on UPI soon? Parliamentary Panel recommends expeditious introduction on high-value transactions
 Commenting on the incentive programme for promoting RuPay Debit Cards and low-value BHIM-UPI transactions, the Committee noted that the budgetary allocation of Rs 2,000 crore to compensate for losses arising from the zero-MDR regime unnecessarily increases the Department's Demand for Grants
 
+## India needs a peaceful revolution: Sonam Wangchuk
+India needs a peaceful revolution: Sonam Wangchuk
+
 ## Noel Tata, TV Narendran: Who could take Chandrasekaran's mantle at Tata Sons?
 Tata Trusts said the trustees of Sir Dorabji Tata Trust have passed a resolution to set up a selection committee to recommend a new chairman for Tata Sons.
 
@@ -107,9 +110,6 @@ P Anushree, 25, and her fiancé V Amal, 26, were planning to marry in December.
 
 ## ‘What if all legal cockroaches came together?’: CJP founder Abhijeet Dipke recalls first post amid CJI-NALSAR row
 Abhijeet Dipke has teased a possible campaign seeking the resignation of BCI chairman Manan Kumar Mishra.
-
-## BCI halts enrolment of NALSAR 2026 graduates amid row over CJI Surya Kant in convocation, withdraws move later
-The BCI has also sought a factual report from the university on the persons allegedly instrumental in initiating and organising a campaign concerning CJI
 
 ## SF Reit’s distributable income falls 7.3% in first half as occupancy holds steady
 SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year. The firm – which is controlled by the Chinese logistics giant SF Holding – re
@@ -183,6 +183,9 @@ For the first time in eight decades, the country’s national song, Vande Matara
 ## Vietnam’s Top Leader Concludes Australia Visit With Trade, Defense in Focus
 In their updated Joint Vision Statement, Canberra and Hanoi identify a more challenging regional security environment.
 
+## The Commercial Space Race
+A strong commercial space industry is an important partner for the U.S. government, as it contributes to building more robust space and defense capabilities and facilitates innovation more broadly. As competition between the United States and China heats up, both countries look to the commercial spa
+
 ## The True Cost of Cheap Chips
 Given the relentless demand for computing power, electronic components are in scarce supply. Prices for certain memory chips, known as DRAM, have surged by more than 50 percent in a single quarter this year, and have roughly quadrupled since last fall. Because DRAM supply is tight, Apple, Dell, and 
 
@@ -203,9 +206,6 @@ When the Soviet Union launched Sputnik in 1957, the U.S. government was the unri
 
 ## Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective
 Nine countries now possess nuclear weapons. Arms control agreements painstakingly built over decades have collapsed. Geopolitical competition is intensifying rivalries between nuclear-armed powers. North Korea continues expanding its arsenal and delivery systems. China is on a trajectory to go from 
-
-## The White House Is Right on AI. Now Let Defenders Use It.
-The White House has the right instinct on AI. Its June 5 National Security Presidential Memorandum commits the government to putting the most capable models in the hands of national security professionals “without delay.” The military version of that bet is decision dominance: seeing, deciding, and 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Europe swelters in latest wave of extreme heat
+UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.
+
+## Carrick urges Manchester United to sign more transfers to boost title bid
+United's preseason outlay pales in comparison with some of their fellow title contenders.
+
+## Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students
+Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.
+
+## Poland arrests man who allegedly tried to kill Ukrainian American
+The suspect has been identified as a Russian citizen who planned to kill one of Moscow's critics in Warsaw.
+
+## Gaza mural for Burger King worker fired for shouting ‘Free Palestine’
+Artists in Gaza painted a mural honouring former Burger King employee Arianna Hamilton.
+
+## Trump administration ‘gutted’ federal civil rights enforcement, HRW says
+A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.
+
 ## DR Congo Ebola outbreak spreads to a sixth province
 Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.
 
 ## China and Indonesia’s joint naval drills anger Taiwan
 Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.
-
-## Reports of US sailors in Middle East trying to jump ship spark outcry
-US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.
-
-## Is Russia’s economy cracking despite the Iran war windfall?
-A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.
-
-## Zambian president Hichilema votes as he seeks second term
-Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.
-
-## Will all-out war in Yemen reignite as the Houthis escalate attacks?
-Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.
-
-## Turkiye’s AK Party turns 25: A journey of change and renewal
-In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.
-
-## Iran says Strait of Hormuz under its control, rejects Trump claims
-Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
