@@ -1,16 +1,19 @@
 # AION Intelligence
 
-## US sells 30-year bonds at highest borrowing costs since 2001
-Yields have jumped amid concerns over mounting public debt and persistently high inflation
+## UK houses caught up in wildfires during hottest day of the year
+Blazes at several locations in the Midlands as temperatures reach 38.1C in London
 
 ## 20 people injured in UK train derailment
 Three carriages on the Southern Rail service are flipped on to their side
 
+## FirstFT: The battle for control of India’s biggest conglomerate
+Also in today’s newsletter: Anthropic investors bet on $2tn valuation and Sanae Takaichi slams Vladimir Putin’s visit to disputed Pacific islands
+
+## US sells 30-year bonds at highest borrowing costs since 2001
+Yields have jumped amid concerns over mounting public debt and persistently high inflation
+
 ## FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire
 US scrutiny of billionaire’s sprawling finance holdings reached beyond insurers into securities and asset management giant
-
-## UK houses caught up in wildfires during hottest day of the year
-Blazes at several locations in the West Midlands as temperatures reach 38.1C in London
 
 ## Starmer allies warn Healey against blowing ‘strong’ economic inheritance
 Andy Burnham has signalled plans for spending increases
@@ -21,9 +24,6 @@ Move echoes American Revolutionary War-era strategy of employing civilians to ba
 ## Buyers should beware the dangers of new ETFs
 High leverage and insufficient oversight could amplify risks for individuals and markets
 
-## Seoul soars past Dubai as world’s busiest international airport
-South Korean hub receives boost as Iran war hits Middle East transfer passengers
-
 ## EY vaults from bottom to top of Big Four US audit quality league table
 Inspectors cited fewer flaws in the work of the biggest firms in latest accounting board survey
 
@@ -32,9 +32,6 @@ Franchises risk getting caught up in the disparate affairs of their financier ow
 
 ## AI has opened up big holes in cyber security
 It is too late to prevent the technology from being used as a damaging weapon, so great investment in defences is urgently needed
-
-## Nearly 14,000 crypto holders face security risk after data breach
-Personal details of people with Trezor hardware wallets stolen by hackers in second ‘cold’ storage attack in two weeks
 
 ## SEBI plans SME IPO route for companies valued up to ₹5,000 crore
 Regulator weighs to raise post-issue paid-up capital limit for SME listings to ₹100 crore from ₹25 crore, while easing minimum application size, market-making norms and underwriting norms to improve participation in the segment
@@ -108,6 +105,9 @@ P Anushree, 25, and her fiancé V Amal, 26, were planning to marry in December.
 ## ‘What if all legal cockroaches came together?’: CJP founder Abhijeet Dipke recalls first post amid CJI-NALSAR row
 Abhijeet Dipke has teased a possible campaign seeking the resignation of BCI chairman Manan Kumar Mishra.
 
+## Chinese banks test repo-linked corporate loans to make pricing more market-based
+Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test lenders’ risk management capabilities. The shift to the overnight or seven-day depo
+
 ## SF Reit’s distributable income falls 7.3% in first half as occupancy holds steady
 SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year. The firm – which is controlled by the Chinese logistics giant SF Holding – re
 
@@ -128,9 +128,6 @@ Chinese carmakers could capture between 15 and 30 per cent of the European autom
 
 ## Beijing’s offshore insurance tax tests Hong Kong wealth management
 Financial markets have been gripped by concern in recent days over reports that China was introducing a new tax on returns from offshore insurance policies. The significance of the episode could prove more complex than the initial market reaction suggests. According to a report from Caixin, Chinese 
-
-## AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong
-The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for artificial intelligence bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded 
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
