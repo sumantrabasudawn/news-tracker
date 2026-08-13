@@ -1,6 +1,18 @@
 # AION Intelligence
 
-## UK economy grew 0.4% in second quarter
+## UK growth resilient in second quarter
+Real GDP held up better than expected during the worst months of the energy price shock
+
+## Maersk chief calls for investment push to ease trade strains
+Container shipping group hiked guidance after port bottlenecks boosted freight rates and profits
+
+## Record number of UK students opt for degrees in engineering and tech
+Students securing university places for courses in social sciences and law also increased
+
+## South Korea orders new investors to take classes after single-stock trading frenzy
+Regulators tighten curbs less than three months after controversial products were introduced
+
+## UK economy grows 0.4% in second quarter
 Expansion comes as businesses weather surge in energy prices
 
 ## ‘The most difficult dilemma’
@@ -12,17 +24,14 @@ Turbulent transition awaits N Chandrasekaran’s successor at Tata Sons, which o
 ## FirstFT: Anthropic investors bet on $2tn valuation
 Also in today’s newsletter: Lab-grown diamonds and Wall Street’s wager on Nvidia’s AI chips
 
+## TSMC and Sony team up, China’s AI stocks swing
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+
 ## Wall Street’s basketball billionaire mess
 Two NBA owners are facing trouble in their Wall Street businesses
 
 ## Russian ghost fleet tankers use ‘Mad Max’ nets to fend off Ukraine’s drones
 Defences on vessels under sanctions aim to protect against Ukraine’s vast maritime drone campaign
-
-## Total cost of privately educating a child in the UK rises to £216,000
-Fees for boarding pupils rose slightly faster than day pupils to nearly £440,000
-
-## US justice department shifts focus to government programme fraud
-New priority comes as federal prosecutors pull back from other white-collar enforcement in Trump’s second term
 
 ## Legal AI start-up Legora seeks funds at more than $10bn valuation
 Swedish company was valued at $5.6bn only four months ago as interest in artificial intelligence tools for professional services soars
@@ -30,35 +39,38 @@ Swedish company was valued at $5.6bn only four months ago as interest in artific
 ## Everybody loves Nvidia — but then, they can’t afford not to
 There’s no mystery about why the Masters of the Universe are thrilled to be Huang’s wingmen
 
-## A reality check is needed on Arctic shipping
-It will take a long time before new routes become more than a niche commercial activity
-
-## Anthropic investors bet on $2tn valuation in record IPO
-Rapid revenue growth fuels hope that the Claude-maker can overcome challenges to become the biggest listing in history
-
-## Q1 Results Today Live: TMPV shares gain ahead of Q1 results today, Page Industries, Solar Ind, LG Electronics, Max Healthcare, GIC, Godrej, Jubilant Foodworks, Amber Enterprises, Indraprastha, Brigade, JSW Cement, Honasa to announce Q1 results
+## Q1 Results Today Live: Godrej Industries con. PAT declines 28% y-o-y, Aditya Birla Real Estate logs mixed Q1, TVS Srichakra PAT up, TMPV, Page Industries, Solar Ind, LG Electronics, Max Healthcare, GIC, Jubilant Foodworks, Amber Enterprises, Indraprastha, Brigade, JSW Cement, Honasa to announce Q1 results
 Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
-
-## India’s e-bus operators face higher funding needs as government subsidies decline
-The financing challenge comes as falling battery costs and lower operating expenses improve the long-term economics of electric buses
-
-## Gold touches two-month peak, then slips as traders pause for inflation cues
-Gold hit its highest since June 5 earlier
-
-## Tamil Nadu govt inks 97 MoUs for commitment of over ₹67,000 crore
-The MoUs were exchanged at the TVK government's first ‘Vettri Tamil Nadu Investors Conclave 2026', marking a major investment milestone since the Tamilaga Vettri Kazhagam formed the government in May.
-
-## Paperboard makers seek immediate anti-dumping duty on Indonesian imports
-The paperboard makers said India’s virgin paperboard industry suffered estimated losses of ₹242 crore in FY25 due to indiscriminate dumping by Indonesian manufacturers
-
-## Milky Mist IPO Day 3 Live: ₹1,553-crore IPO booked over 4 times, last day to subscribe, Shiprocket subscribed 2x on Day 2
-Milky Mist IPO Day 3 live updates, Shiprocket IPO Day 2 Live Updates: Follow businessline for more stock market news
-
-## Passenger vehicle dispatches rise 34.3% as auto sales set July record: SIAM
-2-wheeler sales rose 22.6% to 19,23,483 units last month, as against 15,69,120 units in July last year
 
 ## Sensex today | Stock Market Live: Sensex, Nifty trade lower despite positive global cues; crude prices remain a concern
 Sensex, Nifty, Share Prices Live: Indian equities remained subdued despite stronger Asian markets, with firm crude prices and geopolitical risks keeping investors cautious. Domestic inflation, MSCI’s latest reshuffle and expectations around RBI policy are also likely to influence trading sentiment d
+
+## From Prevention to Lifelong Care: India's First Comprehensive LE&RN-Accredited Lymphedema Clinic Opens at Apollo Athenaa
+From Prevention to Lifelong Care: India's First Comprehensive LE&RN-Accredited Lymphedema Clinic Opens at Apollo Athenaa
+
+## IFSCA Grants Nexent Capital GIFT City Investment Banking License
+IFSCA Grants Nexent Capital GIFT City Investment Banking License
+
+## US states issue special proclamations to commemorate August 15, 2026 as ‘India Day’
+Delaware is the latest US state, after New York, New Jersey and Massachusetts, to issue a proclamation on the occasion of India's independence day, declaring August 15, 2026, as ‘India Day’.
+
+## Milky Mist IPO Day 3 Live: ₹1,553-crore IPO booked 10x with few hours left to close, Shiprocket subscribed over 2x on Day 2
+Milky Mist IPO Day 3 live updates, Shiprocket IPO Day 2 Live Updates: Follow businessline for more stock market news
+
+## Motilal Oswal Group to invest ₹1,500 crore in Inox Clean Energy
+This follows a ₹700 crore investment from the Adar Poonawalla Family Office in Inox Clean.
+
+## FSSAI suspends license of Narayani Foods & Beverages, Zaiqaa Organixs, AB Enterprise
+The regulator cited serious food safety violations, poor sanitation, contamination risks and non-compliance with mandatory requirements across the three businesses.
+
+## MDR on UPI soon? Parliamentary Panel recommends expeditious introduction on high-value transactions
+Commenting on the incentive programme for promoting RuPay Debit Cards and low-value BHIM-UPI transactions, the Committee noted that the budgetary allocation of Rs 2,000 crore to compensate for losses arising from the zero-MDR regime unnecessarily increases the Department's Demand for Grants
+
+## ‘Respect decision’: Tata Trusts reacts to N Chandrasekaran’s exit move; panel to select successor
+The Sir Dorabji Tata Trust (SDTT) has begun the process of appointing a successor to N Chandrasekaran as chairman of Tata Sons, a day after he announced that he would not seek another term when his current tenure concludes on February 20, 2027.
+
+## E20 petrol row: Carmakers' internal data flags fuel contamination concerns; complaint later withdrawn
+The rollout of E20 petrol has sparked dissatisfaction among motorists, with hundreds claiming the fuel has lowered vehicle mileage, increased wear and tear and even prompted at least one legal challenge.
 
 ## Gold, silver price prediction: Is gold, silver bull run back? Check outlook on August 13, 2026
 Gold had begun the week on a positive mark, breaking above the trendline resistance while the weekly trend keeps the door open for further gains. The 149,000 mark is the backbone of the bullish setup.
@@ -75,41 +87,32 @@ India plans new petroleum reserves at Bina and Bikaner to boost energy security.
 ## Parliament panel questions why rising oil & gas capex isn’t boosting production
 A parliamentary committee is increasingly scrutinizing whether the surge in oil and gas investments actually translates to higher domestic output. With a notable rise in capital expenditure, projections indicate a decline in crude oil production. The committee demands a comprehensive report detailin
 
-## Power ministry asks states to accelerate smart meter installation
+## Lok Sabha passes bill restricting states’ power to tax minerals amid protests
+The bill, which amends the Mines and Minerals (development and regulation) Act, 1957, was introduced on Monday by minister of coal and mines G Kishan Reddy.
 
+## Serious allegations in report on Messi event; govt examining it: Kerala CM
+Serious allegations in report on Messi event; govt examining it: Kerala CM
 
-## Stock market today: BSE Sensex falls 160 points, NSE Nifty50 opens below 24,350
+## Congress, SP, TMC boycott customary meet with Speaker after acrimonious session
+A Congress leader said they have nothing against the Speaker but avoided joining the meeting as nothing substantial was discussed
 
+## ‘Respect his decision’: Tata Trusts on Chandrasekaran’s call to step down
+Tata Sons Chairman N Chandrasekaran said he decided against seeking another term after the proposal for his reappointment failed to receive unanimous backing.
 
-## Top stocks to buy today: Stock recommendations for August 13, 2026 - check list
-Top stock market recommendations: Indian Bank, DLF, and Polycab India - Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management has picked these three stocks.
+## Assam CM Himanta Sarma calls for peace as fresh clash erupts along border with Arunachal Pradesh
+Fresh clashes erupted between protestors from Assam and Arunachal Pradesh in Dhemaji district amid the ongoing call for an economic blockade of Itanagar.
+
+## Kharge raises Uttarakhand post-rally ‘purification’, Rajya Sabha chair seeks probe
+Kharge said he is not making it a political issue, but a case under the Untouchability (Offences) Act should be filed and the accused should be arrested
+
+## SC to test legality of Delhi Police use of facial recognition of protesters
+The bench issued notice to the Centre and the Delhi Police commissioner challenging the alleged use of facial recognition technology and biometric identification tools against protesters
 
 ## Heavy rain lashes Odisha, IMD issues 'red warning' for entire state
 Heavy rain lashes Odisha, IMD issues 'red warning' for entire state
 
-## UP man caught after hiding inside box in widow's room for 3 days in Jalaun; paraded with woman around village
-The man had fled his home after a dispute with his wife and was in contact with the widow. No complaint has been filed yet.
-
-## Hydraulic pressure, autopilot disconnect: Turbulence-hit Air India Phuket-Delhi flight logged 9 warnings in a minute
-Air India Phuket-Delhi flight: Warnings indicated low reservoir levels in the Yellow and Blue systems, autopilot disconnect and elevator flight-control fault.
-
-## 'Pakistan exporting terror; J&K not an issue…': On 1995 Independence Day, PV Narasimha Rao's warning
-As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister P. V. Narasimha Rao's Independence Day address from the Red Fort.
-
-## 'Foreign infiltrators, arms smuggling…': on 1996 Independence Day, PM Deve Gowda's Northeast alert
-As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister H. D. Deve Gowda's Independence Day address from the Red Fort.
-
-## Contractor gunned down by unknown people during morning walk in Bihar: Police
-The contractor was taking a morning walk near his house. Four miscreants on two bikes came and fled after firing. Ramnaresh died on the spot after being hit by four bullets
-
-## House panel criticises Union government’s flagship welfare support for fisherfolk
-The panel said only about 2.1% of the estimated 28 million fisherfolk received assistance during the annual fishing ban between 2020 and 2025
-
-## 2020 Delhi riots: Court says 'unsafe' to rely on tainted witness testimony
-2020 Delhi riots: Court says 'unsafe' to rely on tainted witness testimony
-
 ## AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong
-The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for AI bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded on mainland China’s e
+The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for artificial intelligence bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded 
 
 ## Hong Kong developer Hysan’s first-half earnings rise 7.4% as project milestones near
 Hysan Development, the largest commercial landlord in Hong Kong’s Causeway Bay shopping district, posted an underlying profit of HK$1.11 billion (US$140.19 million) for the first half of 2026, an increase of 7.4 per cent from a year earlier, driven by a realised gain from the sale of residential uni
@@ -180,6 +183,12 @@ Whether or not Japan’s nuclear policy is actually revised, the very fact that 
 ## The Cyrillic Stalemate: Why Uzbekistan’s Alphabet Reform is Still Stuck 30 Years Later
 Changing an alphabet involves more than just replacing letters; it requires a profound transformation of the state’s institutional and cultural fabric.
 
+## The True Cost of Cheap Chips
+Given the relentless demand for computing power, electronic components are in scarce supply. Prices for certain memory chips, known as DRAM, have surged by more than 50 percent in a single quarter this year, and have roughly quadrupled since last fall. Because DRAM supply is tight, Apple, Dell, and 
+
+## 2026 and All That: Another Benchmark Year in Royal Navy Decline
+The 1930 comic history, 1066 and All That, made famous the British habit of reducing national history to a sequence of memorable dates. The modern Royal Navy has its own unhappy version of that calendar. Since 1945, a series of ostensibly practical political decisions has steadily reduced Britain’s 
+
 ## Russia’s Blurry Line Between Science and Sabotage Beneath the Ocean’s Surface
 In 2025, Nurlan Aliyev wrote, “The Mayhem of Russia’s “Research” Fleet,” where he argued that NATO must act decisively to safeguard critical undersea infrastructure from Russian sabotage attempts. A year later, we asked him to revisit his arguments. Image: Andrey Luzik via Wikimedia CommonsIn your 2
 
@@ -197,12 +206,6 @@ Nine countries now possess nuclear weapons. Arms control agreements painstakingl
 
 ## The White House Is Right on AI. Now Let Defenders Use It.
 The White House has the right instinct on AI. Its June 5 National Security Presidential Memorandum commits the government to putting the most capable models in the hands of national security professionals “without delay.” The military version of that bet is decision dominance: seeing, deciding, and 
-
-## Is Ukraine Drifting Towards Groupthink on European Integration?
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
-
-## What America Learned About Democracy When It Gained Stealth
-Editor’s note: This is the seventh article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sel
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,32 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## The US is now using the ‘terrorist’ label to interfere in Brazil’s election
-The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.
+## Three US states to hold executions on same day for first time since 2010
+The last three executions on the same day happened 16 years ago, in Louisiana, Ohio and Texas.
 
-## Will the Houthis shut down Saudi Arabian shipping?
-The announcement of a new naval blockade threatens to restart full-scale war between Yemen's Houthis and Saudi Arabia
+## Swiatek sinks Svitolina to set up Rybakina title clash in Toronto
+Iga Swiatek will face Elena Rybakina for the Toronto tennis title, as Elina Svitolina and Coco Gauff exit in semifinals.
 
-## Polls open in Zambia presidential election as economic reforms tested
-The vote will test if incumbent Hakainde Hichilema's reforms are enough to overcome widespread economic frustration.
+## US defence secretary says drug cartels will be ‘targeted like ISIS’
+US defence secretary says drug cartels will be ‘targeted like ISIS’
 
-## Nearly 4 million Afghan children ‘acutely malnourished’
-One in 10 children in Afghanistan are suffering as healthcare funding plummets, Save the Children says.
+## Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final
+Malawi will face Cameroon in the Women's Africa Cup of Nations final after respective wins over Algeria and Morocco.
 
-## Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors
-Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.
+## Messi plays in Inter Miami defeat by Leon only hours after retirement hint
+Argentina star Lionel Messi hinted at retirement on Wednesday before featuring in Inter Miami's defeat by Leon.
 
-## Why tariffs are not the right tool to bolster US production
-Donald Trump’s second term has been defined by tariffs, but experts question whether they actually work.
+## Israeli strikes in south Lebanon a ‘violation of international law’: PM
+Prime Minister Nawaf Salam rejects Israel's claim that villages destroyed in southern Lebanon were military sites.
 
-## Leavitt to leave as White House press secretary
-Karoline Leavitt has announced that she will be stepping down from her position as White House press secretary.
+## Palestinian women in Gaza face legal hurdles in divorce struggles
+Amid legal struggles, Gaza women opt for quicker divorces, sacrificing rights to escape prolonged court battles.
 
-## Three Palestinian families besieged in their homes by Israeli settlers
-Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.
+## ‘They destroyed us’: Palestinian family sleeps in the open after demolition
+Palestinian family's home demolished despite court order, leaving them homeless under sweltering heat in the West Bank.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
+
+## Only 22 Women CFOs, 9 CEOs Among Top 500 Listed Firms
+Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly listed companies in India, which equates to only 4.4% of these significant financial leadership positions. At the Chief Executive Officer level, representation is even more dismal with only nine women holding the title. 
 
 ## N Chandrasekaran’s five big moves: The bets and battles that defined his Tata Sons tenure
 From rebuilding Tata’s aviation franchise to placing a massive bet on semiconductors and accelerating the group’s energy transition, N Chandrasekaran’s decade at the helm has been defined by long term bets aimed at reshaping the conglomerate for India’s next phase of growth.
@@ -273,9 +279,6 @@ India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 l
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
 
-## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
-The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
-
 ## India, Southern African Customs Union sign terms of reference towards trade pact
 The government on Wednesday said that India and the Southern African Customs Union (SACU) have signed the Terms of Reference (ToR) for negotiations towards a Preferential Trade Agreement (PTA) between India and SACU, marking an important step towards strengthening trade and economic engagement.
 
@@ -290,6 +293,9 @@ Sebi's new rules significantly lowered retail investor losses in equity derivati
 
 ## BRICS nations discuss linking payment systems and CBDCs, RBI chief says
 BRICS nations are exploring connections between their fast payment systems and central bank digital currencies. This initiative aims to significantly reduce the cost of cross-border payments for member countries. India is also working to promote the international use of its local currency, the rupee
+
+## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
+The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
 
 ## Rs 20,000 crore credit guarantee plan misses the mark
 Banks have disbursed merely seventeen percent of the credit guarantee scheme funds. Loan sanctions remain slow as banks show caution with smaller microfinance institutions. Larger microfinance companies are hesitant to borrow under the government's guarantee program. About one thousand crore rupees 
