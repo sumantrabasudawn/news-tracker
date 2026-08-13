@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Are droughts and wildfires our new normal? Submit your questions
+Take part in a live Ask an Expert Q&A with business columnist Pilita Clark and climate correspondent Attracta Mooney today at 1pm (BST)
+
 ## UK growth resilient in second quarter
 Real GDP held up better than expected during the worst months of the energy price shock
 
@@ -19,13 +22,13 @@ Expansion comes as businesses weather surge in energy prices
 Monetary policy and supply shocks
 
 ## The battle for control of India’s $280bn Tata Group
-Turbulent transition awaits N Chandrasekaran’s successor at Tata Sons, which owns Air India and Jaguar Land Rover
-
-## FirstFT: Anthropic investors bet on $2tn valuation
-Also in today’s newsletter: Lab-grown diamonds and Wall Street’s wager on Nvidia’s AI chips
+Turbulent transition awaits N Chandrasekaran’s successor at conglomerate that owns Air India and Jaguar Land Rover
 
 ## TSMC and Sony team up, China’s AI stocks swing
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+
+## FirstFT: Anthropic investors bet on $2tn valuation
+Also in today’s newsletter: Lab-grown diamonds and Wall Street’s wager on Nvidia’s AI chips
 
 ## Wall Street’s basketball billionaire mess
 Two NBA owners are facing trouble in their Wall Street businesses
@@ -39,29 +42,29 @@ Swedish company was valued at $5.6bn only four months ago as interest in artific
 ## Everybody loves Nvidia — but then, they can’t afford not to
 There’s no mystery about why the Masters of the Universe are thrilled to be Huang’s wingmen
 
-## Q1 Results Today Live: Godrej Industries con. PAT declines 28% y-o-y, Aditya Birla Real Estate logs mixed Q1, TVS Srichakra PAT up, TMPV, Page Industries, Solar Ind, LG Electronics, Max Healthcare, GIC, Jubilant Foodworks, Amber Enterprises, Indraprastha, Brigade, JSW Cement, Honasa to announce Q1 results
-Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## Tamil Nadu govt’s maiden investment conclave attracts ₹67,452 cr from 97 companies
+With these, cumulative investment commitments secured during the first 100 days of the new Tamil Nadu government has crossed ₹1 lakh crore
 
-## Sensex today | Stock Market Live: Sensex, Nifty trade lower despite positive global cues; crude prices remain a concern
+## Sensex today | Stock Market Live: Sensex, Nifty trade with negative bias amid firm crude oil prices
 Sensex, Nifty, Share Prices Live: Indian equities remained subdued despite stronger Asian markets, with firm crude prices and geopolitical risks keeping investors cautious. Domestic inflation, MSCI’s latest reshuffle and expectations around RBI policy are also likely to influence trading sentiment d
 
-## From Prevention to Lifelong Care: India's First Comprehensive LE&RN-Accredited Lymphedema Clinic Opens at Apollo Athenaa
-From Prevention to Lifelong Care: India's First Comprehensive LE&RN-Accredited Lymphedema Clinic Opens at Apollo Athenaa
+## L&T secures AI data centre order worth up to ₹15,000 crore
+The centre, hosted at the firm’s ⁠Vyoma.AI unit in Chennai, will have a capacity of 10,000 NVIDIA B300 chips.
 
-## IFSCA Grants Nexent Capital GIFT City Investment Banking License
-IFSCA Grants Nexent Capital GIFT City Investment Banking License
+## Q1 Results Today Live: Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Minda Corp PAT up, Godrej Industries con. PAT declines, TMPV, LG Electronics, Amber Enterprises, Brigade, JSW Cement, Honasa to announce Q1 results
+Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## US states issue special proclamations to commemorate August 15, 2026 as ‘India Day’
-Delaware is the latest US state, after New York, New Jersey and Massachusetts, to issue a proclamation on the occasion of India's independence day, declaring August 15, 2026, as ‘India Day’.
+## Parliament passes Mines and Minerals Amendment Bill
+Mines Minister G Kishan Reddy said the legislation does not seek to interfere with the autonomy or revenue rights of states, but aims to ensure uniform mineral rates across the country
 
-## Milky Mist IPO Day 3 Live: ₹1,553-crore IPO booked 10x with few hours left to close, Shiprocket subscribed over 2x on Day 2
+## Of hospitality and hospitals: Health panel report calls for transparent pricing, grievance redressal mechanisms
+Unhappy with being equated to the hospitality industry, healthcare associations are pointing to their layered costs and several compliances that add to their costs.
+
+## Milky Mist IPO Day 3 Live: ₹1,553-crore IPO booked 25x with few hours left to close, Shiprocket subscribed over 2x on Day 2
 Milky Mist IPO Day 3 live updates, Shiprocket IPO Day 2 Live Updates: Follow businessline for more stock market news
 
-## Motilal Oswal Group to invest ₹1,500 crore in Inox Clean Energy
-This follows a ₹700 crore investment from the Adar Poonawalla Family Office in Inox Clean.
-
-## FSSAI suspends license of Narayani Foods & Beverages, Zaiqaa Organixs, AB Enterprise
-The regulator cited serious food safety violations, poor sanitation, contamination risks and non-compliance with mandatory requirements across the three businesses.
+## Can the Kospi bull run last? Korean stocks jump 22% in 10 days on AI rally
+Heavyweight memory chipmakers Samsung Electronics Co and SK Hynix Inc drive advance
 
 ## MDR on UPI soon? Parliamentary Panel recommends expeditious introduction on high-value transactions
 Commenting on the incentive programme for promoting RuPay Debit Cards and low-value BHIM-UPI transactions, the Committee noted that the budgetary allocation of Rs 2,000 crore to compensate for losses arising from the zero-MDR regime unnecessarily increases the Department's Demand for Grants
@@ -87,29 +90,38 @@ India plans new petroleum reserves at Bina and Bikaner to boost energy security.
 ## Parliament panel questions why rising oil & gas capex isn’t boosting production
 A parliamentary committee is increasingly scrutinizing whether the surge in oil and gas investments actually translates to higher domestic output. With a notable rise in capital expenditure, projections indicate a decline in crude oil production. The committee demands a comprehensive report detailin
 
-## Lok Sabha passes bill restricting states’ power to tax minerals amid protests
-The bill, which amends the Mines and Minerals (development and regulation) Act, 1957, was introduced on Monday by minister of coal and mines G Kishan Reddy.
+## Andhra:2018 Andhra Group-I exam riddled with irregularities, say SIT probe
+Andhra:2018 Andhra Group-I exam riddled with irregularities, say SIT probe
 
-## Serious allegations in report on Messi event; govt examining it: Kerala CM
-Serious allegations in report on Messi event; govt examining it: Kerala CM
+## Fourth rail line approved through strategic 'Chicken's Neck' corridor: official
+Fourth rail line approved through strategic 'Chicken's Neck' corridor: official
 
-## Congress, SP, TMC boycott customary meet with Speaker after acrimonious session
-A Congress leader said they have nothing against the Speaker but avoided joining the meeting as nothing substantial was discussed
+## Ex-TMC MLA Nirmal Ghosh arrested for ‘hastily cremating’ RG Kar rape-murder victim
+West Bengal chief minister Suvendu Adhikari had ordered the Barrackpore Police Commissioner to conduct a fresh probe into the alleged hasty cremation.
 
-## ‘Respect his decision’: Tata Trusts on Chandrasekaran’s call to step down
-Tata Sons Chairman N Chandrasekaran said he decided against seeking another term after the proposal for his reappointment failed to receive unanimous backing.
+## RS Chairman regrets disruptions during Monsoon Session; House productivity only 39 pc
+RS Chairman regrets disruptions during Monsoon Session; House productivity only 39 pc
 
-## Assam CM Himanta Sarma calls for peace as fresh clash erupts along border with Arunachal Pradesh
-Fresh clashes erupted between protestors from Assam and Arunachal Pradesh in Dhemaji district amid the ongoing call for an economic blockade of Itanagar.
+## Excise policy: Arvind Kejriwal, Manish Sisodia move Delhi HC to dismiss CBI’s appeal
+Kejriwal and Sisodia argued that the agency filed the appeal with “unprecedented haste” and in a manner that reflected a lack of seriousness
 
-## Kharge raises Uttarakhand post-rally ‘purification’, Rajya Sabha chair seeks probe
-Kharge said he is not making it a political issue, but a case under the Untouchability (Offences) Act should be filed and the accused should be arrested
+## Violence erupts in Manipur as nine houses, church set ablaze by unknown armed miscreants in Kangpokpi district
+Local officials seek urgent action and support for displaced families, citing inadequate security response during the incident amid ongoing community tensions.
 
-## SC to test legality of Delhi Police use of facial recognition of protesters
-The bench issued notice to the Centre and the Delhi Police commissioner challenging the alleged use of facial recognition technology and biometric identification tools against protesters
+## Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+A Delhi court said three subject experts accused in the NEET-UG 2026 paper leak prima facie committed criminal breach of trust with the NTA.
 
-## Heavy rain lashes Odisha, IMD issues 'red warning' for entire state
-Heavy rain lashes Odisha, IMD issues 'red warning' for entire state
+## Nurse’s body recovered from locked toilet at Kolkata’s state-run NRS Hospital
+West Bengal health minister Sharadwat Mukherjee and top police officers rushed to the hospital when the news broke on Thursday morning
+
+## ‘Very smooth’: passenger shares experience on C919’s first commercial international flight
+Arriving at his gate at Beijing Capital International Airport for a routine business trip to the Mongolian capital of Ulaanbaatar on Wednesday, Howard Deng was unaware he was about to take part in a Chinese aviation milestone. Air China flight 723 marked the first international service featuring the
+
+## Chinese carmakers could capture 15% to 30% of European market by 2035: Citi analysts
+Chinese carmakers could capture between 15 and 30 per cent of the European automotive market by 2035, up from roughly 10 per cent this year, analysts at Citi said, with the outcome resting on how far Brussels goes in tightening tariffs and made-in-EU rules. Current European Union rules would allow C
+
+## Beijing’s offshore insurance tax tests Hong Kong wealth management
+Financial markets have been gripped by concern in recent days over reports that China was introducing a new tax on returns from offshore insurance policies. The significance of the episode could prove more complex than the initial market reaction suggests. According to a report from Caixin, Chinese 
 
 ## AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong
 The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for artificial intelligence bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded 
@@ -125,15 +137,6 @@ A city’s ability to not only attract, but also retain high-calibre talent, pla
 
 ## Fubon Bank’s Hong Kong subsidiary opens first mainland China branch in Shenzhen
 Fubon Bank (Hong Kong) has opened its first branch outside its home market, moving into mainland China to tap surging cross-border business opportunities as competition among foreign lenders in the Greater Bay Area intensifies. The branch, located in Shenzhen’s Qianhai financial zone, would initiall
-
-## Can Berkshire Hathaway without Warren Buffett remain a ‘north star’ for China’s investors?
-For decades, thousands of Chinese investors made pilgrimages each spring to Omaha, in the central US state of Nebraska, treating Warren Buffett’s shareholder meetings for investment firm Berkshire Hathaway less as corporate briefings than as audiences with an oracle. Buffett’s retirement as CEO, eff
-
-## HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
-HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle of its insurance unit, with two senior executives appointed to replace outgoing global insurance CEO Edward Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSB
-
-## Hong Kong stablecoin selection expands with Standard Chartered-led venture’s launch
-A Standard Chartered-led joint venture kicked off institutional use of Hong Kong dollar-backed stablecoins on Wednesday, a year after the city put its stablecoin law into effect as part of an effort to become a global hub for digital assets. Retail use of the regulated cryptocurrency was expected “a
 
 ## What Does the Mecca Pact Deliver Pakistan?
 The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Three US states to hold executions on same day for first time since 2010
-The last three executions on the same day happened 16 years ago, in Louisiana, Ohio and Texas.
+## Yemeni forces say Houthi attack repelled in Taiz amid escalation
+Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.
 
-## Swiatek sinks Svitolina to set up Rybakina title clash in Toronto
-Iga Swiatek will face Elena Rybakina for the Toronto tennis title, as Elina Svitolina and Coco Gauff exit in semifinals.
+## La Liga: What to know ahead of new 2026-27 football season
+Predictions, news and transfer latest ahead of the new La Liga season, as Barcelona and Real Madrid renew title rivalry.
 
-## US defence secretary says drug cartels will be ‘targeted like ISIS’
-US defence secretary says drug cartels will be ‘targeted like ISIS’
+## FIFA’s Infantino backed by six Arab federations including Qatar and Morocco
+Football's top official boosted by further support for his presidency after proposed private investment in game nixed.
 
-## Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final
-Malawi will face Cameroon in the Women's Africa Cup of Nations final after respective wins over Algeria and Morocco.
+## Pro-Palestine activists smear red paint on Danish defence company
+Pro-Palestine activists smear red paint on Danish defence company
 
-## Messi plays in Inter Miami defeat by Leon only hours after retirement hint
-Argentina star Lionel Messi hinted at retirement on Wednesday before featuring in Inter Miami's defeat by Leon.
+## Bangladesh humble Australia with worst total in contest as Hasan takes 6-55
+Australia dismissed for lowest total against Bangladesh as Hasan Mahmud claims career-best on Day One of first Test.
 
-## Israeli strikes in south Lebanon a ‘violation of international law’: PM
-Prime Minister Nawaf Salam rejects Israel's claim that villages destroyed in southern Lebanon were military sites.
+## Photos: Hope fades in Colombia as teams dig for earthquake survivors
+Colombian rescuers battle time to save lives after deadly 7.4 earthquake, as hopes dwindle in search for survivors.
 
-## Palestinian women in Gaza face legal hurdles in divorce struggles
-Amid legal struggles, Gaza women opt for quicker divorces, sacrificing rights to escape prolonged court battles.
+## US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’
+Israeli settlers have blocked the homes of three Palestinian families in Qusra, cutting them off from food and supplies.
 
-## ‘They destroyed us’: Palestinian family sleeps in the open after demolition
-Palestinian family's home demolished despite court order, leaving them homeless under sweltering heat in the West Bank.
+## How to stay safe during an earthquake: A visual guide
+Earthquakes can happen suddenly, but knowing what to do before, during and after one can reduce the risk of injury.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
@@ -279,6 +282,9 @@ India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 l
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
 
+## Banks to reveal loan rates every month in RBI's disclosure tweak
+The Reserve Bank of India has proposed new lending rate guidelines. Regulated entities must declare lending rates monthly and reset floating loans quarterly. Total charges for microfinance and small loans will be capped by the regulator. These new norms aim to harmonize interest rate determination m
+
 ## India, Southern African Customs Union sign terms of reference towards trade pact
 The government on Wednesday said that India and the Southern African Customs Union (SACU) have signed the Terms of Reference (ToR) for negotiations towards a Preferential Trade Agreement (PTA) between India and SACU, marking an important step towards strengthening trade and economic engagement.
 
@@ -299,7 +305,4 @@ The legislation passed by Parliament links invoice settlement, dispute resolutio
 
 ## Rs 20,000 crore credit guarantee plan misses the mark
 Banks have disbursed merely seventeen percent of the credit guarantee scheme funds. Loan sanctions remain slow as banks show caution with smaller microfinance institutions. Larger microfinance companies are hesitant to borrow under the government's guarantee program. About one thousand crore rupees 
-
-## India, South Africa-led SACU group may ink terms of reference for negotiating trade pact on Aug 12
-South Africa is India's largest trading partner within the SACU bloc. Bilateral trade between India and South Africa saw a dip last fiscal year. Other SACU members like Botswana and Namibia show growing trade with India.
 
