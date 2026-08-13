@@ -1,13 +1,22 @@
 # AION Intelligence
 
+## Live reader Q&A — are droughts and wildfires our new normal?
+Take part in a live Ask an Expert Q&A with business columnist Pilita Clark and climate correspondent Attracta Mooney, now
+
+## The right must fight its own woke wing
+There are lessons to be learnt from the left on how rage alienates potential allies
+
+## Price of niche rare earth jumps on fears of renewed Chinese export controls
+Erbium, used widely in infrastructure, is among the broad range of metals that China dominates production of
+
+## Takaichi slams Putin’s visit to disputed Pacific islands
+Japan’s prime minister rebukes Russian president’s first-ever trip to Kuril Islands
+
 ## FirstFT: Anthropic investors bet on $2tn valuation
 Also in today’s newsletter: Trump’s press officer steps down, and lab-grown diamonds win over women
 
 ## Sun, sea and bombs in Odesa
 In the port city known for its beaches and nightlife, Russian attacks are choking off an export lifeline
-
-## Are droughts and wildfires our new normal? Submit your questions
-Take part in a live Ask an Expert Q&A with business columnist Pilita Clark and climate correspondent Attracta Mooney today at 1pm (BST)
 
 ## UK growth resilient in second quarter
 Real GDP held up better than expected during the worst months of the energy price shock
@@ -15,14 +24,11 @@ Real GDP held up better than expected during the worst months of the energy pric
 ## Maersk chief calls for investment push to ease trade strains
 Container shipping group hiked guidance after port bottlenecks boosted freight rates and profits
 
-## Number of UK pupils sitting A-level economics rises over 10%
-Universities also report a record number of students opting for degrees in engineering and tech
+## Shein loses UK copyright lawsuit against Temu
+Legal dispute between arch rivals was a test of online platforms’ responsibility for third-party merchants
 
-## South Korea orders new investors to take classes after single-stock trading frenzy
-Regulators tighten curbs less than three months after controversial products were introduced
-
-## UK economy grows 0.4% in second quarter
-Expansion comes as businesses weather surge in energy prices
+## Canary Wharf Group sells SocGen office in £625mn deal
+Operating company behind London district has sold 1-5 Bank Street to its own investors Brookfield and the Qatar Investment Authority
 
 ## TSMC and Sony team up, China’s AI stocks swing
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
@@ -33,38 +39,29 @@ Turbulent transition awaits N Chandrasekaran’s successor at conglomerate that 
 ## Wall Street’s basketball billionaire mess
 Two NBA owners are facing trouble in their Wall Street businesses
 
-## Russian ghost fleet tankers use ‘Mad Max’ nets to fend off Ukraine’s drones
-Defences on vessels under sanctions aim to protect against Ukraine’s vast maritime drone campaign
+## Indian Bank disburses ₹1,220 crore under Retail, Agriculture and MSME (RAM) segments
+Of the total sanctions, the MSME segment accounted for ₹615 crore
 
-## Legal AI start-up Legora seeks funds at more than $10bn valuation
-Swedish company was valued at $5.6bn only four months ago as interest in artificial intelligence tools for professional services soars
+## Heavy rainfall to lash WB, Odisha, Chhattisgarh, Jharkhand
+Heavy to very heavy with isolated extremely heavy rain forecast for eastern states of West Bengal, Odisha, Chhattisgarh and Jharkhand over next two to three days
 
-## Everybody loves Nvidia — but then, they can’t afford not to
-There’s no mystery about why the Masters of the Universe are thrilled to be Huang’s wingmen
+## El Nino poses threat to range of agricultural commodities, say analysts
+From rice to wheat to cocoa, palm oil, sugar and coffee, the impact of the weather will vary from crop to crop
 
-## Q1 Results Today Live: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Amber Enterprises, Brigade, JSW Cement to announce Q1 results
-Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## L&T secures mega order towards larger plan of building India’s largest NVIDIA B300 AI factory
+Marking its foray into AI Factory business, L&T will deploy NVIDIA infrastructure at its Chennai data centre campus
 
-## Jubilant FoodWorks profit rises as Domino's sales growth picks up
-Steady performance at Domino’s India and continued store expansion aid growth
+## Fraud cases in public sector banks fall, but the amount involved rises 58%
+Experts blame newer techniques used by fraudsters, the likes of digital arrests, for the rise in money siphoned off
 
-## Ministry of Corporate Affairs notifies changes in Indian Accounting rules
-The changes, effective August 12, align with OECD Pillar Two global tax reforms to enhance business transparency and compliance, according to a Ministry notification
+## Green energy to cut MSME secondary steel producers cost by 32%
+Renewable power is available at ₹4.5-6 per unit in several states, compared with grid tariffs of ₹7-8
 
-## Fintech startup Navi said to hire banks for ₹3,000 crore IPO
-The IPO is expected to comprise a primary share sale, with no secondary offering by existing shareholders, the people said. Navi is seeking a valuation of as much as $2 billion and is targeting to file the prospectus by December
+## Muthoot Microfin eyeing micro-LAP focussed NBFCs for acquisition, plans to raise ₹500 cr via QIP
+Company posted ₹81.3 crore first quarter net profit
 
-## Vizhinjam port to commence EXIM operations from Aug 18: Kerala CM Satheesan
-Kerala CM said the commencement of EXIM operations would be the first step towards enabling the state to directly benefit from the port's activities
-
-## India in 'regular contact' with US on trade deal: Comm Secy
-Commerce Secretary Rajesh Agarwal said that both sides are committed to the framework deal that was agreed upon in February
-
-## Rahul Gandhi moves SC against Allahabad HC order in disproportionate assets case
-A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana is likely to hear the matter on August 17
-
-## Tamil Nadu govt’s maiden investment conclave finds commitment of ₹67,452 crore from 97 companies
-With these, cumulative investment commitments secured during the first 100 days of the new Tamil Nadu government has crossed ₹1 lakh crore
+## More pesticide sprays, shorter waits raise residue concerns in Kashmir
+Farmers in the Valley often harvest horticultural produce and vegetables without observing the recommended waiting period after pesticide application, raising concerns over pesticide residues in food entering local markets.
 
 ## Indian IT sector job market is changing: What can get you hired & at a premium
 Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas.
@@ -90,10 +87,22 @@ Gold had begun the week on a positive mark, breaking above the trendline resista
 ## Rupee falls 7 paise to 95.40 against US dollar amid FII selling, geopolitical risks
 The Indian Rupee weakened seven paise against the US dollar in early trade. Elevated crude oil prices and geopolitical uncertainty impacted investor sentiments significantly. The Strait of Hormuz standoff between the US and Iran added to market fragility. Foreign institutional investors were net sel
 
-## Kurukshetra man stabbed to death in Germany, had planned to visit home on Diwali
-The motive of the murder could not be immediately ascertained.
+## Pickup van driver, 21, found dead in vehicle near Mussoorie: Uttarakhand police
+A 21-year-old pickup van driver was found hanging from his vehicle near Old Maggi Point on the Mussoorie-Dehradun highway, police said.
 
-## PM Modi speaks with Sukhbir Singh Badal’s wife, asks about his health after Nanded attack
+## Telangana school principal found dead with 27 stab wounds at her home: Police
+Kallu Roopa Reddy, principal and director of Nagarjuna Grammar English Medium School in Kondamallepally, suffered around 27 stab wounds in the attack
+
+## Prayers, walk to gurdwara langar hall, then strike: Blow-by-blow of ‘kirpan’ attack on SAD's Sukhbir Singh Badal
+Badal arrived in Nanded for a three-day visit with wife Harsimrat Kaur and close associates. He was attacked at a gurdwara in Nanded by a Nihang, a day later.
+
+## 'Do you not want India to stay healthy?' Top court grills Centre, FSSAI over food labels
+The bench was particularly concerned by minutes of a recent meeting of the food regulator suggesting continued hesitation over front-of-pack warning labels.
+
+## Kurukshetra man stabbed to death in Germany, had planned to visit home on Diwali
+The deceased’s sister Noni said she had already sent a Rakhi for her brother and Vishu had promised to give her a ring on Raksha Bandhan.
+
+## PM Modi inquires about Sukhbir Singh Badal's health after ‘kirpan attack’ in Nanded
 Narendra Modi inquired about former Punjab deputy chief minister Sukhbir Singh Badal’s health in a phone conversation with his wife.
 
 ## How Tata Sons will pick N Chandrasekaran's successor and who will choose him
@@ -102,18 +111,6 @@ The Trusts specifically acknowledged Chandrasekaran's contribution during a peri
 ## 2 attacks in 2 years, 2 escapes: Sukhbir Singh Badal attack in Nanded reminiscent of close call in Amritsar
 Sukhbir Singh Badal survived an assassination attempt while performing sewa at the entrance of the Golden Temple in Amritsar on 4 December, 2024.
 
-## India, Indonesia launch project to restore 9th-century Prambanan Temple
-India and Indonesia have launched a landmark project to restore the 9th-century Prambanan Temple, a UNESCO World Heritage Site near Yogyakarta.
-
-## Woman, 35, dies after husband allegedly sets her ablaze in Rajasthan: Police
-A 35-year-old woman died after her husband allegedly poured petrol on her and set her ablaze at her parental home in Rajasthan’s Sri Ganganagar.
-
-## Nihang in 60s, worked as 'sewadar': What we know about Sukhbir Singh Badal's attacker
-Sukhbir Singh Badal was attacked while he was walking towards the langar hall after paying obeisance at the gurdwara.
-
-## Govt says Track-2 dialogues with Pakistan outside its purview: ‘Individuals interacting in private capacity’
-On question asked by Kharge about Track-2 talks with Pakistan, MoS Kirti Vardhan Singh said participants act in private capacity.
-
 ## JD.com’s second-quarter profit climbs 15% as food-delivery losses narrow
 Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per cent year on year to 7.1 billion yuan (US$1.1 billion), beating market expectations despite a slight dip in overall revenue, as it contends with sluggish domestic consumer demand, fierce competition and a push into new bus
 
@@ -121,7 +118,7 @@ Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per ce
 China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand for domestic artificial intelligence chips free of US export controls. Net profit
 
 ## CK Hutchison Holdings reports 31-fold surge in first-half profit
-CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billionaire Li Ka-shing’s family, reported a 3,046 per cent increase in its first-half profit amid a period the firm’s chairman called “turbulent and uncertain”. Meanwhile, profit at CK Asset Holdings, the group’s other flagship
+CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billionaire Li Ka-shing’s family, reported a 3,046 per cent increase in its first-half profit amid a period the firm’s chairman called “turbulent and uncertain”. Meanwhile, CK Asset Holdings, the group’s other flagship company t
 
 ## ‘Very smooth’: passenger shares experience on C919’s first commercial international flight
 Arriving at his gate at Beijing Capital International Airport for a routine business trip to the Mongolian capital of Ulaanbaatar on Wednesday, Howard Deng was unaware he was about to take part in a Chinese aviation milestone. Air China flight 723 marked the first international service featuring the
@@ -234,10 +231,22 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Falling Danube flow forces shutdown of Romania’s sole nuclear plant
+Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country's electricity.
+
+## Infantino’s FIFA fate must go to an election, says Africa football chief
+CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March's election.
+
+## Five charts that explain the high cost of living in the UK
+UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.
+
+## US-Iran talks in deadlock – what’s the latest?
+The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.
+
 ## Colombia earthquake response tests new far-right government
 Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
 
-## More than 135 million people in Europe set for temperatures over 35C
+## More than 135 million people in Europe face temperatures over 35C
 Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.
 
 ## Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’
@@ -245,18 +254,6 @@ Israel carts away Gaza's rubble to destroy war crimes evidence and make the land
 
 ## Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest
 Fulham's friendly in Malaga turned sour as the Premier League club walked off ahead of a penalty shootout.
-
-## Civilian deaths in Ukraine in July hit highest level since May 2022: UN
-At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.
-
-## Eurovision to bar countries at war from hosting: What that means
-Israel, which hosted the contest in 2019, will no longer be allowed to do so - but can still compete, protesters say.
-
-## Russell Westbrook announces NBA retirement after 18 seasons
-Westbrook, a former NBA Most Valuable Player, holds the record for the most career triple-doubles in league history.
-
-## Life and loss as a first responder in southern Lebanon
-A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon's largest city.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
