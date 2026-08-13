@@ -1,13 +1,22 @@
 # AION Intelligence
 
+## Burnham warns water companies against treating customers like ‘blank cheque’
+Prime minister criticises Ofwat decision to allow suppliers to raise bills by more than expected to pay for new projects
+
+## Donald Trump enlists corporate America in fight against cyber crime
+Privateering push echoes US revolutionary war-era strategy of employing civilians to battle adversaries
+
+## US accuses more than 40 countries of helping China avoid Trump’s tariffs
+White House says Canada, Japan, EU and others enabling the evasion of levies for $60bn in trade via ‘transshipment scam’
+
+## UK government considers aid for drought-hit farmers
+Countryside battles punishing conditions as Britain faces its fifth heatwave of the year
+
 ## Retail parks are the real threat to the British high street
 Outdoor commercial complexes are hot property, with supermarkets, stores and discount chains elbowing for room
 
 ## Israeli settlers besiege Palestinian homes
 Incident in occupied West Bank is part of a broader campaign to push Palestinians off land
-
-## Burnham warns water companies against treating customers like ‘blank cheque’
-Prime minister criticises Ofwat decision to allow suppliers to raise bills unexpectedly higher to pay for new projects
 
 ## In charts: Private schools widen lead over state rivals on A-level results day
 A growing number of students are taking economics, politics and further maths
@@ -15,14 +24,11 @@ A growing number of students are taking economics, politics and further maths
 ## Starmer allies warn Healey against blowing ‘strong’ economic inheritance
 Andy Burnham has signalled plans for spending increases
 
-## How Jason Arday’s appointment became a reckoning for Cambridge
-Resignation of Black professor forces university to examine its approach to diversity, equality and inclusion
+## Passenger train derails near Lewes in East Sussex
+British Transport Police say paramedics and fire service are on site following the derailment
 
-## Fierce Trump ally Leavitt shocks Washington and leaves White House
-Also in today’s newsletter, an exclusive interview with a top Federal Reserve official
-
-## Japan needs deterrence and renewal — not managed decline
-More than eight decades after the end of the second world war, the country must rethink its role in the world
+## Axes of Evil: office space edition
+IWG’s KPI chart crime revPAR excellence
 
 ## Smoking is back in fashion. Why?
 After two decades in disgrace, the cancer stick has returned
@@ -33,41 +39,29 @@ Sports Direct owner warns of closures after purchasing department store chain th
 ## Shein loses UK copyright lawsuit against Temu
 Legal dispute between arch rivals was a test of online platforms’ responsibility for third-party merchants
 
-## Canary Wharf Group sells SocGen office in £625mn deal
-Operating company behind London district has sold 1-5 Bank Street to its own investors Brookfield and the Qatar Investment Authority
+## SEBI plans SME IPO route for companies valued up to ₹5,000 crore
+Regulator weighs to raise post-issue paid-up capital limit for SME listings to ₹100 crore from ₹25 crore, while easing minimum application size, market-making norms and underwriting norms to improve participation in the segment
 
-## Price of niche rare earth jumps on fears of renewed Chinese export controls
-Erbium, used widely in infrastructure, is among the broad range of metals that China dominates production of
+## Manali Petrochemicals Q1 FY27 consolidated net profit rises over 4x
+Consolidated revenue rose by 17 per cent to ₹275 crore, up from ₹235 crore
 
-## FirstFT: Anthropic investors bet on $2tn valuation
-Also in today’s newsletter: Trump’s press officer steps down, and lab-grown diamonds win over women
+## Tamil Nadu govt’s maiden investment conclave finds commitment of ₹67,452 crore from 97 companies
+With these, cumulative investment commitments secured during the first 100 days of the new Tamil Nadu government has crossed ₹1 lakh crore
 
-## Maersk chief calls for investment push to ease trade strains
-Container shipping group hiked guidance after port bottlenecks boosted freight rates and profits
+## Muthoot Fincorp files draft papers for ₹3,000 crore IPO
+The company plans to use the proceeds from the new issue to strengthen its Tier I capital base for future requirements
 
-## Govt mandates alternative fuel facilities at every third fuel outlet
-The move seeks to accelerate the adoption of cleaner fuels, reduce dependence on imported crude, curb pollution and promote energy security
+## Amaravati: CM Naidu opens Seed Access Road, steel bridges
+The new connectivity is expected to make direct access to the capital faster, easier and more comfortable for motorists.
 
-## Tredence aims for $1 billion revenue by 2030
-Tredence also wants to move away from the traditional time and material contracts to more outcome-based pricing
+## Q1 Results Today Highlights: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Brigade profit rises
+Q1 Results Today, 13th August 2026 Highlights: Follow Q1FY27 results updates from businessline
 
-## Q1 Results Today Live: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Brigade profit rises
-Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## Letters to the Editor dated August 13, 2026
 
-## 70% of global ricebran oil potential remains untapped: SEA
-The global market has a potential of 8 million tonnes for rice bran oil against the current production of 2.4 million tonnes
 
-## Fino Payments Bank slips into the red
-Reports net loss of ₹13.72 crore in Q1FY27
-
-## Tata Trusts begins process to select Chandra’s successor as Tata Sons Chairman
-Tata Trusts said it respects Chandrasekaran’s decision not to offer himself for reappointment as Chairman
-
-## Anchor investors exit faster from smaller IPOs, finds SEBI study
-The study finds an inverse link between IPO size and anchor exits, with FPIs emerging as the biggest sellers after lock-in periods expire
-
-## Brigade Group profit rises 37% to ₹217 crore in Q1
-Revenue falls 12% in Q1FY27
+## Fraud cases in public sector banks fall, but the amount involved rises 58%
+Experts blame newer techniques used by fraudsters, the likes of digital arrests, for the rise in money siphoned off
 
 ## India’s critical mineral push: Govt plans processing parks in 4 states
 India is set to establish four specialized parks dedicated to critical mineral processing, targeting lithium and nickel first. The initiative, spearheaded by state governments with central technical assistance, is aligned with the National Critical Mineral Mission aimed at bolstering self-reliance. 
@@ -93,11 +87,20 @@ The proposed Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would emp
 ## MDR on UPI soon? Parliamentary Panel recommends expeditious introduction on high-value transactions
 Commenting on the incentive programme for promoting RuPay Debit Cards and low-value BHIM-UPI transactions, the Committee noted that the budgetary allocation of Rs 2,000 crore to compensate for losses arising from the zero-MDR regime unnecessarily increases the Department's Demand for Grants
 
+## Engaged couple, working in same bank, found dead hours apart in two different states
+P Anushree, 25, and her fiancé V Amal, 26, were planning to marry in December.
+
+## ‘What if all legal cockroaches came together?’: CJP founder Abhijeet Dipke recalls first post amid CJI-NALSAR row
+CJP chief spokesperson Saurav Das said they would protest if the BCI chairman did not withdraw the order.
+
+## BCI halts enrolment of NALSAR 2026 graduates amid row over CJI Surya Kant in convocation, withdraws move later
+The BCI has also sought a factual report from the university on the persons allegedly instrumental in initiating and organising a campaign concerning CJI
+
 ## Meghalaya HC panel seeks urgent action plan to curb illegal coal mining
 The Meghalaya HC-appointed Justice BP Katakey committee urged the state to notify an action plan against illegal coal mining and fence abandoned rat-hole pits.
 
-## 3 workers trapped, 16 rescued as tunnel collapses in Uttarakhand's Chamoli, water gushes in
-Sixteen workers have been rescued so far, while a search and rescue operation is underway to evacuate the remaining three, officials said.
+## 6 workers trapped, 16 rescued as debris, water enter tunnel in Uttarakhand's Chamoli after landslide
+Sixteen workers have been rescued so far, while a search and rescue operation is underway to evacuate the remaining, officials said.
 
 ## Teacher beats class 10 girls, leaving them unable to write exam in Tamil Nadu, booked
 The incident took place on July 20 at a Government Higher Secondary School in VK Pudur near Surandai in Tamil Nadu.
@@ -107,15 +110,6 @@ Have agreed in principle to give railway travel concessions to acid attack victi
 
 ## Jharkhand students block road to protest headmaster's transfer
 On August 12, Singh was directed to report back to his parent institution, Lawahi Kala High School in Dandai block of the district, he said.
-
-## Bangladesh turns to India for help as power crisis forces 8 pm shutdown for malls, shops
-Bangladesh government has directed shops, markets and shopping malls to shut shop by 8 pm amid ongoing power crisis in country.
-
-## Veterinary doc dies by suicide after being cheated of ₹1.40cr in UP: Police
-The deceased had lodged an FIR at AIIMS police station on August 5, alleging a ₹1.40-crore fraud involving a woman holding a PhD.
-
-## Bengal revokes BJP MP Anant Maharaj’s Banga Bibhushan after Netaji remarks
-The decision came a day after CM Suvendu Adhikari warned of strict action against those making derogatory comments against the iconic freedom fighter
 
 ## SF Reit’s distributable income falls 7.3% in first half as occupancy holds steady
 SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year. The firm – which is controlled by the Chinese logistics giant SF Holding – re
@@ -141,6 +135,9 @@ Financial markets have been gripped by concern in recent days over reports that 
 ## AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong
 The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for artificial intelligence bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded 
 
+## Why Hackers Keep Going After U.S. Water Supplies
+A spate of new attacks believed to be linked to Iran has highlighted the water sector’s vulnerability.
+
 ## Why Israel Won’t Make Qatar an Enemy
 Doha’s ties to Gaza and Hamas make it deeply controversial but also indispensable.
 
@@ -161,9 +158,6 @@ Beijing is a pioneer in softer tools of transnational repression.
 
 ## The Next Front in LNG Sanctions Runs Through China
 Moscow will soon have to redirect a growing share of its exports to Asia.
-
-## Will Myanmar Get What It Wants From ASEAN?
-A Bangkok visit by junta leader Min Aung Hlaing reinforced the two countries’ ties.
 
 ## Vietnam, Rare Earths, and the Evolving China Plus One Strategy
 Vietnam has benefited greatly from foreign firms' desire to de-risk from China. Can it free itself of dependence on the country's critical rare earth inputs?
@@ -237,6 +231,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## China and Indonesia’s joint naval drills anger Taiwan
+Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.
+
+## Reports of US sailors in Middle East trying to jump ship spark outcry
+US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.
+
+## Is Russia’s economy cracking despite the Iran war windfall?
+A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.
+
+## Zambian president Hichilema votes as he seeks second term
+Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.
+
+## Will all-out war in Yemen reignite as the Houthis escalate attacks?
+Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.
+
 ## Turkiye’s AK Party turns 25: A journey of change and renewal
 In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.
 
@@ -245,21 +254,6 @@ Iran asserts full control over the Strait of Hormuz, challenging US claims of do
 
 ## Pro-Palestine football fans lament West Ham for signing Manor Solomon
 The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.
-
-## Oman says massive oil spill reaches coastline: What damage could it do?
-Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.
-
-## Ukraine attacks key Russian grain terminal on Black Sea port
-Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.
-
-## Ebola outbreak caused by new ‘animal transmission’: What that means
-More than 2,000 people have died after contracting the latest strain of the Ebola virus.
-
-## Report from scene of Palestinian homes besieged by settlers
-Report from scene of Palestinian homes besieged by settlers
-
-## Lebanese Americans sue US over Israel’s rights abuses in Lebanon war
-Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
