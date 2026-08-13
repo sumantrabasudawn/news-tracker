@@ -132,6 +132,12 @@ Financial markets have been gripped by concern in recent days over reports that 
 ## AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong
 The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for artificial intelligence bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded 
 
+## The Iran War Has Left the U.S. Dangerously Exposed
+The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
+
+## Israel Clashes With Settlers in the West Bank
+U.S. Ambassador Mike Huckabee issued a rare condemnation of settler “terrorists.”
+
 ## Mojtaba Khamenei Is Planning for a Long War
 The supreme leader’s new government appointments reveal the outlines of his military strategy.
 
@@ -149,12 +155,6 @@ The mutual defense agreement gives Islamabad a boost in the Middle East, with mi
 
 ## What to Watch in Zambia’s Elections
 The country’s natural resources have put the vote under intense international scrutiny.
-
-## Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles
-Kyiv and Moscow are trading heavier and heavier blows.
-
-## China Is Finding New Ways to Coerce Uyghurs Abroad
-Beijing is a pioneer in softer tools of transnational repression.
 
 ## Why Is Everyone Playing Mahjong?
 The centuries-old game is having a moment. But what happens when a tradition rooted in Chinese history becomes a lifestyle trend?
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Huge explosion rocks Italian munitions factory south of Rome
+A powerful explosion tore through a munitions faction south of the Italian capital Rome on Thursday.
+
+## Photos: Cuba marks Fidel Castro’s 100th birthday
+Fidel Castro would have turned 100 on Thursday and his legacy continues to overshadow the island.
+
+## Are We in the Singularity?
+Sam Altman just said AI has entered "the singularity."
+
 ## Sudan army says RSF advance on key town bordering Ethiopia
 Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.
 
@@ -242,15 +251,6 @@ Earthquake damages Cali's hospitals, forcing medical staff to prioritize critica
 
 ## Europe swelters in latest wave of extreme heat
 UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.
-
-## Carrick urges Manchester United to sign more transfers to boost title bid
-United's preseason outlay pales in comparison with some of their fellow title contenders.
-
-## Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students
-Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.
-
-## Poland arrests man who allegedly tried to kill Ukrainian American
-The suspect has been identified as a Russian citizen who planned to kill one of Moscow's critics in Warsaw.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
