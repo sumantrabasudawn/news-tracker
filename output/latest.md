@@ -1,7 +1,16 @@
 # AION Intelligence
 
-## Eleven people injured in UK train derailment
+## US sells 30-year bonds at highest borrowing costs since 2001
+Yields have jumped amid concerns over mounting public debt and persistently high inflation
+
+## 20 people injured in UK train derailment
 Three carriages on the Southern Rail service are flipped on to their side
+
+## FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire
+US scrutiny of billionaire’s sprawling finance holdings reached beyond insurers into securities and asset management giant
+
+## UK houses caught up in wildfires during hottest day of the year
+Blazes at several locations in the West Midlands as temperatures reach 38.1C in London
 
 ## Starmer allies warn Healey against blowing ‘strong’ economic inheritance
 Andy Burnham has signalled plans for spending increases
@@ -15,14 +24,8 @@ High leverage and insufficient oversight could amplify risks for individuals and
 ## Seoul soars past Dubai as world’s busiest international airport
 South Korean hub receives boost as Iran war hits Middle East transfer passengers
 
-## Burnham warns water companies against treating customers like ‘blank cheque’
-Prime minister criticises Ofwat decision to allow suppliers to raise bills by more than expected to pay for new projects
-
-## US accuses more than 40 countries of helping China avoid Trump’s tariffs
-White House says Canada, Japan, EU and others enabling the evasion of levies for $60bn in trade via ‘transshipment scam’
-
-## UK government considers aid for drought-hit farmers
-Countryside battles punishing conditions as Britain faces its fifth heatwave of the year
+## EY vaults from bottom to top of Big Four US audit quality league table
+Inspectors cited fewer flaws in the work of the biggest firms in latest accounting board survey
 
 ## Billionaires are taking over sports teams — and that’s a risk for fans
 Franchises risk getting caught up in the disparate affairs of their financier owners
@@ -32,9 +35,6 @@ It is too late to prevent the technology from being used as a damaging weapon, s
 
 ## Nearly 14,000 crypto holders face security risk after data breach
 Personal details of people with Trezor hardware wallets stolen by hackers in second ‘cold’ storage attack in two weeks
-
-## The recovery in wind energy is picking up speed
-Prospects for the sector are looking up on hard-nosed commercial and strategic grounds
 
 ## SEBI plans SME IPO route for companies valued up to ₹5,000 crore
 Regulator weighs to raise post-issue paid-up capital limit for SME listings to ₹100 crore from ₹25 crore, while easing minimum application size, market-making norms and underwriting norms to improve participation in the segment
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Tate supporters rally for brothers ahead of bail hearing in Miami
+Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.
+
+## Israeli strikes in Gaza kill two, including police chief
+Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.
+
+## Mexico says Colombia rejected its earthquake rescue team
+Colombia denies politics played a role after Mexico said its military rescuers were refused entry.
+
+## What’s at stake in Zambia’s elections?
+The economy dominates voter concerns in the southern African country.
+
+## Kennedy Center votes to restore Trump’s name to venue, close for two years
+Trustees condemn Kennedy Center’s move to re-add Trump’s name and shut down for extensive renovations.
+
+## Multiple houses ablaze as wildfire sweeps into UK town
+At least six homes were set alight by an extensive wildfire in Stourbridge
+
 ## Huge explosion rocks Italian munitions factory south of Rome
 A powerful explosion tore through a munitions faction south of the Italian capital Rome on Thursday.
 
 ## Photos: Cuba marks Fidel Castro’s 100th birthday
 Fidel Castro would have turned 100 on Thursday and his legacy continues to overshadow the island.
-
-## Are We in the Singularity?
-Sam Altman just said AI has entered "the singularity."
-
-## Sudan army says RSF advance on key town bordering Ethiopia
-Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.
-
-## Passenger train derails, injuring several in southern England
-A passenger train derailed near Lewes in East Sussex, England, injuring at least 11 people, and two of them seriously.
-
-## Israeli forces order families to evacuate homes in Qusra
-Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra
-
-## Colombia earthquake: Hospitals adapt to save lives amid widespread damage
-Earthquake damages Cali's hospitals, forcing medical staff to prioritize critical patients as rescue teams work nonstop.
-
-## Europe swelters in latest wave of extreme heat
-UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
