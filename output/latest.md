@@ -27,17 +27,17 @@ Andy Burnham has signalled plans for spending increases
 ## Passenger train derails near Lewes in East Sussex
 British Transport Police say paramedics and fire service are on site following the derailment
 
-## Axes of Evil: office space edition
-IWG’s KPI chart crime revPAR excellence
+## AI has opened up big holes in cyber security
+It is too late to prevent the technology from being used as a damaging weapon, so great investment in defences is urgently needed
 
-## Smoking is back in fashion. Why?
-After two decades in disgrace, the cancer stick has returned
+## Nearly 14,000 crypto holders face security risk after data breach
+Personal details of people with Trezor hardware wallets stolen by hackers in second ‘cold’ storage attack in two weeks
 
-## Frasers buys Harvey Nichols for £40mn as Mike Ashley pushes into luxury
-Sports Direct owner warns of closures after purchasing department store chain through pre-pack administration deal
+## The recovery in wind energy is picking up speed
+Prospects for the sector are looking up on hard-nosed commercial and strategic grounds
 
-## Shein loses UK copyright lawsuit against Temu
-Legal dispute between arch rivals was a test of online platforms’ responsibility for third-party merchants
+## Seoul soars past Dubai as world’s busiest international airport
+South Korean hub receives boost as Iran war hits Middle East transfer passengers
 
 ## SEBI plans SME IPO route for companies valued up to ₹5,000 crore
 Regulator weighs to raise post-issue paid-up capital limit for SME listings to ₹100 crore from ₹25 crore, while easing minimum application size, market-making norms and underwriting norms to improve participation in the segment
@@ -87,29 +87,29 @@ The proposed Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would emp
 ## MDR on UPI soon? Parliamentary Panel recommends expeditious introduction on high-value transactions
 Commenting on the incentive programme for promoting RuPay Debit Cards and low-value BHIM-UPI transactions, the Committee noted that the budgetary allocation of Rs 2,000 crore to compensate for losses arising from the zero-MDR regime unnecessarily increases the Department's Demand for Grants
 
+## Noel Tata, TV Narendran: Who could take Chandrasekaran's mantle at Tata Sons?
+Tata Trusts said the trustees of Sir Dorabji Tata Trust have passed a resolution to set up a selection committee to recommend a new chairman for Tata Sons.
+
+## UP teen uses AI-generated image to fake kidnapping, demands ₹2 lakh from father to pay off gaming debt
+The ransom message to his father, a cloth merchant, read that the 16-year-old would be killed if the money was not transferred.
+
+## Landslide, then influx of debris, water: What happened at Uttarakhand tunnel mishap
+The landslide trapped workers inside the tunnel and prompted an urgent rescue operation.
+
+## Nagaland’s NSF asks students to skip I-Day events over Vande Mataram row
+NSF has been critical of MHA’s 28 January 2026 communication that laid down a detailed protocol for the observance of the national song at official events
+
+## Sonam Wangchuk's pitch for India's '2nd Independence movement' to 'reform political system'
+Sonam Wangchuk has called for India's second independence movement to bring about changes in how India chooses its leaders
+
 ## Engaged couple, working in same bank, found dead hours apart in two different states
 P Anushree, 25, and her fiancé V Amal, 26, were planning to marry in December.
 
 ## ‘What if all legal cockroaches came together?’: CJP founder Abhijeet Dipke recalls first post amid CJI-NALSAR row
-CJP chief spokesperson Saurav Das said they would protest if the BCI chairman did not withdraw the order.
+Abhijeet Dipke has teased a possible campaign seeking the resignation of BCI chairman Manan Kumar Mishra.
 
 ## BCI halts enrolment of NALSAR 2026 graduates amid row over CJI Surya Kant in convocation, withdraws move later
 The BCI has also sought a factual report from the university on the persons allegedly instrumental in initiating and organising a campaign concerning CJI
-
-## Meghalaya HC panel seeks urgent action plan to curb illegal coal mining
-The Meghalaya HC-appointed Justice BP Katakey committee urged the state to notify an action plan against illegal coal mining and fence abandoned rat-hole pits.
-
-## 6 workers trapped, 16 rescued as debris, water enter tunnel in Uttarakhand's Chamoli after landslide
-Sixteen workers have been rescued so far, while a search and rescue operation is underway to evacuate the remaining, officials said.
-
-## Teacher beats class 10 girls, leaving them unable to write exam in Tamil Nadu, booked
-The incident took place on July 20 at a Government Higher Secondary School in VK Pudur near Surandai in Tamil Nadu.
-
-## Centre agrees in principle to rail travel concessions for acid attack survivors
-Have agreed in principle to give railway travel concessions to acid attack victims, Centre tells SC
-
-## Jharkhand students block road to protest headmaster's transfer
-On August 12, Singh was directed to report back to his parent institution, Lawahi Kala High School in Dandai block of the district, he said.
 
 ## SF Reit’s distributable income falls 7.3% in first half as occupancy holds steady
 SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year. The firm – which is controlled by the Chinese logistics giant SF Holding – re
@@ -135,6 +135,9 @@ Financial markets have been gripped by concern in recent days over reports that 
 ## AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong
 The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for artificial intelligence bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded 
 
+## Mojtaba Khamenei Is Planning for a Long War
+The supreme leader’s new government appointments reveal the outlines of his military strategy.
+
 ## Why Hackers Keep Going After U.S. Water Supplies
 A spate of new attacks believed to be linked to Iran has highlighted the water sector’s vulnerability.
 
@@ -156,32 +159,29 @@ Kyiv and Moscow are trading heavier and heavier blows.
 ## China Is Finding New Ways to Coerce Uyghurs Abroad
 Beijing is a pioneer in softer tools of transnational repression.
 
-## The Next Front in LNG Sanctions Runs Through China
-Moscow will soon have to redirect a growing share of its exports to Asia.
+## Why Is Everyone Playing Mahjong?
+The centuries-old game is having a moment. But what happens when a tradition rooted in Chinese history becomes a lifestyle trend?
 
-## Vietnam, Rare Earths, and the Evolving China Plus One Strategy
-Vietnam has benefited greatly from foreign firms' desire to de-risk from China. Can it free itself of dependence on the country's critical rare earth inputs?
+## Can South Korea’s $880 Billion AI Ambition Help Cement Its Status as a High-Tech Powerhouse?
+Plans are firmly underway to ensure that South Korea’s chipmaking strength can help to facilitate a stronger global position when it comes to the AI buildout.
 
-## Myanmar’s Resistance Finally Has a Unified Front
-The new Steering Council for the Emergence of a Federal Democratic Union could change the course of the country's conflict.
+## North Korea Fires Ballistic Missiles, Deepening Silence Fuels Analyst Speculation
+Seoul, Tokyo, and Washington condemned two ballistic missile launches ahead of allied military drills, but Pyongyang’s failure to report either test has left analysts guessing at the cause.
 
-## Japan’s Underground Lab Wants to Solve the World’s Nuclear Waste Problem
-A rare visit to the Horonobe Underground Research Laboratory, where Japanese researchers are testing options for storing radioactive waste.
+## The US Military Can’t Function Without China
+Rare earths are critical to making modern weapons – and China dominates the supply chain.
 
-## Data of 15 Million Kazakhstanis Allegedly Leaked
-A hacker claims to have stolen the data from Kazakhstan eGov service. The authorities are investigating the claim.
+## Can Japan’s Defense Industry Meet its Ambitious Goals?
+Japan increasingly recognizes the importance of the defense industrial base as a source of strategic capability. But can the industry actually deliver?
 
-## ‘Silence Is Not an Option’: The Quest to Bear Witness to China’s Uyghur Camps
-“Heart Full of Light,” Kalbinur Sidik’s memoir, provides a first-hand account of the atrocities against the Uyghur people in Xinjiang.
+## Competing Interests, Common Narrative: How Industry Shapes the AI Race
+Different firms in the AI value chain invoke the AI race narrative, but with different policy preferences in mind.
 
-## Takaichi, the Three Non-Nuclear Principles, and a Strained US Nuclear Umbrella
-For Japan, the most immediate question is not whether to pursue nuclear weapons itself, but whether to allow its ally’s nuclear-capable assets on Japanese soil.
+## How the Modi Government is Downgrading India’s National Anthem
+For the first time in eight decades, the country’s national song, Vande Mataram, will precede the playing of the national anthem on Independence Day.
 
-## Assessing KMT Leader Cheng Li-Wun’s Political Narrative
-Insights from Wayne Tan.
-
-## Should India Worry About the Mecca Pact?
-The agreement is not directed against India, but it alters the strategic environment in which India-Pakistan relations play out.
+## Vietnam’s Top Leader Concludes Australia Visit With Trade, Defense in Focus
+In their updated Joint Vision Statement, Canberra and Hanoi identify a more challenging regional security environment.
 
 ## The True Cost of Cheap Chips
 Given the relentless demand for computing power, electronic components are in scarce supply. Prices for certain memory chips, known as DRAM, have surged by more than 50 percent in a single quarter this year, and have roughly quadrupled since last fall. Because DRAM supply is tight, Apple, Dell, and 
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## DR Congo Ebola outbreak spreads to a sixth province
+Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.
+
 ## China and Indonesia’s joint naval drills anger Taiwan
 Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.
 
@@ -251,9 +254,6 @@ In a quarter-century, the party has strengthened democracy, driven development a
 
 ## Iran says Strait of Hormuz under its control, rejects Trump claims
 Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
-
-## Pro-Palestine football fans lament West Ham for signing Manor Solomon
-The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
