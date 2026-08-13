@@ -24,6 +24,9 @@ TWG Global is seeking to refinance loans, restructure firms and bring in outside
 ## Burnham urges retailers to stop selling disposable BBQs amid wildfires
 PM holds emergency government meeting in response to drought and heatwaves
 
+## North Sea oil producers told to speed up well closures
+NSTA has fined one company more than £16mn this year and vows to enforce deadlines
+
 ## The Amazon of used cars gets a balance sheet tune-up
 Carvana has long been a target of short sellers but bets against the company have fallen sharply
 
@@ -38,9 +41,6 @@ Guggenheim’s Mark Walter sells team after just a year of ownership amid US inq
 
 ## Switzerland pushes ahead with post-Credit Suisse crackdown
 Financial regulator may be given greater powers to intervene at troubled banks and levy fines
-
-## Investor Nelson Peltz prepares bid for US burger chain Wendy’s
-Trian Fund Management, BlueFive Capital and Flynn Group could submit offer in the coming weeks
 
 ## AvenuesAI net profit rises 45%, targets ₹13,000 crore revenue in FY27
 The fintech firm is targeting faster growth through Rediff, US payments expansion and an AI-led transaction intelligence platform called TISco.
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump administration arrests Southern Poverty Law Center expert for fraud
+Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.
+
+## Media groups sue Trump over paid access to public social media posts
+Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.
+
 ## Trump administration plans to give ICE officers electric-shock gloves
 US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president's immigration crackdown.
 
@@ -251,12 +257,6 @@ Thousands missing after Colombia quake as rescue continues
 
 ## Morocco says working to prevent potential new Ceuta crossings surge
 Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.
-
-## 11-year-old boy shot by Israeli forces in Gaza
-The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.
-
-## Drone attacks on energy infrastructure deepen Libya’s energy crisis
-Repeated drone strikes on oil and power infrastructure are deepening Libya's energy crisis.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
