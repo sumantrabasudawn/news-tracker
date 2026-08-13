@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Eleven people injured in UK train derailment
+Three carriages on the Southern Rail service are flipped on to their side
+
 ## Starmer allies warn Healey against blowing ‘strong’ economic inheritance
 Andy Burnham has signalled plans for spending increases
 
@@ -21,14 +24,8 @@ White House says Canada, Japan, EU and others enabling the evasion of levies for
 ## UK government considers aid for drought-hit farmers
 Countryside battles punishing conditions as Britain faces its fifth heatwave of the year
 
-## Retail parks are the real threat to the British high street
-Outdoor commercial complexes are hot property, with supermarkets, stores and discount chains elbowing for room
-
 ## Billionaires are taking over sports teams — and that’s a risk for fans
 Franchises risk getting caught up in the disparate affairs of their financier owners
-
-## Passenger train derails near Lewes in East Sussex
-British Transport Police say paramedics and fire service are on site following the derailment
 
 ## AI has opened up big holes in cyber security
 It is too late to prevent the technology from being used as a damaging weapon, so great investment in defences is urgently needed
@@ -231,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Sudan army says RSF advance on key town bordering Ethiopia
+Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.
+
+## Passenger train derails, injuring several in southern England
+A passenger train derailed near Lewes in East Sussex, England, injuring at least 11 people, and two of them seriously.
+
+## Israeli forces order families to evacuate homes in Qusra
+Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra
+
+## Colombia earthquake: Hospitals adapt to save lives amid widespread damage
+Earthquake damages Cali's hospitals, forcing medical staff to prioritize critical patients as rescue teams work nonstop.
+
 ## Europe swelters in latest wave of extreme heat
 UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.
 
@@ -242,18 +251,6 @@ Ruling latest setback in Trump administration response to Gaza war protests that
 
 ## Poland arrests man who allegedly tried to kill Ukrainian American
 The suspect has been identified as a Russian citizen who planned to kill one of Moscow's critics in Warsaw.
-
-## Gaza mural for Burger King worker fired for shouting ‘Free Palestine’
-Artists in Gaza painted a mural honouring former Burger King employee Arianna Hamilton.
-
-## Trump administration ‘gutted’ federal civil rights enforcement, HRW says
-A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.
-
-## DR Congo Ebola outbreak spreads to a sixth province
-Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.
-
-## China and Indonesia’s joint naval drills anger Taiwan
-Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
