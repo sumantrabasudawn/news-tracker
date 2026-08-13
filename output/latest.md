@@ -1,6 +1,12 @@
 # AION Intelligence
 
-## Boardroom battle at India’s $280bn behemoth heralds start of ‘Noel Tata era’
+## UK economy grew 0.4% in second quarter
+Expansion comes as businesses weather surge in energy prices
+
+## ‘The most difficult dilemma’
+Monetary policy and supply shocks
+
+## The battle for control of India’s $280bn Tata Group
 Turbulent transition awaits N Chandrasekaran’s successor at Tata Sons, which owns Air India and Jaguar Land Rover
 
 ## FirstFT: Anthropic investors bet on $2tn valuation
@@ -18,41 +24,44 @@ Fees for boarding pupils rose slightly faster than day pupils to nearly £440,00
 ## US justice department shifts focus to government programme fraud
 New priority comes as federal prosecutors pull back from other white-collar enforcement in Trump’s second term
 
+## Legal AI start-up Legora seeks funds at more than $10bn valuation
+Swedish company was valued at $5.6bn only four months ago as interest in artificial intelligence tools for professional services soars
+
 ## Everybody loves Nvidia — but then, they can’t afford not to
 There’s no mystery about why the Masters of the Universe are thrilled to be Huang’s wingmen
 
 ## A reality check is needed on Arctic shipping
 It will take a long time before new routes become more than a niche commercial activity
 
-## Legal AI start-up Legora seeks funds at more than $10bn valuation
-Swedish company was valued at $5.6bn only four months ago as interest in artificial intelligence tools for professional services soars
-
 ## Anthropic investors bet on $2tn valuation in record IPO
-Rapid revenue growth fuels hope that the Claude maker can overcome challenges to become the biggest listing in history
+Rapid revenue growth fuels hope that the Claude-maker can overcome challenges to become the biggest listing in history
+
+## Q1 Results Today Live: TMPV shares gain ahead of Q1 results today, Page Industries, Solar Ind, LG Electronics, Max Healthcare, GIC, Godrej, Jubilant Foodworks, Amber Enterprises, Indraprastha, Brigade, JSW Cement, Honasa to announce Q1 results
+Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+
+## India’s e-bus operators face higher funding needs as government subsidies decline
+The financing challenge comes as falling battery costs and lower operating expenses improve the long-term economics of electric buses
+
+## Gold touches two-month peak, then slips as traders pause for inflation cues
+Gold hit its highest since June 5 earlier
+
+## Tamil Nadu govt inks 97 MoUs for commitment of over ₹67,000 crore
+The MoUs were exchanged at the TVK government's first ‘Vettri Tamil Nadu Investors Conclave 2026', marking a major investment milestone since the Tamilaga Vettri Kazhagam formed the government in May.
+
+## Paperboard makers seek immediate anti-dumping duty on Indonesian imports
+The paperboard makers said India’s virgin paperboard industry suffered estimated losses of ₹242 crore in FY25 due to indiscriminate dumping by Indonesian manufacturers
+
+## Milky Mist IPO Day 3 Live: ₹1,553-crore IPO booked over 4 times, last day to subscribe, Shiprocket subscribed 2x on Day 2
+Milky Mist IPO Day 3 live updates, Shiprocket IPO Day 2 Live Updates: Follow businessline for more stock market news
+
+## Passenger vehicle dispatches rise 34.3% as auto sales set July record: SIAM
+2-wheeler sales rose 22.6% to 19,23,483 units last month, as against 15,69,120 units in July last year
 
 ## Sensex today | Stock Market Live: Sensex, Nifty trade lower despite positive global cues; crude prices remain a concern
 Sensex, Nifty, Share Prices Live: Indian equities remained subdued despite stronger Asian markets, with firm crude prices and geopolitical risks keeping investors cautious. Domestic inflation, MSCI’s latest reshuffle and expectations around RBI policy are also likely to influence trading sentiment d
 
-## IMD: Heavy rainfall to lash WB, odisha, Chhattisgarh, Jharkhand for next 3 days
-Heavy to very heavy with isolated extremely heavy rain forecast for eastern states of West Bengal, Odisha, Chhattisgarh and Jharkhand over next two to three days
-
-## Tata Motors CV shares surge over 6% after Q1 profit growth
-The stock traded at ₹478.10 at 9.49 am after hitting a high of ₹485, compared with the previous close of ₹457.05.
-
-## Lenskart shares zoom nearly 7% to fresh 52-week high after strong Q1 results and MSCI inclusion buzz
-Lenskart posted consolidated net profit of ₹221.84 crore in the April-June period; revenue from operations grew 43.3% to ₹2,714.18 crore
-
-## Crude oil futures fall as OPEC, IEA predict decline in demand in 2026
-At 10.01 am on Thursday, October Brent oil futures were at $88.79, down by 0.21 per cent, and September crude oil futures on WTI (West Texas Intermediate) were at $82.96, down by 0.37 per cent.
-
-## Milky Mist IPO Day 3 Live: ₹1,553-crore IPO booked nearly 3 times, last day to subscribe, Shiprocket full subscribed on Day 2
-Milky Mist IPO Day 3 live updates, Shiprocket IPO Day 2 Live Updates: Follow businessline for more stock market news
-
-## Stocks to Watch, Aug 13: Jio Financial, Groww, Laurus Labs, Airtel
-Jio Financial’s lending arm is set for a major BofA investment, while MSCI changes, infrastructure orders, Airtel’s plan revisions and Krystal’s acquisition of Citelum India provide stock-specific triggers for investors today
-
-## Muthoot Fincorp files draft papers for ₹3,000-crore IPO to boost capital base
-The IPO is entirely a fresh issue of equity shares, according to the Draft Red Herring Prospectus (DRHP) filed on Wednesday.
+## Gold, silver price prediction: Is gold, silver bull run back? Check outlook on August 13, 2026
+Gold had begun the week on a positive mark, breaking above the trendline resistance while the weekly trend keeps the door open for further gains. The 149,000 mark is the backbone of the bullish setup.
 
 ## Rupee falls 7 paise to 95.40 against US dollar amid FII selling, geopolitical risks
 The Indian Rupee weakened seven paise against the US dollar in early trade. Elevated crude oil prices and geopolitical uncertainty impacted investor sentiments significantly. The Strait of Hormuz standoff between the US and Iran added to market fragility. Foreign institutional investors were net sel
@@ -75,32 +84,32 @@ A parliamentary committee is increasingly scrutinizing whether the surge in oil 
 ## Top stocks to buy today: Stock recommendations for August 13, 2026 - check list
 Top stock market recommendations: Indian Bank, DLF, and Polycab India - Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management has picked these three stocks.
 
-## Oil prices slip as Opec cuts demand forecast, Iran war keeps supply risks alive
-Oil prices have witnessed a decline due to lowered global demand forecasts and a notable increase in US inventories. Both Opec and the IEA have adjusted their oil demand growth projections downward for the near future. Ongoing tensions in the Strait of Hormuz and Bab el-Mandeb Strait are amplifying 
+## Heavy rain lashes Odisha, IMD issues 'red warning' for entire state
+Heavy rain lashes Odisha, IMD issues 'red warning' for entire state
 
-## Parliament monsoon session LIVE: Session set for tense finish amid standoff over student protests, FCRA bill
-Parliament monsoon session LIVE updates: LoP Rahul Gandhi described Shah's offer as a “last-minute attempt” and said the Opposition was not interested in listening to a lecture from the home minister.
+## UP man caught after hiding inside box in widow's room for 3 days in Jalaun; paraded with woman around village
+The man had fled his home after a dispute with his wife and was in contact with the widow. No complaint has been filed yet.
 
-## Remove pre-ride tipping prompts, government directs ride-hailing aggregators
-The Union road transport and highways ministry said tipping shall be entirely voluntary and be offered only after completion of the journey
+## Hydraulic pressure, autopilot disconnect: Turbulence-hit Air India Phuket-Delhi flight logged 9 warnings in a minute
+Air India Phuket-Delhi flight: Warnings indicated low reservoir levels in the Yellow and Blue systems, autopilot disconnect and elevator flight-control fault.
 
-## Rape convict, ex-MP Prajwal Revanna's phone in Bengaluru jail had Netflix, WhatsApp, Insta, Prime Video
-Prajwal Revanna's phone was accompanied by a white charger, a blue pocket notebook and a black SanDisk pen drive.
+## 'Pakistan exporting terror; J&K not an issue…': On 1995 Independence Day, PV Narasimha Rao's warning
+As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister P. V. Narasimha Rao's Independence Day address from the Red Fort.
 
-## Audit reveals BOAT Mumbai diverted ₹17.3 cr SC/ST grant to pay General quota stipend
-CAG found BOAT Mumbai used ₹17.34 crore meant for SC/ST apprentices to pay stipends to General-category candidates.
+## 'Foreign infiltrators, arms smuggling…': on 1996 Independence Day, PM Deve Gowda's Northeast alert
+As India prepares to celebrate Independence Day, Hindustan Times revisits Prime Minister H. D. Deve Gowda's Independence Day address from the Red Fort.
 
-## From Dalit student denied drinking water to President: Kovind reflects on his journey in new memoir
-Ram Nath Kovind’s memoir traces his journey from a Dalit student to President, covering political experiences, One Nation, One Election and key leaders.
+## Contractor gunned down by unknown people during morning walk in Bihar: Police
+The contractor was taking a morning walk near his house. Four miscreants on two bikes came and fled after firing. Ramnaresh died on the spot after being hit by four bullets
 
-## India retail inflation holds steady at 4.45% in July despite stress over rise in food, fuel prices
-Retail inflation rose marginally to 4.45% in July from 4.38% in June, with food and fuel prices driving the recent increase.
+## House panel criticises Union government’s flagship welfare support for fisherfolk
+The panel said only about 2.1% of the estimated 28 million fisherfolk received assistance during the annual fishing ban between 2020 and 2025
 
-## UP: Husband, two others booked as Bhadohi woman alleges assault caused miscarriage
-UP: Husband, two others booked as Bhadohi woman alleges assault caused miscarriage
+## 2020 Delhi riots: Court says 'unsafe' to rely on tainted witness testimony
+2020 Delhi riots: Court says 'unsafe' to rely on tainted witness testimony
 
-## Woman dies while learning to drive as new car plunges into pond near Kolkata
-Locals told the media that some people jumped into the pond to save her immediately after the car fell into the pond, but failed
+## AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong
+The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for AI bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded on mainland China’s e
 
 ## Hong Kong developer Hysan’s first-half earnings rise 7.4% as project milestones near
 Hysan Development, the largest commercial landlord in Hong Kong’s Causeway Bay shopping district, posted an underlying profit of HK$1.11 billion (US$140.19 million) for the first half of 2026, an increase of 7.4 per cent from a year earlier, driven by a realised gain from the sale of residential uni
@@ -122,9 +131,6 @@ HSBC, the biggest lender in Hong Kong and Europe, has launched a major reshuffle
 
 ## Hong Kong stablecoin selection expands with Standard Chartered-led venture’s launch
 A Standard Chartered-led joint venture kicked off institutional use of Hong Kong dollar-backed stablecoins on Wednesday, a year after the city put its stablecoin law into effect as part of an effort to become a global hub for digital assets. Retail use of the regulated cryptocurrency was expected “a
-
-## BTS bump? Hong Kong’s hotels set for bonanza from superstars’ Arirang world tour
-The arrival of BTS’s world tour in Hong Kong next year is expected to be a sure-fire hit with the city’s hospitality sector, with hotels likely to see a similar surge in bookings to the one experienced in Seoul earlier this year when the South Korean pop superstars launched their comeback series of 
 
 ## What Does the Mecca Pact Deliver Pakistan?
 The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
@@ -222,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The US is now using the ‘terrorist’ label to interfere in Brazil’s election
+The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.
+
+## Will the Houthis shut down Saudi Arabian shipping?
+The announcement of a new naval blockade threatens to restart full-scale war between Yemen's Houthis and Saudi Arabia
+
+## Polls open in Zambia presidential election as economic reforms tested
+The vote will test if incumbent Hakainde Hichilema's reforms are enough to overcome widespread economic frustration.
+
+## Nearly 4 million Afghan children ‘acutely malnourished’
+One in 10 children in Afghanistan are suffering as healthcare funding plummets, Save the Children says.
+
+## Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors
+Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.
+
 ## Why tariffs are not the right tool to bolster US production
 Donald Trump’s second term has been defined by tariffs, but experts question whether they actually work.
 
@@ -231,23 +252,11 @@ Karoline Leavitt has announced that she will be stepping down from her position 
 ## Three Palestinian families besieged in their homes by Israeli settlers
 Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.
 
-## Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265
-President de La Espriella promises to set up an emergency fund to help rebuild destroyed hospitals and schools.
-
-## Oman says oil spill from stricken tanker has reached its coast
-Up to 40km of coastline affected by oil pollution, Omani environmental authority says.
-
-## Israeli settlers besiege three Palestinian families in West Bank’s Qusra
-Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.
-
-## Solar eclipse carves Eiffel Tower’s silhouette in Paris sky
-A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.
-
-## Olympic skateboarder times epic stunt with solar eclipse
-Spanish Olympic skateboarder Danny León timed a jump with the moon passing in front of the sun during a solar eclipse.
-
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
+
+## N Chandrasekaran’s five big moves: The bets and battles that defined his Tata Sons tenure
+From rebuilding Tata’s aviation franchise to placing a massive bet on semiconductors and accelerating the group’s energy transition, N Chandrasekaran’s decade at the helm has been defined by long term bets aimed at reshaping the conglomerate for India’s next phase of growth.
 
 ## Chandrasekaran exit marks end of transformative Tata era, CFOs flag succession challenge
 Finance leaders credit Tata Sons chairman with execution discipline, capital allocation rigour and group consolidation, while succession emerges as a key challenge.
@@ -266,9 +275,6 @@ A parliamentary panel urged faster reforms at the National Financial Reporting A
 
 ## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
 The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
-
-## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
-EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
 
 ## India, Southern African Customs Union sign terms of reference towards trade pact
 The government on Wednesday said that India and the Southern African Customs Union (SACU) have signed the Terms of Reference (ToR) for negotiations towards a Preferential Trade Agreement (PTA) between India and SACU, marking an important step towards strengthening trade and economic engagement.
