@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## Live reader Q&A — are droughts and wildfires our new normal?
-Take part in a live Ask an Expert Q&A with business columnist Pilita Clark and climate correspondent Attracta Mooney, now
+## Retail parks are the real threat to the British high street
+Outdoor commercial complexes are hot property, with supermarkets, stores and discount chains elbowing for room
 
-## The right must fight its own woke wing
-There are lessons to be learnt from the left on how rage alienates potential allies
+## Israeli settlers besiege Palestinian homes
+Incident in occupied West Bank is part of a broader campaign to push Palestinians off land
 
-## Price of niche rare earth jumps on fears of renewed Chinese export controls
-Erbium, used widely in infrastructure, is among the broad range of metals that China dominates production of
+## Burnham warns water companies against treating customers like ‘blank cheque’
+Prime minister criticises Ofwat decision to allow suppliers to raise bills unexpectedly higher to pay for new projects
 
-## Takaichi slams Putin’s visit to disputed Pacific islands
-Japan’s prime minister rebukes Russian president’s first-ever trip to Kuril Islands
+## In charts: Private schools widen lead over state rivals on A-level results day
+A growing number of students are taking economics, politics and further maths
 
-## FirstFT: Anthropic investors bet on $2tn valuation
-Also in today’s newsletter: Trump’s press officer steps down, and lab-grown diamonds win over women
+## Starmer allies warn Healey against blowing ‘strong’ economic inheritance
+Andy Burnham has signalled plans for spending increases
 
-## Sun, sea and bombs in Odesa
-In the port city known for its beaches and nightlife, Russian attacks are choking off an export lifeline
+## How Jason Arday’s appointment became a reckoning for Cambridge
+Resignation of Black professor forces university to examine its approach to diversity, equality and inclusion
 
-## UK growth resilient in second quarter
-Real GDP held up better than expected during the worst months of the energy price shock
+## Fierce Trump ally Leavitt shocks Washington and leaves White House
+Also in today’s newsletter, an exclusive interview with a top Federal Reserve official
 
-## Maersk chief calls for investment push to ease trade strains
-Container shipping group hiked guidance after port bottlenecks boosted freight rates and profits
+## Japan needs deterrence and renewal — not managed decline
+More than eight decades after the end of the second world war, the country must rethink its role in the world
+
+## Smoking is back in fashion. Why?
+After two decades in disgrace, the cancer stick has returned
+
+## Frasers buys Harvey Nichols for £40mn as Mike Ashley pushes into luxury
+Sports Direct owner warns of closures after purchasing department store chain through pre-pack administration deal
 
 ## Shein loses UK copyright lawsuit against Temu
 Legal dispute between arch rivals was a test of online platforms’ responsibility for third-party merchants
@@ -30,38 +36,50 @@ Legal dispute between arch rivals was a test of online platforms’ responsibili
 ## Canary Wharf Group sells SocGen office in £625mn deal
 Operating company behind London district has sold 1-5 Bank Street to its own investors Brookfield and the Qatar Investment Authority
 
-## TSMC and Sony team up, China’s AI stocks swing
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## Price of niche rare earth jumps on fears of renewed Chinese export controls
+Erbium, used widely in infrastructure, is among the broad range of metals that China dominates production of
 
-## The battle for control of India’s $280bn Tata Group
-Turbulent transition awaits N Chandrasekaran’s successor at conglomerate that owns Air India and Jaguar Land Rover
+## FirstFT: Anthropic investors bet on $2tn valuation
+Also in today’s newsletter: Trump’s press officer steps down, and lab-grown diamonds win over women
 
-## Wall Street’s basketball billionaire mess
-Two NBA owners are facing trouble in their Wall Street businesses
+## Maersk chief calls for investment push to ease trade strains
+Container shipping group hiked guidance after port bottlenecks boosted freight rates and profits
 
-## Indian Bank disburses ₹1,220 crore under Retail, Agriculture and MSME (RAM) segments
-Of the total sanctions, the MSME segment accounted for ₹615 crore
+## Govt mandates alternative fuel facilities at every third fuel outlet
+The move seeks to accelerate the adoption of cleaner fuels, reduce dependence on imported crude, curb pollution and promote energy security
 
-## Heavy rainfall to lash WB, Odisha, Chhattisgarh, Jharkhand
-Heavy to very heavy with isolated extremely heavy rain forecast for eastern states of West Bengal, Odisha, Chhattisgarh and Jharkhand over next two to three days
+## Tredence aims for $1 billion revenue by 2030
+Tredence also wants to move away from the traditional time and material contracts to more outcome-based pricing
 
-## El Nino poses threat to range of agricultural commodities, say analysts
-From rice to wheat to cocoa, palm oil, sugar and coffee, the impact of the weather will vary from crop to crop
+## Q1 Results Today Live: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Brigade profit rises
+Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## L&T secures mega order towards larger plan of building India’s largest NVIDIA B300 AI factory
-Marking its foray into AI Factory business, L&T will deploy NVIDIA infrastructure at its Chennai data centre campus
+## 70% of global ricebran oil potential remains untapped: SEA
+The global market has a potential of 8 million tonnes for rice bran oil against the current production of 2.4 million tonnes
 
-## Fraud cases in public sector banks fall, but the amount involved rises 58%
-Experts blame newer techniques used by fraudsters, the likes of digital arrests, for the rise in money siphoned off
+## Fino Payments Bank slips into the red
+Reports net loss of ₹13.72 crore in Q1FY27
 
-## Green energy to cut MSME secondary steel producers cost by 32%
-Renewable power is available at ₹4.5-6 per unit in several states, compared with grid tariffs of ₹7-8
+## Tata Trusts begins process to select Chandra’s successor as Tata Sons Chairman
+Tata Trusts said it respects Chandrasekaran’s decision not to offer himself for reappointment as Chairman
 
-## Muthoot Microfin eyeing micro-LAP focussed NBFCs for acquisition, plans to raise ₹500 cr via QIP
-Company posted ₹81.3 crore first quarter net profit
+## Anchor investors exit faster from smaller IPOs, finds SEBI study
+The study finds an inverse link between IPO size and anchor exits, with FPIs emerging as the biggest sellers after lock-in periods expire
 
-## More pesticide sprays, shorter waits raise residue concerns in Kashmir
-Farmers in the Valley often harvest horticultural produce and vegetables without observing the recommended waiting period after pesticide application, raising concerns over pesticide residues in food entering local markets.
+## Brigade Group profit rises 37% to ₹217 crore in Q1
+Revenue falls 12% in Q1FY27
+
+## India’s critical mineral push: Govt plans processing parks in 4 states
+India is set to establish four specialized parks dedicated to critical mineral processing, targeting lithium and nickel first. The initiative, spearheaded by state governments with central technical assistance, is aligned with the National Critical Mineral Mission aimed at bolstering self-reliance. 
+
+## US wholesale inflation slows to 4.7% in July: What comes next for Fed, consumers
+In July, wholesale prices in the United States exhibited a cooling trend, providing a much-needed breath of fresh air. The decline in energy costs significantly reduced producer price pressures throughout the month. While consumer inflation also saw a slight dip, financial constraints persist for ma
+
+## US stock market today: Wall Street moves towards all-time high as inflation moderates and oil prices drop
+Investor sentiment improved after government data showed wholesale prices in the United States were 4.7% higher in the latest month compared with a year earlier.
+
+## What Trump tariffs? Russia now supplies more than half of India’s crude oil imports
+According to GTRI’s analysis, in June India imported crude oil worth $14.8 billion from all sources, of which $7.2 billion came from Russia. This translated into a Russian share of 48.6%.
 
 ## Indian IT sector job market is changing: What can get you hired & at a premium
 Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas.
@@ -75,41 +93,32 @@ The proposed Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would emp
 ## MDR on UPI soon? Parliamentary Panel recommends expeditious introduction on high-value transactions
 Commenting on the incentive programme for promoting RuPay Debit Cards and low-value BHIM-UPI transactions, the Committee noted that the budgetary allocation of Rs 2,000 crore to compensate for losses arising from the zero-MDR regime unnecessarily increases the Department's Demand for Grants
 
-## ‘Respect decision’: Tata Trusts reacts to N Chandrasekaran’s exit move; panel to select successor
-The Sir Dorabji Tata Trust (SDTT) has begun the process of appointing a successor to N Chandrasekaran as chairman of Tata Sons, a day after he announced that he would not seek another term when his current tenure concludes on February 20, 2027.
+## Meghalaya HC panel seeks urgent action plan to curb illegal coal mining
+The Meghalaya HC-appointed Justice BP Katakey committee urged the state to notify an action plan against illegal coal mining and fence abandoned rat-hole pits.
 
-## E20 petrol row: Carmakers' internal data flags fuel contamination concerns; complaint later withdrawn
-The rollout of E20 petrol has sparked dissatisfaction among motorists, with hundreds claiming the fuel has lowered vehicle mileage, increased wear and tear and even prompted at least one legal challenge.
+## 3 workers trapped, 16 rescued as tunnel collapses in Uttarakhand's Chamoli, water gushes in
+Sixteen workers have been rescued so far, while a search and rescue operation is underway to evacuate the remaining three, officials said.
 
-## Gold, silver price prediction: Is gold, silver bull run back? Check outlook on August 13, 2026
-Gold had begun the week on a positive mark, breaking above the trendline resistance while the weekly trend keeps the door open for further gains. The 149,000 mark is the backbone of the bullish setup.
+## Teacher beats class 10 girls, leaving them unable to write exam in Tamil Nadu, booked
+The incident took place on July 20 at a Government Higher Secondary School in VK Pudur near Surandai in Tamil Nadu.
 
-## Rupee falls 7 paise to 95.40 against US dollar amid FII selling, geopolitical risks
-The Indian Rupee weakened seven paise against the US dollar in early trade. Elevated crude oil prices and geopolitical uncertainty impacted investor sentiments significantly. The Strait of Hormuz standoff between the US and Iran added to market fragility. Foreign institutional investors were net sel
+## Centre agrees in principle to rail travel concessions for acid attack survivors
+Have agreed in principle to give railway travel concessions to acid attack victims, Centre tells SC
 
-## Pickup van driver, 21, found dead in vehicle near Mussoorie: Uttarakhand police
-A 21-year-old pickup van driver was found hanging from his vehicle near Old Maggi Point on the Mussoorie-Dehradun highway, police said.
+## Jharkhand students block road to protest headmaster's transfer
+On August 12, Singh was directed to report back to his parent institution, Lawahi Kala High School in Dandai block of the district, he said.
 
-## Telangana school principal found dead with 27 stab wounds at her home: Police
-Kallu Roopa Reddy, principal and director of Nagarjuna Grammar English Medium School in Kondamallepally, suffered around 27 stab wounds in the attack
+## Bangladesh turns to India for help as power crisis forces 8 pm shutdown for malls, shops
+Bangladesh government has directed shops, markets and shopping malls to shut shop by 8 pm amid ongoing power crisis in country.
 
-## Prayers, walk to gurdwara langar hall, then strike: Blow-by-blow of ‘kirpan’ attack on SAD's Sukhbir Singh Badal
-Badal arrived in Nanded for a three-day visit with wife Harsimrat Kaur and close associates. He was attacked at a gurdwara in Nanded by a Nihang, a day later.
+## Veterinary doc dies by suicide after being cheated of ₹1.40cr in UP: Police
+The deceased had lodged an FIR at AIIMS police station on August 5, alleging a ₹1.40-crore fraud involving a woman holding a PhD.
 
-## 'Do you not want India to stay healthy?' Top court grills Centre, FSSAI over food labels
-The bench was particularly concerned by minutes of a recent meeting of the food regulator suggesting continued hesitation over front-of-pack warning labels.
+## Bengal revokes BJP MP Anant Maharaj’s Banga Bibhushan after Netaji remarks
+The decision came a day after CM Suvendu Adhikari warned of strict action against those making derogatory comments against the iconic freedom fighter
 
-## Kurukshetra man stabbed to death in Germany, had planned to visit home on Diwali
-The deceased’s sister Noni said she had already sent a Rakhi for her brother and Vishu had promised to give her a ring on Raksha Bandhan.
-
-## PM Modi inquires about Sukhbir Singh Badal's health after ‘kirpan attack’ in Nanded
-Narendra Modi inquired about former Punjab deputy chief minister Sukhbir Singh Badal’s health in a phone conversation with his wife.
-
-## How Tata Sons will pick N Chandrasekaran's successor and who will choose him
-The Trusts specifically acknowledged Chandrasekaran's contribution during a period of "significant change, growth and transformation" across the Tata group.
-
-## 2 attacks in 2 years, 2 escapes: Sukhbir Singh Badal attack in Nanded reminiscent of close call in Amritsar
-Sukhbir Singh Badal survived an assassination attempt while performing sewa at the entrance of the Golden Temple in Amritsar on 4 December, 2024.
+## SF Reit’s distributable income falls 7.3% in first half as occupancy holds steady
+SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year. The firm – which is controlled by the Chinese logistics giant SF Holding – re
 
 ## JD.com’s second-quarter profit climbs 15% as food-delivery losses narrow
 Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per cent year on year to 7.1 billion yuan (US$1.1 billion), beating market expectations despite a slight dip in overall revenue, as it contends with sluggish domestic consumer demand, fierce competition and a push into new bus
@@ -132,8 +141,8 @@ Financial markets have been gripped by concern in recent days over reports that 
 ## AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong
 The gap in stock prices for dual-listed Chinese companies trading on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for artificial intelligence bolsters sentiment on yuan-traded stocks. Shares of the 202 dual-listed companies traded 
 
-## Hong Kong developer Hysan’s first-half earnings rise 7.4% as project milestones near
-Hysan Development, the largest commercial landlord in Hong Kong’s Causeway Bay shopping district, posted an underlying profit of HK$1.11 billion (US$140.19 million) for the first half of 2026, an increase of 7.4 per cent from a year earlier, driven by a realised gain from the sale of residential uni
+## Why Israel Won’t Make Qatar an Enemy
+Doha’s ties to Gaza and Hamas make it deeply controversial but also indispensable.
 
 ## Drone Warfare Comes to Latin America
 Battle-tested tech from Ukraine has reached the region’s armed groups—and governments are struggling to catch up.
@@ -155,9 +164,6 @@ Moscow will soon have to redirect a growing share of its exports to Asia.
 
 ## Will Myanmar Get What It Wants From ASEAN?
 A Bangkok visit by junta leader Min Aung Hlaing reinforced the two countries’ ties.
-
-## The Houthis Are Risking Everything for Iran
-Tehran’s proxy risks pushing a newly consolidated Saudi Arabia into an all-out ground war.
 
 ## Vietnam, Rare Earths, and the Evolving China Plus One Strategy
 Vietnam has benefited greatly from foreign firms' desire to de-risk from China. Can it free itself of dependence on the country's critical rare earth inputs?
@@ -231,35 +237,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Falling Danube flow forces shutdown of Romania’s sole nuclear plant
-Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country's electricity.
+## Turkiye’s AK Party turns 25: A journey of change and renewal
+In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.
 
-## Infantino’s FIFA fate must go to an election, says Africa football chief
-CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March's election.
+## Iran says Strait of Hormuz under its control, rejects Trump claims
+Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
 
-## Five charts that explain the high cost of living in the UK
-UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.
+## Pro-Palestine football fans lament West Ham for signing Manor Solomon
+The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.
 
-## US-Iran talks in deadlock – what’s the latest?
-The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.
+## Oman says massive oil spill reaches coastline: What damage could it do?
+Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.
 
-## Colombia earthquake response tests new far-right government
-Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
+## Ukraine attacks key Russian grain terminal on Black Sea port
+Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.
 
-## More than 135 million people in Europe face temperatures over 35C
-Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.
+## Ebola outbreak caused by new ‘animal transmission’: What that means
+More than 2,000 people have died after contracting the latest strain of the Ebola virus.
 
-## Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’
-Israel carts away Gaza's rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.
+## Report from scene of Palestinian homes besieged by settlers
+Report from scene of Palestinian homes besieged by settlers
 
-## Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest
-Fulham's friendly in Malaga turned sour as the Premier League club walked off ahead of a penalty shootout.
+## Lebanese Americans sue US over Israel’s rights abuses in Lebanon war
+Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
 
 ## Only 22 Women CFOs, 9 CEOs Among Top 500 Listed Firms
-Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly listed companies in India, which equates to only 4.4% of these significant financial leadership positions. At the Chief Executive Officer level, representation is even more dismal with only nine women holding the title. 
+Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly listed companies in India, which equates to only 4.4%. At the Chief Executive Officer level, representation is even more dismal with only nine women holding the title. Although nearly 29% of directors are women in active
 
 ## N Chandrasekaran’s five big moves: The bets and battles that defined his Tata Sons tenure
 From rebuilding Tata’s aviation franchise to placing a massive bet on semiconductors and accelerating the group’s energy transition, N Chandrasekaran’s decade at the helm has been defined by long term bets aimed at reshaping the conglomerate for India’s next phase of growth.
