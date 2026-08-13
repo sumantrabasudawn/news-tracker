@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## Donald Trump loses his favourite press secretary as Karoline Leavitt exits
-Youngest White House spokesperson outshone all four of her predecessors in the perilous role
+## Boardroom battle at India’s $280bn behemoth heralds start of ‘Noel Tata era’
+Turbulent transition awaits N Chandrasekaran’s successor at Tata Sons, which owns Air India and Jaguar Land Rover
 
-## North Sea oil producers told to speed up well closures
-NSTA has fined one company more than £16mn this year and vows to enforce deadlines
+## FirstFT: Anthropic investors bet on $2tn valuation
+Also in today’s newsletter: Lab-grown diamonds and Wall Street’s wager on Nvidia’s AI chips
 
-## Cambridge says it will carry out independent probe into Arday appointment
-Move follows pressure from academics after university’s youngest-ever Black professor quit over plagiarism allegations
+## Wall Street’s basketball billionaire mess
+Two NBA owners are facing trouble in their Wall Street businesses
 
-## FirstFT: Taiwan hit by unprecedented ‘autonomous’ AI hack linked to China
-Also in today’s newsletter: Tata chair to step down and former Chinese premier Zhu Rongji dies aged 97
+## Russian ghost fleet tankers use ‘Mad Max’ nets to fend off Ukraine’s drones
+Defences on vessels under sanctions aim to protect against Ukraine’s vast maritime drone campaign
 
-## Wall Street giants bet Nvidia’s AI chips will defy the laws of finance
-Private capital firms are wagering that the crucial hardware will hold its value for years to come
+## Total cost of privately educating a child in the UK rises to £216,000
+Fees for boarding pupils rose slightly faster than day pupils to nearly £440,000
 
-## World witnesses one of nature’s greatest spectacles: a total solar eclipse
-Spectators and scientists gathered to witness full or partial blocking of the Sun across the northern hemisphere
+## US justice department shifts focus to government programme fraud
+New priority comes as federal prosecutors pull back from other white-collar enforcement in Trump’s second term
 
-## Karoline Leavitt to step down as White House press secretary
-Donald Trump says chief spokesperson will leave job at the end of the month
+## Everybody loves Nvidia — but then, they can’t afford not to
+There’s no mystery about why the Masters of the Universe are thrilled to be Huang’s wingmen
 
-## US inflation falls to 3.4% in July
-Fallout from Iran war continues to reverberate across economy even as petrol prices decline
+## A reality check is needed on Arctic shipping
+It will take a long time before new routes become more than a niche commercial activity
 
-## Mark Walter’s insurers rush to unwind affiliated investments
-TWG Global is seeking to refinance loans, restructure firms and bring in outside investors as prosecutors scrutinise books
+## Legal AI start-up Legora seeks funds at more than $10bn valuation
+Swedish company was valued at $5.6bn only four months ago as interest in artificial intelligence tools for professional services soars
 
-## The Amazon of used cars gets a balance sheet tune-up
-Carvana has long been a target of short sellers but bets against the company have fallen sharply
+## Anthropic investors bet on $2tn valuation in record IPO
+Rapid revenue growth fuels hope that the Claude maker can overcome challenges to become the biggest listing in history
 
-## China is winning the race for the Ice Silk Road
-Melting in the Arctic is unleashing a geopolitical tussle over new trade routes
+## Sensex today | Stock Market Live: Sensex, Nifty trade lower despite positive global cues; crude prices remain a concern
+Sensex, Nifty, Share Prices Live: Indian equities remained subdued despite stronger Asian markets, with firm crude prices and geopolitical risks keeping investors cautious. Domestic inflation, MSCI’s latest reshuffle and expectations around RBI policy are also likely to influence trading sentiment d
 
-## US press groups sue Trump over fast access to Truth Social posts
-Lawsuit seeks to stop president from publishing official government announcements exclusively on the platform
+## IMD: Heavy rainfall to lash WB, odisha, Chhattisgarh, Jharkhand for next 3 days
+Heavy to very heavy with isolated extremely heavy rain forecast for eastern states of West Bengal, Odisha, Chhattisgarh and Jharkhand over next two to three days
 
-## Bob Iger and Josh Kushner in $12.5bn deal for Lakers basketball franchise
-Guggenheim’s Mark Walter sells team after just a year of ownership amid US inquiry into insurance empire
+## Tata Motors CV shares surge over 6% after Q1 profit growth
+The stock traded at ₹478.10 at 9.49 am after hitting a high of ₹485, compared with the previous close of ₹457.05.
 
-## Switzerland pushes ahead with post-Credit Suisse crackdown
-Financial regulator may be given greater powers to intervene at troubled banks and levy fines
+## Lenskart shares zoom nearly 7% to fresh 52-week high after strong Q1 results and MSCI inclusion buzz
+Lenskart posted consolidated net profit of ₹221.84 crore in the April-June period; revenue from operations grew 43.3% to ₹2,714.18 crore
 
-## IIT Guwahati develops two-stage process to boost CO₂ capture and bioenergy production
-The technology could help industrial facilities use flue gas as a continuous carbon source while reducing the energy required for biomass recovery
+## Crude oil futures fall as OPEC, IEA predict decline in demand in 2026
+At 10.01 am on Thursday, October Brent oil futures were at $88.79, down by 0.21 per cent, and September crude oil futures on WTI (West Texas Intermediate) were at $82.96, down by 0.37 per cent.
 
-## Sensex today | Stock Market Live: Stock to buy today: Aarti Industries
-Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Aarti Industries. The stock had surged over 5 per cent on Wednesday breaking above a key resistance level of ₹520. The region between ₹520 and ₹515 will now act as a good support zone and limit the downside. The stock has been m
+## Milky Mist IPO Day 3 Live: ₹1,553-crore IPO booked nearly 3 times, last day to subscribe, Shiprocket full subscribed on Day 2
+Milky Mist IPO Day 3 live updates, Shiprocket IPO Day 2 Live Updates: Follow businessline for more stock market news
 
-## NaBFID plans $3-4 billion ECB raise to support infrastructure financing
-The infrastructure financier expects domestic long-term savings to play a bigger role in funding projects and other long-duration assets
-
-## Stocks in focus today: Jio Financial, Groww, Laurus Labs, Airtel among key movers
+## Stocks to Watch, Aug 13: Jio Financial, Groww, Laurus Labs, Airtel
 Jio Financial’s lending arm is set for a major BofA investment, while MSCI changes, infrastructure orders, Airtel’s plan revisions and Krystal’s acquisition of Citelum India provide stock-specific triggers for investors today
 
-## Putin says India, China among key partners interested in Northern Sea Route
-The Russian president’s remarks come as Western pressure on Moscow intensifies, with European nations stepping up action against its shadow fleet.
+## Muthoot Fincorp files draft papers for ₹3,000-crore IPO to boost capital base
+The IPO is entirely a fresh issue of equity shares, according to the Draft Red Herring Prospectus (DRHP) filed on Wednesday.
 
-## Houthis claim strikes on Saudi ship, military sites amid Red Sea tensions
-The latest escalation follows a deadly attack on a commercial vessel and renewed strikes around Yemen’s strategic Red Sea port
+## Rupee falls 7 paise to 95.40 against US dollar amid FII selling, geopolitical risks
+The Indian Rupee weakened seven paise against the US dollar in early trade. Elevated crude oil prices and geopolitical uncertainty impacted investor sentiments significantly. The Strait of Hormuz standoff between the US and Iran added to market fragility. Foreign institutional investors were net sel
 
-## India’s planned coal mine capacity nearly doubles to 638 mtpa in 2025
-Most of the proposed capacity is concentrated in Jharkhand and Odisha as India seeks to raise coal output sharply by 2030.
+## See Trump's posts first? Media groups sue over Truth Social’s paid access
+Press groups have filed a lawsuit against Trump Media & Technology Group. They challenge a new service offering paying customers early access to President Trump's posts. The lawsuit seeks to prevent exclusive release of official government information on the platform. Trump's firm defends the paid a
 
-## Karnataka clears 83 industrial projects worth ₹6,253 crore, to create 30,054 jobs
-The approvals span aerospace, defence, food processing, IT services and renewable energy, with major integrated industrial parks planned in Doddaballapura
+## India looking to expand strategic petroleum reserves with new facilities in MP, Rajasthan
+India plans new petroleum reserves at Bina and Bikaner to boost energy security. Additional storage capacity is also being added at Mangalore for greater supply resilience. The government is also developing reserves at Padur and Chandikhol under its expansion plan. These projects aim to meet global 
+
+## Parliament panel questions why rising oil & gas capex isn’t boosting production
+A parliamentary committee is increasingly scrutinizing whether the surge in oil and gas investments actually translates to higher domestic output. With a notable rise in capital expenditure, projections indicate a decline in crude oil production. The committee demands a comprehensive report detailin
+
+## Power ministry asks states to accelerate smart meter installation
+
+
+## Stock market today: BSE Sensex falls 160 points, NSE Nifty50 opens below 24,350
+
 
 ## Top stocks to buy today: Stock recommendations for August 13, 2026 - check list
 Top stock market recommendations: Indian Bank, DLF, and Polycab India - Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management has picked these three stocks.
@@ -72,47 +78,38 @@ Top stock market recommendations: Indian Bank, DLF, and Polycab India - Aakash K
 ## Oil prices slip as Opec cuts demand forecast, Iran war keeps supply risks alive
 Oil prices have witnessed a decline due to lowered global demand forecasts and a notable increase in US inventories. Both Opec and the IEA have adjusted their oil demand growth projections downward for the near future. Ongoing tensions in the Strait of Hormuz and Bab el-Mandeb Strait are amplifying 
 
-## Bank of America to invest up to Rs 18,000 crore for 49.9% stake in Jio Credit
+## Parliament monsoon session LIVE: Session set for tense finish amid standoff over student protests, FCRA bill
+Parliament monsoon session LIVE updates: LoP Rahul Gandhi described Shah's offer as a “last-minute attempt” and said the Opposition was not interested in listening to a lecture from the home minister.
 
+## Remove pre-ride tipping prompts, government directs ride-hailing aggregators
+The Union road transport and highways ministry said tipping shall be entirely voluntary and be offered only after completion of the journey
 
-## Chandrasekaran steps down: Now, Noel asserts ultimate control
+## Rape convict, ex-MP Prajwal Revanna's phone in Bengaluru jail had Netflix, WhatsApp, Insta, Prime Video
+Prajwal Revanna's phone was accompanied by a white charger, a blue pocket notebook and a black SanDisk pen drive.
 
+## Audit reveals BOAT Mumbai diverted ₹17.3 cr SC/ST grant to pay General quota stipend
+CAG found BOAT Mumbai used ₹17.34 crore meant for SC/ST apprentices to pay stipends to General-category candidates.
 
-## Amid shifting power & scrutiny, Chandrasekaran enters the final stretch
+## From Dalit student denied drinking water to President: Kovind reflects on his journey in new memoir
+Ram Nath Kovind’s memoir traces his journey from a Dalit student to President, covering political experiences, One Nation, One Election and key leaders.
 
+## India retail inflation holds steady at 4.45% in July despite stress over rise in food, fuel prices
+Retail inflation rose marginally to 4.45% in July from 4.38% in June, with food and fuel prices driving the recent increase.
 
-## Chandra says ok Tata
-Won't Seek Reappointment As Tata Sons Chair After Tenure Ends In Feb 2027
+## UP: Husband, two others booked as Bhadohi woman alleges assault caused miscarriage
+UP: Husband, two others booked as Bhadohi woman alleges assault caused miscarriage
 
-## ‘Rs 29,000 cr challenge’: Tata Sons’ new chief needs to deal with 3 major cash losers
+## Woman dies while learning to drive as new car plunges into pond near Kolkata
+Locals told the media that some people jumped into the pond to save her immediately after the car fell into the pond, but failed
 
+## Hong Kong developer Hysan’s first-half earnings rise 7.4% as project milestones near
+Hysan Development, the largest commercial landlord in Hong Kong’s Causeway Bay shopping district, posted an underlying profit of HK$1.11 billion (US$140.19 million) for the first half of 2026, an increase of 7.4 per cent from a year earlier, driven by a realised gain from the sale of residential uni
 
-## Food prices push up retail inflation to 4.45% in July
-Food Inflation Rises To 5.52% From 5.32% A Month Ago
+## China’s ‘brain chip’ drive accelerates with slew of state-backed initiatives
+For years, Elon Musk has dreamed of conquering a range of chronic health conditions by inserting computer chips into the human brain. But that vision could become reality fastest in China, where state authorities are launching a coordinated effort to accelerate the nascent industry’s development. Th
 
-## Karnataka bandh today: What's open, what's closed amid day-long shutdown over Cauvery water-sharing dispute
-Karnataka is observing a day-long bandh today in protest against CWMA's order to release 12,000 cusecs of water daily to Tamil Nadu for 15 days from August 12.
-
-## 6 farm labourers killed in lorry-auto collision in Telangana’s Sangareddy district
-When the autorickshaw was taking a U-turn on the highway near Satwar, a heavy tanker travelling at high speed from Mumbai towards Hyderabad crashed into it
-
-## Seven labourers find ‘ ₹50 lakh’ diamond in Madhya Pradesh’s Panna: ‘Rock measured 17.96 carats’
-A Madhya Pradesh man spotted the diamond on a leased land after a heavy rainfall.
-
-## Air India pilot who tested positive for marijuana slept 30-35 minutes during Phuket-Delhi flight
-The pilot told investigators he had been struggling with his sleep for some time because of personal circumstances.
-
-## Former Punjab CM Beant Singh’s murder convict declines custody parole offer, seeks regular parole
-Custody parole is a short-term, supervised release of a convicted prisoner from jail. An armed police escort stays with the inmate the entire time.
-
-## FCRA bill sent to JPC amid Opposition uproar, Amit Shah’s debate offer rejected: 'We are ready vs man lacks courage'
-The FCRA amendment bill was referred to a 31-member JPC amid Opposition protests, while Amit Shah’s offer to discuss student protests was rejected.
-
-## Manipur: NIA arrests one accused in Tranglaobi IED attack case
-The incident occurred on April 7, 2026 and resulted in the death of two minor children and injuries to another person
-
-## Karnataka Bandh LIVE updates: Police detain protesters amid heightened security; schools, banks open
-Karnataka Bandh LIVE updates: Bengaluru City Police have appealed for calm and cooperation ahead of the 'Karnataka Bandh' called for August 13, 2026, saying that they fully respect citizens' democratic right to protest peacefully within the law.
+## Why Hong Kong’s strategic advantages attract global talent
+A city’s ability to not only attract, but also retain high-calibre talent, plays an important role in the economic and policy development of governments around the world. Hong Kong has gained international recognition for its efforts in establishing itself as a world-class talent hub, with the city 
 
 ## Fubon Bank’s Hong Kong subsidiary opens first mainland China branch in Shenzhen
 Fubon Bank (Hong Kong) has opened its first branch outside its home market, moving into mainland China to tap surging cross-border business opportunities as competition among foreign lenders in the Greater Bay Area intensifies. The branch, located in Shenzhen’s Qianhai financial zone, would initiall
@@ -128,15 +125,6 @@ A Standard Chartered-led joint venture kicked off institutional use of Hong Kong
 
 ## BTS bump? Hong Kong’s hotels set for bonanza from superstars’ Arirang world tour
 The arrival of BTS’s world tour in Hong Kong next year is expected to be a sure-fire hit with the city’s hospitality sector, with hotels likely to see a similar surge in bookings to the one experienced in Seoul earlier this year when the South Korean pop superstars launched their comeback series of 
-
-## Fed policy outweighs geopolitical risks, China purchases as gold forecasts retreat: survey
-The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing price forecasts for the precious metal, according to a survey. Analysts cut their price projections for 2026 compared with s
-
-## Chinese AI start-up ModelBest, partner to Samsung and Huawei, launches pre-IPO process
-Chinese AI start-up ModelBest has kicked off its pre-initial public offering (IPO) tutoring process for a listing in mainland China, capitalising on growing demand for compact artificial intelligence models that run locally on devices like smartphones and laptops, and in cars. The four-year-old comp
-
-## China’s EV sales slide again amid fading incentives, weak demand and persistent price war
-Deliveries of electric vehicles (EVs) in China fell 3.9 per cent in July from a year earlier, extending their decline to a seventh consecutive month as fading government incentives and weaker consumer demand weighed on the market. Domestic sales of pure electric and plug-in hybrid vehicles last mont
 
 ## What Does the Mecca Pact Deliver Pakistan?
 The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
@@ -234,32 +222,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why tariffs are not the right tool to bolster US production
+Donald Trump’s second term has been defined by tariffs, but experts question whether they actually work.
+
+## Leavitt to leave as White House press secretary
+Karoline Leavitt has announced that she will be stepping down from her position as White House press secretary.
+
+## Three Palestinian families besieged in their homes by Israeli settlers
+Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.
+
+## Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265
+President de La Espriella promises to set up an emergency fund to help rebuild destroyed hospitals and schools.
+
+## Oman says oil spill from stricken tanker has reached its coast
+Up to 40km of coastline affected by oil pollution, Omani environmental authority says.
+
+## Israeli settlers besiege three Palestinian families in West Bank’s Qusra
+Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.
+
 ## Solar eclipse carves Eiffel Tower’s silhouette in Paris sky
 A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.
 
 ## Olympic skateboarder times epic stunt with solar eclipse
 Spanish Olympic skateboarder Danny León timed a jump with the moon passing in front of the sun during a solar eclipse.
 
-## Zimbabwe’s land reform enters a new chapter
-A new land policy is reopening disputes over farms seized during Zimbabwe’s land reform after 2000.
-
-## Half a tonne of Erling Haaland branded cocaine seized in Ecuador
-Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police.
-
-## Iran war live: US, Tehran exchange opposing claims over Hormuz control
-President Trump again insists US has 'total control' of strait, while Tehran resolute that the US must meet its demands.
-
-## Trump administration arrests Southern Poverty Law Center expert for fraud
-Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.
-
-## Media groups sue Trump over paid access to public social media posts
-Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.
-
-## Trump administration plans to give ICE officers electric-shock gloves
-US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president's immigration crackdown.
-
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
+
+## Chandrasekaran exit marks end of transformative Tata era, CFOs flag succession challenge
+Finance leaders credit Tata Sons chairman with execution discipline, capital allocation rigour and group consolidation, while succession emerges as a key challenge.
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
@@ -279,8 +270,8 @@ The legislation passed by Parliament links invoice settlement, dispute resolutio
 ## EPL to double beauty and cosmetics market share, eyes South East Asia and Africa next for expansion: CFO Deepak Goyal
 EPL aims to double its beauty and cosmetics market share to sixteen percent. This ambitious growth will be supported by expansion into Southeast Asia and Africa. The company's merger with Indovida will significantly facilitate this strategic market entry. EPL is focusing on premiumization and experi
 
-## Parliament passes Taxation Bill, Sitharaman says no fee on UPI transactions
-The Parliament approved the Taxation and other Laws (Amendment) Bill on Monday, with Finance Minister Nirmala Sitharaman making it clear that the legislation does not impose any tax or transaction charge on users making payments through the Unified Payments Interface (UPI).
+## India, Southern African Customs Union sign terms of reference towards trade pact
+The government on Wednesday said that India and the Southern African Customs Union (SACU) have signed the Terms of Reference (ToR) for negotiations towards a Preferential Trade Agreement (PTA) between India and SACU, marking an important step towards strengthening trade and economic engagement.
 
 ## No evidence of manipulation in new closing auction session: SEBI Chief
 India's capital markets regulator has found no signs of manipulation in the newly introduced closing auction session, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey said on Wednesday, amid concerns raised by some market participants over the new mechanism.
@@ -299,7 +290,4 @@ Banks have disbursed merely seventeen percent of the credit guarantee scheme fun
 
 ## India, South Africa-led SACU group may ink terms of reference for negotiating trade pact on Aug 12
 South Africa is India's largest trading partner within the SACU bloc. Bilateral trade between India and South Africa saw a dip last fiscal year. Other SACU members like Botswana and Namibia show growing trade with India.
-
-## Indonesia-India discuss proposal to create Preferential Trade Agreement
-Indonesian and Indian trade ministers met to boost bilateral trade and investment. They discussed accelerating cooperation and enhancing market access for mutual benefit. Both nations are reviewing the ASEAN-India Trade in Goods Agreement, aiming for 2026. Indonesia supports simpler, business-friend
 
