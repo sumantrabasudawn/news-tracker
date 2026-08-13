@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Donald Trump loses his favourite press secretary as Karoline Leavitt exits
+Youngest White House spokesperson outshone all four of her predecessors in the perilous role
+
+## North Sea oil producers told to speed up well closures
+NSTA has fined one company more than £16mn this year and vows to enforce deadlines
+
 ## Cambridge says it will carry out independent probe into Arday appointment
 Move follows pressure from academics after university’s youngest-ever Black professor quit over plagiarism allegations
 
@@ -21,12 +27,6 @@ Fallout from Iran war continues to reverberate across economy even as petrol pri
 ## Mark Walter’s insurers rush to unwind affiliated investments
 TWG Global is seeking to refinance loans, restructure firms and bring in outside investors as prosecutors scrutinise books
 
-## Burnham urges retailers to stop selling disposable BBQs amid wildfires
-PM holds emergency government meeting in response to drought and heatwaves
-
-## North Sea oil producers told to speed up well closures
-NSTA has fined one company more than £16mn this year and vows to enforce deadlines
-
 ## The Amazon of used cars gets a balance sheet tune-up
 Carvana has long been a target of short sellers but bets against the company have fallen sharply
 
@@ -42,77 +42,80 @@ Guggenheim’s Mark Walter sells team after just a year of ownership amid US inq
 ## Switzerland pushes ahead with post-Credit Suisse crackdown
 Financial regulator may be given greater powers to intervene at troubled banks and levy fines
 
-## AvenuesAI net profit rises 45%, targets ₹13,000 crore revenue in FY27
-The fintech firm is targeting faster growth through Rediff, US payments expansion and an AI-led transaction intelligence platform called TISco.
+## IIT Guwahati develops two-stage process to boost CO₂ capture and bioenergy production
+The technology could help industrial facilities use flue gas as a continuous carbon source while reducing the energy required for biomass recovery
 
-## July US CPI eases to 3.4%, keeping Fed September rate decision in focus
-July inflation data strengthened bets for a Fed rate hold, although persistent underlying pressures keep the possibility of a hike alive.
+## Sensex today | Stock Market Live: Stock to buy today: Aarti Industries
+Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Aarti Industries. The stock had surged over 5 per cent on Wednesday breaking above a key resistance level of ₹520. The region between ₹520 and ₹515 will now act as a good support zone and limit the downside. The stock has been m
 
-## Google Pixel 11 lineup launched with prices starting at $899
-The Pixel 11 series brings upgraded cameras, brighter displays and enhanced Gemini AI, while Google also expands its foldable smartphone lineup
+## NaBFID plans $3-4 billion ECB raise to support infrastructure financing
+The infrastructure financier expects domestic long-term savings to play a bigger role in funding projects and other long-duration assets
 
-## Bank of America to acquire up to 49.9% stake in Jio Credit for ₹18,268 crore
-Jio Credit is betting on digital innovation and fresh capital to transform credit delivery across India
+## Stocks in focus today: Jio Financial, Groww, Laurus Labs, Airtel among key movers
+Jio Financial’s lending arm is set for a major BofA investment, while MSCI changes, infrastructure orders, Airtel’s plan revisions and Krystal’s acquisition of Citelum India provide stock-specific triggers for investors today
 
-## Jaro Education net up 48% on robust online learning adoption
-Jaro records gross bookings of ₹190 crore and 8,169 admissions during the quarter, comprising 6,979 degree admissions and 1,190 certification admissions
+## Putin says India, China among key partners interested in Northern Sea Route
+The Russian president’s remarks come as Western pressure on Moscow intensifies, with European nations stepping up action against its shadow fleet.
 
-## Editorial. Shifting sands
-Chandrasekaran’s move heralds a new era
+## Houthis claim strikes on Saudi ship, military sites amid Red Sea tensions
+The latest escalation follows a deadly attack on a commercial vessel and renewed strikes around Yemen’s strategic Red Sea port
 
-## Bosch India bets on CAFE III, ADAS, localisation to power next growth phase
-Bosch Ltd expects its 14 per cent EBITDA margin to sustain as higher localisation, productivity gains and a richer product mix combine with regulatory opportunities in CAFE III and commercial-vehicle ADAS to drive its next phase of growth.
+## India’s planned coal mine capacity nearly doubles to 638 mtpa in 2025
+Most of the proposed capacity is concentrated in Jharkhand and Odisha as India seeks to raise coal output sharply by 2030.
 
-## Karan Adani meets AP CM Naidu on ₹16,000-cr titanium plant in Srikakulam
-Adani Group also presents master plan for its proposed data centre and IT park in Visakhapatnam
+## Karnataka clears 83 industrial projects worth ₹6,253 crore, to create 30,054 jobs
+The approvals span aerospace, defence, food processing, IT services and renewable energy, with major integrated industrial parks planned in Doddaballapura
+
+## Top stocks to buy today: Stock recommendations for August 13, 2026 - check list
+Top stock market recommendations: Indian Bank, DLF, and Polycab India - Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management has picked these three stocks.
+
+## Oil prices slip as Opec cuts demand forecast, Iran war keeps supply risks alive
+Oil prices have witnessed a decline due to lowered global demand forecasts and a notable increase in US inventories. Both Opec and the IEA have adjusted their oil demand growth projections downward for the near future. Ongoing tensions in the Strait of Hormuz and Bab el-Mandeb Strait are amplifying 
+
+## Bank of America to invest up to Rs 18,000 crore for 49.9% stake in Jio Credit
+
+
+## Chandrasekaran steps down: Now, Noel asserts ultimate control
+
+
+## Amid shifting power & scrutiny, Chandrasekaran enters the final stretch
+
+
+## Chandra says ok Tata
+Won't Seek Reappointment As Tata Sons Chair After Tenure Ends In Feb 2027
+
+## ‘Rs 29,000 cr challenge’: Tata Sons’ new chief needs to deal with 3 major cash losers
+
 
 ## Food prices push up retail inflation to 4.45% in July
 Food Inflation Rises To 5.52% From 5.32% A Month Ago
 
-## New RBI rules may end loan spread tinkering
-To Standardise Rate Setting Across Banks, NBFCs
+## Karnataka bandh today: What's open, what's closed amid day-long shutdown over Cauvery water-sharing dispute
+Karnataka is observing a day-long bandh today in protest against CWMA's order to release 12,000 cusecs of water daily to Tamil Nadu for 15 days from August 12.
 
-## Who next? Tata Steel MD’s name does the rounds after Chandrasekaran steps down
-'Not prepared', P 26
+## 6 farm labourers killed in lorry-auto collision in Telangana’s Sangareddy district
+When the autorickshaw was taking a U-turn on the highway near Satwar, a heavy tanker travelling at high speed from Mumbai towards Hyderabad crashed into it
 
-## N Chandrasekaran steps down: How power struggle at Tata group is deepening with exit of Ratan Tata’s key allies
-The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate.
+## Seven labourers find ‘ ₹50 lakh’ diamond in Madhya Pradesh’s Panna: ‘Rock measured 17.96 carats’
+A Madhya Pradesh man spotted the diamond on a leased land after a heavy rainfall.
 
-## Indian Railways rolls out passenger train coaches for Bangladesh Railway; check top features & images
-The coaches have been tailor-made to meet the operational needs of Bangladesh Railway as well as improve passenger comfort. The ministry said the coaches also include a range of passenger-focused amenities.
+## Air India pilot who tested positive for marijuana slept 30-35 minutes during Phuket-Delhi flight
+The pilot told investigators he had been struggling with his sleep for some time because of personal circumstances.
 
-## ‘Don’t pay attention to gossip, conspiracies you hear’: What N Chandrasekaran told Tata Sons staff
-Speaking at a town hall meeting held at Bombay House in the afternoon, Chandrasekaran reportedly said he had been "touched with the love and affection" shown to him by employees throughout his career and looked back on his 40-year journey with the Tata Group.
+## Former Punjab CM Beant Singh’s murder convict declines custody parole offer, seeks regular parole
+Custody parole is a short-term, supervised release of a convicted prisoner from jail. An armed police escort stays with the inmate the entire time.
 
-## Investing in mutual funds? Four ways to effectively manage risk for the right investment strategy
-Mutual fund investments inherently carry risks, but with the help of the aforementioned strategies one can easily manage them. All you need to do is formulate a balanced investment strategy that can withstand market changes.
+## FCRA bill sent to JPC amid Opposition uproar, Amit Shah’s debate offer rejected: 'We are ready vs man lacks courage'
+The FCRA amendment bill was referred to a 31-member JPC amid Opposition protests, while Amit Shah’s offer to discuss student protests was rejected.
 
-## CPI data: Retail inflation moves up to 4.45% in July; stays above RBI's target for second month
-Based on the All India Consumer Food Price Index (CFPI), provisional food inflation stood at 5.52% year-on-year in July 2026. Rural food inflation was estimated at 5.79%, whereas the corresponding rate for urban India was 5.05%.
+## Manipur: NIA arrests one accused in Tranglaobi IED attack case
+The incident occurred on April 7, 2026 and resulted in the death of two minor children and injuries to another person
 
-## Odisha: Woman allegedly gang-raped by six men in Cuttack, friend assaulted
-The group allegedly stopped their vehicle near Sukarpada village on the Cuttack-Chandbali Road, assaulted the man and raped the woman before fleeing the spot.
+## Karnataka Bandh LIVE updates: Police detain protesters amid heightened security; schools, banks open
+Karnataka Bandh LIVE updates: Bengaluru City Police have appealed for calm and cooperation ahead of the 'Karnataka Bandh' called for August 13, 2026, saying that they fully respect citizens' democratic right to protest peacefully within the law.
 
-## Video shows pitbull attacking couple on house hunt in Patiala; woman undergoes surgery
-A video of the incident shows the pet dog dashing out and attacking Shifali the moment the gate of the house was opened.
-
-## Kangana Ranaut slams Rahul Gandhi over remarks on Amit Shah: ‘He makes mockery of the country’
-Kangana's comments came after Rahul said he was not interested in hearing Shah’s response following the latter’s ‘prolonged absence’ from Parliament.
-
-## SC refuses deadline extension for Aravalli panel submissions
-The Supreme Court refused to extend the deadline for submissions to the committee defining the Aravalli hills, citing potential misuse to delay the process.
-
-## China says border situation with India 'generally stable' amid Arunachal tensions
-This came after India's external affairs ministry said that the state of border affairs has ramifications for overall India-China ties.
-
-## 9-year-old girl raped in front of brother in Madhya Pradesh's Bhind: Police
-The accused was identified as Arvind Valmiki (24). He also thrashed the brother of the victim.
-
-## Rajya Sabha passes bill to rename Kerala as ‘Keralam’
-The bill seeks to amend the First Schedule of the Constitution to change the name of the southern state to “Keralam”
-
-## Search on for Indore techie who went missing during trek near Bengaluru: Police
-A resident of Begur area, Advait Upadhyay reportedly informed his fiancée of his Shivagange trekking plan.
+## Fubon Bank’s Hong Kong subsidiary opens first mainland China branch in Shenzhen
+Fubon Bank (Hong Kong) has opened its first branch outside its home market, moving into mainland China to tap surging cross-border business opportunities as competition among foreign lenders in the Greater Bay Area intensifies. The branch, located in Shenzhen’s Qianhai financial zone, would initiall
 
 ## Can Berkshire Hathaway without Warren Buffett remain a ‘north star’ for China’s investors?
 For decades, thousands of Chinese investors made pilgrimages each spring to Omaha, in the central US state of Nebraska, treating Warren Buffett’s shareholder meetings for investment firm Berkshire Hathaway less as corporate briefings than as audiences with an oracle. Buffett’s retirement as CEO, eff
@@ -129,14 +132,11 @@ The arrival of BTS’s world tour in Hong Kong next year is expected to be a sur
 ## Fed policy outweighs geopolitical risks, China purchases as gold forecasts retreat: survey
 The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing price forecasts for the precious metal, according to a survey. Analysts cut their price projections for 2026 compared with s
 
-## Chinese AI start-up ModelBest kicks off pre-IPO tutoring process for mainland listing
+## Chinese AI start-up ModelBest, partner to Samsung and Huawei, launches pre-IPO process
 Chinese AI start-up ModelBest has kicked off its pre-initial public offering (IPO) tutoring process for a listing in mainland China, capitalising on growing demand for compact artificial intelligence models that run locally on devices like smartphones and laptops, and in cars. The four-year-old comp
 
 ## China’s EV sales slide again amid fading incentives, weak demand and persistent price war
 Deliveries of electric vehicles (EVs) in China fell 3.9 per cent in July from a year earlier, extending their decline to a seventh consecutive month as fading government incentives and weaker consumer demand weighed on the market. Domestic sales of pure electric and plug-in hybrid vehicles last mont
-
-## Hong Kong seeks tech exposure to take on Nasdaq amid Beijing’s rising AI dominance
-Hong Kong is doubling down on efforts to increase its stock market’s exposure to the technology industry, as the city endeavours to catch up in the global artificial intelligence trade and potentially even challenge the Nasdaq. Several mainland Chinese hardware tech companies – particularly producer
 
 ## What Does the Mecca Pact Deliver Pakistan?
 The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Solar eclipse carves Eiffel Tower’s silhouette in Paris sky
+A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.
+
+## Olympic skateboarder times epic stunt with solar eclipse
+Spanish Olympic skateboarder Danny León timed a jump with the moon passing in front of the sun during a solar eclipse.
+
+## Zimbabwe’s land reform enters a new chapter
+A new land policy is reopening disputes over farms seized during Zimbabwe’s land reform after 2000.
+
+## Half a tonne of Erling Haaland branded cocaine seized in Ecuador
+Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police.
+
+## Iran war live: US, Tehran exchange opposing claims over Hormuz control
+President Trump again insists US has 'total control' of strait, while Tehran resolute that the US must meet its demands.
+
 ## Trump administration arrests Southern Poverty Law Center expert for fraud
 Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.
 
@@ -243,20 +258,8 @@ Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exc
 ## Trump administration plans to give ICE officers electric-shock gloves
 US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president's immigration crackdown.
 
-## US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
-The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
-
-## Hegseth cautions that ICC may investigate US boat strikes in Latin America
-US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.
-
-## PSG win back-to-back UEFA Super Cups with victory over Aston Villa
-Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo's goal is in vain for Aston Villa.
-
-## Thousands missing after Colombia quake as rescue continues
-Thousands missing after Colombia quake as rescue continues
-
-## Morocco says working to prevent potential new Ceuta crossings surge
-Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.
+## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
+RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
 
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
@@ -278,9 +281,6 @@ EPL aims to double its beauty and cosmetics market share to sixteen percent. Thi
 
 ## Parliament passes Taxation Bill, Sitharaman says no fee on UPI transactions
 The Parliament approved the Taxation and other Laws (Amendment) Bill on Monday, with Finance Minister Nirmala Sitharaman making it clear that the legislation does not impose any tax or transaction charge on users making payments through the Unified Payments Interface (UPI).
-
-## REITs set to gain tax flexibility, cash flow boost under new Bill
-Indian REITs could gain greater tax flexibility under the Taxation and Other Laws (Amendment) Bill, 2026, which allows SPVs to opt for concessional corporate tax rates, avoid future MAT and use accumulated MAT credits while retaining tax-exempt dividends for unitholders.
 
 ## No evidence of manipulation in new closing auction session: SEBI Chief
 India's capital markets regulator has found no signs of manipulation in the newly introduced closing auction session, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey said on Wednesday, amid concerns raised by some market participants over the new mechanism.
