@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## FirstFT: Anthropic investors bet on $2tn valuation
+Also in today’s newsletter: Trump’s press officer steps down, and lab-grown diamonds win over women
+
+## Sun, sea and bombs in Odesa
+In the port city known for its beaches and nightlife, Russian attacks are choking off an export lifeline
+
 ## Are droughts and wildfires our new normal? Submit your questions
 Take part in a live Ask an Expert Q&A with business columnist Pilita Clark and climate correspondent Attracta Mooney today at 1pm (BST)
 
@@ -9,8 +15,8 @@ Real GDP held up better than expected during the worst months of the energy pric
 ## Maersk chief calls for investment push to ease trade strains
 Container shipping group hiked guidance after port bottlenecks boosted freight rates and profits
 
-## Record number of UK students opt for degrees in engineering and tech
-Students securing university places for courses in social sciences and law also increased
+## Number of UK pupils sitting A-level economics rises over 10%
+Universities also report a record number of students opting for degrees in engineering and tech
 
 ## South Korea orders new investors to take classes after single-stock trading frenzy
 Regulators tighten curbs less than three months after controversial products were introduced
@@ -18,17 +24,11 @@ Regulators tighten curbs less than three months after controversial products wer
 ## UK economy grows 0.4% in second quarter
 Expansion comes as businesses weather surge in energy prices
 
-## ‘The most difficult dilemma’
-Monetary policy and supply shocks
-
-## The battle for control of India’s $280bn Tata Group
-Turbulent transition awaits N Chandrasekaran’s successor at conglomerate that owns Air India and Jaguar Land Rover
-
 ## TSMC and Sony team up, China’s AI stocks swing
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## FirstFT: Anthropic investors bet on $2tn valuation
-Also in today’s newsletter: Lab-grown diamonds and Wall Street’s wager on Nvidia’s AI chips
+## The battle for control of India’s $280bn Tata Group
+Turbulent transition awaits N Chandrasekaran’s successor at conglomerate that owns Air India and Jaguar Land Rover
 
 ## Wall Street’s basketball billionaire mess
 Two NBA owners are facing trouble in their Wall Street businesses
@@ -42,29 +42,32 @@ Swedish company was valued at $5.6bn only four months ago as interest in artific
 ## Everybody loves Nvidia — but then, they can’t afford not to
 There’s no mystery about why the Masters of the Universe are thrilled to be Huang’s wingmen
 
-## Tamil Nadu govt’s maiden investment conclave attracts ₹67,452 cr from 97 companies
-With these, cumulative investment commitments secured during the first 100 days of the new Tamil Nadu government has crossed ₹1 lakh crore
+## Milky Mist IPO Day 3 Highlights: ₹1,553-crore IPO booked over 56x on closing day
+Milky Mist IPO Day 3 updates, Shiprocket IPO Day 2 Updates: Follow businessline for more stock market news
 
-## Sensex today | Stock Market Live: Sensex, Nifty trade with negative bias amid firm crude oil prices
-Sensex, Nifty, Share Prices Live: Indian equities remained subdued despite stronger Asian markets, with firm crude prices and geopolitical risks keeping investors cautious. Domestic inflation, MSCI’s latest reshuffle and expectations around RBI policy are also likely to influence trading sentiment d
+## Muthoot Fincorp files draft papers for ₹3,000 crore IPO
+The company plans to use the proceeds from the new issue to strengthen its Tier I capital base for future requirements
 
-## L&T secures AI data centre order worth up to ₹15,000 crore
-The centre, hosted at the firm’s ⁠Vyoma.AI unit in Chennai, will have a capacity of 10,000 NVIDIA B300 chips.
-
-## Q1 Results Today Live: Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Minda Corp PAT up, Godrej Industries con. PAT declines, TMPV, LG Electronics, Amber Enterprises, Brigade, JSW Cement, Honasa to announce Q1 results
+## Q1 Results Today Live: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Amber Enterprises, Brigade, JSW Cement to announce Q1 results
 Q1 Results Today, 13th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Parliament passes Mines and Minerals Amendment Bill
-Mines Minister G Kishan Reddy said the legislation does not seek to interfere with the autonomy or revenue rights of states, but aims to ensure uniform mineral rates across the country
+## India options trading drops 27% as new auction upends strategies
+Many proprietary trading firms and high-frequency traders, which provide liquidity on expiry days, have either stayed away from the auction or reduced activity in the initial days
 
-## Of hospitality and hospitals: Health panel report calls for transparent pricing, grievance redressal mechanisms
-Unhappy with being equated to the hospitality industry, healthcare associations are pointing to their layered costs and several compliances that add to their costs.
+## Ladakh’s rare black-necked cranes face mounting threats
+The festival, being held from Aug. 11 to 14, has brought together conservationists, researchers and experts from India and abroad, including participants from Bhutan and Nepal, to discuss protection of the species and its fragile high-altitude habitat
 
-## Milky Mist IPO Day 3 Live: ₹1,553-crore IPO booked 25x with few hours left to close, Shiprocket subscribed over 2x on Day 2
-Milky Mist IPO Day 3 live updates, Shiprocket IPO Day 2 Live Updates: Follow businessline for more stock market news
+## F&B out-of-home sales volume dip 8.6 per cent, value growth in FY26 : Worldpanel by Numerator
+Group consumption ocassions, healthier food options reshaping the out-of-home food and beverage landscape
 
-## Can the Kospi bull run last? Korean stocks jump 22% in 10 days on AI rally
-Heavyweight memory chipmakers Samsung Electronics Co and SK Hynix Inc drive advance
+## Sensex today | Stock Market Highlights: Sensex ends 113.61 points higher at 78,079; Nifty slips 40.10 points to 24,395
+Sensex, Nifty, Share Prices Highlights: Sensex managed to close 113.61 pts or 0.15% positive at 78,079.96 after hitting an intraday low of 77,665.89, and Nifty 50 was down 40.10 pts or 0.16% to 24,395.85.
+
+## NHAI sets 10-minute response time for highway ambulances; ₹10,000 penalty for delay
+NHAI, in its policy guidelines, further said that ambulances should bring accident victims to the nearest hospital within 1 hour from the time of ticket acceptance.
+
+## US tariff threat on Russian oil: Bill a concern for India, but ‘talks have been reassuring’
+The proposed Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would empower the US President to levy tariffs of up to 100% on countries that purchase large volumes of crude oil and natural gas from Russia.
 
 ## MDR on UPI soon? Parliamentary Panel recommends expeditious introduction on high-value transactions
 Commenting on the incentive programme for promoting RuPay Debit Cards and low-value BHIM-UPI transactions, the Committee noted that the budgetary allocation of Rs 2,000 crore to compensate for losses arising from the zero-MDR regime unnecessarily increases the Department's Demand for Grants
@@ -87,32 +90,32 @@ Press groups have filed a lawsuit against Trump Media & Technology Group. They c
 ## India looking to expand strategic petroleum reserves with new facilities in MP, Rajasthan
 India plans new petroleum reserves at Bina and Bikaner to boost energy security. Additional storage capacity is also being added at Mangalore for greater supply resilience. The government is also developing reserves at Padur and Chandikhol under its expansion plan. These projects aim to meet global 
 
-## Parliament panel questions why rising oil & gas capex isn’t boosting production
-A parliamentary committee is increasingly scrutinizing whether the surge in oil and gas investments actually translates to higher domestic output. With a notable rise in capital expenditure, projections indicate a decline in crude oil production. The committee demands a comprehensive report detailin
+## Woman, 35, dies after husband allegedly sets her ablaze in Rajasthan: Police
+A 35-year-old woman died after her husband allegedly poured petrol on her and set her ablaze at her parental home in Rajasthan’s Sri Ganganagar.
 
-## Andhra:2018 Andhra Group-I exam riddled with irregularities, say SIT probe
-Andhra:2018 Andhra Group-I exam riddled with irregularities, say SIT probe
+## Nihang in mid-60s: What we know about Sukhbir Singh Badal attacker
+Sukhbir Singh Badal was attacked while he was walking towards the langar hall after paying obeisance at the gurdwara.
 
-## Fourth rail line approved through strategic 'Chicken's Neck' corridor: official
-Fourth rail line approved through strategic 'Chicken's Neck' corridor: official
+## Govt says Track-2 dialogues with Pakistan outside its purview: ‘Individuals interacting in private capacity’
+On question asked by Kharge about Track-2 talks with Pakistan, MoS Kirti Vardhan Singh said participants act in private capacity.
 
-## Ex-TMC MLA Nirmal Ghosh arrested for ‘hastily cremating’ RG Kar rape-murder victim
-West Bengal chief minister Suvendu Adhikari had ordered the Barrackpore Police Commissioner to conduct a fresh probe into the alleged hasty cremation.
+## Ex-district judge, 90, kept under ‘digital arrest’, cheated of ₹2.5 cr in Jaipur
+A 90-year-old retired district judge in Jaipur was allegedly kept under ‘digital arrest’ for 15 days and duped of ₹2.5 crore by fake CBI, RBI officials.
 
-## RS Chairman regrets disruptions during Monsoon Session; House productivity only 39 pc
-RS Chairman regrets disruptions during Monsoon Session; House productivity only 39 pc
+## Himachal mostly dry amid scattered showers, heavy rain alert for Aug 14, 17, 18
+Of the 45 disrupted power transformers, 35 were in Mandi district, while 39 water supply schemes were affected across the state.
 
-## Excise policy: Arvind Kejriwal, Manish Sisodia move Delhi HC to dismiss CBI’s appeal
-Kejriwal and Sisodia argued that the agency filed the appeal with “unprecedented haste” and in a manner that reflected a lack of seriousness
+## Din, disruptions and a dozen bills: Monsoon Session comes to a close
+The disruptions had two key flashpoints. One was the police crackdown on students at Jantar Mantar and the other was the alleged theft of Ram Temple donations.
 
-## Violence erupts in Manipur as nine houses, church set ablaze by unknown armed miscreants in Kangpokpi district
-Local officials seek urgent action and support for displaced families, citing inadequate security response during the incident amid ongoing community tensions.
+## Air India to screen all pilots for drug abuse after turbulent flight's captain found 'high'
+Air India stressed the need to go beyond regulations prescribed by the DGCA “ to uphold the highest standards of safety and professionalism".
 
-## Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
-A Delhi court said three subject experts accused in the NEET-UG 2026 paper leak prima facie committed criminal breach of trust with the NTA.
+## 'No backdoor entry': Supreme Court gets UPSC undertaking on Odisha DGP selection
+The UPSC told the Supreme Court it will not finalise recommendations for Odisha’s next DGP until the court hears a plea challenging the selection process.
 
-## Nurse’s body recovered from locked toilet at Kolkata’s state-run NRS Hospital
-West Bengal health minister Sharadwat Mukherjee and top police officers rushed to the hospital when the news broke on Thursday morning
+## CK Hutchison Holdings reports 31-fold surge in first-half profit
+CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billionaire Li Ka-shing’s family, reported a 3,046 per cent increase in its first-half profit amid a period the firm’s chairman called “turbulent and uncertain”. Meanwhile, profit at CK Asset Holdings, the group’s other flagship
 
 ## ‘Very smooth’: passenger shares experience on C919’s first commercial international flight
 Arriving at his gate at Beijing Capital International Airport for a routine business trip to the Mongolian capital of Ulaanbaatar on Wednesday, Howard Deng was unaware he was about to take part in a Chinese aviation milestone. Air China flight 723 marked the first international service featuring the
@@ -134,9 +137,6 @@ For years, Elon Musk has dreamed of conquering a range of chronic health conditi
 
 ## Why Hong Kong’s strategic advantages attract global talent
 A city’s ability to not only attract, but also retain high-calibre talent, plays an important role in the economic and policy development of governments around the world. Hong Kong has gained international recognition for its efforts in establishing itself as a world-class talent hub, with the city 
-
-## Fubon Bank’s Hong Kong subsidiary opens first mainland China branch in Shenzhen
-Fubon Bank (Hong Kong) has opened its first branch outside its home market, moving into mainland China to tap surging cross-border business opportunities as competition among foreign lenders in the Greater Bay Area intensifies. The branch, located in Shenzhen’s Qianhai financial zone, would initiall
 
 ## What Does the Mecca Pact Deliver Pakistan?
 The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
@@ -162,6 +162,15 @@ Tehran’s proxy risks pushing a newly consolidated Saudi Arabia into an all-out
 ## A Middle Eastern NATO?
 What’s behind the defense pact between Turkey, Saudi Arabia, and Pakistan.
 
+## Vietnam, Rare Earths, and the Evolving China Plus One Strategy
+Vietnam has benefited greatly from foreign firms' desire to de-risk from China. Can it free itself of dependence on the country's critical rare earth inputs?
+
+## Myanmar’s Resistance Finally Has a Unified Front
+The new Steering Council for the Emergence of a Federal Democratic Union could change the course of the country's conflict.
+
+## Japan’s Underground Lab Wants to Solve the World’s Nuclear Waste Problem
+A rare visit to the Horonobe Underground Research Laboratory, where Japanese researchers are testing options for storing radioactive waste.
+
 ## Data of 15 Million Kazakhstanis Allegedly Leaked
 A hacker claims to have stolen the data from Kazakhstan eGov service. The authorities are investigating the claim.
 
@@ -176,15 +185,6 @@ Insights from Wayne Tan.
 
 ## Should India Worry About the Mecca Pact?
 The agreement is not directed against India, but it alters the strategic environment in which India-Pakistan relations play out.
-
-## Is Badakhshan Becoming the Epicenter of Anti-Taliban Resistance?
-Mounting resistance and ethnic tension are testing Taliban rule in Afghanistan’s north.
-
-## Japan’s Nuclear Taboo Is Starting to Crack
-Whether or not Japan’s nuclear policy is actually revised, the very fact that such a revision is being openly debated is a striking development.
-
-## The Cyrillic Stalemate: Why Uzbekistan’s Alphabet Reform is Still Stuck 30 Years Later
-Changing an alphabet involves more than just replacing letters; it requires a profound transformation of the state’s institutional and cultural fabric.
 
 ## The True Cost of Cheap Chips
 Given the relentless demand for computing power, electronic components are in scarce supply. Prices for certain memory chips, known as DRAM, have surged by more than 50 percent in a single quarter this year, and have roughly quadrupled since last fall. Because DRAM supply is tight, Apple, Dell, and 
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Eurovision to bar countries at war from hosting: What that means
+Israel, which hosted the contest in 2019, will no longer be allowed to do so - but can still compete, protesters say.
+
+## Russell Westbrook announces NBA retirement after 18 seasons
+Westbrook, a former NBA Most Valuable Player, holds the record for the most career triple-doubles in league history.
+
+## Life and loss as a first responder in southern Lebanon
+A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon's largest city.
+
+## What postcolonialism looks like in Southeast Asia
+AJ's Jamal Elshayyal moderates a panel of academics and leaders from four countries
+
+## Japan protests as Russia’s Putin visits disputed Kuril Islands
+Japanese PM says Putin's visit to the Pacific island chain, seized by the Soviet Union in 1945, is 'unacceptable'.
+
+## Singapore-flagged container ship crashes into riverbank in India
+A Singapore-flagged container ship crashed into a bank of the Hooghly River in eastern India.
+
 ## Yemeni forces say Houthi attack repelled in Taiz amid escalation
 Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.
 
 ## La Liga: What to know ahead of new 2026-27 football season
 Predictions, news and transfer latest ahead of the new La Liga season, as Barcelona and Real Madrid renew title rivalry.
-
-## FIFA’s Infantino backed by six Arab federations including Qatar and Morocco
-Football's top official boosted by further support for his presidency after proposed private investment in game nixed.
-
-## Pro-Palestine activists smear red paint on Danish defence company
-Pro-Palestine activists smear red paint on Danish defence company
-
-## Bangladesh humble Australia with worst total in contest as Hasan takes 6-55
-Australia dismissed for lowest total against Bangladesh as Hasan Mahmud claims career-best on Day One of first Test.
-
-## Photos: Hope fades in Colombia as teams dig for earthquake survivors
-Colombian rescuers battle time to save lives after deadly 7.4 earthquake, as hopes dwindle in search for survivors.
-
-## US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’
-Israeli settlers have blocked the homes of three Palestinian families in Qusra, cutting them off from food and supplies.
-
-## How to stay safe during an earthquake: A visual guide
-Earthquakes can happen suddenly, but knowing what to do before, during and after one can reduce the risk of injury.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
@@ -282,6 +282,9 @@ India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 l
 ## Finance panel seeks sector-specific audit studies, faster NFRA reforms
 A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
 
+## RBI turns upbeat as worst of Iran war shock recedes
+India’s economy is showing resilience five months after the Iran war sparked fears of inflation and a downturn. Inflation remains within the RBI’s tolerance band, while vehicle sales, credit growth and GST receipts point to firm demand. Strong corporate balance sheets and festive-season spending are
+
 ## Banks to reveal loan rates every month in RBI's disclosure tweak
 The Reserve Bank of India has proposed new lending rate guidelines. Regulated entities must declare lending rates monthly and reset floating loans quarterly. Total charges for microfinance and small loans will be capped by the regulator. These new norms aim to harmonize interest rate determination m
 
@@ -302,7 +305,4 @@ BRICS nations are exploring connections between their fast payment systems and c
 
 ## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
 The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
-
-## Rs 20,000 crore credit guarantee plan misses the mark
-Banks have disbursed merely seventeen percent of the credit guarantee scheme funds. Loan sanctions remain slow as banks show caution with smaller microfinance institutions. Larger microfinance companies are hesitant to borrow under the government's guarantee program. About one thousand crore rupees 
 
