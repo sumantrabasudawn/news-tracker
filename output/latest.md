@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Sheinbaum slams US for revoking visa of former Mexican president’s son
+Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’
+
+## Former Cambridge professor Jason Arday found dead
+University’s youngest-ever Black professor had been under scrutiny following plagiarism allegations
+
+## Jane Street suffers $15bn loss in July market ructions
+Wall Street trading firm has still recorded hefty trading revenues in 2026
+
 ## US accuses more than 40 countries of helping China avoid Trump’s tariffs
 White House says Canada, Japan, EU and others enabling evasion of levies for $60bn in trade via ‘transshipment scam’
 
@@ -9,20 +18,11 @@ PM visits scene of wildfire as he explores controversial moves to water down EV 
 ## Americans sour on Trump’s economy as affordability strains intensify
 Consumer sentiment and retail sales fall as the war in Iran worsens cost of living pressures
 
-## Sheinbaum slams US for revoking visa of former Mexican president’s son
-Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’
-
 ## Second UK train derails in less than 24 hours
 Incident in Essex follows derailment of train in East Sussex on Thursday
 
 ## Luigi Mangione admits shooting UnitedHealthcare CEO
 Ivy League graduate pleads guilty in federal case that has become lightning rod for debate about US healthcare system
-
-## Biotech VCs have become like bankers and we might all pay the price
-A shift in business models conflicts with the long-term nature of developing new drugs and treatment
-
-## How a bad trade pushed a US mortgage giant into a $2bn lifeline
-Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-minute deal with Oaktree
 
 ## Stockpickers: Persimmon, Savills, Caledonia Mining
 Our experts discuss which companies to buy, sell or hold this week
@@ -30,11 +30,14 @@ Our experts discuss which companies to buy, sell or hold this week
 ## Directors’ Deals: British American Tobacco’s newest director buys the dip
 Group warns of disappointing full-year profit growth
 
+## Biotech VCs have become like bankers and we might all pay the price
+A shift in business models conflicts with the long-term nature of developing new drugs and treatment
+
+## How a bad trade pushed a US mortgage giant into a $2bn lifeline
+Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-minute deal with Oaktree
+
 ## Bezos-backed group strikes deal for stake in Liverpool FC
 Consortium led by son-in-law of steel billionaire Lakshmi Mittal invests at valuation of more than $7bn
-
-## Activists are giving British M&A targets a helpful shove
-Investors can unlock value by pushing companies to spin off businesses or sell to rivals
 
 ## Count of Indian students in US sees sustained drop; at 29-month low
 Decline in count due to visa delays and immigration policy changes
@@ -228,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump dismisses mental health concerns on USS Lincoln aircraft carrier
+Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.
+
 ## Mount Etna eruption and volcanic ash shut Sicily’s busiest airport
 Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.
 
@@ -248,9 +254,6 @@ The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges
 
 ## Art offers young Gaza survivors solace and escape from war’s devastation
 Young survivors of Israel's genocidal war in Gaza find safe spaces to process trauma and rediscover joy.
-
-## Italian police recover stolen paintings worth over $10m
-Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
