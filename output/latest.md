@@ -1,61 +1,70 @@
 # AION Intelligence
 
-## AI frenzy drives Chinese tech valuations to multiples of US peers
-Support from Beijing has helped power 29% gain for Star 50 index this year
+## FirstFT: Cheaper Chinese models push OpenAI and Anthropic into price war
+Also in today’s newsletter: UK aid cuts and effective altruism revival
 
-## Is AI coming for Indian jobs? It’s already here
-Also in this newsletter: equity investments skew towards risk
+## New Forest blaze points to challenge for under-pressure fire services
+Drop in firefighter numbers in England leaves brigades stretched as incident call-outs rise
 
-## Trump launches tariffs targeting Chinese drone technology
-US to impose up to 100% levies on unmanned aircraft and their components
+## Mortgage costs pushed higher by US stand-off with Iran
+Interest rates on home loans have jumped in America and several big European economies in recent weeks
 
-## BP joins Big Oil return to post-Maduro Venezuela
-British company among winners of offshore licence less than nine months after US toppled Caracas strongman
+## JPMorgan debanked Polymarket over regulatory concerns
+Largest US bank has continued to cultivate ties with prediction platform as it seeks $20bn valuation
 
-## UK houses caught up in wildfires during hottest day of the year
-Blazes at several locations in the Midlands as temperatures reach 38.1C in London
+## Venezuela and its opposition want gold back from Bank of England vaults
+After US-backed negotiations, the two sides said they would push to access $4bn in bullion held in the UK
 
-## 20 people injured in UK train derailment
-Three carriages on the Southern Rail service are flipped on to their side
+## Fragile states in Africa and Middle East hit by more than 40% cut in UK direct aid
+Campaigners sound alarm over cuts to development spending pushed through to fund defence investment
 
-## FirstFT: The battle for control of India’s biggest conglomerate
-Also in today’s newsletter: Anthropic investors bet on $2tn valuation and Sanae Takaichi slams Vladimir Putin’s visit to disputed Pacific islands
+## Banks’ private credit disclosures highlight value of sunlight
+Executives know that when investors are nervous, more information is better than less
 
-## US sells 30-year bonds at highest borrowing costs since 2001
-Yields have jumped amid concerns over mounting public debt and persistently high inflation
+## Farage aide Cottrell had secret Polymarket account that placed bets on Trump victory
+Large sums involved shine light on the financial activities of one of Farage’s closest confidants
 
-## FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire
-US scrutiny of billionaire’s sprawling finance holdings reached beyond insurers into securities and asset management giant
+## The trillion-dollar IPO vibes continue
+Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October
 
-## EY vaults from bottom to top of Big Four US audit quality league table
-Inspectors cited fewer flaws in the work of the biggest firms in latest accounting board survey
+## Owner of collapsed lender MFS to pay £3mn to his lawyers at Mishcon de Reya
+Administrators agree to Paresh Raja using funds from frozen account as he defends claim he misappropriated £1.3bn
 
-## Billionaires are taking over sports teams — and that’s a risk for fans
-Franchises risk getting caught up in the disparate affairs of their financier owners
+## Activist Cevian calls for higher pay for UK board members
+Investor argues non-executive pay should triple to help boost performance and growth
 
-## Agoda and Singapore Tourism Board Expand Partnership to Boost Demand and Tech Transformation in Tourism
-Agoda and Singapore Tourism Board Expand Partnership to Boost Demand and Tech Transformation in Tourism
+## OpenAI and Anthropic in price war as Chinese AI rivals gain ground
+US groups release cheaper models after new challenges to their trillion-dollar ambitions
 
-## Delhi Master Plan 2047: 40 lakh homes planned through small-format, rental housing
-The plan aims to widen housing access by combining new construction, redevelopment and rental options across different parts of the national capital
+## Sensex today | Stock Market Live: Sensex falls over 350 points, Nifty slips 0.37% amid West Asia concerns
+Sensex, Nifty, Share Prices LIVE: Indian equities opened with a cautious bias on Friday as investors weighed easing expectations of a September US rate hike against persistent West Asia tensions, continued foreign selling and weekly losses, while softer crude prices offered some relief.
 
-## MSRTC NCMC card registrations top 1 crore as cashless bus ticketing expands
-The initiative marks a major step towards cashless travel across Maharashtra’s public bus network, with more passenger groups being brought into the system
+## Technocraft Ventures shines with 58% listing gains, LEAP India makes muted debut on bourses
+Technocraft Ventures lists at 34% premium, LEAP India debuts with little over 4% premium
 
-## Swachh Bharat Mission: Liquid waste management covers 5.63 lakh villages
-The programme is expanding beyond toilet access, with villages adopting infrastructure designed to manage household and community wastewater more effectively
+## J'khand job exam stir: Protest enters 21st day, students to take out ‘Tiranga Yatra’ on Saturday
+Student protesters caution Ranchi district administration against FIR lodged over the violence during the August 10 march towards the state assembly
 
-## Maharashtra to set up task force to implement state drone policy
-The move aims to consolidate government support for a rapidly expanding industry while strengthening manufacturing, research, testing and defence capabilities
+## Gold on track for weekly loss as investors book profits after inflation-fuelled rally
+Gold retreats from two-month peak
 
-## Rapido gets Karnataka licence to operate cab services until August 2031
-The regulatory clearance gives the mobility platform greater certainty as it expands its services and works with authorities on commuter-focused transportation.
+## TMPV shares fall 6% as JLR margin concerns weigh, brokerages divided
+The automaker reported an 80.3% year-on-year fall in consolidated net profit in the June quarter to ₹775 crore
 
-## Sandhya Kiran scheme: Karnataka pensioners to get cashless healthcare cover up to ₹5 lakh
-The new welfare measure will cover nearly five lakh beneficiaries and provide financial protection against major medical expenses through empanelled hospitals.
+## Q1 Results Today Live: Anupam Rasayan PAT up marginally, Ashok Leyland, NMDC, Alkem Lab, BDL, Voltas, 3M India, Cochin Shipyard, Physicswallah, Cholamandalam Fin, PTC Ind, Natco Pharma, Borosil to announce Q1 results, TMPV, Max Health lead Nifty 50 losers after Q1, Page Ind, Jubilant, LG Electronics, Honasa shares zoom
+Q1 Results Today, 14th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Wipro onboarding delay: NITES seeks Labour Ministry intervention for 200+ candidates
-The development raises concerns over recruitment practices as selected candidates seek clarity on their offers, joining timelines and employment prospects
+## Nifty Today: Index slips below 24,400 as metal stocks drag; Can it reclaim 24,500?
+The Sensex, which closed at 78,079.96 on Thursday, opened at 77,903.43 and fell to 77,774.69, shedding 305.27 points or 0.39%, in early trade
+
+## PARKROYAL COLLECTION Marina Bay, Singapore Named Among Singapore's Top 10 Hotels by Travel + Leisure and Featured on 50 Best Discovery
+PARKROYAL COLLECTION Marina Bay, Singapore Named Among Singapore's Top 10 Hotels by Travel + Leisure and Featured on 50 Best Discovery
+
+## India among countries flagged by US over Chinese goods 'transshipment risks'
+A US report names India among over forty nations facing risks of transshipping Chinese goods. These countries could become conduits for products avoiding American import tariffs. The White House warns of intensified detection and penalties for such trade practices. India is categorized in the top-ri
+
+## Top shares to buy: Stock market recommendations for today - check list
+Stock market recommendations: Amara Raja Energy & Mobility, Indian Bank, and Kfin Technologies have been recommended by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One as the top stocks to buy on August 14, 2026:
 
 ## Precious metals price today: Gold slips after two-month high; silver also declines
 
@@ -75,38 +84,38 @@ Oil prices saw a slight increase on Friday due to renewed supply concerns. The U
 ## Regulatory ban puts Tata Sons AGM at risk
 
 
-## Tata Trusts kicks off process to pick Chandrasekaran’s successor
+## Who is Manan Kumar Mishra? Bar Council Chair at centre of CJP's 'isteefa do' post, NALSAR row
+The controversy began after reports of a campaign by some NALSAR students opposing CJI Surya Kant's participation in the university's convocation.
 
+## Student’s murder over alleged campus drug whistleblowing sparks political row in TN
+Student’s murder over alleged campus drug whistleblowing sparks political row in TN
 
-## India’s critical mineral push: Govt plans processing parks in 4 states
-India is set to establish four specialized parks dedicated to critical mineral processing, targeting lithium and nickel first. The initiative, spearheaded by state governments with central technical assistance, is aligned with the National Critical Mineral Mission aimed at bolstering self-reliance. 
+## Air India A320 briefly lost key flight controls during 300-foot drop, Airbus analysis shows
+AIR INDIA-SAFETY/ (PIX):Air India A320 briefly lost key flight controls during 300-foot drop, Airbus analysis shows
 
-## Additional checks, parking near Red Fort mapped: Delhi steps up security for Independence Day
-The security arrangements are being made as Prime Minister Narendra Modi is set to address the nation from the ramparts of the Red Fort on August 15.
+## ‘Beijjati hui wo alag’: CJP mocks Bar Council chairman over NALSAR U-turn within hours
+The Bar Council of India, in a dramatic U-turn within hours on Thursday, withdrew its order freezing the enrolment of the entire 2026 NALSAR batch.
 
-## Objection to chief guest, big Bar Council order, then a U-turn: NALSAR University-CJI Kant invite row explained
-Within hours of issuing the order, the Bar Council of India withdrew the order following an uproar online and a threat of protest by CJP founder Abhijeet Dipke.
+## 3 workers remain trapped as rescue ops continue at Uttarakhand tunnel
+Six rescue workers, who entered the tunnel to assist in the operation, have also been safely evacuated and are reported to be safe
 
-## How to attend Independence Day Parade in Delhi? Step-by-step guide
-The Independence Day program typically includes the ceremonial hoisting of the national flag and the Prime Minister's address among other official proceedings.
+## India secures return of fugitive drug kingpin Virender Singh Basoya from UAE, Amit Shah hails ‘new milestone’
+Union home minister Amit Shah announced the return of the fugitive drug kingpin on Friday as he hailed the ‘milestone’ of ‘zero-tolerance against narcotics’.
 
-## 'Foreign policy all about hugging?': Rahul Gandhi's jibe at Modi govt triggers row
-Rahul Gandhi went on to hug Congress leader Sandeep Dikshit to demonstrate his claim on govt's foreign policy.
+## After Justice Varma’s resignation, LS Speaker asked panel to complete probe, submit report
+The 126-page report of the committee, headed by SC judge Justice Aravind Kumar, records that on April 29, the joint secretary of the Lok Sabha secretariat wrote to the committee’s secretary
 
-## After N Chandrasekaran's exit, Tata trust begins search for next Tata Sons chairperson
-In a statement on Thursday, Sir Dorabji Tata Trust said its trustees have passed a resolution to initiate the setting up of a panel to appoint new chairman.
+## Bodies of 2 missing friends found buried behind temple in UP's Baghpat
+They allegedly confronted the temple's mahant about his relationship with Ankit's sister, leading to their murder. Investigations continue.
 
-## 32 million population, 4 million more homes: Inside Delhi's 2047 master plan
-The population projection of 32 million for 2047 means that it will grow 10 million from what it is estimated to be right now.
+## Hong Kong to list first Shanghai free-trade zone bond to defend yuan hub status
+Hong Kong is set to welcome its first Shanghai free-trade zone offshore bond, using the landmark listing to defend its status as the world’s pre-eminent offshore yuan hub, amid mounting competition from its mainland rival. Hong Kong Exchanges and Clearing announced on Thursday that Shanghai Electric
 
-## India needs a peaceful revolution: Sonam Wangchuk
-India needs a peaceful revolution: Sonam Wangchuk
-
-## Noel Tata, TV Narendran: Who could take Chandrasekaran's mantle at Tata Sons?
-Tata Trusts said the trustees of Sir Dorabji Tata Trust have passed a resolution to set up a selection committee to recommend a new chairman for Tata Sons.
+## Chinese central bank’s 15th five-year plan
+China’s central bank, the People’s Bank of China (PBOC), released its first stand-alone five-year plan in at least a decade on Monday, focusing on measures to build the country into a financial powerhouse. These are its key points: 1. Optimise monetary policy architecture Refine market-driven intere
 
 ## Hong Kong insurers to weather Beijing’s tax shift with 8-10% premium growth: S&P
-Hong Kong’s life insurers could still see annual premium growth of 8 to 10 per cent over the next two years, despite a recent regulatory shift stemming from Beijing’s overseas taxation rules, according to credit-rating agency S&P Global Ratings. Resilient demand for overseas diversification should p
+Hong Kong’s life insurers could still see annual premium growth of 8 to 10 per cent over the next two years, despite a recent regulatory shift stemming from Beijing’s overseas taxation rules, according to S&P Global Ratings. Resilient demand for overseas diversification should prevent a lasting down
 
 ## Insurance Will Propel Hong Kong’s AI Ambition
 [The content of this article has been produced by our advertising partner.] At the SCMP China Conference on July 7, Chief Executive John Lee identified AI as central to Hong Kong’s push to become a global international innovation and technology centre. In his keynote speech, Lee spoke about the city
@@ -117,17 +126,11 @@ Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state
 ## Hong Kong to reappoint insurance regulator as industry braces for tough period: sources
 Hong Kong’s government is set to reappoint Clement Cheung Wan-ching as CEO of the Insurance Authority for another three-year term on Friday, according to two sources with knowledge of the matter. The move is aimed at ensuring continuity and stability in the city’s insurance sector, as the industry f
 
-## Chinese banks test repo-linked corporate loans to make pricing more market-based
+## Chinese banks test repo-linked corporate loans for more market-based pricing
 Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test lenders’ risk management capabilities. The shift to the overnight or seven-day depo
 
 ## SF Reit’s distributable income falls 7.3% in first half as occupancy holds steady
 SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year. The firm – which is controlled by the Chinese logistics giant SF Holding – re
-
-## JD.com’s second-quarter profit climbs 15% as food-delivery losses narrow
-Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per cent year on year to 7.1 billion yuan (US$1.1 billion), beating market expectations despite a slight dip in overall revenue, as it contends with sluggish domestic consumer demand, fierce competition and a push into new bus
-
-## AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong
-China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand for domestic artificial intelligence chips free of US export controls. Net profit
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -225,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UN, Palestinian ministry condemn Israeli settler siege of West Bank homes
-UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra 'criminal' and 'inhumane'.
+## Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
+Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.
 
-## Could Trump actually run for a third term as president?
-Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.
+## Record rainfall leaves four dead, thousands stranded in Japan
+Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.
 
-## Bodycam captures lightning striking metres from US police officers
-Bodycam video captured the moment lightning struck just metres from South Dakota Highway Patrol officers.
+## Salvage work begins on tanker leaking oil off Oman, risk firm says
+Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.
 
-## Talks between government and opposition mark a new chapter for Venezuela
-The government of Delcy Rodriguez held its first talks with part of Venezuela's opposition. But what will they achieve?
+## How much power does the US hold in Venezuela?
+After Maduro’s removal, US influence in Venezuela soared, but experts say Washington may still have to ‘own’ Venezuela.
 
-## AI escapes confinement
-Over the course of two weeks, AI companies said that some of their AI models managed to hack systems.
+## Al Jazeera speaks to Count Binface as Farage claims Clacton victory
+Al Jazeera’s Jonah Hull spoke to candidate for MP, Count Binface, as votes were counted in Clacton.
 
-## Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China
-Taipei is seeking to dissolve the China Unification Promotion Party over its alleged ties to Beijing.
+## Water supply for three US states drips down, Lake Mead at record low
+The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.
 
-## Colombia’s rescuers search rubble as hope fades on finding survivors
-The crucial 72-hour window to find survivors has passed, but rescue teams in Colombia keep digging.
+## Brazil begins exploring retaliatory options to new US tariffs
+Brazil has not yet decided whether it will proceed with retaliatory measures, but commits to defending its position.
 
-## Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’
-Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.
+## Mali says 82 soldiers captured by armed groups have been freed
+Malian army says the soldiers were held prisoner by Tuareg and al-Qaeda-linked armed groups in the northern region.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
