@@ -105,6 +105,12 @@ P Anushree, 25, and her fiancé V Amal, 26, were planning to marry in December.
 ## ‘What if all legal cockroaches came together?’: CJP founder Abhijeet Dipke recalls first post amid CJI-NALSAR row
 Abhijeet Dipke has teased a possible campaign seeking the resignation of BCI chairman Manan Kumar Mishra.
 
+## Transit giant CRRC sets down marker in Hong Kong as sales pitch to overseas cities
+Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state-owned giant China Railway Rolling Stock Corporation (CRRC) hopes to provide the nearby waterfront area – a narrow stretch of land that juts into Victoria Harbour – with a route to better transit connectivity. Executives f
+
+## Hong Kong to reappoint insurance regulator as industry braces for tough period: sources
+Hong Kong’s government is on Friday set to reappoint Clement Cheung Wan-ching as CEO of the Insurance Authority for another three-year term, according to two sources with knowledge of the matter. The move is aimed at ensuring continuity and stability in the city’s insurance sector, as the industry f
+
 ## Chinese banks test repo-linked corporate loans to make pricing more market-based
 Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test lenders’ risk management capabilities. The shift to the overnight or seven-day depo
 
@@ -122,12 +128,6 @@ CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billiona
 
 ## ‘Very smooth’: passenger shares experience on C919’s first commercial international flight
 Arriving at his gate at Beijing Capital International Airport for a routine business trip to the Mongolian capital of Ulaanbaatar on Wednesday, Howard Deng was unaware he was about to take part in a Chinese aviation milestone. Air China flight 723 marked the first international service featuring the
-
-## Chinese carmakers could capture 15% to 30% of European market by 2035: Citi analysts
-Chinese carmakers could capture between 15 and 30 per cent of the European automotive market by 2035, up from roughly 10 per cent this year, analysts at Citi said, with the outcome resting on how far Brussels goes in tightening tariffs and made-in-EU rules. Current European Union rules would allow C
-
-## Beijing’s offshore insurance tax tests Hong Kong wealth management
-Financial markets have been gripped by concern in recent days over reports that China was introducing a new tax on returns from offshore insurance policies. The significance of the episode could prove more complex than the initial market reaction suggests. According to a report from Caixin, Chinese 
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -225,6 +225,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Gaza City police chief killed as Israel pushes on with deadly strikes
+Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.
+
 ## Tate supporters rally for brothers ahead of bail hearing in Miami
 Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.
 
@@ -245,9 +248,6 @@ At least six homes were set alight by an extensive wildfire in Stourbridge
 
 ## Huge explosion rocks Italian munitions factory south of Rome
 A powerful explosion tore through a munitions faction south of the Italian capital Rome on Thursday.
-
-## Photos: Cuba marks Fidel Castro’s 100th birthday
-Fidel Castro would have turned 100 on Thursday and his legacy continues to overshadow the island.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
