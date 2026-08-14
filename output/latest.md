@@ -1,10 +1,19 @@
 # AION Intelligence
 
+## Swiss economy grows at fastest rate since 2021
+Chemicals and pharma sectors help GDP expand 1.5% in the second quarter
+
+## Israel moves to give police powers in occupied West Bank
+Far-right government advances its push towards annexing the Palestinian territory
+
+## Farage’s gamble pays off — but at what cost?
+Probe into party leader’s finances resumes with Labour government now leading in the polls
+
+## FirstFT: Iran war pushes up mortgage costs for borrowers
+Also in today’s newsletter: Anthropic and ChatGPT launch cheap models, and Venezuela requests return of 31 tonnes of gold
+
 ## Why nationalise the railways if nothing really changes?
 Since operator C2C was brought into public hands last year, outcomes have yet to see much improvement
-
-## Swiss economy grows at fastest rate since 2021 despite trade turmoil
-Chemicals and pharma sectors help boost GDP by 1.5% in the second quarter
 
 ## Investigation into Farage resumes after he wins Clacton by-election
 Reform UK leader increases number of votes after mainstream parties shunned poll as stunt
@@ -12,17 +21,8 @@ Reform UK leader increases number of votes after mainstream parties shunned poll
 ## Indonesia’s Prabowo retreats on commodities reform amid market pressure
 State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
 
-## UK fire services stretched by surge in wildfires
-Drop in firefighter numbers in England leaves brigades stretched as incident callouts rise
-
-## Karthik Sankaran on the case for yen intervention
-‘I’ve been calling for an intervention at least since dollar-yen was at 150’
-
-## Shares of China’s JD.com slide after rare revenue plunge
-Ecommerce platform suffered first sales decline in more than a decade after end of government subsidy programme
-
-## FirstFT: Cheaper Chinese models push OpenAI and Anthropic into price war
-Also in today’s newsletter: UK aid cuts and effective altruism revival
+## More blazes and fewer firefighters: UK brigades under pressure
+Drop in crew numbers in England leaves services stretched as callouts rise
 
 ## Probe into UK train derailment after 20 people injured
 Services disrupted after three carriages on London to Eastbourne route flipped on to their side
@@ -30,35 +30,41 @@ Services disrupted after three carriages on London to Eastbourne route flipped o
 ## Jaguar Land Rover owner’s shares slip after profits tumble
 Finance chief says times at Tata-owned carmaker ‘are simultaneously both difficult and exciting’
 
+## Shares of China’s JD.com slide after rare revenue plunge
+Ecommerce platform suffered first sales decline in more than a decade after end of government subsidy programme
+
 ## The trillion-dollar IPO vibes continue
 Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October
 
 ## Mortgage costs pushed higher by US stand-off with Iran
 Interest rates on home loans have jumped in America and several big European economies in recent weeks
 
-## Q1 Results Today Live: BDL, Ashok Leyland, 3M India Q1 PAT rise y-o-y, NATCO Pharma, Alkem Lab PAT decline, NMDC, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Borosil to announce Q1 results
+## HAL ropes in BEML, Adani for light combat helicopter fuselage structure manufacturing
+Under the agreements, BEML and Adani Defence will manufacture 48 and 42 fuselage structures, respectively, the HAL announced on Friday as it has to meet contractual obligation of supplying 156 Prachand LCH
+
+## Sensex today | Stock Market Highlights: Sensex shed 70.71 pts or 0.09% to end at 78,009.25 after hitting a low of 77,684.37; Nifty 50 dipped 29.85 pts or 0.12% to 24,366
+Sensex, Nifty, Share Prices Highlights: Easing expectations of a September US Fed rate hike and softer crude prices offered limited support, restricting the market’s decline.
+
+## Q1 Results Today Live: BDL, Ashok Leyland, 3M India Q1 PAT rise y-o-y, Electrotherm, NATCO Pharma, Alkem Lab PAT decline, NMDC, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Borosil to announce Q1 results
 Q1 Results Today, 14th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## TMPV shares fall 6% as JLR margin concerns weigh, brokerages divided
-The automaker reported an 80.3% year-on-year fall in consolidated net profit in the June quarter to ₹775 crore
+## Tricolour coral display beneath the sea sparks curiosity
+Captured by CMFRI researchers near Minicoy, the unusual coral formation highlights why some colonies withstand rising sea temperatures while others bleach.
 
-## 76% of companies classified as closed were defunct, Maharashtra No. 1 in active firms: Fadnavis
-Maharashtra continues to have the highest number of active companies in the country, Fadnavis said
+## Shiprocket, Behari Lal Engineering IPOs see over 80 times subscription as issues close today
+Shiprocket’s IPO was subscribed 80.39 times, while Behari Lal Engineering’s issue was subscribed 85.07 times.
 
-## Sensex today | Stock Market Live: Sensex below 77,900, Nifty near 24,350 as West Asia tensions persist
-Sensex, Nifty, Share Prices LIVE: Indian equities remained subdued in noon trade on Friday, with persistent West Asia tensions and continued foreign selling weighing on sentiment. Easing expectations of a September US Fed rate hike and softer crude prices offered limited support, restricting the mar
+## Rupee logs weekly decline, with RBI intervention curbing losses
+Data on ‌Friday showed that India’s wholesale price inflation rose ​9.78% year-on-year in July, easing marginally from June due to lower energy inflation
 
-## Meet, Connect & Celebrate: MICE Experiences in Paradise at Phuket Marriott Resort & Spa, Merlin Beach
-Meet, Connect & Celebrate: MICE Experiences in Paradise at Phuket Marriott Resort & Spa, Merlin Beach
+## Campus placements rebound in 2026 as IT firms step up fresher hiring
+Better visibility among major service firms alongside increasing demand from start-ups and core sectors is contributing to a rebound in fresher hiring this year, say experts
 
-## Rani Mukerji awarded Honorary Doctorate by La Trobe University
-Rani Mukerji awarded Honorary Doctorate by La Trobe University
+## Seven states plan 1,380 new GCCs, to help create 12 lakh jobs by 2031: CBRE
+CBRE mentioned that Karnataka is targeting 500 GCCs that will create 3.5 lakh jobs. Maharashtra is aiming 200 GCCs with scope of 4 lakh new jobs
 
-## Wholesale inflation moderates to 9.78% in July
-Fuel and power inflation eased sharply, but manufactured-product inflation climbed to 8.29% and core WPI hit a series high of 8.2%.
+## Markets end flat; Sensex ends falls 71 points, Nifty slips 30 points
 
-## Asian refiners buy more US crude as Hormuz remains blocked, traders say
-Shipping traffic at the ⁠Strait of Hormuz fell below the average for this month towards the end of the week due to competing ‌US and Iran claims over control of the waterway
 
 ## Your humble dhaniya no longer free! Coriander prices rise above Rs 200 kg as heavy rains disrupt supply
 Fresh coriander, which neighbourhood vegetable vendors routinely tucked into shopping bags at no extra cost, has become unexpectedly expensive after heavy rainfall disrupted supplies from major growing regions.
@@ -81,32 +87,32 @@ Oil prices saw a slight increase on Friday due to renewed supply concerns. The U
 ## Exports grow at fastest pace in four years
 
 
-## Commission caps may hit low-value life covers
+## Rajasthan: Missing couple found dead, bodies stuffed inside trunk at Udaipur home
+The bodies of 65-year-old Lahri Lal Paliwal and his wife Radha Devi, 62, were found in a trunk at their Rajasthan home after they went missing.
 
+## Woman damages airport property worth ₹49,000 after IndiGo flight cancellation in Bhubaneswar, FIR lodged
+The FIR was lodged against the passenger for alleged unruly behaviour, damage to airport property, and creating a ruckus in the airport's departure lounge
 
-## Iran President Masoud Pezeshkian to travel to Delhi for BRICS Summit
-The visit assumes significance as India is hosting the 18th BRICS Summit under its 2026 chairship.
+## Man dances, bathes for hours before stealing KTM bike from Varanasi showroom; caught on camera
+The CCTV footage showed the suspect arriving outside the Varanasi dealership around 11:30 pm wearing a white shirt and jeans.
 
-## Delhi govt mulls restructuring of DSEU
-Delhi govt mulls restructuring of DSEU
+## ‘Genuine efforts’: Supreme Court drops criminal cases against Samay Raina, 4 comedians
+The court kept the broader issue arising from the case alive, saying it would issue directions on ensuring greater sensitivity and safeguards in online content
 
-## SC dismisses plea against AP HC order quashing case against CM Chandrababu Naidu, minister
-SC dismisses plea against AP HC order quashing case against CM Chandrababu Naidu, minister
+## Telecasting Gurbani for genuine religious purpose not copyright infringement: Delhi HC
+The court was dealing with copyright infringement suit filed by Shiromani Gurdwara Parbandhak Committee to restrain channel GTC, from broadcasting/rebroadcasting Gurbani from Golden Temple
 
-## Class 5 boy saves mid-day meal worker's finger in Dakshin Kannada school, CM Shivakumar lauds presence of mind
-Class 5 student’s quick thinking averts major accident at Dakshina Kannada school
+## 'Child surviving on streets can't…': Delhi HC upholds conviction of man who sodomised 11-yr-old
+The judge modified the trial court's 20-year jail term to 10 years on the grounds that at the time of the offence, the corresponding sentence was 10 years.
 
-## Attack on Sukhbir Badal: Nihangs, Shiromani Akali Dal's politics & its decade of reckoning with the Sikh Panth
-The attack on Sukhbir Badal in Nanded was the second in two years, reviving questions about the SAD's identity and legacy.
+## Independence Day 2026 PM Modi speech: Where to watch live, timing and key details
+Want to witness the ceremony but can't make it to the Red Fort on the 15th of August? Here's where you can catch it live on TV and online for free.
 
-## ‘Very bright youngsters’: SC relief to Samay Raina, others over disabled persons remarks on Latent show
-The SC noted their compliance with the top court's direction to conduct awareness programmes and raise funds for persons with disabilities.
+## Bullet hits SUV parked outside ex-Akal Takht Jathedar Giani Raghbir Singh's Amritsar home, probe on
+Giani Raghbir Singh said the incident appeared to have occurred late at night on August 12.
 
-## Mothers Against Vaping backs Maliwal's Parliament intervention on vapes, e-cigarettes
-Mothers Against Vaping backs Maliwal's Parliament intervention on vapes, e-cigarettes
-
-## Palaniswami slams TN CM Vijay over office shift, says farmers’ woes being ignored
-Palaniswami slams TN CM Vijay over office shift, says farmers’ woes being ignored
+## Gene-editing therapies not yet ready for human trials, Stanford expert says
+Gene-editing therapies for the nervous system may need at least another round of studies before they are safe enough to enter human trials, according to one of the world’s most influential figures in the commercialisation of brain science. “The techniques are reasonably well established for animal e
 
 ## Hong Kong’s Insurance Authority aims to broaden regional clientele base: reappointed CEO
 After Beijing’s plans to tighten up the taxation of overseas income sent shock waves through the city’s banks and insurers last week, Hong Kong’s insurance regulator will make broadening the sector’s clientele a priority, its reappointed chief said on Friday. “The priority of the Insurance Authority
@@ -123,14 +129,11 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 ## China’s Central Asia push
 –
 
-## Shein eyes a valuation rivalling H&M. Will the market buy it?
-Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H&M, citing its business model and global customer base as major competitive advantages, according to internal documents seen by the South China Morning Post. Shein cited analysts wh
+## Shein is eyeing a valuation rivalling H&M. Will the market buy it?
+Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H&M, citing its business model and global customer base as major competitive advantages, according to internal documents provided to investors and seen by the South China Morning Pos
 
 ## Hong Kong to list first Shanghai free-trade zone bond to defend yuan hub status
 Hong Kong is set to welcome its first Shanghai free-trade zone offshore bond, using the landmark listing to defend its status as the world’s pre-eminent offshore yuan hub, amid mounting competition from its mainland rival. Hong Kong Exchanges and Clearing (HKEX) announced on Thursday that Shanghai E
-
-## Chinese central bank’s 15th five-year plan
-China’s central bank, the People’s Bank of China (PBOC), released its first stand-alone five-year plan in at least a decade on Monday, focusing on measures to build the country into a financial powerhouse. These are its key points: 1. Optimise monetary policy architecture Refine market-driven intere
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -156,6 +159,12 @@ The mutual defense agreement gives Islamabad a boost in the Middle East, with mi
 ## What to Watch in Zambia’s Elections
 The country’s natural resources have put the vote under intense international scrutiny.
 
+## Former Myanmar Ambassador to UK Goes on Trial For ‘Trespassing’ in Diplomatic Residence
+Kyaw Zwar Minn argues that the military government formed after the 2021 coup was illegitimate and had no authority to order him to vacate Myanmar House.
+
+## How Indonesia Can Get Ahead in the Artificial Intelligence Race
+The country has the abundant land and energy resources needed to power hyperscale data centers. Can it harness them effectively?
+
 ## How Could the Rise of Progressive Democrats Impact US China Policy?
 A divide over China, although less pronounced than the divide over Israel, has become increasingly visible among Democrats as progressives have risen within the party.
 
@@ -173,12 +182,6 @@ Rare earths are critical to making modern weapons – and China dominates the su
 
 ## Can Japan’s Defense Industry Meet its Ambitious Goals?
 Japan increasingly recognizes the importance of the defense industrial base as a source of strategic capability. But can the industry actually deliver?
-
-## Competing Interests, Common Narrative: How Industry Shapes the AI Race
-Different firms in the AI value chain invoke the AI race narrative, but with different policy preferences in mind.
-
-## How the Modi Government is Downgrading India’s National Anthem
-For the first time in eight decades, the country’s national song, Vande Mataram, will precede the playing of the national anthem on Independence Day.
 
 ## Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk
 Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical infrastructure would be struck. Iranian 
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What is a ‘ceasefire’ supposed to achieve?
-Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.
+## Scrutiny over Farage’s finances has ‘hurt Reform UK support’
+Scrutiny over Farage’s finances has ‘hurt Reform UK support’
 
-## Tanzid makes history as Bangladesh dominate first Australia Test
-Tanzid Hasan hits first Bangladesh ton in Australia as tourists close Day Two of first Test on 351-6, leading by 153.
+## Seven killed in tunnel accident at Indian hydropower project
+Water and debris burst into a state-run hydropower tunnel in Uttarakhand following a landslide.
 
-## US accuses dozens of countries of helping China avoid Trump’s tariffs
-White House report claims tens of billions of dollars in annual revenue lost to transshipments.
+## New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
+Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.
 
-## South Korea players want K League season change due to ‘worsening climate’
-South Korea football players push for a K League season shift as 'punishing heat' hitting summer matches.
+## Russia says hit Ukrainian railway and port facilities in new strikes
+Kyiv targets Baltic oil hub and warehouse near Moscow with drones.
 
-## Wildfires force thousands to flee as blazes spread across Europe
-At least a dozen people have reportedly been hospitalised in Croatia after blazes tore into the tourist town of Omis.
+## Swiatek defeats Rybakina to claim Canadian Open title​
+Six-time Grand Slam champion Iga Swiatek defeats Elena Rybakina in Toronto to claim the WTA Canadian Open title.
 
-## Engine debris shattered Ryanair window, pulling passenger out, NTSB says
-Flight crews had recorded four suspected bird strikes involving the same engine during the previous year.
+## UK far-right leader Farage re-elected in boycotted by-election
+Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances.
 
-## The Gambian women turning grief into song
-Known as the Kanyeleng, they have transformed their experience of child loss through a tradition of music.
+## La Liga: Barcelona key talking points heading into new 2026-27 season
+Barcelona will aim to become the first club to three-peat in the Spain Primera Division since 2008-11 Pep Guardiola era.
 
-## Stolen Matisse art found in Brazil
-Stolen Matisse art found in Brazil
+## A year after student protests that shook Valjevo: Serbia at a crossroads
+Protests that erupted after railway station canopy collapsed, killing 16, have grown into a broad social movement.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
