@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mount Etna eruption and volcanic ash shut Sicily’s busiest airport
+Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.
+
+## Former Cambridge professor accused of plagiarism found dead
+Jason Arday's body was found in south London just a week after he resigned from the University of Cambridge.
+
 ## Son of Mexico’s former president AMLO alleges US revoked his visa
 The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.
 
@@ -245,12 +251,6 @@ Young survivors of Israel's genocidal war in Gaza find safe spaces to process tr
 
 ## Italian police recover stolen paintings worth over $10m
 Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.
-
-## CEO pay skyrockets in 2025 amid growing income inequality in the US
-Elon Musk earned 2.5 million times more than a Tesla worker's median pay in 2025, despite revenue and sales declines.
-
-## Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing
-Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
