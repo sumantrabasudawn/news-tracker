@@ -132,6 +132,12 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 ## China’s Central Asia push
 –
 
+## What in the World?
+Test yourself on the week of Aug. 8: A major earthquake hits Colombia, Lebanon achieves a regional first, and parts of Europe enjoy a solar eclipse.
+
+## Liberalism Is Worth Saving. Here’s How.
+If liberalism does not remake itself, it will be antidemocratic alternatives that win out.
+
 ## The End of American Innocence
 Fifty years after “The Quiet American,” has the country outlived Graham Greene’s prophecy?
 
@@ -149,12 +155,6 @@ Under President Xi Jinping, politics and security, not real change, come first.
 
 ## Yes, the Iran War Really Is Similar to Vietnam
 Trump’s war is “The Best and the Brightest”—but without the best and the brightest.
-
-## Colombia’s Week of Rupture
-Monday’s deadly earthquake presents the country’s new president with his first big test.
-
-## The Iran War Has Left the U.S. Dangerously Exposed
-The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
 
 ## Singapore’s Israel Tightrope
 The city-state’s ties with Israel have been built on a history that very few other Asian countries can boast. But Singapore can still say "no."
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## New aerial video reveals huge scale of oil spill off Oman
+A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.
+
 ## Trump asks US Supreme Court to allow $400m ballroom project to proceed
 Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.
 
@@ -248,9 +251,6 @@ Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 
 
 ## British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19
 Organisers said on social media that Tarling died following a 'serious accident' on the stage between Melgaco and Fafe.
-
-## Liverpool to sell minority stake to consortium including Jeff Bezos
-The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
