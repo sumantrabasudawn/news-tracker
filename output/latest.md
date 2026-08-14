@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## AI frenzy drives Chinese tech valuations to multiples of US peers
+Support from Beijing has helped power 29% gain for Star 50 index this year
+
+## Is AI coming for Indian jobs? It’s already here
+Also in this newsletter: equity investments skew towards risk
+
+## Trump launches tariffs targeting Chinese drone technology
+US to impose up to 100% levies on unmanned aircraft and their components
+
+## BP joins Big Oil return to post-Maduro Venezuela
+British company among winners of offshore licence less than nine months after US toppled Caracas strongman
+
 ## UK houses caught up in wildfires during hottest day of the year
 Blazes at several locations in the Midlands as temperatures reach 38.1C in London
 
@@ -15,71 +27,77 @@ Yields have jumped amid concerns over mounting public debt and persistently high
 ## FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire
 US scrutiny of billionaire’s sprawling finance holdings reached beyond insurers into securities and asset management giant
 
-## Starmer allies warn Healey against blowing ‘strong’ economic inheritance
-Andy Burnham has signalled plans for spending increases
-
-## Trump enlists US tech groups for cyber privateering push
-Move echoes American Revolutionary War-era strategy of employing civilians to battle adversaries
-
-## Buyers should beware the dangers of new ETFs
-High leverage and insufficient oversight could amplify risks for individuals and markets
-
 ## EY vaults from bottom to top of Big Four US audit quality league table
 Inspectors cited fewer flaws in the work of the biggest firms in latest accounting board survey
 
 ## Billionaires are taking over sports teams — and that’s a risk for fans
 Franchises risk getting caught up in the disparate affairs of their financier owners
 
-## AI has opened up big holes in cyber security
-It is too late to prevent the technology from being used as a damaging weapon, so great investment in defences is urgently needed
+## Agoda and Singapore Tourism Board Expand Partnership to Boost Demand and Tech Transformation in Tourism
+Agoda and Singapore Tourism Board Expand Partnership to Boost Demand and Tech Transformation in Tourism
 
-## SEBI plans SME IPO route for companies valued up to ₹5,000 crore
-Regulator weighs to raise post-issue paid-up capital limit for SME listings to ₹100 crore from ₹25 crore, while easing minimum application size, market-making norms and underwriting norms to improve participation in the segment
+## Delhi Master Plan 2047: 40 lakh homes planned through small-format, rental housing
+The plan aims to widen housing access by combining new construction, redevelopment and rental options across different parts of the national capital
 
-## Manali Petrochemicals Q1 FY27 consolidated net profit rises over 4x
-Consolidated revenue rose by 17 per cent to ₹275 crore, up from ₹235 crore
+## MSRTC NCMC card registrations top 1 crore as cashless bus ticketing expands
+The initiative marks a major step towards cashless travel across Maharashtra’s public bus network, with more passenger groups being brought into the system
 
-## Tamil Nadu govt’s maiden investment conclave finds commitment of ₹67,452 crore from 97 companies
-With these, cumulative investment commitments secured during the first 100 days of the new Tamil Nadu government has crossed ₹1 lakh crore
+## Swachh Bharat Mission: Liquid waste management covers 5.63 lakh villages
+The programme is expanding beyond toilet access, with villages adopting infrastructure designed to manage household and community wastewater more effectively
 
-## Muthoot Fincorp files draft papers for ₹3,000 crore IPO
-The company plans to use the proceeds from the new issue to strengthen its Tier I capital base for future requirements
+## Maharashtra to set up task force to implement state drone policy
+The move aims to consolidate government support for a rapidly expanding industry while strengthening manufacturing, research, testing and defence capabilities
 
-## Amaravati: CM Naidu opens Seed Access Road, steel bridges
-The new connectivity is expected to make direct access to the capital faster, easier and more comfortable for motorists.
+## Rapido gets Karnataka licence to operate cab services until August 2031
+The regulatory clearance gives the mobility platform greater certainty as it expands its services and works with authorities on commuter-focused transportation.
 
-## Q1 Results Today Highlights: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Brigade profit rises
-Q1 Results Today, 13th August 2026 Highlights: Follow Q1FY27 results updates from businessline
+## Sandhya Kiran scheme: Karnataka pensioners to get cashless healthcare cover up to ₹5 lakh
+The new welfare measure will cover nearly five lakh beneficiaries and provide financial protection against major medical expenses through empanelled hospitals.
 
-## Letters to the Editor dated August 13, 2026
+## Wipro onboarding delay: NITES seeks Labour Ministry intervention for 200+ candidates
+The development raises concerns over recruitment practices as selected candidates seek clarity on their offers, joining timelines and employment prospects
+
+## Precious metals price today: Gold slips after two-month high; silver also declines
 
 
-## Fraud cases in public sector banks fall, but the amount involved rises 58%
-Experts blame newer techniques used by fraudsters, the likes of digital arrests, for the rise in money siphoned off
+## Oil prices today: Crude edges higher as US-Iran tensions revive supply concerns
+Oil prices saw a slight increase on Friday due to renewed supply concerns. The United States threatened an indefinite naval blockade of Iran, escalating economic pressure. This action heightened worries about potential disruptions to crude oil flows through the Strait of Hormuz. However, weaker dema
+
+## Exports grow at fastest pace in four years
+
+
+## Commission caps may hit low-value life covers
+
+
+## Tata Motors PV profit dips 80% on rising input costs
+
+
+## Regulatory ban puts Tata Sons AGM at risk
+
+
+## Tata Trusts kicks off process to pick Chandrasekaran’s successor
+
 
 ## India’s critical mineral push: Govt plans processing parks in 4 states
 India is set to establish four specialized parks dedicated to critical mineral processing, targeting lithium and nickel first. The initiative, spearheaded by state governments with central technical assistance, is aligned with the National Critical Mineral Mission aimed at bolstering self-reliance. 
 
-## US wholesale inflation slows to 4.7% in July: What comes next for Fed, consumers
-In July, wholesale prices in the United States exhibited a cooling trend, providing a much-needed breath of fresh air. The decline in energy costs significantly reduced producer price pressures throughout the month. While consumer inflation also saw a slight dip, financial constraints persist for ma
+## Additional checks, parking near Red Fort mapped: Delhi steps up security for Independence Day
+The security arrangements are being made as Prime Minister Narendra Modi is set to address the nation from the ramparts of the Red Fort on August 15.
 
-## US stock market today: Wall Street moves towards all-time high as inflation moderates and oil prices drop
-Investor sentiment improved after government data showed wholesale prices in the United States were 4.7% higher in the latest month compared with a year earlier.
+## Objection to chief guest, big Bar Council order, then a U-turn: NALSAR University-CJI Kant invite row explained
+Within hours of issuing the order, the Bar Council of India withdrew the order following an uproar online and a threat of protest by CJP founder Abhijeet Dipke.
 
-## What Trump tariffs? Russia now supplies more than half of India’s crude oil imports
-According to GTRI’s analysis, in June India imported crude oil worth $14.8 billion from all sources, of which $7.2 billion came from Russia. This translated into a Russian share of 48.6%.
+## How to attend Independence Day Parade in Delhi? Step-by-step guide
+The Independence Day program typically includes the ceremonial hoisting of the national flag and the Prime Minister's address among other official proceedings.
 
-## Indian IT sector job market is changing: What can get you hired & at a premium
-Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas.
+## 'Foreign policy all about hugging?': Rahul Gandhi's jibe at Modi govt triggers row
+Rahul Gandhi went on to hug Congress leader Sandeep Dikshit to demonstrate his claim on govt's foreign policy.
 
-## India's trade deficit widens 31.5% to $15bn in July; electronics exports surge 11-fold
-In July, India faced a significant expansion in its trade deficit, as imports surged ahead of exports. Over the first four months of the fiscal year, cumulative trade gaps widened considerably. Nevertheless, merchandise exports reached impressive heights in July, with electronics manufacturing emerg
+## After N Chandrasekaran's exit, Tata trust begins search for next Tata Sons chairperson
+In a statement on Thursday, Sir Dorabji Tata Trust said its trustees have passed a resolution to initiate the setting up of a panel to appoint new chairman.
 
-## US tariff threat on Russian oil: Bill a concern for India, but ‘talks have been reassuring’
-The proposed Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would empower the US President to levy tariffs of up to 100% on countries that purchase large volumes of crude oil and natural gas from Russia.
-
-## MDR on UPI soon? Parliamentary Panel recommends expeditious introduction on high-value transactions
-Commenting on the incentive programme for promoting RuPay Debit Cards and low-value BHIM-UPI transactions, the Committee noted that the budgetary allocation of Rs 2,000 crore to compensate for losses arising from the zero-MDR regime unnecessarily increases the Department's Demand for Grants
+## 32 million population, 4 million more homes: Inside Delhi's 2047 master plan
+The population projection of 32 million for 2047 means that it will grow 10 million from what it is estimated to be right now.
 
 ## India needs a peaceful revolution: Sonam Wangchuk
 India needs a peaceful revolution: Sonam Wangchuk
@@ -87,29 +105,17 @@ India needs a peaceful revolution: Sonam Wangchuk
 ## Noel Tata, TV Narendran: Who could take Chandrasekaran's mantle at Tata Sons?
 Tata Trusts said the trustees of Sir Dorabji Tata Trust have passed a resolution to set up a selection committee to recommend a new chairman for Tata Sons.
 
-## UP teen uses AI-generated image to fake kidnapping, demands ₹2 lakh from father to pay off gaming debt
-The ransom message to his father, a cloth merchant, read that the 16-year-old would be killed if the money was not transferred.
+## Hong Kong insurers to weather Beijing’s tax shift with 8-10% premium growth: S&P
+Hong Kong’s life insurers could still see annual premium growth of 8 to 10 per cent over the next two years, despite a recent regulatory shift stemming from Beijing’s overseas taxation rules, according to credit-rating agency S&P Global Ratings. Resilient demand for overseas diversification should p
 
-## Landslide, then influx of debris, water: What happened at Uttarakhand tunnel mishap
-The landslide trapped workers inside the tunnel and prompted an urgent rescue operation.
-
-## Nagaland’s NSF asks students to skip I-Day events over Vande Mataram row
-NSF has been critical of MHA’s 28 January 2026 communication that laid down a detailed protocol for the observance of the national song at official events
-
-## Sonam Wangchuk's pitch for India's '2nd Independence movement' to 'reform political system'
-Sonam Wangchuk has called for India's second independence movement to bring about changes in how India chooses its leaders
-
-## Engaged couple, working in same bank, found dead hours apart in two different states
-P Anushree, 25, and her fiancé V Amal, 26, were planning to marry in December.
-
-## ‘What if all legal cockroaches came together?’: CJP founder Abhijeet Dipke recalls first post amid CJI-NALSAR row
-Abhijeet Dipke has teased a possible campaign seeking the resignation of BCI chairman Manan Kumar Mishra.
+## Insurance Will Propel Hong Kong’s AI Ambition
+[The content of this article has been produced by our advertising partner.] At the SCMP China Conference on July 7, Chief Executive John Lee identified AI as central to Hong Kong’s push to become a global international innovation and technology centre. In his keynote speech, Lee spoke about the city
 
 ## Transit giant CRRC sets down marker in Hong Kong as sales pitch to overseas cities
 Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state-owned giant China Railway Rolling Stock Corporation (CRRC) hopes to provide the nearby waterfront area – a narrow stretch of land that juts into Victoria Harbour – with a route to better transit connectivity. Executives f
 
 ## Hong Kong to reappoint insurance regulator as industry braces for tough period: sources
-Hong Kong’s government is on Friday set to reappoint Clement Cheung Wan-ching as CEO of the Insurance Authority for another three-year term, according to two sources with knowledge of the matter. The move is aimed at ensuring continuity and stability in the city’s insurance sector, as the industry f
+Hong Kong’s government is set to reappoint Clement Cheung Wan-ching as CEO of the Insurance Authority for another three-year term on Friday, according to two sources with knowledge of the matter. The move is aimed at ensuring continuity and stability in the city’s insurance sector, as the industry f
 
 ## Chinese banks test repo-linked corporate loans to make pricing more market-based
 Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test lenders’ risk management capabilities. The shift to the overnight or seven-day depo
@@ -122,12 +128,6 @@ Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per ce
 
 ## AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong
 China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand for domestic artificial intelligence chips free of US export controls. Net profit
-
-## CK Hutchison Holdings reports 31-fold surge in first-half profit
-CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billionaire Li Ka-shing’s family, reported a 3,046 per cent increase in its first-half profit amid a period the firm’s chairman called “turbulent and uncertain”. Meanwhile, CK Asset Holdings, the group’s other flagship company t
-
-## ‘Very smooth’: passenger shares experience on C919’s first commercial international flight
-Arriving at his gate at Beijing Capital International Airport for a routine business trip to the Mongolian capital of Ulaanbaatar on Wednesday, Howard Deng was unaware he was about to take part in a Chinese aviation milestone. Air China flight 723 marked the first international service featuring the
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -153,6 +153,9 @@ The mutual defense agreement gives Islamabad a boost in the Middle East, with mi
 ## What to Watch in Zambia’s Elections
 The country’s natural resources have put the vote under intense international scrutiny.
 
+## How Could the Rise of Progressive Democrats Impact US China Policy?
+A divide over China, although less pronounced than the divide over Israel, has become increasingly visible among Democrats as progressives have risen within the party.
+
 ## Why Is Everyone Playing Mahjong?
 The centuries-old game is having a moment. But what happens when a tradition rooted in Chinese history becomes a lifestyle trend?
 
@@ -173,9 +176,6 @@ Different firms in the AI value chain invoke the AI race narrative, but with dif
 
 ## How the Modi Government is Downgrading India’s National Anthem
 For the first time in eight decades, the country’s national song, Vande Mataram, will precede the playing of the national anthem on Independence Day.
-
-## Vietnam’s Top Leader Concludes Australia Visit With Trade, Defense in Focus
-In their updated Joint Vision Statement, Canberra and Hanoi identify a more challenging regional security environment.
 
 ## The Commercial Space Race
 A strong commercial space industry is an important partner for the U.S. government, as it contributes to building more robust space and defense capabilities and facilitates innovation more broadly. As competition between the United States and China heats up, both countries look to the commercial spa
@@ -225,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gaza City police chief killed as Israel pushes on with deadly strikes
-Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.
+## UN, Palestinian ministry condemn Israeli settler siege of West Bank homes
+UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra 'criminal' and 'inhumane'.
 
-## Tate supporters rally for brothers ahead of bail hearing in Miami
-Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.
+## Could Trump actually run for a third term as president?
+Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.
 
-## Israeli strikes in Gaza kill two, including police chief
-Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.
+## Bodycam captures lightning striking metres from US police officers
+Bodycam video captured the moment lightning struck just metres from South Dakota Highway Patrol officers.
 
-## Mexico says Colombia rejected its earthquake rescue team
-Colombia denies politics played a role after Mexico said its military rescuers were refused entry.
+## Talks between government and opposition mark a new chapter for Venezuela
+The government of Delcy Rodriguez held its first talks with part of Venezuela's opposition. But what will they achieve?
 
-## What’s at stake in Zambia’s elections?
-The economy dominates voter concerns in the southern African country.
+## AI escapes confinement
+Over the course of two weeks, AI companies said that some of their AI models managed to hack systems.
 
-## Kennedy Center votes to restore Trump’s name to venue, close for two years
-Trustees condemn Kennedy Center’s move to re-add Trump’s name and shut down for extensive renovations.
+## Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China
+Taipei is seeking to dissolve the China Unification Promotion Party over its alleged ties to Beijing.
 
-## Multiple houses ablaze as wildfire sweeps into UK town
-At least six homes were set alight by an extensive wildfire in Stourbridge
+## Colombia’s rescuers search rubble as hope fades on finding survivors
+The crucial 72-hour window to find survivors has passed, but rescue teams in Colombia keep digging.
 
-## Huge explosion rocks Italian munitions factory south of Rome
-A powerful explosion tore through a munitions faction south of the Italian capital Rome on Thursday.
+## Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’
+Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.
+
+## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
+Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
@@ -269,9 +272,6 @@ The immediate question for Tata Sons is whether it will appoint another executiv
 
 ## India's direct tax collections rise 23% to Rs 8.11 lakh crore as non-corporate tax drives growth
 India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 lakh crore as of August 10, 2026, from Rs 6.59 lakh crore in the corresponding period last year, according to data released by the Income Tax Department.
-
-## Finance panel seeks sector-specific audit studies, faster NFRA reforms
-A parliamentary panel urged faster reforms at the National Financial Reporting Authority. It recommended separating audit quality review and disciplinary functions for clarity. The committee also called for improved systems to track regulatory cases effectively. The government stated amendments are 
 
 ## RBI turns upbeat as worst of Iran war shock recedes
 India’s economy is showing resilience five months after the Iran war sparked fears of inflation and a downturn. Inflation remains within the RBI’s tolerance band, while vehicle sales, credit growth and GST receipts point to firm demand. Strong corporate balance sheets and festive-season spending are
