@@ -132,6 +132,9 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 ## China’s Central Asia push
 –
 
+## Trump’s Flurry of National Security Policies
+The administration made moves on drones, cyberwarfare, and ship building.
+
 ## What in the World?
 Test yourself on the week of Aug. 8: A major earthquake hits Colombia, Lebanon achieves a regional first, and parts of Europe enjoy a solar eclipse.
 
@@ -139,7 +142,7 @@ Test yourself on the week of Aug. 8: A major earthquake hits Colombia, Lebanon a
 If liberalism does not remake itself, it will be antidemocratic alternatives that win out.
 
 ## The End of American Innocence
-Fifty years after “The Quiet American,” has the country outlived Graham Greene’s prophecy?
+Seventy years after “The Quiet American,” has the country outlived Graham Greene’s prophecy?
 
 ## AI Is Changing Military Morality
 Just war theory was developed over centuries—and now must adapt to a new era of technology.
@@ -152,9 +155,6 @@ Emotional reassurance came to be mistaken for competent governance.
 
 ## Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era
 Under President Xi Jinping, politics and security, not real change, come first.
-
-## Yes, the Iran War Really Is Similar to Vietnam
-Trump’s war is “The Best and the Brightest”—but without the best and the brightest.
 
 ## Singapore’s Israel Tightrope
 The city-state’s ties with Israel have been built on a history that very few other Asian countries can boast. But Singapore can still say "no."
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Son of Mexico’s former president AMLO alleges US revoked his visa
+The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.
+
 ## New aerial video reveals huge scale of oil spill off Oman
 A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.
 
@@ -248,9 +251,6 @@ Elon Musk earned 2.5 million times more than a Tesla worker's median pay in 2025
 
 ## Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing
 Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.
-
-## British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19
-Organisers said on social media that Tarling died following a 'serious accident' on the stage between Melgaco and Fafe.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
