@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Second UK train derails in under 24 hours
+Incident at Wickford in Essex follows derailment of train in East Sussex on Thursday
+
+## Investors pile back into US stocks as bullishness returns to Wall Street
+Stellar earnings season and falling inflation fuel rebound from July’s chip rout
+
 ## Lebanon set for mass prisoner release after controversial amnesty
 Move to free thousands from overcrowded jails comes after sectarian squabbling between Sunni and Shia factions
 
@@ -12,20 +18,20 @@ After US-backed negotiations, the two sides said they would push to access $4bn 
 ## Daniel Kinahan, Ireland’s most wanted man, faces his day in court
 Crime boss suspect tried to mix legitimate business with allegedly running a murderous empire
 
-## Safety inspection of track carried out day before train crash in southern England
-Checks that disrupt services take place only when there is reason to believe a fault might present a risk
-
 ## US nuclear negotiator Ernest Moniz: ‘Iran has the home-court advantage’
 The architect of the 2015 deal with Tehran on how to prevent a new Middle East arms race
 
 ## Bird remains found in engine of Ryanair window blowout plane
 US NTSB discovers bird remains in several parts of the engine that failed
 
-## Indonesia’s Prabowo retreats on commodities reform amid market pressure
-State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
+## Reader callout: Do you earn more than your siblings?
+Managing income differences within a family can be tricky
 
 ## Financier fined and banned over false claims in bids for bank and football club
 UK watchdog imposes £489,000 penalty on Paul Taylor over information provided in negotiations
+
+## Indonesia’s Prabowo retreats on commodities reform amid market pressure
+State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
 
 ## All aboard the wind power rollercoaster
 Vestas share price surge highlights wild swings in investor sentiment
@@ -33,38 +39,35 @@ Vestas share price surge highlights wild swings in investor sentiment
 ## FirstFT: Iran war pushes up mortgage costs for borrowers
 Also in today’s newsletter: Anthropic and ChatGPT launch cheap models, and Venezuela requests return of 31 tonnes of gold
 
-## Why nationalise the railways if nothing really changes?
-Since operator C2C was brought into public hands last year, outcomes have yet to see much improvement
+## Health insurance reforms must go beyond rates to address the cost of care: Industry experts
+Standardising costs across private and government hospitals could help keep expenditure on tertiary and super-speciality care within manageable limits
 
-## Probe into UK train derailment after 20 people injured
-Services disrupted after three carriages on London to Eastbourne route flipped on to their side
+## LG Electronics India hits upper circuit, closes 9.59% higher on blowout Q1 earnings
+LG Electronics India stock, which listed in October 2025, is up nearly 15% year-to-date and trades at a trailing P/E of 58.71x
 
-## SAT allows Zee to proceed with ₹3,143 crore warrant issue
-The tribunal has extended Extends the deadline for the issuance by one week, subject to payment of penalties but debarment by SEBI on undertaking mutual-fund transactions will to continue
+## Honasa shares hit 52-week high as JM Financial, HDFC Securities turn bullish
+Honasa Consumer recorded profit after tax of ₹90 crore, an increase of over 116% year-on-year
 
-## AI becomes a measurable revenue pool for Indian IT firms, but not yet a growth engine
-Beyond revenue, AI and GenAI are improving IT service delivery efficiency by automating routine tasks
+## Watch retailer Just in Time looks to double down on retail footprint expansion, eyes Rs 1000 cr revenue-mark
+This expansion comes as consumer spending on watches remains robust, with the company reporting annual revenue growth of 35-38 per cent, outpacing industry trends.
 
-## When will REITs strike the right chord?
-Reforms put REITs on growth path, but investor base remains narrow
+## Dee Development Engineers eyes over ₹2,000 crore order book in FY27
+The engineering major offers very specialised process piping solutions for oil and gas, power (including nuclear), process industries and chemicals
 
-## Alluri Sitarama Raju International Airport at Bhogapuram to begin operations from Aug 17
-The transition to the New Greenfield Airport marks a significant milestone for the region
-
-## Dee Development Engineers eyes over ₹2,000 Cr order book in FY27
-The engineering major offers very specialised process piping solutions for oil and gas, power (including nuclear), process industries and chemicals.
-
-## Nihar Info expands bullion platform scope
-It will also introduce gold and silver exchange-traded funds (ETFs), gold loans and structured buybacks by making arrangements with partners
-
-## Nifty ends week in red as Iran tensions, crude keep bulls at bay
-The Nifty 50 settled at 24,366, down 29.85 points, while the BSE Sensex declined 70.71 points to close at 78,009
-
-## Ashok Leyland posts record Q1 volumes, revenue up 10%
+## Ashok Leyland steps up ₹2,000 crore cost-cutting drive amid commodity pressures
 On a standalone basis, the Chennai-based auto major reported its highest-ever net profit of ₹609 crore in Q1 FY27 as against ₹594 crore in the same quarter previous year
+
+## Robust accretion to FCNR-B deposits: RBI decides to pull the plug on concessional swap facility
+The concessional swap facility will now be available only for FCNR(B) deposits of 3-5 years maturity mobilised till August 31, against the earlier deadline of September 30
+
+## Modi Naturals targets ₹900–950 crore FY27 revenue
+Oleev edible-oil maker Modi Naturals expects revenue to rise 25-32% to ₹900-950 crore in FY27 from ₹719 crore last year, as its expanded ethanol capacity ramps up and the company scales its premium foods business
 
 ## India's big chip ambition: Can it become the world's next semiconductor hub?
 Semiconductors sit underneath almost everything today: electronics, EVs, telecom, AI, data centres, defence, manufacturing. So having a self-reliant semiconductor ecosystem is an absolute necessity in the current globally uncertain economic and geopolitical environment.
+
+## US stock market today: Wall Street drifts near record highs; economic data in focus
+The bond market was largely steady after government data showed that consumer spending at US retailers declined from the previous month. The reading caught economists off guard, as they had expected retail sales to post another monthly increase.
 
 ## India's forex reserves climb to $707 billion, rise $14.1 billion in a week
 India's foreign exchange reserves jumped a notable $14.136 billion, reaching a total of $707.002 billion for the week ending August 7. This surge was largely driven by a $9.946 billion rise in foreign currency assets, complemented by a $3.995 billion increase in gold reserves. These noteworthy gains
@@ -84,10 +87,13 @@ MCX Gold October futures are witnessing profit booking after a strong rally over
 ## 'Shadow transshipment network': US names India among 40 nations helping China evade tariffs
 A US report names India among over forty nations facing risks of transshipping Chinese goods. These countries could become conduits for products avoiding American import tariffs. The White House warns of intensified detection and penalties for such trade practices. India is categorized in the top-ri
 
-## Top shares to buy: Stock market recommendations for today - check list
-Stock market recommendations: Amara Raja Energy & Mobility, Indian Bank, and Kfin Technologies have been recommended by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One as the top stocks to buy on August 14, 2026:
+## Odisha floods worsen as heavy rain inundates villages, roads in north
+Heavy rain has worsened flooding across northern Odisha, with rivers swelling, villages inundated and roads disrupted as the IMD warns of more rain.
 
-## NCP's Zeeshan Siddique gets death threat over phone, reaches Bandra police station to lodge complaint
+## President Murmu on Indus Water Treaty suspension: ‘Decisive step in interest of nation, farmers'
+We have succeeded in bringing more than 25 crore people out of poverty, President Murmu said in her address to the nation.
+
+## NCP's Zeeshan Siddique gets death threat over phone, lodges complaint with Bandra police station
 Earlier, Siddique, son of slain NCP leader Baba Siddique, alleged that he received a death threat over a phone call.
 
 ## Karnataka to withdraw gutka ban after MLAs flag losses for arecanut growers
@@ -96,7 +102,7 @@ Karnataka will withdraw its gutka and tobacco-containing pan masala ban after ML
 ## Govt on Rahul's 'Meloni jibe': India-Italy ties based on ‘mutual respect, understanding’
 MEA on Congress’ ‘Meloni jibe’: India shares strong ties with Italy, based on mutual respect and understanding
 
-## Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | LIVE updates
+## Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation
 President Droupadi Murmu speech LIVE: The address began at 7 pm. President Murmu said the nation belonged to the entire community and that every citizen had a role in the country’s progress and development.
 
 ## ‘Beginning of another’: How Hindustan Times reported freedom on August 15, 1947
@@ -104,12 +110,6 @@ By the time people picked up their newspapers on August 15, the headline was no 
 
 ## 4 die after inhaling toxic gas inside well in Bihar's Gaya
 The incident occurred at Garh Karmauni village in Dobhi police station area of the district.
-
-## ‘India can hit hard’: Doval recalls Op Sindoor, says our generosity, tolerance should not be seen as weakness
-Speaking in the upcoming Discovery docuseries "Declassified: Operation Sindoor", Doval said the objective of the military operation was to destroy enemy camps.
-
-## Class 8 boy dragged 25 metres under car in Kanpur, driver flees after leaving him roadside
-The incident took place around 6 pm on Wednesday near Awas Vikas-1, when the boy, was riding his bicycle close to his home.
 
 ## Reduce your exposure to US assets before they lose value, Pictet warns investors
 Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ahmed al-Sharaa: A New Vision for Syria
+An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.
+
+## Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan
+Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.
+
+## Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact
+The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.
+
 ## Pakistan PM’s ‘red line’ warning to India over water treaty
 Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.
 
@@ -245,15 +254,6 @@ Thirteen countries have become members of the Saudi-led maritime alliance.
 
 ## Israeli soldiers prevent aid delivery to besieged Palestinians
 Israeli soldiers prevent aid delivery to besieged Palestinians
-
-## Israeli forces block activists from reaching besieged Qusra families
-About 15 Palestinians, including two children, have been trapped in three homes in Qusra for nearly a week.
-
-## Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18
-Jessica Bang won her first professional event this year but died after collapse in Thailand and emergency surgery.
-
-## Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’
-The Israeli PM's remark comes amid signs of growing tension between Israel and the UK's Labour government.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
