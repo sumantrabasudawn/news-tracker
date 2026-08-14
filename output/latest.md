@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## UK fire services stretched by surge in wildfires
+Drop in firefighter numbers in England leaves brigades stretched as incident callouts rise
+
 ## Investigation into Farage to resume after he wins Clacton by-election
 Reform UK leader increases number of votes after mainstream parties shunned poll as stunt
 
@@ -12,9 +15,6 @@ Ecommerce platform suffered first sales decline in more than a decade after end 
 ## FirstFT: Cheaper Chinese models push OpenAI and Anthropic into price war
 Also in today’s newsletter: UK aid cuts and effective altruism revival
 
-## UK fire services stretched by surge in wildfires
-Drop in firefighter numbers in England leaves brigades stretched as incident call-outs rise
-
 ## Mortgage costs pushed higher by US stand-off with Iran
 Interest rates on home loans have jumped in America and several big European economies in recent weeks
 
@@ -23,6 +23,9 @@ Largest US bank has continued to cultivate ties with prediction platform as it s
 
 ## Venezuela and its opposition want gold back from Bank of England vaults
 After US-backed negotiations, the two sides said they would push to access $4bn in bullion held in the UK
+
+## Probe into UK train derailment after 20 people injured
+Services disrupted after three carriages on London to Eastbourne route flipped on to their side
 
 ## Jaguar Land Rover owner’s shares slip after profits tumble
 Finance chief says times at Tata-owned carmaker ‘are simultaneously both difficult and exciting’
@@ -33,32 +36,32 @@ Anthropic investors expect the AI start-up to float at a valuation of $2tn or mo
 ## Owner of collapsed lender MFS to pay £3mn to his lawyers at Mishcon de Reya
 Administrators agree to Paresh Raja using funds from frozen account as he defends claim he misappropriated £1.3bn
 
-## Banks’ private credit disclosures highlight value of sunlight
-Executives know that when investors are nervous, more information is better than less
+## RBI rate framework may limit HFC pricing flexibility, speed up bank rate transmission to NBFCs: Kotak
+Kotak said the proposed framework could affect HFCs that currently use an internal prime lending rate (PLR) and offer home loans at a discount to the benchmark
 
-## India less exposed to AI job risks than others, Goldman says
-Construction and retail trade account for about 40% of India’s workforce, and ‘it’s not really getting impacted by AI currently’, Goldman Sachs economist says
+## Sensex today | Stock Market Live: Sensex below 77,900, Nifty near 24,350 as West Asia tensions persist
+Sensex, Nifty, Share Prices LIVE: Indian equities remained subdued in noon trade on Friday, with persistent West Asia tensions and continued foreign selling weighing on sentiment. Easing expectations of a September US Fed rate hike and softer crude prices offered limited support, restricting the mar
 
-## Sensex today | Stock Market Live: Sensex falls over 250 points, Nifty slips 0.24% amid West Asia concerns
-Sensex, Nifty, Share Prices LIVE: Indian equity markets traded lower on Friday as persistent West Asia tensions and continued foreign investor selling weighed on sentiment. Easing expectations of a September US Federal Reserve rate hike and softer crude prices offered some support, limiting the decl
-
-## Chinese car sales are booming almost everywhere — just not at home
-Chinese car sales fell for a 10th straight month in July even as exports jumped 88%
-
-## Security beefed up in Jammu ahead of I-Day, high alert sounded
-The increased security comes amid a surge in patriotic activities across the region, with Tiranga Yatras, 'Har Ghar Tiranga' campaigns, among others
-
-## Israeli settlers seize Palestinian freshwater springs, dry up farmlands
-Settlers have cut off Palestinians’ access to springs across the West Bank, Palestinians say
-
-## NATO jets shoot down drone that entered Latvian airspace
-The drone flew in as a result of ‘Russian electromagnetic warfare,’ the Latvian defence ministry said
-
-## India's coal demand seen at 1.6 billion tonnes by 2030 as govt pushes market-driven trade: Coal Secretary
-India’s Coal Secretary Vikram Dev Dutt said that the domestic coal production crossed 1 billion tonnes for the first time in 2024-25 and remained above that level for a second consecutive year in 2025-26
-
-## Q1 Results Today Live: Anupam Rasayan PAT up marginally, Ashok Leyland, NMDC, Alkem Lab, BDL, Voltas, 3M India, Cochin Shipyard, Physicswallah, Cholamandalam Fin, PTC Ind, Natco Pharma, Borosil to announce Q1 results, TMPV, Max Health lead Nifty 50 losers after Q1, Page Ind, Jubilant, LG Electronics, Honasa shares zoom
+## Q1 Results Today Live: Ashok Leyland, 3M India Q1 PAT up y-o-y, NMDC, Alkem Lab, BDL, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Natco Pharma, Borosil to announce Q1 results
 Q1 Results Today, 14th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+
+## 160X8.0 Series Launch 21st August -- Breakthrough GT1200 Carbon Plate Powers Xtep's 160X 8.0 Ultra
+160X8.0 Series Launch 21st August -- Breakthrough GT1200 Carbon Plate Powers Xtep's 160X 8.0 Ultra
+
+## China advances global AI governance in a comprehensive manner
+China advances global AI governance in a comprehensive manner
+
+## Escorts Kubota launches MU4502 and MU5002 tractors with 8-year transferable warranty
+The new models combine Japanese-engineered powertrains with features aimed at improving operating efficiency, implement compatibility and long-term ownership value.
+
+## Electronics firm Eureka Forbes investigating findings of child labour at supplier
+The National Human Rights Commission this week asked Eureka, as well as electrical equipment maker Havells and Unilever's India unit, to make checks ‌after ⁠four children were rescued from a small-scale Indian vendor
+
+## Quest Global said to pick banks for $1 billion India IPO
+The Singapore-based engineering services firm has appointed Axis Capital Ltd., Kotak Mahindra Capital Co., JM Financial Ltd., Morgan Stanley and Citigroup Inc. to advise on the share sale
+
+## Your humble dhaniya no longer free! Coriander prices rise above Rs 200 kg as heavy rains disrupt supply
+Fresh coriander, which neighbourhood vegetable vendors routinely tucked into shopping bags at no extra cost, has become unexpectedly expensive after heavy rainfall disrupted supplies from major growing regions.
 
 ## Gold price prediction: Will gold price rally now face profit booking? Check August 14, 2026 outlook
 MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.
@@ -81,32 +84,38 @@ Oil prices saw a slight increase on Friday due to renewed supply concerns. The U
 ## Commission caps may hit low-value life covers
 
 
-## Tata Motors PV profit dips 80% on rising input costs
+## ‘Every line of decency crossed’: Huge uproar over Rahul Gandhi's hug dig at govt's foreign policy
+Himanta Biswa Sarma said Rahul's remarks were not merely politically indecent but also an attempt to sabotage India's foreign relations.
 
+## Nagaland church council opposes move to make singing of 'Vande Mataram' mandatory
+Nagaland church council opposes move to make singing of 'Vande Mataram' mandatory
 
-## Relief for Rahul Gandhi, SC quashes criminal defamation complaint in Savarkar remarks row
-Relief for Rahul Gandhi, SC quashes criminal defamation complaint in Savarkar remarks row
+## Indians, Pakistanis see each other as greatest geopolitical threat: Pew survey
+Despite some positive sentiments from Indian Muslims, mutual distrust persists between the nuclear-armed neighbours eight decades post-independence.
 
-## Independence Day 2026: How to properly display, handle the Indian flag - Your six-point tricolour guide
-India's Flag Code covers several aspects of handling the tricolour, including how it should be displayed and stored. Knowing them can help avoid mistakes.
+## Cockroach Janta Party calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+Chief Justice of India (CJI) Surya Kant said the Council had “no business” getting involved in the students’ right to protest.
 
-## 'Rehabilitation centres for retired judges': CJI Surya Kant raps consumer forums over case pendency
-SC directed an audit of consumer commissions, questioning effectiveness of retired judges in these roles and need for better accountability and infrastructure.
+## Caste among 40 questions notified for the second phase of the Census 2027
+The Cabinet Committee on Political Affairs cleared the decision to include caste enumeration on April 30 last year
 
-## Maharashtra police officer showed heroic courage in saving Sukhbir Badal: Harsimrat
-Maharashtra police officer showed heroic courage in saving Sukhbir Badal: Harsimrat
+## Delhi airport, high court, other sensitive locations receive bomb threat ahead of Independence Day
+Delhi High Court Bar Association (DHCBA) Joint Secretary Kunal Malhotra said the threat appeared to be fake.
 
-## 'Who are you to question govt policy?': SC stays Madras HC order on jobs for relatives of Karur stampede victims
-The Madras high court on July 27 had quashed CM Vijay's order providing government jobs to relatives of people who died in a stampede at Karur last year.
+## 'Recently, navy's 1st nuclear submarine…': On 2013 Independence Day, PM Manmohan's military message
+As India prepares to celebrate Independence Day, Hindustan Times revisits former Prime Minister Manmohan Singh's address from the Red Fort on August 15, 2013.
 
-## Jaisalmer man abducted, brutally assaulted, nose cut off: Police
-The attackers allegedly broke his hands and legs and cut off his nose with a sharp-edged weapon before fleeing after villagers chased them
+## Bhutanese king expresses solidarity with Assam flood victims; Himanta thanks him for support
+Bhutanese king expresses solidarity with Assam flood victims; Himanta thanks him for support
 
-## Delhi I-day traffic advisory: Roads near Red Fort closed, check alternate routes
-The police imposed traffic restrictions and announced diversions between 4 am and 10 am on Saturday.
+## From chasing robots to chasing profits: the numbers moving markets
+While Chinese investors chased Unitree Robotics amid the frenzy for robotics stocks, the market this week also focused on the implications of July’s US inflation rate, the gold price trend and the interim results of CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billionaire 
 
-## Caste, Covid vaccination: Centre notifies 40 questions for Census Phase 2 starting next month
-The exercise is set to begin from September 1 in snow-bound areas, according to a government order.
+## EQT offers clients diversified wealth strategies to meet demand for new opportunities
+EQT – one of the world’s largest private markets firms – is taking steps to extend its expertise and institutional-quality access to a wider range of eligible clients. In practice, this means working with wealth industry partners to give sophisticated individual investors similar opportunities to th
+
+## China’s Central Asia push
+–
 
 ## Shein eyes a valuation rivalling H&M. Will the market buy it?
 Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H&M, citing its business model and global customer base as major competitive advantages, according to internal documents seen by the South China Morning Post. Shein cited analysts wh
@@ -122,15 +131,6 @@ Hong Kong’s life insurers could still see annual premium growth of 8 to 10 per
 
 ## Insurance Will Propel Hong Kong’s AI Ambition
 [The content of this article has been produced by our advertising partner.] At the SCMP China Conference on July 7, Chief Executive John Lee identified AI as central to Hong Kong’s push to become a global international innovation and technology centre. In his keynote speech, Lee spoke about the city
-
-## Transit giant CRRC sets down marker in Hong Kong as sales pitch to overseas cities
-Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state-owned giant China Railway Rolling Stock Corporation (CRRC) hopes to provide the nearby waterfront area – a narrow stretch of land that juts into Victoria Harbour – with a route to better transit connectivity. Executives f
-
-## Hong Kong to reappoint insurance regulator as industry braces for tough period: sources
-Hong Kong’s government is set to reappoint Clement Cheung Wan-ching as CEO of the Insurance Authority for another three-year term on Friday, according to two sources with knowledge of the matter. The move is aimed at ensuring continuity and stability in the city’s insurance sector, as the industry f
-
-## Chinese banks test repo-linked corporate loans for more market-based pricing
-Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test lenders’ risk management capabilities. The shift to the overnight or seven-day depo
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -180,6 +180,9 @@ Different firms in the AI value chain invoke the AI race narrative, but with dif
 ## How the Modi Government is Downgrading India’s National Anthem
 For the first time in eight decades, the country’s national song, Vande Mataram, will precede the playing of the national anthem on Independence Day.
 
+## Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk
+Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical infrastructure would be struck. Iranian 
+
 ## The Commercial Space Race
 A strong commercial space industry is an important partner for the U.S. government, as it contributes to building more robust space and defense capabilities and facilitates innovation more broadly. As competition between the United States and China heats up, both countries look to the commercial spa
 
@@ -200,9 +203,6 @@ When war changes, schools change. New technology, the politics of mass mobilizat
 
 ## Who Pays for America’s Research and Development?
 When the Soviet Union launched Sputnik in 1957, the U.S. government was the unrivaled patron of American science. It funded nearly two-thirds of the nation’s research and development — much of it for defense — defining the early Cold War. In a phenomenon that’s been widely explored in our Arsenal of
-
-## Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective
-Nine countries now possess nuclear weapons. Arms control agreements painstakingly built over decades have collapsed. Geopolitical competition is intensifying rivalries between nuclear-armed powers. North Korea continues expanding its arsenal and delivery systems. China is on a trajectory to go from 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Stolen Matisse art found in Brazil
+Stolen Matisse art found in Brazil
+
+## South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast
+South Africa and Ghana claim Africa's two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.
+
+## Prichard Colon dies from boxing injury that resulted in 221-day coma
+Prichard Colon suffered neurological damage that required emergency surgery following a boxing bout in 2015.
+
+## Nigel Farage defeats Count Binface to reclaim UK parliamentary seat
+The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface.
+
 ## Flock adds safeguards to licence-plate readers after wave of stalking cases
 US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.
 
@@ -240,20 +252,11 @@ Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targete
 ## Record rainfall leaves four dead, thousands stranded in Japan
 Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.
 
-## Salvage work begins on tanker leaking oil off Oman, risk firm says
-Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.
-
-## How much power does the US hold in Venezuela?
-After Maduro’s removal, US influence in Venezuela soared, but experts say Washington may still have to ‘own’ Venezuela.
-
-## Al Jazeera speaks to Count Binface as Farage claims Clacton victory
-Al Jazeera’s Jonah Hull spoke to candidate for MP, Count Binface, as votes were counted in Clacton.
-
-## Water supply for three US states drips down, Lake Mead at record low
-The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.
-
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
+
+## MCA tightens Ind AS accounting rules, revises financial instrument classification and disclosure norms
+Amendments introduce new accounting framework for nature dependent electricity contracts, electronic payments and contingent cash flows; key changes apply to financial year beginning April 1, 2026.
 
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
@@ -272,9 +275,6 @@ N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tat
 
 ## Beyond Chandrasekaran: Will Tata Sons opt for a new chairman or split power between chairman and CEO?
 The immediate question for Tata Sons is whether it will appoint another executive chairman in Chandrasekaran's mould or separate the group's governance and executive responsibilities between a chairman and a CEO or managing director.
-
-## India's direct tax collections rise 23% to Rs 8.11 lakh crore as non-corporate tax drives growth
-India's net direct tax collections rose 23.09 per cent year-on-year to Rs 8.11 lakh crore as of August 10, 2026, from Rs 6.59 lakh crore in the corresponding period last year, according to data released by the Income Tax Department.
 
 ## RBI turns upbeat as worst of Iran war shock recedes
 India’s economy is showing resilience five months after the Iran war sparked fears of inflation and a downturn. Inflation remains within the RBI’s tolerance band, while vehicle sales, credit growth and GST receipts point to firm demand. Strong corporate balance sheets and festive-season spending are
