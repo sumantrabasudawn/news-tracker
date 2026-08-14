@@ -1,7 +1,22 @@
 # AION Intelligence
 
+## Luigi Mangione pleads guilty over death of UnitedHealth chief executive
+Ivy League graduate reverses stance in case that has become lightning rod for debate about US healthcare system
+
 ## Second UK train derails in under 24 hours
 Incident at Wickford in Essex follows derailment of train in East Sussex on Thursday
+
+## Activists are giving British M&A targets a helpful shove
+Investors can unlock value by pushing companies to spin off businesses or sell to rivals
+
+## Farage wins… and donation probe resumes
+Plus, is Burnham mulling an early election?
+
+## Top French court blocks social media ban for children
+Constitutional Council says law is a ‘disproportionate infringement on freedom of expression’
+
+## Warsh and wait
+The tight-lipped Fed chair appears happy to let the market and fellow policymakers take the lead
 
 ## Investors pile back into US stocks as bullishness returns to Wall Street
 Stellar earnings season and falling inflation fuel rebound from July’s chip rout
@@ -9,26 +24,14 @@ Stellar earnings season and falling inflation fuel rebound from July’s chip ro
 ## Lebanon set for mass prisoner release after controversial amnesty
 Move to free thousands from overcrowded jails comes after sectarian squabbling between Sunni and Shia factions
 
-## Farage’s gamble pays off — but at what cost?
-Probe into party leader’s finances resumes with Labour government now leading in the polls
-
-## Venezuela wants its gold back from Bank of England
-After US-backed negotiations, the two sides said they would push to access $4bn in bullion held in the UK
-
-## Daniel Kinahan, Ireland’s most wanted man, faces his day in court
-Crime boss suspect tried to mix legitimate business with allegedly running a murderous empire
-
-## US nuclear negotiator Ernest Moniz: ‘Iran has the home-court advantage’
-The architect of the 2015 deal with Tehran on how to prevent a new Middle East arms race
-
-## Bird remains found in engine of Ryanair window blowout plane
-US NTSB discovers bird remains in several parts of the engine that failed
-
 ## Reader callout: Do you earn more than your siblings?
 Managing income differences within a family can be tricky
 
 ## Financier fined and banned over false claims in bids for bank and football club
 UK watchdog imposes £489,000 penalty on Paul Taylor over information provided in negotiations
+
+## Bird remains found in engine of Ryanair window blowout plane
+US NTSB discovers bird remains in several parts of the engine that failed
 
 ## Indonesia’s Prabowo retreats on commodities reform amid market pressure
 State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
@@ -36,35 +39,35 @@ State-owned agency had threatened to shake up trade of nickel, thermal coal and 
 ## All aboard the wind power rollercoaster
 Vestas share price surge highlights wild swings in investor sentiment
 
-## FirstFT: Iran war pushes up mortgage costs for borrowers
-Also in today’s newsletter: Anthropic and ChatGPT launch cheap models, and Venezuela requests return of 31 tonnes of gold
-
-## Health insurance reforms must go beyond rates to address the cost of care: Industry experts
-Standardising costs across private and government hospitals could help keep expenditure on tertiary and super-speciality care within manageable limits
-
-## LG Electronics India hits upper circuit, closes 9.59% higher on blowout Q1 earnings
-LG Electronics India stock, which listed in October 2025, is up nearly 15% year-to-date and trades at a trailing P/E of 58.71x
-
-## Honasa shares hit 52-week high as JM Financial, HDFC Securities turn bullish
-Honasa Consumer recorded profit after tax of ₹90 crore, an increase of over 116% year-on-year
-
-## Watch retailer Just in Time looks to double down on retail footprint expansion, eyes Rs 1000 cr revenue-mark
-This expansion comes as consumer spending on watches remains robust, with the company reporting annual revenue growth of 35-38 per cent, outpacing industry trends.
-
-## Dee Development Engineers eyes over ₹2,000 crore order book in FY27
-The engineering major offers very specialised process piping solutions for oil and gas, power (including nuclear), process industries and chemicals
-
 ## Ashok Leyland steps up ₹2,000 crore cost-cutting drive amid commodity pressures
 On a standalone basis, the Chennai-based auto major reported its highest-ever net profit of ₹609 crore in Q1 FY27 as against ₹594 crore in the same quarter previous year
 
-## Robust accretion to FCNR-B deposits: RBI decides to pull the plug on concessional swap facility
-The concessional swap facility will now be available only for FCNR(B) deposits of 3-5 years maturity mobilised till August 31, against the earlier deadline of September 30
+## Indian govt says buyers must lift sugar within 7 days, seeks bulk sales data by Aug 20
+Certain mills are holding stocks of sugar in excess of the quantities reported or selling less sugar than the allocated monthly quota, Food Ministry says in a new order aimed at tackling surge in prices
 
-## Modi Naturals targets ₹900–950 crore FY27 revenue
-Oleev edible-oil maker Modi Naturals expects revenue to rise 25-32% to ₹900-950 crore in FY27 from ₹719 crore last year, as its expanded ethanol capacity ramps up and the company scales its premium foods business
+## Shiprocket IPO receives over 99x demand on final day, Behari Lal Engineering crosses 100x
+Shares of Shiprocket and Behari Lal Engineering will list on August 19
+
+## India’s pulses acreage almost at par with last year’s level
+The areas as of August 14 was 108.14 lakh hectares compared with 108.49 lh a year ago
+
+## I&B Ministry scraps 12 min ad duration cap for television channels to ensure level playing field
+The decision will come into effect from the date of notification of the amendment in the Cable Television Networks Rules, 1994 in the Gazette
+
+## ‘Gold can become a key pillar of India’s growth story’
+After an exceptional rally for the last two years and early 2026, gold prices moderated in Q2, though they remained elevated by 59% year-on-year
+
+## Q1 Results Today Highlights: BDL, Ashok Leyland, 3M India Q1 PAT rise y-o-y, Electrotherm, NATCO Pharma, Alkem Lab PAT decline, NMDC, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Borosil to announce Q1 results
+Q1 Results Today, 14th August 2026 Highlights: Follow Q1FY27 highlights from businessline
+
+## Fractal Analytics beta launches India’s first healthcare AI model under India AI Mission
+The pilot in partnership with the Brihanmumbai Municipal Corporation (BMC) will provide a Health AI Chatbot on WhatsApp
 
 ## India's big chip ambition: Can it become the world's next semiconductor hub?
 Semiconductors sit underneath almost everything today: electronics, EVs, telecom, AI, data centres, defence, manufacturing. So having a self-reliant semiconductor ecosystem is an absolute necessity in the current globally uncertain economic and geopolitical environment.
+
+## Trump admin accuses over 40 nations including India of helping China evade tariffs - what it means
+The White House report classifies more than 40 countries into three separate tiers based on their alleged role in transshipment activities. India has been placed in Tier 1, labelled "Diversified Scale Leaders", alongside Canada, the European Union, Israel, Japan, Mexico, South Korea and Taiwan.
 
 ## US stock market today: Wall Street drifts near record highs; economic data in focus
 The bond market was largely steady after government data showed that consumer spending at US retailers declined from the previous month. The reading caught economists off guard, as they had expected retail sales to post another monthly increase.
@@ -84,32 +87,29 @@ Fresh coriander, which neighbourhood vegetable vendors routinely tucked into sho
 ## Gold price prediction: Will gold price rally now face profit booking? Check August 14, 2026 outlook
 MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.
 
-## 'Shadow transshipment network': US names India among 40 nations helping China evade tariffs
-A US report names India among over forty nations facing risks of transshipping Chinese goods. These countries could become conduits for products avoiding American import tariffs. The White House warns of intensified detection and penalties for such trade practices. India is categorized in the top-ri
+## India hits back at Norway FM’s Kashmir remarks during Pakistan visit
+India says Jammu, Kashmir and Ladakh are integral parts of the country, while urging the world to focus on Pakistan-occupied Kashmir and cross-border terrorism.
 
-## Odisha floods worsen as heavy rain inundates villages, roads in north
-Heavy rain has worsened flooding across northern Odisha, with rivers swelling, villages inundated and roads disrupted as the IMD warns of more rain.
+## Parl clears bill to curb states’ tax on minerals; Soren warns of stir
+Parliament passed the Mines and Minerals Amendment Bill, limiting state mineral taxes, sparking warnings of agitation from Jharkhand’s chief minister.
 
-## President Murmu on Indus Water Treaty suspension: ‘Decisive step in interest of nation, farmers'
-We have succeeded in bringing more than 25 crore people out of poverty, President Murmu said in her address to the nation.
+## Odisha appoints Vinaytosh Mishra as acting DGP amid police chief selection row
+Vinaytosh Mishra will take charge as Odisha DGP on August 16 as the Supreme Court hears a plea challenging the state’s police chief selection process.
 
-## NCP's Zeeshan Siddique gets death threat over phone, lodges complaint with Bandra police station
-Earlier, Siddique, son of slain NCP leader Baba Siddique, alleged that he received a death threat over a phone call.
+## Usha Uthup: ‘Strongly attached to idea of India even though much has changed’
+While music entered her life without warning, Uthup was thrown out of her class choir “because the teacher could not find a proper place for my voice”.
 
-## Karnataka to withdraw gutka ban after MLAs flag losses for arecanut growers
-Karnataka will withdraw its gutka and tobacco-containing pan masala ban after MLAs warned it could hurt arecanut growers and cause farmer losses.
+## Nitin Thakker: ‘Political leaders were far more approachable, had clean image’
+India@79: Donning the black gown since 1968, Thakker has been on the electric tram that ceased operations in '64 and the underground Metro Line 3 opened in 2025
 
-## Govt on Rahul's 'Meloni jibe': India-Italy ties based on ‘mutual respect, understanding’
-MEA on Congress’ ‘Meloni jibe’: India shares strong ties with Italy, based on mutual respect and understanding
+## TV channels can now run more than 12 minutes of ads under new rules
+The advertisement limit was introduced in 2006, when India's television market was much smaller and largely dependent on analogue cable networks.
 
-## Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation
-President Droupadi Murmu speech LIVE: The address began at 7 pm. President Murmu said the nation belonged to the entire community and that every citizen had a role in the country’s progress and development.
+## Lt Gen Arvind Mahajan (Retd): ‘We were hailed as the generation of New India’
+Serving during the Kargil War, he says, was among the most defining experiences of his military career.
 
-## ‘Beginning of another’: How Hindustan Times reported freedom on August 15, 1947
-By the time people picked up their newspapers on August 15, the headline was no longer about a country waiting for freedom. India was independent.
-
-## 4 die after inhaling toxic gas inside well in Bihar's Gaya
-The incident occurred at Garh Karmauni village in Dobhi police station area of the district.
+## Indra Mohan Pandey: ‘Panditji just passed by us... I could see him clearly’
+India@79: Pandey has watched India move from radio and trunk calls to smartphones and from scarcity and protectionism to liberalisation and globalisation
 
 ## Reduce your exposure to US assets before they lose value, Pictet warns investors
 Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Philippines drug war victims seek justice through truth commission
+Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.
+
+## Top French court upholds assisted dying law, rejects teen social media ban
+The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
+
+## Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
+Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.
+
+## Zambia suspends vote counting in election citing violence
+Zambia's electoral commission on Friday suspended vote counting nationwide.
+
+## Qatar challenges AFC over open letter attacking FIFA President Infantino
+Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.
+
+## ‘The party of the Cubans’: How Republicans courted a key South Florida vote
+Polls suggest Cuban American voters in Florida remain largely Republican, despite frustration over immigration.
+
 ## Ahmed al-Sharaa: A New Vision for Syria
 An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.
 
 ## Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan
 Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.
-
-## Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact
-The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.
-
-## Pakistan PM’s ‘red line’ warning to India over water treaty
-Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.
-
-## Russia stance will be defended in court, pledges World Athletics chief Coe
-Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.
-
-## US missionary kidnapped in Niger released after nine months in captivity
-Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.
-
-## Saudi Arabia announces start of Red Sea defence alliance: Will it work?
-Thirteen countries have become members of the Saudi-led maritime alliance.
-
-## Israeli soldiers prevent aid delivery to besieged Palestinians
-Israeli soldiers prevent aid delivery to besieged Palestinians
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
