@@ -1,13 +1,13 @@
 # AION Intelligence
 
+## Jane Street suffers $15bn hit after meltdown at Situational Awareness
+Secretive Wall Street trading firm wrongfooted by July AI rout
+
 ## Sheinbaum slams US for revoking visa of former Mexican president’s son
 Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’
 
 ## Former Cambridge professor Jason Arday found dead
 University’s youngest-ever Black professor had been under scrutiny following plagiarism allegations
-
-## Jane Street suffers $15bn loss in July market ructions
-Wall Street trading firm has still recorded hefty trading revenues in 2026
 
 ## US accuses more than 40 countries of helping China avoid Trump’s tariffs
 White House says Canada, Japan, EU and others enabling evasion of levies for $60bn in trade via ‘transshipment scam’
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
+Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
+
+## Wildfires rage across Europe as heatwaves drive record temperatures
+Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.
+
+## Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
+Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
+
 ## Trump dismisses mental health concerns on USS Lincoln aircraft carrier
 Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.
 
@@ -245,15 +254,6 @@ The US has not confirmed the revocation which comes amid crackdown on Mexican po
 
 ## New aerial video reveals huge scale of oil spill off Oman
 A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.
-
-## Trump asks US Supreme Court to allow $400m ballroom project to proceed
-Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.
-
-## Woman charged over vandalism of World War II Memorial in Washington, DC
-The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.
-
-## Art offers young Gaza survivors solace and escape from war’s devastation
-Young survivors of Israel's genocidal war in Gaza find safe spaces to process trauma and rediscover joy.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
