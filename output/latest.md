@@ -1,9 +1,18 @@
 # AION Intelligence
 
+## Investigation into Farage to resume after he wins Clacton by-election
+Reform UK leader increases number of votes after mainstream parties shunned poll as stunt
+
+## Karthik Sankaran on the case for yen intervention
+‘I’ve been calling for an intervention at least since dollar-yen was at 150’
+
+## Shares of China’s JD.com slide after rare revenue plunge
+Ecommerce platform suffered first sales decline in more than a decade after end of government subsidy programme
+
 ## FirstFT: Cheaper Chinese models push OpenAI and Anthropic into price war
 Also in today’s newsletter: UK aid cuts and effective altruism revival
 
-## New Forest blaze points to challenge for under-pressure fire services
+## UK fire services stretched by surge in wildfires
 Drop in firefighter numbers in England leaves brigades stretched as incident call-outs rise
 
 ## Mortgage costs pushed higher by US stand-off with Iran
@@ -15,14 +24,8 @@ Largest US bank has continued to cultivate ties with prediction platform as it s
 ## Venezuela and its opposition want gold back from Bank of England vaults
 After US-backed negotiations, the two sides said they would push to access $4bn in bullion held in the UK
 
-## Fragile states in Africa and Middle East hit by more than 40% cut in UK direct aid
-Campaigners sound alarm over cuts to development spending pushed through to fund defence investment
-
-## Banks’ private credit disclosures highlight value of sunlight
-Executives know that when investors are nervous, more information is better than less
-
-## Farage aide Cottrell had secret Polymarket account that placed bets on Trump victory
-Large sums involved shine light on the financial activities of one of Farage’s closest confidants
+## Jaguar Land Rover owner’s shares slip after profits tumble
+Finance chief says times at Tata-owned carmaker ‘are simultaneously both difficult and exciting’
 
 ## The trillion-dollar IPO vibes continue
 Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October
@@ -30,37 +33,37 @@ Anthropic investors expect the AI start-up to float at a valuation of $2tn or mo
 ## Owner of collapsed lender MFS to pay £3mn to his lawyers at Mishcon de Reya
 Administrators agree to Paresh Raja using funds from frozen account as he defends claim he misappropriated £1.3bn
 
-## Activist Cevian calls for higher pay for UK board members
-Investor argues non-executive pay should triple to help boost performance and growth
+## Banks’ private credit disclosures highlight value of sunlight
+Executives know that when investors are nervous, more information is better than less
 
-## OpenAI and Anthropic in price war as Chinese AI rivals gain ground
-US groups release cheaper models after new challenges to their trillion-dollar ambitions
+## India less exposed to AI job risks than others, Goldman says
+Construction and retail trade account for about 40% of India’s workforce, and ‘it’s not really getting impacted by AI currently’, Goldman Sachs economist says
 
-## Sensex today | Stock Market Live: Sensex falls over 350 points, Nifty slips 0.37% amid West Asia concerns
-Sensex, Nifty, Share Prices LIVE: Indian equities opened with a cautious bias on Friday as investors weighed easing expectations of a September US rate hike against persistent West Asia tensions, continued foreign selling and weekly losses, while softer crude prices offered some relief.
+## Sensex today | Stock Market Live: Sensex falls over 250 points, Nifty slips 0.24% amid West Asia concerns
+Sensex, Nifty, Share Prices LIVE: Indian equity markets traded lower on Friday as persistent West Asia tensions and continued foreign investor selling weighed on sentiment. Easing expectations of a September US Federal Reserve rate hike and softer crude prices offered some support, limiting the decl
 
-## Technocraft Ventures shines with 58% listing gains, LEAP India makes muted debut on bourses
-Technocraft Ventures lists at 34% premium, LEAP India debuts with little over 4% premium
+## Chinese car sales are booming almost everywhere — just not at home
+Chinese car sales fell for a 10th straight month in July even as exports jumped 88%
 
-## J'khand job exam stir: Protest enters 21st day, students to take out ‘Tiranga Yatra’ on Saturday
-Student protesters caution Ranchi district administration against FIR lodged over the violence during the August 10 march towards the state assembly
+## Security beefed up in Jammu ahead of I-Day, high alert sounded
+The increased security comes amid a surge in patriotic activities across the region, with Tiranga Yatras, 'Har Ghar Tiranga' campaigns, among others
 
-## Gold on track for weekly loss as investors book profits after inflation-fuelled rally
-Gold retreats from two-month peak
+## Israeli settlers seize Palestinian freshwater springs, dry up farmlands
+Settlers have cut off Palestinians’ access to springs across the West Bank, Palestinians say
 
-## TMPV shares fall 6% as JLR margin concerns weigh, brokerages divided
-The automaker reported an 80.3% year-on-year fall in consolidated net profit in the June quarter to ₹775 crore
+## NATO jets shoot down drone that entered Latvian airspace
+The drone flew in as a result of ‘Russian electromagnetic warfare,’ the Latvian defence ministry said
+
+## India's coal demand seen at 1.6 billion tonnes by 2030 as govt pushes market-driven trade: Coal Secretary
+India’s Coal Secretary Vikram Dev Dutt said that the domestic coal production crossed 1 billion tonnes for the first time in 2024-25 and remained above that level for a second consecutive year in 2025-26
 
 ## Q1 Results Today Live: Anupam Rasayan PAT up marginally, Ashok Leyland, NMDC, Alkem Lab, BDL, Voltas, 3M India, Cochin Shipyard, Physicswallah, Cholamandalam Fin, PTC Ind, Natco Pharma, Borosil to announce Q1 results, TMPV, Max Health lead Nifty 50 losers after Q1, Page Ind, Jubilant, LG Electronics, Honasa shares zoom
 Q1 Results Today, 14th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Nifty Today: Index slips below 24,400 as metal stocks drag; Can it reclaim 24,500?
-The Sensex, which closed at 78,079.96 on Thursday, opened at 77,903.43 and fell to 77,774.69, shedding 305.27 points or 0.39%, in early trade
+## Gold price prediction: Will gold price rally now face profit booking? Check August 14, 2026 outlook
+MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.
 
-## PARKROYAL COLLECTION Marina Bay, Singapore Named Among Singapore's Top 10 Hotels by Travel + Leisure and Featured on 50 Best Discovery
-PARKROYAL COLLECTION Marina Bay, Singapore Named Among Singapore's Top 10 Hotels by Travel + Leisure and Featured on 50 Best Discovery
-
-## India among countries flagged by US over Chinese goods 'transshipment risks'
+## 'Shadow transshipment network': US names India among 40 nations helping China evade tariffs
 A US report names India among over forty nations facing risks of transshipping Chinese goods. These countries could become conduits for products avoiding American import tariffs. The White House warns of intensified detection and penalties for such trade practices. India is categorized in the top-ri
 
 ## Top shares to buy: Stock market recommendations for today - check list
@@ -81,32 +84,32 @@ Oil prices saw a slight increase on Friday due to renewed supply concerns. The U
 ## Tata Motors PV profit dips 80% on rising input costs
 
 
-## Regulatory ban puts Tata Sons AGM at risk
+## Relief for Rahul Gandhi, SC quashes criminal defamation complaint in Savarkar remarks row
+Relief for Rahul Gandhi, SC quashes criminal defamation complaint in Savarkar remarks row
 
+## Independence Day 2026: How to properly display, handle the Indian flag - Your six-point tricolour guide
+India's Flag Code covers several aspects of handling the tricolour, including how it should be displayed and stored. Knowing them can help avoid mistakes.
 
-## Who is Manan Kumar Mishra? Bar Council Chair at centre of CJP's 'isteefa do' post, NALSAR row
-The controversy began after reports of a campaign by some NALSAR students opposing CJI Surya Kant's participation in the university's convocation.
+## 'Rehabilitation centres for retired judges': CJI Surya Kant raps consumer forums over case pendency
+SC directed an audit of consumer commissions, questioning effectiveness of retired judges in these roles and need for better accountability and infrastructure.
 
-## Student’s murder over alleged campus drug whistleblowing sparks political row in TN
-Student’s murder over alleged campus drug whistleblowing sparks political row in TN
+## Maharashtra police officer showed heroic courage in saving Sukhbir Badal: Harsimrat
+Maharashtra police officer showed heroic courage in saving Sukhbir Badal: Harsimrat
 
-## Air India A320 briefly lost key flight controls during 300-foot drop, Airbus analysis shows
-AIR INDIA-SAFETY/ (PIX):Air India A320 briefly lost key flight controls during 300-foot drop, Airbus analysis shows
+## 'Who are you to question govt policy?': SC stays Madras HC order on jobs for relatives of Karur stampede victims
+The Madras high court on July 27 had quashed CM Vijay's order providing government jobs to relatives of people who died in a stampede at Karur last year.
 
-## ‘Beijjati hui wo alag’: CJP mocks Bar Council chairman over NALSAR U-turn within hours
-The Bar Council of India, in a dramatic U-turn within hours on Thursday, withdrew its order freezing the enrolment of the entire 2026 NALSAR batch.
+## Jaisalmer man abducted, brutally assaulted, nose cut off: Police
+The attackers allegedly broke his hands and legs and cut off his nose with a sharp-edged weapon before fleeing after villagers chased them
 
-## 3 workers remain trapped as rescue ops continue at Uttarakhand tunnel
-Six rescue workers, who entered the tunnel to assist in the operation, have also been safely evacuated and are reported to be safe
+## Delhi I-day traffic advisory: Roads near Red Fort closed, check alternate routes
+The police imposed traffic restrictions and announced diversions between 4 am and 10 am on Saturday.
 
-## India secures return of fugitive drug kingpin Virender Singh Basoya from UAE, Amit Shah hails ‘new milestone’
-Union home minister Amit Shah announced the return of the fugitive drug kingpin on Friday as he hailed the ‘milestone’ of ‘zero-tolerance against narcotics’.
+## Caste, Covid vaccination: Centre notifies 40 questions for Census Phase 2 starting next month
+The exercise is set to begin from September 1 in snow-bound areas, according to a government order.
 
-## After Justice Varma’s resignation, LS Speaker asked panel to complete probe, submit report
-The 126-page report of the committee, headed by SC judge Justice Aravind Kumar, records that on April 29, the joint secretary of the Lok Sabha secretariat wrote to the committee’s secretary
-
-## Bodies of 2 missing friends found buried behind temple in UP's Baghpat
-They allegedly confronted the temple's mahant about his relationship with Ankit's sister, leading to their murder. Investigations continue.
+## Shein eyes a valuation rivalling H&M. Will the market buy it?
+Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H&M, citing its business model and global customer base as major competitive advantages, according to internal documents seen by the South China Morning Post. Shein cited analysts wh
 
 ## Hong Kong to list first Shanghai free-trade zone bond to defend yuan hub status
 Hong Kong is set to welcome its first Shanghai free-trade zone offshore bond, using the landmark listing to defend its status as the world’s pre-eminent offshore yuan hub, amid mounting competition from its mainland rival. Hong Kong Exchanges and Clearing announced on Thursday that Shanghai Electric
@@ -128,9 +131,6 @@ Hong Kong’s government is set to reappoint Clement Cheung Wan-ching as CEO of 
 
 ## Chinese banks test repo-linked corporate loans for more market-based pricing
 Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test lenders’ risk management capabilities. The shift to the overnight or seven-day depo
-
-## SF Reit’s distributable income falls 7.3% in first half as occupancy holds steady
-SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year. The firm – which is controlled by the Chinese logistics giant SF Holding – re
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Flock adds safeguards to licence-plate readers after wave of stalking cases
+US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.
+
+## North Korea fumes over upcoming US-South Korea military drills
+Pyongyang has accused the US of pushing the world 'to the brink of nuclear war'.
+
 ## Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
 Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.
 
@@ -245,12 +251,6 @@ Al Jazeera’s Jonah Hull spoke to candidate for MP, Count Binface, as votes wer
 
 ## Water supply for three US states drips down, Lake Mead at record low
 The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.
-
-## Brazil begins exploring retaliatory options to new US tariffs
-Brazil has not yet decided whether it will proceed with retaliatory measures, but commits to defending its position.
-
-## Mali says 82 soldiers captured by armed groups have been freed
-Malian army says the soldiers were held prisoner by Tuareg and al-Qaeda-linked armed groups in the northern region.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
