@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## Daniel Kinahan, Ireland’s most wanted man, faces his day in court
-Crime boss suspect tried to mix legitimate business with allegedly running a murderous empire
-
 ## Lebanon set for mass prisoner release after controversial amnesty
 Move to free thousands from overcrowded jails comes after sectarian squabbling between Sunni and Shia factions
+
+## Farage’s gamble pays off — but at what cost?
+Probe into party leader’s finances resumes with Labour government now leading in the polls
+
+## Venezuela wants its gold back from Bank of England
+After US-backed negotiations, the two sides said they would push to access $4bn in bullion held in the UK
+
+## Daniel Kinahan, Ireland’s most wanted man, faces his day in court
+Crime boss suspect tried to mix legitimate business with allegedly running a murderous empire
 
 ## Safety inspection of track carried out day before train crash in southern England
 Checks that disrupt services take place only when there is reason to believe a fault might present a risk
@@ -18,11 +24,8 @@ US NTSB discovers bird remains in several parts of the engine that failed
 ## Indonesia’s Prabowo retreats on commodities reform amid market pressure
 State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
 
-## A-level results are in. But are next-step university digs out?
-High costs mean increasing numbers of those going from school into higher education are opting to live with their parents
-
-## Everyone but me is getting excited about European equities
-It doesn’t matter which index you buy, and that tells you everything you need to know
+## Financier fined and banned over false claims in bids for bank and football club
+UK watchdog imposes £489,000 penalty on Paul Taylor over information provided in negotiations
 
 ## All aboard the wind power rollercoaster
 Vestas share price surge highlights wild swings in investor sentiment
@@ -36,38 +39,32 @@ Since operator C2C was brought into public hands last year, outcomes have yet to
 ## Probe into UK train derailment after 20 people injured
 Services disrupted after three carriages on London to Eastbourne route flipped on to their side
 
-## Jaguar Land Rover owner’s shares slip after profits tumble
-Finance chief says times at Tata-owned carmaker ‘are simultaneously both difficult and exciting’
+## SAT allows Zee to proceed with ₹3,143 crore warrant issue
+The tribunal has extended Extends the deadline for the issuance by one week, subject to payment of penalties but debarment by SEBI on undertaking mutual-fund transactions will to continue
 
-## Shares of China’s JD.com slide after rare revenue plunge
-Ecommerce platform suffered first sales decline in more than a decade after end of government subsidy programme
+## AI becomes a measurable revenue pool for Indian IT firms, but not yet a growth engine
+Beyond revenue, AI and GenAI are improving IT service delivery efficiency by automating routine tasks
 
-## The trillion-dollar IPO vibes continue
-Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October
+## When will REITs strike the right chord?
+Reforms put REITs on growth path, but investor base remains narrow
 
 ## Alluri Sitarama Raju International Airport at Bhogapuram to begin operations from Aug 17
 The transition to the New Greenfield Airport marks a significant milestone for the region
 
-## MHA notifies 40 questions for Census 2027; introduces caste enumeration for first time post-Independence
-The decision to include caste enumeration in Census 2027 was taken by the Cabinet Committee on Political Affairs (CCPA) in April 30, 2025.
+## Dee Development Engineers eyes over ₹2,000 Cr order book in FY27
+The engineering major offers very specialised process piping solutions for oil and gas, power (including nuclear), process industries and chemicals.
 
-## Kashmir’s ‘red gold’ faces new threat from corm smuggling
-Several incidents involving the alleged smuggling of saffron corms outside the Valley have come to light in recent years
+## Nihar Info expands bullion platform scope
+It will also introduce gold and silver exchange-traded funds (ETFs), gold loans and structured buybacks by making arrangements with partners
 
-## Over 34 lakh candidates register on FutureSkills PRIME; 86%+ from Tier 2, 3 cities: MeitY
-India ranks among the leading countries in AI adoption, preparedness and ecosystem development and accounts for around 20% of the global semiconductor design workforce
+## Nifty ends week in red as Iran tensions, crude keep bulls at bay
+The Nifty 50 settled at 24,366, down 29.85 points, while the BSE Sensex declined 70.71 points to close at 78,009
 
-## Higher costs, rupee depreciation weigh on 3M India’s Q1 profit
-Revenue up 19%; healthcare segment leads the charge
+## Ashok Leyland posts record Q1 volumes, revenue up 10%
+On a standalone basis, the Chennai-based auto major reported its highest-ever net profit of ₹609 crore in Q1 FY27 as against ₹594 crore in the same quarter previous year
 
-## Broker’s call: Minda Corp (Buy)
-Elara Securities
-
-## SmartVakheel.AI Wins Legal AI Innovation of the Year 2026 at Bespoke Legal Summit
-
-
-## Dr. Swati Mujumdar Felicitated on Her Appointment as Chancellor of SSPU
-The ceremony marked a new chapter in her journey of advancing skill-first, industry-integrated and future-focused higher education
+## India's big chip ambition: Can it become the world's next semiconductor hub?
+Semiconductors sit underneath almost everything today: electronics, EVs, telecom, AI, data centres, defence, manufacturing. So having a self-reliant semiconductor ecosystem is an absolute necessity in the current globally uncertain economic and geopolitical environment.
 
 ## India's forex reserves climb to $707 billion, rise $14.1 billion in a week
 India's foreign exchange reserves jumped a notable $14.136 billion, reaching a total of $707.002 billion for the week ending August 7. This surge was largely driven by a $9.946 billion rise in foreign currency assets, complemented by a $3.995 billion increase in gold reserves. These noteworthy gains
@@ -90,32 +87,29 @@ A US report names India among over forty nations facing risks of transshipping C
 ## Top shares to buy: Stock market recommendations for today - check list
 Stock market recommendations: Amara Raja Energy & Mobility, Indian Bank, and Kfin Technologies have been recommended by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One as the top stocks to buy on August 14, 2026:
 
-## Precious metals price today: Gold slips after two-month high; silver also declines
+## NCP's Zeeshan Siddique gets death threat over phone, reaches Bandra police station to lodge complaint
+Earlier, Siddique, son of slain NCP leader Baba Siddique, alleged that he received a death threat over a phone call.
 
+## Karnataka to withdraw gutka ban after MLAs flag losses for arecanut growers
+Karnataka will withdraw its gutka and tobacco-containing pan masala ban after MLAs warned it could hurt arecanut growers and cause farmer losses.
 
-## Reliance Industries, Rolls-Royce partner to make engine for India’s AMCA programme
-Reliance, Rolls-Royce partner to make engines for India's Advanced Medium Combat Aircraft programme.
+## Govt on Rahul's 'Meloni jibe': India-Italy ties based on ‘mutual respect, understanding’
+MEA on Congress’ ‘Meloni jibe’: India shares strong ties with Italy, based on mutual respect and understanding
 
-## 'I ask parents of terrorists, Maoists…': PM Modi's first Independence Day speech| Aug 15, 2014
-As India prepares to celebrate Independence Day, Hindustan Times revisits Narendra Modi’s Independence Day address from the Red Fort on August 15, 2014.
+## Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | LIVE updates
+President Droupadi Murmu speech LIVE: The address began at 7 pm. President Murmu said the nation belonged to the entire community and that every citizen had a role in the country’s progress and development.
 
-## FIR registered against BJP MP Anant Maharaj over alleged Netaji remarks: Police
-Police said the FIR against Anant Maharaj was registered over his alleged ‘war criminal’ remark about Netaji Subhas Chandra Bose at a Siliguri event.
+## ‘Beginning of another’: How Hindustan Times reported freedom on August 15, 1947
+By the time people picked up their newspapers on August 15, the headline was no longer about a country waiting for freedom. India was independent.
 
-## Independence Day 2026: 1,057 personnel awarded Gallantry and Service medals; three posthumously
-Of the 1,057 awards, 301 awards are related to the Medal for Gallantry, 92 for President's Medal for Distinguished Service.
+## 4 die after inhaling toxic gas inside well in Bihar's Gaya
+The incident occurred at Garh Karmauni village in Dobhi police station area of the district.
 
-## ‘Some worked as gunners’: From carrying rifles to walking the ramp, surrendered Naxal women from Sukma tell their story
-Nine women from Sukma who recently surrendered participated in a fashion show held as part of a National Handloom Day event in Raipur.
+## ‘India can hit hard’: Doval recalls Op Sindoor, says our generosity, tolerance should not be seen as weakness
+Speaking in the upcoming Discovery docuseries "Declassified: Operation Sindoor", Doval said the objective of the military operation was to destroy enemy camps.
 
-## Noida teen kills father, jumps before metro train hours later: ‘Was depressed over father’s harsh behaviour’
-The Sector 49 police station received information through Dial-112 that a boy had jumped in front of metro train at the Sector 52 station.
-
-## Eggs thrown at ex-TMC MLA Nirmal Ghosh after arrest over ‘hurried cremation’ in RG Kar case
-Nirmal Ghosh was arrested over allegations that he used his influence to rush the cremation of the RG Kar rape-murder victim’s body against her family’s wishes.
-
-## Independence Day flag-hoisting guide: Dos and don’ts every Indian should know ahead of August 15
-People celebrate the Independence Day through various traditions, most notably by hoisting the national flag, and unfurling the Tricolour.
+## Class 8 boy dragged 25 metres under car in Kanpur, driver flees after leaving him roadside
+The incident took place around 6 pm on Wednesday near Awas Vikas-1, when the boy, was riding his bicycle close to his home.
 
 ## Reduce your exposure to US assets before they lose value, Pictet warns investors
 Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
@@ -237,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Pakistan PM’s ‘red line’ warning to India over water treaty
+Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.
+
+## Russia stance will be defended in court, pledges World Athletics chief Coe
+Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.
+
+## US missionary kidnapped in Niger released after nine months in captivity
+Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.
+
 ## Saudi Arabia announces start of Red Sea defence alliance: Will it work?
 Thirteen countries have become members of the Saudi-led maritime alliance.
 
@@ -251,15 +254,6 @@ Jessica Bang won her first professional event this year but died after collapse 
 
 ## Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’
 The Israeli PM's remark comes amid signs of growing tension between Israel and the UK's Labour government.
-
-## Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?
-US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.
-
-## Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link
-Manchester City's Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.
-
-## US threatens ‘indefinite’ blockade against Iran: How long can it last?
-US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
