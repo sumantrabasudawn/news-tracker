@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Burnham warns of ‘tinderbox’ Britain after week of intense heat
+PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields
+
+## Nvidia discloses $21bn stake in SpaceX
+Filing comes after Elon Musk announced exclusive arrangement to kit out its data centres
+
+## Trump family’s crypto venture granted conditional approval for bank licence
+Move by regulator to comes as president’s business interests in sector become a political flashpoint
+
 ## Jane Street suffers $15bn hit after meltdown at Situational Awareness
 Secretive Wall Street trading firm wrongfooted by July AI rout
 
@@ -12,17 +21,11 @@ University’s youngest-ever Black professor had been under scrutiny following p
 ## US accuses more than 40 countries of helping China avoid Trump’s tariffs
 White House says Canada, Japan, EU and others enabling evasion of levies for $60bn in trade via ‘transshipment scam’
 
-## Burnham warns of ‘tinderbox’ Britain after week of intense heat
-PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields
-
 ## Americans sour on Trump’s economy as affordability strains intensify
 Consumer sentiment and retail sales fall as the war in Iran worsens cost of living pressures
 
 ## Second UK train derails in less than 24 hours
 Incident in Essex follows derailment of train in East Sussex on Thursday
-
-## Luigi Mangione admits shooting UnitedHealthcare CEO
-Ivy League graduate pleads guilty in federal case that has become lightning rod for debate about US healthcare system
 
 ## Stockpickers: Persimmon, Savills, Caledonia Mining
 Our experts discuss which companies to buy, sell or hold this week
@@ -32,12 +35,6 @@ Group warns of disappointing full-year profit growth
 
 ## Biotech VCs have become like bankers and we might all pay the price
 A shift in business models conflicts with the long-term nature of developing new drugs and treatment
-
-## How a bad trade pushed a US mortgage giant into a $2bn lifeline
-Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-minute deal with Oaktree
-
-## Bezos-backed group strikes deal for stake in Liverpool FC
-Consortium led by son-in-law of steel billionaire Lakshmi Mittal invests at valuation of more than $7bn
 
 ## Count of Indian students in US sees sustained drop; at 29-month low
 Decline in count due to visa delays and immigration policy changes
@@ -247,7 +244,7 @@ Members of the US Congress have called for a probe into conditions amid reports 
 Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.
 
 ## Former Cambridge professor accused of plagiarism found dead
-Jason Arday's body was found in south London just a week after he resigned from the University of Cambridge.
+Police are treating sociology professor Jason Arday's death as unexpected but not suspicious.
 
 ## Son of Mexico’s former president AMLO alleges US revoked his visa
 The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.
