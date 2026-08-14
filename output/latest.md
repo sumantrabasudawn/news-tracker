@@ -1,10 +1,19 @@
 # AION Intelligence
 
-## Second UK train derails in less than 24 hours
-Incident in Essex follows derailment of train in East Sussex on Thursday
+## US accuses more than 40 countries of helping China avoid Trump’s tariffs
+White House says Canada, Japan, EU and others enabling evasion of levies for $60bn in trade via ‘transshipment scam’
 
 ## Burnham warns of ‘tinderbox’ Britain after week of intense heat
 PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields
+
+## Americans sour on Trump’s economy as affordability strains intensify
+Consumer sentiment and retail sales fall as the war in Iran worsens cost of living pressures
+
+## Sheinbaum slams US for revoking visa of former Mexican president’s son
+Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’
+
+## Second UK train derails in less than 24 hours
+Incident in Essex follows derailment of train in East Sussex on Thursday
 
 ## Luigi Mangione admits shooting UnitedHealthcare CEO
 Ivy League graduate pleads guilty in federal case that has become lightning rod for debate about US healthcare system
@@ -15,20 +24,17 @@ A shift in business models conflicts with the long-term nature of developing new
 ## How a bad trade pushed a US mortgage giant into a $2bn lifeline
 Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-minute deal with Oaktree
 
-## Bezos-backed group strikes deal for stake in Liverpool FC
-Consortium led by son-in-law of steel billionaire Lakshmi Mittal invests at valuation of more than $7bn
-
-## Activists are giving British M&A targets a helpful shove
-Investors can unlock value by pushing companies to spin off businesses or sell to rivals
-
-## Farage wins… and donation probe resumes
-Plus, is Burnham mulling an early election?
-
 ## Stockpickers: Persimmon, Savills, Caledonia Mining
 Our experts discuss which companies to buy, sell or hold this week
 
 ## Directors’ Deals: British American Tobacco’s newest director buys the dip
 Group warns of disappointing full-year profit growth
+
+## Bezos-backed group strikes deal for stake in Liverpool FC
+Consortium led by son-in-law of steel billionaire Lakshmi Mittal invests at valuation of more than $7bn
+
+## Activists are giving British M&A targets a helpful shove
+Investors can unlock value by pushing companies to spin off businesses or sell to rivals
 
 ## Count of Indian students in US sees sustained drop; at 29-month low
 Decline in count due to visa delays and immigration policy changes
@@ -78,6 +84,15 @@ Fresh coriander, which neighbourhood vegetable vendors routinely tucked into sho
 ## Gold price prediction: Will gold price rally now face profit booking? Check August 14, 2026 outlook
 MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.
 
+## Catholic body urges govt to withdraw FCRA bill
+Catholic body urges govt to withdraw FCRA bill
+
+## NHRC notice to states, UTs, FSSAI over concerns raised about sale, consumption of 'analogue paneer'
+NHRC notice to states, UTs, FSSAI over concerns raised about sale, consumption of 'analogue paneer'
+
+## Human-elephant conflict logs more deaths in southern India
+Human-elephant conflict in South India rises, with 130 human deaths in 2023-24 due to habitat loss. A new report calls for regional management strategies.
+
 ## Public exams gateways to opportunities, govt taking steps to curb unfair means: Murmu on I-Day eve
 President Murmu said the government is taking steps to curb exam cheating while highlighting youth opportunities, Operation Sindoor and the Indus Waters Treaty.
 
@@ -92,15 +107,6 @@ The notice by BJP's Thakur alleged alleged that Rahul Gandhi levelled "grave all
 
 ## Maharashtra FDA suspends licences of multiple facilities linked to Blinkit, Zepto, Instamart over food safety violations
 The regulator directed food business operators selling and delivering food through online platforms to strictly comply with prescribed standards.
-
-## UGC-NET 2026 provisional answer key likely on August 16: NTA
-The NTA said the provisional answer keys for CSIR-NET and ICAR AIEEA (PG) and AICE (PhD) 2026 will also be published on the same day on its website.
-
-## India responds to White House report on Chinese goods transshipment
-India says it is studying a White House report that flags the country among major hubs for transshipment of Chinese goods to evade US tariffs.
-
-## Karnataka BJP MLA’s daughter booked for slapping woman police sub-inspector after spat over skipping temple queue
-The FIR was registered at the Kyathanahalli police station on a complaint by PSI Savitha, who was deployed at the temple during the Bhima Amavasya rush.
 
 ## Reduce your exposure to US assets before they lose value, Pictet warns investors
 Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
@@ -126,6 +132,18 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 ## China’s Central Asia push
 –
 
+## The End of American Innocence
+Fifty years after “The Quiet American,” has the country outlived Graham Greene’s prophecy?
+
+## AI Is Changing Military Morality
+Just war theory was developed over centuries—and now must adapt to a new era of technology.
+
+## What the Cockroach Movement Says About the Indian Economy
+Young college graduates are struggling to find jobs.
+
+## How Ronald Reagan Sold Calm to Americans
+Emotional reassurance came to be mistaken for competent governance.
+
 ## Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era
 Under President Xi Jinping, politics and security, not real change, come first.
 
@@ -137,18 +155,6 @@ Monday’s deadly earthquake presents the country’s new president with his fir
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
-
-## Israel Clashes With Settlers in the West Bank
-U.S. Ambassador Mike Huckabee issued a rare condemnation of settler “terrorists.”
-
-## Mojtaba Khamenei Is Planning for a Long War
-The supreme leader’s new government appointments reveal the outlines of his military strategy.
-
-## Why Hackers Keep Going After U.S. Water Supplies
-A spate of new attacks believed to be linked to Iran has highlighted the water sector’s vulnerability.
-
-## Why Israel Won’t Make Qatar an Enemy
-Doha’s ties to Gaza and Hamas make it deeply controversial but also indispensable.
 
 ## Singapore’s Israel Tightrope
 The city-state’s ties with Israel have been built on a history that very few other Asian countries can boast. But Singapore can still say "no."
@@ -222,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump asks US Supreme Court to allow $400m ballroom project to proceed
+Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.
+
+## Woman charged over vandalism of World War II Memorial in Washington, DC
+The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.
+
+## Art offers young Gaza survivors solace and escape from war’s devastation
+Young survivors of Israel's genocidal war in Gaza find safe spaces to process trauma and rediscover joy.
+
+## Italian police recover stolen paintings worth over $10m
+Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.
+
+## CEO pay skyrockets in 2025 amid growing income inequality in the US
+Elon Musk earned 2.5 million times more than a Tesla worker's median pay in 2025, despite revenue and sales declines.
+
+## Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing
+Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.
+
+## British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19
+Organisers said on social media that Tarling died following a 'serious accident' on the stage between Melgaco and Fafe.
+
 ## Liverpool to sell minority stake to consortium including Jeff Bezos
 The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.
-
-## Analysis: Israel’s government can’t disown West Bank settler violence
-Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.
-
-## What’s next for far-right Reform UK after Farage’s by-election win?
-What’s next for far-right Reform UK after Farage’s by-election win?
-
-## Philippines drug war victims seek justice through truth commission
-Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.
-
-## Top French court upholds assisted dying law, rejects teen social media ban
-The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
-
-## Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
-Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.
-
-## Zambia suspends vote counting in election citing violence
-Zambia's electoral commission on Friday suspended vote counting nationwide.
-
-## Qatar challenges AFC over open letter attacking FIFA President Infantino
-Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
