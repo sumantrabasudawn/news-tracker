@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Indonesia’s Prabowo retreats on commodities reform amid market pressure
+State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
+
+## A-level results are in. But are next-step university digs out?
+High costs mean increasing numbers of those going from school into higher education are opting to live with their parents
+
+## Everyone but me is getting excited about European equities
+It doesn’t matter which index you buy, and that tells you everything you need to know
+
 ## Swiss economy grows at fastest rate since 2021
 Chemicals and pharma sectors help GDP expand 1.5% in the second quarter
 
@@ -15,14 +24,8 @@ Also in today’s newsletter: Anthropic and ChatGPT launch cheap models, and Ven
 ## Why nationalise the railways if nothing really changes?
 Since operator C2C was brought into public hands last year, outcomes have yet to see much improvement
 
-## Investigation into Farage resumes after he wins Clacton by-election
-Reform UK leader increases number of votes after mainstream parties shunned poll as stunt
-
-## Indonesia’s Prabowo retreats on commodities reform amid market pressure
-State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
-
-## More blazes and fewer firefighters: UK brigades under pressure
-Drop in crew numbers in England leaves services stretched as callouts rise
+## All aboard the wind power rollercoaster
+Vestas share price surge highlights wild swings in investor sentiment
 
 ## Probe into UK train derailment after 20 people injured
 Services disrupted after three carriages on London to Eastbourne route flipped on to their side
@@ -36,32 +39,32 @@ Ecommerce platform suffered first sales decline in more than a decade after end 
 ## The trillion-dollar IPO vibes continue
 Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October
 
-## Mortgage costs pushed higher by US stand-off with Iran
-Interest rates on home loans have jumped in America and several big European economies in recent weeks
-
-## HAL ropes in BEML, Adani for light combat helicopter fuselage structure manufacturing
-Under the agreements, BEML and Adani Defence will manufacture 48 and 42 fuselage structures, respectively, the HAL announced on Friday as it has to meet contractual obligation of supplying 156 Prachand LCH
-
-## Sensex today | Stock Market Highlights: Sensex shed 70.71 pts or 0.09% to end at 78,009.25 after hitting a low of 77,684.37; Nifty 50 dipped 29.85 pts or 0.12% to 24,366
-Sensex, Nifty, Share Prices Highlights: Easing expectations of a September US Fed rate hike and softer crude prices offered limited support, restricting the market’s decline.
-
 ## Q1 Results Today Live: BDL, Ashok Leyland, 3M India Q1 PAT rise y-o-y, Electrotherm, NATCO Pharma, Alkem Lab PAT decline, NMDC, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Borosil to announce Q1 results
 Q1 Results Today, 14th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
 
-## Tricolour coral display beneath the sea sparks curiosity
-Captured by CMFRI researchers near Minicoy, the unusual coral formation highlights why some colonies withstand rising sea temperatures while others bleach.
+## Awfis posts 27% revenue jump in Q1 FY27, PAT more than doubles
+The company’s core co-working business contributed ₹352 crore to revenue
 
-## Shiprocket, Behari Lal Engineering IPOs see over 80 times subscription as issues close today
-Shiprocket’s IPO was subscribed 80.39 times, while Behari Lal Engineering’s issue was subscribed 85.07 times.
+## Prime Fresh net up 51% on rise in demand
+Revenue was up 17% to ₹62 crore (₹53 crore)
 
-## Rupee logs weekly decline, with RBI intervention curbing losses
-Data on ‌Friday showed that India’s wholesale price inflation rose ​9.78% year-on-year in July, easing marginally from June due to lower energy inflation
+## Titan World eyes ₹250 crore retail business from Kerala in three years
+On changing consumer behaviour, Alick said around 60 per cent of watch purchases were currently made for gifting, including weddings and other occasions.
 
-## Campus placements rebound in 2026 as IT firms step up fresher hiring
-Better visibility among major service firms alongside increasing demand from start-ups and core sectors is contributing to a rebound in fresher hiring this year, say experts
+## Alluri Sitarama Raju International Airport at Bhogapuram to begin operations from Aug 17
+The transition to the New Greenfield Airport marks a significant milestone for the region
 
-## Seven states plan 1,380 new GCCs, to help create 12 lakh jobs by 2031: CBRE
-CBRE mentioned that Karnataka is targeting 500 GCCs that will create 3.5 lakh jobs. Maharashtra is aiming 200 GCCs with scope of 4 lakh new jobs
+## Technocraft Ventures ends debut day with 47% gains; LEAP India settles 9% below listing price
+Technocraft Ventures lists at 34% premium, LEAP India debuts with little over 4% premium
+
+## Natco Pharma’s Q1 net down 57% at ₹206 crore
+Revenue stood at ₹794 crore marking a decline of 43% in the quarter under review as against ₹1,390 crore for the corresponding quarter last year.
+
+## Amara Raja sees BESS as near-term revenue driver as cell business remains a year away
+₹250-300 crore storage plant could scale rapidly, but first 2 GWh NMC cell line has no disclosed order book yet
+
+## 800 kmph in 5.3 seconds: China train sets third record in six months
+China's experimental maglev train achieved 800 kmph in just 5.3 seconds. This remarkable acceleration sets a new world record for short-distance travel. The technology is not intended for passenger transport due to extreme acceleration levels. Instead, it may find future uses in rocketry and militar
 
 ## Markets end flat; Sensex ends falls 71 points, Nifty slips 30 points
 
@@ -84,10 +87,19 @@ Stock market recommendations: Amara Raja Energy & Mobility, Indian Bank, and Kfi
 ## Oil prices today: Crude edges higher as US-Iran tensions revive supply concerns
 Oil prices saw a slight increase on Friday due to renewed supply concerns. The United States threatened an indefinite naval blockade of Iran, escalating economic pressure. This action heightened worries about potential disruptions to crude oil flows through the Strait of Hormuz. However, weaker dema
 
-## Exports grow at fastest pace in four years
+## Independence Day flag-hoisting guide: Dos and don’ts every Indian should know ahead of August 15
+People celebrate the Independence Day through various traditions, most notably by hoisting the national flag, and unfurling the Tricolour.
 
+## Chhattisgarh IPS officer denies ₹1 cr bribery charge in cyber-fraud case
+Rahul Bansal said a complaint is currently under consideration by a court, and he has complete faith in the law
 
-## Rajasthan: Missing couple found dead, bodies stuffed inside trunk at Udaipur home
+## Red Fort security tightened ahead of Independence Day with 1,000+ AI-enabled CCTV cameras
+Ahead of Independence Day, the Red Fort's security is fortified to ensure smooth and secure celebrations.
+
+## Vipul Goyal to Samay's friend Balraj: Who are the other 4 who got Supreme Court relief over disabled persons remarks?
+The court noted their efforts and said they had taken steps in a positive direction following the controversy surrounding the show.
+
+## Missing Rajasthan couple found dead, bodies stuffed inside trunk at Udaipur home
 The bodies of 65-year-old Lahri Lal Paliwal and his wife Radha Devi, 62, were found in a trunk at their Rajasthan home after they went missing.
 
 ## Woman damages airport property worth ₹49,000 after IndiGo flight cancellation in Bhubaneswar, FIR lodged
@@ -99,17 +111,8 @@ The CCTV footage showed the suspect arriving outside the Varanasi dealership aro
 ## ‘Genuine efforts’: Supreme Court drops criminal cases against Samay Raina, 4 comedians
 The court kept the broader issue arising from the case alive, saying it would issue directions on ensuring greater sensitivity and safeguards in online content
 
-## Telecasting Gurbani for genuine religious purpose not copyright infringement: Delhi HC
-The court was dealing with copyright infringement suit filed by Shiromani Gurdwara Parbandhak Committee to restrain channel GTC, from broadcasting/rebroadcasting Gurbani from Golden Temple
-
-## 'Child surviving on streets can't…': Delhi HC upholds conviction of man who sodomised 11-yr-old
-The judge modified the trial court's 20-year jail term to 10 years on the grounds that at the time of the offence, the corresponding sentence was 10 years.
-
-## Independence Day 2026 PM Modi speech: Where to watch live, timing and key details
-Want to witness the ceremony but can't make it to the Red Fort on the 15th of August? Here's where you can catch it live on TV and online for free.
-
-## Bullet hits SUV parked outside ex-Akal Takht Jathedar Giani Raghbir Singh's Amritsar home, probe on
-Giani Raghbir Singh said the incident appeared to have occurred late at night on August 12.
+## Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence
+Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races to counter Western advances in AI defence. Beijing-based Zhipu said GLM-5.3 achieved a success rate 
 
 ## Gene-editing therapies not yet ready for human trials, Stanford expert says
 Gene-editing therapies for the nervous system may need at least another round of studies before they are safe enough to enter human trials, according to one of the world’s most influential figures in the commercialisation of brain science. “The techniques are reasonably well established for animal e
@@ -130,10 +133,7 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 –
 
 ## Shein is eyeing a valuation rivalling H&M. Will the market buy it?
-Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H&M, citing its business model and global customer base as major competitive advantages, according to internal documents provided to investors and seen by the South China Morning Pos
-
-## Hong Kong to list first Shanghai free-trade zone bond to defend yuan hub status
-Hong Kong is set to welcome its first Shanghai free-trade zone offshore bond, using the landmark listing to defend its status as the world’s pre-eminent offshore yuan hub, amid mounting competition from its mainland rival. Hong Kong Exchanges and Clearing (HKEX) announced on Thursday that Shanghai E
+Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H&M, citing its business model and global customer base as major competitive advantages, according to internal documents provided to the South China Morning Post by investors. The do
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -231,6 +231,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?
+US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.
+
+## Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link
+Manchester City's Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.
+
+## US threatens ‘indefinite’ blockade against Iran: How long can it last?
+US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.
+
+## Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance
+Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.
+
+## Record-breaking rain in Japan leaves several dead, thousands stranded
+At least four people were killed, and one remains missing after record-breaking rain triggered flooding in Japan.
+
 ## Scrutiny over Farage’s finances has ‘hurt Reform UK support’
 Scrutiny over Farage’s finances has ‘hurt Reform UK support’
 
@@ -239,21 +254,6 @@ Water and debris burst into a state-run hydropower tunnel in Uttarakhand followi
 
 ## New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
 Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.
-
-## Russia says hit Ukrainian railway and port facilities in new strikes
-Kyiv targets Baltic oil hub and warehouse near Moscow with drones.
-
-## Swiatek defeats Rybakina to claim Canadian Open title​
-Six-time Grand Slam champion Iga Swiatek defeats Elena Rybakina in Toronto to claim the WTA Canadian Open title.
-
-## UK far-right leader Farage re-elected in boycotted by-election
-Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances.
-
-## La Liga: Barcelona key talking points heading into new 2026-27 season
-Barcelona will aim to become the first club to three-peat in the Spain Primera Division since 2008-11 Pep Guardiola era.
-
-## A year after student protests that shook Valjevo: Serbia at a crossroads
-Protests that erupted after railway station canopy collapsed, killing 16, have grown into a broad social movement.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
