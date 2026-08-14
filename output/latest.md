@@ -1,10 +1,19 @@
 # AION Intelligence
 
+## Why nationalise the railways if nothing really changes?
+Since operator C2C was brought into public hands last year, outcomes have yet to see much improvement
+
+## Swiss economy grows at fastest rate since 2021 despite trade turmoil
+Chemicals and pharma sectors help boost GDP by 1.5% in the second quarter
+
+## Investigation into Farage resumes after he wins Clacton by-election
+Reform UK leader increases number of votes after mainstream parties shunned poll as stunt
+
+## Indonesia’s Prabowo retreats on commodities reform amid market pressure
+State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
+
 ## UK fire services stretched by surge in wildfires
 Drop in firefighter numbers in England leaves brigades stretched as incident callouts rise
-
-## Investigation into Farage to resume after he wins Clacton by-election
-Reform UK leader increases number of votes after mainstream parties shunned poll as stunt
 
 ## Karthik Sankaran on the case for yen intervention
 ‘I’ve been calling for an intervention at least since dollar-yen was at 150’
@@ -15,15 +24,6 @@ Ecommerce platform suffered first sales decline in more than a decade after end 
 ## FirstFT: Cheaper Chinese models push OpenAI and Anthropic into price war
 Also in today’s newsletter: UK aid cuts and effective altruism revival
 
-## Mortgage costs pushed higher by US stand-off with Iran
-Interest rates on home loans have jumped in America and several big European economies in recent weeks
-
-## JPMorgan debanked Polymarket over regulatory concerns
-Largest US bank has continued to cultivate ties with prediction platform as it seeks $20bn valuation
-
-## Venezuela and its opposition want gold back from Bank of England vaults
-After US-backed negotiations, the two sides said they would push to access $4bn in bullion held in the UK
-
 ## Probe into UK train derailment after 20 people injured
 Services disrupted after three carriages on London to Eastbourne route flipped on to their side
 
@@ -33,32 +33,32 @@ Finance chief says times at Tata-owned carmaker ‘are simultaneously both diffi
 ## The trillion-dollar IPO vibes continue
 Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October
 
-## Owner of collapsed lender MFS to pay £3mn to his lawyers at Mishcon de Reya
-Administrators agree to Paresh Raja using funds from frozen account as he defends claim he misappropriated £1.3bn
+## Mortgage costs pushed higher by US stand-off with Iran
+Interest rates on home loans have jumped in America and several big European economies in recent weeks
 
-## RBI rate framework may limit HFC pricing flexibility, speed up bank rate transmission to NBFCs: Kotak
-Kotak said the proposed framework could affect HFCs that currently use an internal prime lending rate (PLR) and offer home loans at a discount to the benchmark
+## Q1 Results Today Live: BDL, Ashok Leyland, 3M India Q1 PAT rise y-o-y, NATCO Pharma, Alkem Lab PAT decline, NMDC, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Borosil to announce Q1 results
+Q1 Results Today, 14th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+
+## TMPV shares fall 6% as JLR margin concerns weigh, brokerages divided
+The automaker reported an 80.3% year-on-year fall in consolidated net profit in the June quarter to ₹775 crore
+
+## 76% of companies classified as closed were defunct, Maharashtra No. 1 in active firms: Fadnavis
+Maharashtra continues to have the highest number of active companies in the country, Fadnavis said
 
 ## Sensex today | Stock Market Live: Sensex below 77,900, Nifty near 24,350 as West Asia tensions persist
 Sensex, Nifty, Share Prices LIVE: Indian equities remained subdued in noon trade on Friday, with persistent West Asia tensions and continued foreign selling weighing on sentiment. Easing expectations of a September US Fed rate hike and softer crude prices offered limited support, restricting the mar
 
-## Q1 Results Today Live: Ashok Leyland, 3M India Q1 PAT up y-o-y, NMDC, Alkem Lab, BDL, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Natco Pharma, Borosil to announce Q1 results
-Q1 Results Today, 14th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
+## Meet, Connect & Celebrate: MICE Experiences in Paradise at Phuket Marriott Resort & Spa, Merlin Beach
+Meet, Connect & Celebrate: MICE Experiences in Paradise at Phuket Marriott Resort & Spa, Merlin Beach
 
-## 160X8.0 Series Launch 21st August -- Breakthrough GT1200 Carbon Plate Powers Xtep's 160X 8.0 Ultra
-160X8.0 Series Launch 21st August -- Breakthrough GT1200 Carbon Plate Powers Xtep's 160X 8.0 Ultra
+## Rani Mukerji awarded Honorary Doctorate by La Trobe University
+Rani Mukerji awarded Honorary Doctorate by La Trobe University
 
-## China advances global AI governance in a comprehensive manner
-China advances global AI governance in a comprehensive manner
+## Wholesale inflation moderates to 9.78% in July
+Fuel and power inflation eased sharply, but manufactured-product inflation climbed to 8.29% and core WPI hit a series high of 8.2%.
 
-## Escorts Kubota launches MU4502 and MU5002 tractors with 8-year transferable warranty
-The new models combine Japanese-engineered powertrains with features aimed at improving operating efficiency, implement compatibility and long-term ownership value.
-
-## Electronics firm Eureka Forbes investigating findings of child labour at supplier
-The National Human Rights Commission this week asked Eureka, as well as electrical equipment maker Havells and Unilever's India unit, to make checks ‌after ⁠four children were rescued from a small-scale Indian vendor
-
-## Quest Global said to pick banks for $1 billion India IPO
-The Singapore-based engineering services firm has appointed Axis Capital Ltd., Kotak Mahindra Capital Co., JM Financial Ltd., Morgan Stanley and Citigroup Inc. to advise on the share sale
+## Asian refiners buy more US crude as Hormuz remains blocked, traders say
+Shipping traffic at the ⁠Strait of Hormuz fell below the average for this month towards the end of the week due to competing ‌US and Iran claims over control of the waterway
 
 ## Your humble dhaniya no longer free! Coriander prices rise above Rs 200 kg as heavy rains disrupt supply
 Fresh coriander, which neighbourhood vegetable vendors routinely tucked into shopping bags at no extra cost, has become unexpectedly expensive after heavy rainfall disrupted supplies from major growing regions.
@@ -84,32 +84,38 @@ Oil prices saw a slight increase on Friday due to renewed supply concerns. The U
 ## Commission caps may hit low-value life covers
 
 
-## ‘Every line of decency crossed’: Huge uproar over Rahul Gandhi's hug dig at govt's foreign policy
-Himanta Biswa Sarma said Rahul's remarks were not merely politically indecent but also an attempt to sabotage India's foreign relations.
+## Iran President Masoud Pezeshkian to travel to Delhi for BRICS Summit
+The visit assumes significance as India is hosting the 18th BRICS Summit under its 2026 chairship.
 
-## Nagaland church council opposes move to make singing of 'Vande Mataram' mandatory
-Nagaland church council opposes move to make singing of 'Vande Mataram' mandatory
+## Delhi govt mulls restructuring of DSEU
+Delhi govt mulls restructuring of DSEU
 
-## Indians, Pakistanis see each other as greatest geopolitical threat: Pew survey
-Despite some positive sentiments from Indian Muslims, mutual distrust persists between the nuclear-armed neighbours eight decades post-independence.
+## SC dismisses plea against AP HC order quashing case against CM Chandrababu Naidu, minister
+SC dismisses plea against AP HC order quashing case against CM Chandrababu Naidu, minister
 
-## Cockroach Janta Party calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
-Chief Justice of India (CJI) Surya Kant said the Council had “no business” getting involved in the students’ right to protest.
+## Class 5 boy saves mid-day meal worker's finger in Dakshin Kannada school, CM Shivakumar lauds presence of mind
+Class 5 student’s quick thinking averts major accident at Dakshina Kannada school
 
-## Caste among 40 questions notified for the second phase of the Census 2027
-The Cabinet Committee on Political Affairs cleared the decision to include caste enumeration on April 30 last year
+## Attack on Sukhbir Badal: Nihangs, Shiromani Akali Dal's politics & its decade of reckoning with the Sikh Panth
+The attack on Sukhbir Badal in Nanded was the second in two years, reviving questions about the SAD's identity and legacy.
 
-## Delhi airport, high court, other sensitive locations receive bomb threat ahead of Independence Day
-Delhi High Court Bar Association (DHCBA) Joint Secretary Kunal Malhotra said the threat appeared to be fake.
+## ‘Very bright youngsters’: SC relief to Samay Raina, others over disabled persons remarks on Latent show
+The SC noted their compliance with the top court's direction to conduct awareness programmes and raise funds for persons with disabilities.
 
-## 'Recently, navy's 1st nuclear submarine…': On 2013 Independence Day, PM Manmohan's military message
-As India prepares to celebrate Independence Day, Hindustan Times revisits former Prime Minister Manmohan Singh's address from the Red Fort on August 15, 2013.
+## Mothers Against Vaping backs Maliwal's Parliament intervention on vapes, e-cigarettes
+Mothers Against Vaping backs Maliwal's Parliament intervention on vapes, e-cigarettes
 
-## Bhutanese king expresses solidarity with Assam flood victims; Himanta thanks him for support
-Bhutanese king expresses solidarity with Assam flood victims; Himanta thanks him for support
+## Palaniswami slams TN CM Vijay over office shift, says farmers’ woes being ignored
+Palaniswami slams TN CM Vijay over office shift, says farmers’ woes being ignored
+
+## Hong Kong’s Insurance Authority aims to broaden regional clientele base: reappointed CEO
+After Beijing’s plans to tighten up the taxation of overseas income sent shock waves through the city’s banks and insurers last week, Hong Kong’s insurance regulator will make broadening the sector’s clientele a priority, its reappointed chief said on Friday. “The priority of the Insurance Authority
+
+## Just like with the yen, America cannot save the AI bubble
+In a rare intervention, the US has propped up the Japanese yen. The move is seen as a bid to hold off a further rise in yields for US government bonds – amid Japan’s sell-off of US Treasuries to fund its shoring up of the yen – a rise that threatens the US artificial intelligence bubble. That the Un
 
 ## From chasing robots to chasing profits: the numbers moving markets
-While Chinese investors chased Unitree Robotics amid the frenzy for robotics stocks, the market this week also focused on the implications of July’s US inflation rate, the gold price trend and the interim results of CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billionaire 
+While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagsh
 
 ## EQT offers clients diversified wealth strategies to meet demand for new opportunities
 EQT – one of the world’s largest private markets firms – is taking steps to extend its expertise and institutional-quality access to a wider range of eligible clients. In practice, this means working with wealth industry partners to give sophisticated individual investors similar opportunities to th
@@ -121,16 +127,10 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H&M, citing its business model and global customer base as major competitive advantages, according to internal documents seen by the South China Morning Post. Shein cited analysts wh
 
 ## Hong Kong to list first Shanghai free-trade zone bond to defend yuan hub status
-Hong Kong is set to welcome its first Shanghai free-trade zone offshore bond, using the landmark listing to defend its status as the world’s pre-eminent offshore yuan hub, amid mounting competition from its mainland rival. Hong Kong Exchanges and Clearing announced on Thursday that Shanghai Electric
+Hong Kong is set to welcome its first Shanghai free-trade zone offshore bond, using the landmark listing to defend its status as the world’s pre-eminent offshore yuan hub, amid mounting competition from its mainland rival. Hong Kong Exchanges and Clearing (HKEX) announced on Thursday that Shanghai E
 
 ## Chinese central bank’s 15th five-year plan
 China’s central bank, the People’s Bank of China (PBOC), released its first stand-alone five-year plan in at least a decade on Monday, focusing on measures to build the country into a financial powerhouse. These are its key points: 1. Optimise monetary policy architecture Refine market-driven intere
-
-## Hong Kong insurers to weather Beijing’s tax shift with 8-10% premium growth: S&P
-Hong Kong’s life insurers could still see annual premium growth of 8 to 10 per cent over the next two years, despite a recent regulatory shift stemming from Beijing’s overseas taxation rules, according to S&P Global Ratings. Resilient demand for overseas diversification should prevent a lasting down
-
-## Insurance Will Propel Hong Kong’s AI Ambition
-[The content of this article has been produced by our advertising partner.] At the SCMP China Conference on July 7, Chief Executive John Lee identified AI as central to Hong Kong’s push to become a global international innovation and technology centre. In his keynote speech, Lee spoke about the city
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What is a ‘ceasefire’ supposed to achieve?
+Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.
+
+## Tanzid makes history as Bangladesh dominate first Australia Test
+Tanzid Hasan hits first Bangladesh ton in Australia as tourists close Day Two of first Test on 351-6, leading by 153.
+
+## US accuses dozens of countries of helping China avoid Trump’s tariffs
+White House report claims tens of billions of dollars in annual revenue lost to transshipments.
+
+## South Korea players want K League season change due to ‘worsening climate’
+South Korea football players push for a K League season shift as 'punishing heat' hitting summer matches.
+
+## Wildfires force thousands to flee as blazes spread across Europe
+At least a dozen people have reportedly been hospitalised in Croatia after blazes tore into the tourist town of Omis.
+
+## Engine debris shattered Ryanair window, pulling passenger out, NTSB says
+Flight crews had recorded four suspected bird strikes involving the same engine during the previous year.
+
+## The Gambian women turning grief into song
+Known as the Kanyeleng, they have transformed their experience of child loss through a tradition of music.
+
 ## Stolen Matisse art found in Brazil
 Stolen Matisse art found in Brazil
-
-## South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast
-South Africa and Ghana claim Africa's two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.
-
-## Prichard Colon dies from boxing injury that resulted in 221-day coma
-Prichard Colon suffered neurological damage that required emergency surgery following a boxing bout in 2015.
-
-## Nigel Farage defeats Count Binface to reclaim UK parliamentary seat
-The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface.
-
-## Flock adds safeguards to licence-plate readers after wave of stalking cases
-US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.
-
-## North Korea fumes over upcoming US-South Korea military drills
-Pyongyang has accused the US of pushing the world 'to the brink of nuclear war'.
-
-## Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
-Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.
-
-## Record rainfall leaves four dead, thousands stranded in Japan
-Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
