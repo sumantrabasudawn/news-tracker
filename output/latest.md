@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Yemen’s government says Houthi attack on al-Makha kills at least four
+Hostilities are rising between Iran-backed Houthis and Yemen's internationally recognised government.
+
 ## Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
 Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
 
@@ -248,9 +251,6 @@ Police are treating sociology professor Jason Arday's death as unexpected but no
 
 ## Son of Mexico’s former president AMLO alleges US revoked his visa
 The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.
-
-## New aerial video reveals huge scale of oil spill off Oman
-A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
