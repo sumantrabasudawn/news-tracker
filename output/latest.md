@@ -1,7 +1,16 @@
 # AION Intelligence
 
-## Luigi Mangione pleads guilty over death of UnitedHealth chief executive
-Ivy League graduate reverses stance in case that has become lightning rod for debate about US healthcare system
+## Luigi Mangione admits shooting UnitedHealthcare CEO
+Ivy League graduate pleads guilty in federal case that has become lightning rod for debate about US healthcare system
+
+## Biotech VCs have become like bankers and we might all pay the price
+A shift in business models conflicts with the long-term nature of developing new drugs and treatment
+
+## How a bad trade pushed a US mortgage giant into a $2bn lifeline
+Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-minute deal with Oaktree
+
+## Bezos-backed group strikes deal for stake in Liverpool FC
+Consortium led by son-in-law of steel billionaire Lakshmi Mittal invests at valuation of more than $7bn
 
 ## Second UK train derails in under 24 hours
 Incident at Wickford in Essex follows derailment of train in East Sussex on Thursday
@@ -15,14 +24,8 @@ Plus, is Burnham mulling an early election?
 ## Top French court blocks social media ban for children
 Constitutional Council says law is a ‘disproportionate infringement on freedom of expression’
 
-## Warsh and wait
-The tight-lipped Fed chair appears happy to let the market and fellow policymakers take the lead
-
 ## Investors pile back into US stocks as bullishness returns to Wall Street
 Stellar earnings season and falling inflation fuel rebound from July’s chip rout
-
-## Lebanon set for mass prisoner release after controversial amnesty
-Move to free thousands from overcrowded jails comes after sectarian squabbling between Sunni and Shia factions
 
 ## Reader callout: Do you earn more than your siblings?
 Managing income differences within a family can be tricky
@@ -33,11 +36,8 @@ UK watchdog imposes £489,000 penalty on Paul Taylor over information provided i
 ## Bird remains found in engine of Ryanair window blowout plane
 US NTSB discovers bird remains in several parts of the engine that failed
 
-## Indonesia’s Prabowo retreats on commodities reform amid market pressure
-State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
-
-## All aboard the wind power rollercoaster
-Vestas share price surge highlights wild swings in investor sentiment
+## Count of Indian students in US sees sustained drop; at 29-month low
+Decline in count due to visa delays and immigration policy changes
 
 ## Ashok Leyland steps up ₹2,000 crore cost-cutting drive amid commodity pressures
 On a standalone basis, the Chennai-based auto major reported its highest-ever net profit of ₹609 crore in Q1 FY27 as against ₹594 crore in the same quarter previous year
@@ -57,11 +57,8 @@ The decision will come into effect from the date of notification of the amendmen
 ## ‘Gold can become a key pillar of India’s growth story’
 After an exceptional rally for the last two years and early 2026, gold prices moderated in Q2, though they remained elevated by 59% year-on-year
 
-## Q1 Results Today Highlights: BDL, Ashok Leyland, 3M India Q1 PAT rise y-o-y, Electrotherm, NATCO Pharma, Alkem Lab PAT decline, NMDC, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Borosil to announce Q1 results
-Q1 Results Today, 14th August 2026 Highlights: Follow Q1FY27 highlights from businessline
-
-## Fractal Analytics beta launches India’s first healthcare AI model under India AI Mission
-The pilot in partnership with the Brihanmumbai Municipal Corporation (BMC) will provide a Health AI Chatbot on WhatsApp
+## The Great Transshipment Scam: US report names India in alleged China tariff-evasion network
+MEA says India was studying the White House’s report and violations, if any, will be dealt with under law
 
 ## India's big chip ambition: Can it become the world's next semiconductor hub?
 Semiconductors sit underneath almost everything today: electronics, EVs, telecom, AI, data centres, defence, manufacturing. So having a self-reliant semiconductor ecosystem is an absolute necessity in the current globally uncertain economic and geopolitical environment.
@@ -87,6 +84,15 @@ Fresh coriander, which neighbourhood vegetable vendors routinely tucked into sho
 ## Gold price prediction: Will gold price rally now face profit booking? Check August 14, 2026 outlook
 MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.
 
+## India responds to White House report on Chinese goods transshipment
+India says it is studying a White House report that flags the country among major hubs for transshipment of Chinese goods to evade US tariffs.
+
+## Karnataka BJP MLA’s daughter booked for slapping woman police sub-inspector after spat over skipping temple queue
+According to the complaint, Aishwarya allegedly sought permission to enter the sanctum directly without standing in the queue.
+
+## Uttarakhand: 3 tourists killed, 19 injured as tempo traveller falls into Nainital gorge
+Three tourists were killed and 19 injured, including a 10-month-old infant, after a Tempo Traveller carrying 22 people plunged into a gorge in Nainital.
+
 ## India hits back at Norway FM’s Kashmir remarks during Pakistan visit
 India says Jammu, Kashmir and Ladakh are integral parts of the country, while urging the world to focus on Pakistan-occupied Kashmir and cross-border terrorism.
 
@@ -101,15 +107,6 @@ While music entered her life without warning, Uthup was thrown out of her class 
 
 ## Nitin Thakker: ‘Political leaders were far more approachable, had clean image’
 India@79: Donning the black gown since 1968, Thakker has been on the electric tram that ceased operations in '64 and the underground Metro Line 3 opened in 2025
-
-## TV channels can now run more than 12 minutes of ads under new rules
-The advertisement limit was introduced in 2006, when India's television market was much smaller and largely dependent on analogue cable networks.
-
-## Lt Gen Arvind Mahajan (Retd): ‘We were hailed as the generation of New India’
-Serving during the Kargil War, he says, was among the most defining experiences of his military career.
-
-## Indra Mohan Pandey: ‘Panditji just passed by us... I could see him clearly’
-India@79: Pandey has watched India move from radio and trunk calls to smartphones and from scarcity and protectionism to liberalisation and globalisation
 
 ## Reduce your exposure to US assets before they lose value, Pictet warns investors
 Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
@@ -135,6 +132,9 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 ## China’s Central Asia push
 –
 
+## Yes, the Iran War Really Is Similar to Vietnam
+Trump’s war is “The Best and the Brightest”—but without the best and the brightest.
+
 ## Colombia’s Week of Rupture
 Monday’s deadly earthquake presents the country’s new president with his first big test.
 
@@ -155,9 +155,6 @@ Doha’s ties to Gaza and Hamas make it deeply controversial but also indispensa
 
 ## Drone Warfare Comes to Latin America
 Battle-tested tech from Ukraine has reached the region’s armed groups—and governments are struggling to catch up.
-
-## What Does the Mecca Pact Deliver Pakistan?
-The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
 
 ## Former Myanmar Ambassador to UK Goes on Trial For ‘Trespassing’ in Diplomatic Residence
 Kyaw Zwar Minn argues that the military government formed after the 2021 coup was illegitimate and had no authority to order him to vacate Myanmar House.
@@ -231,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Analysis: Israel’s government can’t disown West Bank settler violence
+Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.
+
+## What’s next for far-right Reform UK after Farage’s by-election win?
+What’s next for far-right Reform UK after Farage’s by-election win?
+
 ## Philippines drug war victims seek justice through truth commission
 Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.
 
@@ -248,12 +251,6 @@ Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultati
 
 ## ‘The party of the Cubans’: How Republicans courted a key South Florida vote
 Polls suggest Cuban American voters in Florida remain largely Republican, despite frustration over immigration.
-
-## Ahmed al-Sharaa: A New Vision for Syria
-An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.
-
-## Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan
-Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
