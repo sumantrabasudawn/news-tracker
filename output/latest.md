@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Daniel Kinahan, Ireland’s most wanted man, faces his day in court
+Crime boss suspect tried to mix legitimate business with allegedly running a murderous empire
+
+## Lebanon set for mass prisoner release after controversial amnesty
+Move to free thousands from overcrowded jails comes after sectarian squabbling between Sunni and Shia factions
+
+## Safety inspection of track carried out day before train crash in southern England
+Checks that disrupt services take place only when there is reason to believe a fault might present a risk
+
+## US nuclear negotiator Ernest Moniz: ‘Iran has the home-court advantage’
+The architect of the 2015 deal with Tehran on how to prevent a new Middle East arms race
+
+## Bird remains found in engine of Ryanair window blowout plane
+US NTSB discovers bird remains in several parts of the engine that failed
+
 ## Indonesia’s Prabowo retreats on commodities reform amid market pressure
 State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil
 
@@ -9,23 +24,14 @@ High costs mean increasing numbers of those going from school into higher educat
 ## Everyone but me is getting excited about European equities
 It doesn’t matter which index you buy, and that tells you everything you need to know
 
-## Swiss economy grows at fastest rate since 2021
-Chemicals and pharma sectors help GDP expand 1.5% in the second quarter
-
-## Israel moves to give police powers in occupied West Bank
-Far-right government advances its push towards annexing the Palestinian territory
-
-## Farage’s gamble pays off — but at what cost?
-Probe into party leader’s finances resumes with Labour government now leading in the polls
+## All aboard the wind power rollercoaster
+Vestas share price surge highlights wild swings in investor sentiment
 
 ## FirstFT: Iran war pushes up mortgage costs for borrowers
 Also in today’s newsletter: Anthropic and ChatGPT launch cheap models, and Venezuela requests return of 31 tonnes of gold
 
 ## Why nationalise the railways if nothing really changes?
 Since operator C2C was brought into public hands last year, outcomes have yet to see much improvement
-
-## All aboard the wind power rollercoaster
-Vestas share price surge highlights wild swings in investor sentiment
 
 ## Probe into UK train derailment after 20 people injured
 Services disrupted after three carriages on London to Eastbourne route flipped on to their side
@@ -39,29 +45,32 @@ Ecommerce platform suffered first sales decline in more than a decade after end 
 ## The trillion-dollar IPO vibes continue
 Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October
 
-## Q1 Results Today Live: BDL, Ashok Leyland, 3M India Q1 PAT rise y-o-y, Electrotherm, NATCO Pharma, Alkem Lab PAT decline, NMDC, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Borosil to announce Q1 results
-Q1 Results Today, 14th August 2026 Live Updates: Follow Q1FY27 live updates from businessline
-
-## Awfis posts 27% revenue jump in Q1 FY27, PAT more than doubles
-The company’s core co-working business contributed ₹352 crore to revenue
-
-## Prime Fresh net up 51% on rise in demand
-Revenue was up 17% to ₹62 crore (₹53 crore)
-
-## Titan World eyes ₹250 crore retail business from Kerala in three years
-On changing consumer behaviour, Alick said around 60 per cent of watch purchases were currently made for gifting, including weddings and other occasions.
-
 ## Alluri Sitarama Raju International Airport at Bhogapuram to begin operations from Aug 17
 The transition to the New Greenfield Airport marks a significant milestone for the region
 
-## Technocraft Ventures ends debut day with 47% gains; LEAP India settles 9% below listing price
-Technocraft Ventures lists at 34% premium, LEAP India debuts with little over 4% premium
+## MHA notifies 40 questions for Census 2027; introduces caste enumeration for first time post-Independence
+The decision to include caste enumeration in Census 2027 was taken by the Cabinet Committee on Political Affairs (CCPA) in April 30, 2025.
 
-## Natco Pharma’s Q1 net down 57% at ₹206 crore
-Revenue stood at ₹794 crore marking a decline of 43% in the quarter under review as against ₹1,390 crore for the corresponding quarter last year.
+## Kashmir’s ‘red gold’ faces new threat from corm smuggling
+Several incidents involving the alleged smuggling of saffron corms outside the Valley have come to light in recent years
 
-## Amara Raja sees BESS as near-term revenue driver as cell business remains a year away
-₹250-300 crore storage plant could scale rapidly, but first 2 GWh NMC cell line has no disclosed order book yet
+## Over 34 lakh candidates register on FutureSkills PRIME; 86%+ from Tier 2, 3 cities: MeitY
+India ranks among the leading countries in AI adoption, preparedness and ecosystem development and accounts for around 20% of the global semiconductor design workforce
+
+## Higher costs, rupee depreciation weigh on 3M India’s Q1 profit
+Revenue up 19%; healthcare segment leads the charge
+
+## Broker’s call: Minda Corp (Buy)
+Elara Securities
+
+## SmartVakheel.AI Wins Legal AI Innovation of the Year 2026 at Bespoke Legal Summit
+
+
+## Dr. Swati Mujumdar Felicitated on Her Appointment as Chancellor of SSPU
+The ceremony marked a new chapter in her journey of advancing skill-first, industry-integrated and future-focused higher education
+
+## India's forex reserves climb to $707 billion, rise $14.1 billion in a week
+India's foreign exchange reserves jumped a notable $14.136 billion, reaching a total of $707.002 billion for the week ending August 7. This surge was largely driven by a $9.946 billion rise in foreign currency assets, complemented by a $3.995 billion increase in gold reserves. These noteworthy gains
 
 ## 800 kmph in 5.3 seconds: China train sets third record in six months
 China's experimental maglev train achieved 800 kmph in just 5.3 seconds. This remarkable acceleration sets a new world record for short-distance travel. The technology is not intended for passenger transport due to extreme acceleration levels. Instead, it may find future uses in rocketry and militar
@@ -84,32 +93,32 @@ Stock market recommendations: Amara Raja Energy & Mobility, Indian Bank, and Kfi
 ## Precious metals price today: Gold slips after two-month high; silver also declines
 
 
-## Oil prices today: Crude edges higher as US-Iran tensions revive supply concerns
-Oil prices saw a slight increase on Friday due to renewed supply concerns. The United States threatened an indefinite naval blockade of Iran, escalating economic pressure. This action heightened worries about potential disruptions to crude oil flows through the Strait of Hormuz. However, weaker dema
+## Reliance Industries, Rolls-Royce partner to make engine for India’s AMCA programme
+Reliance, Rolls-Royce partner to make engines for India's Advanced Medium Combat Aircraft programme.
+
+## 'I ask parents of terrorists, Maoists…': PM Modi's first Independence Day speech| Aug 15, 2014
+As India prepares to celebrate Independence Day, Hindustan Times revisits Narendra Modi’s Independence Day address from the Red Fort on August 15, 2014.
+
+## FIR registered against BJP MP Anant Maharaj over alleged Netaji remarks: Police
+Police said the FIR against Anant Maharaj was registered over his alleged ‘war criminal’ remark about Netaji Subhas Chandra Bose at a Siliguri event.
+
+## Independence Day 2026: 1,057 personnel awarded Gallantry and Service medals; three posthumously
+Of the 1,057 awards, 301 awards are related to the Medal for Gallantry, 92 for President's Medal for Distinguished Service.
+
+## ‘Some worked as gunners’: From carrying rifles to walking the ramp, surrendered Naxal women from Sukma tell their story
+Nine women from Sukma who recently surrendered participated in a fashion show held as part of a National Handloom Day event in Raipur.
+
+## Noida teen kills father, jumps before metro train hours later: ‘Was depressed over father’s harsh behaviour’
+The Sector 49 police station received information through Dial-112 that a boy had jumped in front of metro train at the Sector 52 station.
+
+## Eggs thrown at ex-TMC MLA Nirmal Ghosh after arrest over ‘hurried cremation’ in RG Kar case
+Nirmal Ghosh was arrested over allegations that he used his influence to rush the cremation of the RG Kar rape-murder victim’s body against her family’s wishes.
 
 ## Independence Day flag-hoisting guide: Dos and don’ts every Indian should know ahead of August 15
 People celebrate the Independence Day through various traditions, most notably by hoisting the national flag, and unfurling the Tricolour.
 
-## Chhattisgarh IPS officer denies ₹1 cr bribery charge in cyber-fraud case
-Rahul Bansal said a complaint is currently under consideration by a court, and he has complete faith in the law
-
-## Red Fort security tightened ahead of Independence Day with 1,000+ AI-enabled CCTV cameras
-Ahead of Independence Day, the Red Fort's security is fortified to ensure smooth and secure celebrations.
-
-## Vipul Goyal to Samay's friend Balraj: Who are the other 4 who got Supreme Court relief over disabled persons remarks?
-The court noted their efforts and said they had taken steps in a positive direction following the controversy surrounding the show.
-
-## Missing Rajasthan couple found dead, bodies stuffed inside trunk at Udaipur home
-The bodies of 65-year-old Lahri Lal Paliwal and his wife Radha Devi, 62, were found in a trunk at their Rajasthan home after they went missing.
-
-## Woman damages airport property worth ₹49,000 after IndiGo flight cancellation in Bhubaneswar, FIR lodged
-The FIR was lodged against the passenger for alleged unruly behaviour, damage to airport property, and creating a ruckus in the airport's departure lounge
-
-## Man dances, bathes for hours before stealing KTM bike from Varanasi showroom; caught on camera
-The CCTV footage showed the suspect arriving outside the Varanasi dealership around 11:30 pm wearing a white shirt and jeans.
-
-## ‘Genuine efforts’: Supreme Court drops criminal cases against Samay Raina, 4 comedians
-The court kept the broader issue arising from the case alive, saying it would issue directions on ensuring greater sensitivity and safeguards in online content
+## Reduce your exposure to US assets before they lose value, Pictet warns investors
+Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
 
 ## Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence
 Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races to counter Western advances in AI defence. Beijing-based Zhipu said GLM-5.3 achieved a success rate 
@@ -132,8 +141,8 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 ## China’s Central Asia push
 –
 
-## Shein is eyeing a valuation rivalling H&M. Will the market buy it?
-Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H&M, citing its business model and global customer base as major competitive advantages, according to internal documents provided to the South China Morning Post by investors. The do
+## Colombia’s Week of Rupture
+Monday’s deadly earthquake presents the country’s new president with his first big test.
 
 ## The Iran War Has Left the U.S. Dangerously Exposed
 The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.
@@ -155,9 +164,6 @@ Battle-tested tech from Ukraine has reached the region’s armed groups—and go
 
 ## What Does the Mecca Pact Deliver Pakistan?
 The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.
-
-## What to Watch in Zambia’s Elections
-The country’s natural resources have put the vote under intense international scrutiny.
 
 ## Former Myanmar Ambassador to UK Goes on Trial For ‘Trespassing’ in Diplomatic Residence
 Kyaw Zwar Minn argues that the military government formed after the 2021 coup was illegitimate and had no authority to order him to vacate Myanmar House.
@@ -231,6 +237,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Saudi Arabia announces start of Red Sea defence alliance: Will it work?
+Thirteen countries have become members of the Saudi-led maritime alliance.
+
+## Israeli soldiers prevent aid delivery to besieged Palestinians
+Israeli soldiers prevent aid delivery to besieged Palestinians
+
+## Israeli forces block activists from reaching besieged Qusra families
+About 15 Palestinians, including two children, have been trapped in three homes in Qusra for nearly a week.
+
+## Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18
+Jessica Bang won her first professional event this year but died after collapse in Thailand and emergency surgery.
+
+## Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’
+The Israeli PM's remark comes amid signs of growing tension between Israel and the UK's Labour government.
+
 ## Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?
 US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.
 
@@ -239,21 +260,6 @@ Manchester City's Enzo Maresca coy on the future of midfielder Rodri ahead of Co
 
 ## US threatens ‘indefinite’ blockade against Iran: How long can it last?
 US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.
-
-## Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance
-Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.
-
-## Record-breaking rain in Japan leaves several dead, thousands stranded
-At least four people were killed, and one remains missing after record-breaking rain triggered flooding in Japan.
-
-## Scrutiny over Farage’s finances has ‘hurt Reform UK support’
-Scrutiny over Farage’s finances has ‘hurt Reform UK support’
-
-## Seven killed in tunnel accident at Indian hydropower project
-Water and debris burst into a state-run hydropower tunnel in Uttarakhand following a landslide.
-
-## New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
-Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
