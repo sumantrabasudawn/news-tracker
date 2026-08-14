@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Second UK train derails in less than 24 hours
+Incident in Essex follows derailment of train in East Sussex on Thursday
+
+## Burnham warns of ‘tinderbox’ Britain after week of intense heat
+PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields
+
 ## Luigi Mangione admits shooting UnitedHealthcare CEO
 Ivy League graduate pleads guilty in federal case that has become lightning rod for debate about US healthcare system
 
@@ -12,29 +18,17 @@ Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-mi
 ## Bezos-backed group strikes deal for stake in Liverpool FC
 Consortium led by son-in-law of steel billionaire Lakshmi Mittal invests at valuation of more than $7bn
 
-## Second UK train derails in under 24 hours
-Incident at Wickford in Essex follows derailment of train in East Sussex on Thursday
-
 ## Activists are giving British M&A targets a helpful shove
 Investors can unlock value by pushing companies to spin off businesses or sell to rivals
 
 ## Farage wins… and donation probe resumes
 Plus, is Burnham mulling an early election?
 
-## Top French court blocks social media ban for children
-Constitutional Council says law is a ‘disproportionate infringement on freedom of expression’
+## Stockpickers: Persimmon, Savills, Caledonia Mining
+Our experts discuss which companies to buy, sell or hold this week
 
-## Investors pile back into US stocks as bullishness returns to Wall Street
-Stellar earnings season and falling inflation fuel rebound from July’s chip rout
-
-## Reader callout: Do you earn more than your siblings?
-Managing income differences within a family can be tricky
-
-## Financier fined and banned over false claims in bids for bank and football club
-UK watchdog imposes £489,000 penalty on Paul Taylor over information provided in negotiations
-
-## Bird remains found in engine of Ryanair window blowout plane
-US NTSB discovers bird remains in several parts of the engine that failed
+## Directors’ Deals: British American Tobacco’s newest director buys the dip
+Group warns of disappointing full-year profit growth
 
 ## Count of Indian students in US sees sustained drop; at 29-month low
 Decline in count due to visa delays and immigration policy changes
@@ -84,29 +78,29 @@ Fresh coriander, which neighbourhood vegetable vendors routinely tucked into sho
 ## Gold price prediction: Will gold price rally now face profit booking? Check August 14, 2026 outlook
 MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.
 
+## Public exams gateways to opportunities, govt taking steps to curb unfair means: Murmu on I-Day eve
+President Murmu said the government is taking steps to curb exam cheating while highlighting youth opportunities, Operation Sindoor and the Indus Waters Treaty.
+
+## ‘What have I done?’: When Jinnah confronted Partition’s horrors from the skies over Punjab
+As India marks its 80th Independence Day, the story of Partition remains inseparable from the birth of India & Pakistan -- and the crores displaced by violence.
+
+## MPD-47 floats ‘congestion pricing’ for vehicles entering key city areas
+Delhi's Master Plan 2047 proposes congestion pricing to manage traffic, requiring further policy development by the government and collaboration among agencies.
+
+## Lok Sabha Secretariat seeks Rahul Gandhi’s response to privilege notices over Amit Shah remarks by August 28
+The notice by BJP's Thakur alleged alleged that Rahul Gandhi levelled "grave allegations" against Amit Shah without giving advance notice under Rule 353.
+
+## Maharashtra FDA suspends licences of multiple facilities linked to Blinkit, Zepto, Instamart over food safety violations
+The regulator directed food business operators selling and delivering food through online platforms to strictly comply with prescribed standards.
+
+## UGC-NET 2026 provisional answer key likely on August 16: NTA
+The NTA said the provisional answer keys for CSIR-NET and ICAR AIEEA (PG) and AICE (PhD) 2026 will also be published on the same day on its website.
+
 ## India responds to White House report on Chinese goods transshipment
 India says it is studying a White House report that flags the country among major hubs for transshipment of Chinese goods to evade US tariffs.
 
 ## Karnataka BJP MLA’s daughter booked for slapping woman police sub-inspector after spat over skipping temple queue
-According to the complaint, Aishwarya allegedly sought permission to enter the sanctum directly without standing in the queue.
-
-## Uttarakhand: 3 tourists killed, 19 injured as tempo traveller falls into Nainital gorge
-Three tourists were killed and 19 injured, including a 10-month-old infant, after a Tempo Traveller carrying 22 people plunged into a gorge in Nainital.
-
-## India hits back at Norway FM’s Kashmir remarks during Pakistan visit
-India says Jammu, Kashmir and Ladakh are integral parts of the country, while urging the world to focus on Pakistan-occupied Kashmir and cross-border terrorism.
-
-## Parl clears bill to curb states’ tax on minerals; Soren warns of stir
-Parliament passed the Mines and Minerals Amendment Bill, limiting state mineral taxes, sparking warnings of agitation from Jharkhand’s chief minister.
-
-## Odisha appoints Vinaytosh Mishra as acting DGP amid police chief selection row
-Vinaytosh Mishra will take charge as Odisha DGP on August 16 as the Supreme Court hears a plea challenging the state’s police chief selection process.
-
-## Usha Uthup: ‘Strongly attached to idea of India even though much has changed’
-While music entered her life without warning, Uthup was thrown out of her class choir “because the teacher could not find a proper place for my voice”.
-
-## Nitin Thakker: ‘Political leaders were far more approachable, had clean image’
-India@79: Donning the black gown since 1968, Thakker has been on the electric tram that ceased operations in '64 and the underground Metro Line 3 opened in 2025
+The FIR was registered at the Kyathanahalli police station on a complaint by PSI Savitha, who was deployed at the temple during the Bhima Amavasya rush.
 
 ## Reduce your exposure to US assets before they lose value, Pictet warns investors
 Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
@@ -132,6 +126,9 @@ EQT – one of the world’s largest private markets firms – is taking steps t
 ## China’s Central Asia push
 –
 
+## Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era
+Under President Xi Jinping, politics and security, not real change, come first.
+
 ## Yes, the Iran War Really Is Similar to Vietnam
 Trump’s war is “The Best and the Brightest”—but without the best and the brightest.
 
@@ -153,32 +150,29 @@ A spate of new attacks believed to be linked to Iran has highlighted the water s
 ## Why Israel Won’t Make Qatar an Enemy
 Doha’s ties to Gaza and Hamas make it deeply controversial but also indispensable.
 
-## Drone Warfare Comes to Latin America
-Battle-tested tech from Ukraine has reached the region’s armed groups—and governments are struggling to catch up.
+## Singapore’s Israel Tightrope
+The city-state’s ties with Israel have been built on a history that very few other Asian countries can boast. But Singapore can still say "no."
 
-## Former Myanmar Ambassador to UK Goes on Trial For ‘Trespassing’ in Diplomatic Residence
-Kyaw Zwar Minn argues that the military government formed after the 2021 coup was illegitimate and had no authority to order him to vacate Myanmar House.
+## Taiwan Wants to Know Why Indonesia Joined China in a Naval Exercise East of Taiwan
+The exercise highlighted increasing tensions in the waters east of Taiwan, which are also close to Japan and the Philippines.
 
-## How Indonesia Can Get Ahead in the Artificial Intelligence Race
-The country has the abundant land and energy resources needed to power hyperscale data centers. Can it harness them effectively?
+## Why India Needs a Comprehensive Polar Strategy
+The Arctic and Antarctic are reshaping both the global climate and the geopolitical chessboard. Yet India remains absent from the tables where polar futures are decided.
 
-## How Could the Rise of Progressive Democrats Impact US China Policy?
-A divide over China, although less pronounced than the divide over Israel, has become increasingly visible among Democrats as progressives have risen within the party.
+## In Interview, Japarov Says He’d Planned for Tashiev to Be Kyrgyz President Next
+Japarov claimed he changed his mind once he realized Tashiev is “not ready.”
 
-## Why Is Everyone Playing Mahjong?
-The centuries-old game is having a moment. But what happens when a tradition rooted in Chinese history becomes a lifestyle trend?
+## China Forced Nepal to Cancel an International Conference on Tibetan Studies
+The incident reveals Beijing’s growing efforts to assert authority over Tibetan Buddhism – including in other countries.
 
-## Can South Korea’s $880 Billion AI Ambition Help Cement Its Status as a High-Tech Powerhouse?
-Plans are firmly underway to ensure that South Korea’s chipmaking strength can help to facilitate a stronger global position when it comes to the AI buildout.
+## In Afghanistan, Growing Resistance Meets Fears of Pakistani Influence
+Five years after the Taliban’s return, the Afghan resistance is growing but so is the fear of Pakistan’s shadow.
 
-## North Korea Fires Ballistic Missiles, Deepening Silence Fuels Analyst Speculation
-Seoul, Tokyo, and Washington condemned two ballistic missile launches ahead of allied military drills, but Pyongyang’s failure to report either test has left analysts guessing at the cause.
+## 5 Years After the Fall: Why the World Still Misreads the Taliban
+The international community assumed that governing would change the Taliban. The Taliban, however, viewed government as a means of transforming society according to their ideology.
 
-## The US Military Can’t Function Without China
-Rare earths are critical to making modern weapons – and China dominates the supply chain.
-
-## Can Japan’s Defense Industry Meet its Ambitious Goals?
-Japan increasingly recognizes the importance of the defense industrial base as a source of strategic capability. But can the industry actually deliver?
+## Mecca Joint Deterrence Agreement: Implications for India
+Pakistan would surely try to rally the group and invoke the pact in some form in the event of tensions with India.
 
 ## Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk
 Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical infrastructure would be struck. Iranian 
@@ -228,6 +222,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Liverpool to sell minority stake to consortium including Jeff Bezos
+The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.
+
 ## Analysis: Israel’s government can’t disown West Bank settler violence
 Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.
 
@@ -248,9 +245,6 @@ Zambia's electoral commission on Friday suspended vote counting nationwide.
 
 ## Qatar challenges AFC over open letter attacking FIFA President Infantino
 Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.
-
-## ‘The party of the Cubans’: How Republicans courted a key South Florida vote
-Polls suggest Cuban American voters in Florida remain largely Republican, despite frustration over immigration.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
