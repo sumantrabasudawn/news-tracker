@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Modi promises free exam coaching after India’s ‘cockroach’ protests
+Prime minister vows to ease financial pressures facing youth in independence day address
+
 ## China poised to lift travel ban on Manus founders
 Chief executive Xiao Hong plans to return to Singapore as AI company nears resolution of Meta separation
 
@@ -21,9 +24,6 @@ For too many young people, disrupted social ties have never fully recovered
 ## How Burnham can curb Britain’s tax-dodging shops
 The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
 
-## How grandparents can help with school fees
-Private education will be much more expensive for a child starting school today than for those just graduating, so planning is key
-
 ## How John Henry took Liverpool from crisis club to $7bn juggernaut
 US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
 
@@ -35,6 +35,9 @@ They have large young audiences, but critics say they deliver poor returns for t
 
 ## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking
 Seaside resorts slash prices by as much as 8% in effort to attract tourists and fill rooms
+
+## PM Modi sets a target of featuring 50 Indian companies in Fortune 500
+Talking about the overall economy, the PM says that India has transformed from ‘Fragile Five’ to the world’s fastest-growing major economy in the last 12 years
 
 ## Max Estates Q1 profit drops 30% to ₹8.35 cr; total income stays flat at ₹80 cr
 Max Estates Ltd, a real estate arm of Max Group, is one of the largest property developers in India
@@ -48,17 +51,14 @@ CityUHK achieves stellar results again in the ARWU, ranking 2nd in Hong Kong and
 ## VICTORINOX INDIA WELCOMES ABHAY DEOL AS A FRIEND OF THE BRAND
 VICTORINOX INDIA WELCOMES ABHAY DEOL AS A FRIEND OF THE BRAND
 
+## 80 years of food security, the next step: Building a nutrition-secure rural India
+The goal should not be to ensure that every rural household has enough food in terms of calories, but the food available is diverse, nutritious, safe, affordable and sustainable
+
 ## Beyond tractors: How electrification is reshaping farm mechanisation
 India’s next decade of farm mechanisation will not be counted in just tractor units
 
 ## PM Modi addresses nation on 80th Independence Day, presents ‘Saptdharas’ to boost Viksit Bharat vision
 India aims to make five nuclear reactors operational in this decade, says Modi
-
-## Why warehousing needs for sugar are different, and how best it can be catered to
-Those who make the shift to preservation specialists will protect the commodity’s value and position themselves as indispensable partners in a supply chain increasingly demanding accountability at every node
-
-## Can gold recycling become India’s next circular economy success story?
-As the nation looks for new ways to sustain economic growth and resilience, gold recycling may prove to be one of the most promising cases of a circular economy in the country
 
 ## India’s big semiconductor push: PM Modi says 7-8 plants coming up in few years; stresses self-reliance in chips
 Looking ahead, PM Modi said an additional five to eight semiconductor plants are expected to be established over the next seven to eight years, further advancing India's journey towards Aatmanirbhar Bharat and Viksit Bharat.
@@ -84,6 +84,9 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Claude downloads surge 30x, Gemini doubles
 
 
+## I appeal to all parties to support reservation for women in Parliament: PM Modi
+The Constitution (One Hundred and Thirty-First Amendment) Bill, is intended to implement one-third women’s reservation in the Lok Sabha and the legislative assembly
+
 ## Four dead, five Army personnel missing after landslide, flash flood in Arunachal Pradesh
 Four dead, five Army personnel missing after landslide, flash flood in Arunachal Pradesh
 
@@ -97,16 +100,13 @@ The Union Cabinet on July 31 approved the Samudra Manthan (National Offshore Exp
 PM Modi said India needed to strengthen domestic capacity in critical areas, including energy and minerals, as dependence on external sources became vulnerable.
 
 ## Free coaching classes, AI training: PM Modi's big Gen Z outreach in Independence Day speech
-PM Modi said that govt will establish a network for free online coaching to students by bringing together digital public infrastructure, teachers, educators
+Prime Minister Modi said that 10 million youth will be trained in Artificial Intelligence (AI) in the next one year.
 
 ## Indian Army to get kamikaze drones worth ₹1,577 crore amid push to be ‘global hub’
 Given the growing impact of these systems on military operations, the drone purchases have been made under the ‘Buy Indian’ scheme.
 
 ## Google Doodle honours India's 80th Independence Day with vibrant textile art
 The Google Doodle for August 15, 2026, features a colourful textile patchwork artwork that brings together traditional Indian weaving and printing techniques.
-
-## Tamil Nadu CM Vijay announces gold ring gift scheme for newborns from Sept 15
-CM Vijay announced that a gold ring gift scheme for newborns, with an estimated cost of ₹755.83 crore, will be launched in Tamil Nadu.
 
 ## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
 As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How a Sudanese refugee became a head teacher in a Chadian camp
+Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.
+
+## Morocco boosts Ceuta security amid calls for mass migrant crossing
+Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.
+
 ## On the ground in Indonesia following 7.7 magnitude earthquake
 A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people.
 
@@ -245,12 +251,6 @@ The US claims it destroyed Iran’s missile capability, but a former White House
 
 ## India marks 80th Independence Day with military display
 India marked its 80th Independence Day at Delhi’s historic Red Fort.
-
-## HRW says US civil rights enforcement reduced under Trump: What to know
-A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
-
-## US President Trump says he will declare Strait of Hormuz US territory
-US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
