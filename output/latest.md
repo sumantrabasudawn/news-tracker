@@ -90,6 +90,9 @@ Looking ahead, PM Modi said an additional five to eight semiconductor plants are
 ## ‘No-go’ to ‘go-ahead’: PM Modi hails ‘Samudra Manthan' for deep-sea exploration in Independence Day speech
 To speed up offshore exploration, the government approved Samudra Manthan – the National Offshore Exploration Scheme on July 31, 2026. The scheme has been allocated Rs 84,084 crore for Phase I, covering the period up to FY2030-31.
 
+## Suryapath Tiranga: Global relay of tricolour spirit from Fiji to mark 80th I-Day concludes in San Francisco
+Suryapath Tiranga: Global relay of tricolour spirit from Fiji to mark 80th I-Day concludes in San Francisco
+
 ## Jharkhand protest: Students demand CM Hemant Soren's resignation, ask Congress to ‘withdraw support’
 The protesters announced that they will burn effigies of Soren and Rahul Gandhi on Sunday. They also said that they will gherao the CM's residence on August 20.
 
@@ -110,9 +113,6 @@ Albina Garada, from Odisha's Koraput, was missing. Her body was recovered in And
 
 ## Bengaluru engineer hits wife, smothers her with pillow, then dies by suicide
 According to preliminary information, an argument between the two reportedly turned violent.
-
-## ‘Sent parents to heaven’: Kerala man arrested for stabbing parents; had history of drug, alcohol abuse
-Ajeesh, was arrested after sending a video of the attack to a relative. Police said he had a history of drug abuse and claimed to have acted on a divine call.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
