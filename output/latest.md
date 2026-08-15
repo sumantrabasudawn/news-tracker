@@ -63,6 +63,18 @@ MEA says India was studying the White House’s report and violations, if any, w
 ## India's big chip ambition: Can it become the world's next semiconductor hub?
 Semiconductors sit underneath almost everything today: electronics, EVs, telecom, AI, data centres, defence, manufacturing. So having a self-reliant semiconductor ecosystem is an absolute necessity in the current globally uncertain economic and geopolitical environment.
 
+## FMCG companies see recovery in consumption growth
+
+
+## Wholesale inflation eases to 9.8% in July
+
+
+## Claude downloads surge 30x, Gemini doubles
+
+
+## With $52.3 billion raised, FCNR(B) scheme to close a month early
+
+
 ## Trump admin accuses over 40 nations including India of helping China evade tariffs - what it means
 The White House report classifies more than 40 countries into three separate tiers based on their alleged role in transshipment activities. India has been placed in Tier 1, labelled "Diversified Scale Leaders", alongside Canada, the European Union, Israel, Japan, Mexico, South Korea and Taiwan.
 
@@ -72,41 +84,29 @@ The bond market was largely steady after government data showed that consumer sp
 ## India's forex reserves climb to $707 billion, rise $14.1 billion in a week
 India's foreign exchange reserves jumped a notable $14.136 billion, reaching a total of $707.002 billion for the week ending August 7. This surge was largely driven by a $9.946 billion rise in foreign currency assets, complemented by a $3.995 billion increase in gold reserves. These noteworthy gains
 
-## 800 kmph in 5.3 seconds: China train sets third record in six months
-China's experimental maglev train achieved 800 kmph in just 5.3 seconds. This remarkable acceleration sets a new world record for short-distance travel. The technology is not intended for passenger transport due to extreme acceleration levels. Instead, it may find future uses in rocketry and militar
+## PM Modi delivers 13th Independence day speech as India marks 79 years of freedom
+Prime Minister Narendra Modi addresses the nation on the 80th Independence Day.
 
-## Markets end flat; Sensex ends falls 71 points, Nifty slips 30 points
+## CJP claims Instagram account restored after being taken down, Abhijeet Dipke calls out 'bloody cowards'
+The CJP said on X that Meta had removed the movement’s Instagram handle, but the party later managed to regain access to the account.
 
+## 7 killed, 3 trapped after under-construction tunnel in Uttarakhand's Chamoli collapses
+Of the 22 workers on shift when the incident occurred around 7pm on Thursday, 19 have been brought out — seven of them declared dead.
 
-## Your humble dhaniya no longer free! Coriander prices rise above Rs 200 kg as heavy rains disrupt supply
-Fresh coriander, which neighbourhood vegetable vendors routinely tucked into shopping bags at no extra cost, has become unexpectedly expensive after heavy rainfall disrupted supplies from major growing regions.
+## Rain to hit Independence Day celebrations in Delhi? What IMD forecast says
+According to IMD nowcast seen at around 6 am on Saturday, a yellow alert was in place for light to moderate rain till 9 am.
 
-## Gold price prediction: Will gold price rally now face profit booking? Check August 14, 2026 outlook
-MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.
+## India@79: Age, wage and rage | Number Theory
+India enters its 80th year of independence today.
 
-## Independence Day 2026 LIVE: India all set to mark 80th year of freedom, PM Modi to address nation from Red Fort
-Independence Day 2026 LIVE: Celebrations will feature ceremonial proceedings, with this year’s programme also putting the spotlight on 150 years of Vande Mataram. PM Narendra Modi will deliver the Independence Day speech from Red Fort today.
+## 'To completely curb use of unfair means': President Murmu underlines push to protect exams
+Murmu described the country’s youth as its “most valuable asset” and highlighting their role in entrepreneurship, space research, innovation and job creation.
+
+## PM Modi Red Fort address LIVE: Speech begins after Vande Mataram rings out for first time from Red Fort
+PM Modi Red Fort address LIVE: Prime Minister Narendra Modi began his Independence Day speech from the ramparts of Red Fort on August 15. He extended greetings to the nation and remembered contributions of freedom fighters.
 
 ## Weather Bee: Dry second week of August erased monsoon gains from the first week
 India monsoon: Dry second week of August erased gains from the first week, pushing the cumulative rainfall deficit back to 10.5%, IMD data shows.
-
-## Catholic body urges govt to withdraw FCRA bill
-Catholic body urges govt to withdraw FCRA bill
-
-## NHRC notice to states, UTs, FSSAI over concerns raised about sale, consumption of 'analogue paneer'
-NHRC notice to states, UTs, FSSAI over concerns raised about sale, consumption of 'analogue paneer'
-
-## Human-elephant conflict logs more deaths in southern India
-Human-elephant conflict in South India rises, with 130 human deaths in 2023-24 due to habitat loss. A new report calls for regional management strategies.
-
-## Public exams gateways to opportunities, govt taking steps to curb unfair means: Murmu on I-Day eve
-President Murmu said the government is taking steps to curb exam cheating while highlighting youth opportunities, Operation Sindoor and the Indus Waters Treaty.
-
-## ‘What have I done?’: When Jinnah confronted Partition’s horrors from the skies over Punjab
-As India marks its 80th Independence Day, the story of Partition remains inseparable from the birth of India & Pakistan -- and the crores displaced by violence.
-
-## MPD-47 floats ‘congestion pricing’ for vehicles entering key city areas
-Delhi's Master Plan 2047 proposes congestion pricing to manage traffic, requiring further policy development by the government and collaboration among agencies.
 
 ## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
 As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
@@ -156,6 +156,9 @@ Emotional reassurance came to be mistaken for competent governance.
 ## Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era
 Under President Xi Jinping, politics and security, not real change, come first.
 
+## Indonesia Is the Latest Country to Validate China’s Claim to Taiwan – Unwittingly or Not
+From Indonesia to Africa and Oceania, China is enlisting foreign countries to support its increasingly strict interpretation of the One China principle.
+
 ## Singapore’s Israel Tightrope
 The city-state’s ties with Israel have been built on a history that very few other Asian countries can boast. But Singapore can still say "no."
 
@@ -176,9 +179,6 @@ Five years after the Taliban’s return, the Afghan resistance is growing but so
 
 ## 5 Years After the Fall: Why the World Still Misreads the Taliban
 The international community assumed that governing would change the Taliban. The Taliban, however, viewed government as a means of transforming society according to their ideology.
-
-## Mecca Joint Deterrence Agreement: Implications for India
-Pakistan would surely try to rally the group and invoke the pact in some form in the event of tensions with India.
 
 ## Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk
 Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical infrastructure would be struck. Iranian 
@@ -228,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Venezuela says 131 political prisoners freed amid post-Maduro talks
+As detainees granted 'alternative' to imprisonment, US welcomes release as crucial step for Venezuela's reconciliation.
+
+## 7.7-magnitude earthquake strikes eastern Indonesia
+A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.
+
+## At least two killed as magnitude 7.7 quake hits Indonesia
+Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.
+
+## Mangione pleads guilty as polarising CEO killing reaches new phase
+Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
+
+## Buenaventura residents criticise state neglect after Colombia’s earthquake
+Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.
+
 ## Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election
 A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil's high-stakes presidential election.
 
@@ -236,21 +251,6 @@ More than half of women’s organisations operating in Afghanistan could cease o
 
 ## Families angered by slow search for loved ones after Colombia quake
 Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.
-
-## Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’
-US President Trump says that 'pretty soon' he will declare the Strait of Hormuz a US territory once Iran is defeated.
-
-## Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal
-Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.
-
-## Houthi attack on port kills four eroding truce with Yemen’s government
-Six Houthi ballistic missiles struck Yemen's government-held al-Makha port, killing at least four.
-
-## Yemen’s government says Houthi attack on al-Makha kills at least four
-Hostilities are rising between Iran-backed Houthis and Yemen's internationally recognised government.
-
-## Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
-Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
