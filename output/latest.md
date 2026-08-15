@@ -39,11 +39,20 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
-## PhonePe widens lead as UPI transactions climb to 23.66 billion in July
-Paytm remained the third-largest player. Its monthly transaction count increased to 1.90 billion from 1.80 billion in June
+## Agastya Energy announces ₹7,800 cr expansion into integrated ingot, wafer manufacturing
+
+
+## India Inc throws up a pleasant surprise in Q1 as compared to gloom at the start of the quarter
+Strong revenue growth and sectoral momentum offset the drag from higher input costs
+
+## AIIMS Delhi debars two medical suppliers over defective syringes, suction sets
+Repeated complaints from doctors and staff prompted AIIMS Delhi to examine supplies used across critical departments, including operation theatres and emergency care
 
 ## Indian semiconductor startup Aheesa achieves first-pass success with VIHAAN chip
 The milestone strengthens India’s chip-design push as government-backed startups expand indigenous capabilities across telecom, defence, automotive and emerging technologies
+
+## PhonePe widens lead as UPI transactions climb to 23.66 billion in July
+Paytm remained the third-largest player. Its monthly transaction count increased to 1.90 billion from 1.80 billion in June
 
 ## Tier-2, Tier-3 cities account for 53% of India's forex demand: Report
 Tier-2 cities contributed 41%, while Tier-3 cities accounted for another 12%
@@ -51,17 +60,8 @@ Tier-2 cities contributed 41%, while Tier-3 cities accounted for another 12%
 ## Reliance, Rolls-Royce team up for India’s advanced fighter jet engine programme
 The proposed collaboration comes as India seeks greater self-reliance in defence technology and prepares to develop next-generation twin-engine combat aircraft
 
-## AIIMS Delhi debarres two medical suppliers over defective syringes, suction sets
-Repeated complaints from doctors and staff prompted AIIMS Delhi to examine supplies used across critical departments, including operation theatres and emergency care
-
 ## Belrise Industries eyes expansion after ₹1,700-crore QIP, Hyva deal; Q1 PAT rises 9%
 Auto-component maker Belrise Industries is stepping up its expansion drive after raising ₹1,700 crore through a QIP in July and acquiring Hyva India’s tipper business, as it looks to broaden its portfolio into larger vehicle systems, EV localisation and non-auto businesses including renewable energy
-
-## Mutual Funds returns
-As on : Aug 15, 2026
-
-## Tata Trusts’ governance dispute raises concerns ahead of Tata Sons’ AGM
-
 
 ## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
 The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests
+A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.
+
+## How blind football is helping women overcome barriers in Mexico
+Mexico is sending its first blind women's football team to compete in an international tournament. Players cannot wait.
+
 ## The next Yemen war might be different
 Drones are no longer the advantage for only one side.
 
@@ -248,12 +254,6 @@ Police found the gunshot victims near the US university's halls of residence.
 
 ## Five years on, how will Taliban deal with armed opposition?
 The United Nations says armed groups opposed to the government remain active.
-
-## Afghan refugees face an uncertain future as Europe shifts to the right
-With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.
-
-## Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
-Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
