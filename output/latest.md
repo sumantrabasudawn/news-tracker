@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Qatar denies it is detaining three Iranian bomber pilots
+Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.
+
+## California tackles multiple wildfires as firefighter workforce faces strain
+The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.
+
 ## Canadian petition to expel US ambassador gains over 170,000 signatures
 The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
 
@@ -251,12 +257,6 @@ Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a thre
 
 ## Cleanup underway as Russian oil spill reaches Oman’s coastline
 Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.
-
-## US aircraft carrier expected to relieve USS Lincoln in Middle East
-The USS Washington's movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
-
-## Inter Milan sign England’s Djed Spence from Tottenham Hotspur
-The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
