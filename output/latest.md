@@ -36,6 +36,21 @@ Gen Z are growing older, wiser and more cynical about common or garden influence
 ## Influencers are transforming travel
 Groups from Expedia to Claridge’s are working with social media
 
+## Assam plans ₹1.5 lakh crore infrastructure investment over next five years: Himanta
+Assam is preparing for an infrastructure-led expansion, with the government outlining major investments alongside measures aimed at improving governance and livelihoods.
+
+## BMW Industries net profit jumps 26% in Apr-Jun quarter to ₹19.04 cr
+The company had clocked a net profit of ₹15.14 crore in the April-June period of the preceding 2025-26 fiscal
+
+## India’s chemicals industry targets up to $81 billion in exports by 2030: NITI Aayog
+Rising domestic demand and expanding global opportunities are prompting India to strengthen manufacturing, technology and infrastructure across the chemicals value chain
+
+## India's coal imports turn steel-centric as metallurgical coal demand rises
+India imported around 244.2 million tonne of non-coking and metallurgical coal in FY2025-26, broadly unchanged from about 245.3 million tonne in the previous financial year
+
+## Andhra Pradesh Stree Shakti scheme records 87 crore women’s journeys in one year
+The flagship welfare initiative has significantly expanded women’s access to public transport, while boosting their mobility and reducing daily travel costs
+
 ## PM Modi urges youth to dream big, highlights ₹1 lakh crore Innovation Fund
 India is seeking to deepen its innovation ecosystem by expanding access to funding, technology and opportunities for a new generation of entrepreneurs
 
@@ -44,21 +59,6 @@ Open models can be downloaded, customised and used as building blocks for new AI
 
 ## EaseMyTrip plunges into red, logs June quarter net loss at 11.69 cr
 EaseMyTrip had posted a net profit of ₹44.3 lakh in the corresponding year-ago period
-
-## Magnitude 7.7 quake kills 38 on Indonesia’s Flores island
-In the Nagekeo, Sikka and West Manggarai regencies on Flores, the “very strong” quake was felt for about a minute, prompting many people to rush out of their homes
-
-## Talent gaps put India GCC mandates at risk as firms weigh competing geographies: PwC India-FICCI study
-The report, based on a survey of 200 senior GCC executives across eight industries, says the impact of skill shortages is already visible in business operations
-
-## Assam to invest ₹1.5 lakh crore in infrastructure in 5 years: Himanta
-The chief minister says that the state’s economy has tripled in a decade and the state is now known from ‘chai’ to ‘chip’ of semiconductors, referring to the upcoming Tata facility in the state
-
-## Tamil Nadu Chief Minister Vijay vows corruption-free State, sets $1.5 trillion economy target by 2036
-CM Vijay says that the State government was cooperating with the Centre on administrative matters, while making it clear that Tamil Nadu would oppose policies that were against the rights of the State
-
-## India Inc hails PM's growth vision, backs self-reliance push
-Industry shares the prime minister's resolve to build on this momentum and is ready to match it with sustained investment in areas of strategic importance, Chandrajit Banerjee stated
 
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
@@ -84,6 +84,12 @@ Semiconductors sit underneath almost everything today: electronics, EVs, telecom
 ## ‘Fragile 5 to fastest growing’: PM Modi talks of India’s economic growth during Independence Day speech
 Talking about the dream to become a developed country by 2047, PM Modi said, “The world will be forced to look at India differently when the most populous country becomes a developed nation.”
 
+## ‘How can any kid use this?’: Dipke flags dirty toilets at govt school in his native Maharashtra village
+The CJP convenor was in his native village in Hingoli for the flag hoisting ceremony on Independence Day and the launch of ‘School Thik Karo’ campaign.
+
+## ‘Multiple boyfriends or girlfriends’: Baba Ramdev says many Gen Zs doing well, flags concerns
+Baba Ramdev said that not all young people should be viewed through the same lens, pointing out that many members of Gen Z are doing well.
+
 ## NALSAR student body demands apology from BCI chairperson over withdrawn enrolment order
 The council alleged that Mishra’s conduct was unbecoming of his position and inconsistent with the constitutional principles expected of the office.
 
@@ -102,11 +108,8 @@ After PM Modi's announcement of online coaching for various competitive exams, P
 ## Naga peace talks elevated to ministerial level, says CM Rio; students skip I-Day
 Nagaland CM Neiphiu Rio said MHA has formed a ministerial-level panel to lead Naga peace talks, while students skipped I-Day events over Vande Mataram.
 
-## ‘A person like me…’: What Maharashtra FDA chief Tukaram Mundhe said on joining electoral politics
-Since Mundhe took charge as the Maharashtra FDA chief, the agency has conducted raids and taking action against several popular eateries and retailers.
-
-## Baba Ramdev's throws surprise demand for educational reforms, threatens to go on protest
-Ramdev alleged that most of the times, interviews for government jobs are ‘fraudulent' as he alleged massive corruption.
+## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
+Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
 
 ## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
 China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
@@ -128,9 +131,6 @@ Gene-editing therapies for the nervous system may need at least another round of
 
 ## Hong Kong’s Insurance Authority aims to broaden regional clientele base: reappointed CEO
 After Beijing’s plans to tighten up the taxation of overseas income sent shock waves through the city’s banks and insurers last week, Hong Kong’s insurance regulator will make broadening the sector’s clientele a priority, its reappointed chief said on Friday. “The priority of the Insurance Authority
-
-## Just like with the yen, America cannot save the AI bubble
-In a rare intervention, the US has propped up the Japanese yen. The move is seen as a bid to hold off a further rise in yields for US government bonds – amid Japan’s sell-off of US Treasuries to fund its shoring up of the yen – a rise that threatens the US artificial intelligence bubble. That the Un
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona
+The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five year deal.
+
+## Arsenal vs Manchester City: Community Shield – prediction, lineups, teams
+Premier League winners Arsenal and FA Cup holders Man City prepare to trade blows as English top-flight season nears.
+
 ## At scene of deadly Israeli strike on Lebanon home
 An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
 
@@ -245,12 +251,6 @@ As the Ken-Betwa dam displaces thousands, legal protections on compensation are 
 
 ## Arteta assures Arsenal fans over contract before Man City clash
 Mikel Arteta, who ended Arsenal's 22-year wait for a Premier League title, says contract negotiations will be resolved.
-
-## FIFA’s Infantino gets backing of White House chief Giuliani over World Cup
-Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA's Gianni Infantino 'it's just politics'.
-
-## A Syrian intervention in Lebanon would be too costly for Damascus
-Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
