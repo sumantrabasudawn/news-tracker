@@ -36,6 +36,15 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
+## Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast
+How is India navigating crude oil volatility, a weakening rupee, and foreign capital outflows?
+
+## FCNR deposits explained: Can they help stabilise the rupee? | On the beat podcast
+Why global investors still can’t ignore India.
+
+## PM Modi invokes ‘Shakti ki Saptdharas’ to boost Viksit Bharat vision
+India aims to make five nuclear reactors operational in this decade, says PM Modi
+
 ## Scorpio Lifestyler to be launched by April 2027; starting price below ₹19.79 lakh ex-showroom
 The Scorpio Lifestyler is set to make its debut by April 2027, with India prices starting below ₹19.79 lakh ex-showroom
 
@@ -50,15 +59,6 @@ Tiger Global reshaped its technology portfolio during the quarter, signalling ch
 
 ## Rajasthan Civil Code 2026 to provide uniform legal framework, says Bhajanlal Sharma
 The proposed legislation comes as Rajasthan combines legal reforms with infrastructure expansion and a broader development agenda aimed at 2047.
-
-## Who Am I? August 9, 2026
-Are you an avid investor? How well do you know corporate India?
-
-## Assam plans ₹1.5 lakh crore infrastructure investment over next five years: Himanta
-Assam is preparing for an infrastructure-led expansion, with the government outlining major investments alongside measures aimed at improving governance and livelihoods.
-
-## BMW Industries net profit jumps 26% in Apr-Jun quarter to ₹19.04 cr
-The company had clocked a net profit of ₹15.14 crore in the April-June period of the preceding 2025-26 fiscal
 
 ## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
 The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
@@ -84,6 +84,9 @@ To speed up offshore exploration, the government approved Samudra Manthan – th
 ## PM Modi’s Independence Day speech: Energy security demand of our times; no shortage of gas, fuel, urea
 Speaking about the country's long-term energy strategy, the Prime Minister stressed that energy security is a key national priority. He said India is working towards achieving 100 gigawatts of nuclear power capacity.
 
+## ‘Ask the mother who the father is’: Tamil Nadu BJP chief’s remark on CM Vijay sparks row
+BJP leader Nainar Nagendran sparked controversy by targeting Chief Minister Vijay's mother, leading to criticism from political leaders.
+
 ## From ‘mere pyare deshwasiyon’ to 50+ references to youth: How PM Modi addressed nation in Independence Day speech
 'Mere pyare deshwasiyon' was the most preferred address used by Prime Minister Narendra Modi in his Independence Day address on Saturday.
 
@@ -104,9 +107,6 @@ The CJP convenor was in his native village in Hingoli for the flag hoisting cere
 
 ## ‘Multiple boyfriends or girlfriends’: Baba Ramdev says many Gen Zs doing well, flags concerns
 Baba Ramdev said that not all young people should be viewed through the same lens, pointing out that many members of Gen Z are doing well.
-
-## NALSAR student body condemns BCI over withdrawn enrolment order, seeks apology from chief
-The council alleged that Mishra’s conduct was unbecoming of his position and inconsistent with the constitutional principles expected of the office.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Five wounded in shooting at Virginia State University
+Police found the gunshot victims near the university's residence halls.
+
+## Five years on, how will Taliban deal with armed opposition?
+The United Nations says armed groups opposed to the government remain active.
+
+## Afghan refugees face an uncertain future as Europe shifts to the right
+With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.
+
 ## Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
 Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
 
@@ -242,15 +251,6 @@ Defence Minister Koizumi's visit to Yasukuni Shrine comes on the 81st anniversar
 
 ## What the Taliban achieved and failed to achieve in five years
 The Taliban government brought security and stability but is facing increasing alienation of the general population.
-
-## World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona
-The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five-year deal.
-
-## Arsenal vs Manchester City: Community Shield – prediction, lineups, teams
-Premier League winners Arsenal and FA Cup holders Man City prepare to trade blows as English top-flight season nears.
-
-## At scene of deadly Israeli strike on Lebanon home
-An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
