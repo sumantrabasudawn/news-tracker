@@ -36,6 +36,9 @@ Groups from Expedia to Claridge’s are working with social media
 ## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking
 Seaside resorts slash prices by as much as 8% in effort to attract tourists and fill rooms
 
+## Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown
+The latest ⁠raids targeting the "quick commerce" sector, where companies deliver groceries within minutes, come after the state's new food safety head shut some of Mumbai's most popular eateries for poor hygiene
+
 ## ICF diversifies into freight trainsets, targets new milestones
 The Freight EMU has generated keen interest among stakeholders and is expected to bring a significant change in freight transportation, particularly for the movement of white goods
 
@@ -56,9 +59,6 @@ Along with the fresh issue, the IPO would comprise an offer for sale (OFS) of 50
 
 ## Sony Pictures India to launch its Tamil GEC in October
 The channel will bring together original fiction, global reality formats, movies and tentpole entertainment across television and digital platforms
-
-## Investments, infrastructure development, job creation top priorities: Telangana CM Revanth Reddy
-Telangana targeting high-growth sectors like life sciences, semiconductors, electronics and advanced manufacturing, CM Reddy says in his 80th Independence Day address
 
 ## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
 In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
@@ -84,6 +84,21 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Wholesale inflation eases to 9.8% in July
 
 
+## CM announces ₹1.5 lakh crore infrastructure boost to make Assam developed by 2047
+Assam CM Himanta Biswa Sarma announces ₹1.5 lakh crore investment from state and Centre to boost infrastructure and make Assam a developed state by 2047.
+
+## Manipur CM stresses peace, normalcy for development on Independence Day
+With the deployment of new police vehicles, security forces can now reach far-flung places in Manipur to monitor the law and order
+
+## Watch: Jharkhand student leader Mahto clashes with police, says stopped from attending I-Day event
+A video of the incident showed a security official blocking Mahto's path while he tried to force his way out.
+
+## BJP protests absence of women ministers in Karnataka CM DK Shivakumar's cabinet
+State BJP president BY Vijayendra led the protest. He was joined by Leader of Opposition in the Karnataka Legislative Assembly R Ashoka.
+
+## Kanimozhi at Lok Sabha Speaker’s tea party proves DMK-BJP pact brewing: Tamil Nadu minister
+Kanimozhi attended the customary tea party hosted by Lok Sabha speaker Om Birla even as the Congress, Trinamool Congress and Samajwadi Party skipped it.
+
 ## Tripura ranks 2nd in Northeast in GDP, per capita income: Manik Saha on I-Day
 Tripura CM Manik Saha highlighted the state’s economic growth and development, saying it ranks second in the Northeast in GDP and per capita income.
 
@@ -92,21 +107,6 @@ While the colours of the pocket square were of the tri-colour, they were in the 
 
 ## New system of governance central to ZPM govt's vision for self-reliant Mizoram: CM
 New system of governance central to ZPM govt's vision for self-reliant Mizoram: CM
-
-## Four killed after tractor-trolley carrying bricks overturns in Lucknow
-Four people, including three brick kiln workers, were killed after a tractor-trolley carrying bricks overturned in Lucknow early Saturday.
-
-## What is ‘Fragile Five’ that PM Modi mentioned in his I-Day speech and why was India part of it?
-The ‘Fragile Five’ referred to economies that were considered heavily dependent on foreign investment and vulnerable to sudden shifts in global capital flows.
-
-## Path to development in Manipur is through peace: CM
-Path to development in Manipur is through peace: CM
-
-## BSP's Mayawati targets ‘casteist, feudal elements’ over ‘stage purification’ after Kharge event in Haldwani
-Bahujan Samaj Party president Mayawati said, “This matter is highly condemnable and concerning."
-
-## Freak oil heist in Rajasthan: 8 thieves puncture pipeline to steal 20 tonnes of crude
-The group of eight, with history of petty thefts, were arrested by the Gujarat ATS last week.
 
 ## Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel
 China’s first online gaming billionaire has acquired the Mia Hotel in downtown Shanghai in a deal worth about 220 million yuan (US$32.6 million), becoming one of the latest investors to bet on a turnaround in the country’s long-suffering property market. Chen Tianqiao – a reclusive entrepreneur know
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli strike kills seven in south Lebanon as attacks intensify
+Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.
+
+## Moment Israeli forces storm wedding hall in occupied West Bank
+Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.
+
 ## South Korea’s president wants talks with North to end Korean War
 South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.
 
@@ -245,12 +251,6 @@ A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday,
 
 ## Taiwan passes defence budget after record delay, retains drone funding
 Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.
-
-## Iran says no decision yet on a return to talks with the US
-FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.
-
-## What we know about the crisis aboard the USS Lincoln
-The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
