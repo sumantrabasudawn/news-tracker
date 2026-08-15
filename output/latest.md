@@ -30,35 +30,35 @@ US billionaire imported data analysis techniques honed in baseball to return Liv
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
-## How influencers are transforming travel
-They have large young audiences, but critics say they deliver poor returns for tour operators and ruin the places they promote
+## Influencers are transforming travel
+Groups from Expedia to Claridge’s are working with social media
 
 ## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking
 Seaside resorts slash prices by as much as 8% in effort to attract tourists and fill rooms
 
+## ICF diversifies into freight trainsets, targets new milestones
+The Freight EMU has generated keen interest among stakeholders and is expected to bring a significant change in freight transportation, particularly for the movement of white goods
+
+## Tamil Nadu Chief Minister Vijay vows corruption-free State, sets $1.5 trillion economy target by 2036
+CM Vijay says that the State government was cooperating with the Centre on administrative matters, while making it clear that Tamil Nadu would oppose policies that were against the rights of the State
+
+## Assam to invest ₹1.5 lakh crore in infrastructure in 5 years: Himanta
+The chief minister says that the state’s economy has tripled in a decade and the state is now known from ‘chai’ to ‘chip’ of semiconductors, referring to the upcoming Tata facility in the state
+
+## NSE Clearing to introduce shorter-tenure SLB contracts with T+3 reverse settlement
+New contracts to be generated and made available on a daily basis, NSE Clearing says
+
+## India ‘was, ‘is’, and ‘will’ be one of the fastest growing economies in the world: SBI
+India’s macro story continues to remain one of resilience, even as global uncertainties remain elevated; SBI’s Nowcasting model projects real GDP growth at 8% in Q1 FY27
+
+## Avtar Steel files IPO papers with SEBI; aims to raise ₹585 crore
+Along with the fresh issue, the IPO would comprise an offer for sale (OFS) of 50 lakh shares by promoter Sumit Jindal
+
 ## Sony Pictures India to launch its Tamil GEC in October
 The channel will bring together original fiction, global reality formats, movies and tentpole entertainment across television and digital platforms
 
-## India “was”, “is”, and “will” be one of the fastest growing economies in the world: SBI
-India’s macro story continues to remain one of resilience, even as global uncertainties remain elevated; SBI’s Nowcasting model projects real GDP growth at 8% in Q1 FY27
-
 ## Investments, infrastructure development, job creation top priorities: Telangana CM Revanth Reddy
 Telangana targeting high-growth sectors like life sciences, semiconductors, electronics and advanced manufacturing, CM Reddy says in his 80th Independence Day address
-
-## Income Tax Department rolls out foreign asset disclosure scheme for small taxpayers
-Declarations can be made till December 31, 2026
-
-## 80 years of food security, the next step: Building a nutrition-secure rural India
-The goal should not be to ensure that every rural household has enough food in terms of calories, but the food available is diverse, nutritious, safe, affordable and sustainable
-
-## PM Modi sets a target of featuring 50 Indian companies in Fortune 500
-Talking about the overall economy, the PM says that India has transformed from ‘Fragile Five’ to the world’s fastest-growing major economy in the last 12 years
-
-## Max Estates Q1 profit drops 30% to ₹8.35 cr; total income stays flat at ₹80 cr
-Max Estates Ltd, a real estate arm of Max Group, is one of the largest property developers in India
-
-## PM Modi announces free online coaching, AI training for youths
-The announcement is significant for students and job aspirants who depend on coaching to prepare for competitive examinations and other career opportunities
 
 ## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
 In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
@@ -84,6 +84,21 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Wholesale inflation eases to 9.8% in July
 
 
+## Tripura ranks 2nd in Northeast in GDP, per capita income: Manik Saha on I-Day
+Tripura CM Manik Saha highlighted the state’s economic growth and development, saying it ranks second in the Northeast in GDP and per capita income.
+
+## 'Urdu mein Tiranga pehna': Congress' 'Ireland' dig at PM Modi's Independence Day pocket square
+While the colours of the pocket square were of the tri-colour, they were in the wrong sequence, hence the Congress' 'Ireland' dig.
+
+## New system of governance central to ZPM govt's vision for self-reliant Mizoram: CM
+New system of governance central to ZPM govt's vision for self-reliant Mizoram: CM
+
+## Four killed after tractor-trolley carrying bricks overturns in Lucknow
+Four people, including three brick kiln workers, were killed after a tractor-trolley carrying bricks overturned in Lucknow early Saturday.
+
+## What is ‘Fragile Five’ that PM Modi mentioned in his I-Day speech and why was India part of it?
+The ‘Fragile Five’ referred to economies that were considered heavily dependent on foreign investment and vulnerable to sudden shifts in global capital flows.
+
 ## Path to development in Manipur is through peace: CM
 Path to development in Manipur is through peace: CM
 
@@ -92,21 +107,6 @@ Bahujan Samaj Party president Mayawati said, “This matter is highly condemnabl
 
 ## Freak oil heist in Rajasthan: 8 thieves puncture pipeline to steal 20 tonnes of crude
 The group of eight, with history of petty thefts, were arrested by the Gujarat ATS last week.
-
-## Assam to invest ₹1.5 lakh cr in infra in 5 yrs: Himanta
-Assam to invest ₹1.5 lakh cr in infra in 5 yrs: Himanta
-
-## PM Modi delivers shortest Independence Day speech in 4 years. His longest address was this
-The length of PM Modi's speech is also noteworthy as it comes just one year after he set a record for the longest Independence Day speech - at 103 minutes.
-
-## ‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack
-In his first interview since Operation Sindoor last year, NSA Ajit Doval has shared details of the decisions that shaped India’s military response.
-
-## Free coaching, ₹1 lakh crore push: PM Modi’s big pitch to youth in I-Day speech days after student protests
-PM Modi said, “I want to tell the youth of the country: come forward with your dreams; we will ensure there is no shortage of resources."
-
-## ‘Imperative to identify, isolate dimaagi Naxals’: PM Modi in Independence Day speech
-PM Modi said Maoists did not believe in the Constitution and noted that thousands of security personnel and police officers had been martyred fighting the insurgency
 
 ## Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel
 China’s first online gaming billionaire has acquired the Mia Hotel in downtown Shanghai in a deal worth about 220 million yuan (US$32.6 million), becoming one of the latest investors to bet on a turnaround in the country’s long-suffering property market. Chen Tianqiao – a reclusive entrepreneur know
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Korea’s president wants talks with North to end Korean War
+South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.
+
 ## Small-scale projects offer hope for Gaza farmers rebuilding lives
 Greenhouses and rented plots are lifelines for Gaza's farmers, helping them grow crops despite the extensive destruction
 
@@ -248,9 +251,6 @@ FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping 
 
 ## What we know about the crisis aboard the USS Lincoln
 The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.
-
-## Did the US really destroy Iran’s ballistic missile capability?
-The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream".
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
