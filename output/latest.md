@@ -1,8 +1,5 @@
 # AION Intelligence
 
-## What the Lakers’ $12.5bn sale says about sports ownership
-Also in today’s newsletter: what Liverpool’s new shareholders bring and more
-
 ## Modi promises free exam coaching after India’s ‘cockroach’ protests
 Prime minister vows to ease financial pressures facing youth in independence day address
 
@@ -24,11 +21,11 @@ Reductions come as tighter visa rules and fiercer competition add to pressure on
 ## Pandemic lockdowns never ended for some people
 For too many young people, disrupted social ties have never fully recovered
 
-## How John Henry took Liverpool from crisis club to $7bn juggernaut
-US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
-
 ## How Burnham can curb Britain’s tax-dodging shops
 The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
+
+## How John Henry took Liverpool from crisis club to $7bn juggernaut
+US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
 
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
@@ -87,6 +84,15 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Wholesale inflation eases to 9.8% in July
 
 
+## Stronger ties, beautiful friendship: US, Israel, Nepal, others wish India on 80th Independence Day
+US secretary of state Marco Rubio, Israeli President Isaac Herzog and Nepal PM Balendra 'Balen' Shah were among the leaders who extended greetings to India.
+
+## Chamoli tunnel rescue: One more worker rescued, two still missing
+Rescue teams are intensively searching inside the tunnel while efforts are also underway to drain out water from the site
+
+## Meghalaya among fastest-growing states, economy more than doubled since 2018: CM on I-Day
+Meghalaya CM Conrad Sangma said the state was the 3rd fastest-growing in India over five years, with its economy more than doubling since 2018.
+
 ## Court allows CBI plea seeking further probe into NEET leak
 The order was passed by Fast-track court Special Judge Ajay Gupta, in response to an application moved by the federal agency
 
@@ -101,15 +107,6 @@ The Congress leaders have been skipping the event since 2024 due to a seating ro
 
 ## ‘May India continue to progress with strength, democracy’: CJI Surya Kant extends Independence Day greeting
 Highlighting his hopes for India's future, CJI Surya Kant added, "India, keep moving forward towards a stronger and brighter future."
-
-## CM announces ₹1.5 lakh crore infrastructure boost to make Assam developed by 2047
-Assam CM Himanta Biswa Sarma announces ₹1.5 lakh crore investment from state and Centre to boost infrastructure and make Assam a developed state by 2047.
-
-## Manipur CM stresses peace, normalcy for development on Independence Day
-With the deployment of new police vehicles, security forces can now reach far-flung places in Manipur to monitor the law and order
-
-## Watch: Jharkhand student leader Mahto clashes with police, says stopped from attending I-Day event
-A video of the incident showed a security official blocking Mahto's path while he tried to force his way out.
 
 ## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
 China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
@@ -231,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA World Cup and Olympics cited as Coe warns of politicians near sport
+World Athletics' president says political influence in sport must be kept in check with LA Olympics on horizon.
+
+## Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit
+Seven-time Grand Slam winner Venus Williams defeated 6-2, 6-2 by Emiliana Arango in the first round of Cincinnati Open.
+
+## The women India’s biggest river project forgot
+As the Ken-Betwa dam displaces thousands, legal protections on compensation are being ignored.
+
 ## Arteta assures Arsenal fans over contract before Man City clash
 Mikel Arteta, who ended Arsenal's 22-year wait for a Premier League title, says contract negotiations will be resolved.
 
@@ -245,15 +251,6 @@ Deadliest Israeli attack in Lebanon since June agreements significantly reduced 
 
 ## Moment Israeli forces storm wedding hall in occupied West Bank
 Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.
-
-## South Korea’s president wants talks with North to end Korean War
-South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.
-
-## Small-scale projects offer hope for Gaza farmers rebuilding lives
-Greenhouses and rented plots are lifelines for Gaza's farmers, helping them grow crops despite the extensive destruction
-
-## How a Sudanese refugee became a head teacher in a Chadian camp
-Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
