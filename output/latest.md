@@ -1,7 +1,28 @@
 # AION Intelligence
 
-## China keeps careful watch on mourning for late premier Zhu
-Commemoration of former leaders is politically sensitive for authorities wary of displays of public sentiment
+## China poised to lift travel ban on Manus founders
+Chief executive Xiao Hong plans to return to Singapore as AI company nears resolution of Meta separation
+
+## The experience economy is a blockbuster phenomenon
+From sports to cinema-going, live shared experiences are increasingly popular and a haven for AI-fearful investors
+
+## Geneva super-rich rocked by luxury home burglary spree
+Swiss officials say gangs from France are responsible for a recent rise in ‘homejackings’, sometimes at gunpoint
+
+## OpenAI upheaval mounts as Sam Altman readies IPO push
+Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing
+
+## UK universities offer fee discounts to overseas students in ‘pricing war’
+Reductions come as tighter visa rules and fiercer competition add to pressure on already financially strained sector
+
+## Pandemic lockdowns never ended for some people
+For too many young people, disrupted social ties have never fully recovered
+
+## How Burnham can curb Britain’s tax-dodging shops
+The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
+
+## How grandparents can help with school fees
+Private education will be much more expensive for a child starting school today than for those just graduating, so planning is key
 
 ## Burnham warns of ‘tinderbox’ Britain after week of intense heat
 PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields
@@ -15,15 +36,6 @@ US president’s business interests in office have become a political flashpoint
 ## Jane Street suffers $15bn hit after meltdown at Situational Awareness
 Secretive Wall Street trading firm wrongfooted by July AI rout
 
-## Sheinbaum slams US for revoking visa of former Mexican president’s son
-Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’
-
-## Former Cambridge professor Jason Arday found dead
-University’s youngest-ever Black professor had been under scrutiny following plagiarism allegations
-
-## US accuses more than 40 countries of helping China avoid Trump’s tariffs
-White House says Canada, Japan, EU and others enabling evasion of levies for $60bn in trade via ‘transshipment scam’
-
 ## Second UK train derails in less than 24 hours
 Incident in Essex follows derailment of train in East Sussex on Thursday
 
@@ -36,29 +48,35 @@ Group warns of disappointing full-year profit growth
 ## Biotech VCs have become like bankers and we might all pay the price
 A shift in business models conflicts with the long-term nature of developing new drugs and treatment
 
+## PM Modi addresses nation on 80th Independence Day, presents ‘Saptdharas’ to boost Viksit Bharat vision
+India aims to make five nuclear reactors operational in this decade, says Modi
+
+## Can gold recycling become India’s next circular economy success story?
+As the nation looks for new ways to sustain economic growth and resilience, gold recycling may prove to be one of the most promising cases of a circular economy in the country
+
+## India’s edible oil problem is not supply: It is policy uncertainty
+India’s edible oil challenge is a coordination problem between agricultural policy, trade policy and consumer protection
+
+## Redcliffe Labs, Skyroot take diagnostic research to space
+The maiden initiative, DRIFT-1, taken onboard Skyroot’s mission, will test Redcliffe Labs’ dry diagnostic reagents in Low Earth Orbit for 90 days, comparing performance against an identical ground control
+
+## S&P Global Ratings assigns IDFC First Bank investment grade rating
+The rating agency observed that regular capital raisings, improved profitability, and a low dividend payout should support IDFC First Bank’s capitalization
+
+## Mahindra targets doubling of lifestyle pick-up market with sub-₹20-lakh Scorpio Lifestyler
+Mahindra is betting that aggressive pricing and changing recreational lifestyles can more than double India’s lifestyle pick-up market to close to 10,000 units annually, with the Scorpio Lifestyler set to launch by April 2027 at below ₹19.79 lakh
+
 ## Southern Railways’ Chennai division crosses ₹5,000 crore earnings milestone in FY26
 The Chennai division recorded total earnings of ₹5,038.30 crores in FY26, thus registering a 9% growth over the previous year: Shailendra Singh
 
 ## Life insurance: Average annual premium per policy grew 42.6% in last 5 years in India
 An analysis of life insurance business data for FY21–FY25 compiled by the Insurance Information Bureau (IIB) of India has pointed to an encouraging shift in the country’s protection landscape
 
-## Think. Over the week
+## India’s big semiconductor push: PM Modi says 7-8 plants coming up in few years; stresses self-reliance in chips
+Looking ahead, PM Modi said an additional five to eight semiconductor plants are expected to be established over the next seven to eight years, further advancing India's journey towards Aatmanirbhar Bharat and Viksit Bharat.
 
-
-## Count of Indian students in US sees sustained drop; at 29-month low
-Decline in count due to visa delays and immigration policy changes
-
-## Ashok Leyland steps up ₹2,000 crore cost-cutting drive amid commodity pressures
-On a standalone basis, the Chennai-based auto major reported its highest-ever net profit of ₹609 crore in Q1 FY27 as against ₹594 crore in the same quarter previous year
-
-## Indian govt says buyers must lift sugar within 7 days, seeks bulk sales data by Aug 20
-Certain mills are holding stocks of sugar in excess of the quantities reported or selling less sugar than the allocated monthly quota, Food Ministry says in a new order aimed at tackling surge in prices
-
-## Shiprocket IPO receives over 99x demand on final day, Behari Lal Engineering crosses 100x
-Shares of Shiprocket and Behari Lal Engineering will list on August 19
-
-## India’s pulses acreage almost at par with last year’s level
-The areas as of August 14 was 108.14 lakh hectares compared with 108.49 lh a year ago
+## ‘No-go’ to ‘go-ahead’: PM Modi hails ‘Samudra Manthan' for deep-sea exploration in Independence Day speech
+To speed up offshore exploration, the government approved Samudra Manthan – the National Offshore Exploration Scheme on July 31, 2026. The scheme has been allocated Rs 84,084 crore for Phase I, covering the period up to FY2030-31.
 
 ## PM Modi’s Independence Day speech: Energy security demand of our times; no shortage of gas, fuel, urea
 Speaking about the country's long-term energy strategy, the Prime Minister stressed that energy security is a key national priority. He said India is working towards achieving 100 gigawatts of nuclear power capacity.
@@ -78,35 +96,29 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Claude downloads surge 30x, Gemini doubles
 
 
-## With $52.3 billion raised, FCNR(B) scheme to close a month early
+## Google Doodle honours India's 80th Independence Day with vibrant textile art
+The Google Doodle for August 15, 2026, features a colourful textile patchwork artwork that brings together traditional Indian weaving and printing techniques.
 
+## Tamil Nadu CM Vijay announces gold ring gift scheme for newborns from Sept 15
+Gold ring gift scheme for newborns at cost of ₹755.83 cr to be launched: TN CM Vijay in I-Day address
 
-## Trump admin accuses over 40 nations including India of helping China evade tariffs - what it means
-The White House report classifies more than 40 countries into three separate tiers based on their alleged role in transshipment activities. India has been placed in Tier 1, labelled "Diversified Scale Leaders", alongside Canada, the European Union, Israel, Japan, Mexico, South Korea and Taiwan.
+## ‘No-go’ to ‘go ahead’ areas: PM Modi hails ‘Samrudha Manthan’ for deep-sea exploration in Independence Day speech
+PM Modi hailed the opening of a majority of India's coastal waters for exploration under the "Samrudhha Manthan" initiative.
+
+## Semiconductor plants, energy security: PM Modi renews push for 'aatmanirbhar Bharat'
+PM Modi hailed India's semiconductor programme as a key measure towards achieving self-reliance.
+
+## UGC plans to begin course on substance abuse awareness
+The proposed two-credit, 30-hour course combines theory with practical activities focused on sensitisation, awareness and community engagement
+
+## On video: Vande Mataram kickstarts Red Fort Independence Day celebrations in a historic first
+PM Modi highlighted the significance of Vande Mataram being rendered at the Red Fort and described it as a historic moment.
+
+## 'I ask for an hour of yours': PM Modi's big appeal to youth for Census
+Prime Minister Narendra Modi, addressing the nation on Independence Day, urged the youth of the nation to actively participate in the national Census.
 
 ## Armed Naxalism dealt with, now time to isolate ‘dimaagi Naxals’: PM Modi in I-Day speech
 Armed Naxalism dealt with, now time to isolate ‘dimaagi Naxals’: PM Modi in I-Day speech
-
-## Postcards from India’s past
-From Gandhi and Bhagat Singh to workers building a new India, photographs and archives reveal how images shaped the visual story of Independence.
-
-## Yoga, films, VFX, gaming: PM Modi lays out India’s soft power strategy on I-day
-“The strength of India’s soft power is immense,” PM Modi said in his Independence Day address from the Red Fort in Delhi
-
-## PM Modi announces free online coaching for competitive exams in Independence Day speech
-PM Modi said that coaching classes are a burden on the poor and middle class.
-
-## What is PM Modi's 'Sapt Dhara' plan to achieve Viksit Bharat: Explained
-PM Modi said India must emerge as a trusted hub in global supply chains and stressed the need for Indian manufacturers to compete on cost, quality and scale.
-
-## ‘Small dreams are not sufficient anymore’: Modi’s call for Viksit Bharat by 2047
-PM Narendra Modi urged Indians to dream big and work towards making India a developed nation by 2047 as he addressed the country on its 80th Independence Day.
-
-## Tensions in Assam after BJP leader killed; accused names machete as murder weapon
-The recovery of the body triggered protests in Chagalmowa, Bazaricherra and adjoining areas, with incidents of vandalism and arson also being reported.
-
-## ‘Some enjoyed making scary predictions’: PM Modi on Covid, wars and shortage rumours in big I-day speech
-PM Narendra Modi also criticised those who, according to him, spread alarming predictions and rumours during times of crisis.
 
 ## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
 As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
@@ -228,6 +240,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Did the US really destroy Iran’s ballistic missile capability?
+The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream".
+
+## India marks 80th Independence Day with military display
+India marked its 80th Independence Day at Delhi’s historic Red Fort.
+
 ## HRW says US civil rights enforcement reduced under Trump: What to know
 A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
 
@@ -245,12 +263,6 @@ Authorities urge coastal residents to move inland or to higher ground following 
 
 ## Mangione pleads guilty as polarising CEO killing reaches new phase
 Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
-
-## Buenaventura residents criticise state neglect after Colombia’s earthquake
-Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.
-
-## Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election
-A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil's high-stakes presidential election.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
