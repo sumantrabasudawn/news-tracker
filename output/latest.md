@@ -24,6 +24,9 @@ Executive exits and safety team changes unsettle staff as the ChatGPT maker prep
 ## UK universities offer fee discounts to overseas students in ‘pricing war’
 Reductions come as tighter visa rules and fiercer competition add to pressure on already financially strained sector
 
+## Labour’s rental reforms disrupt student market and lengthen lettings process
+Renters’ Rights Act locks international students out of housing market while pushing prospective tenants into double rents
+
 ## How John Henry took Liverpool from crisis club to $7bn juggernaut
 US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
 
@@ -33,8 +36,14 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
-## Influencers are transforming travel
-Groups from Expedia to Claridge’s are working with social media
+## Tiger Global reduces big tech bets, adds AMD and SpaceX in Q2 2026
+Tiger Global reshaped its technology portfolio during the quarter, signalling changing investment preferences across leading companies in the sector.
+
+## Rajasthan Civil Code 2026 to provide uniform legal framework, says Bhajanlal Sharma
+The proposed legislation comes as Rajasthan combines legal reforms with infrastructure expansion and a broader development agenda aimed at 2047.
+
+## Who Am I? August 9, 2026
+Are you an avid investor? How well do you know corporate India?
 
 ## Assam plans ₹1.5 lakh crore infrastructure investment over next five years: Himanta
 Assam is preparing for an infrastructure-led expansion, with the government outlining major investments alongside measures aimed at improving governance and livelihoods.
@@ -50,15 +59,6 @@ India imported around 244.2 million tonne of non-coking and metallurgical coal i
 
 ## Andhra Pradesh Stree Shakti scheme records 87 crore women’s journeys in one year
 The flagship welfare initiative has significantly expanded women’s access to public transport, while boosting their mobility and reducing daily travel costs
-
-## PM Modi urges youth to dream big, highlights ₹1 lakh crore Innovation Fund
-India is seeking to deepen its innovation ecosystem by expanding access to funding, technology and opportunities for a new generation of entrepreneurs
-
-## Alibaba AI models hit 3 billion downloads, passing Meta, Google
-Open models can be downloaded, customised and used as building blocks for new AI products; that has made download and derivative-model figures one measure of influence in the US-China AI race
-
-## EaseMyTrip plunges into red, logs June quarter net loss at 11.69 cr
-EaseMyTrip had posted a net profit of ₹44.3 lakh in the corresponding year-ago period
 
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
@@ -84,6 +84,12 @@ Semiconductors sit underneath almost everything today: electronics, EVs, telecom
 ## ‘Fragile 5 to fastest growing’: PM Modi talks of India’s economic growth during Independence Day speech
 Talking about the dream to become a developed country by 2047, PM Modi said, “The world will be forced to look at India differently when the most populous country becomes a developed nation.”
 
+## Devendra Mahto stopped from Tiranga Yatra by police in Jharkhand. He protests from hospital floor | Watch
+While on a hunger strike, he insists on fighting for justice and the rights of the people despite police opposition.
+
+## Cockroach Janta Party’s Instagram account blocked for two hours
+Meta did not respond to queries on why the account was inaccessible in India. This is the second time the CJP’s Instagram account has been blocked in India
+
 ## ‘How can any kid use this?’: Dipke flags dirty toilets at govt school in his native Maharashtra village
 The CJP convenor was in his native village in Hingoli for the flag hoisting ceremony on Independence Day and the launch of ‘School Thik Karo’ campaign.
 
@@ -101,12 +107,6 @@ Speaking to Hindustan Times, a 17-year-old alleged sexual harassment during a bi
 
 ## BJP accuses Sonia Gandhi of unease during Vande Mataram at Independence Day event, Congress reacts
 BJP accuses Sonia Gandhi of trying to stop 'Vande Mataram' at Independence Day event. Congress denies the charge.
-
-## Govt’s free coaching move gains educator backing as PW’s Alakh Pandey says 'appreciate PM Modi's promise'
-After PM Modi's announcement of online coaching for various competitive exams, PW's Alakh Pandey showed his support for the initiative in a post on X.
-
-## Naga peace talks elevated to ministerial level, says CM Rio; students skip I-Day
-Nagaland CM Neiphiu Rio said MHA has formed a ministerial-level panel to lead Naga peace talks, while students skipped I-Day events over Vande Mataram.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
+Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
+
+## Modi threatens to target ‘intellectual Naxals’ in Independence Day speech
+The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.
+
+## Aftermath of deadly Indonesia earthquake
+Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.
+
+## Japanese minister visits shrine to war dead, angering China, South Korea
+Defence Minister Koizumi's visit to Yasukuni Shrine comes on the 81st anniversary of Japan's surrender in WWII.
+
+## What the Taliban achieved and failed to achieve in five years
+The Taliban government brought security and stability but is facing increasing alienation of the general population.
+
 ## World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona
-The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five year deal.
+The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five-year deal.
 
 ## Arsenal vs Manchester City: Community Shield – prediction, lineups, teams
 Premier League winners Arsenal and FA Cup holders Man City prepare to trade blows as English top-flight season nears.
 
 ## At scene of deadly Israeli strike on Lebanon home
 An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
-
-## Bangladesh rock Australia as historic Test win in sight
-Australia close Day Three of the first Test against Bangladesh on 161-4, trailing the record-chasing tourists by 67.
-
-## FIFA World Cup and Olympics cited as Coe warns of politicians near sport
-World Athletics' president says political influence in sport must be kept in check with LA Olympics on horizon.
-
-## Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit
-Seven-time Grand Slam winner Venus Williams defeated 6-2, 6-2 by Emiliana Arango in the first round of Cincinnati Open.
-
-## The women India’s biggest river project forgot
-As the Ken-Betwa dam displaces thousands, legal protections on compensation are being ignored.
-
-## Arteta assures Arsenal fans over contract before Man City clash
-Mikel Arteta, who ended Arsenal's 22-year wait for a Premier League title, says contract negotiations will be resolved.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
