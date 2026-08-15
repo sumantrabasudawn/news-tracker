@@ -84,6 +84,12 @@ Fresh coriander, which neighbourhood vegetable vendors routinely tucked into sho
 ## Gold price prediction: Will gold price rally now face profit booking? Check August 14, 2026 outlook
 MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.
 
+## Independence Day 2026 LIVE: India all set to mark 80th year of freedom, PM Modi to address nation from Red Fort
+Independence Day 2026 LIVE: Celebrations will feature ceremonial proceedings, with this year’s programme also putting the spotlight on 150 years of Vande Mataram. PM Narendra Modi will deliver the Independence Day speech from Red Fort today.
+
+## Weather Bee: Dry second week of August erased monsoon gains from the first week
+India monsoon: Dry second week of August erased gains from the first week, pushing the cumulative rainfall deficit back to 10.5%, IMD data shows.
+
 ## Catholic body urges govt to withdraw FCRA bill
 Catholic body urges govt to withdraw FCRA bill
 
@@ -102,11 +108,8 @@ As India marks its 80th Independence Day, the story of Partition remains insepar
 ## MPD-47 floats ‘congestion pricing’ for vehicles entering key city areas
 Delhi's Master Plan 2047 proposes congestion pricing to manage traffic, requiring further policy development by the government and collaboration among agencies.
 
-## Lok Sabha Secretariat seeks Rahul Gandhi’s response to privilege notices over Amit Shah remarks by August 28
-The notice by BJP's Thakur alleged alleged that Rahul Gandhi levelled "grave allegations" against Amit Shah without giving advance notice under Rule 353.
-
-## Maharashtra FDA suspends licences of multiple facilities linked to Blinkit, Zepto, Instamart over food safety violations
-The regulator directed food business operators selling and delivering food through online platforms to strictly comply with prescribed standards.
+## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
+As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
 
 ## Reduce your exposure to US assets before they lose value, Pictet warns investors
 Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
@@ -128,9 +131,6 @@ While Chinese investors faced down long odds for a stake in Unitree Robotics ami
 
 ## EQT offers clients diversified wealth strategies to meet demand for new opportunities
 EQT – one of the world’s largest private markets firms – is taking steps to extend its expertise and institutional-quality access to a wider range of eligible clients. In practice, this means working with wealth industry partners to give sophisticated individual investors similar opportunities to th
-
-## China’s Central Asia push
-–
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election
+A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil's high-stakes presidential election.
+
+## UN urges support for Afghan women’s aid five years into Taliban rule
+More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.
+
+## Families angered by slow search for loved ones after Colombia quake
+Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.
+
+## Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’
+US President Trump says that 'pretty soon' he will declare the Strait of Hormuz a US territory once Iran is defeated.
+
 ## Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal
 Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.
 
@@ -239,18 +251,6 @@ Hostilities are rising between Iran-backed Houthis and Yemen's internationally r
 
 ## Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
 Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
-
-## Wildfires rage across Europe as heatwaves drive record temperatures
-Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.
-
-## Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
-Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
-
-## Trump dismisses mental health concerns on USS Lincoln aircraft carrier
-Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.
-
-## Mount Etna eruption and volcanic ash shut Sicily’s busiest airport
-Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
