@@ -39,29 +39,32 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
-## Agastya Energy announces ₹7,800 cr expansion into integrated ingot, wafer manufacturing
+## Freedom to invest with balance sheet strongest in many years
+India Inc’s long-term earnings growth will depend on how it puts to use its new-found freedom
+
+## Tech Query: Muthoot Finance, Bajaj Housing Finance, Utkarsh Small Finance Bank, Vikram Solar- What is the outlook? Where are these stocks headed?
+We look at the prospects of Muthoot Finance, Bajaj Housing Finance, Utkarsh Small Finance Bank and Vikram Solar
+
+## Motilal Oswal Small Cap, Bank of India Small Cap, Parag Parikh Flexi Cap, Helios Flexi Cap: Flat Nifty, Divided Fortunes: The Two-Year Tale of Equity Fund Winners and Losers
+Two-year performance reveals how market rotations, drawdown protection and stock selection sharply separated equity fund winners from laggards
+
+## Parag Parikh Flexi Cap Fund: Should you invest despite recent underperformance?
+FUND CALL Recent underperformance masks a strong long-term record, but massive scale is reshaping the ₹1.48 lakh crore fund’s opportunity set
+
+## How new RBI rules shield borrowers in default
+BORROW SAFE Sweeping loan recovery guidelines will protect retail customers from January 2027
+
+## F&O Tracker: Support holds
+Nifty futures and Nifty Bank futures are likely to bounce off the base nearby
+
+## Insurance Query: How to provide structured payout options to nominees
+Today, products are designed not just to pay out, but to protect
+
+## F&O Strategy: Buy ITC put option
 
 
-## India Inc throws up a pleasant surprise in Q1 as compared to gloom at the start of the quarter
-Strong revenue growth and sectoral momentum offset the drag from higher input costs
-
-## AIIMS Delhi debars two medical suppliers over defective syringes, suction sets
-Repeated complaints from doctors and staff prompted AIIMS Delhi to examine supplies used across critical departments, including operation theatres and emergency care
-
-## Indian semiconductor startup Aheesa achieves first-pass success with VIHAAN chip
-The milestone strengthens India’s chip-design push as government-backed startups expand indigenous capabilities across telecom, defence, automotive and emerging technologies
-
-## PhonePe widens lead as UPI transactions climb to 23.66 billion in July
-Paytm remained the third-largest player. Its monthly transaction count increased to 1.90 billion from 1.80 billion in June
-
-## Tier-2, Tier-3 cities account for 53% of India's forex demand: Report
-Tier-2 cities contributed 41%, while Tier-3 cities accounted for another 12%
-
-## Reliance, Rolls-Royce team up for India’s advanced fighter jet engine programme
-The proposed collaboration comes as India seeks greater self-reliance in defence technology and prepares to develop next-generation twin-engine combat aircraft
-
-## Belrise Industries eyes expansion after ₹1,700-crore QIP, Hyva deal; Q1 PAT rises 9%
-Auto-component maker Belrise Industries is stepping up its expansion drive after raising ₹1,700 crore through a QIP in July and acquiring Hyva India’s tipper business, as it looks to broaden its portfolio into larger vehicle systems, EV localisation and non-auto businesses including renewable energy
+## India’s forex demand shifts beyond metros as tier-2, tier-3 cities take 53% share
+Emerging from the shadows of larger cities, smaller Indian towns now contribute to over 50% of foreign exchange demand. The appetite for leisure travel fuels this growth, with travelers aged 25 to 40 at the forefront. The US dollar continues to dominate as the most preferred currency, while digital 
 
 ## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
 The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
@@ -84,8 +87,17 @@ Looking ahead, PM Modi said an additional five to eight semiconductor plants are
 ## ‘No-go’ to ‘go-ahead’: PM Modi hails ‘Samudra Manthan' for deep-sea exploration in Independence Day speech
 To speed up offshore exploration, the government approved Samudra Manthan – the National Offshore Exploration Scheme on July 31, 2026. The scheme has been allocated Rs 84,084 crore for Phase I, covering the period up to FY2030-31.
 
-## PM Modi’s Independence Day speech: Energy security demand of our times; no shortage of gas, fuel, urea
-Speaking about the country's long-term energy strategy, the Prime Minister stressed that energy security is a key national priority. He said India is working towards achieving 100 gigawatts of nuclear power capacity.
+## ‘His health is priority’: Jharkhand Congress leader defends police stopping Mahto from Tiranga Yatra
+Jharkhand Congress leader Kumar Raja accused the BJP of trying to politicise the issue and said the party was “playing politics over dead bodies”.
+
+## ‘Sincerely regret, apologise’: Bar Council chief to students after CJI Kant's rap amid NALSAR row
+“If anything connected with the controversy has hurt the feelings of our students, I sincerely apologise," Bar Council Chairman Manan Kumar Mishra said.
+
+## 'Zameen, aasmaan, paatal, jahan bhi ho': Doval recalls PM Modi's Operation Sindoor order
+The top security official made the comments in the upcoming Discovery docuseries “Declassified: Operation Sindoor”.
+
+## Pregnant Odisha woman found dead in Andhra Pradesh; lover among two arrested
+Albina Garada, from Odisha's Koraput, was missing. Her body was recovered in Andhra Pradesh with investigations revealing her alleged lover as the murderer.
 
 ## Bengaluru engineer hits wife, smothers her with pillow, then dies by suicide
 According to preliminary information, an argument between the two reportedly turned violent.
@@ -98,18 +110,6 @@ The ruling came in the case of a Surat fruit trader, who had opted for the presu
 
 ## SIM card smuggling, counterfeit currency notes: 3 arrested in West Bengal over suspected Pakistan-based ISI links
 An official said on Saturday that the three accused were arrested for their alleged involvement in espionage activities linked to Pakistan’s ISI.
-
-## Telangana CM Reddy accuses BRS leaders of ‘occult practices’ against Congress government
-Telangana CM Reddy accused BRS leaders of ‘performing occult rituals’ to undermine Congress, demanding transparency about temple visits and alleged black magic.
-
-## Odisha teacher dies as iron flagpole touches power line before I-Day celebrations: Cop
-Inspector-in-charge of Simulia police station, Debraj Jena said prima facie it appeared to be a case of accident
-
-## ‘Ask the mother who the father is’: Tamil Nadu BJP chief’s remark on CM Vijay sparks row
-BJP leader Nainar Nagendran sparked controversy by targeting Chief Minister Vijay's mother, leading to criticism from political leaders.
-
-## From ‘mere pyare deshwasiyon’ to 50+ references to youth: How PM Modi addressed nation in Independence Day speech
-'Mere pyare deshwasiyon' was the most preferred address used by Prime Minister Narendra Modi in his Independence Day address on Saturday.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ukraine hits Russian Starlink-style network, Moscow tracks arms package
+Ukraine used domestically produced Flamingo missiles to hit targets in Russia's southwestern Samara region.
+
+## Israeli settlers besiege Palestinian families in occupied West Bank
+Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.
+
 ## Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests
 A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.
 
@@ -248,12 +254,6 @@ Dr Jason Arday has been found dead days after resigning from Cambridge Universit
 
 ## Vienna woman sues city for discrimination over toilet fees
 An Austrian activist in Vienna is challenging the city over public toilet fees.
-
-## Five wounded in shooting at Virginia State University, multiple suspects
-Police found the gunshot victims near the US university's halls of residence.
-
-## Five years on, how will Taliban deal with armed opposition?
-The United Nations says armed groups opposed to the government remain active.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
