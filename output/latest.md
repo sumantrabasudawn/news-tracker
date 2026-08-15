@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## South Korea’s inverse correlation
+Kospi down, won up
+
+## What the Lakers’ $12.5bn sale says about sports ownership
+Also in today’s newsletter: what Liverpool’s new shareholders bring and more
+
 ## Modi promises free exam coaching after India’s ‘cockroach’ protests
 Prime minister vows to ease financial pressures facing youth in independence day address
 
@@ -18,23 +24,23 @@ Executive exits and safety team changes unsettle staff as the ChatGPT maker prep
 ## UK universities offer fee discounts to overseas students in ‘pricing war’
 Reductions come as tighter visa rules and fiercer competition add to pressure on already financially strained sector
 
-## Pandemic lockdowns never ended for some people
-For too many young people, disrupted social ties have never fully recovered
+## How John Henry took Liverpool from crisis club to $7bn juggernaut
+US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
 
 ## How Burnham can curb Britain’s tax-dodging shops
 The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
-
-## What the Lakers’ $12.5bn sale says about sports ownership
-Also in today’s newsletter: what Liverpool’s new shareholders bring and more
-
-## How John Henry took Liverpool from crisis club to $7bn juggernaut
-US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
 
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
 ## Influencers are transforming travel
 Groups from Expedia to Claridge’s are working with social media
+
+## PM Modi urges youth to dream big, highlights ₹1 lakh crore Innovation Fund
+India is seeking to deepen its innovation ecosystem by expanding access to funding, technology and opportunities for a new generation of entrepreneurs
+
+## Alibaba AI models hit 3 billion downloads, passing Meta, Google
+Open models can be downloaded, customised and used as building blocks for new AI products; that has made download and derivative-model figures one measure of influence in the US-China AI race
 
 ## EaseMyTrip plunges into red, logs June quarter net loss at 11.69 cr
 EaseMyTrip had posted a net profit of ₹44.3 lakh in the corresponding year-ago period
@@ -53,12 +59,6 @@ CM Vijay says that the State government was cooperating with the Centre on admin
 
 ## India Inc hails PM's growth vision, backs self-reliance push
 Industry shares the prime minister's resolve to build on this momentum and is ready to match it with sustained investment in areas of strategic importance, Chandrajit Banerjee stated
-
-## Department of Atomic Energy releases draft rules of SHANTI Act
-Draft rules state that financial security for nuclear damage has to remain in place till the removal of all spent fuel from the storage pool concerned
-
-## CJP’s Dipke launches 'School Thik Karo' campaign, alleges govt neglect; seeks capping of fees at pvt schools
-CJP to also undertake a similar movement regarding poor health conditions at public hospitals
 
 ## Why India's GCC boom is facing a talent problem — and what companies want next
 Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge. GCCs need to significantly increase inve
@@ -84,6 +84,15 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## FMCG companies see recovery in consumption growth
 
 
+## Govt’s free coaching move gains educator backing as PW’s Alakh Pandey says 'appreciate PM Modi's promise'
+After PM Modi's announcement of online coaching for various competitive exams, PW's Alakh Pandey showed his support for the initiative in a post on X.
+
+## Naga peace talks elevated to ministerial level, says CM Rio; students skip I-Day
+Nagaland CM Neiphiu Rio said MHA has formed a ministerial-level panel to lead Naga peace talks, while students skipped I-Day events over Vande Mataram.
+
+## ‘A person like me…’: What Maharashtra FDA chief Tukaram Mundhe said on joining electoral politics
+Since Mundhe took charge as the Maharashtra FDA chief, the agency has conducted raids and taking action against several popular eateries and retailers.
+
 ## Baba Ramdev's throws surprise demand for educational reforms, threatens to go on protest
 Ramdev alleged that most of the times, interviews for government jobs are ‘fraudulent' as he alleged massive corruption.
 
@@ -98,15 +107,6 @@ The Tamil Nadu chief minister reiterated his government's commitment to uproot c
 
 ## Clash between police and protesters in Haryana on Independence Day triggers unrest
 The protest is linked to anger among farmers and khap organisations over the recent killing of dairy operator Jeevan Kundu.
-
-## Mahua Moitra writes to LS speaker after being asked to vacate circuit house at night
-TMC MP Mahua Moitra seeks Lok Sabha Speaker Om Birla’s intervention after she was allegedly asked to vacate a circuit house in Bengal late at night.
-
-## ‘Under-confident, shaky, nervous’: PM Modi's speech fumble, ‘dimaagi Naxal’ dig trigger Oppn attack, Congress reacts
-Sharing the part of the video on social media, Congress leader Pawan Khera wrote, “Superhuman without teleprompter (Mahamanav bina teleprompter ke).”
-
-## Stronger ties, beautiful friendship: US, Israel, Nepal, others wish India on 80th Independence Day
-US secretary of state Marco Rubio, Israeli President Isaac Herzog and Nepal PM Balendra 'Balen' Shah were among the leaders who extended greetings to India.
 
 ## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
 China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
