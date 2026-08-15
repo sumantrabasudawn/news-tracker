@@ -243,7 +243,7 @@ The federal wildland firefighting workforce, faced with low pay and cost of livi
 ## Canadian petition to expel US ambassador gains over 170,000 signatures
 The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
 
-## Moroccan Police Intercept Migrants Heading for Ceuta Enclave
+## Moroccan police intercept migrants heading for Ceuta enclave
 Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.
 
 ## Moroccan police arrest over 100 migrants trying to reach Spanish enclave
