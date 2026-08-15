@@ -48,8 +48,14 @@ Group warns of disappointing full-year profit growth
 ## Biotech VCs have become like bankers and we might all pay the price
 A shift in business models conflicts with the long-term nature of developing new drugs and treatment
 
+## PM Modi announces free online coaching, AI training for youths
+The announcement is significant for students and job aspirants who depend on coaching to prepare for competitive examinations and other career opportunities
+
 ## PM Modi addresses nation on 80th Independence Day, presents ‘Saptdharas’ to boost Viksit Bharat vision
 India aims to make five nuclear reactors operational in this decade, says Modi
+
+## Why warehousing needs for sugar are different, and how best it can be catered to
+Those who make the shift to preservation specialists will protect the commodity’s value and position themselves as indispensable partners in a supply chain increasingly demanding accountability at every node
 
 ## Can gold recycling become India’s next circular economy success story?
 As the nation looks for new ways to sustain economic growth and resilience, gold recycling may prove to be one of the most promising cases of a circular economy in the country
@@ -65,12 +71,6 @@ The rating agency observed that regular capital raisings, improved profitability
 
 ## Mahindra targets doubling of lifestyle pick-up market with sub-₹20-lakh Scorpio Lifestyler
 Mahindra is betting that aggressive pricing and changing recreational lifestyles can more than double India’s lifestyle pick-up market to close to 10,000 units annually, with the Scorpio Lifestyler set to launch by April 2027 at below ₹19.79 lakh
-
-## Southern Railways’ Chennai division crosses ₹5,000 crore earnings milestone in FY26
-The Chennai division recorded total earnings of ₹5,038.30 crores in FY26, thus registering a 9% growth over the previous year: Shailendra Singh
-
-## Life insurance: Average annual premium per policy grew 42.6% in last 5 years in India
-An analysis of life insurance business data for FY21–FY25 compiled by the Insurance Information Bureau (IIB) of India has pointed to an encouraging shift in the country’s protection landscape
 
 ## India’s big semiconductor push: PM Modi says 7-8 plants coming up in few years; stresses self-reliance in chips
 Looking ahead, PM Modi said an additional five to eight semiconductor plants are expected to be established over the next seven to eight years, further advancing India's journey towards Aatmanirbhar Bharat and Viksit Bharat.
@@ -96,29 +96,29 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Claude downloads surge 30x, Gemini doubles
 
 
+## Modi lists blue, green economy as saptadhara; pushes for deep-sea explorations
+The Union Cabinet on July 31 approved the Samudra Manthan (National Offshore Exploration) Scheme with a budget of ₹84,084 crore
+
+## PM Modi stresses on energy resilience and ‘Samudra manthan’ project amid US-Iran war in Independence Day speech
+PM Modi said India needed to strengthen domestic capacity in critical areas, including energy and minerals, as dependence on external sources became vulnerable.
+
+## PM Narendra Modi announces free coaching classes and AI training for youth
+PM Modi said that the government will establish a network for providing free online coaching to students by bringing together digital public infrastructure, teachers and educators
+
+## Indian Army to get kamikaze drones worth ₹1,577 crore amid push to be ‘global hub’
+Given the growing impact of these systems on military operations, the drone purchases have been made under the ‘Buy Indian’ scheme.
+
 ## Google Doodle honours India's 80th Independence Day with vibrant textile art
 The Google Doodle for August 15, 2026, features a colourful textile patchwork artwork that brings together traditional Indian weaving and printing techniques.
 
 ## Tamil Nadu CM Vijay announces gold ring gift scheme for newborns from Sept 15
-Gold ring gift scheme for newborns at cost of ₹755.83 cr to be launched: TN CM Vijay in I-Day address
+CM Vijay announced that a gold ring gift scheme for newborns, with an estimated cost of ₹755.83 crore, will be launched in Tamil Nadu.
 
 ## ‘No-go’ to ‘go ahead’ areas: PM Modi hails ‘Samrudha Manthan’ for deep-sea exploration in Independence Day speech
 PM Modi hailed the opening of a majority of India's coastal waters for exploration under the "Samrudhha Manthan" initiative.
 
 ## Semiconductor plants, energy security: PM Modi renews push for 'aatmanirbhar Bharat'
 PM Modi hailed India's semiconductor programme as a key measure towards achieving self-reliance.
-
-## UGC plans to begin course on substance abuse awareness
-The proposed two-credit, 30-hour course combines theory with practical activities focused on sensitisation, awareness and community engagement
-
-## On video: Vande Mataram kickstarts Red Fort Independence Day celebrations in a historic first
-PM Modi highlighted the significance of Vande Mataram being rendered at the Red Fort and described it as a historic moment.
-
-## 'I ask for an hour of yours': PM Modi's big appeal to youth for Census
-Prime Minister Narendra Modi, addressing the nation on Independence Day, urged the youth of the nation to actively participate in the national Census.
-
-## Armed Naxalism dealt with, now time to isolate ‘dimaagi Naxals’: PM Modi in I-Day speech
-Armed Naxalism dealt with, now time to isolate ‘dimaagi Naxals’: PM Modi in I-Day speech
 
 ## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
 As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
@@ -240,6 +240,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran says no decision yet on a return to talks with the US
+FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.
+
+## What we know about the crisis aboard the USS Lincoln
+The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.
+
 ## Did the US really destroy Iran’s ballistic missile capability?
 The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream".
 
@@ -257,12 +263,6 @@ As detainees granted 'alternative' to imprisonment, US welcomes release as cruci
 
 ## 7.7-magnitude earthquake strikes eastern Indonesia
 A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.
-
-## At least two killed as magnitude 7.7 quake hits Indonesia
-Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.
-
-## Mangione pleads guilty as polarising CEO killing reaches new phase
-Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
