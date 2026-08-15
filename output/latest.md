@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US aircraft carrier furore is emblem of growing disquiet over Iran war
+Reports of poor conditions aboard the USS Abraham Lincoln coincide with depleting stocks of both weapons and voter support
+
+## Ukraine left exposed as Patriot launchers run empty
+Kyiv’s military momentum at risk as dwindling interceptor stocks leave it vulnerable to Russia’s winter campaign
+
 ## Burnham calls for ‘reflection’ over death of Jason Arday
 Family of Cambridge’s youngest-ever Black professor say ‘campaign of misinformation’ was ‘too much’
 
@@ -18,14 +24,11 @@ Prime minister vows to ease financial pressures facing youth in independence day
 ## China poised to lift travel ban on Manus founders
 Chief executive Xiao Hong plans to return to Singapore as AI company nears resolution of Meta separation
 
-## The experience economy is a blockbuster phenomenon
-From sports to cinema-going, live shared experiences are increasingly popular and a haven for AI-fearful investors
-
-## Geneva super-rich rocked by luxury home burglary spree
-Swiss officials say gangs from France are responsible for a recent rise in ‘homejackings’, sometimes at gunpoint
-
 ## How John Henry took Liverpool from crisis club to $7bn juggernaut
 US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
+
+## The experience economy is a blockbuster phenomenon
+From sports to cinema-going, live shared experiences are increasingly popular and a haven for AI-fearful investors
 
 ## OpenAI upheaval mounts as Sam Altman readies IPO push
 Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing
@@ -36,6 +39,21 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
+## AIIMS Delhi debarres two medical suppliers over defective syringes, suction sets
+Repeated complaints from doctors and staff prompted AIIMS Delhi to examine supplies used across critical departments, including operation theatres and emergency care
+
+## Belrise Industries eyes expansion after ₹1,700-crore QIP, Hyva deal; Q1 PAT rises 9%
+Auto-component maker Belrise Industries is stepping up its expansion drive after raising ₹1,700 crore through a QIP in July and acquiring Hyva India’s tipper business, as it looks to broaden its portfolio into larger vehicle systems, EV localisation and non-auto businesses including renewable energy
+
+## Mutual Funds returns
+As on : Aug 15, 2026
+
+## Tata Trusts’ governance dispute raises concerns ahead of Tata Sons’ AGM
+
+
+## Indian textile makers face margin pressure from higher wages and raw material costs
+Higher labour costs and rising cotton, yarn and petrochemical prices are forcing textile makers to absorb inflation and rethink expansion plans
+
 ## Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast
 How is India navigating crude oil volatility, a weakening rupee, and foreign capital outflows?
 
@@ -44,21 +62,6 @@ Why global investors still can’t ignore India.
 
 ## PM Modi invokes ‘Shakti ki Saptdharas’ to boost Viksit Bharat vision
 India aims to make five nuclear reactors operational in this decade, says PM Modi
-
-## Scorpio Lifestyler to be launched by April 2027; starting price below ₹19.79 lakh ex-showroom
-The Scorpio Lifestyler is set to make its debut by April 2027, with India prices starting below ₹19.79 lakh ex-showroom
-
-## Red Sea crisis enters 1,000th day as shipping detour continues to squeeze trade
-MSME exporters have borne the brunt, particularly those dealing in low-margin products such as textiles, garments, engineering goods, chemicals, leather, carpets, rice, spices, grapes and marine products
-
-## Andhra Pradesh sends 29 best teachers to Finland for global education training
-The initiative aims to expose government-school educators to international practices that can be adapted to strengthen classroom learning across Andhra Pradesh
-
-## Tiger Global reduces big tech bets, adds AMD and SpaceX in Q2 2026
-Tiger Global reshaped its technology portfolio during the quarter, signalling changing investment preferences across leading companies in the sector.
-
-## Rajasthan Civil Code 2026 to provide uniform legal framework, says Bhajanlal Sharma
-The proposed legislation comes as Rajasthan combines legal reforms with infrastructure expansion and a broader development agenda aimed at 2047.
 
 ## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
 The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
@@ -84,6 +87,12 @@ To speed up offshore exploration, the government approved Samudra Manthan – th
 ## PM Modi’s Independence Day speech: Energy security demand of our times; no shortage of gas, fuel, urea
 Speaking about the country's long-term energy strategy, the Prime Minister stressed that energy security is a key national priority. He said India is working towards achieving 100 gigawatts of nuclear power capacity.
 
+## Telangana CM Reddy accuses BRS leaders of ‘occult practices’ against Congress government
+Telangana CM Reddy accused BRS leaders of ‘performing occult rituals’ to undermine Congress, demanding transparency about temple visits and alleged black magic.
+
+## Odisha teacher dies as iron flagpole touches power line before I-Day celebrations: Cop
+Inspector-in-charge of Simulia police station, Debraj Jena said prima facie it appeared to be a case of accident
+
 ## ‘Ask the mother who the father is’: Tamil Nadu BJP chief’s remark on CM Vijay sparks row
 BJP leader Nainar Nagendran sparked controversy by targeting Chief Minister Vijay's mother, leading to criticism from political leaders.
 
@@ -101,12 +110,6 @@ While on a hunger strike, he insists on fighting for justice and the rights of t
 
 ## Cockroach Janta Party’s Instagram account blocked for two hours
 Meta did not respond to queries on why the account was inaccessible in India. This is the second time the CJP’s Instagram account has been blocked in India
-
-## ‘How can any kid use this?’: Dipke flags dirty toilets at govt school in his native Maharashtra village
-The CJP convenor was in his native village in Hingoli for the flag hoisting ceremony on Independence Day and the launch of ‘School Thik Karo’ campaign.
-
-## ‘Multiple boyfriends or girlfriends’: Baba Ramdev says many Gen Zs doing well, flags concerns
-Baba Ramdev said that not all young people should be viewed through the same lens, pointing out that many members of Gen Z are doing well.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
@@ -228,7 +231,16 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Five wounded in shooting at Virginia State University
+## Afghans mark five years of Taliban rule
+Afghans have gathered in Kabul to mark five years since the Taliban returned to power.
+
+## Black professor at centre of Cambridge plagiarism row found dead
+Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.
+
+## Vienna woman sues city for discrimination over toilet fees
+An Austrian activist in Vienna is challenging the city over public toilet fees.
+
+## Five wounded in shooting at Virginia State University, multiple suspects
 Police found the gunshot victims near the university's residence halls.
 
 ## Five years on, how will Taliban deal with armed opposition?
@@ -242,15 +254,6 @@ Taiwan has long prepared for a Chinese military invasion but wars in Iran and Uk
 
 ## Modi threatens to target ‘intellectual Naxals’ in Independence Day speech
 The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.
-
-## Aftermath of deadly Indonesia earthquake
-Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.
-
-## Japanese minister visits shrine to war dead, angering China, South Korea
-Defence Minister Koizumi's visit to Yasukuni Shrine comes on the 81st anniversary of Japan's surrender in WWII.
-
-## What the Taliban achieved and failed to achieve in five years
-The Taliban government brought security and stability but is facing increasing alienation of the general population.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
