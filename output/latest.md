@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## China keeps careful watch on mourning for late premier Zhu
+Commemoration of former leaders is politically sensitive for authorities wary of displays of public sentiment
+
 ## Burnham warns of ‘tinderbox’ Britain after week of intense heat
 PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields
 
 ## Nvidia discloses $21bn stake in SpaceX
 Filing comes after Elon Musk announced exclusive arrangement to kit out its data centres
 
-## Trump family’s crypto venture granted conditional approval for bank licence
-Move by regulator to comes as president’s business interests in sector become a political flashpoint
+## Trump administration grants banking licence to Trump family crypto venture
+US president’s business interests in office have become a political flashpoint
 
 ## Jane Street suffers $15bn hit after meltdown at Situational Awareness
 Secretive Wall Street trading firm wrongfooted by July AI rout
@@ -21,9 +24,6 @@ University’s youngest-ever Black professor had been under scrutiny following p
 ## US accuses more than 40 countries of helping China avoid Trump’s tariffs
 White House says Canada, Japan, EU and others enabling evasion of levies for $60bn in trade via ‘transshipment scam’
 
-## Americans sour on Trump’s economy as affordability strains intensify
-Consumer sentiment and retail sales fall as the war in Iran worsens cost of living pressures
-
 ## Second UK train derails in less than 24 hours
 Incident in Essex follows derailment of train in East Sussex on Thursday
 
@@ -35,6 +35,15 @@ Group warns of disappointing full-year profit growth
 
 ## Biotech VCs have become like bankers and we might all pay the price
 A shift in business models conflicts with the long-term nature of developing new drugs and treatment
+
+## Southern Railways’ Chennai division crosses ₹5,000 crore earnings milestone in FY26
+The Chennai division recorded total earnings of ₹5,038.30 crores in FY26, thus registering a 9% growth over the previous year: Shailendra Singh
+
+## Life insurance: Average annual premium per policy grew 42.6% in last 5 years in India
+An analysis of life insurance business data for FY21–FY25 compiled by the Insurance Information Bureau (IIB) of India has pointed to an encouraging shift in the country’s protection landscape
+
+## Think. Over the week
+
 
 ## Count of Indian students in US sees sustained drop; at 29-month low
 Decline in count due to visa delays and immigration policy changes
@@ -51,17 +60,14 @@ Shares of Shiprocket and Behari Lal Engineering will list on August 19
 ## India’s pulses acreage almost at par with last year’s level
 The areas as of August 14 was 108.14 lakh hectares compared with 108.49 lh a year ago
 
-## I&B Ministry scraps 12 min ad duration cap for television channels to ensure level playing field
-The decision will come into effect from the date of notification of the amendment in the Cable Television Networks Rules, 1994 in the Gazette
-
-## ‘Gold can become a key pillar of India’s growth story’
-After an exceptional rally for the last two years and early 2026, gold prices moderated in Q2, though they remained elevated by 59% year-on-year
-
-## The Great Transshipment Scam: US report names India in alleged China tariff-evasion network
-MEA says India was studying the White House’s report and violations, if any, will be dealt with under law
+## PM Modi’s Independence Day speech: Energy security demand of our times; no shortage of gas, fuel, urea
+Speaking about the country's long-term energy strategy, the Prime Minister stressed that energy security is a key national priority. He said India is working towards achieving 100 gigawatts of nuclear power capacity.
 
 ## India's big chip ambition: Can it become the world's next semiconductor hub?
 Semiconductors sit underneath almost everything today: electronics, EVs, telecom, AI, data centres, defence, manufacturing. So having a self-reliant semiconductor ecosystem is an absolute necessity in the current globally uncertain economic and geopolitical environment.
+
+## ‘Fragile 5 to fastest growing’: PM Modi talks of India’s economic growth during Independence Day speech
+Talking about the dream to become a developed country by 2047, PM Modi said, “The world will be forced to look at India differently when the most populous country becomes a developed nation.”
 
 ## FMCG companies see recovery in consumption growth
 
@@ -78,35 +84,29 @@ Semiconductors sit underneath almost everything today: electronics, EVs, telecom
 ## Trump admin accuses over 40 nations including India of helping China evade tariffs - what it means
 The White House report classifies more than 40 countries into three separate tiers based on their alleged role in transshipment activities. India has been placed in Tier 1, labelled "Diversified Scale Leaders", alongside Canada, the European Union, Israel, Japan, Mexico, South Korea and Taiwan.
 
-## US stock market today: Wall Street drifts near record highs; economic data in focus
-The bond market was largely steady after government data showed that consumer spending at US retailers declined from the previous month. The reading caught economists off guard, as they had expected retail sales to post another monthly increase.
+## Armed Naxalism dealt with, now time to isolate ‘dimaagi Naxals’: PM Modi in I-Day speech
+Armed Naxalism dealt with, now time to isolate ‘dimaagi Naxals’: PM Modi in I-Day speech
 
-## India's forex reserves climb to $707 billion, rise $14.1 billion in a week
-India's foreign exchange reserves jumped a notable $14.136 billion, reaching a total of $707.002 billion for the week ending August 7. This surge was largely driven by a $9.946 billion rise in foreign currency assets, complemented by a $3.995 billion increase in gold reserves. These noteworthy gains
+## Postcards from India’s past
+From Gandhi and Bhagat Singh to workers building a new India, photographs and archives reveal how images shaped the visual story of Independence.
 
-## PM Modi delivers 13th Independence day speech as India marks 79 years of freedom
-Prime Minister Narendra Modi addresses the nation on the 80th Independence Day.
+## Yoga, films, VFX, gaming: PM Modi lays out India’s soft power strategy on I-day
+“The strength of India’s soft power is immense,” PM Modi said in his Independence Day address from the Red Fort in Delhi
 
-## CJP claims Instagram account restored after being taken down, Abhijeet Dipke calls out 'bloody cowards'
-The CJP said on X that Meta had removed the movement’s Instagram handle, but the party later managed to regain access to the account.
+## PM Modi announces free online coaching for competitive exams in Independence Day speech
+PM Modi said that coaching classes are a burden on the poor and middle class.
 
-## 7 killed, 3 trapped after under-construction tunnel in Uttarakhand's Chamoli collapses
-Of the 22 workers on shift when the incident occurred around 7pm on Thursday, 19 have been brought out — seven of them declared dead.
+## What is PM Modi's 'Sapt Dhara' plan to achieve Viksit Bharat: Explained
+PM Modi said India must emerge as a trusted hub in global supply chains and stressed the need for Indian manufacturers to compete on cost, quality and scale.
 
-## Rain to hit Independence Day celebrations in Delhi? What IMD forecast says
-According to IMD nowcast seen at around 6 am on Saturday, a yellow alert was in place for light to moderate rain till 9 am.
+## ‘Small dreams are not sufficient anymore’: Modi’s call for Viksit Bharat by 2047
+PM Narendra Modi urged Indians to dream big and work towards making India a developed nation by 2047 as he addressed the country on its 80th Independence Day.
 
-## India@79: Age, wage and rage | Number Theory
-India enters its 80th year of independence today.
+## Tensions in Assam after BJP leader killed; accused names machete as murder weapon
+The recovery of the body triggered protests in Chagalmowa, Bazaricherra and adjoining areas, with incidents of vandalism and arson also being reported.
 
-## 'To completely curb use of unfair means': President Murmu underlines push to protect exams
-Murmu described the country’s youth as its “most valuable asset” and highlighting their role in entrepreneurship, space research, innovation and job creation.
-
-## PM Modi Red Fort address LIVE: Speech begins after Vande Mataram rings out for first time from Red Fort
-PM Modi Red Fort address LIVE: Prime Minister Narendra Modi began his Independence Day speech from the ramparts of Red Fort on August 15. He extended greetings to the nation and remembered contributions of freedom fighters.
-
-## Weather Bee: Dry second week of August erased monsoon gains from the first week
-India monsoon: Dry second week of August erased gains from the first week, pushing the cumulative rainfall deficit back to 10.5%, IMD data shows.
+## ‘Some enjoyed making scary predictions’: PM Modi on Covid, wars and shortage rumours in big I-day speech
+PM Narendra Modi also criticised those who, according to him, spread alarming predictions and rumours during times of crisis.
 
 ## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
 As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## HRW says US civil rights enforcement reduced under Trump: What to know
+A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
+
+## US President Trump says he will declare Strait of Hormuz US territory
+US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.
+
 ## Venezuela says 131 political prisoners freed amid post-Maduro talks
 As detainees granted 'alternative' to imprisonment, US welcomes release as crucial step for Venezuela's reconciliation.
 
@@ -245,12 +251,6 @@ Locals in impoverished areas say the insufficient government response after the 
 
 ## Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election
 A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil's high-stakes presidential election.
-
-## UN urges support for Afghan women’s aid five years into Taliban rule
-More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.
-
-## Families angered by slow search for loved ones after Colombia quake
-Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
@@ -276,6 +276,9 @@ N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tat
 ## Beyond Chandrasekaran: Will Tata Sons opt for a new chairman or split power between chairman and CEO?
 The immediate question for Tata Sons is whether it will appoint another executive chairman in Chandrasekaran's mould or separate the group's governance and executive responsibilities between a chairman and a CEO or managing director.
 
+## Parliament approves Mines & Minerals Update Bill, restricts states’ powers to tax mining
+According to Reddy, any fiscal burden imposed on mineral extraction should be guided by a uniform and balanced fiscal framework.
+
 ## RBI turns upbeat as worst of Iran war shock recedes
 India’s economy is showing resilience five months after the Iran war sparked fears of inflation and a downturn. Inflation remains within the RBI’s tolerance band, while vehicle sales, credit growth and GST receipts point to firm demand. Strong corporate balance sheets and festive-season spending are
 
@@ -296,7 +299,4 @@ Sebi's new rules significantly lowered retail investor losses in equity derivati
 
 ## BRICS nations discuss linking payment systems and CBDCs, RBI chief says
 BRICS nations are exploring connections between their fast payment systems and central bank digital currencies. This initiative aims to significantly reduce the cost of cross-border payments for member countries. India is also working to promote the international use of its local currency, the rupee
-
-## MSME Amendment Bill 2026 Explained: What changes for corporate payments, disputes and CFOs
-The legislation passed by Parliament links invoice settlement, dispute resolution and recovery more closely, while leaving key classification, registration and implementation details to subsequent rules and notifications.
 
