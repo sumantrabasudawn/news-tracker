@@ -39,6 +39,18 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
+## PhonePe widens lead as UPI transactions climb to 23.66 billion in July
+Paytm remained the third-largest player. Its monthly transaction count increased to 1.90 billion from 1.80 billion in June
+
+## Indian semiconductor startup Aheesa achieves first-pass success with VIHAAN chip
+The milestone strengthens India’s chip-design push as government-backed startups expand indigenous capabilities across telecom, defence, automotive and emerging technologies
+
+## Tier-2, Tier-3 cities account for 53% of India's forex demand: Report
+Tier-2 cities contributed 41%, while Tier-3 cities accounted for another 12%
+
+## Reliance, Rolls-Royce team up for India’s advanced fighter jet engine programme
+The proposed collaboration comes as India seeks greater self-reliance in defence technology and prepares to develop next-generation twin-engine combat aircraft
+
 ## AIIMS Delhi debarres two medical suppliers over defective syringes, suction sets
 Repeated complaints from doctors and staff prompted AIIMS Delhi to examine supplies used across critical departments, including operation theatres and emergency care
 
@@ -50,18 +62,6 @@ As on : Aug 15, 2026
 
 ## Tata Trusts’ governance dispute raises concerns ahead of Tata Sons’ AGM
 
-
-## Indian textile makers face margin pressure from higher wages and raw material costs
-Higher labour costs and rising cotton, yarn and petrochemical prices are forcing textile makers to absorb inflation and rethink expansion plans
-
-## Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast
-How is India navigating crude oil volatility, a weakening rupee, and foreign capital outflows?
-
-## FCNR deposits explained: Can they help stabilise the rupee? | On the beat podcast
-Why global investors still can’t ignore India.
-
-## PM Modi invokes ‘Shakti ki Saptdharas’ to boost Viksit Bharat vision
-India aims to make five nuclear reactors operational in this decade, says PM Modi
 
 ## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
 The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
@@ -87,6 +87,9 @@ To speed up offshore exploration, the government approved Samudra Manthan – th
 ## PM Modi’s Independence Day speech: Energy security demand of our times; no shortage of gas, fuel, urea
 Speaking about the country's long-term energy strategy, the Prime Minister stressed that energy security is a key national priority. He said India is working towards achieving 100 gigawatts of nuclear power capacity.
 
+## Bengaluru engineer hits wife, smothers her with pillow, then dies by suicide
+According to preliminary information, an argument between the two reportedly turned violent.
+
 ## ‘Sent parents to heaven’: Kerala man arrested for stabbing parents; had history of drug, alcohol abuse
 Ajeesh, was arrested after sending a video of the attack to a relative. Police said he had a history of drug abuse and claimed to have acted on a divine call.
 
@@ -107,9 +110,6 @@ BJP leader Nainar Nagendran sparked controversy by targeting Chief Minister Vija
 
 ## From ‘mere pyare deshwasiyon’ to 50+ references to youth: How PM Modi addressed nation in Independence Day speech
 'Mere pyare deshwasiyon' was the most preferred address used by Prime Minister Narendra Modi in his Independence Day address on Saturday.
-
-## Bengaluru security guard arrested for alleged plot against Pakistan Army, TTP links emerge
-According to police, a 23-year-old man from West Bengal was allegedly preparing to undergo training to carry out a terrorist act targeting the Pakistan Army.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The next Yemen war might be different
+Drones are no longer the advantage for only one side.
+
 ## Afghans mark five years of Taliban rule
 Afghans have gathered in Kabul to mark five years since the Taliban returned to power.
 
@@ -241,7 +244,7 @@ Dr Jason Arday has been found dead days after resigning from Cambridge Universit
 An Austrian activist in Vienna is challenging the city over public toilet fees.
 
 ## Five wounded in shooting at Virginia State University, multiple suspects
-Police found the gunshot victims near the university's residence halls.
+Police found the gunshot victims near the US university's halls of residence.
 
 ## Five years on, how will Taliban deal with armed opposition?
 The United Nations says armed groups opposed to the government remain active.
@@ -251,9 +254,6 @@ With the fall of the former government in Kabul, thousands of Afghans were force
 
 ## Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
 Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
-
-## Modi threatens to target ‘intellectual Naxals’ in Independence Day speech
-The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
