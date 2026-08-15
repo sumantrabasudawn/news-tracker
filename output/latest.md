@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## What the Lakers’ $12.5bn sale says about sports ownership
+Also in today’s newsletter: what Liverpool’s new shareholders bring and more
+
 ## Modi promises free exam coaching after India’s ‘cockroach’ protests
 Prime minister vows to ease financial pressures facing youth in independence day address
 
@@ -21,11 +24,11 @@ Reductions come as tighter visa rules and fiercer competition add to pressure on
 ## Pandemic lockdowns never ended for some people
 For too many young people, disrupted social ties have never fully recovered
 
-## How Burnham can curb Britain’s tax-dodging shops
-The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
-
 ## How John Henry took Liverpool from crisis club to $7bn juggernaut
 US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
+
+## How Burnham can curb Britain’s tax-dodging shops
+The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
 
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
@@ -35,6 +38,15 @@ Groups from Expedia to Claridge’s are working with social media
 
 ## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking
 Seaside resorts slash prices by as much as 8% in effort to attract tourists and fill rooms
+
+## Tata Sons AGM may not happen next week
+The meeting is scheduled to consider, among other matters, the directorship of Tata Sons Chairman N Chandrasekaran, who has decided not to seek another term when his current tenure ends in February
+
+## PM Modi invokes ‘Shakti ki Saptdharas’ to boost Viksit Bharat vision
+India aims to make five nuclear reactors operational in this decade, says PM Modi
+
+## PM Modi announces free online coaching, AI training for youths
+The announcement is significant for students and job aspirants who depend on coaching to prepare for competitive examinations and other career opportunities
 
 ## Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown
 The latest ⁠raids targeting the "quick commerce" sector, where companies deliver groceries within minutes, come after the state's new food safety head shut some of Mumbai's most popular eateries for poor hygiene
@@ -50,15 +62,6 @@ The chief minister says that the state’s economy has tripled in a decade and t
 
 ## NSE Clearing to introduce shorter-tenure SLB contracts with T+3 reverse settlement
 New contracts to be generated and made available on a daily basis, NSE Clearing says
-
-## India ‘was, ‘is’, and ‘will’ be one of the fastest growing economies in the world: SBI
-India’s macro story continues to remain one of resilience, even as global uncertainties remain elevated; SBI’s Nowcasting model projects real GDP growth at 8% in Q1 FY27
-
-## Avtar Steel files IPO papers with SEBI; aims to raise ₹585 crore
-Along with the fresh issue, the IPO would comprise an offer for sale (OFS) of 50 lakh shares by promoter Sumit Jindal
-
-## Sony Pictures India to launch its Tamil GEC in October
-The channel will bring together original fiction, global reality formats, movies and tentpole entertainment across television and digital platforms
 
 ## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
 In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
@@ -84,6 +87,21 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Wholesale inflation eases to 9.8% in July
 
 
+## Court allows CBI plea seeking further probe into NEET leak
+The order was passed by Fast-track court Special Judge Ajay Gupta, in response to an application moved by the federal agency
+
+## Govt cuts windfall gains on petrol to zero; diesel, ATF duties also reduced
+The SAED rate on diesel export is now ₹24 per litre, down from ₹25.5 a litre. SAED on exports of ATF is set at ₹19.5/litre, as against ₹22/litre earlier
+
+## Independence Day: Delhi’s development model should inspire other states, says CM
+The CM said decisions taken in Delhi could direct the entire country and expressed confidence that the city’s development model would set new benchmarks
+
+## Rahul Gandhi, Mallikarjun Kharge skip Independence Day celebrations again, spark 2024 reminder
+The Congress leaders have been skipping the event since 2024 due to a seating row of being placed in the fifth lane as opposed to the traditional front line.
+
+## ‘May India continue to progress with strength, democracy’: CJI Surya Kant extends Independence Day greeting
+Highlighting his hopes for India's future, CJI Surya Kant added, "India, keep moving forward towards a stronger and brighter future."
+
 ## CM announces ₹1.5 lakh crore infrastructure boost to make Assam developed by 2047
 Assam CM Himanta Biswa Sarma announces ₹1.5 lakh crore investment from state and Centre to boost infrastructure and make Assam a developed state by 2047.
 
@@ -93,20 +111,8 @@ With the deployment of new police vehicles, security forces can now reach far-fl
 ## Watch: Jharkhand student leader Mahto clashes with police, says stopped from attending I-Day event
 A video of the incident showed a security official blocking Mahto's path while he tried to force his way out.
 
-## BJP protests absence of women ministers in Karnataka CM DK Shivakumar's cabinet
-State BJP president BY Vijayendra led the protest. He was joined by Leader of Opposition in the Karnataka Legislative Assembly R Ashoka.
-
-## Kanimozhi at Lok Sabha Speaker’s tea party proves DMK-BJP pact brewing: Tamil Nadu minister
-Kanimozhi attended the customary tea party hosted by Lok Sabha speaker Om Birla even as the Congress, Trinamool Congress and Samajwadi Party skipped it.
-
-## Tripura ranks 2nd in Northeast in GDP, per capita income: Manik Saha on I-Day
-Tripura CM Manik Saha highlighted the state’s economic growth and development, saying it ranks second in the Northeast in GDP and per capita income.
-
-## 'Urdu mein Tiranga pehna': Congress' 'Ireland' dig at PM Modi's Independence Day pocket square
-While the colours of the pocket square were of the tri-colour, they were in the wrong sequence, hence the Congress' 'Ireland' dig.
-
-## New system of governance central to ZPM govt's vision for self-reliant Mizoram: CM
-New system of governance central to ZPM govt's vision for self-reliant Mizoram: CM
+## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
+China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
 
 ## Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel
 China’s first online gaming billionaire has acquired the Mia Hotel in downtown Shanghai in a deal worth about 220 million yuan (US$32.6 million), becoming one of the latest investors to bet on a turnaround in the country’s long-suffering property market. Chen Tianqiao – a reclusive entrepreneur know
@@ -128,9 +134,6 @@ After Beijing’s plans to tighten up the taxation of overseas income sent shock
 
 ## Just like with the yen, America cannot save the AI bubble
 In a rare intervention, the US has propped up the Japanese yen. The move is seen as a bid to hold off a further rise in yields for US government bonds – amid Japan’s sell-off of US Treasuries to fund its shoring up of the yen – a rise that threatens the US artificial intelligence bubble. That the Un
-
-## From chasing robots to chasing profits: the numbers moving markets
-While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagsh
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -228,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arteta assures Arsenal fans over contract before Man City clash
+Mikel Arteta, who ended Arsenal's 22-year wait for a Premier League title, says contract negotiations will be resolved.
+
+## FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout
+Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA's Gianni Infantino 'it's just politics'.
+
+## A Syrian intervention in Lebanon would be too costly for Damascus
+Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.
+
 ## Israeli strike kills seven in south Lebanon as attacks intensify
 Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.
 
@@ -242,15 +254,6 @@ Greenhouses and rented plots are lifelines for Gaza's farmers, helping them grow
 
 ## How a Sudanese refugee became a head teacher in a Chadian camp
 Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.
-
-## Morocco boosts Ceuta security amid calls for mass migrant crossing
-Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.
-
-## On the ground in Indonesia following 7.7 magnitude earthquake
-A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people.
-
-## Taiwan passes defence budget after record delay, retains drone funding
-Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
