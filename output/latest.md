@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Yemen’s government says Houthi strikes hit residential areas in Marib
+Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.
+
+## At least five reported dead amid flooding in US state of Indiana
+Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.
+
+## Colombia asks Trump to suspend tariffs as country reels from earthquake
+Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.
+
 ## US Democrats finalise major shakeup to 2028 presidential primary calendar
 South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.
 
@@ -248,15 +257,6 @@ The federal wildland firefighting workforce, faced with low pay and cost of livi
 
 ## Canadian petition to expel US ambassador gains over 170,000 signatures
 The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
-
-## Moroccan police intercept migrants heading for Ceuta enclave
-Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.
-
-## Moroccan police arrest over 100 migrants trying to reach Spanish enclave
-A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.
-
-## Death toll from Zimbabwe ferry disaster rises to 72
-Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
