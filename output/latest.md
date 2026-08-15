@@ -24,32 +24,32 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## How grandparents can help with school fees
 Private education will be much more expensive for a child starting school today than for those just graduating, so planning is key
 
-## Burnham warns of ‘tinderbox’ Britain after week of intense heat
-PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields
+## How John Henry took Liverpool from crisis club to $7bn juggernaut
+US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
 
-## Nvidia discloses $21bn stake in SpaceX
-Filing comes after Elon Musk announced exclusive arrangement to kit out its data centres
+## Meet luxury firms’ new branding tool: the intellectual influencer
+Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
-## Trump administration grants banking licence to Trump family crypto venture
-US president’s business interests in office have become a political flashpoint
+## How influencers are transforming travel
+They have large young audiences, but critics say they deliver poor returns for tour operators and ruin the places they promote
 
-## Jane Street suffers $15bn hit after meltdown at Situational Awareness
-Secretive Wall Street trading firm wrongfooted by July AI rout
+## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking
+Seaside resorts slash prices by as much as 8% in effort to attract tourists and fill rooms
 
-## Second UK train derails in less than 24 hours
-Incident in Essex follows derailment of train in East Sussex on Thursday
-
-## Stockpickers: Persimmon, Savills, Caledonia Mining
-Our experts discuss which companies to buy, sell or hold this week
-
-## Directors’ Deals: British American Tobacco’s newest director buys the dip
-Group warns of disappointing full-year profit growth
-
-## Biotech VCs have become like bankers and we might all pay the price
-A shift in business models conflicts with the long-term nature of developing new drugs and treatment
+## Max Estates Q1 profit drops 30% to ₹8.35 cr; total income stays flat at ₹80 cr
+Max Estates Ltd, a real estate arm of Max Group, is one of the largest property developers in India
 
 ## PM Modi announces free online coaching, AI training for youths
 The announcement is significant for students and job aspirants who depend on coaching to prepare for competitive examinations and other career opportunities
+
+## CityUHK achieves stellar results again in the ARWU, ranking 2nd in Hong Kong and maintaining its position among the global top 100
+CityUHK achieves stellar results again in the ARWU, ranking 2nd in Hong Kong and maintaining its position among the global top 100
+
+## VICTORINOX INDIA WELCOMES ABHAY DEOL AS A FRIEND OF THE BRAND
+VICTORINOX INDIA WELCOMES ABHAY DEOL AS A FRIEND OF THE BRAND
+
+## Beyond tractors: How electrification is reshaping farm mechanisation
+India’s next decade of farm mechanisation will not be counted in just tractor units
 
 ## PM Modi addresses nation on 80th Independence Day, presents ‘Saptdharas’ to boost Viksit Bharat vision
 India aims to make five nuclear reactors operational in this decade, says Modi
@@ -59,18 +59,6 @@ Those who make the shift to preservation specialists will protect the commodity�
 
 ## Can gold recycling become India’s next circular economy success story?
 As the nation looks for new ways to sustain economic growth and resilience, gold recycling may prove to be one of the most promising cases of a circular economy in the country
-
-## India’s edible oil problem is not supply: It is policy uncertainty
-India’s edible oil challenge is a coordination problem between agricultural policy, trade policy and consumer protection
-
-## Redcliffe Labs, Skyroot take diagnostic research to space
-The maiden initiative, DRIFT-1, taken onboard Skyroot’s mission, will test Redcliffe Labs’ dry diagnostic reagents in Low Earth Orbit for 90 days, comparing performance against an identical ground control
-
-## S&P Global Ratings assigns IDFC First Bank investment grade rating
-The rating agency observed that regular capital raisings, improved profitability, and a low dividend payout should support IDFC First Bank’s capitalization
-
-## Mahindra targets doubling of lifestyle pick-up market with sub-₹20-lakh Scorpio Lifestyler
-Mahindra is betting that aggressive pricing and changing recreational lifestyles can more than double India’s lifestyle pick-up market to close to 10,000 units annually, with the Scorpio Lifestyler set to launch by April 2027 at below ₹19.79 lakh
 
 ## India’s big semiconductor push: PM Modi says 7-8 plants coming up in few years; stresses self-reliance in chips
 Looking ahead, PM Modi said an additional five to eight semiconductor plants are expected to be established over the next seven to eight years, further advancing India's journey towards Aatmanirbhar Bharat and Viksit Bharat.
@@ -96,14 +84,20 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Claude downloads surge 30x, Gemini doubles
 
 
+## Four dead, five Army personnel missing after landslide, flash flood in Arunachal Pradesh
+Four dead, five Army personnel missing after landslide, flash flood in Arunachal Pradesh
+
+## Kerala CM calls for pledge to build new-era Kerala on Independence Day
+Kerala CM calls for pledge to build new-era Kerala on Independence Day
+
 ## Modi lists blue, green economy as saptadhara; pushes for deep-sea explorations
 The Union Cabinet on July 31 approved the Samudra Manthan (National Offshore Exploration) Scheme with a budget of ₹84,084 crore
 
 ## PM Modi stresses on energy resilience and ‘Samudra manthan’ project amid US-Iran war in Independence Day speech
 PM Modi said India needed to strengthen domestic capacity in critical areas, including energy and minerals, as dependence on external sources became vulnerable.
 
-## PM Narendra Modi announces free coaching classes and AI training for youth
-PM Modi said that the government will establish a network for providing free online coaching to students by bringing together digital public infrastructure, teachers and educators
+## Free coaching classes, AI training: PM Modi's big Gen Z outreach in Independence Day speech
+PM Modi said that govt will establish a network for free online coaching to students by bringing together digital public infrastructure, teachers, educators
 
 ## Indian Army to get kamikaze drones worth ₹1,577 crore amid push to be ‘global hub’
 Given the growing impact of these systems on military operations, the drone purchases have been made under the ‘Buy Indian’ scheme.
@@ -113,12 +107,6 @@ The Google Doodle for August 15, 2026, features a colourful textile patchwork ar
 
 ## Tamil Nadu CM Vijay announces gold ring gift scheme for newborns from Sept 15
 CM Vijay announced that a gold ring gift scheme for newborns, with an estimated cost of ₹755.83 crore, will be launched in Tamil Nadu.
-
-## ‘No-go’ to ‘go ahead’ areas: PM Modi hails ‘Samrudha Manthan’ for deep-sea exploration in Independence Day speech
-PM Modi hailed the opening of a majority of India's coastal waters for exploration under the "Samrudhha Manthan" initiative.
-
-## Semiconductor plants, energy security: PM Modi renews push for 'aatmanirbhar Bharat'
-PM Modi hailed India's semiconductor programme as a key measure towards achieving self-reliance.
 
 ## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
 As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
@@ -240,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## On the ground in Indonesia following 7.7 magnitude earthquake
+A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people.
+
+## Taiwan passes defence budget after record delay, retains drone funding
+Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.
+
 ## Iran says no decision yet on a return to talks with the US
 FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.
 
@@ -257,12 +251,6 @@ A new report documents how federal agencies have reduced the number of civil rig
 
 ## US President Trump says he will declare Strait of Hormuz US territory
 US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.
-
-## Venezuela says 131 political prisoners freed amid post-Maduro talks
-As detainees granted 'alternative' to imprisonment, US welcomes release as crucial step for Venezuela's reconciliation.
-
-## 7.7-magnitude earthquake strikes eastern Indonesia
-A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
