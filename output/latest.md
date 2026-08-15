@@ -39,6 +39,21 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
+## Sony Pictures India to launch its Tamil GEC in October
+The channel will bring together original fiction, global reality formats, movies and tentpole entertainment across television and digital platforms
+
+## Lalithaa Jewellery Mart IPO: Should you subscribe?
+Strong store productivity is a positive, but gold price exposure and geographic concentration warrant caution
+
+## Should you subscribe to Horizon Industrial Parks IPO?
+Considering the execution risks around this business, Horizon Industrial Parks’ asking price of 31.3x post-issue EV to EBITDA (FY26) appears expensive
+
+## Beyond the click: What to do after filing your ITR-1 or ITR-2
+Verification, revised returns, the Section 143(1) intimation and the refund cycle — a guide to the post-filing journey
+
+## Gaja Alternative Asset Management IPO: Should you invest or avoid?
+IPO Watch The home-grown alternatives asset manager offers strong fund credentials, but earnings mix limits IPO valuation comfort
+
 ## Freedom to invest with balance sheet strongest in many years
 India Inc’s long-term earnings growth will depend on how it puts to use its new-found freedom
 
@@ -47,21 +62,6 @@ We look at the prospects of Muthoot Finance, Bajaj Housing Finance, Utkarsh Smal
 
 ## Motilal Oswal Small Cap, Bank of India Small Cap, Parag Parikh Flexi Cap, Helios Flexi Cap: Flat Nifty, Divided Fortunes: The Two-Year Tale of Equity Fund Winners and Losers
 Two-year performance reveals how market rotations, drawdown protection and stock selection sharply separated equity fund winners from laggards
-
-## Parag Parikh Flexi Cap Fund: Should you invest despite recent underperformance?
-FUND CALL Recent underperformance masks a strong long-term record, but massive scale is reshaping the ₹1.48 lakh crore fund’s opportunity set
-
-## How new RBI rules shield borrowers in default
-BORROW SAFE Sweeping loan recovery guidelines will protect retail customers from January 2027
-
-## F&O Tracker: Support holds
-Nifty futures and Nifty Bank futures are likely to bounce off the base nearby
-
-## Insurance Query: How to provide structured payout options to nominees
-Today, products are designed not just to pay out, but to protect
-
-## F&O Strategy: Buy ITC put option
-
 
 ## India’s forex demand shifts beyond metros as tier-2, tier-3 cities take 53% share
 Emerging from the shadows of larger cities, smaller Indian towns now contribute to over 50% of foreign exchange demand. The appetite for leisure travel fuels this growth, with travelers aged 25 to 40 at the forefront. The US dollar continues to dominate as the most preferred currency, while digital 
@@ -87,6 +87,9 @@ Looking ahead, PM Modi said an additional five to eight semiconductor plants are
 ## ‘No-go’ to ‘go-ahead’: PM Modi hails ‘Samudra Manthan' for deep-sea exploration in Independence Day speech
 To speed up offshore exploration, the government approved Samudra Manthan – the National Offshore Exploration Scheme on July 31, 2026. The scheme has been allocated Rs 84,084 crore for Phase I, covering the period up to FY2030-31.
 
+## 'India will move forward when...': Rahul slams BJP after meeting Ankita Bhandari's family
+Rahul Gandhi said he met Ankita Bhandari's family in New Delhi two days ago.
+
 ## ‘His health is priority’: Jharkhand Congress leader defends police stopping Mahto from Tiranga Yatra
 Jharkhand Congress leader Kumar Raja accused the BJP of trying to politicise the issue and said the party was “playing politics over dead bodies”.
 
@@ -107,9 +110,6 @@ Ajeesh, was arrested after sending a video of the attack to a relative. Police s
 
 ## All bank deposits not automatically taxable income under Section 44AD: ITAT
 The ruling came in the case of a Surat fruit trader, who had opted for the presumptive taxation scheme under Section 44AD of the Income Tax Act.
-
-## SIM card smuggling, counterfeit currency notes: 3 arrested in West Bengal over suspected Pakistan-based ISI links
-An official said on Saturday that the three accused were arrested for their alleged involvement in espionage activities linked to Pakistan’s ISI.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return
+Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.
+
 ## Ukraine hits Russian Starlink-style network, Moscow tracks arms package
 Ukraine used domestically produced Flamingo missiles to hit targets in Russia's southwestern Samara region.
 
@@ -251,9 +254,6 @@ Afghans have gathered in Kabul to mark five years since the Taliban returned to 
 
 ## Black professor at centre of Cambridge plagiarism row found dead
 Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.
-
-## Vienna woman sues city for discrimination over toilet fees
-An Austrian activist in Vienna is challenging the city over public toilet fees.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
