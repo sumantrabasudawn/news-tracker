@@ -87,6 +87,9 @@ Looking ahead, PM Modi said an additional five to eight semiconductor plants are
 ## ‘No-go’ to ‘go-ahead’: PM Modi hails ‘Samudra Manthan' for deep-sea exploration in Independence Day speech
 To speed up offshore exploration, the government approved Samudra Manthan – the National Offshore Exploration Scheme on July 31, 2026. The scheme has been allocated Rs 84,084 crore for Phase I, covering the period up to FY2030-31.
 
+## Jharkhand protest: Students demand CM Hemant Soren's resignation, ask Congress to ‘withdraw support’
+The protesters announced that they will burn effigies of Soren and Rahul Gandhi on Sunday. They also said that they will gherao the CM's residence on August 20.
+
 ## 'India will move forward when...': Rahul slams BJP after meeting Ankita Bhandari's family
 Rahul Gandhi said he met Ankita Bhandari's family in New Delhi two days ago.
 
@@ -107,9 +110,6 @@ According to preliminary information, an argument between the two reportedly tur
 
 ## ‘Sent parents to heaven’: Kerala man arrested for stabbing parents; had history of drug, alcohol abuse
 Ajeesh, was arrested after sending a video of the attack to a relative. Police said he had a history of drug abuse and claimed to have acted on a divine call.
-
-## All bank deposits not automatically taxable income under Section 44AD: ITAT
-The ruling came in the case of a Surat fruit trader, who had opted for the presumptive taxation scheme under Section 44AD of the Income Tax Act.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact
+Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.
+
+## One killed, dozens injured after wildfire hits Croatian coast
+At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.
+
 ## Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return
 Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.
 
@@ -248,12 +254,6 @@ Mexico is sending its first blind women's football team to compete in an interna
 
 ## The next Yemen war might be different
 Drones are no longer the advantage for only one side.
-
-## Afghans mark five years of Taliban rule
-Afghans have gathered in Kabul to mark five years since the Taliban returned to power.
-
-## Black professor at centre of Cambridge plagiarism row found dead
-Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
