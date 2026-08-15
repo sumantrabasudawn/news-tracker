@@ -60,6 +60,9 @@ CM Vijay says that the State government was cooperating with the Centre on admin
 ## India Inc hails PM's growth vision, backs self-reliance push
 Industry shares the prime minister's resolve to build on this momentum and is ready to match it with sustained investment in areas of strategic importance, Chandrajit Banerjee stated
 
+## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
+Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
+
 ## Why India's GCC boom is facing a talent problem — and what companies want next
 Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge. GCCs need to significantly increase inve
 
@@ -81,8 +84,17 @@ Semiconductors sit underneath almost everything today: electronics, EVs, telecom
 ## ‘Fragile 5 to fastest growing’: PM Modi talks of India’s economic growth during Independence Day speech
 Talking about the dream to become a developed country by 2047, PM Modi said, “The world will be forced to look at India differently when the most populous country becomes a developed nation.”
 
-## FMCG companies see recovery in consumption growth
+## NALSAR student body demands apology from BCI chairperson over withdrawn enrolment order
+The council alleged that Mishra’s conduct was unbecoming of his position and inconsistent with the constitutional principles expected of the office.
 
+## Odisha CM ends 6-attempt cap for civil services exams; general candidates can appear till 42
+Odisha removes the six-attempt cap for OCS exams, allowing general category candidates to appear until they reach the upper age limit of 42 years.
+
+## Uttar Pradesh teen alleges sexual harassment during Rapido ride, records video. Company ‘permanently bars’ driver
+Speaking to Hindustan Times, a 17-year-old alleged sexual harassment during a bike ride in Prayagraj. Rapido responded after the teen’s video went viral.
+
+## BJP accuses Sonia Gandhi of unease during Vande Mataram at Independence Day event, Congress reacts
+BJP accuses Sonia Gandhi of trying to stop 'Vande Mataram' at Independence Day event. Congress denies the charge.
 
 ## Govt’s free coaching move gains educator backing as PW’s Alakh Pandey says 'appreciate PM Modi's promise'
 After PM Modi's announcement of online coaching for various competitive exams, PW's Alakh Pandey showed his support for the initiative in a post on X.
@@ -95,18 +107,6 @@ Since Mundhe took charge as the Maharashtra FDA chief, the agency has conducted 
 
 ## Baba Ramdev's throws surprise demand for educational reforms, threatens to go on protest
 Ramdev alleged that most of the times, interviews for government jobs are ‘fraudulent' as he alleged massive corruption.
-
-## Tamil Nadu CM announces higher pensions, aid for freedom fighters, ex-servicemen
-Tamil Nadu CM C Joseph Vijay raises freedom fighters’ pension to ₹23,000 and boosts ex-servicemen welfare aid on Independence Day.
-
-## ‘PoK would have joined Jammu and Kashmir if…’: CM Omar Abdullah's pitch for statehood in Independence Day address
-His remarks come amid continued action by Pakistani security forces against people in PoK, with several protesters reportedly killed in firing in recent months.
-
-## Vanakkam Gen Z, warning to foes: Tamil Nadu CM Vijay delivers strong message in first Independence day speech
-The Tamil Nadu chief minister reiterated his government's commitment to uproot corruption from the state.
-
-## Clash between police and protesters in Haryana on Independence Day triggers unrest
-The protest is linked to anger among farmers and khap organisations over the recent killing of dairy operator Jeevan Kundu.
 
 ## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
 China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## At scene of deadly Israeli strike on Lebanon home
+An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
+
 ## Bangladesh rock Australia as historic Test win in sight
 Australia close Day Three of the first Test against Bangladesh on 161-4, trailing the record-chasing tourists by 67.
 
@@ -248,9 +251,6 @@ Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA's
 
 ## A Syrian intervention in Lebanon would be too costly for Damascus
 Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.
-
-## Israeli strike kills seven in south Lebanon as attacks intensify
-Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
