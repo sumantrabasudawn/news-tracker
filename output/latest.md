@@ -24,6 +24,9 @@ For too many young people, disrupted social ties have never fully recovered
 ## How Burnham can curb Britain’s tax-dodging shops
 The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
 
+## What the Lakers’ $12.5bn sale says about sports ownership
+Also in today’s newsletter: what Liverpool’s new shareholders bring and more
+
 ## How John Henry took Liverpool from crisis club to $7bn juggernaut
 US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
 
@@ -33,8 +36,23 @@ Gen Z are growing older, wiser and more cynical about common or garden influence
 ## Influencers are transforming travel
 Groups from Expedia to Claridge’s are working with social media
 
-## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking
-Seaside resorts slash prices by as much as 8% in effort to attract tourists and fill rooms
+## EaseMyTrip plunges into red, logs June quarter net loss at 11.69 cr
+EaseMyTrip had posted a net profit of ₹44.3 lakh in the corresponding year-ago period
+
+## Magnitude 7.7 quake kills 38 on Indonesia’s Flores island
+In the Nagekeo, Sikka and West Manggarai regencies on Flores, the “very strong” quake was felt for about a minute, prompting many people to rush out of their homes
+
+## Talent gaps put India GCC mandates at risk as firms weigh competing geographies: PwC India-FICCI study
+The report, based on a survey of 200 senior GCC executives across eight industries, says the impact of skill shortages is already visible in business operations
+
+## Assam to invest ₹1.5 lakh crore in infrastructure in 5 years: Himanta
+The chief minister says that the state’s economy has tripled in a decade and the state is now known from ‘chai’ to ‘chip’ of semiconductors, referring to the upcoming Tata facility in the state
+
+## Tamil Nadu Chief Minister Vijay vows corruption-free State, sets $1.5 trillion economy target by 2036
+CM Vijay says that the State government was cooperating with the Centre on administrative matters, while making it clear that Tamil Nadu would oppose policies that were against the rights of the State
+
+## India Inc hails PM's growth vision, backs self-reliance push
+Industry shares the prime minister's resolve to build on this momentum and is ready to match it with sustained investment in areas of strategic importance, Chandrajit Banerjee stated
 
 ## Department of Atomic Energy releases draft rules of SHANTI Act
 Draft rules state that financial security for nuclear damage has to remain in place till the removal of all spent fuel from the storage pool concerned
@@ -42,23 +60,8 @@ Draft rules state that financial security for nuclear damage has to remain in pl
 ## CJP’s Dipke launches 'School Thik Karo' campaign, alleges govt neglect; seeks capping of fees at pvt schools
 CJP to also undertake a similar movement regarding poor health conditions at public hospitals
 
-## PM Modi sets a target of featuring 50 Indian companies in Fortune 500
-Talking about the overall economy, the PM says that India has transformed from ‘Fragile Five’ to the world’s fastest-growing major economy in the last 12 years
-
-## Tata Sons AGM may not happen next week
-The meeting is scheduled to consider, among other matters, the directorship of Tata Sons Chairman N Chandrasekaran, who has decided not to seek another term when his current tenure ends in February
-
-## PM Modi invokes ‘Shakti ki Saptdharas’ to boost Viksit Bharat vision
-India aims to make five nuclear reactors operational in this decade, says PM Modi
-
-## PM Modi announces free online coaching, AI training for youths
-The announcement is significant for students and job aspirants who depend on coaching to prepare for competitive examinations and other career opportunities
-
-## Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown
-The latest ⁠raids targeting the "quick commerce" sector, where companies deliver groceries within minutes, come after the state's new food safety head shut some of Mumbai's most popular eateries for poor hygiene
-
-## ICF diversifies into freight trainsets, targets new milestones
-The Freight EMU has generated keen interest among stakeholders and is expected to bring a significant change in freight transportation, particularly for the movement of white goods
+## Why India's GCC boom is facing a talent problem — and what companies want next
+Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge. GCCs need to significantly increase inve
 
 ## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
 In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
@@ -81,8 +84,17 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## FMCG companies see recovery in consumption growth
 
 
-## Wholesale inflation eases to 9.8% in July
+## Baba Ramdev's throws surprise demand for educational reforms, threatens to go on protest
+Ramdev alleged that most of the times, interviews for government jobs are ‘fraudulent' as he alleged massive corruption.
 
+## Tamil Nadu CM announces higher pensions, aid for freedom fighters, ex-servicemen
+Tamil Nadu CM C Joseph Vijay raises freedom fighters’ pension to ₹23,000 and boosts ex-servicemen welfare aid on Independence Day.
+
+## ‘PoK would have joined Jammu and Kashmir if…’: CM Omar Abdullah's pitch for statehood in Independence Day address
+His remarks come amid continued action by Pakistani security forces against people in PoK, with several protesters reportedly killed in firing in recent months.
+
+## Vanakkam Gen Z, warning to foes: Tamil Nadu CM Vijay delivers strong message in first Independence day speech
+The Tamil Nadu chief minister reiterated his government's commitment to uproot corruption from the state.
 
 ## Clash between police and protesters in Haryana on Independence Day triggers unrest
 The protest is linked to anger among farmers and khap organisations over the recent killing of dairy operator Jeevan Kundu.
@@ -95,18 +107,6 @@ Sharing the part of the video on social media, Congress leader Pawan Khera wrote
 
 ## Stronger ties, beautiful friendship: US, Israel, Nepal, others wish India on 80th Independence Day
 US secretary of state Marco Rubio, Israeli President Isaac Herzog and Nepal PM Balendra 'Balen' Shah were among the leaders who extended greetings to India.
-
-## Chamoli tunnel rescue: Body of another worker recovered, 2 still missing
-Rescue teams are intensively searching inside the tunnel while efforts are also underway to drain out water from the site
-
-## Meghalaya among fastest-growing states, economy more than doubled since 2018: CM on I-Day
-Meghalaya CM Conrad Sangma said the state was the 3rd fastest-growing in India over five years, with its economy more than doubling since 2018.
-
-## Court allows CBI plea seeking further probe into NEET leak
-The order was passed by Fast-track court Special Judge Ajay Gupta, in response to an application moved by the federal agency
-
-## Govt cuts windfall gains on petrol to zero; diesel, ATF duties also reduced
-The SAED rate on diesel export is now ₹24 per litre, down from ₹25.5 a litre. SAED on exports of ATF is set at ₹19.5/litre, as against ₹22/litre earlier
 
 ## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
 China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
@@ -243,7 +243,7 @@ As the Ken-Betwa dam displaces thousands, legal protections on compensation are 
 ## Arteta assures Arsenal fans over contract before Man City clash
 Mikel Arteta, who ended Arsenal's 22-year wait for a Premier League title, says contract negotiations will be resolved.
 
-## FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout
+## FIFA’s Infantino gets backing of White House chief Giuliani over World Cup
 Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA's Gianni Infantino 'it's just politics'.
 
 ## A Syrian intervention in Lebanon would be too costly for Damascus
