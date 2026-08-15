@@ -36,6 +36,21 @@ They have large young audiences, but critics say they deliver poor returns for t
 ## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking
 Seaside resorts slash prices by as much as 8% in effort to attract tourists and fill rooms
 
+## Sony Pictures India to launch its Tamil GEC in October
+The channel will bring together original fiction, global reality formats, movies and tentpole entertainment across television and digital platforms
+
+## India “was”, “is”, and “will” be one of the fastest growing economies in the world: SBI
+India’s macro story continues to remain one of resilience, even as global uncertainties remain elevated; SBI’s Nowcasting model projects real GDP growth at 8% in Q1 FY27
+
+## Investments, infrastructure development, job creation top priorities: Telangana CM Revanth Reddy
+Telangana targeting high-growth sectors like life sciences, semiconductors, electronics and advanced manufacturing, CM Reddy says in his 80th Independence Day address
+
+## Income Tax Department rolls out foreign asset disclosure scheme for small taxpayers
+Declarations can be made till December 31, 2026
+
+## 80 years of food security, the next step: Building a nutrition-secure rural India
+The goal should not be to ensure that every rural household has enough food in terms of calories, but the food available is diverse, nutritious, safe, affordable and sustainable
+
 ## PM Modi sets a target of featuring 50 Indian companies in Fortune 500
 Talking about the overall economy, the PM says that India has transformed from ‘Fragile Five’ to the world’s fastest-growing major economy in the last 12 years
 
@@ -45,20 +60,8 @@ Max Estates Ltd, a real estate arm of Max Group, is one of the largest property 
 ## PM Modi announces free online coaching, AI training for youths
 The announcement is significant for students and job aspirants who depend on coaching to prepare for competitive examinations and other career opportunities
 
-## CityUHK achieves stellar results again in the ARWU, ranking 2nd in Hong Kong and maintaining its position among the global top 100
-CityUHK achieves stellar results again in the ARWU, ranking 2nd in Hong Kong and maintaining its position among the global top 100
-
-## VICTORINOX INDIA WELCOMES ABHAY DEOL AS A FRIEND OF THE BRAND
-VICTORINOX INDIA WELCOMES ABHAY DEOL AS A FRIEND OF THE BRAND
-
-## 80 years of food security, the next step: Building a nutrition-secure rural India
-The goal should not be to ensure that every rural household has enough food in terms of calories, but the food available is diverse, nutritious, safe, affordable and sustainable
-
-## Beyond tractors: How electrification is reshaping farm mechanisation
-India’s next decade of farm mechanisation will not be counted in just tractor units
-
-## PM Modi addresses nation on 80th Independence Day, presents ‘Saptdharas’ to boost Viksit Bharat vision
-India aims to make five nuclear reactors operational in this decade, says Modi
+## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
+In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
 
 ## India’s big semiconductor push: PM Modi says 7-8 plants coming up in few years; stresses self-reliance in chips
 Looking ahead, PM Modi said an additional five to eight semiconductor plants are expected to be established over the next seven to eight years, further advancing India's journey towards Aatmanirbhar Bharat and Viksit Bharat.
@@ -81,32 +84,32 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Wholesale inflation eases to 9.8% in July
 
 
-## Claude downloads surge 30x, Gemini doubles
+## Path to development in Manipur is through peace: CM
+Path to development in Manipur is through peace: CM
 
+## BSP's Mayawati targets ‘casteist, feudal elements’ over ‘stage purification’ after Kharge event in Haldwani
+Bahujan Samaj Party president Mayawati said, “This matter is highly condemnable and concerning."
 
-## I appeal to all parties to support reservation for women in Parliament: PM Modi
-The Constitution (One Hundred and Thirty-First Amendment) Bill, is intended to implement one-third women’s reservation in the Lok Sabha and the legislative assembly
+## Freak oil heist in Rajasthan: 8 thieves puncture pipeline to steal 20 tonnes of crude
+The group of eight, with history of petty thefts, were arrested by the Gujarat ATS last week.
 
-## Four dead, five Army personnel missing after landslide, flash flood in Arunachal Pradesh
-Four dead, five Army personnel missing after landslide, flash flood in Arunachal Pradesh
+## Assam to invest ₹1.5 lakh cr in infra in 5 yrs: Himanta
+Assam to invest ₹1.5 lakh cr in infra in 5 yrs: Himanta
 
-## Kerala CM calls for pledge to build new-era Kerala on Independence Day
-Kerala CM calls for pledge to build new-era Kerala on Independence Day
+## PM Modi delivers shortest Independence Day speech in 4 years. His longest address was this
+The length of PM Modi's speech is also noteworthy as it comes just one year after he set a record for the longest Independence Day speech - at 103 minutes.
 
-## Modi lists blue, green economy as saptadhara; pushes for deep-sea explorations
-The Union Cabinet on July 31 approved the Samudra Manthan (National Offshore Exploration) Scheme with a budget of ₹84,084 crore
+## ‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack
+In his first interview since Operation Sindoor last year, NSA Ajit Doval has shared details of the decisions that shaped India’s military response.
 
-## PM Modi stresses on energy resilience and ‘Samudra manthan’ project amid US-Iran war in Independence Day speech
-PM Modi said India needed to strengthen domestic capacity in critical areas, including energy and minerals, as dependence on external sources became vulnerable.
+## Free coaching, ₹1 lakh crore push: PM Modi’s big pitch to youth in I-Day speech days after student protests
+PM Modi said, “I want to tell the youth of the country: come forward with your dreams; we will ensure there is no shortage of resources."
 
-## Free coaching classes, AI training: PM Modi's big Gen Z outreach in Independence Day speech
-Prime Minister Modi said that 10 million youth will be trained in Artificial Intelligence (AI) in the next one year.
+## ‘Imperative to identify, isolate dimaagi Naxals’: PM Modi in Independence Day speech
+PM Modi said Maoists did not believe in the Constitution and noted that thousands of security personnel and police officers had been martyred fighting the insurgency
 
-## Indian Army to get kamikaze drones worth ₹1,577 crore amid push to be ‘global hub’
-Given the growing impact of these systems on military operations, the drone purchases have been made under the ‘Buy Indian’ scheme.
-
-## Google Doodle honours India's 80th Independence Day with vibrant textile art
-The Google Doodle for August 15, 2026, features a colourful textile patchwork artwork that brings together traditional Indian weaving and printing techniques.
+## Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel
+China’s first online gaming billionaire has acquired the Mia Hotel in downtown Shanghai in a deal worth about 220 million yuan (US$32.6 million), becoming one of the latest investors to bet on a turnaround in the country’s long-suffering property market. Chen Tianqiao – a reclusive entrepreneur know
 
 ## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
 As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
@@ -128,9 +131,6 @@ In a rare intervention, the US has propped up the Japanese yen. The move is seen
 
 ## From chasing robots to chasing profits: the numbers moving markets
 While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagsh
-
-## EQT offers clients diversified wealth strategies to meet demand for new opportunities
-EQT – one of the world’s largest private markets firms – is taking steps to extend its expertise and institutional-quality access to a wider range of eligible clients. In practice, this means working with wealth industry partners to give sophisticated individual investors similar opportunities to th
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Small-scale projects offer hope for Gaza farmers rebuilding lives
+Greenhouses and rented plots are lifelines for Gaza's farmers, helping them grow crops despite the extensive destruction
+
 ## How a Sudanese refugee became a head teacher in a Chadian camp
 Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.
 
@@ -248,9 +251,6 @@ The US President has brushed off reports of dire conditions and a mental health 
 
 ## Did the US really destroy Iran’s ballistic missile capability?
 The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream".
-
-## India marks 80th Independence Day with military display
-India marked its 80th Independence Day at Delhi’s historic Red Fort.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
