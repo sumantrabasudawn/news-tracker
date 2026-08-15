@@ -87,6 +87,15 @@ To speed up offshore exploration, the government approved Samudra Manthan – th
 ## PM Modi’s Independence Day speech: Energy security demand of our times; no shortage of gas, fuel, urea
 Speaking about the country's long-term energy strategy, the Prime Minister stressed that energy security is a key national priority. He said India is working towards achieving 100 gigawatts of nuclear power capacity.
 
+## ‘Sent parents to heaven’: Kerala man arrested for stabbing parents; had history of drug, alcohol abuse
+Ajeesh, was arrested after sending a video of the attack to a relative. Police said he had a history of drug abuse and claimed to have acted on a divine call.
+
+## All bank deposits not automatically taxable income under Section 44AD: ITAT
+The ruling came in the case of a Surat fruit trader, who had opted for the presumptive taxation scheme under Section 44AD of the Income Tax Act.
+
+## SIM card smuggling, counterfeit currency notes: 3 arrested in West Bengal over suspected Pakistan-based ISI links
+An official said on Saturday that the three accused were arrested for their alleged involvement in espionage activities linked to Pakistan’s ISI.
+
 ## Telangana CM Reddy accuses BRS leaders of ‘occult practices’ against Congress government
 Telangana CM Reddy accused BRS leaders of ‘performing occult rituals’ to undermine Congress, demanding transparency about temple visits and alleged black magic.
 
@@ -101,15 +110,6 @@ BJP leader Nainar Nagendran sparked controversy by targeting Chief Minister Vija
 
 ## Bengaluru security guard arrested for alleged plot against Pakistan Army, TTP links emerge
 According to police, a 23-year-old man from West Bengal was allegedly preparing to undergo training to carry out a terrorist act targeting the Pakistan Army.
-
-## 5 army personnel missing after flash flood hits camp in Arunachal: Officials
-The missing personnel have been identified as Havaldar Upendar and army personnel Kundan, Vinod, Aditya and Samunda
-
-## Devendra Mahto stopped from Tiranga Yatra by police in Jharkhand. He protests from hospital floor | Watch
-While on a hunger strike, he insists on fighting for justice and the rights of the people despite police opposition.
-
-## Cockroach Janta Party’s Instagram account blocked for two hours
-Meta did not respond to queries on why the account was inaccessible in India. This is the second time the CJP’s Instagram account has been blocked in India
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
