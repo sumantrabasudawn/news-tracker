@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Burnham calls for ‘reflection’ over death of Jason Arday
+Family of Cambridge’s youngest-ever Black professor say ‘campaign of misinformation’ was ‘too much’
+
+## Labour’s rental reforms disrupt student market and lengthen lettings process
+Renters’ Rights Act locks international students out of housing market while pushing prospective tenants into double rents
+
 ## South Korea’s inverse correlation
 Kospi down, won up
 
@@ -18,23 +24,26 @@ From sports to cinema-going, live shared experiences are increasingly popular an
 ## Geneva super-rich rocked by luxury home burglary spree
 Swiss officials say gangs from France are responsible for a recent rise in ‘homejackings’, sometimes at gunpoint
 
-## OpenAI upheaval mounts as Sam Altman readies IPO push
-Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing
-
-## UK universities offer fee discounts to overseas students in ‘pricing war’
-Reductions come as tighter visa rules and fiercer competition add to pressure on already financially strained sector
-
-## Labour’s rental reforms disrupt student market and lengthen lettings process
-Renters’ Rights Act locks international students out of housing market while pushing prospective tenants into double rents
-
 ## How John Henry took Liverpool from crisis club to $7bn juggernaut
 US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
+
+## OpenAI upheaval mounts as Sam Altman readies IPO push
+Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing
 
 ## How Burnham can curb Britain’s tax-dodging shops
 The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
 
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
+
+## Scorpio Lifestyler to be launched by April 2027; starting price below ₹19.79 lakh ex-showroom
+The Scorpio Lifestyler is set to make its debut by April 2027, with India prices starting below ₹19.79 lakh ex-showroom
+
+## Red Sea crisis enters 1,000th day as shipping detour continues to squeeze trade
+MSME exporters have borne the brunt, particularly those dealing in low-margin products such as textiles, garments, engineering goods, chemicals, leather, carpets, rice, spices, grapes and marine products
+
+## Andhra Pradesh sends 29 best teachers to Finland for global education training
+The initiative aims to expose government-school educators to international practices that can be adapted to strengthen classroom learning across Andhra Pradesh
 
 ## Tiger Global reduces big tech bets, adds AMD and SpaceX in Q2 2026
 Tiger Global reshaped its technology portfolio during the quarter, signalling changing investment preferences across leading companies in the sector.
@@ -51,14 +60,11 @@ Assam is preparing for an infrastructure-led expansion, with the government outl
 ## BMW Industries net profit jumps 26% in Apr-Jun quarter to ₹19.04 cr
 The company had clocked a net profit of ₹15.14 crore in the April-June period of the preceding 2025-26 fiscal
 
-## India’s chemicals industry targets up to $81 billion in exports by 2030: NITI Aayog
-Rising domestic demand and expanding global opportunities are prompting India to strengthen manufacturing, technology and infrastructure across the chemicals value chain
+## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
+The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
 
-## India's coal imports turn steel-centric as metallurgical coal demand rises
-India imported around 244.2 million tonne of non-coking and metallurgical coal in FY2025-26, broadly unchanged from about 245.3 million tonne in the previous financial year
-
-## Andhra Pradesh Stree Shakti scheme records 87 crore women’s journeys in one year
-The flagship welfare initiative has significantly expanded women’s access to public transport, while boosting their mobility and reducing daily travel costs
+## Anthropic's IPO may hinge on a $200 billion revenue bet: Here's what investors are looking at
+Anthropic forecasts remarkable revenue growth by the year 2028, with projections estimating earnings reaching between $190 billion and $200 billion. Investors closely analyze other tech companies like Palantir and SpaceX in light of these figures. However, Anthropic's current expenditures are strain
 
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
@@ -78,11 +84,14 @@ To speed up offshore exploration, the government approved Samudra Manthan – th
 ## PM Modi’s Independence Day speech: Energy security demand of our times; no shortage of gas, fuel, urea
 Speaking about the country's long-term energy strategy, the Prime Minister stressed that energy security is a key national priority. He said India is working towards achieving 100 gigawatts of nuclear power capacity.
 
-## India's big chip ambition: Can it become the world's next semiconductor hub?
-Semiconductors sit underneath almost everything today: electronics, EVs, telecom, AI, data centres, defence, manufacturing. So having a self-reliant semiconductor ecosystem is an absolute necessity in the current globally uncertain economic and geopolitical environment.
+## From ‘mere pyare deshwasiyon’ to 50+ references to youth: How PM Modi addressed nation in Independence Day speech
+'Mere pyare deshwasiyon' was the most preferred address used by Prime Minister Narendra Modi in his Independence Day address on Saturday.
 
-## ‘Fragile 5 to fastest growing’: PM Modi talks of India’s economic growth during Independence Day speech
-Talking about the dream to become a developed country by 2047, PM Modi said, “The world will be forced to look at India differently when the most populous country becomes a developed nation.”
+## Bengaluru security guard arrested for alleged plot against Pakistan Army, TTP links emerge
+According to police, a 23-year-old man from West Bengal was allegedly preparing to undergo training to carry out a terrorist act targeting the Pakistan Army.
+
+## 5 army personnel missing after flash flood hits camp in Arunachal: Officials
+The missing personnel have been identified as Havaldar Upendar and army personnel Kundan, Vinod, Aditya and Samunda
 
 ## Devendra Mahto stopped from Tiranga Yatra by police in Jharkhand. He protests from hospital floor | Watch
 While on a hunger strike, he insists on fighting for justice and the rights of the people despite police opposition.
@@ -96,17 +105,8 @@ The CJP convenor was in his native village in Hingoli for the flag hoisting cere
 ## ‘Multiple boyfriends or girlfriends’: Baba Ramdev says many Gen Zs doing well, flags concerns
 Baba Ramdev said that not all young people should be viewed through the same lens, pointing out that many members of Gen Z are doing well.
 
-## NALSAR student body demands apology from BCI chairperson over withdrawn enrolment order
+## NALSAR student body condemns BCI over withdrawn enrolment order, seeks apology from chief
 The council alleged that Mishra’s conduct was unbecoming of his position and inconsistent with the constitutional principles expected of the office.
-
-## Odisha CM ends 6-attempt cap for civil services exams; general candidates can appear till 42
-Odisha removes the six-attempt cap for OCS exams, allowing general category candidates to appear until they reach the upper age limit of 42 years.
-
-## Uttar Pradesh teen alleges sexual harassment during Rapido ride, records video. Company ‘permanently bars’ driver
-Speaking to Hindustan Times, a 17-year-old alleged sexual harassment during a bike ride in Prayagraj. Rapido responded after the teen’s video went viral.
-
-## BJP accuses Sonia Gandhi of unease during Vande Mataram at Independence Day event, Congress reacts
-BJP accuses Sonia Gandhi of trying to stop 'Vande Mataram' at Independence Day event. Congress denies the charge.
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
