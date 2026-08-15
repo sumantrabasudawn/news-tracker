@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Israeli strikes kill 11 in Lebanon two months into truce
+Attacks were ‘response to an action’ by Hizbollah, says Israeli military
+
 ## US aircraft carrier furore is emblem of growing disquiet over Iran war
 Reports of poor conditions aboard the USS Abraham Lincoln coincide with depleting stocks of both weapons and voter support
 
@@ -231,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Cleanup underway as Russian oil spill reaches Oman’s coastline
+Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.
+
+## US aircraft carrier expected to relieve USS Lincoln in Middle East
+The USS Washington's movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
+
+## Inter Milan sign England’s Djed Spence from Tottenham Hotspur
+The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.
+
+## Tropical Storm Lala expected to strengthen as it nears Hawaii
+Authorities warn residents to take precautions as storm expected to bring rain and strong winds to the island chain.
+
+## UK PM Burnham reacts to death of former Cambridge professor
+Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work.
+
 ## Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact
 Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.
 
@@ -239,21 +257,6 @@ At least one person was killed and around 42 others were injured after a violent
 
 ## Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return
 Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.
-
-## Ukraine hits Russian Starlink-style network, Moscow tracks arms package
-Ukraine used domestically produced Flamingo missiles to hit targets in Russia's southwestern Samara region.
-
-## Israeli settlers besiege Palestinian families in occupied West Bank
-Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.
-
-## Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests
-A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.
-
-## How blind football is helping women overcome barriers in Mexico
-Mexico is sending its first blind women's football team to compete in an international tournament. Players cannot wait.
-
-## The next Yemen war might be different
-Drones are no longer the advantage for only one side.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
