@@ -36,6 +36,15 @@ Groups from Expedia to Claridge’s are working with social media
 ## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking
 Seaside resorts slash prices by as much as 8% in effort to attract tourists and fill rooms
 
+## Department of Atomic Energy releases draft rules of SHANTI Act
+Draft rules state that financial security for nuclear damage has to remain in place till the removal of all spent fuel from the storage pool concerned
+
+## CJP’s Dipke launches 'School Thik Karo' campaign, alleges govt neglect; seeks capping of fees at pvt schools
+CJP to also undertake a similar movement regarding poor health conditions at public hospitals
+
+## PM Modi sets a target of featuring 50 Indian companies in Fortune 500
+Talking about the overall economy, the PM says that India has transformed from ‘Fragile Five’ to the world’s fastest-growing major economy in the last 12 years
+
 ## Tata Sons AGM may not happen next week
 The meeting is scheduled to consider, among other matters, the directorship of Tata Sons Chairman N Chandrasekaran, who has decided not to seek another term when his current tenure ends in February
 
@@ -50,15 +59,6 @@ The latest ⁠raids targeting the "quick commerce" sector, where companies deliv
 
 ## ICF diversifies into freight trainsets, targets new milestones
 The Freight EMU has generated keen interest among stakeholders and is expected to bring a significant change in freight transportation, particularly for the movement of white goods
-
-## Tamil Nadu Chief Minister Vijay vows corruption-free State, sets $1.5 trillion economy target by 2036
-CM Vijay says that the State government was cooperating with the Centre on administrative matters, while making it clear that Tamil Nadu would oppose policies that were against the rights of the State
-
-## Assam to invest ₹1.5 lakh crore in infrastructure in 5 years: Himanta
-The chief minister says that the state’s economy has tripled in a decade and the state is now known from ‘chai’ to ‘chip’ of semiconductors, referring to the upcoming Tata facility in the state
-
-## NSE Clearing to introduce shorter-tenure SLB contracts with T+3 reverse settlement
-New contracts to be generated and made available on a daily basis, NSE Clearing says
 
 ## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
 In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
@@ -84,10 +84,19 @@ Talking about the dream to become a developed country by 2047, PM Modi said, “
 ## Wholesale inflation eases to 9.8% in July
 
 
+## Clash between police and protesters in Haryana on Independence Day triggers unrest
+The protest is linked to anger among farmers and khap organisations over the recent killing of dairy operator Jeevan Kundu.
+
+## Mahua Moitra writes to LS speaker after being asked to vacate circuit house at night
+TMC MP Mahua Moitra seeks Lok Sabha Speaker Om Birla’s intervention after she was allegedly asked to vacate a circuit house in Bengal late at night.
+
+## ‘Under-confident, shaky, nervous’: PM Modi's speech fumble, ‘dimaagi Naxal’ dig trigger Oppn attack, Congress reacts
+Sharing the part of the video on social media, Congress leader Pawan Khera wrote, “Superhuman without teleprompter (Mahamanav bina teleprompter ke).”
+
 ## Stronger ties, beautiful friendship: US, Israel, Nepal, others wish India on 80th Independence Day
 US secretary of state Marco Rubio, Israeli President Isaac Herzog and Nepal PM Balendra 'Balen' Shah were among the leaders who extended greetings to India.
 
-## Chamoli tunnel rescue: One more worker rescued, two still missing
+## Chamoli tunnel rescue: Body of another worker recovered, 2 still missing
 Rescue teams are intensively searching inside the tunnel while efforts are also underway to drain out water from the site
 
 ## Meghalaya among fastest-growing states, economy more than doubled since 2018: CM on I-Day
@@ -98,15 +107,6 @@ The order was passed by Fast-track court Special Judge Ajay Gupta, in response t
 
 ## Govt cuts windfall gains on petrol to zero; diesel, ATF duties also reduced
 The SAED rate on diesel export is now ₹24 per litre, down from ₹25.5 a litre. SAED on exports of ATF is set at ₹19.5/litre, as against ₹22/litre earlier
-
-## Independence Day: Delhi’s development model should inspire other states, says CM
-The CM said decisions taken in Delhi could direct the entire country and expressed confidence that the city’s development model would set new benchmarks
-
-## Rahul Gandhi, Mallikarjun Kharge skip Independence Day celebrations again, spark 2024 reminder
-The Congress leaders have been skipping the event since 2024 due to a seating row of being placed in the fifth lane as opposed to the traditional front line.
-
-## ‘May India continue to progress with strength, democracy’: CJI Surya Kant extends Independence Day greeting
-Highlighting his hopes for India's future, CJI Surya Kant added, "India, keep moving forward towards a stronger and brighter future."
 
 ## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
 China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Bangladesh rock Australia as historic Test win in sight
+Australia close Day Three of the first Test against Bangladesh on 161-4, trailing the record-chasing tourists by 67.
+
 ## FIFA World Cup and Olympics cited as Coe warns of politicians near sport
 World Athletics' president says political influence in sport must be kept in check with LA Olympics on horizon.
 
@@ -248,9 +251,6 @@ Despite pressure from the US to intervene against Hezbollah, the Syrian governme
 
 ## Israeli strike kills seven in south Lebanon as attacks intensify
 Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.
-
-## Moment Israeli forces storm wedding hall in occupied West Bank
-Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
