@@ -36,6 +36,9 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
+## US firms ramp up AI spending, but earnings impact remains limited: Goldman Sachs
+Goldman Sachs found that 11% of S&P 500 companies quantified AI productivity gains for a specific use case.
+
 ## India must strengthen shipping capacity, naval protection amid growing chokepoints: GTRI
 GTRI says Red Sea crisis has completed 1,000 days without a durable solution
 
@@ -56,9 +59,6 @@ Indian Bank may mop up another $600 million via ECB before RBI’s concessional 
 
 ## Jindal Stainless investing ₹900 cr to boost cold rolling capacity to 2.67 MT by FY28
 JSL is also making significant investments to build up its downstream capabilities
-
-## Mcap: 5 of top-10 most valued firms lose ₹1 lakh cr; TCS drops most
-Market valuation of TCS slumps ₹34,263.28 crore to ₹8,53,506.85 crore
 
 ## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
 India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
@@ -103,7 +103,7 @@ Fresh low-pressure area in Bay of Bengal, IMD issues red warning of heavy rainfa
 Detentions in BJP-ruled Rajasthan's Alwar come against backdrop of a wider pattern of detentions ahead of Amit Shah's public engagements in recent weeks
 
 ## Air India Express passenger's gun goes off at Varanasi airport, two injured
-The passenger, a resident of Azamgarh, was scheduled to travel to Mumbai on Air India's IX-1810 flight when the gun went off during screening.
+The passenger, a resident of Azamgarh, was scheduled to travel to Mumbai on Air India Express's IX-1810 flight when the gun went off during screening.
 
 ## Who was Ashis Banerjee, 5-time TMC MLA found hanging at party office in Birbhum?
 Police were informed about ex-TMC MLA Ashis Banerjee's death by locals who allegedly found his dead body inside a TMC office in Birbhum.
@@ -243,8 +243,8 @@ Despite a genocide and multiple wars, analysts say the issues determining Octobe
 ## Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
 Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
 
-## Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania
-Romania's Defence Ministry didn't specify origin of the drone but has previously blamed Russia for similar incidents.
+## Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv
+Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region during the escalating conflict.
 
 ## Israel strikes south Lebanon again as families flee north
 Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.
