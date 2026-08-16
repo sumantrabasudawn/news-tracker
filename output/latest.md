@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## London’s flood defence may need replacing far sooner than expected due to extreme weather
+Thames Barrier upgrade could cost at least £20bn, senior government officials warn
+
+## California billionaires add millions to bolster fight against wealth tax
+Tech owner Chris Larsen and venture capitalist John Doerr step up efforts to kill proposed 5% levy on the rich
+
+## US considers sanctions on Brazil judge in new test of diplomatic ties
+Fresh blow in relations comes as leftwing leader Lula launches re-election campaign
+
+## Canadian business braced for 50% US tariffs
+US-Canada trade talks go down to the wire, plus Japanese growth figures and a UK inflation update
+
+## Rayner reforms planning to protect England’s pubs and boost housebuilding
+Ministers to encourage property developments close to train, tram and underground stations
+
 ## Don’t dismiss the mini-middle powers
 Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial areas
 
@@ -9,23 +24,8 @@ Water shortages have become a dark daily reality affecting crops, livestock and 
 ## Reform UK vows to cut £50bn from welfare bill if it wins power
 Robert Jenrick says current benefits system is ‘a strange perversion of compassion’
 
-## Farage’s fruitless by-election gambit
-Victory in Clacton will not enable Reform UK leader to dodge questions over finances
-
-## Ukraine presses drone attacks on Moscow and Russian logistics
-Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer
-
-## How economics is changing
-The subject is becoming more inventive and empirical, but questions about reproducibility and AI abound
-
 ## Ralph Lauren is winning the workwear wars as America returns to the office
 People are hanging up the casual aesthetic of the pandemic years to dress up again
-
-## Will the Fed minutes reveal any forward guidance?
-Market Questions is the FT’s guide to the week ahead
-
-## Rayner reforms planning to protect England’s pubs and boost housebuilding
-Ministers to encourage property developments close to train, tram and underground stations
 
 ## The billionaire threatening to upend Wall Street
 Mark Walter’s much-copied strategy of leveraging insurers to build an empire has drawn regulatory scrutiny
@@ -41,6 +41,9 @@ Shortage of Group III base oils prompts auto manufacturers to turn to new blends
 
 ## European companies count the costs and gains of extreme heat
 Businesses flagged effects of extreme heat, drought and wildfires on a record share of earnings calls in recent weeks
+
+## Equity MF redemptions jump nearly 40% despite strong SIP inflows
+Investors cash in on market recovery and rotate funds into mid- and small-cap schemes despite elevated valuations
 
 ## AI & Big Data: 1.53 lakh candidates received training in AP
 As per the Union govt’s data, AP has scored the highest number of AI/BDA candidates completing or getting certified under FutureSkills PRIME among all states with 1,08,895 candidates completing certification out of1,53,783.
@@ -62,9 +65,6 @@ Inside stories of founders who stayed the course
 
 ## Infosys bets on building AI talent internally as demand outpaces supply
 AI is definitely augmenting the workforce; human-plus-AI work paradigm increases people’s productivity, says Infosys Chief Human Resources Officer
-
-## Europe emerges top destination for India's electric car shipments in Q1
-India's exports of electric motor cars surged in the first quarter of 2026-27, with export earnings rising sharply to $369 million from $22.2 million a year earlier, while shipments jumped to 10,802 vehicles from 1,309 units
 
 ## FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August
 In August, foreign investors turned the tide by purchasing Indian equities, building on the positive momentum from July's inflows. This shift follows a period of substantial selling earlier in the year. With attractive valuations and promising corporate earnings, renewed interest from foreign invest
@@ -234,13 +234,22 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
+Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.
+
+## Israeli army besieges Palestinian homes in occupied West Bank
+Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.
+
+## Why are sandwiches more regulated than AI?
+Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.
+
 ## ‘Water and salt’: Qusra residents trapped in Israeli settler siege
 Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid.
 
 ## Cristiano Ronaldo hints at retirement at end of season
 Superstar forward gave his clearest indication yet that he might end his playing career after the current season.
 
-## Arsenal cruise to 3-0 win over Manchester City in Community Shield
+## Arsenal cruise to win over Manchester City in Community Shield
 Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.
 
 ## Moroccan migrants stage sit-in as thousands remain stranded in Ceuta
@@ -248,15 +257,6 @@ Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more
 
 ## Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down
 Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.
-
-## Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii
-The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall.
-
-## ‘The Mediterranean is a bridge, not a border’
-Chris Fearne says Europe must look beyond its borders to solve its migration problem.
-
-## Ben-Gvir calls for nightly killings of Palestinians in Gaza
-Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
