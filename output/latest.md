@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Anwar Ibrahim: Malaysia between the superpowers
+Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.
+
+## Death toll rises to 84 from capsized ferry in Zimbabwe
+The boat overturned during heavy winds near the Zambian border.
+
+## Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map
+CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine
+
 ## Erdogan says Hamas acted sincerely, criticises Israeli attacks
 Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.
 
@@ -245,15 +254,6 @@ Both sides accused the other of violating the June agreement shortly after it wa
 
 ## Senegal’s Saint-Louis Regatta keeps centuries of tradition alive
 Thousands gathered in Saint-Louis, Senegal, for the annual regatta.
-
-## Anti-corruption raids in Baghdad as dozens of officials arrested
-Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.
-
-## Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
-Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.
-
-## Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan
-Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
