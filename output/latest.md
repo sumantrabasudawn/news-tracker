@@ -24,6 +24,9 @@ Ministers to encourage property developments close to train, tram and undergroun
 ## Don’t dismiss the mini-middle powers
 Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial areas
 
+## Reform UK vows to block foreign nationals from claiming benefits if it wins power
+Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
+
 ## Ralph Lauren is winning the workwear wars as America returns to the office
 People are hanging up the casual aesthetic of the pandemic years to dress up again
 
@@ -35,9 +38,6 @@ FT analysis finds 60 largest planned facilities could emit equivalent of 27 coal
 
 ## Harvey Nicks deal hints at department stores’ hidden potential
 Services won’t restore the golden age but could give young shoppers a reason to return
-
-## World’s largest carmakers seek to avert motor oil crisis
-Shortage of Group III base oils prompts auto manufacturers to turn to new blends
 
 ## Equity MF redemptions jump nearly 40% despite strong SIP inflows
 Investors cash in on market recovery and rotate funds into mid- and small-cap schemes despite elevated valuations
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Erdogan says Hamas acted sincerely, criticises Israeli attacks
+Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.
+
+## US admiral praises USS Lincoln crew amid reported mental health concerns
+Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.
+
+## Brazil: Lula, Bolsonaro return to strongholds to launch runs for president
+Lula and Bolsonaro appeal to Brazil’s women voters with promises to combat rising femicide and gender violence.
+
+## US-Iran MoU is set to expire: What to know
+Both sides accused the other of violating the June agreement shortly after it was signed.
+
 ## Senegal’s Saint-Louis Regatta keeps centuries of tradition alive
 Thousands gathered in Saint-Louis, Senegal, for the annual regatta.
 
@@ -242,18 +254,6 @@ Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon
 
 ## Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan
 Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.
-
-## Erdogan calls for Strait of Hormuz reopening amid oil disruption
-Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.
-
-## Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
-Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.
-
-## Israeli army besieges Palestinian homes in occupied West Bank
-Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.
-
-## Why are sandwiches more regulated than AI?
-Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
