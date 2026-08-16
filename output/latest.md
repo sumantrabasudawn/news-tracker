@@ -1,5 +1,23 @@
 # AION Intelligence
 
+## Ukraine presses drone attacks on Moscow and Russian logistics
+Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer
+
+## How economics is changing
+The subject is becoming more inventive and empirical, but questions about reproducibility and AI abound
+
+## Ralph Lauren is winning the workwear wars as America returns to the office
+People are hanging up the casual aesthetic of the pandemic years to dress up again
+
+## Will the Fed minutes reveal any forward guidance?
+Market Questions is the FT’s guide to the week ahead
+
+## The sports billionaire threatening to upend Wall Street
+Mark Walter’s much-copied strategy of leveraging insurers to build an empire has drawn regulatory scrutiny
+
+## Big Tech’s data centre boom poised to drive up carbon emissions
+FT analysis finds 60 largest planned facilities could emit equivalent of 27 coal plants or 24mn cars per year
+
 ## Most US voters say they are worse off under Trump — FT poll
 Democrats lead Republicans on economy just months ahead of midterm elections
 
@@ -9,32 +27,14 @@ Services won’t restore the golden age but could give young shoppers a reason t
 ## World’s largest carmakers seek to avert motor oil crisis
 Shortage of Group III base oils prompts auto manufacturers to turn to new blends
 
-## Are Americans making peace with the spectre of socialism?
-Democratic socialist candidates are winning primary battles as voters turn to progressive policies
-
 ## European companies count the costs and gains of extreme heat
 Businesses flagged effects of extreme heat, drought and wildfires on a record share of earnings calls in recent weeks
 
 ## Miner Ferrexpo caught up in dispute between oligarch and Kyiv
 Iron ore group is trying to raise cash while sanctions-hit shareholder fights to maintain his stake
 
-## The Italian university benefiting from the post-Brexit student shift
-Bocconi is among the institutions filling the gap as European undergraduates avoid higher UK fees
-
-## Can we stop with the public ‘blasterbating’, actually?
-It is now hard to take public transport without having to endure the sound of someone else’s smartphone speaker
-
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
-
-## BlackBerry: From phone dinosaur to tech champion
-A decade after the disappearance of its handsets, the company’s future rests on car and security software
-
-## Malaysia profits from data centre boom
-Southeast Asian country emerges as key AI hub in boost for its economy
-
-## Singapore Inc’s AI ace card in rivalry with Hong Kong
-Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
 ## Mahindra bets on SML acquisition; eyes 10-12% CV market share by FY31
 Mahindra is counting on the new Blazo i-TRK and the SML acquisition to grow its share of India’s above-3.5-tonne commercial vehicle market and more than double revenue to ₹12,500 crore by FY31
@@ -84,6 +84,18 @@ Emerging from the shadows of larger cities, smaller Indian towns now contribute 
 ## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
 The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
 
+## SAD's Harsimrat shows weapon used in Nanded attack on Sukhbir Singh Badal, stitches on his arm
+In letter to Amit Shah, Harsimrat seeks NIA probe, says second attack in 2 years “part of political conspiracy hatched since 2015 to disrupt peace in Punjab”.
+
+## 11 people, including children, fall ill after 'dead lizard' found inside birthday cake in Maharashtra, FDA raids bakery
+The incident took place on Saturday when local residents gathered to celebrate the birthday of a 25-year-old woman.
+
+## 7 held in Karnataka over rape, abortion of woman with mental illness: Police
+According to police, Sandeep, Dr Nagaraj and Rekha gave the victim 10 abortion pills and carried out the termination of her three-month pregnancy
+
+## Bangladesh says PM will not visit India until Hasina extradited
+Sheikh Hasina faces the death penalty in Bangladesh after being convicted of crimes against humanity, and Dhaka has repeatedly requested her extradition.
+
 ## ‘He said it was unloaded’: Injured screeners recall Air India Express passenger's gun going off at Varanasi airport
 Two AAICLAS screeners were injured when a passenger's licensed pistol accidentally went off at Lal Bahadur Shastri International Airport, Varanasi.
 
@@ -95,18 +107,6 @@ Tripura police arrested two men and apprehended four minors for allegedly gang-r
 
 ## Kasautii Zindagii Kay actor Antara Banerjee attacks RPF jawan with blade, ‘deliberately’ injures self: Police
 The actor, who was once a part of TV serial Kasautii Zindagii Kay, also deliberately injured herself, before smashing a window of the train.
-
-## 20 blackbucks released in Gujarat’s Banni grasslands on Independence Day
-Gujarat Forest Department, Vantara release 20 blackbucks in Banni grasslands to boost native wildlife.
-
-## Ex-TMC MLA Asish Banerjee faced no case of corruption: CM Suvendu denies any police ‘pressure’ caused his death
-“Police will see if he was being blackmailed. He was a gentleman although the same cannot be said about some of his colleagues (from Mamata's TMC),” CM said.
-
-## Harassed, beaten: BSF Jawan arrested for wife's murder in Punjab's Hoshiarpur, told family she 'fell from roof'
-On the intervening night of August 13 and 14, the victim's father was informed that the accused had called to say that Rama had fallen from the roof.
-
-## 'Entire Bengal fuming, Congress must apologise': CM Suvendu Adhikari slams Sonia Gandhi over Vande Mataram row
-Adhikari Sonia Gandhi allegedly “objecting” to the singing of the full version of Vande Mataram, calling it an “insult” to Bankim Chandra Chattopadhyay.
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Limited options’ for many Iranians as war with US chokes economy
+Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
+
+## Trump threatens to make the Strait of Hormuz a US territory: Can he?
+US president has yet another outlandish threat for Iran, with no end to war in sight.
+
 ## Arsenal vs Manchester City LIVE: FA Community Shield
 Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.
 
@@ -245,12 +251,6 @@ But to capture its benefits, the continent needs to develop an effective, common
 
 ## Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa
 The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.
-
-## Live video captures panic as gunman opens fire at park in Kentucky
-Live video captures panic as gunman opens fire at park in Kentucky
-
-## Cincinnati Open: Djokovic stunned by Tirante in second round
-Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
