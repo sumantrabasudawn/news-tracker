@@ -24,6 +24,12 @@ Also in today’s newsletter: what Liverpool’s new shareholders bring and more
 ## Modi promises free exam coaching after India’s ‘cockroach’ protests
 Prime minister vows to ease financial pressures facing youth in independence day address
 
+## Malaysia profits from data centre boom
+Southeast Asian country emerges as key AI hub in boost for its economy
+
+## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong
+Close relations with both US and China mean the latest AI models are easily accessible in the city-state
+
 ## China poised to lift travel ban on Manus founders
 Chief executive Xiao Hong plans to return to Singapore as AI company nears resolution of Meta separation
 
@@ -36,11 +42,8 @@ From sports to cinema-going, live shared experiences are increasingly popular an
 ## OpenAI upheaval mounts as Sam Altman readies IPO push
 Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing
 
-## How Burnham can curb Britain’s tax-dodging shops
-The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business
-
-## Meet luxury firms’ new branding tool: the intellectual influencer
-Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
+## US or China: Washington to tell partners they must pick sides in AI race
+Letters to be sent to 35 AI coalition members; recipients to include Kazakhstan, only known member of both US and Chinese coalitions and a source of critical minerals
 
 ## Nifty Outlook: Indices stagnate
 Supports are there to limit the downside and keep alive the positive bias
@@ -62,9 +65,6 @@ Verification, revised returns, the Section 143(1) intimation and the refund cycl
 
 ## Gaja Alternative Asset Management IPO: Should you invest or avoid?
 IPO Watch The home-grown alternatives asset manager offers strong fund credentials, but earnings mix limits IPO valuation comfort
-
-## Freedom to invest with balance sheet strongest in many years
-India Inc’s long-term earnings growth will depend on how it puts to use its new-found freedom
 
 ## Berkshire Hathaway reshuffles portfolio, raises Alphabet and homebuilder stakes
 Berkshire Hathaway is undergoing a notable transformation in its investment approach. The company has notably augmented its investments in Alphabet and US homebuilders, while simultaneously diminishing its stakes in various financial firms and other stocks. Additionally, Berkshire has completely div
@@ -90,6 +90,18 @@ Talent shortages are a growing strategic risk for India's global capability cent
 ## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
 In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
 
+## Man slaps, kicks, drags delivery agent in Meerut for arriving ‘5 minutes late’; arrested
+The incident took place on Friday in the Ganga Sagar Colony area under the limits of Bhawanpur police station.
+
+## 'Mob baying for her': Shashi Tharoor backs Mahua Moitra after late-night eviction bid
+Tharoor urged the government to provide security to the TMC MP instead of asking her to vacate the government accommodation.
+
+## Protest, enrolment ‘freeze’, CJI’s rap, then apology: Blow-by-blow of NALSAR row
+BCI chairman Manan Kumar Mishra on Saturday apologised to the law students and said he sincerely regretted if their feelings had been hurt.
+
+## Ex-Bengal deputy speaker Ashis Banerjee found dead at TMC office in Birbhum, suicide note recovered
+A purported suicide note has also been recovered from the TMC office which located near Ashis Banerjee's residence in Rampurhat, police said.
+
 ## Jharkhand protesters threaten to gherao CM Soren's residence, demand his resignation
 Students protesting against alleged exam irregularities took out a ‘Tiranga Yatra’ on Saturday -- the 22nd day of the indefinite strike started by the students.
 
@@ -102,17 +114,8 @@ Vijay announced several measures for ex-servicemen, freedom fighters and their f
 ## PM Modi announces free online coaching for competitive exams, AI training for 1 crore youth
 Modi said that the government will provide AI skill training to 10 million youth in the next one year.
 
-## Chamoli tunnel toll stands at 8; fate of 2 still unknown as rescue operation continues
-The death toll in the Chamoli tunnel accident rose to eight after rescuers recovered another worker’s body, while two workers remain missing
-
-## 7 pillars, 1 goal: PM Modi lays out ‘Saptadhara’ blueprint for ‘Viksit Bharat’
-On 80th Independence Day, Modi underlined initiatives to propel innovation among young people and train them in AI.
-
-## ‘Wrong policies have pushed youth into dark road’: Congress hits out at Modi government
-Kharge said peaceful protest was a constitutional right and students demanding their rights should not be branded anti-national.
-
-## Suryapath Tiranga: Global relay of tricolour spirit from Fiji to mark 80th I-Day concludes in San Francisco
-Suryapath Tiranga: Global relay of tricolour spirit from Fiji to mark 80th I-Day concludes in San Francisco
+## Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent
+China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing. D
 
 ## Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts
 Sales of luxury homes in mainland China’s top cities are picking up as high-net-worth individuals, benefiting from the country’s tech boom, splash out billions of yuan to improve their housing. The buying binge has sparked expectations of a broad market recovery after a six-year property slump acros
@@ -134,9 +137,6 @@ Investors should further reduce their exposure to US Treasuries and the US dolla
 
 ## Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence
 Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races to counter Western advances in AI defence. Beijing-based Zhipu said GLM-5.3 achieved a success rate 
-
-## Gene-editing therapies not yet ready for human trials, Stanford expert says
-Gene-editing therapies for the nervous system may need at least another round of studies before they are safe enough to enter human trials, according to one of the world’s most influential figures in the commercialisation of brain science. “The techniques are reasonably well established for animal e
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Observers say Zambia’s election marred by reports of intimidation, violence
+Vote counting in Thursday's presidential polls were briefly suspended amid security threats to the electoral process.
+
+## Al Jazeera journalist opens beach cafe in the Gaza she loves
+Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war
+
 ## As petrol prices soar, electric bikes gain ground in Nigeria
 Riders say the switch is helping them cut fuel and maintenance costs.
 
@@ -251,12 +257,6 @@ Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that 
 
 ## At least five reported dead amid flooding in US state of Indiana
 Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.
-
-## Colombia asks Trump to suspend tariffs as country reels from earthquake
-Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.
-
-## US Democrats finalise major shakeup to 2028 presidential primary calendar
-South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
