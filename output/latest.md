@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Jamie Dimon warns UK chancellor against higher bank taxes
+JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget
+
+## Far-right Israeli minister advocates killing ‘30 to 40’ Gazans each night
+Itamar Ben-Gvir also calls for re-establishment of Jewish settlements in the Palestinian enclave
+
 ## London’s flood defence may need replacing far sooner than expected due to extreme weather
 Thames Barrier upgrade could cost at least £20bn, senior government officials warn
 
@@ -17,15 +23,6 @@ Ministers to encourage property developments close to train, tram and undergroun
 
 ## Don’t dismiss the mini-middle powers
 Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial areas
-
-## British farmers need more help to cope with brutal heat
-Water shortages have become a dark daily reality affecting crops, livestock and the viability of farms
-
-## Reform UK vows to cut £50bn from welfare bill if it wins power
-Robert Jenrick says current benefits system is ‘a strange perversion of compassion’
-
-## Jamie Dimon warns UK chancellor against higher bank taxes
-JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget
 
 ## Ralph Lauren is winning the workwear wars as America returns to the office
 People are hanging up the casual aesthetic of the pandemic years to dress up again
@@ -234,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Senegal’s Saint-Louis Regatta keeps centuries of tradition alive
+Thousands gathered in Saint-Louis, Senegal, for the annual regatta.
+
+## Anti-corruption raids in Baghdad as dozens of officials arrested
+Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.
+
 ## Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
 Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.
 
@@ -251,12 +254,6 @@ Israeli troops have raided the village of Qusra, south of Nablus, in the occupie
 
 ## Why are sandwiches more regulated than AI?
 Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.
-
-## ‘Water and salt’: Qusra residents trapped in Israeli settler siege
-Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid.
-
-## Cristiano Ronaldo hints at retirement at end of season
-Superstar forward gave his clearest indication yet that he might end his playing career after the current season.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
