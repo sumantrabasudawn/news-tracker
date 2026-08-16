@@ -36,6 +36,12 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc’s AI ace card in rivalry with Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
+## Mahindra bets on SML acquisition; eyes 10-12% CV market share by FY31
+Mahindra is counting on the new Blazo i-TRK and the SML acquisition to grow its share of India’s above-3.5-tonne commercial vehicle market and more than double revenue to ₹12,500 crore by FY31
+
+## Think before you don’t renew your policy!
+We tend to value visible rewards while renewing an insurance policy but rights and benefits accumulated over time, though invisible until you need them, can be far more valuable
+
 ## AI may help cut legacy tech debt, but clients fear creating a new one
 Despite modernising nearly 90 legacy applications and achieving around 60% faster migration through AI-enabled software development, enterprises continue to view technical debt as an inevitable part of their technology investments
 
@@ -54,11 +60,8 @@ ONDC is already working to onboard more FPOs and once the word spreads about gro
 ## Star Health expects Home Health Care initiative to grow over 50% in next one year, backed by significant traction
 Segment records 600% y-o-y growth in customers in Q1; available across 300 cities
 
-## Higher 25% SPV surcharge tempers gains from REIT, InvIT tax overhaul; Industry seeks relief
-Industry sees near-term pressure on dividend distribution, seeks rollback or reduction in the 25% surcharge on SPVs
-
-## Lodha Developers to launch 21 housing projects by March with ₹24,000-cr revenue potential
-During the first quarter of this fiscal year, Lodha Developers launched only one housing project in Mumbai Metropolitan Region.
+## Market recap: Top 5 firms lose Rs 1 lakh crore in market value; TCS, Reliance suffer biggest hit
+Last week witnessed a downturn in Indian stock markets, with five out of the top ten firms experiencing notable decreases in market capitalization. TCS and Reliance Industries led the decline in valuations. In contrast, LIC and Bharti Airtel reported impressive gains. Despite these fluctuations, Rel
 
 ## India cooks up LPG safety net: Govt fixes refinery-wise output targets; Reliance gets biggest quota
 India is establishing production benchmarks for its refineries and upstream firms, aimed at fortifying the domestic LPG supply system. Reliance Industries leads with the highest targets assigned to its refinery. It is imperative that companies ensure sufficient infrastructure for LPG storage and tra
@@ -81,8 +84,11 @@ Emerging from the shadows of larger cities, smaller Indian towns now contribute 
 ## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
 The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
 
-## Anthropic's IPO may hinge on a $200 billion revenue bet: Here's what investors are looking at
-Anthropic forecasts remarkable revenue growth by the year 2028, with projections estimating earnings reaching between $190 billion and $200 billion. Investors closely analyze other tech companies like Palantir and SpaceX in light of these figures. However, Anthropic's current expenditures are strain
+## ‘He said it was unloaded’: Injured screeners recall Air India Express passenger's gun going off at Varanasi airport
+Two AAICLAS screeners were injured when a passenger's licensed pistol accidentally went off at Lal Bahadur Shastri International Airport, Varanasi.
+
+## ‘Can't gag Parliament or ignore youth’: CJP's Saurav Das slams disallowing of questions on NEET protests in Lok Sabha
+CJP's chief spokesperson Saurav Das claimed that the three sets of questions had been blocked “at the behest of the Union government”.
 
 ## Minor gang raped, six including four minors held in Tripura: Police
 Tripura police arrested two men and apprehended four minors for allegedly gang-raping a 16-plus girl in Gomati district, police said.
@@ -101,12 +107,6 @@ On the intervening night of August 13 and 14, the victim's father was informed t
 
 ## 'Entire Bengal fuming, Congress must apologise': CM Suvendu Adhikari slams Sonia Gandhi over Vande Mataram row
 Adhikari Sonia Gandhi allegedly “objecting” to the singing of the full version of Vande Mataram, calling it an “insult” to Bankim Chandra Chattopadhyay.
-
-## India to host BRICS Environment Working Group meetings in Delhi on Aug 17-18
-The ministry also said under its chairship, it has already initiated discussions and deliberations through a series of virtual meetings
-
-## BCAS probes accidental firing at Varanasi airport that injured 2 screeners: Govt
-The government confirmed that both personnel were immediately provided assistance and shifted to New Lakshmi Trauma Center
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arsenal vs Manchester City LIVE: FA Community Shield
+Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.
+
+## Why has Israel escalated attacks in southern Lebanon despite ceasefire?
+At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.
+
 ## Premier League: Key talking points heading into the new 2026-27 season
 City, Liverpool and Chelsea have new faces in the dugout as Arsenal attempt to defend title for first time in 90 years.
 
@@ -245,12 +251,6 @@ Live video captures panic as gunman opens fire at park in Kentucky
 
 ## Cincinnati Open: Djokovic stunned by Tirante in second round
 Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.
-
-## 3-year-old girl rescued 100 hours after Colombia earthquake
-A three-year-old girl and a 75-year-old man have been pulled alive from the rubble days after Colombia’s earthquake.
-
-## At least 12 people killed in Hungary bus crash
-Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
