@@ -36,29 +36,29 @@ Iron ore group is trying to raise cash while sanctions-hit shareholder fights to
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
+## GT Bharathi secures WTC licence, plans ₹7,000-crore integrated township along OMR
+“Our vision is a self-sustaining live-work-learn destination anchored by the WTC business park,” said Arun Bharathi Arunachalam, Managing Director of GT Bharathi.
+
+## Visa delays add uncertainty over upfront money already spent for studying abroad
+As costs continue to rise amid rupee depreciation, the demand for education loans is surging, with a notable shift in students increasingly relying on financial support to pursue their international studies.
+
 ## Navi Mumbai airport announces expansion of cargo ops, thirteen airlines to start freighter flights
 On Sunday, Hong Kong Air Cargo operated it’s first flight to Navi Mumbai
 
-## AI & Big Data: 1.53 lakh candidates received training in AP
-As per the Union govt’s data, AP has scored the highest number of AI/BDA candidates completing or getting certified under FutureSkills PRIME among all states with 1,08,895 candidates completing certification out of1,53,783.
+## Tiruppur Exporters Association website to help buyers connect with exporters, avoid middlemen
+The textile town of Tiruppur in Tamil Nadu exports goods worth nearly ₹45,000 crore.
 
-## Convertible, portable?
-If you are likely to continually experience work-related relocation, then you must consider investing primarily in financial assets; buying land must be to park surplus cash, not to achieve life goal
+## After a gap of 3 years, demand for small cars comes back
+Sale of mini cars more than doubled between April and July, this year to 58,109 units
 
-## Bhogapuram Alluri Sitarama Raju Intl Airport in AP to begin operations from Aug 17
-The airport will operate under the IATA code VTZ, which will be transferred from the existing airport in Visakhapatnam from 12.01 am on August 17.
+## IN-SPACe proposes ₹500 crore third-party insurance cover for space launches
+The third party damage insurance framework will likely be part of Indian Space Activity Bill
 
-## Think before you don’t renew your policy!
-We tend to value visible rewards while renewing an insurance policy but rights and benefits accumulated over time, though invisible until you need them, can be far more valuable
+## India works out Chabahar handover to Iran amid US sanctions
+Negotiations on for getting back control of the Shahid Beheshti terminal once the situation improves, sanctions end
 
-## Your portfolio without you
-Investors face risks of digital dependency, as a recent scenario highlights vulnerabilities in portfolio management amid potential disruptions and disasters
-
-## Change visits all of us
-Sometimes it arrives like a storm, leaving us with little choice but to surrender. Sometimes it slips into our lives, unnoticed until we suddenly realise that nothing is quite the same anymore. And only rarely does it arrive gently
-
-## Mahindra bets on SML acquisition; eyes 10-12% CV market share by FY31
-Mahindra is counting on the new Blazo i-TRK and the SML acquisition to grow its share of India’s above-3.5-tonne commercial vehicle market and more than double revenue to ₹12,500 crore by FY31
+## Centre to select first 50 airports under modified UDAN scheme
+States to nominate unserved airports; Centre to evaluate proposals under challenge mode framework
 
 ## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
 Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
@@ -84,6 +84,9 @@ Berkshire Hathaway is undergoing a notable transformation in its investment appr
 ## Now, tax amnesty for undisclosed foreign assets
 
 
+## CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari
+CJP founder and national convener Abhijeet Dipke demanded the arrest of the accused persons on Sunday afternoon
+
 ## 'PM Modi didn't say…': Kiren Rijiju shares 'dimagi naxals' list after Opposition's 'proud to be' jibe
 Earlier on Sunday, Congress leader P Chidambaram, pointing at PM Modi's speech, wrote in a post on X that he was "proud to be a Dimagi Naxal."
 
@@ -104,9 +107,6 @@ Sheikh Hasina faces the death penalty in Bangladesh after being convicted of cri
 
 ## ‘He said it was unloaded’: Injured screeners recall Air India Express passenger's gun going off at Varanasi airport
 Two AAICLAS screeners were injured when a passenger's licensed pistol accidentally went off at Lal Bahadur Shastri International Airport, Varanasi.
-
-## ‘Can't gag Parliament or ignore youth’: CJP's Saurav Das slams disallowing of questions on NEET protests in Lok Sabha
-CJP's chief spokesperson Saurav Das claimed that the three sets of questions had been blocked “at the behest of the Union government”.
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Belgium’s largest wildfire on record spreads towards German border
+Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.
+
 ## ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
 Israel's transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.
 
@@ -248,9 +251,6 @@ City, Liverpool and Chelsea have new faces in the dugout as Arsenal attempt to d
 
 ## Doctor describes amputating girl’s leg in Gaza without anaesthesia
 ‘We were praying for her to faint’.
-
-## The post-Hormuz era offers Africa a great opportunity
-But to capture its benefits, the continent needs to develop an effective, common maritime policy.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
