@@ -66,6 +66,9 @@ We look at the prospects of Muthoot Finance, Bajaj Housing Finance, Utkarsh Smal
 ## Motilal Oswal Small Cap, Bank of India Small Cap, Parag Parikh Flexi Cap, Helios Flexi Cap: Flat Nifty, Divided Fortunes: The Two-Year Tale of Equity Fund Winners and Losers
 Two-year performance reveals how market rotations, drawdown protection and stock selection sharply separated equity fund winners from laggards
 
+## Now, tax amnesty for undisclosed foreign assets
+
+
 ## India’s forex demand shifts beyond metros as tier-2, tier-3 cities take 53% share
 Emerging from the shadows of larger cities, smaller Indian towns now contribute to over 50% of foreign exchange demand. The appetite for leisure travel fuels this growth, with travelers aged 25 to 40 at the forefront. The US dollar continues to dominate as the most preferred currency, while digital 
 
@@ -86,9 +89,6 @@ In a recent announcement, the government declared a temporary removal of export 
 
 ## India’s big semiconductor push: PM Modi says 7-8 plants coming up in few years; stresses self-reliance in chips
 Looking ahead, PM Modi said an additional five to eight semiconductor plants are expected to be established over the next seven to eight years, further advancing India's journey towards Aatmanirbhar Bharat and Viksit Bharat.
-
-## ‘No-go’ to ‘go-ahead’: PM Modi hails ‘Samudra Manthan' for deep-sea exploration in Independence Day speech
-To speed up offshore exploration, the government approved Samudra Manthan – the National Offshore Exploration Scheme on July 31, 2026. The scheme has been allocated Rs 84,084 crore for Phase I, covering the period up to FY2030-31.
 
 ## Suryapath Tiranga: Global relay of tricolour spirit from Fiji to mark 80th I-Day concludes in San Francisco
 Suryapath Tiranga: Global relay of tricolour spirit from Fiji to mark 80th I-Day concludes in San Francisco
@@ -114,6 +114,9 @@ Albina Garada, from Odisha's Koraput, was missing. Her body was recovered in And
 ## Bengaluru engineer hits wife, smothers her with pillow, then dies by suicide
 According to preliminary information, an argument between the two reportedly turned violent.
 
+## Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts
+Sales of luxury homes in mainland China’s top cities are picking up as high-net-worth individuals, benefiting from the country’s tech boom, splash out billions of yuan to improve their housing. The buying binge has sparked expectations of a broad market recovery after a six-year property slump acros
+
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
 
@@ -134,9 +137,6 @@ Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its
 
 ## Gene-editing therapies not yet ready for human trials, Stanford expert says
 Gene-editing therapies for the nervous system may need at least another round of studies before they are safe enough to enter human trials, according to one of the world’s most influential figures in the commercialisation of brain science. “The techniques are reasonably well established for animal e
-
-## Hong Kong’s Insurance Authority aims to broaden regional clientele base: reappointed CEO
-After Beijing’s plans to tighten up the taxation of overseas income sent shock waves through the city’s banks and insurers last week, Hong Kong’s insurance regulator will make broadening the sector’s clientele a priority, its reappointed chief said on Friday. “The priority of the Insurance Authority
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Army drops roses on Syrian crowds in a far cry from war
+Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.
+
+## Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit
+Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.
+
+## Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon
+Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
+
 ## Yemen’s government says Houthi strikes hit residential areas in Marib
 Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.
 
@@ -248,15 +257,6 @@ South Carolina will again take centre stage as the first nominating contest, pus
 
 ## Why is the latest Ebola outbreak worsening?
 Virus spreading in DRC faster than containment efforts.
-
-## Qatar denies it is detaining three Iranian bomber pilots
-Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.
-
-## California tackles multiple wildfires as firefighter workforce faces strain
-The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.
-
-## Canadian petition to expel US ambassador gains over 170,000 signatures
-The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
