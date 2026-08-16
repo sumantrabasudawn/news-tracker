@@ -36,11 +36,17 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc’s AI ace card in rivalry with Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
-## Lodha Developers to launch 21 housing projects by March with ₹24,000-cr revenue potential
-During the first quarter of this fiscal year, Lodha Developers launched only one housing project in Mumbai Metropolitan Region.
+## India Post’s pilot in Gujarat helps 5 FPOs overcome logistic challenges, business doubles
+ONDC is already working to onboard more FPOs and once the word spreads about growing orders, there will be many of them on MyStore App
+
+## Star Health expects Home Health Care initiative to grow over 50% in next one year, backed by significant traction
+Segment records 600% y-o-y growth in customers in Q1; available across 300 cities
 
 ## Higher 25% SPV surcharge tempers gains from REIT, InvIT tax overhaul; Industry seeks relief
 Industry sees near-term pressure on dividend distribution, seeks rollback or reduction in the 25% surcharge on SPVs
+
+## Lodha Developers to launch 21 housing projects by March with ₹24,000-cr revenue potential
+During the first quarter of this fiscal year, Lodha Developers launched only one housing project in Mumbai Metropolitan Region.
 
 ## Airtel prepaid plan tweaks: Brokerages estimate per-user revenue lifts ranging from ₹4 to ₹12
 Some viewed the changes as selective plan rationalisation rather than an across-the-board or formal tariff hike, but said it would aid Airtel's premiumisation strategy by prompting customers to upgrade
@@ -53,12 +59,6 @@ Report says while technology valuations have moderated, implied future growth ha
 
 ## Explained: Trump says will ‘soon’ declare Strait of Hormuz US territory
 The impasse has kept energy prices as a major focus of US politics ahead of November’s midterm elections.
-
-## IPOs ahead: Here’s what to know as 7 companies eye ₹6,400 cr next week
-The upcoming issues follow the launch of five IPOs in the past week, while three companies had already tapped the market earlier this month
-
-## Punjab & Sind Bank exploring QIP option to raise funds, bring down govt holding: MD Saha
-Currently, the government holds a 93.85% stake in Delhi-headquartered Punjab & Sind Bank
 
 ## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
 India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
@@ -84,6 +84,12 @@ Anthropic forecasts remarkable revenue growth by the year 2028, with projections
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
 
+## 'Entire Bengal fuming, Congress must apologise': CM Suvendu Adhikari slams Sonia Gandhi over Vande Mataram row
+Adhikari Sonia Gandhi allegedly “objecting” to the singing of the full version of Vande Mataram, calling it an “insult” to Bankim Chandra Chattopadhyay.
+
+## India to host BRICS Environment Working Group meetings in Delhi on Aug 17-18
+The ministry also said under its chairship, it has already initiated discussions and deliberations through a series of virtual meetings
+
 ## BCAS probes accidental firing at Varanasi airport that injured 2 screeners: Govt
 The government confirmed that both personnel were immediately provided assistance and shifted to New Lakshmi Trauma Center
 
@@ -102,11 +108,8 @@ In a letter to Gandhi, the BJP MLA said he was writing as an ordinary citizen, a
 ## ‘They came to meet me’: PM Modi shares heartwarming pre-Independence Day moment with 'friends' | Watch
 Sharing the pictures on Instagram, PM Modi wrote: “Feeding my friends every morning is a daily routine.
 
-## Delhi HC to hear on Monday CBI's challenge to discharge of Arvind Kejriwal in excise case
-Delhi HC to hear on Monday CBI's challenge to discharge of Arvind Kejriwal in excise case
-
-## Central, Arunachal teams intensify measures to contain FMD outbreak
-Central, Arunachal teams intensify measures to contain FMD outbreak
+## Musk’s headaches: meet China’s corporate matrix challenging his business empire
+US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
 
 ## Jim Rogers talks up the Chinese yuan amid fears of a US market crisis
 Legendary American investor Jim Rogers has long advocated cash holdings given the potential for a market crisis due to US national debt. But the currency he would hold might be the Chinese yuan rather than the US dollar, if the former were fully convertible, the veteran investor said in an interview
@@ -128,9 +131,6 @@ Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into 
 
 ## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
 China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
-
-## Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel
-China’s first online gaming billionaire has acquired the Mia Hotel in downtown Shanghai in a deal worth about 220 million yuan (US$32.6 million), becoming one of the latest investors to bet on a turnaround in the country’s long-suffering property market. Chen Tianqiao – a reclusive entrepreneur know
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa
+The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.
+
+## Live video captures panic as gunman opens fire at park in Kentucky
+Live video captures panic as gunman opens fire at park in Kentucky
+
 ## Cincinnati Open: Djokovic stunned by Tirante in second round
 Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.
 
@@ -245,12 +251,6 @@ US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Dougl
 
 ## Australia to begin gun buyback scheme in response to Bondi shooting
 Australia will begin buying back guns in November, almost a year after a shooting at Sydney's Bondi killed 15 people.
-
-## Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS
-Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.
-
-## New satellite images show Europe’s disappearing rivers due to drought
-Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
