@@ -33,8 +33,17 @@ A decade after the disappearance of its handsets, the company’s future rests o
 ## Malaysia profits from data centre boom
 Southeast Asian country emerges as key AI hub in boost for its economy
 
-## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong
+## Singapore Inc’s AI ace card in rivalry with Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
+
+## HMPL wins ₹28.47-crore NHAI project in Jharkhand
+The project has been secured through the e-tender process; the tenure for the project is 12 months
+
+## Project Insight to be implemented from January 27, 2028; likely to curb delay in Income tax refunds
+This implementation of this mechanism is critical as average delay in getting refund has surged to 35 days in FY 26 (as on January 31, 2026) from 24 days in FY24
+
+## Govt departments setting up quick response teams to counter misleading, fake social media content
+The social media teams shall regularly monitor content relating to the ministry or department, including its policies and schemes.
 
 ## US firms ramp up AI spending, but earnings impact remains limited: Goldman Sachs
 Goldman Sachs found that 11% of S&P 500 companies quantified AI productivity gains for a specific use case.
@@ -50,15 +59,6 @@ Most of the companies reported double-digit sales growth, while profits came und
 
 ## India could reach $20 trillion by 2036 with 14.2% rupee growth: Equirus
 Equiris estimated that these measures could lift India's growth trajectory while strengthening the external balance, creating the conditions required for the ambitious dollar-denominated target
-
-## Amber to start making Oppo, OnePlus, Realme phones in March 2027 quarter
-Amber expects to start with production of 8 million units of Oppo group smartphone brands and scale it twofold to around 16 million units in the second year of operations
-
-## Indian Bank plans to raise $400 mn via ECB this week: MD Binod Kumar
-Indian Bank may mop up another $600 million via ECB before RBI’s concessional swap window deadline of December 31, 2026
-
-## Jindal Stainless investing ₹900 cr to boost cold rolling capacity to 2.67 MT by FY28
-JSL is also making significant investments to build up its downstream capabilities
 
 ## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
 India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
@@ -84,29 +84,32 @@ Anthropic forecasts remarkable revenue growth by the year 2028, with projections
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
 
+## ‘They came to meet me’: PM Modi shares heartwarming pre-Independence Day moment with 'friends' | Watch
+Sharing the pictures on Instagram, PM Modi wrote: “Feeding my friends every morning is a daily routine.
+
+## Delhi HC to hear on Monday CBI's challenge to discharge of Arvind Kejriwal in excise case
+Delhi HC to hear on Monday CBI's challenge to discharge of Arvind Kejriwal in excise case
+
+## Central, Arunachal teams intensify measures to contain FMD outbreak
+Central, Arunachal teams intensify measures to contain FMD outbreak
+
+## Kerala minister Shaji says he stands by his call to abandon PM SHRI scheme
+Kerala minister Shaji says he stands by his call to abandon PM SHRI scheme
+
+## Congress insulted Vande Mataram on Independence Day, should apologise to people: Amit Shah at Chittorgarh rally
+Earlier, Rajasthan Police detained a group of college students in Alwar ahead of Shah's public programme as they had been planning to hold a protest
+
+## 'Always been insensitive': Javed Akhtar slams Pak President Zardari's 'tolerate Hindus' remark
+Zardari had earlier targeted India, saying the people 'believe in Akhand Bharat', while Muslims in Pakistan were more tolerant towards their minorities.
+
 ## HistoriCity| The long history of the ‘lungi’: From ancient India to Parliament
 From ancient India to Parliament, the lungi has evolved from a practical garment into a cultural symbol shaped by climate, class, caste and politics.
 
 ## Just Like That: Is instant fame eclipsing enduring talent
 In the age of viral fame, visibility is often mistaken for achievement. Why India must rediscover the value of talent, excellence, discipline and lasting impact
 
-## Girl child welfare: Maharashtra's Lek Laadki scheme process simplified, says minister
-Girl child welfare: Maharashtra's Lek Laadki scheme process simplified, says minister
-
-## Navy sailor, wife and 2 children found dead at Mumbai residence; probe underway
-Police are investigating the incident, while the Indian Navy said it is extending all possible assistance.
-
-## Fresh low-pressure area in Bay of Bengal, IMD issues red warning of heavy rainfall in Odisha
-Fresh low-pressure area in Bay of Bengal, IMD issues red warning of heavy rainfall in Odisha
-
-## Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown
-Detentions in BJP-ruled Rajasthan's Alwar come against backdrop of a wider pattern of detentions ahead of Amit Shah's public engagements in recent weeks
-
-## Air India Express passenger's gun goes off at Varanasi airport, two injured
-The passenger, a resident of Azamgarh, was scheduled to travel to Mumbai on Air India Express's IX-1810 flight when the gun went off during screening.
-
-## Who was Ashis Banerjee, 5-time TMC MLA found hanging at party office in Birbhum?
-Police were informed about ex-TMC MLA Ashis Banerjee's death by locals who allegedly found his dead body inside a TMC office in Birbhum.
+## I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled
+Tencent Holdings’ WeChat is already the undisputed super-app for over a billion people in China, handling everything from splitting dinner bills to hailing taxis. Now, Tencent is embedding an artificial intelligence agent named Xiaowei into the platform, adding a hands-free, automated assistant to i
 
 ## Buy or rent? Hong Kong homebuyers face an age-old housing dilemma
 Trapped between rising residential rents and the looming shadow of interest rate increases, Hong Kong homebuyers are revisiting that age-old dilemma when making decisions about housing: buy or rent? The Centa-City Rental Index (CRI), which reflects the rent of second-hand private residential propert
@@ -128,9 +131,6 @@ China’s first online gaming billionaire has acquired the Mia Hotel in downtown
 
 ## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
 As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
-
-## Reduce your exposure to US assets before they lose value, Pictet warns investors
-Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS
+Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.
+
+## New satellite images show Europe’s disappearing rivers due to drought
+Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.
+
 ## UFC 330: Makhachev secures record-setting win against Machado Garry
 Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.
 
@@ -244,13 +250,7 @@ Despite a genocide and multiple wars, analysts say the issues determining Octobe
 Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
 
 ## Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv
-Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region during the escalating conflict.
-
-## Israel strikes south Lebanon again as families flee north
-Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.
-
-## Australia gun buyback spurred by Bondi attack to start in November, PM says
-Australia introduced measures to reduce gun ownership following a deadly attack on Sydney's Bondi Beach last year.
+Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
