@@ -21,7 +21,7 @@ People are hanging up the casual aesthetic of the pandemic years to dress up aga
 ## Will the Fed minutes reveal any forward guidance?
 Market Questions is the FT’s guide to the week ahead
 
-## The sports billionaire threatening to upend Wall Street
+## The billionaire threatening to upend Wall Street
 Mark Walter’s much-copied strategy of leveraging insurers to build an empire has drawn regulatory scrutiny
 
 ## Big Tech’s data centre boom poised to drive up carbon emissions
@@ -42,6 +42,18 @@ Iron ore group is trying to raise cash while sanctions-hit shareholder fights to
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
+## Infosys bets on building AI talent internally as demand outpaces supply
+AI is definitely augmenting the workforce; human-plus-AI work paradigm increases people’s productivity, says Infosys Chief Human Resources Officer
+
+## Tiruppur Exporters Association website to help buyers connect with exporters, avoid middlemen
+The textile town of Tiruppur in Tamil Nadu exports goods worth nearly ₹45,000 crore.
+
+## West Asia developments, Fed minutes set to shape bullion's next move: Analysts
+On the domestic front, gold futures for October delivery climbed ₹2,686, or nearly 2%, last week to close at ₹1.54 lakh per 10 grams on the Multi Commodity Exchange (MCX)
+
+## Flex-workspace firms want to make every square foot work harder
+IndiQube, Awfis, WeWork India, and others are focusing on value-added workspace services rather relying on footprint expansion alone
+
 ## Muthoot Fincorp’s Q1FY27 net profit soars about 4 times to ₹705 cr
 NBFC’s bottomline boosted by a jump in net interest income and gains made from sale/assignment of loan portfolio
 
@@ -53,18 +65,6 @@ While 21% of respondents said well-being is embedded in their everyday work cult
 
 ## A granular approach to growth and development
 Many Indias, one ambition: Why Viksit Bharat must be built region by region
-
-## Beauty, cosmetics segment to be key growth driver for EPL; raises near-term revenue guidance
-EPL sees the growth momentum continuing in July after reporting 25% topline growth in the June quarter, and has raised its revenue guidance for the near term to 16-18% and has retained its margin guidance at 20%
-
-## GT Bharathi secures WTC licence, plans ₹7,000-crore integrated township along OMR
-“Our vision is a self-sustaining live-work-learn destination anchored by the WTC business park,” said Arun Bharathi Arunachalam, Managing Director of GT Bharathi.
-
-## Visa delays add uncertainty over upfront money already spent for studying abroad
-As costs continue to rise amid rupee depreciation, the demand for education loans is surging, with a notable shift in students increasingly relying on financial support to pursue their international studies.
-
-## Navi Mumbai airport announces expansion of cargo ops, thirteen airlines to start freighter flights
-On Sunday, Hong Kong Air Cargo operated it’s first flight to Navi Mumbai
 
 ## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
 Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
