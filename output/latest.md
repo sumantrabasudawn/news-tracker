@@ -36,6 +36,18 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
+## India must strengthen shipping capacity, naval protection amid growing chokepoints: GTRI
+GTRI says Red Sea crisis has completed 1,000 days without a durable solution
+
+## German companies cut US investment to three-year low: Data
+First-half direct ​investments plunged by nearly two-thirds y-o-y to €4.3 ⁠billion ($5 billion), the lowest level since 2023.
+
+## Cement companies face margin pressure on fuel, input costs despite healthy volume growth
+Most of the companies reported double-digit sales growth, while profits came under pressure due to rising energy costs, subdued realisations and the lingering impact of geopolitical disruptions in West Asia
+
+## India could reach $20 trillion by 2036 with 14.2% rupee growth: Equirus
+Equiris estimated that these measures could lift India's growth trajectory while strengthening the external balance, creating the conditions required for the ambitious dollar-denominated target
+
 ## Amber to start making Oppo, OnePlus, Realme phones in March 2027 quarter
 Amber expects to start with production of 8 million units of Oppo group smartphone brands and scale it twofold to around 16 million units in the second year of operations
 
@@ -48,17 +60,8 @@ JSL is also making significant investments to build up its downstream capabiliti
 ## Mcap: 5 of top-10 most valued firms lose ₹1 lakh cr; TCS drops most
 Market valuation of TCS slumps ₹34,263.28 crore to ₹8,53,506.85 crore
 
-## FinMin nudges ministries to switch to producer price index for rate adjustments in govt contracts
-The Department of Expenditure, in a communication to all ministries and departments, said that PPI is a more internationally accepted index compared to WPI used in government contracts to define price escalation.
-
-## ONGC bags US licence to resume full Venezuela operations
-Venezuela is strategically important for ONGC as it holds the world's largest proven crude oil reserves, estimated by OPEC at about 303 billion barrels, more than Saudi Arabia.
-
-## Govt sets LPG production targets for refiners; Reliance gets largest quota
-The lion's share of the planned output has been set from Reliance Industries Ltd's older refinery, which would have to produce up to 18,000 tonnes a day of LPG
-
-## JSW Mahanadi Power settles Raigarh Champa Rail dispute; NCLAT disposes of appeal
-Dispute stemmed from unpaid invoices under a 2014 coal transportation infrastructure agreement.
+## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
+India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
 
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
@@ -81,8 +84,17 @@ Anthropic forecasts remarkable revenue growth by the year 2028, with projections
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
 
-## Why India's GCC boom is facing a talent problem — and what companies want next
-Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge. GCCs need to significantly increase inve
+## HistoriCity| The long history of the ‘lungi’: From ancient India to Parliament
+From ancient India to Parliament, the lungi has evolved from a practical garment into a cultural symbol shaped by climate, class, caste and politics.
+
+## Just Like That: Is instant fame eclipsing enduring talent
+In the age of viral fame, visibility is often mistaken for achievement. Why India must rediscover the value of talent, excellence, discipline and lasting impact
+
+## Girl child welfare: Maharashtra's Lek Laadki scheme process simplified, says minister
+Girl child welfare: Maharashtra's Lek Laadki scheme process simplified, says minister
+
+## Navy sailor, wife and 2 children found dead at Mumbai residence; probe underway
+Police are investigating the incident, while the Indian Navy said it is extending all possible assistance.
 
 ## Fresh low-pressure area in Bay of Bengal, IMD issues red warning of heavy rainfall in Odisha
 Fresh low-pressure area in Bay of Bengal, IMD issues red warning of heavy rainfall in Odisha
@@ -90,23 +102,11 @@ Fresh low-pressure area in Bay of Bengal, IMD issues red warning of heavy rainfa
 ## Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown
 Detentions in BJP-ruled Rajasthan's Alwar come against backdrop of a wider pattern of detentions ahead of Amit Shah's public engagements in recent weeks
 
-## Air India passenger's gun goes off at Varanasi airport, two injured
-Air India passenger's gun goes off at Varanasi airport, two injured
+## Air India Express passenger's gun goes off at Varanasi airport, two injured
+The passenger, a resident of Azamgarh, was scheduled to travel to Mumbai on Air India's IX-1810 flight when the gun went off during screening.
 
 ## Who was Ashis Banerjee, 5-time TMC MLA found hanging at party office in Birbhum?
 Police were informed about ex-TMC MLA Ashis Banerjee's death by locals who allegedly found his dead body inside a TMC office in Birbhum.
-
-## Guinness World record set at Indian I-Day celebration in New York, mayor Zohran Mamdani attends
-More than 1,300 US flags were arranged to form the number "250", surrounded by Indian tricolours, to mark America's semiquincentennial anniversary.
-
-## Rat in Blinkit freezer, spoiled KFC chicken: Food safety norms flouted across India, regulators crack whip
-Restaurant chains, including KFC, Pizza Hut, McDonald's, Subway, Burger King, Starbucks and Monginis have also been inspected for food safety norm violations.
-
-## NLSIU students, alumni oppose CJI Surya Kant, BCI chairman attending convocation
-NLSIU students, alumni oppose CJI Surya Kant, BCI chairman attending convocation
-
-## PM Modi, President Murmu pay tribute to Atal Bihari Vajpayee on death anniversary
-PM Narendra Modi, President Droupadi Murmu and other leaders paid tribute to former PM A B Vajpayee at his memorial ‘Sadaiv Atal’ on his death anniversary.
 
 ## Buy or rent? Hong Kong homebuyers face an age-old housing dilemma
 Trapped between rising residential rents and the looming shadow of interest rate increases, Hong Kong homebuyers are revisiting that age-old dilemma when making decisions about housing: buy or rent? The Centa-City Rental Index (CRI), which reflects the rent of second-hand private residential propert
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## UFC 330: Makhachev secures record-setting win against Machado Garry
+Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.
+
+## Bangladesh make history with first-ever Test cricket win in Australia
+Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.
+
 ## How a simple lighter has become the backbone of life in Gaza
 In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.
 
@@ -245,12 +251,6 @@ Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours afte
 
 ## Australia gun buyback spurred by Bondi attack to start in November, PM says
 Australia introduced measures to reduce gun ownership following a deadly attack on Sydney's Bondi Beach last year.
-
-## Yemeni government forces hit back after new Houthi offensive
-Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.
-
-## Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
-Three decades after rapper Tupac Shakur's death, a former California gang boss is the first person to be prosecuted.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
