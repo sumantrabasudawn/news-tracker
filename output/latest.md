@@ -24,7 +24,7 @@ People are hanging up the casual aesthetic of the pandemic years to dress up aga
 ## Will the Fed minutes reveal any forward guidance?
 Market Questions is the FT’s guide to the week ahead
 
-## Rayner makes planning changes to protect England’s pubs and boost housebuilding
+## Rayner reforms planning to protect England’s pubs and boost housebuilding
 Ministers to encourage property developments close to train, tram and underground stations
 
 ## The billionaire threatening to upend Wall Street
@@ -90,6 +90,12 @@ India could reach a $20 trillion economy by 2036 with reforms. Services will dri
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
 
+## Vande Mataram row: Amit Shah attacks Sonia Gandhi, Congress hits back, cases filed
+The development came days after Parliament passed a bill that makes any insult to the national song a punishable offence.
+
+## 'Putzer for Ritzer, Parsow for Parsons': What are the typos, errors that forced NTA to cancel 3 UGC-NET papers?
+Candidates and coaching teachers alleged several questions were repeated from the earlier UGC-NET cycles, particularly December 2024 and 2025.
+
 ## CISF personnel caught secretly taking woman's photos on Delhi metro, suspended
 A viral video of the incident shows the woman and other passengers confronting the CISF personnel.
 
@@ -107,12 +113,6 @@ CJP's Abhijeet Dipke said that he was informed about the alleged irregularities 
 
 ## ‘They are like the dead’: Jharkhand students burn CM Hemant Soren, Rahul Gandhi's effigies amid exam protest
 Jharkhand student protests: The students accused the JMM-Congress alliance of "failing to take concrete action" on their demands.
-
-## Drugged, threatened to be killed: Delhi woman raped twice by man she befriended on social media
-The woman, 22, who is a makeup artist, was allegedly raped twice in Delhi after being drugged by a man she met online.
-
-## TMC panchayat leader arrested over murder of Bengal Congress leader, son: Police
-Anisur Rahman, the general secretary of the Nadia district Congress unit, and his son Abu Sufian, a law student, were shot dead inside their car
 
 ## Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy
 [The content of this article has been produced by our advertising partner.] Artificial intelligence is moving quickly from experiment to operating tool, and Bruce Rockowitz believes it is becoming an important competitive advantage for Hong Kong’s catering businesses as the city’s food delivery econ
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Water and salt’: Qusra residents trapped in Israeli settler siege
+Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid.
+
+## Cristiano Ronaldo hints at retirement at end of season
+Superstar forward gave his clearest indication yet that he might end his playing career after the current season.
+
 ## Arsenal cruise to 3-0 win over Manchester City in Community Shield
 Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.
 
@@ -251,12 +257,6 @@ Chris Fearne says Europe must look beyond its borders to solve its migration pro
 
 ## Ben-Gvir calls for nightly killings of Palestinians in Gaza
 Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.
-
-## What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?
-About 2.5 million people, including Japanese war criminals who fought for the country, are enshrined at Yasukuni.
-
-## Who is DEI critic and Jason Arday accuser, Nathan Cofnas?
-Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
