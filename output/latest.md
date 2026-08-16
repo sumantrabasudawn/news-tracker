@@ -36,29 +36,35 @@ Iron ore group is trying to raise cash while sanctions-hit shareholder fights to
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
-## Mahindra bets on SML acquisition; eyes 10-12% CV market share by FY31
-Mahindra is counting on the new Blazo i-TRK and the SML acquisition to grow its share of India’s above-3.5-tonne commercial vehicle market and more than double revenue to ₹12,500 crore by FY31
+## Navi Mumbai airport announces expansion of cargo ops, thirteen airlines to start freighter flights
+On Sunday, Hong Kong Air Cargo operated it’s first flight to Navi Mumbai
+
+## AI & Big Data: 1.53 lakh candidates received training in AP
+As per the Union govt’s data, AP has scored the highest number of AI/BDA candidates completing or getting certified under FutureSkills PRIME among all states with 1,08,895 candidates completing certification out of1,53,783.
+
+## Convertible, portable?
+If you are likely to continually experience work-related relocation, then you must consider investing primarily in financial assets; buying land must be to park surplus cash, not to achieve life goal
+
+## Bhogapuram Alluri Sitarama Raju Intl Airport in AP to begin operations from Aug 17
+The airport will operate under the IATA code VTZ, which will be transferred from the existing airport in Visakhapatnam from 12.01 am on August 17.
 
 ## Think before you don’t renew your policy!
 We tend to value visible rewards while renewing an insurance policy but rights and benefits accumulated over time, though invisible until you need them, can be far more valuable
 
-## AI may help cut legacy tech debt, but clients fear creating a new one
-Despite modernising nearly 90 legacy applications and achieving around 60% faster migration through AI-enabled software development, enterprises continue to view technical debt as an inevitable part of their technology investments
+## Your portfolio without you
+Investors face risks of digital dependency, as a recent scenario highlights vulnerabilities in portfolio management amid potential disruptions and disasters
 
-## India’s Russian crude imports hit record high in July
-Analysts and refiners emphasised that Moscow has transformed into New Delhi’s strongest energy security hedge, particularly since the closure of the Strait of Hormuz (SoH) and growing disruptions in the Bab-el-Mandeb strait
+## Change visits all of us
+Sometimes it arrives like a storm, leaving us with little choice but to surrender. Sometimes it slips into our lives, unnoticed until we suddenly realise that nothing is quite the same anymore. And only rarely does it arrive gently
 
-## Delhi airport to increase annual passenger handling capacity to 125 million
-For now, no decision has been firmed up on having Terminal 4 or building the Automatic Passenger Mover (APM).
+## Mahindra bets on SML acquisition; eyes 10-12% CV market share by FY31
+Mahindra is counting on the new Blazo i-TRK and the SML acquisition to grow its share of India’s above-3.5-tonne commercial vehicle market and more than double revenue to ₹12,500 crore by FY31
 
-## Consumer appliances makers gear up for festival season with increased production
-Focus on premium segment as retailers begin early channel stocking; supply chain issues ease
+## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
+Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
 
-## India Post’s pilot in Gujarat helps 5 FPOs overcome logistic challenges, business doubles
-ONDC is already working to onboard more FPOs and once the word spreads about growing orders, there will be many of them on MyStore App
-
-## Star Health expects Home Health Care initiative to grow over 50% in next one year, backed by significant traction
-Segment records 600% y-o-y growth in customers in Q1; available across 300 cities
+## Bullion watch: Where are gold and silver prices headed next week? Fed minutes, Middle East in focus
+Gold and silver prices may continue their upward trend next week. Geopolitical and economic cues will significantly influence this momentum. Analysts expect bullion to retain its positive bias amid global data. Investors will monitor US housing, trade, and inflation figures closely. Federal Reserve 
 
 ## Market recap: Top 5 firms lose Rs 1 lakh crore in market value; TCS, Reliance suffer biggest hit
 Last week witnessed a downturn in Indian stock markets, with five out of the top ten firms experiencing notable decreases in market capitalization. TCS and Reliance Industries led the decline in valuations. In contrast, LIC and Bharti Airtel reported impressive gains. Despite these fluctuations, Rel
@@ -78,11 +84,11 @@ Berkshire Hathaway is undergoing a notable transformation in its investment appr
 ## Now, tax amnesty for undisclosed foreign assets
 
 
-## India’s forex demand shifts beyond metros as tier-2, tier-3 cities take 53% share
-Emerging from the shadows of larger cities, smaller Indian towns now contribute to over 50% of foreign exchange demand. The appetite for leisure travel fuels this growth, with travelers aged 25 to 40 at the forefront. The US dollar continues to dominate as the most preferred currency, while digital 
+## 'PM Modi didn't say…': Kiren Rijiju shares 'dimagi naxals' list after Opposition's 'proud to be' jibe
+Earlier on Sunday, Congress leader P Chidambaram, pointing at PM Modi's speech, wrote in a post on X that he was "proud to be a Dimagi Naxal."
 
-## Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained
-The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.
+## 'Will not be silenced': CJP demands arrest after Bengal school campaign volunteer's father dies in 'assault'
+The 25-year-old Hafeez was allegedly attacked after inspecting a government school as part of the CJP's "School Thik Karo" campaign.
 
 ## SAD's Harsimrat shows weapon used in Nanded attack on Sukhbir Singh Badal, stitches on his arm
 In letter to Amit Shah, Harsimrat seeks NIA probe, says second attack in 2 years “part of political conspiracy hatched since 2015 to disrupt peace in Punjab”.
@@ -101,12 +107,6 @@ Two AAICLAS screeners were injured when a passenger's licensed pistol accidental
 
 ## ‘Can't gag Parliament or ignore youth’: CJP's Saurav Das slams disallowing of questions on NEET protests in Lok Sabha
 CJP's chief spokesperson Saurav Das claimed that the three sets of questions had been blocked “at the behest of the Union government”.
-
-## Minor gang raped, six including four minors held in Tripura: Police
-Tripura police arrested two men and apprehended four minors for allegedly gang-raping a 16-plus girl in Gomati district, police said.
-
-## Kasautii Zindagii Kay actor Antara Banerjee attacks RPF jawan with blade, ‘deliberately’ injures self: Police
-The actor, who was once a part of TV serial Kasautii Zindagii Kay, also deliberately injured herself, before smashing a window of the train.
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
+Israel's transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.
+
 ## ‘Limited options’ for many Iranians as war with US chokes economy
 Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
 
@@ -248,9 +251,6 @@ City, Liverpool and Chelsea have new faces in the dugout as Arsenal attempt to d
 
 ## The post-Hormuz era offers Africa a great opportunity
 But to capture its benefits, the continent needs to develop an effective, common maritime policy.
-
-## Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa
-The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
