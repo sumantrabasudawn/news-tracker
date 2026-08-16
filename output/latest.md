@@ -36,6 +36,18 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc’s AI ace card in rivalry with Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
+## Lodha Developers to launch 21 housing projects by March with ₹24,000-cr revenue potential
+During the first quarter of this fiscal year, Lodha Developers launched only one housing project in Mumbai Metropolitan Region.
+
+## Higher 25% SPV surcharge tempers gains from REIT, InvIT tax overhaul; Industry seeks relief
+Industry sees near-term pressure on dividend distribution, seeks rollback or reduction in the 25% surcharge on SPVs
+
+## Airtel prepaid plan tweaks: Brokerages estimate per-user revenue lifts ranging from ₹4 to ₹12
+Some viewed the changes as selective plan rationalisation rather than an across-the-board or formal tariff hike, but said it would aid Airtel's premiumisation strategy by prompting customers to upgrade
+
+## Bengali filmmaker Raja Sen dies at 71 after prolonged illness
+Sen was undergoing treatment at SSKM Hospital for multiple health complications.
+
 ## Why Goldman Sachs thinks there may be an ‘earnings bubble’ in tech?
 Report says while technology valuations have moderated, implied future growth has been rising
 
@@ -47,18 +59,6 @@ The upcoming issues follow the launch of five IPOs in the past week, while three
 
 ## Punjab & Sind Bank exploring QIP option to raise funds, bring down govt holding: MD Saha
 Currently, the government holds a 93.85% stake in Delhi-headquartered Punjab & Sind Bank
-
-## HMPL wins ₹28.47-crore NHAI project in Jharkhand
-The project has been secured through the e-tender process; the tenure for the project is 12 months
-
-## Project Insight to be implemented from January 27, 2028; likely to curb delay in Income tax refunds
-This implementation of this mechanism is critical as average delay in getting refund has surged to 35 days in FY 26 (as on January 31, 2026) from 24 days in FY24
-
-## Govt departments setting up quick response teams to counter misleading, fake social media content
-The social media teams shall regularly monitor content relating to the ministry or department, including its policies and schemes.
-
-## US firms ramp up AI spending, but earnings impact remains limited: Goldman Sachs
-Goldman Sachs found that 11% of S&P 500 companies quantified AI productivity gains for a specific use case.
 
 ## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
 India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
@@ -84,10 +84,13 @@ Anthropic forecasts remarkable revenue growth by the year 2028, with projections
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
 
-## ‘Had dinner with us, showed no stress’: Ex-TMC MLA Ashis Banerjee’s brother recalls his final hours
-Ex-TMC MLA Ashis Banerjee was found hanging inside TMC office in Birbhum on Sunday morning and a purported suicide note was also recovered.
+## BCAS probes accidental firing at Varanasi airport that injured 2 screeners: Govt
+The government confirmed that both personnel were immediately provided assistance and shifted to New Lakshmi Trauma Center
 
-## NLSIU students object to Bar Council chief, CJI Surya Kant attending convocation amid NALSAR row
+## ‘Had dinner with us, showed no stress’: Ex-TMC MLA Ashis Banerjee’s brother recalls his final hours
+Ex-TMC MLA Ashis Banerjee was found dead inside TMC office in Birbhum on Sunday morning and a purported suicide note was also recovered.
+
+## ‘Witch hunt’: NLSIU students object to Bar Council chief, CJI Surya Kant attending convocation amid NALSAR row
 They have also demanded an unconditional apology from BCI to the student and faculty community of the NALSAR University of Law, Hyderabad.
 
 ## ‘Proud to be a dimaagi naxal’: Opposition leaders after PM Modi's ‘isolate them’ remarks
@@ -104,9 +107,6 @@ Delhi HC to hear on Monday CBI's challenge to discharge of Arvind Kejriwal in ex
 
 ## Central, Arunachal teams intensify measures to contain FMD outbreak
 Central, Arunachal teams intensify measures to contain FMD outbreak
-
-## Kerala minister Shaji says he stands by his call to abandon PM SHRI scheme
-Kerala minister Shaji says he stands by his call to abandon PM SHRI scheme
 
 ## Jim Rogers talks up the Chinese yuan amid fears of a US market crisis
 Legendary American investor Jim Rogers has long advocated cash holdings given the potential for a market crisis due to US national debt. But the currency he would hold might be the Chinese yuan rather than the US dollar, if the former were fully convertible, the veteran investor said in an interview
