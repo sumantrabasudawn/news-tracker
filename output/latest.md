@@ -1,8 +1,5 @@
 # AION Intelligence
 
-## China’s energy strategy vindicated by Iran war
-Playbook is likely to be adopted by other countries, shaping markets
-
 ## Jamie Dimon warns UK chancellor against higher bank taxes
 JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget
 
@@ -114,6 +111,9 @@ CJP's Abhijeet Dipke said that he was informed about the alleged irregularities 
 ## ‘They are like the dead’: Jharkhand students burn CM Hemant Soren, Rahul Gandhi's effigies amid exam protest
 Jharkhand student protests: The students accused the JMM-Congress alliance of "failing to take concrete action" on their demands.
 
+## Launch of Northern Metropolis flats attracts strong interest from Hong Kong homebuyers
+Hong Kong homebuyers flocked to the first batch of units at a major residential project in the Northern Metropolis with 44 – or more than half – of the 82 flats made available via regular sale finding buyers as of 7.30pm on Sunday, according to agents. Wheelock Properties’ Park Silicon project in Kw
+
 ## AIIB warns climate inaction could downgrade a third of sovereign borrowers by 2050
 More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign borrowers could face credit rating downgrades by 2050 if global climate policy fails to strengthen, the Beijing-based multilateral lender said in a report. Under a current policy scenario – in which existing climate rules r
 
@@ -134,9 +134,6 @@ Trapped between rising residential rents and the looming shadow of interest rate
 
 ## Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent
 China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing. D
-
-## Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts
-Sales of luxury homes in mainland China’s top cities are picking up as high-net-worth individuals, benefiting from the country’s tech boom, splash out billions of yuan to improve their housing. The buying binge has sparked expectations of a broad market recovery after a six-year property slump acros
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
