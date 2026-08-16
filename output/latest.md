@@ -42,6 +42,12 @@ Iron ore group is trying to raise cash while sanctions-hit shareholder fights to
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
+## Mastering Derivatives: Model vs actual volatility
+Traders prefer implied volatility instead of calculating volatility from a data set of underlying returns
+
+## QR coding for medicines needs to take the next leap in standardization of codes: GS1 CEO
+India cannot work in silos, aligning with internationally recognised systems would ensure that the product, batch, and expiry information were encoded in a universal manner: Swaminathan
+
 ## Infosys bets on building AI talent internally as demand outpaces supply
 AI is definitely augmenting the workforce; human-plus-AI work paradigm increases people’s productivity, says Infosys Chief Human Resources Officer
 
@@ -59,12 +65,6 @@ NBFC’s bottomline boosted by a jump in net interest income and gains made from
 
 ## Shera Energy eyes 25-30% revenue growth in FY27; bets on new products, capacity expansion
 In FY26 Shera Energy reported an annual turnover of ₹1,640 crore
-
-## Employees flag poor implementation of well-being policy at workplaces: Report
-While 21% of respondents said well-being is embedded in their everyday work culture, 42% felt good policies exist, but execution varies, indicating that implementation remains a key challenge for organisations
-
-## A granular approach to growth and development
-Many Indias, one ambition: Why Viksit Bharat must be built region by region
 
 ## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
 Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
@@ -90,6 +90,18 @@ Berkshire Hathaway is undergoing a notable transformation in its investment appr
 ## Now, tax amnesty for undisclosed foreign assets
 
 
+## 'Don't just adapt but lead in determining use of technology to reshape legal system': CJI Surya Kant to NLUs
+The CJI said that legal profession can no longer remain a late adopter of technology and rejected a prohibition of tools like generative AI in legal education.
+
+## Complaint filed against Sonia, Rahul Gandhi over disrespect to Vande Mataram
+Earlier, today, Union home minister Amit Shah at a rally in Chittorgarh said, “The Congress forgot Vande Mataram out of greed for vote banks”
+
+## Udhayanidhi Stalin says Vijay's Tamil Nadu govt ‘insecure, afraid of Gen Z’; recalls cops had ‘no answer’ on his arrest
+Udhayanidhi Stalin accused the TVK government of detaining people over their speeches and social media posts and termed its actions "fascist".
+
+## ‘They’re anti-school’: CJP's Saurav Das claims ‘BJP goons’ beat Bengal school volunteer's father
+The father of 25-year-old CJP volunteer Shaik Abdul Hafeez was allegedly assaulted on Thursday after his son raised concerns about a school at Karisunda.
+
 ## 'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi
 In a video, Rahul Gandhi is seen interacting with around six students over the police action at Jantar Mantar.
 
@@ -101,18 +113,6 @@ CJP founder and national convener Abhijeet Dipke demanded the arrest of the accu
 
 ## 'PM Modi didn't say…': Kiren Rijiju shares 'dimagi naxals' list after Opposition's 'proud to be' jibe
 Earlier on Sunday, Congress leader P Chidambaram, pointing at PM Modi's speech, wrote in a post on X that he was "proud to be a Dimagi Naxal."
-
-## 'Will not be silenced': CJP demands arrest after Bengal school campaign volunteer's father dies in 'assault'
-The 25-year-old Hafeez was allegedly attacked after inspecting a government school as part of the CJP's "School Thik Karo" campaign.
-
-## SAD's Harsimrat shows weapon used in Nanded attack on Sukhbir Singh Badal, stitches on his arm
-In letter to Amit Shah, Harsimrat seeks NIA probe, says second attack in 2 years “part of political conspiracy hatched since 2015 to disrupt peace in Punjab”.
-
-## 11 people, including children, fall ill after 'dead lizard' found inside birthday cake in Maharashtra, FDA raids bakery
-The incident took place on Saturday when local residents gathered to celebrate the birthday of a 25-year-old woman.
-
-## 7 held in Karnataka over rape, abortion of woman with mental illness: Police
-According to police, Sandeep, Dr Nagaraj and Rekha gave the victim 10 abortion pills and carried out the termination of her three-month pregnancy
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -234,6 +234,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii
+The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall.
+
+## ‘The Mediterranean is a bridge, not a border’
+Chris Fearne says Europe must look beyond its borders to solve its migration problem.
+
+## Ben-Gvir calls for nightly killings of Palestinians in Gaza
+Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.
+
+## What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?
+About 2.5 million people, including Japanese war criminals who fought for the country, are enshrined at Yasukuni.
+
 ## Who is DEI critic and Jason Arday accuser, Nathan Cofnas?
 Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups.
 
@@ -245,18 +257,6 @@ Houthi missile and drone strikes target Marib and al-Makha, killing at least fou
 
 ## Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank
 Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.
-
-## Belgium’s largest wildfire on record spreads towards German border
-Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.
-
-## ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
-Israel's transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.
-
-## ‘Limited options’ for many Iranians as war with US chokes economy
-Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
-
-## Trump threatens to make the Strait of Hormuz a US territory: Can he?
-US president has yet another outlandish threat for Iran, with no end to war in sight.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
