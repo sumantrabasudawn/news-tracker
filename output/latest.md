@@ -36,6 +36,18 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc’s AI ace card in rivalry with Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
+## AI may help cut legacy tech debt, but clients fear creating a new one
+Despite modernising nearly 90 legacy applications and achieving around 60% faster migration through AI-enabled software development, enterprises continue to view technical debt as an inevitable part of their technology investments
+
+## India’s Russian crude imports hit record high in July
+Analysts and refiners emphasised that Moscow has transformed into New Delhi’s strongest energy security hedge, particularly since the closure of the Strait of Hormuz (SoH) and growing disruptions in the Bab-el-Mandeb strait
+
+## Delhi airport to increase annual passenger handling capacity to 125 million
+For now, no decision has been firmed up on having Terminal 4 or building the Automatic Passenger Mover (APM).
+
+## Consumer appliances makers gear up for festival season with increased production
+Focus on premium segment as retailers begin early channel stocking; supply chain issues ease
+
 ## India Post’s pilot in Gujarat helps 5 FPOs overcome logistic challenges, business doubles
 ONDC is already working to onboard more FPOs and once the word spreads about growing orders, there will be many of them on MyStore App
 
@@ -48,17 +60,8 @@ Industry sees near-term pressure on dividend distribution, seeks rollback or red
 ## Lodha Developers to launch 21 housing projects by March with ₹24,000-cr revenue potential
 During the first quarter of this fiscal year, Lodha Developers launched only one housing project in Mumbai Metropolitan Region.
 
-## Airtel prepaid plan tweaks: Brokerages estimate per-user revenue lifts ranging from ₹4 to ₹12
-Some viewed the changes as selective plan rationalisation rather than an across-the-board or formal tariff hike, but said it would aid Airtel's premiumisation strategy by prompting customers to upgrade
-
-## Bengali filmmaker Raja Sen dies at 71 after prolonged illness
-Sen was undergoing treatment at SSKM Hospital for multiple health complications.
-
-## Why Goldman Sachs thinks there may be an ‘earnings bubble’ in tech?
-Report says while technology valuations have moderated, implied future growth has been rising
-
-## Explained: Trump says will ‘soon’ declare Strait of Hormuz US territory
-The impasse has kept energy prices as a major focus of US politics ahead of November’s midterm elections.
+## India cooks up LPG safety net: Govt fixes refinery-wise output targets; Reliance gets biggest quota
+India is establishing production benchmarks for its refineries and upstream firms, aimed at fortifying the domestic LPG supply system. Reliance Industries leads with the highest targets assigned to its refinery. It is imperative that companies ensure sufficient infrastructure for LPG storage and tra
 
 ## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
 India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
@@ -81,8 +84,20 @@ The Reserve Bank of India (RBI) has laid out some guidelines for lenders on reco
 ## Anthropic's IPO may hinge on a $200 billion revenue bet: Here's what investors are looking at
 Anthropic forecasts remarkable revenue growth by the year 2028, with projections estimating earnings reaching between $190 billion and $200 billion. Investors closely analyze other tech companies like Palantir and SpaceX in light of these figures. However, Anthropic's current expenditures are strain
 
-## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
-Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
+## Minor gang raped, six including four minors held in Tripura: Police
+Tripura police arrested two men and apprehended four minors for allegedly gang-raping a 16-plus girl in Gomati district, police said.
+
+## Kasautii Zindagii Kay actor Antara Banerjee attacks RPF jawan with blade, ‘deliberately’ injures self: Police
+The actor, who was once a part of TV serial Kasautii Zindagii Kay, also deliberately injured herself, before smashing a window of the train.
+
+## 20 blackbucks released in Gujarat’s Banni grasslands on Independence Day
+Gujarat Forest Department, Vantara release 20 blackbucks in Banni grasslands to boost native wildlife.
+
+## Ex-TMC MLA Asish Banerjee faced no case of corruption: CM Suvendu denies any police ‘pressure’ caused his death
+“Police will see if he was being blackmailed. He was a gentleman although the same cannot be said about some of his colleagues (from Mamata's TMC),” CM said.
+
+## Harassed, beaten: BSF Jawan arrested for wife's murder in Punjab's Hoshiarpur, told family she 'fell from roof'
+On the intervening night of August 13 and 14, the victim's father was informed that the accused had called to say that Rama had fallen from the roof.
 
 ## 'Entire Bengal fuming, Congress must apologise': CM Suvendu Adhikari slams Sonia Gandhi over Vande Mataram row
 Adhikari Sonia Gandhi allegedly “objecting” to the singing of the full version of Vande Mataram, calling it an “insult” to Bankim Chandra Chattopadhyay.
@@ -92,21 +107,6 @@ The ministry also said under its chairship, it has already initiated discussions
 
 ## BCAS probes accidental firing at Varanasi airport that injured 2 screeners: Govt
 The government confirmed that both personnel were immediately provided assistance and shifted to New Lakshmi Trauma Center
-
-## ‘Had dinner with us, showed no stress’: Ex-TMC MLA Ashis Banerjee’s brother recalls his final hours
-Ex-TMC MLA Ashis Banerjee was found dead inside TMC office in Birbhum on Sunday morning and a purported suicide note was also recovered.
-
-## ‘Witch hunt’: NLSIU students object to Bar Council chief, CJI Surya Kant attending convocation amid NALSAR row
-They have also demanded an unconditional apology from BCI to the student and faculty community of the NALSAR University of Law, Hyderabad.
-
-## ‘Proud to be a dimaagi naxal’: Opposition leaders after PM Modi's ‘isolate them’ remarks
-Modi on Saturday warned against “dimagi Naxals”, saying that people sympathetic to the ideology were still looking for opportunities to “brainwash” the youth.
-
-## ‘Shameless repetition’: Bankim Chattopadhyay’s descendant seeks Sonia Gandhi’s apology over Vande Mataram row
-In a letter to Gandhi, the BJP MLA said he was writing as an ordinary citizen, a patriot and a direct descendant of Bankim Chandra.
-
-## ‘They came to meet me’: PM Modi shares heartwarming pre-Independence Day moment with 'friends' | Watch
-Sharing the pictures on Instagram, PM Modi wrote: “Feeding my friends every morning is a daily routine.
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Premier League: Key talking points heading into the new 2026-27 season
+City, Liverpool and Chelsea have new faces in the dugout as Arsenal attempt to defend title for first time in 90 years.
+
+## Doctor describes amputating girl’s leg in Gaza without anaesthesia
+‘We were praying for her to faint’.
+
+## The post-Hormuz era offers Africa a great opportunity
+But to capture its benefits, the continent needs to develop an effective, common maritime policy.
+
 ## Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa
 The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.
 
@@ -242,15 +251,6 @@ A three-year-old girl and a 75-year-old man have been pulled alive from the rubb
 
 ## At least 12 people killed in Hungary bus crash
 Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.
-
-## Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul
-Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.
-
-## Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m
-US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.
-
-## Australia to begin gun buyback scheme in response to Bondi shooting
-Australia will begin buying back guns in November, almost a year after a shooting at Sydney's Bondi killed 15 people.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
