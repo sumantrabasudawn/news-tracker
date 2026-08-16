@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Malaysia profits from data centre boom
+Southeast Asian country emerges as key AI hub in boost for its economy
+
+## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong
+Close relations with both US and China mean the latest AI models are easily accessible in the city-state
+
 ## Israeli strikes kill 11 in Lebanon two months into truce
 Attacks were ‘response to an action’ by Hizbollah, says Israeli military
 
@@ -21,15 +27,6 @@ Kospi down, won up
 ## What the Lakers’ $12.5bn sale says about sports ownership
 Also in today’s newsletter: what Liverpool’s new shareholders bring and more
 
-## Modi promises free exam coaching after India’s ‘cockroach’ protests
-Prime minister vows to ease financial pressures facing youth in independence day address
-
-## Malaysia profits from data centre boom
-Southeast Asian country emerges as key AI hub in boost for its economy
-
-## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong
-Close relations with both US and China mean the latest AI models are easily accessible in the city-state
-
 ## China poised to lift travel ban on Manus founders
 Chief executive Xiao Hong plans to return to Singapore as AI company nears resolution of Meta separation
 
@@ -42,29 +39,32 @@ From sports to cinema-going, live shared experiences are increasingly popular an
 ## OpenAI upheaval mounts as Sam Altman readies IPO push
 Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing
 
-## US or China: Washington to tell partners they must pick sides in AI race
-Letters to be sent to 35 AI coalition members; recipients to include Kazakhstan, only known member of both US and Chinese coalitions and a source of critical minerals
+## Voltas Q1 results: Net profit jumps 51% to ₹212.8 cr
+Revenue from operations stood at ₹4,673.5 crore in the June quarter of FY27, up 18.65%.
 
-## Nifty Outlook: Indices stagnate
-Supports are there to limit the downside and keep alive the positive bias
+## FCNR deposits explained: Can they help stabilise the rupee? | On the beat podcast | Part 02
+Why global investors still can’t ignore India.
 
-## US Market Outlook: Wall Street hold higher
-The short-term picture remains positive to see more rise
+## Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast | Part 01
+How is India navigating crude oil volatility, a weakening rupee, and foreign capital outflows?
 
-## Sony Pictures India to launch its Tamil GEC in October
-The channel will bring together original fiction, global reality formats, movies and tentpole entertainment across television and digital platforms
+## Patanjali Foods Q1 results: Profit rises 86% to ₹336 cr
+Total income rose to ₹11,341.89 crore during the first quarter of this fiscal.
 
-## Lalithaa Jewellery Mart IPO: Should you subscribe?
-Strong store productivity is a positive, but gold price exposure and geographic concentration warrant caution
+## E. coli bacteria found in drinking water at several railway stations: CAG
+CAG studies passenger services at 512 non-suburban grade stations across all zones
 
-## Should you subscribe to Horizon Industrial Parks IPO?
-Considering the execution risks around this business, Horizon Industrial Parks’ asking price of 31.3x post-issue EV to EBITDA (FY26) appears expensive
+## NMDC Q1 results: Net profit up 2% to ₹2,005.71 cr
+During April-June, the company increased its total income to ₹7,142.54 crore, up 1.5%.
 
-## Beyond the click: What to do after filing your ITR-1 or ITR-2
-Verification, revised returns, the Section 143(1) intimation and the refund cycle — a guide to the post-filing journey
+## AI, data centres and jobs: Is India entering a new growth era? | On the beat podcast | Part 03
+India’s growth story intact? Experts decode jobs, demand and consumption.
 
-## Gaja Alternative Asset Management IPO: Should you invest or avoid?
-IPO Watch The home-grown alternatives asset manager offers strong fund credentials, but earnings mix limits IPO valuation comfort
+## Cochin Shipyard Q1 net profit down 19.36% at ₹151.45 cr
+Cochin Shipyard's total expenses rose to ₹958.76 crore in the June quarter of this fiscal.
+
+## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
+Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
 
 ## Berkshire Hathaway reshuffles portfolio, raises Alphabet and homebuilder stakes
 Berkshire Hathaway is undergoing a notable transformation in its investment approach. The company has notably augmented its investments in Alphabet and US homebuilders, while simultaneously diminishing its stakes in various financial firms and other stocks. Additionally, Berkshire has completely div
@@ -86,9 +86,6 @@ Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion.
 
 ## Why India's GCC boom is facing a talent problem — and what companies want next
 Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge. GCCs need to significantly increase inve
-
-## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
-In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
 
 ## Man slaps, kicks, drags delivery agent in Meerut for arriving ‘5 minutes late’; arrested
 The incident took place on Friday in the Ganga Sagar Colony area under the limits of Bhawanpur police station.
@@ -234,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Yemeni government forces hit back after new Houthi offensive
+Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.
+
+## Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
+Three decades after rapper Tupac Shakur's death, a former California gang boss is the first person to be prosecuted.
+
 ## Observers say Zambia’s election marred by reports of intimidation, violence
 Vote counting in Thursday's presidential polls were briefly suspended amid security threats to the electoral process.
 
@@ -251,12 +254,6 @@ Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in
 
 ## Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon
 Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
-
-## Yemen’s government says Houthi strikes hit residential areas in Marib
-Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.
-
-## At least five reported dead amid flooding in US state of Indiana
-Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
