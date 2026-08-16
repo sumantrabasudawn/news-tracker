@@ -1,43 +1,46 @@
 # AION Intelligence
 
+## Most US voters say they are worse off under Trump — FT poll
+Democrats lead Republicans on economy just months ahead of midterm elections
+
+## Harvey Nicks deal hints at department stores’ hidden potential
+Services won’t restore the golden age but could give young shoppers a reason to return
+
+## World’s largest carmakers seek to avert motor oil crisis
+Shortage of Group III base oils prompts auto manufacturers to turn to new blends
+
+## Are Americans making peace with the spectre of socialism?
+Democratic socialist candidates are winning primary battles as voters turn to progressive policies
+
+## European companies count the costs and gains of extreme heat
+Businesses flagged effects of extreme heat, drought and wildfires on a record share of earnings calls in recent weeks
+
+## Miner Ferrexpo caught up in dispute between oligarch and Kyiv
+Iron ore group is trying to raise cash while sanctions-hit shareholder fights to maintain his stake
+
+## The Italian university benefiting from the post-Brexit student shift
+Bocconi is among the institutions filling the gap as European undergraduates avoid higher UK fees
+
+## Can we stop with the public ‘blasterbating’, actually?
+It is now hard to take public transport without having to endure the sound of someone else’s smartphone speaker
+
+## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
+Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
+
+## BlackBerry: From phone dinosaur to tech champion
+A decade after the disappearance of its handsets, the company’s future rests on car and security software
+
 ## Malaysia profits from data centre boom
 Southeast Asian country emerges as key AI hub in boost for its economy
 
 ## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
-## Israeli strikes kill 11 in Lebanon two months into truce
-Attacks were ‘response to an action’ by Hizbollah, says Israeli military
+## Govt sets LPG production targets for refiners; Reliance gets largest quota
+The lion's share of the planned output has been set from Reliance Industries Ltd's older refinery, which would have to produce up to 18,000 tonnes a day of LPG
 
-## US aircraft carrier furore is emblem of growing disquiet over Iran war
-Reports of poor conditions aboard the USS Abraham Lincoln coincide with depleting stocks of both weapons and voter support
-
-## Ukraine left exposed as Patriot launchers run empty
-Kyiv’s military momentum at risk as dwindling interceptor stocks leave it vulnerable to Russia’s winter campaign
-
-## Burnham calls for ‘reflection’ over death of Jason Arday
-Family of Cambridge’s youngest-ever Black professor say ‘campaign of misinformation’ was ‘too much’
-
-## Labour’s rental reforms disrupt student market and lengthen lettings process
-Renters’ Rights Act locks international students out of housing market while pushing prospective tenants into double rents
-
-## South Korea’s inverse correlation
-Kospi down, won up
-
-## What the Lakers’ $12.5bn sale says about sports ownership
-Also in today’s newsletter: what Liverpool’s new shareholders bring and more
-
-## China poised to lift travel ban on Manus founders
-Chief executive Xiao Hong plans to return to Singapore as AI company nears resolution of Meta separation
-
-## How John Henry took Liverpool from crisis club to $7bn juggernaut
-US billionaire imported data analysis techniques honed in baseball to return Liverpool to the top of English football
-
-## The experience economy is a blockbuster phenomenon
-From sports to cinema-going, live shared experiences are increasingly popular and a haven for AI-fearful investors
-
-## OpenAI upheaval mounts as Sam Altman readies IPO push
-Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing
+## JSW Mahanadi Power settles Raigarh Champa Rail dispute; NCLAT disposes of appeal
+Dispute stemmed from unpaid invoices under a 2014 coal transportation infrastructure agreement.
 
 ## Low-pressure area forms over northwest Bay of Bengal; fishermen advised against venturing into sea
 The weather department said that squally weather, with wind speeds reaching 40-50 kmph and gusting to 60 kmph, is very likely over northwest Bay of Bengal
@@ -56,12 +59,6 @@ Amodei argued that fair institutional processes can constrain corporate power an
 
 ## 414 protected monuments and areas witnessed encroachments: Centre
 The primary objective of the Archaeological Survey of India (ASI) is to carry out conservation and maintenance of protected monuments in accordance with the provisions of the AMASR Act, 1958 and the relevant rules
-
-## Zaggle Q1 results: Net profit dips 33%, revenue up 27.5%
-Revenue from operations for the quarter under review rose 27.5 per cent to ₹423.26 crore.
-
-## Delhi weather update: Light rain likely in city
-The maximum temperature is expected to touch 34 degrees Celsius; relative humidity was recorded at 73 per cent at 8.30 am
 
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
@@ -87,7 +84,13 @@ Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion.
 ## Why India's GCC boom is facing a talent problem — and what companies want next
 Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge. GCCs need to significantly increase inve
 
-## E coli bacteria in drinking water, no toilets, no dustbins: CAG flags basics missing at major railway stations
+## 32-year-old Bengaluru engineer kills techie wife, dies by suicide after fight: Police
+A 32-year-old Bengaluru engineer allegedly strangled his tech professional wife after a heated argument before dying by suicide, police said.
+
+## Operation Toofan: Anti-narcotics drive to be intensified during Onam, warns Chennithala
+Operation Toofan: Anti-narcotics drive to be intensified during Onam, warns Chennithala
+
+## E coli in water, no toilets, no dustbins: CAG flags basics missing at Delhi, Mumbai among major railway stations
 Stations like Mumbai Central, Kolkata-adjacent Howrah and Sealdah, and even New Delhi, found deficient in seating, toilets, dustbins, electronic boards
 
 ## KFC chicken under scanner in Mangaluru, expired meat found in 3-star Mysuru hotels
@@ -104,12 +107,6 @@ BCI chairman Manan Kumar Mishra on Saturday apologised to the law students and s
 
 ## Ex-Bengal deputy speaker Ashis Banerjee found dead at TMC office in Birbhum, suicide note recovered
 A purported suicide note has also been recovered from the TMC office which located near Ashis Banerjee's residence in Rampurhat, police said.
-
-## How a Marathi play was built from unrecorded grindmill songs of women
-Mayuri Ravindra’s route into the material was not academic, though the research, once it began, was extensive
-
-## Jharkhand protesters threaten to gherao CM Soren's residence, demand his resignation
-Students protesting against alleged exam irregularities took out a ‘Tiranga Yatra’ on Saturday -- the 22nd day of the indefinite strike started by the students.
 
 ## Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent
 China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing. D
@@ -231,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
+Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
+
 ## Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania
 Romania's Defence Ministry didn't specify origin of the drone but has previously blamed Russia for similar incidents.
 
@@ -251,9 +251,6 @@ Vote counting in Thursday's presidential polls were briefly suspended amid secur
 
 ## Al Jazeera journalist opens beach cafe in the Gaza she loves
 Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war
-
-## As petrol prices soar, electric bikes gain ground in Nigeria
-Riders say the switch is helping them cut fuel and maintenance costs.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
