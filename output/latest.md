@@ -39,29 +39,29 @@ From sports to cinema-going, live shared experiences are increasingly popular an
 ## OpenAI upheaval mounts as Sam Altman readies IPO push
 Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing
 
-## Voltas Q1 results: Net profit jumps 51% to ₹212.8 cr
-Revenue from operations stood at ₹4,673.5 crore in the June quarter of FY27, up 18.65%.
+## Low-pressure area forms over northwest Bay of Bengal; fishermen advised against venturing into sea
+The weather department said that squally weather, with wind speeds reaching 40-50 kmph and gusting to 60 kmph, is very likely over northwest Bay of Bengal
 
-## FCNR deposits explained: Can they help stabilise the rupee? | On the beat podcast | Part 02
-Why global investors still can’t ignore India.
+## IPOs ahead: Here’s what to know as 6 companies eye nearly ₹5,600 cr next week
+The upcoming issues follow the launch of five IPOs in the past week, while three companies had already tapped the market earlier this month
 
-## Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast | Part 01
-How is India navigating crude oil volatility, a weakening rupee, and foreign capital outflows?
+## FPIs pour ₹16,621 crore into Indian equities in first half of August
+FPIs had withdrawn ₹49,340 crore in June, ₹32,963 crore in May, ₹60,847 crore in April and a massive ₹1.17 lakh crore in March
 
-## Patanjali Foods Q1 results: Profit rises 86% to ₹336 cr
-Total income rose to ₹11,341.89 crore during the first quarter of this fiscal.
+## Geopolitical developments, crude oil major driving factors for market movement this week: Analysts
+Globally, the FOMC (Federal Open Market Committee) minutes will be closely watched for signals on the Federal Reserve's policy outlook
 
-## E. coli bacteria found in drinking water at several railway stations: CAG
-CAG studies passenger services at 512 non-suburban grade stations across all zones
+## Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power
+Amodei argued that fair institutional processes can constrain corporate power and protect individuals, while regulation can be designed to place greater burdens on the most advanced AI companies than on smaller challengers
 
-## NMDC Q1 results: Net profit up 2% to ₹2,005.71 cr
-During April-June, the company increased its total income to ₹7,142.54 crore, up 1.5%.
+## 414 protected monuments and areas witnessed encroachments: Centre
+The primary objective of the Archaeological Survey of India (ASI) is to carry out conservation and maintenance of protected monuments in accordance with the provisions of the AMASR Act, 1958 and the relevant rules
 
-## AI, data centres and jobs: Is India entering a new growth era? | On the beat podcast | Part 03
-India’s growth story intact? Experts decode jobs, demand and consumption.
+## Zaggle Q1 results: Net profit dips 33%, revenue up 27.5%
+Revenue from operations for the quarter under review rose 27.5 per cent to ₹423.26 crore.
 
-## Cochin Shipyard Q1 net profit down 19.36% at ₹151.45 cr
-Cochin Shipyard's total expenses rose to ₹958.76 crore in the June quarter of this fiscal.
+## Delhi weather update: Light rain likely in city
+The maximum temperature is expected to touch 34 degrees Celsius; relative humidity was recorded at 73 per cent at 8.30 am
 
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
@@ -87,6 +87,12 @@ Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion.
 ## Why India's GCC boom is facing a talent problem — and what companies want next
 Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge. GCCs need to significantly increase inve
 
+## E coli bacteria in drinking water, no toilets, no dustbins: CAG flags basics missing at major railway stations
+Stations like Mumbai Central, Kolkata-adjacent Howrah and Sealdah, and even New Delhi, found deficient in seating, toilets, dustbins, electronic boards
+
+## KFC chicken under scanner in Mangaluru, expired meat found in 3-star Mysuru hotels
+In Mangaluru, a KFC outlet faced a surprise raid after a customer raised alarm over the quality of chicken.
+
 ## Man slaps, kicks, drags delivery agent in Meerut for arriving ‘5 minutes late’; arrested
 The incident took place on Friday in the Ganga Sagar Colony area under the limits of Bhawanpur police station.
 
@@ -99,17 +105,11 @@ BCI chairman Manan Kumar Mishra on Saturday apologised to the law students and s
 ## Ex-Bengal deputy speaker Ashis Banerjee found dead at TMC office in Birbhum, suicide note recovered
 A purported suicide note has also been recovered from the TMC office which located near Ashis Banerjee's residence in Rampurhat, police said.
 
+## How a Marathi play was built from unrecorded grindmill songs of women
+Mayuri Ravindra’s route into the material was not academic, though the research, once it began, was extensive
+
 ## Jharkhand protesters threaten to gherao CM Soren's residence, demand his resignation
 Students protesting against alleged exam irregularities took out a ‘Tiranga Yatra’ on Saturday -- the 22nd day of the indefinite strike started by the students.
-
-## ‘Dimaagi Naxals’: Row erupts as PM Modi warns of ideological threat from Red Fort
-PM Narendra Modi warned of a ‘dimaagi Naxal’ threat while saying armed Naxalism is nearing elimination, drawing sharp criticism from opposition leaders
-
-## ‘People’s welfare is absolute highest priority’: Tamil Nadu CM Vijay at Independence Day event
-Vijay announced several measures for ex-servicemen, freedom fighters and their families.
-
-## PM Modi announces free online coaching for competitive exams, AI training for 1 crore youth
-Modi said that the government will provide AI skill training to 10 million youth in the next one year.
 
 ## Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent
 China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing. D
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania
+Romania's Defence Ministry didn't specify origin of the drone but has previously blamed Russia for similar incidents.
+
+## Israel strikes south Lebanon again as families flee north
+Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.
+
+## Australia gun buyback spurred by Bondi attack to start in November, PM says
+Australia introduced measures to reduce gun ownership following a deadly attack on Sydney's Bondi Beach last year.
+
 ## Yemeni government forces hit back after new Houthi offensive
 Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.
 
@@ -245,15 +254,6 @@ Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to rev
 
 ## As petrol prices soar, electric bikes gain ground in Nigeria
 Riders say the switch is helping them cut fuel and maintenance costs.
-
-## Army drops roses on Syrian crowds in a far cry from war
-Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.
-
-## Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit
-Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.
-
-## Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon
-Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
