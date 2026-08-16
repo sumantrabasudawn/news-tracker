@@ -90,6 +90,9 @@ India could reach a $20 trillion economy by 2036 with reforms. Services will dri
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
 
+## CISF personnel caught secretly taking woman's photos on Delhi metro, suspended
+A viral video of the incident shows the woman and other passengers confronting the CISF personnel.
+
 ## ‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department
 Tamil Nadu CM Vijay called for an “honest investigation” into the “brutal incident”.
 
@@ -110,9 +113,6 @@ The woman, 22, who is a makeup artist, was allegedly raped twice in Delhi after 
 
 ## TMC panchayat leader arrested over murder of Bengal Congress leader, son: Police
 Anisur Rahman, the general secretary of the Nadia district Congress unit, and his son Abu Sufian, a law student, were shot dead inside their car
-
-## NTA to re-conduct UGC-NET for 3 subjects; 2nd exam cancellation this year after NEET leak
-UGC-NET is conducted to determine the eligibility of candidates for the posts of Assistant Professor and admission to PhD programmes.
 
 ## Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy
 [The content of this article has been produced by our advertising partner.] Artificial intelligence is moving quickly from experiment to operating tool, and Bruce Rockowitz believes it is becoming an important competitive advantage for Hong Kong’s catering businesses as the city’s food delivery econ
