@@ -42,6 +42,12 @@ Iron ore group is trying to raise cash while sanctions-hit shareholder fights to
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
+## Muthoot Fincorp’s Q1FY27 net profit soars about 4 times to ₹705 cr
+NBFC’s bottomline boosted by a jump in net interest income and gains made from sale/assignment of loan portfolio
+
+## Shera Energy eyes 25-30% revenue growth in FY27; bets on new products, capacity expansion
+In FY26 Shera Energy reported an annual turnover of ₹1,640 crore
+
 ## Employees flag poor implementation of well-being policy at workplaces: Report
 While 21% of respondents said well-being is embedded in their everyday work culture, 42% felt good policies exist, but execution varies, indicating that implementation remains a key challenge for organisations
 
@@ -59,12 +65,6 @@ As costs continue to rise amid rupee depreciation, the demand for education loan
 
 ## Navi Mumbai airport announces expansion of cargo ops, thirteen airlines to start freighter flights
 On Sunday, Hong Kong Air Cargo operated it’s first flight to Navi Mumbai
-
-## Tiruppur Exporters Association website to help buyers connect with exporters, avoid middlemen
-The textile town of Tiruppur in Tamil Nadu exports goods worth nearly ₹45,000 crore.
-
-## After a gap of 3 years, demand for small cars comes back
-Sale of mini cars more than doubled between April and July, this year to 58,109 units
 
 ## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
 Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Who is DEI critic and Jason Arday accuser, Nathan Cofnas?
+Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups.
+
 ## Patients treated in tents after earthquake damages Indonesia hospital
 Patients treated in tents after earthquake damages Indonesia hospital
 
@@ -254,9 +257,6 @@ Millions of Iranians struggle to make ends meet as war with US devastates the ec
 
 ## Trump threatens to make the Strait of Hormuz a US territory: Can he?
 US president has yet another outlandish threat for Iran, with no end to war in sight.
-
-## LIVE: Arsenal vs Manchester City – FA Community Shield
-Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
