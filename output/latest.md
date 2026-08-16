@@ -24,6 +24,9 @@ People are hanging up the casual aesthetic of the pandemic years to dress up aga
 ## Will the Fed minutes reveal any forward guidance?
 Market Questions is the FT’s guide to the week ahead
 
+## Rayner makes planning changes to protect England’s pubs and boost housebuilding
+Ministers to encourage property developments close to train, tram and underground stations
+
 ## The billionaire threatening to upend Wall Street
 Mark Walter’s much-copied strategy of leveraging insurers to build an empire has drawn regulatory scrutiny
 
@@ -38,12 +41,6 @@ Shortage of Group III base oils prompts auto manufacturers to turn to new blends
 
 ## European companies count the costs and gains of extreme heat
 Businesses flagged effects of extreme heat, drought and wildfires on a record share of earnings calls in recent weeks
-
-## Miner Ferrexpo caught up in dispute between oligarch and Kyiv
-Iron ore group is trying to raise cash while sanctions-hit shareholder fights to maintain his stake
-
-## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
-Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
 ## AI & Big Data: 1.53 lakh candidates received training in AP
 As per the Union govt’s data, AP has scored the highest number of AI/BDA candidates completing or getting certified under FutureSkills PRIME among all states with 1,08,895 candidates completing certification out of1,53,783.
@@ -93,6 +90,12 @@ India could reach a $20 trillion economy by 2036 with reforms. Services will dri
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
 
+## ‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department
+Tamil Nadu CM Vijay called for an “honest investigation” into the “brutal incident”.
+
+## Maharashtra BJP leader blames Trump’s shifting Iran war tactics for rise in alcohol consumption, delay in road work
+Speaking in Ahilyanagar, Sujay Vikhe-Patil criticised Trump over what he described as his frequently changing positions on the war and missile attacks.
+
 ## After FIR against MNS leaders for clash in Thane's Ambernath, police book 2 BJP councillors
 The complaint against local BJP leaders was lodged by Suhas Ghag, who runs a pest control business.
 
@@ -110,12 +113,6 @@ Anisur Rahman, the general secretary of the Nadia district Congress unit, and hi
 
 ## NTA to re-conduct UGC-NET for 3 subjects; 2nd exam cancellation this year after NEET leak
 UGC-NET is conducted to determine the eligibility of candidates for the posts of Assistant Professor and admission to PhD programmes.
-
-## 'Don't just adapt but lead in determining use of technology to reshape legal system': CJI Surya Kant to NLUs
-The CJI said that legal profession can no longer remain a late adopter of technology and rejected a prohibition of tools like generative AI in legal education.
-
-## Complaint filed against Sonia, Rahul Gandhi over disrespect to Vande Mataram
-Earlier, today, Union home minister Amit Shah at a rally in Chittorgarh said, “The Congress forgot Vande Mataram out of greed for vote banks”
 
 ## Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy
 [The content of this article has been produced by our advertising partner.] Artificial intelligence is moving quickly from experiment to operating tool, and Bruce Rockowitz believes it is becoming an important competitive advantage for Hong Kong’s catering businesses as the city’s food delivery econ
@@ -237,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arsenal cruise to 3-0 win over Manchester City in Community Shield
+Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.
+
 ## Moroccan migrants stage sit-in as thousands remain stranded in Ceuta
 Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge.
 
@@ -257,9 +257,6 @@ About 2.5 million people, including Japanese war criminals who fought for the co
 
 ## Who is DEI critic and Jason Arday accuser, Nathan Cofnas?
 Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups.
-
-## Patients treated in tents after earthquake damages Indonesia hospital
-Patients treated in tents after earthquake damages Indonesia hospital
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
