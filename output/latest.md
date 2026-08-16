@@ -36,29 +36,29 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
+## Amber to start making Oppo, OnePlus, Realme phones in March 2027 quarter
+Amber expects to start with production of 8 million units of Oppo group smartphone brands and scale it twofold to around 16 million units in the second year of operations
+
+## Indian Bank plans to raise $400 mn via ECB this week: MD Binod Kumar
+Indian Bank may mop up another $600 million via ECB before RBI’s concessional swap window deadline of December 31, 2026
+
+## Jindal Stainless investing ₹900 cr to boost cold rolling capacity to 2.67 MT by FY28
+JSL is also making significant investments to build up its downstream capabilities
+
+## Mcap: 5 of top-10 most valued firms lose ₹1 lakh cr; TCS drops most
+Market valuation of TCS slumps ₹34,263.28 crore to ₹8,53,506.85 crore
+
+## FinMin nudges ministries to switch to producer price index for rate adjustments in govt contracts
+The Department of Expenditure, in a communication to all ministries and departments, said that PPI is a more internationally accepted index compared to WPI used in government contracts to define price escalation.
+
+## ONGC bags US licence to resume full Venezuela operations
+Venezuela is strategically important for ONGC as it holds the world's largest proven crude oil reserves, estimated by OPEC at about 303 billion barrels, more than Saudi Arabia.
+
 ## Govt sets LPG production targets for refiners; Reliance gets largest quota
 The lion's share of the planned output has been set from Reliance Industries Ltd's older refinery, which would have to produce up to 18,000 tonnes a day of LPG
 
 ## JSW Mahanadi Power settles Raigarh Champa Rail dispute; NCLAT disposes of appeal
 Dispute stemmed from unpaid invoices under a 2014 coal transportation infrastructure agreement.
-
-## Low-pressure area forms over northwest Bay of Bengal; fishermen advised against venturing into sea
-The weather department said that squally weather, with wind speeds reaching 40-50 kmph and gusting to 60 kmph, is very likely over northwest Bay of Bengal
-
-## IPOs ahead: Here’s what to know as 6 companies eye nearly ₹5,600 cr next week
-The upcoming issues follow the launch of five IPOs in the past week, while three companies had already tapped the market earlier this month
-
-## FPIs pour ₹16,621 crore into Indian equities in first half of August
-FPIs had withdrawn ₹49,340 crore in June, ₹32,963 crore in May, ₹60,847 crore in April and a massive ₹1.17 lakh crore in March
-
-## Geopolitical developments, crude oil major driving factors for market movement this week: Analysts
-Globally, the FOMC (Federal Open Market Committee) minutes will be closely watched for signals on the Federal Reserve's policy outlook
-
-## Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power
-Amodei argued that fair institutional processes can constrain corporate power and protect individuals, while regulation can be designed to place greater burdens on the most advanced AI companies than on smaller challengers
-
-## 414 protected monuments and areas witnessed encroachments: Centre
-The primary objective of the Archaeological Survey of India (ASI) is to carry out conservation and maintenance of protected monuments in accordance with the provisions of the AMASR Act, 1958 and the relevant rules
 
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
@@ -84,29 +84,32 @@ Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion.
 ## Why India's GCC boom is facing a talent problem — and what companies want next
 Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge. GCCs need to significantly increase inve
 
-## 32-year-old Bengaluru engineer kills techie wife, dies by suicide after fight: Police
-A 32-year-old Bengaluru engineer allegedly strangled his tech professional wife after a heated argument before dying by suicide, police said.
+## Fresh low-pressure area in Bay of Bengal, IMD issues red warning of heavy rainfall in Odisha
+Fresh low-pressure area in Bay of Bengal, IMD issues red warning of heavy rainfall in Odisha
 
-## Operation Toofan: Anti-narcotics drive to be intensified during Onam, warns Chennithala
-Operation Toofan: Anti-narcotics drive to be intensified during Onam, warns Chennithala
+## Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown
+Detentions in BJP-ruled Rajasthan's Alwar come against backdrop of a wider pattern of detentions ahead of Amit Shah's public engagements in recent weeks
 
-## E coli in water, no toilets, no dustbins: CAG flags basics missing at Delhi, Mumbai among major railway stations
-Stations like Mumbai Central, Kolkata-adjacent Howrah and Sealdah, and even New Delhi, found deficient in seating, toilets, dustbins, electronic boards
+## Air India passenger's gun goes off at Varanasi airport, two injured
+Air India passenger's gun goes off at Varanasi airport, two injured
 
-## KFC chicken under scanner in Mangaluru, expired meat found in 3-star Mysuru hotels
-In Mangaluru, a KFC outlet faced a surprise raid after a customer raised alarm over the quality of chicken.
+## Who was Ashis Banerjee, 5-time TMC MLA found hanging at party office in Birbhum?
+Police were informed about ex-TMC MLA Ashis Banerjee's death by locals who allegedly found his dead body inside a TMC office in Birbhum.
 
-## Man slaps, kicks, drags delivery agent in Meerut for arriving ‘5 minutes late’; arrested
-The incident took place on Friday in the Ganga Sagar Colony area under the limits of Bhawanpur police station.
+## Guinness World record set at Indian I-Day celebration in New York, mayor Zohran Mamdani attends
+More than 1,300 US flags were arranged to form the number "250", surrounded by Indian tricolours, to mark America's semiquincentennial anniversary.
 
-## 'Mob baying for her': Shashi Tharoor backs Mahua Moitra after late-night eviction bid
-Tharoor urged the government to provide security to the TMC MP instead of asking her to vacate the government accommodation.
+## Rat in Blinkit freezer, spoiled KFC chicken: Food safety norms flouted across India, regulators crack whip
+Restaurant chains, including KFC, Pizza Hut, McDonald's, Subway, Burger King, Starbucks and Monginis have also been inspected for food safety norm violations.
 
-## Protest, enrolment ‘freeze’, CJI’s rap, then apology: Blow-by-blow of NALSAR row
-BCI chairman Manan Kumar Mishra on Saturday apologised to the law students and said he sincerely regretted if their feelings had been hurt.
+## NLSIU students, alumni oppose CJI Surya Kant, BCI chairman attending convocation
+NLSIU students, alumni oppose CJI Surya Kant, BCI chairman attending convocation
 
-## Ex-Bengal deputy speaker Ashis Banerjee found dead at TMC office in Birbhum, suicide note recovered
-A purported suicide note has also been recovered from the TMC office which located near Ashis Banerjee's residence in Rampurhat, police said.
+## PM Modi, President Murmu pay tribute to Atal Bihari Vajpayee on death anniversary
+PM Narendra Modi, President Droupadi Murmu and other leaders paid tribute to former PM A B Vajpayee at his memorial ‘Sadaiv Atal’ on his death anniversary.
+
+## Buy or rent? Hong Kong homebuyers face an age-old housing dilemma
+Trapped between rising residential rents and the looming shadow of interest rate increases, Hong Kong homebuyers are revisiting that age-old dilemma when making decisions about housing: buy or rent? The Centa-City Rental Index (CRI), which reflects the rent of second-hand private residential propert
 
 ## Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent
 China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing. D
@@ -128,9 +131,6 @@ As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two
 
 ## Reduce your exposure to US assets before they lose value, Pictet warns investors
 Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned. Shifting to commodities and equities in emerging markets offers a greater 
-
-## Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence
-Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races to counter Western advances in AI defence. Beijing-based Zhipu said GLM-5.3 achieved a success rate 
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How a simple lighter has become the backbone of life in Gaza
+In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.
+
+## A nation divided: What do Israelis want in October’s elections?
+Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.
+
 ## Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
 Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
 
@@ -245,12 +251,6 @@ Yemeni government forces, backed by Saudi Arabia, have struck back after a new H
 
 ## Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
 Three decades after rapper Tupac Shakur's death, a former California gang boss is the first person to be prosecuted.
-
-## Observers say Zambia’s election marred by reports of intimidation, violence
-Vote counting in Thursday's presidential polls were briefly suspended amid security threats to the electoral process.
-
-## Al Jazeera journalist opens beach cafe in the Gaza she loves
-Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
