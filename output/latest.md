@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Don’t dismiss the mini-middle powers
+Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial areas
+
 ## British farmers need more help to cope with brutal heat
 Water shortages have become a dark daily reality affecting crops, livestock and the viability of farms
 
@@ -42,29 +45,35 @@ Iron ore group is trying to raise cash while sanctions-hit shareholder fights to
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
-## E-commerce order volumes up 31% during Independence Day sales
-The insights, derived between August 6 and 14, also revealed a 30% jump in total sales value, or gross merchandise value (GMV), compared to the same period in 2025
+## AI & Big Data: 1.53 lakh candidates received training in AP
+As per the Union govt’s data, AP has scored the highest number of AI/BDA candidates completing or getting certified under FutureSkills PRIME among all states with 1,08,895 candidates completing certification out of1,53,783.
 
-## Mastering Derivatives: Model vs actual volatility
-Traders prefer implied volatility instead of calculating volatility from a data set of underlying returns
+## GT Bharathi secures WTC licence, plans ₹7,000-crore integrated township along OMR
+“Our vision is a self-sustaining live-work-learn destination anchored by the WTC business park,” said Arun Bharathi Arunachalam, Managing Director of GT Bharathi.
 
-## QR coding for medicines needs to take the next leap in standardization of codes: GS1 CEO
-India cannot work in silos, aligning with internationally recognised systems would ensure that the product, batch, and expiry information were encoded in a universal manner: Swaminathan
+## GST cut, stable interest rates keep auto demand resilient, M&M’s Jejurikar
+M&M sees room for both ICE and EVs to grow as improved affordability and stronger economic activity sustain vehicle demand despite persistent supply constraints
+
+## Letters to the Editor dated August 16, 2026
+
+
+## Struggles of starting up
+Inside stories of founders who stayed the course
+
+## Editorial. Slicing it right
+5G network pathways need sensible regulation
 
 ## Infosys bets on building AI talent internally as demand outpaces supply
 AI is definitely augmenting the workforce; human-plus-AI work paradigm increases people’s productivity, says Infosys Chief Human Resources Officer
 
-## Tiruppur Exporters Association website to help buyers connect with exporters, avoid middlemen
-The textile town of Tiruppur in Tamil Nadu exports goods worth nearly ₹45,000 crore.
+## Europe emerges top destination for India's electric car shipments in Q1
+India's exports of electric motor cars surged in the first quarter of 2026-27, with export earnings rising sharply to $369 million from $22.2 million a year earlier, while shipments jumped to 10,802 vehicles from 1,309 units
 
-## West Asia developments, Fed minutes set to shape bullion's next move: Analysts
-On the domestic front, gold futures for October delivery climbed ₹2,686, or nearly 2%, last week to close at ₹1.54 lakh per 10 grams on the Multi Commodity Exchange (MCX)
+## FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August
+In August, foreign investors turned the tide by purchasing Indian equities, building on the positive momentum from July's inflows. This shift follows a period of substantial selling earlier in the year. With attractive valuations and promising corporate earnings, renewed interest from foreign invest
 
-## Flex-workspace firms want to make every square foot work harder
-IndiQube, Awfis, WeWork India, and others are focusing on value-added workspace services rather relying on footprint expansion alone
-
-## Muthoot Fincorp’s Q1FY27 net profit soars about 4 times to ₹705 cr
-NBFC’s bottomline boosted by a jump in net interest income and gains made from sale/assignment of loan portfolio
+## Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week
+The IPO market anticipates a busy week with seven companies planning public offerings. These upcoming issues aim to collectively raise more than Rs 6,400 crore from investors. Horizon Industrial Parks and Lalithaa Jewellery Mart will launch their initial public offerings on August 17. Shankesh Jewel
 
 ## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
 Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
@@ -84,14 +93,23 @@ India could reach a $20 trillion economy by 2036 with reforms. Services will dri
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
 
-## Berkshire Hathaway reshuffles portfolio, raises Alphabet and homebuilder stakes
-Berkshire Hathaway is undergoing a notable transformation in its investment approach. The company has notably augmented its investments in Alphabet and US homebuilders, while simultaneously diminishing its stakes in various financial firms and other stocks. Additionally, Berkshire has completely div
+## After FIR against MNS leaders for clash in Thane's Ambernath, police book 2 BJP councillors
+The complaint against local BJP leaders was lodged by Suhas Ghag, who runs a pest control business.
 
-## Now, tax amnesty for undisclosed foreign assets
+## ‘Faulty mouse, logged out’: CJP slams ‘irregularities’ in Bombay HC clerk recruitment typing test; Dipke joins protest
+CJP's Abhijeet Dipke said that he was informed about the alleged irregularities during the Bombay High Court clerk recruitment exam by the students.
 
+## ‘They are like the dead’: Jharkhand students burn CM Hemant Soren, Rahul Gandhi's effigies amid exam protest
+Jharkhand student protests: The students accused the JMM-Congress alliance of "failing to take concrete action" on their demands.
 
-## NTA to re-conduct UGC-NET exams for English, Commerce and Sociology after 'multiple errors' in papers
-NTA to re-conduct UGC-NET exams for English, Commerce and Sociology after 'multiple errors' in papers
+## Drugged, threatened to be killed: Delhi woman raped twice by man she befriended on social media
+The woman, 22, who is a makeup artist, was allegedly raped twice in Delhi after being drugged by a man she met online.
+
+## TMC panchayat leader arrested over murder of Bengal Congress leader, son: Police
+Anisur Rahman, the general secretary of the Nadia district Congress unit, and his son Abu Sufian, a law student, were shot dead inside their car
+
+## NTA to re-conduct UGC-NET for 3 subjects; 2nd exam cancellation this year after NEET leak
+UGC-NET is conducted to determine the eligibility of candidates for the posts of Assistant Professor and admission to PhD programmes.
 
 ## 'Don't just adapt but lead in determining use of technology to reshape legal system': CJI Surya Kant to NLUs
 The CJI said that legal profession can no longer remain a late adopter of technology and rejected a prohibition of tools like generative AI in legal education.
@@ -99,20 +117,8 @@ The CJI said that legal profession can no longer remain a late adopter of techno
 ## Complaint filed against Sonia, Rahul Gandhi over disrespect to Vande Mataram
 Earlier, today, Union home minister Amit Shah at a rally in Chittorgarh said, “The Congress forgot Vande Mataram out of greed for vote banks”
 
-## Udhayanidhi Stalin says Vijay's Tamil Nadu govt ‘insecure, afraid of Gen Z’; recalls cops had ‘no answer’ on his arrest
-Udhayanidhi Stalin accused the TVK government of detaining people over their speeches and social media posts and termed its actions "fascist".
-
-## ‘They’re anti-school’: CJP's Saurav Das claims ‘BJP goons’ beat Bengal school volunteer's father
-The father of 25-year-old CJP volunteer Shaik Abdul Hafeez was allegedly assaulted on Thursday after his son raised concerns about a school at Karisunda.
-
-## 'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi
-In a video, Rahul Gandhi is seen interacting with around six students over the police action at Jantar Mantar.
-
-## Maharashtra FDA suspends Parle Agro's licence after expired Frooti, Appy found in Chembur godown
-The action comes as a part of FDA's wider statewide campaign against restaurants, hotels, dhabas, bakeries, online food platforms and other food businesses.
-
-## CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari
-CJP founder and national convener Abhijeet Dipke demanded the arrest of the accused persons on Sunday afternoon
+## Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy
+[The content of this article has been produced by our advertising partner.] Artificial intelligence is moving quickly from experiment to operating tool, and Bruce Rockowitz believes it is becoming an important competitive advantage for Hong Kong’s catering businesses as the city’s food delivery econ
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -134,9 +140,6 @@ Sales of luxury homes in mainland China’s top cities are picking up as high-ne
 
 ## China’s ‘Cat’, Honor of Kings great, reflects on his gaming career amid the esports explosion
 Hundreds of rapt fans sat in a convention hall in Paris recently, erupting into cheers after a competitor darted across the scene and left two opponents dead within seconds. The victims were only pixels on a screen, as the setting was a friendly esports match where leading players exhibited their sk
-
-## Karaoke in the car? China’s new wave of gadget-laden electric vehicles
-China’s electric vehicles (EVs) already lead the way in terms of battery and autonomous driving technologies. Now, the country’s auto brands are adding a new dimension to the notion of intelligent cars: turning them into full-scale entertainment centres. A new wave of Chinese-developed EVs is hittin
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -234,6 +237,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Moroccan migrants stage sit-in as thousands remain stranded in Ceuta
+Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge.
+
 ## Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down
 Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.
 
@@ -254,9 +260,6 @@ Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence vari
 
 ## Patients treated in tents after earthquake damages Indonesia hospital
 Patients treated in tents after earthquake damages Indonesia hospital
-
-## Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates
-Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
