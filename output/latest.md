@@ -24,6 +24,9 @@ Water shortages have become a dark daily reality affecting crops, livestock and 
 ## Reform UK vows to cut £50bn from welfare bill if it wins power
 Robert Jenrick says current benefits system is ‘a strange perversion of compassion’
 
+## Jamie Dimon warns UK chancellor against higher bank taxes
+JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget
+
 ## Ralph Lauren is winning the workwear wars as America returns to the office
 People are hanging up the casual aesthetic of the pandemic years to dress up again
 
@@ -38,9 +41,6 @@ Services won’t restore the golden age but could give young shoppers a reason t
 
 ## World’s largest carmakers seek to avert motor oil crisis
 Shortage of Group III base oils prompts auto manufacturers to turn to new blends
-
-## European companies count the costs and gains of extreme heat
-Businesses flagged effects of extreme heat, drought and wildfires on a record share of earnings calls in recent weeks
 
 ## Equity MF redemptions jump nearly 40% despite strong SIP inflows
 Investors cash in on market recovery and rotate funds into mid- and small-cap schemes despite elevated valuations
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
+Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.
+
+## Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan
+Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.
+
+## Erdogan calls for Strait of Hormuz reopening amid oil disruption
+Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.
+
 ## Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
 Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.
 
@@ -248,15 +257,6 @@ Israeli settlers and soldiers besiege Qusra families for eight days, blocking wa
 
 ## Cristiano Ronaldo hints at retirement at end of season
 Superstar forward gave his clearest indication yet that he might end his playing career after the current season.
-
-## Arsenal cruise to win over Manchester City in Community Shield
-Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.
-
-## Moroccan migrants stage sit-in as thousands remain stranded in Ceuta
-Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge.
-
-## Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down
-Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
