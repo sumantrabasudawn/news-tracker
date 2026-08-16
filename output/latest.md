@@ -36,6 +36,9 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc’s AI ace card in rivalry with Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
+## Punjab & Sind Bank exploring QIP option to raise funds, bring down govt holding: MD Saha
+Currently, the government holds a 93.85% stake in Delhi-headquartered Punjab & Sind Bank
+
 ## HMPL wins ₹28.47-crore NHAI project in Jharkhand
 The project has been secured through the e-tender process; the tenure for the project is 12 months
 
@@ -56,9 +59,6 @@ First-half direct ​investments plunged by nearly two-thirds y-o-y to €4.3 �
 
 ## Cement companies face margin pressure on fuel, input costs despite healthy volume growth
 Most of the companies reported double-digit sales growth, while profits came under pressure due to rising energy costs, subdued realisations and the lingering impact of geopolitical disruptions in West Asia
-
-## India could reach $20 trillion by 2036 with 14.2% rupee growth: Equirus
-Equiris estimated that these measures could lift India's growth trajectory while strengthening the external balance, creating the conditions required for the ambitious dollar-denominated target
 
 ## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
 India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
@@ -84,6 +84,9 @@ Anthropic forecasts remarkable revenue growth by the year 2028, with projections
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
 
+## ‘Shameless repetition’: Bankim Chattopadhyay’s descendant seeks Sonia Gandhi’s apology over Vande Mataram row
+In a letter to Gandhi, the BJP MLA said he was writing as an ordinary citizen, a patriot and a direct descendant of Bankim Chandra.
+
 ## ‘They came to meet me’: PM Modi shares heartwarming pre-Independence Day moment with 'friends' | Watch
 Sharing the pictures on Instagram, PM Modi wrote: “Feeding my friends every morning is a daily routine.
 
@@ -105,8 +108,8 @@ Zardari had earlier targeted India, saying the people 'believe in Akhand Bharat'
 ## HistoriCity| The long history of the ‘lungi’: From ancient India to Parliament
 From ancient India to Parliament, the lungi has evolved from a practical garment into a cultural symbol shaped by climate, class, caste and politics.
 
-## Just Like That: Is instant fame eclipsing enduring talent
-In the age of viral fame, visibility is often mistaken for achievement. Why India must rediscover the value of talent, excellence, discipline and lasting impact
+## Jim Rogers talks up the Chinese yuan amid fears of a US market crisis
+Legendary American investor Jim Rogers has long advocated cash holdings given the potential for a market crisis due to US national debt. But the currency he would hold might be the Chinese yuan rather than the US dollar, if the former were fully convertible, the veteran investor said in an interview
 
 ## I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled
 Tencent Holdings’ WeChat is already the undisputed super-app for over a billion people in China, handling everything from splitting dinner bills to hailing taxis. Now, Tencent is embedding an artificial intelligence agent named Xiaowei into the platform, adding a hands-free, automated assistant to i
@@ -128,9 +131,6 @@ China’s electric vehicles (EVs) already lead the way in terms of battery and a
 
 ## Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel
 China’s first online gaming billionaire has acquired the Mia Hotel in downtown Shanghai in a deal worth about 220 million yuan (US$32.6 million), becoming one of the latest investors to bet on a turnaround in the country’s long-suffering property market. Chen Tianqiao – a reclusive entrepreneur know
-
-## How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios
-As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artific
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul
+Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.
+
+## Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m
+US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.
+
+## Australia to begin gun buyback scheme in response to Bondi shooting
+Australia will begin buying back guns in November, almost a year after a shooting at Sydney's Bondi killed 15 people.
+
 ## Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS
 Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.
 
@@ -242,15 +251,6 @@ Bangladesh dominated Australia throughout, and the margin of victory will send s
 
 ## How a simple lighter has become the backbone of life in Gaza
 In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.
-
-## A nation divided: What do Israelis want in October’s elections?
-Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.
-
-## Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
-Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
-
-## Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv
-Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
