@@ -42,6 +42,12 @@ The prime minister is missing a simple trick in his campaign to revive high stre
 ## Meet luxury firms’ new branding tool: the intellectual influencer
 Gen Z are growing older, wiser and more cynical about common or garden influencers, a breed turned formulaic after a decade-plus run on social media
 
+## Nifty Outlook: Indices stagnate
+Supports are there to limit the downside and keep alive the positive bias
+
+## US Market Outlook: Wall Street hold higher
+The short-term picture remains positive to see more rise
+
 ## Sony Pictures India to launch its Tamil GEC in October
 The channel will bring together original fiction, global reality formats, movies and tentpole entertainment across television and digital platforms
 
@@ -60,11 +66,8 @@ IPO Watch The home-grown alternatives asset manager offers strong fund credentia
 ## Freedom to invest with balance sheet strongest in many years
 India Inc’s long-term earnings growth will depend on how it puts to use its new-found freedom
 
-## Tech Query: Muthoot Finance, Bajaj Housing Finance, Utkarsh Small Finance Bank, Vikram Solar- What is the outlook? Where are these stocks headed?
-We look at the prospects of Muthoot Finance, Bajaj Housing Finance, Utkarsh Small Finance Bank and Vikram Solar
-
-## Motilal Oswal Small Cap, Bank of India Small Cap, Parag Parikh Flexi Cap, Helios Flexi Cap: Flat Nifty, Divided Fortunes: The Two-Year Tale of Equity Fund Winners and Losers
-Two-year performance reveals how market rotations, drawdown protection and stock selection sharply separated equity fund winners from laggards
+## Berkshire Hathaway reshuffles portfolio, raises Alphabet and homebuilder stakes
+Berkshire Hathaway is undergoing a notable transformation in its investment approach. The company has notably augmented its investments in Alphabet and US homebuilders, while simultaneously diminishing its stakes in various financial firms and other stocks. Additionally, Berkshire has completely div
 
 ## Now, tax amnesty for undisclosed foreign assets
 
@@ -87,32 +90,29 @@ Talent shortages are a growing strategic risk for India's global capability cent
 ## Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15
 In a recent announcement, the government declared a temporary removal of export levies on petrol for a duration of two weeks. However, diesel exports will incur a duty of Rs 24 per litre, while aviation turbine fuel exports will be subject to a Rs 19.5 per litre levy. This new framework is set to ta
 
-## India’s big semiconductor push: PM Modi says 7-8 plants coming up in few years; stresses self-reliance in chips
-Looking ahead, PM Modi said an additional five to eight semiconductor plants are expected to be established over the next seven to eight years, further advancing India's journey towards Aatmanirbhar Bharat and Viksit Bharat.
+## Jharkhand protesters threaten to gherao CM Soren's residence, demand his resignation
+Students protesting against alleged exam irregularities took out a ‘Tiranga Yatra’ on Saturday -- the 22nd day of the indefinite strike started by the students.
+
+## ‘Dimaagi Naxals’: Row erupts as PM Modi warns of ideological threat from Red Fort
+PM Narendra Modi warned of a ‘dimaagi Naxal’ threat while saying armed Naxalism is nearing elimination, drawing sharp criticism from opposition leaders
+
+## ‘People’s welfare is absolute highest priority’: Tamil Nadu CM Vijay at Independence Day event
+Vijay announced several measures for ex-servicemen, freedom fighters and their families.
+
+## PM Modi announces free online coaching for competitive exams, AI training for 1 crore youth
+Modi said that the government will provide AI skill training to 10 million youth in the next one year.
+
+## Chamoli tunnel toll stands at 8; fate of 2 still unknown as rescue operation continues
+The death toll in the Chamoli tunnel accident rose to eight after rescuers recovered another worker’s body, while two workers remain missing
+
+## 7 pillars, 1 goal: PM Modi lays out ‘Saptadhara’ blueprint for ‘Viksit Bharat’
+On 80th Independence Day, Modi underlined initiatives to propel innovation among young people and train them in AI.
+
+## ‘Wrong policies have pushed youth into dark road’: Congress hits out at Modi government
+Kharge said peaceful protest was a constitutional right and students demanding their rights should not be branded anti-national.
 
 ## Suryapath Tiranga: Global relay of tricolour spirit from Fiji to mark 80th I-Day concludes in San Francisco
 Suryapath Tiranga: Global relay of tricolour spirit from Fiji to mark 80th I-Day concludes in San Francisco
-
-## Jharkhand protest: Students demand CM Hemant Soren's resignation, ask Congress to ‘withdraw support’
-The protesters announced that they will burn effigies of Soren and Rahul Gandhi on Sunday. They also said that they will gherao the CM's residence on August 20.
-
-## 'India will move forward when...': Rahul slams BJP after meeting Ankita Bhandari's family
-Rahul Gandhi said he met Ankita Bhandari's family in New Delhi two days ago.
-
-## ‘His health is priority’: Jharkhand Congress leader defends police stopping Mahto from Tiranga Yatra
-Jharkhand Congress leader Kumar Raja accused the BJP of trying to politicise the issue and said the party was “playing politics over dead bodies”.
-
-## ‘Sincerely regret, apologise’: Bar Council chief to students after CJI Kant's rap amid NALSAR row
-“If anything connected with the controversy has hurt the feelings of our students, I sincerely apologise," Bar Council Chairman Manan Kumar Mishra said.
-
-## 'Zameen, aasmaan, paatal, jahan bhi ho': Doval recalls PM Modi's Operation Sindoor order
-The top security official made the comments in the upcoming Discovery docuseries “Declassified: Operation Sindoor”.
-
-## Pregnant Odisha woman found dead in Andhra Pradesh; lover among two arrested
-Albina Garada, from Odisha's Koraput, was missing. Her body was recovered in Andhra Pradesh with investigations revealing her alleged lover as the murderer.
-
-## Bengaluru engineer hits wife, smothers her with pillow, then dies by suicide
-According to preliminary information, an argument between the two reportedly turned violent.
 
 ## Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts
 Sales of luxury homes in mainland China’s top cities are picking up as high-net-worth individuals, benefiting from the country’s tech boom, splash out billions of yuan to improve their housing. The buying binge has sparked expectations of a broad market recovery after a six-year property slump acros
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## As petrol prices soar, electric bikes gain ground in Nigeria
+Riders say the switch is helping them cut fuel and maintenance costs.
+
 ## Army drops roses on Syrian crowds in a far cry from war
 Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.
 
@@ -254,9 +257,6 @@ Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia ha
 
 ## US Democrats finalise major shakeup to 2028 presidential primary calendar
 South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.
-
-## Why is the latest Ebola outbreak worsening?
-Virus spreading in DRC faster than containment efforts.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
