@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## British farmers need more help to cope with brutal heat
+Water shortages have become a dark daily reality affecting crops, livestock and the viability of farms
+
+## Reform UK vows to cut £50bn from welfare bill if it wins power
+Robert Jenrick says current benefits system is ‘a strange perversion of compassion’
+
+## Farage’s fruitless by-election gambit
+Victory in Clacton will not enable Reform UK leader to dodge questions over finances
+
 ## Ukraine presses drone attacks on Moscow and Russian logistics
 Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer
 
@@ -18,9 +27,6 @@ Mark Walter’s much-copied strategy of leveraging insurers to build an empire h
 ## Big Tech’s data centre boom poised to drive up carbon emissions
 FT analysis finds 60 largest planned facilities could emit equivalent of 27 coal plants or 24mn cars per year
 
-## Most US voters say they are worse off under Trump — FT poll
-Democrats lead Republicans on economy just months ahead of midterm elections
-
 ## Harvey Nicks deal hints at department stores’ hidden potential
 Services won’t restore the golden age but could give young shoppers a reason to return
 
@@ -36,6 +42,15 @@ Iron ore group is trying to raise cash while sanctions-hit shareholder fights to
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
+## Employees flag poor implementation of well-being policy at workplaces: Report
+While 21% of respondents said well-being is embedded in their everyday work culture, 42% felt good policies exist, but execution varies, indicating that implementation remains a key challenge for organisations
+
+## A granular approach to growth and development
+Many Indias, one ambition: Why Viksit Bharat must be built region by region
+
+## Beauty, cosmetics segment to be key growth driver for EPL; raises near-term revenue guidance
+EPL sees the growth momentum continuing in July after reporting 25% topline growth in the June quarter, and has raised its revenue guidance for the near term to 16-18% and has retained its margin guidance at 20%
+
 ## GT Bharathi secures WTC licence, plans ₹7,000-crore integrated township along OMR
 “Our vision is a self-sustaining live-work-learn destination anchored by the WTC business park,” said Arun Bharathi Arunachalam, Managing Director of GT Bharathi.
 
@@ -50,15 +65,6 @@ The textile town of Tiruppur in Tamil Nadu exports goods worth nearly ₹45,000 
 
 ## After a gap of 3 years, demand for small cars comes back
 Sale of mini cars more than doubled between April and July, this year to 58,109 units
-
-## IN-SPACe proposes ₹500 crore third-party insurance cover for space launches
-The third party damage insurance framework will likely be part of Indian Space Activity Bill
-
-## India works out Chabahar handover to Iran amid US sanctions
-Negotiations on for getting back control of the Shahid Beheshti terminal once the situation improves, sanctions end
-
-## Centre to select first 50 airports under modified UDAN scheme
-States to nominate unserved airports; Centre to evaluate proposals under challenge mode framework
 
 ## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
 Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
@@ -84,6 +90,12 @@ Berkshire Hathaway is undergoing a notable transformation in its investment appr
 ## Now, tax amnesty for undisclosed foreign assets
 
 
+## 'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi
+In a video, Rahul Gandhi is seen interacting with around six students over the police action at Jantar Mantar.
+
+## Maharashtra FDA suspends Parle Agro's licence after expired Frooti, Appy found in Chembur godown
+The action comes as a part of FDA's wider statewide campaign against restaurants, hotels, dhabas, bakeries, online food platforms and other food businesses.
+
 ## CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari
 CJP founder and national convener Abhijeet Dipke demanded the arrest of the accused persons on Sunday afternoon
 
@@ -101,12 +113,6 @@ The incident took place on Saturday when local residents gathered to celebrate t
 
 ## 7 held in Karnataka over rape, abortion of woman with mental illness: Police
 According to police, Sandeep, Dr Nagaraj and Rekha gave the victim 10 abortion pills and carried out the termination of her three-month pregnancy
-
-## Bangladesh says PM will not visit India until Hasina extradited
-Sheikh Hasina faces the death penalty in Bangladesh after being convicted of crimes against humanity, and Dhaka has repeatedly requested her extradition.
-
-## ‘He said it was unloaded’: Injured screeners recall Air India Express passenger's gun going off at Varanasi airport
-Two AAICLAS screeners were injured when a passenger's licensed pistol accidentally went off at Lal Bahadur Shastri International Airport, Varanasi.
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -228,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Patients treated in tents after earthquake damages Indonesia hospital
+Patients treated in tents after earthquake damages Indonesia hospital
+
+## Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates
+Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.
+
+## Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank
+Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.
+
 ## Belgium’s largest wildfire on record spreads towards German border
 Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.
 
@@ -240,17 +255,8 @@ Millions of Iranians struggle to make ends meet as war with US devastates the ec
 ## Trump threatens to make the Strait of Hormuz a US territory: Can he?
 US president has yet another outlandish threat for Iran, with no end to war in sight.
 
-## Arsenal vs Manchester City LIVE: FA Community Shield
+## LIVE: Arsenal vs Manchester City – FA Community Shield
 Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.
-
-## Why has Israel escalated attacks in southern Lebanon despite ceasefire?
-At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.
-
-## Premier League: Key talking points heading into the new 2026-27 season
-City, Liverpool and Chelsea have new faces in the dugout as Arsenal attempt to defend title for first time in 90 years.
-
-## Doctor describes amputating girl’s leg in Gaza without anaesthesia
-‘We were praying for her to faint’.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
