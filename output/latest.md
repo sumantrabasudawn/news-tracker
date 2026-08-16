@@ -42,6 +42,9 @@ Iron ore group is trying to raise cash while sanctions-hit shareholder fights to
 ## UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on
 Profits forecast to decline this year as developers resort to bulk sales to shift homes in sluggish market
 
+## E-commerce order volumes up 31% during Independence Day sales
+The insights, derived between August 6 and 14, also revealed a 30% jump in total sales value, or gross merchandise value (GMV), compared to the same period in 2025
+
 ## Mastering Derivatives: Model vs actual volatility
 Traders prefer implied volatility instead of calculating volatility from a data set of underlying returns
 
@@ -62,9 +65,6 @@ IndiQube, Awfis, WeWork India, and others are focusing on value-added workspace 
 
 ## Muthoot Fincorp’s Q1FY27 net profit soars about 4 times to ₹705 cr
 NBFC’s bottomline boosted by a jump in net interest income and gains made from sale/assignment of loan portfolio
-
-## Shera Energy eyes 25-30% revenue growth in FY27; bets on new products, capacity expansion
-In FY26 Shera Energy reported an annual turnover of ₹1,640 crore
 
 ## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
 Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
@@ -90,6 +90,9 @@ Berkshire Hathaway is undergoing a notable transformation in its investment appr
 ## Now, tax amnesty for undisclosed foreign assets
 
 
+## NTA to re-conduct UGC-NET exams for English, Commerce and Sociology after 'multiple errors' in papers
+NTA to re-conduct UGC-NET exams for English, Commerce and Sociology after 'multiple errors' in papers
+
 ## 'Don't just adapt but lead in determining use of technology to reshape legal system': CJI Surya Kant to NLUs
 The CJI said that legal profession can no longer remain a late adopter of technology and rejected a prohibition of tools like generative AI in legal education.
 
@@ -110,9 +113,6 @@ The action comes as a part of FDA's wider statewide campaign against restaurants
 
 ## CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari
 CJP founder and national convener Abhijeet Dipke demanded the arrest of the accused persons on Sunday afternoon
-
-## 'PM Modi didn't say…': Kiren Rijiju shares 'dimagi naxals' list after Opposition's 'proud to be' jibe
-Earlier on Sunday, Congress leader P Chidambaram, pointing at PM Modi's speech, wrote in a post on X that he was "proud to be a Dimagi Naxal."
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down
+Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.
+
 ## Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii
 The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall.
 
@@ -254,9 +257,6 @@ Patients treated in tents after earthquake damages Indonesia hospital
 
 ## Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates
 Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.
-
-## Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank
-Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
