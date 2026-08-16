@@ -36,6 +36,15 @@ Southeast Asian country emerges as key AI hub in boost for its economy
 ## Singapore Inc’s AI ace card in rivalry with Hong Kong
 Close relations with both US and China mean the latest AI models are easily accessible in the city-state
 
+## Why Goldman Sachs thinks there may be an ‘earnings bubble’ in tech?
+Report says while technology valuations have moderated, implied future growth has been rising
+
+## Explained: Trump says will ‘soon’ declare Strait of Hormuz US territory
+The impasse has kept energy prices as a major focus of US politics ahead of November’s midterm elections.
+
+## IPOs ahead: Here’s what to know as 7 companies eye ₹6,400 cr next week
+The upcoming issues follow the launch of five IPOs in the past week, while three companies had already tapped the market earlier this month
+
 ## Punjab & Sind Bank exploring QIP option to raise funds, bring down govt holding: MD Saha
 Currently, the government holds a 93.85% stake in Delhi-headquartered Punjab & Sind Bank
 
@@ -50,15 +59,6 @@ The social media teams shall regularly monitor content relating to the ministry 
 
 ## US firms ramp up AI spending, but earnings impact remains limited: Goldman Sachs
 Goldman Sachs found that 11% of S&P 500 companies quantified AI productivity gains for a specific use case.
-
-## India must strengthen shipping capacity, naval protection amid growing chokepoints: GTRI
-GTRI says Red Sea crisis has completed 1,000 days without a durable solution
-
-## German companies cut US investment to three-year low: Data
-First-half direct ​investments plunged by nearly two-thirds y-o-y to €4.3 ⁠billion ($5 billion), the lowest level since 2023.
-
-## Cement companies face margin pressure on fuel, input costs despite healthy volume growth
-Most of the companies reported double-digit sales growth, while profits came under pressure due to rising energy costs, subdued realisations and the lingering impact of geopolitical disruptions in West Asia
 
 ## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
 India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
@@ -84,6 +84,15 @@ Anthropic forecasts remarkable revenue growth by the year 2028, with projections
 ## Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm
 Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has 
 
+## ‘Had dinner with us, showed no stress’: Ex-TMC MLA Ashis Banerjee’s brother recalls his final hours
+Ex-TMC MLA Ashis Banerjee was found hanging inside TMC office in Birbhum on Sunday morning and a purported suicide note was also recovered.
+
+## NLSIU students object to Bar Council chief, CJI Surya Kant attending convocation amid NALSAR row
+They have also demanded an unconditional apology from BCI to the student and faculty community of the NALSAR University of Law, Hyderabad.
+
+## ‘Proud to be a dimaagi naxal’: Opposition leaders after PM Modi's ‘isolate them’ remarks
+Modi on Saturday warned against “dimagi Naxals”, saying that people sympathetic to the ideology were still looking for opportunities to “brainwash” the youth.
+
 ## ‘Shameless repetition’: Bankim Chattopadhyay’s descendant seeks Sonia Gandhi’s apology over Vande Mataram row
 In a letter to Gandhi, the BJP MLA said he was writing as an ordinary citizen, a patriot and a direct descendant of Bankim Chandra.
 
@@ -98,15 +107,6 @@ Central, Arunachal teams intensify measures to contain FMD outbreak
 
 ## Kerala minister Shaji says he stands by his call to abandon PM SHRI scheme
 Kerala minister Shaji says he stands by his call to abandon PM SHRI scheme
-
-## Congress insulted Vande Mataram on Independence Day, should apologise to people: Amit Shah at Chittorgarh rally
-Earlier, Rajasthan Police detained a group of college students in Alwar ahead of Shah's public programme as they had been planning to hold a protest
-
-## 'Always been insensitive': Javed Akhtar slams Pak President Zardari's 'tolerate Hindus' remark
-Zardari had earlier targeted India, saying the people 'believe in Akhand Bharat', while Muslims in Pakistan were more tolerant towards their minorities.
-
-## HistoriCity| The long history of the ‘lungi’: From ancient India to Parliament
-From ancient India to Parliament, the lungi has evolved from a practical garment into a cultural symbol shaped by climate, class, caste and politics.
 
 ## Jim Rogers talks up the Chinese yuan amid fears of a US market crisis
 Legendary American investor Jim Rogers has long advocated cash holdings given the potential for a market crisis due to US national debt. But the currency he would hold might be the Chinese yuan rather than the US dollar, if the former were fully convertible, the veteran investor said in an interview
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Cincinnati Open: Djokovic stunned by Tirante in second round
+Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.
+
+## 3-year-old girl rescued 100 hours after Colombia earthquake
+A three-year-old girl and a 75-year-old man have been pulled alive from the rubble days after Colombia’s earthquake.
+
+## At least 12 people killed in Hungary bus crash
+Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.
+
 ## Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul
 Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.
 
@@ -242,15 +251,6 @@ Messi's record from the penalty spot is poor by his sky-high standards, includin
 
 ## New satellite images show Europe’s disappearing rivers due to drought
 Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.
-
-## UFC 330: Makhachev secures record-setting win against Machado Garry
-Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.
-
-## Bangladesh make history with first-ever Test cricket win in Australia
-Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.
-
-## How a simple lighter has become the backbone of life in Gaza
-In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
@@ -276,6 +276,9 @@ N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tat
 ## Beyond Chandrasekaran: Will Tata Sons opt for a new chairman or split power between chairman and CEO?
 The immediate question for Tata Sons is whether it will appoint another executive chairman in Chandrasekaran's mould or separate the group's governance and executive responsibilities between a chairman and a CEO or managing director.
 
+## RBI to stay in 'wait-and-watch' mode, supply side induced hike in inflation under watch
+While a policy rate hike is surely not a zero probability event, the bar for the same appears high for now, with the Reserve Bank of India (RBI) likely to look through the supply side induced increase in inflation, according to a new report.
+
 ## Parliament approves Mines & Minerals Update Bill, restricts states’ powers to tax mining
 According to Reddy, any fiscal burden imposed on mineral extraction should be guided by a uniform and balanced fiscal framework.
 
@@ -296,7 +299,4 @@ Government incentives for electric two-wheelers are extended until March 2028. F
 
 ## Sebi measures reduce equity F&O losses for retail investors in FY26
 Sebi's new rules significantly lowered retail investor losses in equity derivatives. Aggregate net losses dropped to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore. Retail investor volumes and overall trading turnover also saw a decline in the same period. Sebi implemented several measures since No
-
-## BRICS nations discuss linking payment systems and CBDCs, RBI chief says
-BRICS nations are exploring connections between their fast payment systems and central bank digital currencies. This initiative aims to significantly reduce the cost of cross-border payments for member countries. India is also working to promote the international use of its local currency, the rupee
 
