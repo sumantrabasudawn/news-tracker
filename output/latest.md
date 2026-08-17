@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why did Trump scale back war games with South Korea?
+US president cites good relationship with North Korean leader Kim Jong Un
+
 ## Gaza flotilla sets sail from the UK in bid to break Israeli siege
 A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.
 
@@ -248,9 +251,6 @@ Abbott accuses airports of religious discrimination over wudu stations, calls fo
 
 ## Clashes between government and opposition fighters in Somalia’s Baidoa
 Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.
-
-## Syria launches probe into death of ‘White Helmet’ rescuer in police custody
-Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
