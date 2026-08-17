@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Nvidia pledges $100bn backing for OpenAI data centre in Ohio
+Chipmaker also invests $1.5bn into SB Energy, an energy company founded as part of SoftBank Group
+
 ## Kushner holds talks with Netanyahu after meeting Hamas leader
 Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
 
@@ -21,14 +24,14 @@ UK Bounce Back scheme provided taxpayer-funded loans at a low interest rate
 ## The UK is going the wrong way about protecting pubs
 Government measures do little to support bars’ underlying business case
 
-## Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake
-Negotiations come amid clashes over strategy and as Walter’s business empire faces scrutiny from regulators
-
 ## Ferrari’s first EV auctioned off at record $40mn
 The Luce’s auction price sets a record for a new car
 
 ## ExxonMobil advances Mozambique gas project despite terrorist threat
 Rovuma LNG plant expected to cost $30bn
+
+## Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake
+Negotiations come amid clashes over strategy and as Walter’s business empire faces scrutiny from regulators
 
 ## Russia fires economist over Ukraine war warning
 Andrei Klepach dismissed after bleak remarks about economic toll of conflict
@@ -38,9 +41,6 @@ Digital bank removed TS Anil as chief last year before reinstating him to board 
 
 ## Ebola outbreak becomes DR Congo’s deadliest
 World Health Organization warns country has entered ‘intense transmission’ phase of the virus
-
-## US tech stock correction likely, warn ECB economists
-Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post
 
 ## Best of monsoon may be behind us despite fresh depression over Bay
 Current lean rainfall trend over large parts of could persist through September as El Niño strengthens its influence on the monsoon, according to ECMWF
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## As rubble clears, Colombia begins focusing on recovery after the earthquake
+A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.
+
 ## ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
 Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.
 
@@ -252,11 +255,8 @@ E Jean Carroll secures another legal victory as US Supreme Court refuses Donald 
 ## Torrential rains flood homes and roads across Lima, Peru
 Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.
 
-## Trump’s approval rating sinks to new low
+## Trump’s approval rating sinks to new low at 33 percent
 New poll found a majority of US citizens concerned about the US war on Iran.
-
-## Why did Trump scale back war games with South Korea?
-US president cites good relationship with North Korean leader Kim Jong Un
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
