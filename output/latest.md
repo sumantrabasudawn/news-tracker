@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Seoul rattled by threat to drills at heart of US-Korean alliance
+Donald Trump’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
+
+## Ebola outbreak becomes DR Congo’s deadliest
+World Health Organization warns country has entered ‘intense transmission’ phase of the virus
+
 ## Kushner holds talks with Netanyahu after meeting Hamas leader
 Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
 
@@ -12,20 +18,14 @@ Iran conflict is reshaping alliances in a way neither America nor Israel foresaw
 ## Reform’s deputy leader tells Britons to ‘enjoy’ heat amid record drought
 Richard Tice’s call for people to ‘celebrate’ hotter weather comes as farmers warn of one of the worst harvests on record
 
-## Nvidia to invest $100bn for OpenAI data centre in Ohio
+## Nvidia pledges $100bn backing for OpenAI data centre in Ohio
 Chipmaker also invests $1.5bn into SB Energy, an energy company founded as part of SoftBank Group
 
 ## UK government to pay KPMG and EY up to £456mn to train civil servants
 Deal marks largest contract awarded to Big Four firms in at least a decade
 
-## Can Democrats seize Congress from Trump?
-The races, the money and the issues that will determine the final half of Trump’s second term
-
-## Trump’s war on customs fraud will be costly and difficult
-The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about
-
-## Ebola outbreak becomes DR Congo’s deadliest
-World Health Organization warns country has entered ‘intense transmission’ phase of the virus
+## Monzo chair Gary Hoffman to step down months after shareholder revolt
+Digital bank removed TS Anil as chief last year before reinstating him to board after investor rebellion
 
 ## Ferrari’s first EV auctioned off at record $40mn
 The Luce’s auction price sets a record for a new car
@@ -33,32 +33,35 @@ The Luce’s auction price sets a record for a new car
 ## Barclays shakes up investment bank less than 3 years since last overhaul
 Mike Joo hired from Bank of America to lead investment banking
 
-## Reform UK vows to block foreign nationals from claiming benefits if it wins power
-Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
+## Trump’s war on customs fraud will be costly and difficult
+The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about
 
-## NTA to hire 10 top-level professionals after UGC-NET paper errors
-Domain specialists are being brought in from the private sector as part of overhaul
+## Jio offers tariff certainty with Prime subscription till September 2027
+Prime membership will be separate from the ₹299 plan and will offer benefits like Google Gemini Pro and 5,000 GB of cloud storage
 
-## Mavrix Makes the Case for Trusted Human Evidence in the AI Era at Quirk's New York
-Mavrix Makes the Case for Trusted Human Evidence in the AI Era at Quirk's New York
+## Rising energy cost poses a risk to economic growth, says Birla
 
-## Azure Power Global Limited to hold 2026 Annual Meeting on September 30, 2026
-Azure Power Global Limited to hold 2026 Annual Meeting on September 30, 2026
 
-## Grid planning should focus on rolling transmission plans linked to RE additions: IWTMA
-The IWTMA report highlighted that timely grid connectivity is essential to ensure that completed wind projects can be commissioned without delay
+## Trading charges
+India should call out US’ ‘transshipment scam’ report
 
-## Mopshop Distribution IPO opens August 19, price fixed at Rs 138 per share
-The facility management supplies company plans to deploy most of its fresh capital toward deleveraging while expanding logistics and sustainable infrastructure.
+## Letters to Editor
+
+
+## Eight people, mostly pilgrims, die after fire broke out at hotel in temple town of Tarapith
+Police detained one person for alleged lapses in the maintenance of the hotel’s fire-fighting system.
 
 ## Eden Realty plans to invest ₹300 crore in a five-star hotel and villa-style resort along the Hooghly River
 The villa-style resort will be adjacent to the AJC Bose Indian Botanic Garden, Howrah
 
-## ED asks homebuyers to report builders who withhold RERA details or demand cash
-The advisory follows an asset attachment in an alleged property fraud case involving an Ahmedabad-based real estate company and its promoters.
+## Can Shanti caps deter courts from fixing higher compensation, SC asks petitioners
+Petitioners say investment should not be at the cost of safety of thousands of lives
 
-## Elgi’s new 3-lakh-sq-ft automated global fulfilment centre to go live in September
-Company says it offset Q1 commodity cost inflation by higher volumes and is working on various levers of cost management
+## Karnataka plans 1,736-acre land acquisition to expand Tumakuru industrial node
+Patil was speaking virtually at the third meeting of the Apex Monitoring Authority of the National Industrial Corridor Development and Implementation Trust, chaired by Union Finance Minister Nirmala Sitharaman.
+
+## 57 Trump officials worth at least $100 million: Donald dwarfs predecessors in ultra-rich appointments
+Trump, who is himself a billionaire, has portrayed his preference for appointing extremely wealthy individuals as recognition of financial achievement.
 
 ## US stock market today: Wall Street near record highs; all eyes on corporate earnings, oil prices
 The rally that has carried Wall Street to record levels has been fuelled largely by strong corporate profits. Companies in the S&P 500 are expected to post roughly 50% growth in earnings per share for the spring quarter compared with the same period a year earlier, according to FactSet.
@@ -81,8 +84,17 @@ Yanbu has become increasingly important to Saudi Arabia as it seeks to maintain 
 ## Trump admin crackdown: Indian techies see biggest hit as US green card approvals plunge sharply
 The approval rate for EB-1A, the US green card category meant for individuals with extraordinary ability, has dropped sharply in FY26, with Indian applicants bearing a significant share of the impact, according to several immigration experts.
 
-## Gold price prediction today: Will gold prices continue to rally? Check outlook for August 17, 2026 week
-Gold has turned decisively positive in the short term, rising to around Rs 155,145 and moving above its recent consolidation range. The price is now approaching the upper end of the recent range, making Rs 157,500–158,000 the key resistance zone for the week.
+## Search for 5 army personnel who went missing in Arunachal flash flood continues
+The flash flood struck Pasu Pani, around 25km beyond Mipi Circle, at about 4.30pm after a major stream suddenly swelled and inundated the surrounding area
+
+## Nitin Gadkari says ‘blamed’ for state roads, claims ‘no potholes’ on Mumbai-Pune Expressway in 27 years
+Nitin Gadkari said that 27 years ago, he built the Mumbai-Pune Expressway and claimed it has not developed any potholes to date.
+
+## Tamil Nadu government announces elderly insurance, medicity, to enact Public Health Act
+The Tamil Nadu health minister made 115 new announcements in the Tamil Nadu Legislative Assembly regarding public health reforms for 2026-2027.
+
+## Vande Mataram added to official events this year, people may take time to adjust: Jammu and Kashmir CM Omar Abdullah
+Commenting on the controversy surrounding Congress leaders' alleged disrespect to Vande Mataram, Abdullah said there should be no controversy.
 
 ## ‘Nobody will be spared’: Tukaram Mundhe after Maharashtra FDA notices to SRK, Ajay Devgn over Vimal ad
 “Everybody across the chain is responsible. It applies to all,” Maharashtra FDA commissioner Tukaram Mundhe said.
@@ -95,18 +107,6 @@ The case centres on a ‘Hanuman paisa’ racket in western Odisha, where frauds
 
 ## Bar council cannot run law college it regulates, Prashant Bhushan tells Supreme Court
 The lawyer did not provide details but appeared to refer to the BCI’s plan of setting up an academy for lawyers in Goa.
-
-## Father and five-year-old son found dead at Bengaluru home; police question wife
-Police are questioning family members, including Abhinandan’s wife, as part of the probe.
-
-## Teacher quality rests on competence, empathy: Pralhad Joshi at NCTE foundation day
-Pralhad Joshi addressed the National Council for Teacher Education’s (NCTE) 32nd Foundation Day celebrations
-
-## Will sit for ‘test’, accept failure if score below 9/10: Adhikari on corruption
-“I will sit for a test before you. If I don’t get 9 out of 10, I will apologise to you,” CM Suvendu Adhikari said
-
-## Delhi airport to consult stakeholders on its Master Plan 2036 prior to AAI submission
-The airport will be proposing to add 10 million capacity by 2030, people aware of the development said
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
@@ -132,6 +132,12 @@ China’s autonomous-driving ambitions are winning growing recognition in Europe
 ## Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong
 Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion. The company, which has been listed on Shenzhen’s Na
 
+## Canada Is Exploiting Migrant Agricultural Workers
+Caribbean laborers report rat-infested rooms and abusive bosses.
+
+## Has Turkey Really Resolved Its Kurdish Question?
+Aliza Marcus’s Resurgence and Revolution sheds light on the past and future of the Kurdish cause.
+
 ## China’s New Laws Are Ensnaring Western Companies
 Beijing is systematically countering U.S. and European sanctions efforts by expanding its jurisdiction.
 
@@ -149,12 +155,6 @@ The administration made moves on drones, cyberwarfare, and ship building.
 
 ## What in the World?
 Test yourself on the week of Aug. 8: A major earthquake hits Colombia, Lebanon achieves a regional first, and parts of Europe enjoy a solar eclipse.
-
-## Liberalism Is Worth Saving. Here’s How.
-If liberalism does not remake itself, it will be antidemocratic alternatives that win out.
-
-## The End of American Innocence
-Seventy years after “The Quiet American,” has the country outlived Graham Greene’s prophecy?
 
 ## The Thai Government’s Myanmar Gambit Could Backfire on ASEAN
 Bangkok's recent campaign of diplomatic outreach undermines the bloc's collective approach to the country's crisis.
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Rights group urges FIFA to block Infantino re-election bid over term limits
+FairSquare says the FIFA president should not be able to run again under the world football organisation's statutes.
+
 ## Police execute controlled World War II–era Mine explosion
 Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.
 
@@ -248,9 +251,6 @@ Global condemnation of Israeli settler violence against Palestinians
 
 ## Trump hails Mecca pact: Can it replace the region’s US security umbrella?
 As Trump pushes allies to do more for their own defence, three US partners have created a security pact of their own.
-
-## French Serie A footballer Yael Trepy in intensive care after near-drowning
-Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
