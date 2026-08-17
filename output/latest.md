@@ -25,7 +25,7 @@ UK Bounce Back scheme provided taxpayer-funded loans at a low interest rate
 Government measures do little to support bars’ underlying business case
 
 ## Ferrari’s first EV auctioned off at record $40mn
-The Luce’s auction price sets a record for a new car
+The Luce’s sale price sets a record for a new car
 
 ## ExxonMobil advances Mozambique gas project despite terrorist threat
 Rovuma LNG plant expected to cost $30bn
@@ -114,6 +114,12 @@ CJP founder Abhijeet Dipke congratulated the protesting students after the Jhark
 ## 'Became jobless instantly': JSSC-CGL aspirants who cleared exam slams Jharkhand decision
 “We joined through a fair process, so why is such a step being taken?" a protester said.
 
+## Is Hong Kong’s property market recovery running out of gas? UBS flags 4 risks
+The Hong Kong property market’s recovery is forecast to moderate in both prices and rents in the coming months as disruptions brought about by artificial intelligence, slower population inflows and other factors are likely to impact the upturn, according to UBS. The Swiss investment bank said that i
+
+## Banking on Connectivity in a Fragmented World
+George Tung, CEO of UOB Hong Kong, is positioning the bank to leverage the city’s role as a cross-border capital hub by strengthening ASEAN links, deepening client trust and embedding disciplined risk management. Capital rarely stands still in Asia. From mainland China to ASEAN and the Middle East, 
+
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
 
@@ -131,12 +137,6 @@ China’s retail sales growth trailed expectations, the pace of industrial outpu
 
 ## Job losses mount in German automotive sector as challenge from China intensifies
 Germany’s automotive industry shed 42,300 jobs in the year to the end of June, sending employment to its lowest level since 2005 as carmakers grappled with falling profits in China and mounting competition from Chinese brands in Europe, and industry groups warned that worse was yet to come. With job
-
-## China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand
-China’s autonomous-driving ambitions are winning growing recognition in Europe, with Deutsche Bank raising its target price for Momenta following a key regulatory breakthrough, and Pony.ai expanding its European robotaxi roll-out alongside Uber Technologies. In a research note released on Monday, De
-
-## Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong
-Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion. The company, which has been listed on Shenzhen’s Na
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
