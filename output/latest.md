@@ -1,16 +1,31 @@
 # AION Intelligence
 
+## People are worried about America’s solvency
+But not worried enough to actually do anything about it
+
+## China investment slump deepens as economy shows signs of weakness
+Industrial output growth slows and retail sales nearly flat as policymakers face calls to step up support
+
+## What I read on my holidays
+Muddled thinking about vocational education and fixing the driving test backlog
+
+## Kushner to hold talks with Netanyahu after meeting Hamas leader
+Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
+
+## Burnham exchanged texts with person posing as Trump’s chief of staff
+UK prime minister was contacted by someone claiming to be Susie Wiles
+
 ## Trump orders Pentagon to scale back military drills with South Korea
 US president claims joint exercises send a ‘hostile’ message to North Korea
-
-## China’s economy shows signs of weakness in July
-Industrial output growth slows and retail sales nearly flat as flagging sentiment weighs on spending
 
 ## FirstFT: Dimon warns UK against higher bank taxes
 Also in today’s newsletter: private credit doldrums and AI super-rich
 
 ## Japan’s 10-year bond yield hits three-decade high
 Interest rate nears 3% as weak yen fuels inflation concerns
+
+## A leaderboard of the biggest trading losses of all time
+Well, some of them, anyway
 
 ## Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up
 Company founded by former Snap executive Alex Mashrabov targets marketing content for businesses
@@ -27,35 +42,29 @@ Prime minister expected to approve development of controversial Rosebank and Jac
 ## The economics of Europe’s drought
 Rivers are at all-time lows and water is scarce. Transport, energy and big tech are affected
 
-## Air conditioning becomes ‘must-have’ for overheated London office workers
-Cooling rises up the list of sought-after features in constrained high-quality commercial real estate market
+## Cognizant launches talent accelerator programme for 489 newly hired B-school graduates
+The two-week onboarding will be held simultaneously across Cognizant’s facilities in Chennai, Bengaluru, Hyderabad and Pune, designed to help new hires learn about the company and its values
 
-## The wrong lessons are being drawn over worries on public equities
-Policymakers should focus on tax and planning reform to encourage enterprise rather than financial deregulation
+## TN Chief Minister announces full waiver of cooperative bank loans up to ₹75,000
+The additional crop loan waiver will impose a financial burden of ₹953 crore on the State government
 
-## Sensex today | Stock Market LIVE: Sensex off day's low; down 120 points, Nifty crosses 24,350; Hindalco leads gainers; Voltas shares fall 6%
-Sensex, Nifty, Share Prices Live updates: Markets off the day’s low. Sensex traded 137.24 pts or 0.18% lower at 77,872.01 at 1.19 pm and NIfty 50 dipped 18.10 pts or 0.07% to 24,347.90
+## Sensex today | Stock Market LIVE: Sensex down 200 points, Nifty under 24,350; Infosys leads losers
+Sensex, Nifty, Share Prices Live updates: Markets off the day’s low. Sensex traded 203.78 pts or 0.26% lower at 77,805.47 at 2.15 pm and Nifty 50 dipped 34.35 pts or 0.14% to 24,331.65
 
-## Meine Electric to set up pilot Iron-Air Battery system at NTPC Simhadri Thermal Power Station
-The study is expected to generate operational data and insights into the suitability of the technology for long-duration energy storage applications
+## Govt directs refiners to produce up to 63,810 Tons/Day LPG till December 2026
+The government has fixed a bi-annual maximum LPG production limit for refiners, which comes close on the heels of the disruption in supplies to India after closure of the Strait of Hormuz
 
-## Regaal Resources posts 47% rise in Q1 profit on higher margins
-Total income fell to ₹202.57 crore from ₹247 crore, while expenses dropped to ₹185 crore from ₹235 crore
+## From Chennai to the world
+Schwing Stetter builds on India’s infrastructure boom to target global markets
 
-## Arun Icecreams distributes 15,000 ice creams as part of New York India Day Parade 2026
-The participation follows Arun Icecreams’ recent expansion into the US to strengthen its visibility in the market engaging with a wider consumer audience as it expands its international presence
+## Voltas shares fall over 6% from intraday high as brokerages differ after Q1 results
+The stock traded 4% lower at ₹1,270.40 on the NSE at 12.42 pm, after moving between ₹1,263.90 and ₹1,350
 
-## Bollywood stars told to drop surrogate ad in Maharashtra's food safety drive
-In ⁠a warning to Shah Rukh Khan, Ajay Devgn and Tiger Shroff, made public over the weekend, the state said the actors were promoting Vimal's cardamoms but the brand ​is associated largely with pan masala
+## Indian Bank celebrates 120th Foundation Day with a series of community initiatives
+Commits itself to strengthening financial inclusion, empowering communities and contributing to India’s journey towards a stronger, more inclusive future
 
-## Halwasiya buys 45 lakh shares of Baazar Style Retail for ₹163 crore in block deal
-Halwasiya’s block deal follows a strategic investment made by Cupid Ltd through warrants
-
-## Beyond tractors: How electrification is reshaping farm mechanisation
-India’s next decade of farm mechanisation will not be counted in just tractor units
-
-## IPO-bound Paramotor Digital partners with NSDL Payments Bank to issue prepaid cards
-The partnership will leverage NSDL Payments Bank's prepaid card issuance services and banking infrastructure to support secure, RBI-compliant prepaid payment solutions across payment networks
+## Natural gas: Weak outlook
+Traders can sell on a rise
 
 ## Trump admin crackdown: Indian techies see biggest hit as US green card approvals plunge sharply
 The approval rate for EB-1A, the US green card category meant for individuals with extraordinary ability, has dropped sharply in FY26, with Indian applicants bearing a significant share of the impact, according to several immigration experts.
@@ -81,29 +90,35 @@ Throughout August, banks will have multiple closures due to various regional and
 ## Bullion watch: Where are gold and silver prices headed?
 
 
-## Rahul writes to Soren, suggests that he personally meet protesting students
-In a letter dated August 14 (Friday) and released on Monday, Gandhi underlined that the protest has been peaceful and the demands are legitimate
+## Ram Temple donations row: SC asks SIT to conclude probe expeditiously, file status report
+Ram Temple donations row: SC asks SIT to conclude probe expeditiously, file status report
 
-## Tamil Nadu CM C Joseph Vijay announces full waiver of co-op farm loans upto ₹75,000
-Tamil Nadu CM C Joseph Vijay announces full waiver of coop farm loans upto ₹75,000
+## Twisha Sharma case: CBI files charges of dowry death, cruelty, abetment to suicide against Giribala Singh and son
+Twisha was found hanging at her marital home on May 12. While her family alleged dowry-related torture, her in-laws tried to frame it as a suicide.
 
-## ‘Dimagi Naxal Party’ springs up on Instagram after PM Modi’s remark, over 1 lakh people follow in 24 hours
-According to the ‘Dimagi Naxal Party’ introduction on Instagram and X, its motto is “Think | Research | Resist.”
+## Govt to set up high-level banking committee soon: FM Nirmala Sitharaman
+Union finance minister Nirmala Sitharaman had announced a high-level committee on banking for Viksit Bharat in the Budget for 2026-27 (FY27)
 
-## Zubeen Garg death case: SC directs completion of witnesses’ exam within 2 months
-The Supreme Court deferred the hearing on the bail plea of his event manager Shyamkanu Mahanta until October
+## 3 arrested for abducting, gangraping minor girl in Assam: Police
+The matter came to light two days ago after one of the accused shared the video on social media, and the victim’s mother lodged a complaint at Runikhata Police Station on August 15
 
-## SC directs Karnataka to comply, waits a week to assess Cauvery water releases
-The bench was hearing Tamil Nadu’s plea seeking implementation of the CWMA’s decision directing Karnataka to release water to the state
+## CID raids Jharkhand Staff Selection Commission office over exam irregularities amid protest
+Job aspirants have been protesting for 24 days now against alleged irregularities in various recruitment examinations in Jharkhand.
 
-## 13 devotees faint at Ujjain’s Nagchandreshwar Temple amid overcrowding on Sawan Monday
-Officials said that the 13 people had been admitted to a district hospital. According to doctors, they are under close observation.
+## New website lets Indians anonymously report how much bribe they paid
+According to the website, it is India’s first crowdsourced bribe registry that is completely anonymous and permanently public.
 
-## Big relief for Rahul Gandhi as SC asks Allahabad HC to defer proceedings in disproportionate assets case
-The top court also directed the CBI and the Enforcement Directorate (ED) not to file any report before the Allahabad High Court.
+## TN Assembly witnesses ruckus over drugs, DMK walks out
+TN Assembly witnesses ruckus over drugs, DMK walks out
 
-## Assam floods: Over 26,000 houses damaged; second phase of monetary relief begins
-Assam chief minister Himanta Biswa Sarma said that the ongoing survey to assess losses in July’s floods in four districts has identified the damaged houses
+## PIL on lack of toilets for girls in govt schools to be heard by another bench: SC
+PIL on lack of toilets for girls in govt schools to be heard by another bench: SC
+
+## China’s first‑tier new home prices flat in July, ending 4‑month rebound
+New home prices in China’s four first-tier cities were flat on average in July from June, bringing an end to a four-month rebound, as analysts said month-on-month readings had weakened amid seasonal headwinds and an unusually rainy summer, further highlighting the urgency of stabilising the nation’s
+
+## China’s economy cools amid debate about risks of global crisis
+China’s retail sales growth trailed expectations, the pace of industrial output expansion slowed and a drop in investment worsened as its economy struggled to regain pace at the start of the second half of the year. July retail sales rose by 0.6 per cent, missing the 1.3 per cent expectation among e
 
 ## Job losses mount in German automotive sector as challenge from China intensifies
 Germany’s automotive industry shed 42,300 jobs in the year to the end of June, sending employment to its lowest level since 2005 as carmakers grappled with falling profits in China and mounting competition from Chinese brands in Europe, and industry groups warned that worse was yet to come. With job
@@ -123,11 +138,8 @@ We have put together stories from our coverage last weekend to help you stay inf
 ## Foreign capital is dipping its toes into China’s property sector. Is a rebound in store?
 From shopping malls to warehousing and logistics companies, a wave of deals by foreign funds in China is injecting liquidity into a property sector scarred by years of struggle. Several Wanda Plazas – the sprawling mixed-use developments that were once the flagship assets of tycoon Wang Jianlin’s Da
 
-## Hong Kong tax reforms for treasury centres will lure multinationals, mainland firms: PwC
-The Hong Kong government’s plan to increase tax incentives for corporate treasury centres will be attractive to multinational and mainland firms considering such activities in the city, according to tax experts at PwC. The government is soliciting public comment from late July until September 4 for 
-
-## Launch of Northern Metropolis flats attracts strong interest from Hong Kong homebuyers
-Hong Kong homebuyers flocked to the first batch of units at a major residential project in the Northern Metropolis with 44 – or more than half – of the 82 flats made available via regular sale finding buyers as of 7.30pm on Sunday, according to agents. Wheelock Properties’ Park Silicon project in Kw
+## The Top 10 Ways Trump Has Made America Weaker
+He’s been one of the most consequential presidents in U.S. history—in all the wrong ways.
 
 ## How Ronald Reagan Used Diplomacy to End the Cold War
 A new movie shows how the president conferred with State Department experts before each meeting.
@@ -149,9 +161,6 @@ Seventy years after “The Quiet American,” has the country outlived Graham Gr
 
 ## AI Is Changing Military Morality
 Just war theory was developed over centuries—and now must adapt to a new era of technology.
-
-## What the Cockroach Movement Says About the Indian Economy
-Young college graduates are struggling to find jobs.
 
 ## How China Is Normalizing Its Presence in the Waters East of Taiwan
 Accidents, the ‘normalization’ of law enforcement and integration into a sphere of influence
@@ -225,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
+Modi's BJP once controlled media narratives in India, but this might be changing with the 'Cockroach' movement.
+
+## Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake
+Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.
+
+## Scottie Scheffler wins St Jude Championship by eight shots
+Scheffler's 21st career PGA Tour title earns the American $3.6m for his resounding victory at TPC Southwind.
+
+## Cincinnati Open: Sabalenka takes six match points to defeat Gibson
+Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.
+
+## Outrage as Colombia’s president hands out footballs as residents await aid
+Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.
+
 ## Kushner to meet Netanyahu to push Trump Gaza plan
 The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.
 
@@ -233,21 +257,6 @@ Overnight Russian missile and drone attacks across Ukraine kill two people and i
 
 ## Rodri headed to Barcelona after Man City accepts transfer bid
 Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.
-
-## Japan’s economy slows, missing growth forecasts
-GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.
-
-## Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title
-The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.
-
-## At least seven dead in ‘stampede-like’ incident at India temple
-The fatal incident reportedly took place amid a rush of devotees at a temple in India's Bihar state.
-
-## Iran’s top negotiator declares victory in war against the US and Israel
-Iran’s Parliament speaker and negotiator Mohammad Bagher Ghalibaf has declared both a military and political victory
-
-## Lawyer says Israel’s targeting of Palestinian women is a form of genocide
-Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
@@ -273,6 +282,12 @@ RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 1
 ## Only 22 Women CFOs, 9 CEOs Among Top 500 Listed Firms
 Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly listed companies in India, which equates to only 4.4%. At the Chief Executive Officer level, representation is even more dismal with only nine women holding the title. Although nearly 29% of directors are women in active
 
+## SEBI to review CAS feedback, but closing auction mechanism here to stay: Chairman
+The Securities and Exchange Board of India (SEBI) is analysing concerns raised by traders and other market participants over the new Closing Auction Session (CAS) for futures and options (F&O) eligible stocks but the mechanism is here to stay, Chairman Tuhin Kanta Pandey said on Monday.
+
+## SEBI chief calls for collective cyber resilience as threats grow more sophisticated
+India's financial sector needs to shift from periodic cybersecurity compliance to continuous, risk-driven cyber resilience as threats become increasingly interconnected and sophisticated, SEBI Chairman Tuhin Kanta Pandey said on Monday.
+
 ## RBI cuts FX swap window short after NRI deposits cross $50 billion
 The Reserve Bank of India shortened its zero-cost FX swap facility for banks. This action followed substantial foreign deposit inflows from non-resident Indians. Policymakers also considered domestic liquidity effects and fundraising costs. The overseas fundraising supported the rupee, which had rea
 
@@ -290,10 +305,4 @@ India’s economy is showing resilience five months after the Iran war sparked f
 
 ## Banks to reveal loan rates every month in RBI's disclosure tweak
 The Reserve Bank of India has proposed new lending rate guidelines. Regulated entities must declare lending rates monthly and reset floating loans quarterly. Total charges for microfinance and small loans will be capped by the regulator. These new norms aim to harmonize interest rate determination m
-
-## India, Southern African Customs Union sign terms of reference towards trade pact
-The government on Wednesday said that India and the Southern African Customs Union (SACU) have signed the Terms of Reference (ToR) for negotiations towards a Preferential Trade Agreement (PTA) between India and SACU, marking an important step towards strengthening trade and economic engagement.
-
-## No evidence of manipulation in new closing auction session: SEBI Chief
-India's capital markets regulator has found no signs of manipulation in the newly introduced closing auction session, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey said on Wednesday, amid concerns raised by some market participants over the new mechanism.
 
