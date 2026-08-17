@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Olympus boss tries to beat buyout firms at their own game
+Bob White adopts private equity-style tactics to deflect takeover interest and boost share price
+
 ## The next China shock will come from open-source AI
 Countries adopting Chinese models will also absorb Chinese standards and governance
 
@@ -21,9 +24,6 @@ Itamar Ben-Gvir also calls for re-establishment of Jewish settlements in the Pal
 ## London’s flood defence may need replacing far sooner than expected due to extreme weather
 Thames Barrier upgrade could cost at least £20bn, senior government officials warn
 
-## California billionaires add millions to bolster fight against wealth tax
-Tech owner Chris Larsen and venture capitalist John Doerr step up efforts to kill proposed 5% levy on the rich
-
 ## Rayner reforms planning to protect England’s pubs and boost housebuilding
 Ministers to encourage property developments close to train, tram and underground stations
 
@@ -33,32 +33,44 @@ Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial area
 ## Reform UK vows to block foreign nationals from claiming benefits if it wins power
 Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
 
-## Ralph Lauren is winning the workwear wars as America returns to the office
-People are hanging up the casual aesthetic of the pandemic years to dress up again
+## Sensex today | Stock Market LIVE: Sensex, Nifty set for another weak opening as crude oil, Hormuz tensions weigh
+Sensex, Nifty, Share Prices Live updates: Gift Nifty at 24,400 signals a cautious start, while investors track Strait of Hormuz developments, Brent crude prices and the Fed’s July meeting minutes ahead of the September policy decision.
 
-## Shaping businesses from ground up
-Aeravti Ventures backs founders in the deep-tech, agritech, healthcare and infrastructure sectors
+## Indian Space Association proposes ₹500 crore third-party insurance cover for space launches
+The third party damage insurance framework will likely be part of Indian Space Activity Bill
 
-## When SaaS ventures into the shopfloor
-Startups are using AI to help manufacturers step up product quality and distribution at lower cost
-
-## Is there an ideal way to invest in deep-tech firms?
-India must encourage knowledgeable people to participate transparently in the allocation of scarce capital to deep-tech ventures
-
-## Websol, India’s oldest solar module maker, prepares for the future
-Websol charts the way forward with leadership transition and expansion plans
+## Stock markets today: Another weak opening on the cards for Indian stocks
+Gift Nifty at 24,400 signals a cautious start, while investors track Strait of Hormuz developments, Brent crude prices and the Fed’s July meeting minutes ahead of the September policy decision.
 
 ## Sweat the asset... and the brand: PVR Inox MD Ajay Bijli
 PVR Inox MD Ajay Bijli on how the multiplex chain has been constantly rewriting its script
 
-## From Chennai to the world
-Schwing Stetter builds on India’s infrastructure boom to target global markets
+## Lalithaa Jewellery’s 1,700-crore IPO opens today at ₹190-201 price band
+Investors can bid for a minimum of 74 Equity Shares and in multiples of 74 Equity Shares thereafter.
 
-## Why India should favour a ‘community-trusteeship’ economic model
-As an upcoming solar plant imperils the ecologically sensitive Banni grasslands in Gujarat, the merits of top-down development models come into question yet again
+## Blackstone-backed Horizon Industrial Parks opens today at ₹57-60
+Market lot is 250 shares; company raised ₹1,167.75 crore
 
-## Meeting grid challenges in times of high RE presents a big business opportunity
-As the share of variable renewable energy increases in electricity supply, demand grows for grid stabilising equipment
+## Agoda Unveils Agoda Partner Portal as the Refreshed Platform's Role in Property Management Expands
+Agoda Unveils Agoda Partner Portal as the Refreshed Platform's Role in Property Management Expands
+
+## Stocks to watch, Aug 17: Reliance, Kalpataru Projects, BEML, Hazoor Multi, ONGC, Dixon, Kitex, IFGL Refractories, Dr Reddy’s, PB Fintech, will be in focus on Monday
+As key players like Reliance and Kalpataru Projects make strategic moves and secure significant contracts, investors will also be keenly observing developments from ONGC’s resumed operations in Venezuela to Dr Reddy’s FDA inspection outcomes, shaping market sentiments for the week ahead.
+
+## Five among top 10 firms see market cap fall by Rs 1 lakh crore
+
+
+## Oil prices hold steady as Hormuz nears zero traffic while Iran-US talks on Strait opening stalls
+
+
+## Insolvency, bankruptcy board aims to check misuse of law
+Tells Professionals To Inform NCLT In Case of Wrongdoings
+
+## JP Morgan targets bigger M&A role
+
+
+## Before Chandrasekaran's exit, he and Noel Tata separately briefed govt on rift, concerns
+
 
 ## FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August
 In August, foreign investors turned the tide by purchasing Indian equities, building on the positive momentum from July's inflows. This shift follows a period of substantial selling earlier in the year. With attractive valuations and promising corporate earnings, renewed interest from foreign invest
@@ -69,44 +81,32 @@ The IPO market anticipates a busy week with seven companies planning public offe
 ## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
 Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
 
-## Bullion watch: Where are gold and silver prices headed next week? Fed minutes, Middle East in focus
-Gold and silver prices may continue their upward trend next week. Geopolitical and economic cues will significantly influence this momentum. Analysts expect bullion to retain its positive bias amid global data. Investors will monitor US housing, trade, and inflation figures closely. Federal Reserve 
+## Rajasthan govt restricts entry of outsiders, photography and interviews as CJP plans school visits
+CJP co-convener Ranka said he had received requests to inspect schools in Jaipur, Kota, Jodhpur, Ajmer, Udaipur, Bharatpur, Dholpur, Barmer, and Hanumangarh.
 
-## Market recap: Top 5 firms lose Rs 1 lakh crore in market value; TCS, Reliance suffer biggest hit
-Last week witnessed a downturn in Indian stock markets, with five out of the top ten firms experiencing notable decreases in market capitalization. TCS and Reliance Industries led the decline in valuations. In contrast, LIC and Bharti Airtel reported impressive gains. Despite these fluctuations, Rel
+## Tamil Nadu CM Vijay condemns killing of 3 Tamils by Karnataka forest officials, calls for investigation
+Three Tamils were shot dead by Karnataka forest officials in Cauvery Wildlife Sanctuary. Tamil Nadu CM Vijay demanded a probe into the incident.
 
-## India cooks up LPG safety net: Govt fixes refinery-wise output targets; Reliance gets biggest quota
-India is establishing production benchmarks for its refineries and upstream firms, aimed at fortifying the domestic LPG supply system. Reliance Industries leads with the highest targets assigned to its refinery. It is imperative that companies ensure sufficient infrastructure for LPG storage and tra
+## ED alleges ‘collusion’ with Punjab CM Mann’s OSD to influence transfers, postings
+The ED alleges Nitin Gohal colluded with the OSD to the Punjab Chief Minister, influencing government functions and collecting illicit proceeds.
 
-## From GST reform to GCCs: How India can become a $20 trillion economy by 2036
-India could reach a $20 trillion economy by 2036 with reforms. Services will drive this expansion, contributing over 65% of the GDP. A 20-step reform agenda targets taxes and capital markets for efficiency. Global capability centers and tourism offer significant growth opportunities. Successful exec
+## Population count for Census 2027 begins today; 40 questions include caste query for first time since Independence
+Following the completion of the self-enumeration phase, census enumerators will conduct a door-to-door verification exercise using a mobile application.
 
-## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
-Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
+## Suspected suicide of TMC's Asish Banerjee sparks political blame game in West Bengal
+The BJP has alleged corruption and irregularities in the authority, including in connection with sand tenders.
+
+## Navy sailor, wife and 2 children found dead in Mumbai; murder-suicide suspected
+Police said the sailor allegedly died by suicide while his wife and their children died due to poisoning at their residence in Cuffe Parade.
+
+## Jharkhand protesters, govt to hold 7th round of talks today as hunger strike enters 15th day
+The decision came after the sub-divisional officer met the students at the protest site in Ranchi’s Jaipal Singh Munda Stadium.
 
 ## NTA paper-setting process: From question bank to sealed sets, how exam papers are prepared
 The re-examinations will be held on September 9, with English from 9am to noon and Commerce from 3pm to 6pm.
 
-## Vande Mataram row: Amit Shah attacks Sonia Gandhi, Congress hits back, cases filed
-The development came days after Parliament passed a bill that makes any insult to the national song a punishable offence.
-
-## 'Putzer for Ritzer, Parsow for Parsons': What are the typos, errors that forced NTA to cancel 3 UGC-NET papers?
-Candidates and coaching teachers alleged several questions were repeated from the earlier UGC-NET cycles, particularly December 2024 and 2025.
-
-## CISF personnel caught secretly taking woman's photos on Delhi metro, suspended
-A viral video of the incident shows the woman and other passengers confronting the CISF personnel.
-
-## ‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department
-Tamil Nadu CM Vijay called for an “honest investigation” into the “brutal incident”.
-
-## Maharashtra BJP leader blames Trump’s shifting Iran war tactics for rise in alcohol consumption, delay in road work
-Speaking in Ahilyanagar, Sujay Vikhe-Patil criticised Trump over what he described as his frequently changing positions on the war and missile attacks.
-
-## After FIR against MNS leaders for clash in Thane's Ambernath, police book 2 BJP councillors
-The complaint against local BJP leaders was lodged by Suhas Ghag, who runs a pest control business.
-
-## ‘Faulty mouse, logged out’: CJP slams ‘irregularities’ in Bombay HC clerk recruitment typing test; Dipke joins protest
-CJP's Abhijeet Dipke said that he was informed about the alleged irregularities during the Bombay High Court clerk recruitment exam by the students.
+## Foreign capital is dipping its toes into China’s property sector. Is a rebound in store?
+From shopping malls to warehousing and logistics companies, a wave of deals by foreign funds in China is injecting liquidity into a property sector scarred by years of struggle. Several Wanda Plazas – the sprawling mixed-use developments that were once the flagship assets of tycoon Wang Jianlin’s Da
 
 ## Hong Kong tax reforms for treasury centres will lure multinationals, mainland firms: PwC
 The Hong Kong government’s plan to increase tax incentives for corporate treasury centres will be attractive to multinational and mainland firms considering such activities in the city, according to tax experts at PwC. The government is soliciting public comment from late July until September 4 for 
@@ -128,9 +128,6 @@ Legendary American investor Jim Rogers has long advocated cash holdings given th
 
 ## I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled
 Tencent Holdings’ WeChat is already the undisputed super-app for over a billion people in China, handling everything from splitting dinner bills to hailing taxis. Now, Tencent is embedding an artificial intelligence agent named Xiaowei into the platform, adding a hands-free, automated assistant to i
-
-## Buy or rent? Hong Kong homebuyers face an age-old housing dilemma
-Trapped between rising residential rents and the looming shadow of interest rate increases, Hong Kong homebuyers are revisiting that age-old dilemma when making decisions about housing: buy or rent? The Centa-City Rental Index (CRI), which reflects the rent of second-hand private residential propert
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -156,6 +153,9 @@ Emotional reassurance came to be mistaken for competent governance.
 ## Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era
 Under President Xi Jinping, politics and security, not real change, come first.
 
+## How China Is Normalizing Its Presence in the Waters East of Taiwan
+Accidents, the ‘normalization’ of law enforcement and integration into a sphere of influence
+
 ## Indonesia Is the Latest Country to Validate China’s Claim to Taiwan – Unwittingly or Not
 From Indonesia to Africa and Oceania, China is enlisting foreign countries to support its increasingly strict interpretation of the One China principle.
 
@@ -176,9 +176,6 @@ The incident reveals Beijing’s growing efforts to assert authority over Tibeta
 
 ## In Afghanistan, Growing Resistance Meets Fears of Pakistani Influence
 Five years after the Taliban’s return, the Afghan resistance is growing but so is the fear of Pakistan’s shadow.
-
-## 5 Years After the Fall: Why the World Still Misreads the Taliban
-The international community assumed that governing would change the Taliban. The Taliban, however, viewed government as a means of transforming society according to their ideology.
 
 ## Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk
 Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical infrastructure would be struck. Iranian 
@@ -228,6 +225,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ebola outbreak in DR Congo becomes deadliest in country’s history
+A top UN official says 'speed, scale, and solidarity' needed 'before this virus gets even further ahead of us'.
+
+## Israeli settlers pitch tents for new illegal outpost in occupied West Bank
+UN Special Rapporteur Albanese warns that Israel is 'using settlers to advance ethnic cleansing' in the West Bank.
+
+## Can the AU make its current Sudan mission count?
+The African Union is seeking progress in Sudan, but must overcome deep battlefield and diplomatic divisions.
+
 ## Trump says US to ‘substantially reduce’ military drills with South Korea
 US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.
 
@@ -242,15 +248,6 @@ UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is
 
 ## Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly
 Far-right National Security Minister Ben-Gvir sits on Israel's security cabinet, which helps shape war and policy.
-
-## What could stop Israeli settler attacks on Palestinians?
-Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government.
-
-## Hundreds of migrants arrested near Ceuta border in latest crackdown
-Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt.
-
-## Anwar Ibrahim: Malaysia between the superpowers
-Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
