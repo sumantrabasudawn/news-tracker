@@ -36,29 +36,32 @@ What looks like random algorithmic attention can actually be the work of obsessi
 ## Virgin wins approval for cross-Channel trains despite Eurostar complaints
 Regulatory clearance brings competition on rail services to the continent a step closer
 
+## Elgi’s new 3-lakh-sq-ft automated global fulfilment centre to go live in September
+Company says it offset Q1 commodity cost inflation by higher volumes and is working on various levers of cost management
+
+## India’s pulses imports down a tad during in H1 this year
+Chana and urad imports decline, while tur and masoor shipments witness a rise
+
+## TN Industries Minister Keerthana seeks greater central support for industrial development
+The meeting reviewed the progress of industrial corridor projects and discussed measures to accelerate industrial infrastructure, connectivity and investment across States, said sources in the State industries department.
+
+## Gujarat releases 20 blackbucks into Kutch’s Banni Grassland
+The initiative aims to rebuild the grassland’s native herbivore community and strengthen ecological processes while supporting long-term biodiversity conservation efforts
+
+## Rupee declines to a 2-week low on early closure of swap facility to attract FCNR-B deposits
+Traders indicated that RBI was present in the market, stabilising the Rrupee through Ddollar sales
+
+## India’s kharif crop area 21 lakh hectares less than a year ago as pace of sowing slows
+Acreage of all crops reaches 92% of normal even as deficit shrinks to less than 1%; paddy coverage trails 3%
+
+## Voltas to set up a joint venture with Atomberg to manufacture AC compressors
+Mukundan Menon, MD, Voltas, said that under this joint venture, there are plans to set up a plant in Chennai to manufacture compressors
+
 ## India seeks WTO consultations with US over 4-year quartz surface tariff quota
 Says it has substantial interest in the matter; India is among the largest exporters of quartz surface products to the US
 
-## Pocket
-
-
-## Sunil Mittal steps down as Airtel Payments Bank chief; Shabnam Sinha to succeed
-Sinha will take on a three-year term starting October 1, 2026, pending Board appointment and RBI approval, the company said
-
-## BGauss sees Tamil Nadu emerging as key market for electric two-wheelers
-The company has sold around one lakh scooters in India, with 20% of sales from Tamil Nadu
-
-## REIT quarterly distributions cross ₹3,000 crore as listed universe expands
-Stronger leasing, occupancy and portfolio additions support distribution growth; six listed REITs have now crossed ₹34,800 crore in cumulative payouts
-
-## CDSL IPF, Amar Chitra Katha launch film to promote informed investing
-The initiative uses familiar characters and storytelling to help audiences across age groups and regions better understand basic financial planning and investing
-
-## Sonata Software Appoints Hariprasad Rebala as Chief AI Officer
-Sonata Software Appoints Hariprasad Rebala as Chief AI Officer
-
-## Supreme Court to hear NBCC plea seeking RERA exemption for Supertech projects
-The legal move comes as the state-owned builder seeks regulatory relief to advance construction and address the long wait of thousands of homebuyers
+## US stock market today: Wall Street near record highs; all eyes on corporate earnings, oil prices
+The rally that has carried Wall Street to record levels has been fuelled largely by strong corporate profits. Companies in the S&P 500 are expected to post roughly 50% growth in earnings per share for the spring quarter compared with the same period a year earlier, according to FactSet.
 
 ## ‘CAS here to stay’: Sebi chief Pandey says auction system won’t be rolled back, regulator open to feedbacks
 Sebi chairman Tuhin Kanta Pandey affirmed the continuation of the Closing Auction Session, emphasizing ongoing evaluations concerning market participants' worries and potential framework enhancements. He pointed out that as more participants engage with the new system, certain challenges may diminis
@@ -81,10 +84,7 @@ The approval rate for EB-1A, the US green card category meant for individuals wi
 ## Gold price prediction today: Will gold prices continue to rally? Check outlook for August 17, 2026 week
 Gold has turned decisively positive in the short term, rising to around Rs 155,145 and moving above its recent consolidation range. The price is now approaching the upper end of the recent range, making Rs 157,500–158,000 the key resistance zone for the week.
 
-## Stocks to buy: What's the outlook for Nifty for August 17-August 21 week? Check list of top stock recommendations
-Stock market recommendations: Ujjivan Small Finance Bank, and 360 One Wam have been identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy on August 17, 2026.
-
-## Bar council cannot run law college it regulates, Supreme Court told
+## Bar council cannot run law college it regulates, Prashant Bhushan tells Supreme Court
 The lawyer did not provide details but appeared to refer to the BCI’s plan of setting up an academy for lawyers in Goa.
 
 ## Father and five-year-old son found dead at Bengaluru home; police question wife
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran signals readiness for ‘US ground operations’ as MoU expires
+Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.
+
+## Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza
+Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.
+
+## Lula and Bolsonaro’s son launch rival bids for Brazil presidency
+Brazil’s presidential race is officially underway.
+
+## Global condemnation of Israeli settler violence against Palestinians
+Global condemnation of Israeli settler violence against Palestinians
+
 ## Trump hails Mecca pact: Can it replace the region’s US security umbrella?
 As Trump pushes allies to do more for their own defence, three US partners have created a security pact of their own.
 
@@ -239,18 +251,6 @@ Jared Kushner to meet Netanyahu next, after Israel rejected Trump's 15-point Gaz
 
 ## Cameroon celebrates after winning first ever WAFCON title
 Cameroon wins its first WAFCON title, beating Malawi 3–0 in the final.
-
-## Yemen’s drone war: Rivals flex growing aerial muscle
-Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
-
-## Trump scales down war games with South Korea: Why it matters
-US president cites Seoul's reluctance to back his war on Iran, and his warm ties with North Korea's leader as reasons.
-
-## Will Europe hear a landmark Russian climate change case?
-The European Court of Human Rights has dismissed the case, but the plaintiffs aren't giving up.
-
-## Israel’s religious right is changing the state from within
-Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
