@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Seoul rattled by threat to drills at heart of US-Korean alliance
+Donald Trump’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
+
+## Labour MP suspended amid investigation into Covid loans
+UK Bounce Back scheme provided taxpayer-funded loans at a low interest rate
+
+## The UK is going the wrong way about protecting pubs
+Government measures do little to support bars’ underlying business case
+
 ## Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake
 Negotiations come amid clashes over strategy and as Walter’s business empire faces scrutiny from regulators
 
@@ -9,32 +18,23 @@ Lebanon and Syria are trying to improve the application of justice but challenge
 ## Russia fires economist over Ukraine war warning
 Andrei Klepach dismissed after bleak remarks about economic toll of conflict
 
-## Seoul rattled by threat to drills at heart of US-Korean alliance
-Donald Trump’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
-
 ## Ebola outbreak becomes DR Congo’s deadliest
 World Health Organization warns country has entered ‘intense transmission’ phase of the virus
 
 ## Kushner holds talks with Netanyahu after meeting Hamas leader
 Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
 
-## US tech stock correction likely, warn ECB economists
-Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post
+## Ferrari’s first EV auctioned off at record $40mn
+The Luce’s auction price sets a record for a new car
 
-## The realignment of the Middle East
-Iran conflict is reshaping alliances in a way neither America nor Israel foresaw
+## ExxonMobil advances Mozambique gas project despite terrorist threat
+Rovuma LNG plant expected to cost $30bn
 
 ## Monzo chair Gary Hoffman to step down months after shareholder revolt
 Digital bank removed TS Anil as chief last year before reinstating him to board after investor rebellion
 
-## Nvidia pledges $100bn backing for OpenAI data centre in Ohio
-Chipmaker also invests $1.5bn into SB Energy, an energy company founded as part of SoftBank Group
-
-## Ferrari’s first EV auctioned off at record $40mn
-The Luce’s auction price sets a record for a new car
-
-## UK government to pay KPMG and EY up to £456mn to train civil servants
-Deal marks largest contract awarded to Big Four firms in at least a decade
+## US tech stock correction likely, warn ECB economists
+Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post
 
 ## Best of monsoon may be behind us despite fresh depression over Bay
 Current lean rainfall trend over large parts of could persist through September as El Niño strengthens its influence on the monsoon, according to ECMWF
@@ -84,6 +84,9 @@ Sebi chairman Tuhin Kanta Pandey affirmed the continuation of the Closing Auctio
 ## Russia faces fresh fuel shortages as refinery attacks disrupt supplies
 Fuel shortages have surged in multiple regions across Russia as recent drone attacks reignite supply issues. Authorities in no less than ten territories have reinstated limits on petrol sales, amplifying the strain on resources. This situation is worsened by a notable dip in wholesale gasoline sales
 
+## SKM to submit memorandum to MPs, seek push for change in Centre's 'corporate-centric' policy
+SKM to submit memorandum to MPs, seek push for change in Centre's 'corporate-centric' policy
+
 ## 12 women, 6 minority leaders part of BJP's new national team under Nitin Nabin
 The BJP said the appointments ensure widespread representation, with voices included from 23 states and Union territories across the country.
 
@@ -99,14 +102,11 @@ CJP founder Abhijeet Dipke congratulated the protesting students after the Jhark
 ## 'Became jobless instantly': JSSC-CGL aspirants who cleared exam slams Jharkhand decision
 “We joined through a fair process, so why is such a step being taken?" a protester said.
 
-## Jharkhand protest LIVE: Student leader Devendra Mahto says will break fast soon after JSSC-CGL cancelled
+## Jharkhand protest LIVE: Student leader Devendra Mahto speaks to Sonam Wangchuk after JSSC-CGL cancellation
 Jharkhand protest LIVE: While the students protesting against irregularities celebrated the decision, aspirants who cleared the exam said it had the “seal of approval” of the Supreme Court.
 
 ## Celebrations erupt as Jharkhand govt accepts students' demands; student leader Mahto says 'not fully satisfied'
 Student leader Devendra Nath Mahato, who has been on an indefinite hunger strike on the issue, thanked chief minister Hemant Soren and the Jharkhand government.
-
-## NYC mayor Zohran Mamdani speaks in Bangla, Mandarin and Spanish to promote Broadway
-NYC Mayor Mamdani speaks in Bangla, Mandarin and Spanish to promote Broadway
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
@@ -180,6 +180,9 @@ Multiple reports highlight alarming loss of wages and work hours due to extreme 
 ## The Thai Government’s Myanmar Gambit Could Backfire on ASEAN
 Bangkok's recent campaign of diplomatic outreach undermines the bloc's collective approach to the country's crisis.
 
+## The Tension Between Collectivism and Individualism in Ukraine
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
+
 ## A Life in Army Special Operations, from Desert Storm to the Next War
 Lt. Gen. (ret.) Francis Beaudette, former commanding general of the U.S. Army Special Operations Command, joins Ryan to discuss how his family history, service, and books shaped his path into and time in the Army. Together, they talk through his years as a young officer during Operation Desert Storm
 
@@ -200,9 +203,6 @@ Given the relentless demand for computing power, electronic components are in sc
 
 ## 2026 and All That: Another Benchmark Year in Royal Navy Decline
 The 1930 comic history, 1066 and All That, made famous the British habit of reducing national history to a sequence of memorable dates. The modern Royal Navy has its own unhappy version of that calendar. Since 1945, a series of ostensibly practical political decisions has steadily reduced Britain’s 
-
-## Russia’s Blurry Line Between Science and Sabotage Beneath the Ocean’s Surface
-In 2025, Nurlan Aliyev wrote, “The Mayhem of Russia’s “Research” Fleet,” where he argued that NATO must act decisively to safeguard critical undersea infrastructure from Russian sabotage attempts. A year later, we asked him to revisit his arguments. Image: Andrey Luzik via Wikimedia CommonsIn your 2
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian politician sentenced to 11 years for opposing war in Ukraine
+Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.
+
+## Russia maintains election ban on opposition Yabloko, jails deputy head
+Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.
+
 ## CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
 Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
 
@@ -245,12 +251,6 @@ Britain deploys military as wildfires spread across Europe
 
 ## Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections
 On Monday, Israel's governing party will determine its candidate list for the next election.
-
-## Palestinians, Israelis sceptical of Gaza plan as Kushner visits region
-US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.
-
-## British PM Burnham duped by White House impostor
-The FBI has warned of 'malicious actors' misusing AI to impersonate senior government officials.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
