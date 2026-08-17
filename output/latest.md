@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## The next China shock will come from open-source AI
+Countries adopting Chinese models will also absorb Chinese standards and governance
+
+## India’s sweltering nights expose power crunch
+Rise in evening temperatures and air conditioning demand leaves gap in renewable energy supply
+
+## Trump says US will scale back military drills with South Korea
+President claims the joint exercises send a ‘hostile’ message to North Korea
+
+## China’s energy strategy vindicated by Iran war
+Playbook is likely to be adopted by other countries, shaping markets
+
 ## Jamie Dimon warns UK chancellor against higher bank taxes
 JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget
 
@@ -11,12 +23,6 @@ Thames Barrier upgrade could cost at least £20bn, senior government officials w
 
 ## California billionaires add millions to bolster fight against wealth tax
 Tech owner Chris Larsen and venture capitalist John Doerr step up efforts to kill proposed 5% levy on the rich
-
-## US considers sanctions on Brazil judge in new test of diplomatic ties
-Fresh blow in relations comes as leftwing leader Lula launches re-election campaign
-
-## Canadian business braced for 50% US tariffs
-US-Canada trade talks go down to the wire, plus Japanese growth figures and a UK inflation update
 
 ## Rayner reforms planning to protect England’s pubs and boost housebuilding
 Ministers to encourage property developments close to train, tram and underground stations
@@ -30,38 +36,29 @@ Party’s Treasury spokesperson Robert Jenrick says current welfare system is �
 ## Ralph Lauren is winning the workwear wars as America returns to the office
 People are hanging up the casual aesthetic of the pandemic years to dress up again
 
-## The billionaire threatening to upend Wall Street
-Mark Walter’s much-copied strategy of leveraging insurers to build an empire has drawn regulatory scrutiny
+## Shaping businesses from ground up
+Aeravti Ventures backs founders in the deep-tech, agritech, healthcare and infrastructure sectors
 
-## Big Tech’s data centre boom poised to drive up carbon emissions
-FT analysis finds 60 largest planned facilities could emit equivalent of 27 coal plants or 24mn cars per year
+## When SaaS ventures into the shopfloor
+Startups are using AI to help manufacturers step up product quality and distribution at lower cost
 
-## Harvey Nicks deal hints at department stores’ hidden potential
-Services won’t restore the golden age but could give young shoppers a reason to return
+## Is there an ideal way to invest in deep-tech firms?
+India must encourage knowledgeable people to participate transparently in the allocation of scarce capital to deep-tech ventures
 
-## Equity MF redemptions jump nearly 40% despite strong SIP inflows
-Investors cash in on market recovery and rotate funds into mid- and small-cap schemes despite elevated valuations
+## Websol, India’s oldest solar module maker, prepares for the future
+Websol charts the way forward with leadership transition and expansion plans
 
-## AI & Big Data: 1.53 lakh candidates received training in AP
-As per the Union govt’s data, AP has scored the highest number of AI/BDA candidates completing or getting certified under FutureSkills PRIME among all states with 1,08,895 candidates completing certification out of1,53,783.
+## Sweat the asset... and the brand: PVR Inox MD Ajay Bijli
+PVR Inox MD Ajay Bijli on how the multiplex chain has been constantly rewriting its script
 
-## GT Bharathi secures WTC licence, plans ₹7,000-crore integrated township along OMR
-“Our vision is a self-sustaining live-work-learn destination anchored by the WTC business park,” said Arun Bharathi Arunachalam, Managing Director of GT Bharathi.
+## From Chennai to the world
+Schwing Stetter builds on India’s infrastructure boom to target global markets
 
-## GST cut, stable interest rates keep auto demand resilient, M&M’s Jejurikar
-M&M sees room for both ICE and EVs to grow as improved affordability and stronger economic activity sustain vehicle demand despite persistent supply constraints
+## Why India should favour a ‘community-trusteeship’ economic model
+As an upcoming solar plant imperils the ecologically sensitive Banni grasslands in Gujarat, the merits of top-down development models come into question yet again
 
-## Letters to the Editor dated August 16, 2026
-
-
-## Struggles of starting up
-Inside stories of founders who stayed the course
-
-## Editorial. Slicing it right
-5G network pathways need sensible regulation
-
-## Infosys bets on building AI talent internally as demand outpaces supply
-AI is definitely augmenting the workforce; human-plus-AI work paradigm increases people’s productivity, says Infosys Chief Human Resources Officer
+## Meeting grid challenges in times of high RE presents a big business opportunity
+As the share of variable renewable energy increases in electricity supply, demand grows for grid stabilising equipment
 
 ## FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August
 In August, foreign investors turned the tide by purchasing Indian equities, building on the positive momentum from July's inflows. This shift follows a period of substantial selling earlier in the year. With attractive valuations and promising corporate earnings, renewed interest from foreign invest
@@ -87,6 +84,9 @@ India could reach a $20 trillion economy by 2036 with reforms. Services will dri
 ## India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation
 Over the past decade, India's engineering services exports have skyrocketed, registering a remarkable compound annual growth rate of 22.8 percent. Despite this impressive growth, the sector currently suffers from a lack of a robust regulatory framework. Niti Aayog has proposed the establishment of a
 
+## NTA paper-setting process: From question bank to sealed sets, how exam papers are prepared
+The re-examinations will be held on September 9, with English from 9am to noon and Commerce from 3pm to 6pm.
+
 ## Vande Mataram row: Amit Shah attacks Sonia Gandhi, Congress hits back, cases filed
 The development came days after Parliament passed a bill that makes any insult to the national song a punishable offence.
 
@@ -108,8 +108,8 @@ The complaint against local BJP leaders was lodged by Suhas Ghag, who runs a pes
 ## ‘Faulty mouse, logged out’: CJP slams ‘irregularities’ in Bombay HC clerk recruitment typing test; Dipke joins protest
 CJP's Abhijeet Dipke said that he was informed about the alleged irregularities during the Bombay High Court clerk recruitment exam by the students.
 
-## ‘They are like the dead’: Jharkhand students burn CM Hemant Soren, Rahul Gandhi's effigies amid exam protest
-Jharkhand student protests: The students accused the JMM-Congress alliance of "failing to take concrete action" on their demands.
+## Hong Kong tax reforms for treasury centres will lure multinationals, mainland firms: PwC
+The Hong Kong government’s plan to increase tax incentives for corporate treasury centres will be attractive to multinational and mainland firms considering such activities in the city, according to tax experts at PwC. The government is soliciting public comment from late July until September 4 for 
 
 ## Launch of Northern Metropolis flats attracts strong interest from Hong Kong homebuyers
 Hong Kong homebuyers flocked to the first batch of units at a major residential project in the Northern Metropolis with 44 – or more than half – of the 82 flats made available via regular sale finding buyers as of 7.30pm on Sunday, according to agents. Wheelock Properties’ Park Silicon project in Kw
@@ -131,9 +131,6 @@ Tencent Holdings’ WeChat is already the undisputed super-app for over a billio
 
 ## Buy or rent? Hong Kong homebuyers face an age-old housing dilemma
 Trapped between rising residential rents and the looming shadow of interest rate increases, Hong Kong homebuyers are revisiting that age-old dilemma when making decisions about housing: buy or rent? The Centa-City Rental Index (CRI), which reflects the rent of second-hand private residential propert
-
-## Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent
-China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing. D
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -231,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump says US to ‘substantially reduce’ military drills with South Korea
+US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.
+
+## Israel releases 35 Palestinian prisoners back into Gaza
+Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.
+
+## Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner
+Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.
+
+## UN’s Albanese: Israel outsourcing coercion to settlers in West Bank
+UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.
+
+## Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly
+Far-right National Security Minister Ben-Gvir sits on Israel's security cabinet, which helps shape war and policy.
+
 ## What could stop Israeli settler attacks on Palestinians?
 Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government.
 
@@ -239,21 +251,6 @@ Nearly 300 migrants and 61 alleged facilitators detained during mass migration a
 
 ## Anwar Ibrahim: Malaysia between the superpowers
 Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.
-
-## Death toll rises to 84 from capsized ferry in Zimbabwe
-The boat overturned during heavy winds near the Zambian border.
-
-## Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map
-CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine
-
-## Erdogan says Hamas acted sincerely, criticises Israeli attacks
-Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.
-
-## US admiral praises USS Lincoln crew amid reported mental health concerns
-Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.
-
-## Brazil: Lula, Bolsonaro return to strongholds to launch runs for president
-Lula and Bolsonaro appeal to Brazil’s women voters with promises to combat rising femicide and gender violence.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
