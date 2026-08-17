@@ -36,6 +36,9 @@ The Luce’s auction price sets a record for a new car
 ## UK government to pay KPMG and EY up to £456mn to train civil servants
 Deal marks largest contract awarded to Big Four firms in at least a decade
 
+## Best of monsoon may be behind us despite fresh depression over Bay
+Current lean rainfall trend over large parts of could persist through September as El Niño strengthens its influence on the monsoon, according to ECMWF
+
 ## Godavari Biorefineries secures European patent for anti-cancer pharmaceutical composition
 The patent strengthens the company’s oncology-focused intellectual property portfolio and supports its efforts to develop potential healthcare applications through formulation research
 
@@ -56,9 +59,6 @@ Diagnostic chain Thyrocare has sold 1.58 crore Thyrocare shares, representing ar
 
 ## SEBI warns investors against live trading strategies offered on social media
 The regulator has flagged growing online sessions offering market positions and trading advice, urging investors to rely only on registered intermediaries.
-
-## El Nino seen deepening India’s rainfall deficit through Sept
-European forecaster says best of monsoon over for India; overall shortfall at 13%
 
 ## HC directs FDA to pay sweets seller for not lifting suspension despite compliance
 
@@ -84,29 +84,29 @@ While the article said available evidence does not substantiate concerns that E2
 ## Wary of risks, Asian refiners want Saudi Aramco’s shipments to be picked outside Red Sea
 Yanbu has become increasingly important to Saudi Arabia as it seeks to maintain crude shipments after the war disrupted traffic through the Strait of Hormuz and severely restricted supplies from the Persian Gulf.
 
-## 'Left on the streets': JSSC CGL aspirants who cleared exam protest Jharkhand decision
+## 12 women, 6 minority leaders part of BJP's new national team under Nitin Nabin
+The team that was unveiled on Monday comprises 10 experienced women leaders from various sections of the country.
+
+## Windows, CCTV being replaced: Repair work begins at school in Abhijeet Dipke's village amid 'School Thik Karo' campaign
+Abhijeet Dipke visited the school to kick off the 'School Thik Karo' campaign. There he inspected the campus and highlighted the issues.
+
+## Assam CM Himanta Sarma takes ‘pure naxal’ jibe at Chidambaram's 'proud to be dimagi naxal' remark
+PM Modi on Saturday had said that some ‘dimagi Naxals’ need to be identified and ‘isolated’. His remarks triggered an uproar in the Opposition.
+
+## 'Your fight will inspire many': CJP's Abhijeet Dipke congratulates Jharkhand students after govt accepts demands
+CJP founder Abhijeet Dipke congratulated the protesting students after the Jharkhand government accepting their demands on Monday
+
+## 'Became jobless instantly': JSSC-CGL aspirants who cleared exam slams Jharkhand decision
 “We joined through a fair process, so why is such a step being taken?" a protester said.
 
-## Jharkhand protest LIVE: JSSC-CGL selectees stage protest as Jharkhand govt cancels recruitment exams
-Jharkhand protest LIVE: “We joined through a fair process, so why is such a step being taken? We say: conduct an investigation,” one of the protesters said.
+## Jharkhand protest LIVE: Student leader Devendra Mahto says will break fast soon after JSSC-CGL cancelled
+Jharkhand protest LIVE: While the students protesting against irregularities celebrated the decision, aspirants who cleared the exam said it had the “seal of approval” of the Supreme Court.
 
-## Celebrations erupt as Jharkhand govt accepts students' demands; Student leader Mahto says 'not fully satisfied'
+## Celebrations erupt as Jharkhand govt accepts students' demands; student leader Mahto says 'not fully satisfied'
 Student leader Devendra Nath Mahato, who has been on an indefinite hunger strike on the issue, thanked chief minister Hemant Soren and the Jharkhand government.
 
 ## NYC mayor Zohran Mamdani speaks in Bangla, Mandarin and Spanish to promote Broadway
 NYC Mayor Mamdani speaks in Bangla, Mandarin and Spanish to promote Broadway
-
-## Jharkhand CM accepts students' demands; cancels JSSC-CGL, other exams held by firm at centre of row
-After the Cabinet meeting, Soren also ordered a comprehensive inquiry into irregularities in recruitment exams since 2014.
-
-## Search for 5 army personnel who went missing in Arunachal flash flood continues
-The flash flood struck Pasu Pani, around 25km beyond Mipi Circle, at about 4.30pm after a major stream suddenly swelled and inundated the surrounding area
-
-## Not a single pothole on Mumbai-Pune Expressway in 27 years: Nitin Gadkari
-Nitin Gadkari said that 27 years ago, he built the Mumbai-Pune Expressway and claimed it has not developed any potholes to date.
-
-## Tamil Nadu government announces elderly insurance, medicity, to enact Public Health Act
-The Tamil Nadu health minister made 115 new announcements in the Tamil Nadu Legislative Assembly regarding public health reforms for 2026-2027.
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
@@ -136,7 +136,7 @@ Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to r
 Caribbean laborers report rat-infested rooms and abusive bosses.
 
 ## Has Turkey Really Resolved Its Kurdish Question?
-Aliza Marcus’s Resurgence and Revolution sheds light on the past and future of the Kurdish cause.
+Aliza Marcus’s “Resurgence and Revolution” sheds light on the past and future of the Kurdish cause.
 
 ## China’s New Laws Are Ensnaring Western Companies
 Beijing is systematically countering U.S. and European sanctions efforts by expanding its jurisdiction.
@@ -156,29 +156,32 @@ The administration made moves on drones, cyberwarfare, and ship building.
 ## What in the World?
 Test yourself on the week of Aug. 8: A major earthquake hits Colombia, Lebanon achieves a regional first, and parts of Europe enjoy a solar eclipse.
 
+## Kazakhstan’s Kurultai Election Looms: Is This Old Wine in a New Bottle?
+The shape of the Kazakh legislature may have changed, but the politics of Kazakhstan have not necessarily been transformed.
+
+## Are Allies’ Military AI Systems Interoperable?
+The U.S., South Korea, and Japan are pursuing different AI-driven combat systems. That will lead to different recommendations on the same battlefield.
+
+## Beyond Kashmir: South Asia’s Other Territorial Disputes
+These disputes all involve India and the Himalayas – but in these three cases, the other claimant isn’t Pakistan.
+
+## Kim Min-seok Wins Democratic Party Chair in Ranked-Choice Runoff
+The former prime minister defeated incumbent chair Jung Chung-rae 54.1 percent to 45.9 percent in the party’s chairmanship election.
+
+## India’s Collapsing Roads and Highways Dent Modi Government’s Image
+It has built dozens of expressways and highways at enormous cost. But these have not survived the stress test of even the season's first rains.
+
+## The Dilemma Facing Malaysia’s Democratic Action Party
+Until 2022, the DAP had spent six decades in opposition – but gaining a foothold in government has been a mixed blessing.
+
+## Extreme Heat Is Hurting South Asia’s Economies. Here’s How Much.
+Multiple reports highlight alarming loss of wages and work hours due to extreme heat.
+
 ## The Thai Government’s Myanmar Gambit Could Backfire on ASEAN
 Bangkok's recent campaign of diplomatic outreach undermines the bloc's collective approach to the country's crisis.
 
-## Bou Meng, Survivor of Khmer Rouge Security Prison, Dies Aged 85
-The painter was one of 14,000-plus men, women, and children who were sent to S-21 between 1975 and 1979 – and one of just a handful to survive.
-
-## Joint Resource Exploration With China a ‘Possibility’ Before 2028, Philippine President Says
-Ferdinand Marcos Jr. said that Manila and Beijing have made progress in energy talks, despite the ongoing tensions in the South China Sea.
-
-## How China Is Normalizing Its Presence in the Waters East of Taiwan
-Accidents, the ‘normalization’ of law enforcement and integration into a sphere of influence
-
-## Indonesia Is the Latest Country to Validate China’s Claim to Taiwan – Unwittingly or Not
-From Indonesia to Africa and Oceania, China is enlisting foreign countries to support its increasingly strict interpretation of the One China principle.
-
-## Singapore’s Israel Tightrope
-The city-state’s ties with Israel have been built on a history that very few other Asian countries can boast. But Singapore can still say "no."
-
-## Taiwan Wants to Know Why Indonesia Joined China in a Naval Exercise East of Taiwan
-The exercise highlighted increasing tensions in the waters east of Taiwan, which are also close to Japan and the Philippines.
-
-## Why India Needs a Comprehensive Polar Strategy
-The Arctic and Antarctic are reshaping both the global climate and the geopolitical chessboard. Yet India remains absent from the tables where polar futures are decided.
+## A Life in Army Special Operations, from Desert Storm to the Next War
+Lt. Gen. (ret.) Francis Beaudette, former commanding general of the U.S. Army Special Operations Command, joins Ryan to discuss how his family history, service, and books shaped his path into and time in the Army. Together, they talk through his years as a young officer during Operation Desert Storm
 
 ## Blanchard’s Lathe and the Long Arc of American Manufacturing
 Emerging from the chaos of supplying the U.S. Army during the War of 1812, the War Department sought to foster domestic production of standardized muskets. Out of this industrial project arose an invention that laid the foundation for automation and mass production. Thomas Blanchard’s copying lathe 
@@ -200,9 +203,6 @@ The 1930 comic history, 1066 and All That, made famous the British habit of redu
 
 ## Russia’s Blurry Line Between Science and Sabotage Beneath the Ocean’s Surface
 In 2025, Nurlan Aliyev wrote, “The Mayhem of Russia’s “Research” Fleet,” where he argued that NATO must act decisively to safeguard critical undersea infrastructure from Russian sabotage attempts. A year later, we asked him to revisit his arguments. Image: Andrey Luzik via Wikimedia CommonsIn your 2
-
-## Hyman Rickover and the Birth of Nuclear Power
-Editor’s note: This is the eighth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sele
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Democrats rebuke Trump over scaling back military drills with South Korea
-Republican Senator Thom Tillis says the decision allows North Korea to provide more support to Russia in Ukraine.
+## Clashes between government and opposition fighters in Somalia’s Baidoa
+Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.
 
-## How Russian dissidents are being punished by both Russia and Europe
-While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres.
+## Syria launches probe into death of ‘White Helmet’ rescuer in police custody
+Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.
 
-## Rights group urges FIFA to block Infantino re-election bid over term limits
-FairSquare says the FIFA president should not be able to run again under the world football organisation's statutes.
+## Explosion reported at school in Afghan capital Kabul
+The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.
 
-## Police execute controlled World War II–era Mine explosion
-Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.
+## Britain deploys military as wildfires spread across Europe
+Britain deploys military as wildfires spread across Europe
 
-## Trump demands Iran ‘put up the white flag of surrender’ as MoU expires
-President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November's US midterms.
+## Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections
+On Monday, Israel's governing party will determine its candidate list for the next election.
 
-## Iran signals readiness for ‘US ground operations’ as MoU expires
-Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.
+## Palestinians, Israelis sceptical of Gaza plan as Kushner visits region
+US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.
 
-## Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza
-Twelve people including the captain are on board 'Kate', the latest vessel attempting to deliver aid.
+## British PM Burnham duped by White House impostor
+The FBI has warned of 'malicious actors' misusing AI to impersonate senior government officials.
 
-## Lula and Bolsonaro’s son launch rival bids for Brazil presidency
-Brazil’s presidential race is officially underway.
+## War on Iran: Phase II, Day 37
+Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
