@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake
+Negotiations come amid clashes over strategy and as Walter’s business empire faces scrutiny from regulators
+
+## Crime and punishment in the Middle East
+Lebanon and Syria are trying to improve the application of justice but challenges remain
+
+## Russia fires economist over Ukraine war warning
+Andrei Klepach dismissed after bleak remarks about economic toll of conflict
+
 ## Seoul rattled by threat to drills at heart of US-Korean alliance
 Donald Trump’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
 
@@ -15,26 +24,23 @@ Boom-bust pattern could become ‘question of financial stability’ for euro ar
 ## The realignment of the Middle East
 Iran conflict is reshaping alliances in a way neither America nor Israel foresaw
 
-## Reform’s deputy leader tells Britons to ‘enjoy’ heat amid record drought
-Richard Tice’s call for people to ‘celebrate’ hotter weather comes as farmers warn of one of the worst harvests on record
+## Monzo chair Gary Hoffman to step down months after shareholder revolt
+Digital bank removed TS Anil as chief last year before reinstating him to board after investor rebellion
 
 ## Nvidia pledges $100bn backing for OpenAI data centre in Ohio
 Chipmaker also invests $1.5bn into SB Energy, an energy company founded as part of SoftBank Group
 
-## UK government to pay KPMG and EY up to £456mn to train civil servants
-Deal marks largest contract awarded to Big Four firms in at least a decade
-
-## Monzo chair Gary Hoffman to step down months after shareholder revolt
-Digital bank removed TS Anil as chief last year before reinstating him to board after investor rebellion
-
 ## Ferrari’s first EV auctioned off at record $40mn
 The Luce’s auction price sets a record for a new car
 
-## Barclays shakes up investment bank less than 3 years since last overhaul
-Mike Joo hired from Bank of America to lead investment banking
+## UK government to pay KPMG and EY up to £456mn to train civil servants
+Deal marks largest contract awarded to Big Four firms in at least a decade
 
-## Trump’s war on customs fraud will be costly and difficult
-The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about
+## Godavari Biorefineries secures European patent for anti-cancer pharmaceutical composition
+The patent strengthens the company’s oncology-focused intellectual property portfolio and supports its efforts to develop potential healthcare applications through formulation research
+
+## Can native forests capture carbon like fast-growing exotics?
+New research challenges the assumption that biodiversity must be sacrificed for the sake of carbon capture
 
 ## SEBI simplifies mutual fund registration with single application form
 The move replaces the existing multi-stage process that required separate submissions for in-principle approval and final registration of a mutual fund.
@@ -53,12 +59,6 @@ The regulator has flagged growing online sessions offering market positions and 
 
 ## El Nino seen deepening India’s rainfall deficit through Sept
 European forecaster says best of monsoon over for India; overall shortfall at 13%
-
-## Shorter-tenor SLB contracts may boost closing auction participation
-Move by NSE, BSE Clearing comes as SEBI pushes for greater participation in new closing auction mechanism
-
-## Resilient Asset Management to sell up to 5% stake in Paytm via block deal worth up to ₹4,895 crore
-The transaction includes a base offer of 19.2 million shares (3% stake) valued at ₹2,949 crore, with an option to upsize by 12.7 million shares (1.98% stake) worth ₹1,946 crore
 
 ## HC directs FDA to pay sweets seller for not lifting suspension despite compliance
 
@@ -84,6 +84,12 @@ While the article said available evidence does not substantiate concerns that E2
 ## Wary of risks, Asian refiners want Saudi Aramco’s shipments to be picked outside Red Sea
 Yanbu has become increasingly important to Saudi Arabia as it seeks to maintain crude shipments after the war disrupted traffic through the Strait of Hormuz and severely restricted supplies from the Persian Gulf.
 
+## 'Left on the streets': JSSC CGL aspirants who cleared exam protest Jharkhand decision
+“We joined through a fair process, so why is such a step being taken?" a protester said.
+
+## Jharkhand protest LIVE: JSSC-CGL selectees stage protest as Jharkhand govt cancels recruitment exams
+Jharkhand protest LIVE: “We joined through a fair process, so why is such a step being taken? We say: conduct an investigation,” one of the protesters said.
+
 ## Celebrations erupt as Jharkhand govt accepts students' demands; Student leader Mahto says 'not fully satisfied'
 Student leader Devendra Nath Mahato, who has been on an indefinite hunger strike on the issue, thanked chief minister Hemant Soren and the Jharkhand government.
 
@@ -101,12 +107,6 @@ Nitin Gadkari said that 27 years ago, he built the Mumbai-Pune Expressway and cl
 
 ## Tamil Nadu government announces elderly insurance, medicity, to enact Public Health Act
 The Tamil Nadu health minister made 115 new announcements in the Tamil Nadu Legislative Assembly regarding public health reforms for 2026-2027.
-
-## Vande Mataram added to official events this year, people may take time to adjust: Jammu and Kashmir CM Omar Abdullah
-Commenting on the controversy surrounding Congress leaders' alleged disrespect to Vande Mataram, Abdullah said there should be no controversy.
-
-## ‘Nobody will be spared’: Tukaram Mundhe after Maharashtra FDA notices to SRK, Ajay Devgn over Vimal ad
-“Everybody across the chain is responsible. It applies to all,” Maharashtra FDA commissioner Tukaram Mundhe said.
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
