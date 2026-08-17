@@ -1,6 +1,6 @@
 # AION Intelligence
 
-## Olympus boss tries to beat buyout firms at their own game
+## The CEO trying to outsmart buyout firms
 Bob White adopts private equity-style tactics to deflect takeover interest and boost share price
 
 ## The next China shock will come from open-source AI
@@ -24,38 +24,41 @@ Itamar Ben-Gvir also calls for re-establishment of Jewish settlements in the Pal
 ## London’s flood defence may need replacing far sooner than expected due to extreme weather
 Thames Barrier upgrade could cost at least £20bn, senior government officials warn
 
+## The art of the goodbye message
+Retirement announcements show how hard it is for successful professionals just to stop
+
 ## Rayner reforms planning to protect England’s pubs and boost housebuilding
 Ministers to encourage property developments close to train, tram and underground stations
 
 ## Don’t dismiss the mini-middle powers
 Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial areas
 
-## Reform UK vows to block foreign nationals from claiming benefits if it wins power
-Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
+## Indian bonds may slip after RBI shortens swap window for diaspora deposits
+Yield ⁠on the benchmark 6.94% 2036 bond may hover in the 6.75% to 6.78% range, private-bank trader says
 
 ## Sensex today | Stock Market LIVE: Sensex, Nifty set for another weak opening as crude oil, Hormuz tensions weigh
 Sensex, Nifty, Share Prices Live updates: Gift Nifty at 24,400 signals a cautious start, while investors track Strait of Hormuz developments, Brent crude prices and the Fed’s July meeting minutes ahead of the September policy decision.
 
-## Indian Space Association proposes ₹500 crore third-party insurance cover for space launches
-The third party damage insurance framework will likely be part of Indian Space Activity Bill
+## BCAS reviews safety protocols, handling norms following accidental firearm discharge at Varanasi airport
+The review comes after a round was accidentally discharged from a passenger’s licensed firearm, during the handling and inspection of the weapon
 
-## Stock markets today: Another weak opening on the cards for Indian stocks
-Gift Nifty at 24,400 signals a cautious start, while investors track Strait of Hormuz developments, Brent crude prices and the Fed’s July meeting minutes ahead of the September policy decision.
+## Rupee set to weaken after central bank curtails dollar inflow window
+The RBI has brought forward by a month the cut-off for its ​discounted forex swap facility, ‌following more than $50 billion in inflows from NRI deposits
 
-## Sweat the asset... and the brand: PVR Inox MD Ajay Bijli
-PVR Inox MD Ajay Bijli on how the multiplex chain has been constantly rewriting its script
+## Alibaba to sell gaming arm for $1.5 billion in boost to AI pivot
+Alibaba is undergoing a broader corporate reorganisation under CEO Eddie Wu, divesting non-core assets while making AI and cloud computing a top strategic priority with the aim of reaching $100 billion in AI revenue in five years
 
-## Lalithaa Jewellery’s 1,700-crore IPO opens today at ₹190-201 price band
-Investors can bid for a minimum of 74 Equity Shares and in multiples of 74 Equity Shares thereafter.
+## Trump terms Saudi-Turkey-Pak defence agreement 'big, bold' step
+The Mecca Joint Defence Agreement holds any armed offensive against any of the three countries an attack against all of them
 
-## Blackstone-backed Horizon Industrial Parks opens today at ₹57-60
-Market lot is 250 shares; company raised ₹1,167.75 crore
+## Jane Street took $15 billion loss in July as AI stocks slumped
+Jane Street, which invests in Situational Awareness and directly invests in AI ventures, suffered a rare and severe down month in July amid volatile stock markets
 
-## Agoda Unveils Agoda Partner Portal as the Refreshed Platform's Role in Property Management Expands
-Agoda Unveils Agoda Partner Portal as the Refreshed Platform's Role in Property Management Expands
+## New jobs map
+Report finds tier-2 and tier-3 centres see more job postings growth than tier-1 centres
 
-## Stocks to watch, Aug 17: Reliance, Kalpataru Projects, BEML, Hazoor Multi, ONGC, Dixon, Kitex, IFGL Refractories, Dr Reddy’s, PB Fintech, will be in focus on Monday
-As key players like Reliance and Kalpataru Projects make strategic moves and secure significant contracts, investors will also be keenly observing developments from ONGC’s resumed operations in Venezuela to Dr Reddy’s FDA inspection outcomes, shaping market sentiments for the week ahead.
+## Bullion watch: Where are gold and silver prices headed?
+
 
 ## Five among top 10 firms see market cap fall by Rs 1 lakh crore
 
@@ -66,6 +69,9 @@ As key players like Reliance and Kalpataru Projects make strategic moves and sec
 ## Insolvency, bankruptcy board aims to check misuse of law
 Tells Professionals To Inform NCLT In Case of Wrongdoings
 
+## Amber to make smartphones for Oppo
+
+
 ## JP Morgan targets bigger M&A role
 
 
@@ -75,35 +81,29 @@ Tells Professionals To Inform NCLT In Case of Wrongdoings
 ## FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August
 In August, foreign investors turned the tide by purchasing Indian equities, building on the positive momentum from July's inflows. This shift follows a period of substantial selling earlier in the year. With attractive valuations and promising corporate earnings, renewed interest from foreign invest
 
-## Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week
-The IPO market anticipates a busy week with seven companies planning public offerings. These upcoming issues aim to collectively raise more than Rs 6,400 crore from investors. Horizon Industrial Parks and Lalithaa Jewellery Mart will launch their initial public offerings on August 17. Shankesh Jewel
+## BRS announces protest in Telangana over government's alleged decision to cancel two key schemes
+The BRS asserted that the Kalyana Lakshmi and Shaadi Mubarak schemes have provided financial support and dignity to lakhs of poor families.
 
-## Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week
-Indian stock markets are currently influenced by geopolitical tensions and global monetary conditions. Investors are particularly vigilant about developments in the Strait of Hormuz and the ongoing US-Iran conflict. Additionally, the Federal Reserve's policy decisions will likely influence investor 
+## At least 7 dead, several injured as massive fire erupts at hotel in West Bengal’s Tarapith
+The injured were rushed to Rampurhat Government Medical College and Hospital for treatment.
 
-## Rajasthan govt restricts entry of outsiders, photography and interviews as CJP plans school visits
-CJP co-convener Ranka said he had received requests to inspect schools in Jaipur, Kota, Jodhpur, Ajmer, Udaipur, Bharatpur, Dholpur, Barmer, and Hanumangarh.
+## Schools shut in 3 Odisha districts amid heavy rainfall as IMD issues ‘red alert’
+The IMD has forecast heavy rainfall across Odisha from August 16 to 18, with rain expected to intensify on Monday before easing on Tuesday
 
-## Tamil Nadu CM Vijay condemns killing of 3 Tamils by Karnataka forest officials, calls for investigation
-Three Tamils were shot dead by Karnataka forest officials in Cauvery Wildlife Sanctuary. Tamil Nadu CM Vijay demanded a probe into the incident.
+## Crowd swell, broken barricades, live wire rumour: What led to Bihar temple stampede
+Witnesses however countered this narrative and said there was a stampede due to the lack of crowd management.
 
-## ED alleges ‘collusion’ with Punjab CM Mann’s OSD to influence transfers, postings
-The ED alleges Nitin Gohal colluded with the OSD to the Punjab Chief Minister, influencing government functions and collecting illicit proceeds.
+## BJP starts youth outreach to change narrative against government after CJP-led student protest
+The party’s initial response and failure to gauge the sentiments of the protesters led by the CJP has been flagged as a mis-step by a section of leaders.
 
-## Population count for Census 2027 begins today; 40 questions include caste query for first time since Independence
-Following the completion of the self-enumeration phase, census enumerators will conduct a door-to-door verification exercise using a mobile application.
+## 'Neglect, insecurity, or indignity': SC rules senior citizen tribunals can order eviction to protect elderly parents
+SC rules senior citizen tribunals can order eviction from property when necessary to protect elderly parents’ maintenance, dignity and security.
 
-## Suspected suicide of TMC's Asish Banerjee sparks political blame game in West Bengal
-The BJP has alleged corruption and irregularities in the authority, including in connection with sand tenders.
+## BJP leader PC George makes U-turn on allegations of misappropriation of election funds
+Thiruvananthapuram: BJP leader and former Poonjar MLA PC George Sunday made a U-turn on allegations of misappropriation of election funds in his constituency within the party that he had made publicly at a party meeting in July
 
-## Navy sailor, wife and 2 children found dead in Mumbai; murder-suicide suspected
-Police said the sailor allegedly died by suicide while his wife and their children died due to poisoning at their residence in Cuffe Parade.
-
-## Jharkhand protesters, govt to hold 7th round of talks today as hunger strike enters 15th day
-The decision came after the sub-divisional officer met the students at the protest site in Ranchi’s Jaipal Singh Munda Stadium.
-
-## NTA paper-setting process: From question bank to sealed sets, how exam papers are prepared
-The re-examinations will be held on September 9, with English from 9am to noon and Commerce from 3pm to 6pm.
+## Kerala’s baby cradle scheme hits milestone: 1,000th infant rescued
+It was on the eve of Christmas in 2002
 
 ## Foreign capital is dipping its toes into China’s property sector. Is a rebound in store?
 From shopping malls to warehousing and logistics companies, a wave of deals by foreign funds in China is injecting liquidity into a property sector scarred by years of struggle. Several Wanda Plazas – the sprawling mixed-use developments that were once the flagship assets of tycoon Wang Jianlin’s Da
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Rare Pallas’s cat captured on camera in northern Iran mountains
+Footage shows a rare sighting of one of Iran’s most elusive wild felines.
+
+## Zambia incumbent takes early election lead as opposition alleges armed raid
+President Hakainde Hichilema appears on course for outright win as observers cite violence and a tilted campaign field.
+
 ## Ebola outbreak in DR Congo becomes deadliest in country’s history
 A top UN official says 'speed, scale, and solidarity' needed 'before this virus gets even further ahead of us'.
 
@@ -243,11 +249,8 @@ Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaz
 ## Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner
 Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.
 
-## UN’s Albanese: Israel outsourcing coercion to settlers in West Bank
-UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.
-
-## Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly
-Far-right National Security Minister Ben-Gvir sits on Israel's security cabinet, which helps shape war and policy.
+## India opens tax amnesty scheme for small taxpayers to declare select foreign assets
+India's tax amnesty scheme for small taxpayers opened Sunday and runs until December 2026. This one-time measure aims to bring undeclared foreign assets and income into the tax net. Taxpayers with undisclosed foreign income up to one crore rupees can declare it.
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
@@ -270,8 +273,8 @@ Finance leaders credit Tata Sons chairman with execution discipline, capital all
 ## Tata Sons Chairman N Chandrasekaran to step down in February 2027
 N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
 
-## Beyond Chandrasekaran: Will Tata Sons opt for a new chairman or split power between chairman and CEO?
-The immediate question for Tata Sons is whether it will appoint another executive chairman in Chandrasekaran's mould or separate the group's governance and executive responsibilities between a chairman and a CEO or managing director.
+## PM GatiShakti: 396 infra projects worth Rs 18.66 lakh crore recommended for approval
+Nearly four hundred infrastructure projects have received approval under the PM GatiShakti initiative. These projects, valued at over eighteen lakh crore rupees, span various ministries. The Network Planning Group has evaluated these significant infrastructure developments for implementation. This i
 
 ## RBI to stay in 'wait-and-watch' mode, supply side induced hike in inflation under watch
 While a policy rate hike is surely not a zero probability event, the bar for the same appears high for now, with the Reserve Bank of India (RBI) likely to look through the supply side induced increase in inflation, according to a new report.
@@ -293,7 +296,4 @@ India's capital markets regulator has found no signs of manipulation in the newl
 
 ## Govt to offer sops up to Rs 5,000 for electric two-wheelers till Mar 2028
 Government incentives for electric two-wheelers are extended until March 2028. Financing support mechanisms are being developed for electric buses and trucks. This initiative aims to reduce borrowing costs and accelerate EV adoption across segments. Registered electric two-wheelers will continue rec
-
-## Sebi measures reduce equity F&O losses for retail investors in FY26
-Sebi's new rules significantly lowered retail investor losses in equity derivatives. Aggregate net losses dropped to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore. Retail investor volumes and overall trading turnover also saw a decline in the same period. Sebi implemented several measures since No
 
