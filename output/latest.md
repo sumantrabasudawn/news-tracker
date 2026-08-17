@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Reform’s deputy leader tells Britons to ‘enjoy’ heat amid record drought
+Richard Tice’s call for people to ‘celebrate’ hotter weather comes as farmers warn of one of the worst harvests on record
+
+## Nvidia to invest $100bn for OpenAI data centre in Ohio
+Chipmaker also invests $1.5bn into SB Energy, an energy company founded as part of SoftBank Group
+
 ## UK government to pay KPMG and EY up to £456mn to train civil servants
 Deal marks largest contract awarded to Big Four firms in at least a decade
 
@@ -18,12 +24,6 @@ Party’s Treasury spokesperson Robert Jenrick says current welfare system is �
 ## FirstFT: Jared Kushner and Benjamin Netanyahu meet in push for Gaza peace
 Also in today’s newsletter: private credit doldrums and the AI super-rich
 
-## Japanese second-quarter growth weaker than expected
-Households and businesses pulled back in the worst months of the Iran energy shock
-
-## People are worried about America’s solvency
-But not worried enough to actually do anything about it
-
 ## Ferrari’s first EV auctioned off at record $40mn
 The Luce’s auction price sets a record for a new car
 
@@ -36,29 +36,29 @@ What looks like random algorithmic attention can actually be the work of obsessi
 ## Virgin wins approval for cross-Channel trains despite Eurostar complaints
 Regulatory clearance brings competition on rail services to the continent a step closer
 
-## AAI profit falls 9.8% to ₹6,522 crore in FY26
-Revenue remains broadly flat; airport lease income declines
+## India seeks WTO consultations with US over 4-year quartz surface tariff quota
+Says it has substantial interest in the matter; India is among the largest exporters of quartz surface products to the US
 
-## TG-SAFE comes into force as Telangana merges food and drug safety functions
-The new regulatory framework brings key public health functions under one authority, aiming to improve surveillance, enforcement and accountability across Telangana
-
-## India Inc. delivers strongest earnings in 10 quarters; markets stay in the red
-The Nifty 50 settled at 24,287.65, down 78.35 points or 0.32%, while the Sensex slipped 0.36 per cent to close at 77,728.16
-
-## FCNR(B) inflows stabilise rupee but fail to trigger 2013-style rally
-Heavy foreign-currency inflows have strengthened the central bank’s ability to manage volatility, but broader global forces continue to shape exchange rates.
-
-## Inside First Solar’s India bet in Chennai: Sujoy Ghosh on the future of solar
+## Pocket
 
 
-## Tata Group’s Nelco invests $20 million in Elveo Mobile for D2D satellite services
-The partnership targets enterprise connectivity gaps across automotive, maritime, energy and government sectors through emerging non-geostationary satellite technologies.
+## Sunil Mittal steps down as Airtel Payments Bank chief; Shabnam Sinha to succeed
+Sinha will take on a three-year term starting October 1, 2026, pending Board appointment and RBI approval, the company said
 
-## Chandigarh University Hosts National Space Technology Conclave with ISRO; 30 Eminent Space Leaders & Scientists Deliberate on India's Future Space Missions
-Chandigarh University Hosts National Space Technology Conclave with ISRO; 30 Eminent Space Leaders & Scientists Deliberate on India's Future Space Missions
+## BGauss sees Tamil Nadu emerging as key market for electric two-wheelers
+The company has sold around one lakh scooters in India, with 20% of sales from Tamil Nadu
 
-## Hexaware Helps Enterprises Achieve Infinite Momentum by Removing Friction Across the Estate
-Hexaware Helps Enterprises Achieve Infinite Momentum by Removing Friction Across the Estate
+## REIT quarterly distributions cross ₹3,000 crore as listed universe expands
+Stronger leasing, occupancy and portfolio additions support distribution growth; six listed REITs have now crossed ₹34,800 crore in cumulative payouts
+
+## CDSL IPF, Amar Chitra Katha launch film to promote informed investing
+The initiative uses familiar characters and storytelling to help audiences across age groups and regions better understand basic financial planning and investing
+
+## Sonata Software Appoints Hariprasad Rebala as Chief AI Officer
+Sonata Software Appoints Hariprasad Rebala as Chief AI Officer
+
+## Supreme Court to hear NBCC plea seeking RERA exemption for Supertech projects
+The legal move comes as the state-owned builder seeks regulatory relief to advance construction and address the long wait of thousands of homebuyers
 
 ## ‘CAS here to stay’: Sebi chief Pandey says auction system won’t be rolled back, regulator open to feedbacks
 Sebi chairman Tuhin Kanta Pandey affirmed the continuation of the Closing Auction Session, emphasizing ongoing evaluations concerning market participants' worries and potential framework enhancements. He pointed out that as more participants engage with the new system, certain challenges may diminis
@@ -84,6 +84,18 @@ Gold has turned decisively positive in the short term, rising to around Rs 155,1
 ## Stocks to buy: What's the outlook for Nifty for August 17-August 21 week? Check list of top stock recommendations
 Stock market recommendations: Ujjivan Small Finance Bank, and 360 One Wam have been identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy on August 17, 2026.
 
+## Bar council cannot run law college it regulates, Supreme Court told
+The lawyer did not provide details but appeared to refer to the BCI’s plan of setting up an academy for lawyers in Goa.
+
+## Father and five-year-old son found dead at Bengaluru home; police question wife
+Police are questioning family members, including Abhinandan’s wife, as part of the probe.
+
+## Teacher quality rests on competence, empathy: Pralhad Joshi at NCTE foundation day
+Pralhad Joshi addressed the National Council for Teacher Education’s (NCTE) 32nd Foundation Day celebrations
+
+## Will sit for ‘test’, accept failure if score below 9/10: Adhikari on corruption
+“I will sit for a test before you. If I don’t get 9 out of 10, I will apologise to you,” CM Suvendu Adhikari said
+
 ## Delhi airport to consult stakeholders on its Master Plan 2036 prior to AAI submission
 The airport will be proposing to add 10 million capacity by 2030, people aware of the development said
 
@@ -96,17 +108,8 @@ From ‘Sapt Sindhu’, foreign policy to ‘dimagi naxals’, HT decodes Prime 
 ## CJP's Abhijeet Dipke says ‘ready to show my degree’ amid row over his Boston education. But he has a condition
 Abhijeet Dipke’s clarification comes after reports surfaced doubting his degree from Boston University.
 
-## ‘Glamorous role but…’: Poonawalla on buzz that he should have succeeded Malviya
-Deepak Mhaskey was named the social media convenor as the BJP announced a rejig in the party.
-
-## Who is Shahzad Bhatti? Pakistan-based terror group leader's network busted before Independence Day
-Shahzad Bhatti has emerged as one of the most prominent cross-border crime figures under the scanner of Indian security agencies for more than a year.
-
-## Locked exits, defunct fire-alarm system killed 8 in Bengal fire: Officials
-Guests alleged that the fire alarm system did not work when the fire broke out. Many hoteliers learned about the fire when they heard screams
-
-## Principal’s face blackened with ink by school girls in Rajasthan over molestation charges
-The incident occurred at a government school in Rajasthan, where students and their parents gathered and held a demonstration against the school principal.
+## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
+Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
 
 ## Billionaire Geely Auto head Li Shufu steps down as profit slips
 Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker. Li, the 63-year-old founder of the automotive group, announced his resignation just after 
@@ -128,9 +131,6 @@ China’s autonomous-driving ambitions are winning growing recognition in Europe
 
 ## Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong
 Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion. The company, which has been listed on Shenzhen’s Na
-
-## Chinese hedge funds rotate out of Nvidia and US hyperscalers in evolving AI trade
-China’s biggest hedge funds cut holdings of US hyperscalers and Nvidia and migrated into the hardware makers on the AI supply chain in the second quarter, marking a shift of their playbook on overseas investment in response to evolving market dynamics. Perseverance Asset Management International sla
 
 ## China’s New Laws Are Ensnaring Western Companies
 Beijing is systematically countering U.S. and European sanctions efforts by expanding its jurisdiction.
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump hails Mecca pact: Can it replace the region’s US security umbrella?
+As Trump pushes allies to do more for their own defence, three US partners have created a security pact of their own.
+
+## French Serie A footballer Yael Trepy in intensive care after near-drowning
+Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.
+
+## Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap
+Jared Kushner to meet Netanyahu next, after Israel rejected Trump's 15-point Gaza roadmap.
+
+## Cameroon celebrates after winning first ever WAFCON title
+Cameroon wins its first WAFCON title, beating Malawi 3–0 in the final.
+
 ## Yemen’s drone war: Rivals flex growing aerial muscle
 Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
 
@@ -239,18 +251,6 @@ The European Court of Human Rights has dismissed the case, but the plaintiffs ar
 
 ## Israel’s religious right is changing the state from within
 Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.
-
-## Jason Arday’s death is institutional murder
-Arday was subjected to a vicious campaign fuelled by anti-Black racism.
-
-## US-Iran Memorandum of Understanding expires: How and why it fell apart
-Trump deemed the MoU 'over' within a month of it being signed, as the two sides traded attacks despite a 'ceasefire'.
-
-## Arsenal preview: Key questions heading into 2026-27 Premier League season
-Does Guimaraes complete the midfield? Can they finally win the Champions League? And who is set for a breakout season?
-
-## Trump orders US to scale back South Korea military drills
-Donald Trump has ordered the US military to scale back joint exercises with South Korea.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
