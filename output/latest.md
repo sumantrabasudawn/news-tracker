@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Reform UK vows to block foreign nationals from claiming benefits if it wins power
+Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
+
+## FirstFT: Jared Kushner and Benjamin Netanyahu meet in push for Gaza peace
+Also in today’s newsletter: private credit doldrums and the AI super-rich
+
 ## Japanese second-quarter growth weaker than expected
 Households and businesses pulled back in the worst months of the Iran energy shock
 
@@ -18,53 +24,50 @@ Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for G
 ## Burnham exchanged texts with person posing as Trump’s chief of staff
 UK prime minister was contacted by someone claiming to be Susie Wiles
 
-## Trump orders Pentagon to scale back military drills with South Korea
-US president claims joint exercises send a ‘hostile’ message to North Korea
+## How online fandom shaped our world
+What looks like random algorithmic attention can actually be the work of obsessive digital devotees
 
-## FirstFT: Dimon warns UK against higher bank taxes
-Also in today’s newsletter: private credit doldrums and AI super-rich
+## Ferrari’s first EV auctioned off at record $40mn
+The Luce’s auction price sets a record for a new car
+
+## Virgin wins approval for cross-Channel trains despite Eurostar complaints
+Regulatory clearance brings competition on rail services to the continent a step closer
+
+## Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap
+Investors in gigawatt-scale campuses face billions in underinsured risks as insurers balk at cost of full coverage
 
 ## A leaderboard of the biggest trading losses of all time
 Well, some of them, anyway
 
-## Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up
-Company founded by former Snap executive Alex Mashrabov targets marketing content for businesses
+## Saints & Masters launches ONAM Cloud to serve India’s startups and enterprises
+The new platform enters a rapidly expanding Indian cloud market, offering businesses greater control, connectivity and flexibility across diverse workloads
 
-## Private credit under strain as troubled loans swell
-FT analysis shows signals of stress in the market are back to levels last seen in 2017
+## HELM, Parijat Industries announce collaboration across agrochemical value chain
+The partnership combines global agrochemical expertise with Indian manufacturing and distribution capabilities as digital tools reshape agriculture and farmer engagement.
 
-## War and climate change drive surge in global shipping costs
-Rates on routes including Panama Canal, Rhine, Red Sea and Black Sea jump, while Hormuz closure also hits seaborne trade
+## India’s 42.79% renewable power milestone and the grid challenge
 
-## Burnham faces climate test over North Sea oil decision
-Prime minister expected to approve development of controversial Rosebank and Jackdaw projects
 
-## The economics of Europe’s drought
-Rivers are at all-time lows and water is scarce. Transport, energy and big tech are affected
+## MoD inks pact with General Atomics to lease 2 MQ-9B Sea Guardian unmanned aircraft
+The ministry said it signed a contract with the General Atomics Aeronautical Systems for the remotely-piloted aircraft for a period of 30 months
 
 ## South Indian Bank unveils ‘Onam Orumayude Olam’ campaign
 The campaign features festive offers on Home, Car, and Personal Loans, plus exclusive debit card deals with 40+ brands at over 250 outlets in Kerala
 
-## Turtlemint shares jump 9% after Q1 loss narrows
-Revenue from operations jumped to ₹20.77 crore in the quarter under review from ₹7.03 crore in the same quarter last year
-
-## Dhoot Transmission, Molbio Diagnostics ends with 28-36% listing gains on debut day
-Dhoot Transmission listed at a 38% premium on the NSE, while Molbio Diagnostics debuted at a 21.4% premium, following strong subscriptions to both IPOs
-
-## Sensex today | Stock Market LIVE: Sensex down 280 pts as markets close, Nifty down 80 pts to 24,287.65; Infosys, HCL Tech are top losers
-Sensex, Nifty, Share Prices Live updates: At around 3 pm, Sensex declined 120 pts or 0.16% to 77,881.93; and Nifty 50 was down 22.30 pts or 0.12% to 24,343.70
-
 ## Vasundhara Raje, Ram Madhav return to BJP national team; Smriti Irani gets key organisational role
 The organisational revamp combines continuity with the return of experienced leaders, as the ruling party recalibrates its national structure under new leadership.
 
-## AP will conduct teacher recruitment every year: Nara Lokesh
-The government had already filled 3,000 teacher posts through DSC this year
+## Mahindra readies next mass-market EV push with NU_IQ platform
+The automaker is preparing a broader electric lineup as rising consumer acceptance and growing competition reshape India’s rapidly expanding SUV market
 
-## Wealth creation expands beyond metros: Julius Baer India
+## Sensex today | Stock Market Highlights: Sensex down 280 pts as markets close, Nifty down 80 pts to 24,287.65; Infosys, HCL Tech top losers
+Sensex, Nifty, Share Prices Highlights: Benchmark indices Sensex and Nifty ended lower on Monday amid rising crude oil prices and persistent geopolitical tensions in West Asia
 
+## Russia faces fresh fuel shortages as refinery attacks disrupt supplies
+Fuel shortages have surged in multiple regions across Russia as recent drone attacks reignite supply issues. Authorities in no less than ten territories have reinstated limits on petrol sales, amplifying the strain on resources. This situation is worsened by a notable dip in wholesale gasoline sales
 
-## AI emerges as key driver of Indian IT acquisitions
-Indian technology companies are increasingly looking overseas for specialist talent, platforms and intellectual property as enterprise demand for AI accelerates
+## E20 petrol row: Bring back lower blend of ethanol fuel at pumps, says Chief Economic Adviser Nageswaran
+While the article said available evidence does not substantiate concerns that E20 is damaging engines, it acknowledged potential problems involving older vehicles. "India has roughly 75 to 80 million older two-wheelers ... older rubber ⁠seals that are not rated for ethanol are a separate problem ...
 
 ## Sensex falls 281 points to settle at 77,728; Nifty drops 78 points to 24,288
 
@@ -84,11 +87,8 @@ Stock market recommendations: Ujjivan Small Finance Bank, and 360 One Wam have b
 ## Rupee falls 17 paise to 95.59 against US dollar as FCNR swap deadline weighs down sentiment
 The Indian rupee fell against the US dollar at the start of Monday, influenced by the Reserve Bank of India's move to advance a deposit swap deadline. While the bank had previously drawn in substantial foreign currency, analysts predict temporary support for the rupee, though overall weakness is exp
 
-## India’s telecom equipment sector has $50 billion export potential, Niti Aayog highlights key hurdles
-India's telecom sector can significantly boost GDP and exports by 2030. However, heavy import reliance and low domestic value addition pose challenges. Critical components are largely sourced from China, creating supply chain vulnerabilities. Government policies aim to support local manufacturing an
-
-## Top stocks to buy: Stock recommendations for August 17, 2026 week - check list
-Stock market recommendations: Poonawalla Fincorp, and Lenskart - these are the top two stocks to buy recommended by Motilal Oswal Wealth Management Research Desk for the week starting August 17, 2026:
+## Defence ministry inks ₹1.9 cr deal to lease 2 MQ-9B Sea Guardian drones for Navy
+The contract is valued at approximately ₹1,943 crore, according to a ministry statement.
 
 ## TMC MP Abhishek Banerjee moves Cal HC challenging freezing of his bank account
 Abhishek Banerjee's lawyer Ayan Bhattacharjee claimed that the private bank froze his personal bank account without following the proper procedure.
@@ -110,9 +110,6 @@ Nageswaran said, “Restoring a lower blend at the pumps, say, E10, alongside th
 
 ## India-Thailand joint military exercise 'Maitree' to be held from August 18-31
 India-Thailand joint military exercise 'Maitree' to be held from August 18-31
-
-## Brittas writes to SBI chairman, questions 'near zero vacancies' for Kerala in clerical recruitment
-Brittas writes to SBI chairman, questions 'near zero vacancies' for Kerala in clerical recruitment
 
 ## China’s pharma contractors rally as US supply chain pressures face industry resistance
 China’s pharmaceutical contractors are showing financial resilience in the face of Washington’s push to curb reliance on Chinese supply chains. Analysts said investors were bullish because the US government’s recent measures to curb Beijing’s rise as a global pharmaceutical supplier had met resistan
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Thousands await aid after deadly Indonesia quake as rescue work conducted
-Thousands remain displaced after magnitude 7.7 quake struck East Nusa Tenggara province on Saturday.
+## Is the world experiencing more earthquakes now than before?
+Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.
+
+## USS Lincoln crisis: How it compares to past aircraft carrier deployments
+The USS Abraham Lincoln crisis highlights the toll of lengthy deployments on crew morale and operational readiness.
+
+## Iraqi Kurdish PM Barzani’s office targeted in drone attack
+Explosive drones target Iraqi Kurdish PM's office and security chief's residence; no casualties reported.
+
+## Indian temple stampede kills seven people and injures dozens
+A stampede at a Hindu temple in eastern India kills seven people and injures nineteen more.
+
+## Is China encroaching upon Indian territory in Arunachal Pradesh?
+India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh.
+
+## Watch: Young chef, 16, cooking up gourmet meals in Gaza
+Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.
+
+## Thousands await aid after deadly Indonesia quake as rescue work under way
+Thousands remain displaced after a magnitude 7.7 earthquake struck East Nusa Tenggara province on Saturday.
 
 ## Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle
 Britain's new premier has promised to ease the suffering of millions of families unable to afford basic items.
-
-## Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
-Modi's BJP once controlled media narratives in India, but this might be changing with the 'Cockroach' movement.
-
-## Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake
-Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.
-
-## Scottie Scheffler wins St Jude Championship by eight shots
-Scheffler's 21st career PGA Tour title earns the American $3.6m for his resounding victory at TPC Southwind.
-
-## Cincinnati Open: Sabalenka takes six match points to defeat Gibson
-Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.
-
-## Outrage as Colombia’s president hands out footballs as residents await aid
-Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.
-
-## Kushner to meet Netanyahu to push Trump Gaza plan
-The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
@@ -282,6 +279,18 @@ RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 1
 ## Only 22 Women CFOs, 9 CEOs Among Top 500 Listed Firms
 Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly listed companies in India, which equates to only 4.4%. At the Chief Executive Officer level, representation is even more dismal with only nine women holding the title. Although nearly 29% of directors are women in active
 
+## 'CAS is definitely here to stay', aligns Indian equities with global benchmarks: SEBI Chairman
+The Closing Auction Session (CAS) is "here to stay" as a core market reform, SEBI Chairman Tuhin Kanta Pandey stated on Monday, while confirming the regulator is open to making operational tweaks to refine the mechanism, if needed.
+
+## SEBI chief calls for collective cyber resilience as threats grow more sophisticated
+India's financial sector needs to shift from periodic cybersecurity compliance to continuous, risk-driven cyber resilience as threats become increasingly interconnected and sophisticated, SEBI Chairman Tuhin Kanta Pandey said on Monday.
+
+## RBI seeks NBFC feedback on revolving credit rules, stresses compliance and risk controls
+The Reserve Bank of India (RBI) has sought feedback from non-banking finance companies (NBFCs) on draft guidelines proposed for regulating revolving credit facilities, while emphasising the need for stronger compliance, internal audit and risk management frameworks, a report has said.
+
+## India RBI's heavy FX footprint revives memories of a tightly managed rupee
+Central bank intervention is anchoring the rupee's trading range. State-run banks consistently offered dollars to curb currency pressure. This intervention has established a narrow trading range for the rupee. The Reserve Bank of India's actions revive memories of past interventions. Dollar inflows 
+
 ## SEBI to review CAS feedback, but closing auction mechanism here to stay: Chairman
 The Securities and Exchange Board of India (SEBI) is analysing concerns raised by traders and other market participants over the new Closing Auction Session (CAS) for futures and options (F&O) eligible stocks but the mechanism is here to stay, Chairman Tuhin Kanta Pandey said on Monday.
 
@@ -293,16 +302,4 @@ The Reserve Bank of India shortened its zero-cost FX swap facility for banks. Th
 
 ## PM GatiShakti: 396 infra projects worth Rs 18.66 lakh crore recommended for approval
 Nearly four hundred infrastructure projects have received approval under the PM GatiShakti initiative. These projects, valued at over eighteen lakh crore rupees, span various ministries. The Network Planning Group has evaluated these significant infrastructure developments for implementation. This i
-
-## RBI to stay in 'wait-and-watch' mode, supply side induced hike in inflation under watch
-While a policy rate hike is surely not a zero probability event, the bar for the same appears high for now, with the Reserve Bank of India (RBI) likely to look through the supply side induced increase in inflation, according to a new report.
-
-## Parliament approves Mines & Minerals Update Bill, restricts states’ powers to tax mining
-According to Reddy, any fiscal burden imposed on mineral extraction should be guided by a uniform and balanced fiscal framework.
-
-## RBI turns upbeat as worst of Iran war shock recedes
-India’s economy is showing resilience five months after the Iran war sparked fears of inflation and a downturn. Inflation remains within the RBI’s tolerance band, while vehicle sales, credit growth and GST receipts point to firm demand. Strong corporate balance sheets and festive-season spending are
-
-## Banks to reveal loan rates every month in RBI's disclosure tweak
-The Reserve Bank of India has proposed new lending rate guidelines. Regulated entities must declare lending rates monthly and reset floating loans quarterly. Total charges for microfinance and small loans will be capped by the regulator. These new norms aim to harmonize interest rate determination m
 
