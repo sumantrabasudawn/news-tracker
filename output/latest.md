@@ -36,29 +36,29 @@ Mike Joo hired from Bank of America to lead investment banking
 ## Trump’s war on customs fraud will be costly and difficult
 The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about
 
-## Positive inflows into gold ETFs continue for the 4th week in a row
-Though the yellow metal did not gain much last week, investors’ interest was sustained by prices ruling near $4,400/ounce
+## SEBI simplifies mutual fund registration with single application form
+The move replaces the existing multi-stage process that required separate submissions for in-principle approval and final registration of a mutual fund.
+
+## TN Chief Minister announces full waiver of cooperative bank loans up to ₹75,000
+The additional crop loan waiver will impose a financial burden of ₹953 crore on the State government
+
+## One in five Nifty 50 CEOs in the ₹50-crore pay club
+HCL Tech CEO highest paid in FY26; Asian Paints MD & CEO got highest increase in pay packet at 179 per cent
+
+## API Holdings repays ₹1,050 crore, frees Thyrocare shares from pledge
+Diagnostic chain Thyrocare has sold 1.58 crore Thyrocare shares, representing around 9.90 percent of the company’s paid-up equity capital, through market trades
+
+## SEBI warns investors against live trading strategies offered on social media
+The regulator has flagged growing online sessions offering market positions and trading advice, urging investors to rely only on registered intermediaries.
 
 ## El Nino seen deepening India’s rainfall deficit through Sept
 European forecaster says best of monsoon over for India; overall shortfall at 13%
 
-## FCNR(B) inflows stabilise rupee but fail to trigger 2013-style rally
-Heavy foreign-currency inflows have strengthened the central bank’s ability to manage volatility, but broader global forces continue to shape exchange rates.
+## Shorter-tenor SLB contracts may boost closing auction participation
+Move by NSE, BSE Clearing comes as SEBI pushes for greater participation in new closing auction mechanism
 
-## India’s pulses imports down a tad during in H1 this year
-Chana and urad imports decline, while tur and masoor shipments witness a rise
-
-## One in five Nifty 50 CEOs in the ₹50-crore salary club
-HCL Tech CEO highest paid in FY26; Asian Paints MD & CEO got highest increase in pay packet at 179 per cent.
-
-## India’s kharif crop area 21 lakh hectares less than a year ago as pace of sowing slows
-Acreage of all crops reaches 92% of normal even as deficit shrinks to less than 1%; paddy coverage trails 3%
-
-## El Niño seen deepening India’s rainfall deficit through September
-Current lean rainfall trend over large parts of could persist through September as El Niño strengthens its influence on the monsoon, according to ECMWF
-
-## Juniper Hotels eyes acquisitions, new brand tie-ups for growth
-The company aims to double the number of rooms in its properties to 4,000 by FY31
+## Resilient Asset Management to sell up to 5% stake in Paytm via block deal worth up to ₹4,895 crore
+The transaction includes a base offer of 19.2 million shares (3% stake) valued at ₹2,949 crore, with an option to upsize by 12.7 million shares (1.98% stake) worth ₹1,946 crore
 
 ## HC directs FDA to pay sweets seller for not lifting suspension despite compliance
 
@@ -84,6 +84,15 @@ While the article said available evidence does not substantiate concerns that E2
 ## Wary of risks, Asian refiners want Saudi Aramco’s shipments to be picked outside Red Sea
 Yanbu has become increasingly important to Saudi Arabia as it seeks to maintain crude shipments after the war disrupted traffic through the Strait of Hormuz and severely restricted supplies from the Persian Gulf.
 
+## Celebrations erupt as Jharkhand govt accepts students' demands; Student leader Mahto says 'not fully satisfied'
+Student leader Devendra Nath Mahato, who has been on an indefinite hunger strike on the issue, thanked chief minister Hemant Soren and the Jharkhand government.
+
+## NYC mayor Zohran Mamdani speaks in Bangla, Mandarin and Spanish to promote Broadway
+NYC Mayor Mamdani speaks in Bangla, Mandarin and Spanish to promote Broadway
+
+## Jharkhand CM accepts students' demands; cancels JSSC-CGL, other exams held by firm at centre of row
+After the Cabinet meeting, Soren also ordered a comprehensive inquiry into irregularities in recruitment exams since 2014.
+
 ## Search for 5 army personnel who went missing in Arunachal flash flood continues
 The flash flood struck Pasu Pani, around 25km beyond Mipi Circle, at about 4.30pm after a major stream suddenly swelled and inundated the surrounding area
 
@@ -98,15 +107,6 @@ Commenting on the controversy surrounding Congress leaders' alleged disrespect t
 
 ## ‘Nobody will be spared’: Tukaram Mundhe after Maharashtra FDA notices to SRK, Ajay Devgn over Vimal ad
 “Everybody across the chain is responsible. It applies to all,” Maharashtra FDA commissioner Tukaram Mundhe said.
-
-## 2 students injured during anti-census protest in Manipur: Police
-The Campaign for Just and Fair Delimitation (JFD), a local organisation, announced a 48-hour total shutdown across the state to fulfil their demand
-
-## ‘Hanuman paisa’ dispute leads to kidnapping of Odisha businessman; journalist, woman cop held
-The case centres on a ‘Hanuman paisa’ racket in western Odisha, where fraudsters exploit beliefs about mythical coins said to bring wealth.
-
-## Bar council cannot run law college it regulates, Prashant Bhushan tells Supreme Court
-The lawyer did not provide details but appeared to refer to the BCI’s plan of setting up an academy for lawyers in Goa.
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Democrats rebuke Trump over scaling back military drills with South Korea
+Republican Senator Thom Tillis says the decision allows North Korea to provide more support to Russia in Ukraine.
+
 ## How Russian dissidents are being punished by both Russia and Europe
 While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres.
 
@@ -248,9 +251,6 @@ Twelve people including the captain are on board 'Kate', the latest vessel attem
 
 ## Lula and Bolsonaro’s son launch rival bids for Brazil presidency
 Brazil’s presidential race is officially underway.
-
-## Global condemnation of Israeli settler violence against Palestinians
-Global condemnation of Israeli settler violence against Palestinians
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
