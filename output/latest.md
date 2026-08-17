@@ -84,6 +84,9 @@ Sebi chairman Tuhin Kanta Pandey affirmed the continuation of the Closing Auctio
 ## Russia faces fresh fuel shortages as refinery attacks disrupt supplies
 Fuel shortages have surged in multiple regions across Russia as recent drone attacks reignite supply issues. Authorities in no less than ten territories have reinstated limits on petrol sales, amplifying the strain on resources. This situation is worsened by a notable dip in wholesale gasoline sales
 
+## Skymet raises drought risk, cuts monsoon forecast to 85% of LPA
+Skymet forecasts monsoon rainfall at 85% of average, predicts a 70% chance of drought, citing strong El Niño's impact on Indian agriculture.
+
 ## SKM to submit memorandum to MPs, seek push for change in Centre's 'corporate-centric' policy
 SKM to submit memorandum to MPs, seek push for change in Centre's 'corporate-centric' policy
 
@@ -102,11 +105,8 @@ CJP founder Abhijeet Dipke congratulated the protesting students after the Jhark
 ## 'Became jobless instantly': JSSC-CGL aspirants who cleared exam slams Jharkhand decision
 “We joined through a fair process, so why is such a step being taken?" a protester said.
 
-## Jharkhand protest LIVE: Student leader Devendra Mahto speaks to Sonam Wangchuk after JSSC-CGL cancellation
+## Jharkhand protest LIVE: Student leader Devendra Mahto breaks fast after demands accepted
 Jharkhand protest LIVE: While the students protesting against irregularities celebrated the decision, aspirants who cleared the exam said it had the “seal of approval” of the Supreme Court.
-
-## Celebrations erupt as Jharkhand govt accepts students' demands; student leader Mahto says 'not fully satisfied'
-Student leader Devendra Nath Mahato, who has been on an indefinite hunger strike on the issue, thanked chief minister Hemant Soren and the Jharkhand government.
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
@@ -228,13 +228,22 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Gaza flotilla sets sail from the UK in bid to break Israeli siege
+A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.
+
+## Photos: Search for Indonesia earthquake victims continues
+At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.
+
+## Death toll from capsized ferry in Zimbabwe rises to 92
+Search efforts to recover the remaining victims are still underway.
+
 ## Russian politician sentenced to 11 years for opposing war in Ukraine
 Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.
 
 ## Russia maintains election ban on opposition Yabloko, jails deputy head
 Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.
 
-## CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
+## CAIR slams Abbott’s ‘anti-Muslim stunt’ on Texas airport washing stations
 Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
 
 ## Clashes between government and opposition fighters in Somalia’s Baidoa
@@ -242,15 +251,6 @@ Heavy clashes broke out in Baidoa, Somalia between federal troops and armed oppo
 
 ## Syria launches probe into death of ‘White Helmet’ rescuer in police custody
 Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.
-
-## Explosion reported at school in Afghan capital Kabul
-The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.
-
-## Britain deploys military as wildfires spread across Europe
-Britain deploys military as wildfires spread across Europe
-
-## Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections
-On Monday, Israel's governing party will determine its candidate list for the next election.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
