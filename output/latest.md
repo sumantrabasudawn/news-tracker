@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Trump orders Pentagon to scale back military drills with South Korea
+US president claims joint exercises send a ‘hostile’ message to North Korea
+
+## China’s economy shows signs of weakness in July
+Industrial output growth slows and retail sales nearly flat as flagging sentiment weighs on spending
+
 ## FirstFT: Dimon warns UK against higher bank taxes
 Also in today’s newsletter: private credit doldrums and AI super-rich
 
@@ -18,7 +24,7 @@ Rates on routes including Panama Canal, Rhine, Red Sea and Black Sea jump, while
 ## Burnham faces climate test over North Sea oil decision
 Prime minister expected to approve development of controversial Rosebank and Jackdaw projects
 
-## Counting the cost of Europe’s drought
+## The economics of Europe’s drought
 Rivers are at all-time lows and water is scarce. Transport, energy and big tech are affected
 
 ## Air conditioning becomes ‘must-have’ for overheated London office workers
@@ -27,29 +33,35 @@ Cooling rises up the list of sought-after features in constrained high-quality c
 ## The wrong lessons are being drawn over worries on public equities
 Policymakers should focus on tax and planning reform to encourage enterprise rather than financial deregulation
 
-## Sensex today | Stock Market LIVE: Sensex falls 400 points, Nifty near 24,270; Infy, HCL, TCS lead losers; BSE Clearing launches 3-working-day SLB contracts
+## Sensex today | Stock Market LIVE: Sensex off day's low; down 150 points, Nifty near 24,350; Hindalco leads gainers; Voltas shares fall 6%
 Sensex, Nifty, Share Prices Live updates: At 12:00 pm, Sensex dropped 407.68 points or 0.52% to 77,601.57, Nifty slipped 94.90 points (-0.39%) to 24,271.10
 
-## Gold Rate Today, Aug 17: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
-22, 24 carat Gold prices up across Indian cities on August 17
+## Ola Electric unveils full-stack energy storage portfolio from home to grid
+The architecture can scale from a single container to GWh-scale energy storage plants
 
-## United States likely to emerge as India’s top LPG supplier: OPEC
-This is expected to offset some of the losses from the Middle East, given India’s oil demand will increase by about 0.2 million barrels per day (mb/d), y-o-y, in Q3 2026
+## Meta faces biggest trial yet over social media child safety as US states take it to court
+US states are seeking extensive financial damages that could, in theory, total as much as $1.4 trillion, plus changes to how the company operates Facebook and Instagram
 
-## 2 killed as Russian strike hits ArcelorMittal steel plant in Ukraine
-ArcelorMittal Kryvyi Rih, Ukraine's largest steel plant, announced a partial shutdown following the Russian strikes
+## Federal Court of Australia dismisses APEDA appeal on Basmati rice
+The Indian authority sought word mark registration; trade analysts and GI expert find gap in the government approach to getting GI for the fragrant rice
 
-## India's power system just passed a historic tipping point
-According to the latest capacity data from Ember and Global Energy Monitor (GEM), ​India’s clean energy sources now account for 331.7 GW of installed capacity, compared with 302.0 GW for fossil fuels
+## Two AI pilots fail preliminary drug test
+Confirmatory testing awaited; pilots flagged in non-negative psychoactive-substance screening
 
-## Dhoot Transmission, Molbio Diagnostics IPOs list strong with 21-38% gains
-The IPOs of both companies received a robust market response
+## Voltas shares fall over 6% from intraday high as brokerages differ after Q1 results
+The stock traded 4% lower at ₹1,270.40 on the NSE at 12.42 pm, after moving between ₹1,263.90 and ₹1,350
 
-## India bonds dip as RBI's diaspora swap move dents sentiment
-The yield on the benchmark 6.94% 2036 bond jumped 3.5 basis points to 6.7909% by 10:45 a.m
+## Govt to soon announce high-level panel on 'Banking for Viksit Bharat'
+Panel ‘to comprehensively review the sector and align it with India’s next phase of growth’
 
-## IN-SPACe proposes ₹500 crore third-party insurance cover for space launches
-The third party damage insurance framework will likely be part of Indian Space Activity Bill
+## Nippon India MF launches NFO on Income Plus Arbitrage Omni FoF
+The Fund of Fund will invest almost the entire corpus in a combination of arbitrage MFs, active and passive debt MFs and an optional small proportion of a maximum 5 per cent in debt and money market instruments
+
+## Trump admin crackdown: Indian techies see biggest hit as US green card approvals plunge sharply
+The approval rate for EB-1A, the US green card category meant for individuals with extraordinary ability, has dropped sharply in FY26, with Indian applicants bearing a significant share of the impact, according to several immigration experts.
+
+## Gold price prediction today: Will gold prices continue to rally? Check outlook for August 17, 2026 week
+Gold has turned decisively positive in the short term, rising to around Rs 155,145 and moving above its recent consolidation range. The price is now approaching the upper end of the recent range, making Rs 157,500–158,000 the key resistance zone for the week.
 
 ## Stocks to buy: What's the outlook for Nifty for August 17-August 21 week? Check list of top stock recommendations
 Stock market recommendations: Ujjivan Small Finance Bank, and 360 One Wam have been identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy on August 17, 2026.
@@ -69,13 +81,22 @@ Throughout August, banks will have multiple closures due to various regional and
 ## Bullion watch: Where are gold and silver prices headed?
 
 
-## Five among top 10 firms see market cap fall by Rs 1 lakh crore
+## SC directs Karnataka to comply, waits a week to assess Cauvery water releases
+The bench was hearing Tamil Nadu’s plea seeking implementation of the CWMA’s decision directing Karnataka to release water to the state
 
+## Stampede-like situation at Ujjain’s Mahakal Nagchandreshwar temple
+A stampede occurred at Ujjain’s Mahakal Nagchandreshwar temple, resulting in injuries to several devotees.
 
-## Oil prices hold steady as Hormuz nears zero traffic while Iran-US talks on Strait opening stalls
+## Big relief for Rahul Gandhi as SC asks Allahabad HC to defer proceedings in disproportionate assets case
+The top court also directed the CBI and the Enforcement Directorate (ED) not to file any report before the Allahabad High Court.
 
+## Assam floods: Over 26,000 houses damaged; second phase of monetary relief begins
+Assam chief minister Himanta Biswa Sarma said that the ongoing survey to assess losses in July’s floods in four districts has identified the damaged houses
 
-## Two more Air India pilots test non-negative in drug test after Phuket flight fiasco
+## Indian billionaire Lakshmi Mittal’s Ukraine steel plant hit in Russian strike, 2 killed, 13 injured
+The strike damaged key energy and blast furnace production facilities at ArcelorMittal steel plant in Kryvyi Rih, according to a Russian state-run newspaper.
+
+## Two more Air India pilots fail to clear drug test after Phuket flight fiasco
 Two Air India pilots have tested non-negative for psychoactive substances in drug screening conducted on around 350 pilots
 
 ## CJI Surya Kant says 'never consented' to NALSAR's invite as student protest snowballs
@@ -84,20 +105,8 @@ His statement comes amid a major controversy which erupted after a group of stud
 ## UGC-NET to reconduct three exams due to errors; second cancelled paper after NEET
 The decision was taken by the NTA after a panel found a raft of factual, typographical and translation errors in the question papers.
 
-## ‘Leaving vyavastha, not vyakti’: Shehzad Poonawalla resignation letter to BJP. Full text
-In his letter, Shehzad Poonawalla expressed “gratefulness, love, affection and highest regard” for Prime Minister Narendra Modi.
-
-## ISKCON vs ISKCON: SC to consider setting up bench to hear review plea on Bengaluru temple
-ISKCON vs ISKCON: SC to consider setting up bench to hear review plea on Bengaluru temple
-
-## ‘Government says it is against drugs, but murders are happening’: Stalin targets Vijay
-Stalin alleged that a 19-year-old was killed after providing information about drug-related activities.
-
-## Rahul Gandhi demands accountability as NTA announces re-conduct of UGC-NET
-In a post on X, Gandhi addressed Prime Minister Narendra Modi and asked him to look at what his NTA has just done
-
-## ‘Chicken served and stored as per norms’: KFC after Mangaluru outlet inspection
-The clarification was issued a day after a KFC outlet in Mangaluru was inspected by the officials of the Food Safety Division,
+## China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand
+China’s autonomous-driving ambitions are winning growing recognition in Europe, with Deutsche Bank raising its target price for Momenta following a key regulatory breakthrough, and Pony.ai expanding its European robotaxi roll-out alongside Uber Technologies. In a research note released on Monday, De
 
 ## Ingenic launches IPO to join wave of mainland China chipmakers raising funds in Hong Kong
 Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion. The company, which has been listed on Shenzhen’s Na
@@ -119,9 +128,6 @@ Hong Kong homebuyers flocked to the first batch of units at a major residential 
 
 ## AIIB warns climate inaction could downgrade a third of sovereign borrowers by 2050
 More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign borrowers could face credit rating downgrades by 2050 if global climate policy fails to strengthen, the Beijing-based multilateral lender said in a report. Under a current policy scenario – in which existing climate rules r
-
-## Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy
-[The content of this article has been produced by our advertising partner.] Artificial intelligence is moving quickly from experiment to operating tool, and Bruce Rockowitz believes it is becoming an important competitive advantage for Hong Kong’s catering businesses as the city’s food delivery econ
 
 ## How Ronald Reagan Used Diplomacy to End the Cold War
 A new movie shows how the president conferred with State Department experts before each meeting.
@@ -171,6 +177,9 @@ The incident reveals Beijing’s growing efforts to assert authority over Tibeta
 ## In Afghanistan, Growing Resistance Meets Fears of Pakistani Influence
 Five years after the Taliban’s return, the Afghan resistance is growing but so is the fear of Pakistan’s shadow.
 
+## What Have We Learned from the 9/11 Wars? Not Nearly Enough
+Editor’s Note: The following article draws on themes from the author’s forthcoming book titled US Counterterrorism Operations in Afghanistan: Jackpots, Dry Holes, and Collateral Damage.Over the next month, the United States will pass two major historical milestones: the five-year anniversary of its 
+
 ## Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk
 Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical infrastructure would be struck. Iranian 
 
@@ -191,9 +200,6 @@ Editor’s note: This is the eighth article in a limited series celebrating Amer
 
 ## The Next School of War: Educating for Tomorrow’s Battlefield
 When war changes, schools change. New technology, the politics of mass mobilization and campaign design, and novel tactics that defined Napoleonic warfare led to Gerhard von Scharnhorst’s reforms and the idea of lifelong education as a professional obligation. The pattern repeated itself in the inte
-
-## Who Pays for America’s Research and Development?
-When the Soviet Union launched Sputnik in 1957, the U.S. government was the unrivaled patron of American science. It funded nearly two-thirds of the nation’s research and development — much of it for defense — defining the early Cold War. In a phenomenon that’s been widely explored in our Arsenal of
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
