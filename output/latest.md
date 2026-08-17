@@ -42,29 +42,29 @@ Prime minister expected to approve development of controversial Rosebank and Jac
 ## The economics of Europe’s drought
 Rivers are at all-time lows and water is scarce. Transport, energy and big tech are affected
 
-## Rupee seen weakening to 97 per dollar by FY2026-27-end: BMI
-BMI expects the rupee to weaken to ₹97 per US dollar by the end of FY2026-27, which runs from April 2026 to March 2027, and to ₹99 per dollar by the end of FY2027-28, from ₹95.4 currently
+## South Indian Bank unveils ‘Onam Orumayude Olam’ campaign
+The campaign features festive offers on Home, Car, and Personal Loans, plus exclusive debit card deals with 40+ brands at over 250 outlets in Kerala
 
-## Rupee hits two-week low amid rising oil prices and forex swap changes
-The rupee fell 0.2% to 95.6025 per dollar but avoided larger losses due to likely intervention by the Reserve Bank of India, traders said
+## Turtlemint shares jump 9% after Q1 loss narrows
+Revenue from operations jumped to ₹20.77 crore in the quarter under review from ₹7.03 crore in the same quarter last year
+
+## Dhoot Transmission, Molbio Diagnostics ends with 28-36% listing gains on debut day
+Dhoot Transmission listed at a 38% premium on the NSE, while Molbio Diagnostics debuted at a 21.4% premium, following strong subscriptions to both IPOs
 
 ## Sensex today | Stock Market LIVE: Sensex down 280 pts as markets close, Nifty down 80 pts to 24,287.65; Infosys, HCL Tech are top losers
 Sensex, Nifty, Share Prices Live updates: At around 3 pm, Sensex declined 120 pts or 0.16% to 77,881.93; and Nifty 50 was down 22.30 pts or 0.12% to 24,343.70
 
-## Tata Power, IIT Bombay partner to develop next-generation clean energy technologies
-The partnership brings academic research and industry expertise together as India seeks faster deployment of advanced technologies across its evolving energy sector.
+## Vasundhara Raje, Ram Madhav return to BJP national team; Smriti Irani gets key organisational role
+The organisational revamp combines continuity with the return of experienced leaders, as the ruling party recalibrates its national structure under new leadership.
 
-## Greaves Cotton acquires 100% stake in Excel Controlinkage
-The acquisition completes the multi-tranche process that began in April 2023 when Greaves Cotton agreed to acquire Excel Controlinkage
+## AP will conduct teacher recruitment every year: Nara Lokesh
+The government had already filled 3,000 teacher posts through DSC this year
 
-## NCLT chides SpiceJet as last-minute lessor settlement forces judgement delay
-The cases have put SpiceJet's finances under renewed scrutiny, ​with admission of even ‌one bankruptcy petition potentially triggering a court-supervised resolution process
+## Wealth creation expands beyond metros: Julius Baer India
 
-## Cognizant launches talent accelerator programme for 489 newly hired B-school graduates
-The two-week onboarding will be held simultaneously across Cognizant’s facilities in Chennai, Bengaluru, Hyderabad and Pune
 
-## China Conducts a Comprehensive "Wind-Induced Vibration Check-Up" for a Super Bridge in Georgia, withstanding Gale-Force Winds of Level 9 and Temperatures as Low as -20°C
-China Conducts a Comprehensive "Wind-Induced Vibration Check-Up" for a Super Bridge in Georgia, withstanding Gale-Force Winds of Level 9 and Temperatures as Low as -20°C
+## AI emerges as key driver of Indian IT acquisitions
+Indian technology companies are increasingly looking overseas for specialist talent, platforms and intellectual property as enterprise demand for AI accelerates
 
 ## Sensex falls 281 points to settle at 77,728; Nifty drops 78 points to 24,288
 
@@ -90,29 +90,29 @@ India's telecom sector can significantly boost GDP and exports by 2030. However,
 ## Top stocks to buy: Stock recommendations for August 17, 2026 week - check list
 Stock market recommendations: Poonawalla Fincorp, and Lenskart - these are the top two stocks to buy recommended by Motilal Oswal Wealth Management Research Desk for the week starting August 17, 2026:
 
+## TMC MP Abhishek Banerjee moves Cal HC challenging freezing of his bank account
+Abhishek Banerjee's lawyer Ayan Bhattacharjee claimed that the private bank froze his personal bank account without following the proper procedure.
+
+## Keeping up with UP: Will Rahul convert crowds into votes in Nehru’s birthplace
+Allahabad was a major centre of the Indian independence movement and known as the city of prime ministers
+
+## ‘Middle class is being looted’: Shehzad Poonawalla’s last remarks before official resignation from BJP
+In a video posted on Instagram, Shehzad Poonawalla said the middle class had effectively been reduced to an “ATM” for the government.
+
+## Amit Malviya dropped, Smriti Irani makes comeback in new BJP team | Check list here
+Nitin Nabin made a new announcement on Monday about reshuffle in the national BJP team.
+
+## Qaumi Insaaf Morcha protest: Former MP Simranjit Mann booked, 17 others arrested
+Qaumi Insaaf Morcha protest: Former MP Simranjit Mann booked, 17 others arrested
+
+## India should bring back E10 option to ease consumer's concerns, says chief economic advisor
+Nageswaran said, “Restoring a lower blend at the pumps, say, E10, alongside the option to buy E20, would calm most public concern."
+
 ## India-Thailand joint military exercise 'Maitree' to be held from August 18-31
 India-Thailand joint military exercise 'Maitree' to be held from August 18-31
 
 ## Brittas writes to SBI chairman, questions 'near zero vacancies' for Kerala in clerical recruitment
 Brittas writes to SBI chairman, questions 'near zero vacancies' for Kerala in clerical recruitment
-
-## Delhi court says lack of CCTV, medical evidence no ground to discharge man in cruelty case
-Delhi court says lack of CCTV, medical evidence no ground to discharge man in cruelty case
-
-## 'Conduct audit of all exam processes, take corrective steps': Centre to NTA after 2 major exams disrupted
-The development came a day after the agency cancelled the UGC-NET exams for three subjects.
-
-## BJP chief Nitin Nabin announces party reshuffle; Smriti Irani, Ram Madhav among list
-The new team, which has 12 women, adheres to the party’s social engineering model, which gives representation to various castes and tribes.
-
-## ISI-backed Shahzad Bhatti group destroyed before Independence Day, terror plot foiled: Centre
-Union home minister Amit Shah said more than 200 operatives of the network had been arrested through coordinated operations across 14 states.
-
-## TN CM 100 days in office: Making transformative milestones, says govt
-TN CM 100 days in office: Making transformative milestones, says govt
-
-## Inside CM Vijay’s 100 days in office: Cauvery, Trisha controversies to free power and loan relief
-The Vijay government has faced questions over the implementation of TVK's election promises, its handling of the Cauvery water dispute and the state's finances.
 
 ## China’s pharma contractors rally as US supply chain pressures face industry resistance
 China’s pharmaceutical contractors are showing financial resilience in the face of Washington’s push to curb reliance on Chinese supply chains. Analysts said investors were bullish because the US government’s recent measures to curb Beijing’s rise as a global pharmaceutical supplier had met resistan
