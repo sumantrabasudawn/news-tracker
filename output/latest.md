@@ -60,6 +60,15 @@ Diagnostic chain Thyrocare has sold 1.58 crore Thyrocare shares, representing ar
 ## SEBI warns investors against live trading strategies offered on social media
 The regulator has flagged growing online sessions offering market positions and trading advice, urging investors to rely only on registered intermediaries.
 
+## Weak soil, trapped water likely behind Lucknow-Kanpur Expressway failures: Initial probe
+
+
+## Tata Power’s digital command centre for real-time monitoring of renewable energy assets
+
+
+## Tata Power, IIT Bombay ink long-term clean energy research pact
+
+
 ## HC directs FDA to pay sweets seller for not lifting suspension despite compliance
 
 
@@ -75,17 +84,8 @@ Sebi chairman Tuhin Kanta Pandey affirmed the continuation of the Closing Auctio
 ## Russia faces fresh fuel shortages as refinery attacks disrupt supplies
 Fuel shortages have surged in multiple regions across Russia as recent drone attacks reignite supply issues. Authorities in no less than ten territories have reinstated limits on petrol sales, amplifying the strain on resources. This situation is worsened by a notable dip in wholesale gasoline sales
 
-## E20 petrol row: Bring back lower blend of ethanol fuel at pumps, says Chief Economic Adviser Nageswaran
-While the article said available evidence does not substantiate concerns that E20 is damaging engines, it acknowledged potential problems involving older vehicles. "India has roughly 75 to 80 million older two-wheelers ... older rubber ⁠seals that are not rated for ethanol are a separate problem ...
-
-## Sensex falls 281 points to settle at 77,728; Nifty drops 78 points to 24,288
-
-
-## Wary of risks, Asian refiners want Saudi Aramco’s shipments to be picked outside Red Sea
-Yanbu has become increasingly important to Saudi Arabia as it seeks to maintain crude shipments after the war disrupted traffic through the Strait of Hormuz and severely restricted supplies from the Persian Gulf.
-
 ## 12 women, 6 minority leaders part of BJP's new national team under Nitin Nabin
-The team that was unveiled on Monday comprises 10 experienced women leaders from various sections of the country.
+The BJP said the appointments ensure widespread representation, with voices included from 23 states and Union territories across the country.
 
 ## Windows, CCTV being replaced: Repair work begins at school in Abhijeet Dipke's village amid 'School Thik Karo' campaign
 Abhijeet Dipke visited the school to kick off the 'School Thik Karo' campaign. There he inspected the campus and highlighted the issues.
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
+Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
+
 ## Clashes between government and opposition fighters in Somalia’s Baidoa
 Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.
 
@@ -248,9 +251,6 @@ US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to pu
 
 ## British PM Burnham duped by White House impostor
 The FBI has warned of 'malicious actors' misusing AI to impersonate senior government officials.
-
-## War on Iran: Phase II, Day 37
-Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
