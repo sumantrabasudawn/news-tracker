@@ -33,29 +33,32 @@ Ministers to encourage property developments close to train, tram and undergroun
 ## Don’t dismiss the mini-middle powers
 Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial areas
 
-## Sensex today | Stock Market LIVE: Sensex falls over 300 points, Nifty near 24,300 in early trade; Schneider Electric Infra down 11%
-Sensex, Nifty, Share Prices Live updates: Markets opened on a weak note Monday, with the Nifty 50 slipping 66.85 points or 0.27 per cent to 24,299.15 and the Sensex falling 305.23 points or 0.39 per cent to 77,704.02, as elevated crude oil prices and Middle East tensions continued to dampen investor
+## Dollar weakens as traders pare Fed rate-hike bets: Markets Wrap
+Pressure on the dollar increased after US government data on Friday showed retail sales fell in July by the most in more than a year as consumers pulled back on purchases
 
-## Lalithaa Jewellery IPO opens today at ₹190-201; issue size ₹1,700 crore
-Investors can bid for a minimum of 74 Equity Shares and in multiples of 74 Equity Shares thereafter.
+## Bhogapuram airport begins commercial flight operations
+First IndiGo flight arrives from Hyderabad, followed by an Air India Express flight from Bengaluru
 
-## Visakhapatnam Airport shuts down operations, leaving workers to face uncertain future
-Flights move to Alluri Sitarama Raju International Airport at Bhogapuram
+## Sensex today | Stock Market LIVE: Sensex falls 503 points, Nifty below 24,300; Schneider Electric Infra down 11%
+Sensex, Nifty, Share Prices Live updates: At around 10.43 am, Sensex fell 503.98 pts or 0.65% to 77,505.27, and Nifty 50 depreciated 124.85 pts or 0.51% to 24,241.15
 
-## Bain Capital-backed Dhoot Transmission jumps 38% in strong debut
-The stock listed ‌at ₹1,200 on the ⁠NSE, a 37.8% premium to ‌its IPO ​price of ₹871
+## Sammaan Capital eyes up to ₹92,000 crore annual disbursements by FY29-FY30
+Under its “Clear Path to Growth” plan, the company is aiming to up its network from 220 branches currently to 1,600 in the next few years
 
-## Sensex, Nifty open lower as crude oil prices, geopolitical tensions weigh
-The Nifty had closed Friday's session at 24,366 while the Sensex ended at 78,009.25; both indices opened lower, Nifty at 24,343.45 and Sensex at 77,892.92, before sliding further in early trade
+## Domestic refiners told to boost LPG output as Hormuz uncertainty lingers
+The directions include exploring alternative uses of feedstocks, such as converting naphtha into LPG.
 
-## Stocks to watch, Aug 17: Reliance, Kalpataru Projects, BEML, Hazoor Multi, ONGC, Dixon, Kitex, IFGL Refractories, Dr Reddy’s, PB Fintech
-As key players like Reliance and Kalpataru Projects make strategic moves and secure significant contracts, investors will also be keenly observing developments from ONGC’s resumed operations in Venezuela to Dr Reddy’s FDA inspection outcomes, shaping market sentiments for the week ahead.
+## Ebola outbreak becomes Congo’s deadliest as UN warns virus Is ‘winning’
+Ebola is hitting a health system already weakened by years of conflict and mass displacement, with recent cuts to humanitarian funding adding to the strain
 
-## India lets renewable power producers pay to keep grid connectivity after delays
-Power producers can get extra time instead of automatically losing their grid ‌connectivity rights, the Central Electricity Regulatory Commission said
+## Brent Crude Oil Price Today: Futures edge higher amid West Asia uncertainty
+Iran’s Foreign Minister Abbas Araqchi told Iranian news outlet Shahdara News that Iran had not decided to resume talks with the US
 
-## India's TANE sector could double GDP share, needs urgent policy support: NITI Aayog
-The TANE ecosystem forms the backbone of modern global connectivity; however, the sector stands at a critical juncture with sharp trade imbalances underscoring an urgent need for targeted intervention
+## Goldman says markets too hawkish on betting Fed will hike rates
+A rate increase at the central bank’s September meeting has become “very unlikely” due to softer retail sales data
+
+## Rupee falls 17 paise to 95.59 against US dollar as FCNR swap deadline weighs down sentiment
+The Indian rupee fell against the US dollar at the start of Monday, influenced by the Reserve Bank of India's move to advance a deposit swap deadline. While the bank had previously drawn in substantial foreign currency, analysts predict temporary support for the rupee, though overall weakness is exp
 
 ## India’s telecom equipment sector has $50 billion export potential, Niti Aayog highlights key hurdles
 India's telecom sector can significantly boost GDP and exports by 2030. However, heavy import reliance and low domestic value addition pose challenges. Critical components are largely sourced from China, creating supply chain vulnerabilities. Government policies aim to support local manufacturing an
@@ -78,11 +81,11 @@ Throughout August, banks will have multiple closures due to various regional and
 ## Insolvency, bankruptcy board aims to check misuse of law
 Tells Professionals To Inform NCLT In Case of Wrongdoings
 
-## Amber to make smartphones for Oppo
-
+## Kharif crops' productivity at risk as monsoon trough shifts, widespread regional variations
+Soybean, maize, paddy and other kharif crops are now entering the growth stages that determine final yields with an erratic monsoon in tow.
 
 ## Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected
-Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected
+Poonawalla cited pressing financial and personal circumstances as the reasons behind his exit and the need to move to the private sector.
 
 ## Jharkhand protest LIVE: Students urge Rahul to ‘withdraw govt’s support', plan to gherao CM Soren’s residence
 Jharkhand protest LIVE: Protesters appealed that if Congress leader Rahul Gandhi is unhappy with the lathi charge on students, he should visit the protest site and withdraw support from the government, similar to his expression of unhappiness over the incident at Jantar Mantar.
@@ -102,8 +105,8 @@ The injured were rushed to Rampurhat Government Medical College and Hospital for
 ## Schools shut in 3 Odisha districts amid heavy rainfall as IMD issues ‘red alert’
 The IMD has forecast heavy rainfall across Odisha from August 16 to 18, with rain expected to intensify on Monday before easing on Tuesday
 
-## Crowd swell, broken barricades, live wire rumour: What led to Bihar temple stampede
-Witnesses however countered this narrative and said the stampede occurred due to poor crowd management.
+## Chinese hedge funds rotate out of Nvidia and US hyperscalers in evolving AI trade
+China’s biggest hedge funds cut holdings of US hyperscalers and Nvidia and migrated into the hardware makers on the AI supply chain in the second quarter, marking a shift of their playbook on overseas investment in response to evolving market dynamics. Perseverance Asset Management International sla
 
 ## China embraces ‘Grandpa Cute’; policewoman probed over uniform dance: 5 weekend reads you missed
 We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. Why Chinese youth are turning to an 84-year-old Cambridge professor for support 2. Chinese official
@@ -125,9 +128,6 @@ More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign b
 
 ## Musk’s headaches: meet China’s corporate matrix challenging his business empire
 US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
-
-## Jim Rogers talks up the Chinese yuan amid fears of a US market crisis
-Legendary American investor Jim Rogers has long advocated cash holdings given the potential for a market crisis due to US national debt. But the currency he would hold might be the Chinese yuan rather than the US dollar, if the former were fully convertible, the veteran investor said in an interview
 
 ## How Ronald Reagan Used Diplomacy to End the Cold War
 A new movie shows how the president conferred with State Department experts before each meeting.
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran’s top negotiator declares victory in war against the US and Israel
+Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.
+
+## Lawyer says Israel’s targeting of Palestinian women is a form of genocide
+Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.
+
 ## Thieves steal Renaissance artworks in museum heist during Italian holiday
 As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.
 
@@ -243,11 +249,8 @@ A top UN official says 'speed, scale, and solidarity' needed 'before this virus 
 ## Israeli settlers pitch tents for new illegal outpost in occupied West Bank
 UN Special Rapporteur Albanese warns that Israel is 'using settlers to advance ethnic cleansing' in the West Bank.
 
-## Can the AU make its current Sudan mission count?
-The African Union is seeking progress in Sudan, but must overcome deep battlefield and diplomatic divisions.
-
-## Trump says US to ‘substantially reduce’ military drills with South Korea
-US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.
+## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
+The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
 
 ## India opens tax amnesty scheme for small taxpayers to declare select foreign assets
 India's tax amnesty scheme for small taxpayers opened Sunday and runs until December 2026. This one-time measure aims to bring undeclared foreign assets and income into the tax net. Taxpayers with undisclosed foreign income up to one crore rupees can declare it.
@@ -269,9 +272,6 @@ RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 1
 
 ## Only 22 Women CFOs, 9 CEOs Among Top 500 Listed Firms
 Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly listed companies in India, which equates to only 4.4%. At the Chief Executive Officer level, representation is even more dismal with only nine women holding the title. Although nearly 29% of directors are women in active
-
-## N Chandrasekaran’s five big moves: The bets and battles that defined his Tata Sons tenure
-From rebuilding Tata’s aviation franchise to placing a massive bet on semiconductors and accelerating the group’s energy transition, N Chandrasekaran’s decade at the helm has been defined by long term bets aimed at reshaping the conglomerate for India’s next phase of growth.
 
 ## PM GatiShakti: 396 infra projects worth Rs 18.66 lakh crore recommended for approval
 Nearly four hundred infrastructure projects have received approval under the PM GatiShakti initiative. These projects, valued at over eighteen lakh crore rupees, span various ministries. The Network Planning Group has evaluated these significant infrastructure developments for implementation. This i
