@@ -33,29 +33,38 @@ Ministers to encourage property developments close to train, tram and undergroun
 ## Don’t dismiss the mini-middle powers
 Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial areas
 
-## Indian bonds may slip after RBI shortens swap window for diaspora deposits
-Yield ⁠on the benchmark 6.94% 2036 bond may hover in the 6.75% to 6.78% range, private-bank trader says
+## Sensex today | Stock Market LIVE: Sensex falls over 300 points, Nifty near 24,300 in early trade; Schneider Electric Infra down 11%
+Sensex, Nifty, Share Prices Live updates: Markets opened on a weak note Monday, with the Nifty 50 slipping 66.85 points or 0.27 per cent to 24,299.15 and the Sensex falling 305.23 points or 0.39 per cent to 77,704.02, as elevated crude oil prices and Middle East tensions continued to dampen investor
 
-## Sensex today | Stock Market LIVE: Sensex, Nifty set for another weak opening as crude oil, Hormuz tensions weigh
-Sensex, Nifty, Share Prices Live updates: Gift Nifty at 24,400 signals a cautious start, while investors track Strait of Hormuz developments, Brent crude prices and the Fed’s July meeting minutes ahead of the September policy decision.
+## Lalithaa Jewellery IPO opens today at ₹190-201; issue size ₹1,700 crore
+Investors can bid for a minimum of 74 Equity Shares and in multiples of 74 Equity Shares thereafter.
 
-## BCAS reviews safety protocols, handling norms following accidental firearm discharge at Varanasi airport
-The review comes after a round was accidentally discharged from a passenger’s licensed firearm, during the handling and inspection of the weapon
+## Visakhapatnam Airport shuts down operations, leaving workers to face uncertain future
+Flights move to Alluri Sitarama Raju International Airport at Bhogapuram
 
-## Rupee set to weaken after central bank curtails dollar inflow window
-The RBI has brought forward by a month the cut-off for its ​discounted forex swap facility, ‌following more than $50 billion in inflows from NRI deposits
+## Bain Capital-backed Dhoot Transmission jumps 38% in strong debut
+The stock listed ‌at ₹1,200 on the ⁠NSE, a 37.8% premium to ‌its IPO ​price of ₹871
 
-## Alibaba to sell gaming arm for $1.5 billion in boost to AI pivot
-Alibaba is undergoing a broader corporate reorganisation under CEO Eddie Wu, divesting non-core assets while making AI and cloud computing a top strategic priority with the aim of reaching $100 billion in AI revenue in five years
+## Sensex, Nifty open lower as crude oil prices, geopolitical tensions weigh
+The Nifty had closed Friday's session at 24,366 while the Sensex ended at 78,009.25; both indices opened lower, Nifty at 24,343.45 and Sensex at 77,892.92, before sliding further in early trade
 
-## Trump terms Saudi-Turkey-Pak defence agreement 'big, bold' step
-The Mecca Joint Defence Agreement holds any armed offensive against any of the three countries an attack against all of them
+## Stocks to watch, Aug 17: Reliance, Kalpataru Projects, BEML, Hazoor Multi, ONGC, Dixon, Kitex, IFGL Refractories, Dr Reddy’s, PB Fintech
+As key players like Reliance and Kalpataru Projects make strategic moves and secure significant contracts, investors will also be keenly observing developments from ONGC’s resumed operations in Venezuela to Dr Reddy’s FDA inspection outcomes, shaping market sentiments for the week ahead.
 
-## Jane Street took $15 billion loss in July as AI stocks slumped
-Jane Street, which invests in Situational Awareness and directly invests in AI ventures, suffered a rare and severe down month in July amid volatile stock markets
+## India lets renewable power producers pay to keep grid connectivity after delays
+Power producers can get extra time instead of automatically losing their grid ‌connectivity rights, the Central Electricity Regulatory Commission said
 
-## New jobs map
-Report finds tier-2 and tier-3 centres see more job postings growth than tier-1 centres
+## India's TANE sector could double GDP share, needs urgent policy support: NITI Aayog
+The TANE ecosystem forms the backbone of modern global connectivity; however, the sector stands at a critical juncture with sharp trade imbalances underscoring an urgent need for targeted intervention
+
+## India’s telecom equipment sector has $50 billion export potential, Niti Aayog highlights key hurdles
+India's telecom sector can significantly boost GDP and exports by 2030. However, heavy import reliance and low domestic value addition pose challenges. Critical components are largely sourced from China, creating supply chain vulnerabilities. Government policies aim to support local manufacturing an
+
+## Top stocks to buy: Stock recommendations for August 17, 2026 week - check list
+Stock market recommendations: Poonawalla Fincorp, and Lenskart - these are the top two stocks to buy recommended by Motilal Oswal Wealth Management Research Desk for the week starting August 17, 2026:
+
+## Bank holidays this week: When and where will banks stay closed?
+Throughout August, banks will have multiple closures due to various regional and national holidays. Customers are encouraged to verify the specific holiday hours pertinent to their state before heading to a branch. Key closures include August 25 and 26 for Milad-Un-Nabi and Thiruvonam, with an addit
 
 ## Bullion watch: Where are gold and silver prices headed?
 
@@ -72,14 +81,17 @@ Tells Professionals To Inform NCLT In Case of Wrongdoings
 ## Amber to make smartphones for Oppo
 
 
-## JP Morgan targets bigger M&A role
+## Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected
+Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected
 
+## Jharkhand protest LIVE: Students urge Rahul to ‘withdraw govt’s support', plan to gherao CM Soren’s residence
+Jharkhand protest LIVE: Protesters appealed that if Congress leader Rahul Gandhi is unhappy with the lathi charge on students, he should visit the protest site and withdraw support from the government, similar to his expression of unhappiness over the incident at Jantar Mantar.
 
-## Before Chandrasekaran's exit, he and Noel Tata separately briefed govt on rift, concerns
+## ‘Police themselves not safe’: IPS officer’s mother found dead in UP, jewellery missing
+Samajwadi Party chief Akhilesh Yadav criticised the Uttar Pradesh government for the incident and said, “police themselves are not safe.”
 
-
-## FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August
-In August, foreign investors turned the tide by purchasing Indian equities, building on the positive momentum from July's inflows. This shift follows a period of substantial selling earlier in the year. With attractive valuations and promising corporate earnings, renewed interest from foreign invest
+## ‘Have audios’: Annamalai’s big charge against CM Vijay’s govt, claims ministers demand 2-4% kickbacks
+Annamalai said Vijay has a strong anti-corruption position, but alleged that some members of his Cabinet had now begun seeking a percentage from contracts.
 
 ## BRS announces protest in Telangana over government's alleged decision to cancel two key schemes
 The BRS asserted that the Kalyana Lakshmi and Shaadi Mubarak schemes have provided financial support and dignity to lakhs of poor families.
@@ -91,19 +103,10 @@ The injured were rushed to Rampurhat Government Medical College and Hospital for
 The IMD has forecast heavy rainfall across Odisha from August 16 to 18, with rain expected to intensify on Monday before easing on Tuesday
 
 ## Crowd swell, broken barricades, live wire rumour: What led to Bihar temple stampede
-Witnesses however countered this narrative and said there was a stampede due to the lack of crowd management.
+Witnesses however countered this narrative and said the stampede occurred due to poor crowd management.
 
-## BJP starts youth outreach to change narrative against government after CJP-led student protest
-The party’s initial response and failure to gauge the sentiments of the protesters led by the CJP has been flagged as a mis-step by a section of leaders.
-
-## 'Neglect, insecurity, or indignity': SC rules senior citizen tribunals can order eviction to protect elderly parents
-SC rules senior citizen tribunals can order eviction from property when necessary to protect elderly parents’ maintenance, dignity and security.
-
-## BJP leader PC George makes U-turn on allegations of misappropriation of election funds
-Thiruvananthapuram: BJP leader and former Poonjar MLA PC George Sunday made a U-turn on allegations of misappropriation of election funds in his constituency within the party that he had made publicly at a party meeting in July
-
-## Kerala’s baby cradle scheme hits milestone: 1,000th infant rescued
-It was on the eve of Christmas in 2002
+## China embraces ‘Grandpa Cute’; policewoman probed over uniform dance: 5 weekend reads you missed
+We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. Why Chinese youth are turning to an 84-year-old Cambridge professor for support 2. Chinese official
 
 ## Foreign capital is dipping its toes into China’s property sector. Is a rebound in store?
 From shopping malls to warehousing and logistics companies, a wave of deals by foreign funds in China is injecting liquidity into a property sector scarred by years of struggle. Several Wanda Plazas – the sprawling mixed-use developments that were once the flagship assets of tycoon Wang Jianlin’s Da
@@ -126,8 +129,11 @@ US entrepreneur Elon Musk has long been highly respected in China. His business 
 ## Jim Rogers talks up the Chinese yuan amid fears of a US market crisis
 Legendary American investor Jim Rogers has long advocated cash holdings given the potential for a market crisis due to US national debt. But the currency he would hold might be the Chinese yuan rather than the US dollar, if the former were fully convertible, the veteran investor said in an interview
 
-## I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled
-Tencent Holdings’ WeChat is already the undisputed super-app for over a billion people in China, handling everything from splitting dinner bills to hailing taxis. Now, Tencent is embedding an artificial intelligence agent named Xiaowei into the platform, adding a hands-free, automated assistant to i
+## How Ronald Reagan Used Diplomacy to End the Cold War
+A new movie shows how the president conferred with State Department experts before each meeting.
+
+## Why Australia’s Getting Tough on China Again
+Unlike other U.S. allies, Canberra is betting its entire strategic house on Pax Americana.
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
@@ -146,12 +152,6 @@ Just war theory was developed over centuries—and now must adapt to a new era o
 
 ## What the Cockroach Movement Says About the Indian Economy
 Young college graduates are struggling to find jobs.
-
-## How Ronald Reagan Sold Calm to Americans
-Emotional reassurance came to be mistaken for competent governance.
-
-## Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era
-Under President Xi Jinping, politics and security, not real change, come first.
 
 ## How China Is Normalizing Its Presence in the Waters East of Taiwan
 Accidents, the ‘normalization’ of law enforcement and integration into a sphere of influence
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Thieves steal Renaissance artworks in museum heist during Italian holiday
+As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.
+
+## Palestinian-American travels to West Bank home encircled by Israeli settler
+Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.
+
 ## Rare Pallas’s cat captured on camera in northern Iran mountains
 Footage shows a rare sighting of one of Iran’s most elusive wild felines.
 
@@ -243,14 +249,14 @@ The African Union is seeking progress in Sudan, but must overcome deep battlefie
 ## Trump says US to ‘substantially reduce’ military drills with South Korea
 US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.
 
-## Israel releases 35 Palestinian prisoners back into Gaza
-Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.
-
-## Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner
-Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.
-
 ## India opens tax amnesty scheme for small taxpayers to declare select foreign assets
 India's tax amnesty scheme for small taxpayers opened Sunday and runs until December 2026. This one-time measure aims to bring undeclared foreign assets and income into the tax net. Taxpayers with undisclosed foreign income up to one crore rupees can declare it.
+
+## Networking with India's Top CFOs: What to Expect at ETCFO Annual Conclave 2026
+The ETCFO Annual Conclave 2026 brings together India Inc's finest CFOs for two days of closed-door conversations, keynotes and peer networking in Goa this November.
+
+## FSSAI says 6 food companies including Livyor, Rajasthan Agro corrected misleading labels, trademarks after notices
+Six food companies have corrected misleading labels and trademarks after FSSAI notices. Livyor Ventures Pvt Ltd withdrew its 'vegan and healthy' claims on edamame beans. Honest Innovations For You Pvt Ltd and Heliostone Specialities Pvt Ltd revised their trademarks. Rajasthan Agro and General Indust
 
 ## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
 Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
@@ -266,12 +272,6 @@ Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly 
 
 ## N Chandrasekaran’s five big moves: The bets and battles that defined his Tata Sons tenure
 From rebuilding Tata’s aviation franchise to placing a massive bet on semiconductors and accelerating the group’s energy transition, N Chandrasekaran’s decade at the helm has been defined by long term bets aimed at reshaping the conglomerate for India’s next phase of growth.
-
-## Chandrasekaran exit marks end of transformative Tata era, CFOs flag succession challenge
-Finance leaders credit Tata Sons chairman with execution discipline, capital allocation rigour and group consolidation, while succession emerges as a key challenge.
-
-## Tata Sons Chairman N Chandrasekaran to step down in February 2027
-N Chandrasekaran, who has completed 40 years with the Tata Group and has led Tata Sons for nearly a decade, said he will not offer himself for reappointment when his current term ends on February 20, 2027. The decision comes after the Tata Sons Board did not reach a resolution on his proposed five y
 
 ## PM GatiShakti: 396 infra projects worth Rs 18.66 lakh crore recommended for approval
 Nearly four hundred infrastructure projects have received approval under the PM GatiShakti initiative. These projects, valued at over eighteen lakh crore rupees, span various ministries. The Network Planning Group has evaluated these significant infrastructure developments for implementation. This i
