@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Japanese second-quarter growth weaker than expected
+Households and businesses pulled back in the worst months of the Iran energy shock
+
 ## People are worried about America’s solvency
 But not worried enough to actually do anything about it
 
@@ -21,9 +24,6 @@ US president claims joint exercises send a ‘hostile’ message to North Korea
 ## FirstFT: Dimon warns UK against higher bank taxes
 Also in today’s newsletter: private credit doldrums and AI super-rich
 
-## Japan’s 10-year bond yield hits three-decade high
-Interest rate nears 3% as weak yen fuels inflation concerns
-
 ## A leaderboard of the biggest trading losses of all time
 Well, some of them, anyway
 
@@ -42,29 +42,35 @@ Prime minister expected to approve development of controversial Rosebank and Jac
 ## The economics of Europe’s drought
 Rivers are at all-time lows and water is scarce. Transport, energy and big tech are affected
 
+## Rupee seen weakening to 97 per dollar by FY2026-27-end: BMI
+BMI expects the rupee to weaken to ₹97 per US dollar by the end of FY2026-27, which runs from April 2026 to March 2027, and to ₹99 per dollar by the end of FY2027-28, from ₹95.4 currently
+
+## Rupee hits two-week low amid rising oil prices and forex swap changes
+The rupee fell 0.2% to 95.6025 per dollar but avoided larger losses due to likely intervention by the Reserve Bank of India, traders said
+
+## Sensex today | Stock Market LIVE: Sensex down 280 pts as markets close, Nifty down 80 pts to 24,287.65; Infosys, HCL Tech are top losers
+Sensex, Nifty, Share Prices Live updates: At around 3 pm, Sensex declined 120 pts or 0.16% to 77,881.93; and Nifty 50 was down 22.30 pts or 0.12% to 24,343.70
+
+## Tata Power, IIT Bombay partner to develop next-generation clean energy technologies
+The partnership brings academic research and industry expertise together as India seeks faster deployment of advanced technologies across its evolving energy sector.
+
+## Greaves Cotton acquires 100% stake in Excel Controlinkage
+The acquisition completes the multi-tranche process that began in April 2023 when Greaves Cotton agreed to acquire Excel Controlinkage
+
+## NCLT chides SpiceJet as last-minute lessor settlement forces judgement delay
+The cases have put SpiceJet's finances under renewed scrutiny, ​with admission of even ‌one bankruptcy petition potentially triggering a court-supervised resolution process
+
 ## Cognizant launches talent accelerator programme for 489 newly hired B-school graduates
-The two-week onboarding will be held simultaneously across Cognizant’s facilities in Chennai, Bengaluru, Hyderabad and Pune, designed to help new hires learn about the company and its values
+The two-week onboarding will be held simultaneously across Cognizant’s facilities in Chennai, Bengaluru, Hyderabad and Pune
 
-## TN Chief Minister announces full waiver of cooperative bank loans up to ₹75,000
-The additional crop loan waiver will impose a financial burden of ₹953 crore on the State government
+## China Conducts a Comprehensive "Wind-Induced Vibration Check-Up" for a Super Bridge in Georgia, withstanding Gale-Force Winds of Level 9 and Temperatures as Low as -20°C
+China Conducts a Comprehensive "Wind-Induced Vibration Check-Up" for a Super Bridge in Georgia, withstanding Gale-Force Winds of Level 9 and Temperatures as Low as -20°C
 
-## Sensex today | Stock Market LIVE: Sensex down 200 points, Nifty under 24,350; Infosys leads losers
-Sensex, Nifty, Share Prices Live updates: Markets off the day’s low. Sensex traded 203.78 pts or 0.26% lower at 77,805.47 at 2.15 pm and Nifty 50 dipped 34.35 pts or 0.14% to 24,331.65
+## Sensex falls 281 points to settle at 77,728; Nifty drops 78 points to 24,288
 
-## Govt directs refiners to produce up to 63,810 Tons/Day LPG till December 2026
-The government has fixed a bi-annual maximum LPG production limit for refiners, which comes close on the heels of the disruption in supplies to India after closure of the Strait of Hormuz
 
-## From Chennai to the world
-Schwing Stetter builds on India’s infrastructure boom to target global markets
-
-## Voltas shares fall over 6% from intraday high as brokerages differ after Q1 results
-The stock traded 4% lower at ₹1,270.40 on the NSE at 12.42 pm, after moving between ₹1,263.90 and ₹1,350
-
-## Indian Bank celebrates 120th Foundation Day with a series of community initiatives
-Commits itself to strengthening financial inclusion, empowering communities and contributing to India’s journey towards a stronger, more inclusive future
-
-## Natural gas: Weak outlook
-Traders can sell on a rise
+## Wary of risks, Asian refiners want Saudi Aramco’s shipments to be picked outside Red Sea
+Yanbu has become increasingly important to Saudi Arabia as it seeks to maintain crude shipments after the war disrupted traffic through the Strait of Hormuz and severely restricted supplies from the Persian Gulf.
 
 ## Trump admin crackdown: Indian techies see biggest hit as US green card approvals plunge sharply
 The approval rate for EB-1A, the US green card category meant for individuals with extraordinary ability, has dropped sharply in FY26, with Indian applicants bearing a significant share of the impact, according to several immigration experts.
@@ -84,35 +90,32 @@ India's telecom sector can significantly boost GDP and exports by 2030. However,
 ## Top stocks to buy: Stock recommendations for August 17, 2026 week - check list
 Stock market recommendations: Poonawalla Fincorp, and Lenskart - these are the top two stocks to buy recommended by Motilal Oswal Wealth Management Research Desk for the week starting August 17, 2026:
 
-## Bank holidays this week: When and where will banks stay closed?
-Throughout August, banks will have multiple closures due to various regional and national holidays. Customers are encouraged to verify the specific holiday hours pertinent to their state before heading to a branch. Key closures include August 25 and 26 for Milad-Un-Nabi and Thiruvonam, with an addit
+## India-Thailand joint military exercise 'Maitree' to be held from August 18-31
+India-Thailand joint military exercise 'Maitree' to be held from August 18-31
 
-## Bullion watch: Where are gold and silver prices headed?
+## Brittas writes to SBI chairman, questions 'near zero vacancies' for Kerala in clerical recruitment
+Brittas writes to SBI chairman, questions 'near zero vacancies' for Kerala in clerical recruitment
 
+## Delhi court says lack of CCTV, medical evidence no ground to discharge man in cruelty case
+Delhi court says lack of CCTV, medical evidence no ground to discharge man in cruelty case
 
-## Ram Temple donations row: SC asks SIT to conclude probe expeditiously, file status report
-Ram Temple donations row: SC asks SIT to conclude probe expeditiously, file status report
+## 'Conduct audit of all exam processes, take corrective steps': Centre to NTA after 2 major exams disrupted
+The development came a day after the agency cancelled the UGC-NET exams for three subjects.
 
-## Twisha Sharma case: CBI files charges of dowry death, cruelty, abetment to suicide against Giribala Singh and son
-Twisha was found hanging at her marital home on May 12. While her family alleged dowry-related torture, her in-laws tried to frame it as a suicide.
+## BJP chief Nitin Nabin announces party reshuffle; Smriti Irani, Ram Madhav among list
+The new team, which has 12 women, adheres to the party’s social engineering model, which gives representation to various castes and tribes.
 
-## Govt to set up high-level banking committee soon: FM Nirmala Sitharaman
-Union finance minister Nirmala Sitharaman had announced a high-level committee on banking for Viksit Bharat in the Budget for 2026-27 (FY27)
+## ISI-backed Shahzad Bhatti group destroyed before Independence Day, terror plot foiled: Centre
+Union home minister Amit Shah said more than 200 operatives of the network had been arrested through coordinated operations across 14 states.
 
-## 3 arrested for abducting, gangraping minor girl in Assam: Police
-The matter came to light two days ago after one of the accused shared the video on social media, and the victim’s mother lodged a complaint at Runikhata Police Station on August 15
+## TN CM 100 days in office: Making transformative milestones, says govt
+TN CM 100 days in office: Making transformative milestones, says govt
 
-## CID raids Jharkhand Staff Selection Commission office over exam irregularities amid protest
-Job aspirants have been protesting for 24 days now against alleged irregularities in various recruitment examinations in Jharkhand.
+## Inside CM Vijay’s 100 days in office: Cauvery, Trisha controversies to free power and loan relief
+The Vijay government has faced questions over the implementation of TVK's election promises, its handling of the Cauvery water dispute and the state's finances.
 
-## New website lets Indians anonymously report how much bribe they paid
-According to the website, it is India’s first crowdsourced bribe registry that is completely anonymous and permanently public.
-
-## TN Assembly witnesses ruckus over drugs, DMK walks out
-TN Assembly witnesses ruckus over drugs, DMK walks out
-
-## PIL on lack of toilets for girls in govt schools to be heard by another bench: SC
-PIL on lack of toilets for girls in govt schools to be heard by another bench: SC
+## China’s pharma contractors rally as US supply chain pressures face industry resistance
+China’s pharmaceutical contractors are showing financial resilience in the face of Washington’s push to curb reliance on Chinese supply chains. Analysts said investors were bullish because the US government’s recent measures to curb Beijing’s rise as a global pharmaceutical supplier had met resistan
 
 ## China’s first‑tier new home prices flat in July, ending 4‑month rebound
 New home prices in China’s four first-tier cities were flat on average in July from June, bringing an end to a four-month rebound, as analysts said month-on-month readings had weakened amid seasonal headwinds and an unusually rainy summer, further highlighting the urgency of stabilising the nation’s
@@ -134,9 +137,6 @@ China’s biggest hedge funds cut holdings of US hyperscalers and Nvidia and mig
 
 ## China embraces ‘Grandpa Cute’; policewoman probed over uniform dance: 5 weekend reads you missed
 We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. Why Chinese youth are turning to an 84-year-old Cambridge professor for support 2. Chinese official
-
-## Foreign capital is dipping its toes into China’s property sector. Is a rebound in store?
-From shopping malls to warehousing and logistics companies, a wave of deals by foreign funds in China is injecting liquidity into a property sector scarred by years of struggle. Several Wanda Plazas – the sprawling mixed-use developments that were once the flagship assets of tycoon Wang Jianlin’s Da
 
 ## The Top 10 Ways Trump Has Made America Weaker
 He’s been one of the most consequential presidents in U.S. history—in all the wrong ways.
@@ -162,6 +162,15 @@ Seventy years after “The Quiet American,” has the country outlived Graham Gr
 ## AI Is Changing Military Morality
 Just war theory was developed over centuries—and now must adapt to a new era of technology.
 
+## The Thai Government’s Myanmar Gambit Could Backfire on ASEAN
+Bangkok's recent campaign of diplomatic outreach undermines the bloc's collective approach to the country's crisis.
+
+## Bou Meng, Survivor of Khmer Rouge Security Prison, Dies Aged 85
+The painter was one of 14,000-plus men, women, and children who were sent to S-21 between 1975 and 1979 – and one of just a handful to survive.
+
+## Joint Resource Exploration With China a ‘Possibility’ Before 2028, Philippine President Says
+Ferdinand Marcos Jr. said that Manila and Beijing have made progress in energy talks, despite the ongoing tensions in the South China Sea.
+
 ## How China Is Normalizing Its Presence in the Waters East of Taiwan
 Accidents, the ‘normalization’ of law enforcement and integration into a sphere of influence
 
@@ -176,15 +185,6 @@ The exercise highlighted increasing tensions in the waters east of Taiwan, which
 
 ## Why India Needs a Comprehensive Polar Strategy
 The Arctic and Antarctic are reshaping both the global climate and the geopolitical chessboard. Yet India remains absent from the tables where polar futures are decided.
-
-## In Interview, Japarov Says He’d Planned for Tashiev to Be Kyrgyz President Next
-Japarov claimed he changed his mind once he realized Tashiev is “not ready.”
-
-## China Forced Nepal to Cancel an International Conference on Tibetan Studies
-The incident reveals Beijing’s growing efforts to assert authority over Tibetan Buddhism – including in other countries.
-
-## In Afghanistan, Growing Resistance Meets Fears of Pakistani Influence
-Five years after the Taliban’s return, the Afghan resistance is growing but so is the fear of Pakistan’s shadow.
 
 ## Blanchard’s Lathe and the Long Arc of American Manufacturing
 Emerging from the chaos of supplying the U.S. Army during the War of 1812, the War Department sought to foster domestic production of standardized muskets. Out of this industrial project arose an invention that laid the foundation for automation and mass production. Thomas Blanchard’s copying lathe 
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Thousands await aid after deadly Indonesia quake as rescue work conducted
+Thousands remain displaced after magnitude 7.7 quake struck East Nusa Tenggara province on Saturday.
+
+## Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle
+Britain's new premier has promised to ease the suffering of millions of families unable to afford basic items.
+
 ## Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
 Modi's BJP once controlled media narratives in India, but this might be changing with the 'Cockroach' movement.
 
@@ -251,12 +257,6 @@ Outrage as Colombian president hands out footballs in earthquake-hit city where 
 
 ## Kushner to meet Netanyahu to push Trump Gaza plan
 The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.
-
-## At least six people killed in Ukrainian missile attack on Russia’s Belgorod
-Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.
-
-## Rodri headed to Barcelona after Man City accepts transfer bid
-Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
