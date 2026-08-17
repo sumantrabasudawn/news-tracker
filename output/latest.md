@@ -1,13 +1,13 @@
 # AION Intelligence
 
 ## Nvidia pledges $100bn backing for OpenAI data centre in Ohio
-Chipmaker also invests $1.5bn into SB Energy, an energy company founded as part of SoftBank Group
+Chipmaker also invests $1.5bn into energy company founded as part of SoftBank Group
 
 ## Kushner holds talks with Netanyahu after meeting Hamas leader
 Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
 
 ## US pauses construction of border wall through national park in Texas
-Bulldozers had been dispatched to remote national park as part of Trump’s immigration crackdown
+Bulldozers had been dispatched to remote beauty spot as part of Trump’s immigration crackdown
 
 ## FirstFT: Trump’s eleventh-hour demand to reduce drills rattles Seoul
 Also in today’s newsletter: China’s investment slump deepens and Kushner holds talks with Netanyahu
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says
+Trump's son-in-law and envoy says US will not 'restrict Israel's right to defend itself' as strikes on Gaza continue.
+
 ## As rubble clears, Colombia begins focusing on recovery after the earthquake
 A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.
 
@@ -254,9 +257,6 @@ E Jean Carroll secures another legal victory as US Supreme Court refuses Donald 
 
 ## Torrential rains flood homes and roads across Lima, Peru
 Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.
-
-## Trump’s approval rating sinks to new low at 33 percent
-New poll found a majority of US citizens concerned about the US war on Iran.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
