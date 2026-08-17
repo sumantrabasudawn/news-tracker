@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Kushner holds talks with Netanyahu after meeting Hamas leader
+Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
+
+## US pauses construction of border wall through national park in Texas
+Bulldozers had been dispatched to remote national park as part of Trump’s immigration crackdown
+
 ## FirstFT: Trump’s eleventh-hour demand to reduce drills rattles Seoul
 Also in today’s newsletter: China’s investment slump deepens and Kushner holds talks with Netanyahu
 
@@ -18,17 +24,14 @@ Government measures do little to support bars’ underlying business case
 ## Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake
 Negotiations come amid clashes over strategy and as Walter’s business empire faces scrutiny from regulators
 
-## Crime and punishment in the Middle East
-Lebanon and Syria are trying to improve the application of justice but challenges remain
-
-## Russia fires economist over Ukraine war warning
-Andrei Klepach dismissed after bleak remarks about economic toll of conflict
-
 ## Ferrari’s first EV auctioned off at record $40mn
 The Luce’s auction price sets a record for a new car
 
 ## ExxonMobil advances Mozambique gas project despite terrorist threat
 Rovuma LNG plant expected to cost $30bn
+
+## Russia fires economist over Ukraine war warning
+Andrei Klepach dismissed after bleak remarks about economic toll of conflict
 
 ## Monzo chair Gary Hoffman to step down months after shareholder revolt
 Digital bank removed TS Anil as chief last year before reinstating him to board after investor rebellion
@@ -231,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
+Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.
+
 ## Palestinian American reunites with family under siege in West Bank
 Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.
 
@@ -251,9 +257,6 @@ New poll found a majority of US citizens concerned about the US war on Iran.
 
 ## Why did Trump scale back war games with South Korea?
 US president cites good relationship with North Korean leader Kim Jong Un
-
-## Gaza flotilla sets sail from the UK in bid to break Israeli siege
-A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
