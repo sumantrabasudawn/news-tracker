@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Kushner holds talks with Netanyahu after meeting Hamas leader
+Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
+
+## US tech stock correction likely, warn ECB economists
+Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post
+
+## The realignment of the Middle East
+Iran conflict is reshaping alliances in a way neither America nor Israel foresaw
+
 ## Reform’s deputy leader tells Britons to ‘enjoy’ heat amid record drought
 Richard Tice’s call for people to ‘celebrate’ hotter weather comes as farmers warn of one of the worst harvests on record
 
@@ -15,14 +24,8 @@ The races, the money and the issues that will determine the final half of Trump�
 ## Trump’s war on customs fraud will be costly and difficult
 The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about
 
-## Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations
-US president’s remarks follow talks between Gulf state and Tehran over provisional arrangement to manage Strait of Hormuz
-
-## Reform UK vows to block foreign nationals from claiming benefits if it wins power
-Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
-
-## FirstFT: Jared Kushner and Benjamin Netanyahu meet in push for Gaza peace
-Also in today’s newsletter: private credit doldrums and the AI super-rich
+## Ebola outbreak becomes DR Congo’s deadliest
+World Health Organization warns country has entered ‘intense transmission’ phase of the virus
 
 ## Ferrari’s first EV auctioned off at record $40mn
 The Luce’s auction price sets a record for a new car
@@ -30,35 +33,32 @@ The Luce’s auction price sets a record for a new car
 ## Barclays shakes up investment bank less than 3 years since last overhaul
 Mike Joo hired from Bank of America to lead investment banking
 
-## How online fandom shaped our world
-What looks like random algorithmic attention can actually be the work of obsessive digital devotees
+## Reform UK vows to block foreign nationals from claiming benefits if it wins power
+Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
 
-## Virgin wins approval for cross-Channel trains despite Eurostar complaints
-Regulatory clearance brings competition on rail services to the continent a step closer
+## NTA to hire 10 top-level professionals after UGC-NET paper errors
+Domain specialists are being brought in from the private sector as part of overhaul
+
+## Mavrix Makes the Case for Trusted Human Evidence in the AI Era at Quirk's New York
+Mavrix Makes the Case for Trusted Human Evidence in the AI Era at Quirk's New York
+
+## Azure Power Global Limited to hold 2026 Annual Meeting on September 30, 2026
+Azure Power Global Limited to hold 2026 Annual Meeting on September 30, 2026
+
+## Grid planning should focus on rolling transmission plans linked to RE additions: IWTMA
+The IWTMA report highlighted that timely grid connectivity is essential to ensure that completed wind projects can be commissioned without delay
+
+## Mopshop Distribution IPO opens August 19, price fixed at Rs 138 per share
+The facility management supplies company plans to deploy most of its fresh capital toward deleveraging while expanding logistics and sustainable infrastructure.
+
+## Eden Realty plans to invest ₹300 crore in a five-star hotel and villa-style resort along the Hooghly River
+The villa-style resort will be adjacent to the AJC Bose Indian Botanic Garden, Howrah
+
+## ED asks homebuyers to report builders who withhold RERA details or demand cash
+The advisory follows an asset attachment in an alleged property fraud case involving an Ahmedabad-based real estate company and its promoters.
 
 ## Elgi’s new 3-lakh-sq-ft automated global fulfilment centre to go live in September
 Company says it offset Q1 commodity cost inflation by higher volumes and is working on various levers of cost management
-
-## India’s pulses imports down a tad during in H1 this year
-Chana and urad imports decline, while tur and masoor shipments witness a rise
-
-## TN Industries Minister Keerthana seeks greater central support for industrial development
-The meeting reviewed the progress of industrial corridor projects and discussed measures to accelerate industrial infrastructure, connectivity and investment across States, said sources in the State industries department.
-
-## Gujarat releases 20 blackbucks into Kutch’s Banni Grassland
-The initiative aims to rebuild the grassland’s native herbivore community and strengthen ecological processes while supporting long-term biodiversity conservation efforts
-
-## Rupee declines to a 2-week low on early closure of swap facility to attract FCNR-B deposits
-Traders indicated that RBI was present in the market, stabilising the Rrupee through Ddollar sales
-
-## India’s kharif crop area 21 lakh hectares less than a year ago as pace of sowing slows
-Acreage of all crops reaches 92% of normal even as deficit shrinks to less than 1%; paddy coverage trails 3%
-
-## Voltas to set up a joint venture with Atomberg to manufacture AC compressors
-Mukundan Menon, MD, Voltas, said that under this joint venture, there are plans to set up a plant in Chennai to manufacture compressors
-
-## India seeks WTO consultations with US over 4-year quartz surface tariff quota
-Says it has substantial interest in the matter; India is among the largest exporters of quartz surface products to the US
 
 ## US stock market today: Wall Street near record highs; all eyes on corporate earnings, oil prices
 The rally that has carried Wall Street to record levels has been fuelled largely by strong corporate profits. Companies in the S&P 500 are expected to post roughly 50% growth in earnings per share for the spring quarter compared with the same period a year earlier, according to FactSet.
@@ -84,6 +84,15 @@ The approval rate for EB-1A, the US green card category meant for individuals wi
 ## Gold price prediction today: Will gold prices continue to rally? Check outlook for August 17, 2026 week
 Gold has turned decisively positive in the short term, rising to around Rs 155,145 and moving above its recent consolidation range. The price is now approaching the upper end of the recent range, making Rs 157,500–158,000 the key resistance zone for the week.
 
+## ‘Nobody will be spared’: Tukaram Mundhe after Maharashtra FDA notices to SRK, Ajay Devgn over Vimal ad
+“Everybody across the chain is responsible. It applies to all,” Maharashtra FDA commissioner Tukaram Mundhe said.
+
+## 2 students injured during anti-census protest in Manipur: Police
+The Campaign for Just and Fair Delimitation (JFD), a local organisation, announced a 48-hour total shutdown across the state to fulfil their demand
+
+## ‘Hanuman paisa’ dispute leads to kidnapping of Odisha businessman; journalist, woman cop held
+The case centres on a ‘Hanuman paisa’ racket in western Odisha, where fraudsters exploit beliefs about mythical coins said to bring wealth.
+
 ## Bar council cannot run law college it regulates, Prashant Bhushan tells Supreme Court
 The lawyer did not provide details but appeared to refer to the BCI’s plan of setting up an academy for lawyers in Goa.
 
@@ -98,15 +107,6 @@ Pralhad Joshi addressed the National Council for Teacher Education’s (NCTE) 32
 
 ## Delhi airport to consult stakeholders on its Master Plan 2036 prior to AAI submission
 The airport will be proposing to add 10 million capacity by 2030, people aware of the development said
-
-## Who is Deepak Mhaskey, replacing Amit Malviya as BJP's new IT cell head?
-The role of social media head was earlier held by Amit Malviya, who seems to be missing from the new Nitin Nabin BJP team.
-
-## Decoding PM Modi's Red Fort speech: Why this one was different
-From ‘Sapt Sindhu’, foreign policy to ‘dimagi naxals’, HT decodes Prime Minister Narendra Modi's Independence Day speech from the ramparts of Red Fort.
-
-## CJP's Abhijeet Dipke says ‘ready to show my degree’ amid row over his Boston education. But he has a condition
-Abhijeet Dipke’s clarification comes after reports surfaced doubting his degree from Boston University.
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
@@ -228,11 +228,17 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Police execute controlled World War II–era Mine explosion
+Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.
+
+## Trump demands Iran ‘put up the white flag of surrender’ as MoU expires
+President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November's US midterms.
+
 ## Iran signals readiness for ‘US ground operations’ as MoU expires
 Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.
 
 ## Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza
-Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.
+Twelve people including the captain are on board 'Kate', the latest vessel attempting to deliver aid.
 
 ## Lula and Bolsonaro’s son launch rival bids for Brazil presidency
 Brazil’s presidential race is officially underway.
@@ -245,12 +251,6 @@ As Trump pushes allies to do more for their own defence, three US partners have 
 
 ## French Serie A footballer Yael Trepy in intensive care after near-drowning
 Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.
-
-## Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap
-Jared Kushner to meet Netanyahu next, after Israel rejected Trump's 15-point Gaza roadmap.
-
-## Cameroon celebrates after winning first ever WAFCON title
-Cameroon wins its first WAFCON title, beating Malawi 3–0 in the final.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
