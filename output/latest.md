@@ -87,6 +87,9 @@ Fuel shortages have surged in multiple regions across Russia as recent drone att
 ## Skymet raises drought risk, cuts monsoon forecast to 85% of LPA
 Skymet forecasts monsoon rainfall at 85% of average, predicts a 70% chance of drought, citing strong El Niño's impact on Indian agriculture.
 
+## Black money in polls: Supreme Court orders 1-year probe deadline, special courts
+The court issued the directions while deciding an appeal arising from a 2015 Karnataka high court order that quashed an FIR against Prathik Parasrampuria
+
 ## SKM to submit memorandum to MPs, seek push for change in Centre's 'corporate-centric' policy
 SKM to submit memorandum to MPs, seek push for change in Centre's 'corporate-centric' policy
 
@@ -104,9 +107,6 @@ CJP founder Abhijeet Dipke congratulated the protesting students after the Jhark
 
 ## 'Became jobless instantly': JSSC-CGL aspirants who cleared exam slams Jharkhand decision
 “We joined through a fair process, so why is such a step being taken?" a protester said.
-
-## Jharkhand protest LIVE: Student leader Devendra Mahto breaks fast after demands accepted
-Jharkhand protest LIVE: While the students protesting against irregularities celebrated the decision, aspirants who cleared the exam said it had the “seal of approval” of the Supreme Court.
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
@@ -132,6 +132,9 @@ China’s autonomous-driving ambitions are winning growing recognition in Europe
 ## Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong
 Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion. The company, which has been listed on Shenzhen’s Na
 
+## Is Trump Choosing North Korea Over South Korea?
+The United States scales back joint military drills with Seoul to appease Pyongyang.
+
 ## Canada Is Exploiting Migrant Agricultural Workers
 Caribbean laborers report rat-infested rooms and abusive bosses.
 
@@ -152,9 +155,6 @@ Unlike other U.S. allies, Canberra is betting its entire strategic house on Pax 
 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
-
-## What in the World?
-Test yourself on the week of Aug. 8: A major earthquake hits Colombia, Lebanon achieves a regional first, and parts of Europe enjoy a solar eclipse.
 
 ## Kazakhstan’s Kurultai Election Looms: Is This Old Wine in a New Bottle?
 The shape of the Kazakh legislature may have changed, but the politics of Kazakhstan have not necessarily been transformed.
@@ -228,16 +228,22 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Torrential rains flood homes and roads across Lima, Peru
+Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.
+
+## Trump’s approval rating sinks to new low
+New poll found a majority of US citizens concerned about the US war on Iran.
+
 ## Why did Trump scale back war games with South Korea?
 US president cites good relationship with North Korean leader Kim Jong Un
 
 ## Gaza flotilla sets sail from the UK in bid to break Israeli siege
 A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.
 
-## Photos: Search for Indonesia earthquake victims continues
+## Photos: Indonesia earthquake rescue efforts continue as death toll hits 68
 At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.
 
-## Death toll from capsized ferry in Zimbabwe rises to 92
+## At least 92 dead in Zimbabwe after Lake Kariba ferry disaster
 Search efforts to recover the remaining victims are still underway.
 
 ## Russian politician sentenced to 11 years for opposing war in Ukraine
@@ -245,12 +251,6 @@ Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years a
 
 ## Russia maintains election ban on opposition Yabloko, jails deputy head
 Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.
-
-## CAIR slams Abbott’s ‘anti-Muslim stunt’ on Texas airport washing stations
-Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
-
-## Clashes between government and opposition fighters in Somalia’s Baidoa
-Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
