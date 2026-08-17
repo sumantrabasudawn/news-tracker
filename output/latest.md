@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## FirstFT: Trump’s eleventh-hour demand to reduce drills rattles Seoul
+Also in today’s newsletter: China’s investment slump deepens and Kushner holds talks with Netanyahu
+
+## Mark Carney in last-ditch effort to avoid Trump’s latest tariffs
+Canadian prime minister plans call with US president before a Wednesday deadline for levies on $20bn of trade
+
 ## Seoul rattled by threat to drills at heart of US-Korean alliance
 Donald Trump’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
 
@@ -18,12 +24,6 @@ Lebanon and Syria are trying to improve the application of justice but challenge
 ## Russia fires economist over Ukraine war warning
 Andrei Klepach dismissed after bleak remarks about economic toll of conflict
 
-## Ebola outbreak becomes DR Congo’s deadliest
-World Health Organization warns country has entered ‘intense transmission’ phase of the virus
-
-## Kushner holds talks with Netanyahu after meeting Hamas leader
-Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
-
 ## Ferrari’s first EV auctioned off at record $40mn
 The Luce’s auction price sets a record for a new car
 
@@ -32,6 +32,9 @@ Rovuma LNG plant expected to cost $30bn
 
 ## Monzo chair Gary Hoffman to step down months after shareholder revolt
 Digital bank removed TS Anil as chief last year before reinstating him to board after investor rebellion
+
+## Ebola outbreak becomes DR Congo’s deadliest
+World Health Organization warns country has entered ‘intense transmission’ phase of the virus
 
 ## US tech stock correction likely, warn ECB economists
 Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post
@@ -228,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump says Iran will not make the deal he believes is necessary
+Trump says Iran will not make the deal he believes is necessary
+
+## Trump loses second Supreme Court bid over E Jean Carroll sex abuse case
+E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.
+
 ## Torrential rains flood homes and roads across Lima, Peru
 Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.
 
@@ -245,12 +254,6 @@ At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid
 
 ## At least 92 dead in Zimbabwe after Lake Kariba ferry disaster
 Search efforts to recover the remaining victims are still underway.
-
-## Russian politician sentenced to 11 years for opposing war in Ukraine
-Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.
-
-## Russia maintains election ban on opposition Yabloko, jails deputy head
-Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
