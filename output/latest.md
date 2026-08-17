@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Can Democrats seize Congress from Trump?
+The races, the money and the issues that will determine the final half of Trump’s second term
+
+## Trump’s war on customs fraud will be costly and difficult
+The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about
+
+## Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations
+Remarks come as Gulf state has been in talks with Tehran over provisional arrangement to manage Strait of Hormuz
+
 ## Reform UK vows to block foreign nationals from claiming benefits if it wins power
 Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
 
@@ -14,15 +23,6 @@ But not worried enough to actually do anything about it
 
 ## China investment slump deepens as economy shows signs of weakness
 Industrial output growth slows and retail sales nearly flat as policymakers face calls to step up support
-
-## What I read on my holidays
-Muddled thinking about vocational education and fixing the driving test backlog
-
-## Kushner to hold talks with Netanyahu after meeting Hamas leader
-Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
-
-## Burnham exchanged texts with person posing as Trump’s chief of staff
-UK prime minister was contacted by someone claiming to be Susie Wiles
 
 ## How online fandom shaped our world
 What looks like random algorithmic attention can actually be the work of obsessive digital devotees
@@ -39,29 +39,32 @@ Investors in gigawatt-scale campuses face billions in underinsured risks as insu
 ## A leaderboard of the biggest trading losses of all time
 Well, some of them, anyway
 
-## Saints & Masters launches ONAM Cloud to serve India’s startups and enterprises
-The new platform enters a rapidly expanding Indian cloud market, offering businesses greater control, connectivity and flexibility across diverse workloads
+## J&K looks to expand irrigation as Ravi basin projects gain momentum
+The department has proposed a ₹571.83-crore project to modernise the Main Ravi Canal and its distribution network and restore its designed discharge of 1,150 cusecs.
 
-## HELM, Parijat Industries announce collaboration across agrochemical value chain
-The partnership combines global agrochemical expertise with Indian manufacturing and distribution capabilities as digital tools reshape agriculture and farmer engagement.
+## USFDA closes inspection of Aurolife Pharma’s facility in the US
+The unit has now received the Establishment Inspection Report (EIR), classifying the facility as ‘Voluntary Action Indicated’ (VAI)
 
-## India’s 42.79% renewable power milestone and the grid challenge
+## FM asks public sector banks to leverage strong balance sheets for next phase of growth
+The government is seeking a stronger role for lenders in financing emerging opportunities as improved asset quality creates greater room for expansion.
 
+## one8 collection lands on Myntra for 18-hour flash sale on Kohli’s cricket anniversary
+This marks one8’s debut on a multi-brand e-commerce platform
 
-## MoD inks pact with General Atomics to lease 2 MQ-9B Sea Guardian unmanned aircraft
-The ministry said it signed a contract with the General Atomics Aeronautical Systems for the remotely-piloted aircraft for a period of 30 months
+## Will Mutual Fund SIP inflows stay strong despite market volatility? | On the beat podcast | Part 04
+Why experts believe India’s SIP boom is far from over.
 
-## South Indian Bank unveils ‘Onam Orumayude Olam’ campaign
-The campaign features festive offers on Home, Car, and Personal Loans, plus exclusive debit card deals with 40+ brands at over 250 outlets in Kerala
+## AI, data centres and jobs: Is India entering a new growth era? | On the beat podcast | Part 03
+India’s growth story intact? Experts decode jobs, demand and consumption.
 
-## Vasundhara Raje, Ram Madhav return to BJP national team; Smriti Irani gets key organisational role
-The organisational revamp combines continuity with the return of experienced leaders, as the ruling party recalibrates its national structure under new leadership.
+## FCNR deposits explained: Can they help stabilise the rupee? | On the beat podcast | Part 02
+Why global investors still can’t ignore India.
 
-## Mahindra readies next mass-market EV push with NU_IQ platform
-The automaker is preparing a broader electric lineup as rising consumer acceptance and growing competition reshape India’s rapidly expanding SUV market
+## Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast | Part 01
+How is India navigating crude oil volatility, a weakening rupee, and foreign capital outflows?
 
-## Sensex today | Stock Market Highlights: Sensex down 280 pts as markets close, Nifty down 80 pts to 24,287.65; Infosys, HCL Tech top losers
-Sensex, Nifty, Share Prices Highlights: Benchmark indices Sensex and Nifty ended lower on Monday amid rising crude oil prices and persistent geopolitical tensions in West Asia
+## ‘CAS here to stay’: Sebi chief Pandey says auction system won’t be rolled back, regulator open to feedbacks
+Sebi chairman Tuhin Kanta Pandey affirmed the continuation of the Closing Auction Session, emphasizing ongoing evaluations concerning market participants' worries and potential framework enhancements. He pointed out that as more participants engage with the new system, certain challenges may diminis
 
 ## Russia faces fresh fuel shortages as refinery attacks disrupt supplies
 Fuel shortages have surged in multiple regions across Russia as recent drone attacks reignite supply issues. Authorities in no less than ten territories have reinstated limits on petrol sales, amplifying the strain on resources. This situation is worsened by a notable dip in wholesale gasoline sales
@@ -84,32 +87,32 @@ Gold has turned decisively positive in the short term, rising to around Rs 155,1
 ## Stocks to buy: What's the outlook for Nifty for August 17-August 21 week? Check list of top stock recommendations
 Stock market recommendations: Ujjivan Small Finance Bank, and 360 One Wam have been identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy on August 17, 2026.
 
-## Rupee falls 17 paise to 95.59 against US dollar as FCNR swap deadline weighs down sentiment
-The Indian rupee fell against the US dollar at the start of Monday, influenced by the Reserve Bank of India's move to advance a deposit swap deadline. While the bank had previously drawn in substantial foreign currency, analysts predict temporary support for the rupee, though overall weakness is exp
+## CJP's Abhijeet Dipke says ‘ready to show my degree’ amid row over his Boston education. But he has a condition
+Abhijeet Dipke’s clarification comes after reports surfaced doubting his degree from Boston University.
 
-## Defence ministry inks ₹1.9 cr deal to lease 2 MQ-9B Sea Guardian drones for Navy
-The contract is valued at approximately ₹1,943 crore, according to a ministry statement.
+## ‘Have no interest’: Poonawalla on buzz claiming he should succeed Malviya as social media head
+Deepak Mhaskey was named the social media convenor as the BJP announced a rejig in the party.
 
-## TMC MP Abhishek Banerjee moves Cal HC challenging freezing of his bank account
-Abhishek Banerjee's lawyer Ayan Bhattacharjee claimed that the private bank froze his personal bank account without following the proper procedure.
+## Who is Shahzad Bhatti? Pakistan-based terror group leader's network busted before Independence Day
+Shahzad Bhatti has emerged as one of the most prominent cross-border crime figures under the scanner of Indian security agencies for more than a year.
 
-## Keeping up with UP: Will Rahul convert crowds into votes in Nehru’s birthplace
-Allahabad was a major centre of the Indian independence movement and known as the city of prime ministers
+## Locked exits, defunct fire-alarm system, killed 8 in Tarapith fire: Officials
+Guests alleged that the fire alarm system did not work when the fire broke out. Many hoteliers learned about the fire when they heard screams
 
-## ‘Middle class is being looted’: Shehzad Poonawalla’s last remarks before official resignation from BJP
-In a video posted on Instagram, Shehzad Poonawalla said the middle class had effectively been reduced to an “ATM” for the government.
+## Principal’s face blackened with ink by school girls in Rajasthan over molestation charges
+The incident occurred at a government school in Rajasthan, where students and their parents gathered and held a demonstration against the school principal.
 
-## Amit Malviya dropped, Smriti Irani makes comeback in new BJP team | Check list here
-Nitin Nabin made a new announcement on Monday about reshuffle in the national BJP team.
+## Shehzad Poonawalla explains why he quit BJP, says ‘will continue to support party's ideology’
+Shehzad Poonawalla said that he approached the party about his decision and was asked to reconsider, but he chose to stick to it.
 
-## Qaumi Insaaf Morcha protest: Former MP Simranjit Mann booked, 17 others arrested
-Qaumi Insaaf Morcha protest: Former MP Simranjit Mann booked, 17 others arrested
+## Karnataka expands food safety inspections, launches QR code for public complaints
+Karnataka expands food safety inspections, launches QR code for public complaints
 
-## India should bring back E10 option to ease consumer's concerns, says chief economic advisor
-Nageswaran said, “Restoring a lower blend at the pumps, say, E10, alongside the option to buy E20, would calm most public concern."
+## SC rejects plea to link Ayodhya donation probe with Ramjanmabhoomi title dispute
+The Supreme Court said the SIT was answerable and accountable to it and would submit its status report directly to the Supreme Court
 
-## India-Thailand joint military exercise 'Maitree' to be held from August 18-31
-India-Thailand joint military exercise 'Maitree' to be held from August 18-31
+## Billionaire Geely Auto head Li Shufu steps down as profit slips
+Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker. Li, the 63-year-old founder of the automotive group, announced his resignation just after 
 
 ## China’s pharma contractors rally as US supply chain pressures face industry resistance
 China’s pharmaceutical contractors are showing financial resilience in the face of Washington’s push to curb reliance on Chinese supply chains. Analysts said investors were bullish because the US government’s recent measures to curb Beijing’s rise as a global pharmaceutical supplier had met resistan
@@ -131,9 +134,6 @@ Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to r
 
 ## Chinese hedge funds rotate out of Nvidia and US hyperscalers in evolving AI trade
 China’s biggest hedge funds cut holdings of US hyperscalers and Nvidia and migrated into the hardware makers on the AI supply chain in the second quarter, marking a shift of their playbook on overseas investment in response to evolving market dynamics. Perseverance Asset Management International sla
-
-## China embraces ‘Grandpa Cute’; policewoman probed over uniform dance: 5 weekend reads you missed
-We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. Why Chinese youth are turning to an 84-year-old Cambridge professor for support 2. Chinese official
 
 ## The Top 10 Ways Trump Has Made America Weaker
 He’s been one of the most consequential presidents in U.S. history—in all the wrong ways.
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Jason Arday’s death is institutional murder
+Arday was subjected to a vicious campaign fuelled by anti-Black racism.
+
+## US-Iran Memorandum of Understanding expires: How and why it fell apart
+Trump deemed the MoU 'over' within a month of it being signed, as the two sides traded attacks despite a 'ceasefire'.
+
+## Arsenal preview: Key questions heading into 2026-27 Premier League season
+Does Guimaraes complete the midfield? Can they finally win the Champions League? And who is set for a breakout season?
+
+## Trump orders US to scale back South Korea military drills
+Donald Trump has ordered the US military to scale back joint exercises with South Korea.
+
 ## Is the world experiencing more earthquakes now than before?
 Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.
 
@@ -242,18 +254,6 @@ Explosive drones target Iraqi Kurdish PM's office and security chief's residence
 
 ## Indian temple stampede kills seven people and injures dozens
 A stampede at a Hindu temple in eastern India kills seven people and injures nineteen more.
-
-## Is China encroaching upon Indian territory in Arunachal Pradesh?
-India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh.
-
-## Watch: Young chef, 16, cooking up gourmet meals in Gaza
-Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.
-
-## Thousands await aid after deadly Indonesia quake as rescue work under way
-Thousands remain displaced after a magnitude 7.7 earthquake struck East Nusa Tenggara province on Saturday.
-
-## Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle
-Britain's new premier has promised to ease the suffering of millions of families unable to afford basic items.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
