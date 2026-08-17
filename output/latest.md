@@ -36,29 +36,32 @@ Mike Joo hired from Bank of America to lead investment banking
 ## Trump’s war on customs fraud will be costly and difficult
 The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about
 
-## Jio offers tariff certainty with Prime subscription till September 2027
-Prime membership will be separate from the ₹299 plan and will offer benefits like Google Gemini Pro and 5,000 GB of cloud storage
+## Positive inflows into gold ETFs continue for the 4th week in a row
+Though the yellow metal did not gain much last week, investors’ interest was sustained by prices ruling near $4,400/ounce
 
-## Rising energy cost poses a risk to economic growth, says Birla
+## El Nino seen deepening India’s rainfall deficit through Sept
+European forecaster says best of monsoon over for India; overall shortfall at 13%
 
+## FCNR(B) inflows stabilise rupee but fail to trigger 2013-style rally
+Heavy foreign-currency inflows have strengthened the central bank’s ability to manage volatility, but broader global forces continue to shape exchange rates.
 
-## Trading charges
-India should call out US’ ‘transshipment scam’ report
+## India’s pulses imports down a tad during in H1 this year
+Chana and urad imports decline, while tur and masoor shipments witness a rise
 
-## Letters to Editor
+## One in five Nifty 50 CEOs in the ₹50-crore salary club
+HCL Tech CEO highest paid in FY26; Asian Paints MD & CEO got highest increase in pay packet at 179 per cent.
 
+## India’s kharif crop area 21 lakh hectares less than a year ago as pace of sowing slows
+Acreage of all crops reaches 92% of normal even as deficit shrinks to less than 1%; paddy coverage trails 3%
 
-## Eight people, mostly pilgrims, die after fire broke out at hotel in temple town of Tarapith
-Police detained one person for alleged lapses in the maintenance of the hotel’s fire-fighting system.
+## El Niño seen deepening India’s rainfall deficit through September
+Current lean rainfall trend over large parts of could persist through September as El Niño strengthens its influence on the monsoon, according to ECMWF
 
-## Eden Realty plans to invest ₹300 crore in a five-star hotel and villa-style resort along the Hooghly River
-The villa-style resort will be adjacent to the AJC Bose Indian Botanic Garden, Howrah
+## Juniper Hotels eyes acquisitions, new brand tie-ups for growth
+The company aims to double the number of rooms in its properties to 4,000 by FY31
 
-## Can Shanti caps deter courts from fixing higher compensation, SC asks petitioners
-Petitioners say investment should not be at the cost of safety of thousands of lives
+## HC directs FDA to pay sweets seller for not lifting suspension despite compliance
 
-## Karnataka plans 1,736-acre land acquisition to expand Tumakuru industrial node
-Patil was speaking virtually at the third meeting of the Apex Monitoring Authority of the National Industrial Corridor Development and Implementation Trust, chaired by Union Finance Minister Nirmala Sitharaman.
 
 ## 57 Trump officials worth at least $100 million: Donald dwarfs predecessors in ultra-rich appointments
 Trump, who is himself a billionaire, has portrayed his preference for appointing extremely wealthy individuals as recognition of financial achievement.
@@ -81,13 +84,10 @@ While the article said available evidence does not substantiate concerns that E2
 ## Wary of risks, Asian refiners want Saudi Aramco’s shipments to be picked outside Red Sea
 Yanbu has become increasingly important to Saudi Arabia as it seeks to maintain crude shipments after the war disrupted traffic through the Strait of Hormuz and severely restricted supplies from the Persian Gulf.
 
-## Trump admin crackdown: Indian techies see biggest hit as US green card approvals plunge sharply
-The approval rate for EB-1A, the US green card category meant for individuals with extraordinary ability, has dropped sharply in FY26, with Indian applicants bearing a significant share of the impact, according to several immigration experts.
-
 ## Search for 5 army personnel who went missing in Arunachal flash flood continues
 The flash flood struck Pasu Pani, around 25km beyond Mipi Circle, at about 4.30pm after a major stream suddenly swelled and inundated the surrounding area
 
-## Nitin Gadkari says ‘blamed’ for state roads, claims ‘no potholes’ on Mumbai-Pune Expressway in 27 years
+## Not a single pothole on Mumbai-Pune Expressway in 27 years: Nitin Gadkari
 Nitin Gadkari said that 27 years ago, he built the Mumbai-Pune Expressway and claimed it has not developed any potholes to date.
 
 ## Tamil Nadu government announces elderly insurance, medicity, to enact Public Health Act
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How Russian dissidents are being punished by both Russia and Europe
+While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres.
+
 ## Rights group urges FIFA to block Infantino re-election bid over term limits
 FairSquare says the FIFA president should not be able to run again under the world football organisation's statutes.
 
@@ -248,9 +251,6 @@ Brazil’s presidential race is officially underway.
 
 ## Global condemnation of Israeli settler violence against Palestinians
 Global condemnation of Israeli settler violence against Palestinians
-
-## Trump hails Mecca pact: Can it replace the region’s US security umbrella?
-As Trump pushes allies to do more for their own defence, three US partners have created a security pact of their own.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
