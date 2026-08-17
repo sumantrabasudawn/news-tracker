@@ -33,29 +33,29 @@ Cooling rises up the list of sought-after features in constrained high-quality c
 ## The wrong lessons are being drawn over worries on public equities
 Policymakers should focus on tax and planning reform to encourage enterprise rather than financial deregulation
 
-## Sensex today | Stock Market LIVE: Sensex off day's low; down 150 points, Nifty near 24,350; Hindalco leads gainers; Voltas shares fall 6%
-Sensex, Nifty, Share Prices Live updates: At 12:00 pm, Sensex dropped 407.68 points or 0.52% to 77,601.57, Nifty slipped 94.90 points (-0.39%) to 24,271.10
+## Sensex today | Stock Market LIVE: Sensex off day's low; down 120 points, Nifty crosses 24,350; Hindalco leads gainers; Voltas shares fall 6%
+Sensex, Nifty, Share Prices Live updates: Markets off the day’s low. Sensex traded 137.24 pts or 0.18% lower at 77,872.01 at 1.19 pm and NIfty 50 dipped 18.10 pts or 0.07% to 24,347.90
 
-## Ola Electric unveils full-stack energy storage portfolio from home to grid
-The architecture can scale from a single container to GWh-scale energy storage plants
+## Meine Electric to set up pilot Iron-Air Battery system at NTPC Simhadri Thermal Power Station
+The study is expected to generate operational data and insights into the suitability of the technology for long-duration energy storage applications
 
-## Meta faces biggest trial yet over social media child safety as US states take it to court
-US states are seeking extensive financial damages that could, in theory, total as much as $1.4 trillion, plus changes to how the company operates Facebook and Instagram
+## Regaal Resources posts 47% rise in Q1 profit on higher margins
+Total income fell to ₹202.57 crore from ₹247 crore, while expenses dropped to ₹185 crore from ₹235 crore
 
-## Federal Court of Australia dismisses APEDA appeal on Basmati rice
-The Indian authority sought word mark registration; trade analysts and GI expert find gap in the government approach to getting GI for the fragrant rice
+## Arun Icecreams distributes 15,000 ice creams as part of New York India Day Parade 2026
+The participation follows Arun Icecreams’ recent expansion into the US to strengthen its visibility in the market engaging with a wider consumer audience as it expands its international presence
 
-## Two AI pilots fail preliminary drug test
-Confirmatory testing awaited; pilots flagged in non-negative psychoactive-substance screening
+## Bollywood stars told to drop surrogate ad in Maharashtra's food safety drive
+In ⁠a warning to Shah Rukh Khan, Ajay Devgn and Tiger Shroff, made public over the weekend, the state said the actors were promoting Vimal's cardamoms but the brand ​is associated largely with pan masala
 
-## Voltas shares fall over 6% from intraday high as brokerages differ after Q1 results
-The stock traded 4% lower at ₹1,270.40 on the NSE at 12.42 pm, after moving between ₹1,263.90 and ₹1,350
+## Halwasiya buys 45 lakh shares of Baazar Style Retail for ₹163 crore in block deal
+Halwasiya’s block deal follows a strategic investment made by Cupid Ltd through warrants
 
-## Govt to soon announce high-level panel on 'Banking for Viksit Bharat'
-Panel ‘to comprehensively review the sector and align it with India’s next phase of growth’
+## Beyond tractors: How electrification is reshaping farm mechanisation
+India’s next decade of farm mechanisation will not be counted in just tractor units
 
-## Nippon India MF launches NFO on Income Plus Arbitrage Omni FoF
-The Fund of Fund will invest almost the entire corpus in a combination of arbitrage MFs, active and passive debt MFs and an optional small proportion of a maximum 5 per cent in debt and money market instruments
+## IPO-bound Paramotor Digital partners with NSDL Payments Bank to issue prepaid cards
+The partnership will leverage NSDL Payments Bank's prepaid card issuance services and banking infrastructure to support secure, RBI-compliant prepaid payment solutions across payment networks
 
 ## Trump admin crackdown: Indian techies see biggest hit as US green card approvals plunge sharply
 The approval rate for EB-1A, the US green card category meant for individuals with extraordinary ability, has dropped sharply in FY26, with Indian applicants bearing a significant share of the impact, according to several immigration experts.
@@ -81,11 +81,23 @@ Throughout August, banks will have multiple closures due to various regional and
 ## Bullion watch: Where are gold and silver prices headed?
 
 
+## Rahul writes to Soren, suggests that he personally meet protesting students
+In a letter dated August 14 (Friday) and released on Monday, Gandhi underlined that the protest has been peaceful and the demands are legitimate
+
+## Tamil Nadu CM C Joseph Vijay announces full waiver of co-op farm loans upto ₹75,000
+Tamil Nadu CM C Joseph Vijay announces full waiver of coop farm loans upto ₹75,000
+
+## ‘Dimagi Naxal Party’ springs up on Instagram after PM Modi’s remark, over 1 lakh people follow in 24 hours
+According to the ‘Dimagi Naxal Party’ introduction on Instagram and X, its motto is “Think | Research | Resist.”
+
+## Zubeen Garg death case: SC directs completion of witnesses’ exam within 2 months
+The Supreme Court deferred the hearing on the bail plea of his event manager Shyamkanu Mahanta until October
+
 ## SC directs Karnataka to comply, waits a week to assess Cauvery water releases
 The bench was hearing Tamil Nadu’s plea seeking implementation of the CWMA’s decision directing Karnataka to release water to the state
 
-## Stampede-like situation at Ujjain’s Mahakal Nagchandreshwar temple
-A stampede occurred at Ujjain’s Mahakal Nagchandreshwar temple, resulting in injuries to several devotees.
+## 13 devotees faint at Ujjain’s Nagchandreshwar Temple amid overcrowding on Sawan Monday
+Officials said that the 13 people had been admitted to a district hospital. According to doctors, they are under close observation.
 
 ## Big relief for Rahul Gandhi as SC asks Allahabad HC to defer proceedings in disproportionate assets case
 The top court also directed the CBI and the Enforcement Directorate (ED) not to file any report before the Allahabad High Court.
@@ -93,22 +105,13 @@ The top court also directed the CBI and the Enforcement Directorate (ED) not to 
 ## Assam floods: Over 26,000 houses damaged; second phase of monetary relief begins
 Assam chief minister Himanta Biswa Sarma said that the ongoing survey to assess losses in July’s floods in four districts has identified the damaged houses
 
-## Indian billionaire Lakshmi Mittal’s Ukraine steel plant hit in Russian strike, 2 killed, 13 injured
-The strike damaged key energy and blast furnace production facilities at ArcelorMittal steel plant in Kryvyi Rih, according to a Russian state-run newspaper.
-
-## Two more Air India pilots fail to clear drug test after Phuket flight fiasco
-Two Air India pilots have tested non-negative for psychoactive substances in drug screening conducted on around 350 pilots
-
-## CJI Surya Kant says 'never consented' to NALSAR's invite as student protest snowballs
-His statement comes amid a major controversy which erupted after a group of students protested against the CJI being invited as the chief guest.
-
-## UGC-NET to reconduct three exams due to errors; second cancelled paper after NEET
-The decision was taken by the NTA after a panel found a raft of factual, typographical and translation errors in the question papers.
+## Job losses mount in German automotive sector as challenge from China intensifies
+Germany’s automotive industry shed 42,300 jobs in the year to the end of June, sending employment to its lowest level since 2005 as carmakers grappled with falling profits in China and mounting competition from Chinese brands in Europe, and industry groups warned that worse was yet to come. With job
 
 ## China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand
 China’s autonomous-driving ambitions are winning growing recognition in Europe, with Deutsche Bank raising its target price for Momenta following a key regulatory breakthrough, and Pony.ai expanding its European robotaxi roll-out alongside Uber Technologies. In a research note released on Monday, De
 
-## Ingenic launches IPO to join wave of mainland China chipmakers raising funds in Hong Kong
+## Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong
 Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion. The company, which has been listed on Shenzhen’s Na
 
 ## Chinese hedge funds rotate out of Nvidia and US hyperscalers in evolving AI trade
@@ -125,9 +128,6 @@ The Hong Kong government’s plan to increase tax incentives for corporate treas
 
 ## Launch of Northern Metropolis flats attracts strong interest from Hong Kong homebuyers
 Hong Kong homebuyers flocked to the first batch of units at a major residential project in the Northern Metropolis with 44 – or more than half – of the 82 flats made available via regular sale finding buyers as of 7.30pm on Sunday, according to agents. Wheelock Properties’ Park Silicon project in Kw
-
-## AIIB warns climate inaction could downgrade a third of sovereign borrowers by 2050
-More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign borrowers could face credit rating downgrades by 2050 if global climate policy fails to strengthen, the Beijing-based multilateral lender said in a report. Under a current policy scenario – in which existing climate rules r
 
 ## How Ronald Reagan Used Diplomacy to End the Cold War
 A new movie shows how the president conferred with State Department experts before each meeting.
@@ -177,6 +177,9 @@ The incident reveals Beijing’s growing efforts to assert authority over Tibeta
 ## In Afghanistan, Growing Resistance Meets Fears of Pakistani Influence
 Five years after the Taliban’s return, the Afghan resistance is growing but so is the fear of Pakistan’s shadow.
 
+## Blanchard’s Lathe and the Long Arc of American Manufacturing
+Emerging from the chaos of supplying the U.S. Army during the War of 1812, the War Department sought to foster domestic production of standardized muskets. Out of this industrial project arose an invention that laid the foundation for automation and mass production. Thomas Blanchard’s copying lathe 
+
 ## What Have We Learned from the 9/11 Wars? Not Nearly Enough
 Editor’s Note: The following article draws on themes from the author’s forthcoming book titled US Counterterrorism Operations in Afghanistan: Jackpots, Dry Holes, and Collateral Damage.Over the next month, the United States will pass two major historical milestones: the five-year anniversary of its 
 
@@ -197,9 +200,6 @@ In 2025, Nurlan Aliyev wrote, “The Mayhem of Russia’s “Research” Fleet,�
 
 ## Hyman Rickover and the Birth of Nuclear Power
 Editor’s note: This is the eighth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sele
-
-## The Next School of War: Educating for Tomorrow’s Battlefield
-When war changes, schools change. New technology, the politics of mass mobilization and campaign design, and novel tactics that defined Napoleonic warfare led to Gerhard von Scharnhorst’s reforms and the idea of lifelong education as a professional obligation. The pattern repeated itself in the inte
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Kushner to meet Netanyahu to push Trump Gaza plan
+The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.
+
+## At least six people killed in Ukrainian missile attack on Russia’s Belgorod
+Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.
+
 ## Rodri headed to Barcelona after Man City accepts transfer bid
 Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.
 
@@ -242,12 +248,6 @@ Iran’s Parliament speaker and negotiator Mohammad Bagher Ghalibaf has declared
 
 ## Lawyer says Israel’s targeting of Palestinian women is a form of genocide
 Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.
-
-## Thieves steal Renaissance artworks in museum heist during Italian holiday
-As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.
-
-## Palestinian-American travels to West Bank home encircled by Israeli settler
-Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
@@ -273,6 +273,9 @@ RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 1
 ## Only 22 Women CFOs, 9 CEOs Among Top 500 Listed Firms
 Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly listed companies in India, which equates to only 4.4%. At the Chief Executive Officer level, representation is even more dismal with only nine women holding the title. Although nearly 29% of directors are women in active
 
+## RBI cuts FX swap window short after NRI deposits cross $50 billion
+The Reserve Bank of India shortened its zero-cost FX swap facility for banks. This action followed substantial foreign deposit inflows from non-resident Indians. Policymakers also considered domestic liquidity effects and fundraising costs. The overseas fundraising supported the rupee, which had rea
+
 ## PM GatiShakti: 396 infra projects worth Rs 18.66 lakh crore recommended for approval
 Nearly four hundred infrastructure projects have received approval under the PM GatiShakti initiative. These projects, valued at over eighteen lakh crore rupees, span various ministries. The Network Planning Group has evaluated these significant infrastructure developments for implementation. This i
 
@@ -293,7 +296,4 @@ The government on Wednesday said that India and the Southern African Customs Uni
 
 ## No evidence of manipulation in new closing auction session: SEBI Chief
 India's capital markets regulator has found no signs of manipulation in the newly introduced closing auction session, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey said on Wednesday, amid concerns raised by some market participants over the new mechanism.
-
-## Govt to offer sops up to Rs 5,000 for electric two-wheelers till Mar 2028
-Government incentives for electric two-wheelers are extended until March 2028. Financing support mechanisms are being developed for electric buses and trucks. This initiative aims to reduce borrowing costs and accelerate EV adoption across segments. Registered electric two-wheelers will continue rec
 
