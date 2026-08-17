@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## UK government to pay KPMG and EY up to £456mn to train civil servants
+Deal marks largest contract awarded to Big Four firms in at least a decade
+
 ## Can Democrats seize Congress from Trump?
 The races, the money and the issues that will determine the final half of Trump’s second term
 
@@ -7,7 +10,7 @@ The races, the money and the issues that will determine the final half of Trump�
 The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about
 
 ## Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations
-Remarks come as Gulf state has been in talks with Tehran over provisional arrangement to manage Strait of Hormuz
+US president’s remarks follow talks between Gulf state and Tehran over provisional arrangement to manage Strait of Hormuz
 
 ## Reform UK vows to block foreign nationals from claiming benefits if it wins power
 Party’s Treasury spokesperson Robert Jenrick says current welfare system is ‘a strange perversion of compassion’
@@ -21,47 +24,41 @@ Households and businesses pulled back in the worst months of the Iran energy sho
 ## People are worried about America’s solvency
 But not worried enough to actually do anything about it
 
-## China investment slump deepens as economy shows signs of weakness
-Industrial output growth slows and retail sales nearly flat as policymakers face calls to step up support
+## Ferrari’s first EV auctioned off at record $40mn
+The Luce’s auction price sets a record for a new car
+
+## Barclays shakes up investment bank less than 3 years since last overhaul
+Mike Joo hired from Bank of America to lead investment banking
 
 ## How online fandom shaped our world
 What looks like random algorithmic attention can actually be the work of obsessive digital devotees
 
-## Ferrari’s first EV auctioned off at record $40mn
-The Luce’s auction price sets a record for a new car
-
 ## Virgin wins approval for cross-Channel trains despite Eurostar complaints
 Regulatory clearance brings competition on rail services to the continent a step closer
 
-## Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap
-Investors in gigawatt-scale campuses face billions in underinsured risks as insurers balk at cost of full coverage
+## AAI profit falls 9.8% to ₹6,522 crore in FY26
+Revenue remains broadly flat; airport lease income declines
 
-## A leaderboard of the biggest trading losses of all time
-Well, some of them, anyway
+## TG-SAFE comes into force as Telangana merges food and drug safety functions
+The new regulatory framework brings key public health functions under one authority, aiming to improve surveillance, enforcement and accountability across Telangana
 
-## J&K looks to expand irrigation as Ravi basin projects gain momentum
-The department has proposed a ₹571.83-crore project to modernise the Main Ravi Canal and its distribution network and restore its designed discharge of 1,150 cusecs.
+## India Inc. delivers strongest earnings in 10 quarters; markets stay in the red
+The Nifty 50 settled at 24,287.65, down 78.35 points or 0.32%, while the Sensex slipped 0.36 per cent to close at 77,728.16
 
-## USFDA closes inspection of Aurolife Pharma’s facility in the US
-The unit has now received the Establishment Inspection Report (EIR), classifying the facility as ‘Voluntary Action Indicated’ (VAI)
+## FCNR(B) inflows stabilise rupee but fail to trigger 2013-style rally
+Heavy foreign-currency inflows have strengthened the central bank’s ability to manage volatility, but broader global forces continue to shape exchange rates.
 
-## FM asks public sector banks to leverage strong balance sheets for next phase of growth
-The government is seeking a stronger role for lenders in financing emerging opportunities as improved asset quality creates greater room for expansion.
+## Inside First Solar’s India bet in Chennai: Sujoy Ghosh on the future of solar
 
-## one8 collection lands on Myntra for 18-hour flash sale on Kohli’s cricket anniversary
-This marks one8’s debut on a multi-brand e-commerce platform
 
-## Will Mutual Fund SIP inflows stay strong despite market volatility? | On the beat podcast | Part 04
-Why experts believe India’s SIP boom is far from over.
+## Tata Group’s Nelco invests $20 million in Elveo Mobile for D2D satellite services
+The partnership targets enterprise connectivity gaps across automotive, maritime, energy and government sectors through emerging non-geostationary satellite technologies.
 
-## AI, data centres and jobs: Is India entering a new growth era? | On the beat podcast | Part 03
-India’s growth story intact? Experts decode jobs, demand and consumption.
+## Chandigarh University Hosts National Space Technology Conclave with ISRO; 30 Eminent Space Leaders & Scientists Deliberate on India's Future Space Missions
+Chandigarh University Hosts National Space Technology Conclave with ISRO; 30 Eminent Space Leaders & Scientists Deliberate on India's Future Space Missions
 
-## FCNR deposits explained: Can they help stabilise the rupee? | On the beat podcast | Part 02
-Why global investors still can’t ignore India.
-
-## Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast | Part 01
-How is India navigating crude oil volatility, a weakening rupee, and foreign capital outflows?
+## Hexaware Helps Enterprises Achieve Infinite Momentum by Removing Friction Across the Estate
+Hexaware Helps Enterprises Achieve Infinite Momentum by Removing Friction Across the Estate
 
 ## ‘CAS here to stay’: Sebi chief Pandey says auction system won’t be rolled back, regulator open to feedbacks
 Sebi chairman Tuhin Kanta Pandey affirmed the continuation of the Closing Auction Session, emphasizing ongoing evaluations concerning market participants' worries and potential framework enhancements. He pointed out that as more participants engage with the new system, certain challenges may diminis
@@ -87,29 +84,29 @@ Gold has turned decisively positive in the short term, rising to around Rs 155,1
 ## Stocks to buy: What's the outlook for Nifty for August 17-August 21 week? Check list of top stock recommendations
 Stock market recommendations: Ujjivan Small Finance Bank, and 360 One Wam have been identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy on August 17, 2026.
 
+## Delhi airport to consult stakeholders on its Master Plan 2036 prior to AAI submission
+The airport will be proposing to add 10 million capacity by 2030, people aware of the development said
+
+## Who is Deepak Mhaskey, replacing Amit Malviya as BJP's new IT cell head?
+The role of social media head was earlier held by Amit Malviya, who seems to be missing from the new Nitin Nabin BJP team.
+
+## Decoding PM Modi's Red Fort speech: Why this one was different
+From ‘Sapt Sindhu’, foreign policy to ‘dimagi naxals’, HT decodes Prime Minister Narendra Modi's Independence Day speech from the ramparts of Red Fort.
+
 ## CJP's Abhijeet Dipke says ‘ready to show my degree’ amid row over his Boston education. But he has a condition
 Abhijeet Dipke’s clarification comes after reports surfaced doubting his degree from Boston University.
 
-## ‘Have no interest’: Poonawalla on buzz claiming he should succeed Malviya as social media head
+## ‘Glamorous role but…’: Poonawalla on buzz that he should have succeeded Malviya
 Deepak Mhaskey was named the social media convenor as the BJP announced a rejig in the party.
 
 ## Who is Shahzad Bhatti? Pakistan-based terror group leader's network busted before Independence Day
 Shahzad Bhatti has emerged as one of the most prominent cross-border crime figures under the scanner of Indian security agencies for more than a year.
 
-## Locked exits, defunct fire-alarm system, killed 8 in Tarapith fire: Officials
+## Locked exits, defunct fire-alarm system killed 8 in Bengal fire: Officials
 Guests alleged that the fire alarm system did not work when the fire broke out. Many hoteliers learned about the fire when they heard screams
 
 ## Principal’s face blackened with ink by school girls in Rajasthan over molestation charges
 The incident occurred at a government school in Rajasthan, where students and their parents gathered and held a demonstration against the school principal.
-
-## Shehzad Poonawalla explains why he quit BJP, says ‘will continue to support party's ideology’
-Shehzad Poonawalla said that he approached the party about his decision and was asked to reconsider, but he chose to stick to it.
-
-## Karnataka expands food safety inspections, launches QR code for public complaints
-Karnataka expands food safety inspections, launches QR code for public complaints
-
-## SC rejects plea to link Ayodhya donation probe with Ramjanmabhoomi title dispute
-The Supreme Court said the SIT was answerable and accountable to it and would submit its status report directly to the Supreme Court
 
 ## Billionaire Geely Auto head Li Shufu steps down as profit slips
 Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker. Li, the 63-year-old founder of the automotive group, announced his resignation just after 
@@ -135,6 +132,9 @@ Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to r
 ## Chinese hedge funds rotate out of Nvidia and US hyperscalers in evolving AI trade
 China’s biggest hedge funds cut holdings of US hyperscalers and Nvidia and migrated into the hardware makers on the AI supply chain in the second quarter, marking a shift of their playbook on overseas investment in response to evolving market dynamics. Perseverance Asset Management International sla
 
+## China’s New Laws Are Ensnaring Western Companies
+Beijing is systematically countering U.S. and European sanctions efforts by expanding its jurisdiction.
+
 ## The Top 10 Ways Trump Has Made America Weaker
 He’s been one of the most consequential presidents in U.S. history—in all the wrong ways.
 
@@ -155,9 +155,6 @@ If liberalism does not remake itself, it will be antidemocratic alternatives tha
 
 ## The End of American Innocence
 Seventy years after “The Quiet American,” has the country outlived Graham Greene’s prophecy?
-
-## AI Is Changing Military Morality
-Just war theory was developed over centuries—and now must adapt to a new era of technology.
 
 ## The Thai Government’s Myanmar Gambit Could Backfire on ASEAN
 Bangkok's recent campaign of diplomatic outreach undermines the bloc's collective approach to the country's crisis.
@@ -231,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Yemen’s drone war: Rivals flex growing aerial muscle
+Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
+
+## Trump scales down war games with South Korea: Why it matters
+US president cites Seoul's reluctance to back his war on Iran, and his warm ties with North Korea's leader as reasons.
+
+## Will Europe hear a landmark Russian climate change case?
+The European Court of Human Rights has dismissed the case, but the plaintiffs aren't giving up.
+
+## Israel’s religious right is changing the state from within
+Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.
+
 ## Jason Arday’s death is institutional murder
 Arday was subjected to a vicious campaign fuelled by anti-Black racism.
 
@@ -242,18 +251,6 @@ Does Guimaraes complete the midfield? Can they finally win the Champions League?
 
 ## Trump orders US to scale back South Korea military drills
 Donald Trump has ordered the US military to scale back joint exercises with South Korea.
-
-## Is the world experiencing more earthquakes now than before?
-Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.
-
-## USS Lincoln crisis: How it compares to past aircraft carrier deployments
-The USS Abraham Lincoln crisis highlights the toll of lengthy deployments on crew morale and operational readiness.
-
-## Iraqi Kurdish PM Barzani’s office targeted in drone attack
-Explosive drones target Iraqi Kurdish PM's office and security chief's residence; no casualties reported.
-
-## Indian temple stampede kills seven people and injures dozens
-A stampede at a Hindu temple in eastern India kills seven people and injures nineteen more.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
