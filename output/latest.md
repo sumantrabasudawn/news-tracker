@@ -1,61 +1,58 @@
 # AION Intelligence
 
-## The CEO trying to outsmart buyout firms
-Bob White adopts private equity-style tactics to deflect takeover interest and boost share price
+## FirstFT: Dimon warns UK against higher bank taxes
+Also in today’s newsletter: private credit doldrums and AI super-rich
 
-## The next China shock will come from open-source AI
-Countries adopting Chinese models will also absorb Chinese standards and governance
+## Japan’s 10-year bond yield hits three-decade high
+Interest rate nears 3% as weak yen fuels inflation concerns
 
-## India’s sweltering nights expose power crunch
-Rise in evening temperatures and air conditioning demand leaves gap in renewable energy supply
+## Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up
+Company founded by former Snap executive Alex Mashrabov targets marketing content for businesses
 
-## Trump says US will scale back military drills with South Korea
-President claims the joint exercises send a ‘hostile’ message to North Korea
+## Private credit under strain as troubled loans swell
+FT analysis shows signals of stress in the market are back to levels last seen in 2017
 
-## China’s energy strategy vindicated by Iran war
-Playbook is likely to be adopted by other countries, shaping markets
+## War and climate change drive surge in global shipping costs
+Rates on routes including Panama Canal, Rhine, Red Sea and Black Sea jump, while Hormuz closure also hits seaborne trade
 
-## Jamie Dimon warns UK chancellor against higher bank taxes
-JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget
+## Burnham faces climate test over North Sea oil decision
+Prime minister expected to approve development of controversial Rosebank and Jackdaw projects
 
-## Far-right Israeli minister advocates killing ‘30 to 40’ Gazans each night
-Itamar Ben-Gvir also calls for re-establishment of Jewish settlements in the Palestinian enclave
+## Counting the cost of Europe’s drought
+Rivers are at all-time lows and water is scarce. Transport, energy and big tech are affected
 
-## London’s flood defence may need replacing far sooner than expected due to extreme weather
-Thames Barrier upgrade could cost at least £20bn, senior government officials warn
+## Air conditioning becomes ‘must-have’ for overheated London office workers
+Cooling rises up the list of sought-after features in constrained high-quality commercial real estate market
 
-## The art of the goodbye message
-Retirement announcements show how hard it is for successful professionals just to stop
+## The wrong lessons are being drawn over worries on public equities
+Policymakers should focus on tax and planning reform to encourage enterprise rather than financial deregulation
 
-## Rayner reforms planning to protect England’s pubs and boost housebuilding
-Ministers to encourage property developments close to train, tram and underground stations
+## Sensex today | Stock Market LIVE: Sensex falls 400 points, Nifty near 24,270; Infy, HCL, TCS lead losers; BSE Clearing launches 3-working-day SLB contracts
+Sensex, Nifty, Share Prices Live updates: At 12:00 pm, Sensex dropped 407.68 points or 0.52% to 77,601.57, Nifty slipped 94.90 points (-0.39%) to 24,271.10
 
-## Don’t dismiss the mini-middle powers
-Qatar, Oman, Azerbaijan, Kazakhstan and Uzbekistan hold leverage in crucial areas
+## Gold Rate Today, Aug 17: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
+22, 24 carat Gold prices up across Indian cities on August 17
 
-## Dollar weakens as traders pare Fed rate-hike bets: Markets Wrap
-Pressure on the dollar increased after US government data on Friday showed retail sales fell in July by the most in more than a year as consumers pulled back on purchases
+## United States likely to emerge as India’s top LPG supplier: OPEC
+This is expected to offset some of the losses from the Middle East, given India’s oil demand will increase by about 0.2 million barrels per day (mb/d), y-o-y, in Q3 2026
 
-## Bhogapuram airport begins commercial flight operations
-First IndiGo flight arrives from Hyderabad, followed by an Air India Express flight from Bengaluru
+## 2 killed as Russian strike hits ArcelorMittal steel plant in Ukraine
+ArcelorMittal Kryvyi Rih, Ukraine's largest steel plant, announced a partial shutdown following the Russian strikes
 
-## Sensex today | Stock Market LIVE: Sensex falls 503 points, Nifty below 24,300; Schneider Electric Infra down 11%
-Sensex, Nifty, Share Prices Live updates: At around 10.43 am, Sensex fell 503.98 pts or 0.65% to 77,505.27, and Nifty 50 depreciated 124.85 pts or 0.51% to 24,241.15
+## India's power system just passed a historic tipping point
+According to the latest capacity data from Ember and Global Energy Monitor (GEM), ​India’s clean energy sources now account for 331.7 GW of installed capacity, compared with 302.0 GW for fossil fuels
 
-## Sammaan Capital eyes up to ₹92,000 crore annual disbursements by FY29-FY30
-Under its “Clear Path to Growth” plan, the company is aiming to up its network from 220 branches currently to 1,600 in the next few years
+## Dhoot Transmission, Molbio Diagnostics IPOs list strong with 21-38% gains
+The IPOs of both companies received a robust market response
 
-## Domestic refiners told to boost LPG output as Hormuz uncertainty lingers
-The directions include exploring alternative uses of feedstocks, such as converting naphtha into LPG.
+## India bonds dip as RBI's diaspora swap move dents sentiment
+The yield on the benchmark 6.94% 2036 bond jumped 3.5 basis points to 6.7909% by 10:45 a.m
 
-## Ebola outbreak becomes Congo’s deadliest as UN warns virus Is ‘winning’
-Ebola is hitting a health system already weakened by years of conflict and mass displacement, with recent cuts to humanitarian funding adding to the strain
+## IN-SPACe proposes ₹500 crore third-party insurance cover for space launches
+The third party damage insurance framework will likely be part of Indian Space Activity Bill
 
-## Brent Crude Oil Price Today: Futures edge higher amid West Asia uncertainty
-Iran’s Foreign Minister Abbas Araqchi told Iranian news outlet Shahdara News that Iran had not decided to resume talks with the US
-
-## Goldman says markets too hawkish on betting Fed will hike rates
-A rate increase at the central bank’s September meeting has become “very unlikely” due to softer retail sales data
+## Stocks to buy: What's the outlook for Nifty for August 17-August 21 week? Check list of top stock recommendations
+Stock market recommendations: Ujjivan Small Finance Bank, and 360 One Wam have been identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy on August 17, 2026.
 
 ## Rupee falls 17 paise to 95.59 against US dollar as FCNR swap deadline weighs down sentiment
 The Indian rupee fell against the US dollar at the start of Monday, influenced by the Reserve Bank of India's move to advance a deposit swap deadline. While the bank had previously drawn in substantial foreign currency, analysts predict temporary support for the rupee, though overall weakness is exp
@@ -78,32 +75,32 @@ Throughout August, banks will have multiple closures due to various regional and
 ## Oil prices hold steady as Hormuz nears zero traffic while Iran-US talks on Strait opening stalls
 
 
-## Insolvency, bankruptcy board aims to check misuse of law
-Tells Professionals To Inform NCLT In Case of Wrongdoings
+## Two more Air India pilots test non-negative in drug test after Phuket flight fiasco
+Two Air India pilots have tested non-negative for psychoactive substances in drug screening conducted on around 350 pilots
 
-## Kharif crops' productivity at risk as monsoon trough shifts, widespread regional variations
-Soybean, maize, paddy and other kharif crops are now entering the growth stages that determine final yields with an erratic monsoon in tow.
+## CJI Surya Kant says 'never consented' to NALSAR's invite as student protest snowballs
+His statement comes amid a major controversy which erupted after a group of students protested against the CJI being invited as the chief guest.
 
-## Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected
-Poonawalla cited pressing financial and personal circumstances as the reasons behind his exit and the need to move to the private sector.
+## UGC-NET to reconduct three exams due to errors; second cancelled paper after NEET
+The decision was taken by the NTA after a panel found a raft of factual, typographical and translation errors in the question papers.
 
-## Jharkhand protest LIVE: Students urge Rahul to ‘withdraw govt’s support', plan to gherao CM Soren’s residence
-Jharkhand protest LIVE: Protesters appealed that if Congress leader Rahul Gandhi is unhappy with the lathi charge on students, he should visit the protest site and withdraw support from the government, similar to his expression of unhappiness over the incident at Jantar Mantar.
+## ‘Leaving vyavastha, not vyakti’: Shehzad Poonawalla resignation letter to BJP. Full text
+In his letter, Shehzad Poonawalla expressed “gratefulness, love, affection and highest regard” for Prime Minister Narendra Modi.
 
-## ‘Police themselves not safe’: IPS officer’s mother found dead in UP, jewellery missing
-Samajwadi Party chief Akhilesh Yadav criticised the Uttar Pradesh government for the incident and said, “police themselves are not safe.”
+## ISKCON vs ISKCON: SC to consider setting up bench to hear review plea on Bengaluru temple
+ISKCON vs ISKCON: SC to consider setting up bench to hear review plea on Bengaluru temple
 
-## ‘Have audios’: Annamalai’s big charge against CM Vijay’s govt, claims ministers demand 2-4% kickbacks
-Annamalai said Vijay has a strong anti-corruption position, but alleged that some members of his Cabinet had now begun seeking a percentage from contracts.
+## ‘Government says it is against drugs, but murders are happening’: Stalin targets Vijay
+Stalin alleged that a 19-year-old was killed after providing information about drug-related activities.
 
-## BRS announces protest in Telangana over government's alleged decision to cancel two key schemes
-The BRS asserted that the Kalyana Lakshmi and Shaadi Mubarak schemes have provided financial support and dignity to lakhs of poor families.
+## Rahul Gandhi demands accountability as NTA announces re-conduct of UGC-NET
+In a post on X, Gandhi addressed Prime Minister Narendra Modi and asked him to look at what his NTA has just done
 
-## At least 7 dead, several injured as massive fire erupts at hotel in West Bengal’s Tarapith
-The injured were rushed to Rampurhat Government Medical College and Hospital for treatment.
+## ‘Chicken served and stored as per norms’: KFC after Mangaluru outlet inspection
+The clarification was issued a day after a KFC outlet in Mangaluru was inspected by the officials of the Food Safety Division,
 
-## Schools shut in 3 Odisha districts amid heavy rainfall as IMD issues ‘red alert’
-The IMD has forecast heavy rainfall across Odisha from August 16 to 18, with rain expected to intensify on Monday before easing on Tuesday
+## Ingenic launches IPO to join wave of mainland China chipmakers raising funds in Hong Kong
+Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion. The company, which has been listed on Shenzhen’s Na
 
 ## Chinese hedge funds rotate out of Nvidia and US hyperscalers in evolving AI trade
 China’s biggest hedge funds cut holdings of US hyperscalers and Nvidia and migrated into the hardware makers on the AI supply chain in the second quarter, marking a shift of their playbook on overseas investment in response to evolving market dynamics. Perseverance Asset Management International sla
@@ -125,9 +122,6 @@ More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign b
 
 ## Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy
 [The content of this article has been produced by our advertising partner.] Artificial intelligence is moving quickly from experiment to operating tool, and Bruce Rockowitz believes it is becoming an important competitive advantage for Hong Kong’s catering businesses as the city’s food delivery econ
-
-## Musk’s headaches: meet China’s corporate matrix challenging his business empire
-US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire. These Chinese competitors tend to follow a sim
 
 ## How Ronald Reagan Used Diplomacy to End the Cold War
 A new movie shows how the president conferred with State Department experts before each meeting.
@@ -225,8 +219,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Rodri headed to Barcelona after Man City accepts transfer bid
+Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.
+
+## Japan’s economy slows, missing growth forecasts
+GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.
+
+## Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title
+The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.
+
+## At least seven dead in ‘stampede-like’ incident at India temple
+The fatal incident reportedly took place amid a rush of devotees at a temple in India's Bihar state.
+
 ## Iran’s top negotiator declares victory in war against the US and Israel
-Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.
+Iran’s Parliament speaker and negotiator Mohammad Bagher Ghalibaf has declared both a military and political victory
 
 ## Lawyer says Israel’s targeting of Palestinian women is a form of genocide
 Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.
@@ -236,18 +242,6 @@ As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museu
 
 ## Palestinian-American travels to West Bank home encircled by Israeli settler
 Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.
-
-## Rare Pallas’s cat captured on camera in northern Iran mountains
-Footage shows a rare sighting of one of Iran’s most elusive wild felines.
-
-## Zambia incumbent takes early election lead as opposition alleges armed raid
-President Hakainde Hichilema appears on course for outright win as observers cite violence and a tilted campaign field.
-
-## Ebola outbreak in DR Congo becomes deadliest in country’s history
-A top UN official says 'speed, scale, and solidarity' needed 'before this virus gets even further ahead of us'.
-
-## Israeli settlers pitch tents for new illegal outpost in occupied West Bank
-UN Special Rapporteur Albanese warns that Israel is 'using settlers to advance ethnic cleansing' in the West Bank.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
