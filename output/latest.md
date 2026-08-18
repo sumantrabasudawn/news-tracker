@@ -45,6 +45,9 @@ World Health Organization warns country has entered ‘intense transmission’ p
 ## Best of monsoon may be behind us despite fresh depression over Bay
 Current lean rainfall trend over large parts of could persist through September as El Niño strengthens its influence on the monsoon, according to ECMWF
 
+## Razorpay expands AI capabilities, builds AI payments model trained on 4 billion transactions
+The company sees the foundation model as part of a broader strategy to combine AI with financial services
+
 ## Godavari Biorefineries secures European patent for anti-cancer pharmaceutical composition
 The patent strengthens the company’s oncology-focused intellectual property portfolio and supports its efforts to develop potential healthcare applications through formulation research
 
@@ -57,14 +60,11 @@ The move replaces the existing multi-stage process that required separate submis
 ## TN Chief Minister announces full waiver of cooperative bank loans up to ₹75,000
 The additional crop loan waiver will impose a financial burden of ₹953 crore on the State government
 
+## Top Business & Market Headlines Today — BL Morning Report, August 18, 2026
+BL Morning Report, August 18, 2026: Get today’s top business news, market headlines about key market insights, economic highlights, and the latest updates from India and global markets.
+
 ## One in five Nifty 50 CEOs in the ₹50-crore pay club
 HCL Tech CEO highest paid in FY26; Asian Paints MD & CEO got highest increase in pay packet at 179 per cent
-
-## API Holdings repays ₹1,050 crore, frees Thyrocare shares from pledge
-Diagnostic chain Thyrocare has sold 1.58 crore Thyrocare shares, representing around 9.90 percent of the company’s paid-up equity capital, through market trades
-
-## SEBI warns investors against live trading strategies offered on social media
-The regulator has flagged growing online sessions offering market positions and trading advice, urging investors to rely only on registered intermediaries.
 
 ## Weak soil, trapped water likely behind Lucknow-Kanpur Expressway failures: Initial probe
 
@@ -114,6 +114,9 @@ CJP founder Abhijeet Dipke congratulated the protesting students after the Jhark
 ## 'Became jobless instantly': JSSC-CGL aspirants who cleared exam slams Jharkhand decision
 “We joined through a fair process, so why is such a step being taken?" a protester said.
 
+## China’s ‘national team’ ditches Kweichow Moutai in move that adds to valuation woes
+China’s state-backed funds are pulling out of Kweichow Moutai, adding to the woes of the nation’s biggest baijiu liquor maker whose stock has lost more than 40 per cent from its peak five years ago. Central Huijin Investment, a unit operated by China’s sovereign wealth fund, and China Securities Fin
+
 ## Is Hong Kong’s property market recovery running out of gas? UBS flags 4 risks
 The Hong Kong property market’s recovery is forecast to moderate in both prices and rents in the coming months as disruptions brought about by artificial intelligence, slower population inflows and other factors are likely to impact the upturn, according to UBS. The Swiss investment bank said that i
 
@@ -134,9 +137,6 @@ New home prices in China’s four first-tier cities were flat on average in July
 
 ## China’s economy cools amid debate about risks of global crisis
 China’s retail sales growth trailed expectations, the pace of industrial output expansion slowed and a drop in investment worsened as its economy struggled to regain pace at the start of the second half of the year. July retail sales rose by 0.6 per cent, missing the 1.3 per cent expectation among e
-
-## Job losses mount in German automotive sector as challenge from China intensifies
-Germany’s automotive industry shed 42,300 jobs in the year to the end of June, sending employment to its lowest level since 2005 as carmakers grappled with falling profits in China and mounting competition from Chinese brands in Europe, and industry groups warned that worse was yet to come. With job
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Trump rejects MoU extension as US claims control of Hormuz
+US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.
+
 ## ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says
 Trump's son-in-law and envoy says US will not 'restrict Israel's right to defend itself' as strikes on Gaza continue.
 
@@ -254,9 +257,6 @@ Trump says Iran will not make the deal he believes is necessary
 
 ## Trump loses second Supreme Court bid over E Jean Carroll sex abuse case
 E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.
-
-## Torrential rains flood homes and roads across Lima, Peru
-Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
