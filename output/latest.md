@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Can Tata Sons untangle its many knots?
+Also in this newsletter, the agri-export problem
+
+## BHP’s copper profits outstrip iron ore for first time
+Annual earnings surge to $33bn, driven by booming demand for data centres and energy networks
+
 ## Nvidia pledges $100bn backing for OpenAI data centre in Ohio
 Chipmaker also invests $1.5bn into energy company founded as part of SoftBank Group
 
@@ -15,17 +21,14 @@ Also in today’s newsletter: China’s investment slump deepens and Kushner hol
 ## Mark Carney in last-ditch effort to avoid Trump’s latest tariffs
 Canadian prime minister plans call with US president before a Wednesday deadline for levies on $20bn of trade
 
-## Seoul rattled by threat to drills at heart of US-Korean alliance
-Donald Trump’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
-
-## Labour MP suspended amid investigation into Covid loans
-UK Bounce Back scheme provided taxpayer-funded loans at a low interest rate
-
-## The UK is going the wrong way about protecting pubs
-Government measures do little to support bars’ underlying business case
+## Seoul rattled by Trump’s threat to drills at heart of US alliance
+US president’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
 
 ## Ferrari’s first EV auctioned off at record $40mn
 The Luce’s sale price sets a record for a new car
+
+## The UK is going the wrong way about protecting pubs
+Government measures do little to support bars’ underlying business case
 
 ## ExxonMobil advances Mozambique gas project despite terrorist threat
 Rovuma LNG plant expected to cost $30bn
@@ -36,11 +39,20 @@ Negotiations come amid clashes over strategy and as Walter’s business empire f
 ## Russia fires economist over Ukraine war warning
 Andrei Klepach dismissed after bleak remarks about economic toll of conflict
 
-## Monzo chair Gary Hoffman to step down months after shareholder revolt
-Digital bank removed TS Anil as chief last year before reinstating him to board after investor rebellion
+## Sensex today | Stock Market Live: Markets may open flat to negative note amid mixed global cues
+Sensex, Nifty, Share Prices LIVE: Indian stocks are expected to open on a flat to negative note on Tuesday amid mixed global cues
 
-## Ebola outbreak becomes DR Congo’s deadliest
-World Health Organization warns country has entered ‘intense transmission’ phase of the virus
+## Weak opening seen for Nifty, Sensex
+Gift Nifty signals gap-down; ICRA sees Q1 GDP growth easing to 7%; oil risks in focus
+
+## Oscar and Grammy Winning KPop Demon Hunters Team Heads to TAIPEI MUSIC EXPO 2026, the Asia Pacific Music Platform
+Oscar and Grammy Winning KPop Demon Hunters Team Heads to TAIPEI MUSIC EXPO 2026, the Asia Pacific Music Platform
+
+## Traveloka SEA Index Q2 2026: Southeast Asians Are Booking Longer Stays and the Region's Own Beaches Are Winning
+Traveloka SEA Index Q2 2026: Southeast Asians Are Booking Longer Stays and the Region's Own Beaches Are Winning
+
+## Stocks in focus: Paytm, Airtel, GMR Airports, Netweb Tech, SPR Auto, Lenskart, Manipal Health and more
+Key developments include Gulshan Polyols’ ethanol allocation worth ₹146.66 crore, Bharti Airtel’s upcoming leadership change, and GMR Airports expanding its portfolio with a new international terminal
 
 ## Best of monsoon may be behind us despite fresh depression over Bay
 Current lean rainfall trend over large parts of could persist through September as El Niño strengthens its influence on the monsoon, according to ECMWF
@@ -51,68 +63,56 @@ The company sees the foundation model as part of a broader strategy to combine A
 ## Godavari Biorefineries secures European patent for anti-cancer pharmaceutical composition
 The patent strengthens the company’s oncology-focused intellectual property portfolio and supports its efforts to develop potential healthcare applications through formulation research
 
-## Can native forests capture carbon like fast-growing exotics?
-New research challenges the assumption that biodiversity must be sacrificed for the sake of carbon capture
+## High-level committee on banking reforms ‘soon’: FM
 
-## SEBI simplifies mutual fund registration with single application form
-The move replaces the existing multi-stage process that required separate submissions for in-principle approval and final registration of a mutual fund.
 
-## TN Chief Minister announces full waiver of cooperative bank loans up to ₹75,000
-The additional crop loan waiver will impose a financial burden of ₹953 crore on the State government
+## Inflation will be an issue, may hike prices: Colgate
 
-## Top Business & Market Headlines Today — BL Morning Report, August 18, 2026
-BL Morning Report, August 18, 2026: Get today’s top business news, market headlines about key market insights, economic highlights, and the latest updates from India and global markets.
 
-## One in five Nifty 50 CEOs in the ₹50-crore pay club
-HCL Tech CEO highest paid in FY26; Asian Paints MD & CEO got highest increase in pay packet at 179 per cent
+## Crude prices cross $90 as ceasefire hopes dim, Hormuz disruption weighs on supply
+Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled a more offensive military approach, and the US rejected extending the ceasefire. Shipping through the Strait of Hormuz significantly decreased following recent attacks. Tensions also escalated in the Red Sea with Houthi 
+
+## Govt clears 31 electronics part projects worth 7,877cr
+
+
+## In a 1st for Indian AI co, Prisma issues 200cr bonds
+
+
+## CAS here to stay, it can be improved upon: Sebi
+
+
+## Today’s Tata Sons AGM likely to be adjourned; board meets mid-Sept
+
 
 ## Weak soil, trapped water likely behind Lucknow-Kanpur Expressway failures: Initial probe
 
 
-## Tata Power’s digital command centre for real-time monitoring of renewable energy assets
+## 25-yr-old man from Assam, linked to digital fraud worth 1,071 cr, arrested in Gujarat
+Police said the accused played a role in routing funds from cyber frauds across India and converting them into cryptocurrency for the foreign-based network
 
+## Member details, Aadhaar link likely: Delhi govt mulls creation of panel for family ID cards
+The initiative includes creating a centralized database governed by the Delhi Parivar Pehchan Act, 2026.
 
-## Tata Power, IIT Bombay ink long-term clean energy research pact
+## Twisha faced 'sustained psychological harm' from husband, mother-in-law: CBI chargesheet
+Twisha, 33, was found dead under suspicious circumstances at her marital home in Bhopal on May 12, just five months after her marriage to Samarth.
 
+## Bhopal minor’s murder: 5 held including 3 minors over alleged body parts plot
+Five people, including three minors, were arrested after a minor boy was allegedly killed as part of a plot to sell his body parts for money, police said.
 
-## HC directs FDA to pay sweets seller for not lifting suspension despite compliance
+## Delhi SIR deadline ends, nearly 1 in 2 Tughlakabad voters face deletion risk
+Only two constituencies have crossed 80% digitisation: Rohini in north-west district at 83.43% and Shakur Basti in central north at 81.26%.
 
+## Tamil Nadu CM Vijay apologises after minister mentions ex-CM Karunanidhi by name
+Tamil Nadu forest minister RV Ranjith Kumar's reference to the DMK stalwart as “Karunanidhi” sparked immediate objections from opposition DMK members.
 
-## 57 Trump officials worth at least $100 million: Donald dwarfs predecessors in ultra-rich appointments
-Trump, who is himself a billionaire, has portrayed his preference for appointing extremely wealthy individuals as recognition of financial achievement.
+## UP teen rescued in Delhi made to wait 7 hours as cops disputed jurisdiction
+Delhi's Child Welfare Committee took a “very serious view” of the handling of the girl’s case and issued show-cause notices to respective SHOs.
 
-## US stock market today: Wall Street near record highs; all eyes on corporate earnings, oil prices
-The rally that has carried Wall Street to record levels has been fuelled largely by strong corporate profits. Companies in the S&P 500 are expected to post roughly 50% growth in earnings per share for the spring quarter compared with the same period a year earlier, according to FactSet.
+## Fake MEA officials hold guests captive at Lucknow hotel, detained; 478 forged IDs recovered
+According to a complaint filed by hotel manager, the accused introduced themselves as senior MEA officials and said they wanted to inspect the premises.
 
-## ‘CAS here to stay’: Sebi chief Pandey says auction system won’t be rolled back, regulator open to feedbacks
-Sebi chairman Tuhin Kanta Pandey affirmed the continuation of the Closing Auction Session, emphasizing ongoing evaluations concerning market participants' worries and potential framework enhancements. He pointed out that as more participants engage with the new system, certain challenges may diminis
-
-## Russia faces fresh fuel shortages as refinery attacks disrupt supplies
-Fuel shortages have surged in multiple regions across Russia as recent drone attacks reignite supply issues. Authorities in no less than ten territories have reinstated limits on petrol sales, amplifying the strain on resources. This situation is worsened by a notable dip in wholesale gasoline sales
-
-## Skymet raises drought risk, cuts monsoon forecast to 85% of LPA
-Skymet forecasts monsoon rainfall at 85% of average, predicts a 70% chance of drought, citing strong El Niño's impact on Indian agriculture.
-
-## Black money in polls: Supreme Court orders 1-year probe deadline, special courts
-The court issued the directions while deciding an appeal arising from a 2015 Karnataka high court order that quashed an FIR against Prathik Parasrampuria
-
-## SKM to submit memorandum to MPs, seek push for change in Centre's 'corporate-centric' policy
-SKM to submit memorandum to MPs, seek push for change in Centre's 'corporate-centric' policy
-
-## 12 women, 6 minority leaders part of BJP's new national team under Nitin Nabin
-The BJP said the appointments ensure widespread representation, with voices included from 23 states and Union territories across the country.
-
-## Windows, CCTV being replaced: Repair work begins at school in Abhijeet Dipke's village amid 'School Thik Karo' campaign
-Abhijeet Dipke visited the school to kick off the 'School Thik Karo' campaign. There he inspected the campus and highlighted the issues.
-
-## Assam CM Himanta Sarma takes ‘pure naxal’ jibe at Chidambaram's 'proud to be dimagi naxal' remark
-PM Modi on Saturday had said that some ‘dimagi Naxals’ need to be identified and ‘isolated’. His remarks triggered an uproar in the Opposition.
-
-## 'Your fight will inspire many': CJP's Abhijeet Dipke congratulates Jharkhand students after govt accepts demands
-CJP founder Abhijeet Dipke congratulated the protesting students after the Jharkhand government accepting their demands on Monday
-
-## 'Became jobless instantly': JSSC-CGL aspirants who cleared exam slams Jharkhand decision
-“We joined through a fair process, so why is such a step being taken?" a protester said.
+## Even the rich in Hong Kong expect to work past retirement age, survey says
+Wealthy Hongkongers now invest in a way that shows they do not have a fixed retirement age in mind, as most of them expect to work longer than their parents, according to a survey. Some 58 per cent of high-net-worth individuals in Hong Kong expected to work beyond retirement age, with 32 per cent an
 
 ## China’s ‘national team’ ditches Kweichow Moutai in move that adds to valuation woes
 China’s state-backed funds are pulling out of Kweichow Moutai, adding to the woes of the nation’s biggest baijiu liquor maker whose stock has lost more than 40 per cent from its peak five years ago. Central Huijin Investment, a unit operated by China’s sovereign wealth fund, and China Securities Fin
@@ -134,9 +134,6 @@ China’s pharmaceutical contractors are showing financial resilience in the fac
 
 ## China’s first‑tier new home prices flat in July, ending 4‑month rebound
 New home prices in China’s four first-tier cities were flat on average in July from June, bringing an end to a four-month rebound, as analysts said month-on-month readings had weakened amid seasonal headwinds and an unusually rainy summer, further highlighting the urgency of stabilising the nation’s
-
-## China’s economy cools amid debate about risks of global crisis
-China’s retail sales growth trailed expectations, the pace of industrial output expansion slowed and a drop in investment worsened as its economy struggled to regain pace at the start of the second half of the year. July retail sales rose by 0.6 per cent, missing the 1.3 per cent expectation among e
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -162,6 +159,15 @@ Unlike other U.S. allies, Canberra is betting its entire strategic house on Pax 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
 
+## Trump’s Exercise Cut Risks Turning South Korea-US Alliance Readiness Into a Bargaining Chip
+A last-minute order to scale back Ulchi Freedom Shield may have a limited immediate military effect. Its deeper cost is the precedent.
+
+## Taiwan’s Urban Resilience Drills Are Becoming a Core Part of Deterrence
+The Han Kuang drills are a useful step, but it should lead to more measurable questions for Taiwan’s ability to weather a crisis.
+
+## Iran, Tajikistan Finalizing Fuel Export Agreement
+With Tajikistan's main supplier of oil, Russia, under pressure, Dushanbe has turned to another partner: Iran.
+
 ## Kazakhstan’s Kurultai Election Looms: Is This Old Wine in a New Bottle?
 The shape of the Kazakh legislature may have changed, but the politics of Kazakhstan have not necessarily been transformed.
 
@@ -176,15 +182,6 @@ The former prime minister defeated incumbent chair Jung Chung-rae 54.1 percent t
 
 ## India’s Collapsing Roads and Highways Dent Modi Government’s Image
 It has built dozens of expressways and highways at enormous cost. But these have not survived the stress test of even the season's first rains.
-
-## The Dilemma Facing Malaysia’s Democratic Action Party
-Until 2022, the DAP had spent six decades in opposition – but gaining a foothold in government has been a mixed blessing.
-
-## Extreme Heat Is Hurting South Asia’s Economies. Here’s How Much.
-Multiple reports highlight alarming loss of wages and work hours due to extreme heat.
-
-## The Thai Government’s Myanmar Gambit Could Backfire on ASEAN
-Bangkok's recent campaign of diplomatic outreach undermines the bloc's collective approach to the country's crisis.
 
 ## The Tension Between Collectivism and Individualism in Ukraine
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -234,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump says talking to North Korea’s Kim makes the south safer
+US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’
+
+## Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
+At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.
+
+## Vigil held in central London for late Cambridge professor Jason Arday
+Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
+
+## Zambia’s Hichilema wins second term as president
+Official results show Hichilema receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.
+
 ## Iran war live: Trump rejects MoU extension as US claims control of Hormuz
 US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.
 
@@ -245,18 +254,6 @@ A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid 
 
 ## ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
 Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.
-
-## Palestinian American reunites with family under siege in West Bank
-Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.
-
-## Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL
-UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.
-
-## Trump says Iran will not make the deal he believes is necessary
-Trump says Iran will not make the deal he believes is necessary
-
-## Trump loses second Supreme Court bid over E Jean Carroll sex abuse case
-E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
