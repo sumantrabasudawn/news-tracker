@@ -1,7 +1,16 @@
 # AION Intelligence
 
+## Global bond sell-off deepens amid fears over inflation and AI issuance
+Long-term government borrowing costs hit multi-decade highs
+
+## Labour has no good options on prisons
+Early release scheme comes with risks, but so does not imprisoning future offenders or releasing all women
+
+## UK pay weakness allays fears of second-round inflation effects
+Private sector regular pay continued to decline in ONS’s latest data
+
 ## UK employers shed jobs as labour market weakens further
-Official figures also show unemployment edged higher in second quarter
+Official figures also show unemployment slightly higher than forecasts
 
 ## FirstFT: Asian doubts over US resolve
 Also in today’s newsletter: TCI bets on Italian luxury hotels and Russia fires top economist
@@ -15,17 +24,14 @@ Credit (and rates) markets reel from rise and rise of hyperscaler issuance
 ## Seoul rattled by Trump’s threat to drills at heart of US alliance
 US president’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
 
+## Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%
+UK retail group pushes deeper into luxury sector
+
 ## Mark Walter’s empire of assets and liabilities
 A scandal engulfing the billionaire’s insurers has the private capital industry on alert
 
-## Trump’s cuts to South Korean drills stir doubts about US resolve in Asia
-Decision comes as Pentagon pulls ships from Indo-Pacific to Middle East and Iran war depletes weapons stockpiles
-
 ## UK examines economic hit from loss of access to frontier AI models
 Urgent assessment comes after Donald Trump blocked foreign national access to Anthropic’s Fable 5
-
-## Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%
-UK retail group pushes deeper into luxury sector
 
 ## Burger King is taking a bite out of McDonald’s lunch
 Fast food rival has invested roughly $2bn in its US business over the past four years
@@ -33,29 +39,32 @@ Fast food rival has invested roughly $2bn in its US business over the past four 
 ## Why eyewear stores are taking over London’s high streets
 Private equity-backed brands such as Cubitts, Ace & Tate and Jimmy Fairly compete for scale in financially alluring sector
 
-## UPI growth pushes banks to look beyond payments for revenue: McKinsey
-Unlike card payments, which generate transaction-linked revenues for financial institutions, instant payments can be harder to monetise directly
-
-## Sensex today | Stock Market Live: Sensex down 350 pts, Nifty hover around 24,200; Asian Paints, HCL Tech top losers
+## Sensex today | Stock Market Live: Sensex down 330 pts, Nifty hover around 24,200; Asian Paints, HCL Tech top losers
 Sensex, Nifty, Share Prices LIVE: Markets continued to trade in negative territory at midday on Tuesday, with the Nifty 50 slipping below the psychologically important 24,200 level and the Sensex extending losses as crude oil prices held firm and geopolitical tensions showed no signs of easing
 
-## Telangana aims to become clean energy hub: Deputy CM Bhatti Vikramarka
-Addressing industrialists, investors, innovators, scientists, CEOs and technology experts attending the summit, Bhatti extended an open invitation to businesses to invest in Telangana
+## India considers limited duty-free sugar imports to ease record prices, sources say
+Indian sugar ‌prices have ​risen to a record ⁠high and are expected to ‌remain elevated for at least the next three months
 
-## India’s gene-edited rice is ready for the fields: What you need to know
-Pusa Rice DST1 is set to enter commercial production in this upcoming rabi season. What has been edited, why does it matter and what are the concerns?
+## Profit growth at Nifty 50 firms hits 10-quarter high, boosts outlook
+Profit and revenue growth ‌was robust across sectors among the large-, mid- and small-caps in a quarter that Motilal ‌Oswal described as “picture perfect”, with oil marketing firms being the ‌sole ⁠weak spot
 
-## MCX plans India coal and ore exchanges to boost price discovery
-Sellers and buyers will be allowed to trade physical delivery contracts through centralized electronic platforms, creating a more transparent pricing system and improving supply chain efficiency
+## India's tanker exports surge over six-fold to $1.36 billion in Q1 FY27; UAE leads
+The data showed that export volumes also expanded significantly from 10 vessels to 23 vessels, reflecting increasing international demand for Indian-built tankers and marine transportation assets
 
-## Lower share of freshers in IT workforce will rise in the AI age: R Srikrishna, CEO, Hexaware
-Speaking to businessline, Srikrishna shares his expectations from newcomers entering the workforce and explains the rationale behind offering multiple pricing models to customers to encourage spending.
+## SC to set up high-powered panel to probe allegations of police excesses during NEET protest
+The court said that it would direct the handing over of video footage and CCTV recordings of the violence during the July 20 Parliament march in Delhi to the high-powered committee for examination
 
-## Inox Clean Energy completes ₹6,000-crore acquisition of GIP's Vena Energy India
-Following completion, Inox Clean's operating and near-operational portfolio is expected to reach about 4 GW, with a development pipeline exceeding 12 GW of solar and wind and 2.5 GWh of BESS
+## Prodigy Technovations Unveils Industry's First UFS 5.0 Protocol Exerciser and Analyzer to Power the AI-Driven Storage Era
+Prodigy Technovations Unveils Industry's First UFS 5.0 Protocol Exerciser and Analyzer to Power the AI-Driven Storage Era
 
-## Milky Mist Share Price & IPO Listing Live: Locked in upper circuit on NSE & BSE, after debuting at ₹165
-Milky Mist IPO listing today, Milky Mist share price live updates: Follow businessline for live updates
+## Foreigners find careers and a home in Taizhou
+Foreigners find careers and a home in Taizhou
+
+## ICICI Bank mops up $750 million by issuing bonds to overseas investors
+The bonds were raised through its IFSC banking unit at a coupon rate of 5.417 per cent, ICICI Bank said in a regulatory filing.
+
+## Rupee banknotes in circulation triple US dollar bills, nearly six times euro notes
+
 
 ## Northern Sea Route in focus: India eyes first cargo ship along Arctic Route to Russia - why it matters
 Located along Russia’s Arctic coastline, Arkhangelsk lies on the Northern Dvina River and serves as a major cargo centre connected to the Northern Sea Route. The NSR stretches about 5,600 km across Russia’s Arctic waters. Much of the route remains covered by thick ice for most of the year.
@@ -78,32 +87,29 @@ Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and K
 ## High-level committee on banking reforms ‘soon’: FM
 
 
-## Inflation will be an issue, may hike prices: Colgate
+## No safe harbour in case of child sexual abuse content, says govt in ‘hard talk’ with Meta: Report
+The government had a “hard talk” with Meta on child sexual abuse material and has clarified that circulation of such content is a clear violation.
 
+## ‘No difference between Jaish-e-Mohammed, Taliban, RSS’: Karnataka Congress chief
+Priyank Kharge criticized the BJP and RSS, saying Congress does not require validation of patriotism from groups lacking contributions to the freedom struggle.
+
+## Abhijeet Dipke calls for government school admission of ministers' kids: 'No trust in own work?'
+In a dig at government officials, Abhijeet Dipke asked why they don't enrol their children in government schools. "Do they not trust their own work?” he asked.
+
+## ‘Italian blood’: Kumaraswamy’s fresh attack on Sonia Gandhi escalates Vande Mataram row
+Speaking to reporters in Hassan on Monday, Kumaraswamy asked, 'Is Sonia Gandhi from our nation?'
+
+## Tamil Nadu CM Vijay makes online registration mandatory for first sale of plots, flats: What it means
+Tamil Nadu CM C Joseph Vijay has launched an initiative that makes online registration mandatory for the first sale of plots and flats in the state.
+
+## SC to set up high-powered panel to probe allegations of police excesses during NEET protest
+SC to set up high-powered panel to probe allegations of police excesses during NEET protest
 
 ## Mahua Moitra vs Bengal officials intensifies, TMC MP moves privilege notice over late-night eviction bid
 Moitra, who reached the Nadia Circuit House at 6.15 pm for an overnight stay, said she was asked to leave the official accommodation for MPs at 9.47 pm.
 
-## Union minister JP Nadda undergoes angioplasty; condition stable: AIIMS Delhi
-Last week, the Union minister was admitted to AIIMS Delhi after experiencing uneasiness, the hospital said on Friday
-
-## Uttarakhand inundated tunnel toll rises to 9 as rescue operations continue
-Chamoli district magistrate Gaurav Kumar said rescuers are conducting continuous and intensive searches within the tunnel
-
-## Two students die after allegedly eating momos, french fries at UP school
-According to the parents, the children had consumed momos and finger chips on Sunday evening, bought from a shop near Mahendra Chowk.
-
-## Bombay HC grants bail to one more convict in Narendra Dabholkar murder case
-The court also expressed serious doubts about the manner in which CBI got the accused identified by two witnesses
-
-## Madhya Pradesh: Investigators say NGO helped poach leopards to raise funds
-The probe into the seizure of 10 leopard skins in Uttar Pradesh’s Agra in July led investigators to the alleged NGO link
-
-## 'Could not be tolerated': DMK mouthpiece attacks Tamil Nadu CM Vijay, Trisha over I-day event
-The DMK criticised the fact that an actress was seated in the front row and exchanged salutes with the chief minister.
-
-## CM Shivakumar rejects TN's demand for CBI probe into killing of 'poachers'
-CM Shivakumar rejects TN's demand for CBI probe into killing of 'poachers'
+## Union minister JP Nadda undergoes angioplasty, condition stable: AIIMS Delhi
+The hospital issued an official press statement on Friday, announcing that JP Nadda underwent a coronary angiography after being admitted on Thursday.
 
 ## Chinese treasury futures launch cements Hong Kong as premier yuan hub
 When the Hong Kong stock exchange launched five-year China government bond futures on August 3, it did more than simply expand the city’s derivatives product suite. As the only China government bond futures in the offshore market, the contract deserves attention as it finally gives international inv
@@ -225,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Cincinnati Open: Williams sisters fall in doubles while Zverev advances
+Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.
+
+## Trump lashes out at CNN reporter over South Korea question
+Trump lashes out at CNN reporter over South Korea question
+
 ## Syrian court sentences Wassim al-Assad to death
 The former regime figure was found guilty of charges including premeditated murder and torture.
 
@@ -242,12 +254,6 @@ The Lakers governor is resisting attempts to sell family's minority share to new
 
 ## Palestine weekly: Global outcry fails to break West Bank siege
 Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.
-
-## Israel’s siege on Gaza is creating a breast cancer crisis
-Al Jazeera looks at the devastating impact that Israel's war and siege on Gaza are having on women with breast cancer.
-
-## Canada battles the clock, politics in scramble to avert Trump’s tariffs
-Canadian officials are making a last-ditch effort to negotiate a reprieve from 50-percent tariffs.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
