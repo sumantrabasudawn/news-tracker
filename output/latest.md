@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Andy Burnham hails shake-up of bus services in West Midlands
+Prime minister praises ‘single biggest act of public control’, even though routes will ultimately be run by private groups
+
 ## Government borrowing costs hit multi-decade highs
 Fears over inflation and AI issuance spur bond sell-off, weighing on stocks
 
@@ -11,9 +14,6 @@ Board member called out party leader last week for failing to appear at Clacton 
 
 ## Disney accuses Trump administration of cracking down on freedom of speech
 US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts
-
-## Andy Burnham hails shake-up of bus services in West Midlands
-Prime minister praises ‘single biggest act of public control’, even though routes will ultimately be run by private groups
 
 ## Signature Group founder banned as company director for five years
 Property group subsidiary ‘distributed false and misleading marketing material’ according to Insolvency Service
@@ -39,29 +39,29 @@ AI start-up overhauls its chatbot for young people after high-profile lawsuits
 ## AI phobia is America’s new consensus
 Trump is uncharacteristically deaf to voter fears over the technology
 
+## Railway ministry approves MRTS handover to TN government
+The handover is to take place within 90 days of execution
+
+## Small/mid-size firms lag as India Inc nears DPDP implementation phase
+Govt sources assert there will be no extension of deadline for implementation of DPDP, even as companies await establishment of Data Protection Board
+
 ## EV ecosystem rapidly expanding in Uttar Pradesh, Karnataka & Telangana
 Power consumption by EV public charging stations across India rose to 1,558.69 million units in FY26
 
+## Tata Sons’ AGM adjourned for first time ever over quorum issue
+A key shareholder, Sir Ratan Tata Trusts, faces curbs on holding meetings
+
+## Meta more cautious about child sexual abuse material after government’s message in recent meeting: Govt sources
+MeitY sources said any social media platform “has to follow” law of the land
+
+## Augmont in talks with 8 MFs for gold, silver ETF liquidity ahead of ₹825 crore IPO
+The IPO-bound company will deposit bullion in the authorised vaults of MFs as per its instructions to generate ETF units for trading on the stock exchanges
+
+## Deeper bond with pets, rising vet bills fuel demand for pet insurance
+Insurers report growing interest in pet insurance due to increased awareness of veterinary care, rising treatment costs, and changing lifestyles, especially among nuclear families and DINK households
+
 ## L&T Finance expects gold loan biz to contribute over 10% to total loan book in next 5 years
 In order to scale up the gold loan business, the NBFC is planning to set up at least 500 new branches each year till 2031
-
-## CCI approves Tata Steel's proposal to acquire additional 23% stake in TMILL
-Following the proposed acquisition, Tata Steel will become the majority stakeholder and IQ Martrade will exit from the JV entity
-
-## DeepTech funding hits record high
-
-
-## Satcom witnessing remarkable phase of technological evolution: Experts
-According to BIF, India has a digital connectivity opportunity worth Rs. ₹1 lakh crore at a conservative estimate, which can be largely achieved through Satcom services.
-
-## SMEs lag as corporate India moves into DPDP implementation phase
-Govt sources assert there will be no extension of deadline for implementation of DPDP, even as companies await establishment of Data Protection Board
-
-## Invesco MF launches India Pharma and Healthcare NFO
-The fund aims to tap India’s evolving healthcare ecosystem, which is being shaped by favourable demographics, expanding healthcare access and rising insurance penetration
-
-## Bengaluru ORR firms push back against WFH plan, seek delay in ₹450-crore white-topping
-In a letter to the GBA, ORRCA warned that starting major carriageway works before Metro construction is finished could worsen congestion in the corridor
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
@@ -87,29 +87,29 @@ On August 19, banks across Tripura will be closed in observance of a regional ho
 ## Why India is considering sugar imports as prices hit record levels
 India is considering limited duty-free sugar imports and tighter stock limits. These measures aim to boost domestic supplies and control record high sugar prices. Wholesale sugar prices have climbed nearly twenty percent since early August. Festival season demand typically increases sweetener consum
 
+## Lata Mangeshkar's Vande Mataram played at Thane event, deputy CM Shinde calls out gaffe
+Maharashtra deputy chief minister Eknath Shinde urged event organisers to strictly ensure that the official version of ‘Vande Mataram’ is played.
+
+## FSSAI notice impact: Dabur, Ferns N Petals, four other firms rectify mistakes
+FSSAI informed the public about the 'corrective action taken by FBOs (food business operators) post notices issued by the regulator.
+
 ## Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again'
-Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again'
+Arvind Kejriwal's reaction came as Satyender Jain was arrested on Tuesday over alleged corruption in Delhi Jal Board tenders.
 
 ## Pilots body calls for making oral fluid testing complementary under drug testing framework
 In a submission to the DGCA, FIP has also sought to increase pilots' random drug testing to 25 per cent from the existing 10 per cent.
 
-## Goa govt moves Supreme Court seeking tougher sentence for Tarun Tejpal in 2013 rape case: Report
+## Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case
 Tarun Tejpal had earlier called his conviction "wrong", saying that he will appeal against the order in the Supreme Court.
 
 ## 55 kg meth worth ₹300 crore seized from maize consignment near Mumbai port
 The shipment, seized near Nhava Sheva, was allegedly linked to a Pakistan-based narco-trafficking syndicate led by Mohammad Hussain Dad.
 
 ## India invokes reciprocity in Bangladesh ties amid Hasina extradition demand
-External affairs ministry spokesperson Randhir Jaiswal outlined India’s position on the matter at a regular media briefing in
+External affairs ministry spokesperson Randhir Jaiswal outlined India’s position on the matter at a regular media briefing.
 
 ## Satyendar Jain, AAP leader and ex-Delhi minister, arrested over alleged corruption in Jal Board tenders
 Apart from SatyenderJain, who was then the minister of water, five others have also been arrested.
-
-## Odisha court acquits Maoist leader Azad in 2008 Swami Laxmanananda murder case
-Rao has been in judicial custody in a Bhubaneswar jail since his arrest by Odisha Police in 2010. HT has reviewed the judgement
-
-## More than 50% Cong tickets for Rajasthan local body polls should be given to Gen-Z: Ashok Gehlot
-The former Rajasthan chief minister said tickets should be distributed strictly on the basis of merit and ground-level feedback.
 
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran prepares to keep economy alive as US threatens further sanctions
+Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.
+
+## Disney sues US regulator, claiming political retaliation over ABC stations
+FCC faces scrutiny as Disney claims licence renewal order is tied to political motives against ABC's coverage.
+
 ## Real Madrid officially present Mourinho in bizarre closed-door ceremony
 Jose Mourinho makes first official Real Madrid statements since returning as manager in unusually low-key ceremony.
 
@@ -248,12 +254,6 @@ Following the start of the US-Israel war on Iran, the first match of the Iranian
 
 ## US cites India on voter IDs, but are elections under Modi clean?
 Trump highlights India's voter ID rules to bolster his case for stricter US election laws.
-
-## Why is Russia threatening UK with ‘consequences’ over Ukraine drones?
-Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.
-
-## Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming
-Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
