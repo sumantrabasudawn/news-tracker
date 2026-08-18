@@ -1,72 +1,72 @@
 # AION Intelligence
 
-## How a pesky Jordan copycat dribbled around Nike in China
-Qiaodan has gone from a minor irritant to a sophisticated operator nibbling away at Nike in its biggest overseas market
+## Seoul rattled by Trump’s threat to drills at heart of US alliance
+US president’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
 
-## Can Tata Sons untangle its many knots?
-Also in this newsletter, the agri-export problem
+## Mark Walter’s empire of assets and liabilities
+A scandal engulfing the billionaire’s insurers has the private capital industry on alert
 
-## BHP’s copper profits outstrip iron ore for first time
-Annual earnings surge to $33bn, driven by booming demand for data centres and energy networks
+## Trump’s cuts to South Korean drills stir doubts about US resolve in Asia
+Decision comes as Pentagon pulls ships from Indo-Pacific to Middle East and Iran war depletes weapons stockpiles
 
-## Nvidia pledges $100bn backing for OpenAI data centre in Ohio
-Chipmaker also invests $1.5bn into energy company founded as part of SoftBank Group
+## UK examines economic hit from loss of access to frontier AI models
+Urgent assessment comes after Donald Trump blocked foreign national access to Anthropic’s Fable 5
 
-## Kushner holds talks with Netanyahu after meeting Hamas leader
-Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza
+## Burnham faces EU clash over youth scheme as summit looms
+Ireland’s European affairs minister says ‘a lot of work still to do’
 
-## US pauses construction of border wall through national park in Texas
-Bulldozers had been dispatched to remote beauty spot as part of Trump’s immigration crackdown
+## Top UK civil servant received record £500,000 payout after Starmer sacking
+Sudden circumstances of Chris Wormald’s exit led to a much more generous settlement than initially thought
 
-## FirstFT: Trump’s eleventh-hour demand to reduce drills rattles Seoul
-Also in today’s newsletter: China’s investment slump deepens and Kushner holds talks with Netanyahu
+## The difficult truth about Jason Arday
+From the beginning, investigations were accompanied by a cloud of excessive references to his race
 
-## Mark Carney in last-ditch effort to avoid Trump’s latest tariffs
-Canadian prime minister plans call with US president before a Wednesday deadline for levies on $20bn of trade
+## Burger King is taking a bite out of McDonald’s lunch
+Fast food rival has invested roughly $2bn in its US business over the past four years
 
-## Ferrari’s first EV auctioned off for record $40mn
-The Luce’s sale price makes it the most expensive new car despite design backlash
+## Why eyewear stores are taking over London’s high streets
+Private equity-backed brands such as Cubitts, Ace & Tate and Jimmy Fairly compete for scale in financially alluring sector
 
-## The UK is going the wrong way about protecting pubs
-Government measures do little to support bars’ underlying business case
+## Can canned cocktails revive the booze business?
+Young customers are flocking to ‘ready-to-drink’ beverages as other alcohol sales slump
 
-## ExxonMobil advances Mozambique gas project despite terrorist threat
-Rovuma LNG plant expected to cost $30bn
+## AI hasn’t gone rogue. It’s worse than that
+Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
 
-## Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake
-Negotiations come amid clashes over strategy and as Walter’s business empire faces scrutiny from regulators
+## Counterfeiting claims threaten to take the shine off Shein
+The company has been targeted in more than 100 copyright lawsuits in US courts since the start of 2023
 
-## Russia fires economist over Ukraine war warning
-Andrei Klepach dismissed after bleak remarks about economic toll of conflict
+## Chris Hohn’s hedge fund bets on Italian luxury hotels
+Billionaire stockpicker has stakes in loans to landmark properties in Venice, Capri, Lake Como and Milan
 
-## Colgate hands Palmolive’s online business to Bombay Shaving Company to crack D2C playbook
-Colgate-Palmolive India is combining Bombay Shaving Company’s digital-first capabilities with its own product, supply-chain and marketing muscle to give Palmolive a fresh growth push, after acknowledging that the personal-care business has been a disappointment
+## Sensex today | Stock Market Live: Sensex down 250 pts in early trade, Nifty below 24,250; Infosys, IndiGo top losers
+Sensex, Nifty, Share Prices LIVE: Markets opened in the red on Tuesday, August 18, extending a five-session losing streak as surging crude oil prices and the collapse of the U.S.-Iran ceasefire kept investor sentiment under pressure
 
-## Sensex today | Stock Market Live: Markets may open flat to negative note amid mixed global cues
-Sensex, Nifty, Share Prices LIVE: Indian stocks are expected to open on a flat to negative note on Tuesday amid mixed global cues
+## Crude oil rises on reports of Iran adopting more offensive stance
+At 9.41 am on Tuesday, October Brent oil futures were at $91.56, up by 0.76%, and October crude oil futures on WTI (West Texas Intermediate) were at $84.50, up by 0.91%
 
-## Gold extends gains on easing rate-hike fears, markets await Fed minutes
-Spot gold was up 0.2% at $4,424.28 per ounce ‌by 0130 GMT, while US gold futures for December ‌delivery ⁠edged 0.2% higher to $4,480.90
+## Horizon Industrial Parks IPO Day 1: Subscribed 14x so far
+The industrial and logistics park developer is seeking funds mainly for debt repayment, while investors weigh its growth prospects and valuation.
 
-## Sunshine Pictures launches IPO today at ₹342-360
-As much as 50% of the net issue is reserved for qualified institutional buyers (QIBs), while 15% is reserved for non-institutional investors (NIIs). Retail investors have been offered 35% of the net issue
+## Indian lenders’ dollar bond sales hit record near $9 billion
+The deals have gathered pace since the RBI in early June announced the concessional foreign-exchange swap facility for banks and state-run firms to shore up a weakening rupee, boosting domestic liquidity and supporting credit growth
 
-## Shankesh Jewellers IPO opens today at ₹88-93
-SBI Securities remains Neutral while Anand Rathi gives Subscribe; Anchor investors pick up ₹110.15 crore; listing scheduled for August 25
+## Nifty slips for fifth straight session as crude spike, Iran fears rattle Dalal Street
+Sensex was trading at 77,465.70, down 262.46 points or 0.34%; Nifty 50 opened at 24,223.85 and was trading at 24,237.75, down 49.90 points or 0.21%
 
-## Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman
-US rules out extending 60-day interim agreement as Hormuz shipping talks continue
+## Stocks fall, oil gains on West Asia uncertainty: Markets wrap
+Equity-index futures pointed to declines in Sydney, Tokyo and Hong Kong on Tuesday, while South Korean markets were set to reopen after a holiday
 
-## upGrad Crosses ₹2,000 Cr Gross Revenue in FY26; Grows EBITDA 8X to 123 Cr
-upGrad Crosses ₹2,000 Cr Gross Revenue in FY26; Grows EBITDA 8X to 123 Cr
+## Rising oil, US yields add to rupee pressure after RBI move
+The rupee is expected to open in the 95.68 to 95.72 range, traders ‌said, after settling at 95.6025 to the dollar on Monday
 
-## Oil rises as Iran signals offensive stance, US rules out ceasefire extension
-Brent at $91.14; Hormuz tanker traffic remains a trickle amid supply-risk concerns
+## India's CAD may widen in FY27, but capital flows may support Rupee in H2: Report
+The private lender noted in its report that India's goods deficit widened sharply to $85.7 billion in Q1 FY27 from $68.9 billion a year ago
 
 ## Top stocks to buy today: Stock market recommendations for August 18, 2026 - check list
 Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and Kfin Technologies are the top stocks to buy that Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has recommended for August 18, 2026:
 
-## Stock Market Today Live Updates: BSE Sensex and NSE Nifty50 headed for crucial session as crude soars past $90 per barrel again
+## Stock market today: BSE Sensex tumbles 200 points, NSE Nifty50 opens below 24,250
 
 
 ## High-level committee on banking reforms ‘soon’: FM
@@ -87,29 +87,32 @@ Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled 
 ## CAS here to stay, it can be improved upon: Sebi
 
 
+## 'Goli kahaan chali hai?': Rijiju says no one was harmed during CJP-led student protest, praises Delhi Police
+Kiren Rijiju also praised the Delhi Police for managing the protests despite some “criminals” joining the agitation under the guise of being students.
+
+## UGC-NET Row: NTA removes over 50 staff, fills 10 new leadership roles
+The move comes a day after the NTA on Sunday announced a re-exam for UGC NET papers after a panel constituted by NTA found errors in the question papers.
+
+## 8 labourers killed in MP as their pick-up loses control while trying to save cattle, collides with truck
+The accident occurred while they were returning home after working in Gwalior, with preliminary reports indicating the driver lost control avoiding cattle.
+
+## Ex-Ram Temple official Champat Rai gets clean chit in donation theft case weeks after resignation
+The SIT also cleared the name of former trustee Anil Mishra. A second SIT is continuing its probe into the case.
+
+## AK-47 use during protest did not result in injury, Bihar govt tells Supreme Court
+The cop responsible for the use of the AK-47 rifle has since been placed under suspension by the Bihar government for “undesire conduct”.
+
+## Why Shehzad Poonawalla quit BJP: ‘Planning since 2024. It was either my job or…'
+Shehzad Poonawalla says the post of party spokesperson does not carry a salary because it is a voluntary position.
+
+## Dimagi Naxal Party's Instagram account temporarily restricted after blowing up on platform
+Created after PM Modi used the term “dimagi Naxals” in his Independence Day speech, the account said two posts were removed under legal requirements.
+
 ## Woman SI, journalist and two others held for abducting Odisha businessman
 A woman police sub-inspector and a journalist were among four arrested for allegedly kidnapping a businessman, assaulting him and demanding ₹50 lakh ransom
 
-## DMK stages walkout from House after row over 19-year-old’s murder
-Leader of Opposition in the Tamil Nadu assembly Udhayanidhi Stalin on Monday led the Dravida Munnetra Kazhagam (DMK) in a walkout after an intense exchange with the state government on the alleged lynching of a 19-year-old engineering student in Coimbatore on August 10
-
-## TTD begins total overhaul of accounting, fiscal management systems, say officials
-The Tirumala Tirupati Devasthanams (TTD), which administers the Lord Venkateshwara temple in Tirumala in Tirupati district has begun the exercise an overhaul its accounting and financial management systems, people familiar with the matter said
-
-## SIT probe into ghee procurement case going in right direction: Kerala HC
-The Kerala high court on Monday said that the SIT probe into the ghee misappropriation case at the Sabarimala temple was proceeding in the proper direction
-
-## 7.3 million names not included in Telangana draft rolls
-As many as 7
-
-## Comply with Cauvery water release order: SC
-New Delhi: The Supreme Court on Monday directed Karnataka to ensure compliance with the Cauvery Water Management Authority’s (CWMA) directions on releasing water to Tamil Nadu, while deciding to wait another week to assess whether the state continues to honour the water-sharing order, noting that Ta
-
-## Vijay unveils full waiver of crop loans up to ₹75k to TN farmers
-Tamil Nadu chief minister C Joseph Vijay on Monday announced a full waiver on cooperative crop loans up to ₹75,000 distributed among the state’s farmers
-
-## Oppn disrupts Assembly over demand for minister’s removal
-Bengaluru The Bharatiya Janata Party (BJP) and the Janata Dal (Secular) disrupted proceedings in both Houses of the Karnataka legislature on Monday demanding the dismissal of minister B Nagendra, over his alleged involvement in the multi crore rupee embezzlement matter in the Karnataka Maharishi Val
+## China’s five-year plan for its oil and gas sector
+China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
 
 ## Several US billionaire investors reshuffle their Chinese technology stocks amid AI boom
 Some of Wall Street’s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in Baidu. Druckenmiller, an investor known f
@@ -131,9 +134,6 @@ Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Ch
 
 ## Billionaire Geely Auto head Li Shufu steps down as profit slips
 Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker. Li, the 63-year-old founder of the automotive group, announced his resignation just after 
-
-## China’s pharma contractors rally as US supply chain pressures face industry resistance
-China’s pharmaceutical contractors are showing financial resilience in the face of Washington’s push to curb reliance on Chinese supply chains. Analysts said investors were bullish because the US government’s recent measures to curb Beijing’s rise as a global pharmaceutical supplier had met resistan
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -231,10 +231,13 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Hichilema wins second second term as president of copper-rich Zambia
+Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.
+
 ## Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
 Mourners blame relentless and 'racist' media scrutiny for former Cambridge University professor's death.
 
-## Two killed as gunman opens fire at Philippines high school, official says
+## Two killed as student opens fire at Philippines high school, officials say
 Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
 
 ## Trump says talking to North Korea’s Kim makes the south safer
@@ -246,14 +249,11 @@ At least 20 injured and dozens of fuel tankers destroyed as flames rip through w
 ## Vigil held in central London for late Cambridge professor Jason Arday
 Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
 
-## Zambia’s Hichilema wins second term as president
-Official results show Hichilema receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.
+## Zambia’s President Hakainde Hichilema wins second term
+Official results show incumbent receiving about 61 percent of votes, compared with ⁠38 percent for his main challenger.
 
 ## Iran war live: Trump rejects MoU extension as US claims control of Hormuz
 US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.
-
-## ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says
-Trump's son-in-law and envoy says US will not 'restrict Israel's right to defend itself' as strikes on Gaza continue.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
