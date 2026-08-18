@@ -126,6 +126,9 @@ Chinese commercial banks recorded a rare, modest uptick in net interest margin (
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
 
+## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
+London vows to continue aiding Ukraine’s war effort.
+
 ## China’s Leaders Go on a Summer Retreat
 Under Xi, the once-collective gathering has become something else.
 
@@ -146,9 +149,6 @@ The United States scales back joint military drills with Seoul to appease Pyongy
 
 ## Canada Is Exploiting Migrant Agricultural Workers
 Caribbean laborers report rat-infested rooms and abusive bosses.
-
-## Has Turkey Really Resolved Its Kurdish Question?
-Aliza Marcus’s “Resurgence and Revolution” sheds light on the past and future of the Kurdish cause.
 
 ## South Korea’s Nuclear Dilemma
 The debate over acquiring nuclear weapons continues in Seoul.
@@ -222,6 +222,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Bolivia arrests political adviser to Latin American right-wingers
+Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.
+
 ## Trump administration moves to end rule protecting swaths of forest land
 US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
 
@@ -242,9 +245,6 @@ The strike comes as efforts to push an agreement aimed at ending hostilities rem
 
 ## WHO: Ebola can be contained in months if enough funding is provided
 The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.
-
-## Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant
-Concern over the security of Europe's largest nuclear plant has been rife since Russia launched its full-scale war.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
