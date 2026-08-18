@@ -39,6 +39,9 @@ AI start-up overhauls its chatbot for young people after high-profile lawsuits
 ## AI phobia is America’s new consensus
 Trump is uncharacteristically deaf to voter fears over the technology
 
+## Tata Sons’ AGM adjourned for first time ever over quorum issue
+A key shareholder, Sir Ratan Tata Trusts, faces curbs on holding meetings
+
 ## Railway ministry approves MRTS handover to TN government
 The handover is to take place within 90 days of execution
 
@@ -47,9 +50,6 @@ Govt sources assert there will be no extension of deadline for implementation of
 
 ## EV ecosystem rapidly expanding in Uttar Pradesh, Karnataka & Telangana
 Power consumption by EV public charging stations across India rose to 1,558.69 million units in FY26
-
-## Tata Sons’ AGM adjourned for first time ever over quorum issue
-A key shareholder, Sir Ratan Tata Trusts, faces curbs on holding meetings
 
 ## Meta more cautious about child sexual abuse material after government’s message in recent meeting: Govt sources
 MeitY sources said any social media platform “has to follow” law of the land
@@ -87,6 +87,12 @@ On August 19, banks across Tripura will be closed in observance of a regional ho
 ## Why India is considering sugar imports as prices hit record levels
 India is considering limited duty-free sugar imports and tighter stock limits. These measures aim to boost domestic supplies and control record high sugar prices. Wholesale sugar prices have climbed nearly twenty percent since early August. Festival season demand typically increases sweetener consum
 
+## Legacy vs ‘not for luxury’: War of words in Tamil Nadu assembly over ' ₹5.54-crore' tender to shift CM Vijay's office
+TVK minister Aadhav Arjuna said that the decision to shift CM Vijay's office was simply due to lack of basic amenities in the current building.
+
+## Naga peace activist Niketu Iralu passes away at 91
+Niketu Iralu spent decades building trust across political and ethnic divisions in the region
+
 ## Lata Mangeshkar's Vande Mataram played at Thane event, deputy CM Shinde calls out gaffe
 Maharashtra deputy chief minister Eknath Shinde urged event organisers to strictly ensure that the official version of ‘Vande Mataram’ is played.
 
@@ -104,12 +110,6 @@ Tarun Tejpal had earlier called his conviction "wrong", saying that he will appe
 
 ## 55 kg meth worth ₹300 crore seized from maize consignment near Mumbai port
 The shipment, seized near Nhava Sheva, was allegedly linked to a Pakistan-based narco-trafficking syndicate led by Mohammad Hussain Dad.
-
-## India invokes reciprocity in Bangladesh ties amid Hasina extradition demand
-External affairs ministry spokesperson Randhir Jaiswal outlined India’s position on the matter at a regular media briefing.
-
-## Satyendar Jain, AAP leader and ex-Delhi minister, arrested over alleged corruption in Jal Board tenders
-Apart from SatyenderJain, who was then the minister of water, five others have also been arrested.
 
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
@@ -159,29 +159,29 @@ Beijing is systematically countering U.S. and European sanctions efforts by expa
 ## The Top 10 Ways Trump Has Made America Weaker
 He’s been one of the most consequential presidents in U.S. history—in all the wrong ways.
 
+## South Korea’s Nuclear Dilemma
+The debate over acquiring nuclear weapons continues in Seoul.
+
+## Kyrgyzstan Liquidates More Companies Over Sanctions Risks
+19 more companies have been ordered to close down, and more than 140 have been cut off by their state-owned banking partners.
+
+## Exercise Rotor Clap III and Mission Sudarshan Chakra: Options for Pakistan
+India is trying to establish a defensive shield against airborne objects, from drones to missiles.
+
+## 6 Reasons Why Kim Jong Un Might Want to Meet With Trump
+Kim is in a stronger position today than he was during his summit diplomacy with Trump in 2018 and 2019. But that doesn't mean he has nothing to gain from a meeting.
+
+## China’s Male Matchmakers and the End of ‘Marrying Up’
+A new wave of matchmaking influencers explicitly treats marriage as a business transaction – and they brutally judge clients’ prospects accordingly.
+
+## Al-Qaida’s Renewed Confidence in Bangladesh
+Its network is growing, albeit slowly. But this is unlikely to manifest in mass casualty attacks.
+
+## Cambodia: From Scam Empire to Security State
+War with Thailand pushed Cambodia to enact a sweeping scam crackdown. Now the ruling elite is leveraging the same crackdown to consolidate its political control.
+
 ## Daughter of Former Cambodian Opposition Leader Appointed ‘Special Envoy’ to PM
 Kem Monovithya's appointment comes three months after her father Kem Sokha received a royal pardon quashing a 27-year sentence for treason.
-
-## Is Vietnam’s Energy Transition Entering a New Phase?
-The country has so far outpaced most of its regional peers when it comes to the production of renewable energy.
-
-## How Southeast Asia and the Gulf Can Shape the Future of AI
-Neither region can compete directly with China and the United States, but together they have the potential to show how middle powers can shape the AI economy.
-
-## Myanmar’s President Min Aung Hlaing Set For Possible State Visit to Cambodia
-The trip would be the former general's sixth, and third to an ASEAN member state, since his appointment as president in April.
-
-## Trump’s Exercise Cut Risks Turning South Korea-US Alliance Readiness Into a Bargaining Chip
-A last-minute order to scale back Ulchi Freedom Shield may have a limited immediate military effect. Its deeper cost is the precedent.
-
-## Taiwan’s Urban Resilience Drills Are Becoming a Core Part of Deterrence
-The Han Kuang drills are a useful step, but it should lead to more measurable questions for Taiwan’s ability to weather a crisis.
-
-## Iran, Tajikistan Finalizing Fuel Export Agreement
-With Tajikistan's main supplier of oil, Russia, under pressure, Dushanbe has turned to another partner: Iran.
-
-## Kazakhstan’s Kurultai Election Looms: Is This Old Wine in a New Bottle?
-The shape of the Kazakh legislature may have changed, but the politics of Kazakhstan have not necessarily been transformed.
 
 ## AI and the Risks of Tearing Down an Old System
 Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the op
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The British state has recast protest as terrorism
+Britain’s ever-broader terrorism laws are erasing the line between political violence, protest and dissent.
+
+## Tropical Storm Lala leaves Hawaii flooded and without power
+Tropical Storm Lala leaves Hawaii flooded and without power
+
 ## Iran prepares to keep economy alive as US threatens further sanctions
 Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.
 
@@ -248,12 +254,6 @@ Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.
 
 ## “I fear for my family’s lives” says Loui Ridi as settlers besiege home
 Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged.
-
-## Iran clubs face Qatar and UAE sides at neutral venues in Champions League
-Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.
-
-## US cites India on voter IDs, but are elections under Modi clean?
-Trump highlights India's voter ID rules to bolster his case for stricter US election laws.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
