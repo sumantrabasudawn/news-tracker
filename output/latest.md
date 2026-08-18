@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Reform UK suspends Tory defector Tim Montgomerie after criticism of Nigel Farage
+Board member called out party leader last week for failing to appear at Clacton by-election count
+
+## The Treasury can’t avoid the BoE’s losses
+Suspending cash transfers to the central bank will not alleviate UK fiscal pressures
+
 ## OpenAI limits teens to dedicated version of ChatGPT promising more safeguards
 AI start-up overhauls its chatbot for young people after high-profile lawsuits
 
@@ -18,14 +24,11 @@ Ministry of Defence says it stands ‘shoulder to shoulder’ with Kyiv after Ru
 ## Labour has no good options on prisons
 Early release scheme comes with risks, but so does not imprisoning future offenders or releasing all women
 
-## UK pay weakness allays fears of second-round inflation effects
-Private sector regular pay continued to decline in ONS’s latest data
+## Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%
+UK retail group pushes deeper into luxury sector
 
 ## UK employers shed jobs as labour market weakens further
 Official figures also show unemployment slightly higher than forecasts
-
-## Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%
-UK retail group pushes deeper into luxury sector
 
 ## AI: like a debt machine
 Credit (and rates) markets reel from rise and rise of hyperscaler issuance
@@ -36,29 +39,32 @@ A scandal engulfing the billionaire’s insurers has the private capital industr
 ## UK examines economic hit from loss of access to frontier AI models
 Urgent assessment comes after Donald Trump blocked foreign national access to Anthropic’s Fable 5
 
-## Biocon arm gets supplemental USFDA approval for autoimmune disease drug
-This new delivery format supports more tailored treatment approaches across different care settings and patient needs
+## Swiggy announces expanded leadership roles for 3 senior executives
+Himavant Kurnala is now Chief Growth and Product Officer, Nitesh Garg is Chief Technology Officer, and Saurav Goyal is Chief Operating Officer of Instamart’s Food Marketplace
 
 ## Tata Sons AGM adjourned due to lack of quorum
-The meeting had to be adjourned because Sir Dorabji Tata Trust and Sir Ratan Tata Trust, which jointly nominate a representative, could not be present
+The lack of nominee representatives from Sir Ratan Tata Trust and Sir Dorabji Tata Trust caused a quorum issue, leading to the first AGM adjournment in over a century
 
-## ASK Property Fund books ₹340 crore exit from Chennai housing project
-The fund, which is the real estate private equity arm of the Blackstone-backed ASK Asset & Wealth Management Group, had deployed the capital into the project in 2023
+## Tamil Nadu plans maritime and waterways master plan to strengthen port connectivity
+The Board is responsible for the administration, management and development of Minor Ports in the State.
 
-## Realty firms, PE funds commit ₹13K crore investment since 2025 to build senior living homes: Colliers
-“Over ₹13,000 crore in investments announced since 2025 are expected for senior living projects in the next 3-4 years,” said Colliers
+## Hero Future Energies bags 120 MW FDRE RTC capacity under SECI tender
+The project will be developed under a Power Purchase Agreement with SECI and is expected to be commissioned within 24 months of the PPA execution
 
-## Blackstone-backed Horizon Industrial Parks opens today at ₹57-60
-Market lot is 250 shares; company raised ₹1,167.75 crore
+## From home kitchens to food entrepreneurs: J&K women find new livelihoods
+The initiative is designed to help women’s SHGs move into food-based enterprises
 
-## Cash demand stays strong despite digital payments boom, says RBI Deputy Governor Murmu
-Addressing central bankers from across the world, Murmu noted that currency in circulation continues to grow at double-digit rates despite a decline in cash’s share of individual transactions due to increasing digital payment adoption.
+## BSE shares slide as analysts turn bearish ahead of Nifty 50 entry
+BSE’s 52-week range is ₹2,021.50 to ₹4,446.80; The stock has gained about 33% in the past year but dropped over 8% in the last week due to a reassessment of its near-term earnings
 
-## ICICI Bank stock slips 0.45% as bank prices $750 million bond issue
-The bank’s IFSC Banking Unit priced five-year Senior Unsecured Fixed Rate Notes at a 5.417% coupon early Tuesday under its $7.5 billion Global Medium Term Note Programme
+## 2026 TME Chinese Music Impact Summit Held: Music IP and New Growth Paths for the Industry in the AI Era
+2026 TME Chinese Music Impact Summit Held: Music IP and New Growth Paths for the Industry in the AI Era
 
-## India's semiconductor ecosystem set for expansion, 5-6 projects may go live by 2026-end: MeitY Secy S Krishnan
-Semicon India 2026 is expected to draw more than 240 international companies, over 150 globally renowned speakers, delegations from more than 40 countries and six country-specific pavilions
+## SPJIMR revamps its PGPDM curriculum and programme to create greater impact in the social sector
+SPJIMR revamps its PGPDM curriculum and programme to create greater impact in the social sector
+
+## India's chip story enters next phase: 5-6 semiconductor projects may go commercial by end of 2026
+By late 2026, India is poised to launch five to six semiconductor projects into commercial production. The second phase of the India Semiconductor Mission aims to expand its reach significantly, focusing on chip design, manufacturing, and advanced research. Moreover, the government emphasizes buildi
 
 ## Banks closed tomorrow: Why branches will remain shut in Tripura on August 19
 On August 19, banks across Tripura will be closed in observance of a regional holiday. Other states will also experience bank holidays later this month to honor various festivals. While branch operations will be halted, digital banking services will continue to function normally. Customers should ad
@@ -81,8 +87,23 @@ Spot gold extended its weekly winning streak to the second straight week in the 
 ## Rupee slips 7 paise against US dollar as crude soars beyond $90 per barrel levels
 On Tuesday morning, the Indian rupee experienced a drop against the US dollar, influenced by rising crude oil prices and persistent demand for dollars. Brent crude futures remained above ninety-one dollars per barrel, amplifying the necessity for dollars. Compounding this issue was the Reserve Bank'
 
-## Top stocks to buy today: Stock market recommendations for August 18, 2026 - check list
-Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and Kfin Technologies are the top stocks to buy that Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has recommended for August 18, 2026:
+## Bodies of 2 missing workers recovered from Chamoli tunnel, toll rises to 10: Official
+Chamoli district magistrate Gaurav Kumar said the search operation was completed after the recovery of the two missing workers
+
+## Chhattisgarh couple found hacked to death at home; son is prime suspect: Police
+The murder came to light on Monday morning when their younger son, Mohan, turned up and found the door locked from outside
+
+## Woman, 61, dies as 200-yr-old Kolkata building portion collapses; 18 rescued
+Teams from West Bengal fire services department, state disaster management department and the National Disaster Response Force rushed to the scene
+
+## TMC's Ritabrata Banerjee to remain Leader of Opposition in Bengal Assembly for now: Calcutta HC
+TMC's Ritabrata Banerjee to remain Leader of Opposition in Bengal Assembly for now: Calcutta HC
+
+## Pune boy, 11, dies under truck wheels after bike skids on broken road; CCTV captures crash
+The CCTV footage shows the motorcycle skidding on a broken stretch of road before the boy came under the truck.
+
+## Pakistan army reviews Operation Sindoor docuseries with anti-India rhetoric: ‘Highly dramatised, preferred hues’
+India's tri-forces had launched Operation Sindoor on May 7, 2025, as a response to the April 22 Pahalgam terrorist attack that left 26 people dead.
 
 ## CJP's Ashutosh Ranka alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP leaders
 Ashutosh Ranka expressed disappointment over the cancellation and remarked that this move only proves that the BJP is scared of cockroaches.
@@ -90,23 +111,11 @@ Ashutosh Ranka expressed disappointment over the cancellation and remarked that 
 ## Goa nightclub fire: HC cancels bail granted to Luthra brothers, business partner
 The prosecution challenged the bail granted to the Luthra brothers and Ajay Gupta alleging that the offence was of serious nature
 
-## 13-year-old hires 3 friends to kill grandfather in Kerala, wanted iPhone, bike for boyfriend
-Kerala police also suspect she had a grudge against Sivankutty after he repeatedly scolded her for using her phone frequently and returning home late.
+## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
+Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
 
-## Top cop in Bihar's Siwan transferred amid row over AK-47 at student protest
-Puran Kumar Jha has been placed on the waiting list for a new posting.
-
-## 36 tonnes of adulterated ghee, raw material seized in Hyderabad
-The adulterated ghee was reportedly distributed across Telangana and neighbouring states, thereby posing a serious risk to public health, police added.
-
-## Why were police personnel in plain clothes during CJP parliament march? Delhi police says this
-The affidavit has been filed in response to petitions seeking a court-monitored investigation into alleged police excesses.
-
-## Manipur government team to rush to Delhi amid bandh against Census without NRC
-Meitei groups have been pressing for an NRC to identify undocumented migrants who settled in Manipur after 1951 from neighbouring countries
-
-## ‘I have a blueprint’: What’s next for Jharkhand student leader Devendra Nath Mahto after ‘historic win’?
-Devendra Nath Mahto said he has prepared a blueprint for reforming the examination system and will share it with the Jharkhand government.
+## Beijing urges mainland insurers to invest in Hong Kong-listed ETFs
+China’s financial regulator has encouraged mainland insurers to buy Hong Kong-listed exchange-traded funds (ETFs), an initiative that is poised to further boost the city’s standing as an international finance centre. The National Financial Regulatory Administration (NFRA) voiced support on Tuesday f
 
 ## Hong Kong 5-year plan should have Northern Metropolis tax breaks, listing reforms: HKICPA
 The Hong Kong Institute of Certified Public Accountants (HKICPA) has urged the government to introduce tax incentives to help develop the Northern Metropolis and to improve the stock exchange’s listing regime to further cement the city’s role in international finance. The organisation’s submission f
@@ -126,11 +135,8 @@ Chinese commercial banks recorded a rare, modest uptick in net interest margin (
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
 
-## US billionaires reshuffle Chinese tech stock buys amid AI boom
-Some of Wall Street’s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in Baidu. Druckenmiller, an investor known f
-
-## Even the rich in Hong Kong expect to work past retirement age, survey says
-Wealthy Hongkongers now invest in a way that shows they do not have a fixed retirement age in mind, as most of them expect to work longer than their parents, according to a survey. Some 58 per cent of high-net-worth individuals in Hong Kong expected to work beyond retirement age, with 32 per cent an
+## Colby’s ‘Flexible Realism’ Won’t Work in the Indo-Pacific
+Washington’s new strategy is little more than a euphemism for unpredictability.
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -152,9 +158,6 @@ A new movie shows how the president conferred with State Department experts befo
 
 ## Why Australia’s Getting Tough on China Again
 Unlike other U.S. allies, Canberra is betting its entire strategic house on Pax Americana.
-
-## Trump’s Flurry of National Security Policies
-The administration made moves on drones, cyberwarfare, and ship building.
 
 ## Daughter of Former Cambodian Opposition Leader Appointed ‘Special Envoy’ to PM
 Kem Monovithya's appointment comes three months after her father Kem Sokha received a royal pardon quashing a 27-year sentence for treason.
