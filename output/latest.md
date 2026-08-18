@@ -222,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump administration moves to end rule protecting swaths of forest land
+US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
+
+## Why is the US ramping up Tomahawk production?
+Pentagon contracts defence manufacturer to increase output of cruise missiles.
+
+## Syria opens Assad-era nuclear programme to UN probe
+UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.
+
+## Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO
+Officials warn they are continuing to identify new chains of transmission, which need to be broken to stop the spread.
+
+## Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal
+US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.
+
+## Israeli strike reported to kill at least six in Gaza City
+The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.
+
+## WHO: Ebola can be contained in months if enough funding is provided
+The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.
+
 ## Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant
 Concern over the security of Europe's largest nuclear plant has been rife since Russia launched its full-scale war.
-
-## Jose Mourinho returns to Real Madrid in closed-door ceremony
-In an unusually private ceremony, Jose Mourinho has officially begun his second spell as Real Madrid manager.
-
-## Liberia to take 1,200 deportees from the US
-The first group of 20 deportees is expected to arrive in the coming days.
-
-## Russian missile strike kills 10 civilians in Kharkiv
-A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.
-
-## Trump and Carney speak ahead of US tariff deadline
-The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.
-
-## US sanctions International Criminal Court president and trial lawyer
-The Trump administration has led a campaign to 'dismantle' the court, calling it a threat to national sovereignty.
-
-## US Justice Department denies whistleblower claims on anti-Semitism probes
-Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.
-
-## Turkish politician Melih Meric stabbed
-Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
