@@ -39,29 +39,29 @@ Fast food rival has invested roughly $2bn in its US business over the past four 
 ## Why eyewear stores are taking over London’s high streets
 Private equity-backed brands such as Cubitts, Ace & Tate and Jimmy Fairly compete for scale in financially alluring sector
 
-## Sensex today | Stock Market Live: Sensex down 330 pts, Nifty hover around 24,200; Asian Paints, HCL Tech top losers
-Sensex, Nifty, Share Prices LIVE: Markets continued to trade in negative territory at midday on Tuesday, with the Nifty 50 slipping below the psychologically important 24,200 level and the Sensex extending losses as crude oil prices held firm and geopolitical tensions showed no signs of easing
+## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty hover below 24,200; Infosys, TMPV top losers
+Sensex, Nifty, Share Prices LIVE: Markets continued to trade in negative territory at midday on Tuesday, with the Nifty 50 hovers below the psychologically important 24,200 level and the Sensex extending losses as crude oil prices held firm and geopolitical tensions showed no signs of easing
 
-## India considers limited duty-free sugar imports to ease record prices, sources say
-Indian sugar ‌prices have ​risen to a record ⁠high and are expected to ‌remain elevated for at least the next three months
+## Ship attacked during Strait of Hormuz transit
+An unidentified projectile damaged the engine room of a ship and “resulted in a crew casualty” early Tuesday morning as the vessel was trying to transit the Strait of Hormuz off the coast of Oman
 
-## Profit growth at Nifty 50 firms hits 10-quarter high, boosts outlook
-Profit and revenue growth ‌was robust across sectors among the large-, mid- and small-caps in a quarter that Motilal ‌Oswal described as “picture perfect”, with oil marketing firms being the ‌sole ⁠weak spot
+## Godrej Ind to enter pvt credit space, aims to raise ₹2,000 crore in AIF
+GIG said the Godrej Asset Management Company (AMC) will be raising the money in the category-II AIF
 
-## India's tanker exports surge over six-fold to $1.36 billion in Q1 FY27; UAE leads
-The data showed that export volumes also expanded significantly from 10 vessels to 23 vessels, reflecting increasing international demand for Indian-built tankers and marine transportation assets
+## Milky Mist Share Price & IPO Listing Live: Locked in upper circuit on NSE & BSE, after debuting at ₹165
+Milky Mist IPO listing today, Milky Mist share price live updates: Follow businessline for live updates
 
-## SC to set up high-powered panel to probe allegations of police excesses during NEET protest
-The court said that it would direct the handing over of video footage and CCTV recordings of the violence during the July 20 Parliament march in Delhi to the high-powered committee for examination
+## Torrent Gas to file updated draft papers for up to ₹4,000-crore IPO
+The updated draft red ⁠herring prospectus, expected this week, will be the company’s first public IPO document.
 
-## Prodigy Technovations Unveils Industry's First UFS 5.0 Protocol Exerciser and Analyzer to Power the AI-Driven Storage Era
-Prodigy Technovations Unveils Industry's First UFS 5.0 Protocol Exerciser and Analyzer to Power the AI-Driven Storage Era
+## Brokerages turn bullish on Juniper Hotels expansion plans
+Brokerages expect Juniper to nearly double its room count to over 3,900 keys by FY31, backed by a capex roadmap of over ₹1,900 crore that is expected to be largely self-funded through internal accruals.
 
-## Foreigners find careers and a home in Taizhou
-Foreigners find careers and a home in Taizhou
+## No Khel Ratna for 2025; Tejaswin, Divya and Gayatri Gopichand among Arjuna awardees
+The selection committee this year had recommended 24 names for the Arjuna Award but the ministry approved only 17
 
-## ICICI Bank mops up $750 million by issuing bonds to overseas investors
-The bonds were raised through its IFSC banking unit at a coupon rate of 5.417 per cent, ICICI Bank said in a regulatory filing.
+## Cash still king in India despite digital boom, says RBI Deputy Governor Murmu
+Addressing central bankers from across the world, Murmu noted that currency in circulation continues to grow at double-digit rates despite a decline in cash’s share of individual transactions due to increasing digital payment adoption.
 
 ## Rupee banknotes in circulation triple US dollar bills, nearly six times euro notes
 
@@ -87,29 +87,29 @@ Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and K
 ## High-level committee on banking reforms ‘soon’: FM
 
 
+## Lalu calls for march to Lok Bhavan on Aug 19 against state govt's 'dictatorial attitude'
+RJD's national working president and Lalu's son, Tejashwi, had said Mahagathbandhan leaders would submit a memorandum to the Governor over the Siwan incident.
+
+## Delhi HC denies default bail to Red Fort blast accused Jasir Bilal Wani
+Wani was a neighbour of brothers Adil and Muzaffar Rather, two doctors who are allegedly part of the terror module behind the Red Fort blast
+
+## Maharashtra SIR: Over 2 cr voters expected to be dropped from draft roll, 36 lakh in Mumbai
+Thane tops the list of districts with the lowest enumeration rate with 2.86 million, or 38.41%, of its 7.45 million electors likely to be deleted.
+
+## Manipur: Chief of banned outfit, 46 cadres surrender with arms before CM
+The surrender is seen as a major step towards strengthening the state government’s efforts towards peace and normalcy in Manipur
+
+## Odisha floods: Death toll rises to 13; schools shut across districts
+Over 7.85 lakh people in 1,300 villages in Balasore, Bhadrak, Jajpur, Keonjhar, Mayurbhanj and Kendrapada districts have been affected by the floods
+
+## After Trump, US envoy cites India's 660 million voters to push voter ID
+Sergio Gor made the remarks hours after Trump cited India’s election system and Gyanesh Kumar while asking Congress to pass the SAVE America Act.
+
 ## No safe harbour in case of child sexual abuse content, says govt in ‘hard talk’ with Meta: Report
 The government had a “hard talk” with Meta on child sexual abuse material and has clarified that circulation of such content is a clear violation.
 
 ## ‘No difference between Jaish-e-Mohammed, Taliban, RSS’: Karnataka Congress chief
 Priyank Kharge criticized the BJP and RSS, saying Congress does not require validation of patriotism from groups lacking contributions to the freedom struggle.
-
-## Abhijeet Dipke calls for government school admission of ministers' kids: 'No trust in own work?'
-In a dig at government officials, Abhijeet Dipke asked why they don't enrol their children in government schools. "Do they not trust their own work?” he asked.
-
-## ‘Italian blood’: Kumaraswamy’s fresh attack on Sonia Gandhi escalates Vande Mataram row
-Speaking to reporters in Hassan on Monday, Kumaraswamy asked, 'Is Sonia Gandhi from our nation?'
-
-## Tamil Nadu CM Vijay makes online registration mandatory for first sale of plots, flats: What it means
-Tamil Nadu CM C Joseph Vijay has launched an initiative that makes online registration mandatory for the first sale of plots and flats in the state.
-
-## SC to set up high-powered panel to probe allegations of police excesses during NEET protest
-SC to set up high-powered panel to probe allegations of police excesses during NEET protest
-
-## Mahua Moitra vs Bengal officials intensifies, TMC MP moves privilege notice over late-night eviction bid
-Moitra, who reached the Nadia Circuit House at 6.15 pm for an overnight stay, said she was asked to leave the official accommodation for MPs at 9.47 pm.
-
-## Union minister JP Nadda undergoes angioplasty, condition stable: AIIMS Delhi
-The hospital issued an official press statement on Friday, announcing that JP Nadda underwent a coronary angiography after being admitted on Thursday.
 
 ## Chinese treasury futures launch cements Hong Kong as premier yuan hub
 When the Hong Kong stock exchange launched five-year China government bond futures on August 3, it did more than simply expand the city’s derivatives product suite. As the only China government bond futures in the offshore market, the contract deserves attention as it finally gives international inv
@@ -159,6 +159,18 @@ Unlike other U.S. allies, Canberra is betting its entire strategic house on Pax 
 ## Trump’s Flurry of National Security Policies
 The administration made moves on drones, cyberwarfare, and ship building.
 
+## Daughter of Former Cambodian Opposition Leader Appointed ‘Special Envoy’ to PM
+Kem Monovithya's appointment comes three months after her father Kem Sokha received a royal pardon quashing a 27-year sentence for treason.
+
+## Is Vietnam’s Energy Transition Entering a New Phase?
+The country has so far outpaced most of its regional peers when it comes to the production of renewable energy.
+
+## How Southeast Asia and the Gulf Can Shape the Future of AI
+Neither region can compete directly with China and the United States, but together they have the potential to show how middle powers can shape the AI economy.
+
+## Myanmar’s President Min Aung Hlaing Set For Possible State Visit to Cambodia
+The trip would be the former general's sixth, and third to an ASEAN member state, since his appointment as president in April.
+
 ## Trump’s Exercise Cut Risks Turning South Korea-US Alliance Readiness Into a Bargaining Chip
 A last-minute order to scale back Ulchi Freedom Shield may have a limited immediate military effect. Its deeper cost is the precedent.
 
@@ -170,18 +182,6 @@ With Tajikistan's main supplier of oil, Russia, under pressure, Dushanbe has tur
 
 ## Kazakhstan’s Kurultai Election Looms: Is This Old Wine in a New Bottle?
 The shape of the Kazakh legislature may have changed, but the politics of Kazakhstan have not necessarily been transformed.
-
-## Are Allies’ Military AI Systems Interoperable?
-The U.S., South Korea, and Japan are pursuing different AI-driven combat systems. That will lead to different recommendations on the same battlefield.
-
-## Beyond Kashmir: South Asia’s Other Territorial Disputes
-These disputes all involve India and the Himalayas – but in these three cases, the other claimant isn’t Pakistan.
-
-## Kim Min-seok Wins Democratic Party Chair in Ranked-Choice Runoff
-The former prime minister defeated incumbent chair Jung Chung-rae 54.1 percent to 45.9 percent in the party’s chairmanship election.
-
-## India’s Collapsing Roads and Highways Dent Modi Government’s Image
-It has built dozens of expressways and highways at enormous cost. But these have not survived the stress test of even the season's first rains.
 
 ## AI and the Risks of Tearing Down an Old System
 Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the op
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Videos show deadly school shooting in Philippines
+A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.
+
+## Drone video shows drought-hit fields in England after driest July on record
+Drone video shows drought-hit fields in England after driest July on record
+
+## Pakistan top court orders Imran Khan’s hospital transfer amid access battle
+Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.
+
 ## Cincinnati Open: Williams sisters fall in doubles while Zverev advances
 Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.
 
@@ -238,22 +247,13 @@ Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, 
 Trump lashes out at CNN reporter over South Korea question
 
 ## Syrian court sentences Wassim al-Assad to death
-The former regime figure was found guilty of charges including premeditated murder and torture.
+Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture
 
 ## Chinese company unveils new ‘Superman’ humanoid robot
 Chinese company unveils new ‘Superman’ humanoid robot
 
 ## What to watch in Tuesday’s Florida primary elections
 Islamophobia, anti-Semitism, Trump's politics and Israel's war on Gaza figure prominently in the elections.
-
-## Top Russian economist ousted after warning of growing costs of Ukraine war
-Andrey Klepach, top economist at Russia's state development bank VEB, had warned Russia was lagging behind rivals.
-
-## Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger
-The Lakers governor is resisting attempts to sell family's minority share to new owners Bob Iger and Josh Kushner.
-
-## Palestine weekly: Global outcry fails to break West Bank siege
-Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
