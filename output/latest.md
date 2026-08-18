@@ -1,10 +1,34 @@
 # AION Intelligence
 
+## London’s clean air zone linked to improvement in children’s lung health
+Study compared lung size and function of 1,600 six- to nine-year-olds with a matched group in Luton
+
+## FirstFT: Surge in diesel prices deals powerful blow to industrial America
+Also in today’s newsletter: global private equity avoids China and US chip stocks lead sell-off
+
+## Mark Walter sought loan from Apollo backed by Lakers stake
+Talks over the financing continued until Guggenheim chief reached a deal to sell the holding in the basketball team
+
+## UAE suspends trade with Iran after saying it fired missiles at Gulf state
+Defence ministry says weapons were targeting maritime traffic but fell into the sea
+
+## Burnham launches pandemic-style drive to cut rough sleeping
+UK prime minister vows to ‘get people out the cold’ in run-up to Christmas, in echo of policy he supported in Manchester
+
+## Ukraine’s ousted defence minister calls for wartime election
+Mykhailo Fedorov launches major challenge to President Volodymyr Zelenskyy
+
 ## US chip stocks slide as government borrowing costs hit multiyear highs
 Fears over inflation and mounting public debt ignite bond sell-off
 
 ## Soaring diesel prices rip across US economy
 Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
+
+## Klarna overhauls leadership as it targets US banking licence
+Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
+
+## BHP’s copper pivot is paying off
+Miner’s pipeline looks increasingly convincing given the red metal’s ubiquitous use
 
 ## Barbie box office smash isn’t yet a boon for Mattel
 California-based toy mainstay that owns the famous doll brand has an enterprise value of just above $6bn
@@ -15,20 +39,8 @@ Town centres need to become community hubs for the 21st century
 ## Andy Burnham hails shake-up of bus services in West Midlands
 Prime minister praises ‘single biggest act of public control’, even though routes will ultimately be run by private groups
 
-## Israeli strikes on Syrian air base criticised by US and Turkey
-Bombing of military site is ‘an unnecessary escalation’ and underlines regional tensions over Damascus regime
-
-## Reform UK suspends Tory defector Tim Montgomerie after criticism of Nigel Farage
-Board member called out party leader last week for failing to appear at Clacton by-election count
-
 ## Disney accuses Trump administration of cracking down on freedom of speech
 US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts
-
-## Klarna overhauls leadership as it targets US banking licence
-Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
-
-## BHP’s copper pivot is paying off
-Miner’s pipeline looks increasingly convincing given the red metal’s ubiquitous use
 
 ## Minfy Expands U.S. Presence in Virginia to Deepen Customer Engagement and Accelerate AI-Driven Outcomes
 Expansion strengthens proximity to enterprise customers and bridges the gap between AI strategy and real-world deployment‍
@@ -229,13 +241,13 @@ Arrest comes after attack on activist Nadia Beller, who says she was targeted fo
 US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
 
 ## Why is the US ramping up Tomahawk production?
-Pentagon contracts defence manufacturer to increase output of cruise missiles.
+The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.
 
 ## Syria opens Assad-era nuclear programme to UN probe
 UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.
 
-## Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO
-Officials warn they are continuing to identify new chains of transmission, which need to be broken to stop the spread.
+## DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO
+Officials warn they are continuing to identify new chains of transmission that need to be broken to stop the spread.
 
 ## Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal
 US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.
