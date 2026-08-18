@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## UK employers shed jobs as labour market weakens further
+Official figures also show unemployment ticked higher in second quarter
+
 ## FirstFT: Asian doubts over US resolve
 Also in today’s newsletter: TCI bets on Italian luxury hotels and Russia fires top economist
 
@@ -21,8 +24,8 @@ Decision comes as Pentagon pulls ships from Indo-Pacific to Middle East and Iran
 ## UK examines economic hit from loss of access to frontier AI models
 Urgent assessment comes after Donald Trump blocked foreign national access to Anthropic’s Fable 5
 
-## Burnham faces EU clash over youth scheme as summit looms
-Ireland’s European affairs minister says ‘a lot of work still to do’
+## Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%
+UK retail group pushes deeper into luxury sector
 
 ## Burger King is taking a bite out of McDonald’s lunch
 Fast food rival has invested roughly $2bn in its US business over the past four years
@@ -30,35 +33,32 @@ Fast food rival has invested roughly $2bn in its US business over the past four 
 ## Why eyewear stores are taking over London’s high streets
 Private equity-backed brands such as Cubitts, Ace & Tate and Jimmy Fairly compete for scale in financially alluring sector
 
-## Can canned cocktails revive the booze business?
-Young customers are flocking to ‘ready-to-drink’ beverages as other alcohol sales slump
-
-## AI hasn’t gone rogue. It’s worse than that
-Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
-
-## Gold Rate Today, Aug 18: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
-22, 24 carat Gold prices up across Indian cities on August 18
-
-## Kerala’s Vizhinjam Port begins full-scale EXIM operations
-The port’s transition to EXIM operations is aimed at giving exporters and importers in Kerala a more direct route to international markets, highlighting sectors including seafood, spices, cashew, coir and engineering goods
-
-## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty drops below 24,200; Infosys, HCL Tech top losers
+## Sensex today | Stock Market Live: Sensex down 350 pts, Nifty hover around 24,200; Asian Paints, Infosys top losers
 Sensex, Nifty, Share Prices LIVE: Markets opened in the red on Tuesday, August 18, extending a five-session losing streak as surging crude oil prices and the collapse of the U.S.-Iran ceasefire kept investor sentiment under pressure
+
+## Centre tells Meta safe harbour won't cover CSAM violations: Govt Sources
+The government tells Meta that its content moderation mechanisms need to demonstrate greater sensitivity to India's linguistic and cultural context rather than relying solely on global standards
+
+## Citi sets June 2027 Nifty target at 26,800, remains constructive on India equities
+The brokerage is favouring financials, telecom, healthcare and utilities, while remaining underweight on IT services, staples and metals.
+
+## Cash still king in India despite digital boom, says RBI Deputy Governor Murmu
+Addressing central bankers from across the world, Murmu noted that currency in circulation continues to grow at double-digit rates despite a decline in cash’s share of individual transactions due to increasing digital payment adoption.
+
+## ByteLens Turns Operator Data Into Compounding Knowledge
+ByteLens Turns Operator Data Into Compounding Knowledge
+
+## Magellanic Cloud bags ₹8.90 crore DFCCIL surveillance contract, stock jumps nearly 7%
+On the market, MCLOUD stock touched an intraday high of ₹29.10 against a previous close of ₹26.77, with traded volume of 67.55 lakh shares and a traded value of ₹19.19 crore for the session as of midday.
+
+## EaseMyTrip launches ‘ReSave’ feature to monitor post-booking fare drops
+The feature, integrated directly into the booking process, addresses a common traveller concern, flight prices falling after a ticket has already been purchased
 
 ## Milky Mist Share Price & IPO Listing Live: Locked in upper circuit on NSE & BSE, after debuting at ₹165
 Milky Mist IPO listing today, Milky Mist share price live updates: Follow businessline for live updates
 
-## Milky Mist shares list 17.8% premium, trades 30% over ₹140-IPO price
-Shares of Milky Mist Dairy Food debuted on the NSE and BSE at ₹165, a 17.8 per cent premium over the IPO price of ₹140, reflecting positive momentum
-
-## Amit Metaliks targets faster completion of ₹4,000-crore Bengal steel project; eyes jobs for local youth
-West Bengal CM Suvendu Adhikari laid the foundation stone for the company's greenfield integrated steel manufacturing project in Raghunathpur in West Bengal's Purulia district
-
-## Crude oil rises on reports of Iran adopting more offensive stance
-At 10.04 am on Tuesday, October Brent oil futures were at $91.49, up by 0.68%, and October crude oil futures on WTI (West Texas Intermediate) were at $84.41, up by 0.80%
-
-## Charging gaps to slow electric LCV adoption; Mahindra sees e-3Ws scaling faster
-Light commercial vehicles are likely to electrify more slowly than 3-wheelers as inadequate charging infrastructure limits the route flexibility commercial operators need, M&M said
+## Trump tariffs: India seeks WTO consultations over 50% US duties quota on quartz surface imports
+In its August 14 communication to the WTO, New Delhi said it has a "substantial interest" in the matter and suggested that the consultations be conducted.
 
 ## Gold price prediction today: Will gold continue its rally? Check August 18, 2026 outlook
 Spot gold extended its weekly winning streak to the second straight week in the week ending August 14. It closed 0.70% higher for the week at $4376.
@@ -81,40 +81,40 @@ Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and K
 ## Crude prices cross $90 as ceasefire hopes dim, Hormuz disruption weighs on supply
 Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled a more offensive military approach, and the US rejected extending the ceasefire. Shipping through the Strait of Hormuz significantly decreased following recent attacks. Tensions also escalated in the Red Sea with Houthi 
 
-## Govt clears 31 electronics part projects worth 7,877cr
+## 'Could not be tolerated': DMK mouthpiece attacks Tamil Nadu CM Vijay, Trisha over I-day event
+The DMK criticised the fact that an actress was seated in the front row and exchanged salutes with the chief minister.
 
+## CM Shivakumar rejects TN's demand for CBI probe into killing of 'poachers'
+CM Shivakumar rejects TN's demand for CBI probe into killing of 'poachers'
 
-## Soap cases emerge as unlikely symbol of Northeast’s heroin crackdown
-Authorities intensify drug crackdown following pledges for a drug-free India, with soap cases common in heroin smuggling from Myanmar.
+## Dabholkar murder: HC grants bail to convict Sachin Andure, suspends his life sentence
+Dabholkar murder: HC grants bail to convict Sachin Andure, suspends his life sentence
 
-## ‘What MAGA really cares about…’: Ishaan Tharoor jibe at Trump’s India voter ID pitch
-Ishaan Tharoor was responding to a post by Donald Trump, in which he shared details of a conversation his administration had with CEC Gyanesh Kumar.
+## 'Ask him to collect leftover of his wife': Twisha Sharma told sister-in-law in last message
+Twisha had shared her ordeal with her sister-in-law and her own parents. She informed them that Samarth had become very aggressive and violent towards her.
 
-## SC issues notice to Centre on PIL for restraining police from revealing identity of accused online
-SC issues notice to Centre on PIL for restraining police from revealing identity of accused online
+## SC dismisses plea seeking abolition of execution by hanging
+SC dismisses plea seeking abolition of execution by hanging
 
-## BJP rejigs state leadership, names new in-charges for poll-bound UP, Punjab, Gujarat
-BJP national president Nitin Nabin appointed Vinod Tawde as the party’s in-charge for Uttar Pradesh, with Jagdish Ishwarbhai Patel named co-in-charge.
+## 'Take Gyanesh Kumar to US': Congress after Trump invokes Indian electoral system
+Congress leader Pawan Khera's post came after Trump renewed his call for the passage the SAVE Act, citing India's election system.
 
-## Delhi Police denies excessive use of force during protest: '5k cops tried to manage 30k+ protesters'
-The police said the situation turned violent after sections of the crowd allegedly breached multiple layers of barricades and tried to move towards Parliament.
+## SC notice to Centre over lapses in limiting child sexual abuse content online
+The Supreme Court has asked the ministries to file their counter affidavits by September 24, with copies to be served on the applicants two weeks in advance.
 
-## Hanging stays as mode of execution, SC leaves door open for future scientific review
-However, the bench made it clear that its dismissal of the challenge would not foreclose future scrutiny of the method of execution
+## SC notice to Centre, states on plea to confiscate property of offenders in paper leak cases
+SC notice to Centre, states on plea to confiscate property of offenders in paper leak cases
 
-## India launches grasslands, open natural ecosystems guide at Mongolia UN event
-The guide lists important species dependent on India’s grasslands for survival, including the great Indian bustard and the lesser florican
-
-## Complaints by some members can't warrant probe into housing society's finances: Bombay HC
-The court made the observation while quashing an order passed by a deputy registrar initiating an inquiry into a housing society in Mumbai's Kurla.
+## China plans for peak oil demand amid pipeline increase, intelligent rig development
+China has announced a new dedicated five-year plan to drill more crude oil and expand its network of pipelines as the world’s largest importer of fossil fuels faces heightened supply risks from geopolitical tensions. The plan, unveiled on Monday by the National Development and Reform Commission and 
 
 ## Chinese commercial banks gain margin relief, but subdued lending dims outlook
-Chinese commercial banks recorded a rare, modest uptick in net interest margin (NIM) in the second quarter of 2026, marking the sector’s first quarterly expansion in the profitability indicator since 2022, even as underlying loan demand remained weak. Average NIM for commercial banks edged up 1 basi
+Chinese commercial banks recorded a rare, modest uptick in net interest margin (NIM) in the second quarter of 2026, marking the sector’s first quarterly expansion in the profitability indicator since 2022, even as underlying loan demand remained weak. Average NIM for commercial banks edged up by 0.0
 
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
 
-## Several US billionaire investors reshuffle their Chinese technology stocks amid AI boom
+## US billionaires reshuffle Chinese tech stock buys amid AI boom
 Some of Wall Street’s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in Baidu. Druckenmiller, an investor known f
 
 ## Even the rich in Hong Kong expect to work past retirement age, survey says
@@ -128,9 +128,6 @@ The Hong Kong property market’s recovery is forecast to moderate in both price
 
 ## Banking on Connectivity in a Fragmented World
 George Tung, CEO of UOB Hong Kong, is positioning the bank to leverage the city’s role as a cross-border capital hub by strengthening ASEAN links, deepening client trust and embedding disciplined risk management. Capital rarely stands still in Asia. From mainland China to ASEAN and the Middle East, 
-
-## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
-Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -180,6 +177,12 @@ The former prime minister defeated incumbent chair Jung Chung-rae 54.1 percent t
 ## India’s Collapsing Roads and Highways Dent Modi Government’s Image
 It has built dozens of expressways and highways at enormous cost. But these have not survived the stress test of even the season's first rains.
 
+## AI and the Risks of Tearing Down an Old System
+Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the op
+
+## Inside Brazil’s 3D-Printed Gun Supply Chain
+On June 26, 2026, the Civil Police of Rio de Janeiro, through its specialized firearms, ammunition, and explosives unit, raided a clandestine workshop in Rio das Pedras, on the city’s west side. Investigators said the group used a 3D printer seized at the scene to produce pistol frames and structura
+
 ## The Tension Between Collectivism and Individualism in Ukraine
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
@@ -197,12 +200,6 @@ Water and energy infrastructure have become one of Iran’s main levers of deter
 
 ## The Commercial Space Race
 A strong commercial space industry is an important partner for the U.S. government, as it contributes to building more robust space and defense capabilities and facilitates innovation more broadly. As competition between the United States and China heats up, both countries look to the commercial spa
-
-## The True Cost of Cheap Chips
-Given the relentless demand for computing power, electronic components are in scarce supply. Prices for certain memory chips, known as DRAM, have surged by more than 50 percent in a single quarter this year, and have roughly quadrupled since last fall. Because DRAM supply is tight, Apple, Dell, and 
-
-## 2026 and All That: Another Benchmark Year in Royal Navy Decline
-The 1930 comic history, 1066 and All That, made famous the British habit of reducing national history to a sequence of memorable dates. The modern Royal Navy has its own unhappy version of that calendar. Since 1945, a series of ostensibly practical political decisions has steadily reduced Britain’s 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,6 +225,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russia says more than 600 drones targeted Moscow region
+The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.
+
+## Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
+British maritime agency says the incident caused one casualty and damaged the vessel's engine room.
+
+## Can China’s new Arctic sea route to Europe replace Middle East chokepoints?
+Beijing's new 'Ice Silk Road' cuts through a melting Arctic, and could prompt new tensions with the US, analysts say.
+
 ## Trump says N Korea’s Kim has responded to his request for a conversation
 US president says conversations with Kim Jong Un at a 'positive' stage and slams Seoul for refusing to join war on Iran.
 
@@ -242,15 +248,6 @@ Hichilema wins Zambia’s election with 60% after attacks on election officials 
 
 ## Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
 Mourners blame relentless and 'racist' media scrutiny for former Cambridge University professor's death.
-
-## Two students killed in Philippine school shooting
-Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
-
-## Trump says talking to North Korea’s Kim makes the south safer
-US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’
-
-## Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
-At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
