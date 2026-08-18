@@ -24,6 +24,9 @@ Fears over inflation and mounting public debt ignite bond sell-off
 ## Soaring diesel prices rip across US economy
 Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
 
+## OpenAI says it will expand monitoring of model testing after hacking incident
+AI lab plans to dedicate more computing resources to security after one of its ‘agents’ escaped control
+
 ## Klarna overhauls leadership as it targets US banking licence
 Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
 
@@ -35,12 +38,6 @@ California-based toy mainstay that owns the famous doll brand has an enterprise 
 
 ## Can Burnham save Britain’s high streets?
 Town centres need to become community hubs for the 21st century
-
-## Andy Burnham hails shake-up of bus services in West Midlands
-Prime minister praises ‘single biggest act of public control’, even though routes will ultimately be run by private groups
-
-## Disney accuses Trump administration of cracking down on freedom of speech
-US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts
 
 ## Minfy Expands U.S. Presence in Virginia to Deepen Customer Engagement and Accelerate AI-Driven Outcomes
 Expansion strengthens proximity to enterprise customers and bridges the gap between AI strategy and real-world deployment‍
@@ -114,6 +111,9 @@ In a submission to the DGCA, FIP has also sought to increase pilots' random drug
 ## Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case
 Tarun Tejpal had earlier called his conviction "wrong", saying that he will appeal against the order in the Supreme Court.
 
+## After years, Macau firm opts out of Hong Kong renewal project, seeks US$153m for site
+A North Point redevelopment site is being put on the market for HK$1.2 billion (US$153 million) after its owner, which spent years assembling the ageing property, warned that redeveloping it could result in losses of as much as 30 per cent. The sale offers a rare glimpse into the difficulties facing
+
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
 
@@ -134,9 +134,6 @@ China has announced a new dedicated five-year plan to drill more crude oil and e
 
 ## Chinese commercial banks gain margin relief, but subdued lending dims outlook
 Chinese commercial banks recorded a rare, modest uptick in net interest margin (NIM) in the second quarter of 2026, marking the sector’s first quarterly expansion in the profitability indicator since 2022, even as underlying loan demand remained weak. Average NIM for commercial banks edged up by 0.0
-
-## China’s five-year plan for its oil and gas sector
-China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
 
 ## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
 London vows to continue aiding Ukraine’s war effort.
@@ -234,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Minnesota official sues Texas governor to force ICE agent’s extradition
+State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.
+
 ## Bolivia arrests political adviser to Latin American right-wingers
 Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.
 
@@ -254,9 +254,6 @@ US president hits out as states bordering the Strait of Hormuz continue talks on
 
 ## Israeli strike reported to kill at least six in Gaza City
 The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.
-
-## WHO: Ebola can be contained in months if enough funding is provided
-The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
