@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## How a pesky Jordan copycat dribbled around Nike in China
+Qiaodan has gone from a minor irritant to a sophisticated operator nibbling away at Nike in its biggest overseas market
+
 ## Can Tata Sons untangle its many knots?
 Also in this newsletter, the agri-export problem
 
@@ -21,11 +24,8 @@ Also in today’s newsletter: China’s investment slump deepens and Kushner hol
 ## Mark Carney in last-ditch effort to avoid Trump’s latest tariffs
 Canadian prime minister plans call with US president before a Wednesday deadline for levies on $20bn of trade
 
-## Seoul rattled by Trump’s threat to drills at heart of US alliance
-US president’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
-
-## Ferrari’s first EV auctioned off at record $40mn
-The Luce’s sale price sets a record for a new car
+## Ferrari’s first EV auctioned off for record $40mn
+The Luce’s sale price makes it the most expensive new car despite design backlash
 
 ## The UK is going the wrong way about protecting pubs
 Government measures do little to support bars’ underlying business case
@@ -39,29 +39,35 @@ Negotiations come amid clashes over strategy and as Walter’s business empire f
 ## Russia fires economist over Ukraine war warning
 Andrei Klepach dismissed after bleak remarks about economic toll of conflict
 
+## Colgate hands Palmolive’s online business to Bombay Shaving Company to crack D2C playbook
+Colgate-Palmolive India is combining Bombay Shaving Company’s digital-first capabilities with its own product, supply-chain and marketing muscle to give Palmolive a fresh growth push, after acknowledging that the personal-care business has been a disappointment
+
 ## Sensex today | Stock Market Live: Markets may open flat to negative note amid mixed global cues
 Sensex, Nifty, Share Prices LIVE: Indian stocks are expected to open on a flat to negative note on Tuesday amid mixed global cues
 
-## Weak opening seen for Nifty, Sensex
-Gift Nifty signals gap-down; ICRA sees Q1 GDP growth easing to 7%; oil risks in focus
+## Gold extends gains on easing rate-hike fears, markets await Fed minutes
+Spot gold was up 0.2% at $4,424.28 per ounce ‌by 0130 GMT, while US gold futures for December ‌delivery ⁠edged 0.2% higher to $4,480.90
 
-## Oscar and Grammy Winning KPop Demon Hunters Team Heads to TAIPEI MUSIC EXPO 2026, the Asia Pacific Music Platform
-Oscar and Grammy Winning KPop Demon Hunters Team Heads to TAIPEI MUSIC EXPO 2026, the Asia Pacific Music Platform
+## Sunshine Pictures launches IPO today at ₹342-360
+As much as 50% of the net issue is reserved for qualified institutional buyers (QIBs), while 15% is reserved for non-institutional investors (NIIs). Retail investors have been offered 35% of the net issue
 
-## Traveloka SEA Index Q2 2026: Southeast Asians Are Booking Longer Stays and the Region's Own Beaches Are Winning
-Traveloka SEA Index Q2 2026: Southeast Asians Are Booking Longer Stays and the Region's Own Beaches Are Winning
+## Shankesh Jewellers IPO opens today at ₹88-93
+SBI Securities remains Neutral while Anand Rathi gives Subscribe; Anchor investors pick up ₹110.15 crore; listing scheduled for August 25
 
-## Stocks in focus: Paytm, Airtel, GMR Airports, Netweb Tech, SPR Auto, Lenskart, Manipal Health and more
-Key developments include Gulshan Polyols’ ethanol allocation worth ₹146.66 crore, Bharti Airtel’s upcoming leadership change, and GMR Airports expanding its portfolio with a new international terminal
+## Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman
+US rules out extending 60-day interim agreement as Hormuz shipping talks continue
 
-## Best of monsoon may be behind us despite fresh depression over Bay
-Current lean rainfall trend over large parts of could persist through September as El Niño strengthens its influence on the monsoon, according to ECMWF
+## upGrad Crosses ₹2,000 Cr Gross Revenue in FY26; Grows EBITDA 8X to 123 Cr
+upGrad Crosses ₹2,000 Cr Gross Revenue in FY26; Grows EBITDA 8X to 123 Cr
 
-## Razorpay expands AI capabilities, builds AI payments model trained on 4 billion transactions
-The company sees the foundation model as part of a broader strategy to combine AI with financial services
+## Oil rises as Iran signals offensive stance, US rules out ceasefire extension
+Brent at $91.14; Hormuz tanker traffic remains a trickle amid supply-risk concerns
 
-## Godavari Biorefineries secures European patent for anti-cancer pharmaceutical composition
-The patent strengthens the company’s oncology-focused intellectual property portfolio and supports its efforts to develop potential healthcare applications through formulation research
+## Top stocks to buy today: Stock market recommendations for August 18, 2026 - check list
+Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and Kfin Technologies are the top stocks to buy that Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has recommended for August 18, 2026:
+
+## Stock Market Today Live Updates: BSE Sensex and NSE Nifty50 headed for crucial session as crude soars past $90 per barrel again
+
 
 ## High-level committee on banking reforms ‘soon’: FM
 
@@ -81,35 +87,32 @@ Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled 
 ## CAS here to stay, it can be improved upon: Sebi
 
 
-## Today’s Tata Sons AGM likely to be adjourned; board meets mid-Sept
+## Woman SI, journalist and two others held for abducting Odisha businessman
+A woman police sub-inspector and a journalist were among four arrested for allegedly kidnapping a businessman, assaulting him and demanding ₹50 lakh ransom
 
+## DMK stages walkout from House after row over 19-year-old’s murder
+Leader of Opposition in the Tamil Nadu assembly Udhayanidhi Stalin on Monday led the Dravida Munnetra Kazhagam (DMK) in a walkout after an intense exchange with the state government on the alleged lynching of a 19-year-old engineering student in Coimbatore on August 10
 
-## Weak soil, trapped water likely behind Lucknow-Kanpur Expressway failures: Initial probe
+## TTD begins total overhaul of accounting, fiscal management systems, say officials
+The Tirumala Tirupati Devasthanams (TTD), which administers the Lord Venkateshwara temple in Tirumala in Tirupati district has begun the exercise an overhaul its accounting and financial management systems, people familiar with the matter said
 
+## SIT probe into ghee procurement case going in right direction: Kerala HC
+The Kerala high court on Monday said that the SIT probe into the ghee misappropriation case at the Sabarimala temple was proceeding in the proper direction
 
-## 25-yr-old man from Assam, linked to digital fraud worth 1,071 cr, arrested in Gujarat
-Police said the accused played a role in routing funds from cyber frauds across India and converting them into cryptocurrency for the foreign-based network
+## 7.3 million names not included in Telangana draft rolls
+As many as 7
 
-## Member details, Aadhaar link likely: Delhi govt mulls creation of panel for family ID cards
-The initiative includes creating a centralized database governed by the Delhi Parivar Pehchan Act, 2026.
+## Comply with Cauvery water release order: SC
+New Delhi: The Supreme Court on Monday directed Karnataka to ensure compliance with the Cauvery Water Management Authority’s (CWMA) directions on releasing water to Tamil Nadu, while deciding to wait another week to assess whether the state continues to honour the water-sharing order, noting that Ta
 
-## Twisha faced 'sustained psychological harm' from husband, mother-in-law: CBI chargesheet
-Twisha, 33, was found dead under suspicious circumstances at her marital home in Bhopal on May 12, just five months after her marriage to Samarth.
+## Vijay unveils full waiver of crop loans up to ₹75k to TN farmers
+Tamil Nadu chief minister C Joseph Vijay on Monday announced a full waiver on cooperative crop loans up to ₹75,000 distributed among the state’s farmers
 
-## Bhopal minor’s murder: 5 held including 3 minors over alleged body parts plot
-Five people, including three minors, were arrested after a minor boy was allegedly killed as part of a plot to sell his body parts for money, police said.
+## Oppn disrupts Assembly over demand for minister’s removal
+Bengaluru The Bharatiya Janata Party (BJP) and the Janata Dal (Secular) disrupted proceedings in both Houses of the Karnataka legislature on Monday demanding the dismissal of minister B Nagendra, over his alleged involvement in the multi crore rupee embezzlement matter in the Karnataka Maharishi Val
 
-## Delhi SIR deadline ends, nearly 1 in 2 Tughlakabad voters face deletion risk
-Only two constituencies have crossed 80% digitisation: Rohini in north-west district at 83.43% and Shakur Basti in central north at 81.26%.
-
-## Tamil Nadu CM Vijay apologises after minister mentions ex-CM Karunanidhi by name
-Tamil Nadu forest minister RV Ranjith Kumar's reference to the DMK stalwart as “Karunanidhi” sparked immediate objections from opposition DMK members.
-
-## UP teen rescued in Delhi made to wait 7 hours as cops disputed jurisdiction
-Delhi's Child Welfare Committee took a “very serious view” of the handling of the girl’s case and issued show-cause notices to respective SHOs.
-
-## Fake MEA officials hold guests captive at Lucknow hotel, detained; 478 forged IDs recovered
-According to a complaint filed by hotel manager, the accused introduced themselves as senior MEA officials and said they wanted to inspect the premises.
+## Several US billionaire investors reshuffle their Chinese technology stocks amid AI boom
+Some of Wall Street’s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in Baidu. Druckenmiller, an investor known f
 
 ## Even the rich in Hong Kong expect to work past retirement age, survey says
 Wealthy Hongkongers now invest in a way that shows they do not have a fixed retirement age in mind, as most of them expect to work longer than their parents, according to a survey. Some 58 per cent of high-net-worth individuals in Hong Kong expected to work beyond retirement age, with 32 per cent an
@@ -131,9 +134,6 @@ Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto
 
 ## China’s pharma contractors rally as US supply chain pressures face industry resistance
 China’s pharmaceutical contractors are showing financial resilience in the face of Washington’s push to curb reliance on Chinese supply chains. Analysts said investors were bullish because the US government’s recent measures to curb Beijing’s rise as a global pharmaceutical supplier had met resistan
-
-## China’s first‑tier new home prices flat in July, ending 4‑month rebound
-New home prices in China’s four first-tier cities were flat on average in July from June, bringing an end to a four-month rebound, as analysts said month-on-month readings had weakened amid seasonal headwinds and an unusually rainy summer, further highlighting the urgency of stabilising the nation’s
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
+Mourners blame relentless and 'racist' media scrutiny for former Cambridge University professor's death.
+
+## Two killed as gunman opens fire at Philippines high school, official says
+Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
+
 ## Trump says talking to North Korea’s Kim makes the south safer
 US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’
 
@@ -249,11 +255,8 @@ US president says Iran should 'put up the white flag of surrender' as the two na
 ## ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says
 Trump's son-in-law and envoy says US will not 'restrict Israel's right to defend itself' as strikes on Gaza continue.
 
-## As rubble clears, Colombia begins focusing on recovery after the earthquake
-A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.
-
-## ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
-Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.
+## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
+Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
@@ -276,8 +279,14 @@ Amendments introduce new accounting framework for nature dependent electricity c
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
 
-## Only 22 Women CFOs, 9 CEOs Among Top 500 Listed Firms
-Women occupy a mere 22 Chief Financial Officer roles among the top 500 publicly listed companies in India, which equates to only 4.4%. At the Chief Executive Officer level, representation is even more dismal with only nine women holding the title. Although nearly 29% of directors are women in active
+## High-level committee on banking reforms ‘soon’: FM
+Finance Minister Nirmala Sitharaman will soon announce a high-level committee on banking reforms. This committee will review the sector's alignment with India's growth goals. The panel's formation was announced in budget 2026-27 for Viksit Bharat. Deliberations from a recent conclave will provide in
+
+## FCNR(B) swap cost unlikely to have driven RBI’s early closure: SBI Research report
+SBI Research said the cost of the RBI’s FCNR(B) swap facility is unlikely to have driven its early closure, estimating cumulative hedging costs at USD 10.5 billion over five years. It said mobilisation targets may already have been achieved, with FCNR(B) deposits at USD 52.3 billion as of August 13.
+
+## India's telecom and network equipment sector could double GDP share, but needs urgent policy support: NITI Aayog
+While India's telecom and network equipment (TANE) sector has strong growth potential, heavy import dependence, especially on China--underscores the need for urgent policy support to boost domestic manufacturing and exports that will likely double the sector's GDP share and position India as a USD 5
 
 ## 'CAS is definitely here to stay', aligns Indian equities with global benchmarks: SEBI Chairman
 The Closing Auction Session (CAS) is "here to stay" as a core market reform, SEBI Chairman Tuhin Kanta Pandey stated on Monday, while confirming the regulator is open to making operational tweaks to refine the mechanism, if needed.
@@ -293,13 +302,4 @@ Central bank intervention is anchoring the rupee's trading range. State-run bank
 
 ## SEBI to review CAS feedback, but closing auction mechanism here to stay: Chairman
 The Securities and Exchange Board of India (SEBI) is analysing concerns raised by traders and other market participants over the new Closing Auction Session (CAS) for futures and options (F&O) eligible stocks but the mechanism is here to stay, Chairman Tuhin Kanta Pandey said on Monday.
-
-## SEBI chief calls for collective cyber resilience as threats grow more sophisticated
-India's financial sector needs to shift from periodic cybersecurity compliance to continuous, risk-driven cyber resilience as threats become increasingly interconnected and sophisticated, SEBI Chairman Tuhin Kanta Pandey said on Monday.
-
-## RBI cuts FX swap window short after NRI deposits cross $50 billion
-The Reserve Bank of India shortened its zero-cost FX swap facility for banks. This action followed substantial foreign deposit inflows from non-resident Indians. Policymakers also considered domestic liquidity effects and fundraising costs. The overseas fundraising supported the rupee, which had rea
-
-## PM GatiShakti: 396 infra projects worth Rs 18.66 lakh crore recommended for approval
-Nearly four hundred infrastructure projects have received approval under the PM GatiShakti initiative. These projects, valued at over eighteen lakh crore rupees, span various ministries. The Network Planning Group has evaluated these significant infrastructure developments for implementation. This i
 
