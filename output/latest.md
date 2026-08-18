@@ -36,32 +36,29 @@ A scandal engulfing the billionaire’s insurers has the private capital industr
 ## UK examines economic hit from loss of access to frontier AI models
 Urgent assessment comes after Donald Trump blocked foreign national access to Anthropic’s Fable 5
 
-## Burger King is taking a bite out of McDonald’s lunch
-Fast food rival has invested roughly $2bn in its US business over the past four years
+## Biocon arm gets supplemental USFDA approval for autoimmune disease drug
+This new delivery format supports more tailored treatment approaches across different care settings and patient needs
 
-## India's semiconductor ecosystem set for expansion, 5-6 projects may go live by 2026-end: MeitY Secy S Krishnan
-Semicon India 2026 is expected to draw more than 240 international companies, over 150 globally renowned speakers, delegations from more than 40 countries and six country-specific pavilions
+## Tata Sons AGM adjourned due to lack of quorum
+The meeting had to be adjourned because Sir Dorabji Tata Trust and Sir Ratan Tata Trust, which jointly nominate a representative, could not be present
+
+## ASK Property Fund books ₹340 crore exit from Chennai housing project
+The fund, which is the real estate private equity arm of the Blackstone-backed ASK Asset & Wealth Management Group, had deployed the capital into the project in 2023
 
 ## Realty firms, PE funds commit ₹13K crore investment since 2025 to build senior living homes: Colliers
 “Over ₹13,000 crore in investments announced since 2025 are expected for senior living projects in the next 3-4 years,” said Colliers
 
-## Manipal Hospital Whitefield Marks Independence Day by Celebrating the Spirit of Life
-Manipal Hospital Whitefield Marks Independence Day by Celebrating the Spirit of Life
+## Blackstone-backed Horizon Industrial Parks opens today at ₹57-60
+Market lot is 250 shares; company raised ₹1,167.75 crore
 
-## Fitch Upgrades IIFL Finance to 'BB-'; Outlook Stable
-Fitch Upgrades IIFL Finance to 'BB-'; Outlook Stable
+## Cash demand stays strong despite digital payments boom, says RBI Deputy Governor Murmu
+Addressing central bankers from across the world, Murmu noted that currency in circulation continues to grow at double-digit rates despite a decline in cash’s share of individual transactions due to increasing digital payment adoption.
 
-## 24/7 Trading Is Becoming Market Infrastructure -- Vantage and Macroeconomist Fu Peng Examine the Liquidity Limits
-24/7 Trading Is Becoming Market Infrastructure -- Vantage and Macroeconomist Fu Peng Examine the Liquidity Limits
+## ICICI Bank stock slips 0.45% as bank prices $750 million bond issue
+The bank’s IFSC Banking Unit priced five-year Senior Unsecured Fixed Rate Notes at a 5.417% coupon early Tuesday under its $7.5 billion Global Medium Term Note Programme
 
-## TEXMiN–MaxelS’ Nagpur Center of Excellence to focus on critical mineral value chains in Maharashtra
-The State holds roughly 41 per cent of India’s rare earth element (REE) resources, with Nagpur being the heart of the Vidarbha mining and coal belt.
-
-## Sensex today | Stock Market Highlights: Sensex falls 493 points, Nifty slips for 6th straight session
-Sensex, Nifty, Share Prices Highlights: Benchmarks ended in the red for the 6th straight session, with Sensex depreciating 492.70 pts or 0.63% to 77,235.46, and Nifty 50 declining 132.75 pts or 0.55% to 24,154.90. IT, realty and PSU bank stocks led the sectoral decliners.
-
-## IMD update: Depression drenches East, more rain seen as Bay hints at another ‘low’
-The monsoon trough’s eastern end dipping into the Bay is a telling signal: the waters could spring back to life sooner rather than later, with another low-pressure area potentially taking shape
+## India's semiconductor ecosystem set for expansion, 5-6 projects may go live by 2026-end: MeitY Secy S Krishnan
+Semicon India 2026 is expected to draw more than 240 international companies, over 150 globally renowned speakers, delegations from more than 40 countries and six country-specific pavilions
 
 ## Banks closed tomorrow: Why branches will remain shut in Tripura on August 19
 On August 19, banks across Tripura will be closed in observance of a regional holiday. Other states will also experience bank holidays later this month to honor various festivals. While branch operations will be halted, digital banking services will continue to function normally. Customers should ad
@@ -87,6 +84,18 @@ On Tuesday morning, the Indian rupee experienced a drop against the US dollar, i
 ## Top stocks to buy today: Stock market recommendations for August 18, 2026 - check list
 Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and Kfin Technologies are the top stocks to buy that Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has recommended for August 18, 2026:
 
+## CJP's Ashutosh Ranka alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP leaders
+Ashutosh Ranka expressed disappointment over the cancellation and remarked that this move only proves that the BJP is scared of cockroaches.
+
+## Goa nightclub fire: HC cancels bail granted to Luthra brothers, business partner
+The prosecution challenged the bail granted to the Luthra brothers and Ajay Gupta alleging that the offence was of serious nature
+
+## 13-year-old hires 3 friends to kill grandfather in Kerala, wanted iPhone, bike for boyfriend
+Kerala police also suspect she had a grudge against Sivankutty after he repeatedly scolded her for using her phone frequently and returning home late.
+
+## Top cop in Bihar's Siwan transferred amid row over AK-47 at student protest
+Puran Kumar Jha has been placed on the waiting list for a new posting.
+
 ## 36 tonnes of adulterated ghee, raw material seized in Hyderabad
 The adulterated ghee was reportedly distributed across Telangana and neighbouring states, thereby posing a serious risk to public health, police added.
 
@@ -98,18 +107,6 @@ Meitei groups have been pressing for an NRC to identify undocumented migrants wh
 
 ## ‘I have a blueprint’: What’s next for Jharkhand student leader Devendra Nath Mahto after ‘historic win’?
 Devendra Nath Mahto said he has prepared a blueprint for reforming the examination system and will share it with the Jharkhand government.
-
-## ₹1.20 crore for testicles: How an Instagram reel led to teen boy's murder in Bhopal
-The probe revealed that the plan emerged from an Instagram reel. The accused claimed that the testicles could be sold for about ₹1.20 crore, police said.
-
-## Affair, doubts, Bigg Boss, then a murder plan: How Bengaluru woman killed husband and son
-Accused Harini herself had reportedly called the police helpline to inform of her husband and son's death, which later turned out to be double murder case.
-
-## ‘Where is he?’ AAP claims Delhi Police 'picked up' its MLA Kuldeep Kumar, HC agrees to urgent hearing
-AAP national convener Arvind Kejriwal alleged Delhi Police picked up MLA Kuldeep Kumar from his home, broke the CCTV cameras, and took the DVR along with them.
-
-## Lalu calls for march to Lok Bhavan on Aug 19 against state govt's 'dictatorial attitude'
-RJD's national working president and Lalu's son, Tejashwi, had said Mahagathbandhan leaders would submit a memorandum to the Governor over the Siwan incident.
 
 ## Hong Kong 5-year plan should have Northern Metropolis tax breaks, listing reforms: HKICPA
 The Hong Kong Institute of Certified Public Accountants (HKICPA) has urged the government to introduce tax incentives to help develop the Northern Metropolis and to improve the stock exchange’s listing regime to further cement the city’s role in international finance. The organisation’s submission f
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russia protests Japan PM’s comments after Putin’s Kuril visit
+Russia summons Japan's ambassador to Moscow over Prime Minister Sanae ⁠Takaichi's 'anti-Russian' remarks.
+
+## Why has Trump threatened to bomb Oman – for a second time?
+The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.
+
+## Premier League what to know: Schedule, prediction, transfers and more
+Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.
+
+## What to know about California’s special election to replace Eric Swalwell
+A race that once received little attention has seen outside spending from the American Israel Public Affairs Committee.
+
 ## Tupac Shakur murder trial begins thirty years after his death
 Former gang boss Duane ‘Keffe D’ Davis stands trial over Tupac Shakur’s 1996 murder, the first prosecution in the case.
 
-## Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine
-Families mourn their loved ones as Ukrainian experts lament Washington's elusive promises of military support.
+## Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine
+Deaths mount as Russia ramps up missile attacks on Ukraine, while Washington's promises of support remain elusive.
 
 ## India’s ‘Cockroach’ movement makes schools next battleground against Modi
 Cockroach leaders asked supporters to audit their nearest government-run schools. But it has started with a killing.
 
 ## Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain
 Al-Ahli and Al Ain, who will also face Cristiano Ronaldo's Al-Nassr, are the pick of the match-ups in AFC's Elite draw.
-
-## Eight air strikes hit airbase in Syria’s Idlib
-Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.
-
-## Brazil’s president says Amazon oil is ‘passport to the future’
-Brazil's president says Amazon oil is ‘passport to the future’
-
-## Syrian man dies in custody after alleged abuse by security officers
-A Syrian man died in police custody after his family alleged he was severely beaten.
-
-## Meta lawsuits: Is social media facing a global legal reckoning?
-Meta battles legal challenges in the US, Europe and beyond over platform design and its impact on younger users.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
@@ -279,6 +276,9 @@ Amendments introduce new accounting framework for nature dependent electricity c
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
 
+## SEBI tightens mutual fund sponsor disclosure norms
+The capital markets regulator introduces a streamlined single application form requiring detailed disclosures on ownership, financial health, and governance from new fund applicants.
+
 ## RBI finds cash demand harder to predict as digital payments grow
 RBI faces challenges forecasting demand for banknotes as currency in circulation continues to grow at double-digit rates despite rising digital payments. Deputy Governor SC Murmu said cash remains widely used, particularly in rural areas, among low-income groups and small businesses.
 
@@ -299,7 +299,4 @@ India's financial sector needs to shift from periodic cybersecurity compliance t
 
 ## RBI seeks NBFC feedback on revolving credit rules, stresses compliance and risk controls
 The Reserve Bank of India (RBI) has sought feedback from non-banking finance companies (NBFCs) on draft guidelines proposed for regulating revolving credit facilities, while emphasising the need for stronger compliance, internal audit and risk management frameworks, a report has said.
-
-## India RBI's heavy FX footprint revives memories of a tightly managed rupee
-Central bank intervention is anchoring the rupee's trading range. State-run banks consistently offered dollars to curb currency pressure. This intervention has established a narrow trading range for the rupee. The Reserve Bank of India's actions revive memories of past interventions. Dollar inflows 
 
