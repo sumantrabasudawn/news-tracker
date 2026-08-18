@@ -39,29 +39,32 @@ The company has been targeted in more than 100 copyright lawsuits in US courts s
 ## Chris Hohn’s hedge fund bets on Italian luxury hotels
 Billionaire stockpicker has stakes in loans to landmark properties in Venice, Capri, Lake Como and Milan
 
-## Sensex today | Stock Market Live: Sensex down 250 pts in early trade, Nifty below 24,250; Infosys, IndiGo top losers
+## Australian education delegation visits Pune to strengthen India partnership
+The engagements focused on understanding the evolving aspirations of Indian students, exploring academic collaborations and student pathways, and strengthening institutional ties between Australian and Indian education institutions
+
+## Milky Mist Share Price & IPO Listing Live: Debuts at ₹165 on NSE, BSE, marking 18% premium, hits upper circuit
+Milky Mist IPO listing today, Milky Mist share price live updates: Follow businessline for live updates
+
+## Sensex today | Stock Market Live: Sensex down 370 pts in early trade, Nifty near 24,200; Infosys, HCL Tech top losers
 Sensex, Nifty, Share Prices LIVE: Markets opened in the red on Tuesday, August 18, extending a five-session losing streak as surging crude oil prices and the collapse of the U.S.-Iran ceasefire kept investor sentiment under pressure
 
-## Crude oil rises on reports of Iran adopting more offensive stance
-At 9.41 am on Tuesday, October Brent oil futures were at $91.56, up by 0.76%, and October crude oil futures on WTI (West Texas Intermediate) were at $84.50, up by 0.91%
+## Kerala: Fresh ED raids in CMRL-Exalogic Solutions case
+They said eight locations in the state are being covered as part of the action under the Prevention of Money Laundering Act (PMLA)
 
-## Horizon Industrial Parks IPO Day 1: Subscribed 14x so far
-The industrial and logistics park developer is seeking funds mainly for debt repayment, while investors weigh its growth prospects and valuation.
+## Zydus Hospitals Sets New Benchmarks in High-Risk Pregnancy and Complex Gynaecological Care
+Zydus Hospitals Sets New Benchmarks in High-Risk Pregnancy and Complex Gynaecological Care
 
-## Indian lenders’ dollar bond sales hit record near $9 billion
-The deals have gathered pace since the RBI in early June announced the concessional foreign-exchange swap facility for banks and state-run firms to shore up a weakening rupee, boosting domestic liquidity and supporting credit growth
+## Milky Mist shares list 17.8% premium, trades 30% over ₹140-IPO price
+The stock hit the upper circuit, trading with 30% listing gains
 
-## Nifty slips for fifth straight session as crude spike, Iran fears rattle Dalal Street
-Sensex was trading at 77,465.70, down 262.46 points or 0.34%; Nifty 50 opened at 24,223.85 and was trading at 24,237.75, down 49.90 points or 0.21%
+## India, Armenia sign MoU on innovation and shared production in defence industry
+Earlier on Monday, the Defence Secretary met Armenian Defence Minister Suren Papikyan in Yerevan to explore potential pathways to enhance bilateral defence engagement
 
-## Stocks fall, oil gains on West Asia uncertainty: Markets wrap
-Equity-index futures pointed to declines in Sydney, Tokyo and Hong Kong on Tuesday, while South Korean markets were set to reopen after a holiday
+## Sunshine Pictures IPO opens for subscriotion today at ₹342-360
+As much as 50% of the net issue is reserved for qualified institutional buyers (QIBs), while 15% is reserved for non-institutional investors (NIIs). Retail investors have been offered 35% of the net issue
 
-## Rising oil, US yields add to rupee pressure after RBI move
-The rupee is expected to open in the 95.68 to 95.72 range, traders ‌said, after settling at 95.6025 to the dollar on Monday
-
-## India's CAD may widen in FY27, but capital flows may support Rupee in H2: Report
-The private lender noted in its report that India's goods deficit widened sharply to $85.7 billion in Q1 FY27 from $68.9 billion a year ago
+## Rupee slips 7 paise against US dollar as crude soars beyond $90 per barrel levels
+On Tuesday morning, the Indian rupee experienced a drop against the US dollar, influenced by rising crude oil prices and persistent demand for dollars. Brent crude futures remained above ninety-one dollars per barrel, amplifying the necessity for dollars. Compounding this issue was the Reserve Bank'
 
 ## Top stocks to buy today: Stock market recommendations for August 18, 2026 - check list
 Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and Kfin Technologies are the top stocks to buy that Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has recommended for August 18, 2026:
@@ -84,32 +87,29 @@ Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled 
 ## In a 1st for Indian AI co, Prisma issues 200cr bonds
 
 
-## CAS here to stay, it can be improved upon: Sebi
+## CWC meet to chart expansion of Rahul’s ‘Chhatron ki Goonj’
+Rahul Gandhi's 'Chhatron ki Goonj' outreach program aims to engage students post-protests, focusing on education reforms and issues affecting youth.
 
+## Indian-origin teen secures Guinness world record for becoming youngest male CA
+Dubai-based Lakshmanan Meyyappan set a Guinness record by earning a chartered accountant (CA) qualification at the age of 16.
+
+## BJP brings back Smriti Irani, Ram Madhav in big national team rejig: Who got what
+The updated team includes a mix of experienced and new faces, emphasizing social representation, as anticipation builds for a cabinet reshuffle in September.
+
+## Snake found at Shahrukh Khan's residence in Mumbai, rescued
+While one of the snakes, identified as a rat snake, was rescued, the other is yet to be found.
+
+## Jharkhand exam irregularities protest likely to continue over CBI probe demand
+Ravindra Paswan, the spokesperson for the protesters, said they would continue the protest until their demand for CBI probe is met
+
+## Tarapith fire: Hotel owner, son arrested as death toll rises to 9
+Two people, including hotel owner Kalyan Pal, have been detained in connection with the blaze, as police probe whether there were lapses in fire-safety arrangements at the establishment
 
 ## 'Goli kahaan chali hai?': Rijiju says no one was harmed during CJP-led student protest, praises Delhi Police
 Kiren Rijiju also praised the Delhi Police for managing the protests despite some “criminals” joining the agitation under the guise of being students.
 
 ## UGC-NET Row: NTA removes over 50 staff, fills 10 new leadership roles
 The move comes a day after the NTA on Sunday announced a re-exam for UGC NET papers after a panel constituted by NTA found errors in the question papers.
-
-## 8 labourers killed in MP as their pick-up loses control while trying to save cattle, collides with truck
-The accident occurred while they were returning home after working in Gwalior, with preliminary reports indicating the driver lost control avoiding cattle.
-
-## Ex-Ram Temple official Champat Rai gets clean chit in donation theft case weeks after resignation
-The SIT also cleared the name of former trustee Anil Mishra. A second SIT is continuing its probe into the case.
-
-## AK-47 use during protest did not result in injury, Bihar govt tells Supreme Court
-The cop responsible for the use of the AK-47 rifle has since been placed under suspension by the Bihar government for “undesire conduct”.
-
-## Why Shehzad Poonawalla quit BJP: ‘Planning since 2024. It was either my job or…'
-Shehzad Poonawalla says the post of party spokesperson does not carry a salary because it is a voluntary position.
-
-## Dimagi Naxal Party's Instagram account temporarily restricted after blowing up on platform
-Created after PM Modi used the term “dimagi Naxals” in his Independence Day speech, the account said two posts were removed under legal requirements.
-
-## Woman SI, journalist and two others held for abducting Odisha businessman
-A woman police sub-inspector and a journalist were among four arrested for allegedly kidnapping a businessman, assaulting him and demanding ₹50 lakh ransom
 
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
@@ -120,8 +120,8 @@ Some of Wall Street’s best-known billionaire investors are reshuffling their b
 ## Even the rich in Hong Kong expect to work past retirement age, survey says
 Wealthy Hongkongers now invest in a way that shows they do not have a fixed retirement age in mind, as most of them expect to work longer than their parents, according to a survey. Some 58 per cent of high-net-worth individuals in Hong Kong expected to work beyond retirement age, with 32 per cent an
 
-## China’s ‘national team’ ditches Kweichow Moutai in move that adds to valuation woes
-China’s state-backed funds are pulling out of Kweichow Moutai, adding to the woes of the nation’s biggest baijiu liquor maker whose stock has lost more than 40 per cent from its peak five years ago. Central Huijin Investment, a unit operated by China’s sovereign wealth fund, and China Securities Fin
+## China’s ‘national team’ ditches Kweichow Moutai, adding to valuation woes
+China’s state-backed funds are pulling out of Kweichow Moutai, adding to the woes of the nation’s biggest baijiu liquor maker, whose stock has lost more than 40 per cent from its peak five years ago. Central Huijin Investment, a unit operated by China’s sovereign wealth fund, and China Securities Fi
 
 ## Is Hong Kong’s property market recovery running out of gas? UBS flags 4 risks
 The Hong Kong property market’s recovery is forecast to moderate in both prices and rents in the coming months as disruptions brought about by artificial intelligence, slower population inflows and other factors are likely to impact the upturn, according to UBS. The Swiss investment bank said that i
@@ -132,7 +132,7 @@ George Tung, CEO of UOB Hong Kong, is positioning the bank to leverage the city�
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
 
-## Billionaire Geely Auto head Li Shufu steps down as profit slips
+## Geely’s Li Shufu hands over reins to younger generation for ‘healthy’ growth
 Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker. Li, the 63-year-old founder of the automotive group, announced his resignation just after 
 
 ## Is Trump Choosing North Korea Over South Korea?
@@ -231,13 +231,16 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hichilema wins second second term as president of copper-rich Zambia
+## A hero’s welcome as Cameroon parades its first Women’s AFCON title
+Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup
+
+## Hichilema wins second term as president of copper-rich Zambia
 Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.
 
 ## Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
 Mourners blame relentless and 'racist' media scrutiny for former Cambridge University professor's death.
 
-## Two killed as student opens fire at Philippines high school, officials say
+## Two students killed in Philippines school shooting
 Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
 
 ## Trump says talking to North Korea’s Kim makes the south safer
@@ -251,9 +254,6 @@ Thousands mourned Jason Arday in central London, and voiced anger over the Cambr
 
 ## Zambia’s President Hakainde Hichilema wins second term
 Official results show incumbent receiving about 61 percent of votes, compared with ⁠38 percent for his main challenger.
-
-## Iran war live: Trump rejects MoU extension as US claims control of Hormuz
-US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
