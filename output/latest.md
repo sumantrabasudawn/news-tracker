@@ -39,29 +39,29 @@ The company has been targeted in more than 100 copyright lawsuits in US courts s
 ## Chris Hohn’s hedge fund bets on Italian luxury hotels
 Billionaire stockpicker has stakes in loans to landmark properties in Venice, Capri, Lake Como and Milan
 
+## NIVEA targets Gen Z with science-backed glow range
+The range targets common skin concerns, dullness, dark spots, open pores, and dehydration, through a combination of active ingredients
+
+## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty drops below 24,200; Infosys, HCL Tech top losers
+Sensex, Nifty, Share Prices LIVE: Markets opened in the red on Tuesday, August 18, extending a five-session losing streak as surging crude oil prices and the collapse of the U.S.-Iran ceasefire kept investor sentiment under pressure
+
+## Indian bonds wobble on oil strain, RBI swap pullback
+The yield on the ⁠benchmark 6.94% 2036 bond crept up 3 basis points to 6.8407% by 10:45 a.m. IST. It had jumped 5 bps on Monday, ‌its steepest one-day rise in over a month
+
+## HDFC Bank shares slip under selling pressure, near 52-week low
+The stock opened at ₹726.30, touched a high of ₹729, matching the previous close, before slipping to a low of ₹724.60, just above its 52-week low of ₹722, recorded on August 12
+
 ## Australian education delegation visits Pune to strengthen India partnership
 The engagements focused on understanding the evolving aspirations of Indian students, exploring academic collaborations and student pathways, and strengthening institutional ties between Australian and Indian education institutions
 
 ## Milky Mist Share Price & IPO Listing Live: Debuts at ₹165 on NSE, BSE, marking 18% premium, hits upper circuit
 Milky Mist IPO listing today, Milky Mist share price live updates: Follow businessline for live updates
 
-## Sensex today | Stock Market Live: Sensex down 370 pts in early trade, Nifty near 24,200; Infosys, HCL Tech top losers
-Sensex, Nifty, Share Prices LIVE: Markets opened in the red on Tuesday, August 18, extending a five-session losing streak as surging crude oil prices and the collapse of the U.S.-Iran ceasefire kept investor sentiment under pressure
-
 ## Kerala: Fresh ED raids in CMRL-Exalogic Solutions case
 They said eight locations in the state are being covered as part of the action under the Prevention of Money Laundering Act (PMLA)
 
 ## Zydus Hospitals Sets New Benchmarks in High-Risk Pregnancy and Complex Gynaecological Care
 Zydus Hospitals Sets New Benchmarks in High-Risk Pregnancy and Complex Gynaecological Care
-
-## Milky Mist shares list 17.8% premium, trades 30% over ₹140-IPO price
-The stock hit the upper circuit, trading with 30% listing gains
-
-## India, Armenia sign MoU on innovation and shared production in defence industry
-Earlier on Monday, the Defence Secretary met Armenian Defence Minister Suren Papikyan in Yerevan to explore potential pathways to enhance bilateral defence engagement
-
-## Sunshine Pictures IPO opens for subscriotion today at ₹342-360
-As much as 50% of the net issue is reserved for qualified institutional buyers (QIBs), while 15% is reserved for non-institutional investors (NIIs). Retail investors have been offered 35% of the net issue
 
 ## Rupee slips 7 paise against US dollar as crude soars beyond $90 per barrel levels
 On Tuesday morning, the Indian rupee experienced a drop against the US dollar, influenced by rising crude oil prices and persistent demand for dollars. Brent crude futures remained above ninety-one dollars per barrel, amplifying the necessity for dollars. Compounding this issue was the Reserve Bank'
@@ -87,29 +87,29 @@ Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled 
 ## In a 1st for Indian AI co, Prisma issues 200cr bonds
 
 
+## India launches grasslands, open natural ecosystems guide at Mongolia UN event
+The guide lists important species dependent on India’s grasslands for survival, including the great Indian bustard and the lesser florican
+
+## Complaints by some members can't warrant probe into housing society's finances: Bombay HC
+The court made the observation while quashing an order passed by a deputy registrar initiating an inquiry into a housing society in Mumbai's Kurla.
+
+## Connecting with young voters, balancing RSS roots & image reset for assembly polls: The calculation behind BJP rejig
+The focus on the upcoming assembly elections, particularly Uttar Pradesh, is also evident in the revamp of the BJP’s IT cell.
+
+## Andhra CM orders intensified search for 8 missing fishermen
+Andhra CM orders intensified search for 8 missing fishermen
+
+## AAP alleges MLA 'kidnapped' by police in 'plain clothes' for raising issue of sanitation worker's death
+AAP alleges its MLA was taken to 'undisclosed location' by Delhi Police. There was no immediate response from Delhi Police on the matter.
+
+## Dipke gets offer from Union minister to join BJP-led NDA faction: ‘We are a government that…’
+The CJP leader has also previously ruled out entering electoral politics, saying that people have lost faith in politics and the election system.
+
 ## CWC meet to chart expansion of Rahul’s ‘Chhatron ki Goonj’
 Rahul Gandhi's 'Chhatron ki Goonj' outreach program aims to engage students post-protests, focusing on education reforms and issues affecting youth.
 
 ## Indian-origin teen secures Guinness world record for becoming youngest male CA
 Dubai-based Lakshmanan Meyyappan set a Guinness record by earning a chartered accountant (CA) qualification at the age of 16.
-
-## BJP brings back Smriti Irani, Ram Madhav in big national team rejig: Who got what
-The updated team includes a mix of experienced and new faces, emphasizing social representation, as anticipation builds for a cabinet reshuffle in September.
-
-## Snake found at Shahrukh Khan's residence in Mumbai, rescued
-While one of the snakes, identified as a rat snake, was rescued, the other is yet to be found.
-
-## Jharkhand exam irregularities protest likely to continue over CBI probe demand
-Ravindra Paswan, the spokesperson for the protesters, said they would continue the protest until their demand for CBI probe is met
-
-## Tarapith fire: Hotel owner, son arrested as death toll rises to 9
-Two people, including hotel owner Kalyan Pal, have been detained in connection with the blaze, as police probe whether there were lapses in fire-safety arrangements at the establishment
-
-## 'Goli kahaan chali hai?': Rijiju says no one was harmed during CJP-led student protest, praises Delhi Police
-Kiren Rijiju also praised the Delhi Police for managing the protests despite some “criminals” joining the agitation under the guise of being students.
-
-## UGC-NET Row: NTA removes over 50 staff, fills 10 new leadership roles
-The move comes a day after the NTA on Sunday announced a re-exam for UGC NET papers after a panel constituted by NTA found errors in the question papers.
 
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Can Trump limit birthright citizenship? Legal experts are doubtful
+Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.
+
 ## A hero’s welcome as Cameroon parades its first Women’s AFCON title
 Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup
 
@@ -240,7 +243,7 @@ Hichilema wins Zambia’s election with 60% after attacks on election officials 
 ## Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
 Mourners blame relentless and 'racist' media scrutiny for former Cambridge University professor's death.
 
-## Two students killed in Philippines school shooting
+## Two students killed in Philippine school shooting
 Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
 
 ## Trump says talking to North Korea’s Kim makes the south safer
@@ -251,9 +254,6 @@ At least 20 injured and dozens of fuel tankers destroyed as flames rip through w
 
 ## Vigil held in central London for late Cambridge professor Jason Arday
 Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
-
-## Zambia’s President Hakainde Hichilema wins second term
-Official results show incumbent receiving about 61 percent of votes, compared with ⁠38 percent for his main challenger.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
