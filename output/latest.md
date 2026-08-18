@@ -24,11 +24,11 @@ Board member called out party leader last week for failing to appear at Clacton 
 ## Disney accuses Trump administration of cracking down on freedom of speech
 US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts
 
+## Klarna overhauls leadership as it targets US banking licence
+Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
+
 ## BHP’s copper pivot is paying off
 Miner’s pipeline looks increasingly convincing given the red metal’s ubiquitous use
-
-## Diageo sheds 2,000 staff as CEO Dave Lewis kicks off restructuring
-Drinks group’s workforce shrank last year after rise in employer taxes and decline in demand
 
 ## Minfy Expands U.S. Presence in Virginia to Deepen Customer Engagement and Accelerate AI-Driven Outcomes
 Expansion strengthens proximity to enterprise customers and bridges the gap between AI strategy and real-world deployment‍
@@ -174,7 +174,7 @@ War with Thailand pushed Cambodia to enact a sweeping scam crackdown. Now the ru
 ## Daughter of Former Cambodian Opposition Leader Appointed ‘Special Envoy’ to PM
 Kem Monovithya's appointment comes three months after her father Kem Sokha received a royal pardon quashing a 27-year sentence for treason.
 
-## How Feasible is a European Nuclear Deterrent Without Washington?
+## How Feasible Is a European Nuclear Deterrent Without Washington?
 In 2025, James Cameron wrote, “Eurodeterrent: A Vision for an Anglo-French Nuclear Force,” where he argued the United Kingdom and France should cooperate to develop a nuclear deterrent umbrella for Europe, independent of Washington. A year later, after French President Emmanuel Macron’s landmark nuc
 
 ## AI and the Risks of Tearing Down an Old System
@@ -222,6 +222,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant
+Concern over the security of Europe's largest nuclear plant has been rife since Russia launched its full-scale war.
+
+## Jose Mourinho returns to Real Madrid in closed-door ceremony
+In an unusually private ceremony, Jose Mourinho has officially begun his second spell as Real Madrid manager.
+
+## Liberia to take 1,200 deportees from the US
+The first group of 20 deportees is expected to arrive in the coming days.
+
+## Russian missile strike kills 10 civilians in Kharkiv
+A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.
+
+## Trump and Carney speak ahead of US tariff deadline
+The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.
+
 ## US sanctions International Criminal Court president and trial lawyer
 The Trump administration has led a campaign to 'dismantle' the court, calling it a threat to national sovereignty.
 
@@ -230,21 +245,6 @@ Ivy League schools were pressured into settlements despite a lack of evidence, a
 
 ## Turkish politician Melih Meric stabbed
 Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.
-
-## US seeks to revive criminal case against Kilmar Abrego Garcia
-Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it.
-
-## The ‘witch-hunt’ of Jason Arday
-The ‘witch-hunt’ of Jason Arday
-
-## US judge says government can revoke deportation protections for Ethiopians
-Ruling permits Trump administration to nix Ethiopians' protected status despite concern over conditions in the country.
-
-## Landmark trial on Meta’s impact on children’s mental health begins in US
-Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.
-
-## Israeli strike on Gaza City cafe kills six, including child
-An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
