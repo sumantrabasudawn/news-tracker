@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## FirstFT: Asian doubts over US resolve
+Also in today’s newsletter: TCI bets on Italian luxury hotels and Russia fires top economist
+
+## China’s 10-year bond yield falls to 13-month low
+Weak economic growth pushes investors into sovereign debt
+
+## AI: like a debt machine
+Credit (and rates) markets reel from rise and rise of hyperscaler issuance
+
 ## Seoul rattled by Trump’s threat to drills at heart of US alliance
 US president’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally
 
@@ -15,12 +24,6 @@ Urgent assessment comes after Donald Trump blocked foreign national access to An
 ## Burnham faces EU clash over youth scheme as summit looms
 Ireland’s European affairs minister says ‘a lot of work still to do’
 
-## Top UK civil servant received record £500,000 payout after Starmer sacking
-Sudden circumstances of Chris Wormald’s exit led to a much more generous settlement than initially thought
-
-## The difficult truth about Jason Arday
-From the beginning, investigations were accompanied by a cloud of excessive references to his race
-
 ## Burger King is taking a bite out of McDonald’s lunch
 Fast food rival has invested roughly $2bn in its US business over the past four years
 
@@ -33,35 +36,32 @@ Young customers are flocking to ‘ready-to-drink’ beverages as other alcohol 
 ## AI hasn’t gone rogue. It’s worse than that
 Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
 
-## Counterfeiting claims threaten to take the shine off Shein
-The company has been targeted in more than 100 copyright lawsuits in US courts since the start of 2023
+## Gold Rate Today, Aug 18: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
+22, 24 carat Gold prices up across Indian cities on August 18
 
-## Chris Hohn’s hedge fund bets on Italian luxury hotels
-Billionaire stockpicker has stakes in loans to landmark properties in Venice, Capri, Lake Como and Milan
-
-## NIVEA targets Gen Z with science-backed glow range
-The range targets common skin concerns, dullness, dark spots, open pores, and dehydration, through a combination of active ingredients
+## Kerala’s Vizhinjam Port begins full-scale EXIM operations
+The port’s transition to EXIM operations is aimed at giving exporters and importers in Kerala a more direct route to international markets, highlighting sectors including seafood, spices, cashew, coir and engineering goods
 
 ## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty drops below 24,200; Infosys, HCL Tech top losers
 Sensex, Nifty, Share Prices LIVE: Markets opened in the red on Tuesday, August 18, extending a five-session losing streak as surging crude oil prices and the collapse of the U.S.-Iran ceasefire kept investor sentiment under pressure
 
-## Indian bonds wobble on oil strain, RBI swap pullback
-The yield on the ⁠benchmark 6.94% 2036 bond crept up 3 basis points to 6.8407% by 10:45 a.m. IST. It had jumped 5 bps on Monday, ‌its steepest one-day rise in over a month
-
-## HDFC Bank shares slip under selling pressure, near 52-week low
-The stock opened at ₹726.30, touched a high of ₹729, matching the previous close, before slipping to a low of ₹724.60, just above its 52-week low of ₹722, recorded on August 12
-
-## Australian education delegation visits Pune to strengthen India partnership
-The engagements focused on understanding the evolving aspirations of Indian students, exploring academic collaborations and student pathways, and strengthening institutional ties between Australian and Indian education institutions
-
-## Milky Mist Share Price & IPO Listing Live: Debuts at ₹165 on NSE, BSE, marking 18% premium, hits upper circuit
+## Milky Mist Share Price & IPO Listing Live: Locked in upper circuit on NSE & BSE, after debuting at ₹165
 Milky Mist IPO listing today, Milky Mist share price live updates: Follow businessline for live updates
 
-## Kerala: Fresh ED raids in CMRL-Exalogic Solutions case
-They said eight locations in the state are being covered as part of the action under the Prevention of Money Laundering Act (PMLA)
+## Milky Mist shares list 17.8% premium, trades 30% over ₹140-IPO price
+Shares of Milky Mist Dairy Food debuted on the NSE and BSE at ₹165, a 17.8 per cent premium over the IPO price of ₹140, reflecting positive momentum
 
-## Zydus Hospitals Sets New Benchmarks in High-Risk Pregnancy and Complex Gynaecological Care
-Zydus Hospitals Sets New Benchmarks in High-Risk Pregnancy and Complex Gynaecological Care
+## Amit Metaliks targets faster completion of ₹4,000-crore Bengal steel project; eyes jobs for local youth
+West Bengal CM Suvendu Adhikari laid the foundation stone for the company's greenfield integrated steel manufacturing project in Raghunathpur in West Bengal's Purulia district
+
+## Crude oil rises on reports of Iran adopting more offensive stance
+At 10.04 am on Tuesday, October Brent oil futures were at $91.49, up by 0.68%, and October crude oil futures on WTI (West Texas Intermediate) were at $84.41, up by 0.80%
+
+## Charging gaps to slow electric LCV adoption; Mahindra sees e-3Ws scaling faster
+Light commercial vehicles are likely to electrify more slowly than 3-wheelers as inadequate charging infrastructure limits the route flexibility commercial operators need, M&M said
+
+## Gold price prediction today: Will gold continue its rally? Check August 18, 2026 outlook
+Spot gold extended its weekly winning streak to the second straight week in the week ending August 14. It closed 0.70% higher for the week at $4376.
 
 ## Rupee slips 7 paise against US dollar as crude soars beyond $90 per barrel levels
 On Tuesday morning, the Indian rupee experienced a drop against the US dollar, influenced by rising crude oil prices and persistent demand for dollars. Brent crude futures remained above ninety-one dollars per barrel, amplifying the necessity for dollars. Compounding this issue was the Reserve Bank'
@@ -84,8 +84,23 @@ Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled 
 ## Govt clears 31 electronics part projects worth 7,877cr
 
 
-## In a 1st for Indian AI co, Prisma issues 200cr bonds
+## Soap cases emerge as unlikely symbol of Northeast’s heroin crackdown
+Authorities intensify drug crackdown following pledges for a drug-free India, with soap cases common in heroin smuggling from Myanmar.
 
+## ‘What MAGA really cares about…’: Ishaan Tharoor jibe at Trump’s India voter ID pitch
+Ishaan Tharoor was responding to a post by Donald Trump, in which he shared details of a conversation his administration had with CEC Gyanesh Kumar.
+
+## SC issues notice to Centre on PIL for restraining police from revealing identity of accused online
+SC issues notice to Centre on PIL for restraining police from revealing identity of accused online
+
+## BJP rejigs state leadership, names new in-charges for poll-bound UP, Punjab, Gujarat
+BJP national president Nitin Nabin appointed Vinod Tawde as the party’s in-charge for Uttar Pradesh, with Jagdish Ishwarbhai Patel named co-in-charge.
+
+## Delhi Police denies excessive use of force during protest: '5k cops tried to manage 30k+ protesters'
+The police said the situation turned violent after sections of the crowd allegedly breached multiple layers of barricades and tried to move towards Parliament.
+
+## Hanging stays as mode of execution, SC leaves door open for future scientific review
+However, the bench made it clear that its dismissal of the challenge would not foreclose future scrutiny of the method of execution
 
 ## India launches grasslands, open natural ecosystems guide at Mongolia UN event
 The guide lists important species dependent on India’s grasslands for survival, including the great Indian bustard and the lesser florican
@@ -93,23 +108,8 @@ The guide lists important species dependent on India’s grasslands for survival
 ## Complaints by some members can't warrant probe into housing society's finances: Bombay HC
 The court made the observation while quashing an order passed by a deputy registrar initiating an inquiry into a housing society in Mumbai's Kurla.
 
-## Connecting with young voters, balancing RSS roots & image reset for assembly polls: The calculation behind BJP rejig
-The focus on the upcoming assembly elections, particularly Uttar Pradesh, is also evident in the revamp of the BJP’s IT cell.
-
-## Andhra CM orders intensified search for 8 missing fishermen
-Andhra CM orders intensified search for 8 missing fishermen
-
-## AAP alleges MLA 'kidnapped' by police in 'plain clothes' for raising issue of sanitation worker's death
-AAP alleges its MLA was taken to 'undisclosed location' by Delhi Police. There was no immediate response from Delhi Police on the matter.
-
-## Dipke gets offer from Union minister to join BJP-led NDA faction: ‘We are a government that…’
-The CJP leader has also previously ruled out entering electoral politics, saying that people have lost faith in politics and the election system.
-
-## CWC meet to chart expansion of Rahul’s ‘Chhatron ki Goonj’
-Rahul Gandhi's 'Chhatron ki Goonj' outreach program aims to engage students post-protests, focusing on education reforms and issues affecting youth.
-
-## Indian-origin teen secures Guinness world record for becoming youngest male CA
-Dubai-based Lakshmanan Meyyappan set a Guinness record by earning a chartered accountant (CA) qualification at the age of 16.
+## Chinese commercial banks gain margin relief, but subdued lending dims outlook
+Chinese commercial banks recorded a rare, modest uptick in net interest margin (NIM) in the second quarter of 2026, marking the sector’s first quarterly expansion in the profitability indicator since 2022, even as underlying loan demand remained weak. Average NIM for commercial banks edged up 1 basi
 
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
@@ -131,9 +131,6 @@ George Tung, CEO of UOB Hong Kong, is positioning the bank to leverage the city�
 
 ## Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years
 Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness. The tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will 
-
-## Geely’s Li Shufu hands over reins to younger generation for ‘healthy’ growth
-Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker. Li, the 63-year-old founder of the automotive group, announced his resignation just after 
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -231,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump says N Korea’s Kim has responded to his request for a conversation
+US president says conversations with Kim Jong Un at a 'positive' stage and slams Seoul for refusing to join war on Iran.
+
 ## Can Trump limit birthright citizenship? Legal experts are doubtful
 Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.
 
@@ -251,9 +251,6 @@ US President Donald Trump has revealed North Korea’s leader Kim Jong Un has re
 
 ## Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
 At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.
-
-## Vigil held in central London for late Cambridge professor Jason Arday
-Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
