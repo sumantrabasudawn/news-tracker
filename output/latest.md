@@ -129,6 +129,12 @@ Chinese commercial banks recorded a rare, modest uptick in net interest margin (
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
 
+## China’s Leaders Go on a Summer Retreat
+Under Xi, the once-collective gathering has become something else.
+
+## Five Years on, Washington Is Failing Afghanistan Again
+Despite administration promises, aid cuts are leaving Afghan mothers and children to die.
+
 ## Vance Pitches a New Objective for the Iran War
 Simply lowering energy prices for U.S. consumers is “goal No. 1”
 
@@ -146,12 +152,6 @@ Caribbean laborers report rat-infested rooms and abusive bosses.
 
 ## Has Turkey Really Resolved Its Kurdish Question?
 Aliza Marcus’s “Resurgence and Revolution” sheds light on the past and future of the Kurdish cause.
-
-## China’s New Laws Are Ensnaring Western Companies
-Beijing is systematically countering U.S. and European sanctions efforts by expanding its jurisdiction.
-
-## The Top 10 Ways Trump Has Made America Weaker
-He’s been one of the most consequential presidents in U.S. history—in all the wrong ways.
 
 ## South Korea’s Nuclear Dilemma
 The debate over acquiring nuclear weapons continues in Seoul.
@@ -177,6 +177,9 @@ War with Thailand pushed Cambodia to enact a sweeping scam crackdown. Now the ru
 ## Daughter of Former Cambodian Opposition Leader Appointed ‘Special Envoy’ to PM
 Kem Monovithya's appointment comes three months after her father Kem Sokha received a royal pardon quashing a 27-year sentence for treason.
 
+## How Feasible is a European Nuclear Deterrent Without Washington?
+In 2025, James Cameron wrote, “Eurodeterrent: A Vision for an Anglo-French Nuclear Force,” where he argued the United Kingdom and France should cooperate to develop a nuclear deterrent umbrella for Europe, independent of Washington. A year later, after French President Emmanuel Macron’s landmark nuc
+
 ## AI and the Risks of Tearing Down an Old System
 Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the op
 
@@ -197,9 +200,6 @@ Editor’s Note: The following article draws on themes from the author’s forth
 
 ## Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk
 Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical infrastructure would be struck. Iranian 
-
-## The Commercial Space Race
-A strong commercial space industry is an important partner for the U.S. government, as it contributes to building more robust space and defense capabilities and facilitates innovation more broadly. As competition between the United States and China heats up, both countries look to the commercial spa
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,6 +225,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge says government can revoke deportation protections for Ethiopians
+Ruling permits Trump administration to nix Ethiopians' protected status despite concern over conditions in the country.
+
 ## Landmark trial on Meta’s impact on children’s mental health begins in US
 Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.
 
@@ -245,9 +248,6 @@ Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to
 
 ## The British state has recast protest as terrorism
 Britain’s ever-broader terrorism laws are erasing the line between political violence, protest and dissent.
-
-## Tropical Storm Lala leaves Hawaii flooded and without power
-Tropical Storm Lala leaves Hawaii flooded and without power
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
