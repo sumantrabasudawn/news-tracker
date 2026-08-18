@@ -33,29 +33,29 @@ Drinks group’s workforce shrank last year after rise in employer taxes and dec
 ## Klarna overhauls leadership as it targets US banking licence
 Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
 
-## Tata Sons’ AGM adjourned for first time ever over quorum issue
-A key shareholder, Sir Ratan Tata Trusts, faces curbs on holding meetings
+## Minfy Expands U.S. Presence in Virginia to Deepen Customer Engagement and Accelerate AI-Driven Outcomes
+Expansion strengthens proximity to enterprise customers and bridges the gap between AI strategy and real-world deployment‍
 
-## Railway ministry approves MRTS handover to TN government
-The handover is to take place within 90 days of execution
+## India’s RCS Adoption Surges 108% as Businesses Shift to Richer Customer Conversations, Reveals Infobip
+Finance and fintech account for 80% of RCS traffic in India, reflecting growing enterprise adoption of richer, more interactive business messaging
 
-## Small/mid-size firms lag as India Inc nears DPDP implementation phase
-Govt sources assert there will be no extension of deadline for implementation of DPDP, even as companies await establishment of Data Protection Board
+## M37Labs Launches Saransh, the First in a New Family of Sovereign Small Language Models
+Built from the ground up on M37Labs infrastructure, Saransh is the first proof point of the company’s Enterprise Proprietary Model (EPM) strategy. Vertical models for Retail, BFSI and Healthcare are targeted for release over the next six months.
 
-## EV ecosystem rapidly expanding in Uttar Pradesh, Karnataka & Telangana
-Power consumption by EV public charging stations across India rose to 1,558.69 million units in FY26
+## 71% of Healthcare Professionals in India Say AI Has Increased Their Capacity to See More Patients: Philips Future Health Index 2026 India Report
+New Delhi, Delhi, India --- Business Wire India
 
-## Meta more cautious about child sexual abuse material after government’s message in recent meeting: Govt sources
-MeitY sources said any social media platform “has to follow” law of the land
+## ShareChat and Moj’s Report in Collaboration with Kantar Finds Microdrama has Emerged as a Mainstream Entertainment Format in India
+New Delhi, Delhi, India --- Business Wire India
 
-## Augmont in talks with 8 MFs for gold, silver ETF liquidity ahead of ₹825 crore IPO
-The IPO-bound company will deposit bullion in the authorised vaults of MFs as per its instructions to generate ETF units for trading on the stock exchanges
+## Zeeba Revamps Packaging and Announces Chef Vikas Khanna as Its Global Brand Ambassador
 
-## Deeper bond with pets, rising vet bills fuel demand for pet insurance
-Insurers report growing interest in pet insurance due to increased awareness of veterinary care, rising treatment costs, and changing lifestyles, especially among nuclear families and DINK households
 
-## L&T Finance expects gold loan biz to contribute over 10% to total loan book in next 5 years
-In order to scale up the gold loan business, the NBFC is planning to set up at least 500 new branches each year till 2031
+## Vehere Appoints Avientek as Official Distributor for the Middle East
+Dubai, United Arab Emirates – Business Wire India
+
+## The Leaders’ Canvas Holds Its First Edition In Gurugram, Brings Together Over 85 Industry Professionals To Talk AI, Insights And Future Of Businesses
+
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
@@ -81,6 +81,9 @@ On August 19, banks across Tripura will be closed in observance of a regional ho
 ## Why India is considering sugar imports as prices hit record levels
 India is considering limited duty-free sugar imports and tighter stock limits. These measures aim to boost domestic supplies and control record high sugar prices. Wholesale sugar prices have climbed nearly twenty percent since early August. Festival season demand typically increases sweetener consum
 
+## 173 UP villages flood-hit; more than 4,000 people shifted to safer locations
+173 UP villages flood-hit; more than 4,000 people shifted to safer locations
+
 ## Legacy vs ‘not for luxury’: War of words in Tamil Nadu assembly over ' ₹5.54-crore' tender to shift CM Vijay's office
 TVK minister Aadhav Arjuna said that the decision to shift CM Vijay's office was simply due to lack of basic amenities in the current building.
 
@@ -101,9 +104,6 @@ In a submission to the DGCA, FIP has also sought to increase pilots' random drug
 
 ## Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case
 Tarun Tejpal had earlier called his conviction "wrong", saying that he will appeal against the order in the Supreme Court.
-
-## 55 kg meth worth ₹300 crore seized from maize consignment near Mumbai port
-The shipment, seized near Nhava Sheva, was allegedly linked to a Pakistan-based narco-trafficking syndicate led by Mohammad Hussain Dad.
 
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Landmark trial on Meta’s impact on children’s mental health begins in US
+Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.
+
+## Israeli strike on Gaza City cafe kills six, including child
+An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.
+
 ## Police attack Indonesian student protesters, arresting at least 21
 Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.
 
@@ -242,12 +248,6 @@ Britain’s ever-broader terrorism laws are erasing the line between political v
 
 ## Tropical Storm Lala leaves Hawaii flooded and without power
 Tropical Storm Lala leaves Hawaii flooded and without power
-
-## Iran prepares to keep economy alive as US threatens further sanctions
-Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.
-
-## Disney sues US regulator, claiming political retaliation over ABC stations
-FCC faces scrutiny as Disney claims licence renewal order is tied to political motives against ABC's coverage.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
