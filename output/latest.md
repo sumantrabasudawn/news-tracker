@@ -24,44 +24,47 @@ AI start-up overhauls its chatbot for young people after high-profile lawsuits
 ## AI phobia is America’s new consensus
 Trump is uncharacteristically deaf to voter fears over the technology
 
-## Here’s Apollo’s big First Brands short presentation
-Fear factor
+## Diageo sheds 2,000 staff as CEO Dave Lewis kicks off restructuring
+Drinks group’s workforce shrank last year after rise in employer taxes and decline in demand
 
 ## Klarna overhauls leadership as it targets US banking licence
 Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
 
+## Here’s Apollo’s big First Brands short presentation
+Fear factor
+
 ## FirstFT: Global bond sell-off deepens
 Also in today’s newsletter: US military pullback raises questions in Asia, and a ray of hope for the drinks industry
 
-## Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%
-UK retail group pushes deeper into luxury sector
+## Swiggy expands leadership team as Instamart, food delivery businesses scale
+Himavant Kurnala has been appointed chief growth and product officer at Instamart, while Nitesh Garg has been elevated to chief technology officer of the quick-commerce business
 
-## Not delving into religious rights, but only dealing with wellbeing, health of captive elephants, SC says
-The Bench, however prima facie did not agree with the NGO’s plea that no new elephants should be made captive anymore
+## BSE shares slide as analysts turn bearish ahead of Nifty 50 entry
+BSE’s 52-week range is ₹2,021.50 to ₹4,446.80; The stock has gained about 33% in the past year but dropped over 8% in the last week due to a reassessment of its near-term earnings
 
-## Vizhinjam starts full EXIM operations with Kerala’s trademark crunchy cargo
-Seven tonnes of local produce including banana and jackfruit chips leave for Spain from the AI-powered port
+## EV ecosystem rapidly expanding in Uttar Pradesh, Karnataka & Telangana
+Power consumption by EV public charging stations across India rose to 1,558.69 million units in FY26
 
-## SEBI settlement overhaul may offer exit for cases stuck in SAT, courts
-Lawyers expect easier appellate-stage settlements, lower settlement premiums and simpler calculations could reduce litigation and speed up resolution
+## Lithium prices will likely head lower this half as supplies improve
+However, energy storage demand is likely to hold prices from any sharp fall despite China ending tax sops on EV batteries
 
-## Ashok Leyland sees stronger MHCV growth in Q2
+## Invesco MF launches India Pharma and Healthcare NFO
+The fund aims to tap India’s evolving healthcare ecosystem, which is being shaped by favourable demographics, expanding healthcare access and rising insurance penetration
 
+## Editorial. Pleasant surprise
+India Inc Q1 numbers paint a picture of resilience
 
-## FM tells banks to consider launching a month-long banking outreach campaign for Gen Z on Oct 2
-Meanwhile she asked banks to improve design of agriculture finance keeping mind Prime Minister’s vision of Shakti of Sapt Dhara
+## Ensure smooth cotton buy, Telangana tells CCI
+Despite expectations of lower acreage due to the El Nino impact, the area under cultivation increased by nearly 3 lakh acres1.21 lakh hectares in the State
 
-## SC ready to drop NEET protest charges against students; petitioners say Delhi Police yet to disclose FIR list
-SC to form high-powered committee to examine issues concerning NEET-UG protests’ violence
+## Silver ETFs: The FOMO fades, but investors stay
 
-## LEO satellites move from data collectors to intelligent computing nodes
-The emerging model involves using onboard AI to filter, classify and prioritise data before transmitting it to ground stations
-
-## PM CARES fund rises to ₹8,453 cr in 2024-25, 175% up in 5 years
-The fund spent Rs ₹87.85 lakh on PM CARES for Children Scheme during 2024-25, sharply down from Rs ₹15.38 crore in 2023-24
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
+
+## US-Canada tariff clock ticks: Last-minute talks to avert Trump’s 50% tariffs
+The race against time for a tariff agreement unfolds between the United States and Canada, as President Trump has set a firm deadline, warning of hefty tariffs on Canadian imports. With negotiations proving to be both intense and fragile, both nations are eager to find common ground before the clock
 
 ## US stock market today: Wall Street pulls back from record highs as AI-related stocks drop
 US stock market today: The decline was led by several of the market's biggest recent winners, particularly companies that have benefited from the surge in artificial-intelligence spending.
@@ -81,8 +84,17 @@ India is considering limited duty-free sugar imports and tighter stock limits. T
 ## Rupee banknotes in circulation triple US dollar bills, nearly six times euro notes
 
 
-## Northern Sea Route in focus: India eyes first cargo ship along Arctic Route to Russia - why it matters
-Located along Russia’s Arctic coastline, Arkhangelsk lies on the Northern Dvina River and serves as a major cargo centre connected to the Northern Sea Route. The NSR stretches about 5,600 km across Russia’s Arctic waters. Much of the route remains covered by thick ice for most of the year.
+## More than 50% Cong tickets for Rajasthan local body polls should be given to Gen-Z: Ashok Gehlot
+The former Rajasthan chief minister said tickets should be distributed strictly on the basis of merit and ground-level feedback.
+
+## CM Vijay's Tamil Nadu govt to expand maternity leave from 12 weeks to 365 days for third child
+Tamil Nadu's human resources management minister cited C Joseph Vijay-led TVK government's dedication to women empowerment during the announcement.
+
+## Calcutta HC rejects PIL on removal of loudspeakers from mosques
+The division bench of acting Chief Justice Tapabrata Chakraborty and Justice Atarup Banerjee heard advocate Md Danish Farooqui’s petition
+
+## ‘If govt doesn’t demonstrate…': CJP issues big 'two-day' warning over FIRs on protesting students
+Saurav Das said in a post on X that while the Apex Court sought a consolidated list of FIRs against students to quash, the centre resisted.
 
 ## Who is Vinod Tawde? BJP's Bihar strategist who cracked caste conundrum now in-charge of UP
 Rajya Sabha MP Tawde, who is also a former Maharashtra minister, had played a key role in the Bihar Assembly elections as BJP's poll observer in the state.
@@ -95,18 +107,6 @@ From the day of receiving the FDA notice over the Vimal ad, Shah Rukh Khan, Ajay
 
 ## Karnataka BJP forms fact-finding team after 3 suspected poachers killed in forest firing
 Three alleged poachers were killed in an exchange of fire with forest department personnel near Shaagya, Cauvery Wildlife Sanctuary, in the Hanur taluk.
-
-## Ahmedabad Police busts 'Boss Scam' cyber ring; Pakistan-China links found
-The investigation revealed that the scale of the scam is massive, with 251 complaints already registered against this group across 26 different states in India.
-
-## ‘Well-established facts’: MEA on Donald Trump's praise of voter IDs in India
-MEA spokesperson Randhir Jaiswal was asked about US President Donald Trump's comments on India’s election system while advocating for voter IDs in America.
-
-## Bihar teacher job aspirants seek TRE notification in 24 hours, threaten ‘gherao’ protest against education minister
-Teaching job aspirants in Bihar began protesting on Tuesday, demanding a single-tier examination in BPSC-TRE 4.
-
-## Delhi court slams Gujarat cops for 'hanging' minor boy as 'bait' to make father surrender
-Additional Sessions Judge Parveen Singh said the officers' duty was to search for the father and not to take child into custody and transport him across states.
 
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran clubs face Qatar and UAE sides at neutral venues in Champions League
+Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.
+
+## US cites India on voter IDs, but are elections under Modi clean?
+Trump highlights India's voter ID rules to bolster his case for stricter US election laws.
+
+## Why is Russia threatening UK with ‘consequences’ over Ukraine drones?
+Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.
+
+## Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming
+Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.
+
 ## What to watch in the Alaska and Wyoming primary elections
 Republican-led states face leadership shuffling.
 
@@ -239,18 +251,6 @@ What to know about the new Gaza working groups conditioning reconstruction on im
 
 ## Yemeni government escalates attacks against Houthis: What’s next?
 Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.
-
-## Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’
-Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.
-
-## Palestinian-American confronts Israeli settler at his besieged home
-Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.
-
-## Who is Wassim al-Assad, sentenced to death for Syria war atrocities?
-The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death
-
-## Japanese activist keeps protesting against Israel’s genocide in Gaza
-Japanese activist keeps protesting against Israel’s genocide in Gaza
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
