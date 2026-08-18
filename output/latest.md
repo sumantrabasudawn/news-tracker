@@ -1,67 +1,67 @@
 # AION Intelligence
 
+## Global bond sell-off deepens
+Fears over inflation and AI issuance drive long-term government borrowing costs to multi-decade highs
+
+## Signature Group founder banned as company director for five years
+Property group subsidiary ‘distributed false and misleading marketing material’ according to Insolvency Service
+
+## Disney sues Trump administration over ‘retaliatory’ ABC licence review
+US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts
+
+## Canada makes final attempt to avoid US tariffs on $20bn of goods
+Also in today’s newsletter, how are voters reacting to a string of progressive candidates’ primary victories?
+
 ## Reform UK suspends Tory defector Tim Montgomerie after criticism of Nigel Farage
 Board member called out party leader last week for failing to appear at Clacton by-election count
 
 ## The Treasury can’t avoid the BoE’s losses
 Suspending cash transfers to the central bank will not alleviate UK fiscal pressures
 
-## OpenAI limits teens to dedicated version of ChatGPT promising more safeguards
+## OpenAI adds stricter controls for teens on ChatGPT amid backlash
 AI start-up overhauls its chatbot for young people after high-profile lawsuits
 
 ## AI phobia is America’s new consensus
 Trump is uncharacteristically deaf to voter fears over the technology
 
+## Here’s Apollo’s big First Brands short presentation
+Fear factor
+
+## Klarna overhauls leadership as it targets US banking licence
+Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
+
 ## FirstFT: Global bond sell-off deepens
 Also in today’s newsletter: US military pullback raises questions in Asia, and a ray of hope for the drinks industry
-
-## Global bond sell-off deepens amid fears over inflation and AI issuance
-Long-term government borrowing costs hit multi-decade highs
-
-## Russia warns UK of ‘consequences’ over Ukraine’s use of British-made drones
-Ministry of Defence says it stands ‘shoulder to shoulder’ with Kyiv after Russian embassy issues statement
-
-## Labour has no good options on prisons
-Early release scheme comes with risks, but so does not imprisoning future offenders or releasing all women
 
 ## Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%
 UK retail group pushes deeper into luxury sector
 
-## UK employers shed jobs as labour market weakens further
-Official figures also show unemployment slightly higher than forecasts
+## Lithium prices will likely head lower this half as supplies improve
+However, energy storage demand is likely to hold prices from any sharp fall despite China ending tax sops on EV batteries
 
-## AI: like a debt machine
-Credit (and rates) markets reel from rise and rise of hyperscaler issuance
+## The vexed problem of fertilizer overuse and subsidy
+Fertilizer imports and subsidies are draining the nation’s fiscal resources, and the excessive use of urea is affecting both soil and human health
 
-## Mark Walter’s empire of assets and liabilities
-A scandal engulfing the billionaire’s insurers has the private capital industry on alert
+## Sammaan Capital draws curtain on 7-year legal overhang after Supreme Court hearing
+Sammaan Capital is now controlled by Abu Dhabi-based International Holding Company PJSC (IHC), which invested USD $1 billion in the lender.
 
-## UK examines economic hit from loss of access to frontier AI models
-Urgent assessment comes after Donald Trump blocked foreign national access to Anthropic’s Fable 5
+## Weekly Rupee View: Rupee approaches key support
+Rising crude oil prices and reversal in foreign flows weigh on the local currency
 
-## Swiggy announces expanded leadership roles for 3 senior executives
-Himavant Kurnala is now Chief Growth and Product Officer, Nitesh Garg is Chief Technology Officer, and Saurav Goyal is Chief Operating Officer of Instamart’s Food Marketplace
+## Ashok Leyland to step up product expansion; lines up new trucks, buses, and LNG models
+The company’s electric-mobility business, Switch India, continues to build its order pipeline, MD and CEO Shenu Agrawal told analysts
 
-## Tata Sons AGM adjourned due to lack of quorum
-The lack of nominee representatives from Sir Ratan Tata Trust and Sir Dorabji Tata Trust caused a quorum issue, leading to the first AGM adjournment in over a century
+## Colgate PerioGard Sets a New Gold Standard: Becomes India's First Gum Care Regimen to Earn the ISP Seal of Acceptance
+Colgate PerioGard Sets a New Gold Standard: Becomes India's First Gum Care Regimen to Earn the ISP Seal of Acceptance
 
-## Tamil Nadu plans maritime and waterways master plan to strengthen port connectivity
-The Board is responsible for the administration, management and development of Minor Ports in the State.
+## Artificial Intelligence, Quantum Tech to Power India's Next-Gen Satellites and Strengthen National Security: ISRO Experts at National Space Technology Conclave 2026
+Artificial Intelligence, Quantum Tech to Power India's Next-Gen Satellites and Strengthen National Security: ISRO Experts at National Space Technology Conclave 2026
 
-## Hero Future Energies bags 120 MW FDRE RTC capacity under SECI tender
-The project will be developed under a Power Purchase Agreement with SECI and is expected to be commissioned within 24 months of the PPA execution
+## MoD bars import of 405 defence items under sixth ‘Positive Indigenisation List’
+This move will offer an estimated business potential of ₹3,070 crore for the indigenous industry
 
-## From home kitchens to food entrepreneurs: J&K women find new livelihoods
-The initiative is designed to help women’s SHGs move into food-based enterprises
+## AI coming for your money? Who keeps watch as tech becomes new financial advisor
 
-## BSE shares slide as analysts turn bearish ahead of Nifty 50 entry
-BSE’s 52-week range is ₹2,021.50 to ₹4,446.80; The stock has gained about 33% in the past year but dropped over 8% in the last week due to a reassessment of its near-term earnings
-
-## 2026 TME Chinese Music Impact Summit Held: Music IP and New Growth Paths for the Industry in the AI Era
-2026 TME Chinese Music Impact Summit Held: Music IP and New Growth Paths for the Industry in the AI Era
-
-## SPJIMR revamps its PGPDM curriculum and programme to create greater impact in the social sector
-SPJIMR revamps its PGPDM curriculum and programme to create greater impact in the social sector
 
 ## India's chip story enters next phase: 5-6 semiconductor projects may go commercial by end of 2026
 By late 2026, India is poised to launch five to six semiconductor projects into commercial production. The second phase of the India Semiconductor Mission aims to expand its reach significantly, focusing on chip design, manufacturing, and advanced research. Moreover, the government emphasizes buildi
@@ -84,32 +84,29 @@ In its August 14 communication to the WTO, New Delhi said it has a "substantial 
 ## Gold price prediction today: Will gold continue its rally? Check August 18, 2026 outlook
 Spot gold extended its weekly winning streak to the second straight week in the week ending August 14. It closed 0.70% higher for the week at $4376.
 
-## Rupee slips 7 paise against US dollar as crude soars beyond $90 per barrel levels
-On Tuesday morning, the Indian rupee experienced a drop against the US dollar, influenced by rising crude oil prices and persistent demand for dollars. Brent crude futures remained above ninety-one dollars per barrel, amplifying the necessity for dollars. Compounding this issue was the Reserve Bank'
+## 3 Gujarat villagers playing cards flee mistaking visitors for police, drown in well
+Bhavnagar SP Nitesh Pandey said around 11 men had gathered to play cards in a field of the village when an unidentified vehicle approached.
 
-## Bodies of 2 missing workers recovered from Chamoli tunnel, toll rises to 10: Official
-Chamoli district magistrate Gaurav Kumar said the search operation was completed after the recovery of the two missing workers
+## Rajasthan woman lodges false case of rape of seven-year-old daughter by neighbour over land dispute, fined
+After finding the rape allegation to be false, the police submitted a final report before the court, which was accepted on July 8, 2025.
 
-## Chhattisgarh couple found hacked to death at home; son is prime suspect: Police
-The murder came to light on Monday morning when their younger son, Mohan, turned up and found the door locked from outside
+## ‘Precautionary’: Bribes.fyi, website that let Indians anonymously report bribes goes on ‘break’
+The website, bribes.fyi, announced that it would keep the status page live for a while longer and then shut it down permanently.
 
-## Woman, 61, dies as 200-yr-old Kolkata building portion collapses; 18 rescued
-Teams from West Bengal fire services department, state disaster management department and the National Disaster Response Force rushed to the scene
+## IT dept targets 394 entities over suspicious foreign remittances in 3 yrs: Official
+According to CBDT, the turnovers had no apparent correlation with the large amounts of money being remitted abroad
 
-## TMC's Ritabrata Banerjee to remain Leader of Opposition in Bengal Assembly for now: Calcutta HC
-TMC's Ritabrata Banerjee to remain Leader of Opposition in Bengal Assembly for now: Calcutta HC
+## ‘Change is possible’: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+The government school at Abhijeet Dipke's native village in Hingoli not only received its first-ever computer system, but also benches for the kids.
 
-## Pune boy, 11, dies under truck wheels after bike skids on broken road; CCTV captures crash
-The CCTV footage shows the motorcycle skidding on a broken stretch of road before the boy came under the truck.
+## ‘Ground airlines on non complianc’: Supreme Court's stern warning as Centre fast-tracks new aviation rules
+The Supreme Court said this while hearing a plea seeking an independent regulator which would ensure transparency and manage passenger protection.
 
-## Pakistan army reviews Operation Sindoor docuseries with anti-India rhetoric: ‘Highly dramatised, preferred hues’
-India's tri-forces had launched Operation Sindoor on May 7, 2025, as a response to the April 22 Pahalgam terrorist attack that left 26 people dead.
+## ‘They removed it themselves’: Kerala Home Minister on Meta news removal row
+Keralam Minister Chennithala says govt, police did not ask Meta to remove news posts
 
-## CJP's Ashutosh Ranka alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP leaders
-Ashutosh Ranka expressed disappointment over the cancellation and remarked that this move only proves that the BJP is scared of cockroaches.
-
-## Goa nightclub fire: HC cancels bail granted to Luthra brothers, business partner
-The prosecution challenged the bail granted to the Luthra brothers and Ajay Gupta alleging that the offence was of serious nature
+## Maharashtra school's ‘drunk’ principal removed after CJP protest, claims Abhijeet Dipke
+Abhijeet Dipke said CJP has demanded the recruitment of more teachers and benches, adding that the protests will continue until the demands are met.
 
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
@@ -135,6 +132,9 @@ Chinese commercial banks recorded a rare, modest uptick in net interest margin (
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
 
+## Uganda’s Succession Plan Is Already Underway
+The president’s son is wielding increased power with impunity.
+
 ## Colby’s ‘Flexible Realism’ Won’t Work in the Indo-Pacific
 Washington’s new strategy is little more than a euphemism for unpredictability.
 
@@ -155,9 +155,6 @@ He’s been one of the most consequential presidents in U.S. history—in all th
 
 ## How Ronald Reagan Used Diplomacy to End the Cold War
 A new movie shows how the president conferred with State Department experts before each meeting.
-
-## Why Australia’s Getting Tough on China Again
-Unlike other U.S. allies, Canberra is betting its entire strategic house on Pax Americana.
 
 ## Daughter of Former Cambodian Opposition Leader Appointed ‘Special Envoy’ to PM
 Kem Monovithya's appointment comes three months after her father Kem Sokha received a royal pardon quashing a 27-year sentence for treason.
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’
+Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.
+
+## Palestinian-American confronts Israeli settler at his besieged home
+Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.
+
+## Who is Wassim al-Assad, sentenced to death for Syria war atrocities?
+The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death
+
+## Japanese activist keeps protesting against Israel’s genocide in Gaza
+Japanese activist keeps protesting against Israel’s genocide in Gaza
+
+## Bashar al-Assad’s cousin Wassim sentenced to death in Syria
+A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.
+
+## Qatar rejects Iran’s ‘false’ claims about missing pilots
+Majed al-Ansari says the Iranian planes 'violated Qatar’s sovereignty' and were dealt with in accordance with the law.
+
+## Myanmar: The Architecture of Statelessness
+How Myanmar stripped the Rohingya of citizenship, leading to mass expulsions and a genocide case at the ICJ.
+
 ## Russia protests Japan PM’s comments after Putin’s Kuril visit
 Russia summons Japan's ambassador to Moscow over Prime Minister Sanae ⁠Takaichi's 'anti-Russian' remarks.
-
-## Why has Trump threatened to bomb Oman – for a second time?
-The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.
-
-## Premier League what to know: Schedule, prediction, transfers and more
-Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.
-
-## What to know about California’s special election to replace Eric Swalwell
-A race that once received little attention has seen outside spending from the American Israel Public Affairs Committee.
-
-## Tupac Shakur murder trial begins thirty years after his death
-Former gang boss Duane ‘Keffe D’ Davis stands trial over Tupac Shakur’s 1996 murder, the first prosecution in the case.
-
-## Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine
-Deaths mount as Russia ramps up missile attacks on Ukraine, while Washington's promises of support remain elusive.
-
-## India’s ‘Cockroach’ movement makes schools next battleground against Modi
-Cockroach leaders asked supporters to audit their nearest government-run schools. But it has started with a killing.
-
-## Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain
-Al-Ahli and Al Ain, who will also face Cristiano Ronaldo's Al-Nassr, are the pick of the match-ups in AFC's Elite draw.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
