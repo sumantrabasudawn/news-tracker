@@ -36,32 +36,35 @@ Also in today’s newsletter: US military pullback raises questions in Asia, and
 ## Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%
 UK retail group pushes deeper into luxury sector
 
-## Pocket
+## Not delving into religious rights, but only dealing with wellbeing, health of captive elephants, SC says
+The Bench, however prima facie did not agree with the NGO’s plea that no new elephants should be made captive anymore
+
+## Vizhinjam starts full EXIM operations with Kerala’s trademark crunchy cargo
+Seven tonnes of local produce including banana and jackfruit chips leave for Spain from the AI-powered port
+
+## SEBI settlement overhaul may offer exit for cases stuck in SAT, courts
+Lawyers expect easier appellate-stage settlements, lower settlement premiums and simpler calculations could reduce litigation and speed up resolution
+
+## Ashok Leyland sees stronger MHCV growth in Q2
 
 
-## Augmont in talks with 8 MFs for gold, silver ETF liquidity ahead of ₹825 crore IPO
-The IPO-bound company will deposit bullion in the authorised vaults of MFs as per its instructions to generate ETF units for trading on the stock exchanges
+## FM tells banks to consider launching a month-long banking outreach campaign for Gen Z on Oct 2
+Meanwhile she asked banks to improve design of agriculture finance keeping mind Prime Minister’s vision of Shakti of Sapt Dhara
 
-## Funskool India acquires rights to sell Paw Patrol toys in India
-Funskool has obtained the license to launch collectible toys associated with the Canadian children’s television series from Toronto-based toy and entertainment Spin Master.
+## SC ready to drop NEET protest charges against students; petitioners say Delhi Police yet to disclose FIR list
+SC to form high-powered committee to examine issues concerning NEET-UG protests’ violence
 
-## Sunshine Pictures IPO sees strong retail demand on Day 1
-As of close on August 18, the IPO received bids for 2,37,74,711 shares against 54,86,051 shares on offer
+## LEO satellites move from data collectors to intelligent computing nodes
+The emerging model involves using onboard AI to filter, classify and prioritise data before transmitting it to ground stations
 
-## GIFT City on menu as NRAI pitches Gujarat to restaurant brands
-NRAI is arranging meetings between restaurateurs and real-estate developers in coordination with the GIFT City administration
-
-## Vizhinjam Port begins EXIM operations, opens Keralam’s gateway to global trade
-The Chief Minister also held discussions with investor groups to explore opportunities to scale up EXIM operations through Vizhinjam
-
-## India imposes minimum import price on clear float glass, benefiting Saint-Gobain, Asahi India
-Directorate General of Foreign Trade updated the import policy for clear float glass (4 mm to 12 mm) under ITC (HS) codes 70051090 and 70052990 from “Free” to “Restricted”
-
-## Pudu Robotics Launches PUDU MP2000, an AI-Native Pallet Handling Robot, to Simplify Autonomous Pallet Handling for Industrial Logistics
-Pudu Robotics Launches PUDU MP2000, an AI-Native Pallet Handling Robot, to Simplify Autonomous Pallet Handling for Industrial Logistics
+## PM CARES fund rises to ₹8,453 cr in 2024-25, 175% up in 5 years
+The fund spent Rs ₹87.85 lakh on PM CARES for Children Scheme during 2024-25, sharply down from Rs ₹15.38 crore in 2023-24
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
+
+## US stock market today: Wall Street pulls back from record highs as AI-related stocks drop
+US stock market today: The decline was led by several of the market's biggest recent winners, particularly companies that have benefited from the surge in artificial-intelligence spending.
 
 ## AI coming for your money? Who keeps watch as tech becomes new financial advisor
 
@@ -81,8 +84,14 @@ India is considering limited duty-free sugar imports and tighter stock limits. T
 ## Northern Sea Route in focus: India eyes first cargo ship along Arctic Route to Russia - why it matters
 Located along Russia’s Arctic coastline, Arkhangelsk lies on the Northern Dvina River and serves as a major cargo centre connected to the Northern Sea Route. The NSR stretches about 5,600 km across Russia’s Arctic waters. Much of the route remains covered by thick ice for most of the year.
 
-## Trump tariffs: India seeks WTO consultations over 50% US duties quota on quartz surface imports
-In its August 14 communication to the WTO, New Delhi said it has a "substantial interest" in the matter and suggested that the consultations be conducted.
+## Who is Vinod Tawde? BJP's Bihar strategist who cracked caste conundrum now in-charge of UP
+Rajya Sabha MP Tawde, who is also a former Maharashtra minister, had played a key role in the Bihar Assembly elections as BJP's poll observer in the state.
+
+## Former Tripura CM Manik Sarkar threatens ‘militant protest’; booked: Officials
+The complainant said that such statements are likely to incite citizens to resort to violence, disturb public order
+
+## ‘Fine up to ₹10 lakh’: Tukaram Mundhe on action if FDA unsatisfied with SRK, Ajay Devgn's reply on Vimal ad notice
+From the day of receiving the FDA notice over the Vimal ad, Shah Rukh Khan, Ajay Devgn and Tiger Shroff have 15 days to submit a written explanation.
 
 ## Karnataka BJP forms fact-finding team after 3 suspected poachers killed in forest firing
 Three alleged poachers were killed in an exchange of fire with forest department personnel near Shaagya, Cauvery Wildlife Sanctuary, in the Hanur taluk.
@@ -98,15 +107,6 @@ Teaching job aspirants in Bihar began protesting on Tuesday, demanding a single-
 
 ## Delhi court slams Gujarat cops for 'hanging' minor boy as 'bait' to make father surrender
 Additional Sessions Judge Parveen Singh said the officers' duty was to search for the father and not to take child into custody and transport him across states.
-
-## Hindu Sena chief files complaint against Sonia Gandhi over 'Vande Mataram' row
-The complaint alleged that Sonia Gandhi deliberately intervened during the rendition of the national song at the Congress headquarters in Delhi on August 15.
-
-## Bengaluru woman and lover kill husband, 5-year-old son: Police
-According to the police, the two allegedly conspired to kill the husband and also killed the son when he witnessed the murder
-
-## 3 Gujarat villagers playing cards flee mistaking visitors for police, drown in well
-Bhavnagar SP Nitesh Pandey said around 11 men had gathered to play cards in a field of the village when an unidentified vehicle approached.
 
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What to watch in the Alaska and Wyoming primary elections
+Republican-led states face leadership shuffling.
+
 ## Hichilema re-elected as Zambia president amid opposition concerns over vote
 Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.
 
@@ -248,9 +251,6 @@ The latest sentence against Wassim al-Assad comes a week after ousted President 
 
 ## Japanese activist keeps protesting against Israel’s genocide in Gaza
 Japanese activist keeps protesting against Israel’s genocide in Gaza
-
-## Bashar al-Assad’s cousin Wassim sentenced to death in Syria
-A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
