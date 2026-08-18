@@ -1,7 +1,7 @@
 # AION Intelligence
 
 ## UK employers shed jobs as labour market weakens further
-Official figures also show unemployment ticked higher in second quarter
+Official figures also show unemployment edged higher in second quarter
 
 ## FirstFT: Asian doubts over US resolve
 Also in today’s newsletter: TCI bets on Italian luxury hotels and Russia fires top economist
@@ -33,29 +33,32 @@ Fast food rival has invested roughly $2bn in its US business over the past four 
 ## Why eyewear stores are taking over London’s high streets
 Private equity-backed brands such as Cubitts, Ace & Tate and Jimmy Fairly compete for scale in financially alluring sector
 
-## Sensex today | Stock Market Live: Sensex down 350 pts, Nifty hover around 24,200; Asian Paints, Infosys top losers
-Sensex, Nifty, Share Prices LIVE: Markets opened in the red on Tuesday, August 18, extending a five-session losing streak as surging crude oil prices and the collapse of the U.S.-Iran ceasefire kept investor sentiment under pressure
+## UPI growth pushes banks to look beyond payments for revenue: McKinsey
+Unlike card payments, which generate transaction-linked revenues for financial institutions, instant payments can be harder to monetise directly
 
-## Centre tells Meta safe harbour won't cover CSAM violations: Govt Sources
-The government tells Meta that its content moderation mechanisms need to demonstrate greater sensitivity to India's linguistic and cultural context rather than relying solely on global standards
+## Sensex today | Stock Market Live: Sensex down 350 pts, Nifty hover around 24,200; Asian Paints, HCL Tech top losers
+Sensex, Nifty, Share Prices LIVE: Markets continued to trade in negative territory at midday on Tuesday, with the Nifty 50 slipping below the psychologically important 24,200 level and the Sensex extending losses as crude oil prices held firm and geopolitical tensions showed no signs of easing
 
-## Citi sets June 2027 Nifty target at 26,800, remains constructive on India equities
-The brokerage is favouring financials, telecom, healthcare and utilities, while remaining underweight on IT services, staples and metals.
+## Telangana aims to become clean energy hub: Deputy CM Bhatti Vikramarka
+Addressing industrialists, investors, innovators, scientists, CEOs and technology experts attending the summit, Bhatti extended an open invitation to businesses to invest in Telangana
 
-## Cash still king in India despite digital boom, says RBI Deputy Governor Murmu
-Addressing central bankers from across the world, Murmu noted that currency in circulation continues to grow at double-digit rates despite a decline in cash’s share of individual transactions due to increasing digital payment adoption.
+## India’s gene-edited rice is ready for the fields: What you need to know
+Pusa Rice DST1 is set to enter commercial production in this upcoming rabi season. What has been edited, why does it matter and what are the concerns?
 
-## ByteLens Turns Operator Data Into Compounding Knowledge
-ByteLens Turns Operator Data Into Compounding Knowledge
+## MCX plans India coal and ore exchanges to boost price discovery
+Sellers and buyers will be allowed to trade physical delivery contracts through centralized electronic platforms, creating a more transparent pricing system and improving supply chain efficiency
 
-## Magellanic Cloud bags ₹8.90 crore DFCCIL surveillance contract, stock jumps nearly 7%
-On the market, MCLOUD stock touched an intraday high of ₹29.10 against a previous close of ₹26.77, with traded volume of 67.55 lakh shares and a traded value of ₹19.19 crore for the session as of midday.
+## Lower share of freshers in IT workforce will rise in the AI age: R Srikrishna, CEO, Hexaware
+Speaking to businessline, Srikrishna shares his expectations from newcomers entering the workforce and explains the rationale behind offering multiple pricing models to customers to encourage spending.
 
-## EaseMyTrip launches ‘ReSave’ feature to monitor post-booking fare drops
-The feature, integrated directly into the booking process, addresses a common traveller concern, flight prices falling after a ticket has already been purchased
+## Inox Clean Energy completes ₹6,000-crore acquisition of GIP's Vena Energy India
+Following completion, Inox Clean's operating and near-operational portfolio is expected to reach about 4 GW, with a development pipeline exceeding 12 GW of solar and wind and 2.5 GWh of BESS
 
 ## Milky Mist Share Price & IPO Listing Live: Locked in upper circuit on NSE & BSE, after debuting at ₹165
 Milky Mist IPO listing today, Milky Mist share price live updates: Follow businessline for live updates
+
+## Northern Sea Route in focus: India eyes first cargo ship along Arctic Route to Russia - why it matters
+Located along Russia’s Arctic coastline, Arkhangelsk lies on the Northern Dvina River and serves as a major cargo centre connected to the Northern Sea Route. The NSR stretches about 5,600 km across Russia’s Arctic waters. Much of the route remains covered by thick ice for most of the year.
 
 ## Trump tariffs: India seeks WTO consultations over 50% US duties quota on quartz surface imports
 In its August 14 communication to the WTO, New Delhi said it has a "substantial interest" in the matter and suggested that the consultations be conducted.
@@ -78,8 +81,23 @@ Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and K
 ## Inflation will be an issue, may hike prices: Colgate
 
 
-## Crude prices cross $90 as ceasefire hopes dim, Hormuz disruption weighs on supply
-Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled a more offensive military approach, and the US rejected extending the ceasefire. Shipping through the Strait of Hormuz significantly decreased following recent attacks. Tensions also escalated in the Red Sea with Houthi 
+## Mahua Moitra vs Bengal officials intensifies, TMC MP moves privilege notice over late-night eviction bid
+Moitra, who reached the Nadia Circuit House at 6.15 pm for an overnight stay, said she was asked to leave the official accommodation for MPs at 9.47 pm.
+
+## Union minister JP Nadda undergoes angioplasty; condition stable: AIIMS Delhi
+Last week, the Union minister was admitted to AIIMS Delhi after experiencing uneasiness, the hospital said on Friday
+
+## Uttarakhand inundated tunnel toll rises to 9 as rescue operations continue
+Chamoli district magistrate Gaurav Kumar said rescuers are conducting continuous and intensive searches within the tunnel
+
+## Two students die after allegedly eating momos, french fries at UP school
+According to the parents, the children had consumed momos and finger chips on Sunday evening, bought from a shop near Mahendra Chowk.
+
+## Bombay HC grants bail to one more convict in Narendra Dabholkar murder case
+The court also expressed serious doubts about the manner in which CBI got the accused identified by two witnesses
+
+## Madhya Pradesh: Investigators say NGO helped poach leopards to raise funds
+The probe into the seizure of 10 leopard skins in Uttar Pradesh’s Agra in July led investigators to the alleged NGO link
 
 ## 'Could not be tolerated': DMK mouthpiece attacks Tamil Nadu CM Vijay, Trisha over I-day event
 The DMK criticised the fact that an actress was seated in the front row and exchanged salutes with the chief minister.
@@ -87,23 +105,11 @@ The DMK criticised the fact that an actress was seated in the front row and exch
 ## CM Shivakumar rejects TN's demand for CBI probe into killing of 'poachers'
 CM Shivakumar rejects TN's demand for CBI probe into killing of 'poachers'
 
-## Dabholkar murder: HC grants bail to convict Sachin Andure, suspends his life sentence
-Dabholkar murder: HC grants bail to convict Sachin Andure, suspends his life sentence
+## Chinese treasury futures launch cements Hong Kong as premier yuan hub
+When the Hong Kong stock exchange launched five-year China government bond futures on August 3, it did more than simply expand the city’s derivatives product suite. As the only China government bond futures in the offshore market, the contract deserves attention as it finally gives international inv
 
-## 'Ask him to collect leftover of his wife': Twisha Sharma told sister-in-law in last message
-Twisha had shared her ordeal with her sister-in-law and her own parents. She informed them that Samarth had become very aggressive and violent towards her.
-
-## SC dismisses plea seeking abolition of execution by hanging
-SC dismisses plea seeking abolition of execution by hanging
-
-## 'Take Gyanesh Kumar to US': Congress after Trump invokes Indian electoral system
-Congress leader Pawan Khera's post came after Trump renewed his call for the passage the SAVE Act, citing India's election system.
-
-## SC notice to Centre over lapses in limiting child sexual abuse content online
-The Supreme Court has asked the ministries to file their counter affidavits by September 24, with copies to be served on the applicants two weeks in advance.
-
-## SC notice to Centre, states on plea to confiscate property of offenders in paper leak cases
-SC notice to Centre, states on plea to confiscate property of offenders in paper leak cases
+## Hong Kong’s dim sum bond market hits new heights as State Grid deal draws record orders
+Hong Kong’s offshore yuan bond market has seen another record-breaking deal – the largest single issuance by a Chinese state-owned enterprise – underscoring the growing appeal of the city’s dim sum bond market. State Grid Corporation of China raised 14.9 billion yuan (US$2.2 billion) through offshor
 
 ## China plans for peak oil demand amid pipeline increase, intelligent rig development
 China has announced a new dedicated five-year plan to drill more crude oil and expand its network of pipelines as the world’s largest importer of fossil fuels faces heightened supply risks from geopolitical tensions. The plan, unveiled on Monday by the National Development and Reform Commission and 
@@ -122,12 +128,6 @@ Wealthy Hongkongers now invest in a way that shows they do not have a fixed reti
 
 ## China’s ‘national team’ ditches Kweichow Moutai, adding to valuation woes
 China’s state-backed funds are pulling out of Kweichow Moutai, adding to the woes of the nation’s biggest baijiu liquor maker, whose stock has lost more than 40 per cent from its peak five years ago. Central Huijin Investment, a unit operated by China’s sovereign wealth fund, and China Securities Fi
-
-## Is Hong Kong’s property market recovery running out of gas? UBS flags 4 risks
-The Hong Kong property market’s recovery is forecast to moderate in both prices and rents in the coming months as disruptions brought about by artificial intelligence, slower population inflows and other factors are likely to impact the upturn, according to UBS. The Swiss investment bank said that i
-
-## Banking on Connectivity in a Fragmented World
-George Tung, CEO of UOB Hong Kong, is positioning the bank to leverage the city’s role as a cross-border capital hub by strengthening ASEAN links, deepening client trust and embedding disciplined risk management. Capital rarely stands still in Asia. From mainland China to ASEAN and the Middle East, 
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russia says more than 600 drones targeted Moscow region
-The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.
+## Syrian court sentences Wassim al-Assad to death
+The former regime figure was found guilty of charges including premeditated murder and torture.
 
-## Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
-British maritime agency says the incident caused one casualty and damaged the vessel's engine room.
+## Chinese company unveils new ‘Superman’ humanoid robot
+Chinese company unveils new ‘Superman’ humanoid robot
 
-## Can China’s new Arctic sea route to Europe replace Middle East chokepoints?
-Beijing's new 'Ice Silk Road' cuts through a melting Arctic, and could prompt new tensions with the US, analysts say.
+## What to watch in Tuesday’s Florida primary elections
+Islamophobia, anti-Semitism, Trump's politics and Israel's war on Gaza figure prominently in the elections.
 
-## Trump says N Korea’s Kim has responded to his request for a conversation
-US president says conversations with Kim Jong Un at a 'positive' stage and slams Seoul for refusing to join war on Iran.
+## Top Russian economist ousted after warning of growing costs of Ukraine war
+Andrey Klepach, top economist at Russia's state development bank VEB, had warned Russia was lagging behind rivals.
 
-## Can Trump limit birthright citizenship? Legal experts are doubtful
-Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.
+## Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger
+The Lakers governor is resisting attempts to sell family's minority share to new owners Bob Iger and Josh Kushner.
 
-## A hero’s welcome as Cameroon parades its first Women’s AFCON title
-Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup
+## Palestine weekly: Global outcry fails to break West Bank siege
+Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.
 
-## Hichilema wins second term as president of copper-rich Zambia
-Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.
+## Israel’s siege on Gaza is creating a breast cancer crisis
+Al Jazeera looks at the devastating impact that Israel's war and siege on Gaza are having on women with breast cancer.
 
-## Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
-Mourners blame relentless and 'racist' media scrutiny for former Cambridge University professor's death.
+## Canada battles the clock, politics in scramble to avert Trump’s tariffs
+Canadian officials are making a last-ditch effort to negotiate a reprieve from 50-percent tariffs.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
