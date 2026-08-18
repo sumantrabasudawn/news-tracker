@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Soaring diesel prices rip across US economy
+Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
+
 ## US chip stocks slide as government borrowing costs hit multiyear highs
 Fears over inflation and mounting public debt ignite bond sell-off
 
@@ -20,9 +23,6 @@ Board member called out party leader last week for failing to appear at Clacton 
 
 ## Disney accuses Trump administration of cracking down on freedom of speech
 US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts
-
-## Signature Group founder banned as company director for five years
-Property group subsidiary ‘distributed false and misleading marketing material’ according to Insolvency Service
 
 ## BHP’s copper pivot is paying off
 Miner’s pipeline looks increasingly convincing given the red metal’s ubiquitous use
@@ -225,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US Justice Department denies whistleblower claims on anti-Semitism probes
+Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.
+
+## Turkish politician Melih Meric stabbed
+Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.
+
+## US seeks to revive criminal case against Kilmar Abrego Garcia
+Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it.
+
+## The ‘witch-hunt’ of Jason Arday
+The ‘witch-hunt’ of Jason Arday
+
 ## US judge says government can revoke deportation protections for Ethiopians
 Ruling permits Trump administration to nix Ethiopians' protected status despite concern over conditions in the country.
 
@@ -236,18 +248,6 @@ An Israeli strike hit a cafe in the port area west of Gaza City, killing six Pal
 
 ## Police attack Indonesian student protesters, arresting at least 21
 Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.
-
-## Barcelona seal deal for World Cup winner Rodri from Manchester City
-Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.
-
-## Nigeria hospital collapses after rain washed away its foundations
-A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.
-
-## Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara
-Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria's air force.
-
-## The British state has recast protest as terrorism
-Britain’s ever-broader terrorism laws are erasing the line between political violence, protest and dissent.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
