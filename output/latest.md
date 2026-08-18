@@ -1,10 +1,16 @@
 # AION Intelligence
 
+## US chip stocks slide as government borrowing costs hit multiyear highs
+Fears over inflation and mounting public debt ignite bond sell-off
+
+## Barbie box office smash isn’t yet a boon for Mattel
+California-based toy mainstay that owns the famous doll brand has an enterprise value of just above $6bn
+
+## Can Burnham save Britain’s high streets?
+Town centres need to become community hubs for the 21st century
+
 ## Andy Burnham hails shake-up of bus services in West Midlands
 Prime minister praises ‘single biggest act of public control’, even though routes will ultimately be run by private groups
-
-## Government borrowing costs hit multi-decade highs
-Fears over inflation and AI issuance spur bond sell-off, weighing on stocks
 
 ## Israeli strikes on Syrian air base criticised by US and Turkey
 Bombing of military site is ‘an unnecessary escalation’ and underlines regional tensions over Damascus regime
@@ -18,26 +24,14 @@ US media giant accuses Federal Communications Commission of cracking down becaus
 ## Signature Group founder banned as company director for five years
 Property group subsidiary ‘distributed false and misleading marketing material’ according to Insolvency Service
 
-## Canada makes final attempt to avoid US tariffs on $20bn of goods
-Also in today’s newsletter, how are voters reacting to a string of progressive candidates’ primary victories?
-
-## The Treasury can’t avoid the BoE’s losses
-Suspending cash transfers to the central bank will not alleviate UK fiscal pressures
+## BHP’s copper pivot is paying off
+Miner’s pipeline looks increasingly convincing given the red metal’s ubiquitous use
 
 ## Diageo sheds 2,000 staff as CEO Dave Lewis kicks off restructuring
 Drinks group’s workforce shrank last year after rise in employer taxes and decline in demand
 
 ## Klarna overhauls leadership as it targets US banking licence
 Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
-
-## Here’s Apollo’s big First Brands short presentation
-Fear factor
-
-## OpenAI adds stricter controls for teens on ChatGPT amid backlash
-AI start-up overhauls its chatbot for young people after high-profile lawsuits
-
-## AI phobia is America’s new consensus
-Trump is uncharacteristically deaf to voter fears over the technology
 
 ## Tata Sons’ AGM adjourned for first time ever over quorum issue
 A key shareholder, Sir Ratan Tata Trusts, faces curbs on holding meetings
@@ -231,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Police attack Indonesian student protesters, arresting at least 21
+Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.
+
+## Barcelona seal deal for World Cup winner Rodri from Manchester City
+Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.
+
+## Nigeria hospital collapses after rain washed away its foundations
+A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.
+
+## Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara
+Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria's air force.
+
 ## The British state has recast protest as terrorism
 Britain’s ever-broader terrorism laws are erasing the line between political violence, protest and dissent.
 
@@ -242,18 +248,6 @@ Iran’s authorities say they could shift to offensive operations as Washington 
 
 ## Disney sues US regulator, claiming political retaliation over ABC stations
 FCC faces scrutiny as Disney claims licence renewal order is tied to political motives against ABC's coverage.
-
-## Real Madrid officially present Mourinho in bizarre closed-door ceremony
-Jose Mourinho makes first official Real Madrid statements since returning as manager in unusually low-key ceremony.
-
-## Spain builds tent cities for the thousands stuck in Ceuta
-Spain is building four temporary reception sites with 1,500 places as an estimated 5,000 migrants remain in Ceuta.
-
-## Palestinian living in caves older than Israel
-Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.
-
-## “I fear for my family’s lives” says Loui Ridi as settlers besiege home
-Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
