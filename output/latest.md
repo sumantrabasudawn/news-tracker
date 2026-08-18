@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## Soaring diesel prices rip across US economy
-Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
-
 ## US chip stocks slide as government borrowing costs hit multiyear highs
 Fears over inflation and mounting public debt ignite bond sell-off
+
+## Soaring diesel prices rip across US economy
+Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
 
 ## Barbie box office smash isn’t yet a boon for Mattel
 California-based toy mainstay that owns the famous doll brand has an enterprise value of just above $6bn
@@ -29,9 +29,6 @@ Miner’s pipeline looks increasingly convincing given the red metal’s ubiquit
 
 ## Diageo sheds 2,000 staff as CEO Dave Lewis kicks off restructuring
 Drinks group’s workforce shrank last year after rise in employer taxes and decline in demand
-
-## Klarna overhauls leadership as it targets US banking licence
-Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
 
 ## Minfy Expands U.S. Presence in Virginia to Deepen Customer Engagement and Accelerate AI-Driven Outcomes
 Expansion strengthens proximity to enterprise customers and bridges the gap between AI strategy and real-world deployment‍
@@ -225,6 +222,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US sanctions International Criminal Court president and trial lawyer
+The Trump administration has led a campaign to 'dismantle' the court, calling it a threat to national sovereignty.
+
 ## US Justice Department denies whistleblower claims on anti-Semitism probes
 Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.
 
@@ -245,9 +245,6 @@ Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregar
 
 ## Israeli strike on Gaza City cafe kills six, including child
 An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.
-
-## Police attack Indonesian student protesters, arresting at least 21
-Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
