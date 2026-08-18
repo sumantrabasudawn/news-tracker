@@ -1,10 +1,19 @@
 # AION Intelligence
 
+## Government borrowing costs hit multi-decade highs
+Fears over inflation and AI issuance spur bond sell-off, weighing on stocks
+
+## Israeli strikes on Syrian air base criticised by US and Turkey
+Bombing of military site is ‘an unnecessary escalation’ and underlines regional tensions over Damascus regime
+
+## Reform UK suspends Tory defector Tim Montgomerie after criticism of Nigel Farage
+Board member called out party leader last week for failing to appear at Clacton by-election count
+
 ## Disney accuses Trump administration of cracking down on freedom of speech
 US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts
 
-## Government borrowing costs hit multi-decade highs
-Fears over inflation and AI issuance spur bond sell-off
+## Andy Burnham hails shake-up of bus services in West Midlands
+Prime minister praises ‘single biggest act of public control’, even though routes will ultimately be run by private groups
 
 ## Signature Group founder banned as company director for five years
 Property group subsidiary ‘distributed false and misleading marketing material’ according to Insolvency Service
@@ -12,17 +21,8 @@ Property group subsidiary ‘distributed false and misleading marketing material
 ## Canada makes final attempt to avoid US tariffs on $20bn of goods
 Also in today’s newsletter, how are voters reacting to a string of progressive candidates’ primary victories?
 
-## Reform UK suspends Tory defector Tim Montgomerie after criticism of Nigel Farage
-Board member called out party leader last week for failing to appear at Clacton by-election count
-
 ## The Treasury can’t avoid the BoE’s losses
 Suspending cash transfers to the central bank will not alleviate UK fiscal pressures
-
-## OpenAI adds stricter controls for teens on ChatGPT amid backlash
-AI start-up overhauls its chatbot for young people after high-profile lawsuits
-
-## AI phobia is America’s new consensus
-Trump is uncharacteristically deaf to voter fears over the technology
 
 ## Diageo sheds 2,000 staff as CEO Dave Lewis kicks off restructuring
 Drinks group’s workforce shrank last year after rise in employer taxes and decline in demand
@@ -33,35 +33,41 @@ Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as pa
 ## Here’s Apollo’s big First Brands short presentation
 Fear factor
 
-## FirstFT: Global bond sell-off deepens
-Also in today’s newsletter: US military pullback raises questions in Asia, and a ray of hope for the drinks industry
+## OpenAI adds stricter controls for teens on ChatGPT amid backlash
+AI start-up overhauls its chatbot for young people after high-profile lawsuits
 
-## Swiggy expands leadership team as Instamart, food delivery businesses scale
-Himavant Kurnala has been appointed chief growth and product officer at Instamart, while Nitesh Garg has been elevated to chief technology officer of the quick-commerce business
-
-## BSE shares slide as analysts turn bearish ahead of Nifty 50 entry
-BSE’s 52-week range is ₹2,021.50 to ₹4,446.80; The stock has gained about 33% in the past year but dropped over 8% in the last week due to a reassessment of its near-term earnings
+## AI phobia is America’s new consensus
+Trump is uncharacteristically deaf to voter fears over the technology
 
 ## EV ecosystem rapidly expanding in Uttar Pradesh, Karnataka & Telangana
 Power consumption by EV public charging stations across India rose to 1,558.69 million units in FY26
 
-## Lithium prices will likely head lower this half as supplies improve
-However, energy storage demand is likely to hold prices from any sharp fall despite China ending tax sops on EV batteries
+## L&T Finance expects gold loan biz to contribute over 10% to total loan book in next 5 years
+In order to scale up the gold loan business, the NBFC is planning to set up at least 500 new branches each year till 2031
+
+## CCI approves Tata Steel's proposal to acquire additional 23% stake in TMILL
+Following the proposed acquisition, Tata Steel will become the majority stakeholder and IQ Martrade will exit from the JV entity
+
+## DeepTech funding hits record high
+
+
+## Satcom witnessing remarkable phase of technological evolution: Experts
+According to BIF, India has a digital connectivity opportunity worth Rs. ₹1 lakh crore at a conservative estimate, which can be largely achieved through Satcom services.
+
+## SMEs lag as corporate India moves into DPDP implementation phase
+Govt sources assert there will be no extension of deadline for implementation of DPDP, even as companies await establishment of Data Protection Board
 
 ## Invesco MF launches India Pharma and Healthcare NFO
 The fund aims to tap India’s evolving healthcare ecosystem, which is being shaped by favourable demographics, expanding healthcare access and rising insurance penetration
 
-## Editorial. Pleasant surprise
-India Inc Q1 numbers paint a picture of resilience
-
-## Ensure smooth cotton buy, Telangana tells CCI
-Despite expectations of lower acreage due to the El Nino impact, the area under cultivation increased by nearly 3 lakh acres1.21 lakh hectares in the State
-
-## Silver ETFs: The FOMO fades, but investors stay
-
+## Bengaluru ORR firms push back against WFH plan, seek delay in ₹450-crore white-topping
+In a letter to the GBA, ORRCA warned that starting major carriageway works before Metro construction is finished could worsen congestion in the corridor
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
+
+## What Trump’s latest safeguard tariff move on quartz surface products means for India
+The US accounted for 72.5% of India’s quartz surface-product exports in FY2026, according to a Global Trade Research Initiative (GTRI) report. India’s move does not amount to a formal WTO dispute at this stage. During the consultations, India could challenge the US assessment of increased imports an
 
 ## US-Canada tariff clock ticks: Last-minute talks to avert Trump’s 50% tariffs
 The race against time for a tariff agreement unfolds between the United States and Canada, as President Trump has set a firm deadline, warning of hefty tariffs on Canadian imports. With negotiations proving to be both intense and fragile, both nations are eager to find common ground before the clock
@@ -81,32 +87,29 @@ On August 19, banks across Tripura will be closed in observance of a regional ho
 ## Why India is considering sugar imports as prices hit record levels
 India is considering limited duty-free sugar imports and tighter stock limits. These measures aim to boost domestic supplies and control record high sugar prices. Wholesale sugar prices have climbed nearly twenty percent since early August. Festival season demand typically increases sweetener consum
 
-## Rupee banknotes in circulation triple US dollar bills, nearly six times euro notes
+## Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again'
+Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again'
 
+## Pilots body calls for making oral fluid testing complementary under drug testing framework
+In a submission to the DGCA, FIP has also sought to increase pilots' random drug testing to 25 per cent from the existing 10 per cent.
+
+## Goa govt moves Supreme Court seeking tougher sentence for Tarun Tejpal in 2013 rape case: Report
+Tarun Tejpal had earlier called his conviction "wrong", saying that he will appeal against the order in the Supreme Court.
+
+## 55 kg meth worth ₹300 crore seized from maize consignment near Mumbai port
+The shipment, seized near Nhava Sheva, was allegedly linked to a Pakistan-based narco-trafficking syndicate led by Mohammad Hussain Dad.
+
+## India invokes reciprocity in Bangladesh ties amid Hasina extradition demand
+External affairs ministry spokesperson Randhir Jaiswal outlined India’s position on the matter at a regular media briefing in
+
+## Satyendar Jain, AAP leader and ex-Delhi minister, arrested over alleged corruption in Jal Board tenders
+Apart from SatyenderJain, who was then the minister of water, five others have also been arrested.
+
+## Odisha court acquits Maoist leader Azad in 2008 Swami Laxmanananda murder case
+Rao has been in judicial custody in a Bhubaneswar jail since his arrest by Odisha Police in 2010. HT has reviewed the judgement
 
 ## More than 50% Cong tickets for Rajasthan local body polls should be given to Gen-Z: Ashok Gehlot
 The former Rajasthan chief minister said tickets should be distributed strictly on the basis of merit and ground-level feedback.
-
-## CM Vijay's Tamil Nadu govt to expand maternity leave from 12 weeks to 365 days for third child
-Tamil Nadu's human resources management minister cited C Joseph Vijay-led TVK government's dedication to women empowerment during the announcement.
-
-## Calcutta HC rejects PIL on removal of loudspeakers from mosques
-The division bench of acting Chief Justice Tapabrata Chakraborty and Justice Atarup Banerjee heard advocate Md Danish Farooqui’s petition
-
-## ‘If govt doesn’t demonstrate…': CJP issues big 'two-day' warning over FIRs on protesting students
-Saurav Das said in a post on X that while the Apex Court sought a consolidated list of FIRs against students to quash, the centre resisted.
-
-## Who is Vinod Tawde? BJP's Bihar strategist who cracked caste conundrum now in-charge of UP
-Rajya Sabha MP Tawde, who is also a former Maharashtra minister, had played a key role in the Bihar Assembly elections as BJP's poll observer in the state.
-
-## Former Tripura CM Manik Sarkar threatens ‘militant protest’; booked: Officials
-The complainant said that such statements are likely to incite citizens to resort to violence, disturb public order
-
-## ‘Fine up to ₹10 lakh’: Tukaram Mundhe on action if FDA unsatisfied with SRK, Ajay Devgn's reply on Vimal ad notice
-From the day of receiving the FDA notice over the Vimal ad, Shah Rukh Khan, Ajay Devgn and Tiger Shroff have 15 days to submit a written explanation.
-
-## Karnataka BJP forms fact-finding team after 3 suspected poachers killed in forest firing
-Three alleged poachers were killed in an exchange of fire with forest department personnel near Shaagya, Cauvery Wildlife Sanctuary, in the Hanur taluk.
 
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
@@ -132,6 +135,9 @@ Chinese commercial banks recorded a rare, modest uptick in net interest margin (
 ## China’s five-year plan for its oil and gas sector
 China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by
 
+## Vance Pitches a New Objective for the Iran War
+Simply lowering energy prices for U.S. consumers is “goal No. 1”
+
 ## Uganda’s Succession Plan Is Already Underway
 The president’s son is wielding increased power with impunity.
 
@@ -152,9 +158,6 @@ Beijing is systematically countering U.S. and European sanctions efforts by expa
 
 ## The Top 10 Ways Trump Has Made America Weaker
 He’s been one of the most consequential presidents in U.S. history—in all the wrong ways.
-
-## How Ronald Reagan Used Diplomacy to End the Cold War
-A new movie shows how the president conferred with State Department experts before each meeting.
 
 ## Daughter of Former Cambodian Opposition Leader Appointed ‘Special Envoy’ to PM
 Kem Monovithya's appointment comes three months after her father Kem Sokha received a royal pardon quashing a 27-year sentence for treason.
@@ -228,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Real Madrid officially present Mourinho in bizarre closed-door ceremony
+Jose Mourinho makes first official Real Madrid statements since returning as manager in unusually low-key ceremony.
+
+## Spain builds tent cities for the thousands stuck in Ceuta
+Spain is building four temporary reception sites with 1,500 places as an estimated 5,000 migrants remain in Ceuta.
+
+## Palestinian living in caves older than Israel
+Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.
+
+## “I fear for my family’s lives” says Loui Ridi as settlers besiege home
+Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged.
+
 ## Iran clubs face Qatar and UAE sides at neutral venues in Champions League
 Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.
 
@@ -239,18 +254,6 @@ Russia is suffering attacks inside its own territory as long-range drones strike
 
 ## Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming
 Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.
-
-## What to watch in the Alaska and Wyoming primary elections
-Republican-led states face leadership shuffling.
-
-## Hichilema re-elected as Zambia president amid opposition concerns over vote
-Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.
-
-## What to know about Gaza working groups and their mandate?
-What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament.
-
-## Yemeni government escalates attacks against Houthis: What’s next?
-Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
