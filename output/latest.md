@@ -39,29 +39,32 @@ Fast food rival has invested roughly $2bn in its US business over the past four 
 ## Why eyewear stores are taking over London’s high streets
 Private equity-backed brands such as Cubitts, Ace & Tate and Jimmy Fairly compete for scale in financially alluring sector
 
+## Aluminium futures: Buy on dips
+Consider fresh longs at ₹345
+
 ## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty hover below 24,200; Infosys, TMPV top losers
 Sensex, Nifty, Share Prices LIVE: Markets continued to trade in negative territory at midday on Tuesday, with the Nifty 50 hovers below the psychologically important 24,200 level and the Sensex extending losses as crude oil prices held firm and geopolitical tensions showed no signs of easing
 
-## Ship attacked during Strait of Hormuz transit
-An unidentified projectile damaged the engine room of a ship and “resulted in a crew casualty” early Tuesday morning as the vessel was trying to transit the Strait of Hormuz off the coast of Oman
+## Milky Mist shares end with 30% listing gains on debut day
+Shares of Milky Mist Dairy Food debuted on the NSE and BSE at ₹165, a 17.8 per cent premium over the IPO price of ₹140, reflecting positive momentum
 
-## Godrej Ind to enter pvt credit space, aims to raise ₹2,000 crore in AIF
-GIG said the Godrej Asset Management Company (AMC) will be raising the money in the category-II AIF
+## Milky Mist Share Price & IPO Listing Highlights: Shares end 30% above ₹140-IPO price on listing day
+Milky Mist IPO listing today, Milky Mist share price updates: Follow businessline for live updates
 
-## Milky Mist Share Price & IPO Listing Live: Locked in upper circuit on NSE & BSE, after debuting at ₹165
-Milky Mist IPO listing today, Milky Mist share price live updates: Follow businessline for live updates
+## Lalithaa Jewellery IPO opens today at ₹190-201; issue size ₹1,700 crore
+Investors can bid for a minimum of 74 Equity Shares and in multiples of 74 Equity Shares thereafter.
 
-## Torrent Gas to file updated draft papers for up to ₹4,000-crore IPO
-The updated draft red ⁠herring prospectus, expected this week, will be the company’s first public IPO document.
+## PM to inaugurate 5th Semicon India on September 17
+PM will also chair a Roundtable with global CEOs
 
 ## Brokerages turn bullish on Juniper Hotels expansion plans
 Brokerages expect Juniper to nearly double its room count to over 3,900 keys by FY31, backed by a capex roadmap of over ₹1,900 crore that is expected to be largely self-funded through internal accruals.
 
-## No Khel Ratna for 2025; Tejaswin, Divya and Gayatri Gopichand among Arjuna awardees
-The selection committee this year had recommended 24 names for the Arjuna Award but the ministry approved only 17
+## Fractal Wins US$17M+ Multi-Year AI Deal with a Fortune 500® U.S. Healthcare Organization
+Fractal Wins US$17M+ Multi-Year AI Deal with a Fortune 500® U.S. Healthcare Organization
 
-## Cash still king in India despite digital boom, says RBI Deputy Governor Murmu
-Addressing central bankers from across the world, Murmu noted that currency in circulation continues to grow at double-digit rates despite a decline in cash’s share of individual transactions due to increasing digital payment adoption.
+## Why India is considering sugar imports as prices hit record levels
+India is considering limited duty-free sugar imports and tighter stock limits. These measures aim to boost domestic supplies and control record high sugar prices. Wholesale sugar prices have climbed nearly twenty percent since early August. Festival season demand typically increases sweetener consum
 
 ## Rupee banknotes in circulation triple US dollar bills, nearly six times euro notes
 
@@ -84,14 +87,20 @@ Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and K
 ## Stock market today: BSE Sensex tumbles 200 points, NSE Nifty50 opens below 24,250
 
 
-## High-level committee on banking reforms ‘soon’: FM
+## ₹1.20 crore for testicles: How an Instagram reel led to teen boy's murder in Bhopal
+The probe revealed that the plan emerged from an Instagram reel. The accused claimed that the testicles could be sold for about ₹1.20 crore, police said.
 
+## Affair, doubts, Bigg Boss, then a murder plan: How Bengaluru woman killed husband and son
+Accused Harini herself had reportedly called the police helpline to inform of her husband and son's death, which later turned out to be double murder case.
+
+## ‘Where is he?’ AAP claims Delhi Police 'picked' its MLA Kuldeep Kumar, Delhi HC agrees for urgent hearing
+AAP national convener Arvind Kejriwal alleged Delhi Police picked up MLA Kuldeep Kumar from his home, broke the CCTV cameras, and took the DVR along with them.
 
 ## Lalu calls for march to Lok Bhavan on Aug 19 against state govt's 'dictatorial attitude'
 RJD's national working president and Lalu's son, Tejashwi, had said Mahagathbandhan leaders would submit a memorandum to the Governor over the Siwan incident.
 
 ## Delhi HC denies default bail to Red Fort blast accused Jasir Bilal Wani
-Wani was a neighbour of brothers Adil and Muzaffar Rather, two doctors who are allegedly part of the terror module behind the Red Fort blast
+Wani was a neighbour of brothers Adil and Muzaffar Rather, two doctors who are allegedly part of the terror module behind the Red Fort blast.
 
 ## Maharashtra SIR: Over 2 cr voters expected to be dropped from draft roll, 36 lakh in Mumbai
 Thane tops the list of districts with the lowest enumeration rate with 2.86 million, or 38.41%, of its 7.45 million electors likely to be deleted.
@@ -102,14 +111,8 @@ The surrender is seen as a major step towards strengthening the state government
 ## Odisha floods: Death toll rises to 13; schools shut across districts
 Over 7.85 lakh people in 1,300 villages in Balasore, Bhadrak, Jajpur, Keonjhar, Mayurbhanj and Kendrapada districts have been affected by the floods
 
-## After Trump, US envoy cites India's 660 million voters to push voter ID
-Sergio Gor made the remarks hours after Trump cited India’s election system and Gyanesh Kumar while asking Congress to pass the SAVE America Act.
-
-## No safe harbour in case of child sexual abuse content, says govt in ‘hard talk’ with Meta: Report
-The government had a “hard talk” with Meta on child sexual abuse material and has clarified that circulation of such content is a clear violation.
-
-## ‘No difference between Jaish-e-Mohammed, Taliban, RSS’: Karnataka Congress chief
-Priyank Kharge criticized the BJP and RSS, saying Congress does not require validation of patriotism from groups lacking contributions to the freedom struggle.
+## Hong Kong 5-year plan should have Northern Metropolis tax breaks, listing reforms: HKICPA
+The Hong Kong Institute of Certified Public Accountants (HKICPA) has urged the government to introduce tax incentives to help develop the Northern Metropolis and to improve the stock exchange’s listing regime to further cement the city’s role in international finance. The organisation’s submission f
 
 ## Chinese treasury futures launch cements Hong Kong as premier yuan hub
 When the Hong Kong stock exchange launched five-year China government bond futures on August 3, it did more than simply expand the city’s derivatives product suite. As the only China government bond futures in the offshore market, the contract deserves attention as it finally gives international inv
@@ -131,9 +134,6 @@ Some of Wall Street’s best-known billionaire investors are reshuffling their b
 
 ## Even the rich in Hong Kong expect to work past retirement age, survey says
 Wealthy Hongkongers now invest in a way that shows they do not have a fixed retirement age in mind, as most of them expect to work longer than their parents, according to a survey. Some 58 per cent of high-net-worth individuals in Hong Kong expected to work beyond retirement age, with 32 per cent an
-
-## China’s ‘national team’ ditches Kweichow Moutai, adding to valuation woes
-China’s state-backed funds are pulling out of Kweichow Moutai, adding to the woes of the nation’s biggest baijiu liquor maker, whose stock has lost more than 40 per cent from its peak five years ago. Central Huijin Investment, a unit operated by China’s sovereign wealth fund, and China Securities Fi
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Brazil’s president says Amazon oil is ‘passport to the future’
+Brazil's president says Amazon oil is ‘passport to the future’
+
+## Syrian man dies in custody after alleged abuse by security officers
+A Syrian man died in police custody after his family alleged he was severely beaten.
+
+## Meta lawsuits: Is social media facing a global legal reckoning?
+Meta battles legal challenges in the US, Europe and beyond over platform design and its impact on younger users.
+
+## Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan
+Kevin Lamour had publicly criticised Infantino's proposal last month, saying FIFA staff had been 'deceived' over plan.
+
 ## Videos show deadly school shooting in Philippines
 A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.
 
@@ -242,18 +254,6 @@ Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month af
 
 ## Cincinnati Open: Williams sisters fall in doubles while Zverev advances
 Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.
-
-## Trump lashes out at CNN reporter over South Korea question
-Trump lashes out at CNN reporter over South Korea question
-
-## Syrian court sentences Wassim al-Assad to death
-Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture
-
-## Chinese company unveils new ‘Superman’ humanoid robot
-Chinese company unveils new ‘Superman’ humanoid robot
-
-## What to watch in Tuesday’s Florida primary elections
-Islamophobia, anti-Semitism, Trump's politics and Israel's war on Gaza figure prominently in the elections.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
@@ -279,6 +279,9 @@ Amendments introduce new accounting framework for nature dependent electricity c
 ## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
 RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
 
+## RBI finds cash demand harder to predict as digital payments grow
+RBI faces challenges forecasting demand for banknotes as currency in circulation continues to grow at double-digit rates despite rising digital payments. Deputy Governor SC Murmu said cash remains widely used, particularly in rural areas, among low-income groups and small businesses.
+
 ## High-level committee on banking reforms ‘soon’: FM
 Finance Minister Nirmala Sitharaman will soon announce a high-level committee on banking reforms. This committee will review the sector's alignment with India's growth goals. The panel's formation was announced in budget 2026-27 for Viksit Bharat. Deliberations from a recent conclave will provide in
 
@@ -299,7 +302,4 @@ The Reserve Bank of India (RBI) has sought feedback from non-banking finance com
 
 ## India RBI's heavy FX footprint revives memories of a tightly managed rupee
 Central bank intervention is anchoring the rupee's trading range. State-run banks consistently offered dollars to curb currency pressure. This intervention has established a narrow trading range for the rupee. The Reserve Bank of India's actions revive memories of past interventions. Dollar inflows 
-
-## SEBI to review CAS feedback, but closing auction mechanism here to stay: Chairman
-The Securities and Exchange Board of India (SEBI) is analysing concerns raised by traders and other market participants over the new Closing Auction Session (CAS) for futures and options (F&O) eligible stocks but the mechanism is here to stay, Chairman Tuhin Kanta Pandey said on Monday.
 
