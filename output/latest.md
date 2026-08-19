@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## Canada faces deadline to stop US tariffs on $20bn of exports
-Mark Carney spoke to Donald Trump on Tuesday in a final push to avert American trade levies
+## Trump says deal reached with Canada and delays tariffs
+Eleventh-hour reprieve following ‘intense’ talks with Mark Carney to avert 50% levies on billions of dollars in goods
+
+## China eases limits on Nvidia H200 chips as AI race escalates
+Beijing permits small shipments to help leading tech groups in drive to catch up with US rivals
 
 ## London’s clean air zone linked to improvement in children’s lung health
 Study compared lung size and function of 1,600 six- to nine-year-olds with a matched group in Luton
@@ -21,14 +24,14 @@ UK prime minister vows to ‘get people out the cold’ in run-up to Christmas, 
 ## Ukraine’s ousted defence minister calls for wartime election
 Mykhailo Fedorov launches major challenge to President Volodymyr Zelenskyy
 
-## US chip stocks slide as government borrowing costs hit multiyear highs
-Fears over inflation and mounting public debt ignite bond sell-off
-
 ## OpenAI says it will expand monitoring of model testing after hacking incident
 AI lab plans to dedicate more computing resources to security after one of its ‘agents’ escaped control
 
 ## Klarna overhauls leadership as it targets US banking licence
 Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
+
+## US chip stocks slide as government borrowing costs hit multiyear highs
+Fears over inflation and mounting public debt ignite bond sell-off
 
 ## Soaring diesel prices rip across US economy
 Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
@@ -42,32 +45,41 @@ California-based toy mainstay that owns the famous doll brand has an enterprise 
 ## Can Burnham save Britain’s high streets?
 Town centres need to become community hubs for the 21st century
 
-## Minfy Expands U.S. Presence in Virginia to Deepen Customer Engagement and Accelerate AI-Driven Outcomes
-Expansion strengthens proximity to enterprise customers and bridges the gap between AI strategy and real-world deployment‍
+## Sensex today | Stock Market Live: Sensex, Nifty set for weak opening amid global selloff; Kospi plunges 4%, Nikkei falls over 2%
+Sensex, Nifty, Share Prices LIVE: Gift Nifty is ruling at 24,210 in early deal on Wednesday, which is marginal compared with fall in Asian equities. Overnight, Nasdaq crashed over 350 points following a sharp selling in AI stocks.
 
-## India’s RCS Adoption Surges 108% as Businesses Shift to Richer Customer Conversations, Reveals Infobip
-Finance and fintech account for 80% of RCS traffic in India, reflecting growing enterprise adoption of richer, more interactive business messaging
+## Gaja Capital’s ₹550-crore IPO opens today
+The IPO comprises a fresh issue of equity shares aggregating up to ₹450 crore and an Offer for sale of equity shares aggregating up to ₹100 crore .
 
-## M37Labs Launches Saransh, the First in a New Family of Sovereign Small Language Models
-Built from the ground up on M37Labs infrastructure, Saransh is the first proof point of the company’s Enterprise Proprietary Model (EPM) strategy. Vertical models for Retail, BFSI and Healthcare are targeted for release over the next six months.
+## Chinese humanoid robot maker Unitree opens over 600% higher in Shanghai debut
+The stock opened ‌at 1,100 yuan on the tech-focused STAR ‌Market, 629% higher ‌than ⁠its IPO price ⁠of 150.8 yuan. It is ​seen by some as a watershed ⁠moment for China’s robotics sector — a key battleground ‌in the Sino-US tech war.
 
-## 71% of Healthcare Professionals in India Say AI Has Increased Their Capacity to See More Patients: Philips Future Health Index 2026 India Report
-New Delhi, Delhi, India --- Business Wire India
+## Weakness to persist for Indian markets as global stocks wobble
+Gift Nifty is ruling at 24,210 in early deal on Wednesday, which is marginal compared with fall in Asian equities.
 
-## ShareChat and Moj’s Report in Collaboration with Kantar Finds Microdrama has Emerged as a Mainstream Entertainment Format in India
-New Delhi, Delhi, India --- Business Wire India
+## Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut
+The receding prospects of a deal to end the nearly six-month conflict drove up oil ⁠prices again on Tuesday, while stock markets sagged and borrowing costs for major economies including the U.S. hit multi-decade highs, amid concerns about the long-term inflationary and fiscal impact of the crisis.
 
-## Zeeba Revamps Packaging and Announces Chef Vikas Khanna as Its Global Brand Ambassador
+## Piramal Pharma Limited Completes Acquisition of Controlling Stake in Yapan Bio Private Limited
+Piramal Pharma Limited Completes Acquisition of Controlling Stake in Yapan Bio Private Limited
 
+## Buzzing stocks: Shipla Medicare, CG Power, Exide, Manipal Health, JG Chem, PNB Housing, ONGC, Ducon
+Shilpa Medicare initiates a precautionary recall of nearly 28,000 vials amid operational updates from key players like Manipal Health and ONGC, while CG Power addresses cybersecurity concerns and Exide funds ambitious lithium-ion projects.
 
-## Vehere Appoints Avientek as Official Distributor for the Middle East
-Dubai, United Arab Emirates – Business Wire India
-
-## The Leaders’ Canvas Holds Its First Edition In Gurugram, Brings Together Over 85 Industry Professionals To Talk AI, Insights And Future Of Businesses
-
+## Before-and-after NASA images show crater carved by SpaceX rocket that slammed into moon
+Based on these new photos by NASA's Lunar Reconnaissance Orbiter, the fresh crater appears to be 60 feet (18 meters) across and less than 10 feet (3 meters) deep, according to scientists.
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
+
+## Sabse bada rupaiya: Rs. banknotes beat $, € in circulation
+
+
+## State-run banks need to focus on GenZ: FM
+Says PSBs must aim to be preferred partner across different life stages of an individual
+
+## It’s a first for Tata Sons: AGM adjourned for lack of quorum
+Regulatory Action Deprives Holdco From Transacting Biz
 
 ## What Trump’s latest safeguard tariff move on quartz surface products means for India
 The US accounted for 72.5% of India’s quartz surface-product exports in FY2026, according to a Global Trade Research Initiative (GTRI) report. India’s move does not amount to a formal WTO dispute at this stage. During the consultations, India could challenge the US assessment of increased imports an
@@ -81,38 +93,38 @@ US stock market today: The decline was led by several of the market's biggest re
 ## AI coming for your money? Who keeps watch as tech becomes new financial advisor
 
 
-## India's chip story enters next phase: 5-6 semiconductor projects may go commercial by end of 2026
-By late 2026, India is poised to launch five to six semiconductor projects into commercial production. The second phase of the India Semiconductor Mission aims to expand its reach significantly, focusing on chip design, manufacturing, and advanced research. Moreover, the government emphasizes buildi
+## Case filed after AI video shows BJP's Nitin Nabin waving inverted tricolour on Independence Day
+Complaints by BJP leaders assert the video is doctored and aimed at tarnishing the party's image, prompting police action.
 
-## Banks closed tomorrow: Why branches will remain shut in Tripura on August 19
-On August 19, banks across Tripura will be closed in observance of a regional holiday. Other states will also experience bank holidays later this month to honor various festivals. While branch operations will be halted, digital banking services will continue to function normally. Customers should ad
+## ‘Frustrated man’: Congress hits back at Kumaraswamy over ‘Italian blood’ jibe at Sonia Gandhi in Vande Mataram row
+The Congress criticized HD Kumaraswamy for his 'Italian blood' comments about Sonia Gandhi, calling him a 'frustrated man.'
 
-## Why India is considering sugar imports as prices hit record levels
-India is considering limited duty-free sugar imports and tighter stock limits. These measures aim to boost domestic supplies and control record high sugar prices. Wholesale sugar prices have climbed nearly twenty percent since early August. Festival season demand typically increases sweetener consum
+## Ram Temple donation row: UP SIT flags ‘gross lapses’; clears Champat Rai and Mishra in fund diversion
+The UP SIT report criticised Shri Ram Janmabhoomi Teerth Kshetra Trust and its lack of professional financial management, and questioned the role of the SBI.
 
-## 173 UP villages flood-hit; more than 4,000 people shifted to safer locations
-173 UP villages flood-hit; more than 4,000 people shifted to safer locations
+## CM Vijay works 18-20 hours a day, holds call with ministers at 4am: Tamil Nadu minister
+Tamil Nadu CM Vijay remains engaged with government work and begins checking on departmental work early in the morning, TVK minister Aadhav Arjuna said.
 
-## Legacy vs ‘not for luxury’: War of words in Tamil Nadu assembly over ' ₹5.54-crore' tender to shift CM Vijay's office
-TVK minister Aadhav Arjuna said that the decision to shift CM Vijay's office was simply due to lack of basic amenities in the current building.
+## 600 NTA subject experts removed: Big overhaul after govt's 'fix accountability' order
+NTA will shift its headquarters from Okhla to central Delhi, as the testing body embarks on a sweeping overhaul following a series of paper leaks.
 
-## Naga peace activist Niketu Iralu passes away at 91
-Niketu Iralu spent decades building trust across political and ethnic divisions in the region
+## 'Have to build confidence': SC to set up probe panel on Delhi protest violence
+The Supreme Court will form a committee to investigate excessive police force and violence against officers during the July 20 protests concerning the NEET exam
 
-## Lata Mangeshkar's Vande Mataram played at Thane event, deputy CM Shinde calls out gaffe
-Maharashtra deputy chief minister Eknath Shinde urged event organisers to strictly ensure that the official version of ‘Vande Mataram’ is played.
+## Abhijeet Dipke reacts to offer to join NDA camp: ‘Wasn't I anti-national for you a month ago?'
+Abhijeet Dipke should consider joining the Republican Party of India (A) to “fulfil Dr Babasaheb Ambedkar's dream”, Union minister Ramdas Athawale said.
 
-## FSSAI notice impact: Dabur, Ferns N Petals, four other firms rectify mistakes
-FSSAI informed the public about the 'corrective action taken by FBOs (food business operators) post notices issued by the regulator.
+## India imposes phased ban on import of 405 defence items to boost domestic production
+India has imposed a ban on importing 405 defence items to promote domestic production and self-reliance, targeting components for various military platforms.
 
-## Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again'
-Arvind Kejriwal's reaction came as Satyender Jain was arrested on Tuesday over alleged corruption in Delhi Jal Board tenders.
+## Tech outperforms traditional sectors as China’s uneven recovery set to fuel AI stock revival
+China’s K-shaped economic recovery is likely to keep investors betting on artificial-intelligence stocks, as the latest data indicates the tech sector remains a key driver for growth while consumption and property continue to act as drags, according to analysts. Manufacturing output for industrial r
 
-## Pilots body calls for making oral fluid testing complementary under drug testing framework
-In a submission to the DGCA, FIP has also sought to increase pilots' random drug testing to 25 per cent from the existing 10 per cent.
+## Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut
+Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion). The opening pop from its IPO 
 
-## Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case
-Tarun Tejpal had earlier called his conviction "wrong", saying that he will appeal against the order in the Supreme Court.
+## Hong Kong stocks decline as rising bond yields and stalemate in Iran war dent sentiment
+Hong Kong stocks fell on Wednesday, as elevated US Treasury yields and a stalled diplomatic path towards resolving the Middle East conflict put investors on tenterhooks. The Hang Seng Index fell 0.5 per cent to 25,323.70 as of 9.33am local time. The Hang Seng Tech Index dropped 1.4 per cent. On the 
 
 ## Use of yuan hits 6-month high in Hong Kong’s fast-payment system
 Hong Kong’s fast-transfer payments denominated in yuan surged to a six-month high in July, signalling accelerating adoption of real-time cross-border retail payment channels even as mainland Chinese authorities maintain tight controls on capital outflows. Transaction values through Hong Kong’s Faste
@@ -128,15 +140,6 @@ China’s financial regulator has encouraged mainland insurers to buy Hong Kong-
 
 ## Hong Kong 5-year plan should have Northern Metropolis tax breaks, listing reforms: HKICPA
 The Hong Kong Institute of Certified Public Accountants (HKICPA) has urged the government to introduce tax incentives to help develop the Northern Metropolis and to improve the stock exchange’s listing regime to further cement the city’s role in international finance. The organisation’s submission f
-
-## Chinese treasury futures launch cements Hong Kong as premier yuan hub
-When the Hong Kong stock exchange launched five-year China government bond futures on August 3, it did more than simply expand the city’s derivatives product suite. As the only China government bond futures in the offshore market, the contract deserves attention as it finally gives international inv
-
-## Hong Kong’s dim sum bond market hits new heights as State Grid deal draws record orders
-Hong Kong’s offshore yuan bond market has seen another record-breaking deal – the largest single issuance by a Chinese state-owned enterprise – underscoring the growing appeal of the city’s dim sum bond market. State Grid Corporation of China raised 14.9 billion yuan (US$2.2 billion) through offshor
-
-## China plans for peak oil demand amid pipeline increase, intelligent rig development
-China has announced a new dedicated five-year plan to drill more crude oil and expand its network of pipelines as the world’s largest importer of fossil fuels faces heightened supply risks from geopolitical tensions. The plan, unveiled on Monday by the National Development and Reform Commission and 
 
 ## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
 London vows to continue aiding Ukraine’s war effort.
@@ -162,6 +165,9 @@ The United States scales back joint military drills with Seoul to appease Pyongy
 ## Canada Is Exploiting Migrant Agricultural Workers
 Caribbean laborers report rat-infested rooms and abusive bosses.
 
+## ‘Tortured and Shot’: Survivors Recall Massacre of 70 Men by Myanmar Military in 2024
+Soldiers told survivors that the massacre in Byain Phyu was retaliation for the defeat and casualties the military suffered at the hands of the Arakan Army in the Battle for Kyauktaw.
+
 ## South Korea’s Nuclear Dilemma
 The debate over acquiring nuclear weapons continues in Seoul.
 
@@ -182,9 +188,6 @@ Its network is growing, albeit slowly. But this is unlikely to manifest in mass 
 
 ## Cambodia: From Scam Empire to Security State
 War with Thailand pushed Cambodia to enact a sweeping scam crackdown. Now the ruling elite is leveraging the same crackdown to consolidate its political control.
-
-## Daughter of Former Cambodian Opposition Leader Appointed ‘Special Envoy’ to PM
-Kem Monovithya's appointment comes three months after her father Kem Sokha received a royal pardon quashing a 27-year sentence for treason.
 
 ## How Feasible Is a European Nuclear Deterrent Without Washington?
 In 2025, James Cameron wrote, “Eurodeterrent: A Vision for an Anglo-French Nuclear Force,” where he argued the United Kingdom and France should cooperate to develop a nuclear deterrent umbrella for Europe, independent of Washington. A year later, after French President Emmanuel Macron’s landmark nuc
@@ -234,6 +237,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US refineries taking in half of Venezuela’s oil output, official says
+US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.
+
 ## How Ebola became the deadliest outbreak in DR Congo’s history
 Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.
 
@@ -254,9 +260,6 @@ Lawmakers question whether conditions on the aircraft carrier indicate a 'patter
 
 ## Minnesota official sues Texas governor to force ICE agent’s extradition
 State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.
-
-## Bolivia arrests political adviser to Latin American right-wingers
-Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
