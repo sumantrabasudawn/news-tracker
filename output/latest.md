@@ -1,67 +1,64 @@
 # AION Intelligence
 
-## Trump says deal reached with Canada and delays tariffs
-Eleventh-hour reprieve following ‘intense’ talks with Mark Carney to avert 50% levies on billions of dollars in goods
+## Venomous sea creatures plague Europe’s warming beaches
+More sightings of Portuguese men o’ war have coincided with high ocean temperatures caused by climate change
 
-## China eases limits on Nvidia H200 chips as AI race escalates
-Beijing permits small shipments to help leading tech groups in drive to catch up with US rivals
+## What high streets can learn from the success of retail parks
+Once dominated by sellers of bulky goods, parks now attract high street staples
 
-## Chinese humanoid robot maker surges 600% in trading debut
-Unitree makes stellar start in Shanghai as investors clamour for shares
+## Private credit’s mounting strains
+An FT analysis shows stress is spreading across portfolios
 
-## London’s clean air zone linked to improvement in children’s lung health
-Study compared lung size and function of 1,600 six- to nine-year-olds with a matched group in Luton
+## Iran eyes military targets in Europe if Trump escalates war, insiders say
+Proposals to retaliate against US assets beyond the Middle East come as many in Tehran see renewed conflict as inevitable
 
-## FirstFT: Surge in diesel prices deals powerful blow to industrial America
-Also in today’s newsletter: global private equity avoids China and US chip stocks lead sell-off
+## Why Britain needs a Messi budget
+The playing style of the great Argentine footballer demonstrates that less can be more
 
-## Mark Walter sought loan from Apollo backed by Lakers stake
-Talks over the financing continued until Guggenheim chief reached a deal to sell the holding in the basketball team
+## Can Mexicans be weaned off an addiction to cash?
+President Claudia Sheinbaum aims for mass adoption of digital payments to stem tax evasion, corruption and organised crime
 
-## UAE suspends trade with Iran after saying it fired missiles at Gulf state
-Defence ministry says weapons were targeting maritime traffic but fell into the sea
+## ‘Manchesterism’ must honour the city’s global outlook
+Understanding Burnham’s term as a shorthand for inward-looking, transactional politics is misguided
 
-## Burnham launches pandemic-style drive to cut rough sleeping
-UK prime minister vows to ‘get people out the cold’ in run-up to Christmas, in echo of policy he supported in Manchester
+## Are ‘dodgy’ vape shops choking Britain’s high streets?
+Concerns range from tax evasion to fears that the businesses are fronts for organised crime
 
-## OpenAI says it will expand monitoring of model testing after hacking incident
-AI lab plans to dedicate more computing resources to security after one of its ‘agents’ escaped control
+## Travel eSIM boom threatens mobile industry’s roaming cash cow
+Usage set to rise by a third this year as travellers opt for cheaper alternatives to data roaming charges
 
-## Klarna overhauls leadership as it targets US banking licence
-Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
+## Clean energy booms under Trump despite effort to undercut renewables
+Capacity will rise by a record 45GW this year, according to S&P Global Energy
 
-## US chip stocks slide as government borrowing costs hit multiyear highs
-Fears over inflation and mounting public debt ignite bond sell-off
+## America’s brands lose their magic
+From mayonnaise to toothpaste, US household names are being undercut by own labels and outshone by insurgents
 
-## Soaring diesel prices rip across US economy
-Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
+## BlackRock and Oaktree take keys of top supplier to Hollywood studios
+Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
 
-## BHP’s copper pivot is paying off
-Miner’s pipeline looks increasingly convincing given the red metal’s ubiquitous use
+## Rupee rises 1 paisa to 95.73 against US dollar in early trade
+A rise in global crude oil prices added pressure to the local unit while a decline in the dollar index and FII inflows provided support, forex traders said.
 
-## Maharashtra makes snakebite a notifiable disease; reporting of cases compulsory
-The move comes after three tribal schoolgirls died and three others were hospitalised after a venomous snake bit them at a state government-aided residential school in Japtalai village of Gadchiroli district on August 9.
+## India offers city gas suppliers incentives to boost domestic piped connections
+Under the ⁠incentive scheme, effective September, city gas distribution companies will get an additional 200 standard cubic metres of cheaper
 
-## Indian-American Pia Dandiya wins Democratic nomination for Florida 22 district
-Dandiya bagged 68.6% of the votes to defeat Kaysia Earley, a lawyer, who managed to gather 31.4%
+## Sensex today | Stock Market Live: Sensex slips 150 pts, Nifty below 24,100 as bond yield spike rattle markets; Brent crude climbs toward $92
+Sensex, Nifty, Share Prices LIVE: Markets opened flat to marginally negative on Wednesday, extending a six-session losing streak, as rising crude oil prices and surging global bond yields kept investor sentiment under pressure.
 
-## Kolkata fire: At least nine dead in massive hotel fire
-Five fire tenders were pressed into service to douse the blaze that erupted at a hotel on Mirza Galib Street in central Kolkata around 1.45 am.
+## Crude oil futures gain as standoff over Hormuz reopening continues
+At 9.38 am on Wednesday, October Brent oil futures were at $91.65, up 0.69%, and October crude oil futures on WTI were at $84.77, up 0.84%
 
-## Sensex today | Stock Market Live: Sensex, Nifty set for weak opening amid global selloff; Kospi plunges 4%, Nikkei falls over 2%
-Sensex, Nifty, Share Prices LIVE: Gift Nifty is ruling at 24,210 in early deal on Wednesday, which is marginal compared with fall in Asian equities. Overnight, Nasdaq crashed over 350 points following a sharp selling in AI stocks.
+## OpenAI makes AI safety changes in wake of Hugging Face breach
+The latest disclosures serve as fresh evidence that AI agents are capable of acting autonomously in ways that even researchers trained to root out vulnerabilities in the technology can no longer anticipate
 
-## In Meta's trial, families of social media victims see pivotal moment for online safety
-This lawsuit is not focused on any individual person, case or specific harm tied to social media, but rather broader claims that Meta made decisions in designing Instagram and Facebook that put young users at risk.
+## Energy stocks hit record as oil rises on fading deal hopes
+The S&P 500 Energy Sector Index climbed 1.8% on Tuesday, marking the first all-time high for the gauge since March 27
 
-## Gaja Capital’s ₹550-crore IPO opens today
-The IPO comprises a fresh issue of equity shares aggregating up to ₹450 crore and an Offer for sale of equity shares aggregating up to ₹100 crore .
+## Anthropic pre-IPO credit facility set to climb past $10 billion
+The Claude chatbot maker’s proposed expansion of its so-called revolver is drawing a clutch of banks seeking to bolster their pitch for roles on the IPO
 
-## Chinese humanoid robot maker Unitree opens over 600% higher in Shanghai debut
-The stock opened ‌at 1,100 yuan on the tech-focused STAR ‌Market, 629% higher ‌than ⁠its IPO price ⁠of 150.8 yuan. It is ​seen by some as a watershed ⁠moment for China’s robotics sector — a key battleground ‌in the Sino-US tech war.
-
-## Weakness to persist for Indian markets as global stocks wobble
-Gift Nifty is ruling at 24,210 in early deal on Wednesday, which is marginal compared with fall in Asian equities.
+## Nifty slips for seventh day as crude surge, bond yield spike rattle markets
+The Nifty 50 opened at 24,152.05, against its previous close of 24,154.90; the Sensex opened at 77,218.05 against its previous close of 77,235.46
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
@@ -87,6 +84,15 @@ The United States and Canada have agreed to delay significant tariffs on imports
 ## Sabse bada rupaiya: Rs. banknotes beat $, € in circulation
 
 
+## 'Should we praise this brutality?': Rahul Gandhi slams CJP stir remark by Kiren Rijiju
+Rahul Gandhi slammed Kiren Rijiju's remark. In an ANI interview, Rijiju said, “Not a single person was harmed; not a single person suffered a broken bone."
+
+## UGC NET row: Students, teachers flag disputed questions, raise concerns over NTA exam process
+Aspirants and teachers have raised concerns over disputed questions, discrepancies in recorded responses and the NTA’s answer-key challenge process in UGC NET.
+
+## Belonging: Sonia Gandhi’s memoir set to hit shelves in November
+Sonia Gandhi’s memoir Belonging: A Journey of Love releases November 10, offering an intimate account of her life, political career and personal losses.
+
 ## Kharge hits back at BJP over Vande Mataram row, says, ‘Book Nehru, Gandhi too’; What is the controversy?
 Kharge said that if singing the version was considered a crime, cases should also be registered against the national leaders who had sung it before him,
 
@@ -96,20 +102,14 @@ The results, announced late Tuesday night, saw Rai secure 822 votes with senior 
 ## ED raids 8 locations in PMLA probe in CMRL-Exalogic case
 The Directorate of Enforcement (ED) raided eight locations in Kozhikode district on Tuesday in connection with its probe into allegations of money laundering in the CMRL - Exalogic case
 
-## 13-year-old plots grandfather’s murder for gold, cash in Kerala
-A 13-year-old girl allegedly planned the murder of her 65-year-old grandfather in Kerala’s Alappuzha district with her 17-year-old boyfriend and two of his friends to steal gold and other valuables, police said on Tuesday
+## 13-year-old girl planned grandfather’s murder with boyfriend to steal gold, cash in Kerala
+A 13-year-old girl allegedly planned the murder of her 65-year-old grandfather in Kerala’s Alappuzha district with her 17-year-old boyfriend.
 
 ## Kar HC revoked KPSC chairman Sahukar suspension
 The Karnataka high court on Tuesday quashed the suspension of Karnataka Public Service Commission (KPSC) chairperson Shivashankarappa Sahukar by Governor Thawarchand Gehlot, holding that the prescribed procedure was not followed
 
-## SC asks Centre to ensure well-being of captive elephants
-The Supreme Court on Tuesday directed the Centre to take steps for ensuring the well-being of captive elephants prescribing their mandatory medical check up and constant monitoring after being told that more than half of the over 2700 captive elephants in the country remain in possession of private 
-
-## Kharge family trust site allotment case: High Court allows to modify order
-The Karnataka High Court on Tuesday reserved its order on a petition challenging a special court’s decision to conduct an inquiry into alleged irregularities in the allotment of a civic amenity site to the Siddhartha Vihar Trust, associated with Congress president Mallikarjun Kharge and his family
-
-## Audit impossible: CAG flags lack of NHAI project-wise borrowing data
-New Delhi: The National Highways Authority of India (NHAI) does not maintain project-wise records of borrowing costs worth ₹1
+## HKEX profit jumps to record high on surging IPOs and turnover, beating market estimates
+Hong Kong Exchanges and Clearing (HKEX) profit jumped to a record amid a boom in initial public offerings (IPOs) and sizzling stock market turnover in the second quarter, according to a stock exchange filing on Wednesday. Quarterly net profit for the operator of Asia’s third-largest stock market soa
 
 ## Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement
 The Hong Kong Gold Exchange (HKGX) and TGX Technology have launched a joint venture to build a “secure, stable and internationally competitive” gold trading and clearing platform, as the city pushes to become a gold trading hub. Hong Kong Gold Exchange Trading System (HKGXTS) would draw on technolog
@@ -127,13 +127,10 @@ Rising US Treasury yields and an impasse in the Middle East conflict drove techn
 Hong Kong’s fast-transfer payments denominated in yuan surged to a six-month high in July, signalling accelerating adoption of real-time cross-border retail payment channels even as mainland Chinese authorities maintain tight controls on capital outflows. Transaction values through Hong Kong’s Faste
 
 ## After years, Macau firm opts out of Hong Kong renewal project, seeks US$153m for site
-A North Point redevelopment site is being put on the market for HK$1.2 billion (US$153 million) after its owner, which spent years assembling the ageing property, warned that redeveloping it could result in losses of as much as 30 per cent. The sale offers a rare glimpse into the difficulties facing
+A North Point redevelopment site is being put on the market for HK$1.2 billion (US$153 million) after its owner, which spent years assembling the ageing property, warned that overhauling the site could result in losses of as much as 30 per cent. The sale offers a rare glimpse into the difficulties f
 
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
-
-## Beijing urges mainland insurers to invest in Hong Kong-listed ETFs
-China’s financial regulator has encouraged mainland insurers to buy Hong Kong-listed exchange-traded funds (ETFs), an initiative that is poised to further boost the city’s standing as an international finance centre. The National Financial Regulatory Administration (NFRA) voiced support on Tuesday f
 
 ## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
 London vows to continue aiding Ukraine’s war effort.
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US, Canada reach trade deal to avert steep tariffs, Trump says
-Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.
+## Bali gym owner kicks out three Israeli tourists for links to ‘IDF’
+A gym owner in Indonesia has posted a video on social media explaining why he refused service to three Israeli tourists.
+
+## US unions sue over new visa rule for foreign students, journalists
+New rule caps student and exchange visas to four years, while most journalist visas will be limited to 240 days.
+
+## UAE imposes indefinite trade embargo on Iran over alleged missile attacks
+Iran denies launching missiles at the UAE, suggesting the incident was a 'false flag operation'.
+
+## US sanctions International Criminal Court’s president and top lawyer
+The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye.
+
+## Trial begins that could force Meta to change Facebook and Instagram
+A landmark trial has begun in California over allegations Meta deliberately designed its platforms to be addictive.
+
+## Trump pauses 50 percent tariff on Canada in last-minute deal
+Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.
 
 ## US refineries taking in half of Venezuela’s oil output, official says
 US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.
 
 ## How Ebola became the deadliest outbreak in DR Congo’s history
 Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.
-
-## US ambassador to Israel calls settler violence ‘terror’
-US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank
-
-## Quebec separatist says no independence referendum while Trump in office
-Leader of Canadian province's secessionist party says debate over independence stymied by turbulence in US politics.
-
-## Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
-Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US 'begging' for negotiations.
-
-## Al Jazeera reports from Indonesia’s quake zone, desperate for help
-Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.
-
-## Democrats call for USS Lincoln probe, question US Navy’s readiness
-Lawmakers question whether conditions on the aircraft carrier indicate a 'pattern' of poor planning amid the Iran war.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
