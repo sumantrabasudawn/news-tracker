@@ -24,14 +24,17 @@ Investment in insurance defence specialist WSHB expands non-lawyer ownership bey
 ## Putin pledges help for Wildberries warehouses hit by Ukraine
 Kyiv’s drones have partly or completely destroyed seven warehouses of Russia’s largest online retailer
 
+## Virgin Atlantic and Trainline investigated over ‘drip pricing’
+Competition and Markets Authority reviews charges added later in buying process
+
+## Private credit risks remain at large
+Regulators and investors should pay attention to the strain in the direct loan market
+
+## Don’t mess up London’s knowledge economy
+Oxford, Cambridge and Manchester are seen as innovation powerhouses but there’s a city we don’t mention
+
 ## Humanoid robots don’t deserve their superhuman valuations
 Machines are currently far too pricey for industrial viability, let alone consumers
-
-## Investigators discover track ‘irregularity’ near site of UK train derailment
-Officials examine CCTV footage of area around incident in East Sussex that injured 30 people
-
-## Moderna’s cancer shot: exciting for investors, inconclusive for patients
-A glimmer of hope for sufferers, a potential revenue platform for a cash-burner, and a whole heap of unknowns
 
 ## Depression defies forecasts, keeps monsoon pipeline flowing in north and east
 A stubborn weather system over Jharkhand sustains rain across northern, eastern and north-eastern India through Wednesday even as evening forecasts suggested it has weakened a round
@@ -81,6 +84,15 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
 Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
 
+## 35 Bihar students hospitalised after detergent allegedly mistaken for salt in mid-day meal
+Bihar rural development minister Shravan Kumar visited the hospital and met the affected students, promising a detailed inquiry.
+
+## Manipur shuts all educational institutions from Aug 20 to 23 amid unrest
+Manipur has ordered all schools, colleges and universities shut from August 20 to 23, citing the prevailing law and order situation amid a JFD shutdown.
+
+## Class 10 student stabs principal 27 times after getting caught stealing money in Telangana
+Police said the boy had planned to steal from the principal's house. But, as she identified him during the theft, he killed her in fear of police complaint.
+
 ## 'Good sense prevails': CJP after Tamil Nadu CM Vijay's govt withdraws order against student protest
 As per the now-withdrawn order, officials were asked to take “appropriate coordinated action” to prevent students and youth from joining such protests.
 
@@ -95,15 +107,6 @@ According to police, a man lodged a complaint on April 4 alleging that the coupl
 
 ## National-level wrestler arrested in drug smuggling case after 3-year manhunt
 Amit Sheoran (31), a resident of Rohtak district in Haryana, was arrested near Madhuban Chowk Metro Station in northwest Delhi on Tuesday night, he said.
-
-## Protest over census escalates in Manipur amid call to boycott govt institutions
-Meitei groups have been pressing for an NRC to identify undocumented migrants who settled in Manipur after 1951
-
-## 'Legal cockroaches' to protest against Bar Council chairman Manan Mishra tomorrow, CJP backs stir
-Bar Council chairman Manan Mishra's apology was rubbished by the Bombay Bar Association earlier in the day, saying it was “not a true expression of remorse.”
-
-## Ex-serviceman running Nagpur military school held for sexual abuse of minors: Cops
-Former serviceman who runs a military residential school was arrested for allegedly sexually assaulting, harassing several minor students under the guise of training, police said.
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
@@ -153,6 +156,18 @@ Under Xi, the once-collective gathering has become something else.
 ## Five Years on, Washington Is Failing Afghanistan Again
 Despite administration promises, aid cuts are leaving Afghan mothers and children to die.
 
+## Russia’s Fake Missile Test Warning to New Zealand
+With the warning of a yet-to-materialize missile test in the Southern Ocean, is Russia playing an old joke on New Zealand?
+
+## Japan’s So-Called ‘Rising Militarism’ and Japan-US Relations
+Insights from Kuni Miyake.
+
+## India-Japan Defense Technology Cooperation Hinges on Industrial Endurance
+There is a marked asymmetry between high-powered India-Japan diplomacy and their uneven industrial integration.
+
+## Xi Jinping’s Jiang Zemin: Rewriting the ‘Reform Era’ to Serve the ‘New Era’
+Xi’s commemoration of Jiang was ultimately less an exercise in historical remembrance than an attempt to impose continuity on the CCP’s post-Mao history.
+
 ## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
 Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
 
@@ -164,18 +179,6 @@ The debate over acquiring nuclear weapons continues in Seoul.
 
 ## Kyrgyzstan Liquidates More Companies Over Sanctions Risks
 19 more companies have been ordered to close down, and more than 140 have been cut off by their state-owned banking partners.
-
-## Exercise Rotor Clap III and Mission Sudarshan Chakra: Options for Pakistan
-India is trying to establish a defensive shield against airborne objects, from drones to missiles.
-
-## 6 Reasons Why Kim Jong Un Might Want to Meet With Trump
-Kim is in a stronger position today than he was during his summit diplomacy with Trump in 2018 and 2019. But that doesn't mean he has nothing to gain from a meeting.
-
-## China’s Male Matchmakers and the End of ‘Marrying Up’
-A new wave of matchmaking influencers explicitly treats marriage as a business transaction – and they brutally judge clients’ prospects accordingly.
-
-## Al-Qaida’s Renewed Confidence in Bangladesh
-Its network is growing, albeit slowly. But this is unlikely to manifest in mass casualty attacks.
 
 ## Contested Logistics and the “Last Unmanned Mile”
 In a Pacific war, the U.S. military cannot assume uncontested access to its depots and supply lines for munitions, spare parts, food, water, and energy. Jonathan is joined by David Tuttle (Rune Technologies), Paul Lwin (HavocAI), and Tom Garvey (CACI) to discuss sustaining a dispersed force that’s f
@@ -225,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## North Korea leader’s sister denies talks with ‘hostile’ US
+US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.
+
+## Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs
+Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.
+
+## US pressure on Israel needed for peace in Syria
+With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.
+
 ## US and Canada reach ‘very fair’ trade agreement, Trump says
 New trade deal ensures no tariffs for US farmers and businesses exporting to Canada, Trump announces
 
@@ -239,15 +251,6 @@ US interventions in Iran and beyond reveal a recurring pattern of regime changes
 
 ## Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering
 The Israeli military has announced a criminal investigation into the killing that shook the world.
-
-## Palestinian refugee and two relatives drown off English coast
-A girl is taken to hospital in critical condition in what PM Burnham calls a 'terrible family tragedy'.
-
-## Israel numbers Palestinian detainee foreheads: What we know
-Palestinian news outlets reported a man with the number ‘44’ written on his forehead following a raid in Qabatiya.
-
-## Second Ukrainian national arrested over 2022 Nord Stream pipeline blast
-The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
