@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What the social media addiction lawsuit could cost Meta
+Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram's operations.
+
+## “I get along with him very well.”
+US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.
+
 ## Israeli strike on Gaza City police headquarters kills women’s police chief
 An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.
 
@@ -248,12 +254,6 @@ Ceuta leaders want children returned to Morocco, but Madrid says deporting them 
 
 ## Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread
 Moderna's mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials.
-
-## What’s behind Israel’s latest attack on Syria?
-US envoy warns Israel's strike could have sparked direct confrontation with Turkish forces.
-
-## Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
-Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
