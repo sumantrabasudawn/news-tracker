@@ -1,7 +1,19 @@
 # AION Intelligence
 
-## Moderna shares soar 90% on melanoma vaccine trial success
-Drugmaker’s cancer shot being developed with Merck delivered a positive outcome in a late-stage trial
+## Target profits double after $1bn tariff refund
+US retailer reports higher sales as net income boosted by Washington’s tariff return programme
+
+## Price of olive oil doubles in five years: how UK inflation has hit shoppers
+The majority of goods and services have shot up in price since 2021
+
+## Portuguese men o’ war plague Europe’s warming beaches
+More sightings of jellyfish-like species have coincided with high ocean temperatures caused by climate change
+
+## Israel to probe troops over killing of Palestinian child Hind Rajab
+Critics dismiss IDF call for two criminal investigations into notorious Gaza killings — one of which sparked film — as ‘charade’
+
+## Moderna shares double on melanoma vaccine trial success
+Drugmaker’s cancer shot developed with Merck delivers positive outcome in late-stage trial
 
 ## Investigators discover track ‘irregularity’ near site of UK train derailment
 Officials examine CCTV footage of area around incident in East Sussex that injured 30 people
@@ -11,18 +23,6 @@ Raid on Ukrainian official’s home came after ousted defence minister launches 
 
 ## Mass expulsion was once a taboo idea in Europe. Then came Maga
 The continent’s far right is embracing the concept of remigration in the Trump era
-
-## Target profits double after $1bn tariff refund
-US retailer reports higher sales as net income boosted by Washington’s tariff return programme
-
-## France to expel two Iranian officials in diplomatic row
-Paris retaliates after accusing regime of having ‘outrageously and deliberately attacked’ French diplomats in Tehran
-
-## British free speech group hit by unease over Maga links
-Former employees say Toby Young’s non-profit FSU has aligned with Trump administration despite claims to be non-partisan
-
-## Europe should wish Marco Rubio a bright future
-Americans who support reckless wars are sometimes also the likeliest to defend Europe
 
 ## Mike Ashley’s luxury retail empire is going cheap
 The sharp-elbowed billionaire is remaking Frasers with acquisitions including Harvey Nichols, but the stock market remains wary
@@ -39,32 +39,35 @@ Deal for former Pendragon software division follows rival buyout group Apax’s 
 ## FirstFT: Iran weighs Europe strikes if US restarts war
 Also in this newsletter: Trump delays volley of new tariffs on Canada and Hollywood equipment supplier defaults
 
-## Notebook imports go up by 5 times in first half
-Domestic industry calls for 10 per cent % safeguard duty to provide a level-playing field
+## Kedia Securities buys 1.48% stake in Zaggle for ₹33 crore
+The shares were acquired at ₹164.72 per share.
 
-## Haragopal appointed NABFINS MD
-Haragopal served as the MD of the Delhi-based NABCONS for over two and a half years
+## Only 1 in 15 Indians with active smartphone protection, even as 72% report damage
+Average device prices in India have risen 40–50 per cent in recent years, and the replacement cycle has stretched to approximately 40 months
 
-## Kerala: DTDC launches ‘Vallam Express’ to deliver parcels to water-bound communities
-The service has initially been launched in Kuttanad, an Alappuzha sub-district comprising 14 villages and serving a population of approximately two lakh people
+## Gold, silver prices drop in Delhi as rising crude oil rates, geopolitical worries weigh on bullion
+Gold falls ₹800 to ₹1,58,000/10g; silver slips ₹5,730 to ₹2,35,000/kg
 
-## Sameera Group to invest ₹300 crore in 10 residential projects across Tamil Nadu
-The projects will be in Trichy, Madurai, Tirunelveli, Vellore, Ranipet, Kanchipuram, Chennai, Krishnagiri, Tiruvannamalai, and Chengalpattu
+## Quick-commerce discounts settle at 19-20% as new entrants eye 1,200-1,500 dark stores
+India’s quick-commerce sector is entering a more disciplined phase, with platforms increasingly balancing growth with profitability even as the entry and expansion of deep-pocketed e-commerce rivals raises the competitive bar
 
-## Tamil Nadu raises milk procurement price to ₹41/litre
-The increase will cost the State government ₹360-crore a year
+## Dedicated ‘Japan City’ being developed in Uttar Pradesh: CM Adityanath
+He said a push was underway to attract investments in semiconductors, data centres and electronics manufacturing units to the State
 
-## UpTik hits ₹12 crore in monthly lending
-The company’s growth was supported by a strong operating track record
+## Karnataka Bank empanelled as Arranger for HUDCO Capital Gain Bonds
+Karnataka Bank customers can easily subscribe to HUDCO Capital Gain Bonds at the bank’s branches, supported by dedicated relationship management and customer service
 
-## Asia fund managers rotate to defensives as AI conviction wavers
-Despite defensive tilt, technology semiconductors and hardware retained the top two positions in sector preference rankings
+## Novonesis to roll out ₹3,000-crore Maharashtra investment over next 24-36 months
+Danish bio-solutions major Novonesis will begin rolling out its proposed ₹2,500-3,000 crore Maharashtra investment over the next two to three years, expanding its Patalganga manufacturing base
 
-## Sunshine Pictures IPO opens for subscription today at ₹342-360
-As much as 50% of the net issue is reserved for qualified institutional buyers (QIBs), while 15% is reserved for non-institutional investors (NIIs). Retail investors have been offered 35% of the net issue
+## Rajnath, Japan Defence Minister to meet on Thursday
+Two sides likely to discuss co-production of the unified complex radio antenna mast
 
 ## Received income tax notice under Section 143(3)? What is faceless assessment & how you should respond
 This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.
+
+## ‘Earning billions’: How fuel exporters in India, US are benefitting from war-led oil supply disruptions
+With their own operations unaffected by attacks or shipping restrictions, refineries in India and the US have increased exports to markets that previously depended heavily on supplies from the Middle East and Russia.
 
 ## Trump tariffs fail to dent India's export dependence on US; share stays near 20%
 
@@ -84,32 +87,29 @@ Approved by the government and effective from September 1, the benefit will appl
 ## Campbell Wilson joins Air New Zealand board as he prepares to exit as Air India CEO
 
 
-## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
-The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
+## Mud, slush accumulate in Uttarkashi tunnel due to seepage, raise safety concerns
+Water seepage in Uttarakhand’s Tambakhani tunnel has caused mud and slush to accumulate, making passage risky for residents and Gangotri pilgrims.
+
+## ‘Ought to have resigned’: Bombay Bar Association on BCI chairman Manan Mishra's apology
+In a letter dated August 18 (Tuesday), the Association said the apology was an “attempt to assuage the situation” and not a “true expression of remorse”.
+
+## Centre allots full onion buffer stock for retail as procurement lags
+With a smaller buffer available, the government has decided to conserve stocks for direct retail intervention rather than release them in wholesale mandis.
+
+## ‘We are being defamed’: Man who became dog to protest over stray menace in MP's Khandwa
+The man defended dogs against allegations that they were responsible for an increase in attacks, arguing that a lack of food was forcing them to chase people.
+
+## What caused the freak gas tank explosion that killed 3 at Delhi CNG station?
+Delhi CNG pump explosion: The three victims were staffers at the CNG station, and one of them was filling the gas tank when it exploded.
 
 ## Govt likely to increase random drug testing from 10% to 25% of flight crew
-Govt likely to increase random drug testing from 10% to 25% of pilots: Sources
+Last week, Air India said that it will screen all of its pilots for psychoactive substances to ensure stricter discipline.
 
 ## Magisterial inquiries ordered into THDC tunnel accident in Chamoli: Official
 The inquiry will examine the safety arrangements at the site and the safety standards being followed during tunnel construction and operations
 
 ## Delhi court sends AAP's Satyendar Jain to 14-day judicial custody in Jal Board corruption case
 Satyendar Jain has been arrested by the ACB in an alleged corruption case involving tendering process for sewage treatment plant projects of Delhi Jal Board.
-
-## Delhi HC refused to entertain petition on scrapping of National Testing Agency
-The petition said there were several discrepancies in the NEET UG re-examination, including tampering of the Optical Mark Recognition (OMR) sheets
-
-## ‘We are Gen Z’ the new ‘jaante nahi mera baap kaun hai’: Omar Abdullah on viral Kargil video of woman
-Omar's reaction came in response to a video in which a woman can purportedly be seen shouting and creating a ruckus at the Minimarg checkpoint in Kargil, Ladakh
-
-## Fuel coupons worth ₹1,000, rain and chaos: Why a ‘petrol langar’ in Chandigarh left people fuming
-An Amritsar-based social worker Rakesh Trehan had reportedly announced ‘petrol langar’ in Chandigarh on August 18, but heavy rains dampened the plans.
-
-## Govt to use GST data to track subcontracting in highway projects: Nitin Gadkari
-Nitin Gadkari says GST records will be used to track subcontracting in highway projects as govt plans rules to limit multiple layers of contractors.
-
-## Wedding photography drones near Bareilly Air Force station raise safety concerns
-Air Force officials said that bird activity, unauthorised construction and drones were among the major threats to flight safety around the station.
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
@@ -135,6 +135,9 @@ Macau has unveiled a sweeping five-year strategic blueprint to break its long-st
 ## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
+## U.S. Funding Cuts Fuel Child Recruitment Into Haitian Armed Groups
+“Without USAID support, all you have left is the rule of the ganglord.”
+
 ## A Rare Window Has Opened for North Korean Diplomacy
 If Trump wants to negotiate, he must stop making denuclearization the price of admission.
 
@@ -155,9 +158,6 @@ Simply lowering energy prices for U.S. consumers is “goal No. 1”
 
 ## Uganda’s Succession Plan Is Already Underway
 The president’s son is wielding increased power with impunity.
-
-## Colby’s ‘Flexible Realism’ Won’t Work in the Indo-Pacific
-Washington’s new strategy is little more than a euphemism for unpredictability.
 
 ## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
 Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri
+Jose Mourinho is back for a second spell at Real Madrid who, he says, didn't need Barcelona's new signing Rodri.
+
+## Israeli forces mark Palestinians with numbers amid mass arrests
+Palestinian detainees were marked with numbers during a mass Israeli arrest campaign in Qabatiya.
+
 ## Why aid entering Gaza may not reach those who need it
 It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.
 
@@ -248,12 +254,6 @@ US war on Iran puts Cambodian children’s education at risk
 
 ## What’s happening in Lebanon’s ‘pilot zones’?
 Al Jazeera’s Ali Hashem reports on what’s happening in a so-called ‘pilot zone’ in southern Lebanon.
-
-## Dozens killed after gold mine collapse in Central African Republic
-Rescue operations ongoing after mine collapse kills dozens in the Central African Republic near the Cameroon border.
-
-## UAE trade embargo could shut Iran’s key economic escape route: Here’s why
-The UAE announced the embargo, accusing Iran of launching missiles into its territory.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
