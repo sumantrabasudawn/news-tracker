@@ -36,29 +36,29 @@ Danish brewer diversifies away from beer amid global fall in alcohol consumption
 ## Sweden’s EQT buys Australian rugby league club in first sports foray
 Melbourne Storm deal is latest example of private equity investing in sporting teams
 
-## Charles Schwab opens India capability centre in Hyderabad, plans 2,000 hires by 2027
-The new facility will strengthen the financial services company’s technology capabilities while adding engineering and operational talent to its global workforce
+## Hyundai Motor India to raise car prices by up to 1% from September
+The latest increase marks Hyundai’s third price hike announcement of ‌2026
 
-## InfinityDAO plans $1 billion insurance programme for IDL token ecosystem
-The proposed programme comes as digital-asset platforms increasingly seek stronger governance, risk controls and institutional safeguards to build market credibility.
+## IndiGo website hit by technical issue, flight bookings disrupted
+IndiGo customers in several Indian cities reported difficulties booking flights and completing online check-in through the airline’s website on Wednesday.
 
-## Nifty fall for seventh straight session; banks, metals drag as crude weighs on sentiment
-Investor sentiment remained fragile as persistent geopolitical tensions, higher oil prices and currency weakness intensified pressure on domestic equities.
+## Kerala Agri varsity to support agri-enterprises in value addition, market expansion
+T. Sajitha Rani, Vice-Chancellor, praised ABI for helping farmers shift from agriculture to value addition, entrepreneurship, and market development
 
-## West Bengal poised for industrial expansion with cluster-led strategy: PHDCCI
-A new industry report highlights manufacturing clusters, export infrastructure and sector-focused investments as key drivers of future growth.
+## Fujifilm Instax Mini Evo Cinema Review: Nostalgia in stills and motion
+Can Fujifilm’s latest hybrid camera bridge the gap between analogue charm and modern creativity?
 
-## Laser-Guided Renal Artery Angioplasty Successfully Performed on a 60-Year Old Male Patient at Manipal Hospital Dhakuria
-Laser-Guided Renal Artery Angioplasty Successfully Performed on a 60-Year Old Male Patient at Manipal Hospital Dhakuria
+## India must protect tax base while ensuring investor certainty: Income Tax official
+India’s tax administration is seeking greater certainty and international cooperation as businesses expand globally and technology transforms cross-border taxation.
 
-## Exicom Becomes the First Company in India to Manufacture Liquid-Cooled Power Modules for EV Chargers
-Exicom Becomes the First Company in India to Manufacture Liquid-Cooled Power Modules for EV Chargers
+## BSE launches three growth factor indices to expand factor investing suite
+The three indices, BSE 500 Growth 50, BSE MidCap 150 Growth 30, and BSE LargeCap 100 Growth 30, select constituents based on EPS growth and sales per share growth
 
-## SEBI working on easing SME listing framework: Chairman
-The regulator is considering changes to the market-making, underwriting and paid-up capital norms for SMEs
+## QR coding for medicines needs to take the next leap in standardization of codes: GS1 CEO
+India cannot work in silos, aligning with internationally recognised systems would ensure that the product, batch, and expiry information were encoded in a universal manner: Swaminathan
 
-## Nikhil Kamath, Sreeram Vanga invest ₹250 crore in CtrlS Datacenters
-The capital will aid CtrlS in expanding its infrastructure to meet the rising demand for AI, cloud, and digital workloads across India
+## Supreme Court bars stay on coal scam trials, sets four-week deadline for pleas
+The directive seeks to balance expeditious trials with the rights of accused amid competing legal proceedings before the Supreme Court and Delhi High Court
 
 ## Received income tax notice under Section 143(3)? What is faceless assessment & how you should respond
 This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.
@@ -84,6 +84,18 @@ Approved by the government and effective from September 1, the benefit will appl
 ## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
 The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
 
+## 1 feared dead, several injured after gas tank explodes at CNG station in Delhi's Tikri Kalan
+1 feared dead, several injured after gas tank explodes at CNG station in Delhi's Tikri Kalan
+
+## Union cabinet clears ₹3,591 crore project to widen Bihar’s NH-22 to four lanes
+Cabinet approves ₹3,590.73 crore project to four-lane Bihar’s NH-22 from Muzaffarpur to Sonbarsa, boosting Nepal border connectivity.
+
+## Cabinet approves 4 multitracking railway projects covering 8 districts
+The four projects covering eight districts across the states of West Bengal, Odisha, Tamil Nadu and Andhra Pradesh
+
+## Bengal court issues arrest warrant against TMC MP Mahua Moitra in hate speech case
+A case filed against Mahua Moitra alleged that she insulted women and made hate speech, for which the court had issued pre-cognisance summons to her.
+
 ## NMC chief calls for quality focus as India expands medical education
 NMC chief Abhijat Sheth says India’s rapid medical education expansion must not compromise quality, competency and standards.
 
@@ -95,18 +107,6 @@ The doctors – physician Dr Jal Ratanji Patel and radiologist Dr Jal Dhaybho-Ko
 
 ## Cancer drugs provided under Rajasthan govt scheme sold in black market; probe ordered
 Health minister Gajendra Singh Khinvsar said black marketing or unauthorised sale of costly life-saving medicines would not be tolerated
-
-## Uttarakhand: Landslide damages bridge in Pithoragarh, Dharchula-Gunji traffic closed
-A landslide damaged the Kulagad bridge on the Dharchula-Gunji route in Uttarakhand, suspending traffic to the Vyas and Darma valleys.
-
-## US envoy Sergio Gor calls J&K ‘important part of India’, says travel advisories will be reconsidered
-Gor made the remarks during his visit to Srinagar, signalling a significant shift in the tone of Washington’s engagement with Jammu and Kashmir.
-
-## Behind Vijay govt's move to withdraw order barring students from joining Left, CJP-like protests: 'Democratic win'
-The Students’ Federation of India (SFI) called the withdrawal of the circular a victory for democratic rights of students.
-
-## 'CJI Kant like fatherly figure we can always approach': Newly elected SC bar association chief Pradeep Rai
-CJI Kant also expressed hope that the newly elected SCBA office-bearers would "lead the bar by example"
 
 ## Prudential Hong Kong expands headquarters across Swire Properties’ towers
 Prudential Hong Kong has agreed to lease headquarters space at Swire Properties’ One Taikoo Place and One Island East, marking a notable expansion of its office footprint in the city, according to the developer. Under the agreement, the insurer will occupy a total of 83,000 sq ft across the two buil
@@ -129,8 +129,8 @@ The business environment for Chinese robotaxi operators in Europe has become mor
 ## Capturing tomorrow’s growth through institutional-grade investing
 [The content of this article has been produced by our advertising partner.] High-net-worth individuals (HNWIs) have spent recent years discovering that some of the strongest growth opportunities usually lie outside public markets. Global private market assets under management have already surpassed 
 
-## HKEX profit jumps to record high on surging IPOs and turnover, beating market estimates
-Hong Kong Exchanges and Clearing (HKEX) profit jumped to a record amid a boom in initial public offerings (IPOs) and sizzling stock market turnover in the second quarter, according to a stock exchange filing on Wednesday. Quarterly net profit for the operator of Asia’s third-largest stock market soa
+## Next for Hong Kong’s exchange: ‘more products on our shelf’, HKEX boss pledges
+Hong Kong’s bourse operator will focus on diversifying into multiple asset classes and extending its trading hours to serve international investors, in support of the city’s five-year-plan goal to strengthen its role as an international financial centre, according to its CEO. Hong Kong Exchanges and
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Angelique Kidjo makes history with Hollywood walk of fame star
+Angelique Kidjo makes history with Hollywood walk of fame star
+
+## Humanitarianism is not collapsing. It is being traded and compromised
+This is endangering the lives of humanitarian workers and the vulnerable communities they serve.
+
+## ‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?
+Analysts say Trump's attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.
+
 ## Top India court allows passive euthanasia, but few aware of ‘living wills’
 Families of terminally ill patients have little or no awareness or preparedness for what comes next.
 
@@ -242,15 +251,6 @@ Russia's Defence Ministry says 453 Ukrainian drones were downed overnight in var
 
 ## Nick Kyrgios provisionally suspended after positive test for cocaine
 The Australian said he made no excuses but admitted to struggling with the twilight of his career.
-
-## Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US
-Far-right protesters clashed with police at an anti-Muslim rally in the US city of Dearborn.
-
-## Diego Maradona’s doctors missed renal red flag, Argentinian court told
-Second trial claims Diego Maradona's doctors missed crucial warning signs before Argentina football icon's 2020 passing.
-
-## Cars swept downhill as flash floods hit northern Chile
-Cars were swept downhill as floodwaters and mudslides tore through northern Chile.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
