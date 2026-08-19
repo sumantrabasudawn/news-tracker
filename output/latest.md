@@ -9,7 +9,7 @@ Also in this newsletter: US national debt tops $40tn and China’s Unitree makes
 ## Hudson River posts $11.4bn trading windfall as it seizes on market tumult
 Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war
 
-## Green activist who celebrated Iran’s ‘resistance’ elected to party council
+## UK Green activist who celebrated Iran’s ‘resistance’ elected to party council
 Eleanora Folan had praised Tehran’s ‘courageous fight against the imperialist dogs’
 
 ## US government debt hits $40tn as borrowing rises at historic rate
@@ -36,6 +36,9 @@ Competition and Markets Authority reviews charges added later in buying process
 ## Private credit risks remain at large
 Regulators and investors should pay attention to the strain in the direct loan market
 
+## India cuts sugar inventory limit to 15 days amid record prices
+Tighter supplies, weather disruptions and rising festival-season demand are putting pressure on India’s sugar market, prompting fresh government intervention
+
 ## Samsung positioned to lead market sales with chipmaking price hike
 Chipset-led price hikes and affordability concerns are making consumers increasingly dependent on promotional offers, keeping the smartphone market under pressure
 
@@ -56,9 +59,6 @@ MPC members emphasise the need for careful monitoring before making any policy a
 
 ## Cabinet approves 5 rail and road projects worth ₹13,041 crore
 The proposed projects are essential routes for transportation of commodities such as coal, iron ore, cement, iron and steel, container, automobile, foodgrains
-
-## Air India Express introduces self-declaration process for psychoactive substance use
-Move aimed at early intervention, employee support and strengthening safety reporting culture
 
 ## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
 Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
@@ -108,6 +108,9 @@ Satellite tracking shows the critically endangered Lesser Florican uses a 206,00
 ## Pakistan summons US charge d'affaires over Sergio Gor's remarks during J&K visit
 In a statement on Wednesday, Pakistan's ministry of foreign affairs said the US envoy to Islamabad was summoned and “a strong demarche lodged”.
 
+## AIA first-half profit up 11%, driven by strong growth in Hong Kong and Asia sales
+AIA Group, Asia’s largest independent publicly listed life insurance group, reported 11 per cent growth in first-half operating profit, driven by strong growth of Hong Kong and mainland China sales and expansion in Southeast Asian markets. Operating profit after tax on a constant currency basis reac
+
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
 
@@ -128,9 +131,6 @@ Despite July’s sharp sell-off in global semiconductor shares, driven by concer
 
 ## Macau bets on financial services, fintech to drive economic diversification
 Macau has unveiled a sweeping five-year strategic blueprint to break its long-standing dependence on casino revenues by pivoting towards modern financial services, digital currency adoption and deeper economic integration with mainland China. Under its third five-year plan for economic and social de
-
-## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Pentagon quizzes NATO allies on political loyalty, documents reveal
+NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.
+
+## Lebanon hands former Syrian army general to Damascus after arrest warrant
+The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad's government fell.
+
+## Trump announces ‘most crushing economic operation ever’ against Iran
+US president also says any country that trades with Iran will 'face tremendous economic consequences'.
+
 ## What the social media addiction lawsuit could cost Meta
 Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram's operations.
 
@@ -242,15 +251,6 @@ An Israeli strike on Gaza City’s police headquarters has killed the women’s 
 
 ## Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza
 The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.
-
-## USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts
-Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
-
-## Spain plans transfer of 500 migrant children from Ceuta to mainland
-Ceuta leaders want children returned to Morocco, but Madrid says deporting them is 'outrageous'.
-
-## Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread
-Moderna's mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
