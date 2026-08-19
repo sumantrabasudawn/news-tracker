@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Singapore unveils tax cuts for asset managers amid global talent tussle
+Move may have wider ramifications than reforms being introduced by Hong Kong
+
 ## Venomous sea creatures plague Europe’s warming beaches
 More sightings of Portuguese men o’ war have coincided with high ocean temperatures caused by climate change
 
@@ -21,11 +24,11 @@ President Claudia Sheinbaum aims for mass adoption of digital payments to stem t
 ## ‘Manchesterism’ must honour the city’s global outlook
 Understanding Burnham’s term as a shorthand for inward-looking, transactional politics is misguided
 
-## Are ‘dodgy’ vape shops choking Britain’s high streets?
-Concerns range from tax evasion to fears that the businesses are fronts for organised crime
-
 ## Travel eSIM boom threatens mobile industry’s roaming cash cow
 Usage set to rise by a third this year as travellers opt for cheaper alternatives to data roaming charges
+
+## Are ‘dodgy’ vape shops choking Britain’s high streets?
+Concerns range from tax evasion to fears that the businesses are fronts for organised crime
 
 ## Clean energy booms under Trump despite effort to undercut renewables
 Capacity will rise by a record 45GW this year, according to S&P Global Energy
@@ -33,32 +36,29 @@ Capacity will rise by a record 45GW this year, according to S&P Global Energy
 ## America’s brands lose their magic
 From mayonnaise to toothpaste, US household names are being undercut by own labels and outshone by insurgents
 
-## BlackRock and Oaktree take keys of top supplier to Hollywood studios
-Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
-
-## Rupee rises 1 paisa to 95.73 against US dollar in early trade
-A rise in global crude oil prices added pressure to the local unit while a decline in the dollar index and FII inflows provided support, forex traders said.
-
-## India offers city gas suppliers incentives to boost domestic piped connections
-Under the ⁠incentive scheme, effective September, city gas distribution companies will get an additional 200 standard cubic metres of cheaper
-
-## Sensex today | Stock Market Live: Sensex slips 150 pts, Nifty below 24,100 as bond yield spike rattle markets; Brent crude climbs toward $92
+## Sensex today | Stock Market Live: Sensex down 300 pts, Nifty below 24,100 as bond yield spike rattle markets; Brent crude climbs toward $92
 Sensex, Nifty, Share Prices LIVE: Markets opened flat to marginally negative on Wednesday, extending a six-session losing streak, as rising crude oil prices and surging global bond yields kept investor sentiment under pressure.
 
-## Crude oil futures gain as standoff over Hormuz reopening continues
-At 9.38 am on Wednesday, October Brent oil futures were at $91.65, up 0.69%, and October crude oil futures on WTI were at $84.77, up 0.84%
+## ICICI Bank shares slip 0.52% in early trade, despite yearly gains
+Analysts have identified ICICI as a top pick among private sector banks, citing an expected 14% EPS compounded annual growth rate over FY26-28, and its top ranking on proprietary liability franchise scorecards
 
-## OpenAI makes AI safety changes in wake of Hugging Face breach
-The latest disclosures serve as fresh evidence that AI agents are capable of acting autonomously in ways that even researchers trained to root out vulnerabilities in the technology can no longer anticipate
+## Behari Lal Engg IPO list at 63% premium, touches ₹529 on listing day
+Investors who received allotment at the IPO price of ₹285 per share, with a lot size of 52 shares costing ₹14,820, gained approximately ₹9,360 per lot at listing on the NSE
 
-## Energy stocks hit record as oil rises on fading deal hopes
-The S&P 500 Energy Sector Index climbed 1.8% on Tuesday, marking the first all-time high for the gauge since March 27
+## 9 Stocks to Watch, Aug 19: Shipla Medicare, CG Power, Exide, Manipal Health, PNB
+Shilpa Medicare initiates a precautionary recall of nearly 28,000 vials amid operational updates from key players like Manipal Health and ONGC, while CG Power addresses cybersecurity concerns and Exide funds ambitious lithium-ion projects.
 
-## Anthropic pre-IPO credit facility set to climb past $10 billion
-The Claude chatbot maker’s proposed expansion of its so-called revolver is drawing a clutch of banks seeking to bolster their pitch for roles on the IPO
+## Crude Oil price gains as standoff over Hormuz reopening continues
+At 10.03 am on Wednesday, October Brent oil futures were at $91.65, up 0.69%, and October crude oil futures on WTI were at $84.72, up 0.79%
 
-## Nifty slips for seventh day as crude surge, bond yield spike rattle markets
-The Nifty 50 opened at 24,152.05, against its previous close of 24,154.90; the Sensex opened at 77,218.05 against its previous close of 77,235.46
+## HDFC Bank shares slide nearly 30% from peak, hit 52-week low
+The stock has now lost nearly 28% over the past year and is down over 27% year-to-date, sharply underperforming the Nifty 50, which is down roughly 7.83% YTD
+
+## Piyush Goyal to visit Japan from Aug 24-27 to discuss trade, investments
+Japan is today India's 5th-largest source of FDI, with over 1,400 Japanese companies that are household names, from Suzuki, Toyota and Honda in mobility, Sony in electronics, and Hitachi and Mitsubishi in engineering
+
+## RRBs' gross loans rise 10.3% to ₹5.78 lakh crore in FY26; PSL achievement at 91.7%
+Agriculture and allied activities remained the largest component of the RRB credit portfolio, with outstanding credit at ₹3.78 lakh crore, accounting for 77% of total PSL
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
@@ -84,7 +84,19 @@ The United States and Canada have agreed to delay significant tariffs on imports
 ## Sabse bada rupaiya: Rs. banknotes beat $, € in circulation
 
 
-## 'Should we praise this brutality?': Rahul Gandhi slams CJP stir remark by Kiren Rijiju
+## Dozen protesting Indian students deemed potentially inadmissible to Canada
+About 1,500 students began a demonstration and hunger strike in July 24 against the retroactive rejection of their post-graduation work permits
+
+## Began on second floor, only one entry/exit: What to know about Kolkata fire that killed 9
+BJP leader Santosh Pathak also added that the majority of the hotels in Mirza Ghalib street are run illegally.
+
+## Pakistan flustered by Operation Sindoor movie, army reacts at 2am: 'Tragedy and comedy'
+The Discovery docuseries "Declassified: Operation Sindoor" premiered on August 15.
+
+## ‘Why wearing shorts, don’t know Hindu culture?' Tourists attacked at Pune's Sinhagad Fort
+The incident took place near the samadhi (memorial) of Tanaji Malusare, a military commander and trusted companion of Chhatrapati Shivaji Maharaj.
+
+## ‘Should we praise this brutality?’ Rahul Gandhi slams CJP stir remark by Kiren Rijiju
 Rahul Gandhi slammed Kiren Rijiju's remark. In an ANI interview, Rijiju said, “Not a single person was harmed; not a single person suffered a broken bone."
 
 ## UGC NET row: Students, teachers flag disputed questions, raise concerns over NTA exam process
@@ -95,18 +107,6 @@ Sonia Gandhi’s memoir Belonging: A Journey of Love releases November 10, offer
 
 ## Kharge hits back at BJP over Vande Mataram row, says, ‘Book Nehru, Gandhi too’; What is the controversy?
 Kharge said that if singing the version was considered a crime, cases should also be registered against the national leaders who had sung it before him,
-
-## Senior advocate Pradeep Rai elected new Supreme Court Bar Association president
-The results, announced late Tuesday night, saw Rai secure 822 votes with senior advocate Anupam Lal Dass getting 451 votes
-
-## ED raids 8 locations in PMLA probe in CMRL-Exalogic case
-The Directorate of Enforcement (ED) raided eight locations in Kozhikode district on Tuesday in connection with its probe into allegations of money laundering in the CMRL - Exalogic case
-
-## 13-year-old girl planned grandfather’s murder with boyfriend to steal gold, cash in Kerala
-A 13-year-old girl allegedly planned the murder of her 65-year-old grandfather in Kerala’s Alappuzha district with her 17-year-old boyfriend.
-
-## Kar HC revoked KPSC chairman Sahukar suspension
-The Karnataka high court on Tuesday quashed the suspension of Karnataka Public Service Commission (KPSC) chairperson Shivashankarappa Sahukar by Governor Thawarchand Gehlot, holding that the prescribed procedure was not followed
 
 ## HKEX profit jumps to record high on surging IPOs and turnover, beating market estimates
 Hong Kong Exchanges and Clearing (HKEX) profit jumped to a record amid a boom in initial public offerings (IPOs) and sizzling stock market turnover in the second quarter, according to a stock exchange filing on Wednesday. Quarterly net profit for the operator of Asia’s third-largest stock market soa
@@ -132,6 +132,9 @@ A North Point redevelopment site is being put on the market for HK$1.2 billion (
 ## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
 Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
 
+## Colby’s Empty Charm Offensive
+U.S. government actions undermined the Trump official’s Southeast Asian tour.
+
 ## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
 London vows to continue aiding Ukraine’s war effort.
 
@@ -152,9 +155,6 @@ Washington’s new strategy is little more than a euphemism for unpredictability
 
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
-
-## Canada Is Exploiting Migrant Agricultural Workers
-Caribbean laborers report rat-infested rooms and abusive bosses.
 
 ## ‘Tortured and Shot’: Survivors Recall Massacre of 70 Men by Myanmar Military in 2024
 Soldiers told survivors that the massacre in Byain Phyu was retaliation for the defeat and casualties the military suffered at the hands of the Arakan Army in the Battle for Kyauktaw.
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Korea, US scale back annual military drills after Trump’s order
+Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.
+
+## Attackers go ‘house to house’ killing 25 villagers in central Nigeria
+An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.
+
 ## Bali gym owner kicks out three Israeli tourists for links to ‘IDF’
 A gym owner in Indonesia has posted a video on social media explaining why he refused service to three Israeli tourists.
 
@@ -245,12 +251,6 @@ A landmark trial has begun in California over allegations Meta deliberately desi
 
 ## Trump pauses 50 percent tariff on Canada in last-minute deal
 Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.
-
-## US refineries taking in half of Venezuela’s oil output, official says
-US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.
-
-## How Ebola became the deadliest outbreak in DR Congo’s history
-Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
