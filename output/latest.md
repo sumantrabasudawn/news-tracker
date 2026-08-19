@@ -24,44 +24,53 @@ Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Eur
 ## The defence stocks aren’t defensive
 Rearmament might be a dud
 
+## Is AI really responsible for recent job cuts?
+More companies are linking lay-offs to workplace efficiencies but evidence is patchy
+
+## Carlsberg buoyed by alcohol-free beer and soft drinks
+Danish brewer diversifies away from beer amid global fall in alcohol consumption
+
 ## Sweden’s EQT buys Australian rugby league club in first sports foray
 Melbourne Storm deal is latest example of private equity investing in sporting teams
 
 ## Virgin Atlantic and Trainline investigated over ‘drip pricing’
 Competition and Markets Authority reviews charges added late in buying process
 
-## Chinese automaker Chery to open UK R&D centre
-Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe
+## Sensex today | Stock Market Live: Indian markets decline for seventh straight session; Nifty loses 2.1% in seven days
+Sensex, Nifty, Share Prices LIVE: Indian equities extended their losing streak on Wednesday as surging crude oil prices and rising global bond yields weakened risk appetite, with the Nifty 50 posting its longest run of daily losses in 11 months.
 
-## FTAV’s further reading
-Carrion-eaters; pervert glass patent; Spirit’s emails; Musk vs Cards Against Humanity
+## NEET: SC directs Centre to inform about steps taken to implement Radhakrishnan panel recommendations
+Supreme Court bench says NTA reforms must be institutionalised and technological changes are needed for conduct of smooth entrance examinations
 
-## Singapore unveils tax cuts for asset managers amid global talent tussle
-Move may have wider ramifications than reforms being introduced by Hong Kong
+## Novo Nordisk tests low-dose Wegovy pill in new weight-loss study
+The study reflects growing interest in lower-dose obesity treatments as patients balance weight-loss benefits, costs and potential side effects
 
-## India should not rush to finalise US trade deal, says EAC-PM member Sanjeev Sanyal
-Sanjeev Sanyal said prolonged trade agreements require careful scrutiny, particularly as negotiations involve sensitive domestic sectors and uncertain US tariff policies.
+## TN CM announces official vehicle, ₹1 lakh allowance for MLAs to address public grievances
+The government will provide ₹75,000 per month for administrative tasks and vehicle maintenance, including fuel and driver costs, and ₹25,000 for hiring a personal assistant for constituency work, the CM said
 
-## Half of women working in agriculture are unpaid helpers on family farms: Report
-Araya.ag report classifies 50.5% of women working in agriculture as unpaid helpers on family farms, against 21.7%of men
+## Sitharaman, Goyal in Singapore for talks to deepen trade, investment ties
+Singapore was India’s largest source of foreign direct investment in 2025-26, with inflows of $19.8 billion
 
-## Sensex today | Stock Market Live: Sensex falls nearly 400 points, Nifty near 24,050 in choppy trade; banks, metals drag as crude weighs on sentiment
-Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks remained under pressure on Wednesday, with the Nifty slipping below 24,100 as weak market breadth and sustained selling indicated continued caution among investors.
+## IDFC First Bank raises $500 million via maiden international bond issuance
+The bank, through its IFSC Banking Unit at GIFT City, issued the bonds having a tenure of three years and a fixed coupon of 5.625%
 
-## Samsung raises advanced chipmaking prices by up to 15% as AI demand tightens capacity
-Surging demand for AI chips is giving Samsung greater pricing power as customers seek alternatives amid tight capacity at leading foundries.
+## Micron’s semiconductor plant at Sanand gets Gujarat govt’s first approval for 12-hour work shift
+The Occupational Safety, Health and Working Conditions (OSH) Code, 2020 permits state governments to grant exemptions to factories from certain provisions, subject to prescribed safeguards
 
-## Charles Schwab opens India capability centre in Hyderabad, plans 2,000 hires by 2027
-The new facility will strengthen the financial services company’s technology capabilities while adding engineering and operational talent to its global workforce
+## SAP sees India as showcase for AI-led ‘autonomous enterprise economy’
+SAP is expanding its AI ambitions in India, where strong technology talent, innovation and customer adoption offer significant growth opportunities.
 
-## Binance Blockchain Week 2026 Returns to Asia: Spotlights the Evolution of Finance in Bangkok
-Binance Blockchain Week 2026 Returns to Asia: Spotlights the Evolution of Finance in Bangkok
+## Cabinet clears 4 railway multitracking projects worth Rs 9,450 crore across 4 states: Key details
+The Union Cabinet greenlit five significant infrastructure initiatives totaling over thirteen thousand crore rupees. Among these, four railway multitracking projects will extend the network by four hundred ten kilometers, alleviating congestion and enhancing freight transport across various states. 
 
-## Chandigarh University Researchers Develop All-in-One Mobile System for Doorstep Vehicle Servicing, Alignment & Washing
-Chandigarh University Researchers Develop All-in-One Mobile System for Doorstep Vehicle Servicing, Alignment & Washing
+## Stock market today: Markets end in red as Sensex slips 326 points, Nifty falls 0.32%
 
-## POCO M8 Power: the mid-ranger for most everyday task
-Vibrant display backed by a massive battery, a smartphone one should consider
+
+## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
+Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
+
+## Campbell Wilson joins Air New Zealand board as he prepares to exit as Air India CEO
+
 
 ## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
 The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
@@ -75,23 +84,23 @@ The surge in available crude following the temporary truce had also increased th
 ## Shiprocket shares make strong debut: Stock lists at 35% premium over IPO price at Rs 131
 Shiprocket's stock debuted with a robust performance, entering the market at a notable premium. The e-commerce logistics platform experienced high interest from investors during its initial public offering, which was nearly 100 times oversubscribed by diverse investor groups. The proceeds from the I
 
-## Top stocks to buy today: Stock recommendations for August 19, 2026 - check list
-Stock market recommendations: Bata India, IFCI, and KFin Technologies - these are the top stocks to buy for August 19 2026, identified by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares:
+## 'CJI Kant like fatherly figure we can always approach': Newly elected SC bar association chief Pradeep Rai
+CJI Kant also expressed hope that the newly elected SCBA office-bearers would "lead the bar by example"
 
-## How long can the world & India absorb the US-Iran war oil shock?
-In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
+## Rocket launchers linked to terrorists being destroyed in Delhi: Report
+The rocket launchers were part of the cache recovered in Manipur and were reportedly brought to Delhi for examination and disposal.
 
-## Price prediction today: Will gold rise in near-term? Check today's outlook
-Gold gained around 0.7% last week and extended the move above $4,400 at the start of this week, briefly testing the $4,450 mark, before Tuesday’s global bond selloff pulled prices back toward 4,340-4,360.
+## German woman sexually harassed at Indore’s Gandhi Hall, security guard held: Police
+A 35-year-old German woman was allegedly sexually harassed at Indore’s Gandhi Hall by a security guard, who was arrested after she filed a complaint.
 
-## 394 entities under lens for fund transfer
-
+## Chhattisgarh man rapes 16-yr-old daughter, sells her son for ₹1.5 lakh: Cop
+According to police, the accused then concealed the survivor’s age by altering her Aadhaar card details
 
 ## Man falls unconscious near Kerala Lok Bhavan, Governor Arlekar rushes to his aid
 The incident occurred when Governor Rajendra Vishwanath Arlekar was leaving his official residence in his car to participate in Onam-related celebrations.
 
-## Chamoli tunnel incident death toll rises to 11 as rescue operations end
-Preliminary assessments suggest that the tunnel was inundated after a rain-saturated aquifer ruptured through the roof of the three-km-long tunnel, about 1.44km from its entrance
+## Chamoli tunnel incident toll rises to 11 as rescue operations end
+Preliminary assessments suggest that the tunnel was inundated after a rain-saturated aquifer ruptured through the roof of the three-km-long tunnel.
 
 ## Four dead, 19 hospitalised after consuming spurious liquor in Gujarat: Police
 Gujarat spurious liquor deaths: Four die, 19 hospitalised in Bhavnagar after allegedly consuming fake liquor; 10 suspected bootleggers detained.
@@ -99,19 +108,7 @@ Gujarat spurious liquor deaths: Four die, 19 hospitalised in Bhavnagar after all
 ## Gold prices on August 19: Check rate of 22K, 24K in Delhi, Mumbai, Bengaluru
 In Delhi, 24-carat gold was priced at ₹153,759, while 22-carat gold stood at ₹140,843.
 
-## Boy makes female classmates drink water mixed with urine in MP; principal tells them to ‘eat chocolate’
-Guna district magistrate Kishore Kumar Kanyal said the principal told the girls to eat a chocolate if they felt a bad taste in their mouths.
-
-## Why the DMK furore over Vijay greeting Trisha at Independence Day event?
-It raises concerns over governance, including law and order problems and controversial film industry appointments.
-
-## Delhi HC to hear on Sep 2 India Kanoon's pleas against single judge's 'right to be forgotten' order
-Delhi HC to hear on Sep 2 India Kanoon's pleas against single judge's 'right to be forgotten' order
-
-## AIADMK stages a walkout from TN Assembly
-AIADMK stages a walkout from TN Assembly
-
-## Goldman Sachs upbeat on wealth outlook amid market worries over China’s tighter scrutiny
+## Goldman Sachs upbeat on wealth outlook despite worries over China’s tax scrutiny
 Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows. The Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while
 
 ## China fund managers stick with AI, chips in August despite July sell-off, survey finds
@@ -159,6 +156,9 @@ Washington’s new strategy is little more than a euphemism for unpredictability
 ## Is Trump Choosing North Korea Over South Korea?
 The United States scales back joint military drills with Seoul to appease Pyongyang.
 
+## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
+Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
+
 ## ‘Tortured and Shot’: Survivors Recall Massacre of 70 Men by Myanmar Military in 2024
 Soldiers told survivors that the massacre in Byain Phyu was retaliation for the defeat and casualties the military suffered at the hands of the Arakan Army in the Battle for Kyauktaw.
 
@@ -179,9 +179,6 @@ A new wave of matchmaking influencers explicitly treats marriage as a business t
 
 ## Al-Qaida’s Renewed Confidence in Bangladesh
 Its network is growing, albeit slowly. But this is unlikely to manifest in mass casualty attacks.
-
-## Cambodia: From Scam Empire to Security State
-War with Thailand pushed Cambodia to enact a sweeping scam crackdown. Now the ruling elite is leveraging the same crackdown to consolidate its political control.
 
 ## Contested Logistics and the “Last Unmanned Mile”
 In a Pacific war, the U.S. military cannot assume uncontested access to its depots and supply lines for munitions, spare parts, food, water, and energy. Jonathan is joined by David Tuttle (Rune Technologies), Paul Lwin (HavocAI), and Tom Garvey (CACI) to discuss sustaining a dispersed force that’s f
@@ -231,10 +228,19 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
+India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the two-Test series.
+
+## At least five killed in Russian air attacks on Ukraine
+Russia's Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.
+
+## Nick Kyrgios provisionally suspended after positive test for cocaine
+The Australian said he made no excuses but admitted to struggling with the twilight of his career.
+
 ## Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US
 Far-right protesters clashed with police at an anti-Muslim rally in the US city of Dearborn.
 
-## Maradona’s doctors missed renal red flag, Argentinian court told
+## Diego Maradona’s doctors missed renal red flag, Argentinian court told
 Second trial claims Diego Maradona's doctors missed crucial warning signs before Argentina football icon's 2020 passing.
 
 ## Cars swept downhill as flash floods hit northern Chile
@@ -245,15 +251,6 @@ US pilot lands jet without front wheels after landing gear failure
 
 ## Kelsey Mitchell ties WNBA scoring record in Fever win over Tempo
 The three-time All-Star made history when she registered 20 or more points in a WNBA game for the 20th straight time.
-
-## Ukraine’s sacked defence minister calls for wartime elections
-Ukraine’s sacked defence minister calls for wartime elections
-
-## Breastfeeding in Gaza: Mothers seek help to provide for their babies
-Breastfeeding mothers in Gaza struggle to feed their babies amid hunger, displacement, stress and living conditions.
-
-## Sabalenka cruises through as Medvedev falls to Nakashima at Cincinnati Open
-Top-ranked Aryna Sabalenka lost just four games to breeze into fourth round while Brandon Nakashima recorded a huge win.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
