@@ -6,6 +6,9 @@ Eleventh-hour reprieve following ‘intense’ talks with Mark Carney to avert 5
 ## China eases limits on Nvidia H200 chips as AI race escalates
 Beijing permits small shipments to help leading tech groups in drive to catch up with US rivals
 
+## Chinese humanoid robot maker surges 600% in trading debut
+Unitree makes stellar start in Shanghai as investors clamour for shares
+
 ## London’s clean air zone linked to improvement in children’s lung health
 Study compared lung size and function of 1,600 six- to nine-year-olds with a matched group in Luton
 
@@ -20,9 +23,6 @@ Defence ministry says weapons were targeting maritime traffic but fell into the 
 
 ## Burnham launches pandemic-style drive to cut rough sleeping
 UK prime minister vows to ‘get people out the cold’ in run-up to Christmas, in echo of policy he supported in Manchester
-
-## Ukraine’s ousted defence minister calls for wartime election
-Mykhailo Fedorov launches major challenge to President Volodymyr Zelenskyy
 
 ## OpenAI says it will expand monitoring of model testing after hacking incident
 AI lab plans to dedicate more computing resources to security after one of its ‘agents’ escaped control
@@ -39,14 +39,20 @@ Rising fuel costs threaten new jolt of inflation ahead of November’s midterm e
 ## BHP’s copper pivot is paying off
 Miner’s pipeline looks increasingly convincing given the red metal’s ubiquitous use
 
-## Barbie box office smash isn’t yet a boon for Mattel
-California-based toy mainstay that owns the famous doll brand has an enterprise value of just above $6bn
+## Maharashtra makes snakebite a notifiable disease; reporting of cases compulsory
+The move comes after three tribal schoolgirls died and three others were hospitalised after a venomous snake bit them at a state government-aided residential school in Japtalai village of Gadchiroli district on August 9.
 
-## Can Burnham save Britain’s high streets?
-Town centres need to become community hubs for the 21st century
+## Indian-American Pia Dandiya wins Democratic nomination for Florida 22 district
+Dandiya bagged 68.6% of the votes to defeat Kaysia Earley, a lawyer, who managed to gather 31.4%
+
+## Kolkata fire: At least nine dead in massive hotel fire
+Five fire tenders were pressed into service to douse the blaze that erupted at a hotel on Mirza Galib Street in central Kolkata around 1.45 am.
 
 ## Sensex today | Stock Market Live: Sensex, Nifty set for weak opening amid global selloff; Kospi plunges 4%, Nikkei falls over 2%
 Sensex, Nifty, Share Prices LIVE: Gift Nifty is ruling at 24,210 in early deal on Wednesday, which is marginal compared with fall in Asian equities. Overnight, Nasdaq crashed over 350 points following a sharp selling in AI stocks.
+
+## In Meta's trial, families of social media victims see pivotal moment for online safety
+This lawsuit is not focused on any individual person, case or specific harm tied to social media, but rather broader claims that Meta made decisions in designing Instagram and Facebook that put young users at risk.
 
 ## Gaja Capital’s ₹550-crore IPO opens today
 The IPO comprises a fresh issue of equity shares aggregating up to ₹450 crore and an Offer for sale of equity shares aggregating up to ₹100 crore .
@@ -57,65 +63,56 @@ The stock opened ‌at 1,100 yuan on the tech-focused STAR ‌Market, 629% highe
 ## Weakness to persist for Indian markets as global stocks wobble
 Gift Nifty is ruling at 24,210 in early deal on Wednesday, which is marginal compared with fall in Asian equities.
 
-## Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut
-The receding prospects of a deal to end the nearly six-month conflict drove up oil ⁠prices again on Tuesday, while stock markets sagged and borrowing costs for major economies including the U.S. hit multi-decade highs, amid concerns about the long-term inflationary and fiscal impact of the crisis.
-
-## Piramal Pharma Limited Completes Acquisition of Controlling Stake in Yapan Bio Private Limited
-Piramal Pharma Limited Completes Acquisition of Controlling Stake in Yapan Bio Private Limited
-
-## Buzzing stocks: Shipla Medicare, CG Power, Exide, Manipal Health, JG Chem, PNB Housing, ONGC, Ducon
-Shilpa Medicare initiates a precautionary recall of nearly 28,000 vials amid operational updates from key players like Manipal Health and ONGC, while CG Power addresses cybersecurity concerns and Exide funds ambitious lithium-ion projects.
-
-## Before-and-after NASA images show crater carved by SpaceX rocket that slammed into moon
-Based on these new photos by NASA's Lunar Reconnaissance Orbiter, the fresh crater appears to be 60 feet (18 meters) across and less than 10 feet (3 meters) deep, according to scientists.
-
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
+
+## 394 entities under lens for fund transfer
+
+
+## Stock market today: Sensex, Nifty set for muted opening amid high crude prices
+
+
+## Require JV with co that has strong local identity: Skoda CEO
+
+
+## US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal
+The United States and Canada have agreed to delay significant tariffs on imports. This pause allows both nations more time to negotiate a comprehensive trade agreement. President Donald Trump announced the tariff delay on social media after last-minute talks. The tariffs would have impacted approxim
+
+## Creditors see 1% recovery in case of personal guarantees
+
+
+## Evaluating offers for luxury hotels in Dubai: ITC Hotels
+
 
 ## Sabse bada rupaiya: Rs. banknotes beat $, € in circulation
 
 
-## State-run banks need to focus on GenZ: FM
-Says PSBs must aim to be preferred partner across different life stages of an individual
+## Kharge hits back at BJP over Vande Mataram row, says, ‘Book Nehru, Gandhi too’; What is the controversy?
+Kharge said that if singing the version was considered a crime, cases should also be registered against the national leaders who had sung it before him,
 
-## It’s a first for Tata Sons: AGM adjourned for lack of quorum
-Regulatory Action Deprives Holdco From Transacting Biz
+## Senior advocate Pradeep Rai elected new Supreme Court Bar Association president
+The results, announced late Tuesday night, saw Rai secure 822 votes with senior advocate Anupam Lal Dass getting 451 votes
 
-## What Trump’s latest safeguard tariff move on quartz surface products means for India
-The US accounted for 72.5% of India’s quartz surface-product exports in FY2026, according to a Global Trade Research Initiative (GTRI) report. India’s move does not amount to a formal WTO dispute at this stage. During the consultations, India could challenge the US assessment of increased imports an
+## ED raids 8 locations in PMLA probe in CMRL-Exalogic case
+The Directorate of Enforcement (ED) raided eight locations in Kozhikode district on Tuesday in connection with its probe into allegations of money laundering in the CMRL - Exalogic case
 
-## US-Canada tariff clock ticks: Last-minute talks to avert Trump’s 50% tariffs
-The race against time for a tariff agreement unfolds between the United States and Canada, as President Trump has set a firm deadline, warning of hefty tariffs on Canadian imports. With negotiations proving to be both intense and fragile, both nations are eager to find common ground before the clock
+## 13-year-old plots grandfather’s murder for gold, cash in Kerala
+A 13-year-old girl allegedly planned the murder of her 65-year-old grandfather in Kerala’s Alappuzha district with her 17-year-old boyfriend and two of his friends to steal gold and other valuables, police said on Tuesday
 
-## US stock market today: Wall Street pulls back from record highs as AI-related stocks drop
-US stock market today: The decline was led by several of the market's biggest recent winners, particularly companies that have benefited from the surge in artificial-intelligence spending.
+## Kar HC revoked KPSC chairman Sahukar suspension
+The Karnataka high court on Tuesday quashed the suspension of Karnataka Public Service Commission (KPSC) chairperson Shivashankarappa Sahukar by Governor Thawarchand Gehlot, holding that the prescribed procedure was not followed
 
-## AI coming for your money? Who keeps watch as tech becomes new financial advisor
+## SC asks Centre to ensure well-being of captive elephants
+The Supreme Court on Tuesday directed the Centre to take steps for ensuring the well-being of captive elephants prescribing their mandatory medical check up and constant monitoring after being told that more than half of the over 2700 captive elephants in the country remain in possession of private 
 
+## Kharge family trust site allotment case: High Court allows to modify order
+The Karnataka High Court on Tuesday reserved its order on a petition challenging a special court’s decision to conduct an inquiry into alleged irregularities in the allotment of a civic amenity site to the Siddhartha Vihar Trust, associated with Congress president Mallikarjun Kharge and his family
 
-## Case filed after AI video shows BJP's Nitin Nabin waving inverted tricolour on Independence Day
-Complaints by BJP leaders assert the video is doctored and aimed at tarnishing the party's image, prompting police action.
+## Audit impossible: CAG flags lack of NHAI project-wise borrowing data
+New Delhi: The National Highways Authority of India (NHAI) does not maintain project-wise records of borrowing costs worth ₹1
 
-## ‘Frustrated man’: Congress hits back at Kumaraswamy over ‘Italian blood’ jibe at Sonia Gandhi in Vande Mataram row
-The Congress criticized HD Kumaraswamy for his 'Italian blood' comments about Sonia Gandhi, calling him a 'frustrated man.'
-
-## Ram Temple donation row: UP SIT flags ‘gross lapses’; clears Champat Rai and Mishra in fund diversion
-The UP SIT report criticised Shri Ram Janmabhoomi Teerth Kshetra Trust and its lack of professional financial management, and questioned the role of the SBI.
-
-## CM Vijay works 18-20 hours a day, holds call with ministers at 4am: Tamil Nadu minister
-Tamil Nadu CM Vijay remains engaged with government work and begins checking on departmental work early in the morning, TVK minister Aadhav Arjuna said.
-
-## 600 NTA subject experts removed: Big overhaul after govt's 'fix accountability' order
-NTA will shift its headquarters from Okhla to central Delhi, as the testing body embarks on a sweeping overhaul following a series of paper leaks.
-
-## 'Have to build confidence': SC to set up probe panel on Delhi protest violence
-The Supreme Court will form a committee to investigate excessive police force and violence against officers during the July 20 protests concerning the NEET exam
-
-## Abhijeet Dipke reacts to offer to join NDA camp: ‘Wasn't I anti-national for you a month ago?'
-Abhijeet Dipke should consider joining the Republican Party of India (A) to “fulfil Dr Babasaheb Ambedkar's dream”, Union minister Ramdas Athawale said.
-
-## India imposes phased ban on import of 405 defence items to boost domestic production
-India has imposed a ban on importing 405 defence items to promote domestic production and self-reliance, targeting components for various military platforms.
+## Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement
+The Hong Kong Gold Exchange (HKGX) and TGX Technology have launched a joint venture to build a “secure, stable and internationally competitive” gold trading and clearing platform, as the city pushes to become a gold trading hub. Hong Kong Gold Exchange Trading System (HKGXTS) would draw on technolog
 
 ## Tech outperforms traditional sectors as China’s uneven recovery set to fuel AI stock revival
 China’s K-shaped economic recovery is likely to keep investors betting on artificial-intelligence stocks, as the latest data indicates the tech sector remains a key driver for growth while consumption and property continue to act as drags, according to analysts. Manufacturing output for industrial r
@@ -123,8 +120,8 @@ China’s K-shaped economic recovery is likely to keep investors betting on arti
 ## Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut
 Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion). The opening pop from its IPO 
 
-## Hong Kong stocks decline as rising bond yields and stalemate in Iran war dent sentiment
-Hong Kong stocks fell on Wednesday, as elevated US Treasury yields and a stalled diplomatic path towards resolving the Middle East conflict put investors on tenterhooks. The Hang Seng Index fell 0.5 per cent to 25,323.70 as of 9.33am local time. The Hang Seng Tech Index dropped 1.4 per cent. On the 
+## Hong Kong tech stocks decline as US bond rout, Iran war stalemate dent sentiment
+Rising US Treasury yields and an impasse in the Middle East conflict drove technology stocks in Hong Kong and mainland China lower on Wednesday, as concerns grew that higher capital costs and a persistent oil shock would squelch equity valuations. The Hang Seng Tech Index slumped 1 per cent as of 10
 
 ## Use of yuan hits 6-month high in Hong Kong’s fast-payment system
 Hong Kong’s fast-transfer payments denominated in yuan surged to a six-month high in July, signalling accelerating adoption of real-time cross-border retail payment channels even as mainland Chinese authorities maintain tight controls on capital outflows. Transaction values through Hong Kong’s Faste
@@ -137,9 +134,6 @@ Chinese technology giant Xiaomi has said it is “in no rush” to convert its l
 
 ## Beijing urges mainland insurers to invest in Hong Kong-listed ETFs
 China’s financial regulator has encouraged mainland insurers to buy Hong Kong-listed exchange-traded funds (ETFs), an initiative that is poised to further boost the city’s standing as an international finance centre. The National Financial Regulatory Administration (NFRA) voiced support on Tuesday f
-
-## Hong Kong 5-year plan should have Northern Metropolis tax breaks, listing reforms: HKICPA
-The Hong Kong Institute of Certified Public Accountants (HKICPA) has urged the government to introduce tax incentives to help develop the Northern Metropolis and to improve the stock exchange’s listing regime to further cement the city’s role in international finance. The organisation’s submission f
 
 ## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
 London vows to continue aiding Ukraine’s war effort.
@@ -237,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US, Canada reach trade deal to avert steep tariffs, Trump says
+Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.
+
 ## US refineries taking in half of Venezuela’s oil output, official says
 US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.
 
@@ -258,8 +255,8 @@ Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitu
 ## Democrats call for USS Lincoln probe, question US Navy’s readiness
 Lawmakers question whether conditions on the aircraft carrier indicate a 'pattern' of poor planning amid the Iran war.
 
-## Minnesota official sues Texas governor to force ICE agent’s extradition
-State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.
+## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
+Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
@@ -282,8 +279,8 @@ Succession planning should not begin when a leader is about to leave. Boards sho
 ## MCA tightens Ind AS accounting rules, revises financial instrument classification and disclosure norms
 Amendments introduce new accounting framework for nature dependent electricity contracts, electronic payments and contingent cash flows; key changes apply to financial year beginning April 1, 2026.
 
-## RK Forgings targets Rs 10,000 crore revenue by FY30, eyes 15-20% volume growth: CFO
-RK Forgings is targeting a massive Rs 10,000 crore revenue by FY30, projecting 15-20% yearly volume growth. With recovering exports and expansion into railways and domestic non-auto sectors, phased capacity additions and manufacturing investments will fuel this ambitious plan, alongside renewable en
+## MTNL, BSNL and RINL's ₹13,500 crore worth of realty assets to hit markets
+Realty assets worth an estimated ₹13,500 crore belonging to MTNL, BSNL and RINL are set to hit the market after the Department of Public Enterprises gave final approval for their monetisation. The National Land Monetisation Corp will market 23 prime properties across six cities, targeting ₹7,500 cro
 
 ## SEBI tightens mutual fund sponsor disclosure norms
 The capital markets regulator introduces a streamlined single application form requiring detailed disclosures on ownership, financial health, and governance from new fund applicants.
@@ -305,7 +302,4 @@ The Closing Auction Session (CAS) is "here to stay" as a core market reform, SEB
 
 ## SEBI chief calls for collective cyber resilience as threats grow more sophisticated
 India's financial sector needs to shift from periodic cybersecurity compliance to continuous, risk-driven cyber resilience as threats become increasingly interconnected and sophisticated, SEBI Chairman Tuhin Kanta Pandey said on Monday.
-
-## RBI seeks NBFC feedback on revolving credit rules, stresses compliance and risk controls
-The Reserve Bank of India (RBI) has sought feedback from non-banking finance companies (NBFCs) on draft guidelines proposed for regulating revolving credit facilities, while emphasising the need for stronger compliance, internal audit and risk management frameworks, a report has said.
 
