@@ -1,67 +1,61 @@
 # AION Intelligence
 
+## Moderna shares double on skin cancer vaccine success
+Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
+
+## Grain prices surge as Ukraine war chokes off Black Sea ports
+Analysts fear global food price shock if attacks on terminals and ships continue
+
+## US Treasury to boost long-term bond purchases in bid to steady market
+Move reflects Washington’s concerns about sharp rise in borrowing costs, investors say
+
+## The US munitions crisis goes back further than Iran
+Eye-watering levels of defence funding and better production targets do not solve the problem
+
+## Israel-Turkey rivalry bursts into the open over Syria strikes
+Israeli attack on air base near Turkish border intensifies power contest between two of the region’s strongest militaries
+
+## Google strikes $12bn AI chip deal with Marvell
+Tech giant agrees expanded partnership with US chipmaker that includes option to buy shares
+
+## Charlesbank nears law firm deal as private equity pushes deeper into US legal sector
+Investment in insurance defence specialist WSHB expands non-lawyer ownership beyond personal injury firms
+
 ## Putin pledges help for Wildberries warehouses hit by Ukraine
 Kyiv’s drones have partly or completely destroyed seven warehouses of Russia’s largest online retailer
 
-## Moderna shares double on melanoma vaccine trial success
-Drugmaker’s cancer shot developed with Merck delivers positive outcome in late-stage trial
+## Humanoid robots don’t deserve their superhuman valuations
+Machines are currently far too pricey for industrial viability, let alone consumers
 
 ## Investigators discover track ‘irregularity’ near site of UK train derailment
 Officials examine CCTV footage of area around incident in East Sussex that injured 30 people
 
-## Target profits double after $1bn tariff refund
-US retailer reports higher sales as net income boosted by Washington’s tariff return programme
-
-## Price of olive oil doubles in five years as inflation hits UK shoppers
-The majority of goods and services have shot up in price since 2021
-
-## Portuguese men o’ war plague Europe’s warming beaches
-More sightings of jellyfish-like species have coincided with high ocean temperatures caused by climate change
-
-## Israel to probe troops over killing of Palestinian child Hind Rajab
-Critics dismiss IDF call for two criminal investigations into notorious Gaza killings — one of which sparked film — as ‘charade’
-
-## Zelenskyy fires top aide as corruption allegations pile up
-Raid on Ukrainian official’s home came after ousted defence minister launches a blistering attack on wartime president
-
 ## Moderna’s cancer shot: exciting for investors, inconclusive for patients
 A glimmer of hope for sufferers, a potential revenue platform for a cash-burner, and a whole heap of unknowns
 
-## Mike Ashley’s luxury retail empire is going cheap
-The sharp-elbowed billionaire is remaking Frasers with acquisitions including Harvey Nichols, but the stock market remains wary
+## Depression defies forecasts, keeps monsoon pipeline flowing in north and east
+A stubborn weather system over Jharkhand sustains rain across northern, eastern and north-eastern India through Wednesday even as evening forecasts suggested it has weakened a round
 
-## Virgin Atlantic and Trainline investigated over ‘drip pricing’
-Competition and Markets Authority reviews charges added later in buying process
+## SEBI bars 2 entities over ‘prima facie’ manipulation in new closing auction
+Regulator impounds ₹3.68 crore after finding aggressive orders moved Sensex to benefit expiry-day options positions
 
-## We need to rethink how we pay for water
-‘Surge pricing’ controversy distracts from the real need to reform charging structures
+## Lower returns hurt debt fund inflows in April-July 2026
+Debt-oriented schemes saw a 28% y-o-y decline in inflows to ₹2.20-lakh crore while inflows into hybrid schemes fell nearly 30%
 
-## UK software group Pinewood agrees £545mn private equity takeover
-Deal for former Pendragon software division follows rival buyout group Apax’s withdrawal of offer on concerns over AI impact
+## Resilience should be built into banks’ design for growth: RBI Dy Guv Murmu
+He emphasised that Banks should focus, in particular, on the functions critical to their resilience and on those that matter most directly to their customers
+
+## MPC Minutes: Members opt for ‘wait and watch’ as economy faces ‘hazy’ outlook
+MPC members emphasise the need for careful monitoring before making any policy adjustments, underscoring the ongoing uncertainties in both domestic and global economic landscapes
+
+## Cabinet approves 5 rail and road projects worth ₹13,041 crore
+The proposed projects are essential routes for transportation of commodities such as coal, iron ore, cement, iron and steel, container, automobile, foodgrains
+
+## Smartphone buyers hit pause after flagship e-Commerce sales
+Chipset-led price hikes and affordability concerns are making consumers increasingly dependent on promotional offers, keeping the smartphone market under pressure
 
 ## Air India Express introduces self-declaration process for psychoactive substance use
 Move aimed at early intervention, employee support and strengthening safety reporting culture
-
-## NCLT to hear lessors’ claims against SpiceJet afresh
-Seven petitions to be reheard after Aviator ML withdraws insolvency plea
-
-## Responsible AI must expand inclusion, not just efficiency: RBI Deputy Governor Murmu
-At the same time, he warned against excessive reliance on algorithms, emphasising that human judgment remains essential
-
-## Editorial. Unhealthy situation
-Private healthcare needs better regulation
-
-## Letters to the Editor dated August 19, 2026
-
-
-## Zulu Defence bets on integrated drone systems, scales up for global demand
-Nagendran Kandasamy, Co-founder and CEO, announced plans to relocate from a 15,000 sq ft facility to a 45,000-50,000 sq ft unit to support expansion
-
-## How a free wig initiative is centring the quality of life of cancer patients
-Tata Memorial Centre partners with The Cherian Foundation to provide free natural human hair wigs to cancer patients
-
-## Notebook imports go up by 5 times in first half
-Domestic industry calls for 10 per cent % safeguard duty to provide a level-playing field
 
 ## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
 Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
@@ -87,29 +81,29 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
 Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
 
+## 'Good sense prevails': CJP after Tamil Nadu CM Vijay's govt withdraws order against student protest
+As per the now-withdrawn order, officials were asked to take “appropriate coordinated action” to prevent students and youth from joining such protests.
+
+## Study maps 60,000 sq km high-density corridor in India for endangered Lesser Florican
+Satellite tracking shows the critically endangered Lesser Florican uses a 206,000 sq km migration flyway across western and central India.
+
+## Pakistan summons US charge d'affaires over Sergio Gor's remarks during J&K visit
+In a statement on Wednesday, Pakistan's ministry of foreign affairs said the US envoy to Islamabad was summoned and “a strong demarche lodged”.
+
+## Delhi couple held for selling ₹1.10-cr Gurugram flat using forged documents
+According to police, a man lodged a complaint on April 4 alleging that the couple had agreed to sell him a flat in Sushant Lok Phase-2 for ₹1.10 crore.
+
+## National-level wrestler arrested in drug smuggling case after 3-year manhunt
+Amit Sheoran (31), a resident of Rohtak district in Haryana, was arrested near Madhuban Chowk Metro Station in northwest Delhi on Tuesday night, he said.
+
 ## Protest over census escalates in Manipur amid call to boycott govt institutions
 Meitei groups have been pressing for an NRC to identify undocumented migrants who settled in Manipur after 1951
 
-## 'Legal cockroaches' to protest against Bar Council chairman tomorrow, CJP backs stir
-Protest by 'legal cockroaches' against Bar Council chairman Manan Mishra at 10 am tomorrow
+## 'Legal cockroaches' to protest against Bar Council chairman Manan Mishra tomorrow, CJP backs stir
+Bar Council chairman Manan Mishra's apology was rubbished by the Bombay Bar Association earlier in the day, saying it was “not a true expression of remorse.”
 
 ## Ex-serviceman running Nagpur military school held for sexual abuse of minors: Cops
 Former serviceman who runs a military residential school was arrested for allegedly sexually assaulting, harassing several minor students under the guise of training, police said.
-
-## 'Modi absolutely wrong... grateful to Rajiv Gandhi': Shehzad Poonawalla's fresh digs after BJP exit
-Shehzad Poonawalla shared a video from a TV debate and said he would always remain grateful to former prime minister Rajiv Gandhi for giving India Rahul Gandhi
-
-## ‘Feels like Venus’: Delhi-NCR residents stunned as sky turns strangely yellow amid rain
-Several Delhi-NCR residents shared visuals of the phenomenon on social media, expressing shock at how yellow the sky had turned.
-
-## Srinagar mayor Aarti Bhandari, 10 councillors join BJP in Uttarakhand
-Uttarakhand’s only independent mayor, Aarti Bhandari of Srinagar, joined the BJP with 10 councillors, including two Congress members.
-
-## ‘Will reveal corruption files… don’t force me': Tamil Nadu CM Vijay warns DMK over claims of irregularities
-CM Vijay's public works minister, Aadhav Arjuna, had on Tuesday told the Tamil Nadu Assembly that the government will soon release a detailed White Paper.
-
-## Night of smoke, darkness, desperate escape: Survivors recount Kolkata hotel fire ordeal
-Among them were several Bangladeshis who had come to Kolkata for business, medical treatment or a holiday.
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
@@ -231,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US and Canada reach ‘very fair’ trade agreement, Trump says
+New trade deal ensures no tariffs for US farmers and businesses exporting to Canada, Trump announces
+
+## Why extreme heat is much more dangerous for the elderly than we realised
+Human heat tolerance limits are lower than previously thought, and age is a major risk, Stanford researchers say.
+
 ## India rout Pakistan at Hockey World Cup 2026 to qualify for second round
 India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.
 
@@ -248,12 +248,6 @@ Palestinian news outlets reported a man with the number ‘44’ written on his 
 
 ## Second Ukrainian national arrested over 2022 Nord Stream pipeline blast
 The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.
-
-## Premier League 2026-27 form guide: Title race, prediction, players to watch
-Will Arsenal repeat, could Man Utd win, what about Liverpool? Breaking down the top clubs’ chances for 2026-27 season.
-
-## Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri
-Jose Mourinho is back for a second spell at Real Madrid who, he says, didn't need Barcelona's new signing Rodri.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
