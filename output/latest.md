@@ -1,10 +1,37 @@
 # AION Intelligence
 
+## Zelenskyy fires top aide as corruption allegations pile up
+Raid on Ukrainian official’s home came after ousted defence minister launches a blistering attack on wartime president
+
+## Mass expulsion was once a taboo idea in Europe. Then came Maga
+The continent’s far right is embracing the concept of remigration in the Trump era
+
+## Investigators discover track ‘irregularity’ near site of UK train derailment
+Officials examine CCTV footage of area around incident in East Sussex that injured 30 people
+
+## Moderna share price doubles on melanoma vaccine trial success
+Company’s melanoma cancer vaccine being developed with Merck
+
+## Target profits double after $1bn tariff refund
+US retailer reports higher sales as net income boosted by Washington’s tariff return programme
+
+## France to expel two Iranian officials in diplomatic row
+Paris retaliates after accusing regime of having ‘outrageously and deliberately attacked’ French diplomats in Tehran
+
+## British free speech group hit by unease over Maga links
+Former employees say Toby Young’s non-profit FSU has aligned with Trump administration despite claims to be non-partisan
+
+## Europe should wish Marco Rubio a bright future
+Americans who support reckless wars are sometimes also the likeliest to defend Europe
+
+## Virgin Atlantic and Trainline investigated over ‘drip pricing’
+Competition and Markets Authority reviews charges added later in buying process
+
 ## We need to rethink how we pay for water
 ‘Surge pricing’ controversy distracts from the real need to reform charging structures
 
-## The US economy is running hot
-Why a few cool data points probably aren’t a sign of weakening demand
+## UK software group Pinewood agrees £545mn private equity takeover
+Deal for former Pendragon software division follows rival buyout group Apax’s withdrawal of offer on concerns over AI impact
 
 ## FirstFT: Iran weighs Europe strikes if US restarts war
 Also in this newsletter: Trump delays volley of new tariffs on Canada and Hollywood equipment supplier defaults
@@ -12,53 +39,29 @@ Also in this newsletter: Trump delays volley of new tariffs on Canada and Hollyw
 ## Death stalks the Irish pub
 Requests for Unesco to recognise public houses as part of Ireland’s cultural heritage have fallen flat
 
-## Feuding Reform fuels Tory party’s faith in a comeback
-Suspension of influential Conservative defector Tim Montgomerie curbs momentum and reduces prospect of a pact with rivals
+## US envoy Gor signals Kashmir travel advisory review, economic ties in focus
+Gor made the comments after meeting Abdullah in Srinagar during a two-day visit to Jammu and Kashmir and Ladakh.
 
-## Democratic socialist unexpectedly wins Florida primary
-Angie Nixon beats army veteran Alex Vindman in party’s US Senate race
+## Nikhil Kamath and Sreeram Vanga invest ₹250 crore in CtrlS Datacenters to enhance India’s digital infrastructure
 
-## UK inflation accelerates to 2.9% in July amid Middle East energy shock
-Rising energy costs push price growth further above BoE target
 
-## Chinese humanoid robot maker surges 600% in trading debut
-Unitree makes stellar start in Shanghai as investors clamour for shares
+## Horizon Industrial Parks IPO closes at 1.45x subscription; QIB demand drives overall tally
+IPO receives bids for 36.37 crore shares against 25.13 crore shares offered across all categories
 
-## UK software group Pinewood agrees £545mn PE takeover by Ridgeview
-Deal for former Pendragon software division follows rival buyout group Apax’s withdrawal of offer on concerns over AI impact
+## Lalithaa Jewellery IPO Day 3: Issue booked 63x, QIB category leads at 145x
+The ₹1,700 crore IPO, priced at a band of ₹190–201 per share, received bids for approximately 39.52 crore shares against 6.27 crore shares offered across all categories
 
-## Is AI really responsible for recent job cuts?
-More companies are linking lay-offs to workplace efficiencies but evidence is patchy
+## Sensex, Nifty fall for 7th straight session as rising crude oil prices weigh on sentiment
+Nifty IT becomes sole gainer sectorally, rising 0.4% and snapping a four-day losing streak on value buying and domestic capital rotation
 
-## Carlsberg buoyed by alcohol-free beer and soft drinks
-Danish brewer diversifies away from beer amid global fall in alcohol consumption
+## Madhur Knit Crafts to raise ₹53 crore via IPO on NSE Emerge
+The company will issue 53.27 lakh equity shares priced between ₹95 and ₹100; The subscription opens Monday, with anchor bidding starting Friday
 
-## Sweden’s EQT buys Australian rugby league club in first sports foray
-Melbourne Storm deal is latest example of private equity investing in sporting teams
+## Crop protection companies urge Govt to introduce time-bound regulatory data protection
+A time-bound data protection window is the missing incentive to bring newer, safer and lower-dose molecules to Indian farms faster, say Crystal Crop Protection, Rallis India, Dhanuka Agritech, PI Industries and Godrej Agrovet
 
-## Hyundai Motor India to raise car prices by up to 1% from September
-The latest increase marks Hyundai’s third price hike announcement of ‌2026
-
-## IndiGo website hit by technical issue, flight bookings disrupted
-IndiGo customers in several Indian cities reported difficulties booking flights and completing online check-in through the airline’s website on Wednesday.
-
-## Kerala Agri varsity to support agri-enterprises in value addition, market expansion
-T. Sajitha Rani, Vice-Chancellor, praised ABI for helping farmers shift from agriculture to value addition, entrepreneurship, and market development
-
-## Fujifilm Instax Mini Evo Cinema Review: Nostalgia in stills and motion
-Can Fujifilm’s latest hybrid camera bridge the gap between analogue charm and modern creativity?
-
-## India must protect tax base while ensuring investor certainty: Income Tax official
-India’s tax administration is seeking greater certainty and international cooperation as businesses expand globally and technology transforms cross-border taxation.
-
-## BSE launches three growth factor indices to expand factor investing suite
-The three indices, BSE 500 Growth 50, BSE MidCap 150 Growth 30, and BSE LargeCap 100 Growth 30, select constituents based on EPS growth and sales per share growth
-
-## QR coding for medicines needs to take the next leap in standardization of codes: GS1 CEO
-India cannot work in silos, aligning with internationally recognised systems would ensure that the product, batch, and expiry information were encoded in a universal manner: Swaminathan
-
-## Supreme Court bars stay on coal scam trials, sets four-week deadline for pleas
-The directive seeks to balance expeditious trials with the rights of accused amid competing legal proceedings before the Supreme Court and Delhi High Court
+## Manipal Hospital Millers Road Launches Momstory, Bringing Comprehensive Maternity and Women's Healthcare Under One Roof
+Manipal Hospital Millers Road Launches Momstory, Bringing Comprehensive Maternity and Women's Healthcare Under One Roof
 
 ## Received income tax notice under Section 143(3)? What is faceless assessment & how you should respond
 This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.
@@ -84,29 +87,32 @@ Approved by the government and effective from September 1, the benefit will appl
 ## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
 The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
 
-## 1 feared dead, several injured after gas tank explodes at CNG station in Delhi's Tikri Kalan
-1 feared dead, several injured after gas tank explodes at CNG station in Delhi's Tikri Kalan
+## Wedding photography drones near Bareilly Air Force station raise safety concerns
+Air Force officials said that bird activity, unauthorised construction and drones were among the major threats to flight safety around the station.
 
-## Union cabinet clears ₹3,591 crore project to widen Bihar’s NH-22 to four lanes
-Cabinet approves ₹3,590.73 crore project to four-lane Bihar’s NH-22 from Muzaffarpur to Sonbarsa, boosting Nepal border connectivity.
+## Kharge pitches for ‘education-to-employment’ roadmap for youth, attacks govt
+Congress president Mallikarjun Kharge said the union government had destroyed the future of students
 
-## Cabinet approves 4 multitracking railway projects covering 8 districts
-The four projects covering eight districts across the states of West Bengal, Odisha, Tamil Nadu and Andhra Pradesh
+## No caste-based discrimination of devotees at places of worship: Madras High Court
+Madras High Court says devotees cannot face caste-based discrimination at places of worship while hearing a plea over alleged bias at a Kancheepuram temple.
 
-## Bengal court issues arrest warrant against TMC MP Mahua Moitra in hate speech case
-A case filed against Mahua Moitra alleged that she insulted women and made hate speech, for which the court had issued pre-cognisance summons to her.
+## Tamil Nadu CM Vijay announces ₹3 per litre hike in procurement price of Aavin milk
+CM Vijay said that the gesture will entail the state government an additional expenditure of ₹30 crore per month.
 
-## NMC chief calls for quality focus as India expands medical education
-NMC chief Abhijat Sheth says India’s rapid medical education expansion must not compromise quality, competency and standards.
+## 248 students rescued from flood-hit school in Odisha after 4 days: Official
+“The students were shifted to the second floor, where they remained safe,” said headmaster Soumendra Das
 
-## Foreigner dies during police questioning after fire extinguisher brawl in train at Surat station; probe on
-The foreign national was deboarded at Surat station after co-passengers contacted the railway helpline and reported the brawl.
+## Union minister Pralhad Joshi holds review meeting on PM's free online coaching initiative
+Modi had made the announcement during his Independence Day speech last Saturday.
 
-## Two Mumbai doctors who kept Jinnah's illness secret to get Pakistan's highest civilian honour
-The doctors – physician Dr Jal Ratanji Patel and radiologist Dr Jal Dhaybho-Koo – have been nominated by Islamabad for the Nishan-e-Imtiaz award.
+## Review denial of permanent commission to woman Coast Guard officer: SC to Centre
+The Supreme Court gave the Centre two weeks to reconsider denying permanent commission to Coast Guard officer Priyanka Tyagi, calling her an excellent officer.
 
-## Cancer drugs provided under Rajasthan govt scheme sold in black market; probe ordered
-Health minister Gajendra Singh Khinvsar said black marketing or unauthorised sale of costly life-saving medicines would not be tolerated
+## Shehzad Poonawalla rules out Congress return, sets cheeky condition involving Gandhi family
+“Having served as the national spokesperson of the world's largest democratic party, do you think I'm going to settle for some other party?" he said.
+
+## Making better robots depends on better data capture, Chinese firm 51World says
+The race to develop intelligent humanoid robots faces a major roadblock in a severe shortage of high-quality training data, but Beijing-based tech company 51World believes it has the tools to break the bottleneck. Best known for its digital twin and simulation technology, 51 World on Tuesday unveile
 
 ## Prudential Hong Kong expands headquarters across Swire Properties’ towers
 Prudential Hong Kong has agreed to lease headquarters space at Swire Properties’ One Taikoo Place and One Island East, marking a notable expansion of its office footprint in the city, according to the developer. Under the agreement, the insurer will occupy a total of 83,000 sq ft across the two buil
@@ -128,9 +134,6 @@ The business environment for Chinese robotaxi operators in Europe has become mor
 
 ## Capturing tomorrow’s growth through institutional-grade investing
 [The content of this article has been produced by our advertising partner.] High-net-worth individuals (HNWIs) have spent recent years discovering that some of the strongest growth opportunities usually lie outside public markets. Global private market assets under management have already surpassed 
-
-## Next for Hong Kong’s exchange: ‘more products on our shelf’, HKEX boss pledges
-Hong Kong’s bourse operator will focus on diversifying into multiple asset classes and extending its trading hours to serve international investors, in support of the city’s five-year-plan goal to strengthen its role as an international financial centre, according to its CEO. Hong Kong Exchanges and
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## In Ukraine, forcible military recruitment efforts escalate into violence
+'Busification', the term describing being captured on the street, is engulfed by abuse and corruption.
+
+## Pakistan challenges top court order to move Imran Khan to private hospital
+Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.
+
+## Palestinians condemn Israeli step to advance illegal E1 settlement plan
+Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.
+
+## China’s Unitree soars in market debut as investors bet on humanoid robots
+Unitree shares surge as much as 620 percent amid enthusiasm for burgeoning field of human-like robots.
+
 ## Angelique Kidjo makes history with Hollywood walk of fame star
 Angelique Kidjo makes history with Hollywood walk of fame star
 
 ## Humanitarianism is not collapsing. It is being traded and compromised
 This is endangering the lives of humanitarian workers and the vulnerable communities they serve.
 
-## ‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?
+## ‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again?
 Analysts say Trump's attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.
 
 ## Top India court allows passive euthanasia, but few aware of ‘living wills’
 Families of terminally ill patients have little or no awareness or preparedness for what comes next.
-
-## Why White House envoys cannot sway Israel’s war leader
-Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.
-
-## Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
-India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the two-Test series.
-
-## At least five killed in Russian air attacks on Ukraine
-Russia's Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.
-
-## Nick Kyrgios provisionally suspended after positive test for cocaine
-The Australian said he made no excuses but admitted to struggling with the twilight of his career.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
