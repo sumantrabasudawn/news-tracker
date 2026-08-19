@@ -1,6 +1,12 @@
 # AION Intelligence
 
-## UK inflation accelerated to 2.9% in July amid Middle East energy shock
+## Feuding Reform fuels Tory party’s faith in a comeback
+Suspension of influential Conservative defector Tim Montgomerie curbs momentum and reduces prospect of a pact with rivals
+
+## Democratic socialist unexpectedly wins Florida primary
+Angie Nixon beats army veteran Alex Vindman in party’s US Senate race
+
+## UK inflation accelerates to 2.9% in July amid Middle East energy shock
 Rising energy costs push price growth further above BoE target
 
 ## Chinese humanoid robot maker surges 600% in trading debut
@@ -18,41 +24,44 @@ Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Eur
 ## The defence stocks aren’t defensive
 Rearmament might be a dud
 
-## FTAV’s further reading
-Carrion-eaters; pervert glass patent; Spirit’s emails; Musk vs Cards Against Humanity
-
-## Singapore unveils tax cuts for asset managers amid global talent tussle
-Move may have wider ramifications than reforms being introduced by Hong Kong
-
 ## Sweden’s EQT buys Australian rugby league club in first sports foray
 Melbourne Storm deal is latest example of private equity investing in sporting teams
 
 ## Virgin Atlantic and Trainline investigated over ‘drip pricing’
 Competition and Markets Authority reviews charges added late in buying process
 
-## India steps up CBAM preparedness as EU carbon payments begin in 2027
-Indian exporters are being urged to strengthen emissions reporting and verification systems as the EU’s carbon border regime enters its definitive phase
+## Chinese automaker Chery to open UK R&D centre
+Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe
 
-## Sensex today | Stock Market Live: Sensex down 350 points, Nifty near 24,050 in choppy trade; banks, metals drag as crude weighs on sentiment
-Sensex, Nifty, Share Prices LIVE: Markets extended their losing streak to a seventh consecutive session on Wednesday, with selling pressure spreading across most sectors as elevated crude oil prices, a weakening rupee and surging global bond yields continued to erode investor confidence.
+## FTAV’s further reading
+Carrion-eaters; pervert glass patent; Spirit’s emails; Musk vs Cards Against Humanity
 
-## SEBI chief says manipulation of closing auction session will face stern action
-The regulator has stepped up its defence of the new market mechanism amid concerns from participants over its implementation and initial challenges.
+## Singapore unveils tax cuts for asset managers amid global talent tussle
+Move may have wider ramifications than reforms being introduced by Hong Kong
 
-## SEBI to issue AI guidelines with human oversight, data controls and kill switches
-The regulator is preparing safeguards as artificial intelligence becomes increasingly embedded in market surveillance, risk assessment, fraud detection and investor services.
+## India should not rush to finalise US trade deal, says EAC-PM member Sanjeev Sanyal
+Sanjeev Sanyal said prolonged trade agreements require careful scrutiny, particularly as negotiations involve sensitive domestic sectors and uncertain US tariff policies.
 
-## Odisha flood: ₹1,000 crore relief package announced for affected districts
-Heavy rainfall and rising river levels have disrupted life across northern Odisha, prompting intensified rescue, evacuation and relief operations.
+## Half of women working in agriculture are unpaid helpers on family farms: Report
+Araya.ag report classifies 50.5% of women working in agriculture as unpaid helpers on family farms, against 21.7%of men
 
-## Rupee holds near ₹95.7 as RBI intervention offsets oil, bond yield pressures
-The currency remained resilient despite mounting external pressures, with traders closely watching oil prices, global yields and central bank policy signals.
+## Sensex today | Stock Market Live: Sensex falls nearly 400 points, Nifty near 24,050 in choppy trade; banks, metals drag as crude weighs on sentiment
+Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks remained under pressure on Wednesday, with the Nifty slipping below 24,100 as weak market breadth and sustained selling indicated continued caution among investors.
 
-## InfinityDAO plans $1 billion insurance programme for IDL token ecosystem
-The proposed programme comes as digital-asset platforms increasingly seek stronger governance, risk controls and institutional safeguards to build market credibility.
+## Samsung raises advanced chipmaking prices by up to 15% as AI demand tightens capacity
+Surging demand for AI chips is giving Samsung greater pricing power as customers seek alternatives amid tight capacity at leading foundries.
 
-## SEBI reviews IPO, delisting rules for small companies: Pandey
-The regulator is examining market-making costs in small-company IPOs and proposed changes to portfolio manager rules.
+## Charles Schwab opens India capability centre in Hyderabad, plans 2,000 hires by 2027
+The new facility will strengthen the financial services company’s technology capabilities while adding engineering and operational talent to its global workforce
+
+## Binance Blockchain Week 2026 Returns to Asia: Spotlights the Evolution of Finance in Bangkok
+Binance Blockchain Week 2026 Returns to Asia: Spotlights the Evolution of Finance in Bangkok
+
+## Chandigarh University Researchers Develop All-in-One Mobile System for Doorstep Vehicle Servicing, Alignment & Washing
+Chandigarh University Researchers Develop All-in-One Mobile System for Doorstep Vehicle Servicing, Alignment & Washing
+
+## POCO M8 Power: the mid-ranger for most everyday task
+Vibrant display backed by a massive battery, a smartphone one should consider
 
 ## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
 The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
@@ -78,29 +87,32 @@ Gold gained around 0.7% last week and extended the move above $4,400 at the star
 ## 394 entities under lens for fund transfer
 
 
-## Delhi govt withdraws order barring Class 10 board exam on R3 paper failure
-The issue arose from a discrepancy between two orders by the Delhi Education Department on August 17 and by the CBSE on July 10
+## Man falls unconscious near Kerala Lok Bhavan, Governor Arlekar rushes to his aid
+The incident occurred when Governor Rajendra Vishwanath Arlekar was leaving his official residence in his car to participate in Onam-related celebrations.
 
-## ‘Use PM Cares Fund for schools’: CJP's Abhijeet Dipke as report reveals corpus rose to over ₹8,400 crore
-Abhijeet Dipke said a well-equipped model school could cost around ₹8 crore, meaning ₹8,500 crore could fund over 1,000 high-tech schools.
+## Chamoli tunnel incident death toll rises to 11 as rescue operations end
+Preliminary assessments suggest that the tunnel was inundated after a rain-saturated aquifer ruptured through the roof of the three-km-long tunnel, about 1.44km from its entrance
 
-## ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in Uttar Pradesh over education, jobs
-The yatra begins September 9 in Prayagraj, travelling to several cities, led by AISA leaders and supported by JNUSU representatives.
+## Four dead, 19 hospitalised after consuming spurious liquor in Gujarat: Police
+Gujarat spurious liquor deaths: Four die, 19 hospitalised in Bhavnagar after allegedly consuming fake liquor; 10 suspected bootleggers detained.
 
-## 'Landlord won't give me free rent because am from BJP': Shehzad Poonawalla on quitting party
-Shehzad Poonawalla reflected on his journey from once being a TV anchor to later switching to politics in 2021, and said that he was looking for new avenues.
+## Gold prices on August 19: Check rate of 22K, 24K in Delhi, Mumbai, Bengaluru
+In Delhi, 24-carat gold was priced at ₹153,759, while 22-carat gold stood at ₹140,843.
 
-## AAP attacks govt after detergent fed to students in Bihar mid-day meal: ‘What could be more shameful?’
-After consuming the detergent mixed food, some students complained of dizziness and began vomiting
+## Boy makes female classmates drink water mixed with urine in MP; principal tells them to ‘eat chocolate’
+Guna district magistrate Kishore Kumar Kanyal said the principal told the girls to eat a chocolate if they felt a bad taste in their mouths.
 
-## Bihar cops use water cannons on march led by Tejashwi Yadav over paper leak, unemployment
-The march, led by Tejashwi Yadav, was being held over issues including paper leaks, unemployment and problems faced by students and youth.
+## Why the DMK furore over Vijay greeting Trisha at Independence Day event?
+It raises concerns over governance, including law and order problems and controversial film industry appointments.
 
-## Gen alpha protests: Unnao school students stage sit-in over food, teachers and drinking water
-Gen alpha protests: Unnao school students stage sit-in over food, teachers and drinking water
+## Delhi HC to hear on Sep 2 India Kanoon's pleas against single judge's 'right to be forgotten' order
+Delhi HC to hear on Sep 2 India Kanoon's pleas against single judge's 'right to be forgotten' order
 
-## TN CM announces official vehicle, ₹1 lakh allowance for MLAs to address public grievances
-TN CM announces official vehicle, ₹1 lakh allowance for MLAs to address public grievances
+## AIADMK stages a walkout from TN Assembly
+AIADMK stages a walkout from TN Assembly
+
+## Goldman Sachs upbeat on wealth outlook amid market worries over China’s tighter scrutiny
+Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows. The Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while
 
 ## China fund managers stick with AI, chips in August despite July sell-off, survey finds
 Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificial intelligence and chips remained China’s most preferred investment themes in August, while more investors moved to hedge tech exposure, according to a survey by BofA Global Resear
@@ -122,9 +134,6 @@ Hong Kong Exchanges and Clearing (HKEX) profit jumped to a record amid a boom in
 
 ## Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement
 The Hong Kong Gold Exchange (HKGX) and TGX Technology have launched a joint venture to build a “secure, stable and internationally competitive” gold trading and clearing platform, as the city pushes to become a gold trading hub. Hong Kong Gold Exchange Trading System (HKGXTS) would draw on technolog
-
-## Tech outperforms traditional sectors as China’s uneven recovery set to fuel AI stock revival
-China’s K-shaped economic recovery is likely to keep investors betting on artificial-intelligence stocks, as the latest data indicates the tech sector remains a key driver for growth while consumption and property continue to act as drags, according to analysts. Manufacturing output for industrial r
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
@@ -222,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South Africa to Australia: Why coal profits are surging during Iran war
-Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.
+## Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US
+Far-right protesters clashed with police at an anti-Muslim rally in the US city of Dearborn.
 
-## Scaling back US-South Korea drills may fail to woo Kim away from China
-Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.
+## Maradona’s doctors missed renal red flag, Argentinian court told
+Second trial claims Diego Maradona's doctors missed crucial warning signs before Argentina football icon's 2020 passing.
 
-## Ukraine’s ousted defence minister calls for elections during war
-Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion.
+## Cars swept downhill as flash floods hit northern Chile
+Cars were swept downhill as floodwaters and mudslides tore through northern Chile.
 
-## Lebanon no longer a safe haven for former Syrian regime officials
-Figures connected to the former Syrian regime are still in Lebanon but risk being returned.
+## US pilot lands jet without front wheels after landing gear failure
+US pilot lands jet without front wheels after landing gear failure
 
-## Former US official calls shift in relations with Syria ‘surreal’
-A former US State Department advisor on Syria tells Al Jazeera’s ‘This is America’ the improved relationship
+## Kelsey Mitchell ties WNBA scoring record in Fever win over Tempo
+The three-time All-Star made history when she registered 20 or more points in a WNBA game for the 20th straight time.
 
-## South Korea, US scale back annual military drills after Trump’s order
-Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.
+## Ukraine’s sacked defence minister calls for wartime elections
+Ukraine’s sacked defence minister calls for wartime elections
 
-## Attackers go ‘house to house’ killing 25 villagers in central Nigeria
-An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.
+## Breastfeeding in Gaza: Mothers seek help to provide for their babies
+Breastfeeding mothers in Gaza struggle to feed their babies amid hunger, displacement, stress and living conditions.
 
-## Bali gym owner kicks out three Israeli tourists for links to ‘IDF’
-A gym owner in Indonesia has posted a video on social media explaining why he refused service to three Israeli tourists.
+## Sabalenka cruises through as Medvedev falls to Nakashima at Cincinnati Open
+Top-ranked Aryna Sabalenka lost just four games to breeze into fourth round while Brandon Nakashima recorded a huge win.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
