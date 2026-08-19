@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Chinese humanoid robot maker surges 600% in trading debut
+Unitree makes stellar start in Shanghai as investors clamour for shares
+
+## The defence stocks aren’t defensive
+Rearmament might be a dud
+
+## FTAV’s further reading
+Carrion-eaters; pervert glass patent; Spirit’s emails; Musk vs Cards Against Humanity
+
 ## Singapore unveils tax cuts for asset managers amid global talent tussle
 Move may have wider ramifications than reforms being introduced by Hong Kong
 
@@ -15,50 +24,35 @@ An FT analysis shows stress is spreading across portfolios
 ## Iran eyes military targets in Europe if Trump escalates war, insiders say
 Proposals to retaliate against US assets beyond the Middle East come as many in Tehran see renewed conflict as inevitable
 
-## Why Britain needs a Messi budget
-The playing style of the great Argentine footballer demonstrates that less can be more
+## Travel eSIM boom threatens mobile industry’s roaming cash cow
+Usage set to rise by a third this year as travellers opt for cheaper alternatives to data roaming charges
 
 ## Can Mexicans be weaned off an addiction to cash?
 President Claudia Sheinbaum aims for mass adoption of digital payments to stem tax evasion, corruption and organised crime
 
-## ‘Manchesterism’ must honour the city’s global outlook
-Understanding Burnham’s term as a shorthand for inward-looking, transactional politics is misguided
+## Sensex today | Stock Market Live: Sensex falls 400 points, Nifty trades near 24,000; Powergrid, Coal India lead losers
+Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks extended their decline on Wednesday, with the Nifty slipping below 24,100 as weak market breadth kept the near-term outlook bearish. However, the 24,000-23,950 zone remains a crucial support area that could trigger a rebound.
 
-## Travel eSIM boom threatens mobile industry’s roaming cash cow
-Usage set to rise by a third this year as travellers opt for cheaper alternatives to data roaming charges
+## Bharat Value Fund bets ₹300 crore for undisclosed stake in Big Mishra Pedha
+The company's revenues have more than doubled to ₹300 crore in FY26 from ₹142 crore in FY22, the statement said, adding that the pre-tax profitability is healthy
 
-## Are ‘dodgy’ vape shops choking Britain’s high streets?
-Concerns range from tax evasion to fears that the businesses are fronts for organised crime
+## Supreme Court orders independent CBI probe into Indiabulls loan transactions
+The Supreme Court has ordered an independent examination of allegations involving loan transactions, fund diversion and other suspected financial irregularities.
 
-## Clean energy booms under Trump despite effort to undercut renewables
-Capacity will rise by a record 45GW this year, according to S&P Global Energy
+## Hormuz traffic slows as uncertainty over waterway persists
+On Tuesday, US President Donald Trump said no talks were taking place with Iran and insisted ‌the Strait of Hormuz was open, contradicting ​Iran's assertion that it remained shut to shipping
 
-## America’s brands lose their magic
-From mayonnaise to toothpaste, US household names are being undercut by own labels and outshone by insurgents
+## Data centres will not affect Visakhapatnam’s water supply: AP Minister Lokesh
+Misinformation was being spread about the environmental and water requirements of data centres, the State’s IT Minister says
 
-## Sensex today | Stock Market Live: Sensex down 300 pts, Nifty below 24,100 as bond yield spike rattle markets; Brent crude climbs toward $92
-Sensex, Nifty, Share Prices LIVE: Markets opened flat to marginally negative on Wednesday, extending a six-session losing streak, as rising crude oil prices and surging global bond yields kept investor sentiment under pressure.
+## Outgoing Air India CEO Campbell Wilson appointed as Air New Zealand director
+According to a market announcement by Air New Zealand, Wilson has been appointed by the board with effect from the annual meeting and will require shareholder approval
+
+## RBI likely intervenes to shield rupee from oil strain, traders say
+The rupee was on track for a ‌quiet open ​and was hovering at 95.70 ⁠on the interbank order matching ‌system before the local spot market opened at 9 a.m. ‌IST
 
 ## ICICI Bank shares slip 0.52% in early trade, despite yearly gains
 Analysts have identified ICICI as a top pick among private sector banks, citing an expected 14% EPS compounded annual growth rate over FY26-28, and its top ranking on proprietary liability franchise scorecards
-
-## Behari Lal Engg IPO list at 63% premium, touches ₹529 on listing day
-Investors who received allotment at the IPO price of ₹285 per share, with a lot size of 52 shares costing ₹14,820, gained approximately ₹9,360 per lot at listing on the NSE
-
-## 9 Stocks to Watch, Aug 19: Shipla Medicare, CG Power, Exide, Manipal Health, PNB
-Shilpa Medicare initiates a precautionary recall of nearly 28,000 vials amid operational updates from key players like Manipal Health and ONGC, while CG Power addresses cybersecurity concerns and Exide funds ambitious lithium-ion projects.
-
-## Crude Oil price gains as standoff over Hormuz reopening continues
-At 10.03 am on Wednesday, October Brent oil futures were at $91.65, up 0.69%, and October crude oil futures on WTI were at $84.72, up 0.79%
-
-## HDFC Bank shares slide nearly 30% from peak, hit 52-week low
-The stock has now lost nearly 28% over the past year and is down over 27% year-to-date, sharply underperforming the Nifty 50, which is down roughly 7.83% YTD
-
-## Piyush Goyal to visit Japan from Aug 24-27 to discuss trade, investments
-Japan is today India's 5th-largest source of FDI, with over 1,400 Japanese companies that are household names, from Suzuki, Toyota and Honda in mobility, Sony in electronics, and Hitachi and Mitsubishi in engineering
-
-## RRBs' gross loans rise 10.3% to ₹5.78 lakh crore in FY26; PSL achievement at 91.7%
-Agriculture and allied activities remained the largest component of the RRB credit portfolio, with outstanding credit at ₹3.78 lakh crore, accounting for 77% of total PSL
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
@@ -84,6 +78,15 @@ The United States and Canada have agreed to delay significant tariffs on imports
 ## Sabse bada rupaiya: Rs. banknotes beat $, € in circulation
 
 
+## Jharkhand govt cancels 22 exams based on probe findings as protests continue
+The state government postponed six examinations and brought 17 others conducted since 2014 under the scope of investigation
+
+## Manipur: Normal life affected in valley districts on 2nd day of strike over NRC demand
+Manipur: Normal life affected in valley districts on 2nd day of strike over NRC demand
+
+## ‘Ghosts’, anklet sounds, an ancient tree: What really happened at this Maharashtra hostel that drove out 600+ students
+Some students and locals believed spirits lived in a tree that was cut down by the school management.
+
 ## Dozen protesting Indian students deemed potentially inadmissible to Canada
 About 1,500 students began a demonstration and hunger strike in July 24 against the retroactive rejection of their post-graduation work permits
 
@@ -98,15 +101,6 @@ The incident took place near the samadhi (memorial) of Tanaji Malusare, a milita
 
 ## ‘Should we praise this brutality?’ Rahul Gandhi slams CJP stir remark by Kiren Rijiju
 Rahul Gandhi slammed Kiren Rijiju's remark. In an ANI interview, Rijiju said, “Not a single person was harmed; not a single person suffered a broken bone."
-
-## UGC NET row: Students, teachers flag disputed questions, raise concerns over NTA exam process
-Aspirants and teachers have raised concerns over disputed questions, discrepancies in recorded responses and the NTA’s answer-key challenge process in UGC NET.
-
-## Belonging: Sonia Gandhi’s memoir set to hit shelves in November
-Sonia Gandhi’s memoir Belonging: A Journey of Love releases November 10, offering an intimate account of her life, political career and personal losses.
-
-## Kharge hits back at BJP over Vande Mataram row, says, ‘Book Nehru, Gandhi too’; What is the controversy?
-Kharge said that if singing the version was considered a crime, cases should also be registered against the national leaders who had sung it before him,
 
 ## HKEX profit jumps to record high on surging IPOs and turnover, beating market estimates
 Hong Kong Exchanges and Clearing (HKEX) profit jumped to a record amid a boom in initial public offerings (IPOs) and sizzling stock market turnover in the second quarter, according to a stock exchange filing on Wednesday. Quarterly net profit for the operator of Asia’s third-largest stock market soa
@@ -228,6 +222,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanon no longer a safe haven for former Syrian regime officials
+Figures connected to the former Syrian regime are still in Lebanon but risk being returned.
+
+## Former US official calls shift in relations with Syria ‘surreal’
+A former US State Department advisor on Syria tells Al Jazeera’s ‘This is America’ the improved relationship
+
 ## South Korea, US scale back annual military drills after Trump’s order
 Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.
 
@@ -245,12 +245,6 @@ Iran denies launching missiles at the UAE, suggesting the incident was a 'false 
 
 ## US sanctions International Criminal Court’s president and top lawyer
 The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye.
-
-## Trial begins that could force Meta to change Facebook and Instagram
-A landmark trial has begun in California over allegations Meta deliberately designed its platforms to be addictive.
-
-## Trump pauses 50 percent tariff on Canada in last-minute deal
-Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
