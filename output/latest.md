@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Moderna shares double on skin cancer vaccine success
+Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
+
 ## Zelenskyy fires top aide as corruption allegations pile up
 Raid on Ukrainian official’s home came after ousted defence minister launches a blistering attack on wartime president
 
@@ -21,26 +24,17 @@ Critics dismiss IDF call for two criminal investigations into notorious Gaza kil
 ## Private credit risks remain at large
 Regulators and investors should pay attention to the strain in the direct loan market
 
-## Don’t mess up London’s knowledge economy
-Oxford, Cambridge and Manchester are seen as innovation powerhouses but there’s a city we don’t mention
-
 ## BlackRock and Oaktree take keys of top supplier to Hollywood studios
 Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
 
 ## Virgin Atlantic and Trainline investigated over ‘drip pricing’
 Competition and Markets Authority reviews charges added later in buying process
 
-## Moderna shares double on skin cancer vaccine success
-Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
+## Don’t mess up London’s knowledge economy
+Oxford, Cambridge and Manchester are seen as innovation powerhouses but there’s a city we don’t mention
 
 ## Grain prices surge as Ukraine war chokes off Black Sea ports
 Analysts fear global food price shock if attacks on terminals and ships continue
-
-## The US munitions crisis goes back further than Iran
-Eye-watering levels of defence funding and better production targets do not solve the problem
-
-## Humanoid robots don’t deserve their superhuman valuations
-Machines are currently far too pricey for industrial viability, let alone consumers
 
 ## Samsung positioned to lead market sales with chipmaking price hike
 Chipset-led price hikes and affordability concerns are making consumers increasingly dependent on promotional offers, keeping the smartphone market under pressure
@@ -138,6 +132,9 @@ Macau has unveiled a sweeping five-year strategic blueprint to break its long-st
 ## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
+## How Africa Is Battling Climate Extremes
+The effects of the coming “super” El Niño will reach beyond the continent.
+
 ## Realism Is Unrealistic
 How useful is a theory about power that consistently fails to explain what the world’s most powerful country does?
 
@@ -158,9 +155,6 @@ If Trump wants to negotiate, he must stop making denuclearization the price of a
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
-
-## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
-London vows to continue aiding Ukraine’s war effort.
 
 ## Russia’s Fake Missile Test Warning to New Zealand
 With the warning of a yet-to-materialize missile test in the Southern Ocean, is Russia playing an old joke on New Zealand?
@@ -234,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
+Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.
+
 ## 582 skeletons, including children discovered in Sri Lanka mass grave
 A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.
 
@@ -254,9 +251,6 @@ Citizens and entities would have to seek authorisation to contact universities o
 
 ## Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’
 Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.
-
-## Kennedy Center agrees not to restore Trump’s name before September 8
-Opponents argue the venue seems 'intent on defying' a court order to remove the US president's name from the building.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
