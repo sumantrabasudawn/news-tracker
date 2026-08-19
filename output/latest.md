@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts
+Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
+
+## Spain plans transfer of 500 migrant children from Ceuta to mainland
+Ceuta leaders want children returned to Morocco, but Madrid says deporting them is 'outrageous'.
+
+## Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread
+Moderna's mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials.
+
 ## What’s behind Israel’s latest attack on Syria?
 US envoy warns Israel's strike could have sparked direct confrontation with Turkish forces.
 
@@ -245,15 +254,6 @@ Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo 
 
 ## Violence in the New Syria?
 The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.
-
-## Trump nominates Heidi Overton to lead US Food and Drug Administration
-Former think tank policy officer Heidi Overton to lead FDA in a controversial push to reshape US health regulations.
-
-## Zambia opposition leader to challenge Hichilema election victory in court
-Opposition leader claims 'serious irregularities' in the vote that handed President Hakainde Hichilema a second term.
-
-## Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
-Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
