@@ -1,6 +1,12 @@
 # AION Intelligence
 
-## Moderna shares double on skin cancer vaccine success
+## Green activist who celebrated Iran’s ‘resistance’ elected to party council
+Eleanora Folan had praised Tehran’s ‘courageous fight against the imperialist dogs’
+
+## US government debt hits $40tn as borrowing rises at historic rate
+Public spending surges despite Donald Trump’s vow to stabilise America’s public finances
+
+## Moderna shares nearly triple on skin cancer vaccine success
 Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
 
 ## Zelenskyy fires top aide as corruption allegations pile up
@@ -18,17 +24,14 @@ Minutes from July central bank meeting show ‘many’ policymakers are prepared
 ## US Treasury to boost long-term bond purchases in bid to steady market
 Move reflects Washington’s concerns about sharp rise in borrowing costs, investors say
 
-## Israel to probe troops over killing of Palestinian child Hind Rajab
-Critics dismiss IDF call for two criminal investigations into notorious Gaza killings as a ‘charade’
-
-## Private credit risks remain at large
-Regulators and investors should pay attention to the strain in the direct loan market
-
 ## BlackRock and Oaktree take keys of top supplier to Hollywood studios
 Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
 
 ## Virgin Atlantic and Trainline investigated over ‘drip pricing’
 Competition and Markets Authority reviews charges added later in buying process
+
+## Private credit risks remain at large
+Regulators and investors should pay attention to the strain in the direct loan market
 
 ## Don’t mess up London’s knowledge economy
 Oxford, Cambridge and Manchester are seen as innovation powerhouses but there’s a city we don’t mention
@@ -228,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What’s behind Israel’s latest attack on Syria?
+US envoy warns Israel's strike could have sparked direct confrontation with Turkish forces.
+
 ## Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
 Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.
 
@@ -248,9 +254,6 @@ Opposition leader claims 'serious irregularities' in the vote that handed Presid
 
 ## Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
 Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.
-
-## Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’
-Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
