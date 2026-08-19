@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Canada faces deadline to stop US tariffs on $20bn of exports
+Mark Carney spoke to Donald Trump on Tuesday in a final push to avert American trade levies
+
 ## London’s clean air zone linked to improvement in children’s lung health
 Study compared lung size and function of 1,600 six- to nine-year-olds with a matched group in Luton
 
@@ -21,14 +24,14 @@ Mykhailo Fedorov launches major challenge to President Volodymyr Zelenskyy
 ## US chip stocks slide as government borrowing costs hit multiyear highs
 Fears over inflation and mounting public debt ignite bond sell-off
 
-## Soaring diesel prices rip across US economy
-Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
-
 ## OpenAI says it will expand monitoring of model testing after hacking incident
 AI lab plans to dedicate more computing resources to security after one of its ‘agents’ escaped control
 
 ## Klarna overhauls leadership as it targets US banking licence
 Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model
+
+## Soaring diesel prices rip across US economy
+Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections
 
 ## BHP’s copper pivot is paying off
 Miner’s pipeline looks increasingly convincing given the red metal’s ubiquitous use
@@ -111,6 +114,9 @@ In a submission to the DGCA, FIP has also sought to increase pilots' random drug
 ## Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case
 Tarun Tejpal had earlier called his conviction "wrong", saying that he will appeal against the order in the Supreme Court.
 
+## Use of yuan hits 6-month high in Hong Kong’s fast-payment system
+Hong Kong’s fast-transfer payments denominated in yuan surged to a six-month high in July, signalling accelerating adoption of real-time cross-border retail payment channels even as mainland Chinese authorities maintain tight controls on capital outflows. Transaction values through Hong Kong’s Faste
+
 ## After years, Macau firm opts out of Hong Kong renewal project, seeks US$153m for site
 A North Point redevelopment site is being put on the market for HK$1.2 billion (US$153 million) after its owner, which spent years assembling the ageing property, warned that redeveloping it could result in losses of as much as 30 per cent. The sale offers a rare glimpse into the difficulties facing
 
@@ -131,9 +137,6 @@ Hong Kong’s offshore yuan bond market has seen another record-breaking deal �
 
 ## China plans for peak oil demand amid pipeline increase, intelligent rig development
 China has announced a new dedicated five-year plan to drill more crude oil and expand its network of pipelines as the world’s largest importer of fossil fuels faces heightened supply risks from geopolitical tensions. The plan, unveiled on Monday by the National Development and Reform Commission and 
-
-## Chinese commercial banks gain margin relief, but subdued lending dims outlook
-Chinese commercial banks recorded a rare, modest uptick in net interest margin (NIM) in the second quarter of 2026, marking the sector’s first quarterly expansion in the profitability indicator since 2022, even as underlying loan demand remained weak. Average NIM for commercial banks edged up by 0.0
 
 ## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
 London vows to continue aiding Ukraine’s war effort.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How Ebola became the deadliest outbreak in DR Congo’s history
+Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.
+
+## US ambassador to Israel calls settler violence ‘terror’
+US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank
+
+## Quebec separatist says no independence referendum while Trump in office
+Leader of Canadian province's secessionist party says debate over independence stymied by turbulence in US politics.
+
+## Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
+Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US 'begging' for negotiations.
+
+## Al Jazeera reports from Indonesia’s quake zone, desperate for help
+Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.
+
+## Democrats call for USS Lincoln probe, question US Navy’s readiness
+Lawmakers question whether conditions on the aircraft carrier indicate a 'pattern' of poor planning amid the Iran war.
+
 ## Minnesota official sues Texas governor to force ICE agent’s extradition
 State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.
 
 ## Bolivia arrests political adviser to Latin American right-wingers
 Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.
-
-## Trump administration moves to end rule protecting swaths of forest land
-US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
-
-## Why is the US ramping up Tomahawk production?
-The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.
-
-## Syria opens Assad-era nuclear programme to UN probe
-UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.
-
-## DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO
-Officials warn they are continuing to identify new chains of transmission that need to be broken to stop the spread.
-
-## Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal
-US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.
-
-## Israeli strike reported to kill at least six in Gaza City
-The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
