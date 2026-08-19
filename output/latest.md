@@ -1,19 +1,19 @@
 # AION Intelligence
 
-## July inflation keeps BoE on course to hold rates in September
-Upward movement in the headline index was driven by energy price cap reset and was expected
-
 ## UK inflation accelerated to 2.9% in July amid Middle East energy shock
 Rising energy costs push price growth further above BoE target
+
+## Chinese humanoid robot maker surges 600% in trading debut
+Unitree makes stellar start in Shanghai as investors clamour for shares
+
+## July inflation keeps BoE on course to hold rates in September
+Upward movement in the headline index was driven by energy price cap reset and was expected
 
 ## FirstFT: Iran weighs Europe strikes if US restarts war
 Also in this newsletter: Ukraine wartime election and Europeans’ savings buffers
 
 ## Chinese automaker Chery to open UK R&D centre
 Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe
-
-## Chinese humanoid robot maker surges 600% in trading debut
-Unitree makes stellar start in Shanghai as investors clamour for shares
 
 ## The defence stocks aren’t defensive
 Rearmament might be a dud
@@ -24,35 +24,38 @@ Carrion-eaters; pervert glass patent; Spirit’s emails; Musk vs Cards Against H
 ## Singapore unveils tax cuts for asset managers amid global talent tussle
 Move may have wider ramifications than reforms being introduced by Hong Kong
 
+## Sweden’s EQT buys Australian rugby league club in first sports foray
+Melbourne Storm deal is latest example of private equity investing in sporting teams
+
 ## Virgin Atlantic and Trainline investigated over ‘drip pricing’
 Competition and Markets Authority reviews charges added late in buying process
 
-## What high streets can learn from the success of retail parks
-Once dominated by sellers of bulky goods, parks now attract high street staples
+## India steps up CBAM preparedness as EU carbon payments begin in 2027
+Indian exporters are being urged to strengthen emissions reporting and verification systems as the EU’s carbon border regime enters its definitive phase
 
-## Tamil Nadu increases health insurance coverage to ₹25 lakh under CMCHIS
-The State government unveiled a broad healthcare expansion plan covering insurance, medical education, cancer treatment and specialised services for underserved groups.
+## Sensex today | Stock Market Live: Sensex down 350 points, Nifty near 24,050 in choppy trade; banks, metals drag as crude weighs on sentiment
+Sensex, Nifty, Share Prices LIVE: Markets extended their losing streak to a seventh consecutive session on Wednesday, with selling pressure spreading across most sectors as elevated crude oil prices, a weakening rupee and surging global bond yields continued to erode investor confidence.
 
-## Sensex today | Stock Market Live: Sensex down 300 points, Nifty near 24,050 in choppy trade; Eternal, HCL Tech top gainers
-Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks extended their decline on Wednesday, with the Nifty slipping below 24,100 as weak market breadth kept the near-term outlook bearish. However, the 24,000-23,950 zone remains a crucial support area that could trigger a rebound.
+## SEBI chief says manipulation of closing auction session will face stern action
+The regulator has stepped up its defence of the new market mechanism amid concerns from participants over its implementation and initial challenges.
+
+## SEBI to issue AI guidelines with human oversight, data controls and kill switches
+The regulator is preparing safeguards as artificial intelligence becomes increasingly embedded in market surveillance, risk assessment, fraud detection and investor services.
 
 ## Odisha flood: ₹1,000 crore relief package announced for affected districts
 Heavy rainfall and rising river levels have disrupted life across northern Odisha, prompting intensified rescue, evacuation and relief operations.
 
-## Hindustan Zinc targets 70% renewable power by FY28
-The company is accelerating its energy transition through renewable power generation, procurement agreements and projects aimed at improving efficiency and sustainability.
+## Rupee holds near ₹95.7 as RBI intervention offsets oil, bond yield pressures
+The currency remained resilient despite mounting external pressures, with traders closely watching oil prices, global yields and central bank policy signals.
 
-## IDFC First Bank raises $500 Mn via maiden 3-yr senior notes
-The private sector bank said the notes carry a fixed coupon of 5.625% and were placed with investors outside the US in Regulation S format.
+## InfinityDAO plans $1 billion insurance programme for IDL token ecosystem
+The proposed programme comes as digital-asset platforms increasingly seek stronger governance, risk controls and institutional safeguards to build market credibility.
 
-## Jassper Shipping to invest $50 million to expand project logistics, bulk cargo operations
-The proposed investment intends to strengthen its capabilities across project logistics, heavy-lift transportation, vessel chartering and multimodal cargo solutions, supporting India’s accelerating infrastructure and industrial expansion
+## SEBI reviews IPO, delisting rules for small companies: Pandey
+The regulator is examining market-making costs in small-company IPOs and proposed changes to portfolio manager rules.
 
-## Symbiotec Pharmalab's ₹1,757 crore IPO to open on August 24
-The IPO will close for subscription on August 27, while bidding by anchor investors will take place on August 21, according to the company's announcement on Wednesday
-
-## Why Meta is being sued by US states in landmark trial
-
+## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
+The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
 
 ## Price of Middle East conflict: Indian refiners forced to buy oil at premium; Russian discounts vanish
 The surge in available crude following the temporary truce had also increased the discounts offered on Russian and Venezuelan oil. Since then, the discount on Russian crude has largely disappeared, while the price reduction on Venezuelan barrels has narrowed substantially.
@@ -75,32 +78,35 @@ Gold gained around 0.7% last week and extended the move above $4,400 at the star
 ## 394 entities under lens for fund transfer
 
 
-## Stock market today: Sensex, Nifty set for muted opening amid high crude prices
+## Delhi govt withdraws order barring Class 10 board exam on R3 paper failure
+The issue arose from a discrepancy between two orders by the Delhi Education Department on August 17 and by the CBSE on July 10
 
+## ‘Use PM Cares Fund for schools’: CJP's Abhijeet Dipke as report reveals corpus rose to over ₹8,400 crore
+Abhijeet Dipke said a well-equipped model school could cost around ₹8 crore, meaning ₹8,500 crore could fund over 1,000 high-tech schools.
 
-## SC to examine probe records of Abhishek Banerjee’s PA days after staying arrest
-The West Bengal Police told the court that Sumit Roy is not cooperating although he has appeared before the investigating officer
+## ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in Uttar Pradesh over education, jobs
+The yatra begins September 9 in Prayagraj, travelling to several cities, led by AISA leaders and supported by JNUSU representatives.
 
-## At least 44 recruitment exams, including JSSC, JPSC cancelled in Jharkhand amid student protests | Full list
-Tests for recruitment to other posts such as civil judges (junior division), assistant public prosecutors, and dentists also stand cancelled.
+## 'Landlord won't give me free rent because am from BJP': Shehzad Poonawalla on quitting party
+Shehzad Poonawalla reflected on his journey from once being a TV anchor to later switching to politics in 2021, and said that he was looking for new avenues.
 
-## Miscreants blow up several anti-poaching camps in K'taka
-Miscreants blow up several anti-poaching camps in K'taka
+## AAP attacks govt after detergent fed to students in Bihar mid-day meal: ‘What could be more shameful?’
+After consuming the detergent mixed food, some students complained of dizziness and began vomiting
 
-## Cook adds detergent, not salt, in Bihar mid-day meal; many students hospitalised
-More than 20 students fell ill after allegedly consuming soybean rice at a government school in Nalanda, with a detergent mix suspected.
+## Bihar cops use water cannons on march led by Tejashwi Yadav over paper leak, unemployment
+The march, led by Tejashwi Yadav, was being held over issues including paper leaks, unemployment and problems faced by students and youth.
 
-## ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
-Appearing for the government, Solicitor General Tushar Mehta explained to the Supreme Court in detail how the NEET question paper is selected.
+## Gen alpha protests: Unnao school students stage sit-in over food, teachers and drinking water
+Gen alpha protests: Unnao school students stage sit-in over food, teachers and drinking water
 
-## Amazon fined ₹1 lakh over misleading ‘Ram Mandir Prasad’ sweets listing
-The CCPA noted that devotees would, by default, consider the 'Shri Ram Mandir Ayodhya Prasad' as the food offered to and blessed by the deity.
+## TN CM announces official vehicle, ₹1 lakh allowance for MLAs to address public grievances
+TN CM announces official vehicle, ₹1 lakh allowance for MLAs to address public grievances
 
-## Andhra CID arrests man for cheating unemployed youth with fake govt job offers
-Andhra CID arrests man for cheating unemployed youth with fake govt job offers
+## China fund managers stick with AI, chips in August despite July sell-off, survey finds
+Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificial intelligence and chips remained China’s most preferred investment themes in August, while more investors moved to hedge tech exposure, according to a survey by BofA Global Resear
 
-## Vijay govt makes U-turn on order barring students from joining Left, CJP-like protests
-Officials had been asked to take “appropriate action” to prevent students and youth from joining protests. The order was withdrawn minutes later.
+## Macau bets on financial services, fintech to drive economic diversification
+Macau has unveiled a sweeping five-year strategic blueprint to break its long-standing dependence on casino revenues by pivoting towards modern financial services, digital currency adoption and deeper economic integration with mainland China. Under its third five-year plan for economic and social de
 
 ## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
@@ -119,12 +125,6 @@ The Hong Kong Gold Exchange (HKGX) and TGX Technology have launched a joint vent
 
 ## Tech outperforms traditional sectors as China’s uneven recovery set to fuel AI stock revival
 China’s K-shaped economic recovery is likely to keep investors betting on artificial-intelligence stocks, as the latest data indicates the tech sector remains a key driver for growth while consumption and property continue to act as drags, according to analysts. Manufacturing output for industrial r
-
-## Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut
-Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion). The opening pop from its IPO 
-
-## Hong Kong tech stocks decline as US bond rout, Iran war stalemate dent sentiment
-Rising US Treasury yields and an impasse in the Middle East conflict drove technology stocks in Hong Kong and mainland China lower on Wednesday, as concerns grew that higher capital costs and a persistent oil shock would squelch equity valuations. The Hang Seng Tech Index slumped 1 per cent as of 10
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
@@ -174,6 +174,9 @@ Its network is growing, albeit slowly. But this is unlikely to manifest in mass 
 ## Cambodia: From Scam Empire to Security State
 War with Thailand pushed Cambodia to enact a sweeping scam crackdown. Now the ruling elite is leveraging the same crackdown to consolidate its political control.
 
+## Contested Logistics and the “Last Unmanned Mile”
+In a Pacific war, the U.S. military cannot assume uncontested access to its depots and supply lines for munitions, spare parts, food, water, and energy. Jonathan is joined by David Tuttle (Rune Technologies), Paul Lwin (HavocAI), and Tom Garvey (CACI) to discuss sustaining a dispersed force that’s f
+
 ## Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…
 The Iran war is beginning to resemble the Ukraine war in one important way. Operationally, the wars themselves are still very different — Ukraine is a large-scale ground invasion, while the Iran war is not there just yet. But their political logic after a failure to achieve a quick result is startin
 
@@ -194,9 +197,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## A Life in Army Special Operations, from Desert Storm to the Next War
 Lt. Gen. (ret.) Francis Beaudette, former commanding general of the U.S. Army Special Operations Command, joins Ryan to discuss how his family history, service, and books shaped his path into and time in the Army. Together, they talk through his years as a young officer during Operation Desert Storm
-
-## Blanchard’s Lathe and the Long Arc of American Manufacturing
-Emerging from the chaos of supplying the U.S. Army during the War of 1812, the War Department sought to foster domestic production of standardized muskets. Out of this industrial project arose an invention that laid the foundation for automation and mass production. Thomas Blanchard’s copying lathe 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
