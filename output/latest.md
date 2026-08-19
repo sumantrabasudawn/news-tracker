@@ -1,13 +1,22 @@
 # AION Intelligence
 
+## US Treasury to boost long-term bond purchases in bid to steady market
+Move reflects Washington’s concerns about sharp rise in borrowing costs, investors say
+
+## Israel to probe troops over killing of Palestinian child Hind Rajab
+Critics dismiss IDF call for two criminal investigations into notorious Gaza killings as a ‘charade’
+
+## Private credit risks remain at large
+Regulators and investors should pay attention to the strain in the direct loan market
+
+## Don’t mess up London’s knowledge economy
+Oxford, Cambridge and Manchester are seen as innovation powerhouses but there’s a city we don’t mention
+
 ## Moderna shares double on skin cancer vaccine success
 Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
 
 ## Grain prices surge as Ukraine war chokes off Black Sea ports
 Analysts fear global food price shock if attacks on terminals and ships continue
-
-## US Treasury to boost long-term bond purchases in bid to steady market
-Move reflects Washington’s concerns about sharp rise in borrowing costs, investors say
 
 ## The US munitions crisis goes back further than Iran
 Eye-watering levels of defence funding and better production targets do not solve the problem
@@ -15,23 +24,11 @@ Eye-watering levels of defence funding and better production targets do not solv
 ## Israel-Turkey rivalry bursts into the open over Syria strikes
 Israeli attack on air base near Turkish border intensifies power contest between two of the region’s strongest militaries
 
-## Google strikes $12bn AI chip deal with Marvell
-Tech giant agrees expanded partnership with US chipmaker that includes option to buy shares
-
-## Charlesbank nears law firm deal as private equity pushes deeper into US legal sector
-Investment in insurance defence specialist WSHB expands non-lawyer ownership beyond personal injury firms
-
-## Putin pledges help for Wildberries warehouses hit by Ukraine
-Kyiv’s drones have partly or completely destroyed seven warehouses of Russia’s largest online retailer
+## BlackRock and Oaktree take keys of top supplier to Hollywood studios
+Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
 
 ## Virgin Atlantic and Trainline investigated over ‘drip pricing’
 Competition and Markets Authority reviews charges added later in buying process
-
-## Private credit risks remain at large
-Regulators and investors should pay attention to the strain in the direct loan market
-
-## Don’t mess up London’s knowledge economy
-Oxford, Cambridge and Manchester are seen as innovation powerhouses but there’s a city we don’t mention
 
 ## Humanoid robots don’t deserve their superhuman valuations
 Machines are currently far too pricey for industrial viability, let alone consumers
@@ -132,6 +129,9 @@ Macau has unveiled a sweeping five-year strategic blueprint to break its long-st
 ## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
+## As the Israeli Election Nears, Trump Has Leverage Over Netanyahu
+A White House endorsement could improve the Israeli leader’s chances of winning.
+
 ## Ukraine’s War Widows Are Fighting for Money
 Their husbands died defending the country—and now their families are struggling for compensation.
 
@@ -152,9 +152,6 @@ London vows to continue aiding Ukraine’s war effort.
 
 ## China’s Leaders Go on a Summer Retreat
 Under Xi, the once-collective gathering has become something else.
-
-## Five Years on, Washington Is Failing Afghanistan Again
-Despite administration promises, aid cuts are leaving Afghan mothers and children to die.
 
 ## Russia’s Fake Missile Test Warning to New Zealand
 With the warning of a yet-to-materialize missile test in the Southern Ocean, is Russia playing an old joke on New Zealand?
@@ -228,6 +225,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’
+Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.
+
+## Kennedy Center board says it won’t try to immediately restore Trump’s name
+Opponents argue the venue seems 'intent on defying' a court order to remove the president's name from the building.
+
+## Brazil bus crash kills at least 23 and injures five in Parana state
+The bus was travelling to hospitals near Curitiba when the accident occurred.
+
+## NATO ‘prepared’ to defend allies amid report of Iranian strike plans
+NATO says it will 'do what is necessary' amid media report Iran considered strikes against US targets in Europe.
+
+## US Department of Justice defends prosecution of Comey over seashell post
+The ex-FBI chief faces accusations of transmitting threats and exploiting controversy to market his upcoming novel.
+
 ## North Korea leader’s sister denies talks with ‘hostile’ US
 US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.
 
@@ -236,21 +248,6 @@ Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters 
 
 ## US pressure on Israel needed for peace in Syria
 With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.
-
-## US and Canada reach ‘very fair’ trade agreement, Trump says
-New trade deal ensures no tariffs for US farmers and businesses exporting to Canada, Trump announces
-
-## Why extreme heat is much more dangerous for the elderly than we realised
-Human heat tolerance limits are lower than previously thought, and age is a major risk, Stanford researchers say.
-
-## India rout Pakistan at Hockey World Cup 2026 to qualify for second round
-India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.
-
-## Seven decades of US regime change efforts: What have they achieved?
-US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.
-
-## Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering
-The Israeli military has announced a criminal investigation into the killing that shook the world.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
