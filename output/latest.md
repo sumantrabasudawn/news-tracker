@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Zelenskyy fires top aide as corruption allegations pile up
+Raid on Ukrainian official’s home came after ousted defence minister launches a blistering attack on wartime president
+
+## Stripe to buy start-up OpenRouter in $8bn deal
+Payment processor’s largest-ever acquisition is part of broader effort to expand into AI economy
+
+## Meet Gregory Fenelon, the (self-declared) $14bn man
+He has big stakes. We have big questions.
+
+## Fed officials express rising concern over persistently high inflation
+Minutes from July central bank meeting show ‘many’ policymakers are prepared to increase borrowing costs
+
 ## US Treasury to boost long-term bond purchases in bid to steady market
 Move reflects Washington’s concerns about sharp rise in borrowing costs, investors say
 
@@ -12,6 +24,12 @@ Regulators and investors should pay attention to the strain in the direct loan m
 ## Don’t mess up London’s knowledge economy
 Oxford, Cambridge and Manchester are seen as innovation powerhouses but there’s a city we don’t mention
 
+## BlackRock and Oaktree take keys of top supplier to Hollywood studios
+Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
+
+## Virgin Atlantic and Trainline investigated over ‘drip pricing’
+Competition and Markets Authority reviews charges added later in buying process
+
 ## Moderna shares double on skin cancer vaccine success
 Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
 
@@ -21,17 +39,11 @@ Analysts fear global food price shock if attacks on terminals and ships continue
 ## The US munitions crisis goes back further than Iran
 Eye-watering levels of defence funding and better production targets do not solve the problem
 
-## Israel-Turkey rivalry bursts into the open over Syria strikes
-Israeli attack on air base near Turkish border intensifies power contest between two of the region’s strongest militaries
-
-## BlackRock and Oaktree take keys of top supplier to Hollywood studios
-Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
-
-## Virgin Atlantic and Trainline investigated over ‘drip pricing’
-Competition and Markets Authority reviews charges added later in buying process
-
 ## Humanoid robots don’t deserve their superhuman valuations
 Machines are currently far too pricey for industrial viability, let alone consumers
+
+## Samsung positioned to lead market sales with chipmaking price hike
+Chipset-led price hikes and affordability concerns are making consumers increasingly dependent on promotional offers, keeping the smartphone market under pressure
 
 ## Depression defies forecasts, keeps monsoon pipeline flowing in north and east
 A stubborn weather system over Jharkhand sustains rain across northern, eastern and north-eastern India through Wednesday even as evening forecasts suggested it has weakened a round
@@ -50,9 +62,6 @@ MPC members emphasise the need for careful monitoring before making any policy a
 
 ## Cabinet approves 5 rail and road projects worth ₹13,041 crore
 The proposed projects are essential routes for transportation of commodities such as coal, iron ore, cement, iron and steel, container, automobile, foodgrains
-
-## Smartphone buyers hit pause after flagship e-Commerce sales
-Chipset-led price hikes and affordability concerns are making consumers increasingly dependent on promotional offers, keeping the smartphone market under pressure
 
 ## Air India Express introduces self-declaration process for psychoactive substance use
 Move aimed at early intervention, employee support and strengthening safety reporting culture
@@ -81,6 +90,9 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
 Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
 
+## Forest officers' body defends foresters involved in firing incident
+Forest officers' body defends foresters involved in firing incident
+
 ## 35 Bihar students hospitalised after detergent allegedly mistaken for salt in mid-day meal
 Bihar rural development minister Shravan Kumar visited the hospital and met the affected students, promising a detailed inquiry.
 
@@ -101,9 +113,6 @@ In a statement on Wednesday, Pakistan's ministry of foreign affairs said the US 
 
 ## Delhi couple held for selling ₹1.10-cr Gurugram flat using forged documents
 According to police, a man lodged a complaint on April 4 alleging that the couple had agreed to sell him a flat in Sushant Lok Phase-2 for ₹1.10 crore.
-
-## National-level wrestler arrested in drug smuggling case after 3-year manhunt
-Amit Sheoran (31), a resident of Rohtak district in Haryana, was arrested near Madhuban Chowk Metro Station in northwest Delhi on Tuesday night, he said.
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
@@ -129,6 +138,9 @@ Macau has unveiled a sweeping five-year strategic blueprint to break its long-st
 ## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
+## Realism Is Unrealistic
+How useful is a theory about power that consistently fails to explain what the world’s most powerful country does?
+
 ## As the Israeli Election Nears, Trump Has Leverage Over Netanyahu
 A White House endorsement could improve the Israeli leader’s chances of winning.
 
@@ -149,9 +161,6 @@ U.S. government actions undermined the Trump official’s Southeast Asian tour.
 
 ## Russian Threats Won’t Stop the U.K.’s Drone Deliveries
 London vows to continue aiding Ukraine’s war effort.
-
-## China’s Leaders Go on a Summer Retreat
-Under Xi, the once-collective gathering has become something else.
 
 ## Russia’s Fake Missile Test Warning to New Zealand
 With the warning of a yet-to-materialize missile test in the Southern Ocean, is Russia playing an old joke on New Zealand?
@@ -225,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Protests in Kyiv back ex-defence minister Fedorov’s call for elections
+Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.
+
+## Violence in the New Syria?
+The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.
+
+## Trump nominates Heidi Overton to lead US Food and Drug Administration
+Former think tank policy officer Heidi Overton to lead FDA in a controversial push to reshape US health regulations.
+
+## Zambian opposition leader to challenge election result in ⁠court
+Opposition leader claims 'serious irregularities' in the vote that handed President Hakainde Hichilema a second term.
+
+## Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
+Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.
+
 ## Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’
 Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.
 
 ## Kennedy Center board says it won’t try to immediately restore Trump’s name
-Opponents argue the venue seems 'intent on defying' a court order to remove the president's name from the building.
+Opponents argue the venue seems 'intent on defying' a court order to remove the US president's name from the building.
 
 ## Brazil bus crash kills at least 23 and injures five in Parana state
 The bus was travelling to hospitals near Curitiba when the accident occurred.
-
-## NATO ‘prepared’ to defend allies amid report of Iranian strike plans
-NATO says it will 'do what is necessary' amid media report Iran considered strikes against US targets in Europe.
-
-## US Department of Justice defends prosecution of Comey over seashell post
-The ex-FBI chief faces accusations of transmitting threats and exploiting controversy to market his upcoming novel.
-
-## North Korea leader’s sister denies talks with ‘hostile’ US
-US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.
-
-## Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs
-Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.
-
-## US pressure on Israel needed for peace in Syria
-With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
