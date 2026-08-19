@@ -1,9 +1,15 @@
 # AION Intelligence
 
+## Moderna shares double on melanoma vaccine trial success
+Drugmaker’s cancer shot developed with Merck delivers positive outcome in late-stage trial
+
+## Investigators discover track ‘irregularity’ near site of UK train derailment
+Officials examine CCTV footage of area around incident in East Sussex that injured 30 people
+
 ## Target profits double after $1bn tariff refund
 US retailer reports higher sales as net income boosted by Washington’s tariff return programme
 
-## Price of olive oil doubles in five years: how UK inflation has hit shoppers
+## Price of olive oil doubles in five years as inflation hits UK shoppers
 The majority of goods and services have shot up in price since 2021
 
 ## Portuguese men o’ war plague Europe’s warming beaches
@@ -11,12 +17,6 @@ More sightings of jellyfish-like species have coincided with high ocean temperat
 
 ## Israel to probe troops over killing of Palestinian child Hind Rajab
 Critics dismiss IDF call for two criminal investigations into notorious Gaza killings — one of which sparked film — as ‘charade’
-
-## Moderna shares soar over 150% on melanoma vaccine trial success
-Drugmaker’s cancer shot developed with Merck delivers positive outcome in late-stage trial
-
-## Investigators discover track ‘irregularity’ near site of UK train derailment
-Officials examine CCTV footage of area around incident in East Sussex that injured 30 people
 
 ## Zelenskyy fires top aide as corruption allegations pile up
 Raid on Ukrainian official’s home came after ousted defence minister launches a blistering attack on wartime president
@@ -39,29 +39,29 @@ Competition and Markets Authority reviews charges added later in buying process
 ## UK software group Pinewood agrees £545mn private equity takeover
 Deal for former Pendragon software division follows rival buyout group Apax’s withdrawal of offer on concerns over AI impact
 
-## NCLT to hear lessors’ claims against SpiceJet afresh
-Seven petitions to be reheard after Aviator ML withdraws insolvency plea
+## Notebook imports go up by 5 times in first half
+Domestic industry calls for 10 per cent % safeguard duty to provide a level-playing field
+
+## Google Pixel’s reported exit from China to bring new tides to India’s manufacturing market
+The move can help in putting India at the centre of Google’s future hardware expansion plans in the AI age
+
+## Sweet Karam Coffee posts double digit m-o-m growth in Mumbai market
+The company announced strong demand in the city for products like Andhra Spicy Murukku and Ghee Mysore Pak
+
+## MPC Minutes: Members opted for “wait and watch” as the economy faces a “hazy” outlook
+MPC members emphasised the need for careful monitoring before making any policy adjustments, underscoring the ongoing uncertainties in both domestic and global economic landscapes
+
+## Investors making bigger bets on India’s health supplements sector
+According to Traxcn data, equity funding for supplements companies stood at $72 million for 2026 (YTD)
+
+## Unhealthy situation
+Private healthcare needs better regulation
+
+## Letters to Editor
+
 
 ## Symbiotec Pharmalab to raise ₹1,757 cr via IPO
 The IPO will open for subscription on Monday. Bids can be made for a minimum of 15 equity shares and in multiples of 15 shares thereafter
-
-## Investors making bigger bets on India’s health supplements sector
-According to Traxcn data, equity funding for supplements companies stood at $70 million for 2026 (YTD)
-
-## Agrograde’s automated onion grading system installed at Pimpalgaon market
-The machine processes up to 10 tonnes of onions per hour and cuts manual labour needs by 80%
-
-## Air India Express introduces self-declaration process for psychoactive substance use
-Move aimed at early intervention, employee support and strengthening safety reporting culture
-
-## Responsible AI must expand inclusion, not just efficiency: RBI Deputy Governor Murmu
-At the same time, he warned against excessive reliance on algorithms, emphasising that human judgment remains essential
-
-## India International Coffee Festival in Bengaluru from Feb 26
-Hosted by the Coffee Board of India and the Speciality Coffee Association of India, this festival is bringing together everyone from coffee growers and roasters to baristas and enthusiasts
-
-## IDFC FIRST Bank Successfully Accesses International Debt Capital Markets with Maiden US$500 Million Bond Issuance
-
 
 ## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
 Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
@@ -87,29 +87,29 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
 Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
 
+## Ex-serviceman running Nagpur military school held for sexual abuse of minors: Cops
+Former serviceman who runs a military residential school was arrested for allegedly sexually assaulting, harassing several minor students under the guise of training, police said.
+
+## 'Modi absolutely wrong... grateful to Rajiv Gandhi': Shehzad Poonawalla's fresh digs after BJP exit
+Shehzad Poonawalla shared a video from a TV debate and said he would always remain grateful to former prime minister Rajiv Gandhi for giving India Rahul Gandhi
+
+## ‘Feels like Venus’: Delhi-NCR residents stunned as sky turns strangely yellow amid rain
+Several Delhi-NCR residents shared visuals of the phenomenon on social media, expressing shock at how yellow the sky had turned.
+
+## Srinagar mayor Aarti Bhandari, 10 councillors join BJP in Uttarakhand
+Uttarakhand’s only independent mayor, Aarti Bhandari of Srinagar, joined the BJP with 10 councillors, including two Congress members.
+
+## ‘Will reveal corruption files… don’t force me': Tamil Nadu CM Vijay warns DMK over claims of irregularities
+CM Vijay's public works minister, Aadhav Arjuna, had on Tuesday told the Tamil Nadu Assembly that the government will soon release a detailed White Paper.
+
+## Night of smoke, darkness, desperate escape: Survivors recount Kolkata hotel fire ordeal
+Among them were several Bangladeshis who had come to Kolkata for business, medical treatment or a holiday.
+
+## NCERT reconstitutes textbook development team for class 11, 12 political science; at least 4 members have RSS links
+The team has been asked to develop the class 11 textbook by November and the class 12 book by July next year.
+
 ## DoT to use subscriber photos to enforce nine-SIM limit
 According to the 2012 subscriber verification guidelines issued, an individual can have up to nine mobile connections across all telecom operators
-
-## ‘No one to take him’: Family says Delhi CNG pump worker ‘lay bleeding' for 30 mins after blast
-The family of the staffer, identified as Manish, said they found him bleeding on the ground when they reached the station.
-
-## 5 Bangladeshis among 9 dead in Kolkata hotel fire on Mirza Ghalib St: Officials
-Mirza Ghalib Street and its surrounding areas have numerous hotels that are frequented by Bangladeshi nationals
-
-## Mud, slush accumulate in Uttarkashi tunnel due to seepage, raise safety concerns
-Water seepage in Uttarakhand’s Tambakhani tunnel has caused mud and slush to accumulate, making passage risky for residents and Gangotri pilgrims.
-
-## ‘Ought to have resigned’: Bombay Bar Association on BCI chairman Manan Mishra's apology
-In a letter dated August 18 (Tuesday), the Association said the apology was an “attempt to assuage the situation” and not a “true expression of remorse”.
-
-## Centre allots full onion buffer stock for retail as procurement lags
-With a smaller buffer available, the government has decided to conserve stocks for direct retail intervention rather than release them in wholesale mandis.
-
-## ‘We are being defamed’: Man who became dog to protest over stray menace in MP's Khandwa
-The man defended dogs against allegations that they were responsible for an increase in attacks, arguing that a lack of food was forcing them to chase people.
-
-## What caused the freak gas tank explosion that killed 3 at Delhi CNG station?
-Delhi CNG pump explosion: The three victims were staffers at the CNG station, and one of them was filling the gas tank when it exploded.
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
