@@ -90,6 +90,9 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
 Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
 
+## India, Palestine sign 2 MoUs in development cooperation; 200-bed hospital, training centre to be set up
+India and Palestine signed pacts for a 200-bed super-speciality hospital and vocational training centre, while India reaffirmed support for Palestine.
+
 ## Forest officers' body defends foresters involved in firing incident
 Forest officers' body defends foresters involved in firing incident
 
@@ -110,9 +113,6 @@ Satellite tracking shows the critically endangered Lesser Florican uses a 206,00
 
 ## Pakistan summons US charge d'affaires over Sergio Gor's remarks during J&K visit
 In a statement on Wednesday, Pakistan's ministry of foreign affairs said the US envoy to Islamabad was summoned and “a strong demarche lodged”.
-
-## Delhi couple held for selling ₹1.10-cr Gurugram flat using forged documents
-According to police, a man lodged a complaint on April 4 alleging that the couple had agreed to sell him a flat in Sushant Lok Phase-2 for ₹1.10 crore.
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
@@ -186,6 +186,9 @@ The debate over acquiring nuclear weapons continues in Seoul.
 ## Kyrgyzstan Liquidates More Companies Over Sanctions Risks
 19 more companies have been ordered to close down, and more than 140 have been cut off by their state-owned banking partners.
 
+## Inside Iran’s Wartime Regime
+Afshon Ostovar, one of the leading experts on Iran and the host of the members-only podcast The Iran Reckoning, is joined by War on the Rocks membership editor Kerry Anderson for a state-of-play conversation on the conflict between the United States and Iran. They consider why the fighting has settl
+
 ## Contested Logistics and the “Last Unmanned Mile”
 In a Pacific war, the U.S. military cannot assume uncontested access to its depots and supply lines for munitions, spare parts, food, water, and energy. Jonathan is joined by David Tuttle (Rune Technologies), Paul Lwin (HavocAI), and Tom Garvey (CACI) to discuss sustaining a dispersed force that’s f
 
@@ -206,9 +209,6 @@ On June 26, 2026, the Civil Police of Rio de Janeiro, through its specialized fi
 
 ## The Tension Between Collectivism and Individualism in Ukraine
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
-
-## A Life in Army Special Operations, from Desert Storm to the Next War
-Lt. Gen. (ret.) Francis Beaudette, former commanding general of the U.S. Army Special Operations Command, joins Ryan to discuss how his family history, service, and books shaped his path into and time in the Army. Together, they talk through his years as a young officer during Operation Desert Storm
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## 582 skeletons, including children discovered in Sri Lanka mass grave
+A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.
+
 ## Protests in Kyiv back ex-defence minister Fedorov’s call for elections
 Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.
 
@@ -243,7 +246,7 @@ The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged poli
 ## Trump nominates Heidi Overton to lead US Food and Drug Administration
 Former think tank policy officer Heidi Overton to lead FDA in a controversial push to reshape US health regulations.
 
-## Zambian opposition leader to challenge election result in ⁠court
+## Zambia opposition leader to challenge Hichilema election victory in court
 Opposition leader claims 'serious irregularities' in the vote that handed President Hakainde Hichilema a second term.
 
 ## Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
@@ -252,11 +255,8 @@ Citizens and entities would have to seek authorisation to contact universities o
 ## Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’
 Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.
 
-## Kennedy Center board says it won’t try to immediately restore Trump’s name
+## Kennedy Center agrees not to restore Trump’s name before September 8
 Opponents argue the venue seems 'intent on defying' a court order to remove the US president's name from the building.
-
-## Brazil bus crash kills at least 23 and injures five in Parana state
-The bus was travelling to hospitals near Curitiba when the accident occurred.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
