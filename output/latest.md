@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Putin pledges help for Wildberries warehouses hit by Ukraine
+Kyiv’s drones have partly or completely destroyed seven warehouses of Russia’s largest online retailer
+
 ## Moderna shares double on melanoma vaccine trial success
 Drugmaker’s cancer shot developed with Merck delivers positive outcome in late-stage trial
 
@@ -21,9 +24,6 @@ Critics dismiss IDF call for two criminal investigations into notorious Gaza kil
 ## Zelenskyy fires top aide as corruption allegations pile up
 Raid on Ukrainian official’s home came after ousted defence minister launches a blistering attack on wartime president
 
-## Mass expulsion was once a taboo idea in Europe. Then came Maga
-The continent’s far right is embracing the concept of remigration in the Trump era
-
 ## Moderna’s cancer shot: exciting for investors, inconclusive for patients
 A glimmer of hope for sufferers, a potential revenue platform for a cash-burner, and a whole heap of unknowns
 
@@ -39,29 +39,29 @@ Competition and Markets Authority reviews charges added later in buying process
 ## UK software group Pinewood agrees £545mn private equity takeover
 Deal for former Pendragon software division follows rival buyout group Apax’s withdrawal of offer on concerns over AI impact
 
-## Notebook imports go up by 5 times in first half
-Domestic industry calls for 10 per cent % safeguard duty to provide a level-playing field
+## Air India Express introduces self-declaration process for psychoactive substance use
+Move aimed at early intervention, employee support and strengthening safety reporting culture
 
-## Google Pixel’s reported exit from China to bring new tides to India’s manufacturing market
-The move can help in putting India at the centre of Google’s future hardware expansion plans in the AI age
+## NCLT to hear lessors’ claims against SpiceJet afresh
+Seven petitions to be reheard after Aviator ML withdraws insolvency plea
 
-## Sweet Karam Coffee posts double digit m-o-m growth in Mumbai market
-The company announced strong demand in the city for products like Andhra Spicy Murukku and Ghee Mysore Pak
+## Responsible AI must expand inclusion, not just efficiency: RBI Deputy Governor Murmu
+At the same time, he warned against excessive reliance on algorithms, emphasising that human judgment remains essential
 
-## MPC Minutes: Members opted for “wait and watch” as the economy faces a “hazy” outlook
-MPC members emphasised the need for careful monitoring before making any policy adjustments, underscoring the ongoing uncertainties in both domestic and global economic landscapes
-
-## Investors making bigger bets on India’s health supplements sector
-According to Traxcn data, equity funding for supplements companies stood at $72 million for 2026 (YTD)
-
-## Unhealthy situation
+## Editorial. Unhealthy situation
 Private healthcare needs better regulation
 
-## Letters to Editor
+## Letters to the Editor dated August 19, 2026
 
 
-## Symbiotec Pharmalab to raise ₹1,757 cr via IPO
-The IPO will open for subscription on Monday. Bids can be made for a minimum of 15 equity shares and in multiples of 15 shares thereafter
+## Zulu Defence bets on integrated drone systems, scales up for global demand
+Nagendran Kandasamy, Co-founder and CEO, announced plans to relocate from a 15,000 sq ft facility to a 45,000-50,000 sq ft unit to support expansion
+
+## How a free wig initiative is centring the quality of life of cancer patients
+Tata Memorial Centre partners with The Cherian Foundation to provide free natural human hair wigs to cancer patients
+
+## Notebook imports go up by 5 times in first half
+Domestic industry calls for 10 per cent % safeguard duty to provide a level-playing field
 
 ## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
 Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
@@ -87,6 +87,12 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
 Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
 
+## Protest over census escalates in Manipur amid call to boycott govt institutions
+Meitei groups have been pressing for an NRC to identify undocumented migrants who settled in Manipur after 1951
+
+## 'Legal cockroaches' to protest against Bar Council chairman tomorrow, CJP backs stir
+Protest by 'legal cockroaches' against Bar Council chairman Manan Mishra at 10 am tomorrow
+
 ## Ex-serviceman running Nagpur military school held for sexual abuse of minors: Cops
 Former serviceman who runs a military residential school was arrested for allegedly sexually assaulting, harassing several minor students under the guise of training, police said.
 
@@ -104,12 +110,6 @@ CM Vijay's public works minister, Aadhav Arjuna, had on Tuesday told the Tamil N
 
 ## Night of smoke, darkness, desperate escape: Survivors recount Kolkata hotel fire ordeal
 Among them were several Bangladeshis who had come to Kolkata for business, medical treatment or a holiday.
-
-## NCERT reconstitutes textbook development team for class 11, 12 political science; at least 4 members have RSS links
-The team has been asked to develop the class 11 textbook by November and the class 12 book by July next year.
-
-## DoT to use subscriber photos to enforce nine-SIM limit
-According to the 2012 subscriber verification guidelines issued, an individual can have up to nine mobile connections across all telecom operators
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
@@ -135,6 +135,12 @@ Macau has unveiled a sweeping five-year strategic blueprint to break its long-st
 ## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
+## Ukraine’s War Widows Are Fighting for Money
+Their husbands died defending the country—and now their families are struggling for compensation.
+
+## Can Venezuela’s Opposition Find A Path to Power?
+As Delcy Rodríguez clings to power, dissidents wonder who to trust.
+
 ## U.S. Funding Cuts Fuel Child Recruitment Into Haitian Armed Groups
 “Without USAID support, all you have left is the rule of the ganglord.”
 
@@ -152,12 +158,6 @@ Under Xi, the once-collective gathering has become something else.
 
 ## Five Years on, Washington Is Failing Afghanistan Again
 Despite administration promises, aid cuts are leaving Afghan mothers and children to die.
-
-## Vance Pitches a New Objective for the Iran War
-Simply lowering energy prices for U.S. consumers is “goal No. 1”
-
-## Uganda’s Succession Plan Is Already Underway
-The president’s son is wielding increased power with impunity.
 
 ## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
 Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## India rout Pakistan at Hockey World Cup 2026 to qualify for second round
+India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.
+
+## Seven decades of US regime change efforts: What have they achieved?
+US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.
+
+## Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering
+The Israeli military has announced a criminal investigation into the killing that shook the world.
+
 ## Palestinian refugee and two relatives drown off English coast
 A girl is taken to hospital in critical condition in what PM Burnham calls a 'terrible family tragedy'.
 
@@ -245,15 +254,6 @@ Will Arsenal repeat, could Man Utd win, what about Liverpool? Breaking down the 
 
 ## Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri
 Jose Mourinho is back for a second spell at Real Madrid who, he says, didn't need Barcelona's new signing Rodri.
-
-## Israeli forces mark Palestinians with numbers amid mass arrests
-Palestinian detainees were marked with numbers during a mass Israeli arrest campaign in Qabatiya.
-
-## Why aid entering Gaza may not reach those who need it
-It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.
-
-## War on Iran: Iran allegedly targets the UAE
-After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
