@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Fed’s July minutes revealed growing concerns over elevated inflation
+‘Many’ members of the FOMC thought a rate increase would soon be warranted if inflation remains high
+
+## FirstFT: Moderna’s ‘landmark’ cancer treatment leads to share price surge
+Also in this newsletter: US national debt tops $40tn and China’s Unitree makes trading debut
+
+## Hudson River posts $11.4bn trading windfall as it seizes on market tumult
+Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war
+
 ## Green activist who celebrated Iran’s ‘resistance’ elected to party council
 Eleanora Folan had praised Tehran’s ‘courageous fight against the imperialist dogs’
 
@@ -17,18 +26,6 @@ Payment processor’s largest-ever acquisition is part of broader effort to expa
 
 ## Meet Gregory Fenelon, the (self-declared) $14bn man
 He has big stakes. We have big questions.
-
-## Fed officials express rising concern over persistently high inflation
-Minutes from July central bank meeting show ‘many’ policymakers are prepared to increase borrowing costs
-
-## US Treasury to boost long-term bond purchases in bid to steady market
-Move reflects Washington’s concerns about sharp rise in borrowing costs, investors say
-
-## FirstFT: Moderna’s ‘landmark’ cancer treatment leads to share price surge
-Also in this newsletter: US national debt tops $40tn and China’s Unitree makes trading debut
-
-## Hudson River posts $11.4bn trading windfall as it seizes on market tumult
-Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war
 
 ## BlackRock and Oaktree take keys of top supplier to Hollywood studios
 Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
