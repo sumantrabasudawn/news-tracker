@@ -12,7 +12,7 @@ More sightings of jellyfish-like species have coincided with high ocean temperat
 ## Israel to probe troops over killing of Palestinian child Hind Rajab
 Critics dismiss IDF call for two criminal investigations into notorious Gaza killings — one of which sparked film — as ‘charade’
 
-## Moderna shares double on melanoma vaccine trial success
+## Moderna shares soar over 150% on melanoma vaccine trial success
 Drugmaker’s cancer shot developed with Merck delivers positive outcome in late-stage trial
 
 ## Investigators discover track ‘irregularity’ near site of UK train derailment
@@ -23,6 +23,9 @@ Raid on Ukrainian official’s home came after ousted defence minister launches 
 
 ## Mass expulsion was once a taboo idea in Europe. Then came Maga
 The continent’s far right is embracing the concept of remigration in the Trump era
+
+## Moderna’s cancer shot: exciting for investors, inconclusive for patients
+A glimmer of hope for sufferers, a potential revenue platform for a cash-burner, and a whole heap of unknowns
 
 ## Mike Ashley’s luxury retail empire is going cheap
 The sharp-elbowed billionaire is remaking Frasers with acquisitions including Harvey Nichols, but the stock market remains wary
@@ -36,37 +39,37 @@ Competition and Markets Authority reviews charges added later in buying process
 ## UK software group Pinewood agrees £545mn private equity takeover
 Deal for former Pendragon software division follows rival buyout group Apax’s withdrawal of offer on concerns over AI impact
 
-## FirstFT: Iran weighs Europe strikes if US restarts war
-Also in this newsletter: Trump delays volley of new tariffs on Canada and Hollywood equipment supplier defaults
+## NCLT to hear lessors’ claims against SpiceJet afresh
+Seven petitions to be reheard after Aviator ML withdraws insolvency plea
 
-## Kedia Securities buys 1.48% stake in Zaggle for ₹33 crore
-The shares were acquired at ₹164.72 per share.
+## Symbiotec Pharmalab to raise ₹1,757 cr via IPO
+The IPO will open for subscription on Monday. Bids can be made for a minimum of 15 equity shares and in multiples of 15 shares thereafter
 
-## Only 1 in 15 Indians with active smartphone protection, even as 72% report damage
-Average device prices in India have risen 40–50 per cent in recent years, and the replacement cycle has stretched to approximately 40 months
+## Investors making bigger bets on India’s health supplements sector
+According to Traxcn data, equity funding for supplements companies stood at $70 million for 2026 (YTD)
 
-## Gold, silver prices drop in Delhi as rising crude oil rates, geopolitical worries weigh on bullion
-Gold falls ₹800 to ₹1,58,000/10g; silver slips ₹5,730 to ₹2,35,000/kg
+## Agrograde’s automated onion grading system installed at Pimpalgaon market
+The machine processes up to 10 tonnes of onions per hour and cuts manual labour needs by 80%
 
-## Quick-commerce discounts settle at 19-20% as new entrants eye 1,200-1,500 dark stores
-India’s quick-commerce sector is entering a more disciplined phase, with platforms increasingly balancing growth with profitability even as the entry and expansion of deep-pocketed e-commerce rivals raises the competitive bar
+## Air India Express introduces self-declaration process for psychoactive substance use
+Move aimed at early intervention, employee support and strengthening safety reporting culture
 
-## Dedicated ‘Japan City’ being developed in Uttar Pradesh: CM Adityanath
-He said a push was underway to attract investments in semiconductors, data centres and electronics manufacturing units to the State
+## Responsible AI must expand inclusion, not just efficiency: RBI Deputy Governor Murmu
+At the same time, he warned against excessive reliance on algorithms, emphasising that human judgment remains essential
 
-## Karnataka Bank empanelled as Arranger for HUDCO Capital Gain Bonds
-Karnataka Bank customers can easily subscribe to HUDCO Capital Gain Bonds at the bank’s branches, supported by dedicated relationship management and customer service
+## India International Coffee Festival in Bengaluru from Feb 26
+Hosted by the Coffee Board of India and the Speciality Coffee Association of India, this festival is bringing together everyone from coffee growers and roasters to baristas and enthusiasts
 
-## Novonesis to roll out ₹3,000-crore Maharashtra investment over next 24-36 months
-Danish bio-solutions major Novonesis will begin rolling out its proposed ₹2,500-3,000 crore Maharashtra investment over the next two to three years, expanding its Patalganga manufacturing base
+## IDFC FIRST Bank Successfully Accesses International Debt Capital Markets with Maiden US$500 Million Bond Issuance
 
-## Rajnath, Japan Defence Minister to meet on Thursday
-Two sides likely to discuss co-production of the unified complex radio antenna mast
+
+## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
+Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
 
 ## Received income tax notice under Section 143(3)? What is faceless assessment & how you should respond
 This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.
 
-## ‘Earning billions’: How fuel exporters in India, US are benefitting from war-led oil supply disruptions
+## ‘Earning billions’: How fuel exporters in India, US are benefitting amid war-led oil supply disruptions
 With their own operations unaffected by attacks or shipping restrictions, refineries in India and the US have increased exports to markets that previously depended heavily on supplies from the Middle East and Russia.
 
 ## Trump tariffs fail to dent India's export dependence on US; share stays near 20%
@@ -84,8 +87,14 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
 Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
 
-## Campbell Wilson joins Air New Zealand board as he prepares to exit as Air India CEO
+## DoT to use subscriber photos to enforce nine-SIM limit
+According to the 2012 subscriber verification guidelines issued, an individual can have up to nine mobile connections across all telecom operators
 
+## ‘No one to take him’: Family says Delhi CNG pump worker ‘lay bleeding' for 30 mins after blast
+The family of the staffer, identified as Manish, said they found him bleeding on the ground when they reached the station.
+
+## 5 Bangladeshis among 9 dead in Kolkata hotel fire on Mirza Ghalib St: Officials
+Mirza Ghalib Street and its surrounding areas have numerous hotels that are frequented by Bangladeshi nationals
 
 ## Mud, slush accumulate in Uttarkashi tunnel due to seepage, raise safety concerns
 Water seepage in Uttarakhand’s Tambakhani tunnel has caused mud and slush to accumulate, making passage risky for residents and Gangotri pilgrims.
@@ -101,15 +110,6 @@ The man defended dogs against allegations that they were responsible for an incr
 
 ## What caused the freak gas tank explosion that killed 3 at Delhi CNG station?
 Delhi CNG pump explosion: The three victims were staffers at the CNG station, and one of them was filling the gas tank when it exploded.
-
-## Govt likely to increase random drug testing from 10% to 25% of flight crew
-Last week, Air India said that it will screen all of its pilots for psychoactive substances to ensure stricter discipline.
-
-## Magisterial inquiries ordered into THDC tunnel accident in Chamoli: Official
-The inquiry will examine the safety arrangements at the site and the safety standards being followed during tunnel construction and operations
-
-## Delhi court sends AAP's Satyendar Jain to 14-day judicial custody in Jal Board corruption case
-Satyendar Jain has been arrested by the ACB in an alleged corruption case involving tendering process for sewage treatment plant projects of Delhi Jal Board.
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Palestinian refugee and two relatives drown off English coast
+A girl is taken to hospital in critical condition in what PM Burnham calls a 'terrible family tragedy'.
+
+## Israel numbers Palestinian detainee foreheads: What we know
+Palestinian news outlets reported a man with the number ‘44’ written on his forehead following a raid in Qabatiya.
+
+## Second Ukrainian national arrested over 2022 Nord Stream pipeline blast
+The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.
+
+## Premier League 2026-27 form guide: Title race, prediction, players to watch
+Will Arsenal repeat, could Man Utd win, what about Liverpool? Breaking down the top clubs’ chances for 2026-27 season.
+
 ## Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri
 Jose Mourinho is back for a second spell at Real Madrid who, he says, didn't need Barcelona's new signing Rodri.
 
@@ -242,18 +254,6 @@ It is extremely difficult for trucks to get through the Israeli blockade, let al
 
 ## War on Iran: Iran allegedly targets the UAE
 After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
-
-## Palestinian factions explore broad alliance for November elections
-Hamas, breakaway Fatah faction consider unified electoral list to challenge Mahmoud Abbas as political landscape shifts.
-
-## ICC condemns US sanctions as ‘flagrant attack’ on court’s independence
-The ICC has expressed concern over the Trump administration's campaign.
-
-## US war on Iran puts Cambodian children’s education at risk
-US war on Iran puts Cambodian children’s education at risk
-
-## What’s happening in Lebanon’s ‘pilot zones’?
-Al Jazeera’s Ali Hashem reports on what’s happening in a so-called ‘pilot zone’ in southern Lebanon.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
