@@ -135,6 +135,15 @@ Macau has unveiled a sweeping five-year strategic blueprint to break its long-st
 ## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
+## UAE Joins Global Efforts to Isolate Iran
+Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
+
+## The Taliban’s Next Five Years
+The brutish group has been surprisingly stable since snatching power in 2021. Rockier times may lie ahead.
+
+## Gray-Zone Warfare Picks Easy Targets in Germany
+Political appeasement won’t buy off hostile powers.
+
 ## How Africa Is Battling Climate Extremes
 The effects of the coming “super” El Niño will reach beyond the continent.
 
@@ -149,15 +158,6 @@ Their husbands died defending the country—and now their families are strugglin
 
 ## Can Venezuela’s Opposition Find A Path to Power?
 As Delcy Rodríguez clings to power, dissidents wonder who to trust.
-
-## U.S. Funding Cuts Fuel Child Recruitment Into Haitian Armed Groups
-“Without USAID support, all you have left is the rule of the ganglord.”
-
-## A Rare Window Has Opened for North Korean Diplomacy
-If Trump wants to negotiate, he must stop making denuclearization the price of admission.
-
-## Colby’s Empty Charm Offensive
-U.S. government actions undermined the Trump official’s Southeast Asian tour.
 
 ## Russia’s Fake Missile Test Warning to New Zealand
 With the warning of a yet-to-materialize missile test in the Southern Ocean, is Russia playing an old joke on New Zealand?
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli strike on Gaza City police headquarters kills women’s police chief
+An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.
+
+## Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
+“You can't do anything. Just stand here and watch.” Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.
+
+## Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza
+The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.
+
 ## USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts
 Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
 
@@ -245,15 +254,6 @@ US envoy warns Israel's strike could have sparked direct confrontation with Turk
 
 ## Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
 Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.
-
-## 582 skeletons, including children discovered in Sri Lanka mass grave
-A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.
-
-## Protests in Kyiv back ex-defence minister Fedorov’s call for elections
-Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.
-
-## Violence in the New Syria?
-The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
