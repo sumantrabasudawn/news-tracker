@@ -1,16 +1,16 @@
 # AION Intelligence
 
+## Moderna shares soar 90% on melanoma vaccine trial success
+Drugmaker’s cancer shot being developed with Merck delivered a positive outcome in a late-stage trial
+
+## Investigators discover track ‘irregularity’ near site of UK train derailment
+Officials examine CCTV footage of area around incident in East Sussex that injured 30 people
+
 ## Zelenskyy fires top aide as corruption allegations pile up
 Raid on Ukrainian official’s home came after ousted defence minister launches a blistering attack on wartime president
 
 ## Mass expulsion was once a taboo idea in Europe. Then came Maga
 The continent’s far right is embracing the concept of remigration in the Trump era
-
-## Investigators discover track ‘irregularity’ near site of UK train derailment
-Officials examine CCTV footage of area around incident in East Sussex that injured 30 people
-
-## Moderna share price doubles on melanoma vaccine trial success
-Company’s melanoma cancer vaccine being developed with Merck
 
 ## Target profits double after $1bn tariff refund
 US retailer reports higher sales as net income boosted by Washington’s tariff return programme
@@ -24,6 +24,9 @@ Former employees say Toby Young’s non-profit FSU has aligned with Trump admini
 ## Europe should wish Marco Rubio a bright future
 Americans who support reckless wars are sometimes also the likeliest to defend Europe
 
+## Mike Ashley’s luxury retail empire is going cheap
+The sharp-elbowed billionaire is remaking Frasers with acquisitions including Harvey Nichols, but the stock market remains wary
+
 ## Virgin Atlantic and Trainline investigated over ‘drip pricing’
 Competition and Markets Authority reviews charges added later in buying process
 
@@ -36,32 +39,29 @@ Deal for former Pendragon software division follows rival buyout group Apax’s 
 ## FirstFT: Iran weighs Europe strikes if US restarts war
 Also in this newsletter: Trump delays volley of new tariffs on Canada and Hollywood equipment supplier defaults
 
-## Death stalks the Irish pub
-Requests for Unesco to recognise public houses as part of Ireland’s cultural heritage have fallen flat
+## Notebook imports go up by 5 times in first half
+Domestic industry calls for 10 per cent % safeguard duty to provide a level-playing field
 
-## US envoy Gor signals Kashmir travel advisory review, economic ties in focus
-Gor made the comments after meeting Abdullah in Srinagar during a two-day visit to Jammu and Kashmir and Ladakh.
+## Haragopal appointed NABFINS MD
+Haragopal served as the MD of the Delhi-based NABCONS for over two and a half years
 
-## Nikhil Kamath and Sreeram Vanga invest ₹250 crore in CtrlS Datacenters to enhance India’s digital infrastructure
+## Kerala: DTDC launches ‘Vallam Express’ to deliver parcels to water-bound communities
+The service has initially been launched in Kuttanad, an Alappuzha sub-district comprising 14 villages and serving a population of approximately two lakh people
 
+## Sameera Group to invest ₹300 crore in 10 residential projects across Tamil Nadu
+The projects will be in Trichy, Madurai, Tirunelveli, Vellore, Ranipet, Kanchipuram, Chennai, Krishnagiri, Tiruvannamalai, and Chengalpattu
 
-## Horizon Industrial Parks IPO closes at 1.45x subscription; QIB demand drives overall tally
-IPO receives bids for 36.37 crore shares against 25.13 crore shares offered across all categories
+## Tamil Nadu raises milk procurement price to ₹41/litre
+The increase will cost the State government ₹360-crore a year
 
-## Lalithaa Jewellery IPO Day 3: Issue booked 63x, QIB category leads at 145x
-The ₹1,700 crore IPO, priced at a band of ₹190–201 per share, received bids for approximately 39.52 crore shares against 6.27 crore shares offered across all categories
+## UpTik hits ₹12 crore in monthly lending
+The company’s growth was supported by a strong operating track record
 
-## Sensex, Nifty fall for 7th straight session as rising crude oil prices weigh on sentiment
-Nifty IT becomes sole gainer sectorally, rising 0.4% and snapping a four-day losing streak on value buying and domestic capital rotation
+## Asia fund managers rotate to defensives as AI conviction wavers
+Despite defensive tilt, technology semiconductors and hardware retained the top two positions in sector preference rankings
 
-## Madhur Knit Crafts to raise ₹53 crore via IPO on NSE Emerge
-The company will issue 53.27 lakh equity shares priced between ₹95 and ₹100; The subscription opens Monday, with anchor bidding starting Friday
-
-## Crop protection companies urge Govt to introduce time-bound regulatory data protection
-A time-bound data protection window is the missing incentive to bring newer, safer and lower-dose molecules to Indian farms faster, say Crystal Crop Protection, Rallis India, Dhanuka Agritech, PI Industries and Godrej Agrovet
-
-## Manipal Hospital Millers Road Launches Momstory, Bringing Comprehensive Maternity and Women's Healthcare Under One Roof
-Manipal Hospital Millers Road Launches Momstory, Bringing Comprehensive Maternity and Women's Healthcare Under One Roof
+## Sunshine Pictures IPO opens for subscription today at ₹342-360
+As much as 50% of the net issue is reserved for qualified institutional buyers (QIBs), while 15% is reserved for non-institutional investors (NIIs). Retail investors have been offered 35% of the net issue
 
 ## Received income tax notice under Section 143(3)? What is faceless assessment & how you should respond
 This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.
@@ -87,29 +87,35 @@ Approved by the government and effective from September 1, the benefit will appl
 ## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
 The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
 
+## Govt likely to increase random drug testing from 10% to 25% of flight crew
+Govt likely to increase random drug testing from 10% to 25% of pilots: Sources
+
+## Magisterial inquiries ordered into THDC tunnel accident in Chamoli: Official
+The inquiry will examine the safety arrangements at the site and the safety standards being followed during tunnel construction and operations
+
+## Delhi court sends AAP's Satyendar Jain to 14-day judicial custody in Jal Board corruption case
+Satyendar Jain has been arrested by the ACB in an alleged corruption case involving tendering process for sewage treatment plant projects of Delhi Jal Board.
+
+## Delhi HC refused to entertain petition on scrapping of National Testing Agency
+The petition said there were several discrepancies in the NEET UG re-examination, including tampering of the Optical Mark Recognition (OMR) sheets
+
+## ‘We are Gen Z’ the new ‘jaante nahi mera baap kaun hai’: Omar Abdullah on viral Kargil video of woman
+Omar's reaction came in response to a video in which a woman can purportedly be seen shouting and creating a ruckus at the Minimarg checkpoint in Kargil, Ladakh
+
+## Fuel coupons worth ₹1,000, rain and chaos: Why a ‘petrol langar’ in Chandigarh left people fuming
+An Amritsar-based social worker Rakesh Trehan had reportedly announced ‘petrol langar’ in Chandigarh on August 18, but heavy rains dampened the plans.
+
+## Govt to use GST data to track subcontracting in highway projects: Nitin Gadkari
+Nitin Gadkari says GST records will be used to track subcontracting in highway projects as govt plans rules to limit multiple layers of contractors.
+
 ## Wedding photography drones near Bareilly Air Force station raise safety concerns
 Air Force officials said that bird activity, unauthorised construction and drones were among the major threats to flight safety around the station.
 
-## Kharge pitches for ‘education-to-employment’ roadmap for youth, attacks govt
-Congress president Mallikarjun Kharge said the union government had destroyed the future of students
+## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
+Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
 
-## No caste-based discrimination of devotees at places of worship: Madras High Court
-Madras High Court says devotees cannot face caste-based discrimination at places of worship while hearing a plea over alleged bias at a Kancheepuram temple.
-
-## Tamil Nadu CM Vijay announces ₹3 per litre hike in procurement price of Aavin milk
-CM Vijay said that the gesture will entail the state government an additional expenditure of ₹30 crore per month.
-
-## 248 students rescued from flood-hit school in Odisha after 4 days: Official
-“The students were shifted to the second floor, where they remained safe,” said headmaster Soumendra Das
-
-## Union minister Pralhad Joshi holds review meeting on PM's free online coaching initiative
-Modi had made the announcement during his Independence Day speech last Saturday.
-
-## Review denial of permanent commission to woman Coast Guard officer: SC to Centre
-The Supreme Court gave the Centre two weeks to reconsider denying permanent commission to Coast Guard officer Priyanka Tyagi, calling her an excellent officer.
-
-## Shehzad Poonawalla rules out Congress return, sets cheeky condition involving Gandhi family
-“Having served as the national spokesperson of the world's largest democratic party, do you think I'm going to settle for some other party?" he said.
+## Why the historic US-Japan intervention has failed to lift pressure on the yen
+With a rare joint US-Japan market intervention weeks ago failing to rectify the weakness of the Japanese currency, Tokyo and Washington could be forced to launch another round of boosting efforts, with a deepening US Treasury rout expected to fuel the global yen carry trade, according to analysts. T
 
 ## Making better robots depends on better data capture, Chinese firm 51World says
 The race to develop intelligent humanoid robots faces a major roadblock in a severe shortage of high-quality training data, but Beijing-based tech company 51World believes it has the tools to break the bottleneck. Best known for its digital twin and simulation technology, 51 World on Tuesday unveile
@@ -129,11 +135,8 @@ Macau has unveiled a sweeping five-year strategic blueprint to break its long-st
 ## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
-## Chinese robotaxi firms see eased regulatory bottleneck in Europe as deployment picks up
-The business environment for Chinese robotaxi operators in Europe has become more open over the past year, which would help Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI founder and CEO James Peng. “Compared to last year, there is a clear increase in th
-
-## Capturing tomorrow’s growth through institutional-grade investing
-[The content of this article has been produced by our advertising partner.] High-net-worth individuals (HNWIs) have spent recent years discovering that some of the strongest growth opportunities usually lie outside public markets. Global private market assets under management have already surpassed 
+## A Rare Window Has Opened for North Korean Diplomacy
+If Trump wants to negotiate, he must stop making denuclearization the price of admission.
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
@@ -155,9 +158,6 @@ The president’s son is wielding increased power with impunity.
 
 ## Colby’s ‘Flexible Realism’ Won’t Work in the Indo-Pacific
 Washington’s new strategy is little more than a euphemism for unpredictability.
-
-## Is Trump Choosing North Korea Over South Korea?
-The United States scales back joint military drills with Seoul to appease Pyongyang.
 
 ## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
 Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## In Ukraine, forcible military recruitment efforts escalate into violence
-'Busification', the term describing being captured on the street, is engulfed by abuse and corruption.
+## Why aid entering Gaza may not reach those who need it
+It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.
 
-## Pakistan challenges top court order to move Imran Khan to private hospital
-Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.
+## War on Iran: Iran allegedly targets the UAE
+After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
 
-## Palestinians condemn Israeli step to advance illegal E1 settlement plan
-Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.
+## Palestinian factions explore broad alliance for November elections
+Hamas, breakaway Fatah faction consider unified electoral list to challenge Mahmoud Abbas as political landscape shifts.
 
-## China’s Unitree soars in market debut as investors bet on humanoid robots
-Unitree shares surge as much as 620 percent amid enthusiasm for burgeoning field of human-like robots.
+## ICC condemns US sanctions as ‘flagrant attack’ on court’s independence
+The ICC has expressed concern over the Trump administration's campaign.
 
-## Angelique Kidjo makes history with Hollywood walk of fame star
-Angelique Kidjo makes history with Hollywood walk of fame star
+## US war on Iran puts Cambodian children’s education at risk
+US war on Iran puts Cambodian children’s education at risk
 
-## Humanitarianism is not collapsing. It is being traded and compromised
-This is endangering the lives of humanitarian workers and the vulnerable communities they serve.
+## What’s happening in Lebanon’s ‘pilot zones’?
+Al Jazeera’s Ali Hashem reports on what’s happening in a so-called ‘pilot zone’ in southern Lebanon.
 
-## ‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again?
-Analysts say Trump's attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.
+## Dozens killed after gold mine collapse in Central African Republic
+Rescue operations ongoing after mine collapse kills dozens in the Central African Republic near the Cameroon border.
 
-## Top India court allows passive euthanasia, but few aware of ‘living wills’
-Families of terminally ill patients have little or no awareness or preparedness for what comes next.
+## UAE trade embargo could shut Iran’s key economic escape route: Here’s why
+The UAE announced the embargo, accusing Iran of launching missiles into its territory.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
