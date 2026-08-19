@@ -1,10 +1,16 @@
 # AION Intelligence
 
+## July inflation keeps BoE on course to hold rates in September
+Upward movement in the headline index was driven by energy price cap reset and was expected
+
 ## UK inflation accelerated to 2.9% in July amid Middle East energy shock
-Figure pushes price growth further above BoE target
+Rising energy costs push price growth further above BoE target
 
 ## FirstFT: Iran weighs Europe strikes if US restarts war
 Also in this newsletter: Ukraine wartime election and Europeans’ savings buffers
+
+## Chinese automaker Chery to open UK R&D centre
+Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe
 
 ## Chinese humanoid robot maker surges 600% in trading debut
 Unitree makes stellar start in Shanghai as investors clamour for shares
@@ -18,41 +24,35 @@ Carrion-eaters; pervert glass patent; Spirit’s emails; Musk vs Cards Against H
 ## Singapore unveils tax cuts for asset managers amid global talent tussle
 Move may have wider ramifications than reforms being introduced by Hong Kong
 
-## Venomous sea creatures plague Europe’s warming beaches
-More sightings of Portuguese men o’ war have coincided with high ocean temperatures caused by climate change
+## Virgin Atlantic and Trainline investigated over ‘drip pricing’
+Competition and Markets Authority reviews charges added late in buying process
 
 ## What high streets can learn from the success of retail parks
 Once dominated by sellers of bulky goods, parks now attract high street staples
 
-## China automaker Chery to open UK R&D centre
-Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe
+## Tamil Nadu increases health insurance coverage to ₹25 lakh under CMCHIS
+The State government unveiled a broad healthcare expansion plan covering insurance, medical education, cancer treatment and specialised services for underserved groups.
 
-## Private credit’s mounting strains
-An FT analysis shows stress is spreading across portfolios
-
-## Sensex today | Stock Market Live: Sensex down 250 points, Nifty trades near 24,090; Eternal leads gainers
+## Sensex today | Stock Market Live: Sensex down 300 points, Nifty near 24,050 in choppy trade; Eternal, HCL Tech top gainers
 Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks extended their decline on Wednesday, with the Nifty slipping below 24,100 as weak market breadth kept the near-term outlook bearish. However, the 24,000-23,950 zone remains a crucial support area that could trigger a rebound.
 
-## Maharashtra farmers have an edge in installing solar pumps, says GK Energy CMD
-This is due to the policy drive by the State government as an open category farmers has to bear jst 10% of installation costs, says Gopal Kabra
+## Odisha flood: ₹1,000 crore relief package announced for affected districts
+Heavy rainfall and rising river levels have disrupted life across northern Odisha, prompting intensified rescue, evacuation and relief operations.
 
-## UIDAI completes over 2 crore mandatory biometric updates in Aadhaar for students
-UIDAI special drive completes over 2 crore Mandatory Biometric Updates (MBU) in Aadhaar for School Children, covering around 1.6 lakh schools across the country,” the statement said
+## Hindustan Zinc targets 70% renewable power by FY28
+The company is accelerating its energy transition through renewable power generation, procurement agreements and projects aimed at improving efficiency and sustainability.
 
-## Tamil Nadu announces 365-day maternity leave for third child, raises MLA benefit
-The announcements span employee welfare, support for milk producers, medical education, healthcare infrastructure and expanded access to insurance-funded treatment
-
-## L&T Technology Services bags $75-million deal from global technology major
-The company did not disclose the name of the client, noting that the identity "cannot be disclosed as per the agreement with the client
-
-## Blackstone-backed Horizon Industrial Parks opens on Monday at ₹57-60 price band
-Market lot is 250 shares; company raised ₹1,167.75 crore
-
-## DGCA weighs stricter anti-doping rules after Air India incident
-New provisions on testing and sample requirements under consideration; proposal to go for stakeholder consultation
+## IDFC First Bank raises $500 Mn via maiden 3-yr senior notes
+The private sector bank said the notes carry a fixed coupon of 5.625% and were placed with investors outside the US in Regulation S format.
 
 ## Jassper Shipping to invest $50 million to expand project logistics, bulk cargo operations
 The proposed investment intends to strengthen its capabilities across project logistics, heavy-lift transportation, vessel chartering and multimodal cargo solutions, supporting India’s accelerating infrastructure and industrial expansion
+
+## Symbiotec Pharmalab's ₹1,757 crore IPO to open on August 24
+The IPO will close for subscription on August 27, while bidding by anchor investors will take place on August 21, according to the company's announcement on Wednesday
+
+## Why Meta is being sued by US states in landmark trial
+
 
 ## Price of Middle East conflict: Indian refiners forced to buy oil at premium; Russian discounts vanish
 The surge in available crude following the temporary truce had also increased the discounts offered on Russian and Venezuelan oil. Since then, the discount on Russian crude has largely disappeared, while the price reduction on Venezuelan barrels has narrowed substantially.
@@ -78,32 +78,35 @@ Gold gained around 0.7% last week and extended the move above $4,400 at the star
 ## Stock market today: Sensex, Nifty set for muted opening amid high crude prices
 
 
-## Nirmala Sitharaman's Gen Z outreach: Public sector banks need to be more ‘cool’
-Nirmala Sitharaman has asked public sector banks to launch a month-long ‘Banking for Youth’ campaign starting October.
+## SC to examine probe records of Abhishek Banerjee’s PA days after staying arrest
+The West Bengal Police told the court that Sumit Roy is not cooperating although he has appeared before the investigating officer
 
-## J&K CM Omar Abdullah set for talks with US ambassador Sergio Gor, rules out discussing internal issues
-Omar Abdullah plans to meet US Ambassador Sergio Gor to discuss J&K, saying Kashmir’s internal issues should be resolved by the Centre.
+## At least 44 recruitment exams, including JSSC, JPSC cancelled in Jharkhand amid student protests | Full list
+Tests for recruitment to other posts such as civil judges (junior division), assistant public prosecutors, and dentists also stand cancelled.
 
-## Did some Punjab schools skip Independence Day celebrations? NHRC seeks report
-The complaint focuses on government schools in rural, remote and border areas where Independence Day celebrations were allegedly not held.
+## Miscreants blow up several anti-poaching camps in K'taka
+Miscreants blow up several anti-poaching camps in K'taka
 
-## 9-yr-old girl sexually assaulted, murdered in Pune; neighbour held, govt assures strict action
-9-yr-old girl sexually assaulted, murdered in Pune; neighbour held, govt assures strict action
+## Cook adds detergent, not salt, in Bihar mid-day meal; many students hospitalised
+More than 20 students fell ill after allegedly consuming soybean rice at a government school in Nalanda, with a detergent mix suspected.
 
-## Jharkhand govt cancels 22 exams based on probe findings as protests continue
-The state government postponed six examinations and brought 17 others conducted since 2014 under the scope of investigation
+## ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+Appearing for the government, Solicitor General Tushar Mehta explained to the Supreme Court in detail how the NEET question paper is selected.
 
-## Manipur: Normal life affected in valley districts on 2nd day of strike over NRC demand
-Manipur: Normal life affected in valley districts on 2nd day of strike over NRC demand
+## Amazon fined ₹1 lakh over misleading ‘Ram Mandir Prasad’ sweets listing
+The CCPA noted that devotees would, by default, consider the 'Shri Ram Mandir Ayodhya Prasad' as the food offered to and blessed by the deity.
 
-## ‘Ghosts’, anklet sounds, an ancient tree: What really happened at this Maharashtra hostel that drove out 600+ students
-Some students and locals believed spirits lived in a tree that was cut down by the school management.
+## Andhra CID arrests man for cheating unemployed youth with fake govt job offers
+Andhra CID arrests man for cheating unemployed youth with fake govt job offers
 
-## Dozen protesting Indian students deemed potentially inadmissible to Canada
-About 1,500 students began a demonstration and hunger strike in July 24 against the retroactive rejection of their post-graduation work permits
+## Vijay govt makes U-turn on order barring students from joining Left, CJP-like protests
+Officials had been asked to take “appropriate action” to prevent students and youth from joining protests. The order was withdrawn minutes later.
+
+## Why US may be open to affordable Chinese cars; BYD’s in-vehicle karaoke: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Demand for affordable EVs will force open US market to Chinese models: analysts Consum
 
 ## Chinese robotaxi firms see eased regulatory bottleneck in Europe as deployment picks up
-The business environment for Chinese robotaxi operators in Europe has become more open and friendly over the past year, which would help facilitate Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI founder and CEO James Peng. “Compared to last year, there i
+The business environment for Chinese robotaxi operators in Europe has become more open over the past year, which would help Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI founder and CEO James Peng. “Compared to last year, there is a clear increase in th
 
 ## Capturing tomorrow’s growth through institutional-grade investing
 [The content of this article has been produced by our advertising partner.] High-net-worth individuals (HNWIs) have spent recent years discovering that some of the strongest growth opportunities usually lie outside public markets. Global private market assets under management have already surpassed 
@@ -122,9 +125,6 @@ Shares of Unitree Robotics surged 629 per cent above their initial public offeri
 
 ## Hong Kong tech stocks decline as US bond rout, Iran war stalemate dent sentiment
 Rising US Treasury yields and an impasse in the Middle East conflict drove technology stocks in Hong Kong and mainland China lower on Wednesday, as concerns grew that higher capital costs and a persistent oil shock would squelch equity valuations. The Hang Seng Tech Index slumped 1 per cent as of 10
-
-## Use of yuan hits 6-month high in Hong Kong’s fast-payment system
-Hong Kong’s fast-transfer payments denominated in yuan surged to a six-month high in July, signalling accelerating adoption of real-time cross-border retail payment channels even as mainland Chinese authorities maintain tight controls on capital outflows. Transaction values through Hong Kong’s Faste
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
@@ -174,6 +174,12 @@ Its network is growing, albeit slowly. But this is unlikely to manifest in mass 
 ## Cambodia: From Scam Empire to Security State
 War with Thailand pushed Cambodia to enact a sweeping scam crackdown. Now the ruling elite is leveraging the same crackdown to consolidate its political control.
 
+## Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…
+The Iran war is beginning to resemble the Ukraine war in one important way. Operationally, the wars themselves are still very different — Ukraine is a large-scale ground invasion, while the Iran war is not there just yet. But their political logic after a failure to achieve a quick result is startin
+
+## Proving the Negative: Three Warnings from Arms Control for the Age of AI
+In early 1963, a single number characterized the difference in the positions of the United States and the Soviet Union on a comprehensive nuclear test ban. Nikita Khrushchev had proposed three on-site inspections each year. Washington was asking for seven. Other differences remained, including inspe
+
 ## How Feasible Is a European Nuclear Deterrent Without Washington?
 In 2025, James Cameron wrote, “Eurodeterrent: A Vision for an Anglo-French Nuclear Force,” where he argued the United Kingdom and France should cooperate to develop a nuclear deterrent umbrella for Europe, independent of Washington. A year later, after French President Emmanuel Macron’s landmark nuc
 
@@ -191,12 +197,6 @@ Lt. Gen. (ret.) Francis Beaudette, former commanding general of the U.S. Army Sp
 
 ## Blanchard’s Lathe and the Long Arc of American Manufacturing
 Emerging from the chaos of supplying the U.S. Army during the War of 1812, the War Department sought to foster domestic production of standardized muskets. Out of this industrial project arose an invention that laid the foundation for automation and mass production. Thomas Blanchard’s copying lathe 
-
-## What Have We Learned from the 9/11 Wars? Not Nearly Enough
-Editor’s Note: The following article draws on themes from the author’s forthcoming book titled US Counterterrorism Operations in Afghanistan: Jackpots, Dry Holes, and Collateral Damage.Over the next month, the United States will pass two major historical milestones: the five-year anniversary of its 
-
-## Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk
-Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical infrastructure would be struck. Iranian 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -222,6 +222,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Africa to Australia: Why coal profits are surging during Iran war
+Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.
+
 ## Scaling back US-South Korea drills may fail to woo Kim away from China
 Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.
 
@@ -242,9 +245,6 @@ An attack on a village in Nigeria’s central Plateau state has killed at least 
 
 ## Bali gym owner kicks out three Israeli tourists for links to ‘IDF’
 A gym owner in Indonesia has posted a video on social media explaining why he refused service to three Israeli tourists.
-
-## US unions sue over new visa rule for foreign students, journalists
-New rule caps student and exchange visas to four years, while most journalist visas will be limited to 240 days.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
