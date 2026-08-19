@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## FirstFT: Iran weighs Europe strikes if US restarts war
+Also in this newsletter: Trump delays volley of new tariffs on Canada and Hollywood equipment supplier defaults
+
+## Death stalks the Irish pub
+Requests for Unesco to recognise public houses as part of Ireland’s cultural heritage have fallen flat
+
 ## Feuding Reform fuels Tory party’s faith in a comeback
 Suspension of influential Conservative defector Tim Montgomerie curbs momentum and reduces prospect of a pact with rivals
 
@@ -15,14 +21,8 @@ Unitree makes stellar start in Shanghai as investors clamour for shares
 ## July inflation keeps BoE on course to hold rates in September
 Upward movement in the headline index was driven by energy price cap reset and was expected
 
-## FirstFT: Iran weighs Europe strikes if US restarts war
-Also in this newsletter: Ukraine wartime election and Europeans’ savings buffers
-
 ## Chinese automaker Chery to open UK R&D centre
 Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe
-
-## The defence stocks aren’t defensive
-Rearmament might be a dud
 
 ## Is AI really responsible for recent job cuts?
 More companies are linking lay-offs to workplace efficiencies but evidence is patchy
@@ -36,29 +36,38 @@ Melbourne Storm deal is latest example of private equity investing in sporting t
 ## Virgin Atlantic and Trainline investigated over ‘drip pricing’
 Competition and Markets Authority reviews charges added late in buying process
 
-## Sensex today | Stock Market Live: Indian markets decline for seventh straight session; Nifty loses 2.1% in seven days
-Sensex, Nifty, Share Prices LIVE: Indian equities extended their losing streak on Wednesday as surging crude oil prices and rising global bond yields weakened risk appetite, with the Nifty 50 posting its longest run of daily losses in 11 months.
+## Sensex today | Stock Market Highlights: Indian markets decline for seventh straight session; Nifty loses 2.1% in seven days
+Sensex, Nifty, Share Prices Highlights: Indian equities extended their losing streak on Wednesday as surging crude oil prices and rising global bond yields weakened risk appetite, with the Nifty 50 posting its longest run of daily losses in 11 months.
+
+## Expect to create 6,440 jobs via ₹1,166 crore investment on 2 units in YEIDA: Spark Minda
+The two new units at Sector-10 and Sector-24, YEIDA, extend that same Gautam Buddh Nagar industrial cluster rather than starting a footprint from scratch
+
+## Deputy CM Bhatti Vikramarka asks banks to formulate a Telangana Rising 2047 Banking Roadmap
+Deputy CM seeks timely credit, regional strategies and deeper financial inclusion statewide
+
+## Wizzmoni partners with Oman Air to launch Wizz Voyager multi-currency travel card
+Designed for frequent travellers, the card supports multiple global currencies while delivering a seamless digital forex experience with real-time tracking and smart financial controls
+
+## Rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard
+The rupee closed at 95.7525 per dollar, compared to 95.68 in the previous session
+
+## Gujarat CM on US tour meets Micron, Google, Perplexity CEOs; pitches state as AI, semiconductor hub
+Meetings focus on semiconductors, artificial intelligence, data infrastructure, skilling and potential investments in Gujarat
+
+## EPSRR, Axton Capital in pact to develop F&B concept in Sri Lanka, Oman
+The companies plan to collaborate via J M Robertson & Company Limited, a subsidiary of Axton, to develop and expand F&B concepts in both markets
 
 ## NEET: SC directs Centre to inform about steps taken to implement Radhakrishnan panel recommendations
 Supreme Court bench says NTA reforms must be institutionalised and technological changes are needed for conduct of smooth entrance examinations
 
-## Novo Nordisk tests low-dose Wegovy pill in new weight-loss study
-The study reflects growing interest in lower-dose obesity treatments as patients balance weight-loss benefits, costs and potential side effects
+## Received income tax notice under Section 143(3)? What is faceless assessment & how you should respond
+This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.
 
-## TN CM announces official vehicle, ₹1 lakh allowance for MLAs to address public grievances
-The government will provide ₹75,000 per month for administrative tasks and vehicle maintenance, including fuel and driver costs, and ₹25,000 for hiring a personal assistant for constituency work, the CM said
+## Trump tariffs fail to dent India's export dependence on US; share stays near 20%
 
-## Sitharaman, Goyal in Singapore for talks to deepen trade, investment ties
-Singapore was India’s largest source of foreign direct investment in 2025-26, with inflows of $19.8 billion
 
-## IDFC First Bank raises $500 million via maiden international bond issuance
-The bank, through its IFSC Banking Unit at GIFT City, issued the bonds having a tenure of three years and a fixed coupon of 5.625%
-
-## Micron’s semiconductor plant at Sanand gets Gujarat govt’s first approval for 12-hour work shift
-The Occupational Safety, Health and Working Conditions (OSH) Code, 2020 permits state governments to grant exemptions to factories from certain provisions, subject to prescribed safeguards
-
-## SAP sees India as showcase for AI-led ‘autonomous enterprise economy’
-SAP is expanding its AI ambitions in India, where strong technology talent, innovation and customer adoption offer significant growth opportunities.
+## Russia turns to Asia for refined fuel, set to receive nearly 270,000 tonnes in Aug
+Russia is importing refined fuel from Asian nations this month. Ukrainian attacks on its oil refineries have reduced domestic fuel production significantly. India supplies about one-third of these crucial refined fuel imports. These shipments use ship-to-ship transfers to obscure their origins. Russ
 
 ## Cabinet clears 4 railway multitracking projects worth Rs 9,450 crore across 4 states: Key details
 The Union Cabinet greenlit five significant infrastructure initiatives totaling over thirteen thousand crore rupees. Among these, four railway multitracking projects will extend the network by four hundred ten kilometers, alleviating congestion and enhancing freight transport across various states. 
@@ -75,14 +84,14 @@ Approved by the government and effective from September 1, the benefit will appl
 ## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
 The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
 
-## Price of Middle East conflict: Indian refiners forced to buy oil at premium; Russian discounts vanish
-The surge in available crude following the temporary truce had also increased the discounts offered on Russian and Venezuelan oil. Since then, the discount on Russian crude has largely disappeared, while the price reduction on Venezuelan barrels has narrowed substantially.
+## Uttarakhand: Landslide damages bridge in Pithoragarh, Dharchula-Gunji traffic closed
+A landslide damaged the Kulagad bridge on the Dharchula-Gunji route in Uttarakhand, suspending traffic to the Vyas and Darma valleys.
 
-## Gold edges higher as yields ease, markets await fed minutes amid Iran tensions
+## US envoy Sergio Gor calls J&K ‘important part of India’, says travel advisories will be reconsidered
+Gor made the remarks during his visit to Srinagar, signalling a significant shift in the tone of Washington’s engagement with Jammu and Kashmir.
 
-
-## Shiprocket shares make strong debut: Stock lists at 35% premium over IPO price at Rs 131
-Shiprocket's stock debuted with a robust performance, entering the market at a notable premium. The e-commerce logistics platform experienced high interest from investors during its initial public offering, which was nearly 100 times oversubscribed by diverse investor groups. The proceeds from the I
+## Behind Vijay govt's move to withdraw order barring students from joining Left, CJP-like protests: 'Democratic win'
+The Students’ Federation of India (SFI) called the withdrawal of the circular a victory for democratic rights of students.
 
 ## 'CJI Kant like fatherly figure we can always approach': Newly elected SC bar association chief Pradeep Rai
 CJI Kant also expressed hope that the newly elected SCBA office-bearers would "lead the bar by example"
@@ -99,14 +108,8 @@ According to police, the accused then concealed the survivor’s age by altering
 ## Man falls unconscious near Kerala Lok Bhavan, Governor Arlekar rushes to his aid
 The incident occurred when Governor Rajendra Vishwanath Arlekar was leaving his official residence in his car to participate in Onam-related celebrations.
 
-## Chamoli tunnel incident toll rises to 11 as rescue operations end
-Preliminary assessments suggest that the tunnel was inundated after a rain-saturated aquifer ruptured through the roof of the three-km-long tunnel.
-
-## Four dead, 19 hospitalised after consuming spurious liquor in Gujarat: Police
-Gujarat spurious liquor deaths: Four die, 19 hospitalised in Bhavnagar after allegedly consuming fake liquor; 10 suspected bootleggers detained.
-
-## Gold prices on August 19: Check rate of 22K, 24K in Delhi, Mumbai, Bengaluru
-In Delhi, 24-carat gold was priced at ₹153,759, while 22-carat gold stood at ₹140,843.
+## Prudential Hong Kong expands headquarters across Swire Properties’ towers
+Prudential Hong Kong has agreed to lease headquarters space at Swire Properties’ One Taikoo Place and One Island East, marking a notable expansion of its office footprint in the city, according to the developer. Under the agreement, the insurer will occupy a total of 83,000 sq ft across the two buil
 
 ## Goldman Sachs upbeat on wealth outlook despite worries over China’s tax scrutiny
 Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows. The Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while
@@ -128,9 +131,6 @@ The business environment for Chinese robotaxi operators in Europe has become mor
 
 ## HKEX profit jumps to record high on surging IPOs and turnover, beating market estimates
 Hong Kong Exchanges and Clearing (HKEX) profit jumped to a record amid a boom in initial public offerings (IPOs) and sizzling stock market turnover in the second quarter, according to a stock exchange filing on Wednesday. Quarterly net profit for the operator of Asia’s third-largest stock market soa
-
-## Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement
-The Hong Kong Gold Exchange (HKGX) and TGX Technology have launched a joint venture to build a “secure, stable and internationally competitive” gold trading and clearing platform, as the city pushes to become a gold trading hub. Hong Kong Gold Exchange Trading System (HKGXTS) would draw on technolog
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why White House envoys cannot sway Israel’s war leader
+Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.
+
 ## Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
 India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the two-Test series.
 
@@ -248,9 +251,6 @@ Cars were swept downhill as floodwaters and mudslides tore through northern Chil
 
 ## US pilot lands jet without front wheels after landing gear failure
 US pilot lands jet without front wheels after landing gear failure
-
-## Kelsey Mitchell ties WNBA scoring record in Fever win over Tempo
-The three-time All-Star made history when she registered 20 or more points in a WNBA game for the 20th straight time.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
