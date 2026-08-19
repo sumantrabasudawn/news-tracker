@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## UK inflation accelerated to 2.9% in July amid Middle East energy shock
+Figure pushes price growth further above BoE target
+
+## FirstFT: Iran weighs Europe strikes if US restarts war
+Also in this newsletter: Ukraine wartime election and Europeans’ savings buffers
+
 ## Chinese humanoid robot maker surges 600% in trading debut
 Unitree makes stellar start in Shanghai as investors clamour for shares
 
@@ -18,44 +24,53 @@ More sightings of Portuguese men o’ war have coincided with high ocean tempera
 ## What high streets can learn from the success of retail parks
 Once dominated by sellers of bulky goods, parks now attract high street staples
 
+## China automaker Chery to open UK R&D centre
+Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe
+
 ## Private credit’s mounting strains
 An FT analysis shows stress is spreading across portfolios
 
-## Iran eyes military targets in Europe if Trump escalates war, insiders say
-Proposals to retaliate against US assets beyond the Middle East come as many in Tehran see renewed conflict as inevitable
-
-## Travel eSIM boom threatens mobile industry’s roaming cash cow
-Usage set to rise by a third this year as travellers opt for cheaper alternatives to data roaming charges
-
-## Can Mexicans be weaned off an addiction to cash?
-President Claudia Sheinbaum aims for mass adoption of digital payments to stem tax evasion, corruption and organised crime
-
-## Sensex today | Stock Market Live: Sensex falls 400 points, Nifty trades near 24,000; Powergrid, Coal India lead losers
+## Sensex today | Stock Market Live: Sensex down 250 points, Nifty trades near 24,090; Eternal leads gainers
 Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks extended their decline on Wednesday, with the Nifty slipping below 24,100 as weak market breadth kept the near-term outlook bearish. However, the 24,000-23,950 zone remains a crucial support area that could trigger a rebound.
 
-## Bharat Value Fund bets ₹300 crore for undisclosed stake in Big Mishra Pedha
-The company's revenues have more than doubled to ₹300 crore in FY26 from ₹142 crore in FY22, the statement said, adding that the pre-tax profitability is healthy
+## Maharashtra farmers have an edge in installing solar pumps, says GK Energy CMD
+This is due to the policy drive by the State government as an open category farmers has to bear jst 10% of installation costs, says Gopal Kabra
 
-## Supreme Court orders independent CBI probe into Indiabulls loan transactions
-The Supreme Court has ordered an independent examination of allegations involving loan transactions, fund diversion and other suspected financial irregularities.
+## UIDAI completes over 2 crore mandatory biometric updates in Aadhaar for students
+UIDAI special drive completes over 2 crore Mandatory Biometric Updates (MBU) in Aadhaar for School Children, covering around 1.6 lakh schools across the country,” the statement said
 
-## Hormuz traffic slows as uncertainty over waterway persists
-On Tuesday, US President Donald Trump said no talks were taking place with Iran and insisted ‌the Strait of Hormuz was open, contradicting ​Iran's assertion that it remained shut to shipping
+## Tamil Nadu announces 365-day maternity leave for third child, raises MLA benefit
+The announcements span employee welfare, support for milk producers, medical education, healthcare infrastructure and expanded access to insurance-funded treatment
 
-## Data centres will not affect Visakhapatnam’s water supply: AP Minister Lokesh
-Misinformation was being spread about the environmental and water requirements of data centres, the State’s IT Minister says
+## L&T Technology Services bags $75-million deal from global technology major
+The company did not disclose the name of the client, noting that the identity "cannot be disclosed as per the agreement with the client
 
-## Outgoing Air India CEO Campbell Wilson appointed as Air New Zealand director
-According to a market announcement by Air New Zealand, Wilson has been appointed by the board with effect from the annual meeting and will require shareholder approval
+## Blackstone-backed Horizon Industrial Parks opens on Monday at ₹57-60 price band
+Market lot is 250 shares; company raised ₹1,167.75 crore
 
-## RBI likely intervenes to shield rupee from oil strain, traders say
-The rupee was on track for a ‌quiet open ​and was hovering at 95.70 ⁠on the interbank order matching ‌system before the local spot market opened at 9 a.m. ‌IST
+## DGCA weighs stricter anti-doping rules after Air India incident
+New provisions on testing and sample requirements under consideration; proposal to go for stakeholder consultation
 
-## ICICI Bank shares slip 0.52% in early trade, despite yearly gains
-Analysts have identified ICICI as a top pick among private sector banks, citing an expected 14% EPS compounded annual growth rate over FY26-28, and its top ranking on proprietary liability franchise scorecards
+## Jassper Shipping to invest $50 million to expand project logistics, bulk cargo operations
+The proposed investment intends to strengthen its capabilities across project logistics, heavy-lift transportation, vessel chartering and multimodal cargo solutions, supporting India’s accelerating infrastructure and industrial expansion
+
+## Price of Middle East conflict: Indian refiners forced to buy oil at premium; Russian discounts vanish
+The surge in available crude following the temporary truce had also increased the discounts offered on Russian and Venezuelan oil. Since then, the discount on Russian crude has largely disappeared, while the price reduction on Venezuelan barrels has narrowed substantially.
+
+## Gold edges higher as yields ease, markets await fed minutes amid Iran tensions
+
+
+## Shiprocket shares make strong debut: Stock lists at 35% premium over IPO price at Rs 131
+Shiprocket's stock debuted with a robust performance, entering the market at a notable premium. The e-commerce logistics platform experienced high interest from investors during its initial public offering, which was nearly 100 times oversubscribed by diverse investor groups. The proceeds from the I
+
+## Top stocks to buy today: Stock recommendations for August 19, 2026 - check list
+Stock market recommendations: Bata India, IFCI, and KFin Technologies - these are the top stocks to buy for August 19 2026, identified by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares:
 
 ## How long can the world & India absorb the US-Iran war oil shock?
 In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to pos
+
+## Price prediction today: Will gold rise in near-term? Check today's outlook
+Gold gained around 0.7% last week and extended the move above $4,400 at the start of this week, briefly testing the $4,450 mark, before Tuesday’s global bond selloff pulled prices back toward 4,340-4,360.
 
 ## 394 entities under lens for fund transfer
 
@@ -63,20 +78,17 @@ In its August outlook on oil, US Energy Information Administration estimates tha
 ## Stock market today: Sensex, Nifty set for muted opening amid high crude prices
 
 
-## Require JV with co that has strong local identity: Skoda CEO
+## Nirmala Sitharaman's Gen Z outreach: Public sector banks need to be more ‘cool’
+Nirmala Sitharaman has asked public sector banks to launch a month-long ‘Banking for Youth’ campaign starting October.
 
+## J&K CM Omar Abdullah set for talks with US ambassador Sergio Gor, rules out discussing internal issues
+Omar Abdullah plans to meet US Ambassador Sergio Gor to discuss J&K, saying Kashmir’s internal issues should be resolved by the Centre.
 
-## US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal
-The United States and Canada have agreed to delay significant tariffs on imports. This pause allows both nations more time to negotiate a comprehensive trade agreement. President Donald Trump announced the tariff delay on social media after last-minute talks. The tariffs would have impacted approxim
+## Did some Punjab schools skip Independence Day celebrations? NHRC seeks report
+The complaint focuses on government schools in rural, remote and border areas where Independence Day celebrations were allegedly not held.
 
-## Creditors see 1% recovery in case of personal guarantees
-
-
-## Evaluating offers for luxury hotels in Dubai: ITC Hotels
-
-
-## Sabse bada rupaiya: Rs. banknotes beat $, € in circulation
-
+## 9-yr-old girl sexually assaulted, murdered in Pune; neighbour held, govt assures strict action
+9-yr-old girl sexually assaulted, murdered in Pune; neighbour held, govt assures strict action
 
 ## Jharkhand govt cancels 22 exams based on probe findings as protests continue
 The state government postponed six examinations and brought 17 others conducted since 2014 under the scope of investigation
@@ -90,17 +102,11 @@ Some students and locals believed spirits lived in a tree that was cut down by t
 ## Dozen protesting Indian students deemed potentially inadmissible to Canada
 About 1,500 students began a demonstration and hunger strike in July 24 against the retroactive rejection of their post-graduation work permits
 
-## Began on second floor, only one entry/exit: What to know about Kolkata fire that killed 9
-BJP leader Santosh Pathak also added that the majority of the hotels in Mirza Ghalib street are run illegally.
+## Chinese robotaxi firms see eased regulatory bottleneck in Europe as deployment picks up
+The business environment for Chinese robotaxi operators in Europe has become more open and friendly over the past year, which would help facilitate Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI founder and CEO James Peng. “Compared to last year, there i
 
-## Pakistan flustered by Operation Sindoor movie, army reacts at 2am: 'Tragedy and comedy'
-The Discovery docuseries "Declassified: Operation Sindoor" premiered on August 15.
-
-## ‘Why wearing shorts, don’t know Hindu culture?' Tourists attacked at Pune's Sinhagad Fort
-The incident took place near the samadhi (memorial) of Tanaji Malusare, a military commander and trusted companion of Chhatrapati Shivaji Maharaj.
-
-## ‘Should we praise this brutality?’ Rahul Gandhi slams CJP stir remark by Kiren Rijiju
-Rahul Gandhi slammed Kiren Rijiju's remark. In an ANI interview, Rijiju said, “Not a single person was harmed; not a single person suffered a broken bone."
+## Capturing tomorrow’s growth through institutional-grade investing
+[The content of this article has been produced by our advertising partner.] High-net-worth individuals (HNWIs) have spent recent years discovering that some of the strongest growth opportunities usually lie outside public markets. Global private market assets under management have already surpassed 
 
 ## HKEX profit jumps to record high on surging IPOs and turnover, beating market estimates
 Hong Kong Exchanges and Clearing (HKEX) profit jumped to a record amid a boom in initial public offerings (IPOs) and sizzling stock market turnover in the second quarter, according to a stock exchange filing on Wednesday. Quarterly net profit for the operator of Asia’s third-largest stock market soa
@@ -119,12 +125,6 @@ Rising US Treasury yields and an impasse in the Middle East conflict drove techn
 
 ## Use of yuan hits 6-month high in Hong Kong’s fast-payment system
 Hong Kong’s fast-transfer payments denominated in yuan surged to a six-month high in July, signalling accelerating adoption of real-time cross-border retail payment channels even as mainland Chinese authorities maintain tight controls on capital outflows. Transaction values through Hong Kong’s Faste
-
-## After years, Macau firm opts out of Hong Kong renewal project, seeks US$153m for site
-A North Point redevelopment site is being put on the market for HK$1.2 billion (US$153 million) after its owner, which spent years assembling the ageing property, warned that overhauling the site could result in losses of as much as 30 per cent. The sale offers a rare glimpse into the difficulties f
-
-## Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump
-Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase o
 
 ## Colby’s Empty Charm Offensive
 U.S. government actions undermined the Trump official’s Southeast Asian tour.
@@ -222,6 +222,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Scaling back US-South Korea drills may fail to woo Kim away from China
+Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.
+
+## Ukraine’s ousted defence minister calls for elections during war
+Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion.
+
 ## Lebanon no longer a safe haven for former Syrian regime officials
 Figures connected to the former Syrian regime are still in Lebanon but risk being returned.
 
@@ -239,12 +245,6 @@ A gym owner in Indonesia has posted a video on social media explaining why he re
 
 ## US unions sue over new visa rule for foreign students, journalists
 New rule caps student and exchange visas to four years, while most journalist visas will be limited to 240 days.
-
-## UAE imposes indefinite trade embargo on Iran over alleged missile attacks
-Iran denies launching missiles at the UAE, suggesting the incident was a 'false flag operation'.
-
-## US sanctions International Criminal Court’s president and top lawyer
-The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
