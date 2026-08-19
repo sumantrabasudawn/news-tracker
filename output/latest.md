@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## We need to rethink how we pay for water
+‘Surge pricing’ controversy distracts from the real need to reform charging structures
+
+## The US economy is running hot
+Why a few cool data points probably aren’t a sign of weakening demand
+
 ## FirstFT: Iran weighs Europe strikes if US restarts war
 Also in this newsletter: Trump delays volley of new tariffs on Canada and Hollywood equipment supplier defaults
 
@@ -18,11 +24,8 @@ Rising energy costs push price growth further above BoE target
 ## Chinese humanoid robot maker surges 600% in trading debut
 Unitree makes stellar start in Shanghai as investors clamour for shares
 
-## July inflation keeps BoE on course to hold rates in September
-Upward movement in the headline index was driven by energy price cap reset and was expected
-
-## Chinese automaker Chery to open UK R&D centre
-Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe
+## UK software group Pinewood agrees £545mn PE takeover by Ridgeview
+Deal for former Pendragon software division follows rival buyout group Apax’s withdrawal of offer on concerns over AI impact
 
 ## Is AI really responsible for recent job cuts?
 More companies are linking lay-offs to workplace efficiencies but evidence is patchy
@@ -33,32 +36,29 @@ Danish brewer diversifies away from beer amid global fall in alcohol consumption
 ## Sweden’s EQT buys Australian rugby league club in first sports foray
 Melbourne Storm deal is latest example of private equity investing in sporting teams
 
-## Virgin Atlantic and Trainline investigated over ‘drip pricing’
-Competition and Markets Authority reviews charges added late in buying process
+## Charles Schwab opens India capability centre in Hyderabad, plans 2,000 hires by 2027
+The new facility will strengthen the financial services company’s technology capabilities while adding engineering and operational talent to its global workforce
 
-## Sensex today | Stock Market Highlights: Indian markets decline for seventh straight session; Nifty loses 2.1% in seven days
-Sensex, Nifty, Share Prices Highlights: Indian equities extended their losing streak on Wednesday as surging crude oil prices and rising global bond yields weakened risk appetite, with the Nifty 50 posting its longest run of daily losses in 11 months.
+## InfinityDAO plans $1 billion insurance programme for IDL token ecosystem
+The proposed programme comes as digital-asset platforms increasingly seek stronger governance, risk controls and institutional safeguards to build market credibility.
 
-## Expect to create 6,440 jobs via ₹1,166 crore investment on 2 units in YEIDA: Spark Minda
-The two new units at Sector-10 and Sector-24, YEIDA, extend that same Gautam Buddh Nagar industrial cluster rather than starting a footprint from scratch
+## Nifty fall for seventh straight session; banks, metals drag as crude weighs on sentiment
+Investor sentiment remained fragile as persistent geopolitical tensions, higher oil prices and currency weakness intensified pressure on domestic equities.
 
-## Deputy CM Bhatti Vikramarka asks banks to formulate a Telangana Rising 2047 Banking Roadmap
-Deputy CM seeks timely credit, regional strategies and deeper financial inclusion statewide
+## West Bengal poised for industrial expansion with cluster-led strategy: PHDCCI
+A new industry report highlights manufacturing clusters, export infrastructure and sector-focused investments as key drivers of future growth.
 
-## Wizzmoni partners with Oman Air to launch Wizz Voyager multi-currency travel card
-Designed for frequent travellers, the card supports multiple global currencies while delivering a seamless digital forex experience with real-time tracking and smart financial controls
+## Laser-Guided Renal Artery Angioplasty Successfully Performed on a 60-Year Old Male Patient at Manipal Hospital Dhakuria
+Laser-Guided Renal Artery Angioplasty Successfully Performed on a 60-Year Old Male Patient at Manipal Hospital Dhakuria
 
-## Rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard
-The rupee closed at 95.7525 per dollar, compared to 95.68 in the previous session
+## Exicom Becomes the First Company in India to Manufacture Liquid-Cooled Power Modules for EV Chargers
+Exicom Becomes the First Company in India to Manufacture Liquid-Cooled Power Modules for EV Chargers
 
-## Gujarat CM on US tour meets Micron, Google, Perplexity CEOs; pitches state as AI, semiconductor hub
-Meetings focus on semiconductors, artificial intelligence, data infrastructure, skilling and potential investments in Gujarat
+## SEBI working on easing SME listing framework: Chairman
+The regulator is considering changes to the market-making, underwriting and paid-up capital norms for SMEs
 
-## EPSRR, Axton Capital in pact to develop F&B concept in Sri Lanka, Oman
-The companies plan to collaborate via J M Robertson & Company Limited, a subsidiary of Axton, to develop and expand F&B concepts in both markets
-
-## NEET: SC directs Centre to inform about steps taken to implement Radhakrishnan panel recommendations
-Supreme Court bench says NTA reforms must be institutionalised and technological changes are needed for conduct of smooth entrance examinations
+## Nikhil Kamath, Sreeram Vanga invest ₹250 crore in CtrlS Datacenters
+The capital will aid CtrlS in expanding its infrastructure to meet the rising demand for AI, cloud, and digital workloads across India
 
 ## Received income tax notice under Section 143(3)? What is faceless assessment & how you should respond
 This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.
@@ -84,6 +84,18 @@ Approved by the government and effective from September 1, the benefit will appl
 ## India becomes least-favoured Asian stock market in BofA survey - why fund managers are underweight
 The survey identified the absence of clear exposure to artificial intelligence as the biggest concern for Indian equities, followed by weak economic growth. As many as 32% of respondents were net underweight on India.
 
+## NMC chief calls for quality focus as India expands medical education
+NMC chief Abhijat Sheth says India’s rapid medical education expansion must not compromise quality, competency and standards.
+
+## Foreigner dies during police questioning after fire extinguisher brawl in train at Surat station; probe on
+The foreign national was deboarded at Surat station after co-passengers contacted the railway helpline and reported the brawl.
+
+## Two Mumbai doctors who kept Jinnah's illness secret to get Pakistan's highest civilian honour
+The doctors – physician Dr Jal Ratanji Patel and radiologist Dr Jal Dhaybho-Koo – have been nominated by Islamabad for the Nishan-e-Imtiaz award.
+
+## Cancer drugs provided under Rajasthan govt scheme sold in black market; probe ordered
+Health minister Gajendra Singh Khinvsar said black marketing or unauthorised sale of costly life-saving medicines would not be tolerated
+
 ## Uttarakhand: Landslide damages bridge in Pithoragarh, Dharchula-Gunji traffic closed
 A landslide damaged the Kulagad bridge on the Dharchula-Gunji route in Uttarakhand, suspending traffic to the Vyas and Darma valleys.
 
@@ -95,18 +107,6 @@ The Students’ Federation of India (SFI) called the withdrawal of the circular 
 
 ## 'CJI Kant like fatherly figure we can always approach': Newly elected SC bar association chief Pradeep Rai
 CJI Kant also expressed hope that the newly elected SCBA office-bearers would "lead the bar by example"
-
-## Rocket launchers linked to terrorists being destroyed in Delhi: Report
-The rocket launchers were part of the cache recovered in Manipur and were reportedly brought to Delhi for examination and disposal.
-
-## German woman sexually harassed at Indore’s Gandhi Hall, security guard held: Police
-A 35-year-old German woman was allegedly sexually harassed at Indore’s Gandhi Hall by a security guard, who was arrested after she filed a complaint.
-
-## Chhattisgarh man rapes 16-yr-old daughter, sells her son for ₹1.5 lakh: Cop
-According to police, the accused then concealed the survivor’s age by altering her Aadhaar card details
-
-## Man falls unconscious near Kerala Lok Bhavan, Governor Arlekar rushes to his aid
-The incident occurred when Governor Rajendra Vishwanath Arlekar was leaving his official residence in his car to participate in Onam-related celebrations.
 
 ## Prudential Hong Kong expands headquarters across Swire Properties’ towers
 Prudential Hong Kong has agreed to lease headquarters space at Swire Properties’ One Taikoo Place and One Island East, marking a notable expansion of its office footprint in the city, according to the developer. Under the agreement, the insurer will occupy a total of 83,000 sq ft across the two buil
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Top India court allows passive euthanasia, but few aware of ‘living wills’
+Families of terminally ill patients have little or no awareness or preparedness for what comes next.
+
 ## Why White House envoys cannot sway Israel’s war leader
 Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.
 
@@ -248,9 +251,6 @@ Second trial claims Diego Maradona's doctors missed crucial warning signs before
 
 ## Cars swept downhill as flash floods hit northern Chile
 Cars were swept downhill as floodwaters and mudslides tore through northern Chile.
-
-## US pilot lands jet without front wheels after landing gear failure
-US pilot lands jet without front wheels after landing gear failure
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
