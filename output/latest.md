@@ -24,6 +24,12 @@ Minutes from July central bank meeting show ‘many’ policymakers are prepared
 ## US Treasury to boost long-term bond purchases in bid to steady market
 Move reflects Washington’s concerns about sharp rise in borrowing costs, investors say
 
+## FirstFT: Moderna’s ‘landmark’ cancer treatment leads to share price surge
+Also in this newsletter: US national debt tops $40tn and China’s Unitree makes trading debut
+
+## Hudson River posts $11.4bn trading windfall as it seizes on market tumult
+Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war
+
 ## BlackRock and Oaktree take keys of top supplier to Hollywood studios
 Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
 
@@ -32,12 +38,6 @@ Competition and Markets Authority reviews charges added later in buying process
 
 ## Private credit risks remain at large
 Regulators and investors should pay attention to the strain in the direct loan market
-
-## Don’t mess up London’s knowledge economy
-Oxford, Cambridge and Manchester are seen as innovation powerhouses but there’s a city we don’t mention
-
-## Grain prices surge as Ukraine war chokes off Black Sea ports
-Analysts fear global food price shock if attacks on terminals and ships continue
 
 ## Samsung positioned to lead market sales with chipmaking price hike
 Chipset-led price hikes and affordability concerns are making consumers increasingly dependent on promotional offers, keeping the smartphone market under pressure
