@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Who is really buying China’s humanoid robots?
+Companies are selling machines to government-backed centres that then sell training data back to robot makers
+
+## North Korea dismisses Trump overture
+Kim Jong Un’s sister casts doubt on claim there has been communication between Pyongyang and Washington
+
+## Trump proposed reviving the Keystone XL pipeline. Does Canada still want it?
+The bilateral relationship has soured significantly since the project was first proposed two decades ago
+
 ## Fed’s July minutes revealed growing concerns over elevated inflation
 ‘Many’ members of the FOMC thought a rate increase would soon be warranted if inflation remains high
 
@@ -18,9 +27,6 @@ Public spending surges despite Donald Trump’s vow to stabilise America’s pub
 ## Moderna shares nearly triple on skin cancer vaccine success
 Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
 
-## Zelenskyy fires top aide as corruption allegations pile up
-Raid on Ukrainian official’s home came after ousted defence minister launches a blistering attack on wartime president
-
 ## Stripe to buy start-up OpenRouter in $8bn deal
 Payment processor’s largest-ever acquisition is part of broader effort to expand into AI economy
 
@@ -30,11 +36,20 @@ He has big stakes. We have big questions.
 ## BlackRock and Oaktree take keys of top supplier to Hollywood studios
 Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
 
-## Virgin Atlantic and Trainline investigated over ‘drip pricing’
-Competition and Markets Authority reviews charges added later in buying process
+## Sensex today | Stock Market Live: 18 stocks including BSE, LIC, HDFC Bank, Aditya Infotech, Ramco Systems, Titagarh Rail will be in focus today
+Sensex, Nifty, Share Prices Live: Asian stocks rose as pressure from the bond market eased after the US Treasury unveiled plans to buy back longer-dated debt to curb borrowing costs. Treasuries held their gains, while the dollar steadied after falling to a three-month low.
 
-## Private credit risks remain at large
-Regulators and investors should pay attention to the strain in the direct loan market
+## All you need to know about Tempsens Instruments (India) IPO that opens today
+The ₹650-crore IPO of Tempsens Instruments will remain open until August 24; price band set at ₹285-300, with shares offered in a lot size of 50.
+
+## OpenAI to enhance safety processes for paid tool customers
+
+
+## Zinnov Awards 2026 Recognise GCCs Shaping Enterprise Outcomes in the AI Era
+Zinnov Awards 2026 Recognise GCCs Shaping Enterprise Outcomes in the AI Era
+
+## 18 stocks including BSE, LIC, HDFC Bank, Aditya Infotech, Ramco Systems, Titagarh Rail, Gravita, Strides, Dr Lal Path in focus today
+Focus will also be on Autoline, Tata Motors, NIS, Quint Digital, HEG, Cellar Gadgets, Ceigall, EMS, Mukund
 
 ## Trump warns countries supporting Iran of ‘tremendous’ economic consequences
 The warning signals a possible expansion of Washington’s pressure campaign against Tehran beyond direct measures targeting Iran itself
@@ -45,20 +60,8 @@ The move could restore financial support to eligible pensioners previously exclu
 ## DoT directs telcos to deny new SIMs to subscribers with nine connections
 Telecom users seeking additional mobile numbers will face tighter checks as the government moves to enforce the existing limit more strictly
 
-## TPG sells 6.66% stake in Aster DM Quality Care for ₹4,451 crore
-The large block transaction reshaped the hospital operator’s shareholder base, with institutional investors emerging as significant buyers of the shares
-
-## Indo National launches Nippo Airvue, targets ₹100 crore revenue by FY30
-The Nippo brand is expanding beyond batteries as Indo National seeks new growth opportunities in technology-led home and consumer solutions.
-
-## Moderna, Merck breakthrough could usher in a wave of cancer vaccines
-The encouraging results could reshape cancer treatment by enabling doctors to target tumour-specific mutations while limiting exposure to healthy cells
-
-## AWS announces new Builder Loft in Hyderabad to boost developer community
-Amazon Web Services sets sights on Hyderabad, unveiling a dedicated space for Indian developers to collaborate, upskill, and build groundbreaking technology
-
-## Trump picks White House health aide Dr Heidi Overton to lead FDA
-Dr Heidi Overton faces Senate scrutiny and multiple challenges as President Trump’s pick to head the FDA, succeeding Dr Marty Makary
+## Oil price today: Crude remains above $90 as Hormuz operations remain disrupted
+Oil prices have settled at elevated levels, staying above ninety dollars per barrel. Investors are weighing the unpredictable US-Iran situation and the potential impacts on shipping routes through the Strait of Hormuz. While intermittent Middle East assaults bolster market sentiment, the absence of 
 
 ## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
 Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
@@ -81,32 +84,32 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## Stock market today: Markets end in red as Sensex slips 326 points, Nifty falls 0.32%
 
 
-## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
-Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
+## NTA tightens vetting rules for subject experts after sacking 600 amid exam row
+The new requirements come a day after the NTA, on Tuesday, removed 600 subject experts as part of a rehaul of its examination system.
+
+## Mahatma Gandhi's great-grandson meets Abhijeet Dipke, says Gen Z adopted Bapu's values
+Speaking to reporters, Dipke stated that support from Gandhi's family shows that the movement was and will remain peaceful and non-violent.
+
+## CJP protest LIVE: When and where will ‘cockroaches’ seek Bar Council chair Manan Mishra's resignation today?
+CJP protest LIVE: ‘Legal cockroaches’ will hold a protest against Bar Council of India (BCI) chairman Manan Mishra at 10am today, Cockroach Janta Party (CJP) co-convenor Saurav Das announced on Wednesday.
+
+## Congress to expand outreach to students, Ram Temple Trust protests
+The CWC decided to expand Rahul Gandhi’s student outreach to 800 towns and take up Vande Mataram and Ram temple donation issues
+
+## Jharkhand students pause stir for 60 days after exams cancelled
+The Hemant Soren-led state government announced the cancellation of 22 exams and ordered a probe into 23 others conducted by the JPSC and JSSC.
+
+## US ambassador calls J&K ‘important part of India’, Pak summons top diplomat to register protest
+Sergio Gor, the first US ambassador to travel to Jammu and Kashmir in six years, made the remarks after a meeting with chief minister Omar Abdullah.
+
+## ‘Economic D-Day’: Trump threatens ‘tremendous consequences’ for ‘any country’ helping Iran
+US President Donald Trump said he was launching a major new campaign to target Iran's economy.
 
 ## Supreme Court asks NTA where things stand on 2024 exam reforms plan
 The Supreme Court stressed on the need to institutionalise the NTA and equip it with the adequate manpower required to run a unified national testing agency.
 
-## Confusion at Arunachal Pradesh arises as border with China not demarcated: Kiren Rijiju
-Kiren Rijiju trashed reports of Chinese encroachment 60km into Arunachal Pradesh and spoke of “confusion” due to lack of clear demarcation.
-
-## India, Palestine sign 2 MoUs in development cooperation; 200-bed hospital, training centre to be set up
-India and Palestine signed pacts for a 200-bed super-speciality hospital and vocational training centre, while India reaffirmed support for Palestine.
-
-## Forest officers' body defends foresters involved in firing incident
-Forest officers' body defends foresters involved in firing incident
-
-## 35 Bihar students hospitalised after detergent allegedly mistaken for salt in mid-day meal
-Bihar rural development minister Shravan Kumar visited the hospital and met the affected students, promising a detailed inquiry.
-
-## Manipur shuts all educational institutions from Aug 20 to 23 amid unrest
-Manipur has ordered all schools, colleges and universities shut from August 20 to 23, citing the prevailing law and order situation amid a JFD shutdown.
-
-## Class 10 student stabs principal 27 times after getting caught stealing money in Telangana
-Police said the boy had planned to steal from the principal's house. But, as she identified him during the theft, he killed her in fear of police complaint.
-
-## 'Good sense prevails': CJP after Tamil Nadu CM Vijay's govt withdraws order against student protest
-As per the now-withdrawn order, officials were asked to take “appropriate coordinated action” to prevent students and youth from joining such protests.
+## China’s Mech-Mind Robotics set to open order book for US$300m IPO, sources say
+China’s Mech-Mind Robotics Technologies plans to start taking investor orders for its Hong Kong initial public offering (IPO) as soon as next week amid a boom in artificial intelligence-driven robotics that has lifted investor enthusiasm, according to people familiar with the matter. The Meituan-bac
 
 ## AIA first-half profit up 11%, driven by strong growth in Hong Kong and Asia sales
 AIA Group, Asia’s largest independent publicly listed life insurance group, reported 11 per cent growth in first-half operating profit, driven by strong growth of Hong Kong and mainland China sales and expansion in Southeast Asian markets. Operating profit after tax on a constant currency basis reac
@@ -128,9 +131,6 @@ Goldman Sachs has remained upbeat about offshore wealth management despite conce
 
 ## China fund managers stick with AI, chips in August despite July sell-off, survey finds
 Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificial intelligence and chips remained China’s most preferred investment themes in August, while more investors moved to hedge tech exposure, according to a survey by BofA Global Resear
-
-## Macau bets on financial services, fintech to drive economic diversification
-Macau has unveiled a sweeping five-year strategic blueprint to break its long-standing dependence on casino revenues by pivoting towards modern financial services, digital currency adoption and deeper economic integration with mainland China. Under its third five-year plan for economic and social de
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -156,6 +156,15 @@ Their husbands died defending the country—and now their families are strugglin
 ## Can Venezuela’s Opposition Find A Path to Power?
 As Delcy Rodríguez clings to power, dissidents wonder who to trust.
 
+## Putin’s Visit to Disputed Island Exacerbates Japan-Russia Tensions
+The Kuril Islands/Northern Territories have been a constant thorn in Japan-Russia relations. Putin just made it worse.
+
+## US ICC Sanctions Pose a Test for Japan
+Japan’s only treaty ally sanctioned the ICC president – who happens to be a Japanese national. That embodies Japan’s rule-of-law conundrum.
+
+## Why Has Pakistan’s Jailed Former PM Imran Khan Been Shifted to Hospital Now?
+Lowering political temperatures and exploring limited dialogue have become a priority for the Pakistani government.
+
 ## Russia’s Fake Missile Test Warning to New Zealand
 With the warning of a yet-to-materialize missile test in the Southern Ocean, is Russia playing an old joke on New Zealand?
 
@@ -170,15 +179,6 @@ Xi’s commemoration of Jiang was ultimately less an exercise in historical reme
 
 ## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
 Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
-
-## ‘Tortured and Shot’: Survivors Recall Massacre of 70 Men by Myanmar Military in 2024
-Soldiers told survivors that the massacre in Byain Phyu was retaliation for the defeat and casualties the military suffered at the hands of the Arakan Army in the Battle for Kyauktaw.
-
-## South Korea’s Nuclear Dilemma
-The debate over acquiring nuclear weapons continues in Seoul.
-
-## Kyrgyzstan Liquidates More Companies Over Sanctions Risks
-19 more companies have been ordered to close down, and more than 140 have been cut off by their state-owned banking partners.
 
 ## Inside Iran’s Wartime Regime
 Afshon Ostovar, one of the leading experts on Iran and the host of the members-only podcast The Iran Reckoning, is joined by War on the Rocks membership editor Kerry Anderson for a state-of-play conversation on the conflict between the United States and Iran. They consider why the fighting has settl
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
+
+## Bodycam captures police team falling when deck collapses in Missouri
+Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.
+
 ## Publisher of US military newspaper resigns over differences with government
 Retirement of longtime Stars and Stripes publisher comes amid the Trump administration's push for editorial control.
 
@@ -245,12 +251,6 @@ Trump says Washington may resume talks with Tehran 'at some point'.
 
 ## US national debt passes record $40 trillion
 The amount has doubled in the last decade, from Trump's first term through the Biden administration.
-
-## ‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother
-The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.
-
-## Kosovo finds remains of at least 23 people in suspected mass graves
-The discovery is part of Kosovo’s long-running effort to find people who disappeared during a brutal war in the 1990s.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
