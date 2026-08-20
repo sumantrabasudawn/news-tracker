@@ -1,60 +1,60 @@
 # AION Intelligence
 
-## ‘How bad can it be?’ Chinese animated film becomes viral sensation
-Low-budget production from mother-and-son team proves unlikely hit with cinemagoers and social media users
+## China hits out at EU probe into JD.com bid for German retailer
+Beijing may ‘resolutely retaliate’ over probe into Ceconomy offer, says justice ministry
 
-## The box that built globalisation
-Containers have transformed ports, cities and trade. Now the revolution is reaching a limit
+## Private equity’s escapades in the legal market
+Charlesbank is in advanced talks to acquire a stake in law firm WSHB, one of private equity’s largest forays into the US legal sector
 
-## Who is really buying China’s humanoid robots?
-Companies are selling machines to government-backed centres that then sell training data back to robot makers
+## Demand for tankers soars as Gulf oil producers search for ways to export cargoes
+Oil-exporting countries looking to secure their own fleets are driving prices, particularly for readily available vessels
 
-## North Korea dismisses Trump overture
-Kim Jong Un’s sister casts doubt on claim there has been communication between Pyongyang and Washington
+## Internet age checks have boosted rogue adult sites, says Pornhub
+UK’s biggest porn website lobbies MPs for changes to flagship Online Safety Act
 
-## Trump proposed reviving the Keystone XL pipeline. Does Canada still want it?
-The bilateral relationship has soured significantly since the project was first proposed two decades ago
+## Exorbitant hotel prices are here to stay
+Across the travel industry, the expensive option is outperforming the ordinary one
 
-## Fed’s July minutes revealed growing concerns over elevated inflation
-‘Many’ members of the FOMC thought a rate increase would soon be warranted if inflation remains high
+## UK finally showing signs of productivity boost, say economists
+Better output figures are a fillip to chancellor John Healey and come after years of underperformance
 
-## FirstFT: Moderna’s ‘landmark’ cancer treatment leads to share price surge
-Also in this newsletter: US national debt tops $40tn and China’s Unitree makes trading debut
+## Two-thirds of UK students run out of money before the end of term
+Undergraduates say they are missing social events and missing meals to make ends meet
 
-## Hudson River posts $11.4bn trading windfall as it seizes on market tumult
-Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war
+## Will Barclays’ latest Wall Street reset finally work?
+Investment bank’s seventh co-CEO in four years expected to face same restrictions as predecessors
 
-## Moderna shares nearly triple on skin cancer vaccine success
-Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
+## Premier League summer transfer spending set to break record
+The €2.7bn spent so far by English clubs exceeds outlay of top teams in Italy, Spain and Germany combined
 
-## Stripe to buy start-up OpenRouter in $8bn deal
-Payment processor’s largest-ever acquisition is part of broader effort to expand into AI economy
+## Blood clot discovery upends consensus about how wounds heal
+Proteins stack up in layers like sheets of paper to start to form clots, scientists find
 
-## Sensex today | Stock Market Live: Sensex, Nifty set for positive opening after seven-session losing streak as global markets rally, Treasury yields ease
-Sensex, Nifty, Share Prices Live: GIFT Nifty futures were at 24,241 points, as of 7:56 am, indicating a ‌positive start for the benchmark Nifty 50 index, which closed at 24,078.3 on ‌Wednesday.
+## Crude oil price: Futures rise as UAE suspends economic ties with Iran
+October Brent oil futures at $91.92, up by 0.33%; October crude oil futures on West Texas Intermediate at $84.57, up by 0.21%
+
+## Nifty snaps seven-session losing streak; IT leads gains as bond yield relief lifts sentiment
+The rally was triggered largely by an overnight recovery on Wall Street after the US Treasury announced it would double long-duration bond buybacks to at least $4 billion per operation
+
+## Sensex today | Stock Market Live: Sensex jumps 500 pts at open, Nifty near 24,200 as global markets rally, Treasury yields ease
+Sensex, Nifty, Share Prices Live: Sensex traded 538.01 pts or 0.70% higher at 77,447.69 at 9.16 am after opening at 77,468.45 from the previous close of 76,909.68. Nifty 50 gained 132.15 pts or 0.55% to 24,210.45.
+
+## Innovation, design, global branding key to taking gems & jewellery exports to $100 bn: Commerce Secy
+‘India's strength lies in its vast pool of skilled craftspeople. Greater wealth creation would come from design, innovation and global branding rather than basic manufacturing’
+
+## TN CM calls on Amit Shah, meeting of southern CMs to deliberate key issues
+Andhra Pradesh CM N Chandrababu Naidu, Telangana Dy CM Mallu Bhatti Vikramarka, the Chief Ministers of Keralam and Karnataka, DK Shivakumar and VD Satheesan, respectively, are set to take part in the talks
+
+## Musk's Starlink reapplies for India’s approval of satellite network: Reports
+Starlink provides direct-to-device ‌connectivity services using its constellation of satellites
+
+## Eastern Railway's ongoing capacity expansion involves ₹12,000 crore investment
+Of the total investment, around ₹10,000 crore is being spent on 563 km of line expansion, while another ₹2,000 crore is being invested in 10 bypass projects
 
 ## Indian banks raise $4 bn by issuing global bonds, trend to continue: Report
 The money has been raised between June 16 and August 13
 
-## SEBI bets on trading reforms to reverse foreign capital flight
-Regulator plans rollout within nine months, sources say; Aims to widen stock lending, ease short-selling in cash equities
-
-## Selloff likely for India bonds on RBI's rate hike mention in policy minutes
-The ⁠yield on the benchmark 6.94% 2036 bond is expected to trade between 6.80% and 6.85%, private bank trader says
-
-## Sensex, Nifty set to open higher as global bond markets steady
-GIFT Nifty futures were at 24,241 points, as of 7:56 am, indicating a ‌positive start for the benchmark Nifty 50 index, which closed at 24,078.3 on ‌Wednesday.
-
-## All you need to know about Tempsens Instruments (India) IPO that opens today
-The ₹650-crore IPO of Tempsens Instruments will remain open until August 24; price band set at ₹285-300, with shares offered in a lot size of 50.
-
-## OpenAI to enhance safety processes for paid tool customers
-
-
-## Zinnov Awards 2026 Recognise GCCs Shaping Enterprise Outcomes in the AI Era
-Zinnov Awards 2026 Recognise GCCs Shaping Enterprise Outcomes in the AI Era
-
-## Stock market today: GIFT Nifty signals positive start for Sensex and Nifty 50
+## Stock market today: BSE Sensex jumps over 550 points, NSE Nifty 50 opens above 24,200
 
 
 ## Looking to allow global fund management from India: Sebi chief Tuhin Kanta Pandey
@@ -78,29 +78,32 @@ This article explains what faceless scrutiny is. How does it work? Why are notic
 ## ‘Earning billions’: How fuel exporters in India, US are benefitting amid war-led oil supply disruptions
 With their own operations unaffected by attacks or shipping restrictions, refineries in India and the US have increased exports to markets that previously depended heavily on supplies from the Middle East and Russia.
 
+## ‘Manan, it’s done bro’: Under one month of ending Delhi protest, why CJP is seeking another resignation
+The All India Young Advocates Association called for the protest against BCI chairman Manan Mishra, and CJP leaders have extended their support.
+
+## Foreigner dies in RPF custody at Surat railway station
+According to police, after the train left Vapi station, he got into an argument with passengers over standing near the coach door
+
+## Meghalaya student rally degenerates into violence; vehicles set ablaze
+The Khasi Students’ Union organised the rally as it stepped up its agitation against the state government’s indifferent attitude
+
+## Supreme Court seeks clarity on exam reform committee's role amid NEET paper leak
+The Supreme Court asked the Centre to place on record whether the Nilekani panel had modified or “nuanced” the recommendations of the K Radhakrishnan committee.
+
+## In war on drugs, NCB to focus on foreigners involved in trafficking
+NCB will coordinate with state forces for a crackdown on illegally staying foreigners allegedly involved in drug trafficking
+
+## SC’s nine-judge bench verdict today on what constitutes an ‘industry’
+The ruling had far-reaching consequences, bringing several activities outside the conventional commercial or industrial sphere within the ambit of the Industrial Disputes Act
+
 ## NCERT reconstitutes Class 11, 12 political science textbook team; four members have RSS, ABVP links
 The 20-member Textbook Development Team includes four members with documented links to the RSS, its student affiliate ABVP, or Sangh-affiliated organisations.
 
 ## US body opposes Mohan Bhagwat’s visit this month, seeks sanctions on RSS members over religious freedom
 USCIRF stated that the US government should focus on imposing sanctions on RSS members found guilty of violating religious freedoms.
 
-## Will fight allegations legally and politically: Riyas after ED raids
-CPI(M) MLA and former Kerala public works minister PA Mohammed Riyas on Wednesday said that he would fight the Directorate of Enforcement (ED)’s actions legally and politically, a day after the agency raided premises linked to his close associates in Kozhikode
-
-## Techie seeks approver status in KR Puram triple murder case
-Bengaluru The KR Puram triple murder investigation has taken a fresh turn with accused Shwetha Somasundar approaching the 29th (Additional Chief Judicial Magistrate) ACJM court to file confession statement, officials said on Wednesday
-
-## ‘He will not resign’: Cong backs min Nagendra over fund fraud
-The Congress government in Karnataka took a firm stand to back minister B Nagendra over his alleged involvement in the multi crore rupee embezzlement in the Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation (KMVSTDC), stating that no court of law had convicted him, even as the Bhar
-
-## BC Nagesh’s last rites to be performed today
-Bidar: BidarTributes poured in for senior BJP leader and former minister B C Nagesh, who died on Tuesday due to chronic health issues
-
-## Govt to constitute SIT to probe fake medicine network: Min
-Bengaluru: The Karnataka government has decided to constitute a special investigation team (SIT) to probe the suspected network involved in manufacturing and distributing counterfeit medicines and branded pharmaceutical products, health minister U T Khader said on Wednesday
-
-## Kolkata hotel fire: B’deshi journalist, kin had come for treatment
-A Bangladeshi journalist, his wife, their young son and his father-in-law were among nine people killed in the fire at Hotel Shikha Inn in central Kolkata on Wednesday
+## China Evergrande founder Hui Ka-yan sentenced to life imprisonment
+A court in Shenzhen has sentenced China Evergrande Group founder Hui Ka-yan, also known as Xu Jiayin, to life imprisonment for “multiple combined crimes”, confiscating all Hui’s personal property. More to follow...
 
 ## IPO queen Pamela Chung says headway needed for initial public offering connect scheme
 Hong Kong is seeing an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO & Share Registry Services, who says the scheme would allow mainland investors access to initial public offerings (IPOs) in Ho
@@ -122,9 +125,6 @@ The race to develop intelligent humanoid robots faces a major roadblock in a sev
 
 ## Prudential Hong Kong expands headquarters across Swire Properties’ towers
 Prudential Hong Kong has agreed to lease headquarters space at Swire Properties’ One Taikoo Place and One Island East, marking a notable expansion of its office footprint in the city, according to the developer. Under the agreement, the insurer will occupy a total of 83,000 sq ft across the two buil
-
-## Goldman Sachs upbeat on wealth outlook despite worries over China’s tax scrutiny
-Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows. The Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -222,7 +222,7 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home
+## Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections
 At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.
 
 ## Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
