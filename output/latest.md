@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Russia launches deadly missile and drone attacks on Kyiv
+At least 16 killed as Ukraine struggles with a shortage of Patriot interceptor missiles
+
+## GCSE results show worsening pass rates among students who resit
+Overall gap in outcomes for boys and girls in UK falls to the lowest since at least 2000
+
 ## Zack Polanski remade the Greens — but at the risk of a backlash
 Controversial election of Eleanora Folan to governing council points to party’s electoral vulnerability
 
@@ -8,9 +14,6 @@ UAE, long a crucial trading hub for Tehran, has also suspended commercial ties
 
 ## Taiwan proposes record defence budget to resist China pressure
 President Lai Ching-te outlines military spending plans above 3% of GDP despite opposition resistance
-
-## Russian missile attack kills at least 13 in Kyiv
-Strikes come as Ukraine struggles with a shortage of Patriot interceptor missiles
 
 ## Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray
 Former chief of staff to previous PM describes onslaught of negative briefings and says Starmer ‘lacked vision’
@@ -21,47 +24,47 @@ The inside story on the Asia tech trends that matter, from Nikkei Asia and the F
 ## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
 Also in this newsletter: tanker demand and Zelenskyy fires top aide
 
-## Founder of collapsed Chinese property giant given life sentence
-Evergrande chair Hui Ka Yan jailed following developer’s default almost five years ago
+## Harold Hamm launches multibillion-dollar plan to drill Argentine shale
+Trump ally partners with trader Mercuria in latest move targeting South American nation’s oil
 
-## JD Sports issues fresh profit warning as US sales tumble at ‘King of Trainers’
+## Trump-aligned oil group touts ‘sealskin diplomacy’ to win over Greenland
+Texas company proposes lifting US ban on imports of seal products to appease locals in Arctic territory
+
+## JD Sports warns on profits as US sales tumble at ‘King of Trainers’
 Shares in UK retailer drop 15% after latest setback
 
 ## Travelodge chief steps down after female guest assaulted
 Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
 
+## Founder of collapsed Chinese property giant given life sentence
+Evergrande chair Hui Ka Yan jailed following developer’s default almost five years ago
+
 ## 140 years of banking crises and bailouts
 We started so we finished
 
-## Singapore police look into iron ore trader Radiant World
-Company has fast become one of the biggest players in global commodities market
+## Sensex today | Stock Market Live: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains
+Sensex, Nifty, Share Prices Live: Indian equities staged a broad-based rebound on Thursday, with technology and financial stocks leading gains as easing US bond-market concerns improved global risk appetite, while elevated crude prices and regulatory scrutiny kept investors cautious.
 
-## Hong Kong’s CK Hutchison seeks $1.5bn from Panama in canal ports dispute
-Conglomerate accuses government of ‘destruction’ of investments after it was ejected from terminals
+## Basic account cash withdrawals beyond four will attract a charge of ₹15 plus GST per transaction, says SBI
+This policy adjustment aims to streamline banking services while maintaining accessibility for account holders who meet the bank’s KYC requirements.
 
-## Sensex today | Stock Market Live: Sensex rises over 650 pts, Nifty near 24,250; financials lead, metals drag
-Sensex, Nifty, Share Prices Live: Markets were trading higher at midday on Thursday, holding on to most of their gap-up opening gains, though indices entered a narrow consolidation phase as participants turned cautious at higher levels.
+## India office space demand set to stay strong as 77% of occupiers plan portfolio expansion: CBRE
+CBRE said the share of corporate occupiers pursuing an aggressive expansion strategy has nearly doubled from the previous year, with 30% of firms targeting a significantly larger office footprint over the next two years
 
-## BSE shares witness 3% intraday fall after report NSE may allow stock to trade on own platform
-BSE Ltd has entered into an agreement with MSCI for a number of its indexes; BSE will explore the launch of futures and options contracts in India linked to these indexes
+## PhonePe, MeitY sign MoU to integrate PulsePro data into PM GatiShakti portal
+The collaboration supports national infrastructure planning, economic analysis, and urban and rural development through detailed, hyperlocal insights
 
-## US Fed Minutes signal rate hike debate as inflation risks persist; 3 officials favoured 25-bps increase
-At its July 28-29 meeting, the FOMC decided to keep the federal funds target range unchanged at 3.5-3.75 per cent, in a 9-3 vote
+## Kerala gold jewellery trade bets big on Onam sales
+KGSMA has estimated that gold jewellery sales could cross ₹10,000 crore in value
 
-## Govt official asks industry to utilise FTAs, focus on value addition, diversify export markets
-Official says industry should use FTAs to expand market access, attract investment and technology, diversify supply chains, and build manufacturing ecosystems that can withstand global shocks
+## India needs urgent export market diversification amid US tariff risks, says RBI MPC member
+Kumar also flagged a 100% tariff on generic drug imports from 2028 and 200 per cent from 2029, adding to the risks facing India's exports
 
-## Institutional investors' share in Nifty 50 falls to record low of 56.1% amid shift to mid and smallcap stocks: Report
-Individual investors also reduced their allocation to Nifty 50 stocks during the quarter. Their allocation fell by 3.1% from the previous quarter to a record low of 33.4%
+## Rhetan TMT starts power generation from solar project
+The operational solar power project will meet the energy needs of the manufacturing facility and enhance renewable energy integration
 
-## HDFC Bank shares rise 2% from 52-week low as RBI clears LIC stake increase
-The fundraising comes as banks seek to complete overseas fundraising before a special central bank FX swap window closes
-
-## CBIC instructs its officers to co-ordinate with state authorities to detect GST evasion in illegal mining cases
-CBIC calls for cross-departmental data sharing between CGST formations, State Mining Authorities and tax administrations
-
-## Trilegal opens dedicated disputes office at Mumbai’s Killick House
-The disputes practice comprises 28 partners and over 215 lawyers nationally, covering commercial litigation, domestic and international arbitration, insolvency proceedings, regulatory investigations, and white-collar matters
+## India turns to Venezuela as West Asia disruptions accelerate crude supply diversification
+Indian crude imports from Venezuela rose sharply in August, making the South American producer the country's fourth-largest supplier
 
 ## Can't hold more than 10 tonnes for 15 days: Govt imposes stock limit on sugar for bulk consumers
 
@@ -87,29 +90,35 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Cheap import, uneven demand slowing capex
 'Investment Confidence Still Catching Up Due To Commodity Price Volatility, Uncertainty'
 
-## Gloves, paper left inside woman’s abdomen after C-section at Beed hospital; probe ordered
-According to officials, Sandhya Suraj Gaikwad of Wadwani village was admitted to the Beed District Hospital for delivery.
+## Hundreds stranded as Assam cab drivers block highway to protest Shillong violence
+The violence was triggered during a “black-flag” motorcycle rally by influential student organisation Khasi Students’ Union
 
-## SC rejects NIA plea to cancel Kabir Talwar bail in 3,000kg Mundra drug haul case
-The Supreme Court upheld Kabir Talwar’s bail in the 2021 Mundra drug haul, citing long incarceration and trial delay, but denied parity to other accused.
+## 113 arrested for violence during cab, auto drivers’ protest in Bhubaneswar: Cops
+The drivers want the government to intervene to regulate charges levied by online platforms and set up a mechanism to fix minimum and maximum fare.
 
-## Lucknow banker kills wife outside her bank, puts WhatsApp status before killing self: ‘Sister next’
-The couple's divorce case proceedings were reportedly ongoing.
+## Back-to-back floods: How a relentless monsoon is testing Odisha
+Many households in northern and coastal Odisha had only just cleared the layers of mud and debris left behind by the first flood when the second deluge arrived.
 
-## CISF intercepts ₹68.53 lakh unaccounted cash at Delhi Airport, hands Guwahati-bound duo to I-T officials
-The two passengers were travelling to Guwahati and were scheduled to travel onward to Agartala.
+## Assam: Sivasagar rebuilds a month after the floods but fear remains
+A month after floods hit Sivasagar and neighbouring Charaideo, the waters have receded, but the disaster is far from over for many survivors. At least 105 died.
 
-## UP bars entry of YouTubers into govt schools amid protests over poor facilities
-The orders prohibit the entry of outsiders, including YouTubers, into schools for smooth functioning of teaching and learning activities
+## CRPF forms 'core group' of top officers to prevent suicides incidents
+The group will be headed by the CRPF Director General (DG) and will meet once a month to undertake a "detailed" review of such incidents.
 
-## Who was Sajjan Kumar, ex-Congress MP and 1984 riots convict
-Sajjan Kumar, who was serving life imprisonment in Tihar jail, was taken to Safdarjung hospital, where the doctors declared him dead.
+## Given 24 hours to remove derogatory content on Shirdi Sai Baba: Centre to HC
+Centre tells Delhi HC it ordered intermediaries to remove allegedly derogatory Shirdi Sai Baba content within 24 hours to protect religious sentiments.
 
-## Telangana minister's daughter challenges CM Revanth Reddy: ‘Who is he to decide my ticket?’
-The Telangana Congress is facing fresh turmoil after Konda Sushmita challenged Chief Minister Revanth Reddy over the party’s choice of candidate for the Parkal.
+## PM CARES Fund: Why was it set up and can its money be used to fix schools? Here's what official website says
+Dipke said the money lying in the the Fund could potentially be used to build around new schools. Here’s what the charitable trust’s stated objectives say
 
-## Ex-Congress MP Sajjan Kumar, jailed in 1984 anti-Sikh riots case, dies at 80
-A three-time Lok Sabha MP, Sajjan Kumar represented the Outer Delhi constituency and was a prominent Congress leader.
+## Taxi drivers failing Marathi test in Maharashtra receive show cause notice, 1-month deadline
+On August 12, state transport minister Pratap Sarnaik said drivers of passenger transport vehicles must have a working knowledge of Marathi.
+
+## Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending
+Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion). AI Cloud and Compute Services, the Chinese tech giant’s new business se
+
+## Shein pushes back Hong Kong debut to September amid delayed investor orders: sources
+Fast-fashion retailer Shein Global Holdings has pushed back its Hong Kong market debut until September 1, after a small delay in taking investor orders for its initial public offering (IPO) at a reduced valuation, according to sources familiar with the matter. Shein plans to introduce multiple corne
 
 ## Japan faces a tough inflation-growth trade-off – and it’s not alone
 Global bond markets are throwing a tantrum. On August 17, the yield on 30-year US Treasury bonds hit 5.3 per cent, its highest level since 2007 and up from 4.8 per cent as recently as June 29. The average yield on long-term debt across the Group of 7 advanced economies is the highest since 2008. Sev
@@ -128,12 +137,6 @@ Barry Eichengreen is a leading American economist and one of the world’s forem
 
 ## US Treasuries in driver’s seat for risky AI stocks as investors grapple with elevated yields
 Stock traders in mainland China and Hong Kong are looking to the US bond market for clues on the sustainability of the artificial-intelligence trade after rising Treasury yields jolted global financial markets. Elevated yields on longer-dated Treasuries, a benchmark for global funding costs from mor
-
-## China Evergrande saga ends with life sentence for founder Hui Ka-yan
-A court in Shenzhen has sentenced China Evergrande Group founder and former chairman Hui Ka-yan to life imprisonment for “multiple combined crimes”, confiscating all of Hui’s personal property. Meanwhile, Evergrande was fined 8.82 billion yuan (US$1.31 billion), while its onshore operating unit Heng
-
-## ‘IPO queen’ Pamela Chung says time is ripe for listing connect scheme
-Hong Kong is at an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO and share registry services, as the scheme would allow mainland investors access to initial public offerings in Hong Kong, enable
 
 ## Israel and America Agree on Gaza’s New Leader
 The Trump administration’s peace plan has invested its hopes for Gaza’s future in the little-known Ali Shaath.
@@ -159,6 +162,21 @@ A White House endorsement could improve the Israeli leader’s chances of winnin
 ## Ukraine’s War Widows Are Fighting for Money
 Their husbands died defending the country—and now their families are struggling for compensation.
 
+## Dr. Moses Haregewoyn and the Operational Case for a Different Kind of Global Health Leadership
+Filling a gap in global health governance
+
+## Can Japan Become Indonesia’s Principal Partner in Asia?
+Jakarta is seeking partnerships that can strengthen its security and economy while respecting its non-aligned foreign policy.
+
+## China Praises Malaysian PM Anwar Ibrahim For Supportive Comments on Taiwan
+The Malaysian leader's remarks also prompted a rebuke from Taipei, which said that they "could negatively impact Taiwanese businesses’ confidence in investing in Malaysia.”
+
+## Myanmar Military Chief Begins Visit to Thailand Aimed at Expanding Security Ties
+Ye Win Oo's visit is the latest effort by Bangkok to bring Myanmar's military-appointed government in from the cold.
+
+## Kazakh State Tightens Grip Over Critical Minerals Miner ERG
+Developments at the giant miner suggest Astana will be the main factor in company strategy going forward.
+
 ## Putin’s Visit to Disputed Island Exacerbates Japan-Russia Tensions
 The Kuril Islands/Northern Territories have been a constant thorn in Japan-Russia relations. Putin just made it worse.
 
@@ -167,21 +185,6 @@ Japan’s only treaty ally sanctioned the ICC president – who happens to be a 
 
 ## Why Has Pakistan’s Jailed Former PM Imran Khan Been Shifted to Hospital Now?
 Lowering political temperatures and exploring limited dialogue have become a priority for the Pakistani government.
-
-## Russia’s Fake Missile Test Warning to New Zealand
-With the warning of a yet-to-materialize missile test in the Southern Ocean, is Russia playing an old joke on New Zealand?
-
-## Japan’s So-Called ‘Rising Militarism’ and Japan-US Relations
-Insights from Kuni Miyake.
-
-## India-Japan Defense Technology Cooperation Hinges on Industrial Endurance
-There is a marked asymmetry between high-powered India-Japan diplomacy and their uneven industrial integration.
-
-## Xi Jinping’s Jiang Zemin: Rewriting the ‘Reform Era’ to Serve the ‘New Era’
-Xi’s commemoration of Jiang was ultimately less an exercise in historical remembrance than an attempt to impose continuity on the CCP’s post-Mao history.
-
-## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
-Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
 
 ## War: Watt Is It Good For?
 Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
@@ -231,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How conflict is making life more expensive for Iranians
+How conflict is making life more expensive for Iranians
+
 ## State-backed Israeli settler violence forces West Bank displacement: HRW
 HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.
 
@@ -251,9 +257,6 @@ Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000
 
 ## Netanyahu warns Israel will not tolerate Turkish military presence in Syria
 Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.
-
-## Oil flows nearly tripled before US-Iran MoU expired, analysis shows
-Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
