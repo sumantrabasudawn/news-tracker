@@ -33,8 +33,8 @@ Payments company’s purchase of OpenRouter makes strategic sense
 ## Monte dei Paschi readies twin takeover bids for Banca Generali and Banco BPM
 Plan would create an Italian banking group with a combined market valuation of about €70bn
 
-## Meet Gregory Fenelon, the (self-declared) $14bn man
-He has big stakes. We have big questions.
+## Welspun Corp wins record ₹17,200-crore US pipe supply order
+Welspun Corp’s latest contract provides multi-year revenue visibility as the company expands manufacturing capacity and strengthens relationships across North America
 
 ## BTS & ARMY: Inside a self-sustaining global brand ecosystem | Overthinker’s Anonymous | EP 01
 Did BTS just rewrite the rules of marketing?
@@ -57,8 +57,8 @@ India’s rice sector faces a turning point as yield growth slows, driving renew
 ## Core sector output growth eases to 5.4% in July
 Iron ore, cement, electricity sectors expand while natural gas, crude oil, fertilizers output dips
 
-## Tech EVs squeeze ₹50 lakh luxury market: BMW & Merc Defend Turf
-BMW and Mercedes-Benz face fierce competition in India’s luxury market as electric SUVs disrupt pricing and customer preferences
+## 61.5% of women taking up G RAM G work shows positive indicator of rural livelihoods
+
 
 ## US-Iran war brings Air India Group's international carriage down 35%, IndiGo's 15.4%
 
@@ -80,9 +80,6 @@ Economic think tank Global Trade Research Initiative (GTRI) said the change mean
 
 ## US stock market today: Wall Street drops as Walmart, bond yields drag it lower
 On Wall Street, Walmart was the biggest drag on the S&P 500, with its shares plunging 8.7% despite the retailer reporting quarterly profit and revenue above analysts' expectations.
-
-## NSE shares may trade on its platform under 'permitted-to-trade' route: Report
-The National Stock Exchange is considering a groundbreaking move to trade its own shares directly on its platform, potentially skipping the need for additional approval from Sebi. By leveraging its existing 'permitted-to-trade' mechanism, the NSE could facilitate trading of shares already listed on 
 
 ## Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged
 Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.
@@ -108,6 +105,9 @@ Around 22 transformers and 79 drinking water supply schemes have also been disru
 ## Himanta Biswa Sarma meets PM Modi in Delhi; discusses Assam floods, rehabilitation
 Assam CM Himanta Biswa Sarma met PM Modi in Delhi to discuss flood recovery, rehabilitation and rebuilding of areas hit by floods that killed 105 people.
 
+## Hong Kong buyers hunt for bargains in city’s battered noncore office market
+Hong Kong’s noncore office market is still plagued by high vacancy rates and weak investor demand, but owner-occupiers are taking advantage of the downturn to buy up office space at steep discounts. The latest example is the Estate Agents Authority (EAA), which agreed a deal earlier this month to bu
+
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
 
@@ -128,9 +128,6 @@ Global bond markets are throwing a tantrum. On August 17, the yield on 30-year U
 
 ## Chinese banks embrace cheaper short-term loan rates despite margin risks
 Chinese commercial banks have begun pricing corporate loans against a short-term interbank repo rate rather than the benchmark loan prime rate (LPR), a shift drawing sharp scrutiny from investors worried about the sector’s already thin profitability. The industry’s average net interest margin – the 
-
-## Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market
-Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -228,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US charges woman for allegedly plotting attack on New York State Capitol
+The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for 'terrorism'.
+
+## The cost of rebuilding family homes in war-ravaged Syria
+What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.
+
 ## New York mayor Mamdani sues to block $10,000 teaching aide bonuses
 New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.
 
@@ -245,12 +248,6 @@ A protest organised by hundreds of Tibetans in New Delhi led many exiles to shav
 
 ## Heartbreak, loss on Lebanon’s front lines, the story of a first responder
 Heartbreak, loss on Lebanon’s front lines, the story of a first responder
-
-## Four railway workers killed by express train at station in Japan
-Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train.
-
-## DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge
-WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
