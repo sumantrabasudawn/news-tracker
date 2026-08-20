@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Trump announces new drive to isolate and crush Iranian economy
+UAE, long a crucial trading hub for Tehran, has also suspended commercial ties
+
+## America’s national debt hits record $40tn
+Also in today’s newsletter, how the story of the US is getting a Maga rebrand
+
+## Investors cut bets on US and UK rate rises
+Weaker economic data has changed expectations despite a rally in oil prices
+
 ## Walmart pledges price cuts as sales growth slows to six-year low
 Retailer to use tariff refund to reduce prices after reporting slowest US sales growth for six years
 
@@ -18,11 +27,8 @@ Term premium trouble
 ## Harold Hamm launches multibillion-dollar plan to drill Argentine shale
 Trump ally partners with trader Mercuria in latest move targeting South American nation’s oil
 
-## Trump-aligned oil group touts ‘sealskin diplomacy’ to win over Greenland
+## Art of the seal: Trump-aligned oil group touts ‘sealskin diplomacy’ on Greenland
 Texas company proposes lifting US ban on imports of seal products to appease locals in Arctic territory
-
-## Trump is losing his war of independence on rare earths
-Inefficiency, untrustworthiness and cronyism are weakening the administration’s plans to stand up to China
 
 ## JD Sports warns on profits as US sales tumble at ‘King of Trainers’
 Shares in UK retailer drop 15% after latest setback
@@ -33,29 +39,32 @@ Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
 ## Google’s China shift and the battle over AI models
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## T-Hub-OKI Electric to help deeptech start-ups get access to global markets
-The two organisations have shortlisted eight of the more than 150 startups they received from across the country.
+## Seven-session slump snaps as Nifty finds floor at 24,000
+The Nifty 50 closed at 24,231.85, up 153.55 points or 0.64%, while the Sensex gained 628.04 points or 0.82% to settle at 77,537.72
 
-## India bets on gene-edited rice varieties as yield growth slows
-India’s rice sector faces a turning point as yield growth slows, driving renewed efforts to boost productivity with advanced hybrid varieties.
+## India’s two-wheeler export surge moves upmarket; premium bikes grow 12.8%, scooters 18.2%
+The shift is being driven by Indian brands gaining ground overseas and the country emerging as a manufacturing and export hub for global markets
 
-## Broker’s Call: TTK Prestige (Buy)
-Geojit Investments
+## Pulse Pharmaceuticals gets DCGI for nano-carrier entrapped vitamin D3 oral dispersion
 
-## NSE said to plan trading of its shares on own platform
-The proposed arrangement could reshape trading dynamics for the exchange operator while adding a new dimension to its closely watched public offering
 
-## Broker’s Call: India Glycols (Buy)
-Arihant Capital
+## Sunshine Pictures IPO hog the limelight with 106 times; Shankesh Jewellers 2.8x
+Sunshine Pictures’ IPO drew strong category-wise demand, while Shankesh closed with 2.8 times subscription
 
-## Sri Lanka emerges as alternative manufacturing base for Tamil Nadu apparel makers
-Apparel manufacturers are increasingly building cross-border production networks as shifting trade policies reshape sourcing decisions across major global markets.
+## Indian exports to Australia surge 200% in 5 years under ECTA
+CECA talks to widen trade: Australian diplomat
 
-## Haryana cuts infrastructure site assessment time from 45 days to 2 days using GIS technology
-Technology-driven planning is helping Haryana speed up infrastructure decisions, improve site selection and integrate data across multiple government departments
+## Brigade Group leases 1.62 lakh sq ft in Thiruvananthapuram to HealthEdge
+Located in Technopark Phase 1, Brigade Square is a 2-lakh-sq-ft IT office building. HealthEdge’s new campus will house teams across engineering, product development, technology, operations and corporate functions.
 
-## Indian startup aims to compete with OpenAI in crowded voice arena
-Like other voice foundation models, it aims to provide big savings for users like call centers, banks and airlines, which hope to employ the technology to handle large volumes of customer communications
+## Auto component makers eyeing ₹9,000-10,000 crore market in lightweighting products by FY31: Equirus report
+Tighter CAFE-3 fuel-efficiency requirements are expected to increase OEM focus on lightweighting products
+
+## Telangana seeks assured price of ₹25,000 per tonne for oil palm FFB
+Telangana Agriculture Minister submitted a memorandum to Amit Shah at the 31st Southern Zonal Council meeting in Mahabalipuram, Tamil Nadu, on Thursday
+
+## Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks
+H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of unce
 
 ## NSE shares may trade on its platform under 'permitted-to-trade' route: Report
 The National Stock Exchange is considering a groundbreaking move to trade its own shares directly on its platform, potentially skipping the need for additional approval from Sebi. By leveraging its existing 'permitted-to-trade' mechanism, the NSE could facilitate trading of shares already listed on 
@@ -78,8 +87,20 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Stock market today: BSE Sensex jumps over 550 points, NSE Nifty 50 opens above 24,200
 
 
-## Looking to allow global fund management from India: Sebi chief Tuhin Kanta Pandey
+## New 'smart cancer drug' designed to 'switch on' may replace chemotherapy, says govt
+The government said the ‘smart’ cancer drug has been designed to switch on and work only inside cancer cells, sparing the healthy cells from damage.
 
+## SBI to revise cash withdrawal charges from October 1; check new rules
+Customers are requested to take note that all digital transactions will continue to be free without any restriction, SBI said.
+
+## ‘Is Congress a Bollywood khan-dan?’ What Shehzad Poonawalla told Rahul Gandhi before quitting party in 2017
+Shehzad Poonawalla's two resignation letters contrast sharply: in 2017, he quit Congress over its dynastic politics; his BJP exit cited personal reasons
+
+## 'Gen Z' woman in viral Ladakh video breaks silence, says clip not correct
+The woman, in the viral video, was seen arguing with security personnel at the Minimarg checkpoint, objecting to the alleged ‘behaviour’ with ‘tourists’.
+
+## 10 injured as security forces stop Manipur protest over killing of 6 Nagas
+The injured were taken to a hospital in Imphal as tension remains high in the Namdilong area between security forces and protesters.
 
 ## 'To what extent can English…': SC questions use of term ‘native’ in CBSE's three-language policy
 Questioning the use of term 'native', Justice Joymalya Bagchi said the correct term should be ‘indigenous’ and the NEP 2020 framers should have been concious.
@@ -87,23 +108,8 @@ Questioning the use of term 'native', Justice Joymalya Bagchi said the correct t
 ## ‘Between Pakistan and US': CM Omar Abdullah on Pak summoning US diplomat over Sergio Gor's J&K remark
 India's US ambassador Sergio Gor on Wednesday called J&K an “important part of India” and said Washington would reconsider its travel advisory for the UT.
 
-## Lucknow banker 2 murders, WhatsApp reveal, suicide, influencer sister's plea: 5 chilling details
+## WhatsApp reveal, influencer sister's plea: Chilling details in Lucknow double murder-suicide
 The deceased ICICI staffer was the sister of famous YouTuber Pragya Mishra, whose channel – Ulta Chashma UC – has over 8.5 million followers.
-
-## Seven-time World Press Photography winner to open show in India with Kolkata ‘noir’
-Seven-time World Press Photography winner Seamus Murphy brings 30 images of Kolkata to a new exhibition at Museo Camera, Gurugram.
-
-## $15,500, 523g gold, ₹45.8 lakh jewellery seized at Delhi airport
-In one case, the foreign currency was concealed in a false bottom of the baggage and inside the cap of a casserole.
-
-## Supreme Court forms panel to examine use of force by police in Delhi's July 20 protest
-Scores of students had participated in the CJP-led protest march to Parliament on July 20, seeking the resignation of Dharmendra Pradhan and wider exam reforms.
-
-## Woman dies as lift suddenly moves with gate open at apartment in Andhra Pradesh's Ongole
-The victim, Vanitha, had entered the elevator with her daughter and grandson, and the three were travelling together to their floor.
-
-## Delhi HC to hear appeals on PM Modi's bachelor's degree records on September 29
-Mehta said the matter could be heard on another day and requested an early date. The Bench, however, said the matter would be taken up on September 29.
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Bangladesh’s government under pressure as youth demand jobs
-Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.
+## Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat
+Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.
 
-## Who was Hind Rajab and why is Israel investigating her killing?
-After two years of denial, Israel admits firing on the 5-year-old's car. But her family and others don't expect justice.
+## US debt hits $40 trillion: Who does Washington owe and why does it matter?
+Heavy borrowing, increased spending and tax cuts by Democratic and Republican administrations have long raised concern.
 
-## Israel is betting on Islamophobia to save its standing in the West
-Netanyahu’s government is using anti-Muslim fear to rally a Western right increasingly receptive to its message.
+## War on Iran: Trump announces a new campaign to isolate Iran economically
+US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.
 
-## PSG forced to move opening league match as heatwave in France damages pitch
-Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.
+## West Ham urges fans to stop chanting ‘anti-Palestine message’
+Club relegated from the Premier League last season appeals to fans to stop 'anti-Palestine message'.
 
-## How Myanmar’s war drives the Rohingya crisis
-Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.
+## Myanmar military chief visits Bangkok as diplomatic offensive continues
+After five years of isolation, Myanmar's post-coup leadership is trying to boost its legitmacy.
 
-## Syrian official says ‘no plans’ to establish Turkish military presence
-The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.
+## Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war
+Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.
 
-## Taliban secures pragmatic global alliances without formal recognition
-The Taliban navigates a complex web of global trade and security alliances without gaining full political recognition.
+## Migrant women face sexual assault in Ceuta
+Migrant women face sexual assault in Ceuta
 
-## How conflict is making life more expensive for Iranians
-How conflict is making life more expensive for Iranians
+## FIFA’s Infantino under threat of no-confidence vote by regional bodies
+UEFA, AFC and CONCACAF understood to be considering no-confidence vote against FIFA's President Gianni Infantino.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
