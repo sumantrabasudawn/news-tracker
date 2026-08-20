@@ -1,28 +1,13 @@
 # AION Intelligence
 
-## Russia launches deadly missile and drone attacks on Kyiv
-At least 16 killed as Ukraine struggles with a shortage of Patriot interceptor missiles
-
-## GCSE results show worsening pass rates among students who resit
-Overall gap in outcomes for boys and girls in UK falls to the lowest since at least 2000
-
-## Zack Polanski remade the Greens — but at the risk of a backlash
-Controversial election of Eleanora Folan to governing council points to party’s electoral vulnerability
-
-## Trump announces new drive to isolate and crush Iranian economy
-UAE, long a crucial trading hub for Tehran, has also suspended commercial ties
-
-## Taiwan proposes record defence budget to resist China pressure
-President Lai Ching-te outlines military spending plans above 3% of GDP despite opposition resistance
-
-## Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray
-Former chief of staff to previous PM describes onslaught of negative briefings and says Starmer ‘lacked vision’
-
-## Google’s China shift and the battle over AI models
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
-
 ## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
-Also in this newsletter: tanker demand and Zelenskyy fires top aide
+Also in this newsletter: tanker demand, and Zelenskyy fires top aide
+
+## North Korea launches missile barrage after dismissing Trump overture
+Kim Jong Un’s sister casts doubt on claim of communication between Pyongyang and Washington
+
+## ‘Treasury demand has become materially more valuation-sensitive’
+Term premium trouble
 
 ## Harold Hamm launches multibillion-dollar plan to drill Argentine shale
 Trump ally partners with trader Mercuria in latest move targeting South American nation’s oil
@@ -30,11 +15,23 @@ Trump ally partners with trader Mercuria in latest move targeting South American
 ## Trump-aligned oil group touts ‘sealskin diplomacy’ to win over Greenland
 Texas company proposes lifting US ban on imports of seal products to appease locals in Arctic territory
 
+## Trump is losing his war of independence on rare earths
+Inefficiency, untrustworthiness and cronyism are weakening the administration’s plans to stand up to China
+
+## Russia launches deadly missile and drone attacks on Kyiv
+At least 16 killed as Ukraine struggles with a shortage of Patriot interceptor missiles
+
+## GCSE results show worsening pass rates among students who resit
+Overall gap in outcomes for boys and girls in UK falls to the lowest since at least 2000
+
 ## JD Sports warns on profits as US sales tumble at ‘King of Trainers’
 Shares in UK retailer drop 15% after latest setback
 
 ## Travelodge chief steps down after female guest assaulted
 Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
+
+## Google’s China shift and the battle over AI models
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
 ## Founder of collapsed Chinese property giant given life sentence
 Evergrande chair Hui Ka Yan jailed following developer’s default almost five years ago
@@ -42,29 +39,29 @@ Evergrande chair Hui Ka Yan jailed following developer’s default almost five y
 ## 140 years of banking crises and bailouts
 We started so we finished
 
-## Sensex today | Stock Market Live: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains
-Sensex, Nifty, Share Prices Live: Indian equities staged a broad-based rebound on Thursday, with technology and financial stocks leading gains as easing US bond-market concerns improved global risk appetite, while elevated crude prices and regulatory scrutiny kept investors cautious.
+## Zinc futures: Steady uptrend
+Traders can consider long positions
 
-## Basic account cash withdrawals beyond four will attract a charge of ₹15 plus GST per transaction, says SBI
-This policy adjustment aims to streamline banking services while maintaining accessibility for account holders who meet the bank’s KYC requirements.
+## Indian startup aims to compete with OpenAI in crowded voice arena
+Like other voice foundation models, it aims to provide big savings for users like call centers, banks and airlines, which hope to employ the technology to handle large volumes of customer communications
 
-## India office space demand set to stay strong as 77% of occupiers plan portfolio expansion: CBRE
-CBRE said the share of corporate occupiers pursuing an aggressive expansion strategy has nearly doubled from the previous year, with 30% of firms targeting a significantly larger office footprint over the next two years
+## Gaja Capital’s ₹550-crore IPO opens today
+The IPO comprises a fresh issue of equity shares aggregating up to ₹450 crore and an Offer for sale of equity shares aggregating up to ₹100 crore .
 
-## PhonePe, MeitY sign MoU to integrate PulsePro data into PM GatiShakti portal
-The collaboration supports national infrastructure planning, economic analysis, and urban and rural development through detailed, hyperlocal insights
+## Sensex today | Stock Market Highlights: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains
+Sensex, Nifty, Share Prices Highlights: Indian equities staged a broad-based rebound on Thursday, with technology and financial stocks leading gains as easing US bond-market concerns improved global risk appetite, while elevated crude prices and regulatory scrutiny kept investors cautious.
 
-## Kerala gold jewellery trade bets big on Onam sales
-KGSMA has estimated that gold jewellery sales could cross ₹10,000 crore in value
+## IndiGo tests 20% of pilots annually for substance abuse: CEO Willie Walsh
+“We exceed the recommended levels of testing where we routinely achieve about 20% of random testing,” Walsh said
 
-## India needs urgent export market diversification amid US tariff risks, says RBI MPC member
-Kumar also flagged a 100% tariff on generic drug imports from 2028 and 200 per cent from 2029, adding to the risks facing India's exports
+## BSE shares down 2% after report NSE may allow stock to trade on own platform
+BSE Ltd has entered into an agreement with MSCI for a number of its indexes; BSE will explore the launch of futures and options contracts in India linked to these indexes
 
-## Rhetan TMT starts power generation from solar project
-The operational solar power project will meet the energy needs of the manufacturing facility and enhance renewable energy integration
+## Turtlemint shares soar 4% as Jefferies initiates buy call, sets ₹190 target
+The stock ended 4.09 per cent positive on the NSE at ₹144.60.
 
-## India turns to Venezuela as West Asia disruptions accelerate crude supply diversification
-Indian crude imports from Venezuela rose sharply in August, making the South American producer the country's fourth-largest supplier
+## Kochi to host Kerala Cyber Suraksha Summit 2026 on Sep 5
+Oracle, AWS, Google, Microsoft, Cisco and Zscaler to support cybersecurity summit
 
 ## Can't hold more than 10 tonnes for 15 days: Govt imposes stock limit on sugar for bulk consumers
 
@@ -90,6 +87,12 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Cheap import, uneven demand slowing capex
 'Investment Confidence Still Catching Up Due To Commodity Price Volatility, Uncertainty'
 
+## Human intuition isn’t replaceable: Nike’s Deepa Ramprasad on an icon’s evolution
+As the highly anticipated Pegasus Plus 2 breaks cover, Nike’s Deepa Ramprasad reveals how biomechanics and athlete feedback shaped the new ‘super runner’
+
+## Three-language policy: SC asks CBSE to consider one-time reprieve for Class 6
+The Supreme Court asked CBSE to consider a one-time reprieve for Class 6 students under its three-language policy and sought a roadmap on teacher availability.
+
 ## Hundreds stranded as Assam cab drivers block highway to protest Shillong violence
 The violence was triggered during a “black-flag” motorcycle rally by influential student organisation Khasi Students’ Union
 
@@ -108,14 +111,8 @@ The group will be headed by the CRPF Director General (DG) and will meet once a 
 ## Given 24 hours to remove derogatory content on Shirdi Sai Baba: Centre to HC
 Centre tells Delhi HC it ordered intermediaries to remove allegedly derogatory Shirdi Sai Baba content within 24 hours to protect religious sentiments.
 
-## PM CARES Fund: Why was it set up and can its money be used to fix schools? Here's what official website says
-Dipke said the money lying in the the Fund could potentially be used to build around new schools. Here’s what the charitable trust’s stated objectives say
-
-## Taxi drivers failing Marathi test in Maharashtra receive show cause notice, 1-month deadline
-On August 12, state transport minister Pratap Sarnaik said drivers of passenger transport vehicles must have a working knowledge of Marathi.
-
 ## Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending
-Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion). AI Cloud and Compute Services, the Chinese tech giant’s new business se
+Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion). AI Cloud and Compute Services, the Chinese tech giant’s new reporting s
 
 ## Shein pushes back Hong Kong debut to September amid delayed investor orders: sources
 Fast-fashion retailer Shein Global Holdings has pushed back its Hong Kong market debut until September 1, after a small delay in taking investor orders for its initial public offering (IPO) at a reduced valuation, according to sources familiar with the matter. Shein plans to introduce multiple corne
@@ -234,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syrian official says ‘no plans’ to establish Turkish military presence
+The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.
+
+## Taliban secures pragmatic global alliances without formal recognition
+The Taliban navigates a complex web of global trade and security alliances without gaining full political recognition.
+
 ## How conflict is making life more expensive for Iranians
 How conflict is making life more expensive for Iranians
 
@@ -251,12 +254,6 @@ Heatwaves are squeezing growth and productivity while the Iran war drives up Eur
 
 ## Video shows Russian missile strike on Ukrainian capital
 Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.
-
-## Ben-Gvir celebrates demolition of Palestinian homes in Israel
-Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.
-
-## Netanyahu warns Israel will not tolerate Turkish military presence in Syria
-Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
