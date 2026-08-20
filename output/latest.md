@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## New York mayor Mamdani sues to block $10,000 teaching aide bonuses
+New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.
+
 ## Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail
 Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.
 
@@ -248,9 +251,6 @@ Four railway workers spraying herbicide on tracks north of Tokyo were killed by 
 
 ## DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge
 WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.
-
-## Amputee children learn to swim after losing limbs in Israel’s war on Gaza
-Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
