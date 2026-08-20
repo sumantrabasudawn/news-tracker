@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Zack Polanski remade the Greens — but at the risk of a backlash
+Controversial election of Eleanora Folan to governing council points to party’s electoral vulnerability
+
+## Trump announces new drive to isolate and crush Iranian economy
+UAE, long a crucial trading hub for Tehran, has also suspended commercial ties
+
+## Taiwan proposes record defence budget to resist China pressure
+President Lai Ching-te outlines military spending plans above 3% of GDP despite opposition resistance
+
 ## Russian missile attack kills at least 13 in Kyiv
 Strikes come as Ukraine struggles with a shortage of Patriot interceptor missiles
 
@@ -15,47 +24,44 @@ Also in this newsletter: tanker demand and Zelenskyy fires top aide
 ## Founder of collapsed Chinese property giant given life sentence
 Evergrande chair Hui Ka Yan jailed following developer’s default almost five years ago
 
+## JD Sports issues fresh profit warning as US sales tumble at ‘King of Trainers’
+Shares in UK retailer drop 15% after latest setback
+
+## Travelodge chief steps down after female guest assaulted
+Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
+
 ## 140 years of banking crises and bailouts
 We started so we finished
 
 ## Singapore police look into iron ore trader Radiant World
 Company has fast become one of the biggest players in global commodities market
 
-## Federal Reserve policymakers are becoming more hawkish
-Since the July meeting, more FOMC voters have said they are worried about inflation
-
-## JD Sports issues fresh profit warning as US sales tumble at ‘King of Trainers’
-Shares in UK retailer drop 10% after latest setback
-
-## Travelodge chief steps down after female guest assaulted
-Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
-
 ## Hong Kong’s CK Hutchison seeks $1.5bn from Panama in canal ports dispute
 Conglomerate accuses government of ‘destruction’ of investments after it was ejected from terminals
 
-## HDFC Bank shares rise 2% from 52-week low as RBI clears LIC stake increase
-The fundraising comes as banks seek to complete overseas fundraising before a special central bank FX swap window closes
-
 ## Sensex today | Stock Market Live: Sensex rises over 650 pts, Nifty near 24,250; financials lead, metals drag
 Sensex, Nifty, Share Prices Live: Markets were trading higher at midday on Thursday, holding on to most of their gap-up opening gains, though indices entered a narrow consolidation phase as participants turned cautious at higher levels.
+
+## BSE shares witness 3% intraday fall after report NSE may allow stock to trade on own platform
+BSE Ltd has entered into an agreement with MSCI for a number of its indexes; BSE will explore the launch of futures and options contracts in India linked to these indexes
+
+## US Fed Minutes signal rate hike debate as inflation risks persist; 3 officials favoured 25-bps increase
+At its July 28-29 meeting, the FOMC decided to keep the federal funds target range unchanged at 3.5-3.75 per cent, in a 9-3 vote
+
+## Govt official asks industry to utilise FTAs, focus on value addition, diversify export markets
+Official says industry should use FTAs to expand market access, attract investment and technology, diversify supply chains, and build manufacturing ecosystems that can withstand global shocks
+
+## Institutional investors' share in Nifty 50 falls to record low of 56.1% amid shift to mid and smallcap stocks: Report
+Individual investors also reduced their allocation to Nifty 50 stocks during the quarter. Their allocation fell by 3.1% from the previous quarter to a record low of 33.4%
+
+## HDFC Bank shares rise 2% from 52-week low as RBI clears LIC stake increase
+The fundraising comes as banks seek to complete overseas fundraising before a special central bank FX swap window closes
 
 ## CBIC instructs its officers to co-ordinate with state authorities to detect GST evasion in illegal mining cases
 CBIC calls for cross-departmental data sharing between CGST formations, State Mining Authorities and tax administrations
 
 ## Trilegal opens dedicated disputes office at Mumbai’s Killick House
 The disputes practice comprises 28 partners and over 215 lawyers nationally, covering commercial litigation, domestic and international arbitration, insolvency proceedings, regulatory investigations, and white-collar matters
-
-## Nifty snaps 7-session losing streak; IT stocks lead as bond yields ease
-The rally was triggered largely by an overnight recovery on Wall Street after the US Treasury announced it would double long-duration bond buybacks to at least $4 billion per operation
-
-## Auto component makers eyeing ₹9,000-10,000 crore market in lightweighting products by FY31: Equirus report
-Tighter CAFE-3 fuel-efficiency requirements are expected to increase OEM focus on lightweighting products
-
-## Mankind Pharma inks in-licensing pact with China’s Chongqing Chenan Biopharmaceutical on two insulin analogues
-The partnership broadens Mankind Pharma’s strategy in diabetes care and advanced injectable therapies
-
-## Zappfresh owner DSM Fresh Foods eyes threefold revenue growth by FY28
-BSE SME-listed company plans to scale its network to 200 stores, grow overseas sales to ₹70-80 crore and broaden its frozen-food portfolio as it aims ₹600 crore revenue by FY28
 
 ## Can't hold more than 10 tonnes for 15 days: Govt imposes stock limit on sugar for bulk consumers
 
@@ -81,29 +87,29 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Cheap import, uneven demand slowing capex
 'Investment Confidence Still Catching Up Due To Commodity Price Volatility, Uncertainty'
 
-## Mehul Choksi’s lawyer Vijay Aggarwal in London jail, charged with 4 sexual assault charges
-Born in Delhi, Vijay Aggarwal faces four counts of sexual assault involving two women.
+## Gloves, paper left inside woman’s abdomen after C-section at Beed hospital; probe ordered
+According to officials, Sandhya Suraj Gaikwad of Wadwani village was admitted to the Beed District Hospital for delivery.
 
-## Watch: Vande Bharat Express clocks nearly 100km/h on world's highest Chenab rail bridge in J&K
-This comes after a rise in the maximum permissible speed to 100 kmph on the 111-km-long new broad gauge rail stretch between Katra and Banihal in the region.
+## SC rejects NIA plea to cancel Kabir Talwar bail in 3,000kg Mundra drug haul case
+The Supreme Court upheld Kabir Talwar’s bail in the 2021 Mundra drug haul, citing long incarceration and trial delay, but denied parity to other accused.
 
-## SC to hear review pleas against 2022 verdict upholding ED’s powers in money laundering cases
-SC to hear review pleas against 2022 verdict upholding ED’s powers in money laundering cases
+## Lucknow banker kills wife outside her bank, puts WhatsApp status before killing self: ‘Sister next’
+The couple's divorce case proceedings were reportedly ongoing.
 
-## 5-year-old Indian girl battles life-threatening sepsis after tiger scratch in Pattaya during ‘photo-ops’
-Calling the case “unusual”, doctors stressed the importance of getting even minor animal bites or scratches medically assessed.
+## CISF intercepts ₹68.53 lakh unaccounted cash at Delhi Airport, hands Guwahati-bound duo to I-T officials
+The two passengers were travelling to Guwahati and were scheduled to travel onward to Agartala.
 
-## Amit Shah chairs southern CMs conclave, Shivakumar flags delimitation
-Amit Shah chairs southern CMs conclave, Shivakumar flags delimitation
+## UP bars entry of YouTubers into govt schools amid protests over poor facilities
+The orders prohibit the entry of outsiders, including YouTubers, into schools for smooth functioning of teaching and learning activities
 
-## ‘New Muslim League’: Nitin Nabin attacks Congress as Vande Mataram row escalates, Opposition hits back
-The Congress Working Committee (CWC) decided to sing only the first two stanzas of "Vande Mataram" at party events, following its 1937 resolution.
+## Who was Sajjan Kumar, ex-Congress MP and 1984 riots convict
+Sajjan Kumar, who was serving life imprisonment in Tihar jail, was taken to Safdarjung hospital, where the doctors declared him dead.
 
-## Shivakumar seeks Southern Zonal Council resolution to retain 543 Lok Sabha seats, honour 1971 census
-Shivakumar seeks Southern Zonal Council resolution to retain 543 Lok Sabha seats, honour 1971 census
+## Telangana minister's daughter challenges CM Revanth Reddy: ‘Who is he to decide my ticket?’
+The Telangana Congress is facing fresh turmoil after Konda Sushmita challenged Chief Minister Revanth Reddy over the party’s choice of candidate for the Parkal.
 
-## Tarun Tejpal moves SC against conviction in 2013 sexual assault case
-Former Tehelka editor Tarun Tejpal has moved the Supreme Court challenging the Bombay high court’s verdict.
+## Ex-Congress MP Sajjan Kumar, jailed in 1984 anti-Sikh riots case, dies at 80
+A three-time Lok Sabha MP, Sajjan Kumar represented the Outer Delhi constituency and was a prominent Congress leader.
 
 ## Japan faces a tough inflation-growth trade-off – and it’s not alone
 Global bond markets are throwing a tantrum. On August 17, the yield on 30-year US Treasury bonds hit 5.3 per cent, its highest level since 2007 and up from 4.8 per cent as recently as June 29. The average yield on long-term debt across the Group of 7 advanced economies is the highest since 2008. Sev
@@ -123,11 +129,14 @@ Barry Eichengreen is a leading American economist and one of the world’s forem
 ## US Treasuries in driver’s seat for risky AI stocks as investors grapple with elevated yields
 Stock traders in mainland China and Hong Kong are looking to the US bond market for clues on the sustainability of the artificial-intelligence trade after rising Treasury yields jolted global financial markets. Elevated yields on longer-dated Treasuries, a benchmark for global funding costs from mor
 
-## China Evergrande saga ends with life imprisonment for founder Hui Ka-yan
+## China Evergrande saga ends with life sentence for founder Hui Ka-yan
 A court in Shenzhen has sentenced China Evergrande Group founder and former chairman Hui Ka-yan to life imprisonment for “multiple combined crimes”, confiscating all of Hui’s personal property. Meanwhile, Evergrande was fined 8.82 billion yuan (US$1.31 billion), while its onshore operating unit Heng
 
-## IPO queen Pamela Chung says headway needed for initial public offering connect scheme
-Hong Kong is seeing an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO & Share Registry Services, who says the scheme would allow mainland investors access to initial public offerings (IPOs) in Ho
+## ‘IPO queen’ Pamela Chung says time is ripe for listing connect scheme
+Hong Kong is at an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO and share registry services, as the scheme would allow mainland investors access to initial public offerings in Hong Kong, enable
+
+## Israel and America Agree on Gaza’s New Leader
+The Trump administration’s peace plan has invested its hopes for Gaza’s future in the little-known Ali Shaath.
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -149,9 +158,6 @@ A White House endorsement could improve the Israeli leader’s chances of winnin
 
 ## Ukraine’s War Widows Are Fighting for Money
 Their husbands died defending the country—and now their families are struggling for compensation.
-
-## Can Venezuela’s Opposition Find A Path to Power?
-As Delcy Rodríguez clings to power, dissidents wonder who to trust.
 
 ## Putin’s Visit to Disputed Island Exacerbates Japan-Russia Tensions
 The Kuril Islands/Northern Territories have been a constant thorn in Japan-Russia relations. Putin just made it worse.
@@ -225,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## State-backed Israeli settler violence forces West Bank displacement: HRW
+HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.
+
+## Are Hormuz ships more willing to defy Iran or the US? What the data shows
+Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.
+
 ## Max Verstappen signs new F1 contract with Red Bull until 2030
 Four-time F1 World Drivers' Champion's new deal puts to rest rumours that he would exit the team at the end of 2028.
 
@@ -242,12 +254,6 @@ Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkis
 
 ## Oil flows nearly tripled before US-Iran MoU expired, analysis shows
 Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.
-
-## Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
-World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.
-
-## Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
-UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
