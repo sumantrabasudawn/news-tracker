@@ -1,10 +1,16 @@
 # AION Intelligence
 
+## Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray
+Former chief of staff to previous PM describes onslaught of negative briefings and says Starmer ‘lacked vision’
+
+## Russian missile attack kills at least 13 in Kyiv
+Strikes come as Ukraine struggles with a shortage of Patriot interceptor missiles
+
+## Google’s China shift and the battle over AI models
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+
 ## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
 Also in this newsletter: tanker demand and Zelenskyy fires top aide
-
-## Starmer lacked ‘vision’ and needed ‘bigger people’ around him, says Sue Gray
-Former chief of staff to previous PM describes ‘unbearable’ experience of negative briefings from Downing Street
 
 ## Founder of collapsed Chinese property giant given life sentence
 Evergrande chair Hui Ka Yan jailed following developer’s default almost five years ago
@@ -18,41 +24,41 @@ Company has fast become one of the biggest players in global commodities market
 ## Federal Reserve policymakers are becoming more hawkish
 Since the July meeting, more FOMC voters have said they are worried about inflation
 
-## China hits out at EU probe into JD.com bid for German retailer
-Beijing may ‘resolutely retaliate’ over probe into Ceconomy offer, says justice ministry
-
-## Private equity’s escapades in the legal market
-Charlesbank is in advanced talks to acquire a stake in law firm WSHB, one of private equity’s largest forays into the US legal sector
+## Travelodge chief steps down after female guest assaulted
+Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
 
 ## Hong Kong’s CK Hutchison seeks $1.5bn from Panama in canal ports dispute
 Conglomerate accuses government of ‘destruction’ of investments after it was ejected from terminals
 
-## Demand for tankers soars as Gulf oil producers search for ways to export cargoes
-Middle Eastern countries looking to secure their own fleets are driving up prices
+## China hits out at EU probe into JD.com bid for German retailer
+Beijing may ‘resolutely retaliate’ over probe into Ceconomy offer, says justice ministry
+
+## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty holds gap-up gains in tight range; financials lead, metals drag
+Sensex, Nifty, Share Prices Live: Markets were trading higher at midday on Thursday, holding on to most of their gap-up opening gains, though indices entered a narrow consolidation phase as participants turned cautious at higher levels.
+
+## ICICI Bank shares rise as Bank Nifty gap-up lifts private bank stocks
+ICICI Bank’s year-to-date gain of 5.16% continues to stand out against the Nifty 50’s decline of 7.39% over the same period
+
+## Kerala: Onam sales of Supplyco cross ₹200 cr, draw 26 lakh customers
+SupplyCo is a state-run company which aims to regulate the market price of essential commodities and ensure food security
+
+## Nifty holds gap-up gains in tight range; financials lead, metals drag
+At 12.15 pm, the Sensex was at 77,449.38, up 539.70 points or 0.70%, while the Nifty 50 was at 24,217.20, up 138.90 points or 0.58%
+
+## Supreme Infrastructure Targets Next-Phase Growth Led by EPC, Housing & GCC Projects
+Supreme Infrastructure Targets Next-Phase Growth Led by EPC, Housing & GCC Projects
+
+## Bry-Air Sets a New Global Pathway for Air to Water Generation
+Bry-Air Sets a New Global Pathway for Air to Water Generation
+
+## Gold Rate Today, Aug 20: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
+22, 24 carat Gold prices up across Indian cities on August 20
 
 ## Turtlemint shares jump over 5% as Jefferies initiates buy call, sets ₹190 target
 At 12.06 pm, the stock traded at ₹144.40, after hitting a high of ₹146.50, against its previous close of ₹138.92.
 
-## US opens secret oil shipping corridor, exporting about 10 million barrels a day amid Iran stalemate: Report
-Development comes shortly after US President Donald Trump ruled out extending a fragile 60-day ceasefire agreement with Tehran
-
-## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty holds 24,200; Eternal leads gainers
-Sensex, Nifty, Share Prices Live: Indian benchmark indices opened higher ​on Thursday, tracking broader Asia ‌as global bond markets steadied ​after the U.S. Treasury ⁠announced steps to bring down rising borrowing rates.
-
-## Ceigall India JVs secure ₹2,423-cr Ministry orders for road construction in Arunachal
-Among the orders is a ₹274.08-crore engineering, procurement, and construction package covering construction on the Bile-Migging section of NH-913
-
-## What beats seeing eclipses from space? Try the northern and southern lights
-Astronauts aboard International Space Station say best cosmic shows are auroras
-
-## Sugar stocks rally: Avadh Sugar, Zuari Industries, Balrampur Chini Mills, Dwarikesh Sugar jump up to 14% as govt tightens stockholding limits
-Ministry of Consumer Affairs has restricted bulk consumers using over 10 MT of sugar per month from holding more than 15 days’ stock. The order will take effect from September 1 and remain in force until November 30, 2026.
-
-## Samsung Electronics to announce more than $72 billion shareholder return programme
-Local rival SK Hynix on Wednesday unveiled a 40 trillion won share buyback and cancellation plan, the largest shareholder return programme announced by a publicly listed South Korean company
-
-## Retail inflation may cross 6% in Oct-Nov before easing in Q4 FY27: Report
-SBI Research report expects retail inflation to rise to 4.7% in August from 4.45% in July
+## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
+Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
 
 ## Overseas remittance in focus: I-T uncovers Rs 1.29 lakh crore trail - money sent to China, UAE & more
 The probe comes as the rupee remains under significant pressure. The Reserve Bank of India has been regularly selling dollars in the foreign exchange market to contain volatility and prevent sharp, disorderly movements in the currency.
@@ -75,8 +81,23 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Sebi bans two entities for illegal sensex CAS trades
 Action Comes On Day Sebi Chief Warned Against Manipulation
 
-## Oil price today: Crude remains above $90 as Hormuz operations remain disrupted
-Oil prices have settled at elevated levels, staying above ninety dollars per barrel. Investors are weighing the unpredictable US-Iran situation and the potential impacts on shipping routes through the Strait of Hormuz. While intermittent Middle East assaults bolster market sentiment, the absence of 
+## Shivakumar seeks Southern Zonal Council resolution to retain 543 Lok Sabha seats, honour 1971 census
+Shivakumar seeks Southern Zonal Council resolution to retain 543 Lok Sabha seats, honour 1971 census
+
+## Tarun Tejpal moves SC against conviction in 2013 sexual assault case
+Former Tehelka editor Tarun Tejpal has moved the Supreme Court challenging the Bombay high court’s verdict.
+
+## Vijay, Shivakumar, Chandrababu Naidu on stage: Amit Shah's meeting brings Southern CMs together
+Amit Shah is the Chairman of the Southern Zonal Council, while Tamil Nadu Chief Minister C Joseph Vijay is its Vice-Chairman.
+
+## Mayawati backs Gen Alpha school protests, urges govts to address basic needs
+Mayawati backs Gen Alpha school protests, urges govts to address basic needs
+
+## Odisha floods: ASHA worker carries elderly woman to safety on back
+Odisha floods: ASHA worker carries elderly woman to safety on back
+
+## Murder case filed against six policemen over jeweller's death in UP's Shahjahanpur
+Murder case filed against six policemen over jeweller's death in UP's Shahjahanpur
 
 ## Manipur schools, colleges shut amid tensions over demands for NRC before Census
 Hundreds of students are demonstrating in Imphal demanding NRC before the Census ahead of the house listing from September 1 to September 30
@@ -84,23 +105,8 @@ Hundreds of students are demonstrating in Imphal demanding NRC before the Census
 ## Centre tightens sugar stock curbs amid record prices, bulk buyers face 15-day cap
 Any bulk consumer using or consuming more than 10 tonnes of sugar a month will not be allowed to hold stocks for more than 15 days.
 
-## Jharkhand to roll out action plan to prevent disaster losses
-Jharkhand to roll out action plan to prevent disaster losses
-
-## Army veterans fume at woman's viral 'we're Gen Z' outburst in Ladakh: ‘Disrespecting soldiers is wrong’
-The video has drawn criticism from all fronts from political leaders to social media users slamming her for the comments she made.
-
-## SC’s 5:4 verdict refines 48-yr-old ‘industry’ test but protects pending disputes
-The bench also upheld, by a majority, the maintainability of reference that had brought 1978 landmark Bangalore Water Supply & Sewerage Board Vs A Rajappa judgment back for reconsideration
-
-## Vijay hits 100 as Tamil Nadu CM, then goes on a hard-hitting spree with bills
-If his first 100 days were about establishing the new TVK government, the days immediately after have offered a glimpse of a more assertive Vijay.
-
-## Chances of Bangladesh PM Tarique Rahman’s visit to India ‘very slim’, says top aide
-Humayun Kabir, the foreign affairs adviser to the PM, said in an interview with state-run BSS news agency that Bangladesh will show a “positive attitude” towards participating in the Brics Summit
-
-## How PM Modi, Rahul, others paid tributes to Rajiv Gandhi on his birth anniversary
-Rajiv Gandhi was assassinated in 1991 during an election campaign in Tamil Nadu's Sriperumbudur.
+## Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market
+Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in
 
 ## Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink
 In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project. Known officially as Shanghai Spacecom Sate
@@ -111,8 +117,8 @@ Barry Eichengreen is a leading American economist and one of the world’s forem
 ## US Treasuries in driver’s seat for risky AI stocks as investors grapple with elevated yields
 Stock traders in mainland China and Hong Kong are looking to the US bond market for clues on the sustainability of the artificial-intelligence trade after rising Treasury yields jolted global financial markets. Elevated yields on longer-dated Treasuries, a benchmark for global funding costs from mor
 
-## China Evergrande founder Hui Ka-yan sentenced to life imprisonment
-A court in Shenzhen has sentenced China Evergrande Group founder and former chairman Hui Ka-yan, also known as Xu Jiayin, to life imprisonment for “multiple combined crimes”, confiscating all Hui’s personal property. Meanwhile, Evergrande was fined 8.82 billion yuan (US$1.31 billion), while its onsh
+## China Evergrande saga ends with life imprisonment for founder Hui Ka-yan
+A court in Shenzhen has sentenced China Evergrande Group founder and former chairman Hui Ka-yan to life imprisonment for “multiple combined crimes”, confiscating all of Hui’s personal property. Meanwhile, Evergrande was fined 8.82 billion yuan (US$1.31 billion), while its onshore operating unit Heng
 
 ## IPO queen Pamela Chung says headway needed for initial public offering connect scheme
 Hong Kong is seeing an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO & Share Registry Services, who says the scheme would allow mainland investors access to initial public offerings (IPOs) in Ho
@@ -122,9 +128,6 @@ China’s Mech-Mind Robotics Technologies plans to start taking investor orders 
 
 ## AIA first-half profit up 11%, driven by strong growth in Hong Kong and Asia sales
 AIA Group, Asia’s largest independent publicly listed life insurance group, reported 11 per cent growth in first-half operating profit, driven by strong growth of Hong Kong and mainland China sales and expansion in Southeast Asian markets. Operating profit after tax on a constant currency basis reac
-
-## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
-Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -174,6 +177,9 @@ Xi’s commemoration of Jiang was ultimately less an exercise in historical reme
 ## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
 Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
 
+## China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That
+For years, the Chinese military’s own newspaper has been making a promise it may no longer be able to keep. Whenever the People’s Liberation Army Daily (Jiefangjun Bao), the official newspaper of China’s Central Military Commission, discusses artificial intelligence and command, it returns to the sa
+
 ## Inside Iran’s Wartime Regime
 Afshon Ostovar, one of the leading experts on Iran and the host of the members-only podcast The Iran Reckoning, is joined by War on the Rocks membership editor Kerry Anderson for a state-of-play conversation on the conflict between the United States and Iran. They consider why the fighting has settl
 
@@ -194,9 +200,6 @@ Operation Epic Fury made clear that AI is now at the heart of American warfighti
 
 ## Inside Brazil’s 3D-Printed Gun Supply Chain
 On June 26, 2026, the Civil Police of Rio de Janeiro, through its specialized firearms, ammunition, and explosives unit, raided a clandestine workshop in Rio das Pedras, on the city’s west side. Investigators said the group used a 3D printer seized at the scene to produce pistol frames and structura
-
-## The Tension Between Collectivism and Individualism in Ukraine
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -222,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
+World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.
+
+## Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
+UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.
+
+## Lionel Messi scores first goal for Inter Miami since father’s death
+Messi's 26th-minute goal in the MLS fixture comes just 11 days after the passing of his father Jorge on August 8.
+
+## Bangladesh holds presidential election in first contested vote in 35 years
+BNP's Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.
+
 ## Australian anger as Israel drops World Central Kitchen deaths case
 Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.
 
@@ -234,20 +249,11 @@ Russian ballistic missiles killed at least six people and ⁠injured over two do
 ## Trump vows ‘economic warfare’ on countries helping Iran
 US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
 
-## Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections
-Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.
-
-## Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
-Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.
-
-## Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
-Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
-
-## Bodycam captures police team falling when deck collapses in Missouri
-Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.
-
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
+
+## FAST-DS 2026: What the new foreign asset disclosure rules mean for taxpayers
+With the one time disclosure window now in force, the detailed rules set out who can come forward, how foreign assets and income will be valued, what taxpayers will have to pay and when a valid declaration can provide immunity from further tax, penalty and prosecution.
 
 ## I-T unearths Rs 1.29 lakh cr foreign remittances
 The tax probe has found that a substantial portion of the money moved to a handful of overseas destinations. Singapore, the UAE, Hong Kong, Mauritius and China together accounted for 72.3% of the total remittances. Singapore emerged as the largest destination, receiving Rs 41,885 crore while Rs 18,3
@@ -266,9 +272,6 @@ The Securities and Exchange Board of India banned Copthall Mauritius Investments
 
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
-
-## India opens tax amnesty scheme for small taxpayers to declare select foreign assets
-India's tax amnesty scheme for small taxpayers opened Sunday and runs until December 2026. This one-time measure aims to bring undeclared foreign assets and income into the tax net. Taxpayers with undisclosed foreign income up to one crore rupees can declare it.
 
 ## LIC gets RBI nod to raise stake in HDFC Bank to nearly 10% from 4.11%
 Life Insurance Corporation of India (LIC), India's largest insurance company, has received approval from the Reserve Bank of India (RBI) to increase its stake in HDFC Bank to up to 9.99 per cent.
