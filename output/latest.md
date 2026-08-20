@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Quant funds rocked as Treasury boosts buybacks and Moderna shares leap
+Tumultuous session puts further pressure on momentum trades that have been unsettled since AI-related stock sell-off
+
 ## Brazilian municipalities join BHP and Vale dam collapse payout scheme
 Nineteen authorities reach agreement over 2015 disaster in blow to English High Court class action
 
@@ -10,7 +13,7 @@ Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeez
 History might have been different had collegial, liberalising leadership continued
 
 ## The US Treasury is buying long bonds, but not very many
-Speaking loudly but wielding a teeny-tiny stick in
+Speaking loudly but wielding a teeny-tiny stick
 
 ## Nvidia looks well placed to benefit from the next stage of the AI boom
 The world’s biggest chip company is using its balance sheet to seed new markets and a new business model
@@ -21,11 +24,11 @@ Payments company’s purchase of OpenRouter makes strategic sense
 ## US long-term bonds slide as Bessent intervention fails to soothe investors
 Yield on 30-year Treasuries rises despite move to ‘at least double’ purchases of securities
 
-## Meet Gregory Fenelon, the (self-declared) $14bn man
-He has big stakes. We have big questions.
-
 ## Monte dei Paschi readies twin takeover bids for Banca Generali and Banco BPM
 Plan would create an Italian banking group with a combined market valuation of about €70bn
+
+## Meet Gregory Fenelon, the (self-declared) $14bn man
+He has big stakes. We have big questions.
 
 ## Moderna breakthrough brings back memories of pandemic mania
 Biotech nearly triples as mRNA cancer treatment shows promise after company had struggled in recent years
@@ -225,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Carlos Alcaraz confirms US Open return after four-month injury layoff
+Spanish tennis star had missed the French Open, ‌Wimbledon and the hard-court events in Toronto and ​Cincinnati.
+
+## Bangladesh elects ruling party veteran Alamgir as president
+Bangladesh elects Mirza Fakhrul Islam Alamgir by parliamentary vote, filling vacancy after Shahabuddin's resignation.
+
 ## Humanoid robots take centre stage in China-US tech race
 Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.
 
@@ -242,12 +251,6 @@ A major wildfire is threatening communities in western Spain with more than 800 
 
 ## Spanish police evict hundreds of migrants from Ceuta beach to shelters
 Hundreds of migrants are being removed from their makeshift camps on a beach in Ceuta, Spain.
-
-## Syria detains policeman over death of White Helmets rescuer hit in custody
-Authorities were warned about the dangers of hitting Mohammad Ghamira, who suffered from the rare medical condition haemophilia.
-
-## One geography, two states: Saudi Arabia’s security approach to Sudan
-Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
