@@ -57,8 +57,14 @@ BMW and Mercedes-Benz face fierce competition in India’s luxury market as elec
 ## Tata Trusts delay raises questions over legal recourse as dividend payout remains stuck
 The issue has assumed urgency as the delay carries a significant financial cost for the charitable trusts
 
+## US-Iran war brings Air India Group's international carriage down 35%, IndiGo's 15.4%
+
+
 ## Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks
 H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of unce
+
+## For 1st time in a decade, India to import 10 lakh tonnes of sugar
+Faces Possible 20% Decline In Opening Stock Of Sweetener
 
 ## India's solar story: Cell shortage may be short-lived as capacity set to tripple
 India is set to boost its solar cell production capability in the near future. This project is designed to comply with local-content regulations and to close the existing supply deficiencies. By December 2027, a noticeable increase in cell output is anticipated, driven by new investments aimed at en
@@ -74,12 +80,6 @@ On Wall Street, Walmart was the biggest drag on the S&P 500, with its shares plu
 
 ## NSE shares may trade on its platform under 'permitted-to-trade' route: Report
 The National Stock Exchange is considering a groundbreaking move to trade its own shares directly on its platform, potentially skipping the need for additional approval from Sebi. By leveraging its existing 'permitted-to-trade' mechanism, the NSE could facilitate trading of shares already listed on 
-
-## Can't hold more than 10 tonnes for 15 days: Govt imposes stock limit on sugar for bulk consumers
-
-
-## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
-Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
 
 ## Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged
 Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail
+Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.
+
+## US pummels Cuban economy with new sanctions on mining, construction
+US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.
+
 ## Landslide at illegal gold mine kills 13 people in Colombia
 At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.
 
@@ -242,12 +248,6 @@ WHO says vaccines for Ebola virus disease being allocated to DRC amid largest ou
 
 ## Amputee children learn to swim after losing limbs in Israel’s war on Gaza
 Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.
-
-## Syria’s civil society navigates post-Assad era: Partnership or control?
-Syria's civil society grapples with redefining its role as the state reasserts itself after Assad's fall.
-
-## Brook makes Pakistan pay for dropped catch as England dominate first Test
-England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan's meagre first innings of 171.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
