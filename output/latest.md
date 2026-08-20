@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US long-term bonds slide as Bessent intervention fails to soothe investors
+Yield on 30-year Treasuries rises despite move to ‘at least double’ purchases of securities
+
+## Meet Gregory Fenelon, the (self-declared) $14bn man
+He has big stakes. We have big questions.
+
 ## Trump announces fresh ‘economic warfare’ on Iran
 UAE, long a crucial trading hub for Tehran, has also suspended commercial ties
 
@@ -18,50 +24,53 @@ Also in today’s newsletter, how the story of the US is getting a Maga rebrand
 ## Investors cut bets on US and UK rate rises
 Weaker economic data has changed expectations despite a rally in oil prices
 
-## Europe, the secret outperformer
-Its cash generation, broader earnings and lower tech concentration deserve more respect
-
-## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
-Also in this newsletter: tanker demand, and Zelenskyy fires top aide
-
 ## Western oil refinery closures set to continue despite war shock
 North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness
 
 ## From balloons to pans: in praise of useful tech
 Companies developing new materials with previously unknown properties could change the material world
 
+## Europe, the secret outperformer
+Its cash generation, broader earnings and lower tech concentration deserve more respect
+
+## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
+Also in this newsletter: tanker demand, and Zelenskyy fires top aide
+
 ## Harold Hamm launches multibillion-dollar plan to drill Argentine shale
 Trump ally partners with trader Mercuria in latest move targeting South American nation’s oil
 
-## Art of the seal: Trump-aligned oil group touts ‘sealskin diplomacy’ on Greenland
-Texas company proposes lifting US ban on imports of seal products to appease locals in Arctic territory
+## Tech EVs squeeze ₹50 lakh luxury market: BMW & Merc Defend Turf
+BMW and Mercedes-Benz face fierce competition in India’s luxury market as electric SUVs disrupt pricing and customer preferences
 
-## India’s foreign exchange market will be ready when its deep enough to absorb global shocks: RBI Deputy Governor
-He emphasised that the next phase of reform will be judged by accessibility of the foreign exchange services that citizens receive
+## UCBs may be small, but their risk environment is far larger: RBI Dy Guv Swaminathan
+Greater digital adoption and reliance on external technology providers are expanding the risk landscape for smaller banks, demanding stronger safeguards and oversight.
 
-## DGFT eases rupee trade rule for exporters
-Rupee payments received by exporters through approved banking channels to be eligible for FTP benefits
+## The Standard expands India GCC, targets nearly 400 employees by year-end
+The Standard’s India GCC operations were established in November 2025, while the Bengaluru office was inaugurated in April 2026
 
-## India open to buying Venezuelan oil till US sanction exemption continues: Sources
-Refiners to keep a keen eye on long distance freight costs, heavier crude processing costs to ensure economic feasibility
+## Manipal Hospitals posts ₹243 crore Q1 profit after listing, revenue rises 38%
+Revenue from operations increased 38.1% year-on-year to ₹3,091 crore, fueled by higher patient volumes and contributions from recent acquisitions
 
-## TN chief minister Vijay seeks legislative assurance against loss of Lok Sabha representation
-Vijay urged the Government of India to strengthen the regulatory framework governing the online sale of prescription medicines, ensure stricter enforcement against their unauthorised sale, and review the existing legal framework to effectively address emerging substance abuse among youth
+## India bets on gene-edited rice varieties as yield growth slows
+India’s rice sector faces a turning point as yield growth slows, driving renewed efforts to boost productivity with advanced hybrid varieties
 
-## India permits import of 1 million tonne raw sugar duty-free
-Permission under TRQ as domestic prices soar to record high of ₹55.70 a kg in New Delhi
+## T-Hub-OKI Electric to help deeptech start-ups get access to global markets
+The two organisations have shortlisted eight of the more than 150 startups they received from across the country.
 
-## Domestic air passenger traffic declines 4.8% in July
-Industry observers attributed the decline to the seasonal slowdown in travel as well as calibrated capacity deployment by airline
+## Seven-session slump snaps as Nifty finds floor at 24,000
+The Nifty 50 closed at 24,231.85, up 153.55 points or 0.64%, while the Sensex gained 628.04 points or 0.82% to settle at 77,537.72
 
-## Power Grid leverages synchronous condensers for grid integrity as RE capacity expands
-Synchronous condensers are a useful solution for stabilising the power produced by renewables
-
-## Ladakh to get J&K High Court bench, easing access to justice
-Union Home Minister Amit Shah announced the decision in a post on X on Thursday saying the new bench would significantly improve access to justice for people living in remote parts of Ladakh by reducing the time needed to access legal services.
+## India’s key reservoirs’ storage tops 60% of capacity
+However, 35% of dams are half empty as the level increases to 117.773 BCM of the 183.565 BCM capacity
 
 ## Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks
 H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of unce
+
+## India's solar story: Cell shortage may be short-lived as capacity set to tripple
+India is set to boost its solar cell production capability in the near future. This project is designed to comply with local-content regulations and to close the existing supply deficiencies. By December 2027, a noticeable increase in cell output is anticipated, driven by new investments aimed at en
+
+## India eases rupee trade rules, provides exporters alternative to dollar settlements; what it means
+Economic think tank Global Trade Research Initiative (GTRI) said the change means eligible rupee payments for exports to countries other than Nepal and Bhutan will now qualify for FTP benefits and can also be counted towards meeting export obligations.
 
 ## Govt allows duty-free imports of 1 million tons of raw sugar, signals price relief
 
@@ -78,11 +87,14 @@ The National Stock Exchange is considering a groundbreaking move to trade its ow
 ## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
 Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
 
-## Overseas remittance in focus: I-T uncovers Rs 1.29 lakh crore trail - money sent to China, UAE & more
-The probe comes as the rupee remains under significant pressure. The Reserve Bank of India has been regularly selling dollars in the foreign exchange market to contain volatility and prevent sharp, disorderly movements in the currency.
+## Son of Jana Sena MP booked after his Aston Martin kills woman in Hyderabad
+Bharati Mukhi, 26, died after an Aston Martin allegedly driven by Sanjush at high speed hit her while she crossed a road outside a Hyderabad mall.
 
-## Gold, silver price prediction: Where are gold, silver headed? Check outlook on August 20, 2026
-MCX Gold has entered a consolidation phase following the descending triangle breakout, but as the prices are continuing to hold above the formation is a positive sign & keeps the near-term trend in the bullish bias.
+## ED searches Congress leader Ram Gopal Agrawal’s Dhamtari home in liquor case
+ED searches Ram Gopal Agrawal’s home days after arrest in alleged liquor trade case; Congress workers protest outside in Chhattisgarh.
+
+## Mumbai man poses as transgender person, ‘rapes’ woman on pretext of ritual to ‘bless’ her with a child
+The woman was reportedly alone at home with an elderly relative when Anil Shinde arrived at the flat posing as a transgender.
 
 ## Once a rebel, ex-Mizoram CM Zoramthanga finally collects his degree 60 yrs later
 Former Mizoram CM Zoramthanga received his Gauhati University degree 60 years after graduating, following decades as an insurgent and politician.
@@ -93,20 +105,11 @@ The Qaumi Insaf Morcha on Wednesday called for a 'Punjab Bandh' on August 21 to 
 ## Mehul Choksi’s lawyer Vijay Aggarwal charged with sexual assault in London, held in custody
 Aggarwal has represented Choksi in legal proceedings related to fraud and money laundering cases.
 
-## Tamil Nadu CM Vijay keeps three requests before home minister Amit Shah – delimitation, NEET and…
+## Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, NEET and…
 Tamil Nadu CM Vijay also urged the Union government to review the existing legal framework to effectively address emerging substance abuse among youth.
 
 ## India, Japan sign agreement to deepen maritime security ties
 India and Japan sign maritime security pact covering information sharing, rescue operations and disaster relief, while expanding naval and defence cooperation.
-
-## India, Singapore sign pacts on telecom, food security; discuss SMRs, chips
-India and Singapore signed agreements on telecom and food security and explored cooperation in SMRs, semiconductors, space and cybersecurity.
-
-## Why did govt remove barriers outside Pakistan High Commission? Delhi’s tit-for-tat response to Islamabad’s action
-Authorities used heavy machinery on Wednesday to demolish structures near the Pakistan High Commission’s visa section, people familiar with the matter said.
-
-## Human intuition isn’t replaceable: Nike's Deepa Ramprasad on an icon’s evolution
-As the highly anticipated Pegasus Plus 2 breaks cover, Nike’s Deepa Ramprasad reveals how biomechanics and athlete feedback shaped the new ‘super runner’
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -228,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## One geography, two states: Saudi Arabia’s security approach to Sudan
+Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.
+
+## Deadly Russian missile barrage hits Kyiv in hours-long overnight attack
+Russia launched a hours-long overnight barrage of ballistic and cruise missiles and drones across Kyiv.
+
+## Gunmen seize tanker off Yemen amid resurgence of Somali piracy
+UK maritime security monitor says Seamull tanker diverted towards Somalia, as wave of piracy sweeps the Gulf of Aden.
+
+## Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?
+The US government is intensifying efforts to unify the country's two rival governments.
+
 ## Landslide kills 13 at illegal gold mine in Colombia’s southwest
 Mining activity caused a deadly slope collapse in Narino, claiming 13 lives and injuring seven others.
 
@@ -239,18 +254,6 @@ Iran's deep trade ties with Beijing and Moscow could prove difficult for the US 
 
 ## Governments brace for historic El Nino impacts on global weather extremes
 Sri Lanka earmarks $14m to fight severe drought, offering families 75 litres of water every two-three days.
-
-## ‘Tremendous costs’: Can Trump stop other countries from trading with Iran?
-Iran's foreign minister has dismissed Trump’s latest threats, calling them a “diversion" from America’s own crisis."
-
-## USS Washington arrives in Middle East after aircraft carrier outcry
-Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.
-
-## Trump’s war on Stars and Stripes: Why has military newspaper chief quit?
-Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.
-
-## Funeral for 50 Palestinians recovered from Gaza rubble
-A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
