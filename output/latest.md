@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## ‘How bad can it be?’ Chinese animated film becomes viral sensation
+Low-budget production from mother-and-son team proves unlikely hit with cinemagoers and social media users
+
+## The box that built globalisation
+Containers have transformed ports, cities and trade. Now the revolution is reaching a limit
+
 ## Who is really buying China’s humanoid robots?
 Companies are selling machines to government-backed centres that then sell training data back to robot makers
 
@@ -18,26 +24,26 @@ Also in this newsletter: US national debt tops $40tn and China’s Unitree makes
 ## Hudson River posts $11.4bn trading windfall as it seizes on market tumult
 Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war
 
-## UK Green activist who celebrated Iran’s ‘resistance’ elected to party council
-Eleanora Folan had praised Tehran’s ‘courageous fight against the imperialist dogs’
-
-## US government debt hits $40tn as borrowing rises at historic rate
-Public spending surges despite Donald Trump’s vow to stabilise America’s public finances
-
 ## Moderna shares nearly triple on skin cancer vaccine success
 Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial
 
 ## Stripe to buy start-up OpenRouter in $8bn deal
 Payment processor’s largest-ever acquisition is part of broader effort to expand into AI economy
 
-## Meet Gregory Fenelon, the (self-declared) $14bn man
-He has big stakes. We have big questions.
+## Sensex today | Stock Market Live: Sensex, Nifty set for positive opening after seven-session losing streak as global markets rally, Treasury yields ease
+Sensex, Nifty, Share Prices Live: GIFT Nifty futures were at 24,241 points, as of 7:56 am, indicating a ‌positive start for the benchmark Nifty 50 index, which closed at 24,078.3 on ‌Wednesday.
 
-## BlackRock and Oaktree take keys of top supplier to Hollywood studios
-Private credit groups take over MBS Group as entertainment industry slowdown knocks soundstage servicer
+## Indian banks raise $4 bn by issuing global bonds, trend to continue: Report
+The money has been raised between June 16 and August 13
 
-## Sensex today | Stock Market Live: 18 stocks including BSE, LIC, HDFC Bank, Aditya Infotech, Ramco Systems, Titagarh Rail will be in focus today
-Sensex, Nifty, Share Prices Live: Asian stocks rose as pressure from the bond market eased after the US Treasury unveiled plans to buy back longer-dated debt to curb borrowing costs. Treasuries held their gains, while the dollar steadied after falling to a three-month low.
+## SEBI bets on trading reforms to reverse foreign capital flight
+Regulator plans rollout within nine months, sources say; Aims to widen stock lending, ease short-selling in cash equities
+
+## Selloff likely for India bonds on RBI's rate hike mention in policy minutes
+The ⁠yield on the benchmark 6.94% 2036 bond is expected to trade between 6.80% and 6.85%, private bank trader says
+
+## Sensex, Nifty set to open higher as global bond markets steady
+GIFT Nifty futures were at 24,241 points, as of 7:56 am, indicating a ‌positive start for the benchmark Nifty 50 index, which closed at 24,078.3 on ‌Wednesday.
 
 ## All you need to know about Tempsens Instruments (India) IPO that opens today
 The ₹650-crore IPO of Tempsens Instruments will remain open until August 24; price band set at ₹285-300, with shares offered in a lot size of 50.
@@ -48,17 +54,17 @@ The ₹650-crore IPO of Tempsens Instruments will remain open until August 24; p
 ## Zinnov Awards 2026 Recognise GCCs Shaping Enterprise Outcomes in the AI Era
 Zinnov Awards 2026 Recognise GCCs Shaping Enterprise Outcomes in the AI Era
 
-## 18 stocks including BSE, LIC, HDFC Bank, Aditya Infotech, Ramco Systems, Titagarh Rail, Gravita, Strides, Dr Lal Path in focus today
-Focus will also be on Autoline, Tata Motors, NIS, Quint Digital, HEG, Cellar Gadgets, Ceigall, EMS, Mukund
+## Stock market today: GIFT Nifty signals positive start for Sensex and Nifty 50
 
-## Trump warns countries supporting Iran of ‘tremendous’ economic consequences
-The warning signals a possible expansion of Washington’s pressure campaign against Tehran beyond direct measures targeting Iran itself
 
-## Karnataka extends social security pensions to eligible beneficiaries earning up to ₹1.20 lakh
-The move could restore financial support to eligible pensioners previously excluded after income verification flagged them under the earlier threshold
+## Looking to allow global fund management from India: Sebi chief Tuhin Kanta Pandey
 
-## DoT directs telcos to deny new SIMs to subscribers with nine connections
-Telecom users seeking additional mobile numbers will face tighter checks as the government moves to enforce the existing limit more strictly
+
+## Cheap import, uneven demand slowing capex
+'Investment Confidence Still Catching Up Due To Commodity Price Volatility, Uncertainty'
+
+## Sebi bans two entities for illegal sensex CAS trades
+Action Comes On Day Sebi Chief Warned Against Manipulation
 
 ## Oil price today: Crude remains above $90 as Hormuz operations remain disrupted
 Oil prices have settled at elevated levels, staying above ninety dollars per barrel. Investors are weighing the unpredictable US-Iran situation and the potential impacts on shipping routes through the Strait of Hormuz. While intermittent Middle East assaults bolster market sentiment, the absence of 
@@ -72,41 +78,32 @@ This article explains what faceless scrutiny is. How does it work? Why are notic
 ## ‘Earning billions’: How fuel exporters in India, US are benefitting amid war-led oil supply disruptions
 With their own operations unaffected by attacks or shipping restrictions, refineries in India and the US have increased exports to markets that previously depended heavily on supplies from the Middle East and Russia.
 
-## Trump tariffs fail to dent India's export dependence on US; share stays near 20%
+## NCERT reconstitutes Class 11, 12 political science textbook team; four members have RSS, ABVP links
+The 20-member Textbook Development Team includes four members with documented links to the RSS, its student affiliate ABVP, or Sangh-affiliated organisations.
 
+## US body opposes Mohan Bhagwat’s visit this month, seeks sanctions on RSS members over religious freedom
+USCIRF stated that the US government should focus on imposing sanctions on RSS members found guilty of violating religious freedoms.
 
-## Russia turns to Asia for refined fuel, set to receive nearly 270,000 tonnes in Aug
-Russia is importing refined fuel from Asian nations this month. Ukrainian attacks on its oil refineries have reduced domestic fuel production significantly. India supplies about one-third of these crucial refined fuel imports. These shipments use ship-to-ship transfers to obscure their origins. Russ
+## Will fight allegations legally and politically: Riyas after ED raids
+CPI(M) MLA and former Kerala public works minister PA Mohammed Riyas on Wednesday said that he would fight the Directorate of Enforcement (ED)’s actions legally and politically, a day after the agency raided premises linked to his close associates in Kozhikode
 
-## Cabinet clears 4 railway multitracking projects worth Rs 9,450 crore across 4 states: Key details
-The Union Cabinet greenlit five significant infrastructure initiatives totaling over thirteen thousand crore rupees. Among these, four railway multitracking projects will extend the network by four hundred ten kilometers, alleviating congestion and enhancing freight transport across various states. 
+## Techie seeks approver status in KR Puram triple murder case
+Bengaluru The KR Puram triple murder investigation has taken a fresh turn with accused Shwetha Somasundar approaching the 29th (Additional Chief Judicial Magistrate) ACJM court to file confession statement, officials said on Wednesday
 
-## Stock market today: Markets end in red as Sensex slips 326 points, Nifty falls 0.32%
+## ‘He will not resign’: Cong backs min Nagendra over fund fraud
+The Congress government in Karnataka took a firm stand to back minister B Nagendra over his alleged involvement in the multi crore rupee embezzlement in the Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation (KMVSTDC), stating that no court of law had convicted him, even as the Bhar
 
+## BC Nagesh’s last rites to be performed today
+Bidar: BidarTributes poured in for senior BJP leader and former minister B C Nagesh, who died on Tuesday due to chronic health issues
 
-## NTA tightens vetting rules for subject experts after sacking 600 amid exam row
-The new requirements come a day after the NTA, on Tuesday, removed 600 subject experts as part of a rehaul of its examination system.
+## Govt to constitute SIT to probe fake medicine network: Min
+Bengaluru: The Karnataka government has decided to constitute a special investigation team (SIT) to probe the suspected network involved in manufacturing and distributing counterfeit medicines and branded pharmaceutical products, health minister U T Khader said on Wednesday
 
-## Mahatma Gandhi's great-grandson meets Abhijeet Dipke, says Gen Z adopted Bapu's values
-Speaking to reporters, Dipke stated that support from Gandhi's family shows that the movement was and will remain peaceful and non-violent.
+## Kolkata hotel fire: B’deshi journalist, kin had come for treatment
+A Bangladeshi journalist, his wife, their young son and his father-in-law were among nine people killed in the fire at Hotel Shikha Inn in central Kolkata on Wednesday
 
-## CJP protest LIVE: When and where will ‘cockroaches’ seek Bar Council chair Manan Mishra's resignation today?
-CJP protest LIVE: ‘Legal cockroaches’ will hold a protest against Bar Council of India (BCI) chairman Manan Mishra at 10am today, Cockroach Janta Party (CJP) co-convenor Saurav Das announced on Wednesday.
-
-## Congress to expand outreach to students, Ram Temple Trust protests
-The CWC decided to expand Rahul Gandhi’s student outreach to 800 towns and take up Vande Mataram and Ram temple donation issues
-
-## Jharkhand students pause stir for 60 days after exams cancelled
-The Hemant Soren-led state government announced the cancellation of 22 exams and ordered a probe into 23 others conducted by the JPSC and JSSC.
-
-## US ambassador calls J&K ‘important part of India’, Pak summons top diplomat to register protest
-Sergio Gor, the first US ambassador to travel to Jammu and Kashmir in six years, made the remarks after a meeting with chief minister Omar Abdullah.
-
-## ‘Economic D-Day’: Trump threatens ‘tremendous consequences’ for ‘any country’ helping Iran
-US President Donald Trump said he was launching a major new campaign to target Iran's economy.
-
-## Supreme Court asks NTA where things stand on 2024 exam reforms plan
-The Supreme Court stressed on the need to institutionalise the NTA and equip it with the adequate manpower required to run a unified national testing agency.
+## IPO queen Pamela Chung says headway needed for initial public offering connect scheme
+Hong Kong is seeing an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO & Share Registry Services, who says the scheme would allow mainland investors access to initial public offerings (IPOs) in Ho
 
 ## China’s Mech-Mind Robotics set to open order book for US$300m IPO, sources say
 China’s Mech-Mind Robotics Technologies plans to start taking investor orders for its Hong Kong initial public offering (IPO) as soon as next week amid a boom in artificial intelligence-driven robotics that has lifted investor enthusiasm, according to people familiar with the matter. The Meituan-bac
@@ -128,9 +125,6 @@ Prudential Hong Kong has agreed to lease headquarters space at Swire Properties�
 
 ## Goldman Sachs upbeat on wealth outlook despite worries over China’s tax scrutiny
 Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows. The Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while
-
-## China fund managers stick with AI, chips in August despite July sell-off, survey finds
-Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificial intelligence and chips remained China’s most preferred investment themes in August, while more investors moved to hedge tech exposure, according to a survey by BofA Global Resear
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -228,6 +222,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home
+At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.
+
+## Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
+Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.
+
 ## Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
 Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
 
@@ -246,11 +246,14 @@ English footballer Harry Kane won the title of ‘Europe’s best goalscorer’,
 ## Nigeria’s election campaign begins with Tinubu facing a reform test
 Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.
 
-## Iran war live: Trump announces ‘most crushing’ Iran sanctions
-Trump says Washington may resume talks with Tehran 'at some point'.
+## I-T unearths Rs 1.29 lakh cr foreign remittances
+The tax probe has found that a substantial portion of the money moved to a handful of overseas destinations. Singapore, the UAE, Hong Kong, Mauritius and China together accounted for 72.3% of the total remittances. Singapore emerged as the largest destination, receiving Rs 41,885 crore while Rs 18,3
 
-## US national debt passes record $40 trillion
-The amount has doubled in the last decade, from Trump's first term through the Biden administration.
+## India regulator reviewing small-company IPO, delisting rules, chief says
+INDIA-SEBI-India regulator reviewing small-company IPO, delisting rules, chief says
+
+## Sebi bans two entities for illegal sensex CAS trades
+The Securities and Exchange Board of India banned Copthall Mauritius Investments from trading. Mansi Share and Stock Broking also faced trading restrictions for similar illegal trades. Both entities allegedly manipulated the sensex Closing Auction Session on August thirteenth. Sebi impounded nearly 
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
@@ -266,15 +269,6 @@ India's tax amnesty scheme for small taxpayers opened Sunday and runs until Dece
 
 ## Networking with India's Top CFOs: What to Expect at ETCFO Annual Conclave 2026
 The ETCFO Annual Conclave 2026 brings together India Inc's finest CFOs for two days of closed-door conversations, keynotes and peer networking in Goa this November.
-
-## FSSAI says 6 food companies including Livyor, Rajasthan Agro corrected misleading labels, trademarks after notices
-Six food companies have corrected misleading labels and trademarks after FSSAI notices. Livyor Ventures Pvt Ltd withdrew its 'vegan and healthy' claims on edamame beans. Honest Innovations For You Pvt Ltd and Heliostone Specialities Pvt Ltd revised their trademarks. Rajasthan Agro and General Indust
-
-## Chandrasekaran's Exit: Succession Planning and the Board's Responsibility
-Succession planning should not begin when a leader is about to leave. Boards should have a process to identify potential successors well in advance, assess their readiness and ensure that the organisation is prepared for both a planned transition and an unexpected departure.
-
-## MCA tightens Ind AS accounting rules, revises financial instrument classification and disclosure norms
-Amendments introduce new accounting framework for nature dependent electricity contracts, electronic payments and contingent cash flows; key changes apply to financial year beginning April 1, 2026.
 
 ## MTNL, BSNL and RINL's ₹13,500 crore worth of realty assets to hit markets
 Realty assets worth an estimated ₹13,500 crore belonging to MTNL, BSNL and RINL are set to hit the market after the Department of Public Enterprises gave final approval for their monetisation. The National Land Monetisation Corp will market 23 prime properties across six cities, targeting ₹7,500 cro
