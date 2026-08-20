@@ -84,6 +84,12 @@ The National Stock Exchange is considering a groundbreaking move to trade its ow
 ## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
 Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
 
+## China to be India's main long-term competitor in multiple fields: Army ex-chief Naravane
+China to be India's main long-term competitor in multiple fields: Army ex-chief Naravane
+
+## India, Japan sign agreement to deepen maritime security ties
+India and Japan on Thursday signed a memorandum of arrangement to deepen maritime security cooperation, focusing on closer ties between the Indian Navy and the Japan Maritime Self-Defense Force—the latest in a series of steps to bolster bilateral military ties—during talks between defence minister R
+
 ## Mirza Fakhrul Islam Alamgir to be next Bangladesh President: Good or bad news for India, Sheikh Hasina?
 Alamgir has taken a tough stance on India previously. He once called on New Delhi to respect Bangladesh's sovereignty and democratic aspirations.
 
@@ -101,12 +107,6 @@ Bhavnagar collector Manish Bansal said 32 people were undergoing treatment at ho
 
 ## 'Break silos, engage more with youth': PM Modi’s message to officials after key high-level meeting
 PM Modi chaired the third high-level meeting with Secretaries to the Government of India at his residence on Thursday.
-
-## Notices issued to 1,268 drivers in Maharashtra over lack of working knowledge of Marathi
-Notices issued to 1,268 drivers in Maharashtra over lack of working knowledge of Marathi
-
-## ₹10,000 per lakh views: Bihar's incentive for creators making content on govt schemes
-This will be applicable after a replacement video completes 30 days of display, with the maximum amount payable for a single video capped at ₹1 lakh.
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -132,6 +132,12 @@ Chinese commercial banks have begun pricing corporate loans against a short-term
 ## Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market
 Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in
 
+## Bolivia’s Lithium Isn’t a Gold Mine
+Despite 20 percent of global deposits, the country produces less than 1 percent of supply.
+
+## State Department to Partner With Palantir, Anduril on Free Speech Initiative
+The Freedom Tech Excellence Program also includes the Bitcoin Policy Institute and the Victims of Communism Memorial Foundation.
+
 ## Israel and America Agree on Gaza’s New Leader
 The Trump administration’s peace plan has invested its hopes for Gaza’s future in the little-known Ali Shaath.
 
@@ -149,12 +155,6 @@ The effects of the coming “super” El Niño will reach beyond the continent.
 
 ## Realism Is Unrealistic
 How useful is a theory about power that consistently fails to explain what the world’s most powerful country does?
-
-## As the Israeli Election Nears, Trump Has Leverage Over Netanyahu
-A White House endorsement could improve the Israeli leader’s chances of winning.
-
-## Ukraine’s War Widows Are Fighting for Money
-Their husbands died defending the country—and now their families are struggling for compensation.
 
 ## Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed
 At the heart of the global effort to diversify away from Chinese supply of critical minerals is the tension between friendshoring and strategic autonomy.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Carlos Alcaraz confirms US Open return after four-month injury layoff
-Spanish tennis star had missed the French Open, ‌Wimbledon and the hard-court events in Toronto and ​Cincinnati.
+## University suspends US academic leading Jason Arday plagiarism accusations
+Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race.
 
-## Bangladesh elects ruling party veteran Alamgir as president
-Bangladesh elects Mirza Fakhrul Islam Alamgir by parliamentary vote, filling vacancy after Shahabuddin's resignation.
+## Arsenal vs Coventry: Premier League – prediction, lineups, teams
+Holders Arsenal face Coventry in the Premier League opener with doubts over Declan Rice and Bukayo Saka's match fitness.
 
-## Humanoid robots take centre stage in China-US tech race
-Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.
+## US Treasury secretary says new economic measures will ‘collapse’ Iran
+Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.
 
-## Swiss tourist jailed for insulting Bali’s sacred Day of Silence
-A Swiss tourist has been sentenced to one year in prison in Bali for social media posts insulting Nyepi
+## Fishermen rescued after five days clinging to cooler at sea
+Fishermen were rescued after being found floating in the Pacific where they spent five days clinging to a fish cooler
 
-## Daily struggle for clean water and food takes a physical toll on Gaza kids
-Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.
+## Jewish-American barred by Israel calls settler violence ‘state terror’
+Jewish-American activist says Israel barred his re-entry over his work with Palestinians in the occupied West Bank.
 
-## North Korea fires ballistic missiles as US-South Korea drills near end
-South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.
+## James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report
+Harden previously declined $42.3m player ⁠option on his contract in bid to secure a multi-year basketball deal.
 
-## At least 800 people evacuated from major wildfire in western Spain
-A major wildfire is threatening communities in western Spain with more than 800 people evacuated.
+## Thai schools hold shooter drills after deadly attack
+Schools across Thailand are carrying out active shooter drills to save lives and spread awareness.
 
-## Spanish police evict hundreds of migrants from Ceuta beach to shelters
-Hundreds of migrants are being removed from their makeshift camps on a beach in Ceuta, Spain.
+## Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict
+Who is Ahmad Hassoun, the 'barrel bomb mufti' close to the inner circle of the al-Assad regime?
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
