@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## FirstFT: Scott Bessent’s intervention to prop up US market fails to soothe investors
+Also in this newsletter: Loan to Guggenheim Partners falls to distressed territory and North Korea fires barrage of ballistic missiles
+
 ## Walmart shares tumble as sales growth slows to six-year low
 Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers
 
@@ -33,6 +36,9 @@ Plan would create an Italian banking group with a combined market valuation of a
 ## Meet Gregory Fenelon, the (self-declared) $14bn man
 He has big stakes. We have big questions.
 
+## BTS & ARMY: Inside a self-sustaining global brand ecosystem | Overthinker’s Anonymous | EP 01
+Did BTS just rewrite the rules of marketing?
+
 ## Kamarajar Port issues tender for ₹4,288-crore second container terminal
 To be developed on DBFOT basis
 
@@ -53,9 +59,6 @@ Iron ore, cement, electricity sectors expand while natural gas, crude oil, ferti
 
 ## Tech EVs squeeze ₹50 lakh luxury market: BMW & Merc Defend Turf
 BMW and Mercedes-Benz face fierce competition in India’s luxury market as electric SUVs disrupt pricing and customer preferences
-
-## Tata Trusts delay raises questions over legal recourse as dividend payout remains stuck
-The issue has assumed urgency as the delay carries a significant financial cost for the charitable trusts
 
 ## US-Iran war brings Air India Group's international carriage down 35%, IndiGo's 15.4%
 
@@ -129,6 +132,9 @@ Chinese commercial banks have begun pricing corporate loans against a short-term
 ## Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market
 Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in
 
+## Trump’s Tech Tensions
+The administration’s latest strategy document tries to balance technological competition with cooperation.
+
 ## The Clock Is Ticking Down on Another U.S.-Canada Trade War
 Senior Canadian officials are looking to make a deal to avoid new 50 percent U.S. tariffs.
 
@@ -149,9 +155,6 @@ The Trump administration’s peace plan has invested its hopes for Gaza’s futu
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
-
-## The Taliban’s Next Five Years
-The brutish group has been surprisingly stable since snatching power in 2021. Rockier times may lie ahead.
 
 ## Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed
 At the heart of the global effort to diversify away from Chinese supply of critical minerals is the tension between friendshoring and strategic autonomy.
