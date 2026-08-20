@@ -24,17 +24,14 @@ Payments company’s purchase of OpenRouter makes strategic sense
 ## US long-term bonds slide as Bessent intervention fails to soothe investors
 Yield on 30-year Treasuries rises despite move to ‘at least double’ purchases of securities
 
+## Guggenheim loan trades in distressed territory after investor call
+Chief executive Mark Walter’s business empire has come under pressure amid probe into his insurance holdings
+
 ## Monte dei Paschi readies twin takeover bids for Banca Generali and Banco BPM
 Plan would create an Italian banking group with a combined market valuation of about €70bn
 
 ## Meet Gregory Fenelon, the (self-declared) $14bn man
 He has big stakes. We have big questions.
-
-## Moderna breakthrough brings back memories of pandemic mania
-Biotech nearly triples as mRNA cancer treatment shows promise after company had struggled in recent years
-
-## Western oil refinery closures set to continue despite war shock
-North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness
 
 ## Kamarajar Port issues tender for ₹4,288-crore second container terminal
 To be developed on DBFOT basis
@@ -84,6 +81,9 @@ The National Stock Exchange is considering a groundbreaking move to trade its ow
 ## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
 Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
 
+## Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing
+Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing
+
 ## China to be India's main long-term competitor in multiple fields: Army ex-chief Naravane
 China to be India's main long-term competitor in multiple fields: Army ex-chief Naravane
 
@@ -104,9 +104,6 @@ Assam CM Himanta Biswa Sarma met PM Modi in Delhi to discuss flood recovery, reh
 
 ## Gujarat SMC arrests 13, detains MP-based key suspect for toxic liquor that killed 7
 Bhavnagar collector Manish Bansal said 32 people were undergoing treatment at hospitals and nine others had been discharged.
-
-## 'Break silos, engage more with youth': PM Modi’s message to officials after key high-level meeting
-PM Modi chaired the third high-level meeting with Secretaries to the Government of India at his residence on Thursday.
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -228,6 +225,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Brook makes Pakistan pay for dropped catch as England dominate first Test
+England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan's meagre first innings of 171.
+
+## Could US sanctions destroy the International Criminal Court?
+Washington's new measures against the ICC have been widely condemned but welcomed by Israel.
+
+## Walmart sees sales drop as US consumer spending retreats
+Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart's growth.
+
 ## University suspends US academic leading Jason Arday plagiarism accusations
 Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race.
 
@@ -242,15 +248,6 @@ Fishermen were rescued after being found floating in the Pacific where they spen
 
 ## Jewish-American barred by Israel calls settler violence ‘state terror’
 Jewish-American activist says Israel barred his re-entry over his work with Palestinians in the occupied West Bank.
-
-## James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report
-Harden previously declined $42.3m player ⁠option on his contract in bid to secure a multi-year basketball deal.
-
-## Thai schools hold shooter drills after deadly attack
-Schools across Thailand are carrying out active shooter drills to save lives and spread awareness.
-
-## Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict
-Who is Ahmad Hassoun, the 'barrel bomb mufti' close to the inner circle of the al-Assad regime?
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
