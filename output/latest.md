@@ -1,6 +1,6 @@
 # AION Intelligence
 
-## Trump announces new drive to isolate and crush Iranian economy
+## Trump announces fresh ‘economic warfare’ on Iran
 UAE, long a crucial trading hub for Tehran, has also suspended commercial ties
 
 ## America’s national debt hits record $40tn
@@ -39,14 +39,17 @@ Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
 ## Google’s China shift and the battle over AI models
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## Seven-session slump snaps as Nifty finds floor at 24,000
-The Nifty 50 closed at 24,231.85, up 153.55 points or 0.64%, while the Sensex gained 628.04 points or 0.82% to settle at 77,537.72
+## Elgi Equipments to invest ₹1.61 crore in renewable energy venture
+The investment aims to secure renewable energy for the company over 25 years to ensure long-term tariff stability and optimize power costs
 
-## India’s two-wheeler export surge moves upmarket; premium bikes grow 12.8%, scooters 18.2%
-The shift is being driven by Indian brands gaining ground overseas and the country emerging as a manufacturing and export hub for global markets
+## Despite rising profits, private hospitals defend room-rent pricing
+Hospitals push back against Parliamentary panel’s call to end room-rent-linked treatment pricing
 
-## Pulse Pharmaceuticals gets DCGI for nano-carrier entrapped vitamin D3 oral dispersion
+## Levi’s bets on India beyond jeans as women’s wear, premium products drive growth
+More than 95% of Levi’s India consumption is made or built in India, says Hiren Gor, Managing Director, South Asia, Middle East & Africa (SAMEA)
 
+## Core sector output growth eases to 5.4% in July
+Iron ore, cement, electricity sectors expand while natural gas, crude oil, fertilizers output dips
 
 ## Sunshine Pictures IPO hog the limelight with 106 times; Shankesh Jewellers 2.8x
 Sunshine Pictures’ IPO drew strong category-wise demand, while Shankesh closed with 2.8 times subscription
@@ -54,14 +57,11 @@ Sunshine Pictures’ IPO drew strong category-wise demand, while Shankesh closed
 ## Indian exports to Australia surge 200% in 5 years under ECTA
 CECA talks to widen trade: Australian diplomat
 
-## Brigade Group leases 1.62 lakh sq ft in Thiruvananthapuram to HealthEdge
-Located in Technopark Phase 1, Brigade Square is a 2-lakh-sq-ft IT office building. HealthEdge’s new campus will house teams across engineering, product development, technology, operations and corporate functions.
+## Pulse Pharmaceuticals gets DCGI approval for nano-carrier entrapped vitamin D3 oral dispersion
 
-## Auto component makers eyeing ₹9,000-10,000 crore market in lightweighting products by FY31: Equirus report
-Tighter CAFE-3 fuel-efficiency requirements are expected to increase OEM focus on lightweighting products
 
-## Telangana seeks assured price of ₹25,000 per tonne for oil palm FFB
-Telangana Agriculture Minister submitted a memorandum to Amit Shah at the 31st Southern Zonal Council meeting in Mahabalipuram, Tamil Nadu, on Thursday
+## New pests raise quarantine concerns in Kashmir as poplar, apple come under attack
+The pest, identified as Drosicha turkistanica, is a sap-sucking insect that weakens trees and, in severe infestations, can cause them to wither, according to Bashir Ahmad Rather, a professor at the Mountain Research Centre for Field Crops (MRCFC), Khudwani
 
 ## Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks
 H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of unce
@@ -87,6 +87,21 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Stock market today: BSE Sensex jumps over 550 points, NSE Nifty 50 opens above 24,200
 
 
+## India, Singapore sign pacts on telecom, food security; discuss SMRs, chips
+India and Singapore signed agreements on telecom and food security and explored cooperation in SMRs, semiconductors, space and cybersecurity.
+
+## Why did govt remove barriers outside Pakistan High Commission? Delhi’s tit-for-tat response to Islamabad’s action
+Authorities used heavy machinery on Wednesday to demolish structures near the Pakistan High Commission’s visa section, people familiar with the matter said.
+
+## Human intuition isn’t replaceable: Nike's Deepa Ramprasad on an icon’s evolution
+As the highly anticipated Pegasus Plus 2 breaks cover, Nike’s Deepa Ramprasad reveals how biomechanics and athlete feedback shaped the new ‘super runner’
+
+## Lawyers' group CJAR seeks FIR against Justice Yashwant Varma over unaccounted cash
+CJAR said the charges against Justice Varma go beyond “misconduct” under the Judges Inquiry Act and could also form the basis for criminal proceedings.
+
+## 6-year-old Vizag boy collapses, dies after teacher slaps him over homework
+The boy’s family gathered outside the school after learning of his death, and blamed the teacher for his death.
+
 ## New 'smart cancer drug' designed to 'switch on' may replace chemotherapy, says govt
 The government said the ‘smart’ cancer drug has been designed to switch on and work only inside cancer cells, sparing the healthy cells from damage.
 
@@ -95,21 +110,6 @@ Customers are requested to take note that all digital transactions will continue
 
 ## ‘Is Congress a Bollywood khan-dan?’ What Shehzad Poonawalla told Rahul Gandhi before quitting party in 2017
 Shehzad Poonawalla's two resignation letters contrast sharply: in 2017, he quit Congress over its dynastic politics; his BJP exit cited personal reasons
-
-## 'Gen Z' woman in viral Ladakh video breaks silence, says clip not correct
-The woman, in the viral video, was seen arguing with security personnel at the Minimarg checkpoint, objecting to the alleged ‘behaviour’ with ‘tourists’.
-
-## 10 injured as security forces stop Manipur protest over killing of 6 Nagas
-The injured were taken to a hospital in Imphal as tension remains high in the Namdilong area between security forces and protesters.
-
-## 'To what extent can English…': SC questions use of term ‘native’ in CBSE's three-language policy
-Questioning the use of term 'native', Justice Joymalya Bagchi said the correct term should be ‘indigenous’ and the NEP 2020 framers should have been concious.
-
-## ‘Between Pakistan and US': CM Omar Abdullah on Pak summoning US diplomat over Sergio Gor's J&K remark
-India's US ambassador Sergio Gor on Wednesday called J&K an “important part of India” and said Washington would reconsider its travel advisory for the UT.
-
-## WhatsApp reveal, influencer sister's plea: Chilling details in Lucknow double murder-suicide
-The deceased ICICI staffer was the sister of famous YouTuber Pragya Mishra, whose channel – Ulta Chashma UC – has over 8.5 million followers.
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump’s war on Stars and Stripes: Why has military newspaper chief quit?
+Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.
+
+## Funeral for 50 Palestinians recovered from Gaza rubble
+A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.
+
+## Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
+Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia's bombs is near impossible.
+
 ## Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat
 Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.
 
@@ -245,15 +254,6 @@ Club relegated from the Premier League last season appeals to fans to stop 'anti
 
 ## Myanmar military chief visits Bangkok as diplomatic offensive continues
 After five years of isolation, Myanmar's post-coup leadership is trying to boost its legitmacy.
-
-## Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war
-Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.
-
-## Migrant women face sexual assault in Ceuta
-Migrant women face sexual assault in Ceuta
-
-## FIFA’s Infantino under threat of no-confidence vote by regional bodies
-UEFA, AFC and CONCACAF understood to be considering no-confidence vote against FIFA's President Gianni Infantino.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
