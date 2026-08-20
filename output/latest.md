@@ -39,29 +39,29 @@ Also in this newsletter: tanker demand, and Zelenskyy fires top aide
 ## Harold Hamm launches multibillion-dollar plan to drill Argentine shale
 Trump ally partners with trader Mercuria in latest move targeting South American nation’s oil
 
+## Kamarajar Port issues tender for ₹4,288-crore second container terminal
+To be developed on DBFOT basis
+
+## HDFC Bank to raise $1.75 billion through senior notes; Moody’s assigns Baa3 rating
+
+
+## Angel Yeast's AHH Packaging Design Recognized with Red Dot Award
+Angel Yeast's AHH Packaging Design Recognized with Red Dot Award
+
+## SEBI curbs cool F&O participation by 20%, but traders still lose ₹91,685 crore
+Active individual traders fall 20 per cent in FY26, first decline since FY16; average loss per trader rises 2.4 per cent
+
+## India bets on gene-edited rice varieties as yield growth slows
+India’s rice sector faces a turning point as yield growth slows, driving renewed efforts to boost productivity with advanced hybrid varieties
+
+## Core sector output growth eases to 5.4% in July
+Iron ore, cement, electricity sectors expand while natural gas, crude oil, fertilizers output dips
+
 ## Tech EVs squeeze ₹50 lakh luxury market: BMW & Merc Defend Turf
 BMW and Mercedes-Benz face fierce competition in India’s luxury market as electric SUVs disrupt pricing and customer preferences
 
 ## UCBs may be small, but their risk environment is far larger: RBI Dy Guv Swaminathan
 Greater digital adoption and reliance on external technology providers are expanding the risk landscape for smaller banks, demanding stronger safeguards and oversight.
-
-## The Standard expands India GCC, targets nearly 400 employees by year-end
-The Standard’s India GCC operations were established in November 2025, while the Bengaluru office was inaugurated in April 2026
-
-## Manipal Hospitals posts ₹243 crore Q1 profit after listing, revenue rises 38%
-Revenue from operations increased 38.1% year-on-year to ₹3,091 crore, fueled by higher patient volumes and contributions from recent acquisitions
-
-## India bets on gene-edited rice varieties as yield growth slows
-India’s rice sector faces a turning point as yield growth slows, driving renewed efforts to boost productivity with advanced hybrid varieties
-
-## T-Hub-OKI Electric to help deeptech start-ups get access to global markets
-The two organisations have shortlisted eight of the more than 150 startups they received from across the country.
-
-## Seven-session slump snaps as Nifty finds floor at 24,000
-The Nifty 50 closed at 24,231.85, up 153.55 points or 0.64%, while the Sensex gained 628.04 points or 0.82% to settle at 77,537.72
-
-## India’s key reservoirs’ storage tops 60% of capacity
-However, 35% of dams are half empty as the level increases to 117.773 BCM of the 183.565 BCM capacity
 
 ## Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks
 H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of unce
@@ -87,29 +87,29 @@ The National Stock Exchange is considering a groundbreaking move to trade its ow
 ## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
 Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
 
-## Son of Jana Sena MP booked after his Aston Martin kills woman in Hyderabad
-Bharati Mukhi, 26, died after an Aston Martin allegedly driven by Sanjush at high speed hit her while she crossed a road outside a Hyderabad mall.
+## Himanta Biswa Sarma meets PM Modi in Delhi; discusses Assam floods, rehabilitation
+Assam CM Himanta Biswa Sarma met PM Modi in Delhi to discuss flood recovery, rehabilitation and rebuilding of areas hit by floods that killed 105 people.
 
-## ED searches Congress leader Ram Gopal Agrawal’s Dhamtari home in liquor case
-ED searches Ram Gopal Agrawal’s home days after arrest in alleged liquor trade case; Congress workers protest outside in Chhattisgarh.
+## Gujarat SMC arrests 13, detains MP-based key suspect for toxic liquor that killed 7
+Bhavnagar collector Manish Bansal said 32 people were undergoing treatment at hospitals and nine others had been discharged.
 
-## Mumbai man poses as transgender person, ‘rapes’ woman on pretext of ritual to ‘bless’ her with a child
-The woman was reportedly alone at home with an elderly relative when Anil Shinde arrived at the flat posing as a transgender.
+## 'Break silos, engage more with youth': PM Modi’s message to officials after key high-level meeting
+PM Modi chaired the third high-level meeting with Secretaries to the Government of India at his residence on Thursday.
 
-## Once a rebel, ex-Mizoram CM Zoramthanga finally collects his degree 60 yrs later
-Former Mizoram CM Zoramthanga received his Gauhati University degree 60 years after graduating, following decades as an insurgent and politician.
+## Notices issued to 1,268 drivers in Maharashtra over lack of working knowledge of Marathi
+Notices issued to 1,268 drivers in Maharashtra over lack of working knowledge of Marathi
 
-## Punjab bandh tomorrow: Will schools be closed? Govt clarifies
-The Qaumi Insaf Morcha on Wednesday called for a 'Punjab Bandh' on August 21 to press for the release of Sikh prisoners.
+## ₹10,000 per lakh views: Bihar's incentive for creators making content on govt schemes
+This will be applicable after a replacement video completes 30 days of display, with the maximum amount payable for a single video capped at ₹1 lakh.
 
-## Mehul Choksi’s lawyer Vijay Aggarwal charged with sexual assault in London, held in custody
-Aggarwal has represented Choksi in legal proceedings related to fraud and money laundering cases.
+## "Last chance": SC warns Centre it will pass directions if FSSAI fails to implement front-of-pack warning labels
+Chahar sought to explain the government's concerns, submitting that strict warning labels could result in traditional Indian foods
 
-## Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, NEET and…
-Tamil Nadu CM Vijay also urged the Union government to review the existing legal framework to effectively address emerging substance abuse among youth.
+## Odisha plans to scrap revenue clearance for urban land-use conversion
+Odisha’s proposed land reforms Bill will end separate revenue clearance for agricultural land conversion in urban areas, making civic bodies the approval point.
 
-## India, Japan sign agreement to deepen maritime security ties
-India and Japan sign maritime security pact covering information sharing, rescue operations and disaster relief, while expanding naval and defence cooperation.
+## Expired raw materials, stale bread found in Bengaluru hospital canteen kitchen
+The inspection was carried out at the hospital on B G Road, they said.
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## North Korea fires ballistic missiles as US-South Korea drills near end
+South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.
+
+## At least 800 people evacuated from major wildfire in western Spain
+A major wildfire is threatening communities in western Spain with more than 800 people evacuated.
+
+## Spanish police evict hundreds of migrants from Ceuta beach to shelters
+Hundreds of migrants are being removed from their makeshift camps on a beach in Ceuta, Spain.
+
+## Syria detains policeman over death of White Helmets rescuer hit in custody
+Authorities were warned about the dangers of hitting Mohammad Ghamira, who suffered from the rare medical condition haemophilia.
+
 ## One geography, two states: Saudi Arabia’s security approach to Sudan
 Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.
 
@@ -242,18 +254,6 @@ UK maritime security monitor says Seamull tanker diverted towards Somalia, as wa
 
 ## Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?
 The US government is intensifying efforts to unify the country's two rival governments.
-
-## Landslide kills 13 at illegal gold mine in Colombia’s southwest
-Mining activity caused a deadly slope collapse in Narino, claiming 13 lives and injuring seven others.
-
-## Man Utd preview: Five key talking points for 2026-27 Premier League season
-From Bruno Fernandes's future to a Champions League return, all to know about Manchester United before the new season.
-
-## How China and Russia could hobble Trump’s plans to isolate Iran
-Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.
-
-## Governments brace for historic El Nino impacts on global weather extremes
-Sri Lanka earmarks $14m to fight severe drought, offering families 75 litres of water every two-three days.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
