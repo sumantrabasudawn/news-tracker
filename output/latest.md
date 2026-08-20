@@ -129,6 +129,12 @@ Chinese commercial banks have begun pricing corporate loans against a short-term
 ## Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market
 Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in
 
+## The U.S. Bond Crisis Highlights a Deeper Fiscal Rot
+Scott Bessent is breaking the glass to check rising bond yields, but the fix is flawed.
+
+## A Tale of Two Socialists
+Why Spain’s Sánchez has succeeded while Britain’s Starmer floundered.
+
 ## Bolivia’s Lithium Isn’t a Gold Mine
 Despite 20 percent of global deposits, the country produces less than 1 percent of supply.
 
@@ -146,12 +152,6 @@ The brutish group has been surprisingly stable since snatching power in 2021. Ro
 
 ## Gray-Zone Warfare Picks Easy Targets in Germany
 Political appeasement won’t buy off hostile powers.
-
-## How Africa Is Battling Climate Extremes
-The effects of the coming “super” El Niño will reach beyond the continent.
-
-## Realism Is Unrealistic
-How useful is a theory about power that consistently fails to explain what the world’s most powerful country does?
 
 ## Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed
 At the heart of the global effort to diversify away from Chinese supply of critical minerals is the tension between friendshoring and strategic autonomy.
@@ -225,6 +225,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge
+WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.
+
+## Amputee children learn to swim after losing limbs in Israel’s war on Gaza
+Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.
+
+## Syria’s civil society navigates post-Assad era: Partnership or control?
+Syria's civil society grapples with redefining its role as the state reasserts itself after Assad's fall.
+
 ## Brook makes Pakistan pay for dropped catch as England dominate first Test
 England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan's meagre first innings of 171.
 
@@ -239,15 +248,6 @@ Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Ca
 
 ## Arsenal vs Coventry: Premier League – prediction, lineups, teams
 Holders Arsenal face Coventry in the Premier League opener with doubts over Declan Rice and Bukayo Saka's match fitness.
-
-## US Treasury secretary says new economic measures will ‘collapse’ Iran
-Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.
-
-## Fishermen rescued after five days clinging to cooler at sea
-Fishermen were rescued after being found floating in the Pacific where they spent five days clinging to a fish cooler
-
-## Jewish-American barred by Israel calls settler violence ‘state terror’
-Jewish-American activist says Israel barred his re-entry over his work with Palestinians in the occupied West Bank.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
