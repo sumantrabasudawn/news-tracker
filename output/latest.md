@@ -30,29 +30,35 @@ The €2.7bn spent so far by English clubs exceeds outlay of top teams in Italy,
 ## Blood clot discovery upends consensus about how wounds heal
 Proteins stack up in layers like sheets of paper to start to form clots, scientists find
 
-## Crude oil price: Futures rise as UAE suspends economic ties with Iran
-October Brent oil futures at $91.92, up by 0.33%; October crude oil futures on West Texas Intermediate at $84.57, up by 0.21%
+## Sensex today | Stock Market Live: Sensex jumps 500 pts, Nifty above 24,200 as global markets rally; Eternal, Infy top gainers
+Sensex, Nifty, Share Prices Live: Indian benchmark indices opened higher ​on Thursday, tracking broader Asia ‌as global bond markets steadied ​after the U.S. Treasury ⁠announced steps to bring down rising borrowing rates.
 
-## Nifty snaps seven-session losing streak; IT leads gains as bond yield relief lifts sentiment
-The rally was triggered largely by an overnight recovery on Wall Street after the US Treasury announced it would double long-duration bond buybacks to at least $4 billion per operation
+## Glenmark gets USFDA nod for generic fluticasone propionate nasal spray
+The product will be distributed in the US by Glenmark Pharmaceuticals Inc., USA
 
-## Sensex today | Stock Market Live: Sensex jumps 500 pts at open, Nifty near 24,200 as global markets rally, Treasury yields ease
-Sensex, Nifty, Share Prices Live: Sensex traded 538.01 pts or 0.70% higher at 77,447.69 at 9.16 am after opening at 77,468.45 from the previous close of 76,909.68. Nifty 50 gained 132.15 pts or 0.55% to 24,210.45.
+## Aditya Birla Capital to enter gold loan market, targets 1,000 branches
+Firm gold prices and safe-haven demand have increased value of jewellery pledged as collateral, boosting growth prospects for India’s gold loan industry
 
-## Innovation, design, global branding key to taking gems & jewellery exports to $100 bn: Commerce Secy
-‘India's strength lies in its vast pool of skilled craftspeople. Greater wealth creation would come from design, innovation and global branding rather than basic manufacturing’
+## Four Variants. Four World Beer Awards Honours. Simba's Portfolio Earns Global Recognition Across Two Consecutive Years
+Four Variants. Four World Beer Awards Honours. Simba's Portfolio Earns Global Recognition Across Two Consecutive Years
 
-## TN CM calls on Amit Shah, meeting of southern CMs to deliberate key issues
-Andhra Pradesh CM N Chandrababu Naidu, Telangana Dy CM Mallu Bhatti Vikramarka, the Chief Ministers of Keralam and Karnataka, DK Shivakumar and VD Satheesan, respectively, are set to take part in the talks
+## HDFC Bank shares rise 2% from 52-week low as RBI clears LIC stake increase
 
-## Musk's Starlink reapplies for India’s approval of satellite network: Reports
-Starlink provides direct-to-device ‌connectivity services using its constellation of satellites
 
-## Eastern Railway's ongoing capacity expansion involves ₹12,000 crore investment
-Of the total investment, around ₹10,000 crore is being spent on 563 km of line expansion, while another ₹2,000 crore is being invested in 10 bypass projects
+## Rupee rises 17 paise to 95.56 against US dollar in early trade
+The rupee firms up against dollar after US Treasury announces it would double its buyback operations for longer-dated Treasury bonds
 
-## Indian banks raise $4 bn by issuing global bonds, trend to continue: Report
-The money has been raised between June 16 and August 13
+## Auto component makers eyeing ₹9,000-10,000 crore market in lightweighting products by FY31: Equirus report
+Tighter CAFE-3 fuel-efficiency requirements are expected to increase OEM focus on lightweighting products
+
+## Gold retreats after scaling over 2-month peak on US Treasury move
+Spot gold rose over 4% on Wednesday
+
+## Gold, silver price prediction: Where are gold, silver headed? Check outlook on August 20, 2026
+MCX Gold has entered a consolidation phase following the descending triangle breakout, but as the prices are continuing to hold above the formation is a positive sign & keeps the near-term trend in the bullish bias.
+
+## Granite, grass and a helipad: Trump shows off his White House construction projects
+During a recent briefing, President Trump showcased key updates on White House renovations. He emphasized the stunning white granite driveway's completion and tackled technical aspects of the helipad's slope. Proudly, he mentioned enhancements to the exterior and landscaping. Additionally, he touche
 
 ## Stock market today: BSE Sensex jumps over 550 points, NSE Nifty 50 opens above 24,200
 
@@ -72,13 +78,19 @@ Oil prices have settled at elevated levels, staying above ninety dollars per bar
 ## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
 Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
 
-## Received income tax notice under Section 143(3)? What is faceless assessment & how you should respond
-This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.
+## 'Tareeka badla hai, maqsad nahi': Shehzad Poonawalla predicts Rahul Gandhi's future
+Shehzad Poonawalla began his political journey as a Congress volunteer around 2008 while he was still a student.
 
-## ‘Earning billions’: How fuel exporters in India, US are benefitting amid war-led oil supply disruptions
-With their own operations unaffected by attacks or shipping restrictions, refineries in India and the US have increased exports to markets that previously depended heavily on supplies from the Middle East and Russia.
+## Scottish politician Martyn Day ties the knot with Kerala-born partner Nidhin Chand in traditional temple ceremony
+Witnessing the beautiful union was her 22-year-old son, Vedik Shankar, along with close family members and friends, Manorama reported.
 
-## ‘Manan, it’s done bro’: Under one month of ending Delhi protest, why CJP is seeking another resignation
+## Why Sergio Gor's Kashmir remark is significant: Pakistan's sharp response, US travel advisory review
+Pakistan also claimed that Sergio Gor's statement “ran contrary to the United States' commitment to supremacy of international law and the UN charter.”
+
+## Mohammed Riyas refutes report on bank account being used to divert CMRL funds
+Mohammed Riyas refutes report on bank account being used to divert CMRL funds
+
+## ‘Manan, it’s done bro’: Within a month of ending Delhi protest, why CJP is seeking another resignation
 The All India Young Advocates Association called for the protest against BCI chairman Manan Mishra, and CJP leaders have extended their support.
 
 ## Foreigner dies in RPF custody at Surat railway station
@@ -90,20 +102,14 @@ The Khasi Students’ Union organised the rally as it stepped up its agitation a
 ## Supreme Court seeks clarity on exam reform committee's role amid NEET paper leak
 The Supreme Court asked the Centre to place on record whether the Nilekani panel had modified or “nuanced” the recommendations of the K Radhakrishnan committee.
 
-## In war on drugs, NCB to focus on foreigners involved in trafficking
-NCB will coordinate with state forces for a crackdown on illegally staying foreigners allegedly involved in drug trafficking
+## Top economist on how China should prep for dollar era’s end
+Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
 
-## SC’s nine-judge bench verdict today on what constitutes an ‘industry’
-The ruling had far-reaching consequences, bringing several activities outside the conventional commercial or industrial sphere within the ambit of the Industrial Disputes Act
-
-## NCERT reconstitutes Class 11, 12 political science textbook team; four members have RSS, ABVP links
-The 20-member Textbook Development Team includes four members with documented links to the RSS, its student affiliate ABVP, or Sangh-affiliated organisations.
-
-## US body opposes Mohan Bhagwat’s visit this month, seeks sanctions on RSS members over religious freedom
-USCIRF stated that the US government should focus on imposing sanctions on RSS members found guilty of violating religious freedoms.
+## US Treasuries in driver’s seat for risky AI stocks as investors grapple with elevated yields
+Stock traders in mainland China and Hong Kong are looking to the US bond market for clues on the sustainability of the artificial-intelligence trade after rising Treasury yields jolted global financial markets. Elevated yields on longer-dated Treasuries, a benchmark for global funding costs from mor
 
 ## China Evergrande founder Hui Ka-yan sentenced to life imprisonment
-A court in Shenzhen has sentenced China Evergrande Group founder Hui Ka-yan, also known as Xu Jiayin, to life imprisonment for “multiple combined crimes”, confiscating all Hui’s personal property. More to follow...
+A court in Shenzhen has sentenced China Evergrande Group founder and former chairman Hui Ka-yan, also known as Xu Jiayin, to life imprisonment for “multiple combined crimes”, confiscating all Hui’s personal property. Meanwhile, Evergrande was fined 8.82 billion yuan (US$1.31 billion), while its onsh
 
 ## IPO queen Pamela Chung says headway needed for initial public offering connect scheme
 Hong Kong is seeing an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO & Share Registry Services, who says the scheme would allow mainland investors access to initial public offerings (IPOs) in Ho
@@ -119,12 +125,6 @@ Shanghai has issued plans to boost its digital economy by doubling down on secto
 
 ## Why the historic US-Japan intervention has failed to lift pressure on the yen
 With a rare joint US-Japan market intervention weeks ago failing to rectify the weakness of the Japanese currency, Tokyo and Washington could be forced to launch another round of boosting efforts, with a deepening US Treasury rout expected to fuel the global yen carry trade, according to analysts. T
-
-## Making better robots depends on better data capture, Chinese firm 51World says
-The race to develop intelligent humanoid robots faces a major roadblock in a severe shortage of high-quality training data, but Beijing-based tech company 51World believes it has the tools to break the bottleneck. Best known for its digital twin and simulation technology, 51 World on Tuesday unveile
-
-## Prudential Hong Kong expands headquarters across Swire Properties’ towers
-Prudential Hong Kong has agreed to lease headquarters space at Swire Properties’ One Taikoo Place and One Island East, marking a notable expansion of its office footprint in the city, according to the developer. Under the agreement, the insurer will occupy a total of 83,000 sq ft across the two buil
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -222,8 +222,11 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections
-At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.
+## Trump vows ‘economic warfare’ on countries helping Iran
+US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
+
+## Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections
+Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.
 
 ## Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
 Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.
@@ -243,8 +246,8 @@ Nearly 270,000 Israelis have left the country over three years, citing political
 ## Harry Kane scores goal by winning Golden Shoe for the second time
 English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.
 
-## Nigeria’s election campaign begins with Tinubu facing a reform test
-Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.
+## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
+The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
 
 ## I-T unearths Rs 1.29 lakh cr foreign remittances
 The tax probe has found that a substantial portion of the money moved to a handful of overseas destinations. Singapore, the UAE, Hong Kong, Mauritius and China together accounted for 72.3% of the total remittances. Singapore emerged as the largest destination, receiving Rs 41,885 crore while Rs 18,3
@@ -266,9 +269,6 @@ The Gujarat High Court upheld Goods and Services Tax on corporate guarantees pro
 
 ## India opens tax amnesty scheme for small taxpayers to declare select foreign assets
 India's tax amnesty scheme for small taxpayers opened Sunday and runs until December 2026. This one-time measure aims to bring undeclared foreign assets and income into the tax net. Taxpayers with undisclosed foreign income up to one crore rupees can declare it.
-
-## Networking with India's Top CFOs: What to Expect at ETCFO Annual Conclave 2026
-The ETCFO Annual Conclave 2026 brings together India Inc's finest CFOs for two days of closed-door conversations, keynotes and peer networking in Goa this November.
 
 ## MTNL, BSNL and RINL's ₹13,500 crore worth of realty assets to hit markets
 Realty assets worth an estimated ₹13,500 crore belonging to MTNL, BSNL and RINL are set to hit the market after the Department of Public Enterprises gave final approval for their monetisation. The National Land Monetisation Corp will market 23 prime properties across six cities, targeting ₹7,500 cro
