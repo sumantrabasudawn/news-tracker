@@ -30,29 +30,29 @@ The €2.7bn spent so far by English clubs exceeds outlay of top teams in Italy,
 ## Blood clot discovery upends consensus about how wounds heal
 Proteins stack up in layers like sheets of paper to start to form clots, scientists find
 
+## HDFC Bank eyes $1 billion overseas debt raise, bankers say
+The lender plans to raise at least $500 million each through three-year and five-year bonds via its GIFT ‌City branch
+
+## Lufthansa launches high-speed in-flight internet powered by Starlink
+The new onboard Wi-Fi service provides free, high-speed internet connectivity, enabling passengers to access cloud-based work platforms and other high-bandwidth applications during flights.
+
 ## Sensex today | Stock Market Live: Sensex jumps 500 pts, Nifty above 24,200 as global markets rally; Eternal, Infy top gainers
 Sensex, Nifty, Share Prices Live: Indian benchmark indices opened higher ​on Thursday, tracking broader Asia ‌as global bond markets steadied ​after the U.S. Treasury ⁠announced steps to bring down rising borrowing rates.
 
-## Glenmark gets USFDA nod for generic fluticasone propionate nasal spray
-The product will be distributed in the US by Glenmark Pharmaceuticals Inc., USA
+## BSE shares up 2% as exchange explores MSCI-linked derivatives
+BSE Ltd has entered into an agreement with MSCI for a number of its indexes; BSE will explore the launch of futures and options contracts in India linked to these indexes
 
-## Aditya Birla Capital to enter gold loan market, targets 1,000 branches
-Firm gold prices and safe-haven demand have increased value of jewellery pledged as collateral, boosting growth prospects for India’s gold loan industry
+## Aditya Birla Capital to enter gold loan market, targets 200-300 branches by March 2027
+ABCL to use its distribution network and digital capabilities to deliver a superior customer experience: Rakesh Singh, Executive Director and CEO - NBFC, ABCL
 
-## Four Variants. Four World Beer Awards Honours. Simba's Portfolio Earns Global Recognition Across Two Consecutive Years
-Four Variants. Four World Beer Awards Honours. Simba's Portfolio Earns Global Recognition Across Two Consecutive Years
+## Used car loans grew faster than auto loans in last five years despite higher stress: Report
+Financiers have funded used cars despite facing higher stress in the segment; loans unpaid for 31-90 days inched up to 3.1% in the used car portfolio as against just 2.1% in auto loans
 
-## HDFC Bank shares rise 2% from 52-week low as RBI clears LIC stake increase
+## RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds
+Yield on benchmark ⁠6.94% 2036 bond at 6.8382%
 
-
-## Rupee rises 17 paise to 95.56 against US dollar in early trade
-The rupee firms up against dollar after US Treasury announces it would double its buyback operations for longer-dated Treasury bonds
-
-## Auto component makers eyeing ₹9,000-10,000 crore market in lightweighting products by FY31: Equirus report
-Tighter CAFE-3 fuel-efficiency requirements are expected to increase OEM focus on lightweighting products
-
-## Gold retreats after scaling over 2-month peak on US Treasury move
-Spot gold rose over 4% on Wednesday
+## Non-print biz to grow 12% for major newspapers versus 3% in core print biz: Report
+There is an "urgency" in the transition, given the fact that circulation of large newspapers has declined to 1 crore in 2025 from 1.5 crore in 2019
 
 ## Gold, silver price prediction: Where are gold, silver headed? Check outlook on August 20, 2026
 MCX Gold has entered a consolidation phase following the descending triangle breakout, but as the prices are continuing to hold above the formation is a positive sign & keeps the near-term trend in the bullish bias.
@@ -78,6 +78,18 @@ Oil prices have settled at elevated levels, staying above ninety dollars per bar
 ## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
 Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
 
+## Unique identification number proposed for all registered medical practitioners
+Unique identification number proposed for all registered medical practitioners
+
+## Not just sanitation workers; every citizen has to maintain cleanliness: SC
+The court said the assumption that solid waste is a problem for sanitary workers alone is neither legally correct nor practically sustainable
+
+## BJP hits back after Dipke's PM Cares fund appeal for schools: ‘Kejriwal didn’t teach him basic facts'
+The Goa unit further called on Dipke to visit Punjab and assess the schools in the AAP-ruled state.
+
+## Disabling name-based court record searches may pose 'herculean' challenge: HC
+A bench of justices said that restricting searches to case-specific details alone would make it difficult for users to locate and access judgments.
+
 ## 'Tareeka badla hai, maqsad nahi': Shehzad Poonawalla predicts Rahul Gandhi's future
 Shehzad Poonawalla began his political journey as a Congress volunteer around 2008 while he was still a student.
 
@@ -89,18 +101,6 @@ Pakistan also claimed that Sergio Gor's statement “ran contrary to the United 
 
 ## Mohammed Riyas refutes report on bank account being used to divert CMRL funds
 Mohammed Riyas refutes report on bank account being used to divert CMRL funds
-
-## ‘Manan, it’s done bro’: Within a month of ending Delhi protest, why CJP is seeking another resignation
-The All India Young Advocates Association called for the protest against BCI chairman Manan Mishra, and CJP leaders have extended their support.
-
-## Foreigner dies in RPF custody at Surat railway station
-According to police, after the train left Vapi station, he got into an argument with passengers over standing near the coach door
-
-## Meghalaya student rally degenerates into violence; vehicles set ablaze
-The Khasi Students’ Union organised the rally as it stepped up its agitation against the state government’s indifferent attitude
-
-## Supreme Court seeks clarity on exam reform committee's role amid NEET paper leak
-The Supreme Court asked the Centre to place on record whether the Nilekani panel had modified or “nuanced” the recommendations of the K Radhakrishnan committee.
 
 ## Top economist on how China should prep for dollar era’s end
 Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
@@ -222,6 +222,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Exclusive: Pentagon sends ‘political loyalty’ survey to US allies
+In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.
+
+## At least 6 killed in multiple Russian missile strikes across Ukraine
+Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
+
 ## Trump vows ‘economic warfare’ on countries helping Iran
 US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
 
@@ -239,12 +245,6 @@ Recently released body camera footage shows a deck collapsing during a warrant o
 
 ## Publisher of US military newspaper resigns over differences with government
 Retirement of longtime Stars and Stripes publisher comes amid the Trump administration's push for editorial control.
-
-## ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
-Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.
-
-## Harry Kane scores goal by winning Golden Shoe for the second time
-English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
