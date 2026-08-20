@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray
-Former chief of staff to previous PM describes onslaught of negative briefings and says Starmer ‘lacked vision’
-
 ## Russian missile attack kills at least 13 in Kyiv
 Strikes come as Ukraine struggles with a shortage of Patriot interceptor missiles
+
+## Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray
+Former chief of staff to previous PM describes onslaught of negative briefings and says Starmer ‘lacked vision’
 
 ## Google’s China shift and the battle over AI models
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
@@ -24,38 +24,41 @@ Company has fast become one of the biggest players in global commodities market
 ## Federal Reserve policymakers are becoming more hawkish
 Since the July meeting, more FOMC voters have said they are worried about inflation
 
+## JD Sports issues fresh profit warning as US sales tumble at ‘King of Trainers’
+Shares in UK retailer drop 10% after latest setback
+
 ## Travelodge chief steps down after female guest assaulted
 Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
 
 ## Hong Kong’s CK Hutchison seeks $1.5bn from Panama in canal ports dispute
 Conglomerate accuses government of ‘destruction’ of investments after it was ejected from terminals
 
-## China hits out at EU probe into JD.com bid for German retailer
-Beijing may ‘resolutely retaliate’ over probe into Ceconomy offer, says justice ministry
+## HDFC Bank shares rise 2% from 52-week low as RBI clears LIC stake increase
+The fundraising comes as banks seek to complete overseas fundraising before a special central bank FX swap window closes
 
-## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty holds gap-up gains in tight range; financials lead, metals drag
+## Sensex today | Stock Market Live: Sensex rises over 650 pts, Nifty near 24,250; financials lead, metals drag
 Sensex, Nifty, Share Prices Live: Markets were trading higher at midday on Thursday, holding on to most of their gap-up opening gains, though indices entered a narrow consolidation phase as participants turned cautious at higher levels.
 
-## ICICI Bank shares rise as Bank Nifty gap-up lifts private bank stocks
-ICICI Bank’s year-to-date gain of 5.16% continues to stand out against the Nifty 50’s decline of 7.39% over the same period
+## CBIC instructs its officers to co-ordinate with state authorities to detect GST evasion in illegal mining cases
+CBIC calls for cross-departmental data sharing between CGST formations, State Mining Authorities and tax administrations
 
-## Kerala: Onam sales of Supplyco cross ₹200 cr, draw 26 lakh customers
-SupplyCo is a state-run company which aims to regulate the market price of essential commodities and ensure food security
+## Trilegal opens dedicated disputes office at Mumbai’s Killick House
+The disputes practice comprises 28 partners and over 215 lawyers nationally, covering commercial litigation, domestic and international arbitration, insolvency proceedings, regulatory investigations, and white-collar matters
 
-## Nifty holds gap-up gains in tight range; financials lead, metals drag
-At 12.15 pm, the Sensex was at 77,449.38, up 539.70 points or 0.70%, while the Nifty 50 was at 24,217.20, up 138.90 points or 0.58%
+## Nifty snaps 7-session losing streak; IT stocks lead as bond yields ease
+The rally was triggered largely by an overnight recovery on Wall Street after the US Treasury announced it would double long-duration bond buybacks to at least $4 billion per operation
 
-## Supreme Infrastructure Targets Next-Phase Growth Led by EPC, Housing & GCC Projects
-Supreme Infrastructure Targets Next-Phase Growth Led by EPC, Housing & GCC Projects
+## Auto component makers eyeing ₹9,000-10,000 crore market in lightweighting products by FY31: Equirus report
+Tighter CAFE-3 fuel-efficiency requirements are expected to increase OEM focus on lightweighting products
 
-## Bry-Air Sets a New Global Pathway for Air to Water Generation
-Bry-Air Sets a New Global Pathway for Air to Water Generation
+## Mankind Pharma inks in-licensing pact with China’s Chongqing Chenan Biopharmaceutical on two insulin analogues
+The partnership broadens Mankind Pharma’s strategy in diabetes care and advanced injectable therapies
 
-## Gold Rate Today, Aug 20: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
-22, 24 carat Gold prices up across Indian cities on August 20
+## Zappfresh owner DSM Fresh Foods eyes threefold revenue growth by FY28
+BSE SME-listed company plans to scale its network to 200 stores, grow overseas sales to ₹70-80 crore and broaden its frozen-food portfolio as it aims ₹600 crore revenue by FY28
 
-## Turtlemint shares jump over 5% as Jefferies initiates buy call, sets ₹190 target
-At 12.06 pm, the stock traded at ₹144.40, after hitting a high of ₹146.50, against its previous close of ₹138.92.
+## Can't hold more than 10 tonnes for 15 days: Govt imposes stock limit on sugar for bulk consumers
+
 
 ## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
 Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
@@ -78,8 +81,23 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Cheap import, uneven demand slowing capex
 'Investment Confidence Still Catching Up Due To Commodity Price Volatility, Uncertainty'
 
-## Sebi bans two entities for illegal sensex CAS trades
-Action Comes On Day Sebi Chief Warned Against Manipulation
+## Mehul Choksi’s lawyer Vijay Aggarwal in London jail, charged with 4 sexual assault charges
+Born in Delhi, Vijay Aggarwal faces four counts of sexual assault involving two women.
+
+## Watch: Vande Bharat Express clocks nearly 100km/h on world's highest Chenab rail bridge in J&K
+This comes after a rise in the maximum permissible speed to 100 kmph on the 111-km-long new broad gauge rail stretch between Katra and Banihal in the region.
+
+## SC to hear review pleas against 2022 verdict upholding ED’s powers in money laundering cases
+SC to hear review pleas against 2022 verdict upholding ED’s powers in money laundering cases
+
+## 5-year-old Indian girl battles life-threatening sepsis after tiger scratch in Pattaya during ‘photo-ops’
+Calling the case “unusual”, doctors stressed the importance of getting even minor animal bites or scratches medically assessed.
+
+## Amit Shah chairs southern CMs conclave, Shivakumar flags delimitation
+Amit Shah chairs southern CMs conclave, Shivakumar flags delimitation
+
+## ‘New Muslim League’: Nitin Nabin attacks Congress as Vande Mataram row escalates, Opposition hits back
+The Congress Working Committee (CWC) decided to sing only the first two stanzas of "Vande Mataram" at party events, following its 1937 resolution.
 
 ## Shivakumar seeks Southern Zonal Council resolution to retain 543 Lok Sabha seats, honour 1971 census
 Shivakumar seeks Southern Zonal Council resolution to retain 543 Lok Sabha seats, honour 1971 census
@@ -87,23 +105,11 @@ Shivakumar seeks Southern Zonal Council resolution to retain 543 Lok Sabha seats
 ## Tarun Tejpal moves SC against conviction in 2013 sexual assault case
 Former Tehelka editor Tarun Tejpal has moved the Supreme Court challenging the Bombay high court’s verdict.
 
-## Vijay, Shivakumar, Chandrababu Naidu on stage: Amit Shah's meeting brings Southern CMs together
-Amit Shah is the Chairman of the Southern Zonal Council, while Tamil Nadu Chief Minister C Joseph Vijay is its Vice-Chairman.
+## Japan faces a tough inflation-growth trade-off – and it’s not alone
+Global bond markets are throwing a tantrum. On August 17, the yield on 30-year US Treasury bonds hit 5.3 per cent, its highest level since 2007 and up from 4.8 per cent as recently as June 29. The average yield on long-term debt across the Group of 7 advanced economies is the highest since 2008. Sev
 
-## Mayawati backs Gen Alpha school protests, urges govts to address basic needs
-Mayawati backs Gen Alpha school protests, urges govts to address basic needs
-
-## Odisha floods: ASHA worker carries elderly woman to safety on back
-Odisha floods: ASHA worker carries elderly woman to safety on back
-
-## Murder case filed against six policemen over jeweller's death in UP's Shahjahanpur
-Murder case filed against six policemen over jeweller's death in UP's Shahjahanpur
-
-## Manipur schools, colleges shut amid tensions over demands for NRC before Census
-Hundreds of students are demonstrating in Imphal demanding NRC before the Census ahead of the house listing from September 1 to September 30
-
-## Centre tightens sugar stock curbs amid record prices, bulk buyers face 15-day cap
-Any bulk consumer using or consuming more than 10 tonnes of sugar a month will not be allowed to hold stocks for more than 15 days.
+## Chinese banks embrace cheaper short-term loan rates despite margin risks
+Chinese commercial banks have begun pricing corporate loans against a short-term interbank repo rate rather than the benchmark loan prime rate (LPR), a shift drawing sharp scrutiny from investors worried about the sector’s already thin profitability. The industry’s average net interest margin – the 
 
 ## Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market
 Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in
@@ -122,12 +128,6 @@ A court in Shenzhen has sentenced China Evergrande Group founder and former chai
 
 ## IPO queen Pamela Chung says headway needed for initial public offering connect scheme
 Hong Kong is seeing an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO & Share Registry Services, who says the scheme would allow mainland investors access to initial public offerings (IPOs) in Ho
-
-## China’s Mech-Mind Robotics set to open order book for US$300m IPO, sources say
-China’s Mech-Mind Robotics Technologies plans to start taking investor orders for its Hong Kong initial public offering (IPO) as soon as next week amid a boom in artificial intelligence-driven robotics that has lifted investor enthusiasm, according to people familiar with the matter. The Meituan-bac
-
-## AIA first-half profit up 11%, driven by strong growth in Hong Kong and Asia sales
-AIA Group, Asia’s largest independent publicly listed life insurance group, reported 11 per cent growth in first-half operating profit, driven by strong growth of Hong Kong and mainland China sales and expansion in Southeast Asian markets. Operating profit after tax on a constant currency basis reac
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -177,6 +177,9 @@ Xi’s commemoration of Jiang was ultimately less an exercise in historical reme
 ## Kazakhstan’s Kurultai Election is a Domestic Test for Central Asia’s Regional Ambitions
 Central Asia’s growing international agency needs to be matched by domestic institutions capable of implementing what governments negotiate abroad.
 
+## War: Watt Is It Good For?
+Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
+
 ## China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That
 For years, the Chinese military’s own newspaper has been making a promise it may no longer be able to keep. Whenever the People’s Liberation Army Daily (Jiefangjun Bao), the official newspaper of China’s Central Military Commission, discusses artificial intelligence and command, it returns to the sa
 
@@ -197,9 +200,6 @@ In 2025, James Cameron wrote, “Eurodeterrent: A Vision for an Anglo-French Nuc
 
 ## AI and the Risks of Tearing Down an Old System
 Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the op
-
-## Inside Brazil’s 3D-Printed Gun Supply Chain
-On June 26, 2026, the Civil Police of Rio de Janeiro, through its specialized firearms, ammunition, and explosives unit, raided a clandestine workshop in Rio das Pedras, on the city’s west side. Investigators said the group used a 3D printer seized at the scene to produce pistol frames and structura
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Max Verstappen signs new F1 contract with Red Bull until 2030
+Four-time F1 World Drivers' Champion's new deal puts to rest rumours that he would exit the team at the end of 2028.
+
+## Heatwaves and energy crunch: Can Europe withstand a double shock?
+Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.
+
+## Video shows Russian missile strike on Ukrainian capital
+Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.
+
+## Ben-Gvir celebrates demolition of Palestinian homes in Israel
+Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.
+
+## Netanyahu warns Israel will not tolerate Turkish military presence in Syria
+Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.
+
+## Oil flows nearly tripled before US-Iran MoU expired, analysis shows
+Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.
+
 ## Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
 World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.
 
 ## Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
 UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.
-
-## Lionel Messi scores first goal for Inter Miami since father’s death
-Messi's 26th-minute goal in the MLS fixture comes just 11 days after the passing of his father Jorge on August 8.
-
-## Bangladesh holds presidential election in first contested vote in 35 years
-BNP's Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.
-
-## Australian anger as Israel drops World Central Kitchen deaths case
-Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.
-
-## Exclusive: Pentagon sends ‘political loyalty’ survey to US allies
-In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.
-
-## At least 6 killed in multiple Russian missile strikes across Ukraine
-Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
-
-## Trump vows ‘economic warfare’ on countries helping Iran
-US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
@@ -273,6 +273,9 @@ The Securities and Exchange Board of India banned Copthall Mauritius Investments
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
 
+## Hawkish RBI minutes, softer dollar soothe rupee sentiment while intervention boosts
+The Indian rupee strengthened slightly on Thursday, aided by central bank actions. Hawkish policy minutes from the Reserve Bank of India also supported the currency. A generally weaker dollar provided additional positive momentum for the rupee. Elevated oil prices and corporate demand for dollars fa
+
 ## LIC gets RBI nod to raise stake in HDFC Bank to nearly 10% from 4.11%
 Life Insurance Corporation of India (LIC), India's largest insurance company, has received approval from the Reserve Bank of India (RBI) to increase its stake in HDFC Bank to up to 9.99 per cent.
 
@@ -293,7 +296,4 @@ Finance Minister Nirmala Sitharaman will soon announce a high-level committee on
 
 ## FCNR(B) swap cost unlikely to have driven RBI’s early closure: SBI Research report
 SBI Research said the cost of the RBI’s FCNR(B) swap facility is unlikely to have driven its early closure, estimating cumulative hedging costs at USD 10.5 billion over five years. It said mobilisation targets may already have been achieved, with FCNR(B) deposits at USD 52.3 billion as of August 13.
-
-## India's telecom and network equipment sector could double GDP share, but needs urgent policy support: NITI Aayog
-While India's telecom and network equipment (TANE) sector has strong growth potential, heavy import dependence, especially on China--underscores the need for urgent policy support to boost domestic manufacturing and exports that will likely double the sector's GDP share and position India as a USD 5
 
