@@ -36,29 +36,29 @@ Competition and Markets Authority reviews charges added later in buying process
 ## Private credit risks remain at large
 Regulators and investors should pay attention to the strain in the direct loan market
 
-## India cuts sugar inventory limit to 15 days amid record prices
-Tighter supplies, weather disruptions and rising festival-season demand are putting pressure on India’s sugar market, prompting fresh government intervention
+## Trump warns countries supporting Iran of ‘tremendous’ economic consequences
+The warning signals a possible expansion of Washington’s pressure campaign against Tehran beyond direct measures targeting Iran itself
 
-## Samsung positioned to lead market sales with chipmaking price hike
-Chipset-led price hikes and affordability concerns are making consumers increasingly dependent on promotional offers, keeping the smartphone market under pressure
+## Karnataka extends social security pensions to eligible beneficiaries earning up to ₹1.20 lakh
+The move could restore financial support to eligible pensioners previously excluded after income verification flagged them under the earlier threshold
 
-## Depression defies forecasts, keeps monsoon pipeline flowing in north and east
-A stubborn weather system over Jharkhand sustains rain across northern, eastern and north-eastern India through Wednesday even as evening forecasts suggested it has weakened a round
+## DoT directs telcos to deny new SIMs to subscribers with nine connections
+Telecom users seeking additional mobile numbers will face tighter checks as the government moves to enforce the existing limit more strictly
 
-## SEBI bars 2 entities over ‘prima facie’ manipulation in new closing auction
-Regulator impounds ₹3.68 crore after finding aggressive orders moved Sensex to benefit expiry-day options positions
+## TPG sells 6.66% stake in Aster DM Quality Care for ₹4,451 crore
+The large block transaction reshaped the hospital operator’s shareholder base, with institutional investors emerging as significant buyers of the shares
 
-## Lower returns hurt debt fund inflows in April-July 2026
-Debt-oriented schemes saw a 28% y-o-y decline in inflows to ₹2.20-lakh crore while inflows into hybrid schemes fell nearly 30%
+## Indo National launches Nippo Airvue, targets ₹100 crore revenue by FY30
+The Nippo brand is expanding beyond batteries as Indo National seeks new growth opportunities in technology-led home and consumer solutions.
 
-## Resilience should be built into banks’ design for growth: RBI Dy Guv Murmu
-He emphasised that Banks should focus, in particular, on the functions critical to their resilience and on those that matter most directly to their customers
+## Moderna, Merck breakthrough could usher in a wave of cancer vaccines
+The encouraging results could reshape cancer treatment by enabling doctors to target tumour-specific mutations while limiting exposure to healthy cells
 
-## MPC Minutes: Members opt for ‘wait and watch’ as economy faces ‘hazy’ outlook
-MPC members emphasise the need for careful monitoring before making any policy adjustments, underscoring the ongoing uncertainties in both domestic and global economic landscapes
+## AWS announces new Builder Loft in Hyderabad to boost developer community
+Amazon Web Services sets sights on Hyderabad, unveiling a dedicated space for Indian developers to collaborate, upskill, and build groundbreaking technology
 
-## Cabinet approves 5 rail and road projects worth ₹13,041 crore
-The proposed projects are essential routes for transportation of commodities such as coal, iron ore, cement, iron and steel, container, automobile, foodgrains
+## Trump picks White House health aide Dr Heidi Overton to lead FDA
+Dr Heidi Overton faces Senate scrutiny and multiple challenges as President Trump’s pick to head the FDA, succeeding Dr Marty Makary
 
 ## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
 Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
@@ -84,6 +84,12 @@ The Union Cabinet greenlit five significant infrastructure initiatives totaling 
 ## PNG push: Govt to offer distributors extra lower-priced domestic natural gas for every new connection
 Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.
 
+## Supreme Court asks NTA where things stand on 2024 exam reforms plan
+The Supreme Court stressed on the need to institutionalise the NTA and equip it with the adequate manpower required to run a unified national testing agency.
+
+## Confusion at Arunachal Pradesh arises as border with China not demarcated: Kiren Rijiju
+Kiren Rijiju trashed reports of Chinese encroachment 60km into Arunachal Pradesh and spoke of “confusion” due to lack of clear demarcation.
+
 ## India, Palestine sign 2 MoUs in development cooperation; 200-bed hospital, training centre to be set up
 India and Palestine signed pacts for a 200-bed super-speciality hospital and vocational training centre, while India reaffirmed support for Palestine.
 
@@ -101,12 +107,6 @@ Police said the boy had planned to steal from the principal's house. But, as she
 
 ## 'Good sense prevails': CJP after Tamil Nadu CM Vijay's govt withdraws order against student protest
 As per the now-withdrawn order, officials were asked to take “appropriate coordinated action” to prevent students and youth from joining such protests.
-
-## Study maps 60,000 sq km high-density corridor in India for endangered Lesser Florican
-Satellite tracking shows the critically endangered Lesser Florican uses a 206,000 sq km migration flyway across western and central India.
-
-## Pakistan summons US charge d'affaires over Sergio Gor's remarks during J&K visit
-In a statement on Wednesday, Pakistan's ministry of foreign affairs said the US envoy to Islamabad was summoned and “a strong demarche lodged”.
 
 ## AIA first-half profit up 11%, driven by strong growth in Hong Kong and Asia sales
 AIA Group, Asia’s largest independent publicly listed life insurance group, reported 11 per cent growth in first-half operating profit, driven by strong growth of Hong Kong and mainland China sales and expansion in Southeast Asian markets. Operating profit after tax on a constant currency basis reac
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pentagon quizzes NATO allies on political loyalty, documents reveal
-NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.
+## Publisher of US military newspaper resigns over differences with government
+Retirement of longtime Stars and Stripes publisher comes amid the Trump administration's push for editorial control.
 
-## Lebanon hands former Syrian army general to Damascus after arrest warrant
-The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad's government fell.
+## ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
+Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.
 
-## Trump announces ‘most crushing economic operation ever’ against Iran
-US president also says any country that trades with Iran will 'face tremendous economic consequences'.
+## Harry Kane scores goal by winning Golden Shoe for the second time
+English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.
 
-## What the social media addiction lawsuit could cost Meta
-Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram's operations.
+## Nigeria’s election campaign begins with Tinubu facing a reform test
+Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.
 
-## “I get along with him very well.”
-US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.
+## Iran war live: Trump announces ‘most crushing’ Iran sanctions
+Trump says Washington may resume talks with Tehran 'at some point'.
 
-## Israeli strike on Gaza City police headquarters kills women’s police chief
-An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.
+## US national debt passes record $40 trillion
+The amount has doubled in the last decade, from Trump's first term through the Biden administration.
 
-## Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
-“You can't do anything. Just stand here and watch.” Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.
+## ‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother
+The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.
 
-## Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza
-The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.
+## Kosovo finds remains of at least 23 people in suspected mass graves
+The discovery is part of Kosovo’s long-running effort to find people who disappeared during a brutal war in the 1990s.
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
