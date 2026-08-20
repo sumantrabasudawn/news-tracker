@@ -39,29 +39,32 @@ Evergrande chair Hui Ka Yan jailed following developer’s default almost five y
 ## 140 years of banking crises and bailouts
 We started so we finished
 
-## IRDAI bars Niva Bupa from adding new branches for six months
-The regulatory action follows scrutiny of the insurer’s expenses, while Niva Bupa maintains that recent-period compliance remains on track.
+## India, Singapore discuss deeper economic cooperation; Singapore tops FDI sources with USD 19.8 billion
+Senior officials from both countries reviewed economic ties as investment and trade flows continue to expand, creating scope for wider collaboration.
 
-## Silver futures jump nearly 1% to ₹2.38 lakh/kg as US Treasury move boosts precious metals
-On the Multi Commodity Exchange, the white metal for the September delivery climbed by ₹2,163, or nearly 1%, to ₹2,38,950 per 10 grams in a business turnover of 10,383 lots
-
-## Bitcoin roars past $70,000 as yields sink, Trump sparks optimism
-Bitcoin rose about 4.1% to over $71,900, its highest level since May 31
-
-## Indian real estate sector resilient despite west asia crisis, but cost pressures pose risks: CareEdge Rating
-CareEdge expects residential sales in the top six cities to remain broadly range-bound at around 3.55 lakh units in CY2026
-
-## SEBI action over CAS price manipulation sends strong signal: ANMI chief; flags FICP, riskometer, bond liquidity
-Regulatory reforms and technology-led platforms are reshaping India’s debt markets, but deeper participation remains essential for sustainable corporate bond growth.
+## Basic account cash withdrawals beyond four will attract a charge of ₹15 plus GST per transaction, says SBI
+This policy adjustment aims to streamline banking services while maintaining accessibility for account holders who meet the bank’s KYC requirements.
 
 ## ICAR-CIFT’s research on fish-based nutrition wins Assam government’s Karmashree award
 The achievement has its roots in the CIFT–WorldFish collaborative research programme initiated in 2019
 
-## UFO Cinema Solutions unveils premium LED cinema technology in Kochi
-The first MAGNOVA auditorium at Magic Framez, Kakkanad, Kochi, features India’s first acoustic-transparent direct-view 4K HDR LED cinema screen
+## Young investors drive retail market participation as 18-30 age group accounts for 53% of new additions: Axis Direct
+Young women aged 18-30 are also account for a larger share of new investors. Their contribution to total new customer additions increased to 13% in FY26 from 6% in FY22
 
-## AI’s real-world impact, opportunities explored at Flytxt’s Innovation2Impact panel
-The event brought together prominent leaders from business, technology and academia, along with Flytxt’s partners and leadership team from the UAE, Japan, the Netherlands, Germany and South Africa.
+## IndiGo tests 20% of pilots annually for substance abuse: CEO Willie Walsh
+“We exceed the recommended levels of testing where we routinely achieve about 20% of random testing,” Walsh said
+
+## Parliamentary Panel flags use of bouncers for NBFC loan recovery, seeks stronger monitoring
+The panel also raised concerns involving larger NBFCs, where substantial amounts of money are involved, and stressed the need for regular intervention by the Reserve Bank of India
+
+## Gold rises ₹264 to ₹1.58 lakh/10g on weak US dollar
+On the MCX, October gold futures rose by ₹264, or 0.17%, to ₹1,58,260 per 10 grams in a business turnover of 10,450 lots
+
+## Prudential HCL Health Insurance starts operations in India
+The new insurer aims to combine technology, healthcare expertise and personalised advice as demand for health coverage continues to expand nationwide.
+
+## NSE shares may trade on its platform under 'permitted-to-trade' route: Report
+The National Stock Exchange is considering a groundbreaking move to trade its own shares directly on its platform, potentially skipping the need for additional approval from Sebi. By leveraging its existing 'permitted-to-trade' mechanism, the NSE could facilitate trading of shares already listed on 
 
 ## Can't hold more than 10 tonnes for 15 days: Govt imposes stock limit on sugar for bulk consumers
 
@@ -84,8 +87,11 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Looking to allow global fund management from India: Sebi chief Tuhin Kanta Pandey
 
 
-## Cheap import, uneven demand slowing capex
-'Investment Confidence Still Catching Up Due To Commodity Price Volatility, Uncertainty'
+## Supreme Court forms panel to examine use of force by police in Delhi's July 20 protest
+Supreme Court forms panel to examine use of force by police in Delhi's July 20 protest
+
+## Woman dies as lift suddenly moves with gate open at apartment in Andhra Pradesh's Ongole
+The victim, Vanitha, had entered the elevator with her daughter and grandson, and the three were travelling together to their floor.
 
 ## Delhi HC to hear appeals on PM Modi's bachelor's degree records on September 29
 Mehta said the matter could be heard on another day and requested an early date. The Bench, however, said the matter would be taken up on September 29.
@@ -104,12 +110,6 @@ The driver handed the bags over to the Thalassery traffic police, who later reun
 
 ## Human intuition isn’t replaceable: Nike’s Deepa Ramprasad on an icon’s evolution
 
-
-## Three-language policy: SC asks CBSE to consider one-time reprieve for Class 6
-The Supreme Court asked CBSE to consider a one-time reprieve for Class 6 students under its three-language policy and sought a roadmap on teacher availability.
-
-## Hundreds stranded as Assam cab drivers block highway to protest Shillong violence
-The violence was triggered during a “black-flag” motorcycle rally by influential student organisation Khasi Students’ Union
 
 ## Chinese insurance giant Ping An’s profit climbs 36% on policy sales, investment gains
 Ping An Insurance (Group), China’s largest insurer by market value, reported a 36 per cent increase in interim profit, driven by stronger policy sales and investment gains, according to a stock exchange filing on Thursday. First-half net profit hit 92.59 billion yuan (US$13.78 billion) for the six m
@@ -183,6 +183,30 @@ Japan’s only treaty ally sanctioned the ICC president – who happens to be a 
 ## Why Has Pakistan’s Jailed Former PM Imran Khan Been Shifted to Hospital Now?
 Lowering political temperatures and exploring limited dialogue have become a priority for the Pakistani government.
 
+## War: Watt Is It Good For?
+Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
+
+## China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That
+For years, the Chinese military’s own newspaper has been making a promise it may no longer be able to keep. Whenever the People’s Liberation Army Daily (Jiefangjun Bao), the official newspaper of China’s Central Military Commission, discusses artificial intelligence and command, it returns to the sa
+
+## Inside Iran’s Wartime Regime
+Afshon Ostovar, one of the leading experts on Iran and the host of the members-only podcast The Iran Reckoning, is joined by War on the Rocks membership editor Kerry Anderson for a state-of-play conversation on the conflict between the United States and Iran. They consider why the fighting has settl
+
+## Contested Logistics and the “Last Unmanned Mile”
+In a Pacific war, the U.S. military cannot assume uncontested access to its depots and supply lines for munitions, spare parts, food, water, and energy. Jonathan is joined by David Tuttle (Rune Technologies), Paul Lwin (HavocAI), and Tom Garvey (CACI) to discuss sustaining a dispersed force that’s f
+
+## Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…
+The Iran war is beginning to resemble the Ukraine war in one important way. Operationally, the wars themselves are still very different — Ukraine is a large-scale ground invasion, while the Iran war is not there just yet. But their political logic after a failure to achieve a quick result is startin
+
+## Proving the Negative: Three Warnings from Arms Control for the Age of AI
+In early 1963, a single number characterized the difference in the positions of the United States and the Soviet Union on a comprehensive nuclear test ban. Nikita Khrushchev had proposed three on-site inspections each year. Washington was asking for seven. Other differences remained, including inspe
+
+## How Feasible Is a European Nuclear Deterrent Without Washington?
+In 2025, James Cameron wrote, “Eurodeterrent: A Vision for an Anglo-French Nuclear Force,” where he argued the United Kingdom and France should cooperate to develop a nuclear deterrent umbrella for Europe, independent of Washington. A year later, after French President Emmanuel Macron’s landmark nuc
+
+## AI and the Risks of Tearing Down an Old System
+Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the op
+
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
 
@@ -207,6 +231,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Bangladesh’s government under pressure as youth demand jobs
+Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.
+
+## Who was Hind Rajab and why is Israel investigating her killing?
+After two years of denial, Israel admits firing on the 5-year-old's car. But her family and others don't expect justice.
+
+## Israel is betting on Islamophobia to save its standing in the West
+Netanyahu’s government is using anti-Muslim fear to rally a Western right increasingly receptive to its message.
+
+## PSG forced to move opening league match as heatwave in France damages pitch
+Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.
+
+## How Myanmar’s war drives the Rohingya crisis
+Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.
+
 ## Syrian official says ‘no plans’ to establish Turkish military presence
 The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.
 
@@ -215,21 +254,6 @@ The Taliban navigates a complex web of global trade and security alliances witho
 
 ## How conflict is making life more expensive for Iranians
 How conflict is making life more expensive for Iranians
-
-## State-backed Israeli settler violence forces West Bank displacement: HRW
-HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.
-
-## Are Hormuz ships more willing to defy Iran or the US? What the data shows
-Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.
-
-## Max Verstappen signs new F1 contract with Red Bull until 2030
-Four-time F1 World Drivers' Champion's new deal puts to rest rumours that he would exit the team at the end of 2028.
-
-## Heatwaves and energy crunch: Can Europe withstand a double shock?
-Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.
-
-## Video shows Russian missile strike on Ukrainian capital
-Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
