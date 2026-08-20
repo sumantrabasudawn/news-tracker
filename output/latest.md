@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## What is Bessent doing with the $32tn Treasury market — and will it work?
+US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs
+
+## UK consumer confidence rises to highest level for two years
+Good weather and the ‘Burnham bounce’ brought on by a new prime minister continued to have a positive effect in August
+
 ## FirstFT: Scott Bessent’s intervention to prop up US market fails to soothe investors
 Also in this newsletter: Loan to Guggenheim Partners falls to distressed territory and North Korea fires barrage of ballistic missiles
 
@@ -18,11 +24,8 @@ Tumultuous session puts further pressure on momentum trades that have been unset
 ## Brazilian municipalities join BHP and Vale dam collapse payout scheme
 Nineteen authorities reach agreement over 2015 disaster in blow to English High Court class action
 
-## Today’s China could learn from Jiang and Zhu
-History might have been different had collegial, liberalising leadership continued
-
-## The US Treasury is buying long bonds, but not very many
-Speaking loudly but wielding a teeny-tiny stick
+## Founder who blamed $300mn fraud on head injury sentenced to prison
+Judge accepts injury contributed to Christine Hunsicker’s crime as he sentences her to five years in prison
 
 ## Nvidia looks well placed to benefit from the next stage of the AI boom
 The world’s biggest chip company is using its balance sheet to seed new markets and a new business model
@@ -30,8 +33,11 @@ The world’s biggest chip company is using its balance sheet to seed new market
 ## Stripe bets that an AI world still needs middlemen
 Payments company’s purchase of OpenRouter makes strategic sense
 
-## Monte dei Paschi readies twin takeover bids for Banca Generali and Banco BPM
-Plan would create an Italian banking group with a combined market valuation of about €70bn
+## General Atlantic sells 8.75% stake in KFin Technologies for ₹1,400 crore
+The transaction saw several domestic and global institutional investors participate, while the company’s shares ended higher on Thursday.
+
+## India’s BSE cleared as eligible exchange for FTSE Russell equity indices
+The development could broaden the investor base for eligible BSE-listed companies as global index-linked investment increasingly gains importance in India.
 
 ## Welspun Corp wins record ₹17,200-crore US pipe supply order
 Welspun Corp’s latest contract provides multi-year revenue visibility as the company expands manufacturing capacity and strengthens relationships across North America
@@ -50,12 +56,6 @@ Angel Yeast's AHH Packaging Design Recognized with Red Dot Award
 
 ## SEBI curbs cool F&O participation by 20%, but traders still lose ₹91,685 crore
 Active individual traders fall 20 per cent in FY26, first decline since FY16; average loss per trader rises 2.4 per cent
-
-## India bets on gene-edited rice varieties as yield growth slows
-India’s rice sector faces a turning point as yield growth slows, driving renewed efforts to boost productivity with advanced hybrid varieties
-
-## Core sector output growth eases to 5.4% in July
-Iron ore, cement, electricity sectors expand while natural gas, crude oil, fertilizers output dips
 
 ## 61.5% of women taking up G RAM G work shows positive indicator of rural livelihoods
 
@@ -225,6 +225,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Houthis and government trade attacks as Yemen slides back to full-scale war
+Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
+
 ## US charges woman for allegedly plotting attack on New York State Capitol
 The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for 'terrorism'.
 
@@ -234,8 +237,8 @@ What does rebuilding look like for families after war? Al Jazeera’s Hannah Ras
 ## New York mayor Mamdani sues to block $10,000 teaching aide bonuses
 New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.
 
-## Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail
-Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.
+## Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order
+Khan, who was voted out of the office in April 2022, has been in prison for more than three years.
 
 ## US pummels Cuban economy with new sanctions on mining, construction
 US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.
@@ -245,9 +248,6 @@ At least 13 people have been killed and seven others injured in an unlicensed go
 
 ## Hundreds of Tibetans protest China’s ethnic unity law by shaving heads
 A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.
-
-## Heartbreak, loss on Lebanon’s front lines, the story of a first responder
-Heartbreak, loss on Lebanon’s front lines, the story of a first responder
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
