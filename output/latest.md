@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## Walmart pledges to use US tariff refund to cut grocery prices
-Largest US retailer goes on the offensive after raising sales and profit outlook
+## Walmart pledges price cuts as sales growth slows to six-year low
+Retailer to use tariff refund to reduce prices after reporting slowest US sales growth for six years
+
+## Europe, the secret outperformer
+Its cash generation, broader earnings and lower tech concentration deserve more respect
 
 ## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
 Also in this newsletter: tanker demand, and Zelenskyy fires top aide
@@ -21,9 +24,6 @@ Texas company proposes lifting US ban on imports of seal products to appease loc
 ## Trump is losing his war of independence on rare earths
 Inefficiency, untrustworthiness and cronyism are weakening the administration’s plans to stand up to China
 
-## Russia launches deadly missile and drone attacks on Kyiv
-At least 16 killed as Ukraine struggles with a shortage of Patriot interceptor missiles
-
 ## JD Sports warns on profits as US sales tumble at ‘King of Trainers’
 Shares in UK retailer drop 15% after latest setback
 
@@ -33,35 +33,29 @@ Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
 ## Google’s China shift and the battle over AI models
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## Founder of collapsed Chinese property giant given life sentence
-Evergrande chair Hui Ka Yan jailed following developer’s default almost five years ago
+## T-Hub-OKI Electric to help deeptech start-ups get access to global markets
+The two organisations have shortlisted eight of the more than 150 startups they received from across the country.
 
-## 140 years of banking crises and bailouts
-We started so we finished
+## India bets on gene-edited rice varieties as yield growth slows
+India’s rice sector faces a turning point as yield growth slows, driving renewed efforts to boost productivity with advanced hybrid varieties.
 
-## India, Singapore discuss deeper economic cooperation; Singapore tops FDI sources with USD 19.8 billion
-Senior officials from both countries reviewed economic ties as investment and trade flows continue to expand, creating scope for wider collaboration.
+## Broker’s Call: TTK Prestige (Buy)
+Geojit Investments
 
-## Basic account cash withdrawals beyond four will attract a charge of ₹15 plus GST per transaction, says SBI
-This policy adjustment aims to streamline banking services while maintaining accessibility for account holders who meet the bank’s KYC requirements.
+## NSE said to plan trading of its shares on own platform
+The proposed arrangement could reshape trading dynamics for the exchange operator while adding a new dimension to its closely watched public offering
 
-## ICAR-CIFT’s research on fish-based nutrition wins Assam government’s Karmashree award
-The achievement has its roots in the CIFT–WorldFish collaborative research programme initiated in 2019
+## Broker’s Call: India Glycols (Buy)
+Arihant Capital
 
-## Young investors drive retail market participation as 18-30 age group accounts for 53% of new additions: Axis Direct
-Young women aged 18-30 are also account for a larger share of new investors. Their contribution to total new customer additions increased to 13% in FY26 from 6% in FY22
+## Sri Lanka emerges as alternative manufacturing base for Tamil Nadu apparel makers
+Apparel manufacturers are increasingly building cross-border production networks as shifting trade policies reshape sourcing decisions across major global markets.
 
-## IndiGo tests 20% of pilots annually for substance abuse: CEO Willie Walsh
-“We exceed the recommended levels of testing where we routinely achieve about 20% of random testing,” Walsh said
+## Haryana cuts infrastructure site assessment time from 45 days to 2 days using GIS technology
+Technology-driven planning is helping Haryana speed up infrastructure decisions, improve site selection and integrate data across multiple government departments
 
-## Parliamentary Panel flags use of bouncers for NBFC loan recovery, seeks stronger monitoring
-The panel also raised concerns involving larger NBFCs, where substantial amounts of money are involved, and stressed the need for regular intervention by the Reserve Bank of India
-
-## Gold rises ₹264 to ₹1.58 lakh/10g on weak US dollar
-On the MCX, October gold futures rose by ₹264, or 0.17%, to ₹1,58,260 per 10 grams in a business turnover of 10,450 lots
-
-## Prudential HCL Health Insurance starts operations in India
-The new insurer aims to combine technology, healthcare expertise and personalised advice as demand for health coverage continues to expand nationwide.
+## Indian startup aims to compete with OpenAI in crowded voice arena
+Like other voice foundation models, it aims to provide big savings for users like call centers, banks and airlines, which hope to employ the technology to handle large volumes of customer communications
 
 ## NSE shares may trade on its platform under 'permitted-to-trade' route: Report
 The National Stock Exchange is considering a groundbreaking move to trade its own shares directly on its platform, potentially skipping the need for additional approval from Sebi. By leveraging its existing 'permitted-to-trade' mechanism, the NSE could facilitate trading of shares already listed on 
@@ -87,8 +81,23 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Looking to allow global fund management from India: Sebi chief Tuhin Kanta Pandey
 
 
+## 'To what extent can English…': SC questions use of term ‘native’ in CBSE's three-language policy
+Questioning the use of term 'native', Justice Joymalya Bagchi said the correct term should be ‘indigenous’ and the NEP 2020 framers should have been concious.
+
+## ‘Between Pakistan and US': CM Omar Abdullah on Pak summoning US diplomat over Sergio Gor's J&K remark
+India's US ambassador Sergio Gor on Wednesday called J&K an “important part of India” and said Washington would reconsider its travel advisory for the UT.
+
+## Lucknow banker 2 murders, WhatsApp reveal, suicide, influencer sister's plea: 5 chilling details
+The deceased ICICI staffer was the sister of famous YouTuber Pragya Mishra, whose channel – Ulta Chashma UC – has over 8.5 million followers.
+
+## Seven-time World Press Photography winner to open show in India with Kolkata ‘noir’
+Seven-time World Press Photography winner Seamus Murphy brings 30 images of Kolkata to a new exhibition at Museo Camera, Gurugram.
+
+## $15,500, 523g gold, ₹45.8 lakh jewellery seized at Delhi airport
+In one case, the foreign currency was concealed in a false bottom of the baggage and inside the cap of a casserole.
+
 ## Supreme Court forms panel to examine use of force by police in Delhi's July 20 protest
-Supreme Court forms panel to examine use of force by police in Delhi's July 20 protest
+Scores of students had participated in the CJP-led protest march to Parliament on July 20, seeking the resignation of Dharmendra Pradhan and wider exam reforms.
 
 ## Woman dies as lift suddenly moves with gate open at apartment in Andhra Pradesh's Ongole
 The victim, Vanitha, had entered the elevator with her daughter and grandson, and the three were travelling together to their floor.
@@ -96,20 +105,11 @@ The victim, Vanitha, had entered the elevator with her daughter and grandson, an
 ## Delhi HC to hear appeals on PM Modi's bachelor's degree records on September 29
 Mehta said the matter could be heard on another day and requested an early date. The Bench, however, said the matter would be taken up on September 29.
 
-## Google Pixel 11 Pro XL is iteration done right, with a future subscription bill
-Google has quietly focused on optimisation, including contextual AI and camera. Albeit, you’ll be subscribing to some features later
+## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
+Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
 
-## Chhattisgarh forest dept seeks CBI probe into tiger poaching involving Maha cops
-The Maharashtra Police suspended its two personnel, including a recipient of the President’s Police Medal for Gallantry, following their arrest
-
-## Jharkhand high court stays govt notification cancelling appointments from 11th, 13th JPSC exam
-Jharkhand high court stays govt notification cancelling appointments from JPSC exams
-
-## 3 American tourists lose bags in Kerala auto, get them back 3 days later
-The driver handed the bags over to the Thalassery traffic police, who later reunited the tourists with their belongings.
-
-## Human intuition isn’t replaceable: Nike’s Deepa Ramprasad on an icon’s evolution
-
+## Henderson Land posts 66% profit surge after run of strong sales
+Henderson Land Development, one of Hong Kong’s largest developers, reported a 66 per cent rise in its interim profit for the first half of the year following a strong run of property sales, according to its filing with the Hong Kong stock exchange on Thursday. The developer, controlled by the family
 
 ## Chinese insurance giant Ping An’s profit climbs 36% on policy sales, investment gains
 Ping An Insurance (Group), China’s largest insurer by market value, reported a 36 per cent increase in interim profit, driven by stronger policy sales and investment gains, according to a stock exchange filing on Thursday. First-half net profit hit 92.59 billion yuan (US$13.78 billion) for the six m
@@ -128,12 +128,6 @@ Chinese commercial banks have begun pricing corporate loans against a short-term
 
 ## Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market
 Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in
-
-## Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink
-In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project. Known officially as Shanghai Spacecom Sate
-
-## Top economist on how China should prep for dollar era’s end
-Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
 
 ## Israel and America Agree on Gaza’s New Leader
 The Trump administration’s peace plan has invested its hopes for Gaza’s future in the little-known Ali Shaath.
