@@ -1,43 +1,37 @@
 # AION Intelligence
 
+## Brazilian municipalities join BHP and Vale dam collapse payout scheme
+Nineteen authorities reach agreement over 2015 disaster in blow to English High Court class action
+
+## Walmart shares tumble as sales growth slows to six-year low
+Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers
+
+## Today’s China could learn from Jiang and Zhu
+History might have been different had collegial, liberalising leadership continued
+
+## The US Treasury is buying long bonds, but not very many
+Speaking loudly but wielding a teeny-tiny stick in
+
+## Nvidia looks well placed to benefit from the next stage of the AI boom
+The world’s biggest chip company is using its balance sheet to seed new markets and a new business model
+
+## Stripe bets that an AI world still needs middlemen
+Payments company’s purchase of OpenRouter makes strategic sense
+
 ## US long-term bonds slide as Bessent intervention fails to soothe investors
 Yield on 30-year Treasuries rises despite move to ‘at least double’ purchases of securities
 
 ## Meet Gregory Fenelon, the (self-declared) $14bn man
 He has big stakes. We have big questions.
 
-## Trump announces fresh ‘economic warfare’ on Iran
-UAE, long a crucial trading hub for Tehran, has also suspended commercial ties
-
-## Trump’s South Korea defence flip reminds Japan that it has no Plan B
-While alarming for Seoul, an abandonment of US guarantees could be disastrous for Tokyo
-
-## Walmart shares tumble as sales growth slows to six-year low
-Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers
+## Monte dei Paschi readies twin takeover bids for Banca Generali and Banco BPM
+Plan would create an Italian banking group with a combined market valuation of about €70bn
 
 ## Moderna breakthrough brings back memories of pandemic mania
 Biotech nearly triples as mRNA cancer treatment shows promise after company had struggled in recent years
 
-## America’s national debt hits record $40tn
-Also in today’s newsletter, how the story of the US is getting a Maga rebrand
-
-## Investors cut bets on US and UK rate rises
-Weaker economic data has changed expectations despite a rally in oil prices
-
 ## Western oil refinery closures set to continue despite war shock
 North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness
-
-## From balloons to pans: in praise of useful tech
-Companies developing new materials with previously unknown properties could change the material world
-
-## Europe, the secret outperformer
-Its cash generation, broader earnings and lower tech concentration deserve more respect
-
-## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
-Also in this newsletter: tanker demand, and Zelenskyy fires top aide
-
-## Harold Hamm launches multibillion-dollar plan to drill Argentine shale
-Trump ally partners with trader Mercuria in latest move targeting South American nation’s oil
 
 ## Kamarajar Port issues tender for ₹4,288-crore second container terminal
 To be developed on DBFOT basis
@@ -60,8 +54,8 @@ Iron ore, cement, electricity sectors expand while natural gas, crude oil, ferti
 ## Tech EVs squeeze ₹50 lakh luxury market: BMW & Merc Defend Turf
 BMW and Mercedes-Benz face fierce competition in India’s luxury market as electric SUVs disrupt pricing and customer preferences
 
-## UCBs may be small, but their risk environment is far larger: RBI Dy Guv Swaminathan
-Greater digital adoption and reliance on external technology providers are expanding the risk landscape for smaller banks, demanding stronger safeguards and oversight.
+## Tata Trusts delay raises questions over legal recourse as dividend payout remains stuck
+The issue has assumed urgency as the delay carries a significant financial cost for the charitable trusts
 
 ## Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks
 H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of unce
@@ -87,6 +81,15 @@ The National Stock Exchange is considering a groundbreaking move to trade its ow
 ## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
 Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
 
+## Mirza Fakhrul Islam Alamgir to be next Bangladesh President: Good or bad news for India, Sheikh Hasina?
+Alamgir has taken a tough stance on India previously. He once called on New Delhi to respect Bangladesh's sovereignty and democratic aspirations.
+
+## IndiGo Delhi-Mangaluru flight delayed 3 hours after technical snag during taxiing
+After 5 minutes, the pilot announced that the aircraft was returning to the bay because of a technical issue, he said.
+
+## 156 Himachal roads shut as rains lash state; 88 dead in monsoon
+Around 22 transformers and 79 drinking water supply schemes have also been disrupted as of Thursday evening.
+
 ## Himanta Biswa Sarma meets PM Modi in Delhi; discusses Assam floods, rehabilitation
 Assam CM Himanta Biswa Sarma met PM Modi in Delhi to discuss flood recovery, rehabilitation and rebuilding of areas hit by floods that killed 105 people.
 
@@ -101,15 +104,6 @@ Notices issued to 1,268 drivers in Maharashtra over lack of working knowledge of
 
 ## ₹10,000 per lakh views: Bihar's incentive for creators making content on govt schemes
 This will be applicable after a replacement video completes 30 days of display, with the maximum amount payable for a single video capped at ₹1 lakh.
-
-## "Last chance": SC warns Centre it will pass directions if FSSAI fails to implement front-of-pack warning labels
-Chahar sought to explain the government's concerns, submitting that strict warning labels could result in traditional Indian foods
-
-## Odisha plans to scrap revenue clearance for urban land-use conversion
-Odisha’s proposed land reforms Bill will end separate revenue clearance for agricultural land conversion in urban areas, making civic bodies the approval point.
-
-## Expired raw materials, stale bread found in Bengaluru hospital canteen kitchen
-The inspection was carried out at the hospital on B G Road, they said.
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -159,6 +153,18 @@ A White House endorsement could improve the Israeli leader’s chances of winnin
 ## Ukraine’s War Widows Are Fighting for Money
 Their husbands died defending the country—and now their families are struggling for compensation.
 
+## Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed
+At the heart of the global effort to diversify away from Chinese supply of critical minerals is the tension between friendshoring and strategic autonomy.
+
+## After 9 Years, China Is Reopening Its Borders To Recycled Plastic
+Now Beijing needs to build domestic demand for recycled materials – and global rules for the trade.
+
+## Dhaka’s Balancing Act: Post-election Bangladesh Between India, China, and the US
+Dr. Smruti S. Pattanaik joins host Tushar Shetty to examine Bangladesh six months after its first post-uprising election.
+
+## North Korea Dismisses Trump’s Recent Overtures to Kim Jong Un
+Days after U.S. President Donald Trump showed his interest in meeting with the leader of North Korea, Pyongyang responded by launching short-range ballistic missiles and publishing a harsh statement.
+
 ## Dr. Moses Haregewoyn and the Operational Case for a Different Kind of Global Health Leadership
 Filling a gap in global health governance
 
@@ -170,18 +176,6 @@ The Malaysian leader's remarks also prompted a rebuke from Taipei, which said th
 
 ## Myanmar Military Chief Begins Visit to Thailand Aimed at Expanding Security Ties
 Ye Win Oo's visit is the latest effort by Bangkok to bring Myanmar's military-appointed government in from the cold.
-
-## Kazakh State Tightens Grip Over Critical Minerals Miner ERG
-Developments at the giant miner suggest Astana will be the main factor in company strategy going forward.
-
-## Putin’s Visit to Disputed Island Exacerbates Japan-Russia Tensions
-The Kuril Islands/Northern Territories have been a constant thorn in Japan-Russia relations. Putin just made it worse.
-
-## US ICC Sanctions Pose a Test for Japan
-Japan’s only treaty ally sanctioned the ICC president – who happens to be a Japanese national. That embodies Japan’s rule-of-law conundrum.
-
-## Why Has Pakistan’s Jailed Former PM Imran Khan Been Shifted to Hospital Now?
-Lowering political temperatures and exploring limited dialogue have become a priority for the Pakistani government.
 
 ## War: Watt Is It Good For?
 Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
@@ -231,6 +225,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Humanoid robots take centre stage in China-US tech race
+Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.
+
+## Swiss tourist jailed for insulting Bali’s sacred Day of Silence
+A Swiss tourist has been sentenced to one year in prison in Bali for social media posts insulting Nyepi
+
+## Daily struggle for clean water and food takes a physical toll on Gaza kids
+Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.
+
 ## North Korea fires ballistic missiles as US-South Korea drills near end
 South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.
 
@@ -245,15 +248,6 @@ Authorities were warned about the dangers of hitting Mohammad Ghamira, who suffe
 
 ## One geography, two states: Saudi Arabia’s security approach to Sudan
 Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.
-
-## Deadly Russian missile barrage hits Kyiv in hours-long overnight attack
-Russia launched a hours-long overnight barrage of ballistic and cruise missiles and drones across Kyiv.
-
-## Gunmen seize tanker off Yemen amid resurgence of Somali piracy
-UK maritime security monitor says Seamull tanker diverted towards Somalia, as wave of piracy sweeps the Gulf of Aden.
-
-## Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?
-The US government is intensifying efforts to unify the country's two rival governments.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
