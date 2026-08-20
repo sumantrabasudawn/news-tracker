@@ -3,14 +3,20 @@
 ## Trump announces fresh ‘economic warfare’ on Iran
 UAE, long a crucial trading hub for Tehran, has also suspended commercial ties
 
+## Trump’s South Korea defence flip reminds Japan that it has no Plan B
+While alarming for Seoul, an abandonment of US guarantees could be disastrous for Tokyo
+
+## Walmart shares tumble as sales growth slows to six-year low
+Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers
+
+## Moderna breakthrough brings back memories of pandemic mania
+Biotech nearly triples as mRNA cancer treatment shows promise after company had struggled in recent years
+
 ## America’s national debt hits record $40tn
 Also in today’s newsletter, how the story of the US is getting a Maga rebrand
 
 ## Investors cut bets on US and UK rate rises
 Weaker economic data has changed expectations despite a rally in oil prices
-
-## Walmart pledges price cuts as sales growth slows to six-year low
-Retailer to use tariff refund to reduce prices after reporting slowest US sales growth for six years
 
 ## Europe, the secret outperformer
 Its cash generation, broader earnings and lower tech concentration deserve more respect
@@ -18,11 +24,11 @@ Its cash generation, broader earnings and lower tech concentration deserve more 
 ## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
 Also in this newsletter: tanker demand, and Zelenskyy fires top aide
 
-## North Korea launches missile barrage after dismissing Trump overture
-Kim Jong Un’s sister casts doubt on claim of communication between Pyongyang and Washington
+## Western oil refinery closures set to continue despite war shock
+North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness
 
-## ‘Treasury demand has become materially more valuation-sensitive’
-Term premium trouble
+## From balloons to pans: in praise of useful tech
+Companies developing new materials with previously unknown properties could change the material world
 
 ## Harold Hamm launches multibillion-dollar plan to drill Argentine shale
 Trump ally partners with trader Mercuria in latest move targeting South American nation’s oil
@@ -30,41 +36,38 @@ Trump ally partners with trader Mercuria in latest move targeting South American
 ## Art of the seal: Trump-aligned oil group touts ‘sealskin diplomacy’ on Greenland
 Texas company proposes lifting US ban on imports of seal products to appease locals in Arctic territory
 
-## JD Sports warns on profits as US sales tumble at ‘King of Trainers’
-Shares in UK retailer drop 15% after latest setback
+## India’s foreign exchange market will be ready when its deep enough to absorb global shocks: RBI Deputy Governor
+He emphasised that the next phase of reform will be judged by accessibility of the foreign exchange services that citizens receive
 
-## Travelodge chief steps down after female guest assaulted
-Joanna Boydell replaced by chief financial officer Ray Reidy on an interim basis
+## DGFT eases rupee trade rule for exporters
+Rupee payments received by exporters through approved banking channels to be eligible for FTP benefits
 
-## Google’s China shift and the battle over AI models
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## India open to buying Venezuelan oil till US sanction exemption continues: Sources
+Refiners to keep a keen eye on long distance freight costs, heavier crude processing costs to ensure economic feasibility
 
-## Elgi Equipments to invest ₹1.61 crore in renewable energy venture
-The investment aims to secure renewable energy for the company over 25 years to ensure long-term tariff stability and optimize power costs
+## TN chief minister Vijay seeks legislative assurance against loss of Lok Sabha representation
+Vijay urged the Government of India to strengthen the regulatory framework governing the online sale of prescription medicines, ensure stricter enforcement against their unauthorised sale, and review the existing legal framework to effectively address emerging substance abuse among youth
 
-## Despite rising profits, private hospitals defend room-rent pricing
-Hospitals push back against Parliamentary panel’s call to end room-rent-linked treatment pricing
+## India permits import of 1 million tonne raw sugar duty-free
+Permission under TRQ as domestic prices soar to record high of ₹55.70 a kg in New Delhi
 
-## Levi’s bets on India beyond jeans as women’s wear, premium products drive growth
-More than 95% of Levi’s India consumption is made or built in India, says Hiren Gor, Managing Director, South Asia, Middle East & Africa (SAMEA)
+## Domestic air passenger traffic declines 4.8% in July
+Industry observers attributed the decline to the seasonal slowdown in travel as well as calibrated capacity deployment by airline
 
-## Core sector output growth eases to 5.4% in July
-Iron ore, cement, electricity sectors expand while natural gas, crude oil, fertilizers output dips
+## Power Grid leverages synchronous condensers for grid integrity as RE capacity expands
+Synchronous condensers are a useful solution for stabilising the power produced by renewables
 
-## Sunshine Pictures IPO hog the limelight with 106 times; Shankesh Jewellers 2.8x
-Sunshine Pictures’ IPO drew strong category-wise demand, while Shankesh closed with 2.8 times subscription
-
-## Indian exports to Australia surge 200% in 5 years under ECTA
-CECA talks to widen trade: Australian diplomat
-
-## Pulse Pharmaceuticals gets DCGI approval for nano-carrier entrapped vitamin D3 oral dispersion
-
-
-## New pests raise quarantine concerns in Kashmir as poplar, apple come under attack
-The pest, identified as Drosicha turkistanica, is a sap-sucking insect that weakens trees and, in severe infestations, can cause them to wither, according to Bashir Ahmad Rather, a professor at the Mountain Research Centre for Field Crops (MRCFC), Khudwani
+## Ladakh to get J&K High Court bench, easing access to justice
+Union Home Minister Amit Shah announced the decision in a post on X on Thursday saying the new bench would significantly improve access to justice for people living in remote parts of Ladakh by reducing the time needed to access legal services.
 
 ## Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks
 H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of unce
+
+## Govt allows duty-free imports of 1 million tons of raw sugar, signals price relief
+
+
+## US stock market today: Wall Street drops as Walmart, bond yields drag it lower
+On Wall Street, Walmart was the biggest drag on the S&P 500, with its shares plunging 8.7% despite the retailer reporting quarterly profit and revenue above analysts' expectations.
 
 ## NSE shares may trade on its platform under 'permitted-to-trade' route: Report
 The National Stock Exchange is considering a groundbreaking move to trade its own shares directly on its platform, potentially skipping the need for additional approval from Sebi. By leveraging its existing 'permitted-to-trade' mechanism, the NSE could facilitate trading of shares already listed on 
@@ -81,11 +84,20 @@ The probe comes as the rupee remains under significant pressure. The Reserve Ban
 ## Gold, silver price prediction: Where are gold, silver headed? Check outlook on August 20, 2026
 MCX Gold has entered a consolidation phase following the descending triangle breakout, but as the prices are continuing to hold above the formation is a positive sign & keeps the near-term trend in the bullish bias.
 
-## Granite, grass and a helipad: Trump shows off his White House construction projects
-During a recent briefing, President Trump showcased key updates on White House renovations. He emphasized the stunning white granite driveway's completion and tackled technical aspects of the helipad's slope. Proudly, he mentioned enhancements to the exterior and landscaping. Additionally, he touche
+## Once a rebel, ex-Mizoram CM Zoramthanga finally collects his degree 60 yrs later
+Former Mizoram CM Zoramthanga received his Gauhati University degree 60 years after graduating, following decades as an insurgent and politician.
 
-## Stock market today: BSE Sensex jumps over 550 points, NSE Nifty 50 opens above 24,200
+## Punjab bandh tomorrow: Will schools be closed? Govt clarifies
+The Qaumi Insaf Morcha on Wednesday called for a 'Punjab Bandh' on August 21 to press for the release of Sikh prisoners.
 
+## Mehul Choksi’s lawyer Vijay Aggarwal charged with sexual assault in London, held in custody
+Aggarwal has represented Choksi in legal proceedings related to fraud and money laundering cases.
+
+## Tamil Nadu CM Vijay keeps three requests before home minister Amit Shah – delimitation, NEET and…
+Tamil Nadu CM Vijay also urged the Union government to review the existing legal framework to effectively address emerging substance abuse among youth.
+
+## India, Japan sign agreement to deepen maritime security ties
+India and Japan sign maritime security pact covering information sharing, rescue operations and disaster relief, while expanding naval and defence cooperation.
 
 ## India, Singapore sign pacts on telecom, food security; discuss SMRs, chips
 India and Singapore signed agreements on telecom and food security and explored cooperation in SMRs, semiconductors, space and cybersecurity.
@@ -95,21 +107,6 @@ Authorities used heavy machinery on Wednesday to demolish structures near the Pa
 
 ## Human intuition isn’t replaceable: Nike's Deepa Ramprasad on an icon’s evolution
 As the highly anticipated Pegasus Plus 2 breaks cover, Nike’s Deepa Ramprasad reveals how biomechanics and athlete feedback shaped the new ‘super runner’
-
-## Lawyers' group CJAR seeks FIR against Justice Yashwant Varma over unaccounted cash
-CJAR said the charges against Justice Varma go beyond “misconduct” under the Judges Inquiry Act and could also form the basis for criminal proceedings.
-
-## 6-year-old Vizag boy collapses, dies after teacher slaps him over homework
-The boy’s family gathered outside the school after learning of his death, and blamed the teacher for his death.
-
-## New 'smart cancer drug' designed to 'switch on' may replace chemotherapy, says govt
-The government said the ‘smart’ cancer drug has been designed to switch on and work only inside cancer cells, sparing the healthy cells from damage.
-
-## SBI to revise cash withdrawal charges from October 1; check new rules
-Customers are requested to take note that all digital transactions will continue to be free without any restriction, SBI said.
-
-## ‘Is Congress a Bollywood khan-dan?’ What Shehzad Poonawalla told Rahul Gandhi before quitting party in 2017
-Shehzad Poonawalla's two resignation letters contrast sharply: in 2017, he quit Congress over its dynastic politics; his BJP exit cited personal reasons
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -121,7 +118,7 @@ Henderson Land Development, one of Hong Kong’s largest developers, reported a 
 Ping An Insurance (Group), China’s largest insurer by market value, reported a 36 per cent increase in interim profit, driven by stronger policy sales and investment gains, according to a stock exchange filing on Thursday. First-half net profit hit 92.59 billion yuan (US$13.78 billion) for the six m
 
 ## Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending
-Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion). AI Cloud and Compute Services, the Chinese tech giant’s new reporting s
+Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion). The company assured investors that its soaring spending on AI infrastru
 
 ## Shein pushes back Hong Kong debut to September amid delayed investor orders: sources
 Fast-fashion retailer Shein Global Holdings has pushed back its Hong Kong market debut until September 1, after a small delay in taking investor orders for its initial public offering (IPO) at a reduced valuation, according to sources familiar with the matter. Shein plans to introduce multiple corne
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Landslide kills 13 at illegal gold mine in Colombia’s southwest
+Mining activity caused a deadly slope collapse in Narino, claiming 13 lives and injuring seven others.
+
+## Man Utd preview: Five key talking points for 2026-27 Premier League season
+From Bruno Fernandes's future to a Champions League return, all to know about Manchester United before the new season.
+
+## How China and Russia could hobble Trump’s plans to isolate Iran
+Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.
+
+## Governments brace for historic El Nino impacts on global weather extremes
+Sri Lanka earmarks $14m to fight severe drought, offering families 75 litres of water every two-three days.
+
+## ‘Tremendous costs’: Can Trump stop other countries from trading with Iran?
+Iran's foreign minister has dismissed Trump’s latest threats, calling them a “diversion" from America’s own crisis."
+
+## USS Washington arrives in Middle East after aircraft carrier outcry
+Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.
+
 ## Trump’s war on Stars and Stripes: Why has military newspaper chief quit?
 Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.
 
 ## Funeral for 50 Palestinians recovered from Gaza rubble
 A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.
-
-## Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
-Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia's bombs is near impossible.
-
-## Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat
-Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.
-
-## US debt hits $40 trillion: Who does Washington owe and why does it matter?
-Heavy borrowing, increased spending and tax cuts by Democratic and Republican administrations have long raised concern.
-
-## War on Iran: Trump announces a new campaign to isolate Iran economically
-US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.
-
-## West Ham urges fans to stop chanting ‘anti-Palestine message’
-Club relegated from the Premier League last season appeals to fans to stop 'anti-Palestine message'.
-
-## Myanmar military chief visits Bangkok as diplomatic offensive continues
-After five years of isolation, Myanmar's post-coup leadership is trying to boost its legitmacy.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
