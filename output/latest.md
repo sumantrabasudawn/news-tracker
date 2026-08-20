@@ -1,58 +1,61 @@
 # AION Intelligence
 
+## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
+Also in this newsletter: tanker demand and Zelenskyy fires top aide
+
+## Starmer lacked ‘vision’ and needed ‘bigger people’ around him, says Sue Gray
+Former chief of staff to previous PM describes ‘unbearable’ experience of negative briefings from Downing Street
+
+## Founder of collapsed Chinese property giant given life sentence
+Evergrande chair Hui Ka Yan jailed following developer’s default almost five years ago
+
+## 140 years of banking crises and bailouts
+We started so we finished
+
+## Singapore police look into iron ore trader Radiant World
+Company has fast become one of the biggest players in global commodities market
+
+## Federal Reserve policymakers are becoming more hawkish
+Since the July meeting, more FOMC voters have said they are worried about inflation
+
 ## China hits out at EU probe into JD.com bid for German retailer
 Beijing may ‘resolutely retaliate’ over probe into Ceconomy offer, says justice ministry
 
 ## Private equity’s escapades in the legal market
 Charlesbank is in advanced talks to acquire a stake in law firm WSHB, one of private equity’s largest forays into the US legal sector
 
+## Hong Kong’s CK Hutchison seeks $1.5bn from Panama in canal ports dispute
+Conglomerate accuses government of ‘destruction’ of investments after it was ejected from terminals
+
 ## Demand for tankers soars as Gulf oil producers search for ways to export cargoes
-Oil-exporting countries looking to secure their own fleets are driving prices, particularly for readily available vessels
+Middle Eastern countries looking to secure their own fleets are driving up prices
 
-## Internet age checks have boosted rogue adult sites, says Pornhub
-UK’s biggest porn website lobbies MPs for changes to flagship Online Safety Act
+## Turtlemint shares jump over 5% as Jefferies initiates buy call, sets ₹190 target
+At 12.06 pm, the stock traded at ₹144.40, after hitting a high of ₹146.50, against its previous close of ₹138.92.
 
-## Exorbitant hotel prices are here to stay
-Across the travel industry, the expensive option is outperforming the ordinary one
+## US opens secret oil shipping corridor, exporting about 10 million barrels a day amid Iran stalemate: Report
+Development comes shortly after US President Donald Trump ruled out extending a fragile 60-day ceasefire agreement with Tehran
 
-## UK finally showing signs of productivity boost, say economists
-Better output figures are a fillip to chancellor John Healey and come after years of underperformance
-
-## Two-thirds of UK students run out of money before the end of term
-Undergraduates say they are missing social events and missing meals to make ends meet
-
-## Will Barclays’ latest Wall Street reset finally work?
-Investment bank’s seventh co-CEO in four years expected to face same restrictions as predecessors
-
-## Premier League summer transfer spending set to break record
-The €2.7bn spent so far by English clubs exceeds outlay of top teams in Italy, Spain and Germany combined
-
-## Blood clot discovery upends consensus about how wounds heal
-Proteins stack up in layers like sheets of paper to start to form clots, scientists find
-
-## HDFC Bank eyes $1 billion overseas debt raise, bankers say
-The lender plans to raise at least $500 million each through three-year and five-year bonds via its GIFT ‌City branch
-
-## Lufthansa launches high-speed in-flight internet powered by Starlink
-The new onboard Wi-Fi service provides free, high-speed internet connectivity, enabling passengers to access cloud-based work platforms and other high-bandwidth applications during flights.
-
-## Sensex today | Stock Market Live: Sensex jumps 500 pts, Nifty above 24,200 as global markets rally; Eternal, Infy top gainers
+## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty holds 24,200; Eternal leads gainers
 Sensex, Nifty, Share Prices Live: Indian benchmark indices opened higher ​on Thursday, tracking broader Asia ‌as global bond markets steadied ​after the U.S. Treasury ⁠announced steps to bring down rising borrowing rates.
 
-## BSE shares up 2% as exchange explores MSCI-linked derivatives
-BSE Ltd has entered into an agreement with MSCI for a number of its indexes; BSE will explore the launch of futures and options contracts in India linked to these indexes
+## Ceigall India JVs secure ₹2,423-cr Ministry orders for road construction in Arunachal
+Among the orders is a ₹274.08-crore engineering, procurement, and construction package covering construction on the Bile-Migging section of NH-913
 
-## Aditya Birla Capital to enter gold loan market, targets 200-300 branches by March 2027
-ABCL to use its distribution network and digital capabilities to deliver a superior customer experience: Rakesh Singh, Executive Director and CEO - NBFC, ABCL
+## What beats seeing eclipses from space? Try the northern and southern lights
+Astronauts aboard International Space Station say best cosmic shows are auroras
 
-## Used car loans grew faster than auto loans in last five years despite higher stress: Report
-Financiers have funded used cars despite facing higher stress in the segment; loans unpaid for 31-90 days inched up to 3.1% in the used car portfolio as against just 2.1% in auto loans
+## Sugar stocks rally: Avadh Sugar, Zuari Industries, Balrampur Chini Mills, Dwarikesh Sugar jump up to 14% as govt tightens stockholding limits
+Ministry of Consumer Affairs has restricted bulk consumers using over 10 MT of sugar per month from holding more than 15 days’ stock. The order will take effect from September 1 and remain in force until November 30, 2026.
 
-## RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds
-Yield on benchmark ⁠6.94% 2036 bond at 6.8382%
+## Samsung Electronics to announce more than $72 billion shareholder return programme
+Local rival SK Hynix on Wednesday unveiled a 40 trillion won share buyback and cancellation plan, the largest shareholder return programme announced by a publicly listed South Korean company
 
-## Non-print biz to grow 12% for major newspapers versus 3% in core print biz: Report
-There is an "urgency" in the transition, given the fact that circulation of large newspapers has declined to 1 crore in 2025 from 1.5 crore in 2019
+## Retail inflation may cross 6% in Oct-Nov before easing in Q4 FY27: Report
+SBI Research report expects retail inflation to rise to 4.7% in August from 4.45% in July
+
+## Overseas remittance in focus: I-T uncovers Rs 1.29 lakh crore trail - money sent to China, UAE & more
+The probe comes as the rupee remains under significant pressure. The Reserve Bank of India has been regularly selling dollars in the foreign exchange market to contain volatility and prevent sharp, disorderly movements in the currency.
 
 ## Gold, silver price prediction: Where are gold, silver headed? Check outlook on August 20, 2026
 MCX Gold has entered a consolidation phase following the descending triangle breakout, but as the prices are continuing to hold above the formation is a positive sign & keeps the near-term trend in the bullish bias.
@@ -75,32 +78,32 @@ Action Comes On Day Sebi Chief Warned Against Manipulation
 ## Oil price today: Crude remains above $90 as Hormuz operations remain disrupted
 Oil prices have settled at elevated levels, staying above ninety dollars per barrel. Investors are weighing the unpredictable US-Iran situation and the potential impacts on shipping routes through the Strait of Hormuz. While intermittent Middle East assaults bolster market sentiment, the absence of 
 
-## US stock market today: Wall Street snaps 3-day slide as Treasury yields fall
-Treasury yields moved lower on Wednesday morning after the US Treasury Department announced plans to at least double its intended purchases of longer-dated Treasury securities.
+## Manipur schools, colleges shut amid tensions over demands for NRC before Census
+Hundreds of students are demonstrating in Imphal demanding NRC before the Census ahead of the house listing from September 1 to September 30
 
-## Unique identification number proposed for all registered medical practitioners
-Unique identification number proposed for all registered medical practitioners
+## Centre tightens sugar stock curbs amid record prices, bulk buyers face 15-day cap
+Any bulk consumer using or consuming more than 10 tonnes of sugar a month will not be allowed to hold stocks for more than 15 days.
 
-## Not just sanitation workers; every citizen has to maintain cleanliness: SC
-The court said the assumption that solid waste is a problem for sanitary workers alone is neither legally correct nor practically sustainable
+## Jharkhand to roll out action plan to prevent disaster losses
+Jharkhand to roll out action plan to prevent disaster losses
 
-## BJP hits back after Dipke's PM Cares fund appeal for schools: ‘Kejriwal didn’t teach him basic facts'
-The Goa unit further called on Dipke to visit Punjab and assess the schools in the AAP-ruled state.
+## Army veterans fume at woman's viral 'we're Gen Z' outburst in Ladakh: ‘Disrespecting soldiers is wrong’
+The video has drawn criticism from all fronts from political leaders to social media users slamming her for the comments she made.
 
-## Disabling name-based court record searches may pose 'herculean' challenge: HC
-A bench of justices said that restricting searches to case-specific details alone would make it difficult for users to locate and access judgments.
+## SC’s 5:4 verdict refines 48-yr-old ‘industry’ test but protects pending disputes
+The bench also upheld, by a majority, the maintainability of reference that had brought 1978 landmark Bangalore Water Supply & Sewerage Board Vs A Rajappa judgment back for reconsideration
 
-## 'Tareeka badla hai, maqsad nahi': Shehzad Poonawalla predicts Rahul Gandhi's future
-Shehzad Poonawalla began his political journey as a Congress volunteer around 2008 while he was still a student.
+## Vijay hits 100 as Tamil Nadu CM, then goes on a hard-hitting spree with bills
+If his first 100 days were about establishing the new TVK government, the days immediately after have offered a glimpse of a more assertive Vijay.
 
-## Scottish politician Martyn Day ties the knot with Kerala-born partner Nidhin Chand in traditional temple ceremony
-Witnessing the beautiful union was her 22-year-old son, Vedik Shankar, along with close family members and friends, Manorama reported.
+## Chances of Bangladesh PM Tarique Rahman’s visit to India ‘very slim’, says top aide
+Humayun Kabir, the foreign affairs adviser to the PM, said in an interview with state-run BSS news agency that Bangladesh will show a “positive attitude” towards participating in the Brics Summit
 
-## Why Sergio Gor's Kashmir remark is significant: Pakistan's sharp response, US travel advisory review
-Pakistan also claimed that Sergio Gor's statement “ran contrary to the United States' commitment to supremacy of international law and the UN charter.”
+## How PM Modi, Rahul, others paid tributes to Rajiv Gandhi on his birth anniversary
+Rajiv Gandhi was assassinated in 1991 during an election campaign in Tamil Nadu's Sriperumbudur.
 
-## Mohammed Riyas refutes report on bank account being used to divert CMRL funds
-Mohammed Riyas refutes report on bank account being used to divert CMRL funds
+## Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink
+In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project. Known officially as Shanghai Spacecom Sate
 
 ## Top economist on how China should prep for dollar era’s end
 Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
@@ -122,9 +125,6 @@ AIA Group, Asia’s largest independent publicly listed life insurance group, re
 
 ## Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen
 Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipa
-
-## Why the historic US-Japan intervention has failed to lift pressure on the yen
-With a rare joint US-Japan market intervention weeks ago failing to rectify the weakness of the Japanese currency, Tokyo and Washington could be forced to launch another round of boosting efforts, with a deepening US Treasury rout expected to fuel the global yen carry trade, according to analysts. T
 
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
@@ -222,6 +222,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Australian anger as Israel drops World Central Kitchen deaths case
+Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.
+
 ## Exclusive: Pentagon sends ‘political loyalty’ survey to US allies
 In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.
 
@@ -231,7 +234,7 @@ Russian ballistic missiles killed at least six people and ⁠injured over two do
 ## Trump vows ‘economic warfare’ on countries helping Iran
 US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
 
-## Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections
+## Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections
 Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.
 
 ## Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
@@ -243,9 +246,6 @@ Trump's order to scale back military drills rattles Seoul, reviving doubts over 
 ## Bodycam captures police team falling when deck collapses in Missouri
 Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.
 
-## Publisher of US military newspaper resigns over differences with government
-Retirement of longtime Stars and Stripes publisher comes amid the Trump administration's push for editorial control.
-
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
 
@@ -255,20 +255,26 @@ The tax probe has found that a substantial portion of the money moved to a handf
 ## India regulator reviewing small-company IPO, delisting rules, chief says
 INDIA-SEBI-India regulator reviewing small-company IPO, delisting rules, chief says
 
-## Sebi bans two entities for illegal sensex CAS trades
-The Securities and Exchange Board of India banned Copthall Mauritius Investments from trading. Mansi Share and Stock Broking also faced trading restrictions for similar illegal trades. Both entities allegedly manipulated the sensex Closing Auction Session on August thirteenth. Sebi impounded nearly 
-
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
 
+## Sebi bans two entities for illegal sensex CAS trades
+The Securities and Exchange Board of India banned Copthall Mauritius Investments from trading. Mansi Share and Stock Broking also faced trading restrictions for similar illegal trades. Both entities allegedly manipulated the sensex Closing Auction Session on August thirteenth. Sebi impounded nearly 
+
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
 
 ## India opens tax amnesty scheme for small taxpayers to declare select foreign assets
 India's tax amnesty scheme for small taxpayers opened Sunday and runs until December 2026. This one-time measure aims to bring undeclared foreign assets and income into the tax net. Taxpayers with undisclosed foreign income up to one crore rupees can declare it.
+
+## LIC gets RBI nod to raise stake in HDFC Bank to nearly 10% from 4.11%
+Life Insurance Corporation of India (LIC), India's largest insurance company, has received approval from the Reserve Bank of India (RBI) to increase its stake in HDFC Bank to up to 9.99 per cent.
+
+## Sebi bans two entities for illegal sensex CAS trades
+In a significant move, Sebi has prohibited Copthall Mauritius Investments and Mansi Share & Stock Broking for engaging in manipulative transactions. Accusations arose regarding their illicit gains made during the Sensex Closing Auction Session, resulting in the confiscation of Rs 3 crore from Coptha
 
 ## MTNL, BSNL and RINL's ₹13,500 crore worth of realty assets to hit markets
 Realty assets worth an estimated ₹13,500 crore belonging to MTNL, BSNL and RINL are set to hit the market after the Department of Public Enterprises gave final approval for their monetisation. The National Land Monetisation Corp will market 23 prime properties across six cities, targeting ₹7,500 cro
@@ -287,10 +293,4 @@ SBI Research said the cost of the RBI’s FCNR(B) swap facility is unlikely to h
 
 ## India's telecom and network equipment sector could double GDP share, but needs urgent policy support: NITI Aayog
 While India's telecom and network equipment (TANE) sector has strong growth potential, heavy import dependence, especially on China--underscores the need for urgent policy support to boost domestic manufacturing and exports that will likely double the sector's GDP share and position India as a USD 5
-
-## 'CAS is definitely here to stay', aligns Indian equities with global benchmarks: SEBI Chairman
-The Closing Auction Session (CAS) is "here to stay" as a core market reform, SEBI Chairman Tuhin Kanta Pandey stated on Monday, while confirming the regulator is open to making operational tweaks to refine the mechanism, if needed.
-
-## SEBI chief calls for collective cyber resilience as threats grow more sophisticated
-India's financial sector needs to shift from periodic cybersecurity compliance to continuous, risk-driven cyber resilience as threats become increasingly interconnected and sophisticated, SEBI Chairman Tuhin Kanta Pandey said on Monday.
 
