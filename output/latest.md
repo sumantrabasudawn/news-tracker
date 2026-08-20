@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Walmart pledges to use US tariff refund to cut grocery prices
+Largest US retailer goes on the offensive after raising sales and profit outlook
+
 ## FirstFT: Backlash over law firms’ ‘crazy’ early hiring
 Also in this newsletter: tanker demand, and Zelenskyy fires top aide
 
@@ -21,9 +24,6 @@ Inefficiency, untrustworthiness and cronyism are weakening the administration’
 ## Russia launches deadly missile and drone attacks on Kyiv
 At least 16 killed as Ukraine struggles with a shortage of Patriot interceptor missiles
 
-## GCSE results show worsening pass rates among students who resit
-Overall gap in outcomes for boys and girls in UK falls to the lowest since at least 2000
-
 ## JD Sports warns on profits as US sales tumble at ‘King of Trainers’
 Shares in UK retailer drop 15% after latest setback
 
@@ -39,29 +39,29 @@ Evergrande chair Hui Ka Yan jailed following developer’s default almost five y
 ## 140 years of banking crises and bailouts
 We started so we finished
 
-## Zinc futures: Steady uptrend
-Traders can consider long positions
+## IRDAI bars Niva Bupa from adding new branches for six months
+The regulatory action follows scrutiny of the insurer’s expenses, while Niva Bupa maintains that recent-period compliance remains on track.
 
-## Indian startup aims to compete with OpenAI in crowded voice arena
-Like other voice foundation models, it aims to provide big savings for users like call centers, banks and airlines, which hope to employ the technology to handle large volumes of customer communications
+## Silver futures jump nearly 1% to ₹2.38 lakh/kg as US Treasury move boosts precious metals
+On the Multi Commodity Exchange, the white metal for the September delivery climbed by ₹2,163, or nearly 1%, to ₹2,38,950 per 10 grams in a business turnover of 10,383 lots
 
-## Gaja Capital’s ₹550-crore IPO opens today
-The IPO comprises a fresh issue of equity shares aggregating up to ₹450 crore and an Offer for sale of equity shares aggregating up to ₹100 crore .
+## Bitcoin roars past $70,000 as yields sink, Trump sparks optimism
+Bitcoin rose about 4.1% to over $71,900, its highest level since May 31
 
-## Sensex today | Stock Market Highlights: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains
-Sensex, Nifty, Share Prices Highlights: Indian equities staged a broad-based rebound on Thursday, with technology and financial stocks leading gains as easing US bond-market concerns improved global risk appetite, while elevated crude prices and regulatory scrutiny kept investors cautious.
+## Indian real estate sector resilient despite west asia crisis, but cost pressures pose risks: CareEdge Rating
+CareEdge expects residential sales in the top six cities to remain broadly range-bound at around 3.55 lakh units in CY2026
 
-## IndiGo tests 20% of pilots annually for substance abuse: CEO Willie Walsh
-“We exceed the recommended levels of testing where we routinely achieve about 20% of random testing,” Walsh said
+## SEBI action over CAS price manipulation sends strong signal: ANMI chief; flags FICP, riskometer, bond liquidity
+Regulatory reforms and technology-led platforms are reshaping India’s debt markets, but deeper participation remains essential for sustainable corporate bond growth.
 
-## BSE shares down 2% after report NSE may allow stock to trade on own platform
-BSE Ltd has entered into an agreement with MSCI for a number of its indexes; BSE will explore the launch of futures and options contracts in India linked to these indexes
+## ICAR-CIFT’s research on fish-based nutrition wins Assam government’s Karmashree award
+The achievement has its roots in the CIFT–WorldFish collaborative research programme initiated in 2019
 
-## Turtlemint shares soar 4% as Jefferies initiates buy call, sets ₹190 target
-The stock ended 4.09 per cent positive on the NSE at ₹144.60.
+## UFO Cinema Solutions unveils premium LED cinema technology in Kochi
+The first MAGNOVA auditorium at Magic Framez, Kakkanad, Kochi, features India’s first acoustic-transparent direct-view 4K HDR LED cinema screen
 
-## Kochi to host Kerala Cyber Suraksha Summit 2026 on Sep 5
-Oracle, AWS, Google, Microsoft, Cisco and Zscaler to support cybersecurity summit
+## AI’s real-world impact, opportunities explored at Flytxt’s Innovation2Impact panel
+The event brought together prominent leaders from business, technology and academia, along with Flytxt’s partners and leadership team from the UAE, Japan, the Netherlands, Germany and South Africa.
 
 ## Can't hold more than 10 tonnes for 15 days: Govt imposes stock limit on sugar for bulk consumers
 
@@ -87,8 +87,23 @@ During a recent briefing, President Trump showcased key updates on White House r
 ## Cheap import, uneven demand slowing capex
 'Investment Confidence Still Catching Up Due To Commodity Price Volatility, Uncertainty'
 
+## Delhi HC to hear appeals on PM Modi's bachelor's degree records on September 29
+Mehta said the matter could be heard on another day and requested an early date. The Bench, however, said the matter would be taken up on September 29.
+
+## Google Pixel 11 Pro XL is iteration done right, with a future subscription bill
+Google has quietly focused on optimisation, including contextual AI and camera. Albeit, you’ll be subscribing to some features later
+
+## Chhattisgarh forest dept seeks CBI probe into tiger poaching involving Maha cops
+The Maharashtra Police suspended its two personnel, including a recipient of the President’s Police Medal for Gallantry, following their arrest
+
+## Jharkhand high court stays govt notification cancelling appointments from 11th, 13th JPSC exam
+Jharkhand high court stays govt notification cancelling appointments from JPSC exams
+
+## 3 American tourists lose bags in Kerala auto, get them back 3 days later
+The driver handed the bags over to the Thalassery traffic police, who later reunited the tourists with their belongings.
+
 ## Human intuition isn’t replaceable: Nike’s Deepa Ramprasad on an icon’s evolution
-As the highly anticipated Pegasus Plus 2 breaks cover, Nike’s Deepa Ramprasad reveals how biomechanics and athlete feedback shaped the new ‘super runner’
+
 
 ## Three-language policy: SC asks CBSE to consider one-time reprieve for Class 6
 The Supreme Court asked CBSE to consider a one-time reprieve for Class 6 students under its three-language policy and sought a roadmap on teacher availability.
@@ -96,20 +111,8 @@ The Supreme Court asked CBSE to consider a one-time reprieve for Class 6 student
 ## Hundreds stranded as Assam cab drivers block highway to protest Shillong violence
 The violence was triggered during a “black-flag” motorcycle rally by influential student organisation Khasi Students’ Union
 
-## 113 arrested for violence during cab, auto drivers’ protest in Bhubaneswar: Cops
-The drivers want the government to intervene to regulate charges levied by online platforms and set up a mechanism to fix minimum and maximum fare.
-
-## Back-to-back floods: How a relentless monsoon is testing Odisha
-Many households in northern and coastal Odisha had only just cleared the layers of mud and debris left behind by the first flood when the second deluge arrived.
-
-## Assam: Sivasagar rebuilds a month after the floods but fear remains
-A month after floods hit Sivasagar and neighbouring Charaideo, the waters have receded, but the disaster is far from over for many survivors. At least 105 died.
-
-## CRPF forms 'core group' of top officers to prevent suicides incidents
-The group will be headed by the CRPF Director General (DG) and will meet once a month to undertake a "detailed" review of such incidents.
-
-## Given 24 hours to remove derogatory content on Shirdi Sai Baba: Centre to HC
-Centre tells Delhi HC it ordered intermediaries to remove allegedly derogatory Shirdi Sai Baba content within 24 hours to protect religious sentiments.
+## Chinese insurance giant Ping An’s profit climbs 36% on policy sales, investment gains
+Ping An Insurance (Group), China’s largest insurer by market value, reported a 36 per cent increase in interim profit, driven by stronger policy sales and investment gains, according to a stock exchange filing on Thursday. First-half net profit hit 92.59 billion yuan (US$13.78 billion) for the six m
 
 ## Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending
 Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion). AI Cloud and Compute Services, the Chinese tech giant’s new reporting s
@@ -131,9 +134,6 @@ In a record funding round for China’s satellite internet sector, domestic star
 
 ## Top economist on how China should prep for dollar era’s end
 Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
-
-## US Treasuries in driver’s seat for risky AI stocks as investors grapple with elevated yields
-Stock traders in mainland China and Hong Kong are looking to the US bond market for clues on the sustainability of the artificial-intelligence trade after rising Treasury yields jolted global financial markets. Elevated yields on longer-dated Treasuries, a benchmark for global funding costs from mor
 
 ## Israel and America Agree on Gaza’s New Leader
 The Trump administration’s peace plan has invested its hopes for Gaza’s future in the little-known Ali Shaath.
@@ -182,30 +182,6 @@ Japan’s only treaty ally sanctioned the ICC president – who happens to be a 
 
 ## Why Has Pakistan’s Jailed Former PM Imran Khan Been Shifted to Hospital Now?
 Lowering political temperatures and exploring limited dialogue have become a priority for the Pakistani government.
-
-## War: Watt Is It Good For?
-Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
-
-## China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That
-For years, the Chinese military’s own newspaper has been making a promise it may no longer be able to keep. Whenever the People’s Liberation Army Daily (Jiefangjun Bao), the official newspaper of China’s Central Military Commission, discusses artificial intelligence and command, it returns to the sa
-
-## Inside Iran’s Wartime Regime
-Afshon Ostovar, one of the leading experts on Iran and the host of the members-only podcast The Iran Reckoning, is joined by War on the Rocks membership editor Kerry Anderson for a state-of-play conversation on the conflict between the United States and Iran. They consider why the fighting has settl
-
-## Contested Logistics and the “Last Unmanned Mile”
-In a Pacific war, the U.S. military cannot assume uncontested access to its depots and supply lines for munitions, spare parts, food, water, and energy. Jonathan is joined by David Tuttle (Rune Technologies), Paul Lwin (HavocAI), and Tom Garvey (CACI) to discuss sustaining a dispersed force that’s f
-
-## Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…
-The Iran war is beginning to resemble the Ukraine war in one important way. Operationally, the wars themselves are still very different — Ukraine is a large-scale ground invasion, while the Iran war is not there just yet. But their political logic after a failure to achieve a quick result is startin
-
-## Proving the Negative: Three Warnings from Arms Control for the Age of AI
-In early 1963, a single number characterized the difference in the positions of the United States and the Soviet Union on a comprehensive nuclear test ban. Nikita Khrushchev had proposed three on-site inspections each year. Washington was asking for seven. Other differences remained, including inspe
-
-## How Feasible Is a European Nuclear Deterrent Without Washington?
-In 2025, James Cameron wrote, “Eurodeterrent: A Vision for an Anglo-French Nuclear Force,” where he argued the United Kingdom and France should cooperate to develop a nuclear deterrent umbrella for Europe, independent of Washington. A year later, after French President Emmanuel Macron’s landmark nuc
-
-## AI and the Risks of Tearing Down an Old System
-Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the op
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -279,6 +255,9 @@ The Securities and Exchange Board of India banned Copthall Mauritius Investments
 ## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
 The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
 
+## India sees $80 billion in flows via subsidised swap windows, cenbank governor tells FE
+India's central bank anticipates nearly eighty billion dollars in inflows. These funds will bolster foreign exchange reserves through subsidized swap facilities. The Reserve Bank of India decided to close one scheme earlier than planned. Flows have been stronger than market participants expected. Th
+
 ## Hawkish RBI minutes, softer dollar soothe rupee sentiment while intervention boosts
 The Indian rupee strengthened slightly on Thursday, aided by central bank actions. Hawkish policy minutes from the Reserve Bank of India also supported the currency. A generally weaker dollar provided additional positive momentum for the rupee. Elevated oil prices and corporate demand for dollars fa
 
@@ -299,7 +278,4 @@ RBI faces challenges forecasting demand for banknotes as currency in circulation
 
 ## High-level committee on banking reforms ‘soon’: FM
 Finance Minister Nirmala Sitharaman will soon announce a high-level committee on banking reforms. This committee will review the sector's alignment with India's growth goals. The panel's formation was announced in budget 2026-27 for Viksit Bharat. Deliberations from a recent conclave will provide in
-
-## FCNR(B) swap cost unlikely to have driven RBI’s early closure: SBI Research report
-SBI Research said the cost of the RBI’s FCNR(B) swap facility is unlikely to have driven its early closure, estimating cumulative hedging costs at USD 10.5 billion over five years. It said mobilisation targets may already have been achieved, with FCNR(B) deposits at USD 52.3 billion as of August 13.
 
