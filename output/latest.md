@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## Walmart shares tumble as sales growth slows to six-year low
+Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers
+
+## Tory peer’s free speech group urged Vance to lobby UK government
+Free Speech Union called on vice-president to focus on censorship at time of Starmer visit to US last year
+
+## Guggenheim loan trades in distressed territory after investor call
+Chief executive Mark Walter’s business empire has come under pressure amid probe into his insurance holdings
+
 ## Quant funds rocked as Treasury boosts buybacks and Moderna shares leap
 Tumultuous session puts further pressure on momentum trades that have been unsettled since AI-related stock sell-off
 
 ## Brazilian municipalities join BHP and Vale dam collapse payout scheme
 Nineteen authorities reach agreement over 2015 disaster in blow to English High Court class action
-
-## Walmart shares tumble as sales growth slows to six-year low
-Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers
 
 ## Today’s China could learn from Jiang and Zhu
 History might have been different had collegial, liberalising leadership continued
@@ -20,12 +26,6 @@ The world’s biggest chip company is using its balance sheet to seed new market
 
 ## Stripe bets that an AI world still needs middlemen
 Payments company’s purchase of OpenRouter makes strategic sense
-
-## US long-term bonds slide as Bessent intervention fails to soothe investors
-Yield on 30-year Treasuries rises despite move to ‘at least double’ purchases of securities
-
-## Guggenheim loan trades in distressed territory after investor call
-Chief executive Mark Walter’s business empire has come under pressure amid probe into his insurance holdings
 
 ## Monte dei Paschi readies twin takeover bids for Banca Generali and Banco BPM
 Plan would create an Italian banking group with a combined market valuation of about €70bn
@@ -81,6 +81,9 @@ The National Stock Exchange is considering a groundbreaking move to trade its ow
 ## Pakistan seeks $10 billion facility from US, submits bid to Treasury Department; here's why
 Pakistan has struggled with external payment pressures for years and came close to default in 2023 before securing timely assistance from the International Monetary Fund (IMF) and bilateral partners.
 
+## Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged
+Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.
+
 ## Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing
 Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing
 
@@ -101,9 +104,6 @@ Around 22 transformers and 79 drinking water supply schemes have also been disru
 
 ## Himanta Biswa Sarma meets PM Modi in Delhi; discusses Assam floods, rehabilitation
 Assam CM Himanta Biswa Sarma met PM Modi in Delhi to discuss flood recovery, rehabilitation and rebuilding of areas hit by floods that killed 105 people.
-
-## Gujarat SMC arrests 13, detains MP-based key suspect for toxic liquor that killed 7
-Bhavnagar collector Manish Bansal said 32 people were undergoing treatment at hospitals and nine others had been discharged.
 
 ## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
 Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
@@ -129,6 +129,9 @@ Chinese commercial banks have begun pricing corporate loans against a short-term
 ## Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market
 Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in
 
+## The Clock Is Ticking Down on Another U.S.-Canada Trade War
+Senior Canadian officials are looking to make a deal to avoid new 50 percent U.S. tariffs.
+
 ## The U.S. Bond Crisis Highlights a Deeper Fiscal Rot
 Scott Bessent is breaking the glass to check rising bond yields, but the fix is flawed.
 
@@ -149,9 +152,6 @@ Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
 
 ## The Taliban’s Next Five Years
 The brutish group has been surprisingly stable since snatching power in 2021. Rockier times may lie ahead.
-
-## Gray-Zone Warfare Picks Easy Targets in Germany
-Political appeasement won’t buy off hostile powers.
 
 ## Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed
 At the heart of the global effort to diversify away from Chinese supply of critical minerals is the tension between friendshoring and strategic autonomy.
@@ -225,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Landslide at illegal gold mine kills 13 people in Colombia
+At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.
+
+## Hundreds of Tibetans protest China’s ethnic unity law by shaving heads
+A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.
+
+## Heartbreak, loss on Lebanon’s front lines, the story of a first responder
+Heartbreak, loss on Lebanon’s front lines, the story of a first responder
+
+## Four railway workers killed by express train at station in Japan
+Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train.
+
 ## DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge
 WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.
 
@@ -236,18 +248,6 @@ Syria's civil society grapples with redefining its role as the state reasserts i
 
 ## Brook makes Pakistan pay for dropped catch as England dominate first Test
 England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan's meagre first innings of 171.
-
-## Could US sanctions destroy the International Criminal Court?
-Washington's new measures against the ICC have been widely condemned but welcomed by Israel.
-
-## Walmart sees sales drop as US consumer spending retreats
-Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart's growth.
-
-## University suspends US academic leading Jason Arday plagiarism accusations
-Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race.
-
-## Arsenal vs Coventry: Premier League – prediction, lineups, teams
-Holders Arsenal face Coventry in the Premier League opener with doubts over Declan Rice and Bukayo Saka's match fitness.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
