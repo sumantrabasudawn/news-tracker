@@ -1,16 +1,16 @@
 # AION Intelligence
 
+## Burnham hit by fiscal challenges as O’Neill declines government role
+£1.8bn deficit in July confounds economists’ expectations of a balanced budget as prime minister completes first month in office
+
 ## Italy’s MPS thinks three takeovers are better than one
 Crunching two banks together is challenging, and takes time; to attempt the same feat with four calls for some truly magical thinking
 
-## Trump claims deal to cut beef import tariffs to help curb high prices
+## US ranchers lash out at Trump’s gambit to cut beef prices
 Cattle futures fall after president says unnamed foreign suppliers will provide 25% discount for three months
 
 ## Apollo says hackers accessed personal data in latest Wall Street breach
-Private equity group’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
-
-## Jim O’Neill declines job in Andy Burnham’s government
-Former Goldman Sachs chief economist was adviser to Labour leader before he became prime minister
+Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
 
 ## The US techlash is real
 AI companies and social networks should respond to the shift in the public mood
@@ -24,17 +24,23 @@ The executive aide’s relationship with the president symbolises a broader syco
 ## Citadel offloads 80% of portfolio scooped up from Situational Awareness
 Ken Griffin’s hedge fund has executed more than $4bn worth of block trades in recent weeks
 
+## Directors’ Deals: Pearson executive cashes in as digital growth boosts shares
+First-half revenues at the education group rise by 19 per cent
+
+## Stockpickers: Costain, Oxford Nanopore Technologies, BHP
+Our experts discuss which companies to buy, sell or hold this week
+
 ## Prince Harry and other privacy claimants told to pay initial £9.5mn to Daily Mail publisher
 High Court rules that the losing parties must cover legal costs on an ‘indemnity’ basis
 
 ## Uber set for €825mn Dutch fine over automating driver suspensions
 Regulator says ride-hailing group deactivated driver accounts through automated systems without adequately informing them
 
-## Apple paid $17bn in taxes to Ireland after court ruling on back levies
-New filings highlight iPhone maker’s global tax liabilities
+## Trump administration starts process to transfer $725 million to UN
+The proposed payment could ease immediate pressure on the cash-strapped global body, which has warned of severe funding constraints and cuts.
 
-## What is Jane Street?
-The question is more important than the answer
+## Joyalukkas, Kalyan bag TN govt order to gift gold rings to 4.41 lakh newborns
+The Kerala jeweler pipped others for the ₹755 crore order by bidding on a razor-thin margin
 
 ## China’s Chang’e-7 lunar mission to search for water at Moon’s south pole
 The mission will test advanced robotic technologies while gathering data that could shape China’s plans for a permanent lunar research outpost
@@ -48,17 +54,11 @@ Washington’s planned measures come as tensions threaten shipping routes, crude
 ## IRDAI bars Edelweiss Life, Pramerica Life from opening new offices for six months
 The Authority will continue to take appropriate supervisory and enforcement action wherever regulatory non-compliance is observed
 
-## Joyalukkas, Kalyan bag TN govt order to gift gold rings to 4.41 lakh newborns
-The Kerala jeweler pipped others for the ₹755 crore order by bidding on a razor-thin margin
-
 ## Symbiotec Pharmalab raises Rs 526 cr from anchor investors; IPO opens on Aug 24
 The anchor placement attracted mutual funds, insurers and foreign investors, setting the stage for the pharmaceutical company’s public market debut
 
 ## Editorial. Resource guzzlers
 Data centres should account for water, power demands
-
-## SEBI mulls bond distributor network, tighter ad rules to boost retail participation
-The proposals aim to make corporate bonds more accessible to retail investors while strengthening safeguards around recommendations, incentives and investor communication
 
 ## Middle East, Russia crisis: India new ‘swing supplier’ for refined oil products. Can it sustain?
 Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Russia.
@@ -84,6 +84,21 @@ SBI customers will face charges for cash withdrawals exceeding four free monthly
 ## Why India is betting $1.2 billion on homegrown construction equipment
 India plans a $1.2 billion incentive scheme for advanced equipment manufacturing. This initiative aims to reduce reliance on China for critical machinery. The government expects fresh investment and domestic production growth over seven years. The scheme will cover tunnel boring machines and fire-fi
 
+## CJP protest-like scenes at Jantar Mantar as ‘Reservation Hatao’ stir draws massive crowd; several detained
+Many visuals on X showed police personnel detaining protesters as a large number of people gathered at the site carrying banners and posters
+
+## Speeding car hits motorcycle in Gurugram, ED employee, friend killed
+The accused driver of the speeding car was apprehended by the bystanders who then handed him over to the police.
+
+## "Taking care of her cultural needs": MEA says pursuing Ariha Shah's case with German authorities
+However, MEA spokesperson Randhir Jaiswal said he did not have a fresh update on the case.
+
+## Mother-son duo among three held in Delhi for gunpoint robbery at elderly man's home
+The arrests came following a 13-day manhunt across several Uttar Pradesh districts, with police analysing footage from more than 500 CCTV.
+
+## IndiGo Trichy-Singapore flight with 127 passengers returns after mid-air technical snag
+The flight, which departed from Trichy at around 6.40 pm, remained in the air for nearly two and a half hours after the technical issue was detected.
+
 ## ‘On our radar as threat’: Ex-army chief MM Naravane calls China India's competitor, Pakistan a security challenge
 MM Naravane said China will serve as India's primary competitor across political, economic, trade, and military spheres in the coming years.
 
@@ -92,21 +107,6 @@ The auction house has reportedly confirmed that the buyer is from within India a
 
 ## 22 Indian sailors on two cargo ships hijacked off Yemen, Somalia are safe: Govt
 All 22 Indian seafarers aboard two foreign-flagged vessels hijacked by pirates off Yemen and Somalia are safe, EAM said, as authorities work to ensure their safety.
-
-## 5 arrested over alleged human sacrifice killing in Odisha
-Odisha police arrest five over suspected human sacrifice after a 40-year-old man’s headless body was found in Balangir; accused’s head recovered.
-
-## AAP says H1N1 cases in Delhi ‘alarmingly high’, ‘spreading like corona’, blames govt for not taking measures
-AAP Delhi president Saurabh Bharadwaj claimed that several people in the capital are experiencing flu-like symptoms.
-
-## ‘Will she teach patriotism?' BJP on Sharmila Tagore's Vande Mataram remark
-The comments come amid an intensifying political dispute between the BJP and the Congress over the rendition of Vande Mataram.
-
-## Chhattisgarh signs two key MoUs to boost PM GatiShakti implementation
-The agreements aim to enhance the state's infrastructure planning and development by using geospatial technology and integrated logistics data.
-
-## Odisha to develop Laxmanananda Saraswati’s birthplace as heritage village: Majhi
-The announcement came at an event marking the birth centenary of the VHP leader, who was known for his campaigns against religious conversions in Odisha’s tribal belt
 
 ## Tesla forced to recall record 3 million cars in China over door-handle issue
 Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
@@ -132,6 +132,9 @@ A court in southern China’s Guangdong province formally accepted a bankruptcy 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
+## Why Do Young Africans Love Donald Trump?
+A new survey reveals a preference for the U.S. president’s transactional approach.
+
 ## Trump’s Twin Blunders
 The U.S. president has simultaneously demolished key relationships in East Asia and the Middle East.
 
@@ -153,32 +156,29 @@ Senior Canadian officials are looking to make a deal to avoid new 50 percent U.S
 ## The U.S. Bond Crisis Highlights a Deeper Fiscal Rot
 Scott Bessent is breaking the glass to check rising bond yields, but the fix is flawed.
 
-## A Tale of Two Socialists
-Why Spain’s Sánchez has succeeded while Britain’s Starmer floundered.
+## A New Japanese Drydock and the Limits of Allied Cooperation
+Japanese shipyards are expanding, but the future space may already be spoken for.
 
-## Vietnam Proposes Ending Death Penalty For 6 More Offenses
-At the same time, the government is introducing tougher sentencing provisions for acts deemed to undermine the state or the authority of the ruling Communist Party.
+## Can Bangladesh Engage the Arakan Army Without Compromising Rohingya Rights?
+Engagement may be required, but appeasement is not.
 
-## Mirza Fakhrul Islam Alamgir Elected Bangladesh’s New President
-The presidential election has reopened debate over Article 70 of the Constitution, which can cost parliamentarians their seats if they vote against their party.
+## How Mongolia Is Diversifying Its Defense Sector
+As highlighted by a new ammunition factory, Turkiye has become a prime partner in Mongolia's defense industry efforts.
 
-## Ahead of Xi Visit, US Designates American Held in China as ‘Wrongfully Detained’
-Min Zin, who heads a leading Myanmar-focused think-tank based in Thailand, has been accused of "engaging in espionage and ​endangering China’s national security.”
+## China’s Own Version of Ambiguity in the Taiwan Strait
+As the U.S. mulls “strategic clarity,” China may be shifting its pressure campaign away from highly visible military coercion toward methods that are less easily classified.
 
-## China Isn’t Winning the Digital Order – Yet
-In Southeast Asia, Beijing is building the digital infrastructure, but not (yet) writing the rules.
+## Australia and Thailand Deepen Ties to Hedge Against Global Uncertainty
+The building of collaboration with countries like Thailand is central to Australia’s long-term strategic vision.
 
-## ROK-US Alliance Management Via Social Media
-A line-by-line analysis of U.S. President Donald Trump's surprising (?) social media post downsizing the ongoing South Korea-U.S. military exercises at the very last minute.
+## How an Academic Became Collateral Damage to China’s Interests in Myanmar
+The arrest of Burmese-American scholar U Min Zin highlights China’s determination to ensure its role in Myanmar doesn’t come under scrutiny.
 
-## What Are the Implications of the Mecca Pact for India?
-New Delhi needs a new roadmap for navigating relations in the Gulf and increasing its security profile.
+## Is Pakistan’s Province Debate a Political Gimmick?
+Recurring discussions of whether, and how, to create new provinces avoids a conversation about provincial autonomy.
 
-## A 4,000‑yr‑old Rock Painting in Indonesia Offers Clues to One of Humanity’s Greatest Migrations
-Austronesian explorers from what is now Taiwan may have leapfrogged to centers of influence, rather than simply advancing to the next nearest island.
-
-## Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed
-At the heart of the global effort to diversify away from Chinese supply of critical minerals is the tension between friendshoring and strategic autonomy.
+## Nepal’s Tibet Conference Controversy Is About More Than Chinese Pressure
+The cancellation of the in-person event also reflects Nepal’s lack of confidence in its ability to manage politically sensitive events.
 
 ## A Rock and China’s Three-Sea Problem
 Two rocks surrounded by coral, with a total land size of less than 10 square meters (approximately 108 square feet) at high tide, are the entire basis on which Japan claims a 150,000-square-mile exclusive economic zone, an area nearly the size of Japan itself. The uninhabited feature, located more t
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arsenal sign Konsa from Villa as Premier League holders bolster defence
+England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).
+
+## Why Iran is threatening Europe’s ‘strategically important’ southeast
+Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
+
+## Israeli army, settlers kill 2 Palestinians in separate West Bank incidents
+Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.
+
+## Migrants clash with French police as they attempt to cross the Channel
+French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.
+
+## Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home
+Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.
+
+## Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
+Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading 'pro-Russian propaganda'.
+
 ## What to know about the Freedom 250 Grand Prix, Trump’s capital car race
 The president says the 147-lap race will be an event 'like no other' as drivers zip through Washington, DC.
 
 ## England thrash Pakistan by an innings and 103 runs in first Test
 Joe Root's return as England captain results in a thumping win inside three days against Pakistan in first Test.
-
-## Arsenal vs Coventry LIVE: Premier League
-Follow updates from the opening match of the season - including the build-up, analysis and live text commentary.
-
-## Israeli settlers set fire to heavy machinery at West Bank quarry
-Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery
-
-## Jannik Sinner to miss US Open tennis major due to knee injury
-Five-time major champion Sinner, who won the US Open in 2024, will not be competing at Flushing Meadows this year.
-
-## Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain
-Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.
-
-## Russian expert warns of impending social crisis as Ukraine death toll rises
-Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.
-
-## Iraq’s solar villages show how to build an energy transition that lasts
-Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
