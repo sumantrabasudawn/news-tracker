@@ -180,6 +180,9 @@ Recurring discussions of whether, and how, to create new provinces avoids a conv
 ## Nepal’s Tibet Conference Controversy Is About More Than Chinese Pressure
 The cancellation of the in-person event also reflects Nepal’s lack of confidence in its ability to manage politically sensitive events.
 
+## Pressure Points: Economic Strain, Allied Discord, and War Fatigue
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. strikes on Iranian soil tapered off in August after frequent exchanges throughout July. The hiatus seem
+
 ## A Rock and China’s Three-Sea Problem
 Two rocks surrounded by coral, with a total land size of less than 10 square meters (approximately 108 square feet) at high tide, are the entire basis on which Japan claims a 150,000-square-mile exclusive economic zone, an area nearly the size of Japan itself. The uninhabited feature, located more t
 
@@ -200,9 +203,6 @@ In a Pacific war, the U.S. military cannot assume uncontested access to its depo
 
 ## Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…
 The Iran war is beginning to resemble the Ukraine war in one important way. Operationally, the wars themselves are still very different — Ukraine is a large-scale ground invasion, while the Iran war is not there just yet. But their political logic after a failure to achieve a quick result is startin
-
-## Proving the Negative: Three Warnings from Arms Control for the Age of AI
-In early 1963, a single number characterized the difference in the positions of the United States and the Soviet Union on a comprehensive nuclear test ban. Nikita Khrushchev had proposed three on-site inspections each year. Washington was asking for seven. Other differences remained, including inspe
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arsenal rout Coventry 3-0 to begin Premier League title defence in style
+Kai Havertz struck early, Bukayo Saka doubled the lead, before Martin Odegaard netted after the break.
+
+## Global Sumud Flotilla joins Albania’s anti-resort protest
+Three boats from the Global Sumud Flotilla arrived in Albania’s Vlore on Friday to support the “Flamingo Revolution"
+
 ## Tunisian protesters call for President Kais Saied to step down
 Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.
 
@@ -245,12 +251,6 @@ UK, Australia and Canada call Israel’s decision not to investigate deadly 2024
 
 ## US Supreme Court allows Trump’s ballroom project to continue for now
 The Trump administration has argued the $400m White House ballroom is needed for national security purposes.
-
-## Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices
-The president did not mention with whom he made the deal or where the imported ground beef is coming from.
-
-## US court slashes Alex Jones fines for Sandy Hook school shooting case
-Court cuts Infowars founder's penalty for false claims that school shooting was a 'hoax' from $50m to $1.5m.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
