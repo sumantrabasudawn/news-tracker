@@ -24,38 +24,44 @@ Tumultuous session puts further pressure on momentum trades that have been unset
 ## Brazilian municipalities join BHP and Vale dam collapse payout scheme
 Nineteen authorities reach agreement over 2015 disaster in blow to English High Court class action
 
+## India’s troubled SpiceJet wrangles a last-minute break
+Also in this newsletter: food safety regulator cracks the whip
+
+## Panama Canal to cut daily transits as El Niño grips region
+Authority plans to reduce number of passages for only the second time
+
 ## Founder who blamed $300mn fraud on head injury sentenced to prison
 Judge accepts injury contributed to Christine Hunsicker’s crime as he sentences her to five years in prison
 
-## Nvidia looks well placed to benefit from the next stage of the AI boom
-The world’s biggest chip company is using its balance sheet to seed new markets and a new business model
+## Centre holds national workshop to strengthen capacity-building under Jal Jeevan Mission 2.0
+The consultation focuses on strengthening the content, pedagogy and field applicability of the modules, drawing on state and UT experiences and field realities to support their finalisation and effective rollout under JJM 2.0
 
-## Stripe bets that an AI world still needs middlemen
-Payments company’s purchase of OpenRouter makes strategic sense
+## Magnitude 6.7 earthquake shakes Peru's southern Andes, USGS says
+The earthquake was felt in several regions of southern Peru, including Ica and Arequipa
+
+## Sensex today | Stock Market Live: Stock to buy today: DCM Shriram (₹1,076)
+Sensex, Nifty, Share Prices LIVE: The stock of DCM Shriram has been consolidating since early June. That is, it has been oscillating between ₹980 and ₹1,065
+
+## Augmont Enterprises IPO opens today at ₹750-788
+₹825-crore issue includes ₹620-crore fresh issue; company raised ₹246.29 crore from 14 anchor investors
+
+## IGEL Brings Now & Next Workspace & Endpoint Security Summit to Melbourne, Australia
+IGEL Brings Now & Next Workspace & Endpoint Security Summit to Melbourne, Australia
+
+## NagaWorld Earns Great Place To Work® Certification™ in 2026 with an Outstanding 97% Trust Index™ Score
+NagaWorld Earns Great Place To Work® Certification™ in 2026 with an Outstanding 97% Trust Index™ Score
+
+## Buzzing stocks: Welspun Corp, Leapfrog, Rane (Madras), Niva Bupa, RailTel Corp, Walchandnagar, KIMS
+Key stock updates: Welspun Corp’s historic order, Leapfrog’s PLC contract, and significant moves by Rane, Niva Bupa, and others
 
 ## Narwhal tusk mystery unraveled: Hidden double spiral gives it strength and stability
 The discovery reveals how an unusual dental structure may give narwhals a remarkably strong and stable tusk despite its extraordinary length
 
-## The new kingmakers: Crypto, AI and betting firms drive record spending in 2026 US midterms
-New political money is challenging Washington’s traditional corporate power brokers as emerging industries seek influence over regulation and election outcomes
+## US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz
+The United States is preparing unprecedented sanctions against Iran. These measures aim to increase economic pressure on Tehran significantly. Washington also seeks cooperation from China regarding Iranian oil trade. China rejects sanctions and advocates for diplomatic solutions to the conflict. The
 
-## US to impose ‘toughest sanctions in history’ on Iran, Bessent says
-The latest escalation comes as Washington seeks to tighten economic pressure on Tehran while keeping energy markets and China’s role in focus
-
-## AI reshapes India’s IT services sector as clients demand more for less
-India’s technology services sector is confronting a fundamental shift as clients rethink outsourcing, pricing and the value of large employee bases
-
-## General Atlantic sells 8.75% stake in KFin Technologies for ₹1,400 crore
-The transaction saw several domestic and global institutional investors participate, while the company’s shares ended higher on Thursday.
-
-## India’s BSE cleared as eligible exchange for FTSE Russell equity indices
-The development could broaden the investor base for eligible BSE-listed companies as global index-linked investment increasingly gains importance in India.
-
-## Welspun Corp wins record ₹17,200-crore US pipe supply order
-Welspun Corp’s latest contract provides multi-year revenue visibility as the company expands manufacturing capacity and strengthens relationships across North America
-
-## Top Business & Market Headlines Today — BL Morning Report, August 21, 2026
-BL Morning Report, August 21, 2026: Get today’s top business news, market headlines about key market insights, economic highlights, and the latest updates from India and global markets.
+## Brent hovers near $94 as US-Iran conflict continues to squeeze energy supply
+On Friday, oil prices held steady, with Brent crude nearing $94 per barrel amid ongoing supply disruptions triggered by the US-Iran conflict. Both Brent and WTI benchmarks are poised for a second consecutive weekly increase. President Trump earlier issued threats of retaliation against nations backi
 
 ## Government makes it easier for exporters to get paid in rupee
 
@@ -75,35 +81,29 @@ To Allow International Arbitration In A Year Instead Of 5 Yrs
 ## Core sector growth rises to 5.4% in July
 
 
-## 61.5% of women taking up G RAM G work shows positive indicator of rural livelihoods
+## Jadavpur University logo damaged in Kolkata campus after ABVP, Left student wings clash
+Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.
 
+## Congress-ruled Karnataka, Kerala, Telangana to challenge new mining law in Supreme Court
+The states oppose the law because it stops state governments from imposing taxes or levies on mineral rights and mineral-bearing land.
 
-## GDP may grow beyond projected 6.7%: RBI DG
+## ‘Sab ulta ho gaya’: Shehzad Poonawalla says ‘Congi ecosystem’ is paying journalists to attack him after BJP exit
+In a late-night video, Shehzad Poonawalla said Congress members reached out to him expecting him to turn against the BJP.
 
+## What was discussed at Amit Shah's meet with Vijay, Shivakumar, other South CMs?
+The states agreed with the home minister’s suggestion to resolve pending water disputes expeditiously through mutual dialogue and constructive solutions.
+
+## 1984 anti-sikh riot survivors feel Sajjan Kumar evaded justice: 'Dying in jail not enough'
+After decades of waiting for justice, many said his death in jail felt like an abrupt end to a battle they had hoped would culminate in the harshest punishment.
+
+## Two vessels with 22 Indians on board hijacked by pirates near Yemen, Somalia
+Two vessels carrying a total of 22 Indian nationals were hijacked in separate incidents off Yemen and Somalia, according to officials.
 
 ## Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged
 Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.
 
 ## Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing
 Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing
-
-## China to be India's main long-term competitor in multiple fields: Army ex-chief Naravane
-China to be India's main long-term competitor in multiple fields: Army ex-chief Naravane
-
-## India, Japan sign agreement to deepen maritime security ties
-India and Japan on Thursday signed a memorandum of arrangement to deepen maritime security cooperation, focusing on closer ties between the Indian Navy and the Japan Maritime Self-Defense Force—the latest in a series of steps to bolster bilateral military ties—during talks between defence minister R
-
-## Mirza Fakhrul Islam Alamgir to be next Bangladesh President: Good or bad news for India, Sheikh Hasina?
-Alamgir has taken a tough stance on India previously. He once called on New Delhi to respect Bangladesh's sovereignty and democratic aspirations.
-
-## IndiGo Delhi-Mangaluru flight delayed 3 hours after technical snag during taxiing
-After 5 minutes, the pilot announced that the aircraft was returning to the bay because of a technical issue, he said.
-
-## 156 Himachal roads shut as rains lash state; 88 dead in monsoon
-Around 22 transformers and 79 drinking water supply schemes have also been disrupted as of Thursday evening.
-
-## Himanta Biswa Sarma meets PM Modi in Delhi; discusses Assam floods, rehabilitation
-Assam CM Himanta Biswa Sarma met PM Modi in Delhi to discuss flood recovery, rehabilitation and rebuilding of areas hit by floods that killed 105 people.
 
 ## Hong Kong financiers press for tax breaks after Singapore unveils rival scheme
 Hong Kong should press ahead with its proposed tax break on carried interest, the performance fees earned by hedge fund and private equity managers, after Singapore unveiled a rival tax-exemption scheme, according to industry participants. The bill, submitted to lawmakers in June and expected to com
@@ -153,6 +153,18 @@ The Trump administration’s peace plan has invested its hopes for Gaza’s futu
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
 
+## China Isn’t Winning the Digital Order – Yet
+In Southeast Asia, Beijing is building the digital infrastructure, but not (yet) writing the rules.
+
+## ROK-US Alliance Management Via Social Media
+A line-by-line analysis of U.S. President Donald Trump's surprising (?) social media post downsizing the ongoing South Korea-U.S. military exercises at the very last minute.
+
+## What Are the Implications of the Mecca Pact for India?
+New Delhi needs a new roadmap for navigating relations in the Gulf and increasing its security profile.
+
+## A 4,000‑yr‑old Rock Painting in Indonesia Offers Clues to One of Humanity’s Greatest Migrations
+Austronesia explorers from what is now Taiwan may have leapfrogged to centers of influence, rather than simply advancing to the next nearest island.
+
 ## Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed
 At the heart of the global effort to diversify away from Chinese supply of critical minerals is the tension between friendshoring and strategic autonomy.
 
@@ -164,18 +176,6 @@ Dr. Smruti S. Pattanaik joins host Tushar Shetty to examine Bangladesh six month
 
 ## North Korea Dismisses Trump’s Recent Overtures to Kim Jong Un
 Days after U.S. President Donald Trump showed his interest in meeting with the leader of North Korea, Pyongyang responded by launching short-range ballistic missiles and publishing a harsh statement.
-
-## Dr. Moses Haregewoyn and the Operational Case for a Different Kind of Global Health Leadership
-Filling a gap in global health governance
-
-## Can Japan Become Indonesia’s Principal Partner in Asia?
-Jakarta is seeking partnerships that can strengthen its security and economy while respecting its non-aligned foreign policy.
-
-## China Praises Malaysian PM Anwar Ibrahim For Supportive Comments on Taiwan
-The Malaysian leader's remarks also prompted a rebuke from Taipei, which said that they "could negatively impact Taiwanese businesses’ confidence in investing in Malaysia.”
-
-## Myanmar Military Chief Begins Visit to Thailand Aimed at Expanding Security Ties
-Ye Win Oo's visit is the latest effort by Bangkok to bring Myanmar's military-appointed government in from the cold.
 
 ## War: Watt Is It Good For?
 Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
@@ -225,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## After GERD, can Egypt shape Ethiopia’s next Nile dams?
+Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.
+
+## Brazil launches AI supercomputer push while balancing US and Chinese tech
+The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
+
+## Panama Canal to limit shipping ahead of extreme weather during El Nino
+The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.
+
+## Antigovernment protesters take to Tunisia’s streets for second month
+Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.
+
 ## Taliban release two detained UN staff members in Afghanistan
 The two men, detained in the western city of Herat on August 9, were released on Thursday morning.
 
@@ -236,18 +248,6 @@ US Treasury Secretary Bessent says new economic measures will 'collapse' Iranian
 
 ## Houthis and government trade attacks as Yemen slides back to full-scale war
 Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
-
-## US charges woman for allegedly plotting attack on New York State Capitol
-The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for 'terrorism'.
-
-## The cost of rebuilding family homes in war-ravaged Syria
-What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.
-
-## New York mayor Mamdani sues to block $10,000 teaching aide bonuses
-New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.
-
-## Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order
-Khan, who was voted out of the office in April 2022, has been in prison for more than three years.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
