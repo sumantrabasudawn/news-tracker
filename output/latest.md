@@ -24,46 +24,61 @@ Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeez
 ## Tory peer’s free speech group urged Vance to lobby UK government
 Free Speech Union called on vice-president to focus on censorship at time of Starmer visit to US last year
 
-## Panama Canal to cut daily transits as El Niño grips region
-Authority plans to reduce number of passages for only the second time
+## The new age of Big Law recruiting
+Wall Street firms are beginning to recruit students in their first semester of law school
 
-## Founder who blamed $300mn fraud on head injury sentenced to prison
-Judge accepts injury contributed to Christine Hunsicker’s crime as he sentences her to five years in prison
+## Asia’s rising riches protect insurers against China’s policy shifts
+So long as the region’s wealth accumulation continues to outpace that of most developed economies
 
-## Guggenheim loan trades in distressed territory after investor call
-Chief executive Mark Walter’s business empire has come under pressure amid probe into his insurance holdings
+## The battle over golf’s future
+New management wants the sport to become more commercial, but others worry billionaires have too much say
 
-## Quant funds rocked as Treasury boosts buybacks and Moderna shares leap
-Tumultuous session puts further pressure on momentum trades that have been unsettled since AI-related stock sell-off
+## London’s cabbies prepare to battle the robotaxis
+Some drivers are considering skulduggery in an attempt to show the limits of autonomous vehicles
 
-## SEBI’s swift ban on JPMorgan unit seen as warning to traders
-Crackdown underscores SEBI’s determination to ensure success of Closing Auction System
+## ‘Nobody has automated the kitchen’: the tech billionaire disrupting restaurants
+Wonder chief Marc Lore bets that owning the entire process — from food production to delivery — will pay off
 
-## Ships passing through Hormuz hover in single digits, data shows
-Of the total, four ships entered and three exited the waterway, which handled nearly a fifth of global crude oil and LNG shipments before the war began in February
+## HSBC spends $68mn on biggest cull of senior bankers since financial crisis
+Reduction came as Europe’s largest lenders shed biggest number of highly paid bankers since 2020
 
-## Sensex today | Stock Market Live: Markets poised for higher open amid caution over oil, bond stress
-Sensex, Nifty, Share Prices LIVE: Indian shares are set to open slightly higher on Friday after snapping a ​run of losses, though elevated crude oil prices and ‌pressure in global bond markets kept sentiment ​cautious
+## Why the energy crisis won’t save western oil refineries
+North America and Europe to lose further capacity because of investor wariness
 
-## Markets poised for higher open amid caution over oil, bond stress
-GIFT Nifty points to positive start; elevated crude and global bond market pressure keep sentiment cautious
+## Crude oil price: Futures decline as US threatens ‘toughest sanctions’ on Iran
+October Brent oil futures at $93.46, down by 0.34%; October crude oil futures on West Texas Intermediate at $86.40, down by 0.50%
 
-## Centre holds national workshop to strengthen capacity-building under Jal Jeevan Mission 2.0
-The consultation focuses on strengthening the content, pedagogy and field applicability of the modules, drawing on state and UT experiences and field realities to support their finalisation and effective rollout under JJM 2.0
+## Sensex today | Stock Market Live: Markets open flat, Sensex down 50 pts, Nifty trades around 24,220; Eternal, Shriram Finance top gainers
+Sensex, Nifty, Share Prices LIVE: Indian shares open flat on Friday though elevated crude oil prices and ‌pressure in global bond markets kept sentiment ​cautious
 
-## Magnitude 6.7 earthquake shakes Peru's southern Andes, USGS says
-The earthquake was felt in several regions of southern Peru, including Ica and Arequipa
+## Prabha Narasimhan elevated to global role, Manish Anandani to lead India operations at Colgate-Palmolive
+The transition comes at a time when Colgate-Palmolive India is stepping up its premiumisation strategy to create higher-value growth in the country’s oral care market
 
-## Augmont Enterprises IPO opens today at ₹750-788
-₹825-crore issue includes ₹620-crore fresh issue; company raised ₹246.29 crore from 14 anchor investors
+## Elon Musk says Starlink to help India’s underserved
+Musk responds to X post that says ‘11,256 of India’s listed villages still had no 4G coverage as of May 2026’
 
-## IGEL Brings Now & Next Workspace & Endpoint Security Summit to Melbourne, Australia
-IGEL Brings Now & Next Workspace & Endpoint Security Summit to Melbourne, Australia
+## Gold heads for third weekly gain on softer dollar, lower US yields
+Spot gold up 3.6% for the week
 
-## Top stocks to buy today: Stock market recommendations for August 21, 2026 - check list
+## Fresh debt supply to further drag Indian bonds lower
+The yield on the 6.94% 2036 bond is expected to trade between 6.85% and 6.90%, after closing at 6.8709% on Thursday, according to a private bank trader
+
+## Nifty holds 24,000 as crude, bond yields keep bulls in check
+Muted open follows Thursday’s rebound, when the Nifty gained 154 points and the Sensex rose 628 points, snapping a seven-session losing streak
+
+## Appliance maker Atomberg Technologies files for IPO
+The IPO would comprise a fresh issue of shares ‌worth up to ₹450 crore ​and an offer-for-sale ⁠of up to 76.5 million shares
+
+## Middle East oil squeeze: How much crude is actually flowing through Hormuz
+US officials assert that oil is moving through the Strait of Hormuz at a pace far exceeding market projections. External data indicates a drop in oil tanker activity and a decline in global stockpiles. This divergence raises questions about the true amount of crude oil flowing into worldwide markets
+
+## Top shares to buy: Stock market recommendations for today - check list
 Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering - these are the top stocks to buy identified by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for August 20, 2026. Let’s take a look:
 
-## Stock market today: Sensex, Nifty eye higher opening after breaking 7-day losing streak
+## Stock market today: Sensex gains 0.21%, Nifty50 rises above 24,280
+
+
+## Bullion rates today: Gold eyes third straight weekly gain; silver remains flat
 
 
 ## US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz
@@ -78,11 +93,14 @@ On Friday, oil prices held steady, with Brent crude nearing $94 per barrel amid 
 ## Sensex CAS manipulated using large orders: Sebi
 
 
-## Noel Tata kicks off hunt for next Tata Sons chief
-Trusts Chairman Noel Tata, Another Trustee Meet HDFC's Ex-Chairman Deepak Parekh
+## Mumbai civic body is hiring Gen Z on ₹61,500 stipend: Here's who is eligible and how to apply
+The age limit for BMC Gen Z Fellowship 2026 is below 28 years at the time of application.
 
-## Government to amend investment treaty to woo global players
-To Allow International Arbitration In A Year Instead Of 5 Yrs
+## Shot wife at work, put ‘betrayal’ WhatsApp status: How Lucknow murders unfolded in 2 hours | Timeline
+Divya Mishra's sister, said her sister had recently observed a Teej fast for Bajpayee, making the violence that followed particularly “unexpected”.
+
+## ‘We are on India’s side’: Polish envoy backs right to pursue terrorists
+The Polish envoy spoke of ties between the two countries and recalled how Maharaja Jam Sahib sheltered Poland's children during WWII.
 
 ## Telangana Congress rift deepens as party takes action against leaders over ‘anti-CM’ remarks
 The PCC committee condemned remarks made by Sushmita, while the party emphasizes the seriousness of rising rebellion within its ranks.
@@ -98,15 +116,6 @@ The Meghalaya high court took suo motu cognizance of the violence during the Kha
 
 ## Tejpal moves SC, challenges his conviction, jail term in rape case
 Two days after the Goa government moved the Supreme Court seeking enhancement of former Tehelka editor Tarun Tejpal’s 10-year jail term to life imprisonment, Tejpal on Thursday approached the top court challenging his conviction and sentence in the 2013 sexual assault case involving a junior colleag
-
-## Structures near visa section of Pak high commission removed
-Indian authorities removed queue management barriers and unauthorised structures outside the Pakistan high commission in a tit-for-tat action following the removal of certain structures outside the Indian mission in Islamabad, people familiar with the matter said on Thursday
-
-## 45 projects to explore critical minerals in Bastar cleared
-Raipur : Chhattisgarh has cleared 45 mineral exploration projects for 2026-27, including blocks containing lithium, graphite, rare earth elements and other critical minerals, as the state looks to expand its mineral resource base and step up exploration in southern Bastar
-
-## India, Singapore deepen ties in telecom, food security, nuclear pacts
-India and Singapore signed agreements on telecommunications and food safety while exploring cooperation in nuclear technology, semiconductors, space and cybersecurity
 
 ## Hong Kong’s stock benchmark may see more tech additions as review result looms
 More artificial intelligence companies may join the Hang Seng Index to increase the benchmark’s weighting towards technology, as the index compiler is due to reveal the result of its latest quarterly review on Friday. AI model developers MiniMax Group and Z.ai, known as Zhipu in China, are the most 
@@ -228,8 +237,8 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pakistan’s Imran Khan moved to hospital after Supreme Court order
-Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.
+## Hong Kong Tiananmen activists found guilty of national security charges
+Activist group says the 'twisted' Hong Kong judicial system had long ago decided that the pair were guilty.
 
 ## After GERD, can Egypt shape Ethiopia’s next Nile dams?
 Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.
@@ -276,6 +285,9 @@ Tata Sons directors are divided over how to formally respond to chairman N Chand
 ## Sebi bans two entities for illegal sensex CAS trades
 The Securities and Exchange Board of India banned Copthall Mauritius Investments from trading. Mansi Share and Stock Broking also faced trading restrictions for similar illegal trades. Both entities allegedly manipulated the sensex Closing Auction Session on August thirteenth. Sebi impounded nearly 
 
+## India weighs facilitating European, UK investments via green channel
+India is creating a dedicated channel to ease European and British company investments. This mechanism will offer dedicated support and help investors navigate government approvals. The initiative aims to facilitate capital flow beyond just trade agreements. Senior officials will directly monitor th
+
 ## India sees $80 billion in flows via subsidised swap windows, cenbank governor tells FE
 India's central bank anticipates nearly eighty billion dollars in inflows. These funds will bolster foreign exchange reserves through subsidized swap facilities. The Reserve Bank of India decided to close one scheme earlier than planned. Flows have been stronger than market participants expected. Th
 
@@ -296,7 +308,4 @@ The capital markets regulator introduces a streamlined single application form r
 
 ## RBI finds cash demand harder to predict as digital payments grow
 RBI faces challenges forecasting demand for banknotes as currency in circulation continues to grow at double-digit rates despite rising digital payments. Deputy Governor SC Murmu said cash remains widely used, particularly in rural areas, among low-income groups and small businesses.
-
-## High-level committee on banking reforms ‘soon’: FM
-Finance Minister Nirmala Sitharaman will soon announce a high-level committee on banking reforms. This committee will review the sector's alignment with India's growth goals. The panel's formation was announced in budget 2026-27 for Viksit Bharat. Deliberations from a recent conclave will provide in
 
