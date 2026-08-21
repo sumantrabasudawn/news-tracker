@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## FTAV Q&A: Darrell Duffie
+The money market savant on what the Fed should do about its balance sheet
+
+## UK posts unexpected budget deficit of £1.8bn in July
+Latest borrowing data underscores challenge facing chancellor John Healey ahead of his first Budget
+
+## Samsung to return record $80bn to shareholders
+South Korean chipmaker has come under pressure to distribute more of its bumper profits from AI boom
+
 ## The Liberal Democrats’ problem is not unique
 Western liberal parties are struggling to win ‘market cosmopolitan’ voters despite sharing their values
 
 ## Imran Khan moved from Pakistan jail to hospital and back again
 Popular former prime minister received treatment after Supreme Court order
-
-## UK posts unexpected budget deficit of £1.8bn in July
-Latest borrowing data underscores challenge facing chancellor John Healey ahead of his first Budget
 
 ## Monte dei Paschi launches twin takeover bids to create €70bn Italian bank
 Latest twist in a protracted run of consolidation of Italian financial services groups
@@ -18,47 +24,38 @@ GTA 6 leaks; elastic expectations; Russia’s Wikipedia clone; LinkedIn dating; 
 ## FirstFT: Scott Bessent battles bond vigilantes
 Also in this newsletter: Healey’s deficit warning and HSBC’s job cuts
 
-## Japanese inflation rises as central bank weighs rate increase
-Bank of Japan under pressure to act on rates in September as yen weakens despite joint intervention
-
-## Healey warned to limit Budget borrowing amid bond sell-off
-New chancellor plans to stay ‘well within’ Labour’s fiscal rules, say allies
-
 ## How money-market funds are providing stock market rocket fuel
 An ABC on ABCPs
 
 ## The new age of Big Law recruiting
 Wall Street firms are beginning to recruit students in their first semester of law school
 
-## Asia’s rising riches protect insurers against China’s policy shifts
-So long as the region’s wealth accumulation continues to outpace that of most developed economies
+## Tata MF lifts curbs on investment in gold ETFs
+Tata MF restricted large lumpsum investment in its Gold ETF and Gold ETF Fund of Funds in June amid a surge in gold imports, which had put pressure on the rupee and the current account deficit
 
-## The battle over golf’s future
-New management wants the sport to become more commercial, but others worry billionaires have too much say
+## Gaja Alternative Asset Management’s ₹550-cr IPO subscribed 14.77 times so far on closing day
+The non-institutional investors (NIIs) portion was 40.29x subscribed, the retail portion 7.83x, and the qualified institutional buyers (QIBs) portion 7.76x
 
-## Gold climbs to near three-month peak after US Treasury move
-Gold rises on back of softer dollar and US Treasury’s bond buyback move
+## Sensex today | Stock Market Live: Sensex, Nifty trade flat amid weak global cues
+Sensex, Nifty, Share Prices LIVE: Benchmark equity indices Sensex and Nifty were trading flat in the afternoon session on Friday as elevated crude oil prices due to geopolitical uncertainties and a sharp fall in US markets made investors cautious.
 
-## Sensex today | Stock Market Live: Sensex rises 100 pts after flattish opening, Nifty trades around 24,260; Power Grid Corp, Kotak Mahindra Bank top gainers
-Sensex, Nifty, Share Prices LIVE: Benchmark equity indices Sensex and Nifty were trading marginally higher in early deals on Friday as elevated crude oil prices due to geopolitical uncertainties and a sharp fall in US markets made investors cautious.
+## BMW launches X1 long wheelbase at ₹49.90 lakh
+Opens bookings for i5 long wheelbase electric sedan
 
-## Tube Investments raises stake in Shanthi Gears to 73.16% via ₹77.49 crore block deal
-The company bought 20,64,713 equity shares of SGL at a face value of Re. 1 each, at a total cost of approximately ₹77.49 crore in an all-cash transaction
+## HDFC Bank shares rise 1% after $1.75 billion record dollar bond sale
+The stock traded at ₹729.35 on the NSE at 10.09 am, after rising to ₹732.60 from the previous close of ₹725.05
 
-## Bitcoin set for biggest weekly gain in more than two years
-Bitcoin advances almost 20% this week
+## India orders removal of Google Firebase accounts after spotting scam pattern
+The Indian Cyber Crime Coordination Centre (I4C) has directed at least 57 websites and databases that were hosted on Firebase be taken down in ‌August alone
 
-## Quadria Capital-backed Nobel Hygiene files papers with SEBI to raise funds via IPO
-The proposed IPO comprises a fresh issue of shares worth up to ₹150 crore and an offer-for-sale of up to 1.55 crore equity shares by existing investors
+## NUMR Inc. helps deliver Axis Bank's data-driven excellence in customer experience
+NUMR Inc. helps deliver Axis Bank's data-driven excellence in customer experience
 
-## PSU Banks top alpha pick as OmniScience Capital stays overweight on banking sector
-CEO Vikas Gupta described the banking sector as “completely mispriced,” highlighting that PSU banks are undervalued despite strong growth and their cleanest balance sheets in decades
+## Colgate-Palmolive elevates Prabha Narasimhan to EVP - Marketing, Asia-Pacific and announces Manish Anandani as new MD & CEO for India
+Colgate-Palmolive elevates Prabha Narasimhan to EVP - Marketing, Asia-Pacific and announces Manish Anandani as new MD & CEO for India
 
-## Netweb Technologies raises ₹1,200 crore via a QIP at ₹4,790 per share; stock hits 52-week high
-25,05,219 equity shares were allotted to marquee institutional investors at a 1.96% discount to the floor price
-
-## US issues details of new Green Card rules coming into effect from September 18
-New guidelines emphasise the importance of submission dates, with USCIS warning that outdated forms will be rejected, impacting many Indian nationals amid ongoing visa backlogs
+## Why India is betting $1.2 billion on homegrown construction equipment
+India plans a $1.2 billion incentive scheme for advanced equipment manufacturing. This initiative aims to reduce reliance on China for critical machinery. The government expects fresh investment and domestic production growth over seven years. The scheme will cover tunnel boring machines and fire-fi
 
 ## World’s most powerful: Indian Railways eyes 35 hydrogen trains; looks at cheaper green fuel
 India currently has the world's most powerful hydrogen train in operation and has also established a dedicated facility for manufacturing and supplying hydrogen for the train. The initial target is to deploy 35 hydrogen-powered trains on heritage routes.
@@ -81,8 +78,17 @@ US officials assert that oil is moving through the Strait of Hormuz at a pace fa
 ## Top shares to buy: Stock market recommendations for today - check list
 Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering - these are the top stocks to buy identified by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for August 20, 2026. Let’s take a look:
 
-## Stock market today: Sensex gains 0.21%, Nifty50 rises above 24,280
+## 'Reservation Hatao Andolan' protest LIVE: Delhi police gives permit for agitation at Ramlila Maidan
+Reservation Hatao protest LIVE updates: The NOC issued by Delhi Police allows a maximum of 500 people to gather at the Ramlila Maidan until 4 pm, with the police stating that it had “no objection" for the protest from “a law and order point of view”.
 
+## Why H1N1 cases are rising in Delhi and how to protect yourself?
+Delhi-NCR and several other parts of the country are witnessing a rise in H1N1 and other respiratory infections during the monsoon season.
+
+## DMK rejects Vijay’s free cars for 59 MLAs, Udhayanidhi Stalin says ‘government in debt’
+Leader of Opposition (LoP) Udhayanidhi Stalin said all 59 DMK legislators had decided not to avail Vijay’s offer.
+
+## Who were 2 Mumbai doctors who kept Jinnah's health secret, set to receive Pakistan’s highest civilian awards?
+The announcement has brought back attention to a little-known episode from history, and also sparked interest among members of Mumbai's Parsi community.
 
 ## Mathrubhumi launches Onam campaign highlighting Keralam's enduring values
 Mathrubhumi launches Onam campaign highlighting Keralam's enduring values
@@ -90,23 +96,11 @@ Mathrubhumi launches Onam campaign highlighting Keralam's enduring values
 ## Indian national Kamal on FBI’s Most Wanted list over alleged Lawrence Bishnoi gang links
 A federal arrest warrant for Kamal was issued on July 1, 2026, by the US District Court for the Central District of California in Los Angeles.
 
-## Champat Rai letter: Nripendra Misra-led panel cleared all Ram Temple decisions
+## Nripendra Misra-led panel made Ram Temple decisions: Champat Rai amid donation theft row
 Nripendra Misra, who led construction committee, said he has not seen Rai’s letter
 
 ## JP Nadda to review Delhi’s H1N1 situation today amid rise in swine flu cases
 Union health minister JP Nadda will hold a meeting with Delhi health minister and senior officials amid a reported rise in swine flu cases.
-
-## Indian soldiers polish Muay Thai skills in joint drills
-The exercise involves 85 personnel each from the Indian Army and the Royal Thai Army, represented by troops from the 9 Gorkha Rifles and the 3rd Battalion, 25th Infantry Brigade, respectively
-
-## MeitY consultation says blanket social media ban for children won’t be effective
-HT has learnt that NCPCR is currently in the process of creating a social media code of conduct for social media platforms, including Instagram, Facebook to strengthen safeguards for children online
-
-## Odisha flood situation eases as water level falls in major rivers, no heavy rains for 48 hours
-Odisha flood situation eases as water level falls in major rivers, no heavy rains for 48 hours
-
-## Vast swathes of farmlands still short of rain despite late spells
-Rainfall recovery has eased the overall monsoon deficit, but 117 of 262 districts flagged for weak-monsoon vulnerability
 
 ## HKEX gold futures smash delivery record as US sanctions reshape trade
 Hong Kong Exchanges and Clearing (HKEX) has reported record-breaking physical deliveries and a trading surge in its US dollar-denominated gold futures contract, underscoring the city’s ambition to become a global hub for the precious metal amid widening trade restrictions by the United States. The b
@@ -228,6 +222,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Swiatek into Cincinnati semis after Rybakina injury
+Elena Rybakina's Cincinnati withdrawal raises concerns over the fitness of the world number two ahead of US Open.
+
+## Australia charges man for passing Ukrainian military intel to Russia
+Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.
+
+## Sudan’s displacement crisis deepens as violence escalates
+Sudan’s displacement crisis deepens as violence escalates
+
+## Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
+After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.
+
 ## Israeli settlers set fire to Palestinian home while family asleep
 Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
 
@@ -240,20 +246,11 @@ Ex-Australia batter Hussey said he was informally approached by Stephen Flemming
 ## Dr TikTok: Mental health moves from consulting rooms to social media
 Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.
 
-## ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
-Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.
-
-## Dozens of migrants land on Spanish coast surprising beachgoers
-Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.
-
-## Hong Kong Tiananmen activists found guilty of national security charges
-Activist group says the 'twisted' Hong Kong judicial system had long ago decided that the pair were guilty.
-
-## Pakistan’s Imran Khan back to prison after evaluation at hospital
-Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
-
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
+
+## IBBI’s push to curb fraud CIRPs marks shift in insolvency professionals role, say experts
+The IBBI's draft circular aims to strengthen the insolvency process. Insolvency professionals must now actively identify and report fraudulent proceedings. This initiative addresses the misuse of the CIRP framework for various illicit objectives. The proposed changes shift professionals from process
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
@@ -272,9 +269,6 @@ INDIA-SEBI-India regulator reviewing small-company IPO, delisting rules, chief s
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
-
-## Sebi bans two entities for illegal sensex CAS trades
-The Securities and Exchange Board of India banned Copthall Mauritius Investments from trading. Mansi Share and Stock Broking also faced trading restrictions for similar illegal trades. Both entities allegedly manipulated the sensex Closing Auction Session on August thirteenth. Sebi impounded nearly 
 
 ## India weighs facilitating European, UK investments via green channel
 India is creating a dedicated channel to ease European and British company investments. This mechanism will offer dedicated support and help investors navigate government approvals. The initiative aims to facilitate capital flow beyond just trade agreements. Senior officials will directly monitor th
