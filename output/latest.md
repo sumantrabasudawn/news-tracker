@@ -1,13 +1,13 @@
 # AION Intelligence
 
+## ‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports
+President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections
+
 ## US-Canada trade deal goes down to the wire
 Officials talk up prospect of agreement after Trump paused $20bn of new levies on North American trading partner
 
 ## SEC accuses ex-Bank of America utilities banker of insider trading
 Regulator says Jason Satsky helped a friend make $18.5mn in illegal profits tied to planned takeover of South Jersey Industries
-
-## ‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports
-President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections
 
 ## Ukraine seeks Musk’s help to hit Russian missile launchers
 Starlink-equipped drones could strike targets up to 200km inside Russia
@@ -60,6 +60,15 @@ The anchor placement attracted mutual funds, insurers and foreign investors, set
 ## Editorial. Resource guzzlers
 Data centres should account for water, power demands
 
+## PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit
+India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe head
+
+## Car buyers take fancy to mid-size SUV models
+
+
+## Apple expected to expand manufacturing beyond iPhones: Govt
+Google May Shift Share Of Production From China To India
+
 ## PSBs losing share in high-value business: Report
 Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From GCCs
 
@@ -74,15 +83,6 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 
 ## Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices
 Says Drop Not Due To Ethanol Diversion
-
-## Tariffs are over-emphasised, says BCG chief
-
-
-## Tariffs alone don't guide investment calls: Aditya Birla
-
-
-## Middle East, Russia crisis: India new ‘swing supplier’ for refined oil products. Can it sustain?
-Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Russia.
 
 ## Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks
 Assam cab operators continued the highway blockade over attacks on Assam residents in Shillong, despite talks between the chief ministers of Assam and Meghalaya
