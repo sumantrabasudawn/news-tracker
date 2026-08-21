@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Ukraine seeks Musk’s help to hit Russian missile launchers
+Starlink-equipped drones could strike targets up to 200km inside Russia
+
+## Iran’s president calls to end war with US from ‘position of strength’
+Masoud Pezeshkian’s comments reflect debate within regime over how much economic pressure country can endure
+
 ## Burnham hit by fiscal challenges as O’Neill declines government role
 £1.8bn deficit in July confounds economists’ expectations as prime minister prepares for October Budget
 
@@ -18,17 +24,14 @@ AI companies and social networks should respond to the shift in the public mood
 ## Bessent dissent
 Moves by the Treasury secretary are being interpreted as an effort to control rising yields
 
-## Natalie Harp, the devoted ‘human printer’ in Trump’s entourage
-The executive aide’s relationship with the president symbolises a broader sycophancy around him
-
-## Citadel offloads 80% of portfolio scooped up from Situational Awareness
-Ken Griffin’s hedge fund has executed more than $4bn worth of block trades in recent weeks
-
 ## Directors’ Deals: Pearson executive cashes in as digital growth boosts shares
 First-half revenues at the education group rise by 19 per cent
 
 ## Stockpickers: Costain, Oxford Nanopore Technologies, BHP
 Our experts discuss which companies to buy, sell or hold this week
+
+## Citadel offloads 80% of portfolio scooped up from Situational Awareness
+Ken Griffin’s hedge fund has executed more than $4bn worth of block trades in recent weeks
 
 ## Prince Harry and other privacy claimants told to pay initial £9.5mn to Daily Mail publisher
 High Court rules that the losing parties must cover legal costs on an ‘indemnity’ basis
@@ -84,6 +87,9 @@ SBI customers will face charges for cash withdrawals exceeding four free monthly
 ## Why India is betting $1.2 billion on homegrown construction equipment
 India plans a $1.2 billion incentive scheme for advanced equipment manufacturing. This initiative aims to reduce reliance on China for critical machinery. The government expects fresh investment and domestic production growth over seven years. The scheme will cover tunnel boring machines and fire-fi
 
+## UP: Interpol Red Corner Notice issued against 2024 Sambhal violence 'mastermind' Shariq Sata
+UP: Interpol Red Corner Notice issued against 2024 Sambhal violence 'mastermind' Shariq Sata
+
 ## CJP protest-like scenes at Jantar Mantar as ‘Reservation Hatao’ stir draws massive crowd; several detained
 Many visuals on X showed police personnel detaining protesters as a large number of people gathered at the site carrying banners and posters
 
@@ -104,9 +110,6 @@ MM Naravane said China will serve as India's primary competitor across political
 
 ## Mahatma Gandhi's manuscript sells for ₹16.2 crore at auction, sets record - Check details
 The auction house has reportedly confirmed that the buyer is from within India and the manuscript will stay in the country.
-
-## 22 Indian sailors on two cargo ships hijacked off Yemen, Somalia are safe: Govt
-All 22 Indian seafarers aboard two foreign-flagged vessels hijacked by pirates off Yemen and Somalia are safe, EAM said, as authorities work to ensure their safety.
 
 ## Tesla forced to recall record 3 million cars in China over door-handle issue
 Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
@@ -132,6 +135,12 @@ A court in southern China’s Guangdong province formally accepted a bankruptcy 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
+## Why We Are Living Through ‘Hyperpolitics’
+Anton Jager explains why record voter turnout isn’t leading to systemic change.
+
+## Who Reaps the Benefits of India’s Growth?
+Early policy choices shaped the inequity and employment challenges facing the country today.
+
 ## A Land Without the Troubles?
 Northern Ireland’s most outlandish plan comes to fruition in Jan Carson’s new novel.
 
@@ -149,12 +158,6 @@ The U.S. president has simultaneously demolished key relationships in East Asia 
 
 ## The U.S. Is Learning the Wrong Lessons in Iran
 Tactical excellence can never salvage strategic incompetence.
-
-## Southeast Asia Isn’t Buying Elbridge Colby’s Flexible Realism
-Trump’s policies offer the region all the downsides of traditional U.S. policy with none of the benefits.
-
-## A Top Trump Ally Turns to China
-Washington has favored bullets over business in its dealings with slow-growing Ecuador.
 
 ## A New Japanese Drydock and the Limits of Allied Cooperation
 Japanese shipyards are expanding, but the future space may already be spoken for.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant
+Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel's attacks on Global Sumud Flotilla activists.
+
+## Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta
+A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.
+
+## Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
+Real Madrid kickoff their campaign at Espanyol in Barcelona as Jose Mourinho's targets winning La Liga return.
+
+## Drone strike on Ukraine shopping centre kills 14, over 100 injured
+A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100
+
+## Former Pakistan PM Imran Khan taken back to prison after hospital check-up
+Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.
+
+## Russian drone attack on busy shopping centre kills 14 in Ukraine
+Ukraine's Volodymyr Zelenskyy slams 'cynical and despicable' attack on his hometown Kryvyi Rih that injured over 120.
+
 ## How is drought hitting UK farming?
 After months of heatwaves and unusually dry weather, officials say as much as two-thirds of England is in drought.
 
 ## Arsenal sign Konsa from Villa as Premier League holders bolster defence
 England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).
-
-## Why Iran is threatening Europe’s ‘strategically important’ southeast
-Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
-
-## Israeli army, settlers kill 2 Palestinians in separate West Bank incidents
-Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.
-
-## Migrants clash with French police as they attempt to cross the Channel
-French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.
-
-## Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home
-Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.
-
-## Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
-Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading 'pro-Russian propaganda'.
-
-## What to know about the Freedom 250 Grand Prix, Trump’s capital car race
-The president says the 147-lap race will be an event 'like no other' as drivers zip through Washington, DC.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
