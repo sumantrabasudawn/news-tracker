@@ -33,29 +33,29 @@ Don’t rush in, there are many business risks for the maker of Claude
 ## Blackwater founder Erik Prince launches air-defence systems company
 Vectus Air Defense Systems marks former Navy Seal’s latest foray into private military and security services
 
-## Power play
-It’s yet another Pulsar, but is it just another Pulsar? We find out, over a ride astride the four-valve Pulsar N 160 SS
+## ANA extends suspension of Narita-Chennai flights to March 2027
+It has suspended its operations between Narita and Chennai from March 29 to October 24, 2026 earlier
 
-## BMW X1 LWB: The Long Game
-The new BMW X1 LWB is all grown up and it’s easily better than ever before. Should this be your first step into the world of German luxury?
+## Grasim Industries targets ₹2 lakh crore revenue in FY27: Kumar Mangalam Birla
+The Aditya Birla Group flagship is expanding across housing, infrastructure, sustainable materials and clean energy while accelerating investments in emerging businesses.
 
-## TiE Mangaluru selected to drive first K-Combinator initiative in Karnataka
-The initiative will offer founders structured mentoring, investor access and market connections as emerging ventures move from validation towards early-stage growth
+## Preference for comprehensive health cover growing: HDFC ERGO General Insurance MD & CEO Parthanil Ghosh
 
-## E20 Fuel: The hero India needs or the villain drivers fear? | Overthinker’s Anonymous | EP 02
-Why E20 fuel has everyone overthinking at the petrol pump.
 
-## Atomberg Technologies files DRHP for IPO to raise ₹450 crore through fresh issue
-IPO to fund brand building, R&D and debt repayment
+## Delhi Master Plan 2047 offers redevelopment route for old residential colonies
+The proposed framework seeks to help residents collectively rebuild ageing neighbourhoods while improving housing capacity, roads, civic services and environmental infrastructure.
 
-## Kamarajar Port issues tender for ₹4,288-crore second container terminal
-To be developed on DBFOT basis
+## AERA cuts Bengaluru airport UDF to ₹300 for domestic, ₹997 for international passengers
+The revised tariff structure will defer recovery of major infrastructure costs until projects are completed, commissioned and available for passenger use.
 
-## Holtec International keen to set up SMR manufacturing facility in Gujarat
-The proposed facility could strengthen Gujarat’s energy manufacturing base as India seeks to expand nuclear capacity and develop advanced reactor technologies
+## Welspun Corp wins record ₹17,200-crore US pipe supply order
+Welspun Corp’s latest contract provides multi-year revenue visibility as the company expands manufacturing capacity and strengthens relationships across North America
 
-## Cochin Shipyard delivers third ASW shallow water craft ‘Mangrol’ to Indian Navy
-Equipped with shallow-water sonars, lightweight torpedoes and indigenous ASW rockets, the vessel is designed for coastal surveillance and underwater operations
+## Selective UPI MDR Will Need Reliable Merchant Intelligence, Not Just a Pricing Rule
+Selective UPI MDR Will Need Reliable Merchant Intelligence, Not Just a Pricing Rule
+
+## India’s forex reserves rise $9.9 billion to $716.91 billion
+The latest increase follows a $14.14-billion rise in the previous week, bringing the reserves closer to their record high reached in February
 
 ## SBI cash withdrawal rules change from October 1: Rs 15 fee after four free transactions
 SBI customers will face charges for cash withdrawals exceeding four free monthly transactions. A fee of Rs 15 plus GST applies to Basic Savings Bank Deposit accounts. Digital transactions remain free, and Aadhaar Enabled Payment System transactions are now counted. Interest rates on bulk term deposi
@@ -81,29 +81,29 @@ Weight-loss drugs are creating new demands in beauty and nutrition sectors. Comp
 ## Middle East oil squeeze: How much crude is actually flowing through Hormuz
 US officials assert that oil is moving through the Strait of Hormuz at a pace far exceeding market projections. External data indicates a drop in oil tanker activity and a decline in global stockpiles. This divergence raises questions about the true amount of crude oil flowing into worldwide markets
 
-## One dead, 3 injured after building collapses in Delhi's Karol Bagh
-One person died, while three others were injured in a building collapse in Dlehi's Karol Bagh.
+## Delhi Police to file FIR after Rahul Gandhi’s dharna over student’s complaint: Report
+This comes hours after Lok Sabha Leader of Opposition Rahul Gandhi staged a dharna at Parliament Street Police Station
 
-## 'Despite our request...': India's tit-for-tat move against Pakistan mission explained
-MEA spokesperson Randhir Jaiswal says, “There were some temporary structures in the lane where the Pakistani High Commission is, and we removed them.”
+## Centre says rise in sugar prices cannot be attributed to ethanol
+Sugar prices have risen sharply in recent weeks, increasing from ₹48.18 per kg on July 20, 2026, to ₹55.70 per kg on August 20.
 
-## ‘You have 48 hours’: CJP gives ultimatum to Rajasthan education minister Madan Dilawar over Jaipur 'goon' attack
-CJP's Ashutosh Ranka gave Madan Dilawar a 48-hour ultimatum, demanding arrests and withdrawal of the order or warning of a statewide agitation.
+## Prajwal Revanna case: Key witness receives threat calls, court orders SIT probe, protection
+The Bengaluru special court directed the SIT to conduct a detailed inquiry and submit a report before the next hearing
 
-## ‘Pleaded with her’: Amit Shah slams Mamata Banerjee over border land delay
-Amit Shah arrived in Bengal late Thursday evening for a two-day visit and inaugurated several projects related to border security
+## 2 killed, 1 injured in clash between student groups in Haryana's Rewari
+The incident took place in Gokalpur village, where the three men were allegedly chased by a group.
 
-## Madhya Pradesh cop suspended for land deal to help murder accused walk free
-The family of the murder accused alleged that Katni police superintendent Neha Pachisia pressured them to sell 2.15 hectares of land in exchange for relief
+## Delhi University announces rollout of first Four Year Undergraduate Programme batch for direct PhD pathway
+DU rolled out its first batch of FYUP under the Undergraduate Curriculum Framework (UGCF) 2022, based on the National Education Policy (NEP) 2020.
 
-## MEA on no permit for Telangana CM Revanth Reddy's US trip: Event wasn't appropriate to CM’s office
-The Telangana CM, who is in London currently, planned to visit the US and return to Hyderabad on August 30.
+## DGGI busts clandestine pan masala, tobacco network in UP, detects ₹185 crore tax evasion
+DGGI officers bust clandestine pan masala, tobacco mfg network; detect tax evasion of ₹185 cr.
 
-## ‘PR exposed on camera’: BJP alleges Congress paying influencers ₹25k to attend Rahul Gandhi's Pune event
-The BJP shared a purported video of a conversation between a social media influencer with a Congress worker who asks her attend the event and highlight it.
+## Stray dog menace forces 4-day closure of 10 schools in Chamoli's Narayanbagar
+Ten schools in Chamoli's Narayanbagar area have been ordered to remain closed following a rise in incidents involving stray and aggressive dogs.
 
-## ‘Rotten tomato’ beatings, wedding-night conditions: YouTuber Pragya Mishra makes shocking claims about Lucknow husband
-Calling Manas Bajpayee a “Psycho”, Mishra alleged that he would assault Divya over trivial matters, even if a tomato ordered on Blinkit turned out bad.
+## ‘Having regard to age’: 105-year-old murder convict given Supreme Court relief to ‘live’ as free man
+The Supreme Court had, while granting him interim relief earlier, directed that he be released from custody subject to conditions imposed by the trial court.
 
 ## Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment
 Ping An Insurance (Group), China’s largest insurer in terms of market capitalisation, is eyeing investments in Hong Kong-listed exchange-traded funds (ETFs) to boost returns following Beijing’s green light for cross-border allocations, according to senior executives. “Allowing mainland insurance fun
@@ -126,8 +126,8 @@ A court in southern China’s Guangdong province formally accepted a bankruptcy 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
-## Hong Kong’s stock benchmark may see more tech additions as review result looms
-More artificial intelligence companies may join the Hang Seng Index to increase the benchmark’s weighting towards technology, as the index compiler is due to reveal the result of its latest quarterly review on Friday. AI model developers MiniMax Group and Z.ai, known as Zhipu in China, are the most 
+## Hang Seng Index adds major Chinese chipmaker as tech pivot continues
+Two new companies will be soon be added to the Hang Seng Index (HSI), increasing the constituents of Hong Kong’s bellwether stock index from 93 to 95, according to a statement from the Hang Seng Indexes Company released on Friday. The new entrants are Hua Hong Grace Semiconductor, one of China’s top
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Closure of al-Makha port leaves workers and traders fearing for the future
-Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.
+## Humanoid crashes during speed test as China’s robotics industry grows
+Humanoid crashes during speed test as China’s robotics industry grows
 
-## Who does the law serve in the occupied West Bank?
-Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.
+## Six-year-old child dies after being slapped by teacher in India
+A six-year-old child has collapsed and died after being slapped by his teacher in India.
 
-## Charter plane crash near Alaskan military site kills 8
-Rescuers who landed near the crash site 'confirmed there were no survivors'.
+## US designates Hezbollah an Iranian proxy, sanctions funding network
+The US Treasury labels Lebanon-based group 'an extension' of the IRGC's Quds Force and takes aim at financing.
 
-## Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals
-Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.
+## Bayern Munich’s Musiala collapsed on-field as a result of medication change
+Coach Vincent Kompany said Bayern were aware of Jamal Musiala's neurological disorder long before it was made public.
 
-## Serie A: Key talking points heading into the new 2026-27 season
-Holders Inter Milan face challenge from reinvigorated AC and Juventus, while Napoli and Roma look to bounce back.
+## Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order
+Khan’s sister and personal physician describe a chaotic night as officials give conflicting accounts of his whereabouts.
 
-## Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?
-German authorities allege that Ukrainian scuba diver Volodymyr Zhuravlev was involved in the Nord Stream explosions.
+## How a Swedish Palestinian minister raised controversy with Star of David
+Incidents of anti-Semitism have been on the rise in Europe since Israel's genocidal war on Gaza began.
 
-## Philippines floods fuel anger over alleged corruption
-Weeks of monsoon rain have flooded northern Philippines, where residents are demanding answers over alleged corruption.
+## Sister of ex-Pakistan PM Khan says he is being tortured in jail
+The sister of Pakistan’s former prime minister Imran Khan says he told her he was being tortured in jail.
 
-## Cyclist Josh Tarling to compete in Tour of Spain after brother’s death
-Josh Tarling returns to cycling in Spain a week after brother Finlay dies during Tour of Portugal.
+## Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
+Experts say the project would partition the occupied West Bank, making the prospect of Palestinian statehood impossible.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
