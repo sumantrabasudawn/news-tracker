@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## UK posts surprise budget deficit of £1.8bn in July
-Borrowing figures underline challenge facing chancellor John Healey ahead of his first Budget
+## Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM
+Plan would create an Italian banking giant valued at about €70bn
+
+## UK posts unexpected budget deficit of £1.8bn in July
+Latest borrowing data underscores challenge facing chancellor John Healey ahead of his first Budget
 
 ## Imran Khan moved from Pakistan jail to hospital and back again
 Popular former prime minister received treatment after Supreme Court order
@@ -21,9 +24,6 @@ New chancellor plans to stay ‘well within’ Labour’s fiscal rules, say alli
 ## Feminism didn’t kill the male breadwinner model, the economy did
 Young non-graduate men face unique setbacks
 
-## Scott Bessent takes on bond vigilantes in $32tn Treasury market
-Wall Street investors say move to buy more long-term US debt is a ‘band-aid on a bullet hole’
-
 ## How money-market funds are providing stock market rocket fuel
 An ABC on ABCPs
 
@@ -39,32 +39,35 @@ New management wants the sport to become more commercial, but others worry billi
 ## London’s cabbies prepare to battle the robotaxis
 Private-hire drivers are bracing for a new wave of technological change
 
-## ‘Nobody has automated the kitchen’: the tech billionaire disrupting restaurants
-Wonder chief Marc Lore bets that owning the entire process — from food production to delivery — will pay off
-
-## HDFC Bank's record dollar bond sale makes it top issuer under RBI window
-HDFC Bank raises an aggregate $2.50 billion
+## Silver price rises ₹2,369 to ₹2.45 lakh per kg
+Fresh positions built up by participants led to a rise in silver prices, analysts say
 
 ## Sensex today | Stock Market Live: Sensex rises 100 pts after flattish opening, Nifty trades around 24,260; Power Grid Corp, Kotak Mahindra Bank top gainers
 Sensex, Nifty, Share Prices LIVE: Benchmark equity indices Sensex and Nifty were trading marginally higher in early deals on Friday as elevated crude oil prices due to geopolitical uncertainties and a sharp fall in US markets made investors cautious.
 
-## Meesho expects to create 10 lakh seasonal jobs during festive season
-The projected employment generation includes approximately 6.5 lakh jobs across its seller network and about 3.75 lakh roles across its logistics operations
+## Crude oil price falls in futures trade on weak global cues
+Crude oil futures for September delivery slip by ₹18, or 0.22%, to ₹8,286 per barrel on MCX
 
-## Where is gold heading? Jefferies turns bullish as US, Japan face fiscal strain
-Jefferies says deteriorating fiscal position of the US, coupled with rising government debt-servicing pressures, is creating a favourable environment for gold
+## India's first large-scale biopolymer plant in UP set for October launch
+Kheri District Magistrate Anjani Kumar Singh stated that the entire process, from local sugarcane to PLA-based bioplastic, will occur on one campus
 
-## Foreign students applying to US colleges fell 10% this year
-Nearly 16,000 fewer foreign students applied to US colleges this year compared to 2025, due to the Trump administration’s restrictions on overseas student visas
+## Gold price climbs ₹1,432 to ₹1.60 lakh/10 gm on firm spot demand
+Fresh positions by market participants led to a rise in gold prices, analysts say
 
-## Sun Pharma voluntarily recalls 11 eyedrops from domestic market, experts seek details
-Public health experts are calling for greater transparency involving specifics on why the eyedrops were recalled, besides seeking regulatory intervention and advisory for those who may have already used the drops
+## ICICI Bank doubles overseas borrowing limit to $5 billion
+ICICI Bank has already ‌raised $2.05 billion through dollar debt in the past month
 
-## Quadria Capital-backed Nobel Hygiene files papers with SEBI to raise funds via IPO
-The proposed IPO comprises a fresh issue of shares worth up to ₹150 crore and an Offer-for-Sale of up to 1.55 crore equity shares by promoters and existing investors
+## Economic growth may beat RBI’s 6.7% forecast, Gupta says
+Gupta’s optimistic outlook highlights strong economic resilience, with forecasts of 7.5% growth driven by favorable external accounts and rising foreign investment
 
-## IndiGo website crashes for second time this week, blocks some bookings
-The cause of ⁠the outage was ‌not immediately clear
+## Canada's Fairfax may get 2 years to consolidate holdings for IDBI Bank deal, sources say
+The Canadian investor is likely to ‌be given up to two years to either sell its stake in CSB Bank or merge it with IDBI Bank, sources said
+
+## World’s most powerful: Indian Railways eyes 35 hydrogen trains; looks at cheaper green fuel
+India currently has the world's most powerful hydrogen train in operation and has also established a dedicated facility for manufacturing and supplying hydrogen for the train. The initial target is to deploy 35 hydrogen-powered trains on heritage routes.
+
+## Gold price prediction: Gold is rally, but should you buy? Check August 21, 2026 outlook
+MCX Gold October futures continue to trade with a firm bullish bias, with prices holding near Rs 1,60,900 after extending their recent uptrend. The chart shows a clear sequence of higher highs and higher lows, supported by positive moving-average alignment and sustained buying interest.
 
 ## SIM card rules 2026: What changes from Aug 24 & how many connections can you have
 Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevent
@@ -84,35 +87,32 @@ Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering 
 ## Stock market today: Sensex gains 0.21%, Nifty50 rises above 24,280
 
 
-## Bullion rates today: Gold eyes third straight weekly gain; silver remains flat
+## Vast swathes of farmlands still short of rain despite late spells
+Rainfall recovery has eased the overall monsoon deficit, but 117 of 262 districts flagged for weak-monsoon vulnerability
 
+## Jharkhand High Court stays cancellation of JSSC CGL, CDPO exams ordered by Hemant Soren govt
+Jharkhand High Court stays cancellation of JSSC CGL, CDPO exams ordered by Hemant Soren govt
 
-## US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz
-The United States is preparing unprecedented sanctions against Iran. These measures aim to increase economic pressure on Tehran significantly. Washington also seeks cooperation from China regarding Iranian oil trade. China rejects sanctions and advocates for diplomatic solutions to the conflict. The
+## IndiGo's website hit by disruption for second time in a week, customers unable to book tickets
+Users were unable to book flights and were shown a "no data available" message on IndiGo's website.
 
-## Jharkhand HC stays cancellation of JPSC, Food Safety Officer recruitment exams
-The ruling came after petitions claimed the cancellations were unjust and arbitrary, amidst ongoing protests over alleged recruitment irregularities.
+## Rahul Gandhi sits on dharna at police station amid row over pellet gun use during Delhi protests
+Rahul Gandhi reached the police station with the student, who was allegedly injured by pellet-gun fire during a protest in Delhi.
 
-## India’s domestic air passenger traffic down 4.8% in July
-Domestic air passenger traffic fell 4.8% to 12 million in July, even as passenger numbers for January-July remained marginally higher than last year
+## ‘Reservation Hatao’ protest gets Delhi Police nod, to be held at Ramlila Ground today
+Delhi Police has given a no-objection certificate for a peaceful protest under the “Reservation Hatao Andolan” at Ramlila Ground on Friday
 
-## CJP's Ashutosh Ranka assaulted on way to Jaipur govt school, alleges volunteer's arm fractured
-The incident occurred near Rampura Kanwarpura village, where Ranka and his team planned to visit a government school to assess its infrastructure and facilities
+## BJP rejects CJP’s ‘goon attack’ charge in Jaipur: ‘They must now learn a lesson’
+Rajasthan BJP minister Jawahar Singh Bedham alleged that Congress workers were operating behind the CJP. Ashutosh Ranka claimed, ‘BJP goons were sent to kill.’
 
-## 2 MP school teachers transferred after students allege they ended classes early to 'spend time together'
-The students reached the Chhindwara collectorate during a public hearing to raise their complaint.
+## Approval granted for conferring President's Medal for Gallantry on former cop: Centre to SC
+Approval granted for conferring President's Medal for Gallantry on former cop: Centre to SC
 
-## Jagan challenges Naidu to order CBI probe into APPSC Group-I exam irregularities
-Former Andhra Pradesh CM Jagan challenged CM Naidu to order a CBI probe into alleged APPSC exam irregularities, defending the process under his government.
+## 'What the ** is happening?': Abhijeet Dipke slams alleged attack on Ashutosh Ranka in Jaipur
+The incident took place near Rampura Kanwarpura village, where Ashutosh Ranka and his team were on their way to inspect a dilapidated government school.
 
-## ‘Vijay remained silent, Shivakumar spoke openly on Mekedatu project’: DMK on South CMs-Amit Shah meeting
-DMK alleged that DK Shivakumar openly argued in favour of the Mekedatu project while CM Vijay did not directly oppose it during the meeting.
-
-## Centre allows duty-free import of raw sugar to curb surging prices
-The Centre has allowed 1 million tonnes of raw sugar to be imported duty-free until October 31 as domestic prices climb ahead of the festive season
-
-## Revanth Reddy cancels US visit as Centre denies clearance due to lack of 'political angle'
-The denial of political clearance for Reddy's US visit is the latest in a series of such denials.
+## Evergrande’s US$1.31b fine, China cuts US Treasury holdings: the numbers moving markets
+While investors saw Beijing’s holdings of US government debt shrink and US Treasuries yield rise, a life sentence for China Evergrande Group founder Hui Ka-yan marked a symbolic end to an era of breakneck expansion in the country’s property sector. Here are some of the figures that have drawn the mo
 
 ## Chinese court accepts Evergrande liquidation petition 1 day after founder’s life sentence
 A court in southern China’s Guangdong province formally accepted a bankruptcy liquidation petition against China Evergrande Group’s main onshore unit, closing the final chapter in the unravelling of what was once the country’s largest property developer. The Guangzhou Intermediate People’s Court sai
@@ -134,9 +134,6 @@ Shares of Chinese toymaker Pop Mart International Group slumped after the compan
 
 ## Henderson Land posts 66% profit surge after run of strong sales
 Henderson Land Development, one of Hong Kong’s largest developers, reported a 66 per cent rise in its interim profit for the first half of the year following a strong run of property sales, according to its filing with the Hong Kong stock exchange on Thursday. The developer, controlled by the family
-
-## Chinese insurance giant Ping An’s profit climbs 36% on policy sales, investment gains
-Ping An Insurance (Group), China’s largest insurer by market value, reported a 36 per cent increase in interim profit, driven by stronger policy sales and investment gains, according to a stock exchange filing on Thursday. First-half net profit hit 92.59 billion yuan (US$13.78 billion) for the six m
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -186,6 +183,12 @@ Dr. Smruti S. Pattanaik joins host Tushar Shetty to examine Bangladesh six month
 ## North Korea Dismisses Trump’s Recent Overtures to Kim Jong Un
 Days after U.S. President Donald Trump showed his interest in meeting with the leader of North Korea, Pyongyang responded by launching short-range ballistic missiles and publishing a harsh statement.
 
+## A Rock and China’s Three-Sea Problem
+Two rocks surrounded by coral, with a total land size of less than 10 square meters (approximately 108 square feet) at high tide, are the entire basis on which Japan claims a 150,000-square-mile exclusive economic zone, an area nearly the size of Japan itself. The uninhabited feature, located more t
+
+## Mental Health Is a Warfighting Readiness Problem for the U.S. Navy
+“You cannot be at mental peace always. You will be worried. So even my family — they are scared all the time, and they were anxiously praying [for] the vessel [to] come out of this area safely.” While Captain Chirag operates a commercial cargo vessel in the Red Sea, his comments in the aftermath of 
+
 ## War: Watt Is It Good For?
 Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
 
@@ -203,12 +206,6 @@ The Iran war is beginning to resemble the Ukraine war in one important way. Oper
 
 ## Proving the Negative: Three Warnings from Arms Control for the Age of AI
 In early 1963, a single number characterized the difference in the positions of the United States and the Soviet Union on a comprehensive nuclear test ban. Nikita Khrushchev had proposed three on-site inspections each year. Washington was asking for seven. Other differences remained, including inspe
-
-## How Feasible Is a European Nuclear Deterrent Without Washington?
-In 2025, James Cameron wrote, “Eurodeterrent: A Vision for an Anglo-French Nuclear Force,” where he argued the United Kingdom and France should cooperate to develop a nuclear deterrent umbrella for Europe, independent of Washington. A year later, after French President Emmanuel Macron’s landmark nuc
-
-## AI and the Risks of Tearing Down an Old System
-Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the op
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Australian Hussey open to Ashes Test role as England make approach
+Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England's new red-ball coach.
+
+## Dr TikTok: Mental health moves from consulting rooms to social media
+Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.
+
+## ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
+Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.
+
 ## Dozens of migrants land on Spanish coast surprising beachgoers
 Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.
 
@@ -248,15 +254,6 @@ Three projects mark a new test for Egypt after it failed to prevent construction
 
 ## Brazil launches AI supercomputer push while balancing US and Chinese tech
 The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
-
-## Panama Canal to limit shipping ahead of extreme weather during El Nino
-The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.
-
-## Antigovernment protesters take to Tunisia’s streets for second month
-Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.
-
-## Taliban release two detained UN staff members in Afghanistan
-The two men, detained in the western city of Herat on August 9, were released on Thursday morning.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
