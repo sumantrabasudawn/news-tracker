@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Apollo says hackers accessed personal data in latest Wall Street breach
+Private equity group launched probe that determined names, home addresses and social security numbers had been stolen in cyber attack last month
+
+## Uber set for €825mn Dutch fine over automating driver suspensions
+Regulator says ride-hailing group deactivated driver accounts through automated systems without adequately informing them
+
+## US and Canada haggle over trade deal as midnight tariffs threat looms
+Officials talk up prospect of agreement after Trump paused $20bn of new levies on North American trading partner
+
+## The bond scare and the balance of power
+After the dreamworld of the 2010s, the link between power and fiscal capacity is back
+
 ## Burnham: To drill or not to drill?
 A North Sea decision looms. Plus, what Burnham can learn from Starmer’s mistakes
 
@@ -9,23 +21,17 @@ Surge in yields prompts buying of tax-efficient low-coupon securities
 ## Apple paid $17bn in taxes to Ireland after court ruling on back levies
 New filings highlight iPhone maker’s global tax liabilities
 
-## Burnham’s summer tour turns into a cut-price honeymoon
+## Burnham’s honeymoon continues despite lack of ‘earth-shattering’ policies
 UK prime minister has managed to win over many voters despite offering only pledges that come with a low cost
 
-## FirstFT: Scott Bessent’s bond buybacks lift gold and bitcoin
-Also in this newsletter: El Niño forces Panama Canal to cut traffic and Samsung outlines plans to return $80bn to shareholders
-
-## Dèy by Edwidge Danticat — a family under fire
-After witnessing a mall shooting, a Haitian-American mother questions her past, her relationships and the fragile safety she has built for her daughter
-
-## Food inflation adds pressure for Bank of Japan to act
-Inflation measures all moved closer to central bank’s target in July
-
-## Waymo doubles spending on lobbying in robotaxi battle with Uber
-Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services
+## Prince Harry and other privacy claimants told to pay initial £9.5mn to Daily Mail publisher
+High Court rules that the losing parties must cover legal costs on an ‘indemnity’ basis
 
 ## What is Jane Street?
 The question is more important than the answer
+
+## FirstFT: Scott Bessent’s bond buybacks lift gold and bitcoin
+Also in this newsletter: El Niño forces Panama Canal to cut traffic and Samsung outlines plans to return $80bn to shareholders
 
 ## How climate risk is starting to ‘cascade’ into the US economy
 Also in today’s newsletter, did companies pay a price for keeping DEI schemes under Trump?
@@ -33,35 +39,32 @@ Also in today’s newsletter, did companies pay a price for keeping DEI schemes 
 ## What retail investors need to know before jumping into Anthropic’s IPO
 Don’t rush in, there are many business risks for the maker of Claude
 
-## Blackwater founder Erik Prince launches air-defence systems company
-Vectus Air Defense Systems marks former Navy Seal’s latest foray into private military and security services
+## Tata Motors PV hikes car prices for third time since April
+Prices for models hiked by up to ₹25,000 from September 1; cumulative increase on some Harrier and Safari variants now beyond ₹50,000 since April
 
-## FTAV Q&A: Darrell Duffie
-The money market savant on what the Fed should do about its balance sheet
+## Centre notifies ₹62,500 crore mobile phone manufacturing scheme
+The scheme provides an additional incentive of up to 1.5 per cent for the domestic sourcing of key components and sub-assemblies
 
-## The Body Shop Strengthens Retail Footprint with New Store Launch at DLF Summit, Gurugram
+## India’s foreign exchange market will be ready when its deep enough to absorb global shocks: RBI Deputy Governor
+He emphasised that the next phase of reform will be judged by accessibility of the foreign exchange services that citizens receive
+
+## PMS industry AUM rises 2% to ₹44.11 lakh crore in July
+Client base expands 1.3 per cent to 2.23 lakh accounts; net inflows rise to ₹4.66 lakh crore
+
+## IRDAI bars Edelweiss Life, Pramerica Life from opening new offices for six months
+The Authority will continue to take appropriate supervisory and enforcement action wherever regulatory non-compliance is observed
+
+## Radico Khaitan launches Aam Panna Vodka as Magic Moments eyes flavoured segment growth
+The launch comes as the company reported strong volume momentum for its Magic Moments brand, which shipped 8.6 million cases in FY2026 and over 3.25 million cases in the first quarter of FY2027
+
+## Understanding Rs 2 Crore Term Insurance Plans and Who They Are Built For
 
 
-## Zest Bespoke Catering Wins Platinum at the WeddingSutra Influencer Awards 2026 for Trendsetting Food Design
+## Epigamia aims to double business in 24-30 months, grow offline distribution
+Eyes an annualised revenue run rate of ₹1,000 crore by March 2028
 
-
-## Telawne Power Equipments Expands Operational Footprint by 61,837 Sq. Ft. to Support Global Power Infrastructure Growth
-New centralized warehouse and additional production bay strengthen manufacturing and supply-chain capabilities for power, renewable energy and infrastructure projects
-
-## Govt set to approve $1.2 billion incentive scheme for construction equipment manufacturing: Sources
-Scheme aims to draw $1.8 billion in fresh investment, provide incentives over seven years, sources say
-
-## India receives 29 FDI proposals worth ₹4,896 crore under relaxed Chinese shareholding rules
-The revised framework is helping overseas investors navigate India’s market more easily, with proposals spanning technology, manufacturing, pharmaceuticals and infrastructure
-
-## India’s actuarial body targets 30,000 members by 2031, bets big on AI and climate risks
-India’s insurance sector is poised for rapid expansion, creating greater demand for specialised expertise in risk assessment, technology and financial regulation
-
-## IIMR granted desgin patent for automated millet roti-making machine
-The innovation aims to make the preparation of millet-based rotis faster, more convenient and accessible for Indian households
-
-## Flying out of Bengaluru gets cheaper, but arrivals now face new airport fee
-The change effectively shifts Bengaluru airport’s UDF model from one largely borne by departing passengers
+## US stock market today: Wall Street rises as bond market steadies
+Most US companies have delivered stronger-than-expected spring earnings, helping fuel the stock market's recent advance to record levels. Over longer periods, stock prices generally tend to track the direction of corporate profits.
 
 ## Chinese stake rules eased: India sees 29 FDI proposals worth Rs 4,895.65 crore; check details
 The 29 investment proposals have come from investors and entities based in several jurisdictions, including Mauritius, the US, South Korea, Japan, Singapore, Luxembourg and the Cayman Islands.
@@ -84,32 +87,32 @@ MCX Gold October futures continue to trade with a firm bullish bias, with prices
 ## SIM card rules 2026: What changes from Aug 24 & how many connections can you have
 Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevent
 
-## Rupee continues to rally, opens 9 paise stronger against US dollar
-On Friday morning, the rupee showed signs of strength against the US dollar. Despite the upward trend, high crude oil prices and ongoing geopolitical tensions are pressuring the currency. The Reserve Bank of India anticipates notable foreign currency inflows this year, though these have yet to resul
+## Chhattisgarh signs two key MoUs to boost PM GatiShakti implementation
+The agreements aim to enhance the state's infrastructure planning and development by using geospatial technology and integrated logistics data.
 
-## ‘Frustration': India snubs Pakistan after summons to US envoy over Sergio Gor's J&K remark
-Islamabad summoned US envoy and lodged protest against US ambassador Sergio Gor's remarks on J&K being an "important part of India".
+## Odisha to develop Laxmanananda Saraswati’s birthplace as heritage village: Majhi
+The announcement came at an event marking the birth centenary of the VHP leader, who was known for his campaigns against religious conversions in Odisha’s tribal belt
 
-## Supreme Court judges, lawyers share bench in rare Lok Adalat to clear case backlog
-The litigants interacted freely with the judges, who settled several cases after ascertaining whether the parties who came with settlement deeds had done so consciously and without any pressure.
+## Arson, petrol bomb attacks on govt property reported across Meghalaya
+In West Khasi Hills, two government vehicles were gutted after miscreants set them ablaze at Nongstoin on Thursday night.
 
-## Bihar minister Shrawon Kumar faces backlash after 'diabetes' take on sugar price rise sparks reactions online
-Speaking about the rise in sugar prices, Kumar told the media that people are suffering from diabetes and thus the cost increase will not make much difference.
+## India to have homegrown mobile brand by mid-2027: Ashwini Vaishnaw
+The Ministry of Electronics and Information Technology (MeitY) notified the ₹62,500 crore Mobile Phone Manufacturing Scheme (MPMS)
 
-## Uttarakhand: 4 arrested after two groups clash, open fire in Dehradun
-Four people were arrested after two groups of youths clashed and opened fire in Dehradun’s Patel Nagar, leaving one person injured, police said.
+## 'CM Vijay told Amit Shah that existing freeze on LS seats should continue': TN minister clarifies stance on delimitation
+Aadhav Arjuna asserted that the state government remained firm on its (Assembly) resolution to freeze the number of parliamentary seats at 543.
 
-## Childhood buddy, girlfriend, then a body in car boot: Telangana woman killed by partner
-The alleged murder came to light when the police were informed about foul smell coming from a car parked in Elkathurthy mandal.
+## Drug, alcohol tests of accused in Hyderabad Aston Martin crash return negative
+The police official Ritiraj, said. "It was a fatal accident. After the accident, the accused party took the victim to the hospital.
 
-## Maharashtra boy threatens to jump, parents chase to save. All 3 fall to death
-A boy who threatened to jump to death in dispute over phone fell off a cliff and died in Chhatrapati Sambhajinagar, so did his parents while trying to save him
+## Elderly man's body remains on rooftop for 18 hours amid Jajpur floods in Odisha
+The deceased, identified as 61-year-old Hrushikesh Mallik, died around 4.30 pm on Wednesday.
 
-## Health minister JP Nadda reviews preparedness as Delhi sees surge in H1N1 cases
-Delhi has recorded nearly 1,700 H1N1 cases this season as Union health minister JP Nadda reviews surveillance and hospital preparedness amid a surge.
+## Tripura: Surrendered militants call shutdown over ‘unfulfilled’ rehab promises
+Members of NLFT and ATTF groups called for a 72-hour shutdown in Tripura from Sept 4, alleging unfulfilled rehabilitation promises from a 2024 peace accord.
 
-## Delhi Police files FIR on pellet gun matter after Rahul Gandhi’s dharna over student’s complaint
-This comes hours after Lok Sabha Leader of Opposition Rahul Gandhi staged a dharna at Parliament Street Police Station
+## Tesla forced to recall record 3 million cars in China over door-handle issue
+Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
 
 ## Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment
 Ping An Insurance (Group), China’s largest insurer in terms of market capitalisation, is eyeing investments in Hong Kong-listed exchange-traded funds (ETFs) to boost returns following Beijing’s green light for cross-border allocations, according to senior executives. “Allowing mainland insurance fun
@@ -132,8 +135,8 @@ A court in southern China’s Guangdong province formally accepted a bankruptcy 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
-## Hang Seng Index adds major Chinese chipmaker as tech pivot continues
-Two new companies will be soon be added to the Hang Seng Index (HSI), increasing the constituents of Hong Kong’s bellwether stock index from 93 to 95, according to a statement from the Hang Seng Indexes Company released on Friday. The new entrants are Hua Hong Grace Semiconductor, one of China’s top
+## Southeast Asia Isn’t Buying Elbridge Colby’s Flexible Realism
+Trump’s policies offer the region all the downsides of traditional U.S. policy with none of the benefits.
 
 ## A Top Trump Ally Turns to China
 Washington has favored bullets over business in its dealings with slow-growing Ecuador.
@@ -155,9 +158,6 @@ Despite 20 percent of global deposits, the country produces less than 1 percent 
 
 ## State Department to Partner With Palantir, Anduril on Free Speech Initiative
 The Freedom Tech Excellence Program also includes the Bitcoin Policy Institute and the Victims of Communism Memorial Foundation.
-
-## Israel and America Agree on Gaza’s New Leader
-The Trump administration’s peace plan has invested its hopes for Gaza’s future in the little-known Ali Shaath.
 
 ## Vietnam Proposes Ending Death Penalty For 6 More Offenses
 At the same time, the government is introducing tougher sentencing provisions for acts deemed to undermine the state or the authority of the ruling Communist Party.
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian expert warns of impending social crisis as Ukraine death toll rises
+Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.
+
+## Iraq’s solar villages show how to build an energy transition that lasts
+Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.
+
+## Fury says fight with Joshua looks unlikely with venue yet to be agreed
+The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.
+
+## Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL
+Enzo Maresca replaced Pep Guardiola between seasons but says Man City may need patience before more trophies arrive.
+
 ## Djibouti Football Federation accused of misusing funds from FIFA
 FIFA and CAF provides more than $1m a year to Djibouti's federation, which faces corruption allegations over misuse.
 
@@ -242,18 +254,6 @@ One person has been taken into custody after the attack at a high school in Fage
 
 ## Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets
 The US and Israel's war on Iran has upended global financial and energy markets.
-
-## Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN
-Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities
-
-## Liverpool preview: Five key questions heading into 2026-27 season
-Liverpool's new Spanish boss is tasked with making the club title challengers again, but he faces a number of issues.
-
-## Weddings in Gaza offer rare moments of joy amid genocide
-In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.
-
-## El Nino set to be most intense ‘for over a century’: UK forecasters
-Met Office predicts 'unprecedented' sea surface temperature rise of 3C (5.4F) plus will heighten extreme weather risks.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
