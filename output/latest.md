@@ -39,29 +39,32 @@ Also in today’s newsletter, did companies pay a price for keeping DEI schemes 
 ## What retail investors need to know before jumping into Anthropic’s IPO
 Don’t rush in, there are many business risks for the maker of Claude
 
-## Tata Motors PV hikes car prices for third time since April
-Prices for models hiked by up to ₹25,000 from September 1; cumulative increase on some Harrier and Safari variants now beyond ₹50,000 since April
+## India rules out sugar import from Pakistan despite duty-free window
+MEA indicates no plans to make exception to Pakistan import ban
 
-## Centre notifies ₹62,500 crore mobile phone manufacturing scheme
-The scheme provides an additional incentive of up to 1.5 per cent for the domestic sourcing of key components and sub-assemblies
+## PNGRB authorises 1,800 km of new LPG pipelines with ₹7,000 crore investment
+This will expand the common carrier pipeline network to roughly 9,500 km
 
-## India’s foreign exchange market will be ready when its deep enough to absorb global shocks: RBI Deputy Governor
-He emphasised that the next phase of reform will be judged by accessibility of the foreign exchange services that citizens receive
+## Retail F&O gets younger as trading outpaces equity wealth
+Under-40 traders account for 78 per cent of individual F&O participants, but 30-something traders bear the bulk of losses
 
-## PMS industry AUM rises 2% to ₹44.11 lakh crore in July
-Client base expands 1.3 per cent to 2.23 lakh accounts; net inflows rise to ₹4.66 lakh crore
+## Crypto investor sentiment remains damp despite uptick in Bitcoin pricing
+Investors in the 18–25 year age group recorded the highest selling activity in Q2, as per data collacted by CoinSwitch
 
-## IRDAI bars Edelweiss Life, Pramerica Life from opening new offices for six months
-The Authority will continue to take appropriate supervisory and enforcement action wherever regulatory non-compliance is observed
+## Joyalukkas bags a golden TN Govt order to gift rings to 4.41 Lakh Newborns
+The Kerala jeweler pipped others for the ₹755 crore order by bidding on a razor-thin margin
 
-## Radico Khaitan launches Aam Panna Vodka as Magic Moments eyes flavoured segment growth
-The launch comes as the company reported strong volume momentum for its Magic Moments brand, which shipped 8.6 million cases in FY2026 and over 3.25 million cases in the first quarter of FY2027
+## After three decades, lotus blooms again in Wular Lake, reviving hopes for ecology and livelihoods
+The return of lotus had brought renewed optimism among communities
 
-## Understanding Rs 2 Crore Term Insurance Plans and Who They Are Built For
+## Anil Balaji Steel plans to acquire steel manufacturing facilities in UP, Odisha
+Plans to increase turnover to ₹500 crore by 2030
 
+## Number of unincorporated establishments grew by over 9% in April-June
+Jobs rose by over 6.5% in this period
 
-## Epigamia aims to double business in 24-30 months, grow offline distribution
-Eyes an annualised revenue run rate of ₹1,000 crore by March 2028
+## How Venezuela has emerged as a key oil supplier to India amid Hormuz disruptions
+Venezuela has emerged as a much larger supplier to India in August till now, with imports rising sharply and placing the South American producer fourth in India's crude supply rankings, Kpler data showed.
 
 ## US stock market today: Wall Street rises as bond market steadies
 Most US companies have delivered stronger-than-expected spring earnings, helping fuel the stock market's recent advance to record levels. Over longer periods, stock prices generally tend to track the direction of corporate profits.
@@ -84,8 +87,8 @@ India currently has the world's most powerful hydrogen train in operation and ha
 ## Gold price prediction: Gold is rally, but should you buy? Check August 21, 2026 outlook
 MCX Gold October futures continue to trade with a firm bullish bias, with prices holding near Rs 1,60,900 after extending their recent uptrend. The chart shows a clear sequence of higher highs and higher lows, supported by positive moving-average alignment and sustained buying interest.
 
-## SIM card rules 2026: What changes from Aug 24 & how many connections can you have
-Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevent
+## ‘Will she teach patriotism?' BJP on Sharmila Tagore's Vande Mataram remark
+The comments come amid an intensifying political dispute between the BJP and the Congress over the rendition of Vande Mataram.
 
 ## Chhattisgarh signs two key MoUs to boost PM GatiShakti implementation
 The agreements aim to enhance the state's infrastructure planning and development by using geospatial technology and integrated logistics data.
@@ -107,9 +110,6 @@ The police official Ritiraj, said. "It was a fatal accident. After the accident,
 
 ## Elderly man's body remains on rooftop for 18 hours amid Jajpur floods in Odisha
 The deceased, identified as 61-year-old Hrushikesh Mallik, died around 4.30 pm on Wednesday.
-
-## Tripura: Surrendered militants call shutdown over ‘unfulfilled’ rehab promises
-Members of NLFT and ATTF groups called for a 72-hour shutdown in Tripura from Sept 4, alleging unfulfilled rehabilitation promises from a 2024 peace accord.
 
 ## Tesla forced to recall record 3 million cars in China over door-handle issue
 Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
@@ -135,6 +135,12 @@ A court in southern China’s Guangdong province formally accepted a bankruptcy 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
+## Trump’s Twin Blunders
+The U.S. president has simultaneously demolished key relationships in East Asia and the Middle East.
+
+## The U.S. Is Learning the Wrong Lessons in Iran
+Tactical excellence can never salvage strategic incompetence.
+
 ## Southeast Asia Isn’t Buying Elbridge Colby’s Flexible Realism
 Trump’s policies offer the region all the downsides of traditional U.S. policy with none of the benefits.
 
@@ -152,12 +158,6 @@ Scott Bessent is breaking the glass to check rising bond yields, but the fix is 
 
 ## A Tale of Two Socialists
 Why Spain’s Sánchez has succeeded while Britain’s Starmer floundered.
-
-## Bolivia’s Lithium Isn’t a Gold Mine
-Despite 20 percent of global deposits, the country produces less than 1 percent of supply.
-
-## State Department to Partner With Palantir, Anduril on Free Speech Initiative
-The Freedom Tech Excellence Program also includes the Bitcoin Policy Institute and the Victims of Communism Memorial Foundation.
 
 ## Vietnam Proposes Ending Death Penalty For 6 More Offenses
 At the same time, the government is introducing tougher sentencing provisions for acts deemed to undermine the state or the authority of the ruling Communist Party.
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain
+Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.
+
 ## Russian expert warns of impending social crisis as Ukraine death toll rises
 Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.
 
@@ -251,9 +254,6 @@ The US Treasury Secretary, has indicated a change in US strategy towards Iran, f
 
 ## Several people injured in sword attack at school in Sweden
 One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.
-
-## Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets
-The US and Israel's war on Iran has upended global financial and energy markets.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
