@@ -1,67 +1,73 @@
 # AION Intelligence
 
+## Italy’s MPS thinks three takeovers are better than one
+Crunching two banks together is challenging, and takes time; to attempt the same feat with four calls for some truly magical thinking
+
+## Trump claims deal to cut beef import tariffs to help curb high prices
+Cattle futures fall after president says unnamed foreign suppliers will provide 25% discount for three months
+
 ## Apollo says hackers accessed personal data in latest Wall Street breach
-Private equity group launched probe that determined names, home addresses and social security numbers had been stolen in cyber attack last month
+Private equity group’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
 
-## Uber set for €825mn Dutch fine over automating driver suspensions
-Regulator says ride-hailing group deactivated driver accounts through automated systems without adequately informing them
+## Jim O’Neill declines job in Andy Burnham’s government
+Former Goldman Sachs chief economist was adviser to Labour leader before he became prime minister
 
-## US and Canada haggle over trade deal as midnight tariffs threat looms
-Officials talk up prospect of agreement after Trump paused $20bn of new levies on North American trading partner
+## The US techlash is real
+AI companies and social networks should respond to the shift in the public mood
 
-## The bond scare and the balance of power
-After the dreamworld of the 2010s, the link between power and fiscal capacity is back
+## Bessent dissent
+Moves by the Treasury secretary are being interpreted as an effort to control rising yields
 
-## Burnham: To drill or not to drill?
-A North Sea decision looms. Plus, what Burnham can learn from Starmer’s mistakes
+## Natalie Harp, the devoted ‘human printer’ in Trump’s entourage
+The executive aide’s relationship with the president symbolises a broader sycophancy around him
 
-## UK retail investors snap up gilts in wake of bond sell-off
-Surge in yields prompts buying of tax-efficient low-coupon securities
-
-## Apple paid $17bn in taxes to Ireland after court ruling on back levies
-New filings highlight iPhone maker’s global tax liabilities
-
-## Burnham’s honeymoon continues despite lack of ‘earth-shattering’ policies
-UK prime minister has managed to win over many voters despite offering only pledges that come with a low cost
+## Citadel offloads 80% of portfolio scooped up from Situational Awareness
+Ken Griffin’s hedge fund has executed more than $4bn worth of block trades in recent weeks
 
 ## Prince Harry and other privacy claimants told to pay initial £9.5mn to Daily Mail publisher
 High Court rules that the losing parties must cover legal costs on an ‘indemnity’ basis
 
+## Uber set for €825mn Dutch fine over automating driver suspensions
+Regulator says ride-hailing group deactivated driver accounts through automated systems without adequately informing them
+
+## Apple paid $17bn in taxes to Ireland after court ruling on back levies
+New filings highlight iPhone maker’s global tax liabilities
+
 ## What is Jane Street?
 The question is more important than the answer
 
-## FirstFT: Scott Bessent’s bond buybacks lift gold and bitcoin
-Also in this newsletter: El Niño forces Panama Canal to cut traffic and Samsung outlines plans to return $80bn to shareholders
+## China’s Chang’e-7 lunar mission to search for water at Moon’s south pole
+The mission will test advanced robotic technologies while gathering data that could shape China’s plans for a permanent lunar research outpost
 
-## How climate risk is starting to ‘cascade’ into the US economy
-Also in today’s newsletter, did companies pay a price for keeping DEI schemes under Trump?
+## Colgate bets on veteran Manish Anandani to power its next growth engine
+Faces twin challenge of mass-market defence and premium growth
 
-## What retail investors need to know before jumping into Anthropic’s IPO
-Don’t rush in, there are many business risks for the maker of Claude
+## Iran warns of ‘devastating’ response as US plans toughest sanctions
+Washington’s planned measures come as tensions threaten shipping routes, crude supplies and diplomatic efforts to end the conflict involving Tehran
 
-## India rules out sugar import from Pakistan despite duty-free window
-MEA indicates no plans to make exception to Pakistan import ban
+## IRDAI bars Edelweiss Life, Pramerica Life from opening new offices for six months
+The Authority will continue to take appropriate supervisory and enforcement action wherever regulatory non-compliance is observed
 
-## PNGRB authorises 1,800 km of new LPG pipelines with ₹7,000 crore investment
-This will expand the common carrier pipeline network to roughly 9,500 km
-
-## Retail F&O gets younger as trading outpaces equity wealth
-Under-40 traders account for 78 per cent of individual F&O participants, but 30-something traders bear the bulk of losses
-
-## Crypto investor sentiment remains damp despite uptick in Bitcoin pricing
-Investors in the 18–25 year age group recorded the highest selling activity in Q2, as per data collacted by CoinSwitch
-
-## Joyalukkas bags a golden TN Govt order to gift rings to 4.41 Lakh Newborns
+## Joyalukkas, Kalyan bag TN govt order to gift gold rings to 4.41 lakh newborns
 The Kerala jeweler pipped others for the ₹755 crore order by bidding on a razor-thin margin
 
-## After three decades, lotus blooms again in Wular Lake, reviving hopes for ecology and livelihoods
-The return of lotus had brought renewed optimism among communities
+## Symbiotec Pharmalab raises Rs 526 cr from anchor investors; IPO opens on Aug 24
+The anchor placement attracted mutual funds, insurers and foreign investors, setting the stage for the pharmaceutical company’s public market debut
 
-## Anil Balaji Steel plans to acquire steel manufacturing facilities in UP, Odisha
-Plans to increase turnover to ₹500 crore by 2030
+## Editorial. Resource guzzlers
+Data centres should account for water, power demands
 
-## Number of unincorporated establishments grew by over 9% in April-June
-Jobs rose by over 6.5% in this period
+## SEBI mulls bond distributor network, tighter ad rules to boost retail participation
+The proposals aim to make corporate bonds more accessible to retail investors while strengthening safeguards around recommendations, incentives and investor communication
+
+## Middle East, Russia crisis: India new ‘swing supplier’ for refined oil products. Can it sustain?
+Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Russia.
+
+## Gold, silver shine brighter: Bullion prices hit 3-month highs as weak dollar boosts demand
+Gold and silver prices climbed significantly on Friday, reaching levels not seen in over three months. A weaker US dollar and positive global market trends encouraged buying in both precious metals. Gold of 99.9 percent purity rose by Rs 1,200 to Rs 1,63,500 per 10 grams. Silver posted an even stron
+
+## ‘Mental age’ of 8 or 9 years cannot automatically mean adult woman lacks sexual capacity: Gauhati HC acquits rape convict
+Justice Sanjeev Kumar Sharma allowed the appeal filed by P. Rohmingsanga and set aside the judgment dated June 18, 2024, by which the Sessions Court, Lunglei Judicial District, had convicted him under Section 376(2)(l) of the Indian Penal Code and sentenced him to 10 years' rigorous imprisonment and
 
 ## How Venezuela has emerged as a key oil supplier to India amid Hormuz disruptions
 Venezuela has emerged as a much larger supplier to India in August till now, with imports rising sharply and placing the South American producer fourth in India's crude supply rankings, Kpler data showed.
@@ -72,20 +78,26 @@ Most US companies have delivered stronger-than-expected spring earnings, helping
 ## Chinese stake rules eased: India sees 29 FDI proposals worth Rs 4,895.65 crore; check details
 The 29 investment proposals have come from investors and entities based in several jurisdictions, including Mauritius, the US, South Korea, Japan, Singapore, Luxembourg and the Cayman Islands.
 
-## Middle East, Russia crisis: India new ‘swing supplier’ for refined oil products. Can it sustain?
-Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Russia.
-
 ## SBI cash withdrawal rules change from October 1: Rs 15 fee after four free transactions
 SBI customers will face charges for cash withdrawals exceeding four free monthly transactions. A fee of Rs 15 plus GST applies to Basic Savings Bank Deposit accounts. Digital transactions remain free, and Aadhaar Enabled Payment System transactions are now counted. Interest rates on bulk term deposi
 
 ## Why India is betting $1.2 billion on homegrown construction equipment
 India plans a $1.2 billion incentive scheme for advanced equipment manufacturing. This initiative aims to reduce reliance on China for critical machinery. The government expects fresh investment and domestic production growth over seven years. The scheme will cover tunnel boring machines and fire-fi
 
-## World’s most powerful: Indian Railways eyes 35 hydrogen trains; looks at cheaper green fuel
-India currently has the world's most powerful hydrogen train in operation and has also established a dedicated facility for manufacturing and supplying hydrogen for the train. The initial target is to deploy 35 hydrogen-powered trains on heritage routes.
+## ‘On our radar as threat’: Ex-army chief MM Naravane calls China India's competitor, Pakistan a security challenge
+MM Naravane said China will serve as India's primary competitor across political, economic, trade, and military spheres in the coming years.
 
-## Gold price prediction: Gold is rally, but should you buy? Check August 21, 2026 outlook
-MCX Gold October futures continue to trade with a firm bullish bias, with prices holding near Rs 1,60,900 after extending their recent uptrend. The chart shows a clear sequence of higher highs and higher lows, supported by positive moving-average alignment and sustained buying interest.
+## Mahatma Gandhi's manuscript sells for ₹16.2 crore at auction, sets record - Check details
+The auction house has reportedly confirmed that the buyer is from within India and the manuscript will stay in the country.
+
+## 22 Indian sailors on two cargo ships hijacked off Yemen, Somalia are safe: Govt
+All 22 Indian seafarers aboard two foreign-flagged vessels hijacked by pirates off Yemen and Somalia are safe, EAM said, as authorities work to ensure their safety.
+
+## 5 arrested over alleged human sacrifice killing in Odisha
+Odisha police arrest five over suspected human sacrifice after a 40-year-old man’s headless body was found in Balangir; accused’s head recovered.
+
+## AAP says H1N1 cases in Delhi ‘alarmingly high’, ‘spreading like corona’, blames govt for not taking measures
+AAP Delhi president Saurabh Bharadwaj claimed that several people in the capital are experiencing flu-like symptoms.
 
 ## ‘Will she teach patriotism?' BJP on Sharmila Tagore's Vande Mataram remark
 The comments come amid an intensifying political dispute between the BJP and the Congress over the rendition of Vande Mataram.
@@ -95,21 +107,6 @@ The agreements aim to enhance the state's infrastructure planning and developmen
 
 ## Odisha to develop Laxmanananda Saraswati’s birthplace as heritage village: Majhi
 The announcement came at an event marking the birth centenary of the VHP leader, who was known for his campaigns against religious conversions in Odisha’s tribal belt
-
-## Arson, petrol bomb attacks on govt property reported across Meghalaya
-In West Khasi Hills, two government vehicles were gutted after miscreants set them ablaze at Nongstoin on Thursday night.
-
-## India to have homegrown mobile brand by mid-2027: Ashwini Vaishnaw
-The Ministry of Electronics and Information Technology (MeitY) notified the ₹62,500 crore Mobile Phone Manufacturing Scheme (MPMS)
-
-## 'CM Vijay told Amit Shah that existing freeze on LS seats should continue': TN minister clarifies stance on delimitation
-Aadhav Arjuna asserted that the state government remained firm on its (Assembly) resolution to freeze the number of parliamentary seats at 543.
-
-## Drug, alcohol tests of accused in Hyderabad Aston Martin crash return negative
-The police official Ritiraj, said. "It was a fatal accident. After the accident, the accused party took the victim to the hospital.
-
-## Elderly man's body remains on rooftop for 18 hours amid Jajpur floods in Odisha
-The deceased, identified as 61-year-old Hrushikesh Mallik, died around 4.30 pm on Wednesday.
 
 ## Tesla forced to recall record 3 million cars in China over door-handle issue
 Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
@@ -231,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What to know about the Freedom 250 Grand Prix, Trump’s capital car race
+The president says the 147-lap race will be an event 'like no other' as drivers zip through Washington, DC.
+
+## England thrash Pakistan by an innings and 103 runs in first Test
+Joe Root's return as England captain results in a thumping win inside three days against Pakistan in first Test.
+
+## Arsenal vs Coventry LIVE: Premier League
+Follow updates from the opening match of the season - including the build-up, analysis and live text commentary.
+
+## Israeli settlers set fire to heavy machinery at West Bank quarry
+Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery
+
+## Jannik Sinner to miss US Open tennis major due to knee injury
+Five-time major champion Sinner, who won the US Open in 2024, will not be competing at Flushing Meadows this year.
+
 ## Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain
 Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.
 
@@ -239,21 +251,6 @@ Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys 
 
 ## Iraq’s solar villages show how to build an energy transition that lasts
 Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.
-
-## Fury says fight with Joshua looks unlikely with venue yet to be agreed
-The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.
-
-## Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL
-Enzo Maresca replaced Pep Guardiola between seasons but says Man City may need patience before more trophies arrive.
-
-## Djibouti Football Federation accused of misusing funds from FIFA
-FIFA and CAF provides more than $1m a year to Djibouti's federation, which faces corruption allegations over misuse.
-
-## War on Iran: The US could focus on economically isolating Iran
-The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
-
-## Several people injured in sword attack at school in Sweden
-One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
