@@ -60,6 +60,9 @@ The anchor placement attracted mutual funds, insurers and foreign investors, set
 ## Editorial. Resource guzzlers
 Data centres should account for water, power demands
 
+## Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices
+Says Drop Not Due To Ethanol Diversion
+
 ## Tariffs are over-emphasised, says BCG chief
 
 
@@ -80,9 +83,6 @@ Justice Sanjeev Kumar Sharma allowed the appeal filed by P. Rohmingsanga and set
 
 ## How Venezuela has emerged as a key oil supplier to India amid Hormuz disruptions
 Venezuela has emerged as a much larger supplier to India in August till now, with imports rising sharply and placing the South American producer fourth in India's crude supply rankings, Kpler data showed.
-
-## US stock market today: Wall Street rises as bond market steadies
-Most US companies have delivered stronger-than-expected spring earnings, helping fuel the stock market's recent advance to record levels. Over longer periods, stock prices generally tend to track the direction of corporate profits.
 
 ## Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks
 Assam cab operators continued the highway blockade over attacks on Assam residents in Shillong, despite talks between the chief ministers of Assam and Meghalaya
@@ -228,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Tunisian protesters call for President Kais Saied to step down
+Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.
+
+## Can a humanitarian disaster be averted in Somalia?
+The UN warns of another hunger crisis, with starvation threatening millions.
+
+## Pope Leo urges the world to ‘help begin reconstruction’ of Gaza
+Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering'.
+
+## Bolivia’s President Rodrigo Paz fires economy minister amid unrest
+Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.
+
+## Western allies slam Israel for ending World Central Kitchen strike probe
+UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy 'shameful'.
+
 ## US Supreme Court allows Trump’s ballroom project to continue for now
 The Trump administration has argued the $400m White House ballroom is needed for national security purposes.
 
@@ -236,21 +251,6 @@ The president did not mention with whom he made the deal or where the imported g
 
 ## US court slashes Alex Jones fines for Sandy Hook school shooting case
 Court cuts Infowars founder's penalty for false claims that school shooting was a 'hoax' from $50m to $1.5m.
-
-## Libya rivals test a new path towards unity, 15 years after Gadaffi downfall
-Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.
-
-## US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms
-Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.
-
-## Palestinian victims of Israeli settler attacks face battle for justice
-Palestinians with missing relatives are marking International Day of Remembrance and Tribute to Victims of Terrorism.
-
-## Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant
-Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel's attacks on Global Sumud Flotilla activists.
-
-## Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta
-A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
