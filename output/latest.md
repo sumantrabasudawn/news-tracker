@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## US-Canada trade deal goes down to the wire
+Officials talk up prospect of agreement after Trump paused $20bn of new levies on North American trading partner
+
 ## SEC accuses ex-Bank of America utilities banker of insider trading
 Regulator says Jason Satsky helped a friend make $18.5mn in illegal profits tied to planned takeover of South Jersey Industries
 
@@ -21,20 +24,17 @@ Crunching two banks together is challenging, and takes time; to attempt the same
 ## Apollo says hackers accessed personal data in latest Wall Street breach
 Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
 
-## The US techlash is real
-AI companies and social networks should respond to the shift in the public mood
-
 ## Directors’ Deals: Pearson executive cashes in as digital growth boosts shares
 First-half revenues at the education group rise by 19 per cent
 
 ## Stockpickers: Costain, Oxford Nanopore Technologies, BHP
 Our experts discuss which companies to buy, sell or hold this week
 
+## The US techlash is real
+AI companies and social networks should respond to the shift in the public mood
+
 ## Citadel offloads 80% of portfolio scooped up from Situational Awareness
 Ken Griffin’s hedge fund has executed more than $4bn worth of block trades in recent weeks
-
-## Prince Harry and other privacy claimants told to pay initial £9.5mn to Daily Mail publisher
-High Court rules that the losing parties must cover legal costs on an ‘indemnity’ basis
 
 ## Trump administration starts process to transfer $725 million to UN
 The proposed payment could ease immediate pressure on the cash-strapped global body, which has warned of severe funding constraints and cuts.
@@ -60,6 +60,18 @@ The anchor placement attracted mutual funds, insurers and foreign investors, set
 ## Editorial. Resource guzzlers
 Data centres should account for water, power demands
 
+## PSBs losing share in high-value business: Report
+Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From GCCs
+
+## Easier rules boost FDI inflows from China by $500 million
+
+
+## Tablets gain from rising laptop prices
+
+
+## Informal sector establishments up 9%
+
+
 ## Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices
 Says Drop Not Due To Ethanol Diversion
 
@@ -71,18 +83,6 @@ Says Drop Not Due To Ethanol Diversion
 
 ## Middle East, Russia crisis: India new ‘swing supplier’ for refined oil products. Can it sustain?
 Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Russia.
-
-## PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit
-India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe head
-
-## Gold, silver shine brighter: Bullion prices hit 3-month highs as weak dollar boosts demand
-Gold and silver prices climbed significantly on Friday, reaching levels not seen in over three months. A weaker US dollar and positive global market trends encouraged buying in both precious metals. Gold of 99.9 percent purity rose by Rs 1,200 to Rs 1,63,500 per 10 grams. Silver posted an even stron
-
-## ‘Mental age’ of 8 or 9 years cannot automatically mean adult woman lacks sexual capacity: Gauhati HC acquits rape convict
-Justice Sanjeev Kumar Sharma allowed the appeal filed by P. Rohmingsanga and set aside the judgment dated June 18, 2024, by which the Sessions Court, Lunglei Judicial District, had convicted him under Section 376(2)(l) of the Indian Penal Code and sentenced him to 10 years' rigorous imprisonment and
-
-## How Venezuela has emerged as a key oil supplier to India amid Hormuz disruptions
-Venezuela has emerged as a much larger supplier to India in August till now, with imports rising sharply and placing the South American producer fourth in India's crude supply rankings, Kpler data showed.
 
 ## Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks
 Assam cab operators continued the highway blockade over attacks on Assam residents in Shillong, despite talks between the chief ministers of Assam and Meghalaya
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## TikTok settles with US Justice Department for $400m over child privacy laws
+TikTok and the US government settled to resolve allegations that the app violated children's online privacy laws.
+
+## Mexico Governor Ruben Rocha returns to office despite US criminal charges
+The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.
+
 ## One killed, three wounded in sword attack at Swedish high school
 One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.
 
@@ -245,12 +251,6 @@ The UN warns of another hunger crisis, with starvation threatening millions.
 
 ## Pope Leo urges the world to ‘help begin reconstruction’ of Gaza
 Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering'.
-
-## Bolivia’s President Rodrigo Paz fires economy minister amid unrest
-Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.
-
-## Western allies slam Israel for ending World Central Kitchen strike probe
-UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy 'shameful'.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
