@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Imran Khan moved from Pakistan jail to hospital and back again
+Popular former prime minister received treatment after Supreme Court order
+
+## FTAV’s further reading
+GTA 6 leaks; elastic expectations; Russia’s Wikipedia clone; LinkedIn dating; perv glasses
+
 ## FirstFT: Scott Bessent battles bond vigilantes
 Also in this newsletter: Healey’s deficit warning and HSBC’s job cuts
 
@@ -18,12 +24,6 @@ Wall Street investors say move to buy more long-term US debt is a ‘band-aid on
 ## Asia’s rising riches protect insurers against China’s policy shifts
 So long as the region’s wealth accumulation continues to outpace that of most developed economies
 
-## Burnham should beware the perils of cost of living policy
-Like Starmer and Sunak before him, he risks focusing too much on things beyond his control
-
-## The historic coffee port in the Houthis’ crosshairs
-Mocha, a Yemeni former trading hub, is on the front line of the rebel group’s campaign against Saudi Arabia
-
 ## How money-market funds are providing stock market rocket fuel
 An ABC on ABCPs
 
@@ -39,32 +39,29 @@ Some drivers are considering skulduggery in an attempt to show the limits of aut
 ## ‘Nobody has automated the kitchen’: the tech billionaire disrupting restaurants
 Wonder chief Marc Lore bets that owning the entire process — from food production to delivery — will pay off
 
-## HSBC spends $68mn on biggest cull of senior bankers since financial crisis
-Reduction came as Europe’s largest lenders shed biggest number of highly paid bankers since 2020
+## Your high school friends may shape whether you become an entrepreneur decades later
+Research suggests that people are more responsive to information from those with whom they have meaningful social connections than to information from stranger
+
+## Sensex today | Stock Market Live: Sensex rises 100 pts after flattish opening, Nifty trades around 24,260; Power Grid Corp, Kotak Mahindra Bank top gainers
+Sensex, Nifty, Share Prices LIVE: Indian shares open flat on Friday though elevated crude oil prices and ‌pressure in global bond markets kept sentiment ​cautious
+
+## Upstox in talks with banks for potential $350-400 million IPO
+Broking platform has crossed 2-crore KYC customers; ranks fifth in active clients on NSE
+
+## Monsoon loses punch under El Niño shadow, parts of South in for surprise
+Counter-intuitively, parts of South Peninsula including Kerala and Mahe, along with Lakshadweep, may experience fairly widespread to widespread rainfall for four days from Sunday
+
+## SEBI’s crackdown on CAS manipulation: All you need to know
+Here’s a look at what CAS is, what transpired during the August 13 session, and how SEBI responded to it
+
+## Centre blocks Telangana CM’s US visit; Revanth Reddy says decision ‘shocking’
+CM Reddy has instructed the officials to go ahead with the US trip and conclude all the MoUs and partnership agreements
 
 ## Sony India bets big on premium TVs, audio products to cater to Onam demand
 Sony’s larger-screen TV business grew around 50% during FIFA season; company eyes continued momentum with festive offers
 
-## Sensex today | Stock Market Live: Markets trade flat, Sensex up 25 pts, Nifty trades around 24,220; Eternal, Shriram Finance top gainers
-Sensex, Nifty, Share Prices LIVE: Indian shares open flat on Friday though elevated crude oil prices and ‌pressure in global bond markets kept sentiment ​cautious
-
 ## HDFC Bank shares rise 1% after $1.75 billion record dollar bond sale
 The stock traded at ₹729.35 on the NSE at 10.09 am, after rising to ₹732.60 from the previous close of ₹725.05
-
-## Tata Motors PV to raise car prices from September
-This marks the automaker’s third price hike this year, following a 0.5% increase on April 1 and a 1.5% increase on July 1
-
-## Anthropic expects to match or top SpaceX’s record IPO size
-Anthropic prepares to file publicly for its potential mega-IPO as soon as the end of this month
-
-## Nifty Prediction Today – August 21, 2026: Nifty 50 Futures: Support can limit the downside. Go long
-Nifty 50 August Futures contract is likely to sustain above 24,250 and rise to 24,350 during the day
-
-## Lumino Industries IPO: ₹700 cr offering to be launched on Aug 27
-Price band fixed at ₹78-82 per share
-
-## Anthropic plans to change data retention policy for advanced AI
-Anthropic working on new safety system that allows enterprise customers to retain data on their own cloud computing infrastructure
 
 ## SIM card rules 2026: What changes from Aug 24 & how many connections can you have
 Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevent
@@ -90,29 +87,29 @@ Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering 
 ## US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz
 The United States is preparing unprecedented sanctions against Iran. These measures aim to increase economic pressure on Tehran significantly. Washington also seeks cooperation from China regarding Iranian oil trade. China rejects sanctions and advocates for diplomatic solutions to the conflict. The
 
-## Traffic restrictions in Delhi today over Masoom ka Tazia procession: Check timing, diversions
-The religious procession will begin at Jama Masjid and head to Ajmeri Gate Chowk crossing Chawri Bazar Road and Ajmeri Gate Road.
+## MP students reach collectorate, allege loss of study due to teachers' 'closeness'
+The students reached the Chhindwara collectorate during a public hearing to raise their complaint.
 
-## Gen Z thinks differently, but ‘that doesn’t make them wrong’: Ex-Army chief MM Naravane
-MM Naravane said young people do not intend to harm the country and believe that their actions are aimed at bringing about positive change.
+## Jagan challenges Naidu to order CBI probe into APPSC Group-I exam irregularities
+Former Andhra Pradesh CM Jagan challenged CM Naidu to order a CBI probe into alleged APPSC exam irregularities, defending the process under his government.
 
-## Mumbai civic body is hiring Gen Z on Rs61,500 stipend: Here's who is eligible and how to apply
-The age limit for BMC Gen Z Fellowship 2026 is below 28 years at the time of application.
+## ‘Vijay remained silent, Shivakumar spoke openly on Mekedatu project’: DMK on South CMs-Amit Shah meeting
+DMK alleged that DK Shivakumar openly argued in favour of the Mekedatu project while CM Vijay did not directly oppose it during the meeting.
 
-## Shot wife at work, put ‘betrayal’ WhatsApp status: How Lucknow murders unfolded in 2 hours | Timeline
-Divya Mishra's sister, said her sister had recently observed a Teej fast for Bajpayee, making the violence that followed particularly “unexpected”.
+## Centre allows duty-free import of raw sugar to curb surging prices
+The Centre has allowed 1 million tonnes of raw sugar to be imported duty-free until October 31 as domestic prices climb ahead of the festive season
 
-## ‘We are on India’s side’: Polish envoy backs right to pursue terrorists
-The Polish envoy spoke of ties between the two countries and recalled how Maharaja Jam Sahib sheltered Poland's children during WWII.
+## Centre denies permission to Revanth Reddy for US visit, his office claims
+Revanth Reddy, who is currently in London, had planned to travel to the US before returning to Hyderabad on August 30.
 
-## Telangana Congress rift deepens as party takes action against leaders over ‘anti-CM’ remarks
-The PCC committee condemned remarks made by Sushmita, while the party emphasizes the seriousness of rising rebellion within its ranks.
+## Jharkhand examination irregularities: SC to hear plea for CBI probe on Monday
+The plea comes against the backdrop of a 26-day agitation by job aspirants in Jharkhand over alleged irregularities in recruitment examinations
 
-## Posed as Lok Sabha employee, promised ₹50,000 job: CBI arrests man on the run for 10 years
-He was booked on July 13, 2009, for allegedly impersonating a Lok Sabha employee and promising the person employment in Parliament in exchange for money.
+## Elon Musk pitches Starlink for India, says it would help the ‘least served’
+Starlink, the satellite broadband service of SpaceX, aims to provide high-speed internet using a network of thousands of satellites placed in low-Earth orbit.
 
-## Govt gives rupee export earnings same benefits as dollar, euro payments
-The Directorate General of Foreign Trade (DGFT) amended the FTP 2023 with immediate effect to align it with the RBI’s 2023 foreign exchange rules.
+## Sajjan Kumar, convicted for role in 1984 riots , dies
+He was serving life imprisonment for his role in the violence, which resulted in the deaths of many Sikhs. His controversies plagued his political career.
 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
