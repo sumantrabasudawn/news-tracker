@@ -60,8 +60,17 @@ The anchor placement attracted mutual funds, insurers and foreign investors, set
 ## Editorial. Resource guzzlers
 Data centres should account for water, power demands
 
+## Tariffs are over-emphasised, says BCG chief
+
+
+## Tariffs alone don't guide investment calls: Aditya Birla
+
+
 ## Middle East, Russia crisis: India new ‘swing supplier’ for refined oil products. Can it sustain?
 Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Russia.
+
+## PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit
+India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe head
 
 ## Gold, silver shine brighter: Bullion prices hit 3-month highs as weak dollar boosts demand
 Gold and silver prices climbed significantly on Friday, reaching levels not seen in over three months. A weaker US dollar and positive global market trends encouraged buying in both precious metals. Gold of 99.9 percent purity rose by Rs 1,200 to Rs 1,63,500 per 10 grams. Silver posted an even stron
@@ -74,15 +83,6 @@ Venezuela has emerged as a much larger supplier to India in August till now, wit
 
 ## US stock market today: Wall Street rises as bond market steadies
 Most US companies have delivered stronger-than-expected spring earnings, helping fuel the stock market's recent advance to record levels. Over longer periods, stock prices generally tend to track the direction of corporate profits.
-
-## Chinese stake rules eased: India sees 29 FDI proposals worth Rs 4,895.65 crore; check details
-The 29 investment proposals have come from investors and entities based in several jurisdictions, including Mauritius, the US, South Korea, Japan, Singapore, Luxembourg and the Cayman Islands.
-
-## SBI cash withdrawal rules change from October 1: Rs 15 fee after four free transactions
-SBI customers will face charges for cash withdrawals exceeding four free monthly transactions. A fee of Rs 15 plus GST applies to Basic Savings Bank Deposit accounts. Digital transactions remain free, and Aadhaar Enabled Payment System transactions are now counted. Interest rates on bulk term deposi
-
-## Why India is betting $1.2 billion on homegrown construction equipment
-India plans a $1.2 billion incentive scheme for advanced equipment manufacturing. This initiative aims to reduce reliance on China for critical machinery. The government expects fresh investment and domestic production growth over seven years. The scheme will cover tunnel boring machines and fire-fi
 
 ## Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks
 Assam cab operators continued the highway blockade over attacks on Assam residents in Shillong, despite talks between the chief ministers of Assam and Meghalaya
@@ -132,6 +132,9 @@ A court in southern China’s Guangdong province formally accepted a bankruptcy 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
+## Trump Needs China’s Help to Effectively Sanction Iran
+But Tehran’s top crude buyer appears unwilling to play ball.
+
 ## Why We Are Living Through ‘Hyperpolitics’
 Anton Jager explains why record voter turnout isn’t leading to systemic change.
 
@@ -152,9 +155,6 @@ A new survey reveals a preference for the U.S. president’s transactional appro
 
 ## Trump’s Twin Blunders
 The U.S. president has simultaneously demolished key relationships in East Asia and the Middle East.
-
-## The U.S. Is Learning the Wrong Lessons in Iran
-Tactical excellence can never salvage strategic incompetence.
 
 ## A New Japanese Drydock and the Limits of Allied Cooperation
 Japanese shipyards are expanding, but the future space may already be spoken for.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US Supreme Court allows Trump’s ballroom project to continue for now
+The Trump administration has argued the $400m White House ballroom is needed for national security purposes.
+
+## Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices
+The president did not mention with whom he made the deal or where the imported ground beef is coming from.
+
+## US court slashes Alex Jones fines for Sandy Hook school shooting case
+Court cuts Infowars founder's penalty for false claims that school shooting was a 'hoax' from $50m to $1.5m.
+
+## Libya rivals test a new path towards unity, 15 years after Gadaffi downfall
+Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.
+
+## US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms
+Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.
+
+## Palestinian victims of Israeli settler attacks face battle for justice
+Palestinians with missing relatives are marking International Day of Remembrance and Tribute to Victims of Terrorism.
+
 ## Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant
 Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel's attacks on Global Sumud Flotilla activists.
 
 ## Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta
 A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.
-
-## Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
-Real Madrid kickoff their campaign at Espanyol in Barcelona as Jose Mourinho's targets winning La Liga return.
-
-## Drone strike on Ukraine shopping centre kills 14, over 100 injured
-A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100
-
-## Former Pakistan PM Imran Khan taken back to prison after hospital check-up
-Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.
-
-## Russian drone attack on busy shopping centre kills 14 in Ukraine
-Ukraine's Volodymyr Zelenskyy slams 'cynical and despicable' attack on his hometown Kryvyi Rih that injured over 120.
-
-## How is drought hitting UK farming?
-After months of heatwaves and unusually dry weather, officials say as much as two-thirds of England is in drought.
-
-## Arsenal sign Konsa from Villa as Premier League holders bolster defence
-England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
