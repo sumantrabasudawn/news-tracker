@@ -1,13 +1,16 @@
 # AION Intelligence
 
-## Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM
-Plan would create an Italian banking giant valued at about €70bn
+## The Liberal Democrats’ problem is not unique
+Western liberal parties are struggling to win ‘market cosmopolitan’ voters despite sharing their values
+
+## Imran Khan moved from Pakistan jail to hospital and back again
+Popular former prime minister received treatment after Supreme Court order
 
 ## UK posts unexpected budget deficit of £1.8bn in July
 Latest borrowing data underscores challenge facing chancellor John Healey ahead of his first Budget
 
-## Imran Khan moved from Pakistan jail to hospital and back again
-Popular former prime minister received treatment after Supreme Court order
+## Monte dei Paschi launches twin takeover bids to create €70bn Italian bank
+Latest twist in a protracted run of consolidation of Italian financial services groups
 
 ## FTAV’s further reading
 GTA 6 leaks; elastic expectations; Russia’s Wikipedia clone; LinkedIn dating; perv glasses
@@ -21,9 +24,6 @@ Bank of Japan under pressure to act on rates in September as yen weakens despite
 ## Healey warned to limit Budget borrowing amid bond sell-off
 New chancellor plans to stay ‘well within’ Labour’s fiscal rules, say allies
 
-## Feminism didn’t kill the male breadwinner model, the economy did
-Young non-graduate men face unique setbacks
-
 ## How money-market funds are providing stock market rocket fuel
 An ABC on ABCPs
 
@@ -36,32 +36,29 @@ So long as the region’s wealth accumulation continues to outpace that of most 
 ## The battle over golf’s future
 New management wants the sport to become more commercial, but others worry billionaires have too much say
 
-## London’s cabbies prepare to battle the robotaxis
-Private-hire drivers are bracing for a new wave of technological change
-
-## Silver price rises ₹2,369 to ₹2.45 lakh per kg
-Fresh positions built up by participants led to a rise in silver prices, analysts say
+## Gold climbs to near three-month peak after US Treasury move
+Gold rises on back of softer dollar and US Treasury’s bond buyback move
 
 ## Sensex today | Stock Market Live: Sensex rises 100 pts after flattish opening, Nifty trades around 24,260; Power Grid Corp, Kotak Mahindra Bank top gainers
 Sensex, Nifty, Share Prices LIVE: Benchmark equity indices Sensex and Nifty were trading marginally higher in early deals on Friday as elevated crude oil prices due to geopolitical uncertainties and a sharp fall in US markets made investors cautious.
 
-## Crude oil price falls in futures trade on weak global cues
-Crude oil futures for September delivery slip by ₹18, or 0.22%, to ₹8,286 per barrel on MCX
+## Tube Investments raises stake in Shanthi Gears to 73.16% via ₹77.49 crore block deal
+The company bought 20,64,713 equity shares of SGL at a face value of Re. 1 each, at a total cost of approximately ₹77.49 crore in an all-cash transaction
 
-## India's first large-scale biopolymer plant in UP set for October launch
-Kheri District Magistrate Anjani Kumar Singh stated that the entire process, from local sugarcane to PLA-based bioplastic, will occur on one campus
+## Bitcoin set for biggest weekly gain in more than two years
+Bitcoin advances almost 20% this week
 
-## Gold price climbs ₹1,432 to ₹1.60 lakh/10 gm on firm spot demand
-Fresh positions by market participants led to a rise in gold prices, analysts say
+## Quadria Capital-backed Nobel Hygiene files papers with SEBI to raise funds via IPO
+The proposed IPO comprises a fresh issue of shares worth up to ₹150 crore and an offer-for-sale of up to 1.55 crore equity shares by existing investors
 
-## ICICI Bank doubles overseas borrowing limit to $5 billion
-ICICI Bank has already ‌raised $2.05 billion through dollar debt in the past month
+## PSU Banks top alpha pick as OmniScience Capital stays overweight on banking sector
+CEO Vikas Gupta described the banking sector as “completely mispriced,” highlighting that PSU banks are undervalued despite strong growth and their cleanest balance sheets in decades
 
-## Economic growth may beat RBI’s 6.7% forecast, Gupta says
-Gupta’s optimistic outlook highlights strong economic resilience, with forecasts of 7.5% growth driven by favorable external accounts and rising foreign investment
+## Netweb Technologies raises ₹1,200 crore via a QIP at ₹4,790 per share; stock hits 52-week high
+25,05,219 equity shares were allotted to marquee institutional investors at a 1.96% discount to the floor price
 
-## Canada's Fairfax may get 2 years to consolidate holdings for IDBI Bank deal, sources say
-The Canadian investor is likely to ‌be given up to two years to either sell its stake in CSB Bank or merge it with IDBI Bank, sources said
+## US issues details of new Green Card rules coming into effect from September 18
+New guidelines emphasise the importance of submission dates, with USCIS warning that outdated forms will be rejected, impacting many Indian nationals amid ongoing visa backlogs
 
 ## World’s most powerful: Indian Railways eyes 35 hydrogen trains; looks at cheaper green fuel
 India currently has the world's most powerful hydrogen train in operation and has also established a dedicated facility for manufacturing and supplying hydrogen for the train. The initial target is to deploy 35 hydrogen-powered trains on heritage routes.
@@ -87,29 +84,32 @@ Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering 
 ## Stock market today: Sensex gains 0.21%, Nifty50 rises above 24,280
 
 
+## Mathrubhumi launches Onam campaign highlighting Keralam's enduring values
+Mathrubhumi launches Onam campaign highlighting Keralam's enduring values
+
+## Indian national Kamal on FBI’s Most Wanted list over alleged Lawrence Bishnoi gang links
+A federal arrest warrant for Kamal was issued on July 1, 2026, by the US District Court for the Central District of California in Los Angeles.
+
+## Champat Rai letter: Nripendra Misra-led panel cleared all Ram Temple decisions
+Nripendra Misra, who led construction committee, said he has not seen Rai’s letter
+
+## JP Nadda to review Delhi’s H1N1 situation today amid rise in swine flu cases
+Union health minister JP Nadda will hold a meeting with Delhi health minister and senior officials amid a reported rise in swine flu cases.
+
+## Indian soldiers polish Muay Thai skills in joint drills
+The exercise involves 85 personnel each from the Indian Army and the Royal Thai Army, represented by troops from the 9 Gorkha Rifles and the 3rd Battalion, 25th Infantry Brigade, respectively
+
+## MeitY consultation says blanket social media ban for children won’t be effective
+HT has learnt that NCPCR is currently in the process of creating a social media code of conduct for social media platforms, including Instagram, Facebook to strengthen safeguards for children online
+
+## Odisha flood situation eases as water level falls in major rivers, no heavy rains for 48 hours
+Odisha flood situation eases as water level falls in major rivers, no heavy rains for 48 hours
+
 ## Vast swathes of farmlands still short of rain despite late spells
 Rainfall recovery has eased the overall monsoon deficit, but 117 of 262 districts flagged for weak-monsoon vulnerability
 
-## Jharkhand High Court stays cancellation of JSSC CGL, CDPO exams ordered by Hemant Soren govt
-Jharkhand High Court stays cancellation of JSSC CGL, CDPO exams ordered by Hemant Soren govt
-
-## IndiGo's website hit by disruption for second time in a week, customers unable to book tickets
-Users were unable to book flights and were shown a "no data available" message on IndiGo's website.
-
-## Rahul Gandhi sits on dharna at police station amid row over pellet gun use during Delhi protests
-Rahul Gandhi reached the police station with the student, who was allegedly injured by pellet-gun fire during a protest in Delhi.
-
-## ‘Reservation Hatao’ protest gets Delhi Police nod, to be held at Ramlila Ground today
-Delhi Police has given a no-objection certificate for a peaceful protest under the “Reservation Hatao Andolan” at Ramlila Ground on Friday
-
-## BJP rejects CJP’s ‘goon attack’ charge in Jaipur: ‘They must now learn a lesson’
-Rajasthan BJP minister Jawahar Singh Bedham alleged that Congress workers were operating behind the CJP. Ashutosh Ranka claimed, ‘BJP goons were sent to kill.’
-
-## Approval granted for conferring President's Medal for Gallantry on former cop: Centre to SC
-Approval granted for conferring President's Medal for Gallantry on former cop: Centre to SC
-
-## 'What the ** is happening?': Abhijeet Dipke slams alleged attack on Ashutosh Ranka in Jaipur
-The incident took place near Rampura Kanwarpura village, where Ashutosh Ranka and his team were on their way to inspect a dilapidated government school.
+## HKEX gold futures smash delivery record as US sanctions reshape trade
+Hong Kong Exchanges and Clearing (HKEX) has reported record-breaking physical deliveries and a trading surge in its US dollar-denominated gold futures contract, underscoring the city’s ambition to become a global hub for the precious metal amid widening trade restrictions by the United States. The b
 
 ## Evergrande’s US$1.31b fine, China cuts US Treasury holdings: the numbers moving markets
 While investors saw Beijing’s holdings of US government debt shrink and US Treasuries yield rise, a life sentence for China Evergrande Group founder Hui Ka-yan marked a symbolic end to an era of breakneck expansion in the country’s property sector. Here are some of the figures that have drawn the mo
@@ -131,9 +131,6 @@ Hong Kong’s noncore office market is still plagued by high vacancy rates and w
 
 ## Pop Mart shares slump as Chinese toymaker warns it may miss 20% sales growth target
 Shares of Chinese toymaker Pop Mart International Group slumped after the company’s management said it could miss the full-year 20 per cent sales growth target it had previously set. Its shares fell as much as 8.9 per cent to HK$140.10 before paring the losses to 4.2 per cent at HK$147.70 as of 10am
-
-## Henderson Land posts 66% profit surge after run of strong sales
-Henderson Land Development, one of Hong Kong’s largest developers, reported a 66 per cent rise in its interim profit for the first half of the year following a strong run of property sales, according to its filing with the Hong Kong stock exchange on Thursday. The developer, controlled by the family
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -231,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli settlers set fire to Palestinian home while family asleep
+Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
+
+## Europe, Canada condemn Israeli plans for new West Bank settlement
+The 'unacceptable' E1 plan carries 'legal and reputational consequences' for those participating, European nations warn.
+
 ## Australian Hussey open to Ashes Test role as England make approach
 Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England's new red-ball coach.
 
@@ -248,12 +251,6 @@ Activist group says the 'twisted' Hong Kong judicial system had long ago decided
 
 ## Pakistan’s Imran Khan back to prison after evaluation at hospital
 Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
-
-## After GERD, can Egypt shape Ethiopia’s next Nile dams?
-Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.
-
-## Brazil launches AI supercomputer push while balancing US and Chinese tech
-The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
