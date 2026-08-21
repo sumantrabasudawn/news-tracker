@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## North Korea’s economy enjoys rare ‘dash for flash’
+Kim Jong Un’s backing for Russian war on Ukraine fuels construction boom and sales of luxury goods
+
+## Shanghai’s answer to Nasdaq outstrips Hong Kong amid Chinese tech frenzy
+Star 50 index up almost a quarter this year, leaving rivals behind
+
+## India’s troubled SpiceJet wrangles a last-minute break
+Also in this newsletter: food safety regulator cracks the whip
+
 ## What is Bessent doing with the $32tn Treasury market — and will it work?
 US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs
 
@@ -15,23 +24,29 @@ Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeez
 ## Tory peer’s free speech group urged Vance to lobby UK government
 Free Speech Union called on vice-president to focus on censorship at time of Starmer visit to US last year
 
+## Panama Canal to cut daily transits as El Niño grips region
+Authority plans to reduce number of passages for only the second time
+
+## Founder who blamed $300mn fraud on head injury sentenced to prison
+Judge accepts injury contributed to Christine Hunsicker’s crime as he sentences her to five years in prison
+
 ## Guggenheim loan trades in distressed territory after investor call
 Chief executive Mark Walter’s business empire has come under pressure amid probe into his insurance holdings
 
 ## Quant funds rocked as Treasury boosts buybacks and Moderna shares leap
 Tumultuous session puts further pressure on momentum trades that have been unsettled since AI-related stock sell-off
 
-## Brazilian municipalities join BHP and Vale dam collapse payout scheme
-Nineteen authorities reach agreement over 2015 disaster in blow to English High Court class action
+## SEBI’s swift ban on JPMorgan unit seen as warning to traders
+Crackdown underscores SEBI’s determination to ensure success of Closing Auction System
 
-## India’s troubled SpiceJet wrangles a last-minute break
-Also in this newsletter: food safety regulator cracks the whip
+## Ships passing through Hormuz hover in single digits, data shows
+Of the total, four ships entered and three exited the waterway, which handled nearly a fifth of global crude oil and LNG shipments before the war began in February
 
-## Panama Canal to cut daily transits as El Niño grips region
-Authority plans to reduce number of passages for only the second time
+## Sensex today | Stock Market Live: Markets poised for higher open amid caution over oil, bond stress
+Sensex, Nifty, Share Prices LIVE: Indian shares are set to open slightly higher on Friday after snapping a ​run of losses, though elevated crude oil prices and ‌pressure in global bond markets kept sentiment ​cautious
 
-## Founder who blamed $300mn fraud on head injury sentenced to prison
-Judge accepts injury contributed to Christine Hunsicker’s crime as he sentences her to five years in prison
+## Markets poised for higher open amid caution over oil, bond stress
+GIFT Nifty points to positive start; elevated crude and global bond market pressure keep sentiment cautious
 
 ## Centre holds national workshop to strengthen capacity-building under Jal Jeevan Mission 2.0
 The consultation focuses on strengthening the content, pedagogy and field applicability of the modules, drawing on state and UT experiences and field realities to support their finalisation and effective rollout under JJM 2.0
@@ -39,23 +54,17 @@ The consultation focuses on strengthening the content, pedagogy and field applic
 ## Magnitude 6.7 earthquake shakes Peru's southern Andes, USGS says
 The earthquake was felt in several regions of southern Peru, including Ica and Arequipa
 
-## Sensex today | Stock Market Live: Stock to buy today: DCM Shriram (₹1,076)
-Sensex, Nifty, Share Prices LIVE: The stock of DCM Shriram has been consolidating since early June. That is, it has been oscillating between ₹980 and ₹1,065
-
 ## Augmont Enterprises IPO opens today at ₹750-788
 ₹825-crore issue includes ₹620-crore fresh issue; company raised ₹246.29 crore from 14 anchor investors
 
 ## IGEL Brings Now & Next Workspace & Endpoint Security Summit to Melbourne, Australia
 IGEL Brings Now & Next Workspace & Endpoint Security Summit to Melbourne, Australia
 
-## NagaWorld Earns Great Place To Work® Certification™ in 2026 with an Outstanding 97% Trust Index™ Score
-NagaWorld Earns Great Place To Work® Certification™ in 2026 with an Outstanding 97% Trust Index™ Score
+## Top stocks to buy today: Stock market recommendations for August 21, 2026 - check list
+Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering - these are the top stocks to buy identified by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for August 20, 2026. Let’s take a look:
 
-## Buzzing stocks: Welspun Corp, Leapfrog, Rane (Madras), Niva Bupa, RailTel Corp, Walchandnagar, KIMS
-Key stock updates: Welspun Corp’s historic order, Leapfrog’s PLC contract, and significant moves by Rane, Niva Bupa, and others
+## Stock market today: Sensex, Nifty eye higher opening after breaking 7-day losing streak
 
-## Narwhal tusk mystery unraveled: Hidden double spiral gives it strength and stability
-The discovery reveals how an unusual dental structure may give narwhals a remarkably strong and stable tusk despite its extraordinary length
 
 ## US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz
 The United States is preparing unprecedented sanctions against Iran. These measures aim to increase economic pressure on Tehran significantly. Washington also seeks cooperation from China regarding Iranian oil trade. China rejects sanctions and advocates for diplomatic solutions to the conflict. The
@@ -75,35 +84,32 @@ Trusts Chairman Noel Tata, Another Trustee Meet HDFC's Ex-Chairman Deepak Parekh
 ## Government to amend investment treaty to woo global players
 To Allow International Arbitration In A Year Instead Of 5 Yrs
 
-## In F&O space, big boys profit at retail's expense: Sebi study
+## Telangana Congress rift deepens as party takes action against leaders over ‘anti-CM’ remarks
+The PCC committee condemned remarks made by Sushmita, while the party emphasizes the seriousness of rising rebellion within its ranks.
 
+## Posed as Lok Sabha employee, promised ₹50,000 job: CBI arrests man on the run for 10 years
+He was booked on July 13, 2009, for allegedly impersonating a Lok Sabha employee and promising the person employment in Parliament in exchange for money.
 
-## Core sector growth rises to 5.4% in July
+## Govt gives rupee export earnings same benefits as dollar, euro payments
+The Directorate General of Foreign Trade (DGFT) amended the FTP 2023 with immediate effect to align it with the RBI’s 2023 foreign exchange rules.
 
+## HC steps in after CRPF deployed in tense Shillong
+The Meghalaya high court took suo motu cognizance of the violence during the Khasi Students’ Union (KSU) black-flag bike rally in Shillong hours after the Centre approved deployment of deployment of four companies of CRPF and one company of Rapid Action Force (RAF) in the state till August 25, offic
 
-## Jadavpur University logo damaged in Kolkata campus after ABVP, Left student wings clash
-Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.
+## Tejpal moves SC, challenges his conviction, jail term in rape case
+Two days after the Goa government moved the Supreme Court seeking enhancement of former Tehelka editor Tarun Tejpal’s 10-year jail term to life imprisonment, Tejpal on Thursday approached the top court challenging his conviction and sentence in the 2013 sexual assault case involving a junior colleag
 
-## Congress-ruled Karnataka, Kerala, Telangana to challenge new mining law in Supreme Court
-The states oppose the law because it stops state governments from imposing taxes or levies on mineral rights and mineral-bearing land.
+## Structures near visa section of Pak high commission removed
+Indian authorities removed queue management barriers and unauthorised structures outside the Pakistan high commission in a tit-for-tat action following the removal of certain structures outside the Indian mission in Islamabad, people familiar with the matter said on Thursday
 
-## ‘Sab ulta ho gaya’: Shehzad Poonawalla says ‘Congi ecosystem’ is paying journalists to attack him after BJP exit
-In a late-night video, Shehzad Poonawalla said Congress members reached out to him expecting him to turn against the BJP.
+## 45 projects to explore critical minerals in Bastar cleared
+Raipur : Chhattisgarh has cleared 45 mineral exploration projects for 2026-27, including blocks containing lithium, graphite, rare earth elements and other critical minerals, as the state looks to expand its mineral resource base and step up exploration in southern Bastar
 
-## What was discussed at Amit Shah's meet with Vijay, Shivakumar, other South CMs?
-The states agreed with the home minister’s suggestion to resolve pending water disputes expeditiously through mutual dialogue and constructive solutions.
+## India, Singapore deepen ties in telecom, food security, nuclear pacts
+India and Singapore signed agreements on telecommunications and food safety while exploring cooperation in nuclear technology, semiconductors, space and cybersecurity
 
-## 1984 anti-sikh riot survivors feel Sajjan Kumar evaded justice: 'Dying in jail not enough'
-After decades of waiting for justice, many said his death in jail felt like an abrupt end to a battle they had hoped would culminate in the harshest punishment.
-
-## Two vessels with 22 Indians on board hijacked by pirates near Yemen, Somalia
-Two vessels carrying a total of 22 Indian nationals were hijacked in separate incidents off Yemen and Somalia, according to officials.
-
-## Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged
-Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.
-
-## Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing
-Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing
+## Hong Kong’s stock benchmark may see more tech additions as review result looms
+More artificial intelligence companies may join the Hang Seng Index to increase the benchmark’s weighting towards technology, as the index compiler is due to reveal the result of its latest quarterly review on Friday. AI model developers MiniMax Group and Z.ai, known as Zhipu in China, are the most 
 
 ## Hong Kong financiers press for tax breaks after Singapore unveils rival scheme
 Hong Kong should press ahead with its proposed tax break on carried interest, the performance fees earned by hedge fund and private equity managers, after Singapore unveiled a rival tax-exemption scheme, according to industry participants. The bill, submitted to lawmakers in June and expected to com
@@ -111,8 +117,8 @@ Hong Kong should press ahead with its proposed tax break on carried interest, th
 ## Hong Kong buyers hunt for bargains in city’s battered noncore office market
 Hong Kong’s noncore office market is still plagued by high vacancy rates and weak investor demand, but owner-occupiers are taking advantage of the downturn to buy up office space at steep discounts. The latest example is the Estate Agents Authority (EAA), which agreed a deal earlier this month to bu
 
-## China’s Pop Mart to buy back shares worth up to US$740m as collectible-toy demand cools
-Chinese toymaker Pop Mart International will launch a share buy-back plan worth up to 5 billion yuan (US$740 million) over the next six months, it said after the market closed on Thursday. The buy-back of between 2 billion yuan and 5 billion yuan comes amid softer domestic sales and normalising dema
+## Pop Mart shares slump as Chinese toymaker warns it may miss 20% sales growth target
+Shares of Chinese toymaker Pop Mart International Group slumped after the company’s management said it could miss the full-year 20 per cent sales growth target it had previously set. Its shares fell as much as 8.9 per cent to HK$140.10 before paring the losses to 4.2 per cent at HK$147.70 as of 10am
 
 ## Henderson Land posts 66% profit surge after run of strong sales
 Henderson Land Development, one of Hong Kong’s largest developers, reported a 66 per cent rise in its interim profit for the first half of the year following a strong run of property sales, according to its filing with the Hong Kong stock exchange on Thursday. The developer, controlled by the family
@@ -125,9 +131,6 @@ Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its
 
 ## Shein pushes back Hong Kong debut to September amid delayed investor orders: sources
 Fast-fashion retailer Shein Global Holdings has pushed back its Hong Kong market debut until September 1, after a small delay in taking investor orders for its initial public offering (IPO) at a reduced valuation, according to sources familiar with the matter. Shein plans to introduce multiple corne
-
-## Japan faces a tough inflation-growth trade-off – and it’s not alone
-Global bond markets are throwing a tantrum. On August 17, the yield on 30-year US Treasury bonds hit 5.3 per cent, its highest level since 2007 and up from 4.8 per cent as recently as June 29. The average yield on long-term debt across the Group of 7 advanced economies is the highest since 2008. Sev
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -225,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Pakistan’s Imran Khan moved to hospital after Supreme Court order
+Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.
+
 ## After GERD, can Egypt shape Ethiopia’s next Nile dams?
 Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.
 
@@ -246,8 +252,8 @@ The Trump administration has ramped up deportations to third countries in an app
 ## Iran war live: US vows toughest Iran sanctions, urges China support
 US Treasury Secretary Bessent says new economic measures will 'collapse' Iranian government.
 
-## Houthis and government trade attacks as Yemen slides back to full-scale war
-Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
+## Beyond private capex: India Inc needs a new playbook
+Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
@@ -258,20 +264,17 @@ With the one time disclosure window now in force, the detailed rules set out who
 ## I-T unearths Rs 1.29 lakh cr foreign remittances
 The tax probe has found that a substantial portion of the money moved to a handful of overseas destinations. Singapore, the UAE, Hong Kong, Mauritius and China together accounted for 72.3% of the total remittances. Singapore emerged as the largest destination, receiving Rs 41,885 crore while Rs 18,3
 
+## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as 'SOCIAL' leads expansion, CFO says
+Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
+
 ## India regulator reviewing small-company IPO, delisting rules, chief says
 INDIA-SEBI-India regulator reviewing small-company IPO, delisting rules, chief says
-
-## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as Social leads expansion, CFO says
-Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
 
 ## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
 Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
 
 ## Sebi bans two entities for illegal sensex CAS trades
 The Securities and Exchange Board of India banned Copthall Mauritius Investments from trading. Mansi Share and Stock Broking also faced trading restrictions for similar illegal trades. Both entities allegedly manipulated the sensex Closing Auction Session on August thirteenth. Sebi impounded nearly 
-
-## Gujarat HC upholds GST on corporate guarantees, strikes down ‘whichever is higher’ clause
-The Gujarat High Court upheld Goods and Services Tax on corporate guarantees provided by holding companies. It struck down the 'whichever is higher' valuation method for these guarantees. The court ruled that actual consideration should be used when available for tax calculation. This decision impac
 
 ## India sees $80 billion in flows via subsidised swap windows, cenbank governor tells FE
 India's central bank anticipates nearly eighty billion dollars in inflows. These funds will bolster foreign exchange reserves through subsidized swap facilities. The Reserve Bank of India decided to close one scheme earlier than planned. Flows have been stronger than market participants expected. Th
