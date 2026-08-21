@@ -33,6 +33,18 @@ The world’s biggest chip company is using its balance sheet to seed new market
 ## Stripe bets that an AI world still needs middlemen
 Payments company’s purchase of OpenRouter makes strategic sense
 
+## Narwhal tusk mystery unraveled: Hidden double spiral gives it strength and stability
+The discovery reveals how an unusual dental structure may give narwhals a remarkably strong and stable tusk despite its extraordinary length
+
+## The new kingmakers: Crypto, AI and betting firms drive record spending in 2026 US midterms
+New political money is challenging Washington’s traditional corporate power brokers as emerging industries seek influence over regulation and election outcomes
+
+## US to impose ‘toughest sanctions in history’ on Iran, Bessent says
+The latest escalation comes as Washington seeks to tighten economic pressure on Tehran while keeping energy markets and China’s role in focus
+
+## AI reshapes India’s IT services sector as clients demand more for less
+India’s technology services sector is confronting a fundamental shift as clients rethink outsourcing, pricing and the value of large employee bases
+
 ## General Atlantic sells 8.75% stake in KFin Technologies for ₹1,400 crore
 The transaction saw several domestic and global institutional investors participate, while the company’s shares ended higher on Thursday.
 
@@ -42,44 +54,32 @@ The development could broaden the investor base for eligible BSE-listed companie
 ## Welspun Corp wins record ₹17,200-crore US pipe supply order
 Welspun Corp’s latest contract provides multi-year revenue visibility as the company expands manufacturing capacity and strengthens relationships across North America
 
-## BTS & ARMY: Inside a self-sustaining global brand ecosystem | Overthinker’s Anonymous | EP 01
-Did BTS just rewrite the rules of marketing?
+## Top Business & Market Headlines Today — BL Morning Report, August 21, 2026
+BL Morning Report, August 21, 2026: Get today’s top business news, market headlines about key market insights, economic highlights, and the latest updates from India and global markets.
 
-## Kamarajar Port issues tender for ₹4,288-crore second container terminal
-To be developed on DBFOT basis
-
-## HDFC Bank to raise $1.75 billion through senior notes; Moody’s assigns Baa3 rating
+## Government makes it easier for exporters to get paid in rupee
 
 
-## Angel Yeast's AHH Packaging Design Recognized with Red Dot Award
-Angel Yeast's AHH Packaging Design Recognized with Red Dot Award
+## Sensex CAS manipulated using large orders: Sebi
 
-## SEBI curbs cool F&O participation by 20%, but traders still lose ₹91,685 crore
-Active individual traders fall 20 per cent in FY26, first decline since FY16; average loss per trader rises 2.4 per cent
+
+## Noel Tata kicks off hunt for next Tata Sons chief
+Trusts Chairman Noel Tata, Another Trustee Meet HDFC's Ex-Chairman Deepak Parekh
+
+## Government to amend investment treaty to woo global players
+To Allow International Arbitration In A Year Instead Of 5 Yrs
+
+## In F&O space, big boys profit at retail's expense: Sebi study
+
+
+## Core sector growth rises to 5.4% in July
+
 
 ## 61.5% of women taking up G RAM G work shows positive indicator of rural livelihoods
 
 
-## US-Iran war brings Air India Group's international carriage down 35%, IndiGo's 15.4%
+## GDP may grow beyond projected 6.7%: RBI DG
 
-
-## Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks
-H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of unce
-
-## For 1st time in a decade, India to import 10 lakh tonnes of sugar
-Faces Possible 20% Decline In Opening Stock Of Sweetener
-
-## India's solar story: Cell shortage may be short-lived as capacity set to tripple
-India is set to boost its solar cell production capability in the near future. This project is designed to comply with local-content regulations and to close the existing supply deficiencies. By December 2027, a noticeable increase in cell output is anticipated, driven by new investments aimed at en
-
-## India eases rupee trade rules, provides exporters alternative to dollar settlements; what it means
-Economic think tank Global Trade Research Initiative (GTRI) said the change means eligible rupee payments for exports to countries other than Nepal and Bhutan will now qualify for FTP benefits and can also be counted towards meeting export obligations.
-
-## Govt allows duty-free imports of 1 million tons of raw sugar, signals price relief
-
-
-## US stock market today: Wall Street drops as Walmart, bond yields drag it lower
-On Wall Street, Walmart was the biggest drag on the S&P 500, with its shares plunging 8.7% despite the retailer reporting quarterly profit and revenue above analysts' expectations.
 
 ## Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged
 Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.
@@ -105,6 +105,9 @@ Around 22 transformers and 79 drinking water supply schemes have also been disru
 ## Himanta Biswa Sarma meets PM Modi in Delhi; discusses Assam floods, rehabilitation
 Assam CM Himanta Biswa Sarma met PM Modi in Delhi to discuss flood recovery, rehabilitation and rebuilding of areas hit by floods that killed 105 people.
 
+## Hong Kong financiers press for tax breaks after Singapore unveils rival scheme
+Hong Kong should press ahead with its proposed tax break on carried interest, the performance fees earned by hedge fund and private equity managers, after Singapore unveiled a rival tax-exemption scheme, according to industry participants. The bill, submitted to lawmakers in June and expected to com
+
 ## Hong Kong buyers hunt for bargains in city’s battered noncore office market
 Hong Kong’s noncore office market is still plagued by high vacancy rates and weak investor demand, but owner-occupiers are taking advantage of the downturn to buy up office space at steep discounts. The latest example is the Estate Agents Authority (EAA), which agreed a deal earlier this month to bu
 
@@ -125,9 +128,6 @@ Fast-fashion retailer Shein Global Holdings has pushed back its Hong Kong market
 
 ## Japan faces a tough inflation-growth trade-off – and it’s not alone
 Global bond markets are throwing a tantrum. On August 17, the yield on 30-year US Treasury bonds hit 5.3 per cent, its highest level since 2007 and up from 4.8 per cent as recently as June 29. The average yield on long-term debt across the Group of 7 advanced economies is the highest since 2008. Sev
-
-## Chinese banks embrace cheaper short-term loan rates despite margin risks
-Chinese commercial banks have begun pricing corporate loans against a short-term interbank repo rate rather than the benchmark loan prime rate (LPR), a shift drawing sharp scrutiny from investors worried about the sector’s already thin profitability. The industry’s average net interest margin – the 
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -225,6 +225,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Taliban release two detained UN staff members in Afghanistan
+The two men, detained in the western city of Herat on August 9, were released on Thursday morning.
+
+## US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections
+The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.
+
+## Iran war live: US vows toughest Iran sanctions, urges China support
+US Treasury Secretary Bessent says new economic measures will 'collapse' Iranian government.
+
 ## Houthis and government trade attacks as Yemen slides back to full-scale war
 Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
 
@@ -239,15 +248,6 @@ New York mayor challenges $10,000 bonus law, citing conflict with collective bar
 
 ## Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order
 Khan, who was voted out of the office in April 2022, has been in prison for more than three years.
-
-## US pummels Cuban economy with new sanctions on mining, construction
-US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.
-
-## Landslide at illegal gold mine kills 13 people in Colombia
-At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.
-
-## Hundreds of Tibetans protest China’s ethnic unity law by shaving heads
-A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
