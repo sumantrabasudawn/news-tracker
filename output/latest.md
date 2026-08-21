@@ -39,29 +39,32 @@ Vectus Air Defense Systems marks former Navy Seal’s latest foray into private 
 ## FTAV Q&A: Darrell Duffie
 The money market savant on what the Fed should do about its balance sheet
 
-## Passenger-vehicle dealers eye 10–12% revenue growth as ancillary income rises to 16% of revenue
-India’s car market is entering a phase where stronger customer spending and recurring after-sales income are reshaping dealership economics and profitability
+## The Body Shop Strengthens Retail Footprint with New Store Launch at DLF Summit, Gurugram
 
-## The US energy infrastructure opportunity is structural, not one-off’: Welspun MD
-The contract, linked to a major Permian Basin export pipeline project, takes its global order book to about $4.4 billion, with more than 60-65% expected to be executed from the US over the next three to three-and-a-half years
 
-## The Latest Home Loan Interest Rates: Aug 21, 2026
-The Latest Home Loan Interest Rates: Aug 21, 2026
+## Zest Bespoke Catering Wins Platinum at the WeddingSutra Influencer Awards 2026 for Trendsetting Food Design
 
-## The Latest Fixed Deposit Interest Rates: Aug 21, 2026
-The Latest Fixed Deposit Interest Rates: Aug 21, 2026
 
-## Mangaluru region to be part of South Western Railway from October 1
-“Mangaluru area upto Ullal (inclusive) to be transferred from Palakkad division of SR to Mysuru division of SWR. The interchange points between SWR and SR will accordingly shift from Padil to Ullal.”
+## Telawne Power Equipments Expands Operational Footprint by 61,837 Sq. Ft. to Support Global Power Infrastructure Growth
+New centralized warehouse and additional production bay strengthen manufacturing and supply-chain capabilities for power, renewable energy and infrastructure projects
 
-## Vembu Technologies eyes ₹500 crore India revenue in five years
-Vembu was part of the founding team of Zoho and eventually left the company to pursue his own entrepreneurial ventures
+## Govt set to approve $1.2 billion incentive scheme for construction equipment manufacturing: Sources
+Scheme aims to draw $1.8 billion in fresh investment, provide incentives over seven years, sources say
 
-## Tata Mutual Fund lifts curbs on investment in gold ETFs
-Tata MF restricted large lumpsum investment in its Gold ETF and Gold ETF Fund of Funds in June amid a surge in gold imports, which had put pressure on the rupee and the current account deficit
+## India receives 29 FDI proposals worth ₹4,896 crore under relaxed Chinese shareholding rules
+The revised framework is helping overseas investors navigate India’s market more easily, with proposals spanning technology, manufacturing, pharmaceuticals and infrastructure
 
-## Broker’s call: TVS Motor (Buy)
-Emkay Global
+## India’s actuarial body targets 30,000 members by 2031, bets big on AI and climate risks
+India’s insurance sector is poised for rapid expansion, creating greater demand for specialised expertise in risk assessment, technology and financial regulation
+
+## IIMR granted desgin patent for automated millet roti-making machine
+The innovation aims to make the preparation of millet-based rotis faster, more convenient and accessible for Indian households
+
+## Flying out of Bengaluru gets cheaper, but arrivals now face new airport fee
+The change effectively shifts Bengaluru airport’s UDF model from one largely borne by departing passengers
+
+## Chinese stake rules eased: India sees 29 FDI proposals worth Rs 4,895.65 crore; check details
+The 29 investment proposals have come from investors and entities based in several jurisdictions, including Mauritius, the US, South Korea, Japan, Singapore, Luxembourg and the Cayman Islands.
 
 ## Middle East, Russia crisis: India new ‘swing supplier’ for refined oil products. Can it sustain?
 Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Russia.
@@ -84,8 +87,14 @@ Telecom providers must stop individuals from obtaining more than nine mobile con
 ## Rupee continues to rally, opens 9 paise stronger against US dollar
 On Friday morning, the rupee showed signs of strength against the US dollar. Despite the upward trend, high crude oil prices and ongoing geopolitical tensions are pressuring the currency. The Reserve Bank of India anticipates notable foreign currency inflows this year, though these have yet to resul
 
-## Lip plumpers, collagen and more: How is Ozempic boosting a new beauty market
-Weight-loss drugs are creating new demands in beauty and nutrition sectors. Companies are developing products to address nutritional gaps and emerging beauty concerns. Nestle and Tata Consumer are preparing protein and fiber-rich offerings for these consumers. Beauty brands are promoting makeup alte
+## ‘Frustration': India snubs Pakistan after summons to US envoy over Sergio Gor's J&K remark
+Islamabad summoned US envoy and lodged protest against US ambassador Sergio Gor's remarks on J&K being an "important part of India".
+
+## Supreme Court judges, lawyers share bench in rare Lok Adalat to clear case backlog
+The litigants interacted freely with the judges, who settled several cases after ascertaining whether the parties who came with settlement deeds had done so consciously and without any pressure.
+
+## Bihar minister Shrawon Kumar faces backlash after 'diabetes' take on sugar price rise sparks reactions online
+Speaking about the rise in sugar prices, Kumar told the media that people are suffering from diabetes and thus the cost increase will not make much difference.
 
 ## Uttarakhand: 4 arrested after two groups clash, open fire in Dehradun
 Four people were arrested after two groups of youths clashed and opened fire in Dehradun’s Patel Nagar, leaving one person injured, police said.
@@ -101,15 +110,6 @@ Delhi has recorded nearly 1,700 H1N1 cases this season as Union health minister 
 
 ## Delhi Police files FIR on pellet gun matter after Rahul Gandhi’s dharna over student’s complaint
 This comes hours after Lok Sabha Leader of Opposition Rahul Gandhi staged a dharna at Parliament Street Police Station
-
-## Centre says rise in sugar prices cannot be attributed to ethanol
-Sugar prices have risen sharply in recent weeks, increasing from ₹48.18 per kg on July 20, 2026, to ₹55.70 per kg on August 20.
-
-## Prajwal Revanna case: Key witness receives threat calls, court orders SIT probe, protection
-The Bengaluru special court directed the SIT to conduct a detailed inquiry and submit a report before the next hearing
-
-## 2 killed, 1 injured in clash between student groups in Haryana's Rewari
-The incident took place in Gokalpur village, where the three men were allegedly chased by a group.
 
 ## Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment
 Ping An Insurance (Group), China’s largest insurer in terms of market capitalisation, is eyeing investments in Hong Kong-listed exchange-traded funds (ETFs) to boost returns following Beijing’s green light for cross-border allocations, according to senior executives. “Allowing mainland insurance fun
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Djibouti Football Federation accused of misusing funds from FIFA
+FIFA and CAF provides more than $1m a year to Djibouti's federation, which faces corruption allegations over misuse.
+
+## War on Iran: The US could focus on economically isolating Iran
+The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
+
+## Several people injured in sword attack at school in Sweden
+One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.
+
+## Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets
+The US and Israel's war on Iran has upended global financial and energy markets.
+
+## Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN
+Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities
+
+## Liverpool preview: Five key questions heading into 2026-27 season
+Liverpool's new Spanish boss is tasked with making the club title challengers again, but he faces a number of issues.
+
+## Weddings in Gaza offer rare moments of joy amid genocide
+In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.
+
 ## El Nino set to be most intense ‘for over a century’: UK forecasters
 Met Office predicts 'unprecedented' sea surface temperature rise of 3C (5.4F) plus will heighten extreme weather risks.
-
-## South Korea footballers urge safety after extreme heat statistics
-South Korea professional football association urges stronger heat protections in face of rising temperatures.
-
-## Israeli soldiers throw belongings from besieged Palestinian home
-Israeli soldiers were filmed throwing belongings from Palestinian homes in Qusra.
-
-## Why are Hong Kong’s Tiananmen vigil organisers facing prison?
-Amnesty International said they ‘must be released immediately and unconditionally’.
-
-## China rejects US claim that Myanmar analyst wrongfully detained
-Min Zin was arrested on June 3 after the Chinese government invited him to attend a conference.
-
-## US allies in Asia wary as Trump moves military assets for Iran war
-Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.
-
-## Humanoid crashes during speed test as China’s robotics industry grows
-Humanoid crashes during speed test as China’s robotics industry grows
-
-## Six-year-old child dies after being slapped by teacher in India
-A six-year-old child has collapsed and died after being slapped by his teacher in India.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
