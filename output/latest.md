@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Burnham: To drill or not to drill?
+A North Sea decision looms. Plus, what Burnham can learn from Starmer’s mistakes
+
+## UK retail investors snap up gilts in wake of bond sell-off
+Surge in yields prompts buying of tax-efficient low-coupon securities
+
+## Apple paid $17bn in taxes to Ireland after court ruling on back levies
+New filings highlight iPhone maker’s global tax liabilities
+
+## Burnham’s summer tour turns into a cut-price honeymoon
+UK prime minister has managed to win over many voters despite offering only pledges that come with a low cost
+
 ## FirstFT: Scott Bessent’s bond buybacks lift gold and bitcoin
 Also in this newsletter: El Niño forces Panama Canal to cut traffic and Samsung outlines plans to return $80bn to shareholders
 
@@ -12,17 +24,8 @@ Inflation measures all moved closer to central bank’s target in July
 ## Waymo doubles spending on lobbying in robotaxi battle with Uber
 Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services
 
-## FTAV Q&A: Darrell Duffie
-The money market savant on what the Fed should do about its balance sheet
-
-## UK posts unexpected budget deficit of £1.8bn in July
-Latest borrowing data underscores challenge facing chancellor John Healey ahead of his first Budget
-
-## Samsung to return record $80bn to shareholders
-South Korean chipmaker has come under pressure to distribute more of its bumper profits from AI boom
-
-## The Liberal Democrats’ problem is not unique
-Western liberal parties are struggling to win ‘market cosmopolitan’ voters despite sharing their values
+## What is Jane Street?
+The question is more important than the answer
 
 ## How climate risk is starting to ‘cascade’ into the US economy
 Also in today’s newsletter, did companies pay a price for keeping DEI schemes under Trump?
@@ -33,29 +36,35 @@ Don’t rush in, there are many business risks for the maker of Claude
 ## Blackwater founder Erik Prince launches air-defence systems company
 Vectus Air Defense Systems marks former Navy Seal’s latest foray into private military and security services
 
-## ANA extends suspension of Narita-Chennai flights to March 2027
-It has suspended its operations between Narita and Chennai from March 29 to October 24, 2026 earlier
+## FTAV Q&A: Darrell Duffie
+The money market savant on what the Fed should do about its balance sheet
 
-## Grasim Industries targets ₹2 lakh crore revenue in FY27: Kumar Mangalam Birla
-The Aditya Birla Group flagship is expanding across housing, infrastructure, sustainable materials and clean energy while accelerating investments in emerging businesses.
+## Passenger-vehicle dealers eye 10–12% revenue growth as ancillary income rises to 16% of revenue
+India’s car market is entering a phase where stronger customer spending and recurring after-sales income are reshaping dealership economics and profitability
 
-## Preference for comprehensive health cover growing: HDFC ERGO General Insurance MD & CEO Parthanil Ghosh
+## The US energy infrastructure opportunity is structural, not one-off’: Welspun MD
+The contract, linked to a major Permian Basin export pipeline project, takes its global order book to about $4.4 billion, with more than 60-65% expected to be executed from the US over the next three to three-and-a-half years
 
+## The Latest Home Loan Interest Rates: Aug 21, 2026
+The Latest Home Loan Interest Rates: Aug 21, 2026
 
-## Delhi Master Plan 2047 offers redevelopment route for old residential colonies
-The proposed framework seeks to help residents collectively rebuild ageing neighbourhoods while improving housing capacity, roads, civic services and environmental infrastructure.
+## The Latest Fixed Deposit Interest Rates: Aug 21, 2026
+The Latest Fixed Deposit Interest Rates: Aug 21, 2026
 
-## AERA cuts Bengaluru airport UDF to ₹300 for domestic, ₹997 for international passengers
-The revised tariff structure will defer recovery of major infrastructure costs until projects are completed, commissioned and available for passenger use.
+## Mangaluru region to be part of South Western Railway from October 1
+“Mangaluru area upto Ullal (inclusive) to be transferred from Palakkad division of SR to Mysuru division of SWR. The interchange points between SWR and SR will accordingly shift from Padil to Ullal.”
 
-## Welspun Corp wins record ₹17,200-crore US pipe supply order
-Welspun Corp’s latest contract provides multi-year revenue visibility as the company expands manufacturing capacity and strengthens relationships across North America
+## Vembu Technologies eyes ₹500 crore India revenue in five years
+Vembu was part of the founding team of Zoho and eventually left the company to pursue his own entrepreneurial ventures
 
-## Selective UPI MDR Will Need Reliable Merchant Intelligence, Not Just a Pricing Rule
-Selective UPI MDR Will Need Reliable Merchant Intelligence, Not Just a Pricing Rule
+## Tata Mutual Fund lifts curbs on investment in gold ETFs
+Tata MF restricted large lumpsum investment in its Gold ETF and Gold ETF Fund of Funds in June amid a surge in gold imports, which had put pressure on the rupee and the current account deficit
 
-## India’s forex reserves rise $9.9 billion to $716.91 billion
-The latest increase follows a $14.14-billion rise in the previous week, bringing the reserves closer to their record high reached in February
+## Broker’s call: TVS Motor (Buy)
+Emkay Global
+
+## Middle East, Russia crisis: India new ‘swing supplier’ for refined oil products. Can it sustain?
+Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Russia.
 
 ## SBI cash withdrawal rules change from October 1: Rs 15 fee after four free transactions
 SBI customers will face charges for cash withdrawals exceeding four free monthly transactions. A fee of Rs 15 plus GST applies to Basic Savings Bank Deposit accounts. Digital transactions remain free, and Aadhaar Enabled Payment System transactions are now counted. Interest rates on bulk term deposi
@@ -78,10 +87,19 @@ On Friday morning, the rupee showed signs of strength against the US dollar. Des
 ## Lip plumpers, collagen and more: How is Ozempic boosting a new beauty market
 Weight-loss drugs are creating new demands in beauty and nutrition sectors. Companies are developing products to address nutritional gaps and emerging beauty concerns. Nestle and Tata Consumer are preparing protein and fiber-rich offerings for these consumers. Beauty brands are promoting makeup alte
 
-## Middle East oil squeeze: How much crude is actually flowing through Hormuz
-US officials assert that oil is moving through the Strait of Hormuz at a pace far exceeding market projections. External data indicates a drop in oil tanker activity and a decline in global stockpiles. This divergence raises questions about the true amount of crude oil flowing into worldwide markets
+## Uttarakhand: 4 arrested after two groups clash, open fire in Dehradun
+Four people were arrested after two groups of youths clashed and opened fire in Dehradun’s Patel Nagar, leaving one person injured, police said.
 
-## Delhi Police to file FIR after Rahul Gandhi’s dharna over student’s complaint: Report
+## Childhood buddy, girlfriend, then a body in car boot: Telangana woman killed by partner
+The alleged murder came to light when the police were informed about foul smell coming from a car parked in Elkathurthy mandal.
+
+## Maharashtra boy threatens to jump, parents chase to save. All 3 fall to death
+A boy who threatened to jump to death in dispute over phone fell off a cliff and died in Chhatrapati Sambhajinagar, so did his parents while trying to save him
+
+## Health minister JP Nadda reviews preparedness as Delhi sees surge in H1N1 cases
+Delhi has recorded nearly 1,700 H1N1 cases this season as Union health minister JP Nadda reviews surveillance and hospital preparedness amid a surge.
+
+## Delhi Police files FIR on pellet gun matter after Rahul Gandhi’s dharna over student’s complaint
 This comes hours after Lok Sabha Leader of Opposition Rahul Gandhi staged a dharna at Parliament Street Police Station
 
 ## Centre says rise in sugar prices cannot be attributed to ethanol
@@ -92,18 +110,6 @@ The Bengaluru special court directed the SIT to conduct a detailed inquiry and s
 
 ## 2 killed, 1 injured in clash between student groups in Haryana's Rewari
 The incident took place in Gokalpur village, where the three men were allegedly chased by a group.
-
-## Delhi University announces rollout of first Four Year Undergraduate Programme batch for direct PhD pathway
-DU rolled out its first batch of FYUP under the Undergraduate Curriculum Framework (UGCF) 2022, based on the National Education Policy (NEP) 2020.
-
-## DGGI busts clandestine pan masala, tobacco network in UP, detects ₹185 crore tax evasion
-DGGI officers bust clandestine pan masala, tobacco mfg network; detect tax evasion of ₹185 cr.
-
-## Stray dog menace forces 4-day closure of 10 schools in Chamoli's Narayanbagar
-Ten schools in Chamoli's Narayanbagar area have been ordered to remain closed following a rise in incidents involving stray and aggressive dogs.
-
-## ‘Having regard to age’: 105-year-old murder convict given Supreme Court relief to ‘live’ as free man
-The Supreme Court had, while granting him interim relief earlier, directed that he be released from custody subject to conditions imposed by the trial court.
 
 ## Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment
 Ping An Insurance (Group), China’s largest insurer in terms of market capitalisation, is eyeing investments in Hong Kong-listed exchange-traded funds (ETFs) to boost returns following Beijing’s green light for cross-border allocations, according to senior executives. “Allowing mainland insurance fun
@@ -129,6 +135,9 @@ An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerag
 ## Hang Seng Index adds major Chinese chipmaker as tech pivot continues
 Two new companies will be soon be added to the Hang Seng Index (HSI), increasing the constituents of Hong Kong’s bellwether stock index from 93 to 95, according to a statement from the Hang Seng Indexes Company released on Friday. The new entrants are Hua Hong Grace Semiconductor, one of China’s top
 
+## A Top Trump Ally Turns to China
+Washington has favored bullets over business in its dealings with slow-growing Ecuador.
+
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
 
@@ -149,9 +158,6 @@ The Freedom Tech Excellence Program also includes the Bitcoin Policy Institute a
 
 ## Israel and America Agree on Gaza’s New Leader
 The Trump administration’s peace plan has invested its hopes for Gaza’s future in the little-known Ali Shaath.
-
-## UAE Joins Global Efforts to Isolate Iran
-Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
 
 ## Vietnam Proposes Ending Death Penalty For 6 More Offenses
 At the same time, the government is introducing tougher sentencing provisions for acts deemed to undermine the state or the authority of the ruling Communist Party.
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## El Nino set to be most intense ‘for over a century’: UK forecasters
+Met Office predicts 'unprecedented' sea surface temperature rise of 3C (5.4F) plus will heighten extreme weather risks.
+
+## South Korea footballers urge safety after extreme heat statistics
+South Korea professional football association urges stronger heat protections in face of rising temperatures.
+
+## Israeli soldiers throw belongings from besieged Palestinian home
+Israeli soldiers were filmed throwing belongings from Palestinian homes in Qusra.
+
+## Why are Hong Kong’s Tiananmen vigil organisers facing prison?
+Amnesty International said they ‘must be released immediately and unconditionally’.
+
+## China rejects US claim that Myanmar analyst wrongfully detained
+Min Zin was arrested on June 3 after the Chinese government invited him to attend a conference.
+
+## US allies in Asia wary as Trump moves military assets for Iran war
+Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.
+
 ## Humanoid crashes during speed test as China’s robotics industry grows
 Humanoid crashes during speed test as China’s robotics industry grows
 
 ## Six-year-old child dies after being slapped by teacher in India
 A six-year-old child has collapsed and died after being slapped by his teacher in India.
-
-## US designates Hezbollah an Iranian proxy, sanctions funding network
-The US Treasury labels Lebanon-based group 'an extension' of the IRGC's Quds Force and takes aim at financing.
-
-## Bayern Munich’s Musiala collapsed on-field as a result of medication change
-Coach Vincent Kompany said Bayern were aware of Jamal Musiala's neurological disorder long before it was made public.
-
-## Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order
-Khan’s sister and personal physician describe a chaotic night as officials give conflicting accounts of his whereabouts.
-
-## How a Swedish Palestinian minister raised controversy with Star of David
-Incidents of anti-Semitism have been on the rise in Europe since Israel's genocidal war on Gaza began.
-
-## Sister of ex-Pakistan PM Khan says he is being tortured in jail
-The sister of Pakistan’s former prime minister Imran Khan says he told her he was being tortured in jail.
-
-## Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
-Experts say the project would partition the occupied West Bank, making the prospect of Palestinian statehood impossible.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
