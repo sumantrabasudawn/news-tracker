@@ -1,7 +1,7 @@
 # AION Intelligence
 
 ## Burnham hit by fiscal challenges as O’Neill declines government role
-£1.8bn deficit in July confounds economists’ expectations of a balanced budget as prime minister completes first month in office
+£1.8bn deficit in July confounds economists’ expectations as prime minister prepares for October Budget
 
 ## Italy’s MPS thinks three takeovers are better than one
 Crunching two banks together is challenging, and takes time; to attempt the same feat with four calls for some truly magical thinking
@@ -132,6 +132,15 @@ A court in southern China’s Guangdong province formally accepted a bankruptcy 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
+## A Land Without the Troubles?
+Northern Ireland’s most outlandish plan comes to fruition in Jan Carson’s new novel.
+
+## The Bolsonaro Inheritance
+Nepotism could tank the far right’s chances in Brazil.
+
+## What in the World?
+Test yourself on the week of Aug. 15: Trump praises Kim Jong Un, the U.S. and Iran miss a deadline, and the U.K. shrugs off Russian threats.
+
 ## Why Do Young Africans Love Donald Trump?
 A new survey reveals a preference for the U.S. president’s transactional approach.
 
@@ -146,15 +155,6 @@ Trump’s policies offer the region all the downsides of traditional U.S. policy
 
 ## A Top Trump Ally Turns to China
 Washington has favored bullets over business in its dealings with slow-growing Ecuador.
-
-## Trump’s Tech Tensions
-The administration’s latest strategy document tries to balance technological competition with cooperation.
-
-## The Clock Is Ticking Down on Another U.S.-Canada Trade War
-Senior Canadian officials are looking to make a deal to avoid new 50 percent U.S. tariffs.
-
-## The U.S. Bond Crisis Highlights a Deeper Fiscal Rot
-Scott Bessent is breaking the glass to check rising bond yields, but the fix is flawed.
 
 ## A New Japanese Drydock and the Limits of Allied Cooperation
 Japanese shipyards are expanding, but the future space may already be spoken for.
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How is drought hitting UK farming?
+After months of heatwaves and unusually dry weather, officials say as much as two-thirds of England is in drought.
+
 ## Arsenal sign Konsa from Villa as Premier League holders bolster defence
 England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).
 
@@ -248,9 +251,6 @@ Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of 
 
 ## What to know about the Freedom 250 Grand Prix, Trump’s capital car race
 The president says the 147-lap race will be an event 'like no other' as drivers zip through Washington, DC.
-
-## England thrash Pakistan by an innings and 103 runs in first Test
-Joe Root's return as England captain results in a thumping win inside three days against Pakistan in first Test.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
