@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## FirstFT: Scott Bessent’s bond buybacks lift gold and bitcoin
+Also in this newsletter: El Niño forces Panama Canal to cut traffic and Samsung outlines plans to return $80bn to shareholders
+
+## Dèy by Edwidge Danticat — a family under fire
+After witnessing a mall shooting, a Haitian-American mother questions her past, her relationships and the fragile safety she has built for her daughter
+
+## Food inflation adds pressure for Bank of Japan to act
+Inflation measures all moved closer to central bank’s target in July
+
 ## Waymo doubles spending on lobbying in robotaxi battle with Uber
 Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services
 
@@ -15,47 +24,38 @@ South Korean chipmaker has come under pressure to distribute more of its bumper 
 ## The Liberal Democrats’ problem is not unique
 Western liberal parties are struggling to win ‘market cosmopolitan’ voters despite sharing their values
 
-## Imran Khan moved from Pakistan jail to hospital and back again
-Popular former prime minister received treatment after Supreme Court order
+## How climate risk is starting to ‘cascade’ into the US economy
+Also in today’s newsletter, did companies pay a price for keeping DEI schemes under Trump?
 
-## Monte dei Paschi launches twin takeover bids to create €70bn Italian bank
-Latest twist in a protracted run of consolidation of Italian financial services groups
+## What retail investors need to know before jumping into Anthropic’s IPO
+Don’t rush in, there are many business risks for the maker of Claude
 
-## FTAV’s further reading
-GTA 6 leaks; elastic expectations; Russia’s Wikipedia clone; LinkedIn dating; perv glasses
+## Blackwater founder Erik Prince launches air-defence systems company
+Vectus Air Defense Systems marks former Navy Seal’s latest foray into private military and security services
 
-## FirstFT: Scott Bessent battles bond vigilantes
-Also in this newsletter: Healey’s deficit warning and HSBC’s job cuts
+## Power play
+It’s yet another Pulsar, but is it just another Pulsar? We find out, over a ride astride the four-valve Pulsar N 160 SS
 
-## How money-market funds are providing stock market rocket fuel
-An ABC on ABCPs
+## BMW X1 LWB: The Long Game
+The new BMW X1 LWB is all grown up and it’s easily better than ever before. Should this be your first step into the world of German luxury?
 
-## The new age of Big Law recruiting
-Wall Street firms are beginning to recruit students in their first semester of law school
+## TiE Mangaluru selected to drive first K-Combinator initiative in Karnataka
+The initiative will offer founders structured mentoring, investor access and market connections as emerging ventures move from validation towards early-stage growth
 
-## Kerala emerges as fast-growing carpooling market as passenger activity jumps 50%
-Strong highway connectivity and rising travel costs are encouraging more commuters to share rides, while regulatory clarity remains crucial for expansion
+## E20 Fuel: The hero India needs or the villain drivers fear? | Overthinker’s Anonymous | EP 02
+Why E20 fuel has everyone overthinking at the petrol pump.
 
-## Kerala Agricultural University launces cashew grafts as an alternative to plastic polybags
-The initiative marks a significant step towards introducing environment-friendly nursery practices in cashew and enhancing the value and utilization of coir-based biodegradable materials
+## Atomberg Technologies files DRHP for IPO to raise ₹450 crore through fresh issue
+IPO to fund brand building, R&D and debt repayment
 
-## Tea prices firm ahead of Onam holidays
-Orthodox leaf also witnessed strong demand, with 94% of the 2,56,527 kg offered being sold. The average price realisation increased by ₹3 to ₹180 a kg, compared with ₹177 in the previous week
+## Kamarajar Port issues tender for ₹4,288-crore second container terminal
+To be developed on DBFOT basis
 
-## TV ad volumes dip 7 per cent in January-July : TAM AdEx
-Advertisers moderated television spending during the period, even as several consumer categories and e-commerce recorded significant increases in promotional activity
+## Holtec International keen to set up SMR manufacturing facility in Gujarat
+The proposed facility could strengthen Gujarat’s energy manufacturing base as India seeks to expand nuclear capacity and develop advanced reactor technologies
 
-## India banks’ funding costs rise as RBI ends deposit window early
-The Reserve Bank of India surprised markets last week by announcing it would close a special dollar deposit window for overseas residents on Aug. 31, after the facility drew more than $50 billion
-
-## Sensex today | Stock Market Highlights: Nifty ends marginally higher, Sensex flat as markets post weekly losses
-Sensex, Nifty, Share Prices Highlights: Indian equities ended little changed on Friday, but both benchmark indices declined for the week as rising crude prices and global bond yields heightened inflation concerns. Banking stocks offered support, while IT shares remained under pressure amid worries o
-
-## GST registration for big biz: Centre, states working on uniform documents for faster approvals
-Proposal to be placed before the GST Council once agreed to by all states and the Centre
-
-## RBI Board reviews economic situation, risks to outlook at Chennai meeting
-Senior RBI officials and Central Board directors attended the meeting, which also reviewed the central bank’s operations, committees and Ombudsman Scheme.
+## Cochin Shipyard delivers third ASW shallow water craft ‘Mangrol’ to Indian Navy
+Equipped with shallow-water sonars, lightweight torpedoes and indigenous ASW rockets, the vessel is designed for coastal surveillance and underwater operations
 
 ## SBI cash withdrawal rules change from October 1: Rs 15 fee after four free transactions
 SBI customers will face charges for cash withdrawals exceeding four free monthly transactions. A fee of Rs 15 plus GST applies to Basic Savings Bank Deposit accounts. Digital transactions remain free, and Aadhaar Enabled Payment System transactions are now counted. Interest rates on bulk term deposi
@@ -81,29 +81,29 @@ Weight-loss drugs are creating new demands in beauty and nutrition sectors. Comp
 ## Middle East oil squeeze: How much crude is actually flowing through Hormuz
 US officials assert that oil is moving through the Strait of Hormuz at a pace far exceeding market projections. External data indicates a drop in oil tanker activity and a decline in global stockpiles. This divergence raises questions about the true amount of crude oil flowing into worldwide markets
 
-## Elon Musk pitches Starlink for rural India amidst stalled launch
-The latest TRAI data points to a worrying flat trajectory for mobile and broadband connection additions in rural regions
+## One dead, 3 injured after building collapses in Delhi's Karol Bagh
+One person died, while three others were injured in a building collapse in Dlehi's Karol Bagh.
 
-## Bhavnagar spurious liquor tragedy: 61 affected; 25 still in hospital; 10 critical
-Bhavnagar spurious liquor tragedy: 61 affected; 25 still in hospital; 10 critical
+## 'Despite our request...': India's tit-for-tat move against Pakistan mission explained
+MEA spokesperson Randhir Jaiswal says, “There were some temporary structures in the lane where the Pakistani High Commission is, and we removed them.”
 
-## A deep dive into offbeat Northeast
-A beautiful new travel series travels to some of the world’s oldest indigenous cultures in the Northeast. And comes away curious and inspired.
+## ‘You have 48 hours’: CJP gives ultimatum to Rajasthan education minister Madan Dilawar over Jaipur 'goon' attack
+CJP's Ashutosh Ranka gave Madan Dilawar a 48-hour ultimatum, demanding arrests and withdrawal of the order or warning of a statewide agitation.
 
-## SC seeks govt, CBSE’s response on permanent mechanism to address OSM glitches
-The government told the court that a one-week window was provided for aggrieved students to apply for revaluation, and 168,000 of them benefited
+## ‘Pleaded with her’: Amit Shah slams Mamata Banerjee over border land delay
+Amit Shah arrived in Bengal late Thursday evening for a two-day visit and inaugurated several projects related to border security
 
-## Woman, 1.5-month-old son found dead in Haryana, in-laws booked over SUV demand
-The woman, Sagufta, and her infant son were found dead at their home in Rajpura village on Thursday, police said.
+## Madhya Pradesh cop suspended for land deal to help murder accused walk free
+The family of the murder accused alleged that Katni police superintendent Neha Pachisia pressured them to sell 2.15 hectares of land in exchange for relief
 
-## Udhayanidhi Stalin dares TN CM to 'open' corruption files
-Udhayanidhi Stalin dares TN CM to 'open' corruption files
+## MEA on no permit for Telangana CM Revanth Reddy's US trip: Event wasn't appropriate to CM’s office
+The Telangana CM, who is in London currently, planned to visit the US and return to Hyderabad on August 30.
 
-## SC sets aside order allowing Dayanidhi Maran’s plea to summon telecom secretary as court witness
-SC sets aside order allowing Dayanidhi Maran’s plea to summon telecom secretary as court witness
+## ‘PR exposed on camera’: BJP alleges Congress paying influencers ₹25k to attend Rahul Gandhi's Pune event
+The BJP shared a purported video of a conversation between a social media influencer with a Congress worker who asks her attend the event and highlight it.
 
-## Student wellbeing dips in senior grades, girls report greater anxiety: Study
-Student wellbeing dips in senior grades, girls report greater anxiety: Study
+## ‘Rotten tomato’ beatings, wedding-night conditions: YouTuber Pragya Mishra makes shocking claims about Lucknow husband
+Calling Manas Bajpayee a “Psycho”, Mishra alleged that he would assault Divya over trivial matters, even if a tomato ordered on Blinkit turned out bad.
 
 ## Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment
 Ping An Insurance (Group), China’s largest insurer in terms of market capitalisation, is eyeing investments in Hong Kong-listed exchange-traded funds (ETFs) to boost returns following Beijing’s green light for cross-border allocations, according to senior executives. “Allowing mainland insurance fun
@@ -225,6 +225,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Closure of al-Makha port leaves workers and traders fearing for the future
+Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.
+
+## Who does the law serve in the occupied West Bank?
+Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.
+
+## Charter plane crash near Alaskan military site kills 8
+Rescuers who landed near the crash site 'confirmed there were no survivors'.
+
+## Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals
+Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.
+
+## Serie A: Key talking points heading into the new 2026-27 season
+Holders Inter Milan face challenge from reinvigorated AC and Juventus, while Napoli and Roma look to bounce back.
+
 ## Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?
 German authorities allege that Ukrainian scuba diver Volodymyr Zhuravlev was involved in the Nord Stream explosions.
 
@@ -233,21 +248,6 @@ Weeks of monsoon rain have flooded northern Philippines, where residents are dem
 
 ## Cyclist Josh Tarling to compete in Tour of Spain after brother’s death
 Josh Tarling returns to cycling in Spain a week after brother Finlay dies during Tour of Portugal.
-
-## Torrential rain floods New York City’s streets and subway
-Torrential rainfall had led to flash flooding in parts of New York City.
-
-## Swiatek into Cincinnati semis after Rybakina injury
-Elena Rybakina's Cincinnati withdrawal raises concerns over the fitness of the world number two ahead of US Open.
-
-## Australia charges man for passing Ukrainian military intel to Russia
-Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.
-
-## Sudan’s displacement crisis deepens as violence escalates
-Sudan’s displacement crisis deepens as violence escalates
-
-## Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
-After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
