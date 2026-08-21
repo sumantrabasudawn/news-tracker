@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## ‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports
+President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections
+
 ## Ukraine seeks Musk’s help to hit Russian missile launchers
 Starlink-equipped drones could strike targets up to 200km inside Russia
 
@@ -11,9 +14,6 @@ Masoud Pezeshkian’s comments reflect debate within regime over how much econom
 
 ## Italy’s MPS thinks three takeovers are better than one
 Crunching two banks together is challenging, and takes time; to attempt the same feat with four calls for some truly magical thinking
-
-## US ranchers lash out at Trump’s gambit to cut beef prices
-Cattle futures fall after president says unnamed foreign suppliers will provide 25% discount for three months
 
 ## Apollo says hackers accessed personal data in latest Wall Street breach
 Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
@@ -35,9 +35,6 @@ Ken Griffin’s hedge fund has executed more than $4bn worth of block trades in 
 
 ## Prince Harry and other privacy claimants told to pay initial £9.5mn to Daily Mail publisher
 High Court rules that the losing parties must cover legal costs on an ‘indemnity’ basis
-
-## Uber set for €825mn Dutch fine over automating driver suspensions
-Regulator says ride-hailing group deactivated driver accounts through automated systems without adequately informing them
 
 ## Trump administration starts process to transfer $725 million to UN
 The proposed payment could ease immediate pressure on the cash-strapped global body, which has warned of severe funding constraints and cuts.
@@ -87,6 +84,9 @@ SBI customers will face charges for cash withdrawals exceeding four free monthly
 ## Why India is betting $1.2 billion on homegrown construction equipment
 India plans a $1.2 billion incentive scheme for advanced equipment manufacturing. This initiative aims to reduce reliance on China for critical machinery. The government expects fresh investment and domestic production growth over seven years. The scheme will cover tunnel boring machines and fire-fi
 
+## Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks
+Assam cab operators continued the highway blockade over attacks on Assam residents in Shillong, despite talks between the chief ministers of Assam and Meghalaya
+
 ## UP: Interpol Red Corner Notice issued against 2024 Sambhal violence 'mastermind' Shariq Sata
 UP: Interpol Red Corner Notice issued against 2024 Sambhal violence 'mastermind' Shariq Sata
 
@@ -107,9 +107,6 @@ The flight, which departed from Trichy at around 6.40 pm, remained in the air fo
 
 ## ‘On our radar as threat’: Ex-army chief MM Naravane calls China India's competitor, Pakistan a security challenge
 MM Naravane said China will serve as India's primary competitor across political, economic, trade, and military spheres in the coming years.
-
-## Mahatma Gandhi's manuscript sells for ₹16.2 crore at auction, sets record - Check details
-The auction house has reportedly confirmed that the buyer is from within India and the manuscript will stay in the country.
 
 ## Tesla forced to recall record 3 million cars in China over door-handle issue
 Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
