@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## SEC accuses ex-Bank of America utilities banker of insider trading
+Regulator says Jason Satsky helped a friend make $18.5mn in illegal profits tied to planned takeover of South Jersey Industries
+
 ## ‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports
 President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections
 
@@ -20,9 +23,6 @@ Alternative asset manager’s probe determined names, home addresses and social 
 
 ## The US techlash is real
 AI companies and social networks should respond to the shift in the public mood
-
-## Bessent dissent
-Moves by the Treasury secretary are being interpreted as an effort to control rising yields
 
 ## Directors’ Deals: Pearson executive cashes in as digital growth boosts shares
 First-half revenues at the education group rise by 19 per cent
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## One killed, three wounded in sword attack at Swedish high school
+One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.
+
 ## Arsenal rout Coventry 3-0 to begin Premier League title defence in style
 Kai Havertz struck early, Bukayo Saka doubled the lead, before Martin Odegaard netted after the break.
 
@@ -248,9 +251,6 @@ Jose Gabriel Espinoza removed from post days after he was censured by the legisl
 
 ## Western allies slam Israel for ending World Central Kitchen strike probe
 UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy 'shameful'.
-
-## US Supreme Court allows Trump’s ballroom project to continue for now
-The Trump administration has argued the $400m White House ballroom is needed for national security purposes.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
