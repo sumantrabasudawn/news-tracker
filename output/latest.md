@@ -33,29 +33,32 @@ An ABC on ABCPs
 ## The new age of Big Law recruiting
 Wall Street firms are beginning to recruit students in their first semester of law school
 
+## Kerala emerges as fast-growing carpooling market as passenger activity jumps 50%
+Strong highway connectivity and rising travel costs are encouraging more commuters to share rides, while regulatory clarity remains crucial for expansion
+
+## Kerala Agricultural University launces cashew grafts as an alternative to plastic polybags
+The initiative marks a significant step towards introducing environment-friendly nursery practices in cashew and enhancing the value and utilization of coir-based biodegradable materials
+
+## Tea prices firm ahead of Onam holidays
+Orthodox leaf also witnessed strong demand, with 94% of the 2,56,527 kg offered being sold. The average price realisation increased by ₹3 to ₹180 a kg, compared with ₹177 in the previous week
+
+## TV ad volumes dip 7 per cent in January-July : TAM AdEx
+Advertisers moderated television spending during the period, even as several consumer categories and e-commerce recorded significant increases in promotional activity
+
+## India banks’ funding costs rise as RBI ends deposit window early
+The Reserve Bank of India surprised markets last week by announcing it would close a special dollar deposit window for overseas residents on Aug. 31, after the facility drew more than $50 billion
+
+## Sensex today | Stock Market Highlights: Nifty ends marginally higher, Sensex flat as markets post weekly losses
+Sensex, Nifty, Share Prices Highlights: Indian equities ended little changed on Friday, but both benchmark indices declined for the week as rising crude prices and global bond yields heightened inflation concerns. Banking stocks offered support, while IT shares remained under pressure amid worries o
+
 ## GST registration for big biz: Centre, states working on uniform documents for faster approvals
 Proposal to be placed before the GST Council once agreed to by all states and the Centre
 
 ## RBI Board reviews economic situation, risks to outlook at Chennai meeting
 Senior RBI officials and Central Board directors attended the meeting, which also reviewed the central bank’s operations, committees and Ombudsman Scheme.
 
-## Sensex today | Stock Market Live: Sensex ends flat at 77,540.83; Nifty edges up 0.08% to 24,252
-Sensex, Nifty, Share Prices LIVE: Benchmark equity indices Sensex and Nifty were trading flat in the afternoon session on Friday as elevated crude oil prices due to geopolitical uncertainties and a sharp fall in US markets made investors cautious.
-
-## India, Mauritius expand energy cooperation beyond crude and refined petroleum products
-India’s expanding refining capacity and Mauritius’ new policy framework are creating fresh opportunities for cooperation on future energy security and sustainability
-
-## Sprite and IRCTC Flag Off India's First Branded Train as the Sprite Tejas Express
-Sprite and IRCTC Flag Off India's First Branded Train as the Sprite Tejas Express
-
-## Medical devices sector needs more local value addition, component manufacturing: Pharma Secretary
-The government is considering further support for manufacturers as it seeks to deepen India’s medical devices supply chain beyond assembly operations
-
-## Two vessels with 22 Indians on board hijacked off Yemen, Somalia
-The Indian crew members aboard both vessels are safe, according to the information available
-
-## Carlsberg India posts strong volume growth in H1, IPO process underway: Global CEO
-Earlier this year, in July, Carlsberg India, the Indian arm of the Danish brewing major Carlsberg Group, filed confidential papers with the capital markets regulator SEBI for a proposed IPO
+## SBI cash withdrawal rules change from October 1: Rs 15 fee after four free transactions
+SBI customers will face charges for cash withdrawals exceeding four free monthly transactions. A fee of Rs 15 plus GST applies to Basic Savings Bank Deposit accounts. Digital transactions remain free, and Aadhaar Enabled Payment System transactions are now counted. Interest rates on bulk term deposi
 
 ## Why India is betting $1.2 billion on homegrown construction equipment
 India plans a $1.2 billion incentive scheme for advanced equipment manufacturing. This initiative aims to reduce reliance on China for critical machinery. The government expects fresh investment and domestic production growth over seven years. The scheme will cover tunnel boring machines and fire-fi
@@ -77,9 +80,6 @@ Weight-loss drugs are creating new demands in beauty and nutrition sectors. Comp
 
 ## Middle East oil squeeze: How much crude is actually flowing through Hormuz
 US officials assert that oil is moving through the Strait of Hormuz at a pace far exceeding market projections. External data indicates a drop in oil tanker activity and a decline in global stockpiles. This divergence raises questions about the true amount of crude oil flowing into worldwide markets
-
-## Top shares to buy: Stock market recommendations for today - check list
-Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering - these are the top stocks to buy identified by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for August 20, 2026. Let’s take a look:
 
 ## Elon Musk pitches Starlink for rural India amidst stalled launch
 The latest TRAI data points to a worrying flat trajectory for mobile and broadband connection additions in rural regions
@@ -105,6 +105,12 @@ SC sets aside order allowing Dayanidhi Maran’s plea to summon telecom secretar
 ## Student wellbeing dips in senior grades, girls report greater anxiety: Study
 Student wellbeing dips in senior grades, girls report greater anxiety: Study
 
+## Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment
+Ping An Insurance (Group), China’s largest insurer in terms of market capitalisation, is eyeing investments in Hong Kong-listed exchange-traded funds (ETFs) to boost returns following Beijing’s green light for cross-border allocations, according to senior executives. “Allowing mainland insurance fun
+
+## Alibaba signals faster AI payoff, margin gains halfway through US$56 billion capex plan
+Alibaba Group Holding is expected to further accelerate cloud growth, expand operating margins and achieve faster payback on artificial intelligence investments, analysts say, as the Chinese tech giant reaches the halfway mark of its massive 380 billion yuan (US$56 billion) AI infrastructure spendin
+
 ## Hong Kong stock exchange extends listing application window to 12 months
 The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday. The extension was designed to give listing candidates, their sponsors and advisers more time to complete the
 
@@ -122,12 +128,6 @@ An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerag
 
 ## Hong Kong’s stock benchmark may see more tech additions as review result looms
 More artificial intelligence companies may join the Hang Seng Index to increase the benchmark’s weighting towards technology, as the index compiler is due to reveal the result of its latest quarterly review on Friday. AI model developers MiniMax Group and Z.ai, known as Zhipu in China, are the most 
-
-## Hong Kong financiers press for tax breaks after Singapore unveils rival scheme
-Hong Kong should press ahead with its proposed tax break on carried interest, the performance fees earned by hedge fund and private equity managers, after Singapore unveiled a rival tax-exemption scheme, according to industry participants. The bill, submitted to lawmakers in June and expected to com
-
-## Hong Kong buyers hunt for bargains in city’s battered noncore office market
-Hong Kong’s noncore office market is still plagued by high vacancy rates and weak investor demand, but owner-occupiers are taking advantage of the downturn to buy up office space at steep discounts. The latest example is the Estate Agents Authority (EAA), which agreed a deal earlier this month to bu
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -225,6 +225,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?
+German authorities allege that Ukrainian scuba diver Volodymyr Zhuravlev was involved in the Nord Stream explosions.
+
+## Philippines floods fuel anger over alleged corruption
+Weeks of monsoon rain have flooded northern Philippines, where residents are demanding answers over alleged corruption.
+
+## Cyclist Josh Tarling to compete in Tour of Spain after brother’s death
+Josh Tarling returns to cycling in Spain a week after brother Finlay dies during Tour of Portugal.
+
 ## Torrential rain floods New York City’s streets and subway
 Torrential rainfall had led to flash flooding in parts of New York City.
 
@@ -239,15 +248,6 @@ Sudan’s displacement crisis deepens as violence escalates
 
 ## Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
 After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.
-
-## Israeli settlers set fire to Palestinian home while family asleep
-Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
-
-## Europe, Canada condemn Israeli plans for new West Bank settlement
-The 'unacceptable' E1 plan carries 'legal and reputational consequences' for those participating, European nations warn.
-
-## Australian Hussey open to Ashes Test role as England make approach
-Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England's new red-ball coach.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
