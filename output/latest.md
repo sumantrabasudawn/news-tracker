@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## UK posts surprise budget deficit of £1.8bn in July
+Borrowing figures underline challenge facing chancellor John Healey ahead of his first Budget
+
 ## Imran Khan moved from Pakistan jail to hospital and back again
 Popular former prime minister received treatment after Supreme Court order
 
@@ -21,47 +24,47 @@ Young non-graduate men face unique setbacks
 ## Scott Bessent takes on bond vigilantes in $32tn Treasury market
 Wall Street investors say move to buy more long-term US debt is a ‘band-aid on a bullet hole’
 
-## Asia’s rising riches protect insurers against China’s policy shifts
-So long as the region’s wealth accumulation continues to outpace that of most developed economies
-
 ## How money-market funds are providing stock market rocket fuel
 An ABC on ABCPs
 
 ## The new age of Big Law recruiting
 Wall Street firms are beginning to recruit students in their first semester of law school
 
+## Asia’s rising riches protect insurers against China’s policy shifts
+So long as the region’s wealth accumulation continues to outpace that of most developed economies
+
 ## The battle over golf’s future
 New management wants the sport to become more commercial, but others worry billionaires have too much say
 
 ## London’s cabbies prepare to battle the robotaxis
-Some drivers are considering skulduggery in an attempt to show the limits of autonomous vehicles
+Private-hire drivers are bracing for a new wave of technological change
 
 ## ‘Nobody has automated the kitchen’: the tech billionaire disrupting restaurants
 Wonder chief Marc Lore bets that owning the entire process — from food production to delivery — will pay off
 
-## Your high school friends may shape whether you become an entrepreneur decades later
-Research suggests that people are more responsive to information from those with whom they have meaningful social connections than to information from stranger
+## HDFC Bank's record dollar bond sale makes it top issuer under RBI window
+HDFC Bank raises an aggregate $2.50 billion
 
 ## Sensex today | Stock Market Live: Sensex rises 100 pts after flattish opening, Nifty trades around 24,260; Power Grid Corp, Kotak Mahindra Bank top gainers
-Sensex, Nifty, Share Prices LIVE: Indian shares open flat on Friday though elevated crude oil prices and ‌pressure in global bond markets kept sentiment ​cautious
+Sensex, Nifty, Share Prices LIVE: Benchmark equity indices Sensex and Nifty were trading marginally higher in early deals on Friday as elevated crude oil prices due to geopolitical uncertainties and a sharp fall in US markets made investors cautious.
 
-## Upstox in talks with banks for potential $350-400 million IPO
-Broking platform has crossed 2-crore KYC customers; ranks fifth in active clients on NSE
+## Meesho expects to create 10 lakh seasonal jobs during festive season
+The projected employment generation includes approximately 6.5 lakh jobs across its seller network and about 3.75 lakh roles across its logistics operations
 
-## Monsoon loses punch under El Niño shadow, parts of South in for surprise
-Counter-intuitively, parts of South Peninsula including Kerala and Mahe, along with Lakshadweep, may experience fairly widespread to widespread rainfall for four days from Sunday
+## Where is gold heading? Jefferies turns bullish as US, Japan face fiscal strain
+Jefferies says deteriorating fiscal position of the US, coupled with rising government debt-servicing pressures, is creating a favourable environment for gold
 
-## SEBI’s crackdown on CAS manipulation: All you need to know
-Here’s a look at what CAS is, what transpired during the August 13 session, and how SEBI responded to it
+## Foreign students applying to US colleges fell 10% this year
+Nearly 16,000 fewer foreign students applied to US colleges this year compared to 2025, due to the Trump administration’s restrictions on overseas student visas
 
-## Centre blocks Telangana CM’s US visit; Revanth Reddy says decision ‘shocking’
-CM Reddy has instructed the officials to go ahead with the US trip and conclude all the MoUs and partnership agreements
+## Sun Pharma voluntarily recalls 11 eyedrops from domestic market, experts seek details
+Public health experts are calling for greater transparency involving specifics on why the eyedrops were recalled, besides seeking regulatory intervention and advisory for those who may have already used the drops
 
-## Sony India bets big on premium TVs, audio products to cater to Onam demand
-Sony’s larger-screen TV business grew around 50% during FIFA season; company eyes continued momentum with festive offers
+## Quadria Capital-backed Nobel Hygiene files papers with SEBI to raise funds via IPO
+The proposed IPO comprises a fresh issue of shares worth up to ₹150 crore and an Offer-for-Sale of up to 1.55 crore equity shares by promoters and existing investors
 
-## HDFC Bank shares rise 1% after $1.75 billion record dollar bond sale
-The stock traded at ₹729.35 on the NSE at 10.09 am, after rising to ₹732.60 from the previous close of ₹725.05
+## IndiGo website crashes for second time this week, blocks some bookings
+The cause of ⁠the outage was ‌not immediately clear
 
 ## SIM card rules 2026: What changes from Aug 24 & how many connections can you have
 Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevent
@@ -87,7 +90,16 @@ Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering 
 ## US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz
 The United States is preparing unprecedented sanctions against Iran. These measures aim to increase economic pressure on Tehran significantly. Washington also seeks cooperation from China regarding Iranian oil trade. China rejects sanctions and advocates for diplomatic solutions to the conflict. The
 
-## MP students reach collectorate, allege loss of study due to teachers' 'closeness'
+## Jharkhand HC stays cancellation of JPSC, Food Safety Officer recruitment exams
+The ruling came after petitions claimed the cancellations were unjust and arbitrary, amidst ongoing protests over alleged recruitment irregularities.
+
+## India’s domestic air passenger traffic down 4.8% in July
+Domestic air passenger traffic fell 4.8% to 12 million in July, even as passenger numbers for January-July remained marginally higher than last year
+
+## CJP's Ashutosh Ranka assaulted on way to Jaipur govt school, alleges volunteer's arm fractured
+The incident occurred near Rampura Kanwarpura village, where Ranka and his team planned to visit a government school to assess its infrastructure and facilities
+
+## 2 MP school teachers transferred after students allege they ended classes early to 'spend time together'
 The students reached the Chhindwara collectorate during a public hearing to raise their complaint.
 
 ## Jagan challenges Naidu to order CBI probe into APPSC Group-I exam irregularities
@@ -99,17 +111,11 @@ DMK alleged that DK Shivakumar openly argued in favour of the Mekedatu project w
 ## Centre allows duty-free import of raw sugar to curb surging prices
 The Centre has allowed 1 million tonnes of raw sugar to be imported duty-free until October 31 as domestic prices climb ahead of the festive season
 
-## Centre denies permission to Revanth Reddy for US visit, his office claims
-Revanth Reddy, who is currently in London, had planned to travel to the US before returning to Hyderabad on August 30.
+## Revanth Reddy cancels US visit as Centre denies clearance due to lack of 'political angle'
+The denial of political clearance for Reddy's US visit is the latest in a series of such denials.
 
-## Jharkhand examination irregularities: SC to hear plea for CBI probe on Monday
-The plea comes against the backdrop of a 26-day agitation by job aspirants in Jharkhand over alleged irregularities in recruitment examinations
-
-## Elon Musk pitches Starlink for India, says it would help the ‘least served’
-Starlink, the satellite broadband service of SpaceX, aims to provide high-speed internet using a network of thousands of satellites placed in low-Earth orbit.
-
-## Sajjan Kumar, convicted for role in 1984 riots , dies
-He was serving life imprisonment for his role in the violence, which resulted in the deaths of many Sikhs. His controversies plagued his political career.
+## Chinese court accepts Evergrande liquidation petition 1 day after founder’s life sentence
+A court in southern China’s Guangdong province formally accepted a bankruptcy liquidation petition against China Evergrande Group’s main onshore unit, closing the final chapter in the unravelling of what was once the country’s largest property developer. The Guangzhou Intermediate People’s Court sai
 
 ## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
 An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
@@ -131,9 +137,6 @@ Henderson Land Development, one of Hong Kong’s largest developers, reported a 
 
 ## Chinese insurance giant Ping An’s profit climbs 36% on policy sales, investment gains
 Ping An Insurance (Group), China’s largest insurer by market value, reported a 36 per cent increase in interim profit, driven by stronger policy sales and investment gains, according to a stock exchange filing on Thursday. First-half net profit hit 92.59 billion yuan (US$13.78 billion) for the six m
-
-## Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending
-Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion). The company assured investors that its soaring spending on AI infrastru
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
