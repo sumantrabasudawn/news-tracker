@@ -24,6 +24,9 @@ Crunching two banks together is challenging, and takes time; to attempt the same
 ## Apollo says hackers accessed personal data in latest Wall Street breach
 Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
 
+## Pentagon fires military newspaper staffers for insubordination
+Defence department dismisses Stars and Stripes editor-in-chief and Middle East reporter
+
 ## Directors’ Deals: Pearson executive cashes in as digital growth boosts shares
 First-half revenues at the education group rise by 19 per cent
 
@@ -32,9 +35,6 @@ Our experts discuss which companies to buy, sell or hold this week
 
 ## The US techlash is real
 AI companies and social networks should respond to the shift in the public mood
-
-## Citadel offloads 80% of portfolio scooped up from Situational Awareness
-Ken Griffin’s hedge fund has executed more than $4bn worth of block trades in recent weeks
 
 ## Trump administration starts process to transfer $725 million to UN
 The proposed payment could ease immediate pressure on the cash-strapped global body, which has warned of severe funding constraints and cuts.
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US debt tops $40 trillion, Americans left with the bill
+The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.
+
+## Pakistan’s Imran Khan back to prison after evaluation at hospital
+Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
+
+## US Vice President JD Vance holds midterm election rally in Ohio hometown
+The vice president's speech hinged heavily on economic themes, as voter confidence slips for Republican policies.
+
 ## TikTok settles with US Justice Department for $400m over child privacy laws
 TikTok and the US government settled to resolve allegations that the app violated children's online privacy laws.
 
@@ -242,15 +251,6 @@ Kai Havertz struck early, Bukayo Saka doubled the lead, before Martin Odegaard n
 
 ## Global Sumud Flotilla joins Albania’s anti-resort protest
 Three boats from the Global Sumud Flotilla arrived in Albania’s Vlore on Friday to support the “Flamingo Revolution"
-
-## Tunisian protesters call for President Kais Saied to step down
-Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.
-
-## Can a humanitarian disaster be averted in Somalia?
-The UN warns of another hunger crisis, with starvation threatening millions.
-
-## Pope Leo urges the world to ‘help begin reconstruction’ of Gaza
-Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering'.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
