@@ -1,34 +1,34 @@
 # AION Intelligence
 
-## North Korea’s economy enjoys rare ‘dash for flash’
-Kim Jong Un’s backing for Russian war on Ukraine fuels construction boom and sales of luxury goods
+## FirstFT: Scott Bessent battles bond vigilantes
+Also in this newsletter: Healey’s deficit warning and HSBC’s job cuts
 
-## Shanghai’s answer to Nasdaq outstrips Hong Kong amid Chinese tech frenzy
-Star 50 index up almost a quarter this year, leaving rivals behind
+## Japanese inflation rises as central bank weighs rate increase
+Bank of Japan under pressure to act on rates in September as yen weakens despite joint intervention
 
-## India’s troubled SpiceJet wrangles a last-minute break
-Also in this newsletter: food safety regulator cracks the whip
+## Healey warned to limit Budget borrowing amid bond sell-off
+New chancellor plans to stay ‘well within’ Labour’s fiscal rules, say allies
 
-## What is Bessent doing with the $32tn Treasury market — and will it work?
-US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs
+## Feminism didn’t kill the male breadwinner model, the economy did
+Young non-graduate men face unique setbacks
 
-## UK consumer confidence rises to highest level for two years
-Good weather and the ‘Burnham bounce’ brought on by a new prime minister continued to have a positive effect in August
-
-## FirstFT: Scott Bessent’s intervention to prop up US market fails to soothe investors
-Also in this newsletter: Loan to Guggenheim Partners falls to distressed territory and North Korea fires barrage of ballistic missiles
-
-## Walmart shares tumble as sales growth slows to six-year low
-Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers
-
-## Tory peer’s free speech group urged Vance to lobby UK government
-Free Speech Union called on vice-president to focus on censorship at time of Starmer visit to US last year
-
-## The new age of Big Law recruiting
-Wall Street firms are beginning to recruit students in their first semester of law school
+## Scott Bessent takes on bond vigilantes in $32tn Treasury market
+Wall Street investors say move to buy more long-term US debt is a ‘band-aid on a bullet hole’
 
 ## Asia’s rising riches protect insurers against China’s policy shifts
 So long as the region’s wealth accumulation continues to outpace that of most developed economies
+
+## Burnham should beware the perils of cost of living policy
+Like Starmer and Sunak before him, he risks focusing too much on things beyond his control
+
+## The historic coffee port in the Houthis’ crosshairs
+Mocha, a Yemeni former trading hub, is on the front line of the rebel group’s campaign against Saudi Arabia
+
+## How money-market funds are providing stock market rocket fuel
+An ABC on ABCPs
+
+## The new age of Big Law recruiting
+Wall Street firms are beginning to recruit students in their first semester of law school
 
 ## The battle over golf’s future
 New management wants the sport to become more commercial, but others worry billionaires have too much say
@@ -42,32 +42,38 @@ Wonder chief Marc Lore bets that owning the entire process — from food product
 ## HSBC spends $68mn on biggest cull of senior bankers since financial crisis
 Reduction came as Europe’s largest lenders shed biggest number of highly paid bankers since 2020
 
-## Why the energy crisis won’t save western oil refineries
-North America and Europe to lose further capacity because of investor wariness
+## Sony India bets big on premium TVs, audio products to cater to Onam demand
+Sony’s larger-screen TV business grew around 50% during FIFA season; company eyes continued momentum with festive offers
 
-## Crude oil price: Futures decline as US threatens ‘toughest sanctions’ on Iran
-October Brent oil futures at $93.46, down by 0.34%; October crude oil futures on West Texas Intermediate at $86.40, down by 0.50%
-
-## Sensex today | Stock Market Live: Markets open flat, Sensex down 50 pts, Nifty trades around 24,220; Eternal, Shriram Finance top gainers
+## Sensex today | Stock Market Live: Markets trade flat, Sensex up 25 pts, Nifty trades around 24,220; Eternal, Shriram Finance top gainers
 Sensex, Nifty, Share Prices LIVE: Indian shares open flat on Friday though elevated crude oil prices and ‌pressure in global bond markets kept sentiment ​cautious
 
-## Prabha Narasimhan elevated to global role, Manish Anandani to lead India operations at Colgate-Palmolive
-The transition comes at a time when Colgate-Palmolive India is stepping up its premiumisation strategy to create higher-value growth in the country’s oral care market
+## HDFC Bank shares rise 1% after $1.75 billion record dollar bond sale
+The stock traded at ₹729.35 on the NSE at 10.09 am, after rising to ₹732.60 from the previous close of ₹725.05
 
-## Elon Musk says Starlink to help India’s underserved
-Musk responds to X post that says ‘11,256 of India’s listed villages still had no 4G coverage as of May 2026’
+## Tata Motors PV to raise car prices from September
+This marks the automaker’s third price hike this year, following a 0.5% increase on April 1 and a 1.5% increase on July 1
 
-## Gold heads for third weekly gain on softer dollar, lower US yields
-Spot gold up 3.6% for the week
+## Anthropic expects to match or top SpaceX’s record IPO size
+Anthropic prepares to file publicly for its potential mega-IPO as soon as the end of this month
 
-## Fresh debt supply to further drag Indian bonds lower
-The yield on the 6.94% 2036 bond is expected to trade between 6.85% and 6.90%, after closing at 6.8709% on Thursday, according to a private bank trader
+## Nifty Prediction Today – August 21, 2026: Nifty 50 Futures: Support can limit the downside. Go long
+Nifty 50 August Futures contract is likely to sustain above 24,250 and rise to 24,350 during the day
 
-## Nifty holds 24,000 as crude, bond yields keep bulls in check
-Muted open follows Thursday’s rebound, when the Nifty gained 154 points and the Sensex rose 628 points, snapping a seven-session losing streak
+## Lumino Industries IPO: ₹700 cr offering to be launched on Aug 27
+Price band fixed at ₹78-82 per share
 
-## Appliance maker Atomberg Technologies files for IPO
-The IPO would comprise a fresh issue of shares ‌worth up to ₹450 crore ​and an offer-for-sale ⁠of up to 76.5 million shares
+## Anthropic plans to change data retention policy for advanced AI
+Anthropic working on new safety system that allows enterprise customers to retain data on their own cloud computing infrastructure
+
+## SIM card rules 2026: What changes from Aug 24 & how many connections can you have
+Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevent
+
+## Rupee continues to rally, opens 9 paise stronger against US dollar
+On Friday morning, the rupee showed signs of strength against the US dollar. Despite the upward trend, high crude oil prices and ongoing geopolitical tensions are pressuring the currency. The Reserve Bank of India anticipates notable foreign currency inflows this year, though these have yet to resul
+
+## Lip plumpers, collagen and more: How is Ozempic boosting a new beauty market
+Weight-loss drugs are creating new demands in beauty and nutrition sectors. Companies are developing products to address nutritional gaps and emerging beauty concerns. Nestle and Tata Consumer are preparing protein and fiber-rich offerings for these consumers. Beauty brands are promoting makeup alte
 
 ## Middle East oil squeeze: How much crude is actually flowing through Hormuz
 US officials assert that oil is moving through the Strait of Hormuz at a pace far exceeding market projections. External data indicates a drop in oil tanker activity and a decline in global stockpiles. This divergence raises questions about the true amount of crude oil flowing into worldwide markets
@@ -84,16 +90,13 @@ Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering 
 ## US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz
 The United States is preparing unprecedented sanctions against Iran. These measures aim to increase economic pressure on Tehran significantly. Washington also seeks cooperation from China regarding Iranian oil trade. China rejects sanctions and advocates for diplomatic solutions to the conflict. The
 
-## Brent hovers near $94 as US-Iran conflict continues to squeeze energy supply
-On Friday, oil prices held steady, with Brent crude nearing $94 per barrel amid ongoing supply disruptions triggered by the US-Iran conflict. Both Brent and WTI benchmarks are poised for a second consecutive weekly increase. President Trump earlier issued threats of retaliation against nations backi
+## Traffic restrictions in Delhi today over Masoom ka Tazia procession: Check timing, diversions
+The religious procession will begin at Jama Masjid and head to Ajmeri Gate Chowk crossing Chawri Bazar Road and Ajmeri Gate Road.
 
-## Government makes it easier for exporters to get paid in rupee
+## Gen Z thinks differently, but ‘that doesn’t make them wrong’: Ex-Army chief MM Naravane
+MM Naravane said young people do not intend to harm the country and believe that their actions are aimed at bringing about positive change.
 
-
-## Sensex CAS manipulated using large orders: Sebi
-
-
-## Mumbai civic body is hiring Gen Z on ₹61,500 stipend: Here's who is eligible and how to apply
+## Mumbai civic body is hiring Gen Z on Rs61,500 stipend: Here's who is eligible and how to apply
 The age limit for BMC Gen Z Fellowship 2026 is below 28 years at the time of application.
 
 ## Shot wife at work, put ‘betrayal’ WhatsApp status: How Lucknow murders unfolded in 2 hours | Timeline
@@ -111,11 +114,8 @@ He was booked on July 13, 2009, for allegedly impersonating a Lok Sabha employee
 ## Govt gives rupee export earnings same benefits as dollar, euro payments
 The Directorate General of Foreign Trade (DGFT) amended the FTP 2023 with immediate effect to align it with the RBI’s 2023 foreign exchange rules.
 
-## HC steps in after CRPF deployed in tense Shillong
-The Meghalaya high court took suo motu cognizance of the violence during the Khasi Students’ Union (KSU) black-flag bike rally in Shillong hours after the Centre approved deployment of deployment of four companies of CRPF and one company of Rapid Action Force (RAF) in the state till August 25, offic
-
-## Tejpal moves SC, challenges his conviction, jail term in rape case
-Two days after the Goa government moved the Supreme Court seeking enhancement of former Tehelka editor Tarun Tejpal’s 10-year jail term to life imprisonment, Tejpal on Thursday approached the top court challenging his conviction and sentence in the 2013 sexual assault case involving a junior colleag
+## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
+An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
 ## Hong Kong’s stock benchmark may see more tech additions as review result looms
 More artificial intelligence companies may join the Hang Seng Index to increase the benchmark’s weighting towards technology, as the index compiler is due to reveal the result of its latest quarterly review on Friday. AI model developers MiniMax Group and Z.ai, known as Zhipu in China, are the most 
@@ -137,9 +137,6 @@ Ping An Insurance (Group), China’s largest insurer by market value, reported a
 
 ## Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending
 Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion). The company assured investors that its soaring spending on AI infrastru
-
-## Shein pushes back Hong Kong debut to September amid delayed investor orders: sources
-Fast-fashion retailer Shein Global Holdings has pushed back its Hong Kong market debut until September 1, after a small delay in taking investor orders for its initial public offering (IPO) at a reduced valuation, according to sources familiar with the matter. Shein plans to introduce multiple corne
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -237,8 +234,14 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Dozens of migrants land on Spanish coast surprising beachgoers
+Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.
+
 ## Hong Kong Tiananmen activists found guilty of national security charges
 Activist group says the 'twisted' Hong Kong judicial system had long ago decided that the pair were guilty.
+
+## Pakistan’s Imran Khan back to prison after evaluation at hospital
+Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
 
 ## After GERD, can Egypt shape Ethiopia’s next Nile dams?
 Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.
@@ -254,12 +257,6 @@ Tunisia has seen an uptick in protests as economic conditions in the country hav
 
 ## Taliban release two detained UN staff members in Afghanistan
 The two men, detained in the western city of Herat on August 9, were released on Thursday morning.
-
-## US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections
-The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.
-
-## Iran war live: US vows toughest Iran sanctions, urges China support
-US Treasury Secretary Bessent says new economic measures will 'collapse' Iranian government.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
