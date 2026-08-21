@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Waymo doubles spending on lobbying in robotaxi battle with Uber
+Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services
+
 ## FTAV Q&A: Darrell Duffie
 The money market savant on what the Fed should do about its balance sheet
 
@@ -30,29 +33,29 @@ An ABC on ABCPs
 ## The new age of Big Law recruiting
 Wall Street firms are beginning to recruit students in their first semester of law school
 
-## Tata MF lifts curbs on investment in gold ETFs
-Tata MF restricted large lumpsum investment in its Gold ETF and Gold ETF Fund of Funds in June amid a surge in gold imports, which had put pressure on the rupee and the current account deficit
+## GST registration for big biz: Centre, states working on uniform documents for faster approvals
+Proposal to be placed before the GST Council once agreed to by all states and the Centre
 
-## Gaja Alternative Asset Management’s ₹550-cr IPO subscribed 14.77 times so far on closing day
-The non-institutional investors (NIIs) portion was 40.29x subscribed, the retail portion 7.83x, and the qualified institutional buyers (QIBs) portion 7.76x
+## RBI Board reviews economic situation, risks to outlook at Chennai meeting
+Senior RBI officials and Central Board directors attended the meeting, which also reviewed the central bank’s operations, committees and Ombudsman Scheme.
 
-## Sensex today | Stock Market Live: Sensex, Nifty trade flat amid weak global cues
+## Sensex today | Stock Market Live: Sensex ends flat at 77,540.83; Nifty edges up 0.08% to 24,252
 Sensex, Nifty, Share Prices LIVE: Benchmark equity indices Sensex and Nifty were trading flat in the afternoon session on Friday as elevated crude oil prices due to geopolitical uncertainties and a sharp fall in US markets made investors cautious.
 
-## BMW launches X1 long wheelbase at ₹49.90 lakh
-Opens bookings for i5 long wheelbase electric sedan
+## India, Mauritius expand energy cooperation beyond crude and refined petroleum products
+India’s expanding refining capacity and Mauritius’ new policy framework are creating fresh opportunities for cooperation on future energy security and sustainability
 
-## HDFC Bank shares rise 1% after $1.75 billion record dollar bond sale
-The stock traded at ₹729.35 on the NSE at 10.09 am, after rising to ₹732.60 from the previous close of ₹725.05
+## Sprite and IRCTC Flag Off India's First Branded Train as the Sprite Tejas Express
+Sprite and IRCTC Flag Off India's First Branded Train as the Sprite Tejas Express
 
-## India orders removal of Google Firebase accounts after spotting scam pattern
-The Indian Cyber Crime Coordination Centre (I4C) has directed at least 57 websites and databases that were hosted on Firebase be taken down in ‌August alone
+## Medical devices sector needs more local value addition, component manufacturing: Pharma Secretary
+The government is considering further support for manufacturers as it seeks to deepen India’s medical devices supply chain beyond assembly operations
 
-## NUMR Inc. helps deliver Axis Bank's data-driven excellence in customer experience
-NUMR Inc. helps deliver Axis Bank's data-driven excellence in customer experience
+## Two vessels with 22 Indians on board hijacked off Yemen, Somalia
+The Indian crew members aboard both vessels are safe, according to the information available
 
-## Colgate-Palmolive elevates Prabha Narasimhan to EVP - Marketing, Asia-Pacific and announces Manish Anandani as new MD & CEO for India
-Colgate-Palmolive elevates Prabha Narasimhan to EVP - Marketing, Asia-Pacific and announces Manish Anandani as new MD & CEO for India
+## Carlsberg India posts strong volume growth in H1, IPO process underway: Global CEO
+Earlier this year, in July, Carlsberg India, the Indian arm of the Danish brewing major Carlsberg Group, filed confidential papers with the capital markets regulator SEBI for a proposed IPO
 
 ## Why India is betting $1.2 billion on homegrown construction equipment
 India plans a $1.2 billion incentive scheme for advanced equipment manufacturing. This initiative aims to reduce reliance on China for critical machinery. The government expects fresh investment and domestic production growth over seven years. The scheme will cover tunnel boring machines and fire-fi
@@ -78,29 +81,32 @@ US officials assert that oil is moving through the Strait of Hormuz at a pace fa
 ## Top shares to buy: Stock market recommendations for today - check list
 Stock market recommendations: DLF, PG Electroplast Ltd, and Sansera Engineering - these are the top stocks to buy identified by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for August 20, 2026. Let’s take a look:
 
-## 'Reservation Hatao Andolan' protest LIVE: Delhi police gives permit for agitation at Ramlila Maidan
-Reservation Hatao protest LIVE updates: The NOC issued by Delhi Police allows a maximum of 500 people to gather at the Ramlila Maidan until 4 pm, with the police stating that it had “no objection" for the protest from “a law and order point of view”.
+## Elon Musk pitches Starlink for rural India amidst stalled launch
+The latest TRAI data points to a worrying flat trajectory for mobile and broadband connection additions in rural regions
 
-## Why H1N1 cases are rising in Delhi and how to protect yourself?
-Delhi-NCR and several other parts of the country are witnessing a rise in H1N1 and other respiratory infections during the monsoon season.
+## Bhavnagar spurious liquor tragedy: 61 affected; 25 still in hospital; 10 critical
+Bhavnagar spurious liquor tragedy: 61 affected; 25 still in hospital; 10 critical
 
-## DMK rejects Vijay’s free cars for 59 MLAs, Udhayanidhi Stalin says ‘government in debt’
-Leader of Opposition (LoP) Udhayanidhi Stalin said all 59 DMK legislators had decided not to avail Vijay’s offer.
+## A deep dive into offbeat Northeast
+A beautiful new travel series travels to some of the world’s oldest indigenous cultures in the Northeast. And comes away curious and inspired.
 
-## Who were 2 Mumbai doctors who kept Jinnah's health secret, set to receive Pakistan’s highest civilian awards?
-The announcement has brought back attention to a little-known episode from history, and also sparked interest among members of Mumbai's Parsi community.
+## SC seeks govt, CBSE’s response on permanent mechanism to address OSM glitches
+The government told the court that a one-week window was provided for aggrieved students to apply for revaluation, and 168,000 of them benefited
 
-## Mathrubhumi launches Onam campaign highlighting Keralam's enduring values
-Mathrubhumi launches Onam campaign highlighting Keralam's enduring values
+## Woman, 1.5-month-old son found dead in Haryana, in-laws booked over SUV demand
+The woman, Sagufta, and her infant son were found dead at their home in Rajpura village on Thursday, police said.
 
-## Indian national Kamal on FBI’s Most Wanted list over alleged Lawrence Bishnoi gang links
-A federal arrest warrant for Kamal was issued on July 1, 2026, by the US District Court for the Central District of California in Los Angeles.
+## Udhayanidhi Stalin dares TN CM to 'open' corruption files
+Udhayanidhi Stalin dares TN CM to 'open' corruption files
 
-## Nripendra Misra-led panel made Ram Temple decisions: Champat Rai amid donation theft row
-Nripendra Misra, who led construction committee, said he has not seen Rai’s letter
+## SC sets aside order allowing Dayanidhi Maran’s plea to summon telecom secretary as court witness
+SC sets aside order allowing Dayanidhi Maran’s plea to summon telecom secretary as court witness
 
-## JP Nadda to review Delhi’s H1N1 situation today amid rise in swine flu cases
-Union health minister JP Nadda will hold a meeting with Delhi health minister and senior officials amid a reported rise in swine flu cases.
+## Student wellbeing dips in senior grades, girls report greater anxiety: Study
+Student wellbeing dips in senior grades, girls report greater anxiety: Study
+
+## Hong Kong stock exchange extends listing application window to 12 months
+The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday. The extension was designed to give listing candidates, their sponsors and advisers more time to complete the
 
 ## HKEX gold futures smash delivery record as US sanctions reshape trade
 Hong Kong Exchanges and Clearing (HKEX) has reported record-breaking physical deliveries and a trading surge in its US dollar-denominated gold futures contract, underscoring the city’s ambition to become a global hub for the precious metal amid widening trade restrictions by the United States. The b
@@ -122,9 +128,6 @@ Hong Kong should press ahead with its proposed tax break on carried interest, th
 
 ## Hong Kong buyers hunt for bargains in city’s battered noncore office market
 Hong Kong’s noncore office market is still plagued by high vacancy rates and weak investor demand, but owner-occupiers are taking advantage of the downturn to buy up office space at steep discounts. The latest example is the Estate Agents Authority (EAA), which agreed a deal earlier this month to bu
-
-## Pop Mart shares slump as Chinese toymaker warns it may miss 20% sales growth target
-Shares of Chinese toymaker Pop Mart International Group slumped after the company’s management said it could miss the full-year 20 per cent sales growth target it had previously set. Its shares fell as much as 8.9 per cent to HK$140.10 before paring the losses to 4.2 per cent at HK$147.70 as of 10am
 
 ## Trump’s Tech Tensions
 The administration’s latest strategy document tries to balance technological competition with cooperation.
@@ -150,6 +153,15 @@ The Trump administration’s peace plan has invested its hopes for Gaza’s futu
 ## UAE Joins Global Efforts to Isolate Iran
 Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.
 
+## Vietnam Proposes Ending Death Penalty For 6 More Offenses
+At the same time, the government is introducing tougher sentencing provisions for acts deemed to undermine the state or the authority of the ruling Communist Party.
+
+## Mirza Fakhrul Islam Alamgir Elected Bangladesh’s New President
+The presidential election has reopened debate over Article 70 of the Constitution, which can cost parliamentarians their seats if they vote against their party.
+
+## Ahead of Xi Visit, US Designates American Held in China as ‘Wrongfully Detained’
+Min Zin, who heads a leading Myanmar-focused think-tank based in Thailand, has been accused of "engaging in espionage and ​endangering China’s national security.”
+
 ## China Isn’t Winning the Digital Order – Yet
 In Southeast Asia, Beijing is building the digital infrastructure, but not (yet) writing the rules.
 
@@ -160,19 +172,10 @@ A line-by-line analysis of U.S. President Donald Trump's surprising (?) social m
 New Delhi needs a new roadmap for navigating relations in the Gulf and increasing its security profile.
 
 ## A 4,000‑yr‑old Rock Painting in Indonesia Offers Clues to One of Humanity’s Greatest Migrations
-Austronesia explorers from what is now Taiwan may have leapfrogged to centers of influence, rather than simply advancing to the next nearest island.
+Austronesian explorers from what is now Taiwan may have leapfrogged to centers of influence, rather than simply advancing to the next nearest island.
 
 ## Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed
 At the heart of the global effort to diversify away from Chinese supply of critical minerals is the tension between friendshoring and strategic autonomy.
-
-## After 9 Years, China Is Reopening Its Borders To Recycled Plastic
-Now Beijing needs to build domestic demand for recycled materials – and global rules for the trade.
-
-## Dhaka’s Balancing Act: Post-election Bangladesh Between India, China, and the US
-Dr. Smruti S. Pattanaik joins host Tushar Shetty to examine Bangladesh six months after its first post-uprising election.
-
-## North Korea Dismisses Trump’s Recent Overtures to Kim Jong Un
-Days after U.S. President Donald Trump showed his interest in meeting with the leader of North Korea, Pyongyang responded by launching short-range ballistic missiles and publishing a harsh statement.
 
 ## A Rock and China’s Three-Sea Problem
 Two rocks surrounded by coral, with a total land size of less than 10 square meters (approximately 108 square feet) at high tide, are the entire basis on which Japan claims a 150,000-square-mile exclusive economic zone, an area nearly the size of Japan itself. The uninhabited feature, located more t
@@ -222,6 +225,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Torrential rain floods New York City’s streets and subway
+Torrential rainfall had led to flash flooding in parts of New York City.
+
 ## Swiatek into Cincinnati semis after Rybakina injury
 Elena Rybakina's Cincinnati withdrawal raises concerns over the fitness of the world number two ahead of US Open.
 
@@ -242,9 +248,6 @@ The 'unacceptable' E1 plan carries 'legal and reputational consequences' for tho
 
 ## Australian Hussey open to Ashes Test role as England make approach
 Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England's new red-ball coach.
-
-## Dr TikTok: Mental health moves from consulting rooms to social media
-Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
