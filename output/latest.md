@@ -39,6 +39,15 @@ There are sound reasons to rethink how couples approach investing for the future
 ## UK recruiters rebound despite European jobs weakness
 Investors return to Hays, Michael Page and Robert Walters after cost-cutting measures
 
+## US bond turmoil signals rising global macro pressures
+As bond yields spike across major markets, valuations will matter even more for equity investors; gold’s relevance is intact
+
+## What should investors do about SBI after Q1 FY27 results?
+Having gone through a full cycle of interest rate transmission, SBI’s NIM is expected to be stable going forward
+
+## NRIs yearn for higher returns: Banks mop up $65.397 billion in just 75 days via FCNR-B deposits
+And the inflows are gathering pace as the RBI has cut short the deadline to offer concessional swap facility for fresh FCNR-B deposits mobilised by banks by a month to August 31, 2026
+
 ## Mapping India’s space-tech opportunity: Which listed stocks to buy, which unlisted companies to track
 COSMIC COMMERCE India’s private space ecosystem is expanding across launch, satellites, components, data and communications. For investors, understanding where companies sit in this value chain matters as much as the excitement around the theme.
 
@@ -53,15 +62,6 @@ FUND CALL HSBC Equity Savings Fund suits cautious investors seeking lower volati
 
 ## Five costly mistakes that traders must avoid in markets
 A recent SEBI study on trading behaviour of individual traders in equity derivative segment reveals that nine out of 10 individual traders continuing to lose money in FY26 too
-
-## Allspring’s Miletti sees Jackson Hole as bigger risk than Nvidia
-Investors should keep expectations low heading into the Jackson Hole event, Miletti said
-
-## As smart glasses go mainstream, privacy concerns follow
-“As a woman, the thought of someone being able to record me without my knowledge or consent is deeply invasive,” a PR professional from Gujarat
-
-## Canada to impose retaliatory tariffs on US goods from September 8
-The move escalates a trade conflict after Washington imposed 50% tariffs on $20 billion of Canadian goods and failed negotiations collapsed late Friday
 
 ## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
 Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
@@ -87,11 +87,14 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Car buyers take fancy to mid-size SUV models
 
 
-## China-bound vessel sinks 200 nautical miles off Odisha’s Paradip port
-Iron-ore laden vessel MV Ocean-Winner reportedly sank 200 nautical miles off Paradip port.
+## Shashi Tharoor breaks silence on Vande Mataram row: ‘We will all stand up for the entire thing if…’
+Shashi Tharoor said the Congress is following the existing practice when it comes to its party functions.
+
+## China-bound vessel with 24 crew members sinks 200 nautical miles off Odisha’s Paradip port
+The vessel was carrying 24 crew members, including 20 Chinese nationals, 1 Bangladeshi, and 3 Myanmar nationals, according to preliminary information.
 
 ## Wanted accused fleeing STF allegedly runs over pedestrian with Thar in Punjab's Ludhiana
-The impact reportedly threw the man several feet away, while his cart was also knocked over.
+The impact threw the man several feet away, while his cart was also knocked over.
 
 ## NTA suspends private agency after power failure disrupts AIAPGET exam in Jaipur
 In a post on social media platform X, NTA said that it has issued a show-cause notice to the company.
@@ -107,9 +110,6 @@ Among those named are Kunal Pratap Singh, Piyush Kumar, and Ravindra Paswan – 
 
 ## Union minister will meet anti-reservation protesters in next two days: UP deputy CM Pathak's promise to agitators
 Addressing a press conference in Lucknow, UP deputy CM Pathak assured that a delegation of the protesters would meet a Union minister within the next two days.
-
-## 'Conspiracy to trap me': BJP MLA from MP alleges rivals 'sending women to frame him in rape cases'
-Pritam Lodhi alleged that his rivals do not come to him directly, but instead send women to the Dak Bungalow in Pichhore.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Korea sending first container ship through Arctic route
+PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.
+
+## Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
+A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.
+
+## Espanyol vs Real Madrid LIVE: La Liga
+Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.
+
 ## How is the pro-Israel lobby influencing US elections?
 As the 2026 US midterms approach, millions of dollars are pouring into races involving candidates who challenge Israel.
 
@@ -245,15 +254,6 @@ The US has recorded more than 160 food recalls this year, as a Cyclospora outbre
 
 ## Settlers target Palestinian homes in Occupied West Bank’s Area B
 Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.
-
-## Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine
-An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.
-
-## Israeli drone strike on ‘civilian vehicle’ injures several in Syria
-Syria condemns attack in southwest as a 'flagrant violation of sovereignty' and a 'blatant breach of international law'.
-
-## What did war with the US reveal about Iran’s weapons capabilities?
-Iran says production is ongoing, but details will not be revealed during war conditions.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
