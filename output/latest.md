@@ -87,29 +87,29 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Apple expected to expand manufacturing beyond iPhones: Govt
 Google May Shift Share Of Production From China To India
 
+## Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’
+BJP resolved to highlight Mahatma Gandhi’s description of Vande Mataram as an “anti-imperialist cry” linked to the “purest national spirit”.
+
+## ED raids Jaipur-based pastor over US funds allegedly used for proselytisation
+The ED alleged that pastor Ravi Mohan Pahadiya received foreign funds from a US-based donor without FCRA permission and used them for proselytisation activities.
+
+## Will Mamata Banerjee forgive TMC rebels? Party MP answers: 'We are scared that she will...'
+In an interview with Hindustan Times, TMC MP Dola Sen addressed whether Mamata Banerjee would forgive leaders who exited during the crisis.
+
+## ‘611 schools without buildings’: Rajasthan govt admits lapses amid CJP ‘checks’, blames Congress, Gehlot
+The BJP dubbed the poor condition of government schools as the “sin” of the previous Congress government that the current administration was trying to fix.
+
 ## NTA announces AIAPGET re-exam for 49 candidates after power failure at Jaipur centre
 NTA reschedules AIAPGET exam for 49 candidates after power cut at Jaipur centre
 
-## ‘No substance to allegations’: BCI Chairman Manan Mishra dismisses co-chair’s claims, invites scrutiny of accounts
-Earlier, BCI co-chair demanded the immediate resignation of Manan Kumar Mishra, alleging irregularities in appointments and diversion of funds.
+## ‘Politically motivated’: BCI Chairman Manan Mishra dismisses co-chair’s claims, invites scrutiny of accounts
+Earlier, the BCI co-chair demanded the immediate resignation of Manan Kumar Mishra, alleging irregularities in appointments and diversion of funds.
 
 ## Parliament sees growing trend of bills introduced, passed in same session: PRS data
 Parliament sees growing trend of bills introduced, passed in same session: PRS data
 
 ## Govt bans fixed-dose combo drugs with chlorpheniramine, phenylephrine for under 4yrs
 The health ministry has restricted all FDCs containing chlorpheniramine maleate and phenylephrine hydrochloride for children under four, citing safety concerns.
-
-## Newborn dies, 2 injured after fire breaks out in MP hospital NICU: Official
-According to hospital officials, three children aged between one and 12 days were placed in the same cradle when the fire erupted
-
-## ‘India could use water as weapon’: Pakistan minister warns amid Indus Water Treaty row
-The remarks come amid renewed tensions between the two nuclear-armed neighbours over the Indus Waters Treaty.
-
-## Vijay treating Assembly like ‘cinema set, delivering punch dialogues’: Stalin attacks Tamil Nadu CM
-Addressing a DMK executive meeting, MK Stalin also accused CM Vijay of changing the names of schemes introduced during the DMK's tenure.
-
-## 3 detained for burning leopard caught in snare in Karnataka’s Tumakuru: Official
-Frustrated by the crop loss and seeking to protect the remaining crop from wild animals, a sharp wire snare trap was illegally set around the field
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
