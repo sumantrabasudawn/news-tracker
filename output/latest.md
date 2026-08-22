@@ -66,6 +66,9 @@ FUND CALL HSBC Equity Savings Fund suits cautious investors seeking lower volati
 ## Five costly mistakes that traders must avoid in markets
 A recent SEBI study on trading behaviour of individual traders in equity derivative segment reveals that nine out of 10 individual traders continuing to lose money in FY26 too
 
+## Luxury sales plunge in China as tax push hits rich shoppers
+
+
 ## Collections under RBI's dollar swap scheme exceed $72.8 billion
 
 
@@ -86,9 +89,6 @@ In response to unfair trade terms imposed by the United States, Canada has decid
 
 ## US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting
 In a groundbreaking move, China has launched an extensive automotive recall, impacting 4.3 million vehicles across multiple manufacturers including Tesla. Safety regulators have raised alarms about the potential difficulty occupants may face in opening doors during emergency situations. Tesla is res
-
-## PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit
-India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe head
 
 ## UP to offer free bus travel to women, one companion for Raksha Bandhan
 UP to offer free bus travel to women, one companion for Raksha Bandhan
@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Open-air cinema brings movie nights back to Khartoum
+Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.
+
+## Israeli army and settlers injure several Palestinians across West Bank
+Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.
+
 ## US Postal Service shares mail-in ballot restrictions despite court ruling
 US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.
 
@@ -251,12 +257,6 @@ Israeli drone attack targeted a family in the central city of Deir el-Balah, kil
 
 ## Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals
 In an interview with the Russian channel Vesti, Vladimir Putin threatened Ukraine's 'most vulnerable' economic sectors.
-
-## Envoy says Israel did not give the US notice before strikes on Syrian base
-US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.
-
-## Canada to match US tariffs “dollar for dollar,” PM Carney says
-Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar."
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
