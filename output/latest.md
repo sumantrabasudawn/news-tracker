@@ -90,6 +90,12 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Car buyers take fancy to mid-size SUV models
 
 
+## 25-year-old arrested for links with Pakistani gangsters through social media
+Police said that the accused was allegedly in contact with an international anti-social and radicalised individual connected through Instagram.
+
+## ‘iPhone is not your identity’: Shehzad Poonawalla’s advice to youth after Maharashtra teen, family die in hill fall
+His comments came after a 19-year-old boy died along with his parents at Khavdya Dongar in Maharashtra's Chhatrapati Sambhajinagar district on Friday.
+
 ## EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’
 Jaishankar added India would factor the pact into its security calculus, adding that actions by countries “not well disposed” towards India would count
 
@@ -107,12 +113,6 @@ In a post on social media platform X, NTA said that it has issued a show-cause n
 
 ## Death toll rises to 11 in Gujarat spurious liquor case: Police
 Two police inspectors and five other police personnel were suspended after a preliminary investigation found negligence
-
-## Rahul Gandhi rejects Manusmriti's norm about women's identity: ‘You belong to yourself’
-Calling on the audience to "break the cage", Rahul Gandhi told the youth that every individual is unique and has their own dreams and vision.
-
-## Ranchi police files FIR against JPSC-JSSC protest leaders over Aug 21 police-students clash
-Among those named are Kunal Pratap Singh, Piyush Kumar, and Ravindra Paswan – leaders of the JPSC-JSSC Reforms Manch.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -234,13 +234,19 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Not a small issue’: People deported by US to Liberia face uncertain future
+Liberia's government announced the move on Tuesday, two days before the flight. Politicians say they were not consulted.
+
+## Seven killed, including two police officers, in UK ‘wrong-side’ car crash
+Accident follows similar crashes in Ireland where police highlighted social media trend driving in opposite direction.
+
 ## South Korea sending first container ship through Arctic route
 PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.
 
 ## Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
 A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.
 
-## Espanyol vs Real Madrid LIVE: La Liga
+## LIVE: Espanyol vs Real Madrid: La Liga
 Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.
 
 ## How is the pro-Israel lobby influencing US elections?
@@ -251,12 +257,6 @@ Barcelona start their season at Elche in La Liga on Sunday but will do so withou
 
 ## Walk-In “Human Fridges” are Japan’s newest heatwave weapon
 Designed to stop heatstroke in its tracks, the "Do Hiemon Box" delivers rapid, targeted cooling during extreme weather.
-
-## Did DOGE cuts make America’s food safety problem worse?
-The US has recorded more than 160 food recalls this year, as a Cyclospora outbreak has sickened nearly 11,000 people.
-
-## Settlers target Palestinian homes in Occupied West Bank’s Area B
-Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
