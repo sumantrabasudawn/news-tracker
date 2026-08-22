@@ -39,6 +39,18 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
 
+## No more 12-minute ad limit for TV channels as Centre notifies rule changes
+Analysts say move is directionally positive for television broadcasters
+
+## RBI says forex inflows under swap facility reach $72.85 billion as FCNR(B) mobilisation tops $65 Billion
+The RBI reported that authoriSed dealer banks recorded $65.397 billion in inflows from FCNR(B) deposits as of August 21
+
+## Rain deficit inches up even as Bay prepares to host fresh ‘low’
+Rainfall figures so far during August, normally the second rainiest month, have been on the lower side, with the country as a whole running up a rain deficit of 15.2% until Friday
+
+## SEBI reviewing framework for disclosure of issue proceeds utilisation: Chairman
+SEBI is proposing a framework to avoid duplication of fines levied by multiple exchanges on entities listed on more than one exchange for the same matter
+
 ## Preventive healthcare future model, crucial for national economy, security: Rajnath
 Singh noted that preventive healthcare is economically sensible, as treating advanced diseases can cost lakhs, while annual check-ups and basic care only cost hundreds or a few thousand rupees
 
@@ -50,18 +62,6 @@ The IPO will remain open till September 3, while bidding for anchor investors wi
 
 ## GI gains fade as Keralam’s handloom struggles for lasting economic boost
 Study finds early rise in sales and weavers’ wages after Geographical Indication tag was received, but gains have eroded over time
-
-## Govt rejects ethanol link to sugar price rise, allows duty-free imports to curb prices
-
-
-## Zee Entertainment allots 20.94 cr convertible warrants to promoter group entity
-Earlier this month, the Securities Appellate Tribunal stayed a SEBI order to debar ZEEL for two months and its CEO Punit Goenka for one year from capital markets in the Hyderabad land pledge case
-
-## Auto NBFC disbursements surge 20.7% YoY in Q1FY27 amid portfolio diversification
-Non-commercial vehicle segments continued to gain ground across balance sheet
-
-## Centre okays aviation varsity's expansion plan, directs UP govt to make land available
-The proposed expansion includes state-of-the-art laboratories, research centres and other infrastructure aimed at promoting higher education, research and innovation in aviation, aerospace and allied fields
 
 ## NBFCs stay on growth track as asset quality remains stable: Report
 Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moder
@@ -87,10 +87,16 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Apple expected to expand manufacturing beyond iPhones: Govt
 Google May Shift Share Of Production From China To India
 
+## NTA announces AIAPGET re-exam for 49 candidates after power failure at Jaipur centre
+NTA reschedules AIAPGET exam for 49 candidates after power cut at Jaipur centre
+
+## ‘No substance to allegations’: BCI Chairman Manan Mishra dismisses co-chair’s claims, invites scrutiny of accounts
+Earlier, BCI co-chair demanded the immediate resignation of Manan Kumar Mishra, alleging irregularities in appointments and diversion of funds.
+
 ## Parliament sees growing trend of bills introduced, passed in same session: PRS data
 Parliament sees growing trend of bills introduced, passed in same session: PRS data
 
-## Govt bans FDCs with chlorpheniramine, phenylephrine for children under four years
+## Govt bans fixed-dose combo drugs with chlorpheniramine, phenylephrine for under 4yrs
 The health ministry has restricted all FDCs containing chlorpheniramine maleate and phenylephrine hydrochloride for children under four, citing safety concerns.
 
 ## Newborn dies, 2 injured after fire breaks out in MP hospital NICU: Official
@@ -104,12 +110,6 @@ Addressing a DMK executive meeting, MK Stalin also accused CM Vijay of changing 
 
 ## 3 detained for burning leopard caught in snare in Karnataka’s Tumakuru: Official
 Frustrated by the crop loss and seeking to protect the remaining crop from wild animals, a sharp wire snare trap was illegally set around the field
-
-## Family-linked appointments, funds diversion: BCI co-chair's allegations against Manan Mishra
-Co-chair alleged that staff appointments were made without a transparent recruitment process and that several employees are personally connected to Mishra.
-
-## ChatGPT, internet searches and 'dhuk dhuk': Rajnath on challenge of self-diagnosis for doctors
-ChatGPT, internet searches and 'dhuk dhuk': Rajnath on challenge of self-diagnosis for doctors
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
+The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus's exponential spread.
+
+## Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move
+Party launches legal action after authorities take ex-PM to ⁠state hospital for check-up ⁠before returning him to jail.
+
 ## Manchester City preview: Five key questions heading into 2026-27 season
 Enzo Maresca faces the formidable challenge of following the legendary manager Pep Guardiola as new season starts.
 
@@ -248,12 +254,6 @@ Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Co
 
 ## How will Trump’s tariffs affect Canada’s economy?
 US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy.
-
-## Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
-Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.
-
-## Lionel Messi fined for striking opponent in Inter Miami MLS game
-MLS fine Inter Miami's Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
