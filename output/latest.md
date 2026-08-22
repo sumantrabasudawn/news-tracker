@@ -39,6 +39,15 @@ Washington and Beijing are beating Brussels in competition to secure components 
 ## The fight to save England’s rivers
 Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
 
+## Uniflow expands control-valve capacity 5-fold as India looks to cut critical imports
+A small but critical piece of industrial equipment is emerging as a potential bottleneck in India’s investment cycle: high-specification control valves, where import dependence runs as high as 40% and overseas procurement can stretch to 40 weeks
+
+## Biometric verification mandatory for new mobile Sim issuance, user detail update
+The new guidelines are aimed at tackling rising digital arrest scams and online fraud
+
+## Chandigarh University Hosts Global Architectural Voices to Deliberate on Technology, Heritage and Future of Architecture
+Chandigarh University Hosts Global Architectural Voices to Deliberate on Technology, Heritage and Future of Architecture
+
 ## India-Japan 50,000-worker employment corridor faces Japanese-language skills gap
 Honda India Foundation’s 60-person Japanese-language program adds to a growing effort to connect Indian workers with jobs in Japan
 
@@ -53,15 +62,6 @@ The report said blockchain technology has enabled the development of digital ass
 
 ## Andhra invites tenders for 12 health projects worth ₹221 cr
 The Minister said that of the 12 works, 10 are related to the Ayush department and two to the allopathic medical department
-
-## India, UK hold key meet in Delhi to bolster bilateral defence ties
-The visit underlines the longstanding defence cooperation between the two countries and regular exchange of views on issues of mutual interest
-
-## India has political stability; world sees it as bright spot of growth, hope: PM Modi
-The prime minister said the world has many concerns regarding growth as resources are getting weaponised, but India is being seen as a bright spot of growth
-
-## FM directs early completion of Detailed Project Report for high-level dam on Kosi river
-The Chief Minister of Bihar requested the Centre's cooperation for the State's development and urged prompt action on pending matters
 
 ## 29 states vs Meta: How a landmark child safety trial could reshape Facebook, Insta
 Twenty-nine US states are suing Meta, alleging exploitative product design targeting young users. The lawsuit claims Meta concealed internal research about potential harms to teenagers. States seek substantial financial penalties and court-ordered product redesigns for Facebook and Instagram. A form
@@ -87,6 +87,12 @@ Google May Shift Share Of Production From China To India
 ## PSBs losing share in high-value business: Report
 Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From GCCs
 
+## Thane doctor downloads file on WhatsApp, loses ₹60K in online delivery scam
+The fraudster instructed the doctor to download a file, which turned out to be a malicious file, sent to his phone on the pretext of resolving delivery issue.
+
+## ‘Misinformation’: Cochin airport rejects SpiceJet’s ‘bad weather in Kochi' claim
+The authorities said there was no adverse weather in Kochi that could disrupt the flights at the airport.
+
 ## Judges not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol
 Judges not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol
 
@@ -96,7 +102,7 @@ Former CM Vijayan says his hands clean; denies hawala dealings
 ## Seek medical advice if experiencing H1N1 symptoms: Govt's directive as cases surge
 Delhi has recorded 2,392 Influenza-A cases this year, including 1,777 H1N1 cases, according to health department data
 
-## BJP passes resolution to protect 'Vande Mataram', condemns Cong move to sing 2 stanzas
+## BJP passes resolution to protect 'Vande Mataram', condemns Congress move to sing 2 stanzas
 The BJP said the full national song, comprising six stanzas, represents India’s national consciousness and the legacy of the freedom struggle.
 
 ## Keralam CM Satheesan hails Cardinal Cleemis as guiding light for society
@@ -104,12 +110,6 @@ Keralam CM Satheesan hails Cardinal Cleemis as guiding light for society
 
 ## Imphal-Dimapur-Guwahati bus service resumes after 3 years in violence-hit Manipur
 Public transport on the Imphal-Dimapur-Guwahati route resumed after nearly three years, with 125 passengers travelling in two buses and five wingers on Friday.
-
-## Bank holiday today: Why are branches closed on August 22? Check full schedule
-Banks are closed on August 22 and will also remain closed on Sunday; while more holidays are listed next week
-
-## Over 50 detained, crowd at Jantar Mantar despite no nod: What happened at ‘Reservation Hatao Andolan’
-The protesters had gathered at Jantar Mantar despite the police's repeated reminder that no permission had been granted to stage a demonstration there.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Australia bite back as 18 wickets fall on day one of second Bangladesh Test
+Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.
+
 ## Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
 Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Coco Gauff and Jessica Pegula also win.
 
@@ -251,9 +254,6 @@ Conflict with Israel derails Lebanon's economic recovery as inflation and consum
 
 ## Somalia child hunger crisis deepens after aid cuts, UNICEF says
 The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.
-
-## China’s new moon mission could unlock secret of lunar ice: Why that matters
-The Chang'e-7 seeks to find out more about the water trapped within the moon's shadowed craters.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
