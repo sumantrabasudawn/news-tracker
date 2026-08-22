@@ -39,6 +39,15 @@ Washington and Beijing are beating Brussels in competition to secure components 
 ## The fight to save England’s rivers
 Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
 
+## Singapore bound IndiGo flight with 127 passengers returns after a mid-air snag
+The flight departed from Trichy at around 6.40 pm, remained in the air for around two and a half hours after the technical issue was detected
+
+## OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%
+The price cuts are effective ‌on OpenAI's application programming interface, or ‌API, ⁠and are rolling out ⁠across eligible plans for credits on its agentic AI product ChatGPT Work and its coding tool ​Codex
+
+## India-Nepal JWG discusses trans-border crime, border infra, encroachments
+Discussions also covered the maintenance of boundary pillars and effective utilisation of existing border infrastructure
+
 ## BRICS well placed to foster future-oriented innovation ecosystem: Jitendra Singh
 Singh highlighted that the world is undergoing rapid transformation driven by emerging technologies such as artificial intelligence, quantum technologies, advanced materials, biotechnology, photonics, geospatial technologies and high-performance computing
 
@@ -53,15 +62,6 @@ The minister said that to enrich the experience for visiting pilgrims, significa
 
 ## Keralam to align higher education with global job trends: CM Satheesan
 The State government would give priority to transforming higher education in tune with the changing world of work
-
-## GACM Technologies raises ₹49.5 cr through QIP issues
-Through the QIP, the Company allotted 49.50 crore fully paid-up Equity Shares of face value ₹1 each at an issue price of ₹1 per Equity Share, aggregating to ₹49.50 crore
-
-## Beyond prices: How commodity volatility changes the economics of financing trade
-A profitable commodity trade can become unfinanceable when price, policy, ESG and currency risks move before the cargo does
-
-## NMEO-OP: Five years on, what has India got back?
-Public investment in a perennial crop should be judged by productive outcomes, not expenditure or acreage alone.
 
 ## 'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'
 In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being
@@ -87,6 +87,15 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Tablets gain from rising laptop prices
 
 
+## ‘Assist the poor, irrespective of caste’: 5 demands at Reservation Hatao Andolan in Delhi
+Protesters argued that financial circumstances should be considered while deciding who needs government assistance, including support for education.
+
+## Bihar: 5 killed, 2 injured as speeding bus ploughs into crowd watching orchestra
+Five people were killed and two injured after a speeding bus allegedly ploughed into a crowd watching an orchestra programme at a village in Bihar’s West Champaran.
+
+## ‘My son rushed woman to hospital’: Andhra MP Lingamaneni Ramesh on Hyderabad Aston Martin crash
+Ramesh said that Sanjush was driving the vehicle when the accident occurred and immediately took the injured woman to a hospital.
+
 ## ‘Maa ke liye jee lo’: Sarpanch's emotional plea fails as teen, his parents fall to death amid phone row
 The village sarpanch urged the boy to step back and tried to lure him with various promises.
 
@@ -101,15 +110,6 @@ International flyers departing India can use e-boarding passes at immigration fr
 
 ## Quota within quota, more EWS benefits: YouTuber Ajeet Bharti's key demands at 'Reservation Hatao' protest
 The protest was organised by ‘Reservation Hatao Andolan’, a social media movement opposing quotas.
-
-## Supreme Court plea seeks removal of BCI chief Manan Kumar Mishra, fresh election
-A plea in the Supreme Court seeks BCI chief Manan Kumar Mishra’s removal, challenging his tenure extension and seeking a probe into BCI finances and fresh elections.
-
-## ‘Taking care of her cultural needs’: MEA says pursuing Ariha Shah's case with German authorities
-However, MEA spokesperson Randhir Jaiswal said he did not have a fresh update on the case.
-
-## Why Criticise VCs for Attending RSS Events?: Guv
-Thiruvananthapuram: Kerala Governor Rajendra Arlekar said he could not understand why the state government criticised vice-chancellors of universities for attending Rashtriya Swayamsevak Sangh (RSS) events, or what rules they violated by doing so
 
 ## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
 South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
@@ -243,7 +243,7 @@ A widening diplomatic rift is complicating efforts to confront a shared cross-bo
 ## At least 13 Tunisians missing as migrant boat headed for Italy capsizes
 Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.
 
-## US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail
+## US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail
 Canadian prime minister says country will match tariffs 'dollar for dollar' after failure to secure US trade agreement.
 
 ## US judge strikes down Trump immigrant visa ban affecting 75 countries
