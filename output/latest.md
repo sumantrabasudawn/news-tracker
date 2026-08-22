@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16
+Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war
+
+## Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says
+Washington’s ambassador to Ankara says attack on air base could have been ‘aggressive . . . pre-election concept’ ahead of October polls
+
 ## Mark Carney says Canada is now ‘at war’ with US over trade
 Prime Minister says Donald Trump miscalculated by escalating his tariffs attack on the country
 
 ## ‘Appeasement is not a strategy’: how media is fighting back against Trump’s legal threats
 US president juggles multiple cases against news and entertainment groups
-
-## Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16
-Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war
 
 ## Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio
 Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election
@@ -20,9 +23,6 @@ Despite Scott Bessent’s efforts, investors worry something is up
 
 ## Mark Walter’s unravelling empire tests the insurance trade behind private credit’s rise
 Private capital saw an opportunity to make insurance much more profitable. At what risk?
-
-## Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel
-The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen
 
 ## Is sport safe from AI?
 Plus, the unlikely duo challenging Chelsea, Arsenal and Real Madrid
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Envoy says Israel did not give the US notice before strikes on Syrian base
+US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.
+
+## Canada to match US tariffs “dollar for dollar,” PM Carney says
+Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar."
+
+## Carney: Canada will enact retaliatory US tariffs starting September 8
+The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
+
 ## Israel, Turkiye and the new regional reordering
 In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.
 
@@ -248,15 +257,6 @@ Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews a
 
 ## Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr
 While lawyers for the US president argue the subpoenas are 'cynical', the BBC says they could help shine light on case.
-
-## ‘Not a small issue’: People deported by US to Liberia face uncertain future
-Liberia's government announced the move on Tuesday, two days before the flight. Politicians say they were not consulted.
-
-## Seven killed, including two police officers, in UK ‘wrong-side’ car crash
-Accident follows similar crashes in Ireland where police highlighted social media trend driving in opposite direction.
-
-## South Korea sending first container ship through Arctic route
-PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
