@@ -90,6 +90,9 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Car buyers take fancy to mid-size SUV models
 
 
+## UP to offer free bus travel to women, one companion for Raksha Bandhan
+UP to offer free bus travel to women, one companion for Raksha Bandhan
+
 ## 25-year-old arrested for links with Pakistani gangsters through social media
 Police said that the accused was allegedly in contact with an international anti-social and radicalised individual connected through Instagram.
 
@@ -110,9 +113,6 @@ The impact threw the man several feet away, while his cart was also knocked over
 
 ## NTA suspends private agency after power failure disrupts AIAPGET exam in Jaipur
 In a post on social media platform X, NTA said that it has issued a show-cause notice to the company.
-
-## Death toll rises to 11 in Gujarat spurious liquor case: Police
-Two police inspectors and five other police personnel were suspended after a preliminary investigation found negligence
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel, Turkiye and the new regional reordering
+In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.
+
+## Swedish police identify 17-year-old girl as victim in school sword attack
+Brinell School's principal says 18-year-old suspected of carrying out Friday's deadly sword attack was a student there.
+
+## Armed men kidnap dozens in attacks on Nigerian villages
+Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.
+
+## Israel’s Chief Rabbi says Palestinians are not a people and have no rights
+Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.
+
+## Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr
+While lawyers for the US president argue the subpoenas are 'cynical', the BBC says they could help shine light on case.
+
 ## ‘Not a small issue’: People deported by US to Liberia face uncertain future
 Liberia's government announced the move on Tuesday, two days before the flight. Politicians say they were not consulted.
 
@@ -242,21 +257,6 @@ Accident follows similar crashes in Ireland where police highlighted social medi
 
 ## South Korea sending first container ship through Arctic route
 PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.
-
-## Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
-A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.
-
-## LIVE: Espanyol vs Real Madrid: La Liga
-Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.
-
-## How is the pro-Israel lobby influencing US elections?
-As the 2026 US midterms approach, millions of dollars are pouring into races involving candidates who challenge Israel.
-
-## Elche vs Barcelona: La Liga – prediction, team news, lineups
-Barcelona start their season at Elche in La Liga on Sunday but will do so without their new signing, Rodri.
-
-## Walk-In “Human Fridges” are Japan’s newest heatwave weapon
-Designed to stop heatstroke in its tracks, the "Do Hiemon Box" delivers rapid, targeted cooling during extreme weather.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
