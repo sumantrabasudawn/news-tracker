@@ -39,29 +39,29 @@ There are sound reasons to rethink how couples approach investing for the future
 ## UK recruiters rebound despite European jobs weakness
 Investors return to Hays, Michael Page and Robert Walters after cost-cutting measures
 
+## Allspring’s Miletti sees Jackson Hole as bigger risk than Nvidia
+Investors should keep expectations low heading into the Jackson Hole event, Miletti said
+
+## As smart glasses go mainstream, privacy concerns follow
+“As a woman, the thought of someone being able to record me without my knowledge or consent is deeply invasive,” a PR professional from Gujarat
+
+## Canada to impose retaliatory tariffs on US goods from September 8
+The move escalates a trade conflict after Washington imposed 50% tariffs on $20 billion of Canadian goods and failed negotiations collapsed late Friday
+
+## Andhra approves green AI data centre in Visakhapatnam with investment of over ₹30,000 cr
+Incentives for project to include exemption from stamp, electricity duty, and power infrastructure and water supply support
+
+## The rising cost of falling ill
+Policybazaar claims data show how age, chronic illnesses and regional cost gaps shape healthcare expenses and the need for adequate cover
+
+## Bandu’s Blockbusters for August 23, 2026
+Guess the stock that will give the best return by next Friday
+
+## Mastering Derivatives: Understanding term structure of volatility
+It is the graph of volatility of a particular strike across expiries
+
 ## Tech Query: Hindustan Unilever, Hindustan Petroleum Corporation, Craftsman Automation, Jupiter Wagons - What is the outlook? Where are these stocks headed?
 We look at the prospects of Hindustan Unilever Limited (HUL), Hindustan Petroleum Corporation (HPCL), Craftsman Automation, Jupiter Wagons
-
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of Jindal Saw, SBI Life Insurance Company and Union Bank of India
-
-## Short Take: Option P/L on expiry
-
-
-## US Market Outlook: Brief pullback
-The US benchmark indices have supports to limit the downside
-
-## F&O Strategy: Buy Tech Mahindra futures
-
-
-## Index Outlook: Key support holds
-The bounce from the lows last week keeps the positive bias intact
-
-## Bullion Cues: Gold futures and silver futures could gain more
-Traders can consider long positions
-
-## Crude Check: Oil futures can scale higher
-Consider fresh buys
 
 ## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
 Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
@@ -87,6 +87,15 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Car buyers take fancy to mid-size SUV models
 
 
+## China-bound vessel with 24 crew members sinks 200 nautical miles off Odisha’s Paradip port
+Iron-ore laden vessel MV Ocean-Winner reportedly sank 200 nautical miles off Paradip port.
+
+## Wanted accused fleeing STF allegedly runs over pedestrian with Thar in Punjab's Ludhiana
+The impact reportedly threw the man several feet away, while his cart was also knocked over.
+
+## NTA suspends private agency after power failure disrupts AIAPGET exam in Jaipur
+In a post on social media platform X, NTA said that it has issued a show-cause notice to the company.
+
 ## Death toll rises to 11 in Gujarat spurious liquor case: Police
 Two police inspectors and five other police personnel were suspended after a preliminary investigation found negligence
 
@@ -101,15 +110,6 @@ Addressing a press conference in Lucknow, UP deputy CM Pathak assured that a del
 
 ## 'Conspiracy to trap me': BJP MLA from MP alleges rivals 'sending women to frame him in rape cases'
 Pritam Lodhi alleged that his rivals do not come to him directly, but instead send women to the Dak Bungalow in Pichhore.
-
-## PM Modi meets BJP’s newly formed team at party headquarters in Delhi
-PM Modi arrived at the BJP headquarters on Saturday evening, shortly after the party passed a resolution on the honour and historic legacy of 'Vande Mataram'.
-
-## EAM Jaishankar to visit Russia, co-chair key trade and economic commission
-Jaishankar is visiting Russia during August 23-24 at the invitation of first deputy Prime Minister Denis Manturov
-
-## Man stabbed to death in northeast Delhi, one arrested
-The victim, Abhishek, was among four persons attacked by the accused on August 15. He succumbed to his injuries at GTB Hospital at 1:05 am on Saturday.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Walk-In “Human Fridges” are Japan’s newest heatwave weapon
+Designed to stop heatstroke in its tracks, the "Do Hiemon Box" delivers rapid, targeted cooling during extreme weather.
+
+## Did DOGE cuts make America’s food safety problem worse?
+The US has recorded more than 160 food recalls this year, as a Cyclospora outbreak has sickened nearly 11,000 people.
+
+## Settlers target Palestinian homes in Occupied West Bank’s Area B
+Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.
+
 ## Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine
 An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.
 
@@ -245,15 +254,6 @@ Manchester United lose 2-0 at newly promoted Hull City to open their Premier Lea
 
 ## Fans and police injured in pitch invasion during ‘high risk’ German Cup tie
 Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
-
-## Indonesia bolsters troop numbers to combat Borneo wildfires
-Fires between January and July burned more than 200,000 hectares of land, says the government.
-
-## Is Trump making Latin America great again?
-A right-wing wave is sweeping through the region and that is not good news.
-
-## As families retrieve bodies, Gaza is running out of places to bury the dead
-Israel's genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
