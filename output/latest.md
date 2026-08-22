@@ -1,7 +1,7 @@
 # AION Intelligence
 
-## US-Canada trade deal goes down to the wire
-Officials locked in tough talks ahead of midnight deadline after Trump paused $20bn of new levies on North American trading partner
+## US says Canada rejects its trade deal offer
+Top Washington representative Jamieson Greer criticises Ottawa’s ‘missed opportunity’
 
 ## China’s robots rock, box and mix drinks. Can they outperform humans?
 Beijing policymakers have made robotics a ‘strategic priority’
@@ -36,29 +36,32 @@ Crunching two banks together is challenging, and takes time; to attempt the same
 ## Apollo says hackers accessed personal data in latest Wall Street breach
 Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
 
+## TN govt initiates major push for temple infrastructure across state
+The minister said that to enrich the experience for visiting pilgrims, significant investments are planned for infrastructure and basic amenities
+
+## Keralam to align higher education with global job trends: CM Satheesan
+The State government would give priority to transforming higher education in tune with the changing world of work
+
+## GACM Technologies raises ₹49.5 cr through QIP issues
+Through the QIP, the Company allotted 49.50 crore fully paid-up Equity Shares of face value ₹1 each at an issue price of ₹1 per Equity Share, aggregating to ₹49.50 crore
+
+## Beyond prices: How commodity volatility changes the economics of financing trade
+A profitable commodity trade can become unfinanceable when price, policy, ESG and currency risks move before the cargo does
+
+## India’s natural farming transition may begin in its waterbodies
+Bundelkhand farmers are teaching us an important lesson: water security and sustainable agriculture should not be designed in separate silos
+
+## Two killed, 9 injured in a blast at Hazelo Pharma Unit in Telangana
+The incident happened when the workers were changing shift
+
 ## Trump administration starts process to transfer $725 million to UN
 The proposed payment could ease immediate pressure on the cash-strapped global body, which has warned of severe funding constraints and cuts.
 
 ## Joyalukkas, Kalyan bag TN govt order to gift gold rings to 4.41 lakh newborns
 The Kerala jeweler pipped others for the ₹755 crore order by bidding on a razor-thin margin
 
-## China’s Chang’e-7 lunar mission to search for water at Moon’s south pole
-The mission will test advanced robotic technologies while gathering data that could shape China’s plans for a permanent lunar research outpost
-
-## Colgate bets on veteran Manish Anandani to power its next growth engine
-Faces twin challenge of mass-market defence and premium growth
-
-## Iran warns of ‘devastating’ response as US plans toughest sanctions
-Washington’s planned measures come as tensions threaten shipping routes, crude supplies and diplomatic efforts to end the conflict involving Tehran
-
-## IRDAI bars Edelweiss Life, Pramerica Life from opening new offices for six months
-The Authority will continue to take appropriate supervisory and enforcement action wherever regulatory non-compliance is observed
-
-## Symbiotec Pharmalab raises Rs 526 cr from anchor investors; IPO opens on Aug 24
-The anchor placement attracted mutual funds, insurers and foreign investors, setting the stage for the pharmaceutical company’s public market debut
-
-## Nabard survey points to downbeat rural sentiment
-Subdued optimism over jobs and income seems linked to monsoon, rural inflation and broader economic developments
+## 'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'
+In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being
 
 ## US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting
 In a groundbreaking move, China has launched an extensive automotive recall, impacting 4.3 million vehicles across multiple manufacturers including Tesla. Safety regulators have raised alarms about the potential difficulty occupants may face in opening doors during emergency situations. Tesla is res
@@ -81,8 +84,14 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Tablets gain from rising laptop prices
 
 
-## Informal sector establishments up 9%
+## ‘My husband became scapegoat’: Wife of Indian captain held in UK over ‘Russia shadow fleet’ case
+Ritu Pant said her husband sounded devastated when she first spoke to him after his arrest, “He was broken and he was just crying.”
 
+## International flyers from India won't need physical boarding pass from September 1
+International flyers departing India can use e-boarding passes at immigration from September 1, as physical boarding passes will no longer need to be stamped.
+
+## Quota within quota, more EWS benefits: YouTuber Ajeet Bharti's key demands at 'Reservation Hatao' protest
+The protest was organised by ‘Reservation Hatao Andolan’, a social media movement opposing quotas.
 
 ## Supreme Court plea seeks removal of BCI chief Manan Kumar Mishra, fresh election
 A plea in the Supreme Court seeks BCI chief Manan Kumar Mishra’s removal, challenging his tenure extension and seeking a probe into BCI finances and fresh elections.
@@ -98,15 +107,6 @@ Hyderabad The Rashtriya Swayamsevak Sangh (RSS) on Friday said protests and agit
 
 ## Kerala HC allows conditional suspension of jail sentence of 4 convicts in 2003 Muthanga land agitation cases
 Thiruvananthapuram: The Kerala High Court on Friday allowed the conditional suspension of the five-yearjail sentence imposed on four convicts in the case of attempt to murder of police constable Abdul Salam and forest range officer PK Sasidharan in connection with the 2003 Muthanga land struggle in 
-
-## TTD plans to deploy robotic dog to prevent human-animal conflicts on Tirumala hills
-Hyderabad The Tirumala Tirupati Devasthanams (TTD), the administrative body of Lord Venkateshwara temple on Tirumala hills in Andhra Pradesh’s Tirupati district, is contemplating deployment of an advanced four-legged robotic dog with artificial intelligence to track the movement of wild animals in t
-
-## Some of India’s health, social gains have percolated down to district-level: NFHS
-New Delhi:The Ministry of Health and Family Welfare on Friday released the provisional district-wise factsheets for the 2023-24 round of the National Family Health Survey (NFHS), one important source of data on demographic, health, economic, and social indicators that updates faster than census data
-
-## India’s transformation in telecom and digital connectivity monumental: Scindia
-Union minister for communications Jyotiraditya Scindia and Brazil’s minister of communication Frederico de Siqueira Filho on Friday signed a MoU to deepen cooperation in telecommunications and information and communications technologies (ICTs) on the sidelines of the12th BRICS Communication Minister
 
 ## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
 South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## At least 13 Tunisians missing as migrant boat headed for Italy capsizes
+Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.
+
+## US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail
+Canadian Prime Minister vows retaliatory tariffs "dollar for dollar" following failure to secure a US trade agreement.
+
 ## US judge strikes down Trump immigrant visa ban affecting 75 countries
 A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.
 
@@ -245,12 +251,6 @@ Victory for state Senator Aisha Wahab marks the latest example of a progressive 
 
 ## Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader
 Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.
-
-## Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall
-Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.
-
-## Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
-US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
