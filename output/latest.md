@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio
+Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election
+
 ## Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16
 Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war
 
@@ -21,11 +24,11 @@ Nike and Adidas are back in the race after challenger brands such as On Holding 
 ## Europe’s fatal beauty
 A less seductive continent would not attract so many enemies
 
-## Klarna’s stock crash shows the price of being a small fish in a big pond
-The European fintech has been hit by weak German consumer spending
-
 ## Is sport safe from AI?
 Plus, the unlikely duo challenging Chelsea, Arsenal and Real Madrid
+
+## Klarna’s stock crash shows the price of being a small fish in a big pond
+The European fintech has been hit by weak German consumer spending
 
 ## FT launches charity auction of star journalists
 Bid for lunch with your favourite columnist to support the Financial Literacy and Inclusion Campaign (FT FLIC)
@@ -38,6 +41,12 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
+
+## Nifty Next 50 logs highest monthly gain among indices in July: Motilal Oswal
+Nifty Next 50 climbs 2.82% over the month; Nifty 50 rises 2.17%
+
+## India’s alternative investment market could grow $2 trillion by 2034: Julius Baer-EY report
+The report estimates India’s alternative investment assets at around $400 billion, including $156 billion in SEBI-registered AIFs, with the rest from offshore vehicles, family offices, and unlisted structures
 
 ## EAM Jaishankar to visit Russia amid Trump’s tariff threat
 Jaishankar’s Russia trip comes at a time when US President Donald Trump has threatened to impose a secondary 100% tariff on countries that buy oil, gas and uranium from Russia
@@ -56,12 +65,6 @@ Rainfall figures so far during August, normally the second rainiest month, have 
 
 ## SEBI reviewing framework for disclosure of issue proceeds utilisation: Chairman
 SEBI is proposing a framework to avoid duplication of fines levied by multiple exchanges on entities listed on more than one exchange for the same matter
-
-## Preventive healthcare future model, crucial for national economy, security: Rajnath
-Singh noted that preventive healthcare is economically sensible, as treating advanced diseases can cost lakhs, while annual check-ups and basic care only cost hundreds or a few thousand rupees
-
-## Gemini Edibles & Fats India files DRHP for IPO
-The offering comprises an Offer for Sale (OFS) of up to 41.15 million equity shares by existing shareholders
 
 ## NBFCs stay on growth track as asset quality remains stable: Report
 Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moder
@@ -87,29 +90,29 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Apple expected to expand manufacturing beyond iPhones: Govt
 Google May Shift Share Of Production From China To India
 
+## Government scraps plan for shared biometric database of telecom users
+The final rules spell out how phone companies must confirm who a user is before giving them a SIM card, updating details, or disconnecting the phone number
+
+## SC seeks Centre reply on Kerala Waqf Board plea to extend UMEED portal upload deadline
+The Supreme Court sought the Centre's response to Kerala Waqf Board's plea for a four-month extension to upload 25,000 Waqf properties by September 7.
+
+## ‘Definitely no’: Ex-Air Force vice chief questions relevance of Tejas Mk-2 fighter jets in mid 2030s, slams HAL delay
+Air marshal (retd) Nagesh Kapoor questioned HAL's “sense of urgency”, saying it did not match up to that of the air force.
+
+## Kolkata shuts 13 hotels, issues notices to 50 over fire safety violations
+Officials aware of the developments said that the six bodies of Bangladeshis, killed in the central Kolkata hotel-fire, were likely to be taken to Banglades
+
+## BJP to hold ‘Seva Pakhwada’ from Sept 17 to mark PM Modi’s 25 years in office
+The BJP’s ‘Seva Pakhwada’ will run from September 17 to October 2, with sanitation, blood donation and health camps marking PM Modi’s 25 years in public office.
+
+## ‘Reservation Hatao Andolan’ protesters say govt agreed to talks on reform, clarify movement is 'not over yet'
+RHA, a social media page made using Cockroach Janta Party (CJP) tactics, was protesting at Jantar Mantar on Friday.
+
 ## 2 dead as under-construction building collapses in Hyderabad's Madhapur, rescue underway
 Emergency response teams arrived at the scene after an under-construction seven-storey building collapsed in Hyderabad. The rescue operations are underway.
 
 ## Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’
 BJP resolved to highlight Mahatma Gandhi’s description of Vande Mataram as an “anti-imperialist cry” linked to the “purest national spirit”.
-
-## ED raids Jaipur-based pastor over US funds allegedly used for proselytisation
-The ED alleged that pastor Ravi Mohan Pahadiya received foreign funds from a US-based donor without FCRA permission and used them for proselytisation activities.
-
-## Will Mamata Banerjee forgive TMC rebels? Party MP answers: 'We are scared that she will...'
-In an interview with Hindustan Times, TMC MP Dola Sen addressed whether Mamata Banerjee would forgive leaders who exited during the crisis.
-
-## ‘611 schools without buildings’: Rajasthan govt admits lapses amid CJP ‘checks’, blames Congress, Gehlot
-The BJP dubbed the poor condition of government schools as the “sin” of the previous Congress government that the current administration was trying to fix.
-
-## NTA announces AIAPGET re-exam for 49 candidates after power failure at Jaipur centre
-NTA reschedules AIAPGET exam for 49 candidates after power cut at Jaipur centre
-
-## ‘Politically motivated’: BCI Chairman Manan Mishra dismisses co-chair’s claims, invites scrutiny of accounts
-Earlier, the BCI co-chair demanded the immediate resignation of Manan Kumar Mishra, alleging irregularities in appointments and diversion of funds.
-
-## Parliament sees growing trend of bills introduced, passed in same session: PRS data
-Parliament sees growing trend of bills introduced, passed in same session: PRS data
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian strikes kill 6 people in Ukraine, day after shopping complex attack
+Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.
+
+## Hundreds of children take part in swimming class on Gaza’s shore
+On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.
+
+## Usain Bolt’s 100m record broken at World Humanoid Robot Games
+Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.
+
 ## Ebola continues to spread in the DRC as 16,000 vaccine doses arrive
 Health authorities are warning that ‘approximately one person has been dying from Ebola every thirty minutes’.
 
@@ -245,15 +257,6 @@ Enzo Maresca faces the formidable challenge of following the legendary manager P
 
 ## Former world champion boxer Zolani Tete shot and killed in South Africa
 Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.
-
-## Iran says new US sanctions violate sovereignty of other states
-Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.
-
-## Australia bite back as 18 wickets fall on day one of second Bangladesh Test
-Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.
-
-## Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
-Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Coco Gauff and Jessica Pegula also win.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
