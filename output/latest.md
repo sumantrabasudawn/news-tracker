@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## US-Canada trade deal goes down to the wire
+Officials locked in tough talks ahead of midnight deadline after Trump paused $20bn of new levies on North American trading partner
+
+## China’s robots rock, box and mix drinks. Can they outperform humans?
+Beijing policymakers have made robotics a ‘strategic priority’
+
 ## Pentagon fires military newspaper staffers for insubordination
 Defence department dismisses Stars and Stripes editor-in-chief and Middle East reporter
 
 ## ‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports
 President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections
-
-## US-Canada trade deal goes down to the wire
-Officials talk up prospect of agreement after Trump paused $20bn of new levies on North American trading partner
 
 ## SEC accuses ex-Bank of America utilities banker of insider trading
 Regulator says Jason Satsky helped a friend make $18.5mn in illegal profits tied to planned takeover of South Jersey Industries
@@ -21,20 +24,17 @@ Masoud Pezeshkian’s comments reflect debate within regime over how much econom
 ## Burnham hit by fiscal challenges as O’Neill declines government role
 £1.8bn deficit in July confounds economists’ expectations as prime minister prepares for October Budget
 
-## Italy’s MPS thinks three takeovers are better than one
-Crunching two banks together is challenging, and takes time; to attempt the same feat with four calls for some truly magical thinking
-
 ## Directors’ Deals: Pearson executive cashes in as digital growth boosts shares
 First-half revenues at the education group rise by 19 per cent
 
 ## Stockpickers: Costain, Oxford Nanopore Technologies, BHP
 Our experts discuss which companies to buy, sell or hold this week
 
+## Italy’s MPS thinks three takeovers are better than one
+Crunching two banks together is challenging, and takes time; to attempt the same feat with four calls for some truly magical thinking
+
 ## Apollo says hackers accessed personal data in latest Wall Street breach
 Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
-
-## The US techlash is real
-AI companies and social networks should respond to the shift in the public mood
 
 ## Trump administration starts process to transfer $725 million to UN
 The proposed payment could ease immediate pressure on the cash-strapped global body, which has warned of severe funding constraints and cuts.
@@ -84,29 +84,29 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices
 Says Drop Not Due To Ethanol Diversion
 
+## 105-year-old murder convict granted relief after Supreme Court closes 1988 case
+Mondal was accused in a murder case along with his three sons and two others in a case registered at Malda district in West Bengal in November 1988.
+
+## 'Lawyers can't be cockroaches': Manan Mishra says he won't quit, fumes at CJP's resignation call
+BCI Chairman Manan Mishra rejected the use of the term ‘legal cockroaches’ for advocates, and also said he was elected to the post and won't resign.
+
+## ‘Suffered 200 pellets, shot 5-6 times': What student protester backed by Rahul Gandhi said in FIR
+The FIR was filed after Rahul Gandhi joined the student protester and staged a protest outside the Parliament Street Police Station for more than six hours.
+
+## Bengal's new world order, 100 days on
+Days after securing power, the BJP declared it would not allow indiscriminate new membership, an attempt to firewall itself against former TMC leaders.
+
+## A father, mother and son: Three lives lost on Maharashtra hilltop over mobile phone row
+The man's father fell to his death in an attempt to save him and his mother jumped after seeing the two fall, police said
+
+## Not ethanol, but low output, festive demand behind sugar price hike: Centre
+The price surge has prompted the government to step up measures to curb hoarding and allow sugar imports for the first time in nearly a decade.
+
 ## Bangladesh PM's early trip to India falls through, August visit possible
 Bangladesh and India continue to be in touch to explore the possibility of a trip within the month of August.
 
 ## FIR for pellet injury during July 20 stir filed after Rahul Gandhi protests for over 6 hours
 Rahul Gandhi and other Congress leaders’ dramatic stir outside the Parliament Street Police Station turned into a major political controversy with the (BJP).
-
-## Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks
-Assam cab operators continued the highway blockade over attacks on Assam residents in Shillong, despite talks between the chief ministers of Assam and Meghalaya
-
-## UP: Interpol Red Corner Notice issued against 2024 Sambhal violence 'mastermind' Shariq Sata
-UP: Interpol Red Corner Notice issued against 2024 Sambhal violence 'mastermind' Shariq Sata
-
-## Revanth Reddy's US trip hits a wall, MEA denies clearance
-Reddy is expected to return home on August 23 after completing the UK leg of a two-nation tour.
-
-## CJP protest-like scenes at Jantar Mantar as ‘Reservation Hatao’ stir draws massive crowd; several detained
-Many visuals on X showed police personnel detaining protesters as a large number of people gathered at the site carrying banners and posters
-
-## Speeding car hits motorcycle in Gurugram, ED employee, friend killed
-The accused driver of the speeding car was apprehended by the bystanders who then handed him over to the police.
-
-## "Taking care of her cultural needs": MEA says pursuing Ariha Shah's case with German authorities
-However, MEA spokesperson Randhir Jaiswal said he did not have a fresh update on the case.
 
 ## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
 South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
@@ -156,6 +156,12 @@ A new survey reveals a preference for the U.S. president’s transactional appro
 ## Trump’s Twin Blunders
 The U.S. president has simultaneously demolished key relationships in East Asia and the Middle East.
 
+## Kinmen: The Sleepy Fishing Island That Could Be East Asia’s Biggest Flashpoint
+The island, administered by Taipei but just 2 miles from the mainland, has a culture and lifestyle all its own.
+
+## The Hidden Famine: What I Saw in North Korea’s Darkest Years
+“With the collapse of the Public Distribution System, which had been the sole source of food, many urban residents, unable to grow anything for themselves, simply wasted away in their homes, starving quietly and out of sight.”
+
 ## A New Japanese Drydock and the Limits of Allied Cooperation
 Japanese shipyards are expanding, but the future space may already be spoken for.
 
@@ -173,12 +179,6 @@ The building of collaboration with countries like Thailand is central to Austral
 
 ## How an Academic Became Collateral Damage to China’s Interests in Myanmar
 The arrest of Burmese-American scholar U Min Zin highlights China’s determination to ensure its role in Myanmar doesn’t come under scrutiny.
-
-## Is Pakistan’s Province Debate a Political Gimmick?
-Recurring discussions of whether, and how, to create new provinces avoids a conversation about provincial autonomy.
-
-## Nepal’s Tibet Conference Controversy Is About More Than Chinese Pressure
-The cancellation of the in-person event also reflects Nepal’s lack of confidence in its ability to manage politically sensitive events.
 
 ## Pressure Points: Economic Strain, Allied Discord, and War Fatigue
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. strikes on Iranian soil tapered off in August after frequent exchanges throughout July. The hiatus seem
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Peru rescues people trapped by landslides on highway for nearly a week
+Peru rescues people trapped by landslides on highway for nearly a week.
+
+## Palestinian-British girl, 6, dies days after family drowned off UK coast
+Saja el-Khawas's death follows that of her mother, father and sister on Tuesday, all of whom drowned.
+
+## Iranian president says time to end war with US from ‘position of strength’
+Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.
+
 ## California lawmaker overcomes pro-Israel spending to win special election
 Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.
 
@@ -242,15 +251,6 @@ US president says Iran 'would love to make a deal, but they’re not ready to ma
 
 ## Myanmar military bombing kills 14 at Buddhist monastery, opposition reports
 More than 100 people were in the monastery for a religious retreat, according to a local resident.
-
-## Editor of US newspaper Stars and Stripes reportedly fired under Trump
-Editor-in-chief Erik Slavin has suggested his firing was retaliation for speaking out about editorial independence.
-
-## Outrage in India over death of six-year-old ‘slapped’ by his teacher
-Andhra Pradesh's regional minister of education says he is taking legal action with committee against those responsible.
-
-## US debt tops $40 trillion, Americans left with the bill
-The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
