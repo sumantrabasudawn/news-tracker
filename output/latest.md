@@ -39,11 +39,17 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
 
+## EAM Jaishankar to visit Russia amid Trump’s tariff threat
+Jaishankar’s Russia trip comes at a time when US President Donald Trump has threatened to impose a secondary 100% tariff on countries that buy oil, gas and uranium from Russia
+
+## RBI says forex inflows under swap facility reach $72.85 billion as FCNR(B) mobilisation tops $65 billion
+The RBI reported that authoriSed dealer banks recorded $65.397 billion in inflows from FCNR(B) deposits as of August 21
+
+## India decides no boarding pass stamping at airports for international travellers from Sep 1
+Passengers traveling abroad will have to produce an e-boarding pass on their smartphones for immigration clearance, the officials stated
+
 ## No more 12-minute ad limit for TV channels as Centre notifies rule changes
 Analysts say move is directionally positive for television broadcasters
-
-## RBI says forex inflows under swap facility reach $72.85 billion as FCNR(B) mobilisation tops $65 Billion
-The RBI reported that authoriSed dealer banks recorded $65.397 billion in inflows from FCNR(B) deposits as of August 21
 
 ## Rain deficit inches up even as Bay prepares to host fresh ‘low’
 Rainfall figures so far during August, normally the second rainiest month, have been on the lower side, with the country as a whole running up a rain deficit of 15.2% until Friday
@@ -56,12 +62,6 @@ Singh noted that preventive healthcare is economically sensible, as treating adv
 
 ## Gemini Edibles & Fats India files DRHP for IPO
 The offering comprises an Offer for Sale (OFS) of up to 41.15 million equity shares by existing shareholders
-
-## Mom's Belief operator to launch IPO on Sep 1
-The IPO will remain open till September 3, while bidding for anchor investors will take place on August 31, according to the Red Herring Prospectus (RHP)
-
-## GI gains fade as Keralam’s handloom struggles for lasting economic boost
-Study finds early rise in sales and weavers’ wages after Geographical Indication tag was received, but gains have eroded over time
 
 ## NBFCs stay on growth track as asset quality remains stable: Report
 Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moder
@@ -87,6 +87,9 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Apple expected to expand manufacturing beyond iPhones: Govt
 Google May Shift Share Of Production From China To India
 
+## 2 dead as under-construction building collapses in Hyderabad's Madhapur, rescue underway
+Emergency response teams arrived at the scene after an under-construction seven-storey building collapsed in Hyderabad. The rescue operations are underway.
+
 ## Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’
 BJP resolved to highlight Mahatma Gandhi’s description of Vande Mataram as an “anti-imperialist cry” linked to the “purest national spirit”.
 
@@ -107,9 +110,6 @@ Earlier, the BCI co-chair demanded the immediate resignation of Manan Kumar Mish
 
 ## Parliament sees growing trend of bills introduced, passed in same session: PRS data
 Parliament sees growing trend of bills introduced, passed in same session: PRS data
-
-## Govt bans fixed-dose combo drugs with chlorpheniramine, phenylephrine for under 4yrs
-The health ministry has restricted all FDCs containing chlorpheniramine maleate and phenylephrine hydrochloride for children under four, citing safety concerns.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ebola continues to spread in the DRC as 16,000 vaccine doses arrive
+Health authorities are warning that ‘approximately one person has been dying from Ebola every thirty minutes’.
+
 ## More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus's exponential spread.
 
@@ -251,9 +254,6 @@ Left-armers star in wicket bonanza as Australia take 101-run lead over Banglades
 
 ## Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
 Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Coco Gauff and Jessica Pegula also win.
-
-## How will Trump’s tariffs affect Canada’s economy?
-US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
