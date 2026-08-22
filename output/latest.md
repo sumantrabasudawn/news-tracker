@@ -42,6 +42,9 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
 
+## FSSAI crackdown : 150 notices issued to food companies, over 20 notices to five-star hotels
+The food safety authority noted that 150 notices were sent to various food companies for “misleading ads, false claims and labelling non-compliances”
+
 ## India sugar tender rates drop by ₹500 a quintal, but retail rates soar to a new high
 Solapur-based Loknete Baburao Patil Agro Industries Ltd in Maharashtra sells S-30 grade sugar at ₹5,850 a quintal; Food Secretary says price rise not driven by fundamentals
 
@@ -62,9 +65,6 @@ Equity mutual fund AUM hits record ₹48.5 lakh crore; active schemes grow 13.3%
 
 ## Delhi Master Plan 2047: Six health centres, three hospitals per lakh population planned across city
 The Master Plan 2047 proposes an integrated healthcare system with facilities distributed in residential areas and linked to public transport
-
-## Australian education delegation visits Pune to strengthen India partnership
-The engagements focused on understanding the evolving aspirations of Indian students, exploring academic collaborations and student pathways, and strengthening institutional ties between Australian and Indian education institutions
 
 ## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
 Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
@@ -91,7 +91,7 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 
 
 ## PM Modi meets BJP’s newly formed team at party headquarters in Delhi
-PM Modi meets BJP’s newly-formed team at party headquarters in Delhi
+PM Modi arrived at the BJP headquarters on Saturday evening, shortly after the party passed a resolution on the honour and historic legacy of 'Vande Mataram'.
 
 ## EAM Jaishankar to visit Russia, co-chair key trade and economic commission
 Jaishankar is visiting Russia during August 23-24 at the invitation of first deputy Prime Minister Denis Manturov
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What did war with the US reveal about Iran’s weapons capabilities?
+Iran says production is ongoing, but details will not be revealed during war conditions.
+
 ## Man Utd humiliated at Hull to open Premier League account
 Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.
 
@@ -254,9 +257,6 @@ Jewish activists provide a ‘protective presence’ to deter settler violence i
 
 ## CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
 The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.
-
-## The Berlin Wall separated his family. Its legacy still endures
-When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
