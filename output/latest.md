@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16
+Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war
+
 ## Canada vows to match US tariffs as trade talks collapse
 Mark Carney rejects ‘unfair’ deal as top Washington envoy criticises ‘missed opportunity’
 
@@ -21,8 +24,8 @@ A less seductive continent would not attract so many enemies
 ## Klarna’s stock crash shows the price of being a small fish in a big pond
 The European fintech has been hit by weak German consumer spending
 
-## Burnham must reveal his hand on immigration
-Labour MPs dislike tough proposals to limit rights to settle and collect welfare but voters’ trust has run out
+## Is sport safe from AI?
+Plus, the unlikely duo challenging Chelsea, Arsenal and Real Madrid
 
 ## FT launches charity auction of star journalists
 Bid for lunch with your favourite columnist to support the Financial Literacy and Inclusion Campaign (FT FLIC)
@@ -36,32 +39,32 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
 
-## The fight to save England’s rivers
-Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
+## Preventive healthcare future model, crucial for national economy, security: Rajnath
+Singh noted that preventive healthcare is economically sensible, as treating advanced diseases can cost lakhs, while annual check-ups and basic care only cost hundreds or a few thousand rupees
 
-## Uniflow expands control-valve capacity 5-fold as India looks to cut critical imports
-A small but critical piece of industrial equipment is emerging as a potential bottleneck in India’s investment cycle: high-specification control valves, where import dependence runs as high as 40% and overseas procurement can stretch to 40 weeks
+## Gemini Edibles & Fats India files DRHP for IPO
+The offering comprises an Offer for Sale (OFS) of up to 41.15 million equity shares by existing shareholders
 
-## Biometric verification mandatory for new mobile Sim issuance, user detail update
-The new guidelines are aimed at tackling rising digital arrest scams and online fraud
+## Mom's Belief operator to launch IPO on Sep 1
+The IPO will remain open till September 3, while bidding for anchor investors will take place on August 31, according to the Red Herring Prospectus (RHP)
 
-## Chandigarh University Hosts Global Architectural Voices to Deliberate on Technology, Heritage and Future of Architecture
-Chandigarh University Hosts Global Architectural Voices to Deliberate on Technology, Heritage and Future of Architecture
+## GI gains fade as Keralam’s handloom struggles for lasting economic boost
+Study finds early rise in sales and weavers’ wages after Geographical Indication tag was received, but gains have eroded over time
 
-## India-Japan 50,000-worker employment corridor faces Japanese-language skills gap
-Honda India Foundation’s 60-person Japanese-language program adds to a growing effort to connect Indian workers with jobs in Japan
+## Govt rejects ethanol link to sugar price rise, allows duty-free imports to curb prices
 
-## Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays
-Use of reactors made in India will speed up regulatory approvals and companies would also benefit from an established supply chain
 
-## India Pharma Archives launched at IIM-A documenting 125-year industry journey
-The platform brings together company histories, archival documents, rare films and footage, timelines and interviews covering the people and institutions that shaped India’s pharmaceutical industry
+## Zee Entertainment allots 20.94 cr convertible warrants to promoter group entity
+Earlier this month, the Securities Appellate Tribunal stayed a SEBI order to debar ZEEL for two months and its CEO Punit Goenka for one year from capital markets in the Hyderabad land pledge case
 
-## Blockchain could make global financial transactions faster and cheaper: Report
-The report said blockchain technology has enabled the development of digital assets, including unregulated cryptocurrencies such as bitcoin and regulated digital assets such as stablecoins
+## Auto NBFC disbursements surge 20.7% YoY in Q1FY27 amid portfolio diversification
+Non-commercial vehicle segments continued to gain ground across balance sheet
 
-## Andhra invites tenders for 12 health projects worth ₹221 cr
-The Minister said that of the 12 works, 10 are related to the Ayush department and two to the allopathic medical department
+## Centre okays aviation varsity's expansion plan, directs UP govt to make land available
+The proposed expansion includes state-of-the-art laboratories, research centres and other infrastructure aimed at promoting higher education, research and innovation in aviation, aerospace and allied fields
+
+## NBFCs stay on growth track as asset quality remains stable: Report
+Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moder
 
 ## 29 states vs Meta: How a landmark child safety trial could reshape Facebook, Insta
 Twenty-nine US states are suing Meta, alleging exploitative product design targeting young users. The lawsuit claims Meta concealed internal research about potential harms to teenagers. States seek substantial financial penalties and court-ordered product redesigns for Facebook and Instagram. A form
@@ -84,32 +87,29 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Apple expected to expand manufacturing beyond iPhones: Govt
 Google May Shift Share Of Production From China To India
 
-## PSBs losing share in high-value business: Report
-Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From GCCs
+## Parliament sees growing trend of bills introduced, passed in same session: PRS data
+Parliament sees growing trend of bills introduced, passed in same session: PRS data
 
-## Thane doctor downloads file on WhatsApp, loses ₹60K in online delivery scam
-The fraudster instructed the doctor to download a file, which turned out to be a malicious file, sent to his phone on the pretext of resolving delivery issue.
+## Govt bans FDCs with chlorpheniramine, phenylephrine for children under four years
+The health ministry has restricted all FDCs containing chlorpheniramine maleate and phenylephrine hydrochloride for children under four, citing safety concerns.
 
-## ‘Misinformation’: Cochin airport rejects SpiceJet’s ‘bad weather in Kochi' claim
-The authorities said there was no adverse weather in Kochi that could disrupt the flights at the airport.
+## Newborn dies, 2 injured after fire breaks out in MP hospital NICU: Official
+According to hospital officials, three children aged between one and 12 days were placed in the same cradle when the fire erupted
 
-## Judges not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol
-Judges not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol
+## ‘India could use water as weapon’: Pakistan minister warns amid Indus Water Treaty row
+The remarks come amid renewed tensions between the two nuclear-armed neighbours over the Indus Waters Treaty.
 
-## Former CM Vijayan says his hands clean; denies hawala dealings
-Former CM Vijayan says his hands clean; denies hawala dealings
+## Vijay treating Assembly like ‘cinema set, delivering punch dialogues’: Stalin attacks Tamil Nadu CM
+Addressing a DMK executive meeting, MK Stalin also accused CM Vijay of changing the names of schemes introduced during the DMK's tenure.
 
-## Seek medical advice if experiencing H1N1 symptoms: Govt's directive as cases surge
-Delhi has recorded 2,392 Influenza-A cases this year, including 1,777 H1N1 cases, according to health department data
+## 3 detained for burning leopard caught in snare in Karnataka’s Tumakuru: Official
+Frustrated by the crop loss and seeking to protect the remaining crop from wild animals, a sharp wire snare trap was illegally set around the field
 
-## BJP passes resolution to protect 'Vande Mataram', condemns Congress move to sing 2 stanzas
-The BJP said the full national song, comprising six stanzas, represents India’s national consciousness and the legacy of the freedom struggle.
+## Family-linked appointments, funds diversion: BCI co-chair's allegations against Manan Mishra
+Co-chair alleged that staff appointments were made without a transparent recruitment process and that several employees are personally connected to Mishra.
 
-## Keralam CM Satheesan hails Cardinal Cleemis as guiding light for society
-Keralam CM Satheesan hails Cardinal Cleemis as guiding light for society
-
-## Imphal-Dimapur-Guwahati bus service resumes after 3 years in violence-hit Manipur
-Public transport on the Imphal-Dimapur-Guwahati route resumed after nearly three years, with 125 passengers travelling in two buses and five wingers on Friday.
+## ChatGPT, internet searches and 'dhuk dhuk': Rajnath on challenge of self-diagnosis for doctors
+ChatGPT, internet searches and 'dhuk dhuk': Rajnath on challenge of self-diagnosis for doctors
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Manchester City preview: Five key questions heading into 2026-27 season
+Enzo Maresca faces the formidable challenge of following the legendary manager Pep Guardiola as new season starts.
+
+## Former world champion boxer Zolani Tete shot and killed in South Africa
+Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.
+
+## Iran says new US sanctions violate sovereignty of other states
+Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.
+
 ## Australia bite back as 18 wickets fall on day one of second Bangladesh Test
 Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.
 
@@ -245,15 +254,6 @@ Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risk
 
 ## Lionel Messi fined for striking opponent in Inter Miami MLS game
 MLS fine Inter Miami's Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.
-
-## ‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell
-Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.
-
-## World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent
-Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.
-
-## Somalia child hunger crisis deepens after aid cuts, UNICEF says
-The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
