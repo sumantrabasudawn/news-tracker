@@ -1,40 +1,52 @@
 # AION Intelligence
 
-## US says Canada rejects its trade deal offer
-Top Washington representative Jamieson Greer criticises Ottawa’s ‘missed opportunity’
+## Canada vows to match US tariffs as trade talks collapse
+Mark Carney rejects ‘unfair’ deal as top Washington envoy criticises ‘missed opportunity’
 
-## China’s robots rock, box and mix drinks. Can they outperform humans?
-Beijing policymakers have made robotics a ‘strategic priority’
+## Bossing the bond market around never works
+Despite Scott Bessent’s efforts, investors worry something is up
 
-## Pentagon fires military newspaper staffers for insubordination
-Defence department dismisses Stars and Stripes editor-in-chief and Middle East reporter
+## The man selling the Lakers: Mark Walter’s unravelling empire
+Private capital saw an opportunity to make insurance much more profitable. At what risk?
 
-## ‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports
-President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections
+## The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel
+The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen
 
-## SEC accuses ex-Bank of America utilities banker of insider trading
-Regulator says Jason Satsky helped a friend make $18.5mn in illegal profits tied to planned takeover of South Jersey Industries
+## Big running shoe brands are regaining their lead
+Nike and Adidas are back in the race after challenger brands such as On Holding and Hoka start to lose momentum
 
-## Ukraine seeks Musk’s help to hit Russian missile launchers
-Starlink-equipped drones could strike targets up to 200km inside Russia
+## Europe’s fatal beauty
+A less seductive continent would not attract so many enemies
 
-## Iran’s president calls to end war with US from ‘position of strength’
-Masoud Pezeshkian’s comments reflect debate within regime over how much economic pressure country can endure
+## Klarna’s stock crash shows the price of being a small fish in a big pond
+The European fintech has been hit by weak German consumer spending
 
-## Burnham hit by fiscal challenges as O’Neill declines government role
-£1.8bn deficit in July confounds economists’ expectations as prime minister prepares for October Budget
+## Burnham must reveal his hand on immigration
+Labour MPs dislike tough proposals to limit rights to settle and collect welfare but voters’ trust has run out
 
-## Directors’ Deals: Pearson executive cashes in as digital growth boosts shares
-First-half revenues at the education group rise by 19 per cent
+## FT launches charity auction of star journalists
+Bid for lunch with your favourite columnist to support the Financial Literacy and Inclusion Campaign (FT FLIC)
 
-## Stockpickers: Costain, Oxford Nanopore Technologies, BHP
-Our experts discuss which companies to buy, sell or hold this week
+## The financial question most couples cannot answer
+There are sound reasons to rethink how couples approach investing for the future
 
-## Italy’s MPS thinks three takeovers are better than one
-Crunching two banks together is challenging, and takes time; to attempt the same feat with four calls for some truly magical thinking
+## UK recruiters rebound despite European jobs weakness
+Investors return to Hays, Michael Page and Robert Walters after cost-cutting measures
 
-## Apollo says hackers accessed personal data in latest Wall Street breach
-Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
+## EU slips further behind US in race for critical minerals
+Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
+
+## The fight to save England’s rivers
+Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
+
+## BRICS well placed to foster future-oriented innovation ecosystem: Jitendra Singh
+Singh highlighted that the world is undergoing rapid transformation driven by emerging technologies such as artificial intelligence, quantum technologies, advanced materials, biotechnology, photonics, geospatial technologies and high-performance computing
+
+## 29 US states are suing Meta. What might it mean for the rest of the world?
+The claims against Meta are that it deliberately designed and monetised Instagram and Facebook to exploit the psychological vulnerabilities of children and teenagers
+
+## India raises with Somalia issue of hijacking of vessels with Indian sailors
+The Indian High Commission in Kenya said it is understood that there are reportedly 16 Indian seafarers onboard MT Sibu and six Indian seafarers onboard MV Lutuf
 
 ## TN govt initiates major push for temple infrastructure across state
 The minister said that to enrich the experience for visiting pilgrims, significant investments are planned for infrastructure and basic amenities
@@ -48,17 +60,8 @@ Through the QIP, the Company allotted 49.50 crore fully paid-up Equity Shares of
 ## Beyond prices: How commodity volatility changes the economics of financing trade
 A profitable commodity trade can become unfinanceable when price, policy, ESG and currency risks move before the cargo does
 
-## India’s natural farming transition may begin in its waterbodies
-Bundelkhand farmers are teaching us an important lesson: water security and sustainable agriculture should not be designed in separate silos
-
-## Two killed, 9 injured in a blast at Hazelo Pharma Unit in Telangana
-The incident happened when the workers were changing shift
-
-## Trump administration starts process to transfer $725 million to UN
-The proposed payment could ease immediate pressure on the cash-strapped global body, which has warned of severe funding constraints and cuts.
-
-## Joyalukkas, Kalyan bag TN govt order to gift gold rings to 4.41 lakh newborns
-The Kerala jeweler pipped others for the ₹755 crore order by bidding on a razor-thin margin
+## NMEO-OP: Five years on, what has India got back?
+Public investment in a perennial crop should be judged by productive outcomes, not expenditure or acreage alone.
 
 ## 'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'
 In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being
@@ -84,7 +87,13 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Tablets gain from rising laptop prices
 
 
-## ‘My husband became scapegoat’: Wife of Indian captain held in UK over ‘Russia shadow fleet’ case
+## ‘Maa ke liye jee lo’: Sarpanch's emotional plea fails as teen, his parents fall to death amid phone row
+The village sarpanch urged the boy to step back and tried to lure him with various promises.
+
+## 4 of family killed after being hit by speeding SUV on Jaipur highway
+Four members of a family were killed and another injured after a speeding SUV allegedly hit them on State Highway-2 in Jaipur’s Fagi on Friday.
+
+## ‘My husband made scapegoat’: Wife of Indian captain held in UK over ‘Russia shadow fleet’ case
 Ritu Pant said her husband sounded devastated when she first spoke to him after his arrest, “He was broken and he was just crying.”
 
 ## International flyers from India won't need physical boarding pass from September 1
@@ -101,12 +110,6 @@ However, MEA spokesperson Randhir Jaiswal said he did not have a fresh update on
 
 ## Why Criticise VCs for Attending RSS Events?: Guv
 Thiruvananthapuram: Kerala Governor Rajendra Arlekar said he could not understand why the state government criticised vice-chancellors of universities for attending Rashtriya Swayamsevak Sangh (RSS) events, or what rules they violated by doing so
-
-## Protests, agitations alone cannot solve issues like graft: RSS
-Hyderabad The Rashtriya Swayamsevak Sangh (RSS) on Friday said protests and agitations alone cannot provide solutions to corruption and other systemic shortcomings; and it requires positive and constructive approach from the government as well as the society in resolving the public grievances
-
-## Kerala HC allows conditional suspension of jail sentence of 4 convicts in 2003 Muthanga land agitation cases
-Thiruvananthapuram: The Kerala High Court on Friday allowed the conditional suspension of the five-yearjail sentence imposed on four convicts in the case of attempt to murder of police constable Abdul Salam and forest range officer PK Sasidharan in connection with the 2003 Muthanga land struggle in 
 
 ## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
 South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
@@ -228,11 +231,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Inundated Philippine communities seek answers over flood control funds
+Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.
+
+## Palestinian teen shot and killed in West Bank attack, UN responds
+A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank
+
+## Nigeria and the Sahel: A growing security divide
+A widening diplomatic rift is complicating efforts to confront a shared cross-border security threat.
+
 ## At least 13 Tunisians missing as migrant boat headed for Italy capsizes
 Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.
 
 ## US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail
-Canadian Prime Minister vows retaliatory tariffs "dollar for dollar" following failure to secure a US trade agreement.
+Canadian prime minister says country will match tariffs 'dollar for dollar' after failure to secure US trade agreement.
 
 ## US judge strikes down Trump immigrant visa ban affecting 75 countries
 A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.
@@ -242,15 +254,6 @@ Peru rescues people trapped by landslides on highway for nearly a week.
 
 ## Palestinian-British girl, 6, dies days after family drowned off UK coast
 Saja el-Khawas's death follows that of her mother, father and sister on Tuesday, all of whom drowned.
-
-## Iranian president says time to end war with US from ‘position of strength’
-Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.
-
-## California lawmaker overcomes pro-Israel spending to win special election
-Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.
-
-## Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader
-Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
