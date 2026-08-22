@@ -42,6 +42,12 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
 
+## DCGI flags regulatory risks as Pharma industry races to embrace AI at IIMA healthcare summit
+The DGCI said regulators approve a product based on defined characteristics of quality, safety and performance and expect those characteristics to remain consistent through the product’s lifecycle
+
+## Around 8.7 crore Indian youth not studying, working or undergoing training: Niti Aayog
+The Aayog’s report ‘Reimagining Skilling for Viksit Bharat@2047’ estimates are based on the 2021 78th round of the National Sample Survey
+
 ## Nifty Next 50 logs highest monthly gain among indices in July: Motilal Oswal
 Nifty Next 50 climbs 2.82% over the month; Nifty 50 rises 2.17%
 
@@ -59,12 +65,6 @@ Passengers traveling abroad will have to produce an e-boarding pass on their sma
 
 ## No more 12-minute ad limit for TV channels as Centre notifies rule changes
 Analysts say move is directionally positive for television broadcasters
-
-## Rain deficit inches up even as Bay prepares to host fresh ‘low’
-Rainfall figures so far during August, normally the second rainiest month, have been on the lower side, with the country as a whole running up a rain deficit of 15.2% until Friday
-
-## SEBI reviewing framework for disclosure of issue proceeds utilisation: Chairman
-SEBI is proposing a framework to avoid duplication of fines levied by multiple exchanges on entities listed on more than one exchange for the same matter
 
 ## NBFCs stay on growth track as asset quality remains stable: Report
 Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moder
@@ -90,6 +90,21 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Apple expected to expand manufacturing beyond iPhones: Govt
 Google May Shift Share Of Production From China To India
 
+## Karnataka IAS officer goes missing after Bengaluru flight; govt clarifies his whereabouts
+Gyanendra Kumar Gangwar, a 2016-batch IAS officer, had reportedly been incommunicado since August 20 and had booked a flight to Delhi.
+
+## Focus on young blood, mandatory two-term limit: DMK’s overhaul to bounce back after poll defeat
+The DMK, the principal opposition in Tamil Nadu, unveiled a structural overhaul in its organisation fixing strict age caps and limiting term for party posts.
+
+## Karnataka bans manufacture and sale of analogue ‘paneer’ for one year
+Analogue or non-dairy paneer refers to products made to resemble paneer by replacing all or part of the milk fat or milk solids with vegetable oil.
+
+## Delhi man kills passenger over ₹1,000 fare dispute, calls wife, son to hide body; all 3 held
+During the journey, the passenger allegedly refused to pay the fare, leading to a quarrel inside the vehicle in West Delhi, police said.
+
+## CJI praises Justice Karol’s patience, courtesy as judge bids SC farewell
+Justice Karol thanked the Bar for their support and stated that his greatest privilege has been to fulfill the constitutional promise entrusted to him
+
 ## Government scraps plan for shared biometric database of telecom users
 The final rules spell out how phone companies must confirm who a user is before giving them a SIM card, updating details, or disconnecting the phone number
 
@@ -98,21 +113,6 @@ The Supreme Court sought the Centre's response to Kerala Waqf Board's plea for a
 
 ## ‘Definitely no’: Ex-Air Force vice chief questions relevance of Tejas Mk-2 fighter jets in mid 2030s, slams HAL delay
 Air marshal (retd) Nagesh Kapoor questioned HAL's “sense of urgency”, saying it did not match up to that of the air force.
-
-## Kolkata shuts 13 hotels, issues notices to 50 over fire safety violations
-Officials aware of the developments said that the six bodies of Bangladeshis, killed in the central Kolkata hotel-fire, were likely to be taken to Banglades
-
-## BJP to hold ‘Seva Pakhwada’ from Sept 17 to mark PM Modi’s 25 years in office
-The BJP’s ‘Seva Pakhwada’ will run from September 17 to October 2, with sanitation, blood donation and health camps marking PM Modi’s 25 years in public office.
-
-## ‘Reservation Hatao Andolan’ protesters say govt agreed to talks on reform, clarify movement is 'not over yet'
-RHA, a social media page made using Cockroach Janta Party (CJP) tactics, was protesting at Jantar Mantar on Friday.
-
-## 2 dead as under-construction building collapses in Hyderabad's Madhapur, rescue underway
-Emergency response teams arrived at the scene after an under-construction seven-storey building collapsed in Hyderabad. The rescue operations are underway.
-
-## Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’
-BJP resolved to highlight Mahatma Gandhi’s description of Vande Mataram as an “anti-imperialist cry” linked to the “purest national spirit”.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Jewish activists push back against Israeli settlers
+Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
+
+## CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
+The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.
+
+## The Berlin Wall separated his family. Its legacy still endures
+When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.
+
 ## Russian strikes kill 6 people in Ukraine, day after shopping complex attack
 Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.
 
@@ -248,15 +257,6 @@ Health authorities are warning that ‘approximately one person has been dying f
 
 ## More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus's exponential spread.
-
-## Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move
-Party launches legal action after authorities take ex-PM to ⁠state hospital for check-up ⁠before returning him to jail.
-
-## Manchester City preview: Five key questions heading into 2026-27 season
-Enzo Maresca faces the formidable challenge of following the legendary manager Pep Guardiola as new season starts.
-
-## Former world champion boxer Zolani Tete shot and killed in South Africa
-Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
