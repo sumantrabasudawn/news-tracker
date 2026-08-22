@@ -39,6 +39,15 @@ Washington and Beijing are beating Brussels in competition to secure components 
 ## The fight to save England’s rivers
 Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
 
+## India-Japan 50,000-worker employment corridor faces Japanese-language skills gap
+Honda India Foundation’s 60-person Japanese-language program adds to a growing effort to connect Indian workers with jobs in Japan
+
+## Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays
+Use of reactors made in India will speed up regulatory approvals and companies would also benefit from an established supply chain
+
+## India Pharma Archives launched at IIM-A documenting 125-year industry journey
+The platform brings together company histories, archival documents, rare films and footage, timelines and interviews covering the people and institutions that shaped India’s pharmaceutical industry
+
 ## Blockchain could make global financial transactions faster and cheaper: Report
 The report said blockchain technology has enabled the development of digital assets, including unregulated cryptocurrencies such as bitcoin and regulated digital assets such as stablecoins
 
@@ -53,15 +62,6 @@ The prime minister said the world has many concerns regarding growth as resource
 
 ## FM directs early completion of Detailed Project Report for high-level dam on Kosi river
 The Chief Minister of Bihar requested the Centre's cooperation for the State's development and urged prompt action on pending matters
-
-## India, Mauritius sign long-term fuel supply pact; IOC to meet entire import requirement
-Under the agreement IOC will supply Mauritius its entire import requirement of motor spirit (petrol), high speed diesel (diesel) and aviation turbine fuel
-
-## Think. Over the week
-
-
-## ABH Healthcare to raise ₹35 crore via IPO on NSE Emerge
-The issue, priced in a band of ₹96 to ₹102 per equity share, opens for subscription on Monday
 
 ## 29 states vs Meta: How a landmark child safety trial could reshape Facebook, Insta
 Twenty-nine US states are suing Meta, alleging exploitative product design targeting young users. The lawsuit claims Meta concealed internal research about potential harms to teenagers. States seek substantial financial penalties and court-ordered product redesigns for Facebook and Instagram. A form
@@ -87,6 +87,21 @@ Google May Shift Share Of Production From China To India
 ## PSBs losing share in high-value business: Report
 Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From GCCs
 
+## Judges not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol
+Judges not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol
+
+## Former CM Vijayan says his hands clean; denies hawala dealings
+Former CM Vijayan says his hands clean; denies hawala dealings
+
+## Seek medical advice if experiencing H1N1 symptoms: Govt's directive as cases surge
+Delhi has recorded 2,392 Influenza-A cases this year, including 1,777 H1N1 cases, according to health department data
+
+## BJP passes resolution to protect 'Vande Mataram', condemns Cong move to sing 2 stanzas
+The BJP said the full national song, comprising six stanzas, represents India’s national consciousness and the legacy of the freedom struggle.
+
+## Keralam CM Satheesan hails Cardinal Cleemis as guiding light for society
+Keralam CM Satheesan hails Cardinal Cleemis as guiding light for society
+
 ## Imphal-Dimapur-Guwahati bus service resumes after 3 years in violence-hit Manipur
 Public transport on the Imphal-Dimapur-Guwahati route resumed after nearly three years, with 125 passengers travelling in two buses and five wingers on Friday.
 
@@ -95,21 +110,6 @@ Banks are closed on August 22 and will also remain closed on Sunday; while more 
 
 ## Over 50 detained, crowd at Jantar Mantar despite no nod: What happened at ‘Reservation Hatao Andolan’
 The protesters had gathered at Jantar Mantar despite the police's repeated reminder that no permission had been granted to stage a demonstration there.
-
-## NHRC directs Punjab govt to probe allegation against CM's wife of demanding ₹5 cr to suppress rape case
-NHRC directs Punjab govt to probe allegation against CM's wife of demanding ₹5 cr to suppress rape case
-
-## Haridwar: 3 killed, 6 injured as 4 motorcycles collide on Kanwar route
-Three people were killed and six injured after four motorcycles collided on Haridwar’s Kanwar Patri amid poor visibility due to darkness and rain, police said.
-
-## 'Manan Mishra ji alarms are ringing': CJP's dig as BCI Co-Chair gets behind resignation demand
-BCI Co-Chairman and senior advocate YR Sadashiva Reddy has sought Mishra’s resignation, saying “the Bar deserves better”.
-
-## Kerala varsity VC alleges foreign forces try to turn youngsters into 'cockroaches'
-Kerala varsity VC alleges foreign forces try to turn youngsters into 'cockroaches'
-
-## BCI Co-Chair seeks Chairman Manan Mishra's resignation, cites NALSAR row: 'The Bar deserves better'
-BCI Co-Chair YR Sadashiva Reddy cites ₹150 crore fund diversion, family appointments and NALSAR action among reasons for seeking Manan Mishra’s resignation.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
+Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Coco Gauff and Jessica Pegula also win.
+
 ## How will Trump’s tariffs affect Canada’s economy?
 US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy.
 
@@ -251,9 +254,6 @@ The drought-stricken country has recorded a 32 percent jump in the number of chi
 
 ## China’s new moon mission could unlock secret of lunar ice: Why that matters
 The Chang'e-7 seeks to find out more about the water trapped within the moon's shadowed craters.
-
-## ‘It was a tsunami’: Floods leave death trail in India’s Assam
-From father searching for his daughter's body to man who drowned trying to save a friend, floods take devastating toll.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
