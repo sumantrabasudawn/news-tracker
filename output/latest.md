@@ -9,7 +9,7 @@ Despite Scott Bessent’s efforts, investors worry something is up
 ## The man selling the Lakers: Mark Walter’s unravelling empire
 Private capital saw an opportunity to make insurance much more profitable. At what risk?
 
-## Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel
+## Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel
 The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen
 
 ## Big running shoe brands are regaining their lead
@@ -39,6 +39,12 @@ Washington and Beijing are beating Brussels in competition to secure components 
 ## The fight to save England’s rivers
 Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
 
+## Blockchain could make global financial transactions faster and cheaper: Report
+The report said blockchain technology has enabled the development of digital assets, including unregulated cryptocurrencies such as bitcoin and regulated digital assets such as stablecoins
+
+## Andhra invites tenders for 12 health projects worth ₹221 cr
+The Minister said that of the 12 works, 10 are related to the Ayush department and two to the allopathic medical department
+
 ## India, UK hold key meet in Delhi to bolster bilateral defence ties
 The visit underlines the longstanding defence cooperation between the two countries and regular exchange of views on issues of mutual interest
 
@@ -57,11 +63,8 @@ Under the agreement IOC will supply Mauritius its entire import requirement of m
 ## ABH Healthcare to raise ₹35 crore via IPO on NSE Emerge
 The issue, priced in a band of ₹96 to ₹102 per equity share, opens for subscription on Monday
 
-## Rain deficit inches up even as monsoon eyes East and North-East India
-Rainfall figures so far during August, normally the second rainiest month, have been on the lower side, with the country as a whole running up a rain deficit of 15.2% until Friday
-
-## India-Finland cooperation takes centre stage at circular economy forum
-The India Circular Economy Forum is a precursor to the World Circular Economy Forum 2026, which will be held in Gandhinagar from September 15 to 18
+## 29 states vs Meta: How a landmark child safety trial could reshape Facebook, Insta
+Twenty-nine US states are suing Meta, alleging exploitative product design targeting young users. The lawsuit claims Meta concealed internal research about potential harms to teenagers. States seek substantial financial penalties and court-ordered product redesigns for Facebook and Instagram. A form
 
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
@@ -84,8 +87,14 @@ Google May Shift Share Of Production From China To India
 ## PSBs losing share in high-value business: Report
 Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From GCCs
 
-## Easier rules boost FDI inflows from China by $500 million
+## Imphal-Dimapur-Guwahati bus service resumes after 3 years in violence-hit Manipur
+Public transport on the Imphal-Dimapur-Guwahati route resumed after nearly three years, with 125 passengers travelling in two buses and five wingers on Friday.
 
+## Bank holiday today: Why are branches closed on August 22? Check full schedule
+Banks are closed on August 22 and will also remain closed on Sunday; while more holidays are listed next week
+
+## Over 50 detained, crowd at Jantar Mantar despite no nod: What happened at ‘Reservation Hatao Andolan’
+The protesters had gathered at Jantar Mantar despite the police's repeated reminder that no permission had been granted to stage a demonstration there.
 
 ## NHRC directs Punjab govt to probe allegation against CM's wife of demanding ₹5 cr to suppress rape case
 NHRC directs Punjab govt to probe allegation against CM's wife of demanding ₹5 cr to suppress rape case
@@ -101,15 +110,6 @@ Kerala varsity VC alleges foreign forces try to turn youngsters into 'cockroache
 
 ## BCI Co-Chair seeks Chairman Manan Mishra's resignation, cites NALSAR row: 'The Bar deserves better'
 BCI Co-Chair YR Sadashiva Reddy cites ₹150 crore fund diversion, family appointments and NALSAR action among reasons for seeking Manan Mishra’s resignation.
-
-## Delhi techie dies after assault by in-laws following dispute with wife
-Police identified the deceased as Vinay Gupta, a resident of Laxmi Park, who married about three and a half years ago. Police did not identify the wife
-
-## Bengaluru: Second IISc student suicide in 15 days as 22-yr-old dies in hostel
-A 22-year-old first-year MTech student allegedly died by suicide at IISc Bengaluru, the second such death at the institute in 15 days, police said.
-
-## 50+ Youth Congress workers detained in Pune after clash with ABVP members ahead of Rahul Gandhi's event
-Based on a complaint filed by an ABVP member, police registered a first information report on Saturday morning against 50 to 60 Youth Congress workers.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How will Trump’s tariffs affect Canada’s economy?
+US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy.
+
+## Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
+Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.
+
+## Lionel Messi fined for striking opponent in Inter Miami MLS game
+MLS fine Inter Miami's Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.
+
+## ‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell
+Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.
+
 ## World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent
 Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.
 
@@ -242,18 +254,6 @@ The Chang'e-7 seeks to find out more about the water trapped within the moon's s
 
 ## ‘It was a tsunami’: Floods leave death trail in India’s Assam
 From father searching for his daughter's body to man who drowned trying to save a friend, floods take devastating toll.
-
-## Inundated Philippine communities seek answers over flood control funds
-Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.
-
-## Palestinian teen shot and killed in West Bank attack, UN responds
-A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank
-
-## Nigeria and the Sahel: A growing security divide
-A widening diplomatic rift is complicating efforts to confront a shared cross-border security threat.
-
-## At least 13 Tunisians missing as migrant boat headed for Italy capsizes
-Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
