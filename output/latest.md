@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
+For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.
+
 ## Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
 Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.
 
@@ -254,9 +257,6 @@ Israel opens construction bids for new illegal housing units in the occupied Wes
 
 ## More than 200,000 newly displaced in Sudan’s Kordofan region
 Intensified fighting in Sudan has displaced at least 200,000 people in the Kordofan region since late last year.
-
-## Israeli strikes kill two and injure others as Gaza attacks continue
-Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
