@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## ‘Appeasement is not a strategy’: how media is fighting back against Trump’s legal threats
+US president juggles multiple cases against news and entertainment groups
+
 ## Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16
 Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war
 
@@ -21,9 +24,6 @@ The president’s agenda is under strain as the Iran war pushes up prices and Am
 ## Big running shoe brands are regaining their lead
 Nike and Adidas are back in the race after challenger brands such as On Holding and Hoka start to lose momentum
 
-## Europe’s fatal beauty
-A less seductive continent would not attract so many enemies
-
 ## Is sport safe from AI?
 Plus, the unlikely duo challenging Chelsea, Arsenal and Real Madrid
 
@@ -39,32 +39,29 @@ There are sound reasons to rethink how couples approach investing for the future
 ## UK recruiters rebound despite European jobs weakness
 Investors return to Hays, Michael Page and Robert Walters after cost-cutting measures
 
-## EU slips further behind US in race for critical minerals
-Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
+## Tech Query: Hindustan Unilever, Hindustan Petroleum Corporation, Craftsman Automation, Jupiter Wagons - What is the outlook? Where are these stocks headed?
+We look at the prospects of Hindustan Unilever Limited (HUL), Hindustan Petroleum Corporation (HPCL), Craftsman Automation, Jupiter Wagons
 
-## Who Am I? August 23, 2026
-Are you an avid investor? How well do you know corporate India?
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of Jindal Saw, SBI Life Insurance Company and Union Bank of India
 
-## West Bengal govt mulls paying outstanding incentives to industry in tranches
-Total outstanding incentive to industry believed to exceed ₹10,000 crore
+## Short Take: Option P/L on expiry
 
-## DYPIU to launch School of Legal Studies, Governance and Public Policy
-DYPIU is the first private university to offer a BTech programme in semiconductor engineering and will be launching the School of Legal Studies, Governance and Public Policy from the current academic year
 
-## BRICS Science Ministerial Meet adopts declaration to build resilient science technology and innovation framework
-The Chennai Consensus, adopted under India’s BRICS Chairship, places a “people-centred and humanity-first approach at the heart of STI cooperation
+## US Market Outlook: Brief pullback
+The US benchmark indices have supports to limit the downside
 
-## NRIs yern for higher returns: Banks mop up $65.397 billion in just 75 days via FCNR-B deposits
-And the inflows are gathering pace as the RBI has cut short the deadline to offer concessional swap facility for fresh FCNR-B deposits mobilised by banks by a month to August 31, 2026
+## F&O Strategy: Buy Tech Mahindra futures
 
-## FSSAI crackdown : 150 notices issued to food companies, over 20 notices to five-star hotels
-The food safety authority noted that 150 notices were sent to various food companies for “misleading ads, false claims and labelling non-compliances”
 
-## India sugar tender rates drop by ₹500 a quintal, but retail rates soar to a new high
-Solapur-based Loknete Baburao Patil Agro Industries Ltd in Maharashtra sells S-30 grade sugar at ₹5,850 a quintal; Food Secretary says price rise not driven by fundamentals
+## Index Outlook: Key support holds
+The bounce from the lows last week keeps the positive bias intact
 
-## The US energy infrastructure opportunity is structural, not one-off’: Welspun MD & CEO
-The contract, linked to a major Permian Basin export pipeline project, takes its global order book to about $4.4 billion, with more than 60-65% expected to be executed from the US over the next three to three-and-a-half years
+## Bullion Cues: Gold futures and silver futures could gain more
+Traders can consider long positions
+
+## Crude Check: Oil futures can scale higher
+Consider fresh buys
 
 ## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
 Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
@@ -90,6 +87,12 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Car buyers take fancy to mid-size SUV models
 
 
+## Death toll rises to 11 in Gujarat spurious liquor case: Police
+Two police inspectors and five other police personnel were suspended after a preliminary investigation found negligence
+
+## Rahul Gandhi rejects Manusmriti's norm about women's identity: ‘You belong to yourself’
+Calling on the audience to "break the cage", Rahul Gandhi told the youth that every individual is unique and has their own dreams and vision.
+
 ## Ranchi police files FIR against JPSC-JSSC protest leaders over Aug 21 police-students clash
 Among those named are Kunal Pratap Singh, Piyush Kumar, and Ravindra Paswan – leaders of the JPSC-JSSC Reforms Manch.
 
@@ -107,12 +110,6 @@ Jaishankar is visiting Russia during August 23-24 at the invitation of first dep
 
 ## Man stabbed to death in northeast Delhi, one arrested
 The victim, Abhishek, was among four persons attacked by the accused on August 15. He succumbed to his injuries at GTB Hospital at 1:05 am on Saturday.
-
-## Karnataka IAS officer goes missing after Bengaluru flight; govt clarifies his whereabouts
-Gyanendra Kumar Gangwar, a 2016-batch IAS officer, had reportedly been incommunicado since August 20 and had booked a flight to Delhi.
-
-## Focus on young blood, mandatory two-term limit: DMK’s overhaul to bounce back after poll defeat
-The DMK, the principal opposition in Tamil Nadu, unveiled a structural overhaul in its organisation fixing strict age caps and limiting term for party posts.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -234,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine
+An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.
+
 ## Israeli drone strike on ‘civilian vehicle’ injures several in Syria
 Syria condemns attack in southwest as a 'flagrant violation of sovereignty' and a 'blatant breach of international law'.
 
@@ -254,9 +254,6 @@ A right-wing wave is sweeping through the region and that is not good news.
 
 ## As families retrieve bodies, Gaza is running out of places to bury the dead
 Israel's genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.
-
-## Jewish activists push back against Israeli settlers
-Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
