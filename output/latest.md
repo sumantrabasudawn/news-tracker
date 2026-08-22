@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran grants permission for some Iraqi oil tankers to pass through Hormuz
+Iraqi President Nizar Amidi says his country's territory will not be used to launch attacks against any other state.
+
+## Why is Israel building new illegal settlements?
+Israel opens construction bids for new illegal housing units in the occupied West Bank.
+
+## More than 200,000 newly displaced in Sudan’s Kordofan region
+Intensified fighting in Sudan has displaced at least 200,000 people in the Kordofan region since late last year.
+
+## Israeli strikes kill two and injure others as Gaza attacks continue
+Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.
+
+## Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals
+In an interview with the Russian channel Vesti, Vladimir Putin threatened Ukraine's 'most vulnerable' economic sectors.
+
 ## Envoy says Israel did not give the US notice before strikes on Syrian base
 US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.
 
@@ -242,21 +257,6 @@ Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dol
 
 ## Carney: Canada will enact retaliatory US tariffs starting September 8
 The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
-
-## Israel, Turkiye and the new regional reordering
-In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.
-
-## Swedish police identify 17-year-old girl as victim in school sword attack
-Brinell School's principal says 18-year-old suspected of carrying out Friday's deadly sword attack was a student there.
-
-## Armed men kidnap dozens in attacks on Nigerian villages
-Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.
-
-## Israel’s Chief Rabbi says Palestinians are not a people and have no rights
-Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.
-
-## Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr
-While lawyers for the US president argue the subpoenas are 'cynical', the BBC says they could help shine light on case.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
