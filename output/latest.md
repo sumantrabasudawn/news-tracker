@@ -60,6 +60,9 @@ The anchor placement attracted mutual funds, insurers and foreign investors, set
 ## Nabard survey points to downbeat rural sentiment
 Subdued optimism over jobs and income seems linked to monsoon, rural inflation and broader economic developments
 
+## US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting
+In a groundbreaking move, China has launched an extensive automotive recall, impacting 4.3 million vehicles across multiple manufacturers including Tesla. Safety regulators have raised alarms about the potential difficulty occupants may face in opening doors during emergency situations. Tesla is res
+
 ## PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit
 India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe head
 
@@ -81,32 +84,29 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Informal sector establishments up 9%
 
 
-## Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices
-Says Drop Not Due To Ethanol Diversion
+## Supreme Court plea seeks removal of BCI chief Manan Kumar Mishra, fresh election
+A plea in the Supreme Court seeks BCI chief Manan Kumar Mishra’s removal, challenging his tenure extension and seeking a probe into BCI finances and fresh elections.
 
-## 105-year-old murder convict granted relief after Supreme Court closes 1988 case
-Mondal was accused in a murder case along with his three sons and two others in a case registered at Malda district in West Bengal in November 1988.
+## ‘Taking care of her cultural needs’: MEA says pursuing Ariha Shah's case with German authorities
+However, MEA spokesperson Randhir Jaiswal said he did not have a fresh update on the case.
 
-## 'Lawyers can't be cockroaches': Manan Mishra says he won't quit, fumes at CJP's resignation call
-BCI Chairman Manan Mishra rejected the use of the term ‘legal cockroaches’ for advocates, and also said he was elected to the post and won't resign.
+## Why Criticise VCs for Attending RSS Events?: Guv
+Thiruvananthapuram: Kerala Governor Rajendra Arlekar said he could not understand why the state government criticised vice-chancellors of universities for attending Rashtriya Swayamsevak Sangh (RSS) events, or what rules they violated by doing so
 
-## ‘Suffered 200 pellets, shot 5-6 times': What student protester backed by Rahul Gandhi said in FIR
-The FIR was filed after Rahul Gandhi joined the student protester and staged a protest outside the Parliament Street Police Station for more than six hours.
+## Protests, agitations alone cannot solve issues like graft: RSS
+Hyderabad The Rashtriya Swayamsevak Sangh (RSS) on Friday said protests and agitations alone cannot provide solutions to corruption and other systemic shortcomings; and it requires positive and constructive approach from the government as well as the society in resolving the public grievances
 
-## Bengal's new world order, 100 days on
-Days after securing power, the BJP declared it would not allow indiscriminate new membership, an attempt to firewall itself against former TMC leaders.
+## Kerala HC allows conditional suspension of jail sentence of 4 convicts in 2003 Muthanga land agitation cases
+Thiruvananthapuram: The Kerala High Court on Friday allowed the conditional suspension of the five-yearjail sentence imposed on four convicts in the case of attempt to murder of police constable Abdul Salam and forest range officer PK Sasidharan in connection with the 2003 Muthanga land struggle in 
 
-## A father, mother and son: Three lives lost on Maharashtra hilltop over mobile phone row
-The man's father fell to his death in an attempt to save him and his mother jumped after seeing the two fall, police said
+## TTD plans to deploy robotic dog to prevent human-animal conflicts on Tirumala hills
+Hyderabad The Tirumala Tirupati Devasthanams (TTD), the administrative body of Lord Venkateshwara temple on Tirumala hills in Andhra Pradesh’s Tirupati district, is contemplating deployment of an advanced four-legged robotic dog with artificial intelligence to track the movement of wild animals in t
 
-## Not ethanol, but low output, festive demand behind sugar price hike: Centre
-The price surge has prompted the government to step up measures to curb hoarding and allow sugar imports for the first time in nearly a decade.
+## Some of India’s health, social gains have percolated down to district-level: NFHS
+New Delhi:The Ministry of Health and Family Welfare on Friday released the provisional district-wise factsheets for the 2023-24 round of the National Family Health Survey (NFHS), one important source of data on demographic, health, economic, and social indicators that updates faster than census data
 
-## Bangladesh PM's early trip to India falls through, August visit possible
-Bangladesh and India continue to be in touch to explore the possibility of a trip within the month of August.
-
-## FIR for pellet injury during July 20 stir filed after Rahul Gandhi protests for over 6 hours
-Rahul Gandhi and other Congress leaders’ dramatic stir outside the Parliament Street Police Station turned into a major political controversy with the (BJP).
+## India’s transformation in telecom and digital connectivity monumental: Scindia
+Union minister for communications Jyotiraditya Scindia and Brazil’s minister of communication Frederico de Siqueira Filho on Friday signed a MoU to deepen cooperation in telecommunications and information and communications technologies (ICTs) on the sidelines of the12th BRICS Communication Minister
 
 ## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
 South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge strikes down Trump immigrant visa ban affecting 75 countries
+A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.
+
 ## Peru rescues people trapped by landslides on highway for nearly a week
 Peru rescues people trapped by landslides on highway for nearly a week.
 
@@ -248,9 +251,6 @@ Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack o
 
 ## Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
 US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.
-
-## Myanmar military bombing kills 14 at Buddhist monastery, opposition reports
-More than 100 people were in the monastery for a religious retreat, according to a local resident.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
