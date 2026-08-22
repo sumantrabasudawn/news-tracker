@@ -39,6 +39,15 @@ Washington and Beijing are beating Brussels in competition to secure components 
 ## The fight to save England’s rivers
 Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
 
+## India, UK hold key meet in Delhi to bolster bilateral defence ties
+The visit underlines the longstanding defence cooperation between the two countries and regular exchange of views on issues of mutual interest
+
+## India has political stability; world sees it as bright spot of growth, hope: PM Modi
+The prime minister said the world has many concerns regarding growth as resources are getting weaponised, but India is being seen as a bright spot of growth
+
+## FM directs early completion of Detailed Project Report for high-level dam on Kosi river
+The Chief Minister of Bihar requested the Centre's cooperation for the State's development and urged prompt action on pending matters
+
 ## India, Mauritius sign long-term fuel supply pact; IOC to meet entire import requirement
 Under the agreement IOC will supply Mauritius its entire import requirement of motor spirit (petrol), high speed diesel (diesel) and aviation turbine fuel
 
@@ -53,15 +62,6 @@ Rainfall figures so far during August, normally the second rainiest month, have 
 
 ## India-Finland cooperation takes centre stage at circular economy forum
 The India Circular Economy Forum is a precursor to the World Circular Economy Forum 2026, which will be held in Gandhinagar from September 15 to 18
-
-## Singapore bound IndiGo flight with 127 passengers returns after a mid-air snag
-The flight departed from Trichy at around 6.40 pm, remained in the air for around two and a half hours after the technical issue was detected
-
-## OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%
-The price cuts are effective ‌on OpenAI's application programming interface, or ‌API, ⁠and are rolling out ⁠across eligible plans for credits on its agentic AI product ChatGPT Work and its coding tool ​Codex
-
-## India-Nepal JWG discusses trans-border crime, border infra, encroachments
-Discussions also covered the maintenance of boundary pillars and effective utilisation of existing border infrastructure
 
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
@@ -87,6 +87,12 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Easier rules boost FDI inflows from China by $500 million
 
 
+## NHRC directs Punjab govt to probe allegation against CM's wife of demanding ₹5 cr to suppress rape case
+NHRC directs Punjab govt to probe allegation against CM's wife of demanding ₹5 cr to suppress rape case
+
+## Haridwar: 3 killed, 6 injured as 4 motorcycles collide on Kanwar route
+Three people were killed and six injured after four motorcycles collided on Haridwar’s Kanwar Patri amid poor visibility due to darkness and rain, police said.
+
 ## 'Manan Mishra ji alarms are ringing': CJP's dig as BCI Co-Chair gets behind resignation demand
 BCI Co-Chairman and senior advocate YR Sadashiva Reddy has sought Mishra’s resignation, saying “the Bar deserves better”.
 
@@ -104,12 +110,6 @@ A 22-year-old first-year MTech student allegedly died by suicide at IISc Bengalu
 
 ## 50+ Youth Congress workers detained in Pune after clash with ABVP members ahead of Rahul Gandhi's event
 Based on a complaint filed by an ABVP member, police registered a first information report on Saturday morning against 50 to 60 Youth Congress workers.
-
-## NHAI orders audits, inspections for new national highways inaugurated by PM Modi
-NHAI has issued new safety and quality guidelines for newly inaugurated highways, including independent audits and frequent inspections of major projects.
-
-## ‘Assist the poor, irrespective of caste’: 5 demands at Reservation Hatao Andolan in Delhi
-Protesters argued that financial circumstances should be considered while deciding who needs government assistance, including support for education.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent
+Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.
+
+## Somalia child hunger crisis deepens after aid cuts, UNICEF says
+The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.
+
 ## China’s new moon mission could unlock secret of lunar ice: Why that matters
 The Chang'e-7 seeks to find out more about the water trapped within the moon's shadowed craters.
 
@@ -248,12 +254,6 @@ A widening diplomatic rift is complicating efforts to confront a shared cross-bo
 
 ## At least 13 Tunisians missing as migrant boat headed for Italy capsizes
 Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.
-
-## US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail
-Canadian prime minister says country will match tariffs 'dollar for dollar' after failure to secure US trade agreement.
-
-## US judge strikes down Trump immigrant visa ban affecting 75 countries
-A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
