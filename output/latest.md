@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio
-Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election
-
 ## Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16
 Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war
+
+## Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio
+Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election
 
 ## Canada vows to match US tariffs as trade talks collapse
 Mark Carney rejects ‘unfair’ deal as top Washington envoy criticises ‘missed opportunity’
@@ -12,7 +12,7 @@ Mark Carney rejects ‘unfair’ deal as top Washington envoy criticises ‘miss
 ## Bossing the bond market around never works
 Despite Scott Bessent’s efforts, investors worry something is up
 
-## The man selling the Lakers: Mark Walter’s unravelling empire
+## Mark Walter’s unravelling empire tests the insurance trade behind private credit’s rise
 Private capital saw an opportunity to make insurance much more profitable. At what risk?
 
 ## Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel
@@ -42,6 +42,18 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
 
+## Press Clubs should play a proactive role in restoring public trust in the media: N Ram
+Director of The Hindu Group, N Ram was speaking at the National Conclave of Press Clubs here on Saturday
+
+## Equity mutual fund AUM touches all-time high in July: NSE
+Equity mutual fund AUM hits record ₹48.5 lakh crore; active schemes grow 13.3%
+
+## Delhi Master Plan 2047: Six health centres, three hospitals per lakh population planned across city
+The Master Plan 2047 proposes an integrated healthcare system with facilities distributed in residential areas and linked to public transport
+
+## Australian education delegation visits Pune to strengthen India partnership
+The engagements focused on understanding the evolving aspirations of Indian students, exploring academic collaborations and student pathways, and strengthening institutional ties between Australian and Indian education institutions
+
 ## DCGI flags regulatory risks as Pharma industry races to embrace AI at IIMA healthcare summit
 The DGCI said regulators approve a product based on defined characteristics of quality, safety and performance and expect those characteristics to remain consistent through the product’s lifecycle
 
@@ -53,18 +65,6 @@ Nifty Next 50 climbs 2.82% over the month; Nifty 50 rises 2.17%
 
 ## India’s alternative investment market could grow $2 trillion by 2034: Julius Baer-EY report
 The report estimates India’s alternative investment assets at around $400 billion, including $156 billion in SEBI-registered AIFs, with the rest from offshore vehicles, family offices, and unlisted structures
-
-## EAM Jaishankar to visit Russia amid Trump’s tariff threat
-Jaishankar’s Russia trip comes at a time when US President Donald Trump has threatened to impose a secondary 100% tariff on countries that buy oil, gas and uranium from Russia
-
-## RBI says forex inflows under swap facility reach $72.85 billion as FCNR(B) mobilisation tops $65 billion
-The RBI reported that authoriSed dealer banks recorded $65.397 billion in inflows from FCNR(B) deposits as of August 21
-
-## India decides no boarding pass stamping at airports for international travellers from Sep 1
-Passengers traveling abroad will have to produce an e-boarding pass on their smartphones for immigration clearance, the officials stated
-
-## No more 12-minute ad limit for TV channels as Centre notifies rule changes
-Analysts say move is directionally positive for television broadcasters
 
 ## NBFCs stay on growth track as asset quality remains stable: Report
 Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moder
@@ -90,6 +90,9 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Apple expected to expand manufacturing beyond iPhones: Govt
 Google May Shift Share Of Production From China To India
 
+## Man stabbed to death in northeast Delhi, one arrested
+The victim, Abhishek, was among four persons attacked by the accused on August 15. He succumbed to his injuries at GTB Hospital at 1:05 am on Saturday.
+
 ## Karnataka IAS officer goes missing after Bengaluru flight; govt clarifies his whereabouts
 Gyanendra Kumar Gangwar, a 2016-batch IAS officer, had reportedly been incommunicado since August 20 and had booked a flight to Delhi.
 
@@ -110,9 +113,6 @@ The final rules spell out how phone companies must confirm who a user is before 
 
 ## SC seeks Centre reply on Kerala Waqf Board plea to extend UMEED portal upload deadline
 The Supreme Court sought the Centre's response to Kerala Waqf Board's plea for a four-month extension to upload 25,000 Waqf properties by September 7.
-
-## ‘Definitely no’: Ex-Air Force vice chief questions relevance of Tejas Mk-2 fighter jets in mid 2030s, slams HAL delay
-Air marshal (retd) Nagesh Kapoor questioned HAL's “sense of urgency”, saying it did not match up to that of the air force.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Fans and police injured in pitch invasion during ‘high risk’ German Cup tie
+Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
+
+## Indonesia bolsters troop numbers to combat Borneo wildfires
+Fires between January and July burned more than 200,000 hectares of land, says the government.
+
+## Is Trump making Latin America great again?
+A right-wing wave is sweeping through the region and that is not good news.
+
 ## Jewish activists push back against Israeli settlers
 Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
 
@@ -248,15 +257,6 @@ Meanwhile, Ukrainian drone hits home in southern Russia, killing two children an
 
 ## Hundreds of children take part in swimming class on Gaza’s shore
 On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.
-
-## Usain Bolt’s 100m record broken at World Humanoid Robot Games
-Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.
-
-## Ebola continues to spread in the DRC as 16,000 vaccine doses arrive
-Health authorities are warning that ‘approximately one person has been dying from Ebola every thirty minutes’.
-
-## More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
-The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus's exponential spread.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
