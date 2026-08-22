@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Pentagon fires military newspaper staffers for insubordination
+Defence department dismisses Stars and Stripes editor-in-chief and Middle East reporter
+
 ## ‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports
 President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections
 
@@ -21,17 +24,14 @@ Masoud Pezeshkian’s comments reflect debate within regime over how much econom
 ## Italy’s MPS thinks three takeovers are better than one
 Crunching two banks together is challenging, and takes time; to attempt the same feat with four calls for some truly magical thinking
 
-## Apollo says hackers accessed personal data in latest Wall Street breach
-Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
-
-## Pentagon fires military newspaper staffers for insubordination
-Defence department dismisses Stars and Stripes editor-in-chief and Middle East reporter
-
 ## Directors’ Deals: Pearson executive cashes in as digital growth boosts shares
 First-half revenues at the education group rise by 19 per cent
 
 ## Stockpickers: Costain, Oxford Nanopore Technologies, BHP
 Our experts discuss which companies to buy, sell or hold this week
+
+## Apollo says hackers accessed personal data in latest Wall Street breach
+Alternative asset manager’s probe determined names, home addresses and social security numbers were stolen in cyber attack last month
 
 ## The US techlash is real
 AI companies and social networks should respond to the shift in the public mood
@@ -57,8 +57,8 @@ The Authority will continue to take appropriate supervisory and enforcement acti
 ## Symbiotec Pharmalab raises Rs 526 cr from anchor investors; IPO opens on Aug 24
 The anchor placement attracted mutual funds, insurers and foreign investors, setting the stage for the pharmaceutical company’s public market debut
 
-## Editorial. Resource guzzlers
-Data centres should account for water, power demands
+## Nabard survey points to downbeat rural sentiment
+Subdued optimism over jobs and income seems linked to monsoon, rural inflation and broader economic developments
 
 ## PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit
 India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe head
@@ -84,11 +84,20 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices
 Says Drop Not Due To Ethanol Diversion
 
+## Bangladesh PM's early trip to India falls through, August visit possible
+Bangladesh and India continue to be in touch to explore the possibility of a trip within the month of August.
+
+## FIR for pellet injury during July 20 stir filed after Rahul Gandhi protests for over 6 hours
+Rahul Gandhi and other Congress leaders’ dramatic stir outside the Parliament Street Police Station turned into a major political controversy with the (BJP).
+
 ## Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks
 Assam cab operators continued the highway blockade over attacks on Assam residents in Shillong, despite talks between the chief ministers of Assam and Meghalaya
 
 ## UP: Interpol Red Corner Notice issued against 2024 Sambhal violence 'mastermind' Shariq Sata
 UP: Interpol Red Corner Notice issued against 2024 Sambhal violence 'mastermind' Shariq Sata
+
+## Revanth Reddy's US trip hits a wall, MEA denies clearance
+Reddy is expected to return home on August 23 after completing the UK leg of a two-nation tour.
 
 ## CJP protest-like scenes at Jantar Mantar as ‘Reservation Hatao’ stir draws massive crowd; several detained
 Many visuals on X showed police personnel detaining protesters as a large number of people gathered at the site carrying banners and posters
@@ -99,14 +108,8 @@ The accused driver of the speeding car was apprehended by the bystanders who the
 ## "Taking care of her cultural needs": MEA says pursuing Ariha Shah's case with German authorities
 However, MEA spokesperson Randhir Jaiswal said he did not have a fresh update on the case.
 
-## Mother-son duo among three held in Delhi for gunpoint robbery at elderly man's home
-The arrests came following a 13-day manhunt across several Uttar Pradesh districts, with police analysing footage from more than 500 CCTV.
-
-## IndiGo Trichy-Singapore flight with 127 passengers returns after mid-air technical snag
-The flight, which departed from Trichy at around 6.40 pm, remained in the air for nearly two and a half hours after the technical issue was detected.
-
-## ‘On our radar as threat’: Ex-army chief MM Naravane calls China India's competitor, Pakistan a security challenge
-MM Naravane said China will serve as India's primary competitor across political, economic, trade, and military spheres in the coming years.
+## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
+South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
 
 ## Tesla forced to recall record 3 million cars in China over door-handle issue
 Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
@@ -128,9 +131,6 @@ While investors saw Beijing’s holdings of US government debt shrink and US Tre
 
 ## Chinese court accepts Evergrande liquidation petition 1 day after founder’s life sentence
 A court in southern China’s Guangdong province formally accepted a bankruptcy liquidation petition against China Evergrande Group’s main onshore unit, closing the final chapter in the unravelling of what was once the country’s largest property developer. The Guangzhou Intermediate People’s Court sai
-
-## Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown
-An asset-management arm of Guotai Haitong Securities, a leading Chinese brokerage, was ordered to pay 52.5 million yuan (US$7.8 million) in fines and penalties for activities undertaken by its offshore investment business as Beijing tightens its scrutiny of capital flows. Guotai Haitong Securities A
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## California lawmaker overcomes pro-Israel spending to win special election
+Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.
+
+## Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader
+Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.
+
+## Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall
+Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.
+
+## Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
+US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.
+
+## Myanmar military bombing kills 14 at Buddhist monastery, opposition reports
+More than 100 people were in the monastery for a religious retreat, according to a local resident.
+
+## Editor of US newspaper Stars and Stripes reportedly fired under Trump
+Editor-in-chief Erik Slavin has suggested his firing was retaliation for speaking out about editorial independence.
+
+## Outrage in India over death of six-year-old ‘slapped’ by his teacher
+Andhra Pradesh's regional minister of education says he is taking legal action with committee against those responsible.
+
 ## US debt tops $40 trillion, Americans left with the bill
 The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.
-
-## Pakistan’s Imran Khan back to prison after evaluation at hospital
-Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
-
-## US Vice President JD Vance holds midterm election rally in Ohio hometown
-The vice president's speech hinged heavily on economic themes, as voter confidence slips for Republican policies.
-
-## TikTok settles with US Justice Department for $400m over child privacy laws
-TikTok and the US government settled to resolve allegations that the app violated children's online privacy laws.
-
-## Mexico Governor Ruben Rocha returns to office despite US criminal charges
-The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.
-
-## One killed, three wounded in sword attack at Swedish high school
-One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.
-
-## Arsenal rout Coventry 3-0 to begin Premier League title defence in style
-Kai Havertz struck early, Bukayo Saka doubled the lead, before Martin Odegaard netted after the break.
-
-## Global Sumud Flotilla joins Albania’s anti-resort protest
-Three boats from the Global Sumud Flotilla arrived in Albania’s Vlore on Friday to support the “Flamingo Revolution"
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
