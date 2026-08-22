@@ -42,6 +42,18 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
 
+## India sugar tender rates drop by ₹500 a quintal, but retail rates soar to a new high
+Solapur-based Loknete Baburao Patil Agro Industries Ltd in Maharashtra sells S-30 grade sugar at ₹5,850 a quintal; Food Secretary says price rise not driven by fundamentals
+
+## The US energy infrastructure opportunity is structural, not one-off’: Welspun MD & CEO
+The contract, linked to a major Permian Basin export pipeline project, takes its global order book to about $4.4 billion, with more than 60-65% expected to be executed from the US over the next three to three-and-a-half years
+
+## As smart glasses go mainstream, privacy concerns follow
+“As a woman, the thought of someone being able to record me without my knowledge or consent is deeply invasive,” a PR professional from Gujarat
+
+## Torrent Pharma ‘retired hurt’ from drug discovery, but not out yet: Aman Mehta
+For Torrent, the decision on where and how to deploy capital has also been shaped by its experience with mergers acquisitions over the past decade
+
 ## Press Clubs should play a proactive role in restoring public trust in the media: N Ram
 Director of The Hindu Group, N Ram was speaking at the National Conclave of Press Clubs here on Saturday
 
@@ -54,17 +66,8 @@ The Master Plan 2047 proposes an integrated healthcare system with facilities di
 ## Australian education delegation visits Pune to strengthen India partnership
 The engagements focused on understanding the evolving aspirations of Indian students, exploring academic collaborations and student pathways, and strengthening institutional ties between Australian and Indian education institutions
 
-## DCGI flags regulatory risks as Pharma industry races to embrace AI at IIMA healthcare summit
-The DGCI said regulators approve a product based on defined characteristics of quality, safety and performance and expect those characteristics to remain consistent through the product’s lifecycle
-
-## Around 8.7 crore Indian youth not studying, working or undergoing training: Niti Aayog
-The Aayog’s report ‘Reimagining Skilling for Viksit Bharat@2047’ estimates are based on the 2021 78th round of the National Sample Survey
-
-## Nifty Next 50 logs highest monthly gain among indices in July: Motilal Oswal
-Nifty Next 50 climbs 2.82% over the month; Nifty 50 rises 2.17%
-
-## India’s alternative investment market could grow $2 trillion by 2034: Julius Baer-EY report
-The report estimates India’s alternative investment assets at around $400 billion, including $156 billion in SEBI-registered AIFs, with the rest from offshore vehicles, family offices, and unlisted structures
+## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
+Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
 
 ## NBFCs stay on growth track as asset quality remains stable: Report
 Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moder
@@ -87,8 +90,11 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Car buyers take fancy to mid-size SUV models
 
 
-## Apple expected to expand manufacturing beyond iPhones: Govt
-Google May Shift Share Of Production From China To India
+## PM Modi meets BJP’s newly formed team at party headquarters in Delhi
+PM Modi meets BJP’s newly-formed team at party headquarters in Delhi
+
+## EAM Jaishankar to visit Russia, co-chair key trade and economic commission
+Jaishankar is visiting Russia during August 23-24 at the invitation of first deputy Prime Minister Denis Manturov
 
 ## Man stabbed to death in northeast Delhi, one arrested
 The victim, Abhishek, was among four persons attacked by the accused on August 15. He succumbed to his injuries at GTB Hospital at 1:05 am on Saturday.
@@ -107,12 +113,6 @@ During the journey, the passenger allegedly refused to pay the fare, leading to 
 
 ## CJI praises Justice Karol’s patience, courtesy as judge bids SC farewell
 Justice Karol thanked the Bar for their support and stated that his greatest privilege has been to fulfill the constitutional promise entrusted to him
-
-## Government scraps plan for shared biometric database of telecom users
-The final rules spell out how phone companies must confirm who a user is before giving them a SIM card, updating details, or disconnecting the phone number
-
-## SC seeks Centre reply on Kerala Waqf Board plea to extend UMEED portal upload deadline
-The Supreme Court sought the Centre's response to Kerala Waqf Board's plea for a four-month extension to upload 25,000 Waqf properties by September 7.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Man Utd humiliated at Hull to open Premier League account
+Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.
+
 ## Fans and police injured in pitch invasion during ‘high risk’ German Cup tie
 Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
 
@@ -243,6 +246,9 @@ Fires between January and July burned more than 200,000 hectares of land, says t
 ## Is Trump making Latin America great again?
 A right-wing wave is sweeping through the region and that is not good news.
 
+## As families retrieve bodies, Gaza is running out of places to bury the dead
+Israel's genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.
+
 ## Jewish activists push back against Israeli settlers
 Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
 
@@ -251,12 +257,6 @@ The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA pre
 
 ## The Berlin Wall separated his family. Its legacy still endures
 When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.
-
-## Russian strikes kill 6 people in Ukraine, day after shopping complex attack
-Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.
-
-## Hundreds of children take part in swimming class on Gaza’s shore
-On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
