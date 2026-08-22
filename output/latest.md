@@ -42,6 +42,21 @@ Investors return to Hays, Michael Page and Robert Walters after cost-cutting mea
 ## EU slips further behind US in race for critical minerals
 Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies
 
+## Who Am I? August 23, 2026
+Are you an avid investor? How well do you know corporate India?
+
+## West Bengal govt mulls paying outstanding incentives to industry in tranches
+Total outstanding incentive to industry believed to exceed ₹10,000 crore
+
+## DYPIU to launch School of Legal Studies, Governance and Public Policy
+DYPIU is the first private university to offer a BTech programme in semiconductor engineering and will be launching the School of Legal Studies, Governance and Public Policy from the current academic year
+
+## BRICS Science Ministerial Meet adopts declaration to build resilient science technology and innovation framework
+The Chennai Consensus, adopted under India’s BRICS Chairship, places a “people-centred and humanity-first approach at the heart of STI cooperation
+
+## NRIs yern for higher returns: Banks mop up $65.397 billion in just 75 days via FCNR-B deposits
+And the inflows are gathering pace as the RBI has cut short the deadline to offer concessional swap facility for fresh FCNR-B deposits mobilised by banks by a month to August 31, 2026
+
 ## FSSAI crackdown : 150 notices issued to food companies, over 20 notices to five-star hotels
 The food safety authority noted that 150 notices were sent to various food companies for “misleading ads, false claims and labelling non-compliances”
 
@@ -50,21 +65,6 @@ Solapur-based Loknete Baburao Patil Agro Industries Ltd in Maharashtra sells S-3
 
 ## The US energy infrastructure opportunity is structural, not one-off’: Welspun MD & CEO
 The contract, linked to a major Permian Basin export pipeline project, takes its global order book to about $4.4 billion, with more than 60-65% expected to be executed from the US over the next three to three-and-a-half years
-
-## As smart glasses go mainstream, privacy concerns follow
-“As a woman, the thought of someone being able to record me without my knowledge or consent is deeply invasive,” a PR professional from Gujarat
-
-## Torrent Pharma ‘retired hurt’ from drug discovery, but not out yet: Aman Mehta
-For Torrent, the decision on where and how to deploy capital has also been shaped by its experience with mergers acquisitions over the past decade
-
-## Press Clubs should play a proactive role in restoring public trust in the media: N Ram
-Director of The Hindu Group, N Ram was speaking at the National Conclave of Press Clubs here on Saturday
-
-## Equity mutual fund AUM touches all-time high in July: NSE
-Equity mutual fund AUM hits record ₹48.5 lakh crore; active schemes grow 13.3%
-
-## Delhi Master Plan 2047: Six health centres, three hospitals per lakh population planned across city
-The Master Plan 2047 proposes an integrated healthcare system with facilities distributed in residential areas and linked to public transport
 
 ## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
 Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
@@ -90,6 +90,15 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Car buyers take fancy to mid-size SUV models
 
 
+## Ranchi police files FIR against JPSC-JSSC protest leaders over Aug 21 police-students clash
+Among those named are Kunal Pratap Singh, Piyush Kumar, and Ravindra Paswan – leaders of the JPSC-JSSC Reforms Manch.
+
+## Union minister will meet anti-reservation protesters in next two days: UP deputy CM Pathak's promise to agitators
+Addressing a press conference in Lucknow, UP deputy CM Pathak assured that a delegation of the protesters would meet a Union minister within the next two days.
+
+## 'Conspiracy to trap me': BJP MLA from MP alleges rivals 'sending women to frame him in rape cases'
+Pritam Lodhi alleged that his rivals do not come to him directly, but instead send women to the Dak Bungalow in Pichhore.
+
 ## PM Modi meets BJP’s newly formed team at party headquarters in Delhi
 PM Modi arrived at the BJP headquarters on Saturday evening, shortly after the party passed a resolution on the honour and historic legacy of 'Vande Mataram'.
 
@@ -104,15 +113,6 @@ Gyanendra Kumar Gangwar, a 2016-batch IAS officer, had reportedly been incommuni
 
 ## Focus on young blood, mandatory two-term limit: DMK’s overhaul to bounce back after poll defeat
 The DMK, the principal opposition in Tamil Nadu, unveiled a structural overhaul in its organisation fixing strict age caps and limiting term for party posts.
-
-## Karnataka bans manufacture and sale of analogue ‘paneer’ for one year
-Analogue or non-dairy paneer refers to products made to resemble paneer by replacing all or part of the milk fat or milk solids with vegetable oil.
-
-## Delhi man kills passenger over ₹1,000 fare dispute, calls wife, son to hide body; all 3 held
-During the journey, the passenger allegedly refused to pay the fare, leading to a quarrel inside the vehicle in West Delhi, police said.
-
-## CJI praises Justice Karol’s patience, courtesy as judge bids SC farewell
-Justice Karol thanked the Bar for their support and stated that his greatest privilege has been to fulfill the constitutional promise entrusted to him
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli drone strike on ‘civilian vehicle’ injures several in Syria
+Syria condemns attack in southwest as a 'flagrant violation of sovereignty' and a 'blatant breach of international law'.
+
 ## What did war with the US reveal about Iran’s weapons capabilities?
 Iran says production is ongoing, but details will not be revealed during war conditions.
 
@@ -254,9 +257,6 @@ Israel's genocidal war on Gaza has seen thousands of bodies buried in makeshift 
 
 ## Jewish activists push back against Israeli settlers
 Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
-
-## CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
-The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
