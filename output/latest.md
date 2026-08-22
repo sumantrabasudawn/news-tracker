@@ -9,7 +9,7 @@ Despite Scott Bessent’s efforts, investors worry something is up
 ## The man selling the Lakers: Mark Walter’s unravelling empire
 Private capital saw an opportunity to make insurance much more profitable. At what risk?
 
-## The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel
+## Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel
 The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen
 
 ## Big running shoe brands are regaining their lead
@@ -39,6 +39,12 @@ Washington and Beijing are beating Brussels in competition to secure components 
 ## The fight to save England’s rivers
 Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
 
+## Rain deficit inches up even as monsoon eyes East and North-East India
+Rainfall figures so far during August, normally the second rainiest month, have been on the lower side, with the country as a whole running up a rain deficit of 15.2% until Friday
+
+## India-Finland cooperation takes centre stage at circular economy forum
+The India Circular Economy Forum is a precursor to the World Circular Economy Forum 2026, which will be held in Gandhinagar from September 15 to 18
+
 ## Singapore bound IndiGo flight with 127 passengers returns after a mid-air snag
 The flight departed from Trichy at around 6.40 pm, remained in the air for around two and a half hours after the technical issue was detected
 
@@ -57,11 +63,8 @@ The claims against Meta are that it deliberately designed and monetised Instagra
 ## India raises with Somalia issue of hijacking of vessels with Indian sailors
 The Indian High Commission in Kenya said it is understood that there are reportedly 16 Indian seafarers onboard MT Sibu and six Indian seafarers onboard MV Lutuf
 
-## TN govt initiates major push for temple infrastructure across state
-The minister said that to enrich the experience for visiting pilgrims, significant investments are planned for infrastructure and basic amenities
-
-## Keralam to align higher education with global job trends: CM Satheesan
-The State government would give priority to transforming higher education in tune with the changing world of work
+## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
+Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
 ## 'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'
 In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being
@@ -84,8 +87,8 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Easier rules boost FDI inflows from China by $500 million
 
 
-## Tablets gain from rising laptop prices
-
+## NHAI orders audits, inspections for newly inaugurated national highways
+NHAI has issued new safety and quality guidelines for newly inaugurated highways, including independent audits and frequent inspections of major projects.
 
 ## ‘Assist the poor, irrespective of caste’: 5 demands at Reservation Hatao Andolan in Delhi
 Protesters argued that financial circumstances should be considered while deciding who needs government assistance, including support for education.
@@ -108,8 +111,8 @@ Ritu Pant said her husband sounded devastated when she first spoke to him after 
 ## International flyers from India won't need physical boarding pass from September 1
 International flyers departing India can use e-boarding passes at immigration from September 1, as physical boarding passes will no longer need to be stamped.
 
-## Quota within quota, more EWS benefits: YouTuber Ajeet Bharti's key demands at 'Reservation Hatao' protest
-The protest was organised by ‘Reservation Hatao Andolan’, a social media movement opposing quotas.
+## Components crunch: China’s carmakers face rising costs to keep intelligence edge
+Chinese smart vehicle makers have been hit by another setback as a global components shortage collides with surging prices of raw materials, driven by the artificial intelligence boom. It would take at least a year for the global supply chain to ramp up production of printed circuit boards (PCBs) an
 
 ## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
 South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
@@ -131,9 +134,6 @@ Hong Kong Exchanges and Clearing (HKEX) has reported record-breaking physical de
 
 ## Evergrande’s US$1.31b fine, China cuts US Treasury holdings: the numbers moving markets
 While investors saw Beijing’s holdings of US government debt shrink and US Treasuries yield rise, a life sentence for China Evergrande Group founder Hui Ka-yan marked a symbolic end to an era of breakneck expansion in the country’s property sector. Here are some of the figures that have drawn the mo
-
-## Chinese court accepts Evergrande liquidation petition 1 day after founder’s life sentence
-A court in southern China’s Guangdong province formally accepted a bankruptcy liquidation petition against China Evergrande Group’s main onshore unit, closing the final chapter in the unravelling of what was once the country’s largest property developer. The Guangzhou Intermediate People’s Court sai
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## China’s new moon mission could unlock secret of lunar ice: Why that matters
+The Chang'e-7 seeks to find out more about the water trapped within the moon's shadowed craters.
+
+## ‘It was a tsunami’: Floods leave death trail in India’s Assam
+From father searching for his daughter's body to man who drowned trying to save a friend, floods take devastating toll.
+
 ## Inundated Philippine communities seek answers over flood control funds
 Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.
 
@@ -248,12 +254,6 @@ Canadian prime minister says country will match tariffs 'dollar for dollar' afte
 
 ## US judge strikes down Trump immigrant visa ban affecting 75 countries
 A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.
-
-## Peru rescues people trapped by landslides on highway for nearly a week
-Peru rescues people trapped by landslides on highway for nearly a week.
-
-## Palestinian-British girl, 6, dies days after family drowned off UK coast
-Saja el-Khawas's death follows that of her mother, father and sister on Tuesday, all of whom drowned.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
