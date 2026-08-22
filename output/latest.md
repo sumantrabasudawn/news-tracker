@@ -66,6 +66,9 @@ FUND CALL HSBC Equity Savings Fund suits cautious investors seeking lower volati
 ## Five costly mistakes that traders must avoid in markets
 A recent SEBI study on trading behaviour of individual traders in equity derivative segment reveals that nine out of 10 individual traders continuing to lose money in FY26 too
 
+## Collections under RBI's dollar swap scheme exceed $72.8 billion
+
+
 ## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
 Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
 
@@ -86,9 +89,6 @@ In a groundbreaking move, China has launched an extensive automotive recall, imp
 
 ## PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit
 India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe head
-
-## Car buyers take fancy to mid-size SUV models
-
 
 ## UP to offer free bus travel to women, one companion for Raksha Bandhan
 UP to offer free bus travel to women, one companion for Raksha Bandhan
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US Postal Service shares mail-in ballot restrictions despite court ruling
+US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.
+
 ## Iran grants permission for some Iraqi oil tankers to pass through Hormuz
 Iraqi President Nizar Amidi says his country's territory will not be used to launch attacks against any other state.
 
@@ -254,9 +257,6 @@ US official Tom Barrack has criticised Israel for failing to give his country ad
 
 ## Canada to match US tariffs “dollar for dollar,” PM Carney says
 Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar."
-
-## Carney: Canada will enact retaliatory US tariffs starting September 8
-The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
