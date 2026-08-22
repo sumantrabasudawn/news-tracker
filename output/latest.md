@@ -39,6 +39,15 @@ Washington and Beijing are beating Brussels in competition to secure components 
 ## The fight to save England’s rivers
 Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?
 
+## India, Mauritius sign long-term fuel supply pact; IOC to meet entire import requirement
+Under the agreement IOC will supply Mauritius its entire import requirement of motor spirit (petrol), high speed diesel (diesel) and aviation turbine fuel
+
+## Think. Over the week
+
+
+## ABH Healthcare to raise ₹35 crore via IPO on NSE Emerge
+The issue, priced in a band of ₹96 to ₹102 per equity share, opens for subscription on Monday
+
 ## Rain deficit inches up even as monsoon eyes East and North-East India
 Rainfall figures so far during August, normally the second rainiest month, have been on the lower side, with the country as a whole running up a rain deficit of 15.2% until Friday
 
@@ -53,15 +62,6 @@ The price cuts are effective ‌on OpenAI's application programming interface, o
 
 ## India-Nepal JWG discusses trans-border crime, border infra, encroachments
 Discussions also covered the maintenance of boundary pillars and effective utilisation of existing border infrastructure
-
-## BRICS well placed to foster future-oriented innovation ecosystem: Jitendra Singh
-Singh highlighted that the world is undergoing rapid transformation driven by emerging technologies such as artificial intelligence, quantum technologies, advanced materials, biotechnology, photonics, geospatial technologies and high-performance computing
-
-## 29 US states are suing Meta. What might it mean for the rest of the world?
-The claims against Meta are that it deliberately designed and monetised Instagram and Facebook to exploit the psychological vulnerabilities of children and teenagers
-
-## India raises with Somalia issue of hijacking of vessels with Indian sailors
-The Indian High Commission in Kenya said it is understood that there are reportedly 16 Indian seafarers onboard MT Sibu and six Indian seafarers onboard MV Lutuf
 
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
@@ -87,29 +87,32 @@ Falling Behind Private & Foreign Banks In Credit Cards, Getting Contracts From G
 ## Easier rules boost FDI inflows from China by $500 million
 
 
-## NHAI orders audits, inspections for newly inaugurated national highways
+## 'Manan Mishra ji alarms are ringing': CJP's dig as BCI Co-Chair gets behind resignation demand
+BCI Co-Chairman and senior advocate YR Sadashiva Reddy has sought Mishra’s resignation, saying “the Bar deserves better”.
+
+## Kerala varsity VC alleges foreign forces try to turn youngsters into 'cockroaches'
+Kerala varsity VC alleges foreign forces try to turn youngsters into 'cockroaches'
+
+## BCI Co-Chair seeks Chairman Manan Mishra's resignation, cites NALSAR row: 'The Bar deserves better'
+BCI Co-Chair YR Sadashiva Reddy cites ₹150 crore fund diversion, family appointments and NALSAR action among reasons for seeking Manan Mishra’s resignation.
+
+## Delhi techie dies after assault by in-laws following dispute with wife
+Police identified the deceased as Vinay Gupta, a resident of Laxmi Park, who married about three and a half years ago. Police did not identify the wife
+
+## Bengaluru: Second IISc student suicide in 15 days as 22-yr-old dies in hostel
+A 22-year-old first-year MTech student allegedly died by suicide at IISc Bengaluru, the second such death at the institute in 15 days, police said.
+
+## 50+ Youth Congress workers detained in Pune after clash with ABVP members ahead of Rahul Gandhi's event
+Based on a complaint filed by an ABVP member, police registered a first information report on Saturday morning against 50 to 60 Youth Congress workers.
+
+## NHAI orders audits, inspections for new national highways inaugurated by PM Modi
 NHAI has issued new safety and quality guidelines for newly inaugurated highways, including independent audits and frequent inspections of major projects.
 
 ## ‘Assist the poor, irrespective of caste’: 5 demands at Reservation Hatao Andolan in Delhi
 Protesters argued that financial circumstances should be considered while deciding who needs government assistance, including support for education.
 
-## Bihar: 5 killed, 2 injured as speeding bus ploughs into crowd watching orchestra
-Five people were killed and two injured after a speeding bus allegedly ploughed into a crowd watching an orchestra programme at a village in Bihar’s West Champaran.
-
-## ‘My son rushed woman to hospital’: Andhra MP Lingamaneni Ramesh on Hyderabad Aston Martin crash
-Ramesh said that Sanjush was driving the vehicle when the accident occurred and immediately took the injured woman to a hospital.
-
-## ‘Maa ke liye jee lo’: Sarpanch's emotional plea fails as teen, his parents fall to death amid phone row
-The village sarpanch urged the boy to step back and tried to lure him with various promises.
-
-## 4 of family killed after being hit by speeding SUV on Jaipur highway
-Four members of a family were killed and another injured after a speeding SUV allegedly hit them on State Highway-2 in Jaipur’s Fagi on Friday.
-
-## ‘My husband made scapegoat’: Wife of Indian captain held in UK over ‘Russia shadow fleet’ case
-Ritu Pant said her husband sounded devastated when she first spoke to him after his arrest, “He was broken and he was just crying.”
-
-## International flyers from India won't need physical boarding pass from September 1
-International flyers departing India can use e-boarding passes at immigration from September 1, as physical boarding passes will no longer need to be stamped.
+## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
+In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
 
 ## Components crunch: China’s carmakers face rising costs to keep intelligence edge
 Chinese smart vehicle makers have been hit by another setback as a global components shortage collides with surging prices of raw materials, driven by the artificial intelligence boom. It would take at least a year for the global supply chain to ramp up production of printed circuit boards (PCBs) an
@@ -131,9 +134,6 @@ The Hong Kong stock exchange plans to grant a three-year waiver to temporarily e
 
 ## HKEX gold futures smash delivery record as US sanctions reshape trade
 Hong Kong Exchanges and Clearing (HKEX) has reported record-breaking physical deliveries and a trading surge in its US dollar-denominated gold futures contract, underscoring the city’s ambition to become a global hub for the precious metal amid widening trade restrictions by the United States. The b
-
-## Evergrande’s US$1.31b fine, China cuts US Treasury holdings: the numbers moving markets
-While investors saw Beijing’s holdings of US government debt shrink and US Treasuries yield rise, a life sentence for China Evergrande Group founder Hui Ka-yan marked a symbolic end to an era of breakneck expansion in the country’s property sector. Here are some of the figures that have drawn the mo
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
