@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Mark Carney says Canada is now ‘at war’ with US over trade
+Prime Minister says Donald Trump miscalculated by escalating his tariffs attack on the country
+
 ## ‘Appeasement is not a strategy’: how media is fighting back against Trump’s legal threats
 US president juggles multiple cases against news and entertainment groups
 
@@ -21,11 +24,11 @@ Private capital saw an opportunity to make insurance much more profitable. At wh
 ## Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel
 The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen
 
-## Big running shoe brands are regaining their lead
-Nike and Adidas are back in the race after challenger brands such as On Holding and Hoka start to lose momentum
-
 ## Is sport safe from AI?
 Plus, the unlikely duo challenging Chelsea, Arsenal and Real Madrid
+
+## Big running shoe brands are regaining their lead
+Nike and Adidas are back in the race after challenger brands such as On Holding and Hoka start to lose momentum
 
 ## Klarna’s stock crash shows the price of being a small fish in a big pond
 The European fintech has been hit by weak German consumer spending
@@ -87,6 +90,9 @@ India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe hea
 ## Car buyers take fancy to mid-size SUV models
 
 
+## EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’
+Jaishankar added India would factor the pact into its security calculus, adding that actions by countries “not well disposed” towards India would count
+
 ## Shashi Tharoor breaks silence on Vande Mataram row: ‘We will all stand up for the entire thing if…’
 Shashi Tharoor said the Congress is following the existing practice when it comes to its party functions.
 
@@ -107,9 +113,6 @@ Calling on the audience to "break the cage", Rahul Gandhi told the youth that ev
 
 ## Ranchi police files FIR against JPSC-JSSC protest leaders over Aug 21 police-students clash
 Among those named are Kunal Pratap Singh, Piyush Kumar, and Ravindra Paswan – leaders of the JPSC-JSSC Reforms Manch.
-
-## Union minister will meet anti-reservation protesters in next two days: UP deputy CM Pathak's promise to agitators
-Addressing a press conference in Lucknow, UP deputy CM Pathak assured that a delegation of the protesters would meet a Union minister within the next two days.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
