@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Mark Carney says Canada ‘at war’ with US over trade
+Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
+
+## Zelenskyy rejects election call from fired defence minister
+President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority
+
+## Government can bring robotics to life
+Without policy, there are few incentives to automate business functions where labour costs are low
+
+## Trump’s South Korea snub raises questions in the Asia-Pacific
+Scaling back military exercises has undermined faith in America’s reliability
+
 ## Occidental tries to free itself from the messy legacy of Anadarko deal
 Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition
 
@@ -9,35 +21,23 @@ Shake-up is intended to promote growth and take on ‘Nimby’ opposition to pro
 ## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
 Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
 
-## Mark Carney says Canada ‘at war’ with US over trade
-Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
-
 ## US buyers snap up Europe’s asset managers at fastest rate in decades
 European fund groups struggle as firms race to bulk up and expand globally
 
-## Coffee chain Blank Street raises funds from General Atlantic to fuel expansion
-Latest fundraising values the six-year-old company at about $650mn as it aims to be ‘daily luxury brand’
-
-## Why is the far right so obsessed with knights?
-Medieval military monks have become a regular sight at political rallies and marches
-
-## Are America’s vast Gulf bases worth rebuilding?
-Iran’s attacks exposed vulnerability of US military footprint spanning the region since the 1990s
+## Oil major Eni bets on nuclear fusion becoming its ‘next refinery’
+Italian group widening investments in technology that promises much but is yet to be commercially proven
 
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack
 
+## Coffee chain Blank Street raises funds from General Atlantic to fuel expansion
+Latest fundraising values the six-year-old company at about $650mn as it aims to be ‘daily luxury brand’
+
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
-## Railway enthusiasts split over plan to restore train services in rural areas
-Some are hopeful upgraded tracks will preserve steam engine rides, but others fear they will morph into commuter services
-
-## ‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets
-Stéphane Boujnah has obsessively chased acquisitions to compete with larger rivals
-
-## Investors try to catch ‘falling knife’ with bets on risky funds during chip rout
-Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off
+## SEBI reviewing framework on utilisation of issue proceeds
+Regulator proposes to further clarify the framework on related-party transactions to make it clear and workable.
 
 ## Uttar Pradesh tops in mopping up through taxes
 All the 10 States have shown collection from GST increasing despite rate rationalization and doing away with compensation
@@ -59,9 +59,6 @@ Low-pressure area develops over Bay of Bengal; coastal population urged to exerc
 
 ## Elusive alpha?
 A skilled portfolio manager can experience bad luck, which could be a reason for the difficulty in generating alpha consistently
-
-## Govt notifies MMDR Act even as states threaten to move Supreme Court
-The act restricts states’ powers to levy taxes on mineral rights and mineral-bearing lands
 
 ## Market recap: Rs 87,960 crore wiped off four top-10 firms; Airtel bears biggest loss
 Dalal Street faced a setback last week, closing lower with four prominent companies witnessing significant depreciation in market value. Notably, Bharti Airtel and TCS experienced the steepest declines, which affected overall market confidence. The benchmark indices, Sensex and Nifty, reflected this
@@ -87,6 +84,15 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Collections under RBI's dollar swap scheme exceed $72.8 billion
 
 
+## 3 FIRs filed against 28 named, 900 unnamed people over police-students clash in Jharkhand
+FIRs were registered at Ranchi's Kotwali police station against 14 named and 200 unidentified people for obstructing government work and clashing with police.
+
+## No new H1N1 strain in circulation, current vaccines effective: ICMR officials amid rising cases
+ICMR officials said no new H1N1 strain is circulating in India and the current viruses are well matched with vaccines recommended for the Northern Hemisphere.
+
+## Bengaluru woman dies by suicide after ‘ex-classmate’ blackmails, harasses her
+She was staying at a paying guest accommodation in HSR Layout's Sector-1 and worked in the sales department of a jewellery store in the area.
+
 ## 2 rescued, 22 missing after China-bound iron ore vessel sinks off Odisha coast
 Two of the 24 crew members aboard the ship were rescued from life rafts, while an intensive search is underway for the remaining seafarers,
 
@@ -99,17 +105,8 @@ Alwar district education officer Manoj Sharma said serious allegations had been 
 ## ‘Put Abhijeet Dipke’s photos in office’: Sanjay Raut's dig at Fadnavis over Gen Z outreach
 Sanjay Raut claimed that the BJP leaders should credit Dipke for making them aware of the issues faced by Gen-Z.
 
-## ‘Three claps for marvellous set of Gen Z faces’: CJP's Saurav Das takes swipe at BJP's outreach initiative
+## ‘Three claps for marvellous set of Gen Z faces’: CJP's Saurav Das takes swipe at BJP's youth outreach initiative
 Saurav Das’s reaction comes after BJP on Saturday constituted a dedicated team to spearhead its upcoming Gen Z Outreach Programme.
-
-## CBI registers case against former DGCA Director Anil Gill and others in corruption case
-The CBI registered a case on August 21 under Sections 11 and 12 of the Prevention of Corruption Act, 1988, as amended in 2018, and Section 120B of the IPC.
-
-## Power of democracy gave ordinary person like me chance to become CM: Fadnavis at youth event
-Power of democracy gave ordinary person like me chance to become CM: Fadnavis at youth event
-
-## CM Vijay's govt orders quality checks on alcohol level at all Tamil Nadu distilleries after Enrica liquor ban row
-The move comes amid public concern over the temporary ban on 11 liquor variants produced by Enrica Enterprises and the decision to revoke it within a day.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -231,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance
+El-Sayed has hit back at JD Vance, saying his identity and religion aren’t causing the Trump administration’s problems.
+
+## Can Iran retaliate against countries that join US ‘economic war’?
+Iran's security chief has warned of retaliation against countries joining US ‘economic war'.
+
+## Sydney Marathon organisers not running away from ‘unfortunate’ medal error
+The medal features the Allianz Arena in Munich, instead of Sydney's Allianz Stadium, as one of the city's landmarks.
+
 ## Explosion injures 13 in Taiwan
 Explosion injures 13 in Taiwan
 
@@ -240,20 +246,11 @@ The displaced in Gaza are struggling to find safe, discreet and sanitary toilets
 ## Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol
 'Vinicius is no saint, but what they're doing to him was ​too much,' Mourinho said after Real's first match of La Liga.
 
-## Syria foreign minister says door open for diplomacy with Israel
+## Syria’s foreign minister says door open for diplomacy with Israel
 Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.
 
 ## Far-right provocateur Jake Lang arrested after Minneapolis riot
 Far-right influencer Jake Lang was arrested after clashes erupted at his rally outside Minneapolis City Hall.
-
-## South Africa’s former boxing champion Tete shot dead outside home
-South Africa's former boxing champion Tete shot dead outside home
-
-## How the deadliest Bundibugyo Ebola outbreak can be stopped
-The priorities are clear: reach every affected area, protect frontline workers, and turn commitments into action.
-
-## Israeli air strike near Gaza refugee camp kills one person and injures two
-Israeli air attack near Gaza's Maghazi camp kills one person and injures two others.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
