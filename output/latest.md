@@ -24,11 +24,11 @@ Shake-up is intended to promote growth and take on ‘Nimby’ opposition to pro
 ## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
 Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
 
+## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
+Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
+
 ## Oil major Eni bets on nuclear fusion becoming its ‘next refinery’
 Italian group widening investments in technology that promises much but is yet to be commercially proven
-
-## UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility
-Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack
 
 ## US buyers snap up Europe’s asset managers at fastest rate in decades
 European fund groups struggle as firms race to bulk up and expand globally
@@ -39,29 +39,29 @@ Latest fundraising values the six-year-old company at about $650mn as it aims to
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
+## Agentic AI may make cyberattacks faster, more sophisticated: Securonix CEO
+Organisations worry AI-powered agents acting on behalf of employees could magnify insider threats
+
+## Awadh’s enigmatic ruler
+Portrait of a king who excelled in the arts, not in war
+
+## From Diesel to Hydrogen: Concord’s 3,100-HP locomotive takes shape
+The company is attempting to bring together a hydrogen fuel cell, battery, power electronics, control and diagnostic systems, cooling and safety architecture inside an existing locomotive
+
+## Tied by geography and necessity
+The book is a window into Chinese society, humanising it for Indian readers
+
+## Centre gives in-principle nod to lease -out 11 AAI airports in five bundles
+MoCA to conduct ‘market sounding’ before seeking final approval; larger airports to be paired with smaller facilities
+
+## ‘Jodi’ war: Supreme Court urges Matrimony.com and Jodi365 to explore amicable settlement
+Issuing the ruling on August 21, Justices PS Narasimha and Alok Aradhe of the SC described the Madras High Court’s ruling as fair and added that there did not appear to be any need to interfere with it.
+
 ## FLY91 to raise ₹150 crore for growth : Chairman Harsha Raghavan
 The airline has sixt ATR-72 aircraft and is in discussions with lessors to add more planes.
 
 ## India’s retail F&O losses mirror a global pattern
 SEBI’s review finds widespread losses across derivatives markets, with frequent trading and experience offering no assurance of better outcomes
-
-## Government comes down heavy on Starlink for signing MoUs with States without a licence to operate
-Centre also tells State governments to halt their projects with Starlink till the company gets a green signal
-
-## SEBI reviewing framework on utilisation of issue proceeds
-Regulator proposes to further clarify the framework on related-party transactions to make it clear and workable
-
-## Govt notifies MMDR Act even as states threaten to move Supreme Court
-The act restricts Sstates’ powers to levy taxes on mineral rights and mineral-bearing lands
-
-## Sun Pharma’s recall of eyedrops: Experts raise concerns on implementation and enforcement
-Udaya Bhaskar, with the All India Drugs Control Officers’ Confederation, points out that ophthalmologists had flagged concerns involving certain eye drops in June
-
-## Spanish fashion brand Mango sees rapid India growth, to focus on new categories, larger stores
-Myntra’s wholesale entity Myntra Jabong India in 2017 had secured the master franchise rights for Mango in India; online and offline channels now contribute equally to the brand’s India business
-
-## Centre gives in-principle nod to lease -out 11 AAI airports in five bundles
-MoCA to conduct ‘market sounding’ before seeking final approval; larger airports to be paired with smaller facilities
 
 ## Trump tariffs: What India can learn from Canada’s failed trade talks with US
 Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed.
@@ -87,6 +87,15 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Luxury sales plunge in China as tax push hits rich shoppers
 
 
+## Indira Gandhi's ‘antakshari’ games to Modi's ‘sabudana khichdi’ recipe: Behind PMs' dining tables
+The book documents seven decades of Indian food and culture. It captures how the food culture around the Prime Ministers shifted.
+
+## ‘India will establish its own space station by 2035’: Isro chief V Narayanan
+Narayanan highlighted India's growing capabilities in space technology and said the country is now using space-based applications across more than 50 areas.
+
+## India's first 100% indigenised AK-203 ‘Sher’ rifle made, test-fired at factory in UP's Amethi
+“We have successfully produced and fired the first AK-203 (Sher) rifle made with 100% Indian components and input materials,” IRRPL CEO Major Gen Sharma said.
+
 ## Deepender Hooda makes U-turn after backlash over Sajjan Kumar 'role model' remark
 Asked by reporters in Gurugram on Sunday whether he had called Sajjan Kumar a role model, Deepender Hooda said, “I did not use the words.”
 
@@ -101,15 +110,6 @@ Navdeep Suri said that after he was told that his documents do not match, he was
 
 ## Tripura floods: CM Saha orders relief as heavy rain leaves 974 people homeless
 The Meteorological Department predicted light to moderate rainfall over the state’s districts in the next 24 hours
-
-## KPSC 'scam' case ED raids IAS officer Gangwar's premises in Karnataka, UP
-Gangwar is a 2016-batch Indian Administrative Service (IAS) officer and is currently posted as Director-MSME.
-
-## Ramdev says ‘don’t want to escalate’ war of words with Kangana Ranaut after ‘Gen Z, jawani' remarks row
-When Ramdev was asked about Kangana Ranaut's remarks, he questioned her education and past, while criticising her description of the younger generation.
-
-## 3 dead, 21 injured as pickup vehicle crashes into pole in Karnataka: Police
-Police registered a case at the Bhimarayanagudi police station, under section 106(1) of the Bharatiya Nyaya Sanhita
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
