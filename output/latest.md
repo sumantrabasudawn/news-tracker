@@ -57,6 +57,15 @@ Every imported cell assembled into a module represents demand that could have be
 ## India’s Thatcher moments
 At what point do political parties decide to replace their powerful leaders?
 
+## Government looks to deepen trade ties with Japan
+
+
+## Nifty 500 cos earnings jump 13% in Q1, OMCs feel West Asia heat
+
+
+## Cost pressure: Carmakers see strong sales but lower profits
+Rising Commodity Prices, Adverse Forex Movements Take Toll
+
 ## India projected to surpass China in affluent consumers by 2036 : Report
 
 
@@ -71,15 +80,6 @@ Recent trends indicate that traders aged under thirty now make up an impressive 
 
 ## FPIs turn buyers again: Foreign investors pour Rs 23,544 crore into Indian equities in August
 In August, foreign portfolio investors made a notable comeback to Indian equities, infusing a substantial Rs 23,544 crore. This resurgence follows earlier trends where significant amounts were pulled out. Positive quarterly earnings and a stable rupee have rekindled enthusiasm for Indian stocks. Non
-
-## Trump tariffs: What India can learn from Canada’s failed trade talks with US
-Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed.
-
-## Market recap: Rs 87,960 crore wiped off four top-10 firms; Airtel bears biggest loss
-Dalal Street faced a setback last week, closing lower with four prominent companies witnessing significant depreciation in market value. Notably, Bharti Airtel and TCS experienced the steepest declines, which affected overall market confidence. The benchmark indices, Sensex and Nifty, reflected this
-
-## Dalal Street outlook: Markets seek recovery after two-week slide
-Following a recent downturn, Indian equity markets may enter a phase of stabilization this week. Fluctuations in crude oil prices and updates on the US-Iran situation are expected to shape investor sentiment. Additionally, all eyes will be on the upcoming Jackson Hole symposium for signals regarding
 
 ## Two MLAs among six injured in car crash near PWD office in Delhi
 The Innova was carrying Anil Jha, the sitting MLA from Kirari, and Abhay Patil, an MLA from Karnataka.
