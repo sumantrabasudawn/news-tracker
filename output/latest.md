@@ -234,6 +234,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Landfill collapse in Guinea kills at least 22 people
+Heavy rains wash over the site, triggering a landslide that buries several shacks.
+
+## Photos: Ukraine celebrates National Flag Day
+People observe a minute of silence for those killed in war to mark the holiday established in 2004.
+
 ## LIVE: Elche vs Barcelona – La Liga
 Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.
 
@@ -251,12 +257,6 @@ Families in Gaza continue searching for children and relatives missing in the wa
 
 ## Iran’s government signals fuel price hike on eve of new US sanctions
 Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.
-
-## Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions
-Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.
-
-## PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
-India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
