@@ -90,6 +90,18 @@ In response to unfair trade terms imposed by the United States, Canada has decid
 ## US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting
 In a groundbreaking move, China has launched an extensive automotive recall, impacting 4.3 million vehicles across multiple manufacturers including Tesla. Safety regulators have raised alarms about the potential difficulty occupants may face in opening doors during emergency situations. Tesla is res
 
+## PM Modi interacts with fresh BJP team amid upcoming polls and ‘Vande Mataram’ row
+Prime Minister Narendra Modi deliberated with the BJP's new leadership after a recent rejig in the party.
+
+## FIR against Abhijeet Dipke for entering Maharashtra govt school; what are the charges against him
+Dipke and others have been accused of disrupting official work and threatening teachers at ZP Urdu school at Jawali near Ausa, a city in Latur district.
+
+## ‘Vote-bank politics’: What BJP’s new Vande Mataram resolution says about Congress, 6 stanzas
+BJP will undertake a nationwide campaign to spread the history, meaning and national significance of Vande Mataram across the country.
+
+## India’s monsoon weakens, IMD predicts below-normal rain for next two weeks
+Despite some weather systems developing, rainfall is expected to remain below normal across the country in both weeks of the forecast window.
+
 ## UP to offer free bus travel to women, one companion for Raksha Bandhan
 UP to offer free bus travel to women, one companion for Raksha Bandhan
 
@@ -101,18 +113,6 @@ His comments came after a 19-year-old boy died along with his parents at Khavdya
 
 ## EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’
 Jaishankar added India would factor the pact into its security calculus, adding that actions by countries “not well disposed” towards India would count
-
-## Shashi Tharoor breaks silence on Vande Mataram row: ‘We will all stand up for the entire thing if…’
-Shashi Tharoor said the Congress is following the existing practice when it comes to its party functions.
-
-## China-bound vessel with 24 crew members sinks 200 nautical miles off Odisha’s Paradip port
-The vessel was carrying 24 crew members, including 20 Chinese nationals, 1 Bangladeshi, and 3 Myanmar nationals, according to preliminary information.
-
-## Wanted accused fleeing STF allegedly runs over pedestrian with Thar in Punjab's Ludhiana
-The impact threw the man several feet away, while his cart was also knocked over.
-
-## NTA suspends private agency after power failure disrupts AIAPGET exam in Jaipur
-In a post on social media platform X, NTA said that it has issued a show-cause notice to the company.
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
+Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
+
 ## Iran war live: Tehran warns neighbours against joining US economic war
 Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.
 
@@ -254,9 +257,6 @@ Families are returning to the movies at an open-air cinema in Khartoum, offering
 
 ## Israeli army and settlers injure several Palestinians across West Bank
 Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.
-
-## US Postal Service shares mail-in ballot restrictions despite court ruling
-US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
