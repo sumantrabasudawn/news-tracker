@@ -24,6 +24,9 @@ Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tari
 ## Zelenskyy rejects election call from fired defence minister
 President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority
 
+## Yahoo, the internet’s ‘OG’, wants to win over Gen Z
+Group’s chief says vintage web name can help draw younger users
+
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
 
@@ -38,15 +41,6 @@ Italian group widening investments in technology that promises much but is yet t
 
 ## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
 Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
-
-## US buyers snap up Europe’s asset managers at fastest rate in decades
-European fund groups struggle as firms race to bulk up and expand globally
-
-## Coffee chain Blank Street raises funds from General Atlantic to fuel expansion
-Latest fundraising values the six-year-old company at about $650mn as it aims to be ‘daily luxury brand’
-
-## India’s reliance on Russian oil hits all-time high
-Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
 ## SEBI may assess NSE liquidity before allowing bourse to trade its own shares
 The move could allow the NSE to trade its shares on its own platform without listing there itself
