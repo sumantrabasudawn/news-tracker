@@ -39,6 +39,15 @@ Stéphane Boujnah has obsessively chased acquisitions to compete with larger riv
 ## Investors try to catch ‘falling knife’ with bets on risky funds during chip rout
 Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off
 
+## Uttar Pradesh tops in mopping up through taxes
+All the 10 States have shown collection from GST increasing despite rate rationalization and doing away with compensation
+
+## Spanish fashion brand Mango sees rapid India growth, set to expand
+Myntra’s wholesale entity Myntra Jabong India in 2017 had secured the master franchise rights for Mango in India; online and offline channels now contribute equally to the brand’s India business
+
+## From Diesel to Hydrogen: Concord’s 3,100-HP locomotive takes shape
+The company is attempting to bring together a hydrogen fuel cell, battery, power electronics, control and diagnostic systems, cooling and safety architecture inside an existing locomotive
+
 ## Gold, silver prices to rally this week: Here’s what analysts say
 US inflation data, Fed signals, West Asia geopolitics to be in focus
 
@@ -53,15 +62,6 @@ A skilled portfolio manager can experience bad luck, which could be a reason for
 
 ## Govt notifies MMDR Act even as states threaten to move Supreme Court
 The act restricts states’ powers to levy taxes on mineral rights and mineral-bearing lands
-
-## IIFCL initiates $1.8-billion ECB fundraising programme
-As part of the programme, IIFCL is envisaging raising about $1 billion through long-term ECBs, with tenors of up to 15 years, under the MIGA Guarantee Facility, in multiple tranches
-
-## Informed consumers can shape insurance markets
-As customers become more informed and digitally engaged, purchasing decisions are becoming more deliberate, more comparison-led and ultimately more aligned with individual protection needs
-
-## Alibaba seeks $10 billion from share sale for AI expansion
-The online retail giant-turned-AI player is offering 710 million shares at HK$112.7 each, represents a discount of 3.6 per cent to the closing price of Alibaba’s American depositary receipts on Friday
 
 ## Market recap: Rs 87,960 crore wiped off four top-10 firms; Airtel bears biggest loss
 Dalal Street faced a setback last week, closing lower with four prominent companies witnessing significant depreciation in market value. Notably, Bharti Airtel and TCS experienced the steepest declines, which affected overall market confidence. The benchmark indices, Sensex and Nifty, reflected this
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syria foreign minister says door open for diplomacy with Israel
+Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.
+
+## Far-right provocateur Jake Lang arrested after Minneapolis riot
+Far-right influencer Jake Lang was arrested after clashes erupted at his rally outside Minneapolis City Hall.
+
+## South Africa’s former boxing champion Tete shot dead outside home
+South Africa's former boxing champion Tete shot dead outside home
+
 ## How the deadliest Bundibugyo Ebola outbreak can be stopped
 The priorities are clear: reach every affected area, protect frontline workers, and turn commitments into action.
 
@@ -245,15 +254,6 @@ Water-related conflicts have nearly quadrupled since 2020. As World Water Week 2
 
 ## Israeli wounded in occupied West Bank stabbing
 Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.
-
-## Flooding across Caracas, Venezuela, after heavy rains
-Flooding across Caracas, Venezuela, after heavy rains
-
-## Photos: Russia celebrates National Flag Day amid war and tensions with the West
-Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.
-
-## DR Congo, M23 rebels agree on roadmap for peace talks
-Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
