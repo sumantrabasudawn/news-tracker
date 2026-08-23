@@ -1,46 +1,34 @@
 # AION Intelligence
 
-## Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16
-Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war
+## US buyers snap up Europe’s asset managers at fastest rate in decades
+European fund groups struggle as firms race to bulk up and expand globally
 
-## Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says
-Washington’s ambassador to Ankara says attack on air base could have been ‘aggressive . . . pre-election concept’ ahead of October polls
+## Coffee chain Blank Street raises funds from General Atlantic to fuel expansion
+Latest fundraising values the six-year-old company at about $650mn as it aims to be ‘daily luxury brand’
 
-## Mark Carney says Canada ‘at war’ with US over trade
-Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
+## Why is the far right so obsessed with knights?
+Medieval military monks have become a regular sight at political rallies and marches
 
-## ‘Appeasement is not a strategy’: how media is fighting back against Trump’s legal threats
-US president juggles multiple cases against news and entertainment groups
+## Are America’s vast Gulf bases worth rebuilding?
+Iran’s attacks exposed vulnerability of US military footprint spanning the region since the 1990s
 
-## Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio
-Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election
+## India’s reliance on Russian oil hits all-time high
+Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
-## Canada vows to match US tariffs as trade talks collapse
-Mark Carney rejects ‘unfair’ deal as top Washington envoy criticises ‘missed opportunity’
+## Railway enthusiasts split over plan to restore train services in rural areas
+Some are hopeful upgraded tracks will preserve steam engine rides, but others fear they will morph into commuter services
 
-## Bossing the bond market around never works
-Despite Scott Bessent’s efforts, investors worry something is up
+## Investors try to catch ‘falling knife’ with bets on risky funds during chip rout
+Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off
 
-## Mark Walter’s unravelling empire tests the insurance trade behind private credit’s rise
-Private capital saw an opportunity to make insurance much more profitable. At what risk?
+## ‘Juggernaut’ BT’s decade-long turnaround hits crunch time
+Investors still waiting for the ‘show me the money’ moment
 
-## Is sport safe from AI?
-Plus, the unlikely duo challenging Chelsea, Arsenal and Real Madrid
+## ‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets
+Stéphane Boujnah has obsessively chased acquisitions to compete with larger rivals
 
-## Big running shoe brands are regaining their lead
-Nike and Adidas are back in the race after challenger brands such as On Holding and Hoka start to lose momentum
-
-## Klarna’s stock crash shows the price of being a small fish in a big pond
-The European fintech has been hit by weak German consumer spending
-
-## FT launches charity auction of star journalists
-Bid for lunch with your favourite columnist to support the Financial Literacy and Inclusion Campaign (FT FLIC)
-
-## The financial question most couples cannot answer
-There are sound reasons to rethink how couples approach investing for the future
-
-## UK recruiters rebound despite European jobs weakness
-Investors return to Hays, Michael Page and Robert Walters after cost-cutting measures
+## Legal tech start-ups put AI disruption in a risky new wrapper
+Legora is betting AI giants will leave lucrative niches unconquered
 
 ## India's private credit market set for stronger growth as insolvency reforms reshape lending strategies: Report
 India's private credit market remains relatively small at an estimated $25-30 billion as of March 2025, compared with around $1.4 trillion in the US
@@ -90,6 +78,12 @@ Twenty-nine US states are suing Meta, alleging exploitative product design targe
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
+## Sikkim bags Award of Excellence at TTF Mumbai for rural, sustainable tourism
+Sikkim bags Award of Excellence at TTF Mumbai for rural, sustainable tourism
+
+## Wife switched off CCTV, man beaten in front of mother: Chilling details emerge in Delhi techie's death
+The deceased, Vinay Gupta, a resident of Laxmi Park, worked as a software engineer at an MNC in Noida, police said.
+
 ## Rajasthan government orders new building for Rampura school after CJP visit turns violent
 The Rajasthan government has now ordered the construction of a new building for the school, with work scheduled to begin on September 1.
 
@@ -107,12 +101,6 @@ Rahul Gandhi also targeted PM Narendra Modi and played a video of him referring 
 
 ## Endoscopic camera, ₹11,000 deal: How a professor leaked exam paper in Chhattisgarh, students among 6 held
 The professor reportedly used an endoscopic camera to capture the paper, selling it to students prior to the exam, leading to the paper's cancellation.
-
-## 'Not expecting neighbours to do only what’s in my interest’: Jaishankar on Bangladesh amid Hasina row
-India has invited Rahman for both a bilateral visit and to attend the upcoming Brics Summit in his capacity as chair of the Bimstec grouping.
-
-## West Bengal CM Suvendu Adhikari sets Vande Mataram mandate to ‘stay in state’
-The remarks came amid tension following repeated clashes between Left-leaning students and RSS-affiliated ABVP activists at Jadavpur University.
 
 ## Exodus from New Territories brownfield relieves pressure on industrial property market
 For years, brownfield sites in Hong Kong’s New Territories have hosted a range of businesses looking for cheap space – from storage depots to recycling centres to scrapyards. Now, the massive Northern Metropolis project is forcing many of these brownfield tenants to relocate, lifting demand for floo
@@ -234,6 +222,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
+Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.
+
 ## ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
 Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.
 
@@ -254,9 +245,6 @@ Official says any state joining US would be considered an enemy and Tehran would
 
 ## Iran threatens countries that join US ‘economic D-Day’
 Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
-
-## Iran warns of retaliation against countries joining US ‘economic war’
-Warning comes after Trump said he will impose 'most crushing' sanctions to isolate Iran and weaken its government.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
