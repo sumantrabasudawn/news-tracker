@@ -42,6 +42,9 @@ Latest fundraising values the six-year-old company at about $650mn as it aims to
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
+## Below the Line
+
+
 ## Editorial. Tribunal autonomy
 Tribunal Reforms Bill reinforces executive control
 
@@ -63,8 +66,8 @@ Blending geopolitics with lived experience, the book portrays Chinese media and 
 ## India may link additional diesel supply to progress on Bangladesh projects
 New Delhi weighs Dhaka’s request for more fuel as fate of stalled LoC projects remain uncertain
 
-## Adhere to fundamentals of journalism to regain public trust: N Ram
-Calling for self-regulation in the media organisations, Ram said self-regulatory mechanisms should comprise journalists and respected media personalities, rather than serving editors or proprietors.
+## India’s derivatives market gets a Gen Z makeover, but losses pile up: Sebi
+Recent trends indicate that traders aged under thirty now make up an impressive forty-three percent of all participants in the derivatives sector. Interestingly, individuals earning less than five lakh rupees a year are leading the market's activities. Moreover, there has been a notable rise in inve
 
 ## FPIs turn buyers again: Foreign investors pour Rs 23,544 crore into Indian equities in August
 In August, foreign portfolio investors made a notable comeback to Indian equities, infusing a substantial Rs 23,544 crore. This resurgence follows earlier trends where significant amounts were pulled out. Positive quarterly earnings and a stable rupee have rekindled enthusiasm for Indian stocks. Non
@@ -87,8 +90,8 @@ Gold and silver prices are poised for further gains next week. Investors await c
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
 
-## 'Masters in our own home': Canada PM Carney explains why trade talks with US were suspended
-Canada has halted trade negotiations with the United States due to perceived inequities in demands, leading to the US imposing hefty tariffs on Canadian exports. In response, Canada has unveiled countermeasures to address these tariffs. Prime Minister Carney criticized the US for its unreasonable re
+## Several detained after 300 people gathered at Delhi's Connaught Place to protest reservation
+Over 20 people, who had gathered for the stir at Connaught Place, were detained and removed because no permission had been granted for the agitation.
 
 ## Stray dog attacks, bites 5-year-old girl in Rajasthan’s Kota; incident caught on cam
 The girl was in a lane outside her house when the dog charged at her, knocking her down and biting her multiple times as she screamed and cried.
@@ -110,9 +113,6 @@ The war of words between Mohandas Pai and CJP's Saurav Das began after CJP alleg
 
 ## Indira Gandhi's ‘antakshari’ games to Modi's ‘sabudana khichdi’ recipe: Behind PMs' dining tables
 The book documents seven decades of Indian food and culture. It captures how the food culture around the Prime Ministers shifted.
-
-## ‘India will establish its own space station by 2035’: Isro chief V Narayanan
-Narayanan highlighted India's growing capabilities in space technology and said the country is now using space-based applications across more than 50 areas.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## French President Macron to host Saudi Crown Prince MBS in Paris for talks
+Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman's discussions.
+
 ## Can Nigeria cash in on Iran war?
 Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
 
@@ -243,7 +246,7 @@ Both countries will suffer from the trade war with steeper tariffs raising busin
 ## Gaza families search for children missing after years of war
 Families in Gaza continue searching for children and relatives missing in the war.
 
-## Iran government signals fuel price hike on eve of new US sanctions
+## Iran’s government signals fuel price hike on eve of new US sanctions
 Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.
 
 ## Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions
@@ -254,9 +257,6 @@ India and Bangladesh have not been able to move past the contentious question of
 
 ## Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
 Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino's resignation amid FIFA crisis.
-
-## The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
-In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
