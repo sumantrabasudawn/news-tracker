@@ -33,6 +33,15 @@ Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
 ## ‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets
 Stéphane Boujnah has obsessively chased acquisitions to compete with larger rivals
 
+## Gold, silver prices to rally this week: Here’s what analysts say
+US inflation data, Fed signals, West Asia geopolitics to be in focus
+
+## Piyush Goyal to lead largest business delegation to Japan from India
+In Tokyo, Goyal will hold a series of meetings with top executives of major Japanese industrial conglomerates
+
+## Andhra Pradesh weather alert: Heavy rain, winds forecast for northern Andhra
+Low-pressure area develops over Bay of Bengal; coastal population urged to exercise caution
+
 ## Elusive alpha?
 A skilled portfolio manager can experience bad luck, which could be a reason for the difficulty in generating alpha consistently
 
@@ -48,14 +57,14 @@ As customers become more informed and digitally engaged, purchasing decisions ar
 ## Alibaba seeks $10 billion from share sale for AI expansion
 The online retail giant-turned-AI player is offering 710 million shares at HK$112.7 each, represents a discount of 3.6 per cent to the closing price of Alibaba’s American depositary receipts on Friday
 
-## Pepper Awards celebrates 20th milestone edition; opens entries to All India
-Pepper Awards 2026 will, for the first time, open its Call for Entries to creative work from across India, expanding beyond its traditional South Indian footprint
+## Dalal Street outlook: Markets seek recovery after two-week slide
+Following a recent downturn, Indian equity markets may enter a phase of stabilization this week. Fluctuations in crude oil prices and updates on the US-Iran situation are expected to shape investor sentiment. Additionally, all eyes will be on the upcoming Jackson Hole symposium for signals regarding
 
-## Gold loan portfolio to surpass ₹1.5 lakh crore by FY27-end: Indian Bank MD
-This growth would come from tonnage, he said, adding that the gold loan segment is likely to grow about 20%
+## $40tn debt, $1.8tn deficit: Why US fiscal strain is worrying global markets
+US public debt has now surpassed forty trillion dollars, and the fiscal deficit continues to widen. Rising Treasury yields are emerging as a key market risk, potentially pressuring equities. Government spending has surged while receipts have declined, compounding financial pressures. Interest paymen
 
-## Indian Bank sanctions ₹1,125 crore worth Retail, Agri and MSME credit in a drive
-The campaign received an overwhelming response, with credit proposals mobilised amounting to ₹2,080 crore, of which ₹1,125 crore was sanctioned and ₹575 crore disbursed, the bank said in a statement
+## Gold, silver prices likely to extend gains next week as investors await US data
+Gold and silver prices are poised for further gains next week. Investors await crucial US inflation and economic data releases. Geopolitical developments in West Asia will also influence market sentiment. Domestic gold and silver futures saw significant increases this past week. Global bullion price
 
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
@@ -72,38 +81,32 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
 Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
 
-## NBFCs stay on growth track as asset quality remains stable: Report
-Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moder
+## Golden opportunity for India in shipbuilding, repairs: Rajnath Singh in Kolkata
+Defence minister Rajnath Singh said India can capitalise on the global shipbuilding gap to become a major hub for shipbuilding, repairs and maritime services.
 
-## 29 states vs Meta: How a landmark child safety trial could reshape Facebook, Insta
-Twenty-nine US states are suing Meta, alleging exploitative product design targeting young users. The lawsuit claims Meta concealed internal research about potential harms to teenagers. States seek substantial financial penalties and court-ordered product redesigns for Facebook and Instagram. A form
+## ‘If a person doesn’t value you…’: Woman who died in Maharashtra hill tragedy spoke about relationships in last YT video
+Sangita Chandgude died in a freak series of falls after her 19-year-old son jumped from a hilltop, followed by her husband in an attempt to save the teenager.
 
-## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
-Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
+## Book Box: Honey, Mustard and the Art of getting back to life
+After a health scare, the author finds solace in honey and homemade mustard while reminiscing about food’s cultural significance and her recovery.
+
+## Poonawalla vs Poonawalla: Shehzad takes on brother Tehseen over sugar scam claims, jibes at ‘jannayak’ Rahul Gandhi
+The spat between the brothers began with Tehseen alleging that the ‘sugar scam’ is impacting the citizens as they have to pay higher prices for sugar.
+
+## 28-year-old Punjab man, Gurdeep Singh, shot dead while delivering pizza in New York City
+The deceased, identified as Gurdeep Singh, hails from Jabowal village in Kapurthala district in Punjab.
 
 ## Tezpur University teachers' body questions silence of Edu Min after submission of probe report
 Tezpur University teachers' body questions silence of Edu Min after submission of probe report
 
-## Defence ministry officer found dead in Dwarka home; family alleges harassment by in-laws: Cop
+## Defence ministry officer found dead in Delhi home; family alleges harassment by in-laws: Cop
 Further investigation into the matter is in progress, and appropriate action will be taken on the basis of the evidence
 
 ## Telangana calls for private parties to step in to revive 11 historic forts under PPP model
 The forts identified for development are Bhongir, Devarakonda, Rachakonda, Medak, Khammam, Kaulas, Zaffergadh, Elgandal, Ramagiri, Utnoor and Sarvai Papanna.
 
-## Jaiñtia Hills to the G7: Can Meghalaya turn ‘Lakadong’ into a global brand?
-The high-curcumin turmeric has gone from an obscure hill crop to a GI-tagged premium product showcased before world leaders.
-
-## 2 killed after illegal building in Hyderabad's Gachibowli caves in
-Officials alleged that the building was built over or adjacent to a drain without the required permissions.
-
-## 'Real life Batman': Posters comparing Rahul Gandhi to caped crusader put up near Congress headquarters
-The posters had Gandhi's picture alongside the picture of Batman. It had the captions 'The Silent Guardian' and 'A Watchful Protector' written on them.
-
-## Sitharaman, Goyal, commerce secretary to lead India’s global outreach next week
-Sitharaman, Goyal and commerce secretary to visit six key economies as India pushes trade deals, investment and stronger economic ties.
-
-## Rains trigger landslides across Uttarakhand, over 80 roads blocked
-The Mussoorie-Dehradun road was closed for about an hour. Commuters travelling towards Uttarkashi via Suwakholi were also stranded.
+## Wall Street helped build modern China. But is it now being cast aside?
+For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
 
 ## ‘Huge influx’: expat retirees projected to drive Hong Kong’s premium home demand
 Hong Kong is tipped to see more luxury home sales with expatriates increasingly choosing the city as their retirement base, drawn to its low-tax environment as well as business opportunities, according to analysts. “A huge influx of expats who used to live in Hong Kong are moving back with a long-te
@@ -125,9 +128,6 @@ South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’
 
 ## Tesla forced to recall record 3 million cars in China over door-handle issue
 Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
-
-## Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment
-Ping An Insurance (Group), China’s largest insurer in terms of market capitalisation, is eyeing investments in Hong Kong-listed exchange-traded funds (ETFs) to boost returns following Beijing’s green light for cross-border allocations, according to senior executives. “Allowing mainland insurance fun
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How the deadliest Bundibugyo Ebola outbreak can be stopped
+The priorities are clear: reach every affected area, protect frontline workers, and turn commitments into action.
+
+## Israeli air strike near Gaza refugee camp kills one person and injures two
+Israeli air attack near Gaza's Maghazi camp kills one person and injures two others.
+
 ## 37 injured as magnitude 5.9 earthquake strikes eastern Japan
 37 injured as magnitude 5.9 earthquake strikes eastern Japan
 
@@ -242,12 +248,6 @@ Participants in St Petersburg honour Russia’s tricolour with patriotic events 
 
 ## DR Congo, M23 rebels agree on roadmap for peace talks
 Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.
-
-## Kazakhstan holds parliamentary election expected to cement president’s grip
-Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.
-
-## Infantino defies FIFA vice president, makes appearance in the Caribbean
-FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
