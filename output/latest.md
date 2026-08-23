@@ -33,6 +33,21 @@ Legora is betting AI giants will leave lucrative niches unconquered
 ## ‘Juggernaut’ BT’s decade-long turnaround hits crunch time
 Investors still waiting for the ‘show me the money’ moment
 
+## IIFCL initiates $1.8-billion ECB fundraising programme
+As part of the programme, IIFCL is envisaging raising about $1 billion through long-term ECBs, with tenors of up to 15 years, under the MIGA Guarantee Facility, in multiple tranches
+
+## Informed consumers can shape insurance markets
+As customers become more informed and digitally engaged, purchasing decisions are becoming more deliberate, more comparison-led and ultimately more aligned with individual protection needs
+
+## Alibaba seeks $10 billion from share sale for AI expansion
+The online retail giant-turned-AI player is offering 710 million shares at HK$112.7 each, represents a discount of 3.6 per cent to the closing price of Alibaba’s American depositary receipts on Friday
+
+## Pepper Awards celebrates 20th milestone edition; opens entries to All India
+Pepper Awards 2026 will, for the first time, open its Call for Entries to creative work from across India, expanding beyond its traditional South Indian footprint
+
+## Gold loan portfolio to surpass ₹1.5 lakh crore by FY27-end: Indian Bank MD
+This growth would come from tonnage, he said, adding that the gold loan segment is likely to grow about 20%
+
 ## Indian Bank sanctions ₹1,125 crore worth Retail, Agri and MSME credit in a drive
 The campaign received an overwhelming response, with credit proposals mobilised amounting to ₹2,080 crore, of which ₹1,125 crore was sanctioned and ₹575 crore disbursed, the bank said in a statement
 
@@ -41,21 +56,6 @@ The move aims to boost domestic production under the Make in India initiative an
 
 ## Stagger your bonds and steady your cash flow
 You don’t have to take the pain of predicting interest rates — staggering bond maturities can spread risk and create future cash flows, giving opportunities to reinvest as interest rates change
-
-## Return of mega container ships to the Suez Canal emerges as a positive to Indian exporters
-The Suez Canal, on Saturday, witnessed the transit of Bangkok Maersk with carrying capacity of 17,200 TEUs, on its voyage from Italy to Singapore
-
-## Top FMCG firms reshuffle leadership as industry navigates growth challenges
-Companies are also contending with elevated input costs driven by geopolitical uncertainties and supply-chain disruptions, even as investors increasingly focus on sustainable growth and margin expansion
-
-## NSA Doval to visit China on Monday to attend Special Representatives talks with FM Wang
-Doval and Wang are scheduled to hold the 25th round of SR talks on Tuesday
-
-## FPIs invest ₹23,544 crore in Indian equities in Aug on earnings revival, rupee stability
-The inflow comes after FPIs invested ₹20,200 crore in July, marking a sharp turnaround from four consecutive months of heavy selling and signalling renewed confidence in Indian equities
-
-## Starbucks India back on growth track after biz recalibration to accelerate store expansion
-The company had earlier targeted opening around 100 Starbucks stores annually and sustained that pace for a few years, but moderated expansion over the last 18-24 months
 
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
@@ -81,29 +81,29 @@ Twenty-nine US states are suing Meta, alleging exploitative product design targe
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
-## 2 rescued, search on for 22 after Panama-flagged cargo ship sinks in Bay of Bengal | latest updates
-The crew comprised 20 Chinese nationals, three Myanmarese and one Bangladeshi, officials said.
+## Telangana calls for private parties to step in to revive 11 historic forts under PPP model
+The forts identified for development are Bhongir, Devarakonda, Rachakonda, Medak, Khammam, Kaulas, Zaffergadh, Elgandal, Ramagiri, Utnoor and Sarvai Papanna.
 
-## DMK calls for overhaul after poll setback: Age caps, 2-term limit, 110 organisational districts
-The DMK plans a major organizational overhaul following its setback in the April 2026 elections. New rules include age caps and term limits for posts.
+## Jaiñtia Hills to the G7: Can Meghalaya turn ‘Lakadong’ into a global brand?
+The high-curcumin turmeric has gone from an obscure hill crop to a GI-tagged premium product showcased before world leaders.
 
-## Nation-wide anti-narcotics fortnightly drives to begin from September
-Nation-wide anti-narcotics fortnightly drives to begin from September
+## 2 killed after illegal building in Hyderabad's Gachibowli caves in
+Officials alleged that the building was built over or adjacent to a drain without the required permissions.
 
-## Manipur: Kuki-Zo Council opposes NRC before Census, calls demand ‘premature’
-Manipur’s Kuki-Zo Council opposes demands for NRC before Census, saying demographic data should first be established through an impartial Census.
+## 'Real life Batman': Posters comparing Rahul Gandhi to caped crusader put up near Congress headquarters
+The posters had Gandhi's picture alongside the picture of Batman. It had the captions 'The Silent Guardian' and 'A Watchful Protector' written on them.
 
-## Indian Railways operate first ever double-stack long-haul container train I WATCH
-This achievement unlocks long-term benefits in the form of higher returns from a single train journey, transport efficiency and reduced traffic load on roads.
+## Sitharaman, Goyal, commerce secretary to lead India’s global outreach next week
+Sitharaman, Goyal and commerce secretary to visit six key economies as India pushes trade deals, investment and stronger economic ties.
 
-## ‘No missing IAS officer in Karnataka’: Priyank Kharge debunks rumour of Gyanendra Kumar's absence
-Gyanendra Kumar, a senior IAS officer, traveled to Uttar Pradesh for his ill father, not due to ED raid fears, stated Minister Kharge.
+## Rains trigger landslides across Uttarakhand, over 80 roads blocked
+The Mussoorie-Dehradun road was closed for about an hour. Commuters travelling towards Uttarkashi via Suwakholi were also stranded.
 
-## Gujarat spurious liquor case death toll rises to 13; three remain hospitalised
-The Bhavnagar spurious liquor death toll has risen to 13, with 61 people affected and 14 arrested in the Gujarat methanol poisoning case.
+## 'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat'
+The online outfit-turned-pressure group has accused the Centre of betraying the youth of the country and breaking their trust.
 
-## India’s fertiliser supplies for Rabi season remain on track despite Strait of Hormuz disruptions
-This comes at a time when fertiliser companies typically lock in imports so that cargoes reach Indian ports in Sept and October, just ahead of peak Rabi demand.
+## Delhi: 3 cops injured in Mukundpur attack; hit with bricks, chilli powder
+Police have apprehended a 17-year-old juvenile in connection with the incident, while a hunt is underway for the main accused and others involved.
 
 ## ‘Huge influx’: expat retirees projected to drive Hong Kong’s premium home demand
 Hong Kong is tipped to see more luxury home sales with expatriates increasingly choosing the city as their retirement base, drawn to its low-tax environment as well as business opportunities, according to analysts. “A huge influx of expats who used to live in Hong Kong are moving back with a long-te
