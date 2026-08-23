@@ -24,17 +24,14 @@ Collapse of talks threatens to raise prices even higher months before midterm el
 ## A week of keynote speeches
 Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talks monetary policy at Jackson Hole and investors await Nvidia earnings call
 
+## Scottish state bank records £138mn loss on back of failed investments
+Fifth consecutive full-year loss exposes tension in mandate of lender set up by SNP-led government
+
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
 
 ## Government can bring robotics to life
 Without policy, there are few incentives to automate business functions where labour costs are low
-
-## Occidental tries to free itself from the messy legacy of Anadarko deal
-Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition
-
-## Oil major Eni bets on nuclear fusion becoming its ‘next refinery’
-Italian group widening investments in technology that promises much but is yet to be commercially proven
 
 ## SEBI may assess NSE liquidity before allowing bourse to trade its own shares
 The move could allow the NSE to trade its shares on its own platform without listing there itself
@@ -60,6 +57,9 @@ Every imported cell assembled into a module represents demand that could have be
 ## India’s Thatcher moments
 At what point do political parties decide to replace their powerful leaders?
 
+## India projected to surpass China in affluent consumers by 2036 : Report
+
+
 ## Onion prices surge; Centre to roll out Kanda Express from Monday
 
 
@@ -80,9 +80,6 @@ Dalal Street faced a setback last week, closing lower with four prominent compan
 
 ## Dalal Street outlook: Markets seek recovery after two-week slide
 Following a recent downturn, Indian equity markets may enter a phase of stabilization this week. Fluctuations in crude oil prices and updates on the US-Iran situation are expected to shape investor sentiment. Additionally, all eyes will be on the upcoming Jackson Hole symposium for signals regarding
-
-## $40tn debt, $1.8tn deficit: Why US fiscal strain is worrying global markets
-US public debt has now surpassed forty trillion dollars, and the fiscal deficit continues to widen. Rising Treasury yields are emerging as a key market risk, potentially pressuring equities. Government spending has surged while receipts have declined, compounding financial pressures. Interest paymen
 
 ## Two MLAs among six injured in car crash near PWD office in Delhi
 The Innova was carrying Anil Jha, the sitting MLA from Kirari, and Abhay Patil, an MLA from Karnataka.
@@ -108,6 +105,9 @@ Three members of a family died at Khavda Hill in the Tisgaon area after an alleg
 ## Ajit Doval to visit China for boundary talks ahead of Xi’s India trip
 Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month
 
+## Hong Kong homebuyers snap up units at The Sterling as value-focused demand deepens
+Hong Kong homebuyers are still willing to spend, and the sell-out of a major new development on Saturday showed how demand is increasingly concentrated in projects that offer clear value as the housing recovery enters a more mature phase. China Resources Land’s The Sterling in southwestern Kowloon, 
+
 ## US economist Barry Eichengreen on reality of de-dollarisation and next currency reshuffle
 Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
 
@@ -128,9 +128,6 @@ In the high-stakes battle for China’s top talent, domestic tech companies – 
 
 ## Components crunch: China’s carmakers face rising costs to keep intelligence edge
 Chinese smart vehicle makers have been hit by another setback as a global components shortage collides with surging prices of raw materials, driven by the artificial intelligence boom. It would take at least a year for the global supply chain to ramp up production of printed circuit boards (PCBs) an
-
-## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
-South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
