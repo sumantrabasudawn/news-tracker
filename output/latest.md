@@ -63,6 +63,9 @@ Every imported cell assembled into a module represents demand that could have be
 ## India’s Thatcher moments
 At what point do political parties decide to replace their powerful leaders?
 
+## Onion prices surge; Centre to roll out Kanda Express from Monday
+
+
 ## Govt to tighten vehicle lighting rules: Low-beam-only bikes, reduced headlamp glare
 
 
@@ -83,9 +86,6 @@ Following a recent downturn, Indian equity markets may enter a phase of stabiliz
 
 ## $40tn debt, $1.8tn deficit: Why US fiscal strain is worrying global markets
 US public debt has now surpassed forty trillion dollars, and the fiscal deficit continues to widen. Rising Treasury yields are emerging as a key market risk, potentially pressuring equities. Government spending has surged while receipts have declined, compounding financial pressures. Interest paymen
-
-## Gold, silver prices likely to extend gains next week as investors await US data
-Gold and silver prices are poised for further gains next week. Investors await crucial US inflation and economic data releases. Geopolitical developments in West Asia will also influence market sentiment. Domestic gold and silver futures saw significant increases this past week. Global bullion price
 
 ## Two MLAs among six injured in car crash near PWD office in Delhi
 The Innova was carrying Anil Jha, the sitting MLA from Kirari, and Abhay Patil, an MLA from Karnataka.
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Is Israel about to split the occupied West Bank in half?
+Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?
+
 ## Severe winds toss four aircraft across Italian airport tarmac
 Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.
 
@@ -251,9 +254,6 @@ Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was k
 
 ## Video: Thousands of families flee fighting in Sudan’s North Kordofan State
 Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
-
-## Trump has ‘run out of options’ in Iran war: Stephen Walt
-Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
