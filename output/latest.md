@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Mark Carney says Canada ‘at war’ with US over trade
+Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
+
 ## US buyers snap up Europe’s asset managers at fastest rate in decades
 European fund groups struggle as firms race to bulk up and expand globally
 
@@ -21,14 +24,23 @@ Some are hopeful upgraded tracks will preserve steam engine rides, but others fe
 ## Investors try to catch ‘falling knife’ with bets on risky funds during chip rout
 Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off
 
-## ‘Juggernaut’ BT’s decade-long turnaround hits crunch time
-Investors still waiting for the ‘show me the money’ moment
-
 ## ‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets
 Stéphane Boujnah has obsessively chased acquisitions to compete with larger rivals
 
 ## Legal tech start-ups put AI disruption in a risky new wrapper
 Legora is betting AI giants will leave lucrative niches unconquered
+
+## ‘Juggernaut’ BT’s decade-long turnaround hits crunch time
+Investors still waiting for the ‘show me the money’ moment
+
+## Top FMCG firms reshuffle leadership as industry navigates growth challenges
+Companies are also contending with elevated input costs driven by geopolitical uncertainties and supply-chain disruptions, even as investors increasingly focus on sustainable growth and margin expansion
+
+## NSA Doval to visit China on Monday to attend Special Representatives talks with FM Wang
+Doval and Wang are scheduled to hold the 25th round of SR talks on Tuesday
+
+## FPIs invest ₹23,544 crore in Indian equities in Aug on earnings revival, rupee stability
+The inflow comes after FPIs invested ₹20,200 crore in July, marking a sharp turnaround from four consecutive months of heavy selling and signalling renewed confidence in Indian equities
 
 ## Starbucks India back on growth track after biz recalibration to accelerate store expansion
 The company had earlier targeted opening around 100 Starbucks stores annually and sustained that pace for a few years, but moderated expansion over the last 18-24 months
@@ -44,15 +56,6 @@ OSM expands manufacturing and evaluates a public listing, which market experts e
 
 ## Pride Hotels steps up expansion, plans ₹1,000-crore IPO by December
 The expansion has taken Pride Hotels' portfolio to 40 properties, including eight owned hotels and 32 managed properties
-
-## MCap of four of top-10 most valued firms erodes ₹87,960 crore; Airtel takes biggest hit
-Last week, the BSE benchmark Sensex declined 468.42 points, or 0.60%, and the NSE Nifty dipped 114 points, or 0.46%
-
-## M&M to intensify exports with new pickup 'Lifestyler'
-Recently, the company unveiled its pickup 'Mahindra Scorpio Lifestyler' which will hit the market in India in April 2027 and it will be launched as the 'Mahindra Lifestyler' in global markets
-
-## SBI's total business may double to ₹200 lakh cr by 75th foundation year in 2030: Chairman
-Setty said the scale of SBI's operations is closely linked to the performance of the Indian economy
 
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
@@ -78,8 +81,17 @@ Twenty-nine US states are suing Meta, alleging exploitative product design targe
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
+## Indian Railways operate first ever double-stack long-haul container train I WATCH
+This achievement unlocks long-term benefits in the form of higher returns from a single train journey, transport efficiency and reduced traffic load on roads.
+
+## ‘No missing IAS officer in Karnataka’: Priyank Kharge debunks rumour of Gyanendra Kumar's absence
+Gyanendra Kumar, a senior IAS officer, traveled to Uttar Pradesh for his ill father, not due to ED raid fears, stated Minister Kharge.
+
+## Gujarat spurious liquor case death toll rises to 13; three remain hospitalised
+The Bhavnagar spurious liquor death toll has risen to 13, with 61 people affected and 14 arrested in the Gujarat methanol poisoning case.
+
 ## India’s fertiliser supplies for Rabi season remain on track despite Strait of Hormuz disruptions
-This comes when as fertiliser companies typically lock in imports so that cargoes reach Indian ports in September and October, just ahead of peak Rabi demand.
+This comes at a time when fertiliser companies typically lock in imports so that cargoes reach Indian ports in Sept and October, just ahead of peak Rabi demand.
 
 ## Just Like That: When kings were also scholars
 From Samudragupta to Nehru, India’s history is rich with rulers and statesmen who combined political power with scholarship, philosophy, art and learning.
@@ -93,14 +105,8 @@ Ageing Lutyens' Delhi bungalows push upkeep bill for Union ministers' residences
 ## Haryana Cong leader seeks Deepender’s removal from CWC over Sajjan Kumar praise
 Sharma said Hooda’s comments “re-opened the wounds” of the Sikh community and could hurt the Congress’s prospects in Punjab, where the party faces elections
 
-## Daughter of NCP (SP) MLA Rohit Pawar's PA found dead in Baramati, probe on
-Police said an investigation was underway and the case was being examined from all angles.
-
-## ‘You have shown courage in new sector’: PM Modi lauds space startups during interaction with CEOs
-PM Narendra Modi, who interacted with CEOs and Founders of Space Startups, laid thrust on constituency in policies noting that it gives assurance to risk-takers
-
-## 'Yeh jeevan hai…’: Abhijeet Dipke uses Kishore Kumar song, PM Modi meme in response to FIR in Maharashtra
-Abhijeet Dipke responded to the news on Instagram Stories by sharing the news report along with a meme featuring Prime Minister Narendra Modi.
+## ‘Huge influx’: expat retirees projected to drive Hong Kong’s premium home demand
+Hong Kong is tipped to see more luxury home sales with expatriates increasingly choosing the city as their retirement base, drawn to its low-tax environment as well as business opportunities, according to analysts. “A huge influx of expats who used to live in Hong Kong are moving back with a long-te
 
 ## After gaining EV dominance, Chinese carmakers shift goal to take on full-hybrid behemoths
 Chinese carmakers, already at the vanguard of electric vehicle (EV) technology and production, are looking to make a dent in international marques’ full-hybrid vehicle stronghold as they continue to disrupt the global car industry’s pecking order. Major car builders including Geely Auto and Changan 
@@ -122,9 +128,6 @@ Tesla has issued the largest-ever product recall in mainland China’s electric 
 
 ## Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment
 Ping An Insurance (Group), China’s largest insurer in terms of market capitalisation, is eyeing investments in Hong Kong-listed exchange-traded funds (ETFs) to boost returns following Beijing’s green light for cross-border allocations, according to senior executives. “Allowing mainland insurance fun
-
-## Alibaba signals faster AI payoff, margin gains halfway through US$56 billion capex plan
-Alibaba Group Holding is expected to further accelerate cloud growth, expand operating margins and achieve faster payback on artificial intelligence investments, analysts say, as the Chinese tech giant reaches the halfway mark of its massive 380 billion yuan (US$56 billion) AI infrastructure spendin
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -222,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## DR Congo, M23 rebels agree on roadmap for peace talks
+Roadmap follows a week of talks in Switzerland aimed at making progress on a framework agreement they signed last year.
+
+## Kazakhstan holds parliamentary election expected to cement president’s grip
+Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.
+
 ## Infantino defies FIFA vice president, makes appearance in the Caribbean
 FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.
 
@@ -239,12 +248,6 @@ The Central Asian country heads to the polls on August 23.
 
 ## Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
 Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.
-
-## ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
-Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.
-
-## In rural Chad, solar kiosks bring healthcare closer
-Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
