@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Healey’s first Budget is a chance for radical change
+Two good reasons why this chancellor has a better chance than I had of boosting public-sector productivity
+
 ## Mark Carney says Canada ‘at war’ with US over trade
 Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
 
@@ -21,20 +24,23 @@ Shake-up is intended to promote growth and take on ‘Nimby’ opposition to pro
 ## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
 Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
 
-## US buyers snap up Europe’s asset managers at fastest rate in decades
-European fund groups struggle as firms race to bulk up and expand globally
-
 ## Oil major Eni bets on nuclear fusion becoming its ‘next refinery’
 Italian group widening investments in technology that promises much but is yet to be commercially proven
 
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack
 
+## US buyers snap up Europe’s asset managers at fastest rate in decades
+European fund groups struggle as firms race to bulk up and expand globally
+
 ## Coffee chain Blank Street raises funds from General Atlantic to fuel expansion
 Latest fundraising values the six-year-old company at about $650mn as it aims to be ‘daily luxury brand’
 
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
+
+## Centre gives in-principle nod to lease -out 11 AAI airports in five bundles
+MoCA to conduct ‘market sounding’ before seeking final approval; larger airports to be paired with smaller facilities
 
 ## FSSAI suspends licence of Marche Retail, restrains SDP Industries from selling ghee
 The licence of Marche Retail was suspended after serious non-compliances were identified during an inspection and subsequent follow-up scrutiny of the food business premises
@@ -57,8 +63,8 @@ SEBI’s review finds widespread losses across derivatives markets, with frequen
 ## SEBI reviewing framework on utilisation of issue proceeds
 Regulator proposes to further clarify the framework on related-party transactions to make it clear and workable
 
-## Spanish fashion brand Mango sees rapid India growth, to focus on new categories, larger stores
-Myntra’s wholesale entity Myntra Jabong India in 2017 had secured the master franchise rights for Mango in India; online and offline channels now contribute equally to the brand’s India business
+## Trump tariffs: What India can learn from Canada’s failed trade talks with US
+Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed.
 
 ## Market recap: Rs 87,960 crore wiped off four top-10 firms; Airtel bears biggest loss
 Dalal Street faced a setback last week, closing lower with four prominent companies witnessing significant depreciation in market value. Notably, Bharti Airtel and TCS experienced the steepest declines, which affected overall market confidence. The benchmark indices, Sensex and Nifty, reflected this
@@ -81,8 +87,17 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Luxury sales plunge in China as tax push hits rich shoppers
 
 
-## Collections under RBI's dollar swap scheme exceed $72.8 billion
+## Deepender Hooda makes U-turn after backlash over Sajjan Kumar 'role model' remark
+Asked by reporters in Gurugram on Sunday whether he had called Sajjan Kumar a role model, Deepender Hooda said, “I did not use the words.”
 
+## Assam cab operators warn of protest as Meghalaya blockade continues despite talks
+The blockade in Assam’s Jorabat started on Friday in protest against alleged attacks on Assam residents and vehicles during violence in Shillong
+
+## Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor
+Sergio Gor claimed that the ministry of external affairs had asked for “no questions” after the meeting between Modi and Trump.
+
+## ‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’
+Navdeep Suri said that after he was told that his documents do not match, he was asked to come again with documents that show that he is an Indian citizen.
 
 ## Tripura floods: CM Saha orders relief as heavy rain leaves 974 people homeless
 The Meteorological Department predicted light to moderate rainfall over the state’s districts in the next 24 hours
@@ -95,18 +110,6 @@ When Ramdev was asked about Kangana Ranaut's remarks, he questioned her educatio
 
 ## 3 dead, 21 injured as pickup vehicle crashes into pole in Karnataka: Police
 Police registered a case at the Bhimarayanagudi police station, under section 106(1) of the Bharatiya Nyaya Sanhita
-
-## Delhi's Marche Retail faces FSSAI action; license suspended over hygiene, training lapses
-FSSAI said Marche Retail was found operating with deficiencies relating to design, operational controls, sanitation, personal hygiene, etc
-
-## 3 FIRs filed against 28 named, 900 unnamed people over police-students clash in Jharkhand
-FIRs were registered at Ranchi's Kotwali police station against 14 named and 200 unidentified people for obstructing government work and clashing with police.
-
-## No new H1N1 strain in circulation, current vaccines effective: ICMR officials amid rising cases
-ICMR officials said no new H1N1 strain is circulating in India and the current viruses are well matched with vaccines recommended for the Northern Hemisphere.
-
-## Bengaluru woman dies by suicide after ‘ex-classmate’ blackmails, harasses her
-She was staying at a paying guest accommodation in HSR Layout's Sector-1 and worked in the sales department of a jewellery store in the area.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -228,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
+Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino's resignation amid FIFA crisis.
+
+## The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
+
+## Chelsea preview: Five key talking points for 2026-27 Premier League season
+Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?
+
 ## Heavy Israeli air strike hits warehouse in central Gaza
 Heavy Israeli air strike hits warehouse in central Gaza
 
@@ -242,15 +254,6 @@ The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' t
 
 ## DR Congo miners risk Ebola to make a living
 DR Congo miners risk Ebola to make a living
-
-## Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win
-Real Madrid coach Jose Mourinho has criticised the bullying of Vinicius Junior by opponents and fans.
-
-## US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance
-El-Sayed has hit back at JD Vance, saying his identity and religion aren’t causing the Trump administration’s problems.
-
-## Can Iran retaliate against countries that join US ‘economic war’?
-Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
