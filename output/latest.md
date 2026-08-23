@@ -96,6 +96,9 @@ Gold and silver prices are poised for further gains next week. Investors await c
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
 
+## Two MLAs among six injured in car crash near PWD office in Delhi
+The Innova was carrying Anil Jha, the sitting MLA from Kirari, and Abhay Patil, an MLA from Karnataka.
+
 ## Operation Sindoor, Wagah-Attari shut: How 150 Pakistani-Sindhi brides reached India amid strained ties
 The tensions between India and Pakistan following Operation Sindoor had reportedly put the weddings of at least 150 Pakistani women on hold.
 
@@ -116,9 +119,6 @@ Three members of a family died at Khavda Hill in the Tisgaon area after an alleg
 
 ## Ajit Doval to visit China for boundary talks ahead of Xi’s India trip
 Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month
-
-## CJP's Saurav Das rejects Mohandas Pai's suggestion on inspecting schools: ‘Boring, unconnected from reality'
-The war of words between Mohandas Pai and CJP's Saurav Das began after CJP alleged that the volunteers were attacked in Jaipur on their way to inspect a school.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -240,6 +240,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Zhou Bo: China’s alternative to Western power
+Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.
+
+## Palestinian teen killed in Israeli raid buried in Occupied West Bank
+Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.
+
 ## Video: Thousands of families flee fighting in Sudan’s North Kordofan State
 Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
 
@@ -250,19 +256,13 @@ Political scientist Stephen Walt says Trump promised to make US stronger, but ma
 A migrant boat carrying 15 Tunisians sank off the country's southeastern coast while heading to Italy, killing eight.
 
 ## Thousands displaced as wildfire threatens homes in US state of Nevada
-A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations.
+Authorities said the fire was caused by humans.
 
 ## Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms
 House Speaker Mike Johnson, a Trump ally, admits it 'would be helpful' if conflict ends before elections in November.
 
 ## Landfill collapse in Guinea kills at least 30 people
 Heavy rains wash over the site, triggering a landslide that buries several shacks.
-
-## Photos: Ukraine celebrates National Flag Day
-People observe a minute of silence for those killed in war to mark the holiday established in 2004.
-
-## LIVE: Elche vs Barcelona – La Liga
-Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
