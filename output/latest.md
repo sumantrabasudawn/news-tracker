@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Occidental tries to free itself from the messy legacy of Anadarko deal
+Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition
+
+## Burnham to allow English mayors to ‘call in’ big local planning decisions
+Shake-up is intended to promote growth and take on ‘Nimby’ opposition to projects
+
+## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
+Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
+
 ## Mark Carney says Canada ‘at war’ with US over trade
 Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
 
@@ -15,23 +24,20 @@ Medieval military monks have become a regular sight at political rallies and mar
 ## Are America’s vast Gulf bases worth rebuilding?
 Iran’s attacks exposed vulnerability of US military footprint spanning the region since the 1990s
 
+## UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility
+Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack
+
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
 ## Railway enthusiasts split over plan to restore train services in rural areas
 Some are hopeful upgraded tracks will preserve steam engine rides, but others fear they will morph into commuter services
 
-## Investors try to catch ‘falling knife’ with bets on risky funds during chip rout
-Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off
-
-## UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility
-Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack
-
-## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
-Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
-
 ## ‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets
 Stéphane Boujnah has obsessively chased acquisitions to compete with larger rivals
+
+## Investors try to catch ‘falling knife’ with bets on risky funds during chip rout
+Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off
 
 ## Gold, silver prices to rally this week: Here’s what analysts say
 US inflation data, Fed signals, West Asia geopolitics to be in focus
@@ -57,6 +63,9 @@ As customers become more informed and digitally engaged, purchasing decisions ar
 ## Alibaba seeks $10 billion from share sale for AI expansion
 The online retail giant-turned-AI player is offering 710 million shares at HK$112.7 each, represents a discount of 3.6 per cent to the closing price of Alibaba’s American depositary receipts on Friday
 
+## Market recap: Rs 87,960 crore wiped off four top-10 firms; Airtel bears biggest loss
+Dalal Street faced a setback last week, closing lower with four prominent companies witnessing significant depreciation in market value. Notably, Bharti Airtel and TCS experienced the steepest declines, which affected overall market confidence. The benchmark indices, Sensex and Nifty, reflected this
+
 ## Dalal Street outlook: Markets seek recovery after two-week slide
 Following a recent downturn, Indian equity markets may enter a phase of stabilization this week. Fluctuations in crude oil prices and updates on the US-Iran situation are expected to shape investor sentiment. Additionally, all eyes will be on the upcoming Jackson Hole symposium for signals regarding
 
@@ -78,8 +87,14 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Collections under RBI's dollar swap scheme exceed $72.8 billion
 
 
-## Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters
-Introduced in 2023, over 60-plus Amrit Bharat trains run across the Indian Railways network. The fares are around Rs 500 per 1,000 kilometres for sleeper class travel - the aim clearly being affordability.
+## CBI registers case against former DGCA Director Anil Gill and others in corruption case
+The CBI registered a case on August 21 under Sections 11 and 12 of the Prevention of Corruption Act, 1988, as amended in 2018, and Section 120B of the IPC.
+
+## Power of democracy gave ordinary person like me chance to become CM: Fadnavis at youth event
+Power of democracy gave ordinary person like me chance to become CM: Fadnavis at youth event
+
+## CM Vijay's govt orders quality checks on alcohol level at all Tamil Nadu distilleries after Enrica liquor ban row
+The move comes amid public concern over the temporary ban on 11 liquor variants produced by Enrica Enterprises and the decision to revoke it within a day.
 
 ## Golden opportunity for India in shipbuilding, repairs: Rajnath Singh in Kolkata
 Defence minister Rajnath Singh said India can capitalise on the global shipbuilding gap to become a major hub for shipbuilding, repairs and maritime services.
@@ -95,15 +110,6 @@ The spat between the brothers began with Tehseen alleging that the ‘sugar scam
 
 ## 28-year-old Punjab man, Gurdeep Singh, shot dead while delivering pizza in New York City
 The deceased, identified as Gurdeep Singh, hails from Jabowal village in Kapurthala district in Punjab.
-
-## Tezpur University teachers' body questions silence of Edu Min after submission of probe report
-Tezpur University teachers' body questions silence of Edu Min after submission of probe report
-
-## Defence ministry officer found dead in Delhi home; family alleges harassment by in-laws: Cop
-Further investigation into the matter is in progress, and appropriate action will be taken on the basis of the evidence
-
-## Telangana calls for private parties to step in to revive 11 historic forts under PPP model
-The forts identified for development are Bhongir, Devarakonda, Rachakonda, Medak, Khammam, Kaulas, Zaffergadh, Elgandal, Ramagiri, Utnoor and Sarvai Papanna.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
