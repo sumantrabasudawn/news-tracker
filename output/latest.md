@@ -1,11 +1,5 @@
 # AION Intelligence
 
-## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
-Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
-
-## Yahoo, the internet’s ‘OG’, wants to win over Gen Z
-Group’s chief says vintage web name can help draw younger users
-
 ## Why every French politician is now a Gaullist
 The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy
 
@@ -23,6 +17,12 @@ Market Questions is the FT’s guide to the week ahead
 
 ## Healey’s first Budget is a chance for radical change
 Two good reasons why this chancellor has a better chance than I had of boosting public-sector productivity
+
+## Mark Carney says Canada ‘at war’ with US over trade
+Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
+
+## Zelenskyy rejects election call from fired defence minister
+President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority
 
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
@@ -240,6 +240,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Video: Thousands of families flee fighting in Sudan’s North Kordofan State
+Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
+
+## Trump has ‘run out of options’ in Iran war: Stephen Walt
+Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
+
 ## Tunisia sees protests after migrant boat sinking kills eight
 A migrant boat carrying 15 Tunisians sank off the country's southeastern coast while heading to Italy, killing eight.
 
@@ -257,12 +263,6 @@ People observe a minute of silence for those killed in war to mark the holiday e
 
 ## LIVE: Elche vs Barcelona – La Liga
 Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.
-
-## French President Macron to host Saudi Crown Prince MBS in Paris for talks
-Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman's discussions.
-
-## Can Nigeria cash in on Iran war?
-Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
