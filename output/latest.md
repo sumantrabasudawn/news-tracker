@@ -24,6 +24,9 @@ Market Questions is the FT’s guide to the week ahead
 ## Healey’s first Budget is a chance for radical change
 Two good reasons why this chancellor has a better chance than I had of boosting public-sector productivity
 
+## How New Zealand’s biggest city solved its housing crisis
+Rezoning has changed the face of Auckland though critics warn lessons hard to replicate
+
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
 
@@ -35,9 +38,6 @@ Oil and gas group charts a steadier course seven years after Vicki Hollub’s no
 
 ## Oil major Eni bets on nuclear fusion becoming its ‘next refinery’
 Italian group widening investments in technology that promises much but is yet to be commercially proven
-
-## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
-Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
 
 ## SEBI may assess NSE liquidity before allowing bourse to trade its own shares
 The move could allow the NSE to trade its shares on its own platform without listing there itself
