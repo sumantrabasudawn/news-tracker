@@ -42,29 +42,32 @@ There are sound reasons to rethink how couples approach investing for the future
 ## UK recruiters rebound despite European jobs weakness
 Investors return to Hays, Michael Page and Robert Walters after cost-cutting measures
 
+## India's private credit market set for stronger growth as insolvency reforms reshape lending strategies: Report
+India's private credit market remains relatively small at an estimated $25-30 billion as of March 2025, compared with around $1.4 trillion in the US
+
+## Paramount and California to hold preliminary talks on Warner Bros deal
+The talks are preliminary, ‌and ⁠there is no assurance that they ⁠will lead to meaningful negotiations toward a settlement, the report said, adding that ​Paramount requested the ‌meeting
+
+## Home Minister directs agencies to increase footprint in Siliguri corridor
+The Home Minister says that the concerned agencies should establish more of their institutions, keep it free of encroachments, and take all steps to stop illegal immigration in the region
+
+## Nvidia customers notified about AI-related price hikes above 15%
+The price hikes ‌will go into effect ‌on ⁠systems shipped early next year ⁠and will impact systems including those with the flagship Vera Rubin and Grace Blackwell ​chips
+
+## Panama-flagged cargo ship sinks in Bay of Bengal, rescue ops on
+The ship, with 24 crew members on board, was heading towards Singapore carrying iron ore from Odisha
+
+## CIAL, SpiceJet trade charges over weather-related flight disruption in Kochi
+CIAL said there were no adverse weather conditions in Kochi warranting the disruption cited by the airline
+
+## TN govt seeks explanation from officials who issued circulars banning students' protests
+Sources said Commissioner of Collegiate Education P Ponniah issued a notice directing Selvi to submit her formal reply within one week, clarifying the circumstances under which the communication was drafted and dispatched to state-run institutions
+
 ## Canada-India education ties entering a new era
 Deepening collaboration in talent development, applied research and innovation will benefit both nations
 
-## FSSAI issued 150 notices to food companies in recent months over misleading advertisements
-In the past few months, the FSSAI said it has taken action against various food business operators (FBOs) for serious violations of its laws and regulations
-
-## A91 Partners set to cash out ₹445 crore from Atomberg ahead of IPO
-The fund, which first backed Atomberg in 2019, has put about ₹143 crore into the company across primary and secondary transactions
-
-## US bond turmoil signals rising global macro pressures
-As bond yields spike across major markets, valuations will matter even more for equity investors; gold’s relevance is intact
-
-## What should investors do about SBI after Q1 FY27 results?
-Having gone through a full cycle of interest rate transmission, SBI’s NIM is expected to be stable going forward
-
-## NRIs yearn for higher returns: Banks mop up $65.397 billion in just 75 days via FCNR-B deposits
-And the inflows are gathering pace as the RBI has cut short the deadline to offer concessional swap facility for fresh FCNR-B deposits mobilised by banks by a month to August 31, 2026
-
-## Mapping India’s space-tech opportunity: Which listed stocks to buy, which unlisted companies to track
-COSMIC COMMERCE India’s private space ecosystem is expanding across launch, satellites, components, data and communications. For investors, understanding where companies sit in this value chain matters as much as the excitement around the theme.
-
-## Symbiotec Pharmalab IPO analysis: Key factors investors need to know before subscribing
-Strong R&D capabilities, integrated operating model and plant expansions augur well for Symbiotec Pharmalab
+## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
+In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
 
 ## 'Masters in our own home': Canada PM Carney explains why trade talks with US were suspended
 Canada has halted trade negotiations with the United States due to perceived inequities in demands, leading to the US imposing hefty tariffs on Canadian exports. In response, Canada has unveiled countermeasures to address these tariffs. Prime Minister Carney criticized the US for its unreasonable re
@@ -87,8 +90,14 @@ Twenty-nine US states are suing Meta, alleging exploitative product design targe
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
-## 'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'
-In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being
+## Rajasthan government orders new building for Rampura school after CJP visit turns violent
+The Rajasthan government has now ordered the construction of a new building for the school, with work scheduled to begin on September 1.
+
+## Bar Council chair rejects plea for resignation; co-chair alleges irregularities
+The co-chair, in a letter dated August 22 addressed to Mishra, demanded the chair's immediate resignation and an independent probe into alleged irregularities.
+
+## Govt teachers' body opposes notice to official over withdrawn student protest circular
+Govt teachers' body opposes notice to official over withdrawn student protest circular
 
 ## TMC rebels await official status after breaking off from Mamata Banerjee's leadership
 The two factions are the Ritabrata Banerjee-led 62 legislators in the West Bengal assembly and 20 MPs under the leadership of Sudip Bandyopadhyay in Lok Sabha.
@@ -96,7 +105,7 @@ The two factions are the Ritabrata Banerjee-led 62 legislators in the West Benga
 ## Rahul Gandhi calls for ‘end to patriarchy’ at Pune event after PM Modi’s ‘cultural shock’ remark
 Rahul Gandhi also targeted PM Narendra Modi and played a video of him referring to abusive language used by girls during the agitation at Jantar Mantar.
 
-## Endoscopic camera, ₹11,000 deal: How Chhattisgarh agriculture exam paper was leaked; professor, 5 students held
+## Endoscopic camera, ₹11,000 deal: How a professor leaked exam paper in Chhattisgarh, students among 6 held
 The professor reportedly used an endoscopic camera to capture the paper, selling it to students prior to the exam, leading to the paper's cancellation.
 
 ## 'Not expecting neighbours to do only what’s in my interest’: Jaishankar on Bangladesh amid Hasina row
@@ -104,15 +113,6 @@ India has invited Rahman for both a bilateral visit and to attend the upcoming B
 
 ## West Bengal CM Suvendu Adhikari sets Vande Mataram mandate to ‘stay in state’
 The remarks came amid tension following repeated clashes between Left-leaning students and RSS-affiliated ABVP activists at Jadavpur University.
-
-## 'Your angry face is their content': Delhi Police told how not to respond to new-gen protesters
-The Delhi Police personnel have been asked not to engage with the protesters or respond to their questions or emotional appeals.
-
-## Leopard burnt alive after getting trapped in farm snare in Karnataka, 3 arrested
-The incident, filmed and shared on WhatsApp, has sparked public outrage. Authorities are investigating further and more arrests may follow.
-
-## Sajjan Kumar row: Punjab Congress distances itself from Hooda’s ‘irreparable loss’ remark
-Protests erupted outside Rahul Gandhi's residence, with Sikh leaders demanding apologies and condemning supportive remarks about Kumar.
 
 ## Exodus from New Territories brownfield relieves pressure on industrial property market
 For years, brownfield sites in Hong Kong’s New Territories have hosted a range of businesses looking for cheap space – from storage depots to recycling centres to scrapyards. Now, the massive Northern Metropolis project is forcing many of these brownfield tenants to relocate, lifting demand for floo
@@ -255,8 +255,8 @@ Official says any state joining US would be considered an enemy and Tehran would
 ## Iran threatens countries that join US ‘economic D-Day’
 Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
 
-## Iran warns nearby nations against joining US ‘economic war’ efforts
-The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
+## Iran warns of retaliation against countries joining US ‘economic war’
+Warning comes after Trump said he will impose 'most crushing' sanctions to isolate Iran and weaken its government.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
