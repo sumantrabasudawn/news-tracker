@@ -39,6 +39,21 @@ Latest fundraising values the six-year-old company at about $650mn as it aims to
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
+## More young people are trading in derivatives, and making losses, SEBI study reveals
+SEBI study finds around 89% of traders below 30 were loss-makers in FY26 compared to 81% of participants above 60
+
+## Our country, as China sees it
+Blending geopolitics with lived experience, the book portrays Chinese media and society for Indian readers
+
+## India may link additional diesel supply to progress on Bangladesh projects
+New Delhi weighs Dhaka’s request for more fuel as fate of stalled LoC projects remain uncertain
+
+## Adhere to fundamentals of journalism to regain public trust: N Ram
+Calling for self-regulation in the media organisations, Ram said self-regulatory mechanisms should comprise journalists and respected media personalities, rather than serving editors or proprietors.
+
+## Education ties with Canada entering a new phase
+Deepening collaboration in talent development, applied research and innovation will benefit both nations
+
 ## Agentic AI may make cyberattacks faster, more sophisticated: Securonix CEO
 Organisations worry AI-powered agents acting on behalf of employees could magnify insider threats
 
@@ -47,21 +62,6 @@ Portrait of a king who excelled in the arts, not in war
 
 ## From Diesel to Hydrogen: Concord’s 3,100-HP locomotive takes shape
 The company is attempting to bring together a hydrogen fuel cell, battery, power electronics, control and diagnostic systems, cooling and safety architecture inside an existing locomotive
-
-## Tied by geography and necessity
-The book is a window into Chinese society, humanising it for Indian readers
-
-## Centre gives in-principle nod to lease -out 11 AAI airports in five bundles
-MoCA to conduct ‘market sounding’ before seeking final approval; larger airports to be paired with smaller facilities
-
-## ‘Jodi’ war: Supreme Court urges Matrimony.com and Jodi365 to explore amicable settlement
-Issuing the ruling on August 21, Justices PS Narasimha and Alok Aradhe of the SC described the Madras High Court’s ruling as fair and added that there did not appear to be any need to interfere with it.
-
-## FLY91 to raise ₹150 crore for growth : Chairman Harsha Raghavan
-The airline has sixt ATR-72 aircraft and is in discussions with lessors to add more planes.
-
-## India’s retail F&O losses mirror a global pattern
-SEBI’s review finds widespread losses across derivatives markets, with frequent trading and experience offering no assurance of better outcomes
 
 ## Trump tariffs: What India can learn from Canada’s failed trade talks with US
 Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed.
@@ -87,6 +87,12 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Luxury sales plunge in China as tax push hits rich shoppers
 
 
+## Ajit Doval to visit China for boundary talks ahead of Xi’s India trip
+Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month
+
+## CJP's Saurav Das rejects suggestion on inspecting schools ‘respectfully’: ‘Slow, boring, unconnected from reality'
+The war of words between Mohandas Pai and CJP's Saurav Das began after CJP alleged that the volunteers were attacked in Jaipur on their way to inspect a school.
+
 ## Indira Gandhi's ‘antakshari’ games to Modi's ‘sabudana khichdi’ recipe: Behind PMs' dining tables
 The book documents seven decades of Indian food and culture. It captures how the food culture around the Prime Ministers shifted.
 
@@ -99,17 +105,11 @@ Narayanan highlighted India's growing capabilities in space technology and said 
 ## Deepender Hooda makes U-turn after backlash over Sajjan Kumar 'role model' remark
 Asked by reporters in Gurugram on Sunday whether he had called Sajjan Kumar a role model, Deepender Hooda said, “I did not use the words.”
 
-## Assam cab operators warn of protest as Meghalaya blockade continues despite talks
-The blockade in Assam’s Jorabat started on Friday in protest against alleged attacks on Assam residents and vehicles during violence in Shillong
+## Assam, Meghalaya cab operators agree to truce, resume movement till September 10
+Meghalaya deputy chief minister in-charge of transport Sniawbhalang Dhar said tourist taxi associations agreed to lift their proposed blockade following an emergency meeting
 
 ## Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor
 Sergio Gor claimed that the ministry of external affairs had asked for “no questions” after the meeting between Modi and Trump.
-
-## ‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’
-Navdeep Suri said that after he was told that his documents do not match, he was asked to come again with documents that show that he is an Indian citizen.
-
-## Tripura floods: CM Saha orders relief as heavy rain leaves 974 people homeless
-The Meteorological Department predicted light to moderate rainfall over the state’s districts in the next 24 hours
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions
+Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.
+
 ## PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
 India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
 
@@ -251,9 +254,6 @@ Many local government offices and several vehicles were damaged or destroyed in 
 
 ## AI fraud costing victims millions of dollars
 Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.
-
-## Zelenskyy says wartime elections could ‘destroy’ Ukraine
-The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' that would 'split' the country.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
