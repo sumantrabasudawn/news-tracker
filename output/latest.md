@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Starmer considered letting 100,000 young Europeans come to UK every year
+British officials reveal sweeping Brussels negotiating plan drawn up in former premier’s last days in office
+
+## How worried should the bond market be about US inflation?
+Market Questions is the FT’s guide to the week ahead
+
 ## Healey’s first Budget is a chance for radical change
 Two good reasons why this chancellor has a better chance than I had of boosting public-sector productivity
 
@@ -18,17 +24,14 @@ Scaling back military exercises has undermined faith in America’s reliability
 ## Occidental tries to free itself from the messy legacy of Anadarko deal
 Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition
 
-## Burnham to allow English mayors to ‘call in’ big local planning decisions
-Shake-up is intended to promote growth and take on ‘Nimby’ opposition to projects
-
-## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
-Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
-
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
 
 ## Oil major Eni bets on nuclear fusion becoming its ‘next refinery’
 Italian group widening investments in technology that promises much but is yet to be commercially proven
+
+## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
+Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
 
 ## US buyers snap up Europe’s asset managers at fastest rate in decades
 European fund groups struggle as firms race to bulk up and expand globally
@@ -38,6 +41,18 @@ Latest fundraising values the six-year-old company at about $650mn as it aims to
 
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
+
+## Editorial. Tribunal autonomy
+Tribunal Reforms Bill reinforces executive control
+
+## CBI books former Director of Flying Training Capt Anil Gill on corruption charges
+Gill is alleged to have facilitated procurement of training aircraft at nominal prices through benami/shell entities managed by his close relatives
+
+## The surge in solar cell imports needs to be curbed
+Every imported cell assembled into a module represents demand that could have been met by an Indian cell manufacturer
+
+## India’s Thatcher moments
+At what point do political parties decide to replace their powerful leaders?
 
 ## More young people are trading in derivatives, and making losses, SEBI study reveals
 SEBI study finds around 89% of traders below 30 were loss-makers in FY26 compared to 81% of participants above 60
@@ -51,17 +66,8 @@ New Delhi weighs Dhaka’s request for more fuel as fate of stalled LoC projects
 ## Adhere to fundamentals of journalism to regain public trust: N Ram
 Calling for self-regulation in the media organisations, Ram said self-regulatory mechanisms should comprise journalists and respected media personalities, rather than serving editors or proprietors.
 
-## Education ties with Canada entering a new phase
-Deepening collaboration in talent development, applied research and innovation will benefit both nations
-
-## Agentic AI may make cyberattacks faster, more sophisticated: Securonix CEO
-Organisations worry AI-powered agents acting on behalf of employees could magnify insider threats
-
-## Awadh’s enigmatic ruler
-Portrait of a king who excelled in the arts, not in war
-
-## From Diesel to Hydrogen: Concord’s 3,100-HP locomotive takes shape
-The company is attempting to bring together a hydrogen fuel cell, battery, power electronics, control and diagnostic systems, cooling and safety architecture inside an existing locomotive
+## FPIs turn buyers again: Foreign investors pour Rs 23,544 crore into Indian equities in August
+In August, foreign portfolio investors made a notable comeback to Indian equities, infusing a substantial Rs 23,544 crore. This resurgence follows earlier trends where significant amounts were pulled out. Positive quarterly earnings and a stable rupee have rekindled enthusiasm for Indian stocks. Non
 
 ## Trump tariffs: What India can learn from Canada’s failed trade talks with US
 Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed.
@@ -84,13 +90,22 @@ In a significant turn of events, Canada has halted trade negotiations with the U
 ## 'Masters in our own home': Canada PM Carney explains why trade talks with US were suspended
 Canada has halted trade negotiations with the United States due to perceived inequities in demands, leading to the US imposing hefty tariffs on Canadian exports. In response, Canada has unveiled countermeasures to address these tariffs. Prime Minister Carney criticized the US for its unreasonable re
 
-## Luxury sales plunge in China as tax push hits rich shoppers
+## Stray dog attacks, bites 5-year-old girl in Rajasthan’s Kota; incident caught on cam
+The girl was in a lane outside her house when the dog charged at her, knocking her down and biting her multiple times as she screamed and cried.
 
+## Denied US tour permission, Telangana CM Revanth Reddy to return to Hyderabad
+CM Reddy was scheduled to travel from London to Boston. However, following the denial of permission by the MEA, he said he would board a flight to Hyderabad.
+
+## CPI(M) accuses ED of ‘politically targeting’ Pinarayi Vijayan in money laundering case
+CPI(M) state secretary M V Govindan alleged that the ED was conducting the investigation with an ulterior political motive.
+
+## Maharashtra teen who died over iPhone attempted suicide from same cliff in 2025 too
+Three members of a family died at Khavda Hill in the Tisgaon area after an alleged domestic dispute over an iPhone.
 
 ## Ajit Doval to visit China for boundary talks ahead of Xi’s India trip
 Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month
 
-## CJP's Saurav Das rejects suggestion on inspecting schools ‘respectfully’: ‘Slow, boring, unconnected from reality'
+## CJP's Saurav Das rejects Mohandas Pai's suggestion on inspecting schools: ‘Boring, unconnected from reality'
 The war of words between Mohandas Pai and CJP's Saurav Das began after CJP alleged that the volunteers were attacked in Jaipur on their way to inspect a school.
 
 ## Indira Gandhi's ‘antakshari’ games to Modi's ‘sabudana khichdi’ recipe: Behind PMs' dining tables
@@ -98,18 +113,6 @@ The book documents seven decades of Indian food and culture. It captures how the
 
 ## ‘India will establish its own space station by 2035’: Isro chief V Narayanan
 Narayanan highlighted India's growing capabilities in space technology and said the country is now using space-based applications across more than 50 areas.
-
-## India's first 100% indigenised AK-203 ‘Sher’ rifle made, test-fired at factory in UP's Amethi
-“We have successfully produced and fired the first AK-203 (Sher) rifle made with 100% Indian components and input materials,” IRRPL CEO Major Gen Sharma said.
-
-## Deepender Hooda makes U-turn after backlash over Sajjan Kumar 'role model' remark
-Asked by reporters in Gurugram on Sunday whether he had called Sajjan Kumar a role model, Deepender Hooda said, “I did not use the words.”
-
-## Assam, Meghalaya cab operators agree to truce, resume movement till September 10
-Meghalaya deputy chief minister in-charge of transport Sniawbhalang Dhar said tourist taxi associations agreed to lift their proposed blockade following an emergency meeting
-
-## Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor
-Sergio Gor claimed that the ministry of external affairs had asked for “no questions” after the meeting between Modi and Trump.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -231,6 +234,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Can Nigeria cash in on Iran war?
+Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
+
+## Canada, US and tit-for-tat tariffs: How will they impact their economies?
+Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
+
+## Gaza families search for children missing after years of war
+Families in Gaza continue searching for children and relatives missing in the war.
+
+## Iran government signals fuel price hike on eve of new US sanctions
+Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.
+
 ## Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions
 Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.
 
@@ -242,18 +257,6 @@ Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for I
 
 ## The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
 In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
-
-## Chelsea preview: Five key talking points for 2026-27 Premier League season
-Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?
-
-## Heavy Israeli air strike hits warehouse in central Gaza
-Heavy Israeli air strike hits warehouse in central Gaza
-
-## Dozens of attacks in southern Thailand wound three people
-Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.
-
-## AI fraud costing victims millions of dollars
-Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
