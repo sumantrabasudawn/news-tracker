@@ -87,6 +87,21 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Collections under RBI's dollar swap scheme exceed $72.8 billion
 
 
+## 2 rescued, 22 missing after China-bound iron ore vessel sinks off Odisha coast
+Two of the 24 crew members aboard the ship were rescued from life rafts, while an intensive search is underway for the remaining seafarers,
+
+## ‘Mai yahan ka khiladi hun’: Kiren Rijiju hits back at comparison with Rahul Gandhi over fitness
+Union minister Kiren Rijiju shared a video of himself swimming in gushing waters of Arunachal Pradesh as he went on to explain why it is not an easy task.
+
+## Alwar school principal suspended over video of him bathing with girl students
+Alwar district education officer Manoj Sharma said serious allegations had been levelled against the principal by local residents
+
+## ‘Put Abhijeet Dipke’s photos in office’: Sanjay Raut's dig at Fadnavis over Gen Z outreach
+Sanjay Raut claimed that the BJP leaders should credit Dipke for making them aware of the issues faced by Gen-Z.
+
+## ‘Three claps for marvellous set of Gen Z faces’: CJP's Saurav Das takes swipe at BJP's outreach initiative
+Saurav Das’s reaction comes after BJP on Saturday constituted a dedicated team to spearhead its upcoming Gen Z Outreach Programme.
+
 ## CBI registers case against former DGCA Director Anil Gill and others in corruption case
 The CBI registered a case on August 21 under Sections 11 and 12 of the Prevention of Corruption Act, 1988, as amended in 2018, and Section 120B of the IPC.
 
@@ -95,21 +110,6 @@ Power of democracy gave ordinary person like me chance to become CM: Fadnavis at
 
 ## CM Vijay's govt orders quality checks on alcohol level at all Tamil Nadu distilleries after Enrica liquor ban row
 The move comes amid public concern over the temporary ban on 11 liquor variants produced by Enrica Enterprises and the decision to revoke it within a day.
-
-## Golden opportunity for India in shipbuilding, repairs: Rajnath Singh in Kolkata
-Defence minister Rajnath Singh said India can capitalise on the global shipbuilding gap to become a major hub for shipbuilding, repairs and maritime services.
-
-## ‘If a person doesn’t value you…’: Woman who died in Maharashtra hill tragedy spoke about relationships in last YT video
-Sangita Chandgude died in a freak series of falls after her 19-year-old son jumped from a hilltop, followed by her husband in an attempt to save the teenager.
-
-## Book Box: Honey, Mustard and the Art of getting back to life
-After a health scare, the author finds solace in honey and homemade mustard while reminiscing about food’s cultural significance and her recovery.
-
-## Poonawalla vs Poonawalla: Shehzad takes on brother Tehseen over sugar scam claims, jibes at ‘jannayak’ Rahul Gandhi
-The spat between the brothers began with Tehseen alleging that the ‘sugar scam’ is impacting the citizens as they have to pay higher prices for sugar.
-
-## 28-year-old Punjab man, Gurdeep Singh, shot dead while delivering pizza in New York City
-The deceased, identified as Gurdeep Singh, hails from Jabowal village in Kapurthala district in Punjab.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Explosion injures 13 in Taiwan
+Explosion injures 13 in Taiwan
+
+## Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets
+The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.
+
+## Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol
+'Vinicius is no saint, but what they're doing to him was ​too much,' Mourinho said after Real's first match of La Liga.
+
 ## Syria foreign minister says door open for diplomacy with Israel
 Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.
 
@@ -245,15 +254,6 @@ The priorities are clear: reach every affected area, protect frontline workers, 
 
 ## Israeli air strike near Gaza refugee camp kills one person and injures two
 Israeli air attack near Gaza's Maghazi camp kills one person and injures two others.
-
-## 37 injured as magnitude 5.9 earthquake strikes eastern Japan
-37 injured as magnitude 5.9 earthquake strikes eastern Japan
-
-## Where water conflicts pose the biggest threat in 2026
-Water-related conflicts have nearly quadrupled since 2020. As World Water Week 2026 begins, Al Jazeera unpacks the data.
-
-## Israeli wounded in occupied West Bank stabbing
-Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
