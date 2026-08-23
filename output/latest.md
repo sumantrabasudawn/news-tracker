@@ -30,29 +30,29 @@ Stéphane Boujnah has obsessively chased acquisitions to compete with larger riv
 ## Legal tech start-ups put AI disruption in a risky new wrapper
 Legora is betting AI giants will leave lucrative niches unconquered
 
-## NIA raids 10 places in J-K in cross-border terror conspiracy case
-The raids were carried out in Srinagar, Kupwara, Anantnag, Pulwama and Budgam districts in Jammu and Kashmir
+## Starbucks India back on growth track after biz recalibration to accelerate store expansion
+The company had earlier targeted opening around 100 Starbucks stores annually and sustained that pace for a few years, but moderated expansion over the last 18-24 months
 
-## TNAU forecasts ₹65-70/kg groundnut prices at harvest
-This forecast, crafted from 25 years of market trends, is a heads-up for anyone planning to sow
+## Commerce Secretary's upcoming South America visit to boost India's trade diversification push
+The secretary will chair joint trade meetings in Argentina and Brazil and take stock of the progress of the proposed comprehensive trade agreement with Chile
 
-## TNAU sees ₹75-80/kg cotton price during harvest
-But price fluctuations could happen depending on how the South-West monsoon plays out and the potential effects of El Nino
+## TN orders quality check on alcohol content across all distilleries following Enrica controversy
+Following directives from FSSAI, TASMAC had on August 13 banned the sale of 11 liquor variants produced by 'Enrica Enterprises'
 
-## Political parties unite against bifurcation of Palakkad railway division
-The State government would take up the issue with Prime Minister Narendra Modi, describing the Railway Board’s decision as unilateral and unacceptable
+## Omega Seiki raises ₹100 crore in back-to-back rounds in under a month as IPO plans take shape
+OSM expands manufacturing and evaluates a public listing, which market experts estimate could involve a ₹400–500 crore issue
 
-## India's private credit market set for stronger growth as insolvency reforms reshape lending strategies: Report
-India's private credit market remains relatively small at an estimated $25-30 billion as of March 2025, compared with around $1.4 trillion in the US
+## Pride Hotels steps up expansion, plans ₹1,000-crore IPO by December
+The expansion has taken Pride Hotels' portfolio to 40 properties, including eight owned hotels and 32 managed properties
 
-## Paramount and California to hold preliminary talks on Warner Bros deal
-The talks are preliminary, ‌and ⁠there is no assurance that they ⁠will lead to meaningful negotiations toward a settlement, the report said, adding that ​Paramount requested the ‌meeting
+## MCap of four of top-10 most valued firms erodes ₹87,960 crore; Airtel takes biggest hit
+Last week, the BSE benchmark Sensex declined 468.42 points, or 0.60%, and the NSE Nifty dipped 114 points, or 0.46%
 
-## Home Minister directs agencies to increase footprint in Siliguri corridor
-The Home Minister says that the concerned agencies should establish more of their institutions, keep it free of encroachments, and take all steps to stop illegal immigration in the region
+## M&M to intensify exports with new pickup 'Lifestyler'
+Recently, the company unveiled its pickup 'Mahindra Scorpio Lifestyler' which will hit the market in India in April 2027 and it will be launched as the 'Mahindra Lifestyler' in global markets
 
-## Nvidia customers notified about AI-related price hikes above 15%
-The price hikes ‌will go into effect ‌on ⁠systems shipped early next year ⁠and will impact systems including those with the flagship Vera Rubin and Grace Blackwell ​chips
+## SBI's total business may double to ₹200 lakh cr by 75th foundation year in 2030: Chairman
+Setty said the scale of SBI's operations is closely linked to the performance of the Indian economy
 
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
@@ -78,29 +78,29 @@ Twenty-nine US states are suing Meta, alleging exploitative product design targe
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
-## SC to hear on Aug 24 plea for CBI probe into Jharkhand public service exams 'irregularities'
-SC to hear on Aug 24 plea for CBI probe into Jharkhand public service exams 'irregularities'
+## India’s fertiliser supplies for Rabi season remain on track despite Strait of Hormuz disruptions
+This comes when as fertiliser companies typically lock in imports so that cargoes reach Indian ports in September and October, just ahead of peak Rabi demand.
 
-## ‘Constitutional right, not charity’: Chirag Paswan backs reservation amid Delhi protest, asks for systematic demands
-Chirag Paswan underscored that reservation is not something that can be ended simply because someone demands it, but is a constitutional right.
+## Just Like That: When kings were also scholars
+From Samudragupta to Nehru, India’s history is rich with rulers and statesmen who combined political power with scholarship, philosophy, art and learning.
 
-## 'Misused official position': Odisha cop booked for promising marriage, threatening woman with service pistol
-A case has been filed against the official, who has been identified as Sub Inspector Prabhat Kumar Nayak.
+## NTA: From elixir for all exam ills to everyone's punching bag!
+NTA: From elixir for all exam ills to everyone's punching bag!
 
-## Sikkim bags Award of Excellence at TTF Mumbai for rural, sustainable tourism
-Sikkim bags Award of Excellence at TTF Mumbai for rural, sustainable tourism
+## Ageing Lutyens' Delhi bungalows push upkeep bill for Union ministers' residences to over ₹92 cr
+Ageing Lutyens' Delhi bungalows push upkeep bill for Union ministers' residences to over ₹92 cr
 
-## Wife switched off CCTV, man beaten in front of mother: Chilling details emerge in Delhi techie's death
-The deceased, Vinay Gupta, a resident of Laxmi Park, worked as a software engineer at an MNC in Noida, police said.
+## Haryana Cong leader seeks Deepender’s removal from CWC over Sajjan Kumar praise
+Sharma said Hooda’s comments “re-opened the wounds” of the Sikh community and could hurt the Congress’s prospects in Punjab, where the party faces elections
 
-## Rajasthan government orders new building for Rampura school after CJP visit turns violent
-The Rajasthan government has now ordered the construction of a new building for the school, with work scheduled to begin on September 1.
+## Daughter of NCP (SP) MLA Rohit Pawar's PA found dead in Baramati, probe on
+Police said an investigation was underway and the case was being examined from all angles.
 
-## Bar Council chair rejects plea for resignation; co-chair alleges irregularities
-The co-chair, in a letter dated August 22 addressed to Mishra, demanded the chair's immediate resignation and an independent probe into alleged irregularities.
+## ‘You have shown courage in new sector’: PM Modi lauds space startups during interaction with CEOs
+PM Narendra Modi, who interacted with CEOs and Founders of Space Startups, laid thrust on constituency in policies noting that it gives assurance to risk-takers
 
-## Govt teachers' body opposes notice to official over withdrawn student protest circular
-Govt teachers' body opposes notice to official over withdrawn student protest circular
+## 'Yeh jeevan hai…’: Abhijeet Dipke uses Kishore Kumar song, PM Modi meme in response to FIR in Maharashtra
+Abhijeet Dipke responded to the news on Instagram Stories by sharing the news report along with a meme featuring Prime Minister Narendra Modi.
 
 ## After gaining EV dominance, Chinese carmakers shift goal to take on full-hybrid behemoths
 Chinese carmakers, already at the vanguard of electric vehicle (EV) technology and production, are looking to make a dent in international marques’ full-hybrid vehicle stronghold as they continue to disrupt the global car industry’s pecking order. Major car builders including Geely Auto and Changan 
@@ -222,6 +222,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Infantino defies FIFA vice president, makes appearance in the Caribbean
+FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.
+
+## Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
+The 23-time Grand Slam champion will not be playing singles, but could team up with her older sister Venus for doubles.
+
+## Starc takes 10 as Australia hand Bangladesh innings defeat in second Test
+Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
+
 ## Pegula dethrones Swiatek to book Cincinnati final against Gauff
 The women’s all-American final will be followed by a men's title clash between Frances Tiafoe and Arthur Fils of France.
 
@@ -236,15 +245,6 @@ Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing ba
 
 ## In rural Chad, solar kiosks bring healthcare closer
 Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.
-
-## Chinese robot beats Usain Bolt’s 100m world record at humanoid games
-A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.
-
-## Canada to hit US with retaliatory tariffs as trade war escalates
-Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
-
-## Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
-Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
