@@ -39,29 +39,29 @@ Latest fundraising values the six-year-old company at about $650mn as it aims to
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
-## Centre gives in-principle nod to lease -out 11 AAI airports in five bundles
-MoCA to conduct ‘market sounding’ before seeking final approval; larger airports to be paired with smaller facilities
-
-## FSSAI suspends licence of Marche Retail, restrains SDP Industries from selling ghee
-The licence of Marche Retail was suspended after serious non-compliances were identified during an inspection and subsequent follow-up scrutiny of the food business premises
-
-## From Diesel to Hydrogen: Concord’s 3,100-HP locomotive takes shape
-The company is attempting to bring together a hydrogen fuel cell, battery, power electronics, control and diagnostic systems, cooling and safety architecture inside an existing locomotive
-
-## H1N1 flu continues to spread in India, but no new strain found: ICMR
-No need for panic, but the very young, the old and those with other health problems need to be careful, scientists say
-
-## ‘Jodi’ war: Supreme Court urges Matrimony.com and Jodi365 to explore amicable settlement
-Issuing the ruling on August 21, Justices PS Narasimha and Alok Aradhe of the SC described the Madras High Court’s ruling as fair and added that there did not appear to be any need to interfere with it.
-
 ## FLY91 to raise ₹150 crore for growth : Chairman Harsha Raghavan
 The airline has sixt ATR-72 aircraft and is in discussions with lessors to add more planes.
 
 ## India’s retail F&O losses mirror a global pattern
 SEBI’s review finds widespread losses across derivatives markets, with frequent trading and experience offering no assurance of better outcomes
 
+## Government comes down heavy on Starlink for signing MoUs with States without a licence to operate
+Centre also tells State governments to halt their projects with Starlink till the company gets a green signal
+
 ## SEBI reviewing framework on utilisation of issue proceeds
 Regulator proposes to further clarify the framework on related-party transactions to make it clear and workable
+
+## Govt notifies MMDR Act even as states threaten to move Supreme Court
+The act restricts Sstates’ powers to levy taxes on mineral rights and mineral-bearing lands
+
+## Sun Pharma’s recall of eyedrops: Experts raise concerns on implementation and enforcement
+Udaya Bhaskar, with the All India Drugs Control Officers’ Confederation, points out that ophthalmologists had flagged concerns involving certain eye drops in June
+
+## Spanish fashion brand Mango sees rapid India growth, to focus on new categories, larger stores
+Myntra’s wholesale entity Myntra Jabong India in 2017 had secured the master franchise rights for Mango in India; online and offline channels now contribute equally to the brand’s India business
+
+## Centre gives in-principle nod to lease -out 11 AAI airports in five bundles
+MoCA to conduct ‘market sounding’ before seeking final approval; larger airports to be paired with smaller facilities
 
 ## Trump tariffs: What India can learn from Canada’s failed trade talks with US
 Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed.
@@ -231,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
+India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
+
 ## Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
 Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino's resignation amid FIFA crisis.
 
@@ -251,9 +254,6 @@ Deepfake scams are becoming harder to spot as criminals use AI to impersonate of
 
 ## Zelenskyy says wartime elections could ‘destroy’ Ukraine
 The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' that would 'split' the country.
-
-## DR Congo miners risk Ebola to make a living
-DR Congo miners risk Ebola to make a living
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
