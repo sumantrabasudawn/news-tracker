@@ -6,8 +6,8 @@ Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end
 ## Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says
 Washington’s ambassador to Ankara says attack on air base could have been ‘aggressive . . . pre-election concept’ ahead of October polls
 
-## Mark Carney says Canada is now ‘at war’ with US over trade
-Prime Minister says Donald Trump miscalculated by escalating his tariffs attack on the country
+## Mark Carney says Canada ‘at war’ with US over trade
+Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
 
 ## ‘Appeasement is not a strategy’: how media is fighting back against Trump’s legal threats
 US president juggles multiple cases against news and entertainment groups
@@ -42,6 +42,9 @@ There are sound reasons to rethink how couples approach investing for the future
 ## UK recruiters rebound despite European jobs weakness
 Investors return to Hays, Michael Page and Robert Walters after cost-cutting measures
 
+## A91 Partners set to cash out ₹445 crore from Atomberg ahead of IPO
+The fund, which first backed Atomberg in 2019, has put about ₹143 crore into the company across primary and secondary transactions
+
 ## US bond turmoil signals rising global macro pressures
 As bond yields spike across major markets, valuations will matter even more for equity investors; gold’s relevance is intact
 
@@ -62,9 +65,6 @@ Investors can earn a 60-100 basis point yield pickup by extending maturity from 
 
 ## Equity upside with a safety cushion
 FUND CALL HSBC Equity Savings Fund suits cautious investors seeking lower volatility, tax efficiency and a two-four-year horizon
-
-## Five costly mistakes that traders must avoid in markets
-A recent SEBI study on trading behaviour of individual traders in equity derivative segment reveals that nine out of 10 individual traders continuing to lose money in FY26 too
 
 ## Luxury sales plunge in China as tax push hits rich shoppers
 
@@ -90,29 +90,32 @@ In response to unfair trade terms imposed by the United States, Canada has decid
 ## US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting
 In a groundbreaking move, China has launched an extensive automotive recall, impacting 4.3 million vehicles across multiple manufacturers including Tesla. Safety regulators have raised alarms about the potential difficulty occupants may face in opening doors during emergency situations. Tesla is res
 
+## 'Not expecting neighbours to do only what’s in my interest’: Jaishankar on Bangladesh amid Hasina row
+India has invited Rahman for both a bilateral visit and to attend the upcoming Brics Summit in his capacity as chair of the Bimstec grouping.
+
+## West Bengal CM Suvendu Adhikari sets Vande Mataram mandate to ‘stay in state’
+The remarks came amid tension following repeated clashes between Left-leaning students and RSS-affiliated ABVP activists at Jadavpur University.
+
+## 'Your angry face is their content': Delhi Police told how not to respond to new-gen protesters
+The Delhi Police personnel have been asked not to engage with the protesters or respond to their questions or emotional appeals.
+
+## Leopard burnt alive after getting trapped in farm snare in Karnataka, 3 arrested
+The incident, filmed and shared on WhatsApp, has sparked public outrage. Authorities are investigating further and more arrests may follow.
+
+## Sajjan Kumar row: Punjab Congress distances itself from Hooda’s ‘irreparable loss’ remark
+Protests erupted outside Rahul Gandhi's residence, with Sikh leaders demanding apologies and condemning supportive remarks about Kumar.
+
+## Gangster Goldy Brar admits to killing Khalistani terrorist Nijjar in Canada? What leaked audio reveals
+Hardeep Singh Nijjar's killing led to a major diplomatic row between India and Canada when Justin Trudeau was Canada's prime minister.
+
 ## PM Modi interacts with fresh BJP team amid upcoming polls and ‘Vande Mataram’ row
 Prime Minister Narendra Modi deliberated with the BJP's new leadership after a recent rejig in the party.
 
 ## FIR against Abhijeet Dipke for entering Maharashtra govt school; what are the charges against him
 Dipke and others have been accused of disrupting official work and threatening teachers at ZP Urdu school at Jawali near Ausa, a city in Latur district.
 
-## ‘Vote-bank politics’: What BJP’s new Vande Mataram resolution says about Congress, 6 stanzas
-BJP will undertake a nationwide campaign to spread the history, meaning and national significance of Vande Mataram across the country.
-
-## India’s monsoon weakens, IMD predicts below-normal rain for next two weeks
-Despite some weather systems developing, rainfall is expected to remain below normal across the country in both weeks of the forecast window.
-
-## UP to offer free bus travel to women, one companion for Raksha Bandhan
-UP to offer free bus travel to women, one companion for Raksha Bandhan
-
-## 25-year-old arrested for links with Pakistani gangsters through social media
-Police said that the accused was allegedly in contact with an international anti-social and radicalised individual connected through Instagram.
-
-## ‘iPhone is not your identity’: Shehzad Poonawalla’s advice to youth after Maharashtra teen, family die in hill fall
-His comments came after a 19-year-old boy died along with his parents at Khavdya Dongar in Maharashtra's Chhatrapati Sambhajinagar district on Friday.
-
-## EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’
-Jaishankar added India would factor the pact into its security calculus, adding that actions by countries “not well disposed” towards India would count
+## Exodus from New Territories brownfield relieves pressure on industrial property market
+For years, brownfield sites in Hong Kong’s New Territories have hosted a range of businesses looking for cheap space – from storage depots to recycling centres to scrapyards. Now, the massive Northern Metropolis project is forcing many of these brownfield tenants to relocate, lifting demand for floo
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
@@ -134,9 +137,6 @@ Alibaba Group Holding is expected to further accelerate cloud growth, expand ope
 
 ## Hong Kong stock exchange extends listing application window to 12 months
 The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday. The extension was designed to give listing candidates, their sponsors and advisers more time to complete the
-
-## HKEX gold futures smash delivery record as US sanctions reshape trade
-Hong Kong Exchanges and Clearing (HKEX) has reported record-breaking physical deliveries and a trading surge in its US dollar-denominated gold futures contract, underscoring the city’s ambition to become a global hub for the precious metal amid widening trade restrictions by the United States. The b
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## In rural Chad, solar kiosks bring healthcare closer
+Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.
+
+## Chinese robot beats Usain Bolt’s 100m world record at humanoid games
+A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.
+
+## Canada to hit US with retaliatory tariffs as trade war escalates
+Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
+
 ## Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
 Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
 
@@ -248,15 +257,6 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 ## Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
 For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.
-
-## Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
-Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.
-
-## Open-air cinema brings movie nights back to Khartoum
-Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.
-
-## Israeli army and settlers injure several Palestinians across West Bank
-Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
