@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
+Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
+
+## Yahoo, the internet’s ‘OG’, wants to win over Gen Z
+Group’s chief says vintage web name can help draw younger users
+
+## Why every French politician is now a Gaullist
+The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy
+
+## Trump accused of risking more pain for Americans with Canada trade war
+Collapse of talks threatens to raise prices even higher months before midterm election
+
+## A week of keynote speeches
+Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talks monetary policy at Jackson Hole and investors await Nvidia earnings call
+
 ## Starmer considered letting 100,000 young Europeans come to UK every year
 British officials reveal sweeping Brussels negotiating plan drawn up in former premier’s last days in office
 
@@ -9,23 +24,14 @@ Market Questions is the FT’s guide to the week ahead
 ## Healey’s first Budget is a chance for radical change
 Two good reasons why this chancellor has a better chance than I had of boosting public-sector productivity
 
-## Mark Carney says Canada ‘at war’ with US over trade
-Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
-
-## Zelenskyy rejects election call from fired defence minister
-President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority
+## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
+Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
 
 ## Government can bring robotics to life
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-## Trump’s South Korea snub raises questions in the Asia-Pacific
-Scaling back military exercises has undermined faith in America’s reliability
-
 ## Occidental tries to free itself from the messy legacy of Anadarko deal
 Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition
-
-## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
-Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
 
 ## Oil major Eni bets on nuclear fusion becoming its ‘next refinery’
 Italian group widening investments in technology that promises much but is yet to be commercially proven
@@ -234,7 +240,16 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Landfill collapse in Guinea kills at least 22 people
+## Tunisia sees protests after migrant boat sinking kills eight
+A migrant boat carrying 15 Tunisians sank off the country's southeastern coast while heading to Italy, killing eight.
+
+## Thousands displaced as wildfire threatens homes in US state of Nevada
+A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations.
+
+## Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms
+House Speaker Mike Johnson, a Trump ally, admits it 'would be helpful' if conflict ends before elections in November.
+
+## Landfill collapse in Guinea kills at least 30 people
 Heavy rains wash over the site, triggering a landslide that buries several shacks.
 
 ## Photos: Ukraine celebrates National Flag Day
@@ -248,15 +263,6 @@ Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macro
 
 ## Can Nigeria cash in on Iran war?
 Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
-
-## Canada, US and tit-for-tat tariffs: How will they impact their economies?
-Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
-
-## Gaza families search for children missing after years of war
-Families in Gaza continue searching for children and relatives missing in the war.
-
-## Iran’s government signals fuel price hike on eve of new US sanctions
-Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
