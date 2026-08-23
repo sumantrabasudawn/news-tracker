@@ -42,6 +42,15 @@ Latest fundraising values the six-year-old company at about $650mn as it aims to
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
+## SEBI may assess NSE liquidity before allowing bourse to trade its own shares
+The move could allow the NSE to trade its shares on its own platform without listing there itself
+
+## Uttar Pradesh tops in mopping up through taxes
+All the 10 States have shown collection from GST increasing despite rate rationalization and doing away with compensation
+
+## Small-cap fund stress at 2-year low as liquidity improves
+Small-cap winners shrink: Just 37% beat the index in an eight-year low
+
 ## Below the Line
 
 
@@ -56,15 +65,6 @@ Every imported cell assembled into a module represents demand that could have be
 
 ## India’s Thatcher moments
 At what point do political parties decide to replace their powerful leaders?
-
-## More young people are trading in derivatives, and making losses, SEBI study reveals
-SEBI study finds around 89% of traders below 30 were loss-makers in FY26 compared to 81% of participants above 60
-
-## Our country, as China sees it
-Blending geopolitics with lived experience, the book portrays Chinese media and society for Indian readers
-
-## India may link additional diesel supply to progress on Bangladesh projects
-New Delhi weighs Dhaka’s request for more fuel as fate of stalled LoC projects remain uncertain
 
 ## India’s derivatives market gets a Gen Z makeover, but losses pile up: Sebi
 Recent trends indicate that traders aged under thirty now make up an impressive forty-three percent of all participants in the derivatives sector. Interestingly, individuals earning less than five lakh rupees a year are leading the market's activities. Moreover, there has been a notable rise in inve
@@ -90,6 +90,9 @@ Gold and silver prices are poised for further gains next week. Investors await c
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
 
+## Operation Sindoor, Wagah-Attari shut: How 150 Pakistani-Sindhi brides reached India amid strained ties
+The tensions between India and Pakistan following Operation Sindoor had reportedly put the weddings of at least 150 Pakistani women on hold.
+
 ## Several detained after 300 people gathered at Delhi's Connaught Place to protest reservation
 Over 20 people, who had gathered for the stir at Connaught Place, were detained and removed because no permission had been granted for the agitation.
 
@@ -110,9 +113,6 @@ Doval’s visit assumes greater significance as it comes ahead of Chinese Presid
 
 ## CJP's Saurav Das rejects Mohandas Pai's suggestion on inspecting schools: ‘Boring, unconnected from reality'
 The war of words between Mohandas Pai and CJP's Saurav Das began after CJP alleged that the volunteers were attacked in Jaipur on their way to inspect a school.
-
-## Indira Gandhi's ‘antakshari’ games to Modi's ‘sabudana khichdi’ recipe: Behind PMs' dining tables
-The book documents seven decades of Indian food and culture. It captures how the food culture around the Prime Ministers shifted.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## LIVE: Elche vs Barcelona – La Liga
+Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.
+
 ## French President Macron to host Saudi Crown Prince MBS in Paris for talks
 Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman's discussions.
 
@@ -254,9 +257,6 @@ Iranian President Masoud Pezeshkian says Iran has stood firm despite what he cal
 
 ## PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
 India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
-
-## Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
-Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino's resignation amid FIFA crisis.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
