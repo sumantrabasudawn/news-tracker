@@ -24,14 +24,20 @@ Some are hopeful upgraded tracks will preserve steam engine rides, but others fe
 ## Investors try to catch ‘falling knife’ with bets on risky funds during chip rout
 Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off
 
+## UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility
+Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack
+
+## Alibaba announces $10.2bn share placement as Chinese companies expand AI investment
+Equity issuance follows a strong reception for its latest Qwen 3.8-Max model
+
 ## ‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets
 Stéphane Boujnah has obsessively chased acquisitions to compete with larger rivals
 
-## Legal tech start-ups put AI disruption in a risky new wrapper
-Legora is betting AI giants will leave lucrative niches unconquered
+## Elusive alpha?
+A skilled portfolio manager can experience bad luck, which could be a reason for the difficulty in generating alpha consistently
 
-## ‘Juggernaut’ BT’s decade-long turnaround hits crunch time
-Investors still waiting for the ‘show me the money’ moment
+## Govt notifies MMDR Act even as states threaten to move Supreme Court
+The act restricts states’ powers to levy taxes on mineral rights and mineral-bearing lands
 
 ## IIFCL initiates $1.8-billion ECB fundraising programme
 As part of the programme, IIFCL is envisaging raising about $1 billion through long-term ECBs, with tenors of up to 15 years, under the MIGA Guarantee Facility, in multiple tranches
@@ -50,12 +56,6 @@ This growth would come from tonnage, he said, adding that the gold loan segment 
 
 ## Indian Bank sanctions ₹1,125 crore worth Retail, Agri and MSME credit in a drive
 The campaign received an overwhelming response, with credit proposals mobilised amounting to ₹2,080 crore, of which ₹1,125 crore was sanctioned and ₹575 crore disbursed, the bank said in a statement
-
-## Defence ministry backs major shipbuilding, manufacturing expansion in West Bengal
-The move aims to boost domestic production under the Make in India initiative and enhance the operational infrastructure required by maritime forces and key strategic sectors
-
-## Stagger your bonds and steady your cash flow
-You don’t have to take the pain of predicting interest rates — staggering bond maturities can spread risk and create future cash flows, giving opportunities to reinvest as interest rates change
 
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
@@ -81,6 +81,12 @@ Twenty-nine US states are suing Meta, alleging exploitative product design targe
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
+## Tezpur University teachers' body questions silence of Edu Min after submission of probe report
+Tezpur University teachers' body questions silence of Edu Min after submission of probe report
+
+## Defence ministry officer found dead in Dwarka home; family alleges harassment by in-laws: Cop
+Further investigation into the matter is in progress, and appropriate action will be taken on the basis of the evidence
+
 ## Telangana calls for private parties to step in to revive 11 historic forts under PPP model
 The forts identified for development are Bhongir, Devarakonda, Rachakonda, Medak, Khammam, Kaulas, Zaffergadh, Elgandal, Ramagiri, Utnoor and Sarvai Papanna.
 
@@ -98,12 +104,6 @@ Sitharaman, Goyal and commerce secretary to visit six key economies as India pus
 
 ## Rains trigger landslides across Uttarakhand, over 80 roads blocked
 The Mussoorie-Dehradun road was closed for about an hour. Commuters travelling towards Uttarkashi via Suwakholi were also stranded.
-
-## 'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat'
-The online outfit-turned-pressure group has accused the Centre of betraying the youth of the country and breaking their trust.
-
-## Delhi: 3 cops injured in Mukundpur attack; hit with bricks, chilli powder
-Police have apprehended a 17-year-old juvenile in connection with the incident, while a hunt is underway for the main accused and others involved.
 
 ## ‘Huge influx’: expat retirees projected to drive Hong Kong’s premium home demand
 Hong Kong is tipped to see more luxury home sales with expatriates increasingly choosing the city as their retirement base, drawn to its low-tax environment as well as business opportunities, according to analysts. “A huge influx of expats who used to live in Hong Kong are moving back with a long-te
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## 37 injured as magnitude 5.9 earthquake strikes eastern Japan
+37 injured as magnitude 5.9 earthquake strikes eastern Japan
+
+## Where water conflicts pose the biggest threat in 2026
+Water-related conflicts have nearly quadrupled since 2020. As World Water Week 2026 begins, Al Jazeera unpacks the data.
+
 ## Israeli wounded in occupied West Bank stabbing
 Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.
 
@@ -242,12 +248,6 @@ Only state-approved parties loyal to President Tokayev permitted to take part am
 
 ## Infantino defies FIFA vice president, makes appearance in the Caribbean
 FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.
-
-## Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
-The 23-time Grand Slam champion will not be playing singles, but could team up with her older sister Venus for doubles.
-
-## Starc takes 10 as Australia hand Bangladesh innings defeat in second Test
-Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
