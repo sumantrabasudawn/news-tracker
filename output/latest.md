@@ -30,6 +30,18 @@ Stéphane Boujnah has obsessively chased acquisitions to compete with larger riv
 ## Legal tech start-ups put AI disruption in a risky new wrapper
 Legora is betting AI giants will leave lucrative niches unconquered
 
+## NIA raids 10 places in J-K in cross-border terror conspiracy case
+The raids were carried out in Srinagar, Kupwara, Anantnag, Pulwama and Budgam districts in Jammu and Kashmir
+
+## TNAU forecasts ₹65-70/kg groundnut prices at harvest
+This forecast, crafted from 25 years of market trends, is a heads-up for anyone planning to sow
+
+## TNAU sees ₹75-80/kg cotton price during harvest
+But price fluctuations could happen depending on how the South-West monsoon plays out and the potential effects of El Nino
+
+## Political parties unite against bifurcation of Palakkad railway division
+The State government would take up the issue with Prime Minister Narendra Modi, describing the Railway Board’s decision as unilateral and unacceptable
+
 ## India's private credit market set for stronger growth as insolvency reforms reshape lending strategies: Report
 India's private credit market remains relatively small at an estimated $25-30 billion as of March 2025, compared with around $1.4 trillion in the US
 
@@ -41,18 +53,6 @@ The Home Minister says that the concerned agencies should establish more of thei
 
 ## Nvidia customers notified about AI-related price hikes above 15%
 The price hikes ‌will go into effect ‌on ⁠systems shipped early next year ⁠and will impact systems including those with the flagship Vera Rubin and Grace Blackwell ​chips
-
-## Panama-flagged cargo ship sinks in Bay of Bengal, rescue ops on
-The ship, with 24 crew members on board, was heading towards Singapore carrying iron ore from Odisha
-
-## CIAL, SpiceJet trade charges over weather-related flight disruption in Kochi
-CIAL said there were no adverse weather conditions in Kochi warranting the disruption cited by the airline
-
-## TN govt seeks explanation from officials who issued circulars banning students' protests
-Sources said Commissioner of Collegiate Education P Ponniah issued a notice directing Selvi to submit her formal reply within one week, clarifying the circumstances under which the communication was drafted and dispatched to state-run institutions
-
-## Canada-India education ties entering a new era
-Deepening collaboration in talent development, applied research and innovation will benefit both nations
 
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
@@ -78,6 +78,15 @@ Twenty-nine US states are suing Meta, alleging exploitative product design targe
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
+## SC to hear on Aug 24 plea for CBI probe into Jharkhand public service exams 'irregularities'
+SC to hear on Aug 24 plea for CBI probe into Jharkhand public service exams 'irregularities'
+
+## ‘Constitutional right, not charity’: Chirag Paswan backs reservation amid Delhi protest, asks for systematic demands
+Chirag Paswan underscored that reservation is not something that can be ended simply because someone demands it, but is a constitutional right.
+
+## 'Misused official position': Odisha cop booked for promising marriage, threatening woman with service pistol
+A case has been filed against the official, who has been identified as Sub Inspector Prabhat Kumar Nayak.
+
 ## Sikkim bags Award of Excellence at TTF Mumbai for rural, sustainable tourism
 Sikkim bags Award of Excellence at TTF Mumbai for rural, sustainable tourism
 
@@ -93,14 +102,8 @@ The co-chair, in a letter dated August 22 addressed to Mishra, demanded the chai
 ## Govt teachers' body opposes notice to official over withdrawn student protest circular
 Govt teachers' body opposes notice to official over withdrawn student protest circular
 
-## TMC rebels await official status after breaking off from Mamata Banerjee's leadership
-The two factions are the Ritabrata Banerjee-led 62 legislators in the West Bengal assembly and 20 MPs under the leadership of Sudip Bandyopadhyay in Lok Sabha.
-
-## Rahul Gandhi calls for ‘end to patriarchy’ at Pune event after PM Modi’s ‘cultural shock’ remark
-Rahul Gandhi also targeted PM Narendra Modi and played a video of him referring to abusive language used by girls during the agitation at Jantar Mantar.
-
-## Endoscopic camera, ₹11,000 deal: How a professor leaked exam paper in Chhattisgarh, students among 6 held
-The professor reportedly used an endoscopic camera to capture the paper, selling it to students prior to the exam, leading to the paper's cancellation.
+## After gaining EV dominance, Chinese carmakers shift goal to take on full-hybrid behemoths
+Chinese carmakers, already at the vanguard of electric vehicle (EV) technology and production, are looking to make a dent in international marques’ full-hybrid vehicle stronghold as they continue to disrupt the global car industry’s pecking order. Major car builders including Geely Auto and Changan 
 
 ## Exodus from New Territories brownfield relieves pressure on industrial property market
 For years, brownfield sites in Hong Kong’s New Territories have hosted a range of businesses looking for cheap space – from storage depots to recycling centres to scrapyards. Now, the massive Northern Metropolis project is forcing many of these brownfield tenants to relocate, lifting demand for floo
@@ -122,9 +125,6 @@ Ping An Insurance (Group), China’s largest insurer in terms of market capitali
 
 ## Alibaba signals faster AI payoff, margin gains halfway through US$56 billion capex plan
 Alibaba Group Holding is expected to further accelerate cloud growth, expand operating margins and achieve faster payback on artificial intelligence investments, analysts say, as the Chinese tech giant reaches the halfway mark of its massive 380 billion yuan (US$56 billion) AI infrastructure spendin
-
-## Hong Kong stock exchange extends listing application window to 12 months
-The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday. The extension was designed to give listing candidates, their sponsors and advisers more time to complete the
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -222,6 +222,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Pegula dethrones Swiatek to book Cincinnati final against Gauff
+The women’s all-American final will be followed by a men's title clash between Frances Tiafoe and Arthur Fils of France.
+
+## Kazakhstan parliamentary elections begin: What’s at stake?
+The Central Asian country heads to the polls on August 23.
+
 ## Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
 Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.
 
@@ -239,12 +245,6 @@ Mark Carney says Canada will impose tariffs starting September 8 on imports of U
 
 ## Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
 Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
-
-## Iran war live: Tehran warns neighbours against joining US economic war
-Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.
-
-## Iran threatens countries that join US ‘economic D-Day’
-Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
