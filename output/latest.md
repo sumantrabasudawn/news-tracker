@@ -36,29 +36,29 @@ Latest fundraising values the six-year-old company at about $650mn as it aims to
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
+## Spanish fashion brand Mango sees rapid India growth, to focus on new categories, larger stores
+Myntra’s wholesale entity Myntra Jabong India in 2017 had secured the master franchise rights for Mango in India; online and offline channels now contribute equally to the brand’s India business
+
+## 15,000 professionals get BITS Pilani degrees
+Graduating cohort includes 2,000 women professionals, 167 medical doctors
+
+## Govt notifies MMDR Act even as states threaten to move Supreme Court
+The act restricts Sstates’ powers to levy taxes on mineral rights and mineral-bearing lands
+
+## Are rising sugar prices connected to ethanol production? Experts say not really
+Decline in sugarcane production, stockpiling driving up sugar price, say experts
+
 ## SEBI reviewing framework on utilisation of issue proceeds
 Regulator proposes to further clarify the framework on related-party transactions to make it clear and workable.
 
 ## Uttar Pradesh tops in mopping up through taxes
 All the 10 States have shown collection from GST increasing despite rate rationalization and doing away with compensation
 
-## Spanish fashion brand Mango sees rapid India growth, set to expand
-Myntra’s wholesale entity Myntra Jabong India in 2017 had secured the master franchise rights for Mango in India; online and offline channels now contribute equally to the brand’s India business
-
 ## From Diesel to Hydrogen: Concord’s 3,100-HP locomotive takes shape
 The company is attempting to bring together a hydrogen fuel cell, battery, power electronics, control and diagnostic systems, cooling and safety architecture inside an existing locomotive
 
 ## Gold, silver prices to rally this week: Here’s what analysts say
 US inflation data, Fed signals, West Asia geopolitics to be in focus
-
-## Piyush Goyal to lead largest business delegation to Japan from India
-In Tokyo, Goyal will hold a series of meetings with top executives of major Japanese industrial conglomerates
-
-## Andhra Pradesh weather alert: Heavy rain, winds forecast for northern Andhra
-Low-pressure area develops over Bay of Bengal; coastal population urged to exercise caution
-
-## Elusive alpha?
-A skilled portfolio manager can experience bad luck, which could be a reason for the difficulty in generating alpha consistently
 
 ## Market recap: Rs 87,960 crore wiped off four top-10 firms; Airtel bears biggest loss
 Dalal Street faced a setback last week, closing lower with four prominent companies witnessing significant depreciation in market value. Notably, Bharti Airtel and TCS experienced the steepest declines, which affected overall market confidence. The benchmark indices, Sensex and Nifty, reflected this
@@ -84,6 +84,18 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Collections under RBI's dollar swap scheme exceed $72.8 billion
 
 
+## KPSC 'scam' case ED raids IAS officer Gangwar's premises in Karnataka, UP
+Gangwar is a 2016-batch Indian Administrative Service (IAS) officer and is currently posted as Director-MSME.
+
+## Ramdev says ‘don’t want to escalate’ war of words with Kangana Ranaut after ‘Gen Z, jawani' remarks row
+When Ramdev was asked about Kangana Ranaut's remarks, he questioned her education and past, while criticising her description of the younger generation.
+
+## 3 dead, 21 injured as pickup vehicle crashes into pole in Karnataka: Police
+Police registered a case at the Bhimarayanagudi police station, under section 106(1) of the Bharatiya Nyaya Sanhita
+
+## Delhi's Marche Retail faces FSSAI action; license suspended over hygiene, training lapses
+FSSAI said Marche Retail was found operating with deficiencies relating to design, operational controls, sanitation, personal hygiene, etc
+
 ## 3 FIRs filed against 28 named, 900 unnamed people over police-students clash in Jharkhand
 FIRs were registered at Ranchi's Kotwali police station against 14 named and 200 unidentified people for obstructing government work and clashing with police.
 
@@ -95,18 +107,6 @@ She was staying at a paying guest accommodation in HSR Layout's Sector-1 and wor
 
 ## 2 rescued, 22 missing after China-bound iron ore vessel sinks off Odisha coast
 Two of the 24 crew members aboard the ship were rescued from life rafts, while an intensive search is underway for the remaining seafarers,
-
-## ‘Mai yahan ka khiladi hun’: Kiren Rijiju hits back at comparison with Rahul Gandhi over fitness
-Union minister Kiren Rijiju shared a video of himself swimming in gushing waters of Arunachal Pradesh as he went on to explain why it is not an easy task.
-
-## Alwar school principal suspended over video of him bathing with girl students
-Alwar district education officer Manoj Sharma said serious allegations had been levelled against the principal by local residents
-
-## ‘Put Abhijeet Dipke’s photos in office’: Sanjay Raut's dig at Fadnavis over Gen Z outreach
-Sanjay Raut claimed that the BJP leaders should credit Dipke for making them aware of the issues faced by Gen-Z.
-
-## ‘Three claps for marvellous set of Gen Z faces’: CJP's Saurav Das takes swipe at BJP's youth outreach initiative
-Saurav Das’s reaction comes after BJP on Saturday constituted a dedicated team to spearhead its upcoming Gen Z Outreach Programme.
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Heavy Israeli air strike hits warehouse in central Gaza
+Heavy Israeli air strike hits warehouse in central Gaza
+
+## Dozens of attacks in southern Thailand wound three people
+Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.
+
+## AI fraud costing victims millions of dollars
+Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.
+
+## Zelenskyy says wartime elections could ‘destroy’ Ukraine
+The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' that would 'split' the country.
+
+## DR Congo miners risk Ebola to make a living
+DR Congo miners risk Ebola to make a living
+
+## Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win
+Real Madrid coach Jose Mourinho has criticised the bullying of Vinicius Junior by opponents and fans.
+
 ## US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance
 El-Sayed has hit back at JD Vance, saying his identity and religion aren’t causing the Trump administration’s problems.
 
 ## Can Iran retaliate against countries that join US ‘economic war’?
-Iran's security chief has warned of retaliation against countries joining US ‘economic war'.
-
-## Sydney Marathon organisers not running away from ‘unfortunate’ medal error
-The medal features the Allianz Arena in Munich, instead of Sydney's Allianz Stadium, as one of the city's landmarks.
-
-## Explosion injures 13 in Taiwan
-Explosion injures 13 in Taiwan
-
-## Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets
-The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.
-
-## Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol
-'Vinicius is no saint, but what they're doing to him was ​too much,' Mourinho said after Real's first match of La Liga.
-
-## Syria’s foreign minister says door open for diplomacy with Israel
-Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.
-
-## Far-right provocateur Jake Lang arrested after Minneapolis riot
-Far-right influencer Jake Lang was arrested after clashes erupted at his rally outside Minneapolis City Hall.
+Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
