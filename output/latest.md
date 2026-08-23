@@ -33,6 +33,18 @@ Legora is betting AI giants will leave lucrative niches unconquered
 ## ‘Juggernaut’ BT’s decade-long turnaround hits crunch time
 Investors still waiting for the ‘show me the money’ moment
 
+## Indian Bank sanctions ₹1,125 crore worth Retail, Agri and MSME credit in a drive
+The campaign received an overwhelming response, with credit proposals mobilised amounting to ₹2,080 crore, of which ₹1,125 crore was sanctioned and ₹575 crore disbursed, the bank said in a statement
+
+## Defence ministry backs major shipbuilding, manufacturing expansion in West Bengal
+The move aims to boost domestic production under the Make in India initiative and enhance the operational infrastructure required by maritime forces and key strategic sectors
+
+## Stagger your bonds and steady your cash flow
+You don’t have to take the pain of predicting interest rates — staggering bond maturities can spread risk and create future cash flows, giving opportunities to reinvest as interest rates change
+
+## Return of mega container ships to the Suez Canal emerges as a positive to Indian exporters
+The Suez Canal, on Saturday, witnessed the transit of Bangkok Maersk with carrying capacity of 17,200 TEUs, on its voyage from Italy to Singapore
+
 ## Top FMCG firms reshuffle leadership as industry navigates growth challenges
 Companies are also contending with elevated input costs driven by geopolitical uncertainties and supply-chain disruptions, even as investors increasingly focus on sustainable growth and margin expansion
 
@@ -44,18 +56,6 @@ The inflow comes after FPIs invested ₹20,200 crore in July, marking a sharp tu
 
 ## Starbucks India back on growth track after biz recalibration to accelerate store expansion
 The company had earlier targeted opening around 100 Starbucks stores annually and sustained that pace for a few years, but moderated expansion over the last 18-24 months
-
-## Commerce Secretary's upcoming South America visit to boost India's trade diversification push
-The secretary will chair joint trade meetings in Argentina and Brazil and take stock of the progress of the proposed comprehensive trade agreement with Chile
-
-## TN orders quality check on alcohol content across all distilleries following Enrica controversy
-Following directives from FSSAI, TASMAC had on August 13 banned the sale of 11 liquor variants produced by 'Enrica Enterprises'
-
-## Omega Seiki raises ₹100 crore in back-to-back rounds in under a month as IPO plans take shape
-OSM expands manufacturing and evaluates a public listing, which market experts estimate could involve a ₹400–500 crore issue
-
-## Pride Hotels steps up expansion, plans ₹1,000-crore IPO by December
-The expansion has taken Pride Hotels' portfolio to 40 properties, including eight owned hotels and 32 managed properties
 
 ## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
 In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
@@ -81,6 +81,18 @@ Twenty-nine US states are suing Meta, alleging exploitative product design targe
 ## US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response
 Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Cana
 
+## 2 rescued, search on for 22 after Panama-flagged cargo ship sinks in Bay of Bengal | latest updates
+The crew comprised 20 Chinese nationals, three Myanmarese and one Bangladeshi, officials said.
+
+## DMK calls for overhaul after poll setback: Age caps, 2-term limit, 110 organisational districts
+The DMK plans a major organizational overhaul following its setback in the April 2026 elections. New rules include age caps and term limits for posts.
+
+## Nation-wide anti-narcotics fortnightly drives to begin from September
+Nation-wide anti-narcotics fortnightly drives to begin from September
+
+## Manipur: Kuki-Zo Council opposes NRC before Census, calls demand ‘premature’
+Manipur’s Kuki-Zo Council opposes demands for NRC before Census, saying demographic data should first be established through an impartial Census.
+
 ## Indian Railways operate first ever double-stack long-haul container train I WATCH
 This achievement unlocks long-term benefits in the form of higher returns from a single train journey, transport efficiency and reduced traffic load on roads.
 
@@ -92,18 +104,6 @@ The Bhavnagar spurious liquor death toll has risen to 13, with 61 people affecte
 
 ## India’s fertiliser supplies for Rabi season remain on track despite Strait of Hormuz disruptions
 This comes at a time when fertiliser companies typically lock in imports so that cargoes reach Indian ports in Sept and October, just ahead of peak Rabi demand.
-
-## Just Like That: When kings were also scholars
-From Samudragupta to Nehru, India’s history is rich with rulers and statesmen who combined political power with scholarship, philosophy, art and learning.
-
-## NTA: From elixir for all exam ills to everyone's punching bag!
-NTA: From elixir for all exam ills to everyone's punching bag!
-
-## Ageing Lutyens' Delhi bungalows push upkeep bill for Union ministers' residences to over ₹92 cr
-Ageing Lutyens' Delhi bungalows push upkeep bill for Union ministers' residences to over ₹92 cr
-
-## Haryana Cong leader seeks Deepender’s removal from CWC over Sajjan Kumar praise
-Sharma said Hooda’s comments “re-opened the wounds” of the Sikh community and could hurt the Congress’s prospects in Punjab, where the party faces elections
 
 ## ‘Huge influx’: expat retirees projected to drive Hong Kong’s premium home demand
 Hong Kong is tipped to see more luxury home sales with expatriates increasingly choosing the city as their retirement base, drawn to its low-tax environment as well as business opportunities, according to analysts. “A huge influx of expats who used to live in Hong Kong are moving back with a long-te
@@ -225,8 +225,17 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli wounded in occupied West Bank stabbing
+Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.
+
+## Flooding across Caracas, Venezuela, after heavy rains
+Flooding across Caracas, Venezuela, after heavy rains
+
+## Photos: Russia celebrates National Flag Day amid war and tensions with the West
+Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.
+
 ## DR Congo, M23 rebels agree on roadmap for peace talks
-Roadmap follows a week of talks in Switzerland aimed at making progress on a framework agreement they signed last year.
+Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.
 
 ## Kazakhstan holds parliamentary election expected to cement president’s grip
 Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.
@@ -239,15 +248,6 @@ The 23-time Grand Slam champion will not be playing singles, but could team up w
 
 ## Starc takes 10 as Australia hand Bangladesh innings defeat in second Test
 Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
-
-## Pegula dethrones Swiatek to book Cincinnati final against Gauff
-The women’s all-American final will be followed by a men's title clash between Frances Tiafoe and Arthur Fils of France.
-
-## Kazakhstan parliamentary elections begin: What’s at stake?
-The Central Asian country heads to the polls on August 23.
-
-## Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
-Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
