@@ -36,29 +36,29 @@ Latest fundraising values the six-year-old company at about $650mn as it aims to
 ## India’s reliance on Russian oil hits all-time high
 Middle East conflict exposes New Delhi’s energy security vulnerabilities
 
-## Spanish fashion brand Mango sees rapid India growth, to focus on new categories, larger stores
-Myntra’s wholesale entity Myntra Jabong India in 2017 had secured the master franchise rights for Mango in India; online and offline channels now contribute equally to the brand’s India business
-
-## 15,000 professionals get BITS Pilani degrees
-Graduating cohort includes 2,000 women professionals, 167 medical doctors
-
-## Govt notifies MMDR Act even as states threaten to move Supreme Court
-The act restricts Sstates’ powers to levy taxes on mineral rights and mineral-bearing lands
-
-## Are rising sugar prices connected to ethanol production? Experts say not really
-Decline in sugarcane production, stockpiling driving up sugar price, say experts
-
-## SEBI reviewing framework on utilisation of issue proceeds
-Regulator proposes to further clarify the framework on related-party transactions to make it clear and workable.
-
-## Uttar Pradesh tops in mopping up through taxes
-All the 10 States have shown collection from GST increasing despite rate rationalization and doing away with compensation
+## FSSAI suspends licence of Marche Retail, restrains SDP Industries from selling ghee
+The licence of Marche Retail was suspended after serious non-compliances were identified during an inspection and subsequent follow-up scrutiny of the food business premises
 
 ## From Diesel to Hydrogen: Concord’s 3,100-HP locomotive takes shape
 The company is attempting to bring together a hydrogen fuel cell, battery, power electronics, control and diagnostic systems, cooling and safety architecture inside an existing locomotive
 
-## Gold, silver prices to rally this week: Here’s what analysts say
-US inflation data, Fed signals, West Asia geopolitics to be in focus
+## H1N1 flu continues to spread in India, but no new strain found: ICMR
+No need for panic, but the very young, the old and those with other health problems need to be careful, scientists say
+
+## ‘Jodi’ war: Supreme Court urges Matrimony.com and Jodi365 to explore amicable settlement
+Issuing the ruling on August 21, Justices PS Narasimha and Alok Aradhe of the SC described the Madras High Court’s ruling as fair and added that there did not appear to be any need to interfere with it.
+
+## FLY91 to raise ₹150 crore for growth : Chairman Harsha Raghavan
+The airline has sixt ATR-72 aircraft and is in discussions with lessors to add more planes.
+
+## India’s retail F&O losses mirror a global pattern
+SEBI’s review finds widespread losses across derivatives markets, with frequent trading and experience offering no assurance of better outcomes
+
+## SEBI reviewing framework on utilisation of issue proceeds
+Regulator proposes to further clarify the framework on related-party transactions to make it clear and workable
+
+## Spanish fashion brand Mango sees rapid India growth, to focus on new categories, larger stores
+Myntra’s wholesale entity Myntra Jabong India in 2017 had secured the master franchise rights for Mango in India; online and offline channels now contribute equally to the brand’s India business
 
 ## Market recap: Rs 87,960 crore wiped off four top-10 firms; Airtel bears biggest loss
 Dalal Street faced a setback last week, closing lower with four prominent companies witnessing significant depreciation in market value. Notably, Bharti Airtel and TCS experienced the steepest declines, which affected overall market confidence. The benchmark indices, Sensex and Nifty, reflected this
@@ -84,6 +84,9 @@ Canada has halted trade negotiations with the United States due to perceived ine
 ## Collections under RBI's dollar swap scheme exceed $72.8 billion
 
 
+## Tripura floods: CM Saha orders relief as heavy rain leaves 974 people homeless
+The Meteorological Department predicted light to moderate rainfall over the state’s districts in the next 24 hours
+
 ## KPSC 'scam' case ED raids IAS officer Gangwar's premises in Karnataka, UP
 Gangwar is a 2016-batch Indian Administrative Service (IAS) officer and is currently posted as Director-MSME.
 
@@ -104,9 +107,6 @@ ICMR officials said no new H1N1 strain is circulating in India and the current v
 
 ## Bengaluru woman dies by suicide after ‘ex-classmate’ blackmails, harasses her
 She was staying at a paying guest accommodation in HSR Layout's Sector-1 and worked in the sales department of a jewellery store in the area.
-
-## 2 rescued, 22 missing after China-bound iron ore vessel sinks off Odisha coast
-Two of the 24 crew members aboard the ship were rescued from life rafts, while an intensive search is underway for the remaining seafarers,
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
