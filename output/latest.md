@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## An economic D-Day is coming for Iran
+Countries that calculate appeasement of the regime to be a safer choice should reconsider
+
+## FirstFT: Kevin Warsh seeks to calm investors’ nerves as signs of economic strain grow
+Also in this newsletter: Alibaba announces $10.2bn share placement and Anthropic’s best AI model struggles to attract users
+
+## How New Zealand’s biggest city solved its housing crisis
+Rezoning has changed the face of Auckland though critics warn lessons hard to replicate
+
 ## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
 Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
 
@@ -14,18 +23,6 @@ Collapse of talks threatens to raise prices even higher months before midterm el
 
 ## A week of keynote speeches
 Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talks monetary policy at Jackson Hole and investors await Nvidia earnings call
-
-## Starmer considered letting 100,000 young Europeans come to UK every year
-British officials reveal sweeping Brussels negotiating plan drawn up in former premier’s last days in office
-
-## How worried should the bond market be about US inflation?
-Market Questions is the FT’s guide to the week ahead
-
-## Healey’s first Budget is a chance for radical change
-Two good reasons why this chancellor has a better chance than I had of boosting public-sector productivity
-
-## How New Zealand’s biggest city solved its housing crisis
-Rezoning has changed the face of Auckland though critics warn lessons hard to replicate
 
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
@@ -111,6 +108,9 @@ Three members of a family died at Khavda Hill in the Tisgaon area after an alleg
 ## Ajit Doval to visit China for boundary talks ahead of Xi’s India trip
 Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month
 
+## US economist Barry Eichengreen on reality of de-dollarisation and next currency reshuffle
+Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
+
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
 
@@ -131,9 +131,6 @@ Chinese smart vehicle makers have been hit by another setback as a global compon
 
 ## Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility
 South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected t
-
-## Tesla forced to recall record 3 million cars in China over door-handle issue
-Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after 
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -231,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
+Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.
+
+## Will Donald Trump’s new sanctions against Iran work?
+The US president says he will impose 'crushing measures' on Tehran.
+
+## Serbia requests international assistance to battle wildfires
+Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.
+
 ## US envoy Tom Barrack retracts comment that Syria’s Golan is occupied
 Ambassador to Turkiye says US policy of recognising Israel's claimed sovereignty over Syrian territory is 'unchanged'.
 
@@ -245,15 +251,6 @@ Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna 
 
 ## Photos: IndyCars speed past Washington landmarks as part of Freedom 250
 Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.
-
-## Gaza’s hospitals are running out of oxygen as healthcare nears collapse
-Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.
-
-## Two killed after giant Ganesha statue collapses onto crowd in Mumbai
-Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India.
-
-## Zhou Bo: China’s alternative to Western power
-Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
