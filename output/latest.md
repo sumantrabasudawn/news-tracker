@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US envoy Tom Barrack retracts comment that Syria’s Golan is occupied
+Ambassador to Turkiye says US policy of recognising Israel's claimed sovereignty over Syrian territory is 'unchanged'.
+
+## Landfill collapse kills 30 in Guinea’s capital after heavy rains
+A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes.
+
 ## Is Israel about to split the occupied West Bank in half?
 Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?
 
@@ -248,12 +254,6 @@ Two people were killed after a massive Ganesha idol fell onto a crowd during a p
 
 ## Zhou Bo: China’s alternative to Western power
 Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.
-
-## Palestinian teen killed in Israeli raid buried in Occupied West Bank
-Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.
-
-## Video: Thousands of families flee fighting in Sudan’s North Kordofan State
-Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
