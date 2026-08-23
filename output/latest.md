@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
+Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
+
+## Yahoo, the internet’s ‘OG’, wants to win over Gen Z
+Group’s chief says vintage web name can help draw younger users
+
 ## Why every French politician is now a Gaullist
 The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy
 
@@ -17,15 +23,6 @@ Market Questions is the FT’s guide to the week ahead
 
 ## Healey’s first Budget is a chance for radical change
 Two good reasons why this chancellor has a better chance than I had of boosting public-sector productivity
-
-## Mark Carney says Canada ‘at war’ with US over trade
-Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack
-
-## Zelenskyy rejects election call from fired defence minister
-President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority
-
-## Yahoo, the internet’s ‘OG’, wants to win over Gen Z
-Group’s chief says vintage web name can help draw younger users
 
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
@@ -66,6 +63,9 @@ Every imported cell assembled into a module represents demand that could have be
 ## India’s Thatcher moments
 At what point do political parties decide to replace their powerful leaders?
 
+## Govt to tighten vehicle lighting rules: Low-beam-only bikes, reduced headlamp glare
+
+
 ## India’s derivatives market gets a Gen Z makeover, but losses pile up: Sebi
 Recent trends indicate that traders aged under thirty now make up an impressive forty-three percent of all participants in the derivatives sector. Interestingly, individuals earning less than five lakh rupees a year are leading the market's activities. Moreover, there has been a notable rise in inve
 
@@ -86,9 +86,6 @@ US public debt has now surpassed forty trillion dollars, and the fiscal deficit 
 
 ## Gold, silver prices likely to extend gains next week as investors await US data
 Gold and silver prices are poised for further gains next week. Investors await crucial US inflation and economic data releases. Geopolitical developments in West Asia will also influence market sentiment. Domestic gold and silver futures saw significant increases this past week. Global bullion price
-
-## US FTA proposal: What are the '3 American demands' that became deal breaker for Canada
-In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture we
 
 ## Two MLAs among six injured in car crash near PWD office in Delhi
 The Innova was carrying Anil Jha, the sitting MLA from Kirari, and Abhay Patil, an MLA from Karnataka.
@@ -234,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Severe winds toss four aircraft across Italian airport tarmac
+Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.
+
+## Photos: IndyCars speed past Washington landmarks as part of Freedom 250
+Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.
+
+## Gaza’s hospitals are running out of oxygen as healthcare nears collapse
+Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.
+
+## Two killed after giant Ganesha statue collapses onto crowd in Mumbai
+Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India.
+
 ## Zhou Bo: China’s alternative to Western power
 Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.
 
@@ -245,18 +254,6 @@ Mothers and their children are in dire need of food and safety in Sudan’s conf
 
 ## Trump has ‘run out of options’ in Iran war: Stephen Walt
 Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
-
-## Tunisia sees protests after migrant boat sinking kills eight
-A migrant boat carrying 15 Tunisians sank off the country's southeastern coast while heading to Italy, killing eight.
-
-## Thousands displaced as wildfire threatens homes in US state of Nevada
-Authorities said the fire was caused by humans.
-
-## Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms
-House Speaker Mike Johnson, a Trump ally, admits it 'would be helpful' if conflict ends before elections in November.
-
-## Landfill collapse in Guinea kills at least 30 people
-Heavy rains wash over the site, triggering a landslide that buries several shacks.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
