@@ -42,6 +42,12 @@ There are sound reasons to rethink how couples approach investing for the future
 ## UK recruiters rebound despite European jobs weakness
 Investors return to Hays, Michael Page and Robert Walters after cost-cutting measures
 
+## Canada-India education ties entering a new era
+Deepening collaboration in talent development, applied research and innovation will benefit both nations
+
+## FSSAI issued 150 notices to food companies in recent months over misleading advertisements
+In the past few months, the FSSAI said it has taken action against various food business operators (FBOs) for serious violations of its laws and regulations
+
 ## A91 Partners set to cash out ₹445 crore from Atomberg ahead of IPO
 The fund, which first backed Atomberg in 2019, has put about ₹143 crore into the company across primary and secondary transactions
 
@@ -60,11 +66,8 @@ COSMIC COMMERCE India’s private space ecosystem is expanding across launch, sa
 ## Symbiotec Pharmalab IPO analysis: Key factors investors need to know before subscribing
 Strong R&D capabilities, integrated operating model and plant expansions augur well for Symbiotec Pharmalab
 
-## Chasing yield beyond the 10-year G-Sec
-Investors can earn a 60-100 basis point yield pickup by extending maturity from 10 to 30 years, but the move comes with duration and liquidty risk
-
-## Equity upside with a safety cushion
-FUND CALL HSBC Equity Savings Fund suits cautious investors seeking lower volatility, tax efficiency and a two-four-year horizon
+## 'Masters in our own home': Canada PM Carney explains why trade talks with US were suspended
+Canada has halted trade negotiations with the United States due to perceived inequities in demands, leading to the US imposing hefty tariffs on Canadian exports. In response, Canada has unveiled countermeasures to address these tariffs. Prime Minister Carney criticized the US for its unreasonable re
 
 ## Luxury sales plunge in China as tax push hits rich shoppers
 
@@ -87,8 +90,14 @@ Trade negotiations between the United States and Canada fell apart after a three
 ## 'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'
 In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being
 
-## US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting
-In a groundbreaking move, China has launched an extensive automotive recall, impacting 4.3 million vehicles across multiple manufacturers including Tesla. Safety regulators have raised alarms about the potential difficulty occupants may face in opening doors during emergency situations. Tesla is res
+## TMC rebels await official status after breaking off from Mamata Banerjee's leadership
+The two factions are the Ritabrata Banerjee-led 62 legislators in the West Bengal assembly and 20 MPs under the leadership of Sudip Bandyopadhyay in Lok Sabha.
+
+## Rahul Gandhi calls for ‘end to patriarchy’ at Pune event after PM Modi’s ‘cultural shock’ remark
+Rahul Gandhi also targeted PM Narendra Modi and played a video of him referring to abusive language used by girls during the agitation at Jantar Mantar.
+
+## Endoscopic camera, ₹11,000 deal: How Chhattisgarh agriculture exam paper was leaked; professor, 5 students held
+The professor reportedly used an endoscopic camera to capture the paper, selling it to students prior to the exam, leading to the paper's cancellation.
 
 ## 'Not expecting neighbours to do only what’s in my interest’: Jaishankar on Bangladesh amid Hasina row
 India has invited Rahman for both a bilateral visit and to attend the upcoming Brics Summit in his capacity as chair of the Bimstec grouping.
@@ -104,15 +113,6 @@ The incident, filmed and shared on WhatsApp, has sparked public outrage. Authori
 
 ## Sajjan Kumar row: Punjab Congress distances itself from Hooda’s ‘irreparable loss’ remark
 Protests erupted outside Rahul Gandhi's residence, with Sikh leaders demanding apologies and condemning supportive remarks about Kumar.
-
-## Gangster Goldy Brar admits to killing Khalistani terrorist Nijjar in Canada? What leaked audio reveals
-Hardeep Singh Nijjar's killing led to a major diplomatic row between India and Canada when Justin Trudeau was Canada's prime minister.
-
-## PM Modi interacts with fresh BJP team amid upcoming polls and ‘Vande Mataram’ row
-Prime Minister Narendra Modi deliberated with the BJP's new leadership after a recent rejig in the party.
-
-## FIR against Abhijeet Dipke for entering Maharashtra govt school; what are the charges against him
-Dipke and others have been accused of disrupting official work and threatening teachers at ZP Urdu school at Jawali near Ausa, a city in Latur district.
 
 ## Exodus from New Territories brownfield relieves pressure on industrial property market
 For years, brownfield sites in Hong Kong’s New Territories have hosted a range of businesses looking for cheap space – from storage depots to recycling centres to scrapyards. Now, the massive Northern Metropolis project is forcing many of these brownfield tenants to relocate, lifting demand for floo
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
+Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.
+
 ## In rural Chad, solar kiosks bring healthcare closer
 Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.
 
@@ -254,9 +257,6 @@ Iran warns that countries joining the US economic war against Iran will face ‘
 
 ## Iran warns nearby nations against joining US ‘economic war’ efforts
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
-
-## Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
-For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
