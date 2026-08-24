@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Reform UK’s ‘Farage Fest’ went ahead without permission from council
+Organisers face potential enforcement after rally to celebrate leader’s Clacton by-election win was denied an events licence
+
+## Class wars and the midterms
+The US economic conversation is expanding to include things such as corruption and the Wall Street-Main Street divide
+
 ## US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance
 British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration
 
@@ -18,14 +24,14 @@ European banks write fan fiction
 ## An offer Canada could only refuse
 Saint Mark Carney’s canonisation owes much to Donald Trump’s inept bullying
 
+## FT Financial Literacy and Inclusion Campaign
+The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
+
 ## Ukraine hits Russia’s second-largest online retailer
 Kyiv’s drones target Ozon warehouses after weeks of strikes against market leader Wildberries
 
 ## Iran threatens 46 ships in Strait of Hormuz transit crackdown
 Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation
-
-## FT Financial Literacy and Inclusion Campaign
-The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
 
 ## FirstFT: An economic D-Day is coming for Iran
 Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
@@ -36,29 +42,29 @@ Boaz Weinstein’s activist fund has been waging a campaign against UK investmen
 ## Shein seeks $27bn valuation from Hong Kong IPO
 Market capitalisation is nearly three-quarters below peak after retailer’s attempts to list in New York and London failed
 
-## J&K eyes economy doubling with new investment, growth drivers
-Officials involved in the exercise said the focus is expected to be on identifying sectors capable of generating sustained investment, employment and productivity gains, rather than relying on a single industry to drive growth.
+## Foreign airlines knock DGCA’s doors for dangerous goods carriage permit
+This follows the implementation of a new regulation regarding the transport of dangerous goods to and from India last week
 
-## Shanti Inorganics to raise ₹47 crore via IPO on NSE Emerge
-The company will issue 56.91 lakh equity shares in the price band of ₹79 - ₹83 per share
+## InvIT investor base rises 17% in June quarter, distributions up 15%
+Distributions to unitholders rose 15 per cent on-year to ₹5,923 crore in the June quarter
 
-## Bajaj Auto plans 2 new brands, 3 products in FY27 portfolio reset
-Bajaj Auto is giving its ₹11,000-crore Pulsar brand a major makeover and launching new motorcycles, hoping to revive domestic sales while maintaining profitability
+## Farmers’ leader Malla Reddy passes away
+Considered to be a walking encyclopaedia on Indian agriculture, with a particular focus on farming issues in Telangana and Andhra Pradesh, Reddy wrote hundreds of academic-standard articles.
 
-## Tempsens IPO closes at 184x subscription on final day
-Non-Institutional Investors (NIIs) led the demand at 294.08 times subscription, with the over-₹10 lakh category clocking 311.65 times
+## Ten years of UPI: From a payment tool to India's economic Spine
+There are technologies that change what we do. And then there are technologies that quietly change what we believe is possible. UPI belongs to the second category.
 
-## Swara Baby eyes ₹558 crore plant as IPO approaches
-IPO proceeds to part-fund capacity expansion for baby diapers, adult diapers and sanitary napkins
+## Delay in depositing TDS: Company under liquidation ordered to pay fine, MD to pay fine, undergo jail term
+The matter relates to a Noida-based company, Naftogaz India, defaulting in depositing TDS amounting to over ₹17.68 crore for FY10 within the timeline prescribed under the IT Act
 
-## Gourmet Popcornica launches 2 non-GMO hybrid popcorn maize seeds
-CP Radhakrishnan, Vice President of India, launches ‘Krisna459’ and ‘Godari234’ at Gourmet Popcornica’s factory in Musunuru in Andhra Pradesh
+## India may miss target of achieving exports worth $1 trillion during 2026-27 due to global uncertainties and tariff war, says NITI Aayog Vice-Chairman Ashok Kumar Lahiri
+Lahiri pointed out that the country needs to diversify its export basket, “States of origin” and export destinations in order to grow its shipments amid geopolitical uncertainties.
 
-## Global Sea Surface Temperature breaks record as El Nino gains strength
-Global reading reaches 21.1°C, surpassing the previous record set in 2024, says Copernicus report
+## MRPL says no single geography, supplier or route decisive for crude sourcing
+The company’s crude oil sourcing from West Asia came down from around 66% in 2022-23 to around 27% during the first quarter of 2026-27
 
-## TN seeks ‘proportionate’ Cauvery water, SC advises State to take it up with CWMA
-Justice Nath said then Tamil Nadu must raise the issue with the CWMA itself, adding that “here the issue was about Karnataka not giving you water at all”.
+## Ramco Cements no longer to pay tax on mineral-bearing land
+The company had been paying ₹160 per tonne of limestone to the Tamil Nadu government, it said
 
 ## UPI instant payments network grows from 1.78 cr annual transactions to 24,162 crore
 India's Unified Payments Interface (UPI) is currently facilitating an impressive 66 crore transactions each day. Since 2016, the growth in its transaction volume has skyrocketed by an astounding 13,000 times. UPI has established itself as a foundational component of India's digital public infrastruc
@@ -84,6 +90,21 @@ Stock market recommendations: Viyash Scientific, and AU Small Finance Bank - hav
 ## Gold price prediction today: Worst of gold price dips over? Check outlook for August 24, 2026 week
 Gold price prediction today: Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, which are expected to remain key drivers for gold prices in the near term.
 
+## Landslide disrupts NH-520 in Odisha; IMD issues orange alerts in 6 districts
+Keonjhar superintendent of police Nitin Kushalkar urged commuters travelling between Barbil and Rajamunda to exercise caution
+
+## Gujarat HC refuses to stay AAP legislator Chaitar Vasava’s 7-year sentence
+The Dediapada MLA, his wife, personal assistant and six others were sentenced to seven years’ rigorous imprisonment on June 23 in connection with a 2023 case
+
+## ‘No Wi-Fi, bluetooth ’: CEC Gyanesh Kumar says EVMs not internet-connected
+CEC Gyanesh Kumar encouraged young people to actively participate in the democratic process.
+
+## Meghalaya govt invites KSU for talks as Assam border tensions ease
+Presenting a suo-motu statement on the opening day of the autumn session, Sangma said the government acted swiftly
+
+## ‘We are a poor family’: Father of Indian national shot dead in New York seeks justice
+The victim, Gurdeep Singh, passed away in the untimely incident, prompting the Consulate General of India in New York to reach out to the bereaved family
+
 ## Tarique Rahman's cancelled Delhi visit says a lot about Bangladesh and its tragic short-sightedness
 Bangladesh's own war games treat India as the adversary; India's war games don't feature Bangladesh — only China and Pakistan do. That asymmetry says plenty.
 
@@ -93,20 +114,8 @@ S Jaishankar, who arrived in Moscow on Sunday, is on a two-day visit to Russia
 ## Tarun Tejpal must surrender, seek exemption before appeal is heard: Goa tells SC
 Senior advocate Kapil Sibal insisted that the requirement to surrender did not apply since the high court had given him four weeks to surrender
 
-## Calcutta High Court stays arrest warrant against TMC MP Mahua Moitra
-A division bench comprising Justices Debangsu Basak and Aryak Dutt directed that the matter be taken up again on August 27.
-
-## FM to leave for 8-day official trip to Canada, US; focus on deepening bilateral ties
-The dialogue is expected to cover macroeconomic developments, financial sector cooperation, bilateral investment opportunities, shared international priorities.
-
-## 'Disturbing': Shashi Tharoor flags report findings on 'conservative values' in Kerala's Saudi returnees
-The study shared by Tharoor finds that migrants returning from Saudi Arabia tend to exhibit “conservative values”, mentioning “gender-based violence”.
-
-## CJP announces march from India Gate to Delhi Police HQ on Sept 5 over ‘failed’ govt promises: ‘Good faith can’t…'
-The march will be led by families of deceased NEET victims and victims of police brutality that allegedly took place on July 20th ‘Sansad Chlao’ march.
-
-## Tej Pratap Yadav’s workout with Mallika Sherawat in ‘Bhojpuri Bawaal’ goes viral
-Mallika Sherawat takes on the role of a fitness instructor, guiding Tej Pratap Yadav, the son of veteran leader Lalu Prasad Yadav, through yoga postures.
+## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
+Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
 
 ## Kerry Properties targets Hong Kong sites, eyes luxury market as mainland growth slumps
 Kerry Properties is targeting Hong Kong residential land sales and will consider recycling capital from existing assets, betting on a tighter local housing supply even as China’s property downturn weighs on its mainland business. The developer said it acquired three residential sites in Hong Kong in
@@ -128,9 +137,6 @@ China’s battery king Contemporary Amperex Technology Limited (CATL) is enablin
 
 ## Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?
 China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market. CCSH Corporation, parent of China’s top NAND flash maker, planned to sell
-
-## Investment market volatility ‘here to stay’ unless global recession strikes: analyst
-Wealthy investors should be ready for higher volatility “for years” as uncertainties around artificial intelligence development and geopolitical risks are set to persist, according to a major private bank. In the past few years, asset prices underwent several roller coaster rides, from US Liberation
 
 ## Washington Is Creating Forever Enemies
 The United States must learn to forget the pain of humiliation.
@@ -180,6 +186,9 @@ As the U.S. mulls “strategic clarity,” China may be shifting its pressure ca
 ## Australia and Thailand Deepen Ties to Hedge Against Global Uncertainty
 The building of collaboration with countries like Thailand is central to Australia’s long-term strategic vision.
 
+## Command and Politics in the War Between Moscow and Kyiv
+Our intrepid team covers a lot of ground in this episode: the increasing fluidity of the battlefield, drones and air defense, the biting Black Sea campaign, the causes and aftermath of the firing of Ukraine’s popular defense minister, why Ukraine probably cannot produce PAC-3 air defense missiles (d
+
 ## Betting on Autonomous Aircraft
 This exclusive Cogs of War interview is with Brandon Tseng, the co-founder and president of Shield AI and a former Navy SEAL, whose company builds the Hivemind autonomy software, the V-BAT and X-BAT aircraft, and Aechelon synthetic reality and simulation technologies. We asked Brandon about the bet 
 
@@ -200,9 +209,6 @@ Military analysts are captivated by how the material nature of war is transformi
 
 ## China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That
 For years, the Chinese military’s own newspaper has been making a promise it may no longer be able to keep. Whenever the People’s Liberation Army Daily (Jiefangjun Bao), the official newspaper of China’s Central Military Commission, discusses artificial intelligence and command, it returns to the sa
-
-## Inside Iran’s Wartime Regime
-Afshon Ostovar, one of the leading experts on Iran and the host of the members-only podcast The Iran Reckoning, is joined by War on the Rocks membership editor Kerry Anderson for a state-of-play conversation on the conflict between the United States and Iran. They consider why the fighting has settl
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,6 +234,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Rain and flooding from Typhoon Narra hits China and Vietnam
+Rain and flooding from Typhoon Narra hits China and Vietnam
+
+## ‘Barrel bomb mufti’ sentenced to life in Syria
+‘Barrel bomb mufti’ sentenced to life in Syria
+
+## Saudi Arabia’s MBS visits Macron in France: What to expect
+Saudi crown prince and French president are set to sign several agreements on health, transport and energy.
+
+## Four arrested over fatal shooting of South African boxer Zolani Tete
+Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
+
 ## South Korea says US cancelled upcoming joint marine exercises over Iran war
 The cancellation follows Trump's surprise order last week to scale back a separate annual joint military drill.
 
@@ -239,18 +257,6 @@ Kanter was ejected from the Indiana-Chicago WNBA game after he was confronted by
 
 ## Israel accused of using kites as pretext to justify escalating Gaza attacks
 Israel has threatened Palestinian groups against launching 'kites, drones, and balloons' from the war-torn enclave.
-
-## Cambuur fans suffer burns as fireworks set off during Dutch league match
-Game resumed despite injuries to home fans, but it would have been abandoned if a player or match official had been hit.
-
-## Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry
-A landfill collapse in Conakry kills 30, injures six, and destroys homes after heavy rains in Guinea's capital.
-
-## India used pellets, grenades on Gen Z protests: What Amnesty report reveals
-Security forces used tear gas, pellet guns and electric shock devices against student protesters, Amnesty inquiry found.
-
-## Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision
-AVROTROS says escalating international conflicts are undermining the event's neutrality and fuelling divisions.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
