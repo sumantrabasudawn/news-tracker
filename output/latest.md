@@ -1,7 +1,7 @@
 # AION Intelligence
 
-## Thames Water creditors would launch board shake-up if utility avoids nationalisation
-Move is aimed at reassuring government there would be a change of leadership under their ownership
+## Thames Water creditors plan board shake-up if utility avoids nationalisation
+Move aims to reassure government there would be a change of leadership under their ownership
 
 ## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
 Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
@@ -36,32 +36,38 @@ US supermajor and LyondellBasell among suitors as UK group looks to shed underpe
 ## A ‘democratised’ financial crisis is still a crisis
 Private credit’s insurance boom could have hidden costs
 
-## UBS concern over private markets push by manager of $1bn sustainable finance fund
-Ties between Swiss bank and Record soured but UK partner remains as manager, according to insiders
+## Chennai’s Congruence Holdings to expand to 300 outlets across South India
+The company currently operates 30 such stores across Tamil Nadu
 
-## Sensex today | Stock Market Live: Sensex, Nifty fall as high crude prices, weak global cues weigh
-Sensex, Nifty, Share Prices Live: Indian equities turned lower on Monday as elevated crude prices, weak global cues and West Asia tensions weighed on sentiment. With derivatives expiry due Tuesday, analysts expect heightened volatility and stock-specific moves, even as softer dollar and Treasury yie
+## Air passenger service prices surge 31.94% in Q1 FY27 under new Service PPI framework
+For Q1FY27, the Air (Passenger) Service Price Index rose to 126.4 from 106.9 in Q4FY26, translating into annual inflation of 31.94%
 
-## Keralam’s seafood sector unveils draft fisheries management plan
-Digital tracking framework to capture a larger share of the growing global market for responsibly sourced seafood is part of a major sustainability push
+## Sensex today | Stock Market Live: Sensex, Nifty fall as crude prices, West Asia tensions weigh
+Sensex, Nifty, Share Prices Live: Indian equities extended losses on Monday as elevated crude prices, weak global cues and West Asia tensions dampened sentiment. With derivatives contracts expiring Tuesday, analysts expect stock-specific volatility, while persistent FII shorts and subdued options se
 
-## Aurobindo arm’s facility in US gets 4 observations from USFDA
-The inspection concluded with four observations, which are procedural in nature, and we will respond to the USFDA within the stipulated timeline
+## Tamil Nadu govt abandons Parandur airport plan, looks for alternative site
+Chief Minister C Joseph Vijay made the official announcement in the State Assembly noting that the government is seeking to avoid the displacement of residents and loss of agricultural land
 
-## El Niño shock could re-price food inflation, Central Bank policy paths: US analyst
-“An El Niño event of this magnitude and speed has the potential to create a macroeconomic shock well before the market has fully priced it,” says Michael Ferrari, VP and Head of Research, Moby
+## Natural gas: Uncertainty persists
+The September contract consolidates between ₹257 and ₹276
 
-## Karnataka Health Dept says rise in H1N1 cases part of seasonal surge, no need to panic
-Health facilities across the State have been advised to ensure adequate availability of essential supplies, including PPE, N95 masks and Oseltamivir
+## L&T wins over ₹15,000 crore gas compression project in West Asia
+The project will cover new onshore facilities for sour gas processing, along with power infrastructure to support the compression plants
 
-## Lalithaa Jewellery shares list at 32% premium, Horizon Ind makes muted debut: Should you buy?
-Lalithaa Jewellery stock began trading at ₹265 on the NSE and ₹265.30 on the BSE
+## JPMorgan’s Copthall Mauritius to argue SEBI violation was technical, not manipulative
+The subsidiary — called Copthall Mauritius Investment Ltd — plans to seek clarifications but is unlikely to appeal the order for now, sources said
 
-## LIC stake sale in IDBI Bank: Officers’ body seeks IRDAI intervention
-The All-India Bank Officers’ Association has demanded regulatory intervention to protect policyholders and retain IDBI Bank in the public sector
+## IDFC FIRST Bank, IIM Calcutta Innovation Park launch ₹2-cr startup incubation initiative
+The focus areas include green manufacturing, waste recycling and upcycling, cleantech, renewable energy, water management, environmental technologies and the sustainable use of indigenous resources
 
-## India banking credit growth hits 20%, LDR nears decade-high levels
-Banks saw stronger loan demand across key sectors, but slower deposit growth kept funding pressures elevated and the system-wide LDR high
+## 81-year-old mother allegedly forced to leave house: SC restores son's eviction under Senior Citizens Act
+A Bench of Justice Pamidighantam Sri Narasimha and Justice Alok Aradhe set aside the Allahabad High Court's orders holding that authorities under the 2007 Act had no power to order eviction.
+
+## ‘75% global trade will be covered’: India negotiating trade deals with 8-9 more groups of countries
+Speaking to business representatives from India and Japan, Goyal said India has a sizeable domestic market while also opening itself to the global economy through nine free trade agreements signed over the past four years.
+
+## Stocks to buy: What's the outlook for Nifty for August 24-August 28 week? Check list of top stock recommendations
+Stock market recommendations: Viyash Scientific, and AU Small Finance Bank - have been picked as the top stocks to buy on August 24, 2026 by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities.
 
 ## Gold price prediction today: Worst of gold price dips over? Check outlook for August 24, 2026 week
 Gold price prediction today: Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, which are expected to remain key drivers for gold prices in the near term.
@@ -75,47 +81,41 @@ KPMG Australia is set to cut around five percent of its workforce, a move trigge
 ## Stock market today: BSE Sensex jumps over 200 points, NSE Nifty50 opens above 24,300
 
 
-## Weekly Stock Buys: Motilal Oswal Wealth backs Crompton Greaves, ICICI Prudential AMC; upside up to 35%
+## Top stocks to buy: Stock recommendations for August 24, 2026 week - check list
 Stock market recommendations: Crompton Greaves, and ICICI Prudential AMC- these are the top stocks that have been picked by Motilal Oswal Wealth Management Research Desk as stock recommendations for the week starting August 24, 2026:
 
-## Oil prices slip over $1 as US weighs ‘D-Day’ Iran sanctions; Strait of Hormuz shipping risks in focus
-In the lead-up to impending US sanctions on Iran, oil prices fell as investors capitalized on recent gains. As Washington prepares to unveil its most stringent measures Monday, the potential for disruptions in Middle Eastern oil supply looms large. Iran's rejection of these sanctions, coupled with i
+## SC issues notice to Centre, CBI on plea for CBI probe into JPSC exam 'irregularities'
+SC issues notice to Centre, CBI on plea for CBI probe into JPSC exam 'irregularities'
 
-## Shriram bullish on CV growth despite recent price hikes
+## SC bans construction activity within 100 metres from edge of Rajasthan's Jojari river
+SC bans construction activity within 100 metres from edge of Rajasthan's Jojari river
 
+## BJP leaders detained during march to Vidhan Soudha seeking Minister B Nagendra's removal
+The BJP and its ally JD(S) mobilised large number of workers for the protest, with party workers arriving from different parts of Bengaluru and other areas.
 
-## India eyes enhancing trade pact with Chile
+## SC agrees to hear ex-AAP MLA's plea seeking bail in MCOCA case
+SC agrees to hear ex-AAP MLA's plea seeking bail in MCOCA case
 
+## TMC MP Mahua Moitra moves SC alleging eviction from circuit house
+The incident in Moitra's constituency Krishnanagar happened late at night.
 
-## Farmers, water bodies: Why has CM Vijay dropped 2nd Chennai airport plan, for now
-The land in Parandur was believed to be unsuitable for runways because of water bodies. Vijay's TVK govt has said it accords top priority to the environment.
+## Kashmiri Pandit employees seek protection in J&K after threat letter: ‘Neither scared nor running this time’
+The All PM Package Employees Forum Kashmir has asked the J&K government to strengthen security for Kashmiri Pandit employees serving in the Valley.
 
-## SC to hear plea challenging FIR against journalist who reported on Ram temple donation row
-SC to hear plea challenging FIR against journalist who reported on Ram temple donation row
+## Harbhajan Singh bowls political ‘doosra’ as cops confirm viral Punjab drugs video
+The video was originally posted on X by BJP leader Ravneet Singh Bittu, whose post Harbhajan Singh quoted while taking a swipe at his critics.
 
-## Telangana CM Revanth Reddy returns from UK after Centre denies permission for US visit
-Reddy had initially departed for the UK on August 20 with plans to travel onward to the US.
+## Keralam receives 23 per cent less monsoon rain than normal so far: IMD
+Keralam receives 23 per cent less monsoon rain than normal so far: IMD
 
-## Ex-diplomat raises concerns over SIR in Punjab over 'mismatch' notice
-Ex-diplomat raises concerns over SIR in Punjab over 'mismatch' notice
-
-## Elderly woman killed, husband injured in SUV hit-and-run at Delhi's posh GK-1
-The woman, identified as Shashi, was declared brought dead at the hospital, while her husband Kulbhushan (65), was left injured.
-
-## ‘You endorse misogyny, cut the crap’: Shehzad Poonawalla joins BJP attack on Rahul Gandhi's ‘smash patriarchy’ call
-Shehzad Poonawalla and BJP were responding to Rahul Gandhi's call to "smash the patriarchy" during his party's 'Chhatro ki Goonj' programme in Pune.
-
-## CJP meeting today LIVE: Team CJP's key meet at 2 pm to decide next move after ‘betrayal’ charge
-CJP meeting today LIVE: In a statement, the party alleged that the government had not committed to submitting a comprehensive list of FIRs registered against students and protesters across the country, as directed by the Supreme Court.
-
-## Why CJP is threatening another march: FIRs, NEET compensation among 3 pending demands
-The Cockroach Janta Party will hold an internal meeting today to decide their next course of action - which could also include a nationwide protest.
+## CATL debuts e-commerce platform for direct sales to small buyers, as competition sharpens
+China’s battery king Contemporary Amperex Technology Limited (CATL) is enabling direct sales to smaller energy storage system makers via its own e-commerce platform, as competition with its domestic peers intensifies. The platform, officially launched on Friday, would offer orders as small as three 
 
 ## Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?
 China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market. CCSH Corporation, parent of China’s top NAND flash maker, planned to sell
 
-## Investment market volatility is ‘here to stay’ unless global recession strikes: analyst
-Wealthy investors should be ready for higher volatility “for years” as uncertainties around artificial intelligence (AI) development and geopolitical risks are set to persist, according to a major private bank. In the past few years, asset prices underwent several roller coaster rides, from US Liber
+## Investment market volatility ‘here to stay’ unless global recession strikes: analyst
+Wealthy investors should be ready for higher volatility “for years” as uncertainties around artificial intelligence development and geopolitical risks are set to persist, according to a major private bank. In the past few years, asset prices underwent several roller coaster rides, from US Liberation
 
 ## Building the Future: How BTRi Is Positioning Hong Kong as the Global Gateway for Construction Innovation
 [The content of this article has been produced by our advertising partner.] Hong Kong is pursuing its most ambitious development agenda in a generation, led by the Northern Metropolis, with the backing of the Hong Kong’s First Five-Year Plan which proactively aligns with the national development str
@@ -131,9 +131,6 @@ Fast-fashion retailer Shein Global Holdings is seeking to raise as much as HK$13
 
 ## Yuan, Hong Kong dollar bonds surge as issuers seek cheaper funding amid rising US costs
 Hong Kong and mainland China are set to see continued growth in bond issuance denominated in Hong Kong dollars or the yuan through the rest of the year, as issuers reduce their reliance on US dollar-denominated bonds and seek cheaper funding costs, according to a senior executive at Standard Charter
-
-## Hong Kong homebuyers snap up units at The Sterling as value-focused demand deepens
-Hong Kong homebuyers are still willing to spend, and the sell-out of a major new development on Saturday showed how demand is increasingly concentrated in projects that offer clear value as the housing recovery enters a more mature phase. China Resources Land’s The Sterling in southwestern Kowloon, 
 
 ## What Donald Duck Can Teach Trump About Going to War
 President Franklin Roosevelt enlisted entertainers to make the case for fighting Germany and Japan.
@@ -183,6 +180,9 @@ The building of collaboration with countries like Thailand is central to Austral
 ## How an Academic Became Collateral Damage to China’s Interests in Myanmar
 The arrest of Burmese-American scholar U Min Zin highlights China’s determination to ensure its role in Myanmar doesn’t come under scrutiny.
 
+## The Risks of Downplaying China’s Military
+China has spent years modifying civilian ferries to launch amphibious armored vehicles, developing specialized equipment to move forces ashore without conventional port facilities, hardening dozens of air bases, and rapidly expanding the missile forces that could be used to deter or defeat a U.S. in
+
 ## Pressure Points: Economic Strain, Allied Discord, and War Fatigue
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. strikes on Iranian soil tapered off in August after frequent exchanges throughout July. The hiatus seem
 
@@ -203,9 +203,6 @@ Afshon Ostovar, one of the leading experts on Iran and the host of the members-o
 
 ## Contested Logistics and the “Last Unmanned Mile”
 In a Pacific war, the U.S. military cannot assume uncontested access to its depots and supply lines for munitions, spare parts, food, water, and energy. Jonathan is joined by David Tuttle (Rune Technologies), Paul Lwin (HavocAI), and Tom Garvey (CACI) to discuss sustaining a dispersed force that’s f
-
-## Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…
-The Iran war is beginning to resemble the Ukraine war in one important way. Operationally, the wars themselves are still very different — Ukraine is a large-scale ground invasion, while the Iran war is not there just yet. But their political logic after a failure to achieve a quick result is startin
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +228,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How much more are you spending on petrol since the war in Iran began?
+At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
+
+## EU, Russian aircraft help Serbia battle wildfires
+EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.
+
+## The right to health in Gaza is now a privilege
+The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps
+
+## Canada-US trade war: Who wins? Who loses?
+Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation.
+
+## Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost
+'Coalition of the Willing' leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.
+
+## Pakistan’s army chief back in Iran: Can he break peace talks deadlock?
+Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.
+
 ## Salah scores two goals, has two disallowed in first start for Trabzonspor
 Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.
 
 ## Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit
 European football chief doesn't want to lose credibility over FIFA job but says Infantino will face a challenger.
 
-## Gauff, Fils win Cincinnati tennis titles in run-up to US Open
-Gauff beat Pegula for her second Cincinnati Open trophy and Fils overcame Tiafoe for his first Masters 1000 title.
-
-## Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m
-Maradona’s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the ‘Hand of God’.
-
-## Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc
-Footage filmed by a climber on Mont Blanc shows rocks cascading down the Goûter Couloir, known as ‘Death Pass’. The clim
-
-## ‘We know this movie’: Iran mocks latest US sanctions
-Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the 'same movie on repeat'.
-
-## Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions
-Syria's foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.
-
-## Human-caused Nevada wildfire forces 42,000 people to evacuate
-A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate and put another 45,000 on alert.
+## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
+NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
 
 ## AI is creating more jobs than it destroys in India, but freshers face the squeeze
 AI is creating more jobs than it destroys in India currently. However, entry-level hiring is declining significantly for young workers. Companies increasingly value experienced employees with deeper business knowledge.
@@ -275,9 +275,6 @@ With the one time disclosure window now in force, the detailed rules set out who
 
 ## I-T unearths Rs 1.29 lakh cr foreign remittances
 The tax probe has found that a substantial portion of the money moved to a handful of overseas destinations. Singapore, the UAE, Hong Kong, Mauritius and China together accounted for 72.3% of the total remittances. Singapore emerged as the largest destination, receiving Rs 41,885 crore while Rs 18,3
-
-## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as 'SOCIAL' leads expansion, CFO says
-Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
 
 ## India weighs facilitating European, UK investments via green channel
 India is creating a dedicated channel to ease European and British company investments. This mechanism will offer dedicated support and help investors navigate government approvals. The initiative aims to facilitate capital flow beyond just trade agreements. Senior officials will directly monitor th
