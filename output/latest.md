@@ -3,6 +3,12 @@
 ## Trump says US to increase tariffs on Canadian cars to 50%
 Move marks further escalation of Washington’s trade war with Ottawa
 
+## First Brands forced into liquidation by bankruptcy court
+Federal judge in Texas said litigation trust plan floated by company and senior lenders ‘was unconfirmable under any circumstances’
+
+## Burnham compromises on council homes plan
+Prime minister opts not to rip up programme drawn up under Sir Keir Starmer that mostly relies on housing associations
+
 ## Scott Bessent threatens Iran’s economic partners with more sanctions
 US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action
 
@@ -18,12 +24,6 @@ Potential veto poses challenge for energy companies reliant on Chinese supplies
 ## Britain gains access to Ukraine battlefield data
 Trove of combat imagery used to train AI models to identify and strike Russian targets
 
-## Meloni wants a snap election to hide her economic failures
-Her proposed electoral reform could shore up the governing coalition despite its poor record in power
-
-## Can Democrats seize Congress from Trump?
-The races, the money and the issues that will determine the final half of Trump’s second term
-
 ## Shipping industry warns small battery exemption increases fire risk on vessels
 Container lines push regulator to change rules where laptops or power banks with batteries do not need to be declared
 
@@ -33,11 +33,14 @@ Once high-flying fast-fashion retailer is listing in Hong Kong at quarter of pea
 ## As dieters slim down, protein prices bulk up
 A lot of people are finding an appetite for whey
 
-## FT Financial Literacy and Inclusion Campaign
-The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
+## US announces fresh Iran sanctions, warns countries doing business with Tehran
+Washington is widening its economic campaign against Tehran as Iran faces mounting financial strain, a plunging currency and uncertainty over peace prospects
 
-## US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance
-British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration
+## US proposes additional $103,265 fee for H-1B visa cap-subject applications
+The proposed levy comes as Washington seeks to recover federal immigration costs, while businesses and advocates warn of its impact on skilled workers
+
+## Editorial. F&O Mayhem: Time to Consider Other Options!
+F&O frenzy needs to be tackled differently
 
 ## Indian MFs register fastest growth globally in last 5 years
 However, share of Indian MFs was only one pc of global MF industry
@@ -54,14 +57,8 @@ Retailers in the Southern and Northern regions post higher growth than the pan-I
 ## Ten years of UPI: From a payment tool to India's economic spine
 UPI succeeded because it combined ambition with simplicity, technology with policy, competition with collaboration and innovation with trust
 
-## Every day at SBI is a defining moment, says Chairman Setty
-I believe international operations will remain at around 15% of our overall credit book, which is a ratio we are comfortable with, says the SBI Chairman
+## Russian President Putin says will continue fertiliser supplies to India
 
-## TCS to acquire Porsche’s arm for €320 million, seals five-year €1.25 billion AI partnership
-The acquisition will strengthen TCS’ presence in Germany, Romania, the UK, the US, India, and Mexico and among European automotive and industrial customers
-
-## ESIC crackdown: Over ₹2,400 cr social security money trapped in 6.45 lakh recovery certificates pending for a decade
-Under the ESIC Act, the officials are authorised to issue orders for attachment and sale of the employer’s movable or immovable property and also arrest or detain defaulters in extreme non-compliance cases
 
 ## Trump admin set to revoke up to 2 lakh visas in historic crackdown
 
@@ -83,9 +80,6 @@ Infosys reported a 12% year-on-year rise in consolidated net profit to Rs 7,769 
 
 ## US stock market today: Wall Street subdued ahead of key earnings; bond market in focus
 On Monday, the yield on the 10-year Treasury fell to 4.70%, from 4.74% late Friday. It was also back below its level from late Tuesday, before the US Treasury Department unveiled its unexpected buyback announcement.
-
-## UPI instant payments network grows from 1.78 cr annual transactions to 24,162 crore
-India's Unified Payments Interface (UPI) is currently facilitating an impressive 66 crore transactions each day. Since 2016, the growth in its transaction volume has skyrocketed by an astounding 13,000 times. UPI has established itself as a foundational component of India's digital public infrastruc
 
 ## Chhattisgarh CM urges workers' children to dream big, work hard
 Chhattisgarh CM urges workers' children to dream big, work hard
@@ -135,11 +129,14 @@ China’s battery king Contemporary Amperex Technology Limited (CATL) is enablin
 ## Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?
 China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market. CCSH Corporation, parent of China’s top NAND flash maker, planned to sell
 
+## U.S. Unveils ‘Economic D-Day’ Against Iran
+The White House vows to sanction any country that continues to do business with Tehran.
+
 ## Where Is King Abdullah?
 Facing regional turmoil and domestic criticism, Jordan’s ruler is spending more time overseas and less time talking to the press.
 
 ## Germany’s Firewall Has Completely Failed
-Attempts to ostracize the AfD has fueled both the rise and radicalization of Germany’s far-right party.
+Attempts to ostracize the AfD have fueled both the rise and radicalization of Germany’s far-right party.
 
 ## Washington Is Creating Forever Enemies
 The United States must learn to forget the pain of humiliation.
@@ -155,9 +152,6 @@ But Tehran’s top crude buyer appears unwilling to play ball.
 
 ## Why We Are Living Through ‘Hyperpolitics’
 Anton Jäger explains why record voter turnout isn’t leading to systemic change.
-
-## Who Reaps the Benefits of India’s Growth?
-Early policy choices shaped the inequity and employment challenges facing the country today.
 
 ## Airstrikes on Civilians in Rakhine Will Increase, Say Myanmar Military Defectors
 The military’s intensification of aerial bombing is aimed at defending key townships in the region.
@@ -231,6 +225,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US public support for Iran war falls as Trump approval at record low: Poll
+Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
+
+## Iconic Palestinian artist Sliman Mansour passes away at age 79
+Palestinian artist Sliman Mansour, whose work became a symbol of struggle and resistance, has died at age 79.
+
+## Displaced Palestinians in Gaza face intensifying Israeli strikes
+Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.
+
 ## What’s behind domestic political pressure on Ukraine’s president?
 Zelenskyy rejects call from sacked minister for wartime elections.
 
@@ -245,15 +248,6 @@ Armed men injured three additional peacekeepers as fears grow of the country rel
 
 ## Displaced Palestinian builds mud shelter as tents offer little relief
 A displaced Palestinian has built a traditional mud-brick house as an alternative to tents.
-
-## Violence flares in Haiti as gang attack kills 30 people
-Island nation grapples with violence as it seeks to hold first elections in more than a decade.
-
-## Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor
-Fabinho joined ​Saudi Arabia's Al-Ittihad in 2023, where he won the ​league after his five-year stint at Liverpool.
-
-## Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts
-Karen Attiah was fired for posts about Charlie Kirk’s assassination that the Post said violated its social media policy.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
