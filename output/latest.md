@@ -36,29 +36,32 @@ Security chiefs brief energy bosses with ‘advice, direction and next steps’ 
 ## Government can bring robotics to life
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-## What will it take for India to become a global medtech manufacturing hub?
-India must build a stronger medtech ecosystem of component manufacturers and specialised suppliers
+## Symbiotec Pharmalab IPO opens today: Price, dates, lot size and key details
+What brokerage say on the IPO?
 
-## Clearing the air on brain death
-India’s new brainstem death guidelines seek to decouple brain death from organ donation
+## Sensex today | Stock Market Live: Stock to buy today: IndusInd Bank
+Sensex, Nifty, Share Prices Live: The stock of IndusInd Bank has been consolidating for about a month. That is, it has been oscillating between ₹990 and ₹1,035 since the final week of July. Prior to this, the trend has been bullish. The chart now shows the formation of a good base at ₹990, where the
 
-## When a robot draws your blood
-The FDA approves Aletta, a robotic device for autonomous blood draws
+## Hy-Tech Engineers IPO issue opens today: Read Key details
+Brokerages views on the IPO
 
-## HYROX training, non-negotiable protein, and podcasts to help unwind
-Diary of daily fitness
+## Skyways Air Services IPO opens today: All you need to know
+See SBI Securities views and anchor investors
 
-## Campaign for clean air
-Campaign seeks to highlight the economic benefits of tackling air pollution and climate action
+## Nifty, Sensex may open weak as crude, West Asia tensions weigh
+Investors are likely to remain cautious as geopolitical risks, firm oil prices and derivatives positioning shape trading sentiment at the start of week.
 
-## US reviews childhood vaccines
-US reviews childhood vaccine policies amid concerns over potential reduced protection against serious diseases
+## Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders
+Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders
 
-## Is the colour of money changing the healthcare landscape
-Does corporatisation make a hospital less care-oriented and more profit-centric?
+## Deendayal Port Authority crosses 70 MMT cargo mark ahead of schedule
+The Kandla port has strengthened its position in India’s maritime trade, recording faster cargo growth and new daily handling records
 
-## Moon-landing microbes
-NASA researchers discover microbes that can survive the harsh conditions of the moon
+## 20 stocks to watch on Monday: Lenskart, Natco Pharma, Power Grid, GHCL, Sigachi and others
+Corporate developments across sectors include stake-sale plans in Lenskart, regulatory updates for pharma companies, major power and infrastructure orders, new manufacturing investments, strategic partnerships, preferential issues, and expansion initiatives by several listed companies
+
+## Oil prices slip over $1 as US weighs ‘D-Day’ Iran sanctions; Strait of Hormuz shipping risks in focus
+In the lead-up to impending US sanctions on Iran, oil prices fell as investors capitalized on recent gains. As Washington prepares to unveil its most stringent measures Monday, the potential for disruptions in Middle Eastern oil supply looms large. Iran's rejection of these sanctions, coupled with i
 
 ## Shriram bullish on CV growth despite recent price hikes
 
@@ -81,32 +84,41 @@ NASA researchers discover microbes that can survive the harsh conditions of the 
 ## Syed Akbaruddin, Annie George Mathew, Janmejaya Kumar Sinha on RBI board
 
 
-## Cost pressure: Carmakers see strong sales but lower profits
-Rising Commodity Prices, Adverse Forex Movements Take Toll
+## 19-year-old killed, friend injured after truck hits motorcycle on Delhi's Indraprastha flyover
+A police team reached the spot and found a motorcycle lying in a damaged condition and two people seriously injured. One of them died in the hospital.
 
-## Two MLAs among six injured in car crash near PWD office in Delhi
-The Innova was carrying Anil Jha, the sitting MLA from Kirari, and Abhay Patil, an MLA from Karnataka.
+## 'Trouble proving citizenship after representing India in 3 countries': Ex-envoy to ECI over Punjab SIR
+Suri served as India’s ambassador to the UAE and Egypt and high commissioner to Australia.
 
-## Operation Sindoor, Wagah-Attari shut: How 150 Pakistani-Sindhi brides reached India amid strained ties
-The tensions between India and Pakistan following Operation Sindoor had reportedly put the weddings of at least 150 Pakistani women on hold.
+## Delhi health minister to hold meeting today as H1N1 cases rise to almost 1,800
+The Capital has recorded 2,392 influenza-A cases this year. Of this, H1N1 is the predominant subtype, accounting for 1,777 cases.
 
-## Several detained after 300 people gathered at Delhi's Connaught Place to protest reservation
-Over 20 people, who had gathered for the stir at Connaught Place, were detained and removed because no permission had been granted for the agitation.
+## Terror plot foiled in Chandigarh: 3 held with DIY bomb, firearm, 5 kg gelatin sticks in tiffin box near bus stand
+The apprehended three people were believed to have links with the Babbar Khalsa International (BKI), a Khalistani separatist terrorist organisation.
 
-## Stray dog attacks, bites 5-year-old girl in Rajasthan’s Kota; incident caught on cam
-The girl was in a lane outside her house when the dog charged at her, knocking her down and biting her multiple times as she screamed and cried.
+## 2 teachers, 15-year-old student drown in waterfall pool in Madhya Pradesh
+People present at the site rescued three students in time, but two teachers and a student drowned.
 
-## Denied US tour permission, Telangana CM Revanth Reddy to return to Hyderabad
-CM Reddy was scheduled to travel from London to Boston. However, following the denial of permission by the MEA, he said he would board a flight to Hyderabad.
+## 22 missing, 2 rescued after China-bound cargo ship sinks off Odisha coast; rescue ops underway
+The China-bound vessel left Paradip Port on Friday. It reportedly sank in deep waters of the Bay of Bengal on Saturday.
 
-## CPI(M) accuses ED of ‘politically targeting’ Pinarayi Vijayan in money laundering case
-CPI(M) state secretary M V Govindan alleged that the ED was conducting the investigation with an ulterior political motive.
+## 2 MLAs among several injured after car crashes into SUV in Delhi
+Delhi's Anil Jha and Karnataka's Abhay Patil were injured after a Swift car crossed a divider and collided with an Innova.
 
-## Maharashtra teen who died over iPhone attempted suicide from same cliff in 2025 too
-Three members of a family died at Khavda Hill in the Tisgaon area after an alleged domestic dispute over an iPhone.
+## PM Modi says India can ‘very quickly’ make its place in global space sector: ‘We must create an aura that…’
+PM Modi urged private space firms to build an ecosystem that attracts global talent and investment, as India targets a larger share in the space economy
 
-## Ajit Doval to visit China for boundary talks ahead of Xi’s India trip
-Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month
+## Building the Future: How BTRi Is Positioning Hong Kong as the Global Gateway for Construction Innovation
+[The content of this article has been produced by our advertising partner.] Hong Kong is pursuing its most ambitious development agenda in a generation, led by the Northern Metropolis, with the backing of the Hong Kong’s First Five-Year Plan which proactively aligns with the national development str
+
+## A rural city, once known for livestock, now provides China’s AI computing fuel
+For generations, Ulanqab – a city several hundred kilometres northwest of Beijing whose Mongolian name means “red cliff pass” – was known for its windswept pastureland, where cattle grazed and potatoes thrived under long hours of sunlight. Its economy hinged on the weather, driven by the cool, stron
+
+## Alibaba sets price in US$10.2b billion new share offer, drops 10% on market open
+Alibaba Group Holding has set the offer price for its new share placement at HK$112.70 each to raise HK$80 billion (US$10.2 billion), issuing 710 million shares in one of the largest artificial intelligence-dedicated fundraising efforts by a Chinese technology firm. The price represented an 8.4 per 
+
+## Shein seeks to raise up to US$1.76 billion in Hong Kong initial public offering
+Fast-fashion retailer Shein Global Holdings is seeking to raise as much as HK$13.85 billion (US$1.76 billion) in a Hong Kong initial public offering (IPO) that was initially planned four years ago. Shein will sell 279 million shares at HK$47.6 to HK$49.5 each, according to a filing to the city’s sto
 
 ## Yuan, Hong Kong dollar bonds surge as issuers seek cheaper funding amid rising US costs
 Hong Kong and mainland China are set to see continued growth in bond issuance denominated in Hong Kong dollars or the yuan through the rest of the year, as issuers reduce their reliance on US dollar-denominated bonds and seek cheaper funding costs, according to a senior executive at Standard Charter
@@ -119,18 +131,6 @@ Barry Eichengreen is a leading American economist and one of the world’s forem
 
 ## Wall Street helped build modern China. But is it now being cast aside?
 For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
-
-## ‘Huge influx’: expat retirees projected to drive Hong Kong’s premium home demand
-Hong Kong is tipped to see more luxury home sales with expatriates increasingly choosing the city as their retirement base, drawn to its low-tax environment as well as business opportunities, according to analysts. “A huge influx of expats who used to live in Hong Kong are moving back with a long-te
-
-## After gaining EV dominance, Chinese carmakers shift goal to take on full-hybrid behemoths
-Chinese carmakers, already at the vanguard of electric vehicle (EV) technology and production, are looking to make a dent in international marques’ full-hybrid vehicle stronghold as they continue to disrupt the global car industry’s pecking order. Major car builders including Geely Auto and Changan 
-
-## Exodus from New Territories brownfield relieves pressure on industrial property market
-For years, brownfield sites in Hong Kong’s New Territories have hosted a range of businesses looking for cheap space – from storage depots to recycling centres to scrapyards. Now, the massive Northern Metropolis project is forcing many of these brownfield tenants to relocate, lifting demand for floo
-
-## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
-In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Can Kenya’s AI ambitions coexist with Naivasha’s water needs?
+As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.
+
+## Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives
+Case fatality rate climbs to nearly 48 percent in DRC, meaning almost one in two people infected with Ebola are dying.
+
+## India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi
+The Cockroach Janta Party’s ‘Fix the Schools’ campaign in India is facing pushback from BJP leaders and supporters.
+
 ## Large forest fire burns close to residential areas in Ankara
 A large forest fire is threatening homes near residential areas of Mamak on the outskirts of the Turkish capital.
 
@@ -242,15 +251,6 @@ Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third success
 
 ## Will Donald Trump’s new sanctions against Iran work?
 The US president says he will impose 'crushing measures' on Tehran.
-
-## Serbia requests international assistance to battle wildfires
-Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.
-
-## US envoy Tom Barrack retracts comment that Syria’s Golan is occupied
-Ambassador to Turkiye says US policy of recognising Israel's claimed sovereignty over Syrian territory is 'unchanged'.
-
-## Landfill collapse kills 30 in Guinea’s capital after heavy rains
-A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
