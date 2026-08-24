@@ -3,6 +3,12 @@
 ## Reform UK’s ‘Farage Fest’ went ahead without permission from council
 Organisers face potential enforcement after rally to celebrate leader’s Clacton by-election win was denied an events licence
 
+## Starmer considered letting 100,000 young Europeans come to UK every year
+British officials reveal sweeping Brussels negotiating plan drawn up in former prime minister’s last days in office
+
+## Trump says US to increase tariffs on Canadian cars to 50%
+Move marks further escalation of Washington’s trade war with Ottawa
+
 ## Class wars and the midterms
 The US economic conversation is expanding to include things such as corruption and the Wall Street-Main Street divide
 
@@ -18,14 +24,14 @@ For the first time, a US court will try one of those alleged to be responsible f
 ## French finance minister warns tax on big businesses may be extended
 Roland Lescure says it would be ‘difficult’ to scrap unpopular surcharge on country’s largest firms
 
-## Harry Potter and the risk of geopolitics
-European banks write fan fiction
-
-## An offer Canada could only refuse
-Saint Mark Carney’s canonisation owes much to Donald Trump’s inept bullying
+## As dieters slim down, protein prices bulk up
+A lot of people are finding an appetite for whey
 
 ## FT Financial Literacy and Inclusion Campaign
 The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
+
+## Harry Potter and the risk of geopolitics
+European banks write fan fiction
 
 ## Ukraine hits Russia’s second-largest online retailer
 Kyiv’s drones target Ozon warehouses after weeks of strikes against market leader Wildberries
@@ -36,35 +42,32 @@ Tehran said vessels violated protocols for travelling across waterway and could 
 ## FirstFT: An economic D-Day is coming for Iran
 Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
 
-## Hedge fund Saba takes on Baillie Gifford in new board battle
-Boaz Weinstein’s activist fund has been waging a campaign against UK investment trusts
+## Ironhill onboards Anirudh Ravichander as investor through Albuquerque Records
+The investment in Ironhill marks Anirudh’s second foray into the global hospitality and F&B sector after Loca Loka Tequila
 
-## Shein seeks $27bn valuation from Hong Kong IPO
-Market capitalisation is nearly three-quarters below peak after retailer’s attempts to list in New York and London failed
+## Broker’s call: Concor (Add)
+JM Financial
 
-## Foreign airlines knock DGCA’s doors for dangerous goods carriage permit
-This follows the implementation of a new regulation regarding the transport of dangerous goods to and from India last week
+## SC notice on plea for CBI probe into Jharkhand exam irregularities
+Accountability should be fixed and wrongdoers brought to justice despite the State government’s move to cancel the examination, the petition argues
 
-## InvIT investor base rises 17% in June quarter, distributions up 15%
-Distributions to unitholders rose 15 per cent on-year to ₹5,923 crore in the June quarter
+## Globe Enterprises (India) Limited Reports 33 Percent Revenue Growth in Q1 FY27; Order Book Provides Visibility for Q2
 
-## Farmers’ leader Malla Reddy passes away
-Considered to be a walking encyclopaedia on Indian agriculture, with a particular focus on farming issues in Telangana and Andhra Pradesh, Reddy wrote hundreds of academic-standard articles.
 
-## Ten years of UPI: From a payment tool to India's economic Spine
-There are technologies that change what we do. And then there are technologies that quietly change what we believe is possible. UPI belongs to the second category.
+## How to Get an Instant Credit Card with JioFinance Without Any Credit History
 
-## Delay in depositing TDS: Company under liquidation ordered to pay fine, MD to pay fine, undergo jail term
-The matter relates to a Noida-based company, Naftogaz India, defaulting in depositing TDS amounting to over ₹17.68 crore for FY10 within the timeline prescribed under the IT Act
 
-## India may miss target of achieving exports worth $1 trillion during 2026-27 due to global uncertainties and tariff war, says NITI Aayog Vice-Chairman Ashok Kumar Lahiri
-Lahiri pointed out that the country needs to diversify its export basket, “States of origin” and export destinations in order to grow its shipments amid geopolitical uncertainties.
+## Curis Lifesciences Charts a New Growth Path with Uninova, Export Markets and Branded Pharma Expansion
 
-## MRPL says no single geography, supplier or route decisive for crude sourcing
-The company’s crude oil sourcing from West Asia came down from around 66% in 2022-23 to around 27% during the first quarter of 2026-27
 
-## Ramco Cements no longer to pay tax on mineral-bearing land
-The company had been paying ₹160 per tonne of limestone to the Tamil Nadu government, it said
+## From Forecasts to Foresight: CROSSDIVE 2026 to Examine India’s Next Decade
+Business leaders, policymakers, researchers and global practitioners will gather in Pune to explore the forces reshaping markets, organisations and society.
+
+## Pocket
+
+
+## US stock market today: Wall Street subdued ahead of key earnings; bond market in focus
+On Monday, the yield on the 10-year Treasury fell to 4.70%, from 4.74% late Friday. It was also back below its level from late Tuesday, before the US Treasury Department unveiled its unexpected buyback announcement.
 
 ## UPI instant payments network grows from 1.78 cr annual transactions to 24,162 crore
 India's Unified Payments Interface (UPI) is currently facilitating an impressive 66 crore transactions each day. Since 2016, the growth in its transaction volume has skyrocketed by an astounding 13,000 times. UPI has established itself as a foundational component of India's digital public infrastruc
@@ -87,8 +90,17 @@ Speaking to business representatives from India and Japan, Goyal said India has 
 ## Stocks to buy: What's the outlook for Nifty for August 24-August 28 week? Check list of top stock recommendations
 Stock market recommendations: Viyash Scientific, and AU Small Finance Bank - have been picked as the top stocks to buy on August 24, 2026 by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities.
 
-## Gold price prediction today: Worst of gold price dips over? Check outlook for August 24, 2026 week
-Gold price prediction today: Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, which are expected to remain key drivers for gold prices in the near term.
+## 'Dear stunt master': Congress takes dig at Kiren Rijiju over Arunachal river post, Rahul Gandhi fitness jibe
+Drawing a comparison with Rahul Gandhi, Kiren Rijiju said the Congress leader may need training for such activities, while for him, it was part of his routine.
+
+## Centre highlights ‘Kanda Express’ move as Congress slams ‘skyrocketing’ onion prices
+Commerce secretary Nidhi Khare said that the buffer onion will be sold at a subsidised rate of ₹35 per kilogram in select consuming centres.
+
+## FDA suspends licenses of restaurants in Mumbai Cricket Association premises over 'hygiene' issues
+The five MCA outlets facing the Maharashtra FDA action are the Permit Room, Pavilion, Mediterranean, Oriental Swing, and Clubway & Pastry Counter.
+
+## TMC moves Supreme Court over delay in disqualification decision on 20 rebel MPs; hearing on August 25
+TMC general secretary Abhishek Banerjee, in a plea before the top court, has sought an expeditious decision on the same by Lok Sabha Speaker Om Birla.
 
 ## Landslide disrupts NH-520 in Odisha; IMD issues orange alerts in 6 districts
 Keonjhar superintendent of police Nitin Kushalkar urged commuters travelling between Barbil and Rajamunda to exercise caution
@@ -101,18 +113,6 @@ CEC Gyanesh Kumar encouraged young people to actively participate in the democra
 
 ## Meghalaya govt invites KSU for talks as Assam border tensions ease
 Presenting a suo-motu statement on the opening day of the autumn session, Sangma said the government acted swiftly
-
-## ‘We are a poor family’: Father of Indian national shot dead in New York seeks justice
-The victim, Gurdeep Singh, passed away in the untimely incident, prompting the Consulate General of India in New York to reach out to the bereaved family
-
-## Tarique Rahman's cancelled Delhi visit says a lot about Bangladesh and its tragic short-sightedness
-Bangladesh's own war games treat India as the adversary; India's war games don't feature Bangladesh — only China and Pakistan do. That asymmetry says plenty.
-
-## Russian President Vladimir Putin expresses hope to meet PM Modi soon as he hosts EAM S Jaishankar
-S Jaishankar, who arrived in Moscow on Sunday, is on a two-day visit to Russia
-
-## Tarun Tejpal must surrender, seek exemption before appeal is heard: Goa tells SC
-Senior advocate Kapil Sibal insisted that the requirement to surrender did not apply since the high court had given him four weeks to surrender
 
 ## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
 Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
@@ -138,6 +138,12 @@ China’s battery king Contemporary Amperex Technology Limited (CATL) is enablin
 ## Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?
 China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market. CCSH Corporation, parent of China’s top NAND flash maker, planned to sell
 
+## Where Is King Abdullah?
+Facing regional turmoil and domestic criticism, Jordan’s ruler is spending more time overseas and less time talking to the press.
+
+## Germany’s Firewall Has Completely Failed
+Attempts to ostracize the AfD has fueled both the rise and radicalization of Germany’s far-right party.
+
 ## Washington Is Creating Forever Enemies
 The United States must learn to forget the pain of humiliation.
 
@@ -155,12 +161,6 @@ Anton Jager explains why record voter turnout isn’t leading to systemic change
 
 ## Who Reaps the Benefits of India’s Growth?
 Early policy choices shaped the inequity and employment challenges facing the country today.
-
-## A Land Without the Troubles?
-Northern Ireland’s most outlandish plan comes to fruition in Jan Carson’s new novel.
-
-## The Bolsonaro Inheritance
-Nepotism could tank the far right’s chances in Brazil.
 
 ## Why Singapore’s Growing Political Diversity Matters
 The city-state's civil society has grown considerably over the past decade. It also reflects an increasingly broad spectrum of opinion about issues foreign and domestic.
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Algeria’s schools put Shakespeare before Molière in break from France
+Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
+
 ## Rain and flooding from Typhoon Narra hits China and Vietnam
 Rain and flooding from Typhoon Narra hits China and Vietnam
 
@@ -254,9 +257,6 @@ Pro-Palestine activists from the ‘People Against Genocide’ group occupied a 
 
 ## Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud
 Kanter was ejected from the Indiana-Chicago WNBA game after he was confronted by Sky guard Natasha Cloud on court.
-
-## Israel accused of using kites as pretext to justify escalating Gaza attacks
-Israel has threatened Palestinian groups against launching 'kites, drones, and balloons' from the war-torn enclave.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
