@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance
+British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration
+
+## High asset prices, not low interest rates, are driving inflation
+Wealth distribution in the US has rendered the Federal Reserve’s usual tools less effective
+
+## Revisiting the Lockerbie bombing, 37 years later
+For the first time, a US court will try one of those alleged to be responsible for the attack
+
 ## French finance minister warns tax on big businesses may be extended
 Roland Lescure says it would be ‘difficult’ to scrap unpopular surcharge on country’s largest firms
 
@@ -15,11 +24,8 @@ Kyiv’s drones target Ozon warehouses after weeks of strikes against market lea
 ## Iran threatens 46 ships in Strait of Hormuz transit crackdown
 Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation
 
-## Burnham visits Ukraine with pledge of support for long-range missile construction
-UK prime minister will shrug off warnings from Russia in first overseas visit
-
-## Cold Sunset — the entertaining return of William Boyd’s reluctant spy
-The third instalment in the Gabriel Dax series combines psychological tension and paranoia with irony and humour
+## FT Financial Literacy and Inclusion Campaign
+The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
 
 ## FirstFT: An economic D-Day is coming for Iran
 Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
@@ -30,41 +36,29 @@ Boaz Weinstein’s activist fund has been waging a campaign against UK investmen
 ## Shein seeks $27bn valuation from Hong Kong IPO
 Market capitalisation is nearly three-quarters below peak after retailer’s attempts to list in New York and London failed
 
-## Thames Water creditors plan board shake-up if utility avoids nationalisation
-Move aims to reassure government there would be a change of leadership under their ownership
+## J&K eyes economy doubling with new investment, growth drivers
+Officials involved in the exercise said the focus is expected to be on identifying sectors capable of generating sustained investment, employment and productivity gains, rather than relying on a single industry to drive growth.
 
-## KPMG Australia cuts hundreds of workers and partner pay after audit scandal
-Big Four firm to let go of 5% of country staff and reduce compensation by 13% as consulting revenue tanks
-
-## Can AI glasses replace the smartphone?
-Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
-
-## Saudi Arabia holds talks over state-backed war insurance as costs jump
-Insurers have raised prices or restricted coverage for ships and other firms in the region owing to Iran conflict and Houthi attacks
-
-## TN seeks ‘proportionate’ Cauvery water, SC advises State to take it up with CWMA
-Justice Nath said then Tamil Nadu must raise the issue with the CWMA itself, adding that “here the issue was about Karnataka not giving you water at all”.
+## Shanti Inorganics to raise ₹47 crore via IPO on NSE Emerge
+The company will issue 56.91 lakh equity shares in the price band of ₹79 - ₹83 per share
 
 ## Bajaj Auto plans 2 new brands, 3 products in FY27 portfolio reset
 Bajaj Auto is giving its ₹11,000-crore Pulsar brand a major makeover and launching new motorcycles, hoping to revive domestic sales while maintaining profitability
 
-## ‘Investors need to look beyond trailing returns’
-Kulkarni felt that the biggest challenge for Mutual Funds industry is to make communication with common investors simpler
+## Tempsens IPO closes at 184x subscription on final day
+Non-Institutional Investors (NIIs) led the demand at 294.08 times subscription, with the over-₹10 lakh category clocking 311.65 times
 
-## Tata Capital signs MoU with Japan’s Resona Bank
-The primary objective of the business collaboration is to leverage their respective strengths in the Indian market
+## Swara Baby eyes ₹558 crore plant as IPO approaches
+IPO proceeds to part-fund capacity expansion for baby diapers, adult diapers and sanitary napkins
 
-## Chandigarh University Provides In-House Training for Civil Services, Defence, Management, Banking & PSUs
-Chandigarh University Provides In-House Training for Civil Services, Defence, Management, Banking & PSUs
+## Gourmet Popcornica launches 2 non-GMO hybrid popcorn maize seeds
+CP Radhakrishnan, Vice President of India, launches ‘Krisna459’ and ‘Godari234’ at Gourmet Popcornica’s factory in Musunuru in Andhra Pradesh
 
-## Sensex today | Stock Market Highlights: Stock markets end lower amid simmering geopolitical tensions, elevated crude oil prices
-Sensex, Nifty, Share Prices Highlights: Benchmark equity indices Sensex and Nifty ended lower on Monday as persistent geopolitical tensions and elevated crude oil prices hampered risk appetite. Investors remained cautious ahead of fresh US sanctions on Iran, experts said.
+## Global Sea Surface Temperature breaks record as El Nino gains strength
+Global reading reaches 21.1°C, surpassing the previous record set in 2024, says Copernicus report
 
-## Skyways Air Services IPO opens today: Apply or Avoid?
-See SBI Securities, Religare views and anchor investors
-
-## Lalithaa Jewellery shares end with 24% listing gains, Horizon Ind ends below ₹60-IPO price
-Lalithaa Jewellery stock began trading at ₹265 on the NSE and ₹265.30 on the BSE
+## TN seeks ‘proportionate’ Cauvery water, SC advises State to take it up with CWMA
+Justice Nath said then Tamil Nadu must raise the issue with the CWMA itself, adding that “here the issue was about Karnataka not giving you water at all”.
 
 ## UPI instant payments network grows from 1.78 cr annual transactions to 24,162 crore
 India's Unified Payments Interface (UPI) is currently facilitating an impressive 66 crore transactions each day. Since 2016, the growth in its transaction volume has skyrocketed by an astounding 13,000 times. UPI has established itself as a foundational component of India's digital public infrastruc
@@ -90,29 +84,32 @@ Stock market recommendations: Viyash Scientific, and AU Small Finance Bank - hav
 ## Gold price prediction today: Worst of gold price dips over? Check outlook for August 24, 2026 week
 Gold price prediction today: Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, which are expected to remain key drivers for gold prices in the near term.
 
+## Tarique Rahman's cancelled Delhi visit says a lot about Bangladesh and its tragic short-sightedness
+Bangladesh's own war games treat India as the adversary; India's war games don't feature Bangladesh — only China and Pakistan do. That asymmetry says plenty.
+
+## Russian President Vladimir Putin expresses hope to meet PM Modi soon as he hosts EAM S Jaishankar
+S Jaishankar, who arrived in Moscow on Sunday, is on a two-day visit to Russia
+
+## Tarun Tejpal must surrender, seek exemption before appeal is heard: Goa tells SC
+Senior advocate Kapil Sibal insisted that the requirement to surrender did not apply since the high court had given him four weeks to surrender
+
+## Calcutta High Court stays arrest warrant against TMC MP Mahua Moitra
+A division bench comprising Justices Debangsu Basak and Aryak Dutt directed that the matter be taken up again on August 27.
+
+## FM to leave for 8-day official trip to Canada, US; focus on deepening bilateral ties
+The dialogue is expected to cover macroeconomic developments, financial sector cooperation, bilateral investment opportunities, shared international priorities.
+
+## 'Disturbing': Shashi Tharoor flags report findings on 'conservative values' in Kerala's Saudi returnees
+The study shared by Tharoor finds that migrants returning from Saudi Arabia tend to exhibit “conservative values”, mentioning “gender-based violence”.
+
+## CJP announces march from India Gate to Delhi Police HQ on Sept 5 over ‘failed’ govt promises: ‘Good faith can’t…'
+The march will be led by families of deceased NEET victims and victims of police brutality that allegedly took place on July 20th ‘Sansad Chlao’ march.
+
 ## Tej Pratap Yadav’s workout with Mallika Sherawat in ‘Bhojpuri Bawaal’ goes viral
 Mallika Sherawat takes on the role of a fitness instructor, guiding Tej Pratap Yadav, the son of veteran leader Lalu Prasad Yadav, through yoga postures.
 
-## Maharashtra govt orders probe into Amravati hospital fire that killed 3 newborns
-Chief minister Devendra Fadnavis said that the strictest possible action will be taken against those found responsible
-
-## 'Insult to Telangana': Revanth Reddy on Centre's denial for US visit
-Revanth Reddy was denied political clearance for his US visit after the MEA said the trip did not meet established norms.
-
-## Gurugram offices, schools advised to 'work from home' amid heavy rain, waterlogging
-The order called on all corporate offices, government and private schools and institutions to guide their employees, staff to work from home on Tuesday.
-
-## SC bans construction within 100 metres of Rajasthan’s Jojari river edge
-The direction was issued in a suo motu petition regarding pollution of the Jojari river, which risked the lives of two million residents in the state
-
-## ‘Birthright to denounce India’s heritage’: Yogi Adityanath slams Rahul Gandhi over Manusmriti remarks
-UP chief minister Yogi Adityanath said Rahul Gandhi should be accountable to the country as the Leader of Opposition.
-
-## India cautious over Trump’s unpredictability; defends media meeting rules
-Discussions regarding arrangements for public appearances of leaders ahead of any VVIP visit are “normal practice”.
-
-## Govt ends loan licensing requirement for outsourced medical device sterilisation
-The government said it amended the Medical Devices Rules to promote ease of doing business and simplify regulatory processes
+## Kerry Properties targets Hong Kong sites, eyes luxury market as mainland growth slumps
+Kerry Properties is targeting Hong Kong residential land sales and will consider recycling capital from existing assets, betting on a tighter local housing supply even as China’s property downturn weighs on its mainland business. The developer said it acquired three residential sites in Hong Kong in
 
 ## Hang Seng Bank doubles down on wealth hubs despite Beijing’s tighter investment scrutiny
 Hang Seng Bank says it continues to invest in its wealth centre network to capture growing demand from high-net-worth clients, even as Hong Kong’s wealth management industry faces uncertainty amid Beijing’s tighter scrutiny of mainland Chinese investors’ cross-border investments. The Hong Kong lende
@@ -134,9 +131,6 @@ China is gearing up for what could become its next record-breaking semiconductor
 
 ## Investment market volatility ‘here to stay’ unless global recession strikes: analyst
 Wealthy investors should be ready for higher volatility “for years” as uncertainties around artificial intelligence development and geopolitical risks are set to persist, according to a major private bank. In the past few years, asset prices underwent several roller coaster rides, from US Liberation
-
-## Building the Future: How BTRi Is Positioning Hong Kong as the Global Gateway for Construction Innovation
-[The content of this article has been produced by our advertising partner.] Hong Kong is pursuing its most ambitious development agenda in a generation, led by the Northern Metropolis, with the backing of the Hong Kong’s First Five-Year Plan which proactively aligns with the national development str
 
 ## Washington Is Creating Forever Enemies
 The United States must learn to forget the pain of humiliation.
@@ -234,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Korea says US cancelled upcoming joint marine exercises over Iran war
+The cancellation follows Trump's surprise order last week to scale back a separate annual joint military drill.
+
+## Activists occupy UK aircraft parts factory over Israel links
+Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.
+
+## Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud
+Kanter was ejected from the Indiana-Chicago WNBA game after he was confronted by Sky guard Natasha Cloud on court.
+
+## Israel accused of using kites as pretext to justify escalating Gaza attacks
+Israel has threatened Palestinian groups against launching 'kites, drones, and balloons' from the war-torn enclave.
+
+## Cambuur fans suffer burns as fireworks set off during Dutch league match
+Game resumed despite injuries to home fans, but it would have been abandoned if a player or match official had been hit.
+
 ## Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry
 A landfill collapse in Conakry kills 30, injures six, and destroys homes after heavy rains in Guinea's capital.
 
@@ -242,21 +251,6 @@ Security forces used tear gas, pellet guns and electric shock devices against st
 
 ## Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision
 AVROTROS says escalating international conflicts are undermining the event's neutrality and fuelling divisions.
-
-## US threatens toughest sanctions yet against Iran: What we know
-Tehran has threatened to retaliate against any country that joins new US economic measures.
-
-## Ukraine’s offensive against Russia causes petrol panic across Central Asia
-War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia's allies.
-
-## US military says strike on alleged drug-smuggling boat kills two
-US Southern Command says Sunday's strike targeted vessel operating along established narco-trafficking routes.
-
-## Dozens of coordinated arson attacks carried out across Thailand
-Dozens of coordinated arson attacks carried out across Thailand
-
-## Macron and MBS attend Esports World Cup closing ceremony
-Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
