@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Treasury brings in expert to review business rates for UK pubs and hotels
+Jerry Schurder will consult industry and report in time for recommendations to be implemented at next revaluation in 2029
+
+## Burnham to pledge support for long-range missile construction in Ukraine
+UK prime minister will shrug off warnings from Russia in first overseas visit
+
+## Scottish state bank records £138mn loss on back of failed investments
+Fifth consecutive full-year loss exposes tension in mandate of lender set up by SNP-led government
+
 ## An economic D-Day is coming for Iran
 Countries that calculate appeasement of the regime to be a safer choice should reconsider
 
@@ -15,17 +24,11 @@ Economists criticise Fed chair’s communication strategy as policymakers prepar
 ## Yahoo, the internet’s ‘OG’, wants to win over Gen Z
 Group’s chief says vintage web name can help draw younger users
 
-## Why every French politician is now a Gaullist
-The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy
-
 ## Trump accused of risking more pain for Americans with Canada trade war
 Collapse of talks threatens to raise prices even higher months before midterm election
 
 ## A week of keynote speeches
 Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talks monetary policy at Jackson Hole and investors await Nvidia earnings call
-
-## Scottish state bank records £138mn loss on back of failed investments
-Fifth consecutive full-year loss exposes tension in mandate of lender set up by SNP-led government
 
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
@@ -33,29 +36,41 @@ Security chiefs brief energy bosses with ‘advice, direction and next steps’ 
 ## Government can bring robotics to life
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-## SEBI may assess NSE liquidity before allowing bourse to trade its own shares
-The move could allow the NSE to trade its shares on its own platform without listing there itself
+## What will it take for India to become a global medtech manufacturing hub?
+India must build a stronger medtech ecosystem of component manufacturers and specialised suppliers
 
-## Uttar Pradesh tops in mopping up through taxes
-All the 10 States have shown collection from GST increasing despite rate rationalization and doing away with compensation
+## Clearing the air on brain death
+India’s new brainstem death guidelines seek to decouple brain death from organ donation
 
-## Small-cap fund stress at 2-year low as liquidity improves
-Small-cap winners shrink: Just 37% beat the index in an eight-year low
+## When a robot draws your blood
+The FDA approves Aletta, a robotic device for autonomous blood draws
 
-## Below the Line
+## HYROX training, non-negotiable protein, and podcasts to help unwind
+Diary of daily fitness
+
+## Campaign for clean air
+Campaign seeks to highlight the economic benefits of tackling air pollution and climate action
+
+## US reviews childhood vaccines
+US reviews childhood vaccine policies amid concerns over potential reduced protection against serious diseases
+
+## Is the colour of money changing the healthcare landscape
+Does corporatisation make a hospital less care-oriented and more profit-centric?
+
+## Moon-landing microbes
+NASA researchers discover microbes that can survive the harsh conditions of the moon
+
+## Shriram bullish on CV growth despite recent price hikes
 
 
-## Editorial. Tribunal autonomy
-Tribunal Reforms Bill reinforces executive control
+## India eyes enhancing trade pact with Chile
 
-## CBI books former Director of Flying Training Capt Anil Gill on corruption charges
-Gill is alleged to have facilitated procurement of training aircraft at nominal prices through benami/shell entities managed by his close relatives
 
-## The surge in solar cell imports needs to be curbed
-Every imported cell assembled into a module represents demand that could have been met by an Indian cell manufacturer
+## Weakness in currency can create negative loop: HSBC
 
-## India’s Thatcher moments
-At what point do political parties decide to replace their powerful leaders?
+
+## FPIs accelerate buying: Invest 23.5k crore in August
+
 
 ## Government looks to deepen trade ties with Japan
 
@@ -63,23 +78,11 @@ At what point do political parties decide to replace their powerful leaders?
 ## Nifty 500 cos earnings jump 13% in Q1, OMCs feel West Asia heat
 
 
+## Syed Akbaruddin, Annie George Mathew, Janmejaya Kumar Sinha on RBI board
+
+
 ## Cost pressure: Carmakers see strong sales but lower profits
 Rising Commodity Prices, Adverse Forex Movements Take Toll
-
-## India projected to surpass China in affluent consumers by 2036 : Report
-
-
-## Onion prices surge; Centre to roll out Kanda Express from Monday
-
-
-## Govt to tighten vehicle lighting rules: Low-beam-only bikes, reduced headlamp glare
-
-
-## India’s derivatives market gets a Gen Z makeover, but losses pile up: Sebi
-Recent trends indicate that traders aged under thirty now make up an impressive forty-three percent of all participants in the derivatives sector. Interestingly, individuals earning less than five lakh rupees a year are leading the market's activities. Moreover, there has been a notable rise in inve
-
-## FPIs turn buyers again: Foreign investors pour Rs 23,544 crore into Indian equities in August
-In August, foreign portfolio investors made a notable comeback to Indian equities, infusing a substantial Rs 23,544 crore. This resurgence follows earlier trends where significant amounts were pulled out. Positive quarterly earnings and a stable rupee have rekindled enthusiasm for Indian stocks. Non
 
 ## Two MLAs among six injured in car crash near PWD office in Delhi
 The Innova was carrying Anil Jha, the sitting MLA from Kirari, and Abhay Patil, an MLA from Karnataka.
@@ -105,6 +108,9 @@ Three members of a family died at Khavda Hill in the Tisgaon area after an alleg
 ## Ajit Doval to visit China for boundary talks ahead of Xi’s India trip
 Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month
 
+## Yuan, Hong Kong dollar bonds surge as issuers seek cheaper funding amid rising US costs
+Hong Kong and mainland China are set to see continued growth in bond issuance denominated in Hong Kong dollars or the yuan through the rest of the year, as issuers reduce their reliance on US dollar-denominated bonds and seek cheaper funding costs, according to a senior executive at Standard Charter
+
 ## Hong Kong homebuyers snap up units at The Sterling as value-focused demand deepens
 Hong Kong homebuyers are still willing to spend, and the sell-out of a major new development on Saturday showed how demand is increasingly concentrated in projects that offer clear value as the housing recovery enters a more mature phase. China Resources Land’s The Sterling in southwestern Kowloon, 
 
@@ -125,9 +131,6 @@ For years, brownfield sites in Hong Kong’s New Territories have hosted a range
 
 ## Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent
 In the high-stakes battle for China’s top talent, domestic tech companies – especially in semiconductors and artificial intelligence – are rolling out aggressive equity incentive plans as they capitalise on a bull market to retain key personnel. Recent corporate filings revealed an unprecedented wav
-
-## Components crunch: China’s carmakers face rising costs to keep intelligence edge
-Chinese smart vehicle makers have been hit by another setback as a global components shortage collides with surging prices of raw materials, driven by the artificial intelligence boom. It would take at least a year for the global supply chain to ramp up production of printed circuit boards (PCBs) an
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -225,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Large forest fire burns close to residential areas in Ankara
+A large forest fire is threatening homes near residential areas of Mamak on the outskirts of the Turkish capital.
+
+## Tokayev allies head for landslide victory in Kazakhstan elections
+Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.
+
+## Iran war live: Iranian parliament advances plans for Hormuz service fees
+Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.
+
 ## Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
 Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.
 
@@ -239,15 +251,6 @@ Ambassador to Turkiye says US policy of recognising Israel's claimed sovereignty
 
 ## Landfill collapse kills 30 in Guinea’s capital after heavy rains
 A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes.
-
-## Is Israel about to split the occupied West Bank in half?
-Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?
-
-## Severe winds toss four aircraft across Italian airport tarmac
-Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.
-
-## Photos: IndyCars speed past Washington landmarks as part of Freedom 250
-Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
