@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## French finance minister warns tax on big businesses may be extended
+Roland Lescure says it would be ‘difficult’ to scrap unpopular surcharge on country’s largest firms
+
+## Harry Potter and the risk of geopolitics
+European banks write fan fiction
+
+## An offer Canada could only refuse
+Saint Mark Carney’s canonisation owes much to Donald Trump’s inept bullying
+
+## Ukraine hits Russia’s second-largest online retailer
+Kyiv’s drones target Ozon warehouses after weeks of strikes against market leader Wildberries
+
 ## Iran threatens 46 ships in Strait of Hormuz transit crackdown
 Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation
 
@@ -12,20 +24,11 @@ The third instalment in the Gabriel Dax series combines psychological tension an
 ## FirstFT: An economic D-Day is coming for Iran
 Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
 
-## South American trade bloc mounts dealmaking push to hedge geopolitical risks
-EU deal heralds renewed engagement for historically insular Mercosur group despite regional divisions
-
-## The new world order? Every man for himself
-Now that America has hung up its hat when it comes to championing democracy, it is springtime for tyrants
-
-## Policing needs independence — but politicians must still set priorities
-Home secretaries have tended to delegate and forget policy decisions
+## Hedge fund Saba takes on Baillie Gifford in new board battle
+Boaz Weinstein’s activist fund has been waging a campaign against UK investment trusts
 
 ## Shein seeks $27bn valuation from Hong Kong IPO
 Market capitalisation is nearly three-quarters below peak after retailer’s attempts to list in New York and London failed
-
-## Hedge fund Saba takes on Baillie Gifford in new board battle
-Boaz Weinstein’s activist fund has been waging a campaign against UK investment trusts
 
 ## Thames Water creditors plan board shake-up if utility avoids nationalisation
 Move aims to reassure government there would be a change of leadership under their ownership
@@ -38,6 +41,9 @@ Big Tech thinks wearables are the gateway to artificial intelligence. Critics ca
 
 ## Saudi Arabia holds talks over state-backed war insurance as costs jump
 Insurers have raised prices or restricted coverage for ships and other firms in the region owing to Iran conflict and Houthi attacks
+
+## TN seeks ‘proportionate’ Cauvery water, SC advises State to take it up with CWMA
+Justice Nath said then Tamil Nadu must raise the issue with the CWMA itself, adding that “here the issue was about Karnataka not giving you water at all”.
 
 ## Bajaj Auto plans 2 new brands, 3 products in FY27 portfolio reset
 Bajaj Auto is giving its ₹11,000-crore Pulsar brand a major makeover and launching new motorcycles, hoping to revive domestic sales while maintaining profitability
@@ -60,8 +66,8 @@ See SBI Securities, Religare views and anchor investors
 ## Lalithaa Jewellery shares end with 24% listing gains, Horizon Ind ends below ₹60-IPO price
 Lalithaa Jewellery stock began trading at ₹265 on the NSE and ₹265.30 on the BSE
 
-## Rupee falls 3 paise to close at 95.74 against US dollar
-The rupee opened at 95.65, then touched an intraday high of 95.64 and a low of 95.75 and finally settled for the day at 95.74 (provisional) against the greenback
+## UPI instant payments network grows from 1.78 cr annual transactions to 24,162 crore
+India's Unified Payments Interface (UPI) is currently facilitating an impressive 66 crore transactions each day. Since 2016, the growth in its transaction volume has skyrocketed by an astounding 13,000 times. UPI has established itself as a foundational component of India's digital public infrastruc
 
 ## No relief for Rial: Iranian currency sinks to record low as US works on new sanctions
 Iran's rial reached a record low as the United States prepared new economic sanctions. Existing restrictions and a naval blockade have already severely impacted Iran's economy. The currency's decline has not yielded concessions from the US President. Iran and Oman are reportedly nearing an agreement
@@ -84,8 +90,17 @@ Stock market recommendations: Viyash Scientific, and AU Small Finance Bank - hav
 ## Gold price prediction today: Worst of gold price dips over? Check outlook for August 24, 2026 week
 Gold price prediction today: Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, which are expected to remain key drivers for gold prices in the near term.
 
-## Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus
-The rupee began the trading day on a stronger note against the US dollar, appreciating by seven paise to 95.64. Nonetheless, concerns over geopolitical tensions and steady demand from importers curbed significant gains. Compounded by elevated Brent crude prices, the rupee traded cautiously. Investor
+## Tej Pratap Yadav’s workout with Mallika Sherawat in ‘Bhojpuri Bawaal’ goes viral
+Mallika Sherawat takes on the role of a fitness instructor, guiding Tej Pratap Yadav, the son of veteran leader Lalu Prasad Yadav, through yoga postures.
+
+## Maharashtra govt orders probe into Amravati hospital fire that killed 3 newborns
+Chief minister Devendra Fadnavis said that the strictest possible action will be taken against those found responsible
+
+## 'Insult to Telangana': Revanth Reddy on Centre's denial for US visit
+Revanth Reddy was denied political clearance for his US visit after the MEA said the trip did not meet established norms.
+
+## Gurugram offices, schools advised to 'work from home' amid heavy rain, waterlogging
+The order called on all corporate offices, government and private schools and institutions to guide their employees, staff to work from home on Tuesday.
 
 ## SC bans construction within 100 metres of Rajasthan’s Jojari river edge
 The direction was issued in a suo motu petition regarding pollution of the Jojari river, which risked the lives of two million residents in the state
@@ -98,18 +113,6 @@ Discussions regarding arrangements for public appearances of leaders ahead of an
 
 ## Govt ends loan licensing requirement for outsourced medical device sterilisation
 The government said it amended the Medical Devices Rules to promote ease of doing business and simplify regulatory processes
-
-## Madras high court extends stay on 5 Tamil Nadu assembly bypolls. One was won by CM Vijay
-The court has extended the interim stay on notifying the bypolls till September 8 as election petitions challenging the victories are still pending.
-
-## Kerala man held for uploading intimate videos of wife, performing sex acts before minor daughter
-The complainant further stated that the husband also pushed for her to engage in "wife-swapping."
-
-## Waterlogged roads or a stream? Kids swim on streets, traffic snarls as heavy rain pounds Delhi-NCR
-This comes as Delhi has been placed under a red warning until at least 5pm on Monday, with heavy rain expected to continue to hit the capital.
-
-## ‘Does JPSC conduct judicial exam too?’ Worried SC asks on CBI probe plea
-The Supreme Court’s willingness to examine the plea comes amid a wider controversy over recruitment examinations in Jharkhand
 
 ## Hang Seng Bank doubles down on wealth hubs despite Beijing’s tighter investment scrutiny
 Hang Seng Bank says it continues to invest in its wealth centre network to capture growing demand from high-net-worth clients, even as Hong Kong’s wealth management industry faces uncertainty amid Beijing’s tighter scrutiny of mainland Chinese investors’ cross-border investments. The Hong Kong lende
@@ -231,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry
+A landfill collapse in Conakry kills 30, injures six, and destroys homes after heavy rains in Guinea's capital.
+
 ## India used pellets, grenades on Gen Z protests: What Amnesty report reveals
 Security forces used tear gas, pellet guns and electric shock devices against student protesters, Amnesty inquiry found.
 
@@ -251,9 +257,6 @@ Dozens of coordinated arson attacks carried out across Thailand
 
 ## Macron and MBS attend Esports World Cup closing ceremony
 Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
-
-## Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t
-Twenty-one cricket captains request PM Sharif's government to ensure Khan is given timely and independent medical care.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
