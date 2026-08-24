@@ -3,35 +3,41 @@
 ## Trump says US to increase tariffs on Canadian cars to 50%
 Move marks further escalation of Washington’s trade war with Ottawa
 
+## Burnham condemns Russia’s ‘outrageous threats’ to UK during Kyiv visit
+Prime minister pledges to back Ukraine on long-range missiles
+
+## SEC subpoenas Wall Street banks over Situational Awareness
+Leopold Aschenbrenner’s AI-focused hedge fund nearly collapsed in July before striking a deal with Citadel
+
+## US Supreme Court allows Trump restrictions on mail-in ballots
+Justices lift decision to block president’s order to restrict eligibility to a new federal list of voters
+
+## FirstFT: Shein targets $27bn valuation in Hong Kong IPO
+Also in this newsletter: US-Canada trade war erupts and Singapore’s effort to boost birth rates
+
+## Morgan Stanley and Schroders back Australia’s largest venture capital round
+Blackbird Ventures raises $750mn, with early-stage investor attracting US and UK funds
+
 ## First Brands forced into liquidation by bankruptcy court
 Federal judge in Texas said litigation trust plan floated by company and senior lenders ‘was unconfirmable under any circumstances’
 
 ## Burnham compromises on council homes plan
 Prime minister opts not to rip up programme drawn up under Sir Keir Starmer that mostly relies on housing associations
 
-## Scott Bessent threatens Iran’s economic partners with more sanctions
-US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action
-
-## Burnham rules out early election as he admits UK faces ‘challenging’ financial outlook
-Prime minister stops short of ruling out tax increases in October’s Budget, saying his policies will be ‘funded’
-
-## Treasury market interventions are only a band-aid
-Bessent’s moves on the yen and long-dated bonds do little to assuage markets long-term
+## Shein’s IPO pitch should be more Meta than H&M
+Its rivals are not just clothes retailers but any business that provides screen-addicted users with a dopamine hit
 
 ## UK seeks to tighten security of supply chains after Iran-linked cyber attack
 Potential veto poses challenge for energy companies reliant on Chinese supplies
 
-## Britain gains access to Ukraine battlefield data
-Trove of combat imagery used to train AI models to identify and strike Russian targets
+## Trump weighs 7.5% new tariff on China over excess industrial capacity
+Washington is considering another levy on Chinese goods as concerns over Beijing’s industrial capacity and surging exports intensify ahead of crucial trade talks
 
-## Shipping industry warns small battery exemption increases fire risk on vessels
-Container lines push regulator to change rules where laptops or power banks with batteries do not need to be declared
+## Canada to announce retaliatory tariffs against US as trade war escalates
+Ottawa is preparing a fresh response to Washington as trade negotiations collapse, raising fears of deeper disruption across highly integrated North American industries
 
-## How Shein’s $100bn dream unravelled
-Once high-flying fast-fashion retailer is listing in Hong Kong at quarter of peak value after years of false starts
-
-## As dieters slim down, protein prices bulk up
-A lot of people are finding an appetite for whey
+## Indian student applications to US colleges fall 15% amid tighter immigration policies
+Tighter visa rules and policy uncertainty are reshaping international education prospects, with fewer students from India and other countries applying
 
 ## West Bengal bars teacher-doctors from private practice for 72 hours after government hospital admission
 The new directive seeks to ensure treating faculty remain available to government hospital patients during the crucial period following admission.
@@ -48,14 +54,17 @@ The proposed project will combine large-scale digital infrastructure with green 
 ## Haryana pitches strategic partnership as MoUs worth ₹66,000 crore signed
 The state outlined sector-specific growth plans and measures aimed at attracting investment, strengthening industries and expanding economic opportunities across districts
 
-## Indian EVMs not connected to internet, Bluetooth or Wi-Fi, says CEC Gyanesh Kumar
-During his Lucknow visit, the Chief Election Commissioner discussed EVM reliability, electoral processes and the role of young citizens in democracy.
+## Government eyes 3000 crore by selling 6% in Hindustan Copper
 
-## India Post launches Dak Sewa app for doorstep postal services
-The digital platform is aimed at making postal services more accessible while helping India Post modernise operations and improve customer convenience nationwide
 
-## World’s oceans simmer at record heat, threatening marine life and food security
-Record-breaking ocean heat is raising concerns over worsening storms, collapsing fisheries, coral loss and growing risks to communities dependent on marine ecosystems
+## Government looks to add more AI partners for digital projects
+
+
+## Labour survey 2026 likely to track digital, platform workers
+
+
+## Canada to announce retaliatory tariffs against US after Trump warns of 'worse consequences'
+
 
 ## India a safe base, Piyush Goyal tells Japanese investors
 Cites Long List Of Trade Deals, Says Data Is Protected, Intellectual Property Is Secure
@@ -68,18 +77,6 @@ Cites Long List Of Trade Deals, Says Data Is Protected, Intellectual Property Is
 
 ## Russian President Putin says will continue fertiliser supplies to India
 
-
-## Trump admin set to revoke up to 2 lakh visas in historic crackdown
-
-
-## As onion prices rise, Centre readies retail intervention in Delhi-NCR
-
-
-## Stocking, speculation behind ‘unnatural’ sugar price surge: ISMA
-
-
-## Trump’s ‘Operation Economic Outcast’ against Iran: What sanctions threat could mean for India
-The Donald Trump administration said on Monday that the new US sanctions are intended to shut off every potential source of revenue for Iran, while warning other countries that continuing their economic ties with Tehran could expose them to retaliation.
 
 ## Chhattisgarh CM urges workers' children to dream big, work hard
 Chhattisgarh CM urges workers' children to dream big, work hard
