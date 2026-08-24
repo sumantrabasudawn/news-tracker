@@ -33,6 +33,21 @@ Once high-flying fast-fashion retailer is listing in Hong Kong at quarter of pea
 ## As dieters slim down, protein prices bulk up
 A lot of people are finding an appetite for whey
 
+## Indian EVMs not connected to internet, Bluetooth or Wi-Fi, says CEC Gyanesh Kumar
+During his Lucknow visit, the Chief Election Commissioner discussed EVM reliability, electoral processes and the role of young citizens in democracy.
+
+## India Post launches Dak Sewa app for doorstep postal services
+The digital platform is aimed at making postal services more accessible while helping India Post modernise operations and improve customer convenience nationwide
+
+## World’s oceans simmer at record heat, threatening marine life and food security
+Record-breaking ocean heat is raising concerns over worsening storms, collapsing fisheries, coral loss and growing risks to communities dependent on marine ecosystems
+
+## Trump administration plans to revoke up to 200,000 US visas of asylum seekers
+The proposed action marks another escalation in Washington’s immigration crackdown, targeting temporary visitors who later seek protection and permanent status
+
+## China says US sanctions on Iran will worsen tensions, hurt global economy
+Beijing’s response comes as Washington steps up efforts to isolate Tehran economically, putting pressure on countries maintaining trade and financial ties
+
 ## US announces fresh Iran sanctions, warns countries doing business with Tehran
 Washington is widening its economic campaign against Tehran as Iran faces mounting financial strain, a plunging currency and uncertainty over peace prospects
 
@@ -41,21 +56,6 @@ The proposed levy comes as Washington seeks to recover federal immigration costs
 
 ## Editorial. F&O Mayhem: Time to Consider Other Options!
 F&O frenzy needs to be tackled differently
-
-## Indian MFs register fastest growth globally in last 5 years
-However, share of Indian MFs was only one pc of global MF industry
-
-## Indian farmers cover 96% of the normal Kharif area as planting window closes
-Deficit in sowing of all crops shrinks to 0.3% as coverage picked up last week, with sowing increasing to 40 lakh hectares
-
-## Positive investments in gold ETFs continue for the fifth week in a row
-US and UK lead the trend as investors find the current price of over $4,600 an ounce attractive
-
-## Retail sales up 8% in July driven by need-based purchases: Retailers’ Association
-Retailers in the Southern and Northern regions post higher growth than the pan-India average
-
-## Ten years of UPI: From a payment tool to India's economic spine
-UPI succeeded because it combined ambition with simplicity, technology with policy, competition with collaboration and innovation with trust
 
 ## Russian President Putin says will continue fertiliser supplies to India
 
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US removes Syria from ‘state sponsor of terrorism’ list
+Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a 'terrorist' organisation.
+
+## Jeffries-Kushner meeting sparks speculation amid contentious US midterms
+Private meeting between Jeffries and Kushner fuels discussions amid contentious US midterm battle.
+
 ## US public support for Iran war falls as Trump approval at record low: Poll
 Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
 
@@ -242,12 +248,6 @@ Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announceme
 
 ## Ceasefire monitoring mission arrives in Democratic Republic of Congo
 Fighting persists in the mineral-rich region despite ceasefire agreements.
-
-## Ambush in South Sudan kills peacekeeping troops
-Armed men injured three additional peacekeepers as fears grow of the country relapsing into civil war.
-
-## Displaced Palestinian builds mud shelter as tents offer little relief
-A displaced Palestinian has built a traditional mud-brick house as an alternative to tents.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
