@@ -39,29 +39,29 @@ European banks write fan fiction
 ## Ukraine hits Russia’s second-largest online retailer
 Kyiv’s drones target Ozon warehouses after weeks of strikes against market leader Wildberries
 
-## A fourth way to end a war
-US’ move to economically isolate Iran won’t be easy
+## Indian MFs register fastest growth globally in last 5 years
+However, share of Indian MFs was only one pc of global MF industry
 
-## Sunsure Energy’s renewables portfolio in UP surpasses 500 MWp-mark
-Sunsure Energy also has an operational portfolio of 305 MWp in Maharashtra and around 75 MWp in Tamil Nadu. It envisages an operational capacity of 10,000 MW by 2030
+## Indian farmers cover 96% of the normal Kharif area as planting window closes
+Deficit in sowing of all crops shrinks to 0.3% as coverage picked up last week, with sowing increasing to 40 lakh hectares
 
-## Editorial. Exercise other options
-F&O frenzy needs to be tackled differently
+## Positive investments in gold ETFs continue for the fifth week in a row
+US and UK lead the trend as investors find the current price of over $4,600 an ounce attractive
 
-## Amazon, Flipkart tighten seller cancellation penalties ahead of festive season
-Amazon has revised cancellation fees for sellers using its Easy Ship and Self-Ship services, linking the charge to the value of the order
+## Retail sales up 8% in July driven by need-based purchases: Retailers’ Association
+Retailers in the Southern and Northern regions post higher growth than the pan-India average
 
-## UPI — an eventful journey
-10 years on, UPI’s success has been such that today it’s the world’s largest real-time payment system
+## Ten years of UPI: From a payment tool to India's economic spine
+UPI succeeded because it combined ambition with simplicity, technology with policy, competition with collaboration and innovation with trust
 
-## ICICI Bank prices its $1 billion 5-year Senior Notes at 5.410%
-ICICI Bank said its Notes issuance is part of its $7.5 billion Global Medium Term Note Programme and the same has been raised through its IFSC Banking Unit
+## Every day at SBI is a defining moment, says Chairman Setty
+I believe international operations will remain at around 15% of our overall credit book, which is a ratio we are comfortable with, says the SBI Chairman
 
-## SC to hear Delhi Race Club plea against eviction on August 25
-The dispute concerns the club’s occupation of an 84-acre plot on Lok Kalyan Marg
+## TCS to acquire Porsche’s arm for €320 million, seals five-year €1.25 billion AI partnership
+The acquisition will strengthen TCS’ presence in Germany, Romania, the UK, the US, India, and Mexico and among European automotive and industrial customers
 
-## Gaming funding contracts in face of investor demand for sustainable monetisation
-Dubbing the move as a ‘reset,’ industry representatives urge fraternity to focus on long-term player relationships rather than chasing short-term growth spike
+## ESIC crackdown: Over ₹2,400 cr social security money trapped in 6.45 lakh recovery certificates pending for a decade
+Under the ESIC Act, the officials are authorised to issue orders for attachment and sale of the employer’s movable or immovable property and also arrest or detain defaulters in extreme non-compliance cases
 
 ## Iran blacklists 45 tankers over Strait of Hormuz rules amid fresh US sanctions threat
 Iran has blacklisted 45 tankers for breaching its navigation regulations in the Strait of Hormuz. The repercussions for vessels engaging in ship-to-ship transfers with these tankers could be dire, including hefty fines and detentions. This move intensifies the existing tensions in the vital waterway
@@ -87,6 +87,18 @@ State-backed energy companies are increasingly going to the spot LNG market and 
 ## 81-year-old mother allegedly forced to leave house: SC restores son's eviction under Senior Citizens Act
 A Bench of Justice Pamidighantam Sri Narasimha and Justice Alok Aradhe set aside the Allahabad High Court's orders holding that authorities under the 2007 Act had no power to order eviction.
 
+## MCD officer suspended after teen falls into open drain in Delhi, video of father’s desperate search goes viral
+The teenager fell into the drain on Saturday last week. Rescue teams continued their search for him for the second day on Monday.
+
+## Nagpur gas leak: 56 hospitalised, 8 in ICU after Chlorine leak at Godhni Water Treatment Plant
+Responders successfully contained the leak by completely submerging the faulty chlorine cylinder in water to neutralise the escaping gas.
+
+## Putin assures India of fuel, fertilisers amid disruptions over West Asia crisis
+Jaishankar said PM Modi hopes that President Vladimir Putin would attend the Brics Summit in New Delhi on September 12-13
+
+## India’s most powerful 12,000-horsepower electric locomotives to get waterless urinals for loco pilots: Report
+The new locomotives manufactured at the Madhepura factory will have an inbuilt urinal, while the ones already rolled out will be retrofitted.
+
 ## ‘You know nothing’: Maharashtra hill tragedy victims' relative refutes iPhone EMI claims
 The teen's aunt described the iPhone narrative as a "rumour", claiming that people spreading such tales "know nothing".
 
@@ -98,18 +110,6 @@ Venkata Nageswara Rao, 61, was arrested by the ED on August 23 after being accus
 
 ## ‘CAA citizenship hearings will be over soon’: Bengal CM Suvendu Adhikari says 23,000 certificates already issued
 Suvendu Adhikari had said on August 1 that all pending applications for citizenship under the CAA in the state would be disposed of within the next six months.
-
-## 17-year-old gangraped in MP’s Pachmarhi; 3 arrested: Police
-According to police, the incident occurred on August 19, but the survivor lodged a complaint on Sunday night
-
-## ED arrests 2 from Mumbai in cyber-fraud cases exceeding ₹27,850 crore
-The accused, identified as Fahim Sayed and Naim Sayyed, were arrested on Sunday, by the ED’s Panaji zonal office
-
-## Pangolin rescued from govt building in Odisha’s Nuapada, 3 arrested
-Varun Jain, dy director of Udanti-Sitanadi Tiger Reserve, said the operation was carried out by a joint team of the tiger reserve in Chhattisgarh and Khariar forest division in Odisha
-
-## 'Dear stunt master': Congress takes dig at Kiren Rijiju over Arunachal river post, Rahul Gandhi fitness jibe
-Drawing a comparison with Rahul Gandhi, Kiren Rijiju said the Congress leader may need training for such activities, while for him, it was part of his routine.
 
 ## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
 Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump slams Canada with new 50 percent auto tariffs for 2027
-Trump said tariffs on Canadian auto and steel will double to 50 percent from January 1.
+## Japanese delegation seeks to soothe strained ties with China
+A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.
 
-## Are humanoid robots the future of warfare?
-Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.
+## Trump administration announces global economic war on Iran
+This is a breaking news story.
 
-## Video: Russia launches rocket into space with military satellite
-Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.
+## Nearly one in two Ebola patients dying in DR Congo outbreak
+Almost one in two people infected with Ebola are dying, Democratic Republic of the Congo government figures show.
 
-## UK to help Ukraine build Storm Shadow long-range missiles: Why it matters
-The UK's willingness to share classified missile-production knowledge sets a potentially important precedent.
+## Russia to seize poorly protected infrastructure as Ukraine barrage persists
+Owners could lose control of facilities if regulators find them too slow to repair damage.
 
-## Samuel Eto’o urges support for embattled FIFA President Gianni Infantino
-Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.
+## Former snooker world champion Graeme Dott convicted of child sex abuse
+The 49-year-old was found to have subjected a girl and a boy to multiple incidents of abuse.
 
-## Why Israeli settler attacks on Palestinians in West Bank are pogroms
-Waves of settler attacks, aided by Israel's military, increasingly fit the definition of a pogrom.
+## Israeli strike on Gaza shelter extends casualty list
+More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.
 
-## Houses set on fire as fresh violence erupts in India’s Manipur
-Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.
+## Nathan Cofnas on whether he feels responsible for Jason Arday’s death
+Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.
 
-## Algeria’s schools put Shakespeare before Molière in break from France
-Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
+## England drop fast bowler Bryden Carse amid investigation into club incident
+The 31-year-old Durham bowler will not play against Pakistan in the upcoming second Test match.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
