@@ -3,29 +3,32 @@
 ## Trump says US to increase tariffs on Canadian cars to 50%
 Move marks further escalation of Washington’s trade war with Ottawa
 
+## Scott Bessent threatens wider US sanctions on Iran’s economic partners
+Treasury secretary warns of further measures in bid to increase pressure on Tehran
+
+## Burnham rules out early election as he admits UK faces ‘challenging’ financial outlook
+Prime minister stops short of ruling out tax increases in October’s Budget, saying his policies will be ‘funded’
+
+## Treasury market interventions are only a band-aid
+Bessent’s moves on the yen and long-dated bonds do little to assuage markets long-term
+
+## UK seeks to tighten security of supply chains after Iran-linked cyber attack
+Potential veto poses challenge for energy companies reliant on Chinese supplies
+
+## Britain gains access to Ukraine battlefield data
+Trove of combat imagery used to train AI models to identify and strike Russian targets
+
+## Meloni wants a snap election to hide her economic failures
+Her proposed electoral reform could shore up the governing coalition despite its poor record in power
+
 ## Can Democrats seize Congress from Trump?
 The races, the money and the issues that will determine the final half of Trump’s second term
 
-## Canadian businesses fear ‘vortex of downward pressures’ from Trump’s tariffs
-Renewed trade war has inflicted pain and uncertainty on companies that deal with US
+## Shipping industry warns small battery exemption increases fire risk on vessels
+Container lines push regulator to change rules where laptops or power banks with batteries do not need to be declared
 
 ## How Shein’s $100bn dream unravelled
 Once high-flying fast-fashion retailer is listing in Hong Kong at quarter of peak value after years of false starts
-
-## Reform UK’s ‘Farage Fest’ went ahead without permission from council
-Organisers face potential enforcement after rally to celebrate leader’s Clacton by-election win was denied an events licence
-
-## Starmer considered letting 100,000 young Europeans come to UK every year
-British officials reveal sweeping Brussels negotiating plan drawn up in former prime minister’s last days in office
-
-## Class wars and the midterms
-The US economic conversation is expanding to include things such as corruption and the Wall Street-Main Street divide
-
-## US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance
-British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration
-
-## Shipping industry warns small battery exemption increases fire risk on vessels
-Container lines push regulator to change rules where laptops or power banks with batteries do not need to be declared
 
 ## As dieters slim down, protein prices bulk up
 A lot of people are finding an appetite for whey
@@ -33,11 +36,8 @@ A lot of people are finding an appetite for whey
 ## FT Financial Literacy and Inclusion Campaign
 The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
 
-## Harry Potter and the risk of geopolitics
-European banks write fan fiction
-
-## Ukraine hits Russia’s second-largest online retailer
-Kyiv’s drones target Ozon warehouses after weeks of strikes against market leader Wildberries
+## US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance
+British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration
 
 ## Indian MFs register fastest growth globally in last 5 years
 However, share of Indian MFs was only one pc of global MF industry
@@ -87,6 +87,9 @@ State-backed energy companies are increasingly going to the spot LNG market and 
 ## 81-year-old mother allegedly forced to leave house: SC restores son's eviction under Senior Citizens Act
 A Bench of Justice Pamidighantam Sri Narasimha and Justice Alok Aradhe set aside the Allahabad High Court's orders holding that authorities under the 2007 Act had no power to order eviction.
 
+## Karnataka beggar dies, ₹8.4 lakh savings found as she leaves behind currency notes at home
+The cash, accumulated over the years, included ₹10, ₹20 and ₹50 notes. More than 30 sacks containing the money were found inside the house.
+
 ## MCD officer suspended after teen falls into open drain in Delhi, video of father’s desperate search goes viral
 The teenager fell into the drain on Saturday last week. Rescue teams continued their search for him for the second day on Monday.
 
@@ -107,9 +110,6 @@ Gurugram experienced significant disruption from rain-induced waterlogging, affe
 
 ## Ex-Andhra minister, son used liquor ‘scam’ funds to buy luxury cars, watches; cover family expenses, says ED
 Venkata Nageswara Rao, 61, was arrested by the ED on August 23 after being accused of acting as a "key facilitator" in the alleged "scam".
-
-## ‘CAA citizenship hearings will be over soon’: Bengal CM Suvendu Adhikari says 23,000 certificates already issued
-Suvendu Adhikari had said on August 1 that all pending applications for citizenship under the CAA in the state would be disposed of within the next six months.
 
 ## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
 Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
@@ -159,29 +159,29 @@ Anton Jäger explains why record voter turnout isn’t leading to systemic chang
 ## Who Reaps the Benefits of India’s Growth?
 Early policy choices shaped the inequity and employment challenges facing the country today.
 
-## Why Singapore’s Growing Political Diversity Matters
-The city-state's civil society has grown considerably over the past decade. It also reflects an increasingly broad spectrum of opinion about issues foreign and domestic.
+## Airstrikes on Civilians in Rakhine Will Increase, Say Myanmar Military Defectors
+The military’s intensification of aerial bombing is aimed at defending key townships in the region.
 
-## Kinmen: The Sleepy Fishing Island That Could Be East Asia’s Biggest Flashpoint
-The island, administered by Taipei but just 2 miles from the mainland, has a culture and lifestyle all its own.
+## Trump Suddenly Wants a Summit With Kim Jong Un. Why Now?
+With the Iran war stalled and Seoul slow to deliver on a $350 billion pledge, the U.S. president is dangling a one-on-one summit that could sideline South Korea.
 
-## The Hidden Famine: What I Saw in North Korea’s Darkest Years
-“With the collapse of the Public Distribution System, which had been the sole source of food, many urban residents, unable to grow anything for themselves, simply wasted away in their homes, starving quietly and out of sight.”
+## No Surprises in Kazakh Politics: New Presidential Party Wins Majority
+Adilet, as expected, secured a majority of the vote – 71 percent according to official preliminary data.
 
-## A New Japanese Drydock and the Limits of Allied Cooperation
-Japanese shipyards are expanding, but the future space may already be spoken for.
+## Ending the Cycle of Flight for the Rohingya Requires a Political Reckoning
+The international community keeps treating the symptoms without touching the underlying cause: our political exclusion within Myanmar.
 
-## Can Bangladesh Engage the Arakan Army Without Compromising Rohingya Rights?
-Engagement may be required, but appeasement is not.
+## What Shapes Global Views of India?
+A recent Pew survey found that 45 percent of respondents in 36 countries held a favorable view of India, while another 41 percent held a negative view. But the results varied widely by country.
 
-## How Mongolia Is Diversifying Its Defense Sector
-As highlighted by a new ammunition factory, Turkiye has become a prime partner in Mongolia's defense industry efforts.
+## Severe Flooding Bares Garbage and Corruption Problems in the Philippines
+Lawmakers and contractors used the climate crisis to push forward flood-control projects. But those have turned out to be defective and in some cases even non-existent.
 
-## China’s Own Version of Ambiguity in the Taiwan Strait
-As the U.S. mulls “strategic clarity,” China may be shifting its pressure campaign away from highly visible military coercion toward methods that are less easily classified.
+## What Is Life Really Like Under the Taliban? We Asked Afghan Women.
+Online influencers are framing Afghanistan as a a beautiful, welcoming “hidden gem.” That may be true for tourists – but what about the women who live there?
 
-## Australia and Thailand Deepen Ties to Hedge Against Global Uncertainty
-The building of collaboration with countries like Thailand is central to Australia’s long-term strategic vision.
+## Ziya Us Salam on the Controversy Over the Taj Mahal
+The claims of Hindu groups that the Taj Mahal was originally a Hindu temple are “high on prejudice and assumptions, low on evidence.”
 
 ## Command and Politics in the War Between Moscow and Kyiv
 Our intrepid team covers a lot of ground in this episode: the increasing fluidity of the battlefield, drones and air defense, the biting Black Sea campaign, the causes and aftermath of the firing of Ukraine’s popular defense minister, why Ukraine probably cannot produce PAC-3 air defense missiles (d
@@ -234,8 +234,8 @@ Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Li
 ## Japanese delegation seeks to soothe strained ties with China
 A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.
 
-## Trump administration announces global economic war on Iran
-This is a breaking news story.
+## Trump administration announces ‘economic D-day’ sanctions on Iran
+Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran's revenues and isolate the country.
 
 ## Nearly one in two Ebola patients dying in DR Congo outbreak
 Almost one in two people infected with Ebola are dying, Democratic Republic of the Congo government figures show.
