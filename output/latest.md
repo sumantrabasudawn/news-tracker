@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Thames Water creditors would launch board shake-up if utility avoids nationalisation
+Move is aimed at reassuring government there would be a change of leadership under their ownership
+
+## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
+Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
+
 ## FirstFT: Europe trails as AI drives US investment
 Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
 
@@ -18,14 +24,11 @@ Fed and BoE will remain on hold, with rate rises from ECB and Bank of Japan to c
 ## Singapore offers parents $55,000 in battle to boost birth rates
 City-state is on course to become a ‘super-aged’ society this year
 
-## UK statistics agency turns to AI to cut costs and improve data
-ONS says technology will help save thousands of hours a year as it seeks to strengthen core output
+## Does AI belong on your face?
+Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
 
 ## Saudi Arabia holds talks over state-backed war insurance as costs jump
 Insurers have raised prices or restricted coverage for ships and other firms in the region owing to Iran conflict and Houthi attacks
-
-## Does AI belong on your face?
-Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
 
 ## Shell draws Exxon interest in $8bn US chemical assets sale
 US supermajor and LyondellBasell among suitors as UK group looks to shed underperforming plants and refocus on oil and gas
@@ -36,29 +39,32 @@ Private credit’s insurance boom could have hidden costs
 ## UBS concern over private markets push by manager of $1bn sustainable finance fund
 Ties between Swiss bank and Record soured but UK partner remains as manager, according to insiders
 
-## Rays of Belief's IPO to open on Sep 1; price band set at ₹227-239/share
-The post-issue implied market capitalisation of the company is estimated at ₹474-500 crore, based on the price band
+## Sensex today | Stock Market Live: Sensex, Nifty fall as high crude prices, weak global cues weigh
+Sensex, Nifty, Share Prices Live: Indian equities turned lower on Monday as elevated crude prices, weak global cues and West Asia tensions weighed on sentiment. With derivatives expiry due Tuesday, analysts expect heightened volatility and stock-specific moves, even as softer dollar and Treasury yie
 
-## Sensex today | Stock Market Live: Sensex, Nifty steady as investors await Iran sanctions and F&O expiry
-Sensex, Nifty, Share Prices Live: Indian equities traded with a mild positive bias on Monday as investors balanced weak global cues, elevated crude prices and West Asia tensions against softer dollar and Treasury yields. With F&O expiry approaching, stock-specific moves and cautious positioning are 
+## Keralam’s seafood sector unveils draft fisheries management plan
+Digital tracking framework to capture a larger share of the growing global market for responsibly sourced seafood is part of a major sustainability push
 
-## Avaada plans public filing for $800 million IPO in India
-The Brookfield Renewable Partners-backed company has appointed ICICI Securities Ltd, Axis Capital Ltd, HSBC Holdings Plc, IIFL Capital Services Ltd and Bank of America to help manage the potential share sale in India
+## Aurobindo arm’s facility in US gets 4 observations from USFDA
+The inspection concluded with four observations, which are procedural in nature, and we will respond to the USFDA within the stipulated timeline
 
-## TN CM Vijay announces more free buses for women; 3- free cooking gas cylinders
-Vijay also declared that the Parandur greenfield airport project will be shelved
+## El Niño shock could re-price food inflation, Central Bank policy paths: US analyst
+“An El Niño event of this magnitude and speed has the potential to create a macroeconomic shock well before the market has fully priced it,” says Michael Ferrari, VP and Head of Research, Moby
 
-## Oriental Hotels to merge with IHCL in all stock deal
-IHCL owns 37 per cent stake in OHL
+## Karnataka Health Dept says rise in H1N1 cases part of seasonal surge, no need to panic
+Health facilities across the State have been advised to ensure adequate availability of essential supplies, including PPE, N95 masks and Oseltamivir
 
-## Tamil Nadu govt abandons Parandur airport plan, looks for alternative site
-Chief Minister C Joseph Vijay made the official announcement in the State Assembly noting that the government is seeking to avoid the displacement of residents and loss of agricultural land
-
-## Lalithaa Jewellery Mart shares list at 32% premium, Horizon Industrial makes muted debut: Should you buy?
+## Lalithaa Jewellery shares list at 32% premium, Horizon Ind makes muted debut: Should you buy?
 Lalithaa Jewellery stock began trading at ₹265 on the NSE and ₹265.30 on the BSE
 
-## IMD: Heavy Rainfall over North East, TN, Ktka, Kerala and Telengana for next 6 days
-Parts of Central India, South Peninsula to gain as conveyor belt of tropical disturbances from West Pacific and South China Sea may keep Bay of Bengal busy into this week
+## LIC stake sale in IDBI Bank: Officers’ body seeks IRDAI intervention
+The All-India Bank Officers’ Association has demanded regulatory intervention to protect policyholders and retain IDBI Bank in the public sector
+
+## India banking credit growth hits 20%, LDR nears decade-high levels
+Banks saw stronger loan demand across key sectors, but slower deposit growth kept funding pressures elevated and the system-wide LDR high
+
+## Gold price prediction today: Worst of gold price dips over? Check outlook for August 24, 2026 week
+Gold price prediction today: Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, which are expected to remain key drivers for gold prices in the near term.
 
 ## Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus
 The rupee began the trading day on a stronger note against the US dollar, appreciating by seven paise to 95.64. Nonetheless, concerns over geopolitical tensions and steady demand from importers curbed significant gains. Compounded by elevated Brent crude prices, the rupee traded cautiously. Investor
@@ -81,32 +87,29 @@ In the lead-up to impending US sanctions on Iran, oil prices fell as investors c
 ## India eyes enhancing trade pact with Chile
 
 
-## Weakness in currency can create negative loop: HSBC
+## Farmers, water bodies: Why has CM Vijay dropped 2nd Chennai airport plan, for now
+The land in Parandur was believed to be unsuitable for runways because of water bodies. Vijay's TVK govt has said it accords top priority to the environment.
 
+## SC to hear plea challenging FIR against journalist who reported on Ram temple donation row
+SC to hear plea challenging FIR against journalist who reported on Ram temple donation row
 
-## CJP meeting today LIVE: CJP to decide 'next course of action' after alleging 'vishwasghaat' by Centre
+## Telangana CM Revanth Reddy returns from UK after Centre denies permission for US visit
+Reddy had initially departed for the UK on August 20 with plans to travel onward to the US.
+
+## Ex-diplomat raises concerns over SIR in Punjab over 'mismatch' notice
+Ex-diplomat raises concerns over SIR in Punjab over 'mismatch' notice
+
+## Elderly woman killed, husband injured in SUV hit-and-run at Delhi's posh GK-1
+The woman, identified as Shashi, was declared brought dead at the hospital, while her husband Kulbhushan (65), was left injured.
+
+## ‘You endorse misogyny, cut the crap’: Shehzad Poonawalla joins BJP attack on Rahul Gandhi's ‘smash patriarchy’ call
+Shehzad Poonawalla and BJP were responding to Rahul Gandhi's call to "smash the patriarchy" during his party's 'Chhatro ki Goonj' programme in Pune.
+
+## CJP meeting today LIVE: Team CJP's key meet at 2 pm to decide next move after ‘betrayal’ charge
 CJP meeting today LIVE: In a statement, the party alleged that the government had not committed to submitting a comprehensive list of FIRs registered against students and protesters across the country, as directed by the Supreme Court.
 
 ## Why CJP is threatening another march: FIRs, NEET compensation among 3 pending demands
 The Cockroach Janta Party will hold an internal meeting today to decide their next course of action - which could also include a nationwide protest.
-
-## 3 mowed down on Del-Mum Expressway; protest triggers traffic jam over 20 km
-Two of the three women killed were working inside the expressway median railing, while the three were outside when the speeding car hit them
-
-## Chlorine gas leak in Nagpur leaves several hospitalised, area cordoned off
-Residents of nearby settlements were instructed to move away, and several people were taken to hospitals for treatment, the NMC said in a release.
-
-## 3 free LPG cylinders, bus travel scheme amped: Tamil Nadu CM Vijay's big announcements for women
-Tamil Nadu CM Vijay also announced that his government would drop the plan to establish Chennai's second airport at Parandur.
-
-## CM Vijay says plan for 2nd airport for Chennai at Parandur to be dropped, new location to be proposed
-A new airport for Chennai will be proposed at a location where there is no opposition from the people, Chief Minister Vijay said.
-
-## ICSSR invites papers on ‘religious conversion and demographic dynamics’
-The ICSSR has invited research papers for a special issue examining India’s demographic changes, with themes ranging from migration, ageing and others
-
-## 2 MLAs, an Innova, a close shave: How car lost control, crashed into SUV at Delhi's ITO
-The SUV was carrying Anil Jha, the sitting MLA from Kirari Vidhan Sabha, and Abhay Patil, an MLA from Karnataka, when the collision occurred.
 
 ## Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?
 China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market. CCSH Corporation, parent of China’s top NAND flash maker, planned to sell
@@ -228,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Salah scores two goals, has two disallowed in first start for Trabzonspor
+Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.
+
+## Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit
+European football chief doesn't want to lose credibility over FIFA job but says Infantino will face a challenger.
+
+## Gauff, Fils win Cincinnati tennis titles in run-up to US Open
+Gauff beat Pegula for her second Cincinnati Open trophy and Fils overcame Tiafoe for his first Masters 1000 title.
+
 ## Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m
 Maradona’s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the ‘Hand of God’.
 
@@ -242,15 +254,6 @@ Syria's foreign minister meets Israeli officials to de-escalate tensions after I
 
 ## Human-caused Nevada wildfire forces 42,000 people to evacuate
 A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate and put another 45,000 on alert.
-
-## Can Kenya’s AI ambitions coexist with Naivasha’s water needs?
-As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.
-
-## Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives
-Case fatality rate climbs to nearly 48 percent in DRC, meaning almost one in two people infected with Ebola are dying.
-
-## India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi
-The Cockroach Janta Party’s ‘Fix the Schools’ campaign in India is facing pushback from BJP leaders and supporters.
 
 ## AI is creating more jobs than it destroys in India, but freshers face the squeeze
 AI is creating more jobs than it destroys in India currently. However, entry-level hiring is declining significantly for young workers. Companies increasingly value experienced employees with deeper business knowledge.
