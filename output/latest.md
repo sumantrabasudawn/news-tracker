@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## FirstFT: An economic D-Day is coming for Iran
+Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
+
+## South American trade bloc mounts dealmaking push to hedge geopolitical risks
+EU deal heralds renewed engagement for historically insular Mercosur group despite regional divisions
+
+## The new world order? Every man for himself
+Now that America has hung up its hat when it comes to championing democracy, it is springtime for tyrants
+
+## Iran threatens 46 ships in Strait of Hormuz transit crackdown
+Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation
+
+## Policing needs independence — but politicians must still set priorities
+Home secretaries have tended to delegate and forget policy decisions
+
 ## Shein seeks $27bn valuation from Hong Kong IPO
 Market capitalisation is nearly three-quarters below peak after retailer’s attempts to list in New York and London failed
 
@@ -9,56 +24,41 @@ Move aims to reassure government there would be a change of leadership under the
 ## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
 Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
 
-## FirstFT: Europe trails as AI drives US investment
-Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
-
-## European allies flock to Kyiv to pledge more defences against Russian bombardment
-Also in this newsletter: An outburst of gun violence in the EU’s capital
+## Hedge fund Saba takes on Baillie Gifford in new board battle
+Boaz Weinstein’s activist fund has been waging a campaign against UK investment trusts
 
 ## KPMG Australia cuts hundreds of workers and partner pay after audit scandal
 Big Four firm to let go of 5% of country staff and reduce compensation by 13% as consulting revenue tanks
 
-## Analysts’ views: forecasters continue to see Fed and Bank of England on hold this year
-Fed and BoE will remain on hold, with rate rises from ECB and Bank of Japan to come this year, according to our August survey
-
-## Singapore offers parents $55,000 in battle to boost birth rates
-City-state is on course to become a ‘super-aged’ society this year
-
-## Does AI belong on your face?
+## Can AI glasses replace the smartphone?
 Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
 
 ## Saudi Arabia holds talks over state-backed war insurance as costs jump
 Insurers have raised prices or restricted coverage for ships and other firms in the region owing to Iran conflict and Houthi attacks
 
-## Shell draws Exxon interest in $8bn US chemical assets sale
-US supermajor and LyondellBasell among suitors as UK group looks to shed underperforming plants and refocus on oil and gas
+## Sensex today | Stock Market Closing Bell: Sensex settles at 77,369.11; Nifty declines 32.95 points to 24,219.05
+Sensex, Nifty, Share Prices Closing Bell: Sensex down 171.72 points to settle at 77,369.11; Nifty declines 32.95 points to 24,219.05.
 
-## A ‘democratised’ financial crisis is still a crisis
-Private credit’s insurance boom could have hidden costs
+## Symbiotec Pharmalab IPO sees subscription at 0.70x by mid-afternoon
+The employee reservation portion led with 1.19 times subscription; Retail Individual Investors subscription at 0.82 times, NII category is at 0.86 times. QIB remained the weakest segment at 0.35 times
 
-## CERC’s graded compensation for delayed RE connectivity to aid long gestation projects
-The CERC has now replaced the automatic revocation of grid connectivity for delayed renewable energy projects with a compensation based mechanism
+## Govt lifts wheat export ban with immediate effect
+The government has allowed exports of wheat flour and other products like maida and semolina, according to notifications of the Directorate General of Foreign Trade.
 
-## Sensex today | Stock Market Live: Sensex falls 267 pts, Nifty near 24,166 as crude prices, West Asia tensions weigh
-Sensex, Nifty, Share Prices Live: Benchmark indices reversed their early gains and traded lower in afternoon trade on Monday, with weakness in heavyweight banking and select large-cap stocks weighing on the frontline indices.
+## Symbiotec Pharmalab IPO opens today: Price, dates, lot size and key details
+What brokerages say on the IPO?
 
-## Parandur airport: Stalin slams CM Vijay, says TN's interests can't be 'mortgaged for petty political considerations'
-"The announcement made today by the Hon'ble Chief Minister of Tamil Nadu to drop the Parandur International Airport project will set the state's development back by several years,” says Stalin
+## 15 flights diverted at Delhi airport due to bad weather
+12 flights diverted to Jaipur, two to Chandigarh and one to Lucknow on account of inclement weather conditions in the Capital
 
-## Air India flight from Delhi suffers bird hit at Patna airport, passengers safe
-The Delhi-Patna flight, with 164 passengers on board, was about to land when the incident took place at 7:44 am
+## Airtel Payments Bank annualised revenue crosses ₹3,300 crore in Q1
+Net profit jumps 82% to ₹19 crore; Q1 revenue rises 6.8% y-o-y to ₹830.5 crore
 
-## Skincare brand Be Clinical raises ₹21 cr in seed funding
-The company plans to utilise the fresh capital to strengthen its research and development capabilities, expand the clinical skincare range
+## Monsoon Update: Rainfall over North East India, South India and MP & Maharashtra
+Forecasts suggest rain footprint could gradually push westward, bringing central and west Madhya Pradesh and parts of northern Maharashtra, including the Nagpur region, under evolving wet spell
 
-## ReNew invests ₹20,000 crore in Gujarat; plans expansion across clean energy, data centres
-Vikram Kapur, group president at ReNew, announced plans to invest ₹80,000-1,00,000 crore in various sectors, including data centres, renewable energy, and green hydrogen, over the next few years
-
-## FLY91 to raise ₹150 crore for growth: Chairman Harsha Raghavan
-The airline has six ATR-72 aircraft and is in discussions with lessors to add more planes.
-
-## India, GCC discuss next steps on free trade agreement
-Both sides discussed ways to strengthen India-GCC relations, exchanged views on regional and international developments, and reviewed preparations for a ministerial meeting scheduled next month
+## Skyways Air Services IPO opens with 0.90x subscription on day 1
+The Non-Institutional Investor (NII) category stood at 0.62 times, while Qualified Institutional Buyers (QIBs) trailed significantly at just 0.43 times their allotted quota of 84,32,000 shares
 
 ## ‘Most expensive in years’: Iran war, Hormuz closure forces India to pay high prices for LNG
 State-backed energy companies are increasingly going to the spot LNG market and bidding up prices as the government seeks to support fertilizer producers that use natural gas.
@@ -81,8 +81,23 @@ The rupee began the trading day on a stronger note against the US dollar, apprec
 ## KPMG Australia to cut 5% of workforce amid scandal, weak growth outlook
 KPMG Australia is set to cut around five percent of its workforce, a move triggered by a scandal involving breach of client confidentiality. The firm projects a challenging economic landscape lasting until 2028. Revenue has dipped by one percent, with a striking decline in consulting services. This 
 
-## Stock market today: BSE Sensex jumps over 200 points, NSE Nifty50 opens above 24,300
+## Markets close slightly lower; Sensex falls 172 points, Nifty slips to 24,219.05
 
+
+## ‘Treat education as urgent priority’: CJP's Dipke writes to edu ministers, seeks state-wise data in govt schools
+In his letter, Dipke questioned the lack of basic facilities like drinking water and functional classrooms.
+
+## ‘How do they explain this?’: Dipke has another question on CJP Jantar Mantar protest
+Abhijeet Dipke claimed that both protesters were agitating peacefully at Jantar Mantar, when they were allegedly “hit by pellets fired by the police”.
+
+## After Bhatti network, India apprehends three fugitives linked to Bambiha Gang in Malaysia, says Amit Shah
+The three, identified as Jaspreet Singh, Ajay Singh, and Pawandeep Singh, are accused of multiple crimes.
+
+## Delhi student protests: SC says no to separate probe into sexual assault charges
+The court said the issue has been referred to and prioritised by a five-member committee headed by its former judge R Subhash Reddy
+
+## ‘Why should it matter?’: Vijay govt minister Keerthana slams ‘misogyny’ after woman in black dress misidentified as her
+The video showed the woman getting out of a car in a dress, with several social media users questioning whether the person was Keerthana.
 
 ## Debris falls inside Uttarakhand’s Silkyara tunnel during rectification work
 In November 2023, 41 workers were trapped inside the tunnel for 17 days after a part of it caved in following a landslide
@@ -93,20 +108,8 @@ The girl had allegedly eloped with her boyfriend Raju from her parental home in 
 ## Bengal working towards full NEP 2020 implementation, to ink pact with NCERT: Minister
 Bengal working towards full NEP 2020 implementation, to ink pact with NCERT: Minister
 
-## ‘Death to America’ then show up for US visa? US envoy Sergio Gor warns applicants
-Sergio Gor also said India could play a role in future US space missions, while referring to cooperation between NASA and ISRO.
-
-## ‘Ram-Ram’ inside, ‘maach-bhaat’ outside: Why BJP and Congress are at odds over fish in Ayodhya
-The BJP and Congress have clashed over an alleged fish feast at a welcome programme for UP Congress chief Ajay Rai in Ayodhya during Sawan.
-
-## UDF announces one-day hunger strike over Centre's railway bifurcation move in Kerala
-UDF MPs from Kerala have announced a day-long hunger strike on August 26 in front of the Palakkad divisional railway headquarters.
-
-## Orange alert as rain leaves Gurugram waterlogged; disrupts traffic
-The Sector 52A market was among the most affected areas, with visuals showing commuters wading through knee-deep water
-
-## India security chief visits China for border talks
-India security chief visits China for border talks
+## Hang Seng Bank doubles down on wealth hubs despite Beijing’s tighter investment scrutiny
+Hang Seng Bank says it continues to invest in its wealth centre network to capture growing demand from high-net-worth clients, even as Hong Kong’s wealth management industry faces uncertainty amid Beijing’s tighter scrutiny of mainland Chinese investors’ cross-border investments. The Hong Kong lende
 
 ## Alibaba’s record stock sale adds to Hong Kong tech flood
 Alibaba raised HK$80 billion (US$10.2 billion) in a record Hong Kong secondary stock sale as the e-commerce giant pours money into artificial intelligence (AI). Shares were priced at HK$112.70 apiece, an 8.4 per cent discount to Friday’s close, according to a Hong Kong stock exchange filing. The Han
@@ -129,8 +132,8 @@ Wealthy investors should be ready for higher volatility “for years” as uncer
 ## Building the Future: How BTRi Is Positioning Hong Kong as the Global Gateway for Construction Innovation
 [The content of this article has been produced by our advertising partner.] Hong Kong is pursuing its most ambitious development agenda in a generation, led by the Northern Metropolis, with the backing of the Hong Kong’s First Five-Year Plan which proactively aligns with the national development str
 
-## A rural city, once known for livestock, now provides China’s AI computing fuel
-For generations, Ulanqab – a city several hundred kilometres northwest of Beijing whose Mongolian name means “red cliff pass” – was known for its windswept pastureland, where cattle grazed and potatoes thrived under long hours of sunlight. Its economy hinged on the weather, driven by the cool, stron
+## Ditching Chinese Rare Earths Is Hard. Just Ask Japan.
+A cautionary tale for Washington’s diversification push.
 
 ## What Donald Duck Can Teach Trump About Going to War
 President Franklin Roosevelt enlisted entertainers to make the case for fighting Germany and Japan.
@@ -153,8 +156,8 @@ Nepotism could tank the far right’s chances in Brazil.
 ## What in the World?
 Test yourself on the week of Aug. 15: Trump praises Kim Jong Un, the U.S. and Iran miss a deadline, and the U.K. shrugs off Russian threats.
 
-## Why Do Young Africans Love Donald Trump?
-A new survey reveals a preference for the U.S. president’s transactional approach.
+## Why Singapore’s Growing Political Diversity Matters
+The city-state's civil society has grown considerably over the past decade. It also reflects an increasingly broad spectrum of opinion about issues foreign and domestic.
 
 ## Kinmen: The Sleepy Fishing Island That Could Be East Asia’s Biggest Flashpoint
 The island, administered by Taipei but just 2 miles from the mainland, has a culture and lifestyle all its own.
@@ -176,9 +179,6 @@ As the U.S. mulls “strategic clarity,” China may be shifting its pressure ca
 
 ## Australia and Thailand Deepen Ties to Hedge Against Global Uncertainty
 The building of collaboration with countries like Thailand is central to Australia’s long-term strategic vision.
-
-## How an Academic Became Collateral Damage to China’s Interests in Myanmar
-The arrest of Burmese-American scholar U Min Zin highlights China’s determination to ensure its role in Myanmar doesn’t come under scrutiny.
 
 ## Betting on Autonomous Aircraft
 This exclusive Cogs of War interview is with Brandon Tseng, the co-founder and president of Shield AI and a former Navy SEAL, whose company builds the Hivemind autonomy software, the V-BAT and X-BAT aircraft, and Aechelon synthetic reality and simulation technologies. We asked Brandon about the bet 
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US threatens toughest sanctions yet against Iran: What we know
+Tehran has threatened to retaliate against any country that joins new US economic measures.
+
+## Ukraine’s offensive against Russia causes petrol panic across Central Asia
+War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia's allies.
+
+## US military says strike on alleged drug-smuggling boat kills two
+US Southern Command says Sunday's strike targeted vessel operating along established narco-trafficking routes.
+
+## Dozens of coordinated arson attacks carried out across Thailand
+Dozens of coordinated arson attacks carried out across Thailand
+
+## Macron and MBS attend Esports World Cup closing ceremony
+Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
+
+## Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t
+Twenty-one cricket captains request PM Sharif's government to ensure Khan is given timely and independent medical care.
+
+## Transfer target Julian Alvarez booed by fans in Atletico Madrid win
+Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.
+
 ## Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League
 Brazil's Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.
-
-## US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
-Exerting maximum economic pressure on Tehran would risk blowback from Beijing.
-
-## Mercedes no longer have the fastest car in F1, says leader Antonelli
-McLaren's reigning champion Lando Norris celebrates his second win in a row from pole position at Zandvoort.
-
-## E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage
-The settlement threatens Palestinian statehood. But it could help Israel's PM, other far-right leaders before elections.
-
-## Kazakhstan’s newly formed pro-government party wins parliamentary election
-The victory of Adilet, founded earlier this year, is likely to consolidate the power of President Kassym-Jomart Tokayev.
-
-## ‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial
-The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.
-
-## Trabzonspor president reacts to Salah disallowed hat-trick goal
-Trabzonspor’s president reacted in disbelief after Mohamed Salah had a goal disallowed in his first start for the club.
-
-## How much more are you spending on petrol since the war on Iran began?
-At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
