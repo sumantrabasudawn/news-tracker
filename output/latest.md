@@ -36,29 +36,32 @@ US supermajor and LyondellBasell among suitors as UK group looks to shed underpe
 ## A ‘democratised’ financial crisis is still a crisis
 Private credit’s insurance boom could have hidden costs
 
-## Godrej Industries group signs pact to invest ₹20,000 crore in Haryana state
-The group has signed a memorandum of understanding ‌with the State government with the investment expected to create around 40,000 ‌jobs
+## CERC’s graded compensation for delayed RE connectivity to aid long gestation projects
+The CERC has now replaced the automatic revocation of grid connectivity for delayed renewable energy projects with a compensation based mechanism
 
-## Sensex today | Stock Market Live: Sensex down over 250 pts, Nifty falls below 24,200 as crude prices, West Asia tensions weigh
+## Sensex today | Stock Market Live: Sensex falls 267 pts, Nifty near 24,166 as crude prices, West Asia tensions weigh
 Sensex, Nifty, Share Prices Live: Benchmark indices reversed their early gains and traded lower in afternoon trade on Monday, with weakness in heavyweight banking and select large-cap stocks weighing on the frontline indices.
 
-## Domestic silver futures rise to ₹2.46 lakh per kg
-On MCX, the white metal for September delivery increased by ₹222, or 0.09% to ₹2,46,819 per kilogram in a business turnover of 3,748 lots.
+## Parandur airport: Stalin slams CM Vijay, says TN's interests can't be 'mortgaged for petty political considerations'
+"The announcement made today by the Hon'ble Chief Minister of Tamil Nadu to drop the Parandur International Airport project will set the state's development back by several years,” says Stalin
 
-## Sanlayan Technologies posts first full-year profit as revenue grows six-fold to ₹139.6 crore
-The Indian defence technology company has an order backlog of ₹286 crore and a confirmed opportunity pipeline exceeding ₹2,000 crore.
+## Air India flight from Delhi suffers bird hit at Patna airport, passengers safe
+The Delhi-Patna flight, with 164 passengers on board, was about to land when the incident took place at 7:44 am
 
-## Sugar price row intensifies as Centre blames production fall, opposition targets policy
-The sharp increase in retail sugar prices has prompted government measures, including raw sugar imports, ahead of the festival season.
+## Skincare brand Be Clinical raises ₹21 cr in seed funding
+The company plans to utilise the fresh capital to strengthen its research and development capabilities, expand the clinical skincare range
 
-## NSA Ajit Doval arrives in Beijing for India-China border talks
-NSA will also call on China's Vice President during his two-day visit "NSA Doval and Foreign Minister Wang, who is China's Special Representative
+## ReNew invests ₹20,000 crore in Gujarat; plans expansion across clean energy, data centres
+Vikram Kapur, group president at ReNew, announced plans to invest ₹80,000-1,00,000 crore in various sectors, including data centres, renewable energy, and green hydrogen, over the next few years
 
-## 2026 Taiwan Jewellery & Gem Fair to Take Place in November
-2026 Taiwan Jewellery & Gem Fair to Take Place in November
+## FLY91 to raise ₹150 crore for growth: Chairman Harsha Raghavan
+The airline has six ATR-72 aircraft and is in discussions with lessors to add more planes.
 
-## Zoomcar and Uber partner to give travelers more ways to plan road trips
-Zoomcar and Uber partner to give travelers more ways to plan road trips
+## India, GCC discuss next steps on free trade agreement
+Both sides discussed ways to strengthen India-GCC relations, exchanged views on regional and international developments, and reviewed preparations for a ministerial meeting scheduled next month
+
+## ‘Most expensive in years’: Iran war, Hormuz closure forces India to pay high prices for LNG
+State-backed energy companies are increasingly going to the spot LNG market and bidding up prices as the government seeks to support fertilizer producers that use natural gas.
 
 ## 81-year-old mother allegedly forced to leave house: SC restores son's eviction under Senior Citizens Act
 A Bench of Justice Pamidighantam Sri Narasimha and Justice Alok Aradhe set aside the Allahabad High Court's orders holding that authorities under the 2007 Act had no power to order eviction.
@@ -81,32 +84,35 @@ KPMG Australia is set to cut around five percent of its workforce, a move trigge
 ## Stock market today: BSE Sensex jumps over 200 points, NSE Nifty50 opens above 24,300
 
 
-## Top stocks to buy: Stock recommendations for August 24, 2026 week - check list
-Stock market recommendations: Crompton Greaves, and ICICI Prudential AMC- these are the top stocks that have been picked by Motilal Oswal Wealth Management Research Desk as stock recommendations for the week starting August 24, 2026:
+## Debris falls inside Uttarakhand’s Silkyara tunnel during rectification work
+In November 2023, 41 workers were trapped inside the tunnel for 17 days after a part of it caved in following a landslide
 
-## 'Irreversible setback': Stalin slams CM Vijay over dropping plan to build 2nd Chennai airport at Parandur
-Dropping Parandur airport project is not change, MK Stalin said on Monday, criticising CM Vijay's decision to drop the proposed plan.
+## Minor girl found dead in Muzaffarnagar, days after being recovered from boyfriend's place
+The girl had allegedly eloped with her boyfriend Raju from her parental home in the Sikheda police station area around a month ago.
 
-## Manipur: 1 CRPF personnel injured, 2 houses burnt by unknown armed individuals
-The gunfight broke out after two houses belonging to separate communities were set ablaze by an unidentified group of people
+## Bengal working towards full NEP 2020 implementation, to ink pact with NCERT: Minister
+Bengal working towards full NEP 2020 implementation, to ink pact with NCERT: Minister
 
-## 15 flights diverted from Delhi airport as city hit by heavy rain, thunderstorm
-12 of the flights were diverted to Jaipur, while two were redirected to Chandigarh and one to Lucknow.
+## ‘Death to America’ then show up for US visa? US envoy Sergio Gor warns applicants
+Sergio Gor also said India could play a role in future US space missions, while referring to cooperation between NASA and ISRO.
 
-## 'Standard policy for VVIP visits': MEA sources on alleged ‘no questions request’ during PM Modi-Trump meet
-The government on Monday clarified that discussions about arrangements for a leader's public appearance are a “normal practice”.
+## ‘Ram-Ram’ inside, ‘maach-bhaat’ outside: Why BJP and Congress are at odds over fish in Ayodhya
+The BJP and Congress have clashed over an alleged fish feast at a welcome programme for UP Congress chief Ajay Rai in Ayodhya during Sawan.
 
-## Woman stuffs husband's intestines in bag after stabbing him, landlord witnesses horror
-The accused, Vimla Devi, jumped off the terrace as the landlord, Rinku, arrived and found 40-year-old Rajesh lying a pool of blood.
+## UDF announces one-day hunger strike over Centre's railway bifurcation move in Kerala
+UDF MPs from Kerala have announced a day-long hunger strike on August 26 in front of the Palakkad divisional railway headquarters.
 
-## Delhi HC notice to Abhijit Mitra, X, Google over Saurav Das’ privacy plea
-The CJP leader has sought action against them for allegedly putting his residential details in public domain.
+## Orange alert as rain leaves Gurugram waterlogged; disrupts traffic
+The Sector 52A market was among the most affected areas, with visuals showing commuters wading through knee-deep water
 
-## When will Vijay govt roll out free LPG cylinder scheme in Tamil Nadu, who can avail it
-Families in Tamil Nadu will receive six free LPG cylinders every year under the Vijay government's new initiative.
+## India security chief visits China for border talks
+India security chief visits China for border talks
 
-## Air India flight from Delhi carrying 164 passengers suffers bird hit in Patna
-Officials said flight AI 1741 landed safely at 7.43am, even as the airport authorities activated emergency landing protocol
+## Alibaba’s record stock sale adds to Hong Kong tech flood
+Alibaba raised HK$80 billion (US$10.2 billion) in a record Hong Kong secondary stock sale as the e-commerce giant pours money into artificial intelligence (AI). Shares were priced at HK$112.70 apiece, an 8.4 per cent discount to Friday’s close, according to a Hong Kong stock exchange filing. The Han
+
+## Mainland school operator leases Kowloon tower as talent influx drives city’s education boom
+A Hong Kong-listed educational group has completed the largest commercial property leasing deal so far this quarter, as the sector benefits from an influx of immigrant and expatriate families to the city, according to CBRE. The tenant agreed to occupy and transform the entire Tower B at the China Li
 
 ## Louis Vuitton shuts down another store amid fallout from trademark dispute in China
 Louis Vuitton will close its only store in Guiyang on August 31, according to an on-site notice, further trimming the French luxury brand’s southwestern China footprint, which has fallen to three stores from a peak of six. The closure in the capital of Guizhou province is part of the brand’s plan to
@@ -125,12 +131,6 @@ Wealthy investors should be ready for higher volatility “for years” as uncer
 
 ## A rural city, once known for livestock, now provides China’s AI computing fuel
 For generations, Ulanqab – a city several hundred kilometres northwest of Beijing whose Mongolian name means “red cliff pass” – was known for its windswept pastureland, where cattle grazed and potatoes thrived under long hours of sunlight. Its economy hinged on the weather, driven by the cool, stron
-
-## Alibaba’s US$10 billion share sale three times oversubscribed in Hong Kong
-Alibaba Group Holding has sold 710 million new shares at HK$112.70 each to raise HK$80 billion (US$10.2 billion) in one of the largest artificial intelligence-dedicated fundraising efforts by a Chinese technology firm. The offer price represented an 8.4 per cent discount to the stock’s closing price
-
-## Shein seeks to raise up to US$1.76 billion in Hong Kong initial public offering
-Fast-fashion retailer Shein Global Holdings is seeking to raise as much as HK$13.85 billion (US$1.76 billion) in a Hong Kong initial public offering that was initially planned four years ago. Shein will sell 279 million shares at HK$47.60 to HK$49.50 each, according to a filing to the city’s stock e
 
 ## What Donald Duck Can Teach Trump About Going to War
 President Franklin Roosevelt enlisted entertainers to make the case for fighting Germany and Japan.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League
+Brazil's Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.
+
+## US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
+Exerting maximum economic pressure on Tehran would risk blowback from Beijing.
+
+## Mercedes no longer have the fastest car in F1, says leader Antonelli
+McLaren's reigning champion Lando Norris celebrates his second win in a row from pole position at Zandvoort.
+
+## E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage
+The settlement threatens Palestinian statehood. But it could help Israel's PM, other far-right leaders before elections.
+
 ## Kazakhstan’s newly formed pro-government party wins parliamentary election
 The victory of Adilet, founded earlier this year, is likely to consolidate the power of President Kassym-Jomart Tokayev.
 
 ## ‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial
-The religious figure faced various charges including inciting violence and providing legitimacy for the al-Assad regime.
+The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.
 
 ## Trabzonspor president reacts to Salah disallowed hat-trick goal
 Trabzonspor’s president reacted in disbelief after Mohamed Salah had a goal disallowed in his first start for the club.
 
 ## How much more are you spending on petrol since the war on Iran began?
 At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
-
-## EU, Russian aircraft help Serbia battle wildfires
-EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.
-
-## The right to health in Gaza is now a privilege
-The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps
-
-## Canada-US trade war: Who wins? Who loses?
-Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation.
-
-## Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost
-'Coalition of the Willing' leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
@@ -276,6 +276,9 @@ The Department of Expenditure has asked procuring entities to avoid excessively 
 ## FAST-DS 2026: What the new foreign asset disclosure rules mean for taxpayers
 With the one time disclosure window now in force, the detailed rules set out who can come forward, how foreign assets and income will be valued, what taxpayers will have to pay and when a valid declaration can provide immunity from further tax, penalty and prosecution.
 
+## RBI board gets three new part-time directors
+The Appointments Committee of the Cabinet (ACC) has approved the appointment of Annie George Mathew, Syed Akbaruddin and Janmejaya Kumar Sinha as part-time non-official directors on the Reserve Bank of India’s central board for four years.
+
 ## India weighs facilitating European, UK investments via green channel
 India is creating a dedicated channel to ease European and British company investments. This mechanism will offer dedicated support and help investors navigate government approvals. The initiative aims to facilitate capital flow beyond just trade agreements. Senior officials will directly monitor th
 
@@ -296,7 +299,4 @@ Realty assets worth an estimated ₹13,500 crore belonging to MTNL, BSNL and RIN
 
 ## SEBI tightens mutual fund sponsor disclosure norms
 The capital markets regulator introduces a streamlined single application form requiring detailed disclosures on ownership, financial health, and governance from new fund applicants.
-
-## RBI finds cash demand harder to predict as digital payments grow
-RBI faces challenges forecasting demand for banknotes as currency in circulation continues to grow at double-digit rates despite rising digital payments. Deputy Governor SC Murmu said cash remains widely used, particularly in rural areas, among low-income groups and small businesses.
 
