@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## Scott Bessent warns Iran’s partners of sanctions but offers no timeline
-US Treasury secretary had billed announcement as ‘D Day’ for Tehran but stopped short of sweeping action
-
 ## Trump says US to increase tariffs on Canadian cars to 50%
 Move marks further escalation of Washington’s trade war with Ottawa
+
+## Scott Bessent warns Iran’s partners of sanctions but offers no timeline
+US Treasury secretary had billed announcement as ‘D Day’ for Tehran but stopped short of sweeping action
 
 ## Burnham rules out early election as he admits UK faces ‘challenging’ financial outlook
 Prime minister stops short of ruling out tax increases in October’s Budget, saying his policies will be ‘funded’
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Yemen’s Houthis report attack on Saudi ship
+Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
+
+## Video: Israel attacks desalination plant and mosque in Gaza
+Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.
+
+## Israeli restrictions cause fuel shortage in occupied West Bank
+Israeli restrictions are disrupting fuel supplies across the occupied West Bank.
+
+## Why ‘pogrom’ best describes what’s happening in the occupied West Bank
+Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.
+
 ## Israel threatens attacks in Gaza over children’s kites
 Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites
 
@@ -242,18 +254,6 @@ EU reviewing support of a ban on new drilling in the Arctic as war impacts energ
 
 ## Kidnappers release video showing hundreds abducted from Nigerian mosque
 Mass kidnappings highlight Nigeria's security crisis in the north as elections approach.
-
-## Trump administration announces global economic war on Iran
-The US says it is targeting all of Iran’s sources of revenue, including oil.
-
-## Japanese delegation seeks to soothe strained ties with China
-A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.
-
-## Trump administration announces ‘economic D-day’ sanctions on Iran
-Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran's revenues and isolate the country.
-
-## Nearly one in two Ebola patients dying in DR Congo outbreak
-Almost one in two people infected with Ebola are dying, Democratic Republic of the Congo government figures show.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
