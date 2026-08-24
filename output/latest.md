@@ -36,31 +36,34 @@ Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talk
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
 
-## Sensex today | Stock Market Live: GIFT Nifty signals flat start amid high crude prices, Iran tensions
-Sensex, Nifty, Share Prices Live: Indian equities are set for a cautious start on Monday as elevated crude prices, persistent West Asia tensions and mixed global cues weigh on sentiment, while traders assess FII positioning, sector rotation and derivatives positioning ahead of Tuesday’s expiry.
+## Sensex today | Stock Market Live: Nifty tops 24,280, Sensex gains over 100 points
+Sensex, Nifty, Share Prices Live: Indian equities began the week on a positive note despite lingering geopolitical risks and elevated oil prices, with the Sensex gaining over 200 points and the Nifty crossing 24,300 as investors assess expiry positioning and sectoral trends.
 
-## Citi, Axis Bank team up on leveraged India dollar deposit boom
-Axis Bank will provide standby letters of credit to support financing extended by Citigroup through its offshore operations
+## Chlorine gas leaks at water treatment plant in Nagpur; several hospitalised
+Several people were hospitalised after the leakage occurred in a 900-kg capacity chlorine gas cylinder at the water treatment plant in Godhani village at around 1 am
 
-## Rupee set for quiet open, supported by inflows; oil, month-end activity eyed
-The rupee is expected to open in the 95.65-95.70 range, per ‌traders, having settled at 95.6950 to the dollar on Friday
+## ED arrests 2 in pan-India cyber fraud crackdown case
+The Enforcement Directorate suspects bank transactions worth ₹27,000 crore and cash dealings of ₹3,000 crore by this alleged cyber criminal network
 
-## Gold hits over 3-month high ahead of US inflation data, Fed chair speech
-Spot gold was up 0.5% at $4,627.42 per ounce, as of 0155 GMT, after hitting ‌its highest level since May 15 earlier in ‌the ⁠session
+## Telangana govt to develop ride-hailing app for auto drivers
+The auto drivers called off their planned indefinite strike from today following assurances by the state government on their various demands
 
-## West Bengal gets ₹3,500 crore defence, shipbuilding projects from GRSE, YIL
-The projects will expand shipbuilding and defence manufacturing capabilities while strengthening indigenous production and creating opportunities for local industries and workers
+## Crude oil futures fall ahead of expected US sanctions on Iran
+At 9.38 am on Monday, November Brent oil futures were at $91.35, down by 1.42%, and October crude oil futures on WTI (West Texas Intermediate) were at $85.68, down by 1.59%
 
-## India bonds could open weaker as US threatens more Iran sanctions
-The yield on ⁠the benchmark 6.94% 2036 bond is expected to trade between 6.83% and 6.88% on Monday
+## Nvidia discusses Perplexity investment at $30 billion-plus valuation
+The funding round would increase ‌Perplexity's valuation by more than 50% from ‌its ⁠previous financing a year ago
 
-## India’s $10 billion equity rush puts August on track for record
-Almost $10 billion of deals have been priced in August, led by the government’s blockbuster $3.2 billion sale of shares in LIC
+## 20 stocks to watch: Lenskart, Natco Pharma, Power Grid, GHCL, Sigachi
+Corporate developments across sectors include stake-sale plans in Lenskart, regulatory updates for pharma companies, major power and infrastructure orders, new manufacturing investments, strategic partnerships, preferential issues, and expansion initiatives by several listed companies
 
-## FLY91 to raise ₹150 crore for growth : Chairman Harsha Raghavan
-The airline has six ATR-72 aircraft and is in discussions with lessors to add more planes.
+## Indian banks' asset quality outlook remains stable, West Asia impact limited: Report
+The report indicates that asset quality for Indian banks has significantly improved over the past five years, with overall stress remaining low
 
-## Stock Market Today Live Updates: BSE Sensex, NSE Nifty50 eye recovery after two-week fall; crude oil, geopolitical cues in focus
+## KPMG Australia to cut 5% of workforce amid scandal, weak growth outlook
+KPMG Australia is set to cut around five percent of its workforce, a move triggered by a scandal involving breach of client confidentiality. The firm projects a challenging economic landscape lasting until 2028. Revenue has dipped by one percent, with a striking decline in consulting services. This 
+
+## Stock market today: BSE Sensex jumps over 200 points, NSE Nifty50 opens above 24,300
 
 
 ## Weekly Stock Buys: Motilal Oswal Wealth backs Crompton Greaves, ICICI Prudential AMC; upside up to 35%
@@ -81,8 +84,20 @@ In the lead-up to impending US sanctions on Iran, oil prices fell as investors c
 ## FPIs accelerate buying: Invest 23.5k crore in August
 
 
-## Government looks to deepen trade ties with Japan
+## Vijay drops project to create Palandur Airport amid protests, it was meant to serve as Chennai's second
+Vijay drops project to create Palandur Airport amid protests, it was meant to serve as Chennai's second
 
+## ICSSR invites papers on ‘religious conversion and demographic dynamics’
+The ICSSR has invited research papers for a special issue examining India’s demographic changes, with themes ranging from migration, ageing and others
+
+## 2 MLAs, an Innova, a close shave: How car lost control, crashed into SUV at Delhi's ITO
+The SUV was carrying Anil Jha, the sitting MLA from Kirari Vidhan Sabha, and Abhay Patil, an MLA from Karnataka, when the collision occurred.
+
+## Indian cities should embrace skyscrapers
+Local rules prevent their construction. Hyderabad shows why that’s silly
+
+## Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha
+Decomposed body parts were found inside a red trolley bag in the general compartment of the Tamil Nadu Express at Agra Cantonment Railway Station on August 5.
 
 ## After PM CARES Fund, CJP flags ₹92 crore upkeep bill for ministers’ homes: ‘Stop fixing lavish homes’
 The total expenditure over the last 12 years was put at ₹547.68 crore, according to data claiming to be based on an RTI.
@@ -93,20 +108,8 @@ The incident occurred during the arrival procession of the Ganesh idol.
 ## Through forests and across streams, Census set to reach Bastar’s former Red strongholds
 After years of exclusion caused by Maoist insurgency, Bastar villages are being brought into the Census as teams trek through remote forests to record residents
 
-## Bangalore Water Supply test leaves 9 judge bench in awkward posture
-The operative portion, read out on August 20, was understood as a 5:4 verdict but the judgment released subsequently reveals a more complicated picture.
-
-## ED raids locked house of KPSC ex-controller
-The Enforcement Directorate (ED) on Sunday conducted a search at the locked residence of Karnataka Public Service Commission (KPSC) former examination controller Gyanendra Kumar Gangwar (CHECK), in connection with alleged irregularities with the recruitment officers
-
-## Adani meet with DKS sparks buzz as tunnel project awaits nod
-Adani Group chairman Gautam Adani’s meeting with chief minister DK Shivakumar has drawn attention, days after Adani Enterprises emerged as the lowest bidder for the proposed 16
-
-## 3 newborns killed after fire breaks out at Maharashtra hospital, 6 rescued
-Three newborn babies were killed after a massive fire broke out at a district hospital in Maharashtra's Amravati.
-
-## Pharmacy owner hacked to death in B’luru
-A 35-year-old medical store owner was hacked to death near the Madiwala underpass in Bengaluru on Saturday night, police said on Sunday, adding that they suspect that the killing could be an act of revenge linked to an earlier murder case involving his brothers
+## Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?
+China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market. CCSH Corporation, parent of China’s top NAND flash maker, planned to sell
 
 ## Investment market volatility is ‘here to stay’ unless global recession strikes: analyst
 Wealthy investors should be ready for higher volatility “for years” as uncertainties around artificial intelligence (AI) development and geopolitical risks are set to persist, according to a major private bank. In the past few years, asset prices underwent several roller coaster rides, from US Liber
@@ -117,20 +120,17 @@ Wealthy investors should be ready for higher volatility “for years” as uncer
 ## A rural city, once known for livestock, now provides China’s AI computing fuel
 For generations, Ulanqab – a city several hundred kilometres northwest of Beijing whose Mongolian name means “red cliff pass” – was known for its windswept pastureland, where cattle grazed and potatoes thrived under long hours of sunlight. Its economy hinged on the weather, driven by the cool, stron
 
-## Alibaba sets price in US$10.2b billion new share offer, drops 10% on market open
-Alibaba Group Holding has set the offer price for its new share placement at HK$112.70 each to raise HK$80 billion (US$10.2 billion), issuing 710 million shares in one of the largest artificial intelligence-dedicated fundraising efforts by a Chinese technology firm. The price represented an 8.4 per 
+## Alibaba’s US$10 billion share sale three times oversubscribed in Hong Kong
+Alibaba Group Holding has sold 710 million new shares at HK$112.70 each to raise HK$80 billion (US$10.2 billion) in one of the largest artificial intelligence-dedicated fundraising efforts by a Chinese technology firm. The offer price represented an 8.4 per cent discount to the stock’s closing price
 
 ## Shein seeks to raise up to US$1.76 billion in Hong Kong initial public offering
-Fast-fashion retailer Shein Global Holdings is seeking to raise as much as HK$13.85 billion (US$1.76 billion) in a Hong Kong initial public offering (IPO) that was initially planned four years ago. Shein will sell 279 million shares at HK$47.6 to HK$49.5 each, according to a filing to the city’s sto
+Fast-fashion retailer Shein Global Holdings is seeking to raise as much as HK$13.85 billion (US$1.76 billion) in a Hong Kong initial public offering that was initially planned four years ago. Shein will sell 279 million shares at HK$47.60 to HK$49.50 each, according to a filing to the city’s stock e
 
 ## Yuan, Hong Kong dollar bonds surge as issuers seek cheaper funding amid rising US costs
 Hong Kong and mainland China are set to see continued growth in bond issuance denominated in Hong Kong dollars or the yuan through the rest of the year, as issuers reduce their reliance on US dollar-denominated bonds and seek cheaper funding costs, according to a senior executive at Standard Charter
 
 ## Hong Kong homebuyers snap up units at The Sterling as value-focused demand deepens
 Hong Kong homebuyers are still willing to spend, and the sell-out of a major new development on Saturday showed how demand is increasingly concentrated in projects that offer clear value as the housing recovery enters a more mature phase. China Resources Land’s The Sterling in southwestern Kowloon, 
-
-## US economist Barry Eichengreen on reality of de-dollarisation and next currency reshuffle
-Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m
+Maradona’s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the ‘Hand of God’.
+
+## Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc
+Footage filmed by a climber on Mont Blanc shows rocks cascading down the Goûter Couloir, known as ‘Death Pass’. The clim
+
+## ‘We know this movie’: Iran mocks latest US sanctions
+Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the 'same movie on repeat'.
+
+## Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions
+Syria's foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.
+
 ## Human-caused Nevada wildfire forces 42,000 people to evacuate
 A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate and put another 45,000 on alert.
 
@@ -239,18 +251,6 @@ Case fatality rate climbs to nearly 48 percent in DRC, meaning almost one in two
 
 ## India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi
 The Cockroach Janta Party’s ‘Fix the Schools’ campaign in India is facing pushback from BJP leaders and supporters.
-
-## Large forest fire burns close to residential areas in Ankara
-A large forest fire is threatening homes near residential areas of Mamak on the outskirts of the Turkish capital.
-
-## Tokayev allies head for landslide victory in Kazakhstan elections
-Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.
-
-## Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports
-US Treasury Secretary Scott Bessent says Washington aims to 'sever every economic lifeline' that sustains Iran.
-
-## Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
-Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.
 
 ## AI is creating more jobs than it destroys in India, but freshers face the squeeze
 AI is creating more jobs than it destroys in India currently. However, entry-level hiring is declining significantly for young workers. Companies increasingly value experienced employees with deeper business knowledge.
