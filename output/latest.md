@@ -33,6 +33,21 @@ Once high-flying fast-fashion retailer is listing in Hong Kong at quarter of pea
 ## As dieters slim down, protein prices bulk up
 A lot of people are finding an appetite for whey
 
+## West Bengal bars teacher-doctors from private practice for 72 hours after government hospital admission
+The new directive seeks to ensure treating faculty remain available to government hospital patients during the crucial period following admission.
+
+## India’s chemicals sector targets $1 trillion by 2040
+The government is seeking closer industry engagement and greater investment to strengthen manufacturing, innovation and long-term competitiveness across the chemicals sector, says Nadda
+
+## India’s non-fossil fuel power capacity crosses 300 GW, reaches 54% of total capacity
+The milestone underscores India’s accelerating clean energy transition, with states such as Rajasthan playing a key role in expanding renewable infrastructure.
+
+## Luxembourg-based iPC proposes ₹83,480 crore investment in Karnataka in three phases
+The proposed project will combine large-scale digital infrastructure with green hydrogen and power generation across an integrated Bengaluru-Tumakuru platform
+
+## Haryana pitches strategic partnership as MoUs worth ₹66,000 crore signed
+The state outlined sector-specific growth plans and measures aimed at attracting investment, strengthening industries and expanding economic opportunities across districts
+
 ## Indian EVMs not connected to internet, Bluetooth or Wi-Fi, says CEC Gyanesh Kumar
 During his Lucknow visit, the Chief Election Commissioner discussed EVM reliability, electoral processes and the role of young citizens in democracy.
 
@@ -42,20 +57,14 @@ The digital platform is aimed at making postal services more accessible while he
 ## World’s oceans simmer at record heat, threatening marine life and food security
 Record-breaking ocean heat is raising concerns over worsening storms, collapsing fisheries, coral loss and growing risks to communities dependent on marine ecosystems
 
-## Trump administration plans to revoke up to 200,000 US visas of asylum seekers
-The proposed action marks another escalation in Washington’s immigration crackdown, targeting temporary visitors who later seek protection and permanent status
+## India a safe base, Piyush Goyal tells Japanese investors
+Cites Long List Of Trade Deals, Says Data Is Protected, Intellectual Property Is Secure
 
-## China says US sanctions on Iran will worsen tensions, hurt global economy
-Beijing’s response comes as Washington steps up efforts to isolate Tehran economically, putting pressure on countries maintaining trade and financial ties
+## TCS to acquire Porsche arm for $373 million, inks $1.4 billion deal
 
-## US announces fresh Iran sanctions, warns countries doing business with Tehran
-Washington is widening its economic campaign against Tehran as Iran faces mounting financial strain, a plunging currency and uncertainty over peace prospects
 
-## US proposes additional $103,265 fee for H-1B visa cap-subject applications
-The proposed levy comes as Washington seeks to recover federal immigration costs, while businesses and advocates warn of its impact on skilled workers
+## UPI@10: How platform changed the way we pay
 
-## Editorial. F&O Mayhem: Time to Consider Other Options!
-F&O frenzy needs to be tackled differently
 
 ## Russian President Putin says will continue fertiliser supplies to India
 
@@ -71,15 +80,6 @@ F&O frenzy needs to be tackled differently
 
 ## Trump’s ‘Operation Economic Outcast’ against Iran: What sanctions threat could mean for India
 The Donald Trump administration said on Monday that the new US sanctions are intended to shut off every potential source of revenue for Iran, while warning other countries that continuing their economic ties with Tehran could expose them to retaliation.
-
-## Iran blacklists 45 tankers over Strait of Hormuz rules amid fresh US sanctions threat
-Iran has blacklisted 45 tankers for breaching its navigation regulations in the Strait of Hormuz. The repercussions for vessels engaging in ship-to-ship transfers with these tankers could be dire, including hefty fines and detentions. This move intensifies the existing tensions in the vital waterway
-
-## Infosys pays average 70% bonus for first quarter; employees await clarity on salary hikes
-Infosys reported a 12% year-on-year rise in consolidated net profit to Rs 7,769 crore for the April-June quarter last month, even as it reduced its revenue growth guidance for the full year.
-
-## US stock market today: Wall Street subdued ahead of key earnings; bond market in focus
-On Monday, the yield on the 10-year Treasury fell to 4.70%, from 4.74% late Friday. It was also back below its level from late Tuesday, before the US Treasury Department unveiled its unexpected buyback announcement.
 
 ## Chhattisgarh CM urges workers' children to dream big, work hard
 Chhattisgarh CM urges workers' children to dream big, work hard
@@ -105,6 +105,9 @@ The new locomotives manufactured at the Madhepura factory will have an inbuilt u
 ## ‘You know nothing’: Maharashtra hill tragedy victims' relative refutes iPhone EMI claims
 The teen's aunt described the iPhone narrative as a "rumour", claiming that people spreading such tales "know nothing".
 
+## Hong Kong housing rally faces test as property flippers retreat
+Hong Kong’s housing rally faces a new test as investors who rode the first-half rebound become less active in quick-turn trades, leaving owner-occupiers and longer-term buyers to sustain the recovery. Secondary home prices have continued to rise, with Centaline’s leading index climbing 0.64 per cent
+
 ## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
 Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
 
@@ -125,9 +128,6 @@ Louis Vuitton will close its only store in Guiyang on August 31, according to an
 
 ## CATL debuts e-commerce platform for direct sales to small buyers, as competition sharpens
 China’s battery king Contemporary Amperex Technology Limited (CATL) is enabling direct sales to smaller energy storage system makers via its own e-commerce platform, as competition with its domestic peers intensifies. The platform, officially launched on Friday, would offer orders as small as three 
-
-## Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?
-China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market. CCSH Corporation, parent of China’s top NAND flash maker, planned to sell
 
 ## U.S. Unveils ‘Economic D-Day’ Against Iran
 The White House vows to sanction any country that continues to do business with Tehran.
@@ -225,6 +225,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How US sanctions on Iran ripple through global markets and consumers
+New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
+
+## US Supreme Court sides with Trump administration on mail voting
+Mail balloting has long been a favourite target of US President Donald Trump.
+
 ## US removes Syria from ‘state sponsor of terrorism’ list
 Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a 'terrorist' organisation.
 
@@ -242,12 +248,6 @@ Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Bala
 
 ## What’s behind domestic political pressure on Ukraine’s president?
 Zelenskyy rejects call from sacked minister for wartime elections.
-
-## Video: Iran reacts to US ‘economic D-Day’ sanctions
-Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.
-
-## Ceasefire monitoring mission arrives in Democratic Republic of Congo
-Fighting persists in the mineral-rich region despite ceasefire agreements.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
