@@ -3,7 +3,7 @@
 ## Trump says US to increase tariffs on Canadian cars to 50%
 Move marks further escalation of Washington’s trade war with Ottawa
 
-## Scott Bessent warns Iran’s partners of sanctions but offers no timeline
+## Scott Bessent threatens Iran’s economic partners with more sanctions
 US Treasury secretary had billed announcement as ‘D Day’ for Tehran but stopped short of sweeping action
 
 ## Burnham rules out early election as he admits UK faces ‘challenging’ financial outlook
@@ -231,7 +231,19 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Yemen’s Houthis report attack on Saudi ship
+## Violence flares in Haiti as gang attack kills 30 people
+Island nation grapples with violence as it seeks to hold first elections in more than a decade.
+
+## Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor
+Fabinho joined ​Saudi Arabia's Al-Ittihad in 2023, where he won the ​league after his five-year stint at Liverpool.
+
+## Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts
+Karen Attiah was fired for posts about Charlie Kirk’s assassination that the Post said violated its social media policy.
+
+## Mexico’s Sheinbaum condemns governor’s return amid US drug charges
+President Sheinbaum criticises Governor Rocha's return amid US drug charges, calling it 'reckless' and 'inappropriate'.
+
+## Yemen’s Houthis report attack on Saudi oil tanker in Red Sea
 Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
 
 ## Video: Israel attacks desalination plant and mosque in Gaza
@@ -242,18 +254,6 @@ Israeli restrictions are disrupting fuel supplies across the occupied West Bank.
 
 ## Why ‘pogrom’ best describes what’s happening in the occupied West Bank
 Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.
-
-## Israel threatens attacks in Gaza over children’s kites
-Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites
-
-## Trump administration seeks to formalise H-1B fee of more than $100,000
-New proposal would charge $103,265 for the US's H-1B visas, and make permanent a temporary rule challenged by courts.
-
-## Norway plans further development of Arctic drilling amid EU energy concerns
-EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.
-
-## Kidnappers release video showing hundreds abducted from Nigerian mosque
-Mass kidnappings highlight Nigeria's security crisis in the north as elections approach.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
