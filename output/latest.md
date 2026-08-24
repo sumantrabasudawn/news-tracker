@@ -1,10 +1,10 @@
 # AION Intelligence
 
+## Scott Bessent threatens more US sanctions on Iran’s economic partners
+Treasury secretary’s announcement stops short of sweeping immediate action on China and other countries
+
 ## Trump says US to increase tariffs on Canadian cars to 50%
 Move marks further escalation of Washington’s trade war with Ottawa
-
-## Scott Bessent threatens wider US sanctions on Iran’s economic partners
-Treasury secretary warns of further measures in bid to increase pressure on Tehran
 
 ## Burnham rules out early election as he admits UK faces ‘challenging’ financial outlook
 Prime minister stops short of ruling out tax increases in October’s Budget, saying his policies will be ‘funded’
@@ -63,6 +63,9 @@ The acquisition will strengthen TCS’ presence in Germany, Romania, the UK, the
 ## ESIC crackdown: Over ₹2,400 cr social security money trapped in 6.45 lakh recovery certificates pending for a decade
 Under the ESIC Act, the officials are authorised to issue orders for attachment and sale of the employer’s movable or immovable property and also arrest or detain defaulters in extreme non-compliance cases
 
+## Trump’s ‘Operation Economic Outcast’ against Iran: What sanctions threat could mean for India
+The Donald Trump administration said on Monday that the new US sanctions are intended to shut off every potential source of revenue for Iran, while warning other countries that continuing their economic ties with Tehran could expose them to retaliation.
+
 ## Iran blacklists 45 tankers over Strait of Hormuz rules amid fresh US sanctions threat
 Iran has blacklisted 45 tankers for breaching its navigation regulations in the Strait of Hormuz. The repercussions for vessels engaging in ship-to-ship transfers with these tankers could be dire, including hefty fines and detentions. This move intensifies the existing tensions in the vital waterway
 
@@ -84,8 +87,11 @@ Industry representatives from India's sugar sector have assured that there is no
 ## ‘Most expensive in years’: Iran war, Hormuz closure forces India to pay high prices for LNG
 State-backed energy companies are increasingly going to the spot LNG market and bidding up prices as the government seeks to support fertilizer producers that use natural gas.
 
-## 81-year-old mother allegedly forced to leave house: SC restores son's eviction under Senior Citizens Act
-A Bench of Justice Pamidighantam Sri Narasimha and Justice Alok Aradhe set aside the Allahabad High Court's orders holding that authorities under the 2007 Act had no power to order eviction.
+## Chhattisgarh CM urges workers' children to dream big, work hard
+Chhattisgarh CM urges workers' children to dream big, work hard
+
+## Chhattisgarh govt to impart lessons on state's art and culture to students
+Chhattisgarh govt to impart lessons on state's art and culture to students
 
 ## Karnataka beggar dies, ₹8.4 lakh savings found as she leaves behind currency notes at home
 The cash, accumulated over the years, included ₹10, ₹20 and ₹50 notes. More than 30 sacks containing the money were found inside the house.
@@ -104,12 +110,6 @@ The new locomotives manufactured at the Madhepura factory will have an inbuilt u
 
 ## ‘You know nothing’: Maharashtra hill tragedy victims' relative refutes iPhone EMI claims
 The teen's aunt described the iPhone narrative as a "rumour", claiming that people spreading such tales "know nothing".
-
-## Gurugram rain chaos: School buses stranded for hours with kids, ambulances stuck; WFH, online classes advised
-Gurugram experienced significant disruption from rain-induced waterlogging, affecting traffic and stranding vehicles.
-
-## Ex-Andhra minister, son used liquor ‘scam’ funds to buy luxury cars, watches; cover family expenses, says ED
-Venkata Nageswara Rao, 61, was arrested by the ED on August 23 after being accused of acting as a "key facilitator" in the alleged "scam".
 
 ## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
 Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Kidnappers release video showing hundreds abducted from Nigerian mosque
+Mass kidnappings highlight Nigeria's security crisis in the north as elections approach.
+
+## Trump administration announces global economic war on Iran
+The US says it is targeting all of Iran’s sources of revenue, including oil.
+
 ## Japanese delegation seeks to soothe strained ties with China
 A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.
 
@@ -248,12 +254,6 @@ The 49-year-old was found to have subjected a girl and a boy to multiple inciden
 
 ## Israeli strike on Gaza shelter extends casualty list
 More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.
-
-## Nathan Cofnas on whether he feels responsible for Jason Arday’s death
-Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.
-
-## England drop fast bowler Bryden Carse amid investigation into club incident
-The 31-year-old Durham bowler will not play against Pakistan in the upcoming second Test match.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
