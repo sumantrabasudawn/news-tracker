@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Shein seeks $27bn valuation from Hong Kong IPO
+New figure is just over a quarter of its peak after fast-fashion retailer’s attempts to list in New York and London derailed by opposition
+
 ## Treasury brings in expert to review business rates for UK pubs and hotels
 Jerry Schurder will consult industry and report in time for recommendations to be implemented at next revaluation in 2029
 
@@ -33,32 +36,35 @@ Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talk
 ## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
 Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
 
-## Government can bring robotics to life
-Without policy, there are few incentives to automate business functions where labour costs are low
+## Sensex today | Stock Market Live: GIFT Nifty signals flat start amid high crude prices, Iran tensions
+Sensex, Nifty, Share Prices Live: Indian equities are set for a cautious start on Monday as elevated crude prices, persistent West Asia tensions and mixed global cues weigh on sentiment, while traders assess FII positioning, sector rotation and derivatives positioning ahead of Tuesday’s expiry.
 
-## Symbiotec Pharmalab IPO opens today: Price, dates, lot size and key details
-What brokerage say on the IPO?
+## Citi, Axis Bank team up on leveraged India dollar deposit boom
+Axis Bank will provide standby letters of credit to support financing extended by Citigroup through its offshore operations
 
-## Sensex today | Stock Market Live: Stock to buy today: IndusInd Bank
-Sensex, Nifty, Share Prices Live: The stock of IndusInd Bank has been consolidating for about a month. That is, it has been oscillating between ₹990 and ₹1,035 since the final week of July. Prior to this, the trend has been bullish. The chart now shows the formation of a good base at ₹990, where the
+## Rupee set for quiet open, supported by inflows; oil, month-end activity eyed
+The rupee is expected to open in the 95.65-95.70 range, per ‌traders, having settled at 95.6950 to the dollar on Friday
 
-## Hy-Tech Engineers IPO issue opens today: Read Key details
-Brokerages views on the IPO
+## Gold hits over 3-month high ahead of US inflation data, Fed chair speech
+Spot gold was up 0.5% at $4,627.42 per ounce, as of 0155 GMT, after hitting ‌its highest level since May 15 earlier in ‌the ⁠session
 
-## Skyways Air Services IPO opens today: All you need to know
-See SBI Securities views and anchor investors
+## West Bengal gets ₹3,500 crore defence, shipbuilding projects from GRSE, YIL
+The projects will expand shipbuilding and defence manufacturing capabilities while strengthening indigenous production and creating opportunities for local industries and workers
 
-## Nifty, Sensex may open weak as crude, West Asia tensions weigh
-Investors are likely to remain cautious as geopolitical risks, firm oil prices and derivatives positioning shape trading sentiment at the start of week.
+## India bonds could open weaker as US threatens more Iran sanctions
+The yield on ⁠the benchmark 6.94% 2036 bond is expected to trade between 6.83% and 6.88% on Monday
 
-## Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders
-Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders
+## India’s $10 billion equity rush puts August on track for record
+Almost $10 billion of deals have been priced in August, led by the government’s blockbuster $3.2 billion sale of shares in LIC
 
-## Deendayal Port Authority crosses 70 MMT cargo mark ahead of schedule
-The Kandla port has strengthened its position in India’s maritime trade, recording faster cargo growth and new daily handling records
+## FLY91 to raise ₹150 crore for growth : Chairman Harsha Raghavan
+The airline has six ATR-72 aircraft and is in discussions with lessors to add more planes.
 
-## 20 stocks to watch on Monday: Lenskart, Natco Pharma, Power Grid, GHCL, Sigachi and others
-Corporate developments across sectors include stake-sale plans in Lenskart, regulatory updates for pharma companies, major power and infrastructure orders, new manufacturing investments, strategic partnerships, preferential issues, and expansion initiatives by several listed companies
+## Stock Market Today Live Updates: BSE Sensex, NSE Nifty50 eye recovery after two-week fall; crude oil, geopolitical cues in focus
+
+
+## Weekly Stock Buys: Motilal Oswal Wealth backs Crompton Greaves, ICICI Prudential AMC; upside up to 35%
+Stock market recommendations: Crompton Greaves, and ICICI Prudential AMC- these are the top stocks that have been picked by Motilal Oswal Wealth Management Research Desk as stock recommendations for the week starting August 24, 2026:
 
 ## Oil prices slip over $1 as US weighs ‘D-Day’ Iran sanctions; Strait of Hormuz shipping risks in focus
 In the lead-up to impending US sanctions on Iran, oil prices fell as investors capitalized on recent gains. As Washington prepares to unveil its most stringent measures Monday, the potential for disruptions in Middle Eastern oil supply looms large. Iran's rejection of these sanctions, coupled with i
@@ -78,35 +84,32 @@ In the lead-up to impending US sanctions on Iran, oil prices fell as investors c
 ## Government looks to deepen trade ties with Japan
 
 
-## Nifty 500 cos earnings jump 13% in Q1, OMCs feel West Asia heat
+## After PM CARES Fund, CJP flags ₹92 crore upkeep bill for ministers’ homes: ‘Stop fixing lavish homes’
+The total expenditure over the last 12 years was put at ₹547.68 crore, according to data claiming to be based on an RTI.
 
+## Clashes break out after eggs hurled at Ganesh idol procession in Maharashtra; police deployed
+The incident occurred during the arrival procession of the Ganesh idol.
 
-## Syed Akbaruddin, Annie George Mathew, Janmejaya Kumar Sinha on RBI board
+## Through forests and across streams, Census set to reach Bastar’s former Red strongholds
+After years of exclusion caused by Maoist insurgency, Bastar villages are being brought into the Census as teams trek through remote forests to record residents
 
+## Bangalore Water Supply test leaves 9 judge bench in awkward posture
+The operative portion, read out on August 20, was understood as a 5:4 verdict but the judgment released subsequently reveals a more complicated picture.
 
-## 19-year-old killed, friend injured after truck hits motorcycle on Delhi's Indraprastha flyover
-A police team reached the spot and found a motorcycle lying in a damaged condition and two people seriously injured. One of them died in the hospital.
+## ED raids locked house of KPSC ex-controller
+The Enforcement Directorate (ED) on Sunday conducted a search at the locked residence of Karnataka Public Service Commission (KPSC) former examination controller Gyanendra Kumar Gangwar (CHECK), in connection with alleged irregularities with the recruitment officers
 
-## 'Trouble proving citizenship after representing India in 3 countries': Ex-envoy to ECI over Punjab SIR
-Suri served as India’s ambassador to the UAE and Egypt and high commissioner to Australia.
+## Adani meet with DKS sparks buzz as tunnel project awaits nod
+Adani Group chairman Gautam Adani’s meeting with chief minister DK Shivakumar has drawn attention, days after Adani Enterprises emerged as the lowest bidder for the proposed 16
 
-## Delhi health minister to hold meeting today as H1N1 cases rise to almost 1,800
-The Capital has recorded 2,392 influenza-A cases this year. Of this, H1N1 is the predominant subtype, accounting for 1,777 cases.
+## 3 newborns killed after fire breaks out at Maharashtra hospital, 6 rescued
+Three newborn babies were killed after a massive fire broke out at a district hospital in Maharashtra's Amravati.
 
-## Terror plot foiled in Chandigarh: 3 held with DIY bomb, firearm, 5 kg gelatin sticks in tiffin box near bus stand
-The apprehended three people were believed to have links with the Babbar Khalsa International (BKI), a Khalistani separatist terrorist organisation.
+## Pharmacy owner hacked to death in B’luru
+A 35-year-old medical store owner was hacked to death near the Madiwala underpass in Bengaluru on Saturday night, police said on Sunday, adding that they suspect that the killing could be an act of revenge linked to an earlier murder case involving his brothers
 
-## 2 teachers, 15-year-old student drown in waterfall pool in Madhya Pradesh
-People present at the site rescued three students in time, but two teachers and a student drowned.
-
-## 22 missing, 2 rescued after China-bound cargo ship sinks off Odisha coast; rescue ops underway
-The China-bound vessel left Paradip Port on Friday. It reportedly sank in deep waters of the Bay of Bengal on Saturday.
-
-## 2 MLAs among several injured after car crashes into SUV in Delhi
-Delhi's Anil Jha and Karnataka's Abhay Patil were injured after a Swift car crossed a divider and collided with an Innova.
-
-## PM Modi says India can ‘very quickly’ make its place in global space sector: ‘We must create an aura that…’
-PM Modi urged private space firms to build an ecosystem that attracts global talent and investment, as India targets a larger share in the space economy
+## Investment market volatility is ‘here to stay’ unless global recession strikes: analyst
+Wealthy investors should be ready for higher volatility “for years” as uncertainties around artificial intelligence (AI) development and geopolitical risks are set to persist, according to a major private bank. In the past few years, asset prices underwent several roller coaster rides, from US Liber
 
 ## Building the Future: How BTRi Is Positioning Hong Kong as the Global Gateway for Construction Innovation
 [The content of this article has been produced by our advertising partner.] Hong Kong is pursuing its most ambitious development agenda in a generation, led by the Northern Metropolis, with the backing of the Hong Kong’s First Five-Year Plan which proactively aligns with the national development str
@@ -128,9 +131,6 @@ Hong Kong homebuyers are still willing to spend, and the sell-out of a major new
 
 ## US economist Barry Eichengreen on reality of de-dollarisation and next currency reshuffle
 Barry Eichengreen is a leading American economist and one of the world’s foremost experts on international monetary systems. He is a professor of economics and political science at the University of California, Berkeley, where he has taught since 1987. He served as a senior policy adviser at the Int
-
-## Wall Street helped build modern China. But is it now being cast aside?
-For decades, Wall Street titans – from former Goldman Sachs chief Henry Paulson to Blackstone co-founder Stephen Schwarzman and Bridgewater founder Ray Dalio – were hailed as “old friends of China”, feted by senior officials and granted rare access to the country’s top leadership. Today, while Ameri
 
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Human-caused Nevada wildfire forces 42,000 people to evacuate
+A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate and put another 45,000 on alert.
+
 ## Can Kenya’s AI ambitions coexist with Naivasha’s water needs?
 As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.
 
@@ -243,14 +246,17 @@ A large forest fire is threatening homes near residential areas of Mamak on the 
 ## Tokayev allies head for landslide victory in Kazakhstan elections
 Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.
 
-## Iran war live: Iranian parliament advances plans for Hormuz service fees
-Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.
+## Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports
+US Treasury Secretary Scott Bessent says Washington aims to 'sever every economic lifeline' that sustains Iran.
 
 ## Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
 Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.
 
-## Will Donald Trump’s new sanctions against Iran work?
-The US president says he will impose 'crushing measures' on Tehran.
+## AI is creating more jobs than it destroys in India, but freshers face the squeeze
+AI is creating more jobs than it destroys in India currently. However, entry-level hiring is declining significantly for young workers. Companies increasingly value experienced employees with deeper business knowledge.
+
+## GSTAT president expresses concern over dismal appeal filings, sees scope for 2-2.5 lakh cases
+The GSTAT e-filing portal was made operational on September 24, 2025, and the deadline for filing appeals, which were time-barred, was July 31, 2026.
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
@@ -269,12 +275,6 @@ The tax probe has found that a substantial portion of the money moved to a handf
 
 ## Impresario eyes 18-20% revenue growth, plans to add 8-10 outlets annually as 'SOCIAL' leads expansion, CFO says
 Social will continue to lead brand expansion across identified pin codes. The company closed FY26 with over Rs 800 crore revenue. An IPO remains a long-term investor exit route option.
-
-## India regulator reviewing small-company IPO, delisting rules, chief says
-INDIA-SEBI-India regulator reviewing small-company IPO, delisting rules, chief says
-
-## Tata Sons board divided over Chandrasekaran’s exit; directors debate whether to seek reconsideration
-Tata Sons directors are divided over how to formally respond to chairman N Chandrasekaran’s decision not to seek reappointment, with some favouring a board vote and others wanting him to reconsider, people familiar with the matter said. Sir Dorabji Tata Trust has urged the board to begin succession 
 
 ## India weighs facilitating European, UK investments via green channel
 India is creating a dedicated channel to ease European and British company investments. This mechanism will offer dedicated support and help investors navigate government approvals. The initiative aims to facilitate capital flow beyond just trade agreements. Senior officials will directly monitor th
