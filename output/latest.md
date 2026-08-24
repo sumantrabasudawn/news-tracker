@@ -63,6 +63,9 @@ The acquisition will strengthen TCS’ presence in Germany, Romania, the UK, the
 ## ESIC crackdown: Over ₹2,400 cr social security money trapped in 6.45 lakh recovery certificates pending for a decade
 Under the ESIC Act, the officials are authorised to issue orders for attachment and sale of the employer’s movable or immovable property and also arrest or detain defaulters in extreme non-compliance cases
 
+## Trump admin set to revoke up to 2 lakh visas in historic crackdown
+
+
 ## As onion prices rise, Centre readies retail intervention in Delhi-NCR
 
 
@@ -83,9 +86,6 @@ On Monday, the yield on the 10-year Treasury fell to 4.70%, from 4.74% late Frid
 
 ## UPI instant payments network grows from 1.78 cr annual transactions to 24,162 crore
 India's Unified Payments Interface (UPI) is currently facilitating an impressive 66 crore transactions each day. Since 2016, the growth in its transaction volume has skyrocketed by an astounding 13,000 times. UPI has established itself as a foundational component of India's digital public infrastruc
-
-## No relief for Rial: Iranian currency sinks to record low as US works on new sanctions
-Iran's rial reached a record low as the United States prepared new economic sanctions. Existing restrictions and a naval blockade have already severely impacted Iran's economy. The currency's decline has not yielded concessions from the US President. Iran and Oman are reportedly nearing an agreement
 
 ## Chhattisgarh CM urges workers' children to dream big, work hard
 Chhattisgarh CM urges workers' children to dream big, work hard
