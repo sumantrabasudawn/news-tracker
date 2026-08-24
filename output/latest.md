@@ -4,7 +4,7 @@
 Move marks further escalation of Washington’s trade war with Ottawa
 
 ## Scott Bessent threatens Iran’s economic partners with more sanctions
-US Treasury secretary had billed announcement as ‘D Day’ for Tehran but stopped short of sweeping action
+US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action
 
 ## Burnham rules out early election as he admits UK faces ‘challenging’ financial outlook
 Prime minister stops short of ruling out tax increases in October’s Budget, saying his policies will be ‘funded’
@@ -231,6 +231,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What’s behind domestic political pressure on Ukraine’s president?
+Zelenskyy rejects call from sacked minister for wartime elections.
+
+## Video: Iran reacts to US ‘economic D-Day’ sanctions
+Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.
+
+## Ceasefire monitoring mission arrives in Democratic Republic of Congo
+Fighting persists in the mineral-rich region despite ceasefire agreements.
+
+## Ambush in South Sudan kills peacekeeping troops
+Armed men injured three additional peacekeepers as fears grow of the country relapsing into civil war.
+
+## Displaced Palestinian builds mud shelter as tents offer little relief
+A displaced Palestinian has built a traditional mud-brick house as an alternative to tents.
+
 ## Violence flares in Haiti as gang attack kills 30 people
 Island nation grapples with violence as it seeks to hold first elections in more than a decade.
 
@@ -239,21 +254,6 @@ Fabinho joined ​Saudi Arabia's Al-Ittihad in 2023, where he won the ​league 
 
 ## Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts
 Karen Attiah was fired for posts about Charlie Kirk’s assassination that the Post said violated its social media policy.
-
-## Mexico’s Sheinbaum condemns governor’s return amid US drug charges
-President Sheinbaum criticises Governor Rocha's return amid US drug charges, calling it 'reckless' and 'inappropriate'.
-
-## Yemen’s Houthis report attack on Saudi oil tanker in Red Sea
-Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
-
-## Video: Israel attacks desalination plant and mosque in Gaza
-Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.
-
-## Israeli restrictions cause fuel shortage in occupied West Bank
-Israeli restrictions are disrupting fuel supplies across the occupied West Bank.
-
-## Why ‘pogrom’ best describes what’s happening in the occupied West Bank
-Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
