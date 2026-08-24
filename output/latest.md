@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Iran threatens 46 ships in Strait of Hormuz transit crackdown
+Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation
+
+## Burnham visits Ukraine with pledge of support for long-range missile construction
+UK prime minister will shrug off warnings from Russia in first overseas visit
+
+## Cold Sunset — the entertaining return of William Boyd’s reluctant spy
+The third instalment in the Gabriel Dax series combines psychological tension and paranoia with irony and humour
+
 ## FirstFT: An economic D-Day is coming for Iran
 Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
 
@@ -9,23 +18,17 @@ EU deal heralds renewed engagement for historically insular Mercosur group despi
 ## The new world order? Every man for himself
 Now that America has hung up its hat when it comes to championing democracy, it is springtime for tyrants
 
-## Iran threatens 46 ships in Strait of Hormuz transit crackdown
-Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation
-
 ## Policing needs independence — but politicians must still set priorities
 Home secretaries have tended to delegate and forget policy decisions
 
 ## Shein seeks $27bn valuation from Hong Kong IPO
 Market capitalisation is nearly three-quarters below peak after retailer’s attempts to list in New York and London failed
 
-## Thames Water creditors plan board shake-up if utility avoids nationalisation
-Move aims to reassure government there would be a change of leadership under their ownership
-
-## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
-Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
-
 ## Hedge fund Saba takes on Baillie Gifford in new board battle
 Boaz Weinstein’s activist fund has been waging a campaign against UK investment trusts
+
+## Thames Water creditors plan board shake-up if utility avoids nationalisation
+Move aims to reassure government there would be a change of leadership under their ownership
 
 ## KPMG Australia cuts hundreds of workers and partner pay after audit scandal
 Big Four firm to let go of 5% of country staff and reduce compensation by 13% as consulting revenue tanks
@@ -36,29 +39,35 @@ Big Tech thinks wearables are the gateway to artificial intelligence. Critics ca
 ## Saudi Arabia holds talks over state-backed war insurance as costs jump
 Insurers have raised prices or restricted coverage for ships and other firms in the region owing to Iran conflict and Houthi attacks
 
-## Sensex today | Stock Market Closing Bell: Sensex settles at 77,369.11; Nifty declines 32.95 points to 24,219.05
-Sensex, Nifty, Share Prices Closing Bell: Sensex down 171.72 points to settle at 77,369.11; Nifty declines 32.95 points to 24,219.05.
+## Bajaj Auto plans 2 new brands, 3 products in FY27 portfolio reset
+Bajaj Auto is giving its ₹11,000-crore Pulsar brand a major makeover and launching new motorcycles, hoping to revive domestic sales while maintaining profitability
 
-## Symbiotec Pharmalab IPO sees subscription at 0.70x by mid-afternoon
-The employee reservation portion led with 1.19 times subscription; Retail Individual Investors subscription at 0.82 times, NII category is at 0.86 times. QIB remained the weakest segment at 0.35 times
+## ‘Investors need to look beyond trailing returns’
+Kulkarni felt that the biggest challenge for Mutual Funds industry is to make communication with common investors simpler
 
-## Govt lifts wheat export ban with immediate effect
-The government has allowed exports of wheat flour and other products like maida and semolina, according to notifications of the Directorate General of Foreign Trade.
+## Tata Capital signs MoU with Japan’s Resona Bank
+The primary objective of the business collaboration is to leverage their respective strengths in the Indian market
 
-## Symbiotec Pharmalab IPO opens today: Price, dates, lot size and key details
-What brokerages say on the IPO?
+## Chandigarh University Provides In-House Training for Civil Services, Defence, Management, Banking & PSUs
+Chandigarh University Provides In-House Training for Civil Services, Defence, Management, Banking & PSUs
 
-## 15 flights diverted at Delhi airport due to bad weather
-12 flights diverted to Jaipur, two to Chandigarh and one to Lucknow on account of inclement weather conditions in the Capital
+## Sensex today | Stock Market Highlights: Stock markets end lower amid simmering geopolitical tensions, elevated crude oil prices
+Sensex, Nifty, Share Prices Highlights: Benchmark equity indices Sensex and Nifty ended lower on Monday as persistent geopolitical tensions and elevated crude oil prices hampered risk appetite. Investors remained cautious ahead of fresh US sanctions on Iran, experts said.
 
-## Airtel Payments Bank annualised revenue crosses ₹3,300 crore in Q1
-Net profit jumps 82% to ₹19 crore; Q1 revenue rises 6.8% y-o-y to ₹830.5 crore
+## Skyways Air Services IPO opens today: Apply or Avoid?
+See SBI Securities, Religare views and anchor investors
 
-## Monsoon Update: Rainfall over North East India, South India and MP & Maharashtra
-Forecasts suggest rain footprint could gradually push westward, bringing central and west Madhya Pradesh and parts of northern Maharashtra, including the Nagpur region, under evolving wet spell
+## Lalithaa Jewellery shares end with 24% listing gains, Horizon Ind ends below ₹60-IPO price
+Lalithaa Jewellery stock began trading at ₹265 on the NSE and ₹265.30 on the BSE
 
-## Skyways Air Services IPO opens with 0.90x subscription on day 1
-The Non-Institutional Investor (NII) category stood at 0.62 times, while Qualified Institutional Buyers (QIBs) trailed significantly at just 0.43 times their allotted quota of 84,32,000 shares
+## Rupee falls 3 paise to close at 95.74 against US dollar
+The rupee opened at 95.65, then touched an intraday high of 95.64 and a low of 95.75 and finally settled for the day at 95.74 (provisional) against the greenback
+
+## No relief for Rial: Iranian currency sinks to record low as US works on new sanctions
+Iran's rial reached a record low as the United States prepared new economic sanctions. Existing restrictions and a naval blockade have already severely impacted Iran's economy. The currency's decline has not yielded concessions from the US President. Iran and Oman are reportedly nearing an agreement
+
+## 'No sugar shortage': ISMA says India has enough stocks, expects prices to cool down soon
+Industry representatives from India's sugar sector have assured that there is no shortage of sugar in the domestic market. The surge in retail prices is attributed to stockpiling speculation and adverse weather impacting production. To mitigate this, the government is facilitating duty-free sugar im
 
 ## ‘Most expensive in years’: Iran war, Hormuz closure forces India to pay high prices for LNG
 State-backed energy companies are increasingly going to the spot LNG market and bidding up prices as the government seeks to support fertilizer producers that use natural gas.
@@ -78,35 +87,29 @@ Gold price prediction today: Looking ahead, market participants will closely mon
 ## Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus
 The rupee began the trading day on a stronger note against the US dollar, appreciating by seven paise to 95.64. Nonetheless, concerns over geopolitical tensions and steady demand from importers curbed significant gains. Compounded by elevated Brent crude prices, the rupee traded cautiously. Investor
 
-## KPMG Australia to cut 5% of workforce amid scandal, weak growth outlook
-KPMG Australia is set to cut around five percent of its workforce, a move triggered by a scandal involving breach of client confidentiality. The firm projects a challenging economic landscape lasting until 2028. Revenue has dipped by one percent, with a striking decline in consulting services. This 
+## SC bans construction within 100 metres of Rajasthan’s Jojari river edge
+The direction was issued in a suo motu petition regarding pollution of the Jojari river, which risked the lives of two million residents in the state
 
-## Markets close slightly lower; Sensex falls 172 points, Nifty slips to 24,219.05
+## ‘Birthright to denounce India’s heritage’: Yogi Adityanath slams Rahul Gandhi over Manusmriti remarks
+UP chief minister Yogi Adityanath said Rahul Gandhi should be accountable to the country as the Leader of Opposition.
 
+## India cautious over Trump’s unpredictability; defends media meeting rules
+Discussions regarding arrangements for public appearances of leaders ahead of any VVIP visit are “normal practice”.
 
-## ‘Treat education as urgent priority’: CJP's Dipke writes to edu ministers, seeks state-wise data in govt schools
-In his letter, Dipke questioned the lack of basic facilities like drinking water and functional classrooms.
+## Govt ends loan licensing requirement for outsourced medical device sterilisation
+The government said it amended the Medical Devices Rules to promote ease of doing business and simplify regulatory processes
 
-## ‘How do they explain this?’: Dipke has another question on CJP Jantar Mantar protest
-Abhijeet Dipke claimed that both protesters were agitating peacefully at Jantar Mantar, when they were allegedly “hit by pellets fired by the police”.
+## Madras high court extends stay on 5 Tamil Nadu assembly bypolls. One was won by CM Vijay
+The court has extended the interim stay on notifying the bypolls till September 8 as election petitions challenging the victories are still pending.
 
-## After Bhatti network, India apprehends three fugitives linked to Bambiha Gang in Malaysia, says Amit Shah
-The three, identified as Jaspreet Singh, Ajay Singh, and Pawandeep Singh, are accused of multiple crimes.
+## Kerala man held for uploading intimate videos of wife, performing sex acts before minor daughter
+The complainant further stated that the husband also pushed for her to engage in "wife-swapping."
 
-## Delhi student protests: SC says no to separate probe into sexual assault charges
-The court said the issue has been referred to and prioritised by a five-member committee headed by its former judge R Subhash Reddy
+## Waterlogged roads or a stream? Kids swim on streets, traffic snarls as heavy rain pounds Delhi-NCR
+This comes as Delhi has been placed under a red warning until at least 5pm on Monday, with heavy rain expected to continue to hit the capital.
 
-## ‘Why should it matter?’: Vijay govt minister Keerthana slams ‘misogyny’ after woman in black dress misidentified as her
-The video showed the woman getting out of a car in a dress, with several social media users questioning whether the person was Keerthana.
-
-## Debris falls inside Uttarakhand’s Silkyara tunnel during rectification work
-In November 2023, 41 workers were trapped inside the tunnel for 17 days after a part of it caved in following a landslide
-
-## Minor girl found dead in Muzaffarnagar, days after being recovered from boyfriend's place
-The girl had allegedly eloped with her boyfriend Raju from her parental home in the Sikheda police station area around a month ago.
-
-## Bengal working towards full NEP 2020 implementation, to ink pact with NCERT: Minister
-Bengal working towards full NEP 2020 implementation, to ink pact with NCERT: Minister
+## ‘Does JPSC conduct judicial exam too?’ Worried SC asks on CBI probe plea
+The Supreme Court’s willingness to examine the plea comes amid a wider controversy over recruitment examinations in Jharkhand
 
 ## Hang Seng Bank doubles down on wealth hubs despite Beijing’s tighter investment scrutiny
 Hang Seng Bank says it continues to invest in its wealth centre network to capture growing demand from high-net-worth clients, even as Hong Kong’s wealth management industry faces uncertainty amid Beijing’s tighter scrutiny of mainland Chinese investors’ cross-border investments. The Hong Kong lende
@@ -132,6 +135,9 @@ Wealthy investors should be ready for higher volatility “for years” as uncer
 ## Building the Future: How BTRi Is Positioning Hong Kong as the Global Gateway for Construction Innovation
 [The content of this article has been produced by our advertising partner.] Hong Kong is pursuing its most ambitious development agenda in a generation, led by the Northern Metropolis, with the backing of the Hong Kong’s First Five-Year Plan which proactively aligns with the national development str
 
+## Washington Is Creating Forever Enemies
+The United States must learn to forget the pain of humiliation.
+
 ## Ditching Chinese Rare Earths Is Hard. Just Ask Japan.
 A cautionary tale for Washington’s diversification push.
 
@@ -152,9 +158,6 @@ Northern Ireland’s most outlandish plan comes to fruition in Jan Carson’s ne
 
 ## The Bolsonaro Inheritance
 Nepotism could tank the far right’s chances in Brazil.
-
-## What in the World?
-Test yourself on the week of Aug. 15: Trump praises Kim Jong Un, the U.S. and Iran miss a deadline, and the U.K. shrugs off Russian threats.
 
 ## Why Singapore’s Growing Political Diversity Matters
 The city-state's civil society has grown considerably over the past decade. It also reflects an increasingly broad spectrum of opinion about issues foreign and domestic.
@@ -228,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## India used pellets, grenades on Gen Z protests: What Amnesty report reveals
+Security forces used tear gas, pellet guns and electric shock devices against student protesters, Amnesty inquiry found.
+
+## Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision
+AVROTROS says escalating international conflicts are undermining the event's neutrality and fuelling divisions.
+
 ## US threatens toughest sanctions yet against Iran: What we know
 Tehran has threatened to retaliate against any country that joins new US economic measures.
 
@@ -245,12 +254,6 @@ Saudi Arabia, which founded the event, is spending billions to become a global g
 
 ## Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t
 Twenty-one cricket captains request PM Sharif's government to ensure Khan is given timely and independent medical care.
-
-## Transfer target Julian Alvarez booed by fans in Atletico Madrid win
-Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.
-
-## Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League
-Brazil's Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
