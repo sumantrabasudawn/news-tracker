@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## Trump says US to increase tariffs on Canadian cars to 50%
+Move marks further escalation of Washington’s trade war with Ottawa
+
+## Can Democrats seize Congress from Trump?
+The races, the money and the issues that will determine the final half of Trump’s second term
+
+## Canadian businesses fear ‘vortex of downward pressures’ from Trump’s tariffs
+Renewed trade war has inflicted pain and uncertainty on companies that deal with US
+
+## How Shein’s IPO lost its shine
+Once high-flying fast-fashion retailer is listing in Hong Kong at quarter of peak value after years of false starts
+
 ## Reform UK’s ‘Farage Fest’ went ahead without permission from council
 Organisers face potential enforcement after rally to celebrate leader’s Clacton by-election win was denied an events licence
 
 ## Starmer considered letting 100,000 young Europeans come to UK every year
 British officials reveal sweeping Brussels negotiating plan drawn up in former prime minister’s last days in office
 
-## Trump says US to increase tariffs on Canadian cars to 50%
-Move marks further escalation of Washington’s trade war with Ottawa
-
 ## Class wars and the midterms
 The US economic conversation is expanding to include things such as corruption and the Wall Street-Main Street divide
 
 ## US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance
 British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration
-
-## High asset prices, not low interest rates, are driving inflation
-Wealth distribution in the US has rendered the Federal Reserve’s usual tools less effective
-
-## Revisiting the Lockerbie bombing, 37 years later
-For the first time, a US court will try one of those alleged to be responsible for the attack
-
-## French finance minister warns tax on big businesses may be extended
-Roland Lescure says it would be ‘difficult’ to scrap unpopular surcharge on country’s largest firms
 
 ## As dieters slim down, protein prices bulk up
 A lot of people are finding an appetite for whey
@@ -39,32 +39,32 @@ Kyiv’s drones target Ozon warehouses after weeks of strikes against market lea
 ## Iran threatens 46 ships in Strait of Hormuz transit crackdown
 Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation
 
-## FirstFT: An economic D-Day is coming for Iran
-Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
+## FMG students protest over June exam, seek transparency and reforms
+The protesters have also written to Union Health Minister J P Nadda, seeking his intervention in the matter
 
-## Ironhill onboards Anirudh Ravichander as investor through Albuquerque Records
-The investment in Ironhill marks Anirudh’s second foray into the global hospitality and F&B sector after Loca Loka Tequila
+## Every day at SBI is a defining moment, says Chairman Setty
+I believe international operations will remain at around 15% of our overall credit book, which is a ratio we are comfortable with, says the SBI Chairman
 
-## Broker’s call: Concor (Add)
-JM Financial
+## TCS to acquire Porsche’s arm for €320 million, seals five-year €1.25 billion AI partnership
+The acquisition will strengthen TCS’ presence in Germany, Romania, the UK, the US, India, and Mexico and among European automotive and industrial customers
 
-## SC notice on plea for CBI probe into Jharkhand exam irregularities
-Accountability should be fixed and wrongdoers brought to justice despite the State government’s move to cancel the examination, the petition argues
+## Fino Payments Bank’s Board approves 3-month tenure extension for Merchant as interim CEO
+The extension of tenure is subject to approval of Reserve Bank of India
 
-## Globe Enterprises (India) Limited Reports 33 Percent Revenue Growth in Q1 FY27; Order Book Provides Visibility for Q2
+## Indian government lifts ban on wheat, atta, maida, suji exports
+Decision taken amid record domestic production of wheat, comfortable supplies
 
+## Gaming funding contracts in face of investor demand for sustainable monetisation
+Dubbing the move as a ‘reset,’ industry representatives urge fraternity to focus on long-term player relationships rather than chasing short-term growth spike
 
-## How to Get an Instant Credit Card with JioFinance Without Any Credit History
+## Pocket Aces achieves breakeven, strengthens Saregama’s digital entertainment ecosystem
+During the last fiscal, Pocket Aces, currently a subsidiary of the company, acquired 100 per cent of the equity share capital of Finnet
 
+## Centre appoints JK Sinha, Syed Akbaruddin and Annie George Mathew as Directors on RBI Central Board
+The appointments come on the heels of the appointment of former ISRO Chairman Somanath Sreedhara Panicker and re-appointment of industrialist Anand Gopal Mahindra as part-time, non-official Directors on the Central Board of RBI
 
-## Curis Lifesciences Charts a New Growth Path with Uninova, Export Markets and Branded Pharma Expansion
-
-
-## From Forecasts to Foresight: CROSSDIVE 2026 to Examine India’s Next Decade
-Business leaders, policymakers, researchers and global practitioners will gather in Pune to explore the forces reshaping markets, organisations and society.
-
-## Pocket
-
+## Infosys pays average 70% bonus for first quarter; employees await clarity on salary hikes
+Infosys reported a 12% year-on-year rise in consolidated net profit to Rs 7,769 crore for the April-June quarter last month, even as it reduced its revenue growth guidance for the full year.
 
 ## US stock market today: Wall Street subdued ahead of key earnings; bond market in focus
 On Monday, the yield on the 10-year Treasury fell to 4.70%, from 4.74% late Friday. It was also back below its level from late Tuesday, before the US Treasury Department unveiled its unexpected buyback announcement.
@@ -87,8 +87,11 @@ A Bench of Justice Pamidighantam Sri Narasimha and Justice Alok Aradhe set aside
 ## ‘75% global trade will be covered’: India negotiating trade deals with 8-9 more groups of countries
 Speaking to business representatives from India and Japan, Goyal said India has a sizeable domestic market while also opening itself to the global economy through nine free trade agreements signed over the past four years.
 
-## Stocks to buy: What's the outlook for Nifty for August 24-August 28 week? Check list of top stock recommendations
-Stock market recommendations: Viyash Scientific, and AU Small Finance Bank - have been picked as the top stocks to buy on August 24, 2026 by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities.
+## ED arrests 2 from Mumbai in cyber-fraud cases exceeding ₹27,850 crore
+The accused, identified as Fahim Sayed and Naim Sayyed, were arrested on Sunday, by the ED’s Panaji zonal office
+
+## Pangolin rescued from govt building in Odisha’s Nuapada, 3 arrested
+Varun Jain, dy director of Udanti-Sitanadi Tiger Reserve, said the operation was carried out by a joint team of the tiger reserve in Chhattisgarh and Khariar forest division in Odisha
 
 ## 'Dear stunt master': Congress takes dig at Kiren Rijiju over Arunachal river post, Rahul Gandhi fitness jibe
 Drawing a comparison with Rahul Gandhi, Kiren Rijiju said the Congress leader may need training for such activities, while for him, it was part of his routine.
@@ -107,12 +110,6 @@ Keonjhar superintendent of police Nitin Kushalkar urged commuters travelling bet
 
 ## Gujarat HC refuses to stay AAP legislator Chaitar Vasava’s 7-year sentence
 The Dediapada MLA, his wife, personal assistant and six others were sentenced to seven years’ rigorous imprisonment on June 23 in connection with a 2023 case
-
-## ‘No Wi-Fi, bluetooth ’: CEC Gyanesh Kumar says EVMs not internet-connected
-CEC Gyanesh Kumar encouraged young people to actively participate in the democratic process.
-
-## Meghalaya govt invites KSU for talks as Assam border tensions ease
-Presenting a suo-motu statement on the opening day of the autumn session, Sangma said the government acted swiftly
 
 ## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
 Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
@@ -234,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Samuel Eto’o urges support for embattled FIFA President Gianni Infantino
+Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.
+
+## Why Israeli settler attacks on Palestinians in West Bank are pogroms
+Israeli settler attacks, aided by military, increasingly fit the definition of a pogrom.
+
+## Houses set on fire as fresh violence erupts in India’s Manipur
+Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.
+
 ## Algeria’s schools put Shakespeare before Molière in break from France
 Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
 
@@ -248,15 +254,6 @@ Saudi crown prince and French president are set to sign several agreements on he
 
 ## Four arrested over fatal shooting of South African boxer Zolani Tete
 Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
-
-## South Korea says US cancelled upcoming joint marine exercises over Iran war
-The cancellation follows Trump's surprise order last week to scale back a separate annual joint military drill.
-
-## Activists occupy UK aircraft parts factory over Israel links
-Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.
-
-## Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud
-Kanter was ejected from the Indiana-Chicago WNBA game after he was confronted by Sky guard Natasha Cloud on court.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
