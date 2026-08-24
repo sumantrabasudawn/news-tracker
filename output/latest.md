@@ -1,64 +1,67 @@
 # AION Intelligence
 
+## FirstFT: Europe trails as AI drives US investment
+Also in this newsletter: UK pledge to Ukraine and German public-private partnerships
+
+## European allies flock to Kyiv to pledge more defences against Russian bombardment
+Also in this newsletter: An outburst of gun violence in the EU’s capital
+
 ## Shein seeks $27bn valuation from Hong Kong IPO
-New figure is just over a quarter of its peak after fast-fashion retailer’s attempts to list in New York and London derailed by opposition
+Market capitalisation is nearly three quarters below its peak after fast-fashion retailer’s attempts to list in New York and London failed
 
-## Treasury brings in expert to review business rates for UK pubs and hotels
-Jerry Schurder will consult industry and report in time for recommendations to be implemented at next revaluation in 2029
+## KPMG Australia cuts hundreds of workers and partner pay after audit scandal
+Big Four firm to let go of 5% of country staff and reduce compensation by 13% as consulting revenue tanks
 
-## Burnham to pledge support for long-range missile construction in Ukraine
-UK prime minister will shrug off warnings from Russia in first overseas visit
+## Analysts’ views: forecasters continue to see Fed and Bank of England on hold this year
+Fed and BoE will remain on hold, with rate rises from ECB and Bank of Japan to come this year, according to our August survey
 
-## Scottish state bank records £138mn loss on back of failed investments
-Fifth consecutive full-year loss exposes tension in mandate of lender set up by SNP-led government
+## Singapore offers parents $55,000 in battle to boost birth rates
+City-state is on course to become a ‘super-aged’ society this year
 
-## An economic D-Day is coming for Iran
-Countries that calculate appeasement of the regime to be a safer choice should reconsider
+## UK statistics agency turns to AI to cut costs and improve data
+ONS says technology will help save thousands of hours a year as it seeks to strengthen core output
 
-## FirstFT: Kevin Warsh seeks to calm investors’ nerves as signs of economic strain grow
-Also in this newsletter: Alibaba announces $10.2bn share placement and Anthropic’s best AI model struggles to attract users
+## Saudi Arabia holds talks over state-backed war insurance as costs jump
+Insurers have raised prices or restricted coverage for ships and other firms in the region owing to Iran conflict and Houthi attacks
 
-## How New Zealand’s biggest city solved its housing crisis
-Rezoning has changed the face of Auckland though critics warn lessons hard to replicate
+## Does AI belong on your face?
+Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
 
-## Warsh seeks to soothe investors’ nerves as signs of economic strain mount
-Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium
+## Shell draws Exxon interest in $8bn US chemical assets sale
+US supermajor and LyondellBasell among suitors as UK group looks to shed underperforming plants and refocus on oil and gas
 
-## Yahoo, the internet’s ‘OG’, wants to win over Gen Z
-Group’s chief says vintage web name can help draw younger users
+## A ‘democratised’ financial crisis is still a crisis
+Private credit’s insurance boom could have hidden costs
 
-## Trump accused of risking more pain for Americans with Canada trade war
-Collapse of talks threatens to raise prices even higher months before midterm election
+## UBS concern over private markets push by manager of $1bn sustainable finance fund
+Ties between Swiss bank and Record soured but UK partner remains as manager, according to insiders
 
-## A week of keynote speeches
-Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talks monetary policy at Jackson Hole and investors await Nvidia earnings call
+## Rays of Belief's IPO to open on Sep 1; price band set at ₹227-239/share
+The post-issue implied market capitalisation of the company is estimated at ₹474-500 crore, based on the price band
 
-## UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant
-Security chiefs brief energy bosses with ‘advice, direction and next steps’ after cyber attack on small gas-fired facility
+## Sensex today | Stock Market Live: Sensex, Nifty steady as investors await Iran sanctions and F&O expiry
+Sensex, Nifty, Share Prices Live: Indian equities traded with a mild positive bias on Monday as investors balanced weak global cues, elevated crude prices and West Asia tensions against softer dollar and Treasury yields. With F&O expiry approaching, stock-specific moves and cautious positioning are 
 
-## Sensex today | Stock Market Live: Nifty tops 24,280, Sensex gains over 100 points
-Sensex, Nifty, Share Prices Live: Indian equities began the week on a positive note despite lingering geopolitical risks and elevated oil prices, with the Sensex gaining over 200 points and the Nifty crossing 24,300 as investors assess expiry positioning and sectoral trends.
+## Avaada plans public filing for $800 million IPO in India
+The Brookfield Renewable Partners-backed company has appointed ICICI Securities Ltd, Axis Capital Ltd, HSBC Holdings Plc, IIFL Capital Services Ltd and Bank of America to help manage the potential share sale in India
 
-## Chlorine gas leaks at water treatment plant in Nagpur; several hospitalised
-Several people were hospitalised after the leakage occurred in a 900-kg capacity chlorine gas cylinder at the water treatment plant in Godhani village at around 1 am
+## TN CM Vijay announces more free buses for women; 3- free cooking gas cylinders
+Vijay also declared that the Parandur greenfield airport project will be shelved
 
-## ED arrests 2 in pan-India cyber fraud crackdown case
-The Enforcement Directorate suspects bank transactions worth ₹27,000 crore and cash dealings of ₹3,000 crore by this alleged cyber criminal network
+## Oriental Hotels to merge with IHCL in all stock deal
+IHCL owns 37 per cent stake in OHL
 
-## Telangana govt to develop ride-hailing app for auto drivers
-The auto drivers called off their planned indefinite strike from today following assurances by the state government on their various demands
+## Tamil Nadu govt abandons Parandur airport plan, looks for alternative site
+Chief Minister C Joseph Vijay made the official announcement in the State Assembly noting that the government is seeking to avoid the displacement of residents and loss of agricultural land
 
-## Crude oil futures fall ahead of expected US sanctions on Iran
-At 9.38 am on Monday, November Brent oil futures were at $91.35, down by 1.42%, and October crude oil futures on WTI (West Texas Intermediate) were at $85.68, down by 1.59%
+## Lalithaa Jewellery Mart shares list at 32% premium, Horizon Industrial makes muted debut: Should you buy?
+Lalithaa Jewellery stock began trading at ₹265 on the NSE and ₹265.30 on the BSE
 
-## Nvidia discusses Perplexity investment at $30 billion-plus valuation
-The funding round would increase ‌Perplexity's valuation by more than 50% from ‌its ⁠previous financing a year ago
+## IMD: Heavy Rainfall over North East, TN, Ktka, Kerala and Telengana for next 6 days
+Parts of Central India, South Peninsula to gain as conveyor belt of tropical disturbances from West Pacific and South China Sea may keep Bay of Bengal busy into this week
 
-## 20 stocks to watch: Lenskart, Natco Pharma, Power Grid, GHCL, Sigachi
-Corporate developments across sectors include stake-sale plans in Lenskart, regulatory updates for pharma companies, major power and infrastructure orders, new manufacturing investments, strategic partnerships, preferential issues, and expansion initiatives by several listed companies
-
-## Indian banks' asset quality outlook remains stable, West Asia impact limited: Report
-The report indicates that asset quality for Indian banks has significantly improved over the past five years, with overall stress remaining low
+## Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus
+The rupee began the trading day on a stronger note against the US dollar, appreciating by seven paise to 95.64. Nonetheless, concerns over geopolitical tensions and steady demand from importers curbed significant gains. Compounded by elevated Brent crude prices, the rupee traded cautiously. Investor
 
 ## KPMG Australia to cut 5% of workforce amid scandal, weak growth outlook
 KPMG Australia is set to cut around five percent of its workforce, a move triggered by a scandal involving breach of client confidentiality. The firm projects a challenging economic landscape lasting until 2028. Revenue has dipped by one percent, with a striking decline in consulting services. This 
@@ -81,32 +84,29 @@ In the lead-up to impending US sanctions on Iran, oil prices fell as investors c
 ## Weakness in currency can create negative loop: HSBC
 
 
-## FPIs accelerate buying: Invest 23.5k crore in August
+## CJP meeting today LIVE: CJP to decide 'next course of action' after alleging 'vishwasghaat' by Centre
+CJP meeting today LIVE: In a statement, the party alleged that the government had not committed to submitting a comprehensive list of FIRs registered against students and protesters across the country, as directed by the Supreme Court.
 
+## Why CJP is threatening another march: FIRs, NEET compensation among 3 pending demands
+The Cockroach Janta Party will hold an internal meeting today to decide their next course of action - which could also include a nationwide protest.
 
-## Vijay drops project to create Palandur Airport amid protests, it was meant to serve as Chennai's second
-Vijay drops project to create Palandur Airport amid protests, it was meant to serve as Chennai's second
+## 3 mowed down on Del-Mum Expressway; protest triggers traffic jam over 20 km
+Two of the three women killed were working inside the expressway median railing, while the three were outside when the speeding car hit them
+
+## Chlorine gas leak in Nagpur leaves several hospitalised, area cordoned off
+Residents of nearby settlements were instructed to move away, and several people were taken to hospitals for treatment, the NMC said in a release.
+
+## 3 free LPG cylinders, bus travel scheme amped: Tamil Nadu CM Vijay's big announcements for women
+Tamil Nadu CM Vijay also announced that his government would drop the plan to establish Chennai's second airport at Parandur.
+
+## CM Vijay says plan for 2nd airport for Chennai at Parandur to be dropped, new location to be proposed
+A new airport for Chennai will be proposed at a location where there is no opposition from the people, Chief Minister Vijay said.
 
 ## ICSSR invites papers on ‘religious conversion and demographic dynamics’
 The ICSSR has invited research papers for a special issue examining India’s demographic changes, with themes ranging from migration, ageing and others
 
 ## 2 MLAs, an Innova, a close shave: How car lost control, crashed into SUV at Delhi's ITO
 The SUV was carrying Anil Jha, the sitting MLA from Kirari Vidhan Sabha, and Abhay Patil, an MLA from Karnataka, when the collision occurred.
-
-## Indian cities should embrace skyscrapers
-Local rules prevent their construction. Hyderabad shows why that’s silly
-
-## Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha
-Decomposed body parts were found inside a red trolley bag in the general compartment of the Tamil Nadu Express at Agra Cantonment Railway Station on August 5.
-
-## After PM CARES Fund, CJP flags ₹92 crore upkeep bill for ministers’ homes: ‘Stop fixing lavish homes’
-The total expenditure over the last 12 years was put at ₹547.68 crore, according to data claiming to be based on an RTI.
-
-## Clashes break out after eggs hurled at Ganesh idol procession in Maharashtra; police deployed
-The incident occurred during the arrival procession of the Ganesh idol.
-
-## Through forests and across streams, Census set to reach Bastar’s former Red strongholds
-After years of exclusion caused by Maoist insurgency, Bastar villages are being brought into the Census as teams trek through remote forests to record residents
 
 ## Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?
 China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market. CCSH Corporation, parent of China’s top NAND flash maker, planned to sell
@@ -132,6 +132,9 @@ Hong Kong and mainland China are set to see continued growth in bond issuance de
 ## Hong Kong homebuyers snap up units at The Sterling as value-focused demand deepens
 Hong Kong homebuyers are still willing to spend, and the sell-out of a major new development on Saturday showed how demand is increasingly concentrated in projects that offer clear value as the housing recovery enters a more mature phase. China Resources Land’s The Sterling in southwestern Kowloon, 
 
+## What Donald Duck Can Teach Trump About Going to War
+President Franklin Roosevelt enlisted entertainers to make the case for fighting Germany and Japan.
+
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
 
@@ -152,9 +155,6 @@ Test yourself on the week of Aug. 15: Trump praises Kim Jong Un, the U.S. and Ir
 
 ## Why Do Young Africans Love Donald Trump?
 A new survey reveals a preference for the U.S. president’s transactional approach.
-
-## Trump’s Twin Blunders
-The U.S. president has simultaneously demolished key relationships in East Asia and the Middle East.
 
 ## Kinmen: The Sleepy Fishing Island That Could Be East Asia’s Biggest Flashpoint
 The island, administered by Taipei but just 2 miles from the mainland, has a culture and lifestyle all its own.
