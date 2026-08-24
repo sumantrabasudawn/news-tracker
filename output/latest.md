@@ -1,7 +1,7 @@
 # AION Intelligence
 
-## Scott Bessent threatens more US sanctions on Iran’s economic partners
-Treasury secretary’s announcement stops short of sweeping immediate action on China and other countries
+## Scott Bessent warns Iran’s partners of sanctions but offers no timeline
+US Treasury secretary had billed announcement as ‘D Day’ for Tehran but stopped short of sweeping action
 
 ## Trump says US to increase tariffs on Canadian cars to 50%
 Move marks further escalation of Washington’s trade war with Ottawa
@@ -63,6 +63,12 @@ The acquisition will strengthen TCS’ presence in Germany, Romania, the UK, the
 ## ESIC crackdown: Over ₹2,400 cr social security money trapped in 6.45 lakh recovery certificates pending for a decade
 Under the ESIC Act, the officials are authorised to issue orders for attachment and sale of the employer’s movable or immovable property and also arrest or detain defaulters in extreme non-compliance cases
 
+## As onion prices rise, Centre readies retail intervention in Delhi-NCR
+
+
+## Stocking, speculation behind ‘unnatural’ sugar price surge: ISMA
+
+
 ## Trump’s ‘Operation Economic Outcast’ against Iran: What sanctions threat could mean for India
 The Donald Trump administration said on Monday that the new US sanctions are intended to shut off every potential source of revenue for Iran, while warning other countries that continuing their economic ties with Tehran could expose them to retaliation.
 
@@ -80,12 +86,6 @@ India's Unified Payments Interface (UPI) is currently facilitating an impressive
 
 ## No relief for Rial: Iranian currency sinks to record low as US works on new sanctions
 Iran's rial reached a record low as the United States prepared new economic sanctions. Existing restrictions and a naval blockade have already severely impacted Iran's economy. The currency's decline has not yielded concessions from the US President. Iran and Oman are reportedly nearing an agreement
-
-## 'No sugar shortage': ISMA says India has enough stocks, expects prices to cool down soon
-Industry representatives from India's sugar sector have assured that there is no shortage of sugar in the domestic market. The surge in retail prices is attributed to stockpiling speculation and adverse weather impacting production. To mitigate this, the government is facilitating duty-free sugar im
-
-## ‘Most expensive in years’: Iran war, Hormuz closure forces India to pay high prices for LNG
-State-backed energy companies are increasingly going to the spot LNG market and bidding up prices as the government seeks to support fertilizer producers that use natural gas.
 
 ## Chhattisgarh CM urges workers' children to dream big, work hard
 Chhattisgarh CM urges workers' children to dream big, work hard
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel threatens attacks in Gaza over children’s kites
+Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites
+
+## Trump administration seeks to formalise H-1B fee of more than $100,000
+New proposal would charge $103,265 for the US's H-1B visas, and make permanent a temporary rule challenged by courts.
+
+## Norway plans further development of Arctic drilling amid EU energy concerns
+EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.
+
 ## Kidnappers release video showing hundreds abducted from Nigerian mosque
 Mass kidnappings highlight Nigeria's security crisis in the north as elections approach.
 
@@ -245,15 +254,6 @@ Treasury Secretary Scott Bessent says US sanctions will intensify to choke off I
 
 ## Nearly one in two Ebola patients dying in DR Congo outbreak
 Almost one in two people infected with Ebola are dying, Democratic Republic of the Congo government figures show.
-
-## Russia to seize poorly protected infrastructure as Ukraine barrage persists
-Owners could lose control of facilities if regulators find them too slow to repair damage.
-
-## Former snooker world champion Graeme Dott convicted of child sex abuse
-The 49-year-old was found to have subjected a girl and a boy to multiple incidents of abuse.
-
-## Israeli strike on Gaza shelter extends casualty list
-More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
