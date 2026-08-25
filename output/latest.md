@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Foot Locker owner plunges after warning nervous consumers are cutting spending
+Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
+
+## SpaceX commits $100bn to Louisiana space base
+Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches
+
 ## Iran and Oman edge towards deal on Strait of Hormuz
 Interim proposal on managing shipping is first hint of diplomatic progress to reopen the strategic waterway in weeks
 
@@ -18,14 +24,8 @@ Hundreds of US goods will face increased levies from September 8
 ## America’s economic war on Iran has a China problem
 The US cannot fully isolate Tehran unless other trade partners co-operate
 
-## Will Iceland join the EU?
-A consultative vote next week could rekindle membership talks and pave the way for a new axis of expansion
-
 ## How First Brands’ billion-dollar rescue hit the skids
 Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
-
-## SpaceX commits $100bn to Louisiana space base
-Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches
 
 ## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
 Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
@@ -35,9 +35,6 @@ Some scientists have come up with a way of measuring its commercial value
 
 ## Trade disruptions give container shipping a temporary reprieve
 Disruptions at sea and bottlenecks on land are pushing rates up and ensuring the industry remains buoyant
-
-## Foot Locker owner plunges after warning nervous consumers are cutting spending
-Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
 
 ## Persisting retail F&O losses spur call for tighter eligibility filters
 Experts seek income tests and exams to restrict derivatives access to informed investors
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Dolly Parton, beloved US country music icon, dies at 80
+Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.
+
+## What challenge do ‘cockroach’ protests pose for India’s PM Modi?
+Youth-led movement plans more demonstrations for next month.
+
+## Trump administration: Kennedy Center may be demolished if repairs not made
+Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help.
+
+## Video: US country music legend Dolly Parton dies
+US country music star Dolly Parton has died aged 80, her family have announced in a video on social media.
+
+## Iran, Oman discuss temporary shipping lane through Strait of Hormuz
+Omani FM hopes the two countries will 'soon announce' a joint temporary transit corridor through the Strait of Hormuz.
+
+## More than 1,300 people arrested by ICE in Virginia and Maryland
+More than 1,300 people were arrested by Immigration and Customs Enforcement (ICE) officers in Virginia and Maryland.
+
 ## Two unvaccinated people die of measles in US state of Pennsylvania
 Experts warn that declining vaccination rates have opened the door for resurgence of disease once largely eradicated.
 
 ## Israeli forces block Palestinian American Lou Ridi from walking on his land
 Israeli forces told Palestinian American Lou Ridi he cannot walk on his own land in Qusra, while settlers roam freely.
-
-## India police clash with protesters a month after Gen Z demonstrations
-Police used water cannons and batons as a few thousand protesters broke through security barricades in Bihar's capital.
-
-## Kurdish-led forces in Syria dissolve after merging with the army
-SDF commander campaigns for Kurdish language preservation after decade fighting the Islamic State.
-
-## Israeli protesters block aid trucks from reaching Gaza
-Israeli protesters block aid trucks from reaching Gaza
-
-## Video: Israeli forces raid UN training centre and raise Israeli flag
-Itamar Ben-Gvir celebrated after Israeli forces raided a UN-operated facility in occupied East Jerusalem.
-
-## Syria’s economy poised for improvement after US sanctions removal
-Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.
-
-## Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
-Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
