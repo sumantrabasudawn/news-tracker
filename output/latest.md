@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
+Latest discovery made near scene where explosive-laden drone was uncovered on August 4
+
+## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
+Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
+
+## Waymo picks Munich for first EU robotaxi launch
+Move by Alphabet-owned group comes as Germany seeks to bolster its struggling auto sector
+
+## Can Trump’s ‘economic D-day’ force Iran to capitulate?
+Tehran made no concessions as a result of ‘maximum pressure’ sanctions eight years ago. Few expect it to yield this time
+
 ## Scott Bessent fires warning shot at Iran’s economic partners
 Also in today’s newsletter, the political backlash to Trump’s trade war with Canada
 
@@ -12,53 +24,41 @@ Economists raise forecasts after better than expected second-quarter growth and 
 ## How extreme weather threatens energy security — from jellyfish swarms to ‘Super El Niño’
 Policymakers, businesses and media need to focus more attention on how climate change will impact energy systems, warn scientists
 
-## FirstFT: China warns US it could retaliate over Iran sanctions
-Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
-
-## Berkshire-backed Japanese insurer plots multibillion-dollar deal
-Japanese group reviews several targets including Australia’s Suncorp and Canada’s Intact Financial
-
-## Burnham set for first meeting with Trump in September
-British officials explore possible White House visit around time of UN General Assembly
-
-## Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
-Latest discovery made near scene where explosive-laden drone was uncovered on August 4
-
 ## Deutsche banker charged with embezzling €600,000 from wealthy clients
 Case comes as German lender is seeking to expand its wealth management operations
+
+## FirstFT: China warns US it could retaliate over Iran sanctions
+Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
 
 ## Aston Martin creditors file for information ahead of UK suit against carmaker
 Bondholders owed £1.3bn have filed for discovery in the US courts over contentious £550mn financing deal
 
-## Embattled housebuilder Vistry boosted by £350mn UK government contract
-Award to build 3,028 homes over 10 years sends shares 18% higher
+## Berkshire-backed Japanese insurer plots multibillion-dollar deal
+Japanese group reviews several targets including Australia’s Suncorp and Canada’s Intact Financial
 
-## UK backs Devon tungsten mine in effort to secure critical mineral supplies
-National Wealth Fund invests £71mn in project to produce metal used in aerospace and defence industries
+## SFAL expands beyond fabless start-ups; to support 75 more companies by 2030
+In the next phase, SFAL aims to move India’s semiconductor ecosystem towards greater commercialisation, indigenous IP and private capital
 
-## HEG fixes September 7 as record date for demeger
-Shareholders of HEG as on the record date will receive one fully paid-up share of face value ₹2 in the resulting company for every one share of face value ₹2 held, under a 1:1 entitlement
+## Federal Bank says it evaluates various opportunities in the ordinary course for growth and expansion of its business
+Bank reacts to reports that a deal between it and Jana Small Finance Bank is likely in advanced stages
 
-## Brands, q-comm, retailers witness a spike in Rakhi gifting demand
-Quick-commerce platforms too are offering a wider assortment this year
+## E20: Keep policy flexible
+Rollout hasn’t fully captured the transition costs
 
-## Indian economy continues to display strength despite headwinds: RBI Bulletin
-Manufacturing, services activity remains robust in July; trade expands in double digits
+## Letters to Editor
 
-## SC notice on TMC’s Abhishek Banerjee plea for time-bound decision on disqualification of 20 rebel MPs
-Court issues notice to Lok Sabha Secretary General and 20 rebel MPs
 
-## Broker’s call: Nykaa (Buy)
-Elara Securities
+## The art of no deal
+US says India trade pact is imminent — but so was Canada’s
 
-## Welspun One to complete WTC Thane project by year-end
-The development is designed to accommodate large organisations’ office spaces and over 50 brands across retail experience centres and F&B
+## Welspun Corp promoters launch ₹1,417 crore block deal at 4% discount
+The floor price for the transaction has been set at ₹2,250 per share, implying a discount of about 4.1% to the company’s NSE closing price of ₹2,345.5 on August 25
 
-## Broker’s Call: Cummins India (Buy)
-Motilal Oswal Research
+## Apple unveils new Mac mini, Mac studio with major chip upgrades
+In May, Apple eliminated the original $599 base configuration, effectively hiking the machine’s starting price to $799 before the latest increase.
 
-## CheQ Launches CheQ UPI, Bringing India's Most Rewarding UPI Experience for RuPay Credit Card Users
-CheQ Launches CheQ UPI, Bringing India's Most Rewarding UPI Experience for RuPay Credit Card Users
+## CNH Industrial to invest ₹1,000 crore to double tractor-manufacturing capacity
+Eyeing 10% market share in India by 2030, says President and MD Narinder Mittal
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
@@ -84,11 +84,17 @@ Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a s
 ## RBI intervenes to support rupee as oil prices, dollar demand rise: Report
 The Reserve Bank of India likely intervened in foreign exchange markets. Elevated oil prices and corporate dollar demand pressured the rupee. State-run banks offered dollars, indicating central bank action. The rupee remained range-bound for two weeks due to sustained intervention. Geopolitical tens
 
-## 3 road cave-ins in Gurugram after heavy rain; vehicles caught in collapses
+## India didn't target Pakistan's Kirana Hills, loitering munition hit it: Ex-CDS Anil Chauhan
+India didn't target Pakistan 'sKirana Hills, loitering munition hit it: Ex-CDS Anil Chauhan
+
+## Assam man, 25, steals ₹50 lakh, gold from house, father hands him over to cops
+“His father went to Ahmedabad, brought him back to Jorhat and handed him over to the police on Monday,” police said
+
+## Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted
 In December, GMDA warned the National Highways Authority of India (NHAI) about a possible cave-in at the IFFCO flyover
 
 ## Rahul Gandhi defends Kriti Sanon amid backlash over Raksha Bandhan ad outfit: ‘Her choice’
-Congress leader Rahul Gandhi defends Kriti Sanon amid backlash over Raksha Bandhan ad: 'Her choice'.
+Rahul Gandhi defended Kriti Sanon against backlash over her Raksha Bandhan ad outfit, stating that a woman's attire is her choice.
 
 ## Ex-Delhi Police commissioner Satish Golcha to take over as Home Guards' Director General from October 1
 The latest order comes ahead of the superannuation of Virender Singh, who has been heading the Directorate of Home Guards.
@@ -101,12 +107,6 @@ IIT-Delhi also said that its students, faculty and other staff were contributing
 
 ## SC says no impediment to Bankey Bihari temple redevelopment will be tolerated
 The opening of the gullacks is covered with flowers, plates, etc., and the QR codes for online donations have been destroyed
-
-## Cockroach Janta Party launches nationwide legal aid platform for supporters, volunteers: ‘No fees, ever’
-CJP said that volunteers and supporters who face harassment and intimidation can reach out through the platform and seek legal help.
-
-## Keeping up with UP: Women politicians gearing up for UP polls
-Dimple Yadav’s public image received a boost after she helped the injured young protesters at Jantar Mantar during the CJP protest demanding education reforms
 
 ## WuXi Biologics posts 4.3% rise in first-half profit, defying biotech headwinds
 WuXi Biologics, one of China’s largest contract drug developers, posted a 4.3 per cent increase in profit attributable to shareholders in the first half of the year, as stronger demand and improved capacity utilisation lifted revenue and margins. The Wuxi, Jiangsu-based company’s net profit attribut
@@ -132,6 +132,12 @@ Record-breaking cross-border deals helped make some formerly loss-making Chinese
 ## Bitcoin tops US$80,000 for first time since May as US moves boost crypto
 Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded above US$80,900 on Tuesday, jumping roughly 25 per cent over the past week and signa
 
+## Why Even a Cornered Putin Won’t Press the Red Button
+Great powers have been humbled many times without escalating to nuclear war.
+
+## Peacemaking Is Power Politics Again
+The post-Cold War model of institutionalized peacemaking has waned. But influential capitals are still looking to end and avoid conflicts.
+
 ## A Pact Without Impact
 The Mecca Joint Defense Agreement faces all the classic challenges of an alliance with none of the unifying elements.
 
@@ -149,12 +155,6 @@ Attempts to ostracize the AfD have fueled both the rise and radicalization of Ge
 
 ## Washington Is Creating Forever Enemies
 The United States must learn to forget the pain of humiliation.
-
-## Ditching Chinese Rare Earths Is Hard. Just Ask Japan.
-A cautionary tale for Washington’s diversification push.
-
-## What Donald Duck Can Teach Trump About Going to War
-President Franklin Roosevelt enlisted entertainers to make the case for fighting Germany and Japan.
 
 ## China’s Strategic Plan for Space Superiority
 China defines space superiority as achieving space logistics and infrastructure, and then using them for the kind of war it might fight.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Qatar says US sanctions on Iran are unilateral
+Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
+
+## US launches Economic war on Iran
+The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran
+
+## One year since Gaza journalist killed by Israel
+It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.
+
+## No, the Democratic Party is not shifting on Israel
+The Democratic establishment is still firmly in the pro-Israeli camp while trying to appeal to its pro-Palestine voters.
+
+## Root ‘hacked off’ by England cricket team after police handcuff Carse
+After Brydon Carse dropped by England for second Test against Pakistan, captain Joe Root blasts 'stupid mistakes'.
+
+## Trump floats renaming Lake Ontario to Lake America during Canada trade war
+Lake Ontario borders both the Canadian province of Ontario and the US state of New York.
+
+## China says will safeguard its own interests as US expands Iran sanctions
+China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.
+
 ## Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
 Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.
-
-## US military transport plane arrives in Moscow in rare occurrence
-A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia
-
-## How can a heavily indebted football club afford Mo Salah?
-How do football clubs in debt afford star players?
-
-## Trump plans largest mass visa cancellation in history: Who will it affect?
-The policy could affect up to 200,000 people and deter many more from filing an asylum claim once in the US.
-
-## Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss
-Yan Diomande topped Real's transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.
-
-## How Israel’s Netanyahu weaponises religion in his war rhetoric
-Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.
-
-## Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war
-A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.
-
-## Gaza child breaks down in tears after an Israeli threat over kites
-Gaza child breaks down in tears after an Israeli threat over kites
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
