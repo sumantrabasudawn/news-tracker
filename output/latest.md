@@ -24,6 +24,9 @@ People’s Republic has ample spare capacity
 ## Superpowers are discovering their limits, says UN chief
 António Guterres tells FT that the world risks sliding into confrontation without global institutions that reflect the changing balance of power
 
+## Is Northampton an emerging market?
+A load of Cobblers. And Gemcorp
+
 ## The unravelling of Mark Walter
 The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
 
@@ -36,32 +39,32 @@ UK bank last week secured regulatory approval for a new American office as part 
 ## US grain farmers pummelled as Iran war triggers surge in costs
 Middle East conflict adds to strains in America’s heartland months ahead of midterm elections
 
-## The threats to ‘Swiss Made’
-For decades the country’s exporters focused on adding value, but US tariffs and the strong franc are now hitting them harder
+## T-Hub, Army to back defence start-ups
+Founders to work on real problem statements and military deployments
+
+## Zara clothing supplier Pearl Global evaluates Africa expansion as Europe demand grows
+The potential ⁠move reflects a broader recalibration by Indian garment manufacturers, which are looking to tap growing European demand amid shifts in ‌US trade policy and disruptions to global shipping routes linked to Middle East tensions
+
+## Sensex today | Stock Market Live: Sensex, Nifty trade lower in listless session amid West Asia tensions
+Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as investors remained cautious over escalating West Asia tensions, elevated crude prices and the upcoming Nifty 50 monthly derivatives expiry, while concerns over a weak monsoon and global market weakness added to the pressure
+
+## FedEx to invest $150 million for air cargo hub at Delhi airport
+The air cargo hub at GMR Cargo City, Indira Gandhi International Airport, will enhance connectivity in North and East India, connecting businesses to global markets
+
+## Palm Conversations International India calls for broader understanding of palm oil
+Says it goes beyond fat content, taking into account overall dietary intake, molecular structure, cooking behaviour and health outcomes
+
+## 9 Stocks to Watch Today: Hind Copper, TCS, Ecofinity, IDFC First Bank, Axis Bank, Fujiyama, Coromandel, Ceigall, Afcons
+From a government stake sale and global partnerships to fresh orders, capacity expansion, bond issuances and an arbitration award, these are the key stocks to watch
+
+## TN Minister moves resolution to exempt TET for teachers appointed before Aug 2010
+The Minister stated that about 328,701 government school teachers in the State may lose their job benefits or positions if they do not pass the Teacher Eligibility Test
 
 ## HDFC Bank shares today: What is driving the stock lower
 HDFC Bank’s total market capitalisation stood at ₹11.21 lakh crore, while its adjusted P/E ratio was 14.02
 
-## Karnataka suspends food licences of Amazon, Swiggy Instamart, Bigbasket over sale of Datura
-It instructed food business operators to remove all listings and promotional material for Datura intended for food or human consumption
-
-## Shankesh Jewellers, Sunshine Pictures make modest debut, trade below listing prices
-Sunshine Pictures listed at a 10% premium on the NSE, while Shankesh Jewellers began trading at an 11% premium on the NSE
-
-## Sensex today | Stock Market Live: Sensex, Nifty trade lower as West Asia tensions, crude prices weigh
-Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as investors remained cautious over escalating West Asia tensions, elevated crude prices and the upcoming Nifty 50 monthly derivatives expiry, while concerns over a weak monsoon and global market weakness added to the pressure
-
-## Gold Rate Today, Aug 25: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
-22, 24 carat Gold prices up across Indian cities on August 20
-
-## Jaishankar calls for urgent steps to address $50-billion India-Russia trade deficit
-Minister pitches greater market access, removal of tariff/non-tariff barriers, stronger payment mechanisms
-
-## Crude oil prices rise as markets weigh US sanctions on Iran
-At 10.01 am on Tuesday, November Brent oil futures were at $90.71, up by 0.19%, and October crude oil futures on WTI (West Texas Intermediate) were at $85.26, up by 0.29%
-
-## MCX Aluminium: Support coming up
-The MCX Aluminium Contract can bounce back from its support at ₹343 and go higher again
+## RBI intervenes to support rupee as oil prices, dollar demand rise: Report
+The Reserve Bank of India likely intervened in foreign exchange markets. Elevated oil prices and corporate dollar demand pressured the rupee. State-run banks offered dollars, indicating central bank action. The rupee remained range-bound for two weeks due to sustained intervention. Geopolitical tens
 
 ## Trump’s SpaceX stake: US President invested up to $50,000 in Musk’s company - report
 President Donald Trump reportedly invested between fifteen thousand and fifty thousand dollars in Elon Musk's SpaceX. This financial disclosure reveals a new link between the president and a major government contractor. SpaceX completed its largest-ever US IPO, reaching a significant valuation and b
@@ -84,32 +87,29 @@ Stock market recommendations: Jindal Steel, Bajaj Auto, Engineers India, and NMD
 ## Oil price today: Brent crude stays above $90 as Middle East standoff intensifies
 Amidst a backdrop of fresh US sanctions on Iran, oil prices held firm as investors calculated the implications. The atmosphere grew tense after an oil tanker encountered damage near Oman's shores. With the US tightening its sanctions to curtail Iran's financial resources, analysts remarked that econ
 
-## Meiji Seika to push new vaccine with SII in India
+## 3 Tamils tortured before killing, says autopsy; Udhayanidhi seeks Vijay govt’s action
+The development comes after the autopsy report revealed that the victims were tortured before being shot at close range
 
+## ‘Kutte bhonke hazaar’: BPSC official's remark sparks backlash amid student protests in Bihar
+Aspirants and opposition leaders criticised Singh and the BJP-led Bihar government . They accused the BPSC official of "likening students to dogs".
+
+## India wanted red flags on chip packets and soda. Big Food fought back
+INDIA-FOOD:India wanted red flags on chip packets and soda. Big Food fought back
+
+## India wanted red flags on chip packets and soda. Big Food fought back.
+INDIA-FOOD/ (INSIGHT, PIX):INSIGHT-India wanted red flags on chip packets and soda. Big Food fought back.
+
+## How Delhi gang pulled off fake 'Special 26' raids: Target lists, forged IDs, CBI jackets and threats
+The gang allegedly selected wealthy targets, obtained information about their homes and assets, assembled men to pose as federal investigators
+
+## Odisha woman’s body recovered from under kitchen slab; son on run
+The woman had not been seen for days, and her son had been missing since Monday, prompting their landlady to alert police
 
 ## ‘Pork party?’ Shehzad Poonawalla's ‘other holy month’ jab at Rahul Gandhi amid Ayodhya-fish feast row
 Shehzad Poonawalla's swipe at Congress and Rahul Gandhi comes amid reported participation of party's UP chief Ajay Rai in a “fish feast” in Ayodhya amid Sawan.
 
 ## YouTube game prompts 2 Meerut kids to leave home for bizarre '24-hour' challenge, go missing
 Lavania added that the families of the children searched the neighbourhood and relatives' homes but found no trace of them.
-
-## Tamil Nadu CM Vijay drops Parandur airport plan, sparks political slugfest
-Vijay said Chennai’s existing Meenambakkam airport can handle more passengers, avoiding a new site to protect farmers and limit land damage.
-
-## Ajit Doval meets Chinese vice president Han Zheng ahead of India-China boundary talks
-Doval arrived in Beijing on Monday for two-day talks, ahead of Chinese President Xi Jinping’s expected visit to New Delhi for the BRICS summit on Sep 12-13.
-
-## Delhi NCR weather LIVE: Knee-deep water in parts of Delhi, WFH advisory for Gurugram offices; more rain likely
-Delhi NCR weather LIVE: Delhi’s 11 districts remain under a red alert as the IMD forecasts moderate rain across many areas and heavy to extremely heavy showers at isolated locations.
-
-## CRPF man injured as fresh gunfight, arson hit Manipur
-Local authorities demanded accountability for the violence, citing ongoing tensions between the Naga and Kuki communities following recent kidnappings.
-
-## Centre plans to privatise 11 airports in five bundles
-The Public Private Partnership model aims to enhance airport infrastructure with a cap on the number of bundles awarded to single bidders.
-
-## Waterlogging, traffic jam in Gurugram amid rains, Noida fares no better
-Waterlogging was reported at several key junctions and arterial roads in Gurugram. Gautam Budh Nagar and Ghaziabad were also affected.
 
 ## As global drug giants grow cautious, can Chinese biotech keep cashing in on out-licensing?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Two US carrier groups in Middle East strain navy resources
+Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower
+
+## France and Saudi Arabia plan Dragon Ball Z theme park near Paris
+France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris, including one based on Japanese manga.
+
 ## Syrian president thanks nation for getting off US state terror list
 Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.
 
@@ -248,12 +254,6 @@ Amnesty says India used lethal weapons on ‘Cockroach’ protesters.
 
 ## Muslims celebrate Prophet Muhammad’s birthday
 Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
-
-## Man killed in world’s largest annual bullfighting event in Mexico
-The world’s largest open road bullfighting event turned deadly when a 29-year-old man was killed.
-
-## Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
-At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti's capital.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
