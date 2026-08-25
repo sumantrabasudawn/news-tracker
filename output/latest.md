@@ -1,67 +1,70 @@
 # AION Intelligence
 
-## Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
-Latest discovery made near scene where explosive-laden drone was uncovered on August 4
-
 ## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
 Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
+
+## Canada announces $20bn retaliatory tariffs as US trade war escalates
+Hundreds of US goods will face increased levies from September 8
+
+## Foot Locker owner plunges after warning nervous consumers are cutting spending
+Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
+
+## The drip-drip US debt crisis
+Rising deficits and debt-servicing costs no longer seem to have the power to restore prudence
+
+## Sizewell C nuclear project suffers setback after contractor dropped
+Galliford Try replaced after failing to agree cost of building key access roads
+
+## ‘Embarrassing’: US officials recoil from Trump’s Canada attacks
+Deepening trade war between two long-term allies descends into insults and recrimination
+
+## Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
+Latest discovery made near scene where explosive-laden drone was uncovered on August 4
 
 ## Waymo picks Munich for first EU robotaxi launch
 Move by Alphabet-owned group comes as Germany seeks to bolster its struggling auto sector
 
-## Can Trump’s ‘economic D-day’ force Iran to capitulate?
-Tehran made no concessions as a result of ‘maximum pressure’ sanctions eight years ago. Few expect it to yield this time
+## Could nuclear fusion become economically viable?
+Some scientists have come up with a way of measuring its commercial value
 
-## Scott Bessent fires warning shot at Iran’s economic partners
-Also in today’s newsletter, the political backlash to Trump’s trade war with Canada
+## Trade disruptions give container shipping a temporary reprieve
+Disruptions at sea and bottlenecks on land are pushing rates up and ensuring the industry remains buoyant
 
 ## Store water and tinned food to prepare for emergencies, UK citizens to be told
 Ministers step up work on ‘war book’ in push for resilience against extreme weather and cyber threats
 
-## Germany on track for strongest GDP growth since 2022
-Economists raise forecasts after better than expected second-quarter growth and robust Ifo business index reading
-
 ## How extreme weather threatens energy security — from jellyfish swarms to ‘Super El Niño’
 Policymakers, businesses and media need to focus more attention on how climate change will impact energy systems, warn scientists
 
-## Deutsche banker charged with embezzling €600,000 from wealthy clients
-Case comes as German lender is seeking to expand its wealth management operations
+## Nifty surges 115 points on expiry day as crude retreat and CAS swing the close
+The morning session opened in the red after Washington announced sweeping new sanctions targeting Iran and its trading partners in an effort to isolate Tehran and push for the reopening of the Strait of Hormuz
 
-## FirstFT: China warns US it could retaliate over Iran sanctions
-Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
+## Capital Numbers acquires US-based Epitome Cloud for ₹40 crore
+Deal strengthens presence in the US and expands Salesforce and enterprise platform capabilities
 
-## Aston Martin creditors file for information ahead of UK suit against carmaker
-Bondholders owed £1.3bn have filed for discovery in the US courts over contentious £550mn financing deal
+## Indian refiners lean on Russia, UAE, South America for August crude oil imports
+Despite the threat of the Graham Bill and potential secondary tariffs, Russia remains India’s largest crude supplier
 
-## Berkshire-backed Japanese insurer plots multibillion-dollar deal
-Japanese group reviews several targets including Australia’s Suncorp and Canada’s Intact Financial
+## NRI deposit inflows fall 22% to $2.8 b in Q1 FY27
+NRIs increasingly opted for FCNR(B) route, but a fall in rupee denominated instruments pulled the overall figure down
 
-## SFAL expands beyond fabless start-ups; to support 75 more companies by 2030
-In the next phase, SFAL aims to move India’s semiconductor ecosystem towards greater commercialisation, indigenous IP and private capital
+## Nexedge Capital raises $20 million led by Mirae Asset and Elev8 Venture Partners
+Funds to strengthen technology, expand banker network and build NRI and NBFC offerings
 
-## Federal Bank says it evaluates various opportunities in the ordinary course for growth and expansion of its business
-Bank reacts to reports that a deal between it and Jana Small Finance Bank is likely in advanced stages
+## Total flow of financial resources to commercial sector jumps by ₹10.65 lakh cr in the first 4 months of FY27
+In the “State of the Economy” report, published in the RBI’s monthly bulletin, RBI officials noted that credit growth continued to remain healthy in July
 
-## E20: Keep policy flexible
-Rollout hasn’t fully captured the transition costs
-
-## Letters to Editor
-
+## WhatsApp says more than one billion people now use passkey
+WhatsApp said two-step verification is also getting stronger
 
 ## The art of no deal
 US says India trade pact is imminent — but so was Canada’s
 
-## Welspun Corp promoters launch ₹1,417 crore block deal at 4% discount
-The floor price for the transaction has been set at ₹2,250 per share, implying a discount of about 4.1% to the company’s NSE closing price of ₹2,345.5 on August 25
-
-## Apple unveils new Mac mini, Mac studio with major chip upgrades
-In May, Apple eliminated the original $599 base configuration, effectively hiking the machine’s starting price to $799 before the latest increase.
-
-## CNH Industrial to invest ₹1,000 crore to double tractor-manufacturing capacity
-Eyeing 10% market share in India by 2030, says President and MD Narinder Mittal
-
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
+
+## 'A whole new vibe': Ashwini Vaishnaw shares glimpse of bullet train project taking shape
+The ambitious construction of India's inaugural bullet train segment is well underway in Thane and Palghar. Currently, over one hundred kilometers of pier work is in progress, with many piers poised for girders. This essential elevated route will host three elevated stations, while several mountain 
 
 ## Wars are now hitting more than 43% of the world’s oil supply
 Currently, more than 40% of the world's oil supply is derived from conflict-ridden regions. Ongoing tensions in the Gulf and Ukraine have reduced refining abilities by 10%. As a result, reliance on U.S. oil has surged, leading to a depletion of global reserves after emergency releases have concluded
@@ -81,11 +84,20 @@ The H-1B programme enables US employers to hire foreign workers trained in speci
 ## Bitcoin crosses $80,000 for first time since mid-May driven by weaker dollar, gains 28% in August
 Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a significant extension of its rally. The driving forces behind this surge include a weakening US dollar and optimistic policy forecasts that have spiked cryptocurrency interest. The movements came in response to Treasury S
 
-## RBI intervenes to support rupee as oil prices, dollar demand rise: Report
-The Reserve Bank of India likely intervened in foreign exchange markets. Elevated oil prices and corporate dollar demand pressured the rupee. State-run banks offered dollars, indicating central bank action. The rupee remained range-bound for two weeks due to sustained intervention. Geopolitical tens
+## Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues
+The order comes amid heavy rain battering the millennium city, causing waterlogging on several roads and localities.
 
-## India didn't target Pakistan's Kirana Hills, loitering munition hit it: Ex-CDS Anil Chauhan
-India didn't target Pakistan 'sKirana Hills, loitering munition hit it: Ex-CDS Anil Chauhan
+## Former consultant, 37, dies by suicide at New Delhi hotel: Police
+DCP Sachin Sharma said the man was at a financial consulting firm and left his job at the company in Gurugram around six months ago
+
+## Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’
+Announcing the “Election Commission Chalo” campaign in Bengaluru on September 1, Raj said civil society groups would march against SIR of electoral rolls.
+
+## Gujarat Police want to unify 80,000+ CCTV cameras into one ‘smart surveillance’ network
+Participants will test their systems on about 50 CCTV feeds, tracking a designated vehicle and generating real-time alerts, GIS visualisation and movement data.
+
+## India didn't target Pakistan's Kirana Hills; loitering munition hit it inadvertently: Ex-CDS Anil Chauhan
+Ex-CDS Gen Anil Chauhan says Indian loitering munition likely hit Kirana Hills after failing to find a radar target near Sargodha within its loiter time.
 
 ## Assam man, 25, steals ₹50 lakh, gold from house, father hands him over to cops
 “His father went to Ahmedabad, brought him back to Jorhat and handed him over to the police on Monday,” police said
@@ -96,17 +108,8 @@ In December, GMDA warned the National Highways Authority of India (NHAI) about a
 ## Rahul Gandhi defends Kriti Sanon amid backlash over Raksha Bandhan ad outfit: ‘Her choice’
 Rahul Gandhi defended Kriti Sanon against backlash over her Raksha Bandhan ad outfit, stating that a woman's attire is her choice.
 
-## Ex-Delhi Police commissioner Satish Golcha to take over as Home Guards' Director General from October 1
-The latest order comes ahead of the superannuation of Virender Singh, who has been heading the Directorate of Home Guards.
-
-## Jailed Karnataka officer, undertrial, found with ‘girlfriend’ in VIP ward at hospital during surprise inspection
-There was no court permission for undertrial's hospital stay and that he did not have any serious health condition warranting prolonged treatment.
-
-## IIT Delhi forms external inquiry committee to probe student's death: ‘Profound sorrow, deep shock’
-IIT-Delhi also said that its students, faculty and other staff were contributing to extend financial support to the deceased student's family.
-
-## SC says no impediment to Bankey Bihari temple redevelopment will be tolerated
-The opening of the gullacks is covered with flowers, plates, etc., and the QR codes for online donations have been destroyed
+## Bank of Singapore's CIO Summit 2026 brings global perspectives to Hong Kong
+[The content of this article has been produced by our advertising partner.] For much of the past three decades, investors benefited from an environment defined by globalisation, low inflation, ample liquidity and relative geopolitical stability. Today, many of those assumptions are being challenged.
 
 ## WuXi Biologics posts 4.3% rise in first-half profit, defying biotech headwinds
 WuXi Biologics, one of China’s largest contract drug developers, posted a 4.3 per cent increase in profit attributable to shareholders in the first half of the year, as stronger demand and improved capacity utilisation lifted revenue and margins. The Wuxi, Jiangsu-based company’s net profit attribut
@@ -129,8 +132,8 @@ Beijing could soon hold carmakers legally responsible for traffic violations whe
 ## As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
 
-## Bitcoin tops US$80,000 for first time since May as US moves boost crypto
-Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded above US$80,900 on Tuesday, jumping roughly 25 per cent over the past week and signa
+## Mike Huckabee Reckons With the Disturbing Reality of Settler Violence
+Huckabee, a longtime supporter of settlements, recently invoked the Bible against Israeli settlers.
 
 ## Why Even a Cornered Putin Won’t Press the Red Button
 Great powers have been humbled many times without escalating to nuclear war.
@@ -152,9 +155,6 @@ Facing regional turmoil and domestic criticism, Jordan’s ruler is spending mor
 
 ## Germany’s Firewall Has Completely Failed
 Attempts to ostracize the AfD have fueled both the rise and radicalization of Germany’s far-right party.
-
-## Washington Is Creating Forever Enemies
-The United States must learn to forget the pain of humiliation.
 
 ## China’s Strategic Plan for Space Superiority
 China defines space superiority as achieving space logistics and infrastructure, and then using them for the kind of war it might fight.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Students clash with police in India in a new protest over exam leaks
+Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.
+
+## Nevada wildfire contained to 27 percent as thousands still displaced
+The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.
+
+## Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
+Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men's world record set by ​Usain Bolt in 100m.
+
+## Infantino’s presidency under threat: FIFA elections, challengers, dates
+Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.
+
+## Nine years of Rohingya refugee crisis
+Nine years of Rohingya refugee crisis
+
+## Gaza marks one year since Mariam Dagga was killed in Israeli strike
+A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.
+
 ## Qatar says US sanctions on Iran are unilateral
 Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
 
 ## US launches Economic war on Iran
 The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran
-
-## One year since Gaza journalist killed by Israel
-It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.
-
-## No, the Democratic Party is not shifting on Israel
-The Democratic establishment is still firmly in the pro-Israeli camp while trying to appeal to its pro-Palestine voters.
-
-## Root ‘hacked off’ by England cricket team after police handcuff Carse
-After Brydon Carse dropped by England for second Test against Pakistan, captain Joe Root blasts 'stupid mistakes'.
-
-## Trump floats renaming Lake Ontario to Lake America during Canada trade war
-Lake Ontario borders both the Canadian province of Ontario and the US state of New York.
-
-## China says will safeguard its own interests as US expands Iran sanctions
-China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.
-
-## Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
-Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
