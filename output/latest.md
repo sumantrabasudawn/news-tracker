@@ -36,29 +36,29 @@ UK-listed company will not face prosecution after incident at GKN Aerospace faci
 ## Lego invests in software-enabled bricks and other products to power growth run
 World’s largest toy group is looking to sustain stellar revenue and profit increases
 
+## Aditya Birla Health Insurance ties up with ICAI to offer coverage to 17 lakh students and CA members
+Aditya Birla Health has designed four products for different customer profiles in the ICAI ecosystem
+
+## Mondelez India, Amway, others took corrective measures after notices: FSSAI
+Measures taken by companies include withdrawing of misleading label claims and revising product packaging, the food regulator said in an social media post
+
+## RBI proposal to curb NBFCs' revolving credit may choke MSME funding, says industry body FISME
+In the draft, the Reserve Bank of India (RBI) has proposed that NBFC shall only offer credit products which are in nature of term loans and shall not offer any revolving credit products
+
+## Nifty surges 115 points on expiry day as crude retreat and CAS swing the close
+The morning session opened in the red after Washington announced sweeping new sanctions targeting Iran and its trading partners in an effort to isolate Tehran and push for the reopening of the Strait of Hormuz
+
+## L&T shares rise 0.71% as company bags two major West Asia orders
+Two projects are ultra-mega gas compression facilities with a contract value above ₹15,000 crore and three Battery Energy Storage System (BESS) valued between ₹5,000 crore and ₹10,000 crore
+
+## Mill gate prices of sugar drop further, but retail rates soar
+Wholesale prices across cities drop by ₹300 a quintal even as ex-mill rates drop to ₹5,400-5,500 a quintal for S-grade
+
 ## Kirloskar Brothers shares slip 1.2% as Supreme Court sends family dispute to arbitration
 The stock ended at ₹1,899 on the NSE, down ₹23.40 or 1.22 per cent from Monday’s close of ₹1,922.40
 
 ## Three major Indian banks raise over $1.85 billion in offshore bonds, signalling strong global market participation
 Axis Bank, Kotak Mahindra Bank, and Union Bank of India, made significant moves in the international debt markets on Monday and Tuesday
-
-## Rain clouds converge over Himachal, UP, MP in late-season burst
-September rains are crucial since the inverse relationship between El Niño and the monsoon is stronger during the latter half of the season, particularly the last month
-
-## Industry Leaders Call for Cooling Security to Become a National Priority as India Accelerates Towards Viksit Bharat 2047
-Industry Leaders Call for Cooling Security to Become a National Priority as India Accelerates Towards Viksit Bharat 2047
-
-## Youth voices drive Asia‑Pacific green‑energy ties at Shenzhen gathering
-Youth voices drive Asia‑Pacific green‑energy ties at Shenzhen gathering
-
-## Sensex today | Stock Market Highlights: Sensex settles 286 points higher, Nifty touches 24,334
-Sensex, Nifty, Share Prices: Benchmarks rebounded and settled in the green. Sensex closed 286.98 pts or 0.37% higher at 77,656.09, and Nifty 50 gained 115.50 pts or 0.48% to 24,334.55.
-
-## Karnataka to take up cloud seeding to address rainfall deficit
-The 60-day cloud seeing operation, involving about 200 flying hours, is estimated to cost approximately ₹27 crore
-
-## Rupee rises 24 paise to close at 95.46 against US dollar
-Firm domestic equities, a weaker dollar and a fall in crude oil prices lift rupee
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
@@ -84,29 +84,32 @@ Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a s
 ## RBI intervenes to support rupee as oil prices, dollar demand rise: Report
 The Reserve Bank of India likely intervened in foreign exchange markets. Elevated oil prices and corporate dollar demand pressured the rupee. State-run banks offered dollars, indicating central bank action. The rupee remained range-bound for two weeks due to sustained intervention. Geopolitical tens
 
+## Gwalior car's kiss marks, tinted glass, loud silencers: Which violations can invite trouble for Delhi-NCR motorists
+The Gwalior incident has highlighted motor vehicle laws, especially in the national capital, and the modifications that can land vehicle owners in trouble.
+
+## House searches conducted in Manipur’s Taphou after gunfight injures 1 CRPF man
+District police personnel and the CoBRA team carried out the search and combing operation in Taphou Naga Liangmai village and Taphou Kuki village
+
+## Solo contest or ‘big brother’ role: Where does BJP-SAD ‘alliance’ stand ahead of Punjab elections?
+SAD had been part of the NDA alliance since 1997 and walked out of the partnership in 2020 over the now-repealed farm laws.
+
+## ‘G Square Maapilai’, ‘lottery son-in-law’: Sparks fly in Tamil Nadu assembly as TVK, DMK clash over airport project
+This came after CM Vijay revealed plans to set up a new international airport near Chennai, following the scrapping of the proposed Parandur airport.
+
+## ‘Vegitables’ and ‘dear’: SAD mocks AAP over spelling errors in Punjab classroom
+Taking a dig at Punjab Education Minister Harjot Singh Bains, the Shiromani Akali Dal (SAD) said he was showing “clear signs of brain fog”.
+
+## Shehzad Poonawalla calls CJP 'bunch of fraudiyaas' over Abhijeet Dipke's best CM picks
+Shehzad Poonawalla, who recently resigned from the BJP, said in a video on X that the CJP loves CMs who are “rejected” by the public.
+
 ## 'Maharashtra teen didn't intend to end life, wanted dad to come home', claims maternal aunt
 Kalyani Dabhade, maternal aunt of Kunal, dismissed reports suggesting that her nephew took the extreme step due to EMIs on an iPhone
 
 ## Prosecution seeks death penalty for 5 convicts in 2024 Bhayli gang rape case
 The Vadodara POCSO court convicted the five men on August 20 for the gang rape of the girl in Bhayli area on October 4, 2024
 
-## CJP's Saurav Das questions Kiren Rijiju over ‘smash the patriarchy' remarks: ‘When will they learn’
-Saurav Das's reaction came after Rijiju accused Rahul Gandhi of targeting only Hindus while ignoring the plight of Muslim women.
-
-## First ‘Kanda Express’ with 800 tonnes of onions to reach Delhi tomorrow, to be sold at ₹35/kg
-The onion buffer stock is the Centre's strategic reserve, built up primarily to cushion the market against price spikes when supplies tighten.
-
-## Hillary Clinton says key to end US-Iran war lies with India and China: ‘If Trump were to use diplomacy’
-The former US First Lady said China was far ahead of India in buying Iranian oil and gas, asserting that Beijing would need Tehran the most.
-
-## CJP expands organisational footprint with appointments across 3 zones
-The party said the appointments were aimed at strengthening its organisational structure and expanding its activities across the country.
-
-## Govt relaxes sugar import condition, gives 60 days to refine, sell shipments
-Experts said the move will boost supplies during the early months of the new sugar season and ease pressure on retail prices
-
-## Barricades broken, water cannons used: Bihar protests turn violent as protesters clash with cops
-The student organisations have been opposing the Bihar Public Service Commission’s move to fill 33,000 teacher posts following a preliminary and main exam.
+## Moon mission delay a hiccup, but Chinese rocket city Wenchang remains on the march
+For generations, Wenchang, on Hainan’s northeastern coast, was better known for coconuts, its namesake chicken and the emigrants who left for Southeast Asia in search of a living. Now the rhythms of life here have been altered, gradually and then all at once, by China’s space programme. Wenchang Spa
 
 ## Asia’s super-rich are ‘going all in’ on sustainability as impact investing grows: survey
 Family offices in the Asia-Pacific region are putting more funding into sustainability projects and adopting a “systems-level” approach to make a greater impact, a trend that is set to boost Hong Kong’s role as a hub for impact investing, according to a survey released on Tuesday. The proportion of 
@@ -128,9 +131,6 @@ Bitcoin has broken above US$80,000 for the first time in three months, riding a 
 
 ## Gold strategy: how a Chinese vault network could bolster yuan’s role
 China is building a global network of gold vaults and accelerating central bank reserve buying as part of efforts to promote the yuan’s role in international trade, according to an S&P Global Ratings report on Tuesday. Firms such as Zijin Mining – China’s largest gold processor – and Shandong Gold M
-
-## US Treasury bond buy-back reinforces gold debasement trade as Jackson Hole meeting looms
-The US Treasury’s decision to boost its buy-backs of long-maturity bonds is strengthening the debasement trade on gold, as investment banks turn more upbeat on the precious metal before the Federal Reserve’s annual meeting in Jackson Hole. Gold traded at a three-month high of US$4,698 an ounce on Tu
 
 ## Everything You Always Wanted to Know About IR Grad School
 Some straight talk for prospective students from a longtime professor.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India faces criticism from UN discrimination watchdog
-CERD says India must tackle hate crimes against Bengali-speaking Muslims and increase protections for other groups.
+## UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes
+UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.
 
-## Is AIPAC’s political standing declining in the US?
-The powerful pro-Israeli lobby group is increasingly becoming liability for both the progressive as well as right-wing.
+## How water becomes a weapon of war
+A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.
 
-## Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?
-Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.
+## Rwanda accuses DR Congo of supporting an armed group on its soil
+Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.
 
-## Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79
-Sliman Mansour's art captured the essence of Palestine, blending ancient traditions with modern themes of resistance.
+## Rohingya refugees demand justice, dignity at Cox’s Bazar protest
+The United Council of Rohingya refugee group says it organised the protest to highlight 'ongoing humanitarian crisis'.
 
-## What would justice look like if there were no Rohingya left in Myanmar?
-Nine years after the 2017 atrocities, Rohingya are still being forced to flee because the genocide has never stopped.
+## Russia mobilisation fears grow amid reports of intimidating tactics
+Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.
 
-## Roadblocks and burning tyres in Libya protests over power cuts
-Roadblocks and burning tyres in Libya protests over power cuts
+## Palestine weekly: After Kushner departs, Israel escalates Gaza attacks
+Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.
 
-## Indonesia battles haze as wildfires rage across South Sumatra forests
-Indonesia deploys prayers and emergency measures to combat South Sumatra's raging wildfires and hazardous haze.
+## Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide
+Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.
 
-## Kremlin adviser warns UK drone factories could face attacks
-Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.
+## How the US sanctions on Iran impact China
+US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
