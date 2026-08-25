@@ -1,64 +1,67 @@
 # AION Intelligence
 
-## Tokio Marine plots multibillion-dollar deal after Berkshire takes stake
-Japanese group reviews several targets including Australia’s Suncorp and Canada’s Intact Financial
+## JPMorgan eases approach on lending against shares to court AI’s new wealth
+US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic
 
-## Big Indian corporations want a piece of the booming gold-backed loan business
-Also in this newsletter, a JPMorgan Chase entity faces Sebi’s ire
+## Iranians queue for petrol as US blockade bites
+Long lines form in capital city as officials warn that war and inflation are triggering fuel shortages
 
-## Pakistan seeks US funding in shift from China
-Finance minister outlines planned return to capital markets borrowing to cut reliance on bilateral debt
+## Austerity denial and the mystery of Britain’s shrunken state
+There is a ready supply of explanations on offer at Westminster
 
-## Trump says US to increase tariffs on Canadian cars to 50%
-Ottawa officials set to announce response to new American levies on Tuesday
+## Socialists and Maga are both wrong about economic liberalism
+People are not puppets responding to the string pulls of market forces — free enterprise gives us agency
 
-## Burnham condemns Russia’s ‘outrageous threats’ to UK during Kyiv visit
-Prime minister pledges to back Ukraine on long-range missiles
+## China could rescue the oil market again — if it wanted to
+People’s Republic has ample spare capacity
 
-## SEC subpoenas Wall Street banks over Situational Awareness
-Leopold Aschenbrenner’s AI-focused hedge fund nearly collapsed in July before striking a deal with Citadel
+## Superpowers are discovering their limits, says UN chief
+António Guterres tells FT that the world risks sliding into confrontation without global institutions that reflect the changing balance of power
 
-## US Supreme Court allows Trump restrictions on mail-in ballots
-Justices lift decision to block president’s order to restrict eligibility to a new federal list of voters
+## US grain farmers pummelled as Iran war triggers surge in costs
+Middle East conflict adds to strains in America’s heartland months ahead of midterm elections
 
-## FirstFT: Shein targets $27bn valuation in Hong Kong IPO
-Also in this newsletter: US-Canada trade war erupts and Singapore’s effort to boost birth rates
+## The threats to ‘Swiss Made’
+For decades the country’s exporters focused on adding value, but US tariffs and the strong franc are now hitting them harder
 
-## Shein’s IPO pitch should be more Meta than H&M
-Its rivals are not just clothes retailers but any business that provides screen-addicted users with a dopamine hit
+## The unravelling of Mark Walter
+The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
 
-## Morgan Stanley and Schroders back Australia’s largest venture capital round
-Blackbird Ventures raises $750mn, with early-stage investor attracting US and UK funds
+## Skipton tries to show that building societies still matter
+The mutual financial group based in the Yorkshire Dales wants to emphasise the personal touch
 
-## First Brands forced into liquidation by bankruptcy court
-Federal judge in Texas said litigation trust plan floated by company and senior lenders ‘was unconfirmable under any circumstances’
+## NatWest plots push into US market
+UK bank last week secured regulatory approval for a new American office as part of expansion plans
 
-## Burnham compromises on council homes plan
-Prime minister opts not to rip up programme drawn up under Sir Keir Starmer that mostly relies on housing associations
+## Private equity growth funds attract record first-half inflows as sector rebounds
+Recovery in fundraising being driven by AI boom and some valuations that remain below 2021 peak
 
-## Sensex today | Stock Market Live: Indian equities seen lower as West Asia tensions persist, Nifty expiry looms
-Sensex, Nifty, Share Prices Live: Indian equities are set for a cautious session as investors weigh geopolitical risks, crude prices and domestic weather concerns, while a new derivatives expiry mechanism adds another potential source of volatility to benchmark indices.
+## Big Food’s fight against red flags on chip packets and soda
+Several food companies have filed legal complaints against social-media influencers who have criticized how they market their products in India
 
-## Apple gears up to launch its first new Mac Mini in two years
-The new desktop will debut as soon as the coming days, potentially putting the unveiling ahead of a September event to introduce the next iPhones
+## Sensex today | Stock Market Live: Sensex, Nifty open lower as West Asia tensions, crude prices weigh
+Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as investors remained cautious over escalating West Asia tensions, elevated crude prices and the upcoming Nifty 50 monthly derivatives expiry, while concerns over a weak monsoon and global market weakness added to the pressure
 
-## Rupee may cling to subdued rhythm, improved portfolio inflows lend support
-The rupee is expected to open in the 95.70-95.75 range, per traders, ‌having settled at 95.7450 to the dollar on Monday
+## Nifty, Sensex open lower; TCS, Eternal gain, Cipla, Maruti slip
+The weakness follows Monday's session where the Nifty shed 32.95 points or 0.14%, as gains in metals and IT were offset by selling in financials and PSU banks
 
-## No reason to give up on CAS yet
-Overall trading volumes have not been impacted by the closing auction session suggesting redistribution of turnover
+## Bitcoin tops $80,000 on debasement trade, sets three-month high
+The original cryptocurrency rose as much as 2.9% to $81,257 Tuesday in Asia, a level last seen on May 15
 
-## Economic growth likely slows to 7.1% in April-June quarter
-Gross domestic product ‌expanded ⁠7.1% year-on-year in the April-June period, slowing from a better-than-expected 7.8% in the ⁠previous quarter
+## Union Bank of India taps dollar debt market after 12-year hiatus
+The bank raised $300 million each through three-year and five-year papers at a coupon of 5.23% ‌and 5.4170%, respectively
 
-## All you need to know about Annu Projects IPO
-₹15.4 crore of the net IPO proceeds will go towards the purchase of machinery and equipment and ₹115 crore will be allocated to meet its working capital requirements
+## JPMorgan says bond market can handle issuance stampede
+Issuance expectations are in a wide range of $175 billion to $250 billion, Kelsey Berro, a portfolio manager at JPMorgan Asset Management, said
 
-## Gold touches highest level since mid-May as buying momentum builds
-Among other metals, spot silver gained 0.5% to $69.29 per ⁠ounce, platinum rose 0.3% to $1,880.78 and palladium firmed 0.2% to $1,359.14
+## Propshop Events & Exhibitions Accelerates Expansion Across the US, Europe and UAE
+Propshop Events & Exhibitions Accelerates Expansion Across the US, Europe and UAE
 
-## India’s new stock auction system faces first monthly expiry test
-The new system has operated through regular sessions and a weekly expiry since its launch on August 3
+## Commodity vessel transits through Strait of Hormuz fall to three-month low, data shows
+A large gas carrier entered the strait from the Gulf of Oman on Monday at 0251 GMT, according to shiptracker Kpler, compared to six vessels on Sunday
+
+## ‘Hire and train Americans’: JD Vance defends proposed six-figure H-1B fee
+The US Department of Homeland Security proposed a new $103,265 fee for H-1B visa petitions. This fee aims to recover government costs for administering the immigration system. Vice President JD Vance supports the proposal, emphasizing hiring American workers. Indian professionals, a major beneficiar
 
 ## Honey to hockey sticks: Trump's 50% tariff net catches 550+ Canadian goods
 The United States has enacted a substantial 50% tariff on a wide range of Canadian goods, affecting more than 550 products, including common consumer items. In response, Canada intends to implement retaliatory measures that match the U.S. tariffs. This trade dispute continues to escalate further, wi
@@ -66,7 +69,7 @@ The United States has enacted a substantial 50% tariff on a wide range of Canadi
 ## Top stocks to buy today: Stock market recommendations for August 25, 2026 - check list
 Stock market recommendations: Jindal Steel, Bajaj Auto, Engineers India, and NMDC - these have been recommended as the top stocks to buy today on August 25, 2026 by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan:
 
-## Stock Market Today Live Updates: GIFT Nifty signals weak start for Dalal Street; where are BSE Sensex, NSE Nifty50 headed
+## Stock market today: BSE Sensex plunges over 100 points, NSE Nifty50 opens below 24,200
 
 
 ## Oil price today: Brent crude stays above $90 as Middle East standoff intensifies
@@ -81,8 +84,11 @@ Amidst a backdrop of fresh US sanctions on Iran, oil prices held firm as investo
 ## Government looks to add more AI partners for digital projects
 
 
-## Labour survey 2026 likely to track digital, platform workers
+## CRPF man injured as fresh gunfight, arson hit Manipur
+Local authorities demanded accountability for the violence, citing ongoing tensions between the Naga and Kuki communities following recent kidnappings.
 
+## Centre plans to privatise 11 airports in five bundles
+The Public Private Partnership model aims to enhance airport infrastructure with a cap on the number of bundles awarded to single bidders.
 
 ## Waterlogging, traffic jam in Gurugram amid rains, Noida fares no better
 Waterlogging was reported at several key junctions and arterial roads in Gurugram. Gautam Budh Nagar and Ghaziabad were also affected.
@@ -101,12 +107,6 @@ During preliminary questioning, the girl told police that she had been sexually 
 
 ## Actor, ex-BJP leader Devan says TVK offered him top post in Kerala
 Thiruvananthapuram: Actor and former Bharatiya Janata Party (BJP) leader Devan on Monday said that the Tamilaga Vettri Kazhagam (TVK) offered him the post of Kerala state president and that he would hold final discussions with party chief and Tamil Nadu chief minister Joseph Vijay on September 10 re
-
-## Vijayan should be accommodative, says D Raja amid Dy LoP post row
-Thiruvananthapuram: The ongoing wrangle between the CPI(M) and the CPI over the deputy leader of opposition (LoP) post in the Assembly intensified on Monday with CPI national general secretary D Raja asking LoP Pinarayi Vijayan to “be more accommodative” of allies within the LDF
-
-## Concern in BJP over renewed outreach
-The PM’s instruction was intended to pave the way for free wheeling conversions with the younger generation coupled with renewed outreach on social media in the wake of the protests that erupted over paper leaks.
 
 ## Gold strategy: why a Chinese global network of vaults would bolster yuan’s trade role
 China is building a global network of gold vaults and accelerating central bank reserve buying as part of efforts to promote the yuan’s role in international trade, according to an S&P Global Ratings report on Tuesday. Chinese gold miners, such as the mainland’s largest gold processor Zijin Mining, 
@@ -228,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Rare tornado near Carcassonne in France causes damage and injuries
+Footage shows a rare tornado making its way through southern France.
+
 ## Israel’s Netanyahu claims Iran tried to kill one of his sons
 Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.
 
@@ -248,9 +251,6 @@ If the action happens, it will be the largest single mass revocation of visas in
 
 ## DRC’s constitutional battle: The fight over the 2028 vote
 President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
-
-## Search continues in Tunisia as migrant boat sinking sparks protests
-Tunisia's Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
