@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## FirstFT: China warns US it could retaliate over Iran sanctions
+Also in this newsletter: Nvidia employee charged in Taiwan with smuggling chips into China and Canada announces $20bn retaliatory tariffs
+
+## Syria’s Kurds dissolve military force and integrate fighters with Damascus
+Merger with Syrian army is a step forward in push to bring country under central government control
+
+## Trump administration pauses immigrant visa applications
+US state department wants consular officers to screen out people likely to need public benefits
+
+## Reform UK pledges to cut data rules and curb liabilities for non-executives
+Nigel Farage’s party sharpens its pitch to business by promising to scrap the General Data Protection Regulation
+
 ## Foot Locker owner plunges after warning nervous consumers are cutting spending
 Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
 
@@ -12,23 +24,11 @@ Interim proposal on managing shipping is first hint of diplomatic progress to re
 ## AI to fuel global growth as investment spreads beyond US, IMF says
 Managing director Kristalina Georgieva expects world economy to weather energy crisis ignited by Iran war
 
-## European LNG prices surge to highest level since 2023
-Continent’s gas inventories were already low before Iran war disrupted shipments
-
-## Imran Khan may not survive Pakistan prison, son says
-Concerns grow over former PM’s health in conditions his lawyer calls ‘beyond deplorable’
-
-## Canada announces $20bn retaliatory tariffs as US trade war escalates
-Hundreds of US goods will face increased levies from September 8
-
-## America’s economic war on Iran has a China problem
-The US cannot fully isolate Tehran unless other trade partners co-operate
-
-## Reform UK pledges to cut data rules and curb liabilities for non-executives
-Nigel Farage’s party sharpens its pitch to business by promising to scrap the General Data Protection Regulation
-
 ## Bombing the bond market
 Trump wages war against his own economy
+
+## European LNG prices surge to highest level since 2023
+Continent’s gas inventories were already low before Iran war disrupted shipments
 
 ## How First Brands’ billion-dollar rescue hit the skids
 Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
@@ -132,6 +132,12 @@ Beijing could soon hold carmakers legally responsible for traffic violations whe
 ## As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
 
+## The U.S. Can’t Catch Up to China’s Robots by Banning Them
+Rather than learn from its rival, Washington is trying to shut the door.
+
+## The U.S.-Canada Trade War Is Full Steam Ahead
+Ottawa issues retaliatory tariffs to go “dollar for dollar” with U.S. duties.
+
 ## Ukrainians Skeptical as Former Defense Minister Pushes for Elections
 Mykhailo Fedorov hopes anti-corruption rhetoric can carry him to power.
 
@@ -149,12 +155,6 @@ The post-Cold War model of institutionalized peacemaking has waned. But influent
 
 ## A Pact Without Impact
 The Mecca Joint Defense Agreement faces all the classic challenges of an alliance with none of the unifying elements.
-
-## Everything You Always Wanted to Know About IR Grad School
-Some straight talk for prospective students from a longtime professor.
-
-## U.S. Unveils ‘Economic D-Day’ Against Iran
-The White House vows to sanction any country that continues to do business with Tehran.
 
 ## A Golden Chance to Protect the Pacific’s ‘Blue Corridors’
 If Albanese is serious about a Pacific COP, he must heed the region’s call on oceans.
