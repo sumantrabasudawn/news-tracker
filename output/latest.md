@@ -36,9 +36,6 @@ Continent’s gas inventories were already low before Iran war disrupted shipmen
 ## How First Brands’ billion-dollar rescue hit the skids
 Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
 
-## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
-Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
-
 ## Persisting retail F&O losses spur call for tighter eligibility filters
 Experts seek income tests and exams to restrict derivatives access to informed investors
 
@@ -66,26 +63,26 @@ Manufacturing, services activity remains robust in July; trade expands in double
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
 
-## 'A whole new vibe': Ashwini Vaishnaw shares glimpse of bullet train project taking shape
-The ambitious construction of India's inaugural bullet train segment is well underway in Thane and Palghar. Currently, over one hundred kilometers of pier work is in progress, with many piers poised for girders. This essential elevated route will host three elevated stations, while several mountain 
+## Air India seeks $1.5 billion from owners Tata, Singapore Air
+Air India needs capital, but the $1.5 billion will be injected in phases, people familiar with the matter said. Co-owner Singapore Airlines will contribute its 25% share. Tata Sons had paused additional equity support in the year to March 2026. Its investment in Air India stood unchanged at Rs 22,61
 
-## Wars are now hitting more than 43% of the world’s oil supply
-Currently, more than 40% of the world's oil supply is derived from conflict-ridden regions. Ongoing tensions in the Gulf and Ukraine have reduced refining abilities by 10%. As a result, reliance on U.S. oil has surged, leading to a depletion of global reserves after emergency releases have concluded
+## Post-Covid, profits rise faster than investment
+One explanation identified by the study is that strong profitability from assets companies already own does not necessarily make a new investment equally attractive. Its analysis found evidence that the initial returns associated with fresh fixed-asset investment have weakened in the post-pandemic p
 
-## Sugar prices cool 18% after hitting record high, ex-mill rates fall to Rs 55 per kg
-Following a surge in sugar prices to unprecedented levels last week, the market is now experiencing a decline. Government interventions aimed at curbing hoarding and speculation have contributed to this stabilization. Ex-mill sugar rates have seen a substantial decrease, and additional cuts are anti
+## RBI flags price risks, 2nd time in August
+Industrial activity also remained supportive. PMI data showed that firms’ expectations for future output improved, pointing to a positive outlook for demand and new business opportunities. The economy, the article said, “continued to display strength notwithstanding these headwinds”, while retail in
 
-## From 600 to 5,000 packages an hour: FedEx unveils $150 million Delhi cargo hub
-FedEx will invest $150 million to build a new air cargo hub in Delhi. This facility will significantly increase package processing capacity at the airport. The hub aims to strengthen air cargo connectivity across North and East India. The Indian government is also focusing on developing cargo hubs a
+## Federal Bank shares fall post merger talks
+Jana Small Finance Bank has sought a universal banking licence from RBI. RBI returned its initial application in June 2025, leaving the lender open to making a future submission. Jana was among the microfinance lenders that received a specialised banking licence in 2017. It began operations as a sma
 
-## Why Trump may have to target China to make its Iran 'economic D-Day' work
-China is the biggest buyer of Iranian crude - around 90% of Iran’s oil exports flow to China. Will Trump’s secondary sanctions threat against any country aiding Iran economically reach China, or even have an impact?
+## RBI turns net buyer of dollars in June
+The shift narrowed RBI’s cumulative net sales for the fiscal year to -$14.5 billion and reduced its outstanding forward short position to -$103.3 billion. In the currency futures market, purchases and sales were balanced at $2.9 billion each, leaving zero net outstanding futures. The dollar purchase
 
-## ‘Gut punch’: What Trump’s new $103,265 H-1B visa fee proposal means for Indian aspirants
-The H-1B programme enables US employers to hire foreign workers trained in specialised fields. It provides for 65,000 visas each year, along with another 20,000 for workers holding advanced degrees, with visas approved for periods of three to six years.
+## BIS, comm min will work to support high-tech industries
+Commerce and industry minister Piyush Goyalsaid that clarifications related to SEZ notification, which were flagged by some players, will also be looked at. He also said that govt is committed to making India a manufacturing base for electronics and semiconductors and offered to roll out the red car
 
-## Bitcoin crosses $80,000 for first time since mid-May driven by weaker dollar, gains 28% in August
-Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a significant extension of its rally. The driving forces behind this surge include a weakening US dollar and optimistic policy forecasts that have spiked cryptocurrency interest. The movements came in response to Treasury S
+## For global scale banks, EAC-PM seeks mergers
+Beyond consolidation, banks need to narrow the credit-deposit gap, mobilise stable low-cost deposits and curb concentration in high-risk unsecured retail loans while expanding credit to MSMEs, infrastructure and green investments. To measure efficiency, the study treated banks as institutions that u
 
 ## Delhi Police register abetment to suicide case in IIT Delhi student's death
 Delhi Police register abetment to suicide case in IIT Delhi student's death
