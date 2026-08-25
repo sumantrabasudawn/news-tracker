@@ -93,6 +93,9 @@ The H-1B programme enables US employers to hire foreign workers trained in speci
 ## Bitcoin crosses $80,000 for first time since mid-May driven by weaker dollar, gains 28% in August
 Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a significant extension of its rally. The driving forces behind this surge include a weakening US dollar and optimistic policy forecasts that have spiked cryptocurrency interest. The movements came in response to Treasury S
 
+## Delhi Police register abetment to suicide case in IIT Delhi student's death
+Delhi Police register abetment to suicide case in IIT Delhi student's death
+
 ## Saman Bird Sanctuary to get tourism boost as UP Cabinet approves land transfer
 Saman Bird Sanctuary to get tourism boost as UP Cabinet approves land transfer
 
@@ -113,9 +116,6 @@ DCP Sachin Sharma said the man was at a financial consulting firm and left his j
 
 ## Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’
 Announcing the “Election Commission Chalo” campaign in Bengaluru on September 1, Raj said civil society groups would march against SIR of electoral rolls.
-
-## Gujarat Police want to unify 80,000+ CCTV cameras into one ‘smart surveillance’ network
-Participants will test their systems on about 50 CCTV feeds, tracking a designated vehicle and generating real-time alerts, GIS visualisation and movement data.
 
 ## Bank of Singapore's CIO Summit 2026 brings global perspectives to Hong Kong
 [The content of this article has been produced by our advertising partner.] For much of the past three decades, investors benefited from an environment defined by globalisation, low inflation, ample liquidity and relative geopolitical stability. Today, many of those assumptions are being challenged.
@@ -141,6 +141,9 @@ Beijing could soon hold carmakers legally responsible for traffic violations whe
 ## As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
 
+## Ukrainians Skeptical as Former Defense Minister Pushes for Elections
+Mykhailo Fedorov hopes anti-corruption rhetoric can carry him to power.
+
 ## Iran’s Economy May Outlast Trump’s Presidency
 A defiant Tehran has many tools for economic resilience.
 
@@ -161,9 +164,6 @@ Some straight talk for prospective students from a longtime professor.
 
 ## U.S. Unveils ‘Economic D-Day’ Against Iran
 The White House vows to sanction any country that continues to do business with Tehran.
-
-## Where Is King Abdullah?
-Facing regional turmoil and domestic criticism, Jordan’s ruler is spending more time overseas and less time talking to the press.
 
 ## A Golden Chance to Protect the Pacific’s ‘Blue Corridors’
 If Albanese is serious about a Pacific COP, he must heed the region’s call on oceans.
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## India police clash with protesters a month after Gen Z demonstrations
+Police used water cannons and batons as a few thousand protesters broke through security barricades in Bihar's capital.
+
+## Kurdish-led forces in Syria dissolve after merging with the army
+SDF commander campaigns for Kurdish language preservation after decade fighting the Islamic State.
+
+## Israeli protesters block aid trucks from reaching Gaza
+Israeli protesters block aid trucks from reaching Gaza
+
+## Video: Israeli forces raid UN training centre and raise Israeli flag
+Itamar Ben-Gvir celebrated after Israeli forces raided a UN-operated facility in occupied East Jerusalem.
+
 ## Syria’s economy poised for improvement after US sanctions removal
 Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.
 
 ## Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
 Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.
 
-## Kremlin denies planned talks with US envoys amid reports CIA head in Russia
+## Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia
 Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.
 
 ## Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections
 Fatah and Dahlan's Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.
-
-## Spain requests emergency funding from the EU over Ceuta migrants
-European Commission says it is 'assessing' Spain's request after some 70,000 migrants surged into North African enclave.
-
-## Most US Democrats in early 2028 primary states oppose aid to Israel: Poll
-Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.
-
-## Canada hits US with counter-tariffs on more than 700 products
-Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.
-
-## US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction
-US judge rejects Maxwell’s claims that newly released Epstein files could help overturn her sex-trafficking convictions.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
