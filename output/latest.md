@@ -1,28 +1,28 @@
 # AION Intelligence
 
-## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
-Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
+## Imran Khan may not survive Pakistan prison, son says
+Concerns grow over former PM’s health in conditions his lawyer calls ‘beyond deplorable’
 
 ## Canada announces $20bn retaliatory tariffs as US trade war escalates
 Hundreds of US goods will face increased levies from September 8
 
-## Foot Locker owner plunges after warning nervous consumers are cutting spending
-Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
+## America’s economic war on Iran has a China problem
+The US cannot fully isolate Tehran unless other trade partners co-operate
 
-## The drip-drip US debt crisis
-Rising deficits and debt-servicing costs no longer seem to have the power to restore prudence
+## Iran and Oman edge towards deal on Strait of Hormuz
+Interim proposal on managing shipping is first hint of diplomatic progress to reopen the waterway in weeks
 
-## Sizewell C nuclear project suffers setback after contractor dropped
-Galliford Try replaced after failing to agree cost of building key access roads
+## Will Iceland join the EU?
+A consultative vote next week could rekindle membership talks and pave the way for a new axis of expansion
 
-## ‘Embarrassing’: US officials recoil from Trump’s Canada attacks
-Deepening trade war between two long-term allies descends into insults and recrimination
+## How First Brands’ billion-dollar rescue hit the skids
+Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
 
-## Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
-Latest discovery made near scene where explosive-laden drone was uncovered on August 4
+## Iranian tankers gather off Sri Lankan coast
+Cut off from home ports by the US blockade, ships seek shelter close to Sri Lanka’s territorial waters
 
-## Waymo picks Munich for first EU robotaxi launch
-Move by Alphabet-owned group comes as Germany seeks to bolster its struggling auto sector
+## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
+Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
 
 ## Could nuclear fusion become economically viable?
 Some scientists have come up with a way of measuring its commercial value
@@ -30,35 +30,44 @@ Some scientists have come up with a way of measuring its commercial value
 ## Trade disruptions give container shipping a temporary reprieve
 Disruptions at sea and bottlenecks on land are pushing rates up and ensuring the industry remains buoyant
 
+## Foot Locker owner plunges after warning nervous consumers are cutting spending
+Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
+
+## Sizewell C nuclear project suffers setback after contractor dropped
+Galliford Try replaced after failing to agree cost of building key access roads
+
+## Waymo picks Munich for first EU robotaxi launch
+Move by Alphabet-owned group comes as Germany seeks to bolster its struggling auto sector
+
 ## Store water and tinned food to prepare for emergencies, UK citizens to be told
 Ministers step up work on ‘war book’ in push for resilience against extreme weather and cyber threats
 
 ## How extreme weather threatens energy security — from jellyfish swarms to ‘Super El Niño’
 Policymakers, businesses and media need to focus more attention on how climate change will impact energy systems, warn scientists
 
-## Nifty surges 115 points on expiry day as crude retreat and CAS swing the close
-The morning session opened in the red after Washington announced sweeping new sanctions targeting Iran and its trading partners in an effort to isolate Tehran and push for the reopening of the Strait of Hormuz
+## Persisting retail F&O losses spur call for tighter eligibility filters
+Experts seek income tests and exams to restrict derivatives access to informed investors
 
-## Capital Numbers acquires US-based Epitome Cloud for ₹40 crore
-Deal strengthens presence in the US and expands Salesforce and enterprise platform capabilities
+## How Chennai’s Neurostellar is measuring the mental stamina of Chess players
+Chennai deep tech startup’s device used by World Chess Champion Gukesh among others; available for pre-order at $250
 
-## Indian refiners lean on Russia, UAE, South America for August crude oil imports
-Despite the threat of the Graham Bill and potential secondary tariffs, Russia remains India’s largest crude supplier
+## UN:BLOC launches website for patients with chronic diseases
+The healthcare venture seeks to offer an alternative approach to managing chronic conditions such as diabetes, hypertension, thyroid disorders, PCOS and obesity
+
+## US targets four Indian firms in ‘Operation Economic Outcast’ against Iran
+India awaits details of the fresh sanctions as Washington expands pressure on Tehran; China opposes the measures
+
+## India poised to ban Carbosulfan, citing health risk to human and animal population
+However, a final decision will be taken after considering feedback from stakeholders
+
+## Coking coal market poised to be volatile in the short-term on China mine mishap, steel output dip
+China’s new mine regulations will curb production, while Indian demand growth is expected to continue
 
 ## NRI deposit inflows fall 22% to $2.8 b in Q1 FY27
 NRIs increasingly opted for FCNR(B) route, but a fall in rupee denominated instruments pulled the overall figure down
 
-## Nexedge Capital raises $20 million led by Mirae Asset and Elev8 Venture Partners
-Funds to strengthen technology, expand banker network and build NRI and NBFC offerings
-
-## Total flow of financial resources to commercial sector jumps by ₹10.65 lakh cr in the first 4 months of FY27
-In the “State of the Economy” report, published in the RBI’s monthly bulletin, RBI officials noted that credit growth continued to remain healthy in July
-
-## WhatsApp says more than one billion people now use passkey
-WhatsApp said two-step verification is also getting stronger
-
-## The art of no deal
-US says India trade pact is imminent — but so was Canada’s
+## Indian economy continues to display strength despite headwinds: RBI Bulletin
+Manufacturing, services activity remains robust in July; trade expands in double digits
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
@@ -84,11 +93,17 @@ The H-1B programme enables US employers to hire foreign workers trained in speci
 ## Bitcoin crosses $80,000 for first time since mid-May driven by weaker dollar, gains 28% in August
 Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a significant extension of its rally. The driving forces behind this surge include a weakening US dollar and optimistic policy forecasts that have spiked cryptocurrency interest. The movements came in response to Treasury S
 
+## MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing
+The bulk carrier, carrying about 71,200 metric tonnes of iron ore fines from Paradip port in Odisha to China, sank around 290 nautical miles off Paradip
+
+## Karnataka minister flags proposed Bengaluru parking fee of up to ₹25,000 to CM Shivakumar, asks to reconsider
+Reddy, who is also an MLA from Bengaluru, acknowledged the need to regulate roadside parking amid the city's growing vehicle population.
+
 ## Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues
 The order comes amid heavy rain battering the millennium city, causing waterlogging on several roads and localities.
 
-## Former consultant, 37, dies by suicide at New Delhi hotel: Police
-DCP Sachin Sharma said the man was at a financial consulting firm and left his job at the company in Gurugram around six months ago
+## Ex-consultant dies by suicide at Le Meridien hotel in Delhi, no note found
+DCP Sachin Sharma said the man was at a financial consulting firm and left his job at the company in Gurugram around six months ago.
 
 ## Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’
 Announcing the “Election Commission Chalo” campaign in Bengaluru on September 1, Raj said civil society groups would march against SIR of electoral rolls.
@@ -101,12 +116,6 @@ Ex-CDS Gen Anil Chauhan says Indian loitering munition likely hit Kirana Hills a
 
 ## Assam man, 25, steals ₹50 lakh, gold from house, father hands him over to cops
 “His father went to Ahmedabad, brought him back to Jorhat and handed him over to the police on Monday,” police said
-
-## Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted
-In December, GMDA warned the National Highways Authority of India (NHAI) about a possible cave-in at the IFFCO flyover
-
-## Rahul Gandhi defends Kriti Sanon amid backlash over Raksha Bandhan ad outfit: ‘Her choice’
-Rahul Gandhi defended Kriti Sanon against backlash over her Raksha Bandhan ad outfit, stating that a woman's attire is her choice.
 
 ## Bank of Singapore's CIO Summit 2026 brings global perspectives to Hong Kong
 [The content of this article has been produced by our advertising partner.] For much of the past three decades, investors benefited from an environment defined by globalisation, low inflation, ample liquidity and relative geopolitical stability. Today, many of those assumptions are being challenged.
@@ -132,6 +141,9 @@ Beijing could soon hold carmakers legally responsible for traffic violations whe
 ## As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
 
+## Iran’s Economy May Outlast Trump’s Presidency
+A defiant Tehran has many tools for economic resilience.
+
 ## Mike Huckabee Reckons With the Disturbing Reality of Settler Violence
 Huckabee, a longtime supporter of settlements, recently invoked the Bible against Israeli settlers.
 
@@ -152,9 +164,6 @@ The White House vows to sanction any country that continues to do business with 
 
 ## Where Is King Abdullah?
 Facing regional turmoil and domestic criticism, Jordan’s ruler is spending more time overseas and less time talking to the press.
-
-## Germany’s Firewall Has Completely Failed
-Attempts to ostracize the AfD have fueled both the rise and radicalization of Germany’s far-right party.
 
 ## China’s Strategic Plan for Space Superiority
 China defines space superiority as achieving space logistics and infrastructure, and then using them for the kind of war it might fight.
@@ -228,6 +237,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Canada hits US with counter-tariffs targeting hundreds of products
+Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.
+
+## US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction
+US judge rejects Maxwell’s claims that newly released Epstein files could help overturn her sex-trafficking convictions.
+
+## Carlos Baleba joins Manchester United in transfer from Brighton
+Cameroon midfielder joins EPL powerhouse for a fee understood to be worth up to 70 million pounds.
+
+## Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach
+As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
+
+## Photos: Rohingya refugees rally nine years after Myanmar exodus
+Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar's Rakhine state.
+
 ## Students clash with police in India in a new protest over exam leaks
 Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.
 
@@ -236,21 +260,6 @@ The third wildfire in two weeks devastates neighbourhoods across Reno, home to m
 
 ## Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
 Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men's world record set by ​Usain Bolt in 100m.
-
-## Infantino’s presidency under threat: FIFA elections, challengers, dates
-Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.
-
-## Nine years of Rohingya refugee crisis
-Nine years of Rohingya refugee crisis
-
-## Gaza marks one year since Mariam Dagga was killed in Israeli strike
-A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.
-
-## Qatar says US sanctions on Iran are unilateral
-Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
-
-## US launches Economic war on Iran
-The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
