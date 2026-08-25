@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Scott Bessent fires warning shot at Iran’s economic partners
+Also in today’s newsletter, the political backlash to Trump’s trade war with Canada
+
+## Store water and tinned food to prepare for emergencies, UK citizens to be told
+Ministers step up work on ‘war book’ in push for resilience against extreme weather and cyber threats
+
+## Germany on track for strongest GDP growth since 2022
+Economists raise forecasts after better than expected second-quarter growth and robust Ifo business index reading
+
 ## How extreme weather threatens energy security — from jellyfish swarms to ‘Super El Niño’
 Policymakers, businesses and media need to focus more attention on how climate change will impact energy systems, warn scientists
 
@@ -15,8 +24,11 @@ British officials explore possible White House visit around time of UN General A
 ## Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
 Latest discovery made near scene where explosive-laden drone was uncovered on August 4
 
-## China warns US it could retaliate over Iran sanctions
-Beijing says it will take ‘all necessary measures’ if Washington expands crackdown on business with Tehran
+## Deutsche banker charged with embezzling €600,000 from wealthy clients
+Case comes as German lender is seeking to expand its wealth management operations
+
+## Aston Martin creditors file for information ahead of UK suit against carmaker
+Bondholders owed £1.3bn have filed for discovery in the US courts over contentious £550mn financing deal
 
 ## Embattled housebuilder Vistry boosted by £350mn UK government contract
 Award to build 3,028 homes over 10 years sends shares 18% higher
@@ -24,41 +36,29 @@ Award to build 3,028 homes over 10 years sends shares 18% higher
 ## UK backs Devon tungsten mine in effort to secure critical mineral supplies
 National Wealth Fund invests £71mn in project to produce metal used in aerospace and defence industries
 
-## Deutsche banker charged with embezzling €600,000 from wealthy clients
-Case comes as German lender is seeking to expand its wealth management operations
+## Indian economy continues to display strength despite headwinds: RBI Bulletin
+Manufacturing, services activity remains robust in July; trade expands in double digits
 
-## Aston Martin creditors file for information ahead of UK suit against carmaker
-Bondholders owed £1.3bn have filed for discovery in the US courts over contentious £550mn financing deal
+## C-DOT will drive India’s shift from self-reliance to global telecom leadership: Scindia
+He was speaking at the 43rd foundation day celebrations of the State-owned C-DOT
 
-## Melrose faces $100mn compensation payouts after California toxic chemicals scare
-UK-listed company will not face prosecution after incident at GKN Aerospace facility
+## Defence Ministry opens DRDO’s conventional missile tech to private companies
+businessline first reported on June 5 that 10 to 12 of DRDO’s missile development projects were distributed among four private companies
 
-## Lego invests in software-enabled bricks and other products to power growth run
-World’s largest toy group is looking to sustain stellar revenue and profit increases
+## Weekly Rupee View: Rupee recovers
+Fall in crude oil price offers support for the domestic currency
 
-## Aditya Birla Health Insurance ties up with ICAI to offer coverage to 17 lakh students and CA members
-Aditya Birla Health has designed four products for different customer profiles in the ICAI ecosystem
+## WAE Joins United Nations Global Compact Network India, Advancing Technology-Led Water Sustainability
+Alignment reinforces WAE’s commitment to responsible business, circular water systems, climate action and the UN Sustainable Development Goals
 
-## Mondelez India, Amway, others took corrective measures after notices: FSSAI
-Measures taken by companies include withdrawing of misleading label claims and revising product packaging, the food regulator said in an social media post
+## Public sector bank more efficient than Private Sector Banks, says EAC-PM paper
+The paper found that PSBs efficiency improved to 93.12% in FY26 from 72.46% in FY20, citing subsequent capital infusion and technological upgradation in select PSBs as key reasons for improvement
 
-## RBI proposal to curb NBFCs' revolving credit may choke MSME funding, says industry body FISME
-In the draft, the Reserve Bank of India (RBI) has proposed that NBFC shall only offer credit products which are in nature of term loans and shall not offer any revolving credit products
+## Coking coal market poised to be volatile in the short-term on China mine mishap, steel output dip
+China’s new mine regulations will curb production, while Indian demand growth is expected to continue
 
-## Nifty surges 115 points on expiry day as crude retreat and CAS swing the close
-The morning session opened in the red after Washington announced sweeping new sanctions targeting Iran and its trading partners in an effort to isolate Tehran and push for the reopening of the Strait of Hormuz
-
-## L&T shares rise 0.71% as company bags two major West Asia orders
-Two projects are ultra-mega gas compression facilities with a contract value above ₹15,000 crore and three Battery Energy Storage System (BESS) valued between ₹5,000 crore and ₹10,000 crore
-
-## Mill gate prices of sugar drop further, but retail rates soar
-Wholesale prices across cities drop by ₹300 a quintal even as ex-mill rates drop to ₹5,400-5,500 a quintal for S-grade
-
-## Kirloskar Brothers shares slip 1.2% as Supreme Court sends family dispute to arbitration
-The stock ended at ₹1,899 on the NSE, down ₹23.40 or 1.22 per cent from Monday’s close of ₹1,922.40
-
-## Three major Indian banks raise over $1.85 billion in offshore bonds, signalling strong global market participation
-Axis Bank, Kotak Mahindra Bank, and Union Bank of India, made significant moves in the international debt markets on Monday and Tuesday
+## Telawne Power Unveils Next-Gen Smart Transformer Innovations at Bengaluru Industry Summit
+Leading transformer manufacturer gathers top energy consultants to accelerate IoT integration and grid modernization across India’s infrastructure sector.
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
@@ -84,29 +84,32 @@ Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a s
 ## RBI intervenes to support rupee as oil prices, dollar demand rise: Report
 The Reserve Bank of India likely intervened in foreign exchange markets. Elevated oil prices and corporate dollar demand pressured the rupee. State-run banks offered dollars, indicating central bank action. The rupee remained range-bound for two weeks due to sustained intervention. Geopolitical tens
 
+## Cockroach Janta Party launches nationwide legal aid platform for supporters, volunteers: ‘No fees, ever’
+CJP said that volunteers and supporters who face harassment and intimidation can reach out through the platform and seek legal help.
+
+## Keeping up with UP: Women politicians gearing up for UP polls
+Dimple Yadav’s public image received a boost after she helped the injured young protesters at Jantar Mantar during the CJP protest demanding education reforms
+
+## Navy set to commission Diving Support Vessel 'Nipun', second of its type, on August 31
+The vessel was delivered to the Indian Navy on July 30 following completion of an extensive programme of outfitting and trials.
+
+## Ganesh idol collapse kills 2 in Mumbai, Lalbaughcha Ganeshotvas mandal announces aid of ₹11 lakh, ₹5 lakh
+Two people were killed and five others injured when the idol of Bhuleshwaracha Raja collapsed during its arrival ceremony on Saturday night.
+
+## 98% of influenza cases in India are H1N1, but no cause for alarm: ICMR chief
+ICMR director general Dr Rajiv Bahl noted that despite a recent uptick in infections, severe cases requiring hospitalisation remain low
+
+## ‘Send kids to study, not return as dead bodies’: Deceased IIT Delhi student’s brother alleges institutional apathy
+After the tragic death of MSc Physics student, his brother accused IIT Delhi of insensitivity and lack of support during his mental health struggles.
+
+## Lack of policy framework hampers living conditions of PAP colonies: Report
+At these colonies, the Project Affected Persons (PAPs) were relocated and rehoused to make space for several infrastructure and civic projects
+
 ## Gwalior car's kiss marks, tinted glass, loud silencers: Which violations can invite trouble for Delhi-NCR motorists
 The Gwalior incident has highlighted motor vehicle laws, especially in the national capital, and the modifications that can land vehicle owners in trouble.
 
-## House searches conducted in Manipur’s Taphou after gunfight injures 1 CRPF man
-District police personnel and the CoBRA team carried out the search and combing operation in Taphou Naga Liangmai village and Taphou Kuki village
-
-## Solo contest or ‘big brother’ role: Where does BJP-SAD ‘alliance’ stand ahead of Punjab elections?
-SAD had been part of the NDA alliance since 1997 and walked out of the partnership in 2020 over the now-repealed farm laws.
-
-## ‘G Square Maapilai’, ‘lottery son-in-law’: Sparks fly in Tamil Nadu assembly as TVK, DMK clash over airport project
-This came after CM Vijay revealed plans to set up a new international airport near Chennai, following the scrapping of the proposed Parandur airport.
-
-## ‘Vegitables’ and ‘dear’: SAD mocks AAP over spelling errors in Punjab classroom
-Taking a dig at Punjab Education Minister Harjot Singh Bains, the Shiromani Akali Dal (SAD) said he was showing “clear signs of brain fog”.
-
-## Shehzad Poonawalla calls CJP 'bunch of fraudiyaas' over Abhijeet Dipke's best CM picks
-Shehzad Poonawalla, who recently resigned from the BJP, said in a video on X that the CJP loves CMs who are “rejected” by the public.
-
-## 'Maharashtra teen didn't intend to end life, wanted dad to come home', claims maternal aunt
-Kalyani Dabhade, maternal aunt of Kunal, dismissed reports suggesting that her nephew took the extreme step due to EMIs on an iPhone
-
-## Prosecution seeks death penalty for 5 convicts in 2024 Bhayli gang rape case
-The Vadodara POCSO court convicted the five men on August 20 for the gang rape of the girl in Bhayli area on October 4, 2024
+## WuXi Biologics posts 4.3% rise in first-half profit, defying biotech headwinds
+WuXi Biologics, one of China’s largest contract drug developers, posted a 4.3 per cent increase in profit attributable to shareholders in the first half of the year, as stronger demand and improved capacity utilisation lifted revenue and margins. The Wuxi, Jiangsu-based company’s net profit attribut
 
 ## Moon mission delay a hiccup, but Chinese rocket city Wenchang remains on the march
 For generations, Wenchang, on Hainan’s northeastern coast, was better known for coconuts, its namesake chicken and the emigrants who left for Southeast Asia in search of a living. Now the rhythms of life here have been altered, gradually and then all at once, by China’s space programme. Wenchang Spa
@@ -129,8 +132,8 @@ Record-breaking cross-border deals helped make some formerly loss-making Chinese
 ## Bitcoin tops US$80,000 for first time since May as US moves boost crypto
 Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded above US$80,900 on Tuesday, jumping roughly 25 per cent over the past week and signa
 
-## Gold strategy: how a Chinese vault network could bolster yuan’s role
-China is building a global network of gold vaults and accelerating central bank reserve buying as part of efforts to promote the yuan’s role in international trade, according to an S&P Global Ratings report on Tuesday. Firms such as Zijin Mining – China’s largest gold processor – and Shandong Gold M
+## A Pact Without Impact
+The Mecca Joint Defense Agreement faces all the classic challenges of an alliance with none of the unifying elements.
 
 ## Everything You Always Wanted to Know About IR Grad School
 Some straight talk for prospective students from a longtime professor.
@@ -152,9 +155,6 @@ A cautionary tale for Washington’s diversification push.
 
 ## What Donald Duck Can Teach Trump About Going to War
 President Franklin Roosevelt enlisted entertainers to make the case for fighting Germany and Japan.
-
-## Trump Needs China’s Help to Effectively Sanction Iran
-But Tehran’s top crude buyer appears unwilling to play ball.
 
 ## China’s Strategic Plan for Space Superiority
 China defines space superiority as achieving space logistics and infrastructure, and then using them for the kind of war it might fight.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes
-UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.
+## How Israel’s Netanyahu weaponises religion in his war rhetoric
+Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.
 
-## How water becomes a weapon of war
-A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.
+## Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war
+A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.
 
-## Rwanda accuses DR Congo of supporting an armed group on its soil
-Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.
+## Gaza child breaks down in tears after an Israeli threat over kites
+Gaza child breaks down in tears after an Israeli threat over kites
 
-## Rohingya refugees demand justice, dignity at Cox’s Bazar protest
-The United Council of Rohingya refugee group says it organised the protest to highlight 'ongoing humanitarian crisis'.
+## Two killed, refinery on fire in Russia’s Krasnodar after drone attack
+Ukraine hits Russia's Afipsky oil refinery and gas plant in latest attacks targeting energy infrastructure.
 
-## Russia mobilisation fears grow amid reports of intimidating tactics
-Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.
+## ‘We can’t breathe’: Indonesians battle wildfire haze
+Wildfires are raging across Indonesia, affecting at least 10 provinces and blanketing communities in hazardous haze.
 
-## Palestine weekly: After Kushner departs, Israel escalates Gaza attacks
-Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.
+## Israeli forces raid UNRWA training centre in occupied East Jerusalem
+The forces raided and seized the Qalandiya Training Centre, a key facility operated by the UNRWA.
 
-## Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide
-Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.
+## What to expect in elections in South Carolina, Georgia and Oklahoma
+These special and run-off elections will continue setting the stage for November's midterm elections.
 
-## How the US sanctions on Iran impact China
-US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.
+## Tottenham sign Brazilian winger Savinho from Manchester City
+Savinho's arrival, which comes in a busy transfer window for Spurs, takes their spending past $400m.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
@@ -276,6 +276,9 @@ The IBBI's draft circular aims to strengthen the insolvency process. Insolvency 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
 
+## Sebi drops case against Max Financial, Max Life, Axis entities in Rs 3,911 cr case
+Sebi has closed proceedings against Max Financial and Axis entities concerning alleged shareholder losses. The regulator found no evidence of disclosure lapses or a fraudulent scheme. Transactions between Max and Axis entities from 2009 to 2022 were examined. Allegations of undue benefits to Axis Ba
+
 ## Where has India’s $73 billion gone? Inside the RBI’s great dollar haul
 India has mobilised about $73 billion in foreign currency in under 11 weeks, largely through FCNR(B) deposits, yet the rupee remains near ₹95-96 per dollar. The inflows are primarily strengthening RBI’s foreign-exchange buffers rather than being used to push the currency higher.
 
@@ -293,7 +296,4 @@ The Indian rupee strengthened slightly on Thursday, aided by central bank action
 
 ## LIC gets RBI nod to raise stake in HDFC Bank to nearly 10% from 4.11%
 Life Insurance Corporation of India (LIC), India's largest insurance company, has received approval from the Reserve Bank of India (RBI) to increase its stake in HDFC Bank to up to 9.99 per cent.
-
-## Sebi bans two entities for illegal sensex CAS trades
-In a significant move, Sebi has prohibited Copthall Mauritius Investments and Mansi Share & Stock Broking for engaging in manipulative transactions. Accusations arose regarding their illicit gains made during the Sensex Closing Auction Session, resulting in the confiscation of Rs 3 crore from Coptha
 
