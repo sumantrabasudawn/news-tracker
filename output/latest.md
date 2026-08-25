@@ -33,17 +33,14 @@ Disruptions at sea and bottlenecks on land are pushing rates up and ensuring the
 ## Foot Locker owner plunges after warning nervous consumers are cutting spending
 Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
 
-## Sizewell C nuclear project suffers setback after contractor dropped
-Galliford Try replaced after failing to agree cost of building key access roads
+## Sizewell C nuclear project suffers setback after road building delayed
+Galliford Try replaced as key contractor following disagreement about cost of work
 
 ## Waymo picks Munich for first EU robotaxi launch
 Move by Alphabet-owned group comes as Germany seeks to bolster its struggling auto sector
 
 ## Store water and tinned food to prepare for emergencies, UK citizens to be told
 Ministers step up work on ‘war book’ in push for resilience against extreme weather and cyber threats
-
-## How extreme weather threatens energy security — from jellyfish swarms to ‘Super El Niño’
-Policymakers, businesses and media need to focus more attention on how climate change will impact energy systems, warn scientists
 
 ## Persisting retail F&O losses spur call for tighter eligibility filters
 Experts seek income tests and exams to restrict derivatives access to informed investors
@@ -93,6 +90,9 @@ The H-1B programme enables US employers to hire foreign workers trained in speci
 ## Bitcoin crosses $80,000 for first time since mid-May driven by weaker dollar, gains 28% in August
 Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a significant extension of its rally. The driving forces behind this surge include a weakening US dollar and optimistic policy forecasts that have spiked cryptocurrency interest. The movements came in response to Treasury S
 
+## India, China discuss peace along LAC, border delimitation: ‘Met in keeping with guidance from Modi, Xi Jinping’
+Doval said the normalcy in ties between both countries was a direct result of both sides maintaining peace and tranquillity along the border area.
+
 ## MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing
 The bulk carrier, carrying about 71,200 metric tonnes of iron ore fines from Paradip port in Odisha to China, sank around 290 nautical miles off Paradip
 
@@ -113,9 +113,6 @@ Participants will test their systems on about 50 CCTV feeds, tracking a designat
 
 ## India didn't target Pakistan's Kirana Hills; loitering munition hit it inadvertently: Ex-CDS Anil Chauhan
 Ex-CDS Gen Anil Chauhan says Indian loitering munition likely hit Kirana Hills after failing to find a radar target near Sargodha within its loiter time.
-
-## Assam man, 25, steals ₹50 lakh, gold from house, father hands him over to cops
-“His father went to Ahmedabad, brought him back to Jorhat and handed him over to the police on Monday,” police said
 
 ## Bank of Singapore's CIO Summit 2026 brings global perspectives to Hong Kong
 [The content of this article has been produced by our advertising partner.] For much of the past three decades, investors benefited from an environment defined by globalisation, low inflation, ample liquidity and relative geopolitical stability. Today, many of those assumptions are being challenged.
@@ -165,29 +162,29 @@ The White House vows to sanction any country that continues to do business with 
 ## Where Is King Abdullah?
 Facing regional turmoil and domestic criticism, Jordan’s ruler is spending more time overseas and less time talking to the press.
 
-## China’s Strategic Plan for Space Superiority
-China defines space superiority as achieving space logistics and infrastructure, and then using them for the kind of war it might fight.
+## A Golden Chance to Protect the Pacific’s ‘Blue Corridors’
+If Albanese is serious about a Pacific COP, he must heed the region’s call on oceans.
 
-## The Mecca Pact: What Do We Actually Know?
-There are few concrete details available about the joint defense agreement between Pakistan, Saudi Arabia, and Turkiye.
+## How an Election in Okinawa Will Impact East Asian Security
+Incumbent Governor Denny Tamaki is known for his staunch anti-U.S. base sentiment. His re-election bid will ripple through the alliance and beyond.
 
-## Will China Rewrite the Rules of Global Supply Chains?
-Beijing is building its own corporate responsibility and supply chain standards – and promoting these standards abroad.
+## Taiwan: A Growing Economic Partner for the EU in Troubled Times
+EU-Taiwan relations increasingly resemble a form of functional strategic partnership, despite the lack of formal diplomatic recognition.
 
-## Airstrikes on Civilians in Rakhine State Will Increase, Say Myanmar Military Defectors
-The military’s intensification of aerial bombing is aimed at defending key townships in the region.
+## India’s Gen Z Protests: When Youth Rage Becomes a Beacon of Hope
+India's Gen Z protest undeniably reopened democratic spaces that had shrunk over the past decade.
 
-## Trump Suddenly Wants a Summit With Kim Jong Un. Why Now?
-With the Iran war stalled and Seoul slow to deliver on a $350 billion pledge, the U.S. president is dangling a one-on-one summit that could sideline South Korea.
+## What the Latest ‘2+2’ Dialogue Tells Us About China-Indonesia Relations
+China wants more influence in Indonesia’s defense sector. Jakarta should make sure that also suits its national interests.
 
-## No Surprises in Kazakh Politics: New Presidential Party Wins Majority
-Adilet, as expected, secured a majority of the vote – 71 percent according to official preliminary data.
+## Pakistan Passes Legislation to Formalize New Military Command Structure
+It operationalizes structural changes that have been unfolding within the armed forces over the past year.
 
-## Ending the Cycle of Flight for the Rohingya Requires a Political Reckoning
-The international community keeps treating the symptoms without touching the underlying cause: our political exclusion within Myanmar.
+## China’s ‘Three-Anti’ Legal Framework in Action
+A suite of laws to counter foreign sanctions, intervention, and long-arm jurisdiction is impacting both cross-border business and geopolitical competition.
 
-## What Shapes Global Views of India?
-A recent Pew survey found that 45 percent of respondents in 36 countries held a favorable view of India, while another 41 percent held a negative view. But the results varied widely by country.
+## Can a State Build a Reading Culture? Uzbekistan Is Trying.
+Uzbekistan’s “Thousand Books for Youth” project hopes to promote a reading culture by making renowned books accessible in Uzbek.
 
 ## Russia’s Next Top General: Promotions in Russian Military Leadership
 Judged by the initial strategic goals set by Russian President Vladimir Putin in 2022, Russia’s military lost its war against Ukraine some time ago. Yet Russia’s armed forces have not stopped fighting and continue to prosecute large-scale combat operations in a brutalizing, protracted war sucking up
@@ -237,7 +234,16 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Canada hits US with counter-tariffs targeting hundreds of products
+## Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections
+Fatah and Dahlan's Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.
+
+## Spain requests emergency funding from the EU over Ceuta migrants
+European Commission says it is 'assessing' Spain's request after some 70,000 migrants surged into North African enclave.
+
+## Most US Democrats in early 2028 primary states oppose aid to Israel: Poll
+Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.
+
+## Canada hits US with counter-tariffs on more than 700 products
 Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.
 
 ## US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction
@@ -251,15 +257,6 @@ As Washington pressures Tehran, Gulf states weigh sanctions against the risk of 
 
 ## Photos: Rohingya refugees rally nine years after Myanmar exodus
 Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar's Rakhine state.
-
-## Students clash with police in India in a new protest over exam leaks
-Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.
-
-## Nevada wildfire contained to 27 percent as thousands still displaced
-The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.
-
-## Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
-Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men's world record set by ​Usain Bolt in 100m.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
