@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Nvidia employee charged with smuggling advanced chips into China
+Prosecutors identify Taiwan-based manager as ‘central figure’ in scheme involving US semiconductor maker’s AI servers
+
 ## FirstFT: Iran war punishes US farmers
 Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
 
@@ -10,7 +13,7 @@ Also in this newsletter: Merz seeks to reboot his moribund government
 US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic
 
 ## Iranians queue for petrol as US blockade bites
-Long lines form in capital city as officials warn that war and inflation are triggering fuel shortages
+Long lines form in capital as officials warn that war and inflation are triggering fuel shortages
 
 ## Austerity denial and the mystery of Britain’s shrunken state
 There is a ready supply of explanations on offer at Westminster
@@ -20,12 +23,6 @@ People are not puppets responding to the string pulls of market forces — free 
 
 ## China could rescue the oil market again — if it wanted to
 People’s Republic has ample spare capacity
-
-## Superpowers are discovering their limits, says UN chief
-António Guterres tells FT that the world risks sliding into confrontation without global institutions that reflect the changing balance of power
-
-## Is Northampton an emerging market?
-A load of Cobblers. And Gemcorp
 
 ## The unravelling of Mark Walter
 The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
@@ -39,29 +36,38 @@ UK bank last week secured regulatory approval for a new American office as part 
 ## US grain farmers pummelled as Iran war triggers surge in costs
 Middle East conflict adds to strains in America’s heartland months ahead of midterm elections
 
-## T-Hub, Army to back defence start-ups
-Founders to work on real problem statements and military deployments
+## The threats to ‘Swiss Made’
+For decades the country’s exporters focused on adding value, but US tariffs and the strong franc are now hitting them harder
 
-## Zara clothing supplier Pearl Global evaluates Africa expansion as Europe demand grows
-The potential ⁠move reflects a broader recalibration by Indian garment manufacturers, which are looking to tap growing European demand amid shifts in ‌US trade policy and disruptions to global shipping routes linked to Middle East tensions
+## Tiger Analytics appoints Prakash Arunachalam as Global Head of Operations
+Arunachalam will be responsible for increased holistic operational efficiency, agility to enable sustained business growth, and strengthen profitabilityArunachalam will enhance operational efficiency, agility, and profitability for sustained business growth.
 
-## Sensex today | Stock Market Live: Sensex, Nifty trade lower in listless session amid West Asia tensions
-Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as investors remained cautious over escalating West Asia tensions, elevated crude prices and the upcoming Nifty 50 monthly derivatives expiry, while concerns over a weak monsoon and global market weakness added to the pressure
+## Supreme Universal bags development project in Mumbai with ₹1,500 crore revenue potential
+The upcoming project will see construction of one of tallest towers in the neighbourhood and will have private sea facing terrace for each residence.
 
-## FedEx to invest $150 million for air cargo hub at Delhi airport
-The air cargo hub at GMR Cargo City, Indira Gandhi International Airport, will enhance connectivity in North and East India, connecting businesses to global markets
+## Indian Industry pushes for regulatory harmonisation, mutual recognition of standards with Japan
+On the investment front, Goenka said India-Japan ties are entering a new phase, with an earlier five-billion-dollar investment target set for 2022-26 already achieved two years ahead of schedule
 
-## Palm Conversations International India calls for broader understanding of palm oil
-Says it goes beyond fat content, taking into account overall dietary intake, molecular structure, cooking behaviour and health outcomes
+## Late-Aug punch for MP, Chhattisgarh as IMD forecast heavy rain today
+September rains are crucial since the inverse relationship between El Niño and the monsoon is stronger during the latter half of the season, particularly the last month of the season
 
-## 9 Stocks to Watch Today: Hind Copper, TCS, Ecofinity, IDFC First Bank, Axis Bank, Fujiyama, Coromandel, Ceigall, Afcons
-From a government stake sale and global partnerships to fresh orders, capacity expansion, bond issuances and an arbitration award, these are the key stocks to watch
+## Sensex today | Stock Market Live: Markets stay subdued; West Asia tensions, expiry in focus
+Sensex, Nifty, Share Prices Live: Indian shares remained subdued on Tuesday, recovering from the day’s lows but staying in negative territory as investors tracked West Asia tensions, elevated crude prices, weak monsoon concerns and the impact of the monthly Nifty 50 derivatives expiry.
 
-## TN Minister moves resolution to exempt TET for teachers appointed before Aug 2010
-The Minister stated that about 328,701 government school teachers in the State may lose their job benefits or positions if they do not pass the Teacher Eligibility Test
+## EC launches drive to verify voters, family members
+The objective of the 'home to roll verification' campaign, which will continue till September 4, is to ensure that the names of voters belonging to the same family and household are registered in the electoral roll of the same polling station
 
-## HDFC Bank shares today: What is driving the stock lower
-HDFC Bank’s total market capitalisation stood at ₹11.21 lakh crore, while its adjusted P/E ratio was 14.02
+## Silver futures decline to ₹2.43 lakh/kg
+On the Multi Commodity Exchange, September silver contracts fell by ₹903 (0.37%) to ₹2,43,317 per kg with a turnover of 1,702 lots
+
+## Jaishankar calls for urgent steps to address $50-billion India-Russia trade deficit
+Minister pitches greater market access, removal of tariff/non-tariff barriers, stronger payment mechanisms
+
+## ‘Gut punch’: What Trump’s new $103,265 H-1B visa fee proposal means for Indian aspirants
+The H-1B programme enables US employers to hire foreign workers trained in specialised fields. It provides for 65,000 visas each year, along with another 20,000 for workers holding advanced degrees, with visas approved for periods of three to six years.
+
+## Bitcoin crosses $80,000 for first time since mid-May driven by weaker dollar, gains 28% in August
+Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a significant extension of its rally. The driving forces behind this surge include a weakening US dollar and optimistic policy forecasts that have spiked cryptocurrency interest. The movements came in response to Treasury S
 
 ## RBI intervenes to support rupee as oil prices, dollar demand rise: Report
 The Reserve Bank of India likely intervened in foreign exchange markets. Elevated oil prices and corporate dollar demand pressured the rupee. State-run banks offered dollars, indicating central bank action. The rupee remained range-bound for two weeks due to sustained intervention. Geopolitical tens
@@ -81,35 +87,35 @@ The United States has enacted a substantial 50% tariff on a wide range of Canadi
 ## Top stocks to buy today: Stock market recommendations for August 25, 2026 - check list
 Stock market recommendations: Jindal Steel, Bajaj Auto, Engineers India, and NMDC - these have been recommended as the top stocks to buy today on August 25, 2026 by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan:
 
-## Stock market today: BSE Sensex plunges over 100 points, NSE Nifty50 opens below 24,200
+## Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions
+Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions
 
+## Suspend food licences of e-com sites for selling poisonous datura: Karnataka FDA
+If the licences are suspended, the platforms will not be permitted to sell food products until they comply with the FDA directions
 
-## Oil price today: Brent crude stays above $90 as Middle East standoff intensifies
-Amidst a backdrop of fresh US sanctions on Iran, oil prices held firm as investors calculated the implications. The atmosphere grew tense after an oil tanker encountered damage near Oman's shores. With the US tightening its sanctions to curtail Iran's financial resources, analysts remarked that econ
+## Advisory issued as waterlogging brings Delhi, Gurugram traffic to crawl; Check affected areas
+The Delhi Traffic Police issued an advisory warning commuters that heavy rainfall could lead to waterlogging at the Azad Market Railway Underpass.
 
-## 3 Tamils tortured before killing, says autopsy; Udhayanidhi seeks Vijay govt’s action
-The development comes after the autopsy report revealed that the victims were tortured before being shot at close range
+## Calcutta HC grants protection to TMC MP Abhishek Banerjee from arrest in 3 cases
+Calcutta HC grants protection to TMC MP Abhishek Banerjee from arrest in 3 cases
 
-## ‘Kutte bhonke hazaar’: BPSC official's remark sparks backlash amid student protests in Bihar
-Aspirants and opposition leaders criticised Singh and the BJP-led Bihar government . They accused the BPSC official of "likening students to dogs".
+## SC asks Centre to consider devising safeguards to ensure no misuse of EPFO, ITR data
+SC asks Centre to consider devising safeguards to ensure no misuse of EPFO, ITR data
 
-## India wanted red flags on chip packets and soda. Big Food fought back
-INDIA-FOOD:India wanted red flags on chip packets and soda. Big Food fought back
+## SC nudges Delhi court to conclude 2008 blasts trial in six months
+The bench said that Nisar’s bail plea could be considered again after six months if the trial court was unable to conclude the proceedings within that period
 
-## India wanted red flags on chip packets and soda. Big Food fought back.
-INDIA-FOOD/ (INSIGHT, PIX):INSIGHT-India wanted red flags on chip packets and soda. Big Food fought back.
+## Preliminary report for turbulence on Air India Phuket-Delhi likely in a week: Sources
+Preliminary report for turbulence on Air India Phuket-Delhi likely in a week: Sources
 
-## How Delhi gang pulled off fake 'Special 26' raids: Target lists, forged IDs, CBI jackets and threats
-The gang allegedly selected wealthy targets, obtained information about their homes and assets, assembled men to pose as federal investigators
+## Tamil Nadu CM Vijay plans new international airport near Chennai after scrapping Parandur project
+The Airports Authority of India has sought the Tamil Nadu government's permission to build a road connecting the facility to the national highway.
 
-## Odisha woman’s body recovered from under kitchen slab; son on run
-The woman had not been seen for days, and her son had been missing since Monday, prompting their landlady to alert police
+## How full equity buyouts could help China’s cooling bubble tea sector turn a new leaf
+Fuelled by the bubble tea boom in recent years and an intensely competitive market, financial investors have shown growing interest in major brands, shifting their playbook from early-stage bets and initial public offering (IPO) subscriptions to full equity buyouts. Growth of mid to high single digi
 
-## ‘Pork party?’ Shehzad Poonawalla's ‘other holy month’ jab at Rahul Gandhi amid Ayodhya-fish feast row
-Shehzad Poonawalla's swipe at Congress and Rahul Gandhi comes amid reported participation of party's UP chief Ajay Rai in a “fish feast” in Ayodhya amid Sawan.
-
-## YouTube game prompts 2 Meerut kids to leave home for bizarre '24-hour' challenge, go missing
-Lavania added that the families of the children searched the neighbourhood and relatives' homes but found no trace of them.
+## China’s new traffic safety law set to clarify liability for fully automated cars
+Beijing could soon hold carmakers legally responsible for traffic violations when autonomous driving systems are in use, marking an important step towards clearing regulatory hurdles to wider commercialisation. The Standing Committee of the National People’s Congress, China’s top legislature, is set
 
 ## As global drug giants grow cautious, can Chinese biotech keep cashing in on out-licensing?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
@@ -117,8 +123,8 @@ Record-breaking cross-border deals helped make some formerly loss-making Chinese
 ## Bitcoin tops US$80,000 for first time since May as US moves boost crypto
 Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded above US$80,900 on Tuesday, jumping roughly 25 per cent over the past week and signa
 
-## Gold strategy: why a Chinese global network of vaults would bolster yuan’s trade role
-China is building a global network of gold vaults and accelerating central bank reserve buying as part of efforts to promote the yuan’s role in international trade, according to an S&P Global Ratings report on Tuesday. Chinese gold miners, such as the mainland’s largest gold processor Zijin Mining, 
+## Gold strategy: how a Chinese vault network could bolster yuan’s role
+China is building a global network of gold vaults and accelerating central bank reserve buying as part of efforts to promote the yuan’s role in international trade, according to an S&P Global Ratings report on Tuesday. Firms such as Zijin Mining – China’s largest gold processor – and Shandong Gold M
 
 ## US Treasury bond buy-back reinforces gold debasement trade as Jackson Hole meeting looms
 The US Treasury’s decision to boost its buy-backs of long-maturity bonds is strengthening the debasement trade on gold, as investment banks turn more upbeat on the precious metal before the Federal Reserve’s annual meeting in Jackson Hole. Gold traded at a three-month high of US$4,698 an ounce on Tu
@@ -128,12 +134,6 @@ Hong Kong’s housing rally faces a new test as investors who rode the first-hal
 
 ## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
 Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
-
-## Kerry Properties targets Hong Kong sites, eyes luxury market as mainland growth slumps
-Kerry Properties is targeting Hong Kong residential land sales and will consider recycling capital from existing assets, betting on a tighter local housing supply even as China’s property downturn weighs on its mainland business. The developer said it acquired three residential sites in Hong Kong in
-
-## Hang Seng Bank doubles down on wealth hubs despite Beijing’s tighter investment scrutiny
-Hang Seng Bank says it continues to invest in its wealth centre network to capture growing demand from high-net-worth clients, even as Hong Kong’s wealth management industry faces uncertainty amid Beijing’s tighter scrutiny of mainland Chinese investors’ cross-border investments. The Hong Kong lende
 
 ## U.S. Unveils ‘Economic D-Day’ Against Iran
 The White House vows to sanction any country that continues to do business with Tehran.
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win
+Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.
+
+## Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks
+Reese broke Chamique Holdsclaw's record of 24 rebounds and added 11 points for her 27th double-double of the season.
+
+## Libya factions draft initial election pact amid lingering mistrust
+Libyan factions sign an initial an election pact, but divided institutions and deep legal gaps threaten its execution.
+
+## Australia’s music charts ban AI-made songs amid backlash over Madonna cover
+Tracks that use AI in a 'supporting role' will still be eligible for inclusion in the official charts.
+
 ## Two US carrier groups in Middle East strain navy resources
 Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower
 
@@ -242,18 +254,6 @@ Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terr
 
 ## France, Saudi Arabia agree on $7bn theme park project near Paris
 Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS's visit to Paris.
-
-## Rare tornado near Carcassonne in France causes damage and injuries
-Footage shows a rare tornado making its way through southern France.
-
-## Israel’s Netanyahu claims Iran tried to kill one of his sons
-Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.
-
-## Amnesty says India used lethal weapons on ‘Cockroach’ protesters
-Amnesty says India used lethal weapons on ‘Cockroach’ protesters.
-
-## Muslims celebrate Prophet Muhammad’s birthday
-Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
