@@ -36,29 +36,38 @@ Federal judge in Texas said litigation trust plan floated by company and senior 
 ## Burnham compromises on council homes plan
 Prime minister opts not to rip up programme drawn up under Sir Keir Starmer that mostly relies on housing associations
 
-## US announces fresh Iran sanctions, warns countries doing business with Tehran
-Washington is widening its economic campaign against Tehran as Iran faces mounting financial strain, a plunging currency and uncertainty over peace prospects
+## Sensex today | Stock Market Live: Indian equities seen lower as West Asia tensions persist, Nifty expiry looms
+Sensex, Nifty, Share Prices Live: Indian equities are set for a cautious session as investors weigh geopolitical risks, crude prices and domestic weather concerns, while a new derivatives expiry mechanism adds another potential source of volatility to benchmark indices.
 
-## Sensex today | Stock Market Live: Stock to buy today: Action Construction Equipment
-Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Action Construction Equipment. The stock is in a good uptrend since April. Within that the price has been consolidation over the last few days. Immediate support for the stock is at ₹1,150. Below that ₹1,110, the 21-Day Moving A
+## Apple gears up to launch its first new Mac Mini in two years
+The new desktop will debut as soon as the coming days, potentially putting the unveiling ahead of a September event to introduce the next iPhones
 
-## Iran vows retaliation after US expands economic sanctions
-Tehran said it was prepared to counter the latest measures as Washington sought greater international compliance with its pressure campaign
+## Rupee may cling to subdued rhythm, improved portfolio inflows lend support
+The rupee is expected to open in the 95.70-95.75 range, per traders, ‌having settled at 95.7450 to the dollar on Monday
 
-## LX Pantos Indonesia Strengthens CSR Commitment Through Community Renovation Initiatives
-LX Pantos Indonesia Strengthens CSR Commitment Through Community Renovation Initiatives
+## No reason to give up on CAS yet
+Overall trading volumes have not been impacted by the closing auction session suggesting redistribution of turnover
 
-## Rewarding Meetings Begin At Hyatt Regency Kuala Lumpur At KL Midtown
-Rewarding Meetings Begin At Hyatt Regency Kuala Lumpur At KL Midtown
+## Economic growth likely slows to 7.1% in April-June quarter
+Gross domestic product ‌expanded ⁠7.1% year-on-year in the April-June period, slowing from a better-than-expected 7.8% in the ⁠previous quarter
 
-## ICP DAS-BMP Brings Advanced Medical TPU Portfolio to Medical Manufacturing Asia 2026
-ICP DAS-BMP Brings Advanced Medical TPU Portfolio to Medical Manufacturing Asia 2026
+## All you need to know about Annu Projects IPO
+₹15.4 crore of the net IPO proceeds will go towards the purchase of machinery and equipment and ₹115 crore will be allocated to meet its working capital requirements
 
-## Buzzing stocks: Hind Copper, TCS, Ecofinity, IDFC First Bank, Axis Bank, Fujiyama, Coromandel, Ceigall, Afcons
-From a government stake sale and global partnerships to fresh orders, capacity expansion, bond issuances and an arbitration award, these are the key stocks to watch
+## Gold touches highest level since mid-May as buying momentum builds
+Among other metals, spot silver gained 0.5% to $69.29 per ⁠ounce, platinum rose 0.3% to $1,880.78 and palladium firmed 0.2% to $1,359.14
 
-## SEBI joins hands with RRU, NISM to boost cybersecurity and securities market intelligence
-The partnership will bring regulators, academia and industry professionals together to address emerging cyber risks facing financial markets
+## India’s new stock auction system faces first monthly expiry test
+The new system has operated through regular sessions and a weekly expiry since its launch on August 3
+
+## Honey to hockey sticks: Trump's 50% tariff net catches 550+ Canadian goods
+The United States has enacted a substantial 50% tariff on a wide range of Canadian goods, affecting more than 550 products, including common consumer items. In response, Canada intends to implement retaliatory measures that match the U.S. tariffs. This trade dispute continues to escalate further, wi
+
+## Top stocks to buy today: Stock market recommendations for August 25, 2026 - check list
+Stock market recommendations: Jindal Steel, Bajaj Auto, Engineers India, and NMDC - these have been recommended as the top stocks to buy today on August 25, 2026 by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan:
+
+## Stock Market Today Live Updates: GIFT Nifty signals weak start for Dalal Street; where are BSE Sensex, NSE Nifty50 headed
+
 
 ## Oil price today: Brent crude stays above $90 as Middle East standoff intensifies
 Amidst a backdrop of fresh US sanctions on Iran, oil prices held firm as investors calculated the implications. The atmosphere grew tense after an oil tanker encountered damage near Oman's shores. With the US tightening its sanctions to curtail Iran's financial resources, analysts remarked that econ
@@ -75,38 +84,29 @@ Amidst a backdrop of fresh US sanctions on Iran, oil prices held firm as investo
 ## Labour survey 2026 likely to track digital, platform workers
 
 
-## Canada to announce retaliatory tariffs against US after Trump warns of 'worse consequences'
+## Waterlogging, traffic jam in Gurugram amid rains, Noida fares no better
+Waterlogging was reported at several key junctions and arterial roads in Gurugram. Gautam Budh Nagar and Ghaziabad were also affected.
 
+## 1998 massacre of 23 Kashmiri Pandits to be probed again
+J&K SIA reopens 1998 Wandhama massacre case, revisiting the killings of 23 Kashmiri Hindus amid efforts to probe targeted violence.
 
-## India a safe base, Piyush Goyal tells Japanese investors
-Cites Long List Of Trade Deals, Says Data Is Protected, Intellectual Property Is Secure
+## Karnataka suspends food licences of Amazon, Instamart, BigBasket over sale of 'illegal' fruit
+The department had earlier ordered an investigation into sale and online listing of datura products following complaints against the quick commerce platforms.
 
-## TCS to acquire Porsche arm for $373 million, inks $1.4 billion deal
+## UN Desertification COP: India seeks funds for land restoration, drought-proofing
+Union environment minister Bhupender Yadav said India restored 21.76 million hectares of land between 2011-2020
 
+## Assam: Minor girl allegedly raped at Guwahati homestay, five arrested
+During preliminary questioning, the girl told police that she had been sexually assaulted the previous night at Rongmon Grand Hotel (Homestay) in Kerakuchi
 
-## Dera Sacha Sauda chief Gurmeet Ram Rahim walks out of prison on 21-day furlough
-Dera Sacha Sauda chief Gurmeet Ram Rahim walks out of prison on 21-day furlough
+## Actor, ex-BJP leader Devan says TVK offered him top post in Kerala
+Thiruvananthapuram: Actor and former Bharatiya Janata Party (BJP) leader Devan on Monday said that the Tamilaga Vettri Kazhagam (TVK) offered him the post of Kerala state president and that he would hold final discussions with party chief and Tamil Nadu chief minister Joseph Vijay on September 10 re
 
-## Wheat export ban lifted, but high prices may limit shipments
-Despite government stocks easing food-security worries, high prices may hinder immediate large exports, with actual shipments remaining at around 60,000 tonnes.
+## Vijayan should be accommodative, says D Raja amid Dy LoP post row
+Thiruvananthapuram: The ongoing wrangle between the CPI(M) and the CPI over the deputy leader of opposition (LoP) post in the Assembly intensified on Monday with CPI national general secretary D Raja asking LoP Pinarayi Vijayan to “be more accommodative” of allies within the LDF
 
-## Karnataka's draft SIR rolls released, over 27% voters face cut
-The state had 44.6 million electors, with significant deletions in urban areas, especially Bengaluru, which faced a 42.5% drop.
-
-## Ventilator blast or short circuit? Maharashtra probes cause of NICU fire that killed 3 infants
-Maharashtra CM has announced a ₹5 lakh ex-gratia for the families of the deceased.
-
-## Sugar surprise: How India went from surplus to shortage
-At the beginning of this sugar season (October 1, 2025; it ends on September 30, 2026), the government and the industry prepared for a surplus
-
-## FIRs still not withdrawn, CJP announces September 5 march in Delhi against Centre
-Issues include unwithdrawn FIRs against demonstrators, alleging government procrastination despite assurances of action post the July 25 protests.
-
-## Chhattisgarh CM urges workers' children to dream big, work hard
-Chhattisgarh CM urges workers' children to dream big, work hard
-
-## Chhattisgarh govt to impart lessons on state's art and culture to students
-Chhattisgarh govt to impart lessons on state's art and culture to students
+## Concern in BJP over renewed outreach
+The PM’s instruction was intended to pave the way for free wheeling conversions with the younger generation coupled with renewed outreach on social media in the wake of the protests that erupted over paper leaks.
 
 ## Gold strategy: why a Chinese global network of vaults would bolster yuan’s trade role
 China is building a global network of gold vaults and accelerating central bank reserve buying as part of efforts to promote the yuan’s role in international trade, according to an S&P Global Ratings report on Tuesday. Chinese gold miners, such as the mainland’s largest gold processor Zijin Mining, 
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel’s Netanyahu claims Iran tried to kill one of his sons
+Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.
+
+## Amnesty says India used lethal weapons on ‘Cockroach’ protesters
+Amnesty says India used lethal weapons on ‘Cockroach’ protesters.
+
 ## Muslims celebrate Prophet Muhammad’s birthday
 Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
 
@@ -237,7 +243,7 @@ The world’s largest open road bullfighting event turned deadly when a 29-year-
 ## Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
 At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti's capital.
 
-## US plans to revoke business, tourism visas of 200,000 asylum seekers
+## Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers
 If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.
 
 ## DRC’s constitutional battle: The fight over the 2028 vote
@@ -245,12 +251,6 @@ President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succ
 
 ## Search continues in Tunisia as migrant boat sinking sparks protests
 Tunisia's Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.
-
-## Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners
-US tells countries to choose between Washington and Tehran, warns Iran's trade partners they will face consequences.
-
-## How US sanctions on Iran ripple through global markets and consumers
-New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
@@ -276,6 +276,9 @@ The Department of Expenditure has asked procuring entities to avoid excessively 
 ## FAST-DS 2026: What the new foreign asset disclosure rules mean for taxpayers
 With the one time disclosure window now in force, the detailed rules set out who can come forward, how foreign assets and income will be valued, what taxpayers will have to pay and when a valid declaration can provide immunity from further tax, penalty and prosecution.
 
+## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
+India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
+
 ## RBI board gets three new part-time directors
 The Appointments Committee of the Cabinet (ACC) has approved the appointment of Annie George Mathew, Syed Akbaruddin and Janmejaya Kumar Sinha as part-time non-official directors on the Reserve Bank of India’s central board for four years.
 
@@ -296,7 +299,4 @@ In a significant move, Sebi has prohibited Copthall Mauritius Investments and Ma
 
 ## MTNL, BSNL and RINL's ₹13,500 crore worth of realty assets to hit markets
 Realty assets worth an estimated ₹13,500 crore belonging to MTNL, BSNL and RINL are set to hit the market after the Department of Public Enterprises gave final approval for their monetisation. The National Land Monetisation Corp will market 23 prime properties across six cities, targeting ₹7,500 cro
-
-## SEBI tightens mutual fund sponsor disclosure norms
-The capital markets regulator introduces a streamlined single application form requiring detailed disclosures on ownership, financial health, and governance from new fund applicants.
 
