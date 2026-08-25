@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## FirstFT: Iran war punishes US farmers
+Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
+
+## EU leaders begin heart-to-heart budget talks as year-end deadline looms large
+Also in this newsletter: Merz seeks to reboot his moribund government
+
 ## JPMorgan eases approach on lending against shares to court AI’s new wealth
 US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic
 
@@ -18,12 +24,6 @@ People’s Republic has ample spare capacity
 ## Superpowers are discovering their limits, says UN chief
 António Guterres tells FT that the world risks sliding into confrontation without global institutions that reflect the changing balance of power
 
-## US grain farmers pummelled as Iran war triggers surge in costs
-Middle East conflict adds to strains in America’s heartland months ahead of midterm elections
-
-## The threats to ‘Swiss Made’
-For decades the country’s exporters focused on adding value, but US tariffs and the strong franc are now hitting them harder
-
 ## The unravelling of Mark Walter
 The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
 
@@ -33,32 +33,41 @@ The mutual financial group based in the Yorkshire Dales wants to emphasise the p
 ## NatWest plots push into US market
 UK bank last week secured regulatory approval for a new American office as part of expansion plans
 
-## Private equity growth funds attract record first-half inflows as sector rebounds
-Recovery in fundraising being driven by AI boom and some valuations that remain below 2021 peak
+## US grain farmers pummelled as Iran war triggers surge in costs
+Middle East conflict adds to strains in America’s heartland months ahead of midterm elections
 
-## Big Food’s fight against red flags on chip packets and soda
-Several food companies have filed legal complaints against social-media influencers who have criticized how they market their products in India
+## The threats to ‘Swiss Made’
+For decades the country’s exporters focused on adding value, but US tariffs and the strong franc are now hitting them harder
 
-## Sensex today | Stock Market Live: Sensex, Nifty open lower as West Asia tensions, crude prices weigh
+## HDFC Bank shares today: What is driving the stock lower
+HDFC Bank’s total market capitalisation stood at ₹11.21 lakh crore, while its adjusted P/E ratio was 14.02
+
+## Karnataka suspends food licences of Amazon, Swiggy Instamart, Bigbasket over sale of Datura
+It instructed food business operators to remove all listings and promotional material for Datura intended for food or human consumption
+
+## Shankesh Jewellers, Sunshine Pictures make modest debut, trade below listing prices
+Sunshine Pictures listed at a 10% premium on the NSE, while Shankesh Jewellers began trading at an 11% premium on the NSE
+
+## Sensex today | Stock Market Live: Sensex, Nifty trade lower as West Asia tensions, crude prices weigh
 Sensex, Nifty, Share Prices Live: Indian equities opened lower on Tuesday as investors remained cautious over escalating West Asia tensions, elevated crude prices and the upcoming Nifty 50 monthly derivatives expiry, while concerns over a weak monsoon and global market weakness added to the pressure
 
-## Nifty, Sensex open lower; TCS, Eternal gain, Cipla, Maruti slip
-The weakness follows Monday's session where the Nifty shed 32.95 points or 0.14%, as gains in metals and IT were offset by selling in financials and PSU banks
+## Gold Rate Today, Aug 25: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
+22, 24 carat Gold prices up across Indian cities on August 20
 
-## Bitcoin tops $80,000 on debasement trade, sets three-month high
-The original cryptocurrency rose as much as 2.9% to $81,257 Tuesday in Asia, a level last seen on May 15
+## Jaishankar calls for urgent steps to address $50-billion India-Russia trade deficit
+Minister pitches greater market access, removal of tariff/non-tariff barriers, stronger payment mechanisms
 
-## Union Bank of India taps dollar debt market after 12-year hiatus
-The bank raised $300 million each through three-year and five-year papers at a coupon of 5.23% ‌and 5.4170%, respectively
+## Crude oil prices rise as markets weigh US sanctions on Iran
+At 10.01 am on Tuesday, November Brent oil futures were at $90.71, up by 0.19%, and October crude oil futures on WTI (West Texas Intermediate) were at $85.26, up by 0.29%
 
-## JPMorgan says bond market can handle issuance stampede
-Issuance expectations are in a wide range of $175 billion to $250 billion, Kelsey Berro, a portfolio manager at JPMorgan Asset Management, said
+## MCX Aluminium: Support coming up
+The MCX Aluminium Contract can bounce back from its support at ₹343 and go higher again
 
-## Propshop Events & Exhibitions Accelerates Expansion Across the US, Europe and UAE
-Propshop Events & Exhibitions Accelerates Expansion Across the US, Europe and UAE
+## Trump’s SpaceX stake: US President invested up to $50,000 in Musk’s company - report
+President Donald Trump reportedly invested between fifteen thousand and fifty thousand dollars in Elon Musk's SpaceX. This financial disclosure reveals a new link between the president and a major government contractor. SpaceX completed its largest-ever US IPO, reaching a significant valuation and b
 
-## Commodity vessel transits through Strait of Hormuz fall to three-month low, data shows
-A large gas carrier entered the strait from the Gulf of Oman on Monday at 0251 GMT, according to shiptracker Kpler, compared to six vessels on Sunday
+## Rupee slips to 95.74 against US dollar as crude prices, importer demand weigh
+On Tuesday, the Indian Rupee faced a minor decline against the US dollar, influenced by rising crude oil prices and increased demand from importers. The Reserve Bank of India stepped in to stabilize the currency, keeping its fluctuations minimal. Meanwhile, domestic equities opened softly, although 
 
 ## ‘Hire and train Americans’: JD Vance defends proposed six-figure H-1B fee
 The US Department of Homeland Security proposed a new $103,265 fee for H-1B visa petitions. This fee aims to recover government costs for administering the immigration system. Vice President JD Vance supports the proposal, emphasizing hiring American workers. Indian professionals, a major beneficiar
@@ -78,11 +87,20 @@ Amidst a backdrop of fresh US sanctions on Iran, oil prices held firm as investo
 ## Meiji Seika to push new vaccine with SII in India
 
 
-## Government eyes 3000 crore by selling 6% in Hindustan Copper
+## ‘Pork party?’ Shehzad Poonawalla's ‘other holy month’ jab at Rahul Gandhi amid Ayodhya-fish feast row
+Shehzad Poonawalla's swipe at Congress and Rahul Gandhi comes amid reported participation of party's UP chief Ajay Rai in a “fish feast” in Ayodhya amid Sawan.
 
+## YouTube game prompts 2 Meerut kids to leave home for bizarre '24-hour' challenge, go missing
+Lavania added that the families of the children searched the neighbourhood and relatives' homes but found no trace of them.
 
-## Government looks to add more AI partners for digital projects
+## Tamil Nadu CM Vijay drops Parandur airport plan, sparks political slugfest
+Vijay said Chennai’s existing Meenambakkam airport can handle more passengers, avoiding a new site to protect farmers and limit land damage.
 
+## Ajit Doval meets Chinese vice president Han Zheng ahead of India-China boundary talks
+Doval arrived in Beijing on Monday for two-day talks, ahead of Chinese President Xi Jinping’s expected visit to New Delhi for the BRICS summit on Sep 12-13.
+
+## Delhi NCR weather LIVE: Knee-deep water in parts of Delhi, WFH advisory for Gurugram offices; more rain likely
+Delhi NCR weather LIVE: Delhi’s 11 districts remain under a red alert as the IMD forecasts moderate rain across many areas and heavy to extremely heavy showers at isolated locations.
 
 ## CRPF man injured as fresh gunfight, arson hit Manipur
 Local authorities demanded accountability for the violence, citing ongoing tensions between the Naga and Kuki communities following recent kidnappings.
@@ -93,20 +111,11 @@ The Public Private Partnership model aims to enhance airport infrastructure with
 ## Waterlogging, traffic jam in Gurugram amid rains, Noida fares no better
 Waterlogging was reported at several key junctions and arterial roads in Gurugram. Gautam Budh Nagar and Ghaziabad were also affected.
 
-## 1998 massacre of 23 Kashmiri Pandits to be probed again
-J&K SIA reopens 1998 Wandhama massacre case, revisiting the killings of 23 Kashmiri Hindus amid efforts to probe targeted violence.
+## As global drug giants grow cautious, can Chinese biotech keep cashing in on out-licensing?
+Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
 
-## Karnataka suspends food licences of Amazon, Instamart, BigBasket over sale of 'illegal' fruit
-The department had earlier ordered an investigation into sale and online listing of datura products following complaints against the quick commerce platforms.
-
-## UN Desertification COP: India seeks funds for land restoration, drought-proofing
-Union environment minister Bhupender Yadav said India restored 21.76 million hectares of land between 2011-2020
-
-## Assam: Minor girl allegedly raped at Guwahati homestay, five arrested
-During preliminary questioning, the girl told police that she had been sexually assaulted the previous night at Rongmon Grand Hotel (Homestay) in Kerakuchi
-
-## Actor, ex-BJP leader Devan says TVK offered him top post in Kerala
-Thiruvananthapuram: Actor and former Bharatiya Janata Party (BJP) leader Devan on Monday said that the Tamilaga Vettri Kazhagam (TVK) offered him the post of Kerala state president and that he would hold final discussions with party chief and Tamil Nadu chief minister Joseph Vijay on September 10 re
+## Bitcoin tops US$80,000 for first time since May as US moves boost crypto
+Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded above US$80,900 on Tuesday, jumping roughly 25 per cent over the past week and signa
 
 ## Gold strategy: why a Chinese global network of vaults would bolster yuan’s trade role
 China is building a global network of gold vaults and accelerating central bank reserve buying as part of efforts to promote the yuan’s role in international trade, according to an S&P Global Ratings report on Tuesday. Chinese gold miners, such as the mainland’s largest gold processor Zijin Mining, 
@@ -125,12 +134,6 @@ Kerry Properties is targeting Hong Kong residential land sales and will consider
 
 ## Hang Seng Bank doubles down on wealth hubs despite Beijing’s tighter investment scrutiny
 Hang Seng Bank says it continues to invest in its wealth centre network to capture growing demand from high-net-worth clients, even as Hong Kong’s wealth management industry faces uncertainty amid Beijing’s tighter scrutiny of mainland Chinese investors’ cross-border investments. The Hong Kong lende
-
-## Alibaba’s record stock sale adds to Hong Kong tech flood
-Alibaba raised HK$80 billion (US$10.2 billion) in a record Hong Kong secondary stock sale as the e-commerce giant pours money into artificial intelligence (AI). Shares were priced at HK$112.70 apiece, an 8.4 per cent discount to Friday’s close, according to a Hong Kong stock exchange filing. The Han
-
-## Mainland school operator leases Kowloon tower as talent influx drives city’s education boom
-A Hong Kong-listed educational group has completed the largest commercial property leasing deal so far this quarter, as the sector benefits from an influx of immigrant and expatriate families to the city, according to CBRE. The tenant agreed to occupy and transform the entire Tower B at the China Li
 
 ## U.S. Unveils ‘Economic D-Day’ Against Iran
 The White House vows to sanction any country that continues to do business with Tehran.
@@ -228,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syrian president thanks nation for getting off US state terror list
+Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.
+
+## France, Saudi Arabia agree on $7bn theme park project near Paris
+Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS's visit to Paris.
+
 ## Rare tornado near Carcassonne in France causes damage and injuries
 Footage shows a rare tornado making its way through southern France.
 
@@ -245,12 +254,6 @@ The world’s largest open road bullfighting event turned deadly when a 29-year-
 
 ## Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
 At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti's capital.
-
-## Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers
-If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.
-
-## DRC’s constitutional battle: The fight over the 2028 vote
-President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
