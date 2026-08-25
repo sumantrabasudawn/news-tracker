@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Tokio Marine plots multibillion-dollar deal after Berkshire takes stake
+Japanese group reviews several targets including Australia’s Suncorp and Canada’s Intact Financial
+
+## Big Indian corporations want a piece of the booming gold-backed loan business
+Also in this newsletter, a JPMorgan Chase entity faces Sebi’s ire
+
+## Pakistan seeks US funding in shift from China
+Finance minister outlines planned return to capital markets borrowing to cut reliance on bilateral debt
+
 ## Trump says US to increase tariffs on Canadian cars to 50%
 Ottawa officials set to announce response to new American levies on Tuesday
 
@@ -15,6 +24,9 @@ Justices lift decision to block president’s order to restrict eligibility to a
 ## FirstFT: Shein targets $27bn valuation in Hong Kong IPO
 Also in this newsletter: US-Canada trade war erupts and Singapore’s effort to boost birth rates
 
+## Shein’s IPO pitch should be more Meta than H&M
+Its rivals are not just clothes retailers but any business that provides screen-addicted users with a dopamine hit
+
 ## Morgan Stanley and Schroders back Australia’s largest venture capital round
 Blackbird Ventures raises $750mn, with early-stage investor attracting US and UK funds
 
@@ -24,35 +36,32 @@ Federal judge in Texas said litigation trust plan floated by company and senior 
 ## Burnham compromises on council homes plan
 Prime minister opts not to rip up programme drawn up under Sir Keir Starmer that mostly relies on housing associations
 
-## Shein’s IPO pitch should be more Meta than H&M
-Its rivals are not just clothes retailers but any business that provides screen-addicted users with a dopamine hit
+## US announces fresh Iran sanctions, warns countries doing business with Tehran
+Washington is widening its economic campaign against Tehran as Iran faces mounting financial strain, a plunging currency and uncertainty over peace prospects
 
-## UK seeks to tighten security of supply chains after Iran-linked cyber attack
-Potential veto poses challenge for energy companies reliant on Chinese supplies
+## Sensex today | Stock Market Live: Stock to buy today: Action Construction Equipment
+Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Action Construction Equipment. The stock is in a good uptrend since April. Within that the price has been consolidation over the last few days. Immediate support for the stock is at ₹1,150. Below that ₹1,110, the 21-Day Moving A
 
-## Trump weighs 7.5% new tariff on China over excess industrial capacity
-Washington is considering another levy on Chinese goods as concerns over Beijing’s industrial capacity and surging exports intensify ahead of crucial trade talks
+## Iran vows retaliation after US expands economic sanctions
+Tehran said it was prepared to counter the latest measures as Washington sought greater international compliance with its pressure campaign
 
-## Canada to announce retaliatory tariffs against US as trade war escalates
-Ottawa is preparing a fresh response to Washington as trade negotiations collapse, raising fears of deeper disruption across highly integrated North American industries
+## LX Pantos Indonesia Strengthens CSR Commitment Through Community Renovation Initiatives
+LX Pantos Indonesia Strengthens CSR Commitment Through Community Renovation Initiatives
 
-## Indian student applications to US colleges fall 15% amid tighter immigration policies
-Tighter visa rules and policy uncertainty are reshaping international education prospects, with fewer students from India and other countries applying
+## Rewarding Meetings Begin At Hyatt Regency Kuala Lumpur At KL Midtown
+Rewarding Meetings Begin At Hyatt Regency Kuala Lumpur At KL Midtown
 
-## West Bengal bars teacher-doctors from private practice for 72 hours after government hospital admission
-The new directive seeks to ensure treating faculty remain available to government hospital patients during the crucial period following admission.
+## ICP DAS-BMP Brings Advanced Medical TPU Portfolio to Medical Manufacturing Asia 2026
+ICP DAS-BMP Brings Advanced Medical TPU Portfolio to Medical Manufacturing Asia 2026
 
-## India’s chemicals sector targets $1 trillion by 2040
-The government is seeking closer industry engagement and greater investment to strengthen manufacturing, innovation and long-term competitiveness across the chemicals sector, says Nadda
+## Buzzing stocks: Hind Copper, TCS, Ecofinity, IDFC First Bank, Axis Bank, Fujiyama, Coromandel, Ceigall, Afcons
+From a government stake sale and global partnerships to fresh orders, capacity expansion, bond issuances and an arbitration award, these are the key stocks to watch
 
-## India’s non-fossil fuel power capacity crosses 300 GW, reaches 54% of total capacity
-The milestone underscores India’s accelerating clean energy transition, with states such as Rajasthan playing a key role in expanding renewable infrastructure.
+## SEBI joins hands with RRU, NISM to boost cybersecurity and securities market intelligence
+The partnership will bring regulators, academia and industry professionals together to address emerging cyber risks facing financial markets
 
-## Luxembourg-based iPC proposes ₹83,480 crore investment in Karnataka in three phases
-The proposed project will combine large-scale digital infrastructure with green hydrogen and power generation across an integrated Bengaluru-Tumakuru platform
-
-## Haryana pitches strategic partnership as MoUs worth ₹66,000 crore signed
-The state outlined sector-specific growth plans and measures aimed at attracting investment, strengthening industries and expanding economic opportunities across districts
+## Oil price today: Brent crude stays above $90 as Middle East standoff intensifies
+Amidst a backdrop of fresh US sanctions on Iran, oil prices held firm as investors calculated the implications. The atmosphere grew tense after an oil tanker encountered damage near Oman's shores. With the US tightening its sanctions to curtail Iran's financial resources, analysts remarked that econ
 
 ## Meiji Seika to push new vaccine with SII in India
 
@@ -75,8 +84,23 @@ Cites Long List Of Trade Deals, Says Data Is Protected, Intellectual Property Is
 ## TCS to acquire Porsche arm for $373 million, inks $1.4 billion deal
 
 
-## UPI@10: How platform changed the way we pay
+## Dera Sacha Sauda chief Gurmeet Ram Rahim walks out of prison on 21-day furlough
+Dera Sacha Sauda chief Gurmeet Ram Rahim walks out of prison on 21-day furlough
 
+## Wheat export ban lifted, but high prices may limit shipments
+Despite government stocks easing food-security worries, high prices may hinder immediate large exports, with actual shipments remaining at around 60,000 tonnes.
+
+## Karnataka's draft SIR rolls released, over 27% voters face cut
+The state had 44.6 million electors, with significant deletions in urban areas, especially Bengaluru, which faced a 42.5% drop.
+
+## Ventilator blast or short circuit? Maharashtra probes cause of NICU fire that killed 3 infants
+Maharashtra CM has announced a ₹5 lakh ex-gratia for the families of the deceased.
+
+## Sugar surprise: How India went from surplus to shortage
+At the beginning of this sugar season (October 1, 2025; it ends on September 30, 2026), the government and the industry prepared for a surplus
+
+## FIRs still not withdrawn, CJP announces September 5 march in Delhi against Centre
+Issues include unwithdrawn FIRs against demonstrators, alleging government procrastination despite assurances of action post the July 25 protests.
 
 ## Chhattisgarh CM urges workers' children to dream big, work hard
 Chhattisgarh CM urges workers' children to dream big, work hard
@@ -84,26 +108,11 @@ Chhattisgarh CM urges workers' children to dream big, work hard
 ## Chhattisgarh govt to impart lessons on state's art and culture to students
 Chhattisgarh govt to impart lessons on state's art and culture to students
 
-## Karnataka beggar dies, ₹8.4 lakh savings found as she leaves behind currency notes at home
-The cash, accumulated over the years, included ₹10, ₹20 and ₹50 notes. More than 30 sacks containing the money were found inside the house.
-
-## MCD officer suspended after teen falls into open drain in Delhi, video of father’s desperate search goes viral
-The teenager fell into the drain on Saturday last week. Rescue teams continued their search for him for the second day on Monday.
-
-## Nagpur gas leak: 56 hospitalised, 8 in ICU after Chlorine leak at Godhni Water Treatment Plant
-Responders successfully contained the leak by completely submerging the faulty chlorine cylinder in water to neutralise the escaping gas.
-
-## Putin assures India of fuel, fertilisers amid disruptions over West Asia crisis
-Jaishankar said PM Modi hopes that President Vladimir Putin would attend the Brics Summit in New Delhi on September 12-13
-
-## India’s most powerful 12,000-horsepower electric locomotives to get waterless urinals for loco pilots: Report
-The new locomotives manufactured at the Madhepura factory will have an inbuilt urinal, while the ones already rolled out will be retrofitted.
-
-## ‘You know nothing’: Maharashtra hill tragedy victims' relative refutes iPhone EMI claims
-The teen's aunt described the iPhone narrative as a "rumour", claiming that people spreading such tales "know nothing".
+## Gold strategy: why a Chinese global network of vaults would bolster yuan’s trade role
+China is building a global network of gold vaults and accelerating central bank reserve buying as part of efforts to promote the yuan’s role in international trade, according to an S&P Global Ratings report on Tuesday. Chinese gold miners, such as the mainland’s largest gold processor Zijin Mining, 
 
 ## US Treasury bond buy-back reinforces gold debasement trade as Jackson Hole meeting looms
-The US Treasury’s decision to boost its buy-backs of long-maturity bonds is strengthening the debasement trade on gold, as investment banks turn more upbeat on the precious metal before the Federal Reserve’s annual meeting in Jackson Hole. Gold rose 0.2 per cent to a three-month high of US$4,689.3 a
+The US Treasury’s decision to boost its buy-backs of long-maturity bonds is strengthening the debasement trade on gold, as investment banks turn more upbeat on the precious metal before the Federal Reserve’s annual meeting in Jackson Hole. Gold traded at a three-month high of US$4,698 an ounce on Tu
 
 ## Hong Kong housing rally faces test as property flippers retreat
 Hong Kong’s housing rally faces a new test as investors who rode the first-half rebound become less active in quick-turn trades, leaving owner-occupiers and longer-term buyers to sustain the recovery. Secondary home prices have continued to rise, with Centaline’s leading index climbing 0.64 per cent
@@ -122,9 +131,6 @@ Alibaba raised HK$80 billion (US$10.2 billion) in a record Hong Kong secondary s
 
 ## Mainland school operator leases Kowloon tower as talent influx drives city’s education boom
 A Hong Kong-listed educational group has completed the largest commercial property leasing deal so far this quarter, as the sector benefits from an influx of immigrant and expatriate families to the city, according to CBRE. The tenant agreed to occupy and transform the entire Tower B at the China Li
-
-## Louis Vuitton shuts down another store amid fallout from trademark dispute in China
-Louis Vuitton will close its only store in Guiyang on August 31, according to an on-site notice, further trimming the French luxury brand’s southwestern China footprint, which has fallen to three stores from a peak of six. The closure in the capital of Guizhou province is part of the brand’s plan to
 
 ## U.S. Unveils ‘Economic D-Day’ Against Iran
 The White House vows to sanction any country that continues to do business with Tehran.
@@ -150,7 +156,13 @@ But Tehran’s top crude buyer appears unwilling to play ball.
 ## Why We Are Living Through ‘Hyperpolitics’
 Anton Jäger explains why record voter turnout isn’t leading to systemic change.
 
-## Airstrikes on Civilians in Rakhine Will Increase, Say Myanmar Military Defectors
+## The Mecca Pact: What Do We Actually Know?
+There are few concrete details available about the joint defense agreement between Pakistan, Saudi Arabia, and Turkiye.
+
+## Will China Rewrite the Rules of Global Supply Chains?
+Beijing is building its own corporate responsibility and supply chain standards – and promoting these standards abroad.
+
+## Airstrikes on Civilians in Rakhine State Will Increase, Say Myanmar Military Defectors
 The military’s intensification of aerial bombing is aimed at defending key townships in the region.
 
 ## Trump Suddenly Wants a Summit With Kim Jong Un. Why Now?
@@ -167,12 +179,6 @@ A recent Pew survey found that 45 percent of respondents in 36 countries held a 
 
 ## Severe Flooding Bares Garbage and Corruption Problems in the Philippines
 Lawmakers and contractors used the climate crisis to push forward flood-control projects. But those have turned out to be defective and in some cases even non-existent.
-
-## What Is Life Really Like Under the Taliban? We Asked Afghan Women.
-Online influencers are framing Afghanistan as a a beautiful, welcoming “hidden gem.” That may be true for tourists – but what about the women who live there?
-
-## Ziya Us Salam on the Controversy Over the Taj Mahal
-The claims of Hindu groups that the Taj Mahal was originally a Hindu temple are “high on prejudice and assumptions, low on evidence.”
 
 ## Command and Politics in the War Between Moscow and Kyiv
 Our intrepid team covers a lot of ground in this episode: the increasing fluidity of the battlefield, drones and air defense, the biting Black Sea campaign, the causes and aftermath of the firing of Ukraine’s popular defense minister, why Ukraine probably cannot produce PAC-3 air defense missiles (d
@@ -222,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Muslims celebrate Prophet Muhammad’s birthday
+Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
+
+## Man killed in world’s largest annual bullfighting event in Mexico
+The world’s largest open road bullfighting event turned deadly when a 29-year-old man was killed.
+
+## Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
+At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti's capital.
+
+## US plans to revoke business, tourism visas of 200,000 asylum seekers
+If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.
+
 ## DRC’s constitutional battle: The fight over the 2028 vote
 President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
 
@@ -233,18 +251,6 @@ US tells countries to choose between Washington and Tehran, warns Iran's trade p
 
 ## How US sanctions on Iran ripple through global markets and consumers
 New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
-
-## US Supreme Court allows Trump’s mail voting restrictions to proceed
-Mail balloting has long been a favourite target of US President Donald Trump.
-
-## US removes Syria from ‘state sponsor of terrorism’ list
-Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a 'terrorist' organisation.
-
-## Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms
-Private meeting between Jeffries and Kushner fuels discussions amid contentious US midterm battle.
-
-## US public support for Iran war falls as Trump approval at record low: Poll
-Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
