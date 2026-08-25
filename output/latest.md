@@ -1,7 +1,19 @@
 # AION Intelligence
 
-## Second drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
-Latest discovery made near scene where explosive-laden drone was discovered on August 4
+## How extreme weather threatens energy security — from jellyfish swarms to ‘Super El Niño’
+Policymakers, businesses and media need to focus more attention on how climate change will impact energy systems, warn scientists
+
+## FirstFT: China warns US it could retaliate over Iran sanctions
+Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
+
+## Berkshire-backed Japanese insurer plots multibillion-dollar deal
+Japanese group reviews several targets including Australia’s Suncorp and Canada’s Intact Financial
+
+## Burnham set for first meeting with Trump in September
+British officials explore possible White House visit around time of UN General Assembly
+
+## Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
+Latest discovery made near scene where explosive-laden drone was uncovered on August 4
 
 ## China warns US it could retaliate over Iran sanctions
 Beijing says it will take ‘all necessary measures’ if Washington expands crackdown on business with Tehran
@@ -12,17 +24,11 @@ Award to build 3,028 homes over 10 years sends shares 18% higher
 ## UK backs Devon tungsten mine in effort to secure critical mineral supplies
 National Wealth Fund invests £71mn in project to produce metal used in aerospace and defence industries
 
-## Bessent gets Drucked
-‘Governments defending prices against fundamentals always lose’
+## Deutsche banker charged with embezzling €600,000 from wealthy clients
+Case comes as German lender is seeking to expand its wealth management operations
 
-## Scott Bessent threatens Iran’s economic partners with more sanctions
-US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action
-
-## Burnham is right to rule out an early election
-But sticking to a date sometime in 2029 brings political risks too
-
-## Nvidia employee charged with smuggling advanced chips into China
-Prosecutors identify Taiwan-based manager as ‘central figure’ in scheme involving US semiconductor maker’s AI servers
+## Aston Martin creditors file for information ahead of UK suit against carmaker
+Bondholders owed £1.3bn have filed for discovery in the US courts over contentious £550mn financing deal
 
 ## Melrose faces $100mn compensation payouts after California toxic chemicals scare
 UK-listed company will not face prosecution after incident at GKN Aerospace facility
@@ -30,44 +36,32 @@ UK-listed company will not face prosecution after incident at GKN Aerospace faci
 ## Lego invests in software-enabled bricks and other products to power growth run
 World’s largest toy group is looking to sustain stellar revenue and profit increases
 
-## OnlyFans owner received $700mn in dividends before his death this year
-Streaming platform used by sex workers has 5mn creator accounts according to latest annual results
+## Three major Indian banks raise over $1.85 billion in offshore bonds, signalling strong global market participation
+Axis Bank, Kotak Mahindra Bank, and Union Bank of India, made significant moves in the international debt markets on Monday and Tuesday
 
-## Is Northampton an emerging market?
-A load of Cobblers. And Gemcorp
+## Rain clouds converge over Himachal, UP, MP in late-season burst
+September rains are crucial since the inverse relationship between El Niño and the monsoon is stronger during the latter half of the season, particularly the last month
 
-## FirstFT: Iran war punishes US farmers
-Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
+## Industry Leaders Call for Cooling Security to Become a National Priority as India Accelerates Towards Viksit Bharat 2047
+Industry Leaders Call for Cooling Security to Become a National Priority as India Accelerates Towards Viksit Bharat 2047
 
-## The unravelling of Mark Walter
-The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
+## Youth voices drive Asia‑Pacific green‑energy ties at Shenzhen gathering
+Youth voices drive Asia‑Pacific green‑energy ties at Shenzhen gathering
 
-## JPMorgan eases approach on lending against shares to court AI’s new wealth
-US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic
+## Sensex today | Stock Market Highlights: Sensex settles 286 points higher, Nifty touches 24,334
+Sensex, Nifty, Share Prices: Benchmarks rebounded and settled in the green. Sensex closed 286.98 pts or 0.37% higher at 77,656.09, and Nifty 50 gained 115.50 pts or 0.48% to 24,334.55.
 
-## Services exports help current account balance in Q1 FY27
-The current account deficit remained contained at $3.1 billion in the first quarter of FY27, only marginally wider than the $2.9 billion recorded a year earlier, despite a sharp expansion in the merchandise trade gap
+## Karnataka to take up cloud seeding to address rainfall deficit
+The 60-day cloud seeing operation, involving about 200 flying hours, is estimated to cost approximately ₹27 crore
 
-## Sensex today | Stock Market Live: Sensex up 286 points, Nifty touches 24,334
-Sensex, Nifty, Share Prices Live: Indian shares remained subdued on Tuesday, recovering from the day’s lows but staying in negative territory as investors tracked West Asia tensions, elevated crude prices, weak monsoon concerns and the impact of the monthly Nifty 50 derivatives expiry.
+## Rupee rises 24 paise to close at 95.46 against US dollar
+Firm domestic equities, a weaker dollar and a fall in crude oil prices lift rupee
 
-## India's finished steel output rises 4.7% in Apr-Jul, consumption grows 7.9%
-Both imports and exports rise; India remains a net importer of finished steel
+## Vodafone Idea shares rally 8% on SBI loan progress, tariff hopes
+The rally was fuelled by reports that SBI has agreed to sanction its portion of a proposed loan after promoter companies agreed to provide guarantees
 
-## Our country, as China sees it
-Blending geopolitics with lived experience, the book portrays Chinese media and society for Indian readers
-
-## Travel from Hyderabad airport to get cheaper with revised user fee to come into effect from Sept 1
-Arriving passengers to pay fee for first time
-
-## Va Tech Wabag makes Kuwait debut with new desalination plant deal
-The plant will combine Sea Water Reverse Osmosis technology with a Recarbonation System, with construction scheduled over 36 months
-
-## SBI eyes $10 billion from NRIs, foreign investors ahead of RBI swap window closure
-Earlier this month, the Reserve Bank of India advanced the closure of the Foreign Currency Non-Resident Bank (FCNR-B) deposits swap window by a month to August 31 as against the earlier cut-off date of September 30
-
-## Chandigarh University CSE Student Builds Tech-Driven Startup to Help Businesses Across IT, Digital Marketing and Networking Grow Fast in the Digital Era
-Chandigarh University CSE Student Builds Tech-Driven Startup to Help Businesses Across IT, Digital Marketing and Networking Grow Fast in the Digital Era
+## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
+What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
 
 ## Sugar prices cool 18% after hitting record high, ex-mill rates fall to Rs 55 per kg
 Following a surge in sugar prices to unprecedented levels last week, the market is now experiencing a decline. Government interventions aimed at curbing hoarding and speculation have contributed to this stabilization. Ex-mill sugar rates have seen a substantial decrease, and additional cuts are anti
@@ -90,10 +84,22 @@ The Reserve Bank of India likely intervened in foreign exchange markets. Elevate
 ## Trump’s SpaceX stake: US President invested up to $50,000 in Musk’s company - report
 President Donald Trump reportedly invested between fifteen thousand and fifty thousand dollars in Elon Musk's SpaceX. This financial disclosure reveals a new link between the president and a major government contractor. SpaceX completed its largest-ever US IPO, reaching a significant valuation and b
 
-## Rupee slips to 95.74 against US dollar as crude prices, importer demand weigh
-On Tuesday, the Indian Rupee faced a minor decline against the US dollar, influenced by rising crude oil prices and increased demand from importers. The Reserve Bank of India stepped in to stabilize the currency, keeping its fluctuations minimal. Meanwhile, domestic equities opened softly, although 
+## Govt relaxes sugar import condition, gives 60 days to refine, sell shipments
+Experts said the move will boost supplies during the early months of the new sugar season and ease pressure on retail prices
 
-## 'Nothing to do with politics': Nitin Gadkari clarifies amid retirement buzz over 'can't work much now' remark
+## Barricades broken, water cannons used: Bihar protests turn violent as protesters clash with cops
+The student organisations have been opposing the Bihar Public Service Commission’s move to fill 33,000 teacher posts following a preliminary and main exam.
+
+## Andhra rural engineer, family of 3 jump into Godavari; grandson’s rifle-shooting coach held
+The accused, Shaik Sadiq Khan, was arrested in UP's Meerut on August 22 following a multi-state search.
+
+## Four Indian firms among those sanctioned by US for Iran oil trade amid ‘Operation Economic Outcast’
+This came a day after US announced ‘Operation Economic Outcast’, which involves new sanctions that aim to block all potential sources of revenue for Iran.
+
+## BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati
+In Tuesday’s review meeting, Mayawati directed the party leaders to strengthen the organisation up to the booth level before the assembly election
+
+## 'Can no longer work much': Nitin Gadkari's remark sparks retirement buzz. He clarifies
 During an address in Maharashtra's Nagpur on Sunday, August 23, Nitin Gadkari called for young people to be given more responsibility, sparking speculation.
 
 ## CJI Surya Kant's ‘cockroach’ remark was aimed at CJP's Saurav Das? Abhijeet Dipke makes big claim
@@ -101,21 +107,6 @@ CJP's Saurav Das said several people had told him that the Chief Justice Surya K
 
 ## Delhi CM calls emergency meet over H1N1 spread as 3,000 cases reported so far; health minister says 'under control'
 Delhi health minister Pankaj Singh said that H1N1 isolation wards have been set up at hospitals and warned that action will be taken if patients are denied beds
-
-## Mumbai: Passengers trapped in Churchgate Metro lift after technical glitch
-The passengers were rescued within five minutes, according to information available. No injuries have been reported in the incident.
-
-## Maharashtra's cab drivers move Bombay HC over Marathi language rule; seek immediate stay on govt notice
-The Maharashtra government has announced a month-long statewide drive to assess drivers' Marathi language skills.
-
-## Indian police use water cannon at new protest over test paper leaks
-INDIA-PROTESTS/ (PIX, TV):Indian police use water cannon at new protest over test paper leaks
-
-## Row erupts after Surat fish market named after PM Modi: ‘He never consumed seafood, is pure vegetarian’
-A large board with the PM's photo in the corner and the words 'Shree Narendra Modi Wholesale Fish Market' was put up at the entrance of the fish market.
-
-## CBSE OSM glitches: SC closes plea, says revaluation will open ‘Pandora’s Box’
-The plea sought a regulatory framework for exams through the OSM system and the constitution of a panel to supervise its implementation
 
 ## Asia’s super-rich are ‘going all in’ on sustainability as impact investing grows: survey
 Family offices in the Asia-Pacific region are putting more funding into sustainability projects and adopting a “systems-level” approach to make a greater impact, a trend that is set to boost Hong Kong’s role as a hub for impact investing, according to a survey released on Tuesday. The proportion of 
