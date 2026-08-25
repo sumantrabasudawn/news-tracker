@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Brazil fines TikTok $30m for child data privacy violations
+Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.
+
+## Why can’t America agree on what time it is?
+Why can’t America agree on what time it is?
+
 ## US judge blocks Ohio law requiring proof of citizenship to register to vote
 The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.
 
@@ -245,12 +251,6 @@ Congress members call on Marco Rubio to 'use every tool' at his disposal to secu
 
 ## Syrian Democratic Forces announce their dissolution
 The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus
-
-## Real Madrid vs Sociedad: La Liga – prediction, team news, lineups
-Kylian Mbappe and Jude Bellingham headline against Sociedad as Real seek consecutive wins to open La Liga season.
-
-## Nigeria launches operation to rescue 600 kidnapped victims
-Nigerian President Bola Ahmed Tinubu announced a rescue operation on Tuesday for victims of 600-person mass abduction.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
