@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## US audit regulator scraps investor advocate role as Trump-era revamp accelerates
+Public Company Accounting Oversight Board scraps office set-up under Biden administration to represent shareholders
+
 ## FirstFT: China warns US it could retaliate over Iran sanctions
 Also in this newsletter: Nvidia employee charged in Taiwan with smuggling chips into China and Canada announces $20bn retaliatory tariffs
 
@@ -21,11 +24,11 @@ Elon Musk’s rocket conglomerate plans its second launch complex to support mor
 ## Iran and Oman edge towards deal on Strait of Hormuz
 Interim proposal on managing shipping is first hint of diplomatic progress to reopen the strategic waterway in weeks
 
-## AI to fuel global growth as investment spreads beyond US, IMF says
-Managing director Kristalina Georgieva expects world economy to weather energy crisis ignited by Iran war
-
 ## Bombing the bond market
 Trump wages war against his own economy
+
+## AI to fuel global growth as investment spreads beyond US, IMF says
+Managing director Kristalina Georgieva expects world economy to weather energy crisis ignited by Iran war
 
 ## European LNG prices surge to highest level since 2023
 Continent’s gas inventories were already low before Iran war disrupted shipments
@@ -108,6 +111,12 @@ DCP Sachin Sharma said the man was at a financial consulting firm and left his j
 ## Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’
 Announcing the “Election Commission Chalo” campaign in Bengaluru on September 1, Raj said civil society groups would march against SIR of electoral rolls.
 
+## Super-rich losing millions as some Hong Kong trophy homes sell at painful discounts
+Hong Kong has seen a string of cut-price deals for super-luxury homes in recent months, with financially pressured owners accepting eye-watering losses to exit the market even as demand for trophy homes remains strong. Among the latest examples is the sale of a Bel-Air luxury house for HK$138 millio
+
+## Hong Kong’s property, financial markets face test under cross-border anti-corruption law
+China’s deliberation on its sweeping cross-border anti-corruption law may ripple through Hong Kong’s financial and property markets, as Beijing seeks harsher punishments for corrupt officials and broadens its scrutiny of the massive pool of wealth transferred overseas. Hong Kong remains in focus aft
+
 ## Bank of Singapore's CIO Summit 2026 brings global perspectives to Hong Kong
 [The content of this article has been produced by our advertising partner.] For much of the past three decades, investors benefited from an environment defined by globalisation, low inflation, ample liquidity and relative geopolitical stability. Today, many of those assumptions are being challenged.
 
@@ -125,12 +134,6 @@ China has flown an airborne wind energy system to 4,000 metres (13,123 feet) abo
 
 ## How full equity buyouts could help China’s cooling bubble tea sector turn a new leaf
 Fuelled by the recent bubble tea boom and an intensely competitive market, financial investors have shown growing interest in the sector’s major brands, shifting their playbook from early-stage bets and initial public offering subscriptions to full equity buyouts. Growth of mid to high single digits
-
-## China’s new traffic safety law set to clarify liability for fully automated cars
-Beijing could soon hold carmakers legally responsible for traffic violations when autonomous driving systems are in use, marking an important step towards clearing regulatory hurdles to wider commercialisation. The National People’s Congress Standing Committee, China’s top legislative body, is set t
-
-## As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?
-Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
 
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
