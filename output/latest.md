@@ -24,6 +24,9 @@ Long lines form in capital as officials warn that war and inflation are triggeri
 ## Austerity denial and the mystery of Britain’s shrunken state
 There is a ready supply of explanations on offer at Westminster
 
+## Melrose faces $100mn compensation payouts after California toxic chemicals scare
+UK-listed company will not face prosecution after incident at GKN Aerospace facility
+
 ## Lego invests in software-enabled bricks and other products to power growth run
 World’s largest toy group is looking to sustain stellar revenue and profit increases
 
@@ -36,32 +39,29 @@ A load of Cobblers. And Gemcorp
 ## The unravelling of Mark Walter
 The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
 
-## China could rescue the oil market again — if it wanted to
-People’s Republic has ample spare capacity
+## Airbound secures $37 million as it moves drone delivery towards commercial scale
+The funding will be used to accelerate engineering, commercial-scale manufacturing and go-to-market initiatives
 
-## Henkel's Packaging Recyclab in Shanghai now accredited for EU recognized paper packaging recyclability testing
-Henkel's Packaging Recyclab in Shanghai now accredited for EU recognized paper packaging recyclability testing
-
-## Sensex today | Stock Market Live: Sensex down 116 points, Nifty touches 24,162; HCL Tech lead losers
+## Sensex today | Stock Market Live: Sensex up 160 points, Nifty touches 24,260
 Sensex, Nifty, Share Prices Live: Indian shares remained subdued on Tuesday, recovering from the day’s lows but staying in negative territory as investors tracked West Asia tensions, elevated crude prices, weak monsoon concerns and the impact of the monthly Nifty 50 derivatives expiry.
 
-## Natco Pharma to invest $14 million in eGenesis Inc
-Natco Pharma (Canada) Inc will invest $9.5 million and Natco Pharma South Africa $4.5 million in eGenesis via convertible promissory notes
+## Urban Company vs Kent RO: Delhi HC directs pull-down of disputed purifier ads
+Urban Company previously filed a defamation suit against Kent RO Systems in the Delhi High Court over ads and social media content about its NATIVE water purifiers
 
-## Karnataka suspends food licences of Amazon, Swiggy Instamart, BigBasket over Datura listings
-The State’s food safety regulator directed the three platforms to immediately remove all listings, advertisements and promotional material offering Datura
+## India targets 10 million tonnes of air cargo by 2030: Minister
+Govt seeks to raise trans-shipment share to 20%; current share below 5%
 
-## AI boom propping up APAC growth but geopolitics, trade shocks headwinds: Moody's Analytics
-Growth in the Asia-Pacific region is projected to slow to 4.2% in 2026 and 3% in 2027, down from 4.3% in 2025
+## India’s data centre footprint set to nearly quadruple to 101 mn sq ft by 2030: Report
+From just 0.6 million sq ft in 2007, India’s data centre footprint had expanded to nearly 27 million sq ft by the first half of 2026, according to a report by ANAROCK Capital
 
-## Maharashtra launches initiative to expand eye care for school kids
-The partnership will fund a school eye health program to screen 2 million students in grades 5 to 10 at Zilla Parishad and government schools
+## Demand notice of ₹1,755 crore on Tata Steel stayed
+The demand was made for alleged excess extraction of 1.62 crore tonnes of mineral coal from the West Bokaro Colliery beyond permissible limits from FY01 to FY07
 
-## Hyundai Motor India partners Jio-bp to integrate EV charging networks
-Through this collaboration, EV customers will be able to discover, access and use Jio-bp pulse charging stations using the myHyundai app, Hyundai Motor India Ltd's integrated EV charging platform
+## Centre proposes complete ban on Carbosulfan insecticide over health, environmental risks
+Carbosulfan is an intrinsically highly hazardous to birds, pollinators, aquatic organisms and other non-target species; there is no specific antidote to reverse Carbosulfan poisoning
 
-## Tata Steel gets interim relief in ₹1,755-crore Jharkhand coal mining demand case
-The case relates to alleged excess extraction of coal from Tata Steel's West Bokaro Colliery in Jharkhand during FY2000-01 to FY2006-07
+## Tata Communications, Tata Motors partner to launch 5G-powered Sierra.ev
+The Tata Communications MOVE Connected Vehicle Platform will integrate with the N.IO SDV platform, enabling seamless connectivity and enhanced in-vehicle experiences
 
 ## From 600 to 5,000 packages an hour: FedEx unveils $150 million Delhi cargo hub
 FedEx will invest $150 million to build a new air cargo hub in Delhi. This facility will significantly increase package processing capacity at the airport. The hub aims to strengthen air cargo connectivity across North and East India. The Indian government is also focusing on developing cargo hubs a
@@ -87,29 +87,32 @@ On Tuesday, the Indian Rupee faced a minor decline against the US dollar, influe
 ## ‘Hire and train Americans’: JD Vance defends proposed six-figure H-1B fee
 The US Department of Homeland Security proposed a new $103,265 fee for H-1B visa petitions. This fee aims to recover government costs for administering the immigration system. Vice President JD Vance supports the proposal, emphasizing hiring American workers. Indian professionals, a major beneficiar
 
-## 3 arrested in Arunachal for trafficking 19 children, youngest aged three: Cops
-The case was registered at Namsai police station on August 17 following a complaint from the Child Welfare Committee, Namsai
+## Maharashtra's cab drivers move Bombay HC over Marathi language rule; seek immediate stay on govt notice
+The Maharashtra government has announced a month-long statewide drive to assess drivers' Marathi language skills.
 
-## Husband can't dictate wife’s life choices, says Karnataka high court
-The court added that any attempt to restrict a woman’s autonomy was “contrary to equality, human dignity and social justice.”
+## Indian police use water cannon at new protest over test paper leaks
+INDIA-PROTESTS/ (PIX, TV):Indian police use water cannon at new protest over test paper leaks
 
-## Body of Delhi teen who drowned in drain while chasing kite found after four days
-The incident took place just before noon on Saturday and the boy was identified as a Class 8 student.
+## Row erupts after Surat fish market named after PM Modi: ‘He never consumed seafood, is pure vegetarian’
+A large board with the PM's photo in the corner and the words 'Shree Narendra Modi Wholesale Fish Market' was put up at the entrance of the fish market.
 
-## Maharashtra: 'Oral' appointments of officers and employees in ministerial offices cancelled
-Maharashtra: 'Oral' appointments of officers and employees in ministerial offices cancelled
+## CBSE OSM glitches: SC closes plea, says revaluation will open ‘Pandora’s Box’
+The plea sought a regulatory framework for exams through the OSM system and the constitution of a panel to supervise its implementation
 
-## Supreme Court directs Tarun Tejpal to surrender in two weeks
-The Supreme Court directed former Tehelka editor Tarun Tejpal to surrender in two weeks
+## '65 suicides in 5 years': CJP demands 'immediate' attention to structural problems amid IIT Delhi protests
+Ranka highlighted that the student was dealing with mental health issues after the loss of his father and the institution failed to provide support.
 
-## Rajnath Singh clears transfer of DRDO missile tech to Indian defence firms amid regional security concerns
-Defence ministry said the transfer of technology will allow eligible Indian industries to undertake production of DRDO-developed conventional missile systems.
+## Same Fanta, different rules: How India's sugar warnings got watered down
+India’s food-safety regulator said in August that it had abandoned a push for colorful warnings on the front of food packaging.
 
-## 25km, 10 hours and 200 students: Protest in Madhya Pradesh after teachers' alleged use of 'casteist' remarks
-During the protest march, the school principal, police and administrative officials, tried to persuade the students to end their protest, but failed.
+## Patna student protest LIVE: Bihar BPSC protesters break barricades as water cannons turn into ‘rain dance’, detained
+Patna student protest LIVE: The students, many of whom were carrying the tricolour, jostled with police and broke through barricades at the Dak Bungalow crossing.
 
-## ‘Open-ended questions misleading’: Kharge, Rahul Gandhi write to PM Modi, flag caste census concerns
-Mallikarjun Kharge and Rahul Gandhi said the same caste could have different names, sub-castes and spellings in different parts of India.
+## ‘First, donation must be to deity’: SC directs transparent system for Vrindavan's Banke Bihari Temple offerings
+The court made it clear that donations must be deposited either through designated donation boxes or online into the temple treasury.
+
+## Asia’s super-rich are ‘going all in’ on sustainability as impact investing grows: survey
+Family offices in the Asia-Pacific region are putting more funding into sustainability projects and adopting a “systems-level” approach to make a greater impact, a trend that is set to boost Hong Kong’s role as a hub for impact investing, according to a survey released on Tuesday. The proportion of 
 
 ## China taps high-altitude winds for power generation by flying craft to 4,000m
 China has flown an airborne wind energy system to 4,000 metres (13,123 feet) above sea level and generated electricity from the sky, in what state broadcaster CCTV described as a world first. According to a CCTV report on Saturday, the prototype S4000 craft completed a full work cycle – ascent, stat
@@ -120,7 +123,7 @@ Fuelled by the recent bubble tea boom and an intensely competitive market, finan
 ## China’s new traffic safety law set to clarify liability for fully automated cars
 Beijing could soon hold carmakers legally responsible for traffic violations when autonomous driving systems are in use, marking an important step towards clearing regulatory hurdles to wider commercialisation. The National People’s Congress Standing Committee, China’s top legislative body, is set t
 
-## As global drug giants grow cautious, can Chinese biotech keep cashing in on out-licensing?
+## As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
 
 ## Bitcoin tops US$80,000 for first time since May as US moves boost crypto
@@ -132,8 +135,8 @@ China is building a global network of gold vaults and accelerating central bank 
 ## US Treasury bond buy-back reinforces gold debasement trade as Jackson Hole meeting looms
 The US Treasury’s decision to boost its buy-backs of long-maturity bonds is strengthening the debasement trade on gold, as investment banks turn more upbeat on the precious metal before the Federal Reserve’s annual meeting in Jackson Hole. Gold traded at a three-month high of US$4,698 an ounce on Tu
 
-## Hong Kong housing rally faces test as property flippers retreat
-Hong Kong’s housing rally faces a new test as investors who rode the first-half rebound become less active in quick-turn trades, leaving owner-occupiers and longer-term buyers to sustain the recovery. Secondary home prices have continued to rise, with Centaline’s leading index climbing 0.64 per cent
+## Everything You Always Wanted to Know About IR Grad School
+Some straight talk for prospective students from a longtime professor.
 
 ## U.S. Unveils ‘Economic D-Day’ Against Iran
 The White House vows to sanction any country that continues to do business with Tehran.
@@ -156,8 +159,8 @@ President Franklin Roosevelt enlisted entertainers to make the case for fighting
 ## Trump Needs China’s Help to Effectively Sanction Iran
 But Tehran’s top crude buyer appears unwilling to play ball.
 
-## Why We Are Living Through ‘Hyperpolitics’
-Anton Jäger explains why record voter turnout isn’t leading to systemic change.
+## China’s Strategic Plan for Space Superiority
+China defines space superiority as achieving space logistics and infrastructure, and then using them for the kind of war it might fight.
 
 ## The Mecca Pact: What Do We Actually Know?
 There are few concrete details available about the joint defense agreement between Pakistan, Saudi Arabia, and Turkiye.
@@ -179,9 +182,6 @@ The international community keeps treating the symptoms without touching the und
 
 ## What Shapes Global Views of India?
 A recent Pew survey found that 45 percent of respondents in 36 countries held a favorable view of India, while another 41 percent held a negative view. But the results varied widely by country.
-
-## Severe Flooding Bares Garbage and Corruption Problems in the Philippines
-Lawmakers and contractors used the climate crisis to push forward flood-control projects. But those have turned out to be defective and in some cases even non-existent.
 
 ## Russia’s Next Top General: Promotions in Russian Military Leadership
 Judged by the initial strategic goals set by Russian President Vladimir Putin in 2022, Russia’s military lost its war against Ukraine some time ago. Yet Russia’s armed forces have not stopped fighting and continue to prosecute large-scale combat operations in a brutalizing, protracted war sucking up
@@ -231,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Who are Iran’s top trading partners US would need to target to isolate it?
+The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.
+
+## ‘Enough is enough’: Kenya nurses strike over pay and working conditions
+Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.
+
 ## Nvidia, Supermicro employees charged over export of AI servers to China
 Taiwanese authorities indict nine people over alleged chip smuggling scheme.
 
@@ -248,12 +254,6 @@ A Thai vendor confronted Israeli tourists outside his shop on the island of Phuk
 
 ## Bangladesh-India reset stalls over Hasina: What would break the deadlock?
 Analysts say an Indian commitment not to allow ousted Bangladesh PM to engage in politics from their soil would help.
-
-## Federer to play tennis at US Open but rules out Williams-like return
-The 20-time Grand Slam champion confirmed he’s only going to play in an exhibition match and has no plans to return.
-
-## The Iran war is bringing cyberwarfare into critical infrastructure
-Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
