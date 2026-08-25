@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Iran and Oman edge towards deal on Strait of Hormuz
+Interim proposal on managing shipping is first hint of diplomatic progress to reopen the strategic waterway in weeks
+
+## AI to fuel global growth as investment spreads beyond US, IMF says
+Managing director Kristalina Georgieva expects world economy to weather energy crisis ignited by Iran war
+
+## European LNG prices surge to highest level since 2023
+Continent’s gas inventories were already low before Iran war disrupted shipments
+
 ## Imran Khan may not survive Pakistan prison, son says
 Concerns grow over former PM’s health in conditions his lawyer calls ‘beyond deplorable’
 
@@ -9,17 +18,11 @@ Hundreds of US goods will face increased levies from September 8
 ## America’s economic war on Iran has a China problem
 The US cannot fully isolate Tehran unless other trade partners co-operate
 
-## Iran and Oman edge towards deal on Strait of Hormuz
-Interim proposal on managing shipping is first hint of diplomatic progress to reopen the waterway in weeks
-
 ## Will Iceland join the EU?
 A consultative vote next week could rekindle membership talks and pave the way for a new axis of expansion
 
 ## How First Brands’ billion-dollar rescue hit the skids
 Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
-
-## Iranian tankers gather off Sri Lankan coast
-Cut off from home ports by the US blockade, ships seek shelter close to Sri Lanka’s territorial waters
 
 ## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
 Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
@@ -90,6 +93,9 @@ The H-1B programme enables US employers to hire foreign workers trained in speci
 ## Bitcoin crosses $80,000 for first time since mid-May driven by weaker dollar, gains 28% in August
 Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a significant extension of its rally. The driving forces behind this surge include a weakening US dollar and optimistic policy forecasts that have spiked cryptocurrency interest. The movements came in response to Treasury S
 
+## Saman Bird Sanctuary to get tourism boost as UP Cabinet approves land transfer
+Saman Bird Sanctuary to get tourism boost as UP Cabinet approves land transfer
+
 ## India, China discuss peace along LAC, border delimitation: ‘Met in keeping with guidance from Modi, Xi Jinping’
 Doval said the normalcy in ties between both countries was a direct result of both sides maintaining peace and tranquillity along the border area.
 
@@ -110,9 +116,6 @@ Announcing the “Election Commission Chalo” campaign in Bengaluru on Septembe
 
 ## Gujarat Police want to unify 80,000+ CCTV cameras into one ‘smart surveillance’ network
 Participants will test their systems on about 50 CCTV feeds, tracking a designated vehicle and generating real-time alerts, GIS visualisation and movement data.
-
-## India didn't target Pakistan's Kirana Hills; loitering munition hit it inadvertently: Ex-CDS Anil Chauhan
-Ex-CDS Gen Anil Chauhan says Indian loitering munition likely hit Kirana Hills after failing to find a radar target near Sargodha within its loiter time.
 
 ## Bank of Singapore's CIO Summit 2026 brings global perspectives to Hong Kong
 [The content of this article has been produced by our advertising partner.] For much of the past three decades, investors benefited from an environment defined by globalisation, low inflation, ample liquidity and relative geopolitical stability. Today, many of those assumptions are being challenged.
@@ -234,6 +237,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syria’s economy poised for improvement after US sanctions removal
+Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.
+
+## Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
+Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.
+
+## Kremlin denies planned talks with US envoys amid reports CIA head in Russia
+Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.
+
 ## Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections
 Fatah and Dahlan's Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.
 
@@ -248,15 +260,6 @@ Canada imposes tariffs on $19.9bn of US goods which will take effect on Septembe
 
 ## US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction
 US judge rejects Maxwell’s claims that newly released Epstein files could help overturn her sex-trafficking convictions.
-
-## Carlos Baleba joins Manchester United in transfer from Brighton
-Cameroon midfielder joins EPL powerhouse for a fee understood to be worth up to 70 million pounds.
-
-## Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach
-As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
-
-## Photos: Rohingya refugees rally nine years after Myanmar exodus
-Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar's Rakhine state.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
