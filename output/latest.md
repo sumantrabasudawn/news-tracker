@@ -36,29 +36,29 @@ Award to build 3,028 homes over 10 years sends shares 18% higher
 ## UK backs Devon tungsten mine in effort to secure critical mineral supplies
 National Wealth Fund invests £71mn in project to produce metal used in aerospace and defence industries
 
+## HEG fixes September 7 as record date for demeger
+Shareholders of HEG as on the record date will receive one fully paid-up share of face value ₹2 in the resulting company for every one share of face value ₹2 held, under a 1:1 entitlement
+
+## Brands, q-comm, retailers witness a spike in Rakhi gifting demand
+Quick-commerce platforms too are offering a wider assortment this year
+
 ## Indian economy continues to display strength despite headwinds: RBI Bulletin
 Manufacturing, services activity remains robust in July; trade expands in double digits
 
-## C-DOT will drive India’s shift from self-reliance to global telecom leadership: Scindia
-He was speaking at the 43rd foundation day celebrations of the State-owned C-DOT
+## SC notice on TMC’s Abhishek Banerjee plea for time-bound decision on disqualification of 20 rebel MPs
+Court issues notice to Lok Sabha Secretary General and 20 rebel MPs
 
-## Defence Ministry opens DRDO’s conventional missile tech to private companies
-businessline first reported on June 5 that 10 to 12 of DRDO’s missile development projects were distributed among four private companies
+## Broker’s call: Nykaa (Buy)
+Elara Securities
 
-## Weekly Rupee View: Rupee recovers
-Fall in crude oil price offers support for the domestic currency
+## Welspun One to complete WTC Thane project by year-end
+The development is designed to accommodate large organisations’ office spaces and over 50 brands across retail experience centres and F&B
 
-## WAE Joins United Nations Global Compact Network India, Advancing Technology-Led Water Sustainability
-Alignment reinforces WAE’s commitment to responsible business, circular water systems, climate action and the UN Sustainable Development Goals
+## Broker’s Call: Cummins India (Buy)
+Motilal Oswal Research
 
-## Public sector bank more efficient than Private Sector Banks, says EAC-PM paper
-The paper found that PSBs efficiency improved to 93.12% in FY26 from 72.46% in FY20, citing subsequent capital infusion and technological upgradation in select PSBs as key reasons for improvement
-
-## Coking coal market poised to be volatile in the short-term on China mine mishap, steel output dip
-China’s new mine regulations will curb production, while Indian demand growth is expected to continue
-
-## Telawne Power Unveils Next-Gen Smart Transformer Innovations at Bengaluru Industry Summit
-Leading transformer manufacturer gathers top energy consultants to accelerate IoT integration and grid modernization across India’s infrastructure sector.
+## CheQ Launches CheQ UPI, Bringing India's Most Rewarding UPI Experience for RuPay Credit Card Users
+CheQ Launches CheQ UPI, Bringing India's Most Rewarding UPI Experience for RuPay Credit Card Users
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
@@ -84,29 +84,29 @@ Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a s
 ## RBI intervenes to support rupee as oil prices, dollar demand rise: Report
 The Reserve Bank of India likely intervened in foreign exchange markets. Elevated oil prices and corporate dollar demand pressured the rupee. State-run banks offered dollars, indicating central bank action. The rupee remained range-bound for two weeks due to sustained intervention. Geopolitical tens
 
+## 3 road cave-ins in Gurugram after heavy rain; vehicles caught in collapses
+In December, GMDA warned the National Highways Authority of India (NHAI) about a possible cave-in at the IFFCO flyover
+
+## Rahul Gandhi defends Kriti Sanon amid backlash over Raksha Bandhan ad outfit: ‘Her choice’
+Congress leader Rahul Gandhi defends Kriti Sanon amid backlash over Raksha Bandhan ad: 'Her choice'.
+
+## Ex-Delhi Police commissioner Satish Golcha to take over as Home Guards' Director General from October 1
+The latest order comes ahead of the superannuation of Virender Singh, who has been heading the Directorate of Home Guards.
+
+## Jailed Karnataka officer, undertrial, found with ‘girlfriend’ in VIP ward at hospital during surprise inspection
+There was no court permission for undertrial's hospital stay and that he did not have any serious health condition warranting prolonged treatment.
+
+## IIT Delhi forms external inquiry committee to probe student's death: ‘Profound sorrow, deep shock’
+IIT-Delhi also said that its students, faculty and other staff were contributing to extend financial support to the deceased student's family.
+
+## SC says no impediment to Bankey Bihari temple redevelopment will be tolerated
+The opening of the gullacks is covered with flowers, plates, etc., and the QR codes for online donations have been destroyed
+
 ## Cockroach Janta Party launches nationwide legal aid platform for supporters, volunteers: ‘No fees, ever’
 CJP said that volunteers and supporters who face harassment and intimidation can reach out through the platform and seek legal help.
 
 ## Keeping up with UP: Women politicians gearing up for UP polls
 Dimple Yadav’s public image received a boost after she helped the injured young protesters at Jantar Mantar during the CJP protest demanding education reforms
-
-## Navy set to commission Diving Support Vessel 'Nipun', second of its type, on August 31
-The vessel was delivered to the Indian Navy on July 30 following completion of an extensive programme of outfitting and trials.
-
-## Ganesh idol collapse kills 2 in Mumbai, Lalbaughcha Ganeshotvas mandal announces aid of ₹11 lakh, ₹5 lakh
-Two people were killed and five others injured when the idol of Bhuleshwaracha Raja collapsed during its arrival ceremony on Saturday night.
-
-## 98% of influenza cases in India are H1N1, but no cause for alarm: ICMR chief
-ICMR director general Dr Rajiv Bahl noted that despite a recent uptick in infections, severe cases requiring hospitalisation remain low
-
-## ‘Send kids to study, not return as dead bodies’: Deceased IIT Delhi student’s brother alleges institutional apathy
-After the tragic death of MSc Physics student, his brother accused IIT Delhi of insensitivity and lack of support during his mental health struggles.
-
-## Lack of policy framework hampers living conditions of PAP colonies: Report
-At these colonies, the Project Affected Persons (PAPs) were relocated and rehoused to make space for several infrastructure and civic projects
-
-## Gwalior car's kiss marks, tinted glass, loud silencers: Which violations can invite trouble for Delhi-NCR motorists
-The Gwalior incident has highlighted motor vehicle laws, especially in the national capital, and the modifications that can land vehicle owners in trouble.
 
 ## WuXi Biologics posts 4.3% rise in first-half profit, defying biotech headwinds
 WuXi Biologics, one of China’s largest contract drug developers, posted a 4.3 per cent increase in profit attributable to shareholders in the first half of the year, as stronger demand and improved capacity utilisation lifted revenue and margins. The Wuxi, Jiangsu-based company’s net profit attribut
@@ -228,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
+Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.
+
+## US military transport plane arrives in Moscow in rare occurrence
+A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia
+
+## How can a heavily indebted football club afford Mo Salah?
+How do football clubs in debt afford star players?
+
+## Trump plans largest mass visa cancellation in history: Who will it affect?
+The policy could affect up to 200,000 people and deter many more from filing an asylum claim once in the US.
+
+## Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss
+Yan Diomande topped Real's transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.
+
 ## How Israel’s Netanyahu weaponises religion in his war rhetoric
 Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.
 
@@ -236,21 +251,6 @@ A group of displaced girls in Gaza finds moments of joy, safety, and self-expres
 
 ## Gaza child breaks down in tears after an Israeli threat over kites
 Gaza child breaks down in tears after an Israeli threat over kites
-
-## Two killed, refinery on fire in Russia’s Krasnodar after drone attack
-Ukraine hits Russia's Afipsky oil refinery and gas plant in latest attacks targeting energy infrastructure.
-
-## ‘We can’t breathe’: Indonesians battle wildfire haze
-Wildfires are raging across Indonesia, affecting at least 10 provinces and blanketing communities in hazardous haze.
-
-## Israeli forces raid UNRWA training centre in occupied East Jerusalem
-The forces raided and seized the Qalandiya Training Centre, a key facility operated by the UNRWA.
-
-## What to expect in elections in South Carolina, Georgia and Oklahoma
-These special and run-off elections will continue setting the stage for November's midterm elections.
-
-## Tottenham sign Brazilian winger Savinho from Manchester City
-Savinho's arrival, which comes in a busy transfer window for Spurs, takes their spending past $400m.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
