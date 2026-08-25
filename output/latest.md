@@ -24,6 +24,9 @@ A consultative vote next week could rekindle membership talks and pave the way f
 ## How First Brands’ billion-dollar rescue hit the skids
 Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
 
+## SpaceX commits $100bn to Louisiana space base
+Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches
+
 ## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
 Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
 
@@ -35,15 +38,6 @@ Disruptions at sea and bottlenecks on land are pushing rates up and ensuring the
 
 ## Foot Locker owner plunges after warning nervous consumers are cutting spending
 Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
-
-## Sizewell C nuclear project suffers setback after road building delayed
-Galliford Try replaced as key contractor following disagreement about cost of work
-
-## Waymo picks Munich for first EU robotaxi launch
-Move by Alphabet-owned group comes as Germany seeks to bolster its struggling auto sector
-
-## Store water and tinned food to prepare for emergencies, UK citizens to be told
-Ministers step up work on ‘war book’ in push for resilience against extreme weather and cyber threats
 
 ## Persisting retail F&O losses spur call for tighter eligibility filters
 Experts seek income tests and exams to restrict derivatives access to informed investors
@@ -237,6 +231,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Two unvaccinated people die of measles in US state of Pennsylvania
+Experts warn that declining vaccination rates have opened the door for resurgence of disease once largely eradicated.
+
+## Israeli forces block Palestinian American Lou Ridi from walking on his land
+Israeli forces told Palestinian American Lou Ridi he cannot walk on his own land in Qusra, while settlers roam freely.
+
 ## India police clash with protesters a month after Gen Z demonstrations
 Police used water cannons and batons as a few thousand protesters broke through security barricades in Bihar's capital.
 
@@ -254,12 +254,6 @@ Removal of US sanctions offers Syria a chance to fully rejoin the global financi
 
 ## Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
 Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.
-
-## Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia
-Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.
-
-## Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections
-Fatah and Dahlan's Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
