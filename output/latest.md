@@ -1,7 +1,7 @@
 # AION Intelligence
 
 ## Trump says US to increase tariffs on Canadian cars to 50%
-Move marks further escalation of Washington’s trade war with Ottawa
+Ottawa officials set to announce response to new American levies on Tuesday
 
 ## Burnham condemns Russia’s ‘outrageous threats’ to UK during Kyiv visit
 Prime minister pledges to back Ukraine on long-range missiles
@@ -54,6 +54,9 @@ The proposed project will combine large-scale digital infrastructure with green 
 ## Haryana pitches strategic partnership as MoUs worth ₹66,000 crore signed
 The state outlined sector-specific growth plans and measures aimed at attracting investment, strengthening industries and expanding economic opportunities across districts
 
+## Meiji Seika to push new vaccine with SII in India
+
+
 ## Government eyes 3000 crore by selling 6% in Hindustan Copper
 
 
@@ -73,9 +76,6 @@ Cites Long List Of Trade Deals, Says Data Is Protected, Intellectual Property Is
 
 
 ## UPI@10: How platform changed the way we pay
-
-
-## Russian President Putin says will continue fertiliser supplies to India
 
 
 ## Chhattisgarh CM urges workers' children to dream big, work hard
@@ -102,6 +102,9 @@ The new locomotives manufactured at the Madhepura factory will have an inbuilt u
 ## ‘You know nothing’: Maharashtra hill tragedy victims' relative refutes iPhone EMI claims
 The teen's aunt described the iPhone narrative as a "rumour", claiming that people spreading such tales "know nothing".
 
+## US Treasury bond buy-back reinforces gold debasement trade as Jackson Hole meeting looms
+The US Treasury’s decision to boost its buy-backs of long-maturity bonds is strengthening the debasement trade on gold, as investment banks turn more upbeat on the precious metal before the Federal Reserve’s annual meeting in Jackson Hole. Gold rose 0.2 per cent to a three-month high of US$4,689.3 a
+
 ## Hong Kong housing rally faces test as property flippers retreat
 Hong Kong’s housing rally faces a new test as investors who rode the first-half rebound become less active in quick-turn trades, leaving owner-occupiers and longer-term buyers to sustain the recovery. Secondary home prices have continued to rise, with Centaline’s leading index climbing 0.64 per cent
 
@@ -122,9 +125,6 @@ A Hong Kong-listed educational group has completed the largest commercial proper
 
 ## Louis Vuitton shuts down another store amid fallout from trademark dispute in China
 Louis Vuitton will close its only store in Guiyang on August 31, according to an on-site notice, further trimming the French luxury brand’s southwestern China footprint, which has fallen to three stores from a peak of six. The closure in the capital of Guizhou province is part of the brand’s plan to
-
-## CATL debuts e-commerce platform for direct sales to small buyers, as competition sharpens
-China’s battery king Contemporary Amperex Technology Limited (CATL) is enabling direct sales to smaller energy storage system makers via its own e-commerce platform, as competition with its domestic peers intensifies. The platform, officially launched on Friday, would offer orders as small as three 
 
 ## U.S. Unveils ‘Economic D-Day’ Against Iran
 The White House vows to sanction any country that continues to do business with Tehran.
@@ -222,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## DRC’s constitutional battle: The fight over the 2028 vote
+President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
+
+## Search continues in Tunisia as migrant boat sinking sparks protests
+Tunisia's Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.
+
+## Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners
+US tells countries to choose between Washington and Tehran, warns Iran's trade partners they will face consequences.
+
 ## How US sanctions on Iran ripple through global markets and consumers
 New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
 
-## US Supreme Court sides with Trump administration on mail voting
+## US Supreme Court allows Trump’s mail voting restrictions to proceed
 Mail balloting has long been a favourite target of US President Donald Trump.
 
 ## US removes Syria from ‘state sponsor of terrorism’ list
 Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a 'terrorist' organisation.
 
-## Jeffries-Kushner meeting sparks speculation amid contentious US midterms
+## Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms
 Private meeting between Jeffries and Kushner fuels discussions amid contentious US midterm battle.
 
 ## US public support for Iran war falls as Trump approval at record low: Poll
 Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
-
-## Iconic Palestinian artist Sliman Mansour passes away at age 79
-Palestinian artist Sliman Mansour, whose work became a symbol of struggle and resistance, has died at age 79.
-
-## Displaced Palestinians in Gaza face intensifying Israeli strikes
-Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.
-
-## What’s behind domestic political pressure on Ukraine’s president?
-Zelenskyy rejects call from sacked minister for wartime elections.
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
