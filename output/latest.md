@@ -36,6 +36,9 @@ UK-listed company will not face prosecution after incident at GKN Aerospace faci
 ## Lego invests in software-enabled bricks and other products to power growth run
 World’s largest toy group is looking to sustain stellar revenue and profit increases
 
+## Kirloskar Brothers shares slip 1.2% as Supreme Court sends family dispute to arbitration
+The stock ended at ₹1,899 on the NSE, down ₹23.40 or 1.22 per cent from Monday’s close of ₹1,922.40
+
 ## Three major Indian banks raise over $1.85 billion in offshore bonds, signalling strong global market participation
 Axis Bank, Kotak Mahindra Bank, and Union Bank of India, made significant moves in the international debt markets on Monday and Tuesday
 
@@ -57,11 +60,11 @@ The 60-day cloud seeing operation, involving about 200 flying hours, is estimate
 ## Rupee rises 24 paise to close at 95.46 against US dollar
 Firm domestic equities, a weaker dollar and a fall in crude oil prices lift rupee
 
-## Vodafone Idea shares rally 8% on SBI loan progress, tariff hopes
-The rally was fuelled by reports that SBI has agreed to sanction its portion of a proposed loan after promoter companies agreed to provide guarantees
-
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
+
+## Wars are now hitting more than 43% of the world’s oil supply
+Currently, more than 40% of the world's oil supply is derived from conflict-ridden regions. Ongoing tensions in the Gulf and Ukraine have reduced refining abilities by 10%. As a result, reliance on U.S. oil has surged, leading to a depletion of global reserves after emergency releases have concluded
 
 ## Sugar prices cool 18% after hitting record high, ex-mill rates fall to Rs 55 per kg
 Following a surge in sugar prices to unprecedented levels last week, the market is now experiencing a decline. Government interventions aimed at curbing hoarding and speculation have contributed to this stabilization. Ex-mill sugar rates have seen a substantial decrease, and additional cuts are anti
@@ -81,32 +84,29 @@ Bitcoin crossed the threshold of eighty thousand dollars on Tuesday, marking a s
 ## RBI intervenes to support rupee as oil prices, dollar demand rise: Report
 The Reserve Bank of India likely intervened in foreign exchange markets. Elevated oil prices and corporate dollar demand pressured the rupee. State-run banks offered dollars, indicating central bank action. The rupee remained range-bound for two weeks due to sustained intervention. Geopolitical tens
 
-## Trump’s SpaceX stake: US President invested up to $50,000 in Musk’s company - report
-President Donald Trump reportedly invested between fifteen thousand and fifty thousand dollars in Elon Musk's SpaceX. This financial disclosure reveals a new link between the president and a major government contractor. SpaceX completed its largest-ever US IPO, reaching a significant valuation and b
+## 'Maharashtra teen didn't intend to end life, wanted dad to come home', claims maternal aunt
+Kalyani Dabhade, maternal aunt of Kunal, dismissed reports suggesting that her nephew took the extreme step due to EMIs on an iPhone
+
+## Prosecution seeks death penalty for 5 convicts in 2024 Bhayli gang rape case
+The Vadodara POCSO court convicted the five men on August 20 for the gang rape of the girl in Bhayli area on October 4, 2024
+
+## CJP's Saurav Das questions Kiren Rijiju over ‘smash the patriarchy' remarks: ‘When will they learn’
+Saurav Das's reaction came after Rijiju accused Rahul Gandhi of targeting only Hindus while ignoring the plight of Muslim women.
+
+## First ‘Kanda Express’ with 800 tonnes of onions to reach Delhi tomorrow, to be sold at ₹35/kg
+The onion buffer stock is the Centre's strategic reserve, built up primarily to cushion the market against price spikes when supplies tighten.
+
+## Hillary Clinton says key to end US-Iran war lies with India and China: ‘If Trump were to use diplomacy’
+The former US First Lady said China was far ahead of India in buying Iranian oil and gas, asserting that Beijing would need Tehran the most.
+
+## CJP expands organisational footprint with appointments across 3 zones
+The party said the appointments were aimed at strengthening its organisational structure and expanding its activities across the country.
 
 ## Govt relaxes sugar import condition, gives 60 days to refine, sell shipments
 Experts said the move will boost supplies during the early months of the new sugar season and ease pressure on retail prices
 
 ## Barricades broken, water cannons used: Bihar protests turn violent as protesters clash with cops
 The student organisations have been opposing the Bihar Public Service Commission’s move to fill 33,000 teacher posts following a preliminary and main exam.
-
-## Andhra rural engineer, family of 3 jump into Godavari; grandson’s rifle-shooting coach held
-The accused, Shaik Sadiq Khan, was arrested in UP's Meerut on August 22 following a multi-state search.
-
-## Four Indian firms among those sanctioned by US for Iran oil trade amid ‘Operation Economic Outcast’
-This came a day after US announced ‘Operation Economic Outcast’, which involves new sanctions that aim to block all potential sources of revenue for Iran.
-
-## BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati
-In Tuesday’s review meeting, Mayawati directed the party leaders to strengthen the organisation up to the booth level before the assembly election
-
-## 'Can no longer work much': Nitin Gadkari's remark sparks retirement buzz. He clarifies
-During an address in Maharashtra's Nagpur on Sunday, August 23, Nitin Gadkari called for young people to be given more responsibility, sparking speculation.
-
-## CJI Surya Kant's ‘cockroach’ remark was aimed at CJP's Saurav Das? Abhijeet Dipke makes big claim
-CJP's Saurav Das said several people had told him that the Chief Justice Surya Kant's “cockroach” remark appeared to be directed at him.
-
-## Delhi CM calls emergency meet over H1N1 spread as 3,000 cases reported so far; health minister says 'under control'
-Delhi health minister Pankaj Singh said that H1N1 isolation wards have been set up at hospitals and warned that action will be taken if patients are denied beds
 
 ## Asia’s super-rich are ‘going all in’ on sustainability as impact investing grows: survey
 Family offices in the Asia-Pacific region are putting more funding into sustainability projects and adopting a “systems-level” approach to make a greater impact, a trend that is set to boost Hong Kong’s role as a hub for impact investing, according to a survey released on Tuesday. The proportion of 
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## India faces criticism from UN discrimination watchdog
+CERD says India must tackle hate crimes against Bengali-speaking Muslims and increase protections for other groups.
+
+## Is AIPAC’s political standing declining in the US?
+The powerful pro-Israeli lobby group is increasingly becoming liability for both the progressive as well as right-wing.
+
 ## Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?
 Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.
 
@@ -245,12 +251,6 @@ Indonesia deploys prayers and emergency measures to combat South Sumatra's ragin
 
 ## Kremlin adviser warns UK drone factories could face attacks
 Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.
-
-## Who are Iran’s top trading partners US would need to target to isolate it?
-The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.
-
-## ‘Enough is enough’: Kenya nurses strike over pay and working conditions
-Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
