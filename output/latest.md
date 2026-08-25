@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Second drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks
+Latest discovery made near scene where explosive-laden drone was discovered on August 4
+
+## China warns US it could retaliate over Iran sanctions
+Beijing says it will take ‘all necessary measures’ if Washington expands crackdown on business with Tehran
+
+## Embattled housebuilder Vistry boosted by £350mn UK government contract
+Award to build 3,028 homes over 10 years sends shares 18% higher
+
+## UK backs Devon tungsten mine in effort to secure critical mineral supplies
+National Wealth Fund invests £71mn in project to produce metal used in aerospace and defence industries
+
+## Bessent gets Drucked
+‘Governments defending prices against fundamentals always lose’
+
 ## Scott Bessent threatens Iran’s economic partners with more sanctions
 US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action
 
@@ -8,21 +23,6 @@ But sticking to a date sometime in 2029 brings political risks too
 
 ## Nvidia employee charged with smuggling advanced chips into China
 Prosecutors identify Taiwan-based manager as ‘central figure’ in scheme involving US semiconductor maker’s AI servers
-
-## FirstFT: Iran war punishes US farmers
-Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
-
-## EU leaders begin heart-to-heart budget talks as year-end deadline looms large
-Also in this newsletter: Merz seeks to reboot his moribund government
-
-## JPMorgan eases approach on lending against shares to court AI’s new wealth
-US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic
-
-## Iranians queue for petrol as US blockade bites
-Long lines form in capital as officials warn that war and inflation are triggering fuel shortages
-
-## Austerity denial and the mystery of Britain’s shrunken state
-There is a ready supply of explanations on offer at Westminster
 
 ## Melrose faces $100mn compensation payouts after California toxic chemicals scare
 UK-listed company will not face prosecution after incident at GKN Aerospace facility
@@ -36,32 +36,41 @@ Streaming platform used by sex workers has 5mn creator accounts according to lat
 ## Is Northampton an emerging market?
 A load of Cobblers. And Gemcorp
 
+## FirstFT: Iran war punishes US farmers
+Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview
+
 ## The unravelling of Mark Walter
 The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
 
-## Airbound secures $37 million as it moves drone delivery towards commercial scale
-The funding will be used to accelerate engineering, commercial-scale manufacturing and go-to-market initiatives
+## JPMorgan eases approach on lending against shares to court AI’s new wealth
+US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic
 
-## Sensex today | Stock Market Live: Sensex up 160 points, Nifty touches 24,260
+## Services exports help current account balance in Q1 FY27
+The current account deficit remained contained at $3.1 billion in the first quarter of FY27, only marginally wider than the $2.9 billion recorded a year earlier, despite a sharp expansion in the merchandise trade gap
+
+## Sensex today | Stock Market Live: Sensex up 286 points, Nifty touches 24,334
 Sensex, Nifty, Share Prices Live: Indian shares remained subdued on Tuesday, recovering from the day’s lows but staying in negative territory as investors tracked West Asia tensions, elevated crude prices, weak monsoon concerns and the impact of the monthly Nifty 50 derivatives expiry.
 
-## Urban Company vs Kent RO: Delhi HC directs pull-down of disputed purifier ads
-Urban Company previously filed a defamation suit against Kent RO Systems in the Delhi High Court over ads and social media content about its NATIVE water purifiers
+## India's finished steel output rises 4.7% in Apr-Jul, consumption grows 7.9%
+Both imports and exports rise; India remains a net importer of finished steel
 
-## India targets 10 million tonnes of air cargo by 2030: Minister
-Govt seeks to raise trans-shipment share to 20%; current share below 5%
+## Our country, as China sees it
+Blending geopolitics with lived experience, the book portrays Chinese media and society for Indian readers
 
-## India’s data centre footprint set to nearly quadruple to 101 mn sq ft by 2030: Report
-From just 0.6 million sq ft in 2007, India’s data centre footprint had expanded to nearly 27 million sq ft by the first half of 2026, according to a report by ANAROCK Capital
+## Travel from Hyderabad airport to get cheaper with revised user fee to come into effect from Sept 1
+Arriving passengers to pay fee for first time
 
-## Demand notice of ₹1,755 crore on Tata Steel stayed
-The demand was made for alleged excess extraction of 1.62 crore tonnes of mineral coal from the West Bokaro Colliery beyond permissible limits from FY01 to FY07
+## Va Tech Wabag makes Kuwait debut with new desalination plant deal
+The plant will combine Sea Water Reverse Osmosis technology with a Recarbonation System, with construction scheduled over 36 months
 
-## Centre proposes complete ban on Carbosulfan insecticide over health, environmental risks
-Carbosulfan is an intrinsically highly hazardous to birds, pollinators, aquatic organisms and other non-target species; there is no specific antidote to reverse Carbosulfan poisoning
+## SBI eyes $10 billion from NRIs, foreign investors ahead of RBI swap window closure
+Earlier this month, the Reserve Bank of India advanced the closure of the Foreign Currency Non-Resident Bank (FCNR-B) deposits swap window by a month to August 31 as against the earlier cut-off date of September 30
 
-## Tata Communications, Tata Motors partner to launch 5G-powered Sierra.ev
-The Tata Communications MOVE Connected Vehicle Platform will integrate with the N.IO SDV platform, enabling seamless connectivity and enhanced in-vehicle experiences
+## Chandigarh University CSE Student Builds Tech-Driven Startup to Help Businesses Across IT, Digital Marketing and Networking Grow Fast in the Digital Era
+Chandigarh University CSE Student Builds Tech-Driven Startup to Help Businesses Across IT, Digital Marketing and Networking Grow Fast in the Digital Era
+
+## Sugar prices cool 18% after hitting record high, ex-mill rates fall to Rs 55 per kg
+Following a surge in sugar prices to unprecedented levels last week, the market is now experiencing a decline. Government interventions aimed at curbing hoarding and speculation have contributed to this stabilization. Ex-mill sugar rates have seen a substantial decrease, and additional cuts are anti
 
 ## From 600 to 5,000 packages an hour: FedEx unveils $150 million Delhi cargo hub
 FedEx will invest $150 million to build a new air cargo hub in Delhi. This facility will significantly increase package processing capacity at the airport. The hub aims to strengthen air cargo connectivity across North and East India. The Indian government is also focusing on developing cargo hubs a
@@ -84,8 +93,17 @@ President Donald Trump reportedly invested between fifteen thousand and fifty th
 ## Rupee slips to 95.74 against US dollar as crude prices, importer demand weigh
 On Tuesday, the Indian Rupee faced a minor decline against the US dollar, influenced by rising crude oil prices and increased demand from importers. The Reserve Bank of India stepped in to stabilize the currency, keeping its fluctuations minimal. Meanwhile, domestic equities opened softly, although 
 
-## ‘Hire and train Americans’: JD Vance defends proposed six-figure H-1B fee
-The US Department of Homeland Security proposed a new $103,265 fee for H-1B visa petitions. This fee aims to recover government costs for administering the immigration system. Vice President JD Vance supports the proposal, emphasizing hiring American workers. Indian professionals, a major beneficiar
+## 'Nothing to do with politics': Nitin Gadkari clarifies amid retirement buzz over 'can't work much now' remark
+During an address in Maharashtra's Nagpur on Sunday, August 23, Nitin Gadkari called for young people to be given more responsibility, sparking speculation.
+
+## CJI Surya Kant's ‘cockroach’ remark was aimed at CJP's Saurav Das? Abhijeet Dipke makes big claim
+CJP's Saurav Das said several people had told him that the Chief Justice Surya Kant's “cockroach” remark appeared to be directed at him.
+
+## Delhi CM calls emergency meet over H1N1 spread as 3,000 cases reported so far; health minister says 'under control'
+Delhi health minister Pankaj Singh said that H1N1 isolation wards have been set up at hospitals and warned that action will be taken if patients are denied beds
+
+## Mumbai: Passengers trapped in Churchgate Metro lift after technical glitch
+The passengers were rescued within five minutes, according to information available. No injuries have been reported in the incident.
 
 ## Maharashtra's cab drivers move Bombay HC over Marathi language rule; seek immediate stay on govt notice
 The Maharashtra government has announced a month-long statewide drive to assess drivers' Marathi language skills.
@@ -98,18 +116,6 @@ A large board with the PM's photo in the corner and the words 'Shree Narendra Mo
 
 ## CBSE OSM glitches: SC closes plea, says revaluation will open ‘Pandora’s Box’
 The plea sought a regulatory framework for exams through the OSM system and the constitution of a panel to supervise its implementation
-
-## '65 suicides in 5 years': CJP demands 'immediate' attention to structural problems amid IIT Delhi protests
-Ranka highlighted that the student was dealing with mental health issues after the loss of his father and the institution failed to provide support.
-
-## Same Fanta, different rules: How India's sugar warnings got watered down
-India’s food-safety regulator said in August that it had abandoned a push for colorful warnings on the front of food packaging.
-
-## Patna student protest LIVE: Bihar BPSC protesters break barricades as water cannons turn into ‘rain dance’, detained
-Patna student protest LIVE: The students, many of whom were carrying the tricolour, jostled with police and broke through barricades at the Dak Bungalow crossing.
-
-## ‘First, donation must be to deity’: SC directs transparent system for Vrindavan's Banke Bihari Temple offerings
-The court made it clear that donations must be deposited either through designated donation boxes or online into the temple treasury.
 
 ## Asia’s super-rich are ‘going all in’ on sustainability as impact investing grows: survey
 Family offices in the Asia-Pacific region are putting more funding into sustainability projects and adopting a “systems-level” approach to make a greater impact, a trend that is set to boost Hong Kong’s role as a hub for impact investing, according to a survey released on Tuesday. The proportion of 
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?
+Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.
+
+## Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79
+Sliman Mansour's art captured the essence of Palestine, blending ancient traditions with modern themes of resistance.
+
+## What would justice look like if there were no Rohingya left in Myanmar?
+Nine years after the 2017 atrocities, Rohingya are still being forced to flee because the genocide has never stopped.
+
+## Roadblocks and burning tyres in Libya protests over power cuts
+Roadblocks and burning tyres in Libya protests over power cuts
+
+## Indonesia battles haze as wildfires rage across South Sumatra forests
+Indonesia deploys prayers and emergency measures to combat South Sumatra's raging wildfires and hazardous haze.
+
+## Kremlin adviser warns UK drone factories could face attacks
+Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.
+
 ## Who are Iran’s top trading partners US would need to target to isolate it?
 The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.
 
 ## ‘Enough is enough’: Kenya nurses strike over pay and working conditions
 Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.
-
-## Nvidia, Supermicro employees charged over export of AI servers to China
-Taiwanese authorities indict nine people over alleged chip smuggling scheme.
-
-## Pakistan says significant progress made in talks on Iran-US war
-The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.
-
-## Rohingya refugees protest, nine years after exodus to Bangladesh
-Rohingya refugees protest, nine years after exodus to Bangladesh
-
-## Global ocean temperatures hit record high as El Nino intensifies
-Copernicus warns of 'unprecedented strain' on world's oceans as El Nino and climate change drive up sea temperatures.
-
-## Thai vendor confronts Israeli tourists, raises Palestinian flag
-A Thai vendor confronted Israeli tourists outside his shop on the island of Phuket, waving a Palestinian flag.
-
-## Bangladesh-India reset stalls over Hasina: What would break the deadlock?
-Analysts say an Indian commitment not to allow ousted Bangladesh PM to engage in politics from their soil would help.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
@@ -279,6 +285,9 @@ The IBBI's draft circular aims to strengthen the insolvency process. Insolvency 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
 
+## Where has India’s $73 billion gone? Inside the RBI’s great dollar haul
+India has mobilised about $73 billion in foreign currency in under 11 weeks, largely through FCNR(B) deposits, yet the rupee remains near ₹95-96 per dollar. The inflows are primarily strengthening RBI’s foreign-exchange buffers rather than being used to push the currency higher.
+
 ## RBI board gets three new part-time directors
 The Appointments Committee of the Cabinet (ACC) has approved the appointment of Annie George Mathew, Syed Akbaruddin and Janmejaya Kumar Sinha as part-time non-official directors on the Reserve Bank of India’s central board for four years.
 
@@ -296,7 +305,4 @@ Life Insurance Corporation of India (LIC), India's largest insurance company, ha
 
 ## Sebi bans two entities for illegal sensex CAS trades
 In a significant move, Sebi has prohibited Copthall Mauritius Investments and Mansi Share & Stock Broking for engaging in manipulative transactions. Accusations arose regarding their illicit gains made during the Sensex Closing Auction Session, resulting in the confiscation of Rs 3 crore from Coptha
-
-## MTNL, BSNL and RINL's ₹13,500 crore worth of realty assets to hit markets
-Realty assets worth an estimated ₹13,500 crore belonging to MTNL, BSNL and RINL are set to hit the market after the Department of Public Enterprises gave final approval for their monetisation. The National Land Monetisation Corp will market 23 prime properties across six cities, targeting ₹7,500 cro
 
