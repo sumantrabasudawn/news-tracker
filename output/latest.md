@@ -27,14 +27,14 @@ The US cannot fully isolate Tehran unless other trade partners co-operate
 ## Reform UK pledges to cut data rules and curb liabilities for non-executives
 Nigel Farage’s party sharpens its pitch to business by promising to scrap the General Data Protection Regulation
 
+## Bombing the bond market
+Trump wages war against his own economy
+
 ## How First Brands’ billion-dollar rescue hit the skids
 Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
 
 ## Boss of Trump Jr-backed start-up donated to Republicans after winning US contract
 Companies connected to investment firm of US president’s son have benefited from lucrative government business deals
-
-## Could nuclear fusion become economically viable?
-Some scientists have come up with a way of measuring its commercial value
 
 ## Persisting retail F&O losses spur call for tighter eligibility filters
 Experts seek income tests and exams to restrict derivatives access to informed investors
@@ -132,9 +132,6 @@ Beijing could soon hold carmakers legally responsible for traffic violations whe
 ## As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
 
-## The U.S.-Canada Trade War Is Full Steam Ahead
-Ottawa issues retaliatory tariffs to go “dollar for dollar” with U.S. duties.
-
 ## Ukrainians Skeptical as Former Defense Minister Pushes for Elections
 Mykhailo Fedorov hopes anti-corruption rhetoric can carry him to power.
 
@@ -155,6 +152,9 @@ The Mecca Joint Defense Agreement faces all the classic challenges of an allianc
 
 ## Everything You Always Wanted to Know About IR Grad School
 Some straight talk for prospective students from a longtime professor.
+
+## U.S. Unveils ‘Economic D-Day’ Against Iran
+The White House vows to sanction any country that continues to do business with Tehran.
 
 ## A Golden Chance to Protect the Pacific’s ‘Blue Corridors’
 If Albanese is serious about a Pacific COP, he must heed the region’s call on oceans.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge blocks Ohio law requiring proof of citizenship to register to vote
+The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.
+
+## Who was the ‘Queen of Country’ Dolly Parton?
+‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.
+
+## Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse
+Health Ministry warns of 'complete collapse of the basic necessities of life' in Gaza as Israel's attacks continue.
+
+## US soldier who called for Trump impeachment facing military charges
+Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.
+
+## US lawmakers urge Trump team to free of American student held by Israel
+Congress members call on Marco Rubio to 'use every tool' at his disposal to secure release of 20-year-old Sama Safi.
+
+## Syrian Democratic Forces announce their dissolution
+The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus
+
 ## Real Madrid vs Sociedad: La Liga – prediction, team news, lineups
 Kylian Mbappe and Jude Bellingham headline against Sociedad as Real seek consecutive wins to open La Liga season.
 
 ## Nigeria launches operation to rescue 600 kidnapped victims
 Nigerian President Bola Ahmed Tinubu announced a rescue operation on Tuesday for victims of 600-person mass abduction.
-
-## New US sanctions signal Trump desperation on Iran, experts say
-Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts.
-
-## Dolly Parton, beloved US country music icon, dies at 80
-Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.
-
-## What challenge do ‘cockroach’ protests pose for India’s PM Modi?
-Youth-led movement plans more demonstrations for next month.
-
-## Trump administration: Kennedy Center may be demolished if repairs not made
-Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help.
-
-## Video: US country music legend Dolly Parton dies
-US country music star Dolly Parton has died aged 80, her family have announced in a video on social media.
-
-## Iran, Oman discuss temporary shipping lane through Strait of Hormuz
-Omani FM hopes the two countries will 'soon announce' a joint temporary transit corridor through the Strait of Hormuz.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
