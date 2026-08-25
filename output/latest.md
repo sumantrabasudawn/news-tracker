@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Scott Bessent threatens Iran’s economic partners with more sanctions
+US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action
+
+## Burnham is right to rule out an early election
+But sticking to a date sometime in 2029 brings political risks too
+
 ## Nvidia employee charged with smuggling advanced chips into China
 Prosecutors identify Taiwan-based manager as ‘central figure’ in scheme involving US semiconductor maker’s AI servers
 
@@ -18,12 +24,6 @@ Long lines form in capital as officials warn that war and inflation are triggeri
 ## Austerity denial and the mystery of Britain’s shrunken state
 There is a ready supply of explanations on offer at Westminster
 
-## Socialists and Maga are both wrong about economic liberalism
-People are not puppets responding to the string pulls of market forces — free enterprise gives us agency
-
-## China could rescue the oil market again — if it wanted to
-People’s Republic has ample spare capacity
-
 ## Lego invests in software-enabled bricks and other products to power growth run
 World’s largest toy group is looking to sustain stellar revenue and profit increases
 
@@ -36,29 +36,32 @@ A load of Cobblers. And Gemcorp
 ## The unravelling of Mark Walter
 The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
 
-## Hettich Introduces its Largest Range of Linear Drawer Systems for Modern Interiors
-Hettich Introduces its Largest Range of Linear Drawer Systems for Modern Interiors
+## China could rescue the oil market again — if it wanted to
+People’s Republic has ample spare capacity
 
-## TN Ministers defend Parandur airport decision, policy note says new airport site will be selected
-Tabling the policy note in the Assembly, Industries Minister S Keerthana assuring that land acquisition for an alternative airport would not come at the cost of agriculturists’ livelihoods.
+## Henkel's Packaging Recyclab in Shanghai now accredited for EU recognized paper packaging recyclability testing
+Henkel's Packaging Recyclab in Shanghai now accredited for EU recognized paper packaging recyclability testing
 
-## Sensex today | Stock Market Live: Sensex down 210 points, Nifty below 24,150 as West Asia tensions persist
+## Sensex today | Stock Market Live: Sensex down 116 points, Nifty touches 24,162; HCL Tech lead losers
 Sensex, Nifty, Share Prices Live: Indian shares remained subdued on Tuesday, recovering from the day’s lows but staying in negative territory as investors tracked West Asia tensions, elevated crude prices, weak monsoon concerns and the impact of the monthly Nifty 50 derivatives expiry.
 
-## Samsung, SK Hynix stand to benefit as as Nvidia AI server costs surge
-Server manufacturers informed major data center clients like Microsoft, Google, and Oracle that Nvidia-based AI system prices would increase by over 15% for shipments beginning in early 2027
+## Natco Pharma to invest $14 million in eGenesis Inc
+Natco Pharma (Canada) Inc will invest $9.5 million and Natco Pharma South Africa $4.5 million in eGenesis via convertible promissory notes
 
-## Industrial power tariff hike: WBSEDCL says proposed rise capped to DVC area, rates still competitive
-The revision entails an increase of ₹1 per unit for 33 KV connections and ₹1.5 per unit for 11 KV connections from September 1
+## Karnataka suspends food licences of Amazon, Swiggy Instamart, BigBasket over Datura listings
+The State’s food safety regulator directed the three platforms to immediately remove all listings, advertisements and promotional material offering Datura
 
-## Dakshina Kannada MP urges Karnataka CM to back Mangaluru railway notification
-Capt Chowta informed Shivakumar that the Kerala Chief Minister has asked the Prime Minister to reconsider the notification, and Kerala MPs have publicly opposed its implementation
+## AI boom propping up APAC growth but geopolitics, trade shocks headwinds: Moody's Analytics
+Growth in the Asia-Pacific region is projected to slow to 4.2% in 2026 and 3% in 2027, down from 4.3% in 2025
 
-## Indian banks likely to sustain healthy growth in FY27: Bernstein
-Stronger lending, easing margin concerns and stable asset quality are supporting the sector, while private banks continue narrowing their growth gap
+## Maharashtra launches initiative to expand eye care for school kids
+The partnership will fund a school eye health program to screen 2 million students in grades 5 to 10 at Zilla Parishad and government schools
 
-## India’s gig economy is leaving its women behind, study finds
-India’s female labour-force participation rate was about 32% in 2025 on an internationally comparable measure, versus almost 78% for men, according to ILO estimates compiled by the World Bank
+## Hyundai Motor India partners Jio-bp to integrate EV charging networks
+Through this collaboration, EV customers will be able to discover, access and use Jio-bp pulse charging stations using the myHyundai app, Hyundai Motor India Ltd's integrated EV charging platform
+
+## Tata Steel gets interim relief in ₹1,755-crore Jharkhand coal mining demand case
+The case relates to alleged excess extraction of coal from Tata Steel's West Bokaro Colliery in Jharkhand during FY2000-01 to FY2006-07
 
 ## From 600 to 5,000 packages an hour: FedEx unveils $150 million Delhi cargo hub
 FedEx will invest $150 million to build a new air cargo hub in Delhi. This facility will significantly increase package processing capacity at the airport. The hub aims to strengthen air cargo connectivity across North and East India. The Indian government is also focusing on developing cargo hubs a
@@ -84,29 +87,29 @@ On Tuesday, the Indian Rupee faced a minor decline against the US dollar, influe
 ## ‘Hire and train Americans’: JD Vance defends proposed six-figure H-1B fee
 The US Department of Homeland Security proposed a new $103,265 fee for H-1B visa petitions. This fee aims to recover government costs for administering the immigration system. Vice President JD Vance supports the proposal, emphasizing hiring American workers. Indian professionals, a major beneficiar
 
-## Girlfriend leaves 3,400 kiss marks on car. Gwalior cops make man wipe them off, fine him ₹5,500
-A viral trend went wrong when Gwalior cops fined a man ₹5,500 after his girlfriend covered his car in 3,400 lipstick kiss marks.
+## 3 arrested in Arunachal for trafficking 19 children, youngest aged three: Cops
+The case was registered at Namsai police station on August 17 following a complaint from the Child Welfare Committee, Namsai
 
-## CJP announces new members, names national spokespersons, joint secretaries | Check full list
-The CJP announced new members for its teams, including national spokespersons, joint secretaries, and the North, East and West Coordination Committees.
+## Husband can't dictate wife’s life choices, says Karnataka high court
+The court added that any attempt to restrict a woman’s autonomy was “contrary to equality, human dignity and social justice.”
 
-## This Indian village has no doors or locks or theft reports. The secret is a 300-year-old bleeding slab
-Located in Maharashtra's Ahilyanagar district, residents of Shani Shingnapur village have lived without doors and locks for generations.
+## Body of Delhi teen who drowned in drain while chasing kite found after four days
+The incident took place just before noon on Saturday and the boy was identified as a Class 8 student.
 
-## DMK raises killing of 3 Tamils by K'taka forest dept, seeks explanation from govt
-DMK raises killing of 3 Tamils by K'taka forest dept, seeks explanation from govt
+## Maharashtra: 'Oral' appointments of officers and employees in ministerial offices cancelled
+Maharashtra: 'Oral' appointments of officers and employees in ministerial offices cancelled
 
-## SC stays Calcutta HC order staying notifications on dedicated STF police stations, assigned courts
-SC stays Calcutta HC order staying notifications on dedicated STF police stations, assigned courts
+## Supreme Court directs Tarun Tejpal to surrender in two weeks
+The Supreme Court directed former Tehelka editor Tarun Tejpal to surrender in two weeks
 
-## Students, cops face off in Patna during march to Raj Bhavan over Bihar civil services exam
-Students broke through barricades as they headed towards Raj Bhavan from Gandhi Maidan, demanding cancellation of the 70th BPSC examination.
+## Rajnath Singh clears transfer of DRDO missile tech to Indian defence firms amid regional security concerns
+Defence ministry said the transfer of technology will allow eligible Indian industries to undertake production of DRDO-developed conventional missile systems.
 
-## UP to give 1 lakh govt appointment letters in next six months: Adityanath
-UP to give 1 lakh govt appointment letters in next six months: Adityanath
+## 25km, 10 hours and 200 students: Protest in Madhya Pradesh after teachers' alleged use of 'casteist' remarks
+During the protest march, the school principal, police and administrative officials, tried to persuade the students to end their protest, but failed.
 
-## ‘Is reading Bible wrong?’: Ex-Andhra minister says ‘respects all religions’ amid daughter-in-law's conversion claim
-The case involves Ramesh's son, Rajeev, and his daughter-in-law, Meghana. The woman lodged a complaint alleging dowry harassment and domestic violence.
+## ‘Open-ended questions misleading’: Kharge, Rahul Gandhi write to PM Modi, flag caste census concerns
+Mallikarjun Kharge and Rahul Gandhi said the same caste could have different names, sub-castes and spellings in different parts of India.
 
 ## China taps high-altitude winds for power generation by flying craft to 4,000m
 China has flown an airborne wind energy system to 4,000 metres (13,123 feet) above sea level and generated electricity from the sky, in what state broadcaster CCTV described as a world first. According to a CCTV report on Saturday, the prototype S4000 craft completed a full work cycle – ascent, stat
@@ -115,7 +118,7 @@ China has flown an airborne wind energy system to 4,000 metres (13,123 feet) abo
 Fuelled by the recent bubble tea boom and an intensely competitive market, financial investors have shown growing interest in the sector’s major brands, shifting their playbook from early-stage bets and initial public offering subscriptions to full equity buyouts. Growth of mid to high single digits
 
 ## China’s new traffic safety law set to clarify liability for fully automated cars
-Beijing could soon hold carmakers legally responsible for traffic violations when autonomous driving systems are in use, marking an important step towards clearing regulatory hurdles to wider commercialisation. The Standing Committee of the National People’s Congress, China’s top legislature, is set
+Beijing could soon hold carmakers legally responsible for traffic violations when autonomous driving systems are in use, marking an important step towards clearing regulatory hurdles to wider commercialisation. The National People’s Congress Standing Committee, China’s top legislative body, is set t
 
 ## As global drug giants grow cautious, can Chinese biotech keep cashing in on out-licensing?
 Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings 
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Nvidia, Supermicro employees charged over export of AI servers to China
+Taiwanese authorities indict nine people over alleged chip smuggling scheme.
+
+## Pakistan says significant progress made in talks on Iran-US war
+The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.
+
+## Rohingya refugees protest, nine years after exodus to Bangladesh
+Rohingya refugees protest, nine years after exodus to Bangladesh
+
+## Global ocean temperatures hit record high as El Nino intensifies
+Copernicus warns of 'unprecedented strain' on world's oceans as El Nino and climate change drive up sea temperatures.
+
+## Thai vendor confronts Israeli tourists, raises Palestinian flag
+A Thai vendor confronted Israeli tourists outside his shop on the island of Phuket, waving a Palestinian flag.
+
+## Bangladesh-India reset stalls over Hasina: What would break the deadlock?
+Analysts say an Indian commitment not to allow ousted Bangladesh PM to engage in politics from their soil would help.
+
+## Federer to play tennis at US Open but rules out Williams-like return
+The 20-time Grand Slam champion confirmed he’s only going to play in an exhibition match and has no plans to return.
+
 ## The Iran war is bringing cyberwarfare into critical infrastructure
 Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.
-
-## Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win
-Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.
-
-## Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks
-Reese broke Chamique Holdsclaw's record of 24 rebounds and added 11 points for her 27th double-double of the season.
-
-## Libya factions draft initial election pact amid lingering mistrust
-Libyan factions sign an initial an election pact, but divided institutions and deep legal gaps threaten its execution.
-
-## Australia’s music charts ban AI-made songs amid backlash over Madonna cover
-Tracks that use AI in a 'supporting role' will still be eligible for inclusion in the official charts.
-
-## Two US carrier groups in Middle East strain navy resources
-Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower
-
-## France and Saudi Arabia plan Dragon Ball Z theme park near Paris
-France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris, including one based on Japanese manga.
-
-## Syrian president thanks nation for getting off US state terror list
-Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
