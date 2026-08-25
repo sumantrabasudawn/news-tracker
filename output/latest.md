@@ -24,44 +24,47 @@ People are not puppets responding to the string pulls of market forces — free 
 ## China could rescue the oil market again — if it wanted to
 People’s Republic has ample spare capacity
 
+## Lego invests in software-enabled bricks and other products to power growth run
+World’s largest toy group is looking to sustain stellar revenue and profit increases
+
+## OnlyFans owner received $700mn in dividends before his death this year
+Streaming platform used by sex workers has 5mn creator accounts according to latest annual results
+
+## Is Northampton an emerging market?
+A load of Cobblers. And Gemcorp
+
 ## The unravelling of Mark Walter
 The billionaire is selling sports stakes as he rushes to clean up the balance sheets of the insurance arms of the colossus that he built
 
-## Skipton tries to show that building societies still matter
-The mutual financial group based in the Yorkshire Dales wants to emphasise the personal touch
+## Hettich Introduces its Largest Range of Linear Drawer Systems for Modern Interiors
+Hettich Introduces its Largest Range of Linear Drawer Systems for Modern Interiors
 
-## NatWest plots push into US market
-UK bank last week secured regulatory approval for a new American office as part of expansion plans
+## TN Ministers defend Parandur airport decision, policy note says new airport site will be selected
+Tabling the policy note in the Assembly, Industries Minister S Keerthana assuring that land acquisition for an alternative airport would not come at the cost of agriculturists’ livelihoods.
 
-## US grain farmers pummelled as Iran war triggers surge in costs
-Middle East conflict adds to strains in America’s heartland months ahead of midterm elections
-
-## The threats to ‘Swiss Made’
-For decades the country’s exporters focused on adding value, but US tariffs and the strong franc are now hitting them harder
-
-## Tiger Analytics appoints Prakash Arunachalam as Global Head of Operations
-Arunachalam will be responsible for increased holistic operational efficiency, agility to enable sustained business growth, and strengthen profitabilityArunachalam will enhance operational efficiency, agility, and profitability for sustained business growth.
-
-## Supreme Universal bags development project in Mumbai with ₹1,500 crore revenue potential
-The upcoming project will see construction of one of tallest towers in the neighbourhood and will have private sea facing terrace for each residence.
-
-## Indian Industry pushes for regulatory harmonisation, mutual recognition of standards with Japan
-On the investment front, Goenka said India-Japan ties are entering a new phase, with an earlier five-billion-dollar investment target set for 2022-26 already achieved two years ahead of schedule
-
-## Late-Aug punch for MP, Chhattisgarh as IMD forecast heavy rain today
-September rains are crucial since the inverse relationship between El Niño and the monsoon is stronger during the latter half of the season, particularly the last month of the season
-
-## Sensex today | Stock Market Live: Markets stay subdued; West Asia tensions, expiry in focus
+## Sensex today | Stock Market Live: Sensex down 210 points, Nifty below 24,150 as West Asia tensions persist
 Sensex, Nifty, Share Prices Live: Indian shares remained subdued on Tuesday, recovering from the day’s lows but staying in negative territory as investors tracked West Asia tensions, elevated crude prices, weak monsoon concerns and the impact of the monthly Nifty 50 derivatives expiry.
 
-## EC launches drive to verify voters, family members
-The objective of the 'home to roll verification' campaign, which will continue till September 4, is to ensure that the names of voters belonging to the same family and household are registered in the electoral roll of the same polling station
+## Samsung, SK Hynix stand to benefit as as Nvidia AI server costs surge
+Server manufacturers informed major data center clients like Microsoft, Google, and Oracle that Nvidia-based AI system prices would increase by over 15% for shipments beginning in early 2027
 
-## Silver futures decline to ₹2.43 lakh/kg
-On the Multi Commodity Exchange, September silver contracts fell by ₹903 (0.37%) to ₹2,43,317 per kg with a turnover of 1,702 lots
+## Industrial power tariff hike: WBSEDCL says proposed rise capped to DVC area, rates still competitive
+The revision entails an increase of ₹1 per unit for 33 KV connections and ₹1.5 per unit for 11 KV connections from September 1
 
-## Jaishankar calls for urgent steps to address $50-billion India-Russia trade deficit
-Minister pitches greater market access, removal of tariff/non-tariff barriers, stronger payment mechanisms
+## Dakshina Kannada MP urges Karnataka CM to back Mangaluru railway notification
+Capt Chowta informed Shivakumar that the Kerala Chief Minister has asked the Prime Minister to reconsider the notification, and Kerala MPs have publicly opposed its implementation
+
+## Indian banks likely to sustain healthy growth in FY27: Bernstein
+Stronger lending, easing margin concerns and stable asset quality are supporting the sector, while private banks continue narrowing their growth gap
+
+## India’s gig economy is leaving its women behind, study finds
+India’s female labour-force participation rate was about 32% in 2025 on an internationally comparable measure, versus almost 78% for men, according to ILO estimates compiled by the World Bank
+
+## From 600 to 5,000 packages an hour: FedEx unveils $150 million Delhi cargo hub
+FedEx will invest $150 million to build a new air cargo hub in Delhi. This facility will significantly increase package processing capacity at the airport. The hub aims to strengthen air cargo connectivity across North and East India. The Indian government is also focusing on developing cargo hubs a
+
+## Why Trump may have to target China to make its Iran 'economic D-Day' work
+China is the biggest buyer of Iranian crude - around 90% of Iran’s oil exports flow to China. Will Trump’s secondary sanctions threat against any country aiding Iran economically reach China, or even have an impact?
 
 ## ‘Gut punch’: What Trump’s new $103,265 H-1B visa fee proposal means for Indian aspirants
 The H-1B programme enables US employers to hire foreign workers trained in specialised fields. It provides for 65,000 visas each year, along with another 20,000 for workers holding advanced degrees, with visas approved for periods of three to six years.
@@ -81,38 +84,35 @@ On Tuesday, the Indian Rupee faced a minor decline against the US dollar, influe
 ## ‘Hire and train Americans’: JD Vance defends proposed six-figure H-1B fee
 The US Department of Homeland Security proposed a new $103,265 fee for H-1B visa petitions. This fee aims to recover government costs for administering the immigration system. Vice President JD Vance supports the proposal, emphasizing hiring American workers. Indian professionals, a major beneficiar
 
-## Honey to hockey sticks: Trump's 50% tariff net catches 550+ Canadian goods
-The United States has enacted a substantial 50% tariff on a wide range of Canadian goods, affecting more than 550 products, including common consumer items. In response, Canada intends to implement retaliatory measures that match the U.S. tariffs. This trade dispute continues to escalate further, wi
+## Girlfriend leaves 3,400 kiss marks on car. Gwalior cops make man wipe them off, fine him ₹5,500
+A viral trend went wrong when Gwalior cops fined a man ₹5,500 after his girlfriend covered his car in 3,400 lipstick kiss marks.
 
-## Top stocks to buy today: Stock market recommendations for August 25, 2026 - check list
-Stock market recommendations: Jindal Steel, Bajaj Auto, Engineers India, and NMDC - these have been recommended as the top stocks to buy today on August 25, 2026 by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan:
+## CJP announces new members, names national spokespersons, joint secretaries | Check full list
+The CJP announced new members for its teams, including national spokespersons, joint secretaries, and the North, East and West Coordination Committees.
 
-## Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions
-Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions
+## This Indian village has no doors or locks or theft reports. The secret is a 300-year-old bleeding slab
+Located in Maharashtra's Ahilyanagar district, residents of Shani Shingnapur village have lived without doors and locks for generations.
 
-## Suspend food licences of e-com sites for selling poisonous datura: Karnataka FDA
-If the licences are suspended, the platforms will not be permitted to sell food products until they comply with the FDA directions
+## DMK raises killing of 3 Tamils by K'taka forest dept, seeks explanation from govt
+DMK raises killing of 3 Tamils by K'taka forest dept, seeks explanation from govt
 
-## Advisory issued as waterlogging brings Delhi, Gurugram traffic to crawl; Check affected areas
-The Delhi Traffic Police issued an advisory warning commuters that heavy rainfall could lead to waterlogging at the Azad Market Railway Underpass.
+## SC stays Calcutta HC order staying notifications on dedicated STF police stations, assigned courts
+SC stays Calcutta HC order staying notifications on dedicated STF police stations, assigned courts
 
-## Calcutta HC grants protection to TMC MP Abhishek Banerjee from arrest in 3 cases
-Calcutta HC grants protection to TMC MP Abhishek Banerjee from arrest in 3 cases
+## Students, cops face off in Patna during march to Raj Bhavan over Bihar civil services exam
+Students broke through barricades as they headed towards Raj Bhavan from Gandhi Maidan, demanding cancellation of the 70th BPSC examination.
 
-## SC asks Centre to consider devising safeguards to ensure no misuse of EPFO, ITR data
-SC asks Centre to consider devising safeguards to ensure no misuse of EPFO, ITR data
+## UP to give 1 lakh govt appointment letters in next six months: Adityanath
+UP to give 1 lakh govt appointment letters in next six months: Adityanath
 
-## SC nudges Delhi court to conclude 2008 blasts trial in six months
-The bench said that Nisar’s bail plea could be considered again after six months if the trial court was unable to conclude the proceedings within that period
+## ‘Is reading Bible wrong?’: Ex-Andhra minister says ‘respects all religions’ amid daughter-in-law's conversion claim
+The case involves Ramesh's son, Rajeev, and his daughter-in-law, Meghana. The woman lodged a complaint alleging dowry harassment and domestic violence.
 
-## Preliminary report for turbulence on Air India Phuket-Delhi likely in a week: Sources
-Preliminary report for turbulence on Air India Phuket-Delhi likely in a week: Sources
-
-## Tamil Nadu CM Vijay plans new international airport near Chennai after scrapping Parandur project
-The Airports Authority of India has sought the Tamil Nadu government's permission to build a road connecting the facility to the national highway.
+## China taps high-altitude winds for power generation by flying craft to 4,000m
+China has flown an airborne wind energy system to 4,000 metres (13,123 feet) above sea level and generated electricity from the sky, in what state broadcaster CCTV described as a world first. According to a CCTV report on Saturday, the prototype S4000 craft completed a full work cycle – ascent, stat
 
 ## How full equity buyouts could help China’s cooling bubble tea sector turn a new leaf
-Fuelled by the bubble tea boom in recent years and an intensely competitive market, financial investors have shown growing interest in major brands, shifting their playbook from early-stage bets and initial public offering (IPO) subscriptions to full equity buyouts. Growth of mid to high single digi
+Fuelled by the recent bubble tea boom and an intensely competitive market, financial investors have shown growing interest in the sector’s major brands, shifting their playbook from early-stage bets and initial public offering subscriptions to full equity buyouts. Growth of mid to high single digits
 
 ## China’s new traffic safety law set to clarify liability for fully automated cars
 Beijing could soon hold carmakers legally responsible for traffic violations when autonomous driving systems are in use, marking an important step towards clearing regulatory hurdles to wider commercialisation. The Standing Committee of the National People’s Congress, China’s top legislature, is set
@@ -131,9 +131,6 @@ The US Treasury’s decision to boost its buy-backs of long-maturity bonds is st
 
 ## Hong Kong housing rally faces test as property flippers retreat
 Hong Kong’s housing rally faces a new test as investors who rode the first-half rebound become less active in quick-turn trades, leaving owner-occupiers and longer-term buyers to sustain the recovery. Secondary home prices have continued to rise, with Centaline’s leading index climbing 0.64 per cent
-
-## EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m
-Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of 
 
 ## U.S. Unveils ‘Economic D-Day’ Against Iran
 The White House vows to sanction any country that continues to do business with Tehran.
@@ -183,6 +180,9 @@ A recent Pew survey found that 45 percent of respondents in 36 countries held a 
 ## Severe Flooding Bares Garbage and Corruption Problems in the Philippines
 Lawmakers and contractors used the climate crisis to push forward flood-control projects. But those have turned out to be defective and in some cases even non-existent.
 
+## Russia’s Next Top General: Promotions in Russian Military Leadership
+Judged by the initial strategic goals set by Russian President Vladimir Putin in 2022, Russia’s military lost its war against Ukraine some time ago. Yet Russia’s armed forces have not stopped fighting and continue to prosecute large-scale combat operations in a brutalizing, protracted war sucking up
+
 ## Command and Politics in the War Between Moscow and Kyiv
 Our intrepid team covers a lot of ground in this episode: the increasing fluidity of the battlefield, drones and air defense, the biting Black Sea campaign, the causes and aftermath of the firing of Ukraine’s popular defense minister, why Ukraine probably cannot produce PAC-3 air defense missiles (d
 
@@ -203,9 +203,6 @@ Two rocks surrounded by coral, with a total land size of less than 10 square met
 
 ## War: Watt Is It Good For?
 Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
-
-## China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That
-For years, the Chinese military’s own newspaper has been making a promise it may no longer be able to keep. Whenever the People’s Liberation Army Daily (Jiefangjun Bao), the official newspaper of China’s Central Military Commission, discusses artificial intelligence and command, it returns to the sa
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,6 +228,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The Iran war is bringing cyberwarfare into critical infrastructure
+Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.
+
 ## Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win
 Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.
 
@@ -252,8 +252,8 @@ France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris,
 ## Syrian president thanks nation for getting off US state terror list
 Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.
 
-## France, Saudi Arabia agree on $7bn theme park project near Paris
-Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS's visit to Paris.
+## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
+India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
 
 ## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
 NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
@@ -275,12 +275,6 @@ The IBBI's draft circular aims to strengthen the insolvency process. Insolvency 
 
 ## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
 The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
-
-## FAST-DS 2026: What the new foreign asset disclosure rules mean for taxpayers
-With the one time disclosure window now in force, the detailed rules set out who can come forward, how foreign assets and income will be valued, what taxpayers will have to pay and when a valid declaration can provide immunity from further tax, penalty and prosecution.
-
-## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
-India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
 
 ## RBI board gets three new part-time directors
 The Appointments Committee of the Cabinet (ACC) has approved the appointment of Annie George Mathew, Syed Akbaruddin and Janmejaya Kumar Sinha as part-time non-official directors on the Reserve Bank of India’s central board for four years.
