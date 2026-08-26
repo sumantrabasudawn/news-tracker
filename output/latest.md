@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Reform UK pledges to cut data rules and curb liabilities for non-executives
+Nigel Farage’s party woos business by promising to scrap the General Data Protection Regulation if it wins power
+
 ## FirstFT: US Treasury on collision course with Fed
 Also in this newsletter: Darline Graham wins South Carolina primary and Bill Gates calls for ‘human reserved’ jobs to protect them from AI
 
@@ -21,35 +24,35 @@ Hong Kong decision has potential to threaten Big Four firms’ partnership netwo
 ## Hyundai bets on US hybrid boom to take on Toyota
 World’s third-largest carmaker to release dozens of new and updated models by 2030
 
-## Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI
-Tech billionaire publishes 6,000-word essay warning the technology will usher in ‘one of the most turbulent times in human history’
-
-## Macquarie dumps KPMG in wake of Australian data scandal
+## Macquarie dumps KPMG after Australian data scandal
 PwC retains Australia’s most lucrative audit contract after reversal by financial services group
 
-## Centre to sell onions at ₹35/kg in Delhi from Thursday amid price surge
-The onions being released into the market are from a buffer stock of 1.21 lakh tonne maintained across producing States for 2026
+## From subsistence to enterprise: J&K’s Lakhpati Didis change rural lives
+According to official data, J&K has identified around 2.6 lakh potential beneficiaries, of whom about 2.40 lakh have already crossed the ₹1 lakh annual income threshold
 
-## Sensex today | Stock Market Live: Sensex closes 183 points lower at 77,472; Nifty sheds 127 points
-Sensex, Nifty, Stock Price Live Updates: Sensex and Nifty traded mixed on Wednesday as easing crude oil prices improved the risk backdrop. The Nifty hovered near 24,300, with 24,200 emerging as key support and 24,350-24,375 likely to determine the next directional move.
+## NOVVA Group and Mongolia's MDDIC sign MOU on clean-powered AI infrastructure, supporting Mongolia's "Sovereign by Design" green AI data centre initiative
+NOVVA Group and Mongolia's MDDIC sign MOU on clean-powered AI infrastructure, supporting Mongolia's "Sovereign by Design" green AI data centre initiative
 
-## L&T partners with French firm to market specialised road construction equipment in India
-The partnership combines BOMAG’s renowned road construction technologies with L&T’s strong customer relationships and nationwide product support
+## Gaja Alternative shares end with 5.4% listing gains, below ₹185 debut price
+The stock listed at ₹185 on the NSE, against the issue price of ₹160, while on the BSE it began trading at ₹185.20, a 15.7% premium
 
-## Hindustan Copper shares up 5.6%, OFS opened for retail investors today
-At 3.07 pm, the stock traded at ₹554.55 on the NSE, rising to ₹562.60 from the previous close of ₹532.65
+## Sensex today | Stock Market Highlights: Sensex closes 183 points lower at 77,472; Nifty sheds 127 points
+Sensex, Nifty, Stock Price Highlights: Sensex closed 183.15 points, or 0.24% lower, at 77,472.94, while the Nifty 50 shed 126.80 points, or 0.52%, to close at 24,207.75
 
-## Flipkart Minutes overtakes Swiggy Instamart in dark stores across top 10 cities
-Blinkit leading with 969 stores, followed by Zepto at 828, Flipkart Minutes at 627, Swiggy Instamart at 615 and BigBasket at 497
+## Gold rally takes a breather ahead of US inflation data
+Spot gold fell 0.9% to $4,616.62 ‌per ounce by 0927 GMT, after prices climbed to their highest since May 14 on Tuesday following ‌the US
 
-## Voice AI startup Ringg AI raises $10 million as an extension to Series A round
-The new capital will be used to strengthen Ringg’s AI platform, expand its voice, WhatsApp and browser agents and deepen investments in its proprietary AI models and context graph
+## Skyways Air, Symbiotec Pharmalab IPOs receive 5x subscription on closing day
+Skyways Air Services and Symbiotec Pharmalab will list on BSE, NSE on September 1.
 
-## BSE, NSE fine NTPC, SJVN, REC for non-compliance
-The penalties totalling ₹59.14 crore pertain to non-compliance with listing regulations
+## Mahindra Holidays receives ₹11.34-cr GST demand notice
+The company stated it doesn’t expect the show cause notice to materially impact finances and is pursuing legal remedies with the Additional/Joint Commissioner, Central GST Audit, Dehradun
 
-## Asus Pad T3201: The joys of an advanced Tandem OLED display
-Stunning visuals, slim form and a refined Android tablet experience
+## TN Health minister inaugurates Maa Kauvery, Chennai’s new 120-bed exclusive women and children’s hospital
+Offering services related to maternity care, obstetrics and gynaecology, fertility, neonatology, paediatrics and paediatric critical care
+
+## Explained: When it makes sense to take a joint home loan and when it doesn’t
+When two earning members of a household apply together for a loan, their combined income can potentially improve loan eligibility and help manage repayment burden more efficiently. Most banks and HFCs reiterate that adding an earning family member as a co-applicant can improve their borrowing eligib
 
 ## Rs 30 lakh a month for an intern? India’s high-speed trading firms are in a fierce talent war
 In a bid to attract the brightest minds, high-frequency trading firms in India are ramping up intern compensation to unprecedented levels. This surge in hiring is influenced by stricter regulations on derivatives and a lull in equity market movements. Companies such as Quadeye and Graviton Research 
@@ -72,8 +75,11 @@ Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana
 ## Gold steady near three-month high; silver rises as investors await US inflation data
 
 
-## Bank holiday today: Are banks open or closed on August 26? Check state-wise details
-Mark your calendars: many bank branches will observe closures on Wednesday, August 26, for the Id-E-Milad and Thiruvonam festivals. Although branches will be closed, customers can still use ATMs and online services. Don’t forget that banks will also shut down for a regular holiday on Sunday, August 
+## Did Maharashtra FDA chief Tukaram Mundhe target Shah Rukh Khan, Ajay Devgn over Vimal ad? He clarifies
+Tukaram Mundhe said the rules apply to promoters as well as advertisers, while the FDA is also taking action against manufacturers and sellers.
+
+## Kota: 20-year-old NEET aspirant from MP found dead in rented flat
+The student, a resident of Chhatarpur, was living in Kota with her younger sister and was preparing for the NEET examination at a private coaching institute.
 
 ## ‘No one will forget Hathras…’: Akhilesh Yadav hits out at BJP over women's safety
 Speaking at a press conference in Lucknow, Akhilesh Yadav also questioned the Central government over the implementation of the Women's Reservation Bill, 2023.
@@ -93,11 +99,14 @@ According to the advisory, ICMR has confirmed that the circulating virus remains
 ## Railway gateman hit by train at Uttarakhand’s Girdhar crossing, dies: Police
 Railway gateman was killed after being struck by a train at the Girdhar railway crossing in Kashipur, Uttarakhand, early on Wednesday
 
-## HT Exclusive: After opening missile manufacturing to pvt sector, Modi govt targets 1,500km strike range
-By allowing the private sector into the missile sector, the government has dramatically scaled up the production numbers.
+## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
+China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
 
-## One for the future: Gen Alpha rise to demand accountability, better infrastructure
-One for the future: Gen Alpha rise to demand accountability, better infrastructure
+## MiniMax revenue surges 283% but remains behind pace to meet forecast amid crowded AI race
+Chinese artificial intelligence firm MiniMax on Wednesday posted a 283 per cent surge in first-half revenue to US$116.6 million, powered by a 700 per cent jump in its enterprise business, though top-line growth remains off pace to hit full-year analyst forecasts. Revenue for the six months ended Jun
+
+## PwC International must face trial of Evergrande scandals claims: Hong Kong High Court
+The liquidators of collapsed developer China Evergrande Group have won a legal victory against PricewaterhouseCoopers (PwC) International, indicating that the firm and two other units of the accounting giant would need to jointly face the largest corporate lawsuit claims in Hong Kong, according to a
 
 ## Chinese hotpot chain Haidilao bets on takeaway, new brands, lower-tier reach for growth
 China’s largest hotpot chain Haidilao International Holding has seen takeaway emerge as its fastest-growing segment, with demand for single-serving meals like rice-bowl sets surging, amid positive revenue and profit growth in the first half. Takeaway revenue for the Hong Kong-listed group reached 2.
@@ -113,15 +122,6 @@ DeepSeek is nearing the completion of a new funding round valuing the company at
 
 ## US sanctions Chinese firms trading with Iran
 The US Department of the Treasury launched targeted sanctions against some 24 entities based in mainland China or Hong Kong as part of its “Operation Economic Outcast” campaign against Iran and its enablers. See below for the original announcement: US Treasury sanctions by scmp
-
-## As more expats flock to Hong Kong, luxury home rents poised for further upswing
-Hong Kong’s growing number of expatriates is boosting the city’s residential property leasing market with luxury rents likely to rise by about 5 per cent this year and continue their upswing in 2027, according to property consultancy JLL. The private residential rental index by the Rating and Valuat
-
-## Why rising heat is Asia’s next major health challenge
-Across the globe – and Asia in particular – the link between a changing climate and human health is becoming harder to ignore. Home to an estimated 60 per cent of the world’s population, Asia is warming faster than the global average and ranks among the planet’s most climate-disaster-prone regions. 
-
-## China rushes to develop Moderna-style cancer vaccines amid market frenzy
-A group of Hong Kong-listed biotechnology companies have seen their stock prices surge in the wake of Moderna’s breakthrough cancer vaccine trial, as the Chinese companies push forward with similar vaccine programmes. The companies – from Jiangsu Hengrui Pharmaceuticals to Li Ka-shing-backed CK Life
 
 ## Is Europe Ready for a New Era of Russian Dirty Tricks?
 After the Kremlin’s failure in Ukraine, Putin’s new plan aims westward.
@@ -219,6 +219,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Infantino has no future at FIFA, says European Leagues chief
+Claudius Schaefer insists the influence of the FIFA president has 'grown from year to year'.
+
+## China’s Xi to visit Kyrgyzstan, Egypt
+The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.
+
+## Is Japan trying to build bridges with China after Taiwan spat?
+Experts say Japanese lawmakers' visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.
+
 ## One US dollar now costs 2 million rials in Iran, and here’s what it can buy
 Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices.
 
@@ -233,15 +242,6 @@ US Air Force refuelling planes caused anxiety in Bezmer. While their departure h
 
 ## Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
 Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
-
-## US immigration agents arrested more than 49,500 people in July
-The number of arrests last month showed a rise of roughly 15 percent over June's count.
-
-## Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN
-UN chief Guterres said the attack underscores 'the alarming security situation in Haiti' due to gangs.
-
-## Thousands in Japan are pulling this historic castle back into place
-Thousands in Japan are pulling this historic castle back into place
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
