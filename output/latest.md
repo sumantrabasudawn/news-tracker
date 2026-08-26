@@ -1,7 +1,13 @@
 # AION Intelligence
 
-## UK household energy price cap to rise by 4% from October
-Middle East war pushes price limit to three-year high ahead of the winter
+## UK household energy bills to hit three-year high from October
+Middle East war pushes prices up 4 per cent
+
+## Judge rules Evergrande liquidators can pursue PwC International for audit damages
+Hong Kong court’s ruling against global umbrella organisation has potential to threaten Big Four firms’ partnership network model
+
+## Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI
+Tech billionaire publishes 6,000-word essay warning the technology will usher in ‘one of the most turbulent times in human history’
 
 ## FirstFT: US Treasury on collision course with Fed
 Also in this newsletter: Cashing in on EU sanctions and Germany’s defence push
@@ -18,44 +24,35 @@ Democratic socialist candidates are winning primary battles in the US as voters 
 ## Shein: from TikTok haul to IPO stall
 The fast-fashion retailer is preparing to list in Hong Kong at a quarter of its peak valuation
 
-## Bessent’s bond intervention puts US Treasury on collision course with Fed
-Increased purchases of debt threaten to undermine central bank chief Kevin Warsh’s bid to tame inflation
+## AI Exchange
+In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
 
 ## British Business Bank’s small business loans hit £4bn
 Executive pay jumps at the state-owned bank amid questions over its underwriting of commercial banks’ lending
 
-## AI Exchange
-In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
-
-## Insurers pile into deals allowing banks to offload default risk
-Market for synthetic risk transfers has boomed in recent years, with insurers now offering banks unfunded structures
-
-## Saga’s over-fifties holidays are finally turning silver into gold
-Swapping insurance underwriting for selling other companies’ policies and refocusing on its brand and customer base was a good decision
-
-## AI vs oil: IMF chief says global economy in tug of war
-IMF chief says risks to outlook more balanced than around Spring Meetings but remain tilted to downside
+## Hyundai Motor sets 2030 sales target at 5.5 million units
+Hyundai Motor aims to lift its operating margin ​to more ‌than 9% by 2030 as the company outlined growth plans spanning electric vehicles, ‌manufacturing and artificial intelligence
 
 ## Sensex today | Stock Market Live: Sensex flat, Nifty slips as global cues improve
 Sensex, Nifty, Stock Price Live Updates: Sensex and Nifty traded mixed on Wednesday as easing crude oil prices improved the risk backdrop. The Nifty hovered near 24,300, with 24,200 emerging as key support and 24,350-24,375 likely to determine the next directional move.
 
-## Gold consolidates after 5-day rally as investors eye Fed rate clues
-Bullion edges down to near $4,640 an ounce, pulling back from a three-month high struck in the previous session
+## Nexon Geochem validates Indian-origin raw materials for NdFeB permanent magnets
+The company has technically validated the pathway to integrate domestic materials into its magnet manufacturing process, marking progress towards pilot production
 
-## Chennai Airport’s proposed Terminal 5 likely to be positioned between two runways
-The expansion will happen without disturbing the two runways
+## Goyal proposes India-Japan 'Shark Tank' style startup series to boost investments, business ties
+Addressing a roundtable on startups, Goyal said such pitching sessions could be organised virtually, leveraging digital connectivity, to facilitate greater interaction between Indian and Japanese startups
 
-## Indian Navy monitors safe transit of merchant vessels through Bab-el-Mandeb Strait
-A mission-deployed naval unit monitored the vessels’ passage through a crucial maritime corridor as India continued safeguarding vital cargo transit.
-
-## Indian refiners widen oil search as attacks hurt Russian flows
-The shift in Indian processors’ buying patterns coincides with an expected increase in nationwide demand as a spate of plant maintenance comes to an end, enabling refiners to boost run rates and step up production
-
-## Alcobev major Diageo launches initiatives to rejuvenate Godavari, Yamuna river basins
-The company has carried out a pilot project on regenerative agri practice with paddy and is set to expand the programme
+## boAt FY26 net profit rises 38% to ₹84.5 cr
+boAt’s revenue from operations at ₹2,931 crore
 
 ## LuLu flies in Tamil Nadu, Karnataka marigolds to Gulf for Onam amid West Asia crisis
 With more than two million Malayalis living across the Gulf Cooperation Council (GCC) region, the availability of flowers for Onam has become an important seasonal logistics operation
+
+## Gaja Alternative share price list 16% premium on debut day
+The stock listed at ₹185 on the NSE, against the issue price of ₹160, while on the BSE it began trading at ₹185.20, a 15.7% premium
+
+## Wipro Consumer Care enters pet food market with Snuggles
+The company said changing pet parenting trends are driving demand for high-quality nutrition tailored to different life stages and needs
 
 ## Gold price prediction today: Why gold prices are rising? Check August 26, 2026 outlook
 Gold price prediction today: Gold prices are showing a positive bias, and while short-term news related fluctuations may occur, the long-term outlook is bullish, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
@@ -81,7 +78,19 @@ On Eid-e-Milad, the Indian stock market will continue its trading operations as 
 ## Air India seeks $1.5 billion from owners Tata, Singapore Air
 Air India needs capital, but the $1.5 billion will be injected in phases, people familiar with the matter said. Co-owner Singapore Airlines will contribute its 25% share. Tata Sons had paused additional equity support in the year to March 2026. Its investment in Air India stood unchanged at Rs 22,61
 
-## 'Bro wait...': Kangana trolls Rahul Gandhi's 'smash the patriarchy' talk
+## Five killed after speeding car runs over people performing 'kirtan' in Bihar's Supaul
+The incident took place near Kataiya Chowk under the Pipra police station area when the speeding car allegedly lost control and rammed into the group.
+
+## US singer Mary Millben hits back at Mamdani for opposing Mohan Bhagwat's Madison Square event
+Her remarks follow New York City Mayor Zohran Mamdani's opposition to the event, where Bhagwat will speak during his centenary global outreach tour.
+
+## When the British built a 4,000-km wall of thorns across India to tax a kitchen ingredient
+'The Great Hedge of India' was a vast network of thorny bushes, trees, brushwood, customs posts and patrol routes.
+
+## Delays in infrastructure projects cost more, halt benefits: PM Modi during projects' review
+The projects, spanning the railway, road and power sectors, were reviewed with a focus on timelines, inter-agency coordination and removal of pending hurdles.
+
+## 'Bharat Mata Ki Jay': Kangana trolls Rahul Gandhi's 'smash the patriarchy' talk
 The advertisement was pulled down on Wednesday.
 
 ## ‘Tera bhi number aayega’: Dipke jokes Saurav Das next in line to get beaten up after ‘assault’ on other members
@@ -93,23 +102,11 @@ The appeal further alleged that witnesses were planted, statements of genuine ey
 ## BJP MP Rao Inderjit Singh blames Congress era for Gurugram rain chaos, pitches tunnel fix
 BJP MP Rao Inderjit Singh said underground tunnels, similar to those built for the metro, should be constructed along the routes of the old drains.
 
-## Row over private properties in Telangana prohibited list
-The state government, however, has defended the restrictions, saying they are essential to protect public land and prevent fraudulent registrations.
-
-## Naidu discusses tightening of pilot drug testing rules with officials, airlines
-Redrafting of the Civil Aviation Requirements (CAR) after consultations was among the issues discussed with officials and airlines
-
-## Vijay for PM? TVK leaders make 2029 pitch, Congress reacts
-This sudden push for the “Vijay for PM” narrative has irked Congress, with party leaders remarking that TVK leaders are still operating in a “fan-club mode.”
-
-## Goa Cabinet clears anti-conversion bill ahead of assembly monsoon session
-Goa, where Christians and Muslims make up over 35% of the population, will become the 13th state to have an anti-conversion law if the bill is passed
-
 ## China dividend stocks back in vogue as AI trade fizzles out and bond yields fall
-Chinese investors have been seeking shelter in dividend stocks since a global rout on technology stocks, with a handful of old-economy companies beating chipmakers and artificial intelligence (AI) hardware manufacturers. The Shanghai Stock Exchange Dividend Index of 50 high-dividend stocks from the 
+Chinese investors have been seeking shelter in dividend stocks in the wake of a global rout on technology stocks, with a handful of old-economy companies beating chipmakers and artificial intelligence hardware manufacturers. The Shanghai Stock Exchange Dividend Index of 50 high-dividend stocks from 
 
 ## DeepSeek nears pre-IPO funding round as 2027 market debut takes shape: sources
-DeepSeek is nearing the completion of a new funding round that values the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listing on Shanghai’s Star Market, according to people familiar with the matter. 
+DeepSeek is nearing the completion of a new funding round valuing the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listing on Shanghai’s Star Market, according to people familiar with the matter. The 
 
 ## US sanctions Chinese firms trading with Iran
 The US Department of the Treasury launched targeted sanctions against some 24 entities based in mainland China or Hong Kong as part of its “Operation Economic Outcast” campaign against Iran and its enablers. See below for the original announcement: US Treasury sanctions by scmp
@@ -177,6 +174,9 @@ It operationalizes structural changes that have been unfolding within the armed 
 ## China’s ‘Three-Anti’ Legal Framework in Action
 A suite of laws to counter foreign sanctions, intervention, and long-arm jurisdiction is impacting both cross-border business and geopolitical competition.
 
+## From Hormuz to the Caucasus: The New Geography of Energy Security
+Every crisis in the Middle East returns the world’s attention to the same stretch of water. When tankers are seized, or missiles fly near the Persian Gulf, oil prices move, insurers reprice risk, shipping reroutes, and the United States repositions naval and airpower to keep the Strait of Hormuz ope
+
 ## Russia’s Next Top General: Promotions in Russian Military Leadership
 Judged by the initial strategic goals set by Russian President Vladimir Putin in 2022, Russia’s military lost its war against Ukraine some time ago. Yet Russia’s armed forces have not stopped fighting and continue to prosecute large-scale combat operations in a brutalizing, protracted war sucking up
 
@@ -197,9 +197,6 @@ Two rocks surrounded by coral, with a total land size of less than 10 square met
 
 ## Mental Health Is a Warfighting Readiness Problem for the U.S. Navy
 “You cannot be at mental peace always. You will be worried. So even my family — they are scared all the time, and they were anxiously praying [for] the vessel [to] come out of this area safely.” While Captain Chirag operates a commercial cargo vessel in the Red Sea, his comments in the aftermath of 
-
-## War: Watt Is It Good For?
-Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous strikes deep into areas where Russian jammin
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,6 +222,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The RSF’s defeat will not end Sudan’s war but merely fragment it
+Sudanese army's battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.
+
+## Man United’s Fernandes, City’s Shaw named PFA Players of the Year
+Fernandes rewarded for an outstanding season with a record number of assists in the league; Shaw builds on league win and Golden Boot.
+
+## Trump threatens Iran’s partners: How do secondary sanctions work?
+The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.
+
+## Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal
+Star pair lost to Cobolli and Bencic, who will play married partners Elina Svitolina and Gael Monfils in the semifinal.
+
 ## Top official says Iran, Oman have agreed new temporary route in Hormuz
 Deputy foreign minster says the route's entry as well as part of the exit would run through Iranian territorial waters.
 
@@ -236,18 +245,6 @@ Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spec
 
 ## Massive natural gas leak in Wisconsin puts community on alert
 A truck hit a natural gas pipeline near Saxon, Wisconsin prompted nearby residents to evacuate.
-
-## Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again
-Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.
-
-## At least 14 newborn babies killed in Pakistan hospital nursery fire
-Prime minister orders investigation and promises 'strictest action' against those responsible for the blaze.
-
-## Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says
-Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.
-
-## Instagram chief testifies at Meta trial, says few teens used safety feature
-Meta is on trial over claims it hooked young users on its platforms despite mental health risks.
 
 ## MCA financial year flexibility comes with tax reporting catch for companies
 Companies allowed to align their financial year with overseas parents or for commercial reasons will still have to maintain separate accounts and statements for income tax purposes, according to evidence recorded in the Joint Committee’s report on the Corporate Laws (Amendment) Bill, 2026.
