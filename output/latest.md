@@ -1,22 +1,34 @@
 # AION Intelligence
 
+## Meta to pay up to $16.7bn to settle children’s social media harm case
+Case relating to alleged failures of child protection was getting under way in California
+
+## Victory Capital to acquire First Eagle in $7bn deal
+Acquisition comes after Texas-based investment house lost out on race to buy Janus Henderson earlier this year
+
+## London is worst area in England and Wales for heat-related deaths
+New data shows relative mortality risk increases by 50% when temperature rises above 24C
+
+## Hundreds reported missing after flood on Nepal border with China
+Nepali media report 31 people confirmed dead, with 384 travellers reported missing by tourism authorities
+
+## Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’
+TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams
+
+## Burnham pledges to ‘take pressure off’ business ahead of Budget
+Prime minister tells the FT that he will not tax wealth creators out of the UK but stresses need for social responsibility
+
+## Iran war approaching Ukraine-style stalemate, says shipping boss
+Freight rates remain at record highs while oil prices fall back on talks between Iran and Oman to reopen the Strait of Hormuz
+
 ## Ukraine awards Musk medal as it seeks Starlink approval
 Tech billionaire reluctant to allow satellite system to be used for drone strikes deep inside Russia
 
+## Samsung must pay Swatch $11.6mn over copycat smartwatch apps
+Swiss watchmaker had sought damages of as much as $170mn in London lawsuit over copyright infringement
+
 ## Life inside an American coal mine
 Operators are trying to make familiar an industry that seems consigned to another era
-
-## The end of Trumpsplaining
-The pretence that America’s leader is a grand strategist will not survive the Iran fiasco
-
-## The battle to redraw the global tax map
-UN negotiations challenge corporate ‘profit-shifting’
-
-## Russia’s long war with the west — and with itself
-Could Putin win in Ukraine? Has the Kremlin captured US politics? Three new books analyse Moscow’s strategy and vision of itself as a Eurasian empire
-
-## Edinburgh Fringe sifts unbelievable fact from nonsensical fiction
-Insightful productions probe our relationship with fame, death and sex work — but the clowns steal the show
 
 ## Reform UK pledges to cut data rules and curb liabilities for non-executives
 Nigel Farage’s party woos business by promising to scrap the General Data Protection Regulation if it wins power
@@ -24,44 +36,29 @@ Nigel Farage’s party woos business by promising to scrap the General Data Prot
 ## FirstFT: US Treasury on collision course with Fed
 Also in this newsletter: Darline Graham wins South Carolina primary and Bill Gates calls for ‘human reserved’ jobs to protect them from AI
 
-## Samsung must pay Swatch $11.6mn over copycat smartwatch apps
-Swiss watchmaker had sought damages of as much as $170mn in London lawsuit over copyright infringement
+## From games to communication: How children’s online habits are shifting
+Kids’ porn exposure on mobile devices increases, almost three times from desktop rates
 
-## Macquarie dumps KPMG after Australian data scandal
-PwC retains Australia’s most lucrative audit contract after reversal by financial services group
+## Aastha Spintex fixes Sept 9 as record date for dividend
+The dividend has to be approved by shareholders at the company’s annual general meeting to be held on September 16
 
-## Iranian tankers gather off Sri Lankan coast
-Cut off from home ports by the US blockade, ships seek shelter close to Sri Lanka’s territorial waters
+## Sweet Karam Coffee eyes doubling revenue in FY27 as non-South markets gain traction
+The predominant growth lever for the company, going forward, will be entering new geographies
 
-## Britain needs a new way to pay for healthcare
-Introducing co-payment will make us more like our rich-world peers and put us on a sustainable footing
+## Indian mills gate, wholesale sugar prices continue to decline
+Buyers begin calling shots in mill tenders, but retail prices rule above ₹60 a kg
 
-## UK household energy bills to hit three-year high from October
-Middle East war pushes price cap up 4% to £1,723 a year
+## Skyways Air, Symbiotec Pharmalab IPOs receive over 5x subscription on closing day
+Skyways Air Services and Symbiotec Pharmalab will list on BSE, NSE on September 1
 
-## Broker’s Call: Hyundai Motor India (Buy)
-Emkay Global
+## Utsav raises ₹36 crore in round led by Atomic Capital
+The funds will expedite Utsav’s product, technology, and team growth as it builds a digital layer connecting devotees, temples, and rituals in India and the diaspora
 
-## HAL and Safran ink deal for joint development, manufacture of new-generation copter engine
-The Design & Development of Aravalli engine is expected to be completed by 2032–33, HAL said on Wednesday
+## Apollo’s flagship oncology unit in Teynampet expands footprint into multi-speciality healthcare
+The upgraded facility comprises 300 beds, including 51 critical care beds, supported by 5 modern operating theatres and 1 Cath Lab
 
-## Wipro Consumer Care enters pet food market with launch of Snuggles
-The launch marks Wipro's first step in building a presence in India's fast-growing pet food market, estimated at over ₹5,500 crore
-
-## Nepal floods: Monsoon ‘low’ over India blamed as rain systems converge
-WMO Beijing centre links deadly floods and landslides to vigorous monsoon; more heavy rain looms over Nepal and East India
-
-## Prudential to sell 2% stake in ICICI Prudential AMC worth about $333 million
-The proposed sale would reduce the shareholding of ICICI Prudential AMC’s promoters to 85.6%
-
-## Today’s Gold Rate, Aug 26: Check gold rates in Delhi, Mumbai, Chennai
-22, 24 carat Gold prices remain steady across metro cities on August 26
-
-## Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities
-22, 24 carat Gold prices remain steady across Tier two on August 26
-
-## Singapore court dismisses all of Tata Power's challenges to USD 490 million arbitration awards in favour of Kleros
-Singapore court dismisses all of Tata Power's challenges to USD 490 million arbitration awards in favour of Kleros
+## Cross-Strait youth exchange event highlights shared bonds, common future
+Cross-Strait youth exchange event highlights shared bonds, common future
 
 ## Explained: When it makes sense to take a joint home loan and when it doesn’t
 When two earning members of a household apply together for a loan, their combined income can potentially improve loan eligibility and help manage repayment burden more efficiently. Most banks and HFCs reiterate that adding an earning family member as a co-applicant can improve their borrowing eligib
@@ -87,29 +84,29 @@ Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana
 ## Gold steady near three-month high; silver rises as investors await US inflation data
 
 
+## Delhi family leaves Udaipur luxury hotel without paying ₹5.74 lakh bill: Report
+The family stayed at the Oberoi Udaivilas from August 14 to 23. While checking out, he told the hotel staff that bill would be paid by the travel agency
+
+## STF arrests Assam man, 21, for links with Pak-based Shahzad Bhatti terror group
+The Assam police’s Special Task Force (STF), in a joint operation with Hailakandi district police, arrested Fazal Islam Barbhuiyan
+
+## Injured tiger rescued from Uttarakhand’s Terai West forest dies during treatment
+Corbett National Park warden Binder Pal Singh said the adult male tiger was rescued and shifted to the rescue centre in the Dhela range of the national park for treatment.
+
+## Rahul Gandhi asked Pawan Khera to target Himanta before Assam polls, claims Kiren Rijiju amid swimming tiff
+Kiren Rijiju claimed that he was told by two Congress members that Khera made the allegations against Sarma at Rahul Gandhi's behest.
+
+## Danish firms ready to pay premium to build ships in India: Denmark’s Ambassador
+Danish companies are willing to pay higher initial costs to build ships in India as Western economies seek alternatives to China and South Korea amid tensions.
+
+## HT Evening News Brief Aug 26: India slams UN over report, GIVA caves to backlash, Toxic review, Nepal floods
+HT Evening News Brief Aug 26: GIVA Jewellery has pulled its Kriti Sanon ad amid growing backlash over her attire, which critics called "against Indian culture".
+
 ## Over 72 roads blocked by boulder falls as Uttarakhand braces for heavy rain
 The India Meteorological Department (IMD) warned of thunderstorms, lightning and intense spells of rain at isolated places over the next few days in Uttarakhand.
 
 ## Piyush Goyal to visit US for G20 trade ministers meet in Sept, hold bilateral talks with USTR Greer
 Goyal is likely to hold bilateral meetings with his counterparts on the sidelines of the ministerial to discuss ways to boost two-way commerce and investments.
-
-## Over 50 Tamil Nadu pilgrims stranded after flash floods at Nepal-China border
-More than 50 pilgrims from Tamil Nadu are stranded after flash floods hit the Bhote Koshi River near the Nepal-China border; rescue efforts are underway.
-
-## Meghalaya assembly passes unanimous resolution against uranium mining
-Sangma said the resolution reflected the long-standing concerns of people living in areas such as Domiasiat, Wahkijn and Lostoin
-
-## PM Modi speaks to Nepal's Balen Shah over deadly floods, assures ‘all possible humanitarian assistance’
-PM Modi said that India is coordinating ‘closely on rescue and relief efforts' in Nepal after deadly flash floods claimed several lives.
-
-## Bengal: 65-year-old woman killed in Howrah apartment fire, 12 rescued
-At least 12 people residing on other floors of the five-storey building at Andul in West Bengal’s Howrah district were rescued by locals, police and fire brigade personnel
-
-## ‘Get this started or…': CJP warns Delhi CM Rekha Gupta over condition of govt schools
-CJP's Saurav Das said he conducted an audit of the school as part of a campaign and alleged major safety concerns and that students lacked basic facilities.
-
-## Rise in sugar prices take a toll on West Bengal’s sweet industry ahead of festive season
-Sugar prices in West Bengal have risen sharply over the past fortnight, prompting sweet makers to raise prices and warn of further hikes ahead of the festive season.
 
 ## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
 China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
@@ -135,6 +132,12 @@ DeepSeek is nearing the completion of a new funding round valuing the company at
 ## US sanctions Chinese firms trading with Iran
 The US Department of the Treasury launched targeted sanctions against some 24 entities based in mainland China or Hong Kong as part of its “Operation Economic Outcast” campaign against Iran and its enablers. See below for the original announcement: US Treasury sanctions by scmp
 
+## Why Iran Might Escalate
+As Trump’s economic warfare takes its toll, Tehran will be tempted to go on the offensive in search of greater leverage
+
+## Why Iceland Might Finally Join the EU
+The Nordic country has long evaded the bloc. After a referendum on Saturday, that might change.
+
 ## Is Europe Ready for a New Era of Russian Dirty Tricks?
 After the Kremlin’s failure in Ukraine, Putin’s new plan aims westward.
 
@@ -152,12 +155,6 @@ A defiant Tehran has many tools for economic resilience.
 
 ## Mike Huckabee Reckons With the Disturbing Reality of Settler Violence
 Huckabee, a longtime supporter of settlements, recently invoked the Bible against Israeli settlers.
-
-## Why Even a Cornered Putin Won’t Press the Red Button
-Great powers have been humbled many times without escalating to nuclear war.
-
-## Peacemaking Is Power Politics Again
-The post-Cold War model of institutionalized peacemaking has waned. But influential capitals are still looking to end and avoid conflicts.
 
 ## Pakistan’s Kashmir Crackdown
 A “sham” election sparked popular outrage in nominally autonomous Pakistan-administered Kashmir – and a corresponding security crackdown.
@@ -231,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns
+A nursery for critical infants — supposedly the safest place in Islamabad's PIMS hospital — turned into a deathtrap.
+
+## Callaway apologises after golf ad slammed for depicting domestic violence
+The advert, which was released online last week before being pulled, prompted calls for a boycott of Callaway products.
+
+## A teacher’s slap, student’s death revive India’s corporal punishment debate
+Teja's death raises question India has not fully answered: why more than a decade after ban is hitting children routine?
+
+## ICC chief urges Japan to counter US pressure on the court
+Washington escalated its campaign against the ICC last week by sanctioning its president and a senior trial lawyer.
+
+## Deadly flash floods sweep through northern Nepal
+Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.
+
 ## CCTV captures terrifying mudslide engulfing Nepal-China border
 CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.
 
@@ -239,21 +251,6 @@ Thirty-six teams will learn their fate in a draw for the group phase, which will
 
 ## Photos: Avalanche floods kill eight, hundreds missing in Nepal’s Himalayas
 Flash floods devastate Nepal's Himalayas, washing away villages and infrastructure along the Bhotekoshi river.
-
-## England footballer Sterling charged with dangerous driving after collision
-Raheem Sterling has also been accused of possession ​of nitrous oxide and will appear in court on September 15.
-
-## Iran, Oman agree on temporary Hormuz route: What we know
-Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.
-
-## Dead whale washes ashore on beach in Mexico
-A roughly 12-metre-long whale has been found dead on a beach in Tijuana, Mexico.
-
-## Why India is sharing missile secrets with its private sector
-New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.
-
-## Mother and daughter detained by ICE in hospital after car crash
-Mother and daughter detained by ICE in hospital after car crash
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
