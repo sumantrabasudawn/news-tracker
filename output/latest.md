@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## FirstFT: US Treasury on collision course with Fed
+Also in this newsletter: Darline Graham wins South Carolina primary and Bill Gates calls for ‘human reserved’ jobs to protect them from AI
+
+## Argentines struggle to repay debts in Milei’s painful economic overhaul
+Overdue loans become flashpoint in debate over president’s policies ahead of 2027 election
+
 ## Iranian tankers gather off Sri Lankan coast
 Cut off from home ports by the US blockade, ships seek shelter close to Sri Lanka’s territorial waters
 
@@ -18,38 +24,32 @@ World’s third-largest carmaker to release dozens of new and updated models by 
 ## Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI
 Tech billionaire publishes 6,000-word essay warning the technology will usher in ‘one of the most turbulent times in human history’
 
-## FirstFT: US Treasury on collision course with Fed
-Also in this newsletter: Cashing in on EU sanctions and Germany’s defence push
+## Macquarie dumps KPMG in wake of Australian data scandal
+PwC retains Australia’s most lucrative audit contract after reversal by financial services group
 
-## Spain’s Ceuta crisis festers as Madrid faces allegations of failing to tackle fallout
-Also in this newsletter: Ukraine wants EU cash to buy US missiles
+## Centre to sell onions at ₹35/kg in Delhi from Thursday amid price surge
+The onions being released into the market are from a buffer stock of 1.21 lakh tonne maintained across producing States for 2026
 
-## Nvidia’s $200bn ‘balance sheet-as-a-service’
-Because ‘vendor finance’ are such ugly words
-
-## Sensex today | Stock Market Live: Sensex flat, Nifty slips as global cues improve
+## Sensex today | Stock Market Live: Sensex closes 183 points lower at 77,472; Nifty sheds 127 points
 Sensex, Nifty, Stock Price Live Updates: Sensex and Nifty traded mixed on Wednesday as easing crude oil prices improved the risk backdrop. The Nifty hovered near 24,300, with 24,200 emerging as key support and 24,350-24,375 likely to determine the next directional move.
 
-## NCLT allows Subhash Chandra to pay ₹6.5 crore against claims of ₹22,006.57 crore
-Sharma directed the consequential redistribution of the repayment amount amongst the remaining eligible creditors in accordance with the approved Repayment Plan
+## L&T partners with French firm to market specialised road construction equipment in India
+The partnership combines BOMAG’s renowned road construction technologies with L&T’s strong customer relationships and nationwide product support
 
-## Skyways Air, Symbiotec Pharmalab IPOs Day 3: Cross 4x subscription
-Skyways Air Services IPO was subscribed 4.48 times and Symbiotec Pharmalab IPO was subscribed 4.45 times at the time of writing (2.42 pm)
+## Hindustan Copper shares up 5.6%, OFS opened for retail investors today
+At 3.07 pm, the stock traded at ₹554.55 on the NSE, rising to ₹562.60 from the previous close of ₹532.65
 
-## Flight ticket prices may remain high in India despite easing jet fuel rates
-Airlines may keep fares high on resilient passenger demand, S&P report says
+## Flipkart Minutes overtakes Swiggy Instamart in dark stores across top 10 cities
+Blinkit leading with 969 stores, followed by Zepto at 828, Flipkart Minutes at 627, Swiggy Instamart at 615 and BigBasket at 497
 
-## Maruti Suzuki becomes first PV manufacturer to dispatch vehicles by rail to TN’s Pollachi Railway Terminal
-Maruti Suzuki has worked closely with Indian Railways to operationalise Pollachi Railway Terminal for rail-based vehicle dispatches
+## Voice AI startup Ringg AI raises $10 million as an extension to Series A round
+The new capital will be used to strengthen Ringg’s AI platform, expand its voice, WhatsApp and browser agents and deepen investments in its proprietary AI models and context graph
 
-## AI firms debate putting cyber tests online after model hacks
-Cybersecurity specialists are debating whether they should connect the virtual testing environments where they experiment with dangerous software, known as sandboxes, to the internet
+## BSE, NSE fine NTPC, SJVN, REC for non-compliance
+The penalties totalling ₹59.14 crore pertain to non-compliance with listing regulations
 
-## MG Hector Tomahawk EV launched at ₹13.99 lakh, PHEV at ₹21.79 lakh
-JSW MG Motor is taking its battery-rental strategy into larger SUVs, pricing the Hector Tomahawk EV from ₹13.99 lakh and its plug-in hybrid from ₹21.79 lakh under BaaS as it targets petrol and diesel rivals
-
-## RHINOSHIELD AirX Sets GUINNESS WORLD RECORDS™ Title in Record-Breaking Near-Space Drop Challenge
-RHINOSHIELD AirX Sets GUINNESS WORLD RECORDS™ Title in Record-Breaking Near-Space Drop Challenge
+## Asus Pad T3201: The joys of an advanced Tandem OLED display
+Stunning visuals, slim form and a refined Android tablet experience
 
 ## Rs 30 lakh a month for an intern? India’s high-speed trading firms are in a fierce talent war
 In a bid to attract the brightest minds, high-frequency trading firms in India are ramping up intern compensation to unprecedented levels. This surge in hiring is influenced by stricter regulations on derivatives and a lull in equity market movements. Companies such as Quadeye and Graviton Research 
@@ -75,29 +75,29 @@ Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana
 ## Bank holiday today: Are banks open or closed on August 26? Check state-wise details
 Mark your calendars: many bank branches will observe closures on Wednesday, August 26, for the Id-E-Milad and Thiruvonam festivals. Although branches will be closed, customers can still use ATMs and online services. Don’t forget that banks will also shut down for a regular holiday on Sunday, August 
 
+## ‘No one will forget Hathras…’: Akhilesh Yadav hits out at BJP over women's safety
+Speaking at a press conference in Lucknow, Akhilesh Yadav also questioned the Central government over the implementation of the Women's Reservation Bill, 2023.
+
+## Sukesh Chandrasekhar convicted for impersonating SC judge to get bail: ‘Didn’t just cross the line but leapt over it'
+Sukesh Chandrasekhar was reportedly convicted by a Delhi court for impersonating a sitting Supreme Court judge to get bail in April 2017.
+
+## Delhi court acquits two men in 2016 murder case, says suspicion cannot replace proof
+Delhi court acquits two men in 2016 murder case, says suspicion cannot replace proof
+
+## Karnataka Minister Khader seeks action against Central official over Datura licence suspension delay
+Karnataka Minister Khader seeks action against Central official over Datura licence suspension delay
+
+## High vigilance necessary for H1N1, no cause for panic, says Indian Medical Association; warns against antibiotics use
+According to the advisory, ICMR has confirmed that the circulating virus remains seasonal Influenza A (H1N1), with no novel genetic mutations detected.
+
+## Railway gateman hit by train at Uttarakhand’s Girdhar crossing, dies: Police
+Railway gateman was killed after being struck by a train at the Girdhar railway crossing in Kashipur, Uttarakhand, early on Wednesday
+
+## HT Exclusive: After opening missile manufacturing to pvt sector, Modi govt targets 1,500km strike range
+By allowing the private sector into the missile sector, the government has dramatically scaled up the production numbers.
+
 ## One for the future: Gen Alpha rise to demand accountability, better infrastructure
 One for the future: Gen Alpha rise to demand accountability, better infrastructure
-
-## Zohran Mamdani's remarks on RSS chief Mohan Bhagwat's New York event draw flak, support
-Mohan Bhagwat is scheduled to address the Indian diaspora at the 'Universal Oneness Celebrations' at Madison Square Garden on August 29.
-
-## SP promises 'Stree Samman Samriddhi Yojana' if voted to power in 2027 Assembly polls
-SP promises 'Stree Samman Samriddhi Yojana' if voted to power in 2027 Assembly polls
-
-## Bodies of 1 woman, 5 children found in Karnataka lake, probe underway: Police
-On Monday, around 5am, he found that his wife and four children were missing from the house, police said
-
-## Row erupts in Maharashtra as opposition slams CM Fadnavis over MPSC recruitment exam cancellation, paper leak
-The MPSC exam was cancelled based on a preliminary inquiry conducted after complaints regarding alleged malpractice.
-
-## At 22,000 feet, -15°C: DRDO pulls off high-altitude combat parachute test
-The trial was conducted at Dropzone, in one of the world’s highest altitude zones in the Leh district of Ladakh.
-
-## Jadavpur unrest probe committee to hold first meeting this week after 'injured' VC rejoins
-Jadavpur unrest probe committee to hold first meeting this week after 'injured' VC rejoins
-
-## India rejects ‘politically motivated, malicious references' in UN panel's rights report
-Ministry of External Affairs, in a statement, said India had participated in the review in a “spirit of constructive engagement”.
 
 ## Chinese hotpot chain Haidilao bets on takeaway, new brands, lower-tier reach for growth
 China’s largest hotpot chain Haidilao International Holding has seen takeaway emerge as its fastest-growing segment, with demand for single-serving meals like rice-bowl sets surging, amid positive revenue and profit growth in the first half. Takeaway revenue for the Hong Kong-listed group reached 2.
@@ -123,6 +123,9 @@ Across the globe – and Asia in particular – the link between a changing clim
 ## China rushes to develop Moderna-style cancer vaccines amid market frenzy
 A group of Hong Kong-listed biotechnology companies have seen their stock prices surge in the wake of Moderna’s breakthrough cancer vaccine trial, as the Chinese companies push forward with similar vaccine programmes. The companies – from Jiangsu Hengrui Pharmaceuticals to Li Ka-shing-backed CK Life
 
+## Is Europe Ready for a New Era of Russian Dirty Tricks?
+After the Kremlin’s failure in Ukraine, Putin’s new plan aims westward.
+
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
 
@@ -144,8 +147,8 @@ Great powers have been humbled many times without escalating to nuclear war.
 ## Peacemaking Is Power Politics Again
 The post-Cold War model of institutionalized peacemaking has waned. But influential capitals are still looking to end and avoid conflicts.
 
-## A Pact Without Impact
-The Mecca Joint Defense Agreement faces all the classic challenges of an alliance with none of the unifying elements.
+## Pakistan’s Kashmir Crackdown
+A “sham” election sparked popular outrage in nominally autonomous Pakistan-administered Kashmir – and a corresponding security crackdown.
 
 ## The South Korean Government’s Housing Policy Tanks Its Approval Ratings
 Even the historic Yongsan Park isn’t safe from the government’s desire for more housing.
@@ -167,9 +170,6 @@ China wants more influence in Indonesia’s defense sector. Jakarta should make 
 
 ## Pakistan Passes Legislation to Formalize New Military Command Structure
 It operationalizes structural changes that have been unfolding within the armed forces over the past year.
-
-## China’s ‘Three-Anti’ Legal Framework in Action
-A suite of laws to counter foreign sanctions, intervention, and long-arm jurisdiction is impacting both cross-border business and geopolitical competition.
 
 ## From Hormuz to the Caucasus: The New Geography of Energy Security
 Every crisis in the Middle East returns the world’s attention to the same stretch of water. When tankers are seized, or missiles fly near the Persian Gulf, oil prices move, insurers reprice risk, shipping reroutes, and the United States repositions naval and airpower to keep the Strait of Hormuz ope
@@ -219,6 +219,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## One US dollar now costs 2 million rials in Iran, and here’s what it can buy
+Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices.
+
+## At least eight killed as Nepal flash flood damages roads, energy facilities
+Authorities say casualties could be much higher, alongside heavier losses of property.
+
+## Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
+Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre "completely ​destroyed by fire".
+
 ## The Bulgarian village that fears becoming an Iranian target
 US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
 
@@ -233,15 +242,6 @@ UN chief Guterres said the attack underscores 'the alarming security situation i
 
 ## Thousands in Japan are pulling this historic castle back into place
 Thousands in Japan are pulling this historic castle back into place
-
-## Lindsey Graham’s sister up for election to his US Senate seat
-Lindsey Graham's sister up for election to his US Senate seat
-
-## Trump’s Korean gambit exposes a shifting East Asian order
-Growing doubts about the US security umbrella are forcing new strategic calculations across the region.
-
-## Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam
-The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
