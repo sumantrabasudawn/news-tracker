@@ -36,11 +36,11 @@ Continent’s gas inventories were already low before Iran war disrupted shipmen
 ## How First Brands’ billion-dollar rescue hit the skids
 Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
 
-## Persisting retail F&O losses spur call for tighter eligibility filters
-Experts seek income tests and exams to restrict derivatives access to informed investors
-
 ## How Chennai’s Neurostellar is measuring the mental stamina of Chess players
 Chennai deep tech startup’s device used by World Chess Champion Gukesh among others; available for pre-order at $250
+
+## Persisting retail F&O losses spur call for tighter eligibility filters
+Experts seek income tests and exams to restrict derivatives access to informed investors
 
 ## UN:BLOC launches website for patients with chronic diseases
 The healthcare venture seeks to offer an alternative approach to managing chronic conditions such as diabetes, hypertension, thyroid disorders, PCOS and obesity
@@ -108,6 +108,9 @@ DCP Sachin Sharma said the man was at a financial consulting firm and left his j
 ## Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’
 Announcing the “Election Commission Chalo” campaign in Bengaluru on September 1, Raj said civil society groups would march against SIR of electoral rolls.
 
+## China rushes to develop Moderna-style cancer vaccines amid market frenzy
+A group of Hong Kong-listed biotechnology companies have seen their stock prices surge in the wake of Moderna’s breakthrough cancer vaccine trial, as the Chinese companies push forward with similar vaccine programmes. The companies – from Jiangsu Hengrui Pharmaceuticals to Li Ka-shing-backed CK Life
+
 ## Super-rich losing millions as some Hong Kong trophy homes sell at painful discounts
 Hong Kong has seen a string of cut-price deals for super-luxury homes in recent months, with financially pressured owners accepting eye-watering losses to exit the market even as demand for trophy homes remains strong. Among the latest examples is the sale of a Bel-Air luxury house for HK$138 millio
 
@@ -128,9 +131,6 @@ Family offices in the Asia-Pacific region are putting more funding into sustaina
 
 ## China taps high-altitude winds for power generation by flying craft to 4,000m
 China has flown an airborne wind energy system to 4,000 metres (13,123 feet) above sea level and generated electricity from the sky, in what state broadcaster CCTV described as a world first. According to a CCTV report on Saturday, the prototype S4000 craft completed a full work cycle – ascent, stat
-
-## How full equity buyouts could help China’s cooling bubble tea sector turn a new leaf
-Fuelled by the recent bubble tea boom and an intensely competitive market, financial investors have shown growing interest in the sector’s major brands, shifting their playbook from early-stage bets and initial public offering subscriptions to full equity buyouts. Growth of mid to high single digits
 
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Human rights situation in Myanmar ‘plummets to new low’, UN says
+New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.
+
+## Iran war live: Iran says Hormuz remains closed despite Oman route deal
+Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.
+
 ## Brazil fines TikTok $30m for child data privacy violations
 Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.
 
@@ -245,12 +251,6 @@ Health Ministry warns of 'complete collapse of the basic necessities of life' in
 
 ## US soldier who called for Trump impeachment facing military charges
 Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.
-
-## US lawmakers urge Trump team to free of American student held by Israel
-Congress members call on Marco Rubio to 'use every tool' at his disposal to secure release of 20-year-old Sama Safi.
-
-## Syrian Democratic Forces announce their dissolution
-The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
