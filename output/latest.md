@@ -27,29 +27,29 @@ World’s third-largest carmaker to release dozens of new and updated models by 
 ## Macquarie dumps KPMG after Australian data scandal
 PwC retains Australia’s most lucrative audit contract after reversal by financial services group
 
+## Home loan portfolio set to cross ₹10 lakh crore milestone this quarter: SBI Chairman
+The lender has more than 460 home loan processing centres across India with nearly 28% market share
+
+## India, China can help resolve West Asia conflict: Hillary Clinton
+Clinton stated on Monday that Trump’s potential solution lies with China and India, as they are the top buyers of oil and gas from Iran
+
+## ICAT issues first compliance certificate for 15-metre multi-axle sleeper bus
+The certificate has been awarded to Synaty Automotive Pvt. Ltd. for its 15-metre multi-axle sleeper bus under AIS-119 and AIS-153 in accordance with the provisions of the Central Motor Vehicles Rules
+
+## Medicover India's 25 hospitals to be profitable in 18 months, executive says
+
+
+## Lumino Industries IPO: All you need to know before investing
+Sushil Finance Recommedation, anchor investors
+
+## Octave sets up tech centre with 1,600 engineers in Hyderabad
+The company has also set up its Experience Centre at the Hyderabad office, showcasing its connected, contextual intelligence solutions and technology capabilities
+
+## Egg prices crash by over 20% from peak, chicken rates ease as demand drops during Shravan period
+However, egg prices are ruling higher than the year-ago period and will likely rise after the austere period gets over
+
 ## From subsistence to enterprise: J&K’s Lakhpati Didis change rural lives
 According to official data, J&K has identified around 2.6 lakh potential beneficiaries, of whom about 2.40 lakh have already crossed the ₹1 lakh annual income threshold
-
-## NOVVA Group and Mongolia's MDDIC sign MOU on clean-powered AI infrastructure, supporting Mongolia's "Sovereign by Design" green AI data centre initiative
-NOVVA Group and Mongolia's MDDIC sign MOU on clean-powered AI infrastructure, supporting Mongolia's "Sovereign by Design" green AI data centre initiative
-
-## Gaja Alternative shares end with 5.4% listing gains, below ₹185 debut price
-The stock listed at ₹185 on the NSE, against the issue price of ₹160, while on the BSE it began trading at ₹185.20, a 15.7% premium
-
-## Sensex today | Stock Market Highlights: Sensex closes 183 points lower at 77,472; Nifty sheds 127 points
-Sensex, Nifty, Stock Price Highlights: Sensex closed 183.15 points, or 0.24% lower, at 77,472.94, while the Nifty 50 shed 126.80 points, or 0.52%, to close at 24,207.75
-
-## Gold rally takes a breather ahead of US inflation data
-Spot gold fell 0.9% to $4,616.62 ‌per ounce by 0927 GMT, after prices climbed to their highest since May 14 on Tuesday following ‌the US
-
-## Skyways Air, Symbiotec Pharmalab IPOs receive 5x subscription on closing day
-Skyways Air Services and Symbiotec Pharmalab will list on BSE, NSE on September 1.
-
-## Mahindra Holidays receives ₹11.34-cr GST demand notice
-The company stated it doesn’t expect the show cause notice to materially impact finances and is pursuing legal remedies with the Additional/Joint Commissioner, Central GST Audit, Dehradun
-
-## TN Health minister inaugurates Maa Kauvery, Chennai’s new 120-bed exclusive women and children’s hospital
-Offering services related to maternity care, obstetrics and gynaecology, fertility, neonatology, paediatrics and paediatric critical care
 
 ## Explained: When it makes sense to take a joint home loan and when it doesn’t
 When two earning members of a household apply together for a loan, their combined income can potentially improve loan eligibility and help manage repayment burden more efficiently. Most banks and HFCs reiterate that adding an earning family member as a co-applicant can improve their borrowing eligib
@@ -75,29 +75,29 @@ Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana
 ## Gold steady near three-month high; silver rises as investors await US inflation data
 
 
+## Meghalaya assembly passes unanimous resolution against uranium mining
+Sangma said the resolution reflected the long-standing concerns of people living in areas such as Domiasiat, Wahkijn and Lostoin
+
+## PM Modi speaks to Nepal's Balen Shah over deadly floods, assures ‘all possible humanitarian assistance’
+PM Modi said that India is coordinating ‘closely on rescue and relief efforts' in Nepal after deadly flash floods claimed several lives.
+
+## Bengal: 65-year-old woman killed in Howrah apartment fire, 12 rescued
+At least 12 people residing on other floors of the five-storey building at Andul in West Bengal’s Howrah district were rescued by locals, police and fire brigade personnel
+
+## ‘Get this started or…': CJP warns Delhi CM Rekha Gupta over condition of govt schools
+CJP's Saurav Das said he conducted an audit of the school as part of a campaign and alleged major safety concerns and that students lacked basic facilities.
+
+## Rise in sugar prices take a toll on West Bengal’s sweet industry ahead of festive season
+Sugar prices in West Bengal have risen sharply over the past fortnight, prompting sweet makers to raise prices and warn of further hikes ahead of the festive season.
+
+## Rahul slams Bihar govt over ‘AK-47 firing on students’ protesting over BPSC exam: ‘BJP turning police into weapon’
+Rahul Gandhi said the government was using batons and water cannons on students instead of hearing them, alleging AK-47 firing on protesters in Siwan.
+
 ## Did Maharashtra FDA chief Tukaram Mundhe target Shah Rukh Khan, Ajay Devgn over Vimal ad? He clarifies
 Tukaram Mundhe said the rules apply to promoters as well as advertisers, while the FDA is also taking action against manufacturers and sellers.
 
 ## Kota: 20-year-old NEET aspirant from MP found dead in rented flat
 The student, a resident of Chhatarpur, was living in Kota with her younger sister and was preparing for the NEET examination at a private coaching institute.
-
-## ‘No one will forget Hathras…’: Akhilesh Yadav hits out at BJP over women's safety
-Speaking at a press conference in Lucknow, Akhilesh Yadav also questioned the Central government over the implementation of the Women's Reservation Bill, 2023.
-
-## Sukesh Chandrasekhar convicted for impersonating SC judge to get bail: ‘Didn’t just cross the line but leapt over it'
-Sukesh Chandrasekhar was reportedly convicted by a Delhi court for impersonating a sitting Supreme Court judge to get bail in April 2017.
-
-## Delhi court acquits two men in 2016 murder case, says suspicion cannot replace proof
-Delhi court acquits two men in 2016 murder case, says suspicion cannot replace proof
-
-## Karnataka Minister Khader seeks action against Central official over Datura licence suspension delay
-Karnataka Minister Khader seeks action against Central official over Datura licence suspension delay
-
-## High vigilance necessary for H1N1, no cause for panic, says Indian Medical Association; warns against antibiotics use
-According to the advisory, ICMR has confirmed that the circulating virus remains seasonal Influenza A (H1N1), with no novel genetic mutations detected.
-
-## Railway gateman hit by train at Uttarakhand’s Girdhar crossing, dies: Police
-Railway gateman was killed after being struck by a train at the Girdhar railway crossing in Kashipur, Uttarakhand, early on Wednesday
 
 ## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
 China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
@@ -219,6 +219,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why India is sharing missile secrets with its private sector
+New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.
+
+## Mother and daughter detained by ICE in hospital after car crash
+Mother and daughter detained by ICE in hospital after car crash
+
+## Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle
+Over 20,000 participants hurled 165 tonnes of tomatoes in Buñol's streets during Spain's famed La Tomatina festival.
+
+## Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille
+Sought-after Bouaddi joins the Premier League club on a five-year deal worth $117m.
+
 ## Infantino has no future at FIFA, says European Leagues chief
 Claudius Schaefer insists the influence of the FIFA president has 'grown from year to year'.
 
@@ -230,18 +242,6 @@ Experts say Japanese lawmakers' visit to Beijing signals an attempt by Japan to 
 
 ## One US dollar now costs 2 million rials in Iran, and here’s what it can buy
 Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices.
-
-## At least eight killed as Nepal flash flood damages roads, energy facilities
-Authorities say casualties could be much higher, alongside heavier losses of property.
-
-## Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
-Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre "completely ​destroyed by fire".
-
-## The Bulgarian village that fears becoming an Iranian target
-US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
-
-## Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
-Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
