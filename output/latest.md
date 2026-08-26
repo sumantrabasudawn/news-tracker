@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’
+TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams
+
 ## Meta to pay up to $16.7bn to settle children’s social media harm case
 Case relating to alleged failures of child protection was getting under way in California
 
@@ -10,10 +13,7 @@ Acquisition comes after Texas-based investment house lost out on race to buy Jan
 New data shows relative mortality risk increases by 50% when temperature rises above 24C
 
 ## Hundreds reported missing after flood on Nepal border with China
-Nepali media report 31 people confirmed dead, with 384 travellers reported missing by tourism authorities
-
-## Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’
-TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams
+Nepal says more than 50 people confirmed dead, with 384 foreign and local tourists reported missing
 
 ## Burnham pledges to ‘take pressure off’ business ahead of Budget
 Prime minister tells the FT that he will not tax wealth creators out of the UK but stresses need for social responsibility
@@ -36,29 +36,32 @@ Nigel Farage’s party woos business by promising to scrap the General Data Prot
 ## FirstFT: US Treasury on collision course with Fed
 Also in this newsletter: Darline Graham wins South Carolina primary and Bill Gates calls for ‘human reserved’ jobs to protect them from AI
 
-## From games to communication: How children’s online habits are shifting
-Kids’ porn exposure on mobile devices increases, almost three times from desktop rates
+## Avaada Electro files IPO papers with SEBI, eyes ₹7,600 crore
+The IPO comprises a ₹1,600-crore fresh issue and a ₹6,000-crore OFS by promoter Avaada Ventures Private Ltd
 
-## Aastha Spintex fixes Sept 9 as record date for dividend
-The dividend has to be approved by shareholders at the company’s annual general meeting to be held on September 16
+## Axis Energy teams up with Lumara for a 400 MW Solar Project in AP
+The project is expected to create significant employment opportunities for local communities
 
-## Sweet Karam Coffee eyes doubling revenue in FY27 as non-South markets gain traction
-The predominant growth lever for the company, going forward, will be entering new geographies
+## Meta reaches $17 billion settlement with states in landmark trial over teen social media addiction
+The lawsuit accused Meta of contributing to the youth mental health crisis by deliberately designing features that addict children to its platforms and hiding them from the public
 
-## Indian mills gate, wholesale sugar prices continue to decline
-Buyers begin calling shots in mill tenders, but retail prices rule above ₹60 a kg
+## Generali Central Insurance examining health insurance product that will link premiums to policyholder’s location
+Company also weighing covers for cyber-related risks faced by bank depositors and identity theft
 
-## Skyways Air, Symbiotec Pharmalab IPOs receive over 5x subscription on closing day
-Skyways Air Services and Symbiotec Pharmalab will list on BSE, NSE on September 1
+## Pocket
 
-## Utsav raises ₹36 crore in round led by Atomic Capital
-The funds will expedite Utsav’s product, technology, and team growth as it builds a digital layer connecting devotees, temples, and rituals in India and the diaspora
 
 ## Apollo’s flagship oncology unit in Teynampet expands footprint into multi-speciality healthcare
 The upgraded facility comprises 300 beds, including 51 critical care beds, supported by 5 modern operating theatres and 1 Cath Lab
 
-## Cross-Strait youth exchange event highlights shared bonds, common future
-Cross-Strait youth exchange event highlights shared bonds, common future
+## TVS Motor celebrates one million TVS iQube families with MillionR special edition
+The new MillionR edition marks this achievement while reinforcing TVS iQube’s position as India’s favourite family EV
+
+## Indian carriers have Philippines on radar, Air India increases capacity, IndiGo plans new flights
+Over 60,000 Indians visited Philippines in the first six months of CY2026 taking advantage of visa free entry scheme
+
+## Trump’s immigration crackdown: H-1B fee hike, visa appointments halted; key changes explained
+
 
 ## Explained: When it makes sense to take a joint home loan and when it doesn’t
 When two earning members of a household apply together for a loan, their combined income can potentially improve loan eligibility and help manage repayment burden more efficiently. Most banks and HFCs reiterate that adding an earning family member as a co-applicant can improve their borrowing eligib
@@ -81,8 +84,11 @@ What happens when the world stops buying Iran oil due to the threat of secondary
 ## Top stocks to buy today: Stock recommendations for August 26, 2026 - check list
 Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana Hrudayalaya - these are the top stok picks from Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for August 26, 2026:
 
-## Gold steady near three-month high; silver rises as investors await US inflation data
+## Nepal flash floods trigger alert across border districts of Uttar Pradesh, Bihar
+Heavy rain and the opening of barrage gates in Nepal could also increase flow into the Ghaghara and Rapti rivers in Uttar Pradesh and the Kosi in Bihar.
 
+## 100+ Indians, 37 NRIs missing as Nepal floods toll mounts, Bihar, UP on alert: What is happening?
+Around 105 Indian nationals and 37 NRIs are among the foreigners missing and out of contact after a flash flood in the Bhote Koshi River in Nepal's Rasuwa.
 
 ## Delhi family leaves Udaipur luxury hotel without paying ₹5.74 lakh bill: Report
 The family stayed at the Oberoi Udaivilas from August 14 to 23. While checking out, he told the hotel staff that bill would be paid by the travel agency
@@ -101,12 +107,6 @@ Danish companies are willing to pay higher initial costs to build ships in India
 
 ## HT Evening News Brief Aug 26: India slams UN over report, GIVA caves to backlash, Toxic review, Nepal floods
 HT Evening News Brief Aug 26: GIVA Jewellery has pulled its Kriti Sanon ad amid growing backlash over her attire, which critics called "against Indian culture".
-
-## Over 72 roads blocked by boulder falls as Uttarakhand braces for heavy rain
-The India Meteorological Department (IMD) warned of thunderstorms, lightning and intense spells of rain at isolated places over the next few days in Uttarakhand.
-
-## Piyush Goyal to visit US for G20 trade ministers meet in Sept, hold bilateral talks with USTR Greer
-Goyal is likely to hold bilateral meetings with his counterparts on the sidelines of the ministerial to discuss ways to boost two-way commerce and investments.
 
 ## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
 China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
@@ -228,6 +228,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Meta agrees to settlement, platform changes in youth addiction case
+Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.
+
+## Trump tells Al Jazeera “not in a hurry” for Iran to return to talks
+"I have no time schedule," Trump says when asked when he expects Iran to return to the negotiating table.
+
+## Bodies of missing people found in Korea becomes national scandal
+A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.
+
+## Children in Gaza fear flying their kites after Israeli threat
+A 10-year-old boy who makes kites says he is afraid to fly them after Israel threatened to treat kites as acts of war.
+
+## Why northern Mozambique’s surging violence is worsening displacement crisis
+Over 100,000 people displaced last year alone, adding to the 1.3 million people already forced to flee from their homes.
+
 ## Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns
 A nursery for critical infants — supposedly the safest place in Islamabad's PIMS hospital — turned into a deathtrap.
 
@@ -236,21 +251,6 @@ The advert, which was released online last week before being pulled, prompted ca
 
 ## A teacher’s slap, student’s death revive India’s corporal punishment debate
 Teja's death raises question India has not fully answered: why more than a decade after ban is hitting children routine?
-
-## ICC chief urges Japan to counter US pressure on the court
-Washington escalated its campaign against the ICC last week by sanctioning its president and a senior trial lawyer.
-
-## Deadly flash floods sweep through northern Nepal
-Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.
-
-## CCTV captures terrifying mudslide engulfing Nepal-China border
-CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.
-
-## When is the Champions League draw, which teams are in, and what are the dates?
-Thirty-six teams will learn their fate in a draw for the group phase, which will be followed by knockout rounds.
-
-## Photos: Avalanche floods kill eight, hundreds missing in Nepal’s Himalayas
-Flash floods devastate Nepal's Himalayas, washing away villages and infrastructure along the Bhotekoshi river.
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
