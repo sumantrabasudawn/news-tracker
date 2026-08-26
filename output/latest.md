@@ -1,72 +1,81 @@
 # AION Intelligence
 
-## South Korea challenges China on Arctic trade route
-Seoul hopes polar sea highway will reduce reliance on chokepoints such as Hormuz and revive ailing city of Busan
+## ‘Capitalism’s not working’: why Democrats are turning to socialism
+Democratic socialist candidates are winning primary battles in the US as voters turn to progressive policies
 
-## Trump-backed candidate wins South Carolina primary
-Darline Graham’s victory reinforces US president’s hold on the Republican Party ahead of November’s midterm elections
+## Shein: from TikTok haul to IPO stall
+The fast-fashion retailer is preparing to list in Hong Kong at a quarter of its peak valuation
 
-## Deloitte to pay US administration $21.5mn to settle ‘discriminatory’ practices probe
-Firm one of several professional services businesses targeted by the American Alliance for Equal Rights
+## Bessent’s bond intervention puts US Treasury on collision course with Fed
+Increased purchases of debt threaten to undermine central bank chief Kevin Warsh’s bid to tame inflation
 
-## US audit regulator scraps investor advocate role as Trump-era revamp accelerates
-Public Company Accounting Oversight Board scraps office set-up under Biden administration to represent shareholders
+## British Business Bank’s small business loans hit £4bn
+Executive pay jumps at the state-owned bank amid questions over its underwriting of commercial banks’ lending
 
-## FirstFT: China warns US it could retaliate over Iran sanctions
-Also in this newsletter: Nvidia employee charged in Taiwan with smuggling chips into China and Canada announces $20bn retaliatory tariffs
+## Insurers pile into deals allowing banks to offload default risk
+Market for synthetic risk transfers has boomed in recent years, with insurers now offering banks unfunded structures
 
-## Syria’s Kurds dissolve military force and integrate fighters with Damascus
-Merger with Syrian army is a step forward in push to bring country under central government control
+## Ignore Jane Austen, income investing has big drawbacks
+Living on investment income alone no longer constitutes a financial strategy for most better-off Britons
 
-## Trump administration pauses immigrant visa applications
-US state department wants consular officers to screen out people likely to need public benefits
+## Andy Burnham looks at allowing mayors to block sale of council homes
+Move on ‘right to buy’ would add to restrictions announced under previous prime minister Keir Starmer
 
-## Reform UK pledges to cut data rules and curb liabilities for non-executives
-Nigel Farage’s party sharpens its pitch to business by promising to scrap the General Data Protection Regulation
+## Will Burnham’s northern vibes put off southern voters?
+In the previously Conservative stronghold of Aldershot, many residents say they are prepared to show patience to the prime minister
 
-## China’s YMTC aims to overtake Samsung and SK Hynix in flash memory race
-Chipmaker sets out Nand production ambitions in investor meetings for $5bn Shanghai IPO
+## AI Exchange
+In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
 
-## Foot Locker owner plunges after warning nervous consumers are cutting spending
-Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
+## Saga’s over-fifties holidays are finally turning silver into gold
+Swapping insurance underwriting for selling other companies’ policies and refocusing on its brand and customer base was a good decision
 
-## Bombing the bond market
-Trump wages war against his own economy
+## The multiplying risks of financing data centres
+Wall Street players extending themselves to underwrite this colossal new asset class are looking to limit exposure
 
-## SpaceX commits $100bn to Louisiana space base
-Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches
+## Institutional investors back Blackstone and KKR funds for wealthy individuals
+Shift by private equity’s traditional backers could threaten traditional 10-year fund model
 
-## Private credit investment in F&B sector surges 12-fold in H1 2026: EY
-The momentum was supported by marquee transactions, including HyFun Foods Group's $156 million refinancing and working capital raise and Lenexis Foodworks' $113 million acquisition financing transaction
+## Britain can’t afford to fail on social care reform
+Lack of support for family carers holds back the economy by reducing earnings and high costs distort consumer spending
 
-## Emami well-placed to tap rural recovery, premiumisation trends: Chairman
+## Sensex today | Stock Market Live: Sensex gains over 300 points; Nifty flat near 24,370
+Sensex, Nifty, Stock Price Live Updates: The market enters Wednesday’s session with a constructive backdrop, helped by lower crude prices and easing yields. Traders will watch Nifty’s 24,200 support and 24,350–24,375 breakout zone for further directional cues.
 
+## Crude oil price: Futures fall as Iran, Oman discuss maritime corridor in Strait of Hormuz
+November Brent oil futures at $85.26, down by 2.30%; October crude oil futures on West Texas Intermediate at $80.33, down by 2.46%
 
-## Sensex today | Stock Market Live: Indian stocks set for strong opening on positive global cues
-Sensex, Nifty, Stock Price Live Updates: Indian equities are poised for a firm start as falling crude oil prices, easing bond yields and positive global cues improve sentiment. Traders will watch key Nifty levels, geopolitical developments around the Strait of Hormuz and derivatives positioning for 
+## Avaada Electro files updated draft papers for ₹7,600-crore IPO
+Of the proceeds from the fresh issue, ₹1,200 crore will be used to repay or prepay certain loans and meet obligations under letters of credit. The remaining amount will be utilised for general corporate purposes
 
-## Gradiant aims to double revenue to $1 billion in 3 years driven by AI data centres growth
-Gradiant is also counting on the growth of semiconductor manufacturing and renewable energy projects to drive its growth
+## Volkswagen $1.4 billion India tax dispute to be reheard by Bombay HC
+The fresh hearing extends a long-running dispute that has created uncertainty for the German automaker and its India business plans
 
-## Varun Beverages to enter alcobev segment, ropes in ex-Diageo executive Prathmesh Mishra
-The company will set up a new subsidiary, “KIVA Spirits and Company”, to enter the ready-to-drink (RTD) alcoholic beverages business
+## Sensex, Nifty rise on crude slump, Iran ceasefire hopes; ICICI Bank leads early gains
+ICICI Bank stock climbs 1.29% to ₹1,441.10
 
-## Uttar Pradesh clears over 94% of sugarcane dues in current crushing season
-Government data highlights a broad expansion of Uttar Pradesh’s sugar sector, from higher farm productivity to increased crushing and processing capacity
+## Adani Energy Solutions wins ₹4,700-crore Maharashtra transmission project
+The project is expected to strengthen power transmission infrastructure while supporting the integration of renewable and storage capacity in Maharashtra.
 
-## Honda says it may not build new plant in North America without trade deal extension
-The Trump ​administration is currently negotiating with Canada and Mexico ⁠over the fate of the free trade deal known as USMCA
+## Brillio Recognized with Two Gold Brandon Hall Group™ HCM Excellence Awards® for AI Native Talent Development
+Brillio Recognized with Two Gold Brandon Hall Group™ HCM Excellence Awards® for AI Native Talent Development
 
-## From Target to Pepsi: Global brands hit by backlash over controversial campaigns
-From advertising campaigns to merchandise, several global brands have faced consumer backlash after products or marketing were seen as culturally insensitive
+## ITC Hotels signs Storii Havelock, expands presence in Andaman & Nicobar Islands
+Swaraj Deep (Havelock Island) has emerged as one of India’s most sought-after leisure destinations, says ITC Hotels MD Anil Chadha
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
 
+## Gold steady near three-month high; silver rises as investors await US inflation data
+
+
+## Bank holiday today: Are banks open or closed on August 26? Check state-wise details
+Mark your calendars: many bank branches will observe closures on Wednesday, August 26, for the Id-E-Milad and Thiruvonam festivals. Although branches will be closed, customers can still use ATMs and online services. Don’t forget that banks will also shut down for a regular holiday on Sunday, August 
+
 ## Stock market operations on August 26: Are NSE, BSE open or closed today for Eid-e-Milad?
 On Eid-e-Milad, the Indian stock market will continue its trading operations as usual. However, it's important to note that August 26 marks a settlement holiday for all stock exchanges. This implies that while daily trading activities proceed, the processing of funds and securities will be temporari
 
-## Stock market today: Sensex, Nifty eye higher opening as crude oil prices fall
+## Stock market today: Sensex opens 200 points higher; Nifty above 24,335
 
 
 ## Air India seeks $1.5 billion from owners Tata, Singapore Air
@@ -78,16 +87,22 @@ One explanation identified by the study is that strong profitability from assets
 ## RBI flags price risks, 2nd time in August
 Industrial activity also remained supportive. PMI data showed that firms’ expectations for future output improved, pointing to a positive outlook for demand and new business opportunities. The economy, the article said, “continued to display strength notwithstanding these headwinds”, while retail in
 
-## Federal Bank shares fall post merger talks
-Jana Small Finance Bank has sought a universal banking licence from RBI. RBI returned its initial application in June 2025, leaving the lender open to making a future submission. Jana was among the microfinance lenders that received a specialised banking licence in 2017. It began operations as a sma
+## Gurugram’s rain woes: IFFCO Chowk road caves in, dry taps, flood water recedes slowly
+The road subsidence came a day after heavy rainfall triggered widespread waterlogging and traffic congestion across the city.
 
-## RBI turns net buyer of dollars in June
-The shift narrowed RBI’s cumulative net sales for the fiscal year to -$14.5 billion and reduced its outstanding forward short position to -$103.3 billion. In the currency futures market, purchases and sales were balanced at $2.9 billion each, leaving zero net outstanding futures. The dollar purchase
+## No one should engage in 'narrow politics' : Mayawati on hijab row
+No one should engage in 'narrow politics' : Mayawati on hijab row
+
+## ‘Once the Pakistanis picked up the phone…’: Former CDS Anil Chauhan's 5 big revelations about Operation Sindoor
+Anil Chauhan said a key principle of Operation Sindoor was to ensure that India delivered the final strike in any escalation.
+
+## ‘Hit sixes’ before retirement’: SC judge seeks Rajasthan HC Acting CJ’s removal
+Supreme Court judge Justice Sandeep Mehta alleged that acting Chief Justice Sanjeev Prakash Sharma has been misusing his powers
 
 ## Telangana: 6 killed after private bus rams into stationary truck in Suryapet
 The accident happened near Dorakunta village on the outskirts of Kodad mandal on Hyderabad-Vijayawada national highway (NH-65)
 
-## HT First Read Aug 26: Mamdani on RSS rally, Yash's return after 4 years – top stories to start your day
+## HT Morning News Brief: Mamdani on RSS rally, Yash's return after 4 years – top stories to start your day
 Here's your quick morning briefing.
 
 ## CJP news LIVE: CJP announces new members ahead of march on Sept 5; cops say no request yet for India Gate protest
@@ -96,17 +111,11 @@ CJP news LIVE: The Cockroach Janta Party (CJP) on Tuesday named new members to i
 ## Prakash Raj to join September 1 civil campaign to flag flaws in SIR
 Actor Prakash Raj on Tuesday said that civil society organisations in Bengaluru will hold an “Election Commission Chalo” campaign on September 1 to flag alleged flaws in the conduct of the SIR
 
-## 5 of family found dead in Srisailam; suicide suspected
-Five members of a family were found dead in a lodge room in the temple town of Srisailam in Andhra Pradesh’s Nandyal district on Tuesday, with police suspecting the incident a suicide pact linked to financial difficulties
+## US Treasury sanctions on Iran’s trade partners
+The US Department of the Treasury launched targeted sanctions against some 24 entities based in mainland China or Hong Kong as part of its “Operation Economic Outcast” campaign against Iran and its enablers. See below for the original announcement: US Treasury sanctions by scmp
 
-## CBI filed a record 1,005 cases and preliminary enquires in 2025: Report
-The agency had registered a total of 840 cases in 2024, 876 in 2023, 946 in 2022, 747 in 2021 and 676 in 2020, according to previous years’ CVC reports.
-
-## PC Vishnunadh: ‘We will lure travellers to Keralam using Ayurveda, adventure tourism’
-On the sidelines of the Onam festival and the tourism department’s weeklong celebrations, HT caught up with PC Vishnunadh, the state tourism and culture minister, to talk about the challenges and positives in both sectors
-
-## Union Cabinet approves extradition treaties with Kenya, Kazakhstan and Kyrgyz
-India and Seychelles, too, signed an extradition treaty during Prime Minister Narendra Modi’s visit there in June.
+## As more expats flock to Hong Kong, luxury home rents poised for further upswing
+Hong Kong’s growing number of expatriates is boosting the city’s residential property leasing market with luxury rents likely to rise by about 5 per cent this year and continue their upswing in 2027, according to property consultancy JLL. The private residential rental index by the Rating and Valuat
 
 ## Why rising heat is Asia’s next major health challenge
 Across the globe – and Asia in particular – the link between a changing climate and human health is becoming harder to ignore. Home to an estimated 60 per cent of the world’s population, Asia is warming faster than the global average and ranks among the planet’s most climate-disaster-prone regions. 
@@ -125,12 +134,6 @@ China’s deliberation on its sweeping cross-border anti-corruption law may ripp
 
 ## WuXi Biologics posts 4.3% rise in first-half profit, defying biotech headwinds
 WuXi Biologics, one of China’s largest contract drug developers, posted a 4.3 per cent increase in profit attributable to shareholders in the first half of the year, as stronger demand and improved capacity utilisation lifted revenue and margins. The Wuxi, Jiangsu-based company’s net profit attribut
-
-## Moon mission delay a hiccup, but Chinese rocket city Wenchang remains on the march
-For generations, Wenchang, on Hainan’s northeastern coast, was better known for coconuts, its namesake chicken and the emigrants who left for Southeast Asia in search of a living. Now the rhythms of life here have been altered, gradually and then all at once, by China’s space programme. Wenchang Spa
-
-## Asia’s super-rich are ‘going all in’ on sustainability as impact investing grows: survey
-Family offices in the Asia-Pacific region are putting more funding into sustainability projects and adopting a “systems-level” approach to make a greater impact, a trend that is set to boost Hong Kong’s role as a hub for impact investing, according to a survey released on Tuesday. The proportion of 
 
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
@@ -228,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says
+Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.
+
+## Instagram chief testifies at Meta trial, says few teens used safety feature
+Meta is on trial over claims it hooked young users on its platforms despite mental health risks.
+
+## Who were the Syrian Democratic Forces and why dissolve?
+Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.
+
 ## Israeli soldiers block Knesset member from besieged Palestinian home
 Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.
 
@@ -242,15 +254,6 @@ Malaysian leader's comments on the island have prompted discussion about whether
 
 ## Is Sudan’s battlefield shaping the terms of its next political phase?
 Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.
-
-## Human rights situation in Myanmar ‘plummets to new low’, UN says
-New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.
-
-## Iran war live: Iran says Hormuz remains closed despite Oman route deal
-Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.
-
-## Brazil fines TikTok $30m for child data privacy violations
-Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
