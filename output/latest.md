@@ -1,31 +1,37 @@
 # AION Intelligence
 
+## Heat dome leaves US Southwest facing ‘dangerous’ temperatures
+Scientists warn tens of millions of Americans will be affected by extreme weather caused by climate change
+
+## The Murder Detective — Lyra McKee documentary reveals the complexities of policing in Northern Ireland
+Channel 4 series follows the Police Service of Northern Ireland’s fraught investigation into the journalist’s 2019 murder
+
+## RedBird nears deal for Puck at $250mn valuation in latest digital media bet
+Transaction would mean fresh investment for news commentary platform as it seeks to broaden its offerings
+
+## OpenAI says it took a week to detect its AI models had hacked Hugging Face
+Start-up says AI agents communicated among themselves and sometimes tried to conceal efforts to cheat during testing
+
+## Trump administration pauses immigrant visa applications
+State department wants consular officers to screen out people likely to need public benefits
+
+## US designates Palestine Action a ‘terrorist group’
+Trump administration puts UK group under sanctions just over a year after it was proscribed in Britain
+
 ## Hundreds reported missing after flash flood on Nepal border with China
 At least 160 people are confirmed dead and many local residents, foreign tourists, workers and security personnel remain unaccounted for
 
 ## Ministers tell Bank of England to boost innovation in digital currencies
 Treasury gives central bank a new legal objective as part of effort to promote UK as hub for stablecoins
 
-## Heat dome leaves US Southwest facing ‘dangerous’ temperatures
-Scientists warn that tens of millions of Americans will be affected by extreme weather caused by climate change
-
 ## El Niño’s looming threat to the global food system
 The world must be better prepared for big recurring shocks to agriculture
 
-## Heatwaves spark interest in Gulf-style extreme cooling
-From chilled walkways to heat-reflecting roofs, wealthy oil states have pioneered ways to cope with high temperatures
-
-## Burnham seeks to bridge gap with nervous business community
-New prime minister hits crowd-pleasing note but private sector will reserve judgment until October Budget
+## Charting the trillion-dollar TAM wars
+Anthropic’s $30tn total addressable market estimate is unbelievable because it’s meant to be
 
 ## Meta to pay up to $18bn to settle children’s social media harm case
 Case relating to alleged failures of child protection was getting under way in California
-
-## CIA chief makes rare visit to Moscow
-John Ratcliffe is first US spy chief to travel to Russia since 2022 invasion of Ukraine
-
-## Charting the trillion-dollar TAM wars
-Anthropic’s $30tn total addressable market estimate is unbelievable because it’s meant to be
 
 ## Vanguard and Victory Capital bet on scale as fund industry consolidates
 Asset management deal volumes have reached $53.8bn this year, the highest since at least 1995 according to Dealogic
@@ -38,9 +44,6 @@ Freight rates remain at record highs while oil prices fall back on talks between
 
 ## Samsung must pay Swatch $11.6mn over copycat smartwatch apps
 Swiss watchmaker had sought damages of as much as $170mn in London lawsuit over copyright infringement
-
-## Life inside an American coal mine
-Operators are trying to make familiar an industry that seems consigned to another era
 
 ## India’s 145-crore skilling challenge
 India’s skilling challenge spans 145 crore people, from students and young people entering the workforce to workers navigating a changing job market. The NITI Aayog report, ‘Reimagining Skilling for Viksit Bharat@2047,’ examines these varied groups to identify where India’s current education and ski
@@ -105,14 +108,14 @@ CJI Kant, in a press statement, said he and other senior judges of the collegium
 ## Cockroaches, fungus, gutka packet: FSSAI notice to Delhi's JW Marriott, Andaz over massive food safety lapses
 At JW Marriott, FSSAI found fungus on apples, rotten tomatoes, improper storage of cut vegetables and other food products.
 
-## Delhi man sends legal notice to Insta creator, Meta over ‘spy’ glasses video reel
-The legal notice dated August 24 was sent by Apar Gupta, a lawyer and founder of the digital rights advocacy group Internet Freedom Foundation (IFF)
-
 ## Gauhati HC notice to govts on plea linking illegal mining to Upper Assam floods
 Gauhati HC seeks replies from Assam, Nagaland governments on PIL alleging illegal mining and unscientific coal extraction aggravated floods in Sivasagar.
 
 ## 'Open dialogue': RSS defends Mohan Bhagwat's NYC event after mayor Zohran Mamdani's opposition
 The RSS backing Mohan Bhagwat's upcoming event at Madison Square Garden came hours after NYC Mayor Zohran Mamdani said he does not support it.
+
+## What IMD said about Nepal flash floods: Glacier lake outburst, alert for Gandak river
+IMD also informed that official emergency SMS and high-alert advisories have been activated for the riverbanks of Rasuwa and more.
 
 ## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
 China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
@@ -234,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US inflation remains sticky in July
-Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.
+## Video: Ukrainian drones target Wildberries e-commerce hub in Russia
+Ukrainian drones have again targeted the Russian online shopping giant Wildberries.
 
-## Prince Harry and Meghan Markle return to UK after royal rift
-The couple quit royal duties six years ago to head to California. It's unclear how they will be received on return.
+## Israel-Hamas truce failure ‘point of no return,’ envoy warns
+Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.
 
-## At least 50 injured as fireworks explode into crowd at Spanish festival
-At least 50 people were injured after several fireworks exploded among a crowd at a festival in northern Spain.
+## UNRWA chief condemns Israeli seizure of East Jerusalem facility
+Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.
 
-## Why Hormuz remains high risk for ships despite US claims of mine-clearing
-Analysts say mine clearance alone is unlikely to make shipping 'safe' in the Strait of Hormuz.
+## German airport workers die from malaria caught from plane-riding mosquito
+Four infected employees being treated in hospital; mosquito traps deployed at Frankfurt hub.
 
-## Iran emphasises self-sufficiency in battle against US economic war
-Iranian authorities believe they can withstand US sanctions, but warn of a tough year ahead.
+## Israeli forces install new gate, isolating Palestinian village
+Israeli forces installed gates around the home of Palestinian American Lou Ridi in Qusra, in the occupied West Bank.
 
-## Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases
-Syria has been in talks on the fate of Khmeimim and Tartous bases, which Russia used to support ousted Assad regime.
+## Kurdish-led SDF has dissolved, but has Syria really unified its military?
+SDF's dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.
 
-## Luxury watches worth $1.2 million stolen from a popular mall in Tokyo
-It took just 10 seconds for thieves to steal $1.2 million worth of luxury watches from a Tokyo shop in broad daylight.
+## UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan
+UEFA set to end threat of FIFA events boycott after assurances over Gianni Infantino's failed World Cup investor plan.
 
-## Video: Man kills eight relatives in Montana gun attack
-A man killed eight relatives at a family home in the US state of Montana.
+## US imposes sanctions on Palestine Action and other left-wing groups
+Palestine Action's Huda Ammori says Trump's penalties should be a 'wake-up call' for UK to lift ban on the group.
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
