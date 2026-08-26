@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## South Korea challenges China on Arctic trade route
+Seoul hopes polar sea highway will reduce reliance on chokepoints such as Hormuz and revive ailing city of Busan
+
+## Trump-backed candidate wins South Carolina primary
+Darline Graham’s victory reinforces president’s hold on the Republican Party ahead of November’s midterm elections
+
+## Deloitte to pay US administration $21.5mn to settle ‘discriminatory’ practices probe
+Firm one of several professional services businesses targeted by the American Alliance for Equal Rights
+
 ## US audit regulator scraps investor advocate role as Trump-era revamp accelerates
 Public Company Accounting Oversight Board scraps office set-up under Biden administration to represent shareholders
 
@@ -18,47 +27,38 @@ Nigel Farage’s party sharpens its pitch to business by promising to scrap the 
 ## Foot Locker owner plunges after warning nervous consumers are cutting spending
 Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
 
-## SpaceX commits $100bn to Louisiana space base
-Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches
-
-## Iran and Oman edge towards deal on Strait of Hormuz
-Interim proposal on managing shipping is first hint of diplomatic progress to reopen the strategic waterway in weeks
-
 ## Bombing the bond market
 Trump wages war against his own economy
+
+## SpaceX commits $100bn to Louisiana space base
+Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches
 
 ## AI to fuel global growth as investment spreads beyond US, IMF says
 Managing director Kristalina Georgieva expects world economy to weather energy crisis ignited by Iran war
 
-## European LNG prices surge to highest level since 2023
-Continent’s gas inventories were already low before Iran war disrupted shipments
+## Sensex today | Stock Market Live: Indian stocks set for strong opening on positive global cues
+Sensex, Nifty, Stock Price Live Updates: The short-term outlook is bullish for Steel Authority of India Limited (SAIL). The stock has surged over 5 per cent so far this week breaking above a key resistance level of ₹180. This marks the end of the corrective fall that was in place since June. A cup a
 
-## How First Brands’ billion-dollar rescue hit the skids
-Hedge funds that funded the bankruptcy have been left with a ‘clunker’ as this was no ordinary debt-induced collapse
+## H-1B visa fee hike: Nasscom says Indian IT firms have cut reliance on visas
+Indian technology firms have strengthened their US workforce and STEM initiatives as policymakers reassess the role of skilled foreign workers
 
-## How Chennai’s Neurostellar is measuring the mental stamina of Chess players
-Chennai deep tech startup’s device used by World Chess Champion Gukesh among others; available for pre-order at $250
+## All you need to know about Lumino Industries IPO
+Sushil Finance Recommedation, anchor investors
 
-## Persisting retail F&O losses spur call for tighter eligibility filters
-Experts seek income tests and exams to restrict derivatives access to informed investors
+## H-1B visa fee explained: What the $103,265 fee proposal means for US employers and foreign workers
+The proposed changes could have significant implications for companies facing worker shortages and professionals seeking temporary employment in the United States
 
-## UN:BLOC launches website for patients with chronic diseases
-The healthcare venture seeks to offer an alternative approach to managing chronic conditions such as diabetes, hypertension, thyroid disorders, PCOS and obesity
+## Volkswagen $1.4 billion India tax dispute to be reheard by Bombay HC
+The fresh hearing extends a long-running dispute that has created uncertainty for the German automaker and its India business plans
 
-## US targets four Indian firms in ‘Operation Economic Outcast’ against Iran
-India awaits details of the fresh sanctions as Washington expands pressure on Tehran; China opposes the measures
+## Indian stocks set for strong opening as crude oil falls, global cues improve
+Falling oil prices and softer global yields have improved the backdrop for domestic equities, while derivatives positioning points to measured gains
 
-## India poised to ban Carbosulfan, citing health risk to human and animal population
-However, a final decision will be taken after considering feedback from stakeholders
+## 15 stocks to watch: Honasa, Varun Beverages, NBCC, TMPV, Cipla and more
+From new projects and preferential allotments to stake sales, regulatory developments and strategic partnerships, several companies have reported updates that could influence investor sentiment today
 
-## Coking coal market poised to be volatile in the short-term on China mine mishap, steel output dip
-China’s new mine regulations will curb production, while Indian demand growth is expected to continue
-
-## NRI deposit inflows fall 22% to $2.8 b in Q1 FY27
-NRIs increasingly opted for FCNR(B) route, but a fall in rupee denominated instruments pulled the overall figure down
-
-## Indian economy continues to display strength despite headwinds: RBI Bulletin
-Manufacturing, services activity remains robust in July; trade expands in double digits
+## Air India seeks $1.5 billion fresh equity from Tata Sons, Singapore Airlines
+The request follows a sharp deterioration in the airline’s financial performance, with combined losses more than doubling from the previous year
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
@@ -84,29 +84,32 @@ Commerce and industry minister Piyush Goyalsaid that clarifications related to S
 ## For global scale banks, EAC-PM seeks mergers
 Beyond consolidation, banks need to narrow the credit-deposit gap, mobilise stable low-cost deposits and curb concentration in high-risk unsecured retail loans while expanding credit to MSMEs, infrastructure and green investments. To measure efficiency, the study treated banks as institutions that u
 
-## Delhi Police register abetment to suicide case in IIT Delhi student's death
-Delhi Police register abetment to suicide case in IIT Delhi student's death
+## 98% flu cases this season down to H1N1: ICMR
+Experts urge public to remain calm, as infections are in line with seasonal trends and no unusual patterns observed.
 
-## Saman Bird Sanctuary to get tourism boost as UP Cabinet approves land transfer
-Saman Bird Sanctuary to get tourism boost as UP Cabinet approves land transfer
+## A killing, heart-shaped tattoo, ₹1,000 fare dispute: Delhi cops arrest 3 after ‘man with no name’ found dead
+The man, believed to be around 35 years old, was found dead on August 21 near the boundary wall of a government school in Naraina Vihar.
 
-## India, China discuss peace along LAC, border delimitation: ‘Met in keeping with guidance from Modi, Xi Jinping’
-Doval said the normalcy in ties between both countries was a direct result of both sides maintaining peace and tranquillity along the border area.
+## 81% pleas before Bengal post-SIR tribunals seek cuts, not inclusion, Supreme Court told
+Only 700,000 challenge voter exclusions, prompting the Supreme Court to prioritize these cases before 2029 elections.
 
-## MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing
-The bulk carrier, carrying about 71,200 metric tonnes of iron ore fines from Paradip port in Odisha to China, sank around 290 nautical miles off Paradip
+## Himachal rain fury: 98 killed since monsoon onset, 99 roads blocked, massive landslide hits Chamba road
+A massive landslide blocked the road in Bharmour division, forcing vehicles to take the alternate Kandi Kuthed route to Urai.
 
-## Karnataka minister flags proposed Bengaluru parking fee of up to ₹25,000 to CM Shivakumar, asks to reconsider
-Reddy, who is also an MLA from Bengaluru, acknowledged the need to regulate roadside parking amid the city's growing vehicle population.
+## From Gandhi Maidan to chaos: Bihar students clash with police amid BPSC row
+Multiple injuries were reported among protesters and police, while several were detained after breaking barricades and throwing stones.
 
-## Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues
-The order comes amid heavy rain battering the millennium city, causing waterlogging on several roads and localities.
+## Amid student protests at IIT Delhi, police register abetment to suicide case over 31-year-old's death
+The 31-year-old's death sparked unrest at the IIT Delhi campus, triggering protests as students called for the resignation of certain officials.
 
-## Ex-consultant dies by suicide at Le Meridien hotel in Delhi, no note found
-DCP Sachin Sharma said the man was at a financial consulting firm and left his job at the company in Gurugram around six months ago.
+## Let July 20 probe into Delhi protest kick off: Supreme Court on plea to widen remit
+Petitioners seek reconstitution and further inquiry into the roles of government officials, including Union Home Minister Amit Shah.
 
-## Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’
-Announcing the “Election Commission Chalo” campaign in Bengaluru on September 1, Raj said civil society groups would march against SIR of electoral rolls.
+## India not a ‘dharamshala’, says Amit Shah; cites threats from infiltrators
+Amit Shah said only citizens had the right to live in the country and infiltrators posed a threat to India’s security, economy and demographics.
+
+## Why rising heat is Asia’s next major health challenge
+Across the globe – and Asia in particular – the link between a changing climate and human health is becoming harder to ignore. Home to an estimated 60 per cent of the world’s population, Asia is warming faster than the global average and ranks among the planet’s most climate-disaster-prone regions. 
 
 ## China rushes to develop Moderna-style cancer vaccines amid market frenzy
 A group of Hong Kong-listed biotechnology companies have seen their stock prices surge in the wake of Moderna’s breakthrough cancer vaccine trial, as the Chinese companies push forward with similar vaccine programmes. The companies – from Jiangsu Hengrui Pharmaceuticals to Li Ka-shing-backed CK Life
@@ -128,9 +131,6 @@ For generations, Wenchang, on Hainan’s northeastern coast, was better known fo
 
 ## Asia’s super-rich are ‘going all in’ on sustainability as impact investing grows: survey
 Family offices in the Asia-Pacific region are putting more funding into sustainability projects and adopting a “systems-level” approach to make a greater impact, a trend that is set to boost Hong Kong’s role as a hub for impact investing, according to a survey released on Tuesday. The proportion of 
-
-## China taps high-altitude winds for power generation by flying craft to 4,000m
-China has flown an airborne wind energy system to 4,000 metres (13,123 feet) above sea level and generated electricity from the sky, in what state broadcaster CCTV described as a world first. According to a CCTV report on Saturday, the prototype S4000 craft completed a full work cycle – ascent, stat
 
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
@@ -156,6 +156,9 @@ The post-Cold War model of institutionalized peacemaking has waned. But influent
 ## A Pact Without Impact
 The Mecca Joint Defense Agreement faces all the classic challenges of an alliance with none of the unifying elements.
 
+## The South Korean Government’s Housing Policy Tanks Its Approval Ratings
+Even the historic Yongsan Park isn’t safe from the government’s desire for more housing.
+
 ## A Golden Chance to Protect the Pacific’s ‘Blue Corridors’
 If Albanese is serious about a Pacific COP, he must heed the region’s call on oceans.
 
@@ -176,9 +179,6 @@ It operationalizes structural changes that have been unfolding within the armed 
 
 ## China’s ‘Three-Anti’ Legal Framework in Action
 A suite of laws to counter foreign sanctions, intervention, and long-arm jurisdiction is impacting both cross-border business and geopolitical competition.
-
-## Can a State Build a Reading Culture? Uzbekistan Is Trying.
-Uzbekistan’s “Thousand Books for Youth” project hopes to promote a reading culture by making renowned books accessible in Uzbek.
 
 ## Russia’s Next Top General: Promotions in Russian Military Leadership
 Judged by the initial strategic goals set by Russian President Vladimir Putin in 2022, Russia’s military lost its war against Ukraine some time ago. Yet Russia’s armed forces have not stopped fighting and continue to prosecute large-scale combat operations in a brutalizing, protracted war sucking up
@@ -228,6 +228,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Water crisis makes life in Sudan’s El Obeid refugee camps even worse
+Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.
+
+## Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan
+Malaysian leader's comments on the island have prompted discussion about whether the country is leaning towards China.
+
+## Is Sudan’s battlefield shaping the terms of its next political phase?
+Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.
+
 ## Human rights situation in Myanmar ‘plummets to new low’, UN says
 New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.
 
@@ -242,15 +251,6 @@ Why can’t America agree on what time it is?
 
 ## US judge blocks Ohio law requiring proof of citizenship to register to vote
 The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.
-
-## Who was the ‘Queen of Country’ Dolly Parton?
-‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.
-
-## Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse
-Health Ministry warns of 'complete collapse of the basic necessities of life' in Gaza as Israel's attacks continue.
-
-## US soldier who called for Trump impeachment facing military charges
-Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
