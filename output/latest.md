@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## FirstFT: US Treasury on collision course with Fed
+Also in this newsletter: Cashing in on EU sanctions and Germany’s defence push
+
+## Spain’s Ceuta crisis festers as Madrid faces allegations of failing to tackle fallout
+Also in this newsletter: Ukraine wants EU cash to buy US missiles
+
+## Nvidia’s $200bn ‘balance sheet-as-a-service’
+Because ‘vendor finance’ are such ugly words
+
 ## ‘Capitalism’s not working’: why Democrats are turning to socialism
 Democratic socialist candidates are winning primary battles in the US as voters turn to progressive policies
 
@@ -15,15 +24,6 @@ Executive pay jumps at the state-owned bank amid questions over its underwriting
 ## Insurers pile into deals allowing banks to offload default risk
 Market for synthetic risk transfers has boomed in recent years, with insurers now offering banks unfunded structures
 
-## Ignore Jane Austen, income investing has big drawbacks
-Living on investment income alone no longer constitutes a financial strategy for most better-off Britons
-
-## Andy Burnham looks at allowing mayors to block sale of council homes
-Move on ‘right to buy’ would add to restrictions announced under previous prime minister Keir Starmer
-
-## Will Burnham’s northern vibes put off southern voters?
-In the previously Conservative stronghold of Aldershot, many residents say they are prepared to show patience to the prime minister
-
 ## AI Exchange
 In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
 
@@ -33,35 +33,29 @@ Swapping insurance underwriting for selling other companies’ policies and refo
 ## The multiplying risks of financing data centres
 Wall Street players extending themselves to underwrite this colossal new asset class are looking to limit exposure
 
-## Institutional investors back Blackstone and KKR funds for wealthy individuals
-Shift by private equity’s traditional backers could threaten traditional 10-year fund model
-
-## Britain can’t afford to fail on social care reform
-Lack of support for family carers holds back the economy by reducing earnings and high costs distort consumer spending
-
-## Sensex today | Stock Market Live: Sensex gains over 300 points; Nifty flat near 24,370
+## Sensex today | Stock Market Live: Sensex gains over 130 points; Nifty flat near 24,320
 Sensex, Nifty, Stock Price Live Updates: The market enters Wednesday’s session with a constructive backdrop, helped by lower crude prices and easing yields. Traders will watch Nifty’s 24,200 support and 24,350–24,375 breakout zone for further directional cues.
 
-## Crude oil price: Futures fall as Iran, Oman discuss maritime corridor in Strait of Hormuz
-November Brent oil futures at $85.26, down by 2.30%; October crude oil futures on West Texas Intermediate at $80.33, down by 2.46%
+## Why are HDFC Bank shares in focus today?
+The HDFC Bank shares had closed at ₹727.50 on the previous trading session, and hit a 52-week low of ₹715.10 on August 19, 2026
 
-## Avaada Electro files updated draft papers for ₹7,600-crore IPO
-Of the proceeds from the fresh issue, ₹1,200 crore will be used to repay or prepay certain loans and meet obligations under letters of credit. The remaining amount will be utilised for general corporate purposes
+## Copper futures: Uptrend steady
+Traders can roll-over longs to September contract
 
-## Volkswagen $1.4 billion India tax dispute to be reheard by Bombay HC
-The fresh hearing extends a long-running dispute that has created uncertainty for the German automaker and its India business plans
+## Hero MotoCorp commits ₹960 crore to Ather
+The transaction is structured to optimise cash-flow flexibility, requiring an upfront payment of 25% with the remaining 75% deferred until conversion
 
-## Sensex, Nifty rise on crude slump, Iran ceasefire hopes; ICICI Bank leads early gains
-ICICI Bank stock climbs 1.29% to ₹1,441.10
+## Nasdaq futures fall before Nvidia, oil declines: Markets wrap
+Futures contracts for the Nasdaq 100 Index fell 0.5%, with chip bellwether Nvidia set to announce quarterly earnings later Wednesday; S&P 500 futures also slipped
 
-## Adani Energy Solutions wins ₹4,700-crore Maharashtra transmission project
-The project is expected to strengthen power transmission infrastructure while supporting the integration of renewable and storage capacity in Maharashtra.
+## DuPont to Showcase PPE Innovation and Integrated Protection Solutions at OGA 2026
+DuPont to Showcase PPE Innovation and Integrated Protection Solutions at OGA 2026
 
-## Brillio Recognized with Two Gold Brandon Hall Group™ HCM Excellence Awards® for AI Native Talent Development
-Brillio Recognized with Two Gold Brandon Hall Group™ HCM Excellence Awards® for AI Native Talent Development
+## CARD91 Introduces Five-Point Credit Lifecycle Consistency Framework for Credit Line on UPI
+CARD91 Introduces Five-Point Credit Lifecycle Consistency Framework for Credit Line on UPI
 
-## ITC Hotels signs Storii Havelock, expands presence in Andaman & Nicobar Islands
-Swaraj Deep (Havelock Island) has emerged as one of India’s most sought-after leisure destinations, says ITC Hotels MD Anil Chadha
+## RBI's Proposed Shift from Revolving Credit to Term Loans: SwiffyLabs Lending Platform Already Supports the New Construct
+RBI's Proposed Shift from Revolving Credit to Term Loans: SwiffyLabs Lending Platform Already Supports the New Construct
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
@@ -87,6 +81,21 @@ One explanation identified by the study is that strong profitability from assets
 ## RBI flags price risks, 2nd time in August
 Industrial activity also remained supportive. PMI data showed that firms’ expectations for future output improved, pointing to a positive outlook for demand and new business opportunities. The economy, the article said, “continued to display strength notwithstanding these headwinds”, while retail in
 
+## Railways launch drive amid allegations of impure Rail Neer water
+Legal action against an influencer has been initiated, as inspections of water quality and catering standards commence across the railway network.
+
+## Rajasthan minister Kirori Lal Meena tests positive for swine flu
+Rajasthan has intensified surveillance following a rise in flu cases in neighbouring states, including Delhi and Uttar Pradesh
+
+## Andhra junior doctors temporarily call off strike, asks govt to respond to its demands
+Andhra junior doctors temporarily call off strike, asks govt to respond to its demands
+
+## WhatsApp tightens account security with new safety features: What are they and how do they work?
+WhatsApp has launched new security features, including stronger two-step verification, multiple passkeys for accounts, and enhanced caller details.
+
+## UP’s ‘sweet surplus’ can meet India’s sugar needs for 2 months
+Amid the shortage talks, the state’s immediate worry is to exhaust its existing sugar stocks of over 28 lakh tonnes that can meet the demand for 6-7 months.
+
 ## Gurugram’s rain woes: IFFCO Chowk road caves in, dry taps, flood water recedes slowly
 The road subsidence came a day after heavy rainfall triggered widespread waterlogging and traffic congestion across the city.
 
@@ -96,22 +105,10 @@ No one should engage in 'narrow politics' : Mayawati on hijab row
 ## ‘Once the Pakistanis picked up the phone…’: Former CDS Anil Chauhan's 5 big revelations about Operation Sindoor
 Anil Chauhan said a key principle of Operation Sindoor was to ensure that India delivered the final strike in any escalation.
 
-## ‘Hit sixes’ before retirement’: SC judge seeks Rajasthan HC Acting CJ’s removal
-Supreme Court judge Justice Sandeep Mehta alleged that acting Chief Justice Sanjeev Prakash Sharma has been misusing his powers
+## DeepSeek nears pre-IPO funding round as 2027 market debut takes shape: sources
+DeepSeek is nearing the completion of a new funding round that values the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listing on Shanghai’s Star Market, according to people familiar with the matter. 
 
-## Telangana: 6 killed after private bus rams into stationary truck in Suryapet
-The accident happened near Dorakunta village on the outskirts of Kodad mandal on Hyderabad-Vijayawada national highway (NH-65)
-
-## HT Morning News Brief: Mamdani on RSS rally, Yash's return after 4 years – top stories to start your day
-Here's your quick morning briefing.
-
-## CJP news LIVE: CJP announces new members ahead of march on Sept 5; cops say no request yet for India Gate protest
-CJP news LIVE: The Cockroach Janta Party (CJP) on Tuesday named new members to its organisational teams as the pressure group prepares for a peaceful march in New Delhi next month. Earlier this month, the CJP announced its national working committee, naming Abhijeet Dipke as its national convenor.
-
-## Prakash Raj to join September 1 civil campaign to flag flaws in SIR
-Actor Prakash Raj on Tuesday said that civil society organisations in Bengaluru will hold an “Election Commission Chalo” campaign on September 1 to flag alleged flaws in the conduct of the SIR
-
-## US Treasury sanctions on Iran’s trade partners
+## US sanctions Chinese firms trading with Iran
 The US Department of the Treasury launched targeted sanctions against some 24 entities based in mainland China or Hong Kong as part of its “Operation Economic Outcast” campaign against Iran and its enablers. See below for the original announcement: US Treasury sanctions by scmp
 
 ## As more expats flock to Hong Kong, luxury home rents poised for further upswing
@@ -131,9 +128,6 @@ China’s deliberation on its sweeping cross-border anti-corruption law may ripp
 
 ## Bank of Singapore's CIO Summit 2026 brings global perspectives to Hong Kong
 [The content of this article has been produced by our advertising partner.] For much of the past three decades, investors benefited from an environment defined by globalisation, low inflation, ample liquidity and relative geopolitical stability. Today, many of those assumptions are being challenged.
-
-## WuXi Biologics posts 4.3% rise in first-half profit, defying biotech headwinds
-WuXi Biologics, one of China’s largest contract drug developers, posted a 4.3 per cent increase in profit attributable to shareholders in the first half of the year, as stronger demand and improved capacity utilisation lifted revenue and margins. The Wuxi, Jiangsu-based company’s net profit attribut
 
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
@@ -231,6 +225,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran bets economic pain will pressure Trump in game of ‘chicken’
+Iran is betting global economic fallout and Republicans worried about the midterms will force Trump's retreat.
+
+## Fireworks factory goes up in smoke in Mexico
+Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions
+
+## Massive natural gas leak in Wisconsin puts community on alert
+A truck hit a natural gas pipeline near Saxon, Wisconsin prompted nearby residents to evacuate.
+
+## Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again
+Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.
+
+## At least 15 newborns killed in Pakistan hospital fire
+Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.
+
 ## Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says
 Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.
 
@@ -240,20 +249,11 @@ Meta is on trial over claims it hooked young users on its platforms despite ment
 ## Who were the Syrian Democratic Forces and why dissolve?
 Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.
 
-## Israeli soldiers block Knesset member from besieged Palestinian home
-Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.
+## MCA financial year flexibility comes with tax reporting catch for companies
+Companies allowed to align their financial year with overseas parents or for commercial reasons will still have to maintain separate accounts and statements for income tax purposes, according to evidence recorded in the Joint Committee’s report on the Corporate Laws (Amendment) Bill, 2026.
 
-## Mamdani opposes Hindu nationalist event in New York
-Zohran Mamdani says he opposes a right-wing Hindu nationalist event scheduled for next week at Madison Square Garden.
-
-## Water crisis makes life in Sudan’s El Obeid refugee camps even worse
-Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.
-
-## Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan
-Malaysian leader's comments on the island have prompted discussion about whether the country is leaning towards China.
-
-## Is Sudan’s battlefield shaping the terms of its next political phase?
-Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.
+## Eighteen Years, One Question: Where Is the Climate Finance?
+India has built a climate finance framework over 18 years, but Ashok Haldia, former MD of PTC India Financial Services and former secretary of ICAI, argues that frameworks and announcements are no longer enough. This article examines why India needs coordinated regulation, proper climate risk pricin
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
@@ -272,12 +272,6 @@ The GSTAT e-filing portal was made operational on September 24, 2025, and the de
 
 ## Beyond private capex: India Inc needs a new playbook
 Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
-
-## IBBI’s push to curb fraud CIRPs marks shift in insolvency professionals role, say experts
-The IBBI's draft circular aims to strengthen the insolvency process. Insolvency professionals must now actively identify and report fraudulent proceedings. This initiative addresses the misuse of the CIRP framework for various illicit objectives. The proposed changes shift professionals from process
-
-## Govt flags restrictive consultancy tender norms, targets high turnover, headcount criteria
-The Department of Expenditure has asked procuring entities to avoid excessively high turnover and headcount criteria in consultancy tenders, warning that such norms can restrict competition and favour only the largest consulting firms.
 
 ## Sebi drops case against Max Financial, Max Life, Axis entities in Rs 3,911 cr case
 Sebi has closed proceedings against Max Financial and Axis entities concerning alleged shareholder losses. The regulator found no evidence of disclosure lapses or a fraudulent scheme. Transactions between Max and Axis entities from 2009 to 2022 were examined. Allegations of undue benefits to Axis Ba
