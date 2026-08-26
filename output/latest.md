@@ -1,13 +1,34 @@
 # AION Intelligence
 
+## Ukraine awards Musk medal as it seeks Starlink approval
+Tech billionaire reluctant to allow satellite system to be used for drone strikes deep inside Russia
+
+## Life inside an American coal mine
+Operators are trying to make familiar an industry that seems consigned to another era
+
+## The end of Trumpsplaining
+The pretence that America’s leader is a grand strategist will not survive the Iran fiasco
+
+## The battle to redraw the global tax map
+UN negotiations challenge corporate ‘profit-shifting’
+
+## Russia’s long war with the west — and with itself
+Could Putin win in Ukraine? Has the Kremlin captured US politics? Three new books analyse Moscow’s strategy and vision of itself as a Eurasian empire
+
+## Edinburgh Fringe sifts unbelievable fact from nonsensical fiction
+Insightful productions probe our relationship with fame, death and sex work — but the clowns steal the show
+
 ## Reform UK pledges to cut data rules and curb liabilities for non-executives
 Nigel Farage’s party woos business by promising to scrap the General Data Protection Regulation if it wins power
 
 ## FirstFT: US Treasury on collision course with Fed
 Also in this newsletter: Darline Graham wins South Carolina primary and Bill Gates calls for ‘human reserved’ jobs to protect them from AI
 
-## Argentines struggle to repay debts in Milei’s painful economic overhaul
-Overdue loans become flashpoint in debate over president’s policies ahead of 2027 election
+## Samsung must pay Swatch $11.6mn over copycat smartwatch apps
+Swiss watchmaker had sought damages of as much as $170mn in London lawsuit over copyright infringement
+
+## Macquarie dumps KPMG after Australian data scandal
+PwC retains Australia’s most lucrative audit contract after reversal by financial services group
 
 ## Iranian tankers gather off Sri Lankan coast
 Cut off from home ports by the US blockade, ships seek shelter close to Sri Lanka’s territorial waters
@@ -18,38 +39,29 @@ Introducing co-payment will make us more like our rich-world peers and put us on
 ## UK household energy bills to hit three-year high from October
 Middle East war pushes price cap up 4% to £1,723 a year
 
-## Liquidators can pursue PwC globally over Chinese property giant’s collapse, court rules
-Hong Kong decision has potential to threaten Big Four firms’ partnership network model
+## Broker’s Call: Hyundai Motor India (Buy)
+Emkay Global
 
-## Hyundai bets on US hybrid boom to take on Toyota
-World’s third-largest carmaker to release dozens of new and updated models by 2030
+## HAL and Safran ink deal for joint development, manufacture of new-generation copter engine
+The Design & Development of Aravalli engine is expected to be completed by 2032–33, HAL said on Wednesday
 
-## Macquarie dumps KPMG after Australian data scandal
-PwC retains Australia’s most lucrative audit contract after reversal by financial services group
+## Wipro Consumer Care enters pet food market with launch of Snuggles
+The launch marks Wipro's first step in building a presence in India's fast-growing pet food market, estimated at over ₹5,500 crore
 
-## Home loan portfolio set to cross ₹10 lakh crore milestone this quarter: SBI Chairman
-The lender has more than 460 home loan processing centres across India with nearly 28% market share
+## Nepal floods: Monsoon ‘low’ over India blamed as rain systems converge
+WMO Beijing centre links deadly floods and landslides to vigorous monsoon; more heavy rain looms over Nepal and East India
 
-## India, China can help resolve West Asia conflict: Hillary Clinton
-Clinton stated on Monday that Trump’s potential solution lies with China and India, as they are the top buyers of oil and gas from Iran
+## Prudential to sell 2% stake in ICICI Prudential AMC worth about $333 million
+The proposed sale would reduce the shareholding of ICICI Prudential AMC’s promoters to 85.6%
 
-## ICAT issues first compliance certificate for 15-metre multi-axle sleeper bus
-The certificate has been awarded to Synaty Automotive Pvt. Ltd. for its 15-metre multi-axle sleeper bus under AIS-119 and AIS-153 in accordance with the provisions of the Central Motor Vehicles Rules
+## Today’s Gold Rate, Aug 26: Check gold rates in Delhi, Mumbai, Chennai
+22, 24 carat Gold prices remain steady across metro cities on August 26
 
-## Medicover India's 25 hospitals to be profitable in 18 months, executive says
+## Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities
+22, 24 carat Gold prices remain steady across Tier two on August 26
 
-
-## Lumino Industries IPO: All you need to know before investing
-Sushil Finance Recommedation, anchor investors
-
-## Octave sets up tech centre with 1,600 engineers in Hyderabad
-The company has also set up its Experience Centre at the Hyderabad office, showcasing its connected, contextual intelligence solutions and technology capabilities
-
-## Egg prices crash by over 20% from peak, chicken rates ease as demand drops during Shravan period
-However, egg prices are ruling higher than the year-ago period and will likely rise after the austere period gets over
-
-## From subsistence to enterprise: J&K’s Lakhpati Didis change rural lives
-According to official data, J&K has identified around 2.6 lakh potential beneficiaries, of whom about 2.40 lakh have already crossed the ₹1 lakh annual income threshold
+## Singapore court dismisses all of Tata Power's challenges to USD 490 million arbitration awards in favour of Kleros
+Singapore court dismisses all of Tata Power's challenges to USD 490 million arbitration awards in favour of Kleros
 
 ## Explained: When it makes sense to take a joint home loan and when it doesn’t
 When two earning members of a household apply together for a loan, their combined income can potentially improve loan eligibility and help manage repayment burden more efficiently. Most banks and HFCs reiterate that adding an earning family member as a co-applicant can improve their borrowing eligib
@@ -75,6 +87,15 @@ Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana
 ## Gold steady near three-month high; silver rises as investors await US inflation data
 
 
+## Over 72 roads blocked by boulder falls as Uttarakhand braces for heavy rain
+The India Meteorological Department (IMD) warned of thunderstorms, lightning and intense spells of rain at isolated places over the next few days in Uttarakhand.
+
+## Piyush Goyal to visit US for G20 trade ministers meet in Sept, hold bilateral talks with USTR Greer
+Goyal is likely to hold bilateral meetings with his counterparts on the sidelines of the ministerial to discuss ways to boost two-way commerce and investments.
+
+## Over 50 Tamil Nadu pilgrims stranded after flash floods at Nepal-China border
+More than 50 pilgrims from Tamil Nadu are stranded after flash floods hit the Bhote Koshi River near the Nepal-China border; rescue efforts are underway.
+
 ## Meghalaya assembly passes unanimous resolution against uranium mining
 Sangma said the resolution reflected the long-standing concerns of people living in areas such as Domiasiat, Wahkijn and Lostoin
 
@@ -89,15 +110,6 @@ CJP's Saurav Das said he conducted an audit of the school as part of a campaign 
 
 ## Rise in sugar prices take a toll on West Bengal’s sweet industry ahead of festive season
 Sugar prices in West Bengal have risen sharply over the past fortnight, prompting sweet makers to raise prices and warn of further hikes ahead of the festive season.
-
-## Rahul slams Bihar govt over ‘AK-47 firing on students’ protesting over BPSC exam: ‘BJP turning police into weapon’
-Rahul Gandhi said the government was using batons and water cannons on students instead of hearing them, alleging AK-47 firing on protesters in Siwan.
-
-## Did Maharashtra FDA chief Tukaram Mundhe target Shah Rukh Khan, Ajay Devgn over Vimal ad? He clarifies
-Tukaram Mundhe said the rules apply to promoters as well as advertisers, while the FDA is also taking action against manufacturers and sellers.
-
-## Kota: 20-year-old NEET aspirant from MP found dead in rented flat
-The student, a resident of Chhatarpur, was living in Kota with her younger sister and was preparing for the NEET examination at a private coaching institute.
 
 ## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
 China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
@@ -171,6 +183,9 @@ China wants more influence in Indonesia’s defense sector. Jakarta should make 
 ## Pakistan Passes Legislation to Formalize New Military Command Structure
 It operationalizes structural changes that have been unfolding within the armed forces over the past year.
 
+## Would Wartime Elections Save Democracy or End It?
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
+
 ## From Hormuz to the Caucasus: The New Geography of Energy Security
 Every crisis in the Middle East returns the world’s attention to the same stretch of water. When tankers are seized, or missiles fly near the Persian Gulf, oil prices move, insurers reprice risk, shipping reroutes, and the United States repositions naval and airpower to keep the Strait of Hormuz ope
 
@@ -191,9 +206,6 @@ Welcome to The Adversarial. Every other week, we’ll provide you with expert an
 
 ## A Rock and China’s Three-Sea Problem
 Two rocks surrounded by coral, with a total land size of less than 10 square meters (approximately 108 square feet) at high tide, are the entire basis on which Japan claims a 150,000-square-mile exclusive economic zone, an area nearly the size of Japan itself. The uninhabited feature, located more t
-
-## Mental Health Is a Warfighting Readiness Problem for the U.S. Navy
-“You cannot be at mental peace always. You will be worried. So even my family — they are scared all the time, and they were anxiously praying [for] the vessel [to] come out of this area safely.” While Captain Chirag operates a commercial cargo vessel in the Red Sea, his comments in the aftermath of 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -219,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## CCTV captures terrifying mudslide engulfing Nepal-China border
+CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.
+
+## When is the Champions League draw, which teams are in, and what are the dates?
+Thirty-six teams will learn their fate in a draw for the group phase, which will be followed by knockout rounds.
+
+## Photos: Avalanche floods kill eight, hundreds missing in Nepal’s Himalayas
+Flash floods devastate Nepal's Himalayas, washing away villages and infrastructure along the Bhotekoshi river.
+
+## England footballer Sterling charged with dangerous driving after collision
+Raheem Sterling has also been accused of possession ​of nitrous oxide and will appear in court on September 15.
+
+## Iran, Oman agree on temporary Hormuz route: What we know
+Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.
+
+## Dead whale washes ashore on beach in Mexico
+A roughly 12-metre-long whale has been found dead on a beach in Tijuana, Mexico.
+
 ## Why India is sharing missile secrets with its private sector
 New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.
 
 ## Mother and daughter detained by ICE in hospital after car crash
 Mother and daughter detained by ICE in hospital after car crash
-
-## Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle
-Over 20,000 participants hurled 165 tonnes of tomatoes in Buñol's streets during Spain's famed La Tomatina festival.
-
-## Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille
-Sought-after Bouaddi joins the Premier League club on a five-year deal worth $117m.
-
-## Infantino has no future at FIFA, says European Leagues chief
-Claudius Schaefer insists the influence of the FIFA president has 'grown from year to year'.
-
-## China’s Xi to visit Kyrgyzstan, Egypt
-The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.
-
-## Is Japan trying to build bridges with China after Taiwan spat?
-Experts say Japanese lawmakers' visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.
-
-## One US dollar now costs 2 million rials in Iran, and here’s what it can buy
-Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices.
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
@@ -267,6 +279,9 @@ AI is creating more jobs than it destroys in India currently. However, entry-lev
 ## GSTAT president expresses concern over dismal appeal filings, sees scope for 2-2.5 lakh cases
 The GSTAT e-filing portal was made operational on September 24, 2025, and the deadline for filing appeals, which were time-barred, was July 31, 2026.
 
+## RBI proposal to curb NBFCs' revolving credit may choke MSME funding, says industry body FISME
+An industry body has urged the Reserve Bank of India to reconsider its proposal. This plan would ban revolving credit offered by non-banking financial companies. Such a ban could disrupt legitimate working capital finance for small businesses. Experts note revolving credit is a key funding channel f
+
 ## IPO fund diversion: Sebi bars Varanium Cloud, promoter for 7 years from markets
 Sebi has barred Varanium Cloud and promoter Harshawardhan Sabale from the securities market for seven years, citing misleading disclosures, inflated financials and diversion of IPO and rights issue funds. The regulator ordered recovery of diverted money and disgorgement of unlawful gains.
 
@@ -284,7 +299,4 @@ The Appointments Committee of the Cabinet (ACC) has approved the appointment of 
 
 ## India weighs facilitating European, UK investments via green channel
 India is creating a dedicated channel to ease European and British company investments. This mechanism will offer dedicated support and help investors navigate government approvals. The initiative aims to facilitate capital flow beyond just trade agreements. Senior officials will directly monitor th
-
-## India sees $80 billion in flows via subsidised swap windows, cenbank governor tells FE
-India's central bank anticipates nearly eighty billion dollars in inflows. These funds will bolster foreign exchange reserves through subsidized swap facilities. The Reserve Bank of India decided to close one scheme earlier than planned. Flows have been stronger than market participants expected. Th
 
