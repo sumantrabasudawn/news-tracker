@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Iranian tankers gather off Sri Lankan coast
+Cut off from home ports by the US blockade, ships seek shelter close to Sri Lanka’s territorial waters
+
+## Britain needs a new way to pay for healthcare
+Introducing co-payment will make us more like our rich-world peers and put us on a sustainable footing
+
 ## UK household energy bills to hit three-year high from October
 Middle East war pushes price cap up 4% to £1,723 a year
 
@@ -21,38 +27,38 @@ Also in this newsletter: Ukraine wants EU cash to buy US missiles
 ## Nvidia’s $200bn ‘balance sheet-as-a-service’
 Because ‘vendor finance’ are such ugly words
 
-## ‘Capitalism’s not working’: why Democrats are turning to socialism
-Democratic socialist candidates are winning primary battles in the US as voters turn to progressive policies
-
-## AI Exchange
-In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
-
-## Shein: from TikTok haul to IPO stall
-The fast-fashion retailer is preparing to list in Hong Kong at a quarter of its peak valuation
-
-## Today’s Gold Rate in India August 26: Gold prices steady in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
-22, 24 carat Gold prices remain steady across metro cities on August 26
-
-## Today’s Gold Rate in India August 26: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
-22, 24 carat Gold prices remain steady across Tier two on August 26
-
-## India's rice exports to 26 priority markets outpace three-year average
-Exports to the 26-market basket totalled ₹23,476 crore and 4.79 million tonnes between November 2025 and March 2026
-
 ## Sensex today | Stock Market Live: Sensex flat, Nifty slips as global cues improve
 Sensex, Nifty, Stock Price Live Updates: Sensex and Nifty traded mixed on Wednesday as easing crude oil prices improved the risk backdrop. The Nifty hovered near 24,300, with 24,200 emerging as key support and 24,350-24,375 likely to determine the next directional move.
 
-## India takes growth pitch abroad as foreign money pulls back
-The ministers’ sojourns come just days before gross domestic product data is likely to show India’s economy accelerated at a brisk near-8% pace last quarter
+## NCLT allows Subhash Chandra to pay ₹6.5 crore against claims of ₹22,006.57 crore
+Sharma directed the consequential redistribution of the repayment amount amongst the remaining eligible creditors in accordance with the approved Repayment Plan
 
-## Nestle India was highest-performing market in H1, potential to become a top-five market: Global CEO
-Nestle’s India business is gaining momentum, with Global CEO Philipp Navratil backing greater transparency in food labelling to help consumers make healthier, more informed choices
+## Skyways Air, Symbiotec Pharmalab IPOs Day 3: Cross 4x subscription
+Skyways Air Services IPO was subscribed 4.48 times and Symbiotec Pharmalab IPO was subscribed 4.45 times at the time of writing (2.42 pm)
 
-## Why is Bill Gates spooked by AI all of a sudden?
-The Microsoft co-founder and billionaire philanthropist wants to meet China’s Xi Jinping to discuss policy ideas
+## Flight ticket prices may remain high in India despite easing jet fuel rates
+Airlines may keep fares high on resilient passenger demand, S&P report says
 
-## Indiabulls signs agreement for ₹3,700-crore residential project on Dwarka Expressway
-The planned development is expected to strengthen the company’s launch pipeline and provide revenue visibility through potential price realisation.
+## Maruti Suzuki becomes first PV manufacturer to dispatch vehicles by rail to TN’s Pollachi Railway Terminal
+Maruti Suzuki has worked closely with Indian Railways to operationalise Pollachi Railway Terminal for rail-based vehicle dispatches
+
+## AI firms debate putting cyber tests online after model hacks
+Cybersecurity specialists are debating whether they should connect the virtual testing environments where they experiment with dangerous software, known as sandboxes, to the internet
+
+## MG Hector Tomahawk EV launched at ₹13.99 lakh, PHEV at ₹21.79 lakh
+JSW MG Motor is taking its battery-rental strategy into larger SUVs, pricing the Hector Tomahawk EV from ₹13.99 lakh and its plug-in hybrid from ₹21.79 lakh under BaaS as it targets petrol and diesel rivals
+
+## RHINOSHIELD AirX Sets GUINNESS WORLD RECORDS™ Title in Record-Breaking Near-Space Drop Challenge
+RHINOSHIELD AirX Sets GUINNESS WORLD RECORDS™ Title in Record-Breaking Near-Space Drop Challenge
+
+## Rs 30 lakh a month for an intern? India’s high-speed trading firms are in a fierce talent war
+In a bid to attract the brightest minds, high-frequency trading firms in India are ramping up intern compensation to unprecedented levels. This surge in hiring is influenced by stricter regulations on derivatives and a lull in equity market movements. Companies such as Quadeye and Graviton Research 
+
+## Why India’s rice exports to Iran may survive Trump's sanctions threat
+India's rice exports to Iran are expected to continue despite tougher US sanctions. Demand from Iran remains firm for food security reasons, ensuring continued purchases. Indian exporters utilize alternative payment channels in countries like Turkey and the UAE. Essential goods like rice and pharmac
+
+## India’s 1st hydrogen train travels 6,000 km; cuts 36,444 kg CO2 emissions
+India’s first hydrogen train consists of 10 coaches and can accommodate 2,600 passengers. It operates between Jind and Sonipat in Haryana with a maximum operating speed of 75 kmph, although the train has been designed to reach 110 kmph.
 
 ## Gold price prediction today: Why gold prices are rising? Check August 26, 2026 outlook
 Gold price prediction today: Gold prices are showing a positive bias, and while short-term news related fluctuations may occur, the long-term outlook is bullish, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
@@ -69,14 +75,17 @@ Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana
 ## Bank holiday today: Are banks open or closed on August 26? Check state-wise details
 Mark your calendars: many bank branches will observe closures on Wednesday, August 26, for the Id-E-Milad and Thiruvonam festivals. Although branches will be closed, customers can still use ATMs and online services. Don’t forget that banks will also shut down for a regular holiday on Sunday, August 
 
-## Stock market operations on August 26: Are NSE, BSE open or closed today for Eid-e-Milad?
-On Eid-e-Milad, the Indian stock market will continue its trading operations as usual. However, it's important to note that August 26 marks a settlement holiday for all stock exchanges. This implies that while daily trading activities proceed, the processing of funds and securities will be temporari
+## One for the future: Gen Alpha rise to demand accountability, better infrastructure
+One for the future: Gen Alpha rise to demand accountability, better infrastructure
 
-## Stock market today: Sensex opens 200 points higher; Nifty above 24,335
+## Zohran Mamdani's remarks on RSS chief Mohan Bhagwat's New York event draw flak, support
+Mohan Bhagwat is scheduled to address the Indian diaspora at the 'Universal Oneness Celebrations' at Madison Square Garden on August 29.
 
+## SP promises 'Stree Samman Samriddhi Yojana' if voted to power in 2027 Assembly polls
+SP promises 'Stree Samman Samriddhi Yojana' if voted to power in 2027 Assembly polls
 
-## Air India seeks $1.5 billion from owners Tata, Singapore Air
-Air India needs capital, but the $1.5 billion will be injected in phases, people familiar with the matter said. Co-owner Singapore Airlines will contribute its 25% share. Tata Sons had paused additional equity support in the year to March 2026. Its investment in Air India stood unchanged at Rs 22,61
+## Bodies of 1 woman, 5 children found in Karnataka lake, probe underway: Police
+On Monday, around 5am, he found that his wife and four children were missing from the house, police said
 
 ## Row erupts in Maharashtra as opposition slams CM Fadnavis over MPSC recruitment exam cancellation, paper leak
 The MPSC exam was cancelled based on a preliminary inquiry conducted after complaints regarding alleged malpractice.
@@ -90,17 +99,8 @@ Jadavpur unrest probe committee to hold first meeting this week after 'injured' 
 ## India rejects ‘politically motivated, malicious references' in UN panel's rights report
 Ministry of External Affairs, in a statement, said India had participated in the review in a “spirit of constructive engagement”.
 
-## From formulas to verses: Retired Rajasthan professor brings poetry to physics
-Retired professor Rishi Kumar Singhal teaches physics through Hindi poetry, using 250 poems across four books to simplify concepts for Class 12 to MSc students.
-
-## Chennai couple accused of cheating man of ₹1 crore arrested after 10 years
-A complaint was filed on April 20, 2015, by James and the case was being investigated by the Central Crime Branch, Chennai since then.
-
-## ‘Completely untrue’: Karnataka minister B Nagendra on reports that he offered to quit over scam charges
-The BJP and its ally JD(S) have sought B Nagendra's removal from the Cabinet over the alleged ₹89 crore irregularities in the KMVSTDC.
-
-## Abhijeet Dipke takes jibe at cops after Gwalior man made to clean 3,400 kiss marks from car
-Taking to social media, Dipke took a sarcastic dig at the police and stated that the a sticker of rapist Ram Rahim should have been put on the car instead.
+## Chinese hotpot chain Haidilao bets on takeaway, new brands, lower-tier reach for growth
+China’s largest hotpot chain Haidilao International Holding has seen takeaway emerge as its fastest-growing segment, with demand for single-serving meals like rice-bowl sets surging, amid positive revenue and profit growth in the first half. Takeaway revenue for the Hong Kong-listed group reached 2.
 
 ## Amos Food plans Hong Kong listing to expand global sweets empire
 Chinese confectionery giant Amos Food is seeking a listing in Hong Kong, as the firm looks to capitalise on the viral popularity of its sweets brands by ramping up investment in its overseas operations. Shenzhen-based Amos – known for its Peelerz peelable gummies and TastySounds music lollipops – ha
@@ -122,9 +122,6 @@ Across the globe – and Asia in particular – the link between a changing clim
 
 ## China rushes to develop Moderna-style cancer vaccines amid market frenzy
 A group of Hong Kong-listed biotechnology companies have seen their stock prices surge in the wake of Moderna’s breakthrough cancer vaccine trial, as the Chinese companies push forward with similar vaccine programmes. The companies – from Jiangsu Hengrui Pharmaceuticals to Li Ka-shing-backed CK Life
-
-## Super-rich losing millions as some Hong Kong trophy homes sell at painful discounts
-Hong Kong has seen a string of cut-price deals for super-luxury homes in recent months, with financially pressured owners accepting eye-watering losses to exit the market even as demand for trophy homes remains strong. Among the latest examples is the sale of a Bel-Air luxury house for HK$138 millio
 
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
@@ -222,29 +219,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The Bulgarian village that fears becoming an Iranian target
+US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
+
+## Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
+Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
+
+## US immigration agents arrested more than 49,500 people in July
+The number of arrests last month showed a rise of roughly 15 percent over June's count.
+
+## Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN
+UN chief Guterres said the attack underscores 'the alarming security situation in Haiti' due to gangs.
+
+## Thousands in Japan are pulling this historic castle back into place
+Thousands in Japan are pulling this historic castle back into place
+
+## Lindsey Graham’s sister up for election to his US Senate seat
+Lindsey Graham's sister up for election to his US Senate seat
+
 ## Trump’s Korean gambit exposes a shifting East Asian order
 Growing doubts about the US security umbrella are forcing new strategic calculations across the region.
 
 ## Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam
 The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.
 
-## US Army Black Hawk helicopter crashes in Colorado
-A US Army Black Hawk helicopter crashed after an unplanned landing in Colorado.
-
-## UN rejects Israel’s threat to expel Gaza residents over kite-flying
-UN rights office spokesperson slams Israeli threat of forced evacuations from Gaza communities over kite flying.
-
-## Palestinian boy shot during Israeli raid on UNRWA centre
-Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.
-
-## The RSF’s defeat will not end Sudan’s war but merely fragment it
-Sudanese army's battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.
-
-## Man United’s Fernandes, City’s Shaw named PFA Players of the Year
-Fernandes rewarded for an outstanding season with a record number of assists in the league; Shaw builds on league win and Golden Boot.
-
-## Trump threatens Iran’s partners: How do secondary sanctions work?
-The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.
+## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
+Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
 
 ## MCA financial year flexibility comes with tax reporting catch for companies
 Companies allowed to align their financial year with overseas parents or for commercial reasons will still have to maintain separate accounts and statements for income tax purposes, according to evidence recorded in the Joint Committee’s report on the Corporate Laws (Amendment) Bill, 2026.
@@ -267,8 +267,11 @@ AI is creating more jobs than it destroys in India currently. However, entry-lev
 ## GSTAT president expresses concern over dismal appeal filings, sees scope for 2-2.5 lakh cases
 The GSTAT e-filing portal was made operational on September 24, 2025, and the deadline for filing appeals, which were time-barred, was July 31, 2026.
 
-## Beyond private capex: India Inc needs a new playbook
-Instead of asking when the next great capex cycle will arrive, businesses need to ask where the next rupee of capital will generate the highest return. It may be a factory, but it could just as easily be technology, distribution, talent, productivity or a new customer segment.The absence of a dramat
+## IPO fund diversion: Sebi bars Varanium Cloud, promoter for 7 years from markets
+Sebi has barred Varanium Cloud and promoter Harshawardhan Sabale from the securities market for seven years, citing misleading disclosures, inflated financials and diversion of IPO and rights issue funds. The regulator ordered recovery of diverted money and disgorgement of unlawful gains.
+
+## RBI warns food, fuel costs could reignite broader inflation
+Most high-frequency indicators showed sustained manufacturing and services activity in July. Merchandise exports and imports experienced double-digit expansion, continuing Q1 momentum. Headline consumer price index inflation edged up, primarily due to supply-side pressures. Stable core inflation rea
 
 ## Sebi drops case against Max Financial, Max Life, Axis entities in Rs 3,911 cr case
 Sebi has closed proceedings against Max Financial and Axis entities concerning alleged shareholder losses. The regulator found no evidence of disclosure lapses or a fraudulent scheme. Transactions between Max and Axis entities from 2009 to 2022 were examined. Allegations of undue benefits to Axis Ba
@@ -284,10 +287,4 @@ India is creating a dedicated channel to ease European and British company inves
 
 ## India sees $80 billion in flows via subsidised swap windows, cenbank governor tells FE
 India's central bank anticipates nearly eighty billion dollars in inflows. These funds will bolster foreign exchange reserves through subsidized swap facilities. The Reserve Bank of India decided to close one scheme earlier than planned. Flows have been stronger than market participants expected. Th
-
-## Hawkish RBI minutes, softer dollar soothe rupee sentiment while intervention boosts
-The Indian rupee strengthened slightly on Thursday, aided by central bank actions. Hawkish policy minutes from the Reserve Bank of India also supported the currency. A generally weaker dollar provided additional positive momentum for the rupee. Elevated oil prices and corporate demand for dollars fa
-
-## LIC gets RBI nod to raise stake in HDFC Bank to nearly 10% from 4.11%
-Life Insurance Corporation of India (LIC), India's largest insurance company, has received approval from the Reserve Bank of India (RBI) to increase its stake in HDFC Bank to up to 9.99 per cent.
 
