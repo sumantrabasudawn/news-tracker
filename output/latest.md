@@ -1,10 +1,13 @@
 # AION Intelligence
 
 ## UK household energy bills to hit three-year high from October
-Middle East war pushes prices up 4 per cent
+Middle East war pushes price cap up 4% to £1,723 a year
 
-## Judge rules Evergrande liquidators can pursue PwC International for audit damages
-Hong Kong court’s ruling against global umbrella organisation has potential to threaten Big Four firms’ partnership network model
+## Liquidators can pursue PwC globally over Chinese property giant’s collapse, court rules
+Hong Kong decision has potential to threaten Big Four firms’ partnership network model
+
+## Hyundai bets on US hybrid boom to take on Toyota
+World’s third-largest carmaker to release dozens of new and updated models by 2030
 
 ## Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI
 Tech billionaire publishes 6,000-word essay warning the technology will usher in ‘one of the most turbulent times in human history’
@@ -21,38 +24,35 @@ Because ‘vendor finance’ are such ugly words
 ## ‘Capitalism’s not working’: why Democrats are turning to socialism
 Democratic socialist candidates are winning primary battles in the US as voters turn to progressive policies
 
-## Shein: from TikTok haul to IPO stall
-The fast-fashion retailer is preparing to list in Hong Kong at a quarter of its peak valuation
-
 ## AI Exchange
 In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
 
-## British Business Bank’s small business loans hit £4bn
-Executive pay jumps at the state-owned bank amid questions over its underwriting of commercial banks’ lending
+## Shein: from TikTok haul to IPO stall
+The fast-fashion retailer is preparing to list in Hong Kong at a quarter of its peak valuation
 
-## Hyundai Motor sets 2030 sales target at 5.5 million units
-Hyundai Motor aims to lift its operating margin ​to more ‌than 9% by 2030 as the company outlined growth plans spanning electric vehicles, ‌manufacturing and artificial intelligence
+## Today’s Gold Rate in India August 26: Gold prices steady in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
+22, 24 carat Gold prices remain steady across metro cities on August 26
+
+## Today’s Gold Rate in India August 26: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
+22, 24 carat Gold prices remain steady across Tier two on August 26
+
+## India's rice exports to 26 priority markets outpace three-year average
+Exports to the 26-market basket totalled ₹23,476 crore and 4.79 million tonnes between November 2025 and March 2026
 
 ## Sensex today | Stock Market Live: Sensex flat, Nifty slips as global cues improve
 Sensex, Nifty, Stock Price Live Updates: Sensex and Nifty traded mixed on Wednesday as easing crude oil prices improved the risk backdrop. The Nifty hovered near 24,300, with 24,200 emerging as key support and 24,350-24,375 likely to determine the next directional move.
 
-## Nexon Geochem validates Indian-origin raw materials for NdFeB permanent magnets
-The company has technically validated the pathway to integrate domestic materials into its magnet manufacturing process, marking progress towards pilot production
+## India takes growth pitch abroad as foreign money pulls back
+The ministers’ sojourns come just days before gross domestic product data is likely to show India’s economy accelerated at a brisk near-8% pace last quarter
 
-## Goyal proposes India-Japan 'Shark Tank' style startup series to boost investments, business ties
-Addressing a roundtable on startups, Goyal said such pitching sessions could be organised virtually, leveraging digital connectivity, to facilitate greater interaction between Indian and Japanese startups
+## Nestle India was highest-performing market in H1, potential to become a top-five market: Global CEO
+Nestle’s India business is gaining momentum, with Global CEO Philipp Navratil backing greater transparency in food labelling to help consumers make healthier, more informed choices
 
-## boAt FY26 net profit rises 38% to ₹84.5 cr
-boAt’s revenue from operations at ₹2,931 crore
+## Why is Bill Gates spooked by AI all of a sudden?
+The Microsoft co-founder and billionaire philanthropist wants to meet China’s Xi Jinping to discuss policy ideas
 
-## LuLu flies in Tamil Nadu, Karnataka marigolds to Gulf for Onam amid West Asia crisis
-With more than two million Malayalis living across the Gulf Cooperation Council (GCC) region, the availability of flowers for Onam has become an important seasonal logistics operation
-
-## Gaja Alternative share price list 16% premium on debut day
-The stock listed at ₹185 on the NSE, against the issue price of ₹160, while on the BSE it began trading at ₹185.20, a 15.7% premium
-
-## Wipro Consumer Care enters pet food market with Snuggles
-The company said changing pet parenting trends are driving demand for high-quality nutrition tailored to different life stages and needs
+## Indiabulls signs agreement for ₹3,700-crore residential project on Dwarka Expressway
+The planned development is expected to strengthen the company’s launch pipeline and provide revenue visibility through potential price realisation.
 
 ## Gold price prediction today: Why gold prices are rising? Check August 26, 2026 outlook
 Gold price prediction today: Gold prices are showing a positive bias, and while short-term news related fluctuations may occur, the long-term outlook is bullish, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
@@ -78,29 +78,32 @@ On Eid-e-Milad, the Indian stock market will continue its trading operations as 
 ## Air India seeks $1.5 billion from owners Tata, Singapore Air
 Air India needs capital, but the $1.5 billion will be injected in phases, people familiar with the matter said. Co-owner Singapore Airlines will contribute its 25% share. Tata Sons had paused additional equity support in the year to March 2026. Its investment in Air India stood unchanged at Rs 22,61
 
-## Five killed after speeding car runs over people performing 'kirtan' in Bihar's Supaul
-The incident took place near Kataiya Chowk under the Pipra police station area when the speeding car allegedly lost control and rammed into the group.
+## Row erupts in Maharashtra as opposition slams CM Fadnavis over MPSC recruitment exam cancellation, paper leak
+The MPSC exam was cancelled based on a preliminary inquiry conducted after complaints regarding alleged malpractice.
 
-## US singer Mary Millben hits back at Mamdani for opposing Mohan Bhagwat's Madison Square event
-Her remarks follow New York City Mayor Zohran Mamdani's opposition to the event, where Bhagwat will speak during his centenary global outreach tour.
+## At 22,000 feet, -15°C: DRDO pulls off high-altitude combat parachute test
+The trial was conducted at Dropzone, in one of the world’s highest altitude zones in the Leh district of Ladakh.
 
-## When the British built a 4,000-km wall of thorns across India to tax a kitchen ingredient
-'The Great Hedge of India' was a vast network of thorny bushes, trees, brushwood, customs posts and patrol routes.
+## Jadavpur unrest probe committee to hold first meeting this week after 'injured' VC rejoins
+Jadavpur unrest probe committee to hold first meeting this week after 'injured' VC rejoins
 
-## Delays in infrastructure projects cost more, halt benefits: PM Modi during projects' review
-The projects, spanning the railway, road and power sectors, were reviewed with a focus on timelines, inter-agency coordination and removal of pending hurdles.
+## India rejects ‘politically motivated, malicious references' in UN panel's rights report
+Ministry of External Affairs, in a statement, said India had participated in the review in a “spirit of constructive engagement”.
 
-## 'Bharat Mata Ki Jay': Kangana trolls Rahul Gandhi's 'smash the patriarchy' talk
-The advertisement was pulled down on Wednesday.
+## From formulas to verses: Retired Rajasthan professor brings poetry to physics
+Retired professor Rishi Kumar Singhal teaches physics through Hindi poetry, using 250 poems across four books to simplify concepts for Class 12 to MSc students.
 
-## ‘Tera bhi number aayega’: Dipke jokes Saurav Das next in line to get beaten up after ‘assault’ on other members
-CJP founder Abhijeet Dipke was reportedly attacked in Jaipur in June this year, while co-convenor Ashutosh Ranka was allegedly assaulted last week.
+## Chennai couple accused of cheating man of ₹1 crore arrested after 10 years
+A complaint was filed on April 20, 2015, by James and the case was being investigated by the Central Crime Branch, Chennai since then.
 
-## 2020 riots: Tahir Hussain moves Delhi HC on conviction in Ankit Sharma murder case
-The appeal further alleged that witnesses were planted, statements of genuine eyewitnesses were manipulated, and the actual perpetrators were not brought to book
+## ‘Completely untrue’: Karnataka minister B Nagendra on reports that he offered to quit over scam charges
+The BJP and its ally JD(S) have sought B Nagendra's removal from the Cabinet over the alleged ₹89 crore irregularities in the KMVSTDC.
 
-## BJP MP Rao Inderjit Singh blames Congress era for Gurugram rain chaos, pitches tunnel fix
-BJP MP Rao Inderjit Singh said underground tunnels, similar to those built for the metro, should be constructed along the routes of the old drains.
+## Abhijeet Dipke takes jibe at cops after Gwalior man made to clean 3,400 kiss marks from car
+Taking to social media, Dipke took a sarcastic dig at the police and stated that the a sticker of rapist Ram Rahim should have been put on the car instead.
+
+## Amos Food plans Hong Kong listing to expand global sweets empire
+Chinese confectionery giant Amos Food is seeking a listing in Hong Kong, as the firm looks to capitalise on the viral popularity of its sweets brands by ramping up investment in its overseas operations. Shenzhen-based Amos – known for its Peelerz peelable gummies and TastySounds music lollipops – ha
 
 ## China dividend stocks back in vogue as AI trade fizzles out and bond yields fall
 Chinese investors have been seeking shelter in dividend stocks in the wake of a global rout on technology stocks, with a handful of old-economy companies beating chipmakers and artificial intelligence hardware manufacturers. The Shanghai Stock Exchange Dividend Index of 50 high-dividend stocks from 
@@ -122,9 +125,6 @@ A group of Hong Kong-listed biotechnology companies have seen their stock prices
 
 ## Super-rich losing millions as some Hong Kong trophy homes sell at painful discounts
 Hong Kong has seen a string of cut-price deals for super-luxury homes in recent months, with financially pressured owners accepting eye-watering losses to exit the market even as demand for trophy homes remains strong. Among the latest examples is the sale of a Bel-Air luxury house for HK$138 millio
-
-## Hong Kong’s property, financial markets face test under cross-border anti-corruption law
-China’s deliberation on its sweeping cross-border anti-corruption law may ripple through Hong Kong’s financial and property markets, as Beijing seeks harsher punishments for corrupt officials and broadens its scrutiny of the massive pool of wealth transferred overseas. Hong Kong remains in focus aft
 
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
@@ -222,6 +222,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump’s Korean gambit exposes a shifting East Asian order
+Growing doubts about the US security umbrella are forcing new strategic calculations across the region.
+
+## Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam
+The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.
+
+## US Army Black Hawk helicopter crashes in Colorado
+A US Army Black Hawk helicopter crashed after an unplanned landing in Colorado.
+
+## UN rejects Israel’s threat to expel Gaza residents over kite-flying
+UN rights office spokesperson slams Israeli threat of forced evacuations from Gaza communities over kite flying.
+
+## Palestinian boy shot during Israeli raid on UNRWA centre
+Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.
+
 ## The RSF’s defeat will not end Sudan’s war but merely fragment it
 Sudanese army's battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.
 
@@ -230,21 +245,6 @@ Fernandes rewarded for an outstanding season with a record number of assists in 
 
 ## Trump threatens Iran’s partners: How do secondary sanctions work?
 The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.
-
-## Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal
-Star pair lost to Cobolli and Bencic, who will play married partners Elina Svitolina and Gael Monfils in the semifinal.
-
-## Top official says Iran, Oman have agreed new temporary route in Hormuz
-Deputy foreign minster says the route's entry as well as part of the exit would run through Iranian territorial waters.
-
-## Iran bets economic pain will pressure Trump in game of ‘chicken’
-Iran is betting global economic fallout and Republicans worried about the midterms will force Trump's retreat.
-
-## Fireworks factory goes up in smoke in Mexico
-Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions
-
-## Massive natural gas leak in Wisconsin puts community on alert
-A truck hit a natural gas pipeline near Saxon, Wisconsin prompted nearby residents to evacuate.
 
 ## MCA financial year flexibility comes with tax reporting catch for companies
 Companies allowed to align their financial year with overseas parents or for commercial reasons will still have to maintain separate accounts and statements for income tax purposes, according to evidence recorded in the Joint Committee’s report on the Corporate Laws (Amendment) Bill, 2026.
