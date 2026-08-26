@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Hundreds reported missing after flash flood on Nepal border with China
+At least 160 people are confirmed dead and many local residents, foreign tourists, workers and security personnel remain unaccounted for
+
+## Ministers tell Bank of England to boost innovation in digital currencies
+Treasury gives central bank a new legal objective as part of effort to promote UK as hub for stablecoins
+
+## Heat dome leaves US Southwest facing ‘dangerous’ temperatures
+Scientists warn that tens of millions of Americans will be affected by extreme weather caused by climate change
+
+## El Niño’s looming threat to the global food system
+The world must be better prepared for big recurring shocks to agriculture
+
 ## Heatwaves spark interest in Gulf-style extreme cooling
 From chilled walkways to heat-reflecting roofs, wealthy oil states have pioneered ways to cope with high temperatures
 
@@ -12,14 +24,11 @@ Case relating to alleged failures of child protection was getting under way in C
 ## CIA chief makes rare visit to Moscow
 John Ratcliffe is first US spy chief to travel to Russia since 2022 invasion of Ukraine
 
+## Charting the trillion-dollar TAM wars
+Anthropic’s $30tn total addressable market estimate is unbelievable because it’s meant to be
+
 ## Vanguard and Victory Capital bet on scale as fund industry consolidates
 Asset management deal volumes have reached $53.8bn this year, the highest since at least 1995 according to Dealogic
-
-## Fed set to be data dependent in the months ahead
-Read the August forecast from the FT’s Monetary Policy Radar team
-
-## Slightly hotter than expected PCE inflation keeps Fed’s September rate rise in play
-Headline PCE inflation rates did not follow CPI lower in July as had been expected
 
 ## Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’
 TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams
@@ -33,35 +42,29 @@ Swiss watchmaker had sought damages of as much as $170mn in London lawsuit over 
 ## Life inside an American coal mine
 Operators are trying to make familiar an industry that seems consigned to another era
 
-## Reform UK pledges to cut data rules and curb liabilities for non-executives
-Nigel Farage’s party woos business by promising to scrap the General Data Protection Regulation if it wins power
+## India’s 145-crore skilling challenge
+India’s skilling challenge spans 145 crore people, from students and young people entering the workforce to workers navigating a changing job market. The NITI Aayog report, ‘Reimagining Skilling for Viksit Bharat@2047,’ examines these varied groups to identify where India’s current education and ski
 
-## FirstFT: US Treasury on collision course with Fed
-Also in this newsletter: Darline Graham wins South Carolina primary and Bill Gates calls for ‘human reserved’ jobs to protect them from AI
+## Acer expands business amidst dynamic global and local scenario: Sudhir Goel, Chief Business Officer Acer India
+Consumers trust Acer as a brand and Acer is known for offering the fresh technology at affordable price
 
-## Gaja listing could give AIF managers more firepower to invest: UK Sinha
-Gaja’s IPO listing enhances AIF managers’ investment capabilities, fostering growth in India’s innovation ecosystem and attracting institutional capital
+## Promoters cash in on rally, offload shares worth ₹13,000 crore in August block deals
+The biggest deal was in Groww’s parent, Billionbrains Garage Ventures, where 12.74 crore shares (2.1% of equity) were traded for about ₹2,500 crore at approximately ₹196.2 per share
 
-## Letters to the Editor dated August 26, 2026
+## India Inc turns to M&As as stronger balance sheets fuel growth push
+Deal volumes have more than doubled since FY17; three-fourths of acquirers saw ratings reaffirmed or upgraded after acquisitions
 
+## Families getting free foodgrains in Gujarat triple in 4 years
+The number of beneficiary families has steadily risen from 3.06 lakh in FY23 to 9.21 lakh in FY26
 
-## AI talent penetration in retail GCCs doubles to 4.8%, with just 320 senior AI professionals: TeamLease Digital
-AI workforce penetration in Retail GCCs has increased from 2.1% in 2022 to 4.8% in 2025, with projections of reaching 10.6% by 2028
+## Indian carriers have Philippines on radar, Air India increases capacity, IndiGo plans new flights
+Over 60,000 Indians visited Philippines in the first six months of CY2026 taking advantage of visa free entry scheme
 
-## FSSAI issues notices to Delhi’s Andaz, JW Marriott over serious food safety violations
-FSSAI pointed out various deficiencies across areas of labelling, hygiene and sanitation
+## Infineon takes 6.3 lakh sq ft in Bengaluru for ₹750 crore-plus lease commitment
+10-year lease at Brigade Solarium City comes with a 15% escalation every three years and a six-month security deposit of about ₹33.36 crore
 
-## Chennai Airport’s proposed Terminal 5 likely to be positioned between two runways
-The expansion will happen without disturbing the two runways
-
-## Jio Financial Services to roll out “a personal CFO for every Indian” on its app
-The personal CFO is based on a proprietary financial fitness score and will empower every Indian to live a better financial life, Hitesh Sethia, MD & CEO said
-
-## Engineering exports sustain 18% growth in July, but West Asia risks mount
-US and China shipments surge, but exports to UAE and Saudi Arabia decline amid continuing regional uncertainties
-
-## Accenture to support development of Eco Action & Learning Hub in Chennai
-The hub will help local communities learn about sustainability and take part in environmental action
+## Smallcaps hit all-time high as Nifty stumbles on IT, FMCG drag
+The Nifty 50 closed at 24,207.75, down 0.52%, after reaching an intraday high of 24,378; The Sensex fell 0.24% to finish at 77,472
 
 ## Gold may hit Rs 15 lakh per 10 grams? Billionaire investor Thomas Kaplan sees gold at $50,000 an ounce, calls another tenfold rise ‘inevitable’
 Gold prices have corrected in the last few months from their historic highs after rising meteorically the whole of 2025. This led many to question whether the bull run in the precious metal is over.
@@ -87,29 +90,29 @@ Gold price prediction today: Gold prices are showing a positive bias, and while 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
 
+## 77 people from Kailash group tied to Sadhguru out of reach after Nepal-Tibet flash flood: ‘Ready to join rescue’
+Sadhguru said he was personally in the region to ensure that all possible assistance could be provided in the situation.
+
+## India, China agree on early boundary delimitation push in new 8-point consensus
+India and China agreed to establish two additional border military hotlines in the eastern and middle sectors of the LAC to improve border management.
+
+## Indian embassy in Nepal, China issues helpline numbers for nationals amid massive flash floods
+At least 98 people have been killed – 95 in Nepal and 3 in Tibet – so far after devastating flash floods struck Nepal along its border with Tibet on Wednesday.
+
+## 'Allegations can't be treated as finding': CJI on SC judge seeking removal of Rajasthan HC acting Chief Justice
+CJI Kant, in a press statement, said he and other senior judges of the collegium have taken note of the concerns raised by Justice Mehta
+
+## Cockroaches, fungus, gutka packet: FSSAI notice to Delhi's JW Marriott, Andaz over massive food safety lapses
+At JW Marriott, FSSAI found fungus on apples, rotten tomatoes, improper storage of cut vegetables and other food products.
+
+## Delhi man sends legal notice to Insta creator, Meta over ‘spy’ glasses video reel
+The legal notice dated August 24 was sent by Apar Gupta, a lawyer and founder of the digital rights advocacy group Internet Freedom Foundation (IFF)
+
+## Gauhati HC notice to govts on plea linking illegal mining to Upper Assam floods
+Gauhati HC seeks replies from Assam, Nagaland governments on PIL alleging illegal mining and unscientific coal extraction aggravated floods in Sivasagar.
+
 ## 'Open dialogue': RSS defends Mohan Bhagwat's NYC event after mayor Zohran Mamdani's opposition
-'Open dialogue': RSS defends Mohan Bhagwat's NYC event after mayor Zohran Mamdani's opposition
-
-## What IMD said about Nepal flash floods: Glacier lake outburst, alert for Gandak river
-IMD also informed that official emergency SMS and high-alert advisories have been activated for the riverbanks of Rasuwa and more.
-
-## Three Telangana men killed in Florida after car hits roadside tree, catches fire
-Rahul’s father, N Haribabu, an assistant sub-inspector of police in Navipet, said that the accident occurred near Palm Bay in Florida’s Brevard County
-
-## Two missing, 19 rescued after boat capsizes in Ganga in Bihar’s Bhagalpur
-Police said quick response team rescued 19 of them; however, a search operation for the remaining twos is underway
-
-## Nepal flash floods trigger alert across border districts of Uttar Pradesh, Bihar
-Heavy rain and the opening of barrage gates in Nepal could also increase flow into the Ghaghara and Rapti rivers in Uttar Pradesh and the Kosi in Bihar.
-
-## 130+ Indians, 37 NRIs out of reach as Nepal floods toll mounts, Bihar, UP on alert: What is happening?
-Around 133 Indian nationals and 37 NRIs are among the foreigners missing and out of contact after a flash flood in the Bhote Koshi River in Nepal's Rasuwa.
-
-## Delhi family leaves Udaipur luxury hotel without paying ₹5.74 lakh bill: Report
-The family stayed at the Oberoi Udaivilas from August 14 to 23. While checking out, he told the hotel staff that bill would be paid by the travel agency
-
-## STF arrests Assam man, 21, for links with Pak-based Shahzad Bhatti terror group
-The Assam police’s Special Task Force (STF), in a joint operation with Hailakandi district police, arrested Fazal Islam Barbhuiyan
+The RSS backing Mohan Bhagwat's upcoming event at Madison Square Garden came hours after NYC Mayor Zohran Mamdani said he does not support it.
 
 ## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
 China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
@@ -159,29 +162,35 @@ Mykhailo Fedorov hopes anti-corruption rhetoric can carry him to power.
 ## Iran’s Economy May Outlast Trump’s Presidency
 A defiant Tehran has many tools for economic resilience.
 
+## AI Is Lowering the Barriers to China’s Information Warfare Against Japan
+China-linked influence operators are increasingly using AI to craft more effective disinformation campaigns.
+
+## How Taiwan Became Singapore’s Largest Trading Partner
+Economic ties are increasingly important, but Singapore cannot, and will not, become a defender of Taiwan's international status.
+
+## Tarun Tejpal’s Conviction and India’s Discussions About the ‘Perfect Rape Victim’
+It has also reignited debates around the role of the liberal media when the accused is one of their own.
+
+## The South China Sea and the Philippines’ Defense Strategies
+Insights from Su Mon and Tomas Buenaventura.
+
+## The Iran War Is Disrupting Trade Connectivity Across Eurasia
+Central Asian aims to benefit from Iranian ports and railroads have been disrupted by the ongoing conflict.
+
+## JASDF Fighter Jets to Visit India for First Time
+Three F-2A fighters will fly to India via Okinawa and Thailand for Veer Guardian 26, with the U.S. Air Force providing support including aerial refueling.
+
 ## Pakistan’s Kashmir Crackdown
 A “sham” election sparked popular outrage in nominally autonomous Pakistan-administered Kashmir – and a corresponding security crackdown.
 
 ## The South Korean Government’s Housing Policy Tanks Its Approval Ratings
 Even the historic Yongsan Park isn’t safe from the government’s desire for more housing.
 
-## A Golden Chance to Protect the Pacific’s ‘Blue Corridors’
-If Albanese is serious about a Pacific COP, he must heed the region’s call on oceans.
+## “Zero Problems” Abroad, Plenty at Home: Reassessing al Sharaa’s Leadership in Syria
+In 2025, Rob Geist Pinfold wrote, “The March Massacres Show That Syria Urgently Needs Solutions, Not Sanctions,” in which he argued that sanctions relief was a major way the West could positively engage with the new Syrian government. A year later, after sanctions relief materialized and the United 
 
-## How an Election in Okinawa Will Impact East Asian Security
-Incumbent Governor Denny Tamaki is known for his staunch anti-U.S. base sentiment. His re-election bid will ripple through the alliance and beyond.
-
-## Taiwan: A Growing Economic Partner for the EU in Troubled Times
-EU-Taiwan relations increasingly resemble a form of functional strategic partnership, despite the lack of formal diplomatic recognition.
-
-## India’s Gen Z Protests: When Youth Rage Becomes a Beacon of Hope
-India's Gen Z protest undeniably reopened democratic spaces that had shrunk over the past decade.
-
-## What the Latest ‘2+2’ Dialogue Tells Us About China-Indonesia Relations
-China wants more influence in Indonesia’s defense sector. Jakarta should make sure that also suits its national interests.
-
-## Pakistan Passes Legislation to Formalize New Military Command Structure
-It operationalizes structural changes that have been unfolding within the armed forces over the past year.
+## The Marine Corps’ Plan for the Future of Ground Combat
+The Marine Corps just released its plan to fight against adversaries on land, and Ryan had the two architects of the plan, Ground Combat Element 2040, on the show to talk about it. They discuss drones, resilience, long-range fires, logistics, and what marines will need to survive and fight on an inc
 
 ## Would Wartime Elections Save Democracy or End It?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -200,12 +209,6 @@ This exclusive Cogs of War interview is with Brandon Tseng, the co-founder and p
 
 ## The Risks of Downplaying China’s Military
 China has spent years modifying civilian ferries to launch amphibious armored vehicles, developing specialized equipment to move forces ashore without conventional port facilities, hardening dozens of air bases, and rapidly expanding the missile forces that could be used to deter or defeat a U.S. in
-
-## Pressure Points: Economic Strain, Allied Discord, and War Fatigue
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. strikes on Iranian soil tapered off in August after frequent exchanges throughout July. The hiatus seem
-
-## A Rock and China’s Three-Sea Problem
-Two rocks surrounded by coral, with a total land size of less than 10 square meters (approximately 108 square feet) at high tide, are the entire basis on which Japan claims a 150,000-square-mile exclusive economic zone, an area nearly the size of Japan itself. The uninhabited feature, located more t
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## LIVE: Real Madrid vs Real Sociedad – La Liga
-Live coverage and text updates from our commentary stream as Mbappe and Bellingham lead the line for Mourinho's side.
+## US inflation remains sticky in July
+Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.
 
-## Why a Christian group is suing the Dutch government for West Bank trade ban
-The Israeli Product Centre says it has not been given enough time to sell off its stock.
+## Prince Harry and Meghan Markle return to UK after royal rift
+The couple quit royal duties six years ago to head to California. It's unclear how they will be received on return.
 
-## Israel extends campaign against UNRWA to advance West Bank annexation
-Raid on UNRWA centre exposes Israel's strategic push to erase refugee rights, seal West Bank annexation, analysts say.
+## At least 50 injured as fireworks explode into crowd at Spanish festival
+At least 50 people were injured after several fireworks exploded among a crowd at a festival in northern Spain.
 
-## Kremlin says CIA head met Russian intelligence officials, but not Putin
-CIA's Ratcliffe has met with Russian intel officials in Moscow, but not President Putin; Kremlin calls talks 'positive'.
+## Why Hormuz remains high risk for ships despite US claims of mine-clearing
+Analysts say mine clearance alone is unlikely to make shipping 'safe' in the Strait of Hormuz.
 
-## Meta agrees to settlement, platform changes in youth addiction case
-Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.
+## Iran emphasises self-sufficiency in battle against US economic war
+Iranian authorities believe they can withstand US sanctions, but warn of a tough year ahead.
 
-## Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks
-'I have no time schedule,' Trump says when asked when he expects Iran to return to the negotiating table.
+## Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases
+Syria has been in talks on the fate of Khmeimim and Tartous bases, which Russia used to support ousted Assad regime.
 
-## Bodies of missing people found in Korea becomes national scandal
-A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.
+## Luxury watches worth $1.2 million stolen from a popular mall in Tokyo
+It took just 10 seconds for thieves to steal $1.2 million worth of luxury watches from a Tokyo shop in broad daylight.
 
-## Children in Gaza fear flying their kites after Israeli threat
-A 10-year-old boy who makes kites says he is afraid to fly them after Israel threatened to treat kites as acts of war.
+## Video: Man kills eight relatives in Montana gun attack
+A man killed eight relatives at a family home in the US state of Montana.
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
