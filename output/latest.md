@@ -1,28 +1,31 @@
 # AION Intelligence
 
+## Heatwaves spark interest in Gulf-style extreme cooling
+From chilled walkways to heat-reflecting roofs, wealthy oil states have pioneered ways to cope with high temperatures
+
+## Burnham seeks to bridge gap with nervous business community
+New prime minister hits crowd-pleasing note but private sector will reserve judgment until October Budget
+
+## Meta to pay up to $18bn to settle children’s social media harm case
+Case relating to alleged failures of child protection was getting under way in California
+
+## CIA chief makes rare visit to Moscow
+John Ratcliffe is first US spy chief to travel to Russia since 2022 invasion of Ukraine
+
+## Vanguard and Victory Capital bet on scale as fund industry consolidates
+Asset management deal volumes have reached $53.8bn this year, the highest since at least 1995 according to Dealogic
+
+## Fed set to be data dependent in the months ahead
+Read the August forecast from the FT’s Monetary Policy Radar team
+
+## Slightly hotter than expected PCE inflation keeps Fed’s September rate rise in play
+Headline PCE inflation rates did not follow CPI lower in July as had been expected
+
 ## Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’
 TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams
 
-## Meta to pay up to $16.7bn to settle children’s social media harm case
-Case relating to alleged failures of child protection was getting under way in California
-
-## Victory Capital to acquire First Eagle in $7bn deal
-Acquisition comes after Texas-based investment house lost out on race to buy Janus Henderson earlier this year
-
-## London is worst area in England and Wales for heat-related deaths
-New data shows relative mortality risk increases by 50% when temperature rises above 24C
-
-## Hundreds reported missing after flood on Nepal border with China
-Nepal says more than 50 people confirmed dead, with 384 foreign and local tourists reported missing
-
-## Burnham pledges to ‘take pressure off’ business ahead of Budget
-Prime minister tells the FT that he will not tax wealth creators out of the UK but stresses need for social responsibility
-
 ## Iran war approaching Ukraine-style stalemate, says shipping boss
 Freight rates remain at record highs while oil prices fall back on talks between Iran and Oman to reopen the Strait of Hormuz
-
-## Ukraine awards Musk medal as it seeks Starlink approval
-Tech billionaire reluctant to allow satellite system to be used for drone strikes deep inside Russia
 
 ## Samsung must pay Swatch $11.6mn over copycat smartwatch apps
 Swiss watchmaker had sought damages of as much as $170mn in London lawsuit over copyright infringement
@@ -36,29 +39,32 @@ Nigel Farage’s party woos business by promising to scrap the General Data Prot
 ## FirstFT: US Treasury on collision course with Fed
 Also in this newsletter: Darline Graham wins South Carolina primary and Bill Gates calls for ‘human reserved’ jobs to protect them from AI
 
-## Avaada Electro files IPO papers with SEBI, eyes ₹7,600 crore
-The IPO comprises a ₹1,600-crore fresh issue and a ₹6,000-crore OFS by promoter Avaada Ventures Private Ltd
+## Gaja listing could give AIF managers more firepower to invest: UK Sinha
+Gaja’s IPO listing enhances AIF managers’ investment capabilities, fostering growth in India’s innovation ecosystem and attracting institutional capital
 
-## Axis Energy teams up with Lumara for a 400 MW Solar Project in AP
-The project is expected to create significant employment opportunities for local communities
-
-## Meta reaches $17 billion settlement with states in landmark trial over teen social media addiction
-The lawsuit accused Meta of contributing to the youth mental health crisis by deliberately designing features that addict children to its platforms and hiding them from the public
-
-## Generali Central Insurance examining health insurance product that will link premiums to policyholder’s location
-Company also weighing covers for cyber-related risks faced by bank depositors and identity theft
-
-## Pocket
+## Letters to the Editor dated August 26, 2026
 
 
-## Apollo’s flagship oncology unit in Teynampet expands footprint into multi-speciality healthcare
-The upgraded facility comprises 300 beds, including 51 critical care beds, supported by 5 modern operating theatres and 1 Cath Lab
+## AI talent penetration in retail GCCs doubles to 4.8%, with just 320 senior AI professionals: TeamLease Digital
+AI workforce penetration in Retail GCCs has increased from 2.1% in 2022 to 4.8% in 2025, with projections of reaching 10.6% by 2028
 
-## TVS Motor celebrates one million TVS iQube families with MillionR special edition
-The new MillionR edition marks this achievement while reinforcing TVS iQube’s position as India’s favourite family EV
+## FSSAI issues notices to Delhi’s Andaz, JW Marriott over serious food safety violations
+FSSAI pointed out various deficiencies across areas of labelling, hygiene and sanitation
 
-## Indian carriers have Philippines on radar, Air India increases capacity, IndiGo plans new flights
-Over 60,000 Indians visited Philippines in the first six months of CY2026 taking advantage of visa free entry scheme
+## Chennai Airport’s proposed Terminal 5 likely to be positioned between two runways
+The expansion will happen without disturbing the two runways
+
+## Jio Financial Services to roll out “a personal CFO for every Indian” on its app
+The personal CFO is based on a proprietary financial fitness score and will empower every Indian to live a better financial life, Hitesh Sethia, MD & CEO said
+
+## Engineering exports sustain 18% growth in July, but West Asia risks mount
+US and China shipments surge, but exports to UAE and Saudi Arabia decline amid continuing regional uncertainties
+
+## Accenture to support development of Eco Action & Learning Hub in Chennai
+The hub will help local communities learn about sustainability and take part in environmental action
+
+## Gold may hit Rs 15 lakh per 10 grams? Billionaire investor Thomas Kaplan sees gold at $50,000 an ounce, calls another tenfold rise ‘inevitable’
+Gold prices have corrected in the last few months from their historic highs after rising meteorically the whole of 2025. This led many to question whether the bull run in the precious metal is over.
 
 ## Trump’s immigration crackdown: H-1B fee hike, visa appointments halted; key changes explained
 
@@ -81,32 +87,29 @@ Gold price prediction today: Gold prices are showing a positive bias, and while 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
 
-## Top stocks to buy today: Stock recommendations for August 26, 2026 - check list
-Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana Hrudayalaya - these are the top stok picks from Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for August 26, 2026:
+## 'Open dialogue': RSS defends Mohan Bhagwat's NYC event after mayor Zohran Mamdani's opposition
+'Open dialogue': RSS defends Mohan Bhagwat's NYC event after mayor Zohran Mamdani's opposition
+
+## What IMD said about Nepal flash floods: Glacier lake outburst, alert for Gandak river
+IMD also informed that official emergency SMS and high-alert advisories have been activated for the riverbanks of Rasuwa and more.
+
+## Three Telangana men killed in Florida after car hits roadside tree, catches fire
+Rahul’s father, N Haribabu, an assistant sub-inspector of police in Navipet, said that the accident occurred near Palm Bay in Florida’s Brevard County
+
+## Two missing, 19 rescued after boat capsizes in Ganga in Bihar’s Bhagalpur
+Police said quick response team rescued 19 of them; however, a search operation for the remaining twos is underway
 
 ## Nepal flash floods trigger alert across border districts of Uttar Pradesh, Bihar
 Heavy rain and the opening of barrage gates in Nepal could also increase flow into the Ghaghara and Rapti rivers in Uttar Pradesh and the Kosi in Bihar.
 
-## 100+ Indians, 37 NRIs missing as Nepal floods toll mounts, Bihar, UP on alert: What is happening?
-Around 105 Indian nationals and 37 NRIs are among the foreigners missing and out of contact after a flash flood in the Bhote Koshi River in Nepal's Rasuwa.
+## 130+ Indians, 37 NRIs out of reach as Nepal floods toll mounts, Bihar, UP on alert: What is happening?
+Around 133 Indian nationals and 37 NRIs are among the foreigners missing and out of contact after a flash flood in the Bhote Koshi River in Nepal's Rasuwa.
 
 ## Delhi family leaves Udaipur luxury hotel without paying ₹5.74 lakh bill: Report
 The family stayed at the Oberoi Udaivilas from August 14 to 23. While checking out, he told the hotel staff that bill would be paid by the travel agency
 
 ## STF arrests Assam man, 21, for links with Pak-based Shahzad Bhatti terror group
 The Assam police’s Special Task Force (STF), in a joint operation with Hailakandi district police, arrested Fazal Islam Barbhuiyan
-
-## Injured tiger rescued from Uttarakhand’s Terai West forest dies during treatment
-Corbett National Park warden Binder Pal Singh said the adult male tiger was rescued and shifted to the rescue centre in the Dhela range of the national park for treatment.
-
-## Rahul Gandhi asked Pawan Khera to target Himanta before Assam polls, claims Kiren Rijiju amid swimming tiff
-Kiren Rijiju claimed that he was told by two Congress members that Khera made the allegations against Sarma at Rahul Gandhi's behest.
-
-## Danish firms ready to pay premium to build ships in India: Denmark’s Ambassador
-Danish companies are willing to pay higher initial costs to build ships in India as Western economies seek alternatives to China and South Korea amid tensions.
-
-## HT Evening News Brief Aug 26: India slams UN over report, GIVA caves to backlash, Toxic review, Nepal floods
-HT Evening News Brief Aug 26: GIVA Jewellery has pulled its Kriti Sanon ad amid growing backlash over her attire, which critics called "against Indian culture".
 
 ## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
 China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
@@ -132,6 +135,9 @@ DeepSeek is nearing the completion of a new funding round valuing the company at
 ## US sanctions Chinese firms trading with Iran
 The US Department of the Treasury launched targeted sanctions against some 24 entities based in mainland China or Hong Kong as part of its “Operation Economic Outcast” campaign against Iran and its enablers. See below for the original announcement: US Treasury sanctions by scmp
 
+## The U.K. Is Falling for Palantir’s Salesmanship
+Fantasy, not practicality, is driving bad deals.
+
 ## Why Iran Might Escalate
 As Trump’s economic warfare takes its toll, Tehran will be tempted to go on the offensive in search of greater leverage
 
@@ -152,9 +158,6 @@ Mykhailo Fedorov hopes anti-corruption rhetoric can carry him to power.
 
 ## Iran’s Economy May Outlast Trump’s Presidency
 A defiant Tehran has many tools for economic resilience.
-
-## Mike Huckabee Reckons With the Disturbing Reality of Settler Violence
-Huckabee, a longtime supporter of settlements, recently invoked the Bible against Israeli settlers.
 
 ## Pakistan’s Kashmir Crackdown
 A “sham” election sparked popular outrage in nominally autonomous Pakistan-administered Kashmir – and a corresponding security crackdown.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## LIVE: Real Madrid vs Real Sociedad – La Liga
+Live coverage and text updates from our commentary stream as Mbappe and Bellingham lead the line for Mourinho's side.
+
+## Why a Christian group is suing the Dutch government for West Bank trade ban
+The Israeli Product Centre says it has not been given enough time to sell off its stock.
+
+## Israel extends campaign against UNRWA to advance West Bank annexation
+Raid on UNRWA centre exposes Israel's strategic push to erase refugee rights, seal West Bank annexation, analysts say.
+
+## Kremlin says CIA head met Russian intelligence officials, but not Putin
+CIA's Ratcliffe has met with Russian intel officials in Moscow, but not President Putin; Kremlin calls talks 'positive'.
+
 ## Meta agrees to settlement, platform changes in youth addiction case
 Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.
 
-## Trump tells Al Jazeera “not in a hurry” for Iran to return to talks
-"I have no time schedule," Trump says when asked when he expects Iran to return to the negotiating table.
+## Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks
+'I have no time schedule,' Trump says when asked when he expects Iran to return to the negotiating table.
 
 ## Bodies of missing people found in Korea becomes national scandal
 A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.
 
 ## Children in Gaza fear flying their kites after Israeli threat
 A 10-year-old boy who makes kites says he is afraid to fly them after Israel threatened to treat kites as acts of war.
-
-## Why northern Mozambique’s surging violence is worsening displacement crisis
-Over 100,000 people displaced last year alone, adding to the 1.3 million people already forced to flee from their homes.
-
-## Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns
-A nursery for critical infants — supposedly the safest place in Islamabad's PIMS hospital — turned into a deathtrap.
-
-## Callaway apologises after golf ad slammed for depicting domestic violence
-The advert, which was released online last week before being pulled, prompted calls for a boycott of Callaway products.
-
-## A teacher’s slap, student’s death revive India’s corporal punishment debate
-Teja's death raises question India has not fully answered: why more than a decade after ban is hitting children routine?
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
