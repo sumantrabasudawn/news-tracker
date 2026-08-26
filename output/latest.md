@@ -4,7 +4,7 @@
 Seoul hopes polar sea highway will reduce reliance on chokepoints such as Hormuz and revive ailing city of Busan
 
 ## Trump-backed candidate wins South Carolina primary
-Darline Graham’s victory reinforces president’s hold on the Republican Party ahead of November’s midterm elections
+Darline Graham’s victory reinforces US president’s hold on the Republican Party ahead of November’s midterm elections
 
 ## Deloitte to pay US administration $21.5mn to settle ‘discriminatory’ practices probe
 Firm one of several professional services businesses targeted by the American Alliance for Equal Rights
@@ -24,6 +24,9 @@ US state department wants consular officers to screen out people likely to need 
 ## Reform UK pledges to cut data rules and curb liabilities for non-executives
 Nigel Farage’s party sharpens its pitch to business by promising to scrap the General Data Protection Regulation
 
+## China’s YMTC aims to overtake Samsung and SK Hynix in flash memory race
+Chipmaker sets out Nand production ambitions in investor meetings for $5bn Shanghai IPO
+
 ## Foot Locker owner plunges after warning nervous consumers are cutting spending
 Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’
 
@@ -33,35 +36,38 @@ Trump wages war against his own economy
 ## SpaceX commits $100bn to Louisiana space base
 Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches
 
-## AI to fuel global growth as investment spreads beyond US, IMF says
-Managing director Kristalina Georgieva expects world economy to weather energy crisis ignited by Iran war
+## Private credit investment in F&B sector surges 12-fold in H1 2026: EY
+The momentum was supported by marquee transactions, including HyFun Foods Group's $156 million refinancing and working capital raise and Lenexis Foodworks' $113 million acquisition financing transaction
+
+## Emami well-placed to tap rural recovery, premiumisation trends: Chairman
+
 
 ## Sensex today | Stock Market Live: Indian stocks set for strong opening on positive global cues
-Sensex, Nifty, Stock Price Live Updates: The short-term outlook is bullish for Steel Authority of India Limited (SAIL). The stock has surged over 5 per cent so far this week breaking above a key resistance level of ₹180. This marks the end of the corrective fall that was in place since June. A cup a
+Sensex, Nifty, Stock Price Live Updates: Indian equities are poised for a firm start as falling crude oil prices, easing bond yields and positive global cues improve sentiment. Traders will watch key Nifty levels, geopolitical developments around the Strait of Hormuz and derivatives positioning for 
 
-## H-1B visa fee hike: Nasscom says Indian IT firms have cut reliance on visas
-Indian technology firms have strengthened their US workforce and STEM initiatives as policymakers reassess the role of skilled foreign workers
+## Gradiant aims to double revenue to $1 billion in 3 years driven by AI data centres growth
+Gradiant is also counting on the growth of semiconductor manufacturing and renewable energy projects to drive its growth
 
-## All you need to know about Lumino Industries IPO
-Sushil Finance Recommedation, anchor investors
+## Varun Beverages to enter alcobev segment, ropes in ex-Diageo executive Prathmesh Mishra
+The company will set up a new subsidiary, “KIVA Spirits and Company”, to enter the ready-to-drink (RTD) alcoholic beverages business
 
-## H-1B visa fee explained: What the $103,265 fee proposal means for US employers and foreign workers
-The proposed changes could have significant implications for companies facing worker shortages and professionals seeking temporary employment in the United States
+## Uttar Pradesh clears over 94% of sugarcane dues in current crushing season
+Government data highlights a broad expansion of Uttar Pradesh’s sugar sector, from higher farm productivity to increased crushing and processing capacity
 
-## Volkswagen $1.4 billion India tax dispute to be reheard by Bombay HC
-The fresh hearing extends a long-running dispute that has created uncertainty for the German automaker and its India business plans
+## Honda says it may not build new plant in North America without trade deal extension
+The Trump ​administration is currently negotiating with Canada and Mexico ⁠over the fate of the free trade deal known as USMCA
 
-## Indian stocks set for strong opening as crude oil falls, global cues improve
-Falling oil prices and softer global yields have improved the backdrop for domestic equities, while derivatives positioning points to measured gains
-
-## 15 stocks to watch: Honasa, Varun Beverages, NBCC, TMPV, Cipla and more
-From new projects and preferential allotments to stake sales, regulatory developments and strategic partnerships, several companies have reported updates that could influence investor sentiment today
-
-## Air India seeks $1.5 billion fresh equity from Tata Sons, Singapore Airlines
-The request follows a sharp deterioration in the airline’s financial performance, with combined losses more than doubling from the previous year
+## From Target to Pepsi: Global brands hit by backlash over controversial campaigns
+From advertising campaigns to merchandise, several global brands have faced consumer backlash after products or marketing were seen as culturally insensitive
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
+
+## Stock market operations on August 26: Are NSE, BSE open or closed today for Eid-e-Milad?
+On Eid-e-Milad, the Indian stock market will continue its trading operations as usual. However, it's important to note that August 26 marks a settlement holiday for all stock exchanges. This implies that while daily trading activities proceed, the processing of funds and securities will be temporari
+
+## Stock market today: Sensex, Nifty eye higher opening as crude oil prices fall
+
 
 ## Air India seeks $1.5 billion from owners Tata, Singapore Air
 Air India needs capital, but the $1.5 billion will be injected in phases, people familiar with the matter said. Co-owner Singapore Airlines will contribute its 25% share. Tata Sons had paused additional equity support in the year to March 2026. Its investment in Air India stood unchanged at Rs 22,61
@@ -78,35 +84,29 @@ Jana Small Finance Bank has sought a universal banking licence from RBI. RBI ret
 ## RBI turns net buyer of dollars in June
 The shift narrowed RBI’s cumulative net sales for the fiscal year to -$14.5 billion and reduced its outstanding forward short position to -$103.3 billion. In the currency futures market, purchases and sales were balanced at $2.9 billion each, leaving zero net outstanding futures. The dollar purchase
 
-## BIS, comm min will work to support high-tech industries
-Commerce and industry minister Piyush Goyalsaid that clarifications related to SEZ notification, which were flagged by some players, will also be looked at. He also said that govt is committed to making India a manufacturing base for electronics and semiconductors and offered to roll out the red car
+## Telangana: 6 killed after private bus rams into stationary truck in Suryapet
+The accident happened near Dorakunta village on the outskirts of Kodad mandal on Hyderabad-Vijayawada national highway (NH-65)
 
-## For global scale banks, EAC-PM seeks mergers
-Beyond consolidation, banks need to narrow the credit-deposit gap, mobilise stable low-cost deposits and curb concentration in high-risk unsecured retail loans while expanding credit to MSMEs, infrastructure and green investments. To measure efficiency, the study treated banks as institutions that u
+## HT First Read Aug 26: Mamdani on RSS rally, Yash's return after 4 years – top stories to start your day
+Here's your quick morning briefing.
 
-## 98% flu cases this season down to H1N1: ICMR
-Experts urge public to remain calm, as infections are in line with seasonal trends and no unusual patterns observed.
+## CJP news LIVE: CJP announces new members ahead of march on Sept 5; cops say no request yet for India Gate protest
+CJP news LIVE: The Cockroach Janta Party (CJP) on Tuesday named new members to its organisational teams as the pressure group prepares for a peaceful march in New Delhi next month. Earlier this month, the CJP announced its national working committee, naming Abhijeet Dipke as its national convenor.
 
-## A killing, heart-shaped tattoo, ₹1,000 fare dispute: Delhi cops arrest 3 after ‘man with no name’ found dead
-The man, believed to be around 35 years old, was found dead on August 21 near the boundary wall of a government school in Naraina Vihar.
+## Prakash Raj to join September 1 civil campaign to flag flaws in SIR
+Actor Prakash Raj on Tuesday said that civil society organisations in Bengaluru will hold an “Election Commission Chalo” campaign on September 1 to flag alleged flaws in the conduct of the SIR
 
-## 81% pleas before Bengal post-SIR tribunals seek cuts, not inclusion, Supreme Court told
-Only 700,000 challenge voter exclusions, prompting the Supreme Court to prioritize these cases before 2029 elections.
+## 5 of family found dead in Srisailam; suicide suspected
+Five members of a family were found dead in a lodge room in the temple town of Srisailam in Andhra Pradesh’s Nandyal district on Tuesday, with police suspecting the incident a suicide pact linked to financial difficulties
 
-## Himachal rain fury: 98 killed since monsoon onset, 99 roads blocked, massive landslide hits Chamba road
-A massive landslide blocked the road in Bharmour division, forcing vehicles to take the alternate Kandi Kuthed route to Urai.
+## CBI filed a record 1,005 cases and preliminary enquires in 2025: Report
+The agency had registered a total of 840 cases in 2024, 876 in 2023, 946 in 2022, 747 in 2021 and 676 in 2020, according to previous years’ CVC reports.
 
-## From Gandhi Maidan to chaos: Bihar students clash with police amid BPSC row
-Multiple injuries were reported among protesters and police, while several were detained after breaking barricades and throwing stones.
+## PC Vishnunadh: ‘We will lure travellers to Keralam using Ayurveda, adventure tourism’
+On the sidelines of the Onam festival and the tourism department’s weeklong celebrations, HT caught up with PC Vishnunadh, the state tourism and culture minister, to talk about the challenges and positives in both sectors
 
-## Amid student protests at IIT Delhi, police register abetment to suicide case over 31-year-old's death
-The 31-year-old's death sparked unrest at the IIT Delhi campus, triggering protests as students called for the resignation of certain officials.
-
-## Let July 20 probe into Delhi protest kick off: Supreme Court on plea to widen remit
-Petitioners seek reconstitution and further inquiry into the roles of government officials, including Union Home Minister Amit Shah.
-
-## India not a ‘dharamshala’, says Amit Shah; cites threats from infiltrators
-Amit Shah said only citizens had the right to live in the country and infiltrators posed a threat to India’s security, economy and demographics.
+## Union Cabinet approves extradition treaties with Kenya, Kazakhstan and Kyrgyz
+India and Seychelles, too, signed an extradition treaty during Prime Minister Narendra Modi’s visit there in June.
 
 ## Why rising heat is Asia’s next major health challenge
 Across the globe – and Asia in particular – the link between a changing climate and human health is becoming harder to ignore. Home to an estimated 60 per cent of the world’s population, Asia is warming faster than the global average and ranks among the planet’s most climate-disaster-prone regions. 
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli soldiers block Knesset member from besieged Palestinian home
+Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.
+
+## Mamdani opposes Hindu nationalist event in New York
+Zohran Mamdani says he opposes a right-wing Hindu nationalist event scheduled for next week at Madison Square Garden.
+
 ## Water crisis makes life in Sudan’s El Obeid refugee camps even worse
 Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.
 
@@ -245,12 +251,6 @@ Tehran says the agreement with Oman on routes through Hormuz does not indicate t
 
 ## Brazil fines TikTok $30m for child data privacy violations
 Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.
-
-## Why can’t America agree on what time it is?
-Why can’t America agree on what time it is?
-
-## US judge blocks Ohio law requiring proof of citizenship to register to vote
-The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.
 
 ## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
 India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
