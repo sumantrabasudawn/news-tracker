@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## UK household energy price cap to rise by 4% from October
+Middle East war pushes price limit to three-year high ahead of the winter
+
 ## FirstFT: US Treasury on collision course with Fed
 Also in this newsletter: Cashing in on EU sanctions and Germany’s defence push
 
@@ -21,44 +24,47 @@ Increased purchases of debt threaten to undermine central bank chief Kevin Warsh
 ## British Business Bank’s small business loans hit £4bn
 Executive pay jumps at the state-owned bank amid questions over its underwriting of commercial banks’ lending
 
-## Insurers pile into deals allowing banks to offload default risk
-Market for synthetic risk transfers has boomed in recent years, with insurers now offering banks unfunded structures
-
 ## AI Exchange
 In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
+
+## Insurers pile into deals allowing banks to offload default risk
+Market for synthetic risk transfers has boomed in recent years, with insurers now offering banks unfunded structures
 
 ## Saga’s over-fifties holidays are finally turning silver into gold
 Swapping insurance underwriting for selling other companies’ policies and refocusing on its brand and customer base was a good decision
 
-## The multiplying risks of financing data centres
-Wall Street players extending themselves to underwrite this colossal new asset class are looking to limit exposure
+## AI vs oil: IMF chief says global economy in tug of war
+IMF chief says risks to outlook more balanced than around Spring Meetings but remain tilted to downside
 
-## Sensex today | Stock Market Live: Sensex gains over 130 points; Nifty flat near 24,320
-Sensex, Nifty, Stock Price Live Updates: The market enters Wednesday’s session with a constructive backdrop, helped by lower crude prices and easing yields. Traders will watch Nifty’s 24,200 support and 24,350–24,375 breakout zone for further directional cues.
+## Sensex today | Stock Market Live: Sensex flat, Nifty slips as global cues improve
+Sensex, Nifty, Stock Price Live Updates: Sensex and Nifty traded mixed on Wednesday as easing crude oil prices improved the risk backdrop. The Nifty hovered near 24,300, with 24,200 emerging as key support and 24,350-24,375 likely to determine the next directional move.
 
-## Why are HDFC Bank shares in focus today?
-The HDFC Bank shares had closed at ₹727.50 on the previous trading session, and hit a 52-week low of ₹715.10 on August 19, 2026
+## Gold consolidates after 5-day rally as investors eye Fed rate clues
+Bullion edges down to near $4,640 an ounce, pulling back from a three-month high struck in the previous session
 
-## Copper futures: Uptrend steady
-Traders can roll-over longs to September contract
+## Chennai Airport’s proposed Terminal 5 likely to be positioned between two runways
+The expansion will happen without disturbing the two runways
 
-## Hero MotoCorp commits ₹960 crore to Ather
-The transaction is structured to optimise cash-flow flexibility, requiring an upfront payment of 25% with the remaining 75% deferred until conversion
+## Indian Navy monitors safe transit of merchant vessels through Bab-el-Mandeb Strait
+A mission-deployed naval unit monitored the vessels’ passage through a crucial maritime corridor as India continued safeguarding vital cargo transit.
 
-## Nasdaq futures fall before Nvidia, oil declines: Markets wrap
-Futures contracts for the Nasdaq 100 Index fell 0.5%, with chip bellwether Nvidia set to announce quarterly earnings later Wednesday; S&P 500 futures also slipped
+## Indian refiners widen oil search as attacks hurt Russian flows
+The shift in Indian processors’ buying patterns coincides with an expected increase in nationwide demand as a spate of plant maintenance comes to an end, enabling refiners to boost run rates and step up production
 
-## DuPont to Showcase PPE Innovation and Integrated Protection Solutions at OGA 2026
-DuPont to Showcase PPE Innovation and Integrated Protection Solutions at OGA 2026
+## Alcobev major Diageo launches initiatives to rejuvenate Godavari, Yamuna river basins
+The company has carried out a pilot project on regenerative agri practice with paddy and is set to expand the programme
 
-## CARD91 Introduces Five-Point Credit Lifecycle Consistency Framework for Credit Line on UPI
-CARD91 Introduces Five-Point Credit Lifecycle Consistency Framework for Credit Line on UPI
+## LuLu flies in Tamil Nadu, Karnataka marigolds to Gulf for Onam amid West Asia crisis
+With more than two million Malayalis living across the Gulf Cooperation Council (GCC) region, the availability of flowers for Onam has become an important seasonal logistics operation
 
-## RBI's Proposed Shift from Revolving Credit to Term Loans: SwiffyLabs Lending Platform Already Supports the New Construct
-RBI's Proposed Shift from Revolving Credit to Term Loans: SwiffyLabs Lending Platform Already Supports the New Construct
+## Gold price prediction today: Why gold prices are rising? Check August 26, 2026 outlook
+Gold price prediction today: Gold prices are showing a positive bias, and while short-term news related fluctuations may occur, the long-term outlook is bullish, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
 
 ## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
 What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
+
+## Top stocks to buy today: Stock recommendations for August 26, 2026 - check list
+Stock market recommendations: Tata Steel, Max Healthcare Institute, and Narayana Hrudayalaya - these are the top stok picks from Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for August 26, 2026:
 
 ## Gold steady near three-month high; silver rises as investors await US inflation data
 
@@ -75,35 +81,32 @@ On Eid-e-Milad, the Indian stock market will continue its trading operations as 
 ## Air India seeks $1.5 billion from owners Tata, Singapore Air
 Air India needs capital, but the $1.5 billion will be injected in phases, people familiar with the matter said. Co-owner Singapore Airlines will contribute its 25% share. Tata Sons had paused additional equity support in the year to March 2026. Its investment in Air India stood unchanged at Rs 22,61
 
-## Post-Covid, profits rise faster than investment
-One explanation identified by the study is that strong profitability from assets companies already own does not necessarily make a new investment equally attractive. Its analysis found evidence that the initial returns associated with fresh fixed-asset investment have weakened in the post-pandemic p
+## 'Bro wait...': Kangana trolls Rahul Gandhi's 'smash the patriarchy' talk
+The advertisement was pulled down on Wednesday.
 
-## RBI flags price risks, 2nd time in August
-Industrial activity also remained supportive. PMI data showed that firms’ expectations for future output improved, pointing to a positive outlook for demand and new business opportunities. The economy, the article said, “continued to display strength notwithstanding these headwinds”, while retail in
+## ‘Tera bhi number aayega’: Dipke jokes Saurav Das next in line to get beaten up after ‘assault’ on other members
+CJP founder Abhijeet Dipke was reportedly attacked in Jaipur in June this year, while co-convenor Ashutosh Ranka was allegedly assaulted last week.
 
-## Railways launch drive amid allegations of impure Rail Neer water
-Legal action against an influencer has been initiated, as inspections of water quality and catering standards commence across the railway network.
+## 2020 riots: Tahir Hussain moves Delhi HC on conviction in Ankit Sharma murder case
+The appeal further alleged that witnesses were planted, statements of genuine eyewitnesses were manipulated, and the actual perpetrators were not brought to book
 
-## Rajasthan minister Kirori Lal Meena tests positive for swine flu
-Rajasthan has intensified surveillance following a rise in flu cases in neighbouring states, including Delhi and Uttar Pradesh
+## BJP MP Rao Inderjit Singh blames Congress era for Gurugram rain chaos, pitches tunnel fix
+BJP MP Rao Inderjit Singh said underground tunnels, similar to those built for the metro, should be constructed along the routes of the old drains.
 
-## Andhra junior doctors temporarily call off strike, asks govt to respond to its demands
-Andhra junior doctors temporarily call off strike, asks govt to respond to its demands
+## Row over private properties in Telangana prohibited list
+The state government, however, has defended the restrictions, saying they are essential to protect public land and prevent fraudulent registrations.
 
-## WhatsApp tightens account security with new safety features: What are they and how do they work?
-WhatsApp has launched new security features, including stronger two-step verification, multiple passkeys for accounts, and enhanced caller details.
+## Naidu discusses tightening of pilot drug testing rules with officials, airlines
+Redrafting of the Civil Aviation Requirements (CAR) after consultations was among the issues discussed with officials and airlines
 
-## UP’s ‘sweet surplus’ can meet India’s sugar needs for 2 months
-Amid the shortage talks, the state’s immediate worry is to exhaust its existing sugar stocks of over 28 lakh tonnes that can meet the demand for 6-7 months.
+## Vijay for PM? TVK leaders make 2029 pitch, Congress reacts
+This sudden push for the “Vijay for PM” narrative has irked Congress, with party leaders remarking that TVK leaders are still operating in a “fan-club mode.”
 
-## Gurugram’s rain woes: IFFCO Chowk road caves in, dry taps, flood water recedes slowly
-The road subsidence came a day after heavy rainfall triggered widespread waterlogging and traffic congestion across the city.
+## Goa Cabinet clears anti-conversion bill ahead of assembly monsoon session
+Goa, where Christians and Muslims make up over 35% of the population, will become the 13th state to have an anti-conversion law if the bill is passed
 
-## No one should engage in 'narrow politics' : Mayawati on hijab row
-No one should engage in 'narrow politics' : Mayawati on hijab row
-
-## ‘Once the Pakistanis picked up the phone…’: Former CDS Anil Chauhan's 5 big revelations about Operation Sindoor
-Anil Chauhan said a key principle of Operation Sindoor was to ensure that India delivered the final strike in any escalation.
+## China dividend stocks back in vogue as AI trade fizzles out and bond yields fall
+Chinese investors have been seeking shelter in dividend stocks since a global rout on technology stocks, with a handful of old-economy companies beating chipmakers and artificial intelligence (AI) hardware manufacturers. The Shanghai Stock Exchange Dividend Index of 50 high-dividend stocks from the 
 
 ## DeepSeek nears pre-IPO funding round as 2027 market debut takes shape: sources
 DeepSeek is nearing the completion of a new funding round that values the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listing on Shanghai’s Star Market, according to people familiar with the matter. 
@@ -125,9 +128,6 @@ Hong Kong has seen a string of cut-price deals for super-luxury homes in recent 
 
 ## Hong Kong’s property, financial markets face test under cross-border anti-corruption law
 China’s deliberation on its sweeping cross-border anti-corruption law may ripple through Hong Kong’s financial and property markets, as Beijing seeks harsher punishments for corrupt officials and broadens its scrutiny of the massive pool of wealth transferred overseas. Hong Kong remains in focus aft
-
-## Bank of Singapore's CIO Summit 2026 brings global perspectives to Hong Kong
-[The content of this article has been produced by our advertising partner.] For much of the past three decades, investors benefited from an environment defined by globalisation, low inflation, ample liquidity and relative geopolitical stability. Today, many of those assumptions are being challenged.
 
 ## The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Rather than learn from its rival, Washington is trying to shut the door.
@@ -225,6 +225,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Top official says Iran, Oman have agreed new temporary route in Hormuz
+Deputy foreign minster says the route's entry as well as part of the exit would run through Iranian territorial waters.
+
 ## Iran bets economic pain will pressure Trump in game of ‘chicken’
 Iran is betting global economic fallout and Republicans worried about the midterms will force Trump's retreat.
 
@@ -237,17 +240,14 @@ A truck hit a natural gas pipeline near Saxon, Wisconsin prompted nearby residen
 ## Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again
 Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.
 
-## At least 15 newborns killed in Pakistan hospital fire
-Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.
+## At least 14 newborn babies killed in Pakistan hospital nursery fire
+Prime minister orders investigation and promises 'strictest action' against those responsible for the blaze.
 
 ## Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says
 Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.
 
 ## Instagram chief testifies at Meta trial, says few teens used safety feature
 Meta is on trial over claims it hooked young users on its platforms despite mental health risks.
-
-## Who were the Syrian Democratic Forces and why dissolve?
-Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.
 
 ## MCA financial year flexibility comes with tax reporting catch for companies
 Companies allowed to align their financial year with overseas parents or for commercial reasons will still have to maintain separate accounts and statements for income tax purposes, according to evidence recorded in the Joint Committee’s report on the Corporate Laws (Amendment) Bill, 2026.
