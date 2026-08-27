@@ -1,10 +1,31 @@
 # AION Intelligence
 
+## Lisa Cook says Trump has no grounds to fire her over ‘inadvertent’ mortgage paperwork
+Lawyers for the Federal Reserve governor deny any ‘intentional wrongdoing’ in response to president’s threats to dismiss her
+
+## Dating, delinquents and the power of second chances
+Japanese Netflix show ‘Badly in Love’ puts 11 troubled young people in a confined space and waits for Eros to light the touchpaper
+
+## Nearly half of young Britons wrongly think AI financial advice is regulated
+FCA warns over widespread misapprehension that investors are protected when AI advice goes wrong
+
+## London homebuyers need an extra £35,500 in deposit to make up for mortgage rate rises
+Higher rates have hit buying power but housing site Zoopla has nonetheless detected early signs of an ‘autumn bounce’
+
+## Anthropic agrees $45bn AI data centre deal with UK start-up Nscale
+Claude maker is rushing to secure computing capacity to run and train its latest models
+
+## ‘We got attacked’: Canadians unite in fury against Trump’s latest tariff salvo
+Washington’s aggressive trade stance prompts defiance from northern neighbour
+
 ## Heat dome leaves US Southwest facing ‘dangerous’ temperatures
-Scientists warn tens of millions of Americans will be affected by extreme weather caused by climate change
+Scientists warn tens of millions of Americans will be affected by extreme weather linked to climate change
 
 ## The Murder Detective — Lyra McKee documentary reveals the complexities of policing in Northern Ireland
 Channel 4 series follows the Police Service of Northern Ireland’s fraught investigation into the journalist’s 2019 murder
+
+## Nvidia projects 70% sales growth next year as AI boom shows no sign of slowing
+Chip giant’s data centre division grew 117% last quarter as clients race for computing power
 
 ## RedBird nears deal for Puck at $250mn valuation in latest digital media bet
 Transaction would mean fresh investment for news commentary platform as it seeks to broaden its offerings
@@ -12,38 +33,17 @@ Transaction would mean fresh investment for news commentary platform as it seeks
 ## OpenAI says it took a week to detect its AI models had hacked Hugging Face
 Start-up says AI agents communicated among themselves and sometimes tried to conceal efforts to cheat during testing
 
-## Trump administration pauses immigrant visa applications
-State department wants consular officers to screen out people likely to need public benefits
-
-## US designates Palestine Action a ‘terrorist group’
-Trump administration puts UK group under sanctions just over a year after it was proscribed in Britain
-
-## Hundreds reported missing after flash flood on Nepal border with China
-At least 160 people are confirmed dead and many local residents, foreign tourists, workers and security personnel remain unaccounted for
-
 ## Ministers tell Bank of England to boost innovation in digital currencies
 Treasury gives central bank a new legal objective as part of effort to promote UK as hub for stablecoins
 
 ## El Niño’s looming threat to the global food system
 The world must be better prepared for big recurring shocks to agriculture
 
-## Charting the trillion-dollar TAM wars
-Anthropic’s $30tn total addressable market estimate is unbelievable because it’s meant to be
+## Legal notice to Meta on covertly recorded video shot on smart glasses
+This case highlights growing concerns over privacy and consent in the era of wearable technology, amid similar scrutiny faced by the device globally.
 
-## Meta to pay up to $18bn to settle children’s social media harm case
-Case relating to alleged failures of child protection was getting under way in California
-
-## Vanguard and Victory Capital bet on scale as fund industry consolidates
-Asset management deal volumes have reached $53.8bn this year, the highest since at least 1995 according to Dealogic
-
-## Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’
-TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams
-
-## Iran war approaching Ukraine-style stalemate, says shipping boss
-Freight rates remain at record highs while oil prices fall back on talks between Iran and Oman to reopen the Strait of Hormuz
-
-## Samsung must pay Swatch $11.6mn over copycat smartwatch apps
-Swiss watchmaker had sought damages of as much as $170mn in London lawsuit over copyright infringement
+## SC judge seeks transfer of Rajasthan HC Acting Chief Justice, CJI reacts that allegations cannot be treated as a finding against the judge
+CJI reacted that the matter is being examined at the appropriate level and the process will take into account the material placed by Justice Mehta as well as the response of Justice Sharma. The court cannot allow individual complaints concerning judges to be determined through competing claims in th
 
 ## India’s 145-crore skilling challenge
 India’s skilling challenge spans 145 crore people, from students and young people entering the workforce to workers navigating a changing job market. The NITI Aayog report, ‘Reimagining Skilling for Viksit Bharat@2047,’ examines these varied groups to identify where India’s current education and ski
@@ -63,35 +63,29 @@ The number of beneficiary families has steadily risen from 3.06 lakh in FY23 to 
 ## Indian carriers have Philippines on radar, Air India increases capacity, IndiGo plans new flights
 Over 60,000 Indians visited Philippines in the first six months of CY2026 taking advantage of visa free entry scheme
 
-## Infineon takes 6.3 lakh sq ft in Bengaluru for ₹750 crore-plus lease commitment
-10-year lease at Brigade Solarium City comes with a 15% escalation every three years and a six-month security deposit of about ₹33.36 crore
+## India wants to review, expand 15-year-old trade pact with Japan
+India has been seeking a review of the agreement for several years but the Japanese side was holding out. A breakthrough of sorts was achieved last month when Prime Ministers of both countries said the two sides should discuss the pact and make it more contemporary. Bilateral trade between the two c
 
-## Smallcaps hit all-time high as Nifty stumbles on IT, FMCG drag
-The Nifty 50 closed at 24,207.75, down 0.52%, after reaching an intraday high of 24,378; The Sensex fell 0.24% to finish at 77,472
+## Sugar leaves bitter taste as retailers impose caps
+The closing stock for sugar season 2026 (runs from Oct to Sept) is estimated at 3.9 MMT, about 25% lower than the previous year and 40% below the five-year average of 6.5 MMT, analysts at Crisil Intelligence said in a note, prompting govt to allow import of 10 lakh tonnes of raw sugar, the first suc
 
-## Gold may hit Rs 15 lakh per 10 grams? Billionaire investor Thomas Kaplan sees gold at $50,000 an ounce, calls another tenfold rise ‘inevitable’
-Gold prices have corrected in the last few months from their historic highs after rising meteorically the whole of 2025. This led many to question whether the bull run in the precious metal is over.
+## Goods exports rise 15%+, top $200 billion
+Latest available data estimated exports during the third week of Aug at over $25 billion, a senior official said, on the condition of anonymity. Commerce and industry minister Piyush Goyal has set an ambitious target of goods and services exports reaching the $1-trillion mark for the first time. Exp
 
-## Trump’s immigration crackdown: H-1B fee hike, visa appointments halted; key changes explained
+## Uniqlo looks for expansion, to open more India outlets
+Goyal said there is interest on both sides in growing textiles trade. While Indian textiles players were unable to crack the Japanese market for several years due to low interest level, but some headway has been made as homegrown players now understand the requirements better in terms of understandi
 
+## India emerges as highest-performing market for Nestle
+“Emerging markets are driving growth for Nestlé across the board and India is leading the pack,” Nestle’s global CEO Philipp Navratil said in his first visit to the country, after taking the helm in Sept last year. At present, India is among its top 10 markets, and the potential to move up is “on th
 
-## Explained: When it makes sense to take a joint home loan and when it doesn’t
-When two earning members of a household apply together for a loan, their combined income can potentially improve loan eligibility and help manage repayment burden more efficiently. Most banks and HFCs reiterate that adding an earning family member as a co-applicant can improve their borrowing eligib
+## Foxconn looks for land parcel, Gujarat on radar
+According to top sources in govt, Foxconn executives have surveyed the plot of land near Sanand and the company will take a call on finalising the location in the coming weeks. “The company intends to set up a mobile phone and other high-end electronics manufacturing plant,” a senior state govt offi
 
-## Rs 30 lakh a month for an intern? India’s high-speed trading firms are in a fierce talent war
-In a bid to attract the brightest minds, high-frequency trading firms in India are ramping up intern compensation to unprecedented levels. This surge in hiring is influenced by stricter regulations on derivatives and a lull in equity market movements. Companies such as Quadeye and Graviton Research 
+## At 18k, India sees most mobile threat detections in 8 Apac markets: Report
+Across the eight Apac markets studied, the average number of mobile threat detections per affected user increased 49% year-on-year to 7.3 in the first quarter, from 4.9 a year earlier. The increase came even as the overall number of users encountering threats declined, suggesting that cybercriminals
 
-## Why India’s rice exports to Iran may survive Trump's sanctions threat
-India's rice exports to Iran are expected to continue despite tougher US sanctions. Demand from Iran remains firm for food security reasons, ensuring continued purchases. Indian exporters utilize alternative payment channels in countries like Turkey and the UAE. Essential goods like rice and pharmac
-
-## India’s 1st hydrogen train travels 6,000 km; cuts 36,444 kg CO2 emissions
-India’s first hydrogen train consists of 10 coaches and can accommodate 2,600 passengers. It operates between Jind and Sonipat in Haryana with a maximum operating speed of 75 kmph, although the train has been designed to reach 110 kmph.
-
-## Gold price prediction today: Why gold prices are rising? Check August 26, 2026 outlook
-Gold price prediction today: Gold prices are showing a positive bias, and while short-term news related fluctuations may occur, the long-term outlook is bullish, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
-
-## Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?
-What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.
+## Are IT cos simply raising capacity or adding value?
+But the trend has also revived an old debate: are these deals about acquiring capabilities or simply adding to their capacity? The strategy is driven partly by the need to grow contract values as organic revenue expansion slows for Indian IT companies and artificial intelligence reshapes traditional
 
 ## 77 people from Kailash group tied to Sadhguru out of reach after Nepal-Tibet flash flood: ‘Ready to join rescue’
 Sadhguru said he was personally in the region to ensure that all possible assistance could be provided in the situation.
@@ -117,6 +111,15 @@ The RSS backing Mohan Bhagwat's upcoming event at Madison Square Garden came hou
 ## What IMD said about Nepal flash floods: Glacier lake outburst, alert for Gandak river
 IMD also informed that official emergency SMS and high-alert advisories have been activated for the riverbanks of Rasuwa and more.
 
+## Prudential sees new business profit growth slow, announces US$300m share buy-back
+British insurer Prudential announced a US$300 million share buy-back, to be completed by December, as it reported an 8 per cent increase in new business profit for the first half of the year. The buy-back and slower profit growth came amid market concerns over a potential pullback in mainland Chines
+
+## China’s robotics IPO wave gains steam as 2 more firms eye Hong Kong listings
+Another two Chinese robotics start-ups have confirmed plans to launch initial public offerings in Hong Kong as early as next year, boosting the city’s role as a prime fundraising hub for China’s fast-growing technology sector. The two Hangzhou-based firms – both founded by former executives at Aliba
+
+## Stablecoins Seen as New Rails for Global Finance
+Coins.ph Chief Executive Officer Wei Zhou is betting that regulated stablecoin rails can lower the cost of remittances, widen access to dollars and bring millions of underbanked users into the financial system. When Wei Zhou tried to move his own savings from Asia to the United States to buy a famil
+
 ## China’s CNOOC rakes in record first-half profit on high oil prices amid Iran war
 China National Offshore Oil Corporation (CNOOC), the nation’s largest offshore oil and gas producer, saw its net profit jump 23.4 per cent to a record high in the first half of the year, as higher oil prices and increased production boosted earnings amid the Iran war. The company’s net profit rose t
 
@@ -132,14 +135,11 @@ China’s largest hotpot chain Haidilao International Holding has seen takeaway 
 ## Amos Food plans Hong Kong listing to expand global sweets empire
 Chinese confectionery giant Amos Food is seeking a listing in Hong Kong, as the firm looks to capitalise on the viral popularity of its sweets brands by ramping up investment in its overseas operations. Shenzhen-based Amos – known for its Peelerz peelable gummies and TastySounds music lollipops – ha
 
-## China dividend stocks back in vogue as AI trade fizzles out and bond yields fall
-Chinese investors have been seeking shelter in dividend stocks in the wake of a global rout on technology stocks, with a handful of old-economy companies beating chipmakers and artificial intelligence hardware manufacturers. The Shanghai Stock Exchange Dividend Index of 50 high-dividend stocks from 
+## Iran, Oman Agree to Temporary Strait of Hormuz Deal
+Tehran vows to keep the waterway closed if Washington does not accept its terms.
 
-## DeepSeek nears pre-IPO funding round as 2027 market debut takes shape: sources
-DeepSeek is nearing the completion of a new funding round valuing the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listing on Shanghai’s Star Market, according to people familiar with the matter. The 
-
-## US sanctions Chinese firms trading with Iran
-The US Department of the Treasury launched targeted sanctions against some 24 entities based in mainland China or Hong Kong as part of its “Operation Economic Outcast” campaign against Iran and its enablers. See below for the original announcement: US Treasury sanctions by scmp
+## What an Extradition Trial Reveals About Moscow’s Influence in Africa
+New details have emerged about a network of pro-Russian actors in the Sahel and beyond.
 
 ## The U.K. Is Falling for Palantir’s Salesmanship
 Fantasy, not practicality, is driving bad deals.
@@ -158,12 +158,6 @@ Rather than learn from its rival, Washington is trying to shut the door.
 
 ## The U.S.-Canada Trade War Is Full Steam Ahead
 Ottawa issues retaliatory tariffs to go “dollar for dollar” with U.S. duties.
-
-## Ukrainians Skeptical as Former Defense Minister Pushes for Elections
-Mykhailo Fedorov hopes anti-corruption rhetoric can carry him to power.
-
-## Iran’s Economy May Outlast Trump’s Presidency
-A defiant Tehran has many tools for economic resilience.
 
 ## AI Is Lowering the Barriers to China’s Information Warfare Against Japan
 China-linked influence operators are increasingly using AI to craft more effective disinformation campaigns.
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Video: Ukrainian drones target Wildberries e-commerce hub in Russia
-Ukrainian drones have again targeted the Russian online shopping giant Wildberries.
+## Tim Curry, star of The Rocky Horror Picture Show, dies at age 80
+Curry, a three-time Tony nominee, was best known for his portrayal of Dr Frank-N-Furter in the cult classic musical.
 
-## Israel-Hamas truce failure ‘point of no return,’ envoy warns
-Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.
+## Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks
+Qatar's PM will meet Iranian officials to discuss ways to de-escalate tensions in the region, foreign ministry says.
 
-## UNRWA chief condemns Israeli seizure of East Jerusalem facility
-Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.
+## World Health Organization says Ebola outbreak in Uganda is over
+International body declares Uganda Ebola-free after 42 days without new transmission, though cases rise in DR Congo.
 
-## German airport workers die from malaria caught from plane-riding mosquito
-Four infected employees being treated in hospital; mosquito traps deployed at Frankfurt hub.
+## Spain’s tomato food fight leaves thousands covered in pulp
+Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.
 
-## Israeli forces install new gate, isolating Palestinian village
-Israeli forces installed gates around the home of Palestinian American Lou Ridi in Qusra, in the occupied West Bank.
+## Barcelona vs Athletic Club: La Liga – prediction, teams, lineups
+Lamine Yamal and Raphinha will seek to add to Barcelona's five-star La Liga opener when Athletic arrive from Bilbao.
 
-## Kurdish-led SDF has dissolved, but has Syria really unified its military?
-SDF's dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.
+## US judge declines Minnesota’s effort to force Texas to extradite ICE agent
+ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.
 
-## UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan
-UEFA set to end threat of FIFA events boycott after assurances over Gianni Infantino's failed World Cup investor plan.
+## Tribe accuses US federal agents of ‘trespassing’ on indigenous border land
+The Tohono O'odham people have sued the US government to stop construction of a border wall through their reservation.
 
-## US imposes sanctions on Palestine Action and other left-wing groups
-Palestine Action's Huda Ammori says Trump's penalties should be a 'wake-up call' for UK to lift ban on the group.
+## Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad
+Kylian Mbappe hat-trick powers Real Madrid past Real Sociedad in La Liga on Jose Mourinho's Bernabeu return.
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
