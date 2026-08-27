@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## Up to 1,300 people missing after Nepal flood disaster
-China warns of risk of further landslides as huge rescue effort gets under way
+## Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada
+US president’s executive order underscores fraying relations between allies after trade talks collapsed
 
-## The battle plans in Trump’s tariff wars look more witless each time
-Canada was right to resist US intimidation
+## US bank regulators to narrow enforcement focus to financial risks
+Overhaul is part of a wider deregulatory push under the Trump administration
 
-## ‘Neets’ numbers dip below 1mn as Burnham prepares fresh push on welfare reform
-Figures on 16- to 24-year-olds out of work and education remain at second-highest level in almost 13 years
+## Burnham’s high street plan is ‘delusional’, says Mike Ashley
+Billionaire behind Frasers Group slams prime minister’s business rates reform and crackdown on discounting
 
-## EU states revive plan to use frozen Russian assets for Ukraine
-Sweden, the Netherlands and Spain back plan to solve Kyiv’s latest funding crisis
+## Alphabet agrees to pay £260mn to settle UK class action lawsuit
+Group’s Google business was accused of overcharging developers who made software for the Google Play app store
 
-## UK asylum claims drop sharply as ministers curb hotel use
-Decline of 21% in year to June reflects fall in small-boat arrivals via English Channel
+## Anthropic launches tool that can manipulate laboratory tools
+Claude chatbot maker unveils a system designed to help automate scientific experiments
 
-## Thames Water saga undermines case for more market solutions
-Privatisation has become associated with failures, such as in the water industry, rather than its successes
+## Deadly flood a brutal reminder of growing Himalayan hazards
+Torrent that tore through settlements near Nepal’s border with China comes as scientists warn climate change is increasing risks
 
-## Activist fund targets Samsung in South Korea’s first test of shareholder rights rules
-Flashlight Capital says new corporate governance law emboldened it to make takeover bid for conglomerate affiliate
+## More than 1,400 people missing after Nepal flood disaster
+China warns of risk of further landslides as rescue effort intensifies
 
-## AI revenue reporting: slop
-Plus, more on bad weather
+## ‘Headless software’ signals further AI-led shake-up
+The SaaS-pocalypse might be easing but industry change is accelerating
 
-## Nvidia forecasts 70% sales growth fuelled by relentless AI boom
-Chip giant rebuts criticism of ‘circular financing’ deals as it beats Wall Street expectations
+## In asset management, the race for scale is becoming urgent
+Even with markets at record highs, the pressure to find new clients is mounting
 
-## Japan-Taiwan bonds and a tariff refund boost
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## Uefa prepares criminal complaint against Fifa’s Infantino
+Governing body of European football seeking documents from Joshua Kushner’s investment firm
 
-## FirstFT: Nvidia results beat Wall Street expectations
-Also in this newsletter: Harvard’s European outpost and French debt
+## Cyber attack on UK’s largest airport group exposes data of 8.7mn customers
+Manchester Airports Group is latest British company to be hit by large-scale hack
 
-## Von der Leyen reiterates EU competitiveness focus as economic woes mount
-Also in this newsletter: Dutch push ahead with Israeli settlement trade measures
+## Humanoid robots will be useful, just not as we imagined
+Bipedal robots may look impressive doing tricks on YouTube, but the real value lies with their less flashy, highly functional industrial cousins
 
-## Jane Street’s $15bn wake-up call
-The July loss was a stunning reversal for a trading firm whose returns had become the envy of Wall Street
+## India’s Agriculture Minister seeks industry’s support in taking agri tech to farmers’ field
+Urges industry to work on a 5-point formula, invites private sector to take technolgy to help the government in achieving larger objectives
 
-## Sensex today | Stock Market Live: Sensex falls over 200 points; Nifty slips as global, domestic worries weigh
-Sensex, Nifty, Share Prices LIVE: Benchmark indices Sensex and Nifty remained subdued through afternoon trade on Thursday as shares of HDFC Bank and NTPC dragged
+## IHCL announces its first branded villa project, expands presence in segment
+The project is spread across 34 acres and will comprise 32 branded villas and a 100-key Taj resort
 
-## Why Manappuram Finance shares have fallen 5% despite high gold prices?
-Over 96 lakh shares worth ₹339.57 crore traded on the NSE alone by the afternoon
+## BRICS Summit may push for cross-border payment systems
+FM-Central Bank Governors track to meet in early September to firm up proposals on CBDC and payment-system links ahead of the September 12-13 summit
 
-## Jabalpur to get Rs 472-crore facility to overhaul T-72, T-90 tanks
-The new facility will help bridge the Army’s annual tank overhaul requirement, supplementing capacity currently available at Heavy Vehicles Factory, Avadi
+## Maharashtra sold most PVs, CVs in Q1 FY27, UP : SIAM
+In terms of the number of two-wheelers and three-wheelers sold, UP topped the list
 
-## Binance Introduces Agent OS to Connect AI Applications to Financial Infrastructure
-Binance Introduces Agent OS to Connect AI Applications to Financial Infrastructure
+## Nifty closes at lowest point in the last two todays even as CAS shakes Sensex on F&O expiry day
+Sensex ends at 76,933.59, down 0.70%, while the Nifty 50 settled at 24,090.85, off 116 points or 0.48%, its weakest close in six sessions
 
-## Rassense Becomes First Indian CFS Company to Cross 5,000+ Employees; On Track to Cross INR 600 Crore in Revenue
-Rassense Becomes First Indian CFS Company to Cross 5,000+ Employees; On Track to Cross INR 600 Crore in Revenue
+## Operating profit growth of manufacturing companies improved significantly in Q1: RBI
+Sales growth of listed private non-financial companies continued to accelerate to 19.4 per cent
 
-## Trio World Academy Named 'Best International School in India' at the 9th Business World Awards 2026
-Trio World Academy Named 'Best International School in India' at the 9th Business World Awards 2026
+## ECBs surge 74% YoY in June on RBI concessional swap and rate differential
+The June borrowing was 74.4% higher than the $3.48 billion recorded in June 2025, while it was 28.3% above the $4.74 billion raised in May 2026
 
-## Maharashtra sold most PVs, CVs in Q1 FY27: SIAM
-UP led the States in the sales of two-wheelers and three-wheelers
+## Hy Tech Engineers gets 244x booked, Skyways Air and Symbiotec 71x subscription on last day
+Shares are proposed to be listed on both the BSE and NSE on September 1.
 
-## Centre plans ₹13,000-crore incentive scheme for battery cell components
-Proposal aims to cut dependence on Chinese parts and close cost gap for local manufacturers
-
-## MBA degree is paying more than engineering: Top 10 B-schools offer Rs 27.4 lakh average, while the salary premium of MBAs over engineering is set to rise from 52% to 59%
+## MBAs bag higher salaries than engineers: Top B-schools average Rs 27.4 lakh
 MBA roles for the class of 2026 offered average salaries that were 52% higher than those for engineering positions. The gap is expected to grow further, with MBA roles for students appearing for placements in 2026, or the class of 2027, projected to offer 59% higher pay than engineering roles.
+
+## Rs 1.1 lakh cr to Rs 2.1 lakh cr: Why cost of 1st bullet train project has doubled
+The bullet train project is also becoming a platform for India's own high-speed rail ambitions. BEML and ICF are developing India's first indigenous high-speed trainset, with the first expected to roll out in 2027. The trains are being designed for operating speeds of around 250 kmph, with a design 
+
+## The big Indian IT sector shake-up: GCCs are hiring more than traditional tech; who is getting the jobs?
+Global Capability Centres or GCCs which are essentially specialised offshore units of multinational companies are fast absorbing talent from the traditional IT sector. The trend suggests that India’s GCCs are emerging as an increasingly important engine of technology hiring.
+
+## India, China, Canada and more: 10 countries still under Trump’s tariff squeeze and why
+
 
 ## Taxpayers alert! Weak rupee may push foreign assets above Rs 1 cr, raising tax bill
 In fact, the rupee’s decline over the years, strict valuation requirements and the fact that many amounts exceed the prescribed lower limits are discouraging several taxpayers from disclosing previously unreported foreign income and assets.
@@ -78,38 +84,41 @@ Gold and silver price prediction today: MCX Gold has entered a consolidation pha
 ## Stock market today: Indian shares set to rise as easing oil boost sentiment
 
 
-## Top stocks to buy today: Stock recommendations for August 27, 2026 - check list
-Top stock market recommendations: Vedanta, Central Depository Services (India) Ltd (CDSL), and Ashok Leyland - Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth has picked these as the top stocks to buy on August 27, 2026. He has shared his views on Nifty 
+## NLSIU cancels convocation, to give degrees in absentia
+NLSIU canceled its 34th annual convocation for graduating students due to "unavoidable circumstances," conferring degrees in absentia instead.
 
-## India wants to review, expand 15-year-old trade pact with Japan
-India has been seeking a review of the agreement for several years but the Japanese side was holding out. A breakthrough of sorts was achieved last month when Prime Ministers of both countries said the two sides should discuss the pact and make it more contemporary. Bilateral trade between the two c
+## Woman, two minor daughters found dead in Karnataka; suicide-murder suspected
+Police suspect that the woman may have poisoned her daughters before taking her own life, but the exact cause of the deaths are yet to be ascertained.
 
-## Sugar leaves bitter taste as retailers impose caps
-The closing stock for sugar season 2026 (runs from Oct to Sept) is estimated at 3.9 MMT, about 25% lower than the previous year and 40% below the five-year average of 6.5 MMT, analysts at Crisil Intelligence said in a note, prompting govt to allow import of 10 lakh tonnes of raw sugar, the first suc
+## Pakistan used ‘spies’, sleeper cells to locate S-400 during Operation Sindoor, was ‘desperate’: Air Marshal
+The S-400 ‘Sudarshan’ is a Russian-made air defence missile system which was very crucial in countering missile threats from Pakistan during Operation Sindoor.
 
-## MEA shares update on Nepal floods: 288 Indians uncontactable, 21 rescued, 200 seeking help in Tibet
-On rescue and relief efforts, Randhir Jaiswal said 21 Indian nationals have been rescued, adding that around 200 Indians have sought assistance in Tibet.
+## Ahead of Brics Summit next month, India works to bridge divide over West Asia conflict
+Iran and the UAE, which are on opposite sides of the conflict, have hit discussions within the Brics grouping.
 
-## 'Democracy still flexible': Tharoor praises India's response to Gen Z protest, draws parallels with other countries
-Praising the government's decision to accept the students' demand for a big resignation, Shashi Tharoor said that the “system bent, but didn't break”.
+## PM Modi to visit Uzbekistan, Kyrgyzstan for bilateral talks, SCO Summit
+PM Modi will visit Uzbekistan and Kyrgyzstan from August 29-September 1, holding bilateral talks in Tashkent and attending the SCO Summit in Bishkek.
 
-## 7 dead in bus-auto rickshaw collision in Andhra Pradesh, CM Naidu expresses grief
-According to the Narasaraopet DSP, the incident occurred when a private bus heading to Tirupati reached the bypass near Chilakaluripet to pick up a passenger.
+## NSG starts first Mahila Commando Course for women police, CAPF personnel
+NSG has launched its first 12-week Mahila Commando Conversion Course for women personnel from state police forces and CAPFs at its Manesar academy.
 
-## Delhi HC quashes criminal defamation case against senior advocate Pinaki Misra
-Delhi HC quashes criminal defamation case against senior advocate Pinaki Misra
+## Meghalaya lawyers boycott courts, demand Advocate General Amit Kumar’s removal
+Meghalaya lawyers boycotted court proceedings and held a protest in Shillong, demanding the resignation or removal of Advocate General Amit Kumar.
 
-## Four killed, one injured, another missing in ambush in Manipur’s Kangpokpi
-Four civilians were killed, one injured and another missing after an alleged ambush on Manipur’s Imphal-Tamenglong road amid renewed Naga-Kuki tension.
+## All about RSS chief Mohan Bhagwat's New York City event: Date, time, venue and more
+RSS chief Mohan Bhagwat arrived in New York on Tuesday as part of a three-nation outreach tour covering the US, Canada and the UK.
 
-## 53 people from Keralam stranded in flood-hit parts of Nepal are safe: Officials
-Family members of some of the group members were able to speak to them over the phone
+## Fosun rebounds after property clean-up with core focus on growth, innovation
+Fosun International is emerging from a painful clean-up of its property portfolio with a sharper focus on pharmaceuticals, insurance and tourism, betting that years of asset sales and debt reduction have cleared the way for a return to growth. The group swung back to stronger profitability in the fi
 
-## Premier law institute NLSIU cancels convocation amid row over CJI Surya Kant's proposed presence, CJP reacts
-The NLSIU on August 3 had sent an email, informing students that the ceremony was to take place on September 12.
+## Bond market revolt signals fading confidence in US economic leadership
+Two years ago, the prospect of a trade war between the United States and Canada, two of the world’s most closely integrated economies, would have been unthinkable. However, US President Donald Trump’s recklessness and capriciousness know no bounds. Last week’s breakdown in negotiations between the N
 
-## Fuel level at 45 coal power plants at ‘critical,’ reveals govt data
-Of the affected plants, 40 are domestic coal-fired plants, according to data on the website of Central Electricity Authority
+## Hong Kong expands AI sandbox with projects that include banks, securities and insurance
+Hong Kong’s financial regulators have selected the first batch of projects for an expanded generative artificial-intelligence (GenAI) testing programme spanning banking, securities, insurance and pensions, as the city explores the use of more autonomous AI agents in financial services. A total of 36
+
+## Hong Kong retirees’ living costs grow 3 times city’s average on more northbound travel
+Hong Kong retirees are facing living cost growth nearly three times the city’s average over the past five years, mainly driven by the strong demand for northbound travel, according to a new report. The findings came from the first edition of the Hong Kong-Macau Retirement Expense Index, a gauge refl
 
 ## Zhipu AI shares jump as viral Ox Alpha model revealed as GLM-5.3-Flash on Chinese chips
 China’s Zhipu AI has launched its latest open-weight model, GLM-5.3-Flash – previously code-named Ox Alpha – saying that the system ran entirely on a cluster of 100,000 domestically produced chips during a high-profile stealth trial. The announcement followed a week of heavy traffic on artificial in
@@ -123,41 +132,44 @@ Bourse operator Hong Kong Exchanges and Clearing (HKEX) is exploring merging the
 ## Hong Kong gold imports fall 18% in July as mainland giants rush to build vaults
 Gold flows into Hong Kong eased to about 107 tonnes in July despite mainland corporate buyers pouring capital into new bullion vaults, as they bet on the city’s strategic ambition to establish itself as Asia’s premier hub for the precious metal. The city’s non-monetary gold imports fell about 18 per
 
-## Chip sell-off helps boost China’s private funds as US$83.3b is pulled out of mutual funds
-The assets managed by China’s private funds grew last month as those of its mutual funds shrank, with investors diversifying their portfolios amid a sell-off of semiconductor shares. The net assets under management (AUM) of domestic mutual funds shrank by 560 billion yuan (US$83.3 billion), or 1.4 p
+## China’s Success Is Forcing a U.S. AI Rethink
+Silicon Valley obsessions may have led Washington down a dead end.
 
-## How disciplined endurance powers markets and life success in the long run
-When Tim Wannenmacher took part in his first ultra-marathon across the Gobi Desert in 2008, he had never run more than 10km. But his mind was made up; he planned his path and achieved his goal. After completing another ultra the following year, he has regularly taken part in Hong Kong’s 100km Oxfam 
+## Myanmar Shows War Doesn’t Stop Mining
+Critical minerals are still flowing out of conflict zones, but accountability is harder than ever.
 
-## China’s Akeso says cancer drug beat AstraZeneca’s Imfinzi in phase 3 trial
-Chinese biopharmaceutical firm Akeso announced on Wednesday that its immunotherapy drug had outperformed AstraZeneca’s Imfinzi in a head-to-head phase-three trial for biliary tract cancer. The result represents another breakthrough for Akeso’s ivonescimab – which has already been licensed by the US 
+## Why North Korea Doesn’t Want to Meet With Trump
+Kim Jong Un is done talking about denuclearization.
 
-## Prudential sees new business profit growth slow, announces US$300m share buy-back
-British insurer Prudential announced a US$300 million share buy-back, to be completed by December, as it reported an 8 per cent increase in new business profit for the first half of the year. The buy-back and slower profit growth came amid market concerns over a potential pullback in mainland Chines
+## Germany’s Rhine River Is Drying Up
+The economic damage is just one of the consequences.
 
-## The ‘Stability-Instability Paradox’ Comes for Markets
-This is not yet an economic catastrophe, but it could very easily become one.
+## Don’t Freak Out Over the Pentagon’s Europe Plans
+Congress, European nations, and Trump himself stand in the way of major changes.
 
-## Iran, Oman Agree to Temporary Strait of Hormuz Deal
-Tehran vows to keep the waterway closed if Washington does not accept its terms.
+## Trump Keeps Stabbing Japan in the Back
+Tokyo doesn’t have a playbook for a supposed ally this unreliable.
 
-## What an Extradition Trial Reveals About Moscow’s Influence in Africa
-New details have emerged about a network of pro-Russian actors in the Sahel and beyond.
+## A Cabinet Full of Roy Cohns
+Trump’s longtime mentor is the true father of the president’s second-term abuses, a new book posits.
 
-## The U.K. Is Falling for Palantir’s Salesmanship
-Fantasy, not practicality, is driving bad deals.
+## Trump’s Freewheeling India Envoy Muddles South Asia Policy
+Does Sergio Gor speak for himself or the White House? And how would we know?
 
-## Why Iran Might Escalate
-As Trump’s economic warfare takes its toll, Tehran will be tempted to go on the offensive in search of greater leverage
+## SCO at 25: Institutionalizing Coexistence Without Convergence
+In an international system increasingly characterized by strategic distrust, contested borders, fragmented and overlapping alignments, the capacity to communicate with one’s rivals remains critical for conflict management.
 
-## Why Iceland Might Finally Join the EU
-The Nordic country has long evaded the bloc. After a referendum on Saturday, that might change.
+## AI, Scams, the Law, and Governance: A Conversation With David Tan
+How are Southeast Asia's governments facing up to the challenges of AI?
 
-## Is Europe Ready for a New Era of Russian Dirty Tricks?
-After the Kremlin’s failure in Ukraine, Putin’s new plan aims westward.
+## The Tibet-Nepal Flood Is a Himalayan Climate Security Warning
+The catastrophic flood this week proves that Tibet needs to be at the center of international climate security discussions.
 
-## The U.S. Can’t Catch Up to China’s Robots by Banning Them
-Rather than learn from its rival, Washington is trying to shut the door.
+## Nepal’s ‘Himalayan Tsunami’ Is a Warning for the Whole Region
+Melting ice, unstable terrain, landslides, river blockages, sudden lake releases, and extreme weather can all combine in unpredictable ways.
+
+## Rahul Gandhi Ushers a New Style of Youth-Centric Politics in India
+From being mocked for being inexperienced and incompetent, he is now emerging a sought-after leader of India’s youth.
 
 ## Remembering a Genocide: The View From the Rohingya Camps
 Nine years on, Rohingya refugees still wait for justice and home. But they haven't given up hope.
@@ -168,20 +180,8 @@ The flood, centered on Nepal's Rasuwa District and China's Gyirong County, kille
 ## AI Is Lowering the Barriers to China’s Information Warfare Against Japan
 China-linked influence operators are increasingly using AI to craft more effective disinformation campaigns.
 
-## How Taiwan Became Singapore’s Largest Trading Partner
-Economic ties are increasingly important, but Singapore cannot, and will not, become a defender of Taiwan's international status.
-
-## Tarun Tejpal’s Conviction and India’s Discussions About the ‘Perfect Rape Victim’
-It has also reignited debates around the role of the liberal media when the accused is one of their own.
-
-## The South China Sea and the Philippines’ Defense Strategies
-Insights from Su Mon and Tomas Buenaventura.
-
-## The Iran War Is Disrupting Trade Connectivity Across Eurasia
-Central Asia aims to benefit from Iranian ports and railroads have been disrupted by the ongoing conflict.
-
-## JASDF Fighter Jets to Visit India for First Time
-Three F-2A fighters will fly to India via Okinawa and Thailand for Veer Guardian 26, with the U.S. Air Force providing support including aerial refueling.
+## Beneath the Surface: Overlooked Cyber Security Threats
+Cyber security remains a persistent concern for public and private sector organizations alike. Given the potential impact of cyber threats from criminal groups, adversarial states, and extremists, the topic draws substantial attention. Yet, in a field that evolves so quickly, some risks slip through
 
 ## The Goldilocks Fallacy: The Undefined Limits of Korea’s Nuclear Role
 “Unthreatening and respectful.” That is how the president of the United States described North Korea on Aug. 16, 2026, in his social media post ordering his secretary of defense to scale back joint exercises with South Korea. Two years earlier in Seoul, the U.S.-South Korean alliance agreed that Sou
@@ -203,9 +203,6 @@ Judged by the initial strategic goals set by Russian President Vladimir Putin in
 
 ## Command and Politics in the War Between Moscow and Kyiv
 Our intrepid team covers a lot of ground in this episode: the increasing fluidity of the battlefield, drones and air defense, the biting Black Sea campaign, the causes and aftermath of the firing of Ukraine’s popular defense minister, why Ukraine probably cannot produce PAC-3 air defense missiles (d
-
-## Betting on Autonomous Aircraft
-This exclusive Cogs of War interview is with Brandon Tseng, the co-founder and president of Shield AI and a former Navy SEAL, whose company builds the Hivemind autonomy software, the V-BAT and X-BAT aircraft, and Aechelon synthetic reality and simulation technologies. We asked Brandon about the bet 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How far will the US-Canada trade war go?
-Canada and the US risk a full-scale trade war after a breakdown in talks.
+## Belugas and dolphins rescued from Canada’s Marineland arrive in Spain
+Two belugas and four dolphins from Canada’s Marineland were relocated to an aquarium in Spain.
 
-## Trump crosses Lake Ontario on map, renames it ‘Lake America’
-US President Donald Trump posted a video of him crossing out Lake Ontario on a map and writing ‘Lake America’ instead.
+## Al Jazeera reporter witnesses wildfire smoke toll on kids inside Indonesia
+Al Jazeera’s Jessica Washington reports from an Indonesian clinic treating children struggling to breathe amid wildfires
 
-## How a 95 percent drop in Hormuz traffic changed global shipping
-A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade.
+## Trump executive order bans some foreign equipment in US energy grid
+Order declares a national emergency over an 'unusual and extraordinary foreign threat' to the grid.
 
-## Photos: More than 1,300 missing in Nepal and Tibet after deadly floods
-Glacier collapse sends floods over Nepal-China border, killing at least 270 and leaving more than 1,300 missing.
+## Zambia opposition leader questioned over ‘treason’ amid election fallout
+Zambia's entire judiciary closed on Monday on the last valid day to file a court challenge against Hichilema's victory.
 
-## Malaysia’s former PM Ismail Sabri charged with concealing assets
-Sabri, 66, pleaded not guilty to allegedly failing to provide a complete declaration of assets.
+## Video: Israeli strike kills newlywed woman in south Lebanon
+A Lebanese woman has been killed, and several other people injured by Israeli strikes on Nabatieh, southern Lebanon.
 
-## Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
-Fenerbahce's French midfielder Guendouzi was attacked by Lyon fans after he mocked them at the end of the match.
+## US President Trump signs order renaming Lake Ontario to ‘Lake America’
+The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
 
-## ‘Swept away’: Nepal families search for relatives after devastating floods
-About 180 people have been killed and 1,400 are missing, with numbers expected to rise significantly.
+## Trade war between US and Canada could cost 90,000 jobs
+Trump’s new 50% tariffs could put nearly 90,000 Canadian jobs at risk.
 
-## Lightning bolt strikes Mecca’s clock tower
-Lightning bolt strikes Mecca’s clock tower
+## Nigeria’s football federation chief resigns amid corruption allegations
+President Bola Tinubu's office says he has ordered 'comprehensive reform' of the country's football administration.
 
 ## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
 Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
@@ -279,6 +276,12 @@ AI is creating more jobs than it destroys in India currently. However, entry-lev
 ## GSTAT president expresses concern over dismal appeal filings, sees scope for 2-2.5 lakh cases
 The GSTAT e-filing portal was made operational on September 24, 2025, and the deadline for filing appeals, which were time-barred, was July 31, 2026.
 
+## India's RBI gives banks more flexibility in swapping overseas dollar deposits
+The Reserve Bank of India has permitted banks to swap dollars more than once weekly. This change aids banks in managing large inflows before a deposit scheme deadline. The special deposit scheme has attracted over sixty-five billion dollars so far. Banks are raising overseas funds to leverage potent
+
+## Sebi mulls scrapping mandatory merchant banker rule for small-ticket debt via private placement
+Sebi proposed exempting small-value debt issues from merchant banker appointments. This aims to reduce compliance costs and boost market development for listed entities. Issuers must meet specific conditions, including being regulated and listed for one year. They also need an auditor's certificate 
+
 ## India, China may build new framework for investments
 India and China are exploring new frameworks for business exchanges and investments. Beijing may unveil an investment package for India during President Xi Jinping's visit. This includes a special economic zone with easier sea route access. Efforts are underway to ease approval processes for Chinese
 
@@ -296,7 +299,4 @@ Sebi has closed proceedings against Max Financial and Axis entities concerning a
 
 ## Where has India’s $73 billion gone? Inside the RBI’s great dollar haul
 India has mobilised about $73 billion in foreign currency in under 11 weeks, largely through FCNR(B) deposits, yet the rupee remains near ₹95-96 per dollar. The inflows are primarily strengthening RBI’s foreign-exchange buffers rather than being used to push the currency higher.
-
-## RBI board gets three new part-time directors
-The Appointments Committee of the Cabinet (ACC) has approved the appointment of Annie George Mathew, Syed Akbaruddin and Janmejaya Kumar Sinha as part-time non-official directors on the Reserve Bank of India’s central board for four years.
 
