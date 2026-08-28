@@ -1,67 +1,88 @@
 # AION Intelligence
 
-## The great junior consultant reskilling
-As AI takes over more technical tasks, consulting executives are considering ordering junior staff back to the office
+## Submit your questions: is Trump losing his touch?
+Take part in a live Ask an Expert Q&A with columnist Jemima Kelly on Thursday September 3 at 1pm (BST)
 
-## US corporate profits surge to record as worker payouts wilt
-Pre-tax earnings hit highest level since after the second world war as employee remuneration slides
+## US manufacturing is booming — but it’s no thanks to Trump’s tariffs
+This is not the nostalgic, protectionism-fuelled return that the president promised
 
-## Burnham retreats from backing return of Parthenon sculptures to Greece
-UK prime minister previously called for British Museum to ‘send them back, no strings attached’
+## Hawkish Warsh hints Fed will raise rates if inflation does not fall soon
+Wall Street cranks up bets on September increase in borrowing costs following central bank chair’s Jackson Hole address
 
-## Healey could suffer £4bn headroom hit because of lower immigration forecasts
-New chancellor is seeking to reassure investors as he prepares for first Budget in October
+## Warsh settles some nerves at Jackson Hole
+Speech gave a crisper picture of how he reads the economy but leaves open questions over Fed ‘reaction function’
 
-## Saudi Arabia shakes up flagship real estate project
-British CEO replaced in latest change after review of portfolio companies of sovereign wealth fund
+## Chinese rescue workers reach border crossing destroyed by Himalayan flood
+Rescue efforts resume after being suspended over fears of further flooding near the Tibet-Nepal border
 
-## Burnham’s devolution push delays police merger plans
-Regional mayors have expressed concern about the government’s drive to create bigger regional forces for England and Wales
+## Walmart settles lawsuit over painkiller prescriptions
+Retailer resolves case with US justice department over allegations it fuelled the nation’s opioid crisis
 
-## Zero-interest convertible bonds set for record year
-Issuance on track for highest-ever level amid high AI stock volatility and as companies seek to limit borrowing costs
+## Gatwick airport water supply hit by burst pipe
+Toilets and restaurants closed after incident, the second disruption this summer
 
-## Meta’s $18bn settlement shows the wrong way to keep kids safe
-Relying on mutual compromise is a flawed way to protect young users
+## Warsh’s mildly hawkish speech helped fill in the blanks
+The Fed chair finally gave us his views on the economy at Jackson Hole, outlining his concern that inflation has not ‘meaningfully improved’
 
-## Sanjeev Gupta’s family takes out £24mn mortgage on Belgravia mansion
-Investment firm Topland provided bridging loan to controversial steel tycoon’s wife
+## Aberdeen fund takes £200mn hit on failure of UK broadband provider
+Sale of Airband to Macquarie-backed rival is latest sign of distress in indebted ‘altnet’ sector
 
-## UK venture capital investment rebounds as software and biotech attract funding
-Demand is coming mostly from overseas investors
+## Asda hopes fresh tech push can reverse fortunes
+UK supermarket chain aims to catch up with rivals after botched post-Walmart £1bn IT upgrade
 
-## The cowboy clinics selling unproven longevity treatments
-An FT investigation has found a thriving market for stem cell therapies in the US promising longer, healthier lives. Experts say such claims are dangerous
+## BYD profits rise for first time in five quarters on export boost
+EV maker sees net profits for the second quarter jump 30% despite domestic pressure
 
-## Hotel groups expand beyond Med’s swarming coastal strips
-Appeal of Europe’s inland towns and rural destinations boosted by AI and social media
+## Why banks find it so hard to manage reputational risk
+It is one thing to assess facts, another to weigh up the public reaction to them
 
-## Watchdog probes law firm over work linked to collapsed lender MFS
-Solicitors Regulation Authority investigates Gunnercooke after demise of mortgage provider
+## How batteries are reshaping the solar power business model
+Also in today’s newsletter, are global emissions approaching a peak?
 
-## HDFC Bank shares hit fresh 52-week low. Should investors be worried?
-The stock hit a fresh 52-week low of ₹707 in early trade after the bank said it is exploring an appeal against NCLT’s decision on media baron Subhash Chandra’s repayment plan of ₹6.5 crore.
+## Can Netflix remake Jersey Shore — and its property market?
+With entertainment studios moving in, actors, directors and producers will surely follow, but the area has a lot of work to do to shake off its faded reputation
 
-## Sensex today | Stock Market Live: Sensex nears 77,300, Nifty above 24,150 as markets gain
-Sensex, Nifty, Stock Price Live Updates: Indian equities traded higher on Friday, supported by positive global cues and gains in technology stocks, while investors remained cautious amid elevated crude oil prices, geopolitical uncertainties and expectations surrounding the Federal Reserve’s Septembe
+## India food regulator proposes front-of-pack warning labels for high sugar, fat and salt
+The proposed labelling comes after health activists challenged the government in court, while food companies have opposed warning labels as confusing
 
-## Closing auction scrutiny deepens as wild Sensex swing worries traders
-Sensex sinks 3% during closing auction session on Thursday
+## Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity
+Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity
 
-## Nifty Prediction Today – August 28, 2026: Nifty futures: Set to rebound
-Nifty futures (Sep) can rally to 24,430; traders can consider intraday longs
+## TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the World of Agentic Engineering and Quality
+TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the World of Agentic Engineering and Quality
 
-## Crude oil prices fall as US discusses buying stakes in Venezuelan oilfields
-Top US officials met with their counterparts in Caracas last month to discuss more specifics of the deal
+## ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standard White Cane Used by Visually Impaired People
+ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standard White Cane Used by Visually Impaired People
 
-## Rupee declines 10 paise to 95.55 against US dollar in early trade
-A marginally weaker greenback and a fall in global crude oil prices to levels below $90/barrel prevented a sharper decline in the local unit
+## Procam launches 'HDOR - 100 Days of Running' in a whole new avatar turning 100 days of movement into habits for life
+Procam launches 'HDOR - 100 Days of Running' in a whole new avatar turning 100 days of movement into habits for life
 
-## Markets open higher; IT stocks lead gains as investors await Warsh's Jackson Hole speech
-The Sensex opened at 77,128.05 and rose to 77,181.97, up 248.38 points by 9:25 AM; The Nifty 50 opened at 24,122.60 and increased to 24,143.30, up 52.45 points
+## SF Holding Reports Solid First Half 2026 Results, Accelerating International Growth and Enhancing Shareholder Returns
+SF Holding Reports Solid First Half 2026 Results, Accelerating International Growth and Enhancing Shareholder Returns
 
-## Trump administration seeks to restrict internships for international students
-“Failure to comply with SEVP regulations may result in an institution ‌losing ⁠certification to enroll foreign students,” the memo said
+## Annu Projects IPO subscribed nearly 3x on closing day, NIIs lead demand
+It comprised a fresh issue of 1,76,83,000 equity shares
+
+## RBI to conduct VRRR auction for ₹6 lakh crore on Aug 31
+This auction comes in the backdrop of the banking system being awash with liquidity
+
+## India's forex reserves hit all-time high of $729.33bn after $12.42bn jump
+India's foreign exchange reserves reached an all-time high of $729.328 billion. This surge marks eight consecutive weeks of significant increases in reserves. Foreign currency assets and gold holdings were the primary drivers of this substantial rise. Measures to attract overseas dollar inflows cont
+
+## IndiGo Ventures invests in Sarvam to enhance Artificial Intelligence in aviation
+IndiGo Ventures is investing in Sarvam, an Indian AI company. This investment supports Sarvam's Series B funding round. The partnership aims to enhance customer experience and operational workflows. Both companies will develop AI applications for a modern airline infrastructure. This collaboration s
+
+## Why India and China are betting on the Northern Sea Route & why it matters
+India’s interest in the Northern Sea Route is being shaped by two factors: its commercial potential and the need to broaden trade connectivity. The NSR also offers a clear geographical advantage on certain Asia-Europe trade lanes.
+
+## Jio Platforms gets Sebi nod for $3.8bn IPO, potentially India’s biggest listing
+Jio Platforms secured Sebi approval for its substantial $3.8 billion initial public offering. This significant approval paves the way for India's potentially largest stock market listing. The company plans to offer new shares, raising approximately $4 billion for its operations. Proceeds will primar
+
+## Oil prices today: Crude heads for weekly losses as Hormuz flows remain choppy
+Oil prices remained largely steady on Friday. Both Brent and WTI benchmarks were set for sharp weekly declines. Stalled US-Iran diplomatic talks and uneven Hormuz crude flows influenced traders. India's MCX crude futures also traded lower on Friday. Market sentiment shifted as economic sanctions rep
+
+## Govt achieves 78% of FY27 disinvestment, asset monetisation target in 5 months
+The government has raised over Rs 62,000 crore through disinvestment and asset monetisation. This figure represents 78% of the full-year budget target for FY27. The Life Insurance Corporation stake sale contributed significantly to these proceeds. Other public sector entities also saw stake dilution
 
 ## Top stocks to buy today: Stock market recommendations for August 28, 2026 - check list
 Stock market recommendations: Siemens, Laurus Labs, and BHEL - Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One has picked these as the top stocks to buy today on August 28, 2026:
@@ -69,71 +90,68 @@ Stock market recommendations: Siemens, Laurus Labs, and BHEL - Hitesh Rathi, Tec
 ## Sensex opens 200 points higher, Nifty hovers around 24,000 ahead of Fed chair’s address
 
 
-## On F&O expiry day, sensex sees wild swings during Closing Auction Session
-On Thursday, within a five-minute window after the start of CAS on BSE—between 3.18pm and 3.23pm—sensex crashed over 2,200 points and then within the next seven minutes—between 3.23pm and 3.30pm—it recovered nearly 2,000 points. It finally closed at 76,934 points, down 539 points from its Wednesday 
+## 'BJP can't scare me with ED, CBI': B Nagendra slams 'manuwadis' after stepping down as Karnataka minister
+The Congress leader announced his resignation as the minister for planning and statistics in Karnataka as well as from his MLA seat.
 
-## Will carefully consider AI’s capital request: SIA
-SIA made its stand clear after a Singapore opposition MP Kenneth Tiong opposed using state investor Temasek’s funds to meet AI request for more fund infusion from its twin promoters. Since Temasek owns most of SIA, the opposition Workers’ Party legislator said in a social media post Wednesday AI’s r
+## Sonia Gandhi memoir’s India edition likely to feature saree-clad photo clicked by Rajiv Gandhi
+Sonia's book deal with Penguin Random House India fell through as she refused to make changes or deletions of references to PM Modi, RSS and Chinese intrusions.
 
-## India emerges as global production, innovation hub: FM
-At a joint presser with her Canadian counterpart François-Philippe Champagne, FM said she discussed practical avenues for cooperation in the financial sector, including cross border payments, financial stability, fintech and capital markets. “We (also) explored opportunities for wider international 
+## FSSAI proposes red warning labels on packaged foods high in sugar, fat, salt
+FSSAI proposes red front-of-pack warning labels for foods high in fat, sugar or salt, following the Supreme Court’s push for clearer nutrition warnings.
 
-## HDFC looks to appeal 99.97% haircut on claims against Zee’s Chandra
-Assenting creditors (80.8%) contested allegations of being related parties and argued that Rs. 6.5-crore plan offered a better outcome compared to pushing the personal guarantor into bankruptcy, since Chandra’s net worth according to the resolution professional was only Rs. 31.8 crore, of which Rs. 
+## Dipke seeks ‘complete overhaul’ of education system after IIT student's suicide: ‘If this is the situation…'
+Taking to the social media platform X, Abhijeet Dipke said that the IITs have witnessed 65 student suicides in the last 5 years.
 
-## Daikin lines up Rs 2,800 crore fresh investment
-During his meeting, commerce and industry minister Piyush Goyal is learnt to have suggested to Daikin Industries president and COO Naofumi Takaneka that the Japanese company should go beyond assembling compressors to also manufacture them in India, including their components. Takaneka is learnt to h
+## 'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror
+The pilgrim, who is from Visakhapatnam in Andhra Pradesh, described the situation as "very serious" and claimed that around 250 Indians were missing.
 
-## ‘Govt to focus on easing processes to boost FDI’
-Goyal said govt was keen that investment model should not only focus on large companies but the entire value chain that leads to downstream indigenisation. In paints, for instance, import of titanium dioxide, a key input, is of the tune of $1 billion and govt wants it to be manufactured in India, he
+## Woman found dead near lake in Tamil Nadu’s Tiruvallur; police form 3 special teams
+Police identified the woman as 46-year-old Aruna from Andhra Pradesh; her body was found near Vellakulam lake with a smartphone lying nearby.
 
-## A missing flush: Yamuna fails to hit warning level this monsoon
-Currently at 202.52 meters, the river's flow affects groundwater and aquatic life.
+## ‘Results visible next winter’: MoRTH secy on Delhi-NCR fleet renewal scheme
+Ministry of Road Transport and Highways (MoRTH) secretary V Umashankar said the ministry is targeting 230,000 truck and bus registrations under the scheme in a year
 
-## TN digitises liquor stock supply: Handheld devices, mandatory OTP login for shops from Sep 1
-TN digitises liquor stock supply: Handheld devices, mandatory OTP login for shops from Sep 1
+## ‘I know the disease and medicine’: Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans
+West Bengal CM Suvendu Adhikari vowed to stop Maoists, Palestine supporters from using Jadavpur University as ‘free ground’
 
-## E10 petrol comeback in plans? What BPCL said amid reports on lower-ethanol fuel option
-Earlier reports said the govt was discussing E10 premium petrol with Indian Oil, BPCL and Hindustan Petroleum, using 95-octane fuel with a 10% ethanol blend.
+## BYD posts US$1.2 billion profit in second quarter on surging global demand
+China’s electric vehicle (EV) giant BYD saw its earnings jump 30 per cent in the three months from April to June, ending a five-quarter losing streak as buoyant overseas sales and premium models enhanced its net margin and profitability. The Shenzhen-based carmaker, also the world’s largest EV build
 
-## HT Morning Brief Aug 28: 2 new lakes threaten fresh disaster in Nepal, Sonia's memoir loses publisher
-Here's your 5-minute sprint through today's biggest stories — politics, India, world, entertainment and sports.
+## HKEX Tech 100 adds Pony AI, WeRide in index revamp targeting AI stocks
+Hong Kong Exchanges and Clearing (HKEX) will add 10 companies – including autonomous-driving firms Pony AI and WeRide – to its Tech 100 Index as part of a quarterly reshuffle that increases the benchmark’s exposure to artificial intelligence and other emerging technologies. Other additions include A
 
-## Keralam Home Minister asks Crime Branch to verify reports Sukumara Kurup is alive
-Keralam Home Minister asks Crime Branch to verify reports Sukumara Kurup is alive
+## China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off
+Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in first-half revenue on Friday, as the firm released its first financial results since becoming China’s most valuable publicly traded company in a blockbuster Shanghai listing last month. The Hefei-based firm – China’s lea
 
-## Karnataka techie living in Australia missing after Nepal floods, last seen at border
-Rakesh Nayak, who had travelled to Mansarovar as part of a package tour organised by the Isha Foundation, was last known to be near the Nepal-China border.
+## BOCHK posts higher profit as lower credit costs offset margin pressure
+Bank of China (Hong Kong), one of the city’s three note-issuing banks, reported a 7.1 per cent year-on-year increase in first-half net profit, as lower impairment charges and a wider net interest margin helped offset continued pressure on lending margins from falling Hong Kong interbank rates. Profi
 
-## Union minister JP Nadda meets protesters to discuss income-based reservation demands
-The government aims to address students' concerns and avoid prolonged unrest like previous protests, signaling a willingness for ongoing dialogue.
+## Macau tycoon Lawrence Ho’s family office expands into space sector in de-SPAC deal
+Black Spade Capital, the family office of Macau casino billionaire Lawrence Ho Yau-lung, has announced its third “de-SPAC” deal through a merger with a satellite communications firm, a move granting it access to the space technology sector. Under the agreement, Singapore-based Astrum Space will comb
 
-## Vijay among top 3 PM choices, Rahul Gandhi also on list. Who is the No. 1?
-Vijay, who is very popular as an actor, has also shot to political fame meteorically despite having entered politics as recently as 2024.
+## MiniMax expands Alibaba cloud pact as compute needs surge for training and inference
+Chinese artificial intelligence firm MiniMax has raised the three-year purchase ceiling on its cloud computing deals with Alibaba Group Holding by 220 per cent to US$1.2 billion, underscoring surging demand for computing power among the country’s top AI developers. The Shanghai-based company planned
 
-## China’s commercial space sector expands global footprint with Thailand deal
-Beijing-based GalaxySpace’s deployment this week of what it called China’s first turnkey satellite export to Southeast Asia underscores how the country is boosting its space influence overseas amid competition with Elon Musk’s SpaceX. GalaxySpace said it launched the Lingzhi-09 Thailand CubeSat aboa
+## Bitcoin rally and Alibaba share purchases: the numbers moving markets
+Bitcoin and gold rallied this week as the size of America’s sovereign debt continued to haunt global financial markets. Meanwhile, Alibaba Group Holding’s top executives and founder Jack Ma bought back shares, and Shein announced plans for a smaller Hong Kong initial public offering than previously 
 
-## SoftBank-backed surgical robotics firm eyes Hong Kong listing to power mainland China push
-SoftBank-backed surgical robotics company Noah Medical has begun preparations for a Hong Kong initial public offering, joining a wave of cutting-edge technology firms tapping the city’s international fundraising pool. The US-headquartered company aimed to raise more than US$100 million and planned t
+## China Life’s revenue surges as top insurer ramps up investment in AI, chips and biotech
+China Life Insurance, the country’s largest life insurer, has posted record highs in its first-half results, and says it will scale up investments in technology-related sectors while seeking to become a long-term partner for innovative enterprises. The Shanghai- and Hong Kong-listed insurer recorded
 
-## US visa interviews on hold; China slams fresh sanctions over Iran: SCMP’s 7 highlights
-We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. The path to America is narrowing. 
+## What in the World?
+Test yourself on the week of Aug. 22: A U.N. monitoring mission goes to Congo, the U.S. unveils an economic plan against Iran, and Putin issues a warning.
 
-## Chinese battery giant CATL spreads investments in search of new growth drivers
-From data centres to hydropower stations, Chinese battery giant Contemporary Amperex Technology Limited (CATL) is placing investment bets on prospective growth engines following the electric vehicle (EVs) boom, according to analysts. Since June last year, at least seven CATL-led equity deals involvi
+## Russia and North Korea Are Scrambling Trump’s Alliance Strategy
+Pyongyang’s military is sharpening itself on Ukrainian battlefields. What does that mean for U.S. defense coordination?
 
-## Hong Kong home prices end 13-month upswing as mainland Chinese tax fears weigh on demand
-Hong Kong’s lived-in home prices fell 0.46 per cent in July, halting a 13-month upswing, according to the latest official data. The index tracking second-hand homes slipped to 321.5 in July from 323 in June, Rating and Valuation Department (RVD) data showed on Thursday. It was the first decline in 1
+## Japan’s Narrowing Path to Permanent Residency
+Takaichi’s new policies are pushing away foreign workers. Rural areas and strained industries will pay the price.
 
-## Tiger, Futu post strong overseas gains after Beijing clampdown stalls mainland growth
-Tiger Brokers and Futu Holdings, two of the region’s largest online brokerages, posted robust second-quarter growth as they expanded overseas to absorb Beijing’s toughest crackdown yet on illegal cross-border stock trading. UP Fintech Holding, parent of Tiger Brokers, reported on Wednesday that reve
+## Western Hemisphere Progressives Plot a Comeback
+A gathering in Uruguay sought to counter the “Donroe Doctrine.”
 
-## Fosun rebounds after property clean-up with core focus on growth, innovation
-Fosun International is emerging from a painful clean-up of its property portfolio with a sharper focus on pharmaceuticals, insurance and tourism, betting that years of asset sales and debt reduction have cleared the way for a return to growth. The group swung back to stronger profitability in the fi
-
-## Bond market revolt signals fading confidence in US economic leadership
-Two years ago, the prospect of a trade war between the United States and Canada, two of the world’s most closely integrated economies, would have been unthinkable. However, US President Donald Trump’s recklessness and capriciousness know no bounds. Last week’s breakdown in negotiations between the N
+## The SCO’s Diminishing Usefulness for India
+Much like BRICS, the China-dominated Shanghai Cooperation Organisation offers few benefits to New Delhi.
 
 ## How Washington Can Credibly Counter China in the Pacific
 It’s going to take more than showing up.
@@ -144,20 +162,8 @@ The Israeli government is facing mounting pressure to get the situation under co
 ## Death Toll Rises in Nepal-Tibet Flash Flood
 Rescuers are racing to find survivors before more potential flooding occurs.
 
-## China’s Success Is Forcing a U.S. AI Rethink
-Silicon Valley obsessions may have led Washington down a dead end.
-
-## Myanmar Shows War Doesn’t Stop Mining
-Critical minerals are still flowing out of conflict zones, but accountability is harder than ever.
-
-## Why North Korea Doesn’t Want to Meet With Trump
-Kim Jong Un is done talking about denuclearization.
-
-## Germany’s Rhine River Is Drying Up
-The economic damage is just one of the consequences.
-
-## Don’t Freak Out Over the Pentagon’s Europe Plans
-Congress, European nations, and Trump himself stand in the way of major changes.
+## China’s Green Exports to Europe Are a Bright Spot Amid Trade Tensions
+Climate change and the Iran war are driving many European consumers to Chinese-made electric vehicles despite EU tariffs.
 
 ## Transitional Justice or Political Retaliation? Bangladesh’s Journalists on Trial
 As Bangladesh’s tribunal for 1971 atrocities is being used to prosecute journalists, the line between accountability and revenge is being tested.
@@ -180,8 +186,8 @@ Melting ice, unstable terrain, landslides, river blockages, sudden lake releases
 ## Rahul Gandhi Ushers a New Style of Youth-Centric Politics in India
 From being mocked for being inexperienced and incompetent, he is now emerging a sought-after leader of India’s youth.
 
-## Remembering a Genocide: The View From the Rohingya Camps
-Nine years on, Rohingya refugees still wait for justice and home. But they haven't given up hope.
+## The (Un)importance of the Battle of Tours
+Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, may look important, but in fact had negligible strategic or political effects or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles never end.
 
 ## Beneath the Surface: Overlooked Cyber Security Threats
 Cyber security remains a persistent concern for public and private sector organizations alike. Given the potential impact of cyber threats from criminal groups, adversarial states, and extremists, the topic draws substantial attention. Yet, in a field that evolves so quickly, some risks slip through
@@ -203,9 +209,6 @@ Every crisis in the Middle East returns the world’s attention to the same stre
 
 ## Russia’s Next Top General: Promotions in Russian Military Leadership
 Judged by the initial strategic goals set by Russian President Vladimir Putin in 2022, Russia’s military lost its war against Ukraine some time ago. Yet Russia’s armed forces have not stopped fighting and continue to prosecute large-scale combat operations in a brutalizing, protracted war sucking up
-
-## Command and Politics in the War Between Moscow and Kyiv
-Our intrepid team covers a lot of ground in this episode: the increasing fluidity of the battlefield, drones and air defense, the biting Black Sea campaign, the causes and aftermath of the firing of Ukraine’s popular defense minister, why Ukraine probably cannot produce PAC-3 air defense missiles (d
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## DRC begins vaccinating front-line healthcare workers against Ebola
-Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.
+## Canadian economy recovers sharply in Q2 but shadow of US tariffs in future
+Healthy domestic demand, led by consumer spending and business investment, shows Canada was brushing off past tariffs.
 
-## Nepal’s mudslide wiped out areas of eastern China, army helps search
-China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.
+## Al Jazeera reports from Nepal as flood survivors flee new threat
+Al Jazeera reports from flood-hit Bidur, Nepal, as residents flee towards higher ground amid threats of another flood.
 
-## Indonesians march on parliament to demand crackdown on corruption
-Thousands of Indonesians demand harsher penalties for corruption during protests outside parliament in Jakarta.
+## Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’
+In an interview with Al Jazeera, Nicolay Mladenov says that a return to war would be 'devastating'.
 
-## Congo launches Ebola vaccination drive to tackle deadly outbreak
-The Democratic Republic of Congo is launching an Ebola vaccination campaign to tackle the deadliest outbreak.
+## Gaza forced to use unreliable online payments amid ‘cash famine’
+Israeli restrictions and war damage have created a liquidity crisis, crippling Gaza's banking system and daily commerce.
 
-## US nears deal to secure stake in Venezuelan oil fields, insiders say
-Pact with Caracas would bolster US oil supplies for years to come, but may face legal challenges.
+## Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow
+After repeated disappointments over US Patriots, Kyiv switches to attacking Russia using European weapons.
 
-## Fired Stars and Stripes journalists sue Trump administration for censorship
-Staff at the military newspaper allege US government sought to violate First Amendment rights to free speech.
+## Israeli strikes kill five people, including three from one family, in Gaza
+The latest round of attacks comes as Palestinians across the strip continue to face severe food insecurity.
 
-## Anti-migrant protesters burn tents in Ceuta and block Red Cross aid
-Anti-migrant protests have escalated in Spain’s Ceuta, with demonstrators dismantling and burning migrant shelters.
+## Why is India’s nationalist RSS holding an event in New York?
+The head of India’s controversial Hindu nationalist RSS is due to speak in New York.
 
-## Federal US judge faces complaint over staunch pro-Israel advocacy
-A lawyer has accused Judge Roy Altman, who calls the keffiyeh a 'terror scarf', of anti-Palestinian bias in his remarks.
+## Kenyan police fire tear gas at Nairobi protest against import duty hike
+Traders frustrated by more than $5,000 duty hike they say will hurt small businesses.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
