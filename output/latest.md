@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Warsh puts Fed on collision course with Trump ahead of midterms
+US central bank chair’s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires
+
+## Dozens killed in Russian strike on ammunition depot near Kyiv
+Lengthy air raids by Moscow’s jet-powered drones have triggered 27 alerts since Thursday in one of the longest attacks of the war
+
+## Swiss wealth managers urge delay to ownership register after Liechtenstein hack
+Bankers also raised cyber security concerns over list of ultimate owners of more than 500,000 companies and other entities
+
+## Trump deportations take a bite out of an unexpected industry: US fast food
+A sector that relies on population increases for sales growth struggles with new reality of fewer mouths to feed
+
 ## US campaign to isolate Iran closes in on Dubai
 Gulf city has for decades served as an offshore hub for Iranian financial services, trade and access to global markets that the regime needs
 
@@ -12,20 +24,14 @@ Destruction of infrastructure by torrent that devastated settlements near border
 ## Risk of a new age of financial repression is rising
 The idea of pushing US government bonds down the throats of investors is being taken increasingly seriously
 
-## Football clubs’ race for data creates bright spot in Britain labour market
-Britain’s top teams are using their growing financial strength to expand their off-field operations
-
-## The end of cheap food has costs far beyond the grocery store
-Research estimates that climate-related shocks could add between 0.9 and 3.2 percentage points to the annual rate of food inflation around the globe by 2035
-
-## Raphaël Glucksmann, the French left’s new hope
-The tough-on-Russia son of a philosopher is seeking the presidency amid a populist ascendancy
-
-## Zero-sum thinking will fuel resentment and scarcity
-The assumption that one group must lose for another to gain has become worryingly widespread
+## Alex Gerko earned a record £895mn from trading firm XTX in 2025
+Payout to one of the UK’s richest people is 31 per cent higher than the year before
 
 ## Glencore threatened with $1.4bn lawsuit from embattled trader Radiant
 Singapore-based iron ore company Radiant has been battling liquidity squeeze
+
+## The end of cheap food has costs far beyond the grocery store
+Research estimates that climate-related shocks could add between 0.9 and 3.2 percentage points to the annual rate of food inflation around the globe by 2035
 
 ## Airbus seeks US space unit sale as it shifts to European-built satellites
 Potential disposal comes after company announced deal with Leonardo and Thales
@@ -36,38 +42,41 @@ Premium coffee stores are doing a roaring trade along with the companies that su
 ## Did AI write this? It’s getting harder to tell
 Detection software offers quick answers, but the risk of false positives and the stigma of being accused are leading to societal mistrust in the written word
 
-## FT stock picking game results: the unexpected triumph of fundamentals
-No one ever won a stock picking game by choosing good companies. Or did they?
+## India’s area under pulses acreage tops last year’s level
+Erratic rainfall, delayed and slower pace of sowing may influence crop per hectare yield
 
-## The Chinese brand that wants to lead Europe’s trail-running pack
-Baggio Zhong’s Kailas is making an overseas push with its Fuga label
+## Sashidhar Jagdishan not to seek third term as HDFC Bank chief
+Bank board to fast-track process for selection and appointment of his successor
 
-## Trump says US to take control of 65bn barrels of Venezuelan oil
-The president says the countries’ joint venture will lower petrol prices for Americans
+## Don’t just raise taxes, but also grow the tax base, TN industries tell Revenue Augmentation Committee
+SICCI said that all levers should be used to ensure that Tamil Nadu’s economy must grow faster than its debt
 
-## E20 at the pump: Lower mileage, older cars and what comes next
+## Union Bank, Canara Bank and LIC Housing Finance to challenge NCLT’s decision allowing Zee Group Founder Subhash Chandra’s repayment plan
+Chandra allowed to pay just ₹6.5 crore against admitted claims of ₹22,006.57 crore
 
+## PM Modi arrives in Uzbekistan on two-day official visit
+PM Modi is in Tashkent on the first leg of his two-nation visit to Uzbekistan and the Kyrgyz Republic
 
-## Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity
-Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity
+## Foreign BFSI firms setting up more GCCs; rent highest 7.32 million sq ft office space in H1: Knight Frank
+Leasing by foreign IT-ITeS companies to set up GCCs fell 28% to 4.13 million sq ft in the first six months of this year from 5.71 million sq ft in the year-ago period
 
-## TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the World of Agentic Engineering and Quality
-TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the World of Agentic Engineering and Quality
+## FSSAI bans Everest Food Products, Laljee Godhoo from selling hing powder
+In the case of Everest, FSSAI has prohibited the sale of compounded asafoetida (hing powder) variants with immediate effect
 
-## ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standard White Cane Used by Visually Impaired People
-ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standard White Cane Used by Visually Impaired People
+## Turnover on MCX hits new high at ₹62.93 lakh crore
+Total futures and options turnover stood at ₹62,93,465 crore, across more than 3.13 crore contracts; options accounted for ₹61,84,516 crore of turnover, while futures contributed ₹1,08,949 crore
 
-## Procam launches 'HDOR - 100 Days of Running' in a whole new avatar turning 100 days of movement into habits for life
-Procam launches 'HDOR - 100 Days of Running' in a whole new avatar turning 100 days of movement into habits for life
+## From making iPhones to building the next Apple: Will India’s Rs 62,500 crore mobile phones bet pay off?
+With the launch of the Rs 62,500 crore Mobile Phone Manufacturing Scheme (MPMS), India is eyeing its homegrown smartphone brands - with every aspect from design, R&D to components and manufacturing taking place in the country.
 
-## SF Holding Reports Solid First Half 2026 Results, Accelerating International Growth and Enhancing Shareholder Returns
-SF Holding Reports Solid First Half 2026 Results, Accelerating International Growth and Enhancing Shareholder Returns
+## GST Council meeting on Sept 12: Easier registration, automated cancellations on agenda
+On September 12, the GST Council will convene to streamline the business registration process, focusing significantly on companies that exceed Rs 2.5 lakh in monthly tax credits. The agenda also includes enhancing automation and revising GST registration cancellation procedures. This meeting comes i
 
-## Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water
-Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water
+## US job data: Labor dept lowers employment growth by 79,000, private sector cut by 178,000
+In a recent update from the Bureau of Labour Statistics, US employment growth forecasts have been lowered for the year concluding in March 2026, with a preliminary adjustment indicating a net decrease of 79,000 jobs. Notably, the private sector experienced a more significant decline of 178,000 roles
 
-## Tata Sons gets RoC nod to hold AGM by December-end
-A quorum dispute involving a key shareholder has delayed crucial corporate decisions, prompting Tata Sons to seek additional time for compliance
+## India's hotel sector likely to gain momentum in H2FY27 on strong leisure demand
+India's hotel sector anticipates stronger growth in the second half of fiscal year twenty twenty seven. Robust domestic leisure demand and recovering corporate travel will support this positive outlook. International travel is also expected to improve, aiding overall industry performance. Limited ne
 
 ## Nepal may need nearly a tenth of its economy to rebuild after devastating floods
 Nepal's finance minister estimates flood reconstruction costs between four and five billion dollars. This devastating flood killed over 600 people and left thousands missing. The disaster destroyed towns, bridges, roads, and damaged hydropower stations significantly. Search and rescue operations con
@@ -81,41 +90,32 @@ Consumers in Delhi and surrounding areas brace for higher compressed natural gas
 ## TVS Motor appoints Peyman Kargar as CEO
 
 
-## Meta India, SE Asia VP Devanathan joins OpenAI
+## FSSAI cracks whip on Everest Food, hing powder sales halted after samples found ‘sub-standard’
+The FSSAI also pointed out the non-declaration of salt content exceeding 5% and non-declaration of spice content on the label on various spice mixes.
 
+## ‘Ruling party calling for mass genocide?’ CJP slams BJP over ‘Dimagi Naxals’ meme featuring KGF scene
+The CJP criticised the Karnataka BJP's use of a meme featuring a scene from KGF, in which the protagonist and his henchmen open fire on their rivals.
 
-## Inflation isn’t meaningfully slowing: Federal Reserve chairman
+## Smart phones, Wi-Fi routers, cash seized from cell of Aftab Ansari, mastermind of 2002 American Centre-attack: Official
+CM Suvendu Adhikari in May said that mobile phones, including smartphones, were being extensively used inside Presidency Correctional Home
 
+## BJP president Nitin Nabin pulls up 3 Delhi MPs for condoling Sajjan Kumar’s death
+Sajjan Kumar died on August 20 in prison; he was serving two concurrent life sentences for the murders of Sikhs during the 1984 riots.
 
-## Noel Tata, Shapoorji discuss share swap for Tata Sons stake sale
+## Samay Raina's Bihari-Kashmiri banter with Sharon Verma on Latent show sparks row: ‘Publicity for free’
+In India's got Latent's new episode, Sharon Verma, who is from Bihar, and Samay Raina, a Kashmiri Pandit, roasted each other over their places of origin.
 
+## 'Now you are going overboard': After Bombay high court rap, FDA withdraws order cancelling licence of Cipla Pharma
+The FDA said it would withdraw the licence cancellation order forthwith and issue a fresh show cause notice to Cipla Pharma.
 
-## From gold rakhis to gadgets, festive shopping gets a digital makeover
+## Assam fisherman found in Bangladesh, BGB alleges drug, arms smuggling
+The man, identified as Balai Namasudra, is a resident of Gobindapur village in Sribhumi district, which is located outside the border fencing
 
+## 'Congress misleading Dalit community': BJP rejects Rahul's claim of Kharge's insult in Haldwani purification ritual
+Uttarakhand minister Khajan Das said BJP had no connection with the incident and accused the Congress of “attempting to mislead” the Dalit community.
 
-## Over 900 people trapped or missing across 11 hydropower sites after Nepal floods
-The trapped or missing workers include citizens of Nepal, India, South Korea and China, a Nepal energy ministry official said
-
-## Widow’s remarriage cannot deprive daughter of property share: Madras HC
-Since Venkatesan’s daughter was his only Class I legal heir, the court held that she inherited his entire coparcenary interest
-
-## Manipur: Gunfire reported in Noney amid clash between ZUF factions
-Fresh gunfire was reported in Manipur’s Noney district a day after a clash between ZUF-Jenchui and ZUF-Kamson factions left one cadre dead.
-
-## Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally
-Two days after Mallikarjun Kharge addressed a Congress rally in Haldwani, members of the Shri Ram Sena reportedly conducted a “shuddhikaran” havan at the venue.
-
-## ‘Memoir or fiction?’: BJP targets Sonia Gandhi’s book as Congress alleges govt pressure
-Penguin Random House India clarified it is not publishing Sonia Gandhi's memoir, ‘Belonging.’
-
-## Man, aide held for killing son, 38; body found in container in Delhi-Mumbai Expressway: Cop
-Police scanned CCTV cameras installed around the crime scene and adjoining locations, establishing camera-to-camera movement trail
-
-## IIT Delhi director flags 'unsavoury, threatening' slogans amid protest over student's death
-Rangan Banerjee wrote that a group of protesters used “unsavoury, humiliating and threatening language in their slogans.”
-
-## Arunachal CM unveils roadmap for youth-driven growth
-Arunachal CM unveils roadmap for youth-driven growth
+## Reality check for China’s carmakers as authorities tell them to focus on quality, not tech
+China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase p
 
 ## Hong Kong’s long-term wealth hub status safe from mainland investment curbs: JPMorgan exec
 Beijing’s recent curbs on cross-border investment and a tax shift targeting overseas insurance gains may create short-term uncertainty, but they will not undermine Hong Kong’s long-term competitiveness as a major wealth management hub, according to a senior executive at JPMorgan Chase. Kwang Kam-shi
@@ -137,9 +137,6 @@ Black Spade Capital, the family office of Macau casino billionaire Lawrence Ho Y
 
 ## MiniMax expands Alibaba cloud pact as compute needs surge for training and inference
 Chinese artificial intelligence firm MiniMax has raised the three-year purchase ceiling on its cloud computing deals with Alibaba Group Holding by 220 per cent to US$1.2 billion, underscoring surging demand for computing power among the country’s top AI developers. The Shanghai-based company planned
-
-## Bitcoin rally and Alibaba share purchases: the numbers moving markets
-Bitcoin and gold rallied this week as the size of America’s sovereign debt continued to haunt global financial markets. Meanwhile, Alibaba Group Holding’s top executives and founder Jack Ma bought back shares, and Shein announced plans for a smaller Hong Kong initial public offering than previously 
 
 ## Iceland’s EU Ambitions
 U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Aston Villa sign Chelsea striker Nicolas Jackson for reported club record
-Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.
+## Mladic died a happy man. He won
+He fought for fascism to triumph. And it did.
 
-## India and Pakistan are united in spending citizen lives like pocket change
-Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.
+## Israeli settlers surround Palestinian home in occupied West Bank’s Qusra
+At least four Palestinians are trapped inside the home, while settlers have set fire to nearby Palestinian land.
 
-## Six months into the Iran war, a new Gulf security architecture is emerging
-Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.
+## Chinese rescuers race to reach mudslide survivors in Nepal-China border
+Rescuers raced to clear roads leading to the mudslide-hit border port of Gyirong, China's Tibet Autonomous Region.
 
-## Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’
-Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary.
+## Israel raids, shutters UNRWA lifeline for Palestinian refugees
+An UNRWA vocational centre in the occupied West Bank has been raided by Israeli forces and ordered to close.
 
-## Iceland heads to the polls in knife-edge vote on restarting EU talks
-Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks.
+## UNRWA’s first and last vocational college in East Jerusalem is under threat
+Israel threatens the Qalandiya Training Centre, one of Jerusalem's oldest still-operational educational institutions.
 
-## What’s in the US-Venezuela ‘biggest oil deal in world history?’
-US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.
+## Gaza farmer returns to the grapevines he couldn’t bear to abandon
+After nearly three years of war, a farmer returns to Sheikh Ijlin’s renowned grape fields.
 
-## ‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89
-Norwegians are saying goodbye to King Harald V, Europe’s oldest reigning monarch.
+## Indonesia sets up shelters for babies, children affected by wildfire smoke
+Indonesia sets up shelters for babies, children affected by wildfire smoke
 
-## Ecuador sentences ex-president Moreno to five years in jail in bribery case
-Lenin Moreno, 73, has also been permanently barred from holding any public office in the future.
+## Formula One champion Lando Norris extends McLaren contract until 2030
+Last season, 26-year-old Norris delivered McLaren's first drivers' title since Lewis Hamilton won it in 2008.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
