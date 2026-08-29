@@ -63,6 +63,9 @@ Reviewing your sum insured, considering a Super Top-Up, and exploring useful pol
 ## Tax Query: How to report sale of immovable property in ITR?
 The value to be reported in the ITR should be the stamp duty value adopted by the registering authority for the registered transaction, as reflected in the registered sale deed or the registration records
 
+## Months after HDFC Bank chair quit, CEO says won’t stay beyond Oct
+
+
 ## Trump vs Carney: Cars, homes, booze and more caught in US-Canada tariff war
 The recent imposition of new tariffs on vehicles and construction materials has intensified the trade conflict between the US and Canada. This has also led to surging import taxes on other household products and alcoholic beverages. Both businesses and consumers are likely to feel the pinch with esc
 
@@ -83,9 +86,6 @@ India's hotel sector anticipates stronger growth in the second half of fiscal ye
 
 ## Nepal may need nearly a tenth of its economy to rebuild after devastating floods
 Nepal's finance minister estimates flood reconstruction costs between four and five billion dollars. This devastating flood killed over 600 people and left thousands missing. The disaster destroyed towns, bridges, roads, and damaged hydropower stations significantly. Search and rescue operations con
-
-## Inflation data 'concerning': Fed chair Warsh signals rates may need to rise
-Federal Reserve Chair Kevin Warsh has signaled that interest rates might rise in the near future, given that inflation continues to far exceed the central bank's two percent goal. He raised concerns about the persistent underlying price pressures, which have not shown significant improvement. This n
 
 ## Adityanath directs swift disposal of revenue cases, orders high festival alert
 Adityanath directs swift disposal of revenue cases, orders high festival alert
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Anger mounts in Nepal over the government’s response to flash flood
+Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.
+
+## Iceland votes in a tight race on whether to resume talks to join the EU
+Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.
+
+## Norway’s new king pays tribute to his late father as the country mourns
+King Haakon VIII says King Harald represented Norway with 'pride and joy', promises to listen to Norwegians as monarch.
+
+## Gaza runs out of cancer medicines, as Israeli strikes continue
+Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.
+
 ## Algeria wildfire death toll expected to rise as survivors say nothing left
 Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.
 
@@ -242,18 +254,6 @@ South Korea’s beauty industry has surpassed the US to become the world’s sec
 
 ## US says far-right provocateur Milo Yiannopoulos has been deported to UK
 The social media personality had been detained by immigration agents at an airport in New Orleans earlier in the week.
-
-## Tunisians desperate for water as taps run dry
-Tunisians are struggling to access water as extreme heat, power cuts, and aging infrastructure disrupt tap supplies.
-
-## US judge rules against Trump’s effort to deport pro-Palestinian students
-A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech.
-
-## Haitian gangs release 13 captives after mass kidnapping in Kenscoff
-The attack in Kenscoff killed at least 47 people and resulted in the kidnapping of more than 50, as gangs exert control.
-
-## Pakistan suspends eight officials over hospital fire that killed 14 babies
-Interim inquiry finds lack of fire safety protocols at Islamabad hospital, prompting suspensions and criminal probe.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
