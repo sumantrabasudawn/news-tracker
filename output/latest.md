@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## James Cleverly steps down from shadow cabinet to run for London mayor
+Former home and foreign secretary says UK capital ‘under assault’ from Andy Burnham
+
+## Warsh charts a forward-looking path for the Fed at Jackson Hole
+This might be remembered as a moment when the central bank switched approach
+
 ## Trump says US to take control of 65bn barrels of Venezuelan oil
 The president says the countries’ joint venture will lower petrol prices for Americans
 
@@ -17,12 +23,6 @@ A sector that relies on population increases for sales growth struggles with new
 
 ## US campaign to isolate Iran closes in on Dubai
 Gulf city has for decades served as an offshore hub for Iranian financial services, trade and access to global markets that the regime needs
-
-## What the Indiana state fair reveals about Trump’s America
-Will the most ornery state in the conservative Midwest finally reject his politics?
-
-## ‘In a flash, everything was gone’: Nepal rushes to rescue flood survivors
-Destruction of infrastructure by torrent that devastated settlements near border with China has left many people stranded
 
 ## Alex Gerko earned a record £895mn from trading firm XTX in 2025
 Payout to one of the UK’s richest people is 31 per cent higher than the year before
@@ -87,6 +87,21 @@ Nepal's finance minister estimates flood reconstruction costs between four and f
 ## Inflation data 'concerning': Fed chair Warsh signals rates may need to rise
 Federal Reserve Chair Kevin Warsh has signaled that interest rates might rise in the near future, given that inflation continues to far exceed the central bank's two percent goal. He raised concerns about the persistent underlying price pressures, which have not shown significant improvement. This n
 
+## Adityanath directs swift disposal of revenue cases, orders high festival alert
+Adityanath directs swift disposal of revenue cases, orders high festival alert
+
+## Judiciary proactively responded to emerging fraudulent schemes like digital arrest: CJI
+Judiciary proactively responded to emerging fraudulent schemes like digital arrest: CJI
+
+## ‘Hindu who wants no Muslims in Bharat is not a Hindu’: RSS chief Mohan Bhagwat
+The RSS leader arrived in the US on Tuesday as part of the organisation’s centenary-year global outreach programme.
+
+## ‘Trying to reach a safe location’: Missing UK couple's last message from flood-hit Nepal
+The UK-based couple with Kolkata roots were in Nepal for Kailash yatra when the floods struck, leaving them out of contact with their family.
+
+## J&K leaders react to Samay Raina's Kashmiri-Bihari row: 'Valley incomplete without Kashmiri pandits'
+A Shiv Sena leader said ‘humour should be taken as humor’, while a BJP MLA slammed Raina, saying Kashmiri Pandits cannot be treated as subjects of ridicule.
+
 ## Uttar Pradesh CM Adityanath slams opposition for dividing people in name of caste, region, language
 Adityanath said over the past decade or so, his government eliminated the mafia.
 
@@ -95,21 +110,6 @@ Nursing staff were seen trying to restrain and pacify her, while one staff membe
 
 ## Infosys Public Services CEO ‘unreachable’ as hundreds go missing after Nepal floods
 Infosys in a statement on Friday said the chief executive officer of its subsidiary had been in Nepal at the time of the disaster and was unreachable.
-
-## ‘Not one complaint’: Tharoor praises govt’s Nepal flood rescue efforts in letter to EAM
-The toll from flash floods in central Nepal rose to 669 on Saturday, with more bodies being recovered, even as more than 2,000 people are still missing.
-
-## RSS chief Mohan Bhagwat's New York event: Where and when to watch live
-The invite-based event will have more than 5,000 attendees, according to the programme's website that describes the event as ‘a one-of-a-kind celebration.'
-
-## Delhi's August sees above-normal rain, warm nights and three-year-high AQI
-The capital also recorded its wettest first week of August in 15 years, receiving 127 mm of rainfall during the first seven days of the month.
-
-## ‘BJP ideology’ root cause of Kharge ‘shuddhikaran’ row, alleges Congress MP Shashi Tharoor
-Shashi Tharoor said, “justice for Kharge ji is justice for all Dalits,” and said the Congress would not remain silent over the incident.
-
-## PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him
-PM Narendra Modi thanked Uzbek President Shavkat Mirziyoyev on social media for the “special gesture” of welcoming him at the airport
 
 ## Reality check for China’s carmakers as authorities tell them to focus on quality, not tech
 China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase p
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Niger military says it is regaining control after attempted mutiny
-Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.
+## Algeria wildfire death toll expected to rise as survivors say nothing left
+Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.
 
-## Russian strike on a munitions depot triggers deadly blasts near Kyiv
-Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.
+## Can international diplomacy find a way forward in Libya?
+Efforts intensify to break political impasse in a divided country.
 
-## RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism
-Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.
+## The rise of K-Beauty: Can South Korea overtake France?
+South Korea’s beauty industry has surpassed the US to become the world’s second-largest cosmetics exporter.
 
-## Israeli attacks across Gaza kill two people, hit hospital supply warehouse
-Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.
+## US says far-right provocateur Milo Yiannopoulos has been deported to UK
+The social media personality had been detained by immigration agents at an airport in New Orleans earlier in the week.
 
-## Man United vs Ipswich Town: Premier League – preview, team news, prediction
-United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.
+## Tunisians desperate for water as taps run dry
+Tunisians are struggling to access water as extreme heat, power cuts, and aging infrastructure disrupt tap supplies.
 
-## Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola
-Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.
+## US judge rules against Trump’s effort to deport pro-Palestinian students
+A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech.
 
-## People stranded for days on dilapidated Nigerian highway
-Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.
+## Haitian gangs release 13 captives after mass kidnapping in Kenscoff
+The attack in Kenscoff killed at least 47 people and resulted in the kidnapping of more than 50, as gangs exert control.
 
-## Korea divided: A sister’s long wait and a defector’s bid to save his mother
-An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.
+## Pakistan suspends eight officials over hospital fire that killed 14 babies
+Interim inquiry finds lack of fire safety protocols at Islamabad hospital, prompting suspensions and criminal probe.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
