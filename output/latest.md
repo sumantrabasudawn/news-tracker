@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump says US to take control of 65bn barrels of Venezuelan oil
+The president says the countries’ joint venture will lower petrol prices for Americans
+
 ## Warsh puts Fed on collision course with Trump ahead of midterms
 US central bank chair’s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires
 
@@ -21,9 +24,6 @@ Will the most ornery state in the conservative Midwest finally reject his politi
 ## ‘In a flash, everything was gone’: Nepal rushes to rescue flood survivors
 Destruction of infrastructure by torrent that devastated settlements near border with China has left many people stranded
 
-## Risk of a new age of financial repression is rising
-The idea of pushing US government bonds down the throats of investors is being taken increasingly seriously
-
 ## Alex Gerko earned a record £895mn from trading firm XTX in 2025
 Payout to one of the UK’s richest people is 31 per cent higher than the year before
 
@@ -39,32 +39,35 @@ Potential disposal comes after company announced deal with Leonardo and Thales
 ## Fancy lattes whip up their own mini investment boom
 Premium coffee stores are doing a roaring trade along with the companies that supply the machines and beans
 
-## Did AI write this? It’s getting harder to tell
-Detection software offers quick answers, but the risk of false positives and the stigma of being accused are leading to societal mistrust in the written word
+## Investors chasing global AI stocks must take note of earnings bubble
+Risk of earnings bubble which is becoming more cashless amid a valuation bubble should make investors cautious
 
-## India’s area under pulses acreage tops last year’s level
-Erratic rainfall, delayed and slower pace of sowing may influence crop per hectare yield
+## What should investors do about Pricol’s shares after the recent rally
+Pricol has growth levers, but the sharp rally makes partial profit-booking prudent
 
-## Sashidhar Jagdishan not to seek third term as HDFC Bank chief
-Bank board to fast-track process for selection and appointment of his successor
+## Sealmatic Positioned to Support India’s Expanding Nuclear Energy Programme with Indigenous Mechanical Seal Technology
+Company’s ISO 19443 accreditation, nuclear application capabilities and indigenous engineering focus position it to address the growing demand for specialised mechanical seals in India’s nuclear sector
 
-## Don’t just raise taxes, but also grow the tax base, TN industries tell Revenue Augmentation Committee
-SICCI said that all levers should be used to ensure that Tamil Nadu’s economy must grow faster than its debt
+## Five investor choices that matter now
+As easy liquidity fades, investors need to reaffirm their rules on style, cyclicality, diversification and rebalancing
 
-## Union Bank, Canara Bank and LIC Housing Finance to challenge NCLT’s decision allowing Zee Group Founder Subhash Chandra’s repayment plan
-Chandra allowed to pay just ₹6.5 crore against admitted claims of ₹22,006.57 crore
+## Four small-cap stock picks for the long term
+Small-cap stocks that look good on the charts and their outlook based on technical analysis
 
-## PM Modi arrives in Uzbekistan on two-day official visit
-PM Modi is in Tashkent on the first leg of his two-nation visit to Uzbekistan and the Kyrgyz Republic
+## ESOPs and the taxman
+A ready reckoner on how employee stock options are taxed in India, from exercise to exit
 
-## Foreign BFSI firms setting up more GCCs; rent highest 7.32 million sq ft office space in H1: Knight Frank
-Leasing by foreign IT-ITeS companies to set up GCCs fell 28% to 4.13 million sq ft in the first six months of this year from 5.71 million sq ft in the year-ago period
+## Insurance Query: Building a financial cushion for health
+Reviewing your sum insured, considering a Super Top-Up, and exploring useful policy enhancements can help ensure that your insurance protection remains aligned with your healthcare needs in the years ahead
 
-## FSSAI bans Everest Food Products, Laljee Godhoo from selling hing powder
-In the case of Everest, FSSAI has prohibited the sale of compounded asafoetida (hing powder) variants with immediate effect
+## Tax Query: How to report sale of immovable property in ITR?
+The value to be reported in the ITR should be the stamp duty value adopted by the registering authority for the registered transaction, as reflected in the registered sale deed or the registration records
 
-## Turnover on MCX hits new high at ₹62.93 lakh crore
-Total futures and options turnover stood at ₹62,93,465 crore, across more than 3.13 crore contracts; options accounted for ₹61,84,516 crore of turnover, while futures contributed ₹1,08,949 crore
+## Trump vs Carney: Cars, homes, booze and more caught in US-Canada tariff war
+The recent imposition of new tariffs on vehicles and construction materials has intensified the trade conflict between the US and Canada. This has also led to surging import taxes on other household products and alcoholic beverages. Both businesses and consumers are likely to feel the pinch with esc
+
+## HDFC Bank CEO Jagdishan opts out of reappointment, to step down after term ends in October
+
 
 ## From making iPhones to building the next Apple: Will India’s Rs 62,500 crore mobile phones bet pay off?
 With the launch of the Rs 62,500 crore Mobile Phone Manufacturing Scheme (MPMS), India is eyeing its homegrown smartphone brands - with every aspect from design, R&D to components and manufacturing taking place in the country.
@@ -84,35 +87,29 @@ Nepal's finance minister estimates flood reconstruction costs between four and f
 ## Inflation data 'concerning': Fed chair Warsh signals rates may need to rise
 Federal Reserve Chair Kevin Warsh has signaled that interest rates might rise in the near future, given that inflation continues to far exceed the central bank's two percent goal. He raised concerns about the persistent underlying price pressures, which have not shown significant improvement. This n
 
-## CNG price hike: Compressed natural gas gets costlier; check city-wise rates
-Consumers in Delhi and surrounding areas brace for higher compressed natural gas prices as Indraprastha Gas Limited implements a price hike due to escalating imported liquefied natural gas costs. Effective August 29, this change is linked to surging international LNG prices and ongoing Middle East c
+## Uttar Pradesh CM Adityanath slams opposition for dividing people in name of caste, region, language
+Adityanath said over the past decade or so, his government eliminated the mafia.
 
-## TVS Motor appoints Peyman Kargar as CEO
+## ‘They will kill me’: Woman, newborn die after delivery in MP's Rewa; video shows she was screaming for help
+Nursing staff were seen trying to restrain and pacify her, while one staff member was heard asking, “Have you gone mad?” Kalpana died shortly afterward.
 
+## Infosys Public Services CEO ‘unreachable’ as hundreds go missing after Nepal floods
+Infosys in a statement on Friday said the chief executive officer of its subsidiary had been in Nepal at the time of the disaster and was unreachable.
 
-## FSSAI cracks whip on Everest Food, hing powder sales halted after samples found ‘sub-standard’
-The FSSAI also pointed out the non-declaration of salt content exceeding 5% and non-declaration of spice content on the label on various spice mixes.
+## ‘Not one complaint’: Tharoor praises govt’s Nepal flood rescue efforts in letter to EAM
+The toll from flash floods in central Nepal rose to 669 on Saturday, with more bodies being recovered, even as more than 2,000 people are still missing.
 
-## ‘Ruling party calling for mass genocide?’ CJP slams BJP over ‘Dimagi Naxals’ meme featuring KGF scene
-The CJP criticised the Karnataka BJP's use of a meme featuring a scene from KGF, in which the protagonist and his henchmen open fire on their rivals.
+## RSS chief Mohan Bhagwat's New York event: Where and when to watch live
+The invite-based event will have more than 5,000 attendees, according to the programme's website that describes the event as ‘a one-of-a-kind celebration.'
 
-## Smart phones, Wi-Fi routers, cash seized from cell of Aftab Ansari, mastermind of 2002 American Centre-attack: Official
-CM Suvendu Adhikari in May said that mobile phones, including smartphones, were being extensively used inside Presidency Correctional Home
+## Delhi's August sees above-normal rain, warm nights and three-year-high AQI
+The capital also recorded its wettest first week of August in 15 years, receiving 127 mm of rainfall during the first seven days of the month.
 
-## BJP president Nitin Nabin pulls up 3 Delhi MPs for condoling Sajjan Kumar’s death
-Sajjan Kumar died on August 20 in prison; he was serving two concurrent life sentences for the murders of Sikhs during the 1984 riots.
+## ‘BJP ideology’ root cause of Kharge ‘shuddhikaran’ row, alleges Congress MP Shashi Tharoor
+Shashi Tharoor said, “justice for Kharge ji is justice for all Dalits,” and said the Congress would not remain silent over the incident.
 
-## Samay Raina's Bihari-Kashmiri banter with Sharon Verma on Latent show sparks row: ‘Publicity for free’
-In India's got Latent's new episode, Sharon Verma, who is from Bihar, and Samay Raina, a Kashmiri Pandit, roasted each other over their places of origin.
-
-## 'Now you are going overboard': After Bombay high court rap, FDA withdraws order cancelling licence of Cipla Pharma
-The FDA said it would withdraw the licence cancellation order forthwith and issue a fresh show cause notice to Cipla Pharma.
-
-## Assam fisherman found in Bangladesh, BGB alleges drug, arms smuggling
-The man, identified as Balai Namasudra, is a resident of Gobindapur village in Sribhumi district, which is located outside the border fencing
-
-## 'Congress misleading Dalit community': BJP rejects Rahul's claim of Kharge's insult in Haldwani purification ritual
-Uttarakhand minister Khajan Das said BJP had no connection with the incident and accused the Congress of “attempting to mislead” the Dalit community.
+## PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him
+PM Narendra Modi thanked Uzbek President Shavkat Mirziyoyev on social media for the “special gesture” of welcoming him at the airport
 
 ## Reality check for China’s carmakers as authorities tell them to focus on quality, not tech
 China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase p
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mladic died a happy man. He won
-He fought for fascism to triumph. And it did.
+## Niger military says it is regaining control after attempted mutiny
+Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.
 
-## Israeli settlers surround Palestinian home in occupied West Bank’s Qusra
-At least four Palestinians are trapped inside the home, while settlers have set fire to nearby Palestinian land.
+## Russian strike on a munitions depot triggers deadly blasts near Kyiv
+Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.
 
-## Chinese rescuers race to reach mudslide survivors in Nepal-China border
-Rescuers raced to clear roads leading to the mudslide-hit border port of Gyirong, China's Tibet Autonomous Region.
+## RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism
+Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.
 
-## Israel raids, shutters UNRWA lifeline for Palestinian refugees
-An UNRWA vocational centre in the occupied West Bank has been raided by Israeli forces and ordered to close.
+## Israeli attacks across Gaza kill two people, hit hospital supply warehouse
+Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.
 
-## UNRWA’s first and last vocational college in East Jerusalem is under threat
-Israel threatens the Qalandiya Training Centre, one of Jerusalem's oldest still-operational educational institutions.
+## Man United vs Ipswich Town: Premier League – preview, team news, prediction
+United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.
 
-## Gaza farmer returns to the grapevines he couldn’t bear to abandon
-After nearly three years of war, a farmer returns to Sheikh Ijlin’s renowned grape fields.
+## Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola
+Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.
 
-## Indonesia sets up shelters for babies, children affected by wildfire smoke
-Indonesia sets up shelters for babies, children affected by wildfire smoke
+## People stranded for days on dilapidated Nigerian highway
+Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.
 
-## Formula One champion Lando Norris extends McLaren contract until 2030
-Last season, 26-year-old Norris delivered McLaren's first drivers' title since Lewis Hamilton won it in 2008.
+## Korea divided: A sister’s long wait and a defector’s bid to save his mother
+An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
