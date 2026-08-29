@@ -1,52 +1,52 @@
 # AION Intelligence
 
+## US campaign to isolate Iran closes in on Dubai
+Gulf city has for decades served as an offshore hub for Iranian financial services, trade and access to global markets that the regime needs
+
+## What the Indiana state fair reveals about Trump’s America
+Will the most ornery state in the conservative Midwest finally reject his politics?
+
+## ‘In a flash, everything was gone’: Nepal rushes to rescue flood survivors
+Destruction of infrastructure by torrent that devastated settlements near border with China has left many people stranded
+
+## Risk of a new age of financial repression is rising
+The idea of pushing US government bonds down the throats of investors is being taken increasingly seriously
+
+## Football clubs’ race for data creates bright spot in Britain labour market
+Britain’s top teams are using their growing financial strength to expand their off-field operations
+
+## The end of cheap food has costs far beyond the grocery store
+Research estimates that climate-related shocks could add between 0.9 and 3.2 percentage points to the annual rate of food inflation around the globe by 2035
+
+## Raphaël Glucksmann, the French left’s new hope
+The tough-on-Russia son of a philosopher is seeking the presidency amid a populist ascendancy
+
+## Zero-sum thinking will fuel resentment and scarcity
+The assumption that one group must lose for another to gain has become worryingly widespread
+
+## Glencore threatened with $1.4bn lawsuit from embattled trader Radiant
+Singapore-based iron ore company Radiant has been battling liquidity squeeze
+
+## Airbus seeks US space unit sale as it shifts to European-built satellites
+Potential disposal comes after company announced deal with Leonardo and Thales
+
+## Fancy lattes whip up their own mini investment boom
+Premium coffee stores are doing a roaring trade along with the companies that supply the machines and beans
+
+## Did AI write this? It’s getting harder to tell
+Detection software offers quick answers, but the risk of false positives and the stigma of being accused are leading to societal mistrust in the written word
+
+## FT stock picking game results: the unexpected triumph of fundamentals
+No one ever won a stock picking game by choosing good companies. Or did they?
+
+## The Chinese brand that wants to lead Europe’s trail-running pack
+Baggio Zhong’s Kailas is making an overseas push with its Fuga label
+
 ## Trump says US to take control of 65bn barrels of Venezuelan oil
 The president says the countries’ joint venture will lower petrol prices for Americans
 
-## Kevin Warsh spoke — what did we learn? With Torsten Slok
-The Fed chair has a plan to tackle inflation
+## E20 at the pump: Lower mileage, older cars and what comes next
 
-## Walmart to pay $50mn to settle opioid lawsuit with US justice department
-Retailer resolves case with DoJ over allegations it fuelled Americans’ addiction to painkillers
-
-## Guggenheim affiliate buys up debt linked to its asset management arm
-Loan has been closely watched as a proxy for Mark Walter’s private-held investment firm
-
-## Senior German politicians call for ban on parts of far-right AfD
-Boris Pistorius and Cem Özdemir say top court should consider outlawing Alternative for Germany’s most radical flank
-
-## China’s actors written out of dramas as AI doubles ready to take their roles
-Online performers left jobless as new video-generation programmes sweep industry
-
-## Gatwick airport water supplies hit by burst pipe
-UK hub suffers its second supply disruption this summer
-
-## Trump loses bid to challenge hush-money conviction in federal court
-Judge rules that payment and ‘engaging in a cover-up of an embarrassment are not subsumed in presidential immunity’
-
-## Neoclouds show how to amplify risks in AI ecosystems
-Fledgling companies that rent out servers and chips are in big demand but any unravelling will be ugly
-
-## Stockpickers: Chesnara, Hays, Macfarlane
-Our experts discuss which companies to buy, sell or hold this week
-
-## US manufacturing is booming — but it’s no thanks to Trump’s tariffs
-This is not the nostalgic, protectionism-fuelled return that the president promised
-
-## SEBI extends ETF norms implementation deadline to September 7
-The regulator said the extension followed feedback from stock exchanges and was aimed at ensuring a smooth rollout of the provisions.
-
-## Mumbai milk price hike: Wholesale rates to rise to ₹102 per litre from Sept 1
-The price revision comes as dairy farmers and cattle shed operators face rising costs for feed, transportation and livestock maintenance
-
-## US-Venezuela oil deal: Trump announces agreement over 65 billion barrels of reserves
-The announcement comes as Washington faces pressure over rising gasoline prices and seeks greater oil supplies amid disruptions through the Strait of Hormuz
-
-## UGC NET result 2026: Over 4,000 qualify for JRF, more than 97,000 for PhD admissions
-The National Testing Agency announced the results late Friday after 6.07 lakh candidates appeared for examinations across 84 subjects.
-
-## CNG price hike: IGL raises rates by ₹3.89 per kg in Delhi from today
-Higher spot LNG prices since the beginning of the West Asia conflict have increased input costs, prompting a calibrated price revision
 
 ## Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity
 Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity
@@ -56,6 +56,27 @@ TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the 
 
 ## ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standard White Cane Used by Visually Impaired People
 ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standard White Cane Used by Visually Impaired People
+
+## Procam launches 'HDOR - 100 Days of Running' in a whole new avatar turning 100 days of movement into habits for life
+Procam launches 'HDOR - 100 Days of Running' in a whole new avatar turning 100 days of movement into habits for life
+
+## SF Holding Reports Solid First Half 2026 Results, Accelerating International Growth and Enhancing Shareholder Returns
+SF Holding Reports Solid First Half 2026 Results, Accelerating International Growth and Enhancing Shareholder Returns
+
+## Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water
+Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water
+
+## Tata Sons gets RoC nod to hold AGM by December-end
+A quorum dispute involving a key shareholder has delayed crucial corporate decisions, prompting Tata Sons to seek additional time for compliance
+
+## Nepal may need nearly a tenth of its economy to rebuild after devastating floods
+Nepal's finance minister estimates flood reconstruction costs between four and five billion dollars. This devastating flood killed over 600 people and left thousands missing. The disaster destroyed towns, bridges, roads, and damaged hydropower stations significantly. Search and rescue operations con
+
+## Inflation data 'concerning': Fed chair Warsh signals rates may need to rise
+Federal Reserve Chair Kevin Warsh has signaled that interest rates might rise in the near future, given that inflation continues to far exceed the central bank's two percent goal. He raised concerns about the persistent underlying price pressures, which have not shown significant improvement. This n
+
+## CNG price hike: Compressed natural gas gets costlier; check city-wise rates
+Consumers in Delhi and surrounding areas brace for higher compressed natural gas prices as Indraprastha Gas Limited implements a price hike due to escalating imported liquefied natural gas costs. Effective August 29, this change is linked to surging international LNG prices and ongoing Middle East c
 
 ## TVS Motor appoints Peyman Kargar as CEO
 
@@ -72,38 +93,32 @@ ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standa
 ## From gold rakhis to gadgets, festive shopping gets a digital makeover
 
 
-## Ford’s India GCC to hire 500, bets on AI
+## Over 900 people trapped or missing across 11 hydropower sites after Nepal floods
+The trapped or missing workers include citizens of Nepal, India, South Korea and China, a Nepal energy ministry official said
 
+## Widow’s remarriage cannot deprive daughter of property share: Madras HC
+Since Venkatesan’s daughter was his only Class I legal heir, the court held that she inherited his entire coparcenary interest
 
-## Sensex, Nifty rebound after 2-day losing streak, IT gains
+## Manipur: Gunfire reported in Noney amid clash between ZUF factions
+Fresh gunfire was reported in Manipur’s Noney district a day after a clash between ZUF-Jenchui and ZUF-Kamson factions left one cadre dead.
 
+## Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally
+Two days after Mallikarjun Kharge addressed a Congress rally in Haldwani, members of the Shri Ram Sena reportedly conducted a “shuddhikaran” havan at the venue.
 
-## RBI push: Forex reserves at all-time high of $729.3bn
+## ‘Memoir or fiction?’: BJP targets Sonia Gandhi’s book as Congress alleges govt pressure
+Penguin Random House India clarified it is not publishing Sonia Gandhi's memoir, ‘Belonging.’
 
+## Man, aide held for killing son, 38; body found in container in Delhi-Mumbai Expressway: Cop
+Police scanned CCTV cameras installed around the crime scene and adjoining locations, establishing camera-to-camera movement trail
 
-## 320 Indians still missing in Nepal, 400 stranded in Tibet after deadly floods: MEA
-The toll from floods in Nepal rose to 579 with more bodies recovered as search and rescue operations continued, according to the local authorities.
+## IIT Delhi director flags 'unsavoury, threatening' slogans amid protest over student's death
+Rangan Banerjee wrote that a group of protesters used “unsavoury, humiliating and threatening language in their slogans.”
 
-## Shots fired at Goa casino director, he escapes unhurt
-Goa Police launched a manhunt after two assailants fired three shots at casino MD Shrinivas Nayak, who escaped unharmed.
+## Arunachal CM unveils roadmap for youth-driven growth
+Arunachal CM unveils roadmap for youth-driven growth
 
-## Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities
-The CM inspected several key facilities including the quarantine zone, visitors' hall, prison hospital, and the de-addiction rehabilitation center.
-
-## 'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event
-RSS chief Mohan Bhagwat is scheduled to address the Universal Oneness Celebrations event in New York on August 29.
-
-## 'BJP can't scare me with ED, CBI': B Nagendra slams 'manuwadis' after stepping down as Karnataka minister
-The Congress leader announced his resignation as the minister for planning and statistics in Karnataka as well as from his MLA seat.
-
-## Sonia Gandhi memoir’s India edition likely to feature saree-clad photo clicked by Rajiv Gandhi
-Sonia's book deal with Penguin Random House India fell through as she refused to make changes or deletions of references to PM Modi, RSS and Chinese intrusions.
-
-## FSSAI proposes red warning labels on packaged foods high in sugar, fat, salt
-FSSAI proposes red front-of-pack warning labels for foods high in fat, sugar or salt, following the Supreme Court’s push for clearer nutrition warnings.
-
-## Dipke seeks ‘complete overhaul’ of education system after IIT student's suicide: ‘If this is the situation…'
-Taking to the social media platform X, Abhijeet Dipke said that the IITs have witnessed 65 student suicides in the last 5 years.
+## Hong Kong’s long-term wealth hub status safe from mainland investment curbs: JPMorgan exec
+Beijing’s recent curbs on cross-border investment and a tax shift targeting overseas insurance gains may create short-term uncertainty, but they will not undermine Hong Kong’s long-term competitiveness as a major wealth management hub, according to a senior executive at JPMorgan Chase. Kwang Kam-shi
 
 ## BYD posts US$1.2 billion profit in second quarter on surging global demand
 China’s electric vehicle (EV) giant BYD saw its earnings jump 30 per cent in the three months from April to June, ending a five-quarter losing streak as buoyant overseas sales and premium models enhanced its net margin and profitability. The Shenzhen-based carmaker, also the world’s largest EV build
@@ -125,9 +140,6 @@ Chinese artificial intelligence firm MiniMax has raised the three-year purchase 
 
 ## Bitcoin rally and Alibaba share purchases: the numbers moving markets
 Bitcoin and gold rallied this week as the size of America’s sovereign debt continued to haunt global financial markets. Meanwhile, Alibaba Group Holding’s top executives and founder Jack Ma bought back shares, and Shein announced plans for a smaller Hong Kong initial public offering than previously 
-
-## China Life’s revenue surges as top insurer ramps up investment in AI, chips and biotech
-China Life Insurance, the country’s largest life insurer, has posted record highs in its first-half results, and says it will scale up investments in technology-related sectors while seeking to become a long-term partner for innovative enterprises. The Shanghai- and Hong Kong-listed insurer recorded
 
 ## Iceland’s EU Ambitions
 U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
@@ -225,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Board of Peace’s Mladenov warns Gaza could be ‘gone for good’
-Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.
+## Aston Villa sign Chelsea striker Nicolas Jackson for reported club record
+Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.
 
-## US revises statements suggesting Chinese hackers attacked agencies
-US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.
+## India and Pakistan are united in spending citizen lives like pocket change
+Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.
 
-## US judge rejects Trump’s bid to switch hush-money case to federal court
-The US president has sought to overturn his criminal conviction for falsifying business records, citing immunity.
+## Six months into the Iran war, a new Gulf security architecture is emerging
+Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.
 
-## Iran war live: IRGC asserts strait control, US enforces blockade
-Iran's IRGC claims decisive control over the Strait of Hormuz as the US maintains its naval blockade.
+## Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’
+Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary.
 
-## Cambodia’s claim to have ended scam compounds met with scepticism
-Cambodia's claim of eradicating its scam compounds met with scepticism from Amnesty International and industry experts.
+## Iceland heads to the polls in knife-edge vote on restarting EU talks
+Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks.
 
-## Spain asks EU for help to process 5,000 Ceuta migrants amid local unrest
-Thousands of migrants remain in the Spanish enclave, triggering anger among Ceuta residents.
+## What’s in the US-Venezuela ‘biggest oil deal in world history?’
+US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.
 
-## Far-right UK provocateur Milo Yiannopoulos detained by ICE in US
-A Trump administration official says the controversial commentator overstayed his visit in the US and will be removed.
+## ‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89
+Norwegians are saying goodbye to King Harald V, Europe’s oldest reigning monarch.
 
-## Walmart settles US government’s opioid lawsuit
-The Justice Department and Walmart confirmed the settlement without disclosing terms.
+## Ecuador sentences ex-president Moreno to five years in jail in bribery case
+Lenin Moreno, 73, has also been permanently barred from holding any public office in the future.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
@@ -273,6 +285,9 @@ NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of compa
 ## NFRA flags 988 audit firms over Form NFRA 2 filing lapses
 NFRA has flagged 988 audit firms of listed and unlisted companies that appear not to have filed or have filed incomplete Form NFRA 2 for the 2024 25 reporting period, with 947 firms in the non filing category and 41 firms having filed incomplete returns.
 
+## India to pitch central bank digital currencies to BRICS partners at meet
+The global grouping celebrates 20 years at the New Delhi summit on September 12-13. A high-level meeting would be held next week to thrash out mechanisms for use of digital currencies, and explore ways to increase intra-BRICS trade using national currencies, said the people mentioned above.
+
 ## India's RBI gives banks more flexibility in swapping overseas dollar deposits
 The Reserve Bank of India has permitted banks to swap dollars more than once weekly. This change aids banks in managing large inflows before a deposit scheme deadline. The special deposit scheme has attracted over sixty-five billion dollars so far. Banks are raising overseas funds to leverage potent
 
@@ -293,7 +308,4 @@ Most high-frequency indicators showed sustained manufacturing and services activ
 
 ## Sebi drops case against Max Financial, Max Life, Axis entities in Rs 3,911 cr case
 Sebi has closed proceedings against Max Financial and Axis entities concerning alleged shareholder losses. The regulator found no evidence of disclosure lapses or a fraudulent scheme. Transactions between Max and Axis entities from 2009 to 2022 were examined. Allegations of undue benefits to Axis Ba
-
-## Where has India’s $73 billion gone? Inside the RBI’s great dollar haul
-India has mobilised about $73 billion in foreign currency in under 11 weeks, largely through FCNR(B) deposits, yet the rupee remains near ₹95-96 per dollar. The inflows are primarily strengthening RBI’s foreign-exchange buffers rather than being used to push the currency higher.
 
