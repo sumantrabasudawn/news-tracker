@@ -1,49 +1,52 @@
 # AION Intelligence
 
-## Submit your questions: is Trump losing his touch?
-Take part in a live Ask an Expert Q&A with columnist Jemima Kelly on Thursday September 3 at 1pm (BST)
+## Trump says US to take control of 65bn barrels of Venezuelan oil
+The president says the countries’ joint venture will lower petrol prices for Americans
+
+## Kevin Warsh spoke — what did we learn? With Torsten Slok
+The Fed chair has a plan to tackle inflation
+
+## Walmart to pay $50mn to settle opioid lawsuit with US justice department
+Retailer resolves case with DoJ over allegations it fuelled Americans’ addiction to painkillers
+
+## Guggenheim affiliate buys up debt linked to its asset management arm
+Loan has been closely watched as a proxy for Mark Walter’s private-held investment firm
+
+## Senior German politicians call for ban on parts of far-right AfD
+Boris Pistorius and Cem Özdemir say top court should consider outlawing Alternative for Germany’s most radical flank
+
+## China’s actors written out of dramas as AI doubles ready to take their roles
+Online performers left jobless as new video-generation programmes sweep industry
+
+## Gatwick airport water supplies hit by burst pipe
+UK hub suffers its second supply disruption this summer
+
+## Trump loses bid to challenge hush-money conviction in federal court
+Judge rules that payment and ‘engaging in a cover-up of an embarrassment are not subsumed in presidential immunity’
+
+## Neoclouds show how to amplify risks in AI ecosystems
+Fledgling companies that rent out servers and chips are in big demand but any unravelling will be ugly
+
+## Stockpickers: Chesnara, Hays, Macfarlane
+Our experts discuss which companies to buy, sell or hold this week
 
 ## US manufacturing is booming — but it’s no thanks to Trump’s tariffs
 This is not the nostalgic, protectionism-fuelled return that the president promised
 
-## Hawkish Warsh hints Fed will raise rates if inflation does not fall soon
-Wall Street cranks up bets on September increase in borrowing costs following central bank chair’s Jackson Hole address
+## SEBI extends ETF norms implementation deadline to September 7
+The regulator said the extension followed feedback from stock exchanges and was aimed at ensuring a smooth rollout of the provisions.
 
-## Warsh settles some nerves at Jackson Hole
-Speech gave a crisper picture of how he reads the economy but leaves open questions over Fed ‘reaction function’
+## Mumbai milk price hike: Wholesale rates to rise to ₹102 per litre from Sept 1
+The price revision comes as dairy farmers and cattle shed operators face rising costs for feed, transportation and livestock maintenance
 
-## Chinese rescue workers reach border crossing destroyed by Himalayan flood
-Rescue efforts resume after being suspended over fears of further flooding near the Tibet-Nepal border
+## US-Venezuela oil deal: Trump announces agreement over 65 billion barrels of reserves
+The announcement comes as Washington faces pressure over rising gasoline prices and seeks greater oil supplies amid disruptions through the Strait of Hormuz
 
-## Walmart settles lawsuit over painkiller prescriptions
-Retailer resolves case with US justice department over allegations it fuelled the nation’s opioid crisis
+## UGC NET result 2026: Over 4,000 qualify for JRF, more than 97,000 for PhD admissions
+The National Testing Agency announced the results late Friday after 6.07 lakh candidates appeared for examinations across 84 subjects.
 
-## Gatwick airport water supply hit by burst pipe
-Toilets and restaurants closed after incident, the second disruption this summer
-
-## Warsh’s mildly hawkish speech helped fill in the blanks
-The Fed chair finally gave us his views on the economy at Jackson Hole, outlining his concern that inflation has not ‘meaningfully improved’
-
-## Aberdeen fund takes £200mn hit on failure of UK broadband provider
-Sale of Airband to Macquarie-backed rival is latest sign of distress in indebted ‘altnet’ sector
-
-## Asda hopes fresh tech push can reverse fortunes
-UK supermarket chain aims to catch up with rivals after botched post-Walmart £1bn IT upgrade
-
-## BYD profits rise for first time in five quarters on export boost
-EV maker sees net profits for the second quarter jump 30% despite domestic pressure
-
-## Why banks find it so hard to manage reputational risk
-It is one thing to assess facts, another to weigh up the public reaction to them
-
-## How batteries are reshaping the solar power business model
-Also in today’s newsletter, are global emissions approaching a peak?
-
-## Can Netflix remake Jersey Shore — and its property market?
-With entertainment studios moving in, actors, directors and producers will surely follow, but the area has a lot of work to do to shake off its faded reputation
-
-## India food regulator proposes front-of-pack warning labels for high sugar, fat and salt
-The proposed labelling comes after health activists challenged the government in court, while food companies have opposed warning labels as confusing
+## CNG price hike: IGL raises rates by ₹3.89 per kg in Delhi from today
+Higher spot LNG prices since the beginning of the West Asia conflict have increased input costs, prompting a calibrated price revision
 
 ## Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity
 Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity
@@ -54,41 +57,41 @@ TestMu Conference 2026: TestMu AI's Flagship Event Marks a New Milestone in the 
 ## ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standard White Cane Used by Visually Impaired People
 ClearWay Mobility Introduces Obstacle Detection Device to be Added to the Standard White Cane Used by Visually Impaired People
 
-## Procam launches 'HDOR - 100 Days of Running' in a whole new avatar turning 100 days of movement into habits for life
-Procam launches 'HDOR - 100 Days of Running' in a whole new avatar turning 100 days of movement into habits for life
+## TVS Motor appoints Peyman Kargar as CEO
 
-## SF Holding Reports Solid First Half 2026 Results, Accelerating International Growth and Enhancing Shareholder Returns
-SF Holding Reports Solid First Half 2026 Results, Accelerating International Growth and Enhancing Shareholder Returns
 
-## Annu Projects IPO subscribed nearly 3x on closing day, NIIs lead demand
-It comprised a fresh issue of 1,76,83,000 equity shares
+## Meta India, SE Asia VP Devanathan joins OpenAI
 
-## RBI to conduct VRRR auction for ₹6 lakh crore on Aug 31
-This auction comes in the backdrop of the banking system being awash with liquidity
 
-## India's forex reserves hit all-time high of $729.33bn after $12.42bn jump
-India's foreign exchange reserves reached an all-time high of $729.328 billion. This surge marks eight consecutive weeks of significant increases in reserves. Foreign currency assets and gold holdings were the primary drivers of this substantial rise. Measures to attract overseas dollar inflows cont
+## Inflation isn’t meaningfully slowing: Federal Reserve chairman
 
-## IndiGo Ventures invests in Sarvam to enhance Artificial Intelligence in aviation
-IndiGo Ventures is investing in Sarvam, an Indian AI company. This investment supports Sarvam's Series B funding round. The partnership aims to enhance customer experience and operational workflows. Both companies will develop AI applications for a modern airline infrastructure. This collaboration s
 
-## Why India and China are betting on the Northern Sea Route & why it matters
-India’s interest in the Northern Sea Route is being shaped by two factors: its commercial potential and the need to broaden trade connectivity. The NSR also offers a clear geographical advantage on certain Asia-Europe trade lanes.
+## Noel Tata, Shapoorji discuss share swap for Tata Sons stake sale
 
-## Jio Platforms gets Sebi nod for $3.8bn IPO, potentially India’s biggest listing
-Jio Platforms secured Sebi approval for its substantial $3.8 billion initial public offering. This significant approval paves the way for India's potentially largest stock market listing. The company plans to offer new shares, raising approximately $4 billion for its operations. Proceeds will primar
 
-## Oil prices today: Crude heads for weekly losses as Hormuz flows remain choppy
-Oil prices remained largely steady on Friday. Both Brent and WTI benchmarks were set for sharp weekly declines. Stalled US-Iran diplomatic talks and uneven Hormuz crude flows influenced traders. India's MCX crude futures also traded lower on Friday. Market sentiment shifted as economic sanctions rep
+## From gold rakhis to gadgets, festive shopping gets a digital makeover
 
-## Govt achieves 78% of FY27 disinvestment, asset monetisation target in 5 months
-The government has raised over Rs 62,000 crore through disinvestment and asset monetisation. This figure represents 78% of the full-year budget target for FY27. The Life Insurance Corporation stake sale contributed significantly to these proceeds. Other public sector entities also saw stake dilution
 
-## Top stocks to buy today: Stock market recommendations for August 28, 2026 - check list
-Stock market recommendations: Siemens, Laurus Labs, and BHEL - Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One has picked these as the top stocks to buy today on August 28, 2026:
+## Ford’s India GCC to hire 500, bets on AI
 
-## Sensex opens 200 points higher, Nifty hovers around 24,000 ahead of Fed chair’s address
 
+## Sensex, Nifty rebound after 2-day losing streak, IT gains
+
+
+## RBI push: Forex reserves at all-time high of $729.3bn
+
+
+## 320 Indians still missing in Nepal, 400 stranded in Tibet after deadly floods: MEA
+The toll from floods in Nepal rose to 579 with more bodies recovered as search and rescue operations continued, according to the local authorities.
+
+## Shots fired at Goa casino director, he escapes unhurt
+Goa Police launched a manhunt after two assailants fired three shots at casino MD Shrinivas Nayak, who escaped unharmed.
+
+## Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities
+The CM inspected several key facilities including the quarantine zone, visitors' hall, prison hospital, and the de-addiction rehabilitation center.
+
+## 'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event
+RSS chief Mohan Bhagwat is scheduled to address the Universal Oneness Celebrations event in New York on August 29.
 
 ## 'BJP can't scare me with ED, CBI': B Nagendra slams 'manuwadis' after stepping down as Karnataka minister
 The Congress leader announced his resignation as the minister for planning and statistics in Karnataka as well as from his MLA seat.
@@ -101,18 +104,6 @@ FSSAI proposes red front-of-pack warning labels for foods high in fat, sugar or 
 
 ## Dipke seeks ‘complete overhaul’ of education system after IIT student's suicide: ‘If this is the situation…'
 Taking to the social media platform X, Abhijeet Dipke said that the IITs have witnessed 65 student suicides in the last 5 years.
-
-## 'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror
-The pilgrim, who is from Visakhapatnam in Andhra Pradesh, described the situation as "very serious" and claimed that around 250 Indians were missing.
-
-## Woman found dead near lake in Tamil Nadu’s Tiruvallur; police form 3 special teams
-Police identified the woman as 46-year-old Aruna from Andhra Pradesh; her body was found near Vellakulam lake with a smartphone lying nearby.
-
-## ‘Results visible next winter’: MoRTH secy on Delhi-NCR fleet renewal scheme
-Ministry of Road Transport and Highways (MoRTH) secretary V Umashankar said the ministry is targeting 230,000 truck and bus registrations under the scheme in a year
-
-## ‘I know the disease and medicine’: Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans
-West Bengal CM Suvendu Adhikari vowed to stop Maoists, Palestine supporters from using Jadavpur University as ‘free ground’
 
 ## BYD posts US$1.2 billion profit in second quarter on surging global demand
 China’s electric vehicle (EV) giant BYD saw its earnings jump 30 per cent in the three months from April to June, ending a five-quarter losing streak as buoyant overseas sales and premium models enhanced its net margin and profitability. The Shenzhen-based carmaker, also the world’s largest EV build
@@ -138,53 +129,53 @@ Bitcoin and gold rallied this week as the size of America’s sovereign debt con
 ## China Life’s revenue surges as top insurer ramps up investment in AI, chips and biotech
 China Life Insurance, the country’s largest life insurer, has posted record highs in its first-half results, and says it will scale up investments in technology-related sectors while seeking to become a long-term partner for innovative enterprises. The Shanghai- and Hong Kong-listed insurer recorded
 
+## Iceland’s EU Ambitions
+U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
+
+## Why Are Yields on U.S. Treasury Bonds Rising?
+The fluctuations could have huge impacts on the U.S. and global economy.
+
+## Yes, We’re in an AI Bubble. Just Look to 1980s Japan.
+Nvidia’s earnings may be formidable, but history suggests this may not end well.
+
+## A Book as Big as the War
+‘1942’ offers an epic, brilliant vision of global conflict.
+
+## Notes From Russia’s Literary Underground
+Publishers in exile are supplying contraband books to help Russians evade censorship.
+
+## Jared Kushner Is the Face of American Oligarchy
+Trump’s son-in-law embodies the rise of a trend that threatens to ignite a new nuclear age.
+
+## Getting Confucius Wrong
+A new translation of a key Chinese text is dangerously lacking in expertise.
+
 ## What in the World?
 Test yourself on the week of Aug. 22: A U.N. monitoring mission goes to Congo, the U.S. unveils an economic plan against Iran, and Putin issues a warning.
 
-## Russia and North Korea Are Scrambling Trump’s Alliance Strategy
-Pyongyang’s military is sharpening itself on Ukrainian battlefields. What does that mean for U.S. defense coordination?
+## Mongolia Hosts COP17, Urging Global Partners to Action on Climate Issues
+Mongolia wanted to see “a shift from talk to action” at COP17. The results were mixed.
 
-## Japan’s Narrowing Path to Permanent Residency
-Takaichi’s new policies are pushing away foreign workers. Rural areas and strained industries will pay the price.
+## Tim Cook’s Dark Legacy in China
+Cook’s leadership perfected Apple’s production – but Chinese workers paid the price.
 
-## Western Hemisphere Progressives Plot a Comeback
-A gathering in Uruguay sought to counter the “Donroe Doctrine.”
+## Uzbekistan’s Presidential Daughter Just Got a Law of Her Own
+The new presidential administration law grants its head – Saida Mirziyoyeva – sweeping new powers, and immunity.
 
-## The SCO’s Diminishing Usefulness for India
-Much like BRICS, the China-dominated Shanghai Cooperation Organisation offers few benefits to New Delhi.
+## India’s BrahMos at Sea: Implications for South Asian Stability
+The planned Indian deployment of the BrahMos missile on all of its naval warships has destabilizing implications for the region.
 
-## How Washington Can Credibly Counter China in the Pacific
-It’s going to take more than showing up.
+## ‘Latin Poison’: Kazakhstan’s Latinization in Russian Media Discourse
+In criticizing Kazakhstan's Latinization effort, Russian media is not defending the Russian language or the Cyrillic alphabet, but the symbolic, ideological, and geopolitical hierarchy of the Russian world.
 
-## Settler Violence Is Consuming the West Bank
-The Israeli government is facing mounting pressure to get the situation under control.
+## More and More Global Leaders Went to Chinese Colleges. Does That Matter?
+Does receiving a Chinese education sway Asia’s leaders and, by extension, foreign policy?
 
-## Death Toll Rises in Nepal-Tibet Flash Flood
-Rescuers are racing to find survivors before more potential flooding occurs.
+## Takaichi Is No Abe: Japan’s New Conservative Politics
+After roughly 10 months in power, the differences between Takaichi and Abe are becoming increasingly difficult to ignore.
 
-## China’s Green Exports to Europe Are a Bright Spot Amid Trade Tensions
-Climate change and the Iran war are driving many European consumers to Chinese-made electric vehicles despite EU tariffs.
-
-## Transitional Justice or Political Retaliation? Bangladesh’s Journalists on Trial
-As Bangladesh’s tribunal for 1971 atrocities is being used to prosecute journalists, the line between accountability and revenge is being tested.
-
-## China’s Tourism Industry Gains Momentum Thanks to Visa-Free Policies
-China is poised to become a global powerhouse as both a source and destination for international tourism.
-
-## SCO at 25: Institutionalizing Coexistence Without Convergence
-In an international system increasingly characterized by strategic distrust, contested borders, fragmented and overlapping alignments, the capacity to communicate with one’s rivals remains critical for conflict management.
-
-## AI, Scams, the Law, and Governance: A Conversation With David Tan
-How are Southeast Asia's governments facing up to the challenges of AI?
-
-## The Tibet-Nepal Flood Is a Himalayan Climate Security Warning
-The catastrophic flood this week proves that Tibet needs to be at the center of international climate security discussions.
-
-## Nepal’s ‘Himalayan Tsunami’ Is a Warning for the Whole Region
-Melting ice, unstable terrain, landslides, river blockages, sudden lake releases, and extreme weather can all combine in unpredictable ways.
-
-## Rahul Gandhi Ushers a New Style of Youth-Centric Politics in India
-From being mocked for being inexperienced and incompetent, he is now emerging a sought-after leader of India’s youth.
+## Can Discussions in Cambridge Help Afghans Build a Post-Taliban Future?
+Thousands of miles from Afghanistan, prescriptions are being written by Afghans for the country’s future – a future without Taliban rule.
 
 ## The (Un)importance of the Battle of Tours
 Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, may look important, but in fact had negligible strategic or political effects or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles never end.
@@ -234,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Canadian economy recovers sharply in Q2 but shadow of US tariffs in future
-Healthy domestic demand, led by consumer spending and business investment, shows Canada was brushing off past tariffs.
+## Board of Peace’s Mladenov warns Gaza could be ‘gone for good’
+Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.
 
-## Al Jazeera reports from Nepal as flood survivors flee new threat
-Al Jazeera reports from flood-hit Bidur, Nepal, as residents flee towards higher ground amid threats of another flood.
+## US revises statements suggesting Chinese hackers attacked agencies
+US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.
 
-## Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’
-In an interview with Al Jazeera, Nicolay Mladenov says that a return to war would be 'devastating'.
+## US judge rejects Trump’s bid to switch hush-money case to federal court
+The US president has sought to overturn his criminal conviction for falsifying business records, citing immunity.
 
-## Gaza forced to use unreliable online payments amid ‘cash famine’
-Israeli restrictions and war damage have created a liquidity crisis, crippling Gaza's banking system and daily commerce.
+## Iran war live: IRGC asserts strait control, US enforces blockade
+Iran's IRGC claims decisive control over the Strait of Hormuz as the US maintains its naval blockade.
 
-## Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow
-After repeated disappointments over US Patriots, Kyiv switches to attacking Russia using European weapons.
+## Cambodia’s claim to have ended scam compounds met with scepticism
+Cambodia's claim of eradicating its scam compounds met with scepticism from Amnesty International and industry experts.
 
-## Israeli strikes kill five people, including three from one family, in Gaza
-The latest round of attacks comes as Palestinians across the strip continue to face severe food insecurity.
+## Spain asks EU for help to process 5,000 Ceuta migrants amid local unrest
+Thousands of migrants remain in the Spanish enclave, triggering anger among Ceuta residents.
 
-## Why is India’s nationalist RSS holding an event in New York?
-The head of India’s controversial Hindu nationalist RSS is due to speak in New York.
+## Far-right UK provocateur Milo Yiannopoulos detained by ICE in US
+A Trump administration official says the controversial commentator overstayed his visit in the US and will be removed.
 
-## Kenyan police fire tear gas at Nairobi protest against import duty hike
-Traders frustrated by more than $5,000 duty hike they say will hurt small businesses.
+## Walmart settles US government’s opioid lawsuit
+The Justice Department and Walmart confirmed the settlement without disclosing terms.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
