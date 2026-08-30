@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## Niger regains control of military base after coup attempt
+Disgruntled soldiers who launched attack detained in capital
+
+## Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund
+Mykhailo Fedorov seeks western capital to build and manage weapons development companies he says will help Kyiv resist Moscow
+
+## Return of the politicians
+US jobs data shines light on world’s biggest economy, Shein finally lists in Hong Kong, Massachusetts primaries expose fractures within Democratic Party
+
 ## Nepal rescue effort intensifies with more than 3,000 missing
 Authorities warn rising water levels could complicate recoveries as the number of confirmed deaths reaches almost 800
 
 ## Americans feel they have lost their agency
 People increasingly blame large corporations for the sense that they have ever less control over their own lives
-
-## Niger regains control of military base after coup attempt
-Disgruntled soldiers who launched attack detained in capital
 
 ## Claridge’s operator bets on US and UK visitors to offset Middle East
 Maybourne chief executive says it has ‘proactively pivoted’ to other areas to counter drop in Gulf bookings
@@ -19,10 +25,7 @@ Maybourne chief executive says it has ‘proactively pivoted’ to other areas t
 Prime minister had faced criticism over moves to avert overcrowding in prisons in England and Wales
 
 ## Controversial Venezuelan executive courts investors after Trump oil deal
-Alejandro Betancourt is US’s minority partner in company that will control more than 65bn barrels of oil reserves
-
-## Friends with fiscal benefits
-Cross-class friendships appear to be one of the strongest predictors of upward mobility for people in low socio-economic groups
+Alejandro Betancourt is the US’s primary partner in a company that will control more than 65bn barrels of oil reserves
 
 ## Meta’s settlement is a starting point
 Governments can use it as leverage as they mull social media bans for minors
@@ -35,9 +38,6 @@ Pricing deals with the White House and positive clinical data boost sector
 
 ## CEO of India’s largest private bank to step down
 HDFC Bank chief’s exit will come just months after chair departed, citing ‘ethical differences’
-
-## Incoming Swiss banking chief warns against regulatory over-reach
-Comments from chief executive of EFG International signal how opposition to new rules extends across the industry
 
 ## Bengaluru’s commercial projects hit approval roadblocks, squeezing new supply
 According to Santhosh Kumar, Vice Chairman, ANAROCK Group, bottlenecks vary depending on the project and location
@@ -87,6 +87,12 @@ Six months into the war, global economic fears have not fully materialized. Oil 
 ## Shopping with AI: Consumers ask artificial intelligence for advice but less than half trust it
 Consumers now use artificial intelligence for shopping decisions, though trust remains low. Younger shoppers consult more sources but trust them less, challenging brands. Companies must optimize websites for AI searches as brand mentions are minimal. Consumers seek value beyond price, considering du
 
+## 8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra
+The boy had sustained serious injuries and was immediately rushed to a nearby hospital for treatment, where doctors declared him dead
+
+## Retired Bengal couple returns from Nepal, recounts narrow escape
+The group turned back from around one-and-a-half hours driving distance from Rasuwa, which the flood tore through on August 26, the couple told reporters.
+
 ## Four killed in encounter with Meghalaya Police-ATS in East Garo Hills
 During checking, the team signalled a suspected vehicle to stop, but its occupants allegedly opened fire at the police personnel.
 
@@ -104,12 +110,6 @@ Police have registered a murder case, although the woman’s identity and the ci
 
 ## 3 masked men burgle Alka Lamba's father's home in Delhi; Congress leader shares CCTV footage
 In one of the clips, two men are seen entering the home in daylight, while a third is seen with a motorbike at a distance.
-
-## Odisha to deduct maintenance from salaries of govt employees who default: CM
-The amount will then be deducted from the salary and transferred electronically to the bank account of the employee’s wife or children
-
-## ‘Cage-like’ school: Days after attack, CJP inspects Jaipur schools, gives 7-day ultimatum to govt
-CJP warned that it would launch a public agitation with local residents if the problems were not resolved within the stipulated period.
 
 ## Will Hong Kong see fewer creditor-led commercial property sales as assets stabilise?
 Financial distress in Hong Kong’s commercial property market has moderated but not been completely eliminated, analysts say, with highly leveraged asset owners still expected to find refinancing their loans a challenge. The city’s office and retail property segments have been mired in a multi-year s
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump threatens to report journalist Kristen Welker to broadcast regulator
-The Federal Communications Commission under Trump has tried to target news outlets for spreading 'fake' news.
+## Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start
+Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho's Real Madrid continues to move at pace in La Liga.
 
-## Zambia opposition leader Brian Mundubile charged with treason
-Zambian opposition leader Brian Mundubile and his running mate, Makebi Zulu, have been charged with treason.
+## Israeli settler rabbi says Palestinians should leave the occupied West Bank
+Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.
 
-## Death toll nears 800 after Himalayan glacier collapse
-Specialised search-and-rescue teams join recovery operations in Nepal and China.
+## Former Israeli soldiers pose as Pro-Palestinian supporters in the US
+Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.
 
-## Google Maps renames Lake Ontario after Trump’s decree on ‘Lake America’
-Tech giant says name to remain Lake Ontario for Canadian users, change reflects decision by US government agency.
+## ‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign
+How a far-right party with neo-Nazi roots bought every ad surface in Sweden's biggest train station.
 
-## Rival Libya factions sign deal to hold national elections within two years
-Signing takes place at UN mission in Tripoli after initial draft inked by UN-backed committee in Tunis on August 20.
+## Devastation from the Nepal-China Floods in 30 photos
+More than 3,000 people missing after glacier collapse unleashes destruction in Himalayas.
 
-## Israeli soldiers participate in Sydney Marathon despite protests
-Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.
+## Fernandes hat-trick fires Man Utd in seven-goal thriller with Ipswich
+Bruno Fernandes's hat-trick inspires Manchester United's comeback 5-2 win against Ipswich Town in the Premier League.
 
-## What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?
-Israel's rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.
+## First images of Maduro in US custody released since his abduction
+Former Venezuelan President Nicolas Maduro has appeared in the first photos from US custody since his January abduction.
 
-## Educated? Skilled? Ambitious? Traffickers are looking for you
-Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.
+## Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul
+Foreign, defence ministers and military chiefs from three countries to meet for first time since signing Mecca pact.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
