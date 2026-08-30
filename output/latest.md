@@ -1,28 +1,34 @@
 # AION Intelligence
 
+## Burnham tightens prisoner release scheme and insists he is ‘tough on crime’
+Prime minister had faced criticism over moves to avert overcrowding in prisons in England and Wales
+
+## Iceland rejects reopening talks on EU entry
+‘No’ vote prevails in knife-edge referendum prompted by Donald Trump’s threats to annex Greenland
+
+## Controversial Venezuelan executive courts investors after Trump oil deal
+Alejandro Betancourt is US’s minority partner in company that will control more than 65bn barrels of oil reserves
+
+## Friends with fiscal benefits
+Cross-class friendships appear to be one of the strongest predictors of upward mobility for people in low socio-economic groups
+
+## Will the Fed’s hawkish stance survive contact with jobs data?
+Market Questions is the FT’s guide to the week ahead
+
+## ‘New York loves Canada’: US cities want their Canadian tourists back
+American tourism businesses try to overcome cross-border travel boycott over Trump administration’s hostility to its northern neighbour
+
+## Pharma stocks soar as investors seek AI alternatives
+Pricing deals with the White House and positive clinical data boost sector
+
+## Nepal rescue effort intensifies as death toll passes 700
+Authorities warn rising water could complicate recoveries with more than 3,000 still missing
+
+## Meta’s settlement is a starting point
+Governments can use it as leverage as they mull social media bans for minors
+
 ## CEO of India’s largest private bank to step down
 HDFC Bank chief’s exit will come just months after chair departed, citing ‘ethical differences’
-
-## Nicotine pouch sales jump in UK as companies step up marketing
-Campaigns come ahead of ban on advertising and sponsorship for all non-medicinal products from next June
-
-## Burnham’s summer of quietly backing away from radical pledges
-From Thames Water to electoral reform, the prime minister seems to be diverging from his campaign rhetoric
-
-## One fix for UK plc’s underperformance: equity for all
-A new proposal suggests doubling the pay of board directors using stock options
-
-## Summer might be ending, but we can hold on to some of its magic
-It offers not the opportunity to do nothing but to have the time to do things slowly
-
-## Rising bond yields add tens of billions to G7 countries’ debt costs
-World’s biggest developed economies face higher financing costs since start of US-Iran war, weighing on public finances
-
-## EU to help tourism hotspots crack down on Airbnb-style holiday rentals
-Measures imposed on short-term lets by cities such as Florence often result in drawn-out legal battles
-
-## The companies desperate to hire graduates
-Entry-level roles are under threat from AI but some employers still struggle to find skilled young workers
 
 ## Incoming Swiss banking chief warns against regulatory over-reach
 Comments from chief executive of EFG International signal how opposition to new rules extends across the industry
@@ -30,38 +36,50 @@ Comments from chief executive of EFG International signal how opposition to new 
 ## Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains
 Anglo American and Teck promised investors $1.4bn in added profits annually from combined Chile copper mines but are still in talks with part-owner Glencore
 
-## ‘SmashCos’: Europe’s oil majors create new generation of independent companies
-Jointly owned independent oil and gas producers are an increasingly important part of the biggest players’ strategies
+## Nicotine pouch sales jump in UK as companies step up marketing
+Campaigns come ahead of ban on advertising and sponsorship for all non-medicinal products from next June
 
-## Claridge’s operator bets on US and UK visitors to offset Middle East
-Maybourne chief executive says it has ‘proactively pivoted’ to other areas to counter drop in Gulf bookings
+## SpaceX launches NASA’s dark energy-hunting space telescope
+The launch puts the spacecraft on course to reach its final destination, an orbit roughly 1 million miles from Earth, where the spacecraft will begin observations of the sky as early as December
 
-## Norway vs the world’s favourite chicken
-Billions of meals each year are made from the fast-growing Ross 308 genetic strain of birds. But a backlash is gathering pace
+## EV, CNG car waiting time jumps to 3-4 months ahead of festival season
+From Tata’s Punch EV and Maruti Suzuki’s Brezza to Mahindra’s electric SUVs and the TVS iQube, buyers face sharply different delivery queues even as dealers carry around a month of overall inventory
 
-## GDP data, crude oil prices key factors to drive markets this week: Analysts
-Analysts said that macroeconomic data, auto sales, and foreign investor trading activity will influence future market movement
+## Telangana panel seeks minor irrigation act, tank protection measures
+In a report submitted to Chief Minister A Revanth Reddy here, the Commission recommended re-establishing a dedicated minor irrigation system equipped with modern technical units to improve water-use efficiency.
 
-## HDFC Bank CEO search tests investor confidence, governance
-The new CEO will have to assure investors that the bank’s governance systems are robust, with the focus squarely on growing the business at a time when peers are eager to gain ground
+## Kashmir dig probes ancient network linking India, Gandhara and Central Asia
+The three-month exercise will use additional trenches, drone imagery, mapping and scientific investigation to identify structures and cultural deposits beneath the surface.
 
-## Indian govt bond yields to remain range-bound at 6.6-6.9%, limiting near-term trading windows: Motilal Oswal
-“The softer inflation outlook suggests a pause until CY2026, but global risks allow for a 25 bps hike in early CY2027,” said Motilal Oswal Private Wealth
+## Vice President to launch ornamental fisheries plan in Lakshadweep tomorrow
+The plan, called 'Mission Rangeen Machhli 2031', will set uniform rules for breeding, biosecurity, quality control and trade across India's ornamental fish industry
 
-## SBI, arm to dilute up to 1% stake in NSE via IPO
-The bank is participating in the NSE IPO and will dilute a 0.65 per cent stake in the exchange, SBI Chairman C S Setty told PTI.
+## Govt expands digital fertiliser tracking system to link farmers, subsidies and supply chain
+The Integrated Fertilizer Management System (iFMS) already tracks more than 14 crore Aadhaar-linked buyers and over 2,50,000 retailers, and processes about 70 million tonnes of fertilizer sales a year
 
-## Nepal floods: India provides 68.5 tonnes of relief, Bailey bridge, tunnel expertise
-A fourth flight carrying 11 tonnes of relief assistance landed in Nepal on Sunday, the Ministry of External Affairs (MEA) said in a post on X.
+## Economy likely grew between 7-7.5% in April-June, SBI research expects 8%
+MoSPI to release April-June GDP data on Monday, the first full quarter after West Asia conflict began
 
-## Sintex Industries: NCLAT upholds clean slate principle, rejects shareholder's plea for compensation
-A NCLAT bench dismissed the appeal by a Kerala-based investor seeking around ₹110 crore in compensation for 1,35,000 equity shares of Sintex Industries that were extinguished under the company's insolvency resolution plan.
+## Bengaluru’s commercial projects hit approval roadblocks, squeezing new supply
+According to Santhosh Kumar, Vice Chairman, ANAROCK Group, bottlenecks vary depending on the project and location
 
-## FPIs turn buyers for second month, invest ₹30,919 cr in August
-However, foreign investors remain net sellers in Indian equities in 2026.
+## Bullion watch: What will shape gold, silver prices? Fed bets, US jobs data in focus
+Throughout September, gold and silver prices are likely to remain under pressure. Critical influences on trading will stem from forthcoming US employment data releases. Traders should be alert to how central bank anticipations and persistent geopolitical tensions will steer market dynamics. Special 
 
-## BKT to foray into car tyres in November; aims to double revenue to ₹23,000 crore by FY30
-The tyre maker is targeting a ₹5,000 crore on-road business by FY30, backed by a ₹6,800 crore investment plan, while continuing to scale up its off-highway tyre and carbon black operations
+## FPIs continue to buy: Foreign investors pump over Rs 30,900 crore into Indian equities in August
+In August, foreign investors poured Rs 30,919 crore into Indian equity markets, signaling a notable turnaround following earlier withdrawals. Investor confidence strengthened due to rising corporate earnings and a stable rupee. Additionally, diminishing geopolitical worries positively influenced eme
+
+## What will guide Dalal Street this week? GDP data, crude and more in focus
+This week promises significant economic developments on Dalal Street with a flurry of data to analyze. India’s Q1 FY27 GDP stats are anticipated on August 31, giving insight into economic growth. The August PMI figures for the manufacturing and services sectors will be closely watched as well. Furth
+
+## India’s economy set for 7-7.2% growth in FY27 despite global headwinds: EY
+India's economy is poised for significant growth in FY27, with forecasts suggesting an expansion between 7 and 7.2 percent. This anticipated surge in economic activity will be driven by strong domestic demand and government investment initiatives. Notably, manufacturing is showing an impressive rebo
+
+## India reaches fiscal deficit target for 2025-26, credit ratings improving: FM Sitharaman in US
+India proudly announces the achievement of its fiscal deficit target for 2025-26, showcasing commendable fiscal discipline. With a clear vision, the government aspires to maintain a 50 percent debt-to-GDP ratio by 2030. This fiscal prudence was executed without compromising social welfare or infrast
+
+## Iran war at 6 months: Who gained, who lost the most economically
+Six months into the war, global economic fears have not fully materialized. Oil prices surged initially but have since eased from their peak. Financial markets have recovered strongly, boosted by artificial intelligence optimism. Airlines and farmers face increased costs, impacting travelers and foo
 
 ## Shopping with AI: Consumers ask artificial intelligence for advice but less than half trust it
 Consumers now use artificial intelligence for shopping decisions, though trust remains low. Younger shoppers consult more sources but trust them less, challenging brands. Companies must optimize websites for AI searches as brand mentions are minimal. Consumers seek value beyond price, considering du
@@ -69,47 +87,29 @@ Consumers now use artificial intelligence for shopping decisions, though trust r
 ## India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages
 India's role as a major gasoline supplier to Russia has surged recently, particularly after Ukrainian drone strikes impacted Russian refinery activities. In August, Russian gasoline imports hit unprecedented levels, with India emerging as a central contributor. Much of this gasoline was transported 
 
-## Bank holidays in September 2026: When and where will banks remain closed? Check state-wise list
-In September, banks throughout India will close for various festive occasions. On September 4th, multiple states will celebrate Janmashtami, resulting in branch closures. Following this, Ganesh Chaturthi on September 14th and 15th will also see numerous banks shut across different regions. Additiona
+## Assam approves ₹600cr proton beam therapy unit for cancer treatment: CM Sarma
+“Assam will be the first state in the country to have a proton beam therapy unit in the public health care sector,” said CM Himanta Biswa Sarma
 
-## US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’
-In a landmark move, the United States and Venezuela have forged a 25-year energy partnership designed to uplift Venezuela's ailing oil sector and enhance production capabilities. Under this agreement, rights to unexplored oil reserves will be held for a century, with the U.S. claiming fifty-five per
+## ‘Oldest trick in RSS playbook’: Owaisi hits back at Mohan Bhagwat's ‘Hindu-Muslim unity’ remarks at NYC event
+Asaduddin Owaisi also claimed that RSS thinks 'Indian Muslims and Christians are ‘internal threats’ number one and two, respectively.
 
-## Union, Canara Bank to appeal NCLT's Chandra order
+## 4 armed men killed in Meghalaya encounter, link to businessman’s murder probed
+The identities of the deceased were yet to be formally confirmed as police began the process of establishing their identities
 
+## How tea break saved five Chhattisgarh friends from Nepal flash floods: ‘We were lucky'
+On the morning of August 26, at around 9.30-10 am, they stopped for tea at a hotel in Malekhu town in Dhading district.
 
-## Passed over in 2020, Bharucha likely to succeed Jagadishan
+## HT Evening Brief Aug 30: PM Modi gets Uzbekistan's highest state honour, Sooryavanshi becomes captain at 15
+Here's your 5-minute sprint through today's biggest stories: politics, India, world, entertainment and sports.
 
+## Uranium supply deal, $5 billion annual trade by 2030: India-Uzbekistan strengthen ties during PM Modi's visit
+India and Uzbekistan set a bilateral trade target of USD 5 billion annually by 2030, up from the present of over USD 1 billion.
 
-## Months after HDFC Bank chair quit, CEO says won’t stay beyond Oct
+## ‘Where the hell are you guys…’: CJP’s Dipke recalls moment when he was ‘mad’ at Saurav Das, Ashutosh Ranka
+Abhijeet Dipke said the crowd grew impatient and wanted to proceed with the march, while he lacked the energy to lead them.
 
-
-## Trump vs Carney: Cars, homes, booze and more caught in US-Canada tariff war
-The recent imposition of new tariffs on vehicles and construction materials has intensified the trade conflict between the US and Canada. This has also led to surging import taxes on other household products and alcoholic beverages. Both businesses and consumers are likely to feel the pinch with esc
-
-## Ladakh's development must leverage its unique strengths: NITI Aayog
-Ladakh's development must leverage its unique strengths: NITI Aayog
-
-## Vice President Radhakrishnan urges deepening of Keralam rivers to prevent floods
-Vice President Radhakrishnan urges deepening of Keralam rivers to prevent floods
-
-## 1 killed, 24 injured as lightning strikes Gurupadgiri Hill in Bihar’s Gaya: Police
-One devotee was killed and 24 injured, four critically, after lightning struck two spots at Gurupadgiri Hill in Bihar’s Gaya during Raksha Bandhan.
-
-## ‘Do you feel you are a lord?’: Bombay HC rebukes Tukaram Mundhe-led FDA over crackdown on MCA eateries
-Following the court’s remarks, the Maharashtra FDA on Saturday said it would withdraw its order suspending the licences of the five restaurants.
-
-## Army Cheetal carries out evacuation of injured mountaineer at 18,600 ft in Ladakh
-Army pilots land a Cheetal helicopter at 18,600 ft on a treacherous Ladakh slope to evacuate an injured JCO near the Nun-Kun peaks.
-
-## High-altitude, higher courage: How Indian Army aviation pilots executed rescue at 18,600 feet near Nun Kun | WATCH
-In a rescue mission at 18,600 ft near Nun Kun, Indian Army Aviation pilots evacuated a casualty from a challenging slope with no landing space, as per the post.
-
-## UP's Chitrakoot on high alert as Mandakini River overflows; drones deployed
-According to the Chitrakoot Police, drone cameras are being utilised to monitor the flood-affected areas and assess the situation on the ground.
-
-## 'Whatever Sonia Gandhi writes might affect BJP's health: Congress' Bhupesh Baghel on row over memoir publication
-Congress leader Bhupesh Baghel's remarks came amid a controversy over the publication of Sonia Gandhi's memoir ‘Belonging’.
+## Uzbekistan introduces 30-day visa-free regime for Indian citizens during PM Modi's visit
+The announcement comes during PM Modi's two-day State visit to Uzbekistan, aimed at further deepening bilateral ties and expanding cooperation.
 
 ## Will Hong Kong see fewer creditor-led commercial property sales as assets stabilise?
 Financial distress in Hong Kong’s commercial property market has moderated but not been completely eliminated, analysts say, with highly leveraged asset owners still expected to find refinancing their loans a challenge. The city’s office and retail property segments have been mired in a multi-year s
@@ -159,6 +159,9 @@ A new translation of a key Chinese text is dangerously lacking in expertise.
 ## What in the World?
 Test yourself on the week of Aug. 22: A U.N. monitoring mission goes to Congo, the U.S. unveils an economic plan against Iran, and Putin issues a warning.
 
+## Angola Is Emerging as One of Africa’s Most Important Gateways to the Asia-Pacific
+The story of its success has not been straightforward.
+
 ## Mongolia Hosts COP17, Urging Global Partners to Action on Climate Issues
 Mongolia wanted to see “a shift from talk to action” at COP17. The results were mixed.
 
@@ -179,9 +182,6 @@ Does receiving a Chinese education sway Asia’s leaders and, by extension, fore
 
 ## Takaichi Is No Abe: Japan’s New Conservative Politics
 After roughly 10 months in power, the differences between Takaichi and Abe are becoming increasingly difficult to ignore.
-
-## Can Discussions in Cambridge Help Afghans Build a Post-Taliban Future?
-Thousands of miles from Afghanistan, prescriptions are being written by Afghans for the country’s future – a future without Taliban rule.
 
 ## The (Un)importance of the Battle of Tours
 Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, may look important, but in fact had negligible strategic or political effects or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles never end.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised
-Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.
+## LIVE: Manchester United vs Ipswich Town – Premier League
+Live text updates from our commentary stream coverage as Bruno Fernandes will hope to help United recover from defeat.
 
-## Mapping Iran war’s strikes on Gulf energy – and what comes next for oil
-US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.
+## Palestinian mother in agony as Israeli attack kills her son
+Palestinian mother in agony as Israeli attack kills her son
 
-## US police officer pulls hair, throws punches during arrest in Arkansas
-Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.
+## Death toll from Russian strike on Ukrainian arms depot rises to 38
+Russia's Defence Ministry announces plans to launch 'massive strikes' against Ukraine's infrastructure before winter.
 
-## Protests as India’s Hindu nationalists take centre stage in New York
-Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.
+## Road collapses in Nepal landslide four days after floods
+A vital highway weakened by Nepal’s floodwaters has collapsed four days after the catastrophic glacial outburst.
 
-## Air raids, conscripts and China: How Myanmar’s military is regaining ground
-Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.
+## How has life changed for Iranians six months into the war?
+Common Iranians are under increasing pressure, with no relief expected in the short term.
 
-## Sudanese repair roads by hand in Darfur to improve emergency access
-Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.
+## Infantino must go by 2027 in FIFA overhaul, Dutch football body says
+KNVB invites associations and confederations to a summit to discuss the overhaul of FIFA and how it runs football.
 
-## Venezuela says it retains ‘sovereignty’ following US oil deal
-Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.
+## Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners
+Palestinian groups condemn prison footage as humiliation and intimidation.
 
-## US deports relative of Afghans who aided military to Africa
-Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.
+## Ferry carrying 260 people capsizes off coast of northern Cyprus
+A catamaran carrying around 260 people has capsized off the Cyprus coast.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
