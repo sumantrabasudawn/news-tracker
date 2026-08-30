@@ -1,10 +1,22 @@
 # AION Intelligence
 
+## Nepal rescue effort intensifies with more than 3,000 missing
+Authorities warn rising water levels could complicate recoveries as the number of confirmed deaths reaches almost 800
+
+## Americans feel they have lost their agency
+People increasingly blame large corporations for the sense that they have ever less control over their own lives
+
+## Niger regains control of military base after coup attempt
+Disgruntled soldiers who launched attack detained in capital
+
+## Claridge’s operator bets on US and UK visitors to offset Middle East
+Maybourne chief executive says it has ‘proactively pivoted’ to other areas to counter drop in Gulf bookings
+
+## Iceland rejects talks on EU entry
+‘No’ vote prevails in knife-edge referendum prompted by Donald Trump’s threats to annex Greenland
+
 ## Burnham tightens prisoner release scheme and insists he is ‘tough on crime’
 Prime minister had faced criticism over moves to avert overcrowding in prisons in England and Wales
-
-## Iceland rejects reopening talks on EU entry
-‘No’ vote prevails in knife-edge referendum prompted by Donald Trump’s threats to annex Greenland
 
 ## Controversial Venezuelan executive courts investors after Trump oil deal
 Alejandro Betancourt is US’s minority partner in company that will control more than 65bn barrels of oil reserves
@@ -12,8 +24,8 @@ Alejandro Betancourt is US’s minority partner in company that will control mor
 ## Friends with fiscal benefits
 Cross-class friendships appear to be one of the strongest predictors of upward mobility for people in low socio-economic groups
 
-## Will the Fed’s hawkish stance survive contact with jobs data?
-Market Questions is the FT’s guide to the week ahead
+## Meta’s settlement is a starting point
+Governments can use it as leverage as they mull social media bans for minors
 
 ## ‘New York loves Canada’: US cities want their Canadian tourists back
 American tourism businesses try to overcome cross-border travel boycott over Trump administration’s hostility to its northern neighbour
@@ -21,47 +33,38 @@ American tourism businesses try to overcome cross-border travel boycott over Tru
 ## Pharma stocks soar as investors seek AI alternatives
 Pricing deals with the White House and positive clinical data boost sector
 
-## Nepal rescue effort intensifies as death toll passes 700
-Authorities warn rising water could complicate recoveries with more than 3,000 still missing
-
-## Meta’s settlement is a starting point
-Governments can use it as leverage as they mull social media bans for minors
-
 ## CEO of India’s largest private bank to step down
 HDFC Bank chief’s exit will come just months after chair departed, citing ‘ethical differences’
 
 ## Incoming Swiss banking chief warns against regulatory over-reach
 Comments from chief executive of EFG International signal how opposition to new rules extends across the industry
 
-## Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains
-Anglo American and Teck promised investors $1.4bn in added profits annually from combined Chile copper mines but are still in talks with part-owner Glencore
-
-## Nicotine pouch sales jump in UK as companies step up marketing
-Campaigns come ahead of ban on advertising and sponsorship for all non-medicinal products from next June
-
-## SpaceX launches NASA’s dark energy-hunting space telescope
-The launch puts the spacecraft on course to reach its final destination, an orbit roughly 1 million miles from Earth, where the spacecraft will begin observations of the sky as early as December
-
-## EV, CNG car waiting time jumps to 3-4 months ahead of festival season
-From Tata’s Punch EV and Maruti Suzuki’s Brezza to Mahindra’s electric SUVs and the TVS iQube, buyers face sharply different delivery queues even as dealers carry around a month of overall inventory
-
-## Telangana panel seeks minor irrigation act, tank protection measures
-In a report submitted to Chief Minister A Revanth Reddy here, the Commission recommended re-establishing a dedicated minor irrigation system equipped with modern technical units to improve water-use efficiency.
-
-## Kashmir dig probes ancient network linking India, Gandhara and Central Asia
-The three-month exercise will use additional trenches, drone imagery, mapping and scientific investigation to identify structures and cultural deposits beneath the surface.
-
-## Vice President to launch ornamental fisheries plan in Lakshadweep tomorrow
-The plan, called 'Mission Rangeen Machhli 2031', will set uniform rules for breeding, biosecurity, quality control and trade across India's ornamental fish industry
-
-## Govt expands digital fertiliser tracking system to link farmers, subsidies and supply chain
-The Integrated Fertilizer Management System (iFMS) already tracks more than 14 crore Aadhaar-linked buyers and over 2,50,000 retailers, and processes about 70 million tonnes of fertilizer sales a year
-
-## Economy likely grew between 7-7.5% in April-June, SBI research expects 8%
-MoSPI to release April-June GDP data on Monday, the first full quarter after West Asia conflict began
-
 ## Bengaluru’s commercial projects hit approval roadblocks, squeezing new supply
 According to Santhosh Kumar, Vice Chairman, ANAROCK Group, bottlenecks vary depending on the project and location
+
+## Cash market volumes fall to five-month low as CAS swings rattle investors
+The ADT on the NSE fell to a five-month low in August as investors turned cautious amid sharp price volatility and widespread profit-booking
+
+## SEBI could have been better prepared for closing auction, says UK Sinha
+The closing auction session was well-intentioned by the regulator and will stabilise eventually, says former SEBI Chairman
+
+## Subhash Chandra raises questions over HDFC claims; seeks reconciliation of ₹4,262 crore dues
+Chandra’s statement came in response to social media posts over the weekend carrying hashtags such as #PaiseVapasKaro
+
+## PM Modi arrives in Kyrgyzstan to attend SCO summit
+PM Modi is visiting Kyrgyzstan at the invitation of President Sadyr Zhaparov to participate in the 26th SCO Summit on August 31-September 1
+
+## Atlassian bets big on India as AI changes software development
+The India site has grown to more than 2,700 employees, with a large portion working across engineering, product and design, while the company is also expanding its sales workforce in the country
+
+## Turkey’s authoritarian turn
+Pulitzer Prize finalist Suzy Hansen presents a gripping portrait of a crisis-ridden Turkey and a global unravelling
+
+## Bahwan CyberTek bullish on AI-driven products and public sector tech spending
+A localised delivery model and nimble organisational structure is giving us an edge in the competitive market, says new MD and CEO
+
+## From sweet to sour crude: India’s bitumen supply improves, but prices remain elevated
+
 
 ## Bullion watch: What will shape gold, silver prices? Fed bets, US jobs data in focus
 Throughout September, gold and silver prices are likely to remain under pressure. Critical influences on trading will stem from forthcoming US employment data releases. Traders should be alert to how central bank anticipations and persistent geopolitical tensions will steer market dynamics. Special 
@@ -84,32 +87,29 @@ Six months into the war, global economic fears have not fully materialized. Oil 
 ## Shopping with AI: Consumers ask artificial intelligence for advice but less than half trust it
 Consumers now use artificial intelligence for shopping decisions, though trust remains low. Younger shoppers consult more sources but trust them less, challenging brands. Companies must optimize websites for AI searches as brand mentions are minimal. Consumers seek value beyond price, considering du
 
-## India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages
-India's role as a major gasoline supplier to Russia has surged recently, particularly after Ukrainian drone strikes impacted Russian refinery activities. In August, Russian gasoline imports hit unprecedented levels, with India emerging as a central contributor. Much of this gasoline was transported 
+## Four killed in encounter with Meghalaya Police-ATS in East Garo Hills
+During checking, the team signalled a suspected vehicle to stop, but its occupants allegedly opened fire at the police personnel.
 
-## Assam approves ₹600cr proton beam therapy unit for cancer treatment: CM Sarma
-“Assam will be the first state in the country to have a proton beam therapy unit in the public health care sector,” said CM Himanta Biswa Sarma
+## ‘They should listen to Mohan Bhagwat’: CJP's Abhijeet Dipke says BJP in power because of RSS
+Abhijeet Dipke said that Mohan Bhagwat had earlier said that the protesting Gen Z should not be called anti-nationals but PM Modi came up with ‘dimagi naxal’.
 
-## ‘Oldest trick in RSS playbook’: Owaisi hits back at Mohan Bhagwat's ‘Hindu-Muslim unity’ remarks at NYC event
-Asaduddin Owaisi also claimed that RSS thinks 'Indian Muslims and Christians are ‘internal threats’ number one and two, respectively.
+## Delhi police changes IO amid family raises concerns over a hit-and-run case
+On August 2, Khanna, a local singer, was returning home to Uttam Nagar on his bike when an unknown vehicle rammed into his bike
 
-## 4 armed men killed in Meghalaya encounter, link to businessman’s murder probed
-The identities of the deceased were yet to be formally confirmed as police began the process of establishing their identities
+## Pakistan-based terrorists, ISI using porn sites, encrypted platforms to contact ‘recruits’ in J&K
+Terror groups are reportedly using niche encrypted applications to communicate secretly, an official said.
 
-## How tea break saved five Chhattisgarh friends from Nepal flash floods: ‘We were lucky'
-On the morning of August 26, at around 9.30-10 am, they stopped for tea at a hotel in Malekhu town in Dhading district.
+## Woman’s body found under train seat in Karnataka; probe underway: Police
+Police have registered a murder case, although the woman’s identity and the circumstances of her death have not yet been established
 
-## HT Evening Brief Aug 30: PM Modi gets Uzbekistan's highest state honour, Sooryavanshi becomes captain at 15
-Here's your 5-minute sprint through today's biggest stories: politics, India, world, entertainment and sports.
+## 3 masked men burgle Alka Lamba's father's home in Delhi; Congress leader shares CCTV footage
+In one of the clips, two men are seen entering the home in daylight, while a third is seen with a motorbike at a distance.
 
-## Uranium supply deal, $5 billion annual trade by 2030: India-Uzbekistan strengthen ties during PM Modi's visit
-India and Uzbekistan set a bilateral trade target of USD 5 billion annually by 2030, up from the present of over USD 1 billion.
+## Odisha to deduct maintenance from salaries of govt employees who default: CM
+The amount will then be deducted from the salary and transferred electronically to the bank account of the employee’s wife or children
 
-## ‘Where the hell are you guys…’: CJP’s Dipke recalls moment when he was ‘mad’ at Saurav Das, Ashutosh Ranka
-Abhijeet Dipke said the crowd grew impatient and wanted to proceed with the march, while he lacked the energy to lead them.
-
-## Uzbekistan introduces 30-day visa-free regime for Indian citizens during PM Modi's visit
-The announcement comes during PM Modi's two-day State visit to Uzbekistan, aimed at further deepening bilateral ties and expanding cooperation.
+## ‘Cage-like’ school: Days after attack, CJP inspects Jaipur schools, gives 7-day ultimatum to govt
+CJP warned that it would launch a public agitation with local residents if the problems were not resolved within the stipulated period.
 
 ## Will Hong Kong see fewer creditor-led commercial property sales as assets stabilise?
 Financial distress in Hong Kong’s commercial property market has moderated but not been completely eliminated, analysts say, with highly leveraged asset owners still expected to find refinancing their loans a challenge. The city’s office and retail property segments have been mired in a multi-year s
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## LIVE: Manchester United vs Ipswich Town – Premier League
-Live text updates from our commentary stream coverage as Bruno Fernandes will hope to help United recover from defeat.
+## Trump threatens to report journalist Kristen Welker to broadcast regulator
+The Federal Communications Commission under Trump has tried to target news outlets for spreading 'fake' news.
 
-## Palestinian mother in agony as Israeli attack kills her son
-Palestinian mother in agony as Israeli attack kills her son
+## Zambia opposition leader Brian Mundubile charged with treason
+Zambian opposition leader Brian Mundubile and his running mate, Makebi Zulu, have been charged with treason.
 
-## Death toll from Russian strike on Ukrainian arms depot rises to 38
-Russia's Defence Ministry announces plans to launch 'massive strikes' against Ukraine's infrastructure before winter.
+## Death toll nears 800 after Himalayan glacier collapse
+Specialised search-and-rescue teams join recovery operations in Nepal and China.
 
-## Road collapses in Nepal landslide four days after floods
-A vital highway weakened by Nepal’s floodwaters has collapsed four days after the catastrophic glacial outburst.
+## Google Maps renames Lake Ontario after Trump’s decree on ‘Lake America’
+Tech giant says name to remain Lake Ontario for Canadian users, change reflects decision by US government agency.
 
-## How has life changed for Iranians six months into the war?
-Common Iranians are under increasing pressure, with no relief expected in the short term.
+## Rival Libya factions sign deal to hold national elections within two years
+Signing takes place at UN mission in Tripoli after initial draft inked by UN-backed committee in Tunis on August 20.
 
-## Infantino must go by 2027 in FIFA overhaul, Dutch football body says
-KNVB invites associations and confederations to a summit to discuss the overhaul of FIFA and how it runs football.
+## Israeli soldiers participate in Sydney Marathon despite protests
+Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.
 
-## Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners
-Palestinian groups condemn prison footage as humiliation and intimidation.
+## What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?
+Israel's rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.
 
-## Ferry carrying 260 people capsizes off coast of northern Cyprus
-A catamaran carrying around 260 people has capsized off the Cyprus coast.
+## Educated? Skilled? Ambitious? Traffickers are looking for you
+Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
