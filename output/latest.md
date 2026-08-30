@@ -1,67 +1,79 @@
 # AION Intelligence
 
-## Oil deal with US is denounced by both sides of Venezuelan politics
-Opposition said agreement with Trump administration was potentially illegal while government hardliners cast it as a betrayal
+## CEO of India’s largest private bank to step down
+HDFC Bank chief’s exit will come just months after chair departed, citing ‘ethical differences’
 
-## James Cleverly steps down from shadow cabinet to run for London mayor
-Former home and foreign secretary says UK capital ‘under assault’ from Andy Burnham
+## Nicotine pouch sales jump in UK as companies step up marketing
+Campaigns come ahead of ban on advertising and sponsorship for all non-medicinal products from next June
 
-## Warsh charts a forward-looking path for the Fed at Jackson Hole
-This might be remembered as a moment when the central bank switched approach
+## Burnham’s summer of quietly backing away from radical pledges
+From Thames Water to electoral reform, the prime minister seems to be diverging from his campaign rhetoric
 
-## Trump says US to take control of 65bn barrels of Venezuelan oil
-The president says the countries’ joint venture will lower petrol prices for Americans
+## One fix for UK plc’s underperformance: equity for all
+A new proposal suggests doubling the pay of board directors using stock options
 
-## Warsh puts Fed on collision course with Trump ahead of midterms
-US central bank chair’s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires
+## Summer might be ending, but we can hold on to some of its magic
+It offers not the opportunity to do nothing but to have the time to do things slowly
 
-## Dozens killed in Russian strike on ammunition depot near Kyiv
-Lengthy air raids by Moscow’s jet-powered drones have triggered 27 alerts since Thursday in one of the longest attacks of the war
+## Rising bond yields add tens of billions to G7 countries’ debt costs
+World’s biggest developed economies face higher financing costs since start of US-Iran war, weighing on public finances
 
-## Swiss wealth managers urge delay to ownership register after Liechtenstein hack
-Bankers also raised cyber security concerns over list of ultimate owners of more than 500,000 companies and other entities
+## EU to help tourism hotspots crack down on Airbnb-style holiday rentals
+Measures imposed on short-term lets by cities such as Florence often result in drawn-out legal battles
 
-## Trump deportations take a bite out of an unexpected industry: US fast food
-A sector that relies on population increases for sales growth struggles with new reality of fewer mouths to feed
+## The companies desperate to hire graduates
+Entry-level roles are under threat from AI but some employers still struggle to find skilled young workers
 
-## Alex Gerko earned a record £895mn from trading firm XTX in 2025
-Payout to one of the UK’s richest people is 31 per cent higher than the year before
+## Incoming Swiss banking chief warns against regulatory over-reach
+Comments from chief executive of EFG International signal how opposition to new rules extends across the industry
 
-## Glencore threatened with $1.4bn lawsuit from embattled trader Radiant
-Singapore-based iron ore company Radiant has been battling liquidity squeeze
+## Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains
+Anglo American and Teck promised investors $1.4bn in added profits annually from combined Chile copper mines but are still in talks with part-owner Glencore
 
-## The end of cheap food has costs far beyond the grocery store
-Research estimates that climate-related shocks could add between 0.9 and 3.2 percentage points to the annual rate of food inflation around the globe by 2035
+## ‘SmashCos’: Europe’s oil majors create new generation of independent companies
+Jointly owned independent oil and gas producers are an increasingly important part of the biggest players’ strategies
 
-## Airbus seeks US space unit sale as it shifts to European-built satellites
-Potential disposal comes after company announced deal with Leonardo and Thales
+## Claridge’s operator bets on US and UK visitors to offset Middle East
+Maybourne chief executive says it has ‘proactively pivoted’ to other areas to counter drop in Gulf bookings
 
-## Fancy lattes whip up their own mini investment boom
-Premium coffee stores are doing a roaring trade along with the companies that supply the machines and beans
+## Norway vs the world’s favourite chicken
+Billions of meals each year are made from the fast-growing Ross 308 genetic strain of birds. But a backlash is gathering pace
 
-## Investors chasing global AI stocks must take note of earnings bubble
-Risk of earnings bubble which is becoming more cashless amid a valuation bubble should make investors cautious
+## GDP data, crude oil prices key factors to drive markets this week: Analysts
+Analysts said that macroeconomic data, auto sales, and foreign investor trading activity will influence future market movement
 
-## What should investors do about Pricol’s shares after the recent rally
-Pricol has growth levers, but the sharp rally makes partial profit-booking prudent
+## HDFC Bank CEO search tests investor confidence, governance
+The new CEO will have to assure investors that the bank’s governance systems are robust, with the focus squarely on growing the business at a time when peers are eager to gain ground
 
-## Sealmatic Positioned to Support India’s Expanding Nuclear Energy Programme with Indigenous Mechanical Seal Technology
-Company’s ISO 19443 accreditation, nuclear application capabilities and indigenous engineering focus position it to address the growing demand for specialised mechanical seals in India’s nuclear sector
+## Indian govt bond yields to remain range-bound at 6.6-6.9%, limiting near-term trading windows: Motilal Oswal
+“The softer inflation outlook suggests a pause until CY2026, but global risks allow for a 25 bps hike in early CY2027,” said Motilal Oswal Private Wealth
 
-## Five investor choices that matter now
-As easy liquidity fades, investors need to reaffirm their rules on style, cyclicality, diversification and rebalancing
+## SBI, arm to dilute up to 1% stake in NSE via IPO
+The bank is participating in the NSE IPO and will dilute a 0.65 per cent stake in the exchange, SBI Chairman C S Setty told PTI.
 
-## Four small-cap stock picks for the long term
-Small-cap stocks that look good on the charts and their outlook based on technical analysis
+## Nepal floods: India provides 68.5 tonnes of relief, Bailey bridge, tunnel expertise
+A fourth flight carrying 11 tonnes of relief assistance landed in Nepal on Sunday, the Ministry of External Affairs (MEA) said in a post on X.
 
-## ESOPs and the taxman
-A ready reckoner on how employee stock options are taxed in India, from exercise to exit
+## Sintex Industries: NCLAT upholds clean slate principle, rejects shareholder's plea for compensation
+A NCLAT bench dismissed the appeal by a Kerala-based investor seeking around ₹110 crore in compensation for 1,35,000 equity shares of Sintex Industries that were extinguished under the company's insolvency resolution plan.
 
-## Insurance Query: Building a financial cushion for health
-Reviewing your sum insured, considering a Super Top-Up, and exploring useful policy enhancements can help ensure that your insurance protection remains aligned with your healthcare needs in the years ahead
+## FPIs turn buyers for second month, invest ₹30,919 cr in August
+However, foreign investors remain net sellers in Indian equities in 2026.
 
-## Tax Query: How to report sale of immovable property in ITR?
-The value to be reported in the ITR should be the stamp duty value adopted by the registering authority for the registered transaction, as reflected in the registered sale deed or the registration records
+## BKT to foray into car tyres in November; aims to double revenue to ₹23,000 crore by FY30
+The tyre maker is targeting a ₹5,000 crore on-road business by FY30, backed by a ₹6,800 crore investment plan, while continuing to scale up its off-highway tyre and carbon black operations
+
+## Shopping with AI: Consumers ask artificial intelligence for advice but less than half trust it
+Consumers now use artificial intelligence for shopping decisions, though trust remains low. Younger shoppers consult more sources but trust them less, challenging brands. Companies must optimize websites for AI searches as brand mentions are minimal. Consumers seek value beyond price, considering du
+
+## India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages
+India's role as a major gasoline supplier to Russia has surged recently, particularly after Ukrainian drone strikes impacted Russian refinery activities. In August, Russian gasoline imports hit unprecedented levels, with India emerging as a central contributor. Much of this gasoline was transported 
+
+## Bank holidays in September 2026: When and where will banks remain closed? Check state-wise list
+In September, banks throughout India will close for various festive occasions. On September 4th, multiple states will celebrate Janmashtami, resulting in branch closures. Following this, Ganesh Chaturthi on September 14th and 15th will also see numerous banks shut across different regions. Additiona
+
+## US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’
+In a landmark move, the United States and Venezuela have forged a 25-year energy partnership designed to uplift Venezuela's ailing oil sector and enhance production capabilities. Under this agreement, rights to unexplored oil reserves will be held for a century, with the U.S. claiming fifty-five per
 
 ## Union, Canara Bank to appeal NCLT's Chandra order
 
@@ -75,41 +87,35 @@ The value to be reported in the ITR should be the stamp duty value adopted by th
 ## Trump vs Carney: Cars, homes, booze and more caught in US-Canada tariff war
 The recent imposition of new tariffs on vehicles and construction materials has intensified the trade conflict between the US and Canada. This has also led to surging import taxes on other household products and alcoholic beverages. Both businesses and consumers are likely to feel the pinch with esc
 
-## HDFC Bank CEO Jagdishan opts out of reappointment, to step down after term ends in October
+## Ladakh's development must leverage its unique strengths: NITI Aayog
+Ladakh's development must leverage its unique strengths: NITI Aayog
 
+## Vice President Radhakrishnan urges deepening of Keralam rivers to prevent floods
+Vice President Radhakrishnan urges deepening of Keralam rivers to prevent floods
 
-## From making iPhones to building the next Apple: Will India’s Rs 62,500 crore mobile phones bet pay off?
-With the launch of the Rs 62,500 crore Mobile Phone Manufacturing Scheme (MPMS), India is eyeing its homegrown smartphone brands - with every aspect from design, R&D to components and manufacturing taking place in the country.
+## 1 killed, 24 injured as lightning strikes Gurupadgiri Hill in Bihar’s Gaya: Police
+One devotee was killed and 24 injured, four critically, after lightning struck two spots at Gurupadgiri Hill in Bihar’s Gaya during Raksha Bandhan.
 
-## GST Council meeting on Sept 12: Easier registration, automated cancellations on agenda
-On September 12, the GST Council will convene to streamline the business registration process, focusing significantly on companies that exceed Rs 2.5 lakh in monthly tax credits. The agenda also includes enhancing automation and revising GST registration cancellation procedures. This meeting comes i
+## ‘Do you feel you are a lord?’: Bombay HC rebukes Tukaram Mundhe-led FDA over crackdown on MCA eateries
+Following the court’s remarks, the Maharashtra FDA on Saturday said it would withdraw its order suspending the licences of the five restaurants.
 
-## US job data: Labor dept lowers employment growth by 79,000, private sector cut by 178,000
-In a recent update from the Bureau of Labour Statistics, US employment growth forecasts have been lowered for the year concluding in March 2026, with a preliminary adjustment indicating a net decrease of 79,000 jobs. Notably, the private sector experienced a more significant decline of 178,000 roles
+## Army Cheetal carries out evacuation of injured mountaineer at 18,600 ft in Ladakh
+Army pilots land a Cheetal helicopter at 18,600 ft on a treacherous Ladakh slope to evacuate an injured JCO near the Nun-Kun peaks.
 
-## Just Like That: 50 years on, why Mukesh’s voice still still resonates today
-Fifty years after his death, legendary singer Mukesh’s soulful voice, timeless songs and emotional depth continue to resonate with generations of listeners.
+## High-altitude, higher courage: How Indian Army aviation pilots executed rescue at 18,600 feet near Nun Kun | WATCH
+In a rescue mission at 18,600 ft near Nun Kun, Indian Army Aviation pilots evacuated a casualty from a challenging slope with no landing space, as per the post.
 
-## Adityanath directs swift disposal of revenue cases, orders high festival alert
-Adityanath directs swift disposal of revenue cases, orders high festival alert
+## UP's Chitrakoot on high alert as Mandakini River overflows; drones deployed
+According to the Chitrakoot Police, drone cameras are being utilised to monitor the flood-affected areas and assess the situation on the ground.
 
-## Judiciary proactively responded to emerging fraudulent schemes like digital arrest: CJI
-Judiciary proactively responded to emerging fraudulent schemes like digital arrest: CJI
+## 'Whatever Sonia Gandhi writes might affect BJP's health: Congress' Bhupesh Baghel on row over memoir publication
+Congress leader Bhupesh Baghel's remarks came amid a controversy over the publication of Sonia Gandhi's memoir ‘Belonging’.
 
-## ‘Hindu who wants no Muslims in Bharat is not a Hindu’: RSS chief Mohan Bhagwat
-The RSS leader arrived in the US on Tuesday as part of the organisation’s centenary-year global outreach programme.
+## Will Hong Kong see fewer creditor-led commercial property sales as assets stabilise?
+Financial distress in Hong Kong’s commercial property market has moderated but not been completely eliminated, analysts say, with highly leveraged asset owners still expected to find refinancing their loans a challenge. The city’s office and retail property segments have been mired in a multi-year s
 
-## ‘Trying to reach a safe location’: Missing UK couple's last message from flood-hit Nepal
-The UK-based couple with Kolkata roots were in Nepal for Kailash yatra when the floods struck, leaving them out of contact with their family.
-
-## J&K leaders react to Samay Raina's Kashmiri-Bihari row: 'Valley incomplete without Kashmiri pandits'
-A Shiv Sena leader said ‘humour should be taken as humor’, while a BJP MLA slammed Raina, saying Kashmiri Pandits cannot be treated as subjects of ridicule.
-
-## Uttar Pradesh CM Adityanath slams opposition for dividing people in name of caste, region, language
-Adityanath said over the past decade or so, his government eliminated the mafia.
-
-## ‘They will kill me’: Woman, newborn die after delivery in MP's Rewa; video shows she was screaming for help
-Nursing staff were seen trying to restrain and pacify her, while one staff member was heard asking, “Have you gone mad?” Kalpana died shortly afterward.
+## JD.com’s US$1.3b expansion could test Hong Kong’s footfall-driven retail property model
+JD.com’s rapid expansion in Hong Kong could challenge the property model that has long made the city’s busiest streets and shopping centres its most valuable, analysts say. The Chinese e-commerce giant has invested more than HK$10 billion (US$1.3 billion) in Hong Kong property over the past two year
 
 ## Reality check for China’s carmakers as authorities tell them to focus on quality, not tech
 China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase p
@@ -128,12 +134,6 @@ Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in 
 
 ## BOCHK posts higher profit as lower credit costs offset margin pressure
 Bank of China (Hong Kong), one of the city’s three note-issuing banks, reported a 7.1 per cent year-on-year increase in first-half net profit, as lower impairment charges and a wider net interest margin helped offset continued pressure on lending margins from falling Hong Kong interbank rates. Profi
-
-## Macau tycoon Lawrence Ho’s family office expands into space sector in de-SPAC deal
-Black Spade Capital, the family office of Macau casino billionaire Lawrence Ho Yau-lung, has announced its third “de-SPAC” deal through a merger with a satellite communications firm, a move granting it access to the space technology sector. Under the agreement, Singapore-based Astrum Space will comb
-
-## MiniMax expands Alibaba cloud pact as compute needs surge for training and inference
-Chinese artificial intelligence firm MiniMax has raised the three-year purchase ceiling on its cloud computing deals with Alibaba Group Holding by 220 per cent to US$1.2 billion, underscoring surging demand for computing power among the country’s top AI developers. The Shanghai-based company planned
 
 ## Iceland’s EU Ambitions
 U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Turkiye, Somalia forces free cargo vessel hijacked by pirates
-Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.
+## Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised
+Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.
 
-## Online anti-Muslim backlash collides with different reality in South Africa
-Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.
+## Mapping Iran war’s strikes on Gulf energy – and what comes next for oil
+US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.
 
-## Iran war live: Tehran to stand firm to US sanctions; settlers besiege Qusra
-Iran says it will rely equally on diplomacy and defence to protect its interests.
+## US police officer pulls hair, throws punches during arrest in Arkansas
+Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.
 
-## Israeli settlers attack international news team in occupied West Bank
-A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler
+## Protests as India’s Hindu nationalists take centre stage in New York
+Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.
 
-## Spectacular fireworks over Damascus as ‘Syria Shines Again’
-Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.
+## Air raids, conscripts and China: How Myanmar’s military is regaining ground
+Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.
 
-## Voting closes in Iceland’s knife-edge EU referendum
-Iceland's leadership has promised to honour whatever the country's people decide.
+## Sudanese repair roads by hand in Darfur to improve emergency access
+Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.
 
-## Ukrainian nuclear power plant without external power for over a week
-This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.
+## Venezuela says it retains ‘sovereignty’ following US oil deal
+Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.
 
-## Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name
-The 'Lake Ontario' sign comes in response to the US president's efforts to rename the body of water 'Lake America'.
+## US deports relative of Afghans who aided military to Africa
+Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
