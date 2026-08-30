@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Oil deal with US is denounced by both sides of Venezuelan politics
+Opposition said agreement with Trump administration was potentially illegal while government hardliners cast it as a betrayal
+
 ## James Cleverly steps down from shadow cabinet to run for London mayor
 Former home and foreign secretary says UK capital ‘under assault’ from Andy Burnham
 
@@ -20,9 +23,6 @@ Bankers also raised cyber security concerns over list of ultimate owners of more
 
 ## Trump deportations take a bite out of an unexpected industry: US fast food
 A sector that relies on population increases for sales growth struggles with new reality of fewer mouths to feed
-
-## US campaign to isolate Iran closes in on Dubai
-Gulf city has for decades served as an offshore hub for Iranian financial services, trade and access to global markets that the regime needs
 
 ## Alex Gerko earned a record £895mn from trading firm XTX in 2025
 Payout to one of the UK’s richest people is 31 per cent higher than the year before
@@ -63,6 +63,12 @@ Reviewing your sum insured, considering a Super Top-Up, and exploring useful pol
 ## Tax Query: How to report sale of immovable property in ITR?
 The value to be reported in the ITR should be the stamp duty value adopted by the registering authority for the registered transaction, as reflected in the registered sale deed or the registration records
 
+## Union, Canara Bank to appeal NCLT's Chandra order
+
+
+## Passed over in 2020, Bharucha likely to succeed Jagadishan
+
+
 ## Months after HDFC Bank chair quit, CEO says won’t stay beyond Oct
 
 
@@ -81,11 +87,8 @@ On September 12, the GST Council will convene to streamline the business registr
 ## US job data: Labor dept lowers employment growth by 79,000, private sector cut by 178,000
 In a recent update from the Bureau of Labour Statistics, US employment growth forecasts have been lowered for the year concluding in March 2026, with a preliminary adjustment indicating a net decrease of 79,000 jobs. Notably, the private sector experienced a more significant decline of 178,000 roles
 
-## India's hotel sector likely to gain momentum in H2FY27 on strong leisure demand
-India's hotel sector anticipates stronger growth in the second half of fiscal year twenty twenty seven. Robust domestic leisure demand and recovering corporate travel will support this positive outlook. International travel is also expected to improve, aiding overall industry performance. Limited ne
-
-## Nepal may need nearly a tenth of its economy to rebuild after devastating floods
-Nepal's finance minister estimates flood reconstruction costs between four and five billion dollars. This devastating flood killed over 600 people and left thousands missing. The disaster destroyed towns, bridges, roads, and damaged hydropower stations significantly. Search and rescue operations con
+## Just Like That: 50 years on, why Mukesh’s voice still still resonates today
+Fifty years after his death, legendary singer Mukesh’s soulful voice, timeless songs and emotional depth continue to resonate with generations of listeners.
 
 ## Adityanath directs swift disposal of revenue cases, orders high festival alert
 Adityanath directs swift disposal of revenue cases, orders high festival alert
@@ -107,9 +110,6 @@ Adityanath said over the past decade or so, his government eliminated the mafia.
 
 ## ‘They will kill me’: Woman, newborn die after delivery in MP's Rewa; video shows she was screaming for help
 Nursing staff were seen trying to restrain and pacify her, while one staff member was heard asking, “Have you gone mad?” Kalpana died shortly afterward.
-
-## Infosys Public Services CEO ‘unreachable’ as hundreds go missing after Nepal floods
-Infosys in a statement on Friday said the chief executive officer of its subsidiary had been in Nepal at the time of the disaster and was unreachable.
 
 ## Reality check for China’s carmakers as authorities tell them to focus on quality, not tech
 China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase p
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Anger mounts in Nepal over the government’s response to flash flood
-Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.
+## Turkiye, Somalia forces free cargo vessel hijacked by pirates
+Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.
 
-## Iceland votes in a tight race on whether to resume talks to join the EU
-Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.
+## Online anti-Muslim backlash collides with different reality in South Africa
+Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.
 
-## Norway’s new king pays tribute to his late father as the country mourns
-King Haakon VIII says King Harald represented Norway with 'pride and joy', promises to listen to Norwegians as monarch.
+## Iran war live: Tehran to stand firm to US sanctions; settlers besiege Qusra
+Iran says it will rely equally on diplomacy and defence to protect its interests.
 
-## Gaza runs out of cancer medicines, as Israeli strikes continue
-Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.
+## Israeli settlers attack international news team in occupied West Bank
+A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler
 
-## Algeria wildfire death toll expected to rise as survivors say nothing left
-Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.
+## Spectacular fireworks over Damascus as ‘Syria Shines Again’
+Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.
 
-## Can international diplomacy find a way forward in Libya?
-Efforts intensify to break political impasse in a divided country.
+## Voting closes in Iceland’s knife-edge EU referendum
+Iceland's leadership has promised to honour whatever the country's people decide.
 
-## The rise of K-Beauty: Can South Korea overtake France?
-South Korea’s beauty industry has surpassed the US to become the world’s second-largest cosmetics exporter.
+## Ukrainian nuclear power plant without external power for over a week
+This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.
 
-## US says far-right provocateur Milo Yiannopoulos has been deported to UK
-The social media personality had been detained by immigration agents at an airport in New Orleans earlier in the week.
+## Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name
+The 'Lake Ontario' sign comes in response to the US president's efforts to rename the body of water 'Lake America'.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
