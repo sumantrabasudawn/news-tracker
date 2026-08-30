@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Niger regains control of military base after coup attempt
-Disgruntled soldiers who launched attack detained in capital
+## US strikes Iran for first time in weeks in attack on rocket launchers
+Oil prices rise after American military hits an island in the Strait of Hormuz to prevent mines being laid in the strategic waterway
+
+## Nepal rescue effort intensifies with more than 3,000 missing
+Authorities warn rising water levels could complicate recoveries as the number of confirmed deaths reaches more than 800
 
 ## Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund
 Mykhailo Fedorov seeks western capital to build and manage weapons development companies he says will help Kyiv resist Moscow
 
+## Brexiters’ effort to resettle Chagos Islands hit by lack of proper boat
+Nigel Farage-backed expedition is part of attempts to block UK’s contentious deal giving sovereignty over the archipelago to Mauritius
+
+## Big Tech profits get $160bn boost from gains on stakes in other AI companies
+Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector’s earnings metrics
+
+## Niger regains control of military base after coup attempt
+Disgruntled soldiers who launched attack detained in capital
+
 ## Return of the politicians
 US jobs data shines light on world’s biggest economy, Shein finally lists in Hong Kong, Massachusetts primaries expose fractures within Democratic Party
-
-## Nepal rescue effort intensifies with more than 3,000 missing
-Authorities warn rising water levels could complicate recoveries as the number of confirmed deaths reaches almost 800
 
 ## Americans feel they have lost their agency
 People increasingly blame large corporations for the sense that they have ever less control over their own lives
 
 ## Claridge’s operator bets on US and UK visitors to offset Middle East
 Maybourne chief executive says it has ‘proactively pivoted’ to other areas to counter drop in Gulf bookings
-
-## Iceland rejects talks on EU entry
-‘No’ vote prevails in knife-edge referendum prompted by Donald Trump’s threats to annex Greenland
-
-## Burnham tightens prisoner release scheme and insists he is ‘tough on crime’
-Prime minister had faced criticism over moves to avert overcrowding in prisons in England and Wales
 
 ## Controversial Venezuelan executive courts investors after Trump oil deal
 Alejandro Betancourt is the US’s primary partner in a company that will control more than 65bn barrels of oil reserves
@@ -35,9 +38,6 @@ American tourism businesses try to overcome cross-border travel boycott over Tru
 
 ## Pharma stocks soar as investors seek AI alternatives
 Pricing deals with the White House and positive clinical data boost sector
-
-## CEO of India’s largest private bank to step down
-HDFC Bank chief’s exit will come just months after chair departed, citing ‘ethical differences’
 
 ## Bengaluru’s commercial projects hit approval roadblocks, squeezing new supply
 According to Santhosh Kumar, Vice Chairman, ANAROCK Group, bottlenecks vary depending on the project and location
@@ -111,6 +111,9 @@ Police have registered a murder case, although the woman’s identity and the ci
 ## 3 masked men burgle Alka Lamba's father's home in Delhi; Congress leader shares CCTV footage
 In one of the clips, two men are seen entering the home in daylight, while a third is seen with a motorbike at a distance.
 
+## Citi’s China-US corridor thrives as mainland firms hedge risks amid trade turbulence
+Escalating US-China trade friction has failed to dampen corporate activity between the two economies, with Citi reporting steady revenue growth on its North America-China corridor as Chinese companies aggressively deploy risk-hedging strategies to protect their global market share. Instead of retrea
+
 ## Will Hong Kong see fewer creditor-led commercial property sales as assets stabilise?
 Financial distress in Hong Kong’s commercial property market has moderated but not been completely eliminated, analysts say, with highly leveraged asset owners still expected to find refinancing their loans a challenge. The city’s office and retail property segments have been mired in a multi-year s
 
@@ -131,9 +134,6 @@ Hong Kong Exchanges and Clearing (HKEX) will add 10 companies – including auto
 
 ## China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off
 Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in first-half revenue on Friday, as the firm released its first financial results since becoming China’s most valuable publicly traded company in a blockbuster Shanghai listing last month. The Hefei-based firm – China’s lea
-
-## BOCHK posts higher profit as lower credit costs offset margin pressure
-Bank of China (Hong Kong), one of the city’s three note-issuing banks, reported a 7.1 per cent year-on-year increase in first-half net profit, as lower impairment charges and a wider net interest margin helped offset continued pressure on lending margins from falling Hong Kong interbank rates. Profi
 
 ## Iceland’s EU Ambitions
 U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says
+Teenager struggled in Barca's La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.
+
+## Israeli strike kills 3-year-old child in Gaza
+A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.
+
+## Jose Andres renews call for investigation into WCK Gaza staff killings
+World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.
+
+## ‘Opening a new chapter’: Syria reopens embassy in Libya after talks
+Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.
+
+## Video: Raging floodwaters sweep away lorry in the Philippines
+Video shows a lorry being swept away by raging floodwaters in Rodriguez as torrential rains batter the Philippines.
+
+## US strikes Iran’s Larak Island in first attack in weeks
+IRGC says attack in southern Iran killed and injured several soldiers.
+
+## Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs
+Hundreds of Bosnian Serbs gathered to pay tribute to former Bosnian Serb commander Ratko Mladić.
+
 ## Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start
 Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho's Real Madrid continues to move at pace in La Liga.
-
-## Israeli settler rabbi says Palestinians should leave the occupied West Bank
-Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.
-
-## Former Israeli soldiers pose as Pro-Palestinian supporters in the US
-Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.
-
-## ‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign
-How a far-right party with neo-Nazi roots bought every ad surface in Sweden's biggest train station.
-
-## Devastation from the Nepal-China Floods in 30 photos
-More than 3,000 people missing after glacier collapse unleashes destruction in Himalayas.
-
-## Fernandes hat-trick fires Man Utd in seven-goal thriller with Ipswich
-Bruno Fernandes's hat-trick inspires Manchester United's comeback 5-2 win against Ipswich Town in the Premier League.
-
-## First images of Maduro in US custody released since his abduction
-Former Venezuelan President Nicolas Maduro has appeared in the first photos from US custody since his January abduction.
-
-## Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul
-Foreign, defence ministers and military chiefs from three countries to meet for first time since signing Mecca pact.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
