@@ -1,142 +1,154 @@
 # AION Intelligence
 
-## US and Iran exchange fire for the first time in more than a month
-Oil prices rise after American military hits island in Strait of Hormuz and Tehran retaliates with attack on Jordan
+## Whose fiscal problems would you prefer?
+Lenders must choose between countries behaving like a bingeing entrepreneur, an elderly but reputable business owner and an indebted aristocrat
 
-## Iceland tarnishes EU’s dreams of being a defence and security hegemon
-Also in this newsletter: Packaging companies plead for relief
+## Kemi Badenoch sacks Mel Stride as shadow chancellor
+Conservative leader promotes former Sky executive Andrew Griffith as she seeks to close polling gap with Reform and Labour
 
-## FirstFT: Ukraine’s ex-defence minister pitches tech fund
-Also in today’s newsletter: AI lifts Big Tech profits, and US and Iran trade fire
+## Trump says US will hit Iran ‘hard’ as conflict reignites
+Oil prices rise after exchange of fire between warring countries ends weeks of relative quiet
 
-## Romania to lose €770mn in EU funds due to government crisis
-Bucharest will miss a Monday deadline for passing laws required by Brussels to approve recovery funding
+## India’s GDP beats growth forecast at 7.8%
+World’s fastest-growing large economy outperforms central bank expectations as Middle East energy shock starts to bite
 
-## Darializa Avila Chevalier: The face of America’s socialist insurgency
-The Democratic congressional candidate’s improbable rise has spooked the party establishment
+## Sixty years of Notting Hill Carnival
+The event — which began as a form of resistance against racism — draws millions to the streets of west London
 
-## Will financial innovation dethrone the dollar?
-The evolution of a truly multi-polar currency market depends on governments’ willingness to embrace technology and fortify markets
+## Spain’s Sánchez accuses Russia and Israel of inflaming migrant crisis
+PM blames foreign social media actors for spreading misinformation as he comes under pressure over Ceuta influx
 
-## Labour shelves plan to restrict foreigners buying new flats
-Party downgrades its manifesto pledge to end ‘farce of entire developments being sold off to international investors’
+## ChatGPT faces tougher rules under EU online safety regime
+Reddit and Roblox also face additional obligations under bloc’s Digital Services Act
 
-## Tim Cook’s Apple legacy by the numbers
-CEO hands over to John Ternus on Tuesday after 15 years
+## KKR to net giant windfall from $17bn sale of USI to Aon
+Gain is one of the largest earned by a public private equity firm on a single deal
 
-## Andrew Bailey warns G20 of danger AI poses to financial system
-Head of world’s financial stability watchdog urges countries to take steps to control the release of new frontier models
+## How climate volatility shakes up companies’ earnings too
+Supply chains are vulnerable to heatwaves and cyclones
 
-## Jane Street’s AI bets go sour
-Plus, Woodford’s angry investors, fund management deals boom and Lucian Freud in Denmark
+## Happy birthday to the First Index Investment Trust
+Witness the FIITnes
 
-## Scramble for gas assets pushes dealmaking to decade high
-Spending on US projects has soared as national oil companies and traders add to the rush for gas assets
+## Activist pushes EPAM Systems for buybacks as AI hits its shares
+Engine Capital’s campaign comes as investors bet artificial intelligence will hurt consultancies and software groups
 
-## UK investment trusts struggle to keep up the liquidity illusion
-Boaz Weinstein’s activist campaigns expose the strains in a centuries-old model
+## Software companies pay steep price to buy time against AI threat
+Private equity groups face a $40bn maturity wall in 2028 to refinance Covid-era software buyouts
 
-## UK fintech Allica looks to Sweden to kick-start European expansion
-Neobank hopes to challenge Scandinavian incumbents that have curbed riskier lending
+## UK offers homegrown AI start-ups £100mn to improve public services
+Scheme comes in wake of growing opposition to government contracts with US software group Palantir
 
-## Can robots save US manufacturing?
-Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
+## Consultants head for a showdown — with their own clients
+Pressure is on Accenture, Capgemini and the Big Four as companies demand savings
 
-## Semicon 2.0: Govt notifies ₹1.27 lakh crore scheme to boost chip ecosystem
-The scheme has been divided into six segments covering designing of chips by Indian firms, setting up units for capital equipment required for chip production, semiconductor fabs, chip assembly, packaging and testing, etc.
-
-## As lower banking fee kicks in, Gujarat prepares for cost-based renewable power regime
-Industries can use the grid as a cheaper ‘virtual battery’ from September 1, while DISCOMs must justify future banking charges with verifiable cost data from April 2027
-
-## Sensex, Nifty fall as US-Iran tensions, higher yields weigh on sentiment, HDFC Bank gains
-Sensex, Nifty extend losses in volatile trade: Nifty slips below 24,000, Sensex drags over 510 pts
-
-## Sensex today | Stock Market Live Updates: Sensex down 305 pts; Nifty at 24,060 as oil rises, traders brace for MSCI rejig volatility
-Sensex, Nifty, Share Prices Live Updates: Indian shares fell at open on Monday, with investors bracing for potential volatility from ​MSCI's index rejig under the new closing auction system, while ‌an escalation in the Iran war and HDFC ​Bank's CEO resignation could also weigh on ⁠sentiment
-
-## SWI becomes an NVIDIA Cloud Partner (NCP)
-SWI becomes an NVIDIA Cloud Partner (NCP)
-
-## LIC@70: Older, savvier, and more ambitious
-Public sector life insurer believes age is on its side as it aims to reach newer places and age groups
-
-## Supreme Court refuses to hear PIL for mandatory disclosure of ethanol content in petrol at fuel pumps
-Apex court directs petitioner to approach the high court for relief
-
-## Two-wheelers grow 18-20%, trucks 14-16% in August amid festive demand as tractors lose momentum
-M&M, Ashok Leyland, TVS Motor and Bajaj Auto are among the manufacturers seeing robust August volume growth, according to YES Securities report
-
-## HDFC Bank shares rise nearly 3% after after CEO Jagdishan opts out of reappointment
+## Vedanta Aluminium Reports Record Q1 FY27 Performance; Profit Surges 205%, EBITDA More Than Doubles
 
 
-## Gold price prediction today: Where are gold prices headed? Check outlook for August 31, 2026 week
-Gold price prediction today: The medium-term case for investment in gold remains intact, despite recent fall in prices, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+## Darwinbox Appoints Pannie Sia to Lead Enterprise Growth in Southeast Asia
+Regional Vice President for Singapore, Malaysia, and Indonesia will scale the company’s enterprise presence as organizations move AI in HR from experimentation to core infrastructure.
 
-## Rupee falls 13 paise to 95.56 as crude rises, Fed hike bets strengthen dollar
-On Monday, the Indian rupee began its trading session lower versus the US dollar. The decline was influenced by rising crude oil prices and increasing geopolitical tensions. Furthermore, the prospect of a Federal Reserve rate hike has strengthened the dollar. In response, the Reserve Bank of India i
-
-## Top stocks to buy: Stock recommendations for August 31, 2026 week - check list
-Stock market recommendations: Titan, and L&T Finance - Motilal Oswal Wealth Management Research Desk has identified these two as the top stocks to buy for the week starting August 31, 2026:
-
-## Oil prices jump over 2% after US-Iran direct conflict re-ignites after a month of pause
-Following a U.S. military strike on Iranian launchers in the strategic Strait of Hormuz, oil prices have surged. In retaliation, Iran launched attacks on two U.S. air bases in Jordan. Jordan's military successfully intercepted eight missiles aimed at its territory early Monday, escalating the ongoin
-
-## ‘Losing $60 billion a year’: Trump slams Canada as ‘worst' trade 'abuser', urges firms to move to US
-Donald Trump is escalating trade conflicts with Canada by levying substantial tariffs, which he claims are necessary due to the billions the U.S. allegedly loses from Canadian trade policies. He is urging Canadian firms to move their operations to the U.S. immediately. This action follows stalled tr
-
-## ‘We’ll see more Japanese portfolio flows’
-Japanese investors are showing strong confidence in India's economic growth potential. Political and policy certainty in India is encouraging more Japanese capital to flow. India's growing economy offers tremendous returns, attracting significant overseas investment. Japanese household money is expe
-
-## Despite global headwinds, Q1 growth seen resilient on demand, government capex
+## Motorola Launches moto g max, the Most Complete Smartphone Featuring a Luxury Satin Finish With Pantone™ Curated Colours, Segment’s Leading 50MP Sony LYTIA™ 600 Camera System, Snapdragon® 6s Gen 4 Performance, and Massive 7000mAh Battery, Starting at Just Rs. 26,999*
 
 
-## Embrace Lord Krishna's message of truth, duty, public welfare: Adityanath
-Embrace Lord Krishna's message of truth, duty, public welfare: Adityanath
+## What to Decide Before You Invest in a ULIP
 
-## ‘Back Rahul Gandhi or…’: Congress minister’s big warning after TVK’s PM push for Vijay
-Following the assembly elections, the Congress joined hands with the TVK to form the ruling government in Tamil Nadu.
 
-## Like 'gold kept safely in box', women must remain in homes: Islamic cleric in Kerala
-The Islamic scholar further claimed that the purdah system was meant to keep women safe.
+## What to Expect When Opening a Digital Savings Account Online
 
-## No mandatory ethanol labels on petrol pumps for now, SC junks plea
-The petition sought directions to the central government to ensure mandatory and uniform labelling on every dispensing nozzle at petrol pumps, clearly disclosing the exact percentage of ethanol
 
-## SC agrees to hear plea on NGT members' tenure before Sep 8
-SC agrees to hear plea on NGT members' tenure before Sep 8
+## ART MUMBAI 2026: Where Collections Take Shape
+2–15 November 2026 | Mahalaxmi Racecourse, Mumbai
 
-## Tata Advanced Systems Limited signs MoU to co-produce Javelin missile in India
-TASL and the JJV will explore establishing a final assembly and integration facility for the Javelin AUR and component production capabilities
+## Ebco Launches ESmart Digital Lock Range to Bring Intuitive Security to Every Door
+Shielded Today. Ready for Tomorrow.” Imperia, Regalia, Crest and Sync-Pro series now available nationwide
 
-## Conman Sukesh sentenced to 8 yrs in jail by Delhi court for impersonating SC judge
-The court said that the sentences cannot be permitted to merge into one another or to operate merely concurrently
+## Mia by Tanishq And Zepto Bring an Unexpected Rakhi Surprise to Doorsteps Across Mumbai And Delhi NCR
+The collaboration brings Mia’s “Make Your Sister Cry (With Tears of Joy)” campaign into an everyday moment, reminding brothers to make their Rakhi gift count
 
-## AIMIM worker stabbed to death by gang near his Hyderabad home
-Mahboob Ali (in his mid-50s) was attacked with knives by a group of five people.
+## New NPS PoP Charges: PFRDA sets Rs 200 onboarding fee, 0.20% annual PoP charge
+Under the new fee structure, subscribers registering for NPS through a PoP will be charged a one-time onboarding fee of Rs 200 for each Permanent Retirement Account Number (PRAN). However, the entire Rs 200 will not be taken from the subscriber’s account at once.
+
+## India's rice bowl gets global audience as 3,317 buyers sign up for BIRC 2026
+India's rice exporters look forward to a significant boost in international trade opportunities this October. With participation from over 3,300 buyers across 138 countries, the Bharat International Rice Conference is poised to be a game-changer. Key regions like Africa and the Gulf show heightened 
+
+## AI could be the next growth engine for Indian IT from FY27: Anand Rathi
+Indian IT firms expect a surge in growth as global investments pivot towards enterprise AI deployment. Starting in fiscal year twenty twenty-seven, this monumental shift from infrastructure development will fuel demand for services in data preparation and system integration. Notably, companies will 
+
+## What’s forced Russia to import 1 million barrels in 2 months from India
+Russia’s seaborne gasoline imports climbed to a record level of around 125,000 barrels per day (kbd) in August, which would amount to about 470,000 tonnes for the month. Reports suggest that Indian refiners supplied as much as 1 million barrels of gasoline to Russia over the past two months.
+
+## No internet needed: PhonePe brings UPI payments to over 200m feature phone users
+PhonePe has launched UPI 123Pay, enabling feature phone users to transact digitally. This service extends UPI payment capabilities to over two hundred million Indian feature phone users. The platform allows peer-to-peer and peer-to-merchant payments, and balance checks. It also offers an AI-powered 
+
+## Big four-tracking push! Railways to expand on 7 high-density routes - why it matters
+India’s seven high-density railway routes, covering about 11,000 km, are being expanded to four tracks to handle more passenger and freight traffic across the country, Vaishnaw said recently.
+
+## Stocks to buy: What's the outlook for Nifty for August 31-September 4 week? Check list of top stock recommendations
+Stock market recommendations: Glenmark Pharmaceuticals, and Ramkrishna Forgings are the top stocks to buy recommended by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities on August 31, 2026.
+
+## HDFC Bank shares rise nearly 3% after CEO Jagdishan opts out of reappointment
+
+
+## 11 dead after massive blast in firecracker factory in UP's Kaushambi, rescue ops on
+The explosion occurred near the Manori power house and caused extensive damage to the factory and nearby structures.
+
+## TCS iON 'deeply regrets' Jaipur NEET-PG power failure, says working to fix it 'urgently'
+TCS iON said the examination centre in Jaipur had experience power failures during the NEET-PG test as well as the AIIMS CRE exam.
+
+## HT Evening News Brief August 31: PM Modi meets Putin, Pezeshkian; Vaibhav Sooryavanshi makes another record
+Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
+
+## Political graffiti is back on Jadavpur University’s whitewashed walls
+The Students Federation of India (SFI) Jadavpur unit announced its “Reclaim Your Wall” programme in a social media post on Sunday evening
+
+## PM Modi's peace message from 'land of Gandhi, Buddha’ to Putin over Russia-Ukraine war during SCO meet
+PM Modi said during his meeting with Putin that “the land of Gandhi and the land of Buddha share a single message: the path of peace”.
+
+## Ban on gutkha, pan masala in Gujarat extended for another year; effective from September 13
+The ban will apply to gutkha and pan masala containing tobacco or nicotine, irrespective of the name by which they are known.
+
+## Meghalaya: Interstate contract killing, ransom network surfaces after 4 killed
+At around 4am on Sunday, a Bolero bearing registration number AS-01-FD-2889 approached the checkpoint and was signalled to stop
+
+## MCD demolishes structures around Jama Masjid as part of encroachment removal drive
+MCD officials said that the encroachment removal drive was being undertaken in compliance with the directions of the Delhi high court
+
+## Former top European official adopts bullish tone on China-EU trade talks as deadline nears
+A former top European Union official has struck a bullish tone on the outlook for China-EU trade talks, saying he expects progress in the coming months. Charles Michel, president of the European Council from 2019 to 2024, told reporters in a media briefing in Shanghai on Monday that both sides were 
+
+## China’s Z.ai revenue jumps 400% as total losses narrow on explosive cloud gains
+Chinese artificial intelligence company Z.ai on Monday reported a 400 per cent increase in first-half revenue, driven by explosive growth in its open platform and application programming interface business, which helped narrow total losses despite higher research and development spending. Revenue fo
+
+## PetroChina’s first-half profit jumps 22% as higher oil prices offset Iran war supply hit
+PetroChina, China’s largest oil and gas producer, has announced that it is gradually restoring operations at its Middle Eastern projects after the US-Israeli war in Iran severely disrupted global energy flows this year. On Monday, the company reported a 22 per cent jump in first-half net profit to 1
+
+## Hong Kong emerges as Asia’s top hub for start-up potential, ranks fifth worldwide: study
+Hong Kong leads Asia in high-growth start-up potential and ranks fifth globally, showing the city’s growing strength in nurturing scalable ventures and unicorns, according to joint research published by technology market intelligence firm CB Insights and the Hong Kong Science and Technology Parks Co
+
+## Hot property: Big banks, fashion stores seek ‘cheaper’, eye-catching Hong Kong retail
+From big banks to fashion brands, tenants are taking advantage of potential lower rents for retail space in Hong Kong’s prime areas as they utilise eye-catching locations to boost visibility towards customers, according to agents. HSBC is unveiling its first flagship branch at the Capitol Centre, wh
 
 ## China’s 6 biggest state banks post rare shared growth as margins show tentative rebound
 China’s six largest state-owned banks recorded their first simultaneous rise in first-half revenue and net profit since 2022, according to interim results released last week, as margins that had been under pressure for two years showed tentative signs of stabilising. Industrial and Commercial Bank o
 
 ## AI‑fuelled boom lifts global billionaire count, Hong Kong retains top spot in Asia
-Hong Kong maintained its lead as the Asian city with the most billionaires last year, though mainland Chinese cities were quickly catching up thanks to wealth accumulation from the artificial intelligence boom, according to New York-based data company Altrata. Globally, Hong Kong ranked second in nu
+Hong Kong maintained its lead as the Asian city with the most billionaires last year, though mainland Chinese cities were quickly catching up thanks to wealth accumulation from the artificial intelligence boom, according to New York-based Altrata. Globally, Hong Kong ranked second in number of billi
 
-## China bond market diverges from US as Warsh strikes hawkish tone at Jackson Hole
-The divergence of the bond markets in China and the US risks widening further, as economic data remained underwhelming at the Asian nation, while Federal Reserve chairman Kevin Warsh’s hawkish tone and concerns about fiscal sustainability add to the headwinds for Treasuries. The yield on China’s 10-
+## China, US bond markets diverge as Warsh strikes hawkish tone at Jackson Hole
+The divergence of the bond markets in China and the US risks widening further, as economic data releases from the world’s second-largest economy remained underwhelming and Federal Reserve chairman Kevin Warsh’s hawkish tone and concerns about fiscal sustainability add to the headwinds for Treasuries
 
-## Golden hour: why Hong Kong may finally succeed in becoming precious metal’s trading hub
-For decades, Hong Kong has been a hub for gold jewellery. Brands such as Chow Tai Fook and Chow Sang Sang have drawn buyers from the world over, aided by the city’s duty-free status and its proximity to one of the world’s largest gold-consuming markets. Two years ago, when officials set the goal of 
+## Jordan Sees Bigger Threat From Israel Than Iran
+For Amman, Israeli annexation of the West Bank looms as an existential risk.
 
-## Citi’s China-US corridor thrives as mainland firms hedge risks amid trade turbulence
-Escalating US-China trade friction has failed to dampen corporate activity between the two economies, with Citi reporting steady revenue growth on its North America-China corridor as Chinese companies aggressively deploy risk-hedging strategies to protect their global market share. Instead of retrea
+## It’s Time to Rein in Trump’s ‘Wars on Terror’
+Congress must act to address new and old executive abuses.
 
-## Will Hong Kong see fewer creditor-led commercial property sales as assets stabilise?
-Financial distress in Hong Kong’s commercial property market has moderated but not been completely eliminated, analysts say, with highly leveraged asset owners still expected to find refinancing their loans a challenge. The city’s office and retail property segments have been mired in a multi-year s
+## China Is Trying to Make AI Work for Health Care
+A state-backed push is raising the question: Who pays?
 
-## JD.com’s US$1.3b expansion could test Hong Kong’s footfall-driven retail property model
-JD.com’s rapid expansion in Hong Kong could challenge the property model that has long made the city’s busiest streets and shopping centres its most valuable, analysts say. The Chinese e-commerce giant has invested more than HK$10 billion (US$1.3 billion) in Hong Kong property over the past two year
-
-## Reality check for China’s carmakers as authorities tell them to focus on quality, not tech
-China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase p
+## Trump Has Peaked
+The U.S. president will remain disruptive on the global stage, but he is losing his coercive powers.
 
 ## Can Scandals Influence Midterm Elections?
 They did in 2006—but only when framed by Democrats in one specific way.
@@ -150,17 +162,14 @@ The fluctuations could have huge impacts on the U.S. and global economy.
 ## Yes, We’re in an AI Bubble. Just Look to 1980s Japan.
 Nvidia’s earnings may be formidable, but history suggests this may not end well.
 
-## A Book as Big as the War
-‘1942’ offers an epic, brilliant vision of global conflict.
+## For Indonesia’s Digital Banks, It’s All About Who You Know
+The sector has experienced rapid growth in the past few years, and three large banks are firmly in the lead.
 
-## Notes From Russia’s Literary Underground
-Publishers in exile are supplying contraband books to help Russians evade censorship.
+## A Historic Villa in Yangon Gets an Upgrade
+Myanmar's government is both preserving and erasing the legacy of General Aung San, who helped lead the country to independence in 1948.
 
-## Jared Kushner Is the Face of American Oligarchy
-Trump’s son-in-law embodies the rise of a trend that threatens to ignite a new nuclear age.
-
-## Getting Confucius Wrong
-A new translation of a key Chinese text is dangerously lacking in expertise.
+## Vietnam Demands ‘Immediate Cessation’ to Construction Activities in Paracel Islands
+The request follows reports of extensive Chinese construction activities on Antelope Reef and a nearby islet.
 
 ## ASEAN and Japan’s Updated Free and Open Indo-Pacific Initiative
 Protecting a shared foundation, not a bloc
@@ -177,14 +186,11 @@ Mongolia wanted to see “a shift from talk to action” at COP17. The results w
 ## Tim Cook’s Dark Legacy in China
 Cook’s leadership perfected Apple’s production – but Chinese workers paid the price.
 
-## Uzbekistan’s Presidential Daughter Just Got a Law of Her Own
-The new presidential administration law grants its head – Saida Mirziyoyeva – sweeping new powers, and immunity.
+## The Quantum Stack and the Countdown to Q-Day
+Quantum’s hype obscures a reality with real geopolitical stakes: the technology works and is advancing every day. Cameron Chehreh (IonQ), JD Dulny (Booz Allen), and Ben Gianni (GDIT) join Jonathan to discuss the race to Q-Day. They cover the shift to post-quantum cryptography, competing hardware mod
 
-## India’s BrahMos at Sea: Implications for South Asian Stability
-The planned Indian deployment of the BrahMos missile on all of its naval warships has destabilizing implications for the region.
-
-## ‘Latin Poison’: Kazakhstan’s Latinization in Russian Media Discourse
-In criticizing Kazakhstan's Latinization effort, Russian media is not defending the Russian language or the Cyrillic alphabet, but the symbolic, ideological, and geopolitical hierarchy of the Russian world.
+## Stop Using AI. Start Commanding It
+Walk into the Pentagon, climb the escalator, and an Uncle Sam-style poster points at you: “I want YOU to use AI.” It worked. GenAI.mil hit 1.5 million users in six months, and I have heard enough OpenAI-in-disguise pitches to last a lifetime. The adoption really is great, but the poster contains a p
 
 ## The (Un)importance of the Battle of Tours
 Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, may look important, but in fact had negligible strategic or political effects or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles never end.
@@ -203,12 +209,6 @@ The Marine Corps just released its plan to fight against adversaries on land, an
 
 ## Would Wartime Elections Save Democracy or End It?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
-
-## From Hormuz to the Caucasus: The New Geography of Energy Security
-Every crisis in the Middle East returns the world’s attention to the same stretch of water. When tankers are seized, or missiles fly near the Persian Gulf, oil prices move, insurers reprice risk, shipping reroutes, and the United States repositions naval and airpower to keep the Strait of Hormuz ope
-
-## Russia’s Next Top General: Promotions in Russian Military Leadership
-Judged by the initial strategic goals set by Russian President Vladimir Putin in 2022, Russia’s military lost its war against Ukraine some time ago. Yet Russia’s armed forces have not stopped fighting and continue to prosecute large-scale combat operations in a brutalizing, protracted war sucking up
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +234,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## FIFA president Infantino ‘must go’, says former UEFA boss Platini
-In a scathing interview, French great Michel Platini accuses Infantino of always loving 'money and power'.
+## Jason Arday mural displayed at London’s Notting Hill Carnival
+A mural commemorating late Cambridge professor Jason Arday is displayed at London’s Notting Hill Carnival.
 
-## Aston Villa vs Arsenal: Premier League – prediction, team news, lineups
-Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.
+## War and heat: Why are wheat prices soaring?
+Russia and Ukraine have stepped up attacks on their respective grain terminals in the Black Sea.
 
-## Tennis great Djokovic exits US Open in first round amid tears and pain
-Novak Djokovic's pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.
+## Sleeping in on weekends is good for the heart: What research has shown
+Study finds that catching up on sleep at weekends is linked to a lower risk of hypertension.
 
-## Global coral reef coverage risks irreversible decline, new report warns
-Coral reefs make up just 1 percent of ocean coverage, but host a quarter of all life in the sea.
+## Greece signs $3.5bn air defence deal with Israel
+Greece signs $3.5bn deal with Israel to acquire its first multi-layered air defence network by 2029.
 
-## People return to their flood-ravaged homes in Nepal
-Survivors in Nepal’s Nuwakot district are digging through mud and debris for belongings left behind by flash floods.
+## Why is piracy picking up off Somalia’s coast again?
+Piracy is surging back off Somalia's coast, though not yet at the scale of its 2011 peak.
 
-## Russia, China leaders to meet at Shanghai Cooperation Organisation summit
-The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.
+## Transfer day: What and when is the deadline for club football signings?
+Which players will Man United, Man City, Arsenal, Real Madrid and Barcelona sign and for how much? Al Jazeera explains.
 
-## Mamdani lookalike contest draws hundreds of hopefuls in New York
-Hundreds gathered for a Zohran Mamdani lookalike contest in New York, with nine contestants vying for votes.
+## South Korea court gives church leader two years in jail for bribery
+South Korea court gives church leader two years in jail for bribery
 
-## Two Palestinians reported dead as Israeli forces raid Nablus
-Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.
+## Liverpool sign Bradley Barcola from Paris Saint-Germain
+Barcola's move comes as Liverpool seek to reinforce their forward line after Mohamed Salah's departure.
+
+## India’s Q1 GDP growth quickens to 7.8% as consumption, capex offset US-Iran war shock
+India’s GDP grew 7.8% in Q1 FY27, up from a revised 6.9% a year earlier, driven by strong consumption, exports and government capital spending. Growth beat the 7.3% forecast in an Economic Times poll and the RBI’s 7% estimate.
 
 ## Proposed corporate law raises CSR thresholds, draws dissent over accountability
 The proposed corporate law overhaul may ease CSR compliance for thousands of companies, but a dissent note has raised concerns over weaker board level scrutiny of corporate social spending. The proposed changes would raise both the CSR applicability and separate committee thresholds, prompting quest
@@ -279,8 +282,14 @@ Hindusthan National Glass has issued a default notice to Bira 91's parent compan
 ## AI offers India big opportunities to boost jobs, living standards: World Bank MD Paschal Donohoe
 The global economy shows resilience despite recent shocks and continues growing. Artificial intelligence offers significant opportunities for emerging economies, especially India. India can leverage AI to boost productivity, jobs, and living standards. The World Bank supports India's adoption and ad
 
-## 35 Years of Liberalisation: What Reforms Does India Need Next?
-On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
+## SEBI awaits clarification from NSE IPO bankers after observations
+The Securities and Exchange Board of India (SEBI) has issued observations on the National Stock Exchange's (NSE) initial public offering (IPO)'s draft papers and is awaiting a response from its lead managers, a report has said.
+
+## RBI back to rupee's rescue to counter oil, Fed headwinds; steps into swaps too
+India's central bank supported the rupee on Monday after oil prices surged. Rising U.S. interest rate expectations also pressured the Indian currency. The Reserve Bank of India's intervention helped the rupee recover its value. This sustained presence insulated the rupee from adverse external develo
+
+## RBI back to rupee's rescue to counter oil, Fed headwinds; steps into swaps too
+India's central bank supported the rupee on Monday after oil prices surged. Rising expectations of a US interest-rate hike also pressured the local currency. The Reserve Bank of India's intervention helped the rupee recover from its lows. This sustained presence insulated the rupee from external dev
 
 ## Commerce ministry meeting industry, exporters on India-US trade on September 1
 India's Commerce Ministry will meet industry leaders on September 1 regarding trade performance. This meeting precedes Minister Piyush Goyal's US visit for G-20 talks. Discussions will focus on recent trade trends and sector-wise performance. Negotiations for a bilateral trade agreement are ongoing 
@@ -296,13 +305,4 @@ The Reserve Bank of India has permitted banks to swap dollars more than once wee
 
 ## Sebi mulls scrapping mandatory merchant banker rule for small-ticket debt via private placement
 Sebi proposed exempting small-value debt issues from merchant banker appointments. This aims to reduce compliance costs and boost market development for listed entities. Issuers must meet specific conditions, including being regulated and listed for one year. They also need an auditor's certificate 
-
-## India, China may build new framework for investments
-India and China are exploring new frameworks for business exchanges and investments. Beijing may unveil an investment package for India during President Xi Jinping's visit. This includes a special economic zone with easier sea route access. Efforts are underway to ease approval processes for Chinese
-
-## RBI proposal to curb NBFCs' revolving credit may choke MSME funding, says industry body FISME
-An industry body has urged the Reserve Bank of India to reconsider its proposal. This plan would ban revolving credit offered by non-banking financial companies. Such a ban could disrupt legitimate working capital finance for small businesses. Experts note revolving credit is a key funding channel f
-
-## IPO fund diversion: Sebi bars Varanium Cloud, promoter for 7 years from markets
-Sebi has barred Varanium Cloud and promoter Harshawardhan Sabale from the securities market for seven years, citing misleading disclosures, inflated financials and diversion of IPO and rights issue funds. The regulator ordered recovery of diverted money and disgorgement of unlawful gains.
 
