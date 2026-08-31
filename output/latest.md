@@ -1,115 +1,127 @@
 # AION Intelligence
 
 ## US and Iran exchange fire for the first time in more than a month
-Oil prices rise after American military hits an island in the Strait of Hormuz and Tehran retaliates in Jordan
+Oil prices rise after American military hits island in Strait of Hormuz and Tehran retaliates with attack on Jordan
 
-## Nepal rescue effort intensifies with more than 3,000 missing
-Authorities warn rising water levels could complicate recoveries as confirmed deaths exceed 800
+## Iceland tarnishes EU’s dreams of being a defence and security hegemon
+Also in this newsletter: Packaging companies plead for relief
 
-## Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund
-Mykhailo Fedorov seeks western capital to build and manage weapons development companies he says will help Kyiv resist Moscow
+## FirstFT: Ukraine’s ex-defence minister pitches tech fund
+Also in today’s newsletter: AI lifts Big Tech profits, and US and Iran trade fire
 
-## Brexiters’ effort to resettle Chagos Islands hit by lack of proper boat
-Nigel Farage-backed expedition is part of attempts to block UK’s contentious deal giving sovereignty over the archipelago to Mauritius
+## Romania to lose €770mn in EU funds due to government crisis
+Bucharest will miss a Monday deadline for passing laws required by Brussels to approve recovery funding
 
-## Big Tech profits get $160bn boost from gains on stakes in other AI companies
-Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector’s earnings metrics
+## Darializa Avila Chevalier: The face of America’s socialist insurgency
+The Democratic congressional candidate’s improbable rise has spooked the party establishment
 
-## Niger regains control of military base after coup attempt
-Disgruntled soldiers who launched attack detained in capital
+## Will financial innovation dethrone the dollar?
+The evolution of a truly multi-polar currency market depends on governments’ willingness to embrace technology and fortify markets
 
-## Return of the politicians
-US jobs data shines light on world’s biggest economy, Shein finally lists in Hong Kong, Massachusetts primaries expose fractures within Democratic Party
+## Labour shelves plan to restrict foreigners buying new flats
+Party downgrades its manifesto pledge to end ‘farce of entire developments being sold off to international investors’
 
-## Americans feel they have lost their agency
-People increasingly blame large corporations for the sense that they have ever less control over their own lives
+## Tim Cook’s Apple legacy by the numbers
+CEO hands over to John Ternus on Tuesday after 15 years
 
-## Claridge’s operator bets on US and UK visitors to offset Middle East
-Maybourne chief executive says it has ‘proactively pivoted’ to other areas to counter drop in Gulf bookings
+## Andrew Bailey warns G20 of danger AI poses to financial system
+Head of world’s financial stability watchdog urges countries to take steps to control the release of new frontier models
 
-## Controversial Venezuelan executive courts investors after Trump oil deal
-Alejandro Betancourt is the US’s primary partner in a company that will control more than 65bn barrels of oil reserves
+## Jane Street’s AI bets go sour
+Plus, Woodford’s angry investors, fund management deals boom and Lucian Freud in Denmark
 
-## Meta’s settlement is a starting point
-Governments can use it as leverage as they mull social media bans for minors
+## Scramble for gas assets pushes dealmaking to decade high
+Spending on US projects has soared as national oil companies and traders add to the rush for gas assets
 
-## ‘New York loves Canada’: US cities want their Canadian tourists back
-American tourism businesses try to overcome cross-border travel boycott over Trump administration’s hostility to its northern neighbour
+## UK investment trusts struggle to keep up the liquidity illusion
+Boaz Weinstein’s activist campaigns expose the strains in a centuries-old model
 
-## Pharma stocks soar as investors seek AI alternatives
-Pricing deals with the White House and positive clinical data boost sector
+## UK fintech Allica looks to Sweden to kick-start European expansion
+Neobank hopes to challenge Scandinavian incumbents that have curbed riskier lending
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Emcure Pharmaceuticals (₹1,871.25)
-Sensex, Nifty, Share Prices Live Updates: The stock of Emcure Pharmaceuticals has been in a long-term uptrend. After hitting a high of ₹2,047.40 on August 10, the price dropped
+## Can robots save US manufacturing?
+Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
 
-## Home-grown hardware resilience
-BYT Capital focuses on hardware-led deep-tech investments
+## Semicon 2.0: Govt notifies ₹1.27 lakh crore scheme to boost chip ecosystem
+The scheme has been divided into six segments covering designing of chips by Indian firms, setting up units for capital equipment required for chip production, semiconductor fabs, chip assembly, packaging and testing, etc.
 
-## Sustainability in a smart packaging
-Startups are innovating for cost-effective, regulation-ready and commercially viable packing material
+## As lower banking fee kicks in, Gujarat prepares for cost-based renewable power regime
+Industries can use the grid as a cheaper ‘virtual battery’ from September 1, while DISCOMs must justify future banking charges with verifiable cost data from April 2027
 
-## Deep-tech: Patient, but not unquestioning capital
-Funding deep-tech innovation calls for patience... and adequate guardrails
+## Sensex, Nifty fall as US-Iran tensions, higher yields weigh on sentiment, HDFC Bank gains
+Sensex, Nifty extend losses in volatile trade: Nifty slips below 24,000, Sensex drags over 510 pts
 
-## Getting AI to engineer gene editors
-Mandrake Bio designs proteins to serve as compact and precise tools for gene editing
+## Sensex today | Stock Market Live Updates: Sensex down 305 pts; Nifty at 24,060 as oil rises, traders brace for MSCI rejig volatility
+Sensex, Nifty, Share Prices Live Updates: Indian shares fell at open on Monday, with investors bracing for potential volatility from ​MSCI's index rejig under the new closing auction system, while ‌an escalation in the Iran war and HDFC ​Bank's CEO resignation could also weigh on ⁠sentiment
 
-## Birla vs Adani: Heavy metal face-off
-After cement, the Birla-Adani rivalry shifts to aluminium as Hindalco unfurls a ₹50,000 crore investment to defend its turf from a massive greenfield challenge
+## SWI becomes an NVIDIA Cloud Partner (NCP)
+SWI becomes an NVIDIA Cloud Partner (NCP)
 
-## A new lease of life for Mitra’s corporate career
-For TeamLease MD Suparna Mitra, it’s been a steep learning curve as she transitioned from B2C to B2B
+## LIC@70: Older, savvier, and more ambitious
+Public sector life insurer believes age is on its side as it aims to reach newer places and age groups
 
-## Talent migration dynamics: Parochial vs practical?
-Is an emotional appeal to return home enough for challenger states to attract talent and enterprises?
+## Supreme Court refuses to hear PIL for mandatory disclosure of ethanol content in petrol at fuel pumps
+Apex court directs petitioner to approach the high court for relief
+
+## Two-wheelers grow 18-20%, trucks 14-16% in August amid festive demand as tractors lose momentum
+M&M, Ashok Leyland, TVS Motor and Bajaj Auto are among the manufacturers seeing robust August volume growth, according to YES Securities report
+
+## HDFC Bank shares rise nearly 3% after after CEO Jagdishan opts out of reappointment
+
+
+## Gold price prediction today: Where are gold prices headed? Check outlook for August 31, 2026 week
+Gold price prediction today: The medium-term case for investment in gold remains intact, despite recent fall in prices, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+
+## Rupee falls 13 paise to 95.56 as crude rises, Fed hike bets strengthen dollar
+On Monday, the Indian rupee began its trading session lower versus the US dollar. The decline was influenced by rising crude oil prices and increasing geopolitical tensions. Furthermore, the prospect of a Federal Reserve rate hike has strengthened the dollar. In response, the Reserve Bank of India i
+
+## Top stocks to buy: Stock recommendations for August 31, 2026 week - check list
+Stock market recommendations: Titan, and L&T Finance - Motilal Oswal Wealth Management Research Desk has identified these two as the top stocks to buy for the week starting August 31, 2026:
+
+## Oil prices jump over 2% after US-Iran direct conflict re-ignites after a month of pause
+Following a U.S. military strike on Iranian launchers in the strategic Strait of Hormuz, oil prices have surged. In retaliation, Iran launched attacks on two U.S. air bases in Jordan. Jordan's military successfully intercepted eight missiles aimed at its territory early Monday, escalating the ongoin
+
+## ‘Losing $60 billion a year’: Trump slams Canada as ‘worst' trade 'abuser', urges firms to move to US
+Donald Trump is escalating trade conflicts with Canada by levying substantial tariffs, which he claims are necessary due to the billions the U.S. allegedly loses from Canadian trade policies. He is urging Canadian firms to move their operations to the U.S. immediately. This action follows stalled tr
+
+## ‘We’ll see more Japanese portfolio flows’
+Japanese investors are showing strong confidence in India's economic growth potential. Political and policy certainty in India is encouraging more Japanese capital to flow. India's growing economy offers tremendous returns, attracting significant overseas investment. Japanese household money is expe
 
 ## Despite global headwinds, Q1 growth seen resilient on demand, government capex
 
 
-## SBI and SBI Capital Markets to dilute up to 1% stake in NSE offer
+## Embrace Lord Krishna's message of truth, duty, public welfare: Adityanath
+Embrace Lord Krishna's message of truth, duty, public welfare: Adityanath
 
+## ‘Back Rahul Gandhi or…’: Congress minister’s big warning after TVK’s PM push for Vijay
+Following the assembly elections, the Congress joined hands with the TVK to form the ruling government in Tamil Nadu.
 
-## CEO’s exit to end uncertainty at HDFC
+## Like 'gold kept safely in box', women must remain in homes: Islamic cleric in Kerala
+The Islamic scholar further claimed that the purdah system was meant to keep women safe.
 
+## No mandatory ethanol labels on petrol pumps for now, SC junks plea
+The petition sought directions to the central government to ensure mandatory and uniform labelling on every dispensing nozzle at petrol pumps, clearly disclosing the exact percentage of ethanol
 
-## From sweet to sour crude: India’s bitumen supply improves, but prices remain elevated
+## SC agrees to hear plea on NGT members' tenure before Sep 8
+SC agrees to hear plea on NGT members' tenure before Sep 8
 
+## Tata Advanced Systems Limited signs MoU to co-produce Javelin missile in India
+TASL and the JJV will explore establishing a final assembly and integration facility for the Javelin AUR and component production capabilities
 
-## Bullion watch: What will shape gold, silver prices? Fed bets, US jobs data in focus
-Throughout September, gold and silver prices are likely to remain under pressure. Critical influences on trading will stem from forthcoming US employment data releases. Traders should be alert to how central bank anticipations and persistent geopolitical tensions will steer market dynamics. Special 
+## Conman Sukesh sentenced to 8 yrs in jail by Delhi court for impersonating SC judge
+The court said that the sentences cannot be permitted to merge into one another or to operate merely concurrently
 
-## FPIs continue to buy: Foreign investors pump over Rs 30,900 crore into Indian equities in August
-In August, foreign investors poured Rs 30,919 crore into Indian equity markets, signaling a notable turnaround following earlier withdrawals. Investor confidence strengthened due to rising corporate earnings and a stable rupee. Additionally, diminishing geopolitical worries positively influenced eme
+## AIMIM worker stabbed to death by gang near his Hyderabad home
+Mahboob Ali (in his mid-50s) was attacked with knives by a group of five people.
 
-## What will guide Dalal Street this week? GDP data, crude and more in focus
-This week promises significant economic developments on Dalal Street with a flurry of data to analyze. India’s Q1 FY27 GDP stats are anticipated on August 31, giving insight into economic growth. The August PMI figures for the manufacturing and services sectors will be closely watched as well. Furth
+## China’s 6 biggest state banks post rare shared growth as margins show tentative rebound
+China’s six largest state-owned banks recorded their first simultaneous rise in first-half revenue and net profit since 2022, according to interim results released last week, as margins that had been under pressure for two years showed tentative signs of stabilising. Industrial and Commercial Bank o
 
-## India’s economy set for 7-7.2% growth in FY27 despite global headwinds: EY
-India's economy is poised for significant growth in FY27, with forecasts suggesting an expansion between 7 and 7.2 percent. This anticipated surge in economic activity will be driven by strong domestic demand and government investment initiatives. Notably, manufacturing is showing an impressive rebo
+## AI‑fuelled boom lifts global billionaire count, Hong Kong retains top spot in Asia
+Hong Kong maintained its lead as the Asian city with the most billionaires last year, though mainland Chinese cities were quickly catching up thanks to wealth accumulation from the artificial intelligence boom, according to New York-based data company Altrata. Globally, Hong Kong ranked second in nu
 
-## 8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra
-The boy had sustained serious injuries and was immediately rushed to a nearby hospital for treatment, where doctors declared him dead
-
-## Retired Bengal couple returns from Nepal, recounts narrow escape
-The group turned back from around one-and-a-half hours driving distance from Rasuwa, which the flood tore through on August 26, the couple told reporters.
-
-## Four killed in encounter with Meghalaya Police-ATS in East Garo Hills
-During checking, the team signalled a suspected vehicle to stop, but its occupants allegedly opened fire at the police personnel.
-
-## ‘They should listen to Mohan Bhagwat’: CJP's Abhijeet Dipke says BJP in power because of RSS
-Abhijeet Dipke said that Mohan Bhagwat had earlier said that the protesting Gen Z should not be called anti-nationals but PM Modi came up with ‘dimagi naxal’.
-
-## Delhi police changes IO amid family raises concerns over a hit-and-run case
-On August 2, Khanna, a local singer, was returning home to Uttam Nagar on his bike when an unknown vehicle rammed into his bike
-
-## Pakistan-based terrorists, ISI using porn sites, encrypted platforms to contact ‘recruits’ in J&K
-Terror groups are reportedly using niche encrypted applications to communicate secretly, an official said.
-
-## Woman’s body found under train seat in Karnataka; probe underway: Police
-Police have registered a murder case, although the woman’s identity and the circumstances of her death have not yet been established
-
-## 3 masked men burgle Alka Lamba's father's home in Delhi; Congress leader shares CCTV footage
-In one of the clips, two men are seen entering the home in daylight, while a third is seen with a motorbike at a distance.
+## China bond market diverges from US as Warsh strikes hawkish tone at Jackson Hole
+The divergence of the bond markets in China and the US risks widening further, as economic data remained underwhelming at the Asian nation, while Federal Reserve chairman Kevin Warsh’s hawkish tone and concerns about fiscal sustainability add to the headwinds for Treasuries. The yield on China’s 10-
 
 ## Golden hour: why Hong Kong may finally succeed in becoming precious metal’s trading hub
 For decades, Hong Kong has been a hub for gold jewellery. Brands such as Chow Tai Fook and Chow Sang Sang have drawn buyers from the world over, aided by the city’s duty-free status and its proximity to one of the world’s largest gold-consuming markets. Two years ago, when officials set the goal of 
@@ -126,14 +138,8 @@ JD.com’s rapid expansion in Hong Kong could challenge the property model that 
 ## Reality check for China’s carmakers as authorities tell them to focus on quality, not tech
 China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase p
 
-## Hong Kong’s long-term wealth hub status safe from mainland investment curbs: JPMorgan exec
-Beijing’s recent curbs on cross-border investment and a tax shift targeting overseas insurance gains may create short-term uncertainty, but they will not undermine Hong Kong’s long-term competitiveness as a major wealth management hub, according to a senior executive at JPMorgan Chase. Kwang Kam-shi
-
-## BYD posts US$1.2 billion profit in second quarter on surging global demand
-China’s electric vehicle (EV) giant BYD saw its earnings jump 30 per cent in the three months from April to June, ending a five-quarter losing streak as buoyant overseas sales and premium models enhanced its net margin and profitability. The Shenzhen-based carmaker, also the world’s largest EV build
-
-## HKEX Tech 100 adds Pony AI, WeRide in index revamp targeting AI stocks
-Hong Kong Exchanges and Clearing (HKEX) will add 10 companies – including autonomous-driving firms Pony AI and WeRide – to its Tech 100 Index as part of a quarterly reshuffle that increases the benchmark’s exposure to artificial intelligence and other emerging technologies. Other additions include A
+## Can Scandals Influence Midterm Elections?
+They did in 2006—but only when framed by Democrats in one specific way.
 
 ## Iceland’s EU Ambitions
 U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
@@ -156,8 +162,11 @@ Trump’s son-in-law embodies the rise of a trend that threatens to ignite a new
 ## Getting Confucius Wrong
 A new translation of a key Chinese text is dangerously lacking in expertise.
 
-## What in the World?
-Test yourself on the week of Aug. 22: A U.N. monitoring mission goes to Congo, the U.S. unveils an economic plan against Iran, and Putin issues a warning.
+## ASEAN and Japan’s Updated Free and Open Indo-Pacific Initiative
+Protecting a shared foundation, not a bloc
+
+## The Reason Japan Cannot Commit to Dialogue with North Korea
+The Tanaka affair has cast a long shadow.
 
 ## Angola Is Emerging as One of Africa’s Most Important Gateways to the Asia-Pacific
 The story of its success has not been straightforward.
@@ -176,12 +185,6 @@ The planned Indian deployment of the BrahMos missile on all of its naval warship
 
 ## ‘Latin Poison’: Kazakhstan’s Latinization in Russian Media Discourse
 In criticizing Kazakhstan's Latinization effort, Russian media is not defending the Russian language or the Cyrillic alphabet, but the symbolic, ideological, and geopolitical hierarchy of the Russian world.
-
-## More and More Global Leaders Went to Chinese Colleges. Does That Matter?
-Does receiving a Chinese education sway Asia’s leaders and, by extension, foreign policy?
-
-## Takaichi Is No Abe: Japan’s New Conservative Politics
-After roughly 10 months in power, the differences between Takaichi and Abe are becoming increasingly difficult to ignore.
 
 ## The (Un)importance of the Battle of Tours
 Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, may look important, but in fact had negligible strategic or political effects or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles never end.
@@ -231,53 +234,59 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What are the implications of the US-Venezuela oil deal?
-Opposition in Venezuela as interim leader insists the deal with Washington will help with the country's recovery.
+## FIFA president Infantino ‘must go’, says former UEFA boss Platini
+In a scathing interview, French great Michel Platini accuses Infantino of always loving 'money and power'.
 
-## Dozens evacuated and about 15 missing after Grand Canyon flash flood
-More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.
+## Aston Villa vs Arsenal: Premier League – prediction, team news, lineups
+Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.
 
-## Flash flooding in Grand Canyon leaves more than 20 people missing
-A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.
+## Tennis great Djokovic exits US Open in first round amid tears and pain
+Novak Djokovic's pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.
 
-## Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island
-US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.
+## Global coral reef coverage risks irreversible decline, new report warns
+Coral reefs make up just 1 percent of ocean coverage, but host a quarter of all life in the sea.
 
-## What is Notting Hill Carnival’s Jab Jab parade?
-The Jab Jab parade sees hundreds don devil horns and cover their skin in motor oil for London’s Notting Hill Carnival.
+## People return to their flood-ravaged homes in Nepal
+Survivors in Nepal’s Nuwakot district are digging through mud and debris for belongings left behind by flash floods.
 
-## Vote count starts in Guinea-Bissau referendum on strengthening presidency
-Ten months after a coup, military leaders say the referendum is designed to stabilise future civilian governments.
+## Russia, China leaders to meet at Shanghai Cooperation Organisation summit
+The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.
 
-## Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says
-Teenager struggled in Barca's La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.
+## Mamdani lookalike contest draws hundreds of hopefuls in New York
+Hundreds gathered for a Zohran Mamdani lookalike contest in New York, with nine contestants vying for votes.
 
-## Israeli strike kills 3-year-old child in Gaza
-A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.
+## Two Palestinians reported dead as Israeli forces raid Nablus
+Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.
+
+## Proposed corporate law raises CSR thresholds, draws dissent over accountability
+The proposed corporate law overhaul may ease CSR compliance for thousands of companies, but a dissent note has raised concerns over weaker board level scrutiny of corporate social spending. The proposed changes would raise both the CSR applicability and separate committee thresholds, prompting quest
+
+## ESG: Is it dead or alive?
+ESG was once shorthand for responsible business. Now, as US investors retreat while Europe revives green flows, the concept faces a reckoning. Seasoned finance expert Robin Banerjee examines why ESG lost momentum, where India stands, and why emissions, rather than labels, may hold the key.
+
+## Falling Global Shield of International Accounting Networks: How the Evergrande Ruling Reshapes Audit Networks and India’s Global Firm Dreams
+Seasoned finance professional Dr. (CA) Ashok Haldia examines how the Hong Kong High Court’s Evergrande ruling could erode the liability shield of global accounting networks, force structural changes in the Big Four model, and offer India a critical opportunity to build globally competitive accountin
+
+## India Inc pays record dividends in FY26, but payout ratio slides
+In FY26, Indian firms made history by distributing a staggering ₹4.5 lakh crore in dividends, marking a remarkable 15% annual growth rate over five years. A significant portion of these dividends, two-thirds, came from the banking, finance, and IT sectors. Notably, the dividend payout ratio has tape
+
+## CXOs sharpen AI edge to stay in control
+The shift is visible across education platforms such as Emeritus, upGrad, Simplilearn, and Coursera where demand from experienced professionals is outpacing that from freshers and mid-career learners.
+
+## Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore
+Hindusthan National Glass has issued a default notice to Bira 91's parent company. The glass manufacturer seeks recovery of over eleven crore rupees for unpaid dues. This action follows Bira 91's founder stepping down amid financial challenges. Bira 91 has been out of production and faces significan
+
+## AI offers India big opportunities to boost jobs, living standards: World Bank MD Paschal Donohoe
+The global economy shows resilience despite recent shocks and continues growing. Artificial intelligence offers significant opportunities for emerging economies, especially India. India can leverage AI to boost productivity, jobs, and living standards. The World Bank supports India's adoption and ad
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
 
-## Why NCLT approved Subhash Chandra’s Rs 6.5-crore proposal despite financial creditor rejection
-Why did the NCLT approve the extremely low Rs 6.5-crore plan proposed by Dr Subhash Chandra, which amounts to just 0.03% of the total claims of Rs 22,006 crore? The major reason behind the approval was the voting pattern among creditors. Chandra had also not provided personal guarantees for the enti
+## Commerce ministry meeting industry, exporters on India-US trade on September 1
+India's Commerce Ministry will meet industry leaders on September 1 regarding trade performance. This meeting precedes Minister Piyush Goyal's US visit for G-20 talks. Discussions will focus on recent trade trends and sector-wise performance. Negotiations for a bilateral trade agreement are ongoing 
 
-## IT Revenue Under Pressure as Pricing Shifts Towards Business Outcomes: Mastek CFO
-Mastek CFO Deepak Kedia on how AI, pricing pressure, geopolitical uncertainty and changing client expectations are reshaping the IT services industry, while the company sees stronger deal momentum in the US and growth opportunities in the UK.
-
-## MCA financial year flexibility comes with tax reporting catch for companies
-Companies allowed to align their financial year with overseas parents or for commercial reasons will still have to maintain separate accounts and statements for income tax purposes, according to evidence recorded in the Joint Committee’s report on the Corporate Laws (Amendment) Bill, 2026.
-
-## Eighteen Years, One Question: Where Is the Climate Finance?
-India has built a climate finance framework over 18 years, but Ashok Haldia, former MD of PTC India Financial Services and former secretary of ICAI, argues that frameworks and announcements are no longer enough. This article examines why India needs coordinated regulation, proper climate risk pricin
-
-## India to amend rules within two months to ease semiconductor, auto component manufacturing: Piyush Goyal
-India will amend regulations and introduce new rules within two months for manufacturers. The minister assured companies that their concerns were resolved during recent discussions. The government has simplified the Bureau of Indian Standards framework and approval processes. India aims to seed $50 
-
-## NFRA flags gaps in going concern audits, asks auditors to challenge forecasts, funding claims
-NFRA Chairperson Nitin Gupta has flagged gaps in auditors’ assessment of companies’ ability to continue as a going concern, saying audit files do not always show how management assessments were evaluated before auditors reached their conclusions.
-
-## NFRA flags 988 audit firms over Form NFRA 2 filing lapses
-NFRA has flagged 988 audit firms of listed and unlisted companies that appear not to have filed or have filed incomplete Form NFRA 2 for the 2024 25 reporting period, with 947 firms in the non filing category and 41 firms having filed incomplete returns.
+## Sitharaman meets US business leaders, pitches India as investment hub
+Finance Minister Nirmala Sitharaman met several US business leaders in Chicago. She invited them to explore opportunities within India as a global operations hub. Discussions covered AI-enabled autonomy and defense technologies with Shield AI. Opportunities in agriculture and food value chains were 
 
 ## India to pitch central bank digital currencies to BRICS partners at meet
 The global grouping celebrates 20 years at the New Delhi summit on September 12-13. A high-level meeting would be held next week to thrash out mechanisms for use of digital currencies, and explore ways to increase intra-BRICS trade using national currencies, said the people mentioned above.
@@ -296,10 +305,4 @@ An industry body has urged the Reserve Bank of India to reconsider its proposal.
 
 ## IPO fund diversion: Sebi bars Varanium Cloud, promoter for 7 years from markets
 Sebi has barred Varanium Cloud and promoter Harshawardhan Sabale from the securities market for seven years, citing misleading disclosures, inflated financials and diversion of IPO and rights issue funds. The regulator ordered recovery of diverted money and disgorgement of unlawful gains.
-
-## RBI warns food, fuel costs could reignite broader inflation
-Most high-frequency indicators showed sustained manufacturing and services activity in July. Merchandise exports and imports experienced double-digit expansion, continuing Q1 momentum. Headline consumer price index inflation edged up, primarily due to supply-side pressures. Stable core inflation rea
-
-## Sebi drops case against Max Financial, Max Life, Axis entities in Rs 3,911 cr case
-Sebi has closed proceedings against Max Financial and Axis entities concerning alleged shareholder losses. The regulator found no evidence of disclosure lapses or a fraudulent scheme. Transactions between Max and Axis entities from 2009 to 2022 were examined. Allegations of undue benefits to Axis Ba
 
