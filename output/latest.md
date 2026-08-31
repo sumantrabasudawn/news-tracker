@@ -1,70 +1,67 @@
 # AION Intelligence
 
-## Whose fiscal problems would you prefer?
-Lenders must choose between countries behaving like a bingeing entrepreneur, an elderly but reputable business owner and an indebted aristocrat
-
-## Kemi Badenoch sacks Mel Stride as shadow chancellor
-Conservative leader promotes former Sky executive Andrew Griffith as she seeks to close polling gap with Reform and Labour
+## Elliott builds stake in French industrial gas group Air Liquide
+Activist US hedge fund has targeted several European corporate giants in recent years
 
 ## Trump says US will hit Iran ‘hard’ as conflict reignites
 Oil prices rise after exchange of fire between warring countries ends weeks of relative quiet
 
-## India’s GDP beats growth forecast at 7.8%
-World’s fastest-growing large economy outperforms central bank expectations as Middle East energy shock starts to bite
+## Swiss lawmakers call for softer banking regulation in victory for UBS
+Panel proposes that Switzerland’s largest financial institution could fully capitalise its global operations through a combination of equity and debt
 
-## Sixty years of Notting Hill Carnival
-The event — which began as a form of resistance against racism — draws millions to the streets of west London
+## US regulator claims Amazon manipulated advertising prices
+Federal Trade Commission sues ecommerce giant alleging it overcharged about 1.2mn businesses leading to higher prices for consumers
 
-## Spain’s Sánchez accuses Russia and Israel of inflaming migrant crisis
-PM blames foreign social media actors for spreading misinformation as he comes under pressure over Ceuta influx
+## KKR is the rare private equity firm that bets on itself
+As buyout groups reach middle age, playing with other people’s money only gets them so far
 
-## ChatGPT faces tougher rules under EU online safety regime
-Reddit and Roblox also face additional obligations under bloc’s Digital Services Act
+## Trump says data centre critics ‘want to end up backwards and poor’
+US president urges voters to ‘let Data Reign’ as unpopular building boom roils midterm campaigns
 
-## KKR to net giant windfall from $17bn sale of USI to Aon
-Gain is one of the largest earned by a public private equity firm on a single deal
+## Lionel Messi announces retirement from international football
+Superstar says he planned move two days after Argentina’s loss to Spain in July World Cup final
+
+## George Santos banned from prediction platform Kalshi for manipulation
+Regulator says former US representative made public statements to boost the value of his own bets on whether he would attend the State of the Union address
+
+## Don’t write off Russia’s defence industry yet
+Moscow’s arms manufacturers are adapting and innovating in ways that could threaten Nato in the future
 
 ## How climate volatility shakes up companies’ earnings too
 Supply chains are vulnerable to heatwaves and cyclones
 
-## Happy birthday to the First Index Investment Trust
-Witness the FIITnes
+## Mahindra takes possession of 800 acres for biggest factory to make ICE vehicles, EVs and tractors
+Mahindra is taking the first 800 acres for its 1,500-acre Nagpur manufacturing hub, planned to make ICE vehicles, EVs and tractors, with capacity exceeding 6 lakh units annually
 
-## Activist pushes EPAM Systems for buybacks as AI hits its shares
-Engine Capital’s campaign comes as investors bet artificial intelligence will hurt consultancies and software groups
+## Modi calls on Putin to end Russia-Ukraine war at SCO summit
+Prime Minister Narendra Modi met Vladimir Putin in Bishkek, while India continued to balance its longstanding ties with Russia, Iran and the US
 
-## Software companies pay steep price to buy time against AI threat
-Private equity groups face a $40bn maturity wall in 2028 to refinance Covid-era software buyouts
+## Airbus awards A320 fuselage skin manufacturing contract to Mahindra Aerostructures
+According to Airbus, this collaboration is a significant boost to the ‘Make in India’ commitment
 
-## UK offers homegrown AI start-ups £100mn to improve public services
-Scheme comes in wake of growing opposition to government contracts with US software group Palantir
+## India’s April-July fiscal deficit narrows to 26.8% of FY27 target
+The deficit was at 29.9 per cent of Budget Estimates (BE) of 2025-26 for the first four months of the previous financial year
 
-## Consultants head for a showdown — with their own clients
-Pressure is on Accenture, Capgemini and the Big Four as companies demand savings
+## How Zee founder’s ₹6.5 crore repayment plan survived NCLT scrutiny
+A deep dive into the case and what transpired over the last four years
 
-## Vedanta Aluminium Reports Record Q1 FY27 Performance; Profit Surges 205%, EBITDA More Than Doubles
+## HDFC Bank MD & CEO exit puts succession, growth back in focus
+Brokerages retain bullish calls on the stock but say the next chief executive must provide a credible leadership reset and a clear path to revive growth and margins
 
+## Nepal tragedy highlights India’s challenge: mapping glacier risks is easier than deciding what to do
+Satellite imagery, modelling and field studies had significantly improved India’s ability to assess hazards in the mountains
 
-## Darwinbox Appoints Pannie Sia to Lead Enterprise Growth in Southeast Asia
-Regional Vice President for Singapore, Malaysia, and Indonesia will scale the company’s enterprise presence as organizations move AI in HR from experimentation to core infrastructure.
+## Milky Mist Q1FY27 PAT up almost 10x, revenue up 44% on summer demand
+Company expects Panner to continue to be the its star product
 
-## Motorola Launches moto g max, the Most Complete Smartphone Featuring a Luxury Satin Finish With Pantone™ Curated Colours, Segment’s Leading 50MP Sony LYTIA™ 600 Camera System, Snapdragon® 6s Gen 4 Performance, and Massive 7000mAh Battery, Starting at Just Rs. 26,999*
+## Gold pledged for loan stolen in bank robbery: How borrower won case for full value
+So, what happens if gold jewellery pledged against a gold loan is stolen from the bank? For a borrower, the loss can raise a bigger question than simply recovering the value of the gold. Should the bank pay only for the metal, or should the compensation also cover making charges and the value of sto
 
+## Bank credit growth nearly doubles to 19.1% in July as lending picks up across sectors
+The month of July 2026 witnessed a remarkable surge in non-food bank credit. Lending to various sectors, particularly services, industry, and agriculture, experienced significant growth. In particular, the growth in services credit was more than double that of the previous year, while industry lendi
 
-## What to Decide Before You Invest in a ULIP
-
-
-## What to Expect When Opening a Digital Savings Account Online
-
-
-## ART MUMBAI 2026: Where Collections Take Shape
-2–15 November 2026 | Mahalaxmi Racecourse, Mumbai
-
-## Ebco Launches ESmart Digital Lock Range to Bring Intuitive Security to Every Door
-Shielded Today. Ready for Tomorrow.” Imperia, Regalia, Crest and Sync-Pro series now available nationwide
-
-## Mia by Tanishq And Zepto Bring an Unexpected Rakhi Surprise to Doorsteps Across Mumbai And Delhi NCR
-The collaboration brings Mia’s “Make Your Sister Cry (With Tears of Joy)” campaign into an everyday moment, reminding brothers to make their Rakhi gift count
+## NSE's closing auction sees Rs 39,718 crore rush on first index rebalancing day
+The National Stock Exchange faced an exciting challenge on Monday as its closing auction mechanism tested its mettle. Investors were actively reshaping their portfolios ahead of index changes, leading to impressive trading volumes. Now celebrating its first month, the mechanism has confirmed its rol
 
 ## New NPS PoP Charges: PFRDA sets Rs 200 onboarding fee, 0.20% annual PoP charge
 Under the new fee structure, subscribers registering for NPS through a PoP will be charged a one-time onboarding fee of Rs 200 for each Permanent Retirement Account Number (PRAN). However, the entire Rs 200 will not be taken from the subscriber’s account at once.
@@ -81,38 +78,32 @@ Russia’s seaborne gasoline imports climbed to a record level of around 125,000
 ## No internet needed: PhonePe brings UPI payments to over 200m feature phone users
 PhonePe has launched UPI 123Pay, enabling feature phone users to transact digitally. This service extends UPI payment capabilities to over two hundred million Indian feature phone users. The platform allows peer-to-peer and peer-to-merchant payments, and balance checks. It also offers an AI-powered 
 
-## Big four-tracking push! Railways to expand on 7 high-density routes - why it matters
-India’s seven high-density railway routes, covering about 11,000 km, are being expanded to four tracks to handle more passenger and freight traffic across the country, Vaishnaw said recently.
+## Shivraj reviews watershed scheme, calls for faster implementation to achieve drought-free India
+Shivraj reviews watershed scheme, calls for faster implementation to achieve drought-free India
 
-## Stocks to buy: What's the outlook for Nifty for August 31-September 4 week? Check list of top stock recommendations
-Stock market recommendations: Glenmark Pharmaceuticals, and Ramkrishna Forgings are the top stocks to buy recommended by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities on August 31, 2026.
+## Should move from endless war to end of war, PM Modi tells Russian Prez Putin
+Modi made the remarks when he met Putin on the margins of SCO Summit, their first in-person engagement since the India-Russia Summit in New Delhi last December
 
-## HDFC Bank shares rise nearly 3% after CEO Jagdishan opts out of reappointment
+## Taxi, autorickshaw fares to increase in Mumbai region from Tuesday
+The fare hike of ₹1 for auto-rickshaws and ₹2 for black-and-yellow taxis was approved by the Mumbai Metropolitan Region Transport Authority (MMRTA).
 
+## SC panel picks new Rajasthan HC chief justice amid allegations against acting CJ
+The Supreme Court collegium's recommendation came on a day Rajasthan HC's acting chief justice Sanjeev Prakash Sharma opted out of judicial work until Sept 5
 
-## 11 dead after massive blast in firecracker factory in UP's Kaushambi, rescue ops on
-The explosion occurred near the Manori power house and caused extensive damage to the factory and nearby structures.
+## ‘Saw death from close’: 8 Assam workers rescued from Nepal return; 8 missing
+For two days, the group lived on a hilltop without food or clean water. Relief finally came when Nepalese military helicopters spotted the men.
 
-## TCS iON 'deeply regrets' Jaipur NEET-PG power failure, says working to fix it 'urgently'
-TCS iON said the examination centre in Jaipur had experience power failures during the NEET-PG test as well as the AIIMS CRE exam.
+## Anna Hazare admitted to Mumbai hospital's ICU with acute dehydration, kidney issue
+Hazare, who was admitted to the Bombay Hospital, is in the intensive care unit (ICU) under Dr Gautam Bhansali.
 
-## HT Evening News Brief August 31: PM Modi meets Putin, Pezeshkian; Vaibhav Sooryavanshi makes another record
-Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
+## Saudi-Delhi Air India Express flight makes emergency landing after 'bomb' note found in lavatory
+According to police, all 32 passengers onboard were safely deboarded at Terminal 2, while security personnel are conducting a thorough check of the aircraft.
 
-## Political graffiti is back on Jadavpur University’s whitewashed walls
-The Students Federation of India (SFI) Jadavpur unit announced its “Reclaim Your Wall” programme in a social media post on Sunday evening
+## 7 die, 5 injured as bus collides head-on with truck in Assam: Police
+According to the investigating officer Dhiren Saika Sonowal, the bus carried 14 passengers including a driver and a helper
 
-## PM Modi's peace message from 'land of Gandhi, Buddha’ to Putin over Russia-Ukraine war during SCO meet
-PM Modi said during his meeting with Putin that “the land of Gandhi and the land of Buddha share a single message: the path of peace”.
-
-## Ban on gutkha, pan masala in Gujarat extended for another year; effective from September 13
-The ban will apply to gutkha and pan masala containing tobacco or nicotine, irrespective of the name by which they are known.
-
-## Meghalaya: Interstate contract killing, ransom network surfaces after 4 killed
-At around 4am on Sunday, a Bolero bearing registration number AS-01-FD-2889 approached the checkpoint and was signalled to stop
-
-## MCD demolishes structures around Jama Masjid as part of encroachment removal drive
-MCD officials said that the encroachment removal drive was being undertaken in compliance with the directions of the Delhi high court
+## France takes aim at Shein, Temu, other fast fashion with levy on Asian e-commerce sites
+France will from Tuesday impose a fee on ultra-fast fashion items that will eventually reach almost €20 (US$2.32) per garment, as the government targets major Asian e-commerce platforms including Shein. The levy follows legislation passed by the French parliament in June to regulate “ultra-fast fash
 
 ## Former top European official adopts bullish tone on China-EU trade talks as deadline nears
 A former top European Union official has struck a bullish tone on the outlook for China-EU trade talks, saying he expects progress in the coming months. Charles Michel, president of the European Council from 2019 to 2024, told reporters in a media briefing in Shanghai on Monday that both sides were 
@@ -135,8 +126,11 @@ China’s six largest state-owned banks recorded their first simultaneous rise i
 ## AI‑fuelled boom lifts global billionaire count, Hong Kong retains top spot in Asia
 Hong Kong maintained its lead as the Asian city with the most billionaires last year, though mainland Chinese cities were quickly catching up thanks to wealth accumulation from the artificial intelligence boom, according to New York-based Altrata. Globally, Hong Kong ranked second in number of billi
 
-## China, US bond markets diverge as Warsh strikes hawkish tone at Jackson Hole
-The divergence of the bond markets in China and the US risks widening further, as economic data releases from the world’s second-largest economy remained underwhelming and Federal Reserve chairman Kevin Warsh’s hawkish tone and concerns about fiscal sustainability add to the headwinds for Treasuries
+## Beijing and Washington Can Build AI Safety Despite Mutual Distrust
+Practical cooperation should exist alongside competition.
+
+## U.S.-Iran Fighting Reignites
+A U.S. attack on Larak Island paves the way for renewed heavy warfare.
 
 ## Jordan Sees Bigger Threat From Israel Than Iran
 For Amman, Israeli annexation of the West Bank looms as an existential risk.
@@ -156,35 +150,32 @@ They did in 2006—but only when framed by Democrats in one specific way.
 ## Iceland’s EU Ambitions
 U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
 
-## Why Are Yields on U.S. Treasury Bonds Rising?
-The fluctuations could have huge impacts on the U.S. and global economy.
+## Micronesian Islands Meet Against Backdrop of Great Power Competition
+Micronesian governments are elevating unilateral hedging efforts in forums like the MIF, in pursuit of a unified risk-management strategy and regional identity.
 
-## Yes, We’re in an AI Bubble. Just Look to 1980s Japan.
-Nvidia’s earnings may be formidable, but history suggests this may not end well.
+## Kazakhstan’s New Parliament Appoints Tokayev’s Pick, Aibek Dadebay, as Chair
+Kazakhstan’s new unicameral parliament voted in favor of appointing the leader of the Adilet party, a close confidant of President Tokayev, as its first chairman.
 
-## For Indonesia’s Digital Banks, It’s All About Who You Know
-The sector has experienced rapid growth in the past few years, and three large banks are firmly in the lead.
+## Hitting a High Point: The Australia-Indonesia 2+2
+The significance of the 2+2 is the growing web of cooperation between Canberra and Jakarta.
 
-## A Historic Villa in Yangon Gets an Upgrade
-Myanmar's government is both preserving and erasing the legacy of General Aung San, who helped lead the country to independence in 1948.
+## What Zheng He’s Changing Role Reveals About China’s Maritime Strategy
+The historical figure has been invoked to advance different symbolic ends as Beijing’s goals and capabilities change.
 
-## Vietnam Demands ‘Immediate Cessation’ to Construction Activities in Paracel Islands
-The request follows reports of extensive Chinese construction activities on Antelope Reef and a nearby islet.
+## Sri Lanka’s Luxury Property Boom Is Outrunning Its Regulations
+As Colombo's luxury towers rise, the laws and institutions meant to oversee them lag far behind. Financial history shows that rarely ends well.
 
-## ASEAN and Japan’s Updated Free and Open Indo-Pacific Initiative
-Protecting a shared foundation, not a bloc
+## Breaking Through Infoglut: Australia’s Anger-information Overload Cycle
+COVID, global warming, conspiracy theorists, natural disasters, financial collapses – and a sham social media ban. It’s no wonder young Australians are glum.
 
-## The Reason Japan Cannot Commit to Dialogue with North Korea
-The Tanaka affair has cast a long shadow.
+## India, UK Fire Up Defense Cooperation With Joint Development
+An inter-governmental agreement to develop and incorporate integrated full electric propulsion for the Indian Navy’s four landing platform docks is underway.
 
-## Angola Is Emerging as One of Africa’s Most Important Gateways to the Asia-Pacific
-The story of its success has not been straightforward.
+## Japan’s Record 2027 Defense Budget Request Is Only the Opening Bid
+Tokyo is building a force around AI, unmanned systems, a high-low weapons mix, and greater staying power.
 
-## Mongolia Hosts COP17, Urging Global Partners to Action on Climate Issues
-Mongolia wanted to see “a shift from talk to action” at COP17. The results were mixed.
-
-## Tim Cook’s Dark Legacy in China
-Cook’s leadership perfected Apple’s production – but Chinese workers paid the price.
+## The Divine Calculus of the Ukraine War’s End
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## The Quantum Stack and the Countdown to Q-Day
 Quantum’s hype obscures a reality with real geopolitical stakes: the technology works and is advancing every day. Cameron Chehreh (IonQ), JD Dulny (Booz Allen), and Ben Gianni (GDIT) join Jonathan to discuss the race to Q-Day. They cover the shift to post-quantum cryptography, competing hardware mod
@@ -206,9 +197,6 @@ In 2025, Rob Geist Pinfold wrote, “The March Massacres Show That Syria Urgentl
 
 ## The Marine Corps’ Plan for the Future of Ground Combat
 The Marine Corps just released its plan to fight against adversaries on land, and Ryan had the two architects of the plan, Ground Combat Element 2040, on the show to talk about it. They discuss drones, resilience, long-range fires, logistics, and what marines will need to survive and fight on an inc
-
-## Would Wartime Elections Save Democracy or End It?
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Jason Arday mural displayed at London’s Notting Hill Carnival
-A mural commemorating late Cambridge professor Jason Arday is displayed at London’s Notting Hill Carnival.
+## ‘Nothing is usable’: Nepal residents return to flood-ravaged homes
+Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.
 
-## War and heat: Why are wheat prices soaring?
-Russia and Ukraine have stepped up attacks on their respective grain terminals in the Black Sea.
+## How will the Mecca agreement become an operational framework?
+Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.
 
-## Sleeping in on weekends is good for the heart: What research has shown
-Study finds that catching up on sleep at weekends is linked to a lower risk of hypertension.
+## Ukrainians mourn community leader killed in Russian strike on Myla
+Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.
 
-## Greece signs $3.5bn air defence deal with Israel
-Greece signs $3.5bn deal with Israel to acquire its first multi-layered air defence network by 2029.
+## GTA 6: Why is the world’s most anticipated game facing backlash?
+You paid for it. But do you actually own it? GTA 6 is exposing a bigger battle over the future of gaming.
 
-## Why is piracy picking up off Somalia’s coast again?
-Piracy is surging back off Somalia's coast, though not yet at the scale of its 2011 peak.
+## What to know: US court hearing held for alleged Lockerbie bombmaker
+Abu Agila Mohammad Mas’ud Kheir Al-Marimi is the third person charged in the downing of Pan Am Flight 103.
 
-## Transfer day: What and when is the deadline for club football signings?
-Which players will Man United, Man City, Arsenal, Real Madrid and Barcelona sign and for how much? Al Jazeera explains.
+## Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque
+Israeli Minister Ben-Gvir storms Al-Aqsa Mosque compound with settlers, violating decades-old status quo arrangement.
 
-## South Korea court gives church leader two years in jail for bribery
-South Korea court gives church leader two years in jail for bribery
+## Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem
+Far-right minister entered Islam’s third-holiest site alongside settlers under protection of Israeli occupation forces.
 
-## Liverpool sign Bradley Barcola from Paris Saint-Germain
-Barcola's move comes as Liverpool seek to reinforce their forward line after Mohamed Salah's departure.
+## Top US general says no plans to send troops to polls for November elections
+Remarks come in response to concerns from Democrats that military could be used to interfere in elections.
 
 ## India’s Q1 GDP growth quickens to 7.8% as consumption, capex offset US-Iran war shock
 India’s GDP grew 7.8% in Q1 FY27, up from a revised 6.9% a year earlier, driven by strong consumption, exports and government capital spending. Growth beat the 7.3% forecast in an Economic Times poll and the RBI’s 7% estimate.
