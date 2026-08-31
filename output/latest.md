@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## US strikes Iran for first time in weeks in attack on rocket launchers
-Oil prices rise after American military hits an island in the Strait of Hormuz to prevent mines being laid in the strategic waterway
+## US and Iran exchange fire for the first time in more than a month
+Oil prices rise after American military hits an island in the Strait of Hormuz and Tehran retaliates in Jordan
 
 ## Nepal rescue effort intensifies with more than 3,000 missing
-Authorities warn rising water levels could complicate recoveries as the number of confirmed deaths reaches more than 800
+Authorities warn rising water levels could complicate recoveries as confirmed deaths exceed 800
 
 ## Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund
 Mykhailo Fedorov seeks western capital to build and manage weapons development companies he says will help Kyiv resist Moscow
@@ -39,29 +39,38 @@ American tourism businesses try to overcome cross-border travel boycott over Tru
 ## Pharma stocks soar as investors seek AI alternatives
 Pricing deals with the White House and positive clinical data boost sector
 
-## Bengaluru’s commercial projects hit approval roadblocks, squeezing new supply
-According to Santhosh Kumar, Vice Chairman, ANAROCK Group, bottlenecks vary depending on the project and location
+## Sensex today | Stock Market Live Updates: Stock to buy today: Emcure Pharmaceuticals (₹1,871.25)
+Sensex, Nifty, Share Prices Live Updates: The stock of Emcure Pharmaceuticals has been in a long-term uptrend. After hitting a high of ₹2,047.40 on August 10, the price dropped
 
-## Cash market volumes fall to five-month low as CAS swings rattle investors
-The ADT on the NSE fell to a five-month low in August as investors turned cautious amid sharp price volatility and widespread profit-booking
+## Home-grown hardware resilience
+BYT Capital focuses on hardware-led deep-tech investments
 
-## SEBI could have been better prepared for closing auction, says UK Sinha
-The closing auction session was well-intentioned by the regulator and will stabilise eventually, says former SEBI Chairman
+## Sustainability in a smart packaging
+Startups are innovating for cost-effective, regulation-ready and commercially viable packing material
 
-## Subhash Chandra raises questions over HDFC claims; seeks reconciliation of ₹4,262 crore dues
-Chandra’s statement came in response to social media posts over the weekend carrying hashtags such as #PaiseVapasKaro
+## Deep-tech: Patient, but not unquestioning capital
+Funding deep-tech innovation calls for patience... and adequate guardrails
 
-## PM Modi arrives in Kyrgyzstan to attend SCO summit
-PM Modi is visiting Kyrgyzstan at the invitation of President Sadyr Zhaparov to participate in the 26th SCO Summit on August 31-September 1
+## Getting AI to engineer gene editors
+Mandrake Bio designs proteins to serve as compact and precise tools for gene editing
 
-## Atlassian bets big on India as AI changes software development
-The India site has grown to more than 2,700 employees, with a large portion working across engineering, product and design, while the company is also expanding its sales workforce in the country
+## Birla vs Adani: Heavy metal face-off
+After cement, the Birla-Adani rivalry shifts to aluminium as Hindalco unfurls a ₹50,000 crore investment to defend its turf from a massive greenfield challenge
 
-## Turkey’s authoritarian turn
-Pulitzer Prize finalist Suzy Hansen presents a gripping portrait of a crisis-ridden Turkey and a global unravelling
+## A new lease of life for Mitra’s corporate career
+For TeamLease MD Suparna Mitra, it’s been a steep learning curve as she transitioned from B2C to B2B
 
-## Bahwan CyberTek bullish on AI-driven products and public sector tech spending
-A localised delivery model and nimble organisational structure is giving us an edge in the competitive market, says new MD and CEO
+## Talent migration dynamics: Parochial vs practical?
+Is an emotional appeal to return home enough for challenger states to attract talent and enterprises?
+
+## Despite global headwinds, Q1 growth seen resilient on demand, government capex
+
+
+## SBI and SBI Capital Markets to dilute up to 1% stake in NSE offer
+
+
+## CEO’s exit to end uncertainty at HDFC
+
 
 ## From sweet to sour crude: India’s bitumen supply improves, but prices remain elevated
 
@@ -77,15 +86,6 @@ This week promises significant economic developments on Dalal Street with a flur
 
 ## India’s economy set for 7-7.2% growth in FY27 despite global headwinds: EY
 India's economy is poised for significant growth in FY27, with forecasts suggesting an expansion between 7 and 7.2 percent. This anticipated surge in economic activity will be driven by strong domestic demand and government investment initiatives. Notably, manufacturing is showing an impressive rebo
-
-## India reaches fiscal deficit target for 2025-26, credit ratings improving: FM Sitharaman in US
-India proudly announces the achievement of its fiscal deficit target for 2025-26, showcasing commendable fiscal discipline. With a clear vision, the government aspires to maintain a 50 percent debt-to-GDP ratio by 2030. This fiscal prudence was executed without compromising social welfare or infrast
-
-## Iran war at 6 months: Who gained, who lost the most economically
-Six months into the war, global economic fears have not fully materialized. Oil prices surged initially but have since eased from their peak. Financial markets have recovered strongly, boosted by artificial intelligence optimism. Airlines and farmers face increased costs, impacting travelers and foo
-
-## Shopping with AI: Consumers ask artificial intelligence for advice but less than half trust it
-Consumers now use artificial intelligence for shopping decisions, though trust remains low. Younger shoppers consult more sources but trust them less, challenging brands. Companies must optimize websites for AI searches as brand mentions are minimal. Consumers seek value beyond price, considering du
 
 ## 8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra
 The boy had sustained serious injuries and was immediately rushed to a nearby hospital for treatment, where doctors declared him dead
@@ -111,6 +111,9 @@ Police have registered a murder case, although the woman’s identity and the ci
 ## 3 masked men burgle Alka Lamba's father's home in Delhi; Congress leader shares CCTV footage
 In one of the clips, two men are seen entering the home in daylight, while a third is seen with a motorbike at a distance.
 
+## Golden hour: why Hong Kong may finally succeed in becoming precious metal’s trading hub
+For decades, Hong Kong has been a hub for gold jewellery. Brands such as Chow Tai Fook and Chow Sang Sang have drawn buyers from the world over, aided by the city’s duty-free status and its proximity to one of the world’s largest gold-consuming markets. Two years ago, when officials set the goal of 
+
 ## Citi’s China-US corridor thrives as mainland firms hedge risks amid trade turbulence
 Escalating US-China trade friction has failed to dampen corporate activity between the two economies, with Citi reporting steady revenue growth on its North America-China corridor as Chinese companies aggressively deploy risk-hedging strategies to protect their global market share. Instead of retrea
 
@@ -131,9 +134,6 @@ China’s electric vehicle (EV) giant BYD saw its earnings jump 30 per cent in t
 
 ## HKEX Tech 100 adds Pony AI, WeRide in index revamp targeting AI stocks
 Hong Kong Exchanges and Clearing (HKEX) will add 10 companies – including autonomous-driving firms Pony AI and WeRide – to its Tech 100 Index as part of a quarterly reshuffle that increases the benchmark’s exposure to artificial intelligence and other emerging technologies. Other additions include A
-
-## China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off
-Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in first-half revenue on Friday, as the firm released its first financial results since becoming China’s most valuable publicly traded company in a blockbuster Shanghai listing last month. The Hefei-based firm – China’s lea
 
 ## Iceland’s EU Ambitions
 U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What are the implications of the US-Venezuela oil deal?
+Opposition in Venezuela as interim leader insists the deal with Washington will help with the country's recovery.
+
+## Dozens evacuated and about 15 missing after Grand Canyon flash flood
+More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.
+
+## Flash flooding in Grand Canyon leaves more than 20 people missing
+A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.
+
+## Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island
+US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.
+
+## What is Notting Hill Carnival’s Jab Jab parade?
+The Jab Jab parade sees hundreds don devil horns and cover their skin in motor oil for London’s Notting Hill Carnival.
+
+## Vote count starts in Guinea-Bissau referendum on strengthening presidency
+Ten months after a coup, military leaders say the referendum is designed to stabilise future civilian governments.
+
 ## Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says
 Teenager struggled in Barca's La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.
 
 ## Israeli strike kills 3-year-old child in Gaza
 A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.
-
-## Jose Andres renews call for investigation into WCK Gaza staff killings
-World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.
-
-## ‘Opening a new chapter’: Syria reopens embassy in Libya after talks
-Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.
-
-## Video: Raging floodwaters sweep away lorry in the Philippines
-Video shows a lorry being swept away by raging floodwaters in Rodriguez as torrential rains batter the Philippines.
-
-## US strikes Iran’s Larak Island in first attack in weeks
-IRGC says attack in southern Iran killed and injured several soldiers.
-
-## Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs
-Hundreds of Bosnian Serbs gathered to pay tribute to former Bosnian Serb commander Ratko Mladić.
-
-## Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start
-Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho's Real Madrid continues to move at pace in La Liga.
 
 ## 35 Years of Liberalisation: What Reforms Does India Need Next?
 On one side, the Indian government has announced stronger vision plans, like Viksit Bharat by 2047 and Self-Reliant India. It has also kept a focus on reforms and has rolled out 350 reforms, including GST simplification and notification of labour codes. But on the other hand, India’s debt is worriso
