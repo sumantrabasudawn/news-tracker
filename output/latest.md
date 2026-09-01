@@ -1,115 +1,127 @@
 # AION Intelligence
 
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
+## Global bond sell-off deepens amid inflation fears
+UK borrowing costs rise to highest level since 2008 and Japanese yields hit peaks not seen since 1990s
+
+## Trump touts data centre build-out despite voter backlash
+Also in today’s newsletter, the Federal Trade Commission sues Amazon and the US-Iran war reignites
+
+## Trump summons US refiners as Iran war pushes up fuel prices
+President to hold White House meeting on Tuesday as high living costs sap his popularity ahead of midterm elections
+
+## Saudi and South Korean oil tankers hit in Strait of Hormuz
+The increase in shipping attacks comes after a period of relative calm in the war
+
+## Far-right Restore Britain receives £500,000 from tech entrepreneur
+Nativist upstart shows growing potential to peel voters off from Nigel Farage’s Reform UK
+
+## Warsh clears up his own mess, but US credibility is still stretched
+Many of the economic policy problems the Fed chair has to deal with stem from the administration
+
+## Keir Starmer to stand down as MP
+Decision by former prime minister will trigger by-election in his London seat, with Greens likely to challenge ruling Labour Party
+
+## ECB to raise rates again amid higher Eurozone inflation
+The headline HICP rate rose again in August
+
+## Swiss finance minister hits out at move to water down UBS capital plans
+Karin Keller-Sutter criticises lawmakers for compromise proposal ‘in favour of the bank and against taxpayers’
+
+## Why Andy Burnham should say: Jackdaw yes, Rosebank no
+Despite the UK’s best efforts, its energy system will require natural gas for decades to come
+
+## Thames Water should go into administration, says senior Tory MP
+Geoffrey Clifton-Brown wants the government to protect customers from ‘predatory’ hedge funds seeking control over the UK’s largest water utility
+
+## Elliott builds stake in French industrial gas group Air Liquide
+Activist US hedge fund has targeted several European corporate giants in recent years
+
+## Shein’s unhappy IPO
+There’s no time to cry, happy, happy
 
 ## When is an engineer not an engineer?
 AI requirements and technical titles are more common in job ads but do not always reflect the reality of roles
 
-## FirstFT: Global bond sell-off deepens
-Also in today’s newsletter: Shein’s rollercoaster ride of a first day of trading and Wall Street banks push big law firms to cut fees
+## GenZ is ambitious, but does not equate ambition with hierarchy, shows survey
+Young workers are willing to work hard, but increasingly want meaning, autonomy, flexibility and skill development rather than titles alone, it finds
 
-## Eurozone inflation rises to 3.3% in August
-ECB expected to raise interest rates next week as higher energy prices bite
+## Ferrero India appoints Rohit Batra as Sales Director
+Batra will head Ferrero India’s sales organisation and spearhead its growth agenda across all sales channels
 
-## Global bond sell-off deepens amid inflation fears
-UK borrowing costs rise to highest since 2008 while Japan yields hit levels not seen since 1990s
+## SC asks Centre for using totalisers in polls, EC says risky now as even EVMs face public questioning
+The court’s order to the Union government came despite a warning from the Election Commission of India that bringing in totalisers now, when even EVMs are subject to frequent public questioning, may not be the right move
 
-## Private equity firms snap up more London-listed companies
-Bodycote agrees takeover by Veritas and Epiris to acquire Gamma Communications
+## India's power consumption rises nearly 13% to 169 billion units in Aug
+Higher feel-like temperatures than the actual temperature, caused by humid conditions across the country, increased use of cooling appliances like air conditioners, raising power demand and consumption, according to experts
 
-## ‘Conflict of attrition’ in Iran could keep inflation high, ECB policymaker warns
-Finnish governor Olli Rehn strikes hawkish tone ahead of expected interest rate rise in the Eurozone
+## Supreme Court quashes FIRs against Gen Z NEET protestors
+CJP co-convenor read out statement in court withdrawing September 5 march
 
-## Shein shares slide as much as 10% in Hong Kong debut
-Fast-fashion retailer completes long-delayed IPO at bargain-basement valuation
-
-## Partners Group replaces chief executive as pressure grows on flagship fund
-David Layton to step down after surge in redemption requests hits share price of Swiss private equity manager
-
-## How Aston Martin’s latest financing sparked a bondholder revolt
-Luxury car maker’s controversial deal with BlackRock-owned credit firm HPS set up high-stakes legal battle
-
-## Ikea cuts prices in Europe by €1.2bn to counter cost of living crisis
-About 1,500 products in 20 European countries will be cheaper as consumer confidence continues to remain depressed.
-
-## LSE prepares to launch tokenised stocks in digital markets push
-Partnership with Kraken owner is latest sign of UK’s drive to become crypto-asset trading hub
-
-## Apple’s new boss starts out asset-light and option-rich
-The greatest asset John Ternus inherits is optionality
-
-## Sensex today | Stock Market Live Updates: Sensex ends 12 pts down, Nifty closes at 24,055
-Sensex, Nifty, Share Prices LIVE: Indian equities remained range-bound at midday as banking stocks faced selling pressure, offsetting gains in IT and select heavyweights, while rising crude prices and global bond yields weighed on sentiment ahead of key technical levels around 24,000.
+## Mumbaikars to feel the pinch as milk prices jump by ₹9 per litre ahead of festive season
+The hiked rate will remain in place until February 28, 2027, to absorb a 60 to 70% jump in milch animal acquisition costs and a 25% rise in feed prices
 
 ## Highway toll hikes to nearly double to 6.4% next year, pinch consumers, logistics firms
 FY27 inflation will feed into tariffs from April 2027; older highways could see 4.5–5.5% increase as WPI-linked formula kicks in
 
-## NSE revises quantity freeze limits for index F&O contracts from Sep 1
-Under the revised limits, the quantity freeze for Bank Nifty is 600, while Nifty and FinNifty have a limit of 1,800 each. Midcap Nifty has a limit of 2,800, Nifty Next 50 has a limit of 600 and NiftyFPI has a limit of 8,500.
+## Bankers in the running for CEO job at HDFC Bank
+While an internal candidate could ensure continuity, appointment of an external candidate would throw up cultural and integration challenges, an analyst said
 
-## SC seeks Centre's view on introduction of totalisers for counting of votes in EVMs
-The petition has also sought direction to the authorities to take steps to use totaliser for counting of votes
-
-## Gaja Alternative Asset Management gets SEBI nod for new fund
-The term of Gaja Capital India Fund V will begin from its initial closing and run for 10 years, with an option to extend the fund by two additional one-year periods
-
-## Sodexo appoints Jérôme Lemouchoux as Chairman & General Manager, Greater China
-Sodexo appoints Jérôme Lemouchoux as Chairman & General Manager, Greater China
-
-## izmo Microsystems Develops Indigenous 40 GHz RF Semiconductor Package for Defence and Secure Communication Applications
-izmo Microsystems Develops Indigenous 40 GHz RF Semiconductor Package for Defence and Secure Communication Applications
-
-## DayOne and TNB Explore Up To 1.5 GW of On-Site Power Generation to Advance Malaysia's Energy Resilience and Digital Economy
-DayOne and TNB Explore Up To 1.5 GW of On-Site Power Generation to Advance Malaysia's Energy Resilience and Digital Economy
+## India’s tech jobs face another jolt: Oracle to cut 3,000, Microsoft puts 500 on PIPs
+Global tech giant Microsoft has put around 500 employees in India on performance improvement plans (PIPs), while Oracle is preparing to cut roughly 3,000 jobs in the country as technology companies reorganise their workforces and redirect spending towards newer areas.
 
 ## Rs 1 crore at 26 to Rs 7 crore net worth at 31: How Bengaluru techie achieved this
 His financial journey, however, did not begin with a large salary or a carefully constructed investment portfolio. He claims he started investing small amounts in mutual funds soon after college, when he first became interested in financial independence.
 
-## Onion price hike: Centre expands Rs 35/kg sale to 19 cities amid supply concerns
-The Centre has expanded its discounted onion sale to nineteen cities. Onions are now available at Rs 35 per kg, down from retail prices. Mobile vans will distribute affordable onions across Delhi's thirteen districts. This intervention aims to ensure essential food items remain accessible. The gover
+## Centre halves sugar stock limit for dealers to curb hoarding, price rise
+
+
+## India's GDP grows 7.8% in Q1: Factors powering the economy despite global turmoil
+In the first quarter, India showcased impressive economic resilience with a remarkable 7.8% GDP growth. The surge was notably driven by a surge in domestic demand and the services sector. Additionally, investment activity picked up pace, enhancing the overall economic landscape. This achievement sta
 
 ## Cheeni Kum? Imported sugar is yet to land, so why is it getting cheaper
 Sugar prices have surged notably, straining household budgets throughout India. This dramatic increase is attributed to lower domestic production coupled with heightened festive demand. Although government actions, such as permitting duty-free imports and implementing stock limits, have helped reduc
 
+## Onion price hike: Centre expands Rs 35/kg sale to 19 cities amid supply concerns
+The Centre has expanded its discounted onion sale to nineteen cities. Onions are now available at Rs 35 per kg, down from retail prices. Mobile vans will distribute affordable onions across Delhi's thirteen districts. This intervention aims to ensure essential food items remain accessible. The gover
+
+## India’s PMI slips to 52.8 as factory growth loses steam, hits five-year low
+In August, India's manufacturing sector experienced its most significant slowdown in five years, with production and new orders seeing a decline. This downturn marked the lowest activity level since August 2021, causing a contraction in employment for the first time in two and a half years. Although
+
 ## Sold home jointly owned with wife? You can claim 100% LTCG benefit - here’s how
 The most important point to note in this matter is the proof of the financing for the first property. If you have a clear trail and adequate documentation that can establish the money to buy the first property was entirely yours, then the new property need not be purchased in joint names.
 
-## GST collections jump 14.8% to record Rs 1.99 lakh crore in August
+## Chhattisgarh: ED raids seven locations in state in CGPSC case
+Among the premises searched by the agency was that of KK Chandrakar, who served as a personal assistant to former CM Bhupesh Baghel
 
+## PM Modi to participate in Jal Shakti Ministry summit on Wednesday
+The two-day summit is the first in a series of departmental events envisioned by the prime minister to strengthen the spirit of ‘Team India’.
 
-## Gold price prediction today: Will gold trade with bearish bias? Check September 1, 2026 outlook
-Gold price prediction today:Gold prices are under pressure due to the US Federal Reserve chair’s hawkish outlook, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+## Heavy rain in Uttarakhand triggers waterlogging in Nainital, Bhimtal bypass; flood-like situation on roads | Visuals
+One of the videos shared by an X user shows “severe waterlogging and streams flowing into the Bhimtal bypass”.
 
-## Namo Bharat: India’s fastest train corridor to soon meet 60% of power needs by solar
-The Delhi-Meerut Namo Bharat corridor is set to receive power from a 110 MW captive solar plant, which is expected to fulfil nearly 60% of the corridor’s electricity needs. The National Capital Region Transport Corporation (NCRTC) has signed a power purchase agreement with NIRL NCRTC Renewables Limi
+## JEE Advanced may shift to adaptive testing by 2030 to reduce coaching dependence
+The IITs are looking to roll out the new assessment system, in which question difficulty would adapt to a candidate’s performance
 
-## Shun foreign holidays, weddings abroad, buy gold only if needed: PM Modi's 'vocal for local' pitch
+## Rain lashes Delhi-NCR as IMD issues 'orange' alert, more showers likely in next 2 hours | Videos
+Delhi rains: Parts of the national capital and NCR region received rainfall on Tuesday. The IMD has issued a rainfall warning for the next two hours.
 
+## Delhi to see traffic diversions for 5 hours tomorrow amid BRICS motorcade rehearsal – Check routes here
+Several key roads in Delhi will see diversions on Wednesday in view of a motorcade rehearsal ahead of the BRICS Summit 2026, Delhi Traffic Police informed.
 
-## Why PM Modi is again asking Indians not to buy gold, travel or 'marry' abroad
-The appeal, made on Tuesday in a video message from Bishkek, comes even as India has posted a stronger-than-expected 7.8% economic growth this quarter.
+## West Bengal to levy fine over spitting, defecating, dumping waste: Govt
+While spitting on the road will attract a penalty of ₹100, urinating and dumping of waste and plastic will carry a fine of ₹200
 
-## Police can't pick and choose accused to arrest: Delhi HC
-Police can't pick and choose accused to arrest: Delhi HC
+## Delhi hikes solar panel subsidy, free panels for homes using up to 400 units: CM Rekha Gupta
+Gupta said the government has targeted installing rooftop solar systems in 230,000 households across Delhi by March 2027
 
-## UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi
-UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi
+## Volkswagen launches inquiry into Changzhou supplier following mass graduate lay-offs
+After significant lay-offs by a key Chinese auto supplier in Changzhou city of Jiangsu province involving over a hundred new graduates sparked nationwide outrage and forced Volkswagen to launch an investigation, analysts note the episode could lead to an overhaul of corporate-governance practices ac
 
-## Woman’s dismembered body found in overhead tanks of Tamil Nadu houses: Cops
-Police said that prima facie evidence suggests ‘murder for gain’ as the motive, given that the victim’s jewelry is missing
+## Sino Land profit rises 14% as property losses narrow, but core earnings fall
+Sino Land’s annual profit rose 14 per cent as losses on its investment properties narrowed, although a decline in underlying earnings pointed to continued pressure on its core business. Net profit attributable to shareholders rose to HK$4.59 billion (US$585 million) in the year ended June 30, from H
 
-## Supreme Court quashes all FIRs across the country against NEET paper leak protesters
-The government had assured the students would not be targeted or harassed in connection with the agitation.
-
-## Mamata Banerjee's niece found dead at her residence in West Bengal's Birbhum, say police
-The 28-year-old's body was found from a room on the second floor of her house in Rampurhat's Kusumba village.
-
-## Centre halves sugar stock limit for dealers to 2,000 quintals from September 15
-The 4,000-quintal limit, imposed August 1, was itself introduced after sugar prices began rising sharply.
-
-## 3 of kin, including 12-yr-old daughter die in Guwahati landslide, 1 rescued: Cop
-The incident happened around 8am near Lakshmi Mandir in the Mathgharia area, where a portion of a hill collapsed and fell onto the house
+## China tells carmakers, suppliers to avoid price wars abroad to pave way for healthy growth
+Beijing has ordered Chinese carmakers and component suppliers to refrain from offering steep discounts in overseas markets as they accelerate their global expansion. For the first time, three ministry-level authorities published guidelines governing Chinese carmakers abroad, aimed at improving their
 
 ## China ends dividend tax exemption for expats, applying 20% rate
 China’s tax authorities announced on Tuesday that the country would end the tax exemption for dividends earned by expatriates at foreign-funded firms, setting a 20 per cent rate effective immediately. The measures mainly target “interest, dividend and bonus income” for individual income tax purposes
@@ -126,14 +138,11 @@ Foreign investors are expected to keep adding to their China A-share holdings, t
 ## Citigroup boosts headcount by 25% on north Asia desk, Invesco names new Asia-Pacific head
 US financial institutions Citigroup and Invesco have separately announced that they would continue to expand their presence in Asia, even as the financial industry faces geopolitical uncertainties and Beijing tightens its control on overseas investment. Citi would boost the headcount of its north As
 
-## Asian healthcare deals heat up as investors bet big on brain tech and surgical robotics
-Private investors in Asia, including family offices operating in Hong Kong, are showing a growing appetite for advanced medical technologies such as brain-computer interfaces and surgical robotics, as healthcare deal activity picks up across the region amid China’s biotechnology boom. “Asia is agein
+## Welcome to the New Defense-Dominant World
+As military power proves less effective, an old IR theory is making a comeback.
 
-## Rate rise expectations mount in Hong Kong property market following Fed chief’s comments
-With expectations of a quarter-percentage-point increase in the US Federal Reserve’s target interest rate increasing following comments by Fed chairman Kevin Warsh last week, the Hong Kong property market is bracing for its potential impact. Following Warsh’s comments at the Jackson Hole economic sy
-
-## China’s top brokerages step up global push as overseas profits surge
-China’s leading brokerages are accelerating their push overseas, pouring billions of yuan into their international arms as cross-border deals expand and profits from overseas operations grow, according to their latest interim reports. Citic Securities, one of China’s largest brokerages, saw revenue 
+## The U.N.’s Next Leader Will Be Either a Secretary or a General
+The race to succeed António Guterres has started—and four very different candidates are in the running.
 
 ## The Free Speech Ideologue Taking on Europe
 Sarah Rogers’s combative online persona has earned her a reputation. But the State Department official is more deliberative than she seems.
@@ -152,12 +161,6 @@ Congress must act to address new and old executive abuses.
 
 ## China Is Trying to Make AI Work for Health Care
 A state-backed push is raising the question: Who pays?
-
-## Trump Has Peaked
-The U.S. president will remain disruptive on the global stage, but he is losing his coercive powers.
-
-## Can Scandals Influence Midterm Elections?
-They did in 2006—but only when framed by Democrats in one specific way.
 
 ## Vietnam’s Expanding Strategic Partnerships: Why Canada Could Be Next
 Recent developments suggest that the two middle-powers are on the cusp of an important diplomatic upgrade.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli attacks on Gaza kill at least four, including children
-At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.
+## Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m
+Brazil's Gabriel Jesus transfers from Premier League champions Arsenal to La Liga holders Barcelona on deadline day.
 
-## Football power struggle caused FIFA World Cup plan fallout, says Kushner
-Investor Joshua Kushner blames football's 'political dynamics' for FIFA's leadership crisis involving Gianni Infantino.
+## Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?
+The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets.
 
-## Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv
-Russian attacks escalate as EU defence ministers meet in Ireland to discuss Ukraine air defence shortages.
+## Napoli’s ex Man Utd star McTominay needs surgery for irregular heartbeat
+Scotland international Scott McTominay, who joined Napoli from Manchester United, to undergo heart surgery.
 
-## Heavy monsoon rains submerge Islamabad roads and underground
-Heavy monsoon rains have submerged roads and flooded houses in Pakistan’s capital, Islamabad, and Rawalpandi.
+## How wildfires are scorching France’s wine industry
+Europe's largest wine exporter is already battling a cocktail of crisis from heatwaves to lower sales.
 
-## ‘Not welcome’: How Sweden’s far right took over Stockholm Central Station
-The Sweden Democrats also posted advertisements on buses suggesting Swedes with Somali heritage apply for repatriation.
+## SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit
+The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.
 
-## Nepal buries unidentified flood victims as families await answers
-Nepal authorities are burying unidentified flood victims in temporary graves.
+## Irish minister calls for EU action in banning Israeli settlement trade
+Ireland’s defence minister has called on EU member states to take more action to ban trade with Israeli settlements.
 
-## Could 4+4 make 1 in Libya? UN-backed agreement looks to unite rival camps
-After 15 years of civil war, a new UN-backed '4+4' agreement looks to unite Libya's rival factions.
+## Video: SCO summit leaders meet in aftermath of US war on Iran
+Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.
 
-## Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies
-A price cap increase is on the way, the latest blow to people already struggling with rising costs.
+## UN sounds climate alarm as China-Taiwan row threatens to overshadow forum
+The UN has raised fresh alarm over the climate crisis at the Pacific Islands Forum in Palau, amid China-Taiwan tensions.
 
 ## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
 Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
@@ -279,6 +282,9 @@ Hindusthan National Glass has issued a default notice to Bira 91's parent compan
 ## AI offers India big opportunities to boost jobs, living standards: World Bank MD Paschal Donohoe
 The global economy shows resilience despite recent shocks and continues growing. Artificial intelligence offers significant opportunities for emerging economies, especially India. India can leverage AI to boost productivity, jobs, and living standards. The World Bank supports India's adoption and ad
 
+## RBI appoints Suman Ray as Executive Director, to head DICGC and Premises Department
+Suman Ray will assume the role of Executive Director at the Reserve Bank of India. His appointment is effective from September 1, 2026, as announced by the central bank. Previously, Ray served as the Regional Director for Maharashtra and has extensive experience. He will now oversee the Department o
+
 ## SEBI awaits clarification from NSE IPO bankers after observations
 The Securities and Exchange Board of India (SEBI) has issued observations on the National Stock Exchange's (NSE) initial public offering (IPO)'s draft papers and is awaiting a response from its lead managers, a report has said.
 
@@ -299,7 +305,4 @@ The global grouping celebrates 20 years at the New Delhi summit on September 12-
 
 ## India's RBI gives banks more flexibility in swapping overseas dollar deposits
 The Reserve Bank of India has permitted banks to swap dollars more than once weekly. This change aids banks in managing large inflows before a deposit scheme deadline. The special deposit scheme has attracted over sixty-five billion dollars so far. Banks are raising overseas funds to leverage potent
-
-## Sebi mulls scrapping mandatory merchant banker rule for small-ticket debt via private placement
-Sebi proposed exempting small-value debt issues from merchant banker appointments. This aims to reduce compliance costs and boost market development for listed entities. Issuers must meet specific conditions, including being regulated and listed for one year. They also need an auditor's certificate 
 
