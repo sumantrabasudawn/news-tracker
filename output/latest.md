@@ -1,10 +1,37 @@
 # AION Intelligence
 
+## US launches further strikes on Iran as conflict flares up
+Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation
+
+## Burnham promises to ‘bring back hope’ in first Commons appearance as PM
+Former mayor of Greater Manchester accused of ‘living in the past’ by Tory leader Kemi Badenoch
+
+## Zambian president inaugurated after election violence
+Hakainde Hichilema sworn in for a second term after main rival was jailed in post-election turmoil
+
+## Germany blames Russia for Leipzig drone attack
+Interior minister Alexander Dobrindt says his country is ‘not at war, but a daily target of hybrid warfare’
+
+## GoPro: a totally normal, unremarkable piece of merger activity
+Camera action
+
+## Governments should heed the bond market’s warning
+Financial repression is not a sustainable way to manage rising borrowing costs
+
+## IMF agrees $2.2bn bailout for Senegal
+West African nation will seek to restructure its external debts after last year’s revelations of extensive misreported borrowing
+
 ## Global bond sell-off deepens amid inflation fears
 UK borrowing costs rise to highest level since 2008 and Japanese yields hit peaks not seen since 1990s
 
-## Trump touts data centre build-out despite voter backlash
-Also in today’s newsletter, the Federal Trade Commission sues Amazon and the US-Iran war reignites
+## America can’t win the AI race if the rollout lacks public support
+The US will fall behind China if people believe the technology is something being done to them rather than built with them
+
+## Action camera maker GoPro to be acquired after decade-long decline
+Shares jump as much as 80% after announcement of $285mn cash deal with AI hardware group
+
+## Swiss finance minister hits out at move to water down UBS capital plans
+Karin Keller-Sutter criticises lawmakers for compromise proposal ‘in favour of the bank and against taxpayers’
 
 ## Trump summons US refiners as Iran war pushes up fuel prices
 President to hold White House meeting on Tuesday as high living costs sap his popularity ahead of midterm elections
@@ -12,62 +39,41 @@ President to hold White House meeting on Tuesday as high living costs sap his po
 ## Saudi and South Korean oil tankers hit in Strait of Hormuz
 The increase in shipping attacks comes after a period of relative calm in the war
 
-## Far-right Restore Britain receives £500,000 from tech entrepreneur
-Nativist upstart shows growing potential to peel voters off from Nigel Farage’s Reform UK
-
-## Warsh clears up his own mess, but US credibility is still stretched
-Many of the economic policy problems the Fed chair has to deal with stem from the administration
-
-## Keir Starmer to stand down as MP
-Decision by former prime minister will trigger by-election in his London seat, with Greens likely to challenge ruling Labour Party
-
-## ECB to raise rates again amid higher Eurozone inflation
-The headline HICP rate rose again in August
-
-## Swiss finance minister hits out at move to water down UBS capital plans
-Karin Keller-Sutter criticises lawmakers for compromise proposal ‘in favour of the bank and against taxpayers’
-
 ## Why Andy Burnham should say: Jackdaw yes, Rosebank no
 Despite the UK’s best efforts, its energy system will require natural gas for decades to come
 
-## Thames Water should go into administration, says senior Tory MP
-Geoffrey Clifton-Brown wants the government to protect customers from ‘predatory’ hedge funds seeking control over the UK’s largest water utility
+## Mahanadi Coalfields IPO: Coal India to sell 10% stake
+The proposed offering comes as India’s primary market shows signs of revival after a sluggish start to the year.
 
-## Elliott builds stake in French industrial gas group Air Liquide
-Activist US hedge fund has targeted several European corporate giants in recent years
+## Tata Motors gets ECB nod for ₹40,000-crore Iveco takeover
+The European Central Bank has approved Tata Motors’ proposed acquisition of qualifying holdings in two Iveco-linked financial institutions
 
-## Shein’s unhappy IPO
-There’s no time to cry, happy, happy
+## Three South Indian medtech startups get an Israel launchpad
+The programme offers the founders exposure to Israel’s healthcare ecosystem, clinical validation expertise and potential pathways to international markets
 
-## When is an engineer not an engineer?
-AI requirements and technical titles are more common in job ads but do not always reflect the reality of roles
+## Reliance looks to pull off a Campa with ₹10 ice cream; freezer battle holds the key
+RCPL reaches over three million outlets through 5,000 distributors and has scaled gross revenue to roughly ₹22,000 crore, backed by Reliance’s planned ₹30,000-crore investment in food-manufacturing infrastructure
 
-## GenZ is ambitious, but does not equate ambition with hierarchy, shows survey
-Young workers are willing to work hard, but increasingly want meaning, autonomy, flexibility and skill development rather than titles alone, it finds
+## IRDAI proposes Public Insurance Registry to create digital public infrastructure for insurance
+The registry is proposed to address information and interoperability gaps by providing a consistent and authoritative view of insurance records, while allowing relevant information to remain with the respective source institutions
 
-## Ferrero India appoints Rohit Batra as Sales Director
-Batra will head Ferrero India’s sales organisation and spearhead its growth agenda across all sales channels
+## Keralam’s GCC Boilerplate and Sensory Workspaces pitch to attract GCCs
+The State will launch its “GCC boilerplate” — a plug-and-play regulatory blueprint paired with attractive fiscal perks
 
-## SC asks Centre for using totalisers in polls, EC says risky now as even EVMs face public questioning
-The court’s order to the Union government came despite a warning from the Election Commission of India that bringing in totalisers now, when even EVMs are subject to frequent public questioning, may not be the right move
+## FADA appoints Sai Giridhar as its 38th President
+The governing council also unanimously elected Bharat Kumar Chordia, MD of Chennai-based Khivraj Motors, as the Treasurer
 
-## India's power consumption rises nearly 13% to 169 billion units in Aug
-Higher feel-like temperatures than the actual temperature, caused by humid conditions across the country, increased use of cooling appliances like air conditioners, raising power demand and consumption, according to experts
+## upGrad completes Unacademy acquisition at just over $200 million, marking steep valuation reset
+The deal values Unacademy at more than 90 per cent below its peak valuation of $3.44 billion in 2021
 
-## Supreme Court quashes FIRs against Gen Z NEET protestors
-CJP co-convenor read out statement in court withdrawing September 5 march
-
-## Mumbaikars to feel the pinch as milk prices jump by ₹9 per litre ahead of festive season
-The hiked rate will remain in place until February 28, 2027, to absorb a 60 to 70% jump in milch animal acquisition costs and a 25% rise in feed prices
-
-## Highway toll hikes to nearly double to 6.4% next year, pinch consumers, logistics firms
-FY27 inflation will feed into tariffs from April 2027; older highways could see 4.5–5.5% increase as WPI-linked formula kicks in
-
-## Bankers in the running for CEO job at HDFC Bank
-While an internal candidate could ensure continuity, appointment of an external candidate would throw up cultural and integration challenges, an analyst said
+## Rs 25,000 salary to Rs 1 crore EPF corpus: Compounding math can make you a crorepati
+Over time, the interest earned on the accumulated balance earns interest, allowing compounding to steadily increase your retirement savings. With regular contributions maintained over a long period, an employee can potentially build an EPF corpus of Rs 1 crore or more.
 
 ## India’s tech jobs face another jolt: Oracle to cut 3,000, Microsoft puts 500 on PIPs
 Global tech giant Microsoft has put around 500 employees in India on performance improvement plans (PIPs), while Oracle is preparing to cut roughly 3,000 jobs in the country as technology companies reorganise their workforces and redirect spending towards newer areas.
+
+## UPI gets festive boost: Digital payments hit a record 24.51 bn transactions in August
+In August, Unified Payments Interface hit an all-time high for monthly transaction volumes, largely fueled by festive celebrations like Raksha Bandhan that encouraged peer-to-peer transfers. As transaction values approached previous peaks, the digital payment landscape continued to evolve, with UPI 
 
 ## Rs 1 crore at 26 to Rs 7 crore net worth at 31: How Bengaluru techie achieved this
 His financial journey, however, did not begin with a large salary or a carefully constructed investment portfolio. He claims he started investing small amounts in mutual funds soon after college, when he first became interested in financial independence.
@@ -84,35 +90,29 @@ Sugar prices have surged notably, straining household budgets throughout India. 
 ## Onion price hike: Centre expands Rs 35/kg sale to 19 cities amid supply concerns
 The Centre has expanded its discounted onion sale to nineteen cities. Onions are now available at Rs 35 per kg, down from retail prices. Mobile vans will distribute affordable onions across Delhi's thirteen districts. This intervention aims to ensure essential food items remain accessible. The gover
 
-## India’s PMI slips to 52.8 as factory growth loses steam, hits five-year low
-In August, India's manufacturing sector experienced its most significant slowdown in five years, with production and new orders seeing a decline. This downturn marked the lowest activity level since August 2021, causing a contraction in employment for the first time in two and a half years. Although
+## Nepal floods: 163 Indians rescued, 151 leave China as India steps up rescue operations, says Centre
+The MEA said the Indian tunnel rescue team established a foothold at hydropower tunnels in Chilime.
 
-## Sold home jointly owned with wife? You can claim 100% LTCG benefit - here’s how
-The most important point to note in this matter is the proof of the financing for the first property. If you have a clear trail and adequate documentation that can establish the money to buy the first property was entirely yours, then the new property need not be purchased in joint names.
+## 8 challans in July, no background check of accused: Shocking details emerge in Noida bus rape case
+The bus ran for several kilometers unstopped before the accused left the girl in Delhi.
 
-## Chhattisgarh: ED raids seven locations in state in CGPSC case
-Among the premises searched by the agency was that of KK Chandrakar, who served as a personal assistant to former CM Bhupesh Baghel
+## Dialogue, not war: Modi pushes diplomacy for West Asia, targets terror ecosystem
+Modi said terrorism remains a serious challenge to humanity. “In the fight against terrorism, we cannot remain confined to an action-reaction approach,” he said.
 
-## PM Modi to participate in Jal Shakti Ministry summit on Wednesday
-The two-day summit is the first in a series of departmental events envisioned by the prime minister to strengthen the spirit of ‘Team India’.
+## Anna Hazare's condition ‘stable’ after viral infection; Fadnavis visits activist, wishes speedy recovery
+Dr Gautam Bhansali, the doctor treating Anna Hazare, told Hindustan Times that his condition was stable and that investigations were underway.
 
-## Heavy rain in Uttarakhand triggers waterlogging in Nainital, Bhimtal bypass; flood-like situation on roads | Visuals
-One of the videos shared by an X user shows “severe waterlogging and streams flowing into the Bhimtal bypass”.
+## ‘Don’t eat, buy or sell fish caught in Nepal floodwaters': Bihar warns citizens
+Bihar authorities have issued a public advisory warning residents against buying, selling, or consuming unfamiliar or unusual fish found in floodwaters.
 
-## JEE Advanced may shift to adaptive testing by 2030 to reduce coaching dependence
-The IITs are looking to roll out the new assessment system, in which question difficulty would adapt to a candidate’s performance
+## Train passenger deboarded, booked for lighting 'diya' on berth, says central railway
+The CR appealed to passengers not to carry inflammable articles or light diyas, candles or incense sticks inside trains.
 
-## Rain lashes Delhi-NCR as IMD issues 'orange' alert, more showers likely in next 2 hours | Videos
-Delhi rains: Parts of the national capital and NCR region received rainfall on Tuesday. The IMD has issued a rainfall warning for the next two hours.
+## Cops grill Abhishek Banerjee for 5 hours in Camac Street case; he calls it political vendetta
+Abhishek Banerjee was summoned in connection with a clash between his supporters with officials who went to his Camac Street office to remove an unauthorised billboard
 
-## Delhi to see traffic diversions for 5 hours tomorrow amid BRICS motorcade rehearsal – Check routes here
-Several key roads in Delhi will see diversions on Wednesday in view of a motorcade rehearsal ahead of the BRICS Summit 2026, Delhi Traffic Police informed.
-
-## West Bengal to levy fine over spitting, defecating, dumping waste: Govt
-While spitting on the road will attract a penalty of ₹100, urinating and dumping of waste and plastic will carry a fine of ₹200
-
-## Delhi hikes solar panel subsidy, free panels for homes using up to 400 units: CM Rekha Gupta
-Gupta said the government has targeted installing rooftop solar systems in 230,000 households across Delhi by March 2027
+## Women returning from maternity leave entitled to position before leave: HC
+The court asked the Centre to frame in six months rules addressing post maternity reinstatement, lactation support, creche disclosure and grievance redressal timelines
 
 ## Volkswagen launches inquiry into Changzhou supplier following mass graduate lay-offs
 After significant lay-offs by a key Chinese auto supplier in Changzhou city of Jiangsu province involving over a hundred new graduates sparked nationwide outrage and forced Volkswagen to launch an investigation, analysts note the episode could lead to an overhaul of corporate-governance practices ac
@@ -138,6 +138,9 @@ Foreign investors are expected to keep adding to their China A-share holdings, t
 ## Citigroup boosts headcount by 25% on north Asia desk, Invesco names new Asia-Pacific head
 US financial institutions Citigroup and Invesco have separately announced that they would continue to expand their presence in Asia, even as the financial industry faces geopolitical uncertainties and Beijing tightens its control on overseas investment. Citi would boost the headcount of its north As
 
+## Cognitive Dissonance Dominates Hormuz
+Ships can’t navigate a reality that exists only in Trump’s head.
+
 ## Welcome to the New Defense-Dominant World
 As military power proves less effective, an old IR theory is making a comeback.
 
@@ -159,32 +162,29 @@ For Amman, Israeli annexation of the West Bank looms as an existential risk.
 ## It’s Time to Rein in Trump’s ‘Wars on Terror’
 Congress must act to address new and old executive abuses.
 
-## China Is Trying to Make AI Work for Health Care
-A state-backed push is raising the question: Who pays?
+## Japan, South Korea, and the New Logic of Nuclear Energy Security in Northeast Asia
+The two neighbors are reshaping the nuclear politics of Northeast Asia – and doing so increasingly in concert with Washington.
 
-## Vietnam’s Expanding Strategic Partnerships: Why Canada Could Be Next
-Recent developments suggest that the two middle-powers are on the cusp of an important diplomatic upgrade.
+## Ayesha Siddiqa on the Pakistan Army’s Police State
+Siddiqa argues that Pakistan is not a hybrid regime but a case of constitutional militarism, sanctioned by a parliament that has legislated away its own relevance.
 
-## Indonesia, United States Kick Off Annual Multinational Military Exercises
-Super Garuda Shield 2026 will involve more than 4,700 troops from 13 nations, and observers from a further eight others.
+## Jeremy Douglas on Southeast Asia’s Drug Boom
+"This is a region that is arguably now the largest epicenter of synthetic drug production in the world," says the UNDOC deputy director.
 
-## Myanmar’s Min Aung Hlaing to Visit Vietnam Soon, State Media Says
-All four mainland Southeast Asian states have now extended an official invitation to the general-turned-president since his inauguration in April.
+## China Wants to Push Taiwan out of the Pacific
+China’s pressure campaign against Taiwan doesn’t end when a country switches recognition to Beijing.
 
-## The ‘Unique’ Communications That Saved Lives Before Nepal’s Devastating Flood
-Survivors and experts say that instant word-of-mouth warnings may have saved hundreds of lives on August 26.
+## Tajikistan Taxes Tourism Trips Abroad to Fund Development at Home
+The new rules would hit Tajikistan’s tourism companies while benefiting an affiliated state body.
 
-## How Great Power Rivalry Is Fracturing the Pacific Islands Forum
-Absences from this year's Leaders' Meeting are raising questions about the group's solidarity amid growing China-U.S. competition.
+## Was Abe Shinzo an Idealist?
+A new biography of Japan's longest-serving prime minister reevaluates his realist legacy.
 
-## A Deadly Flood Underscores the CCP-Imposed Information Vacuum in Tibet
-The disaster exposed a stark contrast: open reporting is emerging from Nepal, while information from Tibet remains almost entirely dependent on China’s tightly controlled state media.
+## Taiwan Finally Passed Its 2026 Budget. What Got Cut?
+The budget was passed almost 9 months late, amid growing concern that defense spending was being held up – especially funding for drones.
 
-## Micronesian Islands Meet Against Backdrop of Great Power Competition
-Micronesian governments are elevating unilateral hedging efforts in forums like the MIF, in pursuit of a unified risk-management strategy and regional identity.
-
-## Kazakhstan’s New Parliament Appoints Tokayev’s Pick, Aibek Dadebay, as Chair
-Kazakhstan’s new unicameral parliament voted in favor of appointing the leader of the Adilet party, a close confidant of President Tokayev, as its first chairman.
+## Ethanol Issue Has Entered Indian Kitchens, Impacting Household Budgets
+What began as an energy policy to reduce crude imports has travelled through the agricultural supply chain and ended up on the dinner table.
 
 ## A Rulebook for Surprises: Commanding Autonomous Aircraft
 My greatest challenge while flight testing collaborative combat aircraft was not troubleshooting errors at high speed in the cockpit. It was when, in a single keystroke, my job shifted from pilot to something like a dog handler — a supervisor of an autonomous agent. As a test pilot, my instinct is t
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m
-Brazil's Gabriel Jesus transfers from Premier League champions Arsenal to La Liga holders Barcelona on deadline day.
+## Deep-sea search begins for 20 people missing in Cyprus ferry disaster
+A deep-sea vessel from Turkiye joined the search on Tuesday for 20 people missing for two days.
 
-## Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?
-The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets.
+## US health authorities contradict state officials on measles-related deaths
+Clash with Pennsylvania comes as US records highest number of measles cases in decades.
 
-## Napoli’s ex Man Utd star McTominay needs surgery for irregular heartbeat
-Scotland international Scott McTominay, who joined Napoli from Manchester United, to undergo heart surgery.
+## The US military began striking targets in Iran, CENTCOM says
+The US military said it has begun striking targets in Iran.
 
-## How wildfires are scorching France’s wine industry
-Europe's largest wine exporter is already battling a cocktail of crisis from heatwaves to lower sales.
+## John Ternus succeeds Tim Cook as Apple CEO after 15 years
+Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones.
 
-## SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit
-The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.
+## Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers
+Pitso Mosimane replaces Hugo Broos as manager of the South Africa national football team following World Cup exit.
 
-## Irish minister calls for EU action in banning Israeli settlement trade
-Ireland’s defence minister has called on EU member states to take more action to ban trade with Israeli settlements.
+## China’s Xi makes first visit to Egypt in a decade, amid regional turmoil
+Chinese President Xi visits Egypt to deepen economic ties and align strategies amid Middle East crises.
 
-## Video: SCO summit leaders meet in aftermath of US war on Iran
-Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.
+## Ousted UK Prime Minister Keir Starmer to quit domestic politics
+Departed Labour Party leader now plans to focus on international affairs.
 
-## UN sounds climate alarm as China-Taiwan row threatens to overshadow forum
-The UN has raised fresh alarm over the climate crisis at the Pacific Islands Forum in Palau, amid China-Taiwan tensions.
+## Iran promises to respond to new wave of US strikes despite Trump’s threats
+Trump says the US attacks were 'large and powerful' and warns that Iran would be hit 'much harder' if it retaliates.
 
 ## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
 Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
