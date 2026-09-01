@@ -1,5 +1,23 @@
 # AION Intelligence
 
+## US Army secretary resigns after tension with Pete Hegseth
+Dan Driscoll latest senior military figure to quit, leaving a vacuum at top of the American military
+
+## Number of UK pensioners paying highest tax rates doubles in five years
+More than 1mn will pay extra on their retirement income, according to HMRC figures, as thresholds remain frozen
+
+## Retired Jewish police chief to stand for Arab-Israeli party in parliamentary election
+Yoav Segalovich will be a candidate for Raam in effort to show Arab-Jewish partnership is possible
+
+## FirstFT: Japan’s bonds and currency under pressure after Fed chair’s Jackson Hole speech
+Also in today’s newsletter: India’s GDP beats expectations and South Korea jails Unification Church leader over bribery scandal
+
+## Europeans shun Russian finance minister at US-hosted G20 meeting
+Anton Siluanov excluded from event photo despite ‘productive’ meeting with Treasury secretary Scott Bessent
+
+## Supreme Court allows construction of Trump’s White House ballroom to continue
+Ruling on $400mn project means building is likely to be completed
+
 ## Elliott builds stake in French industrial gas group Air Liquide
 Activist US hedge fund has targeted several European corporate giants in recent years
 
@@ -7,7 +25,7 @@ Activist US hedge fund has targeted several European corporate giants in recent 
 Oil prices rise after exchange of fire between warring countries ends weeks of relative quiet
 
 ## Swiss lawmakers call for softer banking regulation in victory for UBS
-Panel proposes that Switzerland’s largest financial institution could fully capitalise its global operations through a combination of equity and debt
+Panel proposes that Switzerland’s largest financial institution could fully capitalise its global operations through mix of equity and debt
 
 ## US regulator claims Amazon manipulated advertising prices
 Federal Trade Commission sues ecommerce giant alleging it overcharged about 1.2mn businesses leading to higher prices for consumers
@@ -18,17 +36,11 @@ As buyout groups reach middle age, playing with other people’s money only gets
 ## Trump says data centre critics ‘want to end up backwards and poor’
 US president urges voters to ‘let Data Reign’ as unpopular building boom roils midterm campaigns
 
-## Lionel Messi announces retirement from international football
-Superstar says he planned move two days after Argentina’s loss to Spain in July World Cup final
-
 ## George Santos banned from prediction platform Kalshi for manipulation
 Regulator says former US representative made public statements to boost the value of his own bets on whether he would attend the State of the Union address
 
 ## Don’t write off Russia’s defence industry yet
 Moscow’s arms manufacturers are adapting and innovating in ways that could threaten Nato in the future
-
-## How climate volatility shakes up companies’ earnings too
-Supply chains are vulnerable to heatwaves and cyclones
 
 ## Mahindra takes possession of 800 acres for biggest factory to make ICE vehicles, EVs and tractors
 Mahindra is taking the first 800 acres for its 1,500-acre Nagpur manufacturing hub, planned to make ICE vehicles, EVs and tractors, with capacity exceeding 6 lakh units annually
@@ -54,6 +66,21 @@ Satellite imagery, modelling and field studies had significantly improved India�
 ## Milky Mist Q1FY27 PAT up almost 10x, revenue up 44% on summer demand
 Company expects Panner to continue to be the its star product
 
+## Semicon 2.0: Government bets on advanced chips, talent
+
+
+## Record 7.5cr ITRs submitted before deadline
+
+
+## Maruti plans small EV push, targets wider charging infrastructure
+
+
+## ONGC to invest Rs 1L cr in 5 years
+
+
+## Economy grew 7.8% in Q1 despite Iran crisis and El Nino conditions
+India's economy recorded impressive growth of 7.8% during the April to June quarter, driven by a thriving manufacturing sector and a strong services industry. Domestic demand surged, bolstered by significant increases in investment and exports. Reflecting this positive trend, the government has upgr
+
 ## Gold pledged for loan stolen in bank robbery: How borrower won case for full value
 So, what happens if gold jewellery pledged against a gold loan is stolen from the bank? For a borrower, the loss can raise a bigger question than simply recovering the value of the gold. Should the bank pay only for the metal, or should the compensation also cover making charges and the value of sto
 
@@ -62,21 +89,6 @@ The month of July 2026 witnessed a remarkable surge in non-food bank credit. Len
 
 ## NSE's closing auction sees Rs 39,718 crore rush on first index rebalancing day
 The National Stock Exchange faced an exciting challenge on Monday as its closing auction mechanism tested its mettle. Investors were actively reshaping their portfolios ahead of index changes, leading to impressive trading volumes. Now celebrating its first month, the mechanism has confirmed its rol
-
-## New NPS PoP Charges: PFRDA sets Rs 200 onboarding fee, 0.20% annual PoP charge
-Under the new fee structure, subscribers registering for NPS through a PoP will be charged a one-time onboarding fee of Rs 200 for each Permanent Retirement Account Number (PRAN). However, the entire Rs 200 will not be taken from the subscriber’s account at once.
-
-## India's rice bowl gets global audience as 3,317 buyers sign up for BIRC 2026
-India's rice exporters look forward to a significant boost in international trade opportunities this October. With participation from over 3,300 buyers across 138 countries, the Bharat International Rice Conference is poised to be a game-changer. Key regions like Africa and the Gulf show heightened 
-
-## AI could be the next growth engine for Indian IT from FY27: Anand Rathi
-Indian IT firms expect a surge in growth as global investments pivot towards enterprise AI deployment. Starting in fiscal year twenty twenty-seven, this monumental shift from infrastructure development will fuel demand for services in data preparation and system integration. Notably, companies will 
-
-## What’s forced Russia to import 1 million barrels in 2 months from India
-Russia’s seaborne gasoline imports climbed to a record level of around 125,000 barrels per day (kbd) in August, which would amount to about 470,000 tonnes for the month. Reports suggest that Indian refiners supplied as much as 1 million barrels of gasoline to Russia over the past two months.
-
-## No internet needed: PhonePe brings UPI payments to over 200m feature phone users
-PhonePe has launched UPI 123Pay, enabling feature phone users to transact digitally. This service extends UPI payment capabilities to over two hundred million Indian feature phone users. The platform allows peer-to-peer and peer-to-merchant payments, and balance checks. It also offers an AI-powered 
 
 ## Shivraj reviews watershed scheme, calls for faster implementation to achieve drought-free India
 Shivraj reviews watershed scheme, calls for faster implementation to achieve drought-free India
@@ -102,6 +114,12 @@ According to police, all 32 passengers onboard were safely deboarded at Terminal
 ## 7 die, 5 injured as bus collides head-on with truck in Assam: Police
 According to the investigating officer Dhiren Saika Sonowal, the bus carried 14 passengers including a driver and a helper
 
+## Shein shares plunge up to 28% in grey market ahead of Hong Kong debut
+Shein Global Holdings shares plunged in the grey market day ahead of its Hong Kong debut, further shaking market confidence in the company’s valuation. On Monday evening its shares closed 13.1 per cent lower at HK$42.2 after dropping as much as 28 per cent, according to Futu Holdings data. With a bo
+
+## Foreign investors boost Chinese stock holdings as AI hardware, green energy lure inflows
+Foreign investors boosted exposures to yuan-traded Chinese stocks by about a third in the second quarter, buying into companies tied to the artificial intelligence supply chain and China’s strategic green-energy industry. Global fund managers held a combined 10.1 billion shares in mainland-listed co
+
 ## France takes aim at Shein, Temu, other fast fashion with levy on Asian e-commerce sites
 France will from Tuesday impose a fee on ultra-fast fashion items that will eventually reach almost €20 (US$2.32) per garment, as the government targets major Asian e-commerce platforms including Shein. The levy follows legislation passed by the French parliament in June to regulate “ultra-fast fash
 
@@ -119,12 +137,6 @@ Hong Kong leads Asia in high-growth start-up potential and ranks fifth globally,
 
 ## Hot property: Big banks, fashion stores seek ‘cheaper’, eye-catching Hong Kong retail
 From big banks to fashion brands, tenants are taking advantage of potential lower rents for retail space in Hong Kong’s prime areas as they utilise eye-catching locations to boost visibility towards customers, according to agents. HSBC is unveiling its first flagship branch at the Capitol Centre, wh
-
-## China’s 6 biggest state banks post rare shared growth as margins show tentative rebound
-China’s six largest state-owned banks recorded their first simultaneous rise in first-half revenue and net profit since 2022, according to interim results released last week, as margins that had been under pressure for two years showed tentative signs of stabilising. Industrial and Commercial Bank o
-
-## AI‑fuelled boom lifts global billionaire count, Hong Kong retains top spot in Asia
-Hong Kong maintained its lead as the Asian city with the most billionaires last year, though mainland Chinese cities were quickly catching up thanks to wealth accumulation from the artificial intelligence boom, according to New York-based Altrata. Globally, Hong Kong ranked second in number of billi
 
 ## Beijing and Washington Can Build AI Safety Despite Mutual Distrust
 Practical cooperation should exist alongside competition.
@@ -222,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Nothing is usable’: Nepal residents return to flood-ravaged homes
-Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.
+## US Army Secretary Daniel Driscoll submits resignation, media reports say
+Driscoll's resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.
 
-## How will the Mecca agreement become an operational framework?
-Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.
+## Three minors killed in Colombia armed group crackdown
+Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.
 
-## Ukrainians mourn community leader killed in Russian strike on Myla
-Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.
+## JERUSALEM DAILY: JOURNALISTS ATTACKED
+Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.
 
-## GTA 6: Why is the world’s most anticipated game facing backlash?
-You paid for it. But do you actually own it? GTA 6 is exposing a bigger battle over the future of gaming.
+## White House construction on $400m ballroom can go on, says US Supreme Court
+The decision replaces a temporary order issued earlier this month.
 
-## What to know: US court hearing held for alleged Lockerbie bombmaker
-Abu Agila Mohammad Mas’ud Kheir Al-Marimi is the third person charged in the downing of Pan Am Flight 103.
+## Poland opens terror probe into fire at factory supplying Ukraine drones
+Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.
 
-## Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque
-Israeli Minister Ben-Gvir storms Al-Aqsa Mosque compound with settlers, violating decades-old status quo arrangement.
+## Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal
+Victory ​lifts Arsenal to six points ⁠along with Man ⁠City, Hull City and Chelsea, while Villa remain without a point.
 
-## Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem
-Far-right minister entered Islam’s third-holiest site alongside settlers under protection of Israeli occupation forces.
+## Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world
+The Russian and Chinese leaders met on the sidelines of the SCO summit.
 
-## Top US general says no plans to send troops to polls for November elections
-Remarks come in response to concerns from Democrats that military could be used to interfere in elections.
+## Argentinian footballer Lionel Messi announces his retirement
+Argentinian footballer Lionel Messi announces his retirement
 
 ## India’s Q1 GDP growth quickens to 7.8% as consumption, capex offset US-Iran war shock
 India’s GDP grew 7.8% in Q1 FY27, up from a revised 6.9% a year earlier, driven by strong consumption, exports and government capital spending. Growth beat the 7.3% forecast in an Economic Times poll and the RBI’s 7% estimate.
