@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Tim Cook to be paid $47mn as Apple’s executive chair
+Pay package signals big role for former CEO as his successor John Ternus gets $58mn
+
+## China’s real robot revolution is not about humanoids
+The country is using its superpower of scaling and building supply chains to challenge the global industry
+
+## Germany blames Russia for Leipzig drone attack
+Interior minister Alexander Dobrindt says his country is ‘not at war, but a daily target of hybrid warfare’
+
+## FirstFT: Global bond sell-off deepens
+Also in today’s newsletter: Shein shares slide in Hong Kong debut and South Korea unveils record budget increase
+
 ## US diesel prices soar as Trump hauls in refiners
 President holds White House meeting as fresh escalation in his Iran war threatens new inflationary spiral
 
@@ -9,35 +21,17 @@ Beijing objects to language calling for elimination of ‘non-market’ policies
 ## US defends Venezuela deal as Chevron prepares to expand operations
 Trump administration justifies agreement as a way to expel Chinese and Russian adversaries from oilfields in ‘our hemisphere’
 
-## Andy Burnham accused of taking the country back to the 1970s
+## Andy Burnham accused of taking Britain back to the 1970s
 Conservative leader Kemi Badenoch says new prime minister is living in the past
 
 ## Russia secretly helping Iran develop supersonic cruise missiles
 Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran
 
-## US launches further strikes on Iran as conflict flares up
-Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation
-
-## AI hits college graduates in the heart of America’s data centre boom
-Research shows job postings in Texas have dropped for artificial intelligence-exposed occupations
-
-## Zambian president inaugurated after election violence
-Hakainde Hichilema sworn in for a second term after main rival was jailed in post-election turmoil
-
 ## Warsh and peace
 Bond yields keep rising after the Fed chair’s Jackson Hole speech
 
-## Germany blames Russia for Leipzig drone attack
-Interior minister Alexander Dobrindt says his country is ‘not at war, but a daily target of hybrid warfare’
-
 ## GoPro: a totally normal, unremarkable piece of merger activity
 Camera action
-
-## America can’t win the AI race if the rollout lacks public support
-The US will fall behind China if people believe the technology is something being done to them rather than built with them
-
-## Action camera maker GoPro to be acquired after decade-long decline
-Shares jump as much as 80% after announcement of $285mn cash deal with AI hardware group
 
 ## Blackstone exits EPL with entire 26.38% stake sale for ₹2,032 crore
 The stake sale comes as EPL prepares for a proposed merger with Indovida India to create a larger packaging entity.
@@ -66,6 +60,15 @@ The governing council also unanimously elected Bharat Kumar Chordia, MD of Chenn
 ## Rs 25,000 salary to Rs 1 crore EPF corpus: Compounding math can make you a crorepati
 Over time, the interest earned on the accumulated balance earns interest, allowing compounding to steadily increase your retirement savings. With regular contributions maintained over a long period, an employee can potentially build an EPF corpus of Rs 1 crore or more.
 
+## 5-member NCLT bench stays Subhash Chandra '6.5cr repayment order
+Personal guarantor, P 12
+
+## Sun Pharma offers US cheaper drug supply
+
+
+## TCS pips Accenture to take over Best Buy's India GCC ops
+Five-Year Deal Size Estimated At 2k Cr, To Deepen Cos' Ties
+
 ## India’s tech jobs face another jolt: Oracle to cut 3,000, Microsoft puts 500 on PIPs
 Global tech giant Microsoft has put around 500 employees in India on performance improvement plans (PIPs), while Oracle is preparing to cut roughly 3,000 jobs in the country as technology companies reorganise their workforces and redirect spending towards newer areas.
 
@@ -77,15 +80,6 @@ His financial journey, however, did not begin with a large salary or a carefully
 
 ## Centre halves sugar stock limit for dealers to curb hoarding, price rise
 
-
-## India's GDP grows 7.8% in Q1: Factors powering the economy despite global turmoil
-In the first quarter, India showcased impressive economic resilience with a remarkable 7.8% GDP growth. The surge was notably driven by a surge in domestic demand and the services sector. Additionally, investment activity picked up pace, enhancing the overall economic landscape. This achievement sta
-
-## Cheeni Kum? Imported sugar is yet to land, so why is it getting cheaper
-Sugar prices have surged notably, straining household budgets throughout India. This dramatic increase is attributed to lower domestic production coupled with heightened festive demand. Although government actions, such as permitting duty-free imports and implementing stock limits, have helped reduc
-
-## Onion price hike: Centre expands Rs 35/kg sale to 19 cities amid supply concerns
-The Centre has expanded its discounted onion sale to nineteen cities. Onions are now available at Rs 35 per kg, down from retail prices. Mobile vans will distribute affordable onions across Delhi's thirteen districts. This intervention aims to ensure essential food items remain accessible. The gover
 
 ## Nepal floods: 163 Indians rescued, 151 leave China as India steps up rescue operations, says Centre
 The MEA said the Indian tunnel rescue team established a foothold at hydropower tunnels in Chilime.
@@ -135,6 +129,12 @@ Foreign investors are expected to keep adding to their China A-share holdings, t
 ## Citigroup boosts headcount by 25% on north Asia desk, Invesco names new Asia-Pacific head
 US financial institutions Citigroup and Invesco have separately announced that they would continue to expand their presence in Asia, even as the financial industry faces geopolitical uncertainties and Beijing tightens its control on overseas investment. Citi would boost the headcount of its north As
 
+## Nepal’s Deadly Floods Put China and India on Edge
+Geopolitical conflict will only get worse with climate change.
+
+## Moscow’s Moment of Global Summitry
+The war in Ukraine may rage on, but Russia remains far from an international pariah.
+
 ## Trump’s Venezuela Oil Deal Is a Farce
 There aren’t 65 billion barrels, they won’t be lowering gas prices, and they won’t refill the SPR.
 
@@ -152,12 +152,6 @@ The race to succeed António Guterres has started—and four very different cand
 
 ## The Free Speech Ideologue Taking on Europe
 Sarah Rogers’s combative online persona has earned her a reputation. But the State Department official is more deliberative than she seems.
-
-## Beijing and Washington Can Build AI Safety Despite Mutual Distrust
-Practical cooperation should exist alongside competition.
-
-## U.S.-Iran Fighting Reignites
-A U.S. attack on Larak Island paves the way for renewed heavy warfare.
 
 ## Japan, South Korea, and the New Logic of Nuclear Energy Security in Northeast Asia
 The two neighbors are reshaping the nuclear politics of Northeast Asia – and doing so increasingly in concert with Washington.
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Fernandez transfers to Man City from Chelsea in joint British record fee
+Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).
+
+## Cisco accused of fostering a hostile workplace for Muslim and Arab employees
+Cisco employees allege harassment after internal activism against technology sales to the Israeli military.
+
+## US House passes funding bill to avert government shutdown ahead of midterms
+The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.
+
+## US urges G20 to cut trade imbalances, focus on China
+US Treasury Secretary Bessent urges other G20 countries to do more to protect their economies from Chinese imports.
+
+## US energy secretary will travel to Venezuela to unveil oil arrangement
+Venezuela's National Assembly voted to back the 65-billion-barrel oil deal, despite no details being publicly released.
+
+## Urgent need for access to Iranian sites, cautions UN nuclear watchdog
+The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.
+
 ## Zelenskyy warns airlines as Ukrainian drones target Russian airspace
 President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.
 
 ## Deadly car bomb attack at Colombia police station
 Deadly car bomb attack at Colombia police station
-
-## Palestinians mourn children killed in Israeli airstrikes on Gaza City
-Three Palestinian children were among four people killed in Israeli strikes on Gaza.
-
-## Police arrest 34 after deadly gang shootout in eastern Netherlands
-Several foreign suspects were among those arrested, according to prosecutors.
-
-## UN slashes food aid for occupied West Bank and Gaza amid funding shortfall
-International aid organisations are struggling for money as the United States has led a sharp cut in Western donations.
-
-## Iranian state media announces numerous US strikes on the country
-Iranian state television has reported numerous strikes on Iranian territory on Tuesday.
-
-## What’s driven the defence deal between Israel and Greece?
-Two countries sign $3.5bn weapons agreement.
-
-## Canada’s Carney says US must ‘start being serious’ to resolve trade dispute
-Carney and Trump continue to trade barbs amid ongoing threats against Canadian sovereignty and economic disputes.
 
 ## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
 Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
