@@ -1,13 +1,31 @@
 # AION Intelligence
 
+## US diesel prices soar as Trump hauls in refiners
+President holds White House meeting as fresh escalation in his Iran war threatens new inflationary spiral
+
+## China derails consensus on communiqué after US-hosted G20
+Beijing objects to language calling for elimination of ‘non-market’ policies to curb trade imbalances
+
+## US defends Venezuela deal as Chevron prepares to expand operations
+Trump administration justifies agreement as a way to expel Chinese and Russian adversaries from oilfields in ‘our hemisphere’
+
+## Andy Burnham accused of taking the country back to the 1970s
+Conservative leader Kemi Badenoch says new prime minister is living in the past
+
+## Russia secretly helping Iran develop supersonic cruise missiles
+Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran
+
 ## US launches further strikes on Iran as conflict flares up
 Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation
 
-## Burnham promises to ‘bring back hope’ in first Commons appearance as PM
-Former mayor of Greater Manchester accused of ‘living in the past’ by Tory leader Kemi Badenoch
+## AI hits college graduates in the heart of America’s data centre boom
+Research shows job postings in Texas have dropped for artificial intelligence-exposed occupations
 
 ## Zambian president inaugurated after election violence
 Hakainde Hichilema sworn in for a second term after main rival was jailed in post-election turmoil
+
+## Warsh and peace
+Bond yields keep rising after the Fed chair’s Jackson Hole speech
 
 ## Germany blames Russia for Leipzig drone attack
 Interior minister Alexander Dobrindt says his country is ‘not at war, but a daily target of hybrid warfare’
@@ -15,32 +33,14 @@ Interior minister Alexander Dobrindt says his country is ‘not at war, but a da
 ## GoPro: a totally normal, unremarkable piece of merger activity
 Camera action
 
-## Governments should heed the bond market’s warning
-Financial repression is not a sustainable way to manage rising borrowing costs
-
-## IMF agrees $2.2bn bailout for Senegal
-West African nation will seek to restructure its external debts after last year’s revelations of extensive misreported borrowing
-
-## Global bond sell-off deepens amid inflation fears
-UK borrowing costs rise to highest level since 2008 and Japanese yields hit peaks not seen since 1990s
-
 ## America can’t win the AI race if the rollout lacks public support
 The US will fall behind China if people believe the technology is something being done to them rather than built with them
 
 ## Action camera maker GoPro to be acquired after decade-long decline
 Shares jump as much as 80% after announcement of $285mn cash deal with AI hardware group
 
-## Swiss finance minister hits out at move to water down UBS capital plans
-Karin Keller-Sutter criticises lawmakers for compromise proposal ‘in favour of the bank and against taxpayers’
-
-## Trump summons US refiners as Iran war pushes up fuel prices
-President to hold White House meeting on Tuesday as high living costs sap his popularity ahead of midterm elections
-
-## Saudi and South Korean oil tankers hit in Strait of Hormuz
-The increase in shipping attacks comes after a period of relative calm in the war
-
-## Why Andy Burnham should say: Jackdaw yes, Rosebank no
-Despite the UK’s best efforts, its energy system will require natural gas for decades to come
+## Blackstone exits EPL with entire 26.38% stake sale for ₹2,032 crore
+The stake sale comes as EPL prepares for a proposed merger with Indovida India to create a larger packaging entity.
 
 ## Mahanadi Coalfields IPO: Coal India to sell 10% stake
 The proposed offering comes as India’s primary market shows signs of revival after a sluggish start to the year.
@@ -62,9 +62,6 @@ The State will launch its “GCC boilerplate” — a plug-and-play regulatory b
 
 ## FADA appoints Sai Giridhar as its 38th President
 The governing council also unanimously elected Bharat Kumar Chordia, MD of Chennai-based Khivraj Motors, as the Treasurer
-
-## upGrad completes Unacademy acquisition at just over $200 million, marking steep valuation reset
-The deal values Unacademy at more than 90 per cent below its peak valuation of $3.44 billion in 2021
 
 ## Rs 25,000 salary to Rs 1 crore EPF corpus: Compounding math can make you a crorepati
 Over time, the interest earned on the accumulated balance earns interest, allowing compounding to steadily increase your retirement savings. With regular contributions maintained over a long period, an employee can potentially build an EPF corpus of Rs 1 crore or more.
@@ -138,6 +135,12 @@ Foreign investors are expected to keep adding to their China A-share holdings, t
 ## Citigroup boosts headcount by 25% on north Asia desk, Invesco names new Asia-Pacific head
 US financial institutions Citigroup and Invesco have separately announced that they would continue to expand their presence in Asia, even as the financial industry faces geopolitical uncertainties and Beijing tightens its control on overseas investment. Citi would boost the headcount of its north As
 
+## Trump’s Venezuela Oil Deal Is a Farce
+There aren’t 65 billion barrels, they won’t be lowering gas prices, and they won’t refill the SPR.
+
+## Nepal Pays the Price for Climate Change
+Melting glaciers and devastating floods are hitting the Himalayas.
+
 ## Cognitive Dissonance Dominates Hormuz
 Ships can’t navigate a reality that exists only in Trump’s head.
 
@@ -155,12 +158,6 @@ Practical cooperation should exist alongside competition.
 
 ## U.S.-Iran Fighting Reignites
 A U.S. attack on Larak Island paves the way for renewed heavy warfare.
-
-## Jordan Sees Bigger Threat From Israel Than Iran
-For Amman, Israeli annexation of the West Bank looms as an existential risk.
-
-## It’s Time to Rein in Trump’s ‘Wars on Terror’
-Congress must act to address new and old executive abuses.
 
 ## Japan, South Korea, and the New Logic of Nuclear Energy Security in Northeast Asia
 The two neighbors are reshaping the nuclear politics of Northeast Asia – and doing so increasingly in concert with Washington.
@@ -186,6 +183,9 @@ The budget was passed almost 9 months late, amid growing concern that defense sp
 ## Ethanol Issue Has Entered Indian Kitchens, Impacting Household Budgets
 What began as an energy policy to reduce crude imports has travelled through the agricultural supply chain and ended up on the dinner table.
 
+## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
+Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
+
 ## A Rulebook for Surprises: Commanding Autonomous Aircraft
 My greatest challenge while flight testing collaborative combat aircraft was not troubleshooting errors at high speed in the cockpit. It was when, in a single keystroke, my job shifted from pilot to something like a dog handler — a supervisor of an autonomous agent. As a test pilot, my instinct is t
 
@@ -206,9 +206,6 @@ Walk into the Pentagon, climb the escalator, and an Uncle Sam-style poster point
 
 ## The (Un)importance of the Battle of Tours
 Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, may look important, but in fact had negligible strategic or political effects or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles never end.
-
-## Beneath the Surface: Overlooked Cyber Security Threats
-Cyber security remains a persistent concern for public and private sector organizations alike. Given the potential impact of cyber threats from criminal groups, adversarial states, and extremists, the topic draws substantial attention. Yet, in a field that evolves so quickly, some risks slip through
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Deep-sea search begins for 20 people missing in Cyprus ferry disaster
-A deep-sea vessel from Turkiye joined the search on Tuesday for 20 people missing for two days.
+## Zelenskyy warns airlines as Ukrainian drones target Russian airspace
+President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.
 
-## US health authorities contradict state officials on measles-related deaths
-Clash with Pennsylvania comes as US records highest number of measles cases in decades.
+## Deadly car bomb attack at Colombia police station
+Deadly car bomb attack at Colombia police station
 
-## The US military began striking targets in Iran, CENTCOM says
-The US military said it has begun striking targets in Iran.
+## Palestinians mourn children killed in Israeli airstrikes on Gaza City
+Three Palestinian children were among four people killed in Israeli strikes on Gaza.
 
-## John Ternus succeeds Tim Cook as Apple CEO after 15 years
-Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones.
+## Police arrest 34 after deadly gang shootout in eastern Netherlands
+Several foreign suspects were among those arrested, according to prosecutors.
 
-## Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers
-Pitso Mosimane replaces Hugo Broos as manager of the South Africa national football team following World Cup exit.
+## UN slashes food aid for occupied West Bank and Gaza amid funding shortfall
+International aid organisations are struggling for money as the United States has led a sharp cut in Western donations.
 
-## China’s Xi makes first visit to Egypt in a decade, amid regional turmoil
-Chinese President Xi visits Egypt to deepen economic ties and align strategies amid Middle East crises.
+## Iranian state media announces numerous US strikes on the country
+Iranian state television has reported numerous strikes on Iranian territory on Tuesday.
 
-## Ousted UK Prime Minister Keir Starmer to quit domestic politics
-Departed Labour Party leader now plans to focus on international affairs.
+## What’s driven the defence deal between Israel and Greece?
+Two countries sign $3.5bn weapons agreement.
 
-## Iran promises to respond to new wave of US strikes despite Trump’s threats
-Trump says the US attacks were 'large and powerful' and warns that Iran would be hit 'much harder' if it retaliates.
+## Canada’s Carney says US must ‘start being serious’ to resolve trade dispute
+Carney and Trump continue to trade barbs amid ongoing threats against Canadian sovereignty and economic disputes.
 
 ## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
 Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
