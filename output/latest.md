@@ -1,88 +1,130 @@
 # AION Intelligence
 
-## EU diplomatic chief faces up to calls for powers to shift to Commission
-Also in this newsletter: The Italian feud being fought in Luxembourg
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
 
-## Japan’s benchmark bond yield hits 3% for first time since 1996
-US Treasury secretary Scott Bessent sends signal that he expects Bank of Japan to raise rates soon
+## When is an engineer not an engineer?
+AI requirements and technical titles are more common in job ads but do not always reflect the reality of roles
 
-## Shein shares slide 10% in Hong Kong trading debut
-Fast-fashion retailer completes long-delayed IPO at bargain-basement valuation
+## FirstFT: Global bond sell-off deepens
+Also in today’s newsletter: Shein’s rollercoaster ride of a first day of trading and Wall Street banks push big law firms to cut fees
 
-## FirstFT: Big Law urged to cut fees amid AI
-Also in today’s newsletter: UBS regulatory win and Eurozone inflation
+## Eurozone inflation rises to 3.3% in August
+ECB expected to raise interest rates next week as higher energy prices bite
 
-## This time it really was different
-Another look at why 2022-23 wasn’t like 1982-83
+## Global bond sell-off deepens amid inflation fears
+UK borrowing costs rise to highest since 2008 while Japan yields hit levels not seen since 1990s
+
+## Private equity firms snap up more London-listed companies
+Bodycote agrees takeover by Veritas and Epiris to acquire Gamma Communications
 
 ## ‘Conflict of attrition’ in Iran could keep inflation high, ECB policymaker warns
 Finnish governor Olli Rehn strikes hawkish tone ahead of expected interest rate rise in the Eurozone
 
+## Shein shares slide as much as 10% in Hong Kong debut
+Fast-fashion retailer completes long-delayed IPO at bargain-basement valuation
+
+## Partners Group replaces chief executive as pressure grows on flagship fund
+David Layton to step down after surge in redemption requests hits share price of Swiss private equity manager
+
+## How Aston Martin’s latest financing sparked a bondholder revolt
+Luxury car maker’s controversial deal with BlackRock-owned credit firm HPS set up high-stakes legal battle
+
+## Ikea cuts prices in Europe by €1.2bn to counter cost of living crisis
+About 1,500 products in 20 European countries will be cheaper as consumer confidence continues to remain depressed.
+
+## LSE prepares to launch tokenised stocks in digital markets push
+Partnership with Kraken owner is latest sign of UK’s drive to become crypto-asset trading hub
+
 ## Apple’s new boss starts out asset-light and option-rich
 The greatest asset John Ternus inherits is optionality
 
-## A bankruptcy brawl on the golf course
-LIV Golf may file for Chapter 11 protection as soon as next week
+## Sensex today | Stock Market Live Updates: Sensex ends 12 pts down, Nifty closes at 24,055
+Sensex, Nifty, Share Prices LIVE: Indian equities remained range-bound at midday as banking stocks faced selling pressure, offsetting gains in IT and select heavyweights, while rising crude prices and global bond yields weighed on sentiment ahead of key technical levels around 24,000.
 
-## Can Trump’s 65bn-barrel deal revive Venezuela’s oil industry?
-Analysts warn agreement may not succeed in attracting investment from US groups and could destabilise country’s interim president
+## Highway toll hikes to nearly double to 6.4% next year, pinch consumers, logistics firms
+FY27 inflation will feed into tariffs from April 2027; older highways could see 4.5–5.5% increase as WPI-linked formula kicks in
 
-## The Meta settlement is regulation by enforcement
-Social media groups are finding out the downside of avoiding federal oversight
+## NSE revises quantity freeze limits for index F&O contracts from Sep 1
+Under the revised limits, the quantity freeze for Bank Nifty is 600, while Nifty and FinNifty have a limit of 1,800 each. Midcap Nifty has a limit of 2,800, Nifty Next 50 has a limit of 600 and NiftyFPI has a limit of 8,500.
 
-## Disasters to cost world $450bn a year from climate change and development
-More than half of losses not covered by insurance as carriers carve out risk and cut exposure
+## SC seeks Centre's view on introduction of totalisers for counting of votes in EVMs
+The petition has also sought direction to the authorities to take steps to use totaliser for counting of votes
 
-## Wall Street banks push Big Law to cut fees because of AI
-Goldman Sachs, Morgan Stanley and Citi tell law firms their bills should fall because technology has made routine work faster
+## Gaja Alternative Asset Management gets SEBI nod for new fund
+The term of Gaja Capital India Fund V will begin from its initial closing and run for 10 years, with an option to extend the fund by two additional one-year periods
 
-## India's factory growth drops to five-year low in August on weakening demand: PMI
-Factory headcount falls for the first time in 30 months in August, though the decline was only marginal
+## Sodexo appoints Jérôme Lemouchoux as Chairman & General Manager, Greater China
+Sodexo appoints Jérôme Lemouchoux as Chairman & General Manager, Greater China
 
-## From Darjeeling’s hillside plots to wider markets: Makaibari Collective takes root
-The initiative connects trusted branding with livelihoods, resilience and organic cultivation locally
+## izmo Microsystems Develops Indigenous 40 GHz RF Semiconductor Package for Defence and Secure Communication Applications
+izmo Microsystems Develops Indigenous 40 GHz RF Semiconductor Package for Defence and Secure Communication Applications
 
-## Sensex today | Stock Market Live Updates: Sensex, Nifty recover early losses, trade flat; Adani Ports, ITC top gainers
-Sensex, Nifty, Share Prices LIVE: Sensex traded 4 pts lower at 76,953.15 at 10:29 am after opening at 76,994.11 from the previous close of 76,957.27. Nifty 50 was down 19 pts or 0.08% to 24,061.15
+## DayOne and TNB Explore Up To 1.5 GW of On-Site Power Generation to Advance Malaysia's Energy Resilience and Digital Economy
+DayOne and TNB Explore Up To 1.5 GW of On-Site Power Generation to Advance Malaysia's Energy Resilience and Digital Economy
 
-## Mahindra SUV sales jump 50%, JSW MG by 14% in August
-M&M sold 59,257 SUVs in August, while JSW MG Motor India reported wholesale sales of 7,508 units, up 14% year-on-year.
+## Rs 1 crore at 26 to Rs 7 crore net worth at 31: How Bengaluru techie achieved this
+His financial journey, however, did not begin with a large salary or a carefully constructed investment portfolio. He claims he started investing small amounts in mutual funds soon after college, when he first became interested in financial independence.
 
-## AltEons secures strategic investment from Sanmar Group
-The renewable energy platform is targeting an 800 MW pipeline by year-end as demand for sustainable power solutions grows among businesses
+## Onion price hike: Centre expands Rs 35/kg sale to 19 cities amid supply concerns
+The Centre has expanded its discounted onion sale to nineteen cities. Onions are now available at Rs 35 per kg, down from retail prices. Mobile vans will distribute affordable onions across Delhi's thirteen districts. This intervention aims to ensure essential food items remain accessible. The gover
 
-## FDA busts food expiry date tampering racket in Navi Mumbai; ₹76 lakh goods seized
-The operation involved erasing original manufacturing and expiry dates from packaging, printing new dates, and placing fresh stickers over original ingredient and nutritional information to resell expired stock
+## Cheeni Kum? Imported sugar is yet to land, so why is it getting cheaper
+Sugar prices have surged notably, straining household budgets throughout India. This dramatic increase is attributed to lower domestic production coupled with heightened festive demand. Although government actions, such as permitting duty-free imports and implementing stock limits, have helped reduc
 
-## India achieved 7.8% growth despite wars, instability: PM Modi
-In a video message on Instagram, PM Modi congratulates people on first-quarter GDP growth rate, which he said was a result of the resolve and effort of the people
+## Sold home jointly owned with wife? You can claim 100% LTCG benefit - here’s how
+The most important point to note in this matter is the proof of the financing for the first property. If you have a clear trail and adequate documentation that can establish the money to buy the first property was entirely yours, then the new property need not be purchased in joint names.
 
-## Nifty slips below 24,100 as crude spikes; ITC, Bharti Airtel gain, TCS, Nestle decline
-Strong domestic GDP growth and sustained DII buying offered some support, though global cues kept investors cautious at the start of trade
-
-## Rupee gains 26 paise as 7.8% GDP growth offsets global market jitters
-On Tuesday, the Indian Rupee showcased its strength, appreciating against the US dollar. This upward shift is attributed to vigorous domestic economic growth alongside strong portfolio inflows. Notably, the rupee found temporary support from MSCI-related investments, overcoming the initial sluggishn
-
-## Stock Market Live Updates Today: Markets open flat: Sensex down 19 points, Nifty at 24,078
+## GST collections jump 14.8% to record Rs 1.99 lakh crore in August
 
 
-## Commercial LPG prices raised by Rs 9.5 for every 19kg cylinder; ATF rates also hiked
+## Gold price prediction today: Will gold trade with bearish bias? Check September 1, 2026 outlook
+Gold price prediction today:Gold prices are under pressure due to the US Federal Reserve chair’s hawkish outlook, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+
+## Namo Bharat: India’s fastest train corridor to soon meet 60% of power needs by solar
+The Delhi-Meerut Namo Bharat corridor is set to receive power from a 110 MW captive solar plant, which is expected to fulfil nearly 60% of the corridor’s electricity needs. The National Capital Region Transport Corporation (NCRTC) has signed a power purchase agreement with NIRL NCRTC Renewables Limi
+
+## Shun foreign holidays, weddings abroad, buy gold only if needed: PM Modi's 'vocal for local' pitch
 
 
-## Top stocks to buy or sell today: Stock market recommendations for September 1, 2026 - check list
-Stock market recommendations: Indusind Bank, Computer Age Management Services (CAMS), and Dixon Technologies (India) are the top stocks to buy that have been picked by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for September 1, 2026.
+## Why PM Modi is again asking Indians not to buy gold, travel or 'marry' abroad
+The appeal, made on Tuesday in a video message from Bishkek, comes even as India has posted a stronger-than-expected 7.8% economic growth this quarter.
 
-## Soota’s Happiest Minds to merge with ITC Infotech
+## Police can't pick and choose accused to arrest: Delhi HC
+Police can't pick and choose accused to arrest: Delhi HC
 
+## UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi
+UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi
 
-## Economists raise growth projections after Q1 show
+## Woman’s dismembered body found in overhead tanks of Tamil Nadu houses: Cops
+Police said that prima facie evidence suggests ‘murder for gain’ as the motive, given that the victim’s jewelry is missing
 
+## Supreme Court quashes all FIRs across the country against NEET paper leak protesters
+The government had assured the students would not be targeted or harassed in connection with the agitation.
 
-## Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut
-On Tuesday, oil prices saw a significant uptick, driven by escalating tensions between the US and Iran and looming risks to supply chains. Brent crude hit $91.04, while WTI crude climbed to $86.55 per barrel. The Strait of Hormuz is a focal point of concern for global oil supply stability. Additiona
+## Mamata Banerjee's niece found dead at her residence in West Bengal's Birbhum, say police
+The 28-year-old's body was found from a room on the second floor of her house in Rampurhat's Kusumba village.
 
-## CAS smooth on MSCI index rebalancing day
+## Centre halves sugar stock limit for dealers to 2,000 quintals from September 15
+The 4,000-quintal limit, imposed August 1, was itself introduced after sugar prices began rising sharply.
 
+## 3 of kin, including 12-yr-old daughter die in Guwahati landslide, 1 rescued: Cop
+The incident happened around 8am near Lakshmi Mandir in the Mathgharia area, where a portion of a hill collapsed and fell onto the house
+
+## China ends dividend tax exemption for expats, applying 20% rate
+China’s tax authorities announced on Tuesday that the country would end the tax exemption for dividends earned by expatriates at foreign-funded firms, setting a 20 per cent rate effective immediately. The measures mainly target “interest, dividend and bonus income” for individual income tax purposes
+
+## Shein slips on Hong Kong debut amid fast-fashion challenges
+Fast-fashion retailer Shein fell on its Hong Kong trading debut as the unprofitable company contends with rising competition and the loss of tax breaks in key markets. Its shares dropped 0.1 per cent from the initial public offering (IPO) price to close at HK$48.50. They earlier slumped as much as 1
+
+## Global investors descend on China’s Shenzhen to ride wave of AI and robotics opportunities
+Shenzhen, the southern Chinese city home to US-sanctioned telecoms giant Huawei Technologies and drone maker DJI, has seen an influx of investors and business leaders amid rising global interest in Chinese artificial intelligence and robotics. On Tuesday, the tech hub hosted investor conferences led
+
+## Foreign investors expected to eye more China A shares – but pace set to ease: analyst
+Foreign investors are expected to keep adding to their China A-share holdings, though the pace of buying is likely to slow from the surge in the first half of the year, according to a UBS analyst. “We still expect net inflows in the second half, but the pace will be somewhat slower than in the first
+
+## Citigroup boosts headcount by 25% on north Asia desk, Invesco names new Asia-Pacific head
+US financial institutions Citigroup and Invesco have separately announced that they would continue to expand their presence in Asia, even as the financial industry faces geopolitical uncertainties and Beijing tightens its control on overseas investment. Citi would boost the headcount of its north As
 
 ## Asian healthcare deals heat up as investors bet big on brain tech and surgical robotics
 Private investors in Asia, including family offices operating in Hong Kong, are showing a growing appetite for advanced medical technologies such as brain-computer interfaces and surgical robotics, as healthcare deal activity picks up across the region amid China’s biotechnology boom. “Asia is agein
@@ -93,20 +135,8 @@ With expectations of a quarter-percentage-point increase in the US Federal Reser
 ## China’s top brokerages step up global push as overseas profits surge
 China’s leading brokerages are accelerating their push overseas, pouring billions of yuan into their international arms as cross-border deals expand and profits from overseas operations grow, according to their latest interim reports. Citic Securities, one of China’s largest brokerages, saw revenue 
 
-## Shein shares plunge 10% in Hong Kong debut following US$1.7 billion listing
-Shein Global Holdings plunged as much as 10 per cent in its Hong Kong trading debut on Tuesday after raising HK$13.6 billion (US$1.7 billion), further shaking market confidence in the company’s valuation. The shares opened flat at the offer price of HK$48.56 before falling as much as 10 per cent to 
-
-## Foreign investors boost Chinese stock holdings as AI hardware, green energy lure inflows
-Foreign investors boosted exposures to yuan-traded Chinese stocks by about a third in the second quarter, buying into companies tied to the artificial intelligence supply chain and China’s strategic green-energy industry. Global fund managers held a combined 10.1 billion shares in mainland-listed co
-
-## France takes aim at ultra-fast fashion with fee per garment
-France will from Tuesday impose a fee on ultra-fast fashion items that will eventually reach almost €20 (US$23.20) per garment, as the government targets major Asian e-commerce platforms including Shein. The levy follows legislation passed by the French parliament in June to regulate “ultra-fast fas
-
-## Former top European official adopts bullish tone on China-EU trade talks as deadline nears
-A former top European Union official has struck a bullish tone on the outlook for China-EU trade talks, saying he expects progress in the coming months. Charles Michel, president of the European Council from 2019 to 2024, told reporters in a media briefing in Shanghai on Monday that both sides were 
-
-## China’s Z.ai revenue jumps 400% as total losses narrow on explosive cloud gains
-Chinese artificial intelligence company Z.ai on Monday reported a 400 per cent increase in first-half revenue, driven by explosive growth in its open platform and application programming interface business, which helped narrow total losses despite higher research and development spending. Revenue fo
+## The Free Speech Ideologue Taking on Europe
+Sarah Rogers’s combative online persona has earned her a reputation. But the State Department official is more deliberative than she seems.
 
 ## Beijing and Washington Can Build AI Safety Despite Mutual Distrust
 Practical cooperation should exist alongside competition.
@@ -129,8 +159,20 @@ The U.S. president will remain disruptive on the global stage, but he is losing 
 ## Can Scandals Influence Midterm Elections?
 They did in 2006—but only when framed by Democrats in one specific way.
 
-## Iceland’s EU Ambitions
-U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
+## Vietnam’s Expanding Strategic Partnerships: Why Canada Could Be Next
+Recent developments suggest that the two middle-powers are on the cusp of an important diplomatic upgrade.
+
+## Indonesia, United States Kick Off Annual Multinational Military Exercises
+Super Garuda Shield 2026 will involve more than 4,700 troops from 13 nations, and observers from a further eight others.
+
+## Myanmar’s Min Aung Hlaing to Visit Vietnam Soon, State Media Says
+All four mainland Southeast Asian states have now extended an official invitation to the general-turned-president since his inauguration in April.
+
+## The ‘Unique’ Communications That Saved Lives Before Nepal’s Devastating Flood
+Survivors and experts say that instant word-of-mouth warnings may have saved hundreds of lives on August 26.
+
+## How Great Power Rivalry Is Fracturing the Pacific Islands Forum
+Absences from this year's Leaders' Meeting are raising questions about the group's solidarity amid growing China-U.S. competition.
 
 ## A Deadly Flood Underscores the CCP-Imposed Information Vacuum in Tibet
 The disaster exposed a stark contrast: open reporting is emerging from Nepal, while information from Tibet remains almost entirely dependent on China’s tightly controlled state media.
@@ -141,20 +183,14 @@ Micronesian governments are elevating unilateral hedging efforts in forums like 
 ## Kazakhstan’s New Parliament Appoints Tokayev’s Pick, Aibek Dadebay, as Chair
 Kazakhstan’s new unicameral parliament voted in favor of appointing the leader of the Adilet party, a close confidant of President Tokayev, as its first chairman.
 
-## Hitting a High Point: The Australia-Indonesia 2+2
-The significance of the 2+2 is the growing web of cooperation between Canberra and Jakarta.
+## A Rulebook for Surprises: Commanding Autonomous Aircraft
+My greatest challenge while flight testing collaborative combat aircraft was not troubleshooting errors at high speed in the cockpit. It was when, in a single keystroke, my job shifted from pilot to something like a dog handler — a supervisor of an autonomous agent. As a test pilot, my instinct is t
 
-## What Zheng He’s Changing Role Reveals About China’s Maritime Strategy
-The historical figure has been invoked to advance different symbolic ends as Beijing’s goals and capabilities change.
+## The Educated Operator: Rethinking Lethality in Special Operations
+Editor’s Note: While War on the Rocks has a high standard for allowing pseudonyms, this is an unusual case: U.S. Army Special Operations Command requires its uniformed personnel to use pseudonyms when writing for public consumption (Policy 23-16). Meek young men grow up in libraries, believing it th
 
-## Sri Lanka’s Luxury Property Boom Is Outrunning Its Regulations
-As Colombo's luxury towers rise, the laws and institutions meant to oversee them lag far behind. Financial history shows that rarely ends well.
-
-## Breaking Through Infoglut: Australia’s Anger-information Overload Cycle
-COVID, global warming, conspiracy theorists, natural disasters, financial collapses – and a sham social media ban. It’s no wonder young Australians are glum.
-
-## India, UK Fire Up Defense Cooperation With Joint Development
-An inter-governmental agreement to develop and incorporate integrated full electric propulsion for the Indian Navy’s four landing platform docks is underway.
+## The Political Constraint on America’s Data-Center Power Buildout
+In April, President Donald Trump issued two Defense Production Act determinations covering grid infrastructure and large-scale energy infrastructure. One found that the country’s constrained electric grid posed an increasing threat to national defense and made grid infrastructure and its supply chai
 
 ## The Divine Calculus of the Ukraine War’s End
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -170,15 +206,6 @@ Editor’s note: This is the first article in a new occasional series featuring 
 
 ## Beneath the Surface: Overlooked Cyber Security Threats
 Cyber security remains a persistent concern for public and private sector organizations alike. Given the potential impact of cyber threats from criminal groups, adversarial states, and extremists, the topic draws substantial attention. Yet, in a field that evolves so quickly, some risks slip through
-
-## The Goldilocks Fallacy: The Undefined Limits of Korea’s Nuclear Role
-“Unthreatening and respectful.” That is how the president of the United States described North Korea on Aug. 16, 2026, in his social media post ordering his secretary of defense to scale back joint exercises with South Korea. Two years earlier in Seoul, the U.S.-South Korean alliance agreed that Sou
-
-## “Zero Problems” Abroad, Plenty at Home: Reassessing al Sharaa’s Leadership in Syria
-In 2025, Rob Geist Pinfold wrote, “The March Massacres Show That Syria Urgently Needs Solutions, Not Sanctions,” in which he argued that sanctions relief was a major way the West could positively engage with the new Syrian government. A year later, after sanctions relief materialized and the United 
-
-## The Marine Corps’ Plan for the Future of Ground Combat
-The Marine Corps just released its plan to fight against adversaries on land, and Ryan had the two architects of the plan, Ground Combat Element 2040, on the show to talk about it. They discuss drones, resilience, long-range fires, logistics, and what marines will need to survive and fight on an inc
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -204,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Former gang leader found guilty of Tupac Shakur’s 1996 murder
-A Las Vegas jury has found former gang leader Duane ‘Keffe D’ Davis guilty of Tupac Shakur’s 1996 murder.
+## Israeli attacks on Gaza kill at least four, including children
+At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.
 
-## Algeria’s president seeks death penalty for those who start forest fires
-Abdelmadjid Tebboune's call comes after wildfires killed at least 12 people and injured 54 in northeastern Algeria.
+## Football power struggle caused FIFA World Cup plan fallout, says Kushner
+Investor Joshua Kushner blames football's 'political dynamics' for FIFA's leadership crisis involving Gianni Infantino.
 
-## John Ternus to lead Apple into the age of AI
-Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.
+## Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv
+Russian attacks escalate as EU defence ministers meet in Ireland to discuss Ukraine air defence shortages.
 
-## US brings back Russia’s Siluanov to G20 finance talks, angering Europe
-Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks.
+## Heavy monsoon rains submerge Islamabad roads and underground
+Heavy monsoon rains have submerged roads and flooded houses in Pakistan’s capital, Islamabad, and Rawalpandi.
 
-## Toxic haze from Indonesian fires chokes Malaysia’s Sarawak
-Respiratory illnesses surge as smoke settles over Malaysia's Sarawak in the region's worst haze crisis in a decade.
+## ‘Not welcome’: How Sweden’s far right took over Stockholm Central Station
+The Sweden Democrats also posted advertisements on buses suggesting Swedes with Somali heritage apply for repatriation.
 
-## New York police kill knife-wielding woman in Times Square
-A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.
+## Nepal buries unidentified flood victims as families await answers
+Nepal authorities are burying unidentified flood victims in temporary graves.
 
-## African NGOs demand probe into six bodies found in Guinea mass grave
-The bodies were found bound and blindfolded in the Forecariah administrative prefecture on August 24.
+## Could 4+4 make 1 in Libya? UN-backed agreement looks to unite rival camps
+After 15 years of civil war, a new UN-backed '4+4' agreement looks to unite Libya's rival factions.
 
-## Five years after Saied’s power grab, Tunisia’s old grievances resurface
-Economic grievances persist while space for dissent has narrowed under President Kais Saied.
+## Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies
+A price cap increase is on the way, the latest blow to people already struggling with rising costs.
 
 ## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
 Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
