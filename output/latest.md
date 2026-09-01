@@ -1,142 +1,112 @@
 # AION Intelligence
 
-## US Army secretary resigns after tension with Pete Hegseth
-Dan Driscoll latest senior military figure to quit, leaving a vacuum at top of the American military
+## EU diplomatic chief faces up to calls for powers to shift to Commission
+Also in this newsletter: The Italian feud being fought in Luxembourg
 
-## Number of UK pensioners paying highest tax rates doubles in five years
-More than 1mn will pay extra on their retirement income, according to HMRC figures, as thresholds remain frozen
+## Japan’s benchmark bond yield hits 3% for first time since 1996
+US Treasury secretary Scott Bessent sends signal that he expects Bank of Japan to raise rates soon
 
-## Retired Jewish police chief to stand for Arab-Israeli party in parliamentary election
-Yoav Segalovich will be a candidate for Raam in effort to show Arab-Jewish partnership is possible
+## Shein shares slide 10% in Hong Kong trading debut
+Fast-fashion retailer completes long-delayed IPO at bargain-basement valuation
 
-## FirstFT: Japan’s bonds and currency under pressure after Fed chair’s Jackson Hole speech
-Also in today’s newsletter: India’s GDP beats expectations and South Korea jails Unification Church leader over bribery scandal
+## FirstFT: Big Law urged to cut fees amid AI
+Also in today’s newsletter: UBS regulatory win and Eurozone inflation
 
-## Europeans shun Russian finance minister at US-hosted G20 meeting
-Anton Siluanov excluded from event photo despite ‘productive’ meeting with Treasury secretary Scott Bessent
+## This time it really was different
+Another look at why 2022-23 wasn’t like 1982-83
 
-## Supreme Court allows construction of Trump’s White House ballroom to continue
-Ruling on $400mn project means building is likely to be completed
+## ‘Conflict of attrition’ in Iran could keep inflation high, ECB policymaker warns
+Finnish governor Olli Rehn strikes hawkish tone ahead of expected interest rate rise in the Eurozone
 
-## Elliott builds stake in French industrial gas group Air Liquide
-Activist US hedge fund has targeted several European corporate giants in recent years
+## Apple’s new boss starts out asset-light and option-rich
+The greatest asset John Ternus inherits is optionality
 
-## Trump says US will hit Iran ‘hard’ as conflict reignites
-Oil prices rise after exchange of fire between warring countries ends weeks of relative quiet
+## A bankruptcy brawl on the golf course
+LIV Golf may file for Chapter 11 protection as soon as next week
 
-## Swiss lawmakers call for softer banking regulation in victory for UBS
-Panel proposes that Switzerland’s largest financial institution could fully capitalise its global operations through mix of equity and debt
+## Can Trump’s 65bn-barrel deal revive Venezuela’s oil industry?
+Analysts warn agreement may not succeed in attracting investment from US groups and could destabilise country’s interim president
 
-## US regulator claims Amazon manipulated advertising prices
-Federal Trade Commission sues ecommerce giant alleging it overcharged about 1.2mn businesses leading to higher prices for consumers
+## The Meta settlement is regulation by enforcement
+Social media groups are finding out the downside of avoiding federal oversight
 
-## KKR is the rare private equity firm that bets on itself
-As buyout groups reach middle age, playing with other people’s money only gets them so far
+## Disasters to cost world $450bn a year from climate change and development
+More than half of losses not covered by insurance as carriers carve out risk and cut exposure
 
-## Trump says data centre critics ‘want to end up backwards and poor’
-US president urges voters to ‘let Data Reign’ as unpopular building boom roils midterm campaigns
+## Wall Street banks push Big Law to cut fees because of AI
+Goldman Sachs, Morgan Stanley and Citi tell law firms their bills should fall because technology has made routine work faster
 
-## George Santos banned from prediction platform Kalshi for manipulation
-Regulator says former US representative made public statements to boost the value of his own bets on whether he would attend the State of the Union address
+## India's factory growth drops to five-year low in August on weakening demand: PMI
+Factory headcount falls for the first time in 30 months in August, though the decline was only marginal
 
-## Don’t write off Russia’s defence industry yet
-Moscow’s arms manufacturers are adapting and innovating in ways that could threaten Nato in the future
+## From Darjeeling’s hillside plots to wider markets: Makaibari Collective takes root
+The initiative connects trusted branding with livelihoods, resilience and organic cultivation locally
 
-## Mahindra takes possession of 800 acres for biggest factory to make ICE vehicles, EVs and tractors
-Mahindra is taking the first 800 acres for its 1,500-acre Nagpur manufacturing hub, planned to make ICE vehicles, EVs and tractors, with capacity exceeding 6 lakh units annually
+## Sensex today | Stock Market Live Updates: Sensex, Nifty recover early losses, trade flat; Adani Ports, ITC top gainers
+Sensex, Nifty, Share Prices LIVE: Sensex traded 4 pts lower at 76,953.15 at 10:29 am after opening at 76,994.11 from the previous close of 76,957.27. Nifty 50 was down 19 pts or 0.08% to 24,061.15
 
-## Modi calls on Putin to end Russia-Ukraine war at SCO summit
-Prime Minister Narendra Modi met Vladimir Putin in Bishkek, while India continued to balance its longstanding ties with Russia, Iran and the US
+## Mahindra SUV sales jump 50%, JSW MG by 14% in August
+M&M sold 59,257 SUVs in August, while JSW MG Motor India reported wholesale sales of 7,508 units, up 14% year-on-year.
 
-## Airbus awards A320 fuselage skin manufacturing contract to Mahindra Aerostructures
-According to Airbus, this collaboration is a significant boost to the ‘Make in India’ commitment
+## AltEons secures strategic investment from Sanmar Group
+The renewable energy platform is targeting an 800 MW pipeline by year-end as demand for sustainable power solutions grows among businesses
 
-## India’s April-July fiscal deficit narrows to 26.8% of FY27 target
-The deficit was at 29.9 per cent of Budget Estimates (BE) of 2025-26 for the first four months of the previous financial year
+## FDA busts food expiry date tampering racket in Navi Mumbai; ₹76 lakh goods seized
+The operation involved erasing original manufacturing and expiry dates from packaging, printing new dates, and placing fresh stickers over original ingredient and nutritional information to resell expired stock
 
-## How Zee founder’s ₹6.5 crore repayment plan survived NCLT scrutiny
-A deep dive into the case and what transpired over the last four years
+## India achieved 7.8% growth despite wars, instability: PM Modi
+In a video message on Instagram, PM Modi congratulates people on first-quarter GDP growth rate, which he said was a result of the resolve and effort of the people
 
-## HDFC Bank MD & CEO exit puts succession, growth back in focus
-Brokerages retain bullish calls on the stock but say the next chief executive must provide a credible leadership reset and a clear path to revive growth and margins
+## Nifty slips below 24,100 as crude spikes; ITC, Bharti Airtel gain, TCS, Nestle decline
+Strong domestic GDP growth and sustained DII buying offered some support, though global cues kept investors cautious at the start of trade
 
-## Nepal tragedy highlights India’s challenge: mapping glacier risks is easier than deciding what to do
-Satellite imagery, modelling and field studies had significantly improved India’s ability to assess hazards in the mountains
+## Rupee gains 26 paise as 7.8% GDP growth offsets global market jitters
+On Tuesday, the Indian Rupee showcased its strength, appreciating against the US dollar. This upward shift is attributed to vigorous domestic economic growth alongside strong portfolio inflows. Notably, the rupee found temporary support from MSCI-related investments, overcoming the initial sluggishn
 
-## Milky Mist Q1FY27 PAT up almost 10x, revenue up 44% on summer demand
-Company expects Panner to continue to be the its star product
-
-## Semicon 2.0: Government bets on advanced chips, talent
+## Stock Market Live Updates Today: Markets open flat: Sensex down 19 points, Nifty at 24,078
 
 
-## Record 7.5cr ITRs submitted before deadline
+## Commercial LPG prices raised by Rs 9.5 for every 19kg cylinder; ATF rates also hiked
 
 
-## Maruti plans small EV push, targets wider charging infrastructure
+## Top stocks to buy or sell today: Stock market recommendations for September 1, 2026 - check list
+Stock market recommendations: Indusind Bank, Computer Age Management Services (CAMS), and Dixon Technologies (India) are the top stocks to buy that have been picked by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for September 1, 2026.
+
+## Soota’s Happiest Minds to merge with ITC Infotech
 
 
-## ONGC to invest Rs 1L cr in 5 years
+## Economists raise growth projections after Q1 show
 
 
-## Economy grew 7.8% in Q1 despite Iran crisis and El Nino conditions
-India's economy recorded impressive growth of 7.8% during the April to June quarter, driven by a thriving manufacturing sector and a strong services industry. Domestic demand surged, bolstered by significant increases in investment and exports. Reflecting this positive trend, the government has upgr
+## Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut
+On Tuesday, oil prices saw a significant uptick, driven by escalating tensions between the US and Iran and looming risks to supply chains. Brent crude hit $91.04, while WTI crude climbed to $86.55 per barrel. The Strait of Hormuz is a focal point of concern for global oil supply stability. Additiona
 
-## Gold pledged for loan stolen in bank robbery: How borrower won case for full value
-So, what happens if gold jewellery pledged against a gold loan is stolen from the bank? For a borrower, the loss can raise a bigger question than simply recovering the value of the gold. Should the bank pay only for the metal, or should the compensation also cover making charges and the value of sto
+## CAS smooth on MSCI index rebalancing day
 
-## Bank credit growth nearly doubles to 19.1% in July as lending picks up across sectors
-The month of July 2026 witnessed a remarkable surge in non-food bank credit. Lending to various sectors, particularly services, industry, and agriculture, experienced significant growth. In particular, the growth in services credit was more than double that of the previous year, while industry lendi
 
-## NSE's closing auction sees Rs 39,718 crore rush on first index rebalancing day
-The National Stock Exchange faced an exciting challenge on Monday as its closing auction mechanism tested its mettle. Investors were actively reshaping their portfolios ahead of index changes, leading to impressive trading volumes. Now celebrating its first month, the mechanism has confirmed its rol
+## Asian healthcare deals heat up as investors bet big on brain tech and surgical robotics
+Private investors in Asia, including family offices operating in Hong Kong, are showing a growing appetite for advanced medical technologies such as brain-computer interfaces and surgical robotics, as healthcare deal activity picks up across the region amid China’s biotechnology boom. “Asia is agein
 
-## Shivraj reviews watershed scheme, calls for faster implementation to achieve drought-free India
-Shivraj reviews watershed scheme, calls for faster implementation to achieve drought-free India
+## Rate rise expectations mount in Hong Kong property market following Fed chief’s comments
+With expectations of a quarter-percentage-point increase in the US Federal Reserve’s target interest rate increasing following comments by Fed chairman Kevin Warsh last week, the Hong Kong property market is bracing for its potential impact. Following Warsh’s comments at the Jackson Hole economic sy
 
-## Should move from endless war to end of war, PM Modi tells Russian Prez Putin
-Modi made the remarks when he met Putin on the margins of SCO Summit, their first in-person engagement since the India-Russia Summit in New Delhi last December
+## China’s top brokerages step up global push as overseas profits surge
+China’s leading brokerages are accelerating their push overseas, pouring billions of yuan into their international arms as cross-border deals expand and profits from overseas operations grow, according to their latest interim reports. Citic Securities, one of China’s largest brokerages, saw revenue 
 
-## Taxi, autorickshaw fares to increase in Mumbai region from Tuesday
-The fare hike of ₹1 for auto-rickshaws and ₹2 for black-and-yellow taxis was approved by the Mumbai Metropolitan Region Transport Authority (MMRTA).
-
-## SC panel picks new Rajasthan HC chief justice amid allegations against acting CJ
-The Supreme Court collegium's recommendation came on a day Rajasthan HC's acting chief justice Sanjeev Prakash Sharma opted out of judicial work until Sept 5
-
-## ‘Saw death from close’: 8 Assam workers rescued from Nepal return; 8 missing
-For two days, the group lived on a hilltop without food or clean water. Relief finally came when Nepalese military helicopters spotted the men.
-
-## Anna Hazare admitted to Mumbai hospital's ICU with acute dehydration, kidney issue
-Hazare, who was admitted to the Bombay Hospital, is in the intensive care unit (ICU) under Dr Gautam Bhansali.
-
-## Saudi-Delhi Air India Express flight makes emergency landing after 'bomb' note found in lavatory
-According to police, all 32 passengers onboard were safely deboarded at Terminal 2, while security personnel are conducting a thorough check of the aircraft.
-
-## 7 die, 5 injured as bus collides head-on with truck in Assam: Police
-According to the investigating officer Dhiren Saika Sonowal, the bus carried 14 passengers including a driver and a helper
-
-## Shein shares plunge up to 28% in grey market ahead of Hong Kong debut
-Shein Global Holdings shares plunged in the grey market day ahead of its Hong Kong debut, further shaking market confidence in the company’s valuation. On Monday evening its shares closed 13.1 per cent lower at HK$42.2 after dropping as much as 28 per cent, according to Futu Holdings data. With a bo
+## Shein shares plunge 10% in Hong Kong debut following US$1.7 billion listing
+Shein Global Holdings plunged as much as 10 per cent in its Hong Kong trading debut on Tuesday after raising HK$13.6 billion (US$1.7 billion), further shaking market confidence in the company’s valuation. The shares opened flat at the offer price of HK$48.56 before falling as much as 10 per cent to 
 
 ## Foreign investors boost Chinese stock holdings as AI hardware, green energy lure inflows
 Foreign investors boosted exposures to yuan-traded Chinese stocks by about a third in the second quarter, buying into companies tied to the artificial intelligence supply chain and China’s strategic green-energy industry. Global fund managers held a combined 10.1 billion shares in mainland-listed co
 
-## France takes aim at Shein, Temu, other fast fashion with levy on Asian e-commerce sites
-France will from Tuesday impose a fee on ultra-fast fashion items that will eventually reach almost €20 (US$2.32) per garment, as the government targets major Asian e-commerce platforms including Shein. The levy follows legislation passed by the French parliament in June to regulate “ultra-fast fash
+## France takes aim at ultra-fast fashion with fee per garment
+France will from Tuesday impose a fee on ultra-fast fashion items that will eventually reach almost €20 (US$23.20) per garment, as the government targets major Asian e-commerce platforms including Shein. The levy follows legislation passed by the French parliament in June to regulate “ultra-fast fas
 
 ## Former top European official adopts bullish tone on China-EU trade talks as deadline nears
 A former top European Union official has struck a bullish tone on the outlook for China-EU trade talks, saying he expects progress in the coming months. Charles Michel, president of the European Council from 2019 to 2024, told reporters in a media briefing in Shanghai on Monday that both sides were 
 
 ## China’s Z.ai revenue jumps 400% as total losses narrow on explosive cloud gains
 Chinese artificial intelligence company Z.ai on Monday reported a 400 per cent increase in first-half revenue, driven by explosive growth in its open platform and application programming interface business, which helped narrow total losses despite higher research and development spending. Revenue fo
-
-## PetroChina’s first-half profit jumps 22% as higher oil prices offset Iran war supply hit
-PetroChina, China’s largest oil and gas producer, has announced that it is gradually restoring operations at its Middle Eastern projects after the US-Israeli war in Iran severely disrupted global energy flows this year. On Monday, the company reported a 22 per cent jump in first-half net profit to 1
-
-## Hong Kong emerges as Asia’s top hub for start-up potential, ranks fifth worldwide: study
-Hong Kong leads Asia in high-growth start-up potential and ranks fifth globally, showing the city’s growing strength in nurturing scalable ventures and unicorns, according to joint research published by technology market intelligence firm CB Insights and the Hong Kong Science and Technology Parks Co
-
-## Hot property: Big banks, fashion stores seek ‘cheaper’, eye-catching Hong Kong retail
-From big banks to fashion brands, tenants are taking advantage of potential lower rents for retail space in Hong Kong’s prime areas as they utilise eye-catching locations to boost visibility towards customers, according to agents. HSBC is unveiling its first flagship branch at the Capitol Centre, wh
 
 ## Beijing and Washington Can Build AI Safety Despite Mutual Distrust
 Practical cooperation should exist alongside competition.
@@ -162,6 +132,9 @@ They did in 2006—but only when framed by Democrats in one specific way.
 ## Iceland’s EU Ambitions
 U.S. threats in the Arctic push Reykjavik to hold a referendum on restarting membership talks.
 
+## A Deadly Flood Underscores the CCP-Imposed Information Vacuum in Tibet
+The disaster exposed a stark contrast: open reporting is emerging from Nepal, while information from Tibet remains almost entirely dependent on China’s tightly controlled state media.
+
 ## Micronesian Islands Meet Against Backdrop of Great Power Competition
 Micronesian governments are elevating unilateral hedging efforts in forums like the MIF, in pursuit of a unified risk-management strategy and regional identity.
 
@@ -182,9 +155,6 @@ COVID, global warming, conspiracy theorists, natural disasters, financial collap
 
 ## India, UK Fire Up Defense Cooperation With Joint Development
 An inter-governmental agreement to develop and incorporate integrated full electric propulsion for the Indian Navy’s four landing platform docks is underway.
-
-## Japan’s Record 2027 Defense Budget Request Is Only the Opening Bid
-Tokyo is building a force around AI, unmanned systems, a high-low weapons mix, and greater staying power.
 
 ## The Divine Calculus of the Ukraine War’s End
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -234,32 +204,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US Army Secretary Daniel Driscoll submits resignation, media reports say
-Driscoll's resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.
+## Former gang leader found guilty of Tupac Shakur’s 1996 murder
+A Las Vegas jury has found former gang leader Duane ‘Keffe D’ Davis guilty of Tupac Shakur’s 1996 murder.
 
-## Three minors killed in Colombia armed group crackdown
-Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.
+## Algeria’s president seeks death penalty for those who start forest fires
+Abdelmadjid Tebboune's call comes after wildfires killed at least 12 people and injured 54 in northeastern Algeria.
 
-## JERUSALEM DAILY: JOURNALISTS ATTACKED
-Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.
+## John Ternus to lead Apple into the age of AI
+Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.
 
-## White House construction on $400m ballroom can go on, says US Supreme Court
-The decision replaces a temporary order issued earlier this month.
+## US brings back Russia’s Siluanov to G20 finance talks, angering Europe
+Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks.
 
-## Poland opens terror probe into fire at factory supplying Ukraine drones
-Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.
+## Toxic haze from Indonesian fires chokes Malaysia’s Sarawak
+Respiratory illnesses surge as smoke settles over Malaysia's Sarawak in the region's worst haze crisis in a decade.
 
-## Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal
-Victory ​lifts Arsenal to six points ⁠along with Man ⁠City, Hull City and Chelsea, while Villa remain without a point.
+## New York police kill knife-wielding woman in Times Square
+A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.
 
-## Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world
-The Russian and Chinese leaders met on the sidelines of the SCO summit.
+## African NGOs demand probe into six bodies found in Guinea mass grave
+The bodies were found bound and blindfolded in the Forecariah administrative prefecture on August 24.
 
-## Argentinian footballer Lionel Messi announces his retirement
-Argentinian footballer Lionel Messi announces his retirement
+## Five years after Saied’s power grab, Tunisia’s old grievances resurface
+Economic grievances persist while space for dissent has narrowed under President Kais Saied.
 
-## India’s Q1 GDP growth quickens to 7.8% as consumption, capex offset US-Iran war shock
-India’s GDP grew 7.8% in Q1 FY27, up from a revised 6.9% a year earlier, driven by strong consumption, exports and government capital spending. Growth beat the 7.3% forecast in an Economic Times poll and the RBI’s 7% estimate.
+## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
+Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
 
 ## Proposed corporate law raises CSR thresholds, draws dissent over accountability
 The proposed corporate law overhaul may ease CSR compliance for thousands of companies, but a dissent note has raised concerns over weaker board level scrutiny of corporate social spending. The proposed changes would raise both the CSR applicability and separate committee thresholds, prompting quest
