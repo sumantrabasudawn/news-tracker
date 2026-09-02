@@ -1,118 +1,115 @@
 # AION Intelligence
 
-## Spain demands answers as police blame Morocco for migrant crisis
-Minister presses police chief over probe that reportedly accuses Moroccan security forces of orchestrating influx
-
 ## Energy price surge hits bond markets as European gas reaches three-year high
 US 10-year borrowing costs touch highest since 2023 as fears of return to full-blown Iran conflict rise
 
-## Japan’s borrowing costs hit 30-year high: what does it mean for global markets?
-Move follows weeks of scrutiny of fiscal and monetary policies and rare Washington-Tokyo intervention in currency markets
+## California opines on who profits from wildfires but not on who pays
+Keeping hedge funds out may ease qualms over profiting from misfortune but not settle who bears the cost
 
-## Germany blames Russia for Leipzig drone attack
-Interior minister Alexander Dobrindt says his country is not at war but is ‘a daily target of hybrid warfare’
+## The Restore Britain backer who once gave money to the Lib Dems
+Entrepreneur Simon Galbraith’s gift to the far-right party has startled the tech start-up scene, with some saying it risks a ‘reverse Midas touch’
 
-## Burnham and Macron to meet as Bayeux Tapestry unveiled
-UK and French leaders will join King Charles at the British Museum, with talks on ‘shared challenges’ also part of visit
+## Morocco in spotlight as Spanish police report sparks Ceuta blame game
+Minister presses police chief over probe that reportedly accuses Moroccan security forces of orchestrating influx
 
-## Growth is a life-and-death matter for Europe
-It is the only way of funding the defence of a continent with mortal enemies
+## Uber to axe 10% of its workforce in biggest cuts since pandemic
+Ride-hailing group to eliminate 3,300 jobs as competition rises in food delivery sector and robotaxi race intensifies
+
+## Chevron to double Venezuela oil production with $7bn pledge
+US major commits to expand its joint ventures as White House pushes for huge increase in production in the country
+
+## Students and opposition activists targeted with spyware in Serbia
+Twelve of those targeted received notifications from Apple that their iPhones were compromised
+
+## UK mortgage borrowers urged to lock in deals before rates rise
+Home loan market braced for fixed-rate rises after bond market sell-off
+
+## ENRC settles with UK prosecutors and former lawyers over abandoned probe
+Agreement draws line under years-long battle between miner and SFO
+
+## A vital tenet of US equity markets is under threat
+SEC reforms risk the ability of investors to compare companies
 
 ## Ukraine tells airlines to stop using Russian airspace
 Volodymyr Zelenskyy warns ‘safe days in Russia’s skies are over’ as he threatens more drone strikes
 
+## FT Wealth: September
+In this edition: The elusive tycoon who bought into Cuba’s cigar trade; how philanthrophy is responding to the rise of AI; the brand extension that’s a wrong turn for Ferrari; wealthy investors are filling the world’s vaults with physical gold; Britain’s churches need a miracle to keep the roof on
+
 ## Indonesia’s lessons for the global energy transition
 Country’s solar push highlights momentum — and obstacles — around green energy shift
 
-## Chevron pledges $7bn to double its Venezuela oil production
-US major commits to expand its joint ventures as White House pushes for huge increase in production in the country
+## Banking Units in IFSC disbursed $52 billion against FCNR(B) deposits
+According to RBI data, the inflows through the special foreign currency non-resident bank (FCNR-B) deposit have crossed the century mark, according to the Reserve Bank of India
 
-## FirstFT: US-Iran hostilities reignite surge in energy prices
-Also in today’s newsletter: Ed Markey sees off younger opponent, and China scuppers G20 consensus
+## FCNR(B) bonanza: Banks mobilise record $127.226 billion in 85 days, nearly four times 2013 levels
+This influx, driven by attractive interest rates of 6-7.5% and significant leverage incentives for non-resident Indians, occurred through the Reserve Bank of India’s concessional swap facility
 
-## Ford aims for Nato defence deals as it bids to build UK’s new military vehicle
-US group seeks to revive its global defence business for the first time in nearly four decades
+## Genesys introduces new innovations for more effective customer care management
+The US-based company empowers more than 8000 organisations in over 100 countries to improve business outcomes
 
-## The best, worst and strangest ways AI is really being used at work
-Consultants, lawyers, bankers and others share a snapshot of how tech tools are changing their jobs
+## Indian wheat prices gain ₹150/quintal as government lifts ban on product shipments
+A section of the stakeholders is worried, with global prices surging to a 3-year high on Black Sea disruption, lower output this year
 
-## Ryanair warns of higher fares as it cuts winter flights
-Europe’s largest carrier sees short-haul airfares increasing ‘materially’ next year if oil prices remain high
-
-## EV batteries last longer than drivers feared
-Study suggests most used vehicles can retain about 90% of original usable battery capacity after 150,000km
+## Pernia’s Pop-Up Shop IPO crosses overall subscription on final day despite NII shortfall
+NII category remained undersubscribed at 0.84 times
 
 ## Equities extend losses as West Asia tensions push crude higher
 The Nifty 50 closed at 23,914.45, down 141.35 points or 0.59 per cent, while the Sensex fell 373.93 points or 0.49 per cent to 76,570.35
 
-## Chenab basin holds nearly four-fifths of J&K’s untapped hydropower potential
-The government has identified hydropower potential of 14,635 MW across three major river basins, of which around 24.21 per cent has so far been harnessed
+## India’s LPG consumption rises 3.2% in August to six-month high
+Higher supplies from the US and Middle East Gulf supported the cooking fuel market as restrictions on commercial consumers were removed
 
-## JM Financial AMC closes pre-IPO fund at ₹700 crore in first tranche
-The sector-agnostic fund will invest in companies expected to pursue a public listing within approximately 18 months
-
-## Khushi Kapoor and Cava Come Together to Create Soft Serve, Her Dream Athleisure Collection
-Khushi Kapoor and Cava Come Together to Create Soft Serve, Her Dream Athleisure Collection
-
-## Futura MedTech Appoints Abhishek Bhargava as Group CEO
-Futura MedTech Appoints Abhishek Bhargava as Group CEO
-
-## Godrej Industries Group's National Chemistry Day Summit Explores Resilience as a Defining Capability for the Chemical Industry
-Godrej Industries Group's National Chemistry Day Summit Explores Resilience as a Defining Capability for the Chemical Industry
-
-## Gold loan growth driven more by higher gold prices, repeat borrowing than new customers: Report
-Report flags rising share of repeat customers as key risk for gold loan sector
-
-## IT results and stock movements — dead cat bounce?
-For Indian IT vendors, the long-term opportunity is real, but the path to sustained double-digit growth runs through a genuine AI capability build-out
+## Two-wheeler retails fall 8.3% in August
+Hero, Honda, Bajaj bear the brunt of festival slowdown
 
 ## First Vande Bharat in 2019, sleeper version came in 2026; now 260 trains in works
 The first pair of Vande Bharat sleeper trains was launched earlier this year between Guwahati and Howrah. The second pair is undergoing trials and is expected to enter service soon. Reports suggest it may run between Bengaluru and Mumbai, though an official confirmation is awaited.
 
-## 'To bring more clarity': Centre issues FAQs after oppn red flags GDP figures
+## Rs 30 lakh salary, missed ITR after job switch; why ITAT cancelled Rs 3.74 lakh tax penalty
+What appeared to be a filing lapse eventually turned into a tax penalty of Rs 3.74 lakh. The Income Tax Department took a strict view of the matter, maintaining that had the non-filing not been detected, Aggarwal might not have filed his ITR at all. This, in turn, would have meant that his salary an
 
+## India draws record $127 billion through forex deposits: RBI
+
+
+## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
+What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
+
+## Yolo meets SIP: How Gen Z is rewriting money rules & mistakes they should avoid
+Gen Z is one of the more financially aware generations, focusing on financial independence and investing rather than just saving. YOLO? Sure. But Gen Z is also thinking, “How do I make my money work for me?”
+
+## Uber lays off 3,300 employees as it restructures for faster growth
+Uber is cutting approximately ten percent of its global workforce, impacting about thirty-three hundred employees. This major restructuring aims to reduce management layers and simplify company operations. Resources will be reallocated towards core ride-hailing, delivery, and robotaxi businesses. Th
+
+## 'To bring more clarity': Centre issues FAQs after oppn red flags GDP figures
+The government released FAQs to explain its GDP estimation methods. This clarification addresses opposition concerns regarding recent growth figures. The government said the updated annual and quarterly GDP estimates, based on the 2022-23 base year, were released on August 31 using new data sources 
 
 ## Won Rs 15 lakh chit prize, payout delayed; how he won relief against company’s claim
 Kapil Chits attributed the delay to Eashwar’s late submission of the required sureties, saying the documents had to be verified before the prize money could be released. The Telangana State Consumer Commission, however, found that the company’s own records showed the sureties had been submitted on M
 
-## Gold price prediction today: Will gold, silver prices continue to fall? Check September 2, 2026 outlook
-Gold price prediction today: For the near-term, the outlook for both silver and gold remains bearish, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
+## 5 dead, 20 injured in bus-bulker crash in MP; PM Modi offers condolences
+Prime Minister Narendra Modi expressed deep grief and offered condolences following a tragic mishap in Rewa, Madhya Pradesh.
 
-## Sensex drops 373.93 points to settle at 76,570.35; Nifty down 141.35 points to 23,914.45
+## Maternity can't be allowed to become reason of ignominy at workplace: Delhi HC
+HC's observations came while directing firm to pay ₹10 lakh compensation to CA shifted to clerical role after returning from maternity leave
 
+## Jaishankar lands in Poland on 3-day trip, Ukraine will be next stop
+Jaishankar is the first senior Indian leader to travel to Ukraine since Prime Minister Narendra Modi’s visit to the country in August 2024
 
-## Oil prices jump 1% as US-Iran strikes deepen fears of supply disruption
+## Maharashtra FDA suspends licences of two more food establishments in Mumbai
+Inspections found several lapses at these establishments including inadequate storage facilities, poor personal hygiene, deficient pest-control measures
 
+## 'Alarming apathy': India lambasts Pakistan over demolition of century-old Punjab temple
+A Hindu temple in Pakistan Punjab's Narowal, estimated to be over a century-old, was reportedly demolished on August 21.
 
-## Top stocks to buy today: Stock recommendations for September 2, 2026 - check list
-Stock market recommendations: NLC India, Deepak Nitrite, and Hindustan Copper have been picked as the top stocks to buy today on September 2, 2026 by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares:
+## Maintenance to estranged wife 'cannot go beyond husband's means': Delhi court
+A Delhi court made the observation while dismissing an appeal by a woman challenging an interim maintenance of ₹1,840 a month under the Domestic Violence Act.
 
-## Rs 25,000 salary to Rs 1 crore EPF corpus: Compounding math can make you a crorepati
-Over time, the interest earned on the accumulated balance earns interest, allowing compounding to steadily increase your retirement savings. With regular contributions maintained over a long period, an employee can potentially build an EPF corpus of Rs 1 crore or more.
+## 55km Indo-Myanmar border fencing completed, says Manipur home minister
+The home minister clarified that the government has been putting its effort to identify the unsettled area of the Indo-Myanmar stretch
 
-## HT Evening Brief Sep 2: Ram temple trust appoints first CEO; BCCI to meet Gambhir for Indian men's team plan
-Here's your 5-minute sprint through today's biggest stories: politics, India, world, entertainment and sports.
-
-## Delhi HC asks Centre, police, govt to frame SOP for transgender arrests, detention
-Delhi HC directs Centre, Delhi Police and Delhi govt to frame SOP governing arrest, detention and search of transgender persons.
-
-## AIMIM's Syed Asim Waqar joins Congress, says Owaisi-led party fights everyone who wants to remove BJP
-Syed Asim Waqar's switch to the Congress side is likely to impact AIMIM's bid to make electoral inroads in Uttar Pradesh which is going to polls next year.
-
-## Retired Air Marshal Jeetendra Mishra, who led air ops in Op Sindoor, to head Ram temple trust | All you need to know
-Air Marshal Mishra served as Air Officer Commanding-in-Chief of the Western Air Command during Operation Sindoor.
-
-## NCPI may form coalition with BJP in upcoming Bengal municipal polls, say leaders
-Senior BJP leaders from the state, however, remained non-committal, saying the party was focusing on all 209 seats
-
-## Ex-Army chief recalls horror on Goa-Delhi flight after engine failure, praises pilot
-Former Army chief General JJ Singh recalls hearing a loud noise and hissing sound before an IndiGo Goa-Delhi flight made an emergency landing.
-
-## A case back in focus: All you need to know about Disha Salian's death case as HC orders CBI probe
-Disha Salian died on June 8, 2020, after she fell off the 14th floor of a residential building in Mumbai's Malad area.
-
-## Ram temple trust appoints retired Air Marshal Jeetendra Mishra as temple’s first CEO
-The appointment came amid a raging controversy over the alleged embezzlement of temple donations that led to the arrest of eight people.
+## ‘Grateful to Lord Ram’: Retd Air Marshal Jeetendra Mishra’s first reaction after being named Ayodhya temple’s first CEO
+In his first reaction, Jeetendra Mishra said he prayed to God to give him the capability to shoulder the responsibility well.
 
 ## Walmart’s Sam’s Club accelerates expansion in China as membership passes 10.7 million
 US membership-only retailer Sam’s Club has sped up its expansion in China this year, with the launch of its sixth Beijing location on Monday drawing long queues of eager shoppers. The Walmart-owned warehouse retailer has found a winning formula in China, with its value pricing and exclusive goods at
@@ -234,32 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Killing at Sea
-Three families, two bombings and a hidden war: uncovering the lives behind Operation Southern Spear's dead.
+## Zambia’s Hichilema begins second term amid disputed vote and arrests
+Economic gains face growing scrutiny as political tensions deepen after the vote.
 
-## The US is gobbling up Venezuelan oil, but will it lower fuel prices?
-Analysts say Venezuelan crude is hard to extract and refine, and likely can't replace oil stuck in the Strait of Hormuz.
+## George Clooney: US government run by ‘least qualified people’
+US actor George Clooney has described US President Donald Trump’s administration as a ‘kakistocracy’.
 
-## Nigerian anticorruption agency sacks 40 staff over misconduct allegations
-Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.
+## WHO chief warns Ebola response must ramp up to stem DRC outbreak
+Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.
 
-## What do we know about the fatal US bombing of a wedding in Iran’s Sirik?
-A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.
+## Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules
+Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.
 
-## Messi retirement and FIFA ban leave Paredes uncertain of Argentina future
-Leandro ‌Paredes's 10-match ban, alongside Lionel Messi's Argentina retirement, leave former to ponder future.
+## Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’
+Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza
 
-## Video: Chinese President Xi makes first visit to Egypt in a decade
-Chinese President Xi Jinping has arrived in Egypt for the first time since 2016 in a state visit.
+## China’s Xi urges new Middle East security framework during rare Egypt visit
+Chinese, Egyptian leaders discuss the US-Israel war on Iran, which has prompted regional powers to rethink defence.
 
-## How indie cinema is beating Hollywood in 2026
-How indie cinema is beating Hollywood in 2026
+## Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team
+Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.
 
-## 5,000 US sailors descend on Thailand as USS Abraham Lincoln docks
-Thailand’s Pattaya is expecting a business boost as 5,000 US sailors arrive aboard the USS Abraham Lincoln.
+## Nepal PM links deadly floods to climate change
+Nepal PM links deadly floods to climate change
 
 ## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
+
+## Top 20 Corporate Taxpayers in India: SBI, ONGC, ICICI Bank Top List in FY26
+India’s top 20 corporate taxpayers added substantially to the state treasury in FY26, led by stronger profitability across key sectors, but crude volatility, geopolitical tensions, and global trade risks could influence tax trends in FY27.
 
 ## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
 Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
@@ -278,9 +278,6 @@ In FY26, Indian firms made history by distributing a staggering ₹4.5 lakh cror
 
 ## CXOs sharpen AI edge to stay in control
 The shift is visible across education platforms such as Emeritus, upGrad, Simplilearn, and Coursera where demand from experienced professionals is outpacing that from freshers and mid-career learners.
-
-## Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore
-Hindusthan National Glass has issued a default notice to Bira 91's parent company. The glass manufacturer seeks recovery of over eleven crore rupees for unpaid dues. This action follows Bira 91's founder stepping down amid financial challenges. Bira 91 has been out of production and faces significan
 
 ## RBI appoints Suman Ray as Executive Director, to head DICGC and Premises Department
 Suman Ray will assume the role of Executive Director at the Reserve Bank of India. His appointment is effective from September 1, 2026, as announced by the central bank. Previously, Ray served as the Regional Director for Maharashtra and has extensive experience. He will now oversee the Department o
