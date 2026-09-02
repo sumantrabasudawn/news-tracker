@@ -1,67 +1,85 @@
 # AION Intelligence
 
-## Nepal’s rapper-turned-PM faces Himalaya flood test
-Balendra Shah must rebuild shattered nation after being catapulted to power by Gen Z uprising
+## US launches further strikes on Iran as conflict flares up
+Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation
 
-## Massachusetts’ 80-year-old senator sees off primary challenge over his age
-Progressive lawmaker Ed Markey defeats moderate rival more than three decades younger
+## European gas prices hit highest this year and oil rises
+Resumption of US-Iran hostilities raises fears of return to full-blown conflict
 
-## The Takaichi revolution
-The prime minister’s style is clashing with Japan’s traditions — and the bond market
+## France’s debt crisis-in-waiting
+Sowing wild OATs
 
-## Pentagon chaos deepens after Driscoll quits in clash with Hegseth
-Army secretary’s exit leaves ‘serious leadership gaps’ as US military grapples with protracted Iran conflict
+## Germany loses its shine in the EU’s quest for green investment
+Also in this newsletter: Brussels to turn a blind eye to exemptions in the bloc’s migration system
 
-## China derails consensus on communiqué after US-hosted G20
-Beijing objects to language calling for elimination of ‘non-market’ policies to curb trade imbalances
+## FirstFT: US-Iran hostilities reignite
+Also in today’s newsletter: EU’s diplomatic service and German work hours
 
-## Tim Cook handed $47mn pay deal as Apple’s executive chair
-Package signals big role for former CEO as his successor John Ternus gets $58mn
+## Ukraine considers relaxing curfew rules despite Russian attacks
+Relentless air bombardments paralyse activity in Kyiv and surrounding regions
 
-## China’s real robot revolution is not about humanoids
-The country is using its superpower of scaling and building supply chains to challenge the global industry
+## ECB must be prepared to lift interest rates further, says top policymaker
+Irish central bank governor Gabriel Makhlouf says combination of Eurozone inflation above 3% and robust growth makes him ‘uneasy’
 
-## Germany blames Russia for Leipzig drone attack
-Interior minister Alexander Dobrindt says his country is ‘not at war, but a daily target of hybrid warfare’
+## The wheels are coming off the US world order
+Trump believes in a world in which there are no allies, only satellites, and in which power is America’s alone to wield
 
-## US diesel prices soar as Trump hauls in refiners
-President holds White House meeting as fresh escalation in his Iran war threatens new inflationary spiral
+## Bvlgari’s Laura Burdese: ‘We don’t have this anxiety to keep on launching things’
+The brand’s new CEO on experimenting with established designs, the rise of women’s watches and making creative decisions in the age of AI
 
-## US defends Venezuela deal as Chevron prepares to expand operations
-Trump administration justifies agreement as a way to expel Chinese and Russian adversaries from oilfields in ‘our hemisphere’
+## BP names Ian Tyler as chair
+UK oil major hands role to interim chair following the removal of Albert Manifold
 
-## Russia secretly helping Iran develop supersonic cruise missiles
-Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran
+## Back to school: meet PE’s new headmasters
+Top European private capital firms have fresh leadership
 
-## Warsh and peace
-Bond yields keep rising after the Fed chair’s Jackson Hole speech
+## AI sounds the death knell for audit fee inflation
+Companies’ audit bills increased less than 2% last year, broadly in line with inflation
 
-## GoPro: a totally normal, unremarkable piece of merger activity
-Camera action
+## Maersk turns to wind sails to cut fuel for container ships
+Maritime industry returns to age-old technology to reduce future fuel consumption
 
-## Sensex today | Stock Market Live Updates: Markets may fall as widening Iran conflict raises oil price
-Sensex, Nifty, Share Prices Live Updates: ndian shares will open lower on Wednesday, in line with global markets, as oil ​prices surged to a near-six-week high after the U.S. ‌and Iran exchanged strikes overnight, intensifying the Middle ​East conflict and renewing concerns over inflation
+## Mbappé-backed health start-up expands to west Africa
+Deal to buy Senegalese insurer Tanel comes months after fundraising valued France’s Alan at €5.5bn
 
-## Akasa Air inducts 42nd aircraft, its 11th addition in 2026
-Boeing 737 MAX 8-200 lands at Navi Mumbai; airline has 226 MAX aircraft on firm order
+## Sensex today | Stock Market Live: Sensex falls over 600 points, Nifty below 23,850 as crude oil surges
+Sensex, Nifty, Share Prices Live Updates: Indian equity benchmarks traded sharply lower on Wednesday as surging crude oil prices, rising US Treasury yields and weak global cues weighed on investor sentiment, while heightened US-Iran tensions added to market uncertainty.
 
-## UN Secretary General Antonio Guterres to participate in BRICS Summit in India
-Guterres also reaffirms the commitment of the UN to support all diplomatic efforts aimed at a comprehensive and durable solution
+## NCLAT keeps lenders appeals pending against order that cut Subhash Chandra’s liability from ₹22,000 crore to ₹6.25 crore
+The NCLAT chairperson posted the matter for the first week of October.
 
-## Govt sets paddy procurement target at 708.64 lakh tons in KMS 2026-27, lower than actuals of last 3 yrs
-The scaled-down target reflects a contraction in the paddy-sown area, which stood at 414.10 lakh hectare as of August 31, against 428.46 lakh hectare a year earlier, according to Agriculture Ministry data
+## APSEZ handles highest-ever monthly cargo volume of 50 MMT in August
+Strong growth in dry cargo and containers helped drive the port operator’s monthly performance, while logistics rail volumes rose sequentially
 
-## Nifty set to open lower as oil hits near-six-week high on US-Iran strikes
-GIFT Nifty at 24,033.5; Brent jumps 2% to $96.6 on renewed West Asia escalation
+## Gold futures slip for 7th day, drop to ₹1.5 lakh/10g amid US-Iran tensions
+On MCX, the yellow metal futures for October delivery declined by ₹1,559, or 1.03% to ₹1,50,170 per 10 grams from Tuesday's closing level of ₹1,51,729 per 10 grams.
 
-## KC GLOBAL MEDIA ASIA'S NEW DRAMA SERIES "VIII: AWAKENING" WRAPS PRODUCTION IN BEIJING
-KC GLOBAL MEDIA ASIA'S NEW DRAMA SERIES "VIII: AWAKENING" WRAPS PRODUCTION IN BEIJING
+## Worker shortages hit 61% of auto suppliers even as EV shift promises 7.2 million jobs
+India’s auto industry risks building its next generation of EV, battery and component factories faster than it can train the people needed to run them, potentially constraining production, pushing up manpower costs
 
-## Haidilao scales global loyalty with Infobip's data-led personalization
-Haidilao scales global loyalty with Infobip's data-led personalization
+## AutoNXT introduces Autonomous Electric Aero Tiller for precision farming
+It combines the mechanical design of conventional aero tillers with an integrated electric powertrain, intelligent implement controls and cloud-based connectivity
 
-## Visa Launches Enhanced A2A Protect Innovations to Help Financial Institutions Stop Fraud Before Money Leaves Accounts
-Visa Launches Enhanced A2A Protect Innovations to Help Financial Institutions Stop Fraud Before Money Leaves Accounts
+## What’s behind the selloff in world bond markets?
+US public debt climbs above $40 trillion; Japanese, French debt woes also in focus; Five AI hyperscalers issue $220 bln debt this year, LSEG data shows
+
+## Welspun Corp, Perma-Pipe sign MoU to set up pipe manufacturing hub in Jordan
+The proposed facilities will combine steel pipe manufacturing and advanced coating capabilities while creating a platform to serve wider regional infrastructure markets.
+
+## Won Rs 15 lakh chit prize, payout delayed; how he won relief against company’s claim
+Kapil Chits attributed the delay to Eashwar’s late submission of the required sureties, saying the documents had to be verified before the prize money could be released. The Telangana State Consumer Commission, however, found that the company’s own records showed the sureties had been submitted on M
+
+## Gold price prediction today: Will gold, silver prices continue to fall? Check September 2, 2026 outlook
+Gold price prediction today: For the near-term, the outlook for both silver and gold remains bearish, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
+
+## Markets fall amid Middle East tensions; Sensex slips 600 points, Nifty below 23,850
+
+
+## Oil prices jump 1% as US-Iran strikes deepen fears of supply disruption
+
+
+## Top stocks to buy today: Stock recommendations for September 2, 2026 - check list
+Stock market recommendations: NLC India, Deepak Nitrite, and Hindustan Copper have been picked as the top stocks to buy today on September 2, 2026 by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares:
 
 ## Rs 25,000 salary to Rs 1 crore EPF corpus: Compounding math can make you a crorepati
 Over time, the interest earned on the accumulated balance earns interest, allowing compounding to steadily increase your retirement savings. With regular contributions maintained over a long period, an employee can potentially build an EPF corpus of Rs 1 crore or more.
@@ -72,50 +90,47 @@ Personal guarantor, P 12
 ## Sun Pharma offers US cheaper drug supply
 
 
-## TCS pips Accenture to take over Best Buy's India GCC ops
-Five-Year Deal Size Estimated At 2k Cr, To Deepen Cos' Ties
+## 7-yr-old girl dies after consuming antimalarial tablet in Andhra village: Official
+Doctors suspected that chloroquine could have triggered cardiac arrhythmia in a person with such a pre-existing condition
 
-## India’s tech jobs face another jolt: Oracle to cut 3,000, Microsoft puts 500 on PIPs
-Global tech giant Microsoft has put around 500 employees in India on performance improvement plans (PIPs), while Oracle is preparing to cut roughly 3,000 jobs in the country as technology companies reorganise their workforces and redirect spending towards newer areas.
+## Thailand's visa-free policy changes for over 60 countries: What Indians should know
+Thailand visa-free stay for Indian tourists will be reduced from 60 days to 30 days from September 15. Here's what changes for Indians travelling to Thailand.
 
-## UPI gets festive boost: Digital payments hit a record 24.51 bn transactions in August
-In August, Unified Payments Interface hit an all-time high for monthly transaction volumes, largely fueled by festive celebrations like Raksha Bandhan that encouraged peer-to-peer transfers. As transaction values approached previous peaks, the digital payment landscape continued to evolve, with UPI 
+## Keralam Cabinet extends validity of PSC rank lists for teacher posts; approves 3 spl NDPS courts
+Keralam Cabinet extends validity of PSC rank lists for teacher posts; approves 3 spl NDPS courts
 
-## Rs 1 crore at 26 to Rs 7 crore net worth at 31: How Bengaluru techie achieved this
-His financial journey, however, did not begin with a large salary or a carefully constructed investment portfolio. He claims he started investing small amounts in mutual funds soon after college, when he first became interested in financial independence.
+## Keralam CM challenges Islamic cleric who called for women's confinement to homes: ‘Doesn’t suit progressive state'
+The Keralam chief minister rejected the scholar's remarks saying his view does not align with the "progressive" tradition of the south Indian state.
 
-## Centre halves sugar stock limit for dealers to curb hoarding, price rise
+## Security tightened in Srinagar as the BJP and Omar Abdullah's NC take to the streets. What's happening?
+In view of the protests in the capital, heavy security has been deployed to prevent any clashes.
 
+## Madras HC seeks status report on 85 Tamil Nadu pilgrims missing in Nepal flood
+Contact has not yet been established with 49 people who travelled through Chennai-based Mahadev Kailash Yatra
 
-## Three killed in separate wall collapse incidents in Odisha amid heavy rainfall
-Odisha recorded 1,154.3 mm of rainfall between June 1 and August 31 against its normal seasonal rainfall of 1,150.2 mm
+## Air India Express rolls out new uniforms for cabin crew, frontline staff
+Through the airline’s ‘Tales of India initiative’, the airline has introduced distinctive aircraft tail art inspired by India’s indigenous art forms
 
-## Cops quiz witnesses to form ‘watertight’ case over Greater Noida-Delhi bus gangrape
-A police officer associated with the probe said that they have written to the Forensic Science Laboratory to expedite the report.
+## Enumeration for Census begins in snow-clad areas
+This census marks the first time in independent India that a question of caste has been included in the enumeration.
 
-## Year on, ex-VP Jagdeep Dhankhar yet to get official house
-His office declined to comment on housing proposals since his resignation amid allegations of being forced to quit.
+## Chinese carmakers eye full hybrid market; BYD posts US$1.2 billion profit: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. After gaining EV sway, Chinese carmakers eye full hybrid market Chinese carmakers, alr
 
-## Girl jumps off Faridabad school roof, dies; dad says made to stand in sun for hours
-School staff rushed her to Badshah Khan Civil Hospital, where she was declared dead from injuries sustained in the fall, police said.
+## Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing
+The parent company of Philippine fast-food giant Jollibee plans to spin off and list its international operations in Hong Kong instead of New York in a strong endorsement of the city’s initial public offering (IPO) diversification efforts. Jollibee Foods Corp (JFC) said in January that it intended t
 
-## Exclusive: Return to Bangladesh not about power but to stand by people, says ex-PM Sheikh Hasina
-A stable, democratic, secular and development-oriented Bangladesh is important not only for Bangladesh, but also for India’s security, Hasina said.
+## China widens access to overseas stocks, handing out nearly US$7b in QDII quotas
+Beijing’s recent granting of new outbound investment allocations will help ease tight supply of cross-border investment products, including those invested in US securities, as Chinese investors look globally for diversification, according to analysts. The foreign-exchange regulator granted US$6.84 b
 
-## Ram Temple trust may finalise new CEO today, 3 names recommended
-Three names for the CEO were recommended by three-member Search Committee in its report submitted to Shri Ram Janmabhoomi Teerth Kshetra Trust.
-
-## Nepal floods: 163 Indians rescued, 151 leave China as India steps up rescue operations, says Centre
-The MEA said the Indian tunnel rescue team established a foothold at hydropower tunnels in Chilime.
-
-## 8 challans in July, no background check of accused: Shocking details emerge in Noida bus rape case
-The bus ran for several kilometers unstopped before the accused left the girl in Delhi.
+## China’s pension fund doubles offshore investments to new high in quest for higher returns
+China’s national pension reserve more than doubled its offshore investments over the past three years to a record 580 billion yuan (US$86 billion), as the state fund increasingly sought higher returns by diversifying its portfolio beyond domestic assets. Offshore investment assets held by the Nation
 
 ## China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk
 China’s health regulators have granted approvals for a string of brain-technology products this year, as domestic start-ups push to transform the treatment of conditions ranging from paraplegia to Alzheimer’s and depression. The approvals come as Beijing bids to lead the world in brain-computer inte
 
 ## China’s tech push fuels fastest profit growth in 4 years amid signs of economic divide
-Artificial intelligence demand and technological domestic substitution drove profit growth for Chinese listed companies to its fastest pace in four years in the first half, underscoring the nation’s K-shaped economy as it transitions away from credit-fuelled expansion. Profit for firms on the chip-h
+Artificial intelligence demand and technological domestic substitution drove profit growth for Chinese listed companies to its fastest pace in four years in the first half of 2026, underscoring the nation’s “K-shaped” economic structure as it transitions away from credit-fuelled expansion. Profit fo
 
 ## Lofter saga rumbles on as Mong Kok project renamed, owners push for quick sales
 A residential project previously managed by troubled Hong Kong developer Lofter Group is returning to the market under a new name, as its owners push to quickly sell the flats by courting mainland Chinese and longer-term investors with competitive prices. The 139-unit project at 1 Ki Lung Street in 
@@ -123,17 +138,11 @@ A residential project previously managed by troubled Hong Kong developer Lofter 
 ## Volkswagen launches inquiry into Changzhou supplier following mass graduate lay-offs
 After significant lay-offs by a key Chinese auto supplier in Changzhou city of Jiangsu province involving over a hundred new graduates sparked nationwide outrage and forced Volkswagen to launch an investigation, analysts note the episode could lead to an overhaul of corporate-governance practices ac
 
-## Sino Land profit rises 14% as property losses narrow, but core earnings fall
-Sino Land’s annual profit rose 14 per cent as losses on its investment properties narrowed, although a decline in underlying earnings pointed to continued pressure on its core business. Net profit attributable to shareholders rose to HK$4.59 billion (US$585 million) in the year ended June 30, from H
+## Rivals Circle an Out-of-Touch Prabowo
+The emergence of pro-presidential thugs on the streets of Jakarta is a sign of the times.
 
-## China tells carmakers, suppliers to avoid price wars abroad to pave way for healthy growth
-Beijing has ordered Chinese carmakers and component suppliers to refrain from offering steep discounts in overseas markets as they accelerate their global expansion. For the first time, three ministry-level authorities published guidelines governing Chinese carmakers abroad, aimed at improving their
-
-## China ends dividend tax exemption for expats, applying 20% rate
-China’s tax authorities announced on Tuesday that the country would end the tax exemption for dividends earned by expatriates at foreign-funded firms, setting a 20 per cent rate effective immediately. The measures mainly target “interest, dividend and bonus income” for individual income tax purposes
-
-## Shein slips on Hong Kong debut amid fast-fashion challenges
-Fast-fashion retailer Shein fell on its Hong Kong trading debut as the unprofitable company contends with rising competition and the loss of tax breaks in key markets. Its shares dropped 0.1 per cent from the initial public offering (IPO) price to close at HK$48.50. They earlier slumped as much as 1
+## Is BRICS Losing Its Mojo?
+Security matters have rocked the boat, but here’s how to steady it.
 
 ## Nepal’s Deadly Floods Put China and India on Edge
 Geopolitical conflict will only get worse with climate change.
@@ -152,12 +161,6 @@ Ships can’t navigate a reality that exists only in Trump’s head.
 
 ## Welcome to the New Defense-Dominant World
 As military power proves less effective, an old IR theory is making a comeback.
-
-## The U.N.’s Next Leader Will Be Either a Secretary or a General
-The race to succeed António Guterres has started—and four very different candidates are in the running.
-
-## The Free Speech Ideologue Taking on Europe
-Sarah Rogers’s combative online persona has earned her a reputation. But the State Department official is more deliberative than she seems.
 
 ## As the World Nomad Games Come Home, Japarov Expands Kyrgyzstan’s National Story
 The opening of the games coincided with Kyrgyzstan's 35th independence anniversary and a major Shanghai Cooperation Organization summit.
@@ -183,6 +186,12 @@ The new rules would hit Tajikistan’s tourism companies while benefiting an aff
 ## Was Abe Shinzo an Idealist?
 A new biography of Japan's longest-serving prime minister reevaluates his realist legacy.
 
+## Ukraine’s Ground Robots and the Economics of Survival
+In August 2024, special forces from five Ukrainian military intelligence units crossed the Black Sea to raid Russian-held Kinburn Spit. The commandos of these units — Chimera, Aratta, Stuhna, Paragon, Terror, and the Siberian Battalion — landed, fought, destroyed equipment, and withdrew. Two years l
+
+## Why Are People Talking About a German Reset with Russia?
+The summer of 2026 has raised questions once again among politicians, diplomats, and academics about whether Germany might be about to dither on Russia. Last month, a drone attack on German soil seemed designed to coerce Germany back into business as usual. Earlier, there had been rumblings about tw
+
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
 
@@ -200,12 +209,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## The Quantum Stack and the Countdown to Q-Day
 Quantum’s hype obscures a reality with real geopolitical stakes: the technology works and is advancing every day. Cameron Chehreh (IonQ), JD Dulny (Booz Allen), and Ben Gianni (GDIT) join Jonathan to discuss the race to Q-Day. They cover the shift to post-quantum cryptography, competing hardware mod
-
-## Stop Using AI. Start Commanding It
-Walk into the Pentagon, climb the escalator, and an Uncle Sam-style poster points at you: “I want YOU to use AI.” It worked. GenAI.mil hit 1.5 million users in six months, and I have heard enough OpenAI-in-disguise pitches to last a lifetime. The adoption really is great, but the poster contains a p
-
-## The (Un)importance of the Battle of Tours
-Editor’s note: This is the first article in a new occasional series featuring battles that just didn’t matter, may look important, but in fact had negligible strategic or political effects or were absurd, anticlimactic, or structurally irrelevant to the wars they were part of.Some battles never end.
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion
-The Republican House speaker defends the US-Israel war on Iran and praises Trump's 'steady hands at the wheel'.
+## Nepal floods: Father borrows $13, walks for days to search for missing son
+Poor, frustrated and angry, Talka Sada is losing hope after trekking across Nepal's flood-hit areas in his search.
 
-## What to know about Germany’s drone attack accusations against Russia
-German intelligence has concluded that an explosive-laden drone was linked to Russia. Officials promise consequences.
+## Turkiye launches search for cargo ship after vessels collide off Istanbul
+Search operations under way after authorities lose contact with 10 crew members after a collision in the Sea of Marmara.
 
-## Iran says US bombed a wedding party in Sirik, killing five
-Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.
+## As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’
+Imprisoned in Spain, James 'Fergie' Chambers has supported charities but is accused of aiding Hamas.
 
-## IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad
-UN watchdog says Syria 'failed to report nuclear material, facilities and activities' under Bashar al-Assad's rule.
+## Tyson Fury confirms Anthony Joshua fight at NYC’s Madison Square Garden
+No date has been set for the all-British heavyweight boxing showdown, but it is expected to be held in November.
 
-## US launches new strikes on Iran, denies its bases hit in Jordan
-The US launched new strikes on Iran's southern coast with explosions reported in several locations.
+## ‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war
+An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.
 
-## US pushes looser approach to AI regulation, while EU pushes new law
-US calls for deregulation of AI at a G20 ministerial meeting, emphasising industry growth over regulatory constraints.
+## Mark Ruffalo comments cause pushback against anti-Semitism ‘smear campaign’
+The actor criticised Paramount-Warner Bros merger, linking it to Oracle's ties with Israeli military amid Gaza genocide.
 
-## Moment US strikes on Iranian port city hit wedding party
-Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.
+## Faster homework, poor exam results: What AI is doing to students’ learning
+AI is spreading in classrooms, but its impact on learning depends less on the technology than on how students use it.
 
-## Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan
-Tehran pledges 'severe punishment' and retaliation against Washington following a new wave of US attacks.
+## Palestinian artist Saint Levant delays tour amid US visa complications
+Visa cancellations or delays have forced international artists to rethink US tours under President Donald Trump.
 
 ## Caratlane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
