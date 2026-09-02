@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## Zelenskyy rebukes spy agencies after Kyiv shootout
-Incident in sleepy district involved espionage agency and military unit
+## FirstFT: Xi Jinping visits Egypt in rare foreign travel tour
+Also in today’s newsletter: JPMorgan curbed lending to Jane Street and Uber plans sweeping lay-offs
 
-## Students and opposition activists targeted with spyware in Serbia
-Twelve of those targeted received notifications from Apple that their iPhones were compromised
-
-## Trump administration backs OpenAI in New York Times copyright battle
-US urges court to reject newspaper’s claim that it is illegal to train AI models on copyrighted content
-
-## Badenoch takes on Burnham after shake-up of her top team
-Tory leader has installed combative, media-hungry figures in key roles such as new shadow chancellor Andrew Griffith
+## Struggling Republicans urge Trump to open Maga Inc’s $400mn war chest
+US president’s Super Pac has yet to deploy significant money in midterms race despite polls pointing to his party’s defeat in November
 
 ## Chevron to double Venezuela oil production with $7bn pledge
 US major commits to expanding its joint ventures as White House pushes for huge increase in production in the country
 
-## EU accelerates plans to break up diplomatic service
-France and Germany drive push for reform as pressure mounts on Brussels to find budget savings
+## Pentagon chaos deepens after Driscoll quits in clash with Hegseth
+Army secretary’s exit leaves ‘serious leadership gaps’ as US military grapples with protracted Iran conflict
+
+## JPMorgan curbed lending to Jane Street as trading firm muscled into bonds
+Wall Street bank’s move last year came after trading specialist began making markets in US Treasuries
+
+## Burnham and Macron meet as Bayeux Tapestry unveiled
+UK and French leaders join King Charles at the British Museum to view the 70-metre embroidered linen cloth
+
+## Burnham seeks to protect UK farming and steel in EU reset talks
+New British prime minister will hold first big bilateral meeting with French President Emmanuel Macron on Thursday
+
+## Google spared break-up of online advertising monopoly
+Judge rejects US Department of Justice’s request to force the sale of parts of the search giant’s ads business
+
+## Trump administration backs OpenAI in New York Times copyright battle
+US urges court to reject newspaper’s claim that it is illegal to train AI models on copyrighted content
 
 ## The wrong way to revive Venezuela’s economy
 Oil deal is most striking example yet of Trump’s new state capitalism
-
-## How refugee camps become mini-economies
-In an era of aid cuts, entrepreneurialism in the Mahama refugee camp in Rwanda is increasingly important
 
 ## BP gets the chair it wants rather than the one it needed
 What Ian Tyler can do is shore up the rest of the board, seeking directors with traits and competences he lacks
@@ -32,15 +38,6 @@ Keeping hedge funds out may ease qualms over profiting from misfortune but not s
 
 ## AI spots cyber gaps faster than financial firms can fix them
 UK regulator says companies risk being overwhelmed by frontier models’ findings
-
-## Uber to axe 10% of its workforce in biggest cuts since pandemic
-Ride-hailing group to eliminate 3,300 jobs as competition rises in food delivery sector and robotaxi race intensifies
-
-## UK mortgage borrowers urged to lock in deals before rates rise
-Home loan market braced for fixed-rate rises after bond market sell-off
-
-## ENRC settles with UK prosecutors and former lawyers over abandoned probe
-Agreement draws line under years-long battle between miner and SFO
 
 ## Banking Units in IFSC disbursed $52 billion against FCNR(B) deposits
 According to RBI data, the inflows through the special foreign currency non-resident bank (FCNR-B) deposit have crossed the century mark, according to the Reserve Bank of India
@@ -138,6 +135,12 @@ China’s national pension reserve more than doubled its offshore investments ov
 ## China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk
 China’s health regulators have granted approvals for a string of brain-technology products this year, as domestic start-ups push to transform the treatment of conditions ranging from paraplegia to Alzheimer’s and depression. The approvals come as Beijing bids to lead the world in brain-computer inte
 
+## Iran Accuses U.S. Military of a War Crime
+Renewed fighting has taken a deadly turn after a month without major military action.
+
+## Nepal’s Disaster Demands a Regional Response
+The glacier collapse and floods that followed show why neighboring states must cooperate to reduce future threats.
+
 ## How U.S. Allies Can Resist Washington’s Bullying
 The attack on the ICC offers a chance for solidarity on shared values.
 
@@ -155,12 +158,6 @@ The war in Ukraine may rage on, but Russia remains far from an international par
 
 ## Trump’s Venezuela Oil Deal Is a Farce
 There aren’t 65 billion barrels, they won’t be lowering gas prices, and they won’t refill the SPR.
-
-## Nepal Pays the Price for Climate Change
-Melting glaciers and devastating floods are hitting the Himalayas.
-
-## Cognitive Dissonance Dominates Hormuz
-Ships can’t navigate a reality that exists only in Trump’s head.
 
 ## US Drugmakers Are Dependent on Chinese Supply Chains
 Analysts warn a disruption in Chinese sources of common antibiotics or blood thinners could leave American patients with no reliable alternative.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Dreams shattered: Gaza amputees struggle under blockade and rubble
-Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.
+## OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy
+Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.
 
-## Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
-Regional neighbours condemn attack this week that killed two crew members from the Philippines.
+## Republican senator calls on Trump to fire Secretary of Defence Hegseth
+Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.
 
-## US says it will use regional body to isolate Nicaragua
-Move comes after Nicaragua's lawmakers change constitution to ban most political opposition.
+## Israeli PM says Israel is working to overthrow Iran’s government
+Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.
 
-## Malta businessman acquitted of plotting journalist Caruana Galizia murder
-The 2017 killing of anticorruption journalist shocked Europe and set off a political firestorm in Malta.
+## Children return to school in DR Congo amid growing concerns over Ebola
+Children return to school in DR Congo amid growing concerns over Ebola
 
-## EU pursuing more Russia sanctions after failed airport attack: Kallas
-EU foreign affairs chief Kaja Kallas warns of more pressure after Germany blames Russia for attempted attack.
+## Israel still wants to remove Palestinians from Gaza, defence minister says
+Israel Katz says 'there is no real solution for Gaza' without de-populating the territory.
 
-## USS Abraham Lincoln reaches Thailand after 9 months at sea
-The port visit comes amid reports of severe emotional strain and poor conditions on board following nine months at sea.
+## Two Palestinians killed as settlers, Israeli forces raid West Bank village
+Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.
 
-## Signing ceremony as US to control a fifth of Venezuela’s oil reserves
-Signing ceremony as US to control a fifth of Venezuela’s oil reserves.
+## The long-term implications of Pete Hegseth’s US military purges
+Resignation of US Army secretary is latest loss at the top for the military.
 
-## Will the EU take action against Israel?
-Surge in Israeli settler attacks against Palestinians
+## Nepal families hold symbolic funerals, thousands still missing
+Families in Nepal hold symbolic funerals as rescuers search for survivors and bodies.
 
 ## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
