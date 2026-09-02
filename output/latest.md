@@ -1,7 +1,22 @@
 # AION Intelligence
 
-## Tim Cook to be paid $47mn as Apple’s executive chair
-Pay package signals big role for former CEO as his successor John Ternus gets $58mn
+## Nepal’s rapper-turned-PM faces Himalaya flood test
+Balendra Shah must rebuild shattered nation after being catapulted to power by Gen Z uprising
+
+## Massachusetts’ 80-year-old senator sees off primary challenge over his age
+Progressive lawmaker Ed Markey defeats moderate rival more than three decades younger
+
+## The Takaichi revolution
+The prime minister’s style is clashing with Japan’s traditions — and the bond market
+
+## Pentagon chaos deepens after Driscoll quits in clash with Hegseth
+Army secretary’s exit leaves ‘serious leadership gaps’ as US military grapples with protracted Iran conflict
+
+## China derails consensus on communiqué after US-hosted G20
+Beijing objects to language calling for elimination of ‘non-market’ policies to curb trade imbalances
+
+## Tim Cook handed $47mn pay deal as Apple’s executive chair
+Package signals big role for former CEO as his successor John Ternus gets $58mn
 
 ## China’s real robot revolution is not about humanoids
 The country is using its superpower of scaling and building supply chains to challenge the global industry
@@ -9,20 +24,11 @@ The country is using its superpower of scaling and building supply chains to cha
 ## Germany blames Russia for Leipzig drone attack
 Interior minister Alexander Dobrindt says his country is ‘not at war, but a daily target of hybrid warfare’
 
-## FirstFT: Global bond sell-off deepens
-Also in today’s newsletter: Shein shares slide in Hong Kong debut and South Korea unveils record budget increase
-
 ## US diesel prices soar as Trump hauls in refiners
 President holds White House meeting as fresh escalation in his Iran war threatens new inflationary spiral
 
-## China derails consensus on communiqué after US-hosted G20
-Beijing objects to language calling for elimination of ‘non-market’ policies to curb trade imbalances
-
 ## US defends Venezuela deal as Chevron prepares to expand operations
 Trump administration justifies agreement as a way to expel Chinese and Russian adversaries from oilfields in ‘our hemisphere’
-
-## Andy Burnham accused of taking Britain back to the 1970s
-Conservative leader Kemi Badenoch says new prime minister is living in the past
 
 ## Russia secretly helping Iran develop supersonic cruise missiles
 Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran
@@ -33,29 +39,29 @@ Bond yields keep rising after the Fed chair’s Jackson Hole speech
 ## GoPro: a totally normal, unremarkable piece of merger activity
 Camera action
 
-## Blackstone exits EPL with entire 26.38% stake sale for ₹2,032 crore
-The stake sale comes as EPL prepares for a proposed merger with Indovida India to create a larger packaging entity.
+## Sensex today | Stock Market Live Updates: Markets may fall as widening Iran conflict raises oil price
+Sensex, Nifty, Share Prices Live Updates: ndian shares will open lower on Wednesday, in line with global markets, as oil ​prices surged to a near-six-week high after the U.S. ‌and Iran exchanged strikes overnight, intensifying the Middle ​East conflict and renewing concerns over inflation
 
-## Mahanadi Coalfields IPO: Coal India to sell 10% stake
-The proposed offering comes as India’s primary market shows signs of revival after a sluggish start to the year.
+## Akasa Air inducts 42nd aircraft, its 11th addition in 2026
+Boeing 737 MAX 8-200 lands at Navi Mumbai; airline has 226 MAX aircraft on firm order
 
-## Tata Motors gets ECB nod for ₹40,000-crore Iveco takeover
-The European Central Bank has approved Tata Motors’ proposed acquisition of qualifying holdings in two Iveco-linked financial institutions
+## UN Secretary General Antonio Guterres to participate in BRICS Summit in India
+Guterres also reaffirms the commitment of the UN to support all diplomatic efforts aimed at a comprehensive and durable solution
 
-## Three South Indian medtech startups get an Israel launchpad
-The programme offers the founders exposure to Israel’s healthcare ecosystem, clinical validation expertise and potential pathways to international markets
+## Govt sets paddy procurement target at 708.64 lakh tons in KMS 2026-27, lower than actuals of last 3 yrs
+The scaled-down target reflects a contraction in the paddy-sown area, which stood at 414.10 lakh hectare as of August 31, against 428.46 lakh hectare a year earlier, according to Agriculture Ministry data
 
-## Reliance looks to pull off a Campa with ₹10 ice cream; freezer battle holds the key
-RCPL reaches over three million outlets through 5,000 distributors and has scaled gross revenue to roughly ₹22,000 crore, backed by Reliance’s planned ₹30,000-crore investment in food-manufacturing infrastructure
+## Nifty set to open lower as oil hits near-six-week high on US-Iran strikes
+GIFT Nifty at 24,033.5; Brent jumps 2% to $96.6 on renewed West Asia escalation
 
-## IRDAI proposes Public Insurance Registry to create digital public infrastructure for insurance
-The registry is proposed to address information and interoperability gaps by providing a consistent and authoritative view of insurance records, while allowing relevant information to remain with the respective source institutions
+## KC GLOBAL MEDIA ASIA'S NEW DRAMA SERIES "VIII: AWAKENING" WRAPS PRODUCTION IN BEIJING
+KC GLOBAL MEDIA ASIA'S NEW DRAMA SERIES "VIII: AWAKENING" WRAPS PRODUCTION IN BEIJING
 
-## Keralam’s GCC Boilerplate and Sensory Workspaces pitch to attract GCCs
-The State will launch its “GCC boilerplate” — a plug-and-play regulatory blueprint paired with attractive fiscal perks
+## Haidilao scales global loyalty with Infobip's data-led personalization
+Haidilao scales global loyalty with Infobip's data-led personalization
 
-## FADA appoints Sai Giridhar as its 38th President
-The governing council also unanimously elected Bharat Kumar Chordia, MD of Chennai-based Khivraj Motors, as the Treasurer
+## Visa Launches Enhanced A2A Protect Innovations to Help Financial Institutions Stop Fraud Before Money Leaves Accounts
+Visa Launches Enhanced A2A Protect Innovations to Help Financial Institutions Stop Fraud Before Money Leaves Accounts
 
 ## Rs 25,000 salary to Rs 1 crore EPF corpus: Compounding math can make you a crorepati
 Over time, the interest earned on the accumulated balance earns interest, allowing compounding to steadily increase your retirement savings. With regular contributions maintained over a long period, an employee can potentially build an EPF corpus of Rs 1 crore or more.
@@ -81,29 +87,38 @@ His financial journey, however, did not begin with a large salary or a carefully
 ## Centre halves sugar stock limit for dealers to curb hoarding, price rise
 
 
+## Three killed in separate wall collapse incidents in Odisha amid heavy rainfall
+Odisha recorded 1,154.3 mm of rainfall between June 1 and August 31 against its normal seasonal rainfall of 1,150.2 mm
+
+## Cops quiz witnesses to form ‘watertight’ case over Greater Noida-Delhi bus gangrape
+A police officer associated with the probe said that they have written to the Forensic Science Laboratory to expedite the report.
+
+## Year on, ex-VP Jagdeep Dhankhar yet to get official house
+His office declined to comment on housing proposals since his resignation amid allegations of being forced to quit.
+
+## Girl jumps off Faridabad school roof, dies; dad says made to stand in sun for hours
+School staff rushed her to Badshah Khan Civil Hospital, where she was declared dead from injuries sustained in the fall, police said.
+
+## Exclusive: Return to Bangladesh not about power but to stand by people, says ex-PM Sheikh Hasina
+A stable, democratic, secular and development-oriented Bangladesh is important not only for Bangladesh, but also for India’s security, Hasina said.
+
+## Ram Temple trust may finalise new CEO today, 3 names recommended
+Three names for the CEO were recommended by three-member Search Committee in its report submitted to Shri Ram Janmabhoomi Teerth Kshetra Trust.
+
 ## Nepal floods: 163 Indians rescued, 151 leave China as India steps up rescue operations, says Centre
 The MEA said the Indian tunnel rescue team established a foothold at hydropower tunnels in Chilime.
 
 ## 8 challans in July, no background check of accused: Shocking details emerge in Noida bus rape case
 The bus ran for several kilometers unstopped before the accused left the girl in Delhi.
 
-## Dialogue, not war: Modi pushes diplomacy for West Asia, targets terror ecosystem
-Modi said terrorism remains a serious challenge to humanity. “In the fight against terrorism, we cannot remain confined to an action-reaction approach,” he said.
+## China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk
+China’s health regulators have granted approvals for a string of brain-technology products this year, as domestic start-ups push to transform the treatment of conditions ranging from paraplegia to Alzheimer’s and depression. The approvals come as Beijing bids to lead the world in brain-computer inte
 
-## Anna Hazare's condition ‘stable’ after viral infection; Fadnavis visits activist, wishes speedy recovery
-Dr Gautam Bhansali, the doctor treating Anna Hazare, told Hindustan Times that his condition was stable and that investigations were underway.
+## China’s tech push fuels fastest profit growth in 4 years amid signs of economic divide
+Artificial intelligence demand and technological domestic substitution drove profit growth for Chinese listed companies to its fastest pace in four years in the first half, underscoring the nation’s K-shaped economy as it transitions away from credit-fuelled expansion. Profit for firms on the chip-h
 
-## ‘Don’t eat, buy or sell fish caught in Nepal floodwaters': Bihar warns citizens
-Bihar authorities have issued a public advisory warning residents against buying, selling, or consuming unfamiliar or unusual fish found in floodwaters.
-
-## Train passenger deboarded, booked for lighting 'diya' on berth, says central railway
-The CR appealed to passengers not to carry inflammable articles or light diyas, candles or incense sticks inside trains.
-
-## Cops grill Abhishek Banerjee for 5 hours in Camac Street case; he calls it political vendetta
-Abhishek Banerjee was summoned in connection with a clash between his supporters with officials who went to his Camac Street office to remove an unauthorised billboard
-
-## Women returning from maternity leave entitled to position before leave: HC
-The court asked the Centre to frame in six months rules addressing post maternity reinstatement, lactation support, creche disclosure and grievance redressal timelines
+## Lofter saga rumbles on as Mong Kok project renamed, owners push for quick sales
+A residential project previously managed by troubled Hong Kong developer Lofter Group is returning to the market under a new name, as its owners push to quickly sell the flats by courting mainland Chinese and longer-term investors with competitive prices. The 139-unit project at 1 Ki Lung Street in 
 
 ## Volkswagen launches inquiry into Changzhou supplier following mass graduate lay-offs
 After significant lay-offs by a key Chinese auto supplier in Changzhou city of Jiangsu province involving over a hundred new graduates sparked nationwide outrage and forced Volkswagen to launch an investigation, analysts note the episode could lead to an overhaul of corporate-governance practices ac
@@ -119,15 +134,6 @@ China’s tax authorities announced on Tuesday that the country would end the ta
 
 ## Shein slips on Hong Kong debut amid fast-fashion challenges
 Fast-fashion retailer Shein fell on its Hong Kong trading debut as the unprofitable company contends with rising competition and the loss of tax breaks in key markets. Its shares dropped 0.1 per cent from the initial public offering (IPO) price to close at HK$48.50. They earlier slumped as much as 1
-
-## Global investors descend on China’s Shenzhen to ride wave of AI and robotics opportunities
-Shenzhen, the southern Chinese city home to US-sanctioned telecoms giant Huawei Technologies and drone maker DJI, has seen an influx of investors and business leaders amid rising global interest in Chinese artificial intelligence and robotics. On Tuesday, the tech hub hosted investor conferences led
-
-## Foreign investors expected to eye more China A shares – but pace set to ease: analyst
-Foreign investors are expected to keep adding to their China A-share holdings, though the pace of buying is likely to slow from the surge in the first half of the year, according to a UBS analyst. “We still expect net inflows in the second half, but the pace will be somewhat slower than in the first
-
-## Citigroup boosts headcount by 25% on north Asia desk, Invesco names new Asia-Pacific head
-US financial institutions Citigroup and Invesco have separately announced that they would continue to expand their presence in Asia, even as the financial industry faces geopolitical uncertainties and Beijing tightens its control on overseas investment. Citi would boost the headcount of its north As
 
 ## Nepal’s Deadly Floods Put China and India on Edge
 Geopolitical conflict will only get worse with climate change.
@@ -153,6 +159,12 @@ The race to succeed António Guterres has started—and four very different cand
 ## The Free Speech Ideologue Taking on Europe
 Sarah Rogers’s combative online persona has earned her a reputation. But the State Department official is more deliberative than she seems.
 
+## As the World Nomad Games Come Home, Japarov Expands Kyrgyzstan’s National Story
+The opening of the games coincided with Kyrgyzstan's 35th independence anniversary and a major Shanghai Cooperation Organization summit.
+
+## To Secure the Natuna Sea, Indonesia Needs More Than New Ships
+Maritime security is one of Indonesia’s most demanding defense domains. And at its current stage, Indonesia needs significant help.
+
 ## Japan, South Korea, and the New Logic of Nuclear Energy Security in Northeast Asia
 The two neighbors are reshaping the nuclear politics of Northeast Asia – and doing so increasingly in concert with Washington.
 
@@ -170,12 +182,6 @@ The new rules would hit Tajikistan’s tourism companies while benefiting an aff
 
 ## Was Abe Shinzo an Idealist?
 A new biography of Japan's longest-serving prime minister reevaluates his realist legacy.
-
-## Taiwan Finally Passed Its 2026 Budget. What Got Cut?
-The budget was passed almost 9 months late, amid growing concern that defense spending was being held up – especially funding for drones.
-
-## Ethanol Issue Has Entered Indian Kitchens, Impacting Household Budgets
-What began as an energy policy to reduce crude imports has travelled through the agricultural supply chain and ended up on the dinner table.
 
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
@@ -225,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Fernandez transfers to Man City from Chelsea in joint British record fee
-Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).
+## Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion
+The Republican House speaker defends the US-Israel war on Iran and praises Trump's 'steady hands at the wheel'.
 
-## Cisco accused of fostering a hostile workplace for Muslim and Arab employees
-Cisco employees allege harassment after internal activism against technology sales to the Israeli military.
+## What to know about Germany’s drone attack accusations against Russia
+German intelligence has concluded that an explosive-laden drone was linked to Russia. Officials promise consequences.
 
-## US House passes funding bill to avert government shutdown ahead of midterms
-The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.
+## Iran says US bombed a wedding party in Sirik, killing five
+Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.
 
-## US urges G20 to cut trade imbalances, focus on China
-US Treasury Secretary Bessent urges other G20 countries to do more to protect their economies from Chinese imports.
+## IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad
+UN watchdog says Syria 'failed to report nuclear material, facilities and activities' under Bashar al-Assad's rule.
 
-## US energy secretary will travel to Venezuela to unveil oil arrangement
-Venezuela's National Assembly voted to back the 65-billion-barrel oil deal, despite no details being publicly released.
+## US launches new strikes on Iran, denies its bases hit in Jordan
+The US launched new strikes on Iran's southern coast with explosions reported in several locations.
 
-## Urgent need for access to Iranian sites, cautions UN nuclear watchdog
-The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.
+## US pushes looser approach to AI regulation, while EU pushes new law
+US calls for deregulation of AI at a G20 ministerial meeting, emphasising industry growth over regulatory constraints.
 
-## Zelenskyy warns airlines as Ukrainian drones target Russian airspace
-President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.
+## Moment US strikes on Iranian port city hit wedding party
+Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.
 
-## Deadly car bomb attack at Colombia police station
-Deadly car bomb attack at Colombia police station
+## Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan
+Tehran pledges 'severe punishment' and retaliation against Washington following a new wave of US attacks.
+
+## Caratlane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
+CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
 
 ## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
 Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
@@ -269,9 +278,6 @@ The shift is visible across education platforms such as Emeritus, upGrad, Simpli
 
 ## Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore
 Hindusthan National Glass has issued a default notice to Bira 91's parent company. The glass manufacturer seeks recovery of over eleven crore rupees for unpaid dues. This action follows Bira 91's founder stepping down amid financial challenges. Bira 91 has been out of production and faces significan
-
-## AI offers India big opportunities to boost jobs, living standards: World Bank MD Paschal Donohoe
-The global economy shows resilience despite recent shocks and continues growing. Artificial intelligence offers significant opportunities for emerging economies, especially India. India can leverage AI to boost productivity, jobs, and living standards. The World Bank supports India's adoption and ad
 
 ## RBI appoints Suman Ray as Executive Director, to head DICGC and Premises Department
 Suman Ray will assume the role of Executive Director at the Reserve Bank of India. His appointment is effective from September 1, 2026, as announced by the central bank. Previously, Ray served as the Regional Director for Maharashtra and has extensive experience. He will now oversee the Department o
