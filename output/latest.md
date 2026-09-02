@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## US launches further strikes on Iran as conflict flares up
-Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation
+## Spain demands answers as police blame Morocco for migrant crisis
+Minister presses police chief over probe that reportedly accuses Moroccan security forces of orchestrating influx
 
-## European gas prices hit highest this year and oil rises
-Resumption of US-Iran hostilities raises fears of return to full-blown conflict
+## Energy price surge hits bond markets as European gas reaches three-year high
+US 10-year borrowing costs touch highest since 2023 as fears of return to full-blown Iran conflict rise
 
-## France’s debt crisis-in-waiting
-Sowing wild OATs
+## Japan’s borrowing costs hit 30-year high: what does it mean for global markets?
+Move follows weeks of scrutiny of fiscal and monetary policies and rare Washington-Tokyo intervention in currency markets
 
-## Germany loses its shine in the EU’s quest for green investment
-Also in this newsletter: Brussels to turn a blind eye to exemptions in the bloc’s migration system
+## Germany blames Russia for Leipzig drone attack
+Interior minister Alexander Dobrindt says his country is not at war but is ‘a daily target of hybrid warfare’
 
-## FirstFT: US-Iran hostilities reignite
-Also in today’s newsletter: EU’s diplomatic service and German work hours
+## Burnham and Macron to meet as Bayeux Tapestry unveiled
+UK and French leaders will join King Charles at the British Museum, with talks on ‘shared challenges’ also part of visit
 
-## Ukraine considers relaxing curfew rules despite Russian attacks
-Relentless air bombardments paralyse activity in Kyiv and surrounding regions
+## Growth is a life-and-death matter for Europe
+It is the only way of funding the defence of a continent with mortal enemies
 
-## ECB must be prepared to lift interest rates further, says top policymaker
-Irish central bank governor Gabriel Makhlouf says combination of Eurozone inflation above 3% and robust growth makes him ‘uneasy’
+## Ukraine tells airlines to stop using Russian airspace
+Volodymyr Zelenskyy warns ‘safe days in Russia’s skies are over’ as he threatens more drone strikes
 
-## The wheels are coming off the US world order
-Trump believes in a world in which there are no allies, only satellites, and in which power is America’s alone to wield
+## Indonesia’s lessons for the global energy transition
+Country’s solar push highlights momentum — and obstacles — around green energy shift
 
-## Bvlgari’s Laura Burdese: ‘We don’t have this anxiety to keep on launching things’
-The brand’s new CEO on experimenting with established designs, the rise of women’s watches and making creative decisions in the age of AI
+## Chevron pledges $7bn to double its Venezuela oil production
+US major commits to expand its joint ventures as White House pushes for huge increase in production in the country
 
-## BP names Ian Tyler as chair
-UK oil major hands role to interim chair following the removal of Albert Manifold
+## FirstFT: US-Iran hostilities reignite surge in energy prices
+Also in today’s newsletter: Ed Markey sees off younger opponent, and China scuppers G20 consensus
 
-## Back to school: meet PE’s new headmasters
-Top European private capital firms have fresh leadership
+## Ford aims for Nato defence deals as it bids to build UK’s new military vehicle
+US group seeks to revive its global defence business for the first time in nearly four decades
 
-## AI sounds the death knell for audit fee inflation
-Companies’ audit bills increased less than 2% last year, broadly in line with inflation
+## The best, worst and strangest ways AI is really being used at work
+Consultants, lawyers, bankers and others share a snapshot of how tech tools are changing their jobs
 
-## Maersk turns to wind sails to cut fuel for container ships
-Maritime industry returns to age-old technology to reduce future fuel consumption
+## Ryanair warns of higher fares as it cuts winter flights
+Europe’s largest carrier sees short-haul airfares increasing ‘materially’ next year if oil prices remain high
 
-## Mbappé-backed health start-up expands to west Africa
-Deal to buy Senegalese insurer Tanel comes months after fundraising valued France’s Alan at €5.5bn
+## EV batteries last longer than drivers feared
+Study suggests most used vehicles can retain about 90% of original usable battery capacity after 150,000km
 
-## Sensex today | Stock Market Live: Sensex falls over 600 points, Nifty below 23,850 as crude oil surges
-Sensex, Nifty, Share Prices Live Updates: Indian equity benchmarks traded sharply lower on Wednesday as surging crude oil prices, rising US Treasury yields and weak global cues weighed on investor sentiment, while heightened US-Iran tensions added to market uncertainty.
+## Equities extend losses as West Asia tensions push crude higher
+The Nifty 50 closed at 23,914.45, down 141.35 points or 0.59 per cent, while the Sensex fell 373.93 points or 0.49 per cent to 76,570.35
 
-## NCLAT keeps lenders appeals pending against order that cut Subhash Chandra’s liability from ₹22,000 crore to ₹6.25 crore
-The NCLAT chairperson posted the matter for the first week of October.
+## Chenab basin holds nearly four-fifths of J&K’s untapped hydropower potential
+The government has identified hydropower potential of 14,635 MW across three major river basins, of which around 24.21 per cent has so far been harnessed
 
-## APSEZ handles highest-ever monthly cargo volume of 50 MMT in August
-Strong growth in dry cargo and containers helped drive the port operator’s monthly performance, while logistics rail volumes rose sequentially
+## JM Financial AMC closes pre-IPO fund at ₹700 crore in first tranche
+The sector-agnostic fund will invest in companies expected to pursue a public listing within approximately 18 months
 
-## Gold futures slip for 7th day, drop to ₹1.5 lakh/10g amid US-Iran tensions
-On MCX, the yellow metal futures for October delivery declined by ₹1,559, or 1.03% to ₹1,50,170 per 10 grams from Tuesday's closing level of ₹1,51,729 per 10 grams.
+## Khushi Kapoor and Cava Come Together to Create Soft Serve, Her Dream Athleisure Collection
+Khushi Kapoor and Cava Come Together to Create Soft Serve, Her Dream Athleisure Collection
 
-## Worker shortages hit 61% of auto suppliers even as EV shift promises 7.2 million jobs
-India’s auto industry risks building its next generation of EV, battery and component factories faster than it can train the people needed to run them, potentially constraining production, pushing up manpower costs
+## Futura MedTech Appoints Abhishek Bhargava as Group CEO
+Futura MedTech Appoints Abhishek Bhargava as Group CEO
 
-## AutoNXT introduces Autonomous Electric Aero Tiller for precision farming
-It combines the mechanical design of conventional aero tillers with an integrated electric powertrain, intelligent implement controls and cloud-based connectivity
+## Godrej Industries Group's National Chemistry Day Summit Explores Resilience as a Defining Capability for the Chemical Industry
+Godrej Industries Group's National Chemistry Day Summit Explores Resilience as a Defining Capability for the Chemical Industry
 
-## What’s behind the selloff in world bond markets?
-US public debt climbs above $40 trillion; Japanese, French debt woes also in focus; Five AI hyperscalers issue $220 bln debt this year, LSEG data shows
+## Gold loan growth driven more by higher gold prices, repeat borrowing than new customers: Report
+Report flags rising share of repeat customers as key risk for gold loan sector
 
-## Welspun Corp, Perma-Pipe sign MoU to set up pipe manufacturing hub in Jordan
-The proposed facilities will combine steel pipe manufacturing and advanced coating capabilities while creating a platform to serve wider regional infrastructure markets.
+## IT results and stock movements — dead cat bounce?
+For Indian IT vendors, the long-term opportunity is real, but the path to sustained double-digit growth runs through a genuine AI capability build-out
+
+## First Vande Bharat in 2019, sleeper version came in 2026; now 260 trains in works
+The first pair of Vande Bharat sleeper trains was launched earlier this year between Guwahati and Howrah. The second pair is undergoing trials and is expected to enter service soon. Reports suggest it may run between Bengaluru and Mumbai, though an official confirmation is awaited.
+
+## 'To bring more clarity': Centre issues FAQs after oppn red flags GDP figures
+
 
 ## Won Rs 15 lakh chit prize, payout delayed; how he won relief against company’s claim
 Kapil Chits attributed the delay to Eashwar’s late submission of the required sureties, saying the documents had to be verified before the prize money could be released. The Telangana State Consumer Commission, however, found that the company’s own records showed the sureties had been submitted on M
@@ -72,7 +78,7 @@ Kapil Chits attributed the delay to Eashwar’s late submission of the required 
 ## Gold price prediction today: Will gold, silver prices continue to fall? Check September 2, 2026 outlook
 Gold price prediction today: For the near-term, the outlook for both silver and gold remains bearish, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
 
-## Markets fall amid Middle East tensions; Sensex slips 600 points, Nifty below 23,850
+## Sensex drops 373.93 points to settle at 76,570.35; Nifty down 141.35 points to 23,914.45
 
 
 ## Oil prices jump 1% as US-Iran strikes deepen fears of supply disruption
@@ -84,35 +90,38 @@ Stock market recommendations: NLC India, Deepak Nitrite, and Hindustan Copper ha
 ## Rs 25,000 salary to Rs 1 crore EPF corpus: Compounding math can make you a crorepati
 Over time, the interest earned on the accumulated balance earns interest, allowing compounding to steadily increase your retirement savings. With regular contributions maintained over a long period, an employee can potentially build an EPF corpus of Rs 1 crore or more.
 
-## 5-member NCLT bench stays Subhash Chandra '6.5cr repayment order
-Personal guarantor, P 12
+## HT Evening Brief Sep 2: Ram temple trust appoints first CEO; BCCI to meet Gambhir for Indian men's team plan
+Here's your 5-minute sprint through today's biggest stories: politics, India, world, entertainment and sports.
 
-## Sun Pharma offers US cheaper drug supply
+## Delhi HC asks Centre, police, govt to frame SOP for transgender arrests, detention
+Delhi HC directs Centre, Delhi Police and Delhi govt to frame SOP governing arrest, detention and search of transgender persons.
 
+## AIMIM's Syed Asim Waqar joins Congress, says Owaisi-led party fights everyone who wants to remove BJP
+Syed Asim Waqar's switch to the Congress side is likely to impact AIMIM's bid to make electoral inroads in Uttar Pradesh which is going to polls next year.
 
-## 7-yr-old girl dies after consuming antimalarial tablet in Andhra village: Official
-Doctors suspected that chloroquine could have triggered cardiac arrhythmia in a person with such a pre-existing condition
+## Retired Air Marshal Jeetendra Mishra, who led air ops in Op Sindoor, to head Ram temple trust | All you need to know
+Air Marshal Mishra served as Air Officer Commanding-in-Chief of the Western Air Command during Operation Sindoor.
 
-## Thailand's visa-free policy changes for over 60 countries: What Indians should know
-Thailand visa-free stay for Indian tourists will be reduced from 60 days to 30 days from September 15. Here's what changes for Indians travelling to Thailand.
+## NCPI may form coalition with BJP in upcoming Bengal municipal polls, say leaders
+Senior BJP leaders from the state, however, remained non-committal, saying the party was focusing on all 209 seats
 
-## Keralam Cabinet extends validity of PSC rank lists for teacher posts; approves 3 spl NDPS courts
-Keralam Cabinet extends validity of PSC rank lists for teacher posts; approves 3 spl NDPS courts
+## Ex-Army chief recalls horror on Goa-Delhi flight after engine failure, praises pilot
+Former Army chief General JJ Singh recalls hearing a loud noise and hissing sound before an IndiGo Goa-Delhi flight made an emergency landing.
 
-## Keralam CM challenges Islamic cleric who called for women's confinement to homes: ‘Doesn’t suit progressive state'
-The Keralam chief minister rejected the scholar's remarks saying his view does not align with the "progressive" tradition of the south Indian state.
+## A case back in focus: All you need to know about Disha Salian's death case as HC orders CBI probe
+Disha Salian died on June 8, 2020, after she fell off the 14th floor of a residential building in Mumbai's Malad area.
 
-## Security tightened in Srinagar as the BJP and Omar Abdullah's NC take to the streets. What's happening?
-In view of the protests in the capital, heavy security has been deployed to prevent any clashes.
+## Ram temple trust appoints retired Air Marshal Jeetendra Mishra as temple’s first CEO
+The appointment came amid a raging controversy over the alleged embezzlement of temple donations that led to the arrest of eight people.
 
-## Madras HC seeks status report on 85 Tamil Nadu pilgrims missing in Nepal flood
-Contact has not yet been established with 49 people who travelled through Chennai-based Mahadev Kailash Yatra
+## Walmart’s Sam’s Club accelerates expansion in China as membership passes 10.7 million
+US membership-only retailer Sam’s Club has sped up its expansion in China this year, with the launch of its sixth Beijing location on Monday drawing long queues of eager shoppers. The Walmart-owned warehouse retailer has found a winning formula in China, with its value pricing and exclusive goods at
 
-## Air India Express rolls out new uniforms for cabin crew, frontline staff
-Through the airline’s ‘Tales of India initiative’, the airline has introduced distinctive aircraft tail art inspired by India’s indigenous art forms
+## BYD, Leapmotor buck EV market slowdown as pressure piles up on small rivals
+Top performers BYD and Leapmotor clawed their way up higher in terms of sales last month, even as China’s electric vehicle (EV) market was shrinking amid weaker consumer demand. However, smaller players were expected to face falling sales and mounting losses for the rest of the year as competition g
 
-## Enumeration for Census begins in snow-clad areas
-This census marks the first time in independent India that a question of caste has been included in the enumeration.
+## China cracks down on AI ‘slop’, clearing out clutter from WeChat, RedNote, Douyin
+China is cracking down on artificial intelligence-generated “slop” – low-grade, mass-produced synthetic content cluttering social media and news feeds – as part of a sweeping campaign against the abuse of the generative technology, the country’s top internet watchdog said on Wednesday. In a statemen
 
 ## Chinese carmakers eye full hybrid market; BYD posts US$1.2 billion profit: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. After gaining EV sway, Chinese carmakers eye full hybrid market Chinese carmakers, alr
@@ -128,15 +137,6 @@ China’s national pension reserve more than doubled its offshore investments ov
 
 ## China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk
 China’s health regulators have granted approvals for a string of brain-technology products this year, as domestic start-ups push to transform the treatment of conditions ranging from paraplegia to Alzheimer’s and depression. The approvals come as Beijing bids to lead the world in brain-computer inte
-
-## China’s tech push fuels fastest profit growth in 4 years amid signs of economic divide
-Artificial intelligence demand and technological domestic substitution drove profit growth for Chinese listed companies to its fastest pace in four years in the first half of 2026, underscoring the nation’s “K-shaped” economic structure as it transitions away from credit-fuelled expansion. Profit fo
-
-## Lofter saga rumbles on as Mong Kok project renamed, owners push for quick sales
-A residential project previously managed by troubled Hong Kong developer Lofter Group is returning to the market under a new name, as its owners push to quickly sell the flats by courting mainland Chinese and longer-term investors with competitive prices. The 139-unit project at 1 Ki Lung Street in 
-
-## Volkswagen launches inquiry into Changzhou supplier following mass graduate lay-offs
-After significant lay-offs by a key Chinese auto supplier in Changzhou city of Jiangsu province involving over a hundred new graduates sparked nationwide outrage and forced Volkswagen to launch an investigation, analysts note the episode could lead to an overhaul of corporate-governance practices ac
 
 ## Rivals Circle an Out-of-Touch Prabowo
 The emergence of pro-presidential thugs on the streets of Jakarta is a sign of the times.
@@ -162,6 +162,9 @@ Ships can’t navigate a reality that exists only in Trump’s head.
 ## Welcome to the New Defense-Dominant World
 As military power proves less effective, an old IR theory is making a comeback.
 
+## The Limbang Question Lingers On
+The territory's curious status is the result of an unresolved border dispute between Malaysia and Brunei that dates back to the British colonial era.
+
 ## As the World Nomad Games Come Home, Japarov Expands Kyrgyzstan’s National Story
 The opening of the games coincided with Kyrgyzstan's 35th independence anniversary and a major Shanghai Cooperation Organization summit.
 
@@ -183,8 +186,8 @@ China’s pressure campaign against Taiwan doesn’t end when a country switches
 ## Tajikistan Taxes Tourism Trips Abroad to Fund Development at Home
 The new rules would hit Tajikistan’s tourism companies while benefiting an affiliated state body.
 
-## Was Abe Shinzo an Idealist?
-A new biography of Japan's longest-serving prime minister reevaluates his realist legacy.
+## European Resilience in Digital Infrastructure: The Changing Nature of State-Business Relations
+As the war in Ukraine progressed, Russian strikes increasingly degraded Ukraine’s terrestrial communications infrastructure, steadily deepening Kyiv’s dependence on SpaceX’s Starlink. The satellite constellation became indispensable for crucial military functions, including command and control, dron
 
 ## Ukraine’s Ground Robots and the Economics of Survival
 In August 2024, special forces from five Ukrainian military intelligence units crossed the Black Sea to raid Russian-held Kinburn Spit. The commandos of these units — Chimera, Aratta, Stuhna, Paragon, Terror, and the Siberian Battalion — landed, fought, destroyed equipment, and withdrew. Two years l
@@ -206,9 +209,6 @@ In April, President Donald Trump issued two Defense Production Act determination
 
 ## The Divine Calculus of the Ukraine War’s End
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
-
-## The Quantum Stack and the Countdown to Q-Day
-Quantum’s hype obscures a reality with real geopolitical stakes: the technology works and is advancing every day. Cameron Chehreh (IonQ), JD Dulny (Booz Allen), and Ben Gianni (GDIT) join Jonathan to discuss the race to Q-Day. They cover the shift to post-quantum cryptography, competing hardware mod
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,31 +234,31 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Nepal floods: Father borrows $13, walks for days to search for missing son
-Poor, frustrated and angry, Talka Sada is losing hope after trekking across Nepal's flood-hit areas in his search.
+## Killing at Sea
+Three families, two bombings and a hidden war: uncovering the lives behind Operation Southern Spear's dead.
 
-## Turkiye launches search for cargo ship after vessels collide off Istanbul
-Search operations under way after authorities lose contact with 10 crew members after a collision in the Sea of Marmara.
+## The US is gobbling up Venezuelan oil, but will it lower fuel prices?
+Analysts say Venezuelan crude is hard to extract and refine, and likely can't replace oil stuck in the Strait of Hormuz.
 
-## As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’
-Imprisoned in Spain, James 'Fergie' Chambers has supported charities but is accused of aiding Hamas.
+## Nigerian anticorruption agency sacks 40 staff over misconduct allegations
+Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.
 
-## Tyson Fury confirms Anthony Joshua fight at NYC’s Madison Square Garden
-No date has been set for the all-British heavyweight boxing showdown, but it is expected to be held in November.
+## What do we know about the fatal US bombing of a wedding in Iran’s Sirik?
+A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.
 
-## ‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war
-An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.
+## Messi retirement and FIFA ban leave Paredes uncertain of Argentina future
+Leandro ‌Paredes's 10-match ban, alongside Lionel Messi's Argentina retirement, leave former to ponder future.
 
-## Mark Ruffalo comments cause pushback against anti-Semitism ‘smear campaign’
-The actor criticised Paramount-Warner Bros merger, linking it to Oracle's ties with Israeli military amid Gaza genocide.
+## Video: Chinese President Xi makes first visit to Egypt in a decade
+Chinese President Xi Jinping has arrived in Egypt for the first time since 2016 in a state visit.
 
-## Faster homework, poor exam results: What AI is doing to students’ learning
-AI is spreading in classrooms, but its impact on learning depends less on the technology than on how students use it.
+## How indie cinema is beating Hollywood in 2026
+How indie cinema is beating Hollywood in 2026
 
-## Palestinian artist Saint Levant delays tour amid US visa complications
-Visa cancellations or delays have forced international artists to rethink US tours under President Donald Trump.
+## 5,000 US sailors descend on Thailand as USS Abraham Lincoln docks
+Thailand’s Pattaya is expecting a business boost as 5,000 US sailors arrive aboard the USS Abraham Lincoln.
 
-## Caratlane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
+## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
 
 ## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
