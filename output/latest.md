@@ -1,43 +1,46 @@
 # AION Intelligence
 
-## Energy price surge hits bond markets as European gas reaches three-year high
-US 10-year borrowing costs touch highest since 2023 as fears of return to full-blown Iran conflict rise
+## Zelenskyy rebukes spy agencies after Kyiv shootout
+Incident in sleepy district involved espionage agency and military unit
+
+## Students and opposition activists targeted with spyware in Serbia
+Twelve of those targeted received notifications from Apple that their iPhones were compromised
+
+## Trump administration backs OpenAI in New York Times copyright battle
+US urges court to reject newspaper’s claim that it is illegal to train AI models on copyrighted content
+
+## Badenoch takes on Burnham after shake-up of her top team
+Tory leader has installed combative, media-hungry figures in key roles such as new shadow chancellor Andrew Griffith
+
+## Chevron to double Venezuela oil production with $7bn pledge
+US major commits to expanding its joint ventures as White House pushes for huge increase in production in the country
+
+## EU accelerates plans to break up diplomatic service
+France and Germany drive push for reform as pressure mounts on Brussels to find budget savings
+
+## The wrong way to revive Venezuela’s economy
+Oil deal is most striking example yet of Trump’s new state capitalism
+
+## How refugee camps become mini-economies
+In an era of aid cuts, entrepreneurialism in the Mahama refugee camp in Rwanda is increasingly important
+
+## BP gets the chair it wants rather than the one it needed
+What Ian Tyler can do is shore up the rest of the board, seeking directors with traits and competences he lacks
 
 ## California opines on who profits from wildfires but not on who pays
 Keeping hedge funds out may ease qualms over profiting from misfortune but not settle who bears the cost
 
-## The Restore Britain backer who once gave money to the Lib Dems
-Entrepreneur Simon Galbraith’s gift to the far-right party has startled the tech start-up scene, with some saying it risks a ‘reverse Midas touch’
-
-## Morocco in spotlight as Spanish police report sparks Ceuta blame game
-Minister presses police chief over probe that reportedly accuses Moroccan security forces of orchestrating influx
+## AI spots cyber gaps faster than financial firms can fix them
+UK regulator says companies risk being overwhelmed by frontier models’ findings
 
 ## Uber to axe 10% of its workforce in biggest cuts since pandemic
 Ride-hailing group to eliminate 3,300 jobs as competition rises in food delivery sector and robotaxi race intensifies
-
-## Chevron to double Venezuela oil production with $7bn pledge
-US major commits to expand its joint ventures as White House pushes for huge increase in production in the country
-
-## Students and opposition activists targeted with spyware in Serbia
-Twelve of those targeted received notifications from Apple that their iPhones were compromised
 
 ## UK mortgage borrowers urged to lock in deals before rates rise
 Home loan market braced for fixed-rate rises after bond market sell-off
 
 ## ENRC settles with UK prosecutors and former lawyers over abandoned probe
 Agreement draws line under years-long battle between miner and SFO
-
-## A vital tenet of US equity markets is under threat
-SEC reforms risk the ability of investors to compare companies
-
-## Ukraine tells airlines to stop using Russian airspace
-Volodymyr Zelenskyy warns ‘safe days in Russia’s skies are over’ as he threatens more drone strikes
-
-## FT Wealth: September
-In this edition: The elusive tycoon who bought into Cuba’s cigar trade; how philanthrophy is responding to the rise of AI; the brand extension that’s a wrong turn for Ferrari; wealthy investors are filling the world’s vaults with physical gold; Britain’s churches need a miracle to keep the roof on
-
-## Indonesia’s lessons for the global energy transition
-Country’s solar push highlights momentum — and obstacles — around green energy shift
 
 ## Banking Units in IFSC disbursed $52 billion against FCNR(B) deposits
 According to RBI data, the inflows through the special foreign currency non-resident bank (FCNR-B) deposit have crossed the century mark, according to the Reserve Bank of India
@@ -87,6 +90,18 @@ The government released FAQs to explain its GDP estimation methods. This clarifi
 ## Won Rs 15 lakh chit prize, payout delayed; how he won relief against company’s claim
 Kapil Chits attributed the delay to Eashwar’s late submission of the required sureties, saying the documents had to be verified before the prize money could be released. The Telangana State Consumer Commission, however, found that the company’s own records showed the sureties had been submitted on M
 
+## UP floods: Over 16K evacuated as 23 districts hit; 3 killed, relief ops scaled up
+UP floods: Over 16K evacuated as 23 districts hit; 3 killed, relief ops scaled up
+
+## ‘Not happy’: Meghalaya HC questions police over August 19 violence probe
+The high court expressed dissatisfaction with the probe’s progress and raised questions regarding the police response before, during, and after the procession
+
+## Bihar on alert as major rivers swell following heavy rains, all 69 gates of Sone Barrage opened
+All 69 gates of the Sone Barrage at Indrapuri in Rohtas district have been opened to facilitate the flow of water and help control the flood situation.
+
+## Delhi HC dismisses petition against closing Vizag airport operations
+The Delhi high court dismissed the petition after being informed that a petition on similar lines was already pending before the Andhra Pradesh high court
+
 ## 5 dead, 20 injured in bus-bulker crash in MP; PM Modi offers condolences
 Prime Minister Narendra Modi expressed deep grief and offered condolences following a tragic mishap in Rewa, Madhya Pradesh.
 
@@ -98,18 +113,6 @@ Jaishankar is the first senior Indian leader to travel to Ukraine since Prime Mi
 
 ## Maharashtra FDA suspends licences of two more food establishments in Mumbai
 Inspections found several lapses at these establishments including inadequate storage facilities, poor personal hygiene, deficient pest-control measures
-
-## 'Alarming apathy': India lambasts Pakistan over demolition of century-old Punjab temple
-A Hindu temple in Pakistan Punjab's Narowal, estimated to be over a century-old, was reportedly demolished on August 21.
-
-## Maintenance to estranged wife 'cannot go beyond husband's means': Delhi court
-A Delhi court made the observation while dismissing an appeal by a woman challenging an interim maintenance of ₹1,840 a month under the Domestic Violence Act.
-
-## 55km Indo-Myanmar border fencing completed, says Manipur home minister
-The home minister clarified that the government has been putting its effort to identify the unsettled area of the Indo-Myanmar stretch
-
-## ‘Grateful to Lord Ram’: Retd Air Marshal Jeetendra Mishra’s first reaction after being named Ayodhya temple’s first CEO
-In his first reaction, Jeetendra Mishra said he prayed to God to give him the capability to shoulder the responsibility well.
 
 ## Walmart’s Sam’s Club accelerates expansion in China as membership passes 10.7 million
 US membership-only retailer Sam’s Club has sped up its expansion in China this year, with the launch of its sixth Beijing location on Monday drawing long queues of eager shoppers. The Walmart-owned warehouse retailer has found a winning formula in China, with its value pricing and exclusive goods at
@@ -135,6 +138,9 @@ China’s national pension reserve more than doubled its offshore investments ov
 ## China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk
 China’s health regulators have granted approvals for a string of brain-technology products this year, as domestic start-ups push to transform the treatment of conditions ranging from paraplegia to Alzheimer’s and depression. The approvals come as Beijing bids to lead the world in brain-computer inte
 
+## How U.S. Allies Can Resist Washington’s Bullying
+The attack on the ICC offers a chance for solidarity on shared values.
+
 ## Rivals Circle an Out-of-Touch Prabowo
 The emergence of pro-presidential thugs on the streets of Jakarta is a sign of the times.
 
@@ -156,32 +162,32 @@ Melting glaciers and devastating floods are hitting the Himalayas.
 ## Cognitive Dissonance Dominates Hormuz
 Ships can’t navigate a reality that exists only in Trump’s head.
 
-## Welcome to the New Defense-Dominant World
-As military power proves less effective, an old IR theory is making a comeback.
+## US Drugmakers Are Dependent on Chinese Supply Chains
+Analysts warn a disruption in Chinese sources of common antibiotics or blood thinners could leave American patients with no reliable alternative.
+
+## Mongolia’s President at the SCO Summit
+For Mongolia, the highlights were the bilateral meetings held on the sidelines with Kyrgyzstan, China, and Russia.
+
+## From Partnership to Penalty: US Tariffs Shadow India Trade Deal
+The promise of deeper economic cooperation is undermined by punitive measures that could torpedo the India-U.S. pact even before it is signed.
+
+## Prioritizing Social Stability Over Democratic Reforms: Uzbekistan Announces New Development Programs
+Uzbekistan’s new national development programs prioritize socio-economic developments over democratic reforms.
+
+## Land Seizures in the Name of Development in Vietnam
+More and more Vietnamese are being forcibly displaced to make way for development. Many are reluctant to speak out, because “between a victim and a criminal lies only a fragile line.”
+
+## Balancing China and Russia: India’s Tightrope Walk at BRICS
+New Delhi aims to keep BRICS relevant to the Global South while preventing its transformation into a Chinese bandwagon or an explicitly anti-Western coalition.
 
 ## The Limbang Question Lingers On
 The territory's curious status is the result of an unresolved border dispute between Malaysia and Brunei that dates back to the British colonial era.
 
-## As the World Nomad Games Come Home, Japarov Expands Kyrgyzstan’s National Story
-The opening of the games coincided with Kyrgyzstan's 35th independence anniversary and a major Shanghai Cooperation Organization summit.
+## Why Pakistan Is Shrugging Off Trump’s Latest Iran Sanctions
+A Pakistani statement signals to Tehran that Islamabad will not undermine a relationship or existing trade ties that have long faced pressure from U.S. sanctions.
 
-## To Secure the Natuna Sea, Indonesia Needs More Than New Ships
-Maritime security is one of Indonesia’s most demanding defense domains. And at its current stage, Indonesia needs significant help.
-
-## Japan, South Korea, and the New Logic of Nuclear Energy Security in Northeast Asia
-The two neighbors are reshaping the nuclear politics of Northeast Asia – and doing so increasingly in concert with Washington.
-
-## Ayesha Siddiqa on the Pakistan Army’s Police State
-Siddiqa argues that Pakistan is not a hybrid regime but a case of constitutional militarism, sanctioned by a parliament that has legislated away its own relevance.
-
-## Jeremy Douglas on Southeast Asia’s Drug Boom
-"This is a region that is arguably now the largest epicenter of synthetic drug production in the world," says the UNDOC deputy director.
-
-## China Wants to Push Taiwan out of the Pacific
-China’s pressure campaign against Taiwan doesn’t end when a country switches recognition to Beijing.
-
-## Tajikistan Taxes Tourism Trips Abroad to Fund Development at Home
-The new rules would hit Tajikistan’s tourism companies while benefiting an affiliated state body.
+## Is Taiwanese Society Prepared for a China Contingency?
+In 2025, Michael Hunzeker and Yuster Yu wrote, “Taiwan’s Biggest Problem in Steeling Itself for War With China is Cultural,” where they argued major cultural changes were needed in both Taiwan’s military and civilian society if it were to be competitive in a conflict with China. A year later, we ask
 
 ## European Resilience in Digital Infrastructure: The Changing Nature of State-Business Relations
 As the war in Ukraine progressed, Russian strikes increasingly degraded Ukraine’s terrestrial communications infrastructure, steadily deepening Kyiv’s dependence on SpaceX’s Starlink. The satellite constellation became indispensable for crucial military functions, including command and control, dron
@@ -203,9 +209,6 @@ Editor’s Note: While War on the Rocks has a high standard for allowing pseudon
 
 ## The Political Constraint on America’s Data-Center Power Buildout
 In April, President Donald Trump issued two Defense Production Act determinations covering grid infrastructure and large-scale energy infrastructure. One found that the country’s constrained electric grid posed an increasing threat to national defense and made grid infrastructure and its supply chai
-
-## The Divine Calculus of the Ukraine War’s End
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Zambia’s Hichilema begins second term amid disputed vote and arrests
-Economic gains face growing scrutiny as political tensions deepen after the vote.
+## Dreams shattered: Gaza amputees struggle under blockade and rubble
+Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.
 
-## George Clooney: US government run by ‘least qualified people’
-US actor George Clooney has described US President Donald Trump’s administration as a ‘kakistocracy’.
+## Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
+Regional neighbours condemn attack this week that killed two crew members from the Philippines.
 
-## WHO chief warns Ebola response must ramp up to stem DRC outbreak
-Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.
+## US says it will use regional body to isolate Nicaragua
+Move comes after Nicaragua's lawmakers change constitution to ban most political opposition.
 
-## Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules
-Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.
+## Malta businessman acquitted of plotting journalist Caruana Galizia murder
+The 2017 killing of anticorruption journalist shocked Europe and set off a political firestorm in Malta.
 
-## Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’
-Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza
+## EU pursuing more Russia sanctions after failed airport attack: Kallas
+EU foreign affairs chief Kaja Kallas warns of more pressure after Germany blames Russia for attempted attack.
 
-## China’s Xi urges new Middle East security framework during rare Egypt visit
-Chinese, Egyptian leaders discuss the US-Israel war on Iran, which has prompted regional powers to rethink defence.
+## USS Abraham Lincoln reaches Thailand after 9 months at sea
+The port visit comes amid reports of severe emotional strain and poor conditions on board following nine months at sea.
 
-## Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team
-Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.
+## Signing ceremony as US to control a fifth of Venezuela’s oil reserves
+Signing ceremony as US to control a fifth of Venezuela’s oil reserves.
 
-## Nepal PM links deadly floods to climate change
-Nepal PM links deadly floods to climate change
+## Will the EU take action against Israel?
+Surge in Israeli settler attacks against Palestinians
 
 ## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
