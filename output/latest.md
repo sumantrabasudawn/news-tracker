@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Steve Ballmer banned by NBA over improper payment to basketball star
+LA Clippers team funnelled millions of dollars to star Kawhi Leonard to circumvent league salary cap, league investigation finds
+
 ## FirstFT: Xi Jinping visits Egypt in rare foreign travel tour
 Also in today’s newsletter: JPMorgan curbed lending to Jane Street and Uber plans sweeping lay-offs
 
@@ -36,9 +39,6 @@ What Ian Tyler can do is shore up the rest of the board, seeking directors with 
 ## California opines on who profits from wildfires but not on who pays
 Keeping hedge funds out may ease qualms over profiting from misfortune but not settle who bears the cost
 
-## AI spots cyber gaps faster than financial firms can fix them
-UK regulator says companies risk being overwhelmed by frontier models’ findings
-
 ## Banking Units in IFSC disbursed $52 billion against FCNR(B) deposits
 According to RBI data, the inflows through the special foreign currency non-resident bank (FCNR-B) deposit have crossed the century mark, according to the Reserve Bank of India
 
@@ -66,6 +66,15 @@ Hero, Honda, Bajaj bear the brunt of festival slowdown
 ## First Vande Bharat in 2019, sleeper version came in 2026; now 260 trains in works
 The first pair of Vande Bharat sleeper trains was launched earlier this year between Guwahati and Howrah. The second pair is undergoing trials and is expected to enter service soon. Reports suggest it may run between Bengaluru and Mumbai, though an official confirmation is awaited.
 
+## Canada fund buys 24% in tower firm for $1.3bn
+
+
+## High-value tech imports a worry: Auto cos
+
+
+## Fresh investments by pvt cos jump 97% in Q1: CMIE
+
+
 ## Rs 30 lakh salary, missed ITR after job switch; why ITAT cancelled Rs 3.74 lakh tax penalty
 What appeared to be a filing lapse eventually turned into a tax penalty of Rs 3.74 lakh. The Income Tax Department took a strict view of the matter, maintaining that had the non-filing not been detected, Aggarwal might not have filed his ITR at all. This, in turn, would have meant that his salary an
 
@@ -77,15 +86,6 @@ What is changing is what a younger generation wants it to do with idle gold. For
 
 ## Yolo meets SIP: How Gen Z is rewriting money rules & mistakes they should avoid
 Gen Z is one of the more financially aware generations, focusing on financial independence and investing rather than just saving. YOLO? Sure. But Gen Z is also thinking, “How do I make my money work for me?”
-
-## Uber lays off 3,300 employees as it restructures for faster growth
-Uber is cutting approximately ten percent of its global workforce, impacting about thirty-three hundred employees. This major restructuring aims to reduce management layers and simplify company operations. Resources will be reallocated towards core ride-hailing, delivery, and robotaxi businesses. Th
-
-## 'To bring more clarity': Centre issues FAQs after oppn red flags GDP figures
-The government released FAQs to explain its GDP estimation methods. This clarification addresses opposition concerns regarding recent growth figures. The government said the updated annual and quarterly GDP estimates, based on the 2022-23 base year, were released on August 31 using new data sources 
-
-## Won Rs 15 lakh chit prize, payout delayed; how he won relief against company’s claim
-Kapil Chits attributed the delay to Eashwar’s late submission of the required sureties, saying the documents had to be verified before the prize money could be released. The Telangana State Consumer Commission, however, found that the company’s own records showed the sureties had been submitted on M
 
 ## UP floods: Over 16K evacuated as 23 districts hit; 3 killed, relief ops scaled up
 UP floods: Over 16K evacuated as 23 districts hit; 3 killed, relief ops scaled up
@@ -111,6 +111,12 @@ Jaishankar is the first senior Indian leader to travel to Ukraine since Prime Mi
 ## Maharashtra FDA suspends licences of two more food establishments in Mumbai
 Inspections found several lapses at these establishments including inadequate storage facilities, poor personal hygiene, deficient pest-control measures
 
+## Rare large-scale MTR topside tender draws heavyweight Hong Kong developers
+Tender submissions for the MTR Corporation’s Tuen Mun Area 16 Station phase two property development closed on Wednesday, with market sources saying top Hong Kong developers including CK Asset, Sun Hung Kai Properties and Henderson Land Development submitted bids. A consortium comprising Sino Land, 
+
+## China’s new home finance rules reduce buyer risks but may not revive the market: analysts
+China’s new housing finance rules reduce the risk of buying a new home but analysts are not convinced they will be enough to tempt hesitant buyers still weighed down by falling prices and weak confidence. The changes are designed to reduce the risk in buying pre-sold homes. Mortgage funds for pre-so
+
 ## Walmart’s Sam’s Club accelerates expansion in China as membership passes 10.7 million
 US membership-only retailer Sam’s Club has sped up its expansion in China this year, with the launch of its sixth Beijing location on Monday drawing long queues of eager shoppers. The Walmart-owned warehouse retailer has found a winning formula in China, with its value pricing and exclusive goods at
 
@@ -128,12 +134,6 @@ The parent company of Philippine fast-food giant Jollibee plans to spin off and 
 
 ## China widens access to overseas stocks, handing out nearly US$7b in QDII quotas
 Beijing’s recent granting of new outbound investment allocations will help ease tight supply of cross-border investment products, including those invested in US securities, as Chinese investors look globally for diversification, according to analysts. The foreign-exchange regulator granted US$6.84 b
-
-## China’s pension fund doubles offshore investments to new high in quest for higher returns
-China’s national pension reserve more than doubled its offshore investments over the past three years to a record 580 billion yuan (US$86 billion), as the state fund increasingly sought higher returns by diversifying its portfolio beyond domestic assets. Offshore investment assets held by the Nation
-
-## China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk
-China’s health regulators have granted approvals for a string of brain-technology products this year, as domestic start-ups push to transform the treatment of conditions ranging from paraplegia to Alzheimer’s and depression. The approvals come as Beijing bids to lead the world in brain-computer inte
 
 ## Iran Accuses U.S. Military of a War Crime
 Renewed fighting has taken a deadly turn after a month without major military action.
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’
+The US president says that renewed fighting with Iran will not last “too long” while claiming control over Hormuz.
+
+## Thousands protest in Spain as Ceuta’s migration crisis festers a month on
+Spain faces unrest as residents protest, while migrants and asylum seekers search for shelter and resources in Ceuta.
+
+## Did DOGE ruin America’s food safety system?
+Food safety scares raise questions over whether Trump’s cuts weakened US food safety monitoring.
+
 ## OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy
 Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.
 
@@ -245,15 +254,6 @@ Children return to school in DR Congo amid growing concerns over Ebola
 
 ## Israel still wants to remove Palestinians from Gaza, defence minister says
 Israel Katz says 'there is no real solution for Gaza' without de-populating the territory.
-
-## Two Palestinians killed as settlers, Israeli forces raid West Bank village
-Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.
-
-## The long-term implications of Pete Hegseth’s US military purges
-Resignation of US Army secretary is latest loss at the top for the military.
-
-## Nepal families hold symbolic funerals, thousands still missing
-Families in Nepal hold symbolic funerals as rescuers search for survivors and bodies.
 
 ## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
