@@ -1,70 +1,85 @@
 # AION Intelligence
 
-## Steve Ballmer banned by NBA over improper payment to basketball star
-LA Clippers team funnelled millions of dollars to star Kawhi Leonard to circumvent league salary cap, league investigation finds
+## Yen strengthens as traders bet on Japan interest rate rises
+Currency falls under ¥157 to the dollar after sudden jump overnight
 
-## FirstFT: Xi Jinping visits Egypt in rare foreign travel tour
-Also in today’s newsletter: JPMorgan curbed lending to Jane Street and Uber plans sweeping lay-offs
+## FirstFT: KPMG warned Guggenheim unit over weak controls
+Also in today’s newsletter: Dutch gold bars and Google ads
 
-## Struggling Republicans urge Trump to open Maga Inc’s $400mn war chest
-US president’s Super Pac has yet to deploy significant money in midterms race despite polls pointing to his party’s defeat in November
+## US sailors roll into Thai resort after nine months at sea
+USS Abraham Lincoln arrives after lengthy deployment that has become emblematic of Iran war’s strain on resources
 
-## Chevron to double Venezuela oil production with $7bn pledge
-US major commits to expanding its joint ventures as White House pushes for huge increase in production in the country
+## The new rivalry on Wall Street
+Competition is growing between banks and proprietary trading firms
 
-## Pentagon chaos deepens after Driscoll quits in clash with Hegseth
-Army secretary’s exit leaves ‘serious leadership gaps’ as US military grapples with protracted Iran conflict
+## Netanyahu pushes to unite far-right vote before Israel election
+Prime minister warns that infighting risks imperilling his rightwing bloc’s chances of re-election next month
 
-## JPMorgan curbed lending to Jane Street as trading firm muscled into bonds
-Wall Street bank’s move last year came after trading specialist began making markets in US Treasuries
+## ‘Exit tax’ on UK entrepreneurs ruled out by business department
+Jonathan Reynolds seeks to quell fears of levy on companies spun out from UK universities that move abroad
 
-## Burnham and Macron meet as Bayeux Tapestry unveiled
-UK and French leaders join King Charles at the British Museum to view the 70-metre embroidered linen cloth
+## VodafoneThree to launch debut TV service in challenge to UK rivals
+UK telecoms group hopes adding the TV platform will help it double its broadband business
 
-## Burnham seeks to protect UK farming and steel in EU reset talks
-New British prime minister will hold first big bilateral meeting with French President Emmanuel Macron on Thursday
+## When is an economist not an economist?
+A fraught question that warrants reflection on who gets to be a member of the influential informal guild
 
-## Google spared break-up of online advertising monopoly
-Judge rejects US Department of Justice’s request to force the sale of parts of the search giant’s ads business
+## Accelerating Business
+A monthly series that examines how the legal ecosystem uses new technologies to serve fast-changing business needs. This time: Why law firms want their own in-house AI platforms
 
-## Trump administration backs OpenAI in New York Times copyright battle
-US urges court to reject newspaper’s claim that it is illegal to train AI models on copyrighted content
+## Fixing the AI industry’s PR problem
+Doomers will say it’s hopeless but here are five ideas to put out the fire
 
-## The wrong way to revive Venezuela’s economy
-Oil deal is most striking example yet of Trump’s new state capitalism
+## KPMG warned Guggenheim unit over deficiencies in internal controls
+Big Four auditor flagged up flaws in how private investment division accounted for revenue
 
-## BP gets the chair it wants rather than the one it needed
-What Ian Tyler can do is shore up the rest of the board, seeking directors with traits and competences he lacks
+## For sweltering Britons, rising energy prices could spark a shutter boom
+Shares in window specialists have outperformed the broader market in the past month
 
-## California opines on who profits from wildfires but not on who pays
-Keeping hedge funds out may ease qualms over profiting from misfortune but not settle who bears the cost
+## Fantasy M&A: the recipe for a European champion
+Seven theoretical tie-ups that could help the continent’s corporate sector compete with the US and China — if regulators, politicians and the public allowed them
 
-## Banking Units in IFSC disbursed $52 billion against FCNR(B) deposits
-According to RBI data, the inflows through the special foreign currency non-resident bank (FCNR-B) deposit have crossed the century mark, according to the Reserve Bank of India
+## Sensex today | Stock Market Live Updates: Markets rise on institutional buying, positive global cues; Sensex up 280 pts, Nifty crosses 24,000-mark
+Sensex, Nifty, Share Prices Live: Benchmark indices Sensex and Nifty opened higher on Thursday, September 3, 2026, recovering from the previous session’s losses, supported by sustained institutional buying and positive global cues.
 
-## FCNR(B) bonanza: Banks mobilise record $127.226 billion in 85 days, nearly four times 2013 levels
-This influx, driven by attractive interest rates of 6-7.5% and significant leverage incentives for non-resident Indians, occurred through the Reserve Bank of India’s concessional swap facility
+## Tata Trusts gets clean chit in 1989 share transfer case, Charity Commissioner of Maharashtra dismisses Vijay Singh’s complaint
 
-## Genesys introduces new innovations for more effective customer care management
-The US-based company empowers more than 8000 organisations in over 100 countries to improve business outcomes
 
-## Indian wheat prices gain ₹150/quintal as government lifts ban on product shipments
-A section of the stakeholders is worried, with global prices surging to a 3-year high on Black Sea disruption, lower output this year
+## Glass Wall Systems India’s ₹428-cr IPO to open on Sep 8; price band set at ₹172-182
+The IPO will open for public subscription on September 8 and close on September 10. The bidding for anchor investors will take place on September 7
 
-## Pernia’s Pop-Up Shop IPO crosses overall subscription on final day despite NII shortfall
-NII category remained undersubscribed at 0.84 times
+## Robust FCNR(B) inflows: Rupee opens 67 paise stronger at 94.30 per USD
+Rupee tests a high/ low of 94.26/94.4350
 
-## Equities extend losses as West Asia tensions push crude higher
-The Nifty 50 closed at 23,914.45, down 141.35 points or 0.59 per cent, while the Sensex fell 373.93 points or 0.49 per cent to 76,570.35
+## GDP methodology: MoSPI says negative manufacturing deflator does not mean factory-gate prices fell
+In a set of questions and answers released on Wednesday, the ministry explained how double deflation can produce a negative implicit GVA deflator when input prices rise faster than output prices.
 
-## India’s LPG consumption rises 3.2% in August to six-month high
-Higher supplies from the US and Middle East Gulf supported the cooking fuel market as restrictions on commercial consumers were removed
+## Arcil sets price band at ₹132-139 for ₹733 crore IPO; issue to open on Sep 9
+At the upper end of the price band, the issue size is estimated at around ₹733 crore, while at the lower end, it works out to ₹696 crore
 
-## Two-wheeler retails fall 8.3% in August
-Hero, Honda, Bajaj bear the brunt of festival slowdown
+## India emerging as one of the top five global hubs for mechanical engineering talent, says ASME global CEO
+ASME’s decision to bring its premier conference to India was driven by the depth of research and engineering talent in the country
+
+## Crude oil futures trade lower as US targets Iran’s rocket and radar systems
+US Navy continues to strictly enforce the US blockade against Iran
+
+## Trump’s face debuts on US currency, $1 coins run ‘out of stock’ within hours
+A freshly minted $1 coin has been released to celebrate America's 250th anniversary, featuring the portrait of Donald Trump. While federal regulations usually prevent living presidents from appearing on currency, unique allowances have made this release possible. The coins flew off the shelves just 
+
+## Stock market today: BSE Sensex jumps over 260 points, Nifty50 nears 24,000
+
 
 ## First Vande Bharat in 2019, sleeper version came in 2026; now 260 trains in works
 The first pair of Vande Bharat sleeper trains was launched earlier this year between Guwahati and Howrah. The second pair is undergoing trials and is expected to enter service soon. Reports suggest it may run between Bengaluru and Mumbai, though an official confirmation is awaited.
+
+## Top stocks to buy today: Stock recommendations for September 3, 2026 - check list
+Top stock market recommendations: Bank of Maharashtra, Glenmark Pharma, and Tata Technologies have been shared as the top stocks to buy today on September 3, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth.
+
+## Tata Sons clears 10k cr for AI, with conditions attached
+Tata Sons' board approved a significant Rs 10,000 crore capital infusion for Air India. This investment is contingent upon business case presentations from the airline and other ventures. The decision follows a pause in equity injections after Air India's doubled losses in FY26. Tata Sons' ability t
+
+## Oil price today: Crude continues to trade beyond $95 per barrel
+Oil prices took a minor dip on Thursday following a turbulent trading day. Investors are closely monitoring the repercussions of the US-Iran strikes on oil supply lines. Activity in the Strait of Hormuz is currently lower than average. This disruption fosters worries regarding global oil availabilit
 
 ## Canada fund buys 24% in tower firm for $1.3bn
 
@@ -72,44 +87,35 @@ The first pair of Vande Bharat sleeper trains was launched earlier this year bet
 ## High-value tech imports a worry: Auto cos
 
 
-## Fresh investments by pvt cos jump 97% in Q1: CMIE
+## Masked men ransack, loot TMC leader Abhishek Banerjee’s office in Kolkata
+TMC lawmaker Abhishek Banerjee alleged that police did not respond for at least two hours and blamed the ruling BJP for the attack
 
+## Ram Temple CEO Jeetendra Mishra's old video with PM Modi at Adampur air base goes viral
+Jeetendra Mishra had accompanied PM Modi to the Adampur air base in May 2025, shortly after India and Pakistan reached an understanding amid Operation Sindoor.
 
-## Rs 30 lakh salary, missed ITR after job switch; why ITAT cancelled Rs 3.74 lakh tax penalty
-What appeared to be a filing lapse eventually turned into a tax penalty of Rs 3.74 lakh. The Income Tax Department took a strict view of the matter, maintaining that had the non-filing not been detected, Aggarwal might not have filed his ITR at all. This, in turn, would have meant that his salary an
+## Ram Temple trust gets its first woman trustee
+The trust also named former Air Marshal Jeetendra Mishra as its first CEO and elevated Govind Dev Giri to general secretary.
 
-## India draws record $127 billion through forex deposits: RBI
+## Keralam child rights panel seeks removal of sugar from anganwadi nutri mix
+Keralam child rights panel seeks removal of sugar from anganwadi nutri mix
 
+## Vijay to move resolution to recognise Tamil as Madras high court's principal language
+The state's official resolution is set to urge the creation of a framework under which all judgments, decrees and judicial orders are made available in Tamil.
 
-## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
-What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
+## HT Morning News Brief September 1: Centre backs 7.8% growth amid GDP row, F-16 hero Abhinandan quits IAF | Top news
+Here's your roundup of everything you need to start the day informed — from politics and world news to sports and entertainment.
 
-## Yolo meets SIP: How Gen Z is rewriting money rules & mistakes they should avoid
-Gen Z is one of the more financially aware generations, focusing on financial independence and investing rather than just saving. YOLO? Sure. But Gen Z is also thinking, “How do I make my money work for me?”
+## Abhishek Banerjee's Kolkata office ransacked, TMC MP claims BJP workers behind attack
+CCTV footage shared by Abhishek Banerjee shows masked men inside the premises before fleeing with electronic gadgets, including a tv and other equipment.
 
-## UP floods: Over 16K evacuated as 23 districts hit; 3 killed, relief ops scaled up
-UP floods: Over 16K evacuated as 23 districts hit; 3 killed, relief ops scaled up
+## Raghav Chadha claims name ‘shifted’ in Punjab draft electoral rolls, AAP denies hand
+The AAP government distanced itself from the deletion, saying the SIR is conducted by the Election Commission (EC) and that the state government has “no role”.
 
-## ‘Not happy’: Meghalaya HC questions police over August 19 violence probe
-The high court expressed dissatisfaction with the probe’s progress and raised questions regarding the police response before, during, and after the procession
+## Mainland Chinese investors buy Hong Kong tech stocks in AI pivot, sell financials
+Chinese mainland investors rotated into Hong Kong stocks tied to artificial intelligence and pulled out of companies in traditional industries in August, taking advantage of a market dip to boost bets on the world’s most cutting-edge technology. AI model developer MiniMax Group logged net buying of 
 
-## Bihar on alert as major rivers swell following heavy rains, all 69 gates of Sone Barrage opened
-All 69 gates of the Sone Barrage at Indrapuri in Rohtas district have been opened to facilitate the flow of water and help control the flood situation.
-
-## Delhi HC dismisses petition against closing Vizag airport operations
-The Delhi high court dismissed the petition after being informed that a petition on similar lines was already pending before the Andhra Pradesh high court
-
-## 5 dead, 20 injured in bus-bulker crash in MP; PM Modi offers condolences
-Prime Minister Narendra Modi expressed deep grief and offered condolences following a tragic mishap in Rewa, Madhya Pradesh.
-
-## Maternity can't be allowed to become reason of ignominy at workplace: Delhi HC
-HC's observations came while directing firm to pay ₹10 lakh compensation to CA shifted to clerical role after returning from maternity leave
-
-## Jaishankar lands in Poland on 3-day trip, Ukraine will be next stop
-Jaishankar is the first senior Indian leader to travel to Ukraine since Prime Minister Narendra Modi’s visit to the country in August 2024
-
-## Maharashtra FDA suspends licences of two more food establishments in Mumbai
-Inspections found several lapses at these establishments including inadequate storage facilities, poor personal hygiene, deficient pest-control measures
+## Hong Kong's Digital Asset Moment: Forthright Securities on What Bitcoin Asia Signals for Licensed Finance
+[The content of this article has been produced by our advertising partner.] When Bitcoin Asia landed at the Hong Kong Convention and Exhibition Centre last week, it was more than another major gathering for the digital asset community. The summit’s presence in the city reflected a wider shift: digit
 
 ## Rare large-scale MTR topside tender draws heavyweight Hong Kong developers
 Tender submissions for the MTR Corporation’s Tuen Mun Area 16 Station phase two property development closed on Wednesday, with market sources saying top Hong Kong developers including CK Asset, Sun Hung Kai Properties and Henderson Land Development submitted bids. A consortium comprising Sino Land, 
@@ -128,12 +134,6 @@ China is cracking down on artificial intelligence-generated “slop” – low-g
 
 ## Chinese carmakers eye full hybrid market; BYD posts US$1.2 billion profit: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. After gaining EV sway, Chinese carmakers eye full hybrid market Chinese carmakers, alr
-
-## Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing
-The parent company of Philippine fast-food giant Jollibee plans to spin off and list its international operations in Hong Kong instead of New York in a strong endorsement of the city’s initial public offering (IPO) diversification efforts. Jollibee Foods Corp (JFC) said in January that it intended t
-
-## China widens access to overseas stocks, handing out nearly US$7b in QDII quotas
-Beijing’s recent granting of new outbound investment allocations will help ease tight supply of cross-border investment products, including those invested in US securities, as Chinese investors look globally for diversification, according to analysts. The foreign-exchange regulator granted US$6.84 b
 
 ## Iran Accuses U.S. Military of a War Crime
 Renewed fighting has taken a deadly turn after a month without major military action.
@@ -159,6 +159,21 @@ The war in Ukraine may rage on, but Russia remains far from an international par
 ## Trump’s Venezuela Oil Deal Is a Farce
 There aren’t 65 billion barrels, they won’t be lowering gas prices, and they won’t refill the SPR.
 
+## China’s Global Strategy Under Xi Jinping
+Insights from Steve Tsang.
+
+## The Lasting Economic Damage From the China-Nepal Flood
+Beyond the immediate devastation, the abrupt closure of the China-Nepal trade corridor – again – will reshape the local economy for years to come.
+
+## The US Arms Bottleneck Is Impacting Its East Asian Allies
+Taiwan's Patriot missiles, and Japan's Tomahawks are competing in the same queue as Ukraine and the Iran replenishment. But there are solutions.
+
+## Hans van de Ven on World War II and the Making of Modern Asia
+“The Asian theater was never just about defeating Japan – it was also about dismantling European imperialism and creating new national futures.”
+
+## Latin America’s China Dilemma: Lessons From Peru and Colombia’s Presidential Elections
+Pro-American candidates are winning elections, but deep economic ties with China will continue to constrain any significant strategic realignment.
+
 ## US Drugmakers Are Dependent on Chinese Supply Chains
 Analysts warn a disruption in Chinese sources of common antibiotics or blood thinners could leave American patients with no reliable alternative.
 
@@ -167,21 +182,6 @@ For Mongolia, the highlights were the bilateral meetings held on the sidelines w
 
 ## From Partnership to Penalty: US Tariffs Shadow India Trade Deal
 The promise of deeper economic cooperation is undermined by punitive measures that could torpedo the India-U.S. pact even before it is signed.
-
-## Prioritizing Social Stability Over Democratic Reforms: Uzbekistan Announces New Development Programs
-Uzbekistan’s new national development programs prioritize socio-economic developments over democratic reforms.
-
-## Land Seizures in the Name of Development in Vietnam
-More and more Vietnamese are being forcibly displaced to make way for development. Many are reluctant to speak out, because “between a victim and a criminal lies only a fragile line.”
-
-## Balancing China and Russia: India’s Tightrope Walk at BRICS
-New Delhi aims to keep BRICS relevant to the Global South while preventing its transformation into a Chinese bandwagon or an explicitly anti-Western coalition.
-
-## The Limbang Question Lingers On
-The territory's curious status is the result of an unresolved border dispute between Malaysia and Brunei that dates back to the British colonial era.
-
-## Why Pakistan Is Shrugging Off Trump’s Latest Iran Sanctions
-A Pakistani statement signals to Tehran that Islamabad will not undermine a relationship or existing trade ties that have long faced pressure from U.S. sanctions.
 
 ## Is Taiwanese Society Prepared for a China Contingency?
 In 2025, Michael Hunzeker and Yuster Yu wrote, “Taiwan’s Biggest Problem in Steeling Itself for War With China is Cultural,” where they argued major cultural changes were needed in both Taiwan’s military and civilian society if it were to be competitive in a conflict with China. A year later, we ask
@@ -231,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’
-The US president says that renewed fighting with Iran will not last “too long” while claiming control over Hormuz.
+## Tens of thousands rally across Spain over Ceuta migrant crisis
+Tens of thousands rallied across Spain protesting the government's handling of the Ceuta migrant crisis.
 
-## Thousands protest in Spain as Ceuta’s migration crisis festers a month on
-Spain faces unrest as residents protest, while migrants and asylum seekers search for shelter and resources in Ceuta.
+## Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia
+The last man prosecuted over the 2017 killing of Maltese journalist Daphne Caruana Galizia has been acquitted.
 
-## Did DOGE ruin America’s food safety system?
-Food safety scares raise questions over whether Trump’s cuts weakened US food safety monitoring.
+## US forces board and destroy alleged cartel boat in eastern Pacific
+US forces boarded and sank a boat in the eastern Pacific saying it was a floating refueling station for drug-traffickers
 
-## OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy
-Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.
+## Minneapolis shooting kills two, wounds three police officers
+Police say suspected gunman is also dead and that several people, including three officers, were wounded.
 
-## Republican senator calls on Trump to fire Secretary of Defence Hegseth
-Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.
+## Exclusive access as the search for Nepal’s tunnel workers intensifies
+Al Jazeera’s Jessica Washington gets exclusive access to rescue crews in Rasuwa, Nepal, digging and blasting.
 
-## Israeli PM says Israel is working to overthrow Iran’s government
-Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.
+## Trump threatens more strikes as death toll in Iran rises to 18
+Trump says US can hit Iran 'anytime we want' as Tehran says deadly strikes, including on wedding party, a war crime.
 
-## Children return to school in DR Congo amid growing concerns over Ebola
-Children return to school in DR Congo amid growing concerns over Ebola
+## Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges
+Former Venezuelan leader was abducted by US forces during a military attack on Caracas in January.
 
-## Israel still wants to remove Palestinians from Gaza, defence minister says
-Israel Katz says 'there is no real solution for Gaza' without de-populating the territory.
+## US Congress rejects constitutional amendment to restrict Supreme Court size
+Republican Mike Johnson slams Democrats for voting against 'defending the integrity' of the court.
+
+## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
+After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
 
 ## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
@@ -275,9 +278,6 @@ Seasoned finance professional Dr. (CA) Ashok Haldia examines how the Hong Kong H
 
 ## India Inc pays record dividends in FY26, but payout ratio slides
 In FY26, Indian firms made history by distributing a staggering ₹4.5 lakh crore in dividends, marking a remarkable 15% annual growth rate over five years. A significant portion of these dividends, two-thirds, came from the banking, finance, and IT sectors. Notably, the dividend payout ratio has tape
-
-## CXOs sharpen AI edge to stay in control
-The shift is visible across education platforms such as Emeritus, upGrad, Simplilearn, and Coursera where demand from experienced professionals is outpacing that from freshers and mid-career learners.
 
 ## RBI appoints Suman Ray as Executive Director, to head DICGC and Premises Department
 Suman Ray will assume the role of Executive Director at the Reserve Bank of India. His appointment is effective from September 1, 2026, as announced by the central bank. Previously, Ray served as the Regional Director for Maharashtra and has extensive experience. He will now oversee the Department o
