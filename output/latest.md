@@ -1,121 +1,112 @@
 # AION Intelligence
 
-## Struggling Republicans urge Trump to open Maga Inc’s $400mn war chest
-US president’s Super Pac has yet to deploy significant money in midterms race despite polls pointing to his party’s defeat in November
+## UAE billionaire’s son revealed as buyer of £190mn London mansion
+Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s most expensive purchases
+
+## Hugging Face attack is a wake-up call about the risks of AI
+Agents involved in hack exhibited some alarming behaviours including suppressing ethical qualms
+
+## Tory plan to fund defence risks rise in homelessness, say charities
+Conservative leader Kemi Badenoch has promised billions in welfare cuts to pay for extra military spending if party wins general election
+
+## Giorgia Meloni’s enviable stability — and missed opportunity
+Prime minister marks Italy’s longest continuous government since the war
+
+## Burnham raises concerns with Macron over ‘Made in Europe’ scheme
+UK prime minister warns French president new EU procurement policy could ‘pose significant challenges for UK industry’
+
+## Revolut wins provisional US banking licence
+Office of the Comptroller of the Currency approval is a milestone for UK-based fintech seeking American expansion
+
+## Leon Black sues US Congress over Epstein probe
+Private-equity titan is among Wall Street figures targeted by House committee for their ties to late sex offender
 
 ## Milei dials up Argentina’s claim to Falklands
 Domestic politics, oil drilling and UK-US tensions drive libertarian leader to amp up sovereignty dispute
 
-## Vulnerable Republicans urge Trump to unleash Maga Inc’s $400mn cash pile
-Also in today’s newsletter, Chevron plans $7bn Venezuela expansion and Pentagon chaos deepens
+## VW risks downgrade to ‘junk’ without sweeping cuts, warns top investor
+Union Investment urges supervisory board to vote through restructure that would axe 100,000 jobs in Germany
 
-## Oman FM: In an age of impunity, diplomats are more important than ever
-There is a tendency on the part of some world leaders to decide that they can do it themselves
+## Watch fairs mushroom in face of industry gloom
+Collectors are as enthusiastic as ever but the proliferation of events is stretching brands’ budgets
 
-## Yen surges as traders bet on Japan interest rate rises
-Currency moves past ¥156 to the dollar after sudden jump overnight
-
-## Monetary Policy Radar preview: ECB’s September meeting
-The FT’s guide on what to look out for on September 10
-
-## Fed’s Chris Waller ‘inclined’ to keep rates on hold
-Markets have been betting on a rise following Kevin Warsh’s Jackson Hole speech
-
-## Nvidia to buy open-source AI platform Hugging Face for $13bn
-Model and data repository turned down big investment from Jensen Huang’s chip group last year to preserve independence
+## Blackstone stands firm with cap on private credit outflows
+Flagship $43bn fund said it was hit with notices from investors to pull 10% of the vehicle’s value in the third quarter
 
 ## Harvey Nichols sale set to cost luxury brands millions
 Brands including Chloé and Victoria Beckham to recover less than 15p in the pound after Frasers Group buys department store chain
 
-## Entain exits the FTSE 100 in surprisingly good shape
-Having bulked up in some ways, the gambling group could create value by slimming down in others
+## Civil Aviation Minister asks aircraft makers to speed up deliveries
+Minister says India has a large airport network and needs more aircraft to meet growing regional connectivity demand
 
-## Crest Nicholson shares tumble as housebuilder warns of loss
-UK group battles weak demand and fallout from Iran war
+## Karnataka withdraws Bill allowing 5% park land for public purposes
+The government will seek public suggestions before reconsidering provisions covering the lease, sale and other forms of park land alienation
 
-## How US oil companies are expanding as Trump reshapes global energy
-Washington is exerting its power and American companies are seizing the opportunity to diversify their production
+## Cohance Lifesciences to invest $18 million in NJ Bio, Aruka Bio
+The investments will bring research, manufacturing and next-generation ADC capabilities together as Cohance expands its end-to-end CRDMO offering
 
-## Diesel premium in Europe jumps to record high
-So-called crack spread rises above $100 a barrel on continent for first time, leaving diesel at more than twice the cost of underlying crude
+## US 30-year mortgage rate climbs to 6.71%, highest since July 2025
+Higher borrowing costs are adding to affordability pressures for US households, while recent inflation data could influence the Federal Reserve’s September decision.
 
-## Lloyd’s of London faces £1.4bn losses from US-Iran war
-Attacks on critical infrastructure in the Gulf lead to rise in insurance claims
+## ‘₹86 lakh crore Q1 GDP estimate of last year based on old methodology’
+The fact that we didn’t have an upward revision to India’s FY26 GDP numbers under new methodology shows we are doing a good job covering all sectors, says CEA Anantha Nageswaran
 
-## Hargreaves Lansdown offers crypto ETNs nearly a year after ban was lifted
-Investment platform previously told customers ‘bitcoin is not an asset class’
+## Tea Board, ISRO and NIT Rourkela to develop AI system for tea plantation monitoring
+The research project will combine satellite and UAV data with weather and field observations to address crop stress, pests and yield estimation.
 
-## Auto sector must prepare for end of EV subsidies, Heavy Industries Secy
-The automobile industry has been urged to strengthen charging infrastructure and increase research spending as electric mobility expands across India
+## US trade deal finalisation hinges on tariff edge over competitors: Piyush Goyal
+Negotiations over the first phase of the proposed bilateral trade agreement — initially outlined earlier this year — have slowed
 
-## FSSAI looking at regulations for ban on analogue paneer, restrictions on sale of junk foods near schools
-Several states including Punjab, Karnataka, Maharashtra, Madhya Pradesh, Himachal Pradesh, Gujarat and Chhattisgarh have already banned analogue paneer
-
-## FLY91 places $1 billion order for 40 ATR 72-600 aircraft
-The new aircraft will help the airline build a larger regional network and connect more unserved and underserved cities across India
-
-## Crude fears cap Nifty’s gap-up; rupee posts biggest single-day gain since July
-The rupee gained 49 paise as massive inflows from the RBI’s concessional swap scheme far exceeded market expectations, analysts said
-
-## Retail sugar price drops 3.85% to ₹62.57/kg in a week: Govt data
-The average wholesale price of sugar too dropped to ₹57.62 per kg on September 2 from ₹60.39 per kg a week ago, as per the data maintained by the consumer affairs ministry
-
-## World Bank’s Neelkanth Mishra rejects claims that India’s 7.8% GDP growth was inflated
-Mishra cited vehicle sales, tax collections, credit growth and construction activity as evidence supporting the economy’s stronger growth momentum
-
-## Rupee hits 10-week closing high of 94.48 per US dollar
-The currency posted its biggest daily gain since July 27, after the RBI’s FCNR(B) scheme attracted hefty dollar inflows even as importer demand pared some ​of its earlier gains
-
-## RBI rejects all bids in ₹30,000-crore bond buyback auction
-Investors offered bonds worth just 10% of the amount New Delhi sought to repurchase, with traders attributing the weak response to ample banking liquidity
+## SEBI to review CAS-based settlement price mechanism for derivatives
+Consultation paper on revised methodology will be issued in a week
 
 ## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
 What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
 
-## Airbus ties up with Nagpur's Indamer Technics to set up South Asia’s first radome repair facility in India
+## 8th Pay Commission: Level 8 employee could earn up to Rs 28.89 lakh extra if 7% increment is implemented
+Employee bodies have argued that the current 3% annual increment is not sufficient to keep pace with rising expenses. Their recommendations have ranged from 5% to 7%. If such proposals are accepted, a higher increment rate of 5% or 7% would have a direct impact on the salary progression of central g
 
+## Bank holiday on Janmashtami: Where are banks closed on Sept 4, 2026? Check list
+Indian banks across various states will be closed on September 4 to observe Krishna Janmashtami. Customers should be aware that further closures will occur throughout the month for additional festivals and elections. It's essential to check local holiday schedules for branch services, although digit
 
 ## Indian Railways set to get indigenous 280 kmph bullet trains by early 2027
 India could see the launch of its first bullet train service in 2027, with the Surat–Bilimora section of the Mumbai-Ahmedabad bullet train project expected to become operational by August that year.
 
+## Couple buys Rs 60 lakh flat, husband taxed on Rs 34.81 lakh stamp-duty gap; ITAT objects
+Can the entire difference between a property’s actual purchase price and its stamp-duty value be added to the income of just one of its co-owners? A recent ruling by ITAT Mumbai has addressed this question in a case involving a husband and wife who jointly purchased a property.
+
+## US is no longer the only choice: 7 countries giving Indians new routes to study, work and settle
+The point is not that America has become less relevant. It's about the rest of the world finally catching up as a credible alternative. Germany may offer a clearer skilled-employment pathway; Australia a combination of education and skilled migration; Singapore access to Asian markets; the UAE long-
+
+## Airbus ties up with Nagpur's Indamer Technics to set up South Asia’s first radome repair facility in India
+
+
 ## 7.8% growth, but a Rs 6 lakh crore question: Why GDP data has sparked a debate
 One of the biggest points of discussion and questioning is the revision to Q1 FY26 GDP at current prices, that is the figures for last year's same quarter numbers. Under the old 2011-12 series, GDP was estimated at Rs 86.05 lakh crore. However, under the new series, it has subsequently been revised 
 
-## US-Venezuela's historic deal: Will Americans get cheaper gas now?
-The United States has successfully negotiated a deal to import Venezuelan oil, aiming to replenish its reserves with a consistent supply of affordable crude. While the long-term implications for American drivers remain ambiguous, the deal's effect may not be felt for several months. The arrangement 
+## ‘We’re students' A team, decide amongst yourself': CJP's Abhijeet Dipke reacts to ‘B team’ allegations
+Abhijeet Dipke claimed that different political parties were working on the issue of government schools and students and questioned by the BJP objected to it.
 
-## Sugar gets sweeter again: Retail prices fall 3.85% to Rs 62.57/kg in a week
-Sugar prices have started to fall across markets following government interventions. The average retail price has dropped significantly over the past week. However, consumers still pay more than a month ago due to existing stock. Wholesale rates are not immediately reflecting in retail prices as tra
+## Retail sugar price drops 3.85% to ₹62.57/kg in a week: Govt data
+A retailer typically holds 10-15 bags of sugar, each weighing 50 kg. Only once fresh stock is procured at the lower rate will retail prices adjust accordingly.
 
-## Bridges & underpasses: Gadkari announces Rs 2,077cr project for Siliguri Corridor
-A Rs 2,077.18 crore project will four-lane a key Siliguri Corridor highway. This upgrade will strengthen connectivity to Northeast India and neighboring countries. The project includes bridges and elephant underpasses for safer wildlife movement. Congestion is expected to ease in Bagdogra and surrou
+## Bengal’s new anti-graft body inspects factories of TMC veteran Firhad Hakim
+A West Bengal anti-corruption commission inspected two factories owned by former minister Firhad Hakim, who called the move “character assassination”.
 
-## 'No trade deal till US gives preferential tariff terms': India draws red line
+## ‘Buying or not buying Russian oil won’t solve Ukraine crisis’: Jaishankar says India needs to take care of energy needs
+S Jaishankar said India also needs to address the energy needs of its 1.4 billion people, and that this is something other countries should also respect.
 
+## India, Belgium to step up cooperation in defence, law enforcement, semiconductors
+PM Narendra Modi and Belgian PM Bart De Wever agreed to deepen defence, law enforcement and semiconductor cooperation and double bilateral trade in five years.
 
-## Nagaland Assembly urges Centre to withdraw Protected Area Permit regime
-Nagaland Assembly urged the Centre to withdraw the Protected Area Permit regime, saying it is hurting tourism, investment, business and cultural exchange.
+## Odisha passenger train detained after engine fire report near Khurda Road
+Palasa-Cuttack MEMU was detained near Khurda Road station after a technical snag in its OHE, with preliminary reports suggesting an engine fire.
 
-## Uttarakhand needs long-term strategy suited to Himalayan challenges: CM Dhami
-Uttarakhand CM Pushkar Singh Dhami called for a long-term development strategy that addresses the state’s unique Himalayan challenges.
+## 21 higher education teachers to receive National Teachers Awards for research, innovation
+National Teachers Awards 2026 will honour 21 higher education teachers whose work spans AI, drones, climate technology, forensic science and sustainable design.
 
-## Issue GR on demands or will march to Mumbai: Manoj Jarange Patil’s new ultimatum
-Maratha reservation activist Manoj Jarange-Patil demanded that the issuance of Kunbi certificates should begin immediately
-
-## Online-offline gap in Delhi leaves out voters in SIR
-Booth level officers (BLOs), electoral registration officers (EROs), and political workers attribute this phenomenon to a misunderstanding of the process.
-
-## Telangana tribal man killed in landmine blast on Karreguttalu hillocks: Police
-A 60-year-old tribal man was killed in a landmine blast on Karreguttalu hillocks in Telangana’s Mulugu district, police said.
-
-## Belgian PM backs India's fight against cross-border terrorism in talks with Modi; leaders propose ‘joint working group’
-Belgian PM Bart De Wever also condemned the Pahalgam terror attack in which 25 tourists were killed in J&K.
-
-## Why not have CCTVs on toll plazas: SC asks NHAI, flags highway encroachments
-In November 2025, the court took suo motu cognisance of a road accident in Phalodi in which a tempo traveller rammed into a stationary trailer truck.
-
-## HT Evening Brief Sept 3: India 'ready to help end' Ukraine war; Taapsee Pannu's Gandhari movie review in
-Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
+## Revenue officer found dead days after he goes missing in Maharashtra
+The deceased had gone missing since the morning of August 28, when he left home around 8.45 am, stating he was attending a post-funeral ritual.
 
 ## China prepares next phase of national SME fund to boost tech start-ups and IPOs
 China will soon launch the second phase of a National SME Development Fund with a focus on IPO incubation and channelling private capital into backing innovative, early-stage entities and projects with long-term prospects in hard tech. The fund’s second phase was confirmed as the Ministry of Industr
@@ -141,6 +132,12 @@ Chinese mainland investors rotated into Hong Kong stocks tied to artificial inte
 ## Hong Kong's Digital Asset Moment: Forthright Securities on What Bitcoin Asia Signals for Licensed Finance
 [The content of this article has been produced by our advertising partner.] When Bitcoin Asia landed at the Hong Kong Convention and Exhibition Centre last week, it was more than another major gathering for the digital asset community. The summit’s presence in the city reflected a wider shift: digit
 
+## China Isn’t Scared of Trump’s Squeeze on Iran
+Beijing has plenty of leverage to deter Washington.
+
+## Turkey’s Kurdish Peace Process Is Not About Erdogan
+The government’s negotiations with the PKK will succeed because they are driven by geopolitical threats rather than domestic concerns.
+
 ## Would Another War Help Netanyahu Win Reelection?
 Some Israelis worry that he might manufacture a security crisis ahead of the vote.
 
@@ -158,12 +155,6 @@ The attack on the ICC offers a chance for solidarity on shared values.
 
 ## Rivals Circle an Out-of-Touch Prabowo
 The emergence of pro-presidential thugs on the streets of Jakarta is a sign of the times.
-
-## Is BRICS Losing Its Mojo?
-Security matters have rocked the boat, but here’s how to steady it.
-
-## Nepal’s Deadly Floods Put China and India on Edge
-Geopolitical conflict will only get worse with climate change.
 
 ## ‘We Are Horrified’: Academic Freedom at Risk With Uzbek Professor’s Arrest in Kazakhstan
 Dr. Ikboljon Qoraboyev's arrest on espionage charges has sent shockwaves through Kazakhstan’s increasingly internationalized academic sector.
@@ -189,6 +180,9 @@ Insights from Steve Tsang.
 ## The Lasting Economic Damage From the China-Nepal Flood
 Beyond the immediate devastation, the abrupt closure of the China-Nepal trade corridor – again – will reshape the local economy for years to come.
 
+## The Future of Combat Medicine
+War has always been a brutal engine of medical innovation, running on a feedback loop: Civilian breakthroughs are adapted for the battlefield, while battlefield necessity pushes advances back into civilian care. We asked three experts to identify the innovations from the last five years most likely 
+
 ## Where Does AI Escalation Come From? We Don’t Know. We Should Find Out.
 We played a wargame using AI players. Two nuclear-armed nations — Red and Blue — with a long-standing, fierce border dispute were placed into a militarized crisis. Over the course of several turns, the states managed to avoid escalation to war, though there were non-operational nuclear demonstration
 
@@ -209,9 +203,6 @@ The summer of 2026 has raised questions once again among politicians, diplomats,
 
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
-
-## A Rulebook for Surprises: Commanding Autonomous Aircraft
-My greatest challenge while flight testing collaborative combat aircraft was not troubleshooting errors at high speed in the cockpit. It was when, in a single keystroke, my job shifted from pilot to something like a dog handler — a supervisor of an autonomous agent. As a test pilot, my instinct is t
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ukraine takes the war to Russia’s space programme in tactical shift
-From Moscow to Plesetsk, Ukraine appears to be trying to hit infrastructure that powers Russia’s war from space.
+## Israeli bombing seen behind journalist reporting from Lebanese village
+Israeli bombing seen behind journalist reporting from Lebanese village
 
-## Kais Saied’s economic experiment has failed Tunisia
-Saied’s promised path to self-reliance has deepened Tunisia’s economic crisis rather than resolving it.
+## Israel’s siege on Gaza is forcing dentists to operate in the streets
+Scarce resources and office space mean that dental work is a luxury for most people in Gaza.
 
-## Victims sue South African government over 1960 Sharpeville massacre
-Victims sue South African governed over 1960 Sharpeville massacre
+## Real Madrid’s Raul Asencio acquitted in sex-tape sharing case
+In an unrelated incident, Madrid have opened disciplinary proceedings against Asencio over a drink driving conviction.
 
-## ‘Can I take the door?’ woman pleads at Syrian prison exhibit
-A Syrian woman spotted her missing brother’s name on a prison cell door at an exhibition in Damascus.
+## Houthi fighters clash with Yemeni government forces in country’s southwest
+Houthis attempt to cut road linking Taiz to al-Makha in apparent bid to sever government's strategic supply route.
 
-## Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?
-Ex-Real Madrid and Manchester United stars, Karim Benzema, Paul Pogba and Jadon Sancho among post-deadline free agents.
+## Deadpool-Wolverine derby in the offing as Hugh Jackman targets Norwich City
+After Deadpool actor Ryan Reynolds's purchase of Wrexham, his Wolverine costar could land Championship rivals Norwich.
 
-## UEFA opens disciplinary case against Fenerbahce’s Guendouzi and Greenwood
-Guendouzi and Greenwood made provocative gestures towards the Lyon ‌supporters after their Champions League playoff.
+## 20 million children a year face online sexual abuse, UNICEF says
+More than one in five children aged 12 to 17 were targeted on digital platforms, the UN children’s agency reports.
 
-## Why has the Netherlands moved $10bn of its gold from the US?
-The Netherlands has $83.7bn worth of gold in domestic and foreign reserves.
+## Billionaire Leon Black sues US congressional panel over Epstein subpoena
+Lawyer accuses House panel investigating sex offender of 'fishing expedition' as lawmaker calls for contempt charges.
 
-## Feminist icon Gloria Steinem dies aged 92
-Cofounder of Ms Magazine was a strong advocate for women's rights throughout her life.
+## How much oil is going through Hormuz? Why data doesn’t match US claims
+Trump says the US is helping around 30 ships cross the waterway daily, but ship-tracking data suggests it's fewer.
 
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
