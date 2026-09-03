@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US charges ICE agent with lying about shooting of Venezuelan immigrant
+Officer charged with false statements over circumstances of shooting that fuelled uprising in Minnesota early this year
+
+## Nigel Farage and Reform UK hit by illicit-funding sting
+Undercover investigation shows party leader meeting a fake US supporter
+
 ## Microsoft challenges data centre costs after pledging to protect ratepayers
 Tech giant appealed to Virginia Supreme Court over new rules requiring builders to fund transmission infrastructure upfront
 
@@ -8,9 +14,6 @@ ChatGPT maker claims its ‘Astra’ could be considered ‘artificial general i
 
 ## US oil deal sparks ‘anger’ in Venezuela, says opposition leader
 María Corina Machado’s comments reflect widespread unease over agreement but stop short of criticising US President Donald Trump
-
-## Reform UK woos bond investors as markets shake UK political debate
-Treasury spokesman Robert Jenrick tells annual conference that party will ‘index towards reassurance’
 
 ## Nvidia’s $13bn deal cements its $5.5tn advantage
 It’s an investor, backer, supplier and guarantor for companies its Hugging Face acquisition potentially disrupts
@@ -21,20 +24,17 @@ Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s m
 ## Hugging Face attack is a wake-up call about the risks of AI
 Agents involved in hack exhibited some alarming behaviours including suppressing ethical qualms
 
-## Tory plan to fund defence risks rise in homelessness, say charities
-Conservative leader Kemi Badenoch has promised billions in welfare cuts to pay for extra military spending if party wins general election
+## Volkswagen to slash up to 50,000 jobs in historic restructuring
+German carmaker’s overhaul could also lead to plant closures as it contends with lacklustre sales and growing Chinese competition
+
+## Dear Brits, please save more
+The UK, like many countries, faces a major pensions shortfall
 
 ## EU enters winter with lowest gas stocks on record
 Situation could become ‘problematic’, warns gas storage group head
 
 ## Star Citadel energy trader to step down amid tumult in energy markets
 Chris Foster to leave role at Ken Griffin’s hedge fund after making billions of dollars trading natural gas in Europe
-
-## Revolut wins provisional US banking licence
-Office of the Comptroller of the Currency approval is a milestone for UK-based fintech seeking American expansion
-
-## VW risks downgrade to ‘junk’ without sweeping cuts, warns top investor
-Union Investment urges supervisory board to vote through restructure that would axe 100,000 jobs in Germany
 
 ## OGA 2026 OPENS WITH STRONGER FOCUS ON MARKET ACCESS, REGIONAL PROJECTS AND ENERGY OPPORTUNITIES
 OGA 2026 OPENS WITH STRONGER FOCUS ON MARKET ACCESS, REGIONAL PROJECTS AND ENERGY OPPORTUNITIES
@@ -84,6 +84,9 @@ The point is not that America has become less relevant. It's about the rest of t
 ## 7.8% growth, but a Rs 6 lakh crore question: Why GDP data has sparked a debate
 One of the biggest points of discussion and questioning is the revision to Q1 FY26 GDP at current prices, that is the figures for last year's same quarter numbers. Under the old 2011-12 series, GDP was estimated at Rs 86.05 lakh crore. However, under the new series, it has subsequently been revised 
 
+## ISRO's GSLV-F17 carrying EOS-05 earth observation spacecraft takes off from Sriharikota
+ISRO launched GSLV-17 carrying Earth-observation satellite EOS-05 from Andhra Pradesh at 2:55am IST, marking its second major launch attempt of 2026.
+
 ## India ready to support peace efforts, Jaishankar tells Zelenskyy in Kyiv
 Jaishankar’s visit came against the backdrop of an increase in Russian attacks on merchant shipping in the Black Sea, which have led to death of five Indians
 
@@ -104,9 +107,6 @@ A West Bengal anti-corruption commission inspected two factories owned by former
 
 ## ‘Buying or not buying Russian oil won’t solve Ukraine crisis’: Jaishankar says India needs to take care of energy needs
 S Jaishankar said India also needs to address the energy needs of its 1.4 billion people, and that this is something other countries should also respect.
-
-## India, Belgium to step up cooperation in defence, law enforcement, semiconductors
-PM Narendra Modi and Belgian PM Bart De Wever agreed to deepen defence, law enforcement and semiconductor cooperation and double bilateral trade in five years.
 
 ## China prepares next phase of national SME fund to boost tech start-ups and IPOs
 China will soon launch the second phase of a National SME Development Fund with a focus on IPO incubation and channelling private capital into backing innovative, early-stage entities and projects with long-term prospects in hard tech. The fund’s second phase was confirmed as the Ministry of Industr
@@ -132,6 +132,12 @@ Chinese mainland investors rotated into Hong Kong stocks tied to artificial inte
 ## Hong Kong's Digital Asset Moment: Forthright Securities on What Bitcoin Asia Signals for Licensed Finance
 [The content of this article has been produced by our advertising partner.] When Bitcoin Asia landed at the Hong Kong Convention and Exhibition Centre last week, it was more than another major gathering for the digital asset community. The summit’s presence in the city reflected a wider shift: digit
 
+## The USS Abraham Lincoln Is a Troubling Metaphor
+Like the Iran war itself, the carrier’s deployment lasted far longer than Trump expected or planned.
+
+## A Gold Rush in Venezuela?
+The curious case of a job posting and how global firms are tentatively exploring Trump's call to pursue mining opportunities.
+
 ## The Fallout of Russia’s Failed Drone Attack on Germany
 European nations join Berlin in punishing Moscow for an alleged unsuccessful attack on Leipzig airport.
 
@@ -149,12 +155,6 @@ Public sentiment is turning against Zelensky amid corruption concerns and years 
 
 ## Iran Accuses U.S. Military of a War Crime
 Renewed fighting has taken a deadly turn after a month without major military action.
-
-## Nepal’s Disaster Demands a Regional Response
-The glacier collapse and floods that followed show why neighboring states must cooperate to reduce future threats.
-
-## How U.S. Allies Can Resist Washington’s Bullying
-The attack on the ICC offers a chance for solidarity on shared values.
 
 ## Australia’s Broken Hill: Where Children Are Sacrificed to Mining Interests
 A historical mining town in Australia’s outback is confronting severe lead-contamination health threats, disproportionately affecting Aboriginal children.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Train crashes into truck at railway crossing in Gdansk, Poland
-CCTV footage shows the moment a train collided with a truck at a railway crossing in northern Poland.
+## Why are people calling Venezuela oil deal a new form of US colonialism?
+Critics call the US multi-billion-dollar oil deal in Venezuela modern-day colonialism.
 
-## Funeral held for child killed in US strike on Iranian wedding
-Mourners carried the coffin of a child killed in a US strike on a wedding in Kuhestak, along the Strait of Hormuz.
+## Burnham, Macron talk border security and stronger Europe-UK ties
+New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.
 
-## Leaders of Thailand and Singapore perform Beatles song, “Let It Be”
-Thai Prime Minister Anutin Charnvirakul and Singapore’s Prime Minister Lawrence Wong performed the Beatles song.
+## NYC’s AI ban through grade 8 sets stage for rest of US, experts say
+The ban will last for one year and affect 600,000 students.
 
-## FIFA blasts UEFA ‘smear campaign,’ fights World Cup plan disclosures
-UEFA seeks US testimony, documents for possible lawsuit; FIFA asks US court to defer or let it oppose UEFA's request.
+## Nepal flood victims to be identified through DNA
+Nepal flood victims to be identified through DNA
 
-## Serbia welcomes return of war criminal Mladic’s body with military honours
-Ratko Mladic received a life sentence from a UN court for committing atrocities during the 1992-1995 Bosnian War.
+## El Nino: A phenomenon supercharged by climate change
+Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.
 
-## Advocates decry US House vote to defund universities that boycott Israel
-Rights groups say the measure infringes on the freedom of speech of Americans for the benefit of a foreign nation.
+## US Vice President JD Vance declines to offer timeline for end of Iran war
+The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.
 
-## Is Nepal leading the battle for climate justice?
-Foreign minister demands top three polluting nations compensate Nepal for recent disaster.
+## France records ‘hottest summer ever’ in 2026
+France joins other European countries in recording its hottest summer since measurements began.
 
-## Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences
-Palestine Action activists convicted of criminal damage “with a terrorist connection” are appealing their convictions.
+## Ipswich Town vs Liverpool: Premier League – prediction, team news, lineups
+Andoni Iraola is still searching for his first win as Liverpool manager but has Bradley Barcola onboard for Ipswich tie.
 
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
