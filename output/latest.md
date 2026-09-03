@@ -1,31 +1,40 @@
 # AION Intelligence
 
-## Yen strengthens as traders bet on Japan interest rate rises
-Currency falls under ¥157 to the dollar after sudden jump overnight
+## PMQs cannot change Burnham’s political reality
+Clipped up for social media, the session can shape perceptions. But it is events outside the chamber and previous pledges that ultimately will constrain the PM
+
+## Yen jumps as traders bet on Japan interest rate rises
+Currency moves past ¥157 to the dollar after sudden jump overnight
+
+## Greens leader Zack Polanski to stand in seat vacated by Starmer
+Decision presents first electoral challenge for Andy Burnham as prime minister
+
+## Reform UK receives more than £5mn in donations in second quarter
+There were no gifts from the party’s biggest backer, Thailand-based billionaire Christopher Harborne
+
+## Shein shares slide as much as 10% on third day of trading
+Falls may force Goldman Sachs to step in to stabilise price
+
+## Elliott builds stake in Deutsche Telekom and opposes T-Mobile US merger
+Activist hedge fund wants German telecoms group to focus on ways to boost shareholder value
+
+## Ireland strives for EU budget breakthrough as December deadline looms
+Also in this newsletter: Kaja Kallas hits back against France and Germany
 
 ## FirstFT: KPMG warned Guggenheim unit over weak controls
 Also in today’s newsletter: Dutch gold bars and Google ads
 
-## US sailors roll into Thai resort after nine months at sea
-USS Abraham Lincoln arrives after lengthy deployment that has become emblematic of Iran war’s strain on resources
+## Crest Nicholson shares tumble as homebuilder warns of loss
+UK group is battling weak demand and fallout from the Iran war
+
+## Accelerating Business
+A monthly series that examines how the legal ecosystem uses new technologies to serve fast-changing business needs. This time: Why law firms want their own in-house AI platforms
 
 ## The new rivalry on Wall Street
 Competition is growing between banks and proprietary trading firms
 
-## Netanyahu pushes to unite far-right vote before Israel election
-Prime minister warns that infighting risks imperilling his rightwing bloc’s chances of re-election next month
-
-## ‘Exit tax’ on UK entrepreneurs ruled out by business department
-Jonathan Reynolds seeks to quell fears of levy on companies spun out from UK universities that move abroad
-
 ## VodafoneThree to launch debut TV service in challenge to UK rivals
 UK telecoms group hopes adding the TV platform will help it double its broadband business
-
-## When is an economist not an economist?
-A fraught question that warrants reflection on who gets to be a member of the influential informal guild
-
-## Accelerating Business
-A monthly series that examines how the legal ecosystem uses new technologies to serve fast-changing business needs. This time: Why law firms want their own in-house AI platforms
 
 ## Fixing the AI industry’s PR problem
 Doomers will say it’s hopeless but here are five ideas to put out the fire
@@ -33,35 +42,47 @@ Doomers will say it’s hopeless but here are five ideas to put out the fire
 ## KPMG warned Guggenheim unit over deficiencies in internal controls
 Big Four auditor flagged up flaws in how private investment division accounted for revenue
 
-## For sweltering Britons, rising energy prices could spark a shutter boom
-Shares in window specialists have outperformed the broader market in the past month
+## WSB Real Estate Partners appoints Jyoti Agarwal as Executive Director
+Agarwal brings nearly four decades of experience across Kotak Group and ICICI Bank spanning corporate banking, real estate debt, structured lending and stressed asset management
 
-## Fantasy M&A: the recipe for a European champion
-Seven theoretical tie-ups that could help the continent’s corporate sector compete with the US and China — if regulators, politicians and the public allowed them
+## Over 91% of auto shopfloor roles remain male-held even as EVs drive women’s hiring
+Women make up just 8.7% of OEM and component workers, while barriers around recruitment, unequal pay, shifts, job allocation and workplace practices continue to limit their participation
 
-## Sensex today | Stock Market Live Updates: Markets rise on institutional buying, positive global cues; Sensex up 280 pts, Nifty crosses 24,000-mark
-Sensex, Nifty, Share Prices Live: Benchmark indices Sensex and Nifty opened higher on Thursday, September 3, 2026, recovering from the previous session’s losses, supported by sustained institutional buying and positive global cues.
+## Sensex today | Stock Market Live Updates: Sensex, Nifty flat in late session
+Sensex, Nifty, Share Prices Live: The benchmark indices the BSE Sensex and NSE Nifty held steady in late afternoon trade on Thursday.
 
-## Tata Trusts gets clean chit in 1989 share transfer case, Charity Commissioner of Maharashtra dismisses Vijay Singh’s complaint
+## Adani Ports shares rise 2% on record August cargo volumes, brokerages bullish
+Adani Ports stock jumps to an intraday high of ₹1,710.80 from ₹1,672.70 previous close
 
+## India’s bank liquidity surplus hits all-time high on massive FCNR(B) inflows
+Bank liquidity surplus touches ₹9.7 lakh crore ($102.67 billion) ‌as of September 3
 
-## Glass Wall Systems India’s ₹428-cr IPO to open on Sep 8; price band set at ₹172-182
-The IPO will open for public subscription on September 8 and close on September 10. The bidding for anchor investors will take place on September 7
+## Bank stocks rally after RBI reports $136.38 billion inflows through special forex swap window
+The fresh numbers from the central bank triggered buying across the banking space, with major lenders leading the gains.
 
-## Robust FCNR(B) inflows: Rupee opens 67 paise stronger at 94.30 per USD
-Rupee tests a high/ low of 94.26/94.4350
+## Thrissur teen develops AI-powered system for dam management
+His innovation, AcoustiNode Systems, has been selected among the Top 40 candidates of Samsung Solve for Tomorrow
 
-## GDP methodology: MoSPI says negative manufacturing deflator does not mean factory-gate prices fell
-In a set of questions and answers released on Wednesday, the ministry explained how double deflation can produce a negative implicit GVA deflator when input prices rise faster than output prices.
+## Nearly 2,000 heavy electric trucks could hit Indian roads by FY27 as corporate fleets scale up
+UltraTech’s latest 600-truck plan adds to a growing pipeline of electric heavy trucks across cement, ports and logistics, according to data compiled by businessline
 
-## Arcil sets price band at ₹132-139 for ₹733 crore IPO; issue to open on Sep 9
-At the upper end of the price band, the issue size is estimated at around ₹733 crore, while at the lower end, it works out to ₹696 crore
+## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
+What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
 
-## India emerging as one of the top five global hubs for mechanical engineering talent, says ASME global CEO
-ASME’s decision to bring its premier conference to India was driven by the depth of research and engineering talent in the country
+## Indian Railways set to get indigenous 280 kmph bullet trains by early 2027
+India could see the launch of its first bullet train service in 2027, with the Surat–Bilimora section of the Mumbai-Ahmedabad bullet train project expected to become operational by August that year.
 
-## Crude oil futures trade lower as US targets Iran’s rocket and radar systems
-US Navy continues to strictly enforce the US blockade against Iran
+## Son died in 2013, LIC rejected 5 claims over diabetes; mother wins Rs 61.5 lakh
+The decision ends a legal dispute that continued for more than a decade. It also establishes that an insurer cannot deny a death claim for non-disclosure of a medical condition if the policyholder himself was unaware of the disease when the policy was taken.
+
+## Gold, silver price prediction: Will gold drop to Rs 1.4 lakh/10 gms? Check outlook on September 3, 2026
+Gold and silver price prediction today: Gold prices are falling but buying on dips is the recommended strategy this week, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
+
+## SBI hits back at 2.6% GDP growth claim, says numbers compared incorrectly
+The State Bank of India has challenged assertions of low nominal GDP growth, asserting that the 2.6% figure arose from inconsistent data comparisons. The bank highlights that the official real GDP growth for Q1 FY27 remains robust at 7.8%. It's common for quarterly GDP figures to be adjusted, and fu
+
+## Rupee gains 47 paise as record FCNR inflows boost forex liquidity
+On Thursday morning, the Indian rupee saw a notable rise, fueled by an influx of foreign-currency deposits that enhanced the foreign-exchange liquidity of the country. This robust support helped mitigate global economic pressures. Additionally, interventions from the Reserve Bank of India played a c
 
 ## Trump’s face debuts on US currency, $1 coins run ‘out of stock’ within hours
 A freshly minted $1 coin has been released to celebrate America's 250th anniversary, featuring the portrait of Donald Trump. While federal regulations usually prevent living presidents from appearing on currency, unique allowances have made this release possible. The coins flew off the shelves just 
@@ -69,47 +90,35 @@ A freshly minted $1 coin has been released to celebrate America's 250th annivers
 ## Stock market today: BSE Sensex jumps over 260 points, Nifty50 nears 24,000
 
 
-## First Vande Bharat in 2019, sleeper version came in 2026; now 260 trains in works
-The first pair of Vande Bharat sleeper trains was launched earlier this year between Guwahati and Howrah. The second pair is undergoing trials and is expected to enter service soon. Reports suggest it may run between Bengaluru and Mumbai, though an official confirmation is awaited.
+## CJP's 'democratic' faction emerges months after Jantar Mantar success: 'Became Team Kejriwal'
+Manish Brahmbhatt has leveled several allegations against CJP, including that after success of Jantar Mantar protest, the outfit was "sold out and politicised".
 
-## Top stocks to buy today: Stock recommendations for September 3, 2026 - check list
-Top stock market recommendations: Bank of Maharashtra, Glenmark Pharma, and Tata Technologies have been shared as the top stocks to buy today on September 3, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth.
+## Farmer shot dead in Kanpur hours after reporting alleged knife attack to police
+Police suspect an old rivalry between two families was behind the killing and have formed teams to arrest the accused.
 
-## Tata Sons clears 10k cr for AI, with conditions attached
-Tata Sons' board approved a significant Rs 10,000 crore capital infusion for Air India. This investment is contingent upon business case presentations from the airline and other ventures. The decision follows a pause in equity injections after Air India's doubled losses in FY26. Tata Sons' ability t
+## Indian law governing child custody does not recognise joint parenting: Bombay HC
+Bombay HC says Indian law does not recognise joint parenting, stresses child welfare over parental rights.
 
-## Oil price today: Crude continues to trade beyond $95 per barrel
-Oil prices took a minor dip on Thursday following a turbulent trading day. Investors are closely monitoring the repercussions of the US-Iran strikes on oil supply lines. Activity in the Strait of Hormuz is currently lower than average. This disruption fosters worries regarding global oil availabilit
+## AAP's Satyendar Jain gets bail in corruption case on bond of ₹2 lakh, two similar sureties
+AAP's Satyendar Jain gets bail in corruption case on bond of ₹2 lakh and two sureties of the like amount.
 
-## Canada fund buys 24% in tower firm for $1.3bn
+## ED targets drug smuggling networks, raids 30 locations in four states
+The agency investigation under the prevention of money laundering act or PMLA stems from a total of eight cases registered by the local police in these states or the NCB since 2022
 
+## 'Wife can't follow husband like Vodafone ad pug': Madras high court in prolonged divorce battle
+The Madras high court also reportedly said that a man, likewise, cannot always take along a wife with him when he has to shift for employment.
 
-## High-value tech imports a worry: Auto cos
+## North Odisha flood situation grim; 373 villages inundated
+North Odisha flood situation grim; 373 villages inundated
 
+## Nagaland: Protest over mandatory Vande Mataram singing enters second day, govt urges NSF to withdraw
+Nagaland: Protest over mandatory Vande Mataram singing enters second day, govt urges NSF to withdraw
 
-## Masked men ransack, loot TMC leader Abhishek Banerjee’s office in Kolkata
-TMC lawmaker Abhishek Banerjee alleged that police did not respond for at least two hours and blamed the ruling BJP for the attack
+## Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry
+US tech titans including Nvidia CEO Jensen Huang and Tesla’s Elon Musk are pressing global powers to curb artificial intelligence regulations, warning that strict guard rails risk suffocating innovation as the US and China compete in an intensifying technological arms race. Speaking at a G20 meeting
 
-## Ram Temple CEO Jeetendra Mishra's old video with PM Modi at Adampur air base goes viral
-Jeetendra Mishra had accompanied PM Modi to the Adampur air base in May 2025, shortly after India and Pakistan reached an understanding amid Operation Sindoor.
-
-## Ram Temple trust gets its first woman trustee
-The trust also named former Air Marshal Jeetendra Mishra as its first CEO and elevated Govind Dev Giri to general secretary.
-
-## Keralam child rights panel seeks removal of sugar from anganwadi nutri mix
-Keralam child rights panel seeks removal of sugar from anganwadi nutri mix
-
-## Vijay to move resolution to recognise Tamil as Madras high court's principal language
-The state's official resolution is set to urge the creation of a framework under which all judgments, decrees and judicial orders are made available in Tamil.
-
-## HT Morning News Brief September 1: Centre backs 7.8% growth amid GDP row, F-16 hero Abhinandan quits IAF | Top news
-Here's your roundup of everything you need to start the day informed — from politics and world news to sports and entertainment.
-
-## Abhishek Banerjee's Kolkata office ransacked, TMC MP claims BJP workers behind attack
-CCTV footage shared by Abhishek Banerjee shows masked men inside the premises before fleeing with electronic gadgets, including a tv and other equipment.
-
-## Raghav Chadha claims name ‘shifted’ in Punjab draft electoral rolls, AAP denies hand
-The AAP government distanced itself from the deletion, saying the SIR is conducted by the Election Commission (EC) and that the state government has “no role”.
+## Amid global risks, younger investors favour tangible bars as paper gold loses shine
+Sussi Ye began buying gold bars in small batches at the start of the year, slowly building a hoard now worth about 200,000 yuan (US$29,700). Despite the metal’s price swings since then, she has not sold a single gram. “I prefer investing in physical gold instead of gold-linked financial products,” s
 
 ## Mainland Chinese investors buy Hong Kong tech stocks in AI pivot, sell financials
 Chinese mainland investors rotated into Hong Kong stocks tied to artificial intelligence and pulled out of companies in traditional industries in August, taking advantage of a market dip to boost bets on the world’s most cutting-edge technology. AI model developer MiniMax Group logged net buying of 
@@ -128,12 +137,6 @@ US membership-only retailer Sam’s Club has sped up its expansion in China this
 
 ## BYD, Leapmotor buck EV market slowdown as pressure piles up on small rivals
 Top performers BYD and Leapmotor clawed their way up higher in terms of sales last month, even as China’s electric vehicle (EV) market was shrinking amid weaker consumer demand. However, smaller players were expected to face falling sales and mounting losses for the rest of the year as competition g
-
-## China cracks down on AI ‘slop’, clearing out clutter from WeChat, RedNote, Douyin
-China is cracking down on artificial intelligence-generated “slop” – low-grade, mass-produced synthetic content cluttering social media and news feeds – as part of a sweeping campaign against the abuse of the generative technology, the country’s top internet watchdog said on Wednesday. In a statemen
-
-## Chinese carmakers eye full hybrid market; BYD posts US$1.2 billion profit: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. After gaining EV sway, Chinese carmakers eye full hybrid market Chinese carmakers, alr
 
 ## Iran Accuses U.S. Military of a War Crime
 Renewed fighting has taken a deadly turn after a month without major military action.
@@ -183,6 +186,12 @@ For Mongolia, the highlights were the bilateral meetings held on the sidelines w
 ## From Partnership to Penalty: US Tariffs Shadow India Trade Deal
 The promise of deeper economic cooperation is undermined by punitive measures that could torpedo the India-U.S. pact even before it is signed.
 
+## Where Does AI Escalation Come From? We Don’t Know. We Should Find Out.
+We played a wargame using AI players. Two nuclear-armed nations — Red and Blue — with a long-standing, fierce border dispute were placed into a militarized crisis. Over the course of several turns, the states managed to avoid escalation to war, though there were non-operational nuclear demonstration
+
+## Russia’s Road to El Dorado
+As a new convoy of Russian armored vehicles arrives from the port of Lomé to support Russia’s Africa Corps deployment in Mali, that mission has entered its fifth year. Russia’s investment of blood and treasure urgently demands a return, but what could this return be? What is the Russian end goal in 
+
 ## Is Taiwanese Society Prepared for a China Contingency?
 In 2025, Michael Hunzeker and Yuster Yu wrote, “Taiwan’s Biggest Problem in Steeling Itself for War With China is Cultural,” where they argued major cultural changes were needed in both Taiwan’s military and civilian society if it were to be competitive in a conflict with China. A year later, we ask
 
@@ -200,12 +209,6 @@ Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by
 
 ## A Rulebook for Surprises: Commanding Autonomous Aircraft
 My greatest challenge while flight testing collaborative combat aircraft was not troubleshooting errors at high speed in the cockpit. It was when, in a single keystroke, my job shifted from pilot to something like a dog handler — a supervisor of an autonomous agent. As a test pilot, my instinct is t
-
-## The Educated Operator: Rethinking Lethality in Special Operations
-Editor’s Note: While War on the Rocks has a high standard for allowing pseudonyms, this is an unusual case: U.S. Army Special Operations Command requires its uniformed personnel to use pseudonyms when writing for public consumption (Policy 23-16). Meek young men grow up in libraries, believing it th
-
-## The Political Constraint on America’s Data-Center Power Buildout
-In April, President Donald Trump issued two Defense Production Act determinations covering grid infrastructure and large-scale energy infrastructure. One found that the country’s constrained electric grid posed an increasing threat to national defense and made grid infrastructure and its supply chai
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tens of thousands rally across Spain over Ceuta migrant crisis
-Tens of thousands rallied across Spain protesting the government's handling of the Ceuta migrant crisis.
+## Egypt’s Sisi welcomes China’s President Xi in Grand Egyptian Museum tour
+President Abdel Fattah el-Sisi has given President Xi Jinping a tour of the Grand Egyptian Museum in Giza.
 
-## Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia
-The last man prosecuted over the 2017 killing of Maltese journalist Daphne Caruana Galizia has been acquitted.
+## Photos: Symbolic funerals held in Nepal for missing flood victims
+Symbolic funerals held in Nepal for those still missing after deadly floods in the Himalayan nation.
 
-## US forces board and destroy alleged cartel boat in eastern Pacific
-US forces boarded and sank a boat in the eastern Pacific saying it was a floating refueling station for drug-traffickers
+## Good Good Golf CEO, president quit amid advertisement controversy
+The advertisement faced severe backlash and prompted calls for a boycott of products from Callaway, which co-branded it.
 
-## Minneapolis shooting kills two, wounds three police officers
-Police say suspected gunman is also dead and that several people, including three officers, were wounded.
+## NBA fines Clippers $30m, suspends several executives in Kawhi Leonard probe
+Clippers owner Steve Ballmer suspended for one year; team disputes league's conclusions and validity of investigation.
 
-## Exclusive access as the search for Nepal’s tunnel workers intensifies
-Al Jazeera’s Jessica Washington gets exclusive access to rescue crews in Rasuwa, Nepal, digging and blasting.
+## Russia to close Goethe-Institut centres as Germany tensions escalate
+Moscow to shut Goethe-Institut centres after Germany announces the closure of two Russian institutions.
 
-## Trump threatens more strikes as death toll in Iran rises to 18
-Trump says US can hit Iran 'anytime we want' as Tehran says deadly strikes, including on wedding party, a war crime.
+## OpenAI’s Sam Altman tells G20 AI will be as essential as electricity
+‘A kid growing up today will never be smarter than AI.’
 
-## Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges
-Former Venezuelan leader was abducted by US forces during a military attack on Caracas in January.
+## Alcaraz, Sabalenka ease into US Open third round; American players shine
+Americans Ben Shelton, Jessica Pegula, Emma Navarro and Frances Tiafoe progress to the third round.
 
-## US Congress rejects constitutional amendment to restrict Supreme Court size
-Republican Mike Johnson slams Democrats for voting against 'defending the integrity' of the court.
+## Iran Red Crescent urges ICC probe into deadly US strike on wedding party
+Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.
 
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
@@ -279,6 +282,9 @@ Seasoned finance professional Dr. (CA) Ashok Haldia examines how the Hong Kong H
 ## India Inc pays record dividends in FY26, but payout ratio slides
 In FY26, Indian firms made history by distributing a staggering ₹4.5 lakh crore in dividends, marking a remarkable 15% annual growth rate over five years. A significant portion of these dividends, two-thirds, came from the banking, finance, and IT sectors. Notably, the dividend payout ratio has tape
 
+## Govt mulls BIS exemption for high-tech companies setting up plants in India
+The government has announced new exemptions for high-tech companies, allowing them to bypass BIS certification to streamline the setup of manufacturing units in India. Concerns were raised by Japanese semiconductor companies over certification hurdles for components. This strategy is designed to ens
+
 ## RBI appoints Suman Ray as Executive Director, to head DICGC and Premises Department
 Suman Ray will assume the role of Executive Director at the Reserve Bank of India. His appointment is effective from September 1, 2026, as announced by the central bank. Previously, Ray served as the Regional Director for Maharashtra and has extensive experience. He will now oversee the Department o
 
@@ -299,7 +305,4 @@ Finance Minister Nirmala Sitharaman met several US business leaders in Chicago. 
 
 ## India to pitch central bank digital currencies to BRICS partners at meet
 The global grouping celebrates 20 years at the New Delhi summit on September 12-13. A high-level meeting would be held next week to thrash out mechanisms for use of digital currencies, and explore ways to increase intra-BRICS trade using national currencies, said the people mentioned above.
-
-## India's RBI gives banks more flexibility in swapping overseas dollar deposits
-The Reserve Bank of India has permitted banks to swap dollars more than once weekly. This change aids banks in managing large inflows before a deposit scheme deadline. The special deposit scheme has attracted over sixty-five billion dollars so far. Banks are raising overseas funds to leverage potent
 
