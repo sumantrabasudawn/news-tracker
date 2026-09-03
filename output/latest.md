@@ -1,118 +1,133 @@
 # AION Intelligence
 
-## PMQs cannot change Burnham’s political reality
-Clipped up for social media, the session can shape perceptions. But it is events outside the chamber and previous pledges that ultimately will constrain the PM
+## Struggling Republicans urge Trump to open Maga Inc’s $400mn war chest
+US president’s Super Pac has yet to deploy significant money in midterms race despite polls pointing to his party’s defeat in November
 
-## Yen jumps as traders bet on Japan interest rate rises
-Currency moves past ¥157 to the dollar after sudden jump overnight
+## Milei dials up Argentina’s claim to Falklands
+Domestic politics, oil drilling and UK-US tensions drive libertarian leader to amp up sovereignty dispute
 
-## Greens leader Zack Polanski to stand in seat vacated by Starmer
-Decision presents first electoral challenge for Andy Burnham as prime minister
+## Vulnerable Republicans urge Trump to unleash Maga Inc’s $400mn cash pile
+Also in today’s newsletter, Chevron plans $7bn Venezuela expansion and Pentagon chaos deepens
 
-## Reform UK receives more than £5mn in donations in second quarter
-There were no gifts from the party’s biggest backer, Thailand-based billionaire Christopher Harborne
+## Oman FM: In an age of impunity, diplomats are more important than ever
+There is a tendency on the part of some world leaders to decide that they can do it themselves
 
-## Shein shares slide as much as 10% on third day of trading
-Falls may force Goldman Sachs to step in to stabilise price
+## Yen surges as traders bet on Japan interest rate rises
+Currency moves past ¥156 to the dollar after sudden jump overnight
 
-## Elliott builds stake in Deutsche Telekom and opposes T-Mobile US merger
-Activist hedge fund wants German telecoms group to focus on ways to boost shareholder value
+## Monetary Policy Radar preview: ECB’s September meeting
+The FT’s guide on what to look out for on September 10
 
-## Ireland strives for EU budget breakthrough as December deadline looms
-Also in this newsletter: Kaja Kallas hits back against France and Germany
+## Fed’s Chris Waller ‘inclined’ to keep rates on hold
+Markets have been betting on a rise following Kevin Warsh’s Jackson Hole speech
 
-## FirstFT: KPMG warned Guggenheim unit over weak controls
-Also in today’s newsletter: Dutch gold bars and Google ads
+## Nvidia to buy open-source AI platform Hugging Face for $13bn
+Model and data repository turned down big investment from Jensen Huang’s chip group last year to preserve independence
 
-## Crest Nicholson shares tumble as homebuilder warns of loss
-UK group is battling weak demand and fallout from the Iran war
+## Harvey Nichols sale set to cost luxury brands millions
+Brands including Chloé and Victoria Beckham to recover less than 15p in the pound after Frasers Group buys department store chain
 
-## Accelerating Business
-A monthly series that examines how the legal ecosystem uses new technologies to serve fast-changing business needs. This time: Why law firms want their own in-house AI platforms
+## Entain exits the FTSE 100 in surprisingly good shape
+Having bulked up in some ways, the gambling group could create value by slimming down in others
 
-## The new rivalry on Wall Street
-Competition is growing between banks and proprietary trading firms
+## Crest Nicholson shares tumble as housebuilder warns of loss
+UK group battles weak demand and fallout from Iran war
 
-## VodafoneThree to launch debut TV service in challenge to UK rivals
-UK telecoms group hopes adding the TV platform will help it double its broadband business
+## How US oil companies are expanding as Trump reshapes global energy
+Washington is exerting its power and American companies are seizing the opportunity to diversify their production
 
-## Fixing the AI industry’s PR problem
-Doomers will say it’s hopeless but here are five ideas to put out the fire
+## Diesel premium in Europe jumps to record high
+So-called crack spread rises above $100 a barrel on continent for first time, leaving diesel at more than twice the cost of underlying crude
 
-## KPMG warned Guggenheim unit over deficiencies in internal controls
-Big Four auditor flagged up flaws in how private investment division accounted for revenue
+## Lloyd’s of London faces £1.4bn losses from US-Iran war
+Attacks on critical infrastructure in the Gulf lead to rise in insurance claims
 
-## WSB Real Estate Partners appoints Jyoti Agarwal as Executive Director
-Agarwal brings nearly four decades of experience across Kotak Group and ICICI Bank spanning corporate banking, real estate debt, structured lending and stressed asset management
+## Hargreaves Lansdown offers crypto ETNs nearly a year after ban was lifted
+Investment platform previously told customers ‘bitcoin is not an asset class’
 
-## Over 91% of auto shopfloor roles remain male-held even as EVs drive women’s hiring
-Women make up just 8.7% of OEM and component workers, while barriers around recruitment, unequal pay, shifts, job allocation and workplace practices continue to limit their participation
+## Auto sector must prepare for end of EV subsidies, Heavy Industries Secy
+The automobile industry has been urged to strengthen charging infrastructure and increase research spending as electric mobility expands across India
 
-## Sensex today | Stock Market Live Updates: Sensex, Nifty flat in late session
-Sensex, Nifty, Share Prices Live: The benchmark indices the BSE Sensex and NSE Nifty held steady in late afternoon trade on Thursday.
+## FSSAI looking at regulations for ban on analogue paneer, restrictions on sale of junk foods near schools
+Several states including Punjab, Karnataka, Maharashtra, Madhya Pradesh, Himachal Pradesh, Gujarat and Chhattisgarh have already banned analogue paneer
 
-## Adani Ports shares rise 2% on record August cargo volumes, brokerages bullish
-Adani Ports stock jumps to an intraday high of ₹1,710.80 from ₹1,672.70 previous close
+## FLY91 places $1 billion order for 40 ATR 72-600 aircraft
+The new aircraft will help the airline build a larger regional network and connect more unserved and underserved cities across India
 
-## India’s bank liquidity surplus hits all-time high on massive FCNR(B) inflows
-Bank liquidity surplus touches ₹9.7 lakh crore ($102.67 billion) ‌as of September 3
+## Crude fears cap Nifty’s gap-up; rupee posts biggest single-day gain since July
+The rupee gained 49 paise as massive inflows from the RBI’s concessional swap scheme far exceeded market expectations, analysts said
 
-## Bank stocks rally after RBI reports $136.38 billion inflows through special forex swap window
-The fresh numbers from the central bank triggered buying across the banking space, with major lenders leading the gains.
+## Retail sugar price drops 3.85% to ₹62.57/kg in a week: Govt data
+The average wholesale price of sugar too dropped to ₹57.62 per kg on September 2 from ₹60.39 per kg a week ago, as per the data maintained by the consumer affairs ministry
 
-## Thrissur teen develops AI-powered system for dam management
-His innovation, AcoustiNode Systems, has been selected among the Top 40 candidates of Samsung Solve for Tomorrow
+## World Bank’s Neelkanth Mishra rejects claims that India’s 7.8% GDP growth was inflated
+Mishra cited vehicle sales, tax collections, credit growth and construction activity as evidence supporting the economy’s stronger growth momentum
 
-## Nearly 2,000 heavy electric trucks could hit Indian roads by FY27 as corporate fleets scale up
-UltraTech’s latest 600-truck plan adds to a growing pipeline of electric heavy trucks across cement, ports and logistics, according to data compiled by businessline
+## Rupee hits 10-week closing high of 94.48 per US dollar
+The currency posted its biggest daily gain since July 27, after the RBI’s FCNR(B) scheme attracted hefty dollar inflows even as importer demand pared some ​of its earlier gains
+
+## RBI rejects all bids in ₹30,000-crore bond buyback auction
+Investors offered bonds worth just 10% of the amount New Delhi sought to repurchase, with traders attributing the weak response to ample banking liquidity
 
 ## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
 What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
 
+## Airbus ties up with Nagpur's Indamer Technics to set up South Asia’s first radome repair facility in India
+
+
 ## Indian Railways set to get indigenous 280 kmph bullet trains by early 2027
 India could see the launch of its first bullet train service in 2027, with the Surat–Bilimora section of the Mumbai-Ahmedabad bullet train project expected to become operational by August that year.
 
-## Son died in 2013, LIC rejected 5 claims over diabetes; mother wins Rs 61.5 lakh
-The decision ends a legal dispute that continued for more than a decade. It also establishes that an insurer cannot deny a death claim for non-disclosure of a medical condition if the policyholder himself was unaware of the disease when the policy was taken.
+## 7.8% growth, but a Rs 6 lakh crore question: Why GDP data has sparked a debate
+One of the biggest points of discussion and questioning is the revision to Q1 FY26 GDP at current prices, that is the figures for last year's same quarter numbers. Under the old 2011-12 series, GDP was estimated at Rs 86.05 lakh crore. However, under the new series, it has subsequently been revised 
 
-## Gold, silver price prediction: Will gold drop to Rs 1.4 lakh/10 gms? Check outlook on September 3, 2026
-Gold and silver price prediction today: Gold prices are falling but buying on dips is the recommended strategy this week, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
+## US-Venezuela's historic deal: Will Americans get cheaper gas now?
+The United States has successfully negotiated a deal to import Venezuelan oil, aiming to replenish its reserves with a consistent supply of affordable crude. While the long-term implications for American drivers remain ambiguous, the deal's effect may not be felt for several months. The arrangement 
 
-## SBI hits back at 2.6% GDP growth claim, says numbers compared incorrectly
-The State Bank of India has challenged assertions of low nominal GDP growth, asserting that the 2.6% figure arose from inconsistent data comparisons. The bank highlights that the official real GDP growth for Q1 FY27 remains robust at 7.8%. It's common for quarterly GDP figures to be adjusted, and fu
+## Sugar gets sweeter again: Retail prices fall 3.85% to Rs 62.57/kg in a week
+Sugar prices have started to fall across markets following government interventions. The average retail price has dropped significantly over the past week. However, consumers still pay more than a month ago due to existing stock. Wholesale rates are not immediately reflecting in retail prices as tra
 
-## Rupee gains 47 paise as record FCNR inflows boost forex liquidity
-On Thursday morning, the Indian rupee saw a notable rise, fueled by an influx of foreign-currency deposits that enhanced the foreign-exchange liquidity of the country. This robust support helped mitigate global economic pressures. Additionally, interventions from the Reserve Bank of India played a c
+## Bridges & underpasses: Gadkari announces Rs 2,077cr project for Siliguri Corridor
+A Rs 2,077.18 crore project will four-lane a key Siliguri Corridor highway. This upgrade will strengthen connectivity to Northeast India and neighboring countries. The project includes bridges and elephant underpasses for safer wildlife movement. Congestion is expected to ease in Bagdogra and surrou
 
-## Trump’s face debuts on US currency, $1 coins run ‘out of stock’ within hours
-A freshly minted $1 coin has been released to celebrate America's 250th anniversary, featuring the portrait of Donald Trump. While federal regulations usually prevent living presidents from appearing on currency, unique allowances have made this release possible. The coins flew off the shelves just 
-
-## Stock market today: BSE Sensex jumps over 260 points, Nifty50 nears 24,000
+## 'No trade deal till US gives preferential tariff terms': India draws red line
 
 
-## CJP's 'democratic' faction emerges months after Jantar Mantar success: 'Became Team Kejriwal'
-Manish Brahmbhatt has leveled several allegations against CJP, including that after success of Jantar Mantar protest, the outfit was "sold out and politicised".
+## Nagaland Assembly urges Centre to withdraw Protected Area Permit regime
+Nagaland Assembly urged the Centre to withdraw the Protected Area Permit regime, saying it is hurting tourism, investment, business and cultural exchange.
 
-## Farmer shot dead in Kanpur hours after reporting alleged knife attack to police
-Police suspect an old rivalry between two families was behind the killing and have formed teams to arrest the accused.
+## Uttarakhand needs long-term strategy suited to Himalayan challenges: CM Dhami
+Uttarakhand CM Pushkar Singh Dhami called for a long-term development strategy that addresses the state’s unique Himalayan challenges.
 
-## Indian law governing child custody does not recognise joint parenting: Bombay HC
-Bombay HC says Indian law does not recognise joint parenting, stresses child welfare over parental rights.
+## Issue GR on demands or will march to Mumbai: Manoj Jarange Patil’s new ultimatum
+Maratha reservation activist Manoj Jarange-Patil demanded that the issuance of Kunbi certificates should begin immediately
 
-## AAP's Satyendar Jain gets bail in corruption case on bond of ₹2 lakh, two similar sureties
-AAP's Satyendar Jain gets bail in corruption case on bond of ₹2 lakh and two sureties of the like amount.
+## Online-offline gap in Delhi leaves out voters in SIR
+Booth level officers (BLOs), electoral registration officers (EROs), and political workers attribute this phenomenon to a misunderstanding of the process.
 
-## ED targets drug smuggling networks, raids 30 locations in four states
-The agency investigation under the prevention of money laundering act or PMLA stems from a total of eight cases registered by the local police in these states or the NCB since 2022
+## Telangana tribal man killed in landmine blast on Karreguttalu hillocks: Police
+A 60-year-old tribal man was killed in a landmine blast on Karreguttalu hillocks in Telangana’s Mulugu district, police said.
 
-## 'Wife can't follow husband like Vodafone ad pug': Madras high court in prolonged divorce battle
-The Madras high court also reportedly said that a man, likewise, cannot always take along a wife with him when he has to shift for employment.
+## Belgian PM backs India's fight against cross-border terrorism in talks with Modi; leaders propose ‘joint working group’
+Belgian PM Bart De Wever also condemned the Pahalgam terror attack in which 25 tourists were killed in J&K.
 
-## North Odisha flood situation grim; 373 villages inundated
-North Odisha flood situation grim; 373 villages inundated
+## Why not have CCTVs on toll plazas: SC asks NHAI, flags highway encroachments
+In November 2025, the court took suo motu cognisance of a road accident in Phalodi in which a tempo traveller rammed into a stationary trailer truck.
 
-## Nagaland: Protest over mandatory Vande Mataram singing enters second day, govt urges NSF to withdraw
-Nagaland: Protest over mandatory Vande Mataram singing enters second day, govt urges NSF to withdraw
+## HT Evening Brief Sept 3: India 'ready to help end' Ukraine war; Taapsee Pannu's Gandhari movie review in
+Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
+
+## China prepares next phase of national SME fund to boost tech start-ups and IPOs
+China will soon launch the second phase of a National SME Development Fund with a focus on IPO incubation and channelling private capital into backing innovative, early-stage entities and projects with long-term prospects in hard tech. The fund’s second phase was confirmed as the Ministry of Industr
+
+## Hong Kong regulator reclassifies certain funds with exposure to private markets
+Hong Kong’s market regulator has reclassified some of the city’s authorised funds with exposure to private market assets above a certain amount as complex products, raising the threshold for selling these products to retail investors. Funds with exposures to direct or indirect private market assets 
+
+## As hordes head to Shenzhen, Hong Kong bars, restaurants sign up for more floor space
+Hong Kong’s food and beverage (F&B) operators, both new and existing players, signed leases for 155,000 sq ft of new floor space in the second quarter of this year, a record high for the sector and more than double the amount registered in the first quarter, according to property consultancy CBRE. I
+
+## About 4 in 5 young, affluent investors in mainland China turn to offshore assets: study
+Young Chinese investors are increasingly turning to offshore assets for wealth preservation and diversification, with more than four-fifths of those surveyed reporting some exposure outside mainland China, a recent study by the CFA Institute showed. About 81 per cent of young Chinese investors surve
 
 ## Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry
 US tech titans including Nvidia CEO Jensen Huang and Tesla’s Elon Musk are pressing global powers to curb artificial intelligence regulations, warning that strict guard rails risk suffocating innovation as the US and China compete in an intensifying technological arms race. Speaking at a G20 meeting
@@ -126,17 +141,11 @@ Chinese mainland investors rotated into Hong Kong stocks tied to artificial inte
 ## Hong Kong's Digital Asset Moment: Forthright Securities on What Bitcoin Asia Signals for Licensed Finance
 [The content of this article has been produced by our advertising partner.] When Bitcoin Asia landed at the Hong Kong Convention and Exhibition Centre last week, it was more than another major gathering for the digital asset community. The summit’s presence in the city reflected a wider shift: digit
 
-## Rare large-scale MTR topside tender draws heavyweight Hong Kong developers
-Tender submissions for the MTR Corporation’s Tuen Mun Area 16 Station phase two property development closed on Wednesday, with market sources saying top Hong Kong developers including CK Asset, Sun Hung Kai Properties and Henderson Land Development submitted bids. A consortium comprising Sino Land, 
+## Would Another War Help Netanyahu Win Reelection?
+Some Israelis worry that he might manufacture a security crisis ahead of the vote.
 
-## China’s new home finance rules reduce buyer risks but may not revive the market: analysts
-China’s new housing finance rules reduce the risk of buying a new home but analysts are not convinced they will be enough to tempt hesitant buyers still weighed down by falling prices and weak confidence. The changes are designed to reduce the risk in buying pre-sold homes. Mortgage funds for pre-so
-
-## Walmart’s Sam’s Club accelerates expansion in China as membership passes 10.7 million
-US membership-only retailer Sam’s Club has sped up its expansion in China this year, with the launch of its sixth Beijing location on Monday drawing long queues of eager shoppers. The Walmart-owned warehouse retailer has found a winning formula in China, with its value pricing and exclusive goods at
-
-## BYD, Leapmotor buck EV market slowdown as pressure piles up on small rivals
-Top performers BYD and Leapmotor clawed their way up higher in terms of sales last month, even as China’s electric vehicle (EV) market was shrinking amid weaker consumer demand. However, smaller players were expected to face falling sales and mounting losses for the rest of the year as competition g
+## Ukraine’s Mood Swing
+Public sentiment is turning against Zelensky amid corruption concerns and years of war.
 
 ## Iran Accuses U.S. Military of a War Crime
 Renewed fighting has taken a deadly turn after a month without major military action.
@@ -156,35 +165,29 @@ Security matters have rocked the boat, but here’s how to steady it.
 ## Nepal’s Deadly Floods Put China and India on Edge
 Geopolitical conflict will only get worse with climate change.
 
-## Moscow’s Moment of Global Summitry
-The war in Ukraine may rage on, but Russia remains far from an international pariah.
+## ‘We Are Horrified’: Academic Freedom at Risk With Uzbek Professor’s Arrest in Kazakhstan
+Dr. Ikboljon Qoraboyev's arrest on espionage charges has sent shockwaves through Kazakhstan’s increasingly internationalized academic sector.
 
-## Trump’s Venezuela Oil Deal Is a Farce
-There aren’t 65 billion barrels, they won’t be lowering gas prices, and they won’t refill the SPR.
+## Mohan Malik on Trump, Asia, and the Legacy of the Global War on Terror
+The veteran strategist and security analyst joins Beyond The Mekong to discuss the region's ongoing security challenges.
+
+## UNHCR Says It Is Not Involved in Malaysia’s Planned Repatriation of Refugees to Myanmar
+Rights groups say that the 1,476 Myanmar nationals are at high risk of torture, mistreatment, and forced conscription on their return.
+
+## US Aircraft Carrier Arrives in Thailand After Record 286-day Deployment
+The vessel's arrival has shone a light on Pattaya's sex industry, which established itself as a rest and recreation destination for U.S. personnel during the Vietnam War.
+
+## Job Opportunity: Multilingual Translation Project Coordinator in Tokyo
+Diplomat affiliate MHT Corporation is seeking a Japan-based multilingual professional to coordinate translation projects.
+
+## Japan’s Electricity Shock Is a Contract Problem
+It’s not a matter of counting suppliers.
 
 ## China’s Global Strategy Under Xi Jinping
 Insights from Steve Tsang.
 
 ## The Lasting Economic Damage From the China-Nepal Flood
 Beyond the immediate devastation, the abrupt closure of the China-Nepal trade corridor – again – will reshape the local economy for years to come.
-
-## The US Arms Bottleneck Is Impacting Its East Asian Allies
-Taiwan's Patriot missiles, and Japan's Tomahawks are competing in the same queue as Ukraine and the Iran replenishment. But there are solutions.
-
-## Hans van de Ven on World War II and the Making of Modern Asia
-“The Asian theater was never just about defeating Japan – it was also about dismantling European imperialism and creating new national futures.”
-
-## Latin America’s China Dilemma: Lessons From Peru and Colombia’s Presidential Elections
-Pro-American candidates are winning elections, but deep economic ties with China will continue to constrain any significant strategic realignment.
-
-## US Drugmakers Are Dependent on Chinese Supply Chains
-Analysts warn a disruption in Chinese sources of common antibiotics or blood thinners could leave American patients with no reliable alternative.
-
-## Mongolia’s President at the SCO Summit
-For Mongolia, the highlights were the bilateral meetings held on the sidelines with Kyrgyzstan, China, and Russia.
-
-## From Partnership to Penalty: US Tariffs Shadow India Trade Deal
-The promise of deeper economic cooperation is undermined by punitive measures that could torpedo the India-U.S. pact even before it is signed.
 
 ## Where Does AI Escalation Come From? We Don’t Know. We Should Find Out.
 We played a wargame using AI players. Two nuclear-armed nations — Red and Blue — with a long-standing, fierce border dispute were placed into a militarized crisis. Over the course of several turns, the states managed to avoid escalation to war, though there were non-operational nuclear demonstration
@@ -234,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Egypt’s Sisi welcomes China’s President Xi in Grand Egyptian Museum tour
-President Abdel Fattah el-Sisi has given President Xi Jinping a tour of the Grand Egyptian Museum in Giza.
+## Ukraine takes the war to Russia’s space programme in tactical shift
+From Moscow to Plesetsk, Ukraine appears to be trying to hit infrastructure that powers Russia’s war from space.
 
-## Photos: Symbolic funerals held in Nepal for missing flood victims
-Symbolic funerals held in Nepal for those still missing after deadly floods in the Himalayan nation.
+## Kais Saied’s economic experiment has failed Tunisia
+Saied’s promised path to self-reliance has deepened Tunisia’s economic crisis rather than resolving it.
 
-## Good Good Golf CEO, president quit amid advertisement controversy
-The advertisement faced severe backlash and prompted calls for a boycott of products from Callaway, which co-branded it.
+## Victims sue South African government over 1960 Sharpeville massacre
+Victims sue South African governed over 1960 Sharpeville massacre
 
-## NBA fines Clippers $30m, suspends several executives in Kawhi Leonard probe
-Clippers owner Steve Ballmer suspended for one year; team disputes league's conclusions and validity of investigation.
+## ‘Can I take the door?’ woman pleads at Syrian prison exhibit
+A Syrian woman spotted her missing brother’s name on a prison cell door at an exhibition in Damascus.
 
-## Russia to close Goethe-Institut centres as Germany tensions escalate
-Moscow to shut Goethe-Institut centres after Germany announces the closure of two Russian institutions.
+## Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?
+Ex-Real Madrid and Manchester United stars, Karim Benzema, Paul Pogba and Jadon Sancho among post-deadline free agents.
 
-## OpenAI’s Sam Altman tells G20 AI will be as essential as electricity
-‘A kid growing up today will never be smarter than AI.’
+## UEFA opens disciplinary case against Fenerbahce’s Guendouzi and Greenwood
+Guendouzi and Greenwood made provocative gestures towards the Lyon ‌supporters after their Champions League playoff.
 
-## Alcaraz, Sabalenka ease into US Open third round; American players shine
-Americans Ben Shelton, Jessica Pegula, Emma Navarro and Frances Tiafoe progress to the third round.
+## Why has the Netherlands moved $10bn of its gold from the US?
+The Netherlands has $83.7bn worth of gold in domestic and foreign reserves.
 
-## Iran Red Crescent urges ICC probe into deadly US strike on wedding party
-Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.
+## Feminist icon Gloria Steinem dies aged 92
+Cofounder of Ms Magazine was a strong advocate for women's rights throughout her life.
 
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
@@ -282,6 +285,15 @@ Seasoned finance professional Dr. (CA) Ashok Haldia examines how the Hong Kong H
 ## India Inc pays record dividends in FY26, but payout ratio slides
 In FY26, Indian firms made history by distributing a staggering ₹4.5 lakh crore in dividends, marking a remarkable 15% annual growth rate over five years. A significant portion of these dividends, two-thirds, came from the banking, finance, and IT sectors. Notably, the dividend payout ratio has tape
 
+## RBI's swap facility fuels India's forex reserves to defend rupee
+The Reserve Bank of India's special swap windows raised a cumulative $136.3 billion by end‑August exceeding market estimates by a wide margin, likely pushing foreign reserves past $750 billion and giving the central bank firepower to defend the rupee, a report said on Thursday.
+
+## RBI DG Murmu says NBFCs should use securitisation to transfer risk, free up capital
+RBI Deputy Governor S C Murmu has called for securitisation to evolve beyond a liquidity management tool into a mechanism for genuine risk transfer and capital release, while urging NBFCs and HFCs to diversify funding sources amid vulnerabilities exposed by past liquidity shocks.
+
+## Supreme Court dismisses Sebi’s plea against NSE: Report
+In a pivotal ruling, India's supreme court has dismissed the regulatory challenges raised by market authorities against the National Stock Exchange. This verdict eliminates a major hurdle for the exchange's initial public offering, addressing previous controversies over co-location and dark fibre al
+
 ## Govt mulls BIS exemption for high-tech companies setting up plants in India
 The government has announced new exemptions for high-tech companies, allowing them to bypass BIS certification to streamline the setup of manufacturing units in India. Concerns were raised by Japanese semiconductor companies over certification hurdles for components. This strategy is designed to ens
 
@@ -296,13 +308,4 @@ India's central bank supported the rupee on Monday after oil prices surged. Risi
 
 ## RBI back to rupee's rescue to counter oil, Fed headwinds; steps into swaps too
 India's central bank supported the rupee on Monday after oil prices surged. Rising expectations of a US interest-rate hike also pressured the local currency. The Reserve Bank of India's intervention helped the rupee recover from its lows. This sustained presence insulated the rupee from external dev
-
-## Commerce ministry meeting industry, exporters on India-US trade on September 1
-India's Commerce Ministry will meet industry leaders on September 1 regarding trade performance. This meeting precedes Minister Piyush Goyal's US visit for G-20 talks. Discussions will focus on recent trade trends and sector-wise performance. Negotiations for a bilateral trade agreement are ongoing 
-
-## Sitharaman meets US business leaders, pitches India as investment hub
-Finance Minister Nirmala Sitharaman met several US business leaders in Chicago. She invited them to explore opportunities within India as a global operations hub. Discussions covered AI-enabled autonomy and defense technologies with Shield AI. Opportunities in agriculture and food value chains were 
-
-## India to pitch central bank digital currencies to BRICS partners at meet
-The global grouping celebrates 20 years at the New Delhi summit on September 12-13. A high-level meeting would be held next week to thrash out mechanisms for use of digital currencies, and explore ways to increase intra-BRICS trade using national currencies, said the people mentioned above.
 
