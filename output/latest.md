@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Microsoft challenges data centre costs after pledging to protect ratepayers
+Tech giant appealed to Virginia Supreme Court over new rules requiring builders to fund transmission infrastructure upfront
+
+## OpenAI says it has overtaken Anthropic with its latest AI model
+ChatGPT maker claims its ‘Astra’ could be considered ‘artificial general intelligence’
+
+## US oil deal sparks ‘anger’ in Venezuela, says opposition leader
+María Corina Machado’s comments reflect widespread unease over agreement but stop short of criticising US President Donald Trump
+
+## Reform UK woos bond investors as markets shake UK political debate
+Treasury spokesman Robert Jenrick tells annual conference that party will ‘index towards reassurance’
+
+## Nvidia’s $13bn deal cements its $5.5tn advantage
+It’s an investor, backer, supplier and guarantor for companies its Hugging Face acquisition potentially disrupts
+
 ## UAE billionaire’s son revealed as buyer of £190mn London mansion
 Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s most expensive purchases
 
@@ -9,32 +24,20 @@ Agents involved in hack exhibited some alarming behaviours including suppressing
 ## Tory plan to fund defence risks rise in homelessness, say charities
 Conservative leader Kemi Badenoch has promised billions in welfare cuts to pay for extra military spending if party wins general election
 
-## Giorgia Meloni’s enviable stability — and missed opportunity
-Prime minister marks Italy’s longest continuous government since the war
+## EU enters winter with lowest gas stocks on record
+Situation could become ‘problematic’, warns gas storage group head
 
-## Burnham raises concerns with Macron over ‘Made in Europe’ scheme
-UK prime minister warns French president new EU procurement policy could ‘pose significant challenges for UK industry’
+## Star Citadel energy trader to step down amid tumult in energy markets
+Chris Foster to leave role at Ken Griffin’s hedge fund after making billions of dollars trading natural gas in Europe
 
 ## Revolut wins provisional US banking licence
 Office of the Comptroller of the Currency approval is a milestone for UK-based fintech seeking American expansion
 
-## Leon Black sues US Congress over Epstein probe
-Private-equity titan is among Wall Street figures targeted by House committee for their ties to late sex offender
-
-## Milei dials up Argentina’s claim to Falklands
-Domestic politics, oil drilling and UK-US tensions drive libertarian leader to amp up sovereignty dispute
-
 ## VW risks downgrade to ‘junk’ without sweeping cuts, warns top investor
 Union Investment urges supervisory board to vote through restructure that would axe 100,000 jobs in Germany
 
-## Watch fairs mushroom in face of industry gloom
-Collectors are as enthusiastic as ever but the proliferation of events is stretching brands’ budgets
-
-## Blackstone stands firm with cap on private credit outflows
-Flagship $43bn fund said it was hit with notices from investors to pull 10% of the vehicle’s value in the third quarter
-
-## Harvey Nichols sale set to cost luxury brands millions
-Brands including Chloé and Victoria Beckham to recover less than 15p in the pound after Frasers Group buys department store chain
+## OGA 2026 OPENS WITH STRONGER FOCUS ON MARKET ACCESS, REGIONAL PROJECTS AND ENERGY OPPORTUNITIES
+OGA 2026 OPENS WITH STRONGER FOCUS ON MARKET ACCESS, REGIONAL PROJECTS AND ENERGY OPPORTUNITIES
 
 ## Civil Aviation Minister asks aircraft makers to speed up deliveries
 Minister says India has a large airport network and needs more aircraft to meet growing regional connectivity demand
@@ -56,9 +59,6 @@ The research project will combine satellite and UAV data with weather and field 
 
 ## US trade deal finalisation hinges on tariff edge over competitors: Piyush Goyal
 Negotiations over the first phase of the proposed bilateral trade agreement — initially outlined earlier this year — have slowed
-
-## SEBI to review CAS-based settlement price mechanism for derivatives
-Consultation paper on revised methodology will be issued in a week
 
 ## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
 What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
@@ -84,6 +84,15 @@ The point is not that America has become less relevant. It's about the rest of t
 ## 7.8% growth, but a Rs 6 lakh crore question: Why GDP data has sparked a debate
 One of the biggest points of discussion and questioning is the revision to Q1 FY26 GDP at current prices, that is the figures for last year's same quarter numbers. Under the old 2011-12 series, GDP was estimated at Rs 86.05 lakh crore. However, under the new series, it has subsequently been revised 
 
+## India ready to support peace efforts, Jaishankar tells Zelenskyy in Kyiv
+Jaishankar’s visit came against the backdrop of an increase in Russian attacks on merchant shipping in the Black Sea, which have led to death of five Indians
+
+## India sends more relief supplies to Nepal days after devastating flash floods
+New Delhi had also sent a team of doctors and paramedics as well as a technical contingent along with equipment for search and rescue operations.
+
+## TMC MP Mahua Moitra summoned by Diamond Harbour police in West Bengal over alleged communal remarks
+Moitra had posted on X alleging that Muslim officers in the state administration were deliberately kept out of a programme attended by Amit Shah in Bengal.
+
 ## ‘We’re students' A team, decide amongst yourself': CJP's Abhijeet Dipke reacts to ‘B team’ allegations
 Abhijeet Dipke claimed that different political parties were working on the issue of government schools and students and questioned by the BJP objected to it.
 
@@ -98,15 +107,6 @@ S Jaishankar said India also needs to address the energy needs of its 1.4 billio
 
 ## India, Belgium to step up cooperation in defence, law enforcement, semiconductors
 PM Narendra Modi and Belgian PM Bart De Wever agreed to deepen defence, law enforcement and semiconductor cooperation and double bilateral trade in five years.
-
-## Odisha passenger train detained after engine fire report near Khurda Road
-Palasa-Cuttack MEMU was detained near Khurda Road station after a technical snag in its OHE, with preliminary reports suggesting an engine fire.
-
-## 21 higher education teachers to receive National Teachers Awards for research, innovation
-National Teachers Awards 2026 will honour 21 higher education teachers whose work spans AI, drones, climate technology, forensic science and sustainable design.
-
-## Revenue officer found dead days after he goes missing in Maharashtra
-The deceased had gone missing since the morning of August 28, when he left home around 8.45 am, stating he was attending a post-funeral ritual.
 
 ## China prepares next phase of national SME fund to boost tech start-ups and IPOs
 China will soon launch the second phase of a National SME Development Fund with a focus on IPO incubation and channelling private capital into backing innovative, early-stage entities and projects with long-term prospects in hard tech. The fund’s second phase was confirmed as the Ministry of Industr
@@ -132,6 +132,9 @@ Chinese mainland investors rotated into Hong Kong stocks tied to artificial inte
 ## Hong Kong's Digital Asset Moment: Forthright Securities on What Bitcoin Asia Signals for Licensed Finance
 [The content of this article has been produced by our advertising partner.] When Bitcoin Asia landed at the Hong Kong Convention and Exhibition Centre last week, it was more than another major gathering for the digital asset community. The summit’s presence in the city reflected a wider shift: digit
 
+## The Fallout of Russia’s Failed Drone Attack on Germany
+European nations join Berlin in punishing Moscow for an alleged unsuccessful attack on Leipzig airport.
+
 ## China Isn’t Scared of Trump’s Squeeze on Iran
 Beijing has plenty of leverage to deter Washington.
 
@@ -153,32 +156,29 @@ The glacier collapse and floods that followed show why neighboring states must c
 ## How U.S. Allies Can Resist Washington’s Bullying
 The attack on the ICC offers a chance for solidarity on shared values.
 
-## Rivals Circle an Out-of-Touch Prabowo
-The emergence of pro-presidential thugs on the streets of Jakarta is a sign of the times.
+## Australia’s Broken Hill: Where Children Are Sacrificed to Mining Interests
+A historical mining town in Australia’s outback is confronting severe lead-contamination health threats, disproportionately affecting Aboriginal children.
+
+## Ezra Jin Is Free, But There Are More Pastors in China Behind Bars
+“I respectfully ask the international community to stand with me – to fight for the freedom of Pastor Gao Quanfu, Pang Yu, and all peaceful Christians imprisoned in China. ”
+
+## The Meaning Behind Pakistan’s First Lunar Rover
+The Jinnah 1 mission signals increased cooperation with China and takes Pakistan’s rivalry with India to new heights – literally.
+
+## US Allies in Asia Are Paying for the Iran Stalemate
+The U.S. administration lacks the willingness to confront China and Russia over their assistance to Iran, and Asian allies are paying the price.
+
+## Central Asia’s Energy Transition Depends on Water Security
+A more integrated and flexible power system could give Central Asian states greater room to manage drought, hydropower volatility, and competing demands for water.
+
+## Security Is the Key to Resolving the Thai-Cambodia Border Conflict
+“The first step is security: uphold the ceasefire, reduce military risks, clear mines, strengthen law enforcement, and cooperate against criminal networks.”
+
+## K-Beauty’s Brazil Push Signals a New Type of Korean Diplomacy
+As strange as it sounds, the Korean beauty industry is playing an increasingly important role in Seoul’s foreign policy calculus.
 
 ## ‘We Are Horrified’: Academic Freedom at Risk With Uzbek Professor’s Arrest in Kazakhstan
 Dr. Ikboljon Qoraboyev's arrest on espionage charges has sent shockwaves through Kazakhstan’s increasingly internationalized academic sector.
-
-## Mohan Malik on Trump, Asia, and the Legacy of the Global War on Terror
-The veteran strategist and security analyst joins Beyond The Mekong to discuss the region's ongoing security challenges.
-
-## UNHCR Says It Is Not Involved in Malaysia’s Planned Repatriation of Refugees to Myanmar
-Rights groups say that the 1,476 Myanmar nationals are at high risk of torture, mistreatment, and forced conscription on their return.
-
-## US Aircraft Carrier Arrives in Thailand After Record 286-day Deployment
-The vessel's arrival has shone a light on Pattaya's sex industry, which established itself as a rest and recreation destination for U.S. personnel during the Vietnam War.
-
-## Job Opportunity: Multilingual Translation Project Coordinator in Tokyo
-Diplomat affiliate MHT Corporation is seeking a Japan-based multilingual professional to coordinate translation projects.
-
-## Japan’s Electricity Shock Is a Contract Problem
-It’s not a matter of counting suppliers.
-
-## China’s Global Strategy Under Xi Jinping
-Insights from Steve Tsang.
-
-## The Lasting Economic Damage From the China-Nepal Flood
-Beyond the immediate devastation, the abrupt closure of the China-Nepal trade corridor – again – will reshape the local economy for years to come.
 
 ## The Future of Combat Medicine
 War has always been a brutal engine of medical innovation, running on a feedback loop: Civilian breakthroughs are adapted for the battlefield, while battlefield necessity pushes advances back into civilian care. We asked three experts to identify the innovations from the last five years most likely 
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli bombing seen behind journalist reporting from Lebanese village
-Israeli bombing seen behind journalist reporting from Lebanese village
+## Train crashes into truck at railway crossing in Gdansk, Poland
+CCTV footage shows the moment a train collided with a truck at a railway crossing in northern Poland.
 
-## Israel’s siege on Gaza is forcing dentists to operate in the streets
-Scarce resources and office space mean that dental work is a luxury for most people in Gaza.
+## Funeral held for child killed in US strike on Iranian wedding
+Mourners carried the coffin of a child killed in a US strike on a wedding in Kuhestak, along the Strait of Hormuz.
 
-## Real Madrid’s Raul Asencio acquitted in sex-tape sharing case
-In an unrelated incident, Madrid have opened disciplinary proceedings against Asencio over a drink driving conviction.
+## Leaders of Thailand and Singapore perform Beatles song, “Let It Be”
+Thai Prime Minister Anutin Charnvirakul and Singapore’s Prime Minister Lawrence Wong performed the Beatles song.
 
-## Houthi fighters clash with Yemeni government forces in country’s southwest
-Houthis attempt to cut road linking Taiz to al-Makha in apparent bid to sever government's strategic supply route.
+## FIFA blasts UEFA ‘smear campaign,’ fights World Cup plan disclosures
+UEFA seeks US testimony, documents for possible lawsuit; FIFA asks US court to defer or let it oppose UEFA's request.
 
-## Deadpool-Wolverine derby in the offing as Hugh Jackman targets Norwich City
-After Deadpool actor Ryan Reynolds's purchase of Wrexham, his Wolverine costar could land Championship rivals Norwich.
+## Serbia welcomes return of war criminal Mladic’s body with military honours
+Ratko Mladic received a life sentence from a UN court for committing atrocities during the 1992-1995 Bosnian War.
 
-## 20 million children a year face online sexual abuse, UNICEF says
-More than one in five children aged 12 to 17 were targeted on digital platforms, the UN children’s agency reports.
+## Advocates decry US House vote to defund universities that boycott Israel
+Rights groups say the measure infringes on the freedom of speech of Americans for the benefit of a foreign nation.
 
-## Billionaire Leon Black sues US congressional panel over Epstein subpoena
-Lawyer accuses House panel investigating sex offender of 'fishing expedition' as lawmaker calls for contempt charges.
+## Is Nepal leading the battle for climate justice?
+Foreign minister demands top three polluting nations compensate Nepal for recent disaster.
 
-## How much oil is going through Hormuz? Why data doesn’t match US claims
-Trump says the US is helping around 30 ships cross the waterway daily, but ship-tracking data suggests it's fewer.
+## Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences
+Palestine Action activists convicted of criminal damage “with a terrorist connection” are appealing their convictions.
 
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
