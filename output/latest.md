@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Trump vows to open Maga Inc’s $400mn war chest after Republican pressure
+Members of US president’s party urged him to open the purse strings ahead of crucial November midterm election
+
+## ‘There’s a desire to see steadiness’: Healey sounds pro-business note as he talks up growth
+UK chancellor refuses to rule out higher taxes on banks in his first Budget, but tells FT he will press ahead with City deregulation drive
+
+## Maga’s favourite combat sport takes off in China
+The Las Vegas-headquartered UFC now has 20 Chinese fighters on its roster
+
+## Healey puts Britain on notice for tough Budget in ‘more dangerous world’
+New chancellor tells the FT that he and Prime Minister Andy Burnham are determined ‘to meet the fiscal rules’
+
+## Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO
+AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week
+
 ## US economy smashes forecast with 162,000 jobs added in August
 Expectations for Federal Reserve rate rise in September tick up after strong report
 
@@ -9,11 +24,14 @@ Party’s conference in Birmingham overshadowed by alleged attempts to seek ille
 ## Farage’s merry band used to enjoy conference. Not this year
 After Reform UK was hit by an undercover sting, the old jokes did not land as they used to
 
-## Nigel Farage’s pile of financing scandals
-Undercover report raises new questions over funding of Reform UK
+## Prosecutors seize €65mn from McKinsey in French tax fraud probe
+Fine remains provisional as investigation continues into the consultancy’s tax practices
 
 ## ‘Clear’ breaches of rules by Reform UK pollster, says industry body
 British Polling Council seeking further information from JL Partners following Channel Four News investigation
+
+## Maybe Northampton *is* an emerging market
+NuCobblers — now with added Gemcorp
 
 ## John Ternus, Apple’s new ‘wicked calm’ CEO
 Tim Cook’s successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs
@@ -21,23 +39,11 @@ Tim Cook’s successor is a product engineer who has spent 25 years at the compa
 ## Why Berkshire Hathaway might be an active hedge
 The financial citadel is well positioned if there are market dislocations
 
-## Russian drone strikes Ukraine’s security service headquarters
-SBU building in central Kyiv suffers direct hit as Moscow launches near-constant raids by small numbers of fast drones
-
-## Prosecutors seize €65mn from McKinsey in French tax fraud probe
-Fine remains provisional as investigation continues into the consultancy’s tax practices
-
-## Maybe Northampton *is* an emerging market
-NuCobblers — now with added Gemcorp
-
 ## Directors’ Deals: Lloyds’ CFO banks £10mn through share sales
 Group’s share price has climbed by 40 per cent in the past year
 
 ## How VW’s boss secured a shock victory in battle to reshape carmaker
 Carmaker’s slimdown deal is a coup for its boss but governance issues have been kicked down the road
-
-## Are credit rating agencies getting fed up with hyperscalers?
-A change in tone
 
 ## Arcil eyes collection services, MFI as new growth avenues ahead of ₹733-crore IPO
 Preparing to launch its ₹733-crore IPO next week, with the price band fixed at ₹132-139 a share
@@ -135,6 +141,9 @@ The artificial intelligence boom has signalled growing risks in the US economy a
 ## Boost for EVs: Chinese carmaker Chery to begin testing solid-state batteries next year
 Chery Automobile, China’s largest car exporter by deliveries, will begin testing its solid-state batteries next year, aiming to spearhead commercialisation of a technology likely to further spur the electrification of the global automotive industry. Yin Tongyue, the chairman of the state-owned carma
 
+## Milei Renews Argentina’s Falklands Push
+Buenos Aires is taking advantage of fraying ties between the United States and Britain.
+
 ## What Was the War on Terror?
 A defining period in U.S. foreign policy has ended, but it remains misunderstood.
 
@@ -155,9 +164,6 @@ U.S. allies won’t love it, but American interests come first.
 
 ## Soccer’s Favorite Strongman
 José Mourinho’s lessons on how to influence people (and not win friends).
-
-## Venezuelans Aren’t Happy With the U.S. Oil Deal
-Critics have decried the opaque agreement as oligarchic and colonialist.
 
 ## Humanoid Robots and China’s Vision of the Future
 China’s humanoid robots are more than a showcase of state ambition. They reveal how differently we interpret visions of the technological future depending on who builds them.
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UN votes to adopt new world map that reflects Africa’s true size
-The widely-used Mercator map is often criticised for visually exaggerating and centralising Western nations.
+## Costa Rican president signals openness to domestic US military operations
+President Laura Fernandez notes that Congress would need to approve any US military operations within the country.
 
-## Five EU nations inch towards deal on migrant ‘return hubs’ by 2027
-Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.
+## Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat
+Jose Mourinho's winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.
 
-## Brazilian Supreme Court roiled by dispute between justices
-The country's highest court is considering investigations into two judges who have accused each other of wrongdoing.
+## US regulator opens safety investigation as Tesla launches driverless taxis
+The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.
 
-## Villagers vow to rebuild despite devastating mass demolition in West Bank
-Israeli forces' demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.
+## Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump
+Steve Witkoff and Jared Kushner will travel to Ukraine and Russia this weekend to help restart peace negotiations.
 
-## Moment two workers are pulled alive from Nepal tunnel
-Rescuers pulled two workers alive from a hydropower tunnel in Nepal
+## Sabalenka interrupts US Open match against Rakhimova over cannabis smell
+World number one Aryna Sabalenka's straight-sets US Open win against Kamilla Rakhimova stopped by smell of cannabis.
 
-## Indonesia wildfires send toxic haze across Southeast Asia
-Indonesia’s Kalimantan province, sending smoke and toxic haze across Southeast Asia.
+## Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win
+Bradley Barcola makes his debut as Alexander Isak scores both Liverpool goals in 2-0 win at Ipswich Town.
 
-## Yemen’s army says recaptured key territory as clashes with Houthis continue
-Two days of fighting between government forces and Houthi fighters has left dozens dead on both sides, sources say.
+## Nigel Farage heckled as he denies Reform UK took illegal funding
+Reform UK leader Nigel Farage was heckled by protesters on Friday, as he addressed the party’s conference in Birmingham.
 
-## Rescuers race to save 10-year-old Algerian boy trapped in deep well
-Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub, after he fell into an deep well.
+## Will Europe pay the US to provide military aid to Ukraine?
+US President Donald Trump laments past financial support for Ukraine's war effort and has vowed to claw the money back.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
