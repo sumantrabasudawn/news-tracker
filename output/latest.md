@@ -1,70 +1,91 @@
 # AION Intelligence
 
-## Top Reform UK advisers step down after donor sting
-James Orr and Dan Jukes leave roles pending outcome of party’s investigation
+## Farage insists Reform has ‘broken no law’
+Party leader dismisses comments from top advisers caught in TV donor sting as ‘loose pub talk’
 
-## Latest allegations make Reform look ridiculous
-Accusations of racism and corruption threaten party’s image as a serious prospect for power
+## US economy smashes forecast with 162,000 jobs added in August
+Figure comes ahead of crucial interest rate decision by Federal Reserve later this month
 
-## Air India set for $1bn cash boost amid Singapore opposition over capital calls
-Singaporean MP criticises further support for lossmaking carrier via Temasek’s Singapore Airlines
+## Strong August US payrolls report bolsters odds of September rate rise
+Job numbers well above consensus, adding to hawks’ argument that inflation is a bigger problem than the labour market
 
-## What are the new allegations against Farage’s Reform?
-A sting operation has abruptly overturned the leader’s attempt to put financing scandals behind him
+## The five financing scandals facing Reform
+Nigel Farage and his party are facing growing scrutiny over transparency and the source of donations
 
-## Giorgia Meloni celebrates Italy’s longest-serving government since 1945
-Rightwing prime minister has so far defied critics with pragmatic policies and stable coalition
+## Andrew Bailey warns of populist threat to central bank independence
+Bank of England governor says claims by some political leaders that rate-setters are ‘an unrepresentative elite’ pose ‘serious challenge’
 
-## More stock ownership, weaker monetary policy?
-A counterintuitive quirk
+## Markey, Massachusetts and the limits of generational politics
+Might age and incumbency matter less than a candidate’s policy platform?
 
-## Europe struggling to re-arm by 2030 as capitals squander arms spending surge
-Also in this newsletter: The beef between Brazil and Brussels
+## Burnham vs Badenoch: Commons showdown
+Starmer quits parliament, prompting by-election problem for PM
 
-## FirstFT: UK-EU alignment a ‘problem’ for US
-Also in today’s newsletter: Farage sting and latest OpenAI model
+## Japan’s vital link between Bessent, Takaichi and markets
+Country’s first female finance minister is a pivotal figure for relations with Washington and global investors
+
+## US diesel prices soar to record high
+Iran war pushes fuel costs above previous 2022 peak, adding to inflationary pressures ahead of November’s midterm elections
+
+## EQT strikes $2bn deal for insurance broker McGill
+Acquisition is latest example of private equity investing in insurance sector
+
+## UK set to approve Jackdaw gasfield within weeks
+Green light for North Sea facility likely to be fiercely opposed by climate scientists and environmental campaigners
+
+## Lord Somerleyton: ‘I’m offering a £10mn stake in my family’s historic estate’
+A part-timeshare, part-investment proposal promises a slice of the ‘Downton Abbey’ life to would-be investors — and a lifeline for a stately home. Reckless risk or inspiring innovation?
+
+## FirstFT: Markets await US jobs update
+Also in today’s newsletter: Maria Bartiromo leaves Fox News and OpenAI releases new model
+
+## Will the ‘glassholes’ finally win?
+A revolt against smart glasses may not succeed — but that doesn’t mean we shouldn’t try
+
+## Fox News presenter and Trump ally Maria Bartiromo departs after 12 years
+President calls news anchor a ‘true warrior’ and says her fans ‘will not be happy’
 
 ## Volkswagen to slash up to 50,000 jobs in historic restructuring
 German carmaker’s shares rise 6 per cent on overhaul that could also lead to plant closures
 
-## Luckin Coffee killed our lunch spot. Here’s what that says about geopolitics
-Half a decade on from a fraud scandal, the Chinese chain is thriving in New York City — and pushing out the locals
+## Kia India to follow multi-tech pathway for sustainable mobility: MD & CEO
+The company launched its premium seven-seater SUV Sorento in hybrid and diesel variants priced from ₹27.99 lakh to ₹40.39 lakh, and Lee stated that hybrids will be key to its future portfolio
 
-## The $275mn question from Guggenheim’s auditor
-KPMG warned the asset manager about weak controls within its business last year
+## Sneaker brand Comet raises ₹100 crore in Series B round led by Verlinvest
+The company will use the new capital to accelerate retail expansion, enhance technology and product development, and invest in R&D
 
-## Deutsche Bank led $1bn of troubled lending to Hollywood studio landlord
-German lender enabled debt-fuelled expansion of Hackman Capital Partners’ property empire
+## Moopen family raises stake in Aster DM Quality Care to 24.58% as TPG pares holding
 
-## Spain pushes for EU oil and gas tax to pay for climate change response
-Rising extreme weather costs fuel campaign ahead of new resilience strategy
 
-## Balaji Telefilms, YouTube ink deal for 5 original shows on digital platform
-Shows to be distributed globally on YouTube, with Balaji retaining intellectual property rights while YouTube provides distribution and monetisation through advertising and brand deals
+## Kochi-based Cyrix Healthcare acquires Blue Star E&E’s MedTech Solutions Business
+The acquisition strengthens Cyrix’s capabilities in medical imaging, equipment sales, installation, maintenance, repairs, refurbishment and lifecycle management
 
-## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty near 23,930 on easing US Treasury yields; Tata Steel leads gainers
-Sensex, Nifty, Share Prices LIVE: Benchmark indices Sensex and Nifty were trading with modest gains at midday on Friday, September 4, supported by positive global cues and selective buying in financial and energy stocks
+## The energy symphony: How Shell India is balancing security, LNG, and renewables | Energonomics EP 23
+What’s next for India’s energy sector? Insights from Shell India’s Chair, Mansi Madan Tripathy.
 
-## Tata Realty appoints Gaurav Jain as MD & CEO
-Jain, who has more than 23 years of experience in the real estate sector, has worked at Birla Estates, Godrej Properties, Mahindra Lifespace Developers Ltd, and Unitech Group
+## KFC’s Moksh Chopra to transition to new role at Taco Bell
+Yum! Bands Inc owns brands including KFC, Pizza Hut and Taco Bell
 
-## Gold price falls ₹431 to ₹1.55 lakh/10g in futures trade; snaps two-day rise
-On MCX, the yellow metal futures for October delivery declined ₹431, or 0.28% to ₹1,55,344 per 10 grams.
+## Air India Phuket flight incident: AAIB issues preliminary report; pilot drug use confirmation serious concern
+"The confirmation of use of psychoactive substance is a serious concern, and AAIB recommends appropriate actions by DGCA on priority," the DGCA said in its preliminary report
 
-## SEBI goes after Hindenburg, others in Adani case
-All parties are based overseas but SEBI ‌believes it has jurisdiction since the trades were in India, say sources
+## The energy symphony: How Shell India is balancing security, LNG, and renewables | Energonomics EP 36
+What’s next for India’s energy sector? Insights from Shell India’s Chair, Mansi Madan Tripathy.
 
-## Nepal announces relief package for flood-hit businesses, plans settlement relocation
-Businesses whose commercial vehicles, transport equipment, plants, machinery, tools or other equipment were destroyed beyond repair or swept away will be allowed to import replacements without paying customs duties: Report
-
-## Nepal floods could cost insurers over $130 mln even before death, injury claims
-Hydropower projects expected to account for most claims
-
-## Tata Chemicals says fully compliant after Kenya orders it to exit century-old Magadi mine
-TCML said it submitted the required reports and documents on August 11, days after Kenya’s mining ministry suspended its operations over alleged regulatory shortfalls.
+## Phuket-Delhi flight incident: Air India terminates pilot who tested positive for drugs
+Air India terminated a pilot's employment after he tested positive for a psychoactive substance. This action followed an incident where the aircraft experienced multiple hydraulic failures. The flight encountered an altitude upset, causing injuries to passengers and crew. The Aircraft Accident Inves
 
 ## Gadkari clears Rs 5,000 IIT-Delhi fix for old diesel vehicles; can cut pollution by 90%
 Speaking at an event organised by the Society of Indian Automobile Manufacturers (Siam), Gadkari said the technology, developed from an innovation at IIT-Delhi, had successfully completed testing. The devices can be fitted on BS-IV, BS-III and older diesel vehicles, bringing their emissions to level
+
+## Nearly $750 billion shield: How India built record forex reserves amid the US-Iran war
+How has the RBI managed to secure high forex reserves in times of global economic uncertainty? What’s worked for India and why does the rise in forex cover matter? And, importantly, is it sustainable?
+
+## NSE IPO could be worth Rs 30,000 crore after Sebi gives green signal
+India's market regulator Sebi has approved the National Stock Exchange's initial public offering. This approval allows the country's largest bourse to list after nearly a decade of delays. The proposed IPO could be worth around Rs 30,000 crore, making it one of India's largest. Existing shareholders
+
+## 'PM Modi warned us': Belgium PM on trade threat to Europe, takes veiled dig at China
+
 
 ## Silver crashes 40%, but buyers vanish; 2,000 tonnes could now pile up in India
 Silver prices have fallen steadily over the past seven months, following an extraordinary rally that pushed the metal more than 300% higher year-on-year. In January, silver crossed Rs 4 lakh per kg on the Multi Commodity Exchange for the first time.
@@ -75,41 +96,35 @@ Indian Railways has been asked to compensate her. The order followed an incident
 ## Gold price prediction: Should you buy gold on dips? Check September 4, 2026 outlook
 MCX Gold October futures are trading around Rs 1,55,250 and continue to maintain a constructive short-term structure after a sharp recovery from the recent lows. The chart shows a sequence of higher highs and higher lows, while prices are holding above the key short-term moving averages.
 
-## Markets turn green; Sensex jumps 580 points, Nifty tops 23,950 in early trade
+## School bus driver sexually abuses 3-year-old in Navi Mumbai, arrested
+The incident came to light when the child reached home and complained of abdominal pain. She then told her grandmother about the abuse.
 
+## Explained: The unused constitutional clause on Supreme Court appointments
+Article 124(3)(c) allows any citizen who, "in the opinion of the President, a distinguished jurist", to be appointed as a judge of the Supreme Court
 
-## Top stocks to buy today: Stock market recommendations for September 4, 2026 - check list
-Stock market recommendations: Capri Global Capital Ltd, Engineers India Ltd, and Acme Solar Holdings - these are the top stocks to buy today on September 4, 2026 recommended by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One.
+## Air India terminates Phuket-Delhi pilot after AAIB confirms ‘non-negative’ psychoactive substance test
+The pilot tested “non-negative” for a psychoactive substance in a confirmatory test, a preliminary Aircraft Accident Investigation Bureau (AAIB) report said.
 
-## Indian Railways set to get indigenous 280 kmph bullet trains by early 2027
-India could see the launch of its first bullet train service in 2027, with the Surat–Bilimora section of the Mumbai-Ahmedabad bullet train project expected to become operational by August that year.
+## Heavy rain causes flooding in south Bengal; CM Adhikari calls meeting
+Heavy rain and water releases from DVC barrages have flooded parts of south Bengal, prompting CM Suvendu Adhikari to call an emergency meeting.
 
-## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
-What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
+## Dehradun woman, 72, murdered over unpaid wages; man held, gold bangle recovered
+A 33-year-old man was arrested within 12 hours for allegedly killing a 72-year-old woman in Dehradun over a dispute over unpaid wages.
 
-## Bengal collects blood samples from relatives of people missing in Nepal flood
-West Bengal is collecting blood samples from relatives of 37 people missing after the August 26 Nepal flash flood for DNA matching.
+## Self-styled influencer Swatantra Bhardwaj, accused of assault at CJP protest, detained after escape bid in UP: Cops
+The Cockroach Janta Party (CJP) had staged a protest outside the Parliament Street police station on Friday, demanding Bhardwaj’s arrest.
 
-## ‘Not abrupt’: FSSAI says 5 notices sent to Dabur before order on ‘100%’ claim
-The high court has stayed FSSAI August 3 order that prohibited the sale of range of food products over its ‘100%’ labels
+## Fire dept wants TMC youth wing to vacate Kolkata office over fire safety
+The West Bengal fire services department asked occupants to vacate the two floors, citing inadequate fire safety measures and an expired certificate.
 
-## ‘Will strike again if…’: Hindutva influencer says acted in ‘self-defence’ amid row over assault on CJP activist's father
-Speaking in an interview, Swatantra Bhardwaj claimed that he hit the protester's father with his kada (iron bracelet) while defending himself.
+## Delhi air quality improves to 71 but the clean air may not last with changing rain activity
+Data from CPCB shows the capital’s daily average AQI has improved to 71 on Friday from 85 on September 2 and 113 on Sept 1
 
-## 2 Indians killed in Nepal as car plunges into Pokhara's Phewa Lake
-The car was pulled out of the lake with the help of a crane and taken to the Baidam Ward Police Office.
+## Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate
+The latest round of the Hong Kong government’s Silver Bonds programme has attracted a record number of subscriptions in terms of both quantity and value, as the city’s elderly investors seize the opportunity to secure better returns than those offered by bank deposits. Investors submitted 478,000 bi
 
-## Himachal government strengthens road protection, maintenance through key amendments: PWD minister
-Himachal government strengthens road protection, maintenance through key amendments: PWD minister
-
-## Kaushambi cracker factory blast case: Reward for fugitive raised to ₹50,000
-Kaushambi cracker factory blast case: Reward for fugitive raised to ₹50,000
-
-## 40 high-hazard glacial lakes identified in Sikkim, 16 at highest risk of outburst
-The data is significant as it comes against the backdrop of the recent flash flood in Nepal, triggered by a glacial collapse near the Nepal-Tibet border.
-
-## Train movement to Mizoram affected due to soil erosion near tracks after heavy rain
-The restoration work in the affected area between Jamira in Assam and Bairabi in Mizoram has begun.
+## Bargain sale, collapsed deal reflect Hong Kong’s struggling retail property market
+A foreclosure sale in Hong Kong’s Lan Kwai Fong area and a cancelled shop transaction in North Point reflect the impact of weak consumer spending on Hong Kong’s retail property market, which will remain under pressure through the end of the year, according to analysts. The Lan Kwai Fong property, ho
 
 ## Can Hong Kong outshine Singapore as central banks rethink gold custody amid global risks?
 As the Netherlands moved gold out of the US and Canada over geopolitical concerns, attention is turning to whether Hong Kong can capitalise on central banks rethinking where they keep their bullion. The city faces competition from Singapore, which is expected to launch central bank gold-vaulting ser
@@ -129,11 +144,8 @@ The artificial intelligence boom has signalled growing risks in the US economy a
 ## Boost for EVs: Chinese carmaker Chery to begin testing solid-state batteries next year
 Chery Automobile, China’s largest car exporter by deliveries, will begin testing its solid-state batteries next year, aiming to spearhead commercialisation of a technology likely to further spur the electrification of the global automotive industry. Yin Tongyue, the chairman of the state-owned carma
 
-## Hong Kong poised to top New York, London in finance-hub ranking: GFCI creator
-An Asian city will eventually overtake London and New York as the world’s leading financial centre, with Hong Kong well placed to compete for the top spot given its legal predictability and low tax burden, according to the creator of a closely watched ranking of financial hubs. “It’s going to happen
-
-## China prepares next phase of national SME fund to boost tech start-ups and IPOs
-China will soon launch the second phase of a National SME Development Fund with a focus on IPO incubation and channelling private capital into backing innovative, early-stage entities and projects with long-term prospects in hard tech. The fund’s second phase was confirmed as the Ministry of Industr
+## Venezuelans Aren’t Happy With the U.S. Oil Deal
+Critics have decried the opaque agreement as oligarchic and colonialist.
 
 ## Peace in Sudan Can Only Flower After a Weapons Embargo
 The case for the White House’s Security Council resolution on Sudan, made by two senior administration officials.
@@ -155,9 +167,6 @@ The government’s negotiations with the PKK will succeed because they are drive
 
 ## Would Another War Help Netanyahu Win Reelection?
 Some Israelis worry that he might manufacture a security crisis ahead of the vote.
-
-## Ukraine’s Mood Swing
-Public sentiment is turning against Zelensky amid corruption concerns and years of war.
 
 ## Securing Navigation for Trans-Caspian Trade
 Since 2022, but particularly in 2026, hard maritime security issues on the Caspian Sea have started moving to the forefront.
@@ -231,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Moment three-storey building collapses amid flooding in China
-Severe flooding in China’s Fujian province has caused a three-storey building to collapse.
+## Two Muslim women journalists allege police assault in India
+Two Muslim female journalists allege they were detained and brutally assaulted by police in India’s capital, Delhi.
 
-## Nepal search teams rescue two workers from hydropower tunnel
-'Miracle' rescue nine days after devastating flood raises hope that more people could still be found alive.
+## Philippine court orders arrest of VP Duterte over President Marcos threats
+Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.
 
-## Why has the Philippine peso plunged to a record low?
-The Southeast Asian country's currency has plummeted amid the fallout of the Iran war and economic challenges at home.
+## Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career
+Unbeaten French challenger Flora Pili stands in the way of Taylor becoming undisputed world champion for a third time.
 
-## Video: Workers rescued from hydro tunnel nine days after Nepal flooding
-Two workers have been pulled alive from a hydropower tunnel nine days after deadly flash flooding hit Nepal.
+## Conflicts and extreme weather pushing global food prices higher, warns UN
+UN food price index rises to four-year high, illustrating impact of war and weather.
 
-## Why Pakistan overhauled its military command structure after five decades
-New legislation gives Pakistan's military chief sweeping command powers, raising questions about oversight.
+## ‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern
+From My Lai to civilian killings in Afghanistan, Iraq, the US has often denied role before later quietly acknowledging.
 
-## Zverev goes distance to scrape into third round as upsets rock US Open
-Men's third seed Felix Auger-Aliassime goes out, along with sixth-seed Alex de Minaur and 13th-seed Lorenzo Musetti.
+## At least 100 killed as Yemen’s Houthis push towards key strait
+Fighting has intensified between Iran-backed Houthi rebels and Yemeni government forces since Thursday.
 
-## Nepal floods: How DNA identification of bodies works
-DNA testing helps identify bodies that may be unrecognisable due to mutilation and decomposition.
+## Jerusalem Daily: Israel’s plan to expel Gaza’s population
+Ben-Gvir sets out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip
 
-## In southern Lebanon, Israeli demolitions continue ‘day and night’
-Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.
+## US envoys headed to Russia and Ukraine to relaunch mediation
+The return of Washington's negotiators raises hope of progress towards a settlement to end Moscow's war on Ukraine.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
@@ -279,6 +288,15 @@ The proposed corporate law overhaul may ease CSR compliance for thousands of com
 ## ESG: Is it dead or alive?
 ESG was once shorthand for responsible business. Now, as US investors retreat while Europe revives green flows, the concept faces a reckoning. Seasoned finance expert Robin Banerjee examines why ESG lost momentum, where India stands, and why emissions, rather than labels, may hold the key.
 
+## RBI absorbs Rs 6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high
+Recently, the Reserve Bank of India undertook measures to absorb more than six lakh crore rupees from the banking system, utilizing two variable rate reverse repo auctions. This move comes as a response to record high surplus liquidity driven by significant inflows from a special deposit scheme and 
+
+## RBI may raise repo rate to 5.75-6% in H2 FY27, rate hike cycle likely from December: UBI
+Union Bank of India expects the RBI to raise the repo rate to 5.75-6% in H2 FY27, from the current 5.25%, with the rate-hike cycle likely beginning in December.
+
+## Finance Ministry notifies norms allowing e-commerce firms to maintain inventory only for exports
+India has relaxed FDI rules for e-commerce exports, allowing foreign-funded e-commerce companies to hold inventory if the goods are made in India and meant only for export. The rule does not allow inventory-based e-commerce for domestic B2C sales, keeping restrictions in place to protect kirana stor
+
 ## RBI may use FCNR inflows to shrink its $136.8 billion forward book
 More than $45 billion of the RBI’s total short forward book of $136.8 billion as of end-July 2026 is set to mature between July 2026 and July 2027, creating an opportunity for the central bank to use incoming forex flows to retire some of these positions.
 
@@ -293,13 +311,4 @@ In a pivotal ruling, India's supreme court has dismissed the regulatory challeng
 
 ## Govt mulls BIS exemption for high-tech companies setting up plants in India
 The government has announced new exemptions for high-tech companies, allowing them to bypass BIS certification to streamline the setup of manufacturing units in India. Concerns were raised by Japanese semiconductor companies over certification hurdles for components. This strategy is designed to ens
-
-## RBI appoints Suman Ray as Executive Director, to head DICGC and Premises Department
-Suman Ray will assume the role of Executive Director at the Reserve Bank of India. His appointment is effective from September 1, 2026, as announced by the central bank. Previously, Ray served as the Regional Director for Maharashtra and has extensive experience. He will now oversee the Department o
-
-## SEBI awaits clarification from NSE IPO bankers after observations
-The Securities and Exchange Board of India (SEBI) has issued observations on the National Stock Exchange's (NSE) initial public offering (IPO)'s draft papers and is awaiting a response from its lead managers, a report has said.
-
-## RBI back to rupee's rescue to counter oil, Fed headwinds; steps into swaps too
-India's central bank supported the rupee on Monday after oil prices surged. Rising U.S. interest rate expectations also pressured the Indian currency. The Reserve Bank of India's intervention helped the rupee recover its value. This sustained presence insulated the rupee from adverse external develo
 
