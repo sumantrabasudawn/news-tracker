@@ -1,28 +1,37 @@
 # AION Intelligence
 
+## John Ternus, Apple’s new ‘wicked calm’ CEO
+Tim Cook’s successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs
+
+## Why Berkshire Hathaway might be an active hedge
+The financial citadel is well positioned if there are market dislocations
+
+## Russian drone strikes Ukraine’s security service headquarters
+SBU building in central Kyiv suffers direct hit as Moscow launches near-constant raids by small numbers of fast drones
+
+## Labour working
+A strong employment report in the US raises the odds of a Fed rate rise
+
+## Venezuela’s jumbo oil deal does little to appease its creditors
+Ordinary bondholders will want evidence that Caracas can produce and sell enough oil, in dollars, to repay what is left of their debt
+
+## Pragmatism should define Burnham’s approach to business
+The prime minister needs to defy the vibes of tax-and-spend socialism
+
 ## Farage insists Reform has ‘broken no law’
-Party leader dismisses comments from top advisers caught in TV donor sting as ‘loose pub talk’
+Two key advisers stepped down following undercover sting that alleged party knowingly sought illegal overseas funding
 
 ## US economy smashes forecast with 162,000 jobs added in August
-Figure comes ahead of crucial interest rate decision by Federal Reserve later this month
+Expectations for Federal Reserve rate rise in September tick up after strong report
 
-## Strong August US payrolls report bolsters odds of September rate rise
-Job numbers well above consensus, adding to hawks’ argument that inflation is a bigger problem than the labour market
+## Oliver Blume’s VW jobs victory leaves power questions untouched
+Carmaker’s slimdown deal is a coup for its boss but governance issues have been kicked down the road
 
-## The five financing scandals facing Reform
-Nigel Farage and his party are facing growing scrutiny over transparency and the source of donations
+## Are credit rating agencies getting fed up with hyperscalers?
+A change in tone
 
 ## Andrew Bailey warns of populist threat to central bank independence
 Bank of England governor says claims by some political leaders that rate-setters are ‘an unrepresentative elite’ pose ‘serious challenge’
-
-## Markey, Massachusetts and the limits of generational politics
-Might age and incumbency matter less than a candidate’s policy platform?
-
-## Burnham vs Badenoch: Commons showdown
-Starmer quits parliament, prompting by-election problem for PM
-
-## Japan’s vital link between Bessent, Takaichi and markets
-Country’s first female finance minister is a pivotal figure for relations with Washington and global investors
 
 ## US diesel prices soar to record high
 Iran war pushes fuel costs above previous 2022 peak, adding to inflationary pressures ahead of November’s midterm elections
@@ -36,41 +45,35 @@ Green light for North Sea facility likely to be fiercely opposed by climate scie
 ## Lord Somerleyton: ‘I’m offering a £10mn stake in my family’s historic estate’
 A part-timeshare, part-investment proposal promises a slice of the ‘Downton Abbey’ life to would-be investors — and a lifeline for a stately home. Reckless risk or inspiring innovation?
 
-## FirstFT: Markets await US jobs update
-Also in today’s newsletter: Maria Bartiromo leaves Fox News and OpenAI releases new model
+## Arcil eyes collection services, MFI as new growth avenues ahead of ₹733-crore IPO
+Preparing to launch its ₹733-crore IPO next week, with the price band fixed at ₹132-139 a share
 
-## Will the ‘glassholes’ finally win?
-A revolt against smart glasses may not succeed — but that doesn’t mean we shouldn’t try
+## SPML Infra sets up BESS manufacturing unit in Pune, develops 104.4 kWh battery pack
+The company announced that its new battery pack has passed key international safety and performance certifications, advancing its commercial deployment
 
-## Fox News presenter and Trump ally Maria Bartiromo departs after 12 years
-President calls news anchor a ‘true warrior’ and says her fans ‘will not be happy’
+## IPO pipeline gathers pace as four firms eye ₹3,362 crore next week
+SEBI on Friday has cleared four IPOs including that of NSE, RKB Global, Monomark Engineering (India) and Cosmic PV Power
 
-## Volkswagen to slash up to 50,000 jobs in historic restructuring
-German carmaker’s shares rise 6 per cent on overhaul that could also lead to plant closures
+## SEBI clears NSE IPO, paving way for market debut
+Updated red herring prospectus, price band expected next week; exchange likely to list by 25th September
 
-## Kia India to follow multi-tech pathway for sustainable mobility: MD & CEO
-The company launched its premium seven-seater SUV Sorento in hybrid and diesel variants priced from ₹27.99 lakh to ₹40.39 lakh, and Lee stated that hybrids will be key to its future portfolio
+## Govt to allocate HPHT gas for CNG, PNG as per CGD entity’s consumption
+The move gives a larger share of high pressure high temperature (HPHT) gas to those city gas distribution (CGD) companies
 
-## Sneaker brand Comet raises ₹100 crore in Series B round led by Verlinvest
-The company will use the new capital to accelerate retail expansion, enhance technology and product development, and invest in R&D
-
-## Moopen family raises stake in Aster DM Quality Care to 24.58% as TPG pares holding
+## Global bond turmoil
 
 
-## Kochi-based Cyrix Healthcare acquires Blue Star E&E’s MedTech Solutions Business
-The acquisition strengthens Cyrix’s capabilities in medical imaging, equipment sales, installation, maintenance, repairs, refurbishment and lifecycle management
+## Uttar Pradesh to sell sugar at ₹50-52/kg in Lucknow
+Move comes amid drop in retail, wholesale prices of the commodity across the country
 
-## The energy symphony: How Shell India is balancing security, LNG, and renewables | Energonomics EP 23
-What’s next for India’s energy sector? Insights from Shell India’s Chair, Mansi Madan Tripathy.
+## Bus fare hike in Karnataka to be decided after committee report
+The final decision on the quantum of the fare hike will be taken by Chief Minister DK Shivakumar and the Cabinet after the committee submits its recommendations
 
-## KFC’s Moksh Chopra to transition to new role at Taco Bell
-Yum! Bands Inc owns brands including KFC, Pizza Hut and Taco Bell
+## Breather for India? Trump’s Russia sanctions bill may be stalled for now; could have led to 100% tariffs
+Lawmakers are concerned that the legislation could give President Donald Trump broader authority to impose tariffs and potentially push oil prices higher. Meanwhile, India’s reliance on Russian crude has increased sharply and is at record levels.
 
-## Air India Phuket flight incident: AAIB issues preliminary report; pilot drug use confirmation serious concern
-"The confirmation of use of psychoactive substance is a serious concern, and AAIB recommends appropriate actions by DGCA on priority," the DGCA said in its preliminary report
-
-## The energy symphony: How Shell India is balancing security, LNG, and renewables | Energonomics EP 36
-What’s next for India’s energy sector? Insights from Shell India’s Chair, Mansi Madan Tripathy.
+## Neighbour held 4.27 acres for 40 years; 80 year old original owner gets his title restored
+Long-term occupation of a property does not automatically amount to adverse possession. To establish such a claim, there must also be a clear assertion of hostile title along with the necessary animus.
 
 ## Phuket-Delhi flight incident: Air India terminates pilot who tested positive for drugs
 Air India terminated a pilot's employment after he tested positive for a psychoactive substance. This action followed an incident where the aircraft experienced multiple hydraulic failures. The flight encountered an altitude upset, causing injuries to passengers and crew. The Aircraft Accident Inves
@@ -90,35 +93,29 @@ India's market regulator Sebi has approved the National Stock Exchange's initial
 ## Silver crashes 40%, but buyers vanish; 2,000 tonnes could now pile up in India
 Silver prices have fallen steadily over the past seven months, following an extraordinary rally that pushed the metal more than 300% higher year-on-year. In January, silver crossed Rs 4 lakh per kg on the Multi Commodity Exchange for the first time.
 
-## Woman had valid train berth, but midnight deboarding & lost job; Railways ordered to pay Rs 2 lakh
-Indian Railways has been asked to compensate her. The order followed an incident in which she was made to get off a train around midnight despite having a valid reservation. She was subsequently arrested by the Railway Protection Force (RPF) on the allegation that she was travelling without a ticket
+## Kolkata school teacher suspended for asking student to wipe off tilak: Adhikari
+S Chowdhury, the school’s secretary, told HT that the action was taken after the institution received a notice from the district inspector (DI) of schools on Thursday
 
-## Gold price prediction: Should you buy gold on dips? Check September 4, 2026 outlook
-MCX Gold October futures are trading around Rs 1,55,250 and continue to maintain a constructive short-term structure after a sharp recovery from the recent lows. The chart shows a sequence of higher highs and higher lows, while prices are holding above the key short-term moving averages.
+## Union minister Chirag Paswan’s party seeks FIR against ‘influencer’ Swatantra Bhardwaj, calls for strict action
+Union minister Chirag Paswan’s party filed a complaint at Parliament Police Station against Swatantra Bhardwaj, alleging that he had falsely used Paswan’s name.
 
-## School bus driver sexually abuses 3-year-old in Navi Mumbai, arrested
-The incident came to light when the child reached home and complained of abdominal pain. She then told her grandmother about the abuse.
+## Beach view, Venice and a GDP dig: Opposition takes swipe at Centre over waterlogging at Delhi airport
+Heavy rainfall in Delhi inundated several roads and left the IGI Airport waterlogged, causing inconvenience to the passengers.
 
-## Explained: The unused constitutional clause on Supreme Court appointments
-Article 124(3)(c) allows any citizen who, "in the opinion of the President, a distinguished jurist", to be appointed as a judge of the Supreme Court
+## 275 Indians still missing in Nepal flash floods that have killed over 1,200
+Jaiswal said 1,907 Indian nationals who were in China on August 26 have crossed into Nepal and no Indian travellers are stranded in the Tibet Autonomous Region
 
-## Air India terminates Phuket-Delhi pilot after AAIB confirms ‘non-negative’ psychoactive substance test
-The pilot tested “non-negative” for a psychoactive substance in a confirmatory test, a preliminary Aircraft Accident Investigation Bureau (AAIB) report said.
+## ‘Very distressing’: SC judge says ‘dismayed’ to see police personnel assault Jantar Mantar protesters
+SC judge Justice Ujjal Bhuyan's comments came days after he said students must not face punitive action for expressing a different opinion or asking questions.
 
-## Heavy rain causes flooding in south Bengal; CM Adhikari calls meeting
-Heavy rain and water releases from DVC barrages have flooded parts of south Bengal, prompting CM Suvendu Adhikari to call an emergency meeting.
+## Bihar: Flood situation remains grim in Saran as Ganga, Saryu, Gandak rivers' levels rise
+Residential areas in low-lying parts of Chhapra city, along with parts of Revelganj, Sonpur and Chhapra Sadar blocks, have been affected by floodwaters.
 
-## Dehradun woman, 72, murdered over unpaid wages; man held, gold bangle recovered
-A 33-year-old man was arrested within 12 hours for allegedly killing a 72-year-old woman in Dehradun over a dispute over unpaid wages.
+## CBI searches 89 locations across 20 states, arrests three over ‘digital arrest’ cases
+The CBI searches targeted cybercrime syndicates behind digital arrest cases, with three people arrested for allegedly receiving and laundering fraud proceeds.
 
-## Self-styled influencer Swatantra Bhardwaj, accused of assault at CJP protest, detained after escape bid in UP: Cops
-The Cockroach Janta Party (CJP) had staged a protest outside the Parliament Street police station on Friday, demanding Bhardwaj’s arrest.
-
-## Fire dept wants TMC youth wing to vacate Kolkata office over fire safety
-The West Bengal fire services department asked occupants to vacate the two floors, citing inadequate fire safety measures and an expired certificate.
-
-## Delhi air quality improves to 71 but the clean air may not last with changing rain activity
-Data from CPCB shows the capital’s daily average AQI has improved to 71 on Friday from 85 on September 2 and 113 on Sept 1
+## Delhi traffic police issues advisory for BRICS summit motorcade rehearsal on Sept 5 | Check affected routes, diversions
+The police said traffic diversions would be in place along key routes in Delhi, including Sardar Patel Marg, Janpath, Barakhamba Road, and others.
 
 ## Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate
 The latest round of the Hong Kong government’s Silver Bonds programme has attracted a record number of subscriptions in terms of both quantity and value, as the city’s elderly investors seize the opportunity to secure better returns than those offered by bank deposits. Investors submitted 478,000 bi
@@ -144,6 +141,12 @@ The artificial intelligence boom has signalled growing risks in the US economy a
 ## Boost for EVs: Chinese carmaker Chery to begin testing solid-state batteries next year
 Chery Automobile, China’s largest car exporter by deliveries, will begin testing its solid-state batteries next year, aiming to spearhead commercialisation of a technology likely to further spur the electrification of the global automotive industry. Yin Tongyue, the chairman of the state-owned carma
 
+## Why the United States Should Recognize Somaliland
+U.S. allies won’t love it, but American interests come first.
+
+## Soccer’s Favorite Strongman
+José Mourinho’s lessons on how to influence people (and not win friends).
+
 ## Venezuelans Aren’t Happy With the U.S. Oil Deal
 Critics have decried the opaque agreement as oligarchic and colonialist.
 
@@ -154,19 +157,13 @@ The case for the White House’s Security Council resolution on Sudan, made by t
 Like the Iran war itself, the carrier’s deployment lasted far longer than Trump expected or planned.
 
 ## A Gold Rush in Venezuela?
-The curious case of a job posting and how global firms are tentatively exploring Trump's call to pursue mining opportunities.
+The curious case of a job posting and how global firms are tentatively exploring Trump’s call to pursue mining opportunities.
 
 ## The Fallout of Russia’s Failed Drone Attack on Germany
 European nations join Berlin in punishing Moscow for an alleged unsuccessful attack on Leipzig airport.
 
 ## China Isn’t Scared of Trump’s Squeeze on Iran
 Beijing has plenty of leverage to deter Washington.
-
-## Turkey’s Kurdish Peace Process Is Not About Erdogan
-The government’s negotiations with the PKK will succeed because they are driven by geopolitical threats rather than domestic concerns.
-
-## Would Another War Help Netanyahu Win Reelection?
-Some Israelis worry that he might manufacture a security crisis ahead of the vote.
 
 ## Securing Navigation for Trans-Caspian Trade
 Since 2022, but particularly in 2026, hard maritime security issues on the Caspian Sea have started moving to the forefront.
@@ -240,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Two Muslim women journalists allege police assault in India
-Two Muslim female journalists allege they were detained and brutally assaulted by police in India’s capital, Delhi.
+## Rescuers race to save10-year-old Algerian boy trapped in deep well
+Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub, after he fell into an deep well.
 
-## Philippine court orders arrest of VP Duterte over President Marcos threats
-Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.
+## US adds 162,000 jobs in August, raising Fed rate hike expectations
+Unemployment rate steady as public schools and food services lead the surge in US job growth for August.
 
-## Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career
-Unbeaten French challenger Flora Pili stands in the way of Taylor becoming undisputed world champion for a third time.
+## The number 10 shirt must not retire with Messi
+Maradona and Messi each made the shirt their own. The next great Argentinian player should have that chance, too.
 
-## Conflicts and extreme weather pushing global food prices higher, warns UN
-UN food price index rises to four-year high, illustrating impact of war and weather.
+## Bride walks down the aisle despite waist-deep flooding
+A couple chose to get married in the middle of severe flooding in the Philippines.
 
-## ‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern
-From My Lai to civilian killings in Afghanistan, Iraq, the US has often denied role before later quietly acknowledging.
+## October 7 attack shapes Israel’s elections and fuels political blame
+Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures
 
-## At least 100 killed as Yemen’s Houthis push towards key strait
-Fighting has intensified between Iran-backed Houthi rebels and Yemeni government forces since Thursday.
+## ‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat
+Analysts say Argentina's president sees an opportunity to exploit Trump’s growing tensions with London.
 
-## Jerusalem Daily: Israel’s plan to expel Gaza’s population
-Ben-Gvir sets out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip
+## Russian drone strikes Ukraine’s security service headquarters
+A Russian drone has struck Ukraine’s domestic intelligence headquarters in central Kyiv, injuring five people.
 
-## US envoys headed to Russia and Ukraine to relaunch mediation
-The return of Washington's negotiators raises hope of progress towards a settlement to end Moscow's war on Ukraine.
+## LIVE: Ipswich Town vs Liverpool – Premier League
+All the build-up alongside our live text commentary stream coverage as Bradley Barcola is set to make his Liverpool bow.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
