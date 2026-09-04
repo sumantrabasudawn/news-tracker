@@ -1,61 +1,79 @@
 # AION Intelligence
 
+## Top Reform UK advisers step down after donor sting
+James Orr and Dan Jukes leave roles pending outcome of party’s investigation
+
+## Latest allegations make Reform look ridiculous
+Accusations of racism and corruption threaten party’s image as a serious prospect for power
+
+## Air India set for $1bn cash boost amid Singapore opposition over capital calls
+Singaporean MP criticises further support for lossmaking carrier via Temasek’s Singapore Airlines
+
+## What are the new allegations against Farage’s Reform?
+A sting operation has abruptly overturned the leader’s attempt to put financing scandals behind him
+
+## Giorgia Meloni celebrates Italy’s longest-serving government since 1945
+Rightwing prime minister has so far defied critics with pragmatic policies and stable coalition
+
+## More stock ownership, weaker monetary policy?
+A counterintuitive quirk
+
+## Europe struggling to re-arm by 2030 as capitals squander arms spending surge
+Also in this newsletter: The beef between Brazil and Brussels
+
 ## FirstFT: UK-EU alignment a ‘problem’ for US
 Also in today’s newsletter: Farage sting and latest OpenAI model
+
+## Volkswagen to slash up to 50,000 jobs in historic restructuring
+German carmaker’s shares rise 6 per cent on overhaul that could also lead to plant closures
 
 ## Luckin Coffee killed our lunch spot. Here’s what that says about geopolitics
 Half a decade on from a fraud scandal, the Chinese chain is thriving in New York City — and pushing out the locals
 
-## China lashes back at US over G20 row ahead of Xi-Trump summit
-Beijing says Trump’s tariffs and Iran war energy crisis are damaging to global economy
-
 ## The $275mn question from Guggenheim’s auditor
 KPMG warned the asset manager about weak controls within its business last year
-
-## UK failing to capitalise on Brexit, top Trump trade official says
-Jamieson Greer says Britain’s alignment with EU is a ‘problem’ for a US trade deal
 
 ## Deutsche Bank led $1bn of troubled lending to Hollywood studio landlord
 German lender enabled debt-fuelled expansion of Hackman Capital Partners’ property empire
 
-## The university degree is losing its lustre
-Technological and economic shifts are eroding the graduate premium
-
 ## Spain pushes for EU oil and gas tax to pay for climate change response
 Rising extreme weather costs fuel campaign ahead of new resilience strategy
 
-## Anthropic’s IPO set to test external trust with power over board
-Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose
+## Balaji Telefilms, YouTube ink deal for 5 original shows on digital platform
+Shows to be distributed globally on YouTube, with Balaji retaining intellectual property rights while YouTube provides distribution and monetisation through advertising and brand deals
 
-## A UK bank windfall tax would be a terrible idea
-Further penalty would hit one of the key engines of growth in the economy
+## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty near 23,930 on easing US Treasury yields; Tata Steel leads gainers
+Sensex, Nifty, Share Prices LIVE: Benchmark indices Sensex and Nifty were trading with modest gains at midday on Friday, September 4, supported by positive global cues and selective buying in financial and energy stocks
 
-## Defence officials resist EU plan to curb reliance on US tech giants
-Brussels’ effort to reduce US technology dependence could create greater risks elsewhere, defence officials and contractors say
+## Tata Realty appoints Gaurav Jain as MD & CEO
+Jain, who has more than 23 years of experience in the real estate sector, has worked at Birla Estates, Godrej Properties, Mahindra Lifespace Developers Ltd, and Unitech Group
 
-## Manipal Payment IPO price band fixed at ₹322-339; issue to open on Sep 9
-The IPO comprises a fresh issue of equity shares aggregating to ₹320 crore, along with an Offer for Sale (OFS) of up to 1.43 crore equity shares worth ₹485 crore by promoter Manipal Technologies.
+## Gold price falls ₹431 to ₹1.55 lakh/10g in futures trade; snaps two-day rise
+On MCX, the yellow metal futures for October delivery declined ₹431, or 0.28% to ₹1,55,344 per 10 grams.
 
-## Sensex today | Stock Market Live: Markets open higher amid positive global cues; Sensex rises 560 pts, Nifty up 80 pts
-Sensex, Nifty, Share Prices LIVE: Markets opened on a positive note on Friday, September 4, 2026, with the Sensex rising 490 points and the Nifty 50 gaining 41 points in early trade, tracking overnight gains on Wall Street and easing US Treasury yields
+## SEBI goes after Hindenburg, others in Adani case
+All parties are based overseas but SEBI ‌believes it has jurisdiction since the trades were in India, say sources
 
-## Cipla slips after Qilu Pembrolizumab deal; Morgan Stanley flags crowded field
-Cipla stock trades at ₹1,388, down 0.48% or ₹6.70 from its previous close of ₹1,394.70
+## Nepal announces relief package for flood-hit businesses, plans settlement relocation
+Businesses whose commercial vehicles, transport equipment, plants, machinery, tools or other equipment were destroyed beyond repair or swept away will be allowed to import replacements without paying customs duties: Report
 
-## HDFC Bank shares trade flat near day’s high
-HDFC Bank had hit a 52-week low of ₹698.50 in September 2026.
+## Nepal floods could cost insurers over $130 mln even before death, injury claims
+Hydropower projects expected to account for most claims
 
-## Nifty Prediction Today – September 4, 2026: Nifty futures: Exhibits positive bias
-Traders can consider intraday longs on Nifty futures (Sep)
+## Tata Chemicals says fully compliant after Kenya orders it to exit century-old Magadi mine
+TCML said it submitted the required reports and documents on August 11, days after Kenya’s mining ministry suspended its operations over alleged regulatory shortfalls.
 
-## Nearly 20% rise in Indian patients at Singapore cancer centre in 2025
-Singapore’s Parkway Cancer Centre says 60-70% of Indian patients arrive with advanced or treatment-resistant cancers after exhausting options at home.
+## Gadkari clears Rs 5,000 IIT-Delhi fix for old diesel vehicles; can cut pollution by 90%
+Speaking at an event organised by the Society of Indian Automobile Manufacturers (Siam), Gadkari said the technology, developed from an innovation at IIT-Delhi, had successfully completed testing. The devices can be fitted on BS-IV, BS-III and older diesel vehicles, bringing their emissions to level
 
-## Tata Chemicals says Kenya unit fully compliant, awaits ministry review; shares in red
-Stock declines 2.5% in early trade
+## Silver crashes 40%, but buyers vanish; 2,000 tonnes could now pile up in India
+Silver prices have fallen steadily over the past seven months, following an extraordinary rally that pushed the metal more than 300% higher year-on-year. In January, silver crossed Rs 4 lakh per kg on the Multi Commodity Exchange for the first time.
 
-## How engineers in a WhatsApp group are guiding Nepal's tunnel rescue efforts
-The messaging group was set up by engineers before the wall of water, mud ​and rock crashed down the Trishuli valley in Nepal on August 26. It has since become a valuable tool alongside helicopters and heavy ⁠machinery in the race to find survivors.
+## Woman had valid train berth, but midnight deboarding & lost job; Railways ordered to pay Rs 2 lakh
+Indian Railways has been asked to compensate her. The order followed an incident in which she was made to get off a train around midnight despite having a valid reservation. She was subsequently arrested by the Railway Protection Force (RPF) on the allegation that she was travelling without a ticket
+
+## Gold price prediction: Should you buy gold on dips? Check September 4, 2026 outlook
+MCX Gold October futures are trading around Rs 1,55,250 and continue to maintain a constructive short-term structure after a sharp recovery from the recent lows. The chart shows a sequence of higher highs and higher lows, while prices are holding above the key short-term moving averages.
 
 ## Markets turn green; Sensex jumps 580 points, Nifty tops 23,950 in early trade
 
@@ -69,41 +87,38 @@ India could see the launch of its first bullet train service in 2027, with the S
 ## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
 What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
 
-## Stock market operations on September 4: Are NSE, BSE open or closed today for Janmashtami?
+## Bengal collects blood samples from relatives of people missing in Nepal flood
+West Bengal is collecting blood samples from relatives of 37 people missing after the August 26 Nepal flash flood for DNA matching.
 
+## ‘Not abrupt’: FSSAI says 5 notices sent to Dabur before order on ‘100%’ claim
+The high court has stayed FSSAI August 3 order that prohibited the sale of range of food products over its ‘100%’ labels
 
-## Volkswagen plans another 50,000 job cuts in biggest restructuring in 90 years
-Volkswagen announces its plan to cut an additional fifty thousand jobs by 2030 as part of a major restructuring effort aimed at enhancing the company's competitiveness and profitability. With declining sales and tougher competition from the electric vehicle market, Volkswagen is also exploring alter
+## ‘Will strike again if…’: Hindutva influencer says acted in ‘self-defence’ amid row over assault on CJP activist's father
+Speaking in an interview, Swatantra Bhardwaj claimed that he hit the protester's father with his kada (iron bracelet) while defending himself.
 
-## Sebi to tweak CAS, change method for derivative trade
-Consultation Paper On Settlement Prices Within A Week
+## 2 Indians killed in Nepal as car plunges into Pokhara's Phewa Lake
+The car was pulled out of the lake with the help of a crane and taken to the Baidam Ward Police Office.
 
-## Govt eyes auto cos-led model to fix EV charging on highways
+## Himachal government strengthens road protection, maintenance through key amendments: PWD minister
+Himachal government strengthens road protection, maintenance through key amendments: PWD minister
 
+## Kaushambi cracker factory blast case: Reward for fugitive raised to ₹50,000
+Kaushambi cracker factory blast case: Reward for fugitive raised to ₹50,000
 
-## Over 17,000 people rescued in UP as floods affect 26 districts: Officials
-Relief teams have also been deployed to ensure food, essential supplies and healthcare reach affected families
+## 40 high-hazard glacial lakes identified in Sikkim, 16 at highest risk of outburst
+The data is significant as it comes against the backdrop of the recent flash flood in Nepal, triggered by a glacial collapse near the Nepal-Tibet border.
 
-## Why ‘Naughty Boy’ satellite launch, ISRO's 1st success this year, is a giant leap for India
-EOS-05 would enable continuous monitoring of India and nearby regions, ISRO chairman V Narayanan has said.
+## Train movement to Mizoram affected due to soil erosion near tracks after heavy rain
+The restoration work in the affected area between Jamira in Assam and Bairabi in Mizoram has begun.
 
-## Canada Indian student protest: Rights groups seek probe into enforcement action
-The groups called for immediate suspension of the exclusion orders and any removal action arising from the August 12 enforcement
+## Can Hong Kong outshine Singapore as central banks rethink gold custody amid global risks?
+As the Netherlands moved gold out of the US and Canada over geopolitical concerns, attention is turning to whether Hong Kong can capitalise on central banks rethinking where they keep their bullion. The city faces competition from Singapore, which is expected to launch central bank gold-vaulting ser
 
-## CJP protest news LIVE Updates: Heavy security outside Parliament Street police station
-CJP protest news LIVE: The Delhi Police, however, has rejected allegations of political interference in the case after an interview of Swantantra Bhardwaj went viral.
+## China’s AI ‘little giant’ Yunxi Technology files for Hong Kong IPO: sources
+Yunxi Technology, officially one of China’s “little giants”, has submitted a confidential initial public offering application to Hong Kong’s stock exchange, according to people familiar with the matter. The Guangzhou-based start-up was valued at 10 billion yuan (US$1.27 billion) in its latest privat
 
-## Centre may soon regulate what govt officials post on social media, talks on: Report
-Centre is considering introducing a code of conduct to stop officials from posting videos or expressing opinions on inappropriate or sensitive subjects.
-
-## Indian-origin man added to FBI's ‘Most Wanted Fraudsters’ List; who is Manjit Bedi
-The FBI indicated that Bedi has fled to India and has offered $150,000 for information leading to his arrest and conviction.
-
-## Keralam govt asked to appoint S S Lal as healthcare sector special monitor
-Keralam govt asked to appoint S S Lal as healthcare sector special monitor
-
-## HT Morning Brief Sept 4: ISRO launches EOS-05; CJP protest today; Rohit Sharma gets BCCI boost
-Today’s big headlines in 5 minutes: Your quick brief on national and global events, entertainment and sports.
+## Hong Kong’s 106 billionaires, Treasury yields hit recent highs: the numbers moving markets
+China has been expanding its outbound-investment channels, with a new quota granted and greater overseas allocation by the nation’s pension fund. However, the financial world beyond the mainland is seeing volatility as US bond yields hit 20-month highs. Here are some of the figures that have drawn t
 
 ## Deleveraging clouds China’s AI trade as rising US Treasury yields, inflation fears persist
 Chinese leveraged traders continue to unwind their bets on stocks, as unease over rising global bond yields and a lingering oil shock add uncertainty to the artificial intelligence trade. The outstanding balance of stocks bought with borrowed money dropped to 2.62 trillion yuan (US$390.1 billion) on
@@ -119,15 +134,6 @@ An Asian city will eventually overtake London and New York as the world’s lead
 
 ## China prepares next phase of national SME fund to boost tech start-ups and IPOs
 China will soon launch the second phase of a National SME Development Fund with a focus on IPO incubation and channelling private capital into backing innovative, early-stage entities and projects with long-term prospects in hard tech. The fund’s second phase was confirmed as the Ministry of Industr
-
-## Hong Kong regulator reclassifies certain funds with exposure to private markets
-Hong Kong’s market regulator has reclassified some of the city’s authorised funds with exposure to private market assets above a certain amount as complex products, raising the threshold for selling these products to retail investors. Funds with exposures to direct or indirect private market assets 
-
-## As hordes head to Shenzhen, Hong Kong bars, restaurants sign up for more floor space
-Hong Kong’s food and beverage (F&B) operators, both new and existing players, signed leases for 155,000 sq ft of new floor space in the second quarter of this year, a record high for the sector and more than double the amount registered in the first quarter, according to property consultancy CBRE. I
-
-## About 4 in 5 young, affluent investors in mainland China turn to offshore assets: study
-Young Chinese investors are increasingly turning to offshore assets for wealth preservation and diversification, with more than four-fifths of those surveyed reporting some exposure outside mainland China, a recent study by the CFA Institute showed. About 81 per cent of young Chinese investors surve
 
 ## Peace in Sudan Can Only Flower After a Weapons Embargo
 The case for the White House’s Security Council resolution on Sudan, made by two senior administration officials.
@@ -153,6 +159,21 @@ Some Israelis worry that he might manufacture a security crisis ahead of the vot
 ## Ukraine’s Mood Swing
 Public sentiment is turning against Zelensky amid corruption concerns and years of war.
 
+## Securing Navigation for Trans-Caspian Trade
+Since 2022, but particularly in 2026, hard maritime security issues on the Caspian Sea have started moving to the forefront.
+
+## Vietnam Sentences 11 to Death in Country’s Largest Ever Drug Trafficking Case
+The case dates back to March 2023, when four flight attendants were ‌caught carrying narcotics hidden in toothpaste tubes on a flight from Paris to Ho Chi Minh City.
+
+## Japan’s FOIP 3.0: Is Pragmatism That Delivers Resilience Enough?
+Japan’s updated vision is sharper and more self-interested.
+
+## Escaping the Escalation Trap in the Thailand-Cambodia Maritime Dispute
+Compulsory conciliation under UNCLOS could help both sides insulate sensitive negotiations from domestic political pressure.
+
+## Indonesia’s President Pitches His Country as Russia’s ‘Gateway’ to Southeast Asia
+Speaking at the Eastern Economic Forum in Vladivostok, Prabowo Subianto described his country as “a natural entry point to ASEAN" for investors.
+
 ## The Japan-Thailand Relationship: Light and Shadow
 The benefits and vulnerabilities of deepening interdependence
 
@@ -162,20 +183,8 @@ The question here is not whether the military should be involved in disaster res
 ## Australia’s Broken Hill: Where Children Are Sacrificed to Mining Interests
 A historical mining town in Australia’s outback is confronting severe lead-contamination health threats, disproportionately affecting Aboriginal children.
 
-## Ezra Jin Is Free, But There Are More Pastors in China Behind Bars
-“I respectfully ask the international community to stand with me – to fight for the freedom of Pastor Gao Quanfu, Pang Yu, and all peaceful Christians imprisoned in China. ”
-
-## The Meaning Behind Pakistan’s First Lunar Rover
-The Jinnah 1 mission signals increased cooperation with China and takes Pakistan’s rivalry with India to new heights – literally.
-
-## US Allies in Asia Are Paying for the Iran Stalemate
-The U.S. administration lacks the willingness to confront China and Russia over their assistance to Iran, and Asian allies are paying the price.
-
-## Central Asia’s Energy Transition Depends on Water Security
-A more integrated and flexible power system could give Central Asian states greater room to manage drought, hydropower volatility, and competing demands for water.
-
-## Security Is the Key to Resolving the Thai-Cambodia Border Conflict
-“The first step is security: uphold the ceasefire, reduce military risks, clear mines, strengthen law enforcement, and cooperate against criminal networks.”
+## The Fruit of Patience: How Regional Shifts Ripened Turkey’s Path to Kurdish Reconciliation
+On Aug. 25, at the People’s Palace in Damascus, Mazloum Abdi announced the dissolution of the Syrian Democratic Forces, which he had commanded for a decade. Speaking first in Arabic and then in Kurdish, he said the force had joined the Syrian army and would no longer operate independently. 15 days e
 
 ## The Future of Combat Medicine
 War has always been a brutal engine of medical innovation, running on a feedback loop: Civilian breakthroughs are adapted for the battlefield, while battlefield necessity pushes advances back into civilian care. We asked three experts to identify the innovations from the last five years most likely 
@@ -197,9 +206,6 @@ In August 2024, special forces from five Ukrainian military intelligence units c
 
 ## Why Are People Talking About a German Reset with Russia?
 The summer of 2026 has raised questions once again among politicians, diplomats, and academics about whether Germany might be about to dither on Russia. Last month, a drone attack on German soil seemed designed to coerce Germany back into business as usual. Earlier, there had been rumblings about tw
-
-## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
-Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,35 +231,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## No shelter or water, yet Lebanese return home, defying Israel.
-Residents are returning to villages in southern Lebanon devastated by Israel’s invasion.
+## Moment three-storey building collapses amid flooding in China
+Severe flooding in China’s Fujian province has caused a three-storey building to collapse.
 
-## Argentina’s Milei threatens sanctions over Falklands oil drilling
-Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands.
+## Nepal search teams rescue two workers from hydropower tunnel
+'Miracle' rescue nine days after devastating flood raises hope that more people could still be found alive.
 
-## Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal
-Brazil forward Gabriel Martinelli transfers to Saudi Pro League side Al-Hilal from Premier League champions Arsenal.
+## Why has the Philippine peso plunged to a record low?
+The Southeast Asian country's currency has plummeted amid the fallout of the Iran war and economic challenges at home.
 
-## Mladic’s body arrives to full military honours in Serbia
-The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.
+## Video: Workers rescued from hydro tunnel nine days after Nepal flooding
+Two workers have been pulled alive from a hydropower tunnel nine days after deadly flash flooding hit Nepal.
 
-## Entertainment over policy? White House arcade games ignite backlash
-White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.
+## Why Pakistan overhauled its military command structure after five decades
+New legislation gives Pakistan's military chief sweeping command powers, raising questions about oversight.
 
-## OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns
-OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.
+## Zverev goes distance to scrape into third round as upsets rock US Open
+Men's third seed Felix Auger-Aliassime goes out, along with sixth-seed Alex de Minaur and 13th-seed Lorenzo Musetti.
 
-## Missouri Supreme Court blocks Trump-backed map from November’s midterms
-Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.
+## Nepal floods: How DNA identification of bodies works
+DNA testing helps identify bodies that may be unrecognisable due to mutilation and decomposition.
 
-## Why did Trump meet with anti-Zionist Jewish leaders?
-US President Donald Trump met six anti-Zionist rabbis privately amid protests over Israeli military conscription.
+## In southern Lebanon, Israeli demolitions continue ‘day and night’
+Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
 
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
+
+## CBIC launches NAC portal to bring greater uniformity, transparency in customs assessment
+Digital platform will provide trade access to NAC decisions, CAAR rulings, legal precedents, advisories and audit observations
 
 ## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
@@ -270,8 +279,8 @@ The proposed corporate law overhaul may ease CSR compliance for thousands of com
 ## ESG: Is it dead or alive?
 ESG was once shorthand for responsible business. Now, as US investors retreat while Europe revives green flows, the concept faces a reckoning. Seasoned finance expert Robin Banerjee examines why ESG lost momentum, where India stands, and why emissions, rather than labels, may hold the key.
 
-## Falling Global Shield of International Accounting Networks: How the Evergrande Ruling Reshapes Audit Networks and India’s Global Firm Dreams
-Seasoned finance professional Dr. (CA) Ashok Haldia examines how the Hong Kong High Court’s Evergrande ruling could erode the liability shield of global accounting networks, force structural changes in the Big Four model, and offer India a critical opportunity to build globally competitive accountin
+## RBI may use FCNR inflows to shrink its $136.8 billion forward book
+More than $45 billion of the RBI’s total short forward book of $136.8 billion as of end-July 2026 is set to mature between July 2026 and July 2027, creating an opportunity for the central bank to use incoming forex flows to retire some of these positions.
 
 ## RBI's swap facility fuels India's forex reserves to defend rupee
 The Reserve Bank of India's special swap windows raised a cumulative $136.3 billion by end‑August exceeding market estimates by a wide margin, likely pushing foreign reserves past $750 billion and giving the central bank firepower to defend the rupee, a report said on Thursday.
@@ -293,7 +302,4 @@ The Securities and Exchange Board of India (SEBI) has issued observations on the
 
 ## RBI back to rupee's rescue to counter oil, Fed headwinds; steps into swaps too
 India's central bank supported the rupee on Monday after oil prices surged. Rising U.S. interest rate expectations also pressured the Indian currency. The Reserve Bank of India's intervention helped the rupee recover its value. This sustained presence insulated the rupee from adverse external develo
-
-## RBI back to rupee's rescue to counter oil, Fed headwinds; steps into swaps too
-India's central bank supported the rupee on Monday after oil prices surged. Rising expectations of a US interest-rate hike also pressured the local currency. The Reserve Bank of India's intervention helped the rupee recover from its lows. This sustained presence insulated the rupee from external dev
 
