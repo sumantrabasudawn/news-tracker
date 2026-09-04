@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## US economy smashes forecast with 162,000 jobs added in August
+Expectations for Federal Reserve rate rise in September tick up after strong report
+
+## Nigel Farage insists Reform has ‘broken no law’ after key advisers step down
+Party’s conference in Birmingham overshadowed by alleged attempts to seek illegal overseas funding
+
+## Farage’s merry band used to enjoy conference. Not this year
+After Reform UK was hit by an undercover sting, the old jokes did not land as they used to
+
+## Nigel Farage’s pile of financing scandals
+Undercover report raises new questions over funding of Reform UK
+
+## ‘Clear’ breaches of rules by Reform UK pollster, says industry body
+British Polling Council seeking further information from JL Partners following Channel Four News investigation
+
 ## John Ternus, Apple’s new ‘wicked calm’ CEO
 Tim Cook’s successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs
 
@@ -9,41 +24,20 @@ The financial citadel is well positioned if there are market dislocations
 ## Russian drone strikes Ukraine’s security service headquarters
 SBU building in central Kyiv suffers direct hit as Moscow launches near-constant raids by small numbers of fast drones
 
-## Labour working
-A strong employment report in the US raises the odds of a Fed rate rise
+## Prosecutors seize €65mn from McKinsey in French tax fraud probe
+Fine remains provisional as investigation continues into the consultancy’s tax practices
 
-## Venezuela’s jumbo oil deal does little to appease its creditors
-Ordinary bondholders will want evidence that Caracas can produce and sell enough oil, in dollars, to repay what is left of their debt
+## Maybe Northampton *is* an emerging market
+NuCobblers — now with added Gemcorp
 
-## Pragmatism should define Burnham’s approach to business
-The prime minister needs to defy the vibes of tax-and-spend socialism
+## Directors’ Deals: Lloyds’ CFO banks £10mn through share sales
+Group’s share price has climbed by 40 per cent in the past year
 
-## Farage insists Reform has ‘broken no law’
-Two key advisers stepped down following undercover sting that alleged party knowingly sought illegal overseas funding
-
-## US economy smashes forecast with 162,000 jobs added in August
-Expectations for Federal Reserve rate rise in September tick up after strong report
-
-## Oliver Blume’s VW jobs victory leaves power questions untouched
+## How VW’s boss secured a shock victory in battle to reshape carmaker
 Carmaker’s slimdown deal is a coup for its boss but governance issues have been kicked down the road
 
 ## Are credit rating agencies getting fed up with hyperscalers?
 A change in tone
-
-## Andrew Bailey warns of populist threat to central bank independence
-Bank of England governor says claims by some political leaders that rate-setters are ‘an unrepresentative elite’ pose ‘serious challenge’
-
-## US diesel prices soar to record high
-Iran war pushes fuel costs above previous 2022 peak, adding to inflationary pressures ahead of November’s midterm elections
-
-## EQT strikes $2bn deal for insurance broker McGill
-Acquisition is latest example of private equity investing in insurance sector
-
-## UK set to approve Jackdaw gasfield within weeks
-Green light for North Sea facility likely to be fiercely opposed by climate scientists and environmental campaigners
-
-## Lord Somerleyton: ‘I’m offering a £10mn stake in my family’s historic estate’
-A part-timeshare, part-investment proposal promises a slice of the ‘Downton Abbey’ life to would-be investors — and a lifeline for a stately home. Reckless risk or inspiring innovation?
 
 ## Arcil eyes collection services, MFI as new growth avenues ahead of ₹733-crore IPO
 Preparing to launch its ₹733-crore IPO next week, with the price band fixed at ₹132-139 a share
@@ -93,6 +87,18 @@ India's market regulator Sebi has approved the National Stock Exchange's initial
 ## Silver crashes 40%, but buyers vanish; 2,000 tonnes could now pile up in India
 Silver prices have fallen steadily over the past seven months, following an extraordinary rally that pushed the metal more than 300% higher year-on-year. In January, silver crossed Rs 4 lakh per kg on the Multi Commodity Exchange for the first time.
 
+## Exclusive-India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
+INDIA-RABIESVACCINE-COUNTERFEIT:Exclusive-India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
+
+## India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
+INDIA-RABIESVACCINE/COUNTERFEIT (EXCLUSIVE, PIX):EXCLUSIVE-India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
+
+## Sixth, last accused in UP illegal cracker factory blast arrested after encounter
+Sixth, last accused in UP illegal cracker factory blast arrested after encounter
+
+## Dialogue, not oil bans, will end Ukraine war: Jaishankar defends India’s energy buys
+“Let’s diagnose the problem right — the issue is a conflict, it’s a war, and the solution to that is not in trade, the solution to that is in negotiations.”
+
 ## Kolkata school teacher suspended for asking student to wipe off tilak: Adhikari
 S Chowdhury, the school’s secretary, told HT that the action was taken after the institution received a notice from the district inspector (DI) of schools on Thursday
 
@@ -104,18 +110,6 @@ Heavy rainfall in Delhi inundated several roads and left the IGI Airport waterlo
 
 ## 275 Indians still missing in Nepal flash floods that have killed over 1,200
 Jaiswal said 1,907 Indian nationals who were in China on August 26 have crossed into Nepal and no Indian travellers are stranded in the Tibet Autonomous Region
-
-## ‘Very distressing’: SC judge says ‘dismayed’ to see police personnel assault Jantar Mantar protesters
-SC judge Justice Ujjal Bhuyan's comments came days after he said students must not face punitive action for expressing a different opinion or asking questions.
-
-## Bihar: Flood situation remains grim in Saran as Ganga, Saryu, Gandak rivers' levels rise
-Residential areas in low-lying parts of Chhapra city, along with parts of Revelganj, Sonpur and Chhapra Sadar blocks, have been affected by floodwaters.
-
-## CBI searches 89 locations across 20 states, arrests three over ‘digital arrest’ cases
-The CBI searches targeted cybercrime syndicates behind digital arrest cases, with three people arrested for allegedly receiving and laundering fraud proceeds.
-
-## Delhi traffic police issues advisory for BRICS summit motorcade rehearsal on Sept 5 | Check affected routes, diversions
-The police said traffic diversions would be in place along key routes in Delhi, including Sardar Patel Marg, Janpath, Barakhamba Road, and others.
 
 ## Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate
 The latest round of the Hong Kong government’s Silver Bonds programme has attracted a record number of subscriptions in terms of both quantity and value, as the city’s elderly investors seize the opportunity to secure better returns than those offered by bank deposits. Investors submitted 478,000 bi
@@ -141,6 +135,21 @@ The artificial intelligence boom has signalled growing risks in the US economy a
 ## Boost for EVs: Chinese carmaker Chery to begin testing solid-state batteries next year
 Chery Automobile, China’s largest car exporter by deliveries, will begin testing its solid-state batteries next year, aiming to spearhead commercialisation of a technology likely to further spur the electrification of the global automotive industry. Yin Tongyue, the chairman of the state-owned carma
 
+## What Was the War on Terror?
+A defining period in U.S. foreign policy has ended, but it remains misunderstood.
+
+## The Conservative Case for International Law
+Why the U.S. right should rediscover the virtues of a global legal order.
+
+## The Novel Imagining Life After a Second Civil War
+Emily St. John Mandel explores what follows U.S. collapse, plus more fiction in September.
+
+## What 6 Different Versions of This Sex Comedy Say About the Countries That Made Them
+Trust the French to add a wild twist.
+
+## What in the World?
+Test yourself on the week of Aug. 29: Iceland votes, China threatens Pacific island nations, and Guinea-Bissau approves a new constitution.
+
 ## Why the United States Should Recognize Somaliland
 U.S. allies won’t love it, but American interests come first.
 
@@ -150,44 +159,29 @@ José Mourinho’s lessons on how to influence people (and not win friends).
 ## Venezuelans Aren’t Happy With the U.S. Oil Deal
 Critics have decried the opaque agreement as oligarchic and colonialist.
 
-## Peace in Sudan Can Only Flower After a Weapons Embargo
-The case for the White House’s Security Council resolution on Sudan, made by two senior administration officials.
+## Humanoid Robots and China’s Vision of the Future
+China’s humanoid robots are more than a showcase of state ambition. They reveal how differently we interpret visions of the technological future depending on who builds them.
 
-## The USS Abraham Lincoln Is a Troubling Metaphor
-Like the Iran war itself, the carrier’s deployment lasted far longer than Trump expected or planned.
+## Public Scrutiny Really Does Help the Unjustly Detained
+Concerned citizens and civil society groups working in tandem can help free the unjustly imprisoned. But the work is far from finished.
 
-## A Gold Rush in Venezuela?
-The curious case of a job posting and how global firms are tentatively exploring Trump’s call to pursue mining opportunities.
+## Nepal’s Floods Upset Its China-India Balancing Act
+Trade infrastructure was swept away. Nepal’s trade with China, which was already limited, will be further restricted after the August 26 floods.
 
-## The Fallout of Russia’s Failed Drone Attack on Germany
-European nations join Berlin in punishing Moscow for an alleged unsuccessful attack on Leipzig airport.
+## Indonesia’s Emerging China Dependencies
+Is this the beginning of the end of Jakarta’s truly “free and active” foreign policy?
 
-## China Isn’t Scared of Trump’s Squeeze on Iran
-Beijing has plenty of leverage to deter Washington.
+## Why Australian Politics Is Shifting Right, Not Left
+The prevalence of nationalism, authoritarianism, and populism explains the rise of far-right politics in Australia.
 
-## Securing Navigation for Trans-Caspian Trade
-Since 2022, but particularly in 2026, hard maritime security issues on the Caspian Sea have started moving to the forefront.
+## The Real Key to the AI Race: Nanometers or Gigawatts?
+By 2030, the China-U.S. AI competition may be decided less by who builds the most advanced chips than by who deploys the most computing power.
 
-## Vietnam Sentences 11 to Death in Country’s Largest Ever Drug Trafficking Case
-The case dates back to March 2023, when four flight attendants were ‌caught carrying narcotics hidden in toothpaste tubes on a flight from Paris to Ho Chi Minh City.
+## In Cambodia, Floating Houses Are Stuck Aground as Climate Change Takes Hold
+Researchers are seeing a change in Cambodian weather patterns as climate change takes hold across the region.
 
-## Japan’s FOIP 3.0: Is Pragmatism That Delivers Resilience Enough?
-Japan’s updated vision is sharper and more self-interested.
-
-## Escaping the Escalation Trap in the Thailand-Cambodia Maritime Dispute
-Compulsory conciliation under UNCLOS could help both sides insulate sensitive negotiations from domestic political pressure.
-
-## Indonesia’s President Pitches His Country as Russia’s ‘Gateway’ to Southeast Asia
-Speaking at the Eastern Economic Forum in Vladivostok, Prabowo Subianto described his country as “a natural entry point to ASEAN" for investors.
-
-## The Japan-Thailand Relationship: Light and Shadow
-The benefits and vulnerabilities of deepening interdependence
-
-## The Climate Crisis Is Stretching the Nepali Military Beyond Its Limits
-The question here is not whether the military should be involved in disaster response, but how the military itself is responding, adapting, and transforming amid the climate crisis.
-
-## Australia’s Broken Hill: Where Children Are Sacrificed to Mining Interests
-A historical mining town in Australia’s outback is confronting severe lead-contamination health threats, disproportionately affecting Aboriginal children.
+## How the Chinese Government Has Controlled the Narrative on the Tibet Floods
+Chinese state media’s handling of the Tibet floods is following its usual pattern of restricted coverage, censorship, and emphasizing positive news.
 
 ## The Fruit of Patience: How Regional Shifts Ripened Turkey’s Path to Kurdish Reconciliation
 On Aug. 25, at the People’s Palace in Damascus, Mazloum Abdi announced the dissolution of the Syrian Democratic Forces, which he had commanded for a decade. Speaking first in Arabic and then in Kurdish, he said the force had joined the Syrian army and would no longer operate independently. 15 days e
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Rescuers race to save10-year-old Algerian boy trapped in deep well
+## UN votes to adopt new world map that reflects Africa’s true size
+The widely-used Mercator map is often criticised for visually exaggerating and centralising Western nations.
+
+## Five EU nations inch towards deal on migrant ‘return hubs’ by 2027
+Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.
+
+## Brazilian Supreme Court roiled by dispute between justices
+The country's highest court is considering investigations into two judges who have accused each other of wrongdoing.
+
+## Villagers vow to rebuild despite devastating mass demolition in West Bank
+Israeli forces' demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.
+
+## Moment two workers are pulled alive from Nepal tunnel
+Rescuers pulled two workers alive from a hydropower tunnel in Nepal
+
+## Indonesia wildfires send toxic haze across Southeast Asia
+Indonesia’s Kalimantan province, sending smoke and toxic haze across Southeast Asia.
+
+## Yemen’s army says recaptured key territory as clashes with Houthis continue
+Two days of fighting between government forces and Houthi fighters has left dozens dead on both sides, sources say.
+
+## Rescuers race to save 10-year-old Algerian boy trapped in deep well
 Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub, after he fell into an deep well.
-
-## US adds 162,000 jobs in August, raising Fed rate hike expectations
-Unemployment rate steady as public schools and food services lead the surge in US job growth for August.
-
-## The number 10 shirt must not retire with Messi
-Maradona and Messi each made the shirt their own. The next great Argentinian player should have that chance, too.
-
-## Bride walks down the aisle despite waist-deep flooding
-A couple chose to get married in the middle of severe flooding in the Philippines.
-
-## October 7 attack shapes Israel’s elections and fuels political blame
-Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures
-
-## ‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat
-Analysts say Argentina's president sees an opportunity to exploit Trump’s growing tensions with London.
-
-## Russian drone strikes Ukraine’s security service headquarters
-A Russian drone has struck Ukraine’s domestic intelligence headquarters in central Kyiv, injuring five people.
-
-## LIVE: Ipswich Town vs Liverpool – Premier League
-All the build-up alongside our live text commentary stream coverage as Bradley Barcola is set to make his Liverpool bow.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
