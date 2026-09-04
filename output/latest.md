@@ -1,67 +1,79 @@
 # AION Intelligence
 
-## What are the latest claims against Nigel Farage?
-A sting operation has abruptly overturned the Reform UK leader’s attempt to put financing scandals behind him
+## FirstFT: UK-EU alignment a ‘problem’ for US
+Also in today’s newsletter: Farage sting and latest OpenAI model
 
-## US charges ICE agent with lying about shooting of Venezuelan immigrant
-Officer charged with false statements over circumstances of shooting that fuelled uprising in Minnesota early this year
+## Luckin Coffee killed our lunch spot. Here’s what that says about geopolitics
+Half a decade on from a fraud scandal, the Chinese chain is thriving in New York City — and pushing out the locals
 
-## Nigel Farage and Reform UK hit by illicit-funding sting
-Undercover investigation shows party leader meeting a fake US supporter
+## China lashes back at US over G20 row ahead of Xi-Trump summit
+Beijing says Trump’s tariffs and Iran war energy crisis are damaging to global economy
 
-## Microsoft challenges data centre costs after pledging to protect ratepayers
-Tech giant appealed to Virginia Supreme Court over new rules requiring builders to fund transmission infrastructure upfront
+## The $275mn question from Guggenheim’s auditor
+KPMG warned the asset manager about weak controls within its business last year
 
-## OpenAI says it has overtaken Anthropic with its latest AI model
-ChatGPT maker claims its ‘Astra’ could be considered ‘artificial general intelligence’
+## UK failing to capitalise on Brexit, top Trump trade official says
+Jamieson Greer says Britain’s alignment with EU is a ‘problem’ for a US trade deal
 
-## US oil deal sparks ‘anger’ in Venezuela, says opposition leader
-María Corina Machado’s comments reflect widespread unease over agreement but stop short of criticising US President Donald Trump
+## Deutsche Bank led $1bn of troubled lending to Hollywood studio landlord
+German lender enabled debt-fuelled expansion of Hackman Capital Partners’ property empire
 
-## Nvidia’s $13bn deal cements its $5.5tn advantage
-It’s an investor, backer, supplier and guarantor for companies its Hugging Face acquisition potentially disrupts
+## The university degree is losing its lustre
+Technological and economic shifts are eroding the graduate premium
 
-## UAE billionaire’s son revealed as buyer of £190mn London mansion
-Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s most expensive purchases
+## Spain pushes for EU oil and gas tax to pay for climate change response
+Rising extreme weather costs fuel campaign ahead of new resilience strategy
 
-## Volkswagen to slash up to 50,000 jobs in historic restructuring
-German carmaker’s overhaul could also lead to plant closures as it contends with lacklustre sales and growing Chinese competition
+## Anthropic’s IPO set to test external trust with power over board
+Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose
 
-## Dear Brits, please save more
-The UK, like many countries, faces a major pensions shortfall
+## A UK bank windfall tax would be a terrible idea
+Further penalty would hit one of the key engines of growth in the economy
 
-## EU enters winter with lowest gas stocks on record
-Situation could become ‘problematic’, warns gas storage group head
+## Defence officials resist EU plan to curb reliance on US tech giants
+Brussels’ effort to reduce US technology dependence could create greater risks elsewhere, defence officials and contractors say
 
-## Star Citadel trader to step down amid tumult in energy markets
-Chris Foster to leave role at Ken Griffin’s hedge fund after making billions of dollars trading natural gas in Europe
+## Manipal Payment IPO price band fixed at ₹322-339; issue to open on Sep 9
+The IPO comprises a fresh issue of equity shares aggregating to ₹320 crore, along with an Offer for Sale (OFS) of up to 1.43 crore equity shares worth ₹485 crore by promoter Manipal Technologies.
 
-## Accel-backed Rentomojo sets ₹384-404 price band for IPO
-The Bengaluru-based platform plans to raise funds through fresh shares and an offer for sale by existing investors and its founder.
+## Sensex today | Stock Market Live: Markets open higher amid positive global cues; Sensex rises 560 pts, Nifty up 80 pts
+Sensex, Nifty, Share Prices LIVE: Markets opened on a positive note on Friday, September 4, 2026, with the Sensex rising 490 points and the Nifty 50 gaining 41 points in early trade, tracking overnight gains on Wall Street and easing US Treasury yields
 
-## Adobe appoints Anil Chakravarthy as new CEO, Shantanu Narayen to become executive chair
-The leadership change comes as Adobe seeks to defend its design software dominance amid growing competition and disruption from artificial intelligence
+## Cipla slips after Qilu Pembrolizumab deal; Morgan Stanley flags crowded field
+Cipla stock trades at ₹1,388, down 0.48% or ₹6.70 from its previous close of ₹1,394.70
 
-## Volkswagen board approves 50,000 additional job cuts and major restructuring
-The restructuring gives CEO Oliver Blume stronger backing as Volkswagen confronts high costs, weak demand and intensifying competition from Chinese automakers
+## HDFC Bank shares trade flat near day’s high
+HDFC Bank had hit a 52-week low of ₹698.50 in September 2026.
 
-## Tesla rolls out steering-wheel-free Cybercabs in Austin
-The rollout comes as Tesla seeks to prove its camera-only system can safely navigate streets while winning over sceptical American passengers
+## Nifty Prediction Today – September 4, 2026: Nifty futures: Exhibits positive bias
+Traders can consider intraday longs on Nifty futures (Sep)
 
-## Cipla’s US subsidiary partners with Qilu for Keytruda biosimilar
-The partnership combines Qilu’s development and manufacturing capabilities with Cipla’s US commercial presence to expand access to affordable cancer therapies
+## Nearly 20% rise in Indian patients at Singapore cancer centre in 2025
+Singapore’s Parkway Cancer Centre says 60-70% of Indian patients arrive with advanced or treatment-resistant cancers after exhausting options at home.
 
-## ‘Hawkeye’ in the midnight sky: ISRO’s first geosynchronous Earth observation satellite in orbit
-From 36,000 kilometres above Earth, EOS-05 will serve as India’s ‘eye-in-the-sky’, monitoring critical assets including remote borders and conflict zones.
+## Tata Chemicals says Kenya unit fully compliant, awaits ministry review; shares in red
+Stock declines 2.5% in early trade
 
-## This GDP growth number did not come out of nowhere: Chief Economic Adviser
-The fact that we didn’t have an upward revision to India’s FY26 GDP numbers under new methodology shows we are doing a good job covering all sectors, says CEA Anantha Nageswaran
+## How engineers in a WhatsApp group are guiding Nepal's tunnel rescue efforts
+The messaging group was set up by engineers before the wall of water, mud ​and rock crashed down the Trishuli valley in Nepal on August 26. It has since become a valuable tool alongside helicopters and heavy ⁠machinery in the race to find survivors.
 
-## OGA 2026 OPENS WITH STRONGER FOCUS ON MARKET ACCESS, REGIONAL PROJECTS AND ENERGY OPPORTUNITIES
-OGA 2026 OPENS WITH STRONGER FOCUS ON MARKET ACCESS, REGIONAL PROJECTS AND ENERGY OPPORTUNITIES
+## Markets turn green; Sensex jumps 580 points, Nifty tops 23,950 in early trade
+
+
+## Top stocks to buy today: Stock market recommendations for September 4, 2026 - check list
+Stock market recommendations: Capri Global Capital Ltd, Engineers India Ltd, and Acme Solar Holdings - these are the top stocks to buy today on September 4, 2026 recommended by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One.
+
+## Indian Railways set to get indigenous 280 kmph bullet trains by early 2027
+India could see the launch of its first bullet train service in 2027, with the Surat–Bilimora section of the Mumbai-Ahmedabad bullet train project expected to become operational by August that year.
 
 ## Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree & business
 What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment.
+
+## Stock market operations on September 4: Are NSE, BSE open or closed today for Janmashtami?
+
+
+## Volkswagen plans another 50,000 job cuts in biggest restructuring in 90 years
+Volkswagen announces its plan to cut an additional fifty thousand jobs by 2030 as part of a major restructuring effort aimed at enhancing the company's competitiveness and profitability. With declining sales and tougher competition from the electric vehicle market, Volkswagen is also exploring alter
 
 ## Sebi to tweak CAS, change method for derivative trade
 Consultation Paper On Settlement Prices Within A Week
@@ -69,44 +81,38 @@ Consultation Paper On Settlement Prices Within A Week
 ## Govt eyes auto cos-led model to fix EV charging on highways
 
 
-## Nvidia’s price hike plan may raise India’s AI infra costs
+## Over 17,000 people rescued in UP as floods affect 26 districts: Officials
+Relief teams have also been deployed to ensure food, essential supplies and healthcare reach affected families
 
+## Why ‘Naughty Boy’ satellite launch, ISRO's 1st success this year, is a giant leap for India
+EOS-05 would enable continuous monitoring of India and nearby regions, ISRO chairman V Narayanan has said.
 
-## EV shift puts auto parts MSMEs under pressure
+## Canada Indian student protest: Rights groups seek probe into enforcement action
+The groups called for immediate suspension of the exclusion orders and any removal action arising from the August 12 enforcement
 
+## CJP protest news LIVE Updates: Heavy security outside Parliament Street police station
+CJP protest news LIVE: The Delhi Police, however, has rejected allegations of political interference in the case after an interview of Swantantra Bhardwaj went viral.
 
-## 8th Pay Commission: Level 8 employee could earn up to Rs 28.89 lakh extra if 7% increment is implemented
-Employee bodies have argued that the current 3% annual increment is not sufficient to keep pace with rising expenses. Their recommendations have ranged from 5% to 7%. If such proposals are accepted, a higher increment rate of 5% or 7% would have a direct impact on the salary progression of central g
+## Centre may soon regulate what govt officials post on social media, talks on: Report
+Centre is considering introducing a code of conduct to stop officials from posting videos or expressing opinions on inappropriate or sensitive subjects.
 
-## Bank holiday on Janmashtami: Where are banks closed on Sept 4, 2026? Check list
-Indian banks across various states will be closed on September 4 to observe Krishna Janmashtami. Customers should be aware that further closures will occur throughout the month for additional festivals and elections. It's essential to check local holiday schedules for branch services, although digit
+## Indian-origin man added to FBI's ‘Most Wanted Fraudsters’ List; who is Manjit Bedi
+The FBI indicated that Bedi has fled to India and has offered $150,000 for information leading to his arrest and conviction.
 
-## Indian Railways set to get indigenous 280 kmph bullet trains by early 2027
-India could see the launch of its first bullet train service in 2027, with the Surat–Bilimora section of the Mumbai-Ahmedabad bullet train project expected to become operational by August that year.
+## Keralam govt asked to appoint S S Lal as healthcare sector special monitor
+Keralam govt asked to appoint S S Lal as healthcare sector special monitor
 
-## GSLV-F17 rocket successfully places heaviest earth observation satellite into intended orbit: ISRO
-After a flight journey of about 19 minutes, the satellite got separated from the launch vehicle and was successfully placed in the sub-geosynchronous orbit.
+## HT Morning Brief Sept 4: ISRO launches EOS-05; CJP protest today; Rohit Sharma gets BCCI boost
+Today’s big headlines in 5 minutes: Your quick brief on national and global events, entertainment and sports.
 
-## ISRO's GSLV-F17 carrying EOS-05 earth observation spacecraft takes off from Sriharikota
-ISRO launched GSLV-17 carrying Earth-observation satellite EOS-05 from Andhra Pradesh at 2:55am IST, marking its second major launch attempt of 2026.
+## Deleveraging clouds China’s AI trade as rising US Treasury yields, inflation fears persist
+Chinese leveraged traders continue to unwind their bets on stocks, as unease over rising global bond yields and a lingering oil shock add uncertainty to the artificial intelligence trade. The outstanding balance of stocks bought with borrowed money dropped to 2.62 trillion yuan (US$390.1 billion) on
 
-## India ready to support peace efforts, Jaishankar tells Zelenskyy in Kyiv
-Jaishankar’s visit came against the backdrop of an increase in Russian attacks on merchant shipping in the Black Sea, which have led to death of five Indians
+## Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities
+The artificial intelligence boom has signalled growing risks in the US economy and capital markets, with a setback in the technology rally potentially triggering a sharp correction in US assets and weakening the dollar, according to a Nomura report. “The AI boom has masked a rising US risk premium,”
 
-## India sends more relief supplies to Nepal days after devastating flash floods
-New Delhi had also sent a team of doctors and paramedics as well as a technical contingent along with equipment for search and rescue operations.
-
-## TMC MP Mahua Moitra summoned by Diamond Harbour police in West Bengal over alleged communal remarks
-Moitra had posted on X alleging that Muslim officers in the state administration were deliberately kept out of a programme attended by Amit Shah in Bengal.
-
-## ‘We’re students' A team, decide amongst yourself': CJP's Abhijeet Dipke reacts to ‘B team’ allegations
-Abhijeet Dipke claimed that different political parties were working on the issue of government schools and students and questioned by the BJP objected to it.
-
-## Retail sugar price drops 3.85% to ₹62.57/kg in a week: Govt data
-A retailer typically holds 10-15 bags of sugar, each weighing 50 kg. Only once fresh stock is procured at the lower rate will retail prices adjust accordingly.
-
-## Bengal’s new anti-graft body inspects factories of TMC veteran Firhad Hakim
-A West Bengal anti-corruption commission inspected two factories owned by former minister Firhad Hakim, who called the move “character assassination”.
+## Boost for EVs: Chinese carmaker Chery to begin testing solid-state batteries next year
+Chery Automobile, China’s largest car exporter by deliveries, will begin testing its solid-state batteries next year, aiming to spearhead commercialisation of a technology likely to further spur the electrification of the global automotive industry. Yin Tongyue, the chairman of the state-owned carma
 
 ## Hong Kong poised to top New York, London in finance-hub ranking: GFCI creator
 An Asian city will eventually overtake London and New York as the world’s leading financial centre, with Hong Kong well placed to compete for the top spot given its legal predictability and low tax burden, according to the creator of a closely watched ranking of financial hubs. “It’s going to happen
@@ -122,15 +128,6 @@ Hong Kong’s food and beverage (F&B) operators, both new and existing players, 
 
 ## About 4 in 5 young, affluent investors in mainland China turn to offshore assets: study
 Young Chinese investors are increasingly turning to offshore assets for wealth preservation and diversification, with more than four-fifths of those surveyed reporting some exposure outside mainland China, a recent study by the CFA Institute showed. About 81 per cent of young Chinese investors surve
-
-## Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry
-US tech titans including Nvidia CEO Jensen Huang and Tesla’s Elon Musk are pressing global powers to curb artificial intelligence regulations, warning that strict guard rails risk suffocating innovation as the US and China compete in an intensifying technological arms race. Speaking at a G20 meeting
-
-## Amid global risks, younger investors favour tangible bars as paper gold loses shine
-Sussi Ye began buying gold bars in small batches at the start of the year, slowly building a hoard now worth about 200,000 yuan (US$29,700). Despite the metal’s price swings since then, she has not sold a single gram. “I prefer investing in physical gold instead of gold-linked financial products,” s
-
-## Mainland Chinese investors buy Hong Kong tech stocks in AI pivot, sell financials
-Chinese mainland investors rotated into Hong Kong stocks tied to artificial intelligence and pulled out of companies in traditional industries in August, taking advantage of a market dip to boost bets on the world’s most cutting-edge technology. AI model developer MiniMax Group logged net buying of 
 
 ## Peace in Sudan Can Only Flower After a Weapons Embargo
 The case for the White House’s Security Council resolution on Sudan, made by two senior administration officials.
@@ -156,6 +153,12 @@ Some Israelis worry that he might manufacture a security crisis ahead of the vot
 ## Ukraine’s Mood Swing
 Public sentiment is turning against Zelensky amid corruption concerns and years of war.
 
+## The Japan-Thailand Relationship: Light and Shadow
+The benefits and vulnerabilities of deepening interdependence
+
+## The Climate Crisis Is Stretching the Nepali Military Beyond Its Limits
+The question here is not whether the military should be involved in disaster response, but how the military itself is responding, adapting, and transforming amid the climate crisis.
+
 ## Australia’s Broken Hill: Where Children Are Sacrificed to Mining Interests
 A historical mining town in Australia’s outback is confronting severe lead-contamination health threats, disproportionately affecting Aboriginal children.
 
@@ -173,12 +176,6 @@ A more integrated and flexible power system could give Central Asian states grea
 
 ## Security Is the Key to Resolving the Thai-Cambodia Border Conflict
 “The first step is security: uphold the ceasefire, reduce military risks, clear mines, strengthen law enforcement, and cooperate against criminal networks.”
-
-## K-Beauty’s Brazil Push Signals a New Type of Korean Diplomacy
-As strange as it sounds, the Korean beauty industry is playing an increasingly important role in Seoul’s foreign policy calculus.
-
-## ‘We Are Horrified’: Academic Freedom at Risk With Uzbek Professor’s Arrest in Kazakhstan
-Dr. Ikboljon Qoraboyev's arrest on espionage charges has sent shockwaves through Kazakhstan’s increasingly internationalized academic sector.
 
 ## The Future of Combat Medicine
 War has always been a brutal engine of medical innovation, running on a feedback loop: Civilian breakthroughs are adapted for the battlefield, while battlefield necessity pushes advances back into civilian care. We asked three experts to identify the innovations from the last five years most likely 
@@ -228,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: US rules out Iran talks until ship attacks stop
-Iran's First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.
+## No shelter or water, yet Lebanese return home, defying Israel.
+Residents are returning to villages in southern Lebanon devastated by Israel’s invasion.
 
-## Are Trump’s AI videos just memes or psychological warfare?
-Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.
+## Argentina’s Milei threatens sanctions over Falklands oil drilling
+Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands.
 
-## Tunisia’s top court upholds conviction of opposition figures, activists
-Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.
+## Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal
+Brazil forward Gabriel Martinelli transfers to Saudi Pro League side Al-Hilal from Premier League champions Arsenal.
 
-## DR Congo joins countries pledging embassy move to Jerusalem
-DR Congo has renewed its pledge to move its embassy in Israel from Tel Aviv to Jerusalem.
+## Mladic’s body arrives to full military honours in Serbia
+The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.
 
-## Why are people calling Venezuela oil deal a new form of US colonialism?
-Critics call the US multi-billion-dollar oil deal in Venezuela modern-day colonialism.
+## Entertainment over policy? White House arcade games ignite backlash
+White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.
 
-## Burnham, Macron talk border security and stronger Europe-UK ties
-New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.
+## OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns
+OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.
 
-## NYC’s AI ban through grade 8 sets stage for rest of US, experts say
-The ban will last for one year and affect 600,000 students.
+## Missouri Supreme Court blocks Trump-backed map from November’s midterms
+Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.
 
-## Nepal flood victims to be identified through DNA
-Nepal flood victims to be identified through DNA
+## Why did Trump meet with anti-Zionist Jewish leaders?
+US President Donald Trump met six anti-Zionist rabbis privately amid protests over Israeli military conscription.
+
+## Beyond GDP numbers: What is India’s growth really delivering?
+Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
 
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
@@ -272,9 +272,6 @@ ESG was once shorthand for responsible business. Now, as US investors retreat wh
 
 ## Falling Global Shield of International Accounting Networks: How the Evergrande Ruling Reshapes Audit Networks and India’s Global Firm Dreams
 Seasoned finance professional Dr. (CA) Ashok Haldia examines how the Hong Kong High Court’s Evergrande ruling could erode the liability shield of global accounting networks, force structural changes in the Big Four model, and offer India a critical opportunity to build globally competitive accountin
-
-## India Inc pays record dividends in FY26, but payout ratio slides
-In FY26, Indian firms made history by distributing a staggering ₹4.5 lakh crore in dividends, marking a remarkable 15% annual growth rate over five years. A significant portion of these dividends, two-thirds, came from the banking, finance, and IT sectors. Notably, the dividend payout ratio has tape
 
 ## RBI's swap facility fuels India's forex reserves to defend rupee
 The Reserve Bank of India's special swap windows raised a cumulative $136.3 billion by end‑August exceeding market estimates by a wide margin, likely pushing foreign reserves past $750 billion and giving the central bank firepower to defend the rupee, a report said on Thursday.
