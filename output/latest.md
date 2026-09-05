@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Reform in hot water … again
+Plus, the FT sits down with chancellor John Healey
+
 ## Trump vows to open Maga Inc’s $400mn war chest after Republican pressure
 Members of US president’s party urged him to open the purse strings ahead of crucial November midterm election
 
@@ -7,7 +10,7 @@ Members of US president’s party urged him to open the purse strings ahead of c
 UK chancellor refuses to rule out higher taxes on banks in his first Budget, but tells FT he will press ahead with City deregulation drive
 
 ## Maga’s favourite combat sport takes off in China
-The Las Vegas-headquartered UFC now has 20 Chinese fighters on its roster
+The Las Vegas-based UFC now has 20 Chinese fighters on its roster
 
 ## Healey puts Britain on notice for tough Budget in ‘more dangerous world’
 New chancellor tells the FT that he and Prime Minister Andy Burnham are determined ‘to meet the fiscal rules’
@@ -20,9 +23,6 @@ Expectations for Federal Reserve rate rise in September tick up after strong rep
 
 ## Nigel Farage insists Reform has ‘broken no law’ after key advisers step down
 Party’s conference in Birmingham overshadowed by alleged attempts to seek illegal overseas funding
-
-## Farage’s merry band used to enjoy conference. Not this year
-After Reform UK was hit by an undercover sting, the old jokes did not land as they used to
 
 ## Prosecutors seize €65mn from McKinsey in French tax fraud probe
 Fine remains provisional as investigation continues into the consultancy’s tax practices
@@ -45,6 +45,12 @@ Group’s share price has climbed by 40 per cent in the past year
 ## How VW’s boss secured a shock victory in battle to reshape carmaker
 Carmaker’s slimdown deal is a coup for its boss but governance issues have been kicked down the road
 
+## India drug regulator flags Abhayrab rabies vaccine batch as substandard, potentially spurious
+The latest finding raises fresh concerns over a vaccine relied upon widely in India to prevent the otherwise nearly always fatal infection
+
+## Tata Motors turns to Iveco shareholders to seal €3.82-billion takeover
+With regulators cleared and financing secured, the Italian truck maker’s investors now hold the key to determining the deal’s outcome
+
 ## Arcil eyes collection services, MFI as new growth avenues ahead of ₹733-crore IPO
 Preparing to launch its ₹733-crore IPO next week, with the price band fixed at ₹132-139 a share
 
@@ -63,11 +69,17 @@ The move gives a larger share of high pressure high temperature (HPHT) gas to th
 ## Global bond turmoil
 
 
-## Uttar Pradesh to sell sugar at ₹50-52/kg in Lucknow
-Move comes amid drop in retail, wholesale prices of the commodity across the country
+## HUL plans capex boost; eyes entry into new areas
 
-## Bus fare hike in Karnataka to be decided after committee report
-The final decision on the quantum of the fare hike will be taken by Chief Minister DK Shivakumar and the Cabinet after the committee submits its recommendations
+
+## Discretionary spending by households rose in FY25
+
+
+## As protein demand rises, brands go for smaller packs
+
+
+## Unfinished agenda larger than I thought: Axis CEO
+
 
 ## Breather for India? Trump’s Russia sanctions bill may be stalled for now; could have led to 100% tariffs
 Lawmakers are concerned that the legislation could give President Donald Trump broader authority to impose tariffs and potentially push oil prices higher. Meanwhile, India’s reliance on Russian crude has increased sharply and is at record levels.
@@ -80,18 +92,6 @@ Air India terminated a pilot's employment after he tested positive for a psychoa
 
 ## Gadkari clears Rs 5,000 IIT-Delhi fix for old diesel vehicles; can cut pollution by 90%
 Speaking at an event organised by the Society of Indian Automobile Manufacturers (Siam), Gadkari said the technology, developed from an innovation at IIT-Delhi, had successfully completed testing. The devices can be fitted on BS-IV, BS-III and older diesel vehicles, bringing their emissions to level
-
-## Nearly $750 billion shield: How India built record forex reserves amid the US-Iran war
-How has the RBI managed to secure high forex reserves in times of global economic uncertainty? What’s worked for India and why does the rise in forex cover matter? And, importantly, is it sustainable?
-
-## NSE IPO could be worth Rs 30,000 crore after Sebi gives green signal
-India's market regulator Sebi has approved the National Stock Exchange's initial public offering. This approval allows the country's largest bourse to list after nearly a decade of delays. The proposed IPO could be worth around Rs 30,000 crore, making it one of India's largest. Existing shareholders
-
-## 'PM Modi warned us': Belgium PM on trade threat to Europe, takes veiled dig at China
-
-
-## Silver crashes 40%, but buyers vanish; 2,000 tonnes could now pile up in India
-Silver prices have fallen steadily over the past seven months, following an extraordinary rally that pushed the metal more than 300% higher year-on-year. In January, silver crossed Rs 4 lakh per kg on the Multi Commodity Exchange for the first time.
 
 ## Exclusive-India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
 INDIA-RABIESVACCINE-COUNTERFEIT:Exclusive-India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
@@ -237,6 +237,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’
+US President Donald Trump has repeated an earlier warning that the US may attack Iran's Pickaxe Mountain "very soon".
+
+## ‘Small potatoes’: US President Trump downplays war on Iran
+Trump tells reporters the US is 'not fighting right now' despite a recent exchange of fire with Iran.
+
+## Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics
+Tunisia faces criticism as prosecutions of journalists continue under President Kais Saied's rule.
+
+## Mock Republican convention website tops Google, redirects to Epstein files
+Democratic lawmakers poke fun at prank website, while Republicans slam 'fake news' and redirect users to real one.
+
+## Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra
+Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.
+
 ## Costa Rican president signals openness to domestic US military operations
 President Laura Fernandez notes that Congress would need to approve any US military operations within the country.
 
@@ -245,21 +260,6 @@ Jose Mourinho's winning start to his second spell at Real Madrid ends with a 1-0
 
 ## US regulator opens safety investigation as Tesla launches driverless taxis
 The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.
-
-## Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump
-Steve Witkoff and Jared Kushner will travel to Ukraine and Russia this weekend to help restart peace negotiations.
-
-## Sabalenka interrupts US Open match against Rakhimova over cannabis smell
-World number one Aryna Sabalenka's straight-sets US Open win against Kamilla Rakhimova stopped by smell of cannabis.
-
-## Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win
-Bradley Barcola makes his debut as Alexander Isak scores both Liverpool goals in 2-0 win at Ipswich Town.
-
-## Nigel Farage heckled as he denies Reform UK took illegal funding
-Reform UK leader Nigel Farage was heckled by protesters on Friday, as he addressed the party’s conference in Birmingham.
-
-## Will Europe pay the US to provide military aid to Ukraine?
-US President Donald Trump laments past financial support for Ukraine's war effort and has vowed to claw the money back.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
