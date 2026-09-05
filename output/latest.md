@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Reform in hot water … again
-Plus, the FT sits down with chancellor John Healey
+## Uber picks a side in driver vs robotaxi wars: its own
+Since it operates in so many markets, Uber can easily fall into the trap of talking from both sides of its mouth
 
-## Trump vows to open Maga Inc’s $400mn war chest after Republican pressure
-Members of US president’s party urged him to open the purse strings ahead of crucial November midterm election
+## The gloves are starting to come off in markets
+Wall Street analysts and investors are more willing to directly criticise Trump, particularly since a Treasury intervention on bonds
 
-## ‘There’s a desire to see steadiness’: Healey sounds pro-business note as he talks up growth
-UK chancellor refuses to rule out higher taxes on banks in his first Budget, but tells FT he will press ahead with City deregulation drive
+## Is Keynesianism dead?
+When debt is the disease, fiscal medicine may be as likely to harm as heal
 
-## Maga’s favourite combat sport takes off in China
-The Las Vegas-based UFC now has 20 Chinese fighters on its roster
+## ‘What the blazers?’ The long fight over school uniform costs
+Successive governments have grappled with the problem without managing to impose a standardised policy
 
-## Healey puts Britain on notice for tough Budget in ‘more dangerous world’
-New chancellor tells the FT that he and Prime Minister Andy Burnham are determined ‘to meet the fiscal rules’
+## Camaraderie and nostalgia: how Germany’s far-right AfD is winning the east
+The party is predicted to secure than 40% of the vote in Saxony-Anhalt on Sunday
+
+## The prime minister won’t cut spending — here’s how I’m cutting mine
+Cutting back feels self-defeating but October’s Budget will be punishing for broad-shouldered Britons
+
+## How to die with less than £325,000
+Finding ways to reduce your taxable estate to below the death duty threshold has become a burning issue — but advisers urge clients to keep a cool head
+
+## Rerun or sequel? Naomi Klein and Astra Taylor on end times fascism
+How nationalists, religious fundamentalists and tech titans turned their backs on a shared future
 
 ## Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO
 AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week
-
-## US economy smashes forecast with 162,000 jobs added in August
-Expectations for Federal Reserve rate rise in September tick up after strong report
-
-## Nigel Farage insists Reform has ‘broken no law’ after key advisers step down
-Party’s conference in Birmingham overshadowed by alleged attempts to seek illegal overseas funding
 
 ## Prosecutors seize €65mn from McKinsey in French tax fraud probe
 Fine remains provisional as investigation continues into the consultancy’s tax practices
@@ -45,29 +48,41 @@ Group’s share price has climbed by 40 per cent in the past year
 ## How VW’s boss secured a shock victory in battle to reshape carmaker
 Carmaker’s slimdown deal is a coup for its boss but governance issues have been kicked down the road
 
-## India drug regulator flags Abhayrab rabies vaccine batch as substandard, potentially spurious
-The latest finding raises fresh concerns over a vaccine relied upon widely in India to prevent the otherwise nearly always fatal infection
+## EAM S Jaishankar to address annual high-level UNGA session on September 26
+This will also be the last high-level UN General Assembly session for current UN Secretary-General Antonio Guterres, whose second five-year tenure as head of the global organisation ends in December this year
 
-## Tata Motors turns to Iveco shareholders to seal €3.82-billion takeover
-With regulators cleared and financing secured, the Italian truck maker’s investors now hold the key to determining the deal’s outcome
+## Delhi sees showers; min temp drops to 24.8 degree Celsius
+The India Meteorological Department (IMD) has issued a yellow-to-orange alert for the day
 
-## Arcil eyes collection services, MFI as new growth avenues ahead of ₹733-crore IPO
-Preparing to launch its ₹733-crore IPO next week, with the price band fixed at ₹132-139 a share
+## Pranav Constructions raises ₹84 crore from anchor investors; IPO to open on Sep 7
+The company allocated 67.94 lakh equity shares at ₹124 apiece to anchor investors, according to a circular uploaded on the BSE website
 
-## SPML Infra sets up BESS manufacturing unit in Pune, develops 104.4 kWh battery pack
-The company announced that its new battery pack has passed key international safety and performance certifications, advancing its commercial deployment
+## India’s BRICS Chairship to host $1 trillion Global Sovereign Capital summit
+The iBRICS summit is designed to directly connect sovereign capital with bankable infrastructure, energy and digital capacity projects across the 21 BRICS member states and partner nations
 
-## IPO pipeline gathers pace as four firms eye ₹3,362 crore next week
-SEBI on Friday has cleared four IPOs including that of NSE, RKB Global, Monomark Engineering (India) and Cosmic PV Power
+## What integrated sugar-ethanol-CBG projects mean for farm-level economics
+The real promise is converting greater value from every tonne of cane into better economics for every acre that produces it
 
-## SEBI clears NSE IPO, paving way for market debut
-Updated red herring prospectus, price band expected next week; exchange likely to list by 25th September
+## Rethinking edible oils through the lens of health and nutrition
+A nutritionally balanced oil that remains accessible to households across income groups contributes meaningfully to dietary quality, food resilience and long-term food security
 
-## Govt to allocate HPHT gas for CNG, PNG as per CGD entity’s consumption
-The move gives a larger share of high pressure high temperature (HPHT) gas to those city gas distribution (CGD) companies
+## Premiumisation of Indian staples: Why consumers pay more attention to ghee, honey, jaggery and cold-pressed oils
+The distinction—authentic commitment to purity versus opportunistic marketing—is the real driver of transformation in the Indian pantry
 
-## Global bond turmoil
+## Anthropic IPO timeline shifts toward mid-October
+The revised timeline comes as Anthropic works to finalise a major credit facility and prepares analysts for meetings ahead of the offering
 
+## Tesla’s wheel-free Cybercabs face US safety probe just a day after launch
+The US safety regulator is conducting an investigation into Tesla's innovative taxis that operate without a steering wheel. The National Highway Traffic Safety Administration is assessing whether these vehicles adhere to federal safety regulations. Following their launch in Austin, Texas, on Thursda
+
+## Trump team quietly closed probe into businessman eyed by US to broker Venezuela oil deal
+The Trump administration sought Alejandro Betancourt's help for a major US oil deal with Venezuela. Federal prosecutors recently closed their investigation into Betancourt after administration officials intervened. Betancourt was investigated as part of a probe into alleged embezzlement and launderi
+
+## 'Don’t want to lose our country’: Trump to spend $500 m to help Republicans win midterms
+In a strategic move, Donald Trump intends to allocate up to $500 million from MAGA Inc to bolster Republican candidates in key House and Senate races. This robust funding effort is particularly timely as concerns have been raised about the PAC's substantial cash reserves. Trump emphasizes his contro
+
+## Anthropic IPO: AI giant delays public offering, eyes mid-October market debut
+Anthropic has postponed its initial public offering, now aiming for mid-October for its market launch. Investors are optimistic about a potential $2 trillion valuation for the artificial intelligence firm. The company is also securing a major $15 billion credit facility ahead of upcoming analyst mee
 
 ## HUL plans capex boost; eyes entry into new areas
 
@@ -81,41 +96,32 @@ The move gives a larger share of high pressure high temperature (HPHT) gas to th
 ## Unfinished agenda larger than I thought: Axis CEO
 
 
-## Breather for India? Trump’s Russia sanctions bill may be stalled for now; could have led to 100% tariffs
-Lawmakers are concerned that the legislation could give President Donald Trump broader authority to impose tariffs and potentially push oil prices higher. Meanwhile, India’s reliance on Russian crude has increased sharply and is at record levels.
+## India moves to buy 5 more S-400s after Op Sindoor success; Russia sends cost proposal
+The decision for approval will be taken by the Cabinet Committee on Security after the cost is finalised and a green signal obtained from the finance ministry.
 
-## Neighbour held 4.27 acres for 40 years; 80 year old original owner gets his title restored
-Long-term occupation of a property does not automatically amount to adverse possession. To establish such a claim, there must also be a clear assertion of hostile title along with the necessary animus.
+## RSS' reply to criticism over Mohan Bhagwat’s UK, US trips: ‘We expect debate, let them speak’
+Mohan Bhagwat, who previously visited the United States and Canada, is now in the United Kingdom as part of his three-nation RSS centenary outreach.
 
-## Phuket-Delhi flight incident: Air India terminates pilot who tested positive for drugs
-Air India terminated a pilot's employment after he tested positive for a psychoactive substance. This action followed an incident where the aircraft experienced multiple hydraulic failures. The flight encountered an altitude upset, causing injuries to passengers and crew. The Aircraft Accident Inves
+## Needle found inside 1-yr-old’s body in Kerala, parents allege medical negligence at NICU
+The child underwent surgery at Kozhikode Government Medical College Hospital in July, while Kottayam authorities have ordered an inquiry.
 
-## Gadkari clears Rs 5,000 IIT-Delhi fix for old diesel vehicles; can cut pollution by 90%
-Speaking at an event organised by the Society of Indian Automobile Manufacturers (Siam), Gadkari said the technology, developed from an innovation at IIT-Delhi, had successfully completed testing. The devices can be fitted on BS-IV, BS-III and older diesel vehicles, bringing their emissions to level
+## Keralam minister Roji flags ‘divisive agendas’ in higher education on Teachers’ Day
+Keralam minister Roji flags ‘divisive agendas’ in higher education on Teachers’ Day
 
-## Exclusive-India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
-INDIA-RABIESVACCINE-COUNTERFEIT:Exclusive-India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
+## 8 Tamil Nadu engineering students killed in Kerala, their car rammed into parked lorry
+The car in which the youths were travelling collided with a lorry parked on the highway at Panambikkunnu in Kaipamangalam.
 
-## India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
-INDIA-RABIESVACCINE/COUNTERFEIT (EXCLUSIVE, PIX):EXCLUSIVE-India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows
+## ‘ ₹250 crore per km’: Congress MP stuck on Dwarka Expressway amid Delhi rain, hits out at Modi government
+Congress MP Brijendra Singh shared a video of him stuck at a tunnel of the Dwarka Expressway due to waterlogging.
 
-## Sixth, last accused in UP illegal cracker factory blast arrested after encounter
-Sixth, last accused in UP illegal cracker factory blast arrested after encounter
+## Belgian PM's veiled dig at Trump tariffs during India visit: 'Decide something on Monday, revoke it on Wednesday'
+Speaking at a high-level dialogue on the India-EU FTA, Bart De Wever criticised the growing push towards protectionism and unpredictable tariff measures.
 
-## Dialogue, not oil bans, will end Ukraine war: Jaishankar defends India’s energy buys
-“Let’s diagnose the problem right — the issue is a conflict, it’s a war, and the solution to that is not in trade, the solution to that is in negotiations.”
+## Suvendu Adhikari unveils new West Bengal tourism logo, plans ₹500 crore sector boost
+West Bengal CM Suvendu Adhikari unveils a new tourism brand, announces ₹500 crore investment, better connectivity and tiger release in Buxa.
 
-## Kolkata school teacher suspended for asking student to wipe off tilak: Adhikari
-S Chowdhury, the school’s secretary, told HT that the action was taken after the institution received a notice from the district inspector (DI) of schools on Thursday
-
-## Union minister Chirag Paswan’s party seeks FIR against ‘influencer’ Swatantra Bhardwaj, calls for strict action
-Union minister Chirag Paswan’s party filed a complaint at Parliament Police Station against Swatantra Bhardwaj, alleging that he had falsely used Paswan’s name.
-
-## Beach view, Venice and a GDP dig: Opposition takes swipe at Centre over waterlogging at Delhi airport
-Heavy rainfall in Delhi inundated several roads and left the IGI Airport waterlogged, causing inconvenience to the passengers.
-
-## 275 Indians still missing in Nepal flash floods that have killed over 1,200
-Jaiswal said 1,907 Indian nationals who were in China on August 26 have crossed into Nepal and no Indian travellers are stranded in the Tibet Autonomous Region
+## Inside Hong Kong’s red-hot Pokemon card market, where Pikachus sell like stocks
+Not so long ago, Pokemon cards were little more than schoolyard treasures in Hong Kong. But the trading cards are now evolving into a sophisticated new asset class, driven by millennial nostalgia and the forces of global capital. In today’s red-hot market – where rare Pikachus sell for vast sums and
 
 ## Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate
 The latest round of the Hong Kong government’s Silver Bonds programme has attracted a record number of subscriptions in terms of both quantity and value, as the city’s elderly investors seize the opportunity to secure better returns than those offered by bank deposits. Investors submitted 478,000 bi
@@ -137,9 +143,6 @@ Chinese leveraged traders continue to unwind their bets on stocks, as unease ove
 
 ## Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities
 The artificial intelligence boom has signalled growing risks in the US economy and capital markets, with a setback in the technology rally potentially triggering a sharp correction in US assets and weakening the dollar, according to a Nomura report. “The AI boom has masked a rising US risk premium,”
-
-## Boost for EVs: Chinese carmaker Chery to begin testing solid-state batteries next year
-Chery Automobile, China’s largest car exporter by deliveries, will begin testing its solid-state batteries next year, aiming to spearhead commercialisation of a technology likely to further spur the electrification of the global automotive industry. Yin Tongyue, the chairman of the state-owned carma
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -237,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’
-US President Donald Trump has repeated an earlier warning that the US may attack Iran's Pickaxe Mountain "very soon".
+## ‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire
+The PIMS nurse who saved one newborn recalls the fire, the screams and the 14 babies she could not save.
 
-## ‘Small potatoes’: US President Trump downplays war on Iran
-Trump tells reporters the US is 'not fighting right now' despite a recent exchange of fire with Iran.
+## UN approves new map showing Africa’s true size
+The UN General Assembly has backed a resolution to change to maps that more accurately show the true size of Africa.
 
-## Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics
-Tunisia faces criticism as prosecutions of journalists continue under President Kais Saied's rule.
+## Blasts at Bolivian military base kill at least 10, injure dozens
+Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.
 
-## Mock Republican convention website tops Google, redirects to Epstein files
-Democratic lawmakers poke fun at prank website, while Republicans slam 'fake news' and redirect users to real one.
+## Malaysia declares emergency in Sarawak as haze from Indonesia worsens
+Country implements state of emergency in Sarawak's Serian district after air pollution reaches 'hazardous' levels.
 
-## Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra
-Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.
+## Did Israel’s destruction of Gaza worsen its water crisis?
+Scientists say Israel’s destruction of Gaza’s sewage system may have worsened the Mediterranean's algae bloom crisis.
 
-## Costa Rican president signals openness to domestic US military operations
-President Laura Fernandez notes that Congress would need to approve any US military operations within the country.
+## Trump sends envoys to Russia, Ukraine with new peace plan
+Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.
 
-## Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat
-Jose Mourinho's winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.
+## After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground
+The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.
 
-## US regulator opens safety investigation as Tesla launches driverless taxis
-The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.
+## ‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza
+Human rights advocates call for diplomatic measures to guarantee flotilla safety and end Israel's deadly Gaza blockade.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
