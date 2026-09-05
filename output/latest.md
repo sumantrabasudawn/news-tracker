@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## US strikes three Iranian oil tankers in response to attacks on warships
+Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict
+
 ## Trump envoys take Ukraine peace proposal to meeting with Putin
 Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit
 
@@ -14,9 +17,6 @@ Rightwing party’s Treasury spokesperson attempts to shift attention from illic
 
 ## Masked protesters block Dover port roads
 Port operator says services back to normal after ‘public order incident’ affected ‘all routes in and out’
-
-## US strikes three Iranian oil tankers in response to attacks on warships
-Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict
 
 ## ‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials
 The US president has tried to impose new rules just weeks before election day
@@ -90,6 +90,9 @@ The Trump administration sought Alejandro Betancourt's help for a major US oil d
 ## 'Don’t want to lose our country’: Trump to spend $500 m to help Republicans win midterms
 In a strategic move, Donald Trump intends to allocate up to $500 million from MAGA Inc to bolster Republican candidates in key House and Senate races. This robust funding effort is particularly timely as concerns have been raised about the PAC's substantial cash reserves. Trump emphasizes his contro
 
+## Allahabad HC dismisses plea seeking FIR against spiritual leader Rambhadracharya
+Allahabad HC dismisses plea seeking FIR against spiritual leader Rambhadracharya
+
 ## Coal shortage deepens power crisis in Punjab, generation drops by 1,500 MW: Minister
 Coal shortage deepens power crisis in Punjab, generation drops by 1,500 MW: Minister
 
@@ -110,9 +113,6 @@ Twenty nine people were killed in Jhiram Valley attack in Chhattisgarh in 2013 a
 
 ## Third arrest in Ketan Agarwal murder case: ‘Lover’ Chetan’s friend held as ‘he knew of earlier murder plan’
 The 22-year-old, identified as Ritesh Hange, is reportedly a friend of Chetan, PTI news agency reported citing officials.
-
-## PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’
-PM Modi was speaking at Delhi University's Sree Ram College of Commerce on its centenary celebrations on Saturday.
 
 ## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
 The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Shoppers interact with Hong Kong’s first robot shopkeeper
-Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.
+## Building collapses after heavy rain in northern India
+A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.
 
-## Two pilots killed after Greek fighter jet crashes during an air show
-Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.
+## Why is Argentina reigniting the Falklands dispute?
+President Javier Milei says sovereignty over the islands remains a national objective.
 
-## Thousands protest in Croatia to demand government clean up toxic waste
-Demonstrators in Zagreb accuse Croatia's government of dragging its feet on a hazardous waste scandal.
+## Everton vs Manchester United: Premier League – prediction, teams, lineups
+Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip.
 
-## Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war
-Both Russia and Ukraine vow not to strike each other's capitals for three days during talks in Moscow and Kyiv.
+## Colombian government reports three killed in rebel attack on military post
+Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.
 
-## India crush Pakistan at T20 Asia Cup with record-breaking bowling display
-India claim seven-wicket win after Pakistan lose 10 wickets for just 28 runs as they are bowled out for 55.
+## Al Jazeera reporter challenges Huckabee over Israeli settler pogroms
+Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority
 
-## Germany’s far-right AfD eyes historic first in state election
-Germany’s far-right AfD is projected to take power in one of the country’s 16 states for the first time.
+## France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’
+Niger's government has widened its blame to unnamed neighbours a week after the assault on a military base.
 
-## Haaland heads Man City to the top of Premier League with win over Coventry
-Norwegian scores only goal of unconvincing home win against newly promoted Coventry City.
+## Jerusalem Daily: raids, settlers & sieges
+Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.
 
-## Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
-The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.
+## Cuban and Afghan immigrants deported from US under Trump arrive in Guyana
+The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
