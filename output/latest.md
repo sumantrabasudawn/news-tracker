@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Trump envoys take Ukraine peace proposal to meeting with Putin
+Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit
+
+## Trump and Musk Super Pacs boost spending on midterm elections
+Maga Inc and America Pac drop millions on US House and Senate candidates to keep Republicans in control of Congress
+
+## Russia-Ukraine peace talks could begin next year, ex-MI6 chief says
+John Sawers tells FT Weekend Festival that enduring peace ‘not really conceivable’ while Vladimir Putin remains in office
+
 ## Jenrick seeks to get Reform back on track with tax pledge
 Rightwing party’s Treasury spokesperson attempts to shift attention from illicit funding allegations
 
@@ -9,20 +18,11 @@ Port operator says services back to normal after ‘public order incident’ aff
 ## US strikes three Iranian oil tankers in response to attacks on warships
 Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict
 
-## Trump envoys arrive in Moscow with Ukraine peace proposal
-Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit
-
 ## ‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials
 The US president has tried to impose new rules just weeks before election day
 
 ## Pro-Israel groups fight to help Republicans keep control of Congress
 Supporters of Israel’s far-right government fear November’s midterm elections could mark major shift in country’s relationship with US
-
-## Treasury sell-off piles pressure on weakest US borrowers
-Spreads on riskiest junk debt have climbed to their highest level since the market meltdown that followed last year’s ‘liberation day’ tariff blitz
-
-## Europe Express: faces of the ‘new right’
-While Italy’s Giorgia Meloni is a moderate and Germany’s Ulrich Siegmund a radical, both reflect the continent’s rightward turn
 
 ## The NBA drops the hammer on Steve Ballmer
 Also in today’s newsletter: skyrocketing US Open ticket prices
@@ -90,13 +90,19 @@ The Trump administration sought Alejandro Betancourt's help for a major US oil d
 ## 'Don’t want to lose our country’: Trump to spend $500 m to help Republicans win midterms
 In a strategic move, Donald Trump intends to allocate up to $500 million from MAGA Inc to bolster Republican candidates in key House and Senate races. This robust funding effort is particularly timely as concerns have been raised about the PAC's substantial cash reserves. Trump emphasizes his contro
 
+## Coal shortage deepens power crisis in Punjab, generation drops by 1,500 MW: Minister
+Coal shortage deepens power crisis in Punjab, generation drops by 1,500 MW: Minister
+
+## After Swatantra Bhardwaj's arrest, complaint against Nishu Aazad, father over ‘insult’ to Hindu gods on social media
+SC lawyer Amita Sachdeva has filed a complaint against the father-daughter duo alleging that Nishu’s X account contained derogatory references to Hindu gods.
+
 ## Police issues summons to TMC MP Abhishek Banerjee's aide over scuffle at party office
 The notice was served at Roy's New Alipore residence on Saturday evening.
 
 ## ‘India buys oil from Russia for its development, not to help us’: Russian envoy Alipov
 Alipov had, on Friday, said Moscow remains committed to fulfilling New Delhi's energy demands, while slamming Western secondary sanctions.
 
-## ‘Naraz Fufa opposes everything’ to ‘jhooth ki goonj’ swipe at Rahul: PM Modi's top quotes from SRCC address
+## GDP swipe at Opposition, warning to Pakistan: PM Modi’s top quotes from Delhi college address
 PM Modi arrived at the college to attend its centenary celebrations. He had last visited SRCC in 2013, when he was the chief minister of Gujarat.
 
 ## ‘He didn’t know how to shoot': Jhiram Valley attack convicts' kin dispute court judgment, claim innocence
@@ -107,12 +113,6 @@ The 22-year-old, identified as Ritesh Hange, is reportedly a friend of Chetan, P
 
 ## PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’
 PM Modi was speaking at Delhi University's Sree Ram College of Commerce on its centenary celebrations on Saturday.
-
-## PM Modi slams Oppn over 7.8% GDP growth row: ‘Some people couldn’t digest the numbers'
-PM Modi said the growth was achieved despite the ongoing war in West Asia and several trade-related challenges.
-
-## Census 2027: Centre prepones population count in poll bound UP, Goa, Uttarakhand, Punjab
-The self-enumeration facility in these four states, RGI added on Saturday, will be available from November 16 to November 30 this year
 
 ## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
 The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Shoppers interact with Hong Kong’s first robot shopkeeper
+Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.
+
+## Two pilots killed after Greek fighter jet crashes during an air show
+Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.
+
+## Thousands protest in Croatia to demand government clean up toxic waste
+Demonstrators in Zagreb accuse Croatia's government of dragging its feet on a hazardous waste scandal.
+
+## Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war
+Both Russia and Ukraine vow not to strike each other's capitals for three days during talks in Moscow and Kyiv.
+
+## India crush Pakistan at T20 Asia Cup with record-breaking bowling display
+India claim seven-wicket win after Pakistan lose 10 wickets for just 28 runs as they are bowled out for 55.
+
+## Germany’s far-right AfD eyes historic first in state election
+Germany’s far-right AfD is projected to take power in one of the country’s 16 states for the first time.
+
 ## Haaland heads Man City to the top of Premier League with win over Coventry
 Norwegian scores only goal of unconvincing home win against newly promoted Coventry City.
 
 ## Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
 The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.
-
-## Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means
-Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.
-
-## US says it hit three Iranian oil tankers after attacks on warships
-US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
-
-## Israeli campaign of West Bank destruction moves on to region’s food basket
-Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.
-
-## Rescuers pull Chinese worker, Nepali woman from flood wreckage alive
-Rescues fuel hope more could be found alive as Nepal's flood death toll passes 1,331, with people missing on both sides.
-
-## Multipolarity gives middle powers more choices, but fewer guarantees
-BRICS, SCO and other organisations can offer relief from great power pressure but do not provide collective defence.
-
-## US says it hit Iran oil tankers helping finance ‘regional proxies’
-US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
