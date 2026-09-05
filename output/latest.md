@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Nigel Farage insists Reform has ‘broken no law’ after key advisers step down
+Party’s conference in Birmingham overshadowed by alleged attempts to seek illegal overseas funding
+
+## The NBA drops the hammer on Steve Ballmer
+Also in today’s newsletter: skyrocketing US Open ticket prices
+
 ## Uber picks a side in driver vs robotaxi wars: its own
 Since it operates in so many markets, Uber can easily fall into the trap of talking from both sides of its mouth
 
@@ -13,64 +19,52 @@ When debt is the disease, fiscal medicine may be as likely to harm as heal
 Successive governments have grappled with the problem without managing to impose a standardised policy
 
 ## Camaraderie and nostalgia: how Germany’s far-right AfD is winning the east
-The party is predicted to secure than 40% of the vote in Saxony-Anhalt on Sunday
+The party is predicted to secure more than 40% of the vote in Saxony-Anhalt on Sunday
 
 ## The prime minister won’t cut spending — here’s how I’m cutting mine
 Cutting back feels self-defeating but October’s Budget will be punishing for broad-shouldered Britons
 
-## How to die with less than £325,000
-Finding ways to reduce your taxable estate to below the death duty threshold has become a burning issue — but advisers urge clients to keep a cool head
+## Jefferies fund caught with $500mn exposure to second alleged invoice fraud
+Point Bonita, which bankrolled collapsed First Brands Group, emerges as big creditor to Radiant World
 
-## Rerun or sequel? Naomi Klein and Astra Taylor on end times fascism
-How nationalists, religious fundamentalists and tech titans turned their backs on a shared future
+## Ryanair’s cuts have done other airlines a favour
+Winter months are typically lossmaking for airlines — thus cutting back on services eases the industry’s financial pinch
 
-## Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO
-AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week
+## US Republicans revolt against Flock AI surveillance as tech backlash intensifies
+Governors crack down on licence-plate-reading start-up bankrolled by Trump donors
 
-## Prosecutors seize €65mn from McKinsey in French tax fraud probe
-Fine remains provisional as investigation continues into the consultancy’s tax practices
+## The benefits of being an accidental prepper
+An annual clearout of our ‘overflow’ freezer birthed a new festival — but does it all make financial sense?
 
-## ‘Clear’ breaches of rules by Reform UK pollster, says industry body
-British Polling Council seeking further information from JL Partners following Channel Four News investigation
+## The repo market is the ‘dark matter’ of finance: powerful and perilous
+How worried should we be about the multitrillion-dollar market’s influence over the cosmos of central banks, bonds, pension plans and private credit firms?
 
-## Maybe Northampton *is* an emerging market
-NuCobblers — now with added Gemcorp
+## EU counterterror envoy urges pressure on social platforms over youth extremism
+Large-scale terrorism has receded but smaller attacks by individuals recruited online are on the rise
 
-## John Ternus, Apple’s new ‘wicked calm’ CEO
-Tim Cook’s successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs
+## India’s cyclical recovery faces risks; oil supply shock, AI capex may hit corporate margins from Q2FY27: Report
+The report says that the positive impact of AI investment on exports and metal prices could weaken from the second half of FY27
 
-## Why Berkshire Hathaway might be an active hedge
-The financial citadel is well positioned if there are market dislocations
+## JSW Steel August crude steel production up 3% y-o-y; output rises to 24.65 lakh tonnes
+The growth, that came despite a decline in production at its US operations, which fell 11 per cent year-on-year to 0.78 lakh tonnes, can be largely attributed to the surge in domestic production
 
-## Directors’ Deals: Lloyds’ CFO banks £10mn through share sales
-Group’s share price has climbed by 40 per cent in the past year
+## Nepal floods: Death toll surges to 1,344 as rescue efforts continue; around 4,900 still missing
+More than 13,000 people have been rescued so far, according to Nepal’s National Disaster Risk Reduction and Management Authority
 
-## How VW’s boss secured a shock victory in battle to reshape carmaker
-Carmaker’s slimdown deal is a coup for its boss but governance issues have been kicked down the road
+## Indian tunnel rescue team makes progress at flood-hit Chilime hydropower site
+India has deployed specialised teams to assist Nepal following the devastating flash floods of August 26
 
-## EAM S Jaishankar to address annual high-level UNGA session on September 26
-This will also be the last high-level UN General Assembly session for current UN Secretary-General Antonio Guterres, whose second five-year tenure as head of the global organisation ends in December this year
+## Tata Sons succession race narrows to Narendran, Agrawal
+While Narendran has emerged as the frontrunner among internal candidates, Agrawal is also in the reckoning with his investment-banking and capital-allocation experience
 
-## Delhi sees showers; min temp drops to 24.8 degree Celsius
-The India Meteorological Department (IMD) has issued a yellow-to-orange alert for the day
+## Ahom dynasty capital ensemble submitted for UNESCO heritage tag: Himanta
+The nomination comes after the UNESCO recognition for Charaideo Moidams, another heritage site of the Ahom era
 
-## Pranav Constructions raises ₹84 crore from anchor investors; IPO to open on Sep 7
-The company allocated 67.94 lakh equity shares at ₹124 apiece to anchor investors, according to a circular uploaded on the BSE website
+## Ganga water level breaches 'highest flood mark' at Patna's Gandhi Ghat amid heavy rain
+People have been asked to exercise caution in view of the rising water level of the river
 
-## India’s BRICS Chairship to host $1 trillion Global Sovereign Capital summit
-The iBRICS summit is designed to directly connect sovereign capital with bankable infrastructure, energy and digital capacity projects across the 21 BRICS member states and partner nations
-
-## What integrated sugar-ethanol-CBG projects mean for farm-level economics
-The real promise is converting greater value from every tonne of cane into better economics for every acre that produces it
-
-## Rethinking edible oils through the lens of health and nutrition
-A nutritionally balanced oil that remains accessible to households across income groups contributes meaningfully to dietary quality, food resilience and long-term food security
-
-## Premiumisation of Indian staples: Why consumers pay more attention to ghee, honey, jaggery and cold-pressed oils
-The distinction—authentic commitment to purity versus opportunistic marketing—is the real driver of transformation in the Indian pantry
-
-## Anthropic IPO timeline shifts toward mid-October
-The revised timeline comes as Anthropic works to finalise a major credit facility and prepares analysts for meetings ahead of the offering
+## India’s passenger vehicle market tilts towards cleaner fuels; alternatives cross petrol: Report
+As per the report, passenger vehicle (PV) retail sales grew 16 per cent YoY in Aug '26, supported by improved affordability following GST rate cuts.
 
 ## Tesla’s wheel-free Cybercabs face US safety probe just a day after launch
 The US safety regulator is conducting an investigation into Tesla's innovative taxis that operate without a steering wheel. The National Highway Traffic Safety Administration is assessing whether these vehicles adhere to federal safety regulations. Following their launch in Austin, Texas, on Thursda
@@ -96,29 +90,35 @@ Anthropic has postponed its initial public offering, now aiming for mid-October 
 ## Unfinished agenda larger than I thought: Axis CEO
 
 
-## India moves to buy 5 more S-400s after Op Sindoor success; Russia sends cost proposal
-The decision for approval will be taken by the Cabinet Committee on Security after the cost is finalised and a green signal obtained from the finance ministry.
+## Goa Mercedes crash: Driver held after biker killed, pillion injured
+Goa Police arrested Vidhyadhar Prabhu after he allegedly drove drunk, killed a two-wheeler rider and dragged the motorcycle for over 2 km before the car caught fire.
 
-## RSS' reply to criticism over Mohan Bhagwat’s UK, US trips: ‘We expect debate, let them speak’
-Mohan Bhagwat, who previously visited the United States and Canada, is now in the United Kingdom as part of his three-nation RSS centenary outreach.
+## PM Modi talks ‘aura’ again, this time during interaction with teachers: ‘People will keep looking at your aura’
+Speaking to one of the National Awardee Teachers, Prime Minister Narendra Modi asked her for a tip to enhance his public speaking skills.
 
-## Needle found inside 1-yr-old’s body in Kerala, parents allege medical negligence at NICU
-The child underwent surgery at Kozhikode Government Medical College Hospital in July, while Kottayam authorities have ordered an inquiry.
+## Telangana CM faces internal discord amid removal of two leaders
+Telangana chief minister A Revanth Reddy faces a politically testing phase as dissent within the ruling Congress grows
 
-## Keralam minister Roji flags ‘divisive agendas’ in higher education on Teachers’ Day
-Keralam minister Roji flags ‘divisive agendas’ in higher education on Teachers’ Day
+## Keralam: Legal Metrology Department inspects cinema theatres in malls over food prices
+Keralam: Legal Metrology Department inspects cinema theatres in malls over food prices
 
-## 8 Tamil Nadu engineering students killed in Kerala, their car rammed into parked lorry
-The car in which the youths were travelling collided with a lorry parked on the highway at Panambikkunnu in Kaipamangalam.
+## Gurugram under orange alert as heavy rain floods roads, disrupts traffic
+IMD, on Saturday at 10.38am, forecast heavy rainfall exceeding 15mm per hour within the next two to three hours
 
-## ‘ ₹250 crore per km’: Congress MP stuck on Dwarka Expressway amid Delhi rain, hits out at Modi government
-Congress MP Brijendra Singh shared a video of him stuck at a tunnel of the Dwarka Expressway due to waterlogging.
+## Saharanpur mosque demolished after court rules it ‘illegally’ built on govt land, heavy security deployed
+A mosque inside Saharanpur Collectorate was demolished after a court order; Kairana MP Iqra Hasan was placed under house arrest.
 
-## Belgian PM's veiled dig at Trump tariffs during India visit: 'Decide something on Monday, revoke it on Wednesday'
-Speaking at a high-level dialogue on the India-EU FTA, Bart De Wever criticised the growing push towards protectionism and unpredictable tariff measures.
+## Shape generations of students with scientific outlook, 'nation first' spirit: President to teachers
+Shape generations of students with scientific outlook, 'nation first' spirit: President to teachers
 
-## Suvendu Adhikari unveils new West Bengal tourism logo, plans ₹500 crore sector boost
-West Bengal CM Suvendu Adhikari unveils a new tourism brand, announces ₹500 crore investment, better connectivity and tiger release in Buxa.
+## 'Many come to meet': What Chirag Paswan said on Swatantra Bhardwaj's viral 'elder brother' claims
+Chirag Paswan's party filed a complaint hours after a purported clip showed Swatantra Bhardwaj claiming to have political backing from him.
+
+## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
+The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
+
+## New reality for China’s entertainment sector as AI drama goes prime time
+From low-quality “slop” such as soap operas starring humanlike cats and dating shows featuring anthropomorphic fruit, to increasingly slick productions realistic enough to pass for live action, artificial intelligence-generated video dramas have become almost inescapable on Chinese social media feed
 
 ## Inside Hong Kong’s red-hot Pokemon card market, where Pikachus sell like stocks
 Not so long ago, Pokemon cards were little more than schoolyard treasures in Hong Kong. But the trading cards are now evolving into a sophisticated new asset class, driven by millennial nostalgia and the forces of global capital. In today’s red-hot market – where rare Pikachus sell for vast sums and
@@ -137,12 +137,6 @@ Yunxi Technology, officially one of China’s “little giants”, has submitted
 
 ## Hong Kong’s 106 billionaires, Treasury yields hit recent highs: the numbers moving markets
 China has been expanding its outbound-investment channels, with a new quota granted and greater overseas allocation by the nation’s pension fund. However, the financial world beyond the mainland is seeing volatility as US bond yields hit 20-month highs. Here are some of the figures that have drawn t
-
-## Deleveraging clouds China’s AI trade as rising US Treasury yields, inflation fears persist
-Chinese leveraged traders continue to unwind their bets on stocks, as unease over rising global bond yields and a lingering oil shock add uncertainty to the artificial intelligence trade. The outstanding balance of stocks bought with borrowed money dropped to 2.62 trillion yuan (US$390.1 billion) on
-
-## Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities
-The artificial intelligence boom has signalled growing risks in the US economy and capital markets, with a setback in the technology rally potentially triggering a sharp correction in US assets and weakening the dollar, according to a Nomura report. “The AI boom has masked a rising US risk premium,”
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -240,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire
-The PIMS nurse who saved one newborn recalls the fire, the screams and the 14 babies she could not save.
+## Pentagon polygraphs dozens of US military staff over media leaks: Report
+About 50 officers on the US Joint Staff were interrogated over reports detailing depleted weapons stockpiles, NYT says.
 
-## UN approves new map showing Africa’s true size
-The UN General Assembly has backed a resolution to change to maps that more accurately show the true size of Africa.
+## UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison
+Egyptian activist Abdul Rahman al-Qaradawi was held due to an arrest warrant by the Arab Interior Ministers Council.
 
-## Blasts at Bolivian military base kill at least 10, injure dozens
-Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.
+## UK art show explores Muslim life, Europe’s Islamic history and Islamophobia
+Shahed Saleem's exhibition presents colourful tapestries depicting fateful moments for British and European Muslims.
 
-## Malaysia declares emergency in Sarawak as haze from Indonesia worsens
-Country implements state of emergency in Sarawak's Serian district after air pollution reaches 'hazardous' levels.
+## Niger accuses France of orchestrating failed military mutiny
+Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.
 
-## Did Israel’s destruction of Gaza worsen its water crisis?
-Scientists say Israel’s destruction of Gaza’s sewage system may have worsened the Mediterranean's algae bloom crisis.
+## Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return
+Alcaraz beat China's Wu Yibing 6-3, 6-4, 6-1, while Sabalenka defeated Kamilla Rakhimova 6-3, 6-4.
 
-## Trump sends envoys to Russia, Ukraine with new peace plan
-Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.
+## Have scientists discovered a dark matter particle?
+Dark matter is an invisible substance that is said to bind the universe; scientists may have found new signs of it.
 
-## After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground
-The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.
+## At least five killed in Sudan’s South Kordofan in attack by rebel group
+Sudan Doctors Network says SPLM-N forces shelled residential areas in the town of Dilling.
 
-## ‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza
-Human rights advocates call for diplomatic measures to guarantee flotilla safety and end Israel's deadly Gaza blockade.
+## Bolivian military barracks explosion kills at least 10
+An explosion at a military barracks in Viacha, Bolivia, has killed at least 10 people and injured dozens.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
