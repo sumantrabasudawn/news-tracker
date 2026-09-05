@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Masked protesters block Dover port roads
+Port operator says services back to normal after ‘public order incident’ affected ‘all routes in and out’
+
+## Pro-Israel groups fight to help Republicans keep control of Congress
+Supporters of Israel’s far-right government fear November’s midterm elections could mark major shift in country’s relationship with US
+
+## Treasury sell-off piles pressure on weakest US borrowers
+Spreads on riskiest junk debt have climbed to their highest level since the market meltdown that followed last year’s ‘liberation day’ tariff blitz
+
+## Europe Express: faces of the ‘new right’
+While Italy’s Giorgia Meloni is a moderate and Germany’s Ulrich Siegmund a radical, both reflect the continent’s rightward turn
+
 ## Nigel Farage insists Reform has ‘broken no law’ after key advisers step down
 Party’s conference in Birmingham overshadowed by alleged attempts to seek illegal overseas funding
 
@@ -12,23 +24,14 @@ Since it operates in so many markets, Uber can easily fall into the trap of talk
 ## The gloves are starting to come off in markets
 Wall Street analysts and investors are more willing to directly criticise Trump, particularly since a Treasury intervention on bonds
 
-## Is Keynesianism dead?
-When debt is the disease, fiscal medicine may be as likely to harm as heal
-
-## ‘What the blazers?’ The long fight over school uniform costs
-Successive governments have grappled with the problem without managing to impose a standardised policy
-
-## Camaraderie and nostalgia: how Germany’s far-right AfD is winning the east
-The party is predicted to secure more than 40% of the vote in Saxony-Anhalt on Sunday
-
-## The prime minister won’t cut spending — here’s how I’m cutting mine
-Cutting back feels self-defeating but October’s Budget will be punishing for broad-shouldered Britons
-
 ## Jefferies fund caught with $500mn exposure to second alleged invoice fraud
 Point Bonita, which bankrolled collapsed First Brands Group, emerges as big creditor to Radiant World
 
 ## Ryanair’s cuts have done other airlines a favour
 Winter months are typically lossmaking for airlines — thus cutting back on services eases the industry’s financial pinch
+
+## The prime minister won’t cut spending — here’s how I’m cutting mine
+Cutting back feels self-defeating but October’s Budget will be punishing for broad-shouldered Britons
 
 ## US Republicans revolt against Flock AI surveillance as tech backlash intensifies
 Governors crack down on licence-plate-reading start-up bankrolled by Trump donors
@@ -36,35 +39,38 @@ Governors crack down on licence-plate-reading start-up bankrolled by Trump donor
 ## The benefits of being an accidental prepper
 An annual clearout of our ‘overflow’ freezer birthed a new festival — but does it all make financial sense?
 
-## The repo market is the ‘dark matter’ of finance: powerful and perilous
-How worried should we be about the multitrillion-dollar market’s influence over the cosmos of central banks, bonds, pension plans and private credit firms?
+## Auto component suppliers sit on ₹98,000 cr inventory, says report
+Study also estimates India’s automotive component MSMEs account for approximately ₹2.4-2.9 lakh crore in turnover
 
-## EU counterterror envoy urges pressure on social platforms over youth extremism
-Large-scale terrorism has receded but smaller attacks by individuals recruited online are on the rise
+## AI boom lifts Foxconn August sales to $29.14 billion
+According to the report, the August sales were the second-highest monthly sales in Hon Hai's history, trailing only the NT$946.51 billion ($29.85 billion) recorded in July
 
-## India’s cyclical recovery faces risks; oil supply shock, AI capex may hit corporate margins from Q2FY27: Report
-The report says that the positive impact of AI investment on exports and metal prices could weaken from the second half of FY27
+## Adani Defence signs five-year deal to supply ammunition for AK-203 rifles
 
-## JSW Steel August crude steel production up 3% y-o-y; output rises to 24.65 lakh tonnes
-The growth, that came despite a decline in production at its US operations, which fell 11 per cent year-on-year to 0.78 lakh tonnes, can be largely attributed to the surge in domestic production
 
-## Nepal floods: Death toll surges to 1,344 as rescue efforts continue; around 4,900 still missing
-More than 13,000 people have been rescued so far, according to Nepal’s National Disaster Risk Reduction and Management Authority
+## Maharashtra recruitment exams: Govt sets up high-level committee for review of system
+Seven-member committee to suggest comprehensive measures to make recruitment examinations more secure, transparent, reliable and impartial, and acceptable to candidates and other stakeholders
 
-## Indian tunnel rescue team makes progress at flood-hit Chilime hydropower site
-India has deployed specialised teams to assist Nepal following the devastating flash floods of August 26
+## Crisis of credibility biggest problem in media sector, says Gadkari
+The Road Transport and Highways Minister spoke at the IIM Nagpur Media Conclave 2026 on ‘Media, Leadership and the New World Order’
 
-## Tata Sons succession race narrows to Narendran, Agrawal
-While Narendran has emerged as the frontrunner among internal candidates, Agrawal is also in the reckoning with his investment-banking and capital-allocation experience
+## West Bengal CM Suvendu Adhikari promises transparent teacher recruitment
+The government plans to publish recruitment details online and avoid SMS-based notifications as it seeks to prevent manipulation and irregularities
 
-## Ahom dynasty capital ensemble submitted for UNESCO heritage tag: Himanta
-The nomination comes after the UNESCO recognition for Charaideo Moidams, another heritage site of the Ahom era
+## Two-way bilateral trade is over $15 billion, grown tenfold in 20 years: Brazil Consul General in Mumbai
+In 2004, bilateral trade was $1.5 billion; now it exceeds $15 billion, reflecting a tenfold growth over 20 years, said the Brazil Consul General
 
-## Ganga water level breaches 'highest flood mark' at Patna's Gandhi Ghat amid heavy rain
-People have been asked to exercise caution in view of the rising water level of the river
+## Karnataka CM launches Prajaseva Abhiyana for citizen grievance redressal
+Residents will receive information about meeting schedules, venues and presiding representatives as the government seeks to simplify grievance redressal
 
-## India’s passenger vehicle market tilts towards cleaner fuels; alternatives cross petrol: Report
-As per the report, passenger vehicle (PV) retail sales grew 16 per cent YoY in Aug '26, supported by improved affordability following GST rate cuts.
+## Global food prices rise 1.9%, says UN body; highest since 2022 amid weather, war disruptions
+Food prices worldwide hit the highest levels since late 2022 in August, fueled by unpredictable weather conditions and rising geopolitical conflicts. These factors, coupled with interruptions to trade pathways, are raising alarms over the supply of vital commodities. This troubling update was shared
+
+## Output overdrive: 30% productivity boost could power 35% of future manufacturing
+According to a KPMG report, productivity is identified as the leading catalyst for growth within manufacturing. Firms that excel in boosting productivity tend to see notable increases in both profits and market valuation. For large manufacturers, meaningful productivity improvements require transfor
+
+## India’s car buyers shift from petrol as CNG, hybrid, EVs cross 42% sales share: Report
+Cleaner fuels now lead Indian passenger vehicle sales, surpassing petrol for the first time. CNG's market share reached a record high of twenty-five percent in August. Electric vehicle sales saw a significant fifty-two percent jump year-on-year. Tata Motors regained its leading position in the elect
 
 ## Tesla’s wheel-free Cybercabs face US safety probe just a day after launch
 The US safety regulator is conducting an investigation into Tesla's innovative taxis that operate without a steering wheel. The National Highway Traffic Safety Administration is assessing whether these vehicles adhere to federal safety regulations. Following their launch in Austin, Texas, on Thursda
@@ -81,38 +87,29 @@ Anthropic has postponed its initial public offering, now aiming for mid-October 
 ## HUL plans capex boost; eyes entry into new areas
 
 
-## Discretionary spending by households rose in FY25
+## Who is 'Bittu Tabahi’? MP boy who went viral for cleaning polluted river and got job offer from Netherlands
+'Bittu Tabahi’ has been recording his cleanup work and sharing it through multiple Instagram videos.
 
+## Kerala minister takes dig at university heads attending RSS events: ‘Not befitting of a democratic society’
+The minister's remarks come amid differences between the state government and Governor Rajendra Vishwanath Arlekar.
 
-## As protein demand rises, brands go for smaller packs
+## SP leader booked for offering namaz on Moradabad Circuit House road; ‘disgrace’, says Pawan Khera
+A video showing SP's district vice president Haji Mohammad Usman near a parked car has been shared widely on social media.
 
+## ‘No water, no treatment’: Jarange-Patil escalates fight for Maratha reservation
+He also refused medical examinations and barred doctors from assessing his condition, despite growing concerns over his health
 
-## Unfinished agenda larger than I thought: Axis CEO
+## ‘Now tell us…’: Saurav Das, Gaurav Bhatia spar on X over BJP leader’s fake ‘Dimagi Naxal’ quote on Swatantra Bhardwaj
+Das, who later deleted the post, clarified on his X account that it was AI-generated, but dared BJP leaders to “repeat the line”.
 
+## Delhi weather LIVE Update: IMD issues red alert in Delhi as heavy rain, thunderstorms lash NCR
+Delhi weather LIVE Update: The weather department has forecast a generally cloudy sky with moderate rain throughout the day. The temperature in Delhi stood at 26.4 degrees Celsius at 8:30 am.
 
-## Goa Mercedes crash: Driver held after biker killed, pillion injured
-Goa Police arrested Vidhyadhar Prabhu after he allegedly drove drunk, killed a two-wheeler rider and dragged the motorcycle for over 2 km before the car caught fire.
+## Jarange hardens stand; refuses water, medical treatment as hunger strike for quota enters 8th day
+Jarange hardens stand; refuses water, medical treatment as hunger strike for quota enters 8th day
 
-## PM Modi talks ‘aura’ again, this time during interaction with teachers: ‘People will keep looking at your aura’
-Speaking to one of the National Awardee Teachers, Prime Minister Narendra Modi asked her for a tip to enhance his public speaking skills.
-
-## Telangana CM faces internal discord amid removal of two leaders
-Telangana chief minister A Revanth Reddy faces a politically testing phase as dissent within the ruling Congress grows
-
-## Keralam: Legal Metrology Department inspects cinema theatres in malls over food prices
-Keralam: Legal Metrology Department inspects cinema theatres in malls over food prices
-
-## Gurugram under orange alert as heavy rain floods roads, disrupts traffic
-IMD, on Saturday at 10.38am, forecast heavy rainfall exceeding 15mm per hour within the next two to three hours
-
-## Saharanpur mosque demolished after court rules it ‘illegally’ built on govt land, heavy security deployed
-A mosque inside Saharanpur Collectorate was demolished after a court order; Kairana MP Iqra Hasan was placed under house arrest.
-
-## Shape generations of students with scientific outlook, 'nation first' spirit: President to teachers
-Shape generations of students with scientific outlook, 'nation first' spirit: President to teachers
-
-## 'Many come to meet': What Chirag Paswan said on Swatantra Bhardwaj's viral 'elder brother' claims
-Chirag Paswan's party filed a complaint hours after a purported clip showed Swatantra Bhardwaj claiming to have political backing from him.
+## Jharkhand court denies bail to ex-JPSC chief Khiangte in exam irregularity case
+Additional judicial commissioner Yogesh Kumar delivered the decision on after reserving judgment earlier in the week
 
 ## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
 The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
@@ -162,6 +159,9 @@ U.S. allies won’t love it, but American interests come first.
 ## Soccer’s Favorite Strongman
 José Mourinho’s lessons on how to influence people (and not win friends).
 
+## A Message to China from Japan’s Takaichi Administration
+Can Japan ‘normalize’ relations?
+
 ## Humanoid Robots and China’s Vision of the Future
 China’s humanoid robots are more than a showcase of state ambition. They reveal how differently we interpret visions of the technological future depending on who builds them.
 
@@ -182,9 +182,6 @@ By 2030, the China-U.S. AI competition may be decided less by who builds the mos
 
 ## In Cambodia, Floating Houses Are Stuck Aground as Climate Change Takes Hold
 Researchers are seeing a change in Cambodian weather patterns as climate change takes hold across the region.
-
-## How the Chinese Government Has Controlled the Narrative on the Tibet Floods
-Chinese state media’s handling of the Tibet floods is following its usual pattern of restricted coverage, censorship, and emphasizing positive news.
 
 ## The Fruit of Patience: How Regional Shifts Ripened Turkey’s Path to Kurdish Reconciliation
 On Aug. 25, at the People’s Palace in Damascus, Mazloum Abdi announced the dissolution of the Syrian Democratic Forces, which he had commanded for a decade. Speaking first in Arabic and then in Kurdish, he said the force had joined the Syrian army and would no longer operate independently. 15 days e
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pentagon polygraphs dozens of US military staff over media leaks: Report
-About 50 officers on the US Joint Staff were interrogated over reports detailing depleted weapons stockpiles, NYT says.
+## Costa Rica’s president says US ground forces would boost national security
+Costa Rican President Laura Fernandez said US ground operations could boost national security.
 
-## UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison
-Egyptian activist Abdul Rahman al-Qaradawi was held due to an arrest warrant by the Arab Interior Ministers Council.
+## Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy
+Huckabee labels some of the settlers committing violence as 'terrorists' though analysts say his visit is 'symbolic'.
 
-## UK art show explores Muslim life, Europe’s Islamic history and Islamophobia
-Shahed Saleem's exhibition presents colourful tapestries depicting fateful moments for British and European Muslims.
+## Pickleball and dining: Why courts are the new food destinations
+The fastest-growing sport in the US is the 'eatertainment' trend’s new darling. How long will it last?
 
-## Niger accuses France of orchestrating failed military mutiny
-Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.
+## LIVE: India vs Pakistan – Women’s T20 Asia Cup
+Follow the updates from our live build-up to our text commentary stream coverage of the Group A match in Dubai.
 
-## Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return
-Alcaraz beat China's Wu Yibing 6-3, 6-4, 6-1, while Sabalenka defeated Kamilla Rakhimova 6-3, 6-4.
+## Mudslide in eastern China kills one, leaves 11 missing
+A mudslide triggered by days of heavy rain in Jiangxi province, China, has killed one person and left 11 missing.
 
-## Have scientists discovered a dark matter particle?
-Dark matter is an invisible substance that is said to bind the universe; scientists may have found new signs of it.
+## At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
+Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
 
-## At least five killed in Sudan’s South Kordofan in attack by rebel group
-Sudan Doctors Network says SPLM-N forces shelled residential areas in the town of Dilling.
+## Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
+As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.
 
-## Bolivian military barracks explosion kills at least 10
-An explosion at a military barracks in Viacha, Bolivia, has killed at least 10 people and injured dozens.
+## US ambassador to Israel meets Palestinian-Americans in occupied West Bank
+US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
