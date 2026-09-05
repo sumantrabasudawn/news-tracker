@@ -1,10 +1,13 @@
 # AION Intelligence
 
-## US strikes three Iranian oil tankers in response to attacks on warships
-Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict
-
 ## Trump envoys take Ukraine peace proposal to meeting with Putin
 Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit
+
+## US regulator sues ISS as it steps up scrutiny of proxy advisers
+The SEC accuses the firm of ignoring a subpoena as part of its ‘fact-finding investigation’
+
+## US strikes three Iranian oil tankers in response to attacks on warships
+Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict
 
 ## Trump and Musk Super Pacs boost spending on midterm elections
 Maga Inc and America Pac drop millions on US House and Senate candidates to keep Republicans in control of Congress
@@ -21,9 +24,6 @@ Port operator says services back to normal after ‘public order incident’ aff
 ## ‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials
 The US president has tried to impose new rules just weeks before election day
 
-## Pro-Israel groups fight to help Republicans keep control of Congress
-Supporters of Israel’s far-right government fear November’s midterm elections could mark major shift in country’s relationship with US
-
 ## The NBA drops the hammer on Steve Ballmer
 Also in today’s newsletter: skyrocketing US Open ticket prices
 
@@ -38,9 +38,6 @@ Since it operates in so many markets, Uber can easily fall into the trap of talk
 
 ## The prime minister won’t cut spending — here’s how I’m cutting mine
 Cutting back feels self-defeating but October’s Budget will be punishing for broad-shouldered Britons
-
-## US Republicans revolt against Flock AI surveillance as tech backlash intensifies
-Governors crack down on licence-plate-reading start-up bankrolled by Trump donors
 
 ## Who Am I? September 6, 2026
 Are you an avid investor? How well do you know corporate India?
@@ -234,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US envoys Witkoff, Kushner meet Putin for talks on Ukraine war
+US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.
+
 ## Building collapses after heavy rain in northern India
 A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.
 
@@ -254,9 +254,6 @@ Niger's government has widened its blame to unnamed neighbours a week after the 
 
 ## Jerusalem Daily: raids, settlers & sieges
 Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.
-
-## Cuban and Afghan immigrants deported from US under Trump arrive in Guyana
-The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
