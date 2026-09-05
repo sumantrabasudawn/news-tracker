@@ -3,6 +3,15 @@
 ## Masked protesters block Dover port roads
 Port operator says services back to normal after ‘public order incident’ affected ‘all routes in and out’
 
+## Jenrick seeks to get Reform back on track with tax pledge
+Rightwing party’s Treasury spokesperson attempts to shift attention from illicit funding allegations
+
+## Trump envoys arrive in Moscow with Ukraine peace proposal
+Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit
+
+## ‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials
+The US president has tried to impose new rules just weeks before election day
+
 ## Pro-Israel groups fight to help Republicans keep control of Congress
 Supporters of Israel’s far-right government fear November’s midterm elections could mark major shift in country’s relationship with US
 
@@ -18,17 +27,14 @@ Party’s conference in Birmingham overshadowed by alleged attempts to seek ille
 ## The NBA drops the hammer on Steve Ballmer
 Also in today’s newsletter: skyrocketing US Open ticket prices
 
-## Uber picks a side in driver vs robotaxi wars: its own
-Since it operates in so many markets, Uber can easily fall into the trap of talking from both sides of its mouth
-
-## The gloves are starting to come off in markets
-Wall Street analysts and investors are more willing to directly criticise Trump, particularly since a Treasury intervention on bonds
-
 ## Jefferies fund caught with $500mn exposure to second alleged invoice fraud
 Point Bonita, which bankrolled collapsed First Brands Group, emerges as big creditor to Radiant World
 
 ## Ryanair’s cuts have done other airlines a favour
 Winter months are typically lossmaking for airlines — thus cutting back on services eases the industry’s financial pinch
+
+## Uber picks a side in driver vs robotaxi wars: its own
+Since it operates in so many markets, Uber can easily fall into the trap of talking from both sides of its mouth
 
 ## The prime minister won’t cut spending — here’s how I’m cutting mine
 Cutting back feels self-defeating but October’s Budget will be punishing for broad-shouldered Britons
@@ -39,29 +45,35 @@ Governors crack down on licence-plate-reading start-up bankrolled by Trump donor
 ## The benefits of being an accidental prepper
 An annual clearout of our ‘overflow’ freezer birthed a new festival — but does it all make financial sense?
 
-## Auto component suppliers sit on ₹98,000 cr inventory, says report
-Study also estimates India’s automotive component MSMEs account for approximately ₹2.4-2.9 lakh crore in turnover
+## Premium hatchback segment to keep growing: Maruti Suzuki official
+In the last five months, the premium hatchback segment sold 2.5 lakh units out of nearly 4.4 lakh total PV sales, averaging about 50,000 units per month
 
-## AI boom lifts Foxconn August sales to $29.14 billion
-According to the report, the August sales were the second-highest monthly sales in Hon Hai's history, trailing only the NT$946.51 billion ($29.85 billion) recorded in July
+## IMD update: UP to see heavy rainfall as several northern states grapple with weather disruptions
+Rivers in Bihar swell to danger levels; Kashmir receives first snowfall
 
-## Adani Defence signs five-year deal to supply ammunition for AK-203 rifles
+## Singapore government won’t interfere in Singapore Air’s Air India decisions
+The carrier is reportedly close to securing shareholder support as it faces the fallout from operational disruptions, higher fuel costs and a deadly crash
 
+## Somerset-backed Cyrix Healthcare acquires Blue Star E&E's Medtech Solutions
+The acquisition, effective Sept 1, 2026, aims to enhance Cyrix’s medical imaging capabilities and expand its MedTech management platform in India, West Asia, and Africa
 
-## Maharashtra recruitment exams: Govt sets up high-level committee for review of system
-Seven-member committee to suggest comprehensive measures to make recruitment examinations more secure, transparent, reliable and impartial, and acceptable to candidates and other stakeholders
+## RBI okays LIC’s application to acquire up to 9.99% stake in ICICI Bank
+RBI approval lets insurer buy up to 9.99% within twelve months officially.
 
-## Crisis of credibility biggest problem in media sector, says Gadkari
-The Road Transport and Highways Minister spoke at the IIM Nagpur Media Conclave 2026 on ‘Media, Leadership and the New World Order’
+## India likely to overtake US in metro rail network length in two years
+The Union minister linked the continuing expansion of metro services with improving people’s ease of living and the Viksit Bharat goal
 
-## West Bengal CM Suvendu Adhikari promises transparent teacher recruitment
-The government plans to publish recruitment details online and avoid SMS-based notifications as it seeks to prevent manipulation and irregularities
+## Supreme Court to launch monthly lecture series on law, justice & legal education
+First edition of series to be held in September 2026
 
-## Two-way bilateral trade is over $15 billion, grown tenfold in 20 years: Brazil Consul General in Mumbai
-In 2004, bilateral trade was $1.5 billion; now it exceeds $15 billion, reflecting a tenfold growth over 20 years, said the Brazil Consul General
+## NCLT orders status quo on Byju’s K3 Education assets sold in auction
+The tribunal has sought details of the auctioned assets and their storage location while examining concerns over ownership and sale proceeds
 
-## Karnataka CM launches Prajaseva Abhiyana for citizen grievance redressal
-Residents will receive information about meeting schedules, venues and presiding representatives as the government seeks to simplify grievance redressal
+## Rs 41.69 lakh cash deposits, no ITR: He said wife, father paid expenses; ITAT rejects plea
+Reddy said he discovered the notice relating to the unexplained cash deposits only when he applied for a visa for foreign travel. He claimed that the Embassy informed him that an ITR was required for the visa application, which was when he came to know about the tax proceedings. The Income Tax Offic
+
+## Son loses gifted flat after neglecting parents; why he may still inherit it later
+A recent Bombay High Court case involved a son who was directed to vacate his father’s flat after the court found that he had failed to honour the condition attached to the gift of the property. The flat had been transferred to him on the understanding that he would take care of his parents, an obli
 
 ## Global food prices rise 1.9%, says UN body; highest since 2022 amid weather, war disruptions
 Food prices worldwide hit the highest levels since late 2022 in August, fueled by unpredictable weather conditions and rising geopolitical conflicts. These factors, coupled with interruptions to trade pathways, are raising alarms over the supply of vital commodities. This troubling update was shared
@@ -81,35 +93,29 @@ The Trump administration sought Alejandro Betancourt's help for a major US oil d
 ## 'Don’t want to lose our country’: Trump to spend $500 m to help Republicans win midterms
 In a strategic move, Donald Trump intends to allocate up to $500 million from MAGA Inc to bolster Republican candidates in key House and Senate races. This robust funding effort is particularly timely as concerns have been raised about the PAC's substantial cash reserves. Trump emphasizes his contro
 
-## Anthropic IPO: AI giant delays public offering, eyes mid-October market debut
-Anthropic has postponed its initial public offering, now aiming for mid-October for its market launch. Investors are optimistic about a potential $2 trillion valuation for the artificial intelligence firm. The company is also securing a major $15 billion credit facility ahead of upcoming analyst mee
+## PM Modi slams Oppn over 7.8% GDP growth row: ‘Some people couldn’t digest the numbers'
+PM Modi said the growth was achieved despite the ongoing war in West Asia and several trade-related challenges.
 
-## HUL plans capex boost; eyes entry into new areas
+## Centre prepones population count in poll bound UP, Goa, Uttarakhand, Punjab
+The self-enumeration facility in these four states, RGI added on Saturday, will be available from November 16 to November 30 this year
 
+## ‘Ab Bharat ghar mein ghus ke maarta hai’: PM Modi hails action against terrorism, warns Pakistan
+Prime Minister Narendra Modi arrived at the college premises to attend its centenary celebrations.
 
-## Who is 'Bittu Tabahi’? MP boy who went viral for cleaning polluted river and got job offer from Netherlands
-'Bittu Tabahi’ has been recording his cleanup work and sharing it through multiple Instagram videos.
+## 'Dhurandhar na ho lekin dhoom machai hai': PM Modi praises ‘OG alumni’ of SRCC at centenary celebrations
+PM Modi also lauded Delhi University's SRCC for distinguishing itself over the years and nurturing generations of leaders in business, public life and society.
 
-## Kerala minister takes dig at university heads attending RSS events: ‘Not befitting of a democratic society’
-The minister's remarks come amid differences between the state government and Governor Rajendra Vishwanath Arlekar.
+## MP HC acquits man, calls the conviction given on cryptic ground by trial court
+The division bench of judges Vivek Agrawal and Avanindra Kumar Singh also said the case should be placed before the acting Madhya Pradesh Chief Justice
 
-## SP leader booked for offering namaz on Moradabad Circuit House road; ‘disgrace’, says Pawan Khera
-A video showing SP's district vice president Haji Mohammad Usman near a parked car has been shared widely on social media.
+## Andhra family jumps off bridge into Godavari, woman rescued, 3 missing: Police
+Rescue teams launched a search operation in the Godavari to trace the missing family members. Efforts were underway to locate the missing persons
 
-## ‘No water, no treatment’: Jarange-Patil escalates fight for Maratha reservation
-He also refused medical examinations and barred doctors from assessing his condition, despite growing concerns over his health
+## Tripura: Former CM says BJP blocked Left candidates ahead of district council polls
+Filing of nominations by the candidates will have to be completed by September 8. Their papers will be scrutinised on September 9
 
-## ‘Now tell us…’: Saurav Das, Gaurav Bhatia spar on X over BJP leader’s fake ‘Dimagi Naxal’ quote on Swatantra Bhardwaj
-Das, who later deleted the post, clarified on his X account that it was AI-generated, but dared BJP leaders to “repeat the line”.
-
-## Delhi weather LIVE Update: IMD issues red alert in Delhi as heavy rain, thunderstorms lash NCR
-Delhi weather LIVE Update: The weather department has forecast a generally cloudy sky with moderate rain throughout the day. The temperature in Delhi stood at 26.4 degrees Celsius at 8:30 am.
-
-## Jarange hardens stand; refuses water, medical treatment as hunger strike for quota enters 8th day
-Jarange hardens stand; refuses water, medical treatment as hunger strike for quota enters 8th day
-
-## Jharkhand court denies bail to ex-JPSC chief Khiangte in exam irregularity case
-Additional judicial commissioner Yogesh Kumar delivered the decision on after reserving judgment earlier in the week
+## Bengal may ban mobile phones in schools, says CM Suvendu Adhikari
+He also said that the state has plans to reintroduce the traditional games and sports in schools such as Kho-kho, kabaddi
 
 ## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
 The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Costa Rica’s president says US ground forces would boost national security
-Costa Rican President Laura Fernandez said US ground operations could boost national security.
+## Multipolarity gives middle powers more choices, but fewer guarantees
+BRICS, SCO and other organisations can offer relief from great power pressure but do not provide collective defence.
 
-## Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy
-Huckabee labels some of the settlers committing violence as 'terrorists' though analysts say his visit is 'symbolic'.
+## US says it hit Iran oil tankers helping finance ‘regional proxies’
+US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.
 
-## Pickleball and dining: Why courts are the new food destinations
-The fastest-growing sport in the US is the 'eatertainment' trend’s new darling. How long will it last?
+## Relatives hold cremations without bodies for Nepal’s missing flood victims
+Fewer than one in 10 recovered bodies of people killed in deadly floods has been formally identified.
 
-## LIVE: India vs Pakistan – Women’s T20 Asia Cup
-Follow the updates from our live build-up to our text commentary stream coverage of the Group A match in Dubai.
+## Coach Luis Enrique unconcerned by PSG’s poor start to French league season
+Two points from three matches is ⁠their worst start since the ​2007-08 season, when PSG came close to relegation.
 
-## Mudslide in eastern China kills one, leaves 11 missing
-A mudslide triggered by days of heavy rain in Jiangxi province, China, has killed one person and left 11 missing.
+## Why has the Trump administration ordered staff to take polygraph tests?
+Reports of dwindling US weapons stocks have triggered an unusually sweeping hunt for leakers inside the Pentagon.
 
-## At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
-Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
+## UK gov’t condemns masked anti-immigrant protesters blocking Dover port
+Traffic at Britain's largest international port briefly halted as 'stop the boats' protesters blocked approaching roads.
 
-## Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
-As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.
+## Arsenal vs Chelsea: Premier League – prediction, teams, lineups
+Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.
 
-## US ambassador to Israel meets Palestinian-Americans in occupied West Bank
-US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.
+## ‘Stop the boats’ masked protesters block England’s Port of Dover
+Masked protesters blocked major roads around England’s Port of Dover on Saturday.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
