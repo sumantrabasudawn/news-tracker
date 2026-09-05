@@ -1,10 +1,13 @@
 # AION Intelligence
 
+## Jenrick seeks to get Reform back on track with tax pledge
+Rightwing party’s Treasury spokesperson attempts to shift attention from illicit funding allegations
+
 ## Masked protesters block Dover port roads
 Port operator says services back to normal after ‘public order incident’ affected ‘all routes in and out’
 
-## Jenrick seeks to get Reform back on track with tax pledge
-Rightwing party’s Treasury spokesperson attempts to shift attention from illicit funding allegations
+## US strikes three Iranian oil tankers in response to attacks on warships
+Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict
 
 ## Trump envoys arrive in Moscow with Ukraine peace proposal
 Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit
@@ -20,9 +23,6 @@ Spreads on riskiest junk debt have climbed to their highest level since the mark
 
 ## Europe Express: faces of the ‘new right’
 While Italy’s Giorgia Meloni is a moderate and Germany’s Ulrich Siegmund a radical, both reflect the continent’s rightward turn
-
-## Nigel Farage insists Reform has ‘broken no law’ after key advisers step down
-Party’s conference in Birmingham overshadowed by alleged attempts to seek illegal overseas funding
 
 ## The NBA drops the hammer on Steve Ballmer
 Also in today’s newsletter: skyrocketing US Open ticket prices
@@ -42,32 +42,29 @@ Cutting back feels self-defeating but October’s Budget will be punishing for b
 ## US Republicans revolt against Flock AI surveillance as tech backlash intensifies
 Governors crack down on licence-plate-reading start-up bankrolled by Trump donors
 
-## The benefits of being an accidental prepper
-An annual clearout of our ‘overflow’ freezer birthed a new festival — but does it all make financial sense?
+## Who Am I? September 6, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## Premium hatchback segment to keep growing: Maruti Suzuki official
-In the last five months, the premium hatchback segment sold 2.5 lakh units out of nearly 4.4 lakh total PV sales, averaging about 50,000 units per month
+## Intellectual freedom gaining strength, India no longer seeks permission to study its heritage: Sitharaman
+Delivering the SL Bhyrappa Memorial Lecture, Sitharaman urged continued intellectual churning and greater space for evidence, rigour and conscience
 
-## IMD update: UP to see heavy rainfall as several northern states grapple with weather disruptions
-Rivers in Bihar swell to danger levels; Kashmir receives first snowfall
+## Fosun Pharma sells 4.5% stake in Gland Pharma for Rs 2,121 crore
+The transaction marks the second major stake sale by Fosun Pharma in the pharmaceutical company in a little over two years
 
-## Singapore government won’t interfere in Singapore Air’s Air India decisions
-The carrier is reportedly close to securing shareholder support as it faces the fallout from operational disruptions, higher fuel costs and a deadly crash
+## Unmasking the red herring: How to analyse IPOs like a pro
+For serious investors, the RHP holds clues beyond the hype. Here’s a guide to navigating mounds of data in a prospectus
 
-## Somerset-backed Cyrix Healthcare acquires Blue Star E&E's Medtech Solutions
-The acquisition, effective Sept 1, 2026, aims to enhance Cyrix’s medical imaging capabilities and expand its MedTech management platform in India, West Asia, and Africa
+## Happiest Minds-ITC Infotech merger: Why it is not yet the happiest time to buy the stock
+IT SERVICES Happiest Minds’ merger with ITC Infotech improves scale, but valuation and transition risks warrant patience
 
-## RBI okays LIC’s application to acquire up to 9.99% stake in ICICI Bank
-RBI approval lets insurer buy up to 9.99% within twelve months officially.
+## Havells holding out for improvements
+Margin performance should match revenue growth for the company prospects to recover
 
-## India likely to overtake US in metro rail network length in two years
-The Union minister linked the continuing expansion of metro services with improving people’s ease of living and the Viksit Bharat goal
+## Jio eyes global market with India-built technology across connectivity, AI
+The company has grown rapidly since its 2016 launch, crossing 100 million subscribers within six months and reaching 533.3 million customers
 
-## Supreme Court to launch monthly lecture series on law, justice & legal education
-First edition of series to be held in September 2026
-
-## NCLT orders status quo on Byju’s K3 Education assets sold in auction
-The tribunal has sought details of the auctioned assets and their storage location while examining concerns over ownership and sale proceeds
+## Decoding Fibonacci Retracements
+The technique uses mathematical ratios to help traders identify potential price levels where declines may halt or advances could face resistance
 
 ## Rs 41.69 lakh cash deposits, no ITR: He said wife, father paid expenses; ITAT rejects plea
 Reddy said he discovered the notice relating to the unexplained cash deposits only when he applied for a visa for foreign travel. He claimed that the Embassy informed him that an ITR was required for the visa application, which was when he came to know about the tax proceedings. The Income Tax Offic
@@ -93,29 +90,29 @@ The Trump administration sought Alejandro Betancourt's help for a major US oil d
 ## 'Don’t want to lose our country’: Trump to spend $500 m to help Republicans win midterms
 In a strategic move, Donald Trump intends to allocate up to $500 million from MAGA Inc to bolster Republican candidates in key House and Senate races. This robust funding effort is particularly timely as concerns have been raised about the PAC's substantial cash reserves. Trump emphasizes his contro
 
+## Police issues summons to TMC MP Abhishek Banerjee's aide over scuffle at party office
+The notice was served at Roy's New Alipore residence on Saturday evening.
+
+## ‘India buys oil from Russia for its development, not to help us’: Russian envoy Alipov
+Alipov had, on Friday, said Moscow remains committed to fulfilling New Delhi's energy demands, while slamming Western secondary sanctions.
+
+## ‘Naraz Fufa opposes everything’ to ‘jhooth ki goonj’ swipe at Rahul: PM Modi's top quotes from SRCC address
+PM Modi arrived at the college to attend its centenary celebrations. He had last visited SRCC in 2013, when he was the chief minister of Gujarat.
+
+## ‘He didn’t know how to shoot': Jhiram Valley attack convicts' kin dispute court judgment, claim innocence
+Twenty nine people were killed in Jhiram Valley attack in Chhattisgarh in 2013 after Maoists ambushed a Congress convoy.
+
+## Third arrest in Ketan Agarwal murder case: ‘Lover’ Chetan’s friend held as ‘he knew of earlier murder plan’
+The 22-year-old, identified as Ritesh Hange, is reportedly a friend of Chetan, PTI news agency reported citing officials.
+
+## PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’
+PM Modi was speaking at Delhi University's Sree Ram College of Commerce on its centenary celebrations on Saturday.
+
 ## PM Modi slams Oppn over 7.8% GDP growth row: ‘Some people couldn’t digest the numbers'
 PM Modi said the growth was achieved despite the ongoing war in West Asia and several trade-related challenges.
 
-## Centre prepones population count in poll bound UP, Goa, Uttarakhand, Punjab
+## Census 2027: Centre prepones population count in poll bound UP, Goa, Uttarakhand, Punjab
 The self-enumeration facility in these four states, RGI added on Saturday, will be available from November 16 to November 30 this year
-
-## ‘Ab Bharat ghar mein ghus ke maarta hai’: PM Modi hails action against terrorism, warns Pakistan
-Prime Minister Narendra Modi arrived at the college premises to attend its centenary celebrations.
-
-## 'Dhurandhar na ho lekin dhoom machai hai': PM Modi praises ‘OG alumni’ of SRCC at centenary celebrations
-PM Modi also lauded Delhi University's SRCC for distinguishing itself over the years and nurturing generations of leaders in business, public life and society.
-
-## MP HC acquits man, calls the conviction given on cryptic ground by trial court
-The division bench of judges Vivek Agrawal and Avanindra Kumar Singh also said the case should be placed before the acting Madhya Pradesh Chief Justice
-
-## Andhra family jumps off bridge into Godavari, woman rescued, 3 missing: Police
-Rescue teams launched a search operation in the Godavari to trace the missing family members. Efforts were underway to locate the missing persons
-
-## Tripura: Former CM says BJP blocked Left candidates ahead of district council polls
-Filing of nominations by the candidates will have to be completed by September 8. Their papers will be scrutinised on September 9
-
-## Bengal may ban mobile phones in schools, says CM Suvendu Adhikari
-He also said that the state has plans to reintroduce the traditional games and sports in schools such as Kho-kho, kabaddi
 
 ## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
 The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Haaland heads Man City to the top of Premier League with win over Coventry
+Norwegian scores only goal of unconvincing home win against newly promoted Coventry City.
+
+## Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
+The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.
+
+## Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means
+Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.
+
+## US says it hit three Iranian oil tankers after attacks on warships
+US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
+
+## Israeli campaign of West Bank destruction moves on to region’s food basket
+Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.
+
+## Rescuers pull Chinese worker, Nepali woman from flood wreckage alive
+Rescues fuel hope more could be found alive as Nepal's flood death toll passes 1,331, with people missing on both sides.
+
 ## Multipolarity gives middle powers more choices, but fewer guarantees
 BRICS, SCO and other organisations can offer relief from great power pressure but do not provide collective defence.
 
 ## US says it hit Iran oil tankers helping finance ‘regional proxies’
 US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.
-
-## Relatives hold cremations without bodies for Nepal’s missing flood victims
-Fewer than one in 10 recovered bodies of people killed in deadly floods has been formally identified.
-
-## Coach Luis Enrique unconcerned by PSG’s poor start to French league season
-Two points from three matches is ⁠their worst start since the ​2007-08 season, when PSG came close to relegation.
-
-## Why has the Trump administration ordered staff to take polygraph tests?
-Reports of dwindling US weapons stocks have triggered an unusually sweeping hunt for leakers inside the Pentagon.
-
-## UK gov’t condemns masked anti-immigrant protesters blocking Dover port
-Traffic at Britain's largest international port briefly halted as 'stop the boats' protesters blocked approaching roads.
-
-## Arsenal vs Chelsea: Premier League – prediction, teams, lineups
-Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.
-
-## ‘Stop the boats’ masked protesters block England’s Port of Dover
-Masked protesters blocked major roads around England’s Port of Dover on Saturday.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
