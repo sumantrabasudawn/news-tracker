@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Farage urged by Labour to ‘take responsibility’ over TV sting
+Reform leader says no foreign money was ever funnelled to the party
+
+## Trump envoys arrive in Ukraine after meeting Putin in Moscow
+Hopes of a breakthrough are low in Kyiv as Steve Witkoff and Jared Kushner make their first official visit to the capital
+
+## South-east Asia choked as Indonesian wildfires and volcanic ash spread
+El Niño weather cycle has intensified seasonal blazes linked to illegal land clearing
+
+## JLR plans up to 4,000 job cuts as Chinese rivals pile on pressure
+British carmaker’s voluntary redundancy programme poses a fresh challenge to UK Prime Minister Andy Burnham
+
+## German state heads to regional polls in far-right cliffhanger
+AfD is within reach of power in eastern state of Saxony-Anhalt
+
 ## Trump’s approval rating falls to all-time low in FT poll
 Voters’ anxiety about economy saps popularity of US president and his Republican Party weeks before midterm elections
 
@@ -9,26 +24,14 @@ Industry braces for downturn as influx of capital into property and casualty ins
 ## How the UK can stop accidentally exporting its best tech start-ups
 Better give start-ups reasons to stay than make it harder to leave
 
-## Unpaid and under attack: the frontline workers fighting Ebola
-People have frequently turned on nurses and doctors as they risk infection to battle fast-spreading epidemic in DR Congo
-
-## 12 English police forces involved in contentious Palantir pilot programmes
-More than a quarter of forces in England and Wales have the same kind of contract that was blocked in London by Mayor Sadiq Khan
-
-## Iceland’s ‘no’ exposes EU complacency
-It is tempting but wrong for all sides to conclude that existing agreements with Europe’s northern flank work well
-
-## The risky mission to de-mine the Strait of Hormuz
-US Navy divers, boats and robots made covert night-time trips to dispose of explosives in the crucial channel
-
-## The ultranationalists remaking Israel’s armed forces
-The country’s religious Zionist community has for years campaigned to take control of the traditionally secular military
-
-## ‘Get John Lewis leading again’: Jason Tarry plots revival of department store
-Partnership chair’s turnaround plan envisages hundreds of millions of pounds in extra profit from loyalty schemes and retail media
+## Inside John Lewis’s secret turnaround plan
+Partnership chair Jason Tarry aims to generate hundreds of millions in extra profit from loyalty scheme and retail media
 
 ## LVMH sheds boom-time gains as luxury ‘feelgood factor’ fades
 Pandemic-era rally that turned LVMH into Europe’s most valuable company has gone into reverse as investors doubt luxury recovery
+
+## Life on the frontline against Ebola
+People have frequently turned on the nurses and doctors risking infection to battle fast-spreading epidemic in DR Congo
 
 ## The chicken farms that become ‘pathogen sponges’ for superbugs
 Pakistan’s poultry houses provide protein for its population but they are also breeding grounds for antibiotic-resistant microbes
@@ -39,29 +42,38 @@ Graduates and interns hoping to join Swiss bank must show they can use the techn
 ## ‘Unfinished business’: Kalanick revisits robotaxis with new start-up
 Atoms gears up for hiring spree and could link with Uber, the company he was ousted from almost a decade ago
 
-## From policy paralysis to policy dynamism, India has come a long way: PM Modi at SRCC after 13 years
-Modi said there were some who questioned his optimism and raised doubts about initiatives like 'Make in India'
+## FSSAI suspends licenses of Kailash Formulation, Sanecure Water Project
+The food safety regulator has directed CG Foods’ Ajmer unit “to discontinue the production of Veg Bhujia Namkeen product without proper approvals and measures.”
 
-## TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad
-The campus will be designed for frontier AI companies and hyperscalers, facilitating high-density GPU deployments for AI training and advanced computing
+## FCNR-led rupee rally makes gold cheaper, weighs on prices
+Rupee has appreciated against dollar by 1 per cent to 94.49 on Friday against 95.35 on August 26
 
-## Novartis India to pursue therapy-aligned acquisitions; eyes expansion in Tier 2 and Tier 3 markets
-The company's future strategy focuses on five anchor therapy areas: pain management, wellness, women's health, neuroscience, and transplant immunology
+## BS7 opens up close to 10,000-crore annual opportunity for auto-component makers
+Advanced emission-control components, from higher-value exhaust systems to sensors and electronic controls, stand to gain as India prepares to tighten vehicle-emission standards
 
-## Hyundai Motor India expects 30% sales to come from rural markets in 3-4 years: MD & CEO
-The company, which has 68% of its total sales coming from SUVs overall, is also witnessing SUV penetration of 69% in the rural markets, he said in an interaction
+## DP Abhushan eyes 51 stores, ₹15,000 cr revenue by FY30
+Company is targeting to be present in 7-8 states.
 
-## SBI to hire 12,000 personnel, add 250 branches during FY27: Chairman Setty
-SBI had hired 4,640 officers, 19,340 associates, and 1,653 contractual staff in 2025–26, taking the total number of hires to 25,633, as per the bank's annual report for FY26
+## VinFast gears up for India E2W foray, begins hunt for dealers
+VinFast invited applications for exclusive VinFast E-Motorcycle dealership opportunities across the country, signalling that its India two-wheeler launch could be drawing closer
 
-## Cybersecurity skills gap widens as cyberattacks surge: Kerala DGP
-The summit was supported by the Data Security Council of India, TiE Kerala and the Cochin Chamber of Commerce and Industry.
+## London-bound plane makes 'emergency landing' at Bengaluru airport after technical snag
+The flight was carrying approximately 270 passengers bound for London.
 
-## Karnataka AI University panel holds first meeting, focuses on immediate skilling
-The meeting brought together senior representatives from the technology industry, academia and the Karnataka government to discuss measures to develop AI talent in the state
+## SC to hear on Sept 7 plea seeking guidelines to control airfare fluctuations
+The plea claims that currently, no authority has the power to review or cap airfares or ancillary fees.
 
-## IPO rush picks up: 11 Cos set to raise ₹7,055 cr next week
-The IPOs are scheduled to hit the market between September 7 and September 15.
+## Volcanic ash cloud sparks widespread air travel disruption across regional hubs following Mt Anak Krakatau eruption
+The resulting airborne hazard forced safety authorities to implement a temporary grounding of flight operations at Jakarta’s Soekarno-Hatta International Airport
+
+## Crude prices, Fed bets and more: What’s in store for markets this week
+In the coming week, global events are set to significantly impact stock markets, with investors on high alert for developments in the Middle East and fluctuations in crude oil prices. Critical US inflation figures and the Federal Reserve's policy trajectory are pivotal focal points. The recent posit
+
+## Onion prices still make eyes water despite Centre's Rs 35/kg buffer sale
+In a move to curb soaring onion prices, the government is implementing subsidized sales, dispersing around four thousand tonnes of onions to seventeen cities. With fresh kharif onion arrivals anticipated from mid-October, the supply situation is set to improve, although the recent rabi crop suffered
+
+## Rs 1 lakh gold investment becomes Rs 3.28 lakh in 5 years: 228% return plus interest
+The Reserve Bank of India (RBI) has announced the premature redemption price for the SGB 2021-22 Series VI, which was issued on September 7, 2021. In a statement, the RBI has said that investors in this gold bond series will be able to exercise the premature redemption option from September 7, 2026.
 
 ## FPIs turn sellers again, pull out Rs 7,443 crore from Indian equities in first week of September
 In early September, foreign portfolio investors pulled out Rs 7,443 crore from Indian equities after experiencing two months of net investments. This retreat was influenced by soaring crude oil prices and stable US bond yields, which dampened investor enthusiasm. Additionally, foreign entities maint
@@ -78,38 +90,32 @@ A recent Bombay High Court case involved a son who was directed to vacate his fa
 ## Global food prices rise 1.9%, says UN body; highest since 2022 amid weather, war disruptions
 Food prices worldwide hit the highest levels since late 2022 in August, fueled by unpredictable weather conditions and rising geopolitical conflicts. These factors, coupled with interruptions to trade pathways, are raising alarms over the supply of vital commodities. This troubling update was shared
 
-## Output overdrive: 30% productivity boost could power 35% of future manufacturing
-According to a KPMG report, productivity is identified as the leading catalyst for growth within manufacturing. Firms that excel in boosting productivity tend to see notable increases in both profits and market valuation. For large manufacturers, meaningful productivity improvements require transfor
+## Toddler among 3 killed after car hits bike in Kerala, ‘drunk’ driver absconding
+The impact was so severe that the three victims were thrown nearly 50 metres away from the spot.
 
-## India’s car buyers shift from petrol as CNG, hybrid, EVs cross 42% sales share: Report
-Cleaner fuels now lead Indian passenger vehicle sales, surpassing petrol for the first time. CNG's market share reached a record high of twenty-five percent in August. Electric vehicle sales saw a significant fifty-two percent jump year-on-year. Tata Motors regained its leading position in the elect
+## Delhi court denies bail to Amitabh Jhunjhunwala in ₹11,000cr money laundering case
+Jhunjhunwala, former vice-chairman of Reliance Capital was arrested by the Enforcement Directorate on April 15
 
-## Tesla’s wheel-free Cybercabs face US safety probe just a day after launch
-The US safety regulator is conducting an investigation into Tesla's innovative taxis that operate without a steering wheel. The National Highway Traffic Safety Administration is assessing whether these vehicles adhere to federal safety regulations. Following their launch in Austin, Texas, on Thursda
+## ‘Most students would be inside’: Locals after boys’ PG collapses in Delhi's Satya Niketan
+Locals and witnesses also joined the rescue operation, using their hands and whatever equipment was available to clear the debris.
 
-## Delhi to get more rain, thunderstorms on Sunday; IMD issues yellow alert
-Delhi is likely to receive more rain and thunderstorms on Sunday as the IMD issued a yellow alert. The capital has already crossed its annual rainfall average.
+## Delhi building collapse LIVE: 40-50 feared trapped as boys' PG collapses in Satya Niketan; CM ‘monitoring situation’
+Delhi building collapse LIVE: Police cited preliminary information and said that around 40-50 students were in the Satya Niketan building at the time of the incident. Further, 6-7 students have been rescued of whom 3 are at the AIIMS trauma centre in a critical state.
 
-## India, China to hold first Corps Commander-level talks today at Wacha along LAC in Arunachal Pradesh
-The first meeting between the officers at the Corps Commander level in the eastern sector has reportedly been scheduled for September 6.
+## 5 including 4 of family killed in house-collapse incidents in UP
+5 including 4 of family killed in house-collapse incidents in UP
 
-## Every fourth Jan Dhan account inoperative; 5.72 crore have zero balance: RTI
-Every fourth Jan Dhan account inoperative; 5.72 crore have zero balance: RTI
+## Teen's Radhakrishnan comparison with Modi during PM's metro ride: ‘Today, we have you…’
+The Prime Minister attended SRCC's centenary celebrations on Saturday.
 
-## Healthcare must be ready for old population: NITI Aayog vice-chief
-Ashok K Lahiri said rising non-communicable diseases, including diabetes, cancer and cardiovascular conditions, are reshaping healthcare needs.
+## Kanpur: 63-year-old medicine trader murdered at home, two detained: Police
+Police said that at the time of the incident, his son Subrat, daughter-in-law and six-year-old grandson were out attending a party
 
-## Popularity was never my goal; what matters is public health: Tukaram Mundhe
-Popularity was never my goal; what matters is public health: Tukaram Mundhe
+## 'Enter, don't spare doctors': Sena workers accused of attacking staff at Palghar hospital
+Police said a FIR has been registered and a detailed probe is underway.
 
-## Vice President Radhakrishnan arrives in Assam on two-day trip
-Vice President Radhakrishnan arrives in Assam on two-day trip
-
-## Bihar updates CBI probe ambit as per rules of BNS, BNSS
-The extension of the CBI ambit will cover only central government employees working in the state or those working in other central government bodies, the police headquarters said in a statement.
-
-## Jantar Mantar assault case: Minor CJP activist alleges stone pelting outside her home, seeks police security
-In a video shared on X, the 14-year-old has alleged that the "goons" outside her house pelted stones and bricks into the house.
+## Which overseas property markets will be the winners and losers if Fed raises US rates?
+Comments by US Federal Reserve chairman Kevin Warsh at its annual economic policy symposium in Jackson Hole last month have reinforced expectations of an impending interest rate rise in the world’s largest economy, which would have significant impacts on assets and investors around the world. While 
 
 ## Tesla to exhibit Cybercab robotaxi in China: can it spark buzz amid slow sales?
 Tesla is facing weaker sales in China this year, but the American electric vehicle (EV) manufacturer is looking to generate a buzz in its second-largest market by exhibiting its new self-driving vehicle, the Cybercab. The robotaxi – which operates entirely without a steering wheel, pedals or rear-vi
@@ -131,9 +137,6 @@ Not so long ago, Pokemon cards were little more than schoolyard treasures in Hon
 
 ## Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate
 The latest round of the Hong Kong government’s Silver Bonds programme has attracted a record number of subscriptions in terms of both quantity and value, as the city’s elderly investors seize the opportunity to secure better returns than those offered by bank deposits. Investors submitted 478,000 bi
-
-## Bargain sale, collapsed deal reflect Hong Kong’s struggling retail property market
-A foreclosure sale in Hong Kong’s Lan Kwai Fong area and a cancelled shop transaction in North Point reflect the impact of weak consumer spending on Hong Kong’s retail property market, which will remain under pressure through the end of the year, according to analysts. The Lan Kwai Fong property, ho
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Flames burst from Qantas plane engine after New Zealand takeoff
-A terrifying moment unfolded aboard a Qantas flight from Queenstown to Sydney when flames erupted from its left engine.
+## US, Iran engaged in tanker war: Where is the months-long conflict headed?
+The US and Iran attack tankers in Strait of Hormuz, as the two sides try to exert control over the strategic waterway.
 
-## Yemeni forces claim strategic district amid intensified Houthi clashes
-More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.
+## Palestinians in Gaza bury remains of 100 people recovered from rubble
+The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.
 
-## Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’
-Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’
+## LIVE: Everton vs Manchester United – Premier League
+All our live updates as Bruno Fernandes and Marcus Rashford look to fire during our text commentary stream coverage.
 
-## More than 20 killed in fire at wedding party in DR Congo
-Authorities have launched an investigation into a fire that killed 22 people at a wedding party in Kinshasa, DR Congo.
+## Israeli flags become the latest weapon of settlers in West Bank domination
+Israel's visual colonisation aims to make Palestinians feel like guests in their own homeland.
 
-## South Africa’s chrome riches fuel a deadly underground economy
-Behind South Africa’s chrome riches lies a shadow economy where migrants and unemployed workers face deadly conditions.
+## Israeli air attacks on Lebanon kill at least four
+Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.
 
-## German voters head to polls as far-right AfD party eyes historic state win
-Saxony-Anhalt elections could see AfD become the first far-right party to take power at a state level since WWII.
+## Israel bombards several towns in southern Lebanon
+The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June
 
-## Indonesia’s main airport suspends flights due to Anak Krakatau eruption
-Volcanic ash from Mount Anak Krakatau disrupts flights at Soekarno-Hatta International airport, near Jakarta.
+## Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic
+Filipina Alex Eala lost a three-set thriller to American Iva Jovic, as Naomi Osaka overcame Elise Mertens to progress.
 
-## Nearly 9,000 killed in Israeli attacks on Lebanon since 2023
-More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.
+## How do you arrest 50,000 people quietly?
+ICE agents arrested an average of one person every 54 seconds in July. AJLabs examines a record month for deportations.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
