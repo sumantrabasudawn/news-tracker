@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## Farage urged by Labour to ‘take responsibility’ over TV sting
-Reform leader says no foreign money was ever funnelled to the party
+## Hostility to Reform UK leaves Farage with a dilemma
+Toning down its positions in pursuit of wider appeal would risk an exit of supporters on the right
+
+## Was Huawei’s rise built on crime? A Brooklyn jury will decide
+Five years after finance chief Meng Wanzhou’s release from detention in Canada, the company itself is going on trial
 
 ## Trump envoys arrive in Ukraine after meeting Putin in Moscow
-Hopes of a breakthrough are low in Kyiv as Steve Witkoff and Jared Kushner make their first official visit to the capital
+Hopes of breakthrough are low in Kyiv as Steve Witkoff and Jared Kushner make their first official visit to the capital
+
+## Britain is a factory for ideas applied elsewhere
+Barriers to development at home push the upsides of UK research abroad
+
+## Will US inflation data persuade the Fed to raise rates this month?
+Market Questions is the FT’s guide to the week ahead
+
+## Farage urged by Labour to ‘take responsibility’ over TV sting
+Reform leader says no foreign money was ever funnelled to the party
 
 ## South-east Asia choked as Indonesian wildfires and volcanic ash spread
 El Niño weather cycle has intensified seasonal blazes linked to illegal land clearing
@@ -12,59 +24,50 @@ El Niño weather cycle has intensified seasonal blazes linked to illegal land cl
 ## JLR plans up to 4,000 job cuts as Chinese rivals pile on pressure
 British carmaker’s voluntary redundancy programme poses a fresh challenge to UK Prime Minister Andy Burnham
 
-## German state heads to regional polls in far-right cliffhanger
-AfD is within reach of power in eastern state of Saxony-Anhalt
-
-## Trump’s approval rating falls to all-time low in FT poll
-Voters’ anxiety about economy saps popularity of US president and his Republican Party weeks before midterm elections
-
-## Insurers pile on risk as payouts fall to lowest level in 20 years
-Industry braces for downturn as influx of capital into property and casualty insurance pushes down premiums
-
-## How the UK can stop accidentally exporting its best tech start-ups
-Better give start-ups reasons to stay than make it harder to leave
+## European SpaceX rival launches rocket into orbit
+German start-up Isar Aerospace succeeds in first ever commercial blast-off from Europe
 
 ## Inside John Lewis’s secret turnaround plan
 Partnership chair Jason Tarry aims to generate hundreds of millions in extra profit from loyalty scheme and retail media
 
+## Insurers pile on risk as payouts fall to lowest level in 20 years
+Industry braces for downturn as influx of capital into property and casualty insurance pushes down premiums
+
 ## LVMH sheds boom-time gains as luxury ‘feelgood factor’ fades
 Pandemic-era rally that turned LVMH into Europe’s most valuable company has gone into reverse as investors doubt luxury recovery
+
+## How the UK can stop accidentally exporting its best tech start-ups
+Better give start-ups reasons to stay than make it harder to leave
 
 ## Life on the frontline against Ebola
 People have frequently turned on the nurses and doctors risking infection to battle fast-spreading epidemic in DR Congo
 
-## The chicken farms that become ‘pathogen sponges’ for superbugs
-Pakistan’s poultry houses provide protein for its population but they are also breeding grounds for antibiotic-resistant microbes
+## Rentomojo targets growth as rental assets generate repeat revenue
+FY2017 cohort generated 5.12 times asset cost; occupancy at 83-84% as company lists on September 9
 
-## UBS demands new junior bankers show AI proficiency
-Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency
+## HEG Advanced Materials demerger to add ₹4,000 crore market capitalisation
+Under the restructuring scheme, the existing listed entity, HEG Advanced Materials, will retain its growth businesses
 
-## ‘Unfinished business’: Kalanick revisits robotaxis with new start-up
-Atoms gears up for hiring spree and could link with Uber, the company he was ousted from almost a decade ago
-
-## FSSAI suspends licenses of Kailash Formulation, Sanecure Water Project
-The food safety regulator has directed CG Foods’ Ajmer unit “to discontinue the production of Veg Bhujia Namkeen product without proper approvals and measures.”
-
-## FCNR-led rupee rally makes gold cheaper, weighs on prices
-Rupee has appreciated against dollar by 1 per cent to 94.49 on Friday against 95.35 on August 26
-
-## BS7 opens up close to 10,000-crore annual opportunity for auto-component makers
-Advanced emission-control components, from higher-value exhaust systems to sensors and electronic controls, stand to gain as India prepares to tighten vehicle-emission standards
-
-## DP Abhushan eyes 51 stores, ₹15,000 cr revenue by FY30
-Company is targeting to be present in 7-8 states.
+## Air India’s systems must inspire confidence
+Robust systems need to be in place
 
 ## VinFast gears up for India E2W foray, begins hunt for dealers
 VinFast invited applications for exclusive VinFast E-Motorcycle dealership opportunities across the country, signalling that its India two-wheeler launch could be drawing closer
 
-## London-bound plane makes 'emergency landing' at Bengaluru airport after technical snag
-The flight was carrying approximately 270 passengers bound for London.
+## Embraer deepens India supply chain push across aerospace, defence verticals
+Brazilian aircraft maker expands localisation efforts through supplier partnerships, MRO plans and manufacturing ecosystem development
 
-## SC to hear on Sept 7 plea seeking guidelines to control airfare fluctuations
-The plea claims that currently, no authority has the power to review or cap airfares or ancillary fees.
+## BS7 opens up close to ₹10,000-crore annual opportunity for auto-component makers
+Advanced emission-control components, from higher-value exhaust systems to sensors and electronic controls, stand to gain as India prepares to tighten vehicle-emission standards
 
-## Volcanic ash cloud sparks widespread air travel disruption across regional hubs following Mt Anak Krakatau eruption
-The resulting airborne hazard forced safety authorities to implement a temporary grounding of flight operations at Jakarta’s Soekarno-Hatta International Airport
+## Asia-Pacific Media Forum held in China's Guangdong
+Asia-Pacific Media Forum held in China's Guangdong
+
+## TPPs with critical stocks rise as coal reserves deplete
+A major reason for the decline in stocks at the TPP end is that historically, supplies get stretched during monsoon, as rains hinder mining activity and transport
+
+## India holds strong: How government & RBI worked to shield economy from US-Iran war
+The economy has shown resilience in the face of multiple crises. GDP growth is just one aspect of the story. Foreign exchange reserves have recently hit an all-time high. GST collections - an important high frequency indicator - are robust. India’s exports have successfully diversified into new mark
 
 ## Crude prices, Fed bets and more: What’s in store for markets this week
 In the coming week, global events are set to significantly impact stock markets, with investors on high alert for developments in the Middle East and fluctuations in crude oil prices. Critical US inflation figures and the Federal Reserve's policy trajectory are pivotal focal points. The recent posit
@@ -87,32 +90,38 @@ Reddy said he discovered the notice relating to the unexplained cash deposits on
 ## Son loses gifted flat after neglecting parents; why he may still inherit it later
 A recent Bombay High Court case involved a son who was directed to vacate his father’s flat after the court found that he had failed to honour the condition attached to the gift of the property. The flat had been transferred to him on the understanding that he would take care of his parents, an obli
 
-## Global food prices rise 1.9%, says UN body; highest since 2022 amid weather, war disruptions
-Food prices worldwide hit the highest levels since late 2022 in August, fueled by unpredictable weather conditions and rising geopolitical conflicts. These factors, coupled with interruptions to trade pathways, are raising alarms over the supply of vital commodities. This troubling update was shared
+## Amit Shah launches Nasha Mukt Bharat 2029 roadmap, vows zero narcotics across borders
+Shah, who was in Goa on an official trip, chaired a meeting to review the state’s security preparedness before cancelling his events and rushing back to Delhi
 
-## Toddler among 3 killed after car hits bike in Kerala, ‘drunk’ driver absconding
-The impact was so severe that the three victims were thrown nearly 50 metres away from the spot.
+## SOS video from under debris: Student trapped in collapsed Delhi boys’ PG building reaches out to friend
+The video was also shared by NSUI, student wing of the Congress, as its workers are on the spot helping with the rescue work.
 
-## Delhi court denies bail to Amitabh Jhunjhunwala in ₹11,000cr money laundering case
-Jhunjhunwala, former vice-chairman of Reliance Capital was arrested by the Enforcement Directorate on April 15
+## ‘Extra marks if…’: JNU professor accused of sexual harassment said this to students
+The JNU professor allegedly made inappropriate remarks with sexual connotations during the viva examinations held in the first week of May.
 
-## ‘Most students would be inside’: Locals after boys’ PG collapses in Delhi's Satya Niketan
-Locals and witnesses also joined the rescue operation, using their hands and whatever equipment was available to clear the debris.
+## Manipur final electoral roll records 1.96 million voters after revision
+The final photo electoral rolls, 2026 has recorded a total of 19,60,620 voters with 9,53,350 male, 10,06,962 female and 308 third gender
 
-## Delhi building collapse LIVE: 40-50 feared trapped as boys' PG collapses in Satya Niketan; CM ‘monitoring situation’
-Delhi building collapse LIVE: Police cited preliminary information and said that around 40-50 students were in the Satya Niketan building at the time of the incident. Further, 6-7 students have been rescued of whom 3 are at the AIIMS trauma centre in a critical state.
+## 'The walls were cracking': Student who lived in collapsed Delhi boys’ PG recalls state of building
+At least one person was killed after the multi-storey structure fell on Sunday afternoon, with around over 40 students feared trapped under the rubble.
 
-## 5 including 4 of family killed in house-collapse incidents in UP
-5 including 4 of family killed in house-collapse incidents in UP
+## ‘Situation being closely monitored’: CM Rekha Gupta, minister Kapil Mishra reach site of boys’ PG collapse
+Delhi CM Rekha Gupta said the adjacent building had also been vacated as a precautionary measure.
 
-## Teen's Radhakrishnan comparison with Modi during PM's metro ride: ‘Today, we have you…’
-The Prime Minister attended SRCC's centenary celebrations on Saturday.
+## Jharkhand minister Sudivya Kumar dies at 56, state declares two-day mourning
+The Jharkhand government declared a two-day state mourning in honour of Sudivya Kumar, besides cancelling all its scheduled programmes
 
-## Kanpur: 63-year-old medicine trader murdered at home, two detained: Police
-Police said that at the time of the incident, his son Subrat, daughter-in-law and six-year-old grandson were out attending a party
+## HT Evening Brief Sept 6: ‘Influencer’ Swatantra Bhardwaj sent to jail; 'Hanuman Ansh' crosses ₹100 cr at box office
+Here is your briefing on today's top news stories from India, the world, sports, and entertainment.
 
-## 'Enter, don't spare doctors': Sena workers accused of attacking staff at Palghar hospital
-Police said a FIR has been registered and a detailed probe is underway.
+## China rolls out massive US$54b package for insurers, banks in financial powerhouse push
+China rolled out a package of capital injections worth about 360 billion yuan (US$54 billion) on Sunday for the country’s largest state-owned insurers and state banks, marking a step towards Beijing’s long-flagged plan to build itself into a global financial powerhouse. The Ministry of Finance, whic
+
+## Punching above their weight: how China’s AI giants stretch each dollar in compute race
+The massive gap in artificial intelligence spending between US and Chinese tech titans may not buy the advantage expected for American giants, as lower domestic costs and heavy state support allow Chinese firms to secure far more computing power per dollar, according to a new report by Moody’s Ratin
+
+## Huawei paper shows Tau Scaling Law chip solves overheating ahead of Kirin 2026 launch
+Huawei Technologies has released a new research paper showing its Tau Scaling Law-based semiconductor architecture can avoid overheating, which analysts view as a key technical hurdle for its anticipated Kirin 2026 smartphone chip. The paper, authored by He Tingbo, chairwoman of the Huawei Scientist
 
 ## Which overseas property markets will be the winners and losers if Fed raises US rates?
 Comments by US Federal Reserve chairman Kevin Warsh at its annual economic policy symposium in Jackson Hole last month have reinforced expectations of an impending interest rate rise in the world’s largest economy, which would have significant impacts on assets and investors around the world. While 
@@ -128,15 +137,6 @@ With the saga surrounding Evergrande founder Hui Ka‑yan ending in his life sen
 
 ## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
 The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
-
-## New reality for China’s entertainment sector as AI drama goes prime time
-From low-quality “slop” such as soap operas starring humanlike cats and dating shows featuring anthropomorphic fruit, to increasingly slick productions realistic enough to pass for live action, artificial intelligence-generated video dramas have become almost inescapable on Chinese social media feed
-
-## Inside Hong Kong’s red-hot Pokemon card market, where Pikachus sell like stocks
-Not so long ago, Pokemon cards were little more than schoolyard treasures in Hong Kong. But the trading cards are now evolving into a sophisticated new asset class, driven by millennial nostalgia and the forces of global capital. In today’s red-hot market – where rare Pikachus sell for vast sums and
-
-## Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate
-The latest round of the Hong Kong government’s Silver Bonds programme has attracted a record number of subscriptions in terms of both quantity and value, as the city’s elderly investors seize the opportunity to secure better returns than those offered by bank deposits. Investors submitted 478,000 bi
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US, Iran engaged in tanker war: Where is the months-long conflict headed?
-The US and Iran attack tankers in Strait of Hormuz, as the two sides try to exert control over the strategic waterway.
+## How significant are the Yemeni government’s military gains against Houthis?
+Government forces make gains as fighting escalates, raising fears of a return to full-scale war.
 
-## Palestinians in Gaza bury remains of 100 people recovered from rubble
-The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.
+## Seven mouths, one meal: Feeding a family through Gaza’s food crisis
+Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.
 
-## LIVE: Everton vs Manchester United – Premier League
-All our live updates as Bruno Fernandes and Marcus Rashford look to fire during our text commentary stream coverage.
+## How the West’s promise of freedom created a world of anger
+In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.
 
-## Israeli flags become the latest weapon of settlers in West Bank domination
-Israel's visual colonisation aims to make Palestinians feel like guests in their own homeland.
+## Palestinians mourn loved ones in mass funeral in Gaza City
+Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.
 
-## Israeli air attacks on Lebanon kill at least four
-Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.
+## Algeria civil defence recovers body of 10-year-old boy from well
+Child found dead after four-day rescue effort in Algeria's western province of el-Bayadh.
 
-## Israel bombards several towns in southern Lebanon
-The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June
+## Bangladesh protesters demand action over rising costs
+Bangladesh sees its first major protests under PM Tarique Rahman, with thousands marching over rising living costs.
 
-## Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic
-Filipina Alex Eala lost a three-set thriller to American Iva Jovic, as Naomi Osaka overcame Elise Mertens to progress.
+## LIVE: Arsenal vs Chelsea – Premier League
+Follow live updates from the London derby - including the build-up, analysis and live text commentary of the game.
 
-## How do you arrest 50,000 people quietly?
-ICE agents arrested an average of one person every 54 seconds in July. AJLabs examines a record month for deportations.
+## Jovic moved to tears after beating ‘incredible’ friend Eala in US Open epic
+Iva Jovic outlasted the fellow young tennis sensation from the Philippines, Alex Eala, in an epic three-hour showdown.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
