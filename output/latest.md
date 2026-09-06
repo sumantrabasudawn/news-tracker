@@ -1,28 +1,31 @@
 # AION Intelligence
 
+## Police face questions over anti-migrant protests by masked protesters
+Demonstrators in Portsmouth prevent lifeboat crews from bringing people ashore a day after stand-off in Dover
+
+## Five killed as Amazon cargo plane overshoots runway in Miami
+Crash of Prime Air 767-300 is latest in a string of recent US aviation accidents
+
+## UK hiring picks up in latest hint of improving economic confidence
+Survey suggests demand for staff is now stabilising in the private sector
+
 ## Far-right AfD surges to first place in German state elections
 Alternative for Germany is projected to become the largest party in Saxony-Anhalt but fall short of a parliamentary majority
-
-## Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials
-Foiled drone attack at German airport seen as sign of Nato’s weak response and Moscow’s impunity
 
 ## Germany’s Merz on the ropes after far right delivers devastating blow
 Stunning AfD victory in Saxony-Anhalt shows how Germany’s political centre is crumbling
 
+## FirstFT: Germany’s far-right AfD surges to first place in state elections
+Also in today’s newsletter: Huawei set for New York trial and Indonesian wildfires spread
+
+## Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials
+Foiled drone attack at German airport seen as sign of Nato’s weak response and Moscow’s impunity
+
 ## The risky mission to de-mine the Strait of Hormuz
 US Navy divers, boats and robots made covert night-time trips to dispose of explosives in the crucial channel
 
-## Police face questions over Dover disruption caused by masked protesters
-Up to 500 activists dressed in black brought part of UK port town to a standstill on Saturday
-
-## Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow
-Steve Witkoff and Jared Kushner are seeking to revive earlier proposals to end war
-
 ## Starting gun fired on autumn election campaign season
 Republicans gather in Dallas, 25th anniversary of 9/11, ECB interest rate decision
-
-## Protecting nature isn’t charity. It’s economic self-interest
-The effects of building systems that are out of sync with our environment are becoming all too clear
 
 ## Was Huawei’s rise built on crime? A Brooklyn jury will decide
 Five years after finance chief Meng Wanzhou’s release from detention in Canada, the company itself is going on trial
@@ -117,6 +120,9 @@ Vandana had allegedly mocked Parvati over her brother, who is currently in Damoh
 ## ‘They just want publicity’: BJP slams ‘tragedy hunters’ Congress, AAP over Delhi building collapse criticism
 Lok Sabha LoP Rahul Gandhi targeted the BJP government as he called out the “inhumane conditions” students face “due to a lack of good hostels in colleges”.
 
+## Hong Kong broadens sustainable finance taxonomy framework to boost transition capital
+Hong Kong unveiled an expanded sustainable finance taxonomy as the city kicked off its annual Green Week on Monday, broadening the range of economic activities recognised as green or transition. The Hong Kong Monetary Authority (HKMA) launched a public consultation on the Phase 2B prototype of its H
+
 ## A Prevention Prescription for Hong Kong
 Roche Diagnostics Hong Kong general manager Ronald Lo is pushing the city beyond reactive medicine towards a prevention-led system powered by automation, AI and empowered patients. For Ronald Lo, diagnostics are about time. Time gained through early detection. Time saved by avoiding unnecessary trea
 
@@ -137,9 +143,6 @@ Tesla is facing weaker sales in China this year, but the American electric vehic
 
 ## Why Chelsea football shirts are making Hong Kong fans nervous about crypto laws
 English Premier League football club Chelsea’s lucrative new front-of-shirt sponsorship deal with a stablecoin issuer has left Hong Kong fans and retailers concerned about whether wearing or selling the top counts as illegal promotion under digital currency laws. Chelsea signed the deal with Circle 
-
-## After Evergrande, China’s new rules spark unease amid developers’ debt resolution progress
-With the saga surrounding Evergrande founder Hui Ka‑yan ending in his life sentence and the ongoing financial struggle of mainland developers, analysts said challenges remained for troubled operators getting away from the vicious cycle of a sluggish property market, even though risk resolution had l
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -237,8 +240,11 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Amazon cargo plane crashes in US while landing at Miami airport
-The cause of the crash is being investigated.
+## Alcaraz breezes into last eight at US Open
+Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.
+
+## At least five killed after Amazon cargo plane crash in Miami airport
+Five people are injured, and the cause of the crash is being investigated, authorities say.
 
 ## At least 10 killed in central Mexico fireworks blast during festival
 Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.
@@ -257,9 +263,6 @@ Recent opinion polls suggest opposition bloc is ahead of PM's coalition.
 
 ## At least five killed in New Delhi building collapse
 At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.
-
-## Abdul El-Sayed uses speech to talk about Muslim faith and American identity
-Michigan Senate hopeful spoke about his faith and the experiences of Muslim Americans.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
