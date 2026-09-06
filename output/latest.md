@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## Far-right AfD surges to first place in German state elections
+Alternative for Germany is projected to become the largest party in Saxony-Anhalt but fall short of a parliamentary majority
+
+## Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials
+Foiled drone attack at German airport seen as sign of Nato’s weak response and Moscow’s impunity
+
+## Germany’s Merz on the ropes after far right delivers devastating blow
+Stunning AfD victory in Saxony-Anhalt shows how Germany’s political centre is crumbling
+
 ## The risky mission to de-mine the Strait of Hormuz
 US Navy divers, boats and robots made covert night-time trips to dispose of explosives in the crucial channel
 
 ## Police face questions over Dover disruption caused by masked protesters
 Up to 500 activists dressed in black brought part of UK port town to a standstill on Saturday
-
-## Far-right AfD surges in German state elections, partial results show
-Alternative for Germany is projected to become the largest party in Saxony-Anhalt while falling short of a parliamentary majority
 
 ## Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow
 Steve Witkoff and Jared Kushner are seeking to revive earlier proposals to end war
@@ -17,12 +23,6 @@ Republicans gather in Dallas, 25th anniversary of 9/11, ECB interest rate decisi
 
 ## Protecting nature isn’t charity. It’s economic self-interest
 The effects of building systems that are out of sync with our environment are becoming all too clear
-
-## South-east Asia choked as Indonesian wildfires and volcanic ash spread
-El Niño weather cycle has intensified seasonal blazes linked to illegal land clearing
-
-## Pete Hegseth’s Pentagon purge
-Driscoll exit reflects damage the defence secretary is doing to the US military
 
 ## Was Huawei’s rise built on crime? A Brooklyn jury will decide
 Five years after finance chief Meng Wanzhou’s release from detention in Canada, the company itself is going on trial
@@ -45,6 +45,9 @@ Pandemic-era rally that turned LVMH into Europe’s most valuable company has go
 ## How the UK can stop accidentally exporting its best tech start-ups
 Better give start-ups reasons to stay than make it harder to leave
 
+## Suicide prevention: Keep the conversation going
+World Suicide Prevention Day — September 10
+
 ## The life and times of an enigmatic army chief
 Probal Dasgupta presents a multidimensional portrait of a military icon who operated decades ahead of his time
 
@@ -66,8 +69,17 @@ Careernet data shows time-to-offer down to 46 days, but nearly a third of hires 
 ## Kharif Harvest Outlook: Strong prices expected for most crops, except Bajra and Moong
 The mandi prices of Bajra, Paddy, Moong, Groundnut and Soyabean are ruling in negative ranging from 0.6 per cent to 31 per cent over their next season’s MSPs
 
-## TPPs with critical stocks rise as coal reserves deplete
-A major reason for the decline in stocks at the TPP end is that historically, supplies get stretched during monsoon, as rains hinder mining activity and transport
+## China to pump $54 billion into state banks, insurers
+
+
+## Busy week ahead: Companies set to raise Rs 7.2k crore via IPOs
+D-St Warms Up In Build-Up To Mega NSE, Jio Platforms Offers
+
+## VCs, celebrities bet on AI startups in media, sports
+
+
+## Your sugar cravings may get costlier
+
 
 ## Builder promised 5,069 sq ft, delivered 3,900; RERA orders refund, Rs 98 lakh penalty
 Telangana RERA condemned the use of such tactics by the builder, stating that the alleged conduct amounted to cheating, violated Section 3 of the RE(R&D) Act and made the builder liable for a penalty.
@@ -80,18 +92,6 @@ This week sees potential volatility in gold and silver prices, primarily driven 
 
 ## India holds strong: How government & RBI worked to shield economy from US-Iran war
 The economy has shown resilience in the face of multiple crises. GDP growth is just one aspect of the story. Foreign exchange reserves have recently hit an all-time high. GST collections - an important high frequency indicator - are robust. India’s exports have successfully diversified into new mark
-
-## Crude prices, Fed bets and more: What’s in store for markets this week
-In the coming week, global events are set to significantly impact stock markets, with investors on high alert for developments in the Middle East and fluctuations in crude oil prices. Critical US inflation figures and the Federal Reserve's policy trajectory are pivotal focal points. The recent posit
-
-## Onion prices still make eyes water despite Centre's Rs 35/kg buffer sale
-In a move to curb soaring onion prices, the government is implementing subsidized sales, dispersing around four thousand tonnes of onions to seventeen cities. With fresh kharif onion arrivals anticipated from mid-October, the supply situation is set to improve, although the recent rabi crop suffered
-
-## Rs 1 lakh gold investment becomes Rs 3.28 lakh in 5 years: 228% return plus interest
-The Reserve Bank of India (RBI) has announced the premature redemption price for the SGB 2021-22 Series VI, which was issued on September 7, 2021. In a statement, the RBI has said that investors in this gold bond series will be able to exercise the premature redemption option from September 7, 2026.
-
-## FPIs turn sellers again, pull out Rs 7,443 crore from Indian equities in first week of September
-In early September, foreign portfolio investors pulled out Rs 7,443 crore from Indian equities after experiencing two months of net investments. This retreat was influenced by soaring crude oil prices and stable US bond yields, which dampened investor enthusiasm. Additionally, foreign entities maint
 
 ## ABVP members protest, vandalise MCD office in Delhi over building collapse incident | Video
 Five people died, while several others are feared trapped after the building, which was a paying guest accommodation, collapsed in Satya Niketan.
@@ -117,6 +117,9 @@ Vandana had allegedly mocked Parvati over her brother, who is currently in Damoh
 ## ‘They just want publicity’: BJP slams ‘tragedy hunters’ Congress, AAP over Delhi building collapse criticism
 Lok Sabha LoP Rahul Gandhi targeted the BJP government as he called out the “inhumane conditions” students face “due to a lack of good hostels in colleges”.
 
+## A Prevention Prescription for Hong Kong
+Roche Diagnostics Hong Kong general manager Ronald Lo is pushing the city beyond reactive medicine towards a prevention-led system powered by automation, AI and empowered patients. For Ronald Lo, diagnostics are about time. Time gained through early detection. Time saved by avoiding unnecessary trea
+
 ## China rolls out massive US$54b package for insurers, banks in financial powerhouse push
 China rolled out a package of capital injections worth about 360 billion yuan (US$54 billion) on Sunday for the country’s largest state-owned insurers and state banks, marking a step towards Beijing’s long-flagged plan to build itself into a global financial powerhouse. The Ministry of Finance, whic
 
@@ -137,9 +140,6 @@ English Premier League football club Chelsea’s lucrative new front-of-shirt sp
 
 ## After Evergrande, China’s new rules spark unease amid developers’ debt resolution progress
 With the saga surrounding Evergrande founder Hui Ka‑yan ending in his life sentence and the ongoing financial struggle of mainland developers, analysts said challenges remained for troubled operators getting away from the vicious cycle of a sluggish property market, even though risk resolution had l
-
-## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
-The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Adidas faces boycott calls over campaign featuring former Israeli soldier
-Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.
+## Amazon cargo plane crashes in US while landing at Miami airport
+The cause of the crash is being investigated.
 
-## Trump administration appeals again to US Supreme Court over mail-in voting
-How the nation's highest court rules could have major implications in this year’s midterm elections.
+## At least 10 killed in central Mexico fireworks blast during festival
+Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.
 
-## Why is Argentina reviving the Falklands dispute?
-More than 44 years after Britain and Argentina went to war over the Falkland Islands, Argentina is reasserting its claim
+## Amazon Prime plane overruns runway at Miami Airport
+An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
 
-## Witkoff says peace talks have been ‘very meaningful’ in Ukraine
-Witkoff says peace talks have been ‘very meaningful’ in Ukraine
+## Can AfD form Germany’s first far-right state government since World War II?
+Germany’s far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.
 
-## Sabalenka through to US Open quarterfinals
-Tennis's two-time defending champion Aryna Sabalenka into last-eight at US Open after beating Taylor Townsend 6-4, 6-3.
+## Susan Sarandon says she still loses film roles over support for Palestine
+Susan Sarandon says she still loses film roles over support for Palestine
 
-## Algerian boy found dead after four days trapped in a well
-Rescuers in Algeria have recovered the body of 10-year-old Ayoub, who died after being trapped in a well.
+## Will Israelis re-elect Benjamin Netanyahu?
+Recent opinion polls suggest opposition bloc is ahead of PM's coalition.
 
-## Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start
-Gunners pass ⁠stiffest test so far in the defence of their Premier ⁠League title as they hit back after going behind.
+## At least five killed in New Delhi building collapse
+At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.
 
-## Photos: UN urges global aid after China, Nepal floods kill over 1,300
-UN launches $50m appeal to aid over 84,000 flood survivors in Nepal amid cholera threat and sanitation challenges.
+## Abdul El-Sayed uses speech to talk about Muslim faith and American identity
+Michigan Senate hopeful spoke about his faith and the experiences of Muslim Americans.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
