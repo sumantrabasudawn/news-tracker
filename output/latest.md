@@ -39,6 +39,12 @@ Since it operates in so many markets, Uber can easily fall into the trap of talk
 ## The prime minister won’t cut spending — here’s how I’m cutting mine
 Cutting back feels self-defeating but October’s Budget will be punishing for broad-shouldered Britons
 
+## SBI Fixed Deposit vs Liquid Funds: Which Is Better for You?
+Overnight, liquid, money market, short-term & arbitrage funds offer bank FD alternatives for up to 3 years
+
+## Who played the ‘most expensive joke’ on Anand Mahindra, the fallible chess player?
+Comedian Samay Raina’s online challenge to Anand Mahindra became what the Mahindra Group chairman calls the ‘most expensive joke’ ever played on him and a Global Chess League with a $1-million annual prize purse
+
 ## Who Am I? September 6, 2026
 Are you an avid investor? How well do you know corporate India?
 
@@ -56,12 +62,6 @@ IT SERVICES Happiest Minds’ merger with ITC Infotech improves scale, but valua
 
 ## Havells holding out for improvements
 Margin performance should match revenue growth for the company prospects to recover
-
-## Jio eyes global market with India-built technology across connectivity, AI
-The company has grown rapidly since its 2016 launch, crossing 100 million subscribers within six months and reaching 533.3 million customers
-
-## Decoding Fibonacci Retracements
-The technique uses mathematical ratios to help traders identify potential price levels where declines may halt or advances could face resistance
 
 ## Rs 41.69 lakh cash deposits, no ITR: He said wife, father paid expenses; ITAT rejects plea
 Reddy said he discovered the notice relating to the unexplained cash deposits only when he applied for a visa for foreign travel. He claimed that the Embassy informed him that an ITR was required for the visa application, which was when he came to know about the tax proceedings. The Income Tax Offic
@@ -111,6 +111,12 @@ Twenty nine people were killed in Jhiram Valley attack in Chhattisgarh in 2013 a
 ## Third arrest in Ketan Agarwal murder case: ‘Lover’ Chetan’s friend held as ‘he knew of earlier murder plan’
 The 22-year-old, identified as Ritesh Hange, is reportedly a friend of Chetan, PTI news agency reported citing officials.
 
+## Why Chelsea football shirts are making Hong Kong fans nervous about crypto laws
+English Premier League football club Chelsea’s lucrative new front-of-shirt sponsorship deal with a stablecoin issuer has left Hong Kong fans and retailers concerned about whether wearing or selling the top counts as illegal promotion under digital currency laws. Chelsea signed the deal with Circle 
+
+## After Evergrande, China’s new rules spark unease amid developers’ debt resolution progress
+With the saga surrounding Evergrande founder Hui Ka‑yan ending in his life sentence and the ongoing financial struggle of mainland developers, analysts said challenges remained for troubled operators getting away from the vicious cycle of a sluggish property market, even though risk resolution had l
+
 ## Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China
 The revelation that Rich Dad, Poor Dad author Robert Kiyosaki has amassed a staggering debt pile has sparked heated discussion in China, where property investors have suffered painful losses in recent years amid a deep market downturn. The 79-year-old Japanese-American author, who inspired generatio
 
@@ -128,12 +134,6 @@ A foreclosure sale in Hong Kong’s Lan Kwai Fong area and a cancelled shop tran
 
 ## Can Hong Kong outshine Singapore as central banks rethink gold custody amid global risks?
 As the Netherlands moved gold out of the US and Canada over geopolitical concerns, attention is turning to whether Hong Kong can capitalise on central banks rethinking where they keep their bullion. The city faces competition from Singapore, which is expected to launch central bank gold-vaulting ser
-
-## China’s AI ‘little giant’ Yunxi Technology files for Hong Kong IPO: sources
-Yunxi Technology, officially one of China’s “little giants”, has submitted a confidential initial public offering application to Hong Kong’s stock exchange, according to people familiar with the matter. The Guangzhou-based start-up was valued at 10 billion yuan (US$1.27 billion) in its latest privat
-
-## Hong Kong’s 106 billionaires, Treasury yields hit recent highs: the numbers moving markets
-China has been expanding its outbound-investment channels, with a new quota granted and greater overseas allocation by the nation’s pension fund. However, the financial world beyond the mainland is seeing volatility as US bond yields hit 20-month highs. Here are some of the figures that have drawn t
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -231,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: IRGC claims new attacks on US warships over naval blockade
+IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.
+
+## Fuel tanker blast in western Iran kills at least 10
+At least six other people were injured in the tanker blast on Iran's Hamedan-Sanandaj highway, officials say.
+
+## Trump-backed group announces $10m ad spend for midterm Senate race in Texas
+US president has pledged more than $400m through his super PAC to boost Republican candidates in the upcoming midterms.
+
 ## US envoys Witkoff, Kushner meet Putin for talks on Ukraine war
 US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.
 
@@ -245,15 +254,6 @@ Manchester United outspent in transfer window, but boss Michael Carrick says tea
 
 ## Colombian government reports three killed in rebel attack on military post
 Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.
-
-## Al Jazeera reporter challenges Huckabee over Israeli settler pogroms
-Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority
-
-## France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’
-Niger's government has widened its blame to unnamed neighbours a week after the assault on a military base.
-
-## Jerusalem Daily: raids, settlers & sieges
-Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
