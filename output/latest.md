@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## Trump envoys take Ukraine peace proposal to meeting with Putin
-Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit
+## Trump’s approval rating falls to all-time low in FT poll
+Voters’ anxiety about economy saps popularity of US president and his Republican Party weeks before midterm elections
 
-## US regulator sues ISS as it steps up scrutiny of proxy advisers
-The SEC accuses the firm of ignoring a subpoena as part of its ‘fact-finding investigation’
+## Insurers pile on risk as payouts fall to lowest level in 20 years
+Industry braces for downturn as influx of capital into property and casualty insurance pushes down premiums
 
-## US strikes three Iranian oil tankers in response to attacks on warships
-Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict
+## How the UK can stop accidentally exporting its best tech start-ups
+Better give start-ups reasons to stay than make it harder to leave
 
-## Trump and Musk Super Pacs boost spending on midterm elections
-Maga Inc and America Pac drop millions on US House and Senate candidates to keep Republicans in control of Congress
+## Unpaid and under attack: the frontline workers fighting Ebola
+People have frequently turned on nurses and doctors as they risk infection to battle fast-spreading epidemic in DR Congo
 
-## Russia-Ukraine peace talks could begin next year, ex-MI6 chief says
-John Sawers tells FT Weekend Festival that enduring peace ‘not really conceivable’ while Vladimir Putin remains in office
+## 12 English police forces involved in contentious Palantir pilot programmes
+More than a quarter of forces in England and Wales have the same kind of contract that was blocked in London by Mayor Sadiq Khan
 
-## Jenrick seeks to get Reform back on track with tax pledge
-Rightwing party’s Treasury spokesperson attempts to shift attention from illicit funding allegations
+## Iceland’s ‘no’ exposes EU complacency
+It is tempting but wrong for all sides to conclude that existing agreements with Europe’s northern flank work well
 
-## Masked protesters block Dover port roads
-Port operator says services back to normal after ‘public order incident’ affected ‘all routes in and out’
+## The risky mission to de-mine the Strait of Hormuz
+US Navy divers, boats and robots made covert night-time trips to dispose of explosives in the crucial channel
 
-## ‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials
-The US president has tried to impose new rules just weeks before election day
+## The ultranationalists remaking Israel’s armed forces
+The country’s religious Zionist community has for years campaigned to take control of the traditionally secular military
 
-## The NBA drops the hammer on Steve Ballmer
-Also in today’s newsletter: skyrocketing US Open ticket prices
+## ‘Get John Lewis leading again’: Jason Tarry plots revival of department store
+Partnership chair’s turnaround plan envisages hundreds of millions of pounds in extra profit from loyalty schemes and retail media
 
-## Jefferies fund caught with $500mn exposure to second alleged invoice fraud
-Point Bonita, which bankrolled collapsed First Brands Group, emerges as big creditor to Radiant World
+## LVMH sheds boom-time gains as luxury ‘feelgood factor’ fades
+Pandemic-era rally that turned LVMH into Europe’s most valuable company has gone into reverse as investors doubt luxury recovery
 
-## Ryanair’s cuts have done other airlines a favour
-Winter months are typically lossmaking for airlines — thus cutting back on services eases the industry’s financial pinch
+## The chicken farms that become ‘pathogen sponges’ for superbugs
+Pakistan’s poultry houses provide protein for its population but they are also breeding grounds for antibiotic-resistant microbes
 
-## Uber picks a side in driver vs robotaxi wars: its own
-Since it operates in so many markets, Uber can easily fall into the trap of talking from both sides of its mouth
+## UBS demands new junior bankers show AI proficiency
+Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency
 
-## The prime minister won’t cut spending — here’s how I’m cutting mine
-Cutting back feels self-defeating but October’s Budget will be punishing for broad-shouldered Britons
+## ‘Unfinished business’: Kalanick revisits robotaxis with new start-up
+Atoms gears up for hiring spree and could link with Uber, the company he was ousted from almost a decade ago
 
-## SBI Fixed Deposit vs Liquid Funds: Which Is Better for You?
-Overnight, liquid, money market, short-term & arbitrage funds offer bank FD alternatives for up to 3 years
+## From policy paralysis to policy dynamism, India has come a long way: PM Modi at SRCC after 13 years
+Modi said there were some who questioned his optimism and raised doubts about initiatives like 'Make in India'
 
-## Who played the ‘most expensive joke’ on Anand Mahindra, the fallible chess player?
-Comedian Samay Raina’s online challenge to Anand Mahindra became what the Mahindra Group chairman calls the ‘most expensive joke’ ever played on him and a Global Chess League with a $1-million annual prize purse
+## TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad
+The campus will be designed for frontier AI companies and hyperscalers, facilitating high-density GPU deployments for AI training and advanced computing
 
-## Who Am I? September 6, 2026
-Are you an avid investor? How well do you know corporate India?
+## Novartis India to pursue therapy-aligned acquisitions; eyes expansion in Tier 2 and Tier 3 markets
+The company's future strategy focuses on five anchor therapy areas: pain management, wellness, women's health, neuroscience, and transplant immunology
 
-## Intellectual freedom gaining strength, India no longer seeks permission to study its heritage: Sitharaman
-Delivering the SL Bhyrappa Memorial Lecture, Sitharaman urged continued intellectual churning and greater space for evidence, rigour and conscience
+## Hyundai Motor India expects 30% sales to come from rural markets in 3-4 years: MD & CEO
+The company, which has 68% of its total sales coming from SUVs overall, is also witnessing SUV penetration of 69% in the rural markets, he said in an interaction
 
-## Fosun Pharma sells 4.5% stake in Gland Pharma for Rs 2,121 crore
-The transaction marks the second major stake sale by Fosun Pharma in the pharmaceutical company in a little over two years
+## SBI to hire 12,000 personnel, add 250 branches during FY27: Chairman Setty
+SBI had hired 4,640 officers, 19,340 associates, and 1,653 contractual staff in 2025–26, taking the total number of hires to 25,633, as per the bank's annual report for FY26
 
-## Unmasking the red herring: How to analyse IPOs like a pro
-For serious investors, the RHP holds clues beyond the hype. Here’s a guide to navigating mounds of data in a prospectus
+## Cybersecurity skills gap widens as cyberattacks surge: Kerala DGP
+The summit was supported by the Data Security Council of India, TiE Kerala and the Cochin Chamber of Commerce and Industry.
 
-## Happiest Minds-ITC Infotech merger: Why it is not yet the happiest time to buy the stock
-IT SERVICES Happiest Minds’ merger with ITC Infotech improves scale, but valuation and transition risks warrant patience
+## Karnataka AI University panel holds first meeting, focuses on immediate skilling
+The meeting brought together senior representatives from the technology industry, academia and the Karnataka government to discuss measures to develop AI talent in the state
 
-## Havells holding out for improvements
-Margin performance should match revenue growth for the company prospects to recover
+## IPO rush picks up: 11 Cos set to raise ₹7,055 cr next week
+The IPOs are scheduled to hit the market between September 7 and September 15.
+
+## FPIs turn sellers again, pull out Rs 7,443 crore from Indian equities in first week of September
+In early September, foreign portfolio investors pulled out Rs 7,443 crore from Indian equities after experiencing two months of net investments. This retreat was influenced by soaring crude oil prices and stable US bond yields, which dampened investor enthusiasm. Additionally, foreign entities maint
+
+## Europe is moving its gold out of America; where is it headed
+In a strategic maneuver amidst rising global tensions, the Netherlands has transferred part of its gold reserves to London, seeking more immediate access in times of crisis. The Dutch central bank cites London as a hub for the most liquid gold trading. This shift underscores a larger trend among cen
 
 ## Rs 41.69 lakh cash deposits, no ITR: He said wife, father paid expenses; ITAT rejects plea
 Reddy said he discovered the notice relating to the unexplained cash deposits only when he applied for a visa for foreign travel. He claimed that the Embassy informed him that an ITR was required for the visa application, which was when he came to know about the tax proceedings. The Income Tax Offic
@@ -81,35 +87,32 @@ Cleaner fuels now lead Indian passenger vehicle sales, surpassing petrol for the
 ## Tesla’s wheel-free Cybercabs face US safety probe just a day after launch
 The US safety regulator is conducting an investigation into Tesla's innovative taxis that operate without a steering wheel. The National Highway Traffic Safety Administration is assessing whether these vehicles adhere to federal safety regulations. Following their launch in Austin, Texas, on Thursda
 
-## Trump team quietly closed probe into businessman eyed by US to broker Venezuela oil deal
-The Trump administration sought Alejandro Betancourt's help for a major US oil deal with Venezuela. Federal prosecutors recently closed their investigation into Betancourt after administration officials intervened. Betancourt was investigated as part of a probe into alleged embezzlement and launderi
+## Delhi to get more rain, thunderstorms on Sunday; IMD issues yellow alert
+Delhi is likely to receive more rain and thunderstorms on Sunday as the IMD issued a yellow alert. The capital has already crossed its annual rainfall average.
 
-## 'Don’t want to lose our country’: Trump to spend $500 m to help Republicans win midterms
-In a strategic move, Donald Trump intends to allocate up to $500 million from MAGA Inc to bolster Republican candidates in key House and Senate races. This robust funding effort is particularly timely as concerns have been raised about the PAC's substantial cash reserves. Trump emphasizes his contro
+## India, China to hold first Corps Commander-level talks today at Wacha along LAC in Arunachal Pradesh
+The first meeting between the officers at the Corps Commander level in the eastern sector has reportedly been scheduled for September 6.
 
-## Allahabad HC dismisses plea seeking FIR against spiritual leader Rambhadracharya
-Allahabad HC dismisses plea seeking FIR against spiritual leader Rambhadracharya
+## Every fourth Jan Dhan account inoperative; 5.72 crore have zero balance: RTI
+Every fourth Jan Dhan account inoperative; 5.72 crore have zero balance: RTI
 
-## Coal shortage deepens power crisis in Punjab, generation drops by 1,500 MW: Minister
-Coal shortage deepens power crisis in Punjab, generation drops by 1,500 MW: Minister
+## Healthcare must be ready for old population: NITI Aayog vice-chief
+Ashok K Lahiri said rising non-communicable diseases, including diabetes, cancer and cardiovascular conditions, are reshaping healthcare needs.
 
-## After Swatantra Bhardwaj's arrest, complaint against Nishu Aazad, father over ‘insult’ to Hindu gods on social media
-SC lawyer Amita Sachdeva has filed a complaint against the father-daughter duo alleging that Nishu’s X account contained derogatory references to Hindu gods.
+## Popularity was never my goal; what matters is public health: Tukaram Mundhe
+Popularity was never my goal; what matters is public health: Tukaram Mundhe
 
-## Police issues summons to TMC MP Abhishek Banerjee's aide over scuffle at party office
-The notice was served at Roy's New Alipore residence on Saturday evening.
+## Vice President Radhakrishnan arrives in Assam on two-day trip
+Vice President Radhakrishnan arrives in Assam on two-day trip
 
-## ‘India buys oil from Russia for its development, not to help us’: Russian envoy Alipov
-Alipov had, on Friday, said Moscow remains committed to fulfilling New Delhi's energy demands, while slamming Western secondary sanctions.
+## Bihar updates CBI probe ambit as per rules of BNS, BNSS
+The extension of the CBI ambit will cover only central government employees working in the state or those working in other central government bodies, the police headquarters said in a statement.
 
-## GDP swipe at Opposition, warning to Pakistan: PM Modi’s top quotes from Delhi college address
-PM Modi arrived at the college to attend its centenary celebrations. He had last visited SRCC in 2013, when he was the chief minister of Gujarat.
+## Jantar Mantar assault case: Minor CJP activist alleges stone pelting outside her home, seeks police security
+In a video shared on X, the 14-year-old has alleged that the "goons" outside her house pelted stones and bricks into the house.
 
-## ‘He didn’t know how to shoot': Jhiram Valley attack convicts' kin dispute court judgment, claim innocence
-Twenty nine people were killed in Jhiram Valley attack in Chhattisgarh in 2013 after Maoists ambushed a Congress convoy.
-
-## Third arrest in Ketan Agarwal murder case: ‘Lover’ Chetan’s friend held as ‘he knew of earlier murder plan’
-The 22-year-old, identified as Ritesh Hange, is reportedly a friend of Chetan, PTI news agency reported citing officials.
+## Tesla to exhibit Cybercab robotaxi in China: can it spark buzz amid slow sales?
+Tesla is facing weaker sales in China this year, but the American electric vehicle (EV) manufacturer is looking to generate a buzz in its second-largest market by exhibiting its new self-driving vehicle, the Cybercab. The robotaxi – which operates entirely without a steering wheel, pedals or rear-vi
 
 ## Why Chelsea football shirts are making Hong Kong fans nervous about crypto laws
 English Premier League football club Chelsea’s lucrative new front-of-shirt sponsorship deal with a stablecoin issuer has left Hong Kong fans and retailers concerned about whether wearing or selling the top counts as illegal promotion under digital currency laws. Chelsea signed the deal with Circle 
@@ -131,9 +134,6 @@ The latest round of the Hong Kong government’s Silver Bonds programme has attr
 
 ## Bargain sale, collapsed deal reflect Hong Kong’s struggling retail property market
 A foreclosure sale in Hong Kong’s Lan Kwai Fong area and a cancelled shop transaction in North Point reflect the impact of weak consumer spending on Hong Kong’s retail property market, which will remain under pressure through the end of the year, according to analysts. The Lan Kwai Fong property, ho
-
-## Can Hong Kong outshine Singapore as central banks rethink gold custody amid global risks?
-As the Netherlands moved gold out of the US and Canada over geopolitical concerns, attention is turning to whether Hong Kong can capitalise on central banks rethinking where they keep their bullion. The city faces competition from Singapore, which is expected to launch central bank gold-vaulting ser
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: IRGC claims new attacks on US warships over naval blockade
-IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.
+## Flames burst from Qantas plane engine after New Zealand takeoff
+A terrifying moment unfolded aboard a Qantas flight from Queenstown to Sydney when flames erupted from its left engine.
 
-## Fuel tanker blast in western Iran kills at least 10
-At least six other people were injured in the tanker blast on Iran's Hamedan-Sanandaj highway, officials say.
+## Yemeni forces claim strategic district amid intensified Houthi clashes
+More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.
 
-## Trump-backed group announces $10m ad spend for midterm Senate race in Texas
-US president has pledged more than $400m through his super PAC to boost Republican candidates in the upcoming midterms.
+## Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’
+Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’
 
-## US envoys Witkoff, Kushner meet Putin for talks on Ukraine war
-US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.
+## More than 20 killed in fire at wedding party in DR Congo
+Authorities have launched an investigation into a fire that killed 22 people at a wedding party in Kinshasa, DR Congo.
 
-## Building collapses after heavy rain in northern India
-A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.
+## South Africa’s chrome riches fuel a deadly underground economy
+Behind South Africa’s chrome riches lies a shadow economy where migrants and unemployed workers face deadly conditions.
 
-## Why is Argentina reigniting the Falklands dispute?
-President Javier Milei says sovereignty over the islands remains a national objective.
+## German voters head to polls as far-right AfD party eyes historic state win
+Saxony-Anhalt elections could see AfD become the first far-right party to take power at a state level since WWII.
 
-## Everton vs Manchester United: Premier League – prediction, teams, lineups
-Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip.
+## Indonesia’s main airport suspends flights due to Anak Krakatau eruption
+Volcanic ash from Mount Anak Krakatau disrupts flights at Soekarno-Hatta International airport, near Jakarta.
 
-## Colombian government reports three killed in rebel attack on military post
-Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.
+## Nearly 9,000 killed in Israeli attacks on Lebanon since 2023
+More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
