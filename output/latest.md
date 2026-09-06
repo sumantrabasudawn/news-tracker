@@ -1,31 +1,37 @@
 # AION Intelligence
 
+## Police face questions over Dover disruption caused by masked protesters
+Up to 500 activists dressed in black with their faces covered brought part of UK port town to a standstill on Saturday
+
+## Far-right AfD surges in German state elections, exit polls show
+Alternative for Germany projected to secure more than 44 per cent of Saxony-Anhalt vote in big electoral setback for established parties
+
+## Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow
+Steve Witkoff and Jared Kushner are seeking to revive earlier proposals to end war
+
+## Protecting nature isn’t charity. It’s economic self-interest
+The effects of building systems that are out of sync with our environment are becoming all too clear
+
+## South-east Asia choked as Indonesian wildfires and volcanic ash spread
+El Niño weather cycle has intensified seasonal blazes linked to illegal land clearing
+
+## Pete Hegseth’s Pentagon purge
+Driscoll exit reflects damage the defence secretary is doing to the US military
+
+## Lebanon warns of ‘dangerous escalation’ after Israeli strikes
+Finance ministry building damaged and empty hospital destroyed in bombing campaign
+
 ## Hostility to Reform UK leaves Farage with a dilemma
 Toning down its positions in pursuit of wider appeal would risk an exit of supporters on the right
 
 ## Was Huawei’s rise built on crime? A Brooklyn jury will decide
 Five years after finance chief Meng Wanzhou’s release from detention in Canada, the company itself is going on trial
 
-## Trump envoys arrive in Ukraine after meeting Putin in Moscow
-Hopes of breakthrough are low in Kyiv as Steve Witkoff and Jared Kushner make their first official visit to the capital
-
-## Britain is a factory for ideas applied elsewhere
-Barriers to development at home push the upsides of UK research abroad
-
-## Will US inflation data persuade the Fed to raise rates this month?
-Market Questions is the FT’s guide to the week ahead
-
-## Farage urged by Labour to ‘take responsibility’ over TV sting
-Reform leader says no foreign money was ever funnelled to the party
-
-## South-east Asia choked as Indonesian wildfires and volcanic ash spread
-El Niño weather cycle has intensified seasonal blazes linked to illegal land clearing
+## European SpaceX rival launches rocket into orbit
+German start-up Isar Aerospace succeeds in first ever commercial blast-off from Europe
 
 ## JLR plans up to 4,000 job cuts as Chinese rivals pile on pressure
 British carmaker’s voluntary redundancy programme poses a fresh challenge to UK Prime Minister Andy Burnham
-
-## European SpaceX rival launches rocket into orbit
-German start-up Isar Aerospace succeeds in first ever commercial blast-off from Europe
 
 ## Inside John Lewis’s secret turnaround plan
 Partnership chair Jason Tarry aims to generate hundreds of millions in extra profit from loyalty scheme and retail media
@@ -42,29 +48,38 @@ Better give start-ups reasons to stay than make it harder to leave
 ## Life on the frontline against Ebola
 People have frequently turned on the nurses and doctors risking infection to battle fast-spreading epidemic in DR Congo
 
-## Rentomojo targets growth as rental assets generate repeat revenue
-FY2017 cohort generated 5.12 times asset cost; occupancy at 83-84% as company lists on September 9
+## The life and times of an enigmatic army chief
+Probal Dasgupta presents a multidimensional portrait of a military icon who operated decades ahead of his time
 
-## HEG Advanced Materials demerger to add ₹4,000 crore market capitalisation
-Under the restructuring scheme, the existing listed entity, HEG Advanced Materials, will retain its growth businesses
+## Buying insurance at discount? Think twice
+In insurance, the cheapest option is not necessarily the one that gives you the best value. Prudence here is not making assumptions but looking at both sides of the bargain
 
-## Air India’s systems must inspire confidence
-Robust systems need to be in place
+## Gold and silver rise
+Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached
 
-## VinFast gears up for India E2W foray, begins hunt for dealers
-VinFast invited applications for exclusive VinFast E-Motorcycle dealership opportunities across the country, signalling that its India two-wheeler launch could be drawing closer
+## Balanced bond portfolio blueprint
 
-## Embraer deepens India supply chain push across aerospace, defence verticals
-Brazilian aircraft maker expands localisation efforts through supplier partnerships, MRO plans and manufacturing ecosystem development
 
-## BS7 opens up close to ₹10,000-crore annual opportunity for auto-component makers
-Advanced emission-control components, from higher-value exhaust systems to sensors and electronic controls, stand to gain as India prepares to tighten vehicle-emission standards
+## Hiring decisions speed up, but long notice periods keep talent waiting
+Careernet data shows time-to-offer down to 46 days, but nearly a third of hires still take 60 days or more to join
 
-## Asia-Pacific Media Forum held in China's Guangdong
-Asia-Pacific Media Forum held in China's Guangdong
+## Kharif Harvest Outlook: Strong prices expected for most crops, except Bajra and Moong
+The mandi prices of Bajra, Paddy, Moong, Groundnut and Soyabean are ruling in negative ranging from 0.6 per cent to 31 per cent over their next season’s MSPs
 
 ## TPPs with critical stocks rise as coal reserves deplete
 A major reason for the decline in stocks at the TPP end is that historically, supplies get stretched during monsoon, as rains hinder mining activity and transport
+
+## Reports of privatisation ‘baseless and incorrect’: ISRO
+Major employee associations of ISRO wrote to ISRO Chairman V Narayanan demanding urgent clarification
+
+## Builder promised 5,069 sq ft, delivered 3,900; RERA orders refund, Rs 98 lakh penalty
+Telangana RERA condemned the use of such tactics by the builder, stating that the alleged conduct amounted to cheating, violated Section 3 of the RE(R&D) Act and made the builder liable for a penalty.
+
+## IPO rush ahead: 11 companies line up to raise Rs 7,055 crore from investors
+The primary market in India is gearing up for an exciting week ahead, with eleven main-board IPOs lined up to collectively raise more than seven thousand crore rupees. These IPOs span various sectors, showcasing a vibrant market landscape. Most will launch on Tuesday and Wednesday, highlighting the 
+
+## Bullion markets this week: US inflation, crude and Middle East tensions to set the tone
+This week sees potential volatility in gold and silver prices, primarily driven by upcoming US inflation figures and interest rate speculation. The influence of crude oil fluctuations and geopolitical developments in the Middle East also play a significant role. Additionally, ongoing purchases by ce
 
 ## India holds strong: How government & RBI worked to shield economy from US-Iran war
 The economy has shown resilience in the face of multiple crises. GDP growth is just one aspect of the story. Foreign exchange reserves have recently hit an all-time high. GST collections - an important high frequency indicator - are robust. India’s exports have successfully diversified into new mark
@@ -81,38 +96,29 @@ The Reserve Bank of India (RBI) has announced the premature redemption price for
 ## FPIs turn sellers again, pull out Rs 7,443 crore from Indian equities in first week of September
 In early September, foreign portfolio investors pulled out Rs 7,443 crore from Indian equities after experiencing two months of net investments. This retreat was influenced by soaring crude oil prices and stable US bond yields, which dampened investor enthusiasm. Additionally, foreign entities maint
 
-## Europe is moving its gold out of America; where is it headed
-In a strategic maneuver amidst rising global tensions, the Netherlands has transferred part of its gold reserves to London, seeking more immediate access in times of crisis. The Dutch central bank cites London as a hub for the most liquid gold trading. This shift underscores a larger trend among cen
+## Woman kills sister-in-law over jailed brother's insult, dumps body in tank
+Vandana had allegedly mocked Parvati over her brother, who is currently in Damoh Jail in connection with a rape case.
 
-## Rs 41.69 lakh cash deposits, no ITR: He said wife, father paid expenses; ITAT rejects plea
-Reddy said he discovered the notice relating to the unexplained cash deposits only when he applied for a visa for foreign travel. He claimed that the Embassy informed him that an ITR was required for the visa application, which was when he came to know about the tax proceedings. The Income Tax Offic
+## ‘They just want publicity’: BJP slams ‘tragedy hunters’ Congress, AAP over Delhi building collapse criticism
+Lok Sabha LoP Rahul Gandhi targeted the BJP government as he called out the “inhumane conditions” students face “due to a lack of good hostels in colleges”.
 
-## Son loses gifted flat after neglecting parents; why he may still inherit it later
-A recent Bombay High Court case involved a son who was directed to vacate his father’s flat after the court found that he had failed to honour the condition attached to the gift of the property. The flat had been transferred to him on the understanding that he would take care of his parents, an obli
+## ‘Completely baseless’: ISRO rejects reports of privatisation, calls them ‘incorrect’
+The statement comes after associations representing thousands of ISRO employees had sought clarification over the reported proposal.
+
+## Karnataka seizes ₹4 lakh medicines from two unlicensed Amazon facilities
+Officials found pest infestation in food preparation areas and said the presence of pests had created conditions that could lead to contamination
+
+## Twin sisters jailed in Iran over anti-regime protests: Ripped-out hair, broken elbows, and a ‘rape threat’
+Taraneh Rahimi has been sentenced to death by the Iranian courts, while her twin, Romina Rahimi, has been given a 25-year prison term.
+
+## 'Pillar shifted, building collapsed': Delhi CM on how boys' PG crashed down; vows action against those responsible
+CM Rekha Gupta said the building was being used as a paying guest accommodation and warned that those responsible for the collapse would face action.
+
+## ‘Distressing’: PM Modi expresses condolences after 3 dead in Delhi building collapse
+“The collapse of a building at Satya Niketan, Delhi is distressing. Condolences to those who lost their loved ones,” the Prime Minister's office said.
 
 ## Amit Shah launches Nasha Mukt Bharat 2029 roadmap, vows zero narcotics across borders
 Shah, who was in Goa on an official trip, chaired a meeting to review the state’s security preparedness before cancelling his events and rushing back to Delhi
-
-## SOS video from under debris: Student trapped in collapsed Delhi boys’ PG building reaches out to friend
-The video was also shared by NSUI, student wing of the Congress, as its workers are on the spot helping with the rescue work.
-
-## ‘Extra marks if…’: JNU professor accused of sexual harassment said this to students
-The JNU professor allegedly made inappropriate remarks with sexual connotations during the viva examinations held in the first week of May.
-
-## Manipur final electoral roll records 1.96 million voters after revision
-The final photo electoral rolls, 2026 has recorded a total of 19,60,620 voters with 9,53,350 male, 10,06,962 female and 308 third gender
-
-## 'The walls were cracking': Student who lived in collapsed Delhi boys’ PG recalls state of building
-At least one person was killed after the multi-storey structure fell on Sunday afternoon, with around over 40 students feared trapped under the rubble.
-
-## ‘Situation being closely monitored’: CM Rekha Gupta, minister Kapil Mishra reach site of boys’ PG collapse
-Delhi CM Rekha Gupta said the adjacent building had also been vacated as a precautionary measure.
-
-## Jharkhand minister Sudivya Kumar dies at 56, state declares two-day mourning
-The Jharkhand government declared a two-day state mourning in honour of Sudivya Kumar, besides cancelling all its scheduled programmes
-
-## HT Evening Brief Sept 6: ‘Influencer’ Swatantra Bhardwaj sent to jail; 'Hanuman Ansh' crosses ₹100 cr at box office
-Here is your briefing on today's top news stories from India, the world, sports, and entertainment.
 
 ## China rolls out massive US$54b package for insurers, banks in financial powerhouse push
 China rolled out a package of capital injections worth about 360 billion yuan (US$54 billion) on Sunday for the country’s largest state-owned insurers and state banks, marking a step towards Beijing’s long-flagged plan to build itself into a global financial powerhouse. The Ministry of Finance, whic
@@ -234,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How significant are the Yemeni government’s military gains against Houthis?
-Government forces make gains as fighting escalates, raising fears of a return to full-scale war.
+## Iran touts military response as US maintains blockade, hits tankers
+Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.
 
-## Seven mouths, one meal: Feeding a family through Gaza’s food crisis
-Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.
+## Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls
+The party hails 'historic' result, but it is not immediately clear whether it will be able to form a government.
 
-## How the West’s promise of freedom created a world of anger
-In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.
+## Maitland-Niles stuns Manchester United as Everton claim last-ditch point
+Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.
 
-## Palestinians mourn loved ones in mass funeral in Gaza City
-Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.
+## Niger military accuses France of orchestrating failed mutiny: What to know
+French officials deny involvement, but tensions between the two countries remain high.
 
-## Algeria civil defence recovers body of 10-year-old boy from well
-Child found dead after four-day rescue effort in Algeria's western province of el-Bayadh.
+## Dead fish fill vanishing river as drought grips Indonesia
+A prolonged dry spell has caused millions of fish to die in Indonesia’s Silugonggo River in Central Java.
 
-## Bangladesh protesters demand action over rising costs
-Bangladesh sees its first major protests under PM Tarique Rahman, with thousands marching over rising living costs.
+## US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv
+Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.
 
-## LIVE: Arsenal vs Chelsea – Premier League
-Follow live updates from the London derby - including the build-up, analysis and live text commentary of the game.
+## Khalid Abdalla: ‘It’s important for me to be in service of justice’
+The actor discusses identity, speaking out against Israel’s genocide in Gaza and the experiences that shaped him.
 
-## Jovic moved to tears after beating ‘incredible’ friend Eala in US Open epic
-Iva Jovic outlasted the fellow young tennis sensation from the Philippines, Alex Eala, in an epic three-hour showdown.
+## Embattled FIFA President Gianni Infantino to stand for re-election
+FIFA says its chief has not changed his stance on re-election as Infantino faces widespread criticism.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
