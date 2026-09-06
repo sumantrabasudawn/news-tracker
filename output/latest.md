@@ -1,13 +1,19 @@
 # AION Intelligence
 
-## Police face questions over Dover disruption caused by masked protesters
-Up to 500 activists dressed in black with their faces covered brought part of UK port town to a standstill on Saturday
+## The risky mission to de-mine the Strait of Hormuz
+US Navy divers, boats and robots made covert night-time trips to dispose of explosives in the crucial channel
 
-## Far-right AfD surges in German state elections, exit polls show
-Alternative for Germany projected to secure more than 44 per cent of Saxony-Anhalt vote in big electoral setback for established parties
+## Police face questions over Dover disruption caused by masked protesters
+Up to 500 activists dressed in black brought part of UK port town to a standstill on Saturday
+
+## Far-right AfD surges in German state elections, partial results show
+Alternative for Germany is projected to become the largest party in Saxony-Anhalt while falling short of a parliamentary majority
 
 ## Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow
 Steve Witkoff and Jared Kushner are seeking to revive earlier proposals to end war
+
+## Starting gun fired on autumn election campaign season
+Republicans gather in Dallas, 25th anniversary of 9/11, ECB interest rate decision
 
 ## Protecting nature isn’t charity. It’s economic self-interest
 The effects of building systems that are out of sync with our environment are becoming all too clear
@@ -17,12 +23,6 @@ El Niño weather cycle has intensified seasonal blazes linked to illegal land cl
 
 ## Pete Hegseth’s Pentagon purge
 Driscoll exit reflects damage the defence secretary is doing to the US military
-
-## Lebanon warns of ‘dangerous escalation’ after Israeli strikes
-Finance ministry building damaged and empty hospital destroyed in bombing campaign
-
-## Hostility to Reform UK leaves Farage with a dilemma
-Toning down its positions in pursuit of wider appeal would risk an exit of supporters on the right
 
 ## Was Huawei’s rise built on crime? A Brooklyn jury will decide
 Five years after finance chief Meng Wanzhou’s release from detention in Canada, the company itself is going on trial
@@ -45,11 +45,11 @@ Pandemic-era rally that turned LVMH into Europe’s most valuable company has go
 ## How the UK can stop accidentally exporting its best tech start-ups
 Better give start-ups reasons to stay than make it harder to leave
 
-## Life on the frontline against Ebola
-People have frequently turned on the nurses and doctors risking infection to battle fast-spreading epidemic in DR Congo
-
 ## The life and times of an enigmatic army chief
 Probal Dasgupta presents a multidimensional portrait of a military icon who operated decades ahead of his time
+
+## The forgotten children
+Safeena Husain’s radical model for systemic change
 
 ## Buying insurance at discount? Think twice
 In insurance, the cheapest option is not necessarily the one that gives you the best value. Prudence here is not making assumptions but looking at both sides of the bargain
@@ -68,9 +68,6 @@ The mandi prices of Bajra, Paddy, Moong, Groundnut and Soyabean are ruling in ne
 
 ## TPPs with critical stocks rise as coal reserves deplete
 A major reason for the decline in stocks at the TPP end is that historically, supplies get stretched during monsoon, as rains hinder mining activity and transport
-
-## Reports of privatisation ‘baseless and incorrect’: ISRO
-Major employee associations of ISRO wrote to ISRO Chairman V Narayanan demanding urgent clarification
 
 ## Builder promised 5,069 sq ft, delivered 3,900; RERA orders refund, Rs 98 lakh penalty
 Telangana RERA condemned the use of such tactics by the builder, stating that the alleged conduct amounted to cheating, violated Section 3 of the RE(R&D) Act and made the builder liable for a penalty.
@@ -96,29 +93,29 @@ The Reserve Bank of India (RBI) has announced the premature redemption price for
 ## FPIs turn sellers again, pull out Rs 7,443 crore from Indian equities in first week of September
 In early September, foreign portfolio investors pulled out Rs 7,443 crore from Indian equities after experiencing two months of net investments. This retreat was influenced by soaring crude oil prices and stable US bond yields, which dampened investor enthusiasm. Additionally, foreign entities maint
 
+## ABVP members protest, vandalise MCD office in Delhi over building collapse incident | Video
+Five people died, while several others are feared trapped after the building, which was a paying guest accommodation, collapsed in Satya Niketan.
+
+## CM orders magisterial probe, FIR against building owner over Satya Niketan PG collapse
+Deputy Commissioner of Police (Southwest) Amit Goel said an FIR has been registered against building owner Hariram and others.
+
+## 'Misleading': Govt fact checks Dipke's claim that ‘a hostel in DU South Campus has collapsed’
+“Several social media posts are claiming that a hostel building in Delhi University’s South Campus has collapsed. This claim is #Misleading,” the PIB said.
+
+## RSS chief Mohan Bhagwat praises youth at UK event, says they are ‘more honest, ready to shed petty differences'
+RSS chief Mohan Bhagwat said the younger generation need not be told how to achieve their purpose. He urged people to set the goal for them, not the method.
+
+## Rahul to be ‘face of INDIA bloc’ in 2029: Cong's Venugopal amid TVK's ‘Vijay for PM’ pitch
+Venugopal's remarks come amid the Tamilaga Vettri Kazhagam's pitch for Vijay as the prime ministerial candidate in the next Lok Sabha polls.
+
+## DU colleges open doors to anguished students of nearby PGs after building collapse in Satya Niketan
+The PG was located in South-West Delhi's Satya Niketan near the Delhi University's South campus. Many of those residing in the PG are DU students.
+
 ## Woman kills sister-in-law over jailed brother's insult, dumps body in tank
 Vandana had allegedly mocked Parvati over her brother, who is currently in Damoh Jail in connection with a rape case.
 
 ## ‘They just want publicity’: BJP slams ‘tragedy hunters’ Congress, AAP over Delhi building collapse criticism
 Lok Sabha LoP Rahul Gandhi targeted the BJP government as he called out the “inhumane conditions” students face “due to a lack of good hostels in colleges”.
-
-## ‘Completely baseless’: ISRO rejects reports of privatisation, calls them ‘incorrect’
-The statement comes after associations representing thousands of ISRO employees had sought clarification over the reported proposal.
-
-## Karnataka seizes ₹4 lakh medicines from two unlicensed Amazon facilities
-Officials found pest infestation in food preparation areas and said the presence of pests had created conditions that could lead to contamination
-
-## Twin sisters jailed in Iran over anti-regime protests: Ripped-out hair, broken elbows, and a ‘rape threat’
-Taraneh Rahimi has been sentenced to death by the Iranian courts, while her twin, Romina Rahimi, has been given a 25-year prison term.
-
-## 'Pillar shifted, building collapsed': Delhi CM on how boys' PG crashed down; vows action against those responsible
-CM Rekha Gupta said the building was being used as a paying guest accommodation and warned that those responsible for the collapse would face action.
-
-## ‘Distressing’: PM Modi expresses condolences after 3 dead in Delhi building collapse
-“The collapse of a building at Satya Niketan, Delhi is distressing. Condolences to those who lost their loved ones,” the Prime Minister's office said.
-
-## Amit Shah launches Nasha Mukt Bharat 2029 roadmap, vows zero narcotics across borders
-Shah, who was in Goa on an official trip, chaired a meeting to review the state’s security preparedness before cancelling his events and rushing back to Delhi
 
 ## China rolls out massive US$54b package for insurers, banks in financial powerhouse push
 China rolled out a package of capital injections worth about 360 billion yuan (US$54 billion) on Sunday for the country’s largest state-owned insurers and state banks, marking a step towards Beijing’s long-flagged plan to build itself into a global financial powerhouse. The Ministry of Finance, whic
@@ -168,6 +165,9 @@ U.S. allies won’t love it, but American interests come first.
 ## Soccer’s Favorite Strongman
 José Mourinho’s lessons on how to influence people (and not win friends).
 
+## Free and Open Indo-Pacific: A Pillar of Deeper Regional Cooperation
+Japan’s Indo-Pacific vision has outlasted its creator and found new partners. Beijing is not pleased.
+
 ## A Message to China from Japan’s Takaichi Administration
 Can Japan ‘normalize’ relations?
 
@@ -188,9 +188,6 @@ The prevalence of nationalism, authoritarianism, and populism explains the rise 
 
 ## The Real Key to the AI Race: Nanometers or Gigawatts?
 By 2030, the China-U.S. AI competition may be decided less by who builds the most advanced chips than by who deploys the most computing power.
-
-## In Cambodia, Floating Houses Are Stuck Aground as Climate Change Takes Hold
-Researchers are seeing a change in Cambodian weather patterns as climate change takes hold across the region.
 
 ## The Fruit of Patience: How Regional Shifts Ripened Turkey’s Path to Kurdish Reconciliation
 On Aug. 25, at the People’s Palace in Damascus, Mazloum Abdi announced the dissolution of the Syrian Democratic Forces, which he had commanded for a decade. Speaking first in Arabic and then in Kurdish, he said the force had joined the Syrian army and would no longer operate independently. 15 days e
@@ -240,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran touts military response as US maintains blockade, hits tankers
-Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.
+## Adidas faces boycott calls over campaign featuring former Israeli soldier
+Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.
 
-## Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls
-The party hails 'historic' result, but it is not immediately clear whether it will be able to form a government.
+## Trump administration appeals again to US Supreme Court over mail-in voting
+How the nation's highest court rules could have major implications in this year’s midterm elections.
 
-## Maitland-Niles stuns Manchester United as Everton claim last-ditch point
-Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.
+## Why is Argentina reviving the Falklands dispute?
+More than 44 years after Britain and Argentina went to war over the Falkland Islands, Argentina is reasserting its claim
 
-## Niger military accuses France of orchestrating failed mutiny: What to know
-French officials deny involvement, but tensions between the two countries remain high.
+## Witkoff says peace talks have been ‘very meaningful’ in Ukraine
+Witkoff says peace talks have been ‘very meaningful’ in Ukraine
 
-## Dead fish fill vanishing river as drought grips Indonesia
-A prolonged dry spell has caused millions of fish to die in Indonesia’s Silugonggo River in Central Java.
+## Sabalenka through to US Open quarterfinals
+Tennis's two-time defending champion Aryna Sabalenka into last-eight at US Open after beating Taylor Townsend 6-4, 6-3.
 
-## US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv
-Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.
+## Algerian boy found dead after four days trapped in a well
+Rescuers in Algeria have recovered the body of 10-year-old Ayoub, who died after being trapped in a well.
 
-## Khalid Abdalla: ‘It’s important for me to be in service of justice’
-The actor discusses identity, speaking out against Israel’s genocide in Gaza and the experiences that shaped him.
+## Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start
+Gunners pass ⁠stiffest test so far in the defence of their Premier ⁠League title as they hit back after going behind.
 
-## Embattled FIFA President Gianni Infantino to stand for re-election
-FIFA says its chief has not changed his stance on re-election as Infantino faces widespread criticism.
+## Photos: UN urges global aid after China, Nepal floods kill over 1,300
+UN launches $50m appeal to aid over 84,000 flood survivors in Nepal amid cholera threat and sanitation challenges.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
