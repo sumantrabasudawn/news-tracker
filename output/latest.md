@@ -42,35 +42,29 @@ Partnership chair Jason Tarry aims to generate hundreds of millions in extra pro
 ## Insurers pile on risk as payouts fall to lowest level in 20 years
 Industry braces for downturn as influx of capital into property and casualty insurance pushes down premiums
 
-## LVMH sheds boom-time gains as luxury ‘feelgood factor’ fades
-Pandemic-era rally that turned LVMH into Europe’s most valuable company has gone into reverse as investors doubt luxury recovery
+## Sensex today | Stock Market LIVE: Stock to buy today: HEG (₹729.05)
+Sensex, Nifty, Share Prices Live: BSE Sensex settled 362.57 pts or 0.48% higher at 76,515.43. Nifty 50 was up 24.25 pts or 0.10% to 23,897.70. For the week, the benchmarks lost 1.2% and 1%, marking their fourth ‌consecutive weekly decline and their longest losing streak in ‌five ⁠months.
 
-## How the UK can stop accidentally exporting its best tech start-ups
-Better give start-ups reasons to stay than make it harder to leave
+## We are looking at opportunities to enter the tokenised assets market in India: Equiniti CEO
+We have the capabilities and expertise within Bullish to tokenise assets beyond just equities, says Kramer
+
+## When ‘the doctor is in’ without pause
+Healthcare systems cannot afford to keep treating clinicians’ emotional lives as incidental to care
+
+## Making the community integral to palliative care
+How Kozhikode-based organisation pioneered affordable and sustainable care for patients with life-limiting illnesses
+
+## Fitness ring, steps and balance of food
+Diary of daily fitness
+
+## Data sharing on alternatives to animal testing
+European Medicines Agency’s new pilot aims to foster the regulatory acceptance of New Approach Methodologies
 
 ## Suicide prevention: Keep the conversation going
 World Suicide Prevention Day — September 10
 
-## The life and times of an enigmatic army chief
-Probal Dasgupta presents a multidimensional portrait of a military icon who operated decades ahead of his time
-
-## The forgotten children
-Safeena Husain’s radical model for systemic change
-
-## Buying insurance at discount? Think twice
-In insurance, the cheapest option is not necessarily the one that gives you the best value. Prudence here is not making assumptions but looking at both sides of the bargain
-
-## Gold and silver rise
-Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached
-
-## Balanced bond portfolio blueprint
-
-
-## Hiring decisions speed up, but long notice periods keep talent waiting
-Careernet data shows time-to-offer down to 46 days, but nearly a third of hires still take 60 days or more to join
-
-## Kharif Harvest Outlook: Strong prices expected for most crops, except Bajra and Moong
-The mandi prices of Bajra, Paddy, Moong, Groundnut and Soyabean are ruling in negative ranging from 0.6 per cent to 31 per cent over their next season’s MSPs
+## WHO validates Bhutan’s rabies-free status
+WHO aims to end human deaths from dog-transmitted rabies by 2030
 
 ## China to pump $54 billion into state banks, insurers
 
@@ -120,6 +114,12 @@ Vandana had allegedly mocked Parvati over her brother, who is currently in Damoh
 ## ‘They just want publicity’: BJP slams ‘tragedy hunters’ Congress, AAP over Delhi building collapse criticism
 Lok Sabha LoP Rahul Gandhi targeted the BJP government as he called out the “inhumane conditions” students face “due to a lack of good hostels in colleges”.
 
+## Hong Kong’s yuan pool is growing. Can it turn liquidity into global demand?
+Hong Kong’s top financial regulators have urged local banks to make greater use of the city’s growing pool of offshore yuan liquidity, while also flagging the need to prepare for a coming wave of autonomous AI systems used in the financial sector. Speaking at the Hong Kong Association of Banks (HKAB
+
+## Standard Chartered ‘doubling down’ on China wealth opportunities despite tax pivot
+Standard Chartered plans to increase its investment in wealth centres and hiring in Hong Kong, mainland China and Taiwan to gain more affluent clients, a senior executive said, adding that it doubts Beijing’s stricter enforcement of taxes on cross-border investment will hurt the wealth-management se
+
 ## Hong Kong broadens sustainable finance taxonomy framework to boost transition capital
 Hong Kong unveiled an expanded sustainable finance taxonomy as the city kicked off its annual Green Week on Monday, broadening the range of economic activities recognised as green or transition. The Hong Kong Monetary Authority (HKMA) launched a public consultation on the Phase 2B prototype of its H
 
@@ -137,12 +137,6 @@ Huawei Technologies has released a new research paper showing its Tau Scaling La
 
 ## Which overseas property markets will be the winners and losers if Fed raises US rates?
 Comments by US Federal Reserve chairman Kevin Warsh at its annual economic policy symposium in Jackson Hole last month have reinforced expectations of an impending interest rate rise in the world’s largest economy, which would have significant impacts on assets and investors around the world. While 
-
-## Tesla to exhibit Cybercab robotaxi in China: can it spark buzz amid slow sales?
-Tesla is facing weaker sales in China this year, but the American electric vehicle (EV) manufacturer is looking to generate a buzz in its second-largest market by exhibiting its new self-driving vehicle, the Cybercab. The robotaxi – which operates entirely without a steering wheel, pedals or rear-vi
-
-## Why Chelsea football shirts are making Hong Kong fans nervous about crypto laws
-English Premier League football club Chelsea’s lucrative new front-of-shirt sponsorship deal with a stablecoin issuer has left Hong Kong fans and retailers concerned about whether wearing or selling the top counts as illegal promotion under digital currency laws. Chelsea signed the deal with Circle 
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -240,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Serbia’s Red Star Belgrade honour Ratko Mladic with tifo
+Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.
+
+## North Korea deploys warship ‘capable of annihilating retaliatory strikes’
+Leader Kim Jong Un says vessel will form part of Pyongyang's nuclear response system, strengthen naval forces.
+
+## Iran war live: Tehran to announce new Hormuz shipping route in coming days
+Move comes as Iran's top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.
+
 ## Alcaraz breezes into last eight at US Open
 Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.
 
@@ -254,15 +257,6 @@ An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport a
 
 ## Can AfD form Germany’s first far-right state government since World War II?
 Germany’s far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.
-
-## Susan Sarandon says she still loses film roles over support for Palestine
-Susan Sarandon says she still loses film roles over support for Palestine
-
-## Will Israelis re-elect Benjamin Netanyahu?
-Recent opinion polls suggest opposition bloc is ahead of PM's coalition.
-
-## At least five killed in New Delhi building collapse
-At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.
 
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
