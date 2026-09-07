@@ -1,133 +1,145 @@
 # AION Intelligence
 
-## Everything is awesome
-In stocks
+## Vox rides high in Spain over Ceuta migrant crisis
+Rightwing populist party’s strong ratings on immigration underline political cost for Pedro Sánchez
 
-## EU to table ‘Buy European’ public procurement rules to push out China
-Also in this newsletter: The US internet terror groups targeting young Europeans
+## Next wins ‘landmark’ ruling in UK retail’s multibillion equal pay claim
+Tribunal rules FTSE 100 retailer is justified in paying warehouse workers more than mostly female shop workers
 
-## Few signs of persistent price pressures in UK and Eurozone
-Energy-sensitive inflation remains relatively subdued in both economies
+## A German election result heard around the world
+The Kremlin and the Trump administration are cheering on the rise of the AfD
+
+## Yen surges to 6-month high as traders stay alert for signs of intervention
+Japanese currency touches ¥154.04 per dollar, including steep a rise in London morning
+
+## Canada is fated to try to do deals with Trump
+Ottawa has no alternative but to keep the door open to negotiating the best possible access to the US market
+
+## Top Serbian officials attend funeral of Ratko Mladić in Belgrade
+EU enlargement commissioner cancels visit to country over ‘glorification’ of convicted war criminal
+
+## UK must ‘be honest’ about need to control spending, says chancellor
+John Healey uses first major speech to urge state-owned bodies to invest more in private sector
+
+## China’s Global Strategy Under Xi Jinping — the plan to shift power from the west
+Steve Tsang and Olivia Cheung provide an intelligent guide to the Chinese leader’s thought, if not in the most gripping style for casual readers
+
+## VW agrees Israel deal to shift plant from cars to air defence
+Carmaker’s embattled Osnabrück factory to be converted following agreement with Aurelius Capital
+
+## Deutsche Bank settles €152mn lawsuit with former executive
+Dario Schiraldi was one of six bankers convicted — and later acquitted — over trades linked to Monte dei Paschi di Siena
+
+## US shale pioneer takes fracking to Australia’s remote gas frontier
+American producers hope to export practices around the world as countries seek new supplies due to the Iran war
+
+## Shipping through Panama Canal faces new cuts as water dries up
+New administrator cites impact from water shortages at a time when Iran war has strained trade flows
+
+## Saudi Aramco oil facilities hit in new strikes
+Jizan, near the Yemeni border, has been repeatedly targeted by Houthi rebels in their campaign against Saudi Arabia
 
 ## FirstFT: Germany’s far-right AfD surges to first place in state elections
-Also in today’s newsletter: Russia’s ‘hybrid’ war and EssilorLuxottica
+Also in today’s newsletter: China spends $53bn to recapitalise banks and insurers, and five die in Miami plane crash
 
-## China pumps $53bn into banks and insurers
-Beijing widens recapitalisation plan to more state-controlled institutions in bid to boost financial performance
+## ‘It sucks’: petrol prices test Trump voters in New Jersey
+A competitive congressional race in New Jersey shows how affordability fears could spell trouble for Trump in November
 
-## Modi fails to dull gold’s lustre in India
-Tata’s Titan jewellery chain says consumers continue to regard the precious metal as an investment
+## From farm waste to fashion: How agro residues are becoming leather-like materials
+The development adds coffee husk to a growing list of bio-resources being explored as alternatives to conventional leather and synthetic materials
 
-## Venezuela-US oil deal risks violating local law, say experts
-Contentious agreement may conflict with Venezuelan constitution, according to a leading opposition politician and analysts
+## India’s ice cream market sheds “summer-only indulgence” tag, shifts away from frozen desserts: IICMA
+The shift in preference is unfolding alongside a broader growth story, as longer summers and changing consumption habits push ice cream beyond its traditional seasonal boundaries
 
-## Why America’s debt binge is starting to matter
-If long-term interest rates decisively breach the 5% threshold, the impact could derail the AI boom
+## udaan acquires Swiggy’s LYNK Logistics for ₹500 crore, gets Swiggy as shareholder
+The acquisition adds LYNK’s distribution network across Bengaluru, Hyderabad, Chennai and Kolkata
 
-## Guggenheim unit warned over internal controls
-Plus, university endowments beat S&P, Japan’s carry trade, Renoir at the National Gallery
+## AI may accelerate anti-competitive practices in digital markets: CCI chief
+She said businesses across sectors were rapidly adopting AI tools and applications, bringing benefits in areas such as education, healthcare, logistics and supply chain management
 
-## EssilorLuxottica overhauls management after rift with founder’s son
-CEO Francesco Milleri has reshaped the senior team at Milan-based eyewear group
+## Ambassador Gor unveils TRUST Fellowship to advance India-US collab in critical technologies
+The TRUST Fellowship will bring together American and Indian researchers to advance work in critical technologies, including AI, semiconductors, quantum computing, and biotech
 
-## How Canadian companies are navigating Trump’s tariffs
-Five small businesses on how the US-Canada trade war has affected them
+## Natural gas: Initiate long positions
+The September futures are likely to break out soon
 
-## Sensex today | Stock Market LIVE: Sensex down 400 pts, Nifty slips below 23,780 as crude nears $97; Infy, TechM lead losers
-Sensex, Nifty, Share Prices Live: Benchmark indices opened in negative territory on Monday, September 7, 2026, weighed down by a stronger-than-expected US jobs report that reignited fears of a Federal Reserve rate hike, while elevated crude oil prices and escalating Middle East tensions added to the
+## Messe Muenchen India Acquires India International Cargo Show, Creating South Asia's Largest Logistics Trade-Fair Ecosystem
+Messe Muenchen India Acquires India International Cargo Show, Creating South Asia's Largest Logistics Trade-Fair Ecosystem
 
-## Global basmati market shifts towards premium quality, says SSIEL MD Aman Gupta
-Urges taking the fragrant rice beyond traditional consumption and a stronger, coordinated approach to protect its GI
+## McCain Foods India appoints Aditya Krishna as MD
+Krishna takes over from Mainak Dhar, who transitions into an expanded leadership role
 
-## Google takes its ‘India-first’ AI project to increase farm out, climate resilience to 11 more nations
-The global IT giant has tapped Google DeepMind to come up with agricultural landscape understanding (ALU) and agricultural monitoring and event detection (AMED)
+## Loan repaid in 2003, but bank lost property papers; court orders Rs 5,000 per day payout
+The bank acknowledged that it could not trace the original documents for either property. However, the bank argued that the firm had not asked for their return immediately after repaying the loan. The bank has been ordered to pay compensation.
 
-## Tata Motors shares steady as Iveco tender offer window opens today
-The offer price is €14.10 per common share, cum dividend, valuing Iveco Group at approximately €3.82 billion
-
-## Young generation has greater responsibility: Minister Roji John
-The summit features Yi Young Future 6.0, a national programme that brought together students from 12 cities across India to share ideas and experiences
-
-## Kanohar Electricals IPO opens tomorrow at ₹601-632 price band; Anand Rathi recommends subscribe for long term
-The ₹1,056-crore IPO comprises a fresh issue of shares worth up to ₹300 crore and an offer-for-sale of up to 1.2 crore shares by promoter K Sons Family Trust.
-
-## Neuroaesthetics study finds how the brain processes beauty in art
-The findings suggest that beauty is not processed as a single experience, but through separate systems for visual content and pleasure
-
-## Hyundai Motor Company Becomes Official Automotive Partner of the UEFA Champions League
-Hyundai Motor Company Becomes Official Automotive Partner of the UEFA Champions League
-
-## Stock Market Live Today: Sensex falls over 200 points, Nifty slips below 23,855 in early trade
+## LPG refill booking interval cut to 25 days in rural areas, matching urban rule
 
 
-## OPEC+ keeps oil output targets unchanged for October
+## India began metro rail in 1984; over 40 years later, it could overtake US in two years
+India could surpass the United States in metro rail network length within the next two years, Union Housing and Urban Affairs Minister Manohar Lal said while inaugurating the extended metro rail service in Indore.
+
+## Jaguar Land Rover to cut around 4,000 jobs globally over next 2 years: CEO
 
 
-## Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption
+## Gold price prediction today: Where are gold prices headed? Check outlook for September 7, 2026 week
+Gold price prediction today: Gold seems to be facing pressures from multiple fronts, entering a corrective phase, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+
+## Stocks to buy: What's the outlook for Nifty for September 7-September 11 week? Check list of top stock recommendations
+Stock market recommendations: APL Apollo Tubes, and Central Mine Planning & Design Institute Ltd (CMPDI) have been recommended by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy on September 7, 2026.
+
+## Rs 2.61 crore in online games, Rs 28 lakh loss; but taxman seeks tax on Rs 2.33 crore
+The ITAT Bangalore held that, in the circumstances of this case, the amount that could be brought to tax was the actual net winnings from online gaming, rather than gross credits appearing in a player’s wallet or amounts shown as winnings at different stages of the gameplay.
+
+## Stock market today: Sensex falls nearly 500 points; Nifty dips below 23,800
 
 
-## New stock market pre-open session rules from today: What changes for you?
-The revised arrangement makes the pre-open process more similar to the auction mechanism followed during the Closing Auction Session (CAS). NSE said the objective is to bring the mechanism used for determining the market opening closer to the framework already followed for the closing auction.
+## HT Evening News Brief September 7: HC orders MCD inquiry into Delhi PG collapse; Ishan Kishan shines in Duleep Trophy
+Here are the top stories of the day from India, the world, sports, and entertainment.
 
-## Top stocks to buy: Stock recommendations for September 7, 2026 week - check list
-Stock market recommendations: CG Power and Industrial Solutions, and Adani Power - these are the top stocks to buy that have been recommended by Motilal Oswal Wealth Management Research Desk for the week starting September 7, 2026:
+## Eknath Shinde suspends Shiv Sena's Palghar unit chief over hospital assault case, vows expulsion
+Shiv Sena's Palghar district and city unit chiefs, and an MLA's son were booked on Sunday after a dispute with the hospital staff.
 
-## China to pump $54 billion into state banks, insurers
+## 'Delhi cops had audacity to go to Bulandshahr after me': 'Influencer' arrested in Jantar Mantar case
+A Delhi court sent Bhardwaj to 14-day judicial custody on Monday in connection with an assault case filed by a 38-year-old man.
 
+## Calcutta HC questions multiple FIRs against Abhishek Banerjee health camp case
+The court recorded Sankaranarayanan’s submission that back-to-back complaints leading to FIRs were a suspected tactic
 
-## Busy week ahead: Companies set to raise Rs 7.2k crore via IPOs
-D-St Warms Up In Build-Up To Mega NSE, Jio Platforms Offers
+## Who is Hariram Gupta, owner of Delhi PG that collapsed, killed 7; was on run before being held in Rajasthan
+A neighbour of Hariram Gupta described him as a long-time resident and said he owned several properties and a hardware shop.
 
-## VCs, celebrities bet on AI startups in media, sports
+## MCD chief Sanjeev Khirwar, who was at the centre of dog-walk row, in focus after Satya Niketan tragedy
+MCD Commissioner Sanjeev Khirwar, who allegedly emptied a Delhi stadium to walk his dog in 2022, is in spotlight over the fatal Satya Niketan building collapse.
 
+## Supreme Court orders SITs to probe fraud motor accident claims
+The directions came after the court uncovered a pattern in which the same vehicle was allegedly shown as being involved in multiple accidents for insurance.
 
-## Justice Sanjay K Agrawal sworn in as Rajasthan High Court Chief Justice
-The Centre notified Justice Mishra’s appointment on Saturday, about a month after the Supreme Court Collegium had recommended his elevation
+## ‘I’m easy target’: Madhya Pradesh bureaucrat transferred for 4th time in a year
+Neha Marvya’s fresh transfer came less than two months after she took charge as the Tribal Area Development Project director.
 
-## HC to hear habeas corpus plea on Swatantra Bhardwaj's arrest today
-The Delhi High Court on Monday will hear a habeas corpus petition concerning right-wing ‘influencer’ Swatantra Bhardwaj, who was arrested last week.
+## Hong Kong landlords accuse banks of deepening shop slump with reluctance to lend
+Hong Kong landlords and property industry figures are accusing banks of deepening the city’s shop slump by pulling back from commercial mortgages, leaving more potential buyers unable to secure financing even though property values have fallen sharply. Shop buyers were increasingly being turned away
 
-## Vijay slams rising 'double-meaning' remarks against women, days after Trisha row
-“Do not make personal attacks against others and women," Vijay said.
+## Tesla offers rare China inventory discounts to fight sliding Shanghai production sales
+Tesla China has launched discounts on its Shanghai-made cars for the first time since the end of 2024, responding to falling deliveries in the world’s largest market for electric vehicles (EVs). Prices of Model 3 vehicles in inventory would be reduced by 5,000 yuan (US$745) each, while buyers of the
 
-## Three charred to death after car crashes into transformer in UP’s Lakhimpur Kheri
-The collision caused electrical wires to break and fall onto the car, triggering sparks and a fire. The six occupants were trapped inside the vehicle
+## Will China’s US$54b capital injection be enough to ease financial strains?
+Beijing’s planned 360 billion yuan (US$54 billion) capital injection into eight state-owned financial institutions is a step in the right direction, but further fiscal support is needed to revive credit demand and ensure the fresh capital is put to better use, analysts say. They noted that the move 
 
-## Russia ready to supply ‘as much oil as India needs’, envoy slams 'pressure tactics' amid US' 100% tariff threats
-The Russian envoy slammed the "pressure tactics" by the US and stated that Moscow remains ready to continue sales with India.
+## China’s capital injection steels banks, insurers for rough road ahead
+China announced a capital injection of around 360 billion yuan (US$54 billion) for eight of the largest state-owned banks and insurers amid government efforts to shore up the country’s financial system and boost economic growth. Three state banks said on Sunday they would receive a combined 290 bill
 
-## India’s crude import price nears $100/barrel amid global oil market volatility
-Petrol consumption rose 7.9% and diesel demand 6.4% in August, adding pressure on state-run oil companies as global prices climb.
+## Chinese firms’ green-tech expansion hinges on Hong Kong, senior bankers say
+Hong Kong is poised to play a bigger role in financing Chinese green-technology companies’ expansion into emerging markets, as geopolitical fragmentation and high funding costs reshape how capital is deployed in the global energy transition, according to senior banking executives. The city’s deep su
 
-## US envoy Sergio Gor holds talks with Amazon executives on expanding India footprint
-US envoy Sergio Gor drew attention to the expanding scope of bilateral relations, pointing out that both nations cooperate across multiple domains.
+## China’s brokers expected to continue robust performance with blockbuster IPO offerings
+Chinese brokers delivered strong profits in the first half of the year, driven by active trading in the A-share market that boosted brokerage revenues by over 50 per cent, while the blockbuster initial public offerings (IPOs) are expected to make underwriting and sponsorship business a key growth en
 
-## A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir
-This follows India's vote supporting the ‘Correct the Map’ UN resolution aiming to promote equal-area representation of world maps.
+## China’s leading EV battery makers’ profits nearly double that of industry’s carmakers
+China’s electric vehicle (EV) battery makers saw their combined net profit in the first half of the year nearly double that of the country’s major carmakers, widening the profitability gap amid weakening domestic demand for EVs. Seven major battery manufacturers, including Contemporary Amperex Techn
 
 ## Can gold hit US$5,000? Wall Street turns bullish despite US job growth fuelling rate fears
 Gold will probably test US$5,000 an ounce by the end of 2026, as demand from central banks diversifying their foreign reserves remains strong, countering fears of US monetary tightening after strong labour data and a hawkish tone from the Federal Reserve, according to investment banks. RBC Capital M
-
-## HSBC-backed platform drives green transition capital to emerging markets amid global risks
-HSBC has teamed up with partners to launch a non-profit platform to help emerging markets in upgrading their technology and shifting from oil and coal to renewable energy, according to a senior executive at the lender. The Green Accelerator Programme, rolled out on Monday with backing from HSBC, the
-
-## How generative AI helps SenseTime turn a profit even as Chinese peers struggle
-Chinese artificial intelligence pioneer SenseTime is carving a unique path to profitability by steering away from a blind chase for model size, focusing instead on helping clients complete enterprise tasks, executives from the firm told the South China Morning Post. Speaking after the firm reported 
-
-## China’s ‘Tesla imitators’ have a new mission: build affordable humanoid robots for consumers
-When Nio CEO William Li outlined earnings prospects for the Shanghai-based carmaker in March, he could not help but liken the automotive business to the development of robots. “I think robotics will represent a natural extension of our carmaking capabilities and business acumen,” Li told reporters a
-
-## Hong Kong’s yuan pool is growing. Can it turn liquidity into global demand?
-Hong Kong’s top financial regulators have urged local banks to make greater use of the city’s growing pool of offshore yuan liquidity, while also flagging the need to prepare for a coming wave of autonomous AI systems used in the financial sector. Speaking at the Hong Kong Association of Banks (HKAB
-
-## Standard Chartered ‘doubling down’ on China wealth opportunities despite tax pivot
-Standard Chartered plans to increase its investment in wealth centres and hiring in Hong Kong, mainland China and Taiwan to gain more affluent clients, a senior executive said, adding that it doubts Beijing’s stricter enforcement of taxes on cross-border investment will hurt the wealth-management se
-
-## Hong Kong broadens sustainable finance taxonomy framework to boost transition capital
-Hong Kong unveiled an expanded sustainable finance taxonomy as the city kicked off its annual Green Week on Monday, broadening the range of economic activities recognised as green or transition. The Hong Kong Monetary Authority (HKMA) launched a public consultation on the Phase 2B prototype of its H
-
-## A Prevention Prescription for Hong Kong
-Roche Diagnostics Hong Kong general manager Ronald Lo is pushing the city beyond reactive medicine towards a prevention-led system powered by automation, AI and empowered patients. For Ronald Lo, diagnostics are about time. Time gained through early detection. Time saved by avoiding unnecessary trea
 
 ## 25 Years After 9/11, What Are We Failing to Imagine Now?
 The counterterrorism community struggles with how technology might be applied to novel use cases.
@@ -153,6 +165,15 @@ Test yourself on the week of Aug. 29: Iceland votes, China threatens Pacific isl
 ## Why the United States Should Recognize Somaliland
 U.S. allies won’t love it, but American interests come first.
 
+## Schools Close Across Sarawak Due to Toxic Haze From Indonesian Wildfires
+Wildfires have raged for weeks across swathes of Sumatra and Kalimantan, exacerbated by a particularly severe dry season.
+
+## What’s Happening in Philippine Vice President Sara Duterte’s Impeachment Trial?
+The trial has dropped from the headlines amid ongoing corruption controversies and the massive flooding that hit vast areas of Luzon this month.
+
+## Myanmar President Min Aung Hlaing Concludes State Visit to Vietnam
+The two nations agreed to bolster cooperation in a host of areas, including defense, investment, trade, and digital technologies.
+
 ## Free and Open Indo-Pacific: A Pillar of Deeper Regional Cooperation
 Japan’s Indo-Pacific vision has outlasted its creator and found new partners. Beijing is not pleased.
 
@@ -168,14 +189,14 @@ Concerned citizens and civil society groups working in tandem can help free the 
 ## Nepal’s Floods Upset Its China-India Balancing Act
 Trade infrastructure was swept away. Nepal’s trade with China, which was already limited, will be further restricted after the August 26 floods.
 
-## Indonesia’s Emerging China Dependencies
-Is this the beginning of the end of Jakarta’s truly “free and active” foreign policy?
+## The Strategic Fiber of America: Kevlar’s Impact on Warfighters
+Editor’s note: This is the tenth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
-## Why Australian Politics Is Shifting Right, Not Left
-The prevalence of nationalism, authoritarianism, and populism explains the rise of far-right politics in Australia.
+## Shrinking Buffers: Why Turkey and Israel Are on a Collision Course
+When Israeli warplanes struck the Abu al-Duhur airbase in Syria on Aug. 18, 2026, the smoke rose over the demolition of an old geopolitical assumption about the Middle East. This time, Israel directly targeted a strategic sphere of influence where the Turkish military had been working to build local
 
-## The Real Key to the AI Race: Nanometers or Gigawatts?
-By 2030, the China-U.S. AI competition may be decided less by who builds the most advanced chips than by who deploys the most computing power.
+## New Complications in Countering the Flow of Arms in the Caribbean
+Arms trafficking in the Caribbean has soared in recent years, with many states now ranking firearms trafficking as the number one public safety and security threat. As new methods of arming individuals and gangs emerge across the Caribbean, gun violence continues to rise throughout the region. While
 
 ## The Fruit of Patience: How Regional Shifts Ripened Turkey’s Path to Kurdish Reconciliation
 On Aug. 25, at the People’s Palace in Damascus, Mazloum Abdi announced the dissolution of the Syrian Democratic Forces, which he had commanded for a decade. Speaking first in Arabic and then in Kurdish, he said the force had joined the Syrian army and would no longer operate independently. 15 days e
@@ -191,15 +212,6 @@ As a new convoy of Russian armored vehicles arrives from the port of Lomé to su
 
 ## Is Taiwanese Society Prepared for a China Contingency?
 In 2025, Michael Hunzeker and Yuster Yu wrote, “Taiwan’s Biggest Problem in Steeling Itself for War With China is Cultural,” where they argued major cultural changes were needed in both Taiwan’s military and civilian society if it were to be competitive in a conflict with China. A year later, we ask
-
-## European Resilience in Digital Infrastructure: The Changing Nature of State-Business Relations
-As the war in Ukraine progressed, Russian strikes increasingly degraded Ukraine’s terrestrial communications infrastructure, steadily deepening Kyiv’s dependence on SpaceX’s Starlink. The satellite constellation became indispensable for crucial military functions, including command and control, dron
-
-## Ukraine’s Ground Robots and the Economics of Survival
-In August 2024, special forces from five Ukrainian military intelligence units crossed the Black Sea to raid Russian-held Kinburn Spit. The commandos of these units — Chimera, Aratta, Stuhna, Paragon, Terror, and the Siberian Battalion — landed, fought, destroyed equipment, and withdrew. Two years l
-
-## Why Are People Talking About a German Reset with Russia?
-The summer of 2026 has raised questions once again among politicians, diplomats, and academics about whether Germany might be about to dither on Russia. Last month, a drone attack on German soil seemed designed to coerce Germany back into business as usual. Earlier, there had been rumblings about tw
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Six children among 11 people killed in Indonesian market fire
-A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.
+## Moment Amazon plane crash lands in Miami
+Moment Amazon plane crash lands in Miami
 
-## Ten killed and dozens injured in Mexico fireworks blast
-Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.
+## Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
+US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.
 
-## Anti-immigration protesters clash with police in UK after boat arrival
-Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.
+## Balogun red card U-turn prompts Belgium to withdraw support for Infantino
+Belgian football association says it will not back Infantino's bid for re-election, citing the World Cup controversy.
 
-## Armed assailant attacks Ohio Democratic candidate during campaign stop
-Patrick Havas, 38, arrested with weapons after injuring several at Ohio Democrat Amy Acton’s campaign stop.
+## Can Iran enforce a restricted zone in the Strait of Hormuz?
+Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?
 
-## Philippines warns China may reassert itself amid US-South Korea drill cuts
-Manila defence chief says Washington gave 'definite assurances' that its commitments to the Philippines remain.
+## Champions League: Five key talking points for the 2026-27 season
+Arsenal and Bayern lead the challengers to PSG, Mourinho aims for glory with Real and Italian minnows Como make debut.
 
-## Iran to announce restricted zone outside Strait of Hormuz
-Iran's security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.
+## Iran and Ukraine wars: Why ship fuel is running short, and why it matters
+There's less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.
 
-## Australia’s proposed ‘opt out’ law targets Big Tech algorithms
-Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.
+## Pakistan captain Fatima Sana fined over Shafali Verma gesture in Asia Cup
+Sana gestured towards the pavilion after removing Verma in a caught-and-bowled dismissal in their Asia Cup match.
 
-## Eight-year-old Gaza girl killed by Israel on first day of school
-An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.
+## Is the AfD’s Ulrich Siegmund Germany’s ‘most dangerous man’?
+Is the AfD’s Ulrich Siegmund Germany’s ‘most dangerous man’?
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
@@ -273,8 +285,11 @@ Digital platform will provide trade access to NAC decisions, CAAR rulings, legal
 ## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
 
-## RBI's liquidity test may set future course
-The Reserve Bank of India is currently grappling with a notable liquidity dilemma due to a surge in FCNR(B) scheme inflows. To navigate this, a pivotal variable rate reverse repo auction is set to influence the liquidity management strategy. The central bank may also utilize measures such as dollar 
+## Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say
+INDIA-RUPEE/RBI-INTERVENTION (PIX)Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say
+
+## Sebi’s new ETF rules apply today: What changes from September 7 and how they impact investors?
+Sebi’s revised ETF trading rules have come into effect from September 7, changing how price bands and reference prices are determined. The new framework introduces dynamic price bands based on underlying assets and a pre-open auction for gold and silver ETFs, aiming to improve price discovery and re
 
 ## RBI absorbs Rs 6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high
 Recently, the Reserve Bank of India undertook measures to absorb more than six lakh crore rupees from the banking system, utilizing two variable rate reverse repo auctions. This move comes as a response to record high surplus liquidity driven by significant inflows from a special deposit scheme and 
@@ -293,7 +308,4 @@ The Reserve Bank of India's special swap windows raised a cumulative $136.3 bill
 
 ## RBI DG Murmu says NBFCs should use securitisation to transfer risk, free up capital
 RBI Deputy Governor S C Murmu has called for securitisation to evolve beyond a liquidity management tool into a mechanism for genuine risk transfer and capital release, while urging NBFCs and HFCs to diversify funding sources amid vulnerabilities exposed by past liquidity shocks.
-
-## Supreme Court dismisses Sebi’s plea against NSE: Report
-In a pivotal ruling, India's supreme court has dismissed the regulatory challenges raised by market authorities against the National Stock Exchange. This verdict eliminates a major hurdle for the exchange's initial public offering, addressing previous controversies over co-location and dark fibre al
 
