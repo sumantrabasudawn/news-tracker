@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## Police face questions over anti-migrant protests by masked protesters
-Demonstrators in Portsmouth prevent lifeboat crews from bringing people ashore a day after stand-off in Dover
+## Everything is awesome
+In stocks
 
-## Five killed as Amazon cargo plane overshoots runway in Miami
-Crash of Prime Air 767-300 is latest in a string of recent US aviation accidents
+## EU to table ‘Buy European’ public procurement rules to push out China
+Also in this newsletter: The US internet terror groups targeting young Europeans
 
-## UK hiring picks up in latest hint of improving economic confidence
-Survey suggests demand for staff is now stabilising in the private sector
-
-## Far-right AfD surges to first place in German state elections
-Alternative for Germany is projected to become the largest party in Saxony-Anhalt but fall short of a parliamentary majority
-
-## Germany’s Merz on the ropes after far right delivers devastating blow
-Stunning AfD victory in Saxony-Anhalt shows how Germany’s political centre is crumbling
+## Few signs of persistent price pressures in UK and Eurozone
+Energy-sensitive inflation remains relatively subdued in both economies
 
 ## FirstFT: Germany’s far-right AfD surges to first place in state elections
-Also in today’s newsletter: Huawei set for New York trial and Indonesian wildfires spread
+Also in today’s newsletter: Russia’s ‘hybrid’ war and EssilorLuxottica
 
-## Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials
-Foiled drone attack at German airport seen as sign of Nato’s weak response and Moscow’s impunity
+## China pumps $53bn into banks and insurers
+Beijing widens recapitalisation plan to more state-controlled institutions in bid to boost financial performance
 
-## The risky mission to de-mine the Strait of Hormuz
-US Navy divers, boats and robots made covert night-time trips to dispose of explosives in the crucial channel
+## Modi fails to dull gold’s lustre in India
+Tata’s Titan jewellery chain says consumers continue to regard the precious metal as an investment
 
-## Starting gun fired on autumn election campaign season
-Republicans gather in Dallas, 25th anniversary of 9/11, ECB interest rate decision
+## Venezuela-US oil deal risks violating local law, say experts
+Contentious agreement may conflict with Venezuelan constitution, according to a leading opposition politician and analysts
 
-## Was Huawei’s rise built on crime? A Brooklyn jury will decide
-Five years after finance chief Meng Wanzhou’s release from detention in Canada, the company itself is going on trial
+## Why America’s debt binge is starting to matter
+If long-term interest rates decisively breach the 5% threshold, the impact could derail the AI boom
 
-## European SpaceX rival launches rocket into orbit
-German start-up Isar Aerospace succeeds in first ever commercial blast-off from Europe
+## Guggenheim unit warned over internal controls
+Plus, university endowments beat S&P, Japan’s carry trade, Renoir at the National Gallery
 
-## JLR plans up to 4,000 job cuts as Chinese rivals pile on pressure
-British carmaker’s voluntary redundancy programme poses a fresh challenge to UK Prime Minister Andy Burnham
+## EssilorLuxottica overhauls management after rift with founder’s son
+CEO Francesco Milleri has reshaped the senior team at Milan-based eyewear group
 
-## Inside John Lewis’s secret turnaround plan
-Partnership chair Jason Tarry aims to generate hundreds of millions in extra profit from loyalty scheme and retail media
+## How Canadian companies are navigating Trump’s tariffs
+Five small businesses on how the US-Canada trade war has affected them
 
-## Insurers pile on risk as payouts fall to lowest level in 20 years
-Industry braces for downturn as influx of capital into property and casualty insurance pushes down premiums
+## Sensex today | Stock Market LIVE: Sensex down 400 pts, Nifty slips below 23,780 as crude nears $97; Infy, TechM lead losers
+Sensex, Nifty, Share Prices Live: Benchmark indices opened in negative territory on Monday, September 7, 2026, weighed down by a stronger-than-expected US jobs report that reignited fears of a Federal Reserve rate hike, while elevated crude oil prices and escalating Middle East tensions added to the
 
-## Sensex today | Stock Market LIVE: Stock to buy today: HEG (₹729.05)
-Sensex, Nifty, Share Prices Live: BSE Sensex settled 362.57 pts or 0.48% higher at 76,515.43. Nifty 50 was up 24.25 pts or 0.10% to 23,897.70. For the week, the benchmarks lost 1.2% and 1%, marking their fourth ‌consecutive weekly decline and their longest losing streak in ‌five ⁠months.
+## Global basmati market shifts towards premium quality, says SSIEL MD Aman Gupta
+Urges taking the fragrant rice beyond traditional consumption and a stronger, coordinated approach to protect its GI
 
-## We are looking at opportunities to enter the tokenised assets market in India: Equiniti CEO
-We have the capabilities and expertise within Bullish to tokenise assets beyond just equities, says Kramer
+## Google takes its ‘India-first’ AI project to increase farm out, climate resilience to 11 more nations
+The global IT giant has tapped Google DeepMind to come up with agricultural landscape understanding (ALU) and agricultural monitoring and event detection (AMED)
 
-## When ‘the doctor is in’ without pause
-Healthcare systems cannot afford to keep treating clinicians’ emotional lives as incidental to care
+## Tata Motors shares steady as Iveco tender offer window opens today
+The offer price is €14.10 per common share, cum dividend, valuing Iveco Group at approximately €3.82 billion
 
-## Making the community integral to palliative care
-How Kozhikode-based organisation pioneered affordable and sustainable care for patients with life-limiting illnesses
+## Young generation has greater responsibility: Minister Roji John
+The summit features Yi Young Future 6.0, a national programme that brought together students from 12 cities across India to share ideas and experiences
 
-## Fitness ring, steps and balance of food
-Diary of daily fitness
+## Kanohar Electricals IPO opens tomorrow at ₹601-632 price band; Anand Rathi recommends subscribe for long term
+The ₹1,056-crore IPO comprises a fresh issue of shares worth up to ₹300 crore and an offer-for-sale of up to 1.2 crore shares by promoter K Sons Family Trust.
 
-## Data sharing on alternatives to animal testing
-European Medicines Agency’s new pilot aims to foster the regulatory acceptance of New Approach Methodologies
+## Neuroaesthetics study finds how the brain processes beauty in art
+The findings suggest that beauty is not processed as a single experience, but through separate systems for visual content and pleasure
 
-## Suicide prevention: Keep the conversation going
-World Suicide Prevention Day — September 10
+## Hyundai Motor Company Becomes Official Automotive Partner of the UEFA Champions League
+Hyundai Motor Company Becomes Official Automotive Partner of the UEFA Champions League
 
-## WHO validates Bhutan’s rabies-free status
-WHO aims to end human deaths from dog-transmitted rabies by 2030
+## Stock Market Live Today: Sensex falls over 200 points, Nifty slips below 23,855 in early trade
+
+
+## OPEC+ keeps oil output targets unchanged for October
+
+
+## Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption
+
+
+## New stock market pre-open session rules from today: What changes for you?
+The revised arrangement makes the pre-open process more similar to the auction mechanism followed during the Closing Auction Session (CAS). NSE said the objective is to bring the mechanism used for determining the market opening closer to the framework already followed for the closing auction.
+
+## Top stocks to buy: Stock recommendations for September 7, 2026 week - check list
+Stock market recommendations: CG Power and Industrial Solutions, and Adani Power - these are the top stocks to buy that have been recommended by Motilal Oswal Wealth Management Research Desk for the week starting September 7, 2026:
 
 ## China to pump $54 billion into state banks, insurers
 
@@ -75,44 +81,41 @@ D-St Warms Up In Build-Up To Mega NSE, Jio Platforms Offers
 ## VCs, celebrities bet on AI startups in media, sports
 
 
-## Your sugar cravings may get costlier
+## Justice Sanjay K Agrawal sworn in as Rajasthan High Court Chief Justice
+The Centre notified Justice Mishra’s appointment on Saturday, about a month after the Supreme Court Collegium had recommended his elevation
 
+## HC to hear habeas corpus plea on Swatantra Bhardwaj's arrest today
+The Delhi High Court on Monday will hear a habeas corpus petition concerning right-wing ‘influencer’ Swatantra Bhardwaj, who was arrested last week.
 
-## Builder promised 5,069 sq ft, delivered 3,900; RERA orders refund, Rs 98 lakh penalty
-Telangana RERA condemned the use of such tactics by the builder, stating that the alleged conduct amounted to cheating, violated Section 3 of the RE(R&D) Act and made the builder liable for a penalty.
+## Vijay slams rising 'double-meaning' remarks against women, days after Trisha row
+“Do not make personal attacks against others and women," Vijay said.
 
-## IPO rush ahead: 11 companies line up to raise Rs 7,055 crore from investors
-The primary market in India is gearing up for an exciting week ahead, with eleven main-board IPOs lined up to collectively raise more than seven thousand crore rupees. These IPOs span various sectors, showcasing a vibrant market landscape. Most will launch on Tuesday and Wednesday, highlighting the 
+## Three charred to death after car crashes into transformer in UP’s Lakhimpur Kheri
+The collision caused electrical wires to break and fall onto the car, triggering sparks and a fire. The six occupants were trapped inside the vehicle
 
-## Bullion markets this week: US inflation, crude and Middle East tensions to set the tone
-This week sees potential volatility in gold and silver prices, primarily driven by upcoming US inflation figures and interest rate speculation. The influence of crude oil fluctuations and geopolitical developments in the Middle East also play a significant role. Additionally, ongoing purchases by ce
+## Russia ready to supply ‘as much oil as India needs’, envoy slams 'pressure tactics' amid US' 100% tariff threats
+The Russian envoy slammed the "pressure tactics" by the US and stated that Moscow remains ready to continue sales with India.
 
-## India holds strong: How government & RBI worked to shield economy from US-Iran war
-The economy has shown resilience in the face of multiple crises. GDP growth is just one aspect of the story. Foreign exchange reserves have recently hit an all-time high. GST collections - an important high frequency indicator - are robust. India’s exports have successfully diversified into new mark
+## India’s crude import price nears $100/barrel amid global oil market volatility
+Petrol consumption rose 7.9% and diesel demand 6.4% in August, adding pressure on state-run oil companies as global prices climb.
 
-## ABVP members protest, vandalise MCD office in Delhi over building collapse incident | Video
-Five people died, while several others are feared trapped after the building, which was a paying guest accommodation, collapsed in Satya Niketan.
+## US envoy Sergio Gor holds talks with Amazon executives on expanding India footprint
+US envoy Sergio Gor drew attention to the expanding scope of bilateral relations, pointing out that both nations cooperate across multiple domains.
 
-## CM orders magisterial probe, FIR against building owner over Satya Niketan PG collapse
-Deputy Commissioner of Police (Southwest) Amit Goel said an FIR has been registered against building owner Hariram and others.
+## A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir
+This follows India's vote supporting the ‘Correct the Map’ UN resolution aiming to promote equal-area representation of world maps.
 
-## 'Misleading': Govt fact checks Dipke's claim that ‘a hostel in DU South Campus has collapsed’
-“Several social media posts are claiming that a hostel building in Delhi University’s South Campus has collapsed. This claim is #Misleading,” the PIB said.
+## Can gold hit US$5,000? Wall Street turns bullish despite US job growth fuelling rate fears
+Gold will probably test US$5,000 an ounce by the end of 2026, as demand from central banks diversifying their foreign reserves remains strong, countering fears of US monetary tightening after strong labour data and a hawkish tone from the Federal Reserve, according to investment banks. RBC Capital M
 
-## RSS chief Mohan Bhagwat praises youth at UK event, says they are ‘more honest, ready to shed petty differences'
-RSS chief Mohan Bhagwat said the younger generation need not be told how to achieve their purpose. He urged people to set the goal for them, not the method.
+## HSBC-backed platform drives green transition capital to emerging markets amid global risks
+HSBC has teamed up with partners to launch a non-profit platform to help emerging markets in upgrading their technology and shifting from oil and coal to renewable energy, according to a senior executive at the lender. The Green Accelerator Programme, rolled out on Monday with backing from HSBC, the
 
-## Rahul to be ‘face of INDIA bloc’ in 2029: Cong's Venugopal amid TVK's ‘Vijay for PM’ pitch
-Venugopal's remarks come amid the Tamilaga Vettri Kazhagam's pitch for Vijay as the prime ministerial candidate in the next Lok Sabha polls.
+## How generative AI helps SenseTime turn a profit even as Chinese peers struggle
+Chinese artificial intelligence pioneer SenseTime is carving a unique path to profitability by steering away from a blind chase for model size, focusing instead on helping clients complete enterprise tasks, executives from the firm told the South China Morning Post. Speaking after the firm reported 
 
-## DU colleges open doors to anguished students of nearby PGs after building collapse in Satya Niketan
-The PG was located in South-West Delhi's Satya Niketan near the Delhi University's South campus. Many of those residing in the PG are DU students.
-
-## Woman kills sister-in-law over jailed brother's insult, dumps body in tank
-Vandana had allegedly mocked Parvati over her brother, who is currently in Damoh Jail in connection with a rape case.
-
-## ‘They just want publicity’: BJP slams ‘tragedy hunters’ Congress, AAP over Delhi building collapse criticism
-Lok Sabha LoP Rahul Gandhi targeted the BJP government as he called out the “inhumane conditions” students face “due to a lack of good hostels in colleges”.
+## China’s ‘Tesla imitators’ have a new mission: build affordable humanoid robots for consumers
+When Nio CEO William Li outlined earnings prospects for the Shanghai-based carmaker in March, he could not help but liken the automotive business to the development of robots. “I think robotics will represent a natural extension of our carmaking capabilities and business acumen,” Li told reporters a
 
 ## Hong Kong’s yuan pool is growing. Can it turn liquidity into global demand?
 Hong Kong’s top financial regulators have urged local banks to make greater use of the city’s growing pool of offshore yuan liquidity, while also flagging the need to prepare for a coming wave of autonomous AI systems used in the financial sector. Speaking at the Hong Kong Association of Banks (HKAB
@@ -126,17 +129,8 @@ Hong Kong unveiled an expanded sustainable finance taxonomy as the city kicked o
 ## A Prevention Prescription for Hong Kong
 Roche Diagnostics Hong Kong general manager Ronald Lo is pushing the city beyond reactive medicine towards a prevention-led system powered by automation, AI and empowered patients. For Ronald Lo, diagnostics are about time. Time gained through early detection. Time saved by avoiding unnecessary trea
 
-## China rolls out massive US$54b package for insurers, banks in financial powerhouse push
-China rolled out a package of capital injections worth about 360 billion yuan (US$54 billion) on Sunday for the country’s largest state-owned insurers and state banks, marking a step towards Beijing’s long-flagged plan to build itself into a global financial powerhouse. The Ministry of Finance, whic
-
-## Punching above their weight: how China’s AI giants stretch each dollar in compute race
-The massive gap in artificial intelligence spending between US and Chinese tech titans may not buy the advantage expected for American giants, as lower domestic costs and heavy state support allow Chinese firms to secure far more computing power per dollar, according to a new report by Moody’s Ratin
-
-## Huawei paper shows Tau Scaling Law chip solves overheating ahead of Kirin 2026 launch
-Huawei Technologies has released a new research paper showing its Tau Scaling Law-based semiconductor architecture can avoid overheating, which analysts view as a key technical hurdle for its anticipated Kirin 2026 smartphone chip. The paper, authored by He Tingbo, chairwoman of the Huawei Scientist
-
-## Which overseas property markets will be the winners and losers if Fed raises US rates?
-Comments by US Federal Reserve chairman Kevin Warsh at its annual economic policy symposium in Jackson Hole last month have reinforced expectations of an impending interest rate rise in the world’s largest economy, which would have significant impacts on assets and investors around the world. While 
+## 25 Years After 9/11, What Are We Failing to Imagine Now?
+The counterterrorism community struggles with how technology might be applied to novel use cases.
 
 ## Milei Renews Argentina’s Falklands Push
 Buenos Aires is taking advantage of fraying ties between the United States and Britain.
@@ -158,9 +152,6 @@ Test yourself on the week of Aug. 29: Iceland votes, China threatens Pacific isl
 
 ## Why the United States Should Recognize Somaliland
 U.S. allies won’t love it, but American interests come first.
-
-## Soccer’s Favorite Strongman
-José Mourinho’s lessons on how to influence people (and not win friends).
 
 ## Free and Open Indo-Pacific: A Pillar of Deeper Regional Cooperation
 Japan’s Indo-Pacific vision has outlasted its creator and found new partners. Beijing is not pleased.
@@ -234,35 +225,47 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Serbia’s Red Star Belgrade honour Ratko Mladic with tifo
-Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.
+## Six children among 11 people killed in Indonesian market fire
+A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.
 
-## North Korea deploys warship ‘capable of annihilating retaliatory strikes’
-Leader Kim Jong Un says vessel will form part of Pyongyang's nuclear response system, strengthen naval forces.
+## Ten killed and dozens injured in Mexico fireworks blast
+Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.
 
-## Iran war live: Tehran to announce new Hormuz shipping route in coming days
-Move comes as Iran's top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.
+## Anti-immigration protesters clash with police in UK after boat arrival
+Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.
 
-## Alcaraz breezes into last eight at US Open
-Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.
+## Armed assailant attacks Ohio Democratic candidate during campaign stop
+Patrick Havas, 38, arrested with weapons after injuring several at Ohio Democrat Amy Acton’s campaign stop.
 
-## At least five killed after Amazon cargo plane crash in Miami airport
-Five people are injured, and the cause of the crash is being investigated, authorities say.
+## Philippines warns China may reassert itself amid US-South Korea drill cuts
+Manila defence chief says Washington gave 'definite assurances' that its commitments to the Philippines remain.
 
-## At least 10 killed in central Mexico fireworks blast during festival
-Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.
+## Iran to announce restricted zone outside Strait of Hormuz
+Iran's security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.
 
-## Amazon Prime plane overruns runway at Miami Airport
-An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
+## Australia’s proposed ‘opt out’ law targets Big Tech algorithms
+Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.
 
-## Can AfD form Germany’s first far-right state government since World War II?
-Germany’s far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.
+## Eight-year-old Gaza girl killed by Israel on first day of school
+An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.
 
-## Beyond GDP numbers: What is India’s growth really delivering?
-Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
+## ICAI explores PE funding for consultancy, accounting
+The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
+
+## GST Council meeting rescheduled to October 7 due to BRICS summit
+The GST Council meeting has been rescheduled to October 7 due to the BRICS summit. This meeting will occur after a gap of over a year for the council. Discussions will focus on simplifying GST registration for businesses passing tax credits. Automation and changes in GST registration cancellation ar
+
+## AIFs seek status quo as 'foreign control' rules go for a recast
+Local alternative investment funds have warned regulators about proposed changes. These changes could significantly impact capital inflows into India's economy. The draft rules aim to curb indirect foreign ownership in sensitive sectors. Industry officials requested the status quo on existing regula
+
+## CBI books Essel Group chairman Subhash Chandra, others over alleged ₹1,322 crore LICHFL loan loss
+Subhash Chandra, along with eight others, is under scrutiny as the CBI has registered an FIR accusing them of inflating their net worth to secure loans fraudulently. This situation has led LIC Housing Finance to announce a staggering loss exceeding ₹1,322 crore. The Directorate of Enforcement will a
 
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
+
+## Beyond GDP numbers: What is India’s growth really delivering?
+Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
 
 ## CBIC launches NAC portal to bring greater uniformity, transparency in customs assessment
 Digital platform will provide trade access to NAC decisions, CAAR rulings, legal precedents, advisories and audit observations
@@ -270,17 +273,8 @@ Digital platform will provide trade access to NAC decisions, CAAR rulings, legal
 ## CaratLane targets Rs 12,000 crore revenue by FY30, plans to add 50 stores annually: CFO Jigar Vyas
 CaratLane has set an ambitious target of reaching a revenue of twelve thousand crore by the fiscal year twenty thirty. With plans to open fifty new stores each year throughout India, the company emphasizes international expansion as a critical growth strategy. Focused on enhancing product innovation
 
-## Top 20 Corporate Taxpayers in India: SBI, ONGC, ICICI Bank Top List in FY26
-India’s top 20 corporate taxpayers added substantially to the state treasury in FY26, led by stronger profitability across key sectors, but crude volatility, geopolitical tensions, and global trade risks could influence tax trends in FY27.
-
-## India's GDP growth: Investment outpaces consumption, tilting FY27 growth mix towards capex
-Economists see India’s growth mix tilting towards investment as capital formation outpaces consumption, raising the prospect of a stronger capex cycle in FY27 even as household demand faces moderation from higher input costs and weather related risks.
-
-## Proposed corporate law raises CSR thresholds, draws dissent over accountability
-The proposed corporate law overhaul may ease CSR compliance for thousands of companies, but a dissent note has raised concerns over weaker board level scrutiny of corporate social spending. The proposed changes would raise both the CSR applicability and separate committee thresholds, prompting quest
-
-## ESG: Is it dead or alive?
-ESG was once shorthand for responsible business. Now, as US investors retreat while Europe revives green flows, the concept faces a reckoning. Seasoned finance expert Robin Banerjee examines why ESG lost momentum, where India stands, and why emissions, rather than labels, may hold the key.
+## RBI's liquidity test may set future course
+The Reserve Bank of India is currently grappling with a notable liquidity dilemma due to a surge in FCNR(B) scheme inflows. To navigate this, a pivotal variable rate reverse repo auction is set to influence the liquidity management strategy. The central bank may also utilize measures such as dollar 
 
 ## RBI absorbs Rs 6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high
 Recently, the Reserve Bank of India undertook measures to absorb more than six lakh crore rupees from the banking system, utilizing two variable rate reverse repo auctions. This move comes as a response to record high surplus liquidity driven by significant inflows from a special deposit scheme and 
@@ -302,7 +296,4 @@ RBI Deputy Governor S C Murmu has called for securitisation to evolve beyond a l
 
 ## Supreme Court dismisses Sebi’s plea against NSE: Report
 In a pivotal ruling, India's supreme court has dismissed the regulatory challenges raised by market authorities against the National Stock Exchange. This verdict eliminates a major hurdle for the exchange's initial public offering, addressing previous controversies over co-location and dark fibre al
-
-## Govt mulls BIS exemption for high-tech companies setting up plants in India
-The government has announced new exemptions for high-tech companies, allowing them to bypass BIS certification to streamline the setup of manufacturing units in India. Concerns were raised by Japanese semiconductor companies over certification hurdles for components. This strategy is designed to ens
 
