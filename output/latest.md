@@ -1,7 +1,22 @@
 # AION Intelligence
 
+## British voters oppose welfare cuts for disabled people, survey finds
+Only 7% favour lower government spending on those who cannot work
+
+## UK competition watchdog seeks to work with MoD to curb bid-rigging
+CMA petitions government to get behind crackdown on public procurement
+
 ## Trump calls for US boycott of Canada’s Bombardier jets
 President’s post on social media comes hours before Ottawa’s retaliatory tariffs against Washington take effect
+
+## UK set to announce trade ban on Israeli settlements in the West Bank
+Ed Miliband’s intervention is expected to provoke a trenchant response from Washington
+
+## FirstFT: Oil prices near $100 as renewed supply crunch looms
+Also in today’s newsletter: India’s biggest private bank grapples with leadership vacuum and China pumps $53bn into banks and insurers
+
+## India’s biggest private sector bank grapples with leadership vacuum
+Resignations of chair and chief in span of less than six months lay bare corporate governance issues at HDFC Bank
 
 ## Merz in ‘shock’ as far-right AfD celebrates ‘dream result’
 Chancellor under severe pressure as Alternative for Germany party aims for 40% of vote in next federal polls
@@ -9,20 +24,11 @@ Chancellor under severe pressure as Alternative for Germany party aims for 40% o
 ## UK ministers to be encouraged to take more legal risks to push through policies
 Attorney-general Ellie Reeves says change was designed to give ministers ‘confidence in their decision-making’
 
-## John Healey seeks to reassure bond markets as fiscal problems grow
-UK chancellor says government must ‘be honest’ about the need to control public spending
-
-## Germany’s Merz is running out of time
-Following the AfD surge in Saxony-Anhalt, the political centre must deliver, and fast
-
 ## Pricey oil is laying the groundwork for its own decline
 Crude is helping to make clean technologies more competitive
 
 ## Billionaire trader Rokos to leave UK for Greece
-Hedge fund manager’s earnings have made him one of the UK’s biggest individual taxpayers
-
-## What to do about the UK’s mental health crisis
-Approaches focused on community and interpersonal relations have proved to be successful abroad
+Hedge fund manager’s earnings have made him one of Britain’s biggest individual taxpayers
 
 ## Africa’s richest man seeks to raise $1.6bn in continent’s biggest IPO
 Aliko Dangote targets 10mn shareholders as he floats $49bn refinery business on Nigerian stock exchange
@@ -35,12 +41,6 @@ Traders warn that ‘something has to break’ amid attacks on shipping and erod
 
 ## Law schools tell students to put AI away
 The technology is being banned from certain classrooms to remove shortcuts that ‘stunt intellectual growth’
-
-## VW agrees deal to shift plant from cars to air defence
-Carmaker’s embattled Osnabrück factory to be converted following agreement with Aurelius Capital
-
-## Next wins ‘landmark’ judgment in UK retail’s multibillion equal pay battle
-Tribunal rules FTSE 100 group is justified in paying warehouse workers more than mostly female shop workers
 
 ## FTSE-BSE inclusion could open global index route for NSE shares
 BSE-listed stocks to become eligible for FTSE Russell indices from March 2027, just as NSE is set to list
@@ -69,6 +69,9 @@ India produced an estimated 11.99 million tonne of spices in FY25, with exports 
 ## Loan repaid in 2003, but bank lost property papers; court orders Rs 5,000 per day payout
 The bank acknowledged that it could not trace the original documents for either property. However, the bank argued that the firm had not asked for their return immediately after repaying the loan. The bank has been ordered to pay compensation.
 
+## India joins US, 24 nations in push for next-generation 6G networks
+
+
 ## Swiggy swaps retail platform Lynk for 3.2% Udaan stake
 
 
@@ -86,9 +89,6 @@ The High Court has made it clear that the statutory safeguard also covers the wo
 
 ## Carbon pricing relief for Indian exporters to UK
 
-
-## India Inc business confidence rises sharply in Q2 FY27: CII survey
-Indian business confidence improved significantly in the second quarter of fiscal year twenty twenty-seven. Companies anticipate stronger domestic demand and increased hiring in the coming months. Capacity utilization is expected to rise, potentially encouraging private sector investment. Cost press
 
 ## Employees' strike 'illegal', says Punjab minister Arora ahead of call for mass casual leave
 Employees' strike 'illegal', says Punjab minister Arora ahead of call for mass casual leave
@@ -114,6 +114,9 @@ Singh had objected to alleged shouting and nuisance by delivery boys and dhaba s
 ## Rajnath Singh-led DAC clears military capability boost worth ₹1.1 lakh crore
 The plan to boost the IAF’s capabilities includes a pilot project to integrate Russian-origin RVV BD long-range air-to-air missiles with Sukhoi-30 fighters.
 
+## Labubu meets LVMH: Pop Mart to open flagship store in Paris amid cooling overseas sales
+Chinese collectible toymaker Pop Mart International is pushing forward with global retail expansion amid slowing overseas sales and will open its first European flagship store in Paris’ Boulevard Haussmann, the same street as iconic department stores Galeries Lafayette and Printemps, according to th
+
 ## China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei
 Xiaomi unveiled a series of new products on Monday – from a flagship foldable phone featuring proprietary chips to new models of its premium Skynomad SUV – underscoring the Chinese giant’s intensified push to compete against rivals including Tesla, Apple and Huawei Technologies. Beijing-based Xiaomi
 
@@ -134,9 +137,6 @@ Hong Kong is poised to play a bigger role in financing Chinese green-technology 
 
 ## China’s brokers expected to continue robust performance with blockbuster IPO offerings
 Chinese brokers delivered strong profits in the first half of the year, driven by active trading in the A-share market that boosted brokerage revenues by over 50 per cent, while the blockbuster initial public offerings (IPOs) are expected to make underwriting and sponsorship business a key growth en
-
-## China’s leading EV battery makers’ profits nearly double that of industry’s carmakers
-China’s electric vehicle (EV) battery makers saw their combined net profit in the first half of the year nearly double that of the country’s major carmakers, widening the profitability gap amid weakening domestic demand for EVs. Seven major battery manufacturers, including Contemporary Amperex Techn
 
 ## 25 Years After 9/11, What Are We Failing to Imagine Now?
 The counterterrorism community struggles with how technology might be applied to novel use cases.
@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Houthis accuse Saudi Arabia of killing seven in Yemen prison attack
+Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.
+
+## Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region
+Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.
+
+## Hawaii braces for Hurricane Lowell
+Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.
+
 ## Oil prices surge as US-Iran strikes intensify in Strait of Hormuz
 Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.
 
@@ -248,15 +257,6 @@ Fighting is intensifying in Yemen as government-aligned forces launch counteratt
 
 ## Robots protest in Poland over AI regulation concerns
 Robots protest in Poland over AI regulation concerns
-
-## Cuba says no negotiations with US despite ‘genocidal’ blockade
-Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.
-
-## What are the implications of AfD’s electoral rise for Germany and Europe?
-The far-right Alternative for Germany is just short of a majority in a regional election.
-
-## UK government refuses slavery reparations as Jamaica urges king to act
-Britain expresses sorrow over slavery, but rejects financial compensation.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
