@@ -1,76 +1,85 @@
 # AION Intelligence
 
-## Vox rides high in Spain over Ceuta migrant crisis
-Rightwing populist party’s strong ratings on immigration underline political cost for Pedro Sánchez
+## John Healey seeks to reassure bond markets as fiscal problems grow
+UK chancellor says government must ‘be honest’ about the need to control public spending
 
-## Next wins ‘landmark’ ruling in UK retail’s multibillion equal pay claim
-Tribunal rules FTSE 100 retailer is justified in paying warehouse workers more than mostly female shop workers
+## Germany’s Merz is running out of time
+Following the AfD surge in Saxony-Anhalt, the political centre must deliver, and fast
 
-## A German election result heard around the world
-The Kremlin and the Trump administration are cheering on the rise of the AfD
+## Pricey oil is laying the groundwork for its own decline
+Crude is helping to make clean technologies more competitive
 
-## Yen surges to 6-month high as traders stay alert for signs of intervention
-Japanese currency touches ¥154.04 per dollar, including steep a rise in London morning
+## Billionaire trader Rokos to leave UK for Greece
+Hedge fund manager’s earnings have made him one of the UK’s biggest individual taxpayers
 
-## Canada is fated to try to do deals with Trump
-Ottawa has no alternative but to keep the door open to negotiating the best possible access to the US market
+## What to do about the UK’s mental health crisis
+Approaches focused on community and interpersonal relations have proved to be successful abroad
 
-## Top Serbian officials attend funeral of Ratko Mladić in Belgrade
-EU enlargement commissioner cancels visit to country over ‘glorification’ of convicted war criminal
+## Merz in ‘shock’ as far-right AfD celebrates ‘dream result’
+German chancellor under severe pressure as rival party aims for 40% of vote in country’s next federal polls
 
-## UK must ‘be honest’ about need to control spending, says chancellor
-John Healey uses first major speech to urge state-owned bodies to invest more in private sector
+## Primetime — Robert Pattinson is silkily vampiric as a TV paedophile-hunter
+The actor plays ‘To Catch a Predator’ host Chris Hansen in a queasy reckoning with the hit 2000s show
 
-## China’s Global Strategy Under Xi Jinping — the plan to shift power from the west
-Steve Tsang and Olivia Cheung provide an intelligent guide to the Chinese leader’s thought, if not in the most gripping style for casual readers
+## Belgian-Chinese researcher arrested over suspected theft of chip secrets
+Prosecutors in Belgium cite ‘indications’ suspect took role at tech company in China months after joining now-defunct semiconductor maker Belgan
 
-## VW agrees Israel deal to shift plant from cars to air defence
+## Africa’s richest man seeks to raise $1.6bn in continent’s biggest IPO
+Aliko Dangote targets 10mn shareholders as he floats $49bn refinery business on Nigerian stock exchange
+
+## Oil closes in on $100 as renewed supply crunch looms
+Traders warn that ‘something has to break’ amid attacks on shipping and eroding inventories
+
+## Law schools tell students to put AI away
+The technology is being banned from certain classrooms to remove shortcuts that ‘stunt intellectual growth’
+
+## VW agrees deal to shift plant from cars to air defence
 Carmaker’s embattled Osnabrück factory to be converted following agreement with Aurelius Capital
+
+## Next wins ‘landmark’ judgment in UK retail’s multibillion equal pay battle
+Tribunal rules FTSE 100 group is justified in paying warehouse workers more than mostly female shop workers
 
 ## Deutsche Bank settles €152mn lawsuit with former executive
 Dario Schiraldi was one of six bankers convicted — and later acquitted — over trades linked to Monte dei Paschi di Siena
 
-## US shale pioneer takes fracking to Australia’s remote gas frontier
-American producers hope to export practices around the world as countries seek new supplies due to the Iran war
+## FTSE-BSE inclusion could open global index route for NSE shares
+BSE-listed stocks to become eligible for FTSE Russell indices from March 2027, just as NSE is set to list
 
-## Shipping through Panama Canal faces new cuts as water dries up
-New administrator cites impact from water shortages at a time when Iran war has strained trade flows
+## W Health Ventures closes second fund at ₹700 crore, plans to build 8-10 healthcare companies
+Unlike a conventional venture fund that primarily invests in existing startups, W Health Ventures said it develops businesses from the idea stage
 
-## Saudi Aramco oil facilities hit in new strikes
-Jizan, near the Yemeni border, has been repeatedly targeted by Houthi rebels in their campaign against Saudi Arabia
+## Broker’s call: ESDS Software (Buy)
+Choice Broking
 
-## FirstFT: Germany’s far-right AfD surges to first place in state elections
-Also in today’s newsletter: China spends $53bn to recapitalise banks and insurers, and five die in Miami plane crash
+## Bandhan Bank enters credit card market with four-tier portfolio
+Bandhan Bank on Monday launched its credit card business in partnership with Mastercard
 
-## ‘It sucks’: petrol prices test Trump voters in New Jersey
-A competitive congressional race in New Jersey shows how affordability fears could spell trouble for Trump in November
+## Raghav Productivity expects to commission Odisha plant next year, plans to double market share
+The partnership provides Jaipur-based Raghav Productivity, the world’s largest manufacturer of silica ramming mass, exclusive access to TRL Kosaki’s quartzite mines in Odisha
 
-## From farm waste to fashion: How agro residues are becoming leather-like materials
-The development adds coffee husk to a growing list of bio-resources being explored as alternatives to conventional leather and synthetic materials
+## HEG trades ex-Graphite business, gains 3% on debut
+The stock closed at ₹273 on the NSE, valuing the company (ex-graphite) at ₹5,300 crore
 
-## India’s ice cream market sheds “summer-only indulgence” tag, shifts away from frozen desserts: IICMA
-The shift in preference is unfolding alongside a broader growth story, as longer summers and changing consumption habits push ice cream beyond its traditional seasonal boundaries
+## Broker’s call: Apollo Micro (Buy)
+Systematix
 
-## udaan acquires Swiggy’s LYNK Logistics for ₹500 crore, gets Swiggy as shareholder
-The acquisition adds LYNK’s distribution network across Bengaluru, Hyderabad, Chennai and Kolkata
-
-## AI may accelerate anti-competitive practices in digital markets: CCI chief
-She said businesses across sectors were rapidly adopting AI tools and applications, bringing benefits in areas such as education, healthcare, logistics and supply chain management
-
-## Ambassador Gor unveils TRUST Fellowship to advance India-US collab in critical technologies
-The TRUST Fellowship will bring together American and Indian researchers to advance work in critical technologies, including AI, semiconductors, quantum computing, and biotech
-
-## Natural gas: Initiate long positions
-The September futures are likely to break out soon
-
-## Messe Muenchen India Acquires India International Cargo Show, Creating South Asia's Largest Logistics Trade-Fair Ecosystem
-Messe Muenchen India Acquires India International Cargo Show, Creating South Asia's Largest Logistics Trade-Fair Ecosystem
-
-## McCain Foods India appoints Aditya Krishna as MD
-Krishna takes over from Mainak Dhar, who transitions into an expanded leadership role
+## Spice industry banks on quality to builds trust in domestic market
+India produced an estimated 11.99 million tonne of spices in FY25, with exports valued at $4.52 billion, according to the Spices Board
 
 ## Loan repaid in 2003, but bank lost property papers; court orders Rs 5,000 per day payout
 The bank acknowledged that it could not trace the original documents for either property. However, the bank argued that the firm had not asked for their return immediately after repaying the loan. The bank has been ordered to pay compensation.
+
+## Salary stayed Rs 2.6 lakh after maternity leave, but duties were cut; HC awards Rs 10 lakh
+The High Court has made it clear that the statutory safeguard also covers the work she performs, her position in the organisational hierarchy, supervisory powers and opportunities for appraisal and promotion.
+
+## Carbon pricing relief for Indian exporters to UK
+
+
+## India Inc business confidence rises sharply in Q2 FY27: CII survey
+Indian business confidence improved significantly in the second quarter of fiscal year twenty twenty-seven. Companies anticipate stronger domestic demand and increased hiring in the coming months. Capacity utilization is expected to rise, potentially encouraging private sector investment. Cost press
+
+## Traffic violations could cost driving licence points; Gadkari plans new rules
+The proposed system would assign penalty points to motorists for different traffic offences. If a driver accumulates points beyond a specified limit, the authorities could suspend the driving licence or cancel it altogether.
 
 ## LPG refill booking interval cut to 25 days in rural areas, matching urban rule
 
@@ -81,41 +90,32 @@ India could surpass the United States in metro rail network length within the ne
 ## Jaguar Land Rover to cut around 4,000 jobs globally over next 2 years: CEO
 
 
-## Gold price prediction today: Where are gold prices headed? Check outlook for September 7, 2026 week
-Gold price prediction today: Gold seems to be facing pressures from multiple fronts, entering a corrective phase, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+## Drug addict trespasses into J&K CM residence minutes after police release
+The youth was a drug addict who had been involved in thefts in Kakryal as well, and around three to four FIRs stand registered against him .
 
-## Stocks to buy: What's the outlook for Nifty for September 7-September 11 week? Check list of top stock recommendations
-Stock market recommendations: APL Apollo Tubes, and Central Mine Planning & Design Institute Ltd (CMPDI) have been recommended by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy on September 7, 2026.
+## Indian, Chinese armies hold talks focusing on maintaining peace along LAC
+The Indian delegation was headed by Lt General Girish Kalia, the commander of the Army's Dimapur-based 3 Corps.
 
-## Rs 2.61 crore in online games, Rs 28 lakh loss; but taxman seeks tax on Rs 2.33 crore
-The ITAT Bangalore held that, in the circumstances of this case, the amount that could be brought to tax was the actual net winnings from online gaming, rather than gross credits appearing in a player’s wallet or amounts shown as winnings at different stages of the gameplay.
+## Indian Embassy in China asks families for DNA samples to identify victims
+The Embassy will forward the data to the concerned Chinese authorities for comparison.
 
-## Stock market today: Sensex falls nearly 500 points; Nifty dips below 23,800
+## ‘Conduct worthy of derision’: HC rebukes Noida DM over illegal NSA detention
+The Allahabad high court said IAS and IPS officers must remember that their loyalty is to the Constitution and not the political executive.
 
+## 'Orwellian dystopia': Allahabad HC reprimands Noida DM over DU student's NSA detention during Noida workers protest
+The bench ordered immediate release of Akriti Chaudhary and awarded her a compensation of ₹5 lakh last week.
 
-## HT Evening News Brief September 7: HC orders MCD inquiry into Delhi PG collapse; Ishan Kishan shines in Duleep Trophy
-Here are the top stories of the day from India, the world, sports, and entertainment.
+## Manipuri musician dies after delivery boys, dhaba staff assault him in Delhi; all accused held
+Singh had objected to alleged shouting and nuisance by delivery boys and dhaba staff outside his residence, according to the preliminary enquiry.
 
-## Eknath Shinde suspends Shiv Sena's Palghar unit chief over hospital assault case, vows expulsion
-Shiv Sena's Palghar district and city unit chiefs, and an MLA's son were booked on Sunday after a dispute with the hospital staff.
+## Rajnath Singh-led DAC clears military capability boost worth ₹1.1 lakh crore
+The plan to boost the IAF’s capabilities includes a pilot project to integrate Russian-origin RVV BD long-range air-to-air missiles with Sukhoi-30 fighters.
 
-## 'Delhi cops had audacity to go to Bulandshahr after me': 'Influencer' arrested in Jantar Mantar case
-A Delhi court sent Bhardwaj to 14-day judicial custody on Monday in connection with an assault case filed by a 38-year-old man.
+## National Film Awards 2026 ceremony to be held in Gujarat
+Article 370 was named “Best Feature Film”, while Yami Gautam won “Best Actress in a Leading Role” for the same film
 
-## Calcutta HC questions multiple FIRs against Abhishek Banerjee health camp case
-The court recorded Sankaranarayanan’s submission that back-to-back complaints leading to FIRs were a suspected tactic
-
-## Who is Hariram Gupta, owner of Delhi PG that collapsed, killed 7; was on run before being held in Rajasthan
-A neighbour of Hariram Gupta described him as a long-time resident and said he owned several properties and a hardware shop.
-
-## MCD chief Sanjeev Khirwar, who was at the centre of dog-walk row, in focus after Satya Niketan tragedy
-MCD Commissioner Sanjeev Khirwar, who allegedly emptied a Delhi stadium to walk his dog in 2022, is in spotlight over the fatal Satya Niketan building collapse.
-
-## Supreme Court orders SITs to probe fraud motor accident claims
-The directions came after the court uncovered a pattern in which the same vehicle was allegedly shown as being involved in multiple accidents for insurance.
-
-## ‘I’m easy target’: Madhya Pradesh bureaucrat transferred for 4th time in a year
-Neha Marvya’s fresh transfer came less than two months after she took charge as the Tribal Area Development Project director.
+## China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei
+Xiaomi unveiled a series of new products on Monday – from a flagship foldable phone featuring proprietary chips to new models of its premium Skynomad SUV – underscoring the Chinese giant’s intensified push to compete against rivals including Tesla, Apple and Huawei Technologies. Beijing-based Xiaomi
 
 ## Hong Kong landlords accuse banks of deepening shop slump with reluctance to lend
 Hong Kong landlords and property industry figures are accusing banks of deepening the city’s shop slump by pulling back from commercial mortgages, leaving more potential buyers unable to secure financing even though property values have fallen sharply. Shop buyers were increasingly being turned away
@@ -137,9 +137,6 @@ Chinese brokers delivered strong profits in the first half of the year, driven b
 
 ## China’s leading EV battery makers’ profits nearly double that of industry’s carmakers
 China’s electric vehicle (EV) battery makers saw their combined net profit in the first half of the year nearly double that of the country’s major carmakers, widening the profitability gap amid weakening domestic demand for EVs. Seven major battery manufacturers, including Contemporary Amperex Techn
-
-## Can gold hit US$5,000? Wall Street turns bullish despite US job growth fuelling rate fears
-Gold will probably test US$5,000 an ounce by the end of 2026, as demand from central banks diversifying their foreign reserves remains strong, countering fears of US monetary tightening after strong labour data and a hawkish tone from the Federal Reserve, according to investment banks. RBC Capital M
 
 ## 25 Years After 9/11, What Are We Failing to Imagine Now?
 The counterterrorism community struggles with how technology might be applied to novel use cases.
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Moment Amazon plane crash lands in Miami
-Moment Amazon plane crash lands in Miami
+## Board of Peace touts progress as Palestinians’ situation worsens
+Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.
 
-## Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
-US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.
+## Egyptian wrestlers keep vanishing abroad amid a sport in crisis
+Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.
 
-## Balogun red card U-turn prompts Belgium to withdraw support for Infantino
-Belgian football association says it will not back Infantino's bid for re-election, citing the World Cup controversy.
+## Nauru opens embassy in Jerusalem
+Pacific island nation Nauru has opened its embassy in Jerusalem, becoming the ninth country to do so.
 
-## Can Iran enforce a restricted zone in the Strait of Hormuz?
-Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?
+## Bolivian blast death toll rises to 7, rescuers search for missing soldiers
+President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.
 
-## Champions League: Five key talking points for the 2026-27 season
-Arsenal and Bayern lead the challengers to PSG, Mourinho aims for glory with Real and Italian minnows Como make debut.
+## Gaza: Genocide in Real Time?
+B'Tselem Executive Directo
 
-## Iran and Ukraine wars: Why ship fuel is running short, and why it matters
-There's less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.
+## Serbian government sets up snap vote with call to dissolve parliament
+Upcoming election viewed as bid to tighten President Vucic's rule after months of mass street protests.
 
-## Pakistan captain Fatima Sana fined over Shafali Verma gesture in Asia Cup
-Sana gestured towards the pavilion after removing Verma in a caught-and-bowled dismissal in their Asia Cup match.
+## When does a family meal become a luxury in Nigeria?
+‘5,000 naira used to make a pot of soup, now 10,000 naira isn't enough.’
 
-## Is the AfD’s Ulrich Siegmund Germany’s ‘most dangerous man’?
-Is the AfD’s Ulrich Siegmund Germany’s ‘most dangerous man’?
+## Kosovo signs up to US-led Gaza stabilisation force
+Balkan state joins short list of countries agreeing to send peacekeepers to Palestinian enclave.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
