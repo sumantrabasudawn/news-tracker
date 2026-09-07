@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Trump calls for US boycott of Canada’s Bombardier jets
+President’s post on social media comes hours before Ottawa’s retaliatory tariffs against Washington take effect
+
+## Merz in ‘shock’ as far-right AfD celebrates ‘dream result’
+Chancellor under severe pressure as Alternative for Germany party aims for 40% of vote in next federal polls
+
+## UK ministers to be encouraged to take more legal risks to push through policies
+Attorney-general Ellie Reeves says change was designed to give ministers ‘confidence in their decision-making’
+
 ## John Healey seeks to reassure bond markets as fiscal problems grow
 UK chancellor says government must ‘be honest’ about the need to control public spending
 
@@ -15,17 +24,11 @@ Hedge fund manager’s earnings have made him one of the UK’s biggest individu
 ## What to do about the UK’s mental health crisis
 Approaches focused on community and interpersonal relations have proved to be successful abroad
 
-## Merz in ‘shock’ as far-right AfD celebrates ‘dream result’
-German chancellor under severe pressure as rival party aims for 40% of vote in country’s next federal polls
-
-## Primetime — Robert Pattinson is silkily vampiric as a TV paedophile-hunter
-The actor plays ‘To Catch a Predator’ host Chris Hansen in a queasy reckoning with the hit 2000s show
+## Africa’s richest man seeks to raise $1.6bn in continent’s biggest IPO
+Aliko Dangote targets 10mn shareholders as he floats $49bn refinery business on Nigerian stock exchange
 
 ## Belgian-Chinese researcher arrested over suspected theft of chip secrets
 Prosecutors in Belgium cite ‘indications’ suspect took role at tech company in China months after joining now-defunct semiconductor maker Belgan
-
-## Africa’s richest man seeks to raise $1.6bn in continent’s biggest IPO
-Aliko Dangote targets 10mn shareholders as he floats $49bn refinery business on Nigerian stock exchange
 
 ## Oil closes in on $100 as renewed supply crunch looms
 Traders warn that ‘something has to break’ amid attacks on shipping and eroding inventories
@@ -38,9 +41,6 @@ Carmaker’s embattled Osnabrück factory to be converted following agreement wi
 
 ## Next wins ‘landmark’ judgment in UK retail’s multibillion equal pay battle
 Tribunal rules FTSE 100 group is justified in paying warehouse workers more than mostly female shop workers
-
-## Deutsche Bank settles €152mn lawsuit with former executive
-Dario Schiraldi was one of six bankers convicted — and later acquitted — over trades linked to Monte dei Paschi di Siena
 
 ## FTSE-BSE inclusion could open global index route for NSE shares
 BSE-listed stocks to become eligible for FTSE Russell indices from March 2027, just as NSE is set to list
@@ -69,6 +69,18 @@ India produced an estimated 11.99 million tonne of spices in FY25, with exports 
 ## Loan repaid in 2003, but bank lost property papers; court orders Rs 5,000 per day payout
 The bank acknowledged that it could not trace the original documents for either property. However, the bank argued that the firm had not asked for their return immediately after repaying the loan. The bank has been ordered to pay compensation.
 
+## Swiggy swaps retail platform Lynk for 3.2% Udaan stake
+
+
+## Blackstone in fray to acquire IIFL Fin stake
+Deal To Help Fairfax Comply With Law As It Eyes IDBI Bk
+
+## We'll make Air India great again: Gebremariam
+
+
+## 6-week high: India's crude import price hits $100-a-barrel mark
+Likely To Rise Further Amid West Asia Crisis
+
 ## Salary stayed Rs 2.6 lakh after maternity leave, but duties were cut; HC awards Rs 10 lakh
 The High Court has made it clear that the statutory safeguard also covers the work she performs, her position in the organisational hierarchy, supervisory powers and opportunities for appraisal and promotion.
 
@@ -78,17 +90,8 @@ The High Court has made it clear that the statutory safeguard also covers the wo
 ## India Inc business confidence rises sharply in Q2 FY27: CII survey
 Indian business confidence improved significantly in the second quarter of fiscal year twenty twenty-seven. Companies anticipate stronger domestic demand and increased hiring in the coming months. Capacity utilization is expected to rise, potentially encouraging private sector investment. Cost press
 
-## Traffic violations could cost driving licence points; Gadkari plans new rules
-The proposed system would assign penalty points to motorists for different traffic offences. If a driver accumulates points beyond a specified limit, the authorities could suspend the driving licence or cancel it altogether.
-
-## LPG refill booking interval cut to 25 days in rural areas, matching urban rule
-
-
-## India began metro rail in 1984; over 40 years later, it could overtake US in two years
-India could surpass the United States in metro rail network length within the next two years, Union Housing and Urban Affairs Minister Manohar Lal said while inaugurating the extended metro rail service in Indore.
-
-## Jaguar Land Rover to cut around 4,000 jobs globally over next 2 years: CEO
-
+## Employees' strike 'illegal', says Punjab minister Arora ahead of call for mass casual leave
+Employees' strike 'illegal', says Punjab minister Arora ahead of call for mass casual leave
 
 ## Drug addict trespasses into J&K CM residence minutes after police release
 The youth was a drug addict who had been involved in thefts in Kakryal as well, and around three to four FIRs stand registered against him .
@@ -110,9 +113,6 @@ Singh had objected to alleged shouting and nuisance by delivery boys and dhaba s
 
 ## Rajnath Singh-led DAC clears military capability boost worth ₹1.1 lakh crore
 The plan to boost the IAF’s capabilities includes a pilot project to integrate Russian-origin RVV BD long-range air-to-air missiles with Sukhoi-30 fighters.
-
-## National Film Awards 2026 ceremony to be held in Gujarat
-Article 370 was named “Best Feature Film”, while Yami Gautam won “Best Actress in a Leading Role” for the same film
 
 ## China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei
 Xiaomi unveiled a series of new products on Monday – from a flagship foldable phone featuring proprietary chips to new models of its premium Skynomad SUV – underscoring the Chinese giant’s intensified push to compete against rivals including Tesla, Apple and Huawei Technologies. Beijing-based Xiaomi
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Board of Peace touts progress as Palestinians’ situation worsens
-Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.
+## Oil prices surge as US-Iran strikes intensify in Strait of Hormuz
+Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.
 
-## Egyptian wrestlers keep vanishing abroad amid a sport in crisis
-Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.
+## Indian temple collapses into Ganges as riverbank erodes
+A temple collapsed into the Ganges River in India’s West Bengal after severe erosion breached protective barriers
 
-## Nauru opens embassy in Jerusalem
-Pacific island nation Nauru has opened its embassy in Jerusalem, becoming the ninth country to do so.
+## Israel’s removal of Gaza rubble risk to war crimes evidence: UN
+International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.
 
-## Bolivian blast death toll rises to 7, rescuers search for missing soldiers
-President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.
+## Yemen fighting escalates as forces battle for Bab al-Mandeb Strait
+Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.
 
-## Gaza: Genocide in Real Time?
-B'Tselem Executive Directo
+## Robots protest in Poland over AI regulation concerns
+Robots protest in Poland over AI regulation concerns
 
-## Serbian government sets up snap vote with call to dissolve parliament
-Upcoming election viewed as bid to tighten President Vucic's rule after months of mass street protests.
+## Cuba says no negotiations with US despite ‘genocidal’ blockade
+Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.
 
-## When does a family meal become a luxury in Nigeria?
-‘5,000 naira used to make a pot of soup, now 10,000 naira isn't enough.’
+## What are the implications of AfD’s electoral rise for Germany and Europe?
+The far-right Alternative for Germany is just short of a majority in a regional election.
 
-## Kosovo signs up to US-led Gaza stabilisation force
-Balkan state joins short list of countries agreeing to send peacekeepers to Palestinian enclave.
+## UK government refuses slavery reparations as Jamaica urges king to act
+Britain expresses sorrow over slavery, but rejects financial compensation.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
