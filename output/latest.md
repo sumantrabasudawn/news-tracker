@@ -1,121 +1,127 @@
 # AION Intelligence
 
-## British voters oppose welfare cuts for disabled people, survey finds
-Only 7% favour lower government spending on those who cannot work
+## Labour’s muddled migration policy won’t stop thuggery
+A government that can’t distinguish between ‘legitimate concerns’ and open racism is only making things worse
 
-## UK competition watchdog seeks to work with MoD to curb bid-rigging
-CMA petitions government to get behind crackdown on public procurement
+## Global shipping rules are collapsing, say maritime nations
+Wars and the growth of the shadow fleet are causing a ‘structural shift’ in global trade, according to 18 maritime authorities
 
-## Trump calls for US boycott of Canada’s Bombardier jets
-President’s post on social media comes hours before Ottawa’s retaliatory tariffs against Washington take effect
+## The cost of being Apollo
+US academics have calculated the price that the private equity group’s portfolio companies pay for its reputation
 
-## UK set to announce trade ban on Israeli settlements in the West Bank
-Ed Miliband’s intervention is expected to provoke a trenchant response from Washington
+## Why Japan Inc can brush off interest-rate hikes — and America can’t
+Divergent reactions underline the importance of the narrative behind rate rises
 
-## FirstFT: Oil prices near $100 as renewed supply crunch looms
-Also in today’s newsletter: India’s biggest private bank grapples with leadership vacuum and China pumps $53bn into banks and insurers
+## Merz’s CDU in crisis after far-right victory in Saxony-Anhalt
+‘Giving up is not an option for me,’ says German chancellor as AfD routs conservatives in eastern stronghold
 
-## India’s biggest private sector bank grapples with leadership vacuum
-Resignations of chair and chief in span of less than six months lay bare corporate governance issues at HDFC Bank
+## ‘Apollo premium’ drives up debt costs for group’s portfolio companies
+Reputation for harsh treatment of creditors costs group about one percentage point in higher borrowing costs, research shows
 
-## Merz in ‘shock’ as far-right AfD celebrates ‘dream result’
-Chancellor under severe pressure as Alternative for Germany party aims for 40% of vote in next federal polls
+## EU opens door to bigger corporate mergers
+Top competition official says deals that help companies scale up and innovate will get a closer hearing as EU seeks to keep pace with US and China
 
-## UK ministers to be encouraged to take more legal risks to push through policies
-Attorney-general Ellie Reeves says change was designed to give ministers ‘confidence in their decision-making’
+## The world’s $2tn interest bill
+Many countries now spend more on debt servicing than defence, including the US, France and the UK
 
-## Pricey oil is laying the groundwork for its own decline
-Crude is helping to make clean technologies more competitive
+## Hedge fund Millennium seeks tax deal to boost Geneva presence
+Swiss cantons locked in competition to woo high-net-worth individuals
 
-## Billionaire trader Rokos to leave UK for Greece
-Hedge fund manager’s earnings have made him one of Britain’s biggest individual taxpayers
+## Britain’s grid operator gave Palantir contract without inviting rival bids
+Neso cited a legal exemption that removes the requirement to consider other suppliers if dependencies leave no alternative
 
-## Africa’s richest man seeks to raise $1.6bn in continent’s biggest IPO
-Aliko Dangote targets 10mn shareholders as he floats $49bn refinery business on Nigerian stock exchange
+## Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO
+Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners
 
-## Belgian-Chinese researcher arrested over suspected theft of chip secrets
-Prosecutors in Belgium cite ‘indications’ suspect took role at tech company in China months after joining now-defunct semiconductor maker Belgan
+## Offshore borrowing in renminbi hits record high
+Issuance of ‘dim sum’ and ‘panda’ bonds rises past $146bn so far this year
 
-## Oil closes in on $100 as renewed supply crunch looms
-Traders warn that ‘something has to break’ amid attacks on shipping and eroding inventories
+## How cement can be made greener
+Alternative formulations are available, as well as the possibility of pumping emissions underground
 
-## Law schools tell students to put AI away
-The technology is being banned from certain classrooms to remove shortcuts that ‘stunt intellectual growth’
+## Crude oil futures rise after Iran threatens retaliatory strike on energy assets
+Brent trades at $97.48 after Tehran and Washington exchange fresh warnings over tanker and facility strikes
 
-## FTSE-BSE inclusion could open global index route for NSE shares
-BSE-listed stocks to become eligible for FTSE Russell indices from March 2027, just as NSE is set to list
+## Sensex today | Stock Market Live: Sensex falls 350 points, Nifty slips below 23,700 as US-Iran tensions, crude weigh
+Sensex, Nifty, Share Prices LIVE: Indian equities opened lower on Tuesday as rising crude oil prices, persistent US-Iran tensions and mixed Asian markets weighed on sentiment, with the Nifty extending its corrective decline and facing further downside risk below the 24,025 level.
 
-## W Health Ventures closes second fund at ₹700 crore, plans to build 8-10 healthcare companies
-Unlike a conventional venture fund that primarily invests in existing startups, W Health Ventures said it develops businesses from the idea stage
+## Astrogate Labs to Put India's First Indigenous Optical Inter-Satellite Link in Orbit
+Astrogate Labs to Put India's First Indigenous Optical Inter-Satellite Link in Orbit
 
-## Broker’s call: ESDS Software (Buy)
-Choice Broking
+## Kanohar Electricals raises ₹317 crore from anchor investors; IPO opens for subscription
+The company informed the bourses that it allocated 50.11 lakh equity shares at Rs ₹632 per share to anchor investors, comprising 42 funds
 
-## Bandhan Bank enters credit card market with four-tier portfolio
-Bandhan Bank on Monday launched its credit card business in partnership with Mastercard
+## India’s BRICS Chairmanship takes centre stage as PM Modi hosts expanded 11-nation Summit in New Delhi
+The two-day summit on September 12 and 13 at Bharat Mandapam in Pragati Maidan will gather heads of state, government officials, and invited international participants
 
-## Raghav Productivity expects to commission Odisha plant next year, plans to double market share
-The partnership provides Jaipur-based Raghav Productivity, the world’s largest manufacturer of silica ramming mass, exclusive access to TRL Kosaki’s quartzite mines in Odisha
+## REC raises ₹500 crore through India’s first tokenised bond
+REC raises Rs 500 crore through India’s first tokenised bond, with HDFC Bank, ICICI Bank and other investors participating in the issue
 
-## HEG trades ex-Graphite business, gains 3% on debut
-The stock closed at ₹273 on the NSE, valuing the company (ex-graphite) at ₹5,300 crore
+## Larsen & Toubro plans ₹500 crore tokenised bond issue, first by private-sector company
+The proposed notes will be settled on the same day, with participation restricted to investors holding active central bank digital currency wallets
 
-## Broker’s call: Apollo Micro (Buy)
-Systematix
+## Wheat soars after US efforts to end Black Sea conflicts yield little progress
+Traders say that the US envoys' visit to Russia did not seem to have resulted in a peace breakthrough that would enable Ukrainian and Russian ​grain exports to resume
 
-## Spice industry banks on quality to builds trust in domestic market
-India produced an estimated 11.99 million tonne of spices in FY25, with exports valued at $4.52 billion, according to the Spices Board
+## Iran doubles petrol price for heavy users as currency touches record low
+Iran has recently increased its petrol price for consumers who surpass a monthly limit of 110 litres. This price hike is intended to boost government revenue, which officials assure will be allocated to support households. Amid ongoing inflation and a declining national currency, experts caution tha
 
-## Loan repaid in 2003, but bank lost property papers; court orders Rs 5,000 per day payout
-The bank acknowledged that it could not trace the original documents for either property. However, the bank argued that the firm had not asked for their return immediately after repaying the loan. The bank has been ordered to pay compensation.
+## Stock market today: BSE Sensex tanks over 330 points, NSE Nifty50 opens below 23,700
 
-## India joins US, 24 nations in push for next-generation 6G networks
-
-
-## Swiggy swaps retail platform Lynk for 3.2% Udaan stake
-
-
-## Blackstone in fray to acquire IIFL Fin stake
-Deal To Help Fairfax Comply With Law As It Eyes IDBI Bk
-
-## We'll make Air India great again: Gebremariam
-
-
-## 6-week high: India's crude import price hits $100-a-barrel mark
-Likely To Rise Further Amid West Asia Crisis
 
 ## Salary stayed Rs 2.6 lakh after maternity leave, but duties were cut; HC awards Rs 10 lakh
 The High Court has made it clear that the statutory safeguard also covers the work she performs, her position in the organisational hierarchy, supervisory powers and opportunities for appraisal and promotion.
 
-## Carbon pricing relief for Indian exporters to UK
+## Loan repaid in 2003, but bank lost property papers; court orders Rs 5,000 per day payout
+The bank acknowledged that it could not trace the original documents for either property. However, the bank argued that the firm had not asked for their return immediately after repaying the loan. The bank has been ordered to pay compensation.
+
+## Top stocks to buy or sell today: Stock market recommendations for September 8, 2026 - check list
+Stock market recommendations: Life Insurance Corporation of India, Tata Steel, and Bank of India are the top stocks to sell as per Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan on September 8, 2026.
+
+## Brent crude climbs beyond $97 as Hormuz disruptions choke global oil supplies
+With the ongoing conflict in the Middle East escalating, oil prices are experiencing a significant uptick as global supplies come under threat. Iran has issued warnings of retaliation against US actions, heightening fears surrounding energy infrastructure. As tensions rise in the Strait of Hormuz, t
+
+## Alternate fuels overtake petrol in passenger car sales
 
 
-## Employees' strike 'illegal', says Punjab minister Arora ahead of call for mass casual leave
-Employees' strike 'illegal', says Punjab minister Arora ahead of call for mass casual leave
+## India joins US, 24 nations in push for next-generation 6G networks
 
-## Drug addict trespasses into J&K CM residence minutes after police release
-The youth was a drug addict who had been involved in thefts in Kakryal as well, and around three to four FIRs stand registered against him .
 
-## Indian, Chinese armies hold talks focusing on maintaining peace along LAC
-The Indian delegation was headed by Lt General Girish Kalia, the commander of the Army's Dimapur-based 3 Corps.
+## SC/ST Congress leaders to approach President to intervene in ‘purification' row
+The row flared after a purification ritual was conducted at Haldwani following Congress party chief Mallikarjun Kharge's address.
 
-## Indian Embassy in China asks families for DNA samples to identify victims
-The Embassy will forward the data to the concerned Chinese authorities for comparison.
+## RTI files can't be buried, strict action will follow: Keralam Information Commissioner
+RTI files can't be buried, strict action will follow: Keralam Information Commissioner
 
-## ‘Conduct worthy of derision’: HC rebukes Noida DM over illegal NSA detention
-The Allahabad high court said IAS and IPS officers must remember that their loyalty is to the Constitution and not the political executive.
+## ‘Tax money wasted for Vijay's luxury’: BJP questions ₹6.17 crore allocation for shifting CM's office
+Nainar Nagendran shared an official document which said that ₹6.17 crore had been allocated for shifting chief minister Joseph Vijay’s office.
 
-## 'Orwellian dystopia': Allahabad HC reprimands Noida DM over DU student's NSA detention during Noida workers protest
-The bench ordered immediate release of Akriti Chaudhary and awarded her a compensation of ₹5 lakh last week.
+## ‘They’re waiting for my retirement': CJI Surya Kant junks Aravalli panel’s plea to extend deadline
+The Chief Justice also asked if the extension demand was a deliberate move to push to issue beyond his retirement date.
 
-## Manipuri musician dies after delivery boys, dhaba staff assault him in Delhi; all accused held
-Singh had objected to alleged shouting and nuisance by delivery boys and dhaba staff outside his residence, according to the preliminary enquiry.
+## From missiles to radars, DAC clears ₹1.1L-cr defence boost, pushes self-reliance and manufacturing
+The proposal clearance came from the Defence Acquisition Council (DAC) , chaired by defence minister Rajnath Singh.
 
-## Rajnath Singh-led DAC clears military capability boost worth ₹1.1 lakh crore
-The plan to boost the IAF’s capabilities includes a pilot project to integrate Russian-origin RVV BD long-range air-to-air missiles with Sukhoi-30 fighters.
+## Supreme Court delivers reserved verdict in 2 years, breaks its 3-month limit
+Just three months ago, the SC prescribed three months as the outer limit for the other constitutional courts to deliver reserved judgments.
+
+## Grant cut, DJs banned, liquor outlets shut on Maha Ashtami: Big announcements in Bengal ahead of Durga Puja
+The BJP government also waived electricity charges and fire-clearance fees for puja committees, while liquor shops and bars will shut on Maha Ashtami.
+
+## PM Modi to unveil projects worth ₹35,000 crore in Gujarat today
+Railway works account for over ₹30,766 crore, including 326 km of the Western Dedicated Freight Corridor and new tracks between Vadodara and Ratlam.
+
+## Hong Kong celebrity Jeffrey Ngai splashes out on US$16,000 rental home
+Hong Kong singer, actor and model Jeffrey Ngai Tsun-sang recently moved into a luxury residence in Mid-Levels East with a monthly rent of HK$130,000 (US$16,581), highlighting strong demand in the high-end segment, according to market sources. The luxury residence was a duplex, where Ngai, 28, would 
+
+## Foreign, mainland students flock to Hong Kong sparking property demand in education sector
+Hong Kong’s bid to become a global education hub is likely to transform the sector as a sustainable source of property demand, with the city tipped to see around 200,000 non-local students by 2035, according to CBRE. The city’s international schools are estimated to require enormous additional real 
 
 ## Labubu meets LVMH: Pop Mart to open flagship store in Paris amid cooling overseas sales
 Chinese collectible toymaker Pop Mart International is pushing forward with global retail expansion amid slowing overseas sales and will open its first European flagship store in Paris’ Boulevard Haussmann, the same street as iconic department stores Galeries Lafayette and Printemps, according to th
+
+## From sports courts to street corners: Galbot brings autonomous humanoid retail to the city
+[The content of this article has been produced by our advertising partner.] Galbot is making its first commercial foray outside mainland China by launching three Galbot Stores in Hong Kong, the city’s first retail stores operated entirely autonomously by humanoid robots. Starting from September 1, t
 
 ## China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei
 Xiaomi unveiled a series of new products on Monday – from a flagship foldable phone featuring proprietary chips to new models of its premium Skynomad SUV – underscoring the Chinese giant’s intensified push to compete against rivals including Tesla, Apple and Huawei Technologies. Beijing-based Xiaomi
@@ -129,14 +135,8 @@ Tesla China has launched discounts on its Shanghai-made cars for the first time 
 ## Will China’s US$54b capital injection be enough to ease financial strains?
 Beijing’s planned 360 billion yuan (US$54 billion) capital injection into eight state-owned financial institutions is a step in the right direction, but further fiscal support is needed to revive credit demand and ensure the fresh capital is put to better use, analysts say. They noted that the move 
 
-## China’s capital injection steels banks, insurers for rough road ahead
-China announced a capital injection of around 360 billion yuan (US$54 billion) for eight of the largest state-owned banks and insurers amid government efforts to shore up the country’s financial system and boost economic growth. Three state banks said on Sunday they would receive a combined 290 bill
-
-## Chinese firms’ green-tech expansion hinges on Hong Kong, senior bankers say
-Hong Kong is poised to play a bigger role in financing Chinese green-technology companies’ expansion into emerging markets, as geopolitical fragmentation and high funding costs reshape how capital is deployed in the global energy transition, according to senior banking executives. The city’s deep su
-
-## China’s brokers expected to continue robust performance with blockbuster IPO offerings
-Chinese brokers delivered strong profits in the first half of the year, driven by active trading in the A-share market that boosted brokerage revenues by over 50 per cent, while the blockbuster initial public offerings (IPOs) are expected to make underwriting and sponsorship business a key growth en
+## The Republican Origins of Medicare for All
+A plan that a GOP senator proudly championed in 1970 is today seen as radical.
 
 ## 25 Years After 9/11, What Are We Failing to Imagine Now?
 The counterterrorism community struggles with how technology might be applied to novel use cases.
@@ -159,8 +159,14 @@ Trust the French to add a wild twist.
 ## What in the World?
 Test yourself on the week of Aug. 29: Iceland votes, China threatens Pacific island nations, and Guinea-Bissau approves a new constitution.
 
-## Why the United States Should Recognize Somaliland
-U.S. allies won’t love it, but American interests come first.
+## Is BRICS Actually Benefiting India?
+As India prepares to host the group's summit, what does it want from BRICS? And what is Delhi actually getting from the group?
+
+## India’s Cross-Border Cyber Scams Against the US and the West
+In poor areas such as Jamtara and Mewat, cyber scams have become an important source of household income.
+
+## The Illusion of Technocratic Transformation in Cambodia
+The country is hitting a developmental wall because necessary structural reforms clash directly with the needs of an entrenched patronage system.
 
 ## Schools Close Across Sarawak Due to Toxic Haze From Indonesian Wildfires
 Wildfires have raged for weeks across swathes of Sumatra and Kalimantan, exacerbated by a particularly severe dry season.
@@ -176,15 +182,6 @@ Japan’s Indo-Pacific vision has outlasted its creator and found new partners. 
 
 ## A Message to China from Japan’s Takaichi Administration
 Can Japan ‘normalize’ relations?
-
-## Humanoid Robots and China’s Vision of the Future
-China’s humanoid robots are more than a showcase of state ambition. They reveal how differently we interpret visions of the technological future depending on who builds them.
-
-## Public Scrutiny Really Does Help the Unjustly Detained
-Concerned citizens and civil society groups working in tandem can help free the unjustly imprisoned. But the work is far from finished.
-
-## Nepal’s Floods Upset Its China-India Balancing Act
-Trade infrastructure was swept away. Nepal’s trade with China, which was already limited, will be further restricted after the August 26 floods.
 
 ## The Strategic Fiber of America: Kevlar’s Impact on Warfighters
 Editor’s note: This is the tenth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Houthis accuse Saudi Arabia of killing seven in Yemen prison attack
-Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.
+## Flash floods fill the streets of a neighbourhood in central Morocco
+Videos show floodwaters swamping homes, shops and streets in Azilal in central Morocco, after heavy thunderstorms.
 
-## Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region
-Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.
+## Canada’s retaliatory tariffs on $20bn of US goods take effect
+Trade tensions soar as Canada matches US tariffs 'dollar-for-dollar', impacting 700 products and multiple industries.
 
-## Hawaii braces for Hurricane Lowell
-Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.
+## Russia strikes Kyiv as three-day pause during US envoy visits ends
+US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks.
 
-## Oil prices surge as US-Iran strikes intensify in Strait of Hormuz
-Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.
+## Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa
+Bid to take capital comes as clashes between Yemeni forces and Houthis intensify in provinces of al-Bayda and al-Jawf.
 
-## Indian temple collapses into Ganges as riverbank erodes
-A temple collapsed into the Ganges River in India’s West Bengal after severe erosion breached protective barriers
+## Eiffel Tower closed in row over women removed for Hindu group
+The Eiffel Tower was shut on Monday after staff protested over women being ‘sidelined’ during a Hindu group’s visit.
 
-## Israel’s removal of Gaza rubble risk to war crimes evidence: UN
-International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.
+## What does Mondlane’s trial mean for Mozambique?
+The opposition politician faces five charges over protests that followed the disputed 2024 election.
 
-## Yemen fighting escalates as forces battle for Bab al-Mandeb Strait
-Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.
+## EU pledges more than $200m to Greenland amid Trump annexation threats
+Brussels has proposed doubling direct EU aid to Greenland under the bloc's next budget as military exercises kick off.
 
-## Robots protest in Poland over AI regulation concerns
-Robots protest in Poland over AI regulation concerns
+## IAEA warns over Iran nuclear access as Western powers push UN referral
+UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
