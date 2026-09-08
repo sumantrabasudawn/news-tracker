@@ -1,70 +1,85 @@
 # AION Intelligence
 
-## UK set to announce trade ban on Israeli settlements in West Bank
-Foreign secretary Ed Miliband’s intervention provokes rebuke from Washington
+## Iceland summons US ambassador over Trump’s Stars and Stripes map
+Post showed US flag covering Canada, Mexico, Greenland, Iceland and other nations
 
-## The complicated implications of the spectacular ‘Apollo premium’
-FAFOing in creditland
+## BoE governor Andrew Bailey faces questions from MPs
+Central bank chief to be quizzed on interest rates and damage to UK economy from Iran war
 
-## July wage data bolsters case for BoJ tightening this month
-Headline and regular pay growth measures accelerated
+## Submit your questions: is Trump losing his touch?
+Take part in a live Ask an Expert Q&A with columnist Jemima Kelly on Thursday September 10 at 2pm (BST)
 
-## Singapore raises prime minister’s pay by $1mn
-Jump in already world-leading salaries for ministers comes despite public disapproval
+## UK announces import ban on goods linked to Israeli settlements in West Bank
+Action planned against companies and individuals involved in settlement expansion, Miliband tells MPs
 
 ## Russia launches missile strikes against Kyiv as pause in raids ends
 Overnight attacks come after Ukraine visit by Steve Witkoff and Jared Kushner fails to deliver breakthrough
 
-## Australia proposes opt-out law for social media algorithms
-Draft legislation follows under-16 ban as part of widening effort to rein in Big Tech
+## Is it time for Eurozone GDP ex-Ireland?
+Once the Celtic Tiger, now the tail that wags the bloc
 
-## The strangely disappointing EM inflows
-Tough crowd
+## Ceuta demands EU help over migrant ‘pressure cooker’
+Leader of Spanish exclave requests assistance to repatriate migrants after influx in July
 
-## China’s export surge sets stage for record annual surplus
-Data released ahead of crucial meeting between Donald Trump and Xi Jinping on extending tariff truce
+## The new fiscal threats to monetary policy
+High public deficits and debt undermine central banks’ ability to control inflation
 
-## Novartis shares slide after drug for muscular disease fails trial
-Setback is latest blow to Swiss drugmaker’s treatment pipeline
+## Big Chicken: How chicken conquered the world
+The race to produce ever-cheaper chicken is transforming global farming and trade — at a cost to animal welfare and human health
 
-## DWS embraces Deutsche Bank name eight years after distancing itself
-German lender’s unit will become Deutsche Asset Management, reversing a decision made ahead of its IPO
+## The yawning gap between ambition and action on nuclear energy
+The rate of new reactor construction would need to increase fivefold during the next decade if global 2050 targets are to be met
 
-## Antitrust not the enemy of industrial policy, says EU competition enforcer
-Also in this newsletter: Austria’s far-right leader revels in AfD success
+## Novartis shares sink on latest trial setback
+Swiss drugmaker’s neuromuscular medicine fails late-stage study in fresh blow
 
-## Mistral raises record €3bn as Europe strains to keep pace in AI race
-New funding round led by Samsung comes as French AI model maker continues to challenge US and Chinese rivals
+## Europe plays catch-up in space
+SpaceX and Blue Origin pull out of this week’s Paris summit, heightening European vulnerability compared with the US and China
 
-## Offshore borrowing in renminbi hits record high of nearly $150bn
-Issuance of ‘dim sum’ and ‘panda’ bonds rises past $149bn so far this year
+## The counterfeit cigarettes made inside the EU
+Criminal gangs have switched to home production after crackdowns on cross-border smugglers
+
+## Liberty Global agrees €670mn towers sale ahead of Ziggo spinoff
+VodafoneZiggo to sell assets to consortium led by DigitalBridge as it works to reduce debt
 
 ## FirstFT: Top credit rating sought for Anthropic and OpenAI
-Also in today’s newsletter: China’s answer to ASML and CDU in crisis
+Also in today’s newsletter: Oil approaches $100 a barrel and China’s monthly exports surge
 
-## Torrent Green Energy commissions 322 MWp decentralised solar projects
-The MSKVY 2.0 scheme was launched to implement feeder-level solarisation under Component-C of the PM-KUSUM scheme
+## Will data centres avoid the curse of the mega-project?
+Many things can go awry, from materials shortages, planning delays, labour scarcity and access to power
 
-## Sensex today | Stock Market Live: Sensex drops over 500 points, Nifty near 23,650 as US-Iran tensions and crude weigh
-Sensex, Nifty, Share Prices LIVE: Indian equities trade lower on Tuesday as rising crude oil prices, persistent US-Iran tensions and mixed Asian markets weighed on sentiment, with the Nifty extending its corrective decline and facing further downside risk below the 24,025 level.
+## Issues in GDP computation
+Until the NSO publishes a transparent back-cast series and clarifies its deflator methodology, the headline 7.8% growth figure should be treated as indicative rather than definitive
 
-## Steel prices set to rise further on coking coal costs, demand revival
-Higher prices could help mills recover margins squeezed by surging ‌coking coal costs, but infrastructure, construction and auto companies face higher input costs just as demand picks up.
+## Bajaj Finance Acquires 5% Stake in TrueFan AI as part of Finserv Intelligence
+Bajaj Finance Acquires 5% Stake in TrueFan AI as part of Finserv Intelligence
 
-## Explained in 60 seconds: What is Iran’s new ‘exclusion zone’ near Strait of Hormuz?
-The exact boundaries and coordinates of Iran’s proposed exclusion zone have yet to be announced.
+## Adani, NTPC among five firms seeking support under ₹37,500 crore coal gasification scheme
+The applications come after the Coal Ministry rejected reports last week that the scheme had failed to attract industry interest
 
-## S&P assigns 'BBB' rating to BoI on sufficient capitalisation, solid funding
-The long-term rating on BoI is one notch above its assessment of the stand-alone credit profile (SACP) for the bank, S&P said while assigning its 'BBB' long-term and 'A-2' short-term issuer credit ratings to the bank.
+## Karnataka targets 50% share of India’s $22-billion space market by 2034
+IT Secretary said Karnataka currently contributes 65% of India’s aerospace exports and 67% of defence aircraft and helicopter manufacturing
 
-## Aluminium futures: Uptick to extend
-Traders can hold the longs for a target of ₹356
+## Rajnath lands in Lanka, says ‘looking forward to a productive engagement’
+To discuss modalities for implementing the India-Sri Lanka Defence Cooperation MoU
 
-## BIGBANG 2026-2027 WORLD TOUR IN HONG KONG Officially Announced
-BIGBANG 2026-2027 WORLD TOUR IN HONG KONG Officially Announced
+## Russian energy ties seen fuelling demand for Indian orthodox teas
+In FY26 (April 2025–March 2026), India exported around 31.32 million kg of tea to Russia, making it the country’s third-largest destination by volume after the UAE and Iraq
 
-## Karnataka CM Shivakumar visits Yeshwanthpur APMC, hears farmers’ grievances
-Shivakumar spent several hours at the market, checking facilities and directly gathering complaints from farmers, traders, intermediaries and labourers
+## Weekly Rupee View: Recovery faces headwinds
+Dollar weakness lends support, but rising crude and foreign outflows limit the upside
+
+## Gestamp opens 5th India plant in Gujarat with ₹523.7 cr investment
+The Spanish automotive components maker has three manufacturing facilities in Pune, one in Chennai and one in Gujarat
+
+## Robust GDP, record forex: Why economic boom is still taking a bite out of your breakfast
+India's economy grew strongly, yet everyday food prices are increasing. Sugar and edible oil costs have risen significantly, impacting household budgets. Packaged food companies face higher input costs and may increase prices. Global food prices are also showing upward pressure, affecting domestic m
+
+## Indian startup unveils testing & manufacturing hubs to validate reusable rocket stages
+Indian space startup Agnikul Cosmos inaugurated two new facilities in Chennai. These facilities will support testing and manufacturing of reusable rocket stages. The company aims to develop reusable launch vehicle technology for future missions. Agnikul Cosmos already designs and manufactures its ow
+
+## Gold soars, but China buys 650,000 ounces; adds most precious metal since 2023
+Large economies like India and China have been buying gold for the last few years. While India’s purchases have somewhat reduced, China has increased its gold reserves by the largest amount since 2023 in August, stepping up purchases even as bullion prices climbed sharply during the month.
 
 ## Rs 20,700 crore, 326 km more: India completes its Dedicated Freight Corridor network
 The Ministry of Railways undertook the construction of two Dedicated Freight Corridors. The Eastern Dedicated Freight Corridor (EDFC) runs from Ludhiana to Sonnagar and covers 1,337 km, while the Western Dedicated Freight Corridor (WDFC) connects Dadri with Jawaharlal Nehru Port Terminal (JNPT) over
@@ -81,38 +96,38 @@ The High Court has made it clear that the statutory safeguard also covers the wo
 ## Rupee falls 10 paise to 94.66 against US dollar as crude nears $98
 On Tuesday morning, the Indian rupee struggled against the US dollar, influenced by climbing crude oil prices and unrest in the Middle East that affected investor confidence. The rupee began lower and consistently declined. Forex experts pointed out its limited movement, attributed to RBI's dollar i
 
-## Iran doubles petrol price for heavy users as currency touches record low
-Iran has recently increased its petrol price for consumers who surpass a monthly limit of 110 litres. This price hike is intended to boost government revenue, which officials assure will be allocated to support households. Amid ongoing inflation and a declining national currency, experts caution tha
+## ‘Now Naraz Fufaji will start shouting’: PM Modi's jibe after unveiling ₹35,000-crore projects in Gujarat
+Prime Minister Narendra Modi slammed the previous Congress-led regime over what he called a slow pace of development.
 
-## Stock market today: BSE Sensex tanks over 330 points, NSE Nifty50 opens below 23,700
+## CM Vijay clarifies row over his ‘body language’ in Tamil Nadu Assembly: ‘Not in any way intentional’
+This came a day after ruckus in the Tamil Nadu Assembly following Vijay's remarks against the previous DMK regime
 
+## HT Evening Brief Sep 8: Fake PMO official with 'gun' held in Mumbai; Keyaa Banerji horrified by AI's dark side
+Here's your 5-minute sprint through today's biggest stories: politics, India, world, entertainment and sports.
 
-## Loan repaid in 2003, but bank lost property papers; court orders Rs 5,000 per day payout
-The bank acknowledged that it could not trace the original documents for either property. However, the bank argued that the firm had not asked for their return immediately after repaying the loan. The bank has been ordered to pay compensation.
+## Telangana minister performs CPR on IAS officer's personal secretary at Assembly; revival fails
+A government employee collapsed in a corridor of the Telangana Assembly. Following this, a minister performed CPR on him before a doctor on duty arrived.
 
-## HC pulls up Centre for revealing survivor's identity in POSH handbook
-HC pulls up Centre for revealing survivor's identity in POSH handbook
+## 2-year-old girl run over by speeding car in Gurugram as her mother watches in horror
+The father of the girl said the driver had crossed the place a few minutes earlier and should have been careful.
 
-## ED letter against Vijayan, daughter, Riyas to be examined as per law: Minister Chennithala
-ED letter against Vijayan, daughter, Riyas to be examined as per law: Minister Chennithala
+## Guitarist, music teacher: Who was Chongtham Vikram Singh, Manipuri singer killed in Delhi
+Chongtham Vikram Singh was a well-known guitarist from Manipur who had been working as a private music teacher in Delhi for the past 17 years.
 
-## 5 booked for abetment of suicide after Dalit man drinks poison and dies following caste abuse in Punjab
-The 47-year-old man drank poison after villagers allegedly humiliated him publicly for questioning Punjab minister Harpal Cheema about the local drug problem.
+## 'Between entities concerned': MEA reacts to BAPS-Eiffel Tower row
+This came a day after the Eiffel Tower shut down following staff allegations that female workers were asked to leave due to a BAPS group visit.
 
-## Manipur musician's son recounts what happened before Delhi murder: ‘They were having alcohol, making noise’
-Yaiphaba, the son of musician-guitarist Chongtham Vikram Singh, said that a group of people were having alcohol and making noise outside their residence.
+## Amazon, Instamart among those hit in Bengaluru food safety crackdown; products worth ₹1.38 crore seized
+At an Amazon facility in Devanahalli, officials seized food products worth ₹14 lakh for incorrect labelling and expired food products worth ₹10 lakh.
 
-## Govt working to digitise Delhi’s land records: Official
-According to the Economic Survey 2023-24, digitisation of land records is poised to improve transparency in land transactions, diminish property ownership conflicts
+## HKU launches wealth management academy to boost city’s role as hub for ‘new money’
+Hong Kong’s first university-led wealth management academy was launched on Tuesday, as the city’s rapidly expanding private-wealth industry competes for professionals capable of serving increasingly sophisticated and international clients. The Wealth Management Academy, established by The University
 
-## 'Not jhoot ki goonj, youth marches ahead with…': PM Modi's dig at Rahul Gandhi in Vadodara
-PM Modi made the remarks at an event in Vadodara, all seats of which were booked within an hour of the free registration window opening on BookMyShow.
+## Record US$1.3 trillion pours into Hong Kong investment products
+Sales of non-exchange-traded investment products in Hong Kong surged to a record HK$9.9 trillion (US$1.3 trillion) in 2025, marking a 63 per cent year-on-year increase, according to the latest joint survey by the Securities and Futures Commission (SFC) and the Hong Kong Monetary Authority (HKMA). A 
 
-## BJP govt restored investor confidence in UP; no room for mafia: Adityanath
-BJP govt restored investor confidence in UP; no room for mafia: Adityanath
-
-## Complaint for remarks against PM Modi: Bombay high court refuses to quash 2019 summons to Rahul Gandhi
-A single bench of Justice NR Borkar dismissed Rahul Gandhi's petition against the magistrate court's order.
+## Hong Kong gaining lustre as bridge to China’s tech sector: HKEX CEO
+The Hong Kong stock exchange’s initial public offering (IPO) pipeline remains strong, as the city benefits from its unique role as a connector between mainland Chinese tech start-ups and global investors, according to the bourse operator’s CEO. Bonnie Chan Yiting, CEO of Hong Kong Exchanges and Clea
 
 ## Eager capital prompts IPO plans for more Chinese makers of brain-computer interfaces
 A handful of home-grown Chinese companies involved in brain computer interfaces (BCIs) are moving towards initial public offerings (IPOs) on onshore markets, taking advantage of the sector’s status as a new darling of private capital. The trend fits into a broad pattern of hi-tech firms flocking to 
@@ -129,14 +144,11 @@ Hong Kong singer, actor and model Jeffrey Ngai Tsun-sang recently moved into a l
 ## Foreign, mainland students flock to Hong Kong, sparking property demand in education sector
 Hong Kong’s bid to become a global education hub is likely to transform the sector as a sustainable source of property demand, with the city tipped to see around 200,000 non-local students by 2035, according to CBRE. The city’s international schools are estimated to require enormous additional real 
 
-## Labubu meets LVMH: Pop Mart to open flagship store in Paris amid cooling overseas sales
-Chinese collectible toymaker Pop Mart International is pushing forward with a global retail expansion amid slowing overseas sales, and will open its first European flagship store in Paris’ Boulevard Haussmann, the same street as iconic department stores Galeries Lafayette and Printemps, according to
+## The U.S. and China Don’t Need an AI Grand Bargain
+The countries can cooperate—even without trust or consensus.
 
-## From sports courts to street corners: Galbot brings autonomous humanoid retail to the city
-[The content of this article has been produced by our advertising partner.] Galbot is making its first commercial foray outside mainland China by launching three Galbot Stores in Hong Kong, the city’s first retail stores operated entirely autonomously by humanoid robots. Starting from September 1, t
-
-## China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei
-Xiaomi unveiled a series of new products on Monday – from a flagship foldable phone featuring proprietary chips to new models of its premium Skynomad SUV – underscoring the Chinese giant’s intensified push to compete against rivals including Tesla, Apple and Huawei Technologies. Beijing-based Xiaomi
+## The World’s Only Real Hope of Maintaining Order
+A proposal for a new international system that is at once centralized and regionalized.
 
 ## Iran’s Proxy Strategy Is Never Coming Back
 Iran’s long-running security strategy hasn’t survived the current war.
@@ -156,11 +168,14 @@ A defining period in U.S. foreign policy has ended, but it remains misunderstood
 ## The Conservative Case for International Law
 Why the U.S. right should rediscover the virtues of a global legal order.
 
-## The Novel Imagining Life After a Second Civil War
-Emily St. John Mandel explores what follows U.S. collapse, plus more fiction in September.
+## Indonesia Reopens Airports After Suspension Due to Volcanic Eruption
+The eruption of Anak Krakatau, which is located on a small island in the Sunda Strait, forced the closure of eight airports, including two serving the capital Jakarta.
 
-## What 6 Different Versions of This Sex Comedy Say About the Countries That Made Them
-Trust the French to add a wild twist.
+## Letters Targeting Kashmiri Pandits Surface on Social Media
+The letters have revived memories of “hit lists” that Islamist militant groups issued in 1989-90.
+
+## Cambodia Confirms Resumption of Joint Military Exercises With US Next Year
+The move reflects the sea change that has taken place in U.S.-Cambodia relations under the second Trump administration.
 
 ## Is BRICS Actually Benefiting India?
 As India prepares to host the group's summit, what does it want from BRICS? And what is Delhi actually getting from the group?
@@ -176,15 +191,6 @@ Wildfires have raged for weeks across swathes of Sumatra and Kalimantan, exacerb
 
 ## What’s Happening in Philippine Vice President Sara Duterte’s Impeachment Trial?
 The trial has dropped from the headlines amid ongoing corruption controversies and the massive flooding that hit vast areas of Luzon this month.
-
-## Myanmar President Min Aung Hlaing Concludes State Visit to Vietnam
-The two nations agreed to bolster cooperation in a host of areas, including defense, investment, trade, and digital technologies.
-
-## Free and Open Indo-Pacific: A Pillar of Deeper Regional Cooperation
-Japan’s Indo-Pacific vision has outlasted its creator and found new partners. Beijing is not pleased.
-
-## A Message to China from Japan’s Takaichi Administration
-Can Japan ‘normalize’ relations?
 
 ## China’s Warrior Scientists: Insights from Recent Operations Around Taiwan
 China’s marine scientific research ships are expanding their operations around Taiwan, and they are not just there to advance the frontiers of human knowledge. Their operations serve to undermine Taiwan’s independent political status and to force international acceptance of Beijing’s claim of sovere
@@ -234,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Houthi attacks on southern Saudi Arabia reportedly injure dozens
-Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children.
+## Liverpool announce five-year shirt sponsorship deal with Turkish Airlines
+The deal is reportedly worth more than $405m, which would place it among the most lucrative in the Premier League.
 
-## As fuel prices rise again, Iran’s government urges citizens to cut back
-New fuel pricing targets consumption above 110 litres monthly, doubling costs to 100,000 riyals per litre.
+## Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority
+Qatar's Foreign Ministry says Doha working towards diplomatic solutions to end US war on Iran.
 
-## Indonesia airports reopen after volcanic ash disrupts thousands of flights
-Five airports reopen after authorities cleared volcanic ash from critical infrastructure.
+## UK announces sanctions on illegal Israeli settlements
+Britain will ⁠introduce an import ban on goods ⁠from ​Israeli settlements, Ed Miliband tells parliament.
 
-## Yemen fighting live: Battles rage between Houthi and Saudi-backed forces
-Forces loyal to Yemen’s internationally recognised government pledge to seize the capital Sanaa as battles rage.
+## Sudan’s healthcare system on brink of collapse, MSF warns
+More than a third of Sudan's health facilities are nonoperational as aid cuts deepen crisis, medical charity says.
 
-## Real’s Mbappe embraces Ballon d’Or talk after historic World Cup goals
-Real Madrid's Kylian Mbappe enters Champions League season hoping for Ballon d'Or after record World Cup goal haul.
+## BRICS summit may be the only place another Iran ceasefire can be built
+Its members and partners have brokered every ceasefire so far and hold the relationships needed to build the next one.
 
-## Eiffel Tower reopens after protest over removing women staff
-A Hindu religious delegation had requested that 'interactions with women' be limited during its visit.
+## Former Philippines lawmaker arrested for pocketing millions in flood aid
+A former Philippine lawmaker was arrested for allegedly stealing millions of dollars intended for flood control.
 
-## US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters
-Zheng Qinwen beats Iga Swiatek; Coco Gauff, Elena Rybakina also reach quarterfinals. Alexander Zverev through in men's.
+## Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?
+Saudi Arabia promises firm retaliation after Houthi strikes injure 73 and disrupt energy facilities in southern cities.
 
-## Palestine weekly: Israeli ministers push for depopulation of Gaza
-Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.
+## Israeli forces kill Palestinian man and withhold his body near Nablus
+Israeli forces shot and killed a Palestinian man amid raids and arrests across the occupied West Bank.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
