@@ -1,46 +1,46 @@
 # AION Intelligence
 
+## Meta unveils AI personal assistant linked to WhatsApp and Instagram
+New ‘agent’ called Muse designed to make customised suggestions based on chats and social media activity
+
+## Heathrow and Gatwick flights disrupted by air traffic control failure
+National Air Traffic Services says recovery from incident taking longer than expected as BA pulls evening short-haul schedule
+
+## Tung Chee-hwa, Hong Kong chief executive, 1937-2026
+Political leader whose administration was buffeted by the Asian financial crisis, Sars epidemic and a contentious security bill
+
+## UK says it will force tech giants to stop children sharing nude images
+Culture secretary said Apple and Google would be forced ‘to build in device-level protections for children’
+
+## Smithsonian head to resign after Trump attacks US slavery exhibits
+Lonnie Bunch announces retirement following pressure from White House over how the museum complex portrays US history
+
+## War and weather threaten fresh burst of UK inflation, BoE governor warns
+Comments by Andrew Bailey add to problems facing Andy Burnham ahead of next month’s Budget
+
+## Growth in every postcode: good politics, dubious economics
+The UK government would be better off backing clusters and widening access to opportunity
+
 ## Israel retaliates after UK bans trade with Israeli settlements in West Bank
 France and Canada join action as British foreign secretary accuses settlers of ‘ethnically cleansing’ Palestinians
 
-## Elon Musk documentary hits Venice Film Festival with cold dose of reality
-Alex Gibney’s near-four-hour film is exhaustive, and exhausting
+## Gaming group Evolution’s own report found it made money in banned markets
+Report has been disclosed as part of a legal battle with Black Cube despite Evolution seeking to keep it under wraps
 
-## What follows quiet luxury? Róhe is bringing the calm
-The Dutch duo hate loud, but their designs are making a noise anyway
-
-## Heathrow and Gatwick flights disrupted by air traffic control failure
-National Air Traffic Services identified an issue ‘in our flight processing system’ after several hours of investigation
-
-## Putin praises US peace efforts in call with Trump
-Russian president denies waging ‘hybrid war’ against Europe
-
-## UK selects Canada’s statistics chief to run data service
-Appointment of André Loranger ends year-long hiatus in leadership that has added to concerns over quality of key figures
-
-## The counterfeit cigarettes made inside the EU
-Criminal gangs have switched to home production after crackdowns on cross-border smugglers
-
-## Young Americans have never witnessed a functioning foreign policy
-Twenty-five years after 9/11, debt and defence spending are ballooning while diplomacy is starved and allies are alienated
+## Apple looks to AI capabilities to drive its new foldable phone sales
+Halo effect from new device may also allow Apple to raise prices of its other products
 
 ## EasyJet sued for $72mn over abandoned planes in sanctions dispute
 Insolvent Irish arm of Russian aircraft owner says airline unlawfully left jets in Madrid and Cyprus
 
-## Cerberus nears £1bn deal for Goodwin defence unit
-Private equity group swoops for unit of London-listed engineering group
+## The counterfeit cigarettes made inside the EU
+Criminal gangs have switched to home production after crackdowns on cross-border smugglers
 
-## Liberty Global seals €669mn towers sale ahead of Ziggo spin-off
-VodafoneZiggo to sell assets to consortium led by DigitalBridge as it works to reduce debt
+## NSE set to price IPO at ₹1,700-₹1,785 a share: report
 
-## Former Swiss bank lobby chief convicted of bribery and money laundering
-Pierre Mirabaud given two-year suspended jail sentence by Switzerland’s Federal Criminal Court over payments to Kuwaiti official
 
-## How chicken conquered the world
-A global surge in poultry numbers is transforming high streets, diets and landscapes
-
-## The yawning gap between ambition and action on nuclear energy
-The rate of new reactor construction would need to increase fivefold during the next decade if global 2050 targets are to be met
+## Earthquake in Nepal: 5.3 magnitude tremor hits Mustang
+The tremor was felt across neighbouring districts, though authorities reported no immediate damage following the earthquake late Tuesday evening.
 
 ## Gestamp’s hot-stamped steel in Indian cars surges sixfold as Bharat NCAP widens safety race
 Gestamp India is betting on rising demand for safer, lighter vehicle structures as Bharat NCAP and five-star crash ratings push advanced structural technologies deeper into mass-market cars.
@@ -59,12 +59,6 @@ He will visit Australia first, followed by New Zealand
 
 ## REIT-backed office space expands 74% on-year in first half of 2026
 Listed office REITs now hold 167 million sq ft, highest penetration in Bengaluru, while 36 million sq ft is under construction
-
-## Novac Technology secures patent for platform that integrates software development processes
-A key differentiator of the patented platform is its dynamic scheduling and task-dependency management capability, which automatically updates interconnected tasks whenever changes are made to lower-level activities
-
-## Truecaller launches ‘post-call actions’ to simplify follow-up actions
-Post-Call Actions ensure a business call no longer ends with ‘we’ll send you a link’
 
 ## Husband died in 2006, widow got PF and gratuity; why HC rejected pension claim
 On April 27, 2010, Bank of Maharashtra introduced a one-time option allowing a specified category of serving employees, retired employees and families of deceased employees to join the Pension Scheme, subject to the prescribed terms and conditions.
@@ -90,29 +84,29 @@ Indian space startup Agnikul Cosmos inaugurated two new facilities in Chennai. T
 ## Gold soars, but China buys 650,000 ounces; adds most precious metal since 2023
 Large economies like India and China have been buying gold for the last few years. While India’s purchases have somewhat reduced, China has increased its gold reserves by the largest amount since 2023 in August, stepping up purchases even as bullion prices climbed sharply during the month.
 
+## Anganwadis across UP were in disarray under previous govt, says Yogi; hikes honorarium for workers
+Anganwadis across UP were in disarray under previous govt, says Yogi; hikes honorarium for workers
+
+## India's cleanest city Indore loses top spot in clean air survey by 1 point; mayor blames PM10 for slip
+The rankings were announced at the fifth edition of the Swachh Vayu Sarvekshan Awards on Monday.
+
+## 'Don't send your children to Delhi to study': Father's appeal to parents after losing son in Satya Niketan tragedy
+After losing his son Arpit Jaj in the collapse, the grieving father made an emotional appeal urging parents not to send their children to Delhi to study.
+
+## Rahul Gandhi's Delhi-Lucknow flight makes go-around due to weather, lands safely later: Report
+Rahul Gandhi was on his way to Lucknow to proceed to his parliamentary constituency, Raebareli, for a two-day visit.
+
 ## ‘Channi has assured his full support to Congress’ poll efforts’: Sachin Pilot
 Sachin Pilot told HT that all Punjab leaders have assured him they will work together to deliver results under Rahul Gandhi and Mallikarjun Kharge's leadership
 
 ## PM Modi says UPI now live in 11 countries, pushes for further global reach
 Prime Minister Narendra Modi on Tuesday said UPI is not only a tech story but also a civilisational one.
 
-## Former Delhi chief secretary Rakesh Mehta dies by suicide
-Former Delhi chief secretary Rakesh Mehta dies by suicide: Officials
+## Former Delhi chief secretary Rakesh Mehta died by suicide due to health reasons: Police
+Police said that a suicide note was recovered from the spot, in which the retired official mentioned prolonged illness.
 
 ## India, China military commanders hold rare border talks in Arunachal sector
 The first session of the flag meeting between the senior military commanders was held on the Indian side on Sunday and the second session on the Chinese side.
-
-## Minor tribal girl raped at govt shelter home in Odisha, watchman and 13-year-old held
-According to police, the girl was allegedly sexually assaulted multiple times by the two accused during her stay at the shelter home.
-
-## Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp
-Anand Madhav, who led the protest outside Indira Bhavan on Tuesday, said the Bihar Congress unit was being run like a corporate, that too in NGO format
-
-## After Satya Niketan tragedy, MCD plans PG survey, steps up demolition drive against unsafe buildings
-Tuesday’s drive saw 35 demolitions across 12 MCD zones even as officials weigh a survey of Delhi’s PGs and their occupants.
-
-## NCPCR summons Meta India official over child sex abuse material on social media
-India's child rights body summons Meta's MD over Instagram showing ads linked to child sexual abuse, amid ongoing investigations and policy discussions.
 
 ## HKU launches wealth management academy to boost city’s role as hub for ‘new money’
 Hong Kong’s first university-led wealth management academy was launched on Tuesday, as the city’s rapidly expanding private-wealth industry competes for professionals capable of serving increasingly sophisticated and international clients. The Wealth Management Academy, established by The University
@@ -186,6 +180,9 @@ The move reflects the sea change that has taken place in U.S.-Cambodia relations
 ## Is BRICS Actually Benefiting India?
 As India prepares to host the group's summit, what does it want from BRICS? And what is Delhi actually getting from the group?
 
+## The Two Questions Ukraine Asks Before Every Decision
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
+
 ## China’s Warrior Scientists: Insights from Recent Operations Around Taiwan
 China’s marine scientific research ships are expanding their operations around Taiwan, and they are not just there to advance the frontiers of human knowledge. Their operations serve to undermine Taiwan’s independent political status and to force international acceptance of Beijing’s claim of sovere
 
@@ -206,9 +203,6 @@ On Aug. 25, at the People’s Palace in Damascus, Mazloum Abdi announced the dis
 
 ## The Future of Combat Medicine
 War has always been a brutal engine of medical innovation, running on a feedback loop: Civilian breakthroughs are adapted for the battlefield, while battlefield necessity pushes advances back into civilian care. We asked three experts to identify the innovations from the last five years most likely 
-
-## Where Does AI Escalation Come From? We Don’t Know. We Should Find Out.
-We played a wargame using AI players. Two nuclear-armed nations — Red and Blue — with a long-standing, fierce border dispute were placed into a militarized crisis. Over the course of several turns, the states managed to avoid escalation to war, though there were non-operational nuclear demonstration
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli strikes transform Lebanese city into ghost town
-Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.
+## Philippine defence chief calls out China over note handed to him mid-panel
+Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.
 
-## UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
-UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.
+## Does the UK have a legal obligation to redress the harms of slavery?
+Jamaica petitions the British monarch over questions about the legality of the transatlantic slave trade.
 
-## Israeli academia accused of systemic apartheid against Palestinians
-A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.
+## China and Qatar are strengthening bilateral ties: What that really means
+Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.
 
-## LIVE: Real Madrid vs Inter Milan – UEFA Champions League
-Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.
+## Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts
+The phone call comes after US special envoys travelled to Russia and Ukraine to discuss 'a proposal to end the war'.
 
-## Maldives asks UK to reopen sovereignty talks over Chagos Islands
-Chagos Islands should not be handed over to Mauritius, president of Maldives says in letter to UK's prime minister.
+## Qatar responds to Netanyahu’s ‘hostile state’ remark
+Qatar has responded to Benjamin Netanyahu’s claims that it’s a 'hostile state'.
 
-## Hungary expels 10 Russian diplomats, Moscow promises harsh response
-Russia promises 'harsh and painful' response following Hungary's expulsion of its diplomats.
+## Women and children remain trapped in Syria’s Roj camp
+Women and children remain trapped in Syria’s Roj camp
 
-## What is BAPS, the Hindu group whose demands led to Eiffel Tower closure?
-The Eiffel Tower closed after workers protested the sidelining of women during the BAPS visit.
+## Renoir paintings worth $10.5 million missing after museum heist
+A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings
 
-## The shift in British policy on Israel is palpable
-But progress could be threatened if there is a new more diplomatic government in Israel.
+## Yemen’s war is back: A new battle for Sanaa and the Red Sea
+This phase of the war could be the start of another protracted conflict rather than a decisive campaign, say analysts.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
