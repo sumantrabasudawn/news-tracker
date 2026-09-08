@@ -1,12 +1,21 @@
 # AION Intelligence
 
+## FirstFT: Singapore’s PM Lawrence Wong receives $1mn pay raise
+Also in today’s newsletter: Meta unveils AI personal assistant and offshore borrowing in China’s currency hits record high
+
+## Oil nears $100 as US launches new strikes on Iranian tankers
+American military hit ‘multiple’ ships linked to Iran’s Revolutionary Guards in response to more attempted missile attacks on a US Navy warship
+
+## Heathrow and Gatwick flights disrupted by air traffic control failure
+National Air Traffic Services says its systems are ‘starting to recover’ but tens of thousands of passengers remain stranded
+
+## Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO
+Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners
+
 ## Meta unveils AI personal assistant linked to WhatsApp and Instagram
 New ‘agent’ called Muse designed to make customised suggestions based on chats and social media activity
 
-## Heathrow and Gatwick flights disrupted by air traffic control failure
-National Air Traffic Services says recovery from incident taking longer than expected as BA pulls evening short-haul schedule
-
-## Tung Chee-hwa, Hong Kong chief executive, 1937-2026
+## Tung Chee-hwa, Hong Kong’s first chief executive, 1937-2026
 Political leader whose administration was buffeted by the Asian financial crisis, Sars epidemic and a contentious security bill
 
 ## UK says it will force tech giants to stop children sharing nude images
@@ -15,26 +24,14 @@ Culture secretary said Apple and Google would be forced ‘to build in device-le
 ## Smithsonian head to resign after Trump attacks US slavery exhibits
 Lonnie Bunch announces retirement following pressure from White House over how the museum complex portrays US history
 
-## War and weather threaten fresh burst of UK inflation, BoE governor warns
-Comments by Andrew Bailey add to problems facing Andy Burnham ahead of next month’s Budget
+## LIV Golf files for bankruptcy with at least $500mn in liabilities
+Saudi Arabia-backed league confirms a preliminary deal with BC Partners to fund a LIV 2.0
 
-## Growth in every postcode: good politics, dubious economics
-The UK government would be better off backing clusters and widening access to opportunity
-
-## Israel retaliates after UK bans trade with Israeli settlements in West Bank
-France and Canada join action as British foreign secretary accuses settlers of ‘ethnically cleansing’ Palestinians
+## Investors led by L Catterton to buy controlling stake in Hyrox
+German fitness company has become a global phenomenon since the Covid pandemic
 
 ## Gaming group Evolution’s own report found it made money in banned markets
 Report has been disclosed as part of a legal battle with Black Cube despite Evolution seeking to keep it under wraps
-
-## Apple looks to AI capabilities to drive its new foldable phone sales
-Halo effect from new device may also allow Apple to raise prices of its other products
-
-## EasyJet sued for $72mn over abandoned planes in sanctions dispute
-Insolvent Irish arm of Russian aircraft owner says airline unlawfully left jets in Madrid and Cyprus
-
-## The counterfeit cigarettes made inside the EU
-Criminal gangs have switched to home production after crackdowns on cross-border smugglers
 
 ## NSE set to price IPO at ₹1,700-₹1,785 a share: report
 
@@ -60,6 +57,9 @@ He will visit Australia first, followed by New Zealand
 ## REIT-backed office space expands 74% on-year in first half of 2026
 Listed office REITs now hold 167 million sq ft, highest penetration in Bengaluru, while 36 million sq ft is under construction
 
+## Digital asset firms court sovereign funds
+
+
 ## Husband died in 2006, widow got PF and gratuity; why HC rejected pension claim
 On April 27, 2010, Bank of Maharashtra introduced a one-time option allowing a specified category of serving employees, retired employees and families of deceased employees to join the Pension Scheme, subject to the prescribed terms and conditions.
 
@@ -80,9 +80,6 @@ India's economy grew strongly, yet everyday food prices are increasing. Sugar an
 
 ## Indian startup unveils testing & manufacturing hubs to validate reusable rocket stages
 Indian space startup Agnikul Cosmos inaugurated two new facilities in Chennai. These facilities will support testing and manufacturing of reusable rocket stages. The company aims to develop reusable launch vehicle technology for future missions. Agnikul Cosmos already designs and manufactures its ow
-
-## Gold soars, but China buys 650,000 ounces; adds most precious metal since 2023
-Large economies like India and China have been buying gold for the last few years. While India’s purchases have somewhat reduced, China has increased its gold reserves by the largest amount since 2023 in August, stepping up purchases even as bullion prices climbed sharply during the month.
 
 ## Anganwadis across UP were in disarray under previous govt, says Yogi; hikes honorarium for workers
 Anganwadis across UP were in disarray under previous govt, says Yogi; hikes honorarium for workers
@@ -132,6 +129,15 @@ Hong Kong singer, actor and model Jeffrey Ngai Tsun-sang recently moved into a l
 ## Foreign, mainland students flock to Hong Kong, sparking property demand in education sector
 Hong Kong’s bid to become a global education hub is likely to transform the sector as a sustainable source of property demand, with the city tipped to see around 200,000 non-local students by 2035, according to CBRE. The city’s international schools are estimated to require enormous additional real 
 
+## Why Is China’s Officer Corps So Sprawling?
+Not every People’s Liberation Army general commands troops.
+
+## Berlin Is Shedding Light on the Gray Zone
+Are European countries finally ready to publicly call out Russian sabotage?
+
+## Are Yemen and Saudi Arabia Returning to All-Out War?
+Houthi strikes risk adding a new front to the Iran conflict.
+
 ## Can Trump Make Americans Mine Again?
 The United States lacks the people to power its critical mineral ambitions.
 
@@ -146,15 +152,6 @@ The countries can cooperate—even without trust or consensus.
 
 ## The World’s Only Real Hope of Maintaining Order
 A proposal for a new international system that is at once centralized and regionalized.
-
-## Iran’s Proxy Strategy Is Never Coming Back
-Iran’s long-running security strategy hasn’t survived the current war.
-
-## The Republican Origins of Medicare for All
-A plan that a GOP senator proudly championed in 1970 is today seen as radical.
-
-## 25 Years After 9/11, What Are We Failing to Imagine Now?
-The counterterrorism community struggles with how technology might be applied to novel use cases.
 
 ## Pakistan Takes SCO Presidency at a Crucial Time: What to Expect
 As SCO chair, Pakistan can be expected to highlight new connectivity routes via Iran and Central Asia that link the Belt and Road Initiative to the Arabian Sea.
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Philippine defence chief calls out China over note handed to him mid-panel
-Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.
+## Protesters, police clash in Albania over Trump-linked project
+Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump.
 
-## Does the UK have a legal obligation to redress the harms of slavery?
-Jamaica petitions the British monarch over questions about the legality of the transatlantic slave trade.
+## Haaland to the double as Manchester City beat Porto in Champions League
+Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
 
-## China and Qatar are strengthening bilateral ties: What that really means
-Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.
+## What the UK ban on goods from illegal Israeli settlements really means
+Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.
 
-## Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts
-The phone call comes after US special envoys travelled to Russia and Ukraine to discuss 'a proposal to end the war'.
+## US warns Ford over ties with Chinese firms amid tensions
+US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.
 
-## Qatar responds to Netanyahu’s ‘hostile state’ remark
-Qatar has responded to Benjamin Netanyahu’s claims that it’s a 'hostile state'.
+## Real Madrid beat Inter Milan as Mbappe goal sets Mourinho’s men on way
+Kylian Mbappe opens the scoring but Real Madrid fail to convince in 2-1 Champions League win against Inter Milan.
 
-## Women and children remain trapped in Syria’s Roj camp
-Women and children remain trapped in Syria’s Roj camp
+## Hundreds of flights delayed, cancelled after UK air traffic control glitch
+Air traffic control provider NATS under scrutiny after technical fault disrupts UK air traffic.
 
-## Renoir paintings worth $10.5 million missing after museum heist
-A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings
+## US forces sink vessel ‘linked to Ecuador criminal gang’
+The US military says it intercepted and sank a floating refueling station in the eastern Pacific.
 
-## Yemen’s war is back: A new battle for Sanaa and the Red Sea
-This phase of the war could be the start of another protracted conflict rather than a decisive campaign, say analysts.
+## Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist
+Ballon d'Or Ousmane Dembele among favourites, with Kylian Mbappe, Lamine Yamal and Harry Kane, as 2026 shortlist named.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
