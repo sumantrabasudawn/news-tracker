@@ -1,76 +1,85 @@
 # AION Intelligence
 
-## Iceland summons US ambassador over Trump’s Stars and Stripes map
-Post showed US flag covering Canada, Mexico, Greenland, Iceland and other nations
+## Israel retaliates after UK bans trade with Israeli settlements in West Bank
+France and Canada join action as British foreign secretary accuses settlers of ‘ethnically cleansing’ Palestinians
 
-## BoE governor Andrew Bailey faces questions from MPs
-Central bank chief to be quizzed on interest rates and damage to UK economy from Iran war
+## Elon Musk documentary hits Venice Film Festival with cold dose of reality
+Alex Gibney’s near-four-hour film is exhaustive, and exhausting
 
-## Submit your questions: is Trump losing his touch?
-Take part in a live Ask an Expert Q&A with columnist Jemima Kelly on Thursday September 10 at 2pm (BST)
+## What follows quiet luxury? Róhe is bringing the calm
+The Dutch duo hate loud, but their designs are making a noise anyway
 
-## UK announces import ban on goods linked to Israeli settlements in West Bank
-Action planned against companies and individuals involved in settlement expansion, Miliband tells MPs
+## Heathrow and Gatwick flights disrupted by air traffic control failure
+National Air Traffic Services identified an issue ‘in our flight processing system’ after several hours of investigation
 
-## Russia launches missile strikes against Kyiv as pause in raids ends
-Overnight attacks come after Ukraine visit by Steve Witkoff and Jared Kushner fails to deliver breakthrough
+## Putin praises US peace efforts in call with Trump
+Russian president denies waging ‘hybrid war’ against Europe
 
-## Is it time for Eurozone GDP ex-Ireland?
-Once the Celtic Tiger, now the tail that wags the bloc
-
-## Ceuta demands EU help over migrant ‘pressure cooker’
-Leader of Spanish exclave requests assistance to repatriate migrants after influx in July
-
-## The new fiscal threats to monetary policy
-High public deficits and debt undermine central banks’ ability to control inflation
-
-## Big Chicken: How chicken conquered the world
-The race to produce ever-cheaper chicken is transforming global farming and trade — at a cost to animal welfare and human health
-
-## The yawning gap between ambition and action on nuclear energy
-The rate of new reactor construction would need to increase fivefold during the next decade if global 2050 targets are to be met
-
-## Novartis shares sink on latest trial setback
-Swiss drugmaker’s neuromuscular medicine fails late-stage study in fresh blow
-
-## Europe plays catch-up in space
-SpaceX and Blue Origin pull out of this week’s Paris summit, heightening European vulnerability compared with the US and China
+## UK selects Canada’s statistics chief to run data service
+Appointment of André Loranger ends year-long hiatus in leadership that has added to concerns over quality of key figures
 
 ## The counterfeit cigarettes made inside the EU
 Criminal gangs have switched to home production after crackdowns on cross-border smugglers
 
-## Liberty Global agrees €670mn towers sale ahead of Ziggo spinoff
+## Young Americans have never witnessed a functioning foreign policy
+Twenty-five years after 9/11, debt and defence spending are ballooning while diplomacy is starved and allies are alienated
+
+## EasyJet sued for $72mn over abandoned planes in sanctions dispute
+Insolvent Irish arm of Russian aircraft owner says airline unlawfully left jets in Madrid and Cyprus
+
+## Cerberus nears £1bn deal for Goodwin defence unit
+Private equity group swoops for unit of London-listed engineering group
+
+## Liberty Global seals €669mn towers sale ahead of Ziggo spin-off
 VodafoneZiggo to sell assets to consortium led by DigitalBridge as it works to reduce debt
 
-## FirstFT: Top credit rating sought for Anthropic and OpenAI
-Also in today’s newsletter: Oil approaches $100 a barrel and China’s monthly exports surge
+## Former Swiss bank lobby chief convicted of bribery and money laundering
+Pierre Mirabaud given two-year suspended jail sentence by Switzerland’s Federal Criminal Court over payments to Kuwaiti official
 
-## Will data centres avoid the curse of the mega-project?
-Many things can go awry, from materials shortages, planning delays, labour scarcity and access to power
+## How chicken conquered the world
+A global surge in poultry numbers is transforming high streets, diets and landscapes
 
-## Issues in GDP computation
-Until the NSO publishes a transparent back-cast series and clarifies its deflator methodology, the headline 7.8% growth figure should be treated as indicative rather than definitive
+## The yawning gap between ambition and action on nuclear energy
+The rate of new reactor construction would need to increase fivefold during the next decade if global 2050 targets are to be met
 
-## Bajaj Finance Acquires 5% Stake in TrueFan AI as part of Finserv Intelligence
-Bajaj Finance Acquires 5% Stake in TrueFan AI as part of Finserv Intelligence
+## Gestamp’s hot-stamped steel in Indian cars surges sixfold as Bharat NCAP widens safety race
+Gestamp India is betting on rising demand for safer, lighter vehicle structures as Bharat NCAP and five-star crash ratings push advanced structural technologies deeper into mass-market cars.
 
-## Adani, NTPC among five firms seeking support under ₹37,500 crore coal gasification scheme
-The applications come after the Coal Ministry rejected reports last week that the scheme had failed to attract industry interest
+## Apple Event 2026: Foldable iPhone, AI integration, and a new face on stage
+In a first, Apple is likely to skip the base iPhone 18 variant and instead launch the iPhone 18 Pro and iPhone 18 Pro Max variants
 
-## Karnataka targets 50% share of India’s $22-billion space market by 2034
-IT Secretary said Karnataka currently contributes 65% of India’s aerospace exports and 67% of defence aircraft and helicopter manufacturing
+## Indian AI developers enhancing security architectures to prevent rogue behaviors
+The central challenge facing developers is how much they delegate to the AI systems.
 
-## Rajnath lands in Lanka, says ‘looking forward to a productive engagement’
-To discuss modalities for implementing the India-Sri Lanka Defence Cooperation MoU
+## Putin, Modi to discuss trade, defence deals, local currency payments on Friday: Kremlin
+New Delhi wants Moscow to address widening trade deficit by importing more; Russia not seeking `de-dollarisation’
 
-## Russian energy ties seen fuelling demand for Indian orthodox teas
-In FY26 (April 2025–March 2026), India exported around 31.32 million kg of tea to Russia, making it the country’s third-largest destination by volume after the UAE and Iraq
+## Navy Chief Admiral Krishna Swaminathan to visit Australia, New Zealand to boost ties
+He will visit Australia first, followed by New Zealand
 
-## Weekly Rupee View: Recovery faces headwinds
-Dollar weakness lends support, but rising crude and foreign outflows limit the upside
+## REIT-backed office space expands 74% on-year in first half of 2026
+Listed office REITs now hold 167 million sq ft, highest penetration in Bengaluru, while 36 million sq ft is under construction
 
-## Gestamp opens 5th India plant in Gujarat with ₹523.7 cr investment
-The Spanish automotive components maker has three manufacturing facilities in Pune, one in Chennai and one in Gujarat
+## Novac Technology secures patent for platform that integrates software development processes
+A key differentiator of the patented platform is its dynamic scheduling and task-dependency management capability, which automatically updates interconnected tasks whenever changes are made to lower-level activities
+
+## Truecaller launches ‘post-call actions’ to simplify follow-up actions
+Post-Call Actions ensure a business call no longer ends with ‘we’ll send you a link’
+
+## Husband died in 2006, widow got PF and gratuity; why HC rejected pension claim
+On April 27, 2010, Bank of Maharashtra introduced a one-time option allowing a specified category of serving employees, retired employees and families of deceased employees to join the Pension Scheme, subject to the prescribed terms and conditions.
+
+## Flipkart widens lead against Amazon as quick commerce surges
+Flipkart is growing its user base faster than Amazon in India. This expands its lead in online retail significantly over recent years. Flipkart's quick-commerce business, Flipkart Minutes, is also scaling up rapidly. It is now handling millions of orders daily, nearing established rivals. The compan
+
+## Crypto goes abroad, returns as gift cards for Indians to buy groceries & gold
+The mechanism involves leading fintech and e-commerce platforms incorporated in Sweden, Germany and Singapore. Individuals can use these platforms to obtain gift cards or vouchers, which effectively serve as proxy money, by transferring stablecoins from their private e-wallets to overseas entities.
+
+## Why just Russian oil? US supplies over 50% of India’s LPG imports - what it means
+Even as Russia remains India’s largest crude oil supplier, the US has emerged as the biggest LPG exporter for India and the trend is likely to continue despite higher costs if Middle East supplies remain uncertain.
+
+## NSE IPO may open on Sept 18, list on Sept 25; Rs 30,000 crore issue in sight: Report
+The National Stock Exchange's Rs 30,000-crore initial public offering is anticipated to open for subscription on September 18. This offering will be an offer for sale, with existing shareholders selling nearly 15 crore equity shares. The SBI group is identified as the largest seller in this signific
 
 ## Robust GDP, record forex: Why economic boom is still taking a bite out of your breakfast
 India's economy grew strongly, yet everyday food prices are increasing. Sugar and edible oil costs have risen significantly, impacting household budgets. Packaged food companies face higher input costs and may increase prices. Global food prices are also showing upward pressure, affecting domestic m
@@ -81,44 +90,29 @@ Indian space startup Agnikul Cosmos inaugurated two new facilities in Chennai. T
 ## Gold soars, but China buys 650,000 ounces; adds most precious metal since 2023
 Large economies like India and China have been buying gold for the last few years. While India’s purchases have somewhat reduced, China has increased its gold reserves by the largest amount since 2023 in August, stepping up purchases even as bullion prices climbed sharply during the month.
 
-## Rs 20,700 crore, 326 km more: India completes its Dedicated Freight Corridor network
-The Ministry of Railways undertook the construction of two Dedicated Freight Corridors. The Eastern Dedicated Freight Corridor (EDFC) runs from Ludhiana to Sonnagar and covers 1,337 km, while the Western Dedicated Freight Corridor (WDFC) connects Dadri with Jawaharlal Nehru Port Terminal (JNPT) over
+## ‘Channi has assured his full support to Congress’ poll efforts’: Sachin Pilot
+Sachin Pilot told HT that all Punjab leaders have assured him they will work together to deliver results under Rahul Gandhi and Mallikarjun Kharge's leadership
 
-## Gold price prediction today: Will gold prices continue to drop? Check September 8, 2026 outlook
-Gold would have slumped hard on strong US nonfarm payroll report and the Fed Chair Warsh’s hawkish speech at Jackson Hole Symposium; however, dovish commentaries by the NY Fed President Williams and the Fed Governor Waller in the first week of September
+## PM Modi says UPI now live in 11 countries, pushes for further global reach
+Prime Minister Narendra Modi on Tuesday said UPI is not only a tech story but also a civilisational one.
 
-## Pink slips: Samsung India cuts 80-100 jobs, more layoffs expected after Diwali
-Those affected include director-level officials and team leads at the company's headquarters, as well as branch and area managers working across its operating branches, according to the executives.
+## Former Delhi chief secretary Rakesh Mehta dies by suicide
+Former Delhi chief secretary Rakesh Mehta dies by suicide: Officials
 
-## Salary stayed Rs 2.6 lakh after maternity leave, but duties were cut; HC awards Rs 10 lakh
-The High Court has made it clear that the statutory safeguard also covers the work she performs, her position in the organisational hierarchy, supervisory powers and opportunities for appraisal and promotion.
+## India, China military commanders hold rare border talks in Arunachal sector
+The first session of the flag meeting between the senior military commanders was held on the Indian side on Sunday and the second session on the Chinese side.
 
-## Rupee falls 10 paise to 94.66 against US dollar as crude nears $98
-On Tuesday morning, the Indian rupee struggled against the US dollar, influenced by climbing crude oil prices and unrest in the Middle East that affected investor confidence. The rupee began lower and consistently declined. Forex experts pointed out its limited movement, attributed to RBI's dollar i
+## Minor tribal girl raped at govt shelter home in Odisha, watchman and 13-year-old held
+According to police, the girl was allegedly sexually assaulted multiple times by the two accused during her stay at the shelter home.
 
-## ‘Now Naraz Fufaji will start shouting’: PM Modi's jibe after unveiling ₹35,000-crore projects in Gujarat
-Prime Minister Narendra Modi slammed the previous Congress-led regime over what he called a slow pace of development.
+## Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp
+Anand Madhav, who led the protest outside Indira Bhavan on Tuesday, said the Bihar Congress unit was being run like a corporate, that too in NGO format
 
-## CM Vijay clarifies row over his ‘body language’ in Tamil Nadu Assembly: ‘Not in any way intentional’
-This came a day after ruckus in the Tamil Nadu Assembly following Vijay's remarks against the previous DMK regime
+## After Satya Niketan tragedy, MCD plans PG survey, steps up demolition drive against unsafe buildings
+Tuesday’s drive saw 35 demolitions across 12 MCD zones even as officials weigh a survey of Delhi’s PGs and their occupants.
 
-## HT Evening Brief Sep 8: Fake PMO official with 'gun' held in Mumbai; Keyaa Banerji horrified by AI's dark side
-Here's your 5-minute sprint through today's biggest stories: politics, India, world, entertainment and sports.
-
-## Telangana minister performs CPR on IAS officer's personal secretary at Assembly; revival fails
-A government employee collapsed in a corridor of the Telangana Assembly. Following this, a minister performed CPR on him before a doctor on duty arrived.
-
-## 2-year-old girl run over by speeding car in Gurugram as her mother watches in horror
-The father of the girl said the driver had crossed the place a few minutes earlier and should have been careful.
-
-## Guitarist, music teacher: Who was Chongtham Vikram Singh, Manipuri singer killed in Delhi
-Chongtham Vikram Singh was a well-known guitarist from Manipur who had been working as a private music teacher in Delhi for the past 17 years.
-
-## 'Between entities concerned': MEA reacts to BAPS-Eiffel Tower row
-This came a day after the Eiffel Tower shut down following staff allegations that female workers were asked to leave due to a BAPS group visit.
-
-## Amazon, Instamart among those hit in Bengaluru food safety crackdown; products worth ₹1.38 crore seized
-At an Amazon facility in Devanahalli, officials seized food products worth ₹14 lakh for incorrect labelling and expired food products worth ₹10 lakh.
+## NCPCR summons Meta India official over child sex abuse material on social media
+India's child rights body summons Meta's MD over Instagram showing ads linked to child sexual abuse, amid ongoing investigations and policy discussions.
 
 ## HKU launches wealth management academy to boost city’s role as hub for ‘new money’
 Hong Kong’s first university-led wealth management academy was launched on Tuesday, as the city’s rapidly expanding private-wealth industry competes for professionals capable of serving increasingly sophisticated and international clients. The Wealth Management Academy, established by The University
@@ -144,6 +138,15 @@ Hong Kong singer, actor and model Jeffrey Ngai Tsun-sang recently moved into a l
 ## Foreign, mainland students flock to Hong Kong, sparking property demand in education sector
 Hong Kong’s bid to become a global education hub is likely to transform the sector as a sustainable source of property demand, with the city tipped to see around 200,000 non-local students by 2035, according to CBRE. The city’s international schools are estimated to require enormous additional real 
 
+## Can Trump Make Americans Mine Again?
+The United States lacks the people to power its critical mineral ambitions.
+
+## Europe Needs a Real Policy on Israel-Palestine
+As U.S. opinion shifts, Europe has an opportunity to be a player, not just a payer.
+
+## South Korea Should Help Defend Ukraine’s Skies
+Seoul can prove itself a genuine partner to Europe, not just an opportunist.
+
 ## The U.S. and China Don’t Need an AI Grand Bargain
 The countries can cooperate—even without trust or consensus.
 
@@ -159,14 +162,17 @@ A plan that a GOP senator proudly championed in 1970 is today seen as radical.
 ## 25 Years After 9/11, What Are We Failing to Imagine Now?
 The counterterrorism community struggles with how technology might be applied to novel use cases.
 
-## Milei Renews Argentina’s Falklands Push
-Buenos Aires is taking advantage of fraying ties between the United States and Britain.
+## Pakistan Takes SCO Presidency at a Crucial Time: What to Expect
+As SCO chair, Pakistan can be expected to highlight new connectivity routes via Iran and Central Asia that link the Belt and Road Initiative to the Arabian Sea.
 
-## What Was the War on Terror?
-A defining period in U.S. foreign policy has ended, but it remains misunderstood.
+## Japan and South Korea Face Off Again in the US Navy’s Frigate Search
+South Korea has an industrial head start, but is Japan’s upgraded Mogami class merely a stalking horse for the Chungnam class?
 
-## The Conservative Case for International Law
-Why the U.S. right should rediscover the virtues of a global legal order.
+## China’s Unity Through Erasure Should Worry Central Asia
+The SCO may serve legitimate Central Asian interests, but it should not become the vehicle through which Beijing’s definitions of security, political loyalty, and ethnic identity become normalized across the Turkic world.
+
+## Is China Really a Cyber Threat to Taiwan?
+Most people assume that China’s cyber capabilities define the totality of its threat to Taiwan, but this simply does not capture the full picture.
 
 ## Indonesia Reopens Airports After Suspension Due to Volcanic Eruption
 The eruption of Anak Krakatau, which is located on a small island in the Sunda Strait, forced the closure of eight airports, including two serving the capital Jakarta.
@@ -179,18 +185,6 @@ The move reflects the sea change that has taken place in U.S.-Cambodia relations
 
 ## Is BRICS Actually Benefiting India?
 As India prepares to host the group's summit, what does it want from BRICS? And what is Delhi actually getting from the group?
-
-## India’s Cross-Border Cyber Scams Against the US and the West
-In poor areas such as Jamtara and Mewat, cyber scams have become an important source of household income.
-
-## The Illusion of Technocratic Transformation in Cambodia
-The country is hitting a developmental wall because necessary structural reforms clash directly with the needs of an entrenched patronage system.
-
-## Schools Close Across Sarawak Due to Toxic Haze From Indonesian Wildfires
-Wildfires have raged for weeks across swathes of Sumatra and Kalimantan, exacerbated by a particularly severe dry season.
-
-## What’s Happening in Philippine Vice President Sara Duterte’s Impeachment Trial?
-The trial has dropped from the headlines amid ongoing corruption controversies and the massive flooding that hit vast areas of Luzon this month.
 
 ## China’s Warrior Scientists: Insights from Recent Operations Around Taiwan
 China’s marine scientific research ships are expanding their operations around Taiwan, and they are not just there to advance the frontiers of human knowledge. Their operations serve to undermine Taiwan’s independent political status and to force international acceptance of Beijing’s claim of sovere
@@ -240,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Liverpool announce five-year shirt sponsorship deal with Turkish Airlines
-The deal is reportedly worth more than $405m, which would place it among the most lucrative in the Premier League.
+## Israeli strikes transform Lebanese city into ghost town
+Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.
 
-## Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority
-Qatar's Foreign Ministry says Doha working towards diplomatic solutions to end US war on Iran.
+## UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
+UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.
 
-## UK announces sanctions on illegal Israeli settlements
-Britain will ⁠introduce an import ban on goods ⁠from ​Israeli settlements, Ed Miliband tells parliament.
+## Israeli academia accused of systemic apartheid against Palestinians
+A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.
 
-## Sudan’s healthcare system on brink of collapse, MSF warns
-More than a third of Sudan's health facilities are nonoperational as aid cuts deepen crisis, medical charity says.
+## LIVE: Real Madrid vs Inter Milan – UEFA Champions League
+Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.
 
-## BRICS summit may be the only place another Iran ceasefire can be built
-Its members and partners have brokered every ceasefire so far and hold the relationships needed to build the next one.
+## Maldives asks UK to reopen sovereignty talks over Chagos Islands
+Chagos Islands should not be handed over to Mauritius, president of Maldives says in letter to UK's prime minister.
 
-## Former Philippines lawmaker arrested for pocketing millions in flood aid
-A former Philippine lawmaker was arrested for allegedly stealing millions of dollars intended for flood control.
+## Hungary expels 10 Russian diplomats, Moscow promises harsh response
+Russia promises 'harsh and painful' response following Hungary's expulsion of its diplomats.
 
-## Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?
-Saudi Arabia promises firm retaliation after Houthi strikes injure 73 and disrupt energy facilities in southern cities.
+## What is BAPS, the Hindu group whose demands led to Eiffel Tower closure?
+The Eiffel Tower closed after workers protested the sidelining of women during the BAPS visit.
 
-## Israeli forces kill Palestinian man and withhold his body near Nablus
-Israeli forces shot and killed a Palestinian man amid raids and arrests across the occupied West Bank.
+## The shift in British policy on Israel is palpable
+But progress could be threatened if there is a new more diplomatic government in Israel.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
