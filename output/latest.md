@@ -1,67 +1,85 @@
 # AION Intelligence
 
-## Labour’s muddled migration policy won’t stop thuggery
-A government that can’t distinguish between ‘legitimate concerns’ and open racism is only making things worse
+## UK set to announce trade ban on Israeli settlements in West Bank
+Foreign secretary Ed Miliband’s intervention provokes rebuke from Washington
 
-## Global shipping rules are collapsing, say maritime nations
-Wars and the growth of the shadow fleet are causing a ‘structural shift’ in global trade, according to 18 maritime authorities
+## The complicated implications of the spectacular ‘Apollo premium’
+FAFOing in creditland
 
-## The cost of being Apollo
-US academics have calculated the price that the private equity group’s portfolio companies pay for its reputation
+## July wage data bolsters case for BoJ tightening this month
+Headline and regular pay growth measures accelerated
 
-## Why Japan Inc can brush off interest-rate hikes — and America can’t
-Divergent reactions underline the importance of the narrative behind rate rises
+## Singapore raises prime minister’s pay by $1mn
+Jump in already world-leading salaries for ministers comes despite public disapproval
 
-## Merz’s CDU in crisis after far-right victory in Saxony-Anhalt
-‘Giving up is not an option for me,’ says German chancellor as AfD routs conservatives in eastern stronghold
+## Russia launches missile strikes against Kyiv as pause in raids ends
+Overnight attacks come after Ukraine visit by Steve Witkoff and Jared Kushner fails to deliver breakthrough
 
-## ‘Apollo premium’ drives up debt costs for group’s portfolio companies
-Reputation for harsh treatment of creditors costs group about one percentage point in higher borrowing costs, research shows
+## Australia proposes opt-out law for social media algorithms
+Draft legislation follows under-16 ban as part of widening effort to rein in Big Tech
 
-## EU opens door to bigger corporate mergers
-Top competition official says deals that help companies scale up and innovate will get a closer hearing as EU seeks to keep pace with US and China
+## The strangely disappointing EM inflows
+Tough crowd
 
-## The world’s $2tn interest bill
-Many countries now spend more on debt servicing than defence, including the US, France and the UK
+## China’s export surge sets stage for record annual surplus
+Data released ahead of crucial meeting between Donald Trump and Xi Jinping on extending tariff truce
 
-## Hedge fund Millennium seeks tax deal to boost Geneva presence
-Swiss cantons locked in competition to woo high-net-worth individuals
+## Novartis shares slide after drug for muscular disease fails trial
+Setback is latest blow to Swiss drugmaker’s treatment pipeline
 
-## Britain’s grid operator gave Palantir contract without inviting rival bids
-Neso cited a legal exemption that removes the requirement to consider other suppliers if dependencies leave no alternative
+## DWS embraces Deutsche Bank name eight years after distancing itself
+German lender’s unit will become Deutsche Asset Management, reversing a decision made ahead of its IPO
 
-## Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO
-Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners
+## Antitrust not the enemy of industrial policy, says EU competition enforcer
+Also in this newsletter: Austria’s far-right leader revels in AfD success
 
-## Offshore borrowing in renminbi hits record high
-Issuance of ‘dim sum’ and ‘panda’ bonds rises past $146bn so far this year
+## Mistral raises record €3bn as Europe strains to keep pace in AI race
+New funding round led by Samsung comes as French AI model maker continues to challenge US and Chinese rivals
 
-## How cement can be made greener
-Alternative formulations are available, as well as the possibility of pumping emissions underground
+## Offshore borrowing in renminbi hits record high of nearly $150bn
+Issuance of ‘dim sum’ and ‘panda’ bonds rises past $149bn so far this year
 
-## Crude oil futures rise after Iran threatens retaliatory strike on energy assets
-Brent trades at $97.48 after Tehran and Washington exchange fresh warnings over tanker and facility strikes
+## FirstFT: Top credit rating sought for Anthropic and OpenAI
+Also in today’s newsletter: China’s answer to ASML and CDU in crisis
 
-## Sensex today | Stock Market Live: Sensex falls 350 points, Nifty slips below 23,700 as US-Iran tensions, crude weigh
-Sensex, Nifty, Share Prices LIVE: Indian equities opened lower on Tuesday as rising crude oil prices, persistent US-Iran tensions and mixed Asian markets weighed on sentiment, with the Nifty extending its corrective decline and facing further downside risk below the 24,025 level.
+## Torrent Green Energy commissions 322 MWp decentralised solar projects
+The MSKVY 2.0 scheme was launched to implement feeder-level solarisation under Component-C of the PM-KUSUM scheme
 
-## Astrogate Labs to Put India's First Indigenous Optical Inter-Satellite Link in Orbit
-Astrogate Labs to Put India's First Indigenous Optical Inter-Satellite Link in Orbit
+## Sensex today | Stock Market Live: Sensex drops over 500 points, Nifty near 23,650 as US-Iran tensions and crude weigh
+Sensex, Nifty, Share Prices LIVE: Indian equities trade lower on Tuesday as rising crude oil prices, persistent US-Iran tensions and mixed Asian markets weighed on sentiment, with the Nifty extending its corrective decline and facing further downside risk below the 24,025 level.
 
-## Kanohar Electricals raises ₹317 crore from anchor investors; IPO opens for subscription
-The company informed the bourses that it allocated 50.11 lakh equity shares at Rs ₹632 per share to anchor investors, comprising 42 funds
+## Steel prices set to rise further on coking coal costs, demand revival
+Higher prices could help mills recover margins squeezed by surging ‌coking coal costs, but infrastructure, construction and auto companies face higher input costs just as demand picks up.
 
-## India’s BRICS Chairmanship takes centre stage as PM Modi hosts expanded 11-nation Summit in New Delhi
-The two-day summit on September 12 and 13 at Bharat Mandapam in Pragati Maidan will gather heads of state, government officials, and invited international participants
+## Explained in 60 seconds: What is Iran’s new ‘exclusion zone’ near Strait of Hormuz?
+The exact boundaries and coordinates of Iran’s proposed exclusion zone have yet to be announced.
 
-## REC raises ₹500 crore through India’s first tokenised bond
-REC raises Rs 500 crore through India’s first tokenised bond, with HDFC Bank, ICICI Bank and other investors participating in the issue
+## S&P assigns 'BBB' rating to BoI on sufficient capitalisation, solid funding
+The long-term rating on BoI is one notch above its assessment of the stand-alone credit profile (SACP) for the bank, S&P said while assigning its 'BBB' long-term and 'A-2' short-term issuer credit ratings to the bank.
 
-## Larsen & Toubro plans ₹500 crore tokenised bond issue, first by private-sector company
-The proposed notes will be settled on the same day, with participation restricted to investors holding active central bank digital currency wallets
+## Aluminium futures: Uptick to extend
+Traders can hold the longs for a target of ₹356
 
-## Wheat soars after US efforts to end Black Sea conflicts yield little progress
-Traders say that the US envoys' visit to Russia did not seem to have resulted in a peace breakthrough that would enable Ukrainian and Russian ​grain exports to resume
+## BIGBANG 2026-2027 WORLD TOUR IN HONG KONG Officially Announced
+BIGBANG 2026-2027 WORLD TOUR IN HONG KONG Officially Announced
+
+## Karnataka CM Shivakumar visits Yeshwanthpur APMC, hears farmers’ grievances
+Shivakumar spent several hours at the market, checking facilities and directly gathering complaints from farmers, traders, intermediaries and labourers
+
+## Rs 20,700 crore, 326 km more: India completes its Dedicated Freight Corridor network
+The Ministry of Railways undertook the construction of two Dedicated Freight Corridors. The Eastern Dedicated Freight Corridor (EDFC) runs from Ludhiana to Sonnagar and covers 1,337 km, while the Western Dedicated Freight Corridor (WDFC) connects Dadri with Jawaharlal Nehru Port Terminal (JNPT) over
+
+## Gold price prediction today: Will gold prices continue to drop? Check September 8, 2026 outlook
+Gold would have slumped hard on strong US nonfarm payroll report and the Fed Chair Warsh’s hawkish speech at Jackson Hole Symposium; however, dovish commentaries by the NY Fed President Williams and the Fed Governor Waller in the first week of September
+
+## Pink slips: Samsung India cuts 80-100 jobs, more layoffs expected after Diwali
+Those affected include director-level officials and team leads at the company's headquarters, as well as branch and area managers working across its operating branches, according to the executives.
+
+## Salary stayed Rs 2.6 lakh after maternity leave, but duties were cut; HC awards Rs 10 lakh
+The High Court has made it clear that the statutory safeguard also covers the work she performs, her position in the organisational hierarchy, supervisory powers and opportunities for appraisal and promotion.
+
+## Rupee falls 10 paise to 94.66 against US dollar as crude nears $98
+On Tuesday morning, the Indian rupee struggled against the US dollar, influenced by climbing crude oil prices and unrest in the Middle East that affected investor confidence. The rupee began lower and consistently declined. Forex experts pointed out its limited movement, attributed to RBI's dollar i
 
 ## Iran doubles petrol price for heavy users as currency touches record low
 Iran has recently increased its petrol price for consumers who surpass a monthly limit of 110 litres. This price hike is intended to boost government revenue, which officials assure will be allocated to support households. Amid ongoing inflation and a declining national currency, experts caution tha
@@ -69,56 +87,50 @@ Iran has recently increased its petrol price for consumers who surpass a monthly
 ## Stock market today: BSE Sensex tanks over 330 points, NSE Nifty50 opens below 23,700
 
 
-## Salary stayed Rs 2.6 lakh after maternity leave, but duties were cut; HC awards Rs 10 lakh
-The High Court has made it clear that the statutory safeguard also covers the work she performs, her position in the organisational hierarchy, supervisory powers and opportunities for appraisal and promotion.
-
 ## Loan repaid in 2003, but bank lost property papers; court orders Rs 5,000 per day payout
 The bank acknowledged that it could not trace the original documents for either property. However, the bank argued that the firm had not asked for their return immediately after repaying the loan. The bank has been ordered to pay compensation.
 
-## Top stocks to buy or sell today: Stock market recommendations for September 8, 2026 - check list
-Stock market recommendations: Life Insurance Corporation of India, Tata Steel, and Bank of India are the top stocks to sell as per Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan on September 8, 2026.
+## HC pulls up Centre for revealing survivor's identity in POSH handbook
+HC pulls up Centre for revealing survivor's identity in POSH handbook
 
-## Brent crude climbs beyond $97 as Hormuz disruptions choke global oil supplies
-With the ongoing conflict in the Middle East escalating, oil prices are experiencing a significant uptick as global supplies come under threat. Iran has issued warnings of retaliation against US actions, heightening fears surrounding energy infrastructure. As tensions rise in the Strait of Hormuz, t
+## ED letter against Vijayan, daughter, Riyas to be examined as per law: Minister Chennithala
+ED letter against Vijayan, daughter, Riyas to be examined as per law: Minister Chennithala
 
-## Alternate fuels overtake petrol in passenger car sales
+## 5 booked for abetment of suicide after Dalit man drinks poison and dies following caste abuse in Punjab
+The 47-year-old man drank poison after villagers allegedly humiliated him publicly for questioning Punjab minister Harpal Cheema about the local drug problem.
 
+## Manipur musician's son recounts what happened before Delhi murder: ‘They were having alcohol, making noise’
+Yaiphaba, the son of musician-guitarist Chongtham Vikram Singh, said that a group of people were having alcohol and making noise outside their residence.
 
-## India joins US, 24 nations in push for next-generation 6G networks
+## Govt working to digitise Delhi’s land records: Official
+According to the Economic Survey 2023-24, digitisation of land records is poised to improve transparency in land transactions, diminish property ownership conflicts
 
+## 'Not jhoot ki goonj, youth marches ahead with…': PM Modi's dig at Rahul Gandhi in Vadodara
+PM Modi made the remarks at an event in Vadodara, all seats of which were booked within an hour of the free registration window opening on BookMyShow.
 
-## SC/ST Congress leaders to approach President to intervene in ‘purification' row
-The row flared after a purification ritual was conducted at Haldwani following Congress party chief Mallikarjun Kharge's address.
+## BJP govt restored investor confidence in UP; no room for mafia: Adityanath
+BJP govt restored investor confidence in UP; no room for mafia: Adityanath
 
-## RTI files can't be buried, strict action will follow: Keralam Information Commissioner
-RTI files can't be buried, strict action will follow: Keralam Information Commissioner
+## Complaint for remarks against PM Modi: Bombay high court refuses to quash 2019 summons to Rahul Gandhi
+A single bench of Justice NR Borkar dismissed Rahul Gandhi's petition against the magistrate court's order.
 
-## ‘Tax money wasted for Vijay's luxury’: BJP questions ₹6.17 crore allocation for shifting CM's office
-Nainar Nagendran shared an official document which said that ₹6.17 crore had been allocated for shifting chief minister Joseph Vijay’s office.
+## Eager capital prompts IPO plans for more Chinese makers of brain-computer interfaces
+A handful of home-grown Chinese companies involved in brain computer interfaces (BCIs) are moving towards initial public offerings (IPOs) on onshore markets, taking advantage of the sector’s status as a new darling of private capital. The trend fits into a broad pattern of hi-tech firms flocking to 
 
-## ‘They’re waiting for my retirement': CJI Surya Kant junks Aravalli panel’s plea to extend deadline
-The Chief Justice also asked if the extension demand was a deliberate move to push to issue beyond his retirement date.
+## Expand Hong Kong’s MPF investment choices, lure mainland pension funds: financial council
+Hong Kong should consider allowing the Mandatory Provident Fund to invest in more asset classes, and lure more long-term patient mainland capital, such as pension funds, to invest globally through the city, the Financial Services Development Council (FSDC) said in a report on Tuesday. The MPF, the c
 
-## From missiles to radars, DAC clears ₹1.1L-cr defence boost, pushes self-reliance and manufacturing
-The proposal clearance came from the Defence Acquisition Council (DAC) , chaired by defence minister Rajnath Singh.
-
-## Supreme Court delivers reserved verdict in 2 years, breaks its 3-month limit
-Just three months ago, the SC prescribed three months as the outer limit for the other constitutional courts to deliver reserved judgments.
-
-## Grant cut, DJs banned, liquor outlets shut on Maha Ashtami: Big announcements in Bengal ahead of Durga Puja
-The BJP government also waived electricity charges and fire-clearance fees for puja committees, while liquor shops and bars will shut on Maha Ashtami.
-
-## PM Modi to unveil projects worth ₹35,000 crore in Gujarat today
-Railway works account for over ₹30,766 crore, including 326 km of the Western Dedicated Freight Corridor and new tracks between Vadodara and Ratlam.
+## Hong Kong stocks face double threat: US inflation and yen carry-trade risks
+Hong Kong and mainland Chinese stocks face a high-stakes week as investors navigate US inflation data, a strengthening Japanese yen and looming monetary policy decisions by two of the world’s most influential central banks. Friday’s consumer price index in the United States will take centre stage, w
 
 ## Hong Kong celebrity Jeffrey Ngai splashes out on US$16,000 rental home
 Hong Kong singer, actor and model Jeffrey Ngai Tsun-sang recently moved into a luxury residence in Mid-Levels East with a monthly rent of HK$130,000 (US$16,581), highlighting strong demand in the high-end segment, according to market sources. The luxury residence was a duplex, where Ngai, 28, would 
 
-## Foreign, mainland students flock to Hong Kong sparking property demand in education sector
+## Foreign, mainland students flock to Hong Kong, sparking property demand in education sector
 Hong Kong’s bid to become a global education hub is likely to transform the sector as a sustainable source of property demand, with the city tipped to see around 200,000 non-local students by 2035, according to CBRE. The city’s international schools are estimated to require enormous additional real 
 
 ## Labubu meets LVMH: Pop Mart to open flagship store in Paris amid cooling overseas sales
-Chinese collectible toymaker Pop Mart International is pushing forward with global retail expansion amid slowing overseas sales and will open its first European flagship store in Paris’ Boulevard Haussmann, the same street as iconic department stores Galeries Lafayette and Printemps, according to th
+Chinese collectible toymaker Pop Mart International is pushing forward with a global retail expansion amid slowing overseas sales, and will open its first European flagship store in Paris’ Boulevard Haussmann, the same street as iconic department stores Galeries Lafayette and Printemps, according to
 
 ## From sports courts to street corners: Galbot brings autonomous humanoid retail to the city
 [The content of this article has been produced by our advertising partner.] Galbot is making its first commercial foray outside mainland China by launching three Galbot Stores in Hong Kong, the city’s first retail stores operated entirely autonomously by humanoid robots. Starting from September 1, t
@@ -126,14 +138,8 @@ Chinese collectible toymaker Pop Mart International is pushing forward with glob
 ## China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei
 Xiaomi unveiled a series of new products on Monday – from a flagship foldable phone featuring proprietary chips to new models of its premium Skynomad SUV – underscoring the Chinese giant’s intensified push to compete against rivals including Tesla, Apple and Huawei Technologies. Beijing-based Xiaomi
 
-## Hong Kong landlords accuse banks of deepening shop slump with reluctance to lend
-Hong Kong landlords and property industry figures are accusing banks of deepening the city’s shop slump by pulling back from commercial mortgages, leaving more potential buyers unable to secure financing even though property values have fallen sharply. Shop buyers were increasingly being turned away
-
-## Tesla offers rare China inventory discounts to fight sliding Shanghai production sales
-Tesla China has launched discounts on its Shanghai-made cars for the first time since the end of 2024, responding to falling deliveries in the world’s largest market for electric vehicles (EVs). Prices of Model 3 vehicles in inventory would be reduced by 5,000 yuan (US$745) each, while buyers of the
-
-## Will China’s US$54b capital injection be enough to ease financial strains?
-Beijing’s planned 360 billion yuan (US$54 billion) capital injection into eight state-owned financial institutions is a step in the right direction, but further fiscal support is needed to revive credit demand and ensure the fresh capital is put to better use, analysts say. They noted that the move 
+## Iran’s Proxy Strategy Is Never Coming Back
+Iran’s long-running security strategy hasn’t survived the current war.
 
 ## The Republican Origins of Medicare for All
 A plan that a GOP senator proudly championed in 1970 is today seen as radical.
@@ -155,9 +161,6 @@ Emily St. John Mandel explores what follows U.S. collapse, plus more fiction in 
 
 ## What 6 Different Versions of This Sex Comedy Say About the Countries That Made Them
 Trust the French to add a wild twist.
-
-## What in the World?
-Test yourself on the week of Aug. 29: Iceland votes, China threatens Pacific island nations, and Guinea-Bissau approves a new constitution.
 
 ## Is BRICS Actually Benefiting India?
 As India prepares to host the group's summit, what does it want from BRICS? And what is Delhi actually getting from the group?
@@ -183,6 +186,12 @@ Japan’s Indo-Pacific vision has outlasted its creator and found new partners. 
 ## A Message to China from Japan’s Takaichi Administration
 Can Japan ‘normalize’ relations?
 
+## China’s Warrior Scientists: Insights from Recent Operations Around Taiwan
+China’s marine scientific research ships are expanding their operations around Taiwan, and they are not just there to advance the frontiers of human knowledge. Their operations serve to undermine Taiwan’s independent political status and to force international acceptance of Beijing’s claim of sovere
+
+## Nicaragua’s Army Will Decide What Comes After Ortega
+The first institution Nicaragua’s National Assembly called to testify on the constitutional reform ending competitive elections was the army. On July 29, 2026, Gen. Julio César Avilés appeared before the Special Constitutional Commission and pledged the firm support of the Army of Nicaragua for a pa
+
 ## The Strategic Fiber of America: Kevlar’s Impact on Warfighters
 Editor’s note: This is the tenth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
@@ -200,12 +209,6 @@ War has always been a brutal engine of medical innovation, running on a feedback
 
 ## Where Does AI Escalation Come From? We Don’t Know. We Should Find Out.
 We played a wargame using AI players. Two nuclear-armed nations — Red and Blue — with a long-standing, fierce border dispute were placed into a militarized crisis. Over the course of several turns, the states managed to avoid escalation to war, though there were non-operational nuclear demonstration
-
-## Russia’s Road to El Dorado
-As a new convoy of Russian armored vehicles arrives from the port of Lomé to support Russia’s Africa Corps deployment in Mali, that mission has entered its fifth year. Russia’s investment of blood and treasure urgently demands a return, but what could this return be? What is the Russian end goal in 
-
-## Is Taiwanese Society Prepared for a China Contingency?
-In 2025, Michael Hunzeker and Yuster Yu wrote, “Taiwan’s Biggest Problem in Steeling Itself for War With China is Cultural,” where they argued major cultural changes were needed in both Taiwan’s military and civilian society if it were to be competitive in a conflict with China. A year later, we ask
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Flash floods fill the streets of a neighbourhood in central Morocco
-Videos show floodwaters swamping homes, shops and streets in Azilal in central Morocco, after heavy thunderstorms.
+## Houthi attacks on southern Saudi Arabia reportedly injure dozens
+Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children.
 
-## Canada’s retaliatory tariffs on $20bn of US goods take effect
-Trade tensions soar as Canada matches US tariffs 'dollar-for-dollar', impacting 700 products and multiple industries.
+## As fuel prices rise again, Iran’s government urges citizens to cut back
+New fuel pricing targets consumption above 110 litres monthly, doubling costs to 100,000 riyals per litre.
 
-## Russia strikes Kyiv as three-day pause during US envoy visits ends
-US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks.
+## Indonesia airports reopen after volcanic ash disrupts thousands of flights
+Five airports reopen after authorities cleared volcanic ash from critical infrastructure.
 
-## Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa
-Bid to take capital comes as clashes between Yemeni forces and Houthis intensify in provinces of al-Bayda and al-Jawf.
+## Yemen fighting live: Battles rage between Houthi and Saudi-backed forces
+Forces loyal to Yemen’s internationally recognised government pledge to seize the capital Sanaa as battles rage.
 
-## Eiffel Tower closed in row over women removed for Hindu group
-The Eiffel Tower was shut on Monday after staff protested over women being ‘sidelined’ during a Hindu group’s visit.
+## Real’s Mbappe embraces Ballon d’Or talk after historic World Cup goals
+Real Madrid's Kylian Mbappe enters Champions League season hoping for Ballon d'Or after record World Cup goal haul.
 
-## What does Mondlane’s trial mean for Mozambique?
-The opposition politician faces five charges over protests that followed the disputed 2024 election.
+## Eiffel Tower reopens after protest over removing women staff
+A Hindu religious delegation had requested that 'interactions with women' be limited during its visit.
 
-## EU pledges more than $200m to Greenland amid Trump annexation threats
-Brussels has proposed doubling direct EU aid to Greenland under the bloc's next budget as military exercises kick off.
+## US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters
+Zheng Qinwen beats Iga Swiatek; Coco Gauff, Elena Rybakina also reach quarterfinals. Alexander Zverev through in men's.
 
-## IAEA warns over Iran nuclear access as Western powers push UN referral
-UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.
+## Palestine weekly: Israeli ministers push for depopulation of Gaza
+Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
