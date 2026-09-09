@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’
-Paul Christiano says technology could ‘kill most people’ without stronger safety features
-
 ## Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices
 Pro and Max models will be $100 more expensive than last year’s versions as the company faces supply chain pressures
+
+## Police investigate Reform UK over donor sting
+Probe follows TV footage of Nigel Farage’s aides allegedly seeking illegal overseas funding
+
+## Drone almost struck Zelenskyy’s plane, says Ukraine
+Official travelling with Ukrainian president says they believe a Russian weapon was used
+
+## LIV races to re-sign golfers to clinch $300mn bankruptcy rescue
+Under new terms proposed by league players would swap claims for millions in past contracts for equity in new circuit
+
+## FirstFT: Apple’s foldable iPhone Duo will cost $1,999
+Also in today’s newsletter: Treasury yields jump and DeepSeek fundraising frenzy spawns shadow market
+
+## Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’
+Paul Christiano says technology could ‘kill most people’ without stronger safety features
 
 ## Oil hits $100 for first time since July
 Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch
@@ -12,26 +24,11 @@ Brent crude advances as escalation in US-Iran war feeds fears of renewed global 
 ## Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors
 10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme
 
-## US spy chief prepares for greater role in Russia-Ukraine talks
-CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv
-
-## AI labs test the rigour of credit rating agencies
-AI labs have huge private market valuations, but are seeking the investment-grade score of public groups such as Oracle
-
-## JPMorgan chief Dimon meets Burnham amid Budget windfall tax fears
-Trade unions have called on chancellor John Healey and PM to target banks in next month’s fiscal event
-
-## ‘I am the house now’: Bessent warns traders not to bet against yen
-Comments follow July’s rare joint intervention with Tokyo to support Japanese currency
-
 ## Windscreen giant Belron explores mega-IPO
 Autoglass owner is led by former AB InBev boss Carlos Brito
 
-## Tether launches private credit fund in effort to boost stablecoin use
-Move by world’s largest stablecoin issuer comes as market faces challenging conditions
-
-## The cost of UK air disruptions spreads far beyond the hit to airlines’ profit
-Air travel isn’t the only segment of UK infrastructure showing signs of strain
+## AI labs test the rigour of credit rating agencies
+AI labs have huge private market valuations, but are seeking the investment-grade score of public groups such as Oracle
 
 ## Apple event 2026: CEO John Ternus unveils latest iPhone lineup
 Includes a foldable model called Duo priced at $1,999(₹2,99,990) in India
@@ -57,29 +54,29 @@ The Indian currency rupee closed at 95.10 per dollarUSD, down 29 paise against t
 ## Letters to the Editor dated September 9, 2026
 
 
+## RBI flags tech concentration risks, warns of disruptions
+
+
+## Coforge stock tumbles 6% as chairman Bhatt resigns
+Co's Internal Audit Flags Concerns Over Board Evaluation
+
+## Sensex tanks 813 points as crude spikes
+Rupee Feels Heat Too, Slips To Over 95/$; Foreign Funds Sell
+
+## Cognizant's green card filings suspended amid probe by US
+
+
+## Meta officials appear before NCPCR
+
+
+## OMCs may be losing Rs 5/L on petrol, Rs 23 on diesel: ICRA
+
+
 ## NSE cuts IPO size, may raise 23.5k crore
 
 
 ## Skoda Auto, JSW sign MoU to explore PV joint venture
 
-
-## With iPhone Duo, Apple makes entry into foldable market
-Takes On Samsung, Google | Launches iPhone 18 Pro Series
-
-## Adani Airports to raise $1 billion equity from global investors
-Co Valued At $18Bn, One Of Largest Bets From FIs In Sector
-
-## India’s exports grew over 15% in first five months of FY2026-27, says commerce minister Piyush Goyal
-India's merchandise exports have grown over fifteen percent in the current fiscal year. This growth highlights BRICS economies' potential to deepen trade in goods and services. Businesses face challenges accessing finance, buyers, and predictable rules for international trade. BRICS nations are expl
-
-## Govt eyes ethanol blending beyond E20 with flex-fuel vehicles, says PM advisor
-India is set to surpass its E20 ethanol blending goal, with plans for the introduction of flex-fuel vehicles that will support higher blends. This initiative aims to decrease dependency on imported crude oil, while the government investigates the potential of biofuels in diesel engines. Moreover, et
-
-## 86-year-old father alleged son forced him out; HC orders son to vacate home
-When an 86-year-old man bought several parcels of land in his youngest son's name and let him stay with him in the family's ancestral house in Odisha, he did not expect their relationship to eventually turn bad.
-
-## Government-owned fuel retailers lose Rs 5 per litre on petrol, Rs 23 on diesel as oil tops $100 per barrel
-Fuel retailers are experiencing substantial losses per litre on petrol and diesel, as international crude oil prices have recently surpassed one hundred dollars a barrel. India relies on imports for over eighty-eight percent of its crude oil consumption. Despite these soaring prices, retail rates fo
 
 ## Scaffolding collapses at under-construction complex in Gujarat's Gandhinagar; 12 workers rescued, 10 still trapped
 Slab casting was underway at Bosky The Empire when the scaffolding failed and a slab between two units collapsed.
@@ -105,6 +102,9 @@ The projects will cover 31 districts in West Bengal, Jharkhand, Odisha, Madhya P
 ## Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday
 INNOPROM India is being held on September 9-11 at Bharat Mandapam, coinciding with the 18th Brics Summit in New Delhi
 
+## Susquehanna latest to pick up larger office space in Hong Kong’s Central, sources say
+US investment firm Susquehanna International Group has agreed to lease more than 4,808 square metres (51,762 square feet) of office space at the Cheung Kong Center II, a prime office skyscraper developed by CK Asset Holdings in Hong Kong’s main business zone of Central, according to market sources. 
+
 ## Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources
 Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar with the matter. Citic Securities was one of the four underwriters tapped by the Hangzhou-based firm, 
 
@@ -126,8 +126,8 @@ Chinese energy firms have called for policy stability in overseas markets as the
 ## Chinese stock recovery faces US Fed and oil pressures in September, says top fund manager
 Chinese stocks are likely to trade sideways through September, as resilient earnings growth is weighed down by concerns over potential monetary policy tightening in the United States, according to a recent strategy report by China Asset Management, the country’s second-largest mutual fund firm. Main
 
-## As China embraces AI, only 24% of US pharmaceutical execs bet on it for innovation
-Pharmaceutical companies have embraced artificial intelligence in drug research almost universally, yet few company executives expect AI to actually make drugs succeed, according to a Citi survey released on Tuesday. “The biggest risk to the AI-powered drug discovery thesis is not that AI fails to a
+## Iran Launches Massive Attack on Global Shipping
+Such assaults put the Strait of Hormuz under growing pressure as global crude prices skyrocket.
 
 ## What India Gets Out of BRICS
 Ahead of the group’s leaders’ summit, New Delhi is pulling out the stops.
@@ -149,9 +149,6 @@ How to survive in a world without rules.
 
 ## How to Survive in a World Without Rules
 Self-help is becoming more vital in a vicious world.
-
-## How to Write Better Rules for Global Finance
-The importance of a “common good” compass.
 
 ## Russia Is Helping Supercharge North Korea’s Military Drones
 North Korea, already receiving Russian drone technology, could eventually gain access to more advanced capabilities like autonomous AI‑enabled and jet‑powered drones.
@@ -225,6 +222,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war looms over Trump at Republican midterm convention in Dallas
+Trump supporters say he can rally Republican voters despite concerns over the unpopular Iran war and rising costs.
+
+## Gauff beats Andreeva to reach US Open semifinals in comeback win
+Coco Gauff sets up US Open semifinal with Elena Rybakina after saving two match points against Mirra Andreeva.
+
+## ‘Everyone’s had their holidays ruined’: outrage after UK airport chaos
+The UK's independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.
+
 ## US court denies Tate brothers’ bid to be released from Miami jail
 A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel.
 
@@ -239,15 +245,6 @@ Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dom
 
 ## Trump says Iran war ‘will end immediately’ after US midterm elections
 The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.
-
-## Guterres pays tribute to Qatar’s late Father Emir at UN ceremony
-UN Secretary General Antonio Guterres has paid tribute to Qatar’s late Father Emir Sheikh Hamad bin Khalifa Al Thani.
-
-## Trump says Putin wants to make a deal to end Ukraine war
-US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine.
-
-## Pro-Palestinian protesters oppose Israel embassy opening in Slovenia
-Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.
 
 ## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
 Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
