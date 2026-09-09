@@ -1,114 +1,132 @@
 # AION Intelligence
 
-## The clock is ticking on Senegal’s ‘total return swaps’
-Not such a FAB way to manage sovereign debt
+## PMQs live: Burnham signals more cost of living support
+UK Prime Minister faces MPs as government tries to calm investors ahead of Budget
 
-## FirstFT: Anthropic withheld AI model from UK testers
-Also in today’s newsletter: US bans Canadian dairy and Revolut targets business banking
+## Kushner and Witkoff’s blind amateurism
+The misguided belief that dangling potential postwar profits can lead to peace has hampered US diplomacy from Ukraine to Gaza and Iran
 
-## Trump gifted top aide Natalie Harp a $45,000 holiday bonus
-Executive assistant’s role has burst into public view in recent weeks
+## Saudi Arabia’s other war enters dangerous new chapter
+Iran-backed Houthis launch biggest attack on the kingdom in years this week, taking their conflict to a new level
 
-## Hedge fund billionaires’ permanent holiday
-Trader Chris Rokos is moving his tax residency from the UK to Greece as Athens woos hedge funds
+## Airlines call for UK air traffic control boss to quit as disruption continues
+Pressure mounts on Martin Rolfe after software failure chaos that grounded more than 1,000 flights on Tuesday stretches into second day
 
-## Anthropic withheld latest AI model from UK testing agency
-Decision to exclude Aisi has prompted fears inside British government of protectionist shift among tech groups
+## Mirrors are reaching new depths
+Reflective surfaces are being used less for vanity and more to create tension, intrigue and a sense of double-take fun
 
-## Warsh might yet be a good Fed chair
-He must stay clear on the objectives of policy and sensible on how the central bank should conduct itself
+## Oil hits $100 for first time since July
+Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch
 
-## BP and Shell’s strategy counterpoint
-Lacking natural advantages and national support of other energy majors, the companies need to be more nimble
+## FirstFT: Oil hits $100 as fears rise over global supplies
+Also in today’s newsletter: Anthropic researcher quits and warns labs are ‘gambling’ with humanity’s future and Bessent warns traders not to bet against the Treasury
 
-## McLaren to create 1,000 UK jobs in product overhaul
-Carmaker will give boost to automotive sector as part of £450mn investment in its Woking technology centre
+## China’s giant trade surplus has an increasingly geopolitical twist
+Partners are faced with a model that combines export-led growth with tech supremacy
 
-## Europe turns to carbon capture in bid to clamp down on emissions
-Also in this newsletter: Brussels’ truce with Apple raises app developer ire
+## Millennium to open office in Greece after investor charm offensive
+Greek government launched tax scheme this summer specifically targeted at hedge fund and private equity executives
 
-## ‘Mini-livers’ offer a new spin on regenerative medicine
-The latest research suggests injectable grafts could provide an alternative to transplantation
+## Silver Lake to merge French software groups in €10bn deal
+Plan comes as buyout groups grapple with impact of AI on software companies bought at high valuations
 
-## How Greece is wooing hedge funds
-Athens has persuaded billionaire Chris Rokos to move his tax residency and has held talks with other funds it hopes will be lured by tax breaks
+## Thiel-backed start-up to mass-produce ‘deep strike’ missiles in Europe and US
+Covenant to open factories in US, Germany and Israel as it looks to disrupt market for long-range weapons
 
-## AI borrowing boom shakes up Swiss credit market
-Bonds from the likes of Alphabet and Amazon have accounted for more than a quarter of Swiss franc corporate issuance this year
+## Anthropic researcher quits over AI labs ‘gambling with our lives’
+Latest departure highlights mounting unease inside Silicon Valley companies racing to build ever more powerful systems
 
-## Sensex today | Stock Market Live: Sensex falls nearly 500 pts, Nifty at 23,530; IT stocks lead losses
-Sensex, Nifty, Share Prices LIVE: Indian equities came under renewed pressure after seven sessions of losses, with rising energy costs, persistent foreign selling and uncertainty over US monetary policy adding to concerns about inflation, growth and the outlook for emerging-market investments.
+## Oil nears $100 as US launches new strikes on Iranian tankers
+American military hit ‘multiple’ ships linked to Revolutionary Guards following attempted missile attacks on US warship
 
-## India condemns Houthi attacks on Saudi oil installations
-Such attacks that undermined regional security and stability and threatened freedom of navigation in the Bab-el-Mandeb were "unacceptable", External Affairs Ministry spokesperson Randhir Jaiswal said.
+## County Group to invest ₹2,500 crore to develop luxury homes in Gurugram
+The 24-acre residential project will have 844 apartments and is scheduled to be completed by 2032
 
-## Chandukaka Saraf enters 200th year in jewellery business, eyes expansion
-The Maharashtra-based family business is preparing for its next phase of growth while balancing its heritage with changing jewellery market expectations
+## APSEZ is highest bidder for two dry bulk berths at Paradip Port, adds 18 mt in Odisha
+The company will develop and operate the two berths under a 30-year concession period
 
-## TerraPay Connects its Wallet Interoperability Network, Xend to Alipay+, Strengthening Global Payments Interoperability
-TerraPay Connects its Wallet Interoperability Network, Xend to Alipay+, Strengthening Global Payments Interoperability
+## Global Fintech Fest “one of the highlights of Indian financial calendar”, says NSE CEO
+NSE CEO Ashish Kumar Chauhan stated, “This GFF is a highlight of the Indian financial calendar and one of the largest events of its kind in the world”
 
-## Futurise Impact Report 2025 Highlights Progress in Regulatory Innovation Future-Ready Technologies
-Futurise Impact Report 2025 Highlights Progress in Regulatory Innovation Future-Ready Technologies
+## PhonePe and Visa partner to power comprehensive cardless payments for Indians globally
+The new solutions aim to simplify payments for Indian consumers travelling abroad while helping small merchants accept cards without dedicated POS hardware.
 
-## Reliance Digital's #TakeTheFirstBite Returns with Reimagined "Mr. iSeek New Phone"
-Reliance Digital's #TakeTheFirstBite Returns with Reimagined "Mr. iSeek New Phone"
+## PM Modi calls for deeper UPI links with overseas payment systems
+Deeper integration of payment systems could also help reduce the cost and time involved in remittances sent by Indians working overseas, says PM
 
-## Thermo King Expands All-Electric EV Series to Advance Urban Cold Chain Transport Across Asia Pacific Region
-Thermo King Expands All-Electric EV Series to Advance Urban Cold Chain Transport Across Asia Pacific Region
+## UIDAI prepares for 25-30 crore Aadhaar authentication a day
+Aadhaar, which began 16 years ago primarily as a government identity platform, has evolved into a foundational layer for India’s digital public infrastructure (DPI), with over 600 entities now using it
 
-## This Ganesh Chaturthi, Let Technology Bring Home Prosperity with Reliance Digital
-This Ganesh Chaturthi, Let Technology Bring Home Prosperity with Reliance Digital
+## Delhi schools to remain closed on September 11 for BRICS Summit
+Holiday covers government, aided and recognised private schools under the Directorate of Education
 
-## Rupee slips to 94.95 as crude nears $100 amid intensifying US-Iran tensions
-On Wednesday, the Indian rupee faced a decline against the US dollar, influenced by rising crude oil prices and growing tensions between the US and Iran. Although a slip in the dollar provided some cushion for the rupee, domestic stock markets suffered losses, with both the Sensex and Nifty falling.
+## BRICS weighs law-enforcement network to track economic fugitives
+Mechanism proposed by India would enable faster informal information-sharing among investigators across member countries
 
-## Adani Airports to raise $1 billion primary equity from marquee global investors
-Adani Airport Holdings secured binding agreements for primary equity capital. Global investors Alpha Wave Global, Premji Invest, Temasek, and BlackRock are participating. These funds will expand airport infrastructure and develop integrated city ecosystems. The company manages eight major Indian air
+## ITR filed under new regime, consultant’s mistake led to old regime & Rs 1.23 lakh demand
+A resident of Ali Asker Road, Bengaluru, Mr Shah filed his income tax return (ITR) under the new tax regime and reported a total income of Rs 32.55 lakh. However, on September 30, 2025, his tax consultant inadvertently filed Form No. 10-IEA.
 
-## Trusted data key to evidence-based policymaking: Das
-
-
-## Dalal Street loses 3000 points in a month amid US-Iran standoff
-On Tuesday, Indian stock markets faced a notable decline, with the Sensex falling by 555 points to close at 75,577. The Nifty also suffered a loss of 144 points, wrapping up at 23,635. Key factors such as escalating crude oil prices, fueled by unrest in the Middle East, and a weakening rupee signifi
-
-## Stock market today: BSE Sensex tumbles over 500 points, NSE Nifty50 opens below 23,500
+## Stock market today: BSE Sensex tanks over 800 points, NSE Nifty50 closes below 23,450
 
 
-## Top stocks to buy today: Stock recommendations for September 9, 2026 - check list
-Stock market recommendations: Titagarh Rail Systems, AIA Engineering, and HBL Engineering - Mehul Kothari, DVP of Technical Research at Anand Rathi Shares has identified these as the top technical stock picks for September 9, 2026.
+## Oil hits $100: Brent crude soars in triple digits after fresh wave of Middle East attacks
+On Wednesday, Brent crude oil prices exceeded one hundred dollars per barrel. Heightened concerns over supply arose following new attacks on oil facilities and tankers in the Middle East. The U.S. military responded by targeting five Iranian tankers, which were involved in missile strikes, while Hou
 
-## Gold prices ease as Middle East tensions fuel rate hike concerns
+## India-US trade deal soon? Commerce secy gives update on long-awaited pact
+India and the United States are nearing a trade deal, focusing on preferential market access. Other trade agreements with Chile and New Zealand are also progressing well. India aims to diversify its services exports beyond IT and professional sectors. The nation sees significant growth potential in 
+
+## Rs 1.43 lakh iPhone order, Chinese phone delivered; panel orders Rs 1.73 lakh refund
+Singh alleged that his return request was turned down by the seller. He further claimed that a company representative subsequently marked the product as damaged, without carrying out a proper inspection or giving him an opportunity to explain what had happened.
+
+## IGIA new master plan sees 50% growth in international capacity by 2030
 
 
-## Husband died in 2006, widow got PF and gratuity; why HC rejected pension claim
-On April 27, 2010, Bank of Maharashtra introduced a one-time option allowing a specified category of serving employees, retired employees and families of deceased employees to join the Pension Scheme, subject to the prescribed terms and conditions.
+## Gold price prediction today: Will gold, silver continue to be volatile? Check September 9, 2026 outlook
+This week so far, the market has faced a different but equally important test. Escalating Middle East tensions, including reports of US strikes near Iran’s Kharg Island and Jask, would traditionally be expected to trigger stronger safe-haven buying.
 
-## 'Undermined regional security': India condemns Houthi attacks on Saudi Arabia
-'Undermined regional security': India condemns Houthi attacks in Saudi Arabia
+## Widow sought rail compensation; ticket bought 4 hours after train left, Delhi High Court rejects
+The Delhi High Court has refused to award compensation in a case involving the death of a man who was allegedly killed after falling from a moving train. The Delhi High Court found that the claimant could not establish the basic requirement of proving that the deceased was a bona fide passenger trav
 
-## DGCA restricts flying activities at UP training schools during BRICS Summit
-DGCA restricts flying activities at UP training schools during BRICS Summit
+## Madras high court uploads handbook for judges for cases involving sexual offences
+This has been done in compliance with the Supreme Court’s directive on inculcating sensitivity and compassion
 
-## 'How could a magistrate dare?': CJI fumes over notice to Noida student who joined CJP protest
-The Noida student who received the notice had allegedly attended the Cockroach Janta Party (CJP)-led student protest at Delhi's Jantar Mantar.
+## Won’t allow our soil to be used for anti-India activities: Sri Lankan President Anura Kumara Dissanayake
+Singh reached Colombo on Tuesday for a three-day official visit aimed at strengthening the maritime and defence partnership
 
-## Madhya Pradesh toxic liquor tragedy: Toll rises as 3 more people die in Sagar
-The family of Krishna Kumar Lodhi, who was among those who died, protested, saying they were not being given his body
+## Maharashtra CM Fadnavis announces legislation for land tokenisation
+The proposed framework aims to provide legal certainty, consumer protection and regulatory oversight for the tokenisation of land assets
 
-## Rekha Gupta orders bulldozer action on illegal construction amid outrage over Satya Niketan PG collapse
-Rekha Gupta directed officials to examine building records to determine when construction took place illegally and which authority had jurisdiction over it.
+## Andhra govt committed to safeguarding people's land rights: CM Naidu
+Andhra govt committed to safeguarding people's land rights: CM Naidu
 
-## ANI moves Delhi high court division bench in OpenAI case
-The agency argued OpenAI had scraped, stored and commercially exploited its work, infringing its exclusive rights under copyright law.
+## Ujjain Municipal Corporation asks IIT Indore to help with relocating temple idol
+The Indian Institutes of Technology team on Tuesday used specialised equipment to study the idol’s depth and surrounding soil
 
-## TMC factions gear up for Bengal bypolls amid fight over symbol
-The nominations can be filed between September 9 and 16.
+## UP: FIR against 31 over forged affidavits in 2020 Bhadohi gangrape case
+UP: FIR against 31 over forged affidavits in 2020 Bhadohi gangrape case
 
-## 5 orangutans’ rescue in Odisha raises trafficking fears
-The state forest department is investigating the potential smuggling network, as these critically endangered species are often sought after in exotic pet trade.
+## Terror charges not dropped against US national, six Ukrainians: Sources
+Terror charges not dropped against US national, six Ukrainians: Sources
 
-## As China embraces AI, only 24% of US pharma execs bet on it for drug-making
+## 'BJP misusing agencies': Karnataka CM Shivakumar slams ED raids at PWD minister's residence
+ED searched 18 locations linked to Jarkiholi, his daughter Priyanka and brother-in-law Y Manjunath in a separate money laundering case.
+
+## Alibaba sends AI ‘digital employees’ to work in rival apps from ByteDance, Tencent
+Alibaba Group Holding is giving users the ability to put artificial intelligence-powered “digital employees” to work within rival office platforms, opening a new competitive front against ByteDance and Tencent Holdings in enterprise AI. The latest version of the QoderWake tool, launched by Alibaba C
+
+## Hong Kong targets biomedicine powerhouse status in debut 5-year plan
+Biomedicine is set to feature in Hong Kong’s first five-year plan, due to be unveiled next week, as the city’s top officials signal closer medical cooperation across the Greater Bay Area. Lending weight to those ambitions, global pharmaceutical company GSK emphasised its interest in expanding its ro
+
+## Insurers Prudential, Manulife seal tech alliances amid Beijing’s tightened tax rules
+Several Hong Kong insurance companies, including Prudential, Manulife and BOC Life, are racing into cross-sector alliances from artificial intelligence underwriting to healthcare tie-ups to strengthen capabilities and efficiency amid China’s tightened cross-border tax rules. Prudential announced a p
+
+## Chinese energy firms warn policy volatility complicates long-term expansion abroad
+Chinese energy firms have called for policy stability in overseas markets as their global investments face mounting geopolitical risks amid headwinds from the oil crisis. The call came from Sungrow Power Supply and EVE Energy executives, who said policy stability topped their expectations at an even
+
+## Chinese stock recovery faces US Fed and oil pressures in September, says top fund manager
+Chinese stocks are likely to trade sideways through September, as resilient earnings growth is weighed down by concerns over potential monetary policy tightening in the United States, according to a recent strategy report by China Asset Management, the country’s second-largest mutual fund firm. Main
+
+## As China embraces AI, only 24% of US pharmaceutical execs bet on it for innovation
 Pharmaceutical companies have embraced artificial intelligence in drug research almost universally, yet few company executives expect AI to actually make drugs succeed, according to a Citi survey released on Tuesday. “The biggest risk to the AI-powered drug discovery thesis is not that AI fails to a
 
 ## China needs monkeys: lab animal shortage could hinder biotech growth
@@ -117,20 +135,8 @@ China’s biotechnology market has “significantly” driven up the demand for 
 ## Planning health like wealth
 [The content of this article has been produced by our advertising partner.] Hongkongers may be increasingly conscious of staying healthy for longer, but awareness alone does not always lead to action. A new survey by Standard Chartered in collaboration with HKSH Medical Group (HKSH) found that nearl
 
-## Chinese court guidance aims to smooth developer bankruptcies, reassure creditors
-China’s Supreme People’s Court has issued the country’s first systematic judicial guidance governing bankruptcy proceedings for property developers, in an effort to end inconsistencies that have slowed disposals and deterred capital in recent years. The framework called for timely reorganisations of
-
-## Oman’s No 2 bank Sohar International to open representative office in Hong Kong this week
-Sohar International Bank, Oman’s second-largest bank by total assets, will open a local representative office in Hong Kong this week, according to sources, underlining the city’s role as a stable financial hub amid Middle East conflicts. CEO Abdulwahid Mohamed Al Murshidi will visit Hong Kong for th
-
-## Octopus Appoints Wonderful to Advance AI Transformation
-[The content of this article has been produced by our advertising partner.] (Hong Kong, 27 August 2026) – Octopus Cards Limited (“Octopus”) has engaged Wonderful to support its applied AI transformation, with a focus on enhancing user experience, advancing smart commerce and contributing to Hong Kon
-
-## Deutsche Bank sees supply chains driving yuan’s rise in global trade
-The global rise of the renminbi, the Chinese currency also known as the yuan, is being driven by shifting supply chains rather than a campaign against the US dollar, according to a senior Deutsche Bank executive, following the German lender’s appointment as Europe’s first non-Chinese renminbi cleari
-
-## Macau kingpin’s former ‘love nest’ finally sells for HK$81m in cut-price deal
-The luxury Hong Kong flat once owned by Mandy Lieu – the former mistress of Macau gambling kingpin Alvin Chau Cheok-wa – has finally been sold at a steep loss for just over HK$81 million (US$10.3 million), according to market sources. The flat on the 38th floor of the Argenta development in Hong Kon
+## German Democracy, as We Knew It, Is Over
+A far-right state election victory is ushering in the end of the country’s postwar political system.
 
 ## Southeast Asia’s Subtle Shift on Taiwan
 An erratic United States and a rising China have the region recalibrating.
@@ -153,8 +159,20 @@ Not every People’s Liberation Army general commands troops.
 ## Berlin Is Shedding Light on the Gray Zone
 Are European countries finally ready to publicly call out Russian sabotage?
 
-## Are Yemen and Saudi Arabia Returning to All-Out War?
-Houthi strikes risk adding a new front to the Iran conflict.
+## Samarkand to Host the Largest Chess Olympiad in History
+The 46th World Chess Olympiad is being held in Samarkand.
+
+## A Himalayan Flood Brings Economic Collapse to Nepal’s Border Region
+The destruction of the Trishuli-Bhotekoshi corridor is a local tragedy with national economic consequences.
+
+## Asia’s Migrant Workers Need Protection from Gulf Wars
+The migrants who build, clean, drive, guard, and operate the Gulf’s economies have become the forgotten civilian casualties in its wars.
+
+## Pax Silica vs WAICO: Will Central Asia Have to Pick a Side?
+One clue as to how the U.S. plans to proceed might be glimpsed in how Uzbekistan progresses in following Kazakhstan into dual membership.
+
+## The Strategic Calculus of Xi Jinping’s Egypt Visit
+Xi’s visit from September 1-2 was significant for both sides, though for different reasons.
 
 ## Pakistan Takes SCO Presidency at a Crucial Time: What to Expect
 As SCO chair, Pakistan can be expected to highlight new connectivity routes via Iran and Central Asia that link the Belt and Road Initiative to the Arabian Sea.
@@ -165,20 +183,14 @@ South Korea has an industrial head start, but is Japan’s upgraded Mogami class
 ## China’s Unity Through Erasure Should Worry Central Asia
 The SCO may serve legitimate Central Asian interests, but it should not become the vehicle through which Beijing’s definitions of security, political loyalty, and ethnic identity become normalized across the Turkic world.
 
-## Is China Really a Cyber Threat to Taiwan?
-Most people assume that China’s cyber capabilities define the totality of its threat to Taiwan, but this simply does not capture the full picture.
+## The Tyranny of Shipyard Cost-Plus Contracting
+As a naval shipyard commander, my mandate from Navy leadership is straightforward: return warships to the fleet as quickly as possible. Neither my shipyard nor many other public and private shipyards are consistently fulfilling that mission.Public shipyard availabilities — the scheduled periods duri
 
-## Indonesia Reopens Airports After Suspension Due to Volcanic Eruption
-The eruption of Anak Krakatau, which is located on a small island in the Sunda Strait, forced the closure of eight airports, including two serving the capital Jakarta.
+## The Strange Transformation of the Front Line in Ukraine
+On Jan. 5, 2025, my volunteer platoon attached to the 23rd Special Purpose Battalion of the Presidential Brigade entered a 1-kilometer-long tree line called CHAI, on the outskirts of Kotlyne, a few kilometers west of Pokrovsk, Ukraine. Our task was to occupy a position whose status on DeepState, an 
 
-## Letters Targeting Kashmiri Pandits Surface on Social Media
-The letters have revived memories of “hit lists” that Islamist militant groups issued in 1989-90.
-
-## Cambodia Confirms Resumption of Joint Military Exercises With US Next Year
-The move reflects the sea change that has taken place in U.S.-Cambodia relations under the second Trump administration.
-
-## Is BRICS Actually Benefiting India?
-As India prepares to host the group's summit, what does it want from BRICS? And what is Delhi actually getting from the group?
+## The Mecca Pact’s Credibility Gap
+Collective-defense pacts are meant to make war less likely. Poorly designed ones can do the opposite. If allies make sweeping promises without the military integration, decision-making mechanisms, and escalation controls needed to carry them out, they may invite adversaries to test the boundaries of
 
 ## The Two Questions Ukraine Asks Before Every Decision
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -194,15 +206,6 @@ Editor’s note: This is the tenth article in a limited series celebrating Ameri
 
 ## Shrinking Buffers: Why Turkey and Israel Are on a Collision Course
 When Israeli warplanes struck the Abu al-Duhur airbase in Syria on Aug. 18, 2026, the smoke rose over the demolition of an old geopolitical assumption about the Middle East. This time, Israel directly targeted a strategic sphere of influence where the Turkish military had been working to build local
-
-## New Complications in Countering the Flow of Arms in the Caribbean
-Arms trafficking in the Caribbean has soared in recent years, with many states now ranking firearms trafficking as the number one public safety and security threat. As new methods of arming individuals and gangs emerge across the Caribbean, gun violence continues to rise throughout the region. While
-
-## The Fruit of Patience: How Regional Shifts Ripened Turkey’s Path to Kurdish Reconciliation
-On Aug. 25, at the People’s Palace in Damascus, Mazloum Abdi announced the dissolution of the Syrian Democratic Forces, which he had commanded for a decade. Speaking first in Arabic and then in Kurdish, he said the force had joined the Syrian army and would no longer operate independently. 15 days e
-
-## The Future of Combat Medicine
-War has always been a brutal engine of medical innovation, running on a feedback loop: Civilian breakthroughs are adapted for the battlefield, while battlefield necessity pushes advances back into civilian care. We asked three experts to identify the innovations from the last five years most likely 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## As SDF disband in Syria, Kurds ponder how to secure their rights
-As the Kurdish forces dissolve, experts express concern if their rights will be won through democratic means.
+## What are the holes in the UK’s ban on imports from Israeli settlements?
+Over a year, the UK imported just £6m ($8.1m) in goods recorded as Palestinian, including Israeli settlement goods.
 
-## US midterm elections: Key takeaways from New Hampshire primaries
-The GOP aims to gain a New England foothold as Democrats strive to retain the Senate seat.
+## Video: RSF drone attack on Sudan court kills at least 13 people
+An RSF drone attack on a court in Sudan’s North Kordofan state has killed at least 13 people and wounded more than 20.
 
-## Why US-Iran war over Hormuz is threatening the Gulf’s waters
-US-Iran attacks on tankers around Hormuz are raising fears of devastating oil spills across the Gulf.
+## Has Iran captured an unmanned US submarine? What we know
+Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible 'had malfunctioned a day ago'.
 
-## Israel’s war leaves Lebanon’s schools balancing students and the displaced
-Schools in Lebanon are set to start on September 15, but many still host people displaced by Israel's war.
+## The losers of the US-Canada trade war
+The losers of the US-Canada trade war
 
-## Jessica Pegula beats Emma Navarro to set up Sabalenka semifinal at US Open
-Pegula claims a 3-6, 6-4, 6-3 win over Navarro in an all-American quarterfinal and will face Sabalenka on Thursday.
+## ‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade
+UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.
 
-## 600-year-old tomb of pre-Incan Chimu kingdom found in Peru
-Archaeologists in Peru have uncovered an almost intact Chimu funerary platform.
+## Yemen war escalates: Who are the key actors involved?
+Here is a look at the main actors currently involved in the conflict.
 
-## The case for the US going back to the firing squad
-John Malcolm of the Meese Institute tells Al Jazeera that the US should ‘go back to a firing squad’.
+## Israel tells UK to close East Jerusalem consulate within 30 days
+Israel announced it would close the consulate after UK said it was imposing sanctions on illegal settlements.
 
-## Cluster munitions kill, wound over 1,000 globally in 2025
-The 1,063 global casualties in 2025 one of the highest annual tolls on record, a report has found.
+## The war in the Gulf will have to end in compromise
+Iran has not surrendered, and the war’s original aims remain unmet.
+
+## Exclusive: Former Philips India finance chief Dev Tripathy joins Integris Medtech as Group CFO
+After an 18 year career at Philips spanning multiple finance leadership roles, Tripathy takes charge of group finance at a global medtech company with operations across 65 countries.
 
 ## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
 Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
@@ -273,8 +279,11 @@ After a major rate rationalisation exercise in its 56th meeting last year, the c
 ## Beyond GDP numbers: What is India’s growth really delivering?
 Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
 
-## CBIC launches NAC portal to bring greater uniformity, transparency in customs assessment
-Digital platform will provide trade access to NAC decisions, CAAR rulings, legal precedents, advisories and audit observations
+## RBI may not need immediate CRR hike as liquidity surplus likely to moderate: UBI Report
+The Reserve Bank of India may not need to raise the cash reserve ratio (CRR) in the immediate term as the banking system's surplus liquidity is expected to moderate through FY27, with the central bank able to use more flexible tools such as variable rate reverse repos and forex swaps, noted a resear
+
+## Supreme Court sends Vedanta’s Rs 5.25 crore SEBI penalty case back to SAT
+The Supreme Court has returned a penalty case to the Securities Appellate Tribunal concerning a Rs 5.25 crore penalty imposed on Cairn India over its 2014 share buyback. The tribunal had annulled SEBI's earlier decision, which accused Cairn of misleading investors and lacking adequate purchase order
 
 ## India may restart bilateral investment treaty talks with UK as model text nears finalisation
 India is close to finalizing its model text for bilateral investment treaty talks with the United Kingdom. Internal discussions on the draft agreement are nearly complete and cabinet approval is expected soon. The government is reviewing measures to make the treaty more attractive for foreign invest
@@ -293,10 +302,4 @@ Union Bank of India expects the RBI to raise the repo rate to 5.75-6% in H2 FY27
 
 ## Finance Ministry notifies norms allowing e-commerce firms to maintain inventory only for exports
 India has relaxed FDI rules for e-commerce exports, allowing foreign-funded e-commerce companies to hold inventory if the goods are made in India and meant only for export. The rule does not allow inventory-based e-commerce for domestic B2C sales, keeping restrictions in place to protect kirana stor
-
-## RBI may use FCNR inflows to shrink its $136.8 billion forward book
-More than $45 billion of the RBI’s total short forward book of $136.8 billion as of end-July 2026 is set to mature between July 2026 and July 2027, creating an opportunity for the central bank to use incoming forex flows to retire some of these positions.
-
-## RBI's swap facility fuels India's forex reserves to defend rupee
-The Reserve Bank of India's special swap windows raised a cumulative $136.3 billion by end‑August exceeding market estimates by a wide margin, likely pushing foreign reserves past $750 billion and giving the central bank firepower to defend the rupee, a report said on Thursday.
 
