@@ -1,70 +1,85 @@
 # AION Intelligence
 
-## PMQs live: Burnham signals more cost of living support
-UK Prime Minister faces MPs as government tries to calm investors ahead of Budget
+## ‘I am the house now’: Bessent warns traders not to bet against yen
+Comments follow July’s rare joint intervention with Tokyo to support Japanese currency
 
-## Kushner and Witkoff’s blind amateurism
-The misguided belief that dangling potential postwar profits can lead to peace has hampered US diplomacy from Ukraine to Gaza and Iran
+## New Apple CEO to unveil $2,000 folding iPhone
+Investors braced for price rises across smartphone line-up as memory costs hit
 
-## Saudi Arabia’s other war enters dangerous new chapter
-Iran-backed Houthis launch biggest attack on the kingdom in years this week, taking their conflict to a new level
+## Number 10 backs UK air traffic control boss as airlines hit out at disruption
+Pressure mounts on Martin Rolfe after software failure chaos that grounded flights on Tuesday stretches into second day
 
-## Airlines call for UK air traffic control boss to quit as disruption continues
-Pressure mounts on Martin Rolfe after software failure chaos that grounded more than 1,000 flights on Tuesday stretches into second day
+## Police investigate Reform UK over donor sting
+Probe follows TV footage of Nigel Farage’s aides allegedly seeking illegal overseas funding
 
-## Mirrors are reaching new depths
-Reflective surfaces are being used less for vanity and more to create tension, intrigue and a sense of double-take fun
+## US Treasury to buy back up to $6bn in long-term bonds
+Scott Bessent seeks to steady government debt market with expanded purchase programme
+
+## The curse of Jets fandom
+Supporting the least successful American professional sports team of the past 15 years requires dedication and tailgate parties
+
+## France’s Le Pen stays silent on far-right victory in German election
+Rassemblement National distances itself from Alternative for Germany ahead of next year’s French presidential vote
 
 ## Oil hits $100 for first time since July
 Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch
 
+## Bezos picks data-focused executive to lead Washington Post turnaround
+
+
+## Adani Group plans international airports push
+Indian conglomerate seeks opportunities of ‘size and relevance’ after US justice department drops charges against billionaire chair Gautam Adani
+
+## Richemont promotes founder’s son as Cartier owner steps up succession planning
+Anton Rupert elevated to co-deputy chair as family-controlled luxury group prepares next generation of family for leadership
+
+## Millennium to follow Rokos in move to Greece
+Greek government launched tax scheme this summer specifically targeted at hedge fund and private equity executives
+
 ## FirstFT: Oil hits $100 as fears rise over global supplies
 Also in today’s newsletter: Anthropic researcher quits and warns labs are ‘gambling’ with humanity’s future and Bessent warns traders not to bet against the Treasury
 
-## China’s giant trade surplus has an increasingly geopolitical twist
-Partners are faced with a model that combines export-led growth with tech supremacy
+## NSE IPO: Indian Bank to divest 17.91% of its stake via OFS
+The expected date of completion of sale is likely to be the end of September
 
-## Millennium to open office in Greece after investor charm offensive
-Greek government launched tax scheme this summer specifically targeted at hedge fund and private equity executives
+## Godavari Biorefineries gets European patent for biofiller for rubber reinforcement
+The invention of biodegradable and eco-friendly biofiller engineered from lignocellulosic biomass is highly efficient and economical
 
-## Silver Lake to merge French software groups in €10bn deal
-Plan comes as buyout groups grapple with impact of AI on software companies bought at high valuations
+## Cabinet clears 8 railway multitracking projects worth ₹ 20,804 crore
+Projects spanning 31 districts across nine States to add about 1,196 km to rail network by 2029-30
 
-## Thiel-backed start-up to mass-produce ‘deep strike’ missiles in Europe and US
-Covenant to open factories in US, Germany and Israel as it looks to disrupt market for long-range weapons
+## India-Russia trade talks to focus on joint ventures, fixing deficits, ahead of Putin visit
+Major Russian companies such as Rostec, Rosatom, Roscosmos, RUSAL, Transmashholding, PhosAgro, the Russian Export Centre and Sber participate in industrial fair
 
-## Anthropic researcher quits over AI labs ‘gambling with our lives’
-Latest departure highlights mounting unease inside Silicon Valley companies racing to build ever more powerful systems
+## NEET-UG protests: Apex court questions UP Magistrate’s notice to student despite its order barring any coercive action against students
+On September 1, the Supreme Court quashed FIRs registered against protestors
 
-## Oil nears $100 as US launches new strikes on Iranian tankers
-American military hit ‘multiple’ ships linked to Revolutionary Guards following attempted missile attacks on US warship
+## Zee’s Subhash Chandra threatens to sue Meta, Youtube, X, LinkedIn India for defamation
+Chandra seeks removal of content allegedly misstating his borrowing and liability
 
-## County Group to invest ₹2,500 crore to develop luxury homes in Gurugram
-The 24-acre residential project will have 844 apartments and is scheduled to be completed by 2032
+## Pocket
 
-## APSEZ is highest bidder for two dry bulk berths at Paradip Port, adds 18 mt in Odisha
-The company will develop and operate the two berths under a 30-year concession period
 
-## Global Fintech Fest “one of the highlights of Indian financial calendar”, says NSE CEO
-NSE CEO Ashish Kumar Chauhan stated, “This GFF is a highlight of the Indian financial calendar and one of the largest events of its kind in the world”
+## JanAI plans 10,000 rural AI cafés by 2029 to drive local jobs
+Community centres aim to democratise AI, solve local problems, create employment opportunities
 
-## PhonePe and Visa partner to power comprehensive cardless payments for Indians globally
-The new solutions aim to simplify payments for Indian consumers travelling abroad while helping small merchants accept cards without dedicated POS hardware.
+## Govt eyes ethanol blending beyond E20 with flex-fuel vehicles, says PM advisor
+India is set to surpass its E20 ethanol blending goal, with plans for the introduction of flex-fuel vehicles that will support higher blends. This initiative aims to decrease dependency on imported crude oil, while the government investigates the potential of biofuels in diesel engines. Moreover, et
 
-## PM Modi calls for deeper UPI links with overseas payment systems
-Deeper integration of payment systems could also help reduce the cost and time involved in remittances sent by Indians working overseas, says PM
+## 86-year-old father alleged son forced him out; HC orders son to vacate home
+When an 86-year-old man bought several parcels of land in his youngest son's name and let him stay with him in the family's ancestral house in Odisha, he did not expect their relationship to eventually turn bad.
 
-## UIDAI prepares for 25-30 crore Aadhaar authentication a day
-Aadhaar, which began 16 years ago primarily as a government identity platform, has evolved into a foundational layer for India’s digital public infrastructure (DPI), with over 600 entities now using it
+## Government-owned fuel retailers lose Rs 5 per litre on petrol, Rs 23 on diesel as oil tops $100 per barrel
+Fuel retailers are experiencing substantial losses per litre on petrol and diesel, as international crude oil prices have recently surpassed one hundred dollars a barrel. India relies on imports for over eighty-eight percent of its crude oil consumption. Despite these soaring prices, retail rates fo
 
-## Delhi schools to remain closed on September 11 for BRICS Summit
-Holiday covers government, aided and recognised private schools under the Directorate of Education
-
-## BRICS weighs law-enforcement network to track economic fugitives
-Mechanism proposed by India would enable faster informal information-sharing among investigators across member countries
+## India’s bullet train shell ready for squeeze test; track testing by May-June 2027
+Addressing the ‘NaMo for Viksit Bharat’ event in Vadodara, Vaishnaw said the first body frame of the bullet train had recently been completed and sent for a squeeze test. “By May or June of next year, India’s own bullet train will be on the tracks for testing. After a testing period of 2-4 months, t
 
 ## ITR filed under new regime, consultant’s mistake led to old regime & Rs 1.23 lakh demand
 A resident of Ali Asker Road, Bengaluru, Mr Shah filed his income tax return (ITR) under the new tax regime and reported a total income of Rs 32.55 lakh. However, on September 30, 2025, his tax consultant inadvertently filed Form No. 10-IEA.
+
+## Small taxpayers, big relief: Rules & forms notified for Foreign Asset Disclosure Scheme 2026; what they mean
+The Foreign Assets of Small Taxpayers - Disclosure Scheme (‘FAST-DS’ or ‘Scheme’) was announced in the Union Budget 2026. The Scheme was notified on 14 August 2026 and came into effect on 16 August 2026.
 
 ## Stock market today: BSE Sensex tanks over 800 points, NSE Nifty50 closes below 23,450
 
@@ -72,44 +87,35 @@ A resident of Ali Asker Road, Bengaluru, Mr Shah filed his income tax return (IT
 ## Oil hits $100: Brent crude soars in triple digits after fresh wave of Middle East attacks
 On Wednesday, Brent crude oil prices exceeded one hundred dollars per barrel. Heightened concerns over supply arose following new attacks on oil facilities and tankers in the Middle East. The U.S. military responded by targeting five Iranian tankers, which were involved in missile strikes, while Hou
 
-## India-US trade deal soon? Commerce secy gives update on long-awaited pact
-India and the United States are nearing a trade deal, focusing on preferential market access. Other trade agreements with Chile and New Zealand are also progressing well. India aims to diversify its services exports beyond IT and professional sectors. The nation sees significant growth potential in 
+## Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday
+INNOPROM India is being held on September 9-11 at Bharat Mandapam, coinciding with the 18th Brics Summit in New Delhi
 
-## Rs 1.43 lakh iPhone order, Chinese phone delivered; panel orders Rs 1.73 lakh refund
-Singh alleged that his return request was turned down by the seller. He further claimed that a company representative subsequently marked the product as damaged, without carrying out a proper inspection or giving him an opportunity to explain what had happened.
+## BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram
+Khedawala rejected the charge of disrespect. He said he stood for the stanzas of Van`de Mataram traditionally sung since 1937
 
-## IGIA new master plan sees 50% growth in international capacity by 2030
+## Shehzad Poonawalla hits back at Rhiya Ahir's ‘uncle’ jibe as Bigg Boss spat escalates: ‘Your IQ matches Rahul Gandhi’s’
+Rhiya Ahir, came into the spotlight after a viral video of her stopping a police van during the CJP protests went viral.
 
+## 3 die while cleaning septic tank in Odisha’ Tarapaguda village: Police
+According to the police, the three workers entered a newly constructed septic tank at a house in Tarapaguda village to clean it
 
-## Gold price prediction today: Will gold, silver continue to be volatile? Check September 9, 2026 outlook
-This week so far, the market has faced a different but equally important test. Escalating Middle East tensions, including reports of US strikes near Iran’s Kharg Island and Jask, would traditionally be expected to trigger stronger safe-haven buying.
+## Mayawati sets 'sanyas' condition to restore nephew Akash Anand's role in BSP
+Mayawati issued an ultimatum to former Rajya Sabha MP Ashok Siddharth, linking the political future of Akash Anand to Siddharth's exit from politics.
 
-## Widow sought rail compensation; ticket bought 4 hours after train left, Delhi High Court rejects
-The Delhi High Court has refused to award compensation in a case involving the death of a man who was allegedly killed after falling from a moving train. The Delhi High Court found that the claimant could not establish the basic requirement of proving that the deceased was a bona fide passenger trav
+## Arunachal is crucial in safeguarding nation’s borders: Vice Prez Radhakrishnan
+He said Arunachal Pradesh has “boundless potential” and occupies a vital place in India’s unity, security and future
 
-## Madras high court uploads handbook for judges for cases involving sexual offences
-This has been done in compliance with the Supreme Court’s directive on inculcating sensitivity and compassion
+## DUSU polls: Curbs on vehicular movement, DU first-year students eligible to file nominations
+First-year students can file nominations using a verified fee receipt, a bonafide certificate with a passport-size photograph and a govt-issued identity card.
 
-## Won’t allow our soil to be used for anti-India activities: Sri Lankan President Anura Kumara Dissanayake
-Singh reached Colombo on Tuesday for a three-day official visit aimed at strengthening the maritime and defence partnership
+## NHAI sets 80% plantation target for highway projects, 90% sapling survival
+Under revised guidelines, contractors will have to plant on at least 80% of the available right of way earmarked for plantation
 
-## Maharashtra CM Fadnavis announces legislation for land tokenisation
-The proposed framework aims to provide legal certainty, consumer protection and regulatory oversight for the tokenisation of land assets
+## Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources
+Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar with the matter. Citic Securities was one of the four underwriters tapped by the Hangzhou-based firm, 
 
-## Andhra govt committed to safeguarding people's land rights: CM Naidu
-Andhra govt committed to safeguarding people's land rights: CM Naidu
-
-## Ujjain Municipal Corporation asks IIT Indore to help with relocating temple idol
-The Indian Institutes of Technology team on Tuesday used specialised equipment to study the idol’s depth and surrounding soil
-
-## UP: FIR against 31 over forged affidavits in 2020 Bhadohi gangrape case
-UP: FIR against 31 over forged affidavits in 2020 Bhadohi gangrape case
-
-## Terror charges not dropped against US national, six Ukrainians: Sources
-Terror charges not dropped against US national, six Ukrainians: Sources
-
-## 'BJP misusing agencies': Karnataka CM Shivakumar slams ED raids at PWD minister's residence
-ED searched 18 locations linked to Jarkiholi, his daughter Priyanka and brother-in-law Y Manjunath in a separate money laundering case.
+## Hysan courts fintech office portfolio as ZA Bank commits to new Causeway Bay headquarters
+Digital bank ZA Bank is taking 45,000 square feet (4,181 square metres) across four upper floors at Hysan Development’s Lee Garden Eight for its new headquarters, adding to a wave of financial and technology companies reshaping Causeway Bay’s commercial landscape. The move comes as landlords across 
 
 ## Alibaba sends AI ‘digital employees’ to work in rival apps from ByteDance, Tencent
 Alibaba Group Holding is giving users the ability to put artificial intelligence-powered “digital employees” to work within rival office platforms, opening a new competitive front against ByteDance and Tencent Holdings in enterprise AI. The latest version of the QoderWake tool, launched by Alibaba C
@@ -129,11 +135,8 @@ Chinese stocks are likely to trade sideways through September, as resilient earn
 ## As China embraces AI, only 24% of US pharmaceutical execs bet on it for innovation
 Pharmaceutical companies have embraced artificial intelligence in drug research almost universally, yet few company executives expect AI to actually make drugs succeed, according to a Citi survey released on Tuesday. “The biggest risk to the AI-powered drug discovery thesis is not that AI fails to a
 
-## China needs monkeys: lab animal shortage could hinder biotech growth
-China’s biotechnology market has “significantly” driven up the demand for primate experimental models as the market recovers, tightening the supply of laboratory monkeys, according to a leading biotech firm. The continued recovery of fundraising and out-licensing deals in innovative drugs in China t
-
-## Planning health like wealth
-[The content of this article has been produced by our advertising partner.] Hongkongers may be increasingly conscious of staying healthy for longer, but awareness alone does not always lead to action. A new survey by Standard Chartered in collaboration with HKSH Medical Group (HKSH) found that nearl
+## How Could Iran Happen? An Autopsy.
+The president’s war on the “deep state” led directly to his debacle in the Middle East.
 
 ## German Democracy, as We Knew It, Is Over
 A far-right state election victory is ushering in the end of the country’s postwar political system.
@@ -155,9 +158,6 @@ The era of easy growth is over, but rich and poor countries can still join force
 
 ## Why Is China’s Officer Corps So Sprawling?
 Not every People’s Liberation Army general commands troops.
-
-## Berlin Is Shedding Light on the Gray Zone
-Are European countries finally ready to publicly call out Russian sabotage?
 
 ## Samarkand to Host the Largest Chess Olympiad in History
 The 46th World Chess Olympiad is being held in Samarkand.
@@ -231,35 +231,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What are the holes in the UK’s ban on imports from Israeli settlements?
-Over a year, the UK imported just £6m ($8.1m) in goods recorded as Palestinian, including Israeli settlement goods.
+## As the UK sanctions Israeli settlements, is the two-state solution dead?
+Analysts say UK move far from enough to drive momentum for Palestinian statehood.
 
-## Video: RSF drone attack on Sudan court kills at least 13 people
-An RSF drone attack on a court in Sudan’s North Kordofan state has killed at least 13 people and wounded more than 20.
+## Jerusalem Daily: Israel retaliates over sanctions on illegal settlements
+A diplomatic rift grows between the UK and Israel after Britain led a ban on trade with illegal Israeli settlements
 
-## Has Iran captured an unmanned US submarine? What we know
-Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible 'had malfunctioned a day ago'.
+## Bangladesh measles deaths surpass 1,000 after vaccination drive falls short
+Bangladesh faces its worst measles outbreak, killing 1,002 children and infecting nearly 190,000 since March.
 
-## The losers of the US-Canada trade war
-The losers of the US-Canada trade war
+## Gaza students with overseas university offers, scholarships remain trapped
+As a new term begins, students promised places abroad face impossible immigration rules.
 
-## ‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade
-UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.
+## Torrential rains, winds from Hurricane Lowell leaves 30,000 without power
+Kauai grapples with flooding and dangerous debris as Hurricane Lowell batters Hawaii’s western coastline overnight.
 
-## Yemen war escalates: Who are the key actors involved?
-Here is a look at the main actors currently involved in the conflict.
+## Hutu and Tutsi: The history behind the divide
+How a colonial legacy continues to shape conflict and identity.
 
-## Israel tells UK to close East Jerusalem consulate within 30 days
-Israel announced it would close the consulate after UK said it was imposing sanctions on illegal settlements.
+## What is Jordan’s Al-Azraq base and why is Iran targeting it?
+Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.
 
-## The war in the Gulf will have to end in compromise
-Iran has not surrendered, and the war’s original aims remain unmet.
+## Pakistan all out for 133 in third Test vs England after squad changes
+England's pacers cleaned up Pakistan in 34 overs after the visitors' top five batters failed to score double figures.
+
+## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
+Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
 
 ## Exclusive: Former Philips India finance chief Dev Tripathy joins Integris Medtech as Group CFO
 After an 18 year career at Philips spanning multiple finance leadership roles, Tripathy takes charge of group finance at a global medtech company with operations across 65 countries.
 
-## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
-Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
+## The CFO's Strategic Role: Balancing Growth, Profitability, and Cash Generation
+In today's corporate landscape, Chief Financial Officers have evolved into essential strategic partners, expertly juggling the demands of growth alongside financial prudence. They adeptly navigate the complexities of profitability and cash flow, utilizing advanced digital tools for more accurate for
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
@@ -276,8 +279,8 @@ Subhash Chandra, along with eight others, is under scrutiny as the CBI has regis
 ## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
 After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
 
-## Beyond GDP numbers: What is India’s growth really delivering?
-Vietnam and Indonesia continue to attract manufacturing opportunities because companies make decisions based on costs, infrastructure, reliability, skills and the ease of moving goods across borders. India needs to compete on those terms. Self-reliance will mean little if it merely replaces imports;
+## RBI launches key surveys to get inputs for monetary policy
+The Reserve Bank of India has launched three key surveys today. These surveys aim to gauge inflation expectations and consumer confidence across India. The Inflation Expectations Survey of Households will capture price movement assessments. Urban and Rural Consumer Confidence Surveys will gather sen
 
 ## RBI may not need immediate CRR hike as liquidity surplus likely to moderate: UBI Report
 The Reserve Bank of India may not need to raise the cash reserve ratio (CRR) in the immediate term as the banking system's surplus liquidity is expected to moderate through FY27, with the central bank able to use more flexible tools such as variable rate reverse repos and forex swaps, noted a resear
@@ -299,7 +302,4 @@ Recently, the Reserve Bank of India undertook measures to absorb more than six l
 
 ## RBI may raise repo rate to 5.75-6% in H2 FY27, rate hike cycle likely from December: UBI
 Union Bank of India expects the RBI to raise the repo rate to 5.75-6% in H2 FY27, from the current 5.25%, with the rate-hike cycle likely beginning in December.
-
-## Finance Ministry notifies norms allowing e-commerce firms to maintain inventory only for exports
-India has relaxed FDI rules for e-commerce exports, allowing foreign-funded e-commerce companies to hold inventory if the goods are made in India and meant only for export. The rule does not allow inventory-based e-commerce for domestic B2C sales, keeping restrictions in place to protect kirana stor
 
