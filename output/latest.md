@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## FirstFT: Singapore’s PM Lawrence Wong receives $1mn pay raise
-Also in today’s newsletter: Meta unveils AI personal assistant and offshore borrowing in China’s currency hits record high
+## Last Seen — Patrick Brammall searches for his long-lost daughter in this Harlan Coben-esque thriller
+Set in small-town Australia, this dreary Apple TV series is studded with explosive melodrama and preposterous plot twists
+
+## US bans Canadian dairy, motorcycles and most alcoholic beverages
+Trump administration announces move day after Ottawa imposed US$20bn in retaliatory tariffs on US goods
+
+## OpenAI faces competing claims around maths breakthrough
+Chief executive Sam Altman says the lab was threatened with ‘unfounded accusations of plagiarism’
 
 ## Oil nears $100 as US launches new strikes on Iranian tankers
 American military hit ‘multiple’ ships linked to Iran’s Revolutionary Guards in response to more attempted missile attacks on a US Navy warship
+
+## War and weather threaten another burst of UK inflation, BoE governor warns
+Comments by Andrew Bailey add to problems facing Andy Burnham ahead of next month’s Budget
+
+## FirstFT: Singapore’s PM Lawrence Wong receives $1mn pay raise
+Also in today’s newsletter: Meta unveils AI personal assistant and offshore borrowing in China’s currency hits record high
 
 ## Heathrow and Gatwick flights disrupted by air traffic control failure
 National Air Traffic Services says its systems are ‘starting to recover’ but tens of thousands of passengers remain stranded
@@ -12,50 +24,47 @@ National Air Traffic Services says its systems are ‘starting to recover’ but
 ## Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO
 Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners
 
-## Meta unveils AI personal assistant linked to WhatsApp and Instagram
-New ‘agent’ called Muse designed to make customised suggestions based on chats and social media activity
-
-## Tung Chee-hwa, Hong Kong’s first chief executive, 1937-2026
-Political leader whose administration was buffeted by the Asian financial crisis, Sars epidemic and a contentious security bill
-
-## UK says it will force tech giants to stop children sharing nude images
-Culture secretary said Apple and Google would be forced ‘to build in device-level protections for children’
-
-## Smithsonian head to resign after Trump attacks US slavery exhibits
-Lonnie Bunch announces retirement following pressure from White House over how the museum complex portrays US history
+## CVC hires Todd Sisitsky with plans to name him co-chief
+London-based private capital group brings on TPG executive as part of succession plan for chief Rob Lucas
 
 ## LIV Golf files for bankruptcy with at least $500mn in liabilities
 Saudi Arabia-backed league confirms a preliminary deal with BC Partners to fund a LIV 2.0
 
+## Meta unveils AI personal assistant linked to WhatsApp and Instagram
+New ‘agent’ called Muse designed to make customised suggestions based on chats and social media activity
+
 ## Investors led by L Catterton to buy controlling stake in Hyrox
 German fitness company has become a global phenomenon since the Covid pandemic
 
-## Gaming group Evolution’s own report found it made money in banned markets
-Report has been disclosed as part of a legal battle with Black Cube despite Evolution seeking to keep it under wraps
+## Tung Chee-hwa, Hong Kong’s first chief executive, 1937-2026
+Political leader whose administration was buffeted by the Asian financial crisis, Sars epidemic and a contentious security bill
 
-## NSE set to price IPO at ₹1,700-₹1,785 a share: report
+## Tamil Nadu debt-to-GSDP ratio within norms, but rising deficits need close watch: CAG
+Recent audit findings also highlighted higher electricity procurement costs caused by delays in completing planned power projects
 
+## M3M emerges highest bidder for 12.5-acre Noida land parcel at ₹1,850 crore
+The auction drew participation from two major realty groups, underscoring strong interest in a strategically located development parcel.
 
-## Earthquake in Nepal: 5.3 magnitude tremor hits Mustang
-The tremor was felt across neighbouring districts, though authorities reported no immediate damage following the earthquake late Tuesday evening.
+## Torrent Gas files updated draft prospectus for IPO
+The Ahmedabad-based gas distributor is entering the public market as India’s IPO activity shows signs of regaining momentum after a slower period
 
-## Gestamp’s hot-stamped steel in Indian cars surges sixfold as Bharat NCAP widens safety race
-Gestamp India is betting on rising demand for safer, lighter vehicle structures as Bharat NCAP and five-star crash ratings push advanced structural technologies deeper into mass-market cars.
+## US bans Canadian dairy, alcohol and motorcycles amid tariff retaliation
+The latest measures deepen a rupture between two closely integrated economies as Ottawa seeks greater independence from its largest trading partner.
 
-## Apple Event 2026: Foldable iPhone, AI integration, and a new face on stage
-In a first, Apple is likely to skip the base iPhone 18 variant and instead launch the iPhone 18 Pro and iPhone 18 Pro Max variants
+## US strikes multiple Iranian tankers amid fresh tit-for-tat attacks
+The latest attacks deepen tensions around a waterway carrying about one-fifth of global oil supplies before the war began
 
-## Indian AI developers enhancing security architectures to prevent rogue behaviors
-The central challenge facing developers is how much they delegate to the AI systems.
+## US imposes fresh sanctions on Iran’s aviation industry
+Washington is seeking to cut Tehran off from remaining trading partners by targeting aviation networks and other economic lifelines
 
-## Putin, Modi to discuss trade, defence deals, local currency payments on Friday: Kremlin
-New Delhi wants Moscow to address widening trade deficit by importing more; Russia not seeking `de-dollarisation’
+## Singapore Airlines says Air India investment funded through internal resources
+The airline said its cash reserves and committed credit lines provide sufficient financial strength while its board continues to oversee the investment
 
-## Navy Chief Admiral Krishna Swaminathan to visit Australia, New Zealand to boost ties
-He will visit Australia first, followed by New Zealand
+## CCI closes Google real money gaming case citing Online Gaming Act
+The regulator said continuing the inquiry would not restore market access, improve consumer choice or remedy an ongoing market distortion
 
-## REIT-backed office space expands 74% on-year in first half of 2026
-Listed office REITs now hold 167 million sq ft, highest penetration in Bengaluru, while 36 million sq ft is under construction
+## Copper hits all-time high, Brent nears century mark
+Crude Shock: Indian Basket Trades Above $100 Per Barrel
 
 ## Digital asset firms court sovereign funds
 
@@ -77,9 +86,6 @@ The National Stock Exchange's Rs 30,000-crore initial public offering is anticip
 
 ## Robust GDP, record forex: Why economic boom is still taking a bite out of your breakfast
 India's economy grew strongly, yet everyday food prices are increasing. Sugar and edible oil costs have risen significantly, impacting household budgets. Packaged food companies face higher input costs and may increase prices. Global food prices are also showing upward pressure, affecting domestic m
-
-## Indian startup unveils testing & manufacturing hubs to validate reusable rocket stages
-Indian space startup Agnikul Cosmos inaugurated two new facilities in Chennai. These facilities will support testing and manufacturing of reusable rocket stages. The company aims to develop reusable launch vehicle technology for future missions. Agnikul Cosmos already designs and manufactures its ow
 
 ## Anganwadis across UP were in disarray under previous govt, says Yogi; hikes honorarium for workers
 Anganwadis across UP were in disarray under previous govt, says Yogi; hikes honorarium for workers
@@ -105,6 +111,9 @@ Police said that a suicide note was recovered from the spot, in which the retire
 ## India, China military commanders hold rare border talks in Arunachal sector
 The first session of the flag meeting between the senior military commanders was held on the Indian side on Sunday and the second session on the Chinese side.
 
+## Macau kingpin’s former ‘love nest’ finally sells for HK$81m in cut-price deal
+The luxury Hong Kong flat once owned by Mandy Lieu – the former mistress of Macau gambling kingpin Alvin Chau Cheok-wa – has finally been sold at a steep loss for just over HK$81 million (US$10.3 million), according to market sources. The flat on the 38th floor of the Argenta development in Hong Kon
+
 ## HKU launches wealth management academy to boost city’s role as hub for ‘new money’
 Hong Kong’s first university-led wealth management academy was launched on Tuesday, as the city’s rapidly expanding private-wealth industry competes for professionals capable of serving increasingly sophisticated and international clients. The Wealth Management Academy, established by The University
 
@@ -125,9 +134,6 @@ Hong Kong and mainland Chinese stocks face a high-stakes week as investors navig
 
 ## Hong Kong celebrity Jeffrey Ngai splashes out on US$16,000 rental home
 Hong Kong singer, actor and model Jeffrey Ngai Tsun-sang recently moved into a luxury residence in Mid-Levels East with a monthly rent of HK$130,000 (US$16,581), highlighting strong demand in the high-end segment, according to market sources. The luxury residence was a duplex, where Ngai, 28, would 
-
-## Foreign, mainland students flock to Hong Kong, sparking property demand in education sector
-Hong Kong’s bid to become a global education hub is likely to transform the sector as a sustainable source of property demand, with the city tipped to see around 200,000 non-local students by 2035, according to CBRE. The city’s international schools are estimated to require enormous additional real 
 
 ## Why Is China’s Officer Corps So Sprawling?
 Not every People’s Liberation Army general commands troops.
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Protesters, police clash in Albania over Trump-linked project
-Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump.
+## Sharpeville massacre, 66 years on: Families still wait for justice
+More than six decades after police opened fire on protesters, survivors and relatives are taking their fight to court.
 
-## Haaland to the double as Manchester City beat Porto in Champions League
-Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
+## Anti-AfD protesters rally in Cologne after far-right election win
+Thousands of protesters rallied in Cologne against the AfD after the far-right group's election victory.
 
-## What the UK ban on goods from illegal Israeli settlements really means
-Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.
+## Marco Rubio says US seeks more economic and security ties in Latin America
+The US secretary of state visits Colombia, Ecuador and Peru in a bid to enhance cooperation with right-wing allies.
 
-## US warns Ford over ties with Chinese firms amid tensions
-US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.
+## US attacks 5 Iranian oil tankers, Iran retaliates with strikes on Jordan
+US military says it struck the five Iranian tankers after IRGC targeted a US warship twice in two days.
 
-## Real Madrid beat Inter Milan as Mbappe goal sets Mourinho’s men on way
-Kylian Mbappe opens the scoring but Real Madrid fail to convince in 2-1 Champions League win against Inter Milan.
+## Suspected smugglers on trial over deadliest migrant tragedy in France
+Paris trial begins over deadly Channel tragedy, with 14 facing charges for manslaughter.
 
-## Hundreds of flights delayed, cancelled after UK air traffic control glitch
-Air traffic control provider NATS under scrutiny after technical fault disrupts UK air traffic.
+## Iran war live: US hits Iranian tankers, IRGC attacks US base in Jordan
+Iran's IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack.
 
-## US forces sink vessel ‘linked to Ecuador criminal gang’
-The US military says it intercepted and sank a floating refueling station in the eastern Pacific.
+## US increases pressure on Iran with sanctions targeting aviation sector
+Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country's economy.
 
-## Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist
-Ballon d'Or Ousmane Dembele among favourites, with Kylian Mbappe, Lamine Yamal and Harry Kane, as 2026 shortlist named.
+## US bombs five Iranian oil tankers after its navy is attacked
+The US military has released video of its forces destroying what it says are five Iranian crude oil tankers.
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
