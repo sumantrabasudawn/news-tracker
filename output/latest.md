@@ -1,7 +1,13 @@
 # AION Intelligence
 
-## Foldable iPhone will cost $1,999 as Apple raises smartphone prices
+## Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’
+Paul Christiano says technology could ‘kill most people’ without stronger safety features
+
+## Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices
 Pro and Max models will be $100 more expensive than last year’s versions as the company faces supply chain pressures
+
+## Oil hits $100 for first time since July
+Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch
 
 ## Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors
 10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme
@@ -15,26 +21,23 @@ AI labs have huge private market valuations, but are seeking the investment-grad
 ## JPMorgan chief Dimon meets Burnham amid Budget windfall tax fears
 Trade unions have called on chancellor John Healey and PM to target banks in next month’s fiscal event
 
-## Oil hits $100 for first time since July
-Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch
-
 ## ‘I am the house now’: Bessent warns traders not to bet against yen
 Comments follow July’s rare joint intervention with Tokyo to support Japanese currency
 
-## Number 10 backs UK air traffic control boss as airlines hit out at disruption
-Pressure mounts on Martin Rolfe after software failure chaos that grounded flights on Tuesday stretches into second day
-
 ## Windscreen giant Belron explores mega-IPO
 Autoglass owner is led by former AB InBev boss Carlos Brito
-
-## OpenAI names top US official from model testing agency to its board
-Former housemate of Anthropic chief joins ChatGPT maker as AI labs accused of regulatory capture
 
 ## Tether launches private credit fund in effort to boost stablecoin use
 Move by world’s largest stablecoin issuer comes as market faces challenging conditions
 
 ## The cost of UK air disruptions spreads far beyond the hit to airlines’ profit
 Air travel isn’t the only segment of UK infrastructure showing signs of strain
+
+## Apple event 2026: CEO John Ternus unveils latest iPhone lineup
+Includes a foldable model called Duo priced at $1,999(₹2,99,990) in India
+
+## Apple debuts foldable iPhone Duo in biggest-ever device revamp
+Apple increased the price of the Pro models by $100. The iPhone 18 Pro will be $1,199, while the Pro Max will cost $1,299.
 
 ## US suspends Cognizant’s green card filings for employees; move curbs ability of Indian IT to attract and retain foreign talent
 As the crackdown on immigration-related fraud intensifies, experts warn that this could hinder long-term project delivery and create uncertainty among foreign employees in the US.
@@ -54,11 +57,17 @@ The Indian currency rupee closed at 95.10 per dollarUSD, down 29 paise against t
 ## Letters to the Editor dated September 9, 2026
 
 
-## Copthall, Mansi regain market access after depositing ₹3.68 crore
-SEBI lifts broader trading restrictions, but debarment from the closing auction session remains
+## NSE cuts IPO size, may raise 23.5k crore
 
-## OpenAI faces scrutiny over alleged Codex leak for Navier-Stokes
-Mathematician Tristan Buckmaster says the company’s claimed proof followed the same approach he and Anthropic’s Levent Alpoge were preparing to publish
+
+## Skoda Auto, JSW sign MoU to explore PV joint venture
+
+
+## With iPhone Duo, Apple makes entry into foldable market
+Takes On Samsung, Google | Launches iPhone 18 Pro Series
+
+## Adani Airports to raise $1 billion equity from global investors
+Co Valued At $18Bn, One Of Largest Bets From FIs In Sector
 
 ## India’s exports grew over 15% in first five months of FY2026-27, says commerce minister Piyush Goyal
 India's merchandise exports have grown over fifteen percent in the current fiscal year. This growth highlights BRICS economies' potential to deepen trade in goods and services. Businesses face challenges accessing finance, buyers, and predictable rules for international trade. BRICS nations are expl
@@ -72,17 +81,8 @@ When an 86-year-old man bought several parcels of land in his youngest son's nam
 ## Government-owned fuel retailers lose Rs 5 per litre on petrol, Rs 23 on diesel as oil tops $100 per barrel
 Fuel retailers are experiencing substantial losses per litre on petrol and diesel, as international crude oil prices have recently surpassed one hundred dollars a barrel. India relies on imports for over eighty-eight percent of its crude oil consumption. Despite these soaring prices, retail rates fo
 
-## India’s bullet train shell ready for squeeze test; track testing by May-June 2027
-Addressing the ‘NaMo for Viksit Bharat’ event in Vadodara, Vaishnaw said the first body frame of the bullet train had recently been completed and sent for a squeeze test. “By May or June of next year, India’s own bullet train will be on the tracks for testing. After a testing period of 2-4 months, t
-
-## ITR filed under new regime, consultant’s mistake led to old regime & Rs 1.23 lakh demand
-A resident of Ali Asker Road, Bengaluru, Mr Shah filed his income tax return (ITR) under the new tax regime and reported a total income of Rs 32.55 lakh. However, on September 30, 2025, his tax consultant inadvertently filed Form No. 10-IEA.
-
-## Small taxpayers, big relief: Rules & forms notified for Foreign Asset Disclosure Scheme 2026; what they mean
-The Foreign Assets of Small Taxpayers - Disclosure Scheme (‘FAST-DS’ or ‘Scheme’) was announced in the Union Budget 2026. The Scheme was notified on 14 August 2026 and came into effect on 16 August 2026.
-
-## Stock market today: BSE Sensex tanks over 800 points, NSE Nifty50 closes below 23,450
-
+## Scaffolding collapses at under-construction complex in Gujarat's Gandhinagar; 12 workers rescued, 10 still trapped
+Slab casting was underway at Bosky The Empire when the scaffolding failed and a slab between two units collapsed.
 
 ## iPhone 18 India prices: Pro starts at ₹1,64,900; Pro Max priced from ₹1,79,900
 Apple has unveiled the iPhone 18 Pro and iPhone 18 Pro Max with Siri AI and a new burgundy colour. Here's everything Indian buyers need to know.
@@ -104,9 +104,6 @@ The projects will cover 31 districts in West Bengal, Jharkhand, Odisha, Madhya P
 
 ## Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday
 INNOPROM India is being held on September 9-11 at Bharat Mandapam, coinciding with the 18th Brics Summit in New Delhi
-
-## BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram
-Khedawala rejected the charge of disrespect. He said he stood for the stanzas of Van`de Mataram traditionally sung since 1937
 
 ## Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources
 Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar with the matter. Citic Securities was one of the four underwriters tapped by the Hangzhou-based firm, 
@@ -132,6 +129,9 @@ Chinese stocks are likely to trade sideways through September, as resilient earn
 ## As China embraces AI, only 24% of US pharmaceutical execs bet on it for innovation
 Pharmaceutical companies have embraced artificial intelligence in drug research almost universally, yet few company executives expect AI to actually make drugs succeed, according to a Citi survey released on Tuesday. “The biggest risk to the AI-powered drug discovery thesis is not that AI fails to a
 
+## What India Gets Out of BRICS
+Ahead of the group’s leaders’ summit, New Delhi is pulling out the stops.
+
 ## Why Germany Isn’t Punishing Russia Harder
 Domestic politics constrains Berlin’s ability to respond to an attempted drone attack.
 
@@ -152,9 +152,6 @@ Self-help is becoming more vital in a vicious world.
 
 ## How to Write Better Rules for Global Finance
 The importance of a “common good” compass.
-
-## A New Engine of Development
-The era of easy growth is over, but rich and poor countries can still join forces.
 
 ## Russia Is Helping Supercharge North Korea’s Military Drones
 North Korea, already receiving Russian drone technology, could eventually gain access to more advanced capabilities like autonomous AI‑enabled and jet‑powered drones.
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US records hottest summer in 132 years
-The United States had its hottest summer since records began, says NOAA, with August also setting a new heat record.
+## US court denies Tate brothers’ bid to be released from Miami jail
+A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel.
 
-## Breathing depends on a cylinder: Gaza faces medical oxygen crisis
-Only 12 of Gaza's 34 oxygen-generation stations remain operational, worsening the health crisis in the besieged enclave.
+## Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League
+Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.
 
-## Zelenskyy’s plane ‘almost hit’ by drone on way to Oslo, Norwegian PM says
-Jonas ​Gahr Store says incident happened when jet ⁠⁠carrying Ukrainian president took off from Moldova.
+## Manchester United vs Sabah: UEFA Champions League – preview, team news
+Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.
 
-## Explosion at depot storing weapons left from Syria war kills 14
-An explosion tore through a temporary weapons depot near Sarmada, in northwestern Syria killing at least 14 people
+## Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
+Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
 
-## Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says
-Pakistan warns Mecca defence agreement may be activated if Yemen's Houthi rebels continue targeting Saudi Arabia.
+## Trump says Iran war ‘will end immediately’ after US midterm elections
+The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.
 
-## How significant are new European sanctions on illegal Israeli settlements?
-Israel is accused of the ethnic cleansing of Palestinians.
+## Guterres pays tribute to Qatar’s late Father Emir at UN ceremony
+UN Secretary General Antonio Guterres has paid tribute to Qatar’s late Father Emir Sheikh Hamad bin Khalifa Al Thani.
 
-## Back to work, not school: Yemen’s crisis forces children to drop out
-Struggling families in Yemen are forced to choose between education and survival amid mounting economic challenges.
+## Trump says Putin wants to make a deal to end Ukraine war
+US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine.
 
-## Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil
-The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.
+## Pro-Palestinian protesters oppose Israel embassy opening in Slovenia
+Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.
 
 ## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
 Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
