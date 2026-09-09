@@ -1,67 +1,67 @@
 # AION Intelligence
 
-## ‘I am the house now’: Bessent warns traders not to bet against yen
-Comments follow July’s rare joint intervention with Tokyo to support Japanese currency
+## Foldable iPhone will cost $1,999 as Apple raises smartphone prices
+Pro and Max models will be $100 more expensive than last year’s versions as the company faces supply chain pressures
 
-## New Apple CEO to unveil $2,000 folding iPhone
-Investors braced for price rises across smartphone line-up as memory costs hit
+## Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors
+10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme
 
-## Number 10 backs UK air traffic control boss as airlines hit out at disruption
-Pressure mounts on Martin Rolfe after software failure chaos that grounded flights on Tuesday stretches into second day
+## US spy chief prepares for greater role in Russia-Ukraine talks
+CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv
 
-## Police investigate Reform UK over donor sting
-Probe follows TV footage of Nigel Farage’s aides allegedly seeking illegal overseas funding
+## AI labs test the rigour of credit rating agencies
+AI labs have huge private market valuations, but are seeking the investment-grade score of public groups such as Oracle
 
-## US Treasury to buy back up to $6bn in long-term bonds
-Scott Bessent seeks to steady government debt market with expanded purchase programme
-
-## The curse of Jets fandom
-Supporting the least successful American professional sports team of the past 15 years requires dedication and tailgate parties
-
-## France’s Le Pen stays silent on far-right victory in German election
-Rassemblement National distances itself from Alternative for Germany ahead of next year’s French presidential vote
+## JPMorgan chief Dimon meets Burnham amid Budget windfall tax fears
+Trade unions have called on chancellor John Healey and PM to target banks in next month’s fiscal event
 
 ## Oil hits $100 for first time since July
 Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch
 
-## Bezos picks data-focused executive to lead Washington Post turnaround
+## ‘I am the house now’: Bessent warns traders not to bet against yen
+Comments follow July’s rare joint intervention with Tokyo to support Japanese currency
+
+## Number 10 backs UK air traffic control boss as airlines hit out at disruption
+Pressure mounts on Martin Rolfe after software failure chaos that grounded flights on Tuesday stretches into second day
+
+## Windscreen giant Belron explores mega-IPO
+Autoglass owner is led by former AB InBev boss Carlos Brito
+
+## OpenAI names top US official from model testing agency to its board
+Former housemate of Anthropic chief joins ChatGPT maker as AI labs accused of regulatory capture
+
+## Tether launches private credit fund in effort to boost stablecoin use
+Move by world’s largest stablecoin issuer comes as market faces challenging conditions
+
+## The cost of UK air disruptions spreads far beyond the hit to airlines’ profit
+Air travel isn’t the only segment of UK infrastructure showing signs of strain
+
+## US suspends Cognizant’s green card filings for employees; move curbs ability of Indian IT to attract and retain foreign talent
+As the crackdown on immigration-related fraud intensifies, experts warn that this could hinder long-term project delivery and create uncertainty among foreign employees in the US.
+
+## India Inc taps corporate bond market amid liquidity surplus and rate hike concerns
+Excess liquidity in the system has arisen because banks swapped the $127.23 billion of inflows raised through FCNR(B) deposits with the central bank, thereby receiving an equivalent amount of rupee liquidity
+
+## Ladakh, Centre hold fresh talks on constitutional safeguards
+The meeting was attended by representatives of the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA), and senior government officials
+
+## Restrategising sovereignty: Industry players bat for a rethink in digital infrastructure approach
+We seem to have created some sort of a mishmash that sovereignty is about data residence, says Airtel’s Rahul Vatts
+
+## Surging crude oil prices: Rupee breaches 95/dollar mark
+The Indian currency rupee closed at 95.10 per dollarUSD, down 29 paise against the previous close of 94.81
+
+## Letters to the Editor dated September 9, 2026
 
 
-## Adani Group plans international airports push
-Indian conglomerate seeks opportunities of ‘size and relevance’ after US justice department drops charges against billionaire chair Gautam Adani
+## Copthall, Mansi regain market access after depositing ₹3.68 crore
+SEBI lifts broader trading restrictions, but debarment from the closing auction session remains
 
-## Richemont promotes founder’s son as Cartier owner steps up succession planning
-Anton Rupert elevated to co-deputy chair as family-controlled luxury group prepares next generation of family for leadership
+## OpenAI faces scrutiny over alleged Codex leak for Navier-Stokes
+Mathematician Tristan Buckmaster says the company’s claimed proof followed the same approach he and Anthropic’s Levent Alpoge were preparing to publish
 
-## Millennium to follow Rokos in move to Greece
-Greek government launched tax scheme this summer specifically targeted at hedge fund and private equity executives
-
-## FirstFT: Oil hits $100 as fears rise over global supplies
-Also in today’s newsletter: Anthropic researcher quits and warns labs are ‘gambling’ with humanity’s future and Bessent warns traders not to bet against the Treasury
-
-## NSE IPO: Indian Bank to divest 17.91% of its stake via OFS
-The expected date of completion of sale is likely to be the end of September
-
-## Godavari Biorefineries gets European patent for biofiller for rubber reinforcement
-The invention of biodegradable and eco-friendly biofiller engineered from lignocellulosic biomass is highly efficient and economical
-
-## Cabinet clears 8 railway multitracking projects worth ₹ 20,804 crore
-Projects spanning 31 districts across nine States to add about 1,196 km to rail network by 2029-30
-
-## India-Russia trade talks to focus on joint ventures, fixing deficits, ahead of Putin visit
-Major Russian companies such as Rostec, Rosatom, Roscosmos, RUSAL, Transmashholding, PhosAgro, the Russian Export Centre and Sber participate in industrial fair
-
-## NEET-UG protests: Apex court questions UP Magistrate’s notice to student despite its order barring any coercive action against students
-On September 1, the Supreme Court quashed FIRs registered against protestors
-
-## Zee’s Subhash Chandra threatens to sue Meta, Youtube, X, LinkedIn India for defamation
-Chandra seeks removal of content allegedly misstating his borrowing and liability
-
-## Pocket
-
-
-## JanAI plans 10,000 rural AI cafés by 2029 to drive local jobs
-Community centres aim to democratise AI, solve local problems, create employment opportunities
+## India’s exports grew over 15% in first five months of FY2026-27, says commerce minister Piyush Goyal
+India's merchandise exports have grown over fifteen percent in the current fiscal year. This growth highlights BRICS economies' potential to deepen trade in goods and services. Businesses face challenges accessing finance, buyers, and predictable rules for international trade. BRICS nations are expl
 
 ## Govt eyes ethanol blending beyond E20 with flex-fuel vehicles, says PM advisor
 India is set to surpass its E20 ethanol blending goal, with plans for the introduction of flex-fuel vehicles that will support higher blends. This initiative aims to decrease dependency on imported crude oil, while the government investigates the potential of biofuels in diesel engines. Moreover, et
@@ -84,32 +84,29 @@ The Foreign Assets of Small Taxpayers - Disclosure Scheme (‘FAST-DS’ or ‘S
 ## Stock market today: BSE Sensex tanks over 800 points, NSE Nifty50 closes below 23,450
 
 
-## Oil hits $100: Brent crude soars in triple digits after fresh wave of Middle East attacks
-On Wednesday, Brent crude oil prices exceeded one hundred dollars per barrel. Heightened concerns over supply arose following new attacks on oil facilities and tankers in the Middle East. The U.S. military responded by targeting five Iranian tankers, which were involved in missile strikes, while Hou
+## iPhone 18 India prices: Pro starts at ₹1,64,900; Pro Max priced from ₹1,79,900
+Apple has unveiled the iPhone 18 Pro and iPhone 18 Pro Max with Siri AI and a new burgundy colour. Here's everything Indian buyers need to know.
+
+## US suspends Cognizant's green card filings: How will the move affect Indians?
+PERM filings refer to the labour certification process that US employers must complete before sponsoring a foreign worker for an employment based green card.
+
+## ‘Ashamed of Mumbai-Goa Highway delays’: Nitin Gadkari at Porvorim corridor event
+Gadkari said the Mumbai-Goa Highway had been hopelessly delayed, and the contractors executing the project had failed.
+
+## MCD surveys 1,252 PG buildings after Satya Niketan tragedy; 3 found 'dangerous', 9 need major repairs
+The civic body has separately identified 26 framed structures above G+4 floors on Wednesday for close monitoring as they may be vulnerable.
+
+## YouTuber Ajit Bharti moves Delhi HC against trial court order denying anticipatory bail
+Ajit Bharti has challenged the September 7 order of a Delhi trial court which dismissed his anticipatory bail application.
+
+## CCEA clears ₹20,804 crore rail upgrade to ease congestion across 9 states
+The projects will cover 31 districts in West Bengal, Jharkhand, Odisha, Madhya Pradesh, Chhattisgarh, Tamil Nadu, Andhra Pradesh, Karnataka and Telangana
 
 ## Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday
 INNOPROM India is being held on September 9-11 at Bharat Mandapam, coinciding with the 18th Brics Summit in New Delhi
 
 ## BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram
 Khedawala rejected the charge of disrespect. He said he stood for the stanzas of Van`de Mataram traditionally sung since 1937
-
-## Shehzad Poonawalla hits back at Rhiya Ahir's ‘uncle’ jibe as Bigg Boss spat escalates: ‘Your IQ matches Rahul Gandhi’s’
-Rhiya Ahir, came into the spotlight after a viral video of her stopping a police van during the CJP protests went viral.
-
-## 3 die while cleaning septic tank in Odisha’ Tarapaguda village: Police
-According to the police, the three workers entered a newly constructed septic tank at a house in Tarapaguda village to clean it
-
-## Mayawati sets 'sanyas' condition to restore nephew Akash Anand's role in BSP
-Mayawati issued an ultimatum to former Rajya Sabha MP Ashok Siddharth, linking the political future of Akash Anand to Siddharth's exit from politics.
-
-## Arunachal is crucial in safeguarding nation’s borders: Vice Prez Radhakrishnan
-He said Arunachal Pradesh has “boundless potential” and occupies a vital place in India’s unity, security and future
-
-## DUSU polls: Curbs on vehicular movement, DU first-year students eligible to file nominations
-First-year students can file nominations using a verified fee receipt, a bonafide certificate with a passport-size photograph and a govt-issued identity card.
-
-## NHAI sets 80% plantation target for highway projects, 90% sapling survival
-Under revised guidelines, contractors will have to plant on at least 80% of the available right of way earmarked for plantation
 
 ## Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources
 Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar with the matter. Citic Securities was one of the four underwriters tapped by the Hangzhou-based firm, 
@@ -135,6 +132,9 @@ Chinese stocks are likely to trade sideways through September, as resilient earn
 ## As China embraces AI, only 24% of US pharmaceutical execs bet on it for innovation
 Pharmaceutical companies have embraced artificial intelligence in drug research almost universally, yet few company executives expect AI to actually make drugs succeed, according to a Citi survey released on Tuesday. “The biggest risk to the AI-powered drug discovery thesis is not that AI fails to a
 
+## Why Germany Isn’t Punishing Russia Harder
+Domestic politics constrains Berlin’s ability to respond to an attempted drone attack.
+
 ## How Could Iran Happen? An Autopsy.
 The president’s war on the “deep state” led directly to his debacle in the Middle East.
 
@@ -156,32 +156,32 @@ The importance of a “common good” compass.
 ## A New Engine of Development
 The era of easy growth is over, but rich and poor countries can still join forces.
 
-## Why Is China’s Officer Corps So Sprawling?
-Not every People’s Liberation Army general commands troops.
+## Russia Is Helping Supercharge North Korea’s Military Drones
+North Korea, already receiving Russian drone technology, could eventually gain access to more advanced capabilities like autonomous AI‑enabled and jet‑powered drones.
 
-## Samarkand to Host the Largest Chess Olympiad in History
-The 46th World Chess Olympiad is being held in Samarkand.
+## Which Document Proves Indian Citizenship? There Isn’t 1 Answer
+Indian laws never specified any single document as proof of citizenship, but the Modi government’s citizenship screening drive has turned it into a big question.
 
-## A Himalayan Flood Brings Economic Collapse to Nepal’s Border Region
-The destruction of the Trishuli-Bhotekoshi corridor is a local tragedy with national economic consequences.
+## Why the South Korea-US Alliance Needs the Dark Eagle
+Focusing strictly on China’s anxieties misses a far more urgent reality: South Korea faces an existential threat from North Korea.
 
-## Asia’s Migrant Workers Need Protection from Gulf Wars
-The migrants who build, clean, drive, guard, and operate the Gulf’s economies have become the forgotten civilian casualties in its wars.
+## Turkish, Kazakh, and Malaysian Companies Hit With New US Sanctions Over Iran
+In addition to sanctioning 27 Iranian airlines, the U.S. designated Turkish, Kazakh, and Malaysian companies for serving as general sales agents for long-sanctioned Iranian airline Mahan Air.
 
-## Pax Silica vs WAICO: Will Central Asia Have to Pick a Side?
-One clue as to how the U.S. plans to proceed might be glimpsed in how Uzbekistan progresses in following Kazakhstan into dual membership.
+## Rethinking Russia, Re-evaluating Risk: The Changing Face of Kyrgyz Migration
+The war in Ukraine has produced a much longer-term transformation of the institutional and political environment in which migration takes place.
 
-## The Strategic Calculus of Xi Jinping’s Egypt Visit
-Xi’s visit from September 1-2 was significant for both sides, though for different reasons.
+## Lee and Macron Pledge Deeper Security Ties After Paris Summit
+South Korea and France agreed to advance defense cooperation and coordinate on Hormuz Strait security following a summit in Paris.
 
-## Pakistan Takes SCO Presidency at a Crucial Time: What to Expect
-As SCO chair, Pakistan can be expected to highlight new connectivity routes via Iran and Central Asia that link the Belt and Road Initiative to the Arabian Sea.
+## The Debate About New Provinces in Pakistan
+The real question is not simply how many provinces Pakistan needs, but whether its political system can make smaller units more accountable, representative and effective.
 
-## Japan and South Korea Face Off Again in the US Navy’s Frigate Search
-South Korea has an industrial head start, but is Japan’s upgraded Mogami class merely a stalking horse for the Chungnam class?
+## Japan-Korea: Working Together as Like-Minded Countries?
+Japan and South Korea share more than enough to work together on North Korea — but less than is often assumed.
 
-## China’s Unity Through Erasure Should Worry Central Asia
-The SCO may serve legitimate Central Asian interests, but it should not become the vehicle through which Beijing’s definitions of security, political loyalty, and ethnic identity become normalized across the Turkic world.
+## Forced Into the Right Decision? A Look at U.S. Land-Based Deterrence Posture
+In 2019, Steve Fetter wrote “A Cheaper Nuclear Sponge,” in which he argued that building a new intercontinental ballistic missile (ICBM) was unnecessary for strengthening U.S. land-based deterrence. After several years of changing defense budgets and strategic priorities, we asked Steve to revisit h
 
 ## The Tyranny of Shipyard Cost-Plus Contracting
 As a naval shipyard commander, my mandate from Navy leadership is straightforward: return warships to the fleet as quickly as possible. Neither my shipyard nor many other public and private shipyards are consistently fulfilling that mission.Public shipyard availabilities — the scheduled periods duri
@@ -203,9 +203,6 @@ The first institution Nicaragua’s National Assembly called to testify on the c
 
 ## The Strategic Fiber of America: Kevlar’s Impact on Warfighters
 Editor’s note: This is the tenth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
-
-## Shrinking Buffers: Why Turkey and Israel Are on a Collision Course
-When Israeli warplanes struck the Abu al-Duhur airbase in Syria on Aug. 18, 2026, the smoke rose over the demolition of an old geopolitical assumption about the Middle East. This time, Israel directly targeted a strategic sphere of influence where the Turkish military had been working to build local
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## As the UK sanctions Israeli settlements, is the two-state solution dead?
-Analysts say UK move far from enough to drive momentum for Palestinian statehood.
+## US records hottest summer in 132 years
+The United States had its hottest summer since records began, says NOAA, with August also setting a new heat record.
 
-## Jerusalem Daily: Israel retaliates over sanctions on illegal settlements
-A diplomatic rift grows between the UK and Israel after Britain led a ban on trade with illegal Israeli settlements
+## Breathing depends on a cylinder: Gaza faces medical oxygen crisis
+Only 12 of Gaza's 34 oxygen-generation stations remain operational, worsening the health crisis in the besieged enclave.
 
-## Bangladesh measles deaths surpass 1,000 after vaccination drive falls short
-Bangladesh faces its worst measles outbreak, killing 1,002 children and infecting nearly 190,000 since March.
+## Zelenskyy’s plane ‘almost hit’ by drone on way to Oslo, Norwegian PM says
+Jonas ​Gahr Store says incident happened when jet ⁠⁠carrying Ukrainian president took off from Moldova.
 
-## Gaza students with overseas university offers, scholarships remain trapped
-As a new term begins, students promised places abroad face impossible immigration rules.
+## Explosion at depot storing weapons left from Syria war kills 14
+An explosion tore through a temporary weapons depot near Sarmada, in northwestern Syria killing at least 14 people
 
-## Torrential rains, winds from Hurricane Lowell leaves 30,000 without power
-Kauai grapples with flooding and dangerous debris as Hurricane Lowell batters Hawaii’s western coastline overnight.
+## Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says
+Pakistan warns Mecca defence agreement may be activated if Yemen's Houthi rebels continue targeting Saudi Arabia.
 
-## Hutu and Tutsi: The history behind the divide
-How a colonial legacy continues to shape conflict and identity.
+## How significant are new European sanctions on illegal Israeli settlements?
+Israel is accused of the ethnic cleansing of Palestinians.
 
-## What is Jordan’s Al-Azraq base and why is Iran targeting it?
-Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.
+## Back to work, not school: Yemen’s crisis forces children to drop out
+Struggling families in Yemen are forced to choose between education and survival amid mounting economic challenges.
 
-## Pakistan all out for 133 in third Test vs England after squad changes
-England's pacers cleaned up Pakistan in 34 overs after the visitors' top five batters failed to score double figures.
+## Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil
+The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.
 
 ## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
 Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
