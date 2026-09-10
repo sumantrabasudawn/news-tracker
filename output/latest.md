@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Oracle reports boost in data centre revenue as AI strategy accelerates
+Database group spent $28.5bn capex last quarter as it tries to compete with larger rivals
+
 ## How would Trump’s $5,000 voting payout work?
 President’s pledge to give cash to all American adults if Republicans win midterms will be at heart of his party’s campaign
 
@@ -21,9 +24,6 @@ Central bank president Christine Lagarde warns price shock driven by Middle East
 ## Say goodbye to the SaaSpocalypse and hello to the RenaiSaaS
 Software companies have shown they can be beneficiaries of AI, rather than easy targets for it, though some risks remain
 
-## Reform candidate for London mayor said Tories ‘should have borrowed and borrowed’
-Comments by Laila Cunningham about more government borrowing when interest rates were ‘zero per cent’ appear to put her at odds with party leader
-
 ## British man admits inventing fake takeover bid for Canadian oil explorer
 Christopher Woolcott used false identities and forged documents in hope of benefiting from rise in Touchstone Exploration shares, says regulator
 
@@ -35,9 +35,6 @@ Regional leaders have to be held accountable to their voters
 
 ## Ryanair investors revolt over Michael O’Leary’s €150mn pay deal
 Airline boss has defended bumper remuneration packages, saying they are contingent on meeting stretching targets
-
-## England’s mayors to be allowed to introduce unlimited tourism tax
-Hotel rooms, bed and breakfasts and Airbnb-type rentals face new levy
 
 ## India’s coal gasification push needs a Chinese technology bridge
 Why India should explore access to China’s decades-old coal gasification technology, rather than developing it from scratch
@@ -63,6 +60,12 @@ At a price point of ₹3 lakh, Samsung’s foldable looks more affordable now in
 ## NCLAT sets aside NCLT order directing Home Derivatives liquidation
 The appellate tribunal said the liquidation process had begun before the amended regulations were notified, making retrospective application impermissible
 
+## Checks on e-commerce platforms from October: FSSAI
+'Won't Be Allowed To Take Plea That They Are Just Aggregators'
+
+## Shopping online? From January, you'll see the discount margin
+
+
 ## 83-year-old had Rs 2.42 lakh FD, Rs 1.06 lakh cash; how she won 9-year-old tax demand case
 For reasons not known, the woman did not respond to the notice. The Income Tax Assessing Officer consequently completed the assessment under Section 144 and determined her total income at Rs 5.15 lakh, treating the amount as unexplained.
 
@@ -80,12 +83,6 @@ For students who are entering the job market, an internship is no longer just a 
 
 ## Brics Summit, nationwide bank strike tomorrow: Are banks open or shut on September 11? Check details
 Banks will face disruptions across India due to elections and union strikes. A nationwide strike by bank employees is planned for September eleventh. Gujarat will see a three-day strike affecting thousands of branches and transactions. Several states observe bank holidays for Ganesh Chaturthi and ot
-
-## Rs 2 crore net worth at 28; husband earns Rs 3 lakh, woman asks if she should quit job
-A 28-year-old woman has claimed on Reddit that she has a net worth of around Rs 2 crore, earns about Rs 4 lakh a month and has no EMIs to pay. According to her Reddit post, her husband earns another Rs 3 lakh a month and has a net worth of around Rs 1.5 crore.
-
-## Nitin Gadkari: ‘I want to set record’ for blacklisting maximum contractors for poor work
-Nitin Gadkari said on Wednesday that he wanted to "set a record" by blacklisting the largest possible number of contractors and suspending officials found responsible for delays or poor-quality execution in infrastructure projects.
 
 ## Hope we’ll have front-of-pack labels on food items quite soon: FSSAI CEO Rajit Punhani
 The CEO spoke about implementation process, and how consumer awareness has led to more effective enforcement over the years.
@@ -135,6 +132,12 @@ Mainland Chinese supermarkets, including US warehouse retailer Sam’s Club, hav
 ## Jewellery shops shut down as Chinese consumers switch focus to gold bars and coins
 Most of the gold jewellery shops that once lined the main commercial street in Biyang, Henan province, have closed as gold prices hover at high but volatile levels and a decline in marriages dents demand. “Gold jewellery used to be very popular in our small county,” said 25-year-old kindergarten tea
 
+## What Makes a Good Counterterrorism Strategy?
+Three top experts on the terror threat 25 years after 9/11.
+
+## The Bab el-Mandeb Problem
+Houthi control of a Red Sea port brings Tehran closer to claiming another critical waterway.
+
 ## The ‘Super-Terrorist’ We Still Can’t Escape
 Carlos the Jackal left behind a violent, celebrity-obsessed world.
 
@@ -152,12 +155,6 @@ Failed wars are predictable, if you know what to look for.
 
 ## Iran Launches Massive Attack on Global Shipping
 Such assaults put the Strait of Hormuz under growing pressure as global crude prices skyrocket.
-
-## What India Gets Out of BRICS
-Ahead of the group’s leaders’ summit, New Delhi is pulling out the stops.
-
-## Why Germany Isn’t Punishing Russia Harder
-Domestic politics constrains Berlin’s ability to respond to an attempted drone attack.
 
 ## East Asia’s Quiet Race to Find the Universe’s Missing Mass
 China, South Korea, and Japan all run their own programs to detect dark matter, some of them world-leading in sensitivity.
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC
-The decision follows a year of surging regulatory hurdles over candidate appearances on the Disney-owned network.
+## Spain’s Parliament backs citizenship for Western Saharans born before 1977
+After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.
 
-## Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
-Report reveals foreign nationals were misled with job offers, then forced into Russia's army upon arrival.
+## LG defends smart-TV features amid audio surveillance allegations
+Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.
 
-## Fire onboard ship at Chinese shipyard kills 25 people
-At least 25 people were killed after a fire broke out aboard a ship at a shipyard in China.
+## Peru joins US-led ‘Shield of the Americas’ security alliance
+Fujimori administration is latest right-wing government to join alliance for a more aggressive approach against crime.
 
-## England close in on Pakistan whitewash in third Test as Robinson shines
-Demoralised tourists reach 52-2 before rain ends play early on day two, needing 268 runs to make England bat again.
+## Republican midterm convention live: Trump, Vance headline day two in Dallas
+US Republicans return to the stage to close their midterm convention, still betting on Trump's political magnetism.
 
-## More than a dozen children killed in fire in eastern DR Congo schools
-Authorities say at least 14 school children have been killed after fire ravaged schools in the DR Congo.
+## Israel says it destroyed key Hezbollah tunnels in southern Lebanon
+Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.
 
-## Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF
-More than 171 million students affected globally with girls disproportionately impacted.
+## Gaza hospitals ration power as fuel shortages deepen
+Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity
 
-## Family of four killed as they slept in Israeli strike on Gaza
-Four members of a Palestinian family, including girls aged 8 and 12, were killed in an Israeli air attack as they slept
+## Russian strike hits shopping centre in central Ukraine
+A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.
 
-## Kurdish YPJ women fighters face exclusion from Syria’s new army
-Syria’s Kurdish women fighters in northeast Syria as pushing to join the country’s new army.
+## Drones recreate Twin Towers in tribute ahead of 9/11 anniversary
+Thousands of drones were used to recreate New York’s Twin Towers in a tribute ahead of the 25th anniversary of 9/11.
 
 ## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
 Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
