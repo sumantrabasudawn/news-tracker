@@ -1,10 +1,31 @@
 # AION Intelligence
 
+## Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms
+President vows to campaign vigorously for his party despite his plummeting approval ratings
+
+## Will South Korea follow through on $350bn deal with Trump?
+Frustration builds in Washington one year after agreement sealed
+
+## China warns bankers not to flood IPO market
+Regulators say they want listings to remain priced cheaply amid push to boost investors’ faith in stock markets
+
+## New AI health tools need ‘L-plates’, says UK review
+Proposals following national consultation on health tech regulation call for live monitoring as AI moves deeper into patient care
+
+## UK universities pledge work experience to more than 1mn students
+Initiative comes amid growing concern among employers about young people’s readiness for workplace
+
+## UK charges three times as much as other G7 countries for citizenship
+Think-tank says high cost combined with tougher settlement rules risks creating ‘an expanding subclass’
+
+## Union boss says Burnham should raise taxes on wealthy to fund lower energy bills
+TUC general secretary Paul Nowak says ‘no evidence’ this would drive rich investors to leave UK
+
 ## Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices
 Pro and Max models will be $100 more expensive than last year’s versions as the company faces supply chain pressures
 
-## Police investigate Reform UK over donor sting
-Probe follows TV footage of Nigel Farage’s aides allegedly seeking illegal overseas funding
+## Windscreen giant Belron explores mega-IPO
+Autoglass owner is led by former AB InBev boss Carlos Brito
 
 ## Drone almost struck Zelenskyy’s plane, says Ukraine
 Official travelling with Ukrainian president says they believe a Russian weapon was used
@@ -18,41 +39,29 @@ Also in today’s newsletter: Treasury yields jump and DeepSeek fundraising fren
 ## Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’
 Paul Christiano says technology could ‘kill most people’ without stronger safety features
 
-## Oil hits $100 for first time since July
-Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch
+## ZTE Global Summit & User Congress 2026 Opens in Kuala Lumpur, Advancing from Connectivity to Digital Value Creation
+ZTE Global Summit & User Congress 2026 Opens in Kuala Lumpur, Advancing from Connectivity to Digital Value Creation
 
-## Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors
-10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme
+## Sensex today | Stock Market Live: Sensex, Nifty likely to remain under pressure as crude oil, US yields rise
+Sensex, Nifty, Stock Price Live Updates: Indian stocks are likely to remain under pressure as elevated crude oil prices, rising US Treasury yields and persistent geopolitical tensions weigh on risk appetite, while weaker Asian markets and a possible gap-down opening add to cautious sentiment.
 
-## Windscreen giant Belron explores mega-IPO
-Autoglass owner is led by former AB InBev boss Carlos Brito
+## Indian stocks likely to remain under pressure as crude oil, US yields rise
+Gift Nifty at 23,480 points to a gap-down opening, while investors await US inflation data for clues on monetary policy.
 
-## AI labs test the rigour of credit rating agencies
-AI labs have huge private market valuations, but are seeking the investment-grade score of public groups such as Oracle
+## New ASEAN Study Reveals Businesses Are Rethinking Hiring and Investment as Growth Priorities Shift
+New ASEAN Study Reveals Businesses Are Rethinking Hiring and Investment as Growth Priorities Shift
 
-## Apple event 2026: CEO John Ternus unveils latest iPhone lineup
-Includes a foldable model called Duo priced at $1,999(₹2,99,990) in India
+## Play Without Limits, Create Without Compromise: Philips Evnia 34M2C8600PC Redefines the Gaming & Creator Workspace with Ultrawide QD-OLED Penta Tandem
+Play Without Limits, Create Without Compromise: Philips Evnia 34M2C8600PC Redefines the Gaming & Creator Workspace with Ultrawide QD-OLED Penta Tandem
 
-## Apple debuts foldable iPhone Duo in biggest-ever device revamp
-Apple increased the price of the Pro models by $100. The iPhone 18 Pro will be $1,199, while the Pro Max will cost $1,299.
+## Stocks in focus today: Indian Bank, Hindustan Zinc, Wipro, Shakti Pumps and more
+Several companies announced new orders, strategic partnerships, project developments, stake-sale plans and other business updates, putting Indian Bank, Hindustan Zinc, Enviro Infra Engineers, Wipro, Shakti Pumps and other stocks on investors’ radar
 
-## US suspends Cognizant’s green card filings for employees; move curbs ability of Indian IT to attract and retain foreign talent
-As the crackdown on immigration-related fraud intensifies, experts warn that this could hinder long-term project delivery and create uncertainty among foreign employees in the US.
+## Multiple explosions reported in Iran’s Qeshm, Sirik and Minab regions
+The reports came amid fresh exchanges between Washington and Tehran, with both sides also trading accusations over regional instability.
 
-## India Inc taps corporate bond market amid liquidity surplus and rate hike concerns
-Excess liquidity in the system has arisen because banks swapped the $127.23 billion of inflows raised through FCNR(B) deposits with the central bank, thereby receiving an equivalent amount of rupee liquidity
-
-## Ladakh, Centre hold fresh talks on constitutional safeguards
-The meeting was attended by representatives of the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA), and senior government officials
-
-## Restrategising sovereignty: Industry players bat for a rethink in digital infrastructure approach
-We seem to have created some sort of a mishmash that sovereignty is about data residence, says Airtel’s Rahul Vatts
-
-## Surging crude oil prices: Rupee breaches 95/dollar mark
-The Indian currency rupee closed at 95.10 per dollarUSD, down 29 paise against the previous close of 94.81
-
-## Letters to the Editor dated September 9, 2026
-
+## Maharashtra state power companies will not be privatised, says Fadnavis
+MSEDCL faces a debt burden of around ₹80,000 crore, with restructuring aimed at strengthening its finances and improving services.
 
 ## RBI flags tech concentration risks, warns of disruptions
 
@@ -78,29 +87,35 @@ Rupee Feels Heat Too, Slips To Over 95/$; Foreign Funds Sell
 ## Skoda Auto, JSW sign MoU to explore PV joint venture
 
 
-## Scaffolding collapses at under-construction complex in Gujarat's Gandhinagar; 12 workers rescued, 10 still trapped
-Slab casting was underway at Bosky The Empire when the scaffolding failed and a slab between two units collapsed.
+## Stalin hits back at Vijay amid Assembly gesture row: ‘Posting reels, running admin like cinema’
+MK Stalin's response came two days after CM Vijay clarified that a gesture he made while referring to MISA in the Assembly was “not in any way intentional”.
 
-## iPhone 18 India prices: Pro starts at ₹1,64,900; Pro Max priced from ₹1,79,900
-Apple has unveiled the iPhone 18 Pro and iPhone 18 Pro Max with Siri AI and a new burgundy colour. Here's everything Indian buyers need to know.
+## The lyrical names for rainfall in Malenadu
+“For generations, people in Malnad have understood the monsoon not as one long spell of rain but as a succession of distinct phases, each associated with a nakshatra or ‘rain star,” wrote Radhika Hegde in a lyrical essay in Deccan Herald
 
-## US suspends Cognizant's green card filings: How will the move affect Indians?
-PERM filings refer to the labour certification process that US employers must complete before sponsoring a foreign worker for an employment based green card.
+## Satheesan: Will examine ED’s call for FIR against Vijayan
+Keralam chief minister VD Satheesan said that his government will legally examine the Enforcement Directorate’s communication to the state DGP seeking an FIR against former chief minister Pinarayi Vijayan, his daughter Veena T and son-in-law and CPI(M) MLA PA Mohammed Riyas in the CMRL-linked allege
 
-## ‘Ashamed of Mumbai-Goa Highway delays’: Nitin Gadkari at Porvorim corridor event
-Gadkari said the Mumbai-Goa Highway had been hopelessly delayed, and the contractors executing the project had failed.
+## UP govt to challenge HC order awarding ₹5 lakh compensation to law student
+The Uttar Pradesh government on Wednesday told the Supreme Court that it will challenge the Allahabad high court order directing payment of ₹5 lakh compensation to 24-year-old law student Akriti Chaudhary for her illegal preventive detention under the National Security Act, with the amount ordered t
 
-## MCD surveys 1,252 PG buildings after Satya Niketan tragedy; 3 found 'dangerous', 9 need major repairs
-The civic body has separately identified 26 framed structures above G+4 floors on Wednesday for close monitoring as they may be vulnerable.
+## SC slams Gautam Budh Nagar administration over preventive notice to law student
+The Supreme Court on Wednesday came down heavily on the Gautam Budh Nagar administration for issuing a preventive notice to a 20-year-old law student for allegedly spreading “anti-government propaganda” and inciting fellow students to join protests at Delhi’s Jantar Mantar, saying no executive magis
 
-## YouTuber Ajit Bharti moves Delhi HC against trial court order denying anticipatory bail
-Ajit Bharti has challenged the September 7 order of a Delhi trial court which dismissed his anticipatory bail application.
+## ‘Maybe a better life on the cockroach side’, says Vijay Mallya on ‘injustices’ he faced
+Vijay Mallya hit back at those calling him a “bhagoda”, saying he is legally prohibited from leaving the United Kingdom.
 
-## CCEA clears ₹20,804 crore rail upgrade to ease congestion across 9 states
-The projects will cover 31 districts in West Bengal, Jharkhand, Odisha, Madhya Pradesh, Chhattisgarh, Tamil Nadu, Andhra Pradesh, Karnataka and Telangana
+## UK tech glitch leads to 2,000+ cancelled flights; 7 of 24 UK-bound flights from India cancelled
+Delays ran into a second day on Wednesday as airlines rebooked passengers and repositioned aircraft left at the wrong airports.
 
-## Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday
-INNOPROM India is being held on September 9-11 at Bharat Mandapam, coinciding with the 18th Brics Summit in New Delhi
+## Kiren Rijiju, Shashi Tharoor, Chirag Paswan: Politicians join viral ChatGPT 1980s AI photo trend
+The latest trend works by using an AI image generator like ChatGPT to recreate an image of a person as they might have looked in the 1980s.
+
+## AIIB eyes new platform to pool private capital for Asia’s US$1.7tr infrastructure needs
+The Asian Infrastructure Investment Bank (AIIB) is developing a new platform to pool capital from institutional investors, aiming to roughly quadruple the private capital it mobilises for infrastructure projects across Asia, according to a senior officer. The mechanism will allow insurers, pension f
+
+## Over 65% of cars sold in China are now EVs as Iran war drives electric shift
+China’s electric vehicle (EV) adoption rate has hit an all-time high, as the Iran war drives motorists to shift away from petrol cars despite a sluggish automotive market. A record 65.2 per cent of the 1.54 million cars sold in mainland China last month were either pure electric or plug-in hybrid ve
 
 ## Susquehanna latest to pick up larger office space in Hong Kong’s Central, sources say
 US investment firm Susquehanna International Group has agreed to lease more than 4,808 square metres (51,762 square feet) of office space at the Cheung Kong Center II, a prime office skyscraper developed by CK Asset Holdings in Hong Kong’s main business zone of Central, according to market sources. 
@@ -119,12 +134,6 @@ Biomedicine is set to feature in Hong Kong’s first five-year plan, due to be u
 
 ## Insurers Prudential, Manulife seal tech alliances amid Beijing’s tightened tax rules
 Several Hong Kong insurance companies, including Prudential, Manulife and BOC Life, are racing into cross-sector alliances from artificial intelligence underwriting to healthcare tie-ups to strengthen capabilities and efficiency amid China’s tightened cross-border tax rules. Prudential announced a p
-
-## Chinese energy firms warn policy volatility complicates long-term expansion abroad
-Chinese energy firms have called for policy stability in overseas markets as their global investments face mounting geopolitical risks amid headwinds from the oil crisis. The call came from Sungrow Power Supply and EVE Energy executives, who said policy stability topped their expectations at an even
-
-## Chinese stock recovery faces US Fed and oil pressures in September, says top fund manager
-Chinese stocks are likely to trade sideways through September, as resilient earnings growth is weighed down by concerns over potential monetary policy tightening in the United States, according to a recent strategy report by China Asset Management, the country’s second-largest mutual fund firm. Main
 
 ## Iran Launches Massive Attack on Global Shipping
 Such assaults put the Strait of Hormuz under growing pressure as global crude prices skyrocket.
@@ -150,6 +159,12 @@ How to survive in a world without rules.
 ## How to Survive in a World Without Rules
 Self-help is becoming more vital in a vicious world.
 
+## North Korean Elites and Regime Weakness
+Insights from Jieun Baek.
+
+## The Ultimate Hedger: Why Vietnam Is Thriving Amid Global Disorder
+Vietnam is deeply committed, for strategic and historic reasons, to respond to uncertainty and global geopolitical tensions by hedging. And it's working.
+
 ## Russia Is Helping Supercharge North Korea’s Military Drones
 North Korea, already receiving Russian drone technology, could eventually gain access to more advanced capabilities like autonomous AI‑enabled and jet‑powered drones.
 
@@ -167,12 +182,6 @@ The war in Ukraine has produced a much longer-term transformation of the institu
 
 ## Lee and Macron Pledge Deeper Security Ties After Paris Summit
 South Korea and France agreed to advance defense cooperation and coordinate on Hormuz Strait security following a summit in Paris.
-
-## The Debate About New Provinces in Pakistan
-The real question is not simply how many provinces Pakistan needs, but whether its political system can make smaller units more accountable, representative and effective.
-
-## Japan-Korea: Working Together as Like-Minded Countries?
-Japan and South Korea share more than enough to work together on North Korea — but less than is often assumed.
 
 ## Forced Into the Right Decision? A Look at U.S. Land-Based Deterrence Posture
 In 2019, Steve Fetter wrote “A Cheaper Nuclear Sponge,” in which he argued that building a new intercontinental ballistic missile (ICBM) was unnecessary for strengthening U.S. land-based deterrence. After several years of changing defense budgets and strategic priorities, we asked Steve to revisit h
@@ -222,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war looms over Trump at Republican midterm convention in Dallas
-Trump supporters say he can rally Republican voters despite concerns over the unpopular Iran war and rising costs.
+## Pro-Israel Democrat John Fetterman makes video appearance at GOP convention
+Pennsylvania senator who has clashed with party over Israel support says he will reject 'the extremes and socialism'.
 
-## Gauff beats Andreeva to reach US Open semifinals in comeback win
-Coco Gauff sets up US Open semifinal with Elena Rybakina after saving two match points against Mirra Andreeva.
+## Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows
+Federal employees are generally barred from receiving compensation beyond their government salaries.
 
-## ‘Everyone’s had their holidays ruined’: outrage after UK airport chaos
-The UK's independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.
+## Spain’s spy agency warned of mass crossings into Ceuta before border crisis
+Declassified documents show Madrid and Morocco were warned of plans by migrants to breach the Ceuta border.
 
-## US court denies Tate brothers’ bid to be released from Miami jail
-A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel.
+## US states sue Trump over weakening of endangered species protections
+Attorneys general from 20 states and Washington, DC, say the US government illegally rolled back landmark protections.
 
-## Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League
-Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.
+## Republicans divided over Trump’s economy as RNC begins
+Republican strategist Adolfo Franco and GOP adviser Rina Shah clash over Trump’s handling of the economy.
 
-## Manchester United vs Sabah: UEFA Champions League – preview, team news
-Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.
+## Trump administration proposes excluding certain immigrants from US census
+The proposal aims to exclude some legal and undocumented immigrants from the count used to determine US House seats.
 
-## Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
-Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
+## Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas
+Tehran says ready for dialogue with nations in the region to 'foster mutual trust' and 'achieve sustainable security'.
 
-## Trump says Iran war ‘will end immediately’ after US midterm elections
-The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.
+## US announces $45m in security funding, additional naval vessels for Ecuador
+Secretary of State Rubio has hailed Ecuador as the US's 'most involved and aggressive partner' in the anti-drug fight.
 
 ## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
 Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
