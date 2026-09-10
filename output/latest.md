@@ -1,115 +1,127 @@
 # AION Intelligence
 
+## Abu Dhabi buys into China’s Luckin Coffee with $1bn deal
+Mubadala widens presence in world’s second-largest consumer market
+
+## Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors
+Ten-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme
+
+## FT Alphaville’s Art of the Chart show returns 15 October. Tickets are £5, get them here
+Delightful dataviz and drinks in London’s oldest parish church 👇
+
+## Germany holds the line against a larger EU budget
+Also in this newsletter: Vučić rolls the electoral dice
+
+## FirstFT: Trump tariff remarks cost lead candidate IMF job
+Also in today’s newsletter: Ukraine’s anti-graft agency and EU social media ban
+
 ## Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms
-President vows to campaign vigorously for his party despite his plummeting approval ratings
+President puts himself at centre of congressional election campaign despite his plummeting approval ratings
 
-## Will South Korea follow through on $350bn deal with Trump?
-Frustration builds in Washington one year after agreement sealed
+## Japan must raise rates, central banker says
+Hawkish BoJ comments follow pressure from Scott Bessent and volatility in currency and bond markets
 
-## China warns bankers not to flood IPO market
-Regulators say they want listings to remain priced cheaply amid push to boost investors’ faith in stock markets
+## The new rainmakers of European private equity
+The continent’s firms have overhauled their leadership in recent years
 
-## New AI health tools need ‘L-plates’, says UK review
-Proposals following national consultation on health tech regulation call for live monitoring as AI moves deeper into patient care
+## John Lewis profits hit by heatwaves and weaker customer demand
+Pre-tax losses widen to £89mn in six months to August at employee-owned retailer
 
-## UK universities pledge work experience to more than 1mn students
-Initiative comes amid growing concern among employers about young people’s readiness for workplace
+## Huawei vs Apple and Musk ‘Chinamaxxes’
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## UK charges three times as much as other G7 countries for citizenship
-Think-tank says high cost combined with tougher settlement rules risks creating ‘an expanding subclass’
+## Lessons drawn from Charles Goodhart
+What we can learn from the influential economist who turns 90 next month
 
-## Union boss says Burnham should raise taxes on wealthy to fund lower energy bills
-TUC general secretary Paul Nowak says ‘no evidence’ this would drive rich investors to leave UK
+## London hedge fund Arini hit by Europe’s thorniest credit trades
+Exposure to Aston Martin and Altice International has weighed on fund run by 35-year-old Hamza Lemssouguer
 
-## Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices
-Pro and Max models will be $100 more expensive than last year’s versions as the company faces supply chain pressures
+## Linklaters poaches top lawyer in latest Wachtell raid
+Mark Gordon’s exit to ‘magic circle’ firm is fresh defection from Wall Street titan
 
-## Windscreen giant Belron explores mega-IPO
-Autoglass owner is led by former AB InBev boss Carlos Brito
+## Sensex today | Stock Market Live: Sensex, Nifty flat as crude oil surge, geopolitical tensions weigh on sentiment
+Sensex, Nifty, Stock Price Live Updates: Indian stocks traded marginally higher in noon deals after a sharp sell-off in the previous session, with gains in the benchmarks offset by weakness in IT stocks as elevated crude oil prices and geopolitical risks kept investors cautious.
 
-## Drone almost struck Zelenskyy’s plane, says Ukraine
-Official travelling with Ukrainian president says they believe a Russian weapon was used
+## VinFast to develop two India-specific EVs after halting plans for global models
+The Vietnamese automaker is developing India-specific EVs, internally codenamed VF X and VF Y, as it seeks to cut costs and target the country’s growing affordable electric-car market.
 
-## LIV races to re-sign golfers to clinch $300mn bankruptcy rescue
-Under new terms proposed by league players would swap claims for millions in past contracts for equity in new circuit
+## Novo Holdings invests in ForYou Medical to support global growth in advanced wound care manufacturing
+Novo Holdings invests in ForYou Medical to support global growth in advanced wound care manufacturing
 
-## FirstFT: Apple’s foldable iPhone Duo will cost $1,999
-Also in today’s newsletter: Treasury yields jump and DeepSeek fundraising frenzy spawns shadow market
+## Nepal floods death toll climbs to 1,377; search operations continue for more than 5,000 missing
+At least 364 bodies have been recovered from Chitwan district, 228 from Nawalparasi East, 222 from Nawalparasi West and 198 from Nuwakot, according to the National Disaster Risk Reduction and Management Authority (NDRRMA).
 
-## Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’
-Paul Christiano says technology could ‘kill most people’ without stronger safety features
+## FSSAI open to stricter food warning labels after Supreme Court questions two-phase plan
+The regulator’s response came after judges questioned why the proposed warning-label framework would be introduced in two phases rather than immediately
 
-## ZTE Global Summit & User Congress 2026 Opens in Kuala Lumpur, Advancing from Connectivity to Digital Value Creation
-ZTE Global Summit & User Congress 2026 Opens in Kuala Lumpur, Advancing from Connectivity to Digital Value Creation
+## NSE IPO: Top shareholders trim stake sales as investors expect higher post-listing valuation
+The overall issue size will be reduced to 5.2% of NSE’s total equity ⁠capital from 6% earlier, the sources said.
 
-## Sensex today | Stock Market Live: Sensex, Nifty likely to remain under pressure as crude oil, US yields rise
-Sensex, Nifty, Stock Price Live Updates: Indian stocks are likely to remain under pressure as elevated crude oil prices, rising US Treasury yields and persistent geopolitical tensions weigh on risk appetite, while weaker Asian markets and a possible gap-down opening add to cautious sentiment.
+## Trump proposes $5,000 payout to US adults if Republicans win November election
+The proposal was announced at a Republican convention in Dallas, with Trump offering few further details about how the plan would work
 
-## Indian stocks likely to remain under pressure as crude oil, US yields rise
-Gift Nifty at 23,480 points to a gap-down opening, while investors await US inflation data for clues on monetary policy.
+## Ola Electric, Ather Energy shares rally upto 9%, what’s driving EV stocks?
+Both stocks attracted significant trading activity, with Ola Electric volumes crossing 1,300 lakh shares and Ather Energy volumes exceeding 52 lakh shares
 
-## New ASEAN Study Reveals Businesses Are Rethinking Hiring and Investment as Growth Priorities Shift
-New ASEAN Study Reveals Businesses Are Rethinking Hiring and Investment as Growth Priorities Shift
+## Nitin Gadkari: ‘I want to set record’ for blacklisting maximum contractors for poor work
+Nitin Gadkari said on Wednesday that he wanted to "set a record" by blacklisting the largest possible number of contractors and suspending officials found responsible for delays or poor-quality execution in infrastructure projects.
 
-## Play Without Limits, Create Without Compromise: Philips Evnia 34M2C8600PC Redefines the Gaming & Creator Workspace with Ultrawide QD-OLED Penta Tandem
-Play Without Limits, Create Without Compromise: Philips Evnia 34M2C8600PC Redefines the Gaming & Creator Workspace with Ultrawide QD-OLED Penta Tandem
+## Taxman seized woman’s gold, diamonds and silver; how she won case in ITAT
+The matter began after the woman filed her income tax return (ITR) on August 12, 2019, declaring an income of Rs 1.34 lakh. However, around a year before she filed the return, the Income Tax Department came across information about her while conducting a search at the offices of a company.
 
-## Stocks in focus today: Indian Bank, Hindustan Zinc, Wipro, Shakti Pumps and more
-Several companies announced new orders, strategic partnerships, project developments, stake-sale plans and other business updates, putting Indian Bank, Hindustan Zinc, Enviro Infra Engineers, Wipro, Shakti Pumps and other stocks on investors’ radar
+## Gold, silver price prediction: Why gold, silver are under pressure; check outlook on September 10, 2026
+Gold and silver price prediction today: Gold prices may continue to trade within a consolidation range in the short term; however, a decisive breakdown from this phase could trigger another leg of selling.
 
-## Multiple explosions reported in Iran’s Qeshm, Sirik and Minab regions
-The reports came amid fresh exchanges between Washington and Tehran, with both sides also trading accusations over regional instability.
+## Billion dollar boom: Jefferies identifies six sectors driving ‘India’s New Industrial Revolution’
+Jefferies has identified several policy measures that it believes are helping these newer sectors expand, driving India’s next phase of industrial growth. These include allowing greater private-sector participation in space, providing tax holidays for data centres.
 
-## Maharashtra state power companies will not be privatised, says Fadnavis
-MSEDCL faces a debt burden of around ₹80,000 crore, with restructuring aimed at strengthening its finances and improving services.
+## Google to invest nearly $15 billion in AI Infrastructure in Finland
+Google is set to pour $15.1 billion into Finland within the next two years, creating three new data centres while upgrading an existing facility. This strategic move takes advantage of Finland's chilly climate and renewable energy resources. Partnering with Fortum, Google has secured a long-term nuc
+
+## Top stocks to buy today: Stock recommendations for September 10, 2026 - check list
+Top stock market recommendations: Paytm, Nykaa, and VA Tech Wabag - these are the top stocks to buy shared by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth for September 10, 2026.
+
+## Oil prices today: Brent holds above $100 as Iran-US attacks threaten deeper supply disruption
+
 
 ## RBI flags tech concentration risks, warns of disruptions
 
 
-## Coforge stock tumbles 6% as chairman Bhatt resigns
-Co's Internal Audit Flags Concerns Over Board Evaluation
+## Muslim inheritance challenge may hinge on Sabarimala verdict: Supreme Court
+The petitioners have argued that the rules discriminate against Muslim women by, among other things, assigning them smaller shares of inheritance than men.
 
-## Sensex tanks 813 points as crude spikes
-Rupee Feels Heat Too, Slips To Over 95/$; Foreign Funds Sell
+## ‘Kala Hiran’ not ready for release, yet to get CBFC cert: Producer to Delhi HC
+The producer of ‘Kala Hiran: Battle for Legacy’ told Delhi HC the film is not ready for OTT release as its content is yet to be certified by CBFC.
 
-## Cognizant's green card filings suspended amid probe by US
+## Front-of-pack labels on packaged food: SC says it is concerned about health of people
+Front-of-pack labels on packaged food: SC says it is concerned about health of people
 
+## Raids, shutdowns, warning labels - India's unprecedented food safety push
+INDIA-FOOD/ENFORCEMENT (UPDATE 1, EXPLAINER, PIX):EXPLAINER-Raids, shutdowns, warning labels - India's unprecedented food safety push
 
-## Meta officials appear before NCPCR
+## Explainer-Raids, shutdowns, warning labels - India's unprecedented food safety push
+INDIA-FOOD-ENFORCEMENT:Explainer-Raids, shutdowns, warning labels - India's unprecedented food safety push
 
+## CJP agrees to take down posts against BJP's Gaurav Bhatia after Delhi HC's appeal: 'Attacking without verifying'
+The Court said it did not want to pass a takedown order at this stage if the defendants were willing to remove the content on their own.
 
-## OMCs may be losing Rs 5/L on petrol, Rs 23 on diesel: ICRA
+## Judicial officer cannot shout at judges, blame HC: Supreme Court
+The bench issued notice on the officer’s plea and listed the matter for September 28, allowing the high court to continue with the proceedings in the meantime
 
+## NDMC junior engineer arrested for firing 2 rounds in Delhi’s Rajender Nagar
+A 29-year-old NDMC junior engineer was arrested after allegedly firing two rounds in the air in Rajender Nagar while under the influence of alcohol, police said.
 
-## NSE cuts IPO size, may raise 23.5k crore
+## UBS pulls plug on fund sales on a wealth platform in China amid stiff competition
+UBS plans to shut down its fund-distribution business on one of its mainland China wealth-management platforms, as it faces intense competition. As part of a “business integration plan”, UBS Fund Distribution (Shenzhen), known as UBSFS, would cease its fund sales business, including fund subscriptio
 
+## Mainland Chinese shoppers lose trusted Hong Kong veggie tag as customs revamp hits shelves
+Mainland Chinese supermarkets, including US warehouse retailer Sam’s Club, have dropped the Hong Kong-bound vegetable label under new customs rules. The change has triggered widespread concern among consumers, as the label had long served as a selling point for high quality amid frequent mainland fo
 
-## Skoda Auto, JSW sign MoU to explore PV joint venture
+## Jewellery shops shut down as Chinese consumers switch focus to gold bars and coins
+Most of the gold jewellery shops that once lined the main commercial street in Biyang, Henan province, have closed as gold prices hover at high but volatile levels and a decline in marriages dents demand. “Gold jewellery used to be very popular in our small county,” said 25-year-old kindergarten tea
 
-
-## Stalin hits back at Vijay amid Assembly gesture row: ‘Posting reels, running admin like cinema’
-MK Stalin's response came two days after CM Vijay clarified that a gesture he made while referring to MISA in the Assembly was “not in any way intentional”.
-
-## The lyrical names for rainfall in Malenadu
-“For generations, people in Malnad have understood the monsoon not as one long spell of rain but as a succession of distinct phases, each associated with a nakshatra or ‘rain star,” wrote Radhika Hegde in a lyrical essay in Deccan Herald
-
-## Satheesan: Will examine ED’s call for FIR against Vijayan
-Keralam chief minister VD Satheesan said that his government will legally examine the Enforcement Directorate’s communication to the state DGP seeking an FIR against former chief minister Pinarayi Vijayan, his daughter Veena T and son-in-law and CPI(M) MLA PA Mohammed Riyas in the CMRL-linked allege
-
-## UP govt to challenge HC order awarding ₹5 lakh compensation to law student
-The Uttar Pradesh government on Wednesday told the Supreme Court that it will challenge the Allahabad high court order directing payment of ₹5 lakh compensation to 24-year-old law student Akriti Chaudhary for her illegal preventive detention under the National Security Act, with the amount ordered t
-
-## SC slams Gautam Budh Nagar administration over preventive notice to law student
-The Supreme Court on Wednesday came down heavily on the Gautam Budh Nagar administration for issuing a preventive notice to a 20-year-old law student for allegedly spreading “anti-government propaganda” and inciting fellow students to join protests at Delhi’s Jantar Mantar, saying no executive magis
-
-## ‘Maybe a better life on the cockroach side’, says Vijay Mallya on ‘injustices’ he faced
-Vijay Mallya hit back at those calling him a “bhagoda”, saying he is legally prohibited from leaving the United Kingdom.
-
-## UK tech glitch leads to 2,000+ cancelled flights; 7 of 24 UK-bound flights from India cancelled
-Delays ran into a second day on Wednesday as airlines rebooked passengers and repositioned aircraft left at the wrong airports.
-
-## Kiren Rijiju, Shashi Tharoor, Chirag Paswan: Politicians join viral ChatGPT 1980s AI photo trend
-The latest trend works by using an AI image generator like ChatGPT to recreate an image of a person as they might have looked in the 1980s.
+## Can Hong Kong stocks contend with wild swings without help from state hands?
+As concerted state buying puts a floor under mainland China’s onshore stock market amid Beijing’s stabilisation measures, investors in Hong Kong worry about coping with high volatility at a delicate time, with multiple market-roiling factors. These include geopolitical tensions, sluggish earnings gr
 
 ## AIIB eyes new platform to pool private capital for Asia’s US$1.7tr infrastructure needs
 The Asian Infrastructure Investment Bank (AIIB) is developing a new platform to pool capital from institutional investors, aiming to roughly quadruple the private capital it mobilises for infrastructure projects across Asia, according to a senior officer. The mechanism will allow insurers, pension f
@@ -123,17 +135,8 @@ US investment firm Susquehanna International Group has agreed to lease more than
 ## Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources
 Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar with the matter. Citic Securities was one of the four underwriters tapped by the Hangzhou-based firm, 
 
-## Hysan courts fintech office portfolio as ZA Bank commits to new Causeway Bay headquarters
-Digital bank ZA Bank is taking 45,000 square feet (4,181 square metres) across four upper floors at Hysan Development’s Lee Garden Eight for its new headquarters, adding to a wave of financial and technology companies reshaping Causeway Bay’s commercial landscape. The move comes as landlords across 
-
-## Alibaba sends AI ‘digital employees’ to work in rival apps from ByteDance, Tencent
-Alibaba Group Holding is giving users the ability to put artificial intelligence-powered “digital employees” to work within rival office platforms, opening a new competitive front against ByteDance and Tencent Holdings in enterprise AI. The latest version of the QoderWake tool, launched by Alibaba C
-
-## Hong Kong targets biomedicine powerhouse status in debut 5-year plan
-Biomedicine is set to feature in Hong Kong’s first five-year plan, due to be unveiled next week, as the city’s top officials signal closer medical cooperation across the Greater Bay Area. Lending weight to those ambitions, global pharmaceutical company GSK emphasised its interest in expanding its ro
-
-## Insurers Prudential, Manulife seal tech alliances amid Beijing’s tightened tax rules
-Several Hong Kong insurance companies, including Prudential, Manulife and BOC Life, are racing into cross-sector alliances from artificial intelligence underwriting to healthcare tie-ups to strengthen capabilities and efficiency amid China’s tightened cross-border tax rules. Prudential announced a p
+## Top Signs You’re Heading for a Quagmire
+Failed wars are predictable, if you know what to look for.
 
 ## Iran Launches Massive Attack on Global Shipping
 Such assaults put the Strait of Hormuz under growing pressure as global crude prices skyrocket.
@@ -155,9 +158,6 @@ An erratic United States and a rising China have the region recalibrating.
 
 ## Introducing the Fall 2026 Print Issue
 How to survive in a world without rules.
-
-## How to Survive in a World Without Rules
-Self-help is becoming more vital in a vicious world.
 
 ## North Korean Elites and Regime Weakness
 Insights from Jieun Baek.
@@ -183,6 +183,12 @@ The war in Ukraine has produced a much longer-term transformation of the institu
 ## Lee and Macron Pledge Deeper Security Ties After Paris Summit
 South Korea and France agreed to advance defense cooperation and coordinate on Hormuz Strait security following a summit in Paris.
 
+## Automating the Action Officer: Between Bureaucracy and Technology
+If there is a revolution brewing in the automation of white-collar work, you wouldn’t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, perform essentially the same duties as their predecessors in 1996 or 1956: creating charts, authoring 
+
+## The Assessment Gap in U.S. Counter-Terrorism Strikes
+For eight years I helped decide whether American counter-terrorism money was working.As a programs advisor in the State Department’s Bureau of Counterterrorism from 2018 to 2025, I oversaw about 20 projects in East Africa worth roughly $80 million a year. None of that money moved without a performan
+
 ## Forced Into the Right Decision? A Look at U.S. Land-Based Deterrence Posture
 In 2019, Steve Fetter wrote “A Cheaper Nuclear Sponge,” in which he argued that building a new intercontinental ballistic missile (ICBM) was unnecessary for strengthening U.S. land-based deterrence. After several years of changing defense budgets and strategic priorities, we asked Steve to revisit h
 
@@ -200,12 +206,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## China’s Warrior Scientists: Insights from Recent Operations Around Taiwan
 China’s marine scientific research ships are expanding their operations around Taiwan, and they are not just there to advance the frontiers of human knowledge. Their operations serve to undermine Taiwan’s independent political status and to force international acceptance of Beijing’s claim of sovere
-
-## Nicaragua’s Army Will Decide What Comes After Ortega
-The first institution Nicaragua’s National Assembly called to testify on the constitutional reform ending competitive elections was the army. On July 29, 2026, Gen. Julio César Avilés appeared before the Special Constitutional Commission and pledged the firm support of the Army of Nicaragua for a pa
-
-## The Strategic Fiber of America: Kevlar’s Impact on Warfighters
-Editor’s note: This is the tenth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,35 +231,41 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pro-Israel Democrat John Fetterman makes video appearance at GOP convention
-Pennsylvania senator who has clashed with party over Israel support says he will reject 'the extremes and socialism'.
+## ‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels
+The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.
 
-## Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows
-Federal employees are generally barred from receiving compensation beyond their government salaries.
+## Enrique hails Dembele, praises Toure after PSG’s win over Bratislava
+PSG coach hails 'marvellous' Dembele after the French forward scored two goals in PSG's 6–1 win over Toure's side.
 
-## Spain’s spy agency warned of mass crossings into Ceuta before border crisis
-Declassified documents show Madrid and Morocco were warned of plans by migrants to breach the Ceuta border.
+## Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic
+Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia's Arctic region.
 
-## US states sue Trump over weakening of endangered species protections
-Attorneys general from 20 states and Washington, DC, say the US government illegally rolled back landmark protections.
+## Israeli attacks kill at least four Palestinians in northern Gaza
+Israeli attacks on the occupied Palestinian territory continue despite a 'ceasefire' brokered in October.
 
-## Republicans divided over Trump’s economy as RNC begins
-Republican strategist Adolfo Franco and GOP adviser Rina Shah clash over Trump’s handling of the economy.
+## Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86
+Harimoto, whose record 3,085 career hits still stands, was inducted into the Japanese Baseball Hall of Fame in 1990.
 
-## Trump administration proposes excluding certain immigrants from US census
-The proposal aims to exclude some legal and undocumented immigrants from the count used to determine US House seats.
+## Europe’s far right: Putin’s best friend?
+Its gains threaten to deepen Europe’s divisions over Ukraine and Russia.
 
-## Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas
-Tehran says ready for dialogue with nations in the region to 'foster mutual trust' and 'achieve sustainable security'.
+## Zverev defeats Van de Zandschulp in straight sets to enter US Open semis
+The German, who faces Russia’s Karen Khachanov, is the only Grand Slam winner left standing in the men's draw.
 
-## US announces $45m in security funding, additional naval vessels for Ecuador
-Secretary of State Rubio has hailed Ecuador as the US's 'most involved and aggressive partner' in the anti-drug fight.
+## Anthropic discloses 4th AI hacking incident as researcher quits over safety
+AI firm says Claude Opus 4.6 hacked external systems during testing as concerns mount over security breaches.
 
-## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
-Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
+## Telangana tax dept holds officers personally accountable for unauthorised AI sharing of taxpayer data
+Circular allows officials to use AI for generic research, drafting and administrative efficiency, but bars them from entering identifiable taxpayer information into public or commercial AI platforms without written authorisation.
 
 ## Exclusive: Former Philips India finance chief Dev Tripathy joins Integris Medtech as Group CFO
 After an 18 year career at Philips spanning multiple finance leadership roles, Tripathy takes charge of group finance at a global medtech company with operations across 65 countries.
+
+## AUDITORS: INTEGRITY in the TRUST business – Does it exist?
+Seasoned finance professional Robin Banerjee, Chairman of Nucleon Research Pvt. Ltd. and former Managing Director of Caprihans India Ltd., examines how recent regulatory actions and misconduct cases involving leading audit firms across major economies are testing the trust, independence and accounta
+
+## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
+Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
 
 ## The CFO's Strategic Role: Balancing Growth, Profitability, and Cash Generation
 In today's corporate landscape, Chief Financial Officers have evolved into essential strategic partners, expertly juggling the demands of growth alongside financial prudence. They adeptly navigate the complexities of profitability and cash flow, utilizing advanced digital tools for more accurate for
@@ -272,12 +278,6 @@ The GST Council meeting has been rescheduled to October 7 due to the BRICS summi
 
 ## AIFs seek status quo as 'foreign control' rules go for a recast
 Local alternative investment funds have warned regulators about proposed changes. These changes could significantly impact capital inflows into India's economy. The draft rules aim to curb indirect foreign ownership in sensitive sectors. Industry officials requested the status quo on existing regula
-
-## CBI books Essel Group chairman Subhash Chandra, others over alleged ₹1,322 crore LICHFL loan loss
-Subhash Chandra, along with eight others, is under scrutiny as the CBI has registered an FIR accusing them of inflating their net worth to secure loans fraudulently. This situation has led LIC Housing Finance to announce a staggering loss exceeding ₹1,322 crore. The Directorate of Enforcement will a
-
-## 57th GST Council Meet: Faster Registration, Easier ITC and Simpler Compliance on Agenda
-After a major rate rationalisation exercise in its 56th meeting last year, the council is likely to focus on simplifying GST compliance. On the council’s agenda will be areas like refunds, registration and returns, where committees were set up this year to examine various issues.
 
 ## RBI launches key surveys to get inputs for monetary policy
 The Reserve Bank of India has launched three key surveys today. These surveys aim to gauge inflation expectations and consumer confidence across India. The Inflation Expectations Survey of Households will capture price movement assessments. Urban and Rural Consumer Confidence Surveys will gather sen
