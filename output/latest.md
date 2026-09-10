@@ -1,67 +1,85 @@
 # AION Intelligence
 
-## Abu Dhabi buys into China’s Luckin Coffee with $1bn deal
-Mubadala widens presence in world’s second-largest consumer market
+## England’s mayors to be allowed to introduce unlimited tourism tax
+Hotel rooms, bed and breakfasts and Airbnb-type rentals face new levy
 
-## Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors
-Ten-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme
+## Is Trump losing his touch? Submit your questions now
+Take part in a live Ask an Expert Q&A with columnist Jemima Kelly
 
-## FT Alphaville’s Art of the Chart show returns 15 October. Tickets are £5, get them here
-Delightful dataviz and drinks in London’s oldest parish church 👇
+## Bessent continues crusade against rising US government bond yields
+Also in today’s newsletter, White House prepares for CIA director to take on bigger role in Russia-Ukraine war
 
-## Germany holds the line against a larger EU budget
-Also in this newsletter: Vučić rolls the electoral dice
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
 
-## FirstFT: Trump tariff remarks cost lead candidate IMF job
-Also in today’s newsletter: Ukraine’s anti-graft agency and EU social media ban
+## European Central Bank raises interest rates with hawkish guidance
+Widely expected move comes with slightly stronger growth and inflation forecasts despite a higher market-implied rate path
 
-## Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms
-President puts himself at centre of congressional election campaign despite his plummeting approval ratings
+## Saudi Arabia cuts oil output to lowest this year on Houthi threats
+Rebels announced ‘maritime embargo’ against kingdom’s exports in July, forcing world’s biggest exporter to cut production
 
-## Japan must raise rates, central banker says
-Hawkish BoJ comments follow pressure from Scott Bessent and volatility in currency and bond markets
+## How to teach the next generation in the era of AI
+The Pisa results sound the alarm on the disastrous impact of tech on our basic skills
 
-## The new rainmakers of European private equity
-The continent’s firms have overhauled their leadership in recent years
+## Foreign Office to appoint first female head after Mandelson turmoil
+Lindy Cameron becomes top civil servant at the department that was rocked by the sacking of predecessor Olly Robbins
 
-## John Lewis profits hit by heatwaves and weaker customer demand
-Pre-tax losses widen to £89mn in six months to August at employee-owned retailer
+## What we learnt from OpenAI’s hack of Hugging Face
+Commercial AI tools failed to defend the platform against the attack — the solution lies in open-weight models
 
-## Huawei vs Apple and Musk ‘Chinamaxxes’
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## Ryanair investors revolt over Michael O’Leary’s €150mn pay deal
+Airline boss has defended bumper remuneration packages, saying they are contingent on meeting stretching targets
 
-## Lessons drawn from Charles Goodhart
-What we can learn from the influential economist who turns 90 next month
+## Big Tech has replaced Big Oil as Public Enemy No 1, says US shale boss
+Diamondback Energy CEO Kaes Van’t Hof says oil companies are no longer viewed as pariahs by young people seeking a well-paid career
 
-## London hedge fund Arini hit by Europe’s thorniest credit trades
-Exposure to Aston Martin and Altice International has weighed on fund run by 35-year-old Hamza Lemssouguer
+## UK banks don’t have a windfall to tax
+The so-called big four are in decent shape, but hardly world beaters
 
-## Linklaters poaches top lawyer in latest Wachtell raid
-Mark Gordon’s exit to ‘magic circle’ firm is fresh defection from Wall Street titan
+## New AI health tools need ‘L-plates’, says UK review
+Proposals following national consultation on health tech regulation call for live monitoring as AI moves deeper into patient care
 
-## Sensex today | Stock Market Live: Sensex, Nifty flat as crude oil surge, geopolitical tensions weigh on sentiment
-Sensex, Nifty, Stock Price Live Updates: Indian stocks traded marginally higher in noon deals after a sharp sell-off in the previous session, with gains in the benchmarks offset by weakness in IT stocks as elevated crude oil prices and geopolitical risks kept investors cautious.
+## FirstFT: Government buyback fails to halt rise in Treasury yields
+Also in today’s newsletter: Witkoff and Kushner’s failed diplomacy and reaction to Apple’s new folding iPhone
 
-## VinFast to develop two India-specific EVs after halting plans for global models
-The Vietnamese automaker is developing India-specific EVs, internally codenamed VF X and VF Y, as it seeks to cut costs and target the country’s growing affordable electric-car market.
+## Delhi health department’s promises remain unfinished, committee flags gaps
+Committee says many CAG-linked measures remain planned or under process
 
-## Novo Holdings invests in ForYou Medical to support global growth in advanced wound care manufacturing
-Novo Holdings invests in ForYou Medical to support global growth in advanced wound care manufacturing
+## Navi Mumbai airport eyes more international routes with waiver in landing charges
+As per the order, concessions in landing fees would be applicable to a new route from Mumbai Metropolitan Region
 
-## Nepal floods death toll climbs to 1,377; search operations continue for more than 5,000 missing
-At least 364 bodies have been recovered from Chitwan district, 228 from Nawalparasi East, 222 from Nawalparasi West and 198 from Nuwakot, according to the National Disaster Risk Reduction and Management Authority (NDRRMA).
+## Raptee.HV launches Centre of Excellence for EVs at Rajalakshmi Engineering College
+Raptee will use the 3,000 sq. ft. facility to bring hands-on EV engineering and industry exposure to the institution
 
-## FSSAI open to stricter food warning labels after Supreme Court questions two-phase plan
-The regulator’s response came after judges questioned why the proposed warning-label framework would be introduced in two phases rather than immediately
+## Kanohar Electricals IPO gets highest bids so far as 3 issues close today
+The issue was subscribed 215.37 times by qualified institutional buyers (QIBs), 87.74 times by non-institutional investors (NIIs) and 20.51 times by retail investors
 
-## NSE IPO: Top shareholders trim stake sales as investors expect higher post-listing valuation
-The overall issue size will be reduced to 5.2% of NSE’s total equity ⁠capital from 6% earlier, the sources said.
+## Are China’s rare earths really a potent weapon?
+The available evidence indicates that Chinese rare-earth export restrictions would cost the West far less than often feared
 
-## Trump proposes $5,000 payout to US adults if Republicans win November election
-The proposal was announced at a Republican convention in Dallas, with Trump offering few further details about how the plan would work
+## Ultraviolette Automotive to build EV factory in Hosur with ₹779 crore investment
+The electric vehicle manufacturer anticipates the product mix would be 50-50 between scooters and motorcycles in next 3-4 years with its Tesseract scooter
 
-## Ola Electric, Ather Energy shares rally upto 9%, what’s driving EV stocks?
-Both stocks attracted significant trading activity, with Ola Electric volumes crossing 1,300 lakh shares and Ather Energy volumes exceeding 52 lakh shares
+## Hero Motors IPO: ₹79-84 price band targets ₹3,815-crore valuation as EV business grows
+The company will use ₹190 crore of the fresh proceeds to repay or prepay borrowings and ₹200 crore to buy equipment for expanding capacity at its UP facilityHero Motors has priced its ₹1,000-crore IPO at ₹79-84 a share, targeting a valuation of about ₹3,815 crore as the Tier-1 automotive component m
+
+## Emirates SkyCargo adds freighter flights to Bengaluru, Chennai and Hyderabad
+This move aims to bolster Indian exports as the country increasingly positions itself as a global manufacturing hub.
+
+## Global Fintech Fest 2026: India can shape future global finance architecture, says RBI governor
+
+
+## Govt tightens e-commerce rules to curb price manipulation, dark patterns: What changes?
+Effective January 2027, upcoming e-commerce rules aim to bolster consumer safeguards by requiring platforms to exhibit previous pricing clearly and avoid search result manipulation. There will be mandatory disclosures for sponsored listings to assist consumers in their choices. Furthermore, e-commer
+
+## Internship the new interview: Companies turning interns into full-time hires; what it means for IT sector jobs
+For students who are entering the job market, an internship is no longer just a line on their resume. It can be the first real test of whether a company sees them as a potential full-time employee.
+
+## Brics Summit, nationwide bank strike tomorrow: Are banks open or shut on September 11? Check details
+Banks will face disruptions across India due to elections and union strikes. A nationwide strike by bank employees is planned for September eleventh. Gujarat will see a three-day strike affecting thousands of branches and transactions. Several states observe bank holidays for Ganesh Chaturthi and ot
+
+## Rs 2 crore net worth at 28; husband earns Rs 3 lakh, woman asks if she should quit job
+A 28-year-old woman has claimed on Reddit that she has a net worth of around Rs 2 crore, earns about Rs 4 lakh a month and has no EMIs to pay. According to her Reddit post, her husband earns another Rs 3 lakh a month and has a net worth of around Rs 1.5 crore.
 
 ## Nitin Gadkari: ‘I want to set record’ for blacklisting maximum contractors for poor work
 Nitin Gadkari said on Wednesday that he wanted to "set a record" by blacklisting the largest possible number of contractors and suspending officials found responsible for delays or poor-quality execution in infrastructure projects.
@@ -72,44 +90,41 @@ The matter began after the woman filed her income tax return (ITR) on August 12,
 ## Gold, silver price prediction: Why gold, silver are under pressure; check outlook on September 10, 2026
 Gold and silver price prediction today: Gold prices may continue to trade within a consolidation range in the short term; however, a decisive breakdown from this phase could trigger another leg of selling.
 
-## Billion dollar boom: Jefferies identifies six sectors driving ‘India’s New Industrial Revolution’
-Jefferies has identified several policy measures that it believes are helping these newer sectors expand, driving India’s next phase of industrial growth. These include allowing greater private-sector participation in space, providing tax holidays for data centres.
+## Satya Niketan PG operator's anticipatory bail plea rejected by Delhi court days after 7 killed in building collapse
+Satya Niketan PG operator's anticipatory bail plea rejected by Delhi court days after 7 killed in building collapse
 
-## Google to invest nearly $15 billion in AI Infrastructure in Finland
-Google is set to pour $15.1 billion into Finland within the next two years, creating three new data centres while upgrading an existing facility. This strategic move takes advantage of Finland's chilly climate and renewable energy resources. Partnering with Fortum, Google has secured a long-term nuc
+## Andhra HC questions 34% OBC quota in local bodies, seeks data
+The Andhra Pradesh high court sought data and the rationale behind the state government’s decision to provide 34% OBC reservation in local bodies.
 
-## Top stocks to buy today: Stock recommendations for September 10, 2026 - check list
-Top stock market recommendations: Paytm, Nykaa, and VA Tech Wabag - these are the top stocks to buy shared by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth for September 10, 2026.
+## 1980s AI photo trend: What is the environmental cost of your latest AI avatar?
+The viral 80s AI trend is a social media craze in which users are using ChatGPT and Gemini to reimagine their modern selfies as retro portraits from the 1980s.
 
-## Oil prices today: Brent holds above $100 as Iran-US attacks threaten deeper supply disruption
+## Right time to uproot seeds of Naxalism, WB CM Suvendu Adhikari attacks JU
+West Bengal CM Suvendu Adhikari attacked Jadavpur University teachers, saying it was time to “uproot the seeds of Naxalism” in the state.
 
+## HT Evening News Brief September 10: Xi to be in India for BRICS summit; Wangchuk's fresh agitation warning
+Here's your one-stop briefing on today's top news stories from India and the world.
 
-## RBI flags tech concentration risks, warns of disruptions
+## Three arrested over shooting targeting Goa casino director: Police
+Three people were arrested over the shooting targeting Goa casino director Shrinivas Nayak, but police said the actual shooters remain at large.
 
+## India’s farm yields rise, but China continues to produce twice as much grain
+India’s rice, wheat and maize yields have risen, but China continues to produce more than twice India’s total cereal output, BRICS data shows.
 
-## Muslim inheritance challenge may hinge on Sabarimala verdict: Supreme Court
-The petitioners have argued that the rules discriminate against Muslim women by, among other things, assigning them smaller shares of inheritance than men.
+## Assam govt official hired mimics to impersonate CM, top bureaucrats: Police
+An Assam government official allegedly hired mimicry artists to impersonate the CM and top bureaucrats to cheat businessmen in a jobs-and-contracts racket.
 
-## ‘Kala Hiran’ not ready for release, yet to get CBFC cert: Producer to Delhi HC
-The producer of ‘Kala Hiran: Battle for Legacy’ told Delhi HC the film is not ready for OTT release as its content is yet to be certified by CBFC.
+## Investment surge in Central Asia drives calls for expanded use of Chinese yuan
+Expanding use of the Chinese yuan in fast-growing Central Asia, where China is a top investor, can reduce risks and costs for infrastructure firms, part of a broader trend that sees the currency gaining ground wherever commercial flows create demand for it, according to speakers on an investment pan
 
-## Front-of-pack labels on packaged food: SC says it is concerned about health of people
-Front-of-pack labels on packaged food: SC says it is concerned about health of people
+## SHKP posts 4.6% profit rise amid Hong Kong’s property recovery
+Sun Hung Kai Properties (SHKP), Hong Kong’s biggest developer by market capitalisation, reported its underlying profit for the year ending June rose 4.6 per cent to HK$22.85 billion (US$2.91 billion), excluding investment property revaluations. Meanwhile, its reported profit increased to HK$21.43 bi
 
-## Raids, shutdowns, warning labels - India's unprecedented food safety push
-INDIA-FOOD/ENFORCEMENT (UPDATE 1, EXPLAINER, PIX):EXPLAINER-Raids, shutdowns, warning labels - India's unprecedented food safety push
+## Hong Kong watchdog investigates Cloudbreak Pharma for ‘rigged’ IPO, suspends its shares
+Hong Kong’s Securities and Futures Commission (SFC) has directed the stock exchange to suspend trading of US-based biotech firm Cloudbreak Pharma pending an investigation into its US$78 million initial public offering (IPO) last year. “The SFC has serious concerns that Cloudbreak’s initial public of
 
-## Explainer-Raids, shutdowns, warning labels - India's unprecedented food safety push
-INDIA-FOOD-ENFORCEMENT:Explainer-Raids, shutdowns, warning labels - India's unprecedented food safety push
-
-## CJP agrees to take down posts against BJP's Gaurav Bhatia after Delhi HC's appeal: 'Attacking without verifying'
-The Court said it did not want to pass a takedown order at this stage if the defendants were willing to remove the content on their own.
-
-## Judicial officer cannot shout at judges, blame HC: Supreme Court
-The bench issued notice on the officer’s plea and listed the matter for September 28, allowing the high court to continue with the proceedings in the meantime
-
-## NDMC junior engineer arrested for firing 2 rounds in Delhi’s Rajender Nagar
-A 29-year-old NDMC junior engineer was arrested after allegedly firing two rounds in the air in Rajender Nagar while under the influence of alcohol, police said.
+## DeepSeek says new Flash AI model beats Kimi K3 on cyber, coding benchmarks
+DeepSeek has released its V4.1 Flash model, claiming it outperforms its previous flagship while cutting inference costs and boosting speeds – the latest salvo in China’s aggressive price-and-performance war. The Chinese artificial intelligence developer said on Thursday that V4.1 Flash used a new “C
 
 ## UBS pulls plug on fund sales on a wealth platform in China amid stiff competition
 UBS plans to shut down its fund-distribution business on one of its mainland China wealth-management platforms, as it faces intense competition. As part of a “business integration plan”, UBS Fund Distribution (Shenzhen), known as UBSFS, would cease its fund sales business, including fund subscriptio
@@ -123,17 +138,8 @@ Most of the gold jewellery shops that once lined the main commercial street in B
 ## Can Hong Kong stocks contend with wild swings without help from state hands?
 As concerted state buying puts a floor under mainland China’s onshore stock market amid Beijing’s stabilisation measures, investors in Hong Kong worry about coping with high volatility at a delicate time, with multiple market-roiling factors. These include geopolitical tensions, sluggish earnings gr
 
-## AIIB eyes new platform to pool private capital for Asia’s US$1.7tr infrastructure needs
-The Asian Infrastructure Investment Bank (AIIB) is developing a new platform to pool capital from institutional investors, aiming to roughly quadruple the private capital it mobilises for infrastructure projects across Asia, according to a senior officer. The mechanism will allow insurers, pension f
-
-## Over 65% of cars sold in China are now EVs as Iran war drives electric shift
-China’s electric vehicle (EV) adoption rate has hit an all-time high, as the Iran war drives motorists to shift away from petrol cars despite a sluggish automotive market. A record 65.2 per cent of the 1.54 million cars sold in mainland China last month were either pure electric or plug-in hybrid ve
-
-## Susquehanna latest to pick up larger office space in Hong Kong’s Central, sources say
-US investment firm Susquehanna International Group has agreed to lease more than 4,808 square metres (51,762 square feet) of office space at the Cheung Kong Center II, a prime office skyscraper developed by CK Asset Holdings in Hong Kong’s main business zone of Central, according to market sources. 
-
-## Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources
-Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar with the matter. Citic Securities was one of the four underwriters tapped by the Hangzhou-based firm, 
+## Scientists Saved Us From Catastrophic Risk Before
+Track-two science diplomacy can provide vital safeguards on AI.
 
 ## Top Signs You’re Heading for a Quagmire
 Failed wars are predictable, if you know what to look for.
@@ -156,8 +162,11 @@ A far-right state election victory is ushering in the end of the country’s pos
 ## Southeast Asia’s Subtle Shift on Taiwan
 An erratic United States and a rising China have the region recalibrating.
 
-## Introducing the Fall 2026 Print Issue
-How to survive in a world without rules.
+## North Korea’s Nicaragua Courtship
+At a time when Pyongyang is restructuring its foreign relationships, its diplomatic focus on the Central American nation stands out.
+
+## Shifting Poles and Power 35 Years After the End of the Soviet Union
+For many post-Soviet states, multipolarity is nothing new. Navigating between competing powers has been an important part of their security strategy since independence.
 
 ## North Korean Elites and Regime Weakness
 Insights from Jieun Baek.
@@ -176,12 +185,6 @@ Focusing strictly on China’s anxieties misses a far more urgent reality: South
 
 ## Turkish, Kazakh, and Malaysian Companies Hit With New US Sanctions Over Iran
 In addition to sanctioning 27 Iranian airlines, the U.S. designated Turkish, Kazakh, and Malaysian companies for serving as general sales agents for long-sanctioned Iranian airline Mahan Air.
-
-## Rethinking Russia, Re-evaluating Risk: The Changing Face of Kyrgyz Migration
-The war in Ukraine has produced a much longer-term transformation of the institutional and political environment in which migration takes place.
-
-## Lee and Macron Pledge Deeper Security Ties After Paris Summit
-South Korea and France agreed to advance defense cooperation and coordinate on Hormuz Strait security following a summit in Paris.
 
 ## Automating the Action Officer: Between Bureaucracy and Technology
 If there is a revolution brewing in the automation of white-collar work, you wouldn’t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, perform essentially the same duties as their predecessors in 1996 or 1956: creating charts, authoring 
@@ -231,29 +234,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels
-The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.
+## Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp
+Insufficient aid and shelter increase hardship for displaced in Tawila, as malnutrition and disease spread rapidly.
 
-## Enrique hails Dembele, praises Toure after PSG’s win over Bratislava
-PSG coach hails 'marvellous' Dembele after the French forward scored two goals in PSG's 6–1 win over Toure's side.
+## At least 25 dead after cargo ship catches fire in China
+Fire breaks out on ship being repaired in the port of Qingdao, eastern China.
 
-## Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic
-Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia's Arctic region.
+## Algeria says cutting diplomatic ties with UAE
+This is a breaking news story.
 
-## Israeli attacks kill at least four Palestinians in northern Gaza
-Israeli attacks on the occupied Palestinian territory continue despite a 'ceasefire' brokered in October.
+## Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?
+Four goals in five games made the 18-year-old striker Barcelona's top scorer during preseason.
 
-## Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86
-Harimoto, whose record 3,085 career hits still stands, was inducted into the Japanese Baseball Hall of Fame in 1990.
+## Israel will never stop me speaking up for Palestine
+Israel’s decision to bar British MPs exposes how far it will go to avoid scrutiny over its treatment of Palestinians.
 
-## Europe’s far right: Putin’s best friend?
-Its gains threaten to deepen Europe’s divisions over Ukraine and Russia.
+## Calls grow for investigation after ICE attacks protesters
+Calls grow for investigation after ICE attacks protesters
 
-## Zverev defeats Van de Zandschulp in straight sets to enter US Open semis
-The German, who faces Russia’s Karen Khachanov, is the only Grand Slam winner left standing in the men's draw.
+## The Houthis are testing the limits of Saudi restraint
+Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.
 
-## Anthropic discloses 4th AI hacking incident as researcher quits over safety
-AI firm says Claude Opus 4.6 hacked external systems during testing as concerns mount over security breaches.
+## IAEA accuses Iran of ‘noncompliance’
+Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.
+
+## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
+Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
 
 ## Telangana tax dept holds officers personally accountable for unauthorised AI sharing of taxpayer data
 Circular allows officials to use AI for generic research, drafting and administrative efficiency, but bars them from entering identifiable taxpayer information into public or commercial AI platforms without written authorisation.
@@ -276,8 +282,8 @@ The Institute of Chartered Accountants of India is exploring private equity inve
 ## GST Council meeting rescheduled to October 7 due to BRICS summit
 The GST Council meeting has been rescheduled to October 7 due to the BRICS summit. This meeting will occur after a gap of over a year for the council. Discussions will focus on simplifying GST registration for businesses passing tax credits. Automation and changes in GST registration cancellation ar
 
-## AIFs seek status quo as 'foreign control' rules go for a recast
-Local alternative investment funds have warned regulators about proposed changes. These changes could significantly impact capital inflows into India's economy. The draft rules aim to curb indirect foreign ownership in sensitive sectors. Industry officials requested the status quo on existing regula
+## RBI's FCNR liquidity problem is becoming a treasury problem for banks
+The Reserve Bank of India's struggle to absorb a record liquidity surplus is increasingly becoming a treasury-management challenge for banks, which must decide how much excess cash to park with the central bank, deploy into loans or securities, or keep readily available.
 
 ## RBI launches key surveys to get inputs for monetary policy
 The Reserve Bank of India has launched three key surveys today. These surveys aim to gauge inflation expectations and consumer confidence across India. The Inflation Expectations Survey of Households will capture price movement assessments. Urban and Rural Consumer Confidence Surveys will gather sen
@@ -299,7 +305,4 @@ Sebi’s revised ETF trading rules have come into effect from September 7, chang
 
 ## RBI absorbs Rs 6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high
 Recently, the Reserve Bank of India undertook measures to absorb more than six lakh crore rupees from the banking system, utilizing two variable rate reverse repo auctions. This move comes as a response to record high surplus liquidity driven by significant inflows from a special deposit scheme and 
-
-## RBI may raise repo rate to 5.75-6% in H2 FY27, rate hike cycle likely from December: UBI
-Union Bank of India expects the RBI to raise the repo rate to 5.75-6% in H2 FY27, from the current 5.25%, with the rate-hike cycle likely beginning in December.
 
