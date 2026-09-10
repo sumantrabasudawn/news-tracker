@@ -1,34 +1,46 @@
 # AION Intelligence
 
-## England’s mayors to be allowed to introduce unlimited tourism tax
-Hotel rooms, bed and breakfasts and Airbnb-type rentals face new levy
+## ECB prepares for ‘longer-lasting’ inflation as it lifts interest rates to 2.5%
+Central bank president Christine Lagarde warns price shock driven by Middle East conflict will persist well into 2027
 
-## Is Trump losing his touch? Submit your questions now
-Take part in a live Ask an Expert Q&A with columnist Jemima Kelly
+## Say goodbye to the SaaSpocalypse and hello to the RenaiSaaS
+Software companies have shown they can be beneficiaries of AI, rather than easy targets for it, though some risks remain
 
-## Bessent continues crusade against rising US government bond yields
-Also in today’s newsletter, White House prepares for CIA director to take on bigger role in Russia-Ukraine war
+## Reform candidate for London mayor said Tories ‘should have borrowed and borrowed’
+Comments by Laila Cunningham about more government borrowing when interest rates were ‘zero per cent’ appear to put her at odds with party leader
 
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
+## Ourselves Alone: a partial glimpse inside Ireland’s Sinn Féin
+The party’s former press adviser chronicles how Sinn Féin’s 2024 electoral ambitions imploded
 
-## European Central Bank raises interest rates with hawkish guidance
-Widely expected move comes with slightly stronger growth and inflation forecasts despite a higher market-implied rate path
+## Spain’s new citizenship law to spark fresh tensions with Morocco
+Madrid paves way for tens of thousands of people born in Western Sahara before 1977 and their descendants to become Spanish
 
-## Saudi Arabia cuts oil output to lowest this year on Houthi threats
-Rebels announced ‘maritime embargo’ against kingdom’s exports in July, forcing world’s biggest exporter to cut production
+## America is losing its captive creditors
+The US is paying a higher cost to induce more price-sensitive investors to buy Treasuries
 
-## How to teach the next generation in the era of AI
-The Pisa results sound the alarm on the disastrous impact of tech on our basic skills
+## Why young Africans are nostalgic for the past
+Struggling economies are making Gen Z South Africans and Nigerians pine for the 1990s
 
-## Foreign Office to appoint first female head after Mandelson turmoil
-Lindy Cameron becomes top civil servant at the department that was rocked by the sacking of predecessor Olly Robbins
+## Houthis capture Red Sea port in blow to Saudis
+Rebels overrun historic Yemeni port of Mocha as they advance south towards strategic Bab al-Mandeb Strait
 
-## What we learnt from OpenAI’s hack of Hugging Face
-Commercial AI tools failed to defend the platform against the attack — the solution lies in open-weight models
+## Vantage Data Centers seeks $2bn in loans from Pimco and PGIM
+DigitalBridge-backed firm taps new investors for AI infrastructure as Wall Street banks limit exposure
+
+## Burnham’s devolution project needs strong local media too
+Regional leaders have to be held accountable to their voters
 
 ## Ryanair investors revolt over Michael O’Leary’s €150mn pay deal
 Airline boss has defended bumper remuneration packages, saying they are contingent on meeting stretching targets
+
+## England’s mayors to be allowed to introduce unlimited tourism tax
+Hotel rooms, bed and breakfasts and Airbnb-type rentals face new levy
+
+## Hugging Face co-founder: What we learnt from OpenAI’s hack
+Commercial AI tools failed to defend the platform against the attack — the solution lies in open-weight models
+
+## Saudi Arabia cuts oil output to lowest this year on Houthi threats
+Rebels announced ‘maritime embargo’ against kingdom’s exports in July, forcing world’s biggest exporter to cut production
 
 ## Big Tech has replaced Big Oil as Public Enemy No 1, says US shale boss
 Diamondback Energy CEO Kaes Van’t Hof says oil companies are no longer viewed as pariahs by young people seeking a well-paid career
@@ -36,35 +48,35 @@ Diamondback Energy CEO Kaes Van’t Hof says oil companies are no longer viewed 
 ## UK banks don’t have a windfall to tax
 The so-called big four are in decent shape, but hardly world beaters
 
-## New AI health tools need ‘L-plates’, says UK review
-Proposals following national consultation on health tech regulation call for live monitoring as AI moves deeper into patient care
-
-## FirstFT: Government buyback fails to halt rise in Treasury yields
-Also in today’s newsletter: Witkoff and Kushner’s failed diplomacy and reaction to Apple’s new folding iPhone
-
-## Delhi health department’s promises remain unfinished, committee flags gaps
-Committee says many CAG-linked measures remain planned or under process
-
-## Navi Mumbai airport eyes more international routes with waiver in landing charges
-As per the order, concessions in landing fees would be applicable to a new route from Mumbai Metropolitan Region
-
-## Raptee.HV launches Centre of Excellence for EVs at Rajalakshmi Engineering College
-Raptee will use the 3,000 sq. ft. facility to bring hands-on EV engineering and industry exposure to the institution
+## Should you subscribe to ARCIL’s IPO?
+Unpredictable recoveries and absence of listed peers make ARCIL’s IPO valuation a guessing game
 
 ## Kanohar Electricals IPO gets highest bids so far as 3 issues close today
 The issue was subscribed 215.37 times by qualified institutional buyers (QIBs), 87.74 times by non-institutional investors (NIIs) and 20.51 times by retail investors
 
-## Are China’s rare earths really a potent weapon?
-The available evidence indicates that Chinese rare-earth export restrictions would cost the West far less than often feared
+## SIP inflows hit record ₹32,297 crore in August despite market volatility
+SIP accounts cross 10 crore mark
 
-## Ultraviolette Automotive to build EV factory in Hosur with ₹779 crore investment
-The electric vehicle manufacturer anticipates the product mix would be 50-50 between scooters and motorcycles in next 3-4 years with its Tesseract scooter
+## The cheetah index bounds forward
 
-## Hero Motors IPO: ₹79-84 price band targets ₹3,815-crore valuation as EV business grows
-The company will use ₹190 crore of the fresh proceeds to repay or prepay borrowings and ₹200 crore to buy equipment for expanding capacity at its UP facilityHero Motors has priced its ₹1,000-crore IPO at ₹79-84 a share, targeting a valuation of about ₹3,815 crore as the Tier-1 automotive component m
 
-## Emirates SkyCargo adds freighter flights to Bengaluru, Chennai and Hyderabad
-This move aims to bolster Indian exports as the country increasingly positions itself as a global manufacturing hub.
+## Govt to track sugar production every month starting October
+Mills need to sell ‌sugar at reasonable prices and the government will take corrective measures to ⁠keep prices stable: Food Ministry
+
+## Indian Agriculture Minister opens another round of consultations on draft Seed Bill
+Shivraj Singh Chouhan non-committal on the deadline to finalise the bill, but the industry wants it fast tracked
+
+## Andhra ‘natural’ farmers tackle low-rain season via pre-monsoon dry sowing
+As of September 1, 2026, about 17 lakh farmers have practised PMDS across 7.70 lakh hectares in the State
+
+## Indian Agri Minister Shivraj Singh Chouhan lauds merits of dryland farming as farmers shift from millets
+Irrigation has led to paddy-wheat rotation with oilseeds, pulses and millets disappearing
+
+## 83-year-old had Rs 2.42 lakh FD, Rs 1.06 lakh cash; how she won 9-year-old tax demand case
+For reasons not known, the woman did not respond to the notice. The Income Tax Assessing Officer consequently completed the assessment under Section 144 and determined her total income at Rs 5.15 lakh, treating the amount as unexplained.
+
+## Crypto challenge unresolved, need partners beyond regulators: FATF VP
+Vivek Aggarwal highlighted the ongoing challenges posed by virtual assets and technology-driven fraud. He urged for enhanced collaboration among stakeholders to combat these growing threats. It is essential for both regulatory bodies and private companies to modernize their frameworks and invest in 
 
 ## Global Fintech Fest 2026: India can shape future global finance architecture, says RBI governor
 
@@ -84,35 +96,32 @@ A 28-year-old woman has claimed on Reddit that she has a net worth of around Rs 
 ## Nitin Gadkari: ‘I want to set record’ for blacklisting maximum contractors for poor work
 Nitin Gadkari said on Wednesday that he wanted to "set a record" by blacklisting the largest possible number of contractors and suspending officials found responsible for delays or poor-quality execution in infrastructure projects.
 
-## Taxman seized woman’s gold, diamonds and silver; how she won case in ITAT
-The matter began after the woman filed her income tax return (ITR) on August 12, 2019, declaring an income of Rs 1.34 lakh. However, around a year before she filed the return, the Income Tax Department came across information about her while conducting a search at the offices of a company.
+## India-Russia ties poised for new phase of trade, technology and industrial cooperation: Piyush Goyal
+Union Commerce and Industry Minister Piyush Goyal on Thursday said India Russia economic ties must move “from protocols to production, from trade to industry”.
 
-## Gold, silver price prediction: Why gold, silver are under pressure; check outlook on September 10, 2026
-Gold and silver price prediction today: Gold prices may continue to trade within a consolidation range in the short term; however, a decisive breakdown from this phase could trigger another leg of selling.
+## Xi’s first visit in 7 years: India and China look to consolidate peace along LAC
+China’s foreign ministry officially confirmed Xi’s participation in the Brics Summit on Thursday, saying that he will travel to India during September 12-13
 
-## Satya Niketan PG operator's anticipatory bail plea rejected by Delhi court days after 7 killed in building collapse
-Satya Niketan PG operator's anticipatory bail plea rejected by Delhi court days after 7 killed in building collapse
+## Apple's 1st foldable phone iPhone Duo takes political turn as parties use its template to mock each other. Take a look
+Apple announced its first foldable phone, the iPhone Duo, at the “Surprise and shine” event on September 9.
 
-## Andhra HC questions 34% OBC quota in local bodies, seeks data
-The Andhra Pradesh high court sought data and the rationale behind the state government’s decision to provide 34% OBC reservation in local bodies.
+## Delhi high court rejects Vinesh Phogat’s plea to compete in World Championship trials
+Court said selection criteria apply equally to all athletes and allowing Phogat provisionally would create an exception in her favour
 
-## 1980s AI photo trend: What is the environmental cost of your latest AI avatar?
-The viral 80s AI trend is a social media craze in which users are using ChatGPT and Gemini to reimagine their modern selfies as retro portraits from the 1980s.
+## Gujarat Assembly passes bill making licences mandatory for livestock feed
+Gujarat Assembly passed a bill making licences mandatory for livestock and poultry feed manufacture, storage and sale, with penalties for substandard feed.
 
-## Right time to uproot seeds of Naxalism, WB CM Suvendu Adhikari attacks JU
-West Bengal CM Suvendu Adhikari attacked Jadavpur University teachers, saying it was time to “uproot the seeds of Naxalism” in the state.
+## CRPF convoy attacked on NH-2 in Manipur’s Imphal West, no casualties
+Armed miscreants fired at a CRPF convoy patrolling on NH-2 in Manipur’s Imphal West; no casualties were reported, police said.
 
-## HT Evening News Brief September 10: Xi to be in India for BRICS summit; Wangchuk's fresh agitation warning
-Here's your one-stop briefing on today's top news stories from India and the world.
+## 'Seems like an ex-girlfriend': Raghav Chadha counters AAP's Delhi voter roll allegations with 'heartbroken lover' jibe
+Responding to AAP's allegations, Raghav Chadha took a jibe at his former party, saying that “AAP seems like an ex-girlfriend whose boyfriend dumped her.”
 
-## Three arrested over shooting targeting Goa casino director: Police
-Three people were arrested over the shooting targeting Goa casino director Shrinivas Nayak, but police said the actual shooters remain at large.
+## Heavy vehicles banned on Mumbai-Goa highway during Ganeshotsav
+Maharashtra has banned heavy vehicles weighing 16 tonnes or more on the Mumbai-Goa highway during key Ganeshotsav travel and immersion periods.
 
-## India’s farm yields rise, but China continues to produce twice as much grain
-India’s rice, wheat and maize yields have risen, but China continues to produce more than twice India’s total cereal output, BRICS data shows.
-
-## Assam govt official hired mimics to impersonate CM, top bureaucrats: Police
-An Assam government official allegedly hired mimicry artists to impersonate the CM and top bureaucrats to cheat businessmen in a jobs-and-contracts racket.
+## Record China-US gap in bond yields unlikely to trigger capital flight: Marsh Investment
+The widening yield spread between Chinese and American government bonds is unlikely to trigger catastrophic capital flight from China, according to investment executives at Marsh Investment, who attribute the record spread to the United States’ fiscal pressures and global macro trends rather than a 
 
 ## Investment surge in Central Asia drives calls for expanded use of Chinese yuan
 Expanding use of the Chinese yuan in fast-growing Central Asia, where China is a top investor, can reduce risks and costs for infrastructure firms, part of a broader trend that sees the currency gaining ground wherever commercial flows create demand for it, according to speakers on an investment pan
@@ -135,8 +144,11 @@ Mainland Chinese supermarkets, including US warehouse retailer Sam’s Club, hav
 ## Jewellery shops shut down as Chinese consumers switch focus to gold bars and coins
 Most of the gold jewellery shops that once lined the main commercial street in Biyang, Henan province, have closed as gold prices hover at high but volatile levels and a decline in marriages dents demand. “Gold jewellery used to be very popular in our small county,” said 25-year-old kindergarten tea
 
-## Can Hong Kong stocks contend with wild swings without help from state hands?
-As concerted state buying puts a floor under mainland China’s onshore stock market amid Beijing’s stabilisation measures, investors in Hong Kong worry about coping with high volatility at a delicate time, with multiple market-roiling factors. These include geopolitical tensions, sluggish earnings gr
+## The Paradox of Prabowonomics
+Indonesia is experiencing 5 percent growth, but not everyone is feeling it.
+
+## The Political Cost of Sending Korean Forces to Hormuz
+By pressuring Seoul to support his Iran war, Trump is weakening a vital alliance.
 
 ## Scientists Saved Us From Catastrophic Risk Before
 Track-two science diplomacy can provide vital safeguards on AI.
@@ -156,35 +168,29 @@ Domestic politics constrains Berlin’s ability to respond to an attempted drone
 ## How Could Iran Happen? An Autopsy.
 The president’s war on the “deep state” led directly to his debacle in the Middle East.
 
-## German Democracy, as We Knew It, Is Over
-A far-right state election victory is ushering in the end of the country’s postwar political system.
+## East Asia’s Quiet Race to Find the Universe’s Missing Mass
+China, South Korea, and Japan all run their own programs to detect dark matter, some of them world-leading in sensitivity.
 
-## Southeast Asia’s Subtle Shift on Taiwan
-An erratic United States and a rising China have the region recalibrating.
+## What Kazakhstan’s New Unicameral Parliament Means for Its Foreign Policy
+Although Kazakhstan’s Senate rarely exercised its influence over the country’s foreign policy, its abolishment has left the country without the diplomatic expertise and sequential vetting that the upper chamber once provided.
 
-## North Korea’s Nicaragua Courtship
-At a time when Pyongyang is restructuring its foreign relationships, its diplomatic focus on the Central American nation stands out.
+## Why Is China Less Active in the 2026 Ebola Epidemic?
+Ten years ago, China was a prominent source of Ebola aid. Today, China’s more powerful but its response is less than many expected – especially as the U.S. steps back.
 
-## Shifting Poles and Power 35 Years After the End of the Soviet Union
-For many post-Soviet states, multipolarity is nothing new. Navigating between competing powers has been an important part of their security strategy since independence.
+## Why Have Indians Become a Regular Target of Hate in Singapore?
+Popular resentment toward the city-state's Indian community and Indian nationals has been building for some time.
 
-## North Korean Elites and Regime Weakness
-Insights from Jieun Baek.
+## Al-Qaida: 25 Years After 9/11
+The current threat from al-Qaida is diffused. It relies on homegrown, lone-actor terrorists to carry out low-end attacks, such as stabbing and vehicle ramming.
 
-## The Ultimate Hedger: Why Vietnam Is Thriving Amid Global Disorder
-Vietnam is deeply committed, for strategic and historic reasons, to respond to uncertainty and global geopolitical tensions by hedging. And it's working.
+## Vietnam’s To Lam Concludes State Visit to Russia, Departs For France
+The Vietnamese leader and his counterpart Vladimir Putin identified trade and energy as important areas of future bilateral cooperation.
 
-## Russia Is Helping Supercharge North Korea’s Military Drones
-North Korea, already receiving Russian drone technology, could eventually gain access to more advanced capabilities like autonomous AI‑enabled and jet‑powered drones.
+## Is Indonesia’s 100 GW Solar Plan Realistic?
+Whether or not the goal is achievable, it sends a strong signal that Jakarta is serious about putting more resources toward clean energy.
 
-## Which Document Proves Indian Citizenship? There Isn’t 1 Answer
-Indian laws never specified any single document as proof of citizenship, but the Modi government’s citizenship screening drive has turned it into a big question.
-
-## Why the South Korea-US Alliance Needs the Dark Eagle
-Focusing strictly on China’s anxieties misses a far more urgent reality: South Korea faces an existential threat from North Korea.
-
-## Turkish, Kazakh, and Malaysian Companies Hit With New US Sanctions Over Iran
-In addition to sanctioning 27 Iranian airlines, the U.S. designated Turkish, Kazakh, and Malaysian companies for serving as general sales agents for long-sanctioned Iranian airline Mahan Air.
+## El Niño, Climate Catastrophe, and the Coming Financial Showdown
+Pablo Berrutti discusses Nepal’s glacial collapse, Indonesia’s wildfires, and why efforts at climate mitigation are falling short.
 
 ## Automating the Action Officer: Between Bureaucracy and Technology
 If there is a revolution brewing in the automation of white-collar work, you wouldn’t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, perform essentially the same duties as their predecessors in 1996 or 1956: creating charts, authoring 
@@ -234,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp
-Insufficient aid and shelter increase hardship for displaced in Tawila, as malnutrition and disease spread rapidly.
+## US Supreme Court blocks Republican-drawn congressional map in Missouri
+Rejection comes as Republican official in Missouri faces contempt charges for ignoring a lower court ruling.
 
-## At least 25 dead after cargo ship catches fire in China
-Fire breaks out on ship being repaired in the port of Qingdao, eastern China.
+## Trump’s Iran war now has a midterm election problem
+Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting.
 
-## Algeria says cutting diplomatic ties with UAE
-This is a breaking news story.
+## Jerusalem Daily: Israeli strikes devastate Gaza
+Israeli air strikes have killed and injured dozens across Gaza.
 
-## Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?
-Four goals in five games made the 18-year-old striker Barcelona's top scorer during preseason.
+## Oil jumps to $105, pushing up chances of a US interest rate increase
+Prices spiked as attacks on oil tankers escalated in the Middle East.
 
-## Israel will never stop me speaking up for Palestine
-Israel’s decision to bar British MPs exposes how far it will go to avoid scrutiny over its treatment of Palestinians.
+## LIVE: Manchester United vs Sabah – UEFA Champions League
+Live updates from our text commentary stream coverage as Bruno Fernandes and Marcus Rashford star in the league phase.
 
-## Calls grow for investigation after ICE attacks protesters
-Calls grow for investigation after ICE attacks protesters
+## UN expert Albanese, protesters warn against Italy’s anti-Semitism bill
+Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.
 
-## The Houthis are testing the limits of Saudi restraint
-Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.
+## At least 20 killed in school fire in rebel-held DR Congo city
+Victims from the fire in AFC/M23-held Bukavu include primary school students, say officials and media reports.
 
-## IAEA accuses Iran of ‘noncompliance’
-Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.
+## Houthis capture Yemeni town of Mocha: Why it’s important
+The Houthi seizure of Mocha threatens global trade routes, severs vital supply lines, and displaces thousands in Yemen.
 
 ## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
 Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
