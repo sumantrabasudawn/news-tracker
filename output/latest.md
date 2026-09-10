@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## How would Trump’s $5,000 voting payout work?
+President’s pledge to give cash to all American adults if Republicans win midterms will be at heart of his party’s campaign
+
+## Burnham urged not to snub Commonwealth summit amid reparations demands
+UK prime minister is weighing up whether to attend biennial event being held in Antigua
+
+## Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields
+Close ally of Kevin Warsh says Federal Reserve officials who argue rates are restrictive are ‘just ridiculous’
+
+## Apple’s big goal after foldable iPhone
+The first critical step for new CEO John Ternus will be to make AI an everyday reality on its devices
+
+## Mahmood demands ‘effective police action’ ahead of UK anti-migrant protests
+Call by home secretary follows disruption and violence in Dover and Portsmouth last weekend by Patriot Platform
+
 ## ECB prepares for ‘longer-lasting’ inflation as it lifts interest rates to 2.5%
 Central bank president Christine Lagarde warns price shock driven by Middle East conflict will persist well into 2027
 
@@ -9,20 +24,8 @@ Software companies have shown they can be beneficiaries of AI, rather than easy 
 ## Reform candidate for London mayor said Tories ‘should have borrowed and borrowed’
 Comments by Laila Cunningham about more government borrowing when interest rates were ‘zero per cent’ appear to put her at odds with party leader
 
-## Ourselves Alone: a partial glimpse inside Ireland’s Sinn Féin
-The party’s former press adviser chronicles how Sinn Féin’s 2024 electoral ambitions imploded
-
-## Spain’s new citizenship law to spark fresh tensions with Morocco
-Madrid paves way for tens of thousands of people born in Western Sahara before 1977 and their descendants to become Spanish
-
-## America is losing its captive creditors
-The US is paying a higher cost to induce more price-sensitive investors to buy Treasuries
-
-## Why young Africans are nostalgic for the past
-Struggling economies are making Gen Z South Africans and Nigerians pine for the 1990s
-
-## Houthis capture Red Sea port in blow to Saudis
-Rebels overrun historic Yemeni port of Mocha as they advance south towards strategic Bab al-Mandeb Strait
+## British man admits inventing fake takeover bid for Canadian oil explorer
+Christopher Woolcott used false identities and forged documents in hope of benefiting from rise in Touchstone Exploration shares, says regulator
 
 ## Vantage Data Centers seeks $2bn in loans from Pimco and PGIM
 DigitalBridge-backed firm taps new investors for AI infrastructure as Wall Street banks limit exposure
@@ -36,41 +39,29 @@ Airline boss has defended bumper remuneration packages, saying they are continge
 ## England’s mayors to be allowed to introduce unlimited tourism tax
 Hotel rooms, bed and breakfasts and Airbnb-type rentals face new levy
 
-## Hugging Face co-founder: What we learnt from OpenAI’s hack
-Commercial AI tools failed to defend the platform against the attack — the solution lies in open-weight models
+## India’s coal gasification push needs a Chinese technology bridge
+Why India should explore access to China’s decades-old coal gasification technology, rather than developing it from scratch
 
-## Saudi Arabia cuts oil output to lowest this year on Houthi threats
-Rebels announced ‘maritime embargo’ against kingdom’s exports in July, forcing world’s biggest exporter to cut production
+## US proposes ending 60-day grace period for H-1B workers who lose jobs
+The Department of Homeland Security has opened a 60-day public comment period on the proposed change to existing immigration rules
 
-## Big Tech has replaced Big Oil as Public Enemy No 1, says US shale boss
-Diamondback Energy CEO Kaes Van’t Hof says oil companies are no longer viewed as pariahs by young people seeking a well-paid career
+## Jyotiraditya Scindia says India must focus on outcomes, not outlays
+Speaking to college students, Scindia highlighted education reforms and campus expansion while acknowledging deficiencies and urging Indians to keep moving forward
 
-## UK banks don’t have a windfall to tax
-The so-called big four are in decent shape, but hardly world beaters
+## What former SBI Chairperson Arundhati Bhattacharya got wrong about women, gender bias — and Gen Z
+In Aparajita, Bhattacharya reflects on bias, women and Gen Z. Her leadership lesson: persistence gets you there; humility keeps you relevant
 
-## Should you subscribe to ARCIL’s IPO?
-Unpredictable recoveries and absence of listed peers make ARCIL’s IPO valuation a guessing game
+## From ‘dhotiwalas’ to ‘suitwalas’: Mukesh Ambani recalls Dhirubhai’s BSE prophecy
+Ambani linked his father’s philosophy with lessons from Arundhati Bhattacharya’s life, highlighting responsibility, family, continuous learning and empowering others
 
-## Kanohar Electricals IPO gets highest bids so far as 3 issues close today
-The issue was subscribed 215.37 times by qualified institutional buyers (QIBs), 87.74 times by non-institutional investors (NIIs) and 20.51 times by retail investors
+## Apple iPhone Duo, 18 Pro Max, Pro launched Prices in India: Full List
+Apple’s new iPhone lineup in India: Prices, variants and availability
 
-## SIP inflows hit record ₹32,297 crore in August despite market volatility
-SIP accounts cross 10 crore mark
+## Will iPhone fans take a bite of Apple’s foldable offerings?
+At a price point of ₹3 lakh, Samsung’s foldable looks more affordable now in India
 
-## The cheetah index bounds forward
-
-
-## Govt to track sugar production every month starting October
-Mills need to sell ‌sugar at reasonable prices and the government will take corrective measures to ⁠keep prices stable: Food Ministry
-
-## Indian Agriculture Minister opens another round of consultations on draft Seed Bill
-Shivraj Singh Chouhan non-committal on the deadline to finalise the bill, but the industry wants it fast tracked
-
-## Andhra ‘natural’ farmers tackle low-rain season via pre-monsoon dry sowing
-As of September 1, 2026, about 17 lakh farmers have practised PMDS across 7.70 lakh hectares in the State
-
-## Indian Agri Minister Shivraj Singh Chouhan lauds merits of dryland farming as farmers shift from millets
-Irrigation has led to paddy-wheat rotation with oilseeds, pulses and millets disappearing
+## NCLAT sets aside NCLT order directing Home Derivatives liquidation
+The appellate tribunal said the liquidation process had begun before the amended regulations were notified, making retrospective application impermissible
 
 ## 83-year-old had Rs 2.42 lakh FD, Rs 1.06 lakh cash; how she won 9-year-old tax demand case
 For reasons not known, the woman did not respond to the notice. The Income Tax Assessing Officer consequently completed the assessment under Section 144 and determined her total income at Rs 5.15 lakh, treating the amount as unexplained.
@@ -96,13 +87,19 @@ A 28-year-old woman has claimed on Reddit that she has a net worth of around Rs 
 ## Nitin Gadkari: ‘I want to set record’ for blacklisting maximum contractors for poor work
 Nitin Gadkari said on Wednesday that he wanted to "set a record" by blacklisting the largest possible number of contractors and suspending officials found responsible for delays or poor-quality execution in infrastructure projects.
 
+## Hope we’ll have front-of-pack labels on food items quite soon: FSSAI CEO Rajit Punhani
+The CEO spoke about implementation process, and how consumer awareness has led to more effective enforcement over the years.
+
+## MCD crackdown on illegal buildings: 56 jewellery shops in Chandni Chowk sealed, owners say goods worth crores locked
+The enforcement drive comes amid Delhi government's intensified action against illegal and dangerous structures following Satya Niketan incident.
+
 ## India-Russia ties poised for new phase of trade, technology and industrial cooperation: Piyush Goyal
 Union Commerce and Industry Minister Piyush Goyal on Thursday said India Russia economic ties must move “from protocols to production, from trade to industry”.
 
 ## Xi’s first visit in 7 years: India and China look to consolidate peace along LAC
 China’s foreign ministry officially confirmed Xi’s participation in the Brics Summit on Thursday, saying that he will travel to India during September 12-13
 
-## Apple's 1st foldable phone iPhone Duo takes political turn as parties use its template to mock each other. Take a look
+## iPhone foldable phone launch takes political turn as Congress-BJP use it as meme to mock each other
 Apple announced its first foldable phone, the iPhone Duo, at the “Surprise and shine” event on September 9.
 
 ## Delhi high court rejects Vinesh Phogat’s plea to compete in World Championship trials
@@ -113,12 +110,6 @@ Gujarat Assembly passed a bill making licences mandatory for livestock and poult
 
 ## CRPF convoy attacked on NH-2 in Manipur’s Imphal West, no casualties
 Armed miscreants fired at a CRPF convoy patrolling on NH-2 in Manipur’s Imphal West; no casualties were reported, police said.
-
-## 'Seems like an ex-girlfriend': Raghav Chadha counters AAP's Delhi voter roll allegations with 'heartbroken lover' jibe
-Responding to AAP's allegations, Raghav Chadha took a jibe at his former party, saying that “AAP seems like an ex-girlfriend whose boyfriend dumped her.”
-
-## Heavy vehicles banned on Mumbai-Goa highway during Ganeshotsav
-Maharashtra has banned heavy vehicles weighing 16 tonnes or more on the Mumbai-Goa highway during key Ganeshotsav travel and immersion periods.
 
 ## Record China-US gap in bond yields unlikely to trigger capital flight: Marsh Investment
 The widening yield spread between Chinese and American government bonds is unlikely to trigger catastrophic capital flight from China, according to investment executives at Marsh Investment, who attribute the record spread to the United States’ fiscal pressures and global macro trends rather than a 
@@ -144,6 +135,9 @@ Mainland Chinese supermarkets, including US warehouse retailer Sam’s Club, hav
 ## Jewellery shops shut down as Chinese consumers switch focus to gold bars and coins
 Most of the gold jewellery shops that once lined the main commercial street in Biyang, Henan province, have closed as gold prices hover at high but volatile levels and a decline in marriages dents demand. “Gold jewellery used to be very popular in our small county,” said 25-year-old kindergarten tea
 
+## The ‘Super-Terrorist’ We Still Can’t Escape
+Carlos the Jackal left behind a violent, celebrity-obsessed world.
+
 ## The Paradox of Prabowonomics
 Indonesia is experiencing 5 percent growth, but not everyone is feeling it.
 
@@ -164,9 +158,6 @@ Ahead of the group’s leaders’ summit, New Delhi is pulling out the stops.
 
 ## Why Germany Isn’t Punishing Russia Harder
 Domestic politics constrains Berlin’s ability to respond to an attempted drone attack.
-
-## How Could Iran Happen? An Autopsy.
-The president’s war on the “deep state” led directly to his debacle in the Middle East.
 
 ## East Asia’s Quiet Race to Find the Universe’s Missing Mass
 China, South Korea, and Japan all run their own programs to detect dark matter, some of them world-leading in sensitivity.
@@ -192,6 +183,9 @@ Whether or not the goal is achievable, it sends a strong signal that Jakarta is 
 ## El Niño, Climate Catastrophe, and the Coming Financial Showdown
 Pablo Berrutti discusses Nepal’s glacial collapse, Indonesia’s wildfires, and why efforts at climate mitigation are falling short.
 
+## What America’s Adversaries and Allies Hope to Gain at the U.N. General Assembly
+This year’s U.N. General Assembly officially opened on Tuesday, Sept. 8. The annual gathering gives diplomats and leaders a valuable opportunity to press their foreign policy priorities and engage — formally and informally — with both partners and adversaries. Most heads of state will arrive later t
+
 ## Automating the Action Officer: Between Bureaucracy and Technology
 If there is a revolution brewing in the automation of white-collar work, you wouldn’t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, perform essentially the same duties as their predecessors in 1996 or 1956: creating charts, authoring 
 
@@ -212,9 +206,6 @@ Collective-defense pacts are meant to make war less likely. Poorly designed ones
 
 ## The Two Questions Ukraine Asks Before Every Decision
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
-
-## China’s Warrior Scientists: Insights from Recent Operations Around Taiwan
-China’s marine scientific research ships are expanding their operations around Taiwan, and they are not just there to advance the frontiers of human knowledge. Their operations serve to undermine Taiwan’s independent political status and to force international acceptance of Beijing’s claim of sovere
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -240,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US Supreme Court blocks Republican-drawn congressional map in Missouri
-Rejection comes as Republican official in Missouri faces contempt charges for ignoring a lower court ruling.
+## Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC
+The decision follows a year of surging regulatory hurdles over candidate appearances on the Disney-owned network.
 
-## Trump’s Iran war now has a midterm election problem
-Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting.
+## Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
+Report reveals foreign nationals were misled with job offers, then forced into Russia's army upon arrival.
 
-## Jerusalem Daily: Israeli strikes devastate Gaza
-Israeli air strikes have killed and injured dozens across Gaza.
+## Fire onboard ship at Chinese shipyard kills 25 people
+At least 25 people were killed after a fire broke out aboard a ship at a shipyard in China.
 
-## Oil jumps to $105, pushing up chances of a US interest rate increase
-Prices spiked as attacks on oil tankers escalated in the Middle East.
+## England close in on Pakistan whitewash in third Test as Robinson shines
+Demoralised tourists reach 52-2 before rain ends play early on day two, needing 268 runs to make England bat again.
 
-## LIVE: Manchester United vs Sabah – UEFA Champions League
-Live updates from our text commentary stream coverage as Bruno Fernandes and Marcus Rashford star in the league phase.
+## More than a dozen children killed in fire in eastern DR Congo schools
+Authorities say at least 14 school children have been killed after fire ravaged schools in the DR Congo.
 
-## UN expert Albanese, protesters warn against Italy’s anti-Semitism bill
-Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.
+## Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF
+More than 171 million students affected globally with girls disproportionately impacted.
 
-## At least 20 killed in school fire in rebel-held DR Congo city
-Victims from the fire in AFC/M23-held Bukavu include primary school students, say officials and media reports.
+## Family of four killed as they slept in Israeli strike on Gaza
+Four members of a Palestinian family, including girls aged 8 and 12, were killed in an Israeli air attack as they slept
 
-## Houthis capture Yemeni town of Mocha: Why it’s important
-The Houthi seizure of Mocha threatens global trade routes, severs vital supply lines, and displaces thousands in Yemen.
+## Kurdish YPJ women fighters face exclusion from Syria’s new army
+Syria’s Kurdish women fighters in northeast Syria as pushing to join the country’s new army.
 
 ## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
 Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
