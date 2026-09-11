@@ -3,11 +3,17 @@
 ## Houthis seize Red Sea islands in lightning offensive
 Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets
 
+## Lone Pine’s co-CIO to join early SpaceX backer Atreides Management
+Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker
+
+## JPMorgan cut off Situational Awareness lending after AI losses
+Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during sell-off
+
+## Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks
+Move is likely to put further momentum behind fast-rising oil prices
+
 ## Trump’s $5,000 dividend is bad corporate finance
 US president’s proposed $1.2tn handout fails to make sense in a country lacking excess cash and in need of investment
-
-## Situational Awareness builds relationships with new brokers as it attempts rebound
-Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during AI sell-off
 
 ## Is Bessent winning the wrong battle in markets?
 Treasury secretary’s intervention in the yen has made an impact but US bond yields are climbing higher and higher
@@ -18,11 +24,8 @@ Treasury secretary’s $6bn bond operation is insufficient to stem the recent su
 ## UK delays Jackdaw gasfield decision until after by-election in Starmer seat
 Tories and Greens criticise government’s move to push back North Sea project
 
-## UK economy unexpectedly grew 0.4% in July boosted by AI surge
-Resilient start to third quarter comes as surging oil price reignites inflation fears
-
-## Military jet triggered UK’s latest air traffic meltdown
-Flight plan submitted by one aircraft sparked turmoil that grounded thousands of planes this week
+## Court strikes down Trump administration order keeping coal plant open
+Ruling finds energy department exceeded its authority and complicates president’s plan to revive the coal industry
 
 ## Stockpickers: Rosebank Industries, SigmaRoc, Ashmore
 Our experts discuss which companies to buy, sell or hold this week
@@ -30,11 +33,11 @@ Our experts discuss which companies to buy, sell or hold this week
 ## Directors’ Deals: Shell’s upstream boss takes advantage of valuation uplift
 The oil major’s acquisition of ARC Resources is expected to improve free cash flow from next year
 
-## Why the AI race has its creators fearing human extinction
-Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream
+## UK economy unexpectedly grew 0.4% in July boosted by AI surge
+Resilient start to third quarter comes as surging oil price reignites inflation fears
 
-## Reader callout: What is the outlook for buy-to-let investors?
-Tell us your experiences following the change in legislation
+## Military jet triggered UK’s latest air traffic meltdown
+Flight plan submitted by one aircraft sparked turmoil that grounded thousands of planes this week
 
 ## India, Peru FTA talks enter final stretch; Lima hopes to sign deal in 2027
 Peruvian exports to India surged 152% in January-July, making it the country’s second-largest export destination ahead of the United States
@@ -63,6 +66,9 @@ Rentomojo, Karamtara Engineering and LCC Projects were the biggest draws, while 
 ## 2 homebuyers paid Rs 1.16 crore, got no flats; RERA orders builder to refund with interest
 The Maharashtra Real Estate Regulatory Authority has directed the developer to refund the amounts paid, along with applicable interest, after noting that the project remained incomplete and its registration had lapsed without an extension.
 
+## RBI moves to suck out excess liquidity
+As Forex Reserves Swell To All-Time High Of $786Bn, RBI Announces Sale Of 1L Cr Bonds
+
 ## India-EU FTA draft: European cars, wine, farm goods set for lower tariffs; key changes explained
 
 
@@ -81,8 +87,8 @@ Finance Minister Nirmala Sitharaman addressed artificial intelligence risks at t
 ## UPI now dominates merchant payments: Are cards becoming less useful?
 UPI now dominates Indian merchant payments, significantly reducing card usage. Debit cards are primarily used for cash withdrawals, not shopping. Credit cards are specializing in larger purchases and e-commerce transactions. RuPay credit cards can now link directly to UPI apps. The QR code scan is b
 
-## No-stop toll plazas by March 2027? Nitin Gadkari sets deadline for barrier-free system
-India is set to roll out a barrier-free digital tolling system by early 2027, allowing vehicles to glide past toll booths without stopping. The integration of number-plate recognition with existing FASTag technology promises to streamline the toll collection process even further. Motorists will expe
+## Minister says UDF will decide on PM SHRI soon
+Keralam's UDF will discuss the PM-SHRI scheme for schools, amid concerns of BJP influence, while weighing its benefits for 1.8 million students.
 
 ## U.S. envoy Sergio Gor visits Manipur, meets CM and governor
 US Ambassador Sergio Gor visited Manipur, meeting local leaders and exploring historic sites, emphasizing US-Manipur relations and tourism development.
@@ -104,9 +110,6 @@ Sizov spoke in Hindi about the growing strength of the grouping that has India, 
 
 ## BRICS Summit: Delhi announces traffic curbs, diversions for September 12; Check affected routes
 Delhi Police on Friday announced traffic diversions and regulated vehicle movement on key routes across the national capital on Saturday, September 12.
-
-## Amid the 1980s nostalgia trend, here are 10 ChatGPT photo tricks you didn’t know
-From turning yourself into a Bollywood star from the ’80s to imagining your room in completely different design styles, AI can transform an ordinary photograph.
 
 ## ‘Key pillar’: the 5-year powerhouse plan for China’s car industry
 China is set to secure its place among the global automotive powerhouses by 2030 through further efforts to boost domestic sales and foster technological innovation, while a capacity alert mechanism will be introduced to guard against disorderly competition. The ambitious targets and actions are lai
@@ -132,6 +135,15 @@ China’s buoyant stock market lifted brokers’ earnings in the first half, whi
 ## Haidilao’s stock rout exposes funding risk from Beijing’s taxation crackdown as payments loom
 The turmoil surrounding Chinese hotpot chain restaurant operator Haidilao International Holding could serve as a warning to investors of the funding risks stemming from Beijing’s new taxation regime on overseas assets held by wealthy individuals. A plan by Shu Ping, the co-founder and wife of Haidil
 
+## Why AfD Appeals to So Many Germans
+The far-right party surges in a regional election.
+
+## Who Wears the BRICS Crown?
+India and China compete to shape the bloc’s agenda moving forward.
+
+## What in the World?
+Test yourself on the week of Sept. 5: A German state votes, Philippine police make a high-profile arrest, and Nigeria appoints a new military commander.
+
 ## The United States of Propaganda
 Few Americans have the vocabulary to describe what’s making them miserable.
 
@@ -146,15 +158,6 @@ Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is T
 
 ## Why 9/11 Baffles Us 25 Years Later
 It’s the strategic disaster that keeps on giving.
-
-## Israel’s Soft Power Is Its Hard Power
-The Israeli government’s greatest source of diplomatic influence is the popularity of its military equipment.
-
-## Jamaica’s Reparations Push
-The country is asking the U.K. to consider compensation for the harms of slavery.
-
-## What Makes a Good Counterterrorism Strategy?
-Three top experts on the terror threat 25 years after 9/11.
 
 ## What Role Does Denuclearization Have in North Korea-US Dialogue Today?
 Breaking down the denuclearization debate from both sides: North Korea and the United States.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How US leaders remembered the 25th anniversary of the 9/11 attacks
-Trump drew parallels to the US's present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.
+## Israeli demolitions threaten schools and homes in Masafer Yatta
+Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.
 
-## Houthi advance in Yemen is about more than just the Red Sea
-Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.
+## Saudi Arabia says East-West pipeline hit by drones launched from Iraq
+Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.
 
-## Real Madrid’s Mbappe: AI dictator memes show lack of political awareness
-France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.
+## Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form
+Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.
 
-## Iran says will discuss Strait of Hormuz with Gulf states on Monday
-Iran's Foreign Ministry says the meeting in Oman is to 'promote better understanding among the countries of the region'.
+## Somber tributes as US marks the 25th anniversary of September 11 attacks
+Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.
 
-## At least 46,000 displaced by escalating Yemen fighting: UN
-The International Organisation for Migration (IOM) warns that the figure is rising 'by the hour'.
+## Zohran Mamdani commemorates 9/11 amid widespread criticism
+NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city's history.
 
-## US holds memorials for the 9/11 attacks, 25 years later
-In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.
+## US legislators push AI safety laws amid human extinction warnings
+Concerns over AI's dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.
 
-## US declares end of largest recorded cyclosporiasis outbreak
-The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.
+## US lawyer cites fake witnesses in murder case, blames ChatGPT
+State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.
 
-## UK lawmakers vote against bill to legalise assisted dying
-Parliament's lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270.
+## Razaullah’s six-hitting debut caps Pakistan’s fightback against England
+Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
