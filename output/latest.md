@@ -1,115 +1,133 @@
 # AION Intelligence
 
-## UK economy unexpectedly grew 0.4% in July boosted by AI surge
-Resilient start to third quarter comes as surging oil price reignites inflation fears
+## Bond markets stabilise after global sell-off
+Decline in oil prices helps calm investor nerves but German borrowing costs hit highest level since 2009
 
-## Desperately seeking UK data centre data
-[SIC]
+## What we still haven’t learnt from 9/11
+Facing existential risks like superintelligent AI, we need bold and visionary leaders of the world’s great powers
 
-## Yemeni militants used Anthropic AI to try to build ballistic missiles
-Missile test by group apparently failed, but exposes limits of AI safeguards
+## The AfD won’t stop with Saxony-Anhalt
+The far-right party’s ambition is not regional leadership; its recent campaign is a blueprint for running the country
 
-## IEA warns of ‘lost period’ in global oil demand
-Strait of Hormuz will not reopen this year, agency says, warning of sharp drop in demand
+## Will Burnham grasp the urgent need to defend the UK?
+As threats mount, Labour MPs cheer the PM’s refusal to address the hard spending choices needed for our security
 
-## Andy Burnham’s blind spot
-Prime minister risks forgetting ‘flyover states’ in the Midlands that have huge growth potential
+## US inflation held steady at 3.4% in August as high fuel prices persist
+Figure prompts traders to increase bets on Fed rate rises ahead of high-stakes meeting
 
-## Putin anticipates friendly reception at India Brics summit
-Kremlin chief to pursue defence and investment deals with New Delhi at first in-person attendance abroad since Ukraine war
+## Reader callout: What is the outlook for buy-to-let investors?
+Tell us your experiences following the change in legislation
 
-## The best exhibitions to see in London this weekend
-The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
+## Claude thinks I’m an investment dunce
+Fair enough, but I don’t need the chatbot’s patronising tone as well
 
-## Elliott veteran to lead Citadel’s international equities business
-Ken Griffin’s hedge fund combines divisions as it seeks to deploy more firepower outside US
+## Houthis seize Red Sea islands in lightning offensive
+Latest advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets
+
+## Time to start taking AI risks seriously
+Governments promise a light-touch regulatory agenda amid growing threats
+
+## ‘Manchester is an opportunity’: but for whom?
+Having asserted its position as a cultural, economic and political powerhouse, the northern city has the highest property price growth of any UK city. Now, its homebuyer profile is shifting
+
+## Ex-Goodwin lawyer pleads not guilty to insider trading in London
+Richard Bloomfield faces five counts relating to acquisition of maternity-wear company Seraphine Group
+
+## FirstFT: Remembering the victims of 9/11
+Also in today’s newsletter: US diesel price hits $6 a gallon, and Citadel shake up
 
 ## KPMG under investigation over audits for Prax’s State Oil arm
 Big Four accountant, PKF Littlejohn and an unnamed individual to face FRC probe
 
-## US diesel hits record $6 a gallon on Iran supply shock
-Surging cost for fuel critical to agriculture and industry stokes price pressures as Americans confront affordability crunch
+## Anglo nickel deal tests EU resolve over Chinese control of resources
+China-backed MMG urges Brussels to approve $500mn transaction as European regulators prepare formal warning
 
-## Macron shoots for the moon with pitch to Europe’s struggling space sector
-Also in this newsletter: Europe keeps buying more Russian gas
+## IEA warns of ‘lost period’ in global oil demand
+Strait of Hormuz will not reopen this year, agency says, warning of sharp drop in demand as refined product prices soar
 
-## How big is the open-model threat to AI hyperscalers?
-Games without frontiers
+## Mastercard and City Union Bank Unveil India’s First ‘One Credential’ Experience for Consumers and SMEs
+Market-first proposition allows cardholders to manage multiple payment relationships through a single credential.
 
-## FirstFT: Bessent fails to break bond market ‘fever’
-Also in today’s newsletter: Hormuz talks and Russian assets
+## UP Chief Minister Yogi Adityanath Hails Galgotias University’s Landmark MoU with Japan’s Yamanashi Prefecture
+Greater Noida, Uttar Pradesh, India – Business Wire India
 
-## BRICS Summit 2026 Live: PM Modi-Putin to hold bilateral talks today afternoon
-BRICS Summit 2026 Live: Important atendees include Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President Masoud Pezeshkian, Egyptian President Abdel Fattah El-Sisi, Ethiopian Prime Minister Abiy Ahmed Ali, and Indonesian President Prabowo Subianto
+## Merlin Group Partners With Yuvraj Singh to Set up the Second Yuvraj Singh Centre of Excellence in Kolkata
+Saket Mohta of Merlin Group expressed his delight at joining hands with cricket icon Yuvraj Singh for the second time
 
-## BRICS should deepen banking links to boost local currency trade: Experts
-BRICS experts in New Delhi advocate for enhanced banking ties and local currency trade to boost economic cooperation and reduce costs
+## Adyar Ananda Bhavan partners with Singapore’s FC Jurong
+Under the partnership, A2B to support FC Jurong Soccer School’s youth programme
 
-## Sensex today | Stock Market Live: Sensex, Nifty stay under pressure as Brent crude hits $108
-Sensex, Nifty, Stock Price Live Updates: Indian equities traded lower on Friday as surging crude prices, foreign investor selling and escalating West Asia tensions weighed on market sentiment and raised inflation concerns.
+## The Latest Home Loan Interest Rates: Sep 11, 2026
+The Latest Home Loan Interest Rates: Sep 11, 2026
 
-## NSE IPO: What changed from DRHP to RHP
-The bourse has cut the OFS to 12.64 crore equity shares from 14.9 crore shares proposed in the DRHP, roughly a reduction of 15%. Since the IPO is entirely an OFS, the cut in the number of shares directly brings down the overall issue size.
+## The Latest Fixed Deposit Interest Rates: Sep 11, 2026
+The Latest Fixed Deposit Interest Rates: Sep 11, 2026
 
-## Decathlon India's wholesale business grows 20-fold in 5 years, contributes 10% of revenue
-Decathlon India’s revenue for the financial year ending March 31, 2025, was ₹4,133.10 crore. It has not yet filed FY26 numbers with the Registrar of Companies
+## Sensex, Nifty fall even as easing oil prices, buying in HDFC Bank, IT stocks help pare losses
+30-share BSE Sensex declines 120.83 points, or 0.16%, to settle at 74,781.76; 50-share NSE Nifty dips 79.70 points, or 0.34%, to end at 23,398.10
 
-## The Wait Is Over: iPhone 18 Pro Pre-booking Opens at Reliance Digital on 12th September, 2026
-The Wait Is Over: iPhone 18 Pro Pre-booking Opens at Reliance Digital on 12th September, 2026
+## SBICAP Securities ties up with Appreciate to offer Indian investors access to 8,000+ global stocks
+The partnership makes SBICAP Securities one of the few platforms in India to offer access through both GIFT City-based Global Access Providers, India INX GA, and NSEIXGA, under a single platform
 
-## Confident BRICS Summit will see positive talks on various issues: PM Modi
-Russian President Vladimir Putin, Chinese President Xi Jinping and Iran President Masoud Pezeshkian are among those attending the summit
+## Uber exits Nigeria, Uganda: Why Africa's ride-hailing market is getting tougher
+Uber has officially ended its operations in Nigeria and Uganda, marking a significant retreat from these markets. This decision comes as a result of escalating operating expenses and fierce competition, which have negatively impacted ride-hailing fares and driver earnings. Rising costs for fuel and 
 
-## As NSE, Reliance Jio eye listings, what are India's biggest share offerings?
-The offer-for-sale, which does not include any fresh capital being raised, ‌will value NSE at close to $46 billion, which would make ​it the country’s third-largest IPO.
+## ‘AI a double-edged sword’: FM Sitharaman flags innovation risks, urges efficiency without fragility
+Finance Minister Nirmala Sitharaman addressed artificial intelligence risks at the Global Fintech Fest 2026. She highlighted technology's potential to influence public opinion and electoral outcomes. The Reserve Bank of India recognized the Unified Fintech Forum as a self-regulatory organization. Si
+
+## UPI now dominates merchant payments: Are cards becoming less useful?
+UPI now dominates Indian merchant payments, significantly reducing card usage. Debit cards are primarily used for cash withdrawals, not shopping. Credit cards are specializing in larger purchases and e-commerce transactions. RuPay credit cards can now link directly to UPI apps. The QR code scan is b
+
+## No-stop toll plazas by March 2027? Nitin Gadkari sets deadline for barrier-free system
+India is set to roll out a barrier-free digital tolling system by early 2027, allowing vehicles to glide past toll booths without stopping. The integration of number-plate recognition with existing FASTag technology promises to streamline the toll collection process even further. Motorists will expe
+
+## EPFO delayed retiree’s Rs 14.06 lakh PF claim by 35 days; court orders 6% interest
+A consumer court has ordered the Employees' Provident Fund Organisation (EPFO) to pay 6 per cent annual interest to a retired employee after finding a 35-day delay in the settlement of his provident fund claim worth more than Rs 14 lakh.
 
 ## Indian in Kuwait sent Rs 1.09 crore, no ITR; ITAT deletes Rs 5.52 lakh, checks Rs 2.5 crore
 The absence of an original ITR became a key issue. Although the department had information about the substantial sums held in his Indian accounts, there was no tax return on record explaining their nature and source.
 
+## IRCTC books record 20.06 lakh train tickets in a day amid festive rush
+According to IRCTC, its website handled a huge rush on September 7, 2026. The ticket booking website registered its highest-ever single-day booking, with 20,06,353 tickets booked. The record was achieved amid festive-season ARP booking.
+
 ## Gold price prediction: Is it time to buy gold on dips? Check September 11, 2026 outlook
 Gold has recovered sharply from the lower portion of its recent trading range and is now moving towards the upper side of the short-term structure.
 
-## Top stocks to buy today: Stock market recommendations for September 11, 2026 - check list
-Stock market recommendations: Finolex Cables, Adani Ports, and Emmvee Photovoltaic Power are the top stocks to buy today on September 11, 2026, identified and recommended by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One
+## EU Commission takes crucial step to finalise India-EU free trade deal with India
+The European Commission’s move brings the India-EU free trade agreement closer to signing, with the pact expected to be formally signed by the year-end.
 
-## Rupee tumbles 27 paise against US dollar as crude prices hold firm above $108 per barrel
-The Indian Rupee weakened against the US dollar on Friday, extending its previous day's losses. High crude oil prices and foreign portfolio outflows continued to exert downward pressure. Supportive factors like forex reserves and RBI intervention were insufficient against these headwinds. Investors 
+## 1980s AI photo trend: 5 ChatGPT prompts to make your wedding photos look like they’re from the 80s
+With the right ChatGPT prompt, you can transform your contemporary wedding photos into images that look like they were captured decades ago.
 
-## ‘Key growth engine’: IMF hails India’s 7.8% growth, backs GDP estimate changes
-India's economy showcased remarkable resilience by achieving a robust 7.8 percent GDP growth for the April-June quarter, surpassing forecasts. The strength of the services and export sectors contributed significantly to this success. The International Monetary Fund lauded India's economic achievemen
+## Odisha drafts anti-witch-hunting policy with special courts, time-bound trials
+Odisha’s proposed anti-witch-hunting policy seeks special courts, time-bound trials, immediate rescue and rehabilitation of victims, and strict police accountability.
 
-## Stock market today: BSE Sensex tanks over 650 points, NSE Nifty50 opens below 23,300
+## Modi’s gift to Putin: A Tamil classic that offers army lessons on statecraft
+Abbreviated as the Kural, it is one of the centuries-old treatises the Indian Army is studying for insights into statecraft, strategy, diplomacy and warfare
 
+## Inside Modi-Putin meet: PM nudges Russia to end Ukraine war, $100 billion trade target by 2030
+In the context of bilateral ties, the two leaders reviewed progress in political, economic, defence, energy and space cooperation.
 
-## Gold, Silver Rate Today Live Updates: Gold heads for third weekly loss as US rate hike bets strengthen
+## Evening News Brief September 11: Modi meets Putin, Dipke dares govt, Chidambaram vs Tharoor over BRICS summit
+Here's your one-stop briefing on today's top news stories that matter.
 
+## PM Modi, Putin share car ride to Bharat Mandapam after bilateral meeting | Watch
+The two leaders shared a car ride to an exhibition at Bharat Mandapam after their bilateral meeting on the sidelines of the BRICS Summit.
 
-## Oil touches $107 per barrel as Hormuz remains choked for over six months
-This week, oil prices surged past a hundred dollars per barrel amidst growing worries over supply disruptions caused by attacks on shipping routes in the Middle East. US fuel prices reflect this trend as supply chains experience strain. The trajectory of future oil prices will heavily depend on Chin
+## Mumbai man used ChatGPT to fake PMO ID ‘to boost social standing’, police tell court
+Police told the court that multiple forged English-language documents linked to the PMO were recovered during a search of Parikh's residence.
 
-## Abhijit Dipke meets Manoj Jarange Patil, backs Maratha quota agitation
-Dipke dared the government to forcibly remove Jarange from the protest site, as the Delhi Police did with Sonam Wangchuk
+## ‘Key pillar’: the 5-year powerhouse plan for China’s car industry
+China is set to secure its place among the global automotive powerhouses by 2030 through further efforts to boost domestic sales and foster technological innovation, while a capacity alert mechanism will be introduced to guard against disorderly competition. The ambitious targets and actions are lai
 
-## The Saket problem: Egyptian team's BRICS stay complicates Delhi's traffic plan
-The BRICS Summit is scheduled to be held at Bharat Mandapam in central Delhi on Saturday and Sunday.
+## Beijing freezes plant approvals for energy-storage batteries amid overcapacity fears
+Beijing has put a freeze on new approvals of production facilities for energy-storage batteries amid worries about excess supply and vicious price competition, according to industry officials. Companies had not been allowed to add new capacity since May, as key regulators like the Ministry of Indust
 
-## Urged Brics nations to create predictable business environment: S Jaishankar
-S Jaishankar said, India chairship’s focus is on resilience, innovation, cooperation, and sustainability among members as these priorities are especially relevant in the current circumstances
+## China’s young investors embrace risk. Why are their portfolios so safe?
+Young Chinese investors may be just as willing to take risks as their global peers, but their portfolios remain more conservative against a backdrop of years of relative underperformance in China’s stock market, a prolonged property downturn and deflation, according to a senior researcher at the CFA
 
-## ‘Men will go and win medals…': Delhi HC highlights women athletes' interests at Vinesh Phogat case hearing
-The remarks came after the court refused Phogat’s plea for interim permission to participate in selection trials for the Senior World Wrestling Championships.
-
-## Nitin Gadkari sets March 2027 target for barrier-free toll plaza system: 'In one year, we want to get it done'
-Gadkari said the government aims to eliminate stoppages, which would help reduce fuel consumption and the operational costs
-
-## Delhi weather alert: Rain, thunderstorms likely across city in next 4 hours
-While no alert has been issued for Saturday, light to moderate rain is expected throughout the day on Friday.
-
-## MP hooch tragedy: Prime accused arrested after encounter in Sagar
-Lakhera, who has 25 criminal cases registered against him, was injured in the leg during the exchange of fire and taken to hospital for treatment
-
-## Jantar Mantar protest not true picture of country's next generation, says Keralam Guv
-Jantar Mantar protest not true picture of country's next generation, says Keralam Guv
+## Ant to let AI agents shop via 10 digital wallets, from AlipayHK to Starryblu to KakaoPay
+Ant International, the overseas affiliate of Chinese fintech giant Ant Group, is making a major bid to power the next phase of mobile payments: letting autonomous artificial intelligence agents handle your electronic wallet to make purchases. The company on Friday open-sourced its Agentic Mobile Pro
 
 ## Mainland Chinese investors to drive Hong Kong wealth boom despite new tax rules: report
 Hong Kong banks expect the contribution of mainland Chinese investors to the city’s wealth management business to continue to grow through 2030, presenting opportunities despite Beijing’s tightened cross-border tax rules. Mainland China’s share of local assets under management was projected to reach
@@ -123,17 +141,11 @@ China’s buoyant stock market lifted brokers’ earnings in the first half, whi
 ## Haidilao’s stock rout exposes funding risk from Beijing’s taxation crackdown as payments loom
 The turmoil surrounding Chinese hotpot chain restaurant operator Haidilao International Holding could serve as a warning to investors of the funding risks stemming from Beijing’s new taxation regime on overseas assets held by wealthy individuals. A plan by Shu Ping, the co-founder and wife of Haidil
 
-## Yuen Kee Food enters final stage of Hong Kong IPO after HKEX approval, sources say
-Yuen Kee Food Group, the owner of well-known restaurant brand Yuen Kee Dumpling, has cleared its listing hearing with the Hong Kong Exchanges and Clearing (HKEX), aiming to raise between HK$300 million (US$38.3 million) and HK$400 million, according to people familiar with the matter. The conclusion
+## Israel’s Soft Power Is Its Hard Power
+The Israeli government’s greatest source of diplomatic influence is the popularity of its military equipment.
 
-## Foreign carmakers offer steep discounts on petrol-powered cars in cutthroat Chinese market
-Foreign carmakers have been slashing the prices of petrol-powered cars they make in China by more than 20 per cent to survive in a cutthroat market amid weakening consumer demand. Last month, big international marques including Volkswagen and Toyota offered average discounts of 23.4 per cent on cars
-
-## Hong Kong home prices headed for 15% gain this year, Midland forecast says
-Hong Kong’s home prices will end the year 15 per cent higher than a year earlier, but still 16 per cent below their high-water mark in 2021, according to local property agency Midland Realty. Underpinning the positive forecast, the city’s banks were not likely to follow an increase in US interest ra
-
-## Record China-US gap in bond yields unlikely to trigger capital flight: Marsh Investment
-The widening yield spread between Chinese and American government bonds is unlikely to trigger catastrophic capital flight from China, according to investment executives at Marsh Investment, who attribute the record spread to the United States’ fiscal pressures and global macro trends rather than a 
+## Jamaica’s Reparations Push
+The country is asking the U.K. to consider compensation for the harms of slavery.
 
 ## What Makes a Good Counterterrorism Strategy?
 Three top experts on the terror threat 25 years after 9/11.
@@ -152,12 +164,6 @@ By pressuring Seoul to support his Iran war, Trump is weakening a vital alliance
 
 ## Scientists Saved Us From Catastrophic Risk Before
 Track-two science diplomacy can provide vital safeguards on AI.
-
-## Top Signs You’re Heading for a Quagmire
-Failed wars are predictable, if you know what to look for.
-
-## Iran Launches Massive Attack on Global Shipping
-Such assaults put the Strait of Hormuz under growing pressure as global crude prices skyrocket.
 
 ## From 9/11 to Pahalgam: India’s Evolving Strategy in the Global War on Terror
 The September 11 attacks reshaped how the world thinks about – and addresses – terrorism. India is no exception.
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Japan, India, Ukraine: Why some countries are uneasy about new UN map
-The countries are not opposed to a new map per se; they're testy about the colour shades.
+## The vanishing pharmacy of the Sundarbans
+As rising seas push salt into the world's largest mangrove, traditional medicinal plants are being lost.
 
-## World Athletics Ultimate Championship opens with record $10m prize pot
-The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.
+## The dystopian legal architecture of the ‘war on terror’ must be dismantled
+A quarter-century after 9/11, we are still living under the security order it unleashed.
 
-## Pro-Palestine student suspended by King’s College London returns to campus
-College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.
+## Arsenal manager Arteta ‘very surprised’ at Jesus blast over Barcelona move
+Gabriel Jesus claims he was forced to train alone before Barcelona move, but Arsenal 'surprised' by criticism.
 
-## What did 25 years of the “war on terror” leave behind?
-US forces have bombed somewhere every year since 2001. AJLabs maps the so-called “war on terror”.
+## Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations
+Second day of strikes on fuel stations suggest a new campaign focused on civilian areas in the Ukrainian capital.
 
-## How 9/11 helped Israel sell its war on Palestinians to America
-The 'war on terror' made Israeli repression easier to present as part of a shared struggle against a common enemy.
+## From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted
+US and Israeli officials are using a drop in acute malnutrition cases to claim Gaza has no hunger.
 
-## Anthropic warns of bids to use AI to build biological weapons
-Experts urge stricter access to AI models as Anthropic reports rising misuse cases, including biological research risks.
+## Myanmar airport closed following reported drone attack
+Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.
 
-## Hong Kong court hands stiff jail sentences to Tiananmen vigil activists
-Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.
+## ‘A historic day’: Spain moves closer to citizenship for Western Saharans
+Spain’s parliament backs citizenship for Sahrawis amid tense relations with Morocco after the Ceuta crossing.
 
-## UEFA wants FIFA subsidiaries’ blocked from Infantino discovery fight in US
-UEFA urges US court to deny FIFA subsidiaries' bid to join Gianni Infantino discovery fight as president battle rumbles.
+## FIFA rebukes Morocco’s claim it will host 2030 World Cup final
+Morocco to co-host 2030 ​tournament with Spain and Portugal, but FIFA denies final will be in North Africa.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
@@ -279,6 +285,9 @@ Seasoned finance professional Robin Banerjee, Chairman of Nucleon Research Pvt. 
 ## The CFO's Strategic Role: Balancing Growth, Profitability, and Cash Generation
 In today's corporate landscape, Chief Financial Officers have evolved into essential strategic partners, expertly juggling the demands of growth alongside financial prudence. They adeptly navigate the complexities of profitability and cash flow, utilizing advanced digital tools for more accurate for
 
+## Sebi proposes extending IT, cyber security framework of MIIs to their arms
+Sebi proposed extending IT and cyber security rules to subsidiaries of market infrastructure institutions. This move aims to strengthen regulatory oversight over these evolving business structures. Subsidiaries undertaking core MII activities will now follow parent company's cybersecurity frameworks
+
 ## Surplus liquidity crosses 11 L cr in money market
 India's money market liquidity has surged past eleven lakh crore rupees. This excess cash resulted from banks mobilizing foreign-currency deposits under a special window. The Reserve Bank of India is actively absorbing this surplus liquidity through various operations. Banks are currently preferring
 
@@ -299,7 +308,4 @@ India is close to finalizing its model text for bilateral investment treaty talk
 
 ## Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say
 INDIA-RUPEE/RBI-INTERVENTION (PIX)Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say
-
-## Sebi’s new ETF rules apply today: What changes from September 7 and how they impact investors?
-Sebi’s revised ETF trading rules have come into effect from September 7, changing how price bands and reference prices are determined. The new framework introduces dynamic price bands based on underlying assets and a pre-open auction for gold and silver ETFs, aiming to improve price discovery and re
 
