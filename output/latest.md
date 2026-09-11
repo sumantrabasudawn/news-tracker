@@ -1,64 +1,82 @@
 # AION Intelligence
 
-## Oracle’s data centre revenue surges as AI strategy accelerates
-Faster sales growth suggests progress in its risky push to compete in the AI infrastructure race
+## FirstFT: Bessent fails to break bond market ‘fever’
+Also in today’s newsletter: Hormuz talks and Russian assets
 
-## Anthropic says it stopped scientists potentially developing bioweapons with AI
-Start-up discloses five examples of when users ‘circumvented controls’ and made efforts to ‘obfuscate’ the purpose of their research
+## Trump-Vance’s midterm pitch: vote Republican or live with the ‘lunatics’
+Party far more comfortable raising fear of Democratic alternative than discussing own policies, including Iran war
 
-## Israel blows up Hizbollah tunnel system in southern Lebanon
-Destruction of complex under Ali al-Taher ridge follows months-long effort to gain control of strategic site
+## US rate rise fears ripple through global bond markets
+Houthi advances push oil prices higher while markets await inflation data on Friday
 
-## How would Trump’s $5,000 voting payout work?
-President’s pledge to give cash to all American adults if Republicans win midterms will be at heart of his party’s campaign
+## Private equity’s ‘Waiting for Godot’ era continues
+The mood was subdued at the industry’s annual conference in Paris
 
-## Burnham urged not to snub Commonwealth summit amid reparations demands
-UK prime minister is weighing up whether to attend biennial event being held in Antigua
+## Iran and Gulf states to meet in push for Hormuz deal
+Regional states hope temporary shipping agreement between Iran and Oman can offer a pathway to ease hostilities and reopen the strait
 
-## Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields
-Close ally of Kevin Warsh says Federal Reserve officials who argue rates are restrictive are ‘just ridiculous’
+## Elon Musk’s gas turbines could shake up the backlogged sector
+Just the threat of market disruption might help ease bottlenecks, to the extent that it prods manufacturers to expand output
 
-## Apple’s big goal after foldable iPhone
-The first critical step for new CEO John Ternus will be to make AI an everyday reality on its devices
+## Scott Bessent fails to break ‘fever’ in US bond market
+Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn
 
-## Mahmood demands ‘effective police action’ ahead of UK anti-migrant protests
-Call by home secretary follows disruption and violence in Dover and Portsmouth last weekend by Patriot Platform
+## Virgin Media O2 owners target £600mn in cost cuts
+Telefónica and Liberty Global seek job cuts and other reductions in a bid to calm bond investors
 
-## British man admits inventing fake takeover bid for Canadian oil explorer
-Christopher Woolcott used false identities and forged documents in hope of benefiting from rise in Touchstone Exploration shares, says regulator
+## First-time buyers load up on mortgage debt after change in lending rules
+High loan-to-income products have been flying off the shelves since the rules were loosened last year
 
-## Say goodbye to the SaaSpocalypse and hello to the RenaiSaaS
-Software companies have shown they can be beneficiaries of AI, rather than easy targets for it, though some risks remain
+## Dubai airport group plans underground fuel tanks to protect against strikes
+UAE pressing ahead with expansion plans for flight hub despite the Iran war
 
-## Vantage Data Centers seeks $2bn in loans from Pimco and PGIM
-DigitalBridge-backed firm taps new investors for AI infrastructure as Wall Street banks limit exposure
+## Insurers Zurich and Allianz have exposure linked to Radiant World
+Iron ore trader battling court claims from creditors around allegedly fraudulent documentation
 
-## Burnham’s devolution project needs strong local media too
-Regional leaders have to be held accountable to their voters
+## Sanctions loophole lets UK insurer cover tankers carrying Russian gas
+NorthStandard legally insuring vessels despite government expanding powers to restrict maritime services
 
-## India’s coal gasification push needs a Chinese technology bridge
-Why India should explore access to China’s decades-old coal gasification technology, rather than developing it from scratch
+## BRICS Summit: Delhi Metro services to start early on Sunday
+The Delhi Metro Rail Corporation adjusts its schedule to accommodate early commuters and students facing traffic disruptions due to the international event, ensuring access to key areas during the summit.
 
-## US proposes ending 60-day grace period for H-1B workers who lose jobs
-The Department of Homeland Security has opened a 60-day public comment period on the proposed change to existing immigration rules
+## BRICS Summit 2026 Live: Putin in New Delhi for the BRICS summit, to meet PM Modi
+BRICS Summit 2026 Live: Important atendees include Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President Masoud Pezeshkian, Egyptian President Abdel Fattah El-Sisi, Ethiopian Prime Minister Abiy Ahmed Ali, and Indonesian President Prabowo Subianto
 
-## Jyotiraditya Scindia says India must focus on outcomes, not outlays
-Speaking to college students, Scindia highlighted education reforms and campus expansion while acknowledging deficiencies and urging Indians to keep moving forward
+## Sensex today | Stock Market Live: Sensex, Nifty plunge nearly 1% as West Asia tensions push Brent crude to $108
+Sensex, Nifty, Stock Price Live Updates: Indian equities opened sharply lower on Friday, with the Sensex falling 663 points and the Nifty declining 218 points, as surging crude prices, foreign investor selling and escalating West Asia tensions weighed on market sentiment and raised inflation concern
 
-## What former SBI Chairperson Arundhati Bhattacharya got wrong about women, gender bias — and Gen Z
-In Aparajita, Bhattacharya reflects on bias, women and Gen Z. Her leadership lesson: persistence gets you there; humility keeps you relevant
+## Milky Mist commissions new high-protein Skyr and Yoghurt plant
+The unit is located within the company’s integrated manufacturing facility in Perundurai, Erode in Tamil Nadu
 
-## From ‘dhotiwalas’ to ‘suitwalas’: Mukesh Ambani recalls Dhirubhai’s BSE prophecy
-Ambani linked his father’s philosophy with lessons from Arundhati Bhattacharya’s life, highlighting responsibility, family, continuous learning and empowering others
+## Brent crude remains above $108 a barrel on West Asia supply disruption concerns
+Saudi Arabia produced 6.24 million barrels a day in August, says OPEC report
 
-## Apple iPhone Duo, 18 Pro Max, Pro launched Prices in India: Full List
-Apple’s new iPhone lineup in India: Prices, variants and availability
+## Rupee falls 27 paise to 95.79 against US dollar in early trade
+At the interbank forex market, the rupee opened at 95.70 against the US dollar but fell to 95.79, losing 27 paise from its previous close
 
-## Will iPhone fans take a bite of Apple’s foldable offerings?
-At a price point of ₹3 lakh, Samsung’s foldable looks more affordable now in India
+## India's 10-year bond yield surpasses 7% on rising oil, Treasury yields
+The Brent crude ‌contract was over $108 ​per barrel, while the 10-year ⁠US yield ⁠was around 4.97%
 
-## NCLAT sets aside NCLT order directing Home Derivatives liquidation
-The appellate tribunal said the liquidation process had begun before the amended regulations were notified, making retrospective application impermissible
+## RBI intervenes to defend rupee as oil prices climb, traders say
+State-run banks were spotted ‌offering dollars, most likely on behalf of the RBI, the traders said
+
+## Rupee tumbles 27 paise against US dollar as crude prices hold firm above $108 per barrel
+The Indian Rupee weakened against the US dollar on Friday, extending its previous day's losses. High crude oil prices and foreign portfolio outflows continued to exert downward pressure. Supportive factors like forex reserves and RBI intervention were insufficient against these headwinds. Investors 
+
+## ‘Key growth engine’: IMF hails India’s 7.8% growth, backs GDP estimate changes
+India's economy showcased remarkable resilience by achieving a robust 7.8 percent GDP growth for the April-June quarter, surpassing forecasts. The strength of the services and export sectors contributed significantly to this success. The International Monetary Fund lauded India's economic achievemen
+
+## Stock market today: BSE Sensex tanks over 650 points, NSE Nifty50 opens below 23,300
+
+
+## Gold, Silver Rate Today Live Updates: Gold heads for third weekly loss as US rate hike bets strengthen
+
+
+## Oil touches $107 per barrel as Hormuz remains choked for over six months
+This week, oil prices surged past a hundred dollars per barrel amidst growing worries over supply disruptions caused by attacks on shipping routes in the Middle East. US fuel prices reflect this trend as supply chains experience strain. The trajectory of future oil prices will heavily depend on Chin
+
+## Small towns power Quick-commerce biz for Flipkart
+
 
 ## Gross SIP flows, fund industry assets at record high
 
@@ -66,47 +84,35 @@ The appellate tribunal said the liquidation process had begun before the amended
 ## Emerging sectors to drive next industrial revolution: Report
 
 
-## Apple's foldable debut to lift mkt, test Samsung
+## Kejriwal thanks CJP's Saurav Das for flagging problems during Punjab schools audit: 'Will immediately address'
+CJP's Saurav Das led a delegation of the pressure group to Punjab, where they assessed the state of government schools.
 
+## Putin is here, when are other dignitaries arriving in Delhi for BRICS?
+Though the summit begins on Saturday, foreign dignitaries have been arriving since Thursday and will continue to arrive through Friday and Saturday as well.
 
-## 'Building tomorrow's market today with tokenised bonds'
+## Tharoor breaks ranks with Chidambaram, backs BRICS Summit as ‘diplomatic power move’
+Chidambaram on Tuesday stoked controversy when he questioned the tangible benefits India gained from such events.
 
+## BRICS Summit: Delhi schools, offices closed today? Check what’s open, what’s shut
+Traffic movement is also expected to be affected across parts of Delhi, with restrictions coming into effect from the afternoon.
 
-## Bahrain court has ruled in our favour in bond case: HDFC
+## '1km turns into 8km': Delhi's traffic patience wears thin as BRICS rolls in
+As Delhi gears up for BRICS, parts of one of the world’s busiest urban centers have been turned into tightly controlled security zones.
 
+## Supreme Court asks government to teach nutrition in schools, quizzes FSSAI on food warning labels
+The court seeks detailed responses on their design, placement, and implementation timeline to aid informed dietary choices among children.
 
-## May tweak F&O settlement price mechanism: Sebi chief
-Pandey Reiterates There Is No Going Back On CAS System
+## HT Morning Brief September 11: Putin arrives in India for BRICS, 25 years of 9/11 terror attack and more
+Here are 5 things you need to know from across the country, the globe, as well as, from the world of sports and entertainment.
 
-## Checks on e-commerce platforms from October: FSSAI
-'Won't Be Allowed To Take Plea That They Are Just Aggregators'
+## Relations over rivalry, people over politics: India looks to build BRICS bridges in uncertain world
+Focus on relationships over rivalry, substance over mere statements, and people over politics are the pillars of New Delhi’s approach.
 
-## Shopping online? From January, you'll see the discount margin
+## Yuen Kee Food enters final stage of Hong Kong IPO after HKEX approval, sources say
+Yuen Kee Food Group, the owner of well-known restaurant brand Yuen Kee Dumpling, has cleared its listing hearing with the Hong Kong Exchanges and Clearing (HKEX), aiming to raise between HK$300 million (US$38.3 million) and HK$400 million, according to people familiar with the matter. The conclusion
 
-
-## Hope we’ll have front-of-pack labels on food items quite soon: FSSAI CEO Rajit Punhani
-The CEO spoke about implementation process, and how consumer awareness has led to more effective enforcement over the years.
-
-## MCD crackdown on illegal buildings: 56 jewellery shops in Chandni Chowk sealed, owners say goods worth crores locked
-The enforcement drive comes amid Delhi government's intensified action against illegal and dangerous structures following Satya Niketan incident.
-
-## India-Russia ties poised for new phase of trade, technology and industrial cooperation: Piyush Goyal
-Union Commerce and Industry Minister Piyush Goyal on Thursday said India Russia economic ties must move “from protocols to production, from trade to industry”.
-
-## Xi’s first visit in 7 years: India and China look to consolidate peace along LAC
-China’s foreign ministry officially confirmed Xi’s participation in the Brics Summit on Thursday, saying that he will travel to India during September 12-13
-
-## iPhone foldable phone launch takes political turn as Congress-BJP use it as meme to mock each other
-Apple announced its first foldable phone, the iPhone Duo, at the “Surprise and shine” event on September 9.
-
-## Delhi high court rejects Vinesh Phogat’s plea to compete in World Championship trials
-Court said selection criteria apply equally to all athletes and allowing Phogat provisionally would create an exception in her favour
-
-## Gujarat Assembly passes bill making licences mandatory for livestock feed
-Gujarat Assembly passed a bill making licences mandatory for livestock and poultry feed manufacture, storage and sale, with penalties for substandard feed.
-
-## CRPF convoy attacked on NH-2 in Manipur’s Imphal West, no casualties
-Armed miscreants fired at a CRPF convoy patrolling on NH-2 in Manipur’s Imphal West; no casualties were reported, police said.
+## Foreign carmakers offer steep discounts on petrol-powered cars in cutthroat Chinese market
+Foreign carmakers have been slashing the prices of petrol-powered cars they make in China by more than 20 per cent to survive in a cutthroat market amid weakening consumer demand. Last month, big international marques including Volkswagen and Toyota offered average discounts of 23.4 per cent on cars
 
 ## Hong Kong home prices headed for 15% gain this year, Midland forecast says
 Hong Kong’s home prices will end the year 15 per cent higher than a year earlier, but still 16 per cent below their high-water mark in 2021, according to local property agency Midland Realty. Underpinning the positive forecast, the city’s banks were not likely to follow an increase in US interest ra
@@ -125,12 +131,6 @@ Hong Kong’s Securities and Futures Commission (SFC) has directed the stock exc
 
 ## DeepSeek says new Flash AI model beats Kimi K3 on cyber, coding benchmarks
 DeepSeek has released its V4.1 Flash model, claiming it outperforms its previous flagship while cutting inference costs and boosting speeds – the latest salvo in China’s aggressive price-and-performance war. The Chinese artificial intelligence developer said on Thursday that V4.1 Flash used a new “C
-
-## UBS pulls plug on fund sales on a wealth platform in China amid stiff competition
-UBS plans to shut down its fund-distribution business on one of its mainland China wealth-management platforms, as it faces intense competition. As part of a “business integration plan”, UBS Fund Distribution (Shenzhen), known as UBSFS, would cease its fund sales business, including fund subscriptio
-
-## Mainland Chinese shoppers lose trusted Hong Kong veggie tag as customs revamp hits shelves
-Mainland Chinese supermarkets, including US warehouse retailer Sam’s Club, have dropped the Hong Kong-bound vegetable label under new customs rules. The change has triggered widespread concern among consumers, as the label had long served as a selling point for high quality amid frequent mainland fo
 
 ## What Makes a Good Counterterrorism Strategy?
 Three top experts on the terror threat 25 years after 9/11.
@@ -156,6 +156,18 @@ Failed wars are predictable, if you know what to look for.
 ## Iran Launches Massive Attack on Global Shipping
 Such assaults put the Strait of Hormuz under growing pressure as global crude prices skyrocket.
 
+## Tashiev and the Letter of 75: Charges Reclassified, Sentences Lessened, Confusion Reigns
+Both Tashiev’s lawyers and the prosecutors filed appeals after the July verdict, the former seeking complete acquittal and the latter harsher sentencing. Neither has gotten what they asked for.
+
+## What the AfD’s Rise in Germany Means for China-EU Relations
+China’s economic success is bringing industrial disruption that empowers populist groups in Europe. That could lead to significant long-term challenges for the Chinese government and businesses.
+
+## Can Southeast Asia Benefit From the China-US AI Race?
+As Washington and Beijing compete to turn technology into influence, the region needs to negotiate what it gains and what it is expected to give up.
+
+## Another New Job for Saida Mirziyoyeva: Manager of the Tashkent International Financial Center
+The daughter of the Uzbek president is head of the presidential administration and now also manager of Tashkent’s ambitious gambit to attract foreign investors.
+
 ## East Asia’s Quiet Race to Find the Universe’s Missing Mass
 China, South Korea, and Japan all run their own programs to detect dark matter, some of them world-leading in sensitivity.
 
@@ -167,18 +179,6 @@ Ten years ago, China was a prominent source of Ebola aid. Today, China’s more 
 
 ## Why Have Indians Become a Regular Target of Hate in Singapore?
 Popular resentment toward the city-state's Indian community and Indian nationals has been building for some time.
-
-## Al-Qaida: 25 Years After 9/11
-The current threat from al-Qaida is diffused. It relies on homegrown, lone-actor terrorists to carry out low-end attacks, such as stabbing and vehicle ramming.
-
-## Vietnam’s To Lam Concludes State Visit to Russia, Departs For France
-The Vietnamese leader and his counterpart Vladimir Putin identified trade and energy as important areas of future bilateral cooperation.
-
-## Is Indonesia’s 100 GW Solar Plan Realistic?
-Whether or not the goal is achievable, it sends a strong signal that Jakarta is serious about putting more resources toward clean energy.
-
-## El Niño, Climate Catastrophe, and the Coming Financial Showdown
-Pablo Berrutti discusses Nepal’s glacial collapse, Indonesia’s wildfires, and why efforts at climate mitigation are falling short.
 
 ## What America’s Adversaries and Allies Hope to Gain at the U.N. General Assembly
 This year’s U.N. General Assembly officially opened on Tuesday, Sept. 8. The annual gathering gives diplomats and leaders a valuable opportunity to press their foreign policy priorities and engage — formally and informally — with both partners and adversaries. Most heads of state will arrive later t
@@ -228,29 +228,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## A year after Charlie Kirk’s death, are young voters turning on Trump?
-Turning Point USA has expanded its campus presence, even as Trump’s support among young men has fallen.
+## Trump jokes Republicans can ‘cheat like hell’ in the midterms
+US President Donald Trump has jokingly asked Republican voters to ‘cheat like hell’ in the midterms, ‘like Democrats’.
 
-## Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
-Israeli attacks come a week after it said to have established operational control over the strategic ridge.
+## Republican midterm convention wraps up in Dallas, Texas: Key takeaways
+Protesters gather on final night as US Republicans seek to rally base ahead of consequential legislative elections.
 
-## Spain’s Parliament backs citizenship for Western Saharans born before 1977
-After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.
+## Taiwan vice president makes rare Europe visit for conference on democracy
+European Parliament's Pina Picierno says Hsiao's visit 'was kept secret until her arrival to protect her participation'.
 
-## LG defends smart-TV features amid audio surveillance allegations
-Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.
+## Young republicans break with Trump over Iran war
+A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.
 
-## Peru joins US-led ‘Shield of the Americas’ security alliance
-Fujimori administration is latest right-wing government to join alliance for a more aggressive approach against crime.
+## Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
+Russian, Iranian leaders due to hold talks with India's Modi at summit dominated by wars in Middle East and Ukraine.
 
-## Republican midterm convention live: Trump, Vance headline day two in Dallas
-US Republicans return to the stage to close their midterm convention, still betting on Trump's political magnetism.
+## Brazil’s Supreme Court shuts down early as political chaos mounts
+Members of the high court have exchanged accusations after one justice was accused of involvement in a bank scandal.
 
-## Israel says it destroyed key Hezbollah tunnels in southern Lebanon
-Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.
+## Unveiling of Charlie Kirk statue sparks chaos in Times Square
+The unveiling of a statue honouring Charlie Kirk in Times Square has sparked clashes between supporters and protesters.
 
-## Gaza hospitals ration power as fuel shortages deepen
-Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity
+## Maduro’s wife seeks home detention as heart condition worsens in US custody
+Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.
+
+## India Inc needs to rethink the cost of capital
+Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
 
 ## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
 Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
@@ -261,20 +264,17 @@ Circular allows officials to use AI for generic research, drafting and administr
 ## Exclusive: Former Philips India finance chief Dev Tripathy joins Integris Medtech as Group CFO
 After an 18 year career at Philips spanning multiple finance leadership roles, Tripathy takes charge of group finance at a global medtech company with operations across 65 countries.
 
-## AUDITORS: INTEGRITY in the TRUST business – Does it exist?
-Seasoned finance professional Robin Banerjee, Chairman of Nucleon Research Pvt. Ltd. and former Managing Director of Caprihans India Ltd., examines how recent regulatory actions and misconduct cases involving leading audit firms across major economies are testing the trust, independence and accounta
-
 ## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
 Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
+
+## AUDITORS: INTEGRITY in the TRUST business – Does it exist?
+Seasoned finance professional Robin Banerjee, Chairman of Nucleon Research Pvt. Ltd. and former Managing Director of Caprihans India Ltd., examines how recent regulatory actions and misconduct cases involving leading audit firms across major economies are testing the trust, independence and accounta
 
 ## The CFO's Strategic Role: Balancing Growth, Profitability, and Cash Generation
 In today's corporate landscape, Chief Financial Officers have evolved into essential strategic partners, expertly juggling the demands of growth alongside financial prudence. They adeptly navigate the complexities of profitability and cash flow, utilizing advanced digital tools for more accurate for
 
 ## ICAI explores PE funding for consultancy, accounting
 The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
-
-## GST Council meeting rescheduled to October 7 due to BRICS summit
-The GST Council meeting has been rescheduled to October 7 due to the BRICS summit. This meeting will occur after a gap of over a year for the council. Discussions will focus on simplifying GST registration for businesses passing tax credits. Automation and changes in GST registration cancellation ar
 
 ## RBI's FCNR liquidity problem is becoming a treasury problem for banks
 The Reserve Bank of India's struggle to absorb a record liquidity surplus is increasingly becoming a treasury-management challenge for banks, which must decide how much excess cash to park with the central bank, deploy into loans or securities, or keep readily available.
