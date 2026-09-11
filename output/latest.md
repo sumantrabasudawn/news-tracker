@@ -1,7 +1,13 @@
 # AION Intelligence
 
-## Oracle reports boost in data centre revenue as AI strategy accelerates
-Database group spent $28.5bn capex last quarter as it tries to compete with larger rivals
+## Oracle’s data centre revenue surges as AI strategy accelerates
+Faster sales growth suggests progress in its risky push to compete in the AI infrastructure race
+
+## Anthropic says it stopped scientists potentially developing bioweapons with AI
+Start-up discloses five examples of when users ‘circumvented controls’ and made efforts to ‘obfuscate’ the purpose of their research
+
+## Israel blows up Hizbollah tunnel system in southern Lebanon
+Destruction of complex under Ali al-Taher ridge follows months-long effort to gain control of strategic site
 
 ## How would Trump’s $5,000 voting payout work?
 President’s pledge to give cash to all American adults if Republicans win midterms will be at heart of his party’s campaign
@@ -18,23 +24,17 @@ The first critical step for new CEO John Ternus will be to make AI an everyday r
 ## Mahmood demands ‘effective police action’ ahead of UK anti-migrant protests
 Call by home secretary follows disruption and violence in Dover and Portsmouth last weekend by Patriot Platform
 
-## ECB prepares for ‘longer-lasting’ inflation as it lifts interest rates to 2.5%
-Central bank president Christine Lagarde warns price shock driven by Middle East conflict will persist well into 2027
+## British man admits inventing fake takeover bid for Canadian oil explorer
+Christopher Woolcott used false identities and forged documents in hope of benefiting from rise in Touchstone Exploration shares, says regulator
 
 ## Say goodbye to the SaaSpocalypse and hello to the RenaiSaaS
 Software companies have shown they can be beneficiaries of AI, rather than easy targets for it, though some risks remain
-
-## British man admits inventing fake takeover bid for Canadian oil explorer
-Christopher Woolcott used false identities and forged documents in hope of benefiting from rise in Touchstone Exploration shares, says regulator
 
 ## Vantage Data Centers seeks $2bn in loans from Pimco and PGIM
 DigitalBridge-backed firm taps new investors for AI infrastructure as Wall Street banks limit exposure
 
 ## Burnham’s devolution project needs strong local media too
 Regional leaders have to be held accountable to their voters
-
-## Ryanair investors revolt over Michael O’Leary’s €150mn pay deal
-Airline boss has defended bumper remuneration packages, saying they are contingent on meeting stretching targets
 
 ## India’s coal gasification push needs a Chinese technology bridge
 Why India should explore access to China’s decades-old coal gasification technology, rather than developing it from scratch
@@ -60,29 +60,29 @@ At a price point of ₹3 lakh, Samsung’s foldable looks more affordable now in
 ## NCLAT sets aside NCLT order directing Home Derivatives liquidation
 The appellate tribunal said the liquidation process had begun before the amended regulations were notified, making retrospective application impermissible
 
+## Gross SIP flows, fund industry assets at record high
+
+
+## Emerging sectors to drive next industrial revolution: Report
+
+
+## Apple's foldable debut to lift mkt, test Samsung
+
+
+## 'Building tomorrow's market today with tokenised bonds'
+
+
+## Bahrain court has ruled in our favour in bond case: HDFC
+
+
+## May tweak F&O settlement price mechanism: Sebi chief
+Pandey Reiterates There Is No Going Back On CAS System
+
 ## Checks on e-commerce platforms from October: FSSAI
 'Won't Be Allowed To Take Plea That They Are Just Aggregators'
 
 ## Shopping online? From January, you'll see the discount margin
 
-
-## 83-year-old had Rs 2.42 lakh FD, Rs 1.06 lakh cash; how she won 9-year-old tax demand case
-For reasons not known, the woman did not respond to the notice. The Income Tax Assessing Officer consequently completed the assessment under Section 144 and determined her total income at Rs 5.15 lakh, treating the amount as unexplained.
-
-## Crypto challenge unresolved, need partners beyond regulators: FATF VP
-Vivek Aggarwal highlighted the ongoing challenges posed by virtual assets and technology-driven fraud. He urged for enhanced collaboration among stakeholders to combat these growing threats. It is essential for both regulatory bodies and private companies to modernize their frameworks and invest in 
-
-## Global Fintech Fest 2026: India can shape future global finance architecture, says RBI governor
-
-
-## Govt tightens e-commerce rules to curb price manipulation, dark patterns: What changes?
-Effective January 2027, upcoming e-commerce rules aim to bolster consumer safeguards by requiring platforms to exhibit previous pricing clearly and avoid search result manipulation. There will be mandatory disclosures for sponsored listings to assist consumers in their choices. Furthermore, e-commer
-
-## Internship the new interview: Companies turning interns into full-time hires; what it means for IT sector jobs
-For students who are entering the job market, an internship is no longer just a line on their resume. It can be the first real test of whether a company sees them as a potential full-time employee.
-
-## Brics Summit, nationwide bank strike tomorrow: Are banks open or shut on September 11? Check details
-Banks will face disruptions across India due to elections and union strikes. A nationwide strike by bank employees is planned for September eleventh. Gujarat will see a three-day strike affecting thousands of branches and transactions. Several states observe bank holidays for Ganesh Chaturthi and ot
 
 ## Hope we’ll have front-of-pack labels on food items quite soon: FSSAI CEO Rajit Punhani
 The CEO spoke about implementation process, and how consumer awareness has led to more effective enforcement over the years.
@@ -108,6 +108,9 @@ Gujarat Assembly passed a bill making licences mandatory for livestock and poult
 ## CRPF convoy attacked on NH-2 in Manipur’s Imphal West, no casualties
 Armed miscreants fired at a CRPF convoy patrolling on NH-2 in Manipur’s Imphal West; no casualties were reported, police said.
 
+## Hong Kong home prices headed for 15% gain this year, Midland forecast says
+Hong Kong’s home prices will end the year 15 per cent higher than a year earlier, but still 16 per cent below their high-water mark in 2021, according to local property agency Midland Realty. Underpinning the positive forecast, the city’s banks were not likely to follow an increase in US interest ra
+
 ## Record China-US gap in bond yields unlikely to trigger capital flight: Marsh Investment
 The widening yield spread between Chinese and American government bonds is unlikely to trigger catastrophic capital flight from China, according to investment executives at Marsh Investment, who attribute the record spread to the United States’ fiscal pressures and global macro trends rather than a 
 
@@ -128,9 +131,6 @@ UBS plans to shut down its fund-distribution business on one of its mainland Chi
 
 ## Mainland Chinese shoppers lose trusted Hong Kong veggie tag as customs revamp hits shelves
 Mainland Chinese supermarkets, including US warehouse retailer Sam’s Club, have dropped the Hong Kong-bound vegetable label under new customs rules. The change has triggered widespread concern among consumers, as the label had long served as a selling point for high quality amid frequent mainland fo
-
-## Jewellery shops shut down as Chinese consumers switch focus to gold bars and coins
-Most of the gold jewellery shops that once lined the main commercial street in Biyang, Henan province, have closed as gold prices hover at high but volatile levels and a decline in marriages dents demand. “Gold jewellery used to be very popular in our small county,” said 25-year-old kindergarten tea
 
 ## What Makes a Good Counterterrorism Strategy?
 Three top experts on the terror threat 25 years after 9/11.
@@ -228,6 +228,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## A year after Charlie Kirk’s death, are young voters turning on Trump?
+Turning Point USA has expanded its campus presence, even as Trump’s support among young men has fallen.
+
+## Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
+Israeli attacks come a week after it said to have established operational control over the strategic ridge.
+
 ## Spain’s Parliament backs citizenship for Western Saharans born before 1977
 After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.
 
@@ -245,12 +251,6 @@ Israel’s military says it has destroyed a network of Hezbollah tunnels on the 
 
 ## Gaza hospitals ration power as fuel shortages deepen
 Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity
-
-## Russian strike hits shopping centre in central Ukraine
-A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.
-
-## Drones recreate Twin Towers in tribute ahead of 9/11 anniversary
-Thousands of drones were used to recreate New York’s Twin Towers in a tribute ahead of the 25th anniversary of 9/11.
 
 ## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
 Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
