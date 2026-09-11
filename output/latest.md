@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## Bond markets stabilise after global sell-off
-Decline in oil prices helps calm investor nerves but German borrowing costs hit highest level since 2009
+## Houthis seize Red Sea islands in lightning offensive
+Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets
 
-## What we still haven’t learnt from 9/11
-Facing existential risks like superintelligent AI, we need bold and visionary leaders of the world’s great powers
+## Situational Awareness builds relationships with new brokers as it attempts rebound
+Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during AI sell-off
 
-## The AfD won’t stop with Saxony-Anhalt
-The far-right party’s ambition is not regional leadership; its recent campaign is a blueprint for running the country
+## Is Bessent winning the wrong battle in markets?
+Treasury secretary’s intervention in the yen has made an impact but US bond yields are climbing higher and higher
 
-## Will Burnham grasp the urgent need to defend the UK?
-As threats mount, Labour MPs cheer the PM’s refusal to address the hard spending choices needed for our security
+## Scott Bessent fails to break ‘fever’ in US bond market
+Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn
 
-## US inflation held steady at 3.4% in August as high fuel prices persist
-Figure prompts traders to increase bets on Fed rate rises ahead of high-stakes meeting
+## UK delays Jackdaw gasfield decision until after by-election in Starmer seat
+Tories and Greens criticise government’s move to push back North Sea project
+
+## UK economy unexpectedly grew 0.4% in July boosted by AI surge
+Resilient start to third quarter comes as surging oil price reignites inflation fears
+
+## Military jet triggered UK’s latest air traffic meltdown
+Flight plan submitted by one aircraft sparked turmoil that grounded thousands of planes this week
+
+## 9/11 and the America it left behind
+The shock that briefly brought a shared sense of purpose has left a complicated legacy
+
+## Why the AI race has its creators fearing human extinction
+Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream
 
 ## Reader callout: What is the outlook for buy-to-let investors?
 Tell us your experiences following the change in legislation
-
-## Claude thinks I’m an investment dunce
-Fair enough, but I don’t need the chatbot’s patronising tone as well
-
-## Houthis seize Red Sea islands in lightning offensive
-Latest advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets
 
 ## Time to start taking AI risks seriously
 Governments promise a light-touch regulatory agenda amid growing threats
@@ -30,44 +36,44 @@ Governments promise a light-touch regulatory agenda amid growing threats
 ## ‘Manchester is an opportunity’: but for whom?
 Having asserted its position as a cultural, economic and political powerhouse, the northern city has the highest property price growth of any UK city. Now, its homebuyer profile is shifting
 
-## Ex-Goodwin lawyer pleads not guilty to insider trading in London
+## Former Goodwin lawyer denies insider trading on takeover deal
 Richard Bloomfield faces five counts relating to acquisition of maternity-wear company Seraphine Group
 
 ## FirstFT: Remembering the victims of 9/11
 Also in today’s newsletter: US diesel price hits $6 a gallon, and Citadel shake up
 
-## KPMG under investigation over audits for Prax’s State Oil arm
-Big Four accountant, PKF Littlejohn and an unnamed individual to face FRC probe
+## Telangana bans analogue paneer being sold as ‘paneer’
+The Telangana food safety authority has imposed a one-year prohibition, citing concerns over the sale of non-dairy paneer as genuine paneer
 
-## Anglo nickel deal tests EU resolve over Chinese control of resources
-China-backed MMG urges Brussels to approve $500mn transaction as European regulators prepare formal warning
+## RBI issues draft SOP for temporary debit holds on money-mule, cyber fraud accounts
+The proposed framework sets out timelines for banks to identify suspicious transactions, notify customers, examine explanations and remove debit holds
 
-## IEA warns of ‘lost period’ in global oil demand
-Strait of Hormuz will not reopen this year, agency says, warning of sharp drop in demand as refined product prices soar
+## Broker’s call: Acutaas Chem (Buy)
+JM Financial
 
-## Mastercard and City Union Bank Unveil India’s First ‘One Credential’ Experience for Consumers and SMEs
-Market-first proposition allows cardholders to manage multiple payment relationships through a single credential.
+## Broker’s call: Aavas Financiers (Add)
+Emkay Global Fin
 
-## UP Chief Minister Yogi Adityanath Hails Galgotias University’s Landmark MoU with Japan’s Yamanashi Prefecture
-Greater Noida, Uttar Pradesh, India – Business Wire India
+## FII index futures shorts hit 5-month high, bearish positioning raises odds of sharp market move
+On September 10, FIIs held 3,21,538 short index futures contracts, against 39,694 long contracts, taking the long-short ratio to around 11%, a historically low level
 
-## Merlin Group Partners With Yuvraj Singh to Set up the Second Yuvraj Singh Centre of Excellence in Kolkata
-Saket Mohta of Merlin Group expressed his delight at joining hands with cricket icon Yuvraj Singh for the second time
+## NSE looks to diversify revenue beyond weekly options ahead of ₹22,569 crore IPO
+Weekly index options contributed 46 per cent of operating revenue in FY26; new businesses gaining ground
 
-## Adyar Ananda Bhavan partners with Singapore’s FC Jurong
-Under the partnership, A2B to support FC Jurong Soccer School’s youth programme
+## Six IPOs get aggressive bids worth ₹1.4 lakh crore as Rentomojo, Karamtara, LCC Projects sparkle
+Rentomojo, Karamtara Engineering and LCC Projects were the biggest draws, while Steamhouse India and Arcil saw a modest response
 
-## The Latest Home Loan Interest Rates: Sep 11, 2026
-The Latest Home Loan Interest Rates: Sep 11, 2026
+## RBI to sell ₹1 lakh crore of Government Securities in OMO auctions
+The RBI has take the decision to manage liquidity conditions in the banking system
 
-## The Latest Fixed Deposit Interest Rates: Sep 11, 2026
-The Latest Fixed Deposit Interest Rates: Sep 11, 2026
+## 2 homebuyers paid Rs 1.16 crore, got no flats; RERA orders builder to refund with interest
+The Maharashtra Real Estate Regulatory Authority has directed the developer to refund the amounts paid, along with applicable interest, after noting that the project remained incomplete and its registration had lapsed without an extension.
 
-## Sensex, Nifty fall even as easing oil prices, buying in HDFC Bank, IT stocks help pare losses
-30-share BSE Sensex declines 120.83 points, or 0.16%, to settle at 74,781.76; 50-share NSE Nifty dips 79.70 points, or 0.34%, to end at 23,398.10
+## US stocks today: Wall Street inches higher as oil prices ease, inflation data calms markets
+On Friday, US stocks saw a rise, buoyed by a decline in oil prices and inflation data that matched analysts' projections. The S&P 500 and Nasdaq composite both recorded gains, while the Dow Jones Industrial Average also improved. Despite inflation remaining high, it fell in line with expected rates,
 
-## SBICAP Securities ties up with Appreciate to offer Indian investors access to 8,000+ global stocks
-The partnership makes SBICAP Securities one of the few platforms in India to offer access through both GIFT City-based Global Access Providers, India INX GA, and NSEIXGA, under a single platform
+## In 2010, India launched Aadhaar Card; 16 years later UIDAI says work underway to take Aadhaar global
+Speaking during a fireside chat at Global Fintech Fest 2026, UIDAI CEO Saurabh Vijay said his objective is to build Aadhaar into a best-in-class digital identity infrastructure that can support its expansion internationally.
 
 ## Uber exits Nigeria, Uganda: Why Africa's ride-hailing market is getting tougher
 Uber has officially ended its operations in Nigeria and Uganda, marking a significant retreat from these markets. This decision comes as a result of escalating operating expenses and fierce competition, which have negatively impacted ride-hailing fares and driver earnings. Rising costs for fuel and 
@@ -84,38 +90,29 @@ India is set to roll out a barrier-free digital tolling system by early 2027, al
 ## EPFO delayed retiree’s Rs 14.06 lakh PF claim by 35 days; court orders 6% interest
 A consumer court has ordered the Employees' Provident Fund Organisation (EPFO) to pay 6 per cent annual interest to a retired employee after finding a 35-day delay in the settlement of his provident fund claim worth more than Rs 14 lakh.
 
-## Indian in Kuwait sent Rs 1.09 crore, no ITR; ITAT deletes Rs 5.52 lakh, checks Rs 2.5 crore
-The absence of an original ITR became a key issue. Although the department had information about the substantial sums held in his Indian accounts, there was no tax return on record explaining their nature and source.
+## BRICS Summit: Delhi announces traffic curbs, diversions for September 12; Check affected routes
+Delhi Police on Friday announced traffic diversions and regulated vehicle movement on key routes across the national capital on Saturday, September 12.
 
-## IRCTC books record 20.06 lakh train tickets in a day amid festive rush
-According to IRCTC, its website handled a huge rush on September 7, 2026. The ticket booking website registered its highest-ever single-day booking, with 20,06,353 tickets booked. The record was achieved amid festive-season ARP booking.
+## Amid the 1980s nostalgia trend, here are 10 ChatGPT photo tricks you didn’t know
+From turning yourself into a Bollywood star from the ’80s to imagining your room in completely different design styles, AI can transform an ordinary photograph.
 
-## Gold price prediction: Is it time to buy gold on dips? Check September 11, 2026 outlook
-Gold has recovered sharply from the lower portion of its recent trading range and is now moving towards the upper side of the short-term structure.
+## Modi urges Iran’s Pezeshkian to resolve West Asia conflict through dialogue
+PM Modi urged Iran President Masoud Pezeshkian to resolve the West Asia conflict through dialogue and stressed freedom of navigation and seafarers’ safety.
 
-## EU Commission takes crucial step to finalise India-EU free trade deal with India
-The European Commission’s move brings the India-EU free trade agreement closer to signing, with the pact expected to be formally signed by the year-end.
+## Modi calls for safeguarding freedom of navigation in talks with Iranian President Pezeshkian
+PM Modi also stressed the need for continued efforts to ensure lasting peace and stability in the region, the ministry said in a statement.
 
-## 1980s AI photo trend: 5 ChatGPT prompts to make your wedding photos look like they’re from the 80s
-With the right ChatGPT prompt, you can transform your contemporary wedding photos into images that look like they were captured decades ago.
+## Odisha STF detains three in Bengal’s Digha over recovery of 5 orangutans
+Five critically endangered orangutans were found in Balasore, Odisha, after which the STF detained three persons from a hotel in Digha.
 
-## Odisha drafts anti-witch-hunting policy with special courts, time-bound trials
-Odisha’s proposed anti-witch-hunting policy seeks special courts, time-bound trials, immediate rescue and rehabilitation of victims, and strict police accountability.
+## Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM
+Tripura and Mizoram held their first meeting over the long-running border dispute, with officials beginning preliminary talks to find an amicable solution.
 
-## Modi’s gift to Putin: A Tamil classic that offers army lessons on statecraft
-Abbreviated as the Kural, it is one of the centuries-old treatises the Indian Army is studying for insights into statecraft, strategy, diplomacy and warfare
+## Putin takes a dig at 'so-called' G7, stresses BRICS nations' 40% share of world GDP
+Putin said that over the last five years, more than half of that growth has been accounted for by BRICS, whereas the G7 has only accounted for 18%.
 
-## Inside Modi-Putin meet: PM nudges Russia to end Ukraine war, $100 billion trade target by 2030
-In the context of bilateral ties, the two leaders reviewed progress in political, economic, defence, energy and space cooperation.
-
-## Evening News Brief September 11: Modi meets Putin, Dipke dares govt, Chidambaram vs Tharoor over BRICS summit
-Here's your one-stop briefing on today's top news stories that matter.
-
-## PM Modi, Putin share car ride to Bharat Mandapam after bilateral meeting | Watch
-The two leaders shared a car ride to an exhibition at Bharat Mandapam after their bilateral meeting on the sidelines of the BRICS Summit.
-
-## Mumbai man used ChatGPT to fake PMO ID ‘to boost social standing’, police tell court
-Police told the court that multiple forged English-language documents linked to the PMO were recovered during a search of Parikh's residence.
+## BRICS power parade: Modi, Pezeshkian, Putin, Ramaphosa strike a stunning frame
+Prime Minister Narendra Modi was seen holding hands with the leaders as they walked together, in a display of ties among leaders of the grouping.
 
 ## ‘Key pillar’: the 5-year powerhouse plan for China’s car industry
 China is set to secure its place among the global automotive powerhouses by 2030 through further efforts to boost domestic sales and foster technological innovation, while a capacity alert mechanism will be introduced to guard against disorderly competition. The ambitious targets and actions are lai
@@ -141,6 +138,12 @@ China’s buoyant stock market lifted brokers’ earnings in the first half, whi
 ## Haidilao’s stock rout exposes funding risk from Beijing’s taxation crackdown as payments loom
 The turmoil surrounding Chinese hotpot chain restaurant operator Haidilao International Holding could serve as a warning to investors of the funding risks stemming from Beijing’s new taxation regime on overseas assets held by wealthy individuals. A plan by Shu Ping, the co-founder and wife of Haidil
 
+## Don’t Blame Ukraine for High Gas Prices
+Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is Trump’s war on Iran.
+
+## Why 9/11 Baffles Us 25 Years Later
+It’s the strategic disaster that keeps on giving.
+
 ## Israel’s Soft Power Is Its Hard Power
 The Israeli government’s greatest source of diplomatic influence is the popularity of its military equipment.
 
@@ -159,35 +162,29 @@ Carlos the Jackal left behind a violent, celebrity-obsessed world.
 ## The Paradox of Prabowonomics
 Indonesia is experiencing 5 percent growth, but not everyone is feeling it.
 
-## The Political Cost of Sending Korean Forces to Hormuz
-By pressuring Seoul to support his Iran war, Trump is weakening a vital alliance.
+## What Role Does Denuclearization Have in North Korea-US Dialogue Today?
+Breaking down the denuclearization debate from both sides: North Korea and the United States.
 
-## Scientists Saved Us From Catastrophic Risk Before
-Track-two science diplomacy can provide vital safeguards on AI.
+## Can India Exploit China’s ‘Malacca Dilemma’?
+New Delhi need not match Beijing militarily to impose disproportionate strategic costs.
 
-## From 9/11 to Pahalgam: India’s Evolving Strategy in the Global War on Terror
-The September 11 attacks reshaped how the world thinks about – and addresses – terrorism. India is no exception.
+## The Mecca Pact: A New Treaty Organization, Just Like the Old One
+MJDA is much like the Cold War’s CENTO and is likely to be just as impactful.
 
-## From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional
-There’s a reason the nation's relationship with the U.S. has fluctuated while India’s has largely held steady.
+## Learning Chinese Sign Language
+There are multiple different sign languages – some of which are not easily intelligible to deaf people.
 
-## Tashiev and the Letter of 75: Charges Reclassified, Sentences Lessened, Confusion Reigns
-Both Tashiev’s lawyers and the prosecutors filed appeals after the July verdict, the former seeking complete acquittal and the latter harsher sentencing. Neither has gotten what they asked for.
+## Bangladesh and the Perils of Pax Silica
+It could end up exchanging strategic flexibility for an upgraded version of the subcontracting economy it is trying to escape.
 
-## What the AfD’s Rise in Germany Means for China-EU Relations
-China’s economic success is bringing industrial disruption that empowers populist groups in Europe. That could lead to significant long-term challenges for the Chinese government and businesses.
+## Namal Rajapaksa’s Arrest and Sri Lanka’s Politics of Mutual Protection
+The old establishment elites have opposed Namal’s arrest. They want to preserve a system where one of their own is not jailed for corruption.
 
-## Can Southeast Asia Benefit From the China-US AI Race?
-As Washington and Beijing compete to turn technology into influence, the region needs to negotiate what it gains and what it is expected to give up.
+## Asia’s Economic Integration: A Roadmap for Peacebuilding in the Middle East
+Economic cooperation in the Asia-Pacific has been the key driver of peace since 1952.
 
-## Another New Job for Saida Mirziyoyeva: Manager of the Tashkent International Financial Center
-The daughter of the Uzbek president is head of the presidential administration and now also manager of Tashkent’s ambitious gambit to attract foreign investors.
-
-## East Asia’s Quiet Race to Find the Universe’s Missing Mass
-China, South Korea, and Japan all run their own programs to detect dark matter, some of them world-leading in sensitivity.
-
-## What Kazakhstan’s New Unicameral Parliament Means for Its Foreign Policy
-Although Kazakhstan’s Senate rarely exercised its influence over the country’s foreign policy, its abolishment has left the country without the diplomatic expertise and sequential vetting that the upper chamber once provided.
+## After the Bangsamoro Poll, Can Politics Maintain the Peace?
+The peace process in the autonomous region will continue long after the votes have been counted and a new government formed.
 
 ## The War’s Last Generation Is Still Holding America’s Moral Debt
 On the first night of the evacuation of Kabul, Aug. 15, 2021, a young mother found me in the crowd at Hamid Karzai International Airport. She had marked me, correctly, as someone who spoke her language. By the end of the night, she was pressing the body of her dead child into my chest and telling me
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## The vanishing pharmacy of the Sundarbans
-As rising seas push salt into the world's largest mangrove, traditional medicinal plants are being lost.
+## ‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?
+A growing number of fishermen say their boats have been struck by US forces as Trump expands his anti-drug campaign.
 
-## The dystopian legal architecture of the ‘war on terror’ must be dismantled
-A quarter-century after 9/11, we are still living under the security order it unleashed.
+## Morocco PM takes aim at federation chief over 2030 World Cup final boast
+Prime Minister Aziz Akhannouch slams his country's football chief after claim Morocco will host 2030 World Cup final.
 
-## Arsenal manager Arteta ‘very surprised’ at Jesus blast over Barcelona move
-Gabriel Jesus claims he was forced to train alone before Barcelona move, but Arsenal 'surprised' by criticism.
+## Houthis declare Red Sea shipping safe except for Saudi vessels
+Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.
 
-## Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations
-Second day of strikes on fuel stations suggest a new campaign focused on civilian areas in the Ukrainian capital.
+## US diplomacy under fire as Russia escalates attacks on Ukrainian officials
+The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.
 
-## From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted
-US and Israeli officials are using a drop in acute malnutrition cases to claim Gaza has no hunger.
+## Passenger plane aborts landing after wing clips Dublin runway
+A passenger aboard a Ryanair Boeing 737 recorded the moment the aircraft’s wingtip struck the runway at Dublin airport.
 
-## Myanmar airport closed following reported drone attack
-Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.
+## Erdogan: The Making of Modern Turkiye
+An interview with Turkish President Erdogan on foreign policy, regional conflicts and 25 years of AK Party rule.
 
-## ‘A historic day’: Spain moves closer to citizenship for Western Saharans
-Spain’s parliament backs citizenship for Sahrawis amid tense relations with Morocco after the Ceuta crossing.
+## Trump pays tribute to the victims of 9/11 at Pentagon ceremony
+US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.
 
-## FIFA rebukes Morocco’s claim it will host 2030 World Cup final
-Morocco to co-host 2030 ​tournament with Spain and Portugal, but FIFA denies final will be in North Africa.
+## Philippines ferry fire death toll rises to 35 after bodies recovered
+Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday's disaster.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
