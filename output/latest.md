@@ -1,64 +1,76 @@
 # AION Intelligence
 
+## UK economy unexpectedly grew 0.4% in July boosted by AI surge
+Resilient start to third quarter comes as surging oil price reignites inflation fears
+
+## Desperately seeking UK data centre data
+[SIC]
+
+## Yemeni militants used Anthropic AI to try to build ballistic missiles
+Missile test by group apparently failed, but exposes limits of AI safeguards
+
+## IEA warns of ‘lost period’ in global oil demand
+Strait of Hormuz will not reopen this year, agency says, warning of sharp drop in demand
+
+## Andy Burnham’s blind spot
+Prime minister risks forgetting ‘flyover states’ in the Midlands that have huge growth potential
+
+## Putin anticipates friendly reception at India Brics summit
+Kremlin chief to pursue defence and investment deals with New Delhi at first in-person attendance abroad since Ukraine war
+
+## The best exhibitions to see in London this weekend
+The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
+
+## Elliott veteran to lead Citadel’s international equities business
+Ken Griffin’s hedge fund combines divisions as it seeks to deploy more firepower outside US
+
+## KPMG under investigation over audits for Prax’s State Oil arm
+Big Four accountant, PKF Littlejohn and an unnamed individual to face FRC probe
+
+## US diesel hits record $6 a gallon on Iran supply shock
+Surging cost for fuel critical to agriculture and industry stokes price pressures as Americans confront affordability crunch
+
+## Macron shoots for the moon with pitch to Europe’s struggling space sector
+Also in this newsletter: Europe keeps buying more Russian gas
+
+## How big is the open-model threat to AI hyperscalers?
+Games without frontiers
+
 ## FirstFT: Bessent fails to break bond market ‘fever’
 Also in today’s newsletter: Hormuz talks and Russian assets
 
-## Trump-Vance’s midterm pitch: vote Republican or live with the ‘lunatics’
-Party far more comfortable raising fear of Democratic alternative than discussing own policies, including Iran war
-
-## US rate rise fears ripple through global bond markets
-Houthi advances push oil prices higher while markets await inflation data on Friday
-
-## Private equity’s ‘Waiting for Godot’ era continues
-The mood was subdued at the industry’s annual conference in Paris
-
-## Iran and Gulf states to meet in push for Hormuz deal
-Regional states hope temporary shipping agreement between Iran and Oman can offer a pathway to ease hostilities and reopen the strait
-
-## Elon Musk’s gas turbines could shake up the backlogged sector
-Just the threat of market disruption might help ease bottlenecks, to the extent that it prods manufacturers to expand output
-
-## Scott Bessent fails to break ‘fever’ in US bond market
-Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn
-
-## Virgin Media O2 owners target £600mn in cost cuts
-Telefónica and Liberty Global seek job cuts and other reductions in a bid to calm bond investors
-
-## First-time buyers load up on mortgage debt after change in lending rules
-High loan-to-income products have been flying off the shelves since the rules were loosened last year
-
-## Dubai airport group plans underground fuel tanks to protect against strikes
-UAE pressing ahead with expansion plans for flight hub despite the Iran war
-
-## Insurers Zurich and Allianz have exposure linked to Radiant World
-Iron ore trader battling court claims from creditors around allegedly fraudulent documentation
-
-## Sanctions loophole lets UK insurer cover tankers carrying Russian gas
-NorthStandard legally insuring vessels despite government expanding powers to restrict maritime services
-
-## BRICS Summit: Delhi Metro services to start early on Sunday
-The Delhi Metro Rail Corporation adjusts its schedule to accommodate early commuters and students facing traffic disruptions due to the international event, ensuring access to key areas during the summit.
-
-## BRICS Summit 2026 Live: Putin in New Delhi for the BRICS summit, to meet PM Modi
+## BRICS Summit 2026 Live: PM Modi-Putin to hold bilateral talks today afternoon
 BRICS Summit 2026 Live: Important atendees include Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President Masoud Pezeshkian, Egyptian President Abdel Fattah El-Sisi, Ethiopian Prime Minister Abiy Ahmed Ali, and Indonesian President Prabowo Subianto
 
-## Sensex today | Stock Market Live: Sensex, Nifty plunge nearly 1% as West Asia tensions push Brent crude to $108
-Sensex, Nifty, Stock Price Live Updates: Indian equities opened sharply lower on Friday, with the Sensex falling 663 points and the Nifty declining 218 points, as surging crude prices, foreign investor selling and escalating West Asia tensions weighed on market sentiment and raised inflation concern
+## BRICS should deepen banking links to boost local currency trade: Experts
+BRICS experts in New Delhi advocate for enhanced banking ties and local currency trade to boost economic cooperation and reduce costs
 
-## Milky Mist commissions new high-protein Skyr and Yoghurt plant
-The unit is located within the company’s integrated manufacturing facility in Perundurai, Erode in Tamil Nadu
+## Sensex today | Stock Market Live: Sensex, Nifty stay under pressure as Brent crude hits $108
+Sensex, Nifty, Stock Price Live Updates: Indian equities traded lower on Friday as surging crude prices, foreign investor selling and escalating West Asia tensions weighed on market sentiment and raised inflation concerns.
 
-## Brent crude remains above $108 a barrel on West Asia supply disruption concerns
-Saudi Arabia produced 6.24 million barrels a day in August, says OPEC report
+## NSE IPO: What changed from DRHP to RHP
+The bourse has cut the OFS to 12.64 crore equity shares from 14.9 crore shares proposed in the DRHP, roughly a reduction of 15%. Since the IPO is entirely an OFS, the cut in the number of shares directly brings down the overall issue size.
 
-## Rupee falls 27 paise to 95.79 against US dollar in early trade
-At the interbank forex market, the rupee opened at 95.70 against the US dollar but fell to 95.79, losing 27 paise from its previous close
+## Decathlon India's wholesale business grows 20-fold in 5 years, contributes 10% of revenue
+Decathlon India’s revenue for the financial year ending March 31, 2025, was ₹4,133.10 crore. It has not yet filed FY26 numbers with the Registrar of Companies
 
-## India's 10-year bond yield surpasses 7% on rising oil, Treasury yields
-The Brent crude ‌contract was over $108 ​per barrel, while the 10-year ⁠US yield ⁠was around 4.97%
+## The Wait Is Over: iPhone 18 Pro Pre-booking Opens at Reliance Digital on 12th September, 2026
+The Wait Is Over: iPhone 18 Pro Pre-booking Opens at Reliance Digital on 12th September, 2026
 
-## RBI intervenes to defend rupee as oil prices climb, traders say
-State-run banks were spotted ‌offering dollars, most likely on behalf of the RBI, the traders said
+## Confident BRICS Summit will see positive talks on various issues: PM Modi
+Russian President Vladimir Putin, Chinese President Xi Jinping and Iran President Masoud Pezeshkian are among those attending the summit
+
+## As NSE, Reliance Jio eye listings, what are India's biggest share offerings?
+The offer-for-sale, which does not include any fresh capital being raised, ‌will value NSE at close to $46 billion, which would make ​it the country’s third-largest IPO.
+
+## Indian in Kuwait sent Rs 1.09 crore, no ITR; ITAT deletes Rs 5.52 lakh, checks Rs 2.5 crore
+The absence of an original ITR became a key issue. Although the department had information about the substantial sums held in his Indian accounts, there was no tax return on record explaining their nature and source.
+
+## Gold price prediction: Is it time to buy gold on dips? Check September 11, 2026 outlook
+Gold has recovered sharply from the lower portion of its recent trading range and is now moving towards the upper side of the short-term structure.
+
+## Top stocks to buy today: Stock market recommendations for September 11, 2026 - check list
+Stock market recommendations: Finolex Cables, Adani Ports, and Emmvee Photovoltaic Power are the top stocks to buy today on September 11, 2026, identified and recommended by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One
 
 ## Rupee tumbles 27 paise against US dollar as crude prices hold firm above $108 per barrel
 The Indian Rupee weakened against the US dollar on Friday, extending its previous day's losses. High crude oil prices and foreign portfolio outflows continued to exert downward pressure. Supportive factors like forex reserves and RBI intervention were insufficient against these headwinds. Investors 
@@ -75,38 +87,41 @@ India's economy showcased remarkable resilience by achieving a robust 7.8 percen
 ## Oil touches $107 per barrel as Hormuz remains choked for over six months
 This week, oil prices surged past a hundred dollars per barrel amidst growing worries over supply disruptions caused by attacks on shipping routes in the Middle East. US fuel prices reflect this trend as supply chains experience strain. The trajectory of future oil prices will heavily depend on Chin
 
-## Small towns power Quick-commerce biz for Flipkart
+## Abhijit Dipke meets Manoj Jarange Patil, backs Maratha quota agitation
+Dipke dared the government to forcibly remove Jarange from the protest site, as the Delhi Police did with Sonam Wangchuk
 
+## The Saket problem: Egyptian team's BRICS stay complicates Delhi's traffic plan
+The BRICS Summit is scheduled to be held at Bharat Mandapam in central Delhi on Saturday and Sunday.
 
-## Gross SIP flows, fund industry assets at record high
+## Urged Brics nations to create predictable business environment: S Jaishankar
+S Jaishankar said, India chairship’s focus is on resilience, innovation, cooperation, and sustainability among members as these priorities are especially relevant in the current circumstances
 
+## ‘Men will go and win medals…': Delhi HC highlights women athletes' interests at Vinesh Phogat case hearing
+The remarks came after the court refused Phogat’s plea for interim permission to participate in selection trials for the Senior World Wrestling Championships.
 
-## Emerging sectors to drive next industrial revolution: Report
+## Nitin Gadkari sets March 2027 target for barrier-free toll plaza system: 'In one year, we want to get it done'
+Gadkari said the government aims to eliminate stoppages, which would help reduce fuel consumption and the operational costs
 
+## Delhi weather alert: Rain, thunderstorms likely across city in next 4 hours
+While no alert has been issued for Saturday, light to moderate rain is expected throughout the day on Friday.
 
-## Kejriwal thanks CJP's Saurav Das for flagging problems during Punjab schools audit: 'Will immediately address'
-CJP's Saurav Das led a delegation of the pressure group to Punjab, where they assessed the state of government schools.
+## MP hooch tragedy: Prime accused arrested after encounter in Sagar
+Lakhera, who has 25 criminal cases registered against him, was injured in the leg during the exchange of fire and taken to hospital for treatment
 
-## Putin is here, when are other dignitaries arriving in Delhi for BRICS?
-Though the summit begins on Saturday, foreign dignitaries have been arriving since Thursday and will continue to arrive through Friday and Saturday as well.
+## Jantar Mantar protest not true picture of country's next generation, says Keralam Guv
+Jantar Mantar protest not true picture of country's next generation, says Keralam Guv
 
-## Tharoor breaks ranks with Chidambaram, backs BRICS Summit as ‘diplomatic power move’
-Chidambaram on Tuesday stoked controversy when he questioned the tangible benefits India gained from such events.
+## Mainland Chinese investors to drive Hong Kong wealth boom despite new tax rules: report
+Hong Kong banks expect the contribution of mainland Chinese investors to the city’s wealth management business to continue to grow through 2030, presenting opportunities despite Beijing’s tightened cross-border tax rules. Mainland China’s share of local assets under management was projected to reach
 
-## BRICS Summit: Delhi schools, offices closed today? Check what’s open, what’s shut
-Traffic movement is also expected to be affected across parts of Delhi, with restrictions coming into effect from the afternoon.
+## Hang Seng rolls out five wealth management strategies
+[The content of this article has been produced by our advertising partner.] Hong Kong’s wealth landscape has evolved well beyond single-product investing, with more families now taking an integrated approach to planning that strengthens financial resilience, supports lifestyle continuity and enables
 
-## '1km turns into 8km': Delhi's traffic patience wears thin as BRICS rolls in
-As Delhi gears up for BRICS, parts of one of the world’s busiest urban centers have been turned into tightly controlled security zones.
+## US Treasury yield hits 19-year high, Japanese yen strengthens: the numbers moving markets
+China’s buoyant stock market lifted brokers’ earnings in the first half, while Hong Kong saw continued growth in retirement assets. Beyond China, a strengthening yen and Washington’s Treasury buy-back programme highlighted shifting dynamics in global currency and bond markets. Here are some of the f
 
-## Supreme Court asks government to teach nutrition in schools, quizzes FSSAI on food warning labels
-The court seeks detailed responses on their design, placement, and implementation timeline to aid informed dietary choices among children.
-
-## HT Morning Brief September 11: Putin arrives in India for BRICS, 25 years of 9/11 terror attack and more
-Here are 5 things you need to know from across the country, the globe, as well as, from the world of sports and entertainment.
-
-## Relations over rivalry, people over politics: India looks to build BRICS bridges in uncertain world
-Focus on relationships over rivalry, substance over mere statements, and people over politics are the pillars of New Delhi’s approach.
+## Haidilao’s stock rout exposes funding risk from Beijing’s taxation crackdown as payments loom
+The turmoil surrounding Chinese hotpot chain restaurant operator Haidilao International Holding could serve as a warning to investors of the funding risks stemming from Beijing’s new taxation regime on overseas assets held by wealthy individuals. A plan by Shu Ping, the co-founder and wife of Haidil
 
 ## Yuen Kee Food enters final stage of Hong Kong IPO after HKEX approval, sources say
 Yuen Kee Food Group, the owner of well-known restaurant brand Yuen Kee Dumpling, has cleared its listing hearing with the Hong Kong Exchanges and Clearing (HKEX), aiming to raise between HK$300 million (US$38.3 million) and HK$400 million, according to people familiar with the matter. The conclusion
@@ -119,18 +134,6 @@ Hong Kong’s home prices will end the year 15 per cent higher than a year earli
 
 ## Record China-US gap in bond yields unlikely to trigger capital flight: Marsh Investment
 The widening yield spread between Chinese and American government bonds is unlikely to trigger catastrophic capital flight from China, according to investment executives at Marsh Investment, who attribute the record spread to the United States’ fiscal pressures and global macro trends rather than a 
-
-## Investment surge in Central Asia drives calls for expanded use of Chinese yuan
-Expanding use of the Chinese yuan in fast-growing Central Asia, where China is a top investor, can reduce risks and costs for infrastructure firms, part of a broader trend that sees the currency gaining ground wherever commercial flows create demand for it, according to speakers on an investment pan
-
-## SHKP posts 4.6% profit rise amid Hong Kong’s property recovery
-Sun Hung Kai Properties (SHKP), Hong Kong’s biggest developer by market capitalisation, reported its underlying profit for the year ending June rose 4.6 per cent to HK$22.85 billion (US$2.91 billion), excluding investment property revaluations. Meanwhile, its reported profit increased to HK$21.43 bi
-
-## Hong Kong watchdog investigates Cloudbreak Pharma for ‘rigged’ IPO, suspends its shares
-Hong Kong’s Securities and Futures Commission (SFC) has directed the stock exchange to suspend trading of US-based biotech firm Cloudbreak Pharma pending an investigation into its US$78 million initial public offering (IPO) last year. “The SFC has serious concerns that Cloudbreak’s initial public of
-
-## DeepSeek says new Flash AI model beats Kimi K3 on cyber, coding benchmarks
-DeepSeek has released its V4.1 Flash model, claiming it outperforms its previous flagship while cutting inference costs and boosting speeds – the latest salvo in China’s aggressive price-and-performance war. The Chinese artificial intelligence developer said on Thursday that V4.1 Flash used a new “C
 
 ## What Makes a Good Counterterrorism Strategy?
 Three top experts on the terror threat 25 years after 9/11.
@@ -156,6 +159,12 @@ Failed wars are predictable, if you know what to look for.
 ## Iran Launches Massive Attack on Global Shipping
 Such assaults put the Strait of Hormuz under growing pressure as global crude prices skyrocket.
 
+## From 9/11 to Pahalgam: India’s Evolving Strategy in the Global War on Terror
+The September 11 attacks reshaped how the world thinks about – and addresses – terrorism. India is no exception.
+
+## From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional
+There’s a reason the nation's relationship with the U.S. has fluctuated while India’s has largely held steady.
+
 ## Tashiev and the Letter of 75: Charges Reclassified, Sentences Lessened, Confusion Reigns
 Both Tashiev’s lawyers and the prosecutors filed appeals after the July verdict, the former seeking complete acquittal and the latter harsher sentencing. Neither has gotten what they asked for.
 
@@ -174,11 +183,8 @@ China, South Korea, and Japan all run their own programs to detect dark matter, 
 ## What Kazakhstan’s New Unicameral Parliament Means for Its Foreign Policy
 Although Kazakhstan’s Senate rarely exercised its influence over the country’s foreign policy, its abolishment has left the country without the diplomatic expertise and sequential vetting that the upper chamber once provided.
 
-## Why Is China Less Active in the 2026 Ebola Epidemic?
-Ten years ago, China was a prominent source of Ebola aid. Today, China’s more powerful but its response is less than many expected – especially as the U.S. steps back.
-
-## Why Have Indians Become a Regular Target of Hate in Singapore?
-Popular resentment toward the city-state's Indian community and Indian nationals has been building for some time.
+## The War’s Last Generation Is Still Holding America’s Moral Debt
+On the first night of the evacuation of Kabul, Aug. 15, 2021, a young mother found me in the crowd at Hamid Karzai International Airport. She had marked me, correctly, as someone who spoke her language. By the end of the night, she was pressing the body of her dead child into my chest and telling me
 
 ## What America’s Adversaries and Allies Hope to Gain at the U.N. General Assembly
 This year’s U.N. General Assembly officially opened on Tuesday, Sept. 8. The annual gathering gives diplomats and leaders a valuable opportunity to press their foreign policy priorities and engage — formally and informally — with both partners and adversaries. Most heads of state will arrive later t
@@ -200,9 +206,6 @@ On Jan. 5, 2025, my volunteer platoon attached to the 23rd Special Purpose Batta
 
 ## The Mecca Pact’s Credibility Gap
 Collective-defense pacts are meant to make war less likely. Poorly designed ones can do the opposite. If allies make sweeping promises without the military integration, decision-making mechanisms, and escalation controls needed to carry them out, they may invite adversaries to test the boundaries of
-
-## The Two Questions Ukraine Asks Before Every Decision
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,32 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump jokes Republicans can ‘cheat like hell’ in the midterms
-US President Donald Trump has jokingly asked Republican voters to ‘cheat like hell’ in the midterms, ‘like Democrats’.
+## Japan, India, Ukraine: Why some countries are uneasy about new UN map
+The countries are not opposed to a new map per se; they're testy about the colour shades.
 
-## Republican midterm convention wraps up in Dallas, Texas: Key takeaways
-Protesters gather on final night as US Republicans seek to rally base ahead of consequential legislative elections.
+## World Athletics Ultimate Championship opens with record $10m prize pot
+The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.
 
-## Taiwan vice president makes rare Europe visit for conference on democracy
-European Parliament's Pina Picierno says Hsiao's visit 'was kept secret until her arrival to protect her participation'.
+## Pro-Palestine student suspended by King’s College London returns to campus
+College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.
 
-## Young republicans break with Trump over Iran war
-A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.
+## What did 25 years of the “war on terror” leave behind?
+US forces have bombed somewhere every year since 2001. AJLabs maps the so-called “war on terror”.
 
-## Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
-Russian, Iranian leaders due to hold talks with India's Modi at summit dominated by wars in Middle East and Ukraine.
+## How 9/11 helped Israel sell its war on Palestinians to America
+The 'war on terror' made Israeli repression easier to present as part of a shared struggle against a common enemy.
 
-## Brazil’s Supreme Court shuts down early as political chaos mounts
-Members of the high court have exchanged accusations after one justice was accused of involvement in a bank scandal.
+## Anthropic warns of bids to use AI to build biological weapons
+Experts urge stricter access to AI models as Anthropic reports rising misuse cases, including biological research risks.
 
-## Unveiling of Charlie Kirk statue sparks chaos in Times Square
-The unveiling of a statue honouring Charlie Kirk in Times Square has sparked clashes between supporters and protesters.
+## Hong Kong court hands stiff jail sentences to Tiananmen vigil activists
+Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.
 
-## Maduro’s wife seeks home detention as heart condition worsens in US custody
-Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.
+## UEFA wants FIFA subsidiaries’ blocked from Infantino discovery fight in US
+UEFA urges US court to deny FIFA subsidiaries' bid to join Gianni Infantino discovery fight as president battle rumbles.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
+
+## Corporate Laws Bill: Audit exemption exposes fault line in JPC over corporate accountability
+Panel backs targeted audit relief for private companies as dissent over wider compliance dilution puts corporate governance safeguards under scrutiny.
 
 ## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
 Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
@@ -273,8 +279,8 @@ Seasoned finance professional Robin Banerjee, Chairman of Nucleon Research Pvt. 
 ## The CFO's Strategic Role: Balancing Growth, Profitability, and Cash Generation
 In today's corporate landscape, Chief Financial Officers have evolved into essential strategic partners, expertly juggling the demands of growth alongside financial prudence. They adeptly navigate the complexities of profitability and cash flow, utilizing advanced digital tools for more accurate for
 
-## ICAI explores PE funding for consultancy, accounting
-The Institute of Chartered Accountants of India is exploring private equity investment in non-audit accounting services. This move aims to facilitate growth by separating assurance and non-assurance practices. Assurance services will remain independent from such external investments. Global models a
+## Surplus liquidity crosses 11 L cr in money market
+India's money market liquidity has surged past eleven lakh crore rupees. This excess cash resulted from banks mobilizing foreign-currency deposits under a special window. The Reserve Bank of India is actively absorbing this surplus liquidity through various operations. Banks are currently preferring
 
 ## RBI's FCNR liquidity problem is becoming a treasury problem for banks
 The Reserve Bank of India's struggle to absorb a record liquidity surplus is increasingly becoming a treasury-management challenge for banks, which must decide how much excess cash to park with the central bank, deploy into loans or securities, or keep readily available.
@@ -296,7 +302,4 @@ INDIA-RUPEE/RBI-INTERVENTION (PIX)Indian central bank unloaded at least $8 billi
 
 ## Sebi’s new ETF rules apply today: What changes from September 7 and how they impact investors?
 Sebi’s revised ETF trading rules have come into effect from September 7, changing how price bands and reference prices are determined. The new framework introduces dynamic price bands based on underlying assets and a pre-open auction for gold and silver ETFs, aiming to improve price discovery and re
-
-## RBI absorbs Rs 6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high
-Recently, the Reserve Bank of India undertook measures to absorb more than six lakh crore rupees from the banking system, utilizing two variable rate reverse repo auctions. This move comes as a response to record high surplus liquidity driven by significant inflows from a special deposit scheme and 
 
