@@ -3,6 +3,9 @@
 ## Houthis seize Red Sea islands in lightning offensive
 Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets
 
+## Trump’s $5,000 dividend is bad corporate finance
+US president’s proposed $1.2tn handout fails to make sense in a country lacking excess cash and in need of investment
+
 ## Situational Awareness builds relationships with new brokers as it attempts rebound
 Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during AI sell-off
 
@@ -21,8 +24,11 @@ Resilient start to third quarter comes as surging oil price reignites inflation 
 ## Military jet triggered UK’s latest air traffic meltdown
 Flight plan submitted by one aircraft sparked turmoil that grounded thousands of planes this week
 
-## 9/11 and the America it left behind
-The shock that briefly brought a shared sense of purpose has left a complicated legacy
+## Stockpickers: Rosebank Industries, SigmaRoc, Ashmore
+Our experts discuss which companies to buy, sell or hold this week
+
+## Directors’ Deals: Shell’s upstream boss takes advantage of valuation uplift
+The oil major’s acquisition of ARC Resources is expected to improve free cash flow from next year
 
 ## Why the AI race has its creators fearing human extinction
 Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream
@@ -30,17 +36,8 @@ Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI ha
 ## Reader callout: What is the outlook for buy-to-let investors?
 Tell us your experiences following the change in legislation
 
-## Time to start taking AI risks seriously
-Governments promise a light-touch regulatory agenda amid growing threats
-
-## ‘Manchester is an opportunity’: but for whom?
-Having asserted its position as a cultural, economic and political powerhouse, the northern city has the highest property price growth of any UK city. Now, its homebuyer profile is shifting
-
-## Former Goodwin lawyer denies insider trading on takeover deal
-Richard Bloomfield faces five counts relating to acquisition of maternity-wear company Seraphine Group
-
-## FirstFT: Remembering the victims of 9/11
-Also in today’s newsletter: US diesel price hits $6 a gallon, and Citadel shake up
+## India, Peru FTA talks enter final stretch; Lima hopes to sign deal in 2027
+Peruvian exports to India surged 152% in January-July, making it the country’s second-largest export destination ahead of the United States
 
 ## Telangana bans analogue paneer being sold as ‘paneer’
 The Telangana food safety authority has imposed a one-year prohibition, citing concerns over the sale of non-dairy paneer as genuine paneer
@@ -63,11 +60,11 @@ Weekly index options contributed 46 per cent of operating revenue in FY26; new b
 ## Six IPOs get aggressive bids worth ₹1.4 lakh crore as Rentomojo, Karamtara, LCC Projects sparkle
 Rentomojo, Karamtara Engineering and LCC Projects were the biggest draws, while Steamhouse India and Arcil saw a modest response
 
-## RBI to sell ₹1 lakh crore of Government Securities in OMO auctions
-The RBI has take the decision to manage liquidity conditions in the banking system
-
 ## 2 homebuyers paid Rs 1.16 crore, got no flats; RERA orders builder to refund with interest
 The Maharashtra Real Estate Regulatory Authority has directed the developer to refund the amounts paid, along with applicable interest, after noting that the project remained incomplete and its registration had lapsed without an extension.
+
+## India-EU FTA draft: European cars, wine, farm goods set for lower tariffs; key changes explained
+
 
 ## US stocks today: Wall Street inches higher as oil prices ease, inflation data calms markets
 On Friday, US stocks saw a rise, buoyed by a decline in oil prices and inflation data that matched analysts' projections. The S&P 500 and Nasdaq composite both recorded gains, while the Dow Jones Industrial Average also improved. Despite inflation remaining high, it fell in line with expected rates,
@@ -87,32 +84,29 @@ UPI now dominates Indian merchant payments, significantly reducing card usage. D
 ## No-stop toll plazas by March 2027? Nitin Gadkari sets deadline for barrier-free system
 India is set to roll out a barrier-free digital tolling system by early 2027, allowing vehicles to glide past toll booths without stopping. The integration of number-plate recognition with existing FASTag technology promises to streamline the toll collection process even further. Motorists will expe
 
-## EPFO delayed retiree’s Rs 14.06 lakh PF claim by 35 days; court orders 6% interest
-A consumer court has ordered the Employees' Provident Fund Organisation (EPFO) to pay 6 per cent annual interest to a retired employee after finding a 35-day delay in the settlement of his provident fund claim worth more than Rs 14 lakh.
+## U.S. envoy Sergio Gor visits Manipur, meets CM and governor
+US Ambassador Sergio Gor visited Manipur, meeting local leaders and exploring historic sites, emphasizing US-Manipur relations and tourism development.
+
+## CAG flags data discrepancies in Gujarat’s Har Ghar Jal claim
+Gujarat had declared 100% functional household tap connection coverage, covering 91.18 lakh rural households, by October 2022.
+
+## 21 rescued after two merchant ships collide near Gujarat coast, pollution response measures activated: Coast Guard
+The Indian Coast Guard said 21 of the 24 people on the crew of MV KMAX EMPEROR were safely evacuated after the two vessels collided.
+
+## Nagpur man flings chili powder at SBI staff, flees with ₹4.5 lakh; nabbed in 30 mins
+According to CCTV videos, he crept up behind the employees at the cash counter and started hurling handful of chilli powder into their faces
+
+## Chhattisgarh man dies in police custody, constable suspended; probe ordered
+A 35-year-old man died after his health deteriorated in police custody in Chhattisgarh’s Janjgir-Champa. His family alleged assault and torture.
+
+## ‘Umeed karta hun…’: Russian diplomat speaks fluent Hindi, expresses optimism ahead of BRICS summit
+Sizov spoke in Hindi about the growing strength of the grouping that has India, China and Russia among its prominent members.
 
 ## BRICS Summit: Delhi announces traffic curbs, diversions for September 12; Check affected routes
 Delhi Police on Friday announced traffic diversions and regulated vehicle movement on key routes across the national capital on Saturday, September 12.
 
 ## Amid the 1980s nostalgia trend, here are 10 ChatGPT photo tricks you didn’t know
 From turning yourself into a Bollywood star from the ’80s to imagining your room in completely different design styles, AI can transform an ordinary photograph.
-
-## Modi urges Iran’s Pezeshkian to resolve West Asia conflict through dialogue
-PM Modi urged Iran President Masoud Pezeshkian to resolve the West Asia conflict through dialogue and stressed freedom of navigation and seafarers’ safety.
-
-## Modi calls for safeguarding freedom of navigation in talks with Iranian President Pezeshkian
-PM Modi also stressed the need for continued efforts to ensure lasting peace and stability in the region, the ministry said in a statement.
-
-## Odisha STF detains three in Bengal’s Digha over recovery of 5 orangutans
-Five critically endangered orangutans were found in Balasore, Odisha, after which the STF detained three persons from a hotel in Digha.
-
-## Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM
-Tripura and Mizoram held their first meeting over the long-running border dispute, with officials beginning preliminary talks to find an amicable solution.
-
-## Putin takes a dig at 'so-called' G7, stresses BRICS nations' 40% share of world GDP
-Putin said that over the last five years, more than half of that growth has been accounted for by BRICS, whereas the G7 has only accounted for 18%.
-
-## BRICS power parade: Modi, Pezeshkian, Putin, Ramaphosa strike a stunning frame
-Prime Minister Narendra Modi was seen holding hands with the leaders as they walked together, in a display of ties among leaders of the grouping.
 
 ## ‘Key pillar’: the 5-year powerhouse plan for China’s car industry
 China is set to secure its place among the global automotive powerhouses by 2030 through further efforts to boost domestic sales and foster technological innovation, while a capacity alert mechanism will be introduced to guard against disorderly competition. The ambitious targets and actions are lai
@@ -138,6 +132,15 @@ China’s buoyant stock market lifted brokers’ earnings in the first half, whi
 ## Haidilao’s stock rout exposes funding risk from Beijing’s taxation crackdown as payments loom
 The turmoil surrounding Chinese hotpot chain restaurant operator Haidilao International Holding could serve as a warning to investors of the funding risks stemming from Beijing’s new taxation regime on overseas assets held by wealthy individuals. A plan by Shu Ping, the co-founder and wife of Haidil
 
+## The United States of Propaganda
+Few Americans have the vocabulary to describe what’s making them miserable.
+
+## Discarding an Old Map and Seeing Africa With Fresh Eyes
+The continent offers solutions to some of the West’s most vexing problems.
+
+## A War Reporter’s Antidote to Nihilism
+In a new book, Sally Hayden considers how journalists can puncture the detachment of the privileged.
+
 ## Don’t Blame Ukraine for High Gas Prices
 Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is Trump’s war on Iran.
 
@@ -152,15 +155,6 @@ The country is asking the U.K. to consider compensation for the harms of slavery
 
 ## What Makes a Good Counterterrorism Strategy?
 Three top experts on the terror threat 25 years after 9/11.
-
-## The Bab el-Mandeb Problem
-Houthi control of a Red Sea port brings Tehran closer to claiming another critical waterway.
-
-## The ‘Super-Terrorist’ We Still Can’t Escape
-Carlos the Jackal left behind a violent, celebrity-obsessed world.
-
-## The Paradox of Prabowonomics
-Indonesia is experiencing 5 percent growth, but not everyone is feeling it.
 
 ## What Role Does Denuclearization Have in North Korea-US Dialogue Today?
 Breaking down the denuclearization debate from both sides: North Korea and the United States.
@@ -234,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?
-A growing number of fishermen say their boats have been struck by US forces as Trump expands his anti-drug campaign.
+## How US leaders remembered the 25th anniversary of the 9/11 attacks
+Trump drew parallels to the US's present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.
 
-## Morocco PM takes aim at federation chief over 2030 World Cup final boast
-Prime Minister Aziz Akhannouch slams his country's football chief after claim Morocco will host 2030 World Cup final.
+## Houthi advance in Yemen is about more than just the Red Sea
+Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.
 
-## Houthis declare Red Sea shipping safe except for Saudi vessels
-Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.
+## Real Madrid’s Mbappe: AI dictator memes show lack of political awareness
+France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.
 
-## US diplomacy under fire as Russia escalates attacks on Ukrainian officials
-The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.
+## Iran says will discuss Strait of Hormuz with Gulf states on Monday
+Iran's Foreign Ministry says the meeting in Oman is to 'promote better understanding among the countries of the region'.
 
-## Passenger plane aborts landing after wing clips Dublin runway
-A passenger aboard a Ryanair Boeing 737 recorded the moment the aircraft’s wingtip struck the runway at Dublin airport.
+## At least 46,000 displaced by escalating Yemen fighting: UN
+The International Organisation for Migration (IOM) warns that the figure is rising 'by the hour'.
 
-## Erdogan: The Making of Modern Turkiye
-An interview with Turkish President Erdogan on foreign policy, regional conflicts and 25 years of AK Party rule.
+## US holds memorials for the 9/11 attacks, 25 years later
+In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.
 
-## Trump pays tribute to the victims of 9/11 at Pentagon ceremony
-US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.
+## US declares end of largest recorded cyclosporiasis outbreak
+The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.
 
-## Philippines ferry fire death toll rises to 35 after bodies recovered
-Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday's disaster.
+## UK lawmakers vote against bill to legalise assisted dying
+Parliament's lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
