@@ -1,37 +1,31 @@
 # AION Intelligence
 
-## Larry Ellison to sell up to $7.5bn worth of Oracle stock
-Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI
+## LIV Golf’s bleak future shifts to the courtroom
+Also in today’s newsletter: Hyrox gets a power boost
 
-## Early SpaceX investor Atreides hires co-CIO of Lone Pine
-Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker
+## We are setting up a generation to fail at school
+The disturbing global decline in test results rests on wrong-headed curriculum changes
 
-## Reform UK receives record £36mn donation
-The gift from crypto billionaire Ben Delo is the largest donation in British political history
-
-## Houthis seize Red Sea islands in lightning offensive
-Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets
-
-## JPMorgan cut off Situational Awareness lending after AI losses
-Leopold Aschenbrenner’s hedge fund previously shed billions of dollars during sell-off
-
-## Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks
-Move is likely to put further momentum behind fast-rising oil prices
-
-## Trump’s $5,000 dividend is bad corporate finance
-US president’s proposed $1.2tn handout fails to make sense in a country lacking excess cash and in need of investment
-
-## Is Bessent winning the wrong battle in markets?
-Treasury secretary’s intervention in the yen has made an impact but US bond yields are climbing higher and higher
-
-## Windshield megadeal could fix Europe’s broken IPO window
-Belron is the sort of business that might help investors warm up to more deals
+## Why I, a non-billionaire, am not leaving the UK
+If Britain is good enough for Harry and Meghan, the Bayeux Tapestry and Asian hornets, it’s good enough for me
 
 ## High oil prices could force ECB to raise rates further, warns top policymaker
 Austrian central bank governor Martin Kocher says risk of elevated inflation is higher than it was a few months ago
 
+## Why the British glass industry could be Number 10 North’s first major test
+Heavily northern-based sector says intervention by Burnham is needed to reverse ‘dramatic decline’ caused by new packaging levies
+
 ## South Korea arms itself to protect chip secrets from foreign spies
 Seoul broadens its espionage legislation for the first time in more than seven decades
+
+## Exorbitant tennis tickets are the price of the sport’s success
+US Open’s growing popularity plus rising expense of running the tournament mean there is no obvious solution to affordability issues
+
+## It’s time to scrap the triple lock
+The Budget needs to tip the balance back to Britain’s younger generations, who are priced out of a bright future
+
+## Windshield megadeal could fix Europe’s broken IPO window
+Belron is the sort of business that might help investors warm up to more deals
 
 ## St James’s Place looks to reassure advisers following departures
 The wealth manager will scrutinise growth plans and aim to boost adviser morale
@@ -48,32 +42,38 @@ Not only are the odds stacked against those who place bets, but there are also i
 ## MFS administrator steps down amid creditor pressure
 Nimish Patel of Coots & Boots discharged as joint administrator of entity in collapsed property lender’s empire
 
-## BRICS Summit 2026 Live Updates: Xi Jinping leaves for New Delhi, to hold talks with Modi
+## BRICS Sidelines: Modi, Vietnam PM review ties after strategic partnership upgrade
+The meeting comes after Vietnam’s Communist Party General Secretary and President To Lam’s state visit to India, during which the two countries elevated their existing Comprehensive Strategic Partnership
+
+## BRICS Summit 2026 Live Updates: PM Modi meets Malaysian, Vietnamese counterparts; Xi Jinping begins first India visit in 7 years
 Leaders of the BRICS group of nations are set to meet today in New Delhi for their annual summit, amid mounting ​geopolitical tension, disruptions in energy markets, shipping, and global trade.
 
-## BRICS Summit: Traffic restrictions, diversions in central Delhi till 9.30 pm
-The restrictions will be in force from 9:30 am to 9:30 pm, particularly around Bharat Mandapam and the Pragati Maidan area, as well as on major corridors connecting central Delhi with other parts of the city
+## Modi, Malaysian PM discuss cooperation in trade, defence, semiconductors
+The meeting focused on cooperation in trade, investment, defense, semiconductors, infrastructure, and the digital economy
 
-## Iran takes defiant stance as US war deepens its isolation
-Iran, facing heavy US sanctions and ongoing attacks, is keen to position BRICS as a counterweight to the US-led economic and political order
+## BRICS Summit: Leaders to navigate global trade disputes; suspense continues over joint declaration
+New Delhi is looking to leverage the summit to position the grouping as a complementary engine for economic growth while being mindful of sensitivities of the United States and other Western powers
 
-## India-China relations, from conflict to cautious thaw
-Here’s how ties between the Asian giants have evolved from a deadly 2020 border clash to a more stable relationship as the Chinese leader visits India for the first time in seven years
+## SEBI proposes changes to derivatives settlement, closing auction timings; seeks public comments
+SEBI’s consultation paper proposes methods for determining settlement prices and adjusting market timings to address participant concerns and improve operational efficiency in the derivatives market
 
-## Will involve Gen Z, Alpha, Beta to achieve Telangana's economic goals: CM Revanth Reddy
-In a marathon speech in the Assembly on Friday night, the CM, who holds the education portfolio, said his government aims to increase the state budget’s allocation to education to 15%
+## Xi-Modi dialogue: High-stakes diplomacy in Delhi
+As Chinese President Xi Jinping arrives for the BRICS Summit, New Delhi and Beijing eye a fragile thaw amidst unresolved border friction and trade imbalances
 
-## BRICS Summit 2026: What’s on the agenda?
-Leaders to navigate global trade disputes, regional crises
+## BRICS finance chiefs push for deeper financial cooperation; IMF, World Bank reforms
+Ministers and central bank governors stated that expanded BRICS membership has enhanced the group’s diversity and commitment to closer economic and financial cooperation
 
-## Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping
-Saudi Arabia temporarily ​closed the East-West pipeline after a drone attack that both Baghdad and Riyadh said had originated in Iraq, where Iranian-backed militias operate
+## Spinny overtakes Cars24 in India’s ₹4 lakh crore used-car market
+As Spinny doubles down on inventory-led retail and Cars24 pivots to commissions and services, the contest is increasingly centred on profitability rather than headline revenue
 
-## The future of India’s nuts and dry fruits sector: Built on policy, partnerships and people
-India has the potential to become not only one of the world’s largest consuming markets, but also a stronger and more influential participant in the global nuts and dry fruits value chain
+## Minor had Rs 1.17 crore interest income, father faced Rs 12.83 lakh penalty; what ITAT did
+The ruling arose from the tax dispute involving a man in New Delhi. He filed his income tax return on November 4, 2022, reporting total income of Rs 8.43 crore. The case was subsequently reopened by the Income Tax Assessing Officer (AO) at Jhandewalan on March 22, 2025.
 
 ## 2 homebuyers paid Rs 1.16 crore, got no flats; RERA orders builder to refund with interest
 The Maharashtra Real Estate Regulatory Authority has directed the developer to refund the amounts paid, along with applicable interest, after noting that the project remained incomplete and its registration had lapsed without an extension.
+
+## Nvidia weighs $10 billion investment in Anthropic’s mega IPO: Report
+Anthropic, an artificial intelligence firm, is gearing up for a landmark initial public offering that could reshape the tech landscape. Reports indicate that Nvidia is eyeing a sizable investment in this IPO, which could fortify their strategic partnership. With heavyweight support from industry lea
 
 ## Ice cream to defence: How Canada’s tariff war with US is boosting local businesses
 Canadian businesses are experiencing increased sales due to a 'buy Canadian' movement. Local ice cream and gift shops report significant sales boosts from consumers. Wineries also saw demand rise after American alcohol was removed from shelves. Defence manufacturers are finding new opportunities and
@@ -90,35 +90,32 @@ With diesel prices hitting unprecedented levels, US farmers are grappling with s
 ## AI corners 80% of all global equity funding in March quarter
 Global funding for AI reached a remarkable $226 billion by the end of March this year, accounting for nearly eighty percent of the total equity funding landscape. Companies like OpenAI and Anthropic attracted significant investments earlier this year, but they are also facing increasing scrutiny reg
 
-## FM calls for tech body for stronger global voice
-In a bold move for India's tech sector, Finance Minister Nirmala Sitharaman has unveiled a federated industry platform designed to amplify the industry's global presence. This platform will proactively liaise with international governments and regulators while fostering collaboration on data and cyb
+## Corporal punishment without sexual intent doesn't fall under POCSO: SC quashes case against Bengal teacher
+The Supreme Court ruled that a West Bengal teacher's corporal punishment of minor girls does not amount to a POCSO offence.
 
-## Days after Bhatt, another director quits Coforge board
-Coforge has experienced a shakeup as independent director DK Singh resigns amid tensions over the board’s strategy. His departure follows the resignation of chairman OP Bhatt, sparked by an internal audit that uncovered issues with the evaluation report. The audit revealed that important evaluation 
+## Xi Jinping's car arrives in Delhi under black covers. What we know about the 'secret' Hongqi N701
+For state vehicles, keeping them covered during transit can also limit unnecessary exposure, photographs or scrutiny before they are put into service.
 
-## 'AAP deserves no friendly exemption': Congress dares CJP to audit Punjab schools 'with same eyes'
-CJP's Saurav Das had led a delegation of the pressure group to Punjab, where they assessed the state of government schools
+## Harish Rawat clarifies he hasn't quit Congress posts, but may resign over ED action
+The clarification came after the ED searched the premises of Chandan Singh Jeena, who is presently serving as Rawat’s personal assistant.
 
-## Kulbhushan Bhardwaj elected Gurugram District Bar Association president
-Kulbhushan Bhardwaj was elected Gurugram District Bar Association president, defeating Vinod Rao by 244 votes in Friday’s election.
+## Vijayan challenges CM Satheesan to release list of 787 personal staff appointed under LDF rule
+Vijayan challenges CM Satheesan to release list of 787 personal staff appointed under LDF rule
 
-## Prison personnel among 7 held for supply of phone, SIM card to ex-MP Prajwal Revanna
-Investigators tracing the device and SIM card have found links to the DJ Halli area and are probing the roles of intermediaries, inmates and prison personnel.
+## How to nail the 1980s AI photo trend: Here are some secret tricks you can try
+The secret to realistic 1980s AI photos lies in the details. Use the right camera, setting, lighting and film cues to make the throwback look authentic.
 
-## HT Morning Brief September 12: Xi Jinping headed to India, contractual worker in focus in PNB fake notes case and more
-From Indian and major global developments to the latest from sports and entertainment, stay up to date with everything you need to know in our news brief.
+## BRICS 2026: PM Modi meets Abu Dhabi Crown Prince in Delhi; trade, energy security in focus
+The meeting comes amid growing India-UAE cooperation, particularly in the areas of trade and energy security
 
-## Harish Rawat quits Congress posts after ED raids on PA: ‘No weakness should come’
-The ED raided premises linked to Jeena over alleged irregularities in a recruitment examination conducted by the UKSSSC in 2016.
+## Pro-Khalistan graffiti appears at Delhi’s Singhu Border ahead of BRICS Summit, 3 arrested
+The graffiti, featuring offensive slogans, was painted on walls at the Singhu Border on September 6.
 
-## Banks to remain closed for 4 days from today; Check state-wise list of holidays
-The holidays include the second Saturday of the month, Sunday, Ganesh Chaturthi and Nuakhai.
+## Priyank Kharge backs Karnataka's 2 stanzas 'Vande Mataram' directive: 'Do we need patriotism lessons from...'
+He cites guidance from historical leaders and criticizes the BJP's motives, questioning their patriotism amidst ongoing economic concerns.
 
-## China signals push to reset ties as Xi Jinping visits India, vows to 'properly handle differences'
-Xu Feihong talked about handling differences and mutual cooperation in a post on X hours before Xi Jinping’s visit to India for the BRICS Summit on Saturday.
-
-## Modi-Xi meeting at BRICS: Where do India-China ties stand today?
-PM Modi and President Xi Jinping are set to meet at the BRICS Summit in New Delhi, marking Xi's first visit to India in seven years.
+## How AI tools are reshaping stock trading, investment research in China
+When Ryan Lei has an investment idea, he no longer has to spend days writing code and trawling through historical data to corroborate it. The 27-year-old quantitative trader in Hong Kong now delegates much of the grunt work to artificial intelligence. For a recent bet tied to a major technology init
 
 ## Taobao’s ‘ugly’ goods find a growing market among China’s young consumers
 Products widely considered “ugly” or “bizarre” have gone viral online in China as millions of young consumers embrace the items’ quirky humour and distinctive character. Cumulative sales of such products on Taobao – an e-commerce platform of Alibaba Group Holding – have surpassed 230 million yuan (U
@@ -140,9 +137,6 @@ Ant International, the overseas affiliate of Chinese fintech giant Ant Group, is
 
 ## Mainland Chinese investors to drive Hong Kong wealth boom despite new tax rules: report
 Hong Kong banks expect the contribution of mainland Chinese investors to the city’s wealth management business to continue to grow through 2030, presenting opportunities despite Beijing’s tightened cross-border tax rules. Mainland China’s share of local assets under management was projected to reach
-
-## Hang Seng rolls out five wealth management strategies
-[The content of this article has been produced by our advertising partner.] Hong Kong’s wealth landscape has evolved well beyond single-product investing, with more families now taking an integrated approach to planning that strengthens financial resilience, supports lifestyle continuity and enables
 
 ## Why AfD Appeals to So Many Germans
 The far-right party surges in a regional election.
@@ -240,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## China’s Xi heads to India for BRICS summit overshadowed by wars
-Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.
+## Guatemalan judge clears deputy minister, three leaders of terrorism charges
+Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.
 
-## A stable Afghanistan post 9/11 is in US interests says former US diplomat
-Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.
+## Sweden heads to the polls: What’s at stake in the knife-edge election?
+Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government.
 
-## Mexico rescues eight from clandestine clinic run by violent Jalisco cartel
-Rescue operation in Jalisco uncovers cartel's hidden clinic, illegal drugs and weapons; six suspected guards arrested.
+## Russia strikes cargo vessels, steel plants across Ukraine
+Russia's Defence Ministry says its forces have struck several industrial facilities across Ukraine
 
-## North Korea fires ballistic missiles off eastern coast, Seoul says
-South Korea said it was closely exchanging information on the launches with the US and Japan.
+## Trump may be BRICS’s best recruitment agent
+The US president wants to weaken BRICS, but he may end up doing the opposite.
 
-## Putin and Pezeshkian call out US dominance ahead of BRICS
-The presidents of Iran and Russia have criticised US dollar dominance ahead of the BRICS summit in India.
+## BRICS summit opens in New Delhi amid wars, global tensions, tariffs
+Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India's capital.
 
-## Satellite image shows critical Saudi pipeline damaged in drone attack
-Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.
+## How to plan a wedding when you don’t know what tomorrow will bring
+In Gaza, weddings have become acts of defiance. Couples marry in tents and rebuild, choosing love despite suffering.
 
-## CIA releases dozens of declassified documents on bin Laden prior to 9/11
-A briefer told Clinton in 1998 that bin Laden’s 'preferred option is to strike the US on its own soil in Washington'.
+## Man waving Palestinian flag tackled on Yankee Stadium field
+A man waving a Palestinian flag ran onto the field at Yankee Stadium during a Yankees-Mets MLB game.
 
-## How Canadians are bracing for the impact of Trump’s trade war
-Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.
+## Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship
+World and Olympic champion Armand 'Mondo' Duplantis delivered a faultless display of pole vaulting to seal victory.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
