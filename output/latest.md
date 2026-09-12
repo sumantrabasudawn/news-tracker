@@ -60,6 +60,12 @@ bob World 2.0 has four key capabilities – voice-enabled payments and navigatio
 ## BRICS countries emphasis on maintaining undisrupted energy flows, protecting critical infra
 The BRICS nations unanimously adopted the New Delhi Declaration, which recognises that energy security is a crucial foundation for social and economic development, national security and the welfare of all nations
 
+## RBI rejects Tata Sons' bid to stay private, directs listing
+Tata Sons' bid to relinquish its core investment company registration has been turned down by the Reserve Bank of India, pushing the Tata Group's holding firm nearer to a public stock offering. Tata Trusts, the majority owner, aims to preserve the company's private nature for sustained stewardship. 
+
+## Sebi for changes to CAS timing, derivatives settlement prices
+Sebi has put forth new proposals aimed at modifying the Closing Auction Session timings and derivatives pricing. Following the recent launch of the session, traders have noted an uptick in market volatility. The regulator is evaluating two potential options for determining derivative settlement pric
+
 ## Brics nations to have a common currency? Here’s what MEA said
 Brics nations are discussing local currency trade settlements to reduce transaction costs. There is currently no proposal for a common Brics currency among member states. This initiative aims to complement existing global payment systems and improve trade efficiency. Leaders also addressed trade bar
 
@@ -77,12 +83,6 @@ The Securities and Exchange Board of India (Sebi) is actively exploring modifica
 
 ## Minor had Rs 1.17 crore interest income, father faced Rs 12.83 lakh penalty; what ITAT did
 The ruling arose from the tax dispute involving a man in New Delhi. He filed his income tax return on November 4, 2022, reporting total income of Rs 8.43 crore. The case was subsequently reopened by the Income Tax Assessing Officer (AO) at Jhandewalan on March 22, 2025.
-
-## 2 homebuyers paid Rs 1.16 crore, got no flats; RERA orders builder to refund with interest
-The Maharashtra Real Estate Regulatory Authority has directed the developer to refund the amounts paid, along with applicable interest, after noting that the project remained incomplete and its registration had lapsed without an extension.
-
-## Nvidia weighs $10 billion investment in Anthropic’s mega IPO: Report
-Anthropic, an artificial intelligence firm, is gearing up for a landmark initial public offering that could reshape the tech landscape. Reports indicate that Nvidia is eyeing a sizable investment in this IPO, which could fortify their strategic partnership. With heavyweight support from industry lea
 
 ## Mamata reaches out to TMC veteran Akhil Giri as it weighs local face for Nandigram bypoll
 The move comes at a particularly difficult juncture for the TMC, which lost power to the BJP in the May assembly elections after 15 years in office.
@@ -228,6 +228,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arteta seethes at Sunderland penalty decision despite Arsenal win
+Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.
+
+## Tens of thousands march across Germany to protest far-right party AfD
+Protesters in about 20 cities, including Berlin, Hamburg and Munich, demand the banning of the Alternative for Germany.
+
+## USA edge Spain to book Women’s Basketball World Cup final against France
+USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.
+
+## First naval battle between drones takes place in the Black Sea
+The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.
+
 ## Ebola spreads to seventh DRC province as gov’t insists cases are declining
 Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.
 
@@ -239,18 +251,6 @@ The facility had faced fines and enforcement proceedings over regulatory violati
 
 ## Israel bombs southern Lebanon as talks postponed
 The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.
-
-## Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice
-‘NAZA’, a documentary about Israel’s genocide in Gaza, has won the Special Jury Prize at the Venice Film Festival.
-
-## US court blocks Trump administration plan to cut disaster agency workforce
-US President Donald Trump has said he would like to abolish the agency.
-
-## Bahrain says it will not participate in Iran’s proposed Hormuz meeting
-Iran tells Al Jazeera that Monday's meeting is a sign of 'good intentions' towards neighbouring countries.
-
-## Will Houthi advances in Yemen give Iran leverage in its war with the US?
-The Iranian ally seizes Yemen's Red Sea coast, cementing their hold on the Bab al-Mandeb strait.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
