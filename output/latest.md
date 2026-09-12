@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## India’s central bank tells Tata Sons to take conglomerate public
+RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO
+
 ## Brics push for Gulf peace as war worries mount
 India-China rapprochement faces obstacles over economic and geopolitical rivalry
 
@@ -21,8 +24,8 @@ Central bank balance sheets will stay large
 ## LIV Golf’s bleak future shifts to the courtroom
 Also in today’s newsletter: Hyrox gets a power boost
 
-## We are setting up a generation to fail at school
-The disturbing global decline in test results rests on wrong-headed curriculum changes
+## Why the AI race has its creators fearing human extinction
+Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream
 
 ## Can China’s Icicle woo global shoppers in a luxury downturn?
 Cashmere brand wants more stores in Europe and the US after being backed by Gucci owner Kering
@@ -33,35 +36,29 @@ Belron is the sort of business that might help investors warm up to more deals
 ## High oil prices could force ECB to raise rates further, warns top policymaker
 Austrian central bank governor Martin Kocher says risk of elevated inflation is higher than it was a few months ago
 
-## South Korea arms itself to protect chip secrets from foreign spies
-Seoul broadens its espionage legislation for the first time in more than seven decades
+## ‘It is important to allow markets togive their natural signal’
+Ananth Narayan decodes the blind side of F&O excesses, market interventions and more
 
-## St James’s Place looks to reassure advisers following departures
-The wealth manager will scrutinise growth plans and aim to boost adviser morale
-
-## BRICS countries emphasis on maintaining undisrupted energy flows, protecting critical infra
-The BRICS nations unanimously adopted the New Delhi Declaration, which recognises that energy security is a crucial foundation for social and economic development, national security and the welfare of all nations
-
-## Tata Sons faces pressure to list after RBI rejects its de-registration as CIC
-The RBI’s decision, announced recently, means that Tata Sons will remain classified as a NBFC in the Upper Layer, which mandates a listing within three years.
-
-## China’s Xi urges BRICS to play peacemaker role in Middle East conflict
-China offers to work with bloc for regional peace; to host BRICS summit next year
-
-## Who am I
-
-
-## Five stock market scams that prey on investor’s greed
-Five fraud patterns are costing Indian investors thousands of crores every year. Here is how each one works, and a checklist every investor should keep close.
+## What should investors do about Asian Paints?
+Asian Paints’ valuation adequately balances margin levers and competitive pressures
 
 ## Acutaas Chemicals: Charged up but at a premium
 CDMO operations have started and will be supported by battery and semiconductor operations
 
-## BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift
-In a significant diplomatic breakthrough for India, the BRICS grouping on Saturday adopted a joint declaration with consensus, overcoming sharp divisions between Iran and the UAE over the West Asia conflict following a series of back-channel negotiations
+## Crack spread – what is it? What does it say about oil market?
+Crude may be the headline but crack spreads flash an early warning on fuel inflation
 
-## SEBI Demat 2.0: How tokenised corporate bonds will work for you
-The new system promises faster settlement and automated payments without changing your bond
+## HDFC Bank’s board shortlists 'two candidates' for top position
+This decision comes after Jagdishan announced he would not seek a third term amid ongoing controversies surrounding the bank’s leadership.
+
+## SEBI weighs two options for derivatives settlement, closing auction timings
+Regulator proposes blending VWAP and closing auction prices, or retaining the old method for at least a year
+
+## Bank of Baroda launches next-generation mobile banking app powered by AI
+bob World 2.0 has four key capabilities – voice-enabled payments and navigation, Personal Financial Management (PFM) module; hyper-personalisation and persona-based customer experience
+
+## BRICS countries emphasis on maintaining undisrupted energy flows, protecting critical infra
+The BRICS nations unanimously adopted the New Delhi Declaration, which recognises that energy security is a crucial foundation for social and economic development, national security and the welfare of all nations
 
 ## Brics nations to have a common currency? Here’s what MEA said
 Brics nations are discussing local currency trade settlements to reduce transaction costs. There is currently no proposal for a common Brics currency among member states. This initiative aims to complement existing global payment systems and improve trade efficiency. Leaders also addressed trade bar
@@ -87,29 +84,29 @@ The Maharashtra Real Estate Regulatory Authority has directed the developer to r
 ## Nvidia weighs $10 billion investment in Anthropic’s mega IPO: Report
 Anthropic, an artificial intelligence firm, is gearing up for a landmark initial public offering that could reshape the tech landscape. Reports indicate that Nvidia is eyeing a sizable investment in this IPO, which could fortify their strategic partnership. With heavyweight support from industry lea
 
-## Millet pulao, beetroot raita, Old Delhi fruit cream: What's on BRICS Gala dinner menu
-Russian President Vladimir Putin arrived at Bharat Mandapam for the dinner, followed by Kazakhstan's Kassym-Jomart Tokayev and Indonesia's Prabowo Subianto.
+## Mamata reaches out to TMC veteran Akhil Giri as it weighs local face for Nandigram bypoll
+The move comes at a particularly difficult juncture for the TMC, which lost power to the BJP in the May assembly elections after 15 years in office.
 
-## No proposal for common BRICS currency ‘as of now’, says MEA
-The MEA said the focus was on settling bilateral trade in local currencies, a day after India urged BRICS nations to link their payment systems.
+## ‘Those who keep changing names…’: Akhilesh, CJP, Cong target Yogi over ‘walking away’ from press conference
+CJP and SP posted videos of the alleged incident and claimed that the UP chief minister walked away while a reporter continued to ask him questions.
 
-## Union ministers and BJP CMs, including Amit Shah and Yogi Adityanath, head to BRICS gala dinner in buses | Watch
-Prime Minister Narendra Modi hosted the gala dinner for various world leaders, on the opening day of the BRICS summit.
+## ‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat
+Dipke visited Adori, Korka and Bondari villages to meet the families of tribal children who allegedly died due to infectious diseases.
 
-## PM Modi, Xi welcome 'steady progress' in India-China ties at BRICS meet, bat for mutual resolution of border dispute
-Xi travelled to India for the first time in seven years to attend the BRICS Summit.
+## MCD demolishes 67 properties, seals 9 in 2 days after Satya Niketan PG collapse
+The civic body stepped up action on September 11 and 12, sealing the properties and taking other enforcement measures.
 
-## Brics calls for just, equitable energy transition, slams EU carbon border tax
-The Brics declaration rejected the European Union’s carbon border adjustment mechanism, describing it as a protectionist hurdle for emerging economies.
+## ‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP
+Mayawati said if her brother Anand Kumar remains with her and needs assistance, he can seek help from his daughter, Kumari Deepika Anand.
 
-## What’s in a school? A Swiss woman's West Bengal initiative offers new meaning
-15 years ago, a Swiss woman travelled across India to uncover her true passion for education and social reform. Her work now spans 2 villages and 20,000 lives.
+## Two-state solution for Palestine, concerns over ‘unilateral tariff’: Highlights from BRICS New Delhi declaration
+The 45-page New Delhi Declaration expressed concerns about “the rise of unilateral tariffs” and backed a two-state solution to the Israeli-Palestinian conflict.
 
-## ‘Differences should not become disputes’: PM Modi tells Xi peace on border key to India-China ties
-Xi and Modi welcomed the ‘steady progress’ in India-China ties since their last meeting in Tianjin in August 2025.
+## BRICS declaration: China, Russia back India, Brazil’s aspirations for greater UN role
+The declaration reiterated their support for the aspirations of Brazil and India to play a greater role in the UN, including its Security Council.
 
-## BRICS joint statement mentions West Asia war, stresses dialogue to end conflicts
-The BRICS declaration, adopted unanimously in New Delhi, called for parties involved in the West Asia conflict to exercise “maximum restraint.”
+## Brics agrees to establish AGRIN, continue work on grain trading platform
+The declaration also backed continued work on establishing a Brics Grain Exchange, with members agreeing to discuss its functioning and subsequent development.
 
 ## How AI tools are reshaping stock trading, investment research in China
 When Ryan Lei has an investment idea, he no longer has to spend days writing code and trawling through historical data to corroborate it. The 27-year-old quantitative trader in Hong Kong now delegates much of the grunt work to artificial intelligence. For a recent bet tied to a major technology init
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US court rejects Trump’s emergency order keeping Michigan coal plant open
-The ruling says the Energy Department exceeded its authority by extending the plant’s operation.
+## Selling the war: Purges, polygraphs and propaganda
+The Iran war has become ever more challenging for the Trump administration to sell.
 
-## At least seven killed in fire at prison in northern Syria
-Inmates rioted following protests in the city of Kobane over the killing of former Kurdish fighter, state media reports.
+## India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form
+Aiming for a record-extending eighth title, India take on defending champions Sri Lanka in Sunday's final in Dubai.
 
-## Danish FA allege FIFA Legal Committee evaded questions on Infantino’s plan
-FIFA Legal Committee accused of evading questions on controversial World Cup proposal put forward by Gianni Infantino.
+## Man arrested over killing of Tasia Fortune, found hanging from tree
+Police have arrested a man in connection with the murder of Tasia Fortune, a Black woman found hanging from a tree.
 
-## Police in Barcelona clash with Catalan national day activists
-Spanish police charged at left-wing protesters in Barcelona on Catalonia's National Day.
+## Couple welcomes child from embryo frozen for 22 years
+A Greek couple has welcomed a child using an embryo frozen for 22 years.
 
-## Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel
-Iranian official tells Al Jazeera an IAEA resolution on Tehran’s nuclear safeguards was ‘imposed’ by the US and Israel
+## US Open women’s singles final live: Aryna Sabalenka vs Elena Rybakina
+Follow our live build-up, predictions, head-to-head stats, scores, photos and commentary from the final in New York.
 
-## England survive Pakistan scare to seal 3-0 Test series sweep
-England overcome early tremors to win ⁠third Test against Pakistan by eight wickets, clinching a series whitewash.
+## Chelsea draw with Hull, Liverpool held by Fulham and Villa remain winless
+Hull nearly claim Premier League win at Chelsea, while Liverpool and Fulham fire blanks and Aston Villa lose again.
 
-## Trump says a unified Ireland would be ‘fantastic’ during Irish visit
-British Prime Minister Andy Burnham maintains there is not enough popular support for Northern Ireland to leave the UK.
+## Will the Houthi attacks activate the Mecca Pact?
+If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.
 
-## Iran-backed Houthis seize strategic Mayun Island: Can they hold it?
-The takeover solidifies the group's position in the Bab al-Mandeb, but holding it long-term could be difficult.
+## DR Congo’s worst Ebola epidemic ever passes 7,000 cases
+DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 people have since died.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
