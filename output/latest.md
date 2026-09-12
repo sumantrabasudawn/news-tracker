@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Trump says united Ireland ‘inevitable’ and ‘a very cool thing’
+Off-the-cuff remarks from US president during a visit to Ireland anger pro-UK parties
+
+## Reform UK receives two record £36mn donations
+The combined £72mn gifts from crypto billionaires Ben Delo and Christopher Harborne are the largest donations in British political history
+
+## Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks
+Move is likely to put further momentum behind fast-rising oil prices
+
+## Canada seeks $1tn from investors looking for a haven from Trump
+Prime Minister Mark Carney hosts a summit to put money behind his plan to decouple from an increasingly hostile US
+
+## The long shadow of quantitative easing
+Central bank balance sheets will stay large
+
 ## LIV Golf’s bleak future shifts to the courtroom
 Also in today’s newsletter: Hyrox gets a power boost
 
@@ -9,23 +24,14 @@ The disturbing global decline in test results rests on wrong-headed curriculum c
 ## Why I, a non-billionaire, am not leaving the UK
 If Britain is good enough for Harry and Meghan, the Bayeux Tapestry and Asian hornets, it’s good enough for me
 
+## Windshield megadeal could fix Europe’s broken IPO window
+Belron is the sort of business that might help investors warm up to more deals
+
 ## High oil prices could force ECB to raise rates further, warns top policymaker
 Austrian central bank governor Martin Kocher says risk of elevated inflation is higher than it was a few months ago
 
-## Why the British glass industry could be Number 10 North’s first major test
-Heavily northern-based sector says intervention by Burnham is needed to reverse ‘dramatic decline’ caused by new packaging levies
-
 ## South Korea arms itself to protect chip secrets from foreign spies
 Seoul broadens its espionage legislation for the first time in more than seven decades
-
-## Exorbitant tennis tickets are the price of the sport’s success
-US Open’s growing popularity plus rising expense of running the tournament mean there is no obvious solution to affordability issues
-
-## It’s time to scrap the triple lock
-The Budget needs to tip the balance back to Britain’s younger generations, who are priced out of a bright future
-
-## Windshield megadeal could fix Europe’s broken IPO window
-Belron is the sort of business that might help investors warm up to more deals
 
 ## St James’s Place looks to reassure advisers following departures
 The wealth manager will scrutinise growth plans and aim to boost adviser morale
@@ -33,38 +39,38 @@ The wealth manager will scrutinise growth plans and aim to boost adviser morale
 ## Chinese crypto investor was seller of £190mn London mansion
 Leon Li’s ownership of Regent’s Park home had remained obscured despite UK push for transparency
 
-## Joseph Stiglitz on how to build a better AI economy
-A slow rollout will disappoint investors. A fast one risks undermining the industry’s own foundations. But managed carefully, this is a technology that could benefit us all
+## After meeting Pezeshkian, Mirwaiz calls for dialogue and justice
+On the sidelines of the BRICS Summit, Mirwaiz says that the present global situation demands a renewed emphasis on peaceful resolution of conflicts
 
-## The perils of prediction markets
-Not only are the odds stacked against those who place bets, but there are also insiders tilting the scales
+## BRICS Summit 2026 Live Updates: BRICS Delhi Declaration 2026 adopted with consensus
+In a significant diplomatic breakthrough for India, the BRICS grouping on Saturday adopted a joint declaration with consensus, overcoming sharp divisions between Iran and the UAE over the West Asia conflict following a series of back-channel negotiations
 
-## MFS administrator steps down amid creditor pressure
-Nimish Patel of Coots & Boots discharged as joint administrator of entity in collapsed property lender’s empire
+## Slikk eyes ₹100 crore monthly GMV in Bengaluru, plans Delhi, Mumbai expansion
+The Bengaluru-based company currently operates six dark stores in the city and plans to add another four over the next two months
 
-## BRICS Sidelines: Modi, Vietnam PM review ties after strategic partnership upgrade
-The meeting comes after Vietnam’s Communist Party General Secretary and President To Lam’s state visit to India, during which the two countries elevated their existing Comprehensive Strategic Partnership
+## Elephant Madhuri returns home after treatment at Vantara
+Madhuri’s return follows an assessment by the Supreme Court-appointed High Powered Committee, which reviewed Madhuri’s improved health
 
-## BRICS Summit 2026 Live Updates: PM Modi meets Malaysian, Vietnamese counterparts; Xi Jinping begins first India visit in 7 years
-Leaders of the BRICS group of nations are set to meet today in New Delhi for their annual summit, amid mounting ​geopolitical tension, disruptions in energy markets, shipping, and global trade.
+## Gem, jewellery exports up 3% to $2.30 billion in Aug
+Higher export of value-added gold jewellery boosts revenue
 
-## Modi, Malaysian PM discuss cooperation in trade, defence, semiconductors
-The meeting focused on cooperation in trade, investment, defense, semiconductors, infrastructure, and the digital economy
+## Mutual Funds returns
+As on : Sep 12, 2026
 
-## BRICS Summit: Leaders to navigate global trade disputes; suspense continues over joint declaration
-New Delhi is looking to leverage the summit to position the grouping as a complementary engine for economic growth while being mindful of sensitivities of the United States and other Western powers
+## In major relief, Chennai Airport passenger pick-up plaza to be inaugurated virtually on Sunday
+This will be a major relief for passengers arriving from both domestic and international arrivals who had to travel in golf carts to reach the taxi pick-up points
 
-## SEBI proposes changes to derivatives settlement, closing auction timings; seeks public comments
-SEBI’s consultation paper proposes methods for determining settlement prices and adjusting market timings to address participant concerns and improve operational efficiency in the derivatives market
+## India’s cookware market shifts from price to performance as premiumisation gathers pace
+The Indian cookware market was valued at $1.87 billion in 2025 and is expected to reach $2.85 billion by 2031, growing at a CAGR of 7.27%
 
-## Xi-Modi dialogue: High-stakes diplomacy in Delhi
-As Chinese President Xi Jinping arrives for the BRICS Summit, New Delhi and Beijing eye a fragile thaw amidst unresolved border friction and trade imbalances
+## Zomato introduces additional fee for cash-on-delivery orders
 
-## BRICS finance chiefs push for deeper financial cooperation; IMF, World Bank reforms
-Ministers and central bank governors stated that expanded BRICS membership has enhanced the group’s diversity and commitment to closer economic and financial cooperation
 
-## Spinny overtakes Cars24 in India’s ₹4 lakh crore used-car market
-As Spinny doubles down on inventory-led retail and Cars24 pivots to commissions and services, the contest is increasingly centred on profitability rather than headline revenue
+## Data centre boom: India’s infrastructure opportunity could hit $90 billion
+India's data centre industry is poised for a substantial $90 billion opportunity by FY35, catalyzed by rising demand for construction, cooling, and power infrastructure. The surge in artificial intelligence will further heighten energy and cooling requirements. While domestic firms can tap into this
+
+## CAS closing price under review: Sebi proposes 2 options for expiry settlement
+The Securities and Exchange Board of India (Sebi) is actively exploring modifications to how derivative settlement prices are calculated. Two alternative methods are currently up for review, inviting stakeholder feedback. These revisions aim to alleviate concerns related to the price from the closin
 
 ## Minor had Rs 1.17 crore interest income, father faced Rs 12.83 lakh penalty; what ITAT did
 The ruling arose from the tax dispute involving a man in New Delhi. He filed his income tax return on November 4, 2022, reporting total income of Rs 8.43 crore. The case was subsequently reopened by the Income Tax Assessing Officer (AO) at Jhandewalan on March 22, 2025.
@@ -81,38 +87,29 @@ Canadian businesses are experiencing increased sales due to a 'buy Canadian' mov
 ## US diesel prices at record $6: American farmers feel the heat as harvest season begins
 With diesel prices hitting unprecedented levels, US farmers are grappling with steep fuel expenses that have doubled. This dramatic rise is disrupting essential operations for corn and soybean harvests, jeopardizing profitability and financial health. Additionally, the elevated diesel costs are hind
 
-## Report: MSMEs need digital infra
+## Brics Summit: PM Modi meets Vietnamese, Ethiopian counterparts
+India and Vietnam are working towards $25 billion in bilateral trade by 2030 and greater two-way investment, as well as strengthening their cultural and civilisational linkages
 
+## Modi-Xi meet at BRICS: India, China leaders begin talks amid push to reset ties
+Xi’s visit to India, his first in seven years, comes against the backdrop of the prolonged military standoff along the Line of Actual Control (LAC).
 
-## Consumer durables drive customer growth
+## 'Not all 'hijabs' are unacceptable to BJP': Congress' Pawan Khera slams Centre over covering slums for BRICS Summit
+Taking a swipe at the ruling party's political rhetoric, Pawan Khera accused the administration of trying to hide India's socioeconomic realities.
 
+## India-UAE ties symbol of stability: PM Modi after meeting Abu Dhabi Crown Prince
+Crown Prince Khaled, the heir to UAE President Mohamed bin Zayed, is representing the Emirates at the Brics Summit as his father was away on a visit to Germany
 
-## AI corners 80% of all global equity funding in March quarter
-Global funding for AI reached a remarkable $226 billion by the end of March this year, accounting for nearly eighty percent of the total equity funding landscape. Companies like OpenAI and Anthropic attracted significant investments earlier this year, but they are also facing increasing scrutiny reg
+## What the BRICS New Delhi Declaration says on West Asia war, trade: Full text
+The BRICS grouping adopted a joint declaration with consensus on Saturday.
 
-## Corporal punishment without sexual intent doesn't fall under POCSO: SC quashes case against Bengal teacher
-The Supreme Court ruled that a West Bengal teacher's corporal punishment of minor girls does not amount to a POCSO offence.
+## Air India's Mumbai-based pilot dies during Delhi layover
+The pilot had earlier worked with Air India Express and moved to Air India a couple of months ago.
 
-## Xi Jinping's car arrives in Delhi under black covers. What we know about the 'secret' Hongqi N701
-For state vehicles, keeping them covered during transit can also limit unnecessary exposure, photographs or scrutiny before they are put into service.
+## Indian landlady in Canada held after tenant’s ‘harassment’ over barbecue use
+The tenant posted a series of clips on Instagram, accusing the landlady, identified as Raj Tiwana, of repeatedly harassing him.
 
-## Harish Rawat clarifies he hasn't quit Congress posts, but may resign over ED action
-The clarification came after the ED searched the premises of Chandan Singh Jeena, who is presently serving as Rawat’s personal assistant.
-
-## Vijayan challenges CM Satheesan to release list of 787 personal staff appointed under LDF rule
-Vijayan challenges CM Satheesan to release list of 787 personal staff appointed under LDF rule
-
-## How to nail the 1980s AI photo trend: Here are some secret tricks you can try
-The secret to realistic 1980s AI photos lies in the details. Use the right camera, setting, lighting and film cues to make the throwback look authentic.
-
-## BRICS 2026: PM Modi meets Abu Dhabi Crown Prince in Delhi; trade, energy security in focus
-The meeting comes amid growing India-UAE cooperation, particularly in the areas of trade and energy security
-
-## Pro-Khalistan graffiti appears at Delhi’s Singhu Border ahead of BRICS Summit, 3 arrested
-The graffiti, featuring offensive slogans, was painted on walls at the Singhu Border on September 6.
-
-## Priyank Kharge backs Karnataka's 2 stanzas 'Vande Mataram' directive: 'Do we need patriotism lessons from...'
-He cites guidance from historical leaders and criticizes the BJP's motives, questioning their patriotism amidst ongoing economic concerns.
+## Maritime neighbours, close partners: PM Modi after meeting Malaysian counterpart
+Modi said the growing defence partnership, expanding two-way investments and deeper people-to-people links reflected the new momentum in the bilateral comprehensive strategic partnership
 
 ## How AI tools are reshaping stock trading, investment research in China
 When Ryan Lei has an investment idea, he no longer has to spend days writing code and trawling through historical data to corroborate it. The 27-year-old quantitative trader in Hong Kong now delegates much of the grunt work to artificial intelligence. For a recent bet tied to a major technology init
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Guatemalan judge clears deputy minister, three leaders of terrorism charges
-Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.
+## India’s Modi calls for empowerment of Global South at BRICS Summit
+India’s Prime Minister Narendra Modi has called for an overhaul of global governance.
 
-## Sweden heads to the polls: What’s at stake in the knife-edge election?
-Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government.
+## Manchester United vs Man City: Premier League – predictions, teams, lineups
+Premier League leaders Manchester City gear up for their first derby under new boss Enzo Maresca against rivals United.
 
-## Russia strikes cargo vessels, steel plants across Ukraine
-Russia's Defence Ministry says its forces have struck several industrial facilities across Ukraine
+## Trump: Iran probably ‘behind’ Saudi oil pipeline attack
+Trump: Iran probably ‘behind’ Saudi oil pipeline attack
 
-## Trump may be BRICS’s best recruitment agent
-The US president wants to weaken BRICS, but he may end up doing the opposite.
+## Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha
+Yemeni government forces says they launched air strikes on Houthi fighters along the Red Sea coast.
 
-## BRICS summit opens in New Delhi amid wars, global tensions, tariffs
-Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India's capital.
+## Left with nothing, people in Gaza are forced to rent generators by the hour
+Israel's destruction of homes and infrastructure in Gaza has forced Palestinians to rent generators by the hour.
 
-## How to plan a wedding when you don’t know what tomorrow will bring
-In Gaza, weddings have become acts of defiance. Couples marry in tents and rebuild, choosing love despite suffering.
+## Houthis celebrate seizing control of Yemen’s Red Sea coast
+Yemen’s Iran-aligned Houthis have been celebrating after seizing control of the Red Sea coast in a rapid offensive.
 
-## Man waving Palestinian flag tackled on Yankee Stadium field
-A man waving a Palestinian flag ran onto the field at Yankee Stadium during a Yankees-Mets MLB game.
+## China’s marriage crisis: The search for love
+101 East explores how ancient traditions are getting a modern makeover as young Chinese seek new ways to find love.
 
-## Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship
-World and Olympic champion Armand 'Mondo' Duplantis delivered a faultless display of pole vaulting to seal victory.
+## Israel-Lebanon talks postponed as explosions rock southern Lebanon
+President Aoun says 'no new negotiations with Israel at the moment'.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
