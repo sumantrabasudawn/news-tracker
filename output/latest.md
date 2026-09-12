@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Brics push for Gulf peace as war worries mount
+India-China rapprochement faces obstacles over economic and geopolitical rivalry
+
 ## Trump says united Ireland ‘inevitable’ and ‘a very cool thing’
 Off-the-cuff remarks from US president during a visit to Ireland anger pro-UK parties
 
@@ -21,8 +24,8 @@ Also in today’s newsletter: Hyrox gets a power boost
 ## We are setting up a generation to fail at school
 The disturbing global decline in test results rests on wrong-headed curriculum changes
 
-## Why I, a non-billionaire, am not leaving the UK
-If Britain is good enough for Harry and Meghan, the Bayeux Tapestry and Asian hornets, it’s good enough for me
+## Can China’s Icicle woo global shoppers in a luxury downturn?
+Cashmere brand wants more stores in Europe and the US after being backed by Gucci owner Kering
 
 ## Windshield megadeal could fix Europe’s broken IPO window
 Belron is the sort of business that might help investors warm up to more deals
@@ -36,32 +39,35 @@ Seoul broadens its espionage legislation for the first time in more than seven d
 ## St James’s Place looks to reassure advisers following departures
 The wealth manager will scrutinise growth plans and aim to boost adviser morale
 
-## Chinese crypto investor was seller of £190mn London mansion
-Leon Li’s ownership of Regent’s Park home had remained obscured despite UK push for transparency
+## BRICS countries emphasis on maintaining undisrupted energy flows, protecting critical infra
+The BRICS nations unanimously adopted the New Delhi Declaration, which recognises that energy security is a crucial foundation for social and economic development, national security and the welfare of all nations
 
-## After meeting Pezeshkian, Mirwaiz calls for dialogue and justice
-On the sidelines of the BRICS Summit, Mirwaiz says that the present global situation demands a renewed emphasis on peaceful resolution of conflicts
+## Tata Sons faces pressure to list after RBI rejects its de-registration as CIC
+The RBI’s decision, announced recently, means that Tata Sons will remain classified as a NBFC in the Upper Layer, which mandates a listing within three years.
 
-## BRICS Summit 2026 Live Updates: BRICS Delhi Declaration 2026 adopted with consensus
+## China’s Xi urges BRICS to play peacemaker role in Middle East conflict
+China offers to work with bloc for regional peace; to host BRICS summit next year
+
+## Who am I
+
+
+## Five stock market scams that prey on investor’s greed
+Five fraud patterns are costing Indian investors thousands of crores every year. Here is how each one works, and a checklist every investor should keep close.
+
+## Acutaas Chemicals: Charged up but at a premium
+CDMO operations have started and will be supported by battery and semiconductor operations
+
+## BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift
 In a significant diplomatic breakthrough for India, the BRICS grouping on Saturday adopted a joint declaration with consensus, overcoming sharp divisions between Iran and the UAE over the West Asia conflict following a series of back-channel negotiations
 
-## Slikk eyes ₹100 crore monthly GMV in Bengaluru, plans Delhi, Mumbai expansion
-The Bengaluru-based company currently operates six dark stores in the city and plans to add another four over the next two months
+## SEBI Demat 2.0: How tokenised corporate bonds will work for you
+The new system promises faster settlement and automated payments without changing your bond
 
-## Elephant Madhuri returns home after treatment at Vantara
-Madhuri’s return follows an assessment by the Supreme Court-appointed High Powered Committee, which reviewed Madhuri’s improved health
+## Brics nations to have a common currency? Here’s what MEA said
+Brics nations are discussing local currency trade settlements to reduce transaction costs. There is currently no proposal for a common Brics currency among member states. This initiative aims to complement existing global payment systems and improve trade efficiency. Leaders also addressed trade bar
 
-## Gem, jewellery exports up 3% to $2.30 billion in Aug
-Higher export of value-added gold jewellery boosts revenue
-
-## Mutual Funds returns
-As on : Sep 12, 2026
-
-## In major relief, Chennai Airport passenger pick-up plaza to be inaugurated virtually on Sunday
-This will be a major relief for passengers arriving from both domestic and international arrivals who had to travel in golf carts to reach the taxi pick-up points
-
-## India’s cookware market shifts from price to performance as premiumisation gathers pace
-The Indian cookware market was valued at $1.87 billion in 2025 and is expected to reach $2.85 billion by 2031, growing at a CAGR of 7.27%
+## Canada 'wants to make a deal very badly,' says Donald Trump
+President Trump stated Canada desires a trade deal soon and wants farmers treated better. He also expressed a wish for Ireland to be unified eventually. Trump met with Irish Prime Minister Micheal Martin and President Catherine Connolly. The visit included engagements and a stop at his golf resort. 
 
 ## Zomato introduces additional fee for cash-on-delivery orders
 
@@ -81,35 +87,29 @@ The Maharashtra Real Estate Regulatory Authority has directed the developer to r
 ## Nvidia weighs $10 billion investment in Anthropic’s mega IPO: Report
 Anthropic, an artificial intelligence firm, is gearing up for a landmark initial public offering that could reshape the tech landscape. Reports indicate that Nvidia is eyeing a sizable investment in this IPO, which could fortify their strategic partnership. With heavyweight support from industry lea
 
-## Ice cream to defence: How Canada’s tariff war with US is boosting local businesses
-Canadian businesses are experiencing increased sales due to a 'buy Canadian' movement. Local ice cream and gift shops report significant sales boosts from consumers. Wineries also saw demand rise after American alcohol was removed from shelves. Defence manufacturers are finding new opportunities and
+## Millet pulao, beetroot raita, Old Delhi fruit cream: What's on BRICS Gala dinner menu
+Russian President Vladimir Putin arrived at Bharat Mandapam for the dinner, followed by Kazakhstan's Kassym-Jomart Tokayev and Indonesia's Prabowo Subianto.
 
-## US diesel prices at record $6: American farmers feel the heat as harvest season begins
-With diesel prices hitting unprecedented levels, US farmers are grappling with steep fuel expenses that have doubled. This dramatic rise is disrupting essential operations for corn and soybean harvests, jeopardizing profitability and financial health. Additionally, the elevated diesel costs are hind
+## No proposal for common BRICS currency ‘as of now’, says MEA
+The MEA said the focus was on settling bilateral trade in local currencies, a day after India urged BRICS nations to link their payment systems.
 
-## Brics Summit: PM Modi meets Vietnamese, Ethiopian counterparts
-India and Vietnam are working towards $25 billion in bilateral trade by 2030 and greater two-way investment, as well as strengthening their cultural and civilisational linkages
+## Union ministers and BJP CMs, including Amit Shah and Yogi Adityanath, head to BRICS gala dinner in buses | Watch
+Prime Minister Narendra Modi hosted the gala dinner for various world leaders, on the opening day of the BRICS summit.
 
-## Modi-Xi meet at BRICS: India, China leaders begin talks amid push to reset ties
-Xi’s visit to India, his first in seven years, comes against the backdrop of the prolonged military standoff along the Line of Actual Control (LAC).
+## PM Modi, Xi welcome 'steady progress' in India-China ties at BRICS meet, bat for mutual resolution of border dispute
+Xi travelled to India for the first time in seven years to attend the BRICS Summit.
 
-## 'Not all 'hijabs' are unacceptable to BJP': Congress' Pawan Khera slams Centre over covering slums for BRICS Summit
-Taking a swipe at the ruling party's political rhetoric, Pawan Khera accused the administration of trying to hide India's socioeconomic realities.
+## Brics calls for just, equitable energy transition, slams EU carbon border tax
+The Brics declaration rejected the European Union’s carbon border adjustment mechanism, describing it as a protectionist hurdle for emerging economies.
 
-## India-UAE ties symbol of stability: PM Modi after meeting Abu Dhabi Crown Prince
-Crown Prince Khaled, the heir to UAE President Mohamed bin Zayed, is representing the Emirates at the Brics Summit as his father was away on a visit to Germany
+## What’s in a school? A Swiss woman's West Bengal initiative offers new meaning
+15 years ago, a Swiss woman travelled across India to uncover her true passion for education and social reform. Her work now spans 2 villages and 20,000 lives.
 
-## What the BRICS New Delhi Declaration says on West Asia war, trade: Full text
-The BRICS grouping adopted a joint declaration with consensus on Saturday.
+## ‘Differences should not become disputes’: PM Modi tells Xi peace on border key to India-China ties
+Xi and Modi welcomed the ‘steady progress’ in India-China ties since their last meeting in Tianjin in August 2025.
 
-## Air India's Mumbai-based pilot dies during Delhi layover
-The pilot had earlier worked with Air India Express and moved to Air India a couple of months ago.
-
-## Indian landlady in Canada held after tenant’s ‘harassment’ over barbecue use
-The tenant posted a series of clips on Instagram, accusing the landlady, identified as Raj Tiwana, of repeatedly harassing him.
-
-## Maritime neighbours, close partners: PM Modi after meeting Malaysian counterpart
-Modi said the growing defence partnership, expanding two-way investments and deeper people-to-people links reflected the new momentum in the bilateral comprehensive strategic partnership
+## BRICS joint statement mentions West Asia war, stresses dialogue to end conflicts
+The BRICS declaration, adopted unanimously in New Delhi, called for parties involved in the West Asia conflict to exercise “maximum restraint.”
 
 ## How AI tools are reshaping stock trading, investment research in China
 When Ryan Lei has an investment idea, he no longer has to spend days writing code and trawling through historical data to corroborate it. The 27-year-old quantitative trader in Hong Kong now delegates much of the grunt work to artificial intelligence. For a recent bet tied to a major technology init
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India’s Modi calls for empowerment of Global South at BRICS Summit
-India’s Prime Minister Narendra Modi has called for an overhaul of global governance.
+## US court rejects Trump’s emergency order keeping Michigan coal plant open
+The ruling says the Energy Department exceeded its authority by extending the plant’s operation.
 
-## Manchester United vs Man City: Premier League – predictions, teams, lineups
-Premier League leaders Manchester City gear up for their first derby under new boss Enzo Maresca against rivals United.
+## At least seven killed in fire at prison in northern Syria
+Inmates rioted following protests in the city of Kobane over the killing of former Kurdish fighter, state media reports.
 
-## Trump: Iran probably ‘behind’ Saudi oil pipeline attack
-Trump: Iran probably ‘behind’ Saudi oil pipeline attack
+## Danish FA allege FIFA Legal Committee evaded questions on Infantino’s plan
+FIFA Legal Committee accused of evading questions on controversial World Cup proposal put forward by Gianni Infantino.
 
-## Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha
-Yemeni government forces says they launched air strikes on Houthi fighters along the Red Sea coast.
+## Police in Barcelona clash with Catalan national day activists
+Spanish police charged at left-wing protesters in Barcelona on Catalonia's National Day.
 
-## Left with nothing, people in Gaza are forced to rent generators by the hour
-Israel's destruction of homes and infrastructure in Gaza has forced Palestinians to rent generators by the hour.
+## Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel
+Iranian official tells Al Jazeera an IAEA resolution on Tehran’s nuclear safeguards was ‘imposed’ by the US and Israel
 
-## Houthis celebrate seizing control of Yemen’s Red Sea coast
-Yemen’s Iran-aligned Houthis have been celebrating after seizing control of the Red Sea coast in a rapid offensive.
+## England survive Pakistan scare to seal 3-0 Test series sweep
+England overcome early tremors to win ⁠third Test against Pakistan by eight wickets, clinching a series whitewash.
 
-## China’s marriage crisis: The search for love
-101 East explores how ancient traditions are getting a modern makeover as young Chinese seek new ways to find love.
+## Trump says a unified Ireland would be ‘fantastic’ during Irish visit
+British Prime Minister Andy Burnham maintains there is not enough popular support for Northern Ireland to leave the UK.
 
-## Israel-Lebanon talks postponed as explosions rock southern Lebanon
-President Aoun says 'no new negotiations with Israel at the moment'.
+## Iran-backed Houthis seize strategic Mayun Island: Can they hold it?
+The takeover solidifies the group's position in the Bab al-Mandeb, but holding it long-term could be difficult.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
