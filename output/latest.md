@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## Larry Ellison to sell up to $7.5bn worth of Oracle stock
+Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI
+
+## Early SpaceX investor Atreides hires co-CIO of Lone Pine
+Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker
+
+## Reform UK receives record £36mn donation
+The gift from crypto billionaire Ben Delo is the largest donation in British political history
+
 ## Houthis seize Red Sea islands in lightning offensive
 Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets
 
-## Lone Pine’s co-CIO to join early SpaceX backer Atreides Management
-Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker
-
 ## JPMorgan cut off Situational Awareness lending after AI losses
-Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during sell-off
+Leopold Aschenbrenner’s hedge fund previously shed billions of dollars during sell-off
 
 ## Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks
 Move is likely to put further momentum behind fast-rising oil prices
@@ -18,14 +24,8 @@ US president’s proposed $1.2tn handout fails to make sense in a country lackin
 ## Is Bessent winning the wrong battle in markets?
 Treasury secretary’s intervention in the yen has made an impact but US bond yields are climbing higher and higher
 
-## Scott Bessent fails to break ‘fever’ in US bond market
-Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn
-
-## UK delays Jackdaw gasfield decision until after by-election in Starmer seat
-Tories and Greens criticise government’s move to push back North Sea project
-
 ## Court strikes down Trump administration order keeping coal plant open
-Ruling finds energy department exceeded its authority and complicates president’s plan to revive the coal industry
+Ruling finds energy department exceeded its authority and complicates president’s plan to revive industry
 
 ## Stockpickers: Rosebank Industries, SigmaRoc, Ashmore
 Our experts discuss which companies to buy, sell or hold this week
@@ -33,11 +33,20 @@ Our experts discuss which companies to buy, sell or hold this week
 ## Directors’ Deals: Shell’s upstream boss takes advantage of valuation uplift
 The oil major’s acquisition of ARC Resources is expected to improve free cash flow from next year
 
-## UK economy unexpectedly grew 0.4% in July boosted by AI surge
-Resilient start to third quarter comes as surging oil price reignites inflation fears
+## UK delays Jackdaw gasfield decision until after by-election in Starmer seat
+Tories and Greens criticise government’s move to push back North Sea project
 
-## Military jet triggered UK’s latest air traffic meltdown
-Flight plan submitted by one aircraft sparked turmoil that grounded thousands of planes this week
+## Dr Reddy’s Mexico API facility gets two observations from USFDA
+The assessment covered manufacturing records and documentation, with the company saying it will respond to the regulator within the stipulated timeline.
+
+## Jubilant Pharmova’s Spokane facility receives VAI classification from US FDA
+The classification follows a June inspection, with the regulator indicating that the identified conditions do not warrant administrative or regulatory action.
+
+## Nvidia in talks to invest in Anthropic’s mega IPO
+The proposed listing could test investor appetite for frontier AI companies as Anthropic expands computing capacity and strengthens ties with major technology firms.
+
+## Saudi Arabia shuts major East-West oil pipeline after attack
+Saudi Arabia has temporarily halted a major oil pipeline after an attack, citing precautionary concerns as regional threats to exports grow.
 
 ## India, Peru FTA talks enter final stretch; Lima hopes to sign deal in 2027
 Peruvian exports to India surged 152% in January-July, making it the country’s second-largest export destination ahead of the United States
@@ -51,41 +60,29 @@ The proposed framework sets out timelines for banks to identify suspicious trans
 ## Broker’s call: Acutaas Chem (Buy)
 JM Financial
 
-## Broker’s call: Aavas Financiers (Add)
-Emkay Global Fin
-
-## FII index futures shorts hit 5-month high, bearish positioning raises odds of sharp market move
-On September 10, FIIs held 3,21,538 short index futures contracts, against 39,694 long contracts, taking the long-short ratio to around 11%, a historically low level
-
-## NSE looks to diversify revenue beyond weekly options ahead of ₹22,569 crore IPO
-Weekly index options contributed 46 per cent of operating revenue in FY26; new businesses gaining ground
-
-## Six IPOs get aggressive bids worth ₹1.4 lakh crore as Rentomojo, Karamtara, LCC Projects sparkle
-Rentomojo, Karamtara Engineering and LCC Projects were the biggest draws, while Steamhouse India and Arcil saw a modest response
-
 ## 2 homebuyers paid Rs 1.16 crore, got no flats; RERA orders builder to refund with interest
 The Maharashtra Real Estate Regulatory Authority has directed the developer to refund the amounts paid, along with applicable interest, after noting that the project remained incomplete and its registration had lapsed without an extension.
 
-## RBI moves to suck out excess liquidity
-As Forex Reserves Swell To All-Time High Of $786Bn, RBI Announces Sale Of 1L Cr Bonds
-
-## India-EU FTA draft: European cars, wine, farm goods set for lower tariffs; key changes explained
+## Report: MSMEs need digital infra
 
 
-## US stocks today: Wall Street inches higher as oil prices ease, inflation data calms markets
-On Friday, US stocks saw a rise, buoyed by a decline in oil prices and inflation data that matched analysts' projections. The S&P 500 and Nasdaq composite both recorded gains, while the Dow Jones Industrial Average also improved. Despite inflation remaining high, it fell in line with expected rates,
+## Consumer durables drive customer growth
 
-## In 2010, India launched Aadhaar Card; 16 years later UIDAI says work underway to take Aadhaar global
-Speaking during a fireside chat at Global Fintech Fest 2026, UIDAI CEO Saurabh Vijay said his objective is to build Aadhaar into a best-in-class digital identity infrastructure that can support its expansion internationally.
 
-## Uber exits Nigeria, Uganda: Why Africa's ride-hailing market is getting tougher
-Uber has officially ended its operations in Nigeria and Uganda, marking a significant retreat from these markets. This decision comes as a result of escalating operating expenses and fierce competition, which have negatively impacted ride-hailing fares and driver earnings. Rising costs for fuel and 
+## AI corners 80% of all global equity funding in March quarter
+Global funding for AI reached a remarkable $226 billion by the end of March this year, accounting for nearly eighty percent of the total equity funding landscape. Companies like OpenAI and Anthropic attracted significant investments earlier this year, but they are also facing increasing scrutiny reg
 
-## ‘AI a double-edged sword’: FM Sitharaman flags innovation risks, urges efficiency without fragility
-Finance Minister Nirmala Sitharaman addressed artificial intelligence risks at the Global Fintech Fest 2026. She highlighted technology's potential to influence public opinion and electoral outcomes. The Reserve Bank of India recognized the Unified Fintech Forum as a self-regulatory organization. Si
+## FM calls for tech body for stronger global voice
+In a bold move for India's tech sector, Finance Minister Nirmala Sitharaman has unveiled a federated industry platform designed to amplify the industry's global presence. This platform will proactively liaise with international governments and regulators while fostering collaboration on data and cyb
 
-## UPI now dominates merchant payments: Are cards becoming less useful?
-UPI now dominates Indian merchant payments, significantly reducing card usage. Debit cards are primarily used for cash withdrawals, not shopping. Credit cards are specializing in larger purchases and e-commerce transactions. RuPay credit cards can now link directly to UPI apps. The QR code scan is b
+## Days after Bhatt, another director quits Coforge board
+Coforge has experienced a shakeup as independent director DK Singh resigns amid tensions over the board’s strategy. His departure follows the resignation of chairman OP Bhatt, sparked by an internal audit that uncovered issues with the evaluation report. The audit revealed that important evaluation 
+
+## NSE reduces public offer size to 22.6k crore, issue opens Sept 17
+Bourse's Shares Slotted To Be Listed On BSE On Sept 24
+
+## Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore
+
 
 ## Minister says UDF will decide on PM SHRI soon
 Keralam's UDF will discuss the PM-SHRI scheme for schools, amid concerns of BJP influence, while weighing its benefits for 1.8 million students.
@@ -111,6 +108,9 @@ Sizov spoke in Hindi about the growing strength of the grouping that has India, 
 ## BRICS Summit: Delhi announces traffic curbs, diversions for September 12; Check affected routes
 Delhi Police on Friday announced traffic diversions and regulated vehicle movement on key routes across the national capital on Saturday, September 12.
 
+## Private equity’s Fang Fenglei on investing in China, capital market reforms
+Over the past three decades, investor Fang Fenglei has had a major role in shaping China’s capital markets. He worked with Morgan Stanley in the early 1990s to help create the country’s first joint venture investment bank – China International Capital Corp. Then, at the start of the millennium, he s
+
 ## ‘Key pillar’: the 5-year powerhouse plan for China’s car industry
 China is set to secure its place among the global automotive powerhouses by 2030 through further efforts to boost domestic sales and foster technological innovation, while a capacity alert mechanism will be introduced to guard against disorderly competition. The ambitious targets and actions are lai
 
@@ -131,9 +131,6 @@ Hong Kong banks expect the contribution of mainland Chinese investors to the cit
 
 ## US Treasury yield hits 19-year high, Japanese yen strengthens: the numbers moving markets
 China’s buoyant stock market lifted brokers’ earnings in the first half, while Hong Kong saw continued growth in retirement assets. Beyond China, a strengthening yen and Washington’s Treasury buy-back programme highlighted shifting dynamics in global currency and bond markets. Here are some of the f
-
-## Haidilao’s stock rout exposes funding risk from Beijing’s taxation crackdown as payments loom
-The turmoil surrounding Chinese hotpot chain restaurant operator Haidilao International Holding could serve as a warning to investors of the funding risks stemming from Beijing’s new taxation regime on overseas assets held by wealthy individuals. A plan by Shu Ping, the co-founder and wife of Haidil
 
 ## Why AfD Appeals to So Many Germans
 The far-right party surges in a regional election.
@@ -231,11 +228,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down
+Houthi forces seize Yemen's Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.
+
+## UN extends partial Sudan arms embargo for a month
+Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.
+
+## Flavio Bolsonaro faces corruption probe weeks before Brazil election
+The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal.
+
 ## Israeli demolitions threaten schools and homes in Masafer Yatta
 Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.
 
 ## Saudi Arabia says East-West pipeline hit by drones launched from Iraq
-Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.
+Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.
 
 ## Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form
 Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.
@@ -245,15 +251,6 @@ Families are remembering the loved ones they lost in the September 11, 2001 atta
 
 ## Zohran Mamdani commemorates 9/11 amid widespread criticism
 NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city's history.
-
-## US legislators push AI safety laws amid human extinction warnings
-Concerns over AI's dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.
-
-## US lawyer cites fake witnesses in murder case, blames ChatGPT
-State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.
-
-## Razaullah’s six-hitting debut caps Pakistan’s fightback against England
-Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
