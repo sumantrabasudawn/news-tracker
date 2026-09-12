@@ -24,44 +24,62 @@ US president’s proposed $1.2tn handout fails to make sense in a country lackin
 ## Is Bessent winning the wrong battle in markets?
 Treasury secretary’s intervention in the yen has made an impact but US bond yields are climbing higher and higher
 
-## Court strikes down Trump administration order keeping coal plant open
-Ruling finds energy department exceeded its authority and complicates president’s plan to revive industry
+## Windshield megadeal could fix Europe’s broken IPO window
+Belron is the sort of business that might help investors warm up to more deals
 
-## Stockpickers: Rosebank Industries, SigmaRoc, Ashmore
-Our experts discuss which companies to buy, sell or hold this week
+## High oil prices could force ECB to raise rates further, warns top policymaker
+Austrian central bank governor Martin Kocher says risk of elevated inflation is higher than it was a few months ago
 
-## Directors’ Deals: Shell’s upstream boss takes advantage of valuation uplift
-The oil major’s acquisition of ARC Resources is expected to improve free cash flow from next year
+## South Korea arms itself to protect chip secrets from foreign spies
+Seoul broadens its espionage legislation for the first time in more than seven decades
 
-## UK delays Jackdaw gasfield decision until after by-election in Starmer seat
-Tories and Greens criticise government’s move to push back North Sea project
+## St James’s Place looks to reassure advisers following departures
+The wealth manager will scrutinise growth plans and aim to boost adviser morale
 
-## Dr Reddy’s Mexico API facility gets two observations from USFDA
-The assessment covered manufacturing records and documentation, with the company saying it will respond to the regulator within the stipulated timeline.
+## Chinese crypto investor was seller of £190mn London mansion
+Leon Li’s ownership of Regent’s Park home had remained obscured despite UK push for transparency
 
-## Jubilant Pharmova’s Spokane facility receives VAI classification from US FDA
-The classification follows a June inspection, with the regulator indicating that the identified conditions do not warrant administrative or regulatory action.
+## Joseph Stiglitz on how to build a better AI economy
+A slow rollout will disappoint investors. A fast one risks undermining the industry’s own foundations. But managed carefully, this is a technology that could benefit us all
 
-## Nvidia in talks to invest in Anthropic’s mega IPO
-The proposed listing could test investor appetite for frontier AI companies as Anthropic expands computing capacity and strengthens ties with major technology firms.
+## The perils of prediction markets
+Not only are the odds stacked against those who place bets, but there are also insiders tilting the scales
 
-## Saudi Arabia shuts major East-West oil pipeline after attack
-Saudi Arabia has temporarily halted a major oil pipeline after an attack, citing precautionary concerns as regional threats to exports grow.
+## MFS administrator steps down amid creditor pressure
+Nimish Patel of Coots & Boots discharged as joint administrator of entity in collapsed property lender’s empire
 
-## India, Peru FTA talks enter final stretch; Lima hopes to sign deal in 2027
-Peruvian exports to India surged 152% in January-July, making it the country’s second-largest export destination ahead of the United States
+## BRICS Summit 2026 Live Updates: Xi Jinping leaves for New Delhi, to hold talks with Modi
+Leaders of the BRICS group of nations are set to meet today in New Delhi for their annual summit, amid mounting ​geopolitical tension, disruptions in energy markets, shipping, and global trade.
 
-## Telangana bans analogue paneer being sold as ‘paneer’
-The Telangana food safety authority has imposed a one-year prohibition, citing concerns over the sale of non-dairy paneer as genuine paneer
+## BRICS Summit: Traffic restrictions, diversions in central Delhi till 9.30 pm
+The restrictions will be in force from 9:30 am to 9:30 pm, particularly around Bharat Mandapam and the Pragati Maidan area, as well as on major corridors connecting central Delhi with other parts of the city
 
-## RBI issues draft SOP for temporary debit holds on money-mule, cyber fraud accounts
-The proposed framework sets out timelines for banks to identify suspicious transactions, notify customers, examine explanations and remove debit holds
+## Iran takes defiant stance as US war deepens its isolation
+Iran, facing heavy US sanctions and ongoing attacks, is keen to position BRICS as a counterweight to the US-led economic and political order
 
-## Broker’s call: Acutaas Chem (Buy)
-JM Financial
+## India-China relations, from conflict to cautious thaw
+Here’s how ties between the Asian giants have evolved from a deadly 2020 border clash to a more stable relationship as the Chinese leader visits India for the first time in seven years
+
+## Will involve Gen Z, Alpha, Beta to achieve Telangana's economic goals: CM Revanth Reddy
+In a marathon speech in the Assembly on Friday night, the CM, who holds the education portfolio, said his government aims to increase the state budget’s allocation to education to 15%
+
+## BRICS Summit 2026: What’s on the agenda?
+Leaders to navigate global trade disputes, regional crises
+
+## Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping
+Saudi Arabia temporarily ​closed the East-West pipeline after a drone attack that both Baghdad and Riyadh said had originated in Iraq, where Iranian-backed militias operate
+
+## The future of India’s nuts and dry fruits sector: Built on policy, partnerships and people
+India has the potential to become not only one of the world’s largest consuming markets, but also a stronger and more influential participant in the global nuts and dry fruits value chain
 
 ## 2 homebuyers paid Rs 1.16 crore, got no flats; RERA orders builder to refund with interest
 The Maharashtra Real Estate Regulatory Authority has directed the developer to refund the amounts paid, along with applicable interest, after noting that the project remained incomplete and its registration had lapsed without an extension.
+
+## Ice cream to defence: How Canada’s tariff war with US is boosting local businesses
+Canadian businesses are experiencing increased sales due to a 'buy Canadian' movement. Local ice cream and gift shops report significant sales boosts from consumers. Wineries also saw demand rise after American alcohol was removed from shelves. Defence manufacturers are finding new opportunities and
+
+## US diesel prices at record $6: American farmers feel the heat as harvest season begins
+With diesel prices hitting unprecedented levels, US farmers are grappling with steep fuel expenses that have doubled. This dramatic rise is disrupting essential operations for corn and soybean harvests, jeopardizing profitability and financial health. Additionally, the elevated diesel costs are hind
 
 ## Report: MSMEs need digital infra
 
@@ -78,35 +96,32 @@ In a bold move for India's tech sector, Finance Minister Nirmala Sitharaman has 
 ## Days after Bhatt, another director quits Coforge board
 Coforge has experienced a shakeup as independent director DK Singh resigns amid tensions over the board’s strategy. His departure follows the resignation of chairman OP Bhatt, sparked by an internal audit that uncovered issues with the evaluation report. The audit revealed that important evaluation 
 
-## NSE reduces public offer size to 22.6k crore, issue opens Sept 17
-Bourse's Shares Slotted To Be Listed On BSE On Sept 24
+## 'AAP deserves no friendly exemption': Congress dares CJP to audit Punjab schools 'with same eyes'
+CJP's Saurav Das had led a delegation of the pressure group to Punjab, where they assessed the state of government schools
 
-## Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore
+## Kulbhushan Bhardwaj elected Gurugram District Bar Association president
+Kulbhushan Bhardwaj was elected Gurugram District Bar Association president, defeating Vinod Rao by 244 votes in Friday’s election.
 
+## Prison personnel among 7 held for supply of phone, SIM card to ex-MP Prajwal Revanna
+Investigators tracing the device and SIM card have found links to the DJ Halli area and are probing the roles of intermediaries, inmates and prison personnel.
 
-## Minister says UDF will decide on PM SHRI soon
-Keralam's UDF will discuss the PM-SHRI scheme for schools, amid concerns of BJP influence, while weighing its benefits for 1.8 million students.
+## HT Morning Brief September 12: Xi Jinping headed to India, contractual worker in focus in PNB fake notes case and more
+From Indian and major global developments to the latest from sports and entertainment, stay up to date with everything you need to know in our news brief.
 
-## U.S. envoy Sergio Gor visits Manipur, meets CM and governor
-US Ambassador Sergio Gor visited Manipur, meeting local leaders and exploring historic sites, emphasizing US-Manipur relations and tourism development.
+## Harish Rawat quits Congress posts after ED raids on PA: ‘No weakness should come’
+The ED raided premises linked to Jeena over alleged irregularities in a recruitment examination conducted by the UKSSSC in 2016.
 
-## CAG flags data discrepancies in Gujarat’s Har Ghar Jal claim
-Gujarat had declared 100% functional household tap connection coverage, covering 91.18 lakh rural households, by October 2022.
+## Banks to remain closed for 4 days from today; Check state-wise list of holidays
+The holidays include the second Saturday of the month, Sunday, Ganesh Chaturthi and Nuakhai.
 
-## 21 rescued after two merchant ships collide near Gujarat coast, pollution response measures activated: Coast Guard
-The Indian Coast Guard said 21 of the 24 people on the crew of MV KMAX EMPEROR were safely evacuated after the two vessels collided.
+## China signals push to reset ties as Xi Jinping visits India, vows to 'properly handle differences'
+Xu Feihong talked about handling differences and mutual cooperation in a post on X hours before Xi Jinping’s visit to India for the BRICS Summit on Saturday.
 
-## Nagpur man flings chili powder at SBI staff, flees with ₹4.5 lakh; nabbed in 30 mins
-According to CCTV videos, he crept up behind the employees at the cash counter and started hurling handful of chilli powder into their faces
+## Modi-Xi meeting at BRICS: Where do India-China ties stand today?
+PM Modi and President Xi Jinping are set to meet at the BRICS Summit in New Delhi, marking Xi's first visit to India in seven years.
 
-## Chhattisgarh man dies in police custody, constable suspended; probe ordered
-A 35-year-old man died after his health deteriorated in police custody in Chhattisgarh’s Janjgir-Champa. His family alleged assault and torture.
-
-## ‘Umeed karta hun…’: Russian diplomat speaks fluent Hindi, expresses optimism ahead of BRICS summit
-Sizov spoke in Hindi about the growing strength of the grouping that has India, China and Russia among its prominent members.
-
-## BRICS Summit: Delhi announces traffic curbs, diversions for September 12; Check affected routes
-Delhi Police on Friday announced traffic diversions and regulated vehicle movement on key routes across the national capital on Saturday, September 12.
+## Taobao’s ‘ugly’ goods find a growing market among China’s young consumers
+Products widely considered “ugly” or “bizarre” have gone viral online in China as millions of young consumers embrace the items’ quirky humour and distinctive character. Cumulative sales of such products on Taobao – an e-commerce platform of Alibaba Group Holding – have surpassed 230 million yuan (U
 
 ## Private equity’s Fang Fenglei on investing in China, capital market reforms
 Over the past three decades, investor Fang Fenglei has had a major role in shaping China’s capital markets. He worked with Morgan Stanley in the early 1990s to help create the country’s first joint venture investment bank – China International Capital Corp. Then, at the start of the millennium, he s
@@ -128,9 +143,6 @@ Hong Kong banks expect the contribution of mainland Chinese investors to the cit
 
 ## Hang Seng rolls out five wealth management strategies
 [The content of this article has been produced by our advertising partner.] Hong Kong’s wealth landscape has evolved well beyond single-product investing, with more families now taking an integrated approach to planning that strengthens financial resilience, supports lifestyle continuity and enables
-
-## US Treasury yield hits 19-year high, Japanese yen strengthens: the numbers moving markets
-China’s buoyant stock market lifted brokers’ earnings in the first half, while Hong Kong saw continued growth in retirement assets. Beyond China, a strengthening yen and Washington’s Treasury buy-back programme highlighted shifting dynamics in global currency and bond markets. Here are some of the f
 
 ## Why AfD Appeals to So Many Germans
 The far-right party surges in a regional election.
@@ -156,6 +168,12 @@ Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is T
 ## Why 9/11 Baffles Us 25 Years Later
 It’s the strategic disaster that keeps on giving.
 
+## AI, Robotics and the Coming Economic, Military, and Political Revolutions
+In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
+
+## SCO Summit Produces Surprising Winners
+The organization’s smaller members can use a China-India-Russia-dominated forum without becoming subordinate to any single major power.
+
 ## What Role Does Denuclearization Have in North Korea-US Dialogue Today?
 Breaking down the denuclearization debate from both sides: North Korea and the United States.
 
@@ -173,12 +191,6 @@ It could end up exchanging strategic flexibility for an upgraded version of the 
 
 ## Namal Rajapaksa’s Arrest and Sri Lanka’s Politics of Mutual Protection
 The old establishment elites have opposed Namal’s arrest. They want to preserve a system where one of their own is not jailed for corruption.
-
-## Asia’s Economic Integration: A Roadmap for Peacebuilding in the Middle East
-Economic cooperation in the Asia-Pacific has been the key driver of peace since 1952.
-
-## After the Bangsamoro Poll, Can Politics Maintain the Peace?
-The peace process in the autonomous region will continue long after the votes have been counted and a new government formed.
 
 ## The War’s Last Generation Is Still Holding America’s Moral Debt
 On the first night of the evacuation of Kabul, Aug. 15, 2021, a young mother found me in the crowd at Hamid Karzai International Airport. She had marked me, correctly, as someone who spoke her language. By the end of the night, she was pressing the body of her dead child into my chest and telling me
@@ -228,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down
-Houthi forces seize Yemen's Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.
+## China’s Xi heads to India for BRICS summit overshadowed by wars
+Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.
 
-## UN extends partial Sudan arms embargo for a month
-Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.
+## A stable Afghanistan post 9/11 is in US interests says former US diplomat
+Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.
 
-## Flavio Bolsonaro faces corruption probe weeks before Brazil election
-The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal.
+## Mexico rescues eight from clandestine clinic run by violent Jalisco cartel
+Rescue operation in Jalisco uncovers cartel's hidden clinic, illegal drugs and weapons; six suspected guards arrested.
 
-## Israeli demolitions threaten schools and homes in Masafer Yatta
-Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.
+## North Korea fires ballistic missiles off eastern coast, Seoul says
+South Korea said it was closely exchanging information on the launches with the US and Japan.
 
-## Saudi Arabia says East-West pipeline hit by drones launched from Iraq
-Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.
+## Putin and Pezeshkian call out US dominance ahead of BRICS
+The presidents of Iran and Russia have criticised US dollar dominance ahead of the BRICS summit in India.
 
-## Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form
-Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.
+## Satellite image shows critical Saudi pipeline damaged in drone attack
+Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.
 
-## Somber tributes as US marks the 25th anniversary of September 11 attacks
-Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.
+## CIA releases dozens of declassified documents on bin Laden prior to 9/11
+A briefer told Clinton in 1998 that bin Laden’s 'preferred option is to strike the US on its own soil in Washington'.
 
-## Zohran Mamdani commemorates 9/11 amid widespread criticism
-NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city's history.
+## How Canadians are bracing for the impact of Trump’s trade war
+Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
@@ -276,6 +288,9 @@ Seasoned finance professional Robin Banerjee, Chairman of Nucleon Research Pvt. 
 ## The CFO's Strategic Role: Balancing Growth, Profitability, and Cash Generation
 In today's corporate landscape, Chief Financial Officers have evolved into essential strategic partners, expertly juggling the demands of growth alongside financial prudence. They adeptly navigate the complexities of profitability and cash flow, utilizing advanced digital tools for more accurate for
 
+## EU dropped aluminium scrap duty plan over India concerns, sources say
+EU-METALS/ALUMINIUM-SCRAP (PIX)EU dropped aluminium scrap duty plan over India concerns, sources say
+
 ## Sebi proposes extending IT, cyber security framework of MIIs to their arms
 Sebi proposed extending IT and cyber security rules to subsidiaries of market infrastructure institutions. This move aims to strengthen regulatory oversight over these evolving business structures. Subsidiaries undertaking core MII activities will now follow parent company's cybersecurity frameworks
 
@@ -296,7 +311,4 @@ The Supreme Court has returned a penalty case to the Securities Appellate Tribun
 
 ## India may restart bilateral investment treaty talks with UK as model text nears finalisation
 India is close to finalizing its model text for bilateral investment treaty talks with the United Kingdom. Internal discussions on the draft agreement are nearly complete and cabinet approval is expected soon. The government is reviewing measures to make the treaty more attractive for foreign invest
-
-## Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say
-INDIA-RUPEE/RBI-INTERVENTION (PIX)Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say
 
