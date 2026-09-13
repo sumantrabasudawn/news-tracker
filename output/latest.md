@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Burnham resists calls to reform student loans in Budget
+Treasury select committee argues the repayment threshold should rise in line with inflation
+
 ## Larry Ellison cancels $7.5bn Oracle share sale
 About-face comes a day after a filing revealed plans to sell up to 50mn shares by the end of October
 
@@ -20,9 +23,6 @@ Move is likely to put further momentum behind fast-rising oil prices
 
 ## Canada seeks $1tn from investors looking for a haven from Trump
 Prime Minister Mark Carney hosts a summit to put money behind his plan to decouple from an increasingly hostile US
-
-## The long shadow of quantitative easing
-Central bank balance sheets will stay large
 
 ## Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown
 Warring tech bosses unite behind warnings that humans could lose control of the technology
@@ -60,6 +60,9 @@ bob World 2.0 has four key capabilities – voice-enabled payments and navigatio
 ## BRICS countries emphasis on maintaining undisrupted energy flows, protecting critical infra
 The BRICS nations unanimously adopted the New Delhi Declaration, which recognises that energy security is a crucial foundation for social and economic development, national security and the welfare of all nations
 
+## HDFC Bank sends names of 2 CEO candidates to RBI
+HDFC Bank has presented two candidates to the RBI for the upcoming role of managing director and CEO. The board has also sanctioned the promotion of Jimmy Tata to executive director while seeking an extension for V Srinivasa Rangan. This move will elevate the count of whole-time directors to four, e
+
 ## RBI rejects Tata Sons' bid to stay private, directs listing
 Tata Sons' bid to relinquish its core investment company registration has been turned down by the Reserve Bank of India, pushing the Tata Group's holding firm nearer to a public stock offering. Tata Trusts, the majority owner, aims to preserve the company's private nature for sustained stewardship. 
 
@@ -80,9 +83,6 @@ India's data centre industry is poised for a substantial $90 billion opportunity
 
 ## CAS closing price under review: Sebi proposes 2 options for expiry settlement
 The Securities and Exchange Board of India (Sebi) is actively exploring modifications to how derivative settlement prices are calculated. Two alternative methods are currently up for review, inviting stakeholder feedback. These revisions aim to alleviate concerns related to the price from the closin
-
-## Minor had Rs 1.17 crore interest income, father faced Rs 12.83 lakh penalty; what ITAT did
-The ruling arose from the tax dispute involving a man in New Delhi. He filed his income tax return on November 4, 2022, reporting total income of Rs 8.43 crore. The case was subsequently reopened by the Income Tax Assessing Officer (AO) at Jhandewalan on March 22, 2025.
 
 ## Mamata reaches out to TMC veteran Akhil Giri as it weighs local face for Nandigram bypoll
 The move comes at a particularly difficult juncture for the TMC, which lost power to the BJP in the May assembly elections after 15 years in office.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Arteta seethes at Sunderland penalty decision despite Arsenal win
-Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.
+## Trump says he would ‘love to see’ a united Ireland during Irish visit
+US President Donald Trump said he would ‘love to see’ a united Ireland.
 
-## Tens of thousands march across Germany to protest far-right party AfD
-Protesters in about 20 cities, including Berlin, Hamburg and Munich, demand the banning of the Alternative for Germany.
+## Houthi projectile wounds two, damages mosque in Jazan region, Saudi says
+The Houthis claim their attack targeted a Saudi military base in Sharurah.
 
-## USA edge Spain to book Women’s Basketball World Cup final against France
-USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.
+## Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb
+Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.
 
-## First naval battle between drones takes place in the Black Sea
-The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.
+## Teen rescued after clinging to boat for two days off Alaska
+A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.
 
-## Ebola spreads to seventh DRC province as gov’t insists cases are declining
-Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.
+## Death toll from Philippine ferry fire rises to 76
+The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing
 
-## Second crypto billionaire donates record $49m to far-right Reform UK
-The two donations increase the total sum of money pledged to Reform since Friday to $97m.
+## Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga
+Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho after they lost their last league game.
 
-## Fire at nursing home in Chile kills 16 elderly residents
-The facility had faced fines and enforcement proceedings over regulatory violations since 2019.
+## Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know
+Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.
 
-## Israel bombs southern Lebanon as talks postponed
-The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.
+## Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final
+The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 5-7, 6-2 win in New York as the new world No 1.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
