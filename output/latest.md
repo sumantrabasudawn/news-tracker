@@ -1,64 +1,73 @@
 # AION Intelligence
 
-## Burnham resists calls to reform student loans in Budget
-Treasury select committee argues the repayment threshold should rise in line with inflation
+## How Russia’s new drones are changing the air war
+Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation
 
-## Larry Ellison cancels $7.5bn Oracle share sale
-About-face comes a day after a filing revealed plans to sell up to 50mn shares by the end of October
+## As Europe’s memory fades, radicalism is returning
+For younger voters, both communism and fascism belong to a distant past that no longer defines their political choices
 
-## India’s central bank tells Tata Sons to take conglomerate public
-RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO
+## Paris and Beirut push to extend UN peacekeepers’ mission in Lebanon
+Drive to extend mandate comes as Israel occupies large area of country’s south and Hizbollah refuses to disarm
 
-## Brics push for Gulf peace as war worries mount
-India-China rapprochement faces obstacles over economic and geopolitical rivalry
+## Why Britain’s super-rich are looking for the exit
+Tax rises, political instability — and the fear of worse to come — are forcing the UK’s wealthiest residents to reconsider their future in the country
 
-## Trump says united Ireland ‘inevitable’ and ‘a very cool thing’
-Off-the-cuff remarks from US president during a visit to Ireland anger pro-UK parties
+## Musk’s secretive backer builds $40bn SpaceX stake
+Low-profile venture capital firm Vy Capital has emerged as one of the rocket maker’s largest shareholders
 
-## Reform UK receives two record £36mn donations
-The combined £72mn gifts from crypto billionaires Ben Delo and Christopher Harborne are the largest donations in British political history
+## German military start-up seeks carmakers’ help to re-arm Europe
+ARX Robotics wants to ‘access industry muscle we already have’ to meet soaring demand for unmanned military vehicles
 
-## Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks
-Move is likely to put further momentum behind fast-rising oil prices
+## GP data quietly added to Palantir’s NHS data platform
+Pilot marks significant expansion of the controversial software beyond its current use in hospitals
 
-## Canada seeks $1tn from investors looking for a haven from Trump
-Prime Minister Mark Carney hosts a summit to put money behind his plan to decouple from an increasingly hostile US
+## US pressure on development banks to scrap climate finance goals
+Multilateral lenders expected to follow the World Bank in ditching lending targets
 
-## Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown
-Warring tech bosses unite behind warnings that humans could lose control of the technology
+## PwC shakes up Indian operations as AI threat looms over consulting sector
+Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
 
-## Why the AI race has its creators fearing human extinction
-Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream
+## Boom-era PE funds will fall short on promises, executives warn
+Returns from funds launched during the frenzied period of 2019 to 2021 are likely to struggle to meet expectations
 
-## Can China’s Icicle woo global shoppers in a luxury downturn?
-Cashmere brand wants more stores in Europe and the US after being backed by Gucci owner Kering
+## Sunderland football club looks to US post-industrial peers in bid to lift revenue
+Premier League team targets new fans in cities where its heritage resonates as tougher financial rules increase pressure to boost revenue
 
-## LIV Golf’s bleak future shifts to the courtroom
-Also in today’s newsletter: Hyrox gets a power boost
+## CVC faces shareholder revolt over €10.7bn Recordati take-private
+Investors accuse private equity group of pressuring them into selling at ‘lowball’ price
 
-## ‘It is important to allow markets to give their natural signal’
-Ananth Narayan decodes the blind side of F&O excesses, market interventions and more
+## How to find a leader in 2026
+Four top headhunters reveal what boards are looking for now and the role of AI
 
-## What should investors do about Asian Paints?
-Asian Paints’ valuation adequately balances margin levers and competitive pressures
+## Syngenta joins hands with IIT Ropar, Annam.ai to create AI solutions for farmers
+The three organisations collaborated to hold HACKCORE 2026 to develop cutting-edge, tech-drive solutions; Team SeedCoders walks away with honours
 
-## Acutaas Chemicals: Charged up but at a premium
-CDMO operations have started and will be supported by battery and semiconductor operations
+## F&O Query: Analysis of SBI and Trent futures
+Outlook for State Bank of India and Trent
 
-## Crack spread – what is it? What does it say about oil market?
-Crude may be the headline but crack spreads flash an early warning on fuel inflation
+## F&O Strategy: Buy Titan Company futures
 
-## HDFC Bank’s board shortlists 'two candidates' for top position
-This decision comes after Jagdishan announced he would not seek a third term amid ongoing controversies surrounding the bank’s leadership.
 
-## SEBI weighs two options for derivatives settlement, closing auction timings
-Regulator proposes blending VWAP and closing auction prices, or retaining the old method for at least a year
+## F&O Query: Analysis of Trent futures and options
 
-## Bank of Baroda launches next-generation mobile banking app powered by AI
-bob World 2.0 has four key capabilities – voice-enabled payments and navigation, Personal Financial Management (PFM) module; hyper-personalisation and persona-based customer experience
 
-## BRICS countries emphasis on maintaining undisrupted energy flows, protecting critical infra
-The BRICS nations unanimously adopted the New Delhi Declaration, which recognises that energy security is a crucial foundation for social and economic development, national security and the welfare of all nations
+## Nifty 50 prediction for the week: Vulnerable to fall more
+Resistance can cap the upside in the benchmark indices
+
+## SML Ltd weighing IPO within 2 to 3 years, eyes new chemical entity pipeline
+Mumbai-based SML Ltd said it is among a handful of Indian companies developing NCEs — proprietary new molecules rather than generic formulations — with one new molecule expected to reach the market soon and others in the pipeline.
+
+## FPIs withdraw ₹13,138 crore from equities in Sep so far amid global uncertainty
+The latest outflow comes after Foreign Portfolio Investors (FPIs) turned net buyers in July and August, infusing ₹20,200 crore and ₹29,630 crore, respectively
+
+## Russia imports record fuel from India as Ukraine strikes hit refineries
+As Ukraine’s drone strikes hit Russia’s refining capabilities, India becomes a key supplier of refined oil products, reflecting the changing dynamics of global energy trade amid rising geopolitical tensions.
+
+## India’s gem exports rise 3.14% in August as studded gold jewellery shipments surge
+India's gem and jewellery exports saw a 3.14% increase in August, reaching $2.30 billion. This growth was primarily fueled by a significant rise in studded gold jewellery shipments. Diamond export volumes also contributed positively to the overall export performance during the month. Plain gold jewe
+
+## Brics 2026: Piyush Goyal hails unanimous adoption of New Delhi Declaration
+At the latest summit, BRICS leaders unanimously endorsed the New Delhi Declaration, marking a significant step toward a resilient strategic partnership. This declaration focuses on fostering cooperation in emerging technologies and strengthening digital infrastructure. Additionally, it aims to bolst
 
 ## HDFC Bank sends names of 2 CEO candidates to RBI
 HDFC Bank has presented two candidates to the RBI for the upcoming role of managing director and CEO. The board has also sanctioned the promotion of Jimmy Tata to executive director while seeking an extension for V Srinivasa Rangan. This move will elevate the count of whole-time directors to four, e
@@ -78,35 +87,32 @@ President Trump stated Canada desires a trade deal soon and wants farmers treate
 ## Zomato introduces additional fee for cash-on-delivery orders
 
 
-## Data centre boom: India’s infrastructure opportunity could hit $90 billion
-India's data centre industry is poised for a substantial $90 billion opportunity by FY35, catalyzed by rising demand for construction, cooling, and power infrastructure. The surge in artificial intelligence will further heighten energy and cooling requirements. While domestic firms can tap into this
+## Maharashtra: Sangli poster row turns violent, 7 injured; shops, vehicles damaged
+The clash erupted in Dafalapur village after a dispute over the removal of an Umaji Naik poster, leaving seven injured and damaging shops and vehicles.
 
-## CAS closing price under review: Sebi proposes 2 options for expiry settlement
-The Securities and Exchange Board of India (Sebi) is actively exploring modifications to how derivative settlement prices are calculated. Two alternative methods are currently up for review, inviting stakeholder feedback. These revisions aim to alleviate concerns related to the price from the closin
+## Rahul Gandhi, Priyanka meet Malaysian PM over breakfast amid ongoing BRICS Summit in Delhi
+The Congress shared pictures of Rahul Gandhi and Priyanka Gandhi from the breakfast meeting with Ibrahim on its social media handles.
 
-## Mamata reaches out to TMC veteran Akhil Giri as it weighs local face for Nandigram bypoll
-The move comes at a particularly difficult juncture for the TMC, which lost power to the BJP in the May assembly elections after 15 years in office.
+## Mamata Banerjee vs Ritabrata faction before ECI over TMC name, symbol and control
+With September 16 as the last date for filing nominations, both groups have urged the ECI poll panel to take a decision at the earliest.
 
-## ‘Those who keep changing names…’: Akhilesh, CJP, Cong target Yogi over ‘walking away’ from press conference
-CJP and SP posted videos of the alleged incident and claimed that the UP chief minister walked away while a reporter continued to ask him questions.
+## Cop stabbed, robbed of mobile and wallet by 4 masked men in Ambala, probe on
+The incident happened when the constable, Mukesh Kumar, who is posted in Gurugram, alighted from a three-wheeler near Central Jail.
 
-## ‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat
-Dipke visited Adori, Korka and Bondari villages to meet the families of tribal children who allegedly died due to infectious diseases.
+## 'Here, voices are heard’: PM Modi's BRICS message, with Xi, Putin by his side
+PM Modi said on Sunday BRICS has grown because here voices o countries are “heard”, experiences are respected, and "solutions are created with them”.
 
-## MCD demolishes 67 properties, seals 9 in 2 days after Satya Niketan PG collapse
-The civic body stepped up action on September 11 and 12, sealing the properties and taking other enforcement measures.
+## Global one-horned rhino population hits record 4,075; Assam has 80%, says minister
+The global population of greater one-horned rhinos has reached 4,075, with Assam home to nearly 80% of the species, including over 2,600 in Kaziranga.
 
-## ‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP
-Mayawati said if her brother Anand Kumar remains with her and needs assistance, he can seek help from his daughter, Kumari Deepika Anand.
+## 12th-century Telangana temple, lying in a state of neglect, gets national monument status
+The ASI has recognised Telangana’s neglected Gollala Gudi temple near Ramappa Temple as a monument of national importance, paving the way for conservation.
 
-## Two-state solution for Palestine, concerns over ‘unilateral tariff’: Highlights from BRICS New Delhi declaration
-The 45-page New Delhi Declaration expressed concerns about “the rise of unilateral tariffs” and backed a two-state solution to the Israeli-Palestinian conflict.
+## ‘I resign as CM’: CJP's Abhijeet Dipke takes dig at MP govt day after Balaghat heckling
+In the satirical letter, Dipke discussed what he called the “failures” of the state government, taking a dig at chief minister Mohan Yadav and his colleagues.
 
-## BRICS declaration: China, Russia back India, Brazil’s aspirations for greater UN role
-The declaration reiterated their support for the aspirations of Brazil and India to play a greater role in the UN, including its Security Council.
-
-## Brics agrees to establish AGRIN, continue work on grain trading platform
-The declaration also backed continued work on establishing a Brics Grain Exchange, with members agreeing to discuss its functioning and subsequent development.
+## Next-gen wealthy Hongkongers drop property for higher returns in deposits and hedge funds
+When Maria’s family moved out of their house in Hong Kong’s Southern district, one of the bigger jobs was packing her mother’s belongings, including the orange Hermes boxes that had accumulated in the family gym. Her 86-year-old father was reluctant to rent, while her mother – who had spent her life
 
 ## How AI tools are reshaping stock trading, investment research in China
 When Ryan Lei has an investment idea, he no longer has to spend days writing code and trawling through historical data to corroborate it. The 27-year-old quantitative trader in Hong Kong now delegates much of the grunt work to artificial intelligence. For a recent bet tied to a major technology init
@@ -128,9 +134,6 @@ Young Chinese investors may be just as willing to take risks as their global pee
 
 ## Ant to let AI agents shop via 10 digital wallets, from AlipayHK to Starryblu to KakaoPay
 Ant International, the overseas affiliate of Chinese fintech giant Ant Group, is making a major bid to power the next phase of mobile payments: letting autonomous artificial intelligence agents handle your electronic wallet to make purchases. The company on Friday open-sourced its Agentic Mobile Pro
-
-## Mainland Chinese investors to drive Hong Kong wealth boom despite new tax rules: report
-Hong Kong banks expect the contribution of mainland Chinese investors to the city’s wealth management business to continue to grow through 2030, presenting opportunities despite Beijing’s tightened cross-border tax rules. Mainland China’s share of local assets under management was projected to reach
 
 ## Why AfD Appeals to So Many Germans
 The far-right party surges in a regional election.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump says he would ‘love to see’ a united Ireland during Irish visit
-US President Donald Trump said he would ‘love to see’ a united Ireland.
+## 1,400 Yemenis flee to Djibouti within 24 hours
+Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.
 
-## Houthi projectile wounds two, damages mosque in Jazan region, Saudi says
-The Houthis claim their attack targeted a Saudi military base in Sharurah.
+## Wildfire rages on Croatia’s Dalmatian Coast island of Brac
+Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.
 
-## Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb
-Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.
+## One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says
+Rescuers continue searching for survivors as the government scales back operations in open waters.
 
-## Teen rescued after clinging to boat for two days off Alaska
-A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.
+## Yemen’s Houthis seize strategic Mayun Island in Red Sea
+Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait.
 
-## Death toll from Philippine ferry fire rises to 76
-The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing
+## ‘We started to plummet’: Turbulence rocks Turkish Airlines flight
+Video shows passengers screaming as turbulence rocked a Tunisia-bound Turkish Airlines flight.
 
-## Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga
-Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho after they lost their last league game.
+## Iraq seizes drone-launching platform used for targeting Saudi oil pipeline
+Saudi authorities trace the launch site to Maysan province in southeastern Iraq, near the Iranian border.
 
-## Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know
-Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.
+## Why Spain’s new Sahrawi citizenship law matters to Morocco
+The new citizenship bill for Sahrawis touches a sensitive fault line in Madrid’s ties with Rabat.
 
-## Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final
-The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 5-7, 6-2 win in New York as the new world No 1.
+## Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’
+Iranian President Masoud Pezeshkian said Tehran is not at war with Saudi Arabia.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
