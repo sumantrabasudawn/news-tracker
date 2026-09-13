@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## Gulf states postpone talks with Iran over Hormuz impasse
+Delay to crunch meeting because of lack of consensus sets back efforts to restore shipping through vital waterway
+
+## Michael Dell’s family office nears deal to take $4.1bn insurance broker private
+DFO Management in advanced talks with Baldwin Group as historically fragmented industry undergoes wave of consolidation
+
+## Trump rejects calls from tech bosses for AI slowdown
+President denounces demands for regulation as existential fears over technology move to the centre of US politics
+
+## Burnham promises a ‘culture shift’ in how Britain does business
+Prime minister to tell business leaders and entrepreneurs that his government will be a ‘partner for growth’
+
+## Trump scraps tariffs on Irish whiskey during visit to country
+The surprise move came a day after the US president stirred controversy by calling for Irish reunification
+
 ## Canada seeks Ukraine loan role to deepen EU ties
 Prime Minister Mark Carney to meet leaders in Europe this week as he tries to reduce his country’s dependence on the US
 
-## Trump calls on Ukraine to stop striking Russian diesel refineries
-US president says the attacks and not his war in Iran are responsible for the fuel hitting record highs
+## Trump calls on Ukraine to stop striking Russian oil refineries
+US president says the attacks and not his war in Iran are responsible for diesel hitting record highs
 
 ## Russians to vote, but the outcome is already decided
 First election for the Duma since the Ukraine invasion, inflation reports dominate the economic data run, and the Fed, BoE and BoJ make interest rate announcements
-
-## Rayner suggests political donations cap on table after Reform’s £72mn boost
-Debate rises up agenda again after record-breaking gifts given to Nigel Farage’s party
-
-## Russia strikes Ukraine train line moments after foreign dignitaries pass
-Train struck on route used by David Petraeus, Boris Johnson, Carl Bildt and other senior officials
-
-## Le Pen vows to put French citizens first in campaign launch
-Far-right candidate seeks to stamp her authority on her party after weeks of internal tensions
-
-## Donald Trump rejects calls from tech bosses for an AI slowdown
-President denounces demands for regulation as existential fears over technology move to the centre of US politics
-
-## EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules
-Summit pushed back until late November against backdrop of challenges facing UK industry
 
 ## PwC shakes up Indian operations as AI threat looms over consulting sector
 Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
@@ -38,12 +38,6 @@ Alaska LNG and Polar LNG face a series of financing, logistical and legal hurdle
 
 ## Submit a question: What do British businesses need from the Budget?
 Take part in a live Ask an Expert Q&A with John Gapper, the FT’s chief UK business columnist, on Thursday September 17 at 1pm BST
-
-## Boom-era PE funds will fall short on promises, executives warn
-Returns from funds launched during the frenzied period of 2019 to 2021 are likely to struggle to meet expectations
-
-## Sunderland football club looks to US post-industrial peers in bid to lift revenue
-Premier League team targets new fans in cities where its heritage resonates as tougher financial rules increase pressure to boost revenue
 
 ## Related parties of a personal guarantor would be assigned zero voting share on repayment plan: IBBI proposal
 In the wake of the aforementioned development, IBBI has planned four amendments, including exclusion of related parties of the guarantor from voting on the repayment plan; and recording of creditors’ deliberations on the repayment plan
@@ -117,6 +111,12 @@ The cops, while rejecting Jarange-Patil's formal request, cited potential securi
 ## Assam man, 23, held for rape, murder of woman over alleged affair: Police
 The officer said that victim’s body was sent to Assam Medical College and Hospital (AMCH), Dibrugarh for postmortem
 
+## Hong Kong aims to scale its tech ecosystem and nurture more unicorns: HKSTP CEO
+Hong Kong is intensifying efforts to attract technology start-ups and nurture unicorns through expanded financial support via a key government-backed platform, leveraging the city’s booming fundraising activities and world-class financial infrastructure. Investors are displaying an increased appetit
+
+## Veteran investor Fang Fenglei on why the China ‘investibility’ debate is no debate at all
+Over the past three decades, investor Fang Fenglei has had a major role in shaping China’s capital markets. He worked with Morgan Stanley in the early 1990s to help create the country’s first joint venture investment bank – China International Capital Corp. Then, at the start of the millennium, he s
+
 ## Why Chinese shoppers are ditching supermarkets for small ‘community stores’
 For Cindy Wang, the newly opened “community store” near her home in Guangzhou has been a godsend: the small outlet is cheaper than a traditional supermarket, but offers a bigger range of groceries than convenience stores like 7-Eleven. The 20-something now often stops off at the shop after work to p
 
@@ -134,12 +134,6 @@ Products widely considered “ugly” or “bizarre” have gone viral online in
 
 ## Private equity’s Fang Fenglei on investing in China, capital market reforms
 Over the past three decades, investor Fang Fenglei has had a major role in shaping China’s capital markets. He worked with Morgan Stanley in the early 1990s to help create the country’s first joint venture investment bank – China International Capital Corp. Then, at the start of the millennium, he s
-
-## ‘Key pillar’: the 5-year powerhouse plan for China’s car industry
-China is set to secure its place among the global automotive powerhouses by 2030 through further efforts to boost domestic sales and foster technological innovation, while a capacity alert mechanism will be introduced to guard against disorderly competition. The ambitious targets and actions are lai
-
-## Beijing freezes plant approvals for energy-storage batteries amid overcapacity fears
-Beijing has put a freeze on new approvals of production facilities for energy-storage batteries amid worries about excess supply and vicious price competition, according to industry officials. Companies had not been allowed to add new capacity since May, as key regulators like the Ministry of Indust
 
 ## Why AfD Appeals to So Many Germans
 The far-right party surges in a regional election.
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Zverev defeats Shelton in four sets to win his first US Open title
+Germany's Alexander Zverev beats American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 to win the men's singles title in New York.
+
+## Could AI really kill us within a decade?
+AI companies are warning that their technology could wipe out humanity.
+
+## Barcelona beat Levante as Yamal scores twice to maintain perfect start
+Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante.
+
+## Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles
+The Americans won the 100m and 200m at the Ultimate Championship that saw elite athletes win $150,000 each.
+
+## Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body
+Erling Haaland's derby winner against Manchester United should not have stood, Premier League referees' body admits.
+
+## Tehran and Muscat delay talks, citing regional consensus need
+Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.
+
 ## A third person has died of measles in the US, health officials say
 Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.
 
 ## USA defeat France to win 12th FIBA Women’s Basketball World Cup
 Breanna Stewart leads comeback win for the record champions despite France's early lead in the Berlin final.
-
-## Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border
-Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.
-
-## Pro-Palestine protest demands Australia increases pressure on Israel
-A pro-Palestine protest in Sydney demanded that the Australian government take further action and implement on Israel.
-
-## Jerusalem Daily: Pregnant woman killed in Gaza
-Israeli forces kill a pregnant Palestinian woman in Gaza and settler pogroms intensify across the occupied West Bank.
-
-## Can a warming Arctic become an important commercial highway?
-The conflict in the Middle East raises security concerns about traditional shipping routes.
-
-## India win Women’s Asia Cup but do not accept trophy
-India were not present at the trophy ceremony, which was led by Pakistani Interior Minister and ACC President Naqvi.
-
-## US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’
-Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated'
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
