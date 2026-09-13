@@ -1,22 +1,34 @@
 # AION Intelligence
 
+## Russia strikes Ukraine train line moments after foreign dignitaries pass
+Train struck on route used by David Petraeus, Boris Johnson, Carl Bildt and other senior officials
+
+## Le Pen vows to put French citizens first in campaign launch
+Far-right candidate seeks to stamp her authority on her party after weeks of internal tensions
+
+## Donald Trump rejects calls from tech bosses for an AI slowdown
+President denounces demands for regulation as existential fears over technology move to the centre of US politics
+
+## EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules
+Summit pushed back until late November against backdrop of challenges facing UK industry
+
+## Rayner suggests political donations cap on table after Reform’s £72mn boost
+Debate rises up agenda again after record-breaking gifts given to Nigel Farage’s party
+
+## Saudi pipeline attack exposes potent Iraqi militia threat
+Baghdad is seeking to reduce the power of Tehran-linked forces accused of striking pipeline
+
+## The calculated desperation of Trump-a-palooza
+Whatever happens in midterm elections, the president wants the world to know that he is the only person who matters in the Republican Party
+
 ## Why teenagers are doing worse at school
 Falling global test scores underscore the importance of core knowledge, attention and mindset
 
-## Will the Fed defy Trump and raise rates?
-Market Questions is the FT’s guide to the week ahead
-
-## ‘Trumpism’ spawns rare unity at Brics summit
-Historically unruly bloc finds easy consensus amid worries over Gulf war, tariffs and US sanctions
-
-## Brazil banking scandal engulfs Supreme Court
-Bitter feud between justices has plunged top court into an unprecedented crisis that could sway October’s presidential vote
+## PwC shakes up Indian operations as AI threat looms over consulting sector
+Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
 
 ## GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals
 Acquisition of Sofie Biosciences is second big purchase for medical imaging specialist after split from General Electric
-
-## Texas puts a brake on its data centre boom
-State’s leaders slow approvals for new projects as a public backlash threatens to derail their midterm hopes
 
 ## The coming robotaxi revolution
 Self-driving cars could transform urban transport, if they can win public trust
@@ -27,9 +39,6 @@ Alaska LNG and Polar LNG face a series of financing, logistical and legal hurdle
 ## Submit a question: What do British businesses need from the Budget?
 Take part in a live Ask an Expert Q&A with John Gapper, the FT’s chief UK business columnist, on Thursday September 17 at 1pm BST
 
-## PwC shakes up Indian operations as AI threat looms over consulting sector
-Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
-
 ## Boom-era PE funds will fall short on promises, executives warn
 Returns from funds launched during the frenzied period of 2019 to 2021 are likely to struggle to meet expectations
 
@@ -39,29 +48,41 @@ Premier League team targets new fans in cities where its heritage resonates as t
 ## How Russia’s new drones are changing the air war
 Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation
 
-## Nepal flood leads to estimated $4.7 bn recovery and reconstruction needs: govt report
-Recovery needs include reconstruction as well as disaster-risk reduction and resilience measures, Nepal’s National Disaster Risk Reduction and Management Authority says
+## Bharucha, Balasubramanian believed to be in race for top position at HDFC Bank
+The Board’s move to find a replacement for Jagdishan follows his late August decision to not seek his re-appointment as the MD & CEO of the Bank.
 
-## Aviation minister Naidu outlines larger transformation plan for Chennai Airport
-The plan includes Terminal 5 to take the total annual capacity to 55 million in future
+## Tata Sons listing to unlock ₹1.20-lakh crore value for seven group companies
+At the market estimated value of ₹10 lakh crore of Tata Sons, the stake of Tata Steel and Tata Motors PV in Tata Sons will be valued at ₹30,600 crore each
 
-## India, Uzbekistan discuss strengthening economic, financial cooperation in key areas
-The two sides exchange views on areas of mutual interest and exploring avenues to further strengthen economic and financial ties
+## SEBI weighs two options for derivatives settlement, closing auction timings
+Regulator proposes blending VWAP and closing auction prices, or retaining the old method for at least a year
 
-## India's semiconductor sector draws $1.4 bn funding, half of it since 2025
-India is home to 3,557 companies in the sector, of which 142 have raised equity funding, out of 281 funded companies
+## Coal supply to Punjab power plants remains adequate, state needs to improve offtake from mines, says ministry
+Adequate coal is available to Punjab's power plants, Coal India Limited (CIL) remains fully committed to ensuring uninterrupted fuel supply for power generation across the country, including in Punjab
 
-## Eliminating non-tariff barriers, smooth payment mechanism key to boosting BRICS trade: EEPC India
-EEPC India Chairman Pankaj Chadha says an agreement on non-tariff barriers between BRICS nations is the need of the hour
+## The AI slowdown debate picks speed
+Why "Pacing the Frontier AI” may open the door for China and India
 
-## Indians should control lab-grown diamond ecosystem: Amit Shah
-India's gems and jewellery trade with the world spans almost 6,000 years, Shah says
+## SAP’s three Rs: Building responsible, relevant and reliable AI for enterprises
+The adoption and consumption of AI will keep increasing dramatically year on year, says Manish Prasad, President & Managing Director - SAP Indian Subcontinent, SAP India
 
-## Amodei, Altman, Musk call for slowing AI model development
-Following Anthropic CEO’s post on new safety regulations, OpenAI chief Sam Altman pledged to adopt Amodei’s suggestion of “independent evaluators with employee-like access,” while Elon Musk, who runs xAI Corp, wrote, “Dario is right.”
+## Tata Sons board to discuss RBI’s listing mandate on Thursday
+While a writ petition against the RBI’s action is possible, lawyers point that a court is unlikely to substitute it’s view for RBI’s on matters of financial sector regulation.
 
-## NSE IPO proceeds to aid Oriental Insurance turn corner in FY27: CMD on stake dilution
-Oriental Insurance Company Ltd holds 3.52 crore shares in NSE, as of June 30, 2026, out of which about 49.57 lakh shares have been put on offer
+## Editorial. BRICS and gaps
+New Delhi meet showcases potential and chinks
+
+## Fed, crude, dollar and Iran war: 4 factors that could move gold next week
+Gold and silver prices are expected to remain volatile next week. The US Federal Reserve's interest rate decision will be a key global event. Crude oil movements and the US dollar will also influence market sentiment. Other central banks' monetary policy and inflation data will be closely watched. G
+
+## Stock market holiday: Are NSE, BSE closed for trading on Ganesh Chaturthi?
+On September 14, stock markets will halt trading in observance of Ganesh Chaturthi. While equity derivatives will remain suspended for the day, the commodity market will only partially close during the morning session. Trading will pick back up in the evening session. Investors should keep these adj
+
+## Bank holiday on Ganesh Chaturthi: Where are banks closed on September 14? Check state-wise list
+On September 14, banks in various Indian states will shut down in observance of Ganesh Chaturthi. It's important for customers to check their specific branch's holiday hours, as additional regional holidays may also affect bank operations throughout the month. However, ATMs and online banking will s
+
+## India completes its 2,843 km Dedicated Freight Corridor network; why it’s a game-changer for railways
+India's Dedicated Freight Corridor project has finally reached a milestone that was years in the making. With the commissioning of the last remaining sections of the Western Dedicated Freight Corridor, the country's 2,843-km dedicated freight network is now fully operational.
 
 ## India’s semiconductor sector attracts $1.4 billion in funding across 281 companies
 India's semiconductor sector has attracted $1.4 billion in equity funding across many companies. Nearly half of this investment occurred since 2025, showing rapid growth. The nation is preparing to host SEMICON India 2026, a major industry event. Bengaluru leads as the primary semiconductor hub, att
@@ -75,41 +96,29 @@ Dalal Street is gearing up for a condensed trading week, with investors keenly a
 ## India supplies 70% of Russia’s record fuel imports as Ukrainian drones hit refineries
 In August, India became Russia's largest supplier of fuel amidst significant disruptions to Russia's domestic production caused by drone attacks from Ukraine. Remarkably, India accounted for seventy percent of the fuel imported by Russia during this period. Concurrently, Russia's oil product exports
 
-## India’s gem exports rise 3.14% in August as studded gold jewellery shipments surge
-India's gem and jewellery exports saw a 3.14% increase in August, reaching $2.30 billion. This growth was primarily fueled by a significant rise in studded gold jewellery shipments. Diamond export volumes also contributed positively to the overall export performance during the month. Plain gold jewe
+## Assam man, 23, held for rape, murder of woman over alleged affair: Police
+The officer said that victim’s body was sent to Assam Medical College and Hospital (AMCH), Dibrugarh for postmortem
 
-## Brics 2026: Piyush Goyal hails unanimous adoption of New Delhi Declaration
-At the latest summit, BRICS leaders unanimously endorsed the New Delhi Declaration, marking a significant step toward a resilient strategic partnership. This declaration focuses on fostering cooperation in emerging technologies and strengthening digital infrastructure. Additionally, it aims to bolst
+## NEET to move to computer-based test ‘very soon’, says NTA DG: ‘It’s the future'
+NTA director general Abhishek Singh said the Nandan Nilekani-led high-powered task force was “working on it.”
 
-## HDFC Bank sends names of 2 CEO candidates to RBI
-HDFC Bank has presented two candidates to the RBI for the upcoming role of managing director and CEO. The board has also sanctioned the promotion of Jimmy Tata to executive director while seeking an extension for V Srinivasa Rangan. This move will elevate the count of whole-time directors to four, e
+## India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued
+Thirteen other Indian seafarers who were part of the crew of MT El Gaia were rescued following the attack off the coast of Oman
 
-## RBI rejects Tata Sons' bid to stay private, directs listing
-Tata Sons' bid to relinquish its core investment company registration has been turned down by the Reserve Bank of India, pushing the Tata Group's holding firm nearer to a public stock offering. Tata Trusts, the majority owner, aims to preserve the company's private nature for sustained stewardship. 
+## Mamata Banerjee-led TMC announces candidates for Bengal, Assam bypolls
+Sanchita Pradhan (Dey) and Rabiul Alam Chowdhury will contest the Nandigram and Rejinagar seats respectively, TMC announced on Sunday.
 
-## Book Box | Inside Hammock: Literary magazine in an AI age
-Founding editor Abhay Puri, a South Asia Speaks Fellow, counts Granta and The Stinging Fly as his literary magazine favorites.
+## AI 1980s photo trend: From privacy to climate impact, 3 things to consider before joining in
+Data centres for AI storage significantly impact local climates and require vast amounts of water, exacerbating shortages in already stressed areas.
 
-## UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks
-“I am confident that we will implement the UCC in all 21 states governed by the BJP-led NDA before 2029...” Shah said on Sunday.
+## AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 polls
+In 2022 legislative assembly elections the AAP won 6.77% of the vote and two seats while the Goa Forward Party won 1.78% of the vote
 
-## China will lead creation of open source AI for Brics: Xi Jinping
-The AI initiative was among five trade and technology related proposals unveiled by Xi at the outreach session of the Brics Summit
+## Over 20 feared trapped after bus plunges 30 feet into Tamil Nadu river
+There were 32 passengers on board the bus, of whom more than 20 were feared trapped inside following the accident.
 
-## Just Like That: Health consciousness, or health obsession?
-Health awareness is rising, but experts warn that tracking calories, sleep and fitness can become an unhealthy obsession rather than a balanced lifestyle.
-
-## Delhi cop removed from BRICS duty after his posts on weapons, security videos go viral
-The video sparked criticism online, with viewers questioning the appropriateness of posting such footage during a high-security international event
-
-## West Bengal government orders closure of 252 madrassas, sends show-cause notice to 100
-Minority Affairs and Madrasah Education Department Minister Kshudiram Tudu said madrassas that have requisite approvals will continue to function.
-
-## Congress leader Ghulam Mir welcomes BRICS condemnation of Pahalgam terror attack, questions 'red carpet' for China
-Mir said China had martyred our soldiers in Galwan and encroached upon territory in Ladakh and Arunachal Pradesh.
-
-## DMK slams CM Vijay's official trip to UK: 'Gone to see car race of friend Ajith'; TVK defends with ‘Brand Tamil Nadu’
-The DMK criticised Vijay’s UK visit after he attended Ajith Kumar’s Silverstone race, while the TVK defended their meeting as part of Brand Tamil Nadu.
+## 15 bilaterals, 3 days: PM Modi's jam-packed schedule during BRICS Summit
+PM Modi's schedule also went beyond the bilateral meetings. He proposed a 45-page New Delhi Declaration, which received the unanimous approval of all members.
 
 ## Why Chinese shoppers are ditching supermarkets for small ‘community stores’
 For Cindy Wang, the newly opened “community store” near her home in Guangzhou has been a godsend: the small outlet is cheaper than a traditional supermarket, but offers a bigger range of groceries than convenience stores like 7-Eleven. The 20-something now often stops off at the shop after work to p
@@ -231,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India vs Sri Lanka live: Asia Cup final
-Follow our live build-up, team news, predictions, scores, photos and text commentary stream from the final in Dubai.
+## Ukrainian drone evades Russian helicopter fire to strike oil tanker
+Ukraine has released footage showing a drone evading fire from a Russian helicopter before striking a Russian oil tanker
 
-## BRICS summit 2026: What are the key takeaways?
-The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.
+## Kosovo approves new government after months of political deadlock
+A newly approved government offers Kosovo only brief respite before a contentious presidential vote.
 
-## A dignified life is a ‘distant dream’ for many Iranian families amid US war
-With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.
+## F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out
+The 20-year-old Italian has extended his championship lead to 81 points after 14 rounds.
 
-## Philippines set for historic vote in Bangsamoro after decades of conflict
-Philippines set for historic vote in Bangsamoro after decades of conflict
+## Six killed, 130 missing after Indonesian passenger ship capsizes
+Six people have been killed and 130 remain missing after a passenger ship capsized in the Java Sea off Indonesia.
 
-## Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
-Government forces and Saudi Arabia carry out air attacks to stop Houthis' advance as thousands displaced by conflict.
+## World leaders gather in New Delhi for final day of BRICS summit
+BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.
 
-## Israeli attack on Gaza kills two Palestinians
-Israeli strikes on Palestinian territory persist despite a 'ceasefire' brokered by the United States.
+## As Chavez and Maduro images disappear, is Venezuela entering a new chapter?
+As part of Delcy Rodriguez's 'Venezuela reborn' campaign, murals of leaders like Hugo Chavez are being removed.
 
-## A kingdom within a republic: Inside Uganda’s Buganda
-The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.
+## What are the five pros and cons of artificial intelligence?
+AI creates new opportunities in programming and automation, but experts warn of risks to early-career workers.
 
-## Niger military government reshuffles army command weeks after deadly mutiny
-New chief of staff appointed after failed mutiny tested military rulers' grip on power.
+## Red Sea nations watch as Houthis seize Bab al-Mandeb strait
+Houthi control of Bab al-Mandeb chokes Suez Canal revenues, triggers refugee flows, and exposes regional security gaps.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
