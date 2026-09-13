@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## How Russia’s new drones are changing the air war
-Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation
+## Why teenagers are doing worse at school
+Falling global test scores underscore the importance of core knowledge, attention and mindset
 
-## As Europe’s memory fades, radicalism is returning
-For younger voters, both communism and fascism belong to a distant past that no longer defines their political choices
+## Will the Fed defy Trump and raise rates?
+Market Questions is the FT’s guide to the week ahead
 
-## Paris and Beirut push to extend UN peacekeepers’ mission in Lebanon
-Drive to extend mandate comes as Israel occupies large area of country’s south and Hizbollah refuses to disarm
+## ‘Trumpism’ spawns rare unity at Brics summit
+Historically unruly bloc finds easy consensus amid worries over Gulf war, tariffs and US sanctions
 
-## Why Britain’s super-rich are looking for the exit
-Tax rises, political instability — and the fear of worse to come — are forcing the UK’s wealthiest residents to reconsider their future in the country
+## Brazil banking scandal engulfs Supreme Court
+Bitter feud between justices has plunged top court into an unprecedented crisis that could sway October’s presidential vote
 
-## Musk’s secretive backer builds $40bn SpaceX stake
-Low-profile venture capital firm Vy Capital has emerged as one of the rocket maker’s largest shareholders
+## GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals
+Acquisition of Sofie Biosciences is second big purchase for medical imaging specialist after split from General Electric
 
-## German military start-up seeks carmakers’ help to re-arm Europe
-ARX Robotics wants to ‘access industry muscle we already have’ to meet soaring demand for unmanned military vehicles
+## Texas puts a brake on its data centre boom
+State’s leaders slow approvals for new projects as a public backlash threatens to derail their midterm hopes
 
-## GP data quietly added to Palantir’s NHS data platform
-Pilot marks significant expansion of the controversial software beyond its current use in hospitals
+## The coming robotaxi revolution
+Self-driving cars could transform urban transport, if they can win public trust
 
-## US pressure on development banks to scrap climate finance goals
-Multilateral lenders expected to follow the World Bank in ditching lending targets
+## Trump’s vision of Alaska as LNG superpower confronts an $80bn test
+Alaska LNG and Polar LNG face a series of financing, logistical and legal hurdles to tap massive gasfields
+
+## Submit a question: What do British businesses need from the Budget?
+Take part in a live Ask an Expert Q&A with John Gapper, the FT’s chief UK business columnist, on Thursday September 17 at 1pm BST
 
 ## PwC shakes up Indian operations as AI threat looms over consulting sector
 Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
@@ -33,35 +36,44 @@ Returns from funds launched during the frenzied period of 2019 to 2021 are likel
 ## Sunderland football club looks to US post-industrial peers in bid to lift revenue
 Premier League team targets new fans in cities where its heritage resonates as tougher financial rules increase pressure to boost revenue
 
-## CVC faces shareholder revolt over €10.7bn Recordati take-private
-Investors accuse private equity group of pressuring them into selling at ‘lowball’ price
+## How Russia’s new drones are changing the air war
+Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation
 
-## How to find a leader in 2026
-Four top headhunters reveal what boards are looking for now and the role of AI
+## Nepal flood leads to estimated $4.7 bn recovery and reconstruction needs: govt report
+Recovery needs include reconstruction as well as disaster-risk reduction and resilience measures, Nepal’s National Disaster Risk Reduction and Management Authority says
 
-## Syngenta joins hands with IIT Ropar, Annam.ai to create AI solutions for farmers
-The three organisations collaborated to hold HACKCORE 2026 to develop cutting-edge, tech-drive solutions; Team SeedCoders walks away with honours
+## Aviation minister Naidu outlines larger transformation plan for Chennai Airport
+The plan includes Terminal 5 to take the total annual capacity to 55 million in future
 
-## F&O Query: Analysis of SBI and Trent futures
-Outlook for State Bank of India and Trent
+## India, Uzbekistan discuss strengthening economic, financial cooperation in key areas
+The two sides exchange views on areas of mutual interest and exploring avenues to further strengthen economic and financial ties
 
-## F&O Strategy: Buy Titan Company futures
+## India's semiconductor sector draws $1.4 bn funding, half of it since 2025
+India is home to 3,557 companies in the sector, of which 142 have raised equity funding, out of 281 funded companies
 
+## Eliminating non-tariff barriers, smooth payment mechanism key to boosting BRICS trade: EEPC India
+EEPC India Chairman Pankaj Chadha says an agreement on non-tariff barriers between BRICS nations is the need of the hour
 
-## F&O Query: Analysis of Trent futures and options
+## Indians should control lab-grown diamond ecosystem: Amit Shah
+India's gems and jewellery trade with the world spans almost 6,000 years, Shah says
 
+## Amodei, Altman, Musk call for slowing AI model development
+Following Anthropic CEO’s post on new safety regulations, OpenAI chief Sam Altman pledged to adopt Amodei’s suggestion of “independent evaluators with employee-like access,” while Elon Musk, who runs xAI Corp, wrote, “Dario is right.”
 
-## Nifty 50 prediction for the week: Vulnerable to fall more
-Resistance can cap the upside in the benchmark indices
+## NSE IPO proceeds to aid Oriental Insurance turn corner in FY27: CMD on stake dilution
+Oriental Insurance Company Ltd holds 3.52 crore shares in NSE, as of June 30, 2026, out of which about 49.57 lakh shares have been put on offer
 
-## SML Ltd weighing IPO within 2 to 3 years, eyes new chemical entity pipeline
-Mumbai-based SML Ltd said it is among a handful of Indian companies developing NCEs — proprietary new molecules rather than generic formulations — with one new molecule expected to reach the market soon and others in the pipeline.
+## India’s semiconductor sector attracts $1.4 billion in funding across 281 companies
+India's semiconductor sector has attracted $1.4 billion in equity funding across many companies. Nearly half of this investment occurred since 2025, showing rapid growth. The nation is preparing to host SEMICON India 2026, a major industry event. Bengaluru leads as the primary semiconductor hub, att
 
-## FPIs withdraw ₹13,138 crore from equities in Sep so far amid global uncertainty
-The latest outflow comes after Foreign Portfolio Investors (FPIs) turned net buyers in July and August, infusing ₹20,200 crore and ₹29,630 crore, respectively
+## FPIs turn sellers again: Rs 13,138 crore pulled out of Indian equities
+In 2023, foreign portfolio investors have pulled out an astonishing Rs 2.37 lakh crore from Indian equities. The latest round of selling experienced in early September is attributed to global uncertainties and increasing US bond yields. Rising crude oil prices, driven by heightened geopolitical tens
 
-## Russia imports record fuel from India as Ukraine strikes hit refineries
-As Ukraine’s drone strikes hit Russia’s refining capabilities, India becomes a key supplier of refined oil products, reflecting the changing dynamics of global energy trade amid rising geopolitical tensions.
+## Stock market outlook: Fed, crude prices and more to guide Dalal Street this week
+Dalal Street is gearing up for a condensed trading week, with investors keenly awaiting pivotal global and domestic data. The focus will be on the US Federal Reserve's interest rate decision and outlook on policy. Domestic inflation trends and fluctuations in crude oil prices will influence market d
+
+## India supplies 70% of Russia’s record fuel imports as Ukrainian drones hit refineries
+In August, India became Russia's largest supplier of fuel amidst significant disruptions to Russia's domestic production caused by drone attacks from Ukraine. Remarkably, India accounted for seventy percent of the fuel imported by Russia during this period. Concurrently, Russia's oil product exports
 
 ## India’s gem exports rise 3.14% in August as studded gold jewellery shipments surge
 India's gem and jewellery exports saw a 3.14% increase in August, reaching $2.30 billion. This growth was primarily fueled by a significant rise in studded gold jewellery shipments. Diamond export volumes also contributed positively to the overall export performance during the month. Plain gold jewe
@@ -75,41 +87,35 @@ HDFC Bank has presented two candidates to the RBI for the upcoming role of manag
 ## RBI rejects Tata Sons' bid to stay private, directs listing
 Tata Sons' bid to relinquish its core investment company registration has been turned down by the Reserve Bank of India, pushing the Tata Group's holding firm nearer to a public stock offering. Tata Trusts, the majority owner, aims to preserve the company's private nature for sustained stewardship. 
 
-## Sebi for changes to CAS timing, derivatives settlement prices
-Sebi has put forth new proposals aimed at modifying the Closing Auction Session timings and derivatives pricing. Following the recent launch of the session, traders have noted an uptick in market volatility. The regulator is evaluating two potential options for determining derivative settlement pric
+## Book Box | Inside Hammock: Literary magazine in an AI age
+Founding editor Abhay Puri, a South Asia Speaks Fellow, counts Granta and The Stinging Fly as his literary magazine favorites.
 
-## Brics nations to have a common currency? Here’s what MEA said
-Brics nations are discussing local currency trade settlements to reduce transaction costs. There is currently no proposal for a common Brics currency among member states. This initiative aims to complement existing global payment systems and improve trade efficiency. Leaders also addressed trade bar
+## UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks
+“I am confident that we will implement the UCC in all 21 states governed by the BJP-led NDA before 2029...” Shah said on Sunday.
 
-## Canada 'wants to make a deal very badly,' says Donald Trump
-President Trump stated Canada desires a trade deal soon and wants farmers treated better. He also expressed a wish for Ireland to be unified eventually. Trump met with Irish Prime Minister Micheal Martin and President Catherine Connolly. The visit included engagements and a stop at his golf resort. 
+## China will lead creation of open source AI for Brics: Xi Jinping
+The AI initiative was among five trade and technology related proposals unveiled by Xi at the outreach session of the Brics Summit
 
-## Zomato introduces additional fee for cash-on-delivery orders
+## Just Like That: Health consciousness, or health obsession?
+Health awareness is rising, but experts warn that tracking calories, sleep and fitness can become an unhealthy obsession rather than a balanced lifestyle.
 
+## Delhi cop removed from BRICS duty after his posts on weapons, security videos go viral
+The video sparked criticism online, with viewers questioning the appropriateness of posting such footage during a high-security international event
 
-## Maharashtra: Sangli poster row turns violent, 7 injured; shops, vehicles damaged
-The clash erupted in Dafalapur village after a dispute over the removal of an Umaji Naik poster, leaving seven injured and damaging shops and vehicles.
+## West Bengal government orders closure of 252 madrassas, sends show-cause notice to 100
+Minority Affairs and Madrasah Education Department Minister Kshudiram Tudu said madrassas that have requisite approvals will continue to function.
 
-## Rahul Gandhi, Priyanka meet Malaysian PM over breakfast amid ongoing BRICS Summit in Delhi
-The Congress shared pictures of Rahul Gandhi and Priyanka Gandhi from the breakfast meeting with Ibrahim on its social media handles.
+## Congress leader Ghulam Mir welcomes BRICS condemnation of Pahalgam terror attack, questions 'red carpet' for China
+Mir said China had martyred our soldiers in Galwan and encroached upon territory in Ladakh and Arunachal Pradesh.
 
-## Mamata Banerjee vs Ritabrata faction before ECI over TMC name, symbol and control
-With September 16 as the last date for filing nominations, both groups have urged the ECI poll panel to take a decision at the earliest.
+## DMK slams CM Vijay's official trip to UK: 'Gone to see car race of friend Ajith'; TVK defends with ‘Brand Tamil Nadu’
+The DMK criticised Vijay’s UK visit after he attended Ajith Kumar’s Silverstone race, while the TVK defended their meeting as part of Brand Tamil Nadu.
 
-## Cop stabbed, robbed of mobile and wallet by 4 masked men in Ambala, probe on
-The incident happened when the constable, Mukesh Kumar, who is posted in Gurugram, alighted from a three-wheeler near Central Jail.
+## Why Chinese shoppers are ditching supermarkets for small ‘community stores’
+For Cindy Wang, the newly opened “community store” near her home in Guangzhou has been a godsend: the small outlet is cheaper than a traditional supermarket, but offers a bigger range of groceries than convenience stores like 7-Eleven. The 20-something now often stops off at the shop after work to p
 
-## 'Here, voices are heard’: PM Modi's BRICS message, with Xi, Putin by his side
-PM Modi said on Sunday BRICS has grown because here voices o countries are “heard”, experiences are respected, and "solutions are created with them”.
-
-## Global one-horned rhino population hits record 4,075; Assam has 80%, says minister
-The global population of greater one-horned rhinos has reached 4,075, with Assam home to nearly 80% of the species, including over 2,600 in Kaziranga.
-
-## 12th-century Telangana temple, lying in a state of neglect, gets national monument status
-The ASI has recognised Telangana’s neglected Gollala Gudi temple near Ramappa Temple as a monument of national importance, paving the way for conservation.
-
-## ‘I resign as CM’: CJP's Abhijeet Dipke takes dig at MP govt day after Balaghat heckling
-In the satirical letter, Dipke discussed what he called the “failures” of the state government, taking a dig at chief minister Mohan Yadav and his colleagues.
+## Rise and fall of Hong Kong’s ‘shop kings’: how plunging rents, debt crushed their empires
+They were the “shop kings” of Hong Kong, owning dozens of properties in the same district and even the same street. But over the past few years many of these landlords have gone bankrupt, hit by the collapse in post-pandemic rents and tighter bank lending. Shop prices in the city have fallen more th
 
 ## Next-gen wealthy Hongkongers drop property for higher returns in deposits and hedge funds
 When Maria’s family moved out of their house in Hong Kong’s Southern district, one of the bigger jobs was packing her mother’s belongings, including the orange Hermes boxes that had accumulated in the family gym. Her 86-year-old father was reluctant to rent, while her mother – who had spent her life
@@ -128,12 +134,6 @@ China is set to secure its place among the global automotive powerhouses by 2030
 
 ## Beijing freezes plant approvals for energy-storage batteries amid overcapacity fears
 Beijing has put a freeze on new approvals of production facilities for energy-storage batteries amid worries about excess supply and vicious price competition, according to industry officials. Companies had not been allowed to add new capacity since May, as key regulators like the Ministry of Indust
-
-## China’s young investors embrace risk. Why are their portfolios so safe?
-Young Chinese investors may be just as willing to take risks as their global peers, but their portfolios remain more conservative against a backdrop of years of relative underperformance in China’s stock market, a prolonged property downturn and deflation, according to a senior researcher at the CFA
-
-## Ant to let AI agents shop via 10 digital wallets, from AlipayHK to Starryblu to KakaoPay
-Ant International, the overseas affiliate of Chinese fintech giant Ant Group, is making a major bid to power the next phase of mobile payments: letting autonomous artificial intelligence agents handle your electronic wallet to make purchases. The company on Friday open-sourced its Agentic Mobile Pro
 
 ## Why AfD Appeals to So Many Germans
 The far-right party surges in a regional election.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## 1,400 Yemenis flee to Djibouti within 24 hours
-Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.
+## India vs Sri Lanka live: Asia Cup final
+Follow our live build-up, team news, predictions, scores, photos and text commentary stream from the final in Dubai.
 
-## Wildfire rages on Croatia’s Dalmatian Coast island of Brac
-Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.
+## BRICS summit 2026: What are the key takeaways?
+The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.
 
-## One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says
-Rescuers continue searching for survivors as the government scales back operations in open waters.
+## A dignified life is a ‘distant dream’ for many Iranian families amid US war
+With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.
 
-## Yemen’s Houthis seize strategic Mayun Island in Red Sea
-Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait.
+## Philippines set for historic vote in Bangsamoro after decades of conflict
+Philippines set for historic vote in Bangsamoro after decades of conflict
 
-## ‘We started to plummet’: Turbulence rocks Turkish Airlines flight
-Video shows passengers screaming as turbulence rocked a Tunisia-bound Turkish Airlines flight.
+## Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
+Government forces and Saudi Arabia carry out air attacks to stop Houthis' advance as thousands displaced by conflict.
 
-## Iraq seizes drone-launching platform used for targeting Saudi oil pipeline
-Saudi authorities trace the launch site to Maysan province in southeastern Iraq, near the Iranian border.
+## Israeli attack on Gaza kills two Palestinians
+Israeli strikes on Palestinian territory persist despite a 'ceasefire' brokered by the United States.
 
-## Why Spain’s new Sahrawi citizenship law matters to Morocco
-The new citizenship bill for Sahrawis touches a sensitive fault line in Madrid’s ties with Rabat.
+## A kingdom within a republic: Inside Uganda’s Buganda
+The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.
 
-## Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’
-Iranian President Masoud Pezeshkian said Tehran is not at war with Saudi Arabia.
+## Niger military government reshuffles army command weeks after deadly mutiny
+New chief of staff appointed after failed mutiny tested military rulers' grip on power.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
