@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Canada seeks Ukraine loan role to deepen EU ties
+Prime Minister Mark Carney to meet leaders in Europe this week as he tries to reduce his country’s dependence on the US
+
+## Russians to vote, but the outcome is already decided
+First election for the Duma since the Ukraine invasion, inflation reports dominate the economic data run, and the Fed, BoE and BoJ make interest rate announcements
+
+## Rayner suggests political donations cap on table after Reform’s £72mn boost
+Debate rises up agenda again after record-breaking gifts given to Nigel Farage’s party
+
 ## Russia strikes Ukraine train line moments after foreign dignitaries pass
 Train struck on route used by David Petraeus, Boris Johnson, Carl Bildt and other senior officials
 
@@ -12,17 +21,8 @@ President denounces demands for regulation as existential fears over technology 
 ## EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules
 Summit pushed back until late November against backdrop of challenges facing UK industry
 
-## Rayner suggests political donations cap on table after Reform’s £72mn boost
-Debate rises up agenda again after record-breaking gifts given to Nigel Farage’s party
-
 ## Saudi pipeline attack exposes potent Iraqi militia threat
 Baghdad is seeking to reduce the power of Tehran-linked forces accused of striking pipeline
-
-## The calculated desperation of Trump-a-palooza
-Whatever happens in midterm elections, the president wants the world to know that he is the only person who matters in the Republican Party
-
-## Why teenagers are doing worse at school
-Falling global test scores underscore the importance of core knowledge, attention and mindset
 
 ## PwC shakes up Indian operations as AI threat looms over consulting sector
 Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
@@ -48,6 +48,9 @@ Premier League team targets new fans in cities where its heritage resonates as t
 ## How Russia’s new drones are changing the air war
 Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation
 
+## Related parties of a personal guarantor would be assigned zero voting share on repayment plan: IBBI proposal
+In the wake of the aforementioned development, IBBI has planned four amendments, including exclusion of related parties of the guarantor from voting on the repayment plan; and recording of creditors’ deliberations on the repayment plan
+
 ## Bharucha, Balasubramanian believed to be in race for top position at HDFC Bank
 The Board’s move to find a replacement for Jagdishan follows his late August decision to not seek his re-appointment as the MD & CEO of the Bank.
 
@@ -68,9 +71,6 @@ The adoption and consumption of AI will keep increasing dramatically year on yea
 
 ## Tata Sons board to discuss RBI’s listing mandate on Thursday
 While a writ petition against the RBI’s action is possible, lawyers point that a court is unlikely to substitute it’s view for RBI’s on matters of financial sector regulation.
-
-## Editorial. BRICS and gaps
-New Delhi meet showcases potential and chinks
 
 ## Fed, crude, dollar and Iran war: 4 factors that could move gold next week
 Gold and silver prices are expected to remain volatile next week. The US Federal Reserve's interest rate decision will be a key global event. Crude oil movements and the US dollar will also influence market sentiment. Other central banks' monetary policy and inflation data will be closely watched. G
@@ -96,6 +96,18 @@ Dalal Street is gearing up for a condensed trading week, with investors keenly a
 ## India supplies 70% of Russia’s record fuel imports as Ukrainian drones hit refineries
 In August, India became Russia's largest supplier of fuel amidst significant disruptions to Russia's domestic production caused by drone attacks from Ukraine. Remarkably, India accounted for seventy percent of the fuel imported by Russia during this period. Concurrently, Russia's oil product exports
 
+## Brigadier Mishra gets Royal College Fellowship for contributions to ophthalmology
+Brigadier Sanjay Kumar Mishra and his team of ophthalmologists have held several eye camps in the country’s remote areas to provide cutting-edge surgical care.
+
+## Bangladesh wants to ‘reset’ ties with India, calls Hasina-era relationship ‘uncomfortable’
+Relations between India and Bangladesh came under strain over New Delhi's decision to provide refuge to ousted prime minister Sheikh Hasina.
+
+## Last few monsoon showers for Delhi? IMD forecasts light to heavy rain in some areas over next three days
+Meteorologists said the showers could be one of the last major spells of rain in the national capital.
+
+## Mumbai Police deny nod for activist Manoj Jarange's September 19 hunger strike at Azad Maidan
+The cops, while rejecting Jarange-Patil's formal request, cited potential security concerns owing to the ongoing Ganeshotsav festival.
+
 ## Assam man, 23, held for rape, murder of woman over alleged affair: Police
 The officer said that victim’s body was sent to Assam Medical College and Hospital (AMCH), Dibrugarh for postmortem
 
@@ -107,18 +119,6 @@ Thirteen other Indian seafarers who were part of the crew of MT El Gaia were res
 
 ## Mamata Banerjee-led TMC announces candidates for Bengal, Assam bypolls
 Sanchita Pradhan (Dey) and Rabiul Alam Chowdhury will contest the Nandigram and Rejinagar seats respectively, TMC announced on Sunday.
-
-## AI 1980s photo trend: From privacy to climate impact, 3 things to consider before joining in
-Data centres for AI storage significantly impact local climates and require vast amounts of water, exacerbating shortages in already stressed areas.
-
-## AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 polls
-In 2022 legislative assembly elections the AAP won 6.77% of the vote and two seats while the Goa Forward Party won 1.78% of the vote
-
-## Over 20 feared trapped after bus plunges 30 feet into Tamil Nadu river
-There were 32 passengers on board the bus, of whom more than 20 were feared trapped inside following the accident.
-
-## 15 bilaterals, 3 days: PM Modi's jam-packed schedule during BRICS Summit
-PM Modi's schedule also went beyond the bilateral meetings. He proposed a 45-page New Delhi Declaration, which received the unanimous approval of all members.
 
 ## Why Chinese shoppers are ditching supermarkets for small ‘community stores’
 For Cindy Wang, the newly opened “community store” near her home in Guangzhou has been a godsend: the small outlet is cheaper than a traditional supermarket, but offers a bigger range of groceries than convenience stores like 7-Eleven. The 20-something now often stops off at the shop after work to p
@@ -240,6 +240,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ​Bangsamoro’s parliamentary election is a turning point
+It's a milestone of the self-determination fight in this region of the Philippines. It must be kept peaceful and fair.
+
+## Haaland goal sees 10-men City beat United in controversial Manchester derby
+Phil Foden is sent off for City, but Erling Haaland's controversial goal settles Manchester derby 1-0 at United.
+
+## Syrian child killed after roadside object explodes near Damascus
+A child has been killed after an explosive object detonated when he touched it near Damascus.
+
+## Trump tells Zelenskyy to stop hitting Russian diesel supplies
+The US president says Ukraine's attacks on Russian diesel infrastructure are contributing to global fuel shortages.
+
+## French TV programme pulled after actress speaks out on Gaza
+France Televisions has removed the replay of a programme after actress Adèle Haenel denounced the Gaza genocide.
+
 ## Ukrainian drone evades Russian helicopter fire to strike oil tanker
 Ukraine has released footage showing a drone evading fire from a Russian helicopter before striking a Russian oil tanker
 
@@ -248,21 +263,6 @@ A newly approved government offers Kosovo only brief respite before a contentiou
 
 ## F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out
 The 20-year-old Italian has extended his championship lead to 81 points after 14 rounds.
-
-## Six killed, 130 missing after Indonesian passenger ship capsizes
-Six people have been killed and 130 remain missing after a passenger ship capsized in the Java Sea off Indonesia.
-
-## World leaders gather in New Delhi for final day of BRICS summit
-BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.
-
-## As Chavez and Maduro images disappear, is Venezuela entering a new chapter?
-As part of Delcy Rodriguez's 'Venezuela reborn' campaign, murals of leaders like Hugo Chavez are being removed.
-
-## What are the five pros and cons of artificial intelligence?
-AI creates new opportunities in programming and automation, but experts warn of risks to early-career workers.
-
-## Red Sea nations watch as Houthis seize Bab al-Mandeb strait
-Houthi control of Bab al-Mandeb chokes Suez Canal revenues, triggers refugee flows, and exposes regional security gaps.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
