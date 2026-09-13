@@ -3,6 +3,9 @@
 ## Canada seeks Ukraine loan role to deepen EU ties
 Prime Minister Mark Carney to meet leaders in Europe this week as he tries to reduce his country’s dependence on the US
 
+## Trump calls on Ukraine to stop striking Russian diesel refineries
+US president says the attacks and not his war in Iran are responsible for the fuel hitting record highs
+
 ## Russians to vote, but the outcome is already decided
 First election for the Duma since the Ukraine invasion, inflation reports dominate the economic data run, and the Fed, BoE and BoJ make interest rate announcements
 
@@ -20,9 +23,6 @@ President denounces demands for regulation as existential fears over technology 
 
 ## EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules
 Summit pushed back until late November against backdrop of challenges facing UK industry
-
-## Saudi pipeline attack exposes potent Iraqi militia threat
-Baghdad is seeking to reduce the power of Tehran-linked forces accused of striking pipeline
 
 ## PwC shakes up Indian operations as AI threat looms over consulting sector
 Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
@@ -44,9 +44,6 @@ Returns from funds launched during the frenzied period of 2019 to 2021 are likel
 
 ## Sunderland football club looks to US post-industrial peers in bid to lift revenue
 Premier League team targets new fans in cities where its heritage resonates as tougher financial rules increase pressure to boost revenue
-
-## How Russia’s new drones are changing the air war
-Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation
 
 ## Related parties of a personal guarantor would be assigned zero voting share on repayment plan: IBBI proposal
 In the wake of the aforementioned development, IBBI has planned four amendments, including exclusion of related parties of the guarantor from voting on the repayment plan; and recording of creditors’ deliberations on the repayment plan
@@ -72,6 +69,9 @@ The adoption and consumption of AI will keep increasing dramatically year on yea
 ## Tata Sons board to discuss RBI’s listing mandate on Thursday
 While a writ petition against the RBI’s action is possible, lawyers point that a court is unlikely to substitute it’s view for RBI’s on matters of financial sector regulation.
 
+## Oil infra hit by Ukraine, Russia gets 70% of its fuel from India
+August marked a milestone for Russia as it imported record levels of oil products, with Indian exports accounting for nearly seventy percent. The gasoline supplied by India was produced from Russian crude at a shared refinery. While India remains the second-largest importer of crude oil from Russia,
+
 ## Fed, crude, dollar and Iran war: 4 factors that could move gold next week
 Gold and silver prices are expected to remain volatile next week. The US Federal Reserve's interest rate decision will be a key global event. Crude oil movements and the US dollar will also influence market sentiment. Other central banks' monetary policy and inflation data will be closely watched. G
 
@@ -93,8 +93,14 @@ In 2023, foreign portfolio investors have pulled out an astonishing Rs 2.37 lakh
 ## Stock market outlook: Fed, crude prices and more to guide Dalal Street this week
 Dalal Street is gearing up for a condensed trading week, with investors keenly awaiting pivotal global and domestic data. The focus will be on the US Federal Reserve's interest rate decision and outlook on policy. Domestic inflation trends and fluctuations in crude oil prices will influence market d
 
-## India supplies 70% of Russia’s record fuel imports as Ukrainian drones hit refineries
-In August, India became Russia's largest supplier of fuel amidst significant disruptions to Russia's domestic production caused by drone attacks from Ukraine. Remarkably, India accounted for seventy percent of the fuel imported by Russia during this period. Concurrently, Russia's oil product exports
+## Brics Summit: PM Modi’s bilateral talks put security, trade in focus
+Modi and Marcos agreed to enhance India-Philippines cooperation in defense, trade, and security at the Brics Summit, addressing regional issues together.
+
+## Massive global support needed for developing nations SDGs: UN secy Guterres at Brics Summit
+UN Secretary-General Guterres urged massive support for developing nations' SDGs, emphasizing climate justice and reforming financial systems for equity.
+
+## SC lets manager off the hook, puts focus on Indian Bank in 35-year-old loan case
+The Supreme Court acquitted ex-bank manager V Balakrishnan, revealing Indian Bank's failure to return ₹2.7 crore in excess auction proceeds to borrowers' heirs.
 
 ## Brigadier Mishra gets Royal College Fellowship for contributions to ophthalmology
 Brigadier Sanjay Kumar Mishra and his team of ophthalmologists have held several eye camps in the country’s remote areas to provide cutting-edge surgical care.
@@ -110,15 +116,6 @@ The cops, while rejecting Jarange-Patil's formal request, cited potential securi
 
 ## Assam man, 23, held for rape, murder of woman over alleged affair: Police
 The officer said that victim’s body was sent to Assam Medical College and Hospital (AMCH), Dibrugarh for postmortem
-
-## NEET to move to computer-based test ‘very soon’, says NTA DG: ‘It’s the future'
-NTA director general Abhishek Singh said the Nandan Nilekani-led high-powered task force was “working on it.”
-
-## India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued
-Thirteen other Indian seafarers who were part of the crew of MT El Gaia were rescued following the attack off the coast of Oman
-
-## Mamata Banerjee-led TMC announces candidates for Bengal, Assam bypolls
-Sanchita Pradhan (Dey) and Rabiul Alam Chowdhury will contest the Nandigram and Rejinagar seats respectively, TMC announced on Sunday.
 
 ## Why Chinese shoppers are ditching supermarkets for small ‘community stores’
 For Cindy Wang, the newly opened “community store” near her home in Guangzhou has been a godsend: the small outlet is cheaper than a traditional supermarket, but offers a bigger range of groceries than convenience stores like 7-Eleven. The 20-something now often stops off at the shop after work to p
@@ -240,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ​Bangsamoro’s parliamentary election is a turning point
-It's a milestone of the self-determination fight in this region of the Philippines. It must be kept peaceful and fair.
+## A third person has died of measles in the US, health officials say
+Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.
 
-## Haaland goal sees 10-men City beat United in controversial Manchester derby
-Phil Foden is sent off for City, but Erling Haaland's controversial goal settles Manchester derby 1-0 at United.
+## USA defeat France to win 12th FIBA Women’s Basketball World Cup
+Breanna Stewart leads comeback win for the record champions despite France's early lead in the Berlin final.
 
-## Syrian child killed after roadside object explodes near Damascus
-A child has been killed after an explosive object detonated when he touched it near Damascus.
+## Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border
+Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.
 
-## Trump tells Zelenskyy to stop hitting Russian diesel supplies
-The US president says Ukraine's attacks on Russian diesel infrastructure are contributing to global fuel shortages.
+## Pro-Palestine protest demands Australia increases pressure on Israel
+A pro-Palestine protest in Sydney demanded that the Australian government take further action and implement on Israel.
 
-## French TV programme pulled after actress speaks out on Gaza
-France Televisions has removed the replay of a programme after actress Adèle Haenel denounced the Gaza genocide.
+## Jerusalem Daily: Pregnant woman killed in Gaza
+Israeli forces kill a pregnant Palestinian woman in Gaza and settler pogroms intensify across the occupied West Bank.
 
-## Ukrainian drone evades Russian helicopter fire to strike oil tanker
-Ukraine has released footage showing a drone evading fire from a Russian helicopter before striking a Russian oil tanker
+## Can a warming Arctic become an important commercial highway?
+The conflict in the Middle East raises security concerns about traditional shipping routes.
 
-## Kosovo approves new government after months of political deadlock
-A newly approved government offers Kosovo only brief respite before a contentious presidential vote.
+## India win Women’s Asia Cup but do not accept trophy
+India were not present at the trophy ceremony, which was led by Pakistani Interior Minister and ACC President Naqvi.
 
-## F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out
-The 20-year-old Italian has extended his championship lead to 81 points after 14 rounds.
+## US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’
+Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated'
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
