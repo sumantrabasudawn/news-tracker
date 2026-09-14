@@ -1,64 +1,67 @@
 # AION Intelligence
 
+## Oil hits $109 after Saudi Arabia closes vital export pipeline
+Riyadh pulls out of regional talks to de-escalate hostilities over Strait of Hormuz in wake of drone attack last week
+
 ## US tech stocks fall after big AI groups call for slowdown
-Memory-chip makers and Nvidia slide during morning trading in New York
-
-## Steve Bannon and Bernie Sanders unite in AI safety call
-Rightwing activist and leftwing senator join forces to demand stronger regulation of the technology
-
-## Brain implant lets paralysed patients speak via digital avatar
-New neurotechnology could eventually help people who have lost speech faculties due to stroke or brain conditions
-
-## Sacked top civil servant given £860,000 pay-off approved by Starmer
-Settlement for Chris Wormald far exceeded standard contractual entitlements, former PM was told
-
-## America’s superheroes moved to Britain, but will they stay?
-The UK has been a major beneficiary of Hollywood shifting movie production overseas
+Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs
 
 ## Ten-year Treasury yield hits 5% for first time since 2023
-Rise in US borrowing costs takes world’s most important financial gauge into perilous territory
+World’s most widely watched financial marker moves towards levels not seen in decades as inflation shock from Iran war lingers
 
-## Stoltenberg reneges on Munich Security Conference top job plan
-Former Nato secretary-general to ‘co-chair’ German foreign policy and defence forum while remaining in Norway
+## Tories look at ways to cut UK inheritance tax
+Conservative leader Kemi Badenoch says the levy mainly caught ‘home-owning middle-class families’ instead of the super wealthy
 
-## UK government considering takeover of insolvent steelmaker
-Norwegian firm Blastr had been in talks to acquire Speciality Steel UK which was once part of Sanjeev Gupta’s metals empire
+## Nigel Farage refuses to say if Reform UK’s £72mn gifts would comply with new cap
+Under Labour’s proposed rules, overseas donors would be prevented from giving more than £100,000 a year, retrospective to March 25
 
-## Despite high-end holiday boom, Club Med investors have a lot to unpack
-Resort operator plans to offer more premium all-inclusive breaks but it is a tough business in a highly competitive market
+## Unions demand softening of UK immigration reforms
+Proposals will ‘punish’ low-paid migrants doing essential work in public services and create a new staffing crisis in social care, says motion passed at TUC
 
-## Crispin Odey loses appeal against industry ban
-Hedge fund founder’s fine reduced to £1.5mn but verdict is blow to attempts to repair his reputation after allegations of sexual harassment and assault
+## Why delaying an AI doomsday would benefit investors too
+A slowdown would reduce the enormous amounts of cash being lavished on training new models
 
-## AI companies must relinquish some of the power at their disposal
-The founders of OpenAI, Anthropic, Grok and DeepMind have warned about the dangers, now technology needs to be human scale
+## Trump claims Russia and Ukraine have agreed energy truce
+Kyiv was caught off guard by the US president’s announcement after previous attempts to halt strikes on power plants and refineries failed
 
-## Michael Dell’s family office leads $7.7bn deal to take insurance broker private
-DFO Management and Sequence clinch acquisition of Baldwin Group as industry undergoes wave of consolidation
+## Time for a pause on cutting-edge AI
+The most advanced models are starting to escape human control
 
-## India, Vietnam to expand defence ties through joint production of military hardware
-The two sides decide to expand cooperation in areas of air connectivity, nuclear energy and space
+## Germany tells Andrea Orcel to keep Commerzbank’s Frankfurt HQ after takeover
+Finance minister Lars Klingbeil wants safeguards for the bank’s 40,000 employees and its role in financing the Mittelstand
 
-## BHEL Board okays ₹65 crore investment in JV NTPC BHEL Power Projects
-The JVC aims to execute EPC contracts for power plants and infrastructure projects and to manufacture and supply equipment both in India and abroad
+## France in ‘astonishing’ push to lift EU sanctions on Russian oligarch
+Paris replicates Viktor Orbán’s tactics in bid to free French nationals from Azerbaijan
 
-## Railway minister to virtually launch various projects in Gujarat, dedicate to nation 4 GCTs
-He will dedicate four Gati Shakti Cargo Terminals (GCT), at Bhimasar (Kutch), Devaliya (Junagadh), Chandisar (Banaskantha) and Shivlakha (Kutch), to the nation and also lay the foundation stone for the GCT at Linch in Mehsana
+## UK government to take over insolvent steelmaker
+Norwegian firm Blastr had been in talks to acquire Speciality Steel UK, once part of Sanjeev Gupta’s metals empire
 
-## India’s water initiatives highlighted at UN rights council side event
-Hansraj Singh of Sambhali Trust noted that India has established institutions to promote cooperation among states in managing rivers across boundaries
+## Satcom to play key role in remote areas: TRAI Chairman
+With spectrum allocation awaiting final approval, India’s satcom rollout will depend on government decisions and security clearances for operators
 
-## NCLT rejects Jet Airways' liquidator plea seeking ₹500cr from Boeing
-The fact remains that Boeing Company has not supplied any of the Aircrafts under the Agreements
+## Piramal Pharma’s UK facility receives 7 observations from US FDA inspection
+The observations relate to enhancements in practices, procedures and documentation, with the company preparing a detailed response within the stipulated timeline
 
-## Cars24 and Spinny choose different models for India’s ₹4 lakh crore used-car market
-As Spinny doubles down on inventory-led retail and Cars24 pivots to commissions and services, the contest is increasingly centred on profitability rather than headline revenue
+## HFCL raises planned capex to ₹1,800 crore to expand optical fibre production
+The telecom gear maker will add substantial manufacturing capacity across optical fibre, cable and preform following board approval for expansion
 
-## Etihad Airways says passenger numbers have rebounded from Iran war impact
-At Abu Dhabi-based Etihad, available ‌seat kilometres — the industry's standard measure of passenger-carrying capacity — is 15% ‌to ⁠17% higher than a year ago
+## GAC Commercial Vehicle Accelerates Global Expansion with IAA TRANSPORTATION 2026 Debut
+GAC Commercial Vehicle Accelerates Global Expansion with IAA TRANSPORTATION 2026 Debut
 
-## India, China discuss deepening energy cooperation as Chinese oil executive meets Min Hardeep Puri
-The meeting follows last Saturday’s talks between Prime Minister Modi and President Xi Jinping
+## Centre summons Air India CEO over immigration lapse involving three foreign nationals
+Initial report attributes lapse to ground-handling agency, sources say
+
+## India bars bank charges on UPI payments up to ₹2,000
+A government gazette ​notification ‌specifies that no bank or system provider shall impose any direct or indirect ‌charge on ​a person making or receiving payments ⁠through RuPay-powered debit cards and UPI transactions of ‌up to ​₹2,000
+
+## Vserv Infosystems eyes ₹1,000 crore in revenue by 2030: COO
+Vserv Infosystems Chief Operating Officer Raman Shukla said that the company has clocked revenue of around ₹150 crore in the last fiscal
+
+## Trump says he will decide if US will work towards deal with Iran
+
+
+## 4 buyers paid Rs 2.08 crore each for flats, but pool, spa, gym missing; RERA orders Rs 10 lakh
+A reputed builder has been asked to pay Rs 10 lakh compensation to four homebuyers after a joint inspection and photographs showed that several amenities promised in the project, including a senior citizen park, open gym, spa, amphitheatre and sports facilities, had not been delivered.
 
 ## Stocks to buy: What's the outlook for Nifty for September 15-September 18 week? Check list of top stock recommendations
 Stock market recommendations: Emcure Pharmaceuticals, and VA Tech Wabag are the top stocks to buy on September 15, 2026, recommends Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities.
@@ -81,32 +84,29 @@ The Rishikesh Project Implementation Unit of RVNL achieved the breakthrough on F
 ## Nitin Gadkari: 100% barrier-free FASTag tolls soon; to deliver Rs 25,000 crore benefit
 The Road Transport and Highways Minister said the government plans to make all toll booths on national highways barrier-free by March 2027. FASTag adoption has already increased toll collections by 10%, or around Rs 7,000 crore, taking total toll booth revenue to more than Rs 82,000 crore, according
 
-## Record $44.9 billion jump takes India’s forex reserves to lifetime high of $785.71 billion
-India's forex reserves had been under pressure since the West Asia conflict began earlier this year. The rupee came under sustained pressure during the period, prompting the RBI to intervene in the foreign exchange market through dollar sales.
+## Kharge slams BJP’s demand for action against inspector
+Home Minister Priyank Kharge defends police actions over Ganesh procession routes, amid BJP protests, emphasizing safety and adherence to regulations.
+
+## ‘She is experiencing something akin to trauma’: Gurugram biker's family breaks silence after hit-and-run incident
+Sia's brother said she had told him that there were four people in the vehicle, and that “all of them were drunk.”
+
+## ‘Someone gave ₹20 to eat’: BJP's richest Maharashtra MLA Parag Shah turns beggar for a day
+Parag Shah, who represents Ghatkopar (East), sought alms and ate food offered to him while sitting by the roadside.
+
+## Delhi HC rejects Vimal Elaichi's plea over Maharashtra FDA notices to SRK, Ajay Devgn, Tiger Shroff
+Justice Swarana Kanta Sharma ruled that the company had failed to establish that any substantial or material part of the cause of action had arisen in Delhi.
+
+## ‘China values Modi’s statements’: Beijing hails India's independent foreign policy after PM-Xi meeting at BRICS
+The statement from China came two days after Modi and Xi met for bilateral talks and welcomed “steady progress” in relations between the two countries.
+
+## Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy
+Delhi airport's denial came amid reports that three foreign passengers, allegedly Italian nationals, flew to Munich without clearing immigration.
 
 ## India approves up to 654 MW of power export to flood-hit Nepal for 18 hours every day till December 31
 The decision comes amid the large-scale devastation caused by the recent floods and landslides in Nepal
 
-## Delhi HC rejects Vimal Elaichi makers' plea over Maharashtra FDA notice to SRK, Ajay Devgn, Tiger Shroff
+## Why Delhi HC rejected Vimal Elaichi makers' plea over FDA notice to SRK, Ajay Devgn, Tiger Shroff
 The court said the petitioner should approach courts in Maharashtra, which would be the more suitable forum to address its concerns about the notices.
-
-## Monsoon withdrawal to commence from Sept 19; rain deficit stays at 15%: IMD
-Fairly widespread rains over Jammu, Kashmir, Ladakh, are expected from September 15-17 and across Punjab, Haryana and Delhi on Sept 16 and 17
-
-## Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials
-Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials
-
-## ‘Trump is copying us’: Karnataka CM Shivakumar says Congress welfare model inspired US's $5,000 plan
-Earlier, Trump promised a $5,000 payment to every American adult if Republicans retain control of both houses of Congress in the 2026 midterm elections.
-
-## Chetan Borghariya arrested in CGPSC money laundering case: ED
-Borghariya, an additional collector in Balrampur-Ramanujganj district, was a former OSD in the CMO when Bhupesh Baghel was the chief minister
-
-## Tea, hugs, handshakes: Unseen clips of PM Modi interacting with world leaders at BRICS Summit
-Apart from PM Modi, the world leaders were also seen interacting amongst themselves, sharing smiles, handshakes, hugs, and candid moments at BRICS summit.
-
-## Gurugram bike crash accused denies ‘intentionally' ramming rider: ‘Didn't know it was a woman'
-A woman biker was hit by a car while her vehicle skid for several metres, with the whole incident being recorded on a video camera mounted on her two-wheeler.
 
 ## Hong Kong malls see ‘gradual recovery’ with new stores and events: Hang Lung CEO
 The outlook for shopping centres in Hong Kong is improving, and the business will thrive if operators use new stores and attractive events to counter locals’ fondness for cross-border shopping trips, according to the CEO of Hang Lung Properties. The company’s malls recorded growth in July, and busin
@@ -132,6 +132,12 @@ The coming meeting between President Xi Jinping and his US counterpart Donald Tr
 ## Data from Greater Bay Area’s 88 million residents to help improve healthcare policy: GSK
 British pharmaceutical company GSK is turning to patient data gathered from the 88 million residents of the Greater Bay Area’s 11 cities to speed up drug development in vaccines and cancer care, as officials push for closer cross-border medical cooperation. GSK Hong Kong and Macau general manager Ni
 
+## Why My Kyiv Visit Worried Me So Much
+FP’s editor in chief on the mood in Ukraine—and what it means for the future of war.
+
+## The Laws of War Must Change for the Drone Age
+Hunting civilians from the sky is growing disturbingly common.
+
 ## Trump Has Killed ‘Strategic Ambiguity’ Over Taiwan
 It was once unclear how Washington would defend Taipei—now it’s doubtful it will help at all.
 
@@ -150,35 +156,32 @@ Test yourself on the week of Sept. 5: A German state votes, Philippine police ma
 ## The United States of Propaganda
 Few Americans have the vocabulary to describe what’s making them miserable.
 
-## Discarding an Old Map and Seeing Africa With Fresh Eyes
-The continent offers solutions to some of the West’s most vexing problems.
+## North Korea Confirms September 12 Missile Launch Was Joint Firepower Drill
+The exercise came a day after trilateral Freedom Edge drills ended and as U.S. President Donald Trump continues to seek a new summit with Kim Jong Un.
 
-## A War Reporter’s Antidote to Nihilism
-In a new book, Sally Hayden considers how journalists can puncture the detachment of the privileged.
+## Asia’s Democracy Is Being Rewired: An Early Warning for Global Democracy
+The emerging contest in the region is between open political systems and “managed” political systems – where citizens are manipulated instead of simply repressed.
 
-## The Dynamics of Dependence Beyond Thailand’s Immediate Neighborhood
-The past year has seen considerable steps forward in the country's relationships with Singapore and Indonesia.
+## South Korea and Arctic Shipping: A Game Changer on Thin Ice?
+South Korea is clearly ambitious about seizing potential economic and strategic opportunities from Arctic shipping. But the Arctic is also a geopolitical minefield.
 
-## Myanmar’s Military-backed President Ticks Cambodia Off His Diplomatic Bucket List
-Min Aung Hlaing leaves Phnom Penh after a two-day visit aimed at shoring up his regime's regional legitimacy.
+## What’s Behind One Nation’s Attacks on Andrew Hastie?
+In its relentless attacks on Liberal Party MP, the One Nation party’s contempt for the rule of law is on full display.
 
-## Thailand Accuses Cambodia of Stationing Troops at World Heritage Site During Border Fighting
-Last week, UNESCO released a report detailing the extensive damage caused to the World Heritage Site by Thai military attacks.
+## India Drops Terror Charges Against Seven Recently Arrested Foreign Nationals
+An American and six Ukrainians were arrested under the UAPA in March. They have now been charged under the less stringent Immigration and Foreigners Act instead.
 
-## Episodic Summitry Alone Cannot Reset India-China Relations
-Agreements are reached to facilitate meetings between leaders ahead of multilateral summits, but often don't move much beyond that.
+## Japan’s Failed Centrist Experiment
+The CDP-Komeito alliance is breaking apart. But a return to resistance-oriented politics may not be the answer for Japan's opposition.
 
-## Ahead of Credentials Showdown, Myanmar Accuses UN Representative of ‘Illegal’ Acts
-Naypyidaw is seeking the replacement of Kyaw Moe Tun, who pledged his loyalty to the opposition after the 2021 coup.
+## ‘Small-Yurt Diplomacy’ Prevails at Kyrgyzstan’s World Nomad Games
+This year, as Kyrgyzstan was busy showcasing its culture to the world, foreign countries were competing for the attention of locals.
 
-## AI, Robotics and the Coming Economic, Military, and Political Revolutions
-In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
+## 5 Years Later, Where Does AUKUS Stand?
+Over the last five years, as AUKUS has taken shape, the dynamics behind regional security have continued to evolve.
 
-## SCO Summit Produces Surprising Winners
-The organization’s smaller members can use a China-India-Russia-dominated forum without becoming subordinate to any single major power.
-
-## What Role Does Denuclearization Have in North Korea-US Dialogue Today?
-Breaking down the denuclearization debate from both sides: North Korea and the United States.
+## Reading the Kremlin’s Mind: Ukrainian Writers Attempt to Understand Putin
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## This Is Not Your Father’s Nuclear Flight Test Vehicle
 For decades, the United States’ nuclear weapons enterprise has wrestled with an institutional paradox. On one hand is the imperative to make the complex more “responsive” to global tumult and technical surprise, able to field new weapons quickly in reaction to unanticipated threats. On the other are
@@ -200,9 +203,6 @@ If there is a revolution brewing in the automation of white-collar work, you wou
 
 ## The Assessment Gap in U.S. Counter-Terrorism Strikes
 For eight years I helped decide whether American counter-terrorism money was working.As a programs advisor in the State Department’s Bureau of Counterterrorism from 2018 to 2025, I oversaw about 20 projects in East Africa worth roughly $80 million a year. None of that money moved without a performan
-
-## Forced Into the Right Decision? A Look at U.S. Land-Based Deterrence Posture
-In 2019, Steve Fetter wrote “A Cheaper Nuclear Sponge,” in which he argued that building a new intercontinental ballistic missile (ICBM) was unnecessary for strengthening U.S. land-based deterrence. After several years of changing defense budgets and strategic priorities, we asked Steve to revisit h
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Can a party be leftist and Zionist?
-No, it cannot. But the concept of leftist Zionism is still being pushed to cover up its racist, colonial nature.
+## Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple
+The companies had accused Apple of favouring OpenAI’s ChatGPT over rival AI chatbots.
 
-## Going to school under Israeli occupation
-In al-Mughayyir, a village north-east of Ramallah, going to school means passing soldiers just to get to class.
+## Sudan aid networks at risk of collapse, UN agencies warn
+Without immediate donations, shelter and aid relief supplies could be depleted by the end of the month, says IOM.
 
-## Burnham must establish an inquiry into Britain’s role in the Gaza genocide
-Delaying scrutiny will not make questions about UK complicity in Gaza disappear.
+## Funerals for children killed after fire spreads to school in DR Congo
+Memorial services were held for at least 28 children who were killed after a fire spread to their school in DR Congo.
 
-## China rejects AI ‘threat narratives’, urges global cooperation
-China called for international cooperation on artificial intelligence.
+## What’s the VAR mistake controversy in Haaland’s Man City goal vs United?
+Football players, fans, managers, and experts call for more accountability and less reliance on VAR for crucial calls.
 
-## Fiscal pressure from Iran War clouds Gulf States’ US spending plans
-Gulf nations may prioritise domestic investments over US commitments amid economic pressures, says new report.
+## Trump says calls for more control on AI are a ‘SICK conspiracy’
+US president says current oversight is adequate and regulations could allow China to win AI competition.
 
-## ‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier
-Anthropic CEO urges restricted China access to AI tech, sparking accusations of US technological dominance strategies.
+## Djibouti humanitarian situation worsens as Yemenis seek refuge
+Djibouti humanitarian situation worsens as Yemenis seek refuge
 
-## How can the Islamic world challenge Western narratives about it?
-University of Cambridge visiting fellow and author Ahmed Paul Keeler on his life, the West, modernity and Islam
+## NATO pledges increased Ukraine support as Russia strikes near border
+NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to 'scare' them off.
 
-## Why is Trump warning Zelenskyy not to hit Russian diesel refineries?
-Trump blames Ukraine’s attacks for global diesel shortage, linking the crisis to Russia's war rather than US actions.
+## Jerusalem Daily: A new report on the erosion of Palestinian life
+Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.
 
 ## Gulf Oil Lubricants targets double-digit volume growth, bets on EV fluids and B2B expansion: CFO
 Gulf Oil Lubricants is targeting double-digit volume growth by continuing to grow at 2 to 3 times the industry rate, while simultaneously betting on B2B expansion in infrastructure and industrial segments, CFO Manish Gangwal said in an exclusive interview with ETCFO. The Hinduja group company that m
