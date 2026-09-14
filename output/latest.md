@@ -1,67 +1,82 @@
 # AION Intelligence
 
-## Michael Dell’s family office leads $7.7bn deal to take insurance broker private
-DFO Management and Sequence near acquisition of Baldwin Group as industry undergoes wave of consolidation
+## Reform’s windfall changes the mood music
+Donations will not solve everything but they will strengthen Nigel Farage’s party in the fight against Tories to lead Britain’s rightwing bloc
 
-## Gulf states postpone talks with Iran over Hormuz impasse
-Delay to crunch meeting because of lack of consensus sets back efforts to restore shipping through vital waterway
+## An ode to North America’s longest saltwater pool
+Outdoors and ocean-facing, Vancouver’s Kitsilano Pool is 137 metres long (or 137.5, depending on who you talk to) and nearly 100 years old. But the fate of this much-loved landmark is up for debate.
 
-## Trump rejects calls from tech bosses for AI slowdown
-President denounces demands for regulation as existential fears over technology move to the centre of US politics
+## Oil hits $108 as Gulf states postpone talks with Iran over Hormuz
+Deferred meeting on vital waterway comes on top of Saudi pipeline closure following drone attack last week
 
-## Burnham promises a ‘culture shift’ in how Britain does business
-Prime minister to tell business leaders and entrepreneurs that his government will be a ‘partner for growth’
+## Japanese utility halts nuclear reactor restart after data manipulation scandal
+Chubu Electric’s decision marks setback in country’s pivot back to atomic power 15 years after Fukushima disaster
 
-## Trump scraps tariffs on Irish whiskey during visit to country
-The surprise move came a day after the US president stirred controversy by calling for Irish reunification
+## High inflation or low credibility?
+Making sense of the Fed’s next move
 
-## Canada seeks Ukraine loan role to deepen EU ties
-Prime Minister Mark Carney to meet leaders in Europe this week as he tries to reduce his country’s dependence on the US
+## China’s spy agency warns of AI risk to national security
+Beijing signals growing concern over how rapid advances in technology could be used against the country
 
-## Trump calls on Ukraine to stop striking Russian oil refineries
-US president says the attacks and not his war in Iran are responsible for diesel hitting record highs
+## EU and Canada to toast to closer bonds in bid to rally multilateral world order
+Also in this newsletter: Russia oligarch sanctions hold-up
 
-## Russians to vote, but the outcome is already decided
-First election for the Duma since the Ukraine invasion, inflation reports dominate the economic data run, and the Fed, BoE and BoJ make interest rate announcements
+## FirstFT: Oil surge stirs UK rate rise debate
+Also in today’s newsletter: Swedish elections and Euronext open to Deutsche Börse merger
 
-## Podcaster Steven Bartlett: ‘You’d be shocked how little time I spend on the internet’
-The ‘Diary of a CEO’ host, who has faced criticism over spreading fringe claims, is building a one-stop shop for other creators
+## Novo ditches Nordisk from name as drugmaker attempts revival
+Danish pharmaceutical group is under pressure from investors to regain ground in obesity market
 
-## Dutch start-up completes funding round for encrypted silicon technology
-Fortaegis claims it can create ultra-secure computer networks by harnessing the unique digital fingerprint of chips
+## Tech stocks fall after big AI groups call for slowdown
+South Korea’s tech-heavy Kospi slides as Wall Street is set to open lower
 
-## PwC shakes up Indian operations as AI threat looms over consulting sector
-Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
+## Hugo Boss chair steps down under pressure from Frasers Group
+Stephan Sturm to depart board of German fashion group after clashing with largest shareholder over dividend payments
 
-## GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals
-Acquisition of Sofie Biosciences is second big purchase for medical imaging specialist after split from General Electric
+## Can AI’s leaders really put aside rivalry for the common good?
+The deep schism between OpenAI and Anthropic has led to a race-like dynamic towards ever more powerful models
 
-## The coming robotaxi revolution
-Self-driving cars could transform urban transport, if they can win public trust
+## Druckenmiller: no US rate cuts needed
+Plus, credit fund Arini’s woes, Franklin Templeton rebounds and the Bayeux Tapestry at the British Museum
 
-## '99 Quna Festival' Wraps Up as Qunabox's Physical AI Entertainment Debut Draws Crowds, Giving Its Second Growth Curve Early Market Validation
-'99 Quna Festival' Wraps Up as Qunabox's Physical AI Entertainment Debut Draws Crowds, Giving Its Second Growth Curve Early Market Validation
+## India gains wider EU steel access, but carbon levy remains
+The combined quota is equivalent to about 68.4% of India’s 2.4 million tons of steel exports ​to the EU ‌in 2025, up from 39.4% under the existing quota
 
-## Related parties of a personal guarantor would be assigned zero voting share on repayment plan: IBBI proposal
-In the wake of the aforementioned development, IBBI has planned four amendments, including exclusion of related parties of the guarantor from voting on the repayment plan; and recording of creditors’ deliberations on the repayment plan
+## Natura Bissé renews as The Official Spa Brand of The World's 50 Best Hotels 2026
+Natura Bissé renews as The Official Spa Brand of The World's 50 Best Hotels 2026
 
-## US Section 232 move: Opportunity or fresh hurdle for Indian solar makers?
-The answer partly depends on the willingness, and financial capacity of Indian companies to set up factories in the US
+## India, Canada begin next round of talks on proposed trade pact: Official
+The issues that would figure in the five-day (September 14-18) talks include trade in goods, services, rules of origin, and technical trade barriers, among others
 
-## Bharucha, Balasubramanian believed to be in race for top position at HDFC Bank
-The Board’s move to find a replacement for Jagdishan follows his late August decision to not seek his re-appointment as the MD & CEO of the Bank.
+## Amazon ramps up India network ahead of festive season; adds 20 FCs, 150 delivery hubs
+The expansion is part of the company's announced investment of over ₹2,800 crore to bolster its pan-India operations and infrastructure, Amazon said in a statement
 
-## A nuanced take on life insurance ‘surrenders’
-Why a need-based withdrawal should not automatically be construed as policy rejection or evidence of mis-selling
+## COAI, British High Commission ink MoU for cooperation on AI, digital trust, intelligent connectivity
+The memorandum of understanding (MoU) was inked at the CO.AI 2026 event organised by Cellular Operators Association of India (COAI), in association with the British High Commission
 
-## Tata Sons listing to unlock ₹1.20-lakh crore value for seven group companies
-At the market estimated value of ₹10 lakh crore of Tata Sons, the stake of Tata Steel and Tata Motors PV in Tata Sons will be valued at ₹30,600 crore each
+## MSE facilitates its first tokenised corporate bond under SEBI’s Demat 2.0 pilot
+Bond issued by IIFL Finance Ltd through MSE’s Electronic Bond Platform, with Trust Investment Advisors Pvt Ltd serving as arranger
 
-## SEBI weighs two options for derivatives settlement, closing auction timings
-Regulator proposes blending VWAP and closing auction prices, or retaining the old method for at least a year
+## MoRTH plans more powerful low-speed EVs without registration; industry splits over exemption
+India’s draft low-speed EV rules would raise permitted motor power from 250W to 600W and remove the 60-kg weight cap while retaining registration exemption. The move has split the industry: full-service OEMs such as BGauss see a larger market, while Yulu warns heavier vehicles could exploit the exem
 
-## Big NBFCs join the gold loan mela
-Liquid collateral proves irresistible to non-banks battling asset quality woes in unsecured loans
+## Solar Industries to buy South Africa’s Omnia for $1.36 billion
+All-cash deal via Solar SA Investments aims to scale mining explosives business across Africa from FY28
+
+## Nitin Gadkari: 100% barrier-free FASTag tolls soon; to deliver Rs 25,000 crore benefit
+The Road Transport and Highways Minister said the government plans to make all toll booths on national highways barrier-free by March 2027. FASTag adoption has already increased toll collections by 10%, or around Rs 7,000 crore, taking total toll booth revenue to more than Rs 82,000 crore, according
+
+## Record $44.9 billion jump takes India’s forex reserves to lifetime high of $785.71 billion
+India's forex reserves had been under pressure since the West Asia conflict began earlier this year. The rupee came under sustained pressure during the period, prompting the RBI to intervene in the foreign exchange market through dollar sales.
+
+## Rs 6.42 lakh business travel paid via wife’s card and reimbursed, man gets tax notice; what ITAT said
+The Income Tax Appellate Tribunal (ITAT) Mumbai has provided partial relief to a businessman after the income tax department disallowed Rs 6.42 lakh of his travel expenses because the payments had been made using his wife's credit card.
+
+## Oil prices jump over 2% as fresh Saudi, Strait of Hormuz strikes fuel supply fears
+
+
+## Stock market today: Are NSE, BSE closed for trading on Ganesh Chaturthi?
+On September 14, stock markets will halt trading in observance of Ganesh Chaturthi. While equity derivatives will remain suspended for the day, the commodity market will only partially close during the morning session. Trading will pick back up in the evening session. Investors should keep these adj
 
 ## Petrol powers half of new cars if hybrids not counted
 
@@ -72,68 +87,56 @@ Liquid collateral proves irresistible to non-banks battling asset quality woes i
 ## Companies hunt for margin, pricing balance
 
 
-## RBI: Only disputed amount can be frozen under new norms
+## South African delegate loses ₹3 lakh in Delhi cab; police track down cash, return it minutes before flight
+The police said quick coordination among personnel helped locate the cab and retrieve the cash in time for the delegate to continue his journey.
 
+## ‘Friend borrowed car 2 days ago’: Vehicle owner after woman biker chased, hit in Gurugram
+The incident pertains to a woman biker being hit by a car and getting dragged on the road for several feet while her bike skidded off in a different direction.
 
-## From policy to code: DPDP creates new privacy roles
+## Nepal's wild elephants wreak havoc in Pilibhit villages, trample paddy and sugarcane crops
+Nepal's wild elephants wreak havoc in Pilibhit villages, trample paddy and sugarcane crops
 
+## Govt debunks Pakistani propaganda claiming deadly blast during BRICS Summit
+PIB dismissed claims allegedly made by Pakistani propaganda accounts that an explosion took place minutes before the BRICS summit concluded in New Delhi.
 
-## IPO set to unlock value in group cos holding Tata Sons stake
+## Ex-Tehelka editor Tarun Tejpal surrenders before Goa court after 2013 sexual assault conviction
+In August, the top court called in Tejpal to surrender before the court after he was convicted in a 2013 rape and sexual assault case.
 
+## What’s happening at Tata? RBI shuts exit route, IPO pressure mounts on Noel Tata
+Tata Trusts controls about two-thirds of Tata Sons and has resisted the idea of a public listing. The regulator’s decision leaves the Trusts with fewer options.
 
-## Oil infra hit by Ukraine, Russia gets 70% of its fuel from India
-August marked a milestone for Russia as it imported record levels of oil products, with Indian exports accounting for nearly seventy percent. The gasoline supplied by India was produced from Russian crude at a shared refinery. While India remains the second-largest importer of crude oil from Russia,
+## No urgent listing of plea over demolition of adjacent one in Satya Niketan: Delhi HC
+The court observed that the authorities must have conducted an audit before demolishing the adjoining building and asked the lawyer not to file a petition “in air”
 
-## Fed, crude, dollar and Iran war: 4 factors that could move gold next week
-Gold and silver prices are expected to remain volatile next week. The US Federal Reserve's interest rate decision will be a key global event. Crude oil movements and the US dollar will also influence market sentiment. Other central banks' monetary policy and inflation data will be closely watched. G
+## Assam man accused of beheading wife attacked police, died after jumping off vehicle; family alleges encounter
+Ramanuj Goswami’s family refused to accept his body, claiming this was not an accidental death but a so-called “encounter” killing.
 
-## Congress, BJP trade barbs over all-vegetarian fare for dignitaries at Brics Summit
-This is not the first time the government arranged a full vegetarian spread for heads of states and other important leaders.
+## Hong Kong faces pressure to speed up trading hours review after South Korea’s move
+Hong Kong’s stock market is facing fresh pressure to accelerate its review of longer trading hours after South Korea’s main bourse extended its session by four hours on Monday, according to an industry player. The Korea Exchange, South Korea’s bourse operator, launched a real-time after-market from 
 
-## 4 killed, 6-year-old injured after fresh violence breaks out in Manipur's Tamenglong
-The incident coincided with the “Black Day”, observed annually to remember the victims of ethnic violence during the Kuki–Naga conflict in Manipur.
+## Cosco Shipping arm readies China IPO to capitalise on global shipbuilding wave
+The shipbuilding and maintenance arm of state-owned marine transport giant China Cosco Shipping has completed initial public offering (IPO) guidance registration, paving the way for a domestic listing to capitalise on a global shipbuilding boom. Cosco Shipping Heavy Industry finished its pre-IPO reg
 
-## CPI(M) in Keralam vows to fix lapses, regain public trust after poll debacle
-Months after the crushing debacle in the assembly elections, the top leadership of the Communist Party of India (Marxist) (CPI[M]) gathered in Kozhikode for the three-day extended state committee meeting on Sunday, vowing to fix its organisational lapses identified through multi-tier internal review
+## Asian Captive Conference 2026 Highlights How Captives Are Utilised as Businesses Navigate Risks
+[The content of this article has been produced by our advertising partner.] KUALA LUMPUR, 11 September 2026 — The 8th Asian Captive Conference (ACC) 2026 yesterday brought together more than 300 risk and industry professionals from the region and beyond to explore how captive insurance is enabling b
 
-## 7 arrested with 2 peacock carcass, 6 firearms: Officials
-Seven men were arrested after forest officials allegedly caught them hunting peacocks in the Baggalumadu forest area near Motanahalli in Yadgir taluk on Saturday night, officials said on Sunday
+## Handshake or arm-wrestling match? What China’s stock traders expect from Xi-Trump meeting
+The coming meeting between President Xi Jinping and his US counterpart Donald Trump is on the radar of market traders in mainland China and Hong Kong, as the results – whether smiling handshakes or a tense test of wills – could add volatility to an already unpredictable market. However, observers sa
 
-## BJP to hold state-wide march against Vande Mataram row from tomorrow
-Karnataka BJP president B Y Vijayendra on Sunday announced a five-day padayatra from September 15 across all 224 Assembly constituencies to protest the state government’s decision to restrict the rendition of Vande Mataram at official programmes
+## Data from Greater Bay Area’s 88 million residents to help improve healthcare policy: GSK
+British pharmaceutical company GSK is turning to patient data gathered from the 88 million residents of the Greater Bay Area’s 11 cities to speed up drug development in vaccines and cancer care, as officials push for closer cross-border medical cooperation. GSK Hong Kong and Macau general manager Ni
 
-## A tale of twin cities: How digital replica could help transform urban governance
-Indian cities face mounting pressures today due to informal settlements, large-scale redevelopment, heritage protection, flooding and infrastructure strain.
+## How one company’s choice – resignation or the factory – left China’s young workers floored
+Weeks after sparking a nationwide outcry over its mass dismissal of recent college graduates, Xingyu – a major automotive lighting maker in eastern China – has severely penalised four of its executives and promised to help the former employees find new jobs. Two of the firm’s top executives received
 
-## Leaders hail Brics CONNECT initiative
-Brics countries have committed to strengthening collaboration in “forecasting skills needs” by analysing labour market trends in digital, green, care and other priority sectors, as the 11-nation grouping of major emerging market economies welcomed “Brics CONNECT”, a new platform for technical cooper
-
-## Brics leaders vow crackdown on ‘scam compounds’, push for coordinated global rules on AI
-Scam networks often use fake investment platforms, romance scams, and fraudulent job offers to defraud victims.
-
-## Qatar seeks to capture China’s growing Gulf logistics push as war disrupts trade routes
-Qatar is stepping up efforts to attract Chinese companies as the conflict involving Iran disrupts trade routes in the Gulf, adding urgency to a broader push by Chinese businesses to diversify supply chains and establish operations closer to customers. “Diversification of supply chain is going ahead 
+## Qatar seeks stronger logistics ties with China as war disrupts trade routes
+Qatar is stepping up efforts to attract Chinese companies as the US-Israel war on Iran disrupts trade routes in the Gulf, adding urgency to a broader push by Chinese businesses to diversify supply chains and establish operations closer to customers. “Diversification of supply chain is going ahead an
 
 ## Hong Kong aims to scale its tech ecosystem and nurture more unicorns: HKSTP CEO
 Hong Kong is intensifying efforts to attract technology start-ups and nurture unicorns through expanded financial support via a key government-backed platform, leveraging the city’s booming fundraising activities and world-class financial infrastructure. Investors are displaying an increased appetit
 
-## Veteran investor Fang Fenglei on why the China ‘investibility’ debate is no debate at all
-Over the past three decades, investor Fang Fenglei has had a major role in shaping China’s capital markets. He worked with Morgan Stanley in the early 1990s to help create the country’s first joint venture investment bank – China International Capital Corp. Then, at the start of the millennium, he s
-
-## Why Chinese shoppers are ditching supermarkets for small ‘community stores’
-For Cindy Wang, the newly opened “community store” near her home in Guangzhou has been a godsend: the small outlet is cheaper than a traditional supermarket, but offers a bigger range of groceries than convenience stores like 7-Eleven. The 20-something now often stops off at the shop after work to p
-
-## Rise and fall of Hong Kong’s ‘shop kings’: how plunging rents, debt crushed their empires
-They were the “shop kings” of Hong Kong, owning dozens of properties in the same district and even the same street. But over the past few years many of these landlords have gone bankrupt, hit by the collapse in post-pandemic rents and tighter bank lending. Shop prices in the city have fallen more th
-
-## Next-gen wealthy Hongkongers drop property for higher returns in deposits and hedge funds
-When Maria’s family moved out of their house in Hong Kong’s Southern district, one of the bigger jobs was packing her mother’s belongings, including the orange Hermes boxes that had accumulated in the family gym. Her 86-year-old father was reluctant to rent, while her mother – who had spent her life
-
-## How AI tools are reshaping stock trading, investment research in China
-When Ryan Lei has an investment idea, he no longer has to spend days writing code and trawling through historical data to corroborate it. The 27-year-old quantitative trader in Hong Kong now delegates much of the grunt work to artificial intelligence. For a recent bet tied to a major technology init
-
-## Taobao’s ‘ugly’ goods find a growing market among China’s young consumers
-Products widely considered “ugly” or “bizarre” have gone viral online in China as millions of young consumers embrace the items’ quirky humour and distinctive character. Cumulative sales of such products on Taobao – an e-commerce platform of Alibaba Group Holding – have surpassed 230 million yuan (U
+## How Congress Empowered Presidential War-Making After 9/11
+Its effects continue to shape national security policy today.
 
 ## Why AfD Appeals to So Many Germans
 The far-right party surges in a regional election.
@@ -156,8 +159,20 @@ In a new book, Sally Hayden considers how journalists can puncture the detachmen
 ## Don’t Blame Ukraine for High Gas Prices
 Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is Trump’s war on Iran.
 
-## Why 9/11 Baffles Us 25 Years Later
-It’s the strategic disaster that keeps on giving.
+## The Dynamics of Dependence Beyond Thailand’s Immediate Neighborhood
+The past year has seen considerable steps forward in the country's relationships with Singapore and Indonesia.
+
+## Myanmar’s Military-backed President Ticks Cambodia Off His Diplomatic Bucket List
+Min Aung Hlaing leaves Phnom Penh after a two-day visit aimed at shoring up his regime's regional legitimacy.
+
+## Thailand Accuses Cambodia of Stationing Troops at World Heritage Site During Border Fighting
+Last week, UNESCO released a report detailing the extensive damage caused to the World Heritage Site by Thai military attacks.
+
+## Episodic Summitry Alone Cannot Reset India-China Relations
+Agreements are reached to facilitate meetings between leaders ahead of multilateral summits, but often don't move much beyond that.
+
+## Ahead of Credentials Showdown, Myanmar Accuses UN Representative of ‘Illegal’ Acts
+Naypyidaw is seeking the replacement of Kyaw Moe Tun, who pledged his loyalty to the opposition after the 2021 coup.
 
 ## AI, Robotics and the Coming Economic, Military, and Political Revolutions
 In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
@@ -168,20 +183,14 @@ The organization’s smaller members can use a China-India-Russia-dominated foru
 ## What Role Does Denuclearization Have in North Korea-US Dialogue Today?
 Breaking down the denuclearization debate from both sides: North Korea and the United States.
 
-## Can India Exploit China’s ‘Malacca Dilemma’?
-New Delhi need not match Beijing militarily to impose disproportionate strategic costs.
+## This Is Not Your Father’s Nuclear Flight Test Vehicle
+For decades, the United States’ nuclear weapons enterprise has wrestled with an institutional paradox. On one hand is the imperative to make the complex more “responsive” to global tumult and technical surprise, able to field new weapons quickly in reaction to unanticipated threats. On the other are
 
-## The Mecca Pact: A New Treaty Organization, Just Like the Old One
-MJDA is much like the Cold War’s CENTO and is likely to be just as impactful.
+## The Big Bet on the Emerging Space Economy
+The space economy has surpassed $600 billion in annual value, with some projecting it will reach a trillion by the 2030s. Jonathan Panter is joined by Joseph Yaffe (Cowboy Space), Brian Weeden (The Aerospace Corporation), and Dan Wald (Booz Allen) to weigh where the real growth is. They discuss how 
 
-## Learning Chinese Sign Language
-There are multiple different sign languages – some of which are not easily intelligible to deaf people.
-
-## Bangladesh and the Perils of Pax Silica
-It could end up exchanging strategic flexibility for an upgraded version of the subcontracting economy it is trying to escape.
-
-## Namal Rajapaksa’s Arrest and Sri Lanka’s Politics of Mutual Protection
-The old establishment elites have opposed Namal’s arrest. They want to preserve a system where one of their own is not jailed for corruption.
+## The Age of Strategic Exclusion
+Major powers are increasingly trying to shut out their rivals. Russia invaded Ukraine in part to prevent the latter’s further integration with the West. The United States is restricting China’s access to advanced semiconductors and encouraging allies to do the same. China’s Belt and Road Initiative 
 
 ## The War’s Last Generation Is Still Holding America’s Moral Debt
 On the first night of the evacuation of Kabul, Aug. 15, 2021, a young mother found me in the crowd at Hamid Karzai International Airport. She had marked me, correctly, as someone who spoke her language. By the end of the night, she was pressing the body of her dead child into my chest and telling me
@@ -197,15 +206,6 @@ For eight years I helped decide whether American counter-terrorism money was wor
 
 ## Forced Into the Right Decision? A Look at U.S. Land-Based Deterrence Posture
 In 2019, Steve Fetter wrote “A Cheaper Nuclear Sponge,” in which he argued that building a new intercontinental ballistic missile (ICBM) was unnecessary for strengthening U.S. land-based deterrence. After several years of changing defense budgets and strategic priorities, we asked Steve to revisit h
-
-## The Tyranny of Shipyard Cost-Plus Contracting
-As a naval shipyard commander, my mandate from Navy leadership is straightforward: return warships to the fleet as quickly as possible. Neither my shipyard nor many other public and private shipyards are consistently fulfilling that mission.Public shipyard availabilities — the scheduled periods duri
-
-## The Strange Transformation of the Front Line in Ukraine
-On Jan. 5, 2025, my volunteer platoon attached to the 23rd Special Purpose Battalion of the Presidential Brigade entered a 1-kilometer-long tree line called CHAI, on the outskirts of Kotlyne, a few kilometers west of Pokrovsk, Ukraine. Our task was to occupy a position whose status on DeepState, an 
-
-## The Mecca Pact’s Credibility Gap
-Collective-defense pacts are meant to make war less likely. Poorly designed ones can do the opposite. If allies make sweeping promises without the military integration, decision-making mechanisms, and escalation controls needed to carry them out, they may invite adversaries to test the boundaries of
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Niger mutiny exposes growing reliance on Russia
-The attempted power grab has exposed deep grievances within the army and tested Niger’s ties with its Sahelian allies.
+## Fashion industry leader wrestles PETA activists
+Fashion industry leader wrestles PETA activists
 
-## Philippines’ Muslim-majority Bangsamoro region votes for first parliament
-However, deadly violence marred the elections one day before the polls open in the southern Philippine region.
+## Why Bangladesh has lost 1,000 lives to measles despite record vaccine drive
+The nation has administered 20mn vaccines since April, but past slipups have led to a mounting death toll, say analysts
 
-## Protests erupt across Syria over sharp fuel price hikes
-Protests have erupted in Syria after the government raised fuel prices.
+## US Kennedy Center faces bankruptcy, Washington Post reports
+Board of trustees recommends that the main building be closed immediately due to costs, US newspaper reports.
 
-## Heavy rain falls over the Kaaba in Mecca
-Heavy rain and thunderstorms hit Mecca creating dramatic scenes as worshippers prayed at the Grand Mosque.
+## The Zionist dream of a state stretching from the Mediterranean to Iraq
+The story of the idea of a 'Greater Israel' and the Americans who want it to be a reality
 
-## Charlie Kirk statue vandalised outside Turning Point USA headquarters
-Vandals spray red paint on Charlie Kirk statue days after its unveiling to mark one year since his death.
+## Animated map shows spread of illegal Israeli settlements across Palestine
+Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.
 
-## Yemen’s Houthis advance on government strongholds of Marib, Taiz
-Fighting is intensifying in Yemen as Houthi fighters advance toward Saudi-backed government-held areas.
+## Indonesia intensifies search for 129 people missing after ship capsizes
+Officials say more than 600 rescuers battle stormy seas in search for missing people.
 
-## Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed
-Oman says Hormuz talks with Iran and Gulf states are postponed 'in the interests of consensus'.
+## Protests break out across Syria over fuel price increases
+Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
 
-## Israeli quadcopter terrorises homes in Gaza City
-Video shows a low-flying Israeli quadcopter maneuvering between residential buildings in eastern Gaza City.
+## Residents help battle forest fires threatening homes in Ecuadorian capital
+Residents join firefighters battling forest fires that are threatening residential areas in Quito, Ecuador.
+
+## Tata Sons may be valued up to ₹12.5 lakh cr in IPO
+Tata Sons' potential IPO valuation is estimated between ₹9-12.5 lakh crore., reflecting a discount on its underlying portfolio worth ₹15-16 lakh crore. Investors will price listed stakes and unlisted businesses, applying a holding company discount. The Reserve Bank of India rejected Tata Sons' plea 
+
+## India Inc's apprenticeship participation remains limited to 30%
+Only thirty percent of registered establishments actively provide apprenticeship training. Administrative issues and stipend payment delays hinder wider participation in the scheme. Government data shows a dip in dropout rates, which is expected to boost apprentice numbers. While registration trends
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
@@ -273,11 +279,11 @@ After an 18 year career at Philips spanning multiple finance leadership roles, T
 ## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
 Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
 
-## AUDITORS: INTEGRITY in the TRUST business – Does it exist?
-Seasoned finance professional Robin Banerjee, Chairman of Nucleon Research Pvt. Ltd. and former Managing Director of Caprihans India Ltd., examines how recent regulatory actions and misconduct cases involving leading audit firms across major economies are testing the trust, independence and accounta
+## BRICS 2026: PM Modi flags tech, critical minerals weaponisation
+Prime Minister Narendra Modi cautioned against using technology and critical minerals for advantage. He emphasized that a cooperative approach would benefit all nations globally. Modi highlighted inclusivity in technology adoption during the BRICS session in New Delhi. He also discussed global tensi
 
-## The CFO's Strategic Role: Balancing Growth, Profitability, and Cash Generation
-In today's corporate landscape, Chief Financial Officers have evolved into essential strategic partners, expertly juggling the demands of growth alongside financial prudence. They adeptly navigate the complexities of profitability and cash flow, utilizing advanced digital tools for more accurate for
+## Xi-Modi thaw warms up ties at BRICS, but old India-China fault lines remain
+Chinese President Xi Jinping and Prime Minister Narendra Modi used their first meeting on Indian soil in seven years to signal a thaw in ties and a willingness to manage shared challenges, including US President Donald Trump. But deep differences remain over the border dispute, trade imbalance, Chin
 
 ## EU dropped aluminium scrap duty plan over India concerns, sources say
 EU-METALS/ALUMINIUM-SCRAP (PIX)EU dropped aluminium scrap duty plan over India concerns, sources say
@@ -296,10 +302,4 @@ The Reserve Bank of India has launched three key surveys today. These surveys ai
 
 ## RBI may not need immediate CRR hike as liquidity surplus likely to moderate: UBI Report
 The Reserve Bank of India may not need to raise the cash reserve ratio (CRR) in the immediate term as the banking system's surplus liquidity is expected to moderate through FY27, with the central bank able to use more flexible tools such as variable rate reverse repos and forex swaps, noted a resear
-
-## Supreme Court sends Vedanta’s Rs 5.25 crore SEBI penalty case back to SAT
-The Supreme Court has returned a penalty case to the Securities Appellate Tribunal concerning a Rs 5.25 crore penalty imposed on Cairn India over its 2014 share buyback. The tribunal had annulled SEBI's earlier decision, which accused Cairn of misleading investors and lacking adequate purchase order
-
-## India may restart bilateral investment treaty talks with UK as model text nears finalisation
-India is close to finalizing its model text for bilateral investment treaty talks with the United Kingdom. Internal discussions on the draft agreement are nearly complete and cabinet approval is expected soon. The government is reviewing measures to make the treaty more attractive for foreign invest
 
