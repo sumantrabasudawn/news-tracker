@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Scotland and Wales renew push for independence — using Burnham’s own rhetoric
+Leaders of three devolved nations take part in ‘historic’ meeting in Cardiff
+
+## Trump to scrap Biden-era climate protections on power plant pollution
+Move continues dismantling of environmental protections during the president’s second term as he boosts fossil-fuel industry
+
+## UK chancellor offers pact to chief executives on growth
+John Healey pledges to provide fiscal and economic discipline in return for investment and jobs
+
+## Carney urges EU to cement trade deal as Ottawa seeks pivot from US
+Canada’s prime minister tells FT deeper ties with Europe will make both sides ‘more resilient’ amid Trump turmoil
+
 ## Oil hits $109 after Saudi Arabia closes vital export pipeline
 Riyadh pulls out of regional talks to de-escalate hostilities over Strait of Hormuz in wake of drone attack last week
 
@@ -11,12 +23,6 @@ World’s most widely watched financial marker moves towards levels not seen in 
 
 ## Tories look at ways to cut UK inheritance tax
 Conservative leader Kemi Badenoch says the levy mainly caught ‘home-owning middle-class families’ instead of the super wealthy
-
-## Nigel Farage refuses to say if Reform UK’s £72mn gifts would comply with new cap
-Under Labour’s proposed rules, overseas donors would be prevented from giving more than £100,000 a year, retrospective to March 25
-
-## Unions demand softening of UK immigration reforms
-Proposals will ‘punish’ low-paid migrants doing essential work in public services and create a new staffing crisis in social care, says motion passed at TUC
 
 ## Why delaying an AI doomsday would benefit investors too
 A slowdown would reduce the enormous amounts of cash being lavished on training new models
@@ -32,9 +38,6 @@ Finance minister Lars Klingbeil wants safeguards for the bank’s 40,000 employe
 
 ## France in ‘astonishing’ push to lift EU sanctions on Russian oligarch
 Paris replicates Viktor Orbán’s tactics in bid to free French nationals from Azerbaijan
-
-## UK government to take over insolvent steelmaker
-Norwegian firm Blastr had been in talks to acquire Speciality Steel UK, once part of Sanjeev Gupta’s metals empire
 
 ## Satcom to play key role in remote areas: TRAI Chairman
 With spectrum allocation awaiting final approval, India’s satcom rollout will depend on government decisions and security clearances for operators
@@ -108,6 +111,9 @@ The decision comes amid the large-scale devastation caused by the recent floods 
 ## Why Delhi HC rejected Vimal Elaichi makers' plea over FDA notice to SRK, Ajay Devgn, Tiger Shroff
 The court said the petitioner should approach courts in Maharashtra, which would be the more suitable forum to address its concerns about the notices.
 
+## NYC’s wealthy Chinese grapple with Beijing’s tax rules as enforcement deadline nears
+Months after Beijing unveiled a bevy of new tax rules for offshore trusts, the fallout has now reached New York City – home to one of the largest concentrations of mainland Chinese wealth outside Asia – after the changes swept across Hong Kong and Singapore. Under the rules, which took effect on Jul
+
 ## Hong Kong malls see ‘gradual recovery’ with new stores and events: Hang Lung CEO
 The outlook for shopping centres in Hong Kong is improving, and the business will thrive if operators use new stores and attractive events to counter locals’ fondness for cross-border shopping trips, according to the CEO of Hang Lung Properties. The company’s malls recorded growth in July, and busin
 
@@ -129,8 +135,8 @@ The shipbuilding and maintenance arm of state-owned marine transport giant China
 ## Handshake or arm-wrestling match? What China’s stock traders expect from Xi-Trump meeting
 The coming meeting between President Xi Jinping and his US counterpart Donald Trump is on the radar of market traders in mainland China and Hong Kong, as the results – whether smiling handshakes or a tense test of wills – could add volatility to an already unpredictable market. However, observers sa
 
-## Data from Greater Bay Area’s 88 million residents to help improve healthcare policy: GSK
-British pharmaceutical company GSK is turning to patient data gathered from the 88 million residents of the Greater Bay Area’s 11 cities to speed up drug development in vaccines and cancer care, as officials push for closer cross-border medical cooperation. GSK Hong Kong and Macau general manager Ni
+## Fresh Houthi Strikes Inject New Uncertainty Into Iran War
+As oil prices rise, planned regional talks hit a snag.
 
 ## Why My Kyiv Visit Worried Me So Much
 FP’s editor in chief on the mood in Ukraine—and what it means for the future of war.
@@ -152,9 +158,6 @@ India and China compete to shape the bloc’s agenda moving forward.
 
 ## What in the World?
 Test yourself on the week of Sept. 5: A German state votes, Philippine police make a high-profile arrest, and Nigeria appoints a new military commander.
-
-## The United States of Propaganda
-Few Americans have the vocabulary to describe what’s making them miserable.
 
 ## North Korea Confirms September 12 Missile Launch Was Joint Firepower Drill
 The exercise came a day after trilateral Freedom Edge drills ended and as U.S. President Donald Trump continues to seek a new summit with Kim Jong Un.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple
-The companies had accused Apple of favouring OpenAI’s ChatGPT over rival AI chatbots.
+## Landowners in Texas ask court to stop Trump border wall
+Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.
 
-## Sudan aid networks at risk of collapse, UN agencies warn
-Without immediate donations, shelter and aid relief supplies could be depleted by the end of the month, says IOM.
+## Israeli attack targets Gaza displacement camp
+Israeli attack targets Gaza displacement camp
 
-## Funerals for children killed after fire spreads to school in DR Congo
-Memorial services were held for at least 28 children who were killed after a fire spread to their school in DR Congo.
+## US repeals rules limiting greenhouse gas emissions by power plants
+The Trump administration says it could save power plants more than $300bn and 'unleash' American energy.
 
-## What’s the VAR mistake controversy in Haaland’s Man City goal vs United?
-Football players, fans, managers, and experts call for more accountability and less reliance on VAR for crucial calls.
+## Macklemore cut from Ed Sheeran tour for pro-Palestine stance
+Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.
 
-## Trump says calls for more control on AI are a ‘SICK conspiracy’
-US president says current oversight is adequate and regulations could allow China to win AI competition.
+## ‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit
+Activist and former Columbia University student Mahmoud Khalil is filing a lawsuit against the university and a dean.
 
-## Djibouti humanitarian situation worsens as Yemenis seek refuge
-Djibouti humanitarian situation worsens as Yemenis seek refuge
+## Why talks in Oman between Iran and Gulf Arab states were postponed
+Hopes for a breakthrough on the Iran war have taken a hit after talks in Oman between Iran-Gulf nations were postponed.
 
-## NATO pledges increased Ukraine support as Russia strikes near border
-NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to 'scare' them off.
+## US blocks Iran nuclear chief from attending key Vienna conference
+Iran accuses US of pressuring Austria to revoke visa for Mohammad Eslami, calling it a violation of member state rights.
 
-## Jerusalem Daily: A new report on the erosion of Palestinian life
-Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.
+## Israel probing Naza film on Gaza for treason, inciting anti-Semitism
+Film alleges mass ⁠civilian deaths routinely built into military decisions amid Israel's genocidal war on Gaza.
 
 ## Gulf Oil Lubricants targets double-digit volume growth, bets on EV fluids and B2B expansion: CFO
 Gulf Oil Lubricants is targeting double-digit volume growth by continuing to grow at 2 to 3 times the industry rate, while simultaneously betting on B2B expansion in infrastructure and industrial segments, CFO Manish Gangwal said in an exclusive interview with ETCFO. The Hinduja group company that m
