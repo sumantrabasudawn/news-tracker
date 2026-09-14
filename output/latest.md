@@ -1,10 +1,10 @@
 # AION Intelligence
 
+## Michael Dell’s family office leads $7.7bn deal to take insurance broker private
+DFO Management and Sequence near acquisition of Baldwin Group as industry undergoes wave of consolidation
+
 ## Gulf states postpone talks with Iran over Hormuz impasse
 Delay to crunch meeting because of lack of consensus sets back efforts to restore shipping through vital waterway
-
-## Michael Dell’s family office nears deal to take $4.1bn insurance broker private
-DFO Management in advanced talks with Baldwin Group as historically fragmented industry undergoes wave of consolidation
 
 ## Trump rejects calls from tech bosses for AI slowdown
 President denounces demands for regulation as existential fears over technology move to the centre of US politics
@@ -24,6 +24,12 @@ US president says the attacks and not his war in Iran are responsible for diesel
 ## Russians to vote, but the outcome is already decided
 First election for the Duma since the Ukraine invasion, inflation reports dominate the economic data run, and the Fed, BoE and BoJ make interest rate announcements
 
+## Podcaster Steven Bartlett: ‘You’d be shocked how little time I spend on the internet’
+The ‘Diary of a CEO’ host, who has faced criticism over spreading fringe claims, is building a one-stop shop for other creators
+
+## Dutch start-up completes funding round for encrypted silicon technology
+Fortaegis claims it can create ultra-secure computer networks by harnessing the unique digital fingerprint of chips
+
 ## PwC shakes up Indian operations as AI threat looms over consulting sector
 Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture
 
@@ -33,17 +39,20 @@ Acquisition of Sofie Biosciences is second big purchase for medical imaging spec
 ## The coming robotaxi revolution
 Self-driving cars could transform urban transport, if they can win public trust
 
-## Trump’s vision of Alaska as LNG superpower confronts an $80bn test
-Alaska LNG and Polar LNG face a series of financing, logistical and legal hurdles to tap massive gasfields
-
-## Submit a question: What do British businesses need from the Budget?
-Take part in a live Ask an Expert Q&A with John Gapper, the FT’s chief UK business columnist, on Thursday September 17 at 1pm BST
+## '99 Quna Festival' Wraps Up as Qunabox's Physical AI Entertainment Debut Draws Crowds, Giving Its Second Growth Curve Early Market Validation
+'99 Quna Festival' Wraps Up as Qunabox's Physical AI Entertainment Debut Draws Crowds, Giving Its Second Growth Curve Early Market Validation
 
 ## Related parties of a personal guarantor would be assigned zero voting share on repayment plan: IBBI proposal
 In the wake of the aforementioned development, IBBI has planned four amendments, including exclusion of related parties of the guarantor from voting on the repayment plan; and recording of creditors’ deliberations on the repayment plan
 
+## US Section 232 move: Opportunity or fresh hurdle for Indian solar makers?
+The answer partly depends on the willingness, and financial capacity of Indian companies to set up factories in the US
+
 ## Bharucha, Balasubramanian believed to be in race for top position at HDFC Bank
 The Board’s move to find a replacement for Jagdishan follows his late August decision to not seek his re-appointment as the MD & CEO of the Bank.
+
+## A nuanced take on life insurance ‘surrenders’
+Why a need-based withdrawal should not automatically be construed as policy rejection or evidence of mis-selling
 
 ## Tata Sons listing to unlock ₹1.20-lakh crore value for seven group companies
 At the market estimated value of ₹10 lakh crore of Tata Sons, the stake of Tata Steel and Tata Motors PV in Tata Sons will be valued at ₹30,600 crore each
@@ -51,17 +60,26 @@ At the market estimated value of ₹10 lakh crore of Tata Sons, the stake of Tat
 ## SEBI weighs two options for derivatives settlement, closing auction timings
 Regulator proposes blending VWAP and closing auction prices, or retaining the old method for at least a year
 
-## Coal supply to Punjab power plants remains adequate, state needs to improve offtake from mines, says ministry
-Adequate coal is available to Punjab's power plants, Coal India Limited (CIL) remains fully committed to ensuring uninterrupted fuel supply for power generation across the country, including in Punjab
+## Big NBFCs join the gold loan mela
+Liquid collateral proves irresistible to non-banks battling asset quality woes in unsecured loans
 
-## The AI slowdown debate picks speed
-Why "Pacing the Frontier AI” may open the door for China and India
+## Petrol powers half of new cars if hybrids not counted
 
-## SAP’s three Rs: Building responsible, relevant and reliable AI for enterprises
-The adoption and consumption of AI will keep increasing dramatically year on year, says Manish Prasad, President & Managing Director - SAP Indian Subcontinent, SAP India
 
-## Tata Sons board to discuss RBI’s listing mandate on Thursday
-While a writ petition against the RBI’s action is possible, lawyers point that a court is unlikely to substitute it’s view for RBI’s on matters of financial sector regulation.
+## FPIs withdraw 13,100 crore from equities in 2 weeks
+
+
+## Companies hunt for margin, pricing balance
+
+
+## RBI: Only disputed amount can be frozen under new norms
+
+
+## From policy to code: DPDP creates new privacy roles
+
+
+## IPO set to unlock value in group cos holding Tata Sons stake
+
 
 ## Oil infra hit by Ukraine, Russia gets 70% of its fuel from India
 August marked a milestone for Russia as it imported record levels of oil products, with Indian exports accounting for nearly seventy percent. The gasoline supplied by India was produced from Russian crude at a shared refinery. While India remains the second-largest importer of crude oil from Russia,
@@ -69,47 +87,32 @@ August marked a milestone for Russia as it imported record levels of oil product
 ## Fed, crude, dollar and Iran war: 4 factors that could move gold next week
 Gold and silver prices are expected to remain volatile next week. The US Federal Reserve's interest rate decision will be a key global event. Crude oil movements and the US dollar will also influence market sentiment. Other central banks' monetary policy and inflation data will be closely watched. G
 
-## Stock market holiday: Are NSE, BSE closed for trading on Ganesh Chaturthi?
-On September 14, stock markets will halt trading in observance of Ganesh Chaturthi. While equity derivatives will remain suspended for the day, the commodity market will only partially close during the morning session. Trading will pick back up in the evening session. Investors should keep these adj
+## Congress, BJP trade barbs over all-vegetarian fare for dignitaries at Brics Summit
+This is not the first time the government arranged a full vegetarian spread for heads of states and other important leaders.
 
-## Bank holiday on Ganesh Chaturthi: Where are banks closed on September 14? Check state-wise list
-On September 14, banks in various Indian states will shut down in observance of Ganesh Chaturthi. It's important for customers to check their specific branch's holiday hours, as additional regional holidays may also affect bank operations throughout the month. However, ATMs and online banking will s
+## 4 killed, 6-year-old injured after fresh violence breaks out in Manipur's Tamenglong
+The incident coincided with the “Black Day”, observed annually to remember the victims of ethnic violence during the Kuki–Naga conflict in Manipur.
 
-## India completes its 2,843 km Dedicated Freight Corridor network; why it’s a game-changer for railways
-India's Dedicated Freight Corridor project has finally reached a milestone that was years in the making. With the commissioning of the last remaining sections of the Western Dedicated Freight Corridor, the country's 2,843-km dedicated freight network is now fully operational.
+## CPI(M) in Keralam vows to fix lapses, regain public trust after poll debacle
+Months after the crushing debacle in the assembly elections, the top leadership of the Communist Party of India (Marxist) (CPI[M]) gathered in Kozhikode for the three-day extended state committee meeting on Sunday, vowing to fix its organisational lapses identified through multi-tier internal review
 
-## India’s semiconductor sector attracts $1.4 billion in funding across 281 companies
-India's semiconductor sector has attracted $1.4 billion in equity funding across many companies. Nearly half of this investment occurred since 2025, showing rapid growth. The nation is preparing to host SEMICON India 2026, a major industry event. Bengaluru leads as the primary semiconductor hub, att
+## 7 arrested with 2 peacock carcass, 6 firearms: Officials
+Seven men were arrested after forest officials allegedly caught them hunting peacocks in the Baggalumadu forest area near Motanahalli in Yadgir taluk on Saturday night, officials said on Sunday
 
-## FPIs turn sellers again: Rs 13,138 crore pulled out of Indian equities
-In 2023, foreign portfolio investors have pulled out an astonishing Rs 2.37 lakh crore from Indian equities. The latest round of selling experienced in early September is attributed to global uncertainties and increasing US bond yields. Rising crude oil prices, driven by heightened geopolitical tens
+## BJP to hold state-wide march against Vande Mataram row from tomorrow
+Karnataka BJP president B Y Vijayendra on Sunday announced a five-day padayatra from September 15 across all 224 Assembly constituencies to protest the state government’s decision to restrict the rendition of Vande Mataram at official programmes
 
-## Stock market outlook: Fed, crude prices and more to guide Dalal Street this week
-Dalal Street is gearing up for a condensed trading week, with investors keenly awaiting pivotal global and domestic data. The focus will be on the US Federal Reserve's interest rate decision and outlook on policy. Domestic inflation trends and fluctuations in crude oil prices will influence market d
+## A tale of twin cities: How digital replica could help transform urban governance
+Indian cities face mounting pressures today due to informal settlements, large-scale redevelopment, heritage protection, flooding and infrastructure strain.
 
-## Brics Summit: PM Modi’s bilateral talks put security, trade in focus
-Modi and Marcos agreed to enhance India-Philippines cooperation in defense, trade, and security at the Brics Summit, addressing regional issues together.
+## Leaders hail Brics CONNECT initiative
+Brics countries have committed to strengthening collaboration in “forecasting skills needs” by analysing labour market trends in digital, green, care and other priority sectors, as the 11-nation grouping of major emerging market economies welcomed “Brics CONNECT”, a new platform for technical cooper
 
-## Massive global support needed for developing nations SDGs: UN secy Guterres at Brics Summit
-UN Secretary-General Guterres urged massive support for developing nations' SDGs, emphasizing climate justice and reforming financial systems for equity.
+## Brics leaders vow crackdown on ‘scam compounds’, push for coordinated global rules on AI
+Scam networks often use fake investment platforms, romance scams, and fraudulent job offers to defraud victims.
 
-## SC lets manager off the hook, puts focus on Indian Bank in 35-year-old loan case
-The Supreme Court acquitted ex-bank manager V Balakrishnan, revealing Indian Bank's failure to return ₹2.7 crore in excess auction proceeds to borrowers' heirs.
-
-## Brigadier Mishra gets Royal College Fellowship for contributions to ophthalmology
-Brigadier Sanjay Kumar Mishra and his team of ophthalmologists have held several eye camps in the country’s remote areas to provide cutting-edge surgical care.
-
-## Bangladesh wants to ‘reset’ ties with India, calls Hasina-era relationship ‘uncomfortable’
-Relations between India and Bangladesh came under strain over New Delhi's decision to provide refuge to ousted prime minister Sheikh Hasina.
-
-## Last few monsoon showers for Delhi? IMD forecasts light to heavy rain in some areas over next three days
-Meteorologists said the showers could be one of the last major spells of rain in the national capital.
-
-## Mumbai Police deny nod for activist Manoj Jarange's September 19 hunger strike at Azad Maidan
-The cops, while rejecting Jarange-Patil's formal request, cited potential security concerns owing to the ongoing Ganeshotsav festival.
-
-## Assam man, 23, held for rape, murder of woman over alleged affair: Police
-The officer said that victim’s body was sent to Assam Medical College and Hospital (AMCH), Dibrugarh for postmortem
+## Qatar seeks to capture China’s growing Gulf logistics push as war disrupts trade routes
+Qatar is stepping up efforts to attract Chinese companies as the conflict involving Iran disrupts trade routes in the Gulf, adding urgency to a broader push by Chinese businesses to diversify supply chains and establish operations closer to customers. “Diversification of supply chain is going ahead 
 
 ## Hong Kong aims to scale its tech ecosystem and nurture more unicorns: HKSTP CEO
 Hong Kong is intensifying efforts to attract technology start-ups and nurture unicorns through expanded financial support via a key government-backed platform, leveraging the city’s booming fundraising activities and world-class financial infrastructure. Investors are displaying an increased appetit
@@ -131,9 +134,6 @@ When Ryan Lei has an investment idea, he no longer has to spend days writing cod
 
 ## Taobao’s ‘ugly’ goods find a growing market among China’s young consumers
 Products widely considered “ugly” or “bizarre” have gone viral online in China as millions of young consumers embrace the items’ quirky humour and distinctive character. Cumulative sales of such products on Taobao – an e-commerce platform of Alibaba Group Holding – have surpassed 230 million yuan (U
-
-## Private equity’s Fang Fenglei on investing in China, capital market reforms
-Over the past three decades, investor Fang Fenglei has had a major role in shaping China’s capital markets. He worked with Morgan Stanley in the early 1990s to help create the country’s first joint venture investment bank – China International Capital Corp. Then, at the start of the millennium, he s
 
 ## Why AfD Appeals to So Many Germans
 The far-right party surges in a regional election.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Zverev defeats Shelton in four sets to win his first US Open title
-Germany's Alexander Zverev beats American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 to win the men's singles title in New York.
+## Niger mutiny exposes growing reliance on Russia
+The attempted power grab has exposed deep grievances within the army and tested Niger’s ties with its Sahelian allies.
 
-## Could AI really kill us within a decade?
-AI companies are warning that their technology could wipe out humanity.
+## Philippines’ Muslim-majority Bangsamoro region votes for first parliament
+However, deadly violence marred the elections one day before the polls open in the southern Philippine region.
 
-## Barcelona beat Levante as Yamal scores twice to maintain perfect start
-Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante.
+## Protests erupt across Syria over sharp fuel price hikes
+Protests have erupted in Syria after the government raised fuel prices.
 
-## Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles
-The Americans won the 100m and 200m at the Ultimate Championship that saw elite athletes win $150,000 each.
+## Heavy rain falls over the Kaaba in Mecca
+Heavy rain and thunderstorms hit Mecca creating dramatic scenes as worshippers prayed at the Grand Mosque.
 
-## Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body
-Erling Haaland's derby winner against Manchester United should not have stood, Premier League referees' body admits.
+## Charlie Kirk statue vandalised outside Turning Point USA headquarters
+Vandals spray red paint on Charlie Kirk statue days after its unveiling to mark one year since his death.
 
-## Tehran and Muscat delay talks, citing regional consensus need
-Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.
+## Yemen’s Houthis advance on government strongholds of Marib, Taiz
+Fighting is intensifying in Yemen as Houthi fighters advance toward Saudi-backed government-held areas.
 
-## A third person has died of measles in the US, health officials say
-Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.
+## Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed
+Oman says Hormuz talks with Iran and Gulf states are postponed 'in the interests of consensus'.
 
-## USA defeat France to win 12th FIBA Women’s Basketball World Cup
-Breanna Stewart leads comeback win for the record champions despite France's early lead in the Berlin final.
+## Israeli quadcopter terrorises homes in Gaza City
+Video shows a low-flying Israeli quadcopter maneuvering between residential buildings in eastern Gaza City.
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
