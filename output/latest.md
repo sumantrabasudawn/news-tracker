@@ -1,67 +1,82 @@
 # AION Intelligence
 
-## Reform’s windfall changes the mood music
-Donations will not solve everything but they will strengthen Nigel Farage’s party in the fight against Tories to lead Britain’s rightwing bloc
+## US tech stocks fall after big AI groups call for slowdown
+Memory-chip makers and Nvidia slide during morning trading in New York
 
-## An ode to North America’s longest saltwater pool
-Outdoors and ocean-facing, Vancouver’s Kitsilano Pool is 137 metres long (or 137.5, depending on who you talk to) and nearly 100 years old. But the fate of this much-loved landmark is up for debate.
+## Steve Bannon and Bernie Sanders unite in AI safety call
+Rightwing activist and leftwing senator join forces to demand stronger regulation of the technology
 
-## Oil hits $108 as Gulf states postpone talks with Iran over Hormuz
-Deferred meeting on vital waterway comes on top of Saudi pipeline closure following drone attack last week
+## Brain implant lets paralysed patients speak via digital avatar
+New neurotechnology could eventually help people who have lost speech faculties due to stroke or brain conditions
 
-## Japanese utility halts nuclear reactor restart after data manipulation scandal
-Chubu Electric’s decision marks setback in country’s pivot back to atomic power 15 years after Fukushima disaster
+## Sacked top civil servant given £860,000 pay-off approved by Starmer
+Settlement for Chris Wormald far exceeded standard contractual entitlements, former PM was told
 
-## High inflation or low credibility?
-Making sense of the Fed’s next move
+## America’s superheroes moved to Britain, but will they stay?
+The UK has been a major beneficiary of Hollywood shifting movie production overseas
 
-## China’s spy agency warns of AI risk to national security
-Beijing signals growing concern over how rapid advances in technology could be used against the country
+## Ten-year Treasury yield hits 5% for first time since 2023
+Rise in US borrowing costs takes world’s most important financial gauge into perilous territory
 
-## EU and Canada to toast to closer bonds in bid to rally multilateral world order
-Also in this newsletter: Russia oligarch sanctions hold-up
+## Stoltenberg reneges on Munich Security Conference top job plan
+Former Nato secretary-general to ‘co-chair’ German foreign policy and defence forum while remaining in Norway
 
-## FirstFT: Oil surge stirs UK rate rise debate
-Also in today’s newsletter: Swedish elections and Euronext open to Deutsche Börse merger
+## UK government considering takeover of insolvent steelmaker
+Norwegian firm Blastr had been in talks to acquire Speciality Steel UK which was once part of Sanjeev Gupta’s metals empire
 
-## Novo ditches Nordisk from name as drugmaker attempts revival
-Danish pharmaceutical group is under pressure from investors to regain ground in obesity market
+## Despite high-end holiday boom, Club Med investors have a lot to unpack
+Resort operator plans to offer more premium all-inclusive breaks but it is a tough business in a highly competitive market
 
-## Tech stocks fall after big AI groups call for slowdown
-South Korea’s tech-heavy Kospi slides as Wall Street is set to open lower
+## Crispin Odey loses appeal against industry ban
+Hedge fund founder’s fine reduced to £1.5mn but verdict is blow to attempts to repair his reputation after allegations of sexual harassment and assault
 
-## Hugo Boss chair steps down under pressure from Frasers Group
-Stephan Sturm to depart board of German fashion group after clashing with largest shareholder over dividend payments
+## AI companies must relinquish some of the power at their disposal
+The founders of OpenAI, Anthropic, Grok and DeepMind have warned about the dangers, now technology needs to be human scale
 
-## Can AI’s leaders really put aside rivalry for the common good?
-The deep schism between OpenAI and Anthropic has led to a race-like dynamic towards ever more powerful models
+## Michael Dell’s family office leads $7.7bn deal to take insurance broker private
+DFO Management and Sequence clinch acquisition of Baldwin Group as industry undergoes wave of consolidation
 
-## Druckenmiller: no US rate cuts needed
-Plus, credit fund Arini’s woes, Franklin Templeton rebounds and the Bayeux Tapestry at the British Museum
+## India, Vietnam to expand defence ties through joint production of military hardware
+The two sides decide to expand cooperation in areas of air connectivity, nuclear energy and space
 
-## India gains wider EU steel access, but carbon levy remains
-The combined quota is equivalent to about 68.4% of India’s 2.4 million tons of steel exports ​to the EU ‌in 2025, up from 39.4% under the existing quota
+## BHEL Board okays ₹65 crore investment in JV NTPC BHEL Power Projects
+The JVC aims to execute EPC contracts for power plants and infrastructure projects and to manufacture and supply equipment both in India and abroad
 
-## Natura Bissé renews as The Official Spa Brand of The World's 50 Best Hotels 2026
-Natura Bissé renews as The Official Spa Brand of The World's 50 Best Hotels 2026
+## Railway minister to virtually launch various projects in Gujarat, dedicate to nation 4 GCTs
+He will dedicate four Gati Shakti Cargo Terminals (GCT), at Bhimasar (Kutch), Devaliya (Junagadh), Chandisar (Banaskantha) and Shivlakha (Kutch), to the nation and also lay the foundation stone for the GCT at Linch in Mehsana
 
-## India, Canada begin next round of talks on proposed trade pact: Official
-The issues that would figure in the five-day (September 14-18) talks include trade in goods, services, rules of origin, and technical trade barriers, among others
+## India’s water initiatives highlighted at UN rights council side event
+Hansraj Singh of Sambhali Trust noted that India has established institutions to promote cooperation among states in managing rivers across boundaries
 
-## Amazon ramps up India network ahead of festive season; adds 20 FCs, 150 delivery hubs
-The expansion is part of the company's announced investment of over ₹2,800 crore to bolster its pan-India operations and infrastructure, Amazon said in a statement
+## NCLT rejects Jet Airways' liquidator plea seeking ₹500cr from Boeing
+The fact remains that Boeing Company has not supplied any of the Aircrafts under the Agreements
 
-## COAI, British High Commission ink MoU for cooperation on AI, digital trust, intelligent connectivity
-The memorandum of understanding (MoU) was inked at the CO.AI 2026 event organised by Cellular Operators Association of India (COAI), in association with the British High Commission
+## Cars24 and Spinny choose different models for India’s ₹4 lakh crore used-car market
+As Spinny doubles down on inventory-led retail and Cars24 pivots to commissions and services, the contest is increasingly centred on profitability rather than headline revenue
 
-## MSE facilitates its first tokenised corporate bond under SEBI’s Demat 2.0 pilot
-Bond issued by IIFL Finance Ltd through MSE’s Electronic Bond Platform, with Trust Investment Advisors Pvt Ltd serving as arranger
+## Etihad Airways says passenger numbers have rebounded from Iran war impact
+At Abu Dhabi-based Etihad, available ‌seat kilometres — the industry's standard measure of passenger-carrying capacity — is 15% ‌to ⁠17% higher than a year ago
 
-## MoRTH plans more powerful low-speed EVs without registration; industry splits over exemption
-India’s draft low-speed EV rules would raise permitted motor power from 250W to 600W and remove the 60-kg weight cap while retaining registration exemption. The move has split the industry: full-service OEMs such as BGauss see a larger market, while Yulu warns heavier vehicles could exploit the exem
+## India, China discuss deepening energy cooperation as Chinese oil executive meets Min Hardeep Puri
+The meeting follows last Saturday’s talks between Prime Minister Modi and President Xi Jinping
 
-## Solar Industries to buy South Africa’s Omnia for $1.36 billion
-All-cash deal via Solar SA Investments aims to scale mining explosives business across Africa from FY28
+## Stocks to buy: What's the outlook for Nifty for September 15-September 18 week? Check list of top stock recommendations
+Stock market recommendations: Emcure Pharmaceuticals, and VA Tech Wabag are the top stocks to buy on September 15, 2026, recommends Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities.
+
+## Global AI stocks slide as warnings over rapid development trigger investor concerns
+Global AI stocks plunged Monday after industry leaders urged slower development. Warnings from Anthropic, OpenAI, and xAI leaders sparked investor concerns. This led to significant declines in major chip and technology companies worldwide. The calls raised questions about continued massive investmen
+
+## India’s retail inflation rises to 4.82%, wholesale inflation climbs to 9.92%
+India's retail inflation rose to 4.82% in August, while wholesale inflation neared double digits. Food inflation increased to 5.95% at the consumer level and 7.05% wholesale. Fuel and power inflation surged sharply to over 22% on the wholesale price index. Economists anticipate continued upward pres
+
+## Brics leaders call for reliable supply chains for critical minerals
+India is actively seeking critical mineral supplies through international partnerships and domestic initiatives. Discussions are underway with Argentina, Australia, and Chile for lithium acquisition. The government launched a mission to boost exploration, processing, and overseas asset acquisition. 
+
+## EPFO launches WhatsApp channel for PF updates; here’s how to join
+The EPFO, in a social media post on X (formerly Twitter), said that members who join the WhatsApp channel can stay informed about the organisation’s latest updates. In its post on X, the EPFO said, “Join EPFO's official WhatsApp Channel to get important updates and useful information. Click on the l
+
+## Char Dham rail boost: Rishikesh-Karnprayag line hits 41 tunnel breakthroughs
+The Rishikesh Project Implementation Unit of RVNL achieved the breakthrough on Friday after completing the full 10.847-km length of Escape Tunnel 1. The tunnel is the second-longest on the project.
 
 ## Nitin Gadkari: 100% barrier-free FASTag tolls soon; to deliver Rs 25,000 crore benefit
 The Road Transport and Highways Minister said the government plans to make all toll booths on national highways barrier-free by March 2027. FASTag adoption has already increased toll collections by 10%, or around Rs 7,000 crore, taking total toll booth revenue to more than Rs 82,000 crore, according
@@ -69,50 +84,41 @@ The Road Transport and Highways Minister said the government plans to make all t
 ## Record $44.9 billion jump takes India’s forex reserves to lifetime high of $785.71 billion
 India's forex reserves had been under pressure since the West Asia conflict began earlier this year. The rupee came under sustained pressure during the period, prompting the RBI to intervene in the foreign exchange market through dollar sales.
 
-## Rs 6.42 lakh business travel paid via wife’s card and reimbursed, man gets tax notice; what ITAT said
-The Income Tax Appellate Tribunal (ITAT) Mumbai has provided partial relief to a businessman after the income tax department disallowed Rs 6.42 lakh of his travel expenses because the payments had been made using his wife's credit card.
+## India approves up to 654 MW of power export to flood-hit Nepal for 18 hours every day till December 31
+The decision comes amid the large-scale devastation caused by the recent floods and landslides in Nepal
 
-## Oil prices jump over 2% as fresh Saudi, Strait of Hormuz strikes fuel supply fears
+## Delhi HC rejects Vimal Elaichi makers' plea over Maharashtra FDA notice to SRK, Ajay Devgn, Tiger Shroff
+The court said the petitioner should approach courts in Maharashtra, which would be the more suitable forum to address its concerns about the notices.
 
+## Monsoon withdrawal to commence from Sept 19; rain deficit stays at 15%: IMD
+Fairly widespread rains over Jammu, Kashmir, Ladakh, are expected from September 15-17 and across Punjab, Haryana and Delhi on Sept 16 and 17
 
-## Stock market today: Are NSE, BSE closed for trading on Ganesh Chaturthi?
-On September 14, stock markets will halt trading in observance of Ganesh Chaturthi. While equity derivatives will remain suspended for the day, the commodity market will only partially close during the morning session. Trading will pick back up in the evening session. Investors should keep these adj
+## Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials
+Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials
 
-## Petrol powers half of new cars if hybrids not counted
+## ‘Trump is copying us’: Karnataka CM Shivakumar says Congress welfare model inspired US's $5,000 plan
+Earlier, Trump promised a $5,000 payment to every American adult if Republicans retain control of both houses of Congress in the 2026 midterm elections.
 
+## Chetan Borghariya arrested in CGPSC money laundering case: ED
+Borghariya, an additional collector in Balrampur-Ramanujganj district, was a former OSD in the CMO when Bhupesh Baghel was the chief minister
 
-## FPIs withdraw 13,100 crore from equities in 2 weeks
+## Tea, hugs, handshakes: Unseen clips of PM Modi interacting with world leaders at BRICS Summit
+Apart from PM Modi, the world leaders were also seen interacting amongst themselves, sharing smiles, handshakes, hugs, and candid moments at BRICS summit.
 
+## Gurugram bike crash accused denies ‘intentionally' ramming rider: ‘Didn't know it was a woman'
+A woman biker was hit by a car while her vehicle skid for several metres, with the whole incident being recorded on a video camera mounted on her two-wheeler.
 
-## Companies hunt for margin, pricing balance
+## Hong Kong malls see ‘gradual recovery’ with new stores and events: Hang Lung CEO
+The outlook for shopping centres in Hong Kong is improving, and the business will thrive if operators use new stores and attractive events to counter locals’ fondness for cross-border shopping trips, according to the CEO of Hang Lung Properties. The company’s malls recorded growth in July, and busin
 
+## China’s inbound tourism revenue projected to reach US$470 billion by 2040: UBS
+Revenue from inbound travel to China is forecast to reach US$470 billion by 2040, more than doubling its current share of the economy and helping offset weak domestic demand, according to UBS. Tourism from outside mainland China would expand to 1.5 per cent of gross domestic product (GDP) on a compo
 
-## South African delegate loses ₹3 lakh in Delhi cab; police track down cash, return it minutes before flight
-The police said quick coordination among personnel helped locate the cab and retrieve the cash in time for the delegate to continue his journey.
-
-## ‘Friend borrowed car 2 days ago’: Vehicle owner after woman biker chased, hit in Gurugram
-The incident pertains to a woman biker being hit by a car and getting dragged on the road for several feet while her bike skidded off in a different direction.
-
-## Nepal's wild elephants wreak havoc in Pilibhit villages, trample paddy and sugarcane crops
-Nepal's wild elephants wreak havoc in Pilibhit villages, trample paddy and sugarcane crops
-
-## Govt debunks Pakistani propaganda claiming deadly blast during BRICS Summit
-PIB dismissed claims allegedly made by Pakistani propaganda accounts that an explosion took place minutes before the BRICS summit concluded in New Delhi.
-
-## Ex-Tehelka editor Tarun Tejpal surrenders before Goa court after 2013 sexual assault conviction
-In August, the top court called in Tejpal to surrender before the court after he was convicted in a 2013 rape and sexual assault case.
-
-## What’s happening at Tata? RBI shuts exit route, IPO pressure mounts on Noel Tata
-Tata Trusts controls about two-thirds of Tata Sons and has resisted the idea of a public listing. The regulator’s decision leaves the Trusts with fewer options.
-
-## No urgent listing of plea over demolition of adjacent one in Satya Niketan: Delhi HC
-The court observed that the authorities must have conducted an audit before demolishing the adjoining building and asked the lawyer not to file a petition “in air”
-
-## Assam man accused of beheading wife attacked police, died after jumping off vehicle; family alleges encounter
-Ramanuj Goswami’s family refused to accept his body, claiming this was not an accidental death but a so-called “encounter” killing.
+## Forms Syntron draws Hong Kong’s next-gen tycoons in HK$940 million IPO
+Hong Kong’s younger generation of tycoons is becoming increasingly active in the city’s initial public offering market through family offices and private investments. But their investments extend beyond the property and traditional financial sectors associated with their predecessors, into technolog
 
 ## Hong Kong faces pressure to speed up trading hours review after South Korea’s move
-Hong Kong’s stock market is facing fresh pressure to accelerate its review of longer trading hours after South Korea’s main bourse extended its session by four hours on Monday, according to an industry player. The Korea Exchange, South Korea’s bourse operator, launched a real-time after-market from 
+Hong Kong’s stock market is facing renewed pressure to accelerate its review of longer trading hours after South Korea’s main bourse extended its session by four hours on Monday, according to an industry player. The Korea Exchange, South Korea’s bourse operator, launched a real-time after-market fro
 
 ## Cosco Shipping arm readies China IPO to capitalise on global shipbuilding wave
 The shipbuilding and maintenance arm of state-owned marine transport giant China Cosco Shipping has completed initial public offering (IPO) guidance registration, paving the way for a domestic listing to capitalise on a global shipbuilding boom. Cosco Shipping Heavy Industry finished its pre-IPO reg
@@ -126,14 +132,8 @@ The coming meeting between President Xi Jinping and his US counterpart Donald Tr
 ## Data from Greater Bay Area’s 88 million residents to help improve healthcare policy: GSK
 British pharmaceutical company GSK is turning to patient data gathered from the 88 million residents of the Greater Bay Area’s 11 cities to speed up drug development in vaccines and cancer care, as officials push for closer cross-border medical cooperation. GSK Hong Kong and Macau general manager Ni
 
-## How one company’s choice – resignation or the factory – left China’s young workers floored
-Weeks after sparking a nationwide outcry over its mass dismissal of recent college graduates, Xingyu – a major automotive lighting maker in eastern China – has severely penalised four of its executives and promised to help the former employees find new jobs. Two of the firm’s top executives received
-
-## Qatar seeks stronger logistics ties with China as war disrupts trade routes
-Qatar is stepping up efforts to attract Chinese companies as the US-Israel war on Iran disrupts trade routes in the Gulf, adding urgency to a broader push by Chinese businesses to diversify supply chains and establish operations closer to customers. “Diversification of supply chain is going ahead an
-
-## Hong Kong aims to scale its tech ecosystem and nurture more unicorns: HKSTP CEO
-Hong Kong is intensifying efforts to attract technology start-ups and nurture unicorns through expanded financial support via a key government-backed platform, leveraging the city’s booming fundraising activities and world-class financial infrastructure. Investors are displaying an increased appetit
+## Trump Has Killed ‘Strategic Ambiguity’ Over Taiwan
+It was once unclear how Washington would defend Taipei—now it’s doubtful it will help at all.
 
 ## How Congress Empowered Presidential War-Making After 9/11
 Its effects continue to shape national security policy today.
@@ -155,9 +155,6 @@ The continent offers solutions to some of the West’s most vexing problems.
 
 ## A War Reporter’s Antidote to Nihilism
 In a new book, Sally Hayden considers how journalists can puncture the detachment of the privileged.
-
-## Don’t Blame Ukraine for High Gas Prices
-Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is Trump’s war on Iran.
 
 ## The Dynamics of Dependence Beyond Thailand’s Immediate Neighborhood
 The past year has seen considerable steps forward in the country's relationships with Singapore and Indonesia.
@@ -231,29 +228,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Fashion industry leader wrestles PETA activists
-Fashion industry leader wrestles PETA activists
+## Can a party be leftist and Zionist?
+No, it cannot. But the concept of leftist Zionism is still being pushed to cover up its racist, colonial nature.
 
-## Why Bangladesh has lost 1,000 lives to measles despite record vaccine drive
-The nation has administered 20mn vaccines since April, but past slipups have led to a mounting death toll, say analysts
+## Going to school under Israeli occupation
+In al-Mughayyir, a village north-east of Ramallah, going to school means passing soldiers just to get to class.
 
-## US Kennedy Center faces bankruptcy, Washington Post reports
-Board of trustees recommends that the main building be closed immediately due to costs, US newspaper reports.
+## Burnham must establish an inquiry into Britain’s role in the Gaza genocide
+Delaying scrutiny will not make questions about UK complicity in Gaza disappear.
 
-## The Zionist dream of a state stretching from the Mediterranean to Iraq
-The story of the idea of a 'Greater Israel' and the Americans who want it to be a reality
+## China rejects AI ‘threat narratives’, urges global cooperation
+China called for international cooperation on artificial intelligence.
 
-## Animated map shows spread of illegal Israeli settlements across Palestine
-Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.
+## Fiscal pressure from Iran War clouds Gulf States’ US spending plans
+Gulf nations may prioritise domestic investments over US commitments amid economic pressures, says new report.
 
-## Indonesia intensifies search for 129 people missing after ship capsizes
-Officials say more than 600 rescuers battle stormy seas in search for missing people.
+## ‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier
+Anthropic CEO urges restricted China access to AI tech, sparking accusations of US technological dominance strategies.
 
-## Protests break out across Syria over fuel price increases
-Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
+## How can the Islamic world challenge Western narratives about it?
+University of Cambridge visiting fellow and author Ahmed Paul Keeler on his life, the West, modernity and Islam
 
-## Residents help battle forest fires threatening homes in Ecuadorian capital
-Residents join firefighters battling forest fires that are threatening residential areas in Quito, Ecuador.
+## Why is Trump warning Zelenskyy not to hit Russian diesel refineries?
+Trump blames Ukraine’s attacks for global diesel shortage, linking the crisis to Russia's war rather than US actions.
+
+## Gulf Oil Lubricants targets double-digit volume growth, bets on EV fluids and B2B expansion: CFO
+Gulf Oil Lubricants is targeting double-digit volume growth by continuing to grow at 2 to 3 times the industry rate, while simultaneously betting on B2B expansion in infrastructure and industrial segments, CFO Manish Gangwal said in an exclusive interview with ETCFO. The Hinduja group company that m
 
 ## Tata Sons may be valued up to ₹12.5 lakh cr in IPO
 Tata Sons' potential IPO valuation is estimated between ₹9-12.5 lakh crore., reflecting a discount on its underlying portfolio worth ₹15-16 lakh crore. Investors will price listed stakes and unlisted businesses, applying a holding company discount. The Reserve Bank of India rejected Tata Sons' plea 
@@ -276,8 +276,11 @@ Circular allows officials to use AI for generic research, drafting and administr
 ## Exclusive: Former Philips India finance chief Dev Tripathy joins Integris Medtech as Group CFO
 After an 18 year career at Philips spanning multiple finance leadership roles, Tripathy takes charge of group finance at a global medtech company with operations across 65 countries.
 
-## Ashok Leyland plans upto Rs 5,000 crore capex over 3 years, targets EV, ADAS and alternate propulsion: CFO KM Balaji
-Ashok Leyland plans investment towards product development and regulatory compliance. The company is also focusing on technology for electric and software-defined vehicles. Non-truck businesses are growing rapidly, improving overall profitability. This strategic shift aims to reduce truck dependence
+## Commerce ministry to set up central processing dept to implement faceless trade facilitation system
+In an effort to modernize trade operations, the Directorate General of Foreign Trade will create a central processing department. This new unit, which is expected to be inaugurated nationally in the second half of October 2026, will facilitate a faceless, paperless, and jurisdiction-free system for 
+
+## RBI Governor Malhotra calls on Finance Minister Sitharaman
+Reserve Bank of India Governor Sanjay Malhotra met Finance Minister Nirmala Sitharaman. India logged strong GDP growth despite global economic uncertainties recently. The Monetary Policy Committee's next meeting is scheduled for October 2026. An SBI report suggests raising interest rates to counter 
 
 ## BRICS 2026: PM Modi flags tech, critical minerals weaponisation
 Prime Minister Narendra Modi cautioned against using technology and critical minerals for advantage. He emphasized that a cooperative approach would benefit all nations globally. Modi highlighted inclusivity in technology adoption during the BRICS session in New Delhi. He also discussed global tensi
@@ -296,10 +299,4 @@ India's money market liquidity has surged past eleven lakh crore rupees. This ex
 
 ## RBI's FCNR liquidity problem is becoming a treasury problem for banks
 The Reserve Bank of India's struggle to absorb a record liquidity surplus is increasingly becoming a treasury-management challenge for banks, which must decide how much excess cash to park with the central bank, deploy into loans or securities, or keep readily available.
-
-## RBI launches key surveys to get inputs for monetary policy
-The Reserve Bank of India has launched three key surveys today. These surveys aim to gauge inflation expectations and consumer confidence across India. The Inflation Expectations Survey of Households will capture price movement assessments. Urban and Rural Consumer Confidence Surveys will gather sen
-
-## RBI may not need immediate CRR hike as liquidity surplus likely to moderate: UBI Report
-The Reserve Bank of India may not need to raise the cash reserve ratio (CRR) in the immediate term as the banking system's surplus liquidity is expected to moderate through FY27, with the central bank able to use more flexible tools such as variable rate reverse repos and forex swaps, noted a resear
 
