@@ -1,70 +1,76 @@
 # AION Intelligence
 
+## Reform UK’s leader in Wales steps down after arrest on suspicion of assault
+Dan Thomas said that while he had been ‘released without charge’, he was standing down due to ‘personal reasons’
+
+## Scotch producers fume over legal protection for English whisky
+Move by UK government risks adding to other challenges facing embattled sector, warns ruling Scottish National Party
+
+## US prosecutors say Chinese groups used Binance to launder $61mn from Iranian oil deals
+US Justice Department files forfeiture lawsuit to seize $61mn in alleged proceeds processed through cryptocurrency platform
+
+## Iran war has left US with munitions ‘shortfall’, Pentagon watchdog says
+Inspector general warns of ‘industrial base bottlenecks’ after military spent $22bn on ordnance in first four months of conflict
+
 ## Ten-year Treasury yield hits highest level since 2007
 Benchmark bond yield rises to 5.04% amid concerns over inflation and higher interest rates
+
+## Saudi leader visits Egypt as war with Houthis intensifies
+Crown Prince Mohammed met Abdel Fattah al-Sisi for security talks after 13 were injured by drones and missiles
+
+## US manufacturers hit by fresh burst of supply chain cost inflation
+Donald Trump’s war in Iran and tariffs push up input prices while AI boom squeezes availability of some components
+
+## Supreme Court rejects Trump’s mail-in ballot restrictions for midterms
+Justices Samuel Alito and Clarence Thomas dissented in an unsigned decision that comes weeks before congressional elections
+
+## Why has Rolex launched its latest Padellone watch in Milan?
+The Swiss brand chose to unveil its latest creation, named after a frying pan, in the Italian city which is fast becoming a destination for the watch world
+
+## The Observer raises £10mn in boost to turnaround effort
+Guardian owner the Scott Trust opts not to participate in fresh fundraise for Sunday newspaper owned by start-up Tortoise Media
+
+## Gupta’s heart condition delays Greensill trial
+Industrialist produced medical reports that say long-haul flight and prolonged questioning would affect his health
+
+## KPMG to cut another 200 jobs in UK advisory business
+Latest round of redundancies in data and technology division affects teams working in AI and cyber
 
 ## Santander wins £677mn legal appeal over PPI mis-selling bill
 Court of Appeal overturns earlier ruling in long-running battle between Spanish bank and French insurer Axa
 
-## China tightens control of overseas travel in sweeping new law
-President Xi Jinping steps up efforts to secure state secrets, advanced technology and highly skilled workers
+## NCPCR again summons Meta India chiefs, Capgemini executive over child abuse allegations
+Two separate hearings before the child rights panel on Wednesday will examine allegations involving Meta India and a Capgemini facility.
 
-## UK state pension will surpass income tax threshold next year
-Labour pledge to keep state pension out of tax puts pressure on chancellor to raise allowance or find workaround
+## MDR may alter payment choices, but ‘won’t curtail market participation’
+The MDR framework covers regulated capital market entities, including mutual fund AMCs, SEBI-registered stockbrokers, securities dealers and investment platforms
 
-## Bad decisions, difficult incentives and excitable markets
-Errors at the Federal Reserve and European Central Bank complicate life for officials at all levels. Also in this newsletter, someone has a book to sell
+## Indian government allocates record sugar sales quota for September to rein in retail prices
+The quota announcement comes ahead of Dussehra even as retail prices drop below ₹60 a kg
 
-## Lucy Letby hospital managers too slow to call police, inquiry finds
-Staff working with convicted child killer failed to understand ‘fundamentals of safeguarding’, says damning public review
+## India extends deadline to surrender sugar import quota
+However, importers will have to pay 0.5% of the CIF value of the surrendered quantity
 
-## Kevin Warsh needs to walk the walk
-A rate rise makes economic sense and would support the Federal Reserve’s credibility
+## Livestock feed makers see rising competition for maize from ethanol producers
+Want Goverment to secure supplies for feed sector as maize is single source of feedstock, says CLFMA Chairman Divya Kumar Gulati
 
-## Russian warship fires flares at Danish helicopter over Baltic Sea
-Denmark says one of the flares passed the aircraft at close range, branding the action as ‘reckless’
+## MDR on UPI: What consumers and merchants need to know?
+The proposed MDR (merchant discount rate) regime for UPI transactions aims to make the UPI ecosystem, a self-sustaining platform, while ensuring the impact on users is negligible
 
-## BPRE’s extremely large, very huge, getting-bigger NAV discount
-Private marks v public markets
+## ‘India, China open to talks to address trade imbalance, supply chain issues’
+Commerce Secretary says this is work in progress and both sides are engaging on trade in a positive manner
 
-## Trump’s Venezuela oil deal: deeply flawed or too big to fail?
-Energy executives in the South American country are frantically trying to understand the implications of the highly unusual agreement with the US
+## Odisha to get ₹3,406 crore semiconductor facility for SiC devices
+The proposed facility will expand advanced semiconductor manufacturing capacity while strengthening the State’s emerging technology-driven industrial ecosystem and exports
 
-## Sullivan & Cromwell hires team of Kirkland partners in private equity push
-White-shoe law firm had largely avoided acting for buyout groups even as the industry’s boom propelled rival firms to rapid growth
+## India’s exports to US, China surge in August amid stronger global trade
+India's merchandise exports to the US and China saw significant growth in August. Shipments to the US increased by over twenty-one percent while China saw a fifty-two percent rise. Overall exports climbed by more than twenty-six percent, driven by key sectors. Imports also grew, with electronics and
 
-## New fertiliser exporters blunt food crisis fears
-Countries outside the Gulf increase market share of urea exports as supplies through Strait of Hormuz collapse
+## His flat faced water leaks for 8 years; court orders neighbour to allow repairs
+This water leakage problem between two neighbours in a housing society turned into an eight-year legal battle, with the Maharashtra Co-operative Appellate Court eventually directing the owner of the first-floor flat to allow repairs in his home.
 
-## The ex-JPMorgan banker facing Wall Street’s toughest turnaround job
-Takis Georgakopoulos became chief executive of Fiserv just as it confronted big cultural and structural challenges
-
-## Norway’s telecoms firm charged with aiding crimes against humanity in Myanmar
-Norwegian authorities say telecoms group handed sensitive customer data to military junta in wake of 2021 coup
-
-## Gland Pharma to acquire 100% stake in Gland Pharma USA
-The board meeting on Sunday confirmed that Gland US will become a wholly-owned subsidiary of Gland Pharma in Hyderabad after the acquisition
-
-## Why could cooking oil prices rise this festival season in India? | Trending commodity picks | EP 113
-Palm, soybean & sunflower oil are getting costlier. Here’s why?
-
-## Maharashtra Cabinet approves ₹750 crore soft loans for cooperative sugar mills
-The decision is aimed at helping mills overcome difficulties, procure sugarcane and provide relief to growers during the crushing season.
-
-## Why are sugar prices soaring in India ahead of the festive season? | Trending commodity picks | EP 114
-Is ethanol production driving the surge?
-
-## Over 200 insolvency professionals cancelled registrations in Q1 FY27
-Scrutiny also intensified through FY27. The IBBI’s disciplinary committee issued 31 show-cause notices to IPs in the current financial year till September 8
-
-## Gold price volatility explained: What’s next for gold & silver? | Trending commodity picks | EP 115
-Festive season gold rush? The expert shares an outlook for buyers.
-
-## Crude shock, bond jitters send Sensex, Nifty into a rout
-The BSE Sensex dropped 777.94 points to close at 74,003.82, while the NSE Nifty 50 fell 279.50 points to settle at 23,118.60, its lowest since April 6, 2026
-
-## DP World Cochin posts highest-ever monthly throughput in August
-After handling 74,644 TEUs in June and 74,585 TEUs in July, volumes rose to 97,952 TEUs in August, setting a new monthly record
+## MDR on person-to-merchant UPI payments above Rs 2,000: Who pays and what changes for you? FAQs answered
+Merchant Discount Rate (MDR) is essentially a fee that a merchant incurs when accepting payments for goods or services through credit or debit cards. It is important to note that person-to-person transactions will continue to be free with no MDR applicable.
 
 ## Russian oil squeeze, China competition, Saudi pipeline shut: Why India faces a crude triple whammy
 Where does that leave India, a country that imports around 90% of its crude oil? If crude oil prices continue to rise due to global supply constraints and Russian crude discounts ebb, will India’s crude oil bill manage another hit within months?
@@ -81,38 +87,32 @@ The court passed the order after hearing a petition filed by the woman who said 
 ## Gold price prediction today: Will bearish bias continue? Check outlook for September 15, 2026 week
 Gold remains under corrective pressure after the sharp rejection from the recent Rs 164,000–166,000 zone, with prices currently trading near Rs 151,000.
 
-## Real estate businessman lost Rs 34.21 lakh in F&O, got a notice; what ITAT did
-The AO invoked the Explanation to Section 73 and consequently refused to allow the loss to be set off against the taxpayer’s regular business income. The assessment relied on the Delhi High Court ruling in CIT v. DLF Commercial Developers Ltd.
+## Gujarat Police to question Google over 5,00,000+ fake Gmail IDs linked to hoax bomb threats
+Gujarat police busted an email network this week and arrested two individuals, uncovering over 5,00,000 Gmail IDs and passwords being used since 2022.
 
-## UPI payments up to Rs 2,000 to remain free of charges: Govt
+## Rahul Gandhi meets Congress secretaries ahead of reshuffle buzz
+The meeting comes weeks after Rahul Gandhi interviewed possible candidates last month to appoint new secretaries as part of an organisational overhaul.
 
+## Indian teams in Uzbekistan for Chess Olympiad 2026 wait 5 hours for hotel rooms
+The Indian contingents travelled to the Uzbek city for the FIDE tournament, which is scheduled to take place from September 16 to 27.
 
-## Stock Market Live Updates Today: BSE Sensex rallies 400 points, Nifty climbs above 23,500 in early trade
+## Can merchants pass UPI charges to buyers? Key questions on MDR, its implementation answered
+The finalized MDR framework and threshold structure will take effect from October 15, 2026, for the updating for software and billing systems.
 
+## FDA suspends licence of Mumbai’s Cafe Mondegar for food safety violations
+FDA allegedly found that the drainage system near the food preparation area was inadequate and created a risk of cross-contamination
 
-## ‘Three mutuals’ should guide India-China ties: PM Modi told Xi Jinping during BRICS bilateral
-Jaiswal said PM Modi also referred to India’s concerns and stressed that both countries should remain sensitive to each other’s core concerns.
+## Chhattisgarh: Dy CM Sharma, Baghel trade barbs over PM Awas figures in Raipur
+The face-off at the Raipur Press Club came after Vijay Sharma challenged Bhupesh Baghel to a debate on PMAY in Chhattisgarh
 
-## Facing pushback, Fadnavis pauses online shift for MPSC recruitment exams
-Fadnavis also insisted that the MPSC chairperson Vivek Bhimanwar’s statement on the topic had been misconstrued.
+## ‘Success of our foreign policy’: Omar Abdullah on Pahalgam condemnation in BRICS New Delhi Declaration
+The BRICS countries, while adopting the New Delhi Declaration for the ongoing summit, condemned the terrorist attack in Pahalgam.
 
-## BEST bus collides with metro pillar in Goregaon, 2 injured: Police
-Minutes after the incident, a police team was deputed to assist. The bus was towed by a BEST towing vehicle and taken to Vanrai police station
+## Gates Foundation commits $1 billion to help build and deliver equitable AI
+The Goalkeepers Report this year focuses on the urgent actions needed to ensure AI helps narrow gaps between the richest and poorest rather than widen them
 
-## Gurugram hit-and-run: Kalyan Bainsla's cousin Lavnish Gurjar arrested from Rajasthan's Dausa
-Bainsla and Gurgar were arrested after a woman biker posted a video claiming they had chased and deliberately rammed their car to her motorcycle.
-
-## 'How can anyone trust him?' SC raps Rajpal Yadav, extends time to pay ₹2 crore in cheque bounce cases
-The court extended its earlier order exempting him from surrender until October 5, underlining that it is one last opportunity
-
-## 'Gimmicks, phoney announcement': India on Pakistan's move to raise bounty on Jaish chief Masood Azhar
-Pakistan named Masood Azhar in its 2026 list of most-wanted terrorists and raised the reward for information leading to his capture to PKR 70 lakh.
-
-## After 88 road deaths in seven months, Jammu traffic police launch crackdown on two-wheeler violations
-699 road accidents claimed 88 lives and injured 1,001 people across four Jammu districts in the first 7 months of 2026.
-
-## MP: National Human Rights Commission team meets families of hooch victims in Sagar
-MP: National Human Rights Commission team meets families of hooch victims in Sagar
+## Tighter scrutiny of Hong Kong IPOs could slow deal flow, analysts say
+Securities regulators in Hong Kong and mainland China are doubling down on efforts to raise the quality of Hong Kong initial public offerings (IPOs), which could slow the flow of new listings but would not reduce underlying demand, according to analysts. In an unusual move, the China Securities Regu
 
 ## Wrise Prestige accelerates mainland China expansion with new offices, AI lab
 Wealth management provider Wrise Prestige is stepping up its investment in artificial intelligence technology as the firm looks to expand its footprint on the Chinese mainland and power its next phase of growth. The Singapore-headquartered firm planned to open an AI laboratory in Guangzhou next mont
@@ -135,8 +135,8 @@ Citigroup has appointed veteran banker Sophia Wang as a managing director and he
 ## China targets offshore operations of brokerages in crackdown on pay loopholes, corruption
 China’s securities regulator and its industry body are moving to close compensation loopholes for brokerage management and staff, extending anti-corruption oversight to overseas operations for the first time, as Beijing pushes the sector to build world-class investment banks. The Securities Associat
 
-## New York City’s rich Chinese grapple with Beijing tax rules as enforcement deadline nears
-Months after Beijing unveiled a bevy of new tax rules for offshore trusts, the fallout has now reached New York City – home to one of the largest concentrations of mainland Chinese wealth outside Asia – after the changes swept across Hong Kong and Singapore. Under the rules, which took effect on Jul
+## Brazil’s Election Won’t Fix Its Biggest Problems
+Slow growth and corruption have dogged the right and the left.
 
 ## How Al-Shabab Beat the Peacekeepers
 Three missions and billions of U.S. dollars later, the al Qaeda affiliate is stronger than ever in Somalia.
@@ -159,32 +159,29 @@ Hunting civilians from the sky is growing disturbingly common.
 ## Trump Is Killing ‘Strategic Ambiguity’ Over Taiwan
 It was once unclear how Washington would defend Taipei—now it’s doubtful it will help at all.
 
-## How Congress Empowered Presidential War-Making After 9/11
-Its effects continue to shape national security policy today.
+## The Perils of Mind-Reading in the Taiwan Strait
+Without sustained dialogue over Taiwan, Beijing and Washington are both vulnerable to dangerous misreadings of each other’s intentions.
 
-## Why Some of Southeast Asia’s Digital Banks are Starting to Scale
-Can these institutions threaten the entrenched conventional mega-banks that dominate the region’s financial landscape?
+## Japan Faces Hard Choices in Weaning off Russian Energy
+Beyond the question of energy security, Tokyo may want to avoid antagonizing Russia further by cutting off LNG purchases.
 
-## China Postponed Its Chang’e 7 Lunar Mission. What Does That Mean for Its Space Program?
-The lack of explanation – or a new launch date – suggests critical challenges, not just bad weather.
+## A New Kind of Cold War? China-US Competition in Latin America
+Trump returned to the presidency with renewed determination to mitigate Chinese influence worldwide, giving particular interest to the Western Hemisphere.
 
-## North Korea Confirms September 12 Missile Launch Was Joint Firepower Drill
-The exercise came a day after trilateral Freedom Edge drills ended and as U.S. President Donald Trump continues to seek a new summit with Kim Jong Un.
+## JASDF Global Hawk Presumed to Have Crashed off Western Japan
+The incident could strain Japan’s persistent wide-area surveillance capabilities, as the JASDF operates only three of the high-altitude unmanned aircraft.
 
-## Asia’s Democracy Is Being Rewired: An Early Warning for Global Democracy
-The emerging contest in the region is between open political systems and “managed” political systems – where citizens are manipulated instead of simply repressed.
+## China and Mexico: How Far Should Technology Cooperation Go?
+The Mexican government is deepening ties with Beijing in some of the sectors most sensitive to U.S. security concerns.
 
-## South Korea and Arctic Shipping: A Game Changer on Thin Ice?
-South Korea is clearly ambitious about seizing potential economic and strategic opportunities from Arctic shipping. But the Arctic is also a geopolitical minefield.
+## In Turkmenistan’s Data Desert, the Golden Age Is a Mirage
+The IMF says Turkmenistan, in failing to provide key economic data, is in breach of its obligations.
 
-## What’s Behind One Nation’s Attacks on Andrew Hastie?
-In its relentless attacks on Liberal Party MP, the One Nation party’s contempt for the rule of law is on full display.
+## What Malaysia’s Recent State Election Results Say About the Country’s Political Direction
+Oh Ei Sun of the Singapore Institute of International Affairs discusses the outcome of the recent elections in Johor and Negeri Sembilan.
 
-## India Drops Terror Charges Against Seven Recently Arrested Foreign Nationals
-An American and six Ukrainians were arrested under the UAPA in March. They have now been charged under the less stringent Immigration and Foreigners Act instead.
-
-## Japan’s Failed Centrist Experiment
-The CDP-Komeito alliance is breaking apart. But a return to resistance-oriented politics may not be the answer for Japan's opposition.
+## Pakistan-Oman Maritime Deal Signals Gwadar’s Expanding Regional Relevance
+As the strategically located Pakistani port’s geopolitical value increases, can its market readiness keep pace?
 
 ## Three Patrons, Three Clients: The Mecca Alliance No One Owns
 Every alliance contains a struggle over who gets to decide what the alliance is for. The unusual thing about the Mecca Alliance, formally known as the “Mecca Joint Defence Agreement,” is that all three of its members appear to believe they possess something that should give them that privilege: Saud
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India vs Afghanistan live: T20 cricket match
-Follow our live build-up, team news, predictions, score, photos and live text commentary stream in New Delhi.
+## How an Israeli cell orchestrated an anti-Qatar campaign
+Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.
 
-## Athletes share ‘what women in sport look like’ to rebut Sydney Sweeney ad
-Female athletes are against a sports-betting ad featuring actress Sydney Sweeney.
+## Can China play peacemaker as Iran’s foreign minister heads to Beijing?
+Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.
 
-## Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure
-Zelenskyy insists de-escalation depends on US ensuring Russia's genuine readiness to stop war and attacks on Ukraine.
+## Election in Philippines’ Bangsamoro region ends in hung parliament
+No party wins majority in parliamentary polls in southern Philippines' Muslim-majority region, unofficial results show.
 
-## US repeals pollution limits for fossil fuel power plants
-The US Environmental Protection Agency ends a rule that limits greenhouse gas emissions from coal and gas power plants.
+## FBI’s Kash Patel defends hiring policy change on bestiality, prostitution
+Policy change sparks heated Senate debate; critics question its timing amid challenges in attracting new FBI agents.
 
-## Benchmark US government bond yield hits 19-year peak as oil prices surge
-The 10-year US Treasury yield hit 5.02 percent on Tuesday for the first time since the 2007 global financial crisis.
+## Lucy Letby inquiry blames UK hospital for failure to protect babies
+Inquiry finds parents were kept in the dark as hospital hid Lucy Letby suspicions during secret reviews.
 
-## Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed
-The Pentagon watchdog's report paints a picture of significant losses to US forces and facilities in the region.
+## US democratic decline threatens global rule of law, report warns
+Nearly half of US democracy indicators hit 50-year lows, accelerating global stability decline, warns new IDEA study.
 
-## Why is pro-Palestinian activist Mahmoud Khalil suing Columbia University?
-Mahmoud Khalil sues Columbia University and its dean for alleged institutional racism targeting pro-Palestine students.
+## Will Russia and Ukraine halt attacks on energy infrastructure?
+Will Russia and Ukraine halt attacks on energy infrastructure?
 
-## Nairobi to host World Athletics Championships in 2029
-Nairobi beats London, Munich and Rome to become the first African hosts, World Athletics says.
+## China does not need to replace the US in the Gulf
+It can gain leverage over the region without engaging in military overreach.
 
 ## Tech Mahindra to channelise margin gains towards growth in next three year plan
 The IT services company is preparing its next three-year plan as it enters the final year of its current strategy, with Anand saying profitable growth will be a key focus while the company continues to pursue operational efficiency.
