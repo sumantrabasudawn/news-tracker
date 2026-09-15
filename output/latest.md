@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Trump says Kennedy Center renovation depends on whether his name is on it
+President’s vow comes after a federal judge rejects effort to rename building
+
+## FirstFT: China tightens control of overseas travel
+Also in today’s newsletter: 10-year Treasury yield hits highest level since 2007 and Putin moves summit over Ukrainian drone threat
+
+## Landmark US crypto bill fails as Senate splits over Trump ethics concerns
+Defeat is a massive setback to an industry that has spent record sums lobbying for a favourable market structure
+
+## End of an era as Thatcher’s favourite council backs 94% tax rise
+Wandsworth local authority in London accuses Labour government of ‘deliberately targeting’ it
+
+## Jensen Huang says battle over AI innovation and safety is ‘false choice’
+Nvidia cheif has distanced himself from OpenAI, Anthropic and SpaceX’s efforts to slow research
+
 ## UK bosses must ‘sit down’ with staff if they reject WFH requests
 Louise Haigh tells Trades Union Congress that every ask for flexibility ‘should be taken seriously’ by employers
 
@@ -9,35 +24,14 @@ New federal government reports shed light on sweeping fiscal toll of Middle East
 ## ExxonMobil wins Texas approval for $5bn carbon capture project
 State regulators greenlight plan after lengthy battle over safety and subsidies
 
-## UK ‘actively’ exploring joining Canada-led global defence bank
-The Defence, Security and Resilience Bank aims to provide low-cost financing for military initiatives
-
-## Iran uses spyware disguised as MRI scan results to hack critics, say western officials
-UK, US and Dutch intelligence agencies issue warning about cyber tool dubbed Chosen Brick
-
-## Colombian president fires statistics chief after three weeks
-Ousting by Abelardo de la Espriella came after official defended previous administration’s employment data
-
-## Ten-year Treasury yield hits highest level since 2007
-Benchmark bond yield rises to 5.04% amid concerns over inflation and higher interest rates
+## Should markets discount the AI apocalypse?
+How should investors interpret the labs’ calls for a slowdown?
 
 ## Larry Ellison shows even billionaires struggle with liquidity
 The Oracle co-founder may have little choice but to sell shares if he wants to raise vast sums of money
 
 ## Iron ore trader Radiant alleges Glencore hid their ties from audited records
 Swiss commodities group says claims are ‘meritless’ and that Radiant sent ‘falsified invoices’
-
-## Scotch producers fume over legal protection for English whisky
-Move by UK government risks adding to other challenges facing embattled sector, warns ruling Scottish National Party
-
-## US says Chinese groups used Binance to launder $61mn from Iranian oil deals
-US Justice Department files forfeiture lawsuit to seize $61mn in alleged proceeds processed through cryptocurrency platform
-
-## Why has Rolex launched its latest Padellone watch in Milan?
-The Swiss brand chose to unveil its latest creation, named after a frying pan, in the Italian city which is fast becoming a destination for the watch world
-
-## The Observer raises £10mn in boost to turnaround effort
-Guardian owner the Scott Trust opts not to participate in fresh fundraise for Sunday newspaper owned by start-up Tortoise Media
 
 ## Karnataka declares September 15 as Engineers’ Day, allows ‘Er.’ prefix
 The move recognises engineers’ role in shaping society and honours Sir M Visvesvaraya’s remarkable contributions to Karnataka and the nation.
@@ -111,6 +105,9 @@ FDA allegedly found that the drainage system near the food preparation area was 
 ## Chhattisgarh: Dy CM Sharma, Baghel trade barbs over PM Awas figures in Raipur
 The face-off at the Raipur Press Club came after Vijay Sharma challenged Bhupesh Baghel to a debate on PMAY in Chhattisgarh
 
+## Hong Kong commercial property downturn to worsen amid tightening credit: agents
+Commercial property prices in Hong Kong are likely to continue their downward spiral, as the market risks getting trapped in a “vicious cycle” of tighter bank lending and weakening demand, a property agency has warned. Banks in the city had adopted a more conservative approach towards approving mort
+
 ## Tighter scrutiny of Hong Kong IPOs could slow deal flow, analysts say
 Securities regulators in Hong Kong and mainland China are doubling down on efforts to raise the quality of Hong Kong initial public offerings (IPOs), which could slow the flow of new listings but would not reduce underlying demand, according to analysts. In an unusual move, the China Securities Regu
 
@@ -132,8 +129,11 @@ Two Chinese state-owned carmakers, Guangzhou Automobile Group (GAC) and FAW Grou
 ## Citigroup hires veteran banker Sophia Wang to lead China institutional sales
 Citigroup has appointed veteran banker Sophia Wang as a managing director and head of China financial-institutional sales and senior relationship management (SRM), marking the latest move by the Wall Street lender to deepen its footprint in mainland capital markets despite ongoing geopolitical frict
 
-## China targets offshore operations of brokerages in crackdown on pay loopholes, corruption
-China’s securities regulator and its industry body are moving to close compensation loopholes for brokerage management and staff, extending anti-corruption oversight to overseas operations for the first time, as Beijing pushes the sector to build world-class investment banks. The Securities Associat
+## Trump and Xi Won’t Find Common Ground on AI Safety
+The leaders have fundamentally different ideas about the technology and how to regulate it.
+
+## Are Drone Incursions Europe’s New Normal?
+NATO suspects that Russia is behind the latest airspace violation in Lithuania.
 
 ## Trump Picks the Wrong Beef Before Midterms
 The president’s plan to tame soaring beef prices has alienated a key constituency.
@@ -152,12 +152,6 @@ Washington needs its rivals to create peace on its behalf.
 
 ## The United States Must Prepare for More Than One Russian Future
 Managing the Ukraine conflict is just the beginning of negotiations.
-
-## Fresh Houthi Strikes Inject New Uncertainty Into Iran War
-As oil prices rise, planned regional talks hit a snag.
-
-## Why My Kyiv Visit Worried Me So Much
-FP’s editor in chief on the mood in Ukraine—and what it means for the future of war.
 
 ## The Perils of Mind-Reading in the Taiwan Strait
 Without sustained dialogue over Taiwan, Beijing and Washington are both vulnerable to dangerous misreadings of each other’s intentions.
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## NATO jet shoots down suspected Russian drone over Lithuania
-EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.
+## Republican congressman calls to impeach US Defence Secretary Pete Hegseth
+GOP Representative Thomas Massie has emerged as outspoken critic of war on Iran and overseas military interventions.
 
-## Israel lacking respect for dead buried in Gaza rubble: UN
-Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.
+## Ed Sheeran blames US tour promoter for dropping Macklemore
+The British musician said it was important to "set out some facts" after US rapper voiced support for Palestine.
 
-## NATO downs drone over Lithuania, ‘probably’ launched by Russia
-A NATO fighter jet shot down a drone in southern Lithuania shortly after midnight on Tuesday.
+## Why is the far-right embracing crypto?
+From billionaire donors backing parties to far-right activists raising funds in Bitcoin.
 
-## Eto’o could face Cameroon probe over alleged Russia payment
-Ex-Chelsea and Barcelona striker Samuel Eto'o faces a probe over allegations of embezzlement in his Cameroon FA role.
+## Algeria faces calls to drop death penalty plans after wildfires
+Rights group warns Algeria could exploit proposed death penalty laws to suppress domestic political opposition.
 
-## India beat Afghanistan by seven wickets to seal T20 series
-Sanju Samson's half century helps India seal three-match series with wins in first two games.
+## US Senate crypto bill collapses in blow to industry
+The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market
 
-## Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation
-Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.
+## Hundreds protest in DR Congo against third presidential term
+Hundreds protest in DR Congo against third presidential term
 
-## Police crack down on protests against constitutional change in DR Congo
-Demonstrations held across country against president's proposed constitutional changes seeking third term.
+## Romanian shepards and farmers clash with police
+Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.
 
-## More than 100,000 displaced as they flee violence in Yemen: UN
-Thousands making risky maritime journey to Djibouti as conflict between Yemen gov't and Houthis intensifies.
+## What makes these midterms so pivotal?
+The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.
 
 ## Tech Mahindra to channelise margin gains towards growth in next three year plan
 The IT services company is preparing its next three-year plan as it enters the final year of its current strategy, with Anand saying profitable growth will be a key focus while the company continues to pursue operational efficiency.
