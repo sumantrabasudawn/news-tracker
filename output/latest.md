@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## Reform UK’s leader in Wales steps down after arrest on suspicion of assault
-Dan Thomas said that while he had been ‘released without charge’, he was standing down due to ‘personal reasons’
+## UK bosses must ‘sit down’ with staff if they reject WFH requests
+Louise Haigh tells Trades Union Congress that every ask for flexibility ‘should be taken seriously’ by employers
 
-## Scotch producers fume over legal protection for English whisky
-Move by UK government risks adding to other challenges facing embattled sector, warns ruling Scottish National Party
+## Trump’s Iran war has cost US $38bn and caused munitions ‘shortfall’
+New federal government reports shed light on sweeping fiscal toll of Middle East conflict
 
-## US prosecutors say Chinese groups used Binance to launder $61mn from Iranian oil deals
-US Justice Department files forfeiture lawsuit to seize $61mn in alleged proceeds processed through cryptocurrency platform
+## ExxonMobil wins Texas approval for $5bn carbon capture project
+State regulators greenlight plan after lengthy battle over safety and subsidies
 
-## Iran war has left US with munitions ‘shortfall’, Pentagon watchdog says
-Inspector general warns of ‘industrial base bottlenecks’ after military spent $22bn on ordnance in first four months of conflict
+## UK ‘actively’ exploring joining Canada-led global defence bank
+The Defence, Security and Resilience Bank aims to provide low-cost financing for military initiatives
+
+## Iran uses spyware disguised as MRI scan results to hack critics, say western officials
+UK, US and Dutch intelligence agencies issue warning about cyber tool dubbed Chosen Brick
+
+## Colombian president fires statistics chief after three weeks
+Ousting by Abelardo de la Espriella came after official defended previous administration’s employment data
 
 ## Ten-year Treasury yield hits highest level since 2007
 Benchmark bond yield rises to 5.04% amid concerns over inflation and higher interest rates
 
-## Saudi leader visits Egypt as war with Houthis intensifies
-Crown Prince Mohammed met Abdel Fattah al-Sisi for security talks after 13 were injured by drones and missiles
+## Larry Ellison shows even billionaires struggle with liquidity
+The Oracle co-founder may have little choice but to sell shares if he wants to raise vast sums of money
 
-## US manufacturers hit by fresh burst of supply chain cost inflation
-Donald Trump’s war in Iran and tariffs push up input prices while AI boom squeezes availability of some components
+## Iron ore trader Radiant alleges Glencore hid their ties from audited records
+Swiss commodities group says claims are ‘meritless’ and that Radiant sent ‘falsified invoices’
 
-## Supreme Court rejects Trump’s mail-in ballot restrictions for midterms
-Justices Samuel Alito and Clarence Thomas dissented in an unsigned decision that comes weeks before congressional elections
+## Scotch producers fume over legal protection for English whisky
+Move by UK government risks adding to other challenges facing embattled sector, warns ruling Scottish National Party
+
+## US says Chinese groups used Binance to launder $61mn from Iranian oil deals
+US Justice Department files forfeiture lawsuit to seize $61mn in alleged proceeds processed through cryptocurrency platform
 
 ## Why has Rolex launched its latest Padellone watch in Milan?
 The Swiss brand chose to unveil its latest creation, named after a frying pan, in the Italian city which is fast becoming a destination for the watch world
@@ -30,14 +39,8 @@ The Swiss brand chose to unveil its latest creation, named after a frying pan, i
 ## The Observer raises £10mn in boost to turnaround effort
 Guardian owner the Scott Trust opts not to participate in fresh fundraise for Sunday newspaper owned by start-up Tortoise Media
 
-## Gupta’s heart condition delays Greensill trial
-Industrialist produced medical reports that say long-haul flight and prolonged questioning would affect his health
-
-## KPMG to cut another 200 jobs in UK advisory business
-Latest round of redundancies in data and technology division affects teams working in AI and cyber
-
-## Santander wins £677mn legal appeal over PPI mis-selling bill
-Court of Appeal overturns earlier ruling in long-running battle between Spanish bank and French insurer Axa
+## Karnataka declares September 15 as Engineers’ Day, allows ‘Er.’ prefix
+The move recognises engineers’ role in shaping society and honours Sir M Visvesvaraya’s remarkable contributions to Karnataka and the nation.
 
 ## NCPCR again summons Meta India chiefs, Capgemini executive over child abuse allegations
 Two separate hearings before the child rights panel on Wednesday will examine allegations involving Meta India and a Capgemini facility.
@@ -59,9 +62,6 @@ The proposed MDR (merchant discount rate) regime for UPI transactions aims to ma
 
 ## ‘India, China open to talks to address trade imbalance, supply chain issues’
 Commerce Secretary says this is work in progress and both sides are engaging on trade in a positive manner
-
-## Odisha to get ₹3,406 crore semiconductor facility for SiC devices
-The proposed facility will expand advanced semiconductor manufacturing capacity while strengthening the State’s emerging technology-driven industrial ecosystem and exports
 
 ## India’s exports to US, China surge in August amid stronger global trade
 India's merchandise exports to the US and China saw significant growth in August. Shipments to the US increased by over twenty-one percent while China saw a fifty-two percent rise. Overall exports climbed by more than twenty-six percent, driven by key sectors. Imports also grew, with electronics and
@@ -87,6 +87,12 @@ The court passed the order after hearing a petition filed by the woman who said 
 ## Gold price prediction today: Will bearish bias continue? Check outlook for September 15, 2026 week
 Gold remains under corrective pressure after the sharp rejection from the recent Rs 164,000–166,000 zone, with prices currently trading near Rs 151,000.
 
+## ‘Modi tax’: Opposition slams Centre over UPI charges on merchant transactions; Rahul, Kharge target PM
+The government announced a 0.4 per cent Merchant Discount Rate (MDR) on UPI payments above ₹2,000 made to merchants.
+
+## Apple faces Indian consumer body probe over iPhone issues linked to iOS 18 update
+The consumer regulator has now initiated a detailed investigation into the complaints, nearly a year after it first sought an explanation from Apple.
+
 ## Gujarat Police to question Google over 5,00,000+ fake Gmail IDs linked to hoax bomb threats
 Gujarat police busted an email network this week and arrested two individuals, uncovering over 5,00,000 Gmail IDs and passwords being used since 2022.
 
@@ -104,12 +110,6 @@ FDA allegedly found that the drainage system near the food preparation area was 
 
 ## Chhattisgarh: Dy CM Sharma, Baghel trade barbs over PM Awas figures in Raipur
 The face-off at the Raipur Press Club came after Vijay Sharma challenged Bhupesh Baghel to a debate on PMAY in Chhattisgarh
-
-## ‘Success of our foreign policy’: Omar Abdullah on Pahalgam condemnation in BRICS New Delhi Declaration
-The BRICS countries, while adopting the New Delhi Declaration for the ongoing summit, condemned the terrorist attack in Pahalgam.
-
-## Gates Foundation commits $1 billion to help build and deliver equitable AI
-The Goalkeepers Report this year focuses on the urgent actions needed to ensure AI helps narrow gaps between the richest and poorest rather than widen them
 
 ## Tighter scrutiny of Hong Kong IPOs could slow deal flow, analysts say
 Securities regulators in Hong Kong and mainland China are doubling down on efforts to raise the quality of Hong Kong initial public offerings (IPOs), which could slow the flow of new listings but would not reduce underlying demand, according to analysts. In an unusual move, the China Securities Regu
@@ -135,6 +135,12 @@ Citigroup has appointed veteran banker Sophia Wang as a managing director and he
 ## China targets offshore operations of brokerages in crackdown on pay loopholes, corruption
 China’s securities regulator and its industry body are moving to close compensation loopholes for brokerage management and staff, extending anti-corruption oversight to overseas operations for the first time, as Beijing pushes the sector to build world-class investment banks. The Securities Associat
 
+## Trump Picks the Wrong Beef Before Midterms
+The president’s plan to tame soaring beef prices has alienated a key constituency.
+
+## Are Chinese Firms Handing the United States Data?
+AI competition may be an unwitting weakness for Beijing.
+
 ## Brazil’s Election Won’t Fix Its Biggest Problems
 Slow growth and corruption have dogged the right and the left.
 
@@ -152,12 +158,6 @@ As oil prices rise, planned regional talks hit a snag.
 
 ## Why My Kyiv Visit Worried Me So Much
 FP’s editor in chief on the mood in Ukraine—and what it means for the future of war.
-
-## The Laws of War Must Change for the Drone Age
-Hunting civilians from the sky is growing disturbingly common.
-
-## Trump Is Killing ‘Strategic Ambiguity’ Over Taiwan
-It was once unclear how Washington would defend Taipei—now it’s doubtful it will help at all.
 
 ## The Perils of Mind-Reading in the Taiwan Strait
 Without sustained dialogue over Taiwan, Beijing and Washington are both vulnerable to dangerous misreadings of each other’s intentions.
@@ -183,6 +183,9 @@ Oh Ei Sun of the Singapore Institute of International Affairs discusses the outc
 ## Pakistan-Oman Maritime Deal Signals Gwadar’s Expanding Regional Relevance
 As the strategically located Pakistani port’s geopolitical value increases, can its market readiness keep pace?
 
+## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
+Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
+
 ## Three Patrons, Three Clients: The Mecca Alliance No One Owns
 Every alliance contains a struggle over who gets to decide what the alliance is for. The unusual thing about the Mecca Alliance, formally known as the “Mecca Joint Defence Agreement,” is that all three of its members appear to believe they possess something that should give them that privilege: Saud
 
@@ -203,9 +206,6 @@ On the first night of the evacuation of Kabul, Aug. 15, 2021, a young mother fou
 
 ## What America’s Adversaries and Allies Hope to Gain at the U.N. General Assembly
 This year’s U.N. General Assembly officially opened on Tuesday, Sept. 8. The annual gathering gives diplomats and leaders a valuable opportunity to press their foreign policy priorities and engage — formally and informally — with both partners and adversaries. Most heads of state will arrive later t
-
-## Automating the Action Officer: Between Bureaucracy and Technology
-If there is a revolution brewing in the automation of white-collar work, you wouldn’t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, perform essentially the same duties as their predecessors in 1996 or 1956: creating charts, authoring 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How an Israeli cell orchestrated an anti-Qatar campaign
-Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.
+## NATO jet shoots down suspected Russian drone over Lithuania
+EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.
 
-## Can China play peacemaker as Iran’s foreign minister heads to Beijing?
-Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.
+## Israel lacking respect for dead buried in Gaza rubble: UN
+Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.
 
-## Election in Philippines’ Bangsamoro region ends in hung parliament
-No party wins majority in parliamentary polls in southern Philippines' Muslim-majority region, unofficial results show.
+## NATO downs drone over Lithuania, ‘probably’ launched by Russia
+A NATO fighter jet shot down a drone in southern Lithuania shortly after midnight on Tuesday.
 
-## FBI’s Kash Patel defends hiring policy change on bestiality, prostitution
-Policy change sparks heated Senate debate; critics question its timing amid challenges in attracting new FBI agents.
+## Eto’o could face Cameroon probe over alleged Russia payment
+Ex-Chelsea and Barcelona striker Samuel Eto'o faces a probe over allegations of embezzlement in his Cameroon FA role.
 
-## Lucy Letby inquiry blames UK hospital for failure to protect babies
-Inquiry finds parents were kept in the dark as hospital hid Lucy Letby suspicions during secret reviews.
+## India beat Afghanistan by seven wickets to seal T20 series
+Sanju Samson's half century helps India seal three-match series with wins in first two games.
 
-## US democratic decline threatens global rule of law, report warns
-Nearly half of US democracy indicators hit 50-year lows, accelerating global stability decline, warns new IDEA study.
+## Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation
+Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.
 
-## Will Russia and Ukraine halt attacks on energy infrastructure?
-Will Russia and Ukraine halt attacks on energy infrastructure?
+## Police crack down on protests against constitutional change in DR Congo
+Demonstrations held across country against president's proposed constitutional changes seeking third term.
 
-## China does not need to replace the US in the Gulf
-It can gain leverage over the region without engaging in military overreach.
+## More than 100,000 displaced as they flee violence in Yemen: UN
+Thousands making risky maritime journey to Djibouti as conflict between Yemen gov't and Houthis intensifies.
 
 ## Tech Mahindra to channelise margin gains towards growth in next three year plan
 The IT services company is preparing its next three-year plan as it enters the final year of its current strategy, with Anand saying profitable growth will be a key focus while the company continues to pursue operational efficiency.
@@ -261,7 +261,7 @@ The IT services company is preparing its next three-year plan as it enters the f
 ## Coforge rebuts boardroom tension claims, begins search for new directors with Egon Zehnder
 The IT services company said its board remained aligned on key strategic and governance decisions despite D.K. Singh’s resignation citing differences and tension, while it searches for two independent directors and a permanent chairperson.
 
-## Gulf Oil Lubricants targets double-digit volume growth, bets on EV fluids and B2B expansion: CFO
+## Gulf Oil Lubricants targets double-digit volume growth, bets on PV fluids and B2B expansion: CFO
 Gulf Oil Lubricants is targeting double-digit volume growth by continuing to grow at 2 to 3 times the industry rate, while simultaneously betting on B2B expansion in infrastructure and industrial segments, CFO Manish Gangwal said in an exclusive interview with ETCFO. The Hinduja group company that m
 
 ## Tata Sons may be valued up to ₹12.5 lakh cr in IPO
