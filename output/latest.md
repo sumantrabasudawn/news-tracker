@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Supreme Court rejects Trump’s mail-in ballot restrictions for midterms
+Justices split 7-2 in decision that comes months before congressional elections
+
+## China tightens control of overseas travel in sweeping new law
+President Xi Jinping steps up efforts to secure state secrets, advanced technology and highly skilled workers
+
+## US military reveals it has weapons in space
+Security experts warn announcement could result in the proliferation of weapons by other governments
+
+## Dogs join diners as Hong Kong bets on the pet economy
+The end of a decades-old prohibition has been welcomed by owners but is prompting disquiet from some patrons
+
 ## Scotland and Wales renew push for independence — using Burnham’s own rhetoric
 Leaders of three devolved nations take part in ‘historic’ meeting in Cardiff
 
@@ -18,12 +30,6 @@ Riyadh pulls out of regional talks to de-escalate hostilities over Strait of Hor
 ## US tech stocks fall after big AI groups call for slowdown
 Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs
 
-## Ten-year Treasury yield hits 5% for first time since 2023
-World’s most widely watched financial marker moves towards levels not seen in decades as inflation shock from Iran war lingers
-
-## Tories look at ways to cut UK inheritance tax
-Conservative leader Kemi Badenoch says the levy mainly caught ‘home-owning middle-class families’ instead of the super wealthy
-
 ## Why delaying an AI doomsday would benefit investors too
 A slowdown would reduce the enormous amounts of cash being lavished on training new models
 
@@ -33,11 +39,23 @@ Kyiv was caught off guard by the US president’s announcement after previous at
 ## Time for a pause on cutting-edge AI
 The most advanced models are starting to escape human control
 
-## Germany tells Andrea Orcel to keep Commerzbank’s Frankfurt HQ after takeover
-Finance minister Lars Klingbeil wants safeguards for the bank’s 40,000 employees and its role in financing the Mittelstand
+## Sensex today | Stock Market Live: Stocks to watch, Sept 15: HDFC Bank, BSE, HCL Tech, Deccan Gold Mines, CESC, Glenmark, BHEL, and more
+Sensex, Nifty, Share Prices Live Updates: Key developments this week include HDFC Bank’s leadership transition, regulatory changes for brokerages, BHEL’s significant investments, strategic partnerships in technology and mining, and major acquisitions and production milestones from Lenskart, Gland Ph
 
-## France in ‘astonishing’ push to lift EU sanctions on Russian oligarch
-Paris replicates Viktor Orbán’s tactics in bid to free French nationals from Azerbaijan
+## Stocks to watch, Sept 15: HDFC Bank, BSE, broking firms, HCL Tech, Deccan Gold Mines, CESC, Glenmark, BHEL, Patel Airtemp, Lenskart, Heidelberg, AU Small Fiance Bank, Gland Pharma
+Key developments this week include HDFC Bank’s leadership transition, regulatory changes for brokerages, BHEL’s significant investments, strategic partnerships in technology and mining, and major acquisitions and production milestones from Lenskart, Gland Pharma, and Elin Electronics.
+
+## What Saudi Arabia’s East-West pipeline closure means for global energy markets
+The disruption comes as key Middle East shipping routes face mounting pressure, threatening supplies and raising costs for consumers worldwide.
+
+## US Supreme Court blocks Trump mail ballot restrictions for midterm elections
+The ruling preserves existing mail voting procedures as states prepare for November contests that will determine control of Congress
+
+## TN CM’s UK visit attracts over ₹12,300 crore investments, 9,400 jobs
+Major companies have committed funds across manufacturing, technology, digital services and electrical equipment, with several projects planned across Tamil Nadu.
+
+## US judge blocks Trump administration rule limiting foreign student, journalist visas
+A federal court has halted a major immigration policy change, preserving a longstanding visa system for international students and journalists.
 
 ## Satcom to play key role in remote areas: TRAI Chairman
 With spectrum allocation awaiting final approval, India’s satcom rollout will depend on government decisions and security clearances for operators
@@ -45,50 +63,38 @@ With spectrum allocation awaiting final approval, India’s satcom rollout will 
 ## Piramal Pharma’s UK facility receives 7 observations from US FDA inspection
 The observations relate to enhancements in practices, procedures and documentation, with the company preparing a detailed response within the stipulated timeline
 
-## HFCL raises planned capex to ₹1,800 crore to expand optical fibre production
-The telecom gear maker will add substantial manufacturing capacity across optical fibre, cable and preform following board approval for expansion
-
-## GAC Commercial Vehicle Accelerates Global Expansion with IAA TRANSPORTATION 2026 Debut
-GAC Commercial Vehicle Accelerates Global Expansion with IAA TRANSPORTATION 2026 Debut
-
-## Centre summons Air India CEO over immigration lapse involving three foreign nationals
-Initial report attributes lapse to ground-handling agency, sources say
-
-## India bars bank charges on UPI payments up to ₹2,000
-A government gazette ​notification ‌specifies that no bank or system provider shall impose any direct or indirect ‌charge on ​a person making or receiving payments ⁠through RuPay-powered debit cards and UPI transactions of ‌up to ​₹2,000
-
-## Vserv Infosystems eyes ₹1,000 crore in revenue by 2030: COO
-Vserv Infosystems Chief Operating Officer Raman Shukla said that the company has clocked revenue of around ₹150 crore in the last fiscal
-
-## Trump says he will decide if US will work towards deal with Iran
-
-
 ## 4 buyers paid Rs 2.08 crore each for flats, but pool, spa, gym missing; RERA orders Rs 10 lakh
 A reputed builder has been asked to pay Rs 10 lakh compensation to four homebuyers after a joint inspection and photographs showed that several amenities promised in the project, including a senior citizen park, open gym, spa, amphitheatre and sports facilities, had not been delivered.
 
-## Stocks to buy: What's the outlook for Nifty for September 15-September 18 week? Check list of top stock recommendations
-Stock market recommendations: Emcure Pharmaceuticals, and VA Tech Wabag are the top stocks to buy on September 15, 2026, recommends Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities.
+## New costlier iPhones may boost refurbished smartphones' demand
 
-## Global AI stocks slide as warnings over rapid development trigger investor concerns
-Global AI stocks plunged Monday after industry leaders urged slower development. Warnings from Anthropic, OpenAI, and xAI leaders sparked investor concerns. This led to significant declines in major chip and technology companies worldwide. The calls raised questions about continued massive investmen
 
-## India’s retail inflation rises to 4.82%, wholesale inflation climbs to 9.92%
-India's retail inflation rose to 4.82% in August, while wholesale inflation neared double digits. Food inflation increased to 5.95% at the consumer level and 7.05% wholesale. Fuel and power inflation surged sharply to over 22% on the wholesale price index. Economists anticipate continued upward pres
+## AB InBev growth in India better than industry: Prez
 
-## Brics leaders call for reliable supply chains for critical minerals
-India is actively seeking critical mineral supplies through international partnerships and domestic initiatives. Discussions are underway with Argentina, Australia, and Chile for lithium acquisition. The government launched a mission to boost exploration, processing, and overseas asset acquisition. 
 
-## EPFO launches WhatsApp channel for PF updates; here’s how to join
-The EPFO, in a social media post on X (formerly Twitter), said that members who join the WhatsApp channel can stay informed about the organisation’s latest updates. In its post on X, the EPFO said, “Join EPFO's official WhatsApp Channel to get important updates and useful information. Click on the l
+## Coforge hires Egon Zehnder to find two independent directors
 
-## Char Dham rail boost: Rishikesh-Karnprayag line hits 41 tunnel breakthroughs
-The Rishikesh Project Implementation Unit of RVNL achieved the breakthrough on Friday after completing the full 10.847-km length of Escape Tunnel 1. The tunnel is the second-longest on the project.
 
-## Nitin Gadkari: 100% barrier-free FASTag tolls soon; to deliver Rs 25,000 crore benefit
-The Road Transport and Highways Minister said the government plans to make all toll booths on national highways barrier-free by March 2027. FASTag adoption has already increased toll collections by 10%, or around Rs 7,000 crore, taking total toll booth revenue to more than Rs 82,000 crore, according
+## Essar arm to buy UK fuel retailer for nearly $550 million
+
+
+## Amazon's quick commerce business crosses $1 billion in gross annualised sales
+
+
+## Solar Industries acquires South African company for 13,000 crore
+To Create One Of World's Most Integrated & Largest Blasting Solutions Player With Omnia
+
+## Retail inflation surges to 8-month high of 4.8% in August
+
 
 ## Kharge slams BJP’s demand for action against inspector
 Home Minister Priyank Kharge defends police actions over Ganesh procession routes, amid BJP protests, emphasizing safety and adherence to regulations.
+
+## Hilsa tide turns as India sends 500MT fish to Bangladesh over 2 months: 'Usually the other way round'
+Another 150 MT could be shipped in the coming weeks, as Gujarat’s rising Hilsa production drives the unusual cross-border trade.
+
+## Govt calls urgent meet after 3 Italians board flight to Munich without completing immigration at Delhi airport
+The three passengers had travelled from Amritsar to Delhi to board a Lufthansa flight to Munich. They did not complete immigration formalities at Delhi airport.
 
 ## ‘She is experiencing something akin to trauma’: Gurugram biker's family breaks silence after hit-and-run incident
 Sia's brother said she had told him that there were four people in the vehicle, and that “all of them were drunk.”
@@ -105,13 +111,10 @@ The statement from China came two days after Modi and Xi met for bilateral talks
 ## Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy
 Delhi airport's denial came amid reports that three foreign passengers, allegedly Italian nationals, flew to Munich without clearing immigration.
 
-## India approves up to 654 MW of power export to flood-hit Nepal for 18 hours every day till December 31
-The decision comes amid the large-scale devastation caused by the recent floods and landslides in Nepal
+## China targets offshore operations of brokerages in crackdown on pay loopholes, corruption
+China’s securities regulator and its industry body are moving to close compensation loopholes for brokerage management and staff, extending anti-corruption oversight to overseas operations for the first time, as Beijing pushes the sector to build world-class investment banks. The Securities Associat
 
-## Why Delhi HC rejected Vimal Elaichi makers' plea over FDA notice to SRK, Ajay Devgn, Tiger Shroff
-The court said the petitioner should approach courts in Maharashtra, which would be the more suitable forum to address its concerns about the notices.
-
-## NYC’s wealthy Chinese grapple with Beijing’s tax rules as enforcement deadline nears
+## New York City’s rich Chinese grapple with Beijing tax rules as enforcement deadline nears
 Months after Beijing unveiled a bevy of new tax rules for offshore trusts, the fallout has now reached New York City – home to one of the largest concentrations of mainland Chinese wealth outside Asia – after the changes swept across Hong Kong and Singapore. Under the rules, which took effect on Jul
 
 ## Hong Kong malls see ‘gradual recovery’ with new stores and events: Hang Lung CEO
@@ -131,9 +134,6 @@ The shipbuilding and maintenance arm of state-owned marine transport giant China
 
 ## Asian Captive Conference 2026 Highlights How Captives Are Utilised as Businesses Navigate Risks
 [The content of this article has been produced by our advertising partner.] KUALA LUMPUR, 11 September 2026 — The 8th Asian Captive Conference (ACC) 2026 yesterday brought together more than 300 risk and industry professionals from the region and beyond to explore how captive insurance is enabling b
-
-## Handshake or arm-wrestling match? What China’s stock traders expect from Xi-Trump meeting
-The coming meeting between President Xi Jinping and his US counterpart Donald Trump is on the radar of market traders in mainland China and Hong Kong, as the results – whether smiling handshakes or a tense test of wills – could add volatility to an already unpredictable market. However, observers sa
 
 ## Fresh Houthi Strikes Inject New Uncertainty Into Iran War
 As oil prices rise, planned regional talks hit a snag.
@@ -159,6 +159,9 @@ India and China compete to shape the bloc’s agenda moving forward.
 ## What in the World?
 Test yourself on the week of Sept. 5: A German state votes, Philippine police make a high-profile arrest, and Nigeria appoints a new military commander.
 
+## China Postponed Its Chang’e 7 Lunar Mission. What Does That Mean for Its Space Program?
+The lack of explanation – or a new launch date – suggests critical challenges, not just bad weather.
+
 ## North Korea Confirms September 12 Missile Launch Was Joint Firepower Drill
 The exercise came a day after trilateral Freedom Edge drills ended and as U.S. President Donald Trump continues to seek a new summit with Kim Jong Un.
 
@@ -179,9 +182,6 @@ The CDP-Komeito alliance is breaking apart. But a return to resistance-oriented 
 
 ## ‘Small-Yurt Diplomacy’ Prevails at Kyrgyzstan’s World Nomad Games
 This year, as Kyrgyzstan was busy showcasing its culture to the world, foreign countries were competing for the attention of locals.
-
-## 5 Years Later, Where Does AUKUS Stand?
-Over the last five years, as AUKUS has taken shape, the dynamics behind regional security have continued to evolve.
 
 ## Reading the Kremlin’s Mind: Ukrainian Writers Attempt to Understand Putin
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -231,6 +231,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russia resupplies military bases in Syria for first time under new deal
+Moscow maintains military foothold in the Mediterranean following talks with Damascus
+
+## Geneva talks put Rwanda-DRC peace deal to the test
+The talks come amid continued fighting and disputes over the implementation of key security commitments.
+
+## Sweden election is too close to call as far right loses ground
+Opposition bloc leads in tight Swedish election with 95% counted.
+
+## Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav
+CENTCOM disputes the IRGC claim that the Panama-flagged oil tanker El Gaia hit naval mines in the Strait of Hormuz.
+
 ## Landowners in Texas ask court to stop Trump border wall
 Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.
 
@@ -242,18 +254,6 @@ The Trump administration says it could save power plants more than $300bn and 'u
 
 ## Macklemore cut from Ed Sheeran tour for pro-Palestine stance
 Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.
-
-## ‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit
-Activist and former Columbia University student Mahmoud Khalil is filing a lawsuit against the university and a dean.
-
-## Why talks in Oman between Iran and Gulf Arab states were postponed
-Hopes for a breakthrough on the Iran war have taken a hit after talks in Oman between Iran-Gulf nations were postponed.
-
-## US blocks Iran nuclear chief from attending key Vienna conference
-Iran accuses US of pressuring Austria to revoke visa for Mohammad Eslami, calling it a violation of member state rights.
-
-## Israel probing Naza film on Gaza for treason, inciting anti-Semitism
-Film alleges mass ⁠civilian deaths routinely built into military decisions amid Israel's genocidal war on Gaza.
 
 ## Gulf Oil Lubricants targets double-digit volume growth, bets on EV fluids and B2B expansion: CFO
 Gulf Oil Lubricants is targeting double-digit volume growth by continuing to grow at 2 to 3 times the industry rate, while simultaneously betting on B2B expansion in infrastructure and industrial segments, CFO Manish Gangwal said in an exclusive interview with ETCFO. The Hinduja group company that m
