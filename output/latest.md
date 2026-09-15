@@ -1,115 +1,124 @@
 # AION Intelligence
 
-## Supreme Court rejects Trump’s mail-in ballot restrictions for midterms
-Justices split 7-2 in decision that comes months before congressional elections
+## UK employers cut jobs as labour market remains weak over summer
+Latest snapshot of labour market comes ahead of Bank of England meeting this week
 
-## China tightens control of overseas travel in sweeping new law
-President Xi Jinping steps up efforts to secure state secrets, advanced technology and highly skilled workers
+## Ten-year Treasury yield hits highest since 2007
+Benchmark 10-year hits 5.02% as investors continue to sell government debt in expectations of Fed rate increase
 
-## US military reveals it has weapons in space
-Security experts warn announcement could result in the proliferation of weapons by other governments
+## Help to Buy scheme was ‘very high value for money’, says official review
+Government ministers under Sir Keir Starmer had been preparing to unveil a new version of the flagship programme
 
-## Dogs join diners as Hong Kong bets on the pet economy
-The end of a decades-old prohibition has been welcomed by owners but is prompting disquiet from some patrons
+## The great British (and American) fork in the road
+Something’s cooking, but does it matter?
 
-## Scotland and Wales renew push for independence — using Burnham’s own rhetoric
-Leaders of three devolved nations take part in ‘historic’ meeting in Cardiff
+## Carney calls for ‘unique alliance’ with EU in plea for closer trade ties
+Also in this newsletter: Telecom groups warn the EU is not supporting its own sovereignty goals
 
-## Trump to scrap Biden-era climate protections on power plant pollution
-Move continues dismantling of environmental protections during the president’s second term as he boosts fossil-fuel industry
+## It’s crunch time for BoneSupport, one of Europe’s most shorted stocks
+Casing the joint
 
-## UK chancellor offers pact to chief executives on growth
-John Healey pledges to provide fiscal and economic discipline in return for investment and jobs
+## FirstFT: UK fiscal realities close in on Downing Street
+Also in today’s newsletter: Putin’s summit and JLR targets Nato budgets
 
-## Carney urges EU to cement trade deal as Ottawa seeks pivot from US
-Canada’s prime minister tells FT deeper ties with Europe will make both sides ‘more resilient’ amid Trump turmoil
+## China’s economy shows signs of weakness as investment slumps
+Deteriorating domestic indicators add pressure on policymakers to increase stimulus spending
 
-## Oil hits $109 after Saudi Arabia closes vital export pipeline
-Riyadh pulls out of regional talks to de-escalate hostilities over Strait of Hormuz in wake of drone attack last week
+## Private equity’s new AI overlords?
+‘The holding company of the next century’ and Michael Dell’s family office bested PE giants to take an insurance broker private
 
-## US tech stocks fall after big AI groups call for slowdown
-Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs
+## Luxembourg probes Gazprombank ex-managers
+Inquiry follows an FT investigation that found four former directors enriched themselves through a sanctions-busting trading scheme
 
-## Why delaying an AI doomsday would benefit investors too
-A slowdown would reduce the enormous amounts of cash being lavished on training new models
+## Hyrox’s new owners hope to turn burpees into billions
+The brand is well placed to expand: clothing and accessories would be the obvious first place followed by travel
 
-## Trump claims Russia and Ukraine have agreed energy truce
-Kyiv was caught off guard by the US president’s announcement after previous attempts to halt strikes on power plants and refineries failed
+## AI is exciting audit firms — maybe too much
+The technology being adopted rapidly by firms such as KPMG and EY still needs humans in the loop
 
-## Time for a pause on cutting-edge AI
-The most advanced models are starting to escape human control
+## Oxford spin-off builds low-cost jet engines for drones
+Project backed by Ministry of Defence comes as companies race to build fast interceptors to counter Russian attacks
 
-## Sensex today | Stock Market Live: Stocks to watch, Sept 15: HDFC Bank, BSE, HCL Tech, Deccan Gold Mines, CESC, Glenmark, BHEL, and more
-Sensex, Nifty, Share Prices Live Updates: Key developments this week include HDFC Bank’s leadership transition, regulatory changes for brokerages, BHEL’s significant investments, strategic partnerships in technology and mining, and major acquisitions and production milestones from Lenskart, Gland Ph
+## Sensex today | Stock Market Live: Sensex drops over 150 pts, Nifty slips below 23,350; HCLTech leads gains, up 6.3%
+Sensex, Nifty, Share Prices Live Updates: Markets opened higher on Tuesday, September 15, with the Nifty 50 rising 114.20 points (0.49 per cent) to 23,512.30 and the Sensex gaining 429.10 points (0.57 per cent) to 75,210.86 as of 9.17 am, reversing two sessions of consecutive losses.
 
-## Stocks to watch, Sept 15: HDFC Bank, BSE, broking firms, HCL Tech, Deccan Gold Mines, CESC, Glenmark, BHEL, Patel Airtemp, Lenskart, Heidelberg, AU Small Fiance Bank, Gland Pharma
-Key developments this week include HDFC Bank’s leadership transition, regulatory changes for brokerages, BHEL’s significant investments, strategic partnerships in technology and mining, and major acquisitions and production milestones from Lenskart, Gland Pharma, and Elin Electronics.
+## CKGSB-IE University Report Reveals New Models of Chinese Companies Going Global
+CKGSB-IE University Report Reveals New Models of Chinese Companies Going Global
 
-## What Saudi Arabia’s East-West pipeline closure means for global energy markets
-The disruption comes as key Middle East shipping routes face mounting pressure, threatening supplies and raising costs for consumers worldwide.
+## ABB launches digital platform for optimizing water network operations in India
+ABB launches digital platform for optimizing water network operations in India
 
-## US Supreme Court blocks Trump mail ballot restrictions for midterm elections
-The ruling preserves existing mail voting procedures as states prepare for November contests that will determine control of Congress
+## TCS shares jump 5% as DGCX partnership lift stocks
+Under its agreement with Dubai Gold & Commodities Exchange, TCS will support the exchange across energy commodities, currencies, equities, bullion, and precious metals
 
-## TN CM’s UK visit attracts over ₹12,300 crore investments, 9,400 jobs
-Major companies have committed funds across manufacturing, technology, digital services and electrical equipment, with several projects planned across Tamil Nadu.
+## RBI absorbs ₹3.93 lakh crore from banking system via VRRR auction
+The central bank received bids worth ₹3,93,352 crore, for a notified amount of ₹5 lakh crore. It accepted all bids at a cut-off and weighted average rate of 5.24 per cent
 
-## US judge blocks Trump administration rule limiting foreign student, journalist visas
-A federal court has halted a major immigration policy change, preserving a longstanding visa system for international students and journalists.
+## Positive inflows into gold ETFs continues for eighth week in a row
+Data from the World Gold Council (WGC) showed that investments were net positive at $1.55 billion last week despite the volatile precious metal market
 
-## Satcom to play key role in remote areas: TRAI Chairman
-With spectrum allocation awaiting final approval, India’s satcom rollout will depend on government decisions and security clearances for operators
+## AI is supercharging money scams – here’s what you can do to protect yourself
+Americans filed more than 22,000 cases with an AI connection and reported roughly US$893 million in losses, FBI’s 2025 annual report says
 
-## Piramal Pharma’s UK facility receives 7 observations from US FDA inspection
-The observations relate to enhancements in practices, procedures and documentation, with the company preparing a detailed response within the stipulated timeline
+## Uno Minda to invest ₹1,415 crore in capex across India
+Expansion projects include in two-wheeler alloy wheels, aluminium casting, moulding, and interior, exterior parts, and sealing systems.
 
-## 4 buyers paid Rs 2.08 crore each for flats, but pool, spa, gym missing; RERA orders Rs 10 lakh
-A reputed builder has been asked to pay Rs 10 lakh compensation to four homebuyers after a joint inspection and photographs showed that several amenities promised in the project, including a senior citizen park, open gym, spa, amphitheatre and sports facilities, had not been delivered.
+## Gold price prediction today: Will bearish bias continue? Check outlook for September 15, 2026 week
+Gold remains under corrective pressure after the sharp rejection from the recent Rs 164,000–166,000 zone, with prices currently trading near Rs 151,000.
+
+## Real estate businessman lost Rs 34.21 lakh in F&O, got a notice; what ITAT did
+The AO invoked the Explanation to Section 73 and consequently refused to allow the loss to be set off against the taxpayer’s regular business income. The assessment relied on the Delhi High Court ruling in CIT v. DLF Commercial Developers Ltd.
+
+## UPI payments up to Rs 2,000 to remain free of charges: Govt
+
+
+## Stock Market Live Updates Today: BSE Sensex rallies 400 points, Nifty climbs above 23,500 in early trade
+
+
+## Oil price today: Brent crude rises as Saudi pipeline outage, fresh attacks raise supply concerns
+
+
+## Top stocks to buy: Stock recommendations for September 15, 2026 week - check list
+Stock market recommendations: Emcure Pharmaceuticals, and Cholamandalam Investment & Finance Company Ltd - Motilal Oswal Wealth Management Research Desk has identified these as the top stocks to buy in the holiday-shortened trading week starting September 18, 2026:
 
 ## New costlier iPhones may boost refurbished smartphones' demand
 
 
-## AB InBev growth in India better than industry: Prez
+## 4 buyers paid Rs 2.08 crore each for flats, but pool, spa, gym missing; RERA orders Rs 10 lakh
+A reputed builder has been asked to pay Rs 10 lakh compensation to four homebuyers after a joint inspection and photographs showed that several amenities promised in the project, including a senior citizen park, open gym, spa, amphitheatre and sports facilities, had not been delivered.
 
+## SC asks Centre to consider extending tenure of retiring members of tribunals
+SC asks Centre to consider extending tenure of retiring members of tribunals
 
-## Coforge hires Egon Zehnder to find two independent directors
+## No physical sports activities in Delhi-NCR schools between Nov-Dec: CAQM advisory
+Competitions, if any, already scheduled may be rescheduled and it may be ensured that students who are unable to participate due to the rescheduling are not unduly disadvantaged
 
+## Malaysian PM praises Tamil Nadu CM Vijay as meeting awaited: 'Started well, must sustain'
+Anwar Ibrahim praised CM Vijay's focus on principles, values and good governance and said a leader had to deal with several competing pressures.
 
-## Essar arm to buy UK fuel retailer for nearly $550 million
+## Delhi HC declines to immediately restrain OpenAI from scraping ANI content
+The high court refused to pass a direction while dealing with ANI’s petition against a single judge’s July 24 order
 
+## Bomb threats hit British School, Sardar Patel Vidyalaya in Delhi; students evacuated
+At least two schools in Delhi received bomb threats on Tuesday, prompting school authorities to evacuate the premises and move the students to safety.
 
-## Amazon's quick commerce business crosses $1 billion in gross annualised sales
+## Gurugram bike crash accused arrested in Rajasthan; murder attempt charge added
+Following the accident, Kalyan Bainsla claimed that the collision was not intentional and that he fled from the spot out of fear of a mob attack.
 
+## 3 men from western UP go missing in Russia, kin say forced to fight in Ukraine
+The families of the three men from Muzaffarnagar and Shamli said they have been unable to contact them since July 30
 
-## Solar Industries acquires South African company for 13,000 crore
-To Create One Of World's Most Integrated & Largest Blasting Solutions Player With Omnia
+## The diamond jubilee of India’s green shield: Indian Forest Service completes 60 years
+Corbett transitioned from a hunter of man-eaters to a wildlife champion, helping establish India's first National Park in 1936.
 
-## Retail inflation surges to 8-month high of 4.8% in August
+## Unitree’s US$30 billion stock wipe-off spurs regulatory caution on humanoid robot IPOs
+A more than 40 per cent slump in Chinese humanoid robot maker Unitree Robotics since listing has sounded regulatory caution for the industry, with speculation swirling that Beijing may tighten approval of the peer listings. The regulators would heighten scrutiny over humanoid makers seeking initial 
 
+## GAC shares jump on FAW tie-up plans amid Beijing drive for car industry mergers
+Shares of Guangzhou Automobile Group (GAC) jumped after announcing plans to integrate resources with FAW Group, following Beijing’s call for consolidation amid weakening domestic demand. GAC planned to acquire part of FAW’s equity in a joint venture vehicle manufacturer through a share issuance and 
 
-## Kharge slams BJP’s demand for action against inspector
-Home Minister Priyank Kharge defends police actions over Ganesh procession routes, amid BJP protests, emphasizing safety and adherence to regulations.
-
-## Hilsa tide turns as India sends 500MT fish to Bangladesh over 2 months: 'Usually the other way round'
-Another 150 MT could be shipped in the coming weeks, as Gujarat’s rising Hilsa production drives the unusual cross-border trade.
-
-## Govt calls urgent meet after 3 Italians board flight to Munich without completing immigration at Delhi airport
-The three passengers had travelled from Amritsar to Delhi to board a Lufthansa flight to Munich. They did not complete immigration formalities at Delhi airport.
-
-## ‘She is experiencing something akin to trauma’: Gurugram biker's family breaks silence after hit-and-run incident
-Sia's brother said she had told him that there were four people in the vehicle, and that “all of them were drunk.”
-
-## ‘Someone gave ₹20 to eat’: BJP's richest Maharashtra MLA Parag Shah turns beggar for a day
-Parag Shah, who represents Ghatkopar (East), sought alms and ate food offered to him while sitting by the roadside.
-
-## Delhi HC rejects Vimal Elaichi's plea over Maharashtra FDA notices to SRK, Ajay Devgn, Tiger Shroff
-Justice Swarana Kanta Sharma ruled that the company had failed to establish that any substantial or material part of the cause of action had arisen in Delhi.
-
-## ‘China values Modi’s statements’: Beijing hails India's independent foreign policy after PM-Xi meeting at BRICS
-The statement from China came two days after Modi and Xi met for bilateral talks and welcomed “steady progress” in relations between the two countries.
-
-## Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy
-Delhi airport's denial came amid reports that three foreign passengers, allegedly Italian nationals, flew to Munich without clearing immigration.
+## Citigroup hires veteran banker Sophia Wang to lead China institutional sales
+Citigroup has appointed veteran banker Sophia Wang as a managing director and head of China financial-institutional sales and senior relationship management (SRM), marking the latest move by the Wall Street lender to deepen its footprint in mainland capital markets despite ongoing geopolitical frict
 
 ## China targets offshore operations of brokerages in crackdown on pay loopholes, corruption
 China’s securities regulator and its industry body are moving to close compensation loopholes for brokerage management and staff, extending anti-corruption oversight to overseas operations for the first time, as Beijing pushes the sector to build world-class investment banks. The Securities Associat
@@ -126,14 +135,8 @@ Revenue from inbound travel to China is forecast to reach US$470 billion by 2040
 ## Forms Syntron draws Hong Kong’s next-gen tycoons in HK$940 million IPO
 Hong Kong’s younger generation of tycoons is becoming increasingly active in the city’s initial public offering market through family offices and private investments. But their investments extend beyond the property and traditional financial sectors associated with their predecessors, into technolog
 
-## Hong Kong faces pressure to speed up trading hours review after South Korea’s move
-Hong Kong’s stock market is facing renewed pressure to accelerate its review of longer trading hours after South Korea’s main bourse extended its session by four hours on Monday, according to an industry player. The Korea Exchange, South Korea’s bourse operator, launched a real-time after-market fro
-
-## Cosco Shipping arm readies China IPO to capitalise on global shipbuilding wave
-The shipbuilding and maintenance arm of state-owned marine transport giant China Cosco Shipping has completed initial public offering (IPO) guidance registration, paving the way for a domestic listing to capitalise on a global shipbuilding boom. Cosco Shipping Heavy Industry finished its pre-IPO reg
-
-## Asian Captive Conference 2026 Highlights How Captives Are Utilised as Businesses Navigate Risks
-[The content of this article has been produced by our advertising partner.] KUALA LUMPUR, 11 September 2026 — The 8th Asian Captive Conference (ACC) 2026 yesterday brought together more than 300 risk and industry professionals from the region and beyond to explore how captive insurance is enabling b
+## The United States Must Prepare for More Than One Russian Future
+Managing the Ukraine conflict is just the beginning of negotiations.
 
 ## Fresh Houthi Strikes Inject New Uncertainty Into Iran War
 As oil prices rise, planned regional talks hit a snag.
@@ -155,9 +158,6 @@ The far-right party surges in a regional election.
 
 ## Who Wears the BRICS Crown?
 India and China compete to shape the bloc’s agenda moving forward.
-
-## What in the World?
-Test yourself on the week of Sept. 5: A German state votes, Philippine police make a high-profile arrest, and Nigeria appoints a new military commander.
 
 ## China Postponed Its Chang’e 7 Lunar Mission. What Does That Mean for Its Space Program?
 The lack of explanation – or a new launch date – suggests critical challenges, not just bad weather.
@@ -231,29 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russia resupplies military bases in Syria for first time under new deal
-Moscow maintains military foothold in the Mediterranean following talks with Damascus
+## BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes
+Since Prime Minister Modi's BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.
 
-## Geneva talks put Rwanda-DRC peace deal to the test
-The talks come amid continued fighting and disputes over the implementation of key security commitments.
+## Leeds United defeat Newcastle 4-1 to go third in Premier League
+Goals from in-form forward Calvert-Lewin, Okafor and Bogle boost Leeds' standing in the league table.
 
-## Sweden election is too close to call as far right loses ground
-Opposition bloc leads in tight Swedish election with 95% counted.
+## Internet shutdown crosses 100 days in Pakistan-administered Kashmir
+Mobile data, broadband services suspended in the territory since protests calling for electoral reform in June.
 
-## Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav
-CENTCOM disputes the IRGC claim that the Panama-flagged oil tanker El Gaia hit naval mines in the Strait of Hormuz.
+## Spectacular turtle nesting event in southern Mexico
+More than 300,000 olive ridley turtles have arrived at a beach in southern Mexico in the latest mass nesting.
 
-## Landowners in Texas ask court to stop Trump border wall
-Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.
+## Emmy winners 2026: ‘Widow’s Bay’ and ‘The Pitt’ dominate
+Jean Smart earns fifth Emmy for 'Hacks', becoming the first to win lead comedy actress for every season of the show.
 
-## Israeli attack targets Gaza displacement camp
-Israeli attack targets Gaza displacement camp
+## Millions line up for ‘sacred henna’ at Indian temple
+Drone visuals show masses lining up at Indian temple for sacred henna, believed to help unmarried people find a match.
 
-## US repeals rules limiting greenhouse gas emissions by power plants
-The Trump administration says it could save power plants more than $300bn and 'unleash' American energy.
+## Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’
+US President Donald Trump makes a surprise call to Nvidia's CEO, interrupting a live event to discuss fears about AI.
 
-## Macklemore cut from Ed Sheeran tour for pro-Palestine stance
-Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.
+## US Supreme Court rejects Trump mail ballot restrictions ahead of midterms
+US Supreme Court rejects Trump’s bid to tighten mail-in voting rules ahead of critical midterm elections.
+
+## Tech Mahindra to channelise margin gains towards growth in next three year plan
+The IT services company is preparing its next three-year plan as it enters the final year of its current strategy, with Anand saying profitable growth will be a key focus while the company continues to pursue operational efficiency.
+
+## Coforge rebuts boardroom tension claims, begins search for new directors with Egon Zehnder
+The IT services company said its board remained aligned on key strategic and governance decisions despite D.K. Singh’s resignation citing differences and tension, while it searches for two independent directors and a permanent chairperson.
 
 ## Gulf Oil Lubricants targets double-digit volume growth, bets on EV fluids and B2B expansion: CFO
 Gulf Oil Lubricants is targeting double-digit volume growth by continuing to grow at 2 to 3 times the industry rate, while simultaneously betting on B2B expansion in infrastructure and industrial segments, CFO Manish Gangwal said in an exclusive interview with ETCFO. The Hinduja group company that m
@@ -273,11 +279,14 @@ Panel backs targeted audit relief for private companies as dissent over wider co
 ## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
 Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
 
-## Telangana tax dept holds officers personally accountable for unauthorised AI sharing of taxpayer data
-Circular allows officials to use AI for generic research, drafting and administrative efficiency, but bars them from entering identifiable taxpayer information into public or commercial AI platforms without written authorisation.
+## India's Tata shares jump as RBI decision revives holding firm's listing prospects
+Tata Group company shares jumped Tuesday after the central bank rejected Tata Sons' deregistration application. This decision revived prospects for a stock market listing of the holding firm. Tata Chemicals shares rose twenty percent, and Tata Motors saw a gain. Tata Investment and Tata Consultancy 
 
-## Exclusive: Former Philips India finance chief Dev Tripathy joins Integris Medtech as Group CFO
-After an 18 year career at Philips spanning multiple finance leadership roles, Tripathy takes charge of group finance at a global medtech company with operations across 65 countries.
+## Senate Republicans sweeten crypto bill with new Trump-backed ethics rules ahead of crunch vote
+US Senate Republicans have released a revised Clarity Act cryptocurrency bill. New ethics language, agreed upon by President Donald Trump, has been added. This updated text aims to address concerns about potential conflicts of interest. The bill now includes consumer protections and developer safegu
+
+## Central database may be used for financial oversight, risk monitoring
+India's government plans to expand Cersai's database for better financial risk monitoring. This initiative aligns with the phased rollout of the Central KYC Records Registry, CKYCRR 2.0. The expanded Cersai database will offer customer insights and aid in fraud prevention efforts. Financial institut
 
 ## Commerce ministry to set up central processing dept to implement faceless trade facilitation system
 In an effort to modernize trade operations, the Directorate General of Foreign Trade will create a central processing department. This new unit, which is expected to be inaugurated nationally in the second half of October 2026, will facilitate a faceless, paperless, and jurisdiction-free system for 
@@ -293,13 +302,4 @@ Chinese President Xi Jinping and Prime Minister Narendra Modi used their first m
 
 ## EU dropped aluminium scrap duty plan over India concerns, sources say
 EU-METALS/ALUMINIUM-SCRAP (PIX)EU dropped aluminium scrap duty plan over India concerns, sources say
-
-## Sebi proposes extending IT, cyber security framework of MIIs to their arms
-Sebi proposed extending IT and cyber security rules to subsidiaries of market infrastructure institutions. This move aims to strengthen regulatory oversight over these evolving business structures. Subsidiaries undertaking core MII activities will now follow parent company's cybersecurity frameworks
-
-## Surplus liquidity crosses 11 L cr in money market
-India's money market liquidity has surged past eleven lakh crore rupees. This excess cash resulted from banks mobilizing foreign-currency deposits under a special window. The Reserve Bank of India is actively absorbing this surplus liquidity through various operations. Banks are currently preferring
-
-## RBI's FCNR liquidity problem is becoming a treasury problem for banks
-The Reserve Bank of India's struggle to absorb a record liquidity surplus is increasingly becoming a treasury-management challenge for banks, which must decide how much excess cash to park with the central bank, deploy into loans or securities, or keep readily available.
 
