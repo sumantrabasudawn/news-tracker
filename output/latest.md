@@ -1,67 +1,82 @@
 # AION Intelligence
 
-## UK employers cut jobs as labour market remains weak over summer
-Latest snapshot of labour market comes ahead of Bank of England meeting this week
+## Ten-year Treasury yield hits highest level since 2007
+Benchmark bond yield rises to 5.04% amid concerns over inflation and higher interest rates
 
-## Ten-year Treasury yield hits highest since 2007
-Benchmark 10-year hits 5.02% as investors continue to sell government debt in expectations of Fed rate increase
+## Santander wins £677mn legal appeal over PPI mis-selling bill
+Court of Appeal overturns earlier ruling in long-running battle between Spanish bank and French insurer Axa
 
-## Help to Buy scheme was ‘very high value for money’, says official review
-Government ministers under Sir Keir Starmer had been preparing to unveil a new version of the flagship programme
+## China tightens control of overseas travel in sweeping new law
+President Xi Jinping steps up efforts to secure state secrets, advanced technology and highly skilled workers
 
-## The great British (and American) fork in the road
-Something’s cooking, but does it matter?
+## UK state pension will surpass income tax threshold next year
+Labour pledge to keep state pension out of tax puts pressure on chancellor to raise allowance or find workaround
 
-## Carney calls for ‘unique alliance’ with EU in plea for closer trade ties
-Also in this newsletter: Telecom groups warn the EU is not supporting its own sovereignty goals
+## Bad decisions, difficult incentives and excitable markets
+Errors at the Federal Reserve and European Central Bank complicate life for officials at all levels. Also in this newsletter, someone has a book to sell
 
-## It’s crunch time for BoneSupport, one of Europe’s most shorted stocks
-Casing the joint
+## Lucy Letby hospital managers too slow to call police, inquiry finds
+Staff working with convicted child killer failed to understand ‘fundamentals of safeguarding’, says damning public review
 
-## FirstFT: UK fiscal realities close in on Downing Street
-Also in today’s newsletter: Putin’s summit and JLR targets Nato budgets
+## Kevin Warsh needs to walk the walk
+A rate rise makes economic sense and would support the Federal Reserve’s credibility
 
-## China’s economy shows signs of weakness as investment slumps
-Deteriorating domestic indicators add pressure on policymakers to increase stimulus spending
+## Russian warship fires flares at Danish helicopter over Baltic Sea
+Denmark says one of the flares passed the aircraft at close range, branding the action as ‘reckless’
 
-## Private equity’s new AI overlords?
-‘The holding company of the next century’ and Michael Dell’s family office bested PE giants to take an insurance broker private
+## BPRE’s extremely large, very huge, getting-bigger NAV discount
+Private marks v public markets
 
-## Luxembourg probes Gazprombank ex-managers
-Inquiry follows an FT investigation that found four former directors enriched themselves through a sanctions-busting trading scheme
+## Trump’s Venezuela oil deal: deeply flawed or too big to fail?
+Energy executives in the South American country are frantically trying to understand the implications of the highly unusual agreement with the US
 
-## Hyrox’s new owners hope to turn burpees into billions
-The brand is well placed to expand: clothing and accessories would be the obvious first place followed by travel
+## Sullivan & Cromwell hires team of Kirkland partners in private equity push
+White-shoe law firm had largely avoided acting for buyout groups even as the industry’s boom propelled rival firms to rapid growth
 
-## AI is exciting audit firms — maybe too much
-The technology being adopted rapidly by firms such as KPMG and EY still needs humans in the loop
+## New fertiliser exporters blunt food crisis fears
+Countries outside the Gulf increase market share of urea exports as supplies through Strait of Hormuz collapse
 
-## Oxford spin-off builds low-cost jet engines for drones
-Project backed by Ministry of Defence comes as companies race to build fast interceptors to counter Russian attacks
+## The ex-JPMorgan banker facing Wall Street’s toughest turnaround job
+Takis Georgakopoulos became chief executive of Fiserv just as it confronted big cultural and structural challenges
 
-## Sensex today | Stock Market Live: Sensex drops over 150 pts, Nifty slips below 23,350; HCLTech leads gains, up 6.3%
-Sensex, Nifty, Share Prices Live Updates: Markets opened higher on Tuesday, September 15, with the Nifty 50 rising 114.20 points (0.49 per cent) to 23,512.30 and the Sensex gaining 429.10 points (0.57 per cent) to 75,210.86 as of 9.17 am, reversing two sessions of consecutive losses.
+## Norway’s telecoms firm charged with aiding crimes against humanity in Myanmar
+Norwegian authorities say telecoms group handed sensitive customer data to military junta in wake of 2021 coup
 
-## CKGSB-IE University Report Reveals New Models of Chinese Companies Going Global
-CKGSB-IE University Report Reveals New Models of Chinese Companies Going Global
+## Gland Pharma to acquire 100% stake in Gland Pharma USA
+The board meeting on Sunday confirmed that Gland US will become a wholly-owned subsidiary of Gland Pharma in Hyderabad after the acquisition
 
-## ABB launches digital platform for optimizing water network operations in India
-ABB launches digital platform for optimizing water network operations in India
+## Why could cooking oil prices rise this festival season in India? | Trending commodity picks | EP 113
+Palm, soybean & sunflower oil are getting costlier. Here’s why?
 
-## TCS shares jump 5% as DGCX partnership lift stocks
-Under its agreement with Dubai Gold & Commodities Exchange, TCS will support the exchange across energy commodities, currencies, equities, bullion, and precious metals
+## Maharashtra Cabinet approves ₹750 crore soft loans for cooperative sugar mills
+The decision is aimed at helping mills overcome difficulties, procure sugarcane and provide relief to growers during the crushing season.
 
-## RBI absorbs ₹3.93 lakh crore from banking system via VRRR auction
-The central bank received bids worth ₹3,93,352 crore, for a notified amount of ₹5 lakh crore. It accepted all bids at a cut-off and weighted average rate of 5.24 per cent
+## Why are sugar prices soaring in India ahead of the festive season? | Trending commodity picks | EP 114
+Is ethanol production driving the surge?
 
-## Positive inflows into gold ETFs continues for eighth week in a row
-Data from the World Gold Council (WGC) showed that investments were net positive at $1.55 billion last week despite the volatile precious metal market
+## Over 200 insolvency professionals cancelled registrations in Q1 FY27
+Scrutiny also intensified through FY27. The IBBI’s disciplinary committee issued 31 show-cause notices to IPs in the current financial year till September 8
 
-## AI is supercharging money scams – here’s what you can do to protect yourself
-Americans filed more than 22,000 cases with an AI connection and reported roughly US$893 million in losses, FBI’s 2025 annual report says
+## Gold price volatility explained: What’s next for gold & silver? | Trending commodity picks | EP 115
+Festive season gold rush? The expert shares an outlook for buyers.
 
-## Uno Minda to invest ₹1,415 crore in capex across India
-Expansion projects include in two-wheeler alloy wheels, aluminium casting, moulding, and interior, exterior parts, and sealing systems.
+## Crude shock, bond jitters send Sensex, Nifty into a rout
+The BSE Sensex dropped 777.94 points to close at 74,003.82, while the NSE Nifty 50 fell 279.50 points to settle at 23,118.60, its lowest since April 6, 2026
+
+## DP World Cochin posts highest-ever monthly throughput in August
+After handling 74,644 TEUs in June and 74,585 TEUs in July, volumes rose to 97,952 TEUs in August, setting a new monthly record
+
+## Russian oil squeeze, China competition, Saudi pipeline shut: Why India faces a crude triple whammy
+Where does that leave India, a country that imports around 90% of its crude oil? If crude oil prices continue to rise due to global supply constraints and Russian crude discounts ebb, will India’s crude oil bill manage another hit within months?
+
+## India’s exports jump 25.4% in August, narrowing overall trade deficit to $9.41bn
+India's overall trade deficit narrowed to $9.41 billion in August 2026. Exports grew 25.41% year-on-year to $82.68 billion, while imports rose to $92.09 billion. Merchandise exports increased 26.12% to $43.81 billion, showing strong performance. Services exports also registered robust growth, contri
+
+## Rupee falls 0.4% to 95.96 against dollar, sharpest single-day drop in two months
+The Indian rupee experienced its sharpest single-day fall in two months. Rising oil prices and higher US interest rate expectations pressured the currency. Attacks on Saudi Arabian energy infrastructure boosted crude oil prices significantly. The Reserve Bank of India's dollar sales helped limit the
+
+## Rs 3.25 lakh meant for father went to wrong account; Karnataka HC orders refund
+The court passed the order after hearing a petition filed by the woman who said she had intended to transfer the money to her father but inadvertently sent it to another account. The account belonged to M/s Standard Engineering Works and, according to the petitioner's case, was dormant.
 
 ## Gold price prediction today: Will bearish bias continue? Check outlook for September 15, 2026 week
 Gold remains under corrective pressure after the sharp rejection from the recent Rs 164,000–166,000 zone, with prices currently trading near Rs 151,000.
@@ -75,47 +90,44 @@ The AO invoked the Explanation to Section 73 and consequently refused to allow t
 ## Stock Market Live Updates Today: BSE Sensex rallies 400 points, Nifty climbs above 23,500 in early trade
 
 
-## Oil price today: Brent crude rises as Saudi pipeline outage, fresh attacks raise supply concerns
+## ‘Three mutuals’ should guide India-China ties: PM Modi told Xi Jinping during BRICS bilateral
+Jaiswal said PM Modi also referred to India’s concerns and stressed that both countries should remain sensitive to each other’s core concerns.
 
+## Facing pushback, Fadnavis pauses online shift for MPSC recruitment exams
+Fadnavis also insisted that the MPSC chairperson Vivek Bhimanwar’s statement on the topic had been misconstrued.
 
-## Top stocks to buy: Stock recommendations for September 15, 2026 week - check list
-Stock market recommendations: Emcure Pharmaceuticals, and Cholamandalam Investment & Finance Company Ltd - Motilal Oswal Wealth Management Research Desk has identified these as the top stocks to buy in the holiday-shortened trading week starting September 18, 2026:
+## BEST bus collides with metro pillar in Goregaon, 2 injured: Police
+Minutes after the incident, a police team was deputed to assist. The bus was towed by a BEST towing vehicle and taken to Vanrai police station
 
-## New costlier iPhones may boost refurbished smartphones' demand
+## Gurugram hit-and-run: Kalyan Bainsla's cousin Lavnish Gurjar arrested from Rajasthan's Dausa
+Bainsla and Gurgar were arrested after a woman biker posted a video claiming they had chased and deliberately rammed their car to her motorcycle.
 
+## 'How can anyone trust him?' SC raps Rajpal Yadav, extends time to pay ₹2 crore in cheque bounce cases
+The court extended its earlier order exempting him from surrender until October 5, underlining that it is one last opportunity
 
-## 4 buyers paid Rs 2.08 crore each for flats, but pool, spa, gym missing; RERA orders Rs 10 lakh
-A reputed builder has been asked to pay Rs 10 lakh compensation to four homebuyers after a joint inspection and photographs showed that several amenities promised in the project, including a senior citizen park, open gym, spa, amphitheatre and sports facilities, had not been delivered.
+## 'Gimmicks, phoney announcement': India on Pakistan's move to raise bounty on Jaish chief Masood Azhar
+Pakistan named Masood Azhar in its 2026 list of most-wanted terrorists and raised the reward for information leading to his capture to PKR 70 lakh.
 
-## SC asks Centre to consider extending tenure of retiring members of tribunals
-SC asks Centre to consider extending tenure of retiring members of tribunals
+## After 88 road deaths in seven months, Jammu traffic police launch crackdown on two-wheeler violations
+699 road accidents claimed 88 lives and injured 1,001 people across four Jammu districts in the first 7 months of 2026.
 
-## No physical sports activities in Delhi-NCR schools between Nov-Dec: CAQM advisory
-Competitions, if any, already scheduled may be rescheduled and it may be ensured that students who are unable to participate due to the rescheduling are not unduly disadvantaged
+## MP: National Human Rights Commission team meets families of hooch victims in Sagar
+MP: National Human Rights Commission team meets families of hooch victims in Sagar
 
-## Malaysian PM praises Tamil Nadu CM Vijay as meeting awaited: 'Started well, must sustain'
-Anwar Ibrahim praised CM Vijay's focus on principles, values and good governance and said a leader had to deal with several competing pressures.
+## Wrise Prestige accelerates mainland China expansion with new offices, AI lab
+Wealth management provider Wrise Prestige is stepping up its investment in artificial intelligence technology as the firm looks to expand its footprint on the Chinese mainland and power its next phase of growth. The Singapore-headquartered firm planned to open an AI laboratory in Guangzhou next mont
 
-## Delhi HC declines to immediately restrain OpenAI from scraping ANI content
-The high court refused to pass a direction while dealing with ANI’s petition against a single judge’s July 24 order
+## As the American century ends, Asia’s renaissance begins
+The ending of the American century is coinciding with an Asian renaissance. America remains the world’s largest economy and will stay that way for another decade or two. But its economy no longer dominates the world. And its “America first” policy has partners and allies looking for alternatives for
 
-## Bomb threats hit British School, Sardar Patel Vidyalaya in Delhi; students evacuated
-At least two schools in Delhi received bomb threats on Tuesday, prompting school authorities to evacuate the premises and move the students to safety.
-
-## Gurugram bike crash accused arrested in Rajasthan; murder attempt charge added
-Following the accident, Kalyan Bainsla claimed that the collision was not intentional and that he fled from the spot out of fear of a mob attack.
-
-## 3 men from western UP go missing in Russia, kin say forced to fight in Ukraine
-The families of the three men from Muzaffarnagar and Shamli said they have been unable to contact them since July 30
-
-## The diamond jubilee of India’s green shield: Indian Forest Service completes 60 years
-Corbett transitioned from a hunter of man-eaters to a wildlife champion, helping establish India's first National Park in 1936.
+## Chinese firms’ export share to reach 31% by 2035 as global expansion deepens: Goldman Sachs
+Chinese companies “going global” are moving from the peripheral to the core in the business world, with their average market share in export markets projected to rise to 31 per cent by 2035 from 18 per cent this year, according to a Goldman Sachs report on Monday. The global expansion of Chinese fir
 
 ## Unitree’s US$30 billion stock wipe-off spurs regulatory caution on humanoid robot IPOs
 A more than 40 per cent slump in Chinese humanoid robot maker Unitree Robotics since listing has sounded regulatory caution for the industry, with speculation swirling that Beijing may tighten approval of the peer listings. The regulators would heighten scrutiny over humanoid makers seeking initial 
 
-## GAC shares jump on FAW tie-up plans amid Beijing drive for car industry mergers
-Shares of Guangzhou Automobile Group (GAC) jumped after announcing plans to integrate resources with FAW Group, following Beijing’s call for consolidation amid weakening domestic demand. GAC planned to acquire part of FAW’s equity in a joint venture vehicle manufacturer through a share issuance and 
+## Chinese carmakers GAC and FAW eye potential tie-up of their Toyota operations
+Two Chinese state-owned carmakers, Guangzhou Automobile Group (GAC) and FAW Group, are weighing a restructuring that could integrate their joint venture operations with Japanese giant Toyota, industry insiders say, following Beijing’s call for consolidation amid weakening domestic demand. GAC planne
 
 ## Citigroup hires veteran banker Sophia Wang to lead China institutional sales
 Citigroup has appointed veteran banker Sophia Wang as a managing director and head of China financial-institutional sales and senior relationship management (SRM), marking the latest move by the Wall Street lender to deepen its footprint in mainland capital markets despite ongoing geopolitical frict
@@ -126,14 +138,11 @@ China’s securities regulator and its industry body are moving to close compens
 ## New York City’s rich Chinese grapple with Beijing tax rules as enforcement deadline nears
 Months after Beijing unveiled a bevy of new tax rules for offshore trusts, the fallout has now reached New York City – home to one of the largest concentrations of mainland Chinese wealth outside Asia – after the changes swept across Hong Kong and Singapore. Under the rules, which took effect on Jul
 
-## Hong Kong malls see ‘gradual recovery’ with new stores and events: Hang Lung CEO
-The outlook for shopping centres in Hong Kong is improving, and the business will thrive if operators use new stores and attractive events to counter locals’ fondness for cross-border shopping trips, according to the CEO of Hang Lung Properties. The company’s malls recorded growth in July, and busin
+## How Al-Shabab Beat the Peacekeepers
+Three missions and billions of U.S. dollars later, the al Qaeda affiliate is stronger than ever in Somalia.
 
-## China’s inbound tourism revenue projected to reach US$470 billion by 2040: UBS
-Revenue from inbound travel to China is forecast to reach US$470 billion by 2040, more than doubling its current share of the economy and helping offset weak domestic demand, according to UBS. Tourism from outside mainland China would expand to 1.5 per cent of gross domestic product (GDP) on a compo
-
-## Forms Syntron draws Hong Kong’s next-gen tycoons in HK$940 million IPO
-Hong Kong’s younger generation of tycoons is becoming increasingly active in the city’s initial public offering market through family offices and private investments. But their investments extend beyond the property and traditional financial sectors associated with their predecessors, into technolog
+## Only China, India, and Russia Can End the Iran War
+Washington needs its rivals to create peace on its behalf.
 
 ## The United States Must Prepare for More Than One Russian Future
 Managing the Ukraine conflict is just the beginning of negotiations.
@@ -147,17 +156,14 @@ FP’s editor in chief on the mood in Ukraine—and what it means for the future
 ## The Laws of War Must Change for the Drone Age
 Hunting civilians from the sky is growing disturbingly common.
 
-## Trump Has Killed ‘Strategic Ambiguity’ Over Taiwan
+## Trump Is Killing ‘Strategic Ambiguity’ Over Taiwan
 It was once unclear how Washington would defend Taipei—now it’s doubtful it will help at all.
 
 ## How Congress Empowered Presidential War-Making After 9/11
 Its effects continue to shape national security policy today.
 
-## Why AfD Appeals to So Many Germans
-The far-right party surges in a regional election.
-
-## Who Wears the BRICS Crown?
-India and China compete to shape the bloc’s agenda moving forward.
+## Why Some of Southeast Asia’s Digital Banks are Starting to Scale
+Can these institutions threaten the entrenched conventional mega-banks that dominate the region’s financial landscape?
 
 ## China Postponed Its Chang’e 7 Lunar Mission. What Does That Mean for Its Space Program?
 The lack of explanation – or a new launch date – suggests critical challenges, not just bad weather.
@@ -180,8 +186,8 @@ An American and six Ukrainians were arrested under the UAPA in March. They have 
 ## Japan’s Failed Centrist Experiment
 The CDP-Komeito alliance is breaking apart. But a return to resistance-oriented politics may not be the answer for Japan's opposition.
 
-## ‘Small-Yurt Diplomacy’ Prevails at Kyrgyzstan’s World Nomad Games
-This year, as Kyrgyzstan was busy showcasing its culture to the world, foreign countries were competing for the attention of locals.
+## Three Patrons, Three Clients: The Mecca Alliance No One Owns
+Every alliance contains a struggle over who gets to decide what the alliance is for. The unusual thing about the Mecca Alliance, formally known as the “Mecca Joint Defence Agreement,” is that all three of its members appear to believe they possess something that should give them that privilege: Saud
 
 ## Reading the Kremlin’s Mind: Ukrainian Writers Attempt to Understand Putin
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -203,9 +209,6 @@ This year’s U.N. General Assembly officially opened on Tuesday, Sept. 8. The a
 
 ## Automating the Action Officer: Between Bureaucracy and Technology
 If there is a revolution brewing in the automation of white-collar work, you wouldn’t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, perform essentially the same duties as their predecessors in 1996 or 1956: creating charts, authoring 
-
-## The Assessment Gap in U.S. Counter-Terrorism Strikes
-For eight years I helped decide whether American counter-terrorism money was working.As a programs advisor in the State Department’s Bureau of Counterterrorism from 2018 to 2025, I oversaw about 20 projects in East Africa worth roughly $80 million a year. None of that money moved without a performan
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes
-Since Prime Minister Modi's BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.
+## India vs Afghanistan live: T20 cricket match
+Follow our live build-up, team news, predictions, score, photos and live text commentary stream in New Delhi.
 
-## Leeds United defeat Newcastle 4-1 to go third in Premier League
-Goals from in-form forward Calvert-Lewin, Okafor and Bogle boost Leeds' standing in the league table.
+## Athletes share ‘what women in sport look like’ to rebut Sydney Sweeney ad
+Female athletes are against a sports-betting ad featuring actress Sydney Sweeney.
 
-## Internet shutdown crosses 100 days in Pakistan-administered Kashmir
-Mobile data, broadband services suspended in the territory since protests calling for electoral reform in June.
+## Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure
+Zelenskyy insists de-escalation depends on US ensuring Russia's genuine readiness to stop war and attacks on Ukraine.
 
-## Spectacular turtle nesting event in southern Mexico
-More than 300,000 olive ridley turtles have arrived at a beach in southern Mexico in the latest mass nesting.
+## US repeals pollution limits for fossil fuel power plants
+The US Environmental Protection Agency ends a rule that limits greenhouse gas emissions from coal and gas power plants.
 
-## Emmy winners 2026: ‘Widow’s Bay’ and ‘The Pitt’ dominate
-Jean Smart earns fifth Emmy for 'Hacks', becoming the first to win lead comedy actress for every season of the show.
+## Benchmark US government bond yield hits 19-year peak as oil prices surge
+The 10-year US Treasury yield hit 5.02 percent on Tuesday for the first time since the 2007 global financial crisis.
 
-## Millions line up for ‘sacred henna’ at Indian temple
-Drone visuals show masses lining up at Indian temple for sacred henna, believed to help unmarried people find a match.
+## Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed
+The Pentagon watchdog's report paints a picture of significant losses to US forces and facilities in the region.
 
-## Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’
-US President Donald Trump makes a surprise call to Nvidia's CEO, interrupting a live event to discuss fears about AI.
+## Why is pro-Palestinian activist Mahmoud Khalil suing Columbia University?
+Mahmoud Khalil sues Columbia University and its dean for alleged institutional racism targeting pro-Palestine students.
 
-## US Supreme Court rejects Trump mail ballot restrictions ahead of midterms
-US Supreme Court rejects Trump’s bid to tighten mail-in voting rules ahead of critical midterm elections.
+## Nairobi to host World Athletics Championships in 2029
+Nairobi beats London, Munich and Rome to become the first African hosts, World Athletics says.
 
 ## Tech Mahindra to channelise margin gains towards growth in next three year plan
 The IT services company is preparing its next three-year plan as it enters the final year of its current strategy, with Anand saying profitable growth will be a key focus while the company continues to pursue operational efficiency.
@@ -279,6 +282,12 @@ Panel backs targeted audit relief for private companies as dissent over wider co
 ## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
 Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
 
+## India's proposals to revamp derivatives settlement could alleviate expiry-day volatility, analysts say
+India's market regulator has unveiled a plan to modify the derivatives expiry-day settlement rules. These changes are intended to mitigate volatility and bring clarity to the options market. The proposals include two methods for calculating settlement prices: one utilizing trade data from the final 
+
+## RBI absorbs Rs 3.93 lakh cr from banking system via VRRR auction
+The Reserve Bank of India absorbed significant funds through a variable rate reverse repo auction. This action aimed to manage the banking system's substantial surplus liquidity effectively. The central bank also announced open market operation sales of government securities. These measures address 
+
 ## India's Tata shares jump as RBI decision revives holding firm's listing prospects
 Tata Group company shares jumped Tuesday after the central bank rejected Tata Sons' deregistration application. This decision revived prospects for a stock market listing of the holding firm. Tata Chemicals shares rose twenty percent, and Tata Motors saw a gain. Tata Investment and Tata Consultancy 
 
@@ -296,10 +305,4 @@ Reserve Bank of India Governor Sanjay Malhotra met Finance Minister Nirmala Sith
 
 ## BRICS 2026: PM Modi flags tech, critical minerals weaponisation
 Prime Minister Narendra Modi cautioned against using technology and critical minerals for advantage. He emphasized that a cooperative approach would benefit all nations globally. Modi highlighted inclusivity in technology adoption during the BRICS session in New Delhi. He also discussed global tensi
-
-## Xi-Modi thaw warms up ties at BRICS, but old India-China fault lines remain
-Chinese President Xi Jinping and Prime Minister Narendra Modi used their first meeting on Indian soil in seven years to signal a thaw in ties and a willingness to manage shared challenges, including US President Donald Trump. But deep differences remain over the border dispute, trade imbalance, Chin
-
-## EU dropped aluminium scrap duty plan over India concerns, sources say
-EU-METALS/ALUMINIUM-SCRAP (PIX)EU dropped aluminium scrap duty plan over India concerns, sources say
 
