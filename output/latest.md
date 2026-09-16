@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## US charges five people linked to Russian ‘assassination network’
+Indictment marks a rare accusation of Kremlin-backed plots on American soil
+
+## Nissan to invest £170mn to build a new hybrid SUV at Sunderland plant
+The addition of a fourth model comes as carmaker looks to boost factory’s utilisation rate, which is hovering at about 50%
+
+## Heathrow expansion incompatible with climate goals, UK government advisers warn
+New runway would emit as much CO₂ as the city of Birmingham, says independent Climate Change Committee
+
+## Chinese restaurant chains put AI on the menu
+AI-driven reductions in food waste and labour costs can make culinary economics much more juicy
+
+## Bessent to meet He Lifeng in New York ahead of Trump-Xi summit
+US Treasury secretary and Chinese vice-premier to hold talks as one-year expiry in trade war truce nears
+
 ## Trump says Kennedy Center renovation depends on whether his name is on it
 President’s vow comes after a federal judge rejects effort to rename building
 
@@ -9,29 +24,23 @@ Also in today’s newsletter: 10-year Treasury yield hits highest level since 20
 ## Landmark US crypto bill fails as Senate splits over Trump ethics concerns
 Defeat is a massive setback to an industry that has spent record sums lobbying for a favourable market structure
 
-## End of an era as Thatcher’s favourite council backs 94% tax rise
-Wandsworth local authority in London accuses Labour government of ‘deliberately targeting’ it
+## OpenAI weighs funding round at $1.2tn valuation before IPO
+Sam Altman’s start-up could capitalise on demand for its technology after new model launches
 
 ## Jensen Huang says battle over AI innovation and safety is ‘false choice’
-Nvidia cheif has distanced himself from OpenAI, Anthropic and SpaceX’s efforts to slow research
-
-## UK bosses must ‘sit down’ with staff if they reject WFH requests
-Louise Haigh tells Trades Union Congress that every ask for flexibility ‘should be taken seriously’ by employers
-
-## Trump’s Iran war has cost US $38bn and caused munitions ‘shortfall’
-New federal government reports shed light on sweeping fiscal toll of Middle East conflict
-
-## ExxonMobil wins Texas approval for $5bn carbon capture project
-State regulators greenlight plan after lengthy battle over safety and subsidies
+Nvidia chief has distanced himself from OpenAI, Anthropic and SpaceX’s efforts to slow research
 
 ## Should markets discount the AI apocalypse?
 How should investors interpret the labs’ calls for a slowdown?
 
-## Larry Ellison shows even billionaires struggle with liquidity
-The Oracle co-founder may have little choice but to sell shares if he wants to raise vast sums of money
+## Sensex today | Stock Market Live: Stock to buy today: Five-Star Business Finance (₹543.75) – BUY
+Sensex, Nifty, Share Prices LIVE: Five-Star Business Finance share price can go up to ₹615
 
-## Iron ore trader Radiant alleges Glencore hid their ties from audited records
-Swiss commodities group says claims are ‘meritless’ and that Radiant sent ‘falsified invoices’
+## Tata Sons’ listing may change how Tata Trusts exercises control
+Tata Trusts’ special rights may remain, but listed-company rules could bring greater scrutiny to their use and create new points of friction with public shareholders
+
+## El Niño strengthens further, while IOD moves above the positive threshold
+El Niño could persist until March 2027, according to the Australian Met body
 
 ## Karnataka declares September 15 as Engineers’ Day, allows ‘Er.’ prefix
 The move recognises engineers’ role in shaping society and honours Sir M Visvesvaraya’s remarkable contributions to Karnataka and the nation.
@@ -48,14 +57,14 @@ The quota announcement comes ahead of Dussehra even as retail prices drop below 
 ## India extends deadline to surrender sugar import quota
 However, importers will have to pay 0.5% of the CIF value of the surrendered quantity
 
-## Livestock feed makers see rising competition for maize from ethanol producers
-Want Goverment to secure supplies for feed sector as maize is single source of feedstock, says CLFMA Chairman Divya Kumar Gulati
+## Consumers may be spared large impact of MDR on UPI
 
-## MDR on UPI: What consumers and merchants need to know?
-The proposed MDR (merchant discount rate) regime for UPI transactions aims to make the UPI ecosystem, a self-sustaining platform, while ensuring the impact on users is negligible
 
-## ‘India, China open to talks to address trade imbalance, supply chain issues’
-Commerce Secretary says this is work in progress and both sides are engaging on trade in a positive manner
+## Tata Group stocks soar after RBI listing decision
+Amid Renewed Buzz Around Tata Sons' IPO, Stocks Shine On Gloomy Day On D-St
+
+## Hear us first if Tata Sons files any plea: RBI caveat in HC
+
 
 ## India’s exports to US, China surge in August amid stronger global trade
 India's merchandise exports to the US and China saw significant growth in August. Shipments to the US increased by over twenty-one percent while China saw a fifty-two percent rise. Overall exports climbed by more than twenty-six percent, driven by key sectors. Imports also grew, with electronics and
@@ -72,14 +81,11 @@ Where does that leave India, a country that imports around 90% of its crude oil?
 ## India’s exports jump 25.4% in August, narrowing overall trade deficit to $9.41bn
 India's overall trade deficit narrowed to $9.41 billion in August 2026. Exports grew 25.41% year-on-year to $82.68 billion, while imports rose to $92.09 billion. Merchandise exports increased 26.12% to $43.81 billion, showing strong performance. Services exports also registered robust growth, contri
 
-## Rupee falls 0.4% to 95.96 against dollar, sharpest single-day drop in two months
-The Indian rupee experienced its sharpest single-day fall in two months. Rising oil prices and higher US interest rate expectations pressured the currency. Attacks on Saudi Arabian energy infrastructure boosted crude oil prices significantly. The Reserve Bank of India's dollar sales helped limit the
+## Supreme Court flays Centre for challenging pension to disabled soldiers, junks 270 appeals
+Directing Centre to comply with the judgments granting disability pension to ex-soldiers, the court allowed the Centre four months to comply with the directions
 
-## Rs 3.25 lakh meant for father went to wrong account; Karnataka HC orders refund
-The court passed the order after hearing a petition filed by the woman who said she had intended to transfer the money to her father but inadvertently sent it to another account. The account belonged to M/s Standard Engineering Works and, according to the petitioner's case, was dormant.
-
-## Gold price prediction today: Will bearish bias continue? Check outlook for September 15, 2026 week
-Gold remains under corrective pressure after the sharp rejection from the recent Rs 164,000–166,000 zone, with prices currently trading near Rs 151,000.
+## India, others face 100% US tariffs as House advances Russia sanctions bill; final vote tomorrow
+The bill -- Lindsey O Graham Sanctioning Russia and Iran Act 2026 -- is expected to pass in Thursday’s final vote, people aware of the matter told HT.
 
 ## ‘Modi tax’: Opposition slams Centre over UPI charges on merchant transactions; Rahul, Kharge target PM
 The government announced a 0.4 per cent Merchant Discount Rate (MDR) on UPI payments above ₹2,000 made to merchants.
@@ -99,11 +105,8 @@ The Indian contingents travelled to the Uzbek city for the FIDE tournament, whic
 ## Can merchants pass UPI charges to buyers? Key questions on MDR, its implementation answered
 The finalized MDR framework and threshold structure will take effect from October 15, 2026, for the updating for software and billing systems.
 
-## FDA suspends licence of Mumbai’s Cafe Mondegar for food safety violations
-FDA allegedly found that the drainage system near the food preparation area was inadequate and created a risk of cross-contamination
-
-## Chhattisgarh: Dy CM Sharma, Baghel trade barbs over PM Awas figures in Raipur
-The face-off at the Raipur Press Club came after Vijay Sharma challenged Bhupesh Baghel to a debate on PMAY in Chhattisgarh
+## Southeast Asian buyers emerge as top non-local investors in Hong Kong commercial property
+Southeast Asian investors have emerged as the largest non-local buyers of Hong Kong commercial property, led by Singapore-based capital, according to Savills. As of Tuesday, local and non-local investors – including those from mainland China – were behind an estimated HK$30.36 billion (US$3.87 billi
 
 ## Hong Kong commercial property downturn to worsen amid tightening credit: agents
 Commercial property prices in Hong Kong are likely to continue their downward spiral, as the market risks getting trapped in a “vicious cycle” of tighter bank lending and weakening demand, a property agency has warned. Banks in the city had adopted a more conservative approach towards approving mort
@@ -125,9 +128,6 @@ A more than 40 per cent slump in Chinese humanoid robot maker Unitree Robotics s
 
 ## Chinese carmakers GAC and FAW eye potential tie-up of their Toyota operations
 Two Chinese state-owned carmakers, Guangzhou Automobile Group (GAC) and FAW Group, are weighing a restructuring that could integrate their joint venture operations with Japanese giant Toyota, industry insiders say, following Beijing’s call for consolidation amid weakening domestic demand. GAC planne
-
-## Citigroup hires veteran banker Sophia Wang to lead China institutional sales
-Citigroup has appointed veteran banker Sophia Wang as a managing director and head of China financial-institutional sales and senior relationship management (SRM), marking the latest move by the Wall Street lender to deepen its footprint in mainland capital markets despite ongoing geopolitical frict
 
 ## Trump and Xi Won’t Find Common Ground on AI Safety
 The leaders have fundamentally different ideas about the technology and how to regulate it.
@@ -153,6 +153,9 @@ Washington needs its rivals to create peace on its behalf.
 ## The United States Must Prepare for More Than One Russian Future
 Managing the Ukraine conflict is just the beginning of negotiations.
 
+## What Has AUKUS Pillar II Achieved Over 5 Years?
+Pillar II’s progress has proven difficult to judge – not due to a lack of activity, but because there’s no agreed metric for what success should look like.
+
 ## The Perils of Mind-Reading in the Taiwan Strait
 Without sustained dialogue over Taiwan, Beijing and Washington are both vulnerable to dangerous misreadings of each other’s intentions.
 
@@ -173,9 +176,6 @@ The IMF says Turkmenistan, in failing to provide key economic data, is in breach
 
 ## What Malaysia’s Recent State Election Results Say About the Country’s Political Direction
 Oh Ei Sun of the Singapore Institute of International Affairs discusses the outcome of the recent elections in Johor and Negeri Sembilan.
-
-## Pakistan-Oman Maritime Deal Signals Gwadar’s Expanding Regional Relevance
-As the strategically located Pakistani port’s geopolitical value increases, can its market readiness keep pace?
 
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Saudi-led coalition intercepts drone headed for Mecca
+Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'
+
+## Israeli soldiers rappel from helicopter in occupied West Bank
+Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank.
+
+## Iran war increasing inflation, straining US munitions: congressional report
+Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.
+
+## Former Maduro ally pleads guilty to money laundering and fraud
+Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela's welfare programme.
+
+## Iran war live: Iran’s top diplomat heads to China as war drags on
+Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.
+
+## Panic on board Iranian plane as violent shaking rips cabin apart
+A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.
+
+## Argentina intensifies campaign against Falklands oil companies
+Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.
+
 ## Republican congressman calls to impeach US Defence Secretary Pete Hegseth
 GOP Representative Thomas Massie has emerged as outspoken critic of war on Iran and overseas military interventions.
-
-## Ed Sheeran blames US tour promoter for dropping Macklemore
-The British musician said it was important to "set out some facts" after US rapper voiced support for Palestine.
-
-## Why is the far-right embracing crypto?
-From billionaire donors backing parties to far-right activists raising funds in Bitcoin.
-
-## Algeria faces calls to drop death penalty plans after wildfires
-Rights group warns Algeria could exploit proposed death penalty laws to suppress domestic political opposition.
-
-## US Senate crypto bill collapses in blow to industry
-The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market
-
-## Hundreds protest in DR Congo against third presidential term
-Hundreds protest in DR Congo against third presidential term
-
-## Romanian shepards and farmers clash with police
-Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.
-
-## What makes these midterms so pivotal?
-The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.
 
 ## Tech Mahindra to channelise margin gains towards growth in next three year plan
 The IT services company is preparing its next three-year plan as it enters the final year of its current strategy, with Anand saying profitable growth will be a key focus while the company continues to pursue operational efficiency.
