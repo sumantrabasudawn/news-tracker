@@ -1,67 +1,79 @@
 # AION Intelligence
 
+## Bach choir is a rare symbol of unity in a swing state
+In small-city Pennsylvania, music brings people together from across the political divide
+
+## UK inflation rose to 3.1% in August
+Figure worsens squeeze on households ahead of BoE meeting
+
+## The EU should not increase resilience at the expense of trusted partners
+Its Industrial Accelerator Act would threaten supply chain connections with the likes of Japan
+
+## Wave of murders spreads fear in Johannesburg
+Deaths of eight women have led to a backlash against government’s response to endemic violence
+
+## Salary stand-off delays abolition of NHS quango
+Health service leaders are urging ministers to set up a temporary body to resolve deadlock
+
+## Chinese oil prices hit record highs after attacks on Saudi pipeline
+Beijing has cushioned global impact of Iran war by drawing down stocks but is now ‘coming off its crash diet’
+
 ## The British right’s patriotism problem
 Andy Burnham seems at ease in his country. Are his opponents?
 
 ## AI bosses’ safety push sparks rift inside OpenAI and Anthropic
 Staff at the Silicon Valley companies are grappling with how to turn AI slowdown rhetoric into reality
 
-## FirstFT: US mega-donors overwhelmingly back Republicans, FT analysis shows
-Also in today’s newsletter: European Commission president endorses Canada’s ‘associate member’ pitch, and the Fed should defy Trump and raise rates, say economists
+## Turkish stocks slide in ‘fund run’ as investors withdraw $1bn
+Index provider MSCI raises prospect of cutting Turkey from emerging market to frontier status amid accusations of ‘co-ordinated trading’ by fund managers
 
-## Burnham considers plan to give mayors greater oversight of water companies
-UK prime minister looks at proposal to create nine regional bodies that would set objectives for industry
+## AI is creating ghostwriting jobs on LinkedIn
+CEOs are looking for a more human touch
 
-## Scientists test new (and old) navigation systems to end GPS dependence
-Military operations and civilian air traffic have been hit by satellite jamming and spoofing in modern wars
+## This is good for AI!!!! Aaargh!!!!
+A brief survey of sell-side scribbling at the end of the world
 
-## Schostal, the store keeping the stars in pyjamas
-When in Rome, head to the 155-year-old haberdashery
+## Oura will struggle to justify pulse-racing $16bn valuation
+The health technology company needs more than celebrity endorsements
 
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
+## Human brain tissue grown in mice for first time
+New genetic engineering technique promises to aid quest for treatments for incurable neurological conditions
 
-## Von der Leyen backs Canada’s ‘associate membership’ bid
-European Commission president says EU and Canada ‘see the world with the same eyes’
+## Ahead of Semicon India 2026, PM Modi chairs roundtable with global semiconductor CEOs
+Ahead of Semicon India 2026, global semiconductor leaders discussed opportunities across manufacturing, design, infrastructure, talent development and emerging technologies
 
-## The Extended Farageverse is coming together
-Stacking sats 🤜 🤛 selling gold
+## Manohar Lal, Chris Wright discuss India’s nuclear energy expansion roadmap
+The talks covered India’s growing electricity requirements and opportunities to deepen cooperation in nuclear, clean energy and emerging technologies.
 
-## What are the risks of using AI to draft my will?
-I don’t have complicated financial affairs but am worried about making a mistake
+## NSE raises ₹6,746 crore from anchor investors ahead of IPO
+LIC gets biggest allocation at ₹450 crore; mutual funds account for nearly 37% of anchor book
 
-## Hugo Boss names Mike Ashley’s son-in-law as new chair
-Frasers CEO Michael Murray appointed to lead German fashion group’s board
+## CCB searches premises linked to Anbil Mahesh in ₹100-crore school approval fraud case
+The searches in Chennai and Tiruchirappalli form part of an investigation into alleged irregularities involving private school approvals and clearances.
 
-## EU to restrict social media and chatbots for children under 15
-Ursula von der Leyen describes AI as ‘second tipping point of our time’ after climate change
+## Alkem Laboratories launches NeuCeno for partial-onset seizures in adults
+The once-daily oral therapy is available in five strengths, with clinical studies showing reductions in seizure frequency among adults with uncontrolled focal seizures
 
-## PwC revenues fall for first time in two decades
-Middle East consulting business hit by prolonged slump
+## MDR charges tax-deductible as business expense, say tax experts
+Experts argue that since MDR fees are akin to other operational costs, such as rent and salaries, they should qualify for deductions, ultimately reducing the effective cost for companies.
 
-## Varshney re-appointed as SEBI whole-time member till 2029
-Varshney heads departments including corporate finance, corporation finance investigation, integrated surveillance and legal affairs, among others
+## Anthropic combines Claude chat, Cowork and Design into one interface
+The update aims to simplify AI-powered work by automatically deploying the capabilities needed for tasks without requiring users to switch tools
 
-## Hero Motors IPO Day 1: Issue subscribed 1.18 times so far
-The issue comprises fresh shares worth ₹600 crore and an offer-for-sale of ₹400 crore by promoters, with listing expected September 23.
+## Fujifilm to invest ₹800 crore in greenfield semiconductor materials facility in India
+The Japanese firm will develop the facility in two phases, focusing on front-end process chemicals, surface conditioning materials and high-purity chemicals.
 
-## Kerala agri university to transfer chocolate-making technology to farmer group
-The technology transfer was undertaken to enhance the value of cocoa farmers’ produce and promote cocoa-based entrepreneurial activities
+## He moved to US for work, missed ITR; taxman imposes Rs 8.9 lakh penalty - what ITAT said
+The individual maintained that he had not deliberately attempted to evade tax. His case was that he had simply missed the ITR deadline while dealing with his relocation and new job in the US.
 
-## Aditya Birla Group entity seeks GIFT City nod to enter aircraft leasing
-The proposed venture comes as GIFT City’s aircraft-leasing ecosystem expands, with 37 entities operating and 412 aviation assets as of June 2026
+## 100% tariff on India? Russia sanctions bill clears key hurdle, final House vote next
 
-## GIFT City jumps nine places to 37th in global financial centres ranking
-The report highlighted GIFT City as one of 15 international centres expected to grow significantly in importance over the next two to three years
 
-## Fed watch freezes Dalal Street; Nifty ekes out modest gains after brutal sell-off
-The Nifty 50 closed at 23,217.60, up 99 points, while the BSE Sensex ended at 74,336.45, gaining 332.63 points
+## Who is Zhang Yiming? Meet TikTok billionaire who has overtaken Gautam Adani as Asia’s richest person
+Zhang, 43, is now worth more than $105 billion, according to the Bloomberg Billionaires Index. His rise comes after he weathered a prolonged regulatory battle over TikTok that at one point threatened to shut down the social media platform in the US.
 
-## Intellectual property: MAHE workshop highlights need for commercialisation
-Workshop brings together experts and participants to explore various aspects of intellectual property, technology transfer, commercialisation and entrepreneurship
-
-## DP World’s Sokhna terminal in Egypt could emerge as key gateway for India-Mediterranean trade
-The terminal can handle feeders ranging from 1,200 TEUs to 5,000 TEUs, and mainline vessels of up to 18,000 TEUs
+## Land sold for Rs 6.95 crore, sister-in-law got Rs 72 lakh; Delhi HC orders Rs 1.01 crore more plus interest
+The property dispute was related to four women who jointly purchased land. Each held one-fourth undivided share. One of them later gave her brother-in-law a general power of attorney (GPA) because she was living in West Bengal, while he was based in Delhi.
 
 ## How your income and credit score shape your loan approval chances
 Your income is an important criterion that determines your loan approval, but lenders look beyond your gross income while analysing your loan application. Your income stability and continuity, employer profile, employment type, industry type, etc. are also considered.
@@ -75,41 +87,35 @@ The EPFO wage limit had remained unchanged between 2004 and 2014. It was raised 
 ## Paytm shares surge over 7% after 0.4% MDR on UPI payments above Rs 2,000
 
 
-## Oracle India may cut 3,000 jobs; routine Indian sector IT roles face pressure
-Reports of the layoffs have also surfaced on X and Reddit, where some users identifying themselves as Oracle employees in India discussed the job cuts. Some said they were given little advance notice before being informed that their positions had been eliminated.
+## Small merchants may rethink accepting UPI over cash, says Retailers' body on merchant fee row
+Retailers body warned that the UPI fee "could undo years of progress in digital payment adoption" among India's smallest retailers.
 
-## 'H-1B visas should not exist to replace American workers with low-wage foreigners': JD Vance
+## Supreme Court directs ED, Delhi Police to submit details of cases against Unitech directors
+SC told ED and Delhi Police to submit case details against Unitech directors to ensure speedy trial and said homebuyers should face no inconvenience.
 
+## Govt reconstitutes CBFC after 9 years; Preity Zinta, Pankaj Tripathi on board
+Several members of the previous board, including Waman Kendre and Ramesh Patange, have also been retained.
 
-## Rooftop solar market has potential to reach 132 GW by 2030: ISMA
+## HC orders reinstatement of Odisha judge who resigned over autistic son’s care
+The Orissa high court has ordered the immediate reinstatement of a woman judicial officer whose resignation was accepted by the Odisha government
 
+## Trump welcomes PM Modi's efforts against opium as India among US' list of ‘major illicit drug producing countries’
+Along with India, Pakistan and China are also among the countries that the US has deemed as “major drug transit or major illicit drug producing” nations.
 
-## MDR on UPI: What stays free, what attracts Rs 5 flat fee, and what 0.4% rate?
-The new MDR will take effect from October 15. However, UPI payments between individuals, including transfers made to friends, will continue to remain outside the charge. Auto-debits and UPI mandates will also not attract MDR.
+## Kolkata Police’s orange T-shirt tender for Durga Puja volunteers sparks row
+Kolkata Police’s ₹89 lakh tender for orange T-shirts and caps for Durga Puja volunteers has triggered a political row, with TMC and Congress alleging “saffronisation”.
 
-## Aaditya Thackeray breaks silence on CBI FIR in Disha Salian's death: ‘Never met her, attempt at character assassination’
-Aaditya Thackeray breaks silence on CBI FIR in Disha Salian's death: ‘Attempt at character assassination’
+## Father, 2 sons, members of banned outfit held over CRPF firing in Manipur: Cop
+Police also recovered an AK-47 rifle with 43 live rounds, one 9mm pistol with three live rounds, one car, an auto-rickshaw, and a scooter
 
-## Tukaram Mundhe seeks pricing review after survey shows 2,841% markup in hospital consumables
-Flagging massive gaps in procurement prices and declared MRPs, Mundhe has written to the NPPA seeking a review of the survey's findings and appropriate action.
+## Anant Nag’s five-decade career earns him Dadasaheb Phalke Award
+Veteran actor Anant Nag will receive the honour at the 72nd National Film Awards ceremony in Kevadia, Gujarat, on September 22.
 
-## CJP launches ‘Adivasi School Thik Karo’ campaign in Maharashtra’s Gadchiroli
-Cockroach Janta Party (CJP) founder Abhijeet Dipke on Wednesday launched the ‘Adivasi School Thik Karo’ (Fix Tribal Schools) campaign
+## Prometheum Capital, HashKey Digital Asset Group, and Velocity Capital Sign Binding MOU to Internationalize Tokenized U.S. Equities
+[The content of this article has been produced by our advertising partner.] NEW YORK – SEPT. 16, 2026 – Prometheum Inc. (“Prometheum”), a market infrastructure provider for crypto assets, today announced that its subsidiary Prometheum Capital LLC (“Prometheum Capital”), an SEC-registered, FINRA memb
 
-## Centre debunks 'external pressure' myth over ‘foreign influence’ on UPI charges: ‘Goal to build…'
-The government also reiterated several points regarding the new UPI framework and clarified that UPI remains free for consumers.
-
-## UP man flung in air in Greater Noida hit-and-run; was picking up birthday cake
-Police said the suspect, a 24-year-old management student, was arrested on September 14 for the September 5 accident
-
-## Nagaon LS bypoll: First poll tussle in Assam after BJP’s victory in election
-The Nagaon seat fell vacant in March this year after the sitting Congress MP, Pradyut Bordoloi resigned from the party and joined the BJP
-
-## Two-stage NEET, permanent exam body among suggestions to reform India’s exams
-ABVP, United Doctors Front and Educators Federation of India propose a two-stage NEET, a permanent exam authority and independent audits to improve exam security.
-
-## ‘Can lead to very dangerous situation’: Ex-Navy captain's warning on Pakistan vessel collision with Indian warship
-The charge d'affaires of the Pakistan high commission was summoned to the external affairs ministry and a strong protest was lodged with him after the incident.
+## China’s Z.ai raises revenue target 25% after US$5 billion cash injection
+Chinese artificial intelligence developer Z.ai has raised its year-end annual recurring revenue (ARR) outlook by 25 per cent to US$3 billion, as the firm indicated its fresh US$5 billion war chest had helped clear its computing capacity bottlenecks for the time being. The updated ARR projection, up 
 
 ## China’s AI chip stocks face crucial test as MetaX lock-up period expires
 China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when a lock-up period affecting 14 million shares in MetaX Integrated Circuits is set to expire. Analysts expect MetaX to face “significant selling pressure” when the restricted shares
@@ -129,11 +135,17 @@ We have put together stories from our coverage on electric and new energy vehicl
 ## First update made to ISO 9001 in a decade, with China shaping AI, cybersecurity standards
 China’s contributions and leadership were of considerable value to the revision of new International Organization for Standardization (ISO) standards for artificial intelligence, intelligent transport systems and cybersecurity, according to the global body. The ISO made the comments as it released I
 
-## ByteDance’s AI-enhanced short-drama app eclipses China’s Netflix rivals combined
-TikTok parent ByteDance has scored another hit in China with Hongguo, an artificial intelligence-powered short-drama platform. Launched in 2023, Hongguo quickly became a household name by riding China’s short-drama boom. A surge in AI-generated content propelled it past some of the country’s biggest
+## Georgia’s Government Is Using Civility as an Excuse to Crush Critics
+New policies against online “vulgarity” target free speech.
 
-## Hong Kong rated Asia’s top financial hub for fourth straight year: report
-Hong Kong has retained its status as Asia’s top financial hub for a fourth consecutive edition of the Global Financial Centres Index (GFCI), even as many of the world’s leading centres saw their scores slip slightly amid rising geopolitical headwinds. The city also ranked third globally in the 40th 
+## Why Existential AI Fears Have Hit a Crescendo
+And the complicated geopolitics of slowing down the technology’s development.
+
+## The Next Trump-Kim Summit Could Be About North Korea’s Future Ruler
+Kim Jong Un may be ready to introduce his daughter on the global stage.
+
+## Lebanon’s New Amnesty Law Shows Sunnis’ Growing Power
+How regional developments helped Lebanese Islamists get out of jail.
 
 ## A Bumpy Peace Election in the Philippines
 On a majority-Muslim island, federalists are sparring with Islamists.
@@ -147,41 +159,29 @@ NATO suspects that Russia is behind the latest airspace violation in Lithuania.
 ## Trump Picks the Wrong Beef Before Midterms
 The president’s plan to tame soaring beef prices has alienated a key constituency.
 
-## Are Chinese Firms Handing the United States Data?
-AI competition may be an unwitting weakness for Beijing.
+## Underwater Autonomy in the China-US Naval Race
+Insights from Verineia Codrean.
 
-## Brazil’s Election Won’t Fix Its Biggest Problems
-Slow growth and corruption have dogged the right and the left.
+## China’s Free-Trade Offer to Africa Won’t Solve the Trade Imbalance
+Beijing has opened its enormous market to African exports. Whether that helps the continent move up global value chains is another question.
 
-## How Al-Shabab Beat the Peacekeepers
-Three missions and billions of U.S. dollars later, the al Qaeda affiliate is stronger than ever in Somalia.
+## Will Southeast Asia Actually Benefit From Its AI Boom?
+Southeast Asia might end up hosting substantial computing capacity without developing a correspondingly deep AI economy.
 
-## Only China, India, and Russia Can End the Iran War
-Washington needs its rivals to create peace on its behalf.
+## South Korea Embraces the Silk Road Spirit With Central Asian Leaders
+In the first Central Asia-South Korea leaders summit, energy and critical minerals were top of the agenda.
 
-## Okinawa Voted for a New Governor
-Koja Genta didn't win because of his stance on U.S. bases. He won because of his vision for the economy.
+## What Do Taiwan’s People Think About Its Annual Military Exercises?
+Taiwan’s Han Kuang exercises are winning public approval, despite the growing impact on civilians. Understanding is another matter.
 
-## From Nomad Festival to National Showcase: Kyrgyzstan Takes Center Stage
-In early September, Kyrgyzstan hosted both the World Nomad Games and the SCO summit in a carefully choreographed spectacle of national power and pride.
+## The Challenges of Finding Political Treasure in Chinese Overseas Ports
+When it comes to Chinese overseas port projects, negative economic externalities may coexist with positive ones.
 
-## What Has AUKUS Pillar II Achieved Over 5 Years?
-Pillar II’s progress has proven difficult to judge – not due to a lack of activity, but because there’s no agreed metric for what success should look like.
+## The New Delhi BRICS Summit Sends Powerful Messages to America
+However determined Western governments may be to turn Russia and Iran into pariah states, much of the Global South rejects their isolation.
 
-## The Perils of Mind-Reading in the Taiwan Strait
-Without sustained dialogue over Taiwan, Beijing and Washington are both vulnerable to dangerous misreadings of each other’s intentions.
-
-## Japan Faces Hard Choices in Weaning off Russian Energy
-Beyond the question of energy security, Tokyo may want to avoid antagonizing Russia further by cutting off LNG purchases.
-
-## A New Kind of Cold War? China-US Competition in Latin America
-Trump returned to the presidency with renewed determination to mitigate Chinese influence worldwide, giving particular interest to the Western Hemisphere.
-
-## JASDF Global Hawk Presumed to Have Crashed off Western Japan
-The incident could strain Japan’s persistent wide-area surveillance capabilities, as the JASDF operates only three of the high-altitude unmanned aircraft.
-
-## China and Mexico: How Far Should Technology Cooperation Go?
-The Mexican government is deepening ties with Beijing in some of the sectors most sensitive to U.S. security concerns.
+## A Year After Nepal’s Gen Z Uprising, Balendra Shah Confronts the Limits of Revolt
+Its leaders successfully dismantled an old political order but had little knowledge of how to develop the institutions or governing consensus needed to replace it.
 
 ## Strategic Stability and the Rebuilding of Xi’s Military
 For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People’s Liberation Army’s senior command through purges and is now trying to rebuild it wh
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## In Sweden, many breathe sigh of relief as far right suffers election losses
-The election is tight, but one result is clear: the Sweden Democrats' bid to turn hate into votes failed.
+## Poll shows Americans are increasingly alarmed by AI’s ecological footprint
+New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.
 
-## Taiz camps overflow with Yemenis fleeing fighting after Houthi offensive
-The recent flare-up in the Yemen conflict has seen tens of thousands of people displaced in Taiz governorate.
+## Malaysia offers to invite Myanmar leader in Rohingya repatriation push
+Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.
 
-## US set to approve 60,000 heavy bombs for Israel: What that means
-The package of 2,000-pound bombs comes amid Israel's genocidal war on Gaza and its occupation of southern Lebanon.
+## Angry Dutch farmers blamed for railway sabotage: What happened?
+Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.
 
-## Alex Eala firm on Asian Games participation despite threat of WTA fine
-National lawmakers propose paying her fine should WTA impose it on her for skipping the concurrent mandatory China Open.
+## Ebola fight in DRC ‘far from over,’ warns WHO chief
+The DRC faces a growing Ebola threat as cases soar in North Kivu, despite progress in other regions, says Tedros
 
-## Moment Kash Patel’s senate hearing takes bizarre turn
-Moment Kash Patel's senate hearing takes bizarre turn
+## Sweden expels Iran embassy employee, citing security concerns
+Stockholm says Iran-backed groups are plotting against 'Jewish and Israeli interests' in the country.
 
-## India summons Pakistani diplomat after incident in Arabian Sea
-India accuses Pakistan of ignoring bilateral agreement after collison between the two countries' navies.
+## Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’
+Former Republican Congresswoman Marjorie Taylor Greene slammed US President Donald Trump’s war on Iran.
 
-## Israeli double-tap strike kills 15-year-old and paramedic in Gaza
-A child has been killed in an Israeli double-tap strike as he rushed to help a paramedic wounded in an earlier attack.
+## Djibouti calls for assistance as thousands of Yemenis flee to country
+More than 2,500 Yemenis have arrived since last week, with Djibouti warning the number could rise to 10,000.
 
-## Real Madrid stars appear to hide Ceuta solidarity message
-Three Real Madrid players covered a ‘We are all Caballas’ message on shirts worn in solidarity with Spain’s Ceuta.
+## Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza
+Two people were killed in the assault on Gaza City - a paramedic and a 15-year-old boy returning from school.
 
 ## IBBI’s personal guarantor fix may need IBC amendment, not just regulations: Experts
 The Insolvency and Bankruptcy Board of India’s proposals to strengthen safeguards in the insolvency resolution process for personal guarantors to corporate debtors seek to address long-standing gaps in the framework, but some of the proposed changes may require amendments to the Insolvency and Bankr
