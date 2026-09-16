@@ -1,31 +1,34 @@
 # AION Intelligence
 
+## Federal Reserve decision as it happened: Trump calls for rates to be 1% or less after Fed tightens monetary policy
+President urges policymakers to act as rate-setters lift borrowing costs for first time since 2023
+
+## Walter and Boehly sell Chelsea FC stakes to Clearlake for £950mn
+Deal to sell 25% of football club helps financiers raise funds as their insurance empires come under scrutiny
+
+## FirstFT: Fed raises rates for first time since 2023
+Also in today’s newsletter: Hong Kong unveils first five-year plan and Chinese oil prices hit record highs
+
+## Fed defies Trump with first rate rise since 2023
+President calls for 1% borrowing costs after US central bank signals willingness for further action to cool inflation
+
+## Healey prepares UK for ‘really challenging’ Budget
+Chancellor’s allies say wars in the Middle East and Ukraine are having a ‘significant impact on the economy’
+
+## Federal Reserve raises fed funds rate with likely more to come
+Its decision was accompanied by new inflation and interest rate forecasts showing that most policymakers expect one more tightening this year
+
 ## Trump oil ally Harold Hamm to invest in Venezuela
 Move by Continental Resources marks latest foray by a western oil producer into the country after US military seized president Nicolás Maduro
-
-## Fed raises rates for first time since 2023 in unanimous decision
-Central bank chair Kevin Warsh defies calls from Donald Trump to lower borrowing costs
 
 ## Britain’s unsustainable pensions lock
 It would be better to link state retirement benefits to earnings growth
 
-## Turkish stocks slide in ‘fund run’ as investors withdraw $1bn
-Index provider MSCI raises prospect of cutting Turkey from emerging market to frontier status amid accusations of ‘co-ordinated trading’ by fund managers
-
-## Bach choir is a rare symbol of unity in a swing state
-In small-city Pennsylvania, music brings people together from across the political divide
-
-## UK inflation rose to 3.1% in August
-Figure worsens squeeze on households ahead of BoE meeting
-
-## The EU should not increase resilience at the expense of trusted partners
-Its Industrial Accelerator Act would threaten supply chain connections with the likes of Japan
-
-## Wave of murders spreads fear in Johannesburg
-Deaths of eight women have led to a backlash against government’s response to endemic violence
-
 ## Hackers demand Revolut pay $3mn ransom after data breach
 Group calling itself iamnotavillain threatens to sell customers’ confidential records to other criminals unless UK fintech pays within 24 hours
+
+## Turkish stocks slide in ‘fund run’ as investors withdraw $1bn
+Index provider MSCI raises prospect of cutting Turkey from emerging market to frontier status amid accusations of ‘co-ordinated trading’ by fund managers
 
 ## AI is creating ghostwriting jobs on LinkedIn
 CEOs are looking for a more human touch
@@ -35,12 +38,6 @@ A brief survey of sell-side scribbling at the end of the world
 
 ## Oura will struggle to justify pulse-racing $16bn valuation
 The health technology company needs more than celebrity endorsements
-
-## Human brain tissue grown in mice for first time
-New genetic engineering technique promises to aid quest for treatments for incurable neurological conditions
-
-## Salary stand-off delays abolition of NHS quango
-Health service leaders are urging ministers to set up a temporary body to resolve deadlock
 
 ## Adidas cuts technology roles in India to simplify operations
 Adidas has reduced roles in its India technology team as part of efforts to simplify operations, with the impact below 20% of the organisation.
@@ -66,29 +63,29 @@ LIC gets biggest allocation at ₹450 crore; mutual funds account for nearly 37%
 ## CCB searches premises linked to Anbil Mahesh in ₹100-crore school approval fraud case
 The searches in Chennai and Tiruchirappalli form part of an investigation into alleged irregularities involving private school approvals and clearances.
 
+## After Senate, US House passes Russia sanctions bill; 100% tariff threat looms for India
+The US House has successfully passed a sanctions bill aimed at Russian officials and the energy sector. This new legislation empowers President Trump to impose tariffs on significant buyers of Russian oil. India might encounter a staggering 100 percent tariff on its imports due to its energy dealing
+
+## ‘We're the best credit’: Trump calls for lower US interest rates after first Fed hike in 3 years
+The Federal Reserve has set a new target range by increasing its benchmark interest rate, marking its first hike since 2023. President Donald Trump has called for a substantial reduction in interest rates, advocating for lower borrowing costs given the country's robust credit status. However, offici
+
+## Trade row escalates: Trump signs memorandum to block Canadian goods from US federal procurement
+
+
 ## US Federal Reserve chair Kevin Warsh-led FOMC hikes interest rate to 3.75-4% range; first time since 2023
 The US Federal Reserve's hike decision comes on the back of persistent inflation and a broader increase in global borrowing costs. Inflation has remained stubbornly elevated, while borrowing costs around the world have moved higher.
 
 ## Govt lowers export levies on petrol, diesel and aviation turbine fuel amid fortnightly review
 India's government has reduced export levies on petrol, diesel, and aviation fuel. The revised rates for these petroleum products took effect from September sixteenth. Export duty on petrol decreased by one rupee to zero point five rupees per litre. Diesel export levies were lowered by five rupees t
 
+## At board meet, Noel to push to keep Tata Sons private
+Wants To Comply With RBI Order, But Sans Listing
+
 ## He moved to US for work, missed ITR; taxman imposes Rs 8.9 lakh penalty - what ITAT said
 The individual maintained that he had not deliberately attempted to evade tax. His case was that he had simply missed the ITR deadline while dealing with his relocation and new job in the US.
 
 ## 100% tariff on India? Russia sanctions bill clears key hurdle, final House vote next
 
-
-## Who is Zhang Yiming? Meet TikTok billionaire who has overtaken Gautam Adani as Asia’s richest person
-Zhang, 43, is now worth more than $105 billion, according to the Bloomberg Billionaires Index. His rise comes after he weathered a prolonged regulatory battle over TikTok that at one point threatened to shut down the social media platform in the US.
-
-## Land sold for Rs 6.95 crore, sister-in-law got Rs 72 lakh; Delhi HC orders Rs 1.01 crore more plus interest
-The property dispute was related to four women who jointly purchased land. Each held one-fourth undivided share. One of them later gave her brother-in-law a general power of attorney (GPA) because she was living in West Bengal, while he was based in Delhi.
-
-## How your income and credit score shape your loan approval chances
-Your income is an important criterion that determines your loan approval, but lenders look beyond your gross income while analysing your loan application. Your income stability and continuity, employer profile, employment type, industry type, etc. are also considered.
-
-## Cabinet approves raising EPFO wage ceiling from Rs 15,000 to Rs 25,000; all you need to know
-The EPFO wage limit had remained unchanged between 2004 and 2014. It was raised to Rs 15,000 in September 2014. The latest decision follows the same approach of periodically updating the ceiling, with the new Rs 25,000 limit intended to account for wage growth.
 
 ## 25 years of Modi: The making of a political force
 On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister
@@ -114,6 +111,9 @@ SC told ED and Delhi Police to submit case details against Unitech directors to 
 ## Govt reconstitutes CBFC after 9 years; Preity Zinta, Pankaj Tripathi on board
 Several members of the previous board, including Waman Kendre and Ramesh Patange, have also been retained.
 
+## HKMA raises base rate by a quarter point to 4.25%, the first increase since 2023
+Hong Kong’s de facto central bank increased its base rate by a quarter of a percentage point on Thursday after the US Federal Reserve raised the federal funds target range to rein in inflation amid conflict in the Middle East. The Hong Kong Monetary Authority (HKMA) raised the city’s base rate to 4.
+
 ## Prometheum Capital, HashKey Digital Asset Group, and Velocity Capital Sign Binding MOU to Internationalize Tokenized U.S. Equities
 [The content of this article has been produced by our advertising partner.] NEW YORK – SEPT. 16, 2026 – Prometheum Inc. (“Prometheum”), a market infrastructure provider for crypto assets, today announced that its subsidiary Prometheum Capital LLC (“Prometheum Capital”), an SEC-registered, FINRA memb
 
@@ -135,8 +135,14 @@ The US Senate’s rejection of the Clarity Act – a landmark bill meant to regu
 ## Tesla revives China discounts; Iran war drives shift to electric cars: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Market squeeze: Tesla revives China price cuts to stem slumping deliveries Tesla China
 
-## First update made to ISO 9001 in a decade, with China shaping AI, cybersecurity standards
-China’s contributions and leadership were of considerable value to the revision of new International Organization for Standardization (ISO) standards for artificial intelligence, intelligent transport systems and cybersecurity, according to the global body. The ISO made the comments as it released I
+## The EU’s 28th State?
+European Commission President Ursula von der Leyen floats making Canada the bloc’s first associate member.
+
+## The Fed Bucks Trump and Raises Interest Rates
+War-fueled inflation remains too high, the U.S. central bank said, requiring the first hike in three years.
+
+## What’s Behind Nigeria’s Military Spending Spree
+Ahead of January elections, Bola Tinubu is pulling out all the stops to stem insecurity.
 
 ## Russia Purges Its Last Anti-War Politicians
 Ahead of the first State Duma elections since the full-scale invasion of Ukraine, few are left to speak for peace.
@@ -152,15 +158,6 @@ And the complicated geopolitics of slowing down the technology’s development.
 
 ## The Next Trump-Kim Summit Could Be About North Korea’s Future Ruler
 Kim Jong Un may be ready to introduce his daughter on the global stage.
-
-## Lebanon’s New Amnesty Law Shows Sunnis’ Growing Power
-How regional developments helped Lebanese Islamists get out of jail.
-
-## A Bumpy Peace Election in the Philippines
-On a majority-Muslim island, federalists are sparring with Islamists.
-
-## Trump and Xi Won’t Find Common Ground on AI Safety
-The leaders have fundamentally different ideas about the technology and how to regulate it.
 
 ## Underwater Autonomy in the China-US Naval Race
 Insights from Verineia Codrean.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## For checkpoint and settler attack news, Palestinians tune into the radio
+Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.
+
+## Macklemore pledges $1m in tour earnings to Palestinian groups
+The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.
+
+## Manchester United lose 3-2 to Brighton, crash out of League Cup
+Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.
+
+## Rescue workers search for survivors after Gaza building collapse
+Rescue workers search for survivors after Gaza building collapse
+
+## US removes Venezuela from drug list, Trump says
+Trump says the country has made progress against narcotics since Maduro's removal, may also remove Colombia and Bolivia.
+
+## Displaced Syrians dig through hills of garbage to make a living
+Displaced Syrians are digging through mountains of burning garbage searching for recyclable materials to make a living.
+
 ## New video claims to show Saudi fighter jet Houthis say they shot down
 Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.
 
 ## Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare
 Discontent is testing President Ahmed al-Sharaa's ability to unify a country emerging from 14 years of conflict.
-
-## Efforts underway for Zelenskyy-Trump meeting at UN next week
-Trump pushes for a solution to end Moscow's war against Kyiv as civilian deaths in Ukraine rise.
-
-## Al-Mughayyir: A village under siege
-In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.
-
-## Republican US senator slams Trump vaccine policy amid rising measles deaths
-US Senator Bill Cassidy presses Trump's pick for surgeon general on views over vaccines, public health.
-
-## Lebanon returns 37 artefacts smuggled out of Egypt six years ago
-The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.
-
-## Jerusalem Daily: US to send $2.8BN worth of weapons to Israel
-A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.
-
-## US Fed raises interest rates for first time in three years
-The 25 basis-point hike is the first raise in three years and comes before critical midterm elections in the US.
 
 ## IBBI’s personal guarantor fix may need IBC amendment, not just regulations: Experts
 The Insolvency and Bankruptcy Board of India’s proposals to strengthen safeguards in the insolvency resolution process for personal guarantors to corporate debtors seek to address long-standing gaps in the framework, but some of the proposed changes may require amendments to the Insolvency and Bankr
