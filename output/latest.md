@@ -1,115 +1,130 @@
 # AION Intelligence
 
-## UK inflation rose to 3.1% in August
-Figure worsens squeeze on households ahead of BoE meeting
+## The British right’s patriotism problem
+Andy Burnham seems at ease in his country. Are his opponents?
 
-## Submit a question: What do British businesses need from the Budget?
-Take part in a live Ask an Expert Q&A with John Gapper, the FT’s chief UK business columnist, on Thursday September 17 at 1pm BST
+## AI bosses’ safety push sparks rift inside OpenAI and Anthropic
+Staff at the Silicon Valley companies are grappling with how to turn AI slowdown rhetoric into reality
 
-## AI debt vs Treasuries
-Imperfect substitution, at best
+## FirstFT: US mega-donors overwhelmingly back Republicans, FT analysis shows
+Also in today’s newsletter: European Commission president endorses Canada’s ‘associate member’ pitch, and the Fed should defy Trump and raise rates, say economists
 
-## Von der Leyen to paint EU as the only port in a global geopolitical storm
-Also in this newsletter: deforestation ban comes into force
+## Burnham considers plan to give mayors greater oversight of water companies
+UK prime minister looks at proposal to create nine regional bodies that would set objectives for industry
 
-## World’s best-performing sovereign wealth fund expects equities pullback
-New Zealand’s superannuation fund grows 14% despite being underweight on US tech stocks
+## Scientists test new (and old) navigation systems to end GPS dependence
+Military operations and civilian air traffic have been hit by satellite jamming and spoofing in modern wars
 
-## FirstFT: EU rebuffs ‘unique alliance’ with Canada
-Also in today’s newsletter: US mega-donors and Vodafone’s €1.1bn hit
+## Schostal, the store keeping the stars in pyjamas
+When in Rome, head to the 155-year-old haberdashery
 
-## Sullivan & Cromwell discovers private equity
-The law firm has hired a team of lawyers from rival Kirkland & Ellis in a push to build a US private equity practice
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
 
-## EU rebuffs Carney’s ‘unique alliance’ with Canada
-Some governments balk at prime minister’s call for ‘middle powers’ to join forces against US and China
+## Von der Leyen backs Canada’s ‘associate membership’ bid
+European Commission president says EU and Canada ‘see the world with the same eyes’
 
-## The BoE’s three balance sheet problem
-Issues with the Issue Department
+## The Extended Farageverse is coming together
+Stacking sats 🤜 🤛 selling gold
 
-## UK looks to ‘land drones’ to transform beleaguered Ajax fighting vehicles
-Collaboration between General Dynamics and ARX Robotics aimed at making armoured vehicles more lethal in war zones
+## What are the risks of using AI to draft my will?
+I don’t have complicated financial affairs but am worried about making a mistake
 
-## Vodafone takes up to €1.1bn hit from Drahi’s German broadband deal
-Patrick Drahi’s sale of 50% stake in OXG will deprive joint venture partner Vodafone of potentially substantial future earnings
+## Hugo Boss names Mike Ashley’s son-in-law as new chair
+Frasers CEO Michael Murray appointed to lead German fashion group’s board
 
-## Odey judgment is lesson for firms over ethical failings, warns FCA
-Watchdog introduces stricter rules to ensure ‘people can speak up’ and be protected against misconduct
+## EU to restrict social media and chatbots for children under 15
+Ursula von der Leyen describes AI as ‘second tipping point of our time’ after climate change
 
-## Ørsted boss says Europe must act on ‘unfair’ Chinese wind turbine makers
-Danish wind farm developer backs efforts by the EU to clamp down on China manufacturers with access to state support
+## PwC revenues fall for first time in two decades
+Middle East consulting business hit by prolonged slump
 
-## Giredmet inks pact with Alt Metals for titanium sponge pilot production unit
-The pact, signed at the Innoprom India exhibition in New Delhi last week, aims to develop cooperation between Russian and Indian specialists in the field of deep processing of mineral raw materials
+## Varshney re-appointed as SEBI whole-time member till 2029
+Varshney heads departments including corporate finance, corporation finance investigation, integrated surveillance and legal affairs, among others
 
-## India’s tariff risk remains as US House prepares to vote on Russia sanctions bill
-Two Democratic amendments — one to explicitly name India among countries facing up to 100% tariffs, another to strip the President’s broad secondary-tariff powers – were defeated in the Rules Committee
+## Hero Motors IPO Day 1: Issue subscribed 1.18 times so far
+The issue comprises fresh shares worth ₹600 crore and an offer-for-sale of ₹400 crore by promoters, with listing expected September 23.
 
-## Axera and Aptiv Bring M57-Powered Driver Assistance to Europe-Bound Vehicles
-Axera and Aptiv Bring M57-Powered Driver Assistance to Europe-Bound Vehicles
+## Kerala agri university to transfer chocolate-making technology to farmer group
+The technology transfer was undertaken to enhance the value of cocoa farmers’ produce and promote cocoa-based entrepreneurial activities
 
-## Wizz Financial collaborates with City Union Bank to Unveil 'Wizz Voyager', the Ultimate Smart Travel Card
-Wizz Financial collaborates with City Union Bank to Unveil 'Wizz Voyager', the Ultimate Smart Travel Card
+## Aditya Birla Group entity seeks GIFT City nod to enter aircraft leasing
+The proposed venture comes as GIFT City’s aircraft-leasing ecosystem expands, with 37 entities operating and 412 aviation assets as of June 2026
 
-## Sensex today | Stock Market Live: Sensex rises 350 pts, Nifty crosses 23,200; Axis Bank, M&M lead gainers
-Sensex, Nifty, Share Prices LIVE: Rising US bond yields, Brent crude near $108 a barrel and escalating West Asia tensions could keep Indian equities under selling pressure on Wednesday.
+## GIFT City jumps nine places to 37th in global financial centres ranking
+The report highlighted GIFT City as one of 15 international centres expected to grow significantly in importance over the next two to three years
 
-## TVK appeals to Tamils in London to refrain from gathering at public places to catch a glimpse of CM Vijay
-The party has cited public safety priorities and directives from the London Metropolitan Police Service
+## Fed watch freezes Dalal Street; Nifty ekes out modest gains after brutal sell-off
+The Nifty 50 closed at 23,217.60, up 99 points, while the BSE Sensex ended at 74,336.45, gaining 332.63 points
 
-## Rain spell soon for South Peninsula as Bay warms in likely last monsoon act
-IMD sees isolated heavy rain over Tamil Nadu, Puducherry and Karaikal for six days from Wednesday. Kerala and Mahe could receive isolated heavy rain and again for three days from Saturday
+## Intellectual property: MAHE workshop highlights need for commercialisation
+Workshop brings together experts and participants to explore various aspects of intellectual property, technology transfer, commercialisation and entrepreneurship
 
-## HDFC Bank shares trade flat after rising in previous session
-The stock’s movement comes after HDFC Bank soared nearly 3% before close in the previous session following the bank’s move ahead with its CEO succession process
+## DP World’s Sokhna terminal in Egypt could emerge as key gateway for India-Mediterranean trade
+The terminal can handle feeders ranging from 1,200 TEUs to 5,000 TEUs, and mainline vessels of up to 18,000 TEUs
+
+## How your income and credit score shape your loan approval chances
+Your income is an important criterion that determines your loan approval, but lenders look beyond your gross income while analysing your loan application. Your income stability and continuity, employer profile, employment type, industry type, etc. are also considered.
+
+## Cabinet approves raising EPFO wage ceiling from Rs 15,000 to Rs 25,000; all you need to know
+The EPFO wage limit had remained unchanged between 2004 and 2014. It was raised to Rs 15,000 in September 2014. The latest decision follows the same approach of periodically updating the ceiling, with the new Rs 25,000 limit intended to account for wage growth.
+
+## India takes back tax power, rewrites treaties with Mauritius, Singapore & Cyprus
+
+
+## Paytm shares surge over 7% after 0.4% MDR on UPI payments above Rs 2,000
+
+
+## Oracle India may cut 3,000 jobs; routine Indian sector IT roles face pressure
+Reports of the layoffs have also surfaced on X and Reddit, where some users identifying themselves as Oracle employees in India discussed the job cuts. Some said they were given little advance notice before being informed that their positions had been eliminated.
+
+## 'H-1B visas should not exist to replace American workers with low-wage foreigners': JD Vance
+
+
+## Rooftop solar market has potential to reach 132 GW by 2030: ISMA
+
 
 ## MDR on UPI: What stays free, what attracts Rs 5 flat fee, and what 0.4% rate?
 The new MDR will take effect from October 15. However, UPI payments between individuals, including transfers made to friends, will continue to remain outside the charge. Auto-debits and UPI mandates will also not attract MDR.
 
-## Gold price prediction today: Will gold continue bearish trend? Check September 16, 2026 outlook
-The dominant catalyst is today’s FOMC decision and Fed Chair Kevin Warsh's press conference. The rate hike itself is largely priced in and discounted; what matters more is the guidance
+## Aaditya Thackeray breaks silence on CBI FIR in Disha Salian's death: ‘Never met her, attempt at character assassination’
+Aaditya Thackeray breaks silence on CBI FIR in Disha Salian's death: ‘Attempt at character assassination’
 
-## Stock Market Live Updates Today: BSE Sensex jumps over 350 points, Nifty50 trades above 23,200
+## Tukaram Mundhe seeks pricing review after survey shows 2,841% markup in hospital consumables
+Flagging massive gaps in procurement prices and declared MRPs, Mundhe has written to the NPPA seeking a review of the survey's findings and appropriate action.
 
+## CJP launches ‘Adivasi School Thik Karo’ campaign in Maharashtra’s Gadchiroli
+Cockroach Janta Party (CJP) founder Abhijeet Dipke on Wednesday launched the ‘Adivasi School Thik Karo’ (Fix Tribal Schools) campaign
 
-## 'To strengthen UPI's long-term sustainability': RBI backs 0.4% MDR on transactions above Rs 2,000
+## Centre debunks 'external pressure' myth over ‘foreign influence’ on UPI charges: ‘Goal to build…'
+The government also reiterated several points regarding the new UPI framework and clarified that UPI remains free for consumers.
 
+## UP man flung in air in Greater Noida hit-and-run; was picking up birthday cake
+Police said the suspect, a 24-year-old management student, was arrested on September 14 for the September 5 accident
 
-## Top stocks to buy today: Stock recommendations for September 16, 2026 - check list
-Stock market recommendations: PN Gadgil Jewellers, Mankind Pharma, and BEML are the top stocks recommended by Ganesh Dongre, Senior Manager - Technical Research, Anand Rathi Shares and Stock Brokers Limited for September 16, 2026.
+## Nagaon LS bypoll: First poll tussle in Assam after BJP’s victory in election
+The Nagaon seat fell vacant in March this year after the sitting Congress MP, Pradyut Bordoloi resigned from the party and joined the BJP
 
-## Oil prices today: Brent crude falls as US crude inventories rise despite Saudi supply concerns
+## Two-stage NEET, permanent exam body among suggestions to reform India’s exams
+ABVP, United Doctors Front and Educators Federation of India propose a two-stage NEET, a permanent exam authority and independent audits to improve exam security.
 
+## ‘Can lead to very dangerous situation’: Ex-Navy captain's warning on Pakistan vessel collision with Indian warship
+The charge d'affaires of the Pakistan high commission was summoned to the external affairs ministry and a strong protest was lodged with him after the incident.
 
-## PV dispatches up 37% ahead of festivals
+## China’s AI chip stocks face crucial test as MetaX lock-up period expires
+China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when a lock-up period affecting 14 million shares in MetaX Integrated Circuits is set to expire. Analysts expect MetaX to face “significant selling pressure” when the restricted shares
 
+## Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources
+China’s Moonshot AI has attracted global investor interest spanning Europe, Asia and the Middle East, people familiar with the matter say, as international capital scrambles for access to Chinese frontier artificial intelligence labs, betting on their high-stakes race against US rivals. The Beijing-
 
-## Rising crude, G-sec yields, inflation risks sink sensex
+## Developer family’s deals highlight capital shift across Hong Kong property sectors
+A third-generation member of a long-established Hong Kong developer family has bought a HK$98.8 million (US$12.6 million) luxury flat in Mid-Levels, weeks after the family sold a long-held North Point property, highlighting a broader market trend of capital shifting across real estate sectors. John 
 
+## US crypto bill stumble sparks call for Hong Kong to seize ‘critical strategic window’
+The US Senate’s rejection of the Clarity Act – a landmark bill meant to regulate cryptocurrency market structure – has opened a window for Hong Kong to accelerate its digital asset ambitions, industry insiders say, even as the sector remains mired in a slump after a brief rally last month. Beijing’s
 
-## SC asks CJ of Gujarat HC to register case to identify victims of 2022 industrial accident at pesticide plant
-SC asks CJ of Gujarat HC to register case to identify victims of 2022 industrial accident at pesticide plant
-
-## Kerala police raid Reporter TV office over Messi event financial probe
-Journalists and editorial staff of Reporter TV said that the police barged into their workspace during the TV broadcast
-
-## CJP protest: SC refuses reconstitution of panel to probe 'police excesses', says allegations mere conjecture
-CJP protest: SC refuses reconstitution of panel to probe 'police excesses', says allegations mere conjecture
-
-## Cabinet approves 'Saral Keralam' to fast-track investment approvals, says CM Satheesan
-Cabinet approves 'Saral Keralam' to fast-track investment approvals, says CM Satheesan
-
-## New Zealand Parliament clears FTA with India: 'More jobs, higher pay for Kiwis'
-PM Christopher Luxon called the deal ‘landmark’ and said that it will mean more jobs, higher income for ‘Kiwis’.
-
-## ‘Very positive step’: PhonePe, MobiKwik co-founders welcome MDR charge on UPI payments
-While some criticised the MDR charges on UPI transactions, many welcomed the move saying it was much needed.
-
-## 'End of day consumer pays': Ashneer Grover questions UPI merchant fee, says 'call it tax'
-Ashneer Grover questioned the merchant charge on UPI despite the government's clarification that the move won't impact consumers.
-
-## 3 DMK leaders booked over remarks against Tamil Nadu CM Vijay, cabinet colleague
-The FIRs followed a September 12 DMK protest, with party spokesperson TKS Elangovan accusing the TVK government of targeting opposition leaders.
+## Tesla revives China discounts; Iran war drives shift to electric cars: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Market squeeze: Tesla revives China price cuts to stem slumping deliveries Tesla China
 
 ## First update made to ISO 9001 in a decade, with China shaping AI, cybersecurity standards
 China’s contributions and leadership were of considerable value to the revision of new International Organization for Standardization (ISO) standards for artificial intelligence, intelligent transport systems and cybersecurity, according to the global body. The ISO made the comments as it released I
@@ -119,21 +134,6 @@ TikTok parent ByteDance has scored another hit in China with Hongguo, an artific
 
 ## Hong Kong rated Asia’s top financial hub for fourth straight year: report
 Hong Kong has retained its status as Asia’s top financial hub for a fourth consecutive edition of the Global Financial Centres Index (GFCI), even as many of the world’s leading centres saw their scores slip slightly amid rising geopolitical headwinds. The city also ranked third globally in the 40th 
-
-## Investors prepare for ‘super-central-bank week’ as US rate increase appears done deal
-With a US interest rate increase almost a done deal, investors are now trying to figure out whether it would be a one-off move or the start of a fresh tightening cycle, while also bracing for a borrowing-cost increase in Japan, which is highly likely and may jolt capital flows. As the odds of a 25 b
-
-## GSK licenses Chinese firm’s cancer drug in US$750 million deal
-British pharmaceutical giant GSK has agreed to acquire a cancer drug from Chinese firm Chimagen Biosciences in a deal worth up to US$750 million, underscoring China’s emergence as a global player in biotechnology. GSK announced plans on Tuesday to buy full global rights to a “potential best-in-class
-
-## Southeast Asian buyers emerge as top non-local investors in Hong Kong commercial property
-Southeast Asian investors have emerged as the largest non-local buyers of Hong Kong commercial property, led by Singapore-based capital, according to Savills. As of Tuesday, local and non-local investors – including those from mainland China – were behind an estimated HK$30.36 billion (US$3.87 billi
-
-## Hong Kong commercial property downturn to worsen amid tightening credit: agents
-Commercial property prices in Hong Kong are likely to continue their downward spiral, as the market risks getting trapped in a “vicious cycle” of tighter bank lending and weakening demand, a property agency has warned. Banks in the city had adopted a more conservative approach towards approving mort
-
-## Tighter scrutiny of Hong Kong IPOs could slow deal flow, analysts say
-Securities regulators in Hong Kong and mainland China are doubling down on efforts to raise the quality of Hong Kong initial public offerings (IPOs), which could slow the flow of new listings but would not reduce underlying demand, according to analysts. In an unusual move, the China Securities Regu
 
 ## A Bumpy Peace Election in the Philippines
 On a majority-Muslim island, federalists are sparring with Islamists.
@@ -159,6 +159,12 @@ Three missions and billions of U.S. dollars later, the al Qaeda affiliate is str
 ## Only China, India, and Russia Can End the Iran War
 Washington needs its rivals to create peace on its behalf.
 
+## Okinawa Voted for a New Governor
+Koja Genta didn't win because of his stance on U.S. bases. He won because of his vision for the economy.
+
+## From Nomad Festival to National Showcase: Kyrgyzstan Takes Center Stage
+In early September, Kyrgyzstan hosted both the World Nomad Games and the SCO summit in a carefully choreographed spectacle of national power and pride.
+
 ## What Has AUKUS Pillar II Achieved Over 5 Years?
 Pillar II’s progress has proven difficult to judge – not due to a lack of activity, but because there’s no agreed metric for what success should look like.
 
@@ -177,11 +183,8 @@ The incident could strain Japan’s persistent wide-area surveillance capabiliti
 ## China and Mexico: How Far Should Technology Cooperation Go?
 The Mexican government is deepening ties with Beijing in some of the sectors most sensitive to U.S. security concerns.
 
-## In Turkmenistan’s Data Desert, the Golden Age Is a Mirage
-The IMF says Turkmenistan, in failing to provide key economic data, is in breach of its obligations.
-
-## What Malaysia’s Recent State Election Results Say About the Country’s Political Direction
-Oh Ei Sun of the Singapore Institute of International Affairs discusses the outcome of the recent elections in Johor and Negeri Sembilan.
+## Strategic Stability and the Rebuilding of Xi’s Military
+For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People’s Liberation Army’s senior command through purges and is now trying to rebuild it wh
 
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
@@ -203,9 +206,6 @@ Major powers are increasingly trying to shut out their rivals. Russia invaded Uk
 
 ## The War’s Last Generation Is Still Holding America’s Moral Debt
 On the first night of the evacuation of Kabul, Aug. 15, 2021, a young mother found me in the crowd at Hamid Karzai International Airport. She had marked me, correctly, as someone who spoke her language. By the end of the night, she was pressing the body of her dead child into my chest and telling me
-
-## What America’s Adversaries and Allies Hope to Gain at the U.N. General Assembly
-This year’s U.N. General Assembly officially opened on Tuesday, Sept. 8. The annual gathering gives diplomats and leaders a valuable opportunity to press their foreign policy priorities and engage — formally and informally — with both partners and adversaries. Most heads of state will arrive later t
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Manchester derby VAR error caused by ‘tunnel vision’: Pro Ref chief Webb
-Howard Webb says the referees' body is disappointed with the decision to allow Haaland's goal against Manchester United.
+## In Sweden, many breathe sigh of relief as far right suffers election losses
+The election is tight, but one result is clear: the Sweden Democrats' bid to turn hate into votes failed.
 
-## US House votes to end Iran war, 7 Republicans join in favour
-For a third time, the US House approved a war powers resolution, halting Trump's ability to continue military action.
+## Taiz camps overflow with Yemenis fleeing fighting after Houthi offensive
+The recent flare-up in the Yemen conflict has seen tens of thousands of people displaced in Taiz governorate.
 
-## Seoul court orders North Korea to pay $32.5m for blowing up office
-Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.
+## US set to approve 60,000 heavy bombs for Israel: What that means
+The package of 2,000-pound bombs comes amid Israel's genocidal war on Gaza and its occupation of southern Lebanon.
 
-## What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
-China's first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.
+## Alex Eala firm on Asian Games participation despite threat of WTA fine
+National lawmakers propose paying her fine should WTA impose it on her for skipping the concurrent mandatory China Open.
 
-## Republican forces Congress to hold impeachment vote for Pete Hegseth
-United States Representative Thomas Massie is forcing fellow Republicans to vote whether to impeach Secretary of Defense
+## Moment Kash Patel’s senate hearing takes bizarre turn
+Moment Kash Patel's senate hearing takes bizarre turn
 
-## News helicopter crash in Los Angeles kills three, injures one
-NBC Los Angeles helicopter crashes while covering deadly metro bus collision from the air.
+## India summons Pakistani diplomat after incident in Arabian Sea
+India accuses Pakistan of ignoring bilateral agreement after collison between the two countries' navies.
 
-## At least 10 dead, dozens missing in Gaza building collapse
-At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.
+## Israeli double-tap strike kills 15-year-old and paramedic in Gaza
+A child has been killed in an Israeli double-tap strike as he rushed to help a paramedic wounded in an earlier attack.
 
-## At least 12 dead as Gaza building collapses, many trapped under rubble
-Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.
+## Real Madrid stars appear to hide Ceuta solidarity message
+Three Real Madrid players covered a ‘We are all Caballas’ message on shirts worn in solidarity with Spain’s Ceuta.
+
+## IBBI’s personal guarantor fix may need IBC amendment, not just regulations: Experts
+The Insolvency and Bankruptcy Board of India’s proposals to strengthen safeguards in the insolvency resolution process for personal guarantors to corporate debtors seek to address long-standing gaps in the framework, but some of the proposed changes may require amendments to the Insolvency and Bankr
 
 ## Tata Sons’ Twin Governance Test: Can Its Old Power Structure Survive a New Era?
 Tata Sons is facing a twin governance test as the RBI’s push for a public listing collides with the impending succession of Chairman N Chandrasekaran, whose term ends in February 2027. The two issues could reshape how Tata Sons is governed, raising questions over the balance of power between Tata Tr
@@ -275,9 +278,6 @@ Only thirty percent of registered establishments actively provide apprenticeship
 
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
-
-## Corporate Laws Bill: Audit exemption exposes fault line in JPC over corporate accountability
-Panel backs targeted audit relief for private companies as dissent over wider compliance dilution puts corporate governance safeguards under scrutiny.
 
 ## RBI files caveat after rejecting Tata Sons bid to avoid listing, source says
 The Reserve Bank of India has initiated court proceedings to secure its involvement in the Tata Sons listing issue. This action follows the RBI's denial of Tata Sons’ bid to withdraw its status as a non-banking financial company (NBFC). By filing a caveat in the Bombay High Court, the central bank a
