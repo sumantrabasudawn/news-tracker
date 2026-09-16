@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Trump oil ally Harold Hamm to invest in Venezuela
+Move by Continental Resources marks latest foray by a western oil producer into the country after US military seized president Nicolás Maduro
+
+## Fed raises rates for first time since 2023 in unanimous decision
+Central bank chair Kevin Warsh defies calls from Donald Trump to lower borrowing costs
+
+## Britain’s unsustainable pensions lock
+It would be better to link state retirement benefits to earnings growth
+
+## Turkish stocks slide in ‘fund run’ as investors withdraw $1bn
+Index provider MSCI raises prospect of cutting Turkey from emerging market to frontier status amid accusations of ‘co-ordinated trading’ by fund managers
+
 ## Bach choir is a rare symbol of unity in a swing state
 In small-city Pennsylvania, music brings people together from across the political divide
 
@@ -12,20 +24,8 @@ Its Industrial Accelerator Act would threaten supply chain connections with the 
 ## Wave of murders spreads fear in Johannesburg
 Deaths of eight women have led to a backlash against government’s response to endemic violence
 
-## Salary stand-off delays abolition of NHS quango
-Health service leaders are urging ministers to set up a temporary body to resolve deadlock
-
-## Chinese oil prices hit record highs after attacks on Saudi pipeline
-Beijing has cushioned global impact of Iran war by drawing down stocks but is now ‘coming off its crash diet’
-
-## The British right’s patriotism problem
-Andy Burnham seems at ease in his country. Are his opponents?
-
-## AI bosses’ safety push sparks rift inside OpenAI and Anthropic
-Staff at the Silicon Valley companies are grappling with how to turn AI slowdown rhetoric into reality
-
-## Turkish stocks slide in ‘fund run’ as investors withdraw $1bn
-Index provider MSCI raises prospect of cutting Turkey from emerging market to frontier status amid accusations of ‘co-ordinated trading’ by fund managers
+## Hackers demand Revolut pay $3mn ransom after data breach
+Group calling itself iamnotavillain threatens to sell customers’ confidential records to other criminals unless UK fintech pays within 24 hours
 
 ## AI is creating ghostwriting jobs on LinkedIn
 CEOs are looking for a more human touch
@@ -39,6 +39,21 @@ The health technology company needs more than celebrity endorsements
 ## Human brain tissue grown in mice for first time
 New genetic engineering technique promises to aid quest for treatments for incurable neurological conditions
 
+## Salary stand-off delays abolition of NHS quango
+Health service leaders are urging ministers to set up a temporary body to resolve deadlock
+
+## Adidas cuts technology roles in India to simplify operations
+Adidas has reduced roles in its India technology team as part of efforts to simplify operations, with the impact below 20% of the organisation.
+
+## Fed raises rates by 25 basis points, signals one more hike this year
+Federal Reserve officials expect one more rate hike this year and steady rates in 2027, while raising inflation forecasts and maintaining growth outlooks.
+
+## Government cuts export levies on petrol, diesel and ATF for next fortnight
+The revised levies follow a fortnightly review based on average international prices of crude oil, petrol, diesel and ATF.
+
+## Fujifilm to invest ₹800 crore in greenfield semiconductor materials facility in India
+The Japanese firm will develop the facility in two phases, focusing on front-end process chemicals, surface conditioning materials and high-purity chemicals.
+
 ## Ahead of Semicon India 2026, PM Modi chairs roundtable with global semiconductor CEOs
 Ahead of Semicon India 2026, global semiconductor leaders discussed opportunities across manufacturing, design, infrastructure, talent development and emerging technologies
 
@@ -51,17 +66,11 @@ LIC gets biggest allocation at ₹450 crore; mutual funds account for nearly 37%
 ## CCB searches premises linked to Anbil Mahesh in ₹100-crore school approval fraud case
 The searches in Chennai and Tiruchirappalli form part of an investigation into alleged irregularities involving private school approvals and clearances.
 
-## Alkem Laboratories launches NeuCeno for partial-onset seizures in adults
-The once-daily oral therapy is available in five strengths, with clinical studies showing reductions in seizure frequency among adults with uncontrolled focal seizures
+## US Federal Reserve chair Kevin Warsh-led FOMC hikes interest rate to 3.75-4% range; first time since 2023
+The US Federal Reserve's hike decision comes on the back of persistent inflation and a broader increase in global borrowing costs. Inflation has remained stubbornly elevated, while borrowing costs around the world have moved higher.
 
-## MDR charges tax-deductible as business expense, say tax experts
-Experts argue that since MDR fees are akin to other operational costs, such as rent and salaries, they should qualify for deductions, ultimately reducing the effective cost for companies.
-
-## Anthropic combines Claude chat, Cowork and Design into one interface
-The update aims to simplify AI-powered work by automatically deploying the capabilities needed for tasks without requiring users to switch tools
-
-## Fujifilm to invest ₹800 crore in greenfield semiconductor materials facility in India
-The Japanese firm will develop the facility in two phases, focusing on front-end process chemicals, surface conditioning materials and high-purity chemicals.
+## Govt lowers export levies on petrol, diesel and aviation turbine fuel amid fortnightly review
+India's government has reduced export levies on petrol, diesel, and aviation fuel. The revised rates for these petroleum products took effect from September sixteenth. Export duty on petrol decreased by one rupee to zero point five rupees per litre. Diesel export levies were lowered by five rupees t
 
 ## He moved to US for work, missed ITR; taxman imposes Rs 8.9 lakh penalty - what ITAT said
 The individual maintained that he had not deliberately attempted to evade tax. His case was that he had simply missed the ITR deadline while dealing with his relocation and new job in the US.
@@ -81,11 +90,20 @@ Your income is an important criterion that determines your loan approval, but le
 ## Cabinet approves raising EPFO wage ceiling from Rs 15,000 to Rs 25,000; all you need to know
 The EPFO wage limit had remained unchanged between 2004 and 2014. It was raised to Rs 15,000 in September 2014. The latest decision follows the same approach of periodically updating the ceiling, with the new Rs 25,000 limit intended to account for wage growth.
 
-## India takes back tax power, rewrites treaties with Mauritius, Singapore & Cyprus
+## 25 years of Modi: The making of a political force
+On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister
 
+## Arabian Sea face-off: India protests after Pak warship collides with vessel
+In the 1980s and 1990s, it was common practice for the Pakistan Navy to “shadow” or “buzz” Indian warships in the Arabian Sea or in the Persian Gulf
 
-## Paytm shares surge over 7% after 0.4% MDR on UPI payments above Rs 2,000
+## Odisha: Three rescued orangutans anaemic; DNA tests planned to trace their origin
+Blood tests found severe anaemia in one and mild anaemia in two of five rescued baby orangutans at Nandankanan zoo; DNA tests will help establish their origin.
 
+## Pakistan summons Indian diplomat after New Delhi lodges strong protest over naval vessel collision
+Earlier today, the charge d'affaires of the Pakistan high commission, Saad Warraich, was summoned to India's external affairs ministry.
+
+## 'Mockery of democracy: Madras high court declines to stay bypolls to two Tamil Nadu assembly seats
+The bypolls were necessitated after the resignation of then AIADMK MLAs K Maragatham Kumaravel and P Satyabama who joined the ruling TVK.
 
 ## Small merchants may rethink accepting UPI over cash, says Retailers' body on merchant fee row
 Retailers body warned that the UPI fee "could undo years of progress in digital payment adoption" among India's smallest retailers.
@@ -95,21 +113,6 @@ SC told ED and Delhi Police to submit case details against Unitech directors to 
 
 ## Govt reconstitutes CBFC after 9 years; Preity Zinta, Pankaj Tripathi on board
 Several members of the previous board, including Waman Kendre and Ramesh Patange, have also been retained.
-
-## HC orders reinstatement of Odisha judge who resigned over autistic son’s care
-The Orissa high court has ordered the immediate reinstatement of a woman judicial officer whose resignation was accepted by the Odisha government
-
-## Trump welcomes PM Modi's efforts against opium as India among US' list of ‘major illicit drug producing countries’
-Along with India, Pakistan and China are also among the countries that the US has deemed as “major drug transit or major illicit drug producing” nations.
-
-## Kolkata Police’s orange T-shirt tender for Durga Puja volunteers sparks row
-Kolkata Police’s ₹89 lakh tender for orange T-shirts and caps for Durga Puja volunteers has triggered a political row, with TMC and Congress alleging “saffronisation”.
-
-## Father, 2 sons, members of banned outfit held over CRPF firing in Manipur: Cop
-Police also recovered an AK-47 rifle with 43 live rounds, one 9mm pistol with three live rounds, one car, an auto-rickshaw, and a scooter
-
-## Anant Nag’s five-decade career earns him Dadasaheb Phalke Award
-Veteran actor Anant Nag will receive the honour at the 72nd National Film Awards ceremony in Kevadia, Gujarat, on September 22.
 
 ## Prometheum Capital, HashKey Digital Asset Group, and Velocity Capital Sign Binding MOU to Internationalize Tokenized U.S. Equities
 [The content of this article has been produced by our advertising partner.] NEW YORK – SEPT. 16, 2026 – Prometheum Inc. (“Prometheum”), a market infrastructure provider for crypto assets, today announced that its subsidiary Prometheum Capital LLC (“Prometheum Capital”), an SEC-registered, FINRA memb
@@ -135,6 +138,12 @@ We have put together stories from our coverage on electric and new energy vehicl
 ## First update made to ISO 9001 in a decade, with China shaping AI, cybersecurity standards
 China’s contributions and leadership were of considerable value to the revision of new International Organization for Standardization (ISO) standards for artificial intelligence, intelligent transport systems and cybersecurity, according to the global body. The ISO made the comments as it released I
 
+## Russia Purges Its Last Anti-War Politicians
+Ahead of the first State Duma elections since the full-scale invasion of Ukraine, few are left to speak for peace.
+
+## Trump, God, and the Struggle for the Chin State
+The MAGA movement has been a source of hope and headaches for Myanmar’s Christian diaspora and the rebels they support.
+
 ## Georgia’s Government Is Using Civility as an Excuse to Crush Critics
 New policies against online “vulgarity” target free speech.
 
@@ -152,12 +161,6 @@ On a majority-Muslim island, federalists are sparring with Islamists.
 
 ## Trump and Xi Won’t Find Common Ground on AI Safety
 The leaders have fundamentally different ideas about the technology and how to regulate it.
-
-## Are Drone Incursions Europe’s New Normal?
-NATO suspects that Russia is behind the latest airspace violation in Lithuania.
-
-## Trump Picks the Wrong Beef Before Midterms
-The president’s plan to tame soaring beef prices has alienated a key constituency.
 
 ## Underwater Autonomy in the China-US Naval Race
 Insights from Verineia Codrean.
@@ -183,6 +186,9 @@ However determined Western governments may be to turn Russia and Iran into paria
 ## A Year After Nepal’s Gen Z Uprising, Balendra Shah Confronts the Limits of Revolt
 Its leaders successfully dismantled an old political order but had little knowledge of how to develop the institutions or governing consensus needed to replace it.
 
+## Would NATO Membership for Ukraine Undermine Article 5 Itself?
+In 2025, Jennifer Kavanaugh and Christopher McCallion wrote, “Armed Neutrality for Ukraine Is NATO’s Least Poor Option,” where they made the case for armed neutrality over full NATO membership as the wiser course for both Ukraine and NATO. A year later, we asked them to revisit their arguments. Imag
+
 ## Strategic Stability and the Rebuilding of Xi’s Military
 For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People’s Liberation Army’s senior command through purges and is now trying to rebuild it wh
 
@@ -203,9 +209,6 @@ The space economy has surpassed $600 billion in annual value, with some projecti
 
 ## The Age of Strategic Exclusion
 Major powers are increasingly trying to shut out their rivals. Russia invaded Ukraine in part to prevent the latter’s further integration with the West. The United States is restricting China’s access to advanced semiconductors and encouraging allies to do the same. China’s Belt and Road Initiative 
-
-## The War’s Last Generation Is Still Holding America’s Moral Debt
-On the first night of the evacuation of Kabul, Aug. 15, 2021, a young mother found me in the crowd at Hamid Karzai International Airport. She had marked me, correctly, as someone who spoke her language. By the end of the night, she was pressing the body of her dead child into my chest and telling me
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Poll shows Americans are increasingly alarmed by AI’s ecological footprint
-New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.
+## New video claims to show Saudi fighter jet Houthis say they shot down
+Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.
 
-## Malaysia offers to invite Myanmar leader in Rohingya repatriation push
-Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.
+## Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare
+Discontent is testing President Ahmed al-Sharaa's ability to unify a country emerging from 14 years of conflict.
 
-## Angry Dutch farmers blamed for railway sabotage: What happened?
-Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.
+## Efforts underway for Zelenskyy-Trump meeting at UN next week
+Trump pushes for a solution to end Moscow's war against Kyiv as civilian deaths in Ukraine rise.
 
-## Ebola fight in DRC ‘far from over,’ warns WHO chief
-The DRC faces a growing Ebola threat as cases soar in North Kivu, despite progress in other regions, says Tedros
+## Al-Mughayyir: A village under siege
+In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.
 
-## Sweden expels Iran embassy employee, citing security concerns
-Stockholm says Iran-backed groups are plotting against 'Jewish and Israeli interests' in the country.
+## Republican US senator slams Trump vaccine policy amid rising measles deaths
+US Senator Bill Cassidy presses Trump's pick for surgeon general on views over vaccines, public health.
 
-## Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’
-Former Republican Congresswoman Marjorie Taylor Greene slammed US President Donald Trump’s war on Iran.
+## Lebanon returns 37 artefacts smuggled out of Egypt six years ago
+The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.
 
-## Djibouti calls for assistance as thousands of Yemenis flee to country
-More than 2,500 Yemenis have arrived since last week, with Djibouti warning the number could rise to 10,000.
+## Jerusalem Daily: US to send $2.8BN worth of weapons to Israel
+A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.
 
-## Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza
-Two people were killed in the assault on Gaza City - a paramedic and a 15-year-old boy returning from school.
+## US Fed raises interest rates for first time in three years
+The 25 basis-point hike is the first raise in three years and comes before critical midterm elections in the US.
 
 ## IBBI’s personal guarantor fix may need IBC amendment, not just regulations: Experts
 The Insolvency and Bankruptcy Board of India’s proposals to strengthen safeguards in the insolvency resolution process for personal guarantors to corporate debtors seek to address long-standing gaps in the framework, but some of the proposed changes may require amendments to the Insolvency and Bankr
