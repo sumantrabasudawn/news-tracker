@@ -1,109 +1,130 @@
 # AION Intelligence
 
-## US charges five people linked to Russian ‘assassination network’
-Indictment marks a rare accusation of Kremlin-backed plots on American soil
+## UK inflation rose to 3.1% in August
+Figure worsens squeeze on households ahead of BoE meeting
 
-## Nissan to invest £170mn to build a new hybrid SUV at Sunderland plant
-The addition of a fourth model comes as carmaker looks to boost factory’s utilisation rate, which is hovering at about 50%
+## Submit a question: What do British businesses need from the Budget?
+Take part in a live Ask an Expert Q&A with John Gapper, the FT’s chief UK business columnist, on Thursday September 17 at 1pm BST
 
-## Heathrow expansion incompatible with climate goals, UK government advisers warn
-New runway would emit as much CO₂ as the city of Birmingham, says independent Climate Change Committee
+## AI debt vs Treasuries
+Imperfect substitution, at best
 
-## Chinese restaurant chains put AI on the menu
-AI-driven reductions in food waste and labour costs can make culinary economics much more juicy
+## Von der Leyen to paint EU as the only port in a global geopolitical storm
+Also in this newsletter: deforestation ban comes into force
 
-## Bessent to meet He Lifeng in New York ahead of Trump-Xi summit
-US Treasury secretary and Chinese vice-premier to hold talks as one-year expiry in trade war truce nears
+## World’s best-performing sovereign wealth fund expects equities pullback
+New Zealand’s superannuation fund grows 14% despite being underweight on US tech stocks
 
-## Trump says Kennedy Center renovation depends on whether his name is on it
-President’s vow comes after a federal judge rejects effort to rename building
+## FirstFT: EU rebuffs ‘unique alliance’ with Canada
+Also in today’s newsletter: US mega-donors and Vodafone’s €1.1bn hit
 
-## FirstFT: China tightens control of overseas travel
-Also in today’s newsletter: 10-year Treasury yield hits highest level since 2007 and Putin moves summit over Ukrainian drone threat
+## Sullivan & Cromwell discovers private equity
+The law firm has hired a team of lawyers from rival Kirkland & Ellis in a push to build a US private equity practice
 
-## Landmark US crypto bill fails as Senate splits over Trump ethics concerns
-Defeat is a massive setback to an industry that has spent record sums lobbying for a favourable market structure
+## EU rebuffs Carney’s ‘unique alliance’ with Canada
+Some governments balk at prime minister’s call for ‘middle powers’ to join forces against US and China
 
-## OpenAI weighs funding round at $1.2tn valuation before IPO
-Sam Altman’s start-up could capitalise on demand for its technology after new model launches
+## The BoE’s three balance sheet problem
+Issues with the Issue Department
 
-## Jensen Huang says battle over AI innovation and safety is ‘false choice’
-Nvidia chief has distanced himself from OpenAI, Anthropic and SpaceX’s efforts to slow research
+## UK looks to ‘land drones’ to transform beleaguered Ajax fighting vehicles
+Collaboration between General Dynamics and ARX Robotics aimed at making armoured vehicles more lethal in war zones
 
-## Should markets discount the AI apocalypse?
-How should investors interpret the labs’ calls for a slowdown?
+## Vodafone takes up to €1.1bn hit from Drahi’s German broadband deal
+Patrick Drahi’s sale of 50% stake in OXG will deprive joint venture partner Vodafone of potentially substantial future earnings
 
-## Sensex today | Stock Market Live: Stock to buy today: Five-Star Business Finance (₹543.75) – BUY
-Sensex, Nifty, Share Prices LIVE: Five-Star Business Finance share price can go up to ₹615
+## Odey judgment is lesson for firms over ethical failings, warns FCA
+Watchdog introduces stricter rules to ensure ‘people can speak up’ and be protected against misconduct
 
-## Tata Sons’ listing may change how Tata Trusts exercises control
-Tata Trusts’ special rights may remain, but listed-company rules could bring greater scrutiny to their use and create new points of friction with public shareholders
+## Ørsted boss says Europe must act on ‘unfair’ Chinese wind turbine makers
+Danish wind farm developer backs efforts by the EU to clamp down on China manufacturers with access to state support
 
-## El Niño strengthens further, while IOD moves above the positive threshold
-El Niño could persist until March 2027, according to the Australian Met body
+## Giredmet inks pact with Alt Metals for titanium sponge pilot production unit
+The pact, signed at the Innoprom India exhibition in New Delhi last week, aims to develop cooperation between Russian and Indian specialists in the field of deep processing of mineral raw materials
 
-## Karnataka declares September 15 as Engineers’ Day, allows ‘Er.’ prefix
-The move recognises engineers’ role in shaping society and honours Sir M Visvesvaraya’s remarkable contributions to Karnataka and the nation.
+## India’s tariff risk remains as US House prepares to vote on Russia sanctions bill
+Two Democratic amendments — one to explicitly name India among countries facing up to 100% tariffs, another to strip the President’s broad secondary-tariff powers – were defeated in the Rules Committee
 
-## NCPCR again summons Meta India chiefs, Capgemini executive over child abuse allegations
-Two separate hearings before the child rights panel on Wednesday will examine allegations involving Meta India and a Capgemini facility.
+## Axera and Aptiv Bring M57-Powered Driver Assistance to Europe-Bound Vehicles
+Axera and Aptiv Bring M57-Powered Driver Assistance to Europe-Bound Vehicles
 
-## MDR may alter payment choices, but ‘won’t curtail market participation’
-The MDR framework covers regulated capital market entities, including mutual fund AMCs, SEBI-registered stockbrokers, securities dealers and investment platforms
+## Wizz Financial collaborates with City Union Bank to Unveil 'Wizz Voyager', the Ultimate Smart Travel Card
+Wizz Financial collaborates with City Union Bank to Unveil 'Wizz Voyager', the Ultimate Smart Travel Card
 
-## Indian government allocates record sugar sales quota for September to rein in retail prices
-The quota announcement comes ahead of Dussehra even as retail prices drop below ₹60 a kg
+## Sensex today | Stock Market Live: Sensex rises 350 pts, Nifty crosses 23,200; Axis Bank, M&M lead gainers
+Sensex, Nifty, Share Prices LIVE: Rising US bond yields, Brent crude near $108 a barrel and escalating West Asia tensions could keep Indian equities under selling pressure on Wednesday.
 
-## India extends deadline to surrender sugar import quota
-However, importers will have to pay 0.5% of the CIF value of the surrendered quantity
+## TVK appeals to Tamils in London to refrain from gathering at public places to catch a glimpse of CM Vijay
+The party has cited public safety priorities and directives from the London Metropolitan Police Service
 
-## Consumers may be spared large impact of MDR on UPI
+## Rain spell soon for South Peninsula as Bay warms in likely last monsoon act
+IMD sees isolated heavy rain over Tamil Nadu, Puducherry and Karaikal for six days from Wednesday. Kerala and Mahe could receive isolated heavy rain and again for three days from Saturday
+
+## HDFC Bank shares trade flat after rising in previous session
+The stock’s movement comes after HDFC Bank soared nearly 3% before close in the previous session following the bank’s move ahead with its CEO succession process
+
+## MDR on UPI: What stays free, what attracts Rs 5 flat fee, and what 0.4% rate?
+The new MDR will take effect from October 15. However, UPI payments between individuals, including transfers made to friends, will continue to remain outside the charge. Auto-debits and UPI mandates will also not attract MDR.
+
+## Gold price prediction today: Will gold continue bearish trend? Check September 16, 2026 outlook
+The dominant catalyst is today’s FOMC decision and Fed Chair Kevin Warsh's press conference. The rate hike itself is largely priced in and discounted; what matters more is the guidance
+
+## Stock Market Live Updates Today: BSE Sensex jumps over 350 points, Nifty50 trades above 23,200
 
 
-## Tata Group stocks soar after RBI listing decision
-Amid Renewed Buzz Around Tata Sons' IPO, Stocks Shine On Gloomy Day On D-St
-
-## Hear us first if Tata Sons files any plea: RBI caveat in HC
+## 'To strengthen UPI's long-term sustainability': RBI backs 0.4% MDR on transactions above Rs 2,000
 
 
-## India’s exports to US, China surge in August amid stronger global trade
-India's merchandise exports to the US and China saw significant growth in August. Shipments to the US increased by over twenty-one percent while China saw a fifty-two percent rise. Overall exports climbed by more than twenty-six percent, driven by key sectors. Imports also grew, with electronics and
+## Top stocks to buy today: Stock recommendations for September 16, 2026 - check list
+Stock market recommendations: PN Gadgil Jewellers, Mankind Pharma, and BEML are the top stocks recommended by Ganesh Dongre, Senior Manager - Technical Research, Anand Rathi Shares and Stock Brokers Limited for September 16, 2026.
 
-## His flat faced water leaks for 8 years; court orders neighbour to allow repairs
-This water leakage problem between two neighbours in a housing society turned into an eight-year legal battle, with the Maharashtra Co-operative Appellate Court eventually directing the owner of the first-floor flat to allow repairs in his home.
+## Oil prices today: Brent crude falls as US crude inventories rise despite Saudi supply concerns
 
-## MDR on person-to-merchant UPI payments above Rs 2,000: Who pays and what changes for you? FAQs answered
-Merchant Discount Rate (MDR) is essentially a fee that a merchant incurs when accepting payments for goods or services through credit or debit cards. It is important to note that person-to-person transactions will continue to be free with no MDR applicable.
 
-## Russian oil squeeze, China competition, Saudi pipeline shut: Why India faces a crude triple whammy
-Where does that leave India, a country that imports around 90% of its crude oil? If crude oil prices continue to rise due to global supply constraints and Russian crude discounts ebb, will India’s crude oil bill manage another hit within months?
+## PV dispatches up 37% ahead of festivals
 
-## India’s exports jump 25.4% in August, narrowing overall trade deficit to $9.41bn
-India's overall trade deficit narrowed to $9.41 billion in August 2026. Exports grew 25.41% year-on-year to $82.68 billion, while imports rose to $92.09 billion. Merchandise exports increased 26.12% to $43.81 billion, showing strong performance. Services exports also registered robust growth, contri
 
-## Supreme Court flays Centre for challenging pension to disabled soldiers, junks 270 appeals
-Directing Centre to comply with the judgments granting disability pension to ex-soldiers, the court allowed the Centre four months to comply with the directions
+## Rising crude, G-sec yields, inflation risks sink sensex
 
-## India, others face 100% US tariffs as House advances Russia sanctions bill; final vote tomorrow
-The bill -- Lindsey O Graham Sanctioning Russia and Iran Act 2026 -- is expected to pass in Thursday’s final vote, people aware of the matter told HT.
 
-## ‘Modi tax’: Opposition slams Centre over UPI charges on merchant transactions; Rahul, Kharge target PM
-The government announced a 0.4 per cent Merchant Discount Rate (MDR) on UPI payments above ₹2,000 made to merchants.
+## SC asks CJ of Gujarat HC to register case to identify victims of 2022 industrial accident at pesticide plant
+SC asks CJ of Gujarat HC to register case to identify victims of 2022 industrial accident at pesticide plant
 
-## Apple faces Indian consumer body probe over iPhone issues linked to iOS 18 update
-The consumer regulator has now initiated a detailed investigation into the complaints, nearly a year after it first sought an explanation from Apple.
+## Kerala police raid Reporter TV office over Messi event financial probe
+Journalists and editorial staff of Reporter TV said that the police barged into their workspace during the TV broadcast
 
-## Gujarat Police to question Google over 5,00,000+ fake Gmail IDs linked to hoax bomb threats
-Gujarat police busted an email network this week and arrested two individuals, uncovering over 5,00,000 Gmail IDs and passwords being used since 2022.
+## CJP protest: SC refuses reconstitution of panel to probe 'police excesses', says allegations mere conjecture
+CJP protest: SC refuses reconstitution of panel to probe 'police excesses', says allegations mere conjecture
 
-## Rahul Gandhi meets Congress secretaries ahead of reshuffle buzz
-The meeting comes weeks after Rahul Gandhi interviewed possible candidates last month to appoint new secretaries as part of an organisational overhaul.
+## Cabinet approves 'Saral Keralam' to fast-track investment approvals, says CM Satheesan
+Cabinet approves 'Saral Keralam' to fast-track investment approvals, says CM Satheesan
 
-## Indian teams in Uzbekistan for Chess Olympiad 2026 wait 5 hours for hotel rooms
-The Indian contingents travelled to the Uzbek city for the FIDE tournament, which is scheduled to take place from September 16 to 27.
+## New Zealand Parliament clears FTA with India: 'More jobs, higher pay for Kiwis'
+PM Christopher Luxon called the deal ‘landmark’ and said that it will mean more jobs, higher income for ‘Kiwis’.
 
-## Can merchants pass UPI charges to buyers? Key questions on MDR, its implementation answered
-The finalized MDR framework and threshold structure will take effect from October 15, 2026, for the updating for software and billing systems.
+## ‘Very positive step’: PhonePe, MobiKwik co-founders welcome MDR charge on UPI payments
+While some criticised the MDR charges on UPI transactions, many welcomed the move saying it was much needed.
+
+## 'End of day consumer pays': Ashneer Grover questions UPI merchant fee, says 'call it tax'
+Ashneer Grover questioned the merchant charge on UPI despite the government's clarification that the move won't impact consumers.
+
+## 3 DMK leaders booked over remarks against Tamil Nadu CM Vijay, cabinet colleague
+The FIRs followed a September 12 DMK protest, with party spokesperson TKS Elangovan accusing the TVK government of targeting opposition leaders.
+
+## First update made to ISO 9001 in a decade, with China shaping AI, cybersecurity standards
+China’s contributions and leadership were of considerable value to the revision of new International Organization for Standardization (ISO) standards for artificial intelligence, intelligent transport systems and cybersecurity, according to the global body. The ISO made the comments as it released I
+
+## ByteDance’s AI-enhanced short-drama app eclipses China’s Netflix rivals combined
+TikTok parent ByteDance has scored another hit in China with Hongguo, an artificial intelligence-powered short-drama platform. Launched in 2023, Hongguo quickly became a household name by riding China’s short-drama boom. A surge in AI-generated content propelled it past some of the country’s biggest
+
+## Hong Kong rated Asia’s top financial hub for fourth straight year: report
+Hong Kong has retained its status as Asia’s top financial hub for a fourth consecutive edition of the Global Financial Centres Index (GFCI), even as many of the world’s leading centres saw their scores slip slightly amid rising geopolitical headwinds. The city also ranked third globally in the 40th 
+
+## Investors prepare for ‘super-central-bank week’ as US rate increase appears done deal
+With a US interest rate increase almost a done deal, investors are now trying to figure out whether it would be a one-off move or the start of a fresh tightening cycle, while also bracing for a borrowing-cost increase in Japan, which is highly likely and may jolt capital flows. As the odds of a 25 b
+
+## GSK licenses Chinese firm’s cancer drug in US$750 million deal
+British pharmaceutical giant GSK has agreed to acquire a cancer drug from Chinese firm Chimagen Biosciences in a deal worth up to US$750 million, underscoring China’s emergence as a global player in biotechnology. GSK announced plans on Tuesday to buy full global rights to a “potential best-in-class
 
 ## Southeast Asian buyers emerge as top non-local investors in Hong Kong commercial property
 Southeast Asian investors have emerged as the largest non-local buyers of Hong Kong commercial property, led by Singapore-based capital, according to Savills. As of Tuesday, local and non-local investors – including those from mainland China – were behind an estimated HK$30.36 billion (US$3.87 billi
@@ -114,20 +135,8 @@ Commercial property prices in Hong Kong are likely to continue their downward sp
 ## Tighter scrutiny of Hong Kong IPOs could slow deal flow, analysts say
 Securities regulators in Hong Kong and mainland China are doubling down on efforts to raise the quality of Hong Kong initial public offerings (IPOs), which could slow the flow of new listings but would not reduce underlying demand, according to analysts. In an unusual move, the China Securities Regu
 
-## Wrise Prestige accelerates mainland China expansion with new offices, AI lab
-Wealth management provider Wrise Prestige is stepping up its investment in artificial intelligence technology as the firm looks to expand its footprint on the Chinese mainland and power its next phase of growth. The Singapore-headquartered firm planned to open an AI laboratory in Guangzhou next mont
-
-## As the American century ends, Asia’s renaissance begins
-The ending of the American century is coinciding with an Asian renaissance. America remains the world’s largest economy and will stay that way for another decade or two. But its economy no longer dominates the world. And its “America first” policy has partners and allies looking for alternatives for
-
-## Chinese firms’ export share to reach 31% by 2035 as global expansion deepens: Goldman Sachs
-Chinese companies “going global” are moving from the peripheral to the core in the business world, with their average market share in export markets projected to rise to 31 per cent by 2035 from 18 per cent this year, according to a Goldman Sachs report on Monday. The global expansion of Chinese fir
-
-## Unitree’s US$30 billion stock wipe-off spurs regulatory caution on humanoid robot IPOs
-A more than 40 per cent slump in Chinese humanoid robot maker Unitree Robotics since listing has sounded regulatory caution for the industry, with speculation swirling that Beijing may tighten approval of the peer listings. The regulators would heighten scrutiny over humanoid makers seeking initial 
-
-## Chinese carmakers GAC and FAW eye potential tie-up of their Toyota operations
-Two Chinese state-owned carmakers, Guangzhou Automobile Group (GAC) and FAW Group, are weighing a restructuring that could integrate their joint venture operations with Japanese giant Toyota, industry insiders say, following Beijing’s call for consolidation amid weakening domestic demand. GAC planne
+## A Bumpy Peace Election in the Philippines
+On a majority-Muslim island, federalists are sparring with Islamists.
 
 ## Trump and Xi Won’t Find Common Ground on AI Safety
 The leaders have fundamentally different ideas about the technology and how to regulate it.
@@ -149,9 +158,6 @@ Three missions and billions of U.S. dollars later, the al Qaeda affiliate is str
 
 ## Only China, India, and Russia Can End the Iran War
 Washington needs its rivals to create peace on its behalf.
-
-## The United States Must Prepare for More Than One Russian Future
-Managing the Ukraine conflict is just the beginning of negotiations.
 
 ## What Has AUKUS Pillar II Achieved Over 5 Years?
 Pillar II’s progress has proven difficult to judge – not due to a lack of activity, but because there’s no agreed metric for what success should look like.
@@ -225,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Saudi-led coalition intercepts drone headed for Mecca
-Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'
+## Manchester derby VAR error caused by ‘tunnel vision’: Pro Ref chief Webb
+Howard Webb says the referees' body is disappointed with the decision to allow Haaland's goal against Manchester United.
 
-## Israeli soldiers rappel from helicopter in occupied West Bank
-Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank.
+## US House votes to end Iran war, 7 Republicans join in favour
+For a third time, the US House approved a war powers resolution, halting Trump's ability to continue military action.
 
-## Iran war increasing inflation, straining US munitions: congressional report
-Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.
+## Seoul court orders North Korea to pay $32.5m for blowing up office
+Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.
 
-## Former Maduro ally pleads guilty to money laundering and fraud
-Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela's welfare programme.
+## What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
+China's first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.
 
-## Iran war live: Iran’s top diplomat heads to China as war drags on
-Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.
+## Republican forces Congress to hold impeachment vote for Pete Hegseth
+United States Representative Thomas Massie is forcing fellow Republicans to vote whether to impeach Secretary of Defense
 
-## Panic on board Iranian plane as violent shaking rips cabin apart
-A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.
+## News helicopter crash in Los Angeles kills three, injures one
+NBC Los Angeles helicopter crashes while covering deadly metro bus collision from the air.
 
-## Argentina intensifies campaign against Falklands oil companies
-Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.
+## At least 10 dead, dozens missing in Gaza building collapse
+At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.
 
-## Republican congressman calls to impeach US Defence Secretary Pete Hegseth
-GOP Representative Thomas Massie has emerged as outspoken critic of war on Iran and overseas military interventions.
+## At least 12 dead as Gaza building collapses, many trapped under rubble
+Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.
+
+## Tata Sons’ Twin Governance Test: Can Its Old Power Structure Survive a New Era?
+Tata Sons is facing a twin governance test as the RBI’s push for a public listing collides with the impending succession of Chairman N Chandrasekaran, whose term ends in February 2027. The two issues could reshape how Tata Sons is governed, raising questions over the balance of power between Tata Tr
 
 ## Tech Mahindra to channelise margin gains towards growth in next three year plan
 The IT services company is preparing its next three-year plan as it enters the final year of its current strategy, with Anand saying profitable growth will be a key focus while the company continues to pursue operational efficiency.
@@ -270,8 +279,14 @@ Corporate India is entering an investment cycle at a time when capital is becomi
 ## Corporate Laws Bill: Audit exemption exposes fault line in JPC over corporate accountability
 Panel backs targeted audit relief for private companies as dissent over wider compliance dilution puts corporate governance safeguards under scrutiny.
 
-## High crude, geopolitical risks cloud India Inc’s margin outlook for Q2, say economists
-Rising crude oil prices and geopolitical conflicts create a cautious outlook for India Inc. Companies may face margin pressure from increased commodity costs and potential interest rate hikes, economists say. First quarter earnings growth might not continue as companies plan for uncertainty. Sectors
+## RBI files caveat after rejecting Tata Sons bid to avoid listing, source says
+The Reserve Bank of India has initiated court proceedings to secure its involvement in the Tata Sons listing issue. This action follows the RBI's denial of Tata Sons’ bid to withdraw its status as a non-banking financial company (NBFC). By filing a caveat in the Bombay High Court, the central bank a
+
+## BNP Government of Bangladesh reviews 101 pacts signed with India
+Dhaka is reviewing one hundred and one agreements signed with New Delhi. Bureaucrats trained in India over the past decade may face scrutiny. The ruling party alleges past governments compromised national interests with a friendly nation. Goods-laden vehicles from that country were reportedly allowe
+
+## Russia sanctions bill advances in US House, set for final vote as 100% tariff looms on India, others
+The US House of Representatives advanced a bill authorising President Donald Trump to impose 100% tariffs on India and other countries buying Russian oil and gas, while extending sanctions on Iran. The legislation cleared a 214-211 procedural vote after two Democrats backed Republicans and is expect
 
 ## India's proposals to revamp derivatives settlement could alleviate expiry-day volatility, analysts say
 India's market regulator has unveiled a plan to modify the derivatives expiry-day settlement rules. These changes are intended to mitigate volatility and bring clarity to the options market. The proposals include two methods for calculating settlement prices: one utilizing trade data from the final 
@@ -287,13 +302,4 @@ US Senate Republicans have released a revised Clarity Act cryptocurrency bill. N
 
 ## Central database may be used for financial oversight, risk monitoring
 India's government plans to expand Cersai's database for better financial risk monitoring. This initiative aligns with the phased rollout of the Central KYC Records Registry, CKYCRR 2.0. The expanded Cersai database will offer customer insights and aid in fraud prevention efforts. Financial institut
-
-## Commerce ministry to set up central processing dept to implement faceless trade facilitation system
-In an effort to modernize trade operations, the Directorate General of Foreign Trade will create a central processing department. This new unit, which is expected to be inaugurated nationally in the second half of October 2026, will facilitate a faceless, paperless, and jurisdiction-free system for 
-
-## RBI Governor Malhotra calls on Finance Minister Sitharaman
-Reserve Bank of India Governor Sanjay Malhotra met Finance Minister Nirmala Sitharaman. India logged strong GDP growth despite global economic uncertainties recently. The Monetary Policy Committee's next meeting is scheduled for October 2026. An SBI report suggests raising interest rates to counter 
-
-## BRICS 2026: PM Modi flags tech, critical minerals weaponisation
-Prime Minister Narendra Modi cautioned against using technology and critical minerals for advantage. He emphasized that a cooperative approach would benefit all nations globally. Modi highlighted inclusivity in technology adoption during the BRICS session in New Delhi. He also discussed global tensi
 
