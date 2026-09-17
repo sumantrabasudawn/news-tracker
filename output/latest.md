@@ -1,64 +1,70 @@
 # AION Intelligence
 
+## Addison Lee founder loses £20mn tax battle over ‘non-dom’ status
+John Griffin cited his deep emotional attachment to Ireland despite having started minicab service in Britain in 1975
+
+## Has AI broken the old VC model?
+A spate of mega-IPOs triggered by the AI boom is stretching the feast-or-famine industry dynamic to an extreme
+
+## Carney is playing a bad hand well
+Economic reforms and broader alliances are Canada’s best response to Trump’s trade war
+
+## Rising rates throw a spanner in investment bankers’ spreadsheets
+When the cost of capital goes up, the value of a company theoretically goes down. Share prices tell a different story
+
+## Accelerationism will only slow AI’s progress
+Without stronger safeguards, the danger is that any disaster could trigger a furious public backlash and regulatory overreaction
+
 ## Bank of England says rates likely to rise as it overhauls gilt sales
 BoE holds rates at 3.75% but signals higher borrowing costs are likely
 
-## Turkish authorities rush to stem fallout from stock-market scandal
-Funds frozen or liquidated and 38 people referred to prosecutors as regulators move to restore calm
+## Workers at Diageo’s largest distillery to go on strike as demand slumps
+Unite union says staff at Cameronbridge in Scotland to walk out in protest against hundreds of planned job cuts in country
 
-## Mega-donors obscure the wider threats to British democracy
-There are reasons to feel queasy about Reform’s donations but there is also a huge whiff of hypocrisy in other parties complaining
+## King Charles raises alarm over AI ahead of Burnham meeting with Trump
+British monarch warns of ‘existential dangers’ in talks with tech titans
 
-## Is Britain’s migration debate asking the wrong question?
-The Piddington protests illustrate that humanitarian immigration is harder to manage than visa policies designed to benefit the economy
+## Turmoil at Tata deepens as board reverses executive chair’s exit
+Tata Sons directors also back preparations for blockbuster IPO despite opposition by family scion who heads its biggest shareholder
 
-## Live Q&A: What does UK business need from the Budget?
-Submit your questions to John Gapper, the FT’s chief UK business columnist in our latest Ask an Expert Q&A
-
-## Revolut planning dual listing in New York and London, says Storonsky
-Fintech’s chief executive says US market offers greater liquidity and more institutional investors
-
-## UK lenders raise mortgage rates as inflation fears intensify
-Banks and building societies have added to recent rate increases across their-fixed rate home loans under market pressure
-
-## European carmakers warn EU-UK tariffs could be ‘catastrophic’
-Industry argues that stricter rules of origin should be delayed to allow more time for supply chains to be established
+## Leading Iranian airline cuts flights as US sanctions hit
+Mahan Air suspends several routes to Turkey and Oman as Washington’s campaign of pressure leaves Iranians with increasingly limited travel options
 
 ## Bolt to launch 25,000 robotaxis in Europe with Lucid
 Rollout would be most ambitious plan yet for autonomous ride-hailing on the continent
 
-## Tata board agrees listing and extends chair’s term at contested meeting
-Vote by Tata Sons directors immediately challenged by family scion as battle for control intensifies
+## Noel Tata tables ₹25,000 cr SP Group share monetisation plan for Tata Sons
+SP Group owns 18% in Tata Sons and is looking at various ways to raise liquidity to repay debt
 
-## Lax Deutsche Bank controls enabled banker to embezzle €600,000, court finds
-Former private banker at flagship branch handed two-year suspended sentence
+## BL Agro to invest ₹1,500 crore in cattle genetics, reproductive technology
+BL Agro plans to develop an integrated cattle genetics and reproductive-technology ecosystem aimed at improving breed quality and productivity in India’s dairy sector
 
-## There is no ‘one size fits all’ solution for the energy transition
-A report recognises the different perspectives between advanced and developing countries
+## Brookfield’s $600-million ACME bet can take India’s green molecules to global scale: Manoj Upadhyay
+ACME Chairman Manoj Kumar Upadhyay told that Brookfield’s $600 million investment in ACME Cleantech Ventures could help Indian green-molecule projects scale globally
 
-## Greenbase to expand in Chennai with ₹2,000 crore investment in industrial parks
-Hiranandani Group’s Greenbase is developing a 55-acre park at Arani, near Red Hills, with about 1.2 million sq ft of space, with an anchor client identified in the renewable energy space
+## ‘India needs targeted support for semiconductor equipment R&D’
+India also needs more pilot and reference facilities, says senior executive with KAS Group
 
-## CropLife seeks 5-year data protection to widen farmers’ access to new pesticides
-Argues that it would encourage companies to bring newer molecules to India and widen the range of pest-control options available to farmers
+## Listing will destroy Tata group’s character: Noel Tata
+Noel Tata also voiced his opinions against share sale in board meeting
 
-## Maharashtra deploys AI to detect power theft, flags 28,000 cases in 3 months
-The utility deployed more than 190 flying squads after its AI and machine learning module identified unusual electricity consumption patterns.
+## India accounts for 20% of global chip design workforce: Intel
+More than 85,000 semiconductor skill sets generated in India, says Intel senior executive
 
-## What does BSE’s outperformance of other listed exchange players mean for NSE IPO
-Strong demand for exchange stocks from Indian investors is positive for NSE post-listing, but similar stellar returns cannot be anticipated
+## RBI announces ₹2.25 lakh crore 3-day VRRR auction
+The auction will be conducted on September 18, 2026, with funds set to reverse on September 21, 2026
 
-## BEE chief calls for speedy adoption of energy efficiency measures by MSMEs
-Energy efficiency not to be seen as compliance requirement, but as pathway to global competitiveness, says BEE chief Krushna Chandra Panigrahy
+## Tata Sons board backs Chandra for third term, Noel Tata calls vote ‘legal nullity’
+Tata Trusts oppose listing, seek alternatives to comply with RBI’s upper-layer NBFC norms
 
-## Tata Sons board-room battle: Stalemate allowed chairman to vote on his own reappointment
-With only Venu Srinivasan and Noel Tata as nominees on the Tata Sons board representing opposing sides, the expectation was of a stalemate during the voting for the reappointment of N. Chandrasekaran as Chairman
+## She willed house to sister, revoked it; HC upholds second Will for adopted daughter
+The woman had a younger sister and a brother, who lived nearby. The brother used to visit and care for his sister as she grew older. On February 15, 2008, the woman Kaur revoked her first Will, which had originally intended to leave the property to the younger sister after her death.
 
-## KDEM to host Mangaluru Technovanza on Sept 22-23
-The two-day event will explore innovation, investment, skills, global partnerships and sustainable urban development in Mangaluru’s technology ecosystem
+## NSE IPO: Why did India's second largest initial public offering not get fully subscribed on Day 1?
+According to exchange data, investors bid for 3.83 crore shares against the 8.86 crore shares offered in the issue. Non-institutional investors subscribed to 72% of their quota, while the retail portion was subscribed 44%.
 
-## NSE IPO Day 1 Highlights: Mega IPO subscribed 42%
-NSE IPO GMP Day 1 live updates: NSE IPO, Check GMP, issue details & subscription status | Scroll down for more
+## Who owns Tata, who runs it? The power struggle between Tata Sons and Tata Trusts explained
+Tata Sons said in a statement that "Chandra acceded to the Board's request to reconsider his decision". The board subsequently "resolved by a majority vote to re-appoint him as Executive Chairman for a further term of five years upon the expiry of his current tenure".
 
 ## NSE IPO subscription status: National Stock Exchange’s offer gets subscribed 42% on its first day
 IPO subscriptions often gain pace in the later stages of the bidding period. The NSE issue will remain open until September 21, with the listing scheduled for September 24.
@@ -72,41 +78,35 @@ A new US sanctions bill allows tariffs on countries buying Russian energy. India
 ## Fortis moves Supreme Court against Delhi High Court order
 Fortis Healthcare has appealed to the Supreme Court against a recent Delhi High Court order. The order mandated a forensic audit of Fortis's dealings with IHH Healthcare and RHT Health Trust. This legal battle stems from Daiichi Sankyo's efforts to enforce an arbitral award against former promoters.
 
-## EPFO raises wage ceiling rises to Rs 25,000: What has changed and will your take home pay salary come down?
-The exact impact will vary depending on factors such as PF wages, previous PF and pension membership, and whether the employer currently contributes only up to the statutory ceiling or on actual wages.
+## She declared Rs 43,796 income in ITR, misses Rs 14.02 lakh interest; hit with 200% penalty, but ITAT gave relief
+This is the case of a 57-year old non-resident Indian (NRI) woman who ended up under-reporting her income when she filed her Income Tax Return, and the gap was huge.
 
-## NSE IPO: SEBI chief says no proposal from NSE seeking approval for trading on its own platform
-Since the issue is an OFS, NSE itself will not get any of the funds raised. After deducting issue expenses, the proceeds will go to the shareholders selling their shares.
+## ECI reserves TMC symbol amid dispute; asks Mamata, Ritabrata factions to pick new names, symbols ahead of bypolls
+The Election Commission of India said the decision was aimed at placing both groups on an “even keel” and protecting their rights and interests.
 
-## Tata Sons reverses course, reappoints Chandrasekaran as chairman for another 5 yrs
-The Tata Sons board has approved a fresh five-year term for N Chandrasekaran as executive chairman. This decision reverses his earlier stance not to seek reappointment for the leadership role. The reappointment was approved at a board meeting held in Mumbai on Thursday. Chandrasekaran's current five
+## India secures EU steel quota, seafood and shipbreaking concessions ahead of FTA
+India has secured a 2.8-million-tonne duty-free steel export quota, seafood export approvals and shipbreaking concessions from the EU ahead of the FTA.
 
-## Gold, silver price prediction: Will gold, silver continue to fall? Check outlook on September 17, 2026
-MCX Gold is likely to remain under pressure in the near term, with prices continuing to trade lower on a weekly basis and pointing to a sideways to bearish setup.
+## 16-year-old girl gang-raped by 4 teens, found stabbed to death days later in Delhi
+The girl knew one of the suspects, a 17-year-old, and had gone to meet him on Saturday evening.
 
-## Tripura court sentences 5 Bangladeshi nationals to 2 years for illegal entry
-A court in Tripura’s Unakoti district sentenced five Bangladeshi nationals, including a couple, to two years in jail for illegally entering India in two separate cases.
+## SC awards ₹12 lakh to Haryana woman denied Indian Oil Corporation job in 1988
+Haryana woman was denied helper’s job at an LPG bottling plant in 1988 because the company considered the work of carrying gas cylinders unsuitable for women
 
-## Bharatpe backs UPI MDR charges, says Ashneer Grover's criticism not company's view: ‘No ties with him since 2024’
-Bharatpe clarified that former CEO Ashneer Grover's views on the MDR charges do not represent the position of the firm and are in his personal capacity.
+## Veteran Congress leader Sudarsana Natchiappan dies at 79
+He was elected to the Lok Sabha from Sivaganga in 1999 and served as a member of the House until 2004.
 
-## Italy's Giorgia Meloni wishes PM Modi on his 76th birthday: ‘I wish you health, energy and success’
-Meloni wished PM Modi on his 76th birthday, expressing hope for his health, energy and success, while praising India-Italy ties.
+## Assam detains 27 Bangladeshi nationals in joint operation with railway police
+Assam Police and GRP detained 27 Bangladeshi nationals in Guwahati and Rangia. Officials have begun the process to send them back to Bangladesh.
 
-## 'Unacceptable at any cost': Delhi HC raps student unions on violence, vandalism amid DUSU poll campaign
-The court directed the University of Delhi and the Delhi Police to file reports detailing the action taken in connection with the alleged incidents.
+## Assam Foreigners Tribunal member accused of demanding bribe for bail arrested
+The Foreigners Tribunal is a quasi-judicial body in Assam that determines if an individual is an illegal immigrant, and has the power to order their detention
 
-## Army sepoy dies after gunshot injury at Pune’s NDA, probe underway
-A 46-year-old Army sepoy died days after sustaining a gunshot injury at a security post inside Pune’s National Defence Academy. Police are probing the circumstances.
+## 'Politically motivated': Uddhav Thackeray denies link to Disha Salian case, alleges ‘character assassination’
+Uddhav Thackeray reiterated said that Disha Salian's death was an unfortunate incident but his family had no connection with it.
 
-## Why Health Ministry has proposed CCTV surveillance at medical stores for prescription drugs
-The proposed amendment is intended to prevent the unauthorised access to and sale of Schedule H, H1 and X drugs without valid prescriptions.
-
-## HT Evening Brief Sept 17: Tata Sons' U-turn on Chandrasekaran; Pakistan's hockey venue row
-US House passed a Russia sanctions bill. Meanwhile, Tata Sons, Shehzaad Poonawala, Travis Kelce and the Asian Champions Trophy also made headlines.
-
-## Kannur University professor gets 6 years in jail for fake appointment
-Varsity asst prof sentenced to 6 years' jail term for financial irregularities
+## Pets and personal touches: how China’s luxury hotel market is changing
+Chinese customers’ growing desire for personal expression and cultural experiences has raised the game in the country’s hospitality sector, creating opportunities for leading lifestyle hotel brands, according to a director at Hong Kong developer Hang Lung Properties. “An ideal hotel is the one that 
 
 ## Hong Kong property market gets reprieve on rates, but position remains precarious
 Hong Kong’s property market dodged an immediate hit from the Federal Reserve’s rate hike on Thursday as major local banks kept their prime rates unchanged, but another increase could puncture the market’s relatively fragile recovery, according to industry insiders. The Fed raised its benchmark rate 
@@ -129,8 +129,11 @@ Hong Kong’s Exchange Fund, the war chest used to defend the local currency, is
 ## Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off
 Hong Kong aims to adjust listing rules to grab a share of initial public offerings by mainland China’s space companies, in line with Beijing’s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk’s SpaceX. That could lead to more head-to-head competiti
 
-## Hong Kong stocks decline after Fed raises interest rates and signals more to come
-Stocks in Hong Kong and mainland China fell on Thursday, after the US Federal Reserve raised interest rates for the first time in three years and signalled that further tightening remained on the table. The benchmark Hang Seng Index dropped 0.4 per cent to 24,604.29 at the close. The Hang Seng Tech 
+## How Do You Dismantle a Propaganda Machine?
+Peter Magyar is on a mission to restore Hungarians’ faith in public media.
+
+## China, Not Iran, Is Trump’s Real Foreign-Policy Debacle
+In 19 months, Washington has lost ground to Beijing on every conceivable front.
 
 ## What’s the Matter With Eastern Germany?
 German far-right populism traces back to reunification—but historians disagree about why.
@@ -150,11 +153,23 @@ Ahead of January elections, Bola Tinubu is pulling out all the stops to stem ins
 ## Russia Purges Its Last Anti-War Politicians
 Ahead of the first State Duma elections since the full-scale invasion of Ukraine, few are left to speak for peace.
 
-## Trump, God, and the Struggle for the Chin State
-The MAGA movement has been a source of hope and headaches for Myanmar’s Christian diaspora and the rebels they support.
+## The Potential Mismatch Between Japan and the US on China
+Ahead of the Trump-Xi summit, it is critical for Japan that the United States stays on the same page regarding the challenge from China.
 
-## Georgia’s Government Is Using Civility as an Excuse to Crush Critics
-New policies against online “vulgarity” target free speech.
+## Will Taiwan Fight? We Need Better Evidence.
+Both those making pessimistic predictions and those confidently rejecting them often rely on thin evidence.
+
+## The Space Security Landscape Is Deteriorating Rapidly
+With the United States announcing that it has deployed “on-orbit space control weapons,” the space arms race now appears to be fully underway.
+
+## China Is Building a Global Infrastructure for Its Cultural Industries
+When a cultural industry expands overseas, that usually means exporting content. China is increasingly exporting the infrastructure behind entertainment products.
+
+## BRICS Declaration: India’s Great U-turn on Iran
+The declaration endorsed most of Iran's main diplomatic concerns without speaking a single word against its drone and missile attacks on its neighboring Gulf states.
+
+## US Congressmen Call for Tougher Actions Against Key Southeast Asian Scam Enablers
+Brian Mast (R-FL) and John Moolenaar (R-MI) have requested probes into 28 people and entities allegedly connected to scam gangs in Cambodia, Laos, and Myanmar.
 
 ## Indian, Pakistani Naval Vessels Collide in Arabian Sea, Prompting Diplomatic Tensions
 This is the first time since the May 2025 military clashes that tension between the two sides has erupted into the open.
@@ -162,23 +177,8 @@ This is the first time since the May 2025 military clashes that tension between 
 ## Who Is to Blame for the Massive Death Toll in the Nepal Floods?
 The problem wasn’t China or a lack of data; it was Nepal’s lack of follow-through.
 
-## Malaysian PM Offers to Host Myanmar’s President in Refugee Repatriation Push
-The country would be the fifth member of ASEAN to roll out of the red carpet for Min Aung Hlaing since his inauguration as president in April.
-
-## Kazakhstan Again Sentences Activists for Supposed Attempt to Seize Power
-Human rights organizations are speaking out after five Kazakh activists were convicted for an alleged plan to seize the presidential residence in Astana.
-
-## Siddhant Kishore on BRICS and the New Geopolitics of Asia
-Siddhant Kishore joins host Tushar Shetty to examine the BRICS summit in New Delhi and the strategic realignment underway across Asia.
-
-## What Is Hinduism?
-Hinduism may not be as well-defined and creedal as Christianity or Islam, but it is not a meaningless label either. It refers to a real idea.
-
-## BRICS 2026: A Forum, Not a Front
-Xi and Putin in Delhi made the headlines. The declaration tells the real story of India's multi-alignment and why Europe should welcome it.
-
-## Underwater Autonomy in the China-US Naval Race
-Insights from Verineia Codrean.
+## A Body Blow? The War on Iran and U.S. Military Readiness
+The war against Iran is putting new strains on U.S. military readiness by consuming munitions and missile defense interceptors, as well as through extended deployments, sustained operational demands, and the diversion of forces and attention from other theaters. Mark Cancian (Center for Strategic an
 
 ## An Army General Talks Fusing Sensors and Shooters on the Eastern Flank
 This exclusive Cogs of War interview is with Brig. Gen. Steven P. Carpenter, the commanding general of Multi-Domain Command – Europe, the U.S. Army’s first multi-domain operations command, headquartered at Clay Kaserne in Mainz-Kastel, Germany. Multi-Domain Command – Europe serves as the premier mul
@@ -200,9 +200,6 @@ Every alliance contains a struggle over who gets to decide what the alliance is 
 
 ## Reading the Kremlin’s Mind: Ukrainian Writers Attempt to Understand Putin
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
-
-## This Is Not Your Father’s Nuclear Flight Test Vehicle
-For decades, the United States’ nuclear weapons enterprise has wrestled with an institutional paradox. On one hand is the imperative to make the complex more “responsive” to global tumult and technical surprise, able to field new weapons quickly in reaction to unanticipated threats. On the other are
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## LIVE: India vs Afghanistan – T20 international cricket series
-Follow the live build-up and coverage, with toss, team lineups and news, ahead of our text commentary steam updates.
+## UN fact-finding mission says US committed possible war crimes in Iran
+The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.
 
-## What’s the Asian Games accommodation crisis, and where will athletes stay?
-In a cost-cutting move, Japan decided against setting up a dedicated athletes' village but now faces a backlash.
+## Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends
+Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter.
 
-## Climate change had major role in triggering Nepal floods, scientists say
-The combined toll from the deadly incident now stands at 1,446 people dead and at least 6,669 missing.
+## Five killed as Saudi Arabia and Yemen’s Houthis trade attacks
+Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'.
 
-## India to impose controversial fee for UPI instant payments: Who benefits?
-It's the end of an era for India's popular instant digital payments system, which has been free of charge until now.
+## Rare Ethiopian manuscript stolen by British forces triggers restitution row
+The Gondar Gospel belonged to the library of Emperor Tewodros but was seized in a battle decades ago.
 
-## Gaza repairman helps journalists to keep documenting genocide
-As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.
+## Ireland boycotts Eurovision for second year over Israel’s inclusion
+Public broadcaster says country's participation cannot be justified amid 'appalling and ongoing loss of lives in Gaza'.
 
-## Why is inflation rising again around the world?
-Rising energy prices are pushing inflation higher again, forcing major central banks to raise interest rates.
+## Ninth woman’s body found as South Africa probes series of killings
+All female victims in their 20s and 30s were killed on the outskirts of Johannesburg in the past two months.
 
-## Trump claims direct talks with Iran: Is diplomacy picking up again?
-The US president says Washington is 'hopefully toward the end' of Iran war, as global energy prices remain high.
+## ‘Kosovo’s moves towards Israel are the price of aligning with US policy’
+Kosovo's decision to join a US-led Gaza force exposes the pull of its alliance with Washington, according to analysts.
 
-## Lebanon security talks in Paris to focus on post-UNIFIL alternatives
-The security talks come as Israeli forces continue attacks across southern Lebanon despite a "ceasefire".
+## What are all the sanctions Iran is under?
+Iran has faced a torrent of international sanctions since the 1979 revolution - here's what's in place right now.
 
 ## Tata Sons approves five-year extension for N Chandrasekaran to prepare for IPO
 The Tata Sons board has approved N Chandrasekaran’s reappointment as executive chairman for another five-year term and initiated steps towards listing the group holding company, according to people familiar with the matter.
