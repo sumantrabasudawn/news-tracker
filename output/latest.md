@@ -1,10 +1,19 @@
 # AION Intelligence
 
+## Trump administration approves $24bn sale of F-35 jets to Saudi Arabia
+Deal comes amid escalation in Middle East conflict — but transfer likely to face opposition in US Congress
+
+## OpenAI discloses new ‘concerning’ model behaviour
+Developer launches system to track and report AI model misconduct
+
+## FirstFT: Tata’s boardroom battle deepens
+Also in today’s newsletter: Huawei chair urges Chinese AI companies to accelerate development and BoJ set to raise rates
+
+## Healey to urge Brussels to include UK in ‘Made in Europe’ policy
+British finance minister will indicate to EU counterparts that London is willing to negotiate to reach ‘reset’ deal
+
 ## OpenAI staff knew the ‘existential threat’ AI posed to publishers, New York Times claims
 Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content
-
-## Trump administration approves $24bn sale of F-35 jets to Saudi Arabia
-Deal is a win for Riyadh while it is embroiled in a regional crisis triggered by the Iran war
 
 ## US regulator opens markets to tokenised stock trading
 Blockchain-based representations of traditional equities can be traded around-the-clock and more easily used as collateral
@@ -15,14 +24,8 @@ Florida lawmaker María Elvira Salazar rebukes president in TV ad for heavy-hand
 ## Sun, stats and suspicious productivity
 UK workers are better and more offline than previously thought
 
-## Addison Lee founder loses £20mn tax battle over ‘non-dom’ status
-John Griffin cited his deep emotional attachment to Ireland despite having started minicab service in Britain in 1975
-
 ## Has AI broken the old VC model?
 A spate of mega-IPOs triggered by the AI boom is stretching the feast-or-famine industry dynamic to an extreme
-
-## Carney is playing a bad hand well
-Economic reforms and broader alliances are Canada’s best response to Trump’s trade war
 
 ## Rising rates throw a spanner in investment bankers’ spreadsheets
 When the cost of capital goes up, the value of a company theoretically goes down. Share prices tell a different story
@@ -32,9 +35,6 @@ Without stronger safeguards, the danger is that any disaster could trigger a fur
 
 ## Workers at Diageo’s largest distillery to go on strike as demand slumps
 Unite union says staff at Cameronbridge in Scotland to walk out in protest against hundreds of planned job cuts in country
-
-## King Charles raises alarm over AI ahead of Burnham meeting with Trump
-British monarch warns of ‘existential dangers’ in talks with tech titans
 
 ## Noel Tata tables ₹25,000 cr SP Group share monetisation plan for Tata Sons
 SP Group owns 18% in Tata Sons and is looking at various ways to raise liquidity to repay debt
@@ -60,6 +60,12 @@ The auction will be conducted on September 18, 2026, with funds set to reverse o
 ## Tata Sons board backs Chandra for third term, Noel Tata calls vote ‘legal nullity’
 Tata Trusts oppose listing, seek alternatives to comply with RBI’s upper-layer NBFC norms
 
+## Judge Amogh Kaloti: The man who holds key to Tata dispute
+
+
+## UPI fee: Government, payment gateways discuss ways to stop merchants passing burden to consumers
+The government is currently in talks with payment platforms to ensure that merchant fees do not get passed on to consumers. Starting from October fifteenth, officials will closely monitor this situation to protect consumers. They also reassured that merchants will not incur additional GST costs once
+
 ## She willed house to sister, revoked it; HC upholds second Will for adopted daughter
 The woman had a younger sister and a brother, who lived nearby. The brother used to visit and care for his sister as she grew older. On February 15, 2008, the woman Kaur revoked her first Will, which had originally intended to leave the property to the younger sister after her death.
 
@@ -77,12 +83,6 @@ Tata Trusts has declared N Chandrasekaran's reappointment as Tata Sons chairman 
 
 ## 'Implications for ties': How India, Russia & China reacted to US sanctions Bill
 A new US sanctions bill allows tariffs on countries buying Russian energy. India prioritizes energy security and economic interests while monitoring developments. Russia criticizes the sanctions, stating they could hinder Ukraine peace efforts. China rejects US "long-arm jurisdiction" over its trade
-
-## Fortis moves Supreme Court against Delhi High Court order
-Fortis Healthcare has appealed to the Supreme Court against a recent Delhi High Court order. The order mandated a forensic audit of Fortis's dealings with IHH Healthcare and RHT Health Trust. This legal battle stems from Daiichi Sankyo's efforts to enforce an arbitral award against former promoters.
-
-## She declared Rs 43,796 income in ITR, misses Rs 14.02 lakh interest; hit with 200% penalty, but ITAT gave relief
-This is the case of a 57-year old non-resident Indian (NRI) woman who ended up under-reporting her income when she filed her Income Tax Return, and the gap was huge.
 
 ## ECI reserves TMC symbol amid dispute; asks Mamata, Ritabrata factions to pick new names, symbols ahead of bypolls
 The Election Commission of India said the decision was aimed at placing both groups on an “even keel” and protecting their rights and interests.
@@ -108,6 +108,9 @@ The Foreigners Tribunal is a quasi-judicial body in Assam that determines if an 
 ## 'Politically motivated': Uddhav Thackeray denies link to Disha Salian case, alleges ‘character assassination’
 Uddhav Thackeray reiterated said that Disha Salian's death was an unfortunate incident but his family had no connection with it.
 
+## Hong Kong malls bet on Asian Games to boost footfall, tenant sales amid spending shifts
+Hong Kong shopping mall operators are extending a strategy used during this year’s Fifa World Cup into the Asian Games, leveraging major sporting events to draw visitors and support tenant sales as retailers face competition from Shenzhen, overseas shopping and online spending. Sino Group is among t
+
 ## Pets and personal touches: how China’s luxury hotel market is changing
 Chinese customers’ growing desire for personal expression and cultural experiences has raised the game in the country’s hospitality sector, creating opportunities for leading lifestyle hotel brands, according to a director at Hong Kong developer Hang Lung Properties. “An ideal hotel is the one that 
 
@@ -129,8 +132,14 @@ Huawei Technologies said on Thursday that it would launch its next-generation ar
 ## Exchange Fund weighs bigger gold holdings to support Hong Kong’s trading hub plan
 Hong Kong’s Exchange Fund, the war chest used to defend the local currency, is considering increasing its exposure to gold and other precious metals as part of the government’s push to develop the city into a gold trading hub. Hong Kong Monetary Authority (HKMA) chief executive Eddie Yue Wai-man sai
 
-## Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off
-Hong Kong aims to adjust listing rules to grab a share of initial public offerings by mainland China’s space companies, in line with Beijing’s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk’s SpaceX. That could lead to more head-to-head competiti
+## Trump’s Risky Hack-Back Plan
+The U.S. president wants tech companies to go on the cyber-offensive. Will it work?
+
+## By Nearly Every Metric, the U.S. Is Losing the Iran War
+“It’s irrefutable that the U.S. failed in its main strategic goals,” one expert said.
+
+## Sweden’s Right-Wing Reckoning
+What was expected to be an easy election win resulted in a narrow victory for the left.
 
 ## The Lives Built on Colombia’s Peace Deal Are at Risk
 The new president is unsettling the combatants who laid down their arms a decade ago.
@@ -146,15 +155,6 @@ German far-right populism traces back to reunification—but historians disagree
 
 ## Modi and Xi’s Meeting Caps a Detente
 Despite the thaw, India-China rivalry remains inevitable.
-
-## The EU’s 28th State?
-European Commission President Ursula von der Leyen floats making Canada the bloc’s first associate member.
-
-## The Fed Bucks Trump and Raises Interest Rates
-War-fueled inflation remains too high, the U.S. central bank said, requiring the first hike in three years.
-
-## What’s Behind Nigeria’s Military Spending Spree
-Ahead of January elections, Bola Tinubu is pulling out all the stops to stem insecurity.
 
 ## The Potential Mismatch Between Japan and the US on China
 Ahead of the Trump-Xi summit, it is critical for Japan that the United States stays on the same page regarding the challenge from China.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russia’s plans may include strikes against Ukraine’s allies, Poland says
-Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border.
+## Russia election: Could other parties challenge United Russia?
+Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
 
-## Ilhan Omar attacker sentenced to more than a year in prison
-The assailant sprayed vinegar at Ilhan Omar, admitting political motives were behind the assault at a townhall.
+## Trinidad and Tobago ends state of emergency amid pushback over mass arrests
+Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.
 
-## Four bodies found in Nepal tunnel as flood search continues
-Rescuers in Nepal have recovered four bodies from a flooded hydropower tunnel in Chilime.
+## US judge orders 30-day notice prior to any Kennedy Center physical changes
+The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.
 
-## Houthi leader denies targeting Mecca, vows to protect holy city
-Houthi leader Abdul Malik al-Houthi pledges to defend Mecca and other Islamic holy sites.
+## Trump administration approves sale of F-35 jets to Saudi Arabia
+The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.
 
-## Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace
-Investigation finds no evidence of Russia's claims that Ukrainian attacks hit the nuclear power plant.
+## Yemenis recount journey to Djibouti as refugee arrivals surge
+Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.
 
-## Third person dies from malaria in cluster near Germany’s Frankfurt Airport
-Frankfurt grapples with a rare malaria outbreak tied to air travel, marking three deaths in recent months.
+## US approves visas for top Iranian leaders to attend UN General Assembly
+Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.
 
-## Serbia opens factory to assemble Israeli-made drones
-Critics say Serbia's military ties with Israel are rising significantly.
+## Pennsylvania seeks CDC help amid dispute over US measles deaths
+The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.
 
-## Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home
-Dozens of Israelis protested outside 'NAZA' filmmaker’s family home, chanting 'death to traitors'
+## Russia, China veto UN mandate to monitor Iran sanctions
+Move ends the Security Council’s watchdog panel on Iran sanctions.
 
 ## Tata Sons approves five-year extension for N Chandrasekaran to prepare for IPO
 The Tata Sons board has approved N Chandrasekaran’s reappointment as executive chairman for another five-year term and initiated steps towards listing the group holding company, according to people familiar with the matter.
