@@ -1,115 +1,121 @@
 # AION Intelligence
 
-## Takaichi reshuffles cabinet in signal of confidence
-Prime minister retains key allies in face of pressure from bond markets and US Treasury secretary Scott Bessent
+## Bank of England says rates likely to rise as it overhauls gilt sales
+BoE holds rates at 3.75% but signals higher borrowing costs are likely
 
-## Getting to know Mr Warsh
-A clearer reaction function is a fine substitute for forward guidance
+## Turkish authorities rush to stem fallout from stock-market scandal
+Funds frozen or liquidated and 38 people referred to prosecutors as regulators move to restore calm
 
-## HSBC axes $38,000 school fee perk for new Hong Kong bankers
-Longstanding subsidy had been used to attract senior staff to Asian financial hub
+## Mega-donors obscure the wider threats to British democracy
+There are reasons to feel queasy about Reform’s donations but there is also a huge whiff of hypocrisy in other parties complaining
 
-## Von der Leyen advances EU defence pitch with army of new ideas
-Also in this newsletter: Brussels objects to China-backed purchase of Anglo American’s Brazilian nickel
+## Is Britain’s migration debate asking the wrong question?
+The Piddington protests illustrate that humanitarian immigration is harder to manage than visa policies designed to benefit the economy
 
-## FirstFT: How AI is transforming warfare
-Also in today’s newsletter: Fed defies Trump and Europe’s potato shortage
+## Live Q&A: What does UK business need from the Budget?
+Submit your questions to John Gapper, the FT’s chief UK business columnist in our latest Ask an Expert Q&A
 
-## US rate rise jolts yen ahead of Bank of Japan meeting
-Fed increase adds to pressure on central bank to tighten monetary policy
+## Revolut planning dual listing in New York and London, says Storonsky
+Fintech’s chief executive says US market offers greater liquidity and more institutional investors
 
-## Trump fails to bend the Fed to his will
-Kevin Warsh leads the US central bank to its first rate rise since 2023 less than four months into the job
+## UK lenders raise mortgage rates as inflation fears intensify
+Banks and building societies have added to recent rate increases across their-fixed rate home loans under market pressure
 
-## The private equity hand rolling up the Algarve
-London lawyer Neel Sachdev’s side quest exemplifies the transformation of Big Law
+## European carmakers warn EU-UK tariffs could be ‘catastrophic’
+Industry argues that stricter rules of origin should be delayed to allow more time for supply chains to be established
 
-## Either Meta Glasses are selling extremely well or this Citi survey might have some issues
-Alternate virtual realities
+## Bolt to launch 25,000 robotaxis in Europe with Lucid
+Rollout would be most ambitious plan yet for autonomous ride-hailing on the continent
 
-## Moonshot capitalism
-The start-ups attracting billions of dollars in funding as they pursue long-shot breakthroughs with the potential to transform the way we live
+## Tata board agrees listing and extends chair’s term at contested meeting
+Vote by Tata Sons directors immediately challenged by family scion as battle for control intensifies
 
-## Vue explores London IPO as cinemas emerge from ‘six years of hell’
-Owners of European cinema chain look to capitalise on blockbuster summer with £1.5bn listing
+## Lax Deutsche Bank controls enabled banker to embezzle €600,000, court finds
+Former private banker at flagship branch handed two-year suspended sentence
 
-## Gore downplays AI threats and touts its climate potential
-Former US vice-president argues in favour of technology to help with green progress
+## There is no ‘one size fits all’ solution for the energy transition
+A report recognises the different perspectives between advanced and developing countries
 
-## EU asks China to voluntarily limit car exports
-Brussels wants Beijing to restrict sales of Chinese hybrid vehicles to around 15% of the EU market
+## Greenbase to expand in Chennai with ₹2,000 crore investment in industrial parks
+Hiranandani Group’s Greenbase is developing a 55-acre park at Arani, near Red Hills, with about 1.2 million sq ft of space, with an anchor client identified in the renewable energy space
 
-## 'Architects of 9/11 were not hiding in caves': India tells UNSC in scathing attack at Pakistan
+## CropLife seeks 5-year data protection to widen farmers’ access to new pesticides
+Argues that it would encourage companies to bring newer molecules to India and widen the range of pest-control options available to farmers
 
+## Maharashtra deploys AI to detect power theft, flags 28,000 cases in 3 months
+The utility deployed more than 190 flying squads after its AI and machine learning module identified unusual electricity consumption patterns.
 
-## EQT plans $50 billion India investment, including Adani Connex
-The bulk of the buyout firm’s investments — around $30 billion — will be in data centers, with another $5 billion devoted to renewable energy to power them, according to Jean Salata, chair of Stockholm-based EQT.
+## What does BSE’s outperformance of other listed exchange players mean for NSE IPO
+Strong demand for exchange stocks from Indian investors is positive for NSE post-listing, but similar stellar returns cannot be anticipated
 
-## Sensex today | Stock Market Live: Sensex, Nifty hold firm; IT stocks under pressure, NSE IPO in focus
-Sensex, Nifty, Share Prices LIVE: Around 12 noon, Sensex was up 164.69 pts or 0.22%, trading at 74,501.14. Nifty 50 rose 91.35 pts or 0.39% to 23,308.95.
+## BEE chief calls for speedy adoption of energy efficiency measures by MSMEs
+Energy efficiency not to be seen as compliance requirement, but as pathway to global competitiveness, says BEE chief Krushna Chandra Panigrahy
 
-## NSE IPO Day 1 Live: Mega IPO subscribed 23% by noon, retail demand at 0.26 times
+## Tata Sons board-room battle: Stalemate allowed chairman to vote on his own reappointment
+With only Venu Srinivasan and Noel Tata as nominees on the Tata Sons board representing opposing sides, the expectation was of a stalemate during the voting for the reappointment of N. Chandrasekaran as Chairman
+
+## KDEM to host Mangaluru Technovanza on Sept 22-23
+The two-day event will explore innovation, investment, skills, global partnerships and sustainable urban development in Mangaluru’s technology ecosystem
+
+## NSE IPO Day 1 Highlights: Mega IPO subscribed 42%
 NSE IPO GMP Day 1 live updates: NSE IPO, Check GMP, issue details & subscription status | Scroll down for more
 
-## HDFC Bank shares dip below ₹716; Stock hits day low
-The stock ended at ₹721.50 on Wednesday and moderated between ₹713.10 and ₹719.05 during Thursday’s session
+## NSE IPO subscription status: National Stock Exchange’s offer gets subscribed 42% on its first day
+IPO subscriptions often gain pace in the later stages of the bidding period. The NSE issue will remain open until September 21, with the listing scheduled for September 24.
 
-## SEMICON India 2026: India’s semiconductor manufacturing journey a measured, calibrated programme: Vaishnaw
-Companies like Micron, Infineon Technologies gear up for more expansions in India
+## Big battle breaks out: Tata Trusts call reappointment of Chandrasekaran as chairman 'illegal'
+Tata Trusts has declared N Chandrasekaran's reappointment as Tata Sons chairman illegal. The Trusts argue the board resolution is a legal nullity due to Noel Tata's opposition. This dispute arises after the RBI rejected Tata Sons' bid to surrender its core investment company status. The Tata Sons bo
 
-## Giredmet inks pact with Alt Metals for titanium sponge pilot production unit
-The pact, signed at the Innoprom India exhibition in New Delhi last week, aims to develop cooperation between Russian and Indian specialists in the field of deep processing of mineral raw materials
+## 'Implications for ties': How India, Russia & China reacted to US sanctions Bill
+A new US sanctions bill allows tariffs on countries buying Russian energy. India prioritizes energy security and economic interests while monitoring developments. Russia criticizes the sanctions, stating they could hinder Ukraine peace efforts. China rejects US "long-arm jurisdiction" over its trade
 
-## Vinsmera Jewels eyes pan-India expansion with 40 new outlets by 2031
-The group also aims to expand its existing five branches across Abu Dhabi, Dubai, and Sharjah and scale up their manufacturing and wholesale facilities in the UAE
+## Fortis moves Supreme Court against Delhi High Court order
+Fortis Healthcare has appealed to the Supreme Court against a recent Delhi High Court order. The order mandated a forensic audit of Fortis's dealings with IHH Healthcare and RHT Health Trust. This legal battle stems from Daiichi Sankyo's efforts to enforce an arbitral award against former promoters.
 
-## Gold hallmarking costlier: Fee up 67% ahead of festive season; new charges explained
-A hallmarked article carries three key markings: the BIS logo, the karat or millesimal fineness and a six-digit alphanumeric Hallmark Unique Identification (HUID) number.
+## EPFO raises wage ceiling rises to Rs 25,000: What has changed and will your take home pay salary come down?
+The exact impact will vary depending on factors such as PF wages, previous PF and pension membership, and whether the employer currently contributes only up to the statutory ceiling or on actual wages.
 
-## Sensex falls 9 points, Nifty rises 37 points in late-morning trade
+## NSE IPO: SEBI chief says no proposal from NSE seeking approval for trading on its own platform
+Since the issue is an OFS, NSE itself will not get any of the funds raised. After deducting issue expenses, the proceeds will go to the shareholders selling their shares.
 
+## Tata Sons reverses course, reappoints Chandrasekaran as chairman for another 5 yrs
+The Tata Sons board has approved a fresh five-year term for N Chandrasekaran as executive chairman. This decision reverses his earlier stance not to seek reappointment for the leadership role. The reappointment was approved at a board meeting held in Mumbai on Thursday. Chandrasekaran's current five
 
-## Global oil prices drop 1.2% as Saudi seeks alternate routes after pipeline attack
+## Gold, silver price prediction: Will gold, silver continue to fall? Check outlook on September 17, 2026
+MCX Gold is likely to remain under pressure in the near term, with prices continuing to trade lower on a weekly basis and pointing to a sideways to bearish setup.
 
+## Tripura court sentences 5 Bangladeshi nationals to 2 years for illegal entry
+A court in Tripura’s Unakoti district sentenced five Bangladeshi nationals, including a couple, to two years in jail for illegally entering India in two separate cases.
 
-## Top stocks to buy today: Stock recommendations for September 17, 2026 - check list
-Top stock market recommendations: Aegis Logistics, Aarti Pharmalabs, and Just Dial - are the top stocks to buy recommended by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth for September 17, 2026.
+## Bharatpe backs UPI MDR charges, says Ashneer Grover's criticism not company's view: ‘No ties with him since 2024’
+Bharatpe clarified that former CEO Ashneer Grover's views on the MDR charges do not represent the position of the firm and are in his personal capacity.
 
-## 100% Trump tariffs loom: Russia sanctions bill passed in US; will it make India stop buying crude from Moscow?
-Will Donald Trump impose 100% tariffs on India for its Russian crude oil buys? What will that mean for India’s exports to the US and its energy security situation amid the Middle East conflict?
+## Italy's Giorgia Meloni wishes PM Modi on his 76th birthday: ‘I wish you health, energy and success’
+Meloni wished PM Modi on his 76th birthday, expressing hope for his health, energy and success, while praising India-Italy ties.
 
-## Kremer picked as World Bank's chief economist
+## 'Unacceptable at any cost': Delhi HC raps student unions on violence, vandalism amid DUSU poll campaign
+The court directed the University of Delhi and the Delhi Police to file reports detailing the action taken in connection with the alleged incidents.
 
+## Army sepoy dies after gunshot injury at Pune’s NDA, probe underway
+A 46-year-old Army sepoy died days after sustaining a gunshot injury at a security post inside Pune’s National Defence Academy. Police are probing the circumstances.
 
-## Busy Thursday: 6 listings & a mega IPO
+## Why Health Ministry has proposed CCTV surveillance at medical stores for prescription drugs
+The proposed amendment is intended to prevent the unauthorised access to and sale of Schedule H, H1 and X drugs without valid prescriptions.
 
+## HT Evening Brief Sept 17: Tata Sons' U-turn on Chandrasekaran; Pakistan's hockey venue row
+US House passed a Russia sanctions bill. Meanwhile, Tata Sons, Shehzaad Poonawala, Travis Kelce and the Asian Champions Trophy also made headlines.
 
-## RBI's FAQs keep Tata Sons boxed
-Holdco's Upper Layer NBFC Tag Anchored In Three Provisions In Explainer
+## Kannur University professor gets 6 years in jail for fake appointment
+Varsity asst prof sentenced to 6 years' jail term for financial irregularities
 
-## Cyclone over Odisha soon? Amid developing low-pressure, IMD says do not panic
-The IMD said while a low-pressure system may bring heavy rainfall, no cyclone over Odisha has been forecast yet.
+## Hong Kong property market gets reprieve on rates, but position remains precarious
+Hong Kong’s property market dodged an immediate hit from the Federal Reserve’s rate hike on Thursday as major local banks kept their prime rates unchanged, but another increase could puncture the market’s relatively fragile recovery, according to industry insiders. The Fed raised its benchmark rate 
 
-## Odisha man beaten to death; set afire after fight at girlfriend’s home: Police
-Police were examining whether the murder was pre-planned, including how the petrol was procured and used to burn the body
+## Fed rate hike risks worsening China’s economic divide
+The US Federal Reserve raised interest rates for the first time in three years in an effort to quell inflation partly caused by the war on Iran helping to drive up fuel prices. Policymakers voted unanimously on Wednesday to lift rates by 25 basis points to between 3.75 and 4.00 per cent. Sixteen of 
 
-## ‘One more piece of evidence’: PM Modi hails BRICS New Delhi Declaration, global credibility
-Narendra Modi said that that hosting SEMICON India amid BRICS achievements marked another significant milestone for the country.
-
-## 'What kind of language': Congress slams US senator's warning to India over Russian oil
-The remark by US senator, who took a stern tone against countries buying oil from Russia, did not go down well with Congress.
-
-## India races to ship iPhone 18 Pro, Pro Max ahead of global launch; chartered flights depart: Report
-Apple is increasing manufacturing capabilities for the two premium models as it prepares to supply markets in the US and elsewhere from the first day of sales.
-
-## ED raids locations in four states in Ranchi RSS office bomb attack case
-Unknown persons had hurled petrol bombs at RSS office under the Chutia police station area of Ranchi on June 16/17 night
-
-## TN CM Vijay's UK tour secures ₹15,300 crore investments
-TN CM Vijay's UK tour secures ₹15,300 crore investments
-
-## PDA Yatra: Akhilesh to begin statewide campaign next month ahead of 2027 poll
-The yatra is themed around the SP’s formula of consolidating backward, Dalit, and Muslim, or pichhda, Dalit and alpsankhyak voters
+## Who’s in control of Japanese monetary policy? Tokyo or Washington?
+Before the unexpected intervention in Japan’s foreign exchange market by the US Treasury Department on July 31 – the first time both countries joined forces to support the yen via outright purchases since 1998 – the probability of the Bank of Japan raising interest rates at its policy meeting on Sep
 
 ## How Hong Kong’s new 5-year plan courts global capital with an eye on market dominance
 Hong Kong is broadening its equity markets, deepening its offshore yuan business and expanding further into gold trading under its first five-year plan for economic and social development, as the city seeks to defend its standing as Asia’s top financial centre and close the gap with London. Unveiled
@@ -121,19 +127,13 @@ Huawei Technologies said on Thursday that it would launch its next-generation ar
 Hong Kong’s Exchange Fund, the war chest used to defend the local currency, is considering increasing its exposure to gold and other precious metals as part of the government’s push to develop the city into a gold trading hub. Hong Kong Monetary Authority (HKMA) chief executive Eddie Yue Wai-man sai
 
 ## Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off
-Hong Kong aims to adjust listing rules to grab a share of initial public offerings (IPOs) by mainland China’s space companies as activity in the sector increases in line with Beijing’s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk’s SpaceX. That
+Hong Kong aims to adjust listing rules to grab a share of initial public offerings by mainland China’s space companies, in line with Beijing’s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk’s SpaceX. That could lead to more head-to-head competiti
 
 ## Hong Kong stocks decline after Fed raises interest rates and signals more to come
-Stocks in Hong Kong and mainland China fell on Thursday, after the US Federal Reserve raised interest rates for the first time in three years and signalled that further tightening remained on the table. The benchmark Hang Seng Index fell 1 per cent to 24,470.74 as of 10.37am local time. The Hang Sen
+Stocks in Hong Kong and mainland China fell on Thursday, after the US Federal Reserve raised interest rates for the first time in three years and signalled that further tightening remained on the table. The benchmark Hang Seng Index dropped 0.4 per cent to 24,604.29 at the close. The Hang Seng Tech 
 
-## Gold rebounds after Fed rate rise as banks back long-term demand outlook
-Gold prices bounced back after the US Federal Reserve’s interest rate increase, as analysts and investment banks maintained a positive long-term outlook for the metal, citing structural challenges facing the world’s largest economy. Spot gold traded at US$4,288 an ounce on Thursday morning in Asia, 
-
-## US rate increase should only have short-term impact on Hong Kong stocks: CICC
-Hong Kong stocks could face greater volatility from renewed US monetary tightening, but the impact should be short-lived unless the Federal Reserve embarks on a sustained rate-increase cycle, according to China International Capital Corporation (CICC). The Fed rate increase would not necessarily spe
-
-## Hong Kong dollar may weaken after rate rise, but bad-debt risks remain low: HKMA
-The Hong Kong dollar may come under pressure against the US dollar after the first interest rate rise in three years, but the city does not face a heightened bad-debt risk despite higher borrowing costs, according to the head of the de facto central bank. Hong Kong Monetary Authority (HKMA) chief ex
+## What’s the Matter With Eastern Germany?
+German far-right populism traces back to reunification—but historians disagree about why.
 
 ## Modi and Xi’s Meeting Caps a Detente
 Despite the thaw, India-China rivalry remains inevitable.
@@ -156,8 +156,14 @@ The MAGA movement has been a source of hope and headaches for Myanmar’s Christ
 ## Georgia’s Government Is Using Civility as an Excuse to Crush Critics
 New policies against online “vulgarity” target free speech.
 
-## Why Existential AI Fears Have Hit a Crescendo
-And the complicated geopolitics of slowing down the technology’s development.
+## Indian, Pakistani Naval Vessels Collide in Arabian Sea, Prompting Diplomatic Tensions
+This is the first time since the May 2025 military clashes that tension between the two sides has erupted into the open.
+
+## Who Is to Blame for the Massive Death Toll in the Nepal Floods?
+The problem wasn’t China or a lack of data; it was Nepal’s lack of follow-through.
+
+## Malaysian PM Offers to Host Myanmar’s President in Refugee Repatriation Push
+The country would be the fifth member of ASEAN to roll out of the red carpet for Min Aung Hlaing since his inauguration as president in April.
 
 ## Kazakhstan Again Sentences Activists for Supposed Attempt to Seize Power
 Human rights organizations are speaking out after five Kazakh activists were convicted for an alleged plan to seize the presidential residence in Astana.
@@ -174,14 +180,11 @@ Xi and Putin in Delhi made the headlines. The declaration tells the real story o
 ## Underwater Autonomy in the China-US Naval Race
 Insights from Verineia Codrean.
 
-## China’s Free-Trade Offer to Africa Won’t Solve the Trade Imbalance
-Beijing has opened its enormous market to African exports. Whether that helps the continent move up global value chains is another question.
+## An Army General Talks Fusing Sensors and Shooters on the Eastern Flank
+This exclusive Cogs of War interview is with Brig. Gen. Steven P. Carpenter, the commanding general of Multi-Domain Command – Europe, the U.S. Army’s first multi-domain operations command, headquartered at Clay Kaserne in Mainz-Kastel, Germany. Multi-Domain Command – Europe serves as the premier mul
 
-## Will Southeast Asia Actually Benefit From Its AI Boom?
-Southeast Asia might end up hosting substantial computing capacity without developing a correspondingly deep AI economy.
-
-## South Korea Embraces the Silk Road Spirit With Central Asian Leaders
-In the first Central Asia-South Korea leaders summit, energy and critical minerals were top of the agenda.
+## The Real U.S.-Saudi Nuclear Deal Is Better Than We Thought
+On Aug. 24, 2026, the Trump administration transmitted the text of the U.S.-Saudi nuclear cooperation agreement to Congress. By doing so, the administration triggered the 90-day congressional review process described in the Atomic Energy Act and relaunched a debate about the right approach to intern
 
 ## Would NATO Membership for Ukraine Undermine Article 5 Itself?
 In 2025, Jennifer Kavanaugh and Christopher McCallion wrote, “Armed Neutrality for Ukraine Is NATO’s Least Poor Option,” where they made the case for armed neutrality over full NATO membership as the wiser course for both Ukraine and NATO. A year later, we asked them to revisit their arguments. Imag
@@ -200,12 +203,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## This Is Not Your Father’s Nuclear Flight Test Vehicle
 For decades, the United States’ nuclear weapons enterprise has wrestled with an institutional paradox. On one hand is the imperative to make the complex more “responsive” to global tumult and technical surprise, able to field new weapons quickly in reaction to unanticipated threats. On the other are
-
-## The Big Bet on the Emerging Space Economy
-The space economy has surpassed $600 billion in annual value, with some projecting it will reach a trillion by the 2030s. Jonathan Panter is joined by Joseph Yaffe (Cowboy Space), Brian Weeden (The Aerospace Corporation), and Dan Wald (Booz Allen) to weigh where the real growth is. They discuss how 
-
-## The Age of Strategic Exclusion
-Major powers are increasingly trying to shut out their rivals. Russia invaded Ukraine in part to prevent the latter’s further integration with the West. The United States is restricting China’s access to advanced semiconductors and encouraging allies to do the same. China’s Belt and Road Initiative 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +228,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## OpenAI reports more incidents of models acting deceptively
-The ChatGPT creator says it is introducing a public reporting framework to share unexpected AI behaviour.
+## LIVE: India vs Afghanistan – T20 international cricket series
+Follow the live build-up and coverage, with toss, team lineups and news, ahead of our text commentary steam updates.
 
-## What are the biggest AI companies and how much are they worth?
-As AI firms push for greater controls on the industry, Al Jazeera unpacks the value of the main companies in the sector.
+## What’s the Asian Games accommodation crisis, and where will athletes stay?
+In a cost-cutting move, Japan decided against setting up a dedicated athletes' village but now faces a backlash.
 
-## Argentinian judge orders suspension of Falklands oil project
-The symbolic move comes as Argentina escalates its claim over the British-administered territory.
+## Climate change had major role in triggering Nepal floods, scientists say
+The combined toll from the deadly incident now stands at 1,446 people dead and at least 6,669 missing.
 
-## Trump threatens to end trade with Mexico and Europe after rate hike
-US President Donald Trump had tried to pressure the Fed to lower rates, but it voted unanimously to raise them instead.
+## India to impose controversial fee for UPI instant payments: Who benefits?
+It's the end of an era for India's popular instant digital payments system, which has been free of charge until now.
 
-## Can AI regulation keep America ahead of China?
-As Washington debates how to regulate AI, industry experts say that governance doesn’t have to mean hitting the brakes.
+## Gaza repairman helps journalists to keep documenting genocide
+As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.
 
-## US bars Palestinian president from attending UNGA for second year
-The United States has declined to grant visas to Palestinian President Mahmoud Abbas.
+## Why is inflation rising again around the world?
+Rising energy prices are pushing inflation higher again, forcing major central banks to raise interest rates.
 
-## US extends visa ban on Palestinian officials before UN General Assembly
-Palestinian President Mahmoud Abbas is among those barred for the second year in a row.
+## Trump claims direct talks with Iran: Is diplomacy picking up again?
+The US president says Washington is 'hopefully toward the end' of Iran war, as global energy prices remain high.
 
-## Yemeni forces target Houthis as US rules out direct role
-Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle.
+## Lebanon security talks in Paris to focus on post-UNIFIL alternatives
+The security talks come as Israeli forces continue attacks across southern Lebanon despite a "ceasefire".
+
+## Tata Sons approves five-year extension for N Chandrasekaran to prepare for IPO
+The Tata Sons board has approved N Chandrasekaran’s reappointment as executive chairman for another five-year term and initiated steps towards listing the group holding company, according to people familiar with the matter.
+
+## Corporate Laws Bill: JPC seeks NFRA jail rollback as dissent flags fresh criminal liabilities
+Panel wants imprisonment removed for failure to comply with NFRA orders or pay penalties while retaining criminal fine; dissent note raises wider concerns over new criminal consequences in a Bill aimed at decriminalisation.
 
 ## IBBI’s personal guarantor fix may need IBC amendment, not just regulations: Experts
 The Insolvency and Bankruptcy Board of India’s proposals to strengthen safeguards in the insolvency resolution process for personal guarantors to corporate debtors seek to address long-standing gaps in the framework, but some of the proposed changes may require amendments to the Insolvency and Bankr
@@ -273,11 +276,14 @@ Gulf Oil Lubricants is targeting double-digit volume growth by continuing to gro
 ## Tata Sons may be valued up to ₹12.5 lakh cr in IPO
 Tata Sons' potential IPO valuation is estimated between ₹9-12.5 lakh crore., reflecting a discount on its underlying portfolio worth ₹15-16 lakh crore. Investors will price listed stakes and unlisted businesses, applying a holding company discount. The Reserve Bank of India rejected Tata Sons' plea 
 
-## India Inc's apprenticeship participation remains limited to 30%
-Only thirty percent of registered establishments actively provide apprenticeship training. Administrative issues and stipend payment delays hinder wider participation in the scheme. Government data shows a dip in dropout rates, which is expected to boost apprentice numbers. While registration trends
+## SEBI's F&O expiry settlement changes could address key CAS concerns; deeper cash market reforms needed: Kotak
+The Securities and Exchange Board of India's (SEBI) proposed changes to the settlement of futures and options (F&O) contracts could address a key concern over the reliance on the Closing Auction Session (CAS) to determine expiry prices, but deeper cash-market participation will be needed to make the
 
-## India Inc needs to rethink the cost of capital
-Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
+## NSE IPO: SEBI chief says no proposal from National Stock Exchange seeking approval for trading on its own platform
+Since the issue is an OFS, NSE itself will not get any of the funds raised. After deducting issue expenses, the proceeds will go to the shareholders selling their shares.
+
+## 295% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.95 lakh
+Sovereign Gold Bond: The Reserve Bank of India has revealed the early redemption price for a gold bond series known as SGB 2019-20 Series IV. Starting from September 17, 2026, investors are eligible to redeem this bond after five years. The redemption price will be determined based on the average go
 
 ## 100% tariffs on India? US House passes bill authorising new duties on Russia oil buyers
 The US House of Representatives has passed legislation authorising President Donald Trump to impose tariffs of up to 100% on India, China and other countries buying Russian oil and gas. The bill, which also targets Russia’s leadership, energy sector and shadow fleet, now goes to Trump for his signat
@@ -293,13 +299,4 @@ The US House of Representatives advanced a bill authorising President Donald Tru
 
 ## India's proposals to revamp derivatives settlement could alleviate expiry-day volatility, analysts say
 India's market regulator has unveiled a plan to modify the derivatives expiry-day settlement rules. These changes are intended to mitigate volatility and bring clarity to the options market. The proposals include two methods for calculating settlement prices: one utilizing trade data from the final 
-
-## RBI absorbs Rs 3.93 lakh cr from banking system via VRRR auction
-The Reserve Bank of India absorbed significant funds through a variable rate reverse repo auction. This action aimed to manage the banking system's substantial surplus liquidity effectively. The central bank also announced open market operation sales of government securities. These measures address 
-
-## India's Tata shares jump as RBI decision revives holding firm's listing prospects
-Tata Group company shares jumped Tuesday after the central bank rejected Tata Sons' deregistration application. This decision revived prospects for a stock market listing of the holding firm. Tata Chemicals shares rose twenty percent, and Tata Motors saw a gain. Tata Investment and Tata Consultancy 
-
-## Senate Republicans sweeten crypto bill with new Trump-backed ethics rules ahead of crunch vote
-US Senate Republicans have released a revised Clarity Act cryptocurrency bill. New ethics language, agreed upon by President Donald Trump, has been added. This updated text aims to address concerns about potential conflicts of interest. The bill now includes consumer protections and developer safegu
 
