@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## OpenAI staff knew the ‘existential threat’ AI posed to publishers, New York Times claims
+Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content
+
+## Trump administration approves $24bn sale of F-35 jets to Saudi Arabia
+Deal is a win for Riyadh while it is embroiled in a regional crisis triggered by the Iran war
+
+## US regulator opens markets to tokenised stock trading
+Blockchain-based representations of traditional equities can be traded around-the-clock and more easily used as collateral
+
+## Hispanic voters feel ‘betrayed’ by Trump, top Republican says
+Florida lawmaker María Elvira Salazar rebukes president in TV ad for heavy-handed immigration policies
+
+## Sun, stats and suspicious productivity
+UK workers are better and more offline than previously thought
+
 ## Addison Lee founder loses £20mn tax battle over ‘non-dom’ status
 John Griffin cited his deep emotional attachment to Ireland despite having started minicab service in Britain in 1975
 
@@ -12,26 +27,14 @@ Economic reforms and broader alliances are Canada’s best response to Trump’s
 ## Rising rates throw a spanner in investment bankers’ spreadsheets
 When the cost of capital goes up, the value of a company theoretically goes down. Share prices tell a different story
 
-## Accelerationism will only slow AI’s progress
+## Going faster will only slow AI down
 Without stronger safeguards, the danger is that any disaster could trigger a furious public backlash and regulatory overreaction
-
-## Bank of England says rates likely to rise as it overhauls gilt sales
-BoE holds rates at 3.75% but signals higher borrowing costs are likely
 
 ## Workers at Diageo’s largest distillery to go on strike as demand slumps
 Unite union says staff at Cameronbridge in Scotland to walk out in protest against hundreds of planned job cuts in country
 
 ## King Charles raises alarm over AI ahead of Burnham meeting with Trump
 British monarch warns of ‘existential dangers’ in talks with tech titans
-
-## Turmoil at Tata deepens as board reverses executive chair’s exit
-Tata Sons directors also back preparations for blockbuster IPO despite opposition by family scion who heads its biggest shareholder
-
-## Leading Iranian airline cuts flights as US sanctions hit
-Mahan Air suspends several routes to Turkey and Oman as Washington’s campaign of pressure leaves Iranians with increasingly limited travel options
-
-## Bolt to launch 25,000 robotaxis in Europe with Lucid
-Rollout would be most ambitious plan yet for autonomous ride-hailing on the continent
 
 ## Noel Tata tables ₹25,000 cr SP Group share monetisation plan for Tata Sons
 SP Group owns 18% in Tata Sons and is looking at various ways to raise liquidity to repay debt
@@ -129,6 +132,9 @@ Hong Kong’s Exchange Fund, the war chest used to defend the local currency, is
 ## Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off
 Hong Kong aims to adjust listing rules to grab a share of initial public offerings by mainland China’s space companies, in line with Beijing’s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk’s SpaceX. That could lead to more head-to-head competiti
 
+## The Lives Built on Colombia’s Peace Deal Are at Risk
+The new president is unsettling the combatants who laid down their arms a decade ago.
+
 ## How Do You Dismantle a Propaganda Machine?
 Peter Magyar is on a mission to restore Hungarians’ faith in public media.
 
@@ -149,9 +155,6 @@ War-fueled inflation remains too high, the U.S. central bank said, requiring the
 
 ## What’s Behind Nigeria’s Military Spending Spree
 Ahead of January elections, Bola Tinubu is pulling out all the stops to stem insecurity.
-
-## Russia Purges Its Last Anti-War Politicians
-Ahead of the first State Duma elections since the full-scale invasion of Ukraine, few are left to speak for peace.
 
 ## The Potential Mismatch Between Japan and the US on China
 Ahead of the Trump-Xi summit, it is critical for Japan that the United States stays on the same page regarding the challenge from China.
@@ -177,6 +180,9 @@ This is the first time since the May 2025 military clashes that tension between 
 ## Who Is to Blame for the Massive Death Toll in the Nepal Floods?
 The problem wasn’t China or a lack of data; it was Nepal’s lack of follow-through.
 
+## Latin America’s Balancing Act: Washington, Beijing, and the Post-Maduro Environment
+The year 2026 has brought sweeping change to Latin America’s relationship with the United States. Following a major military buildup in the Caribbean and strikes against vessels suspected of drug trafficking, U.S. forces captured Venezuelan President Nicolás Maduro on Jan. 3 — unilaterally deposing 
+
 ## A Body Blow? The War on Iran and U.S. Military Readiness
 The war against Iran is putting new strains on U.S. military readiness by consuming munitions and missile defense interceptors, as well as through extended deployments, sustained operational demands, and the diversion of forces and attention from other theaters. Mark Cancian (Center for Strategic an
 
@@ -197,9 +203,6 @@ Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by
 
 ## Three Patrons, Three Clients: The Mecca Alliance No One Owns
 Every alliance contains a struggle over who gets to decide what the alliance is for. The unusual thing about the Mecca Alliance, formally known as the “Mecca Joint Defence Agreement,” is that all three of its members appear to believe they possess something that should give them that privilege: Saud
-
-## Reading the Kremlin’s Mind: Ukrainian Writers Attempt to Understand Putin
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UN fact-finding mission says US committed possible war crimes in Iran
-The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.
+## Russia’s plans may include strikes against Ukraine’s allies, Poland says
+Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border.
 
-## Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends
-Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter.
+## Ilhan Omar attacker sentenced to more than a year in prison
+The assailant sprayed vinegar at Ilhan Omar, admitting political motives were behind the assault at a townhall.
 
-## Five killed as Saudi Arabia and Yemen’s Houthis trade attacks
-Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'.
+## Four bodies found in Nepal tunnel as flood search continues
+Rescuers in Nepal have recovered four bodies from a flooded hydropower tunnel in Chilime.
 
-## Rare Ethiopian manuscript stolen by British forces triggers restitution row
-The Gondar Gospel belonged to the library of Emperor Tewodros but was seized in a battle decades ago.
+## Houthi leader denies targeting Mecca, vows to protect holy city
+Houthi leader Abdul Malik al-Houthi pledges to defend Mecca and other Islamic holy sites.
 
-## Ireland boycotts Eurovision for second year over Israel’s inclusion
-Public broadcaster says country's participation cannot be justified amid 'appalling and ongoing loss of lives in Gaza'.
+## Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace
+Investigation finds no evidence of Russia's claims that Ukrainian attacks hit the nuclear power plant.
 
-## Ninth woman’s body found as South Africa probes series of killings
-All female victims in their 20s and 30s were killed on the outskirts of Johannesburg in the past two months.
+## Third person dies from malaria in cluster near Germany’s Frankfurt Airport
+Frankfurt grapples with a rare malaria outbreak tied to air travel, marking three deaths in recent months.
 
-## ‘Kosovo’s moves towards Israel are the price of aligning with US policy’
-Kosovo's decision to join a US-led Gaza force exposes the pull of its alliance with Washington, according to analysts.
+## Serbia opens factory to assemble Israeli-made drones
+Critics say Serbia's military ties with Israel are rising significantly.
 
-## What are all the sanctions Iran is under?
-Iran has faced a torrent of international sanctions since the 1979 revolution - here's what's in place right now.
+## Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home
+Dozens of Israelis protested outside 'NAZA' filmmaker’s family home, chanting 'death to traitors'
 
 ## Tata Sons approves five-year extension for N Chandrasekaran to prepare for IPO
 The Tata Sons board has approved N Chandrasekaran’s reappointment as executive chairman for another five-year term and initiated steps towards listing the group holding company, according to people familiar with the matter.
