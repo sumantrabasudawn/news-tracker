@@ -1,109 +1,130 @@
 # AION Intelligence
 
-## Trump suggests EU-Canada associate member deal would be ‘hostile act’
-US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved
+## Takaichi reshuffles cabinet in signal of confidence
+Prime minister retains key allies in face of pressure from bond markets and US Treasury secretary Scott Bessent
 
-## Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says
-Kris Singh says market sentiment against data centres had dented flotation
+## Getting to know Mr Warsh
+A clearer reaction function is a fine substitute for forward guidance
 
-## Fed defies Trump with first rate rise since 2023
-President calls for 1% borrowing costs after US central bank signals willingness for further action to cool inflation
+## HSBC axes $38,000 school fee perk for new Hong Kong bankers
+Longstanding subsidy had been used to attract senior staff to Asian financial hub
 
-## UK ministers look at overhauling disability assessments to cut welfare bill
-Sir Stephen Timms is drawing up plans for reform of personal independence payments
+## Von der Leyen advances EU defence pitch with army of new ideas
+Also in this newsletter: Brussels objects to China-backed purchase of Anglo American’s Brazilian nickel
 
-## Cut ‘net zero’ from name of UK net zero department, MPs urge
-Cross-party group says term has become ‘lightning rod for opposition to climate action’
+## FirstFT: How AI is transforming warfare
+Also in today’s newsletter: Fed defies Trump and Europe’s potato shortage
 
-## Breast cancer drug approved after UK pharma deal with Trump
-Medicine previously rejected by watchdog in England on cost grounds will now be available to about 1,000 women a year
+## US rate rise jolts yen ahead of Bank of Japan meeting
+Fed increase adds to pressure on central bank to tighten monetary policy
 
-## LVMH scion Alexandre Arnault appointed to Nike board
-Son of luxury boss Bernard Arnault joins sportswear brand as it attempts turnaround
+## Trump fails to bend the Fed to his will
+Kevin Warsh leads the US central bank to its first rate rise since 2023 less than four months into the job
 
-## US lawmakers pass Russia sanctions bill
-Trump expected to sign measure into law that could impose levies on importers of Moscow’s energy, including US allies
+## The private equity hand rolling up the Algarve
+London lawyer Neel Sachdev’s side quest exemplifies the transformation of Big Law
 
-## Walter and Boehly sell Chelsea FC stakes to Clearlake for £950mn
-Deal to sell 25% of football club helps financiers raise funds as their insurance empires come under scrutiny
+## Either Meta Glasses are selling extremely well or this Citi survey might have some issues
+Alternate virtual realities
 
-## FirstFT: Fed raises rates for first time since 2023
-Also in today’s newsletter: Hong Kong unveils first five-year plan and Chinese oil prices hit record highs
+## Moonshot capitalism
+The start-ups attracting billions of dollars in funding as they pursue long-shot breakthroughs with the potential to transform the way we live
 
-## Hackers demand Revolut pay $3mn ransom after data breach
-Group calling itself iamnotavillain threatens to sell customers’ confidential records to other criminals unless UK fintech pays within 24 hours
+## Vue explores London IPO as cinemas emerge from ‘six years of hell’
+Owners of European cinema chain look to capitalise on blockbuster summer with £1.5bn listing
 
-## Sensex today | Stock Market Live: Stock to buy today: Allied Blenders and Distillers (₹647.60) – BUY
-Sensex, Nifty, Share Prices LIVE: The short-term outlook for Allied Blenders and Distillers is bullish. The stock is moving up after forming a strong base around ₹580 over the last two months. Immediate support is in the ₹ 625-₹ 630 region. Below that, the ₹610-₹600 region is the next strong support
+## Gore downplays AI threats and touts its climate potential
+Former US vice-president argues in favour of technology to help with green progress
 
-## Trump criticises Fed chief Kevin Warsh after US interest rate hike
-The latest clash follows a quarter-point increase, with policymakers pointing to persistent inflation while the White House has pushed for lower borrowing costs
+## EU asks China to voluntarily limit car exports
+Brussels wants Beijing to restrict sales of Chinese hybrid vehicles to around 15% of the EU market
 
-## US House passes Russia sanctions bill targeting countries buying Russian oil
-The legislation gives the US President wide discretion over penalties on countries including India, China and Turkey, as Washington seeks to increase economic pressure on Russia
-
-## Moon crater bigger than Roman Colosseum discovered by NASA spacecraft
-NASA’s Lunar Reconnaissance Orbiter identified the newly formed feature in archived images, revealing an unusually large event missed by telescopes
-
-## Trump calls Canada-EU plan a ‘hostile act’, threatens tariffs on Europe
-The US President linked any response to the intentions of European leaders, while suggesting Washington could restrict trade in certain areas.
-
-## Fed raises rates by 25 basis points, signals one more hike this year
-Federal Reserve officials expect one more rate hike this year and steady rates in 2027, while raising inflation forecasts and maintaining growth outlooks.
-
-## Adidas cuts technology roles in India to simplify operations
-Adidas has reduced roles in its India technology team as part of efforts to simplify operations, with the impact below 20% of the organisation.
-
-## Government cuts export levies on petrol, diesel and ATF for next fortnight
-The revised levies follow a fortnightly review based on average international prices of crude oil, petrol, diesel and ATF.
-
-## NZ parliament gives nod to FTA, rollout likely in Oct
+## 'Architects of 9/11 were not hiding in caves': India tells UNSC in scathing attack at Pakistan
 
 
-## After Senate, US House passes Russia sanctions bill; 100% tariff threat looms for India
-The US House has successfully passed a sanctions bill aimed at Russian officials and the energy sector. This new legislation empowers President Trump to impose tariffs on significant buyers of Russian oil. India might encounter a staggering 100 percent tariff on its imports due to its energy dealing
+## EQT plans $50 billion India investment, including Adani Connex
+The bulk of the buyout firm’s investments — around $30 billion — will be in data centers, with another $5 billion devoted to renewable energy to power them, according to Jean Salata, chair of Stockholm-based EQT.
 
-## ‘We're the best credit’: Trump calls for lower US interest rates after first Fed hike in 3 years
-The Federal Reserve has set a new target range by increasing its benchmark interest rate, marking its first hike since 2023. President Donald Trump has called for a substantial reduction in interest rates, advocating for lower borrowing costs given the country's robust credit status. However, offici
+## Sensex today | Stock Market Live: Sensex, Nifty hold firm; IT stocks under pressure, NSE IPO in focus
+Sensex, Nifty, Share Prices LIVE: Around 12 noon, Sensex was up 164.69 pts or 0.22%, trading at 74,501.14. Nifty 50 rose 91.35 pts or 0.39% to 23,308.95.
 
-## Trade row escalates: Trump signs memorandum to block Canadian goods from US federal procurement
+## NSE IPO Day 1 Live: Mega IPO subscribed 23% by noon, retail demand at 0.26 times
+NSE IPO GMP Day 1 live updates: NSE IPO, Check GMP, issue details & subscription status | Scroll down for more
+
+## HDFC Bank shares dip below ₹716; Stock hits day low
+The stock ended at ₹721.50 on Wednesday and moderated between ₹713.10 and ₹719.05 during Thursday’s session
+
+## SEMICON India 2026: India’s semiconductor manufacturing journey a measured, calibrated programme: Vaishnaw
+Companies like Micron, Infineon Technologies gear up for more expansions in India
+
+## Giredmet inks pact with Alt Metals for titanium sponge pilot production unit
+The pact, signed at the Innoprom India exhibition in New Delhi last week, aims to develop cooperation between Russian and Indian specialists in the field of deep processing of mineral raw materials
+
+## Vinsmera Jewels eyes pan-India expansion with 40 new outlets by 2031
+The group also aims to expand its existing five branches across Abu Dhabi, Dubai, and Sharjah and scale up their manufacturing and wholesale facilities in the UAE
+
+## Gold hallmarking costlier: Fee up 67% ahead of festive season; new charges explained
+A hallmarked article carries three key markings: the BIS logo, the karat or millesimal fineness and a six-digit alphanumeric Hallmark Unique Identification (HUID) number.
+
+## Sensex falls 9 points, Nifty rises 37 points in late-morning trade
 
 
-## US Federal Reserve chair Kevin Warsh-led FOMC hikes interest rate to 3.75-4% range; first time since 2023
-The US Federal Reserve's hike decision comes on the back of persistent inflation and a broader increase in global borrowing costs. Inflation has remained stubbornly elevated, while borrowing costs around the world have moved higher.
+## Global oil prices drop 1.2% as Saudi seeks alternate routes after pipeline attack
 
-## Govt lowers export levies on petrol, diesel and aviation turbine fuel amid fortnightly review
-India's government has reduced export levies on petrol, diesel, and aviation fuel. The revised rates for these petroleum products took effect from September sixteenth. Export duty on petrol decreased by one rupee to zero point five rupees per litre. Diesel export levies were lowered by five rupees t
 
-## At board meet, Noel to push to keep Tata Sons private
-Wants To Comply With RBI Order, But Sans Listing
+## Top stocks to buy today: Stock recommendations for September 17, 2026 - check list
+Top stock market recommendations: Aegis Logistics, Aarti Pharmalabs, and Just Dial - are the top stocks to buy recommended by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth for September 17, 2026.
 
-## He moved to US for work, missed ITR; taxman imposes Rs 8.9 lakh penalty - what ITAT said
-The individual maintained that he had not deliberately attempted to evade tax. His case was that he had simply missed the ITR deadline while dealing with his relocation and new job in the US.
+## 100% Trump tariffs loom: Russia sanctions bill passed in US; will it make India stop buying crude from Moscow?
+Will Donald Trump impose 100% tariffs on India for its Russian crude oil buys? What will that mean for India’s exports to the US and its energy security situation amid the Middle East conflict?
 
-## Lamps, street plays, influencers: Inside BJP's plans for PM Modi's 76th birthday today
-The BJP is planning a month-long nationwide outreach campaign from from September 17 to October 17 to mark PM Modi’s 76th birthday and 25 years in public life.
+## Kremer picked as World Bank's chief economist
 
-## No foreign influence in UPI fee: Govt clarifies amid Opposition outcry over ‘US pressure’
-The finance ministry defended the move, stating UPI transactions below ₹2,000 will remain free. Critics argue this is a 'new Modi tax' on the public.
 
-## PM Modi turns 76: The making of India’s longest-serving prime minister over 25 years
-On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister
+## Busy Thursday: 6 listings & a mega IPO
 
-## Arabian Sea face-off: India protests after Pak warship collides with vessel
-In the 1980s and 1990s, it was common practice for the Pakistan Navy to “shadow” or “buzz” Indian warships in the Arabian Sea or in the Persian Gulf
 
-## Odisha: Three rescued orangutans anaemic; DNA tests planned to trace their origin
-Blood tests found severe anaemia in one and mild anaemia in two of five rescued baby orangutans at Nandankanan zoo; DNA tests will help establish their origin.
+## RBI's FAQs keep Tata Sons boxed
+Holdco's Upper Layer NBFC Tag Anchored In Three Provisions In Explainer
 
-## Pakistan summons Indian diplomat after New Delhi lodges strong protest over naval vessel collision
-Earlier today, the charge d'affaires of the Pakistan high commission, Saad Warraich, was summoned to India's external affairs ministry.
+## Cyclone over Odisha soon? Amid developing low-pressure, IMD says do not panic
+The IMD said while a low-pressure system may bring heavy rainfall, no cyclone over Odisha has been forecast yet.
 
-## 'Mockery of democracy: Madras high court declines to stay bypolls to two Tamil Nadu assembly seats
-The bypolls were necessitated after the resignation of then AIADMK MLAs K Maragatham Kumaravel and P Satyabama who joined the ruling TVK.
+## Odisha man beaten to death; set afire after fight at girlfriend’s home: Police
+Police were examining whether the murder was pre-planned, including how the petrol was procured and used to burn the body
 
-## Small merchants may rethink accepting UPI over cash, says Retailers' body on merchant fee row
-Retailers body warned that the UPI fee "could undo years of progress in digital payment adoption" among India's smallest retailers.
+## ‘One more piece of evidence’: PM Modi hails BRICS New Delhi Declaration, global credibility
+Narendra Modi said that that hosting SEMICON India amid BRICS achievements marked another significant milestone for the country.
+
+## 'What kind of language': Congress slams US senator's warning to India over Russian oil
+The remark by US senator, who took a stern tone against countries buying oil from Russia, did not go down well with Congress.
+
+## India races to ship iPhone 18 Pro, Pro Max ahead of global launch; chartered flights depart: Report
+Apple is increasing manufacturing capabilities for the two premium models as it prepares to supply markets in the US and elsewhere from the first day of sales.
+
+## ED raids locations in four states in Ranchi RSS office bomb attack case
+Unknown persons had hurled petrol bombs at RSS office under the Chutia police station area of Ranchi on June 16/17 night
+
+## TN CM Vijay's UK tour secures ₹15,300 crore investments
+TN CM Vijay's UK tour secures ₹15,300 crore investments
+
+## PDA Yatra: Akhilesh to begin statewide campaign next month ahead of 2027 poll
+The yatra is themed around the SP’s formula of consolidating backward, Dalit, and Muslim, or pichhda, Dalit and alpsankhyak voters
+
+## How Hong Kong’s new 5-year plan courts global capital with an eye on market dominance
+Hong Kong is broadening its equity markets, deepening its offshore yuan business and expanding further into gold trading under its first five-year plan for economic and social development, as the city seeks to defend its standing as Asia’s top financial centre and close the gap with London. Unveiled
+
+## Huawei quickens AI chip pace, promises next entrant 3 quarters early
+Huawei Technologies said on Thursday that it would launch its next-generation artificial intelligence chip in the first quarter of 2027, moving the target launch forward by nine months as the firm aggressively expands its ecosystem amid China’s self-sufficiency push. David Wang Tao, rotating and act
+
+## Exchange Fund weighs bigger gold holdings to support Hong Kong’s trading hub plan
+Hong Kong’s Exchange Fund, the war chest used to defend the local currency, is considering increasing its exposure to gold and other precious metals as part of the government’s push to develop the city into a gold trading hub. Hong Kong Monetary Authority (HKMA) chief executive Eddie Yue Wai-man sai
+
+## Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off
+Hong Kong aims to adjust listing rules to grab a share of initial public offerings (IPOs) by mainland China’s space companies as activity in the sector increases in line with Beijing’s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk’s SpaceX. That
+
+## Hong Kong stocks decline after Fed raises interest rates and signals more to come
+Stocks in Hong Kong and mainland China fell on Thursday, after the US Federal Reserve raised interest rates for the first time in three years and signalled that further tightening remained on the table. The benchmark Hang Seng Index fell 1 per cent to 24,470.74 as of 10.37am local time. The Hang Sen
 
 ## Gold rebounds after Fed rate rise as banks back long-term demand outlook
 Gold prices bounced back after the US Federal Reserve’s interest rate increase, as analysts and investment banks maintained a positive long-term outlook for the metal, citing structural challenges facing the world’s largest economy. Spot gold traded at US$4,288 an ounce on Thursday morning in Asia, 
@@ -111,23 +132,8 @@ Gold prices bounced back after the US Federal Reserve’s interest rate increase
 ## US rate increase should only have short-term impact on Hong Kong stocks: CICC
 Hong Kong stocks could face greater volatility from renewed US monetary tightening, but the impact should be short-lived unless the Federal Reserve embarks on a sustained rate-increase cycle, according to China International Capital Corporation (CICC). The Fed rate increase would not necessarily spe
 
-## HKMA raises base rate by a quarter point to 4.25%, the first increase since 2023
-Hong Kong’s de facto central bank increased its base rate by a quarter of a percentage point on Thursday after the US Federal Reserve raised its target range for the federal funds rate to tackle inflation amid conflict in the Middle East. The Hong Kong Monetary Authority (HKMA) raised the city’s bas
-
-## Prometheum Capital, HashKey Digital Asset Group, and Velocity Capital Sign Binding MOU to Internationalize Tokenized U.S. Equities
-[The content of this article has been produced by our advertising partner.] NEW YORK – SEPT. 16, 2026 – Prometheum Inc. (“Prometheum”), a market infrastructure provider for crypto assets, today announced that its subsidiary Prometheum Capital LLC (“Prometheum Capital”), an SEC-registered, FINRA memb
-
-## China’s Z.ai raises revenue target 25% after US$5 billion cash injection
-Chinese artificial intelligence developer Z.ai has raised its year-end annual recurring revenue (ARR) outlook by 25 per cent to US$3 billion, as the firm indicated its fresh US$5 billion war chest had helped clear its computing capacity bottlenecks for the time being. The updated ARR projection, up 
-
-## China’s AI chip stocks face crucial test as MetaX lock-up period expires
-China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when a lock-up period affecting 14 million shares in MetaX Integrated Circuits is set to expire. Analysts expect MetaX to face “significant selling pressure” when the restricted shares
-
-## Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources
-China’s Moonshot AI has attracted global investor interest spanning Europe, Asia and the Middle East, people familiar with the matter say, as international capital scrambles for access to Chinese frontier artificial intelligence labs, betting on their high-stakes race against US rivals. The Beijing-
-
-## Developer family’s deals highlight capital shift across Hong Kong property sectors
-A third-generation member of a long-established Hong Kong developer family has bought a HK$98.8 million (US$12.6 million) luxury flat in Mid-Levels, weeks after the family sold a long-held North Point property, highlighting a broader market trend of capital shifting across real estate sectors. John 
+## Hong Kong dollar may weaken after rate rise, but bad-debt risks remain low: HKMA
+The Hong Kong dollar may come under pressure against the US dollar after the first interest rate rise in three years, but the city does not face a heightened bad-debt risk despite higher borrowing costs, according to the head of the de facto central bank. Hong Kong Monetary Authority (HKMA) chief ex
 
 ## Modi and Xi’s Meeting Caps a Detente
 Despite the thaw, India-China rivalry remains inevitable.
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UK and Canada discuss AI risks and defence ties in first bilateral meeting
-UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.
+## OpenAI reports more incidents of models acting deceptively
+The ChatGPT creator says it is introducing a public reporting framework to share unexpected AI behaviour.
 
-## Congress passes sweeping US sanctions bill targeting Russia
-The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine
+## What are the biggest AI companies and how much are they worth?
+As AI firms push for greater controls on the industry, Al Jazeera unpacks the value of the main companies in the sector.
 
-## US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’
-The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.
+## Argentinian judge orders suspension of Falklands oil project
+The symbolic move comes as Argentina escalates its claim over the British-administered territory.
 
-## Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’
-The US president threatened heavy tariffs and said the US could cut some trade with Europe over the proposed status.
+## Trump threatens to end trade with Mexico and Europe after rate hike
+US President Donald Trump had tried to pressure the Fed to lower rates, but it voted unanimously to raise them instead.
 
-## NHL superstar Ovechkin ‘was asked’ to film Putin ad, team says
-Russian sports icon joins prominent domestic figures promoting the ruling United Russia party ahead of elections.
+## Can AI regulation keep America ahead of China?
+As Washington debates how to regulate AI, industry experts say that governance doesn’t have to mean hitting the brakes.
 
-## Three dead after flooding inundates Navajo Nation in New Mexico
-Indigenous authorities issue condolences after two adults and a child swept away by floodwaters in southwestern state.
+## US bars Palestinian president from attending UNGA for second year
+The United States has declined to grant visas to Palestinian President Mahmoud Abbas.
 
-## Iran war live: Trump says US nearing end of war, claims Tehran direct talks
-President Trump says the US is nearing the end of the conflict with Iran and claims direct talks with Tehran.
+## US extends visa ban on Palestinian officials before UN General Assembly
+Palestinian President Mahmoud Abbas is among those barred for the second year in a row.
 
-## Israel and Morocco agree to open embassies, upgrading diplomatic ties
-Both sides agreed to expand air travel and resume direct commercial flights.
+## Yemeni forces target Houthis as US rules out direct role
+Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle.
 
 ## IBBI’s personal guarantor fix may need IBC amendment, not just regulations: Experts
 The Insolvency and Bankruptcy Board of India’s proposals to strengthen safeguards in the insolvency resolution process for personal guarantors to corporate debtors seek to address long-standing gaps in the framework, but some of the proposed changes may require amendments to the Insolvency and Bankr
@@ -273,6 +279,9 @@ Only thirty percent of registered establishments actively provide apprenticeship
 ## India Inc needs to rethink the cost of capital
 Corporate India is entering an investment cycle at a time when capital is becoming more expensive. The National Statistics Office estimates private corporate capital expenditure at Rs 11.44 lakh crore for 2025-26, while companies have indicated Rs 9.55 lakh crore of investment intentions for 2026-27
 
+## 100% tariffs on India? US House passes bill authorising new duties on Russia oil buyers
+The US House of Representatives has passed legislation authorising President Donald Trump to impose tariffs of up to 100% on India, China and other countries buying Russian oil and gas. The bill, which also targets Russia’s leadership, energy sector and shadow fleet, now goes to Trump for his signat
+
 ## RBI files caveat after rejecting Tata Sons bid to avoid listing, source says
 The Reserve Bank of India has initiated court proceedings to secure its involvement in the Tata Sons listing issue. This action follows the RBI's denial of Tata Sons’ bid to withdraw its status as a non-banking financial company (NBFC). By filing a caveat in the Bombay High Court, the central bank a
 
@@ -293,7 +302,4 @@ Tata Group company shares jumped Tuesday after the central bank rejected Tata So
 
 ## Senate Republicans sweeten crypto bill with new Trump-backed ethics rules ahead of crunch vote
 US Senate Republicans have released a revised Clarity Act cryptocurrency bill. New ethics language, agreed upon by President Donald Trump, has been added. This updated text aims to address concerns about potential conflicts of interest. The bill now includes consumer protections and developer safegu
-
-## Central database may be used for financial oversight, risk monitoring
-India's government plans to expand Cersai's database for better financial risk monitoring. This initiative aligns with the phased rollout of the Central KYC Records Registry, CKYCRR 2.0. The expanded Cersai database will offer customer insights and aid in fraud prevention efforts. Financial institut
 
