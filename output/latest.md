@@ -1,37 +1,31 @@
 # AION Intelligence
 
-## Starmer looked at softening £100,000 ‘tax trap’ for higher earners
-Andy Burnham’s government is not considering a similar move against 60% rate viewed by economists as a dysfunction in tax system
+## Trump bans major US news outlets from White House
+CNN, MS Now and Politico barred by president as he escalates assault on media
 
-## Gavin Newsom advances AI ‘kill switch’ in response to safety fears
-California’s governor signals tougher stance on the technology after public outcry
+## Oracle’s $18bn data centre debt under strain amid local pushback
+Investors grow wary of permitting and construction delays as opposition mounts in New Mexico
 
-## Ex-Apollo executive admits to improperly using company documents
-Imran Siddiqui had been sued by buyout group’s Athene unit over his rival start-up
-
-## VW warns of hit of up to €10bn from Porsche writedown and restructuring costs
-Shares in Europe’s largest carmaker fell as much as 7% as it continues to struggle in the competitive Chinese market
-
-## Yen sinks after BoJ raises rates to highest level since 1995
-Authorities warn of further potential currency intervention after central bank move fails to buoy currency
-
-## Airlines demand millions in compensation over UK air traffic outage
-Under-fire air traffic agency blames ‘legacy’ software bug and says it is planning to invest £1bn in its systems by 2033
-
-## The relentless creep of Britain’s compliance state
-While some rules are just fiddly and frustrating, others do real harm
+## US homebuilders under pressure from rising rates
+Developers worry elevated borrowing costs and broader affordability woes will deter buyers
 
 ## Warren Buffett’s son to succeed his father as Berkshire Hathaway chair
 Conglomerate says the elder Buffett will take on role of chair emeritus
 
-## Fed report finds it was ‘too timid’ in tackling risks at Silicon Valley Bank
-New review calls for overhaul of bank supervision
+## UK’s top taxpayer says he would ‘not wish to be reborn’ in Britain
+Betfred founder Fred Done threatens 500 shop closures over tax rises that have left him fearful for the UK’s prospects
 
-## PizzaExpress cooks up sale at up to £500mn valuation
-Company owners, including Bain Capital’s special situations unit and Cyrus Capital Partners, are working with bankers at Rothschild
+## White House attacks Fed official after review of Silicon Valley Bank collapse
+New report finds ‘culture of risk aversion’ among banking regulators led to mishandling of weaknesses at tech-heavy lender
 
-## Stockpickers: Glenveagh, Wickes, Big Technologies
-Our experts discuss which companies to buy, sell or hold this week
+## Ex-Apollo executive admits to improperly using company documents
+Imran Siddiqui had been sued by buyout group’s Athene unit over his rival start-up
+
+## Starmer looked at softening £100,000 ‘tax trap’ for higher earners
+Andy Burnham’s government is not considering a similar move against 60% rate viewed by economists as a dysfunction in tax system
+
+## British data centre group Nscale files for $35bn US listing
+Start-up has won a huge contract to supply computing power to Anthropic
 
 ## Who is Howard Buffett, Berkshire Hathaway’s next chairman?
 The 71-year-old has spent 33 years on Berkshire’s board and is expected to focus on preserving its distinctive corporate culture.
@@ -57,6 +51,9 @@ Beyond weight-loss drugs, pharma players spot fresh opportunities in consumer we
 ## Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
 Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
 
+## Sugar retail prices down 10% ahead of festive season, govt eases stock cap
+
+
 ## NSE IPO subscribed 1.16 times on Day 2 led by non-institutional investors, QIBs
 The Rs 22,569-crore IPO has become India’s second-largest public issue, behind Hyundai Motor India’s Rs 27,870-crore offering in 2024. It has also moved past LIC’s Rs 21,000-crore IPO of 2022, but remains smaller than Hyundai Motor India’s record issue.
 
@@ -77,9 +74,6 @@ The National Stock Exchange of India's IPO saw full subscription on its second d
 
 ## India’s first hydrogen train may be extended to Delhi due to low traffic
 India’s first indigenous hydrogen-powered train was launched on July 17, marking a step towards the use of next-generation clean and sustainable transportation technology.
-
-## Sebi warned on digital gold in 2025; now physical backing and oversight in works
-The finance ministry has sought feedback from regulators, banks and other stakeholders. A broad consensus has emerged that digital gold should be classified as a security under the Securities Contracts (Regulation) Act, 1956.
 
 ## Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report
 The legislation will give Trump the authority to impose tariffs of up to 100% on countries that continue to buy Russian oil and gas, which includes India.
@@ -129,6 +123,18 @@ Amid continuing geopolitical tensions and market uncertainty, greater use of the
 ## C-Suite Roundtable: Navigating the Healthcare Capital Lifecycle from Seed to Post-Listing
 Yesterday in Shanghai, more than 30 business leaders and investors from mainland China and Hong Kong gathered at a South China Morning Post C-Suite roundtable on “The Capital Lifecycle of the Healthcare Sector: From Seed to Post-Listing” held alongside BioShanghai Week 2026. The event, supported by 
 
+## Russia’s Parliamentary Elections Offer Rituals, Not Results
+Polling shows that United Russia is all but certain to maintain its power.
+
+## Will Russia Ever Be ‘Normal’?
+Empires inevitably decline, and Putin’s project will be no exception.
+
+## What in the World?
+Test yourself on the week of Sept. 12: Modi and Xi meet, the Houthis fire on Saudi Arabia, and EU leaders gather in Finland.
+
+## In War, Trump and Putin Are Much Alike
+Washington is emulating Moscow’s ways of fighting wars—and helping it in the process.
+
 ## Chinese Literature Is Undergoing a Vibe Shift
 Beijing long promoted novels about working-class travails. What happens when authors point fingers at the state?
 
@@ -140,18 +146,6 @@ In Rozina Ali’s new book, four families grapple with the post-9/11 shift.
 
 ## The Houthi Advance Is About More Than Just Iran
 The Saudi-Emirati rivalry is driving moves across the region.
-
-## What the BRICS Summit Meant for Brazil
-One year after hosting the event, is the country still shaping the bloc?
-
-## Trump’s Risky Hack-Back Plan
-The U.S. president wants tech companies to go on the cyber-offensive. Will it work?
-
-## By Nearly Every Metric, the U.S. Is Losing the Iran War
-“It’s irrefutable that the U.S. failed in its main strategic goals,” one expert said.
-
-## Sweden’s Right-Wing Reckoning
-What was expected to be an easy election win resulted in a narrow victory for the left.
 
 ## Drones Offer Central Asian an Escape From Foreign Dependency
 Central Asian states should jointly develop drone capabilities to prepare for current and future security needs.
@@ -178,7 +172,7 @@ Commissioned on August 31, INS Nipun significantly augments the Navy’s special
 Some lawmakers say that the current administration should have the right to a 3 percent ceiling in order to support its expansive economic agenda.
 
 ## Pressure Points
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. strikes on Iranian soil tapered off in August after frequent exchanges throughout July. The hiatus seem
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranSenior officials from Iran, Oman, and neighboring Gulf states were scheduled to meet in Salalah on Monday to
 
 ## Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence
 Washington is preparing for the right war, but in the wrong theater. For years, U.S. strategic thinking has centered on the Indo‑Pacific: the militarized atolls of the South China Sea, China’s churning naval shipyards, and the tense waters of the Taiwan Strait. Yet the next phase of competition will
@@ -225,29 +219,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russia’s drones threaten Kyiv-bound Western officials as war effort stalls
-Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in Ukraine’s east.
+## UK court clears woman of voicing support for Hamas in university speech
+Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians' right to resist.
 
-## Police clear Ceuta migrants off beaches in Spanish enclave
-At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.
+## ‘Daughter of Damascus’ Assala performs in Syria after 15-year exile
+Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus.
 
-## Early in-person voting begins in the 2026 US midterm elections in Virginia
-Virginia leads the way for in-person voting, reflecting a nationwide trend towards casting ballots before Election Day.
+## Syria arrests five former al-Assad-era officers over strikes on civilians
+Former air officers, including an air force general, were arrested in a series of operations.
 
-## Sweden’s left-wing opposition leader begins efforts to form government
-Magdalena Andersson will likely face several challenges as she tries to get Sweden's other left-wing parties to unite.
+## Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’
+The US president insists media outlets report 'fiction and lies' as he enforces new bans on White House access.
 
-## Iranians rally in biggest show of defiance against US since war began
-Volunteers rallied through downtown Tehran to join campaign highlighting 'self-sacrifice' for Iran.
+## Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’
+Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine.
 
-## UEFA, CONCACAF challenge FIFA on reserves and demand $10m payout to members
-Confederation chiefs call on Gianni Infantino to make $2.1bn payout to all FIFA's 211 member associations.
+## Lebanese artist turns Israeli missile debris into art
+In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art.
 
-## Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East
-Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’
+## Two injured by Israeli shelling as troops advance in southern Lebanon
+Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.
 
-## More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti
-United Nations says 22 million people need humanitarian aid as conflict intensifies.
+## England fast bowler Carse to face no charges over alleged nightclub assault
+Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
