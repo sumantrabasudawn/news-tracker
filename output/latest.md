@@ -1,70 +1,82 @@
 # AION Intelligence
 
-## The QT endgame at the BoE
-Still trying for boring
+## Venezuela nears deal to tap disputed $4bn gold reserve
+Agreement would shift gold from London to New York and enable interim government of Delcy Rodríguez to access funding
 
-## EU mulls compromise options on Usmanov sanctions to end French stand-off
-Also in this newsletter: EU commissioner warns of AI ‘arms race’
+## Howard Buffett to succeed father Warren as Berkshire Hathaway chair
+Conglomerate says the elder Buffett will step down as chair and take on role of chair emeritus
 
-## FirstFT: Merz fights for survival
-Also in today’s newsletter: Turkish funds freeze and French budget
+## Britons say they’re taking less annual leave. The ONS doesn’t believe them
+Incoherent methods —> “coherent series”
 
-## NHS executive lobbied data watchdog to rewrite criticism before Palantir deal
-Controversial US tech group won the contract to build the Federated Data Platform for health service three months later
+## On the EU, let Canada and Odysseus inspire Burnham
+This wily prime minister can find a way to take advantage of new possibilities for a ring of outer nations
 
-## ‘Berlin’s Mamdani’ seeks to pile pain on Merz
-Elif Eralp could become first mayor of Turkish origin in the German capital
+## Can Scottish Labour be revived by new leader?
+Candidates Michael Marra and Joe Fagan face a tough challenge despite Andy Burnham’s popularity
 
-## Lib Dems hope EU single market campaign will reignite political fortunes
-Daisy Cooper says party will use its conference to build on gains laid at past election
+## Russia seizes control of Nestlé and Auchan operations
+Move is first crackdown on western-owned assets since 2023
 
-## Venezuela nears deal to move $4bn gold reserve from London to New York
-Agreement would allow interim government of Delcy Rodríguez to access funding
+## FirstFT: Venezuela nears deal to transfer $4bn gold reserve to New York
+Also in today’s newsletter: top Republican warns Hispanic voters feel ‘betrayed’ by Trump and Wall Street trading boom fades
 
-## Pakistan army chief urges Iran to restrain Houthis
-Islamabad cites defence pact with Saudi Arabia as it lobbies Tehran over rebel campaign against Riyadh
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
 
-## The new credit debacle gripping Wall Street
-Glencore has found itself at the centre of the controversy involving the embattled iron ore trader Radiant World
+## Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’
+The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’
 
-## Europe can attract more stock trading with fewer, better markets
-A bigger European exchange could better woo US investors seeking to diversify from the tech-centricity of their own markets
+## Why Tata’s boardroom is at war
+The contest will determine the future of the more than 150-year-old business empire
 
-## Will El Niño be the saviour of Europe’s energy market?
-The continent’s storage is 69 per cent full, compared with more than 80 per cent this time last year
+## Blockbuster Ed Sheeran tour in doubt after fallout from protests
+Musician and advisers discussed whether to continue with remaining dates after rapper Macklemore was removed as supporting act
 
-## The real risk of private credit’s involvement in the annuity business
-The critical issue is liquidity and ensuring that long-term promises to pay retirement benefits are met
+## UK retail sales rose more than forecast in August
+Figures suggest consumers remained resilient despite mounting pressure on household finances
 
-## How money moved across Mark Walter’s empire
-Flows raise questions about whether financier drew on insurance assets to help ease financial troubles elsewhere
+## Thames Water should be temporarily placed under public ownership, MPs warn
+Move would be ‘cost neutral’ for the Treasury while protecting 16mn customers served by UK utility, cross-party parliamentary committee says
 
-## Medical AI has a proof problem
-The technology’s advances have not yet translated into big improvements in real-life care
+## Elevate Campuses fixes IPO price band at ₹343-362 a share
+The issue will open for subscription on September 23
 
-## Sensex today | Stock Market Live: Sensex, Nifty hold gains; Tata stocks decline, sectoral indices trade firm
-Sensex, Nifty, Share Prices LIVE: Stock to buy today: Five Indian IPOs ​are currently open for subscription, including the National Stock Exchange of India's issue, which was subscribed 0.43 ⁠times on the first day of bidding. As of 9:40 am, Tata ‌Chemicals tumbled as much as ‌7.8%, ⁠while Tata Inve
+## L&T Semiconductor unveils 40 products, including first SiC platform
+Its technologies span secure identity, intelligent surveillance, IP cameras, and communication solutions supporting critical infrastructure and strategic requirements
 
-## Apple Pay eyes India rollout with Axis Bank in October, sources say
-Axis Bank ‌is the fourth-largest credit card issuer in India.
+## India asks bulk users to source imported sugar to keep stock above 15 days requirement
+Traders, wholesalers are urged to pass on benefit of lower ex-mill prices to consumers
 
-## Listing of Tata Sons shares an imperative, says Shapoorji Pallonji group
-While Noel Tata on Thursday asked the board of Tata Sons to explore options other than listing, SP group views share sale as a clear path to comply with Reserve Bank of India’s direction.
+## From GIFT City to Europe: India INX GA to launch tax-efficient UCITS for Indian investors
+The initiative will enable retail clients to trade products listed on major European bourses, including the London Stock Exchange (LSE), Euronext, and Deutsche Börse Xetra, expanding beyond the platform’s current US stock offerings
 
-## Kerala start-up FalconFeeds inks pact with UAE Cybersecurity Council
-Both entities to organise cross-sector cyber exercises, technical workshops, and international conferences
+## The great Indian paneer heist: Who stole the milk? | Overthinkers Anonymous | EP 03
+The analogue paneer mystery: What’s really on your plate?
 
-## Veegaland Developers hit lower circuit after 10% premium listing on NSE
-Despite a strong initial listing, Veegaland Developers faces immediate selling pressure, with analysts advising caution amid concerns over valuation and the need for sustained growth to justify the premium.
+## India, Nepal discuss facilitating legitimate trade
+“The discussions aimed at promoting legitimate trade while enhancing compliance mechanisms to prevent misuse of preferential trade arrangements,” the ministry stated
 
-## Shapoor Mistry backs Tata Sons listing, calls it opportunity for greater accountability
-Mistry, whose family’s Shapoorji Pallonji Group owns about 18.4% of Tata Sons, said the RBI’s decision had provided “full clarity” and that he looked forward to working constructively with Tata Sons and the Tata Trusts
+## IMD Update: TN, Kerala, Puducherry, Mahe to get heavy rain for 7 days
+The low-pressure area is expected to develop over the Bay of Bengal around Saturday, and could intensify initially into a monsoon depression, two steps away from being called a cyclone.
 
-## Takeda’s Qdenga dengue vaccine to be distributed in India by Dr Reddy’s in 2027
-Takeda’s two-dose dengue vaccine has been approved by CDSCO for people aged 4-60
+## Central Warehousing Corporation plans hyperloop freight pilot in Mumbai
+CWC has already placed an order with TuTr Hyperloop, a start-up associated with IIT Madras, for the first trial.
 
-## Zee Entertainment shareholders approve reappointment of five Board of Directors during AGM
-The shareholders approved the re-appointment of Deepu Bansal, Uttam Prakash Agarwal, P.V. Ramana Murthy and Shishir Babubhai Desai as Independent Directors, and Saurav Adhikari as Non-Executive Director with requisite majority.
+## NSE’s mega IPO crosses full subscription mark with strong institutional demand
+The National Stock Exchange of India's IPO saw full subscription on its second day. Strong demand from institutional investors drove the significant subscription levels. Qualified Institutional Buyers and non-institutional investors showed robust interest in the offering. The IPO is an entirely an o
+
+## India’s hydrogen train gets 40-60 riders vs 2,600 capacity; Delhi extension planned
+India’s first indigenous hydrogen-powered train was launched on July 17, marking a step towards the use of next-generation clean and sustainable transportation technology.
+
+## Sebi warned on digital gold in 2025; now physical backing and oversight in works
+The finance ministry has sought feedback from regulators, banks and other stakeholders. A broad consensus has emerged that digital gold should be classified as a security under the Securities Contracts (Regulation) Act, 1956.
+
+## Gold price prediction: Should you buy gold on dips? Check September 18, 2026 outlook
+MCX Gold October futures are showing a strong intraday recovery, with prices trading around Rs 1,53,870 after breaking above the recent consolidation zone.
+
+## She paid Rs 79 lakh for Rs 2.14 crore villa, but it stayed unfinished; RERA orders refund with interest
+The Telangana RERA authority noted that the builder had already collected Rs 79 lakh, but had not placed any material on record showing the current status of construction of the villa.
 
 ## Amid Tata group power struggle, Shapoor Mistry backs RBI’s call on Tata Sons listing; full text of statement
 Mistry’s family-owned Shapoorji Pallonji Group holds about 18.4% in Tata Sons. He said the RBI decision had brought “full clarity” and expressed his intention to work constructively with Tata Sons and the Tata Trusts on the holding company’s future.
@@ -75,44 +87,41 @@ NSE IPO: On the first day, the issue was subscribed 43% overall, with bids recei
 ## Top stocks to buy today: Stock market recommendations for September 18, 2026 - check list
 Stock market recommendations: Apar Industries, BEML, and Aegis Vopak Terminals - these are the top stocks to buy that have been picked by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for September 18, 2026.
 
-## NSE IPO subscribed 43% on day 1
+## Karnataka grants Tulu additional official language status in 2 coastal districts
+Karnataka has granted Tulu additional official language status in Dakshina Kannada and Udupi, fulfilling a long-standing demand, deputy CM D K Shivakumar said.
 
+## ‘Same old stalling as expected’: India hits back at Pakistan over naval collision response
+Speaking on the naval collision incident, MEA's Randhir Jaiswal said India had expected what he described as "the same old stalling" from Pakistan.
 
-## Global oil prices slip 1% for third day on hopes of limited supply disruptions
+## 12 death sentences, 13 acquittals later, Nithari’s Surendra Koli found dead in Haridwar: Timeline
+Surendra Koli, acquitted in Nithari serial killings case, was found dead at a tea stall in Haridwar on Friday.
 
+## Mamata's TMC faction opts out of Nandigram bypoll, to back Congress in rare move
+The development marks a rare move, as the TMC and Congress have usually contested elections in West Bengal independently.
 
-## Rupee rebounds 16 paise to 95.73 from over two-month low on crude relief
+## Tami Nadu bypoll: Know schedule, candidates and more in Vijay govt's first electoral test
+Tamil Nadu bypoll: The nominations of 58 candidates for the Madurantakam and Dharapuram bypolls were accepted on Thursday following scrutiny, EC said.
 
+## Nandigram bypoll: TMC’s Mamata camp candidate withdraws nomination day after meeting Suvendu
+Pradhan Dey, a teacher who was fielded by the Mamata camp, met West Bengal Chief Minister Suvendu Adhikari at the state secretariat, Nabanna, on Friday.
 
-## Brookfield to invest up to $600mn in ACME's business
+## Central Board of Film Certification issues new guidelines after nearly 35 years
+Issued by Ministry of Information and Broadcasting, the guidelines retain existing provisions on violence, obscenity, sexual violence, communal content, national security
 
+## Hyderabad court sentences 9, including 8 Bangladeshis, to life in trafficking case
+The accused were charged with bringing Bangladeshi women into India on the promise of employment and subsequently forcing them into prostitution.
 
-## Tata Group stocks fall after SP Group proposes $2.6 billion stake sale in Tata Sons
+## Will AI adoption shrink office space? Asia-Pacific firms are on the fence in survey
+Nearly one-fifth of surveyed companies in the Asia-Pacific region believe wider adoption of artificial intelligence will reduce their real estate needs, a new study by CBRE has found. More than half – 56 per cent – held a neutral view, believing either that AI had no impact on office space demand or
 
+## How China plans to ‘firmly rank at the global forefront’ with 25% of first-in-class drugs
+China has set its sights on becoming a global biomedicine powerhouse by 2030, targeting key technological breakthroughs and at least a quarter of the world’s first-in-class drugs market under a new five-year plan for the sector. By the end of the decade, China would “firmly rank at the global forefr
 
-## UPI fee burden won't fall on consumers, govt plans to track merchants: Report
-The NPCI, which operates the UPI platform, issued a circular on September 15 introducing MDR on certain UPI transactions.
+## From US Fed rates to China’s global export share: 4 figures shaping markets
+The US Federal Reserve raised its benchmark interest rate by a quarter of a percentage point this week, followed by the Hong Kong Monetary Authority and the Bank of Japan, while the 10-year US Treasury yield fell back below 5 per cent. Here are some of the figures that have drawn the most market att
 
-## Missing Delhi man found dead in Gurugram, was shot by ex-colleague, her partner
-A police team was deputed to Uttarakhand, from where the Delhi man's ex-colleague and her partner were apprehended.
-
-## Outstation patients left in lurch as DTC drivers’ strike enters fourth day
-High auto-rickshaw and cab fares have left many outstation commuters stranded between difficult public transport options and expensive alternatives
-
-## Pawar urges Fadnavis to declare drought, provide ₹50,000 per hectare aid to farmers
-Pawar urges Fadnavis to declare drought, provide ₹50,000 per hectare aid to farmers
-
-## New passport rule sets five-year validity for children under 15, revises fee
-The new regulations, notified through the Passports (Amendment) Rules, 2026, came into force immediately upon publication in the Official Gazette on Sept 15.
-
-## ‘Happens all the time alas’: Shashi Tharoor after user flags grammar goof up in PM Modi birthday wish
-The Congress leader, who is known for his command of the English language and use of complex vocabulary, responded to the criticism the following day.
-
-## Odisha: 12 sentenced to life in prison for murdering father, son over witchcraft
-The 12 were convicted of deliberating killing the victims because they believed the victims indulged in witchcraft
-
-## Light travellers get dedicated gates for entry at all Delhi airport terminals | Check gate numbers
-Called Express@DEL, the service was launched by Delhi airport deputy CEO Manomad Rai on Friday.
+## Senior HSBC bankers face double blow as school-fee subsidy cut adds to job risks: sources
+Senior bankers at HSBC are facing a double blow of losing a key employment benefit while also confronting potential job losses as the lender carries out a range of measures to cut costs and achieve fair treatment for all staff, according to sources. HSBC, the biggest lender in Hong Kong, will scrap 
 
 ## Standard Chartered sharpens its yuan advisory edge as currency’s global rise continues
 Amid continuing geopolitical tensions and market uncertainty, greater use of the yuan for international trade settlements, raising funds, managing liquidity and allocating investments is a logical strategy for executives overseeing treasury and finance functions. At the end of 2025, the People’s Ban
@@ -125,18 +134,6 @@ China is seeing a fresh fundraising boom for artificial intelligence-powered dru
 
 ## How will Japan’s rate increase affect capital flow in global financial markets?
 Japan is adding a fresh layer of uncertainty to global financial markets by potentially triggering a new bout of turmoil in bond markets and dampening the appetite for risk assets, as Tokyo’s pursuit of bigger government spending stokes concerns about fiscal discipline and sends sovereign bond yield
-
-## Hong Kong malls bet on Asian Games to boost footfall, tenant sales amid spending shifts
-Hong Kong shopping mall operators are extending a strategy used during this year’s Fifa World Cup into the Asian Games, leveraging major sporting events to draw visitors and support tenant sales as retailers face competition from Shenzhen, overseas shopping and online spending. Sino Group is among t
-
-## Pets and personal touches: how China’s luxury hotel market is changing
-Chinese customers’ growing desire for personal expression and cultural experiences has raised the game in the country’s hospitality sector, creating opportunities for leading lifestyle hotel brands, according to a director at Hong Kong developer Hang Lung Properties. “An ideal hotel is the one that 
-
-## Hong Kong property market gets reprieve on rates, but position remains precarious
-Hong Kong’s property market dodged an immediate hit from the Federal Reserve’s rate hike on Thursday as major local banks kept their prime rates unchanged, but another increase could puncture the market’s relatively fragile recovery, according to industry insiders. The Fed raised its benchmark rate 
-
-## Fed rate hike risks worsening China’s economic divide
-The US Federal Reserve raised interest rates for the first time in three years in an effort to quell inflation partly caused by the war on Iran helping to drive up fuel prices. Policymakers voted unanimously on Wednesday to lift rates by 25 basis points to between 3.75 and 4.00 per cent. Sixteen of 
 
 ## Trump’s Risky Hack-Back Plan
 The U.S. president wants tech companies to go on the cyber-offensive. Will it work?
@@ -162,6 +159,21 @@ German far-right populism traces back to reunification—but historians disagree
 ## Modi and Xi’s Meeting Caps a Detente
 Despite the thaw, India-China rivalry remains inevitable.
 
+## Indonesian Parliamentary Committee Debates Changes to Fiscal Deficit Limit
+Some lawmakers say that the current administration should have the right to a 3 percent ceiling in order to support its expansive economic agenda.
+
+## Why Is Thailand Not Prosecuting Members of the Mauerberger Network?
+One year after the South African national Benjamin Mauerberger and his network were first exposed, not one intermediary has been charged.
+
+## Why Malaysia Won’t Extradite Dr. Zakir Naik to India
+Despite being wanted on various criminal charges in India, the Islamic preacher has become hugely popular since arriving in Malaysia in 2016.
+
+## Former Philippine President Duterte Makes First In-person Appearance at ICC
+The physical state of the 81-year-old raised questions about his fitness to participate in what is likely to be a protracted trial.
+
+## What’s Wrong With US Pacific Islands Policy?
+It’s the relationships, stupid.
+
 ## After a Self-Immolation at the UN, Rethinking What Beijing Fears on Tibet
 Beijing’s real vulnerability is not international action. It’s rising awareness within the Chinese population.
 
@@ -171,20 +183,8 @@ Ahead of the Trump-Xi summit, it is critical for Japan that the United States st
 ## Will Taiwan Fight? We Need Better Evidence.
 Both those making pessimistic predictions and those confidently rejecting them often rely on thin evidence.
 
-## The Space Security Landscape Is Deteriorating Rapidly
-With the United States announcing that it has deployed “on-orbit space control weapons,” the space arms race now appears to be fully underway.
-
-## China Is Building a Global Infrastructure for Its Cultural Industries
-When a cultural industry expands overseas, that usually means exporting content. China is increasingly exporting the infrastructure behind entertainment products.
-
-## BRICS Declaration: India’s Great U-turn on Iran
-The declaration endorsed most of Iran's main diplomatic concerns without speaking a single word against its drone and missile attacks on its neighboring Gulf states.
-
-## US Congressmen Call for Tougher Actions Against Key Southeast Asian Scam Enablers
-Brian Mast (R-FL) and John Moolenaar (R-MI) have requested probes into 28 people and entities allegedly connected to scam gangs in Cambodia, Laos, and Myanmar.
-
-## Indian, Pakistani Naval Vessels Collide in Arabian Sea, Prompting Diplomatic Tensions
-This is the first time since the May 2025 military clashes that tension between the two sides has erupted into the open.
+## Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence
+Washington is preparing for the right war, but in the wrong theater. For years, U.S. strategic thinking has centered on the Indo‑Pacific: the militarized atolls of the South China Sea, China’s churning naval shipyards, and the tense waters of the Taiwan Strait. Yet the next phase of competition will
 
 ## Latin America’s Balancing Act: Washington, Beijing, and the Post-Maduro Environment
 The year 2026 has brought sweeping change to Latin America’s relationship with the United States. Following a major military buildup in the Caribbean and strikes against vessels suspected of drug trafficking, U.S. forces captured Venezuelan President Nicolás Maduro on Jan. 3 — unilaterally deposing 
@@ -206,9 +206,6 @@ For all the warnings about an increasingly capable Chinese military, this may ve
 
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
-
-## Three Patrons, Three Clients: The Mecca Alliance No One Owns
-Every alliance contains a struggle over who gets to decide what the alliance is for. The unusual thing about the Mecca Alliance, formally known as the “Mecca Joint Defence Agreement,” is that all three of its members appear to believe they possess something that should give them that privilege: Saud
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russia’s parliamentary election: Who’s on the ballot, and why it matters
-United Russia won more than two-thirds of the Duma's seats in the 2021 election and is poised to dominate the body again
+## Deadly blast hits mosque at Pakistan police complex
+Several people have reportedly been killed in an explosion at a mosque near a police complex in northwest Pakistan.
 
-## UN mission alleges crimes against humanity in Iranian protest crackdown
-A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.
+## Who gets to decide how quickly AI moves?
+The biggest AI companies want to slow development together. The real question is what power they gain in return.
 
-## South Korea says US-North Korea talks possible, rules out Hormuz deployment
-South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.
+## North Korea anthem played at South’s Bangladesh hockey match at Asian Games
+Asian Games organisers in Japan accidently play North Korea's anthem ahead of South's hockey match with Bangladesh.
 
-## Fire engulfs Zaporizhzhia shopping centre after Russian strike
-A Russian strike hit a shopping centre in Zaporizhzhia, southeastern Ukraine, sparking a major fire.
+## Palmer and Alexander-Arnold recalled after England World Cup snub
+Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.
 
-## Australia to detain tourists who overstay visas amid immigration crackdown
-More than 77,000 visa overstayers face detention or departure as Australia cracks down on immigration violations.
+## United Nations says US may have committed war crimes in Iran: What it means
+UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.
 
-## Could this economic squeeze sway US voters?
-Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.
+## ‘My children did not attack Iran’: 2bn South Asians suffer from distant war
+A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.
 
-## New tiger cat species identified in Bolivia, first in over a century
-Leopardus tilcayo is the first new living cat species named and described in more than a century.
+## Israel is killing the people who could end its wars
+From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.
 
-## Bank of Japan raises rates to 31-year high of 1.25% as inflation rises
-Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.
+## Ukraine fires drone barrage as Russia launches elections
+Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
@@ -282,6 +279,9 @@ The IT services company is preparing its next three-year plan as it enters the f
 ## Coforge rebuts boardroom tension claims, begins search for new directors with Egon Zehnder
 The IT services company said its board remained aligned on key strategic and governance decisions despite D.K. Singh’s resignation citing differences and tension, while it searches for two independent directors and a permanent chairperson.
 
+## SEBI to look into broker, AMC concerns over UPI MDR: Tuhin Kanta Pandey
+SEBI chairman Tuhin Kanta Pandey said the regulator will look into concerns raised by brokers and AMCs over UPI MDR and assess how they can be eased, following the government’s recent framework introducing charges on specified merchant transactions.
+
 ## SEBI's F&O expiry settlement changes could address key CAS concerns; deeper cash market reforms needed: Kotak
 The Securities and Exchange Board of India's (SEBI) proposed changes to the settlement of futures and options (F&O) contracts could address a key concern over the reliance on the Closing Auction Session (CAS) to determine expiry prices, but deeper cash-market participation will be needed to make the
 
@@ -302,7 +302,4 @@ Dhaka is reviewing one hundred and one agreements signed with New Delhi. Bureauc
 
 ## Russia sanctions bill advances in US House, set for final vote as 100% tariff looms on India, others
 The US House of Representatives advanced a bill authorising President Donald Trump to impose 100% tariffs on India and other countries buying Russian oil and gas, while extending sanctions on Iran. The legislation cleared a 214-211 procedural vote after two Democrats backed Republicans and is expect
-
-## India's proposals to revamp derivatives settlement could alleviate expiry-day volatility, analysts say
-India's market regulator has unveiled a plan to modify the derivatives expiry-day settlement rules. These changes are intended to mitigate volatility and bring clarity to the options market. The proposals include two methods for calculating settlement prices: one utilizing trade data from the final 
 
