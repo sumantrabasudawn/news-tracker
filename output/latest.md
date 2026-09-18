@@ -1,72 +1,84 @@
 # AION Intelligence
 
-## Venezuela nears deal to tap disputed $4bn gold reserve
-Agreement would shift gold from London to New York and enable interim government of Delcy Rodríguez to access funding
-
 ## Howard Buffett to succeed father Warren as Berkshire Hathaway chair
-Conglomerate says the elder Buffett will step down as chair and take on role of chair emeritus
+Conglomerate says the elder Buffett will take on role of chair emeritus
 
-## Britons say they’re taking less annual leave. The ONS doesn’t believe them
-Incoherent methods —> “coherent series”
+## Former Wells Fargo asset manager Allspring explores $4bn sale
+Deal by private equity owners would follow a string of transactions that have reshaped the industry
 
-## On the EU, let Canada and Odysseus inspire Burnham
-This wily prime minister can find a way to take advantage of new possibilities for a ring of outer nations
+## Labour conference set to vote on new AI regulator as cabinet concerns grow
+Motion brought by union to replace AI Security Institute comes as minister opens door to strengthening legislation
 
-## Can Scottish Labour be revived by new leader?
-Candidates Michael Marra and Joe Fagan face a tough challenge despite Andy Burnham’s popularity
+## Why Scott Bessent should pay attention to Turkey’s market scandal
+It does not take a fraud to cause problems when markets get overstretched
 
-## Russia seizes control of Nestlé and Auchan operations
-Move is first crackdown on western-owned assets since 2023
+## Business and unions clash over how to fix UK’s youth jobs shortage
+TUC calls for £1bn expansion of jobs guarantee while employers push for tax cuts
 
-## FirstFT: Venezuela nears deal to transfer $4bn gold reserve to New York
-Also in today’s newsletter: top Republican warns Hispanic voters feel ‘betrayed’ by Trump and Wall Street trading boom fades
+## Come on Latin America, you owe me one
+After years and months of underperformance, I’m feeling lucky this time
 
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
+## UK air traffic outage caused by ‘legacy’ software bug, says review
+Under-fire air traffic agency says it is planning to invest £1bn in its systems by 2033
 
-## Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’
-The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’
+## Budget blues
+Plus, will Reform have to return its £72mn mega-donations?
 
-## Why Tata’s boardroom is at war
-The contest will determine the future of the more than 150-year-old business empire
+## Fed report finds it was ‘too timid’ in tackling risks at Silicon Valley Bank
+New review calls for overhaul of bank supervision
 
-## Blockbuster Ed Sheeran tour in doubt after fallout from protests
-Musician and advisers discussed whether to continue with remaining dates after rapper Macklemore was removed as supporting act
+## Anthropic and the golden rules of business
+Shifts in technology and geopolitics mean the ideal of the perfect company is changing
 
-## UK retail sales rose more than forecast in August
-Figures suggest consumers remained resilient despite mounting pressure on household finances
+## Court shines a further light on who was at fault in SVB implosion
+Federal judge rejects claims that criticism of bank executives was based on hindsight
 
-## Thames Water should be temporarily placed under public ownership, MPs warn
-Move would be ‘cost neutral’ for the Treasury while protecting 16mn customers served by UK utility, cross-party parliamentary committee says
+## Hackers target ships’ satellite links
+Mechanisms from engines to navigation are connected to ‘edge devices’ that make them vulnerable, warns cyber security group
 
-## Elevate Campuses fixes IPO price band at ₹343-362 a share
-The issue will open for subscription on September 23
+## Swiss sports brand On signs Kylian Mbappé in blow to Nike
+Group targets long-term partnership with French star, similar to relationship with tennis great Roger Federer
 
-## L&T Semiconductor unveils 40 products, including first SiC platform
-Its technologies span secure identity, intelligent surveillance, IP cameras, and communication solutions supporting critical infrastructure and strategic requirements
+## When the Board defies the Owner: Tata Rift sparks debate over shareholder rights
+Experts say the Tata Sons-Tata Trusts standoff has evolved into a broader debate over whether professional management can override the wishes of a controlling shareholder
 
-## India asks bulk users to source imported sugar to keep stock above 15 days requirement
-Traders, wholesalers are urged to pass on benefit of lower ex-mill prices to consumers
+## L&T sees $150-billion global modularisation opportunity
+The company ships 110 modules for 2.3 MTPA urea project in Australia
 
-## From GIFT City to Europe: India INX GA to launch tax-efficient UCITS for Indian investors
-The initiative will enable retail clients to trade products listed on major European bourses, including the London Stock Exchange (LSE), Euronext, and Deutsche Börse Xetra, expanding beyond the platform’s current US stock offerings
+## Supreme Court permits settlement of NSE co-location cases with SEBI
+The relief comes as NSE’s ₹22,562-crore IPO is open for subscription
 
-## The great Indian paneer heist: Who stole the milk? | Overthinkers Anonymous | EP 03
-The analogue paneer mystery: What’s really on your plate?
+## Listing of Tata Sons shares an imperative: Shapoorji Pallonji group
+While Noel Tata on Thursday asked the board of Tata Sons to explore options other than listing, SP group views share sale as a clear path to comply with Reserve Bank of India’s direction
 
-## India, Nepal discuss facilitating legitimate trade
-“The discussions aimed at promoting legitimate trade while enhancing compliance mechanisms to prevent misuse of preferential trade arrangements,” the ministry stated
+## Rebuilding damaged oil & gas infrastructure in West Asia offers EIL over $1 billion opportunity
+This conflict is offering us more opportunities in the MEG region, says Atul Gupta
 
-## IMD Update: TN, Kerala, Puducherry, Mahe to get heavy rain for 7 days
-The low-pressure area is expected to develop over the Bay of Bengal around Saturday, and could intensify initially into a monsoon depression, two steps away from being called a cyclone.
+## Mamata Banerjee announces support for Congress candidate Milan Pradhan in crucial Nandigram bypoll, police arrest Pradhan in old case
+For the greater interest of the country, we have decided to support the Congress nominee in Nandigram,” Mamata Banerjee said
 
-## Central Warehousing Corporation plans hyperloop freight pilot in Mumbai
-CWC has already placed an order with TuTr Hyperloop, a start-up associated with IIT Madras, for the first trial.
+## Apple iPhone 18 Pro models see launch-day frenzy; fans loosen purse strings
+Higher prices seems to have not had an impact on India’s appetite for Apple’s iPhones.
+
+## Karnataka govt to seek public opinion on renaming Dakshina Kannada district
+Karnataka CM announced that the Cabinet will issue a notice for opinions and objections regarding renaming Dakshina Kannada district to Mangaluru
+
+## He wrongly showed Rs 9.6 lakh EPF interest in ITR, taxman added it; ITAT gives full relief
+The tribunal found that the addition could not stand in the absence of evidence that the taxpayer had actually received the amount from the Employees’ Provident Fund Organisation (EPFO), withdrawn it from his EPF account or received any corresponding credit in his bank account.
+
+## 'No crude oil next month: Saudi Aramco to some European refiners after pipeline attack
+
+
+## The UPI fee is two rupees. Your fund fee is two thousand
+One honest caveat. Index funds have the least room to absorb anything. UTI Nifty 50 Index, direct plan, charges 0.18 per cent a year. Some index funds charge as little as 0.05.
+
+## RBI has record forex reserves, but why is rupee still not out of the woods?
+The currency is now hovering back to its two-month lows. While the RBI is intervening to prevent major volatility, the fact is the rupee is still facing immense pressure, and experts believe the currency is unlikely to appreciate much any time soon.
 
 ## NSE’s mega IPO crosses full subscription mark with strong institutional demand
 The National Stock Exchange of India's IPO saw full subscription on its second day. Strong demand from institutional investors drove the significant subscription levels. Qualified Institutional Buyers and non-institutional investors showed robust interest in the offering. The IPO is an entirely an o
 
-## India’s hydrogen train gets 40-60 riders vs 2,600 capacity; Delhi extension planned
+## India’s first hydrogen train may be extended to Delhi due to low traffic
 India’s first indigenous hydrogen-powered train was launched on July 17, marking a step towards the use of next-generation clean and sustainable transportation technology.
 
 ## Sebi warned on digital gold in 2025; now physical backing and oversight in works
@@ -75,41 +87,35 @@ The finance ministry has sought feedback from regulators, banks and other stakeh
 ## Gold price prediction: Should you buy gold on dips? Check September 18, 2026 outlook
 MCX Gold October futures are showing a strong intraday recovery, with prices trading around Rs 1,53,870 after breaking above the recent consolidation zone.
 
-## She paid Rs 79 lakh for Rs 2.14 crore villa, but it stayed unfinished; RERA orders refund with interest
-The Telangana RERA authority noted that the builder had already collected Rs 79 lakh, but had not placed any material on record showing the current status of construction of the villa.
+## Darjeeling honeymoon turns tragic for newlyweds after BBQ fire engulfs woman, incident caught on cam
+The woman's husband has lodged a police complaint over the incident and probe is underway.
 
-## Amid Tata group power struggle, Shapoor Mistry backs RBI’s call on Tata Sons listing; full text of statement
-Mistry’s family-owned Shapoorji Pallonji Group holds about 18.4% in Tata Sons. He said the RBI decision had brought “full clarity” and expressed his intention to work constructively with Tata Sons and the Tata Trusts on the holding company’s future.
+## Delhi: Gang member held with 2kg Pakistan-origin heroin worth ₹12 crore
+A key member of Rohit Godara-Mahender Delana gang was arrested, and two kilograms of alleged Pakistani-origin heroin concealed in a car were recovered
 
-## NSE IPO Day 2: After 43% subscription on first day, GMP stands at 8%; what brokerages are saying
-NSE IPO: On the first day, the issue was subscribed 43% overall, with bids received against the 8.86 crore shares on offer. Retail investors subscribed to 44% of the 4.41 crore shares reserved for them.
+## Delhi: 2 restaurant staffers held for extorting man lured through WhatsApp
+Police said that they allegedly extorted ₹25,000 from victim against an inflated bill of ₹21,000. They also threatened him with consequences if he approached the police
 
-## Top stocks to buy today: Stock market recommendations for September 18, 2026 - check list
-Stock market recommendations: Apar Industries, BEML, and Aegis Vopak Terminals - these are the top stocks to buy that have been picked by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for September 18, 2026.
+## Zubeen Garg death: Murder case, 7 accused and lasting legacy of Assam’s iconic singer
+Zubeen Garg’s death shook Assam; more than 1.5 million people joined his final journey when his body was taken to Kamarkuchi area near Guwahati on September 21 last year
 
-## Karnataka grants Tulu additional official language status in 2 coastal districts
-Karnataka has granted Tulu additional official language status in Dakshina Kannada and Udupi, fulfilling a long-standing demand, deputy CM D K Shivakumar said.
+## Maldives repays $150 million loan to India as economic crises persist
+The treasury bills were subscribed by the SBI in 2019 and had been extended on six occasions, each time for a year.
 
-## ‘Same old stalling as expected’: India hits back at Pakistan over naval collision response
-Speaking on the naval collision incident, MEA's Randhir Jaiswal said India had expected what he described as "the same old stalling" from Pakistan.
+## Delhi Metro records highest-ever footfall of 82.4 lakh amid DTC bus strike
+Celebrating the record footfall, DIG of the CISF Unit at DMRC Santosh Chalke said the milestone reflected the joint efforts of CISF and DMRC.
 
-## 12 death sentences, 13 acquittals later, Nithari’s Surendra Koli found dead in Haridwar: Timeline
-Surendra Koli, acquitted in Nithari serial killings case, was found dead at a tea stall in Haridwar on Friday.
+## Attacks by Yemen’s Houthi rebels on Saudi Arabia undermine regional security: MEA
+Reiterating India’s condemnation of Houthi attacks on Saudi Arabia’s economic facilities and attempted strike on the holy city of Makkah, EAM spokesperson said
 
-## Mamata's TMC faction opts out of Nandigram bypoll, to back Congress in rare move
-The development marks a rare move, as the TMC and Congress have usually contested elections in West Bengal independently.
+## ‘Envelope mein bharr ke kya aaya?’: CJP's dig after EC order granting symbol to TMC rebel faction
+In an order on Friday, the poll panel assigned the 'Envelope' symbol to the rival TMC group. The decision applies to the upcoming bypolls.
 
-## Tami Nadu bypoll: Know schedule, candidates and more in Vijay govt's first electoral test
-Tamil Nadu bypoll: The nominations of 58 candidates for the Madurantakam and Dharapuram bypolls were accepted on Thursday following scrutiny, EC said.
+## China’s crude imports are rising again. What will that mean for oil prices?
+China is showing early signs of stepping up imports of crude oil after months of subdued buying amid the US-Israel war on Iran, threatening to erode a buffer that has helped prevent a larger surge in global oil prices. But analysts do not expect China to quickly return to its pre-war import levels, 
 
-## Nandigram bypoll: TMC’s Mamata camp candidate withdraws nomination day after meeting Suvendu
-Pradhan Dey, a teacher who was fielded by the Mamata camp, met West Bengal Chief Minister Suvendu Adhikari at the state secretariat, Nabanna, on Friday.
-
-## Central Board of Film Certification issues new guidelines after nearly 35 years
-Issued by Ministry of Information and Broadcasting, the guidelines retain existing provisions on violence, obscenity, sexual violence, communal content, national security
-
-## Hyderabad court sentences 9, including 8 Bangladeshis, to life in trafficking case
-The accused were charged with bringing Bangladeshi women into India on the promise of employment and subsequently forcing them into prostitution.
+## Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources
+Tesla officials and engineers have begun auditing part of the firm’s Chinese supply chain, as Elon Musk’s company aims to quickly ramp up production of its Optimus humanoid robot after it hits the global market later this year, according to sources with knowledge of the matter. Chinese companies set
 
 ## Will AI adoption shrink office space? Asia-Pacific firms are on the fence in survey
 Nearly one-fifth of surveyed companies in the Asia-Pacific region believe wider adoption of artificial intelligence will reduce their real estate needs, a new study by CBRE has found. More than half – 56 per cent – held a neutral view, believing either that AI had no impact on office space demand or
@@ -129,11 +135,11 @@ Amid continuing geopolitical tensions and market uncertainty, greater use of the
 ## C-Suite Roundtable: Navigating the Healthcare Capital Lifecycle from Seed to Post-Listing
 Yesterday in Shanghai, more than 30 business leaders and investors from mainland China and Hong Kong gathered at a South China Morning Post C-Suite roundtable on “The Capital Lifecycle of the Healthcare Sector: From Seed to Post-Listing” held alongside BioShanghai Week 2026. The event, supported by 
 
-## ByteDance spin-off Anew Labs raises US$290m as AI drug developers enjoy fundraising boom
-China is seeing a fresh fundraising boom for artificial intelligence-powered drug developers, with start-ups including a ByteDance spin-off raising hundreds of millions of dollars this week as investors rush to back domestic challengers to Anthropic and Isomorphic Labs. Anew Labs, a Shanghai-based A
+## The Houthi Advance Is About More Than Just Iran
+The Saudi-Emirati rivalry is driving moves across the region.
 
-## How will Japan’s rate increase affect capital flow in global financial markets?
-Japan is adding a fresh layer of uncertainty to global financial markets by potentially triggering a new bout of turmoil in bond markets and dampening the appetite for risk assets, as Tokyo’s pursuit of bigger government spending stokes concerns about fiscal discipline and sends sovereign bond yield
+## What the BRICS Summit Meant for Brazil
+One year after hosting the event, is the country still shaping the bloc?
 
 ## Trump’s Risky Hack-Back Plan
 The U.S. president wants tech companies to go on the cyber-offensive. Will it work?
@@ -152,12 +158,6 @@ Peter Magyar is on a mission to restore Hungarians’ faith in public media.
 
 ## China, Not Iran, Is Trump’s Real Foreign-Policy Debacle
 In 19 months, Washington has lost ground to Beijing on every conceivable front.
-
-## What’s the Matter With Eastern Germany?
-German far-right populism traces back to reunification—but historians disagree about why.
-
-## Modi and Xi’s Meeting Caps a Detente
-Despite the thaw, India-China rivalry remains inevitable.
 
 ## Indonesian Parliamentary Committee Debates Changes to Fiscal Deficit Limit
 Some lawmakers say that the current administration should have the right to a 3 percent ceiling in order to support its expansive economic agenda.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Deadly blast hits mosque at Pakistan police complex
-Several people have reportedly been killed in an explosion at a mosque near a police complex in northwest Pakistan.
+## Police hit migrants with batons during camp transfer in Ceuta
+Police in Ceuta used batons and fired shots into the air as they began moving migrants from beaches to a new camp.
 
-## Who gets to decide how quickly AI moves?
-The biggest AI companies want to slow development together. The real question is what power they gain in return.
+## Carrick brushes off questions over his Manchester United future
+Michael Carrick says he expected tough season start as he rebuffs questions about his role as Manchester United manager.
 
-## North Korea anthem played at South’s Bangladesh hockey match at Asian Games
-Asian Games organisers in Japan accidently play North Korea's anthem ahead of South's hockey match with Bangladesh.
+## Real Madrid President says Ceuta visit not related to ‘recent news’
+Real Madrid stars including Kylian Mbappe rolled up T-shirts showing support for Ceuta, but President trip 'unrelated'.
 
-## Palmer and Alexander-Arnold recalled after England World Cup snub
-Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.
+## Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On
+On, which is set to launch its first football boots next year, also appointed Thierry Henry as its football director.
 
-## United Nations says US may have committed war crimes in Iran: What it means
-UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.
+## New Bolivian cat claws its way into species list: What we meow
+Purrfectly new to science: the first new wild cat found in over a century proves that cats do have nine (secret) lives.
 
-## ‘My children did not attack Iran’: 2bn South Asians suffer from distant war
-A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.
+## Russia seizes assets of French firms, summons UK envoy over Ukraine support
+Kremlin calls UK's support for Ukraine an endorsement of 'terrorism' after recent escalation in weapons supply.
 
-## Israel is killing the people who could end its wars
-From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.
+## Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’
+Spain's Lamine Yamal says most racism he has suffered has come from people unaware of their own comments or behaviour.
 
-## Ukraine fires drone barrage as Russia launches elections
-Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.
+## The cost of Iran’s regional leverage
+Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
@@ -279,6 +279,9 @@ The IT services company is preparing its next three-year plan as it enters the f
 ## Coforge rebuts boardroom tension claims, begins search for new directors with Egon Zehnder
 The IT services company said its board remained aligned on key strategic and governance decisions despite D.K. Singh’s resignation citing differences and tension, while it searches for two independent directors and a permanent chairperson.
 
+## In 2025, Sebi warned investors about digital gold. Now, your digital gold may soon need physical gold to back it; government weighs RBI-Sebi oversight for $3 billion industry
+The finance ministry has sought feedback from regulators, banks and other stakeholders. A broad consensus has emerged that digital gold should be classified as a security under the Securities Contracts (Regulation) Act, 1956.
+
 ## SEBI to look into broker, AMC concerns over UPI MDR: Tuhin Kanta Pandey
 SEBI chairman Tuhin Kanta Pandey said the regulator will look into concerns raised by brokers and AMCs over UPI MDR and assess how they can be eased, following the government’s recent framework introducing charges on specified merchant transactions.
 
@@ -299,7 +302,4 @@ The Reserve Bank of India has initiated court proceedings to secure its involvem
 
 ## BNP Government of Bangladesh reviews 101 pacts signed with India
 Dhaka is reviewing one hundred and one agreements signed with New Delhi. Bureaucrats trained in India over the past decade may face scrutiny. The ruling party alleges past governments compromised national interests with a friendly nation. Goods-laden vehicles from that country were reportedly allowe
-
-## Russia sanctions bill advances in US House, set for final vote as 100% tariff looms on India, others
-The US House of Representatives advanced a bill authorising President Donald Trump to impose 100% tariffs on India and other countries buying Russian oil and gas, while extending sanctions on Iran. The legislation cleared a 214-211 procedural vote after two Democrats backed Republicans and is expect
 
