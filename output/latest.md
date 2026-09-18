@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## French premier Lecornu proposes big spending cuts to reduce deficit
+France’s minority government heads for a showdown with parliament over the country’s budget
+
+## Thames Water should be temporarily placed under public ownership, MPs warn
+Move would be ‘cost neutral’ for the Treasury while protecting 16mn customers served by UK utility, cross-party parliamentary committee says
+
+## UK losing £1.3mn a day on nationalised steelworks
+MPs hit out at lack of plan for British Steel as ministers weigh new intervention in sector
+
 ## Trump administration approves $24bn sale of F-35 jets to Saudi Arabia
 Deal comes amid escalation in Middle East conflict — but transfer likely to face opposition in US Congress
 
@@ -18,23 +27,23 @@ Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he
 ## US regulator opens markets to tokenised stock trading
 Blockchain-based representations of traditional equities can be traded around-the-clock and more easily used as collateral
 
-## Hispanic voters feel ‘betrayed’ by Trump, top Republican says
-Florida lawmaker María Elvira Salazar rebukes president in TV ad for heavy-handed immigration policies
-
-## Sun, stats and suspicious productivity
-UK workers are better and more offline than previously thought
-
 ## Has AI broken the old VC model?
 A spate of mega-IPOs triggered by the AI boom is stretching the feast-or-famine industry dynamic to an extreme
 
 ## Rising rates throw a spanner in investment bankers’ spreadsheets
 When the cost of capital goes up, the value of a company theoretically goes down. Share prices tell a different story
 
-## Going faster will only slow AI down
-Without stronger safeguards, the danger is that any disaster could trigger a furious public backlash and regulatory overreaction
+## Sensex today | Stock Market Live: Stock to buy today: Acutaas Chemicals (₹3,315.60)
+Sensex, Nifty, Share Prices LIVE: Stock to buy today: Acutaas Chemicals’ stock reached a record high of ₹3,735 in early July. However, it lost momentum after that. Although it did not reverse the trend, the scrip started to consolidate. The chart shows formation of a strong base at ₹3,050. The ₹3,00
 
-## Workers at Diageo’s largest distillery to go on strike as demand slumps
-Unite union says staff at Cameronbridge in Scotland to walk out in protest against hundreds of planned job cuts in country
+## Stock to buy today: Acutaas Chemicals (₹3,315.60)
+Participants can go long now at ₹3,315 and buy more shares at ₹3,150
+
+## LCA delays, engine deals shape HAL’s growth roadmap: Ravi K, HAL CMD
+HAL CMD Ravi K specified that a few radar issues and weapon integration are done
+
+## Ahead of Semicon India 2026, PM Modi chairs roundtable with global semiconductor CEOs
+Ahead of Semicon India 2026, global semiconductor leaders discussed opportunities across manufacturing, design, infrastructure, talent development and emerging technologies
 
 ## Noel Tata tables ₹25,000 cr SP Group share monetisation plan for Tata Sons
 SP Group owns 18% in Tata Sons and is looking at various ways to raise liquidity to repay debt
@@ -48,17 +57,17 @@ ACME Chairman Manoj Kumar Upadhyay told that Brookfield’s $600 million investm
 ## ‘India needs targeted support for semiconductor equipment R&D’
 India also needs more pilot and reference facilities, says senior executive with KAS Group
 
-## Listing will destroy Tata group’s character: Noel Tata
-Noel Tata also voiced his opinions against share sale in board meeting
+## Tata Sons board gives Chandrasekaran 5 more years; move illegal, say Trusts
 
-## India accounts for 20% of global chip design workforce: Intel
-More than 85,000 semiconductor skill sets generated in India, says Intel senior executive
 
-## RBI announces ₹2.25 lakh crore 3-day VRRR auction
-The auction will be conducted on September 18, 2026, with funds set to reverse on September 21, 2026
+## Chandra needs majority support from Tata Trusts' nominees: Ex-CJI
 
-## Tata Sons board backs Chandra for third term, Noel Tata calls vote ‘legal nullity’
-Tata Trusts oppose listing, seek alternatives to comply with RBI’s upper-layer NBFC norms
+
+## Tata group dispute: Panel sought 5-year term for Chandrasekaran early September
+
+
+## Tata Sons must stay unlisted, should engage with RBI: Noel Tata
+'Position Of Board, Trusts On Staying Private Remains Unchanged'
 
 ## Judge Amogh Kaloti: The man who holds key to Tata dispute
 
@@ -72,17 +81,8 @@ The woman had a younger sister and a brother, who lived nearby. The brother used
 ## NSE IPO: Why did India's second largest initial public offering not get fully subscribed on Day 1?
 According to exchange data, investors bid for 3.83 crore shares against the 8.86 crore shares offered in the issue. Non-institutional investors subscribed to 72% of their quota, while the retail portion was subscribed 44%.
 
-## Who owns Tata, who runs it? The power struggle between Tata Sons and Tata Trusts explained
-Tata Sons said in a statement that "Chandra acceded to the Board's request to reconsider his decision". The board subsequently "resolved by a majority vote to re-appoint him as Executive Chairman for a further term of five years upon the expiry of his current tenure".
-
-## NSE IPO subscription status: National Stock Exchange’s offer gets subscribed 42% on its first day
-IPO subscriptions often gain pace in the later stages of the bidding period. The NSE issue will remain open until September 21, with the listing scheduled for September 24.
-
-## Big battle breaks out: Tata Trusts call reappointment of Chandrasekaran as chairman 'illegal'
-Tata Trusts has declared N Chandrasekaran's reappointment as Tata Sons chairman illegal. The Trusts argue the board resolution is a legal nullity due to Noel Tata's opposition. This dispute arises after the RBI rejected Tata Sons' bid to surrender its core investment company status. The Tata Sons bo
-
-## 'Implications for ties': How India, Russia & China reacted to US sanctions Bill
-A new US sanctions bill allows tariffs on countries buying Russian energy. India prioritizes energy security and economic interests while monitoring developments. Russia criticizes the sanctions, stating they could hinder Ukraine peace efforts. China rejects US "long-arm jurisdiction" over its trade
+## Went to see ‘friend’, gang-raped, stabbed over 6 times: Teen found dead in Delhi
+One accused, a 17-year-old boy, appeared to be the victim’s “friend” whom she had gone to meet, investigators said. The other accused were the boy's friends.
 
 ## ECI reserves TMC symbol amid dispute; asks Mamata, Ritabrata factions to pick new names, symbols ahead of bypolls
 The Election Commission of India said the decision was aimed at placing both groups on an “even keel” and protecting their rights and interests.
@@ -105,8 +105,8 @@ Assam Police and GRP detained 27 Bangladeshi nationals in Guwahati and Rangia. O
 ## Assam Foreigners Tribunal member accused of demanding bribe for bail arrested
 The Foreigners Tribunal is a quasi-judicial body in Assam that determines if an individual is an illegal immigrant, and has the power to order their detention
 
-## 'Politically motivated': Uddhav Thackeray denies link to Disha Salian case, alleges ‘character assassination’
-Uddhav Thackeray reiterated said that Disha Salian's death was an unfortunate incident but his family had no connection with it.
+## How will rate increase in Japan affect capital flow in global financial markets?
+Japan is adding a fresh layer of uncertainty to global financial markets by potentially triggering a new bout of turmoil in bond markets and dampening the appetite for risk assets, as Tokyo’s pursuit of increased defence spending stokes concerns about fiscal discipline and sends sovereign bond yield
 
 ## Hong Kong malls bet on Asian Games to boost footfall, tenant sales amid spending shifts
 Hong Kong shopping mall operators are extending a strategy used during this year’s Fifa World Cup into the Asian Games, leveraging major sporting events to draw visitors and support tenant sales as retailers face competition from Shenzhen, overseas shopping and online spending. Sino Group is among t
@@ -128,9 +128,6 @@ Hong Kong is broadening its equity markets, deepening its offshore yuan business
 
 ## Huawei quickens AI chip pace, promises next entrant 3 quarters early
 Huawei Technologies said on Thursday that it would launch its next-generation artificial intelligence chip in the first quarter of 2027, moving the target launch forward by nine months as the firm aggressively expands its ecosystem amid China’s self-sufficiency push. David Wang Tao, rotating and act
-
-## Exchange Fund weighs bigger gold holdings to support Hong Kong’s trading hub plan
-Hong Kong’s Exchange Fund, the war chest used to defend the local currency, is considering increasing its exposure to gold and other precious metals as part of the government’s push to develop the city into a gold trading hub. Hong Kong Monetary Authority (HKMA) chief executive Eddie Yue Wai-man sai
 
 ## Trump’s Risky Hack-Back Plan
 The U.S. president wants tech companies to go on the cyber-offensive. Will it work?
@@ -156,6 +153,9 @@ German far-right populism traces back to reunification—but historians disagree
 ## Modi and Xi’s Meeting Caps a Detente
 Despite the thaw, India-China rivalry remains inevitable.
 
+## After a Self-Immolation at the UN, Rethinking What Beijing Fears on Tibet
+Beijing’s real vulnerability is not international action. It’s rising awareness within the Chinese population.
+
 ## The Potential Mismatch Between Japan and the US on China
 Ahead of the Trump-Xi summit, it is critical for Japan that the United States stays on the same page regarding the challenge from China.
 
@@ -176,9 +176,6 @@ Brian Mast (R-FL) and John Moolenaar (R-MI) have requested probes into 28 people
 
 ## Indian, Pakistani Naval Vessels Collide in Arabian Sea, Prompting Diplomatic Tensions
 This is the first time since the May 2025 military clashes that tension between the two sides has erupted into the open.
-
-## Who Is to Blame for the Massive Death Toll in the Nepal Floods?
-The problem wasn’t China or a lack of data; it was Nepal’s lack of follow-through.
 
 ## Latin America’s Balancing Act: Washington, Beijing, and the Post-Maduro Environment
 The year 2026 has brought sweeping change to Latin America’s relationship with the United States. Following a major military buildup in the Caribbean and strikes against vessels suspected of drug trafficking, U.S. forces captured Venezuelan President Nicolás Maduro on Jan. 3 — unilaterally deposing 
@@ -228,6 +225,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Tunisia floods disrupt capital as heavy rain traps motorists and residents
+Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness.
+
+## Iran expels Swedish diplomat in retaliatory move
+Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.
+
+## Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz
+Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'.
+
+## Migrant sea crossings to Europe drop sharply as deaths rise: IOM
+More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.
+
+## US approves $414M uranium investment in Niger, two years after troops left
+Uranium project investment could mark a turning point in US-Niger and US-Canada relations.
+
 ## Russia election: Could other parties challenge United Russia?
 Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
 
@@ -236,21 +248,6 @@ Lawyers criticised mass arrests under emergency powers that allowed authorities 
 
 ## US judge orders 30-day notice prior to any Kennedy Center physical changes
 The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.
-
-## Trump administration approves sale of F-35 jets to Saudi Arabia
-The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.
-
-## Yemenis recount journey to Djibouti as refugee arrivals surge
-Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.
-
-## US approves visas for top Iranian leaders to attend UN General Assembly
-Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.
-
-## Pennsylvania seeks CDC help amid dispute over US measles deaths
-The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.
-
-## Russia, China veto UN mandate to monitor Iran sanctions
-Move ends the Security Council’s watchdog panel on Iran sanctions.
 
 ## Tata Sons approves five-year extension for N Chandrasekaran to prepare for IPO
 The Tata Sons board has approved N Chandrasekaran’s reappointment as executive chairman for another five-year term and initiated steps towards listing the group holding company, according to people familiar with the matter.
