@@ -1,7 +1,13 @@
 # AION Intelligence
 
+## Trump says US has deal with Denmark for ‘control’ of Greenland’s security
+Danish government says agreement could be signed next week and will respect territory’s sovereignty
+
 ## Trump bans major US news outlets from White House
-CNN, MS Now and Politico barred by president as he escalates assault on media
+President bars CNN, MS Now and Politico as he escalates assault on media
+
+## Trump says son paid back Russian businessman for wedding weekend gift
+Umar Kremlev reportedly spent hundreds of thousands of dollars on Donald Trump Jr’s wedding after-party in the Bahamas
 
 ## Oracle’s $18bn data centre debt under strain amid local pushback
 Investors grow wary of permitting and construction delays as opposition mounts in New Mexico
@@ -18,14 +24,11 @@ Betfred founder Fred Done threatens 500 shop closures over tax rises that have l
 ## White House attacks Fed official after review of Silicon Valley Bank collapse
 New report finds ‘culture of risk aversion’ among banking regulators led to mishandling of weaknesses at tech-heavy lender
 
-## Ex-Apollo executive admits to improperly using company documents
-Imran Siddiqui had been sued by buyout group’s Athene unit over his rival start-up
-
-## Starmer looked at softening £100,000 ‘tax trap’ for higher earners
-Andy Burnham’s government is not considering a similar move against 60% rate viewed by economists as a dysfunction in tax system
-
 ## British data centre group Nscale files for $35bn US listing
 Start-up has won a huge contract to supply computing power to Anthropic
+
+## Ex-Apollo executive admits to improperly using company documents
+Imran Siddiqui had been sued by buyout group’s Athene unit over his rival start-up
 
 ## Who is Howard Buffett, Berkshire Hathaway’s next chairman?
 The 71-year-old has spent 33 years on Berkshire’s board and is expected to focus on preserving its distinctive corporate culture.
@@ -51,6 +54,9 @@ Beyond weight-loss drugs, pharma players spot fresh opportunities in consumer we
 ## Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
 Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
 
+## Trump signs Russia sanctions bill into law, gains authority to impose 100% tariff on India and China
+President Trump has officially enacted a new sanctions law aimed at Russia and Iran, empowering the U.S. to impose penalties on nations purchasing Russian energy supplies. Countries like India and China, significant buyers of Russian crude and gas, have raised concerns about the potential impact on 
+
 ## Sugar retail prices down 10% ahead of festive season, govt eases stock cap
 
 
@@ -71,9 +77,6 @@ The currency is now hovering back to its two-month lows. While the RBI is interv
 
 ## NSE’s mega IPO crosses full subscription mark with strong institutional demand
 The National Stock Exchange of India's IPO saw full subscription on its second day. Strong demand from institutional investors drove the significant subscription levels. Qualified Institutional Buyers and non-institutional investors showed robust interest in the offering. The IPO is an entirely an o
-
-## India’s first hydrogen train may be extended to Delhi due to low traffic
-India’s first indigenous hydrogen-powered train was launched on July 17, marking a step towards the use of next-generation clean and sustainable transportation technology.
 
 ## Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report
 The legislation will give Trump the authority to impose tariffs of up to 100% on countries that continue to buy Russian oil and gas, which includes India.
@@ -219,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Super Macklemore 64: Video game mocks Sheeran concert controversy
+In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts.
+
+## Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours
+The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.
+
+## Trump claims deal with Denmark gives US ‘permanent control’ over Greenland
+Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.
+
+## Brighton vs Arsenal: Premier League – predictions, teams, lineups
+Premier League holders Arsenal have won all seven of their matches to start the new season.
+
+## New cat species found, first in more than 100 years
+A new species of living cat has been identified for the first time in more than a century.
+
+## Germany receives first F-35 jet from US as NATO boosts military spending
+Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.
+
 ## UK court clears woman of voicing support for Hamas in university speech
 Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians' right to resist.
 
 ## ‘Daughter of Damascus’ Assala performs in Syria after 15-year exile
 Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus.
-
-## Syria arrests five former al-Assad-era officers over strikes on civilians
-Former air officers, including an air force general, were arrested in a series of operations.
-
-## Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’
-The US president insists media outlets report 'fiction and lies' as he enforces new bans on White House access.
-
-## Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’
-Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine.
-
-## Lebanese artist turns Israeli missile debris into art
-In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art.
-
-## Two injured by Israeli shelling as troops advance in southern Lebanon
-Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.
-
-## England fast bowler Carse to face no charges over alleged nightclub assault
-Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
