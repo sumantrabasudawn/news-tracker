@@ -1,112 +1,130 @@
 # AION Intelligence
 
-## French premier Lecornu proposes big spending cuts to reduce deficit
-France’s minority government heads for a showdown with parliament over the country’s budget
+## The QT endgame at the BoE
+Still trying for boring
 
-## Thames Water should be temporarily placed under public ownership, MPs warn
-Move would be ‘cost neutral’ for the Treasury while protecting 16mn customers served by UK utility, cross-party parliamentary committee says
+## EU mulls compromise options on Usmanov sanctions to end French stand-off
+Also in this newsletter: EU commissioner warns of AI ‘arms race’
 
-## UK losing £1.3mn a day on nationalised steelworks
-MPs hit out at lack of plan for British Steel as ministers weigh new intervention in sector
+## FirstFT: Merz fights for survival
+Also in today’s newsletter: Turkish funds freeze and French budget
 
-## Trump administration approves $24bn sale of F-35 jets to Saudi Arabia
-Deal comes amid escalation in Middle East conflict — but transfer likely to face opposition in US Congress
+## NHS executive lobbied data watchdog to rewrite criticism before Palantir deal
+Controversial US tech group won the contract to build the Federated Data Platform for health service three months later
 
-## OpenAI discloses new ‘concerning’ model behaviour
-Developer launches system to track and report AI model misconduct
+## ‘Berlin’s Mamdani’ seeks to pile pain on Merz
+Elif Eralp could become first mayor of Turkish origin in the German capital
 
-## FirstFT: Tata’s boardroom battle deepens
-Also in today’s newsletter: Huawei chair urges Chinese AI companies to accelerate development and BoJ set to raise rates
+## Lib Dems hope EU single market campaign will reignite political fortunes
+Daisy Cooper says party will use its conference to build on gains laid at past election
 
-## Healey to urge Brussels to include UK in ‘Made in Europe’ policy
-British finance minister will indicate to EU counterparts that London is willing to negotiate to reach ‘reset’ deal
+## Venezuela nears deal to move $4bn gold reserve from London to New York
+Agreement would allow interim government of Delcy Rodríguez to access funding
 
-## OpenAI staff knew the ‘existential threat’ AI posed to publishers, New York Times claims
-Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content
+## Pakistan army chief urges Iran to restrain Houthis
+Islamabad cites defence pact with Saudi Arabia as it lobbies Tehran over rebel campaign against Riyadh
 
-## US regulator opens markets to tokenised stock trading
-Blockchain-based representations of traditional equities can be traded around-the-clock and more easily used as collateral
+## The new credit debacle gripping Wall Street
+Glencore has found itself at the centre of the controversy involving the embattled iron ore trader Radiant World
 
-## Has AI broken the old VC model?
-A spate of mega-IPOs triggered by the AI boom is stretching the feast-or-famine industry dynamic to an extreme
+## Europe can attract more stock trading with fewer, better markets
+A bigger European exchange could better woo US investors seeking to diversify from the tech-centricity of their own markets
 
-## Rising rates throw a spanner in investment bankers’ spreadsheets
-When the cost of capital goes up, the value of a company theoretically goes down. Share prices tell a different story
+## Will El Niño be the saviour of Europe’s energy market?
+The continent’s storage is 69 per cent full, compared with more than 80 per cent this time last year
 
-## Sensex today | Stock Market Live: Stock to buy today: Acutaas Chemicals (₹3,315.60)
-Sensex, Nifty, Share Prices LIVE: Stock to buy today: Acutaas Chemicals’ stock reached a record high of ₹3,735 in early July. However, it lost momentum after that. Although it did not reverse the trend, the scrip started to consolidate. The chart shows formation of a strong base at ₹3,050. The ₹3,00
+## The real risk of private credit’s involvement in the annuity business
+The critical issue is liquidity and ensuring that long-term promises to pay retirement benefits are met
 
-## Stock to buy today: Acutaas Chemicals (₹3,315.60)
-Participants can go long now at ₹3,315 and buy more shares at ₹3,150
+## How money moved across Mark Walter’s empire
+Flows raise questions about whether financier drew on insurance assets to help ease financial troubles elsewhere
 
-## LCA delays, engine deals shape HAL’s growth roadmap: Ravi K, HAL CMD
-HAL CMD Ravi K specified that a few radar issues and weapon integration are done
+## Medical AI has a proof problem
+The technology’s advances have not yet translated into big improvements in real-life care
 
-## Ahead of Semicon India 2026, PM Modi chairs roundtable with global semiconductor CEOs
-Ahead of Semicon India 2026, global semiconductor leaders discussed opportunities across manufacturing, design, infrastructure, talent development and emerging technologies
+## Sensex today | Stock Market Live: Sensex, Nifty hold gains; Tata stocks decline, sectoral indices trade firm
+Sensex, Nifty, Share Prices LIVE: Stock to buy today: Five Indian IPOs ​are currently open for subscription, including the National Stock Exchange of India's issue, which was subscribed 0.43 ⁠times on the first day of bidding. As of 9:40 am, Tata ‌Chemicals tumbled as much as ‌7.8%, ⁠while Tata Inve
 
-## Noel Tata tables ₹25,000 cr SP Group share monetisation plan for Tata Sons
-SP Group owns 18% in Tata Sons and is looking at various ways to raise liquidity to repay debt
+## Apple Pay eyes India rollout with Axis Bank in October, sources say
+Axis Bank ‌is the fourth-largest credit card issuer in India.
 
-## BL Agro to invest ₹1,500 crore in cattle genetics, reproductive technology
-BL Agro plans to develop an integrated cattle genetics and reproductive-technology ecosystem aimed at improving breed quality and productivity in India’s dairy sector
+## Listing of Tata Sons shares an imperative, says Shapoorji Pallonji group
+While Noel Tata on Thursday asked the board of Tata Sons to explore options other than listing, SP group views share sale as a clear path to comply with Reserve Bank of India’s direction.
 
-## Brookfield’s $600-million ACME bet can take India’s green molecules to global scale: Manoj Upadhyay
-ACME Chairman Manoj Kumar Upadhyay told that Brookfield’s $600 million investment in ACME Cleantech Ventures could help Indian green-molecule projects scale globally
+## Kerala start-up FalconFeeds inks pact with UAE Cybersecurity Council
+Both entities to organise cross-sector cyber exercises, technical workshops, and international conferences
 
-## ‘India needs targeted support for semiconductor equipment R&D’
-India also needs more pilot and reference facilities, says senior executive with KAS Group
+## Veegaland Developers hit lower circuit after 10% premium listing on NSE
+Despite a strong initial listing, Veegaland Developers faces immediate selling pressure, with analysts advising caution amid concerns over valuation and the need for sustained growth to justify the premium.
 
-## Tata Sons board gives Chandrasekaran 5 more years; move illegal, say Trusts
+## Shapoor Mistry backs Tata Sons listing, calls it opportunity for greater accountability
+Mistry, whose family’s Shapoorji Pallonji Group owns about 18.4% of Tata Sons, said the RBI’s decision had provided “full clarity” and that he looked forward to working constructively with Tata Sons and the Tata Trusts
+
+## Takeda’s Qdenga dengue vaccine to be distributed in India by Dr Reddy’s in 2027
+Takeda’s two-dose dengue vaccine has been approved by CDSCO for people aged 4-60
+
+## Zee Entertainment shareholders approve reappointment of five Board of Directors during AGM
+The shareholders approved the re-appointment of Deepu Bansal, Uttam Prakash Agarwal, P.V. Ramana Murthy and Shishir Babubhai Desai as Independent Directors, and Saurav Adhikari as Non-Executive Director with requisite majority.
+
+## Amid Tata group power struggle, Shapoor Mistry backs RBI’s call on Tata Sons listing; full text of statement
+Mistry’s family-owned Shapoorji Pallonji Group holds about 18.4% in Tata Sons. He said the RBI decision had brought “full clarity” and expressed his intention to work constructively with Tata Sons and the Tata Trusts on the holding company’s future.
+
+## NSE IPO Day 2: After 43% subscription on first day, GMP stands at 8%; what brokerages are saying
+NSE IPO: On the first day, the issue was subscribed 43% overall, with bids received against the 8.86 crore shares on offer. Retail investors subscribed to 44% of the 4.41 crore shares reserved for them.
+
+## Top stocks to buy today: Stock market recommendations for September 18, 2026 - check list
+Stock market recommendations: Apar Industries, BEML, and Aegis Vopak Terminals - these are the top stocks to buy that have been picked by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for September 18, 2026.
+
+## NSE IPO subscribed 43% on day 1
 
 
-## Chandra needs majority support from Tata Trusts' nominees: Ex-CJI
+## Global oil prices slip 1% for third day on hopes of limited supply disruptions
 
 
-## Tata group dispute: Panel sought 5-year term for Chandrasekaran early September
+## Rupee rebounds 16 paise to 95.73 from over two-month low on crude relief
 
 
-## Tata Sons must stay unlisted, should engage with RBI: Noel Tata
-'Position Of Board, Trusts On Staying Private Remains Unchanged'
-
-## Judge Amogh Kaloti: The man who holds key to Tata dispute
+## Brookfield to invest up to $600mn in ACME's business
 
 
-## UPI fee: Government, payment gateways discuss ways to stop merchants passing burden to consumers
-The government is currently in talks with payment platforms to ensure that merchant fees do not get passed on to consumers. Starting from October fifteenth, officials will closely monitor this situation to protect consumers. They also reassured that merchants will not incur additional GST costs once
+## Tata Group stocks fall after SP Group proposes $2.6 billion stake sale in Tata Sons
 
-## She willed house to sister, revoked it; HC upholds second Will for adopted daughter
-The woman had a younger sister and a brother, who lived nearby. The brother used to visit and care for his sister as she grew older. On February 15, 2008, the woman Kaur revoked her first Will, which had originally intended to leave the property to the younger sister after her death.
 
-## NSE IPO: Why did India's second largest initial public offering not get fully subscribed on Day 1?
-According to exchange data, investors bid for 3.83 crore shares against the 8.86 crore shares offered in the issue. Non-institutional investors subscribed to 72% of their quota, while the retail portion was subscribed 44%.
+## UPI fee burden won't fall on consumers, govt plans to track merchants: Report
+The NPCI, which operates the UPI platform, issued a circular on September 15 introducing MDR on certain UPI transactions.
 
-## Went to see ‘friend’, gang-raped, stabbed over 6 times: Teen found dead in Delhi
-One accused, a 17-year-old boy, appeared to be the victim’s “friend” whom she had gone to meet, investigators said. The other accused were the boy's friends.
+## Missing Delhi man found dead in Gurugram, was shot by ex-colleague, her partner
+A police team was deputed to Uttarakhand, from where the Delhi man's ex-colleague and her partner were apprehended.
 
-## ECI reserves TMC symbol amid dispute; asks Mamata, Ritabrata factions to pick new names, symbols ahead of bypolls
-The Election Commission of India said the decision was aimed at placing both groups on an “even keel” and protecting their rights and interests.
+## Outstation patients left in lurch as DTC drivers’ strike enters fourth day
+High auto-rickshaw and cab fares have left many outstation commuters stranded between difficult public transport options and expensive alternatives
 
-## India secures EU steel quota, seafood and shipbreaking concessions ahead of FTA
-India has secured a 2.8-million-tonne duty-free steel export quota, seafood export approvals and shipbreaking concessions from the EU ahead of the FTA.
+## Pawar urges Fadnavis to declare drought, provide ₹50,000 per hectare aid to farmers
+Pawar urges Fadnavis to declare drought, provide ₹50,000 per hectare aid to farmers
 
-## 16-year-old girl gang-raped by 4 teens, found stabbed to death days later in Delhi
-The girl knew one of the suspects, a 17-year-old, and had gone to meet him on Saturday evening.
+## New passport rule sets five-year validity for children under 15, revises fee
+The new regulations, notified through the Passports (Amendment) Rules, 2026, came into force immediately upon publication in the Official Gazette on Sept 15.
 
-## SC awards ₹12 lakh to Haryana woman denied Indian Oil Corporation job in 1988
-Haryana woman was denied helper’s job at an LPG bottling plant in 1988 because the company considered the work of carrying gas cylinders unsuitable for women
+## ‘Happens all the time alas’: Shashi Tharoor after user flags grammar goof up in PM Modi birthday wish
+The Congress leader, who is known for his command of the English language and use of complex vocabulary, responded to the criticism the following day.
 
-## Veteran Congress leader Sudarsana Natchiappan dies at 79
-He was elected to the Lok Sabha from Sivaganga in 1999 and served as a member of the House until 2004.
+## Odisha: 12 sentenced to life in prison for murdering father, son over witchcraft
+The 12 were convicted of deliberating killing the victims because they believed the victims indulged in witchcraft
 
-## Assam detains 27 Bangladeshi nationals in joint operation with railway police
-Assam Police and GRP detained 27 Bangladeshi nationals in Guwahati and Rangia. Officials have begun the process to send them back to Bangladesh.
+## Light travellers get dedicated gates for entry at all Delhi airport terminals | Check gate numbers
+Called Express@DEL, the service was launched by Delhi airport deputy CEO Manomad Rai on Friday.
 
-## Assam Foreigners Tribunal member accused of demanding bribe for bail arrested
-The Foreigners Tribunal is a quasi-judicial body in Assam that determines if an individual is an illegal immigrant, and has the power to order their detention
+## Standard Chartered sharpens its yuan advisory edge as currency’s global rise continues
+Amid continuing geopolitical tensions and market uncertainty, greater use of the yuan for international trade settlements, raising funds, managing liquidity and allocating investments is a logical strategy for executives overseeing treasury and finance functions. At the end of 2025, the People’s Ban
 
-## How will rate increase in Japan affect capital flow in global financial markets?
-Japan is adding a fresh layer of uncertainty to global financial markets by potentially triggering a new bout of turmoil in bond markets and dampening the appetite for risk assets, as Tokyo’s pursuit of increased defence spending stokes concerns about fiscal discipline and sends sovereign bond yield
+## C-Suite Roundtable: Navigating the Healthcare Capital Lifecycle from Seed to Post-Listing
+Yesterday in Shanghai, more than 30 business leaders and investors from mainland China and Hong Kong gathered at a South China Morning Post C-Suite roundtable on “The Capital Lifecycle of the Healthcare Sector: From Seed to Post-Listing” held alongside BioShanghai Week 2026. The event, supported by 
+
+## ByteDance spin-off Anew Labs raises US$290m as AI drug developers enjoy fundraising boom
+China is seeing a fresh fundraising boom for artificial intelligence-powered drug developers, with start-ups including a ByteDance spin-off raising hundreds of millions of dollars this week as investors rush to back domestic challengers to Anthropic and Isomorphic Labs. Anew Labs, a Shanghai-based A
+
+## How will Japan’s rate increase affect capital flow in global financial markets?
+Japan is adding a fresh layer of uncertainty to global financial markets by potentially triggering a new bout of turmoil in bond markets and dampening the appetite for risk assets, as Tokyo’s pursuit of bigger government spending stokes concerns about fiscal discipline and sends sovereign bond yield
 
 ## Hong Kong malls bet on Asian Games to boost footfall, tenant sales amid spending shifts
 Hong Kong shopping mall operators are extending a strategy used during this year’s Fifa World Cup into the Asian Games, leveraging major sporting events to draw visitors and support tenant sales as retailers face competition from Shenzhen, overseas shopping and online spending. Sino Group is among t
@@ -119,15 +137,6 @@ Hong Kong’s property market dodged an immediate hit from the Federal Reserve�
 
 ## Fed rate hike risks worsening China’s economic divide
 The US Federal Reserve raised interest rates for the first time in three years in an effort to quell inflation partly caused by the war on Iran helping to drive up fuel prices. Policymakers voted unanimously on Wednesday to lift rates by 25 basis points to between 3.75 and 4.00 per cent. Sixteen of 
-
-## Who’s in control of Japanese monetary policy? Tokyo or Washington?
-Before the unexpected intervention in Japan’s foreign exchange market by the US Treasury Department on July 31 – the first time both countries joined forces to support the yen via outright purchases since 1998 – the probability of the Bank of Japan raising interest rates at its policy meeting on Sep
-
-## How Hong Kong’s new 5-year plan courts global capital with an eye on market dominance
-Hong Kong is broadening its equity markets, deepening its offshore yuan business and expanding further into gold trading under its first five-year plan for economic and social development, as the city seeks to defend its standing as Asia’s top financial centre and close the gap with London. Unveiled
-
-## Huawei quickens AI chip pace, promises next entrant 3 quarters early
-Huawei Technologies said on Thursday that it would launch its next-generation artificial intelligence chip in the first quarter of 2027, moving the target launch forward by nine months as the firm aggressively expands its ecosystem amid China’s self-sufficiency push. David Wang Tao, rotating and act
 
 ## Trump’s Risky Hack-Back Plan
 The U.S. president wants tech companies to go on the cyber-offensive. Will it work?
@@ -225,29 +234,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tunisia floods disrupt capital as heavy rain traps motorists and residents
-Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness.
+## Russia’s parliamentary election: Who’s on the ballot, and why it matters
+United Russia won more than two-thirds of the Duma's seats in the 2021 election and is poised to dominate the body again
 
-## Iran expels Swedish diplomat in retaliatory move
-Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.
+## UN mission alleges crimes against humanity in Iranian protest crackdown
+A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.
 
-## Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz
-Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'.
+## South Korea says US-North Korea talks possible, rules out Hormuz deployment
+South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.
 
-## Migrant sea crossings to Europe drop sharply as deaths rise: IOM
-More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.
+## Fire engulfs Zaporizhzhia shopping centre after Russian strike
+A Russian strike hit a shopping centre in Zaporizhzhia, southeastern Ukraine, sparking a major fire.
 
-## US approves $414M uranium investment in Niger, two years after troops left
-Uranium project investment could mark a turning point in US-Niger and US-Canada relations.
+## Australia to detain tourists who overstay visas amid immigration crackdown
+More than 77,000 visa overstayers face detention or departure as Australia cracks down on immigration violations.
 
-## Russia election: Could other parties challenge United Russia?
-Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
+## Could this economic squeeze sway US voters?
+Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.
 
-## Trinidad and Tobago ends state of emergency amid pushback over mass arrests
-Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.
+## New tiger cat species identified in Bolivia, first in over a century
+Leopardus tilcayo is the first new living cat species named and described in more than a century.
 
-## US judge orders 30-day notice prior to any Kennedy Center physical changes
-The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.
+## Bank of Japan raises rates to 31-year high of 1.25% as inflation rises
+Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.
+
+## Tata Sons: One boardroom, two battles
+Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
+
+## The Tata Sons boardroom battle and what happens next
+The Tata Sons board’s decision to give N Chandrasekaran another five-year term and move ahead with a potential listing has reopened a deeper question at the heart of India’s most closely watched business group: who ultimately decides the direction of Tata Sons when its board and its largest sharehol
 
 ## Tata Sons approves five-year extension for N Chandrasekaran to prepare for IPO
 The Tata Sons board has approved N Chandrasekaran’s reappointment as executive chairman for another five-year term and initiated steps towards listing the group holding company, according to people familiar with the matter.
@@ -266,12 +281,6 @@ The IT services company is preparing its next three-year plan as it enters the f
 
 ## Coforge rebuts boardroom tension claims, begins search for new directors with Egon Zehnder
 The IT services company said its board remained aligned on key strategic and governance decisions despite D.K. Singh’s resignation citing differences and tension, while it searches for two independent directors and a permanent chairperson.
-
-## Gulf Oil Lubricants targets double-digit volume growth, bets on PV fluids and B2B expansion: CFO
-Gulf Oil Lubricants is targeting double-digit volume growth by continuing to grow at 2 to 3 times the industry rate, while simultaneously betting on B2B expansion in infrastructure and industrial segments, CFO Manish Gangwal said in an exclusive interview with ETCFO. The Hinduja group company that m
-
-## Tata Sons may be valued up to ₹12.5 lakh cr in IPO
-Tata Sons' potential IPO valuation is estimated between ₹9-12.5 lakh crore., reflecting a discount on its underlying portfolio worth ₹15-16 lakh crore. Investors will price listed stakes and unlisted businesses, applying a holding company discount. The Reserve Bank of India rejected Tata Sons' plea 
 
 ## SEBI's F&O expiry settlement changes could address key CAS concerns; deeper cash market reforms needed: Kotak
 The Securities and Exchange Board of India's (SEBI) proposed changes to the settlement of futures and options (F&O) contracts could address a key concern over the reliance on the Closing Auction Session (CAS) to determine expiry prices, but deeper cash-market participation will be needed to make the
