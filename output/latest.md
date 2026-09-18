@@ -1,67 +1,64 @@
 # AION Intelligence
 
-## Howard Buffett to succeed father Warren as Berkshire Hathaway chair
+## Starmer looked at softening £100,000 ‘tax trap’ for higher earners
+Andy Burnham’s government is not considering a similar move against 60% rate viewed by economists as a dysfunction in tax system
+
+## Gavin Newsom advances AI ‘kill switch’ in response to safety fears
+California’s governor signals tougher stance on the technology after public outcry
+
+## Ex-Apollo executive admits to improperly using company documents
+Imran Siddiqui had been sued by buyout group’s Athene unit over his rival start-up
+
+## VW warns of hit of up to €10bn from Porsche writedown and restructuring costs
+Shares in Europe’s largest carmaker fell as much as 7% as it continues to struggle in the competitive Chinese market
+
+## Yen sinks after BoJ raises rates to highest level since 1995
+Authorities warn of further potential currency intervention after central bank move fails to buoy currency
+
+## Airlines demand millions in compensation over UK air traffic outage
+Under-fire air traffic agency blames ‘legacy’ software bug and says it is planning to invest £1bn in its systems by 2033
+
+## The relentless creep of Britain’s compliance state
+While some rules are just fiddly and frustrating, others do real harm
+
+## Warren Buffett’s son to succeed his father as Berkshire Hathaway chair
 Conglomerate says the elder Buffett will take on role of chair emeritus
-
-## Former Wells Fargo asset manager Allspring explores $4bn sale
-Deal by private equity owners would follow a string of transactions that have reshaped the industry
-
-## Labour conference set to vote on new AI regulator as cabinet concerns grow
-Motion brought by union to replace AI Security Institute comes as minister opens door to strengthening legislation
-
-## Why Scott Bessent should pay attention to Turkey’s market scandal
-It does not take a fraud to cause problems when markets get overstretched
-
-## Business and unions clash over how to fix UK’s youth jobs shortage
-TUC calls for £1bn expansion of jobs guarantee while employers push for tax cuts
-
-## Come on Latin America, you owe me one
-After years and months of underperformance, I’m feeling lucky this time
-
-## UK air traffic outage caused by ‘legacy’ software bug, says review
-Under-fire air traffic agency says it is planning to invest £1bn in its systems by 2033
-
-## Budget blues
-Plus, will Reform have to return its £72mn mega-donations?
 
 ## Fed report finds it was ‘too timid’ in tackling risks at Silicon Valley Bank
 New review calls for overhaul of bank supervision
 
-## Anthropic and the golden rules of business
-Shifts in technology and geopolitics mean the ideal of the perfect company is changing
+## PizzaExpress cooks up sale at up to £500mn valuation
+Company owners, including Bain Capital’s special situations unit and Cyrus Capital Partners, are working with bankers at Rothschild
 
-## Court shines a further light on who was at fault in SVB implosion
-Federal judge rejects claims that criticism of bank executives was based on hindsight
+## Stockpickers: Glenveagh, Wickes, Big Technologies
+Our experts discuss which companies to buy, sell or hold this week
 
-## Hackers target ships’ satellite links
-Mechanisms from engines to navigation are connected to ‘edge devices’ that make them vulnerable, warns cyber security group
+## Who is Howard Buffett, Berkshire Hathaway’s next chairman?
+The 71-year-old has spent 33 years on Berkshire’s board and is expected to focus on preserving its distinctive corporate culture.
 
-## Swiss sports brand On signs Kylian Mbappé in blow to Nike
-Group targets long-term partnership with French star, similar to relationship with tennis great Roger Federer
+## New wild cat species discovered in Bolivia after 100 years
+Genetic analysis of South American tiger cats has revealed five distinct species, including one previously unknown animal found in Bolivia
 
-## When the Board defies the Owner: Tata Rift sparks debate over shareholder rights
-Experts say the Tata Sons-Tata Trusts standoff has evolved into a broader debate over whether professional management can override the wishes of a controlling shareholder
+## Anthropic sets up wet lab to expand AI ambitions in life sciences
+Anthropic is expanding its life-sciences push with physical laboratory work, seeking to use AI to accelerate research into difficult diseases.
 
-## L&T sees $150-billion global modularisation opportunity
-The company ships 110 modules for 2.3 MTPA urea project in Australia
+## Chairman’s casting vote can’t be used to defeat Tata Trust veto: Former Chief Justice of India DY Chandrachud
+Chandrachud says affirmative voting rights are central to establishing control and safeguarding interests of parties they favour
 
-## Supreme Court permits settlement of NSE co-location cases with SEBI
-The relief comes as NSE’s ₹22,562-crore IPO is open for subscription
+## Advance tax collection rises over 16%
+Data shows that advance tax from companies rose by 18 per cent, while collections from non-corporate taxpayers increased by just over 9 per cent
 
-## Listing of Tata Sons shares an imperative: Shapoorji Pallonji group
-While Noel Tata on Thursday asked the board of Tata Sons to explore options other than listing, SP group views share sale as a clear path to comply with Reserve Bank of India’s direction
+## No crude next month, Saudi Aramco informs European oil buyers
+The absence of Saudi flows next month will heighten the need for European buyers to secure replacements
 
-## Rebuilding damaged oil & gas infrastructure in West Asia offers EIL over $1 billion opportunity
-This conflict is offering us more opportunities in the MEG region, says Atul Gupta
+## GLP-1 boom pushes pharma companies deeper into wellness, nutraceuticals
+Beyond weight-loss drugs, pharma players spot fresh opportunities in consumer wellness
 
-## Mamata Banerjee announces support for Congress candidate Milan Pradhan in crucial Nandigram bypoll, police arrest Pradhan in old case
-For the greater interest of the country, we have decided to support the Congress nominee in Nandigram,” Mamata Banerjee said
+## Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
+Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
 
-## Apple iPhone 18 Pro models see launch-day frenzy; fans loosen purse strings
-Higher prices seems to have not had an impact on India’s appetite for Apple’s iPhones.
-
-## Karnataka govt to seek public opinion on renaming Dakshina Kannada district
-Karnataka CM announced that the Cabinet will issue a notice for opinions and objections regarding renaming Dakshina Kannada district to Mangaluru
+## NSE IPO subscribed 1.16 times on Day 2 led by non-institutional investors, QIBs
+The Rs 22,569-crore IPO has become India’s second-largest public issue, behind Hyundai Motor India’s Rs 27,870-crore offering in 2024. It has also moved past LIC’s Rs 21,000-crore IPO of 2022, but remains smaller than Hyundai Motor India’s record issue.
 
 ## He wrongly showed Rs 9.6 lakh EPF interest in ITR, taxman added it; ITAT gives full relief
 The tribunal found that the addition could not stand in the absence of evidence that the taxpayer had actually received the amount from the Employees’ Provident Fund Organisation (EPFO), withdrawn it from his EPF account or received any corresponding credit in his bank account.
@@ -84,32 +81,29 @@ India’s first indigenous hydrogen-powered train was launched on July 17, marki
 ## Sebi warned on digital gold in 2025; now physical backing and oversight in works
 The finance ministry has sought feedback from regulators, banks and other stakeholders. A broad consensus has emerged that digital gold should be classified as a security under the Securities Contracts (Regulation) Act, 1956.
 
-## Gold price prediction: Should you buy gold on dips? Check September 18, 2026 outlook
-MCX Gold October futures are showing a strong intraday recovery, with prices trading around Rs 1,53,870 after breaking above the recent consolidation zone.
+## Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report
+The legislation will give Trump the authority to impose tariffs of up to 100% on countries that continue to buy Russian oil and gas, which includes India.
 
-## Darjeeling honeymoon turns tragic for newlyweds after BBQ fire engulfs woman, incident caught on cam
-The woman's husband has lodged a police complaint over the incident and probe is underway.
+## ‘Moving towards Atmanirbhar Bharat’: Rajnath Singh hails handover of aircraft, helicopters by HAL to IAF and PHL
+Speaking at the event, Defence Minister Rajnath Singh said, "Today, we are witnessing three important achievements together.
 
-## Delhi: Gang member held with 2kg Pakistan-origin heroin worth ₹12 crore
-A key member of Rohit Godara-Mahender Delana gang was arrested, and two kilograms of alleged Pakistani-origin heroin concealed in a car were recovered
+## Mamata moves Supreme Court against EC order freezing TMC name, symbol
+The development comes after the Election Commission froze the original TMC name and its symbol amid a tussle between rival factions within the party.
 
-## Delhi: 2 restaurant staffers held for extorting man lured through WhatsApp
-Police said that they allegedly extorted ₹25,000 from victim against an inflated bill of ₹21,000. They also threatened him with consequences if he approached the police
+## Delhi HC grants bail to UK national Jagtar Singh Johal in 7 NIA cases after 8 years in custody
+A Division Bench of Justice Navin Chawla and Justice Ravinder Dudeja set aside the trial court orders refusing bail and directed Johal’s release.
 
-## Zubeen Garg death: Murder case, 7 accused and lasting legacy of Assam’s iconic singer
-Zubeen Garg’s death shook Assam; more than 1.5 million people joined his final journey when his body was taken to Kamarkuchi area near Guwahati on September 21 last year
+## NIA files chargesheet against 9 ISIS members, supporters for radicalising youths online
+The case was registered on March 23, 2026, at Vijayawada II Town police station and was later taken over by the NIA.
 
-## Maldives repays $150 million loan to India as economic crises persist
-The treasury bills were subscribed by the SBI in 2019 and had been extended on six occasions, each time for a year.
+## ‘But why now?’ Mamata questions arrest of Congress’ Nandigram bypoll candidate, calls it ‘BJP's vendetta politics’
+Mamata Banerjee alleged that the BJP was using an “old case” against Pradhan and described it as party’s politics of “vendetta and atrocities”.
 
-## Delhi Metro records highest-ever footfall of 82.4 lakh amid DTC bus strike
-Celebrating the record footfall, DIG of the CISF Unit at DMRC Santosh Chalke said the milestone reflected the joint efforts of CISF and DMRC.
+## MCD action continues after Satya Niketan tragedy: 397 properties face demolition in 13 days
+MCD data shows that between September 6 and 18, the civic body carried out demolition at 397 properties and sealed 152 properties.
 
-## Attacks by Yemen’s Houthi rebels on Saudi Arabia undermine regional security: MEA
-Reiterating India’s condemnation of Houthi attacks on Saudi Arabia’s economic facilities and attempted strike on the holy city of Makkah, EAM spokesperson said
-
-## ‘Envelope mein bharr ke kya aaya?’: CJP's dig after EC order granting symbol to TMC rebel faction
-In an order on Friday, the poll panel assigned the 'Envelope' symbol to the rival TMC group. The decision applies to the upcoming bypolls.
+## Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found
+Police discovered the deaths after Dhanak's wife Manjuben, who had gone to her father's house on September 14, was unable to reach him by phone.
 
 ## China’s crude imports are rising again. What will that mean for oil prices?
 China is showing early signs of stepping up imports of crude oil after months of subdued buying amid the US-Israel war on Iran, threatening to erode a buffer that has helped prevent a larger surge in global oil prices. But analysts do not expect China to quickly return to its pre-war import levels, 
@@ -135,6 +129,15 @@ Amid continuing geopolitical tensions and market uncertainty, greater use of the
 ## C-Suite Roundtable: Navigating the Healthcare Capital Lifecycle from Seed to Post-Listing
 Yesterday in Shanghai, more than 30 business leaders and investors from mainland China and Hong Kong gathered at a South China Morning Post C-Suite roundtable on “The Capital Lifecycle of the Healthcare Sector: From Seed to Post-Listing” held alongside BioShanghai Week 2026. The event, supported by 
 
+## Chinese Literature Is Undergoing a Vibe Shift
+Beijing long promoted novels about working-class travails. What happens when authors point fingers at the state?
+
+## Emily Wilson Chooses Her Words Carefully
+The Homeric scholar’s new book on translation is bitingly smart.
+
+## How Americanness Overcomes Islamophobia
+In Rozina Ali’s new book, four families grapple with the post-9/11 shift.
+
 ## The Houthi Advance Is About More Than Just Iran
 The Saudi-Emirati rivalry is driving moves across the region.
 
@@ -150,38 +153,32 @@ The U.S. president wants tech companies to go on the cyber-offensive. Will it wo
 ## Sweden’s Right-Wing Reckoning
 What was expected to be an easy election win resulted in a narrow victory for the left.
 
-## The Lives Built on Colombia’s Peace Deal Are at Risk
-The new president is unsettling the combatants who laid down their arms a decade ago.
+## Drones Offer Central Asian an Escape From Foreign Dependency
+Central Asian states should jointly develop drone capabilities to prepare for current and future security needs.
 
-## How Do You Dismantle a Propaganda Machine?
-Peter Magyar is on a mission to restore Hungarians’ faith in public media.
+## To Succeed in AI, South Korea Is Reinventing Its Developmental State Model
+South Korea is betting big on universal AI access, using state activism and corporate collaboration to strengthen its position in the global AI race.
 
-## China, Not Iran, Is Trump’s Real Foreign-Policy Debacle
-In 19 months, Washington has lost ground to Beijing on every conceivable front.
+## China Is Moving Toward a New Form of Coercion at Sea
+China is pushing patrols into new waters near Taiwan, regularizing its presence, and deploying research vessels that can conduct military reconnaissance.
+
+## Where Does North Korea’s Nuclear Program Stand in 2026?
+Here’s what satellite imagery and the IAEA are telling us.
+
+## How Looming US Sanctions Test India
+The passage of the Lindsey Graham Act in the House and Senate allows President Trump to impose tariffs of up to 100 percent on exports from India to the US.
+
+## Arrests and Court Appearances Heighten Political Tensions in the Philippines
+What are the political implications of Martin Romualdez’s arrest, Rodrigo Duterte’s ICC appearance, and the new criminal case against Vice President Sara Duterte?
+
+## Indian Navy Augments Its Submarine Rescue Capability
+Commissioned on August 31, INS Nipun significantly augments the Navy’s specialist diving, underwater intervention, salvage, and submarine rescue support capability.
 
 ## Indonesian Parliamentary Committee Debates Changes to Fiscal Deficit Limit
 Some lawmakers say that the current administration should have the right to a 3 percent ceiling in order to support its expansive economic agenda.
 
-## Why Is Thailand Not Prosecuting Members of the Mauerberger Network?
-One year after the South African national Benjamin Mauerberger and his network were first exposed, not one intermediary has been charged.
-
-## Why Malaysia Won’t Extradite Dr. Zakir Naik to India
-Despite being wanted on various criminal charges in India, the Islamic preacher has become hugely popular since arriving in Malaysia in 2016.
-
-## Former Philippine President Duterte Makes First In-person Appearance at ICC
-The physical state of the 81-year-old raised questions about his fitness to participate in what is likely to be a protracted trial.
-
-## What’s Wrong With US Pacific Islands Policy?
-It’s the relationships, stupid.
-
-## After a Self-Immolation at the UN, Rethinking What Beijing Fears on Tibet
-Beijing’s real vulnerability is not international action. It’s rising awareness within the Chinese population.
-
-## The Potential Mismatch Between Japan and the US on China
-Ahead of the Trump-Xi summit, it is critical for Japan that the United States stays on the same page regarding the challenge from China.
-
-## Will Taiwan Fight? We Need Better Evidence.
-Both those making pessimistic predictions and those confidently rejecting them often rely on thin evidence.
+## Pressure Points
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. strikes on Iranian soil tapered off in August after frequent exchanges throughout July. The hiatus seem
 
 ## Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence
 Washington is preparing for the right war, but in the wrong theater. For years, U.S. strategic thinking has centered on the Indo‑Pacific: the militarized atolls of the South China Sea, China’s churning naval shipyards, and the tense waters of the Taiwan Strait. Yet the next phase of competition will
@@ -203,9 +200,6 @@ In 2025, Jennifer Kavanaugh and Christopher McCallion wrote, “Armed Neutrality
 
 ## Strategic Stability and the Rebuilding of Xi’s Military
 For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People’s Liberation Army’s senior command through purges and is now trying to rebuild it wh
-
-## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
-Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel. OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Police hit migrants with batons during camp transfer in Ceuta
-Police in Ceuta used batons and fired shots into the air as they began moving migrants from beaches to a new camp.
+## Russia’s drones threaten Kyiv-bound Western officials as war effort stalls
+Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in Ukraine’s east.
 
-## Carrick brushes off questions over his Manchester United future
-Michael Carrick says he expected tough season start as he rebuffs questions about his role as Manchester United manager.
+## Police clear Ceuta migrants off beaches in Spanish enclave
+At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.
 
-## Real Madrid President says Ceuta visit not related to ‘recent news’
-Real Madrid stars including Kylian Mbappe rolled up T-shirts showing support for Ceuta, but President trip 'unrelated'.
+## Early in-person voting begins in the 2026 US midterm elections in Virginia
+Virginia leads the way for in-person voting, reflecting a nationwide trend towards casting ballots before Election Day.
 
-## Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On
-On, which is set to launch its first football boots next year, also appointed Thierry Henry as its football director.
+## Sweden’s left-wing opposition leader begins efforts to form government
+Magdalena Andersson will likely face several challenges as she tries to get Sweden's other left-wing parties to unite.
 
-## New Bolivian cat claws its way into species list: What we meow
-Purrfectly new to science: the first new wild cat found in over a century proves that cats do have nine (secret) lives.
+## Iranians rally in biggest show of defiance against US since war began
+Volunteers rallied through downtown Tehran to join campaign highlighting 'self-sacrifice' for Iran.
 
-## Russia seizes assets of French firms, summons UK envoy over Ukraine support
-Kremlin calls UK's support for Ukraine an endorsement of 'terrorism' after recent escalation in weapons supply.
+## UEFA, CONCACAF challenge FIFA on reserves and demand $10m payout to members
+Confederation chiefs call on Gianni Infantino to make $2.1bn payout to all FIFA's 211 member associations.
 
-## Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’
-Spain's Lamine Yamal says most racism he has suffered has come from people unaware of their own comments or behaviour.
+## Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East
+Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’
 
-## The cost of Iran’s regional leverage
-Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.
+## More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti
+United Nations says 22 million people need humanitarian aid as conflict intensifies.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
