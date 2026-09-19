@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Toronto film festival is full of treats — but no clear awards frontrunners
+Mahershala Ali as an assassin single father and Julianne Moore as a comically earnest amateur actor, plus new work by Mike Leigh, Chris Rock and Jesse Eisenberg
+
 ## Trump bans major US news outlets from White House
 Journalists from CNN, MS Now and Politico denied access as president escalates assault on media
 
@@ -21,14 +24,17 @@ Canada’s prime minister appeals to Wall St and the EU in his effort to diversi
 ## Higher rates, meet indebted consumers
 Will there be a tipping point?
 
-## Admit it — is this your worst financial habit?
-Not even I am immune from this late-night drain on my bank account
+## Trump announces ‘AI Force’ as alarm grows over technology’s advance
+US president has resisted industry calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour
 
 ## On takes aim at ailing Nike with Mbappé transfer coup
 Also in today’s newsletter: Clearlake wins the Chelsea civil war
 
 ## Over-80s turn to annuities as rates climb
 Growing interest comes amid a rise in larger annuity purchases
+
+## Admit it — is this your worst financial habit?
+Not even I am immune from this late-night drain on my bank account
 
 ## AI chatbots give wrong answers to financial queries ‘most of the time’
 Report finds some chatbots ignored upcoming tax changes and hallucinated rules
@@ -38,9 +44,6 @@ Rents and tenant demand are rising, but landlords are under increasing pressure.
 
 ## Housebuilders aren’t the only ones who benefit from ‘Help to Buy’
 A new equity loan scheme could help people get on the property ladder, though the government might struggle to afford it
-
-## Australia has a secret weapon in the race for AI compute
-The country has almost limitless space with which to generate renewable electricity
 
 ## Tech Query: Bharat Forge, Hatsun Agro Products, NRB Bearings, Sandur Manganese & Iron Ore - What is the outlook? Where are these stocks headed?
 We look at the prospects of Bharat Forge, Hatsun Agro Products, NRB Bearings and Sandur Manganese & Iron Ores
@@ -90,6 +93,9 @@ The 2008 global financial crisis hit India through markets, capital flows and tr
 ## Can your boss force you to serve full notice period? Know buyout rules & costs
 Notice period buyouts are often treated as though they are a standard right available to employees. However, there is no specific legal provision that gives an employee an automatic right to buy out the notice period.
 
+## Why was AAP's Arvind Kejriwal issued SIR notice? Poll body clarifies amid row
+At least 3.31 million electors were issued notices, which also included Delhi CM Rekha Gupta.
+
 ## ‘Tight slap on his face’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections
 Slamming Rahul Gandhi, BJP's Sidharth Yadav said the ABVP victory reflected students' rejection of “politics of lies, deceit and propaganda,"
 
@@ -110,9 +116,6 @@ Speaking at the two-day National Green Tribunal International Conference, the CJ
 
 ## From international tennis tournaments to new DUSU president: Who is ABVP's Yash Dabas?
 ABVP's Yash Dabas polled 24,576 votes and defeated NSUI's Vijai Shankar Meena by 2,053 votes.
-
-## Delhi CM Rekha Gupta, Arvind Kejriwal get SIR notices; poll body responds amid row
-The draft roll contains 97,53,577 electors, a 32.8% decline from the 1,45,10,299 electors on the rolls as of June 30.
 
 ## Focused ultrasound could be the next big cancer breakthrough for hard-to-treat tumours
 Precisely targeted sound waves could mark a major advance in treating pancreatic cancer and glioblastoma – an aggressive form of brain cancer – within a few years, according to a leading advocate of the technology. Researchers in Hong Kong and around the world are testing whether the approach can he
@@ -234,6 +237,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran says conditions to re-engage in talks, end war sent to US via Qatar
+Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.
+
+## Israel targets paramedics in southern Lebanon
+Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.
+
+## Cuba works to restore power after another major nationwide blackout
+The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.
+
+## Dutch riot police break up violent far-right protest in The Hague
+Justice minister condemns 'Hitler salutes, antisemitic slogans, violence' at the anti-immigration rally.
+
+## A ‘ban on the free press’: White House bars journalists from three outlets
+Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.
+
 ## Ed Sheeran concert set to go ahead after outcry over Gaza
 Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.
 
@@ -242,21 +260,6 @@ Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League
 
 ## Demonstrators in US form human chain to protest Kennedy Center closure vote
 'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.
-
-## Police hiring standards matter. But they alone cannot stop abuse
-Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.
-
-## Jerusalem Daily: Gaza’s children return to schools
-It's the first official day back to school for Gaza's children.
-
-## Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive
-More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict.
-
-## Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote
-This is Russia's first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.
-
-## UEFA defends policy after rejecting Ireland’s request not to play Israel
-UEFA responds after Ireland's football association says its request to avoid future pairings with Israel was ⁠⁠rejected.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
