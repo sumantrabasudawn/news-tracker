@@ -24,11 +24,14 @@ Betfred founder Fred Done threatens 500 shop closures over tax rises that have l
 ## White House attacks Fed official after review of Silicon Valley Bank collapse
 New report finds ‘culture of risk aversion’ among banking regulators led to mishandling of weaknesses at tech-heavy lender
 
+## Anthropic brings in Accenture for AI safety testing
+CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology
+
+## OpenAI expects to burn $280bn by 2030
+AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures
+
 ## British data centre group Nscale files for $35bn US listing
 Start-up has won a huge contract to supply computing power to Anthropic
-
-## Ex-Apollo executive admits to improperly using company documents
-Imran Siddiqui had been sued by buyout group’s Athene unit over his rival start-up
 
 ## Who is Howard Buffett, Berkshire Hathaway’s next chairman?
 The 71-year-old has spent 33 years on Berkshire’s board and is expected to focus on preserving its distinctive corporate culture.
@@ -54,6 +57,12 @@ Beyond weight-loss drugs, pharma players spot fresh opportunities in consumer we
 ## Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
 Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
 
+## Trump extends H-1B visa restrictions, including $100,000 payment requirement, for another year
+
+
+## Shapoorji Pallonji Group, with 18.4% Tata Sons stake, backs its public listing
+
+
 ## Trump signs Russia sanctions bill into law, gains authority to impose 100% tariff on India and China
 President Trump has officially enacted a new sanctions law aimed at Russia and Iran, empowering the U.S. to impose penalties on nations purchasing Russian energy supplies. Countries like India and China, significant buyers of Russian crude and gas, have raised concerns about the potential impact on 
 
@@ -71,12 +80,6 @@ The tribunal found that the addition could not stand in the absence of evidence 
 
 ## The UPI fee is two rupees. Your fund fee is two thousand
 One honest caveat. Index funds have the least room to absorb anything. UTI Nifty 50 Index, direct plan, charges 0.18 per cent a year. Some index funds charge as little as 0.05.
-
-## RBI has record forex reserves, but why is rupee still not out of the woods?
-The currency is now hovering back to its two-month lows. While the RBI is intervening to prevent major volatility, the fact is the rupee is still facing immense pressure, and experts believe the currency is unlikely to appreciate much any time soon.
-
-## NSE’s mega IPO crosses full subscription mark with strong institutional demand
-The National Stock Exchange of India's IPO saw full subscription on its second day. Strong demand from institutional investors drove the significant subscription levels. Qualified Institutional Buyers and non-institutional investors showed robust interest in the offering. The IPO is an entirely an o
 
 ## Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report
 The legislation will give Trump the authority to impose tariffs of up to 100% on countries that continue to buy Russian oil and gas, which includes India.
@@ -102,6 +105,9 @@ MCD data shows that between September 6 and 18, the civic body carried out demol
 ## Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found
 Police discovered the deaths after Dhanak's wife Manjuben, who had gone to her father's house on September 14, was unable to reach him by phone.
 
+## Perfect Diary owner Yatsen doubles down on skincare, R&D after business overhaul
+Yatsen Group, the Chinese beauty company behind Perfect Diary cosmetics, plans to deepen its push into skincare and new product research to sustain its growth, after a years-long overhaul of its business that has seen the firm acquire a string of overseas brands. The Guangzhou-based company will slo
+
 ## China’s crude imports are rising again. What will that mean for oil prices?
 China is showing early signs of stepping up imports of crude oil after months of subdued buying amid the US-Israel war on Iran, threatening to erode a buffer that has helped prevent a larger surge in global oil prices. But analysts do not expect China to quickly return to its pre-war import levels, 
 
@@ -122,9 +128,6 @@ Senior bankers at HSBC are facing a double blow of losing a key employment benef
 
 ## Standard Chartered sharpens its yuan advisory edge as currency’s global rise continues
 Amid continuing geopolitical tensions and market uncertainty, greater use of the yuan for international trade settlements, raising funds, managing liquidity and allocating investments is a logical strategy for executives overseeing treasury and finance functions. At the end of 2025, the People’s Ban
-
-## C-Suite Roundtable: Navigating the Healthcare Capital Lifecycle from Seed to Post-Listing
-Yesterday in Shanghai, more than 30 business leaders and investors from mainland China and Hong Kong gathered at a South China Morning Post C-Suite roundtable on “The Capital Lifecycle of the Healthcare Sector: From Seed to Post-Listing” held alongside BioShanghai Week 2026. The event, supported by 
 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
@@ -150,29 +153,29 @@ In Rozina Ali’s new book, four families grapple with the post-9/11 shift.
 ## The Houthi Advance Is About More Than Just Iran
 The Saudi-Emirati rivalry is driving moves across the region.
 
-## Drones Offer Central Asian an Escape From Foreign Dependency
-Central Asian states should jointly develop drone capabilities to prepare for current and future security needs.
+## India’s New Eye in the Sky: EOS-05 Satellite and What It Means for South Asia
+EOS-05 is a single satellite that is part of a broader imitative of India to strengthen its ISR capabilities.
 
-## To Succeed in AI, South Korea Is Reinventing Its Developmental State Model
-South Korea is betting big on universal AI access, using state activism and corporate collaboration to strengthen its position in the global AI race.
+## Abroad, India’s RSS Speaks of ‘Love.’ At Home, Its Affiliates Attack Christians.
+From church vandalism to grave desecration, assaults against Christian minorities are increasing in the large state of West Bengal since the BJP, an RSS offshoot, came to power in May.
 
-## China Is Moving Toward a New Form of Coercion at Sea
-China is pushing patrols into new waters near Taiwan, regularizing its presence, and deploying research vessels that can conduct military reconnaissance.
+## From Symbolism to Strategy: The Expanding Operational Role of Women in Baloch Militancy
+The motivations of individual women who join militant organizations cannot be reduced to a single explanation. The organizational incentives are easier to identify.
 
-## Where Does North Korea’s Nuclear Program Stand in 2026?
-Here’s what satellite imagery and the IAEA are telling us.
+## Shipki La and the Battle Over the History of China-India Trade
+The Chinese narrative attempts to erase the independent agency Tibet exercised before 1951, framing Shipki La as a historical link between China and India (not Tibet and India).
 
-## How Looming US Sanctions Test India
-The passage of the Lindsey Graham Act in the House and Senate allows President Trump to impose tariffs of up to 100 percent on exports from India to the US.
+## Infrastructure Gaps Test Pakistan’s Flagship CPEC Industrial Zone, Field Survey Finds
+Even as investment tops 327 billion rupees, firms at Allama Iqbal Industrial City report inadequate wastewater infrastructure, unreliable utilities, and no public transport.
 
-## Arrests and Court Appearances Heighten Political Tensions in the Philippines
-What are the political implications of Martin Romualdez’s arrest, Rodrigo Duterte’s ICC appearance, and the new criminal case against Vice President Sara Duterte?
+## The Nexperia Case Was Actually a Success. Does Europe Know That?
+A combination of media misunderstandings, Chinese distortions, and Dutch mistakes raise the risk that Europeans draw the wrong conclusions about economic security.
 
-## Indian Navy Augments Its Submarine Rescue Capability
-Commissioned on August 31, INS Nipun significantly augments the Navy’s specialist diving, underwater intervention, salvage, and submarine rescue support capability.
+## Making the Most Out of Growing US-Uzbekistan Trade and Investment
+Uzbekistan aims to attract greater U.S. investment, and is making its own investments in the United States. But it can’t forget the people.
 
-## Indonesian Parliamentary Committee Debates Changes to Fiscal Deficit Limit
-Some lawmakers say that the current administration should have the right to a 3 percent ceiling in order to support its expansive economic agenda.
+## 4 Fault Lines that Could Shape the Trump-Xi Summit
+The tangible outcomes will be modest, but the stakes are high.
 
 ## Pressure Points
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranSenior officials from Iran, Oman, and neighboring Gulf states were scheduled to meet in Salalah on Monday to
@@ -222,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump signs sweeping Russia sanctions over Ukraine war
+New US law imposes harsh measures on Russia, aims to weaken the Kremlin's war funding and push for Ukraine negotiations.
+
+## Israeli strike on motorcycle kills Palestinian in Gaza City, injures child
+Separate attacks struck central refugee camps as officials warned Gaza's health sector faces total collapse.
+
+## Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa
+Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.
+
+## Trump says Denmark deal gives US security ‘control’ over Greenland
+Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.
+
 ## Super Macklemore 64: Video game mocks Sheeran concert controversy
 In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts.
 
@@ -233,18 +248,6 @@ Denmark and Greenland plan to sign a US defence pact next week, pending approval
 
 ## Brighton vs Arsenal: Premier League – predictions, teams, lineups
 Premier League holders Arsenal have won all seven of their matches to start the new season.
-
-## New cat species found, first in more than 100 years
-A new species of living cat has been identified for the first time in more than a century.
-
-## Germany receives first F-35 jet from US as NATO boosts military spending
-Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.
-
-## UK court clears woman of voicing support for Hamas in university speech
-Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians' right to resist.
-
-## ‘Daughter of Damascus’ Assala performs in Syria after 15-year exile
-Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
