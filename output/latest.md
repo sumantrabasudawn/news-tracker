@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump bans major US news outlets from White House
+Journalists from CNN, MS Now and Politico denied access as president escalates assault on media
+
 ## Saudi Arabia sounds air-raid alerts as missile and drone assault intensifies
 Authorities issue warnings in the capital for the first time since Yemeni rebels reignited conflict
 
@@ -21,9 +24,6 @@ Will there be a tipping point?
 ## Admit it — is this your worst financial habit?
 Not even I am immune from this late-night drain on my bank account
 
-## Thirty years of buy-to-let: does it have a future?
-Rents and tenant demand are rising, but landlords are under increasing pressure.
-
 ## On takes aim at ailing Nike with Mbappé transfer coup
 Also in today’s newsletter: Clearlake wins the Chelsea civil war
 
@@ -33,38 +33,47 @@ Growing interest comes amid a rise in larger annuity purchases
 ## AI chatbots give wrong answers to financial queries ‘most of the time’
 Report finds some chatbots ignored upcoming tax changes and hallucinated rules
 
+## Thirty years of buy-to-let: does it have a future?
+Rents and tenant demand are rising, but landlords are under increasing pressure.
+
 ## Housebuilders aren’t the only ones who benefit from ‘Help to Buy’
 A new equity loan scheme could help people get on the property ladder, though the government might struggle to afford it
 
 ## Australia has a secret weapon in the race for AI compute
 The country has almost limitless space with which to generate renewable electricity
 
-## The Iran energy shock is wrongfooting the world
-Don’t obsess about the crude price and don’t think this crisis is like its predecessors
+## Tech Query: Bharat Forge, Hatsun Agro Products, NRB Bearings, Sandur Manganese & Iron Ore - What is the outlook? Where are these stocks headed?
+We look at the prospects of Bharat Forge, Hatsun Agro Products, NRB Bearings and Sandur Manganese & Iron Ores
 
-## Next SEMICON India in March 2028; to include Made-in-India chip users
-The 2026 edition saw participation of 600 companies and signing of 45 MoUs between ecosystem partners
+## Giving working capital the attention it deserves
+Here’s how you can draw insights from analysing working capital, one of the parts that’s often overlooked in fundamental analysis
 
-## ‘Water could become a constraint on expansion of semiconductor industry’
-The panel also highlighted the challenges posed by chemicals used in semiconductor manufacturing, including per- and polyfluoroalkyl substances, often referred to as “forever chemicals”
+## Bandu’s Blockbusters for September 20, 2026
+Guess the stock that will give the best return by next Friday
 
-## Indian micro-fertilisers association seeks ease of doing business, regulatory reforms
-IMMA roundtable with Government officials focuses on ‘One Nation, One Licence’, GST rationalisation and enabling exports of micronutrients and specialty fertilisers
+## Insurance Query: Here is what a first-time health cover buyer can do
+Here are some best practices a first-time buyer of a health insurance policy can follow
 
-## India is a global investment destination: L&T President
-Raman said there must be a coordinated effort between industry and academia to provide a balance between grounded knowledge in traditional disciplines and continuous learning in emerging technologies
+## Car insurance with an eye on the sky
+Unique challenges posed by the monsoon sparks the need for special insurance cover for car owners in India
 
-## 1-day SPFWA soy conclave 2026 to be held in Mumbai on Sept 30
-Themed ‘Unlocking the Soy Opportunity: Protein, Food, Trade and Innovation’, it will bring various stakeholders under one roof
+## Bank Nifty and the signal to glean from an unusual OI position
+One strike draws 41 per cent of October call OI
 
-## NTPC terminates 400 MWh BESS contract as contractor defaults
-The termination is due to the contractor’s failure to meet its contractual obligations and achieve the required project progress
+## US Market Outlook: Treasury Yields eye higher
+Rate hikes, elevated oil price can aid the rise
 
-## Rock check dams offer new push to water security, agriculture in Ladakh’s Himalayan cold desert
-Five check dams were built along the Sindhu River and its tributaries as a pilot initiative aimed at improving water retention
+## Air India flight to Nepal returns to Delhi due to suspected tech issue
+Air India says passengers flown to Kathmandu in alternative aircraft
 
-## India seeks agile regulatory framework to speed up semiconductor projects
-Customs has also introduced non-intrusive inspection and plans to expand container scanning, with AI-enabled tools being used to support risk assessment
+## LPG Aadhaar rule from Oct 1: Authentication mandatory for these refills
+Consumers who have not undergone BAA will not be stopped from receiving LPG cylinders. However, those who choose not to complete the authentication will have to pay the prevailing market price and will not receive the subsidy.
+
+## UPI MDR: Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap
+The NPCI framework and the FAQs issued with it do not stipulate that multiple payments relating to a single bill must be clubbed together. Such a restriction, if in place, could prevent businesses from breaking up larger payments into multiple transactions of Rs 2,000 or less.
+
+## Aramco stops crude supplies to India; replacement barrels costlier as oil tops $100
+The pipeline was shut late last week after it was allegedly targeted by drones. It had become Saudi Arabia’s main alternative route for transporting crude after the maritime chokepoint, the Strait of Hormuz, was disrupted.
 
 ## How Vande Bharat Express marked a tech leap for railways after Rajdhani & Shatabdi. Next stop: Bullet trains
 Fifty years after the first Rajdhani Express was launched, and over 30 years after the Shatabdi, came the Vande Bharat Express - a technological leap that has changed modern day travel on Indian Railways.
@@ -81,38 +90,29 @@ The 2008 global financial crisis hit India through markets, capital flows and tr
 ## Can your boss force you to serve full notice period? Know buyout rules & costs
 Notice period buyouts are often treated as though they are a standard right available to employees. However, there is no specific legal provision that gives an employee an automatic right to buy out the notice period.
 
-## Direct tax kitty up 15.2% on faster corp tax growth
+## ‘Tight slap on his face’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections
+Slamming Rahul Gandhi, BJP's Sidharth Yadav said the ABVP victory reflected students' rejection of “politics of lies, deceit and propaganda,"
 
+## ‘Majority did not vote for them’, says CJP's Saurav Das as ABVP sweeps DUSU polls
+Das said those who secured positions in the elections should remember that they were not “kings or queens”, as the majority of students had not voted for them.
 
-## Tata trust evaluates NCLT move
+## Rahul Gandhi says ‘system has captured entire country’ at Indore event; MP CM calls him ‘careless politician’
+The leader of opposition in Lok Sabha highlighted vacancy in teachers' posts in the country, while stating that students are the “future of India.”
 
+## ‘Bharat is not a geography, it is responsibility’: CDS General Subramani tells IIT Roorkee students
+Subramani, the guest of honour at the ceremony, spoke about the rapidly changing global landscape and the challenges and opportunities it presents.
 
-## Tata Sons board unanimous on panel for RBI compliance
-Trusts Chairman Noel Opposed IPO, Backed Other Options
+## Vijayawada man Sai Krishna beaten to death in police custody, cremated same night: SIT
+The SIT officials identified the cement platform No. 16 in the crematorium as the spot where the cremation had taken place
+
+## CJI Surya Kant urges courts to assess cumulative harm in climate disputes
+Speaking at the two-day National Green Tribunal International Conference, the CJI said that aspects of the environment cannot be limited to geographical spaces
 
 ## From international tennis tournaments to new DUSU president: Who is ABVP's Yash Dabas?
 ABVP's Yash Dabas polled 24,576 votes and defeated NSUI's Vijai Shankar Meena by 2,053 votes.
 
-## Delhi SIR: CM Rekha Gupta, Arvind Kejriwal among electors being served notices
-The draft roll contains 97,53,577 electors, a 32.8% decline from the 1,45,10,299 electors on the rolls as of June 30
-
-## MP petrol pump dealers to stop accepting UPI payments above ₹2,000 from October 15
-The decision was taken unanimously at a meeting of the MP Petrol Pump Association, which represents 4,700 dealers statewide.
-
-## ABVP sweeps, NSUI falters, Independent grabs key seat: Takeaways from Delhi University polls
-Following the ABVP's big win, DUSU's new President Yash Dabas described it as a 'victory for the students, harmony, Sangh, and for patriots.'
-
-## Congress' Nandigram bypoll candidate sent to judicial custody till October 3; can’t campaign
-The police said in a statement that Pradhan was arrested in connection with four pending non-bailable arrest warrants
-
-## Praise for Yoga, ‘super delicious’ curry: Japanese airmen on India experience during joint military drills
-The IAF had on September 8 welcomed F-2 fighter jets as well as 110 members of the Japan Air Self-Defense Force (JASDF) for the combat exercise in Jodhpur.
-
-## HT Evening Brief Sept 19: ABVP sweeps Delhi University polls, Asian Games declared open in Japan
-Good evening, readers. Here is your quick recap of today's news stories in India, world, entertainment, and sports.
-
-## Ghaziabad merchants unwilling to accept UPI from Oct 15 over new 0.4% MDR rule
-As per the new rules, Person-to-Merchant (P2M) UPI payments above ₹2,000 will attract a 0.4% Merchant Discount Rate
+## Delhi CM Rekha Gupta, Arvind Kejriwal get SIR notices; poll body responds amid row
+The draft roll contains 97,53,577 electors, a 32.8% decline from the 1,45,10,299 electors on the rolls as of June 30.
 
 ## Focused ultrasound could be the next big cancer breakthrough for hard-to-treat tumours
 Precisely targeted sound waves could mark a major advance in treating pancreatic cancer and glioblastoma – an aggressive form of brain cancer – within a few years, according to a leading advocate of the technology. Researchers in Hong Kong and around the world are testing whether the approach can he
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction
-Real Madrid coach Jose Mourinho admits his team does not know how to control matches before Sunday's La Liga clash.
+## Ed Sheeran concert set to go ahead after outcry over Gaza
+Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.
 
-## Fear and anger in South Africa as bodies of nine women found: What we know
-Police examining 'all possibilities' as women in Ekurhuleni, Johannesburg, fear murders could be linked.
+## Brighton beat Arsenal 3-0 as Man City top Premier League without playing
+Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City.
 
-## An unaffordable car market highlights Iran’s cost-of-living crisis
-Some officials and state media have long openly described the industry as a ‘mafia’ system.
+## Demonstrators in US form human chain to protest Kennedy Center closure vote
+'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.
 
-## Taiwan flexes military capabilities ahead of Trump-Xi talks
-Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.
+## Police hiring standards matter. But they alone cannot stop abuse
+Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.
 
-## Child among three Palestinians killed in Israeli attacks across Gaza
-Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.
+## Jerusalem Daily: Gaza’s children return to schools
+It's the first official day back to school for Gaza's children.
 
-## What’s behind reports that the Israeli army is low on troops, equipment?
-Israel's Channel 12 and Maariv newspaper claim the military is facing 'severe shortages'.
+## Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive
+More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict.
 
-## Asian Games 2026: Top athletes and storylines to look out for
-From Olympic champions to teen sensations, several athletes are looking to make their mark at the continental event.
+## Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote
+This is Russia's first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.
 
-## US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea
-The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military.
+## UEFA defends policy after rejecting Ireland’s request not to play Israel
+UEFA responds after Ireland's football association says its request to avoid future pairings with Israel was ⁠⁠rejected.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
