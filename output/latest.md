@@ -1,61 +1,85 @@
 # AION Intelligence
 
-## Trump says US has deal with Denmark for ‘control’ of Greenland’s security
-Danish government says agreement could be signed next week and will respect territory’s sovereignty
+## Thirty years of buy-to-let: does it have a future?
+Rents and tenant demand are rising, but landlords are under increasing pressure.
 
-## Trump bans major US news outlets from White House
-President bars CNN, MS Now and Politico as he escalates assault on media
+## Unpacking the real fiscal costs of immigration
+Low taxes on low earners mean the same immigrants cost the UK more than they would elsewhere
 
-## Trump says son paid back Russian businessman for wedding weekend gift
-Umar Kremlev reportedly spent hundreds of thousands of dollars on Donald Trump Jr’s wedding after-party in the Bahamas
+## Emma Bonino, Italian politician and activist 1948-2026
+Radical campaigner who confronted society’s taboos at a time when the Catholic Church still held political sway
 
-## Oracle’s $18bn data centre debt under strain amid local pushback
-Investors grow wary of permitting and construction delays as opposition mounts in New Mexico
+## The Anglo-French moment
+And why it must endure
 
-## US homebuilders under pressure from rising rates
-Developers worry elevated borrowing costs and broader affordability woes will deter buyers
+## South Africa’s ANC fails to register 181 local election candidates
+Mishap leaves liberation party unable to field representatives in politically strategic seats ahead of November 4 polls
 
-## Warren Buffett’s son to succeed his father as Berkshire Hathaway chair
-Conglomerate says the elder Buffett will take on role of chair emeritus
+## Dry British summers raise hopes of homegrown chickpeas
+Scientists explore new crops that could make the UK’s food supplies more resilient against climate change and trade wars
 
-## UK’s top taxpayer says he would ‘not wish to be reborn’ in Britain
-Betfred founder Fred Done threatens 500 shop closures over tax rises that have left him fearful for the UK’s prospects
+## Abdulmalik al-Houthi, the Yemeni rebel leader spooking oil markets
+The enigmatic leader has long been a thorn in Riyadh’s side but is now causing disruption that affects the world
 
-## White House attacks Fed official after review of Silicon Valley Bank collapse
-New report finds ‘culture of risk aversion’ among banking regulators led to mishandling of weaknesses at tech-heavy lender
+## Passport to Piddington: a short history of micronations
+Without its own airline and beer, the Oxfordshire secessionist village will remain a piddling principality
 
-## Anthropic brings in Accenture for AI safety testing
-CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology
+## Over-80s turn to annuities as rates climb
+Growing interest comes amid a rise in larger annuity purchases
 
-## OpenAI expects to burn $280bn by 2030
-AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures
+## Admit it — is this your worst financial habit?
+Not even I am immune from this late-night drain on my bank account
 
-## British data centre group Nscale files for $35bn US listing
-Start-up has won a huge contract to supply computing power to Anthropic
+## AI chatbots give wrong answers to financial queries ‘most of the time’
+Report finds some chatbots ignored upcoming tax changes and hallucinated rules
 
-## Who is Howard Buffett, Berkshire Hathaway’s next chairman?
-The 71-year-old has spent 33 years on Berkshire’s board and is expected to focus on preserving its distinctive corporate culture.
+## Housebuilders aren’t the only ones who benefit from ‘Help to Buy’
+A new equity loan scheme could help people get on the property ladder, though the government might struggle to afford it
 
-## New wild cat species discovered in Bolivia after 100 years
-Genetic analysis of South American tiger cats has revealed five distinct species, including one previously unknown animal found in Bolivia
+## Australia has a secret weapon in the race for AI compute
+The country has almost limitless space with which to generate renewable electricity
 
-## Anthropic sets up wet lab to expand AI ambitions in life sciences
-Anthropic is expanding its life-sciences push with physical laboratory work, seeking to use AI to accelerate research into difficult diseases.
+## Five ways the Iran energy shock is wrongfooting the world
+Don’t obsess about the crude price and don’t think this crisis is like its predecessors
 
-## Chairman’s casting vote can’t be used to defeat Tata Trust veto: Former Chief Justice of India DY Chandrachud
-Chandrachud says affirmative voting rights are central to establishing control and safeguarding interests of parties they favour
+## Investors weigh whether Anthropic can sustain surging revenues post-IPO
+OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model ahead of IPO
 
-## Advance tax collection rises over 16%
-Data shows that advance tax from companies rose by 18 per cent, while collections from non-corporate taxpayers increased by just over 9 per cent
+## Rupee drops by 7 closes unchanged at 95.96 against US dollar
+Positive momentum in domestic equity markets and forex inflows, however, capped losses in the Indian currency
 
-## No crude next month, Saudi Aramco informs European oil buyers
-The absence of Saudi flows next month will heighten the need for European buyers to secure replacements
+## Think. Over the week
 
-## GLP-1 boom pushes pharma companies deeper into wellness, nutraceuticals
-Beyond weight-loss drugs, pharma players spot fresh opportunities in consumer wellness
 
-## Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
-Binance Launches Foreign Exchange Perpetual Futures, Expanding 24/7 Access to the Largest Financial Market
+## Reimagining Keralam sets implementation roadmap for 35 transformational projects
+The state government was committed to leveraging the economic potential of Keralam’s coastal ecosystem, which stretches over 500 km
+
+## Trump says US has security deal on Greenland with Denmark
+The deal touted by the US president appears to be a significant pullback from his previous attempts to take over the semi-autonomous Danish territory
+
+## Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting
+US automakers urge President Trump to block Chinese car manufacturers from entering the US market amid escalating trade tensions
+
+## Board AGM: BCCI office-bearers 'authorised' to take call on Ajit Agarkar's future
+Along with the future of the chairman of senior selection committee, the BCCI is also looking to fill up all five positions of the junior selection committee
+
+## Uday Kotak calls for fiscal discipline, reforms to make India developed nation by 2047
+India's position on the global stage is pretty good, but there is no room for complacency, he said
+
+## Trump renews $1,00,000 fee on H-1B visas, tightens scrutiny
+The order sets a 30-day deadline for the Secretary of Labour, acting through the Wage and Hour Division, to begin reviewing data from previously submitted labour condition applications
+
+## Direct tax kitty up 15.2% on faster corp tax growth
+
+
+## Tata trust evaluates NCLT move
+
+
+## Tata Sons board unanimous on panel for RBI compliance
+Trusts Chairman Noel Opposed IPO, Backed Other Options
+
+## Anthropic quietly sets up biology lab for AI drug project
+
 
 ## Trump extends H-1B visa restrictions, including $100,000 payment requirement, for another year
 
@@ -69,41 +93,29 @@ President Trump has officially enacted a new sanctions law aimed at Russia and I
 ## Sugar retail prices down 10% ahead of festive season, govt eases stock cap
 
 
-## NSE IPO subscribed 1.16 times on Day 2 led by non-institutional investors, QIBs
-The Rs 22,569-crore IPO has become India’s second-largest public issue, behind Hyundai Motor India’s Rs 27,870-crore offering in 2024. It has also moved past LIC’s Rs 21,000-crore IPO of 2022, but remains smaller than Hyundai Motor India’s record issue.
+## Jhiram Valley attack that nearly wiped out Chhattisgarh Congress leadership planned months ahead: Court
+The NIA court said cadres surveyed the route, stockpiled food and set up temporary command centres before the May 25, 2013 attack.
 
-## He wrongly showed Rs 9.6 lakh EPF interest in ITR, taxman added it; ITAT gives full relief
-The tribunal found that the addition could not stand in the absence of evidence that the taxpayer had actually received the amount from the Employees’ Provident Fund Organisation (EPFO), withdrawn it from his EPF account or received any corresponding credit in his bank account.
+## Pune: Worker killed, 5 injured after container truck hits vehicles on highway
+One person was killed and five injured after a container truck hit multiple vehicles on the Pune-Bengaluru highway near Bhumkar Bridge in Narhe early Saturday.
 
-## 'No crude oil next month: Saudi Aramco to some European refiners after pipeline attack
+## Rajnath Singh flags delays in military projects, seeks firm timelines
+The defence minister urged HAL and other domestic firms to set firm timelines, citing rising costs and the risk of technology becoming outdated.
 
+## Equal work alone not enough to claim equal pay: Supreme Court
+The Supreme Court said doing identical or similar work alone does not establish a right to equal pay, which depends on recruitment, qualifications, experience and responsibilities.
 
-## The UPI fee is two rupees. Your fund fee is two thousand
-One honest caveat. Index funds have the least room to absorb anything. UTI Nifty 50 Index, direct plan, charges 0.18 per cent a year. Some index funds charge as little as 0.05.
+## FCRA amendments not against any community, Centre tells House panel
+Govind Mohan said national security concerns drove the proposed changes, as MPs sought clarity on their impact on minority groups and NGOs.
 
-## Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report
-The legislation will give Trump the authority to impose tariffs of up to 100% on countries that continue to buy Russian oil and gas, which includes India.
+## Mamata Banerjee moves Supreme Court against ECI freeze on TMC symbol
+Mamata Banerjee has moved the Supreme Court against the ECI’s interim order freezing the TMC’s original name and symbol amid a rival faction’s claim.
 
-## ‘Moving towards Atmanirbhar Bharat’: Rajnath Singh hails handover of aircraft, helicopters by HAL to IAF and PHL
-Speaking at the event, Defence Minister Rajnath Singh said, "Today, we are witnessing three important achievements together.
+## Weather Bee: Where is monsoon 2026 ending?
+The southwest monsoon is likely to withdraw from parts of west Rajasthan on September 19. Here’s what the IMD data shows about rainfall in 2026.
 
-## Mamata moves Supreme Court against EC order freezing TMC name, symbol
-The development comes after the Election Commission froze the original TMC name and its symbol amid a tussle between rival factions within the party.
-
-## Delhi HC grants bail to UK national Jagtar Singh Johal in 7 NIA cases after 8 years in custody
-A Division Bench of Justice Navin Chawla and Justice Ravinder Dudeja set aside the trial court orders refusing bail and directed Johal’s release.
-
-## NIA files chargesheet against 9 ISIS members, supporters for radicalising youths online
-The case was registered on March 23, 2026, at Vijayawada II Town police station and was later taken over by the NIA.
-
-## ‘But why now?’ Mamata questions arrest of Congress’ Nandigram bypoll candidate, calls it ‘BJP's vendetta politics’
-Mamata Banerjee alleged that the BJP was using an “old case” against Pradhan and described it as party’s politics of “vendetta and atrocities”.
-
-## MCD action continues after Satya Niketan tragedy: 397 properties face demolition in 13 days
-MCD data shows that between September 6 and 18, the civic body carried out demolition at 397 properties and sealed 152 properties.
-
-## Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found
-Police discovered the deaths after Dhanak's wife Manjuben, who had gone to her father's house on September 14, was unable to reach him by phone.
+## Telangana: 4 killed, driver critical as SUV overturns on NH-44 near Hyderabad
+Four members of a family were killed and their driver critically injured after a Toyota Innova crashed into a culvert and overturned on NH-44 near Hyderabad.
 
 ## Perfect Diary owner Yatsen doubles down on skincare, R&D after business overhaul
 Yatsen Group, the Chinese beauty company behind Perfect Diary cosmetics, plans to deepen its push into skincare and new product research to sustain its growth, after a years-long overhaul of its business that has seen the firm acquire a string of overseas brands. The Guangzhou-based company will slo
@@ -225,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump signs sweeping Russia sanctions over Ukraine war
-New US law imposes harsh measures on Russia, aims to weaken the Kremlin's war funding and push for Ukraine negotiations.
+## Trump’s threats to demolish Kennedy Center sparks protest
+Protestors gathered outside Washington’s Kennedy Center after President Trump’s plans to close the arts venue.
 
-## Israeli strike on motorcycle kills Palestinian in Gaza City, injures child
-Separate attacks struck central refugee camps as officials warned Gaza's health sector faces total collapse.
+## Brazilian police capture suspected serial killer disguised as a woman
+Brazilian police say they will reopen dozens of cases after they arrested a self-confessed serial killer.
 
-## Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa
-Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.
+## Indonesia ferry search: Divers retrieve three bodies, 126 people missing
+Bad weather has pushed authorities to begin operations to right the capsized ferry.
 
-## Trump says Denmark deal gives US security ‘control’ over Greenland
-Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.
+## UK jails teen asylum seeker for steering overcrowded Channel migrant boat
+The boat lacked safety gear and took on water before interception by UK Border Force, authorities say.
 
-## Super Macklemore 64: Video game mocks Sheeran concert controversy
-In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts.
+## Japan has record 100,000 people aged over 100: How societies are ageing
+Fewer births and worsening labour shortages are placing mounting pressure on Japan’s social care system.
 
-## Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours
-The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.
+## Trump bans CNN, MS NOW, Politico from the White House
+Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’
 
-## Trump claims deal with Denmark gives US ‘permanent control’ over Greenland
-Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.
+## The Nepal floods question: When the Himalayas collapse, who gets warned?
+The floods raised concerns about cross-border warnings that experts say can no longer be ignored.
 
-## Brighton vs Arsenal: Premier League – predictions, teams, lineups
-Premier League holders Arsenal have won all seven of their matches to start the new season.
+## Bolivia’s Congress approves $1.9bn IMF loan amid protest threats
+Unions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
@@ -273,6 +285,9 @@ The IT services company is preparing its next three-year plan as it enters the f
 ## Coforge rebuts boardroom tension claims, begins search for new directors with Egon Zehnder
 The IT services company said its board remained aligned on key strategic and governance decisions despite D.K. Singh’s resignation citing differences and tension, while it searches for two independent directors and a permanent chairperson.
 
+## RBI should 'hike early to hike less' to anchor expectations, support currency: Report
+India's central bank should consider acting early on rates to strengthen credibility, support the currency and reduce the need for larger tightening later, a report said on Friday.
+
 ## In 2025, Sebi warned investors about digital gold. Now, your digital gold may soon need physical gold to back it; government weighs RBI-Sebi oversight for $3 billion industry
 The finance ministry has sought feedback from regulators, banks and other stakeholders. A broad consensus has emerged that digital gold should be classified as a security under the Securities Contracts (Regulation) Act, 1956.
 
@@ -293,7 +308,4 @@ The US House of Representatives has passed legislation authorising President Don
 
 ## RBI files caveat after rejecting Tata Sons bid to avoid listing, source says
 The Reserve Bank of India has initiated court proceedings to secure its involvement in the Tata Sons listing issue. This action follows the RBI's denial of Tata Sons’ bid to withdraw its status as a non-banking financial company (NBFC). By filing a caveat in the Bombay High Court, the central bank a
-
-## BNP Government of Bangladesh reviews 101 pacts signed with India
-Dhaka is reviewing one hundred and one agreements signed with New Delhi. Bureaucrats trained in India over the past decade may face scrutiny. The ruling party alleges past governments compromised national interests with a friendly nation. Goods-laden vehicles from that country were reportedly allowe
 
