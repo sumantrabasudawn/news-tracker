@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Forget ‘associate member’, Canada can forge collective resilience with the EU
+Whatever one calls it, if the EU and Canada follow through on von der Leyen’s proposal it will take the partnership to a new level
+
+## Carney takes his investment pitch from ‘Maple Davos’ to Strasbourg
+Canada’s prime minister appeals to Wall St and the EU in his effort to diversify the economy away from the US
+
+## Higher rates, meet indebted consumers
+Will there be a tipping point?
+
+## Admit it — is this your worst financial habit?
+Not even I am immune from this late-night drain on my bank account
+
 ## Thirty years of buy-to-let: does it have a future?
 Rents and tenant demand are rising, but landlords are under increasing pressure.
 
@@ -12,23 +24,11 @@ Radical campaigner who confronted society’s taboos at a time when the Catholic
 ## The Anglo-French moment
 And why it must endure
 
-## South Africa’s ANC fails to register 181 local election candidates
-Mishap leaves liberation party unable to field representatives in politically strategic seats ahead of November 4 polls
-
-## Dry British summers raise hopes of homegrown chickpeas
-Scientists explore new crops that could make the UK’s food supplies more resilient against climate change and trade wars
-
-## Abdulmalik al-Houthi, the Yemeni rebel leader spooking oil markets
-The enigmatic leader has long been a thorn in Riyadh’s side but is now causing disruption that affects the world
-
-## Passport to Piddington: a short history of micronations
-Without its own airline and beer, the Oxfordshire secessionist village will remain a piddling principality
+## On takes aim at ailing Nike with Mbappé transfer coup
+Also in today’s newsletter: Clearlake wins the Chelsea civil war
 
 ## Over-80s turn to annuities as rates climb
 Growing interest comes amid a rise in larger annuity purchases
-
-## Admit it — is this your worst financial habit?
-Not even I am immune from this late-night drain on my bank account
 
 ## AI chatbots give wrong answers to financial queries ‘most of the time’
 Report finds some chatbots ignored upcoming tax changes and hallucinated rules
@@ -39,35 +39,41 @@ A new equity loan scheme could help people get on the property ladder, though th
 ## Australia has a secret weapon in the race for AI compute
 The country has almost limitless space with which to generate renewable electricity
 
-## Five ways the Iran energy shock is wrongfooting the world
+## The Iran energy shock is wrongfooting the world
 Don’t obsess about the crude price and don’t think this crisis is like its predecessors
 
-## Investors weigh whether Anthropic can sustain surging revenues post-IPO
-OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model ahead of IPO
+## N Chandrasekaran’s advice to Indian graduates: ‘Keep pace, or get outdated’
+India to see ‘unparalleled’ economic growth for decades amid AI-led changes, Tata Sons Chairman N Chandrasekaran tells graduates
 
-## Rupee drops by 7 closes unchanged at 95.96 against US dollar
-Positive momentum in domestic equity markets and forex inflows, however, capped losses in the Indian currency
+## India's GDP will rise to $38 trillion in 20 years: Ajit Doval
+India’s current GDP stands at $4.015 trillion, and it is expected to reach $38 trillion in the next 20 years, Doval said
 
-## Think. Over the week
+## US tariffs on Indian goods: Here is a complete timeline of key developments
+Here is a chronology of key tariff-related developments between US and India, including major duty announcements
+
+## India's FTAs opening new career opportunities for youth: PM Modi
+The prime minister stated that India’s youth have gained global trust, with high expectations for Indian innovators and entrepreneurs
+
+## Maruti Suzuki aims to sell 1 million green vehicles in FY27, launches automatic S-CNG range
+The car market leader, under its Auto Green Mission, on Friday launched automatic S-CNG variants of its popular car models - Swift, Dzire and Baleno
+
+## Keralam to revise its land laws to push industrial, tourism development
+Revenue department to expedite steps to remove outdated legal hurdles and make land available for industrial and tourism purposes, says Minister A P Anilkumar
+
+## Mazagon Dock Shipbuilders to invest ₹15,000 crore in Greenfield shipyard at Dugarajapatnam
+Signs MoU with National Shipbuilding and Heavy Industries Park-AP to develop the shipyard, which will have a design capacity of 1.2 million GT a year
+
+## TN govt to establish new nursing colleges in six districts
+The colleges, which will offer B Sc Nursing courses, will add 600 undergraduate seats annually
+
+## Can UAE, Oman offer India alternative energy routes amid rising West Asia crisis?
 
 
-## Reimagining Keralam sets implementation roadmap for 35 transformational projects
-The state government was committed to leveraging the economic potential of Keralam’s coastal ecosystem, which stretches over 500 km
+## Trump signs Russia sanctions bill: What it means and will India actually face 100% tariff
 
-## Trump says US has security deal on Greenland with Denmark
-The deal touted by the US president appears to be a significant pullback from his previous attempts to take over the semi-autonomous Danish territory
 
-## Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting
-US automakers urge President Trump to block Chinese car manufacturers from entering the US market amid escalating trade tensions
-
-## Board AGM: BCCI office-bearers 'authorised' to take call on Ajit Agarkar's future
-Along with the future of the chairman of senior selection committee, the BCCI is also looking to fill up all five positions of the junior selection committee
-
-## Uday Kotak calls for fiscal discipline, reforms to make India developed nation by 2047
-India's position on the global stage is pretty good, but there is no room for complacency, he said
-
-## Trump renews $1,00,000 fee on H-1B visas, tightens scrutiny
-The order sets a 30-day deadline for the Secretary of Labour, acting through the Wage and Hour Division, to begin reviewing data from previously submitted labour condition applications
+## Can your boss force you to serve full notice period? Know buyout rules & costs
+Notice period buyouts are often treated as though they are a standard right available to employees. However, there is no specific legal provision that gives an employee an automatic right to buy out the notice period.
 
 ## Direct tax kitty up 15.2% on faster corp tax growth
 
@@ -84,38 +90,32 @@ Trusts Chairman Noel Opposed IPO, Backed Other Options
 ## Trump extends H-1B visa restrictions, including $100,000 payment requirement, for another year
 
 
-## Shapoorji Pallonji Group, with 18.4% Tata Sons stake, backs its public listing
+## MP: Man allegedly kills wife, 3 children with axe after argument in Damoh
+A 30-year-old man allegedly killed his wife and three children with an axe in Damoh, Madhya Pradesh, after a fresh argument. He was arrested outside his home.
 
+## Two withdrawals, one U-turn: TMC chaos ahead of Bengal bypolls
+Rabiul Alam Chowdhury on Saturday said he would withdraw his nomination, but backtracked within two hours.
 
-## Trump signs Russia sanctions bill into law, gains authority to impose 100% tariff on India and China
-President Trump has officially enacted a new sanctions law aimed at Russia and Iran, empowering the U.S. to impose penalties on nations purchasing Russian energy supplies. Countries like India and China, significant buyers of Russian crude and gas, have raised concerns about the potential impact on 
+## Rash driving injures four near Greater Noida college, driver arrested: Police
+According to police, one person sustained a minor leg injury in the incident and was discharged after receiving first aid at a hospital
 
-## Sugar retail prices down 10% ahead of festive season, govt eases stock cap
+## Trump extends $100,000 H-1B fee for another year: What it means for Indian professionals
+The extension is particularly significant for Indian professionals, who account for the largest share of approved H-1B beneficiaries by country of birth.
 
+## ‘True partnership’: Rebel Trinamool MP Saayoni Ghosh bats for TMC-Congress alliance, says will send ‘powerful message’
+Saayoni Ghosh's remarks come even as the Nandigram bypoll, scheduled on October 6, has triggered a political storm in West Bengal.
 
-## Jhiram Valley attack that nearly wiped out Chhattisgarh Congress leadership planned months ahead: Court
-The NIA court said cadres surveyed the route, stockpiled food and set up temporary command centres before the May 25, 2013 attack.
+## 2 workers die after falling from 19th floor at Gurugram construction site: Cops
+The deceased were Dilkhush, a resident of Bihar’s Katihar, and Vasudev from West Bengal, police said
 
-## Pune: Worker killed, 5 injured after container truck hits vehicles on highway
-One person was killed and five injured after a container truck hit multiple vehicles on the Pune-Bengaluru highway near Bhumkar Bridge in Narhe early Saturday.
+## IIT-Bombay charged with abetment of suicide after student's death in ChatGPT-linked exam row
+IIT-Bombay earlier said the student was assured that the incident would not have any adverse impacts on his career.
 
-## Rajnath Singh flags delays in military projects, seeks firm timelines
-The defence minister urged HAL and other domestic firms to set firm timelines, citing rising costs and the risk of technology becoming outdated.
+## HC seeks Delhi Police stand on contempt plea over failure to examine inspector's conduct
+HC seeks Delhi Police stand on contempt plea over failure to examine inspector's conduct
 
-## Equal work alone not enough to claim equal pay: Supreme Court
-The Supreme Court said doing identical or similar work alone does not establish a right to equal pay, which depends on recruitment, qualifications, experience and responsibilities.
-
-## FCRA amendments not against any community, Centre tells House panel
-Govind Mohan said national security concerns drove the proposed changes, as MPs sought clarity on their impact on minority groups and NGOs.
-
-## Mamata Banerjee moves Supreme Court against ECI freeze on TMC symbol
-Mamata Banerjee has moved the Supreme Court against the ECI’s interim order freezing the TMC’s original name and symbol amid a rival faction’s claim.
-
-## Weather Bee: Where is monsoon 2026 ending?
-The southwest monsoon is likely to withdraw from parts of west Rajasthan on September 19. Here’s what the IMD data shows about rainfall in 2026.
-
-## Telangana: 4 killed, driver critical as SUV overturns on NH-44 near Hyderabad
-Four members of a family were killed and their driver critically injured after a Toyota Innova crashed into a culvert and overturned on NH-44 near Hyderabad.
+## Focused ultrasound could be the next big cancer breakthrough for hard-to-treat tumours
+Precisely targeted sound waves could mark a major advance in treating pancreatic cancer and glioblastoma – an aggressive form of brain cancer – within a few years, according to a leading advocate of the technology. Researchers in Hong Kong and around the world are testing whether the approach can he
 
 ## Perfect Diary owner Yatsen doubles down on skincare, R&D after business overhaul
 Yatsen Group, the Chinese beauty company behind Perfect Diary cosmetics, plans to deepen its push into skincare and new product research to sustain its growth, after a years-long overhaul of its business that has seen the firm acquire a string of overseas brands. The Guangzhou-based company will slo
@@ -137,9 +137,6 @@ The US Federal Reserve raised its benchmark interest rate by a quarter of a perc
 
 ## Senior HSBC bankers face double blow as school-fee subsidy cut adds to job risks: sources
 Senior bankers at HSBC are facing a double blow of losing a key employment benefit while also confronting potential job losses as the lender carries out a range of measures to cut costs and achieve fair treatment for all staff, according to sources. HSBC, the biggest lender in Hong Kong, will scrap 
-
-## Standard Chartered sharpens its yuan advisory edge as currency’s global rise continues
-Amid continuing geopolitical tensions and market uncertainty, greater use of the yuan for international trade settlements, raising funds, managing liquidity and allocating investments is a logical strategy for executives overseeing treasury and finance functions. At the end of 2025, the People’s Ban
 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump’s threats to demolish Kennedy Center sparks protest
-Protestors gathered outside Washington’s Kennedy Center after President Trump’s plans to close the arts venue.
+## LIVE: Brighton vs Arsenal – Premier League
+Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage.
 
-## Brazilian police capture suspected serial killer disguised as a woman
-Brazilian police say they will reopen dozens of cases after they arrested a self-confessed serial killer.
+## Iran stages show of force during mobilisation campaign in Tehran
+Armed women, anti-aircraft guns and Shaheed drones were seen in Tehran as hundreds of thousands marched in the capital.
 
-## Indonesia ferry search: Divers retrieve three bodies, 126 people missing
-Bad weather has pushed authorities to begin operations to right the capsized ferry.
+## Russia kills eight people in Ukraine, attacks two vessels in Black Sea
+Ukraine's Air Force says Russia hit the country with dozens of drones and two antiship missiles overnight.
 
-## UK jails teen asylum seeker for steering overcrowded Channel migrant boat
-The boat lacked safety gear and took on water before interception by UK Border Force, authorities say.
+## Nigerian forces fire at protesters rallying over deaths of detained miners
+Nigerian security forces have opened fire on protesters angry over the deaths of 37 miners who died in detention.
 
-## Japan has record 100,000 people aged over 100: How societies are ageing
-Fewer births and worsening labour shortages are placing mounting pressure on Japan’s social care system.
+## NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message
+Houston Texans’ linebacker Azeez Al-Shaair has spoken to sports journalists about his $11,941 fine by the NFL.
 
-## Trump bans CNN, MS NOW, Politico from the White House
-Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’
+## Trump says US has ‘permanent control’ of Greenland security: Does it?
+New agreement with Denmark falls short of Trump’s previously stated goal of US 'ownership' of the island.
 
-## The Nepal floods question: When the Himalayas collapse, who gets warned?
-The floods raised concerns about cross-border warnings that experts say can no longer be ignored.
+## Africa’s Green Revolution threatens traditional foods
+The promotion of monocultures is hurting the production of much more nutritious and climate-resistant traditional crops.
 
-## Bolivia’s Congress approves $1.9bn IMF loan amid protest threats
-Unions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.
+## EU urges US to lift travel ban on Palestinian delegation for UNGA meeting
+The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
