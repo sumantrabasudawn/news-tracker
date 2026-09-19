@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Saudi Arabia sounds air-raid alerts as missile and drone assault intensifies
+Authorities issue warnings in the capital for the first time since Yemeni rebels reignited conflict
+
+## Michael Marra wins Scottish Labour leadership election
+Party’s finance spokesperson pledges to ‘reconnect with the country’ in bid for political relevance
+
+## Nobel economists throw support behind California billionaire tax
+Progressive laureates say November ballot measure could ‘start reining in the power’ of ultra-wealthy
+
 ## Forget ‘associate member’, Canada can forge collective resilience with the EU
 Whatever one calls it, if the EU and Canada follow through on von der Leyen’s proposal it will take the partnership to a new level
 
@@ -14,15 +23,6 @@ Not even I am immune from this late-night drain on my bank account
 
 ## Thirty years of buy-to-let: does it have a future?
 Rents and tenant demand are rising, but landlords are under increasing pressure.
-
-## Unpacking the real fiscal costs of immigration
-Low taxes on low earners mean the same immigrants cost the UK more than they would elsewhere
-
-## Emma Bonino, Italian politician and activist 1948-2026
-Radical campaigner who confronted society’s taboos at a time when the Catholic Church still held political sway
-
-## The Anglo-French moment
-And why it must endure
 
 ## On takes aim at ailing Nike with Mbappé transfer coup
 Also in today’s newsletter: Clearlake wins the Chelsea civil war
@@ -42,29 +42,35 @@ The country has almost limitless space with which to generate renewable electric
 ## The Iran energy shock is wrongfooting the world
 Don’t obsess about the crude price and don’t think this crisis is like its predecessors
 
-## N Chandrasekaran’s advice to Indian graduates: ‘Keep pace, or get outdated’
-India to see ‘unparalleled’ economic growth for decades amid AI-led changes, Tata Sons Chairman N Chandrasekaran tells graduates
+## Next SEMICON India in March 2028; to include Made-in-India chip users
+The 2026 edition saw participation of 600 companies and signing of 45 MoUs between ecosystem partners
 
-## India's GDP will rise to $38 trillion in 20 years: Ajit Doval
-India’s current GDP stands at $4.015 trillion, and it is expected to reach $38 trillion in the next 20 years, Doval said
+## ‘Water could become a constraint on expansion of semiconductor industry’
+The panel also highlighted the challenges posed by chemicals used in semiconductor manufacturing, including per- and polyfluoroalkyl substances, often referred to as “forever chemicals”
 
-## US tariffs on Indian goods: Here is a complete timeline of key developments
-Here is a chronology of key tariff-related developments between US and India, including major duty announcements
+## Indian micro-fertilisers association seeks ease of doing business, regulatory reforms
+IMMA roundtable with Government officials focuses on ‘One Nation, One Licence’, GST rationalisation and enabling exports of micronutrients and specialty fertilisers
 
-## India's FTAs opening new career opportunities for youth: PM Modi
-The prime minister stated that India’s youth have gained global trust, with high expectations for Indian innovators and entrepreneurs
+## India is a global investment destination: L&T President
+Raman said there must be a coordinated effort between industry and academia to provide a balance between grounded knowledge in traditional disciplines and continuous learning in emerging technologies
 
-## Maruti Suzuki aims to sell 1 million green vehicles in FY27, launches automatic S-CNG range
-The car market leader, under its Auto Green Mission, on Friday launched automatic S-CNG variants of its popular car models - Swift, Dzire and Baleno
+## 1-day SPFWA soy conclave 2026 to be held in Mumbai on Sept 30
+Themed ‘Unlocking the Soy Opportunity: Protein, Food, Trade and Innovation’, it will bring various stakeholders under one roof
 
-## Keralam to revise its land laws to push industrial, tourism development
-Revenue department to expedite steps to remove outdated legal hurdles and make land available for industrial and tourism purposes, says Minister A P Anilkumar
+## NTPC terminates 400 MWh BESS contract as contractor defaults
+The termination is due to the contractor’s failure to meet its contractual obligations and achieve the required project progress
 
-## Mazagon Dock Shipbuilders to invest ₹15,000 crore in Greenfield shipyard at Dugarajapatnam
-Signs MoU with National Shipbuilding and Heavy Industries Park-AP to develop the shipyard, which will have a design capacity of 1.2 million GT a year
+## Rock check dams offer new push to water security, agriculture in Ladakh’s Himalayan cold desert
+Five check dams were built along the Sindhu River and its tributaries as a pilot initiative aimed at improving water retention
 
-## TN govt to establish new nursing colleges in six districts
-The colleges, which will offer B Sc Nursing courses, will add 600 undergraduate seats annually
+## India seeks agile regulatory framework to speed up semiconductor projects
+Customs has also introduced non-intrusive inspection and plans to expand container scanning, with AI-enabled tools being used to support risk assessment
+
+## How Vande Bharat Express marked a tech leap for railways after Rajdhani & Shatabdi. Next stop: Bullet trains
+Fifty years after the first Rajdhani Express was launched, and over 30 years after the Shatabdi, came the Vande Bharat Express - a technological leap that has changed modern day travel on Indian Railways.
+
+## 18 years after the 2008 financial meltdown: How a crisis born in US reshaped India
+The 2008 global financial crisis hit India through markets, capital flows and trade, but its banking system remained resilient. The shock exposed gaps in financial resolution and regulation, prompting reforms including the IBC, stronger safeguards for systemically important banks and higher buffers.
 
 ## Can UAE, Oman offer India alternative energy routes amid rising West Asia crisis?
 
@@ -84,35 +90,29 @@ Notice period buyouts are often treated as though they are a standard right avai
 ## Tata Sons board unanimous on panel for RBI compliance
 Trusts Chairman Noel Opposed IPO, Backed Other Options
 
-## Anthropic quietly sets up biology lab for AI drug project
+## From international tennis tournaments to new DUSU president: Who is ABVP's Yash Dabas?
+ABVP's Yash Dabas polled 24,576 votes and defeated NSUI's Vijai Shankar Meena by 2,053 votes.
 
+## Delhi SIR: CM Rekha Gupta, Arvind Kejriwal among electors being served notices
+The draft roll contains 97,53,577 electors, a 32.8% decline from the 1,45,10,299 electors on the rolls as of June 30
 
-## Trump extends H-1B visa restrictions, including $100,000 payment requirement, for another year
+## MP petrol pump dealers to stop accepting UPI payments above ₹2,000 from October 15
+The decision was taken unanimously at a meeting of the MP Petrol Pump Association, which represents 4,700 dealers statewide.
 
+## ABVP sweeps, NSUI falters, Independent grabs key seat: Takeaways from Delhi University polls
+Following the ABVP's big win, DUSU's new President Yash Dabas described it as a 'victory for the students, harmony, Sangh, and for patriots.'
 
-## MP: Man allegedly kills wife, 3 children with axe after argument in Damoh
-A 30-year-old man allegedly killed his wife and three children with an axe in Damoh, Madhya Pradesh, after a fresh argument. He was arrested outside his home.
+## Congress' Nandigram bypoll candidate sent to judicial custody till October 3; can’t campaign
+The police said in a statement that Pradhan was arrested in connection with four pending non-bailable arrest warrants
 
-## Two withdrawals, one U-turn: TMC chaos ahead of Bengal bypolls
-Rabiul Alam Chowdhury on Saturday said he would withdraw his nomination, but backtracked within two hours.
+## Praise for Yoga, ‘super delicious’ curry: Japanese airmen on India experience during joint military drills
+The IAF had on September 8 welcomed F-2 fighter jets as well as 110 members of the Japan Air Self-Defense Force (JASDF) for the combat exercise in Jodhpur.
 
-## Rash driving injures four near Greater Noida college, driver arrested: Police
-According to police, one person sustained a minor leg injury in the incident and was discharged after receiving first aid at a hospital
+## HT Evening Brief Sept 19: ABVP sweeps Delhi University polls, Asian Games declared open in Japan
+Good evening, readers. Here is your quick recap of today's news stories in India, world, entertainment, and sports.
 
-## Trump extends $100,000 H-1B fee for another year: What it means for Indian professionals
-The extension is particularly significant for Indian professionals, who account for the largest share of approved H-1B beneficiaries by country of birth.
-
-## ‘True partnership’: Rebel Trinamool MP Saayoni Ghosh bats for TMC-Congress alliance, says will send ‘powerful message’
-Saayoni Ghosh's remarks come even as the Nandigram bypoll, scheduled on October 6, has triggered a political storm in West Bengal.
-
-## 2 workers die after falling from 19th floor at Gurugram construction site: Cops
-The deceased were Dilkhush, a resident of Bihar’s Katihar, and Vasudev from West Bengal, police said
-
-## IIT-Bombay charged with abetment of suicide after student's death in ChatGPT-linked exam row
-IIT-Bombay earlier said the student was assured that the incident would not have any adverse impacts on his career.
-
-## HC seeks Delhi Police stand on contempt plea over failure to examine inspector's conduct
-HC seeks Delhi Police stand on contempt plea over failure to examine inspector's conduct
+## Ghaziabad merchants unwilling to accept UPI from Oct 15 over new 0.4% MDR rule
+As per the new rules, Person-to-Merchant (P2M) UPI payments above ₹2,000 will attract a 0.4% Merchant Discount Rate
 
 ## Focused ultrasound could be the next big cancer breakthrough for hard-to-treat tumours
 Precisely targeted sound waves could mark a major advance in treating pancreatic cancer and glioblastoma – an aggressive form of brain cancer – within a few years, according to a leading advocate of the technology. Researchers in Hong Kong and around the world are testing whether the approach can he
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## LIVE: Brighton vs Arsenal – Premier League
-Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage.
+## Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction
+Real Madrid coach Jose Mourinho admits his team does not know how to control matches before Sunday's La Liga clash.
 
-## Iran stages show of force during mobilisation campaign in Tehran
-Armed women, anti-aircraft guns and Shaheed drones were seen in Tehran as hundreds of thousands marched in the capital.
+## Fear and anger in South Africa as bodies of nine women found: What we know
+Police examining 'all possibilities' as women in Ekurhuleni, Johannesburg, fear murders could be linked.
 
-## Russia kills eight people in Ukraine, attacks two vessels in Black Sea
-Ukraine's Air Force says Russia hit the country with dozens of drones and two antiship missiles overnight.
+## An unaffordable car market highlights Iran’s cost-of-living crisis
+Some officials and state media have long openly described the industry as a ‘mafia’ system.
 
-## Nigerian forces fire at protesters rallying over deaths of detained miners
-Nigerian security forces have opened fire on protesters angry over the deaths of 37 miners who died in detention.
+## Taiwan flexes military capabilities ahead of Trump-Xi talks
+Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.
 
-## NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message
-Houston Texans’ linebacker Azeez Al-Shaair has spoken to sports journalists about his $11,941 fine by the NFL.
+## Child among three Palestinians killed in Israeli attacks across Gaza
+Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.
 
-## Trump says US has ‘permanent control’ of Greenland security: Does it?
-New agreement with Denmark falls short of Trump’s previously stated goal of US 'ownership' of the island.
+## What’s behind reports that the Israeli army is low on troops, equipment?
+Israel's Channel 12 and Maariv newspaper claim the military is facing 'severe shortages'.
 
-## Africa’s Green Revolution threatens traditional foods
-The promotion of monocultures is hurting the production of much more nutritious and climate-resistant traditional crops.
+## Asian Games 2026: Top athletes and storylines to look out for
+From Olympic champions to teen sensations, several athletes are looking to make their mark at the continental event.
 
-## EU urges US to lift travel ban on Palestinian delegation for UNGA meeting
-The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.
+## US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea
+The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
