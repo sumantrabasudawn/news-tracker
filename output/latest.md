@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump announces ‘AI Force’ as alarm grows over technology’s advance
+US president has resisted calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour
+
 ## Toronto film festival is full of treats — but no clear awards frontrunners
 Mahershala Ali as an assassin single father and Julianne Moore as a comically earnest amateur actor, plus new work by Mike Leigh, Chris Rock and Jesse Eisenberg
 
@@ -20,12 +23,6 @@ Whatever one calls it, if the EU and Canada follow through on von der Leyen’s 
 
 ## Carney takes his investment pitch from ‘Maple Davos’ to Strasbourg
 Canada’s prime minister appeals to Wall St and the EU in his effort to diversify the economy away from the US
-
-## Higher rates, meet indebted consumers
-Will there be a tipping point?
-
-## Trump announces ‘AI Force’ as alarm grows over technology’s advance
-US president has resisted industry calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour
 
 ## On takes aim at ailing Nike with Mbappé transfer coup
 Also in today’s newsletter: Clearlake wins the Chelsea civil war
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Fulham vs Manchester United: Premier League – prediction, teams, lineups
+Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.
+
+## Israel’s president pardons soldier who killed wounded Palestinian in 2016
+Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.
+
+## Lacking equipment, but not ambition: Gaza students try to keep up with tech
+Gaza's IT industry has been devastated from three-years of bombing and destruction.
+
+## Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash
+US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.
+
+## Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty
+Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.
+
+## Canadians warm to EU ‘associate membership’ proposal
+From work and study to trade, Canadians see new possibilities in closer ties with the European Union.
+
+## Trump says he will create ‘AI Force’ with new ‘AI czar’
+The announcements come as AI faces mounting concerns from populations across the United States.
+
 ## Iran says conditions to re-engage in talks, end war sent to US via Qatar
 Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.
-
-## Israel targets paramedics in southern Lebanon
-Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.
-
-## Cuba works to restore power after another major nationwide blackout
-The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.
-
-## Dutch riot police break up violent far-right protest in The Hague
-Justice minister condemns 'Hitler salutes, antisemitic slogans, violence' at the anti-immigration rally.
-
-## A ‘ban on the free press’: White House bars journalists from three outlets
-Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.
-
-## Ed Sheeran concert set to go ahead after outcry over Gaza
-Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.
-
-## Brighton beat Arsenal 3-0 as Man City top Premier League without playing
-Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City.
-
-## Demonstrators in US form human chain to protest Kennedy Center closure vote
-'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
