@@ -1,7 +1,13 @@
 # AION Intelligence
 
-## German chancellor Merz’s CDU party set to suffer heavy losses in regional elections
-Exit polls show CDU slightly above the 5 per cent threshold for parliamentary representation in Mecklenburg-Vorpommern
+## German chancellor Merz vows to stay on despite ‘disaster’ in regional elections
+Partial results suggest CDU may not secure parliamentary representation in Mecklenburg-Vorpommern
+
+## A UN gathering notable for its absences
+World leaders convene in New York for the General Assembly, but not Germany’s Merz, while China’s Xi heads straight to the White House
+
+## Lula, Costa, Ruto and Carney: Multilateralism is not idealism, it is a necessity
+We need to strengthen our system of co-operation, not replace it
 
 ## Trump says 250ft arch will be ‘military complex’ with drones and snipers
 President claims national security justification for controversial Washington monument
@@ -18,14 +24,14 @@ Growing reliance on Treasury bills comes as Scott Bessent seeks to curb rise in 
 ## UK contends with rise in workplace disputes about disability discrimination
 Chair of dispute resolution service Acas says tribunal system faces ‘enormous challenge’
 
+## Volvo Cars chief who came out of retirement last year to hand over reins
+Håkan Samuelsson will be replaced by former Škoda boss Klaus Zellmer next year
+
 ## Chevron plans drilling spree as it overhauls oil and gas search
 Kevin McLachlan hopes to replicate the exploration turnaround he achieved at TotalEnergies
 
 ## CATL develops pick-up truck batteries for US despite trade barriers
 Comments from Chinese company come ahead of President Xi Jinping’s visit to Washington
-
-## Volvo Cars chief who came out of retirement last year to hand over reins
-Håkan Samuelsson will be replaced by former Škoda boss Klaus Zellmer next year
 
 ## US retailer rations motor oil as prices quadruple and supplies run dry
 Iran war has created global shortage of lubricant used in vehicle engines
@@ -234,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Central Colombia forest fire threatens tourist town of Villa de Leyva
-The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions.
+## US, China open high-level talks ahead of Trump-Xi summit
+Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.
 
-## Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby
-The game hinged on Dean Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box.
+## Qatar says it is working to revive Iran-US talks
+Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.
 
-## Photos: Nepal flood survivors find little trace of former lives
-Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.
+## France’s Macron and Canada’s Carney announce plans to build stronger ties
+Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.
 
-## Why have US prosecutors labelled China’s Huawei a criminal enterprise?
-Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.
+## How will Saudi Arabia deal with the Houthis?
+Yemeni group warns of further attacks on the kingdom.
 
-## Kenya’s Ngetich breaks women-only half-marathon world record by a second
-Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.
+## Man Utd salvage Fulham draw as pressure mounts on Carrick
+Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick.
 
-## Trump says monumental arch in Washington, DC will also be military complex
-Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.
+## Gaza artists honour Macklemore for supporting Palestine
+Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.
 
-## Venezuela quakes rescue dog ‘Tsunami’ honoured with statue
-A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.
+## Jerusalem Daily: Israel pardons soldier Elor Azaria
+Jerusalem Daily: Israel pardons soldier Elor Azaria
 
-## Hundreds protest in Tunisia for release of jailed Gaza flotilla activists
-Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists.
+## Trump tariffs hit Canada’s dairy farmers as US sales stall
+A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
