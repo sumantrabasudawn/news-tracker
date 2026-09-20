@@ -234,6 +234,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
+Iran security chief says Tehran's demands include an end to war on all fronts and the lifting of US's naval blockade.
+
+## Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM
+Turkish FM highlights Turkiye's readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.
+
+## Saudi-led coalition says defences intercept Houthi missile fired at Riyadh
+It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia.
+
 ## Fulham vs Manchester United: Premier League – prediction, teams, lineups
 Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.
 
@@ -248,15 +257,6 @@ US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Te
 
 ## Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty
 Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.
-
-## Canadians warm to EU ‘associate membership’ proposal
-From work and study to trade, Canadians see new possibilities in closer ties with the European Union.
-
-## Trump says he will create ‘AI Force’ with new ‘AI czar’
-The announcements come as AI faces mounting concerns from populations across the United States.
-
-## Iran says conditions to re-engage in talks, end war sent to US via Qatar
-Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
