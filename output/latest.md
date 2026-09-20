@@ -1,22 +1,31 @@
 # AION Intelligence
 
+## German chancellor Merz’s CDU party set to suffer heavy losses in regional elections
+Exit polls show CDU slightly above the 5 per cent threshold for parliamentary representation in Mecklenburg-Vorpommern
+
+## Trump says 250ft arch will be ‘military complex’ with drones and snipers
+President claims national security justification for controversial Washington monument
+
+## Burnham hopes to build bridges with Trump at first meeting
+UK prime minister has said he wants to press case for US to help Ukraine with air-defence systems
+
+## Labour MPs warn against mansion tax change in Budget
+Cutting threshold to £1.5mn would affect about 160,000 extra properties and hit party’s support in London
+
+## Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb
+Growing reliance on Treasury bills comes as Scott Bessent seeks to curb rise in long-term rates
+
+## UK contends with rise in workplace disputes about disability discrimination
+Chair of dispute resolution service Acas says tribunal system faces ‘enormous challenge’
+
 ## Chevron plans drilling spree as it overhauls oil and gas search
 Kevin McLachlan hopes to replicate the exploration turnaround he achieved at TotalEnergies
 
 ## CATL develops pick-up truck batteries for US despite trade barriers
 Comments from Chinese company come ahead of President Xi Jinping’s visit to Washington
 
-## Ukraine hits Moscow with ‘largest ever’ drone attack
-Major oil refinery in Russian capital set ablaze as voting draws to a close in stage-managed parliamentary elections
-
-## The perils of productivity numbers
-The forces driving growth in output per hour matter more than the decimal-point estimate itself
-
-## Is the Bank of Japan right to fear an overshoot in inflation?
-Market Questions is the FT’s guide to the week ahead
-
-## Jon Ossoff’s Georgia race stirs talk of 2028 US presidential audition
-Democrat’s media-savvy attacks on ‘crook president’ give him lead in state’s pivotal Senate election along with national attention
+## Volvo Cars chief who came out of retirement last year to hand over reins
+Håkan Samuelsson will be replaced by former Škoda boss Klaus Zellmer next year
 
 ## US retailer rations motor oil as prices quadruple and supplies run dry
 Iran war has created global shortage of lubricant used in vehicle engines
@@ -33,32 +42,32 @@ Wall Street finds new way to turn tech giants’ credit strength into cheaper fu
 ## Billionaire Tata scion faces battle of his life to avert listing
 Noel Tata is up against the 150-year-old business empire’s chair and his well-connected New Delhi allies
 
-## Cinema revival takes the big screen and makes it enormous
-Film-goers are attending less often but spending more, splashing out on plush seats, elaborate cocktails and premium screens
+## IPO pipeline stays strong with 72 firms seeking to raise ₹1.70 lakh crore
+Retail demand remains robust even as experts caution against excessive exuberance and rich valuations
 
-## MeitY to take up semiconductor companies’ concerns with Finance Ministry to ease hurdles at Customs
-The issue is significant because semiconductor facilities depend heavily on imported materials, making speedy customs clearance critical
+## UP affirms its top position in tax collection, followed by Karnataka, Tamil Nadu
+Kerala posts fastest growth of about 22%; Gujarat tops capex
 
-## SEBI board may take up changes to PMS, settlement regulations
-Proposals on FPI participation in commodity derivatives, advertising framework may also be considered
+## Editorial. Stick it out
+US tariff threat on Russian crude shouldn’t rattle India
 
-## Rajasthan farmers sell moong below MSP as Govt yet to decide MSP purchase
-Rajasthan moong arrivals surge 10-fold, but farmers get 15% below MSP; average realisation at ₹7,452/quintal against MSP of ₹8,780
+## India’s biotech start-ups need patient capital to drive novel drug innovation, industry leaders say
+Industry leaders call for bigger investments, policy predictability, risk capital pool, and more, at CII Pharma and Life Sciences Summit
 
-## Agrochemical body ACFI seeks ₹5,000-7,500 crore programme for the sector
-ACFI-KPMG paper calls for time-bound PLI-style incentives, power subsidies and single-window regulation to cut China cost gap
+## Keralam weather update: IMD predicts heavy rains from Sep 20-24
+IMD says there is possibility of thunderstorms at isolated places in Keralam from September 20 to 21
 
-## Samsung witnessing rapid growth in demand for AI appliances in India
-More than half of appliances sold by Samsung in India are now AI-enabled devices
+## Devastated by Taliban, ignored by all
+A heartbreaking account of the fresh wave of cruelty and violence against Afghan women
 
-## Adani seeks Centre’s nod for US pre-clearance at Navi Mumbai airport
-Proposal envisages a facility at Navi Mumbai airport that would allow passengers to undergo US immigration and customs checks before departure on direct flights
+## A portrait of a storied building
+The history of the Parliament from within its walls
 
-## What will drive stock markets this week? Analysts flag oil moves, West Asia worries and more
-Trading activity of foreign investors and trends in global markets would also be tracked by investors, analysts say
+## Grahaa Space accelerates launch plans for Earth-observation satellites
+With increasing customer interest, the company aims to monetise its Earth-observation data across various sectors
 
-## Tata Trusts challenges Chandra's reappointment, says casting vote cannot override AoA
-Tata Trusts says resolution could not have been validly passed after one of the two Trust-nominated directors voted against it
+## NSE IPO: Shareholders still retain significant stake despite tendering shares in offer-for-sale
+Of the 20 institutional investors that participated in the OFS, nine were foreign institutional investors. These investors collectively owned 15.96 per cent of NSE before the IPO.
 
 ## Can skirt lengths offer clues about the economy? Understanding the Hemline Index
 
@@ -81,32 +90,29 @@ The proposed changes include a visual showing school-age children on the packagi
 ## Builder gave homebuyer parking in 2008, society changed rules; here’s why court gave interim relief to resident
 The Phase-1 society claimed that the area where the couple had been parking their car belonged to the society. The builder, however, took a different position, saying the space formed part of the open area of the building where it proposed to develop a recreation ground.
 
-## Life is a marathon, not a sprint, says Tata Sons’ Chandrasekaran
+## 'Notices do not mean name deletion': EC clarifies after Kejriwal, Jaishankar, Advani get SIR letters
+The clarification came after notices were issued to several prominent political figures during the ongoing SIR in the national capital.
 
+## ‘Doesn't seem like suicide’: Surendra Koli’s brother files complaint, seeks high-level probe into 'suspicious' death
+Surendra's brother Chandan told police that the circumstances surrounding the death raised doubts about the possibility of suicide.
 
-## Assam CM lays foundation stone for ₹48,000 crore Adani power project
-The ₹48,000 crore project is expected to generate up to 20,000 jobs in the construction phase and around 5,000 jobs once operational
+## Bengal govt to sign agreement with Centre on Sep 28 to set up airport in Purulia: CM
+The Centre's flagship UDAN (Ude Desh ka Aam Nagrik) scheme aims to connect underserved regions and strengthen last-mile air connectivity.
 
-## HT Evening Brief Sept 20: BMW crash in Mumbai kills 3; Cong's SIR jibe at Amit Shah; Valarivan's silver at Asian Games
-The SIR exercise in India, Elavenil Valarivan's silver at Asian Games, and North Korea's missile launch into East Sea – a recap of top five headlines today.
+## Japan air chief General Takehiro Morita flies Tejas, calls it 'a truly invaluable experience' | Watch
+The two air chiefs undertook the sortie as part of the ongoing exercise, which is being conducted at Air Force Station Jodhpur.
 
-## How did BMW crash on Mumbai Coastal Road? What we know so far
-Gujar was driving the BMW at the time of the accident, while the other three occupants were passengers.
+## Two Indian activists were invited to scrapped security dialogue in Pakistan
+PIPS is a well-known independent think tank run by Muhammad Amir Rana, and it came to prominence with its research on terrorism
 
-## LK Advani, Manish Sisodia, Kailash Gahlot among Delhi voters served SIR notices
-A poll official said that prominent figures who received notices will be facilitated and their documents collected
+## FDA cancels 16, suspends eight drug licences in Karnataka
+The action follows the FDA’s August 18 raid on an unlicensed facility in Kurubarakeranahalli, near Bidadi
 
-## Delhi records slight dip in dragonfly, damselfly numbers; two new sightings: Survey
-Delhi’s seven biodiversity parks recorded 11,154 dragonflies and damselflies, down from 13,253 last year. Erratic rains and dry conditions may explain the dip.
+## Fair skin, curly hair, tall height no basis to determine caste, religion: Madras HC
+The court made the observation while setting aside an order, which held that a community certificate held by a man was not genuine citing physical attibutes.
 
-## IndiGo crew member, a single mother to 5-year-old, dies after car rams into her vehicle in Mumbai
-A car travelling on the wrong side of the road crashed into her vehicle. Mistry was reportedly seated on the driver's left side in the vehicle.
-
-## Bank holiday tomorrow, September 21: Are banks closed in Kerala and Assam? Check details
-The closures in Assam and Kerala are linked to Janmotsav of Srimanta Sankardeva and Sree Narayana Guru Samadhi Day, respectively.
-
-## Neurosurgeon charred to death after car hits roadside divider, catches fire in Telangana
-The accident took place near Pillalamarri flyover on the Hyderabad-Khammam highway at around 7.15 am.
+## All about ‘Yatra of Seva’: 20 teams to cover 35,500 km between Gujarat's Vadnagar to Varanasi
+The initiative also includes distributing kits to widows, honouring ASHA workers and bringing communities together for various welfare activities.
 
 ## China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’
 Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes. CXMT’s fifth-generation technology pla
@@ -228,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Netanyahu tours tunnels underneath Al-Aqsa Mosque compound
-Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound.
+## Central Colombia forest fire threatens tourist town of Villa de Leyva
+The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions.
 
-## Iran win Asian Games basketball bronze amid emotional scenes
-Players celebrate podium finish that brings exemption from conscription, saying the pressure was 'out of this world'.
+## Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby
+The game hinged on Dean Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box.
 
-## Postponing the future: War and inflation redraw marriage terms in Iran
-Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians.
+## Photos: Nepal flood survivors find little trace of former lives
+Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.
 
-## Moscow attacked by more than 1,000 Ukrainian drones
-This is the moment a drone exploded as it hit an apartment building in Moscow.
+## Why have US prosecutors labelled China’s Huawei a criminal enterprise?
+Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.
 
-## Former Pakistan PM Imran Khan’s sister arrested before planned PTI march
-Khan’s party condemns his sister’s arrest as an illegal attempt to silence her over PTI leader’s ongoing imprisonment.
+## Kenya’s Ngetich breaks women-only half-marathon world record by a second
+Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.
 
-## Gaza’s children return to classrooms after years of Israeli attacks
-Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools.
+## Trump says monumental arch in Washington, DC will also be military complex
+Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.
 
-## LIVE: Fulham vs Manchester United – Premier League
-Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage.
+## Venezuela quakes rescue dog ‘Tsunami’ honoured with statue
+A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.
 
-## Israeli forces kill Palestinian near Jenin in occupied West Bank
-Israeli forces killed a Palestinian man near Jenin and an Israeli settler was fatally shot in separate incident.
+## Hundreds protest in Tunisia for release of jailed Gaza flotilla activists
+Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
