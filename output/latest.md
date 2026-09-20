@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## Freedom in adulthood isn’t what you think
-Part of growing up is realising that some degree of discipline, commitment and narrowed options can lead to greater contentment
-
 ## Lib Dem leader Ed Davey urged to ditch the stunts and get serious
 The party is stuck in fifth place in polls as frustrated MPs meet for annual conference
+
+## Houthis launch ballistic missile at Saudi capital in escalation of hostilities
+Attack marks the first time Yemeni rebels have targeted Riyadh since reigniting conflict
+
+## German states go to the polls in high-stakes test for Merz
+Poor results for unpopular chancellor’s CDU in Mecklenburg-Vorpommern and Berlin could determine his future
+
+## Big Tech uses guarantees to keep $300bn AI exposure off balance sheets
+Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out
+
+## Billionaire Tata scion faces battle of his life to avert listing
+Noel Tata is up against the 150-year-old business empire’s chair and his well-connected New Delhi allies
+
+## Freedom in adulthood isn’t what you think
+Part of growing up is realising that some degree of discipline, commitment and narrowed options can lead to greater contentment
 
 ## Chinese owners launch €2.5bn sale of Luxembourg’s oldest bank
 Initial bids for Legend Holdings’ 90% stake in Banque Internationale à Luxembourg are due around the month-end
@@ -12,65 +24,47 @@ Initial bids for Legend Holdings’ 90% stake in Banque Internationale à Luxemb
 ## Meta launches fresh legal challenge over UK’s Online Safety Act
 US tech giant’s latest action against regulator Ofcom could slow down implementation of the far-reaching law
 
+## Cinema revival takes the big screen and makes it enormous
+Film-goers are attending less often but spending more, splashing out on plush seats, elaborate cocktails and premium screens
+
 ## Israel’s settler economy braces for European sanctions
-Penalties against businesses on occupied Palestinian land from the UK, France and others could have far-reaching consequences
+Penalties against businesses on occupied Palestinian land could have far-reaching consequences
 
-## The Gulf cargo trade that vanished
-The Strait of Hormuz was a transit hub for goods from helium to corn. Businesses have battled to find alternative routes
+## Novo investors call for dealmaking and new drugs
+Ozempic maker is under pressure to diversify as it prepares to face shareholders on Monday
 
-## Low UK growth is a product of neglect
-Governments need to start planning for the long term again
+## Robotaxis are coming for important jobs
+Taxi driving offers benefits that are not always obvious when you sit in the back seat
 
-## Biodiesel for shipping now cheaper than conventional fuels after price fall
-Supplies racing to hit emissions targets push cost to record low, in move that could accelerate industry’s shift to greener fuels
+## Foundation stone laid for Adani Power’s ₹48,000 cr thermal power project in Assam
+Beyond power generation, the group is also developing and operating Guwahati’s Lokpriya Gopinath Bordoloi International Airport
 
-## Trump announces ‘AI Force’ as alarm grows over technology’s advance
-US president has resisted calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour
+## ICAI issues SSA 5000 to align sustainability assurance with global standards
+The framework aims to provide a consistent basis for assurance engagements while addressing evolving reporting requirements across the country
 
-## Trump bans major US news outlets from White House
-Journalists from CNN, MS Now and Politico denied access as president escalates assault on media
+## BPCL, ARAI partner on EV cooling technologies and next-generation fuels
+Collaboration spans advanced lubricants, thermal-management fluids and E20-compatible fuel technologies as India pursues a dual-track mobility transition.
 
-## On takes aim at ailing Nike with Mbappé transfer coup
-Also in today’s newsletter: Clearlake wins the Chelsea civil war
+## Indian firms moving AI from pilots towards deployment: Salesforce
+Elaborating on Salesforce's India plans, Bhattacharya said a new tower in Bengaluru is expected to come on stream next calendar year as one of its investments in the country
 
-## Over-80s turn to annuities as rates climb
-Growing interest comes amid a rise in larger annuity purchases
+## SME IPO: Liqvd Digital India issue to open on Sep 23; price band fixed at ₹51-54
+The company fixes a price band of ₹51-54 per equity share
 
-## Admit it — is this your worst financial habit?
-Not even I am immune from this late-night drain on my bank account
+## AI and Energy Empower Each Other: David Sun Outlines the New Future of the Electric Power Industry at the 2026 AESIEAP CEO Conference
+AI and Energy Empower Each Other: David Sun Outlines the New Future of the Electric Power Industry at the 2026 AESIEAP CEO Conference
 
-## AI chatbots give wrong answers to financial queries ‘most of the time’
-Report finds some chatbots ignored upcoming tax changes and hallucinated rules
+## India's exports to core BRICS markets surge 34% in April-August; China leads
+According to the commerce ministry data, exports to the four core BRICS economies grew by 34%, rising from $14.9 billion in April-August 2025-26 to $19.9 billion in April-August 2026-27
 
-## Thirty years of buy-to-let: does it have a future?
-Rents and tenant demand are rising, but landlords are under increasing pressure.
+## Karnataka plans global quantum platform with 2027 Bengaluru summit
+The minister says the next summit would seek greater participation from global researchers, technology companies, startups, investors and policymakers
 
-## Housebuilders aren’t the only ones who benefit from ‘Help to Buy’
-A new equity loan scheme could help people get on the property ladder, though the government might struggle to afford it
+## Uday Kotak warns gold imports may hit $88-90bn; says ‘Indians and their gold a puzzle’
+"Indians and their gold - that is a puzzle we have to find a way to solve," he said. Kotak suggested that a committee could be considered to work out a solution that takes into account people's requirements while also addressing the country's capital and current account challenges.
 
-## Huawei Grid-Interactive AIDC Solution: Shaping the New Paradigm of AI Infrastructure
-Huawei Grid-Interactive AIDC Solution: Shaping the New Paradigm of AI Infrastructure
-
-## India and Nepal explore strategic bilateral ties, global role at RIS seminar
-Nepal and India bolster relations at a New Delhi seminar, emphasizing investment and cooperation after recent catastrophic floods in Nepal
-
-## Indian Railways approves multiple infrastructure, safety projects to enhance operational efficiency
-The approved project will extend Kavach 4.0 coverage across the identified balance sections of the division, strengthening the safety infrastructure available for train operations
-
-## MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban
-The actions were a clear escalation of Trump's long-running efforts to restrict news coverage by journalists he finds objectionable, and the latest test of First Amendment protections in the United States
-
-## FinMin's two-day conference with CMs, state FMs concludes; deliberates on Viksit Bharat roadmap
-The conference witnesses a series of deliberations across two days on India's financing requirements and pathways for sustained, inclusive and broad-based growth
-
-## Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with ballistic missile
-The statement by the Saudi-led coalition fighting the Houthis came long after the dawn attempt, which the coalition said was intercepted; residents in Riyadh heard an explosion
-
-## Lawsuit says Anthropic, OpenAI, SpaceXAI, Google made illegal agreement on AI slowdown
-It's clear that an agreement among the chief rivals in AI that their progress “should be slower than competition would otherwise produce has an anti-competitive effect on consumers,” the plaintiffs argue
-
-## Hormuz oil shipments hit six-month high, US commander says
-Cooper’s comments follow a growing global squeeze on oil since summer, spurred in part by drone attacks linked to the Iran war that halted a Saudi Arabian pipeline bypassing the strait
+## Cough syrups still being given to very young children; red warning for under-4s proposed
+The proposed changes include a visual showing school-age children on the packaging, intended to make it clear that the medicine is meant for older children rather than infants and toddlers.
 
 ## Builder gave homebuyer parking in 2008, society changed rules; here’s why court gave interim relief to resident
 The Phase-1 society claimed that the area where the couple had been parking their car belonged to the society. The builder, however, took a different position, saying the space formed part of the open area of the building where it proposed to develop a recreation ground.
@@ -78,11 +72,11 @@ The Phase-1 society claimed that the area where the couple had been parking thei
 ## Life is a marathon, not a sprint, says Tata Sons’ Chandrasekaran
 
 
-## LPG Aadhaar rule from Oct 1: Authentication mandatory for these refills
-Consumers who have not undergone BAA will not be stopped from receiving LPG cylinders. However, those who choose not to complete the authentication will have to pay the prevailing market price and will not receive the subsidy.
-
 ## UPI MDR: Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap
 The NPCI framework and the FAQs issued with it do not stipulate that multiple payments relating to a single bill must be clubbed together. Such a restriction, if in place, could prevent businesses from breaking up larger payments into multiple transactions of Rs 2,000 or less.
+
+## LPG Aadhaar rule from Oct 1: Authentication mandatory for these refills
+Consumers who have not undergone BAA will not be stopped from receiving LPG cylinders. However, those who choose not to complete the authentication will have to pay the prevailing market price and will not receive the subsidy.
 
 ## Aramco stops crude supplies to India; replacement barrels costlier as oil tops $100
 The pipeline was shut late last week after it was allegedly targeted by drones. It had become Saudi Arabia’s main alternative route for transporting crude after the maritime chokepoint, the Strait of Hormuz, was disrupted.
@@ -90,35 +84,32 @@ The pipeline was shut late last week after it was allegedly targeted by drones. 
 ## How Vande Bharat Express marked a tech leap for railways after Rajdhani & Shatabdi. Next stop: Bullet trains
 Fifty years after the first Rajdhani Express was launched, and over 30 years after the Shatabdi, came the Vande Bharat Express - a technological leap that has changed modern day travel on Indian Railways.
 
-## 18 years after the 2008 financial meltdown: How a crisis born in US reshaped India
-The 2008 global financial crisis hit India through markets, capital flows and trade, but its banking system remained resilient. The shock exposed gaps in financial resolution and regulation, prompting reforms including the IBC, stronger safeguards for systemically important banks and higher buffers.
+## ‘Give Vijay more time’: Prakash Raj urges patience in assessing Tamil Nadu CM
+Prakash Raj said it is too early to assess the performance of Vijay's government after just 120 days in office.
 
-## Can UAE, Oman offer India alternative energy routes amid rising West Asia crisis?
+## Military leaders discuss future of warfare, artillery at seminar in Chandigarh
+Military leaders discuss future of warfare, artillery at seminar in Chandigarh
 
+## 'Sign of the times': Saurav Das hails Gen-Z over independent candidate Deepanshu Shokeen's DUSU win
+Deepanshu Shokeen contested without the backing of any student organisation after failing to secure an NSUI ticket.
 
-## Just Like That: What is Hanuman Ansh telling us about India’s spiritual hunger?
-Hanuman Ansh, ₹2-crore film on Neem Karoli Baba, has reportedly crossed ₹236 crore worldwide, challenging Bollywood’s assumptions about audiences, spirituality
+## Odisha: Technical team examines health condition of rescued orangutans
+Odisha: Technical team examines health condition of rescued orangutans
 
-## SC rejects presumption of child sale, orders custody to adoptive parents in Telangana
-The Supreme Court said a biological mother’s financial hardship cannot, by itself, imply child sale, and ordered the boy’s custody restored to his adoptive parents.
+## ‘Money to light diyas, not for hostels?’ Rahul Gandhi targets PM Modi's birthday celebration
+Rahul Gandhi focused on issues including education, exams, employment and hostel facilities at his latest ‘Chhatron Ki Goonj’ programme in Madhya Pradesh.
 
-## 3 killed as speeding BMW runs over pedestrians on Mumbai's Coastal Road, driver held
-The four people injured in the BMW crash were rushed to the Nair hospital in Mumbai, where three were declared dead.
+## Gen Z considers India's defence ties with Israel to be better than US, France: India Israel Centre
+Gen Z considers India's defence ties with Israel to be better than US, France: India Israel Centre
 
-## 3.7 million SIR appeals pending in Bengal; ECI proposes 42 election tribunals
-Election Commission stated in an affidavit filed before the Supreme Court that out of 3.8 million appeals filed, 3.7 million are currently pending.
+## Early warning systems need alerts for non-rainfall triggers: climate scientist Tapio Schneider
+Early warning systems need alerts for non-rainfall triggers: climate scientist Tapio Schneider
 
-## US law gives Trump power to impose 100% tariffs on India, China over Russian oil
-The legislation does not automatically trigger duties, but allows the US president to decide the rate and countries targeted among the Russian energy buyers.
+## Vice President to inaugurate India International Water Week on September 22
+Vice President to inaugurate India International Water Week on September 22
 
-## ‘System afraid of students who ask questions’: Rahul Gandhi in Indore; MP CM hits back
-Mohan Yadav, in his response, said Rahul Gandhi should have presented facts and data while speaking about education and children.
-
-## 1965 war hero Alfred Tyrone Cooke dies at 87; revisiting his legendary Kalaikunda dogfight
-Cooke, who joined the Indian Air Force in 1961, was honoured for his role in the 1965 India-Pakistan war and later moved to Australia in 1969.
-
-## ‘Developing nations unjustly blamed’: PM Modi flags climate inequality
-He emphasized India's commitment to renewable energy and environmental initiatives, showcasing advancements in solar and electric vehicle sectors.
+## Housing prices surge near new Huanggang Port as buyers eye ‘dual-city’ lifestyle
+Prices for properties near the new Huanggang Port are already soaring months ahead of the border crossing being put into operation, with many buyers attracted by the idea of a “dual-city lifestyle”, according to property agents. The new border facility, which is set to open before the end of the yea
 
 ## Will fresh incentives give China’s housing market more than a short-lived rebound?
 Property brokers in China’s major cities are expecting busier days as would-be homebuyers take a cue from a recent policy shift by Beijing aimed at reviving the slumbering real estate market. Some say they are being swamped by inquiries and are trying to seal as many deals as possible amid a recover
@@ -140,9 +131,6 @@ Nearly one-fifth of surveyed companies in the Asia-Pacific region believe wider 
 
 ## How China plans to ‘firmly rank at the global forefront’ with 25% of first-in-class drugs
 China has set its sights on becoming a global biomedicine powerhouse by 2030, targeting key technological breakthroughs and at least a quarter of the world’s first-in-class drugs market under a new five-year plan for the sector. By the end of the decade, China would “firmly rank at the global forefr
-
-## From US Fed rates to China’s global export share: 4 figures shaping markets
-The US Federal Reserve raised its benchmark interest rate by a quarter of a percentage point this week, followed by the Hong Kong Monetary Authority and the Bank of Japan, while the 10-year US Treasury yield fell back below 5 per cent. Here are some of the figures that have drawn the most market att
 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
@@ -240,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How did the US recall a billion products in six months?
-The US recalled to a billion products off the market in just six months.
+## Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh
+India defeat Bangladesh by 114 runs to book women's cricket final against Sri Lanka, who beat Pakistan by eight wickets.
 
-## Morocco’s PJD: what has the party learned from its dramatic fall
-After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?
+## ‘There will be a very sizeable Saudi response’ to Houthi attacks
+Nawaf Obaid tells Al Jazeera that Saudi Arabia’s response to Houthi attacks from Yemen will be massive.
 
-## Ed Sheeran opens solo concert with comments about Gaza
-Ed Sheeran has addressed the Macklemore-Palestine fallout in remarks at his solo concert in Philadelphia.
+## Echoicide: Who decides which truths survive in Gaza?
+From Gaza to the digital age, visibility has become one of the central political struggles of modern conflicts.
 
-## Peruvian journalist shot dead after threatening to expose police
-Peruvian journalist ‘China Polo’ has been shot dead a week after receiving death threats over a police investigation.
+## Former England and Tottenham star Andros Townsend run over by pitch roller
+Former England forward Andros Townsend avoided serious injury after being run over by a pitch roller in Thailand.
 
-## Ed Sheeran calls Gaza situation ‘unjustifiable’ after Palestine controversy
-The British singer addresses fans at his concert in Philadelphia as his US Loop Tour resumes.
+## Two killed in Ukrainian drone attack on Moscow, says Russia
+Moscow mayor says Russia has intercepted 1,600 drones since Saturday, including 450 directed at the capital.
 
-## Australia seeks big tech support for internet safety, AI regulation
-PM Anthony Albanese asks Apple CEO Tim Cook to back Canberra's online safety laws to 'keep Australians safe'.
+## Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331
+Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazilian opponent to cement his reign.
 
-## How much of a challenge are recurrent bombings for Pakistan?
-Dozens were killed and injured in an attack by an armed group in a northwestern city.
+## Journalists locked out of the White House after Trump ban
+Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.
 
-## DR Congo begins Ebola vaccination trials for frontline health workers
-DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis.
+## Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls
+About 3.8 million people in Berlin and Mecklenburg-Western Pomerania are eligible to vote on Sunday.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
