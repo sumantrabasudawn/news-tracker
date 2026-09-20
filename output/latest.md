@@ -1,13 +1,31 @@
 # AION Intelligence
 
-## Lib Dem leader Ed Davey urged to ditch the stunts and get serious
-The party is stuck in fifth place in polls as frustrated MPs meet for annual conference
+## Chevron plans drilling spree as it overhauls oil and gas search
+Kevin McLachlan hopes to replicate the exploration turnaround he achieved at TotalEnergies
 
-## Houthis launch ballistic missile at Saudi capital in escalation of hostilities
-Attack marks the first time Yemeni rebels have targeted Riyadh since reigniting conflict
+## CATL develops pick-up truck batteries for US despite trade barriers
+Comments from Chinese company come ahead of President Xi Jinping’s visit to Washington
 
-## German states go to the polls in high-stakes test for Merz
-Poor results for unpopular chancellor’s CDU in Mecklenburg-Vorpommern and Berlin could determine his future
+## Ukraine hits Moscow with ‘largest ever’ drone attack
+Major oil refinery in Russian capital set ablaze as voting draws to a close in stage-managed parliamentary elections
+
+## The perils of productivity numbers
+The forces driving growth in output per hour matter more than the decimal-point estimate itself
+
+## Is the Bank of Japan right to fear an overshoot in inflation?
+Market Questions is the FT’s guide to the week ahead
+
+## Jon Ossoff’s Georgia race stirs talk of 2028 US presidential audition
+Democrat’s media-savvy attacks on ‘crook president’ give him lead in state’s pivotal Senate election along with national attention
+
+## US retailer rations motor oil as prices quadruple and supplies run dry
+Iran war has created global shortage of lubricant used in vehicle engines
+
+## Dangote IPO is a test for African capitalism
+Landmark flotation could reshape how the continent invests in industry
+
+## Trump’s regulatory rollback puts $400mn in US audit fees at risk
+Accounting firms are fighting SEC proposal to loosen the post-Enron rules that have handed them a revenue bonanza
 
 ## Big Tech uses guarantees to keep $300bn AI exposure off balance sheets
 Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out
@@ -15,50 +33,44 @@ Wall Street finds new way to turn tech giants’ credit strength into cheaper fu
 ## Billionaire Tata scion faces battle of his life to avert listing
 Noel Tata is up against the 150-year-old business empire’s chair and his well-connected New Delhi allies
 
-## Freedom in adulthood isn’t what you think
-Part of growing up is realising that some degree of discipline, commitment and narrowed options can lead to greater contentment
-
-## Chinese owners launch €2.5bn sale of Luxembourg’s oldest bank
-Initial bids for Legend Holdings’ 90% stake in Banque Internationale à Luxembourg are due around the month-end
-
-## Meta launches fresh legal challenge over UK’s Online Safety Act
-US tech giant’s latest action against regulator Ofcom could slow down implementation of the far-reaching law
-
 ## Cinema revival takes the big screen and makes it enormous
 Film-goers are attending less often but spending more, splashing out on plush seats, elaborate cocktails and premium screens
 
-## Israel’s settler economy braces for European sanctions
-Penalties against businesses on occupied Palestinian land could have far-reaching consequences
+## MeitY to take up semiconductor companies’ concerns with Finance Ministry to ease hurdles at Customs
+The issue is significant because semiconductor facilities depend heavily on imported materials, making speedy customs clearance critical
 
-## Novo investors call for dealmaking and new drugs
-Ozempic maker is under pressure to diversify as it prepares to face shareholders on Monday
+## SEBI board may take up changes to PMS, settlement regulations
+Proposals on FPI participation in commodity derivatives, advertising framework may also be considered
 
-## Robotaxis are coming for important jobs
-Taxi driving offers benefits that are not always obvious when you sit in the back seat
+## Rajasthan farmers sell moong below MSP as Govt yet to decide MSP purchase
+Rajasthan moong arrivals surge 10-fold, but farmers get 15% below MSP; average realisation at ₹7,452/quintal against MSP of ₹8,780
 
-## Foundation stone laid for Adani Power’s ₹48,000 cr thermal power project in Assam
-Beyond power generation, the group is also developing and operating Guwahati’s Lokpriya Gopinath Bordoloi International Airport
+## Agrochemical body ACFI seeks ₹5,000-7,500 crore programme for the sector
+ACFI-KPMG paper calls for time-bound PLI-style incentives, power subsidies and single-window regulation to cut China cost gap
 
-## ICAI issues SSA 5000 to align sustainability assurance with global standards
-The framework aims to provide a consistent basis for assurance engagements while addressing evolving reporting requirements across the country
+## Samsung witnessing rapid growth in demand for AI appliances in India
+More than half of appliances sold by Samsung in India are now AI-enabled devices
 
-## BPCL, ARAI partner on EV cooling technologies and next-generation fuels
-Collaboration spans advanced lubricants, thermal-management fluids and E20-compatible fuel technologies as India pursues a dual-track mobility transition.
+## Adani seeks Centre’s nod for US pre-clearance at Navi Mumbai airport
+Proposal envisages a facility at Navi Mumbai airport that would allow passengers to undergo US immigration and customs checks before departure on direct flights
 
-## Indian firms moving AI from pilots towards deployment: Salesforce
-Elaborating on Salesforce's India plans, Bhattacharya said a new tower in Bengaluru is expected to come on stream next calendar year as one of its investments in the country
+## What will drive stock markets this week? Analysts flag oil moves, West Asia worries and more
+Trading activity of foreign investors and trends in global markets would also be tracked by investors, analysts say
 
-## SME IPO: Liqvd Digital India issue to open on Sep 23; price band fixed at ₹51-54
-The company fixes a price band of ₹51-54 per equity share
+## Tata Trusts challenges Chandra's reappointment, says casting vote cannot override AoA
+Tata Trusts says resolution could not have been validly passed after one of the two Trust-nominated directors voted against it
 
-## AI and Energy Empower Each Other: David Sun Outlines the New Future of the Electric Power Industry at the 2026 AESIEAP CEO Conference
-AI and Energy Empower Each Other: David Sun Outlines the New Future of the Electric Power Industry at the 2026 AESIEAP CEO Conference
+## Can skirt lengths offer clues about the economy? Understanding the Hemline Index
 
-## India's exports to core BRICS markets surge 34% in April-August; China leads
-According to the commerce ministry data, exports to the four core BRICS economies grew by 34%, rising from $14.9 billion in April-August 2025-26 to $19.9 billion in April-August 2026-27
 
-## Karnataka plans global quantum platform with 2027 Bengaluru summit
-The minister says the next summit would seek greater participation from global researchers, technology companies, startups, investors and policymakers
+## India on track for 6.5-7% real GDP growth this fiscal, earnings seen accelerating
+India anticipates 6.5-7 percent real GDP growth this fiscal year. Bank credit expansion signals strong economic momentum and business activity. Domestic demand remains firm, evidenced by rising GST and power consumption. Corporate earnings growth is projected to accelerate to seventeen percent. Ener
+
+## Gold price outlook: Prices could remain range-bound despite strong gains; here's why
+
+
+## Bank holiday: Is your bank closed on September 21, Monday? Check state-wise details
+
 
 ## Uday Kotak warns gold imports may hit $88-90bn; says ‘Indians and their gold a puzzle’
 "Indians and their gold - that is a puzzle we have to find a way to solve," he said. Kotak suggested that a committee could be considered to work out a solution that takes into account people's requirements while also addressing the country's capital and current account challenges.
@@ -72,41 +84,32 @@ The Phase-1 society claimed that the area where the couple had been parking thei
 ## Life is a marathon, not a sprint, says Tata Sons’ Chandrasekaran
 
 
-## UPI MDR: Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap
-The NPCI framework and the FAQs issued with it do not stipulate that multiple payments relating to a single bill must be clubbed together. Such a restriction, if in place, could prevent businesses from breaking up larger payments into multiple transactions of Rs 2,000 or less.
+## Assam CM lays foundation stone for ₹48,000 crore Adani power project
+The ₹48,000 crore project is expected to generate up to 20,000 jobs in the construction phase and around 5,000 jobs once operational
 
-## LPG Aadhaar rule from Oct 1: Authentication mandatory for these refills
-Consumers who have not undergone BAA will not be stopped from receiving LPG cylinders. However, those who choose not to complete the authentication will have to pay the prevailing market price and will not receive the subsidy.
+## HT Evening Brief Sept 20: BMW crash in Mumbai kills 3; Cong's SIR jibe at Amit Shah; Valarivan's silver at Asian Games
+The SIR exercise in India, Elavenil Valarivan's silver at Asian Games, and North Korea's missile launch into East Sea – a recap of top five headlines today.
 
-## Aramco stops crude supplies to India; replacement barrels costlier as oil tops $100
-The pipeline was shut late last week after it was allegedly targeted by drones. It had become Saudi Arabia’s main alternative route for transporting crude after the maritime chokepoint, the Strait of Hormuz, was disrupted.
+## How did BMW crash on Mumbai Coastal Road? What we know so far
+Gujar was driving the BMW at the time of the accident, while the other three occupants were passengers.
 
-## How Vande Bharat Express marked a tech leap for railways after Rajdhani & Shatabdi. Next stop: Bullet trains
-Fifty years after the first Rajdhani Express was launched, and over 30 years after the Shatabdi, came the Vande Bharat Express - a technological leap that has changed modern day travel on Indian Railways.
+## LK Advani, Manish Sisodia, Kailash Gahlot among Delhi voters served SIR notices
+A poll official said that prominent figures who received notices will be facilitated and their documents collected
 
-## ‘Give Vijay more time’: Prakash Raj urges patience in assessing Tamil Nadu CM
-Prakash Raj said it is too early to assess the performance of Vijay's government after just 120 days in office.
+## Delhi records slight dip in dragonfly, damselfly numbers; two new sightings: Survey
+Delhi’s seven biodiversity parks recorded 11,154 dragonflies and damselflies, down from 13,253 last year. Erratic rains and dry conditions may explain the dip.
 
-## Military leaders discuss future of warfare, artillery at seminar in Chandigarh
-Military leaders discuss future of warfare, artillery at seminar in Chandigarh
+## IndiGo crew member, a single mother to 5-year-old, dies after car rams into her vehicle in Mumbai
+A car travelling on the wrong side of the road crashed into her vehicle. Mistry was reportedly seated on the driver's left side in the vehicle.
 
-## 'Sign of the times': Saurav Das hails Gen-Z over independent candidate Deepanshu Shokeen's DUSU win
-Deepanshu Shokeen contested without the backing of any student organisation after failing to secure an NSUI ticket.
+## Bank holiday tomorrow, September 21: Are banks closed in Kerala and Assam? Check details
+The closures in Assam and Kerala are linked to Janmotsav of Srimanta Sankardeva and Sree Narayana Guru Samadhi Day, respectively.
 
-## Odisha: Technical team examines health condition of rescued orangutans
-Odisha: Technical team examines health condition of rescued orangutans
+## Neurosurgeon charred to death after car hits roadside divider, catches fire in Telangana
+The accident took place near Pillalamarri flyover on the Hyderabad-Khammam highway at around 7.15 am.
 
-## ‘Money to light diyas, not for hostels?’ Rahul Gandhi targets PM Modi's birthday celebration
-Rahul Gandhi focused on issues including education, exams, employment and hostel facilities at his latest ‘Chhatron Ki Goonj’ programme in Madhya Pradesh.
-
-## Gen Z considers India's defence ties with Israel to be better than US, France: India Israel Centre
-Gen Z considers India's defence ties with Israel to be better than US, France: India Israel Centre
-
-## Early warning systems need alerts for non-rainfall triggers: climate scientist Tapio Schneider
-Early warning systems need alerts for non-rainfall triggers: climate scientist Tapio Schneider
-
-## Vice President to inaugurate India International Water Week on September 22
-Vice President to inaugurate India International Water Week on September 22
+## China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’
+Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes. CXMT’s fifth-generation technology pla
 
 ## Housing prices surge near new Huanggang Port as buyers eye ‘dual-city’ lifestyle
 Prices for properties near the new Huanggang Port are already soaring months ahead of the border crossing being put into operation, with many buyers attracted by the idea of a “dual-city lifestyle”, according to property agents. The new border facility, which is set to open before the end of the yea
@@ -128,9 +131,6 @@ Tesla officials and engineers have begun auditing part of the firm’s Chinese s
 
 ## Will AI adoption shrink office space? Asia-Pacific firms are on the fence in survey
 Nearly one-fifth of surveyed companies in the Asia-Pacific region believe wider adoption of artificial intelligence will reduce their real estate needs, a new study by CBRE has found. More than half – 56 per cent – held a neutral view, believing either that AI had no impact on office space demand or
-
-## How China plans to ‘firmly rank at the global forefront’ with 25% of first-in-class drugs
-China has set its sights on becoming a global biomedicine powerhouse by 2030, targeting key technological breakthroughs and at least a quarter of the world’s first-in-class drugs market under a new five-year plan for the sector. By the end of the decade, China would “firmly rank at the global forefr
 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh
-India defeat Bangladesh by 114 runs to book women's cricket final against Sri Lanka, who beat Pakistan by eight wickets.
+## Netanyahu tours tunnels underneath Al-Aqsa Mosque compound
+Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound.
 
-## ‘There will be a very sizeable Saudi response’ to Houthi attacks
-Nawaf Obaid tells Al Jazeera that Saudi Arabia’s response to Houthi attacks from Yemen will be massive.
+## Iran win Asian Games basketball bronze amid emotional scenes
+Players celebrate podium finish that brings exemption from conscription, saying the pressure was 'out of this world'.
 
-## Echoicide: Who decides which truths survive in Gaza?
-From Gaza to the digital age, visibility has become one of the central political struggles of modern conflicts.
+## Postponing the future: War and inflation redraw marriage terms in Iran
+Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians.
 
-## Former England and Tottenham star Andros Townsend run over by pitch roller
-Former England forward Andros Townsend avoided serious injury after being run over by a pitch roller in Thailand.
+## Moscow attacked by more than 1,000 Ukrainian drones
+This is the moment a drone exploded as it hit an apartment building in Moscow.
 
-## Two killed in Ukrainian drone attack on Moscow, says Russia
-Moscow mayor says Russia has intercepted 1,600 drones since Saturday, including 450 directed at the capital.
+## Former Pakistan PM Imran Khan’s sister arrested before planned PTI march
+Khan’s party condemns his sister’s arrest as an illegal attempt to silence her over PTI leader’s ongoing imprisonment.
 
-## Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331
-Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazilian opponent to cement his reign.
+## Gaza’s children return to classrooms after years of Israeli attacks
+Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools.
 
-## Journalists locked out of the White House after Trump ban
-Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.
+## LIVE: Fulham vs Manchester United – Premier League
+Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage.
 
-## Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls
-About 3.8 million people in Berlin and Mecklenburg-Western Pomerania are eligible to vote on Sunday.
+## Israeli forces kill Palestinian near Jenin in occupied West Bank
+Israeli forces killed a Palestinian man near Jenin and an Israeli settler was fatally shot in separate incident.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
