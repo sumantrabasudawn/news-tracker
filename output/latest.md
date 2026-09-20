@@ -1,7 +1,13 @@
 # AION Intelligence
 
 ## German chancellor Merz vows to stay on despite ‘disaster’ in regional elections
-Partial results suggest CDU may not secure parliamentary representation in Mecklenburg-Vorpommern
+Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern
+
+## Burnham hopes to build bridges with Trump at first meeting
+UK prime minister has said he wants to press case for US to help Ukraine with air-defence systems
+
+## Germany’s Merz stands his ground but for how long?
+Lessons from elsewhere in Europe suggest once leaders become deeply unpopular, they almost never recover
 
 ## A UN gathering notable for its absences
 World leaders convene in New York for the General Assembly, but not Germany’s Merz, while China’s Xi heads straight to the White House
@@ -12,17 +18,11 @@ We need to strengthen our system of co-operation, not replace it
 ## Trump says 250ft arch will be ‘military complex’ with drones and snipers
 President claims national security justification for controversial Washington monument
 
-## Burnham hopes to build bridges with Trump at first meeting
-UK prime minister has said he wants to press case for US to help Ukraine with air-defence systems
-
 ## Labour MPs warn against mansion tax change in Budget
 Cutting threshold to £1.5mn would affect about 160,000 extra properties and hit party’s support in London
 
 ## Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb
 Growing reliance on Treasury bills comes as Scott Bessent seeks to curb rise in long-term rates
-
-## UK contends with rise in workplace disputes about disability discrimination
-Chair of dispute resolution service Acas says tribunal system faces ‘enormous challenge’
 
 ## Volvo Cars chief who came out of retirement last year to hand over reins
 Håkan Samuelsson will be replaced by former Škoda boss Klaus Zellmer next year
@@ -72,29 +72,32 @@ The history of the Parliament from within its walls
 ## Grahaa Space accelerates launch plans for Earth-observation satellites
 With increasing customer interest, the company aims to monetise its Earth-observation data across various sectors
 
+## Tata dipute: Lawyers Singhvi, Salve now on opposing sides
+
+
+## Tata trustee objects to legal expenses as litigation looms
+TEDT Won't Bear Cost For 'Created Disputes': Mehli Mistry
+
+## One year on, commodity prices eat into gains from GST rate rejig
+
+
+## Most economists see RBI raising rates in October policy
+
+
+## FPIs withdraw nearly 21k crore from equities in September so far
+
+
+## Stellantis bets on India as export hub, to triple manufacturing
+
+
 ## NSE IPO: Shareholders still retain significant stake despite tendering shares in offer-for-sale
 Of the 20 institutional investors that participated in the OFS, nine were foreign institutional investors. These investors collectively owned 15.96 per cent of NSE before the IPO.
 
 ## Can skirt lengths offer clues about the economy? Understanding the Hemline Index
 
 
-## India on track for 6.5-7% real GDP growth this fiscal, earnings seen accelerating
-India anticipates 6.5-7 percent real GDP growth this fiscal year. Bank credit expansion signals strong economic momentum and business activity. Domestic demand remains firm, evidenced by rising GST and power consumption. Corporate earnings growth is projected to accelerate to seventeen percent. Ener
-
-## Gold price outlook: Prices could remain range-bound despite strong gains; here's why
-
-
-## Bank holiday: Is your bank closed on September 21, Monday? Check state-wise details
-
-
-## Uday Kotak warns gold imports may hit $88-90bn; says ‘Indians and their gold a puzzle’
-"Indians and their gold - that is a puzzle we have to find a way to solve," he said. Kotak suggested that a committee could be considered to work out a solution that takes into account people's requirements while also addressing the country's capital and current account challenges.
-
-## Cough syrups still being given to very young children; red warning for under-4s proposed
-The proposed changes include a visual showing school-age children on the packaging, intended to make it clear that the medicine is meant for older children rather than infants and toddlers.
-
-## Builder gave homebuyer parking in 2008, society changed rules; here’s why court gave interim relief to resident
-The Phase-1 society claimed that the area where the couple had been parking their car belonged to the society. The builder, however, took a different position, saying the space formed part of the open area of the building where it proposed to develop a recreation ground.
+## As rains intensify in Keralam, CM orders hourly assessment of situation
+As rains intensify in Keralam, CM orders hourly assessment of situation
 
 ## 'Notices do not mean name deletion': EC clarifies after Kejriwal, Jaishankar, Advani get SIR letters
 The clarification came after notices were issued to several prominent political figures during the ongoing SIR in the national capital.
@@ -117,8 +120,8 @@ The action follows the FDA’s August 18 raid on an unlicensed facility in Kurub
 ## Fair skin, curly hair, tall height no basis to determine caste, religion: Madras HC
 The court made the observation while setting aside an order, which held that a community certificate held by a man was not genuine citing physical attibutes.
 
-## All about ‘Yatra of Seva’: 20 teams to cover 35,500 km between Gujarat's Vadnagar to Varanasi
-The initiative also includes distributing kits to widows, honouring ASHA workers and bringing communities together for various welfare activities.
+## Betting on People-First Banking
+China CITIC Bank International’s Wendy Yuen says the future of finance will not be won by technology alone, but by banks that combine digital speed with human trust, cross-border insight and lifelong learning. As head of the Personal and Business Banking Group at China CITIC Bank International, Wend
 
 ## China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’
 Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes. CXMT’s fifth-generation technology pla
@@ -140,9 +143,6 @@ China is showing early signs of stepping up imports of crude oil after months of
 
 ## Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources
 Tesla officials and engineers have begun auditing part of the firm’s Chinese supply chain, as Elon Musk’s company aims to quickly ramp up production of its Optimus humanoid robot after it hits the global market later this year, according to sources with knowledge of the matter. Chinese companies set
-
-## Will AI adoption shrink office space? Asia-Pacific firms are on the fence in survey
-Nearly one-fifth of surveyed companies in the Asia-Pacific region believe wider adoption of artificial intelligence will reduce their real estate needs, a new study by CBRE has found. More than half – 56 per cent – held a neutral view, believing either that AI had no impact on office space demand or
 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
@@ -240,6 +240,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## France to summon Iran envoy after language centre closure in Tehran
+Iran accuses the French language centre of conducting 'illegal acts that violated diplomatic conventions'.
+
+## Qatar PM urges Gulf security framework with Iran
+Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other.
+
+## Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
+Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.
+
+## Eighteen suspects extradited to US over Haitian president’s 2021 killing
+Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.
+
+## Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’
+Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy.
+
 ## US, China open high-level talks ahead of Trump-Xi summit
 Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.
 
@@ -248,21 +263,6 @@ Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shutt
 
 ## France’s Macron and Canada’s Carney announce plans to build stronger ties
 Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.
-
-## How will Saudi Arabia deal with the Houthis?
-Yemeni group warns of further attacks on the kingdom.
-
-## Man Utd salvage Fulham draw as pressure mounts on Carrick
-Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick.
-
-## Gaza artists honour Macklemore for supporting Palestine
-Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.
-
-## Jerusalem Daily: Israel pardons soldier Elor Azaria
-Jerusalem Daily: Israel pardons soldier Elor Azaria
-
-## Trump tariffs hit Canada’s dairy farmers as US sales stall
-A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
