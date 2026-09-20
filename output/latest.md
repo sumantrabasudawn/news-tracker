@@ -1,28 +1,34 @@
 # AION Intelligence
 
+## Freedom in adulthood isn’t what you think
+Part of growing up is realising that some degree of discipline, commitment and narrowed options can lead to greater contentment
+
+## Lib Dem leader Ed Davey urged to ditch the stunts and get serious
+The party is stuck in fifth place in polls as frustrated MPs meet for annual conference
+
+## Chinese owners launch €2.5bn sale of Luxembourg’s oldest bank
+Initial bids for Legend Holdings’ 90% stake in Banque Internationale à Luxembourg are due around the month-end
+
+## Meta launches fresh legal challenge over UK’s Online Safety Act
+US tech giant’s latest action against regulator Ofcom could slow down implementation of the far-reaching law
+
+## Israel’s settler economy braces for European sanctions
+Penalties against businesses on occupied Palestinian land from the UK, France and others could have far-reaching consequences
+
+## The Gulf cargo trade that vanished
+The Strait of Hormuz was a transit hub for goods from helium to corn. Businesses have battled to find alternative routes
+
+## Low UK growth is a product of neglect
+Governments need to start planning for the long term again
+
+## Biodiesel for shipping now cheaper than conventional fuels after price fall
+Supplies racing to hit emissions targets push cost to record low, in move that could accelerate industry’s shift to greener fuels
+
 ## Trump announces ‘AI Force’ as alarm grows over technology’s advance
 US president has resisted calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour
 
-## Toronto film festival is full of treats — but no clear awards frontrunners
-Mahershala Ali as an assassin single father and Julianne Moore as a comically earnest amateur actor, plus new work by Mike Leigh, Chris Rock and Jesse Eisenberg
-
 ## Trump bans major US news outlets from White House
 Journalists from CNN, MS Now and Politico denied access as president escalates assault on media
-
-## Saudi Arabia sounds air-raid alerts as missile and drone assault intensifies
-Authorities issue warnings in the capital for the first time since Yemeni rebels reignited conflict
-
-## Michael Marra wins Scottish Labour leadership election
-Party’s finance spokesperson pledges to ‘reconnect with the country’ in bid for political relevance
-
-## Nobel economists throw support behind California billionaire tax
-Progressive laureates say November ballot measure could ‘start reining in the power’ of ultra-wealthy
-
-## Forget ‘associate member’, Canada can forge collective resilience with the EU
-Whatever one calls it, if the EU and Canada follow through on von der Leyen’s proposal it will take the partnership to a new level
-
-## Carney takes his investment pitch from ‘Maple Davos’ to Strasbourg
-Canada’s prime minister appeals to Wall St and the EU in his effort to diversify the economy away from the US
 
 ## On takes aim at ailing Nike with Mbappé transfer coup
 Also in today’s newsletter: Clearlake wins the Chelsea civil war
@@ -42,29 +48,35 @@ Rents and tenant demand are rising, but landlords are under increasing pressure.
 ## Housebuilders aren’t the only ones who benefit from ‘Help to Buy’
 A new equity loan scheme could help people get on the property ladder, though the government might struggle to afford it
 
-## Tech Query: Bharat Forge, Hatsun Agro Products, NRB Bearings, Sandur Manganese & Iron Ore - What is the outlook? Where are these stocks headed?
-We look at the prospects of Bharat Forge, Hatsun Agro Products, NRB Bearings and Sandur Manganese & Iron Ores
+## Huawei Grid-Interactive AIDC Solution: Shaping the New Paradigm of AI Infrastructure
+Huawei Grid-Interactive AIDC Solution: Shaping the New Paradigm of AI Infrastructure
 
-## Giving working capital the attention it deserves
-Here’s how you can draw insights from analysing working capital, one of the parts that’s often overlooked in fundamental analysis
+## India and Nepal explore strategic bilateral ties, global role at RIS seminar
+Nepal and India bolster relations at a New Delhi seminar, emphasizing investment and cooperation after recent catastrophic floods in Nepal
 
-## Bandu’s Blockbusters for September 20, 2026
-Guess the stock that will give the best return by next Friday
+## Indian Railways approves multiple infrastructure, safety projects to enhance operational efficiency
+The approved project will extend Kavach 4.0 coverage across the identified balance sections of the division, strengthening the safety infrastructure available for train operations
 
-## Insurance Query: Here is what a first-time health cover buyer can do
-Here are some best practices a first-time buyer of a health insurance policy can follow
+## MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban
+The actions were a clear escalation of Trump's long-running efforts to restrict news coverage by journalists he finds objectionable, and the latest test of First Amendment protections in the United States
 
-## Car insurance with an eye on the sky
-Unique challenges posed by the monsoon sparks the need for special insurance cover for car owners in India
+## FinMin's two-day conference with CMs, state FMs concludes; deliberates on Viksit Bharat roadmap
+The conference witnesses a series of deliberations across two days on India's financing requirements and pathways for sustained, inclusive and broad-based growth
 
-## Bank Nifty and the signal to glean from an unusual OI position
-One strike draws 41 per cent of October call OI
+## Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with ballistic missile
+The statement by the Saudi-led coalition fighting the Houthis came long after the dawn attempt, which the coalition said was intercepted; residents in Riyadh heard an explosion
 
-## US Market Outlook: Treasury Yields eye higher
-Rate hikes, elevated oil price can aid the rise
+## Lawsuit says Anthropic, OpenAI, SpaceXAI, Google made illegal agreement on AI slowdown
+It's clear that an agreement among the chief rivals in AI that their progress “should be slower than competition would otherwise produce has an anti-competitive effect on consumers,” the plaintiffs argue
 
-## Air India flight to Nepal returns to Delhi due to suspected tech issue
-Air India says passengers flown to Kathmandu in alternative aircraft
+## Hormuz oil shipments hit six-month high, US commander says
+Cooper’s comments follow a growing global squeeze on oil since summer, spurred in part by drone attacks linked to the Iran war that halted a Saudi Arabian pipeline bypassing the strait
+
+## Builder gave homebuyer parking in 2008, society changed rules; here’s why court gave interim relief to resident
+The Phase-1 society claimed that the area where the couple had been parking their car belonged to the society. The builder, however, took a different position, saying the space formed part of the open area of the building where it proposed to develop a recreation ground.
+
+## Life is a marathon, not a sprint, says Tata Sons’ Chandrasekaran
+
 
 ## LPG Aadhaar rule from Oct 1: Authentication mandatory for these refills
 Consumers who have not undergone BAA will not be stopped from receiving LPG cylinders. However, those who choose not to complete the authentication will have to pay the prevailing market price and will not receive the subsidy.
@@ -84,35 +96,32 @@ The 2008 global financial crisis hit India through markets, capital flows and tr
 ## Can UAE, Oman offer India alternative energy routes amid rising West Asia crisis?
 
 
-## Trump signs Russia sanctions bill: What it means and will India actually face 100% tariff
+## Just Like That: What is Hanuman Ansh telling us about India’s spiritual hunger?
+Hanuman Ansh, ₹2-crore film on Neem Karoli Baba, has reportedly crossed ₹236 crore worldwide, challenging Bollywood’s assumptions about audiences, spirituality
 
+## SC rejects presumption of child sale, orders custody to adoptive parents in Telangana
+The Supreme Court said a biological mother’s financial hardship cannot, by itself, imply child sale, and ordered the boy’s custody restored to his adoptive parents.
 
-## Can your boss force you to serve full notice period? Know buyout rules & costs
-Notice period buyouts are often treated as though they are a standard right available to employees. However, there is no specific legal provision that gives an employee an automatic right to buy out the notice period.
+## 3 killed as speeding BMW runs over pedestrians on Mumbai's Coastal Road, driver held
+The four people injured in the BMW crash were rushed to the Nair hospital in Mumbai, where three were declared dead.
 
-## Why was AAP's Arvind Kejriwal issued SIR notice? Poll body clarifies amid row
-At least 3.31 million electors were issued notices, which also included Delhi CM Rekha Gupta.
+## 3.7 million SIR appeals pending in Bengal; ECI proposes 42 election tribunals
+Election Commission stated in an affidavit filed before the Supreme Court that out of 3.8 million appeals filed, 3.7 million are currently pending.
 
-## ‘Tight slap on his face’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections
-Slamming Rahul Gandhi, BJP's Sidharth Yadav said the ABVP victory reflected students' rejection of “politics of lies, deceit and propaganda,"
+## US law gives Trump power to impose 100% tariffs on India, China over Russian oil
+The legislation does not automatically trigger duties, but allows the US president to decide the rate and countries targeted among the Russian energy buyers.
 
-## ‘Majority did not vote for them’, says CJP's Saurav Das as ABVP sweeps DUSU polls
-Das said those who secured positions in the elections should remember that they were not “kings or queens”, as the majority of students had not voted for them.
+## ‘System afraid of students who ask questions’: Rahul Gandhi in Indore; MP CM hits back
+Mohan Yadav, in his response, said Rahul Gandhi should have presented facts and data while speaking about education and children.
 
-## Rahul Gandhi says ‘system has captured entire country’ at Indore event; MP CM calls him ‘careless politician’
-The leader of opposition in Lok Sabha highlighted vacancy in teachers' posts in the country, while stating that students are the “future of India.”
+## 1965 war hero Alfred Tyrone Cooke dies at 87; revisiting his legendary Kalaikunda dogfight
+Cooke, who joined the Indian Air Force in 1961, was honoured for his role in the 1965 India-Pakistan war and later moved to Australia in 1969.
 
-## ‘Bharat is not a geography, it is responsibility’: CDS General Subramani tells IIT Roorkee students
-Subramani, the guest of honour at the ceremony, spoke about the rapidly changing global landscape and the challenges and opportunities it presents.
+## ‘Developing nations unjustly blamed’: PM Modi flags climate inequality
+He emphasized India's commitment to renewable energy and environmental initiatives, showcasing advancements in solar and electric vehicle sectors.
 
-## Vijayawada man Sai Krishna beaten to death in police custody, cremated same night: SIT
-The SIT officials identified the cement platform No. 16 in the crematorium as the spot where the cremation had taken place
-
-## CJI Surya Kant urges courts to assess cumulative harm in climate disputes
-Speaking at the two-day National Green Tribunal International Conference, the CJI said that aspects of the environment cannot be limited to geographical spaces
-
-## From international tennis tournaments to new DUSU president: Who is ABVP's Yash Dabas?
-ABVP's Yash Dabas polled 24,576 votes and defeated NSUI's Vijai Shankar Meena by 2,053 votes.
+## Will fresh incentives give China’s housing market more than a short-lived rebound?
+Property brokers in China’s major cities are expecting busier days as would-be homebuyers take a cue from a recent policy shift by Beijing aimed at reviving the slumbering real estate market. Some say they are being swamped by inquiries and are trying to seal as many deals as possible amid a recover
 
 ## Focused ultrasound could be the next big cancer breakthrough for hard-to-treat tumours
 Precisely targeted sound waves could mark a major advance in treating pancreatic cancer and glioblastoma – an aggressive form of brain cancer – within a few years, according to a leading advocate of the technology. Researchers in Hong Kong and around the world are testing whether the approach can he
@@ -134,9 +143,6 @@ China has set its sights on becoming a global biomedicine powerhouse by 2030, ta
 
 ## From US Fed rates to China’s global export share: 4 figures shaping markets
 The US Federal Reserve raised its benchmark interest rate by a quarter of a percentage point this week, followed by the Hong Kong Monetary Authority and the Bank of Japan, while the 10-year US Treasury yield fell back below 5 per cent. Here are some of the figures that have drawn the most market att
-
-## Senior HSBC bankers face double blow as school-fee subsidy cut adds to job risks: sources
-Senior bankers at HSBC are facing a double blow of losing a key employment benefit while also confronting potential job losses as the lender carries out a range of measures to cut costs and achieve fair treatment for all staff, according to sources. HSBC, the biggest lender in Hong Kong, will scrap 
 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
@@ -234,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
-Iran security chief says Tehran's demands include an end to war on all fronts and the lifting of US's naval blockade.
+## How did the US recall a billion products in six months?
+The US recalled to a billion products off the market in just six months.
 
-## Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM
-Turkish FM highlights Turkiye's readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.
+## Morocco’s PJD: what has the party learned from its dramatic fall
+After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?
 
-## Saudi-led coalition says defences intercept Houthi missile fired at Riyadh
-It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia.
+## Ed Sheeran opens solo concert with comments about Gaza
+Ed Sheeran has addressed the Macklemore-Palestine fallout in remarks at his solo concert in Philadelphia.
 
-## Fulham vs Manchester United: Premier League – prediction, teams, lineups
-Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.
+## Peruvian journalist shot dead after threatening to expose police
+Peruvian journalist ‘China Polo’ has been shot dead a week after receiving death threats over a police investigation.
 
-## Israel’s president pardons soldier who killed wounded Palestinian in 2016
-Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.
+## Ed Sheeran calls Gaza situation ‘unjustifiable’ after Palestine controversy
+The British singer addresses fans at his concert in Philadelphia as his US Loop Tour resumes.
 
-## Lacking equipment, but not ambition: Gaza students try to keep up with tech
-Gaza's IT industry has been devastated from three-years of bombing and destruction.
+## Australia seeks big tech support for internet safety, AI regulation
+PM Anthony Albanese asks Apple CEO Tim Cook to back Canberra's online safety laws to 'keep Australians safe'.
 
-## Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash
-US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.
+## How much of a challenge are recurrent bombings for Pakistan?
+Dozens were killed and injured in an attack by an armed group in a northwestern city.
 
-## Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty
-Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.
+## DR Congo begins Ebola vaccination trials for frontline health workers
+DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
