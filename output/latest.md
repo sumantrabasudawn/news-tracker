@@ -1,78 +1,75 @@
 # AION Intelligence
 
-## German chancellor Merz vows to stay on despite ‘disaster’ in regional elections
-Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern
+## FirstFT: Merz vows to stay on despite German election ‘disaster’
+Also in today’s newsletter: bank exposure to trading firms and Volkswagen’s index exit
 
-## Burnham hopes to build bridges with Trump at first meeting
-UK prime minister has said he wants to press case for US to help Ukraine with air-defence systems
+## Bessent hails US-China AI dialogue ahead of Trump-Xi meeting
+Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart
 
-## Germany’s Merz stands his ground but for how long?
-Lessons from elsewhere in Europe suggest once leaders become deeply unpopular, they almost never recover
+## VW ejected from European blue-chip index in blow to crisis-hit carmaker
+German company falls out of Euro Stoxx 50 after its shares dip to 16-year low
 
-## A UN gathering notable for its absences
-World leaders convene in New York for the General Assembly, but not Germany’s Merz, while China’s Xi heads straight to the White House
+## Carlyle’s stalled Lukoil deal leaves refineries idle in tight market
+Proposed agreement has been stuck in the US government approval process for almost 10 months even as fuel prices have soared
 
-## Lula, Costa, Ruto and Carney: Multilateralism is not idealism, it is a necessity
-We need to strengthen our system of co-operation, not replace it
+## Private ADHD clinics are misdiagnosing children, report will say
+Government review will recommend tighter regulation and more control of fees companies can charge the NHS
 
-## Trump says 250ft arch will be ‘military complex’ with drones and snipers
-President claims national security justification for controversial Washington monument
+## AI in finance must be policed differently
+Subjecting agentic AI to an equivalent of the FCA’s existing rule book could deprive millions of investors of valuable help
 
-## Labour MPs warn against mansion tax change in Budget
-Cutting threshold to £1.5mn would affect about 160,000 extra properties and hit party’s support in London
+## Europe must not cut US arms ties, warns defence boss
+Region cannot arm itself alone and rising weapons production is an allied effort, says leading European ammunition maker Nammo
 
-## Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb
-Growing reliance on Treasury bills comes as Scott Bessent seeks to curb rise in long-term rates
+## Fuel subsidies weigh on public finances as energy crisis deepens
+The number of countries with some form of consumer support for fuel costs has topped 90
 
-## Volvo Cars chief who came out of retirement last year to hand over reins
-Håkan Samuelsson will be replaced by former Škoda boss Klaus Zellmer next year
+## Lex in depth: Anthropic at $2tn isn’t far-fetched
+There are several ways to crack the valuation nut. Some suggest the company may be worth far more
 
-## Chevron plans drilling spree as it overhauls oil and gas search
-Kevin McLachlan hopes to replicate the exploration turnaround he achieved at TotalEnergies
+## Western companies lag China in sodium battery race
+Cells using abundantly available materials could help break the grip on rare earths needed for EVs and energy storage
 
-## CATL develops pick-up truck batteries for US despite trade barriers
-Comments from Chinese company come ahead of President Xi Jinping’s visit to Washington
+## Petroleum dealers voice concern over MDR, E20 and rising operating costs
+The introduction of E20 petrol has also created fresh operational challenges for dealers; dealers report concerns relating to storage, handling, equipment compatibility and material durability
 
-## US retailer rations motor oil as prices quadruple and supplies run dry
-Iran war has created global shortage of lubricant used in vehicle engines
+## Gold traders unveil ‘Vision 2030’ to strengthen Keralam’s gold sales
+To ensure the survival of small and medium-sized jewellery businesses, protecting workers and artisans, and preserving traditional gold trade will be among the key objectives of ‘Vision 2030’
 
-## Dangote IPO is a test for African capitalism
-Landmark flotation could reshape how the continent invests in industry
+## NSE IPO Day 3 Live: Largest IPO booked 1.5x so far, last day to bid
+NSE IPO Day 3 live updates: NSE IPO, Check GMP, issue details & subscription status
 
-## Trump’s regulatory rollback puts $400mn in US audit fees at risk
-Accounting firms are fighting SEC proposal to loosen the post-Enron rules that have handed them a revenue bonanza
+## China, US hold 'candid, in-depth' talks on tariffs, AI issues ahead of Xi-Trump meeting
+The talks come ahead of Xi's expected visit to Washington on September 23
 
-## Big Tech uses guarantees to keep $300bn AI exposure off balance sheets
-Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out
+## Bitcoin ETFs swing positive as token holds jump above $81,000
+The change in sentiment came at the end of a bruising week for digital assets that saw the failure of a landmark US crypto bill and the US Federal Reserve’s first interest-rate increase in more than three years.
 
-## Billionaire Tata scion faces battle of his life to avert listing
-Noel Tata is up against the 150-year-old business empire’s chair and his well-connected New Delhi allies
+## Sensex today | Stock Market Live: Sensex climbs over 400 pts, Nifty above 23,400 as markets maintain positive bias
+Sensex, Nifty, Stock Price Live Updates: Nifty remains positive but faces resistance near 23,420–23,430. Sustaining above this zone could take the index towards 23,470 and 23,510, while failure to clear it may keep the index range-bound. On the downside, 23,320 and 23,280 are key supports; a break b
 
-## Auto battle shifts into high gear ahead of festive season
-From CNG cars to electric motorcycles and heavy trucks, manufacturers are rolling out fresh products to win buyers
+## MCX Natural Gas Futures: Immediate outlook is unclear. Stay out
+The near-term outlook is slightly unclear. Support is at ₹270. Resistance is in the ₹285-₹286 region. So broadly, ₹270-₹286 can be the trading range for some time now
 
-## IPO pipeline stays strong with 72 firms seeking to raise ₹1.70 lakh crore
-Retail demand remains robust even as experts caution against excessive exuberance and rich valuations
+## Half of study abroad aspirants come from Tier 2/3 cities, says report
+Report suggests that the rise of hybrid learning models, pathways programs, and lower-cost European education ecosystems is fundamentally expanding the addressable study abroad markets.
 
-## BonV Aero develops heavy-lift UAV for high-altitude regions
-BonV Aero’s high-altitude drone can lift more than 100 kg to altitudes beyond 10,000 ft
+## Canadian NRI landlord wanted rented Punjab house back; HC allows tenant to stay
+The landlord had relied on his purchase of the plot in 2012. However, he failed to establish the legally relevant completion date through the completion intimation or property-tax assessment required under the Act. The Rent Controller had also not made a specific finding on this issue.
 
-## UP affirms its top position in tax collection, followed by Karnataka, Tamil Nadu
-Kerala posts fastest growth of about 22%; Gujarat tops capex
-
-## The iron-air storage solution for solar
-How local minerals can help solve India’s solar curtailment problem at a lower cost vis-a-vis Li-ion batteries
-
-## Editorial. Stick it out
-US tariff threat on Russian crude shouldn’t rattle India
-
-## Below the Line
+## Rupee rises 5 paise to 95.82 against dollar on equity gains, easing oil
 
 
-## What should India’s long term energy priorities be?
-A shift away from LPG for cooking, focus on RE storage and promotion of energy efficiency are vital, going ahead
+## NSE IPO GMP today: On Day 3, grey market premium stands at 3% - all you need to know
+By the end of Day 2, the issue had received bids for 1.16 times the 8.86 crore shares on offer. The retail portion, which had 4.41 crore shares reserved for individual investors, was subscribed 72%.
 
-## Tata dipute: Lawyers Singhvi, Salve now on opposing sides
+## Top stocks to buy: Stock recommendations for September 21, 2026 week - check list
+Stock market recommendations: Lenskart, and Happy Forgings have been recommended as the top stocks to buy for the week starting September 21, 2026 by Motilal Oswal Wealth Management Research Desk.
+
+## Oil prices today: Brent crude eases as Saudi supply recovery offsets Houthi attacks, US-Iran tensions
+
+
+## Tata dispute: Lawyers Singhvi, Salve now on opposing sides
 
 
 ## Tata trustee objects to legal expenses as litigation looms
@@ -81,44 +78,41 @@ TEDT Won't Bear Cost For 'Created Disputes': Mehli Mistry
 ## One year on, commodity prices eat into gains from GST rate rejig
 
 
-## Most economists see RBI raising rates in October policy
+## Seven sworn in as Delhi high court judges, taking HC strength to 50
+The oath to the judicial officers, Nivedita Anil Sharma, Nisha Sahay Saxena, Sanjay Sharma-I, Bharat Parashar, Dr Aditi Choudhary, Dinesh Bhatt, Arun Bhardwaj was administered by CJ DK Upadhyaya
 
+## 2 militants arrested in Manipur
+2 militants arrested in Manipur
 
-## FPIs withdraw nearly 21k crore from equities in September so far
+## POCSO accused teacher in Bengaluru jumps off SP office building, dies
+The incident occurred at the Bengaluru South district Superintendent of Police's office complex in Ramanagara on Sunday.
 
+## 0% success rate for environmental parties in NGT appeals from Jan-June: Report
+South Asian Reporter on Environment Law assessed 119 appeals NGT benches decided between January to June
 
-## Stellantis bets on India as export hub, to triple manufacturing
+## 2 Indian students killed in Canada plane crash during flight training; consulate expresses grief
+The Vancouver consulate, in a post on X, identified the deceased as Manoj Sivakumar and Srisaran Thirugnanasambantham.
 
+## Woman pushes daughter, nephew into well after dispute with husband; arrested
+The boy drowned, while the girl survived. Police investigation revealed the act was intentional, leading to charges of murder and attempted murder.
 
-## NSE IPO: Shareholders still retain significant stake despite tendering shares in offer-for-sale
-Of the 20 institutional investors that participated in the OFS, nine were foreign institutional investors. These investors collectively owned 15.96 per cent of NSE before the IPO.
+## Basic trainer aircraft supplies hinge on timely engine deliveries by US: HAL
+Hindustan Aeronautics Limited (HAL) has delivered the first batch of HTT-40 basic trainers to the Indian Air Force
 
-## Can skirt lengths offer clues about the economy? Understanding the Hemline Index
+## Non-veg food thrown near Ganesh idol immersion event in Hyderabad, 3 detained
+The police officer clarified that the situation in the area is peaceful and warned people against spreading rumours.
 
+## Geopolitical risks see institutional investors rush to stockpile cash, survey finds
+Global institutional investors and wealth managers are stockpiling cash at the fastest pace on record while quietly retreating from US and UK equities as persistent inflation and mounting geopolitical risks dominate portfolio decisions, according to a report by Marsh Investments. The institutional i
 
-## As rains intensify in Keralam, CM orders hourly assessment of situation
-As rains intensify in Keralam, CM orders hourly assessment of situation
+## China’s collection of stock stamp duty jumps more than 80% as AI frenzy boosts trading
+China’s revenue from stamp duty on stock sales jumped more than 80 per cent in the first eight months this year as improved sentiment bolstered trading activities. China collected 216 billion yuan (US$32.3 billion) from the tax between January and August, up 82 per cent year on year, data released b
 
-## 'Notices do not mean name deletion': EC clarifies after Kejriwal, Jaishankar, Advani get SIR letters
-The clarification came after notices were issued to several prominent political figures during the ongoing SIR in the national capital.
+## As Chinese consumption of gold jewellery slumps 34%, sellers look to markets abroad: WGC
+Chinese gold jewellers are seeking opportunities in the Middle East and India with their advanced crafting technologies, as the industry struggles amid gold price volatility, the World Gold Council (WGC) says. At the most recent Jewellery & Gem World Hong Kong fair, buyers from the two regions accou
 
-## ‘Doesn't seem like suicide’: Surendra Koli’s brother files complaint, seeks high-level probe into 'suspicious' death
-Surendra's brother Chandan told police that the circumstances surrounding the death raised doubts about the possibility of suicide.
-
-## Bengal govt to sign agreement with Centre on Sep 28 to set up airport in Purulia: CM
-The Centre's flagship UDAN (Ude Desh ka Aam Nagrik) scheme aims to connect underserved regions and strengthen last-mile air connectivity.
-
-## Japan air chief General Takehiro Morita flies Tejas, calls it 'a truly invaluable experience' | Watch
-The two air chiefs undertook the sortie as part of the ongoing exercise, which is being conducted at Air Force Station Jodhpur.
-
-## Two Indian activists were invited to scrapped security dialogue in Pakistan
-PIPS is a well-known independent think tank run by Muhammad Amir Rana, and it came to prominence with its research on terrorism
-
-## FDA cancels 16, suspends eight drug licences in Karnataka
-The action follows the FDA’s August 18 raid on an unlicensed facility in Kurubarakeranahalli, near Bidadi
-
-## Fair skin, curly hair, tall height no basis to determine caste, religion: Madras HC
-The court made the observation while setting aside an order, which held that a community certificate held by a man was not genuine citing physical attibutes.
+## Mainland China’s stock exchanges mount charm offensive amid Hong Kong IPO boom
+Mainland China’s stock exchanges have stepped up lobbying of companies and regulators to prioritise their boards for listings after Hong Kong stole their thunder in fundraising activities in recent years, according to two sources familiar with the matter. Figures from the exchanges recently met repr
 
 ## Chinese AI chipmaker Hygon plots expansion from data centres to robotics
 Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications including robotics, expanding from its current focus on data centres, according to Chinese media reports and company information. The product launch, slated for Tuesday, marks Hygon’s mo
@@ -132,17 +126,8 @@ China CITIC Bank International’s Wendy Yuen says the future of finance will no
 ## China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’
 Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes. CXMT’s fifth-generation technology pla
 
-## Housing prices surge near new Huanggang Port as buyers eye ‘dual-city’ lifestyle
-Prices for properties near the new Huanggang Port are already soaring months ahead of the border crossing being put into operation, with many buyers attracted by the idea of a “dual-city lifestyle”, according to property agents. The new border facility, which is set to open before the end of the yea
-
-## Will fresh incentives give China’s housing market more than a short-lived rebound?
-Property brokers in China’s major cities are expecting busier days as would-be homebuyers take a cue from a recent policy shift by Beijing aimed at reviving the slumbering real estate market. Some say they are being swamped by inquiries and are trying to seal as many deals as possible amid a recover
-
-## Focused ultrasound could be the next big cancer breakthrough for hard-to-treat tumours
-Precisely targeted sound waves could mark a major advance in treating pancreatic cancer and glioblastoma – an aggressive form of brain cancer – within a few years, according to a leading advocate of the technology. Researchers in Hong Kong and around the world are testing whether the approach can he
-
-## Perfect Diary owner Yatsen doubles down on skincare, R&D after business overhaul
-Yatsen Group, the Chinese beauty company behind Perfect Diary cosmetics, plans to deepen its push into skincare and new product research to sustain its growth, after a years-long overhaul of its business that has seen the firm acquire a string of overseas brands. The Guangzhou-based company will slo
+## Barack Obama and the ‘Most Electable’ Myth
+The candidate perceived as the riskiest choice can sometimes offer the clearest path to power.
 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
@@ -164,9 +149,6 @@ The Homeric scholar’s new book on translation is bitingly smart.
 
 ## How Americanness Overcomes Islamophobia
 In Rozina Ali’s new book, four families grapple with the post-9/11 shift.
-
-## The Houthi Advance Is About More Than Just Iran
-The Saudi-Emirati rivalry is driving moves across the region.
 
 ## India’s New Eye in the Sky: EOS-05 Satellite and What It Means for South Asia
 EOS-05 is a single satellite that is part of a broader imitative of India to strengthen its ISR capabilities.
@@ -240,53 +222,53 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran’s military says US preparing to resume strikes
+Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.
+
+## Massive explosions at Syrian army weapons depot near Aleppo
+Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.
+
+## Imran Khan’s family says three sisters detained ahead of Islamabad march
+Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.
+
+## Powerful explosions at Syrian army site near Aleppo injure at least four
+Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.
+
+## Trump administration readies sweeping sanctions against ICC, reports say
+Measures targeting the court itself could disrupt payments, IT services and investigations.
+
+## The Sahel and the UN: a smaller footprint, a different role
+As UNGA 81 begins, the UN faces a changing Sahel demanding greater sovereignty.
+
+## Ethiopian armed groups forge alliance against government
+Former adversaries say they will settle differences as fears grow of expanding war in Ethiopia.
+
 ## Iran war live: Tehran warns US against new strikes; fighting rages in Yemen
 Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation 'without limitations'.
 
-## ICE officer shoots and wounds man in Austin, Texas, officials say
-The unnamed man is in serious but stable condition at a hospital after being shot once in the torso, police say.
+## ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms
+Proposals likely to include measured deregulation of non assurance services, wider professional networks, recognition of aggregation structures and capital infusion.
 
-## Polls close in Russian wartime election with ruling party set to dominate
-Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.
+## ICAI rolls out SSA 5000 to align India’s sustainability assurance with global norms from April 2027
+New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; applicable to financial years beginning on or after April 1, 2027.
 
-## France to summon Iran envoy after language centre closure in Tehran
-Iran accuses the French language centre of conducting 'illegal acts that violated diplomatic conventions'.
+## FMCG firms to hold prices despite rise in commodity costs; prioritise volume growth
+FMCG cos are likely to hold prices through the festive season despite rising commodity costs and geopolitical disruptions. After modest 2-5% price hikes, firms are prioritising consumer demand and volume growth over margins. Industry executives said cost management and operational efficiencies will 
 
-## Qatar PM urges Gulf security framework with Iran
-Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other.
+## After the $127 Billion FCNR(B) Surge: The Real Test Is Deployment, Liquidity and ALM
+India’s record FCNR(B) mobilisation has been an extraordinary funding success, but the harder balance sheet test begins now. From absorbing surplus rupee liquidity and deploying funds prudently to managing future maturities, RBI operations and ALM, T. Siva Rama Prasad, former CFO of Karur Vysya Bank
 
-## Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
-Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.
+## US' nips at Moscow may sour India ties
+India has been in talks with the US over the past few months, conveying the possible adverse impact on ties if up to 100% tariffs are imposed under the legislation.
 
-## Eighteen suspects extradited to US over Haitian president’s 2021 killing
-Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.
-
-## Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’
-Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy.
+## Tata Sons vs Trusts may shift from boardroom to courtroom
+Tata Trusts, led by Noel Tata, is preparing to challenge Tata Sons’ decision to reappoint N Chandrasekaran as chairman, potentially taking the escalating dispute to the NCLT or Bombay High Court. The Trusts has called the reappointment resolution “null and void ab initio” and is awaiting Tata Sons’ 
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
 
 ## The Tata Sons boardroom battle and what happens next
 The Tata Sons board’s decision to give N Chandrasekaran another five-year term and move ahead with a potential listing has reopened a deeper question at the heart of India’s most closely watched business group: who ultimately decides the direction of Tata Sons when its board and its largest sharehol
-
-## Tata Sons approves five-year extension for N Chandrasekaran to prepare for IPO
-The Tata Sons board has approved N Chandrasekaran’s reappointment as executive chairman for another five-year term and initiated steps towards listing the group holding company, according to people familiar with the matter.
-
-## Corporate Laws Bill: JPC seeks NFRA jail rollback as dissent flags fresh criminal liabilities
-Panel wants imprisonment removed for failure to comply with NFRA orders or pay penalties while retaining criminal fine; dissent note raises wider concerns over new criminal consequences in a Bill aimed at decriminalisation.
-
-## IBBI’s personal guarantor fix may need IBC amendment, not just regulations: Experts
-The Insolvency and Bankruptcy Board of India’s proposals to strengthen safeguards in the insolvency resolution process for personal guarantors to corporate debtors seek to address long-standing gaps in the framework, but some of the proposed changes may require amendments to the Insolvency and Bankr
-
-## Tata Sons’ Twin Governance Test: Can Its Old Power Structure Survive a New Era?
-Tata Sons is facing a twin governance test as the RBI’s push for a public listing collides with the impending succession of Chairman N Chandrasekaran, whose term ends in February 2027. The two issues could reshape how Tata Sons is governed, raising questions over the balance of power between Tata Tr
-
-## Tech Mahindra to channelise margin gains towards growth in next three year plan
-The IT services company is preparing its next three-year plan as it enters the final year of its current strategy, with Anand saying profitable growth will be a key focus while the company continues to pursue operational efficiency.
-
-## Coforge rebuts boardroom tension claims, begins search for new directors with Egon Zehnder
-The IT services company said its board remained aligned on key strategic and governance decisions despite D.K. Singh’s resignation citing differences and tension, while it searches for two independent directors and a permanent chairperson.
 
 ## RBI should 'hike early to hike less' to anchor expectations, support currency: Report
 India's central bank should consider acting early on rates to strengthen credibility, support the currency and reduce the need for larger tightening later, a report said on Friday.
@@ -308,7 +290,4 @@ Sovereign Gold Bond: The Reserve Bank of India has revealed the early redemption
 
 ## 100% tariffs on India? US House passes bill authorising new duties on Russia oil buyers
 The US House of Representatives has passed legislation authorising President Donald Trump to impose tariffs of up to 100% on India, China and other countries buying Russian oil and gas. The bill, which also targets Russia’s leadership, energy sector and shadow fleet, now goes to Trump for his signat
-
-## RBI files caveat after rejecting Tata Sons bid to avoid listing, source says
-The Reserve Bank of India has initiated court proceedings to secure its involvement in the Tata Sons listing issue. This action follows the RBI's denial of Tata Sons’ bid to withdraw its status as a non-banking financial company (NBFC). By filing a caveat in the Bombay High Court, the central bank a
 
