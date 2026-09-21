@@ -1,130 +1,142 @@
 # AION Intelligence
 
-## FirstFT: Merz vows to stay on despite German election ‘disaster’
-Also in today’s newsletter: bank exposure to trading firms and Volkswagen’s index exit
+## Saudi wealth fund presses LIV Golf’s saviour to prove its commitment to tour
+BC Partners to provide LIV with $10mn bankruptcy loan in effort to alleviate concern about its motivations for rescue deal
 
-## Bessent hails US-China AI dialogue ahead of Trump-Xi meeting
-Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart
+## Meta gives union access to recruit UK staff for first time
+Greater worker representation expected in tech sector when new employment rights come into force next month
 
-## VW ejected from European blue-chip index in blow to crisis-hit carmaker
-German company falls out of Euro Stoxx 50 after its shares dip to 16-year low
+## Trump’s crusade against tariff cheats may tangle up trade in red tape
+Yet another US customs initiative will strain an overburdened bureaucracy
 
-## Carlyle’s stalled Lukoil deal leaves refineries idle in tight market
-Proposed agreement has been stuck in the US government approval process for almost 10 months even as fuel prices have soared
+## Slide in oil prices drives rebound in battered government bonds
+Brent crude falls to just above $100 amid speculation that Donald Trump could meet Iranian president this week, lifting French and Italian debt
 
-## Private ADHD clinics are misdiagnosing children, report will say
-Government review will recommend tighter regulation and more control of fees companies can charge the NHS
+## US news outlets to sue Trump administration over White House ban
+CNN, MS Now and Politico vow to protect First Amendment rights after reporters’ access was withdrawn
 
-## AI in finance must be policed differently
-Subjecting agentic AI to an equivalent of the FCA’s existing rule book could deprive millions of investors of valuable help
+## Trump presses Zelenskyy to stop hitting Russian refineries
+US president tells Ukrainian leader in phone call it is all about ‘diesel, diesel, diesel’, according to officials
 
-## Europe must not cut US arms ties, warns defence boss
-Region cannot arm itself alone and rising weapons production is an allied effort, says leading European ammunition maker Nammo
+## FirstFT: Bank exposure to trading firms scrutinised
+Also in today’s newsletter: oil prices fall and the US and China set up AI dialogue
 
-## Fuel subsidies weigh on public finances as energy crisis deepens
-The number of countries with some form of consumer support for fuel costs has topped 90
+## How a murder trial became a booming business for online creators
+Lindsay Clancy was accused of killing her children. Social media’s zeal to monetise her trial turbocharged conspiracy theories
 
-## Lex in depth: Anthropic at $2tn isn’t far-fetched
-There are several ways to crack the valuation nut. Some suggest the company may be worth far more
+## Novo sheds 13,000 jobs in a year
+Danish maker of weight-loss drugs targets new ‘multi-blockbusters’ to revive its fortunes
 
-## Western companies lag China in sodium battery race
-Cells using abundantly available materials could help break the grip on rare earths needed for EVs and energy storage
+## Digital euro makes debut in wholesale financial markets
+European Central Bank hopes to launch a retail equivalent by 2029
 
-## Petroleum dealers voice concern over MDR, E20 and rising operating costs
-The introduction of E20 petrol has also created fresh operational challenges for dealers; dealers report concerns relating to storage, handling, equipment compatibility and material durability
+## SoftBank launches one of biggest junk bond deals to fund OpenAI bet
+Japanese group seeks to raise more than $11bn in dollar and euro bonds as it invests in the AI boom
 
-## Gold traders unveil ‘Vision 2030’ to strengthen Keralam’s gold sales
-To ensure the survival of small and medium-sized jewellery businesses, protecting workers and artisans, and preserving traditional gold trade will be among the key objectives of ‘Vision 2030’
+## China’s SDLG invests ₹300 crore in Gujarat plant
+Aims to expand local production, increase sourcing from Indian suppliers in the construction equipment market
 
-## NSE IPO Day 3 Live: Largest IPO booked 1.5x so far, last day to bid
-NSE IPO Day 3 live updates: NSE IPO, Check GMP, issue details & subscription status
+## Colombo Port City woos Indian companies with ‘India-plus-one’ pitch
+Designed to attract high-value FDI, Port City Colombo facilitates sectors including financial services, IT and digital services, global trading, maritime and logistics, professional services, and regional headquarters operations
 
-## China, US hold 'candid, in-depth' talks on tariffs, AI issues ahead of Xi-Trump meeting
-The talks come ahead of Xi's expected visit to Washington on September 23
+## Broker’s Call: Indo-MIM (Buy)
+HDFC Securities
 
-## Bitcoin ETFs swing positive as token holds jump above $81,000
-The change in sentiment came at the end of a bruising week for digital assets that saw the failure of a landmark US crypto bill and the US Federal Reserve’s first interest-rate increase in more than three years.
+## Devastated by Taliban, ignored by all
+A heartbreaking account of the fresh wave of cruelty and violence against Afghan women
 
-## Sensex today | Stock Market Live: Sensex climbs over 400 pts, Nifty above 23,400 as markets maintain positive bias
-Sensex, Nifty, Stock Price Live Updates: Nifty remains positive but faces resistance near 23,420–23,430. Sustaining above this zone could take the index towards 23,470 and 23,510, while failure to clear it may keep the index range-bound. On the downside, 23,320 and 23,280 are key supports; a break b
+## Broker’s Call: Sun Pharma (Buy)
+Geojit Investments
 
-## MCX Natural Gas Futures: Immediate outlook is unclear. Stay out
-The near-term outlook is slightly unclear. Support is at ₹270. Resistance is in the ₹285-₹286 region. So broadly, ₹270-₹286 can be the trading range for some time now
+## Indian refiners may cut Russian crude oil imports amid US tariff threats
+Imports from Russia have already eased and may average about 1.9 million barrels a day in September — more than 35% of the total and the lowest since April, according to Kpler
 
-## Half of study abroad aspirants come from Tier 2/3 cities, says report
-Report suggests that the rise of hybrid learning models, pathways programs, and lower-cost European education ecosystems is fundamentally expanding the addressable study abroad markets.
+## Railway works worth over ₹20,000 crore under way in Kerala, says Vaishnaw
+Mangaluru to stay in SWR zone; land acquisition lag holding up several sanctioned lines and doubling projects
 
-## Canadian NRI landlord wanted rented Punjab house back; HC allows tenant to stay
-The landlord had relied on his purchase of the plot in 2012. However, he failed to establish the legally relevant completion date through the completion intimation or property-tax assessment required under the Act. The Rent Controller had also not made a specific finding on this issue.
+## Today’s Gold Rate in India September 21: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
+22, 24 carat Gold prices down across other cities on September 21
 
-## Rupee rises 5 paise to 95.82 against dollar on equity gains, easing oil
-
-
-## NSE IPO GMP today: On Day 3, grey market premium stands at 3% - all you need to know
-By the end of Day 2, the issue had received bids for 1.16 times the 8.86 crore shares on offer. The retail portion, which had 4.41 crore shares reserved for individual investors, was subscribed 72%.
-
-## Top stocks to buy: Stock recommendations for September 21, 2026 week - check list
-Stock market recommendations: Lenskart, and Happy Forgings have been recommended as the top stocks to buy for the week starting September 21, 2026 by Motilal Oswal Wealth Management Research Desk.
-
-## Oil prices today: Brent crude eases as Saudi supply recovery offsets Houthi attacks, US-Iran tensions
+## No UPI above Rs 2,000? MP petrol pumps to stop accepting payments from October 16 over MDR
 
 
-## Tata dispute: Lawyers Singhvi, Salve now on opposing sides
+## India-NZ FTA kicks in from Oct 20 with duty-free access for all Indian exports
 
 
-## Tata trustee objects to legal expenses as litigation looms
-TEDT Won't Bear Cost For 'Created Disputes': Mehli Mistry
+## What is OneTag? Switch FASTag bank, retain same tag; fresh KYC, get refund
+Gadkari launched the facility at the Global Fintech Fest 2026 in Mumbai. The initiative is intended to give FASTag users more flexibility in choosing their issuer bank and make the process of switching banks simpler.
 
-## One year on, commodity prices eat into gains from GST rate rejig
+## India reacts to new US tariffs law as Russian oil remains key to energy sourcing
+India is studying proposed US tariffs targeting nations buying Russian oil. The US House of Representatives passed legislation to increase economic pressure on Russia. This move could impact broader trade agreement discussions between India and the US. India has stressed protecting its trade and eco
+
+## Strike from Sep 28-30? Banks may shut for 5 days; SBI, Union Bank issue advisory
+The proposed strike comes immediately after the weekend. September 26 is the second Saturday of the month and is a bank holiday, while September 27, 2026, falls on a Sunday.
+
+## Stock market today: Sensex gains 564 points; Nifty settles above 23,400
 
 
-## Seven sworn in as Delhi high court judges, taking HC strength to 50
-The oath to the judicial officers, Nivedita Anil Sharma, Nisha Sahay Saxena, Sanjay Sharma-I, Bharat Parashar, Dr Aditi Choudhary, Dinesh Bhatt, Arun Bhardwaj was administered by CJ DK Upadhyaya
+## Stocks to buy: What's the outlook for Nifty for September 21-September 25 week? Check list of top stock recommendations
+Stock market recommendations: Indian Hotels Company, and Sona BLW Precision Forgings Ltd are the top stocks to buy recommended by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for September 21, 2026.
 
-## 2 militants arrested in Manipur
-2 militants arrested in Manipur
+## Gold price prediction today: Where is gold headed? Check outlook for September 21, 2026 week
+For gold, the immediate support is placed at Rs 152,000, followed by Rs 149,000–148,200, while resistance is seen at Rs 155,000, Rs 158,300 and Rs 160,000–160,300.
 
-## POCSO accused teacher in Bengaluru jumps off SP office building, dies
-The incident occurred at the Bengaluru South district Superintendent of Police's office complex in Ramanagara on Sunday.
+## Mahanadi water dispute likely to be resolved soon: Chhattisgarh CM
+The dispute over sharing of Mahanadi waters has continued for more than a decade, with Odisha objecting to the construction of barrages by Chhattisgarh
 
-## 0% success rate for environmental parties in NGT appeals from Jan-June: Report
-South Asian Reporter on Environment Law assessed 119 appeals NGT benches decided between January to June
+## 15-yr-old boy shot dead by unknown armed individuals in Manipur’s Tamei: Cop
+Police said the motive behind the attack is still uncertain and those responsible for the incident are yet to be identified
 
-## 2 Indian students killed in Canada plane crash during flight training; consulate expresses grief
-The Vancouver consulate, in a post on X, identified the deceased as Manoj Sivakumar and Srisaran Thirugnanasambantham.
+## Kasturirangan opposes Kasturirangan report, seeks ground level survey of Western ghats
+Kasturirangan opposes Kasturirangan report, seeks ground level survey of Western ghats
 
-## Woman pushes daughter, nephew into well after dispute with husband; arrested
-The boy drowned, while the girl survived. Police investigation revealed the act was intentional, leading to charges of murder and attempted murder.
+## 3 arrested, SIT formed, Opposition fumes over Jamui harassment case | Top updates
+Three people have been arrested in connection with the incident and Jamui Police has formed an SIT to investigate the viral video.
 
-## Basic trainer aircraft supplies hinge on timely engine deliveries by US: HAL
-Hindustan Aeronautics Limited (HAL) has delivered the first batch of HTT-40 basic trainers to the Indian Air Force
+## IIT Bombay faculty forum backs professor accused of abetting student suicide
+The forum said Suryanarayan Doolla has not been suspended and continues to be a faculty member of the institute
 
-## Non-veg food thrown near Ganesh idol immersion event in Hyderabad, 3 detained
-The police officer clarified that the situation in the area is peaceful and warned people against spreading rumours.
+## Population Foundation urges shift from population control to informed choice, equity
+Population Foundation urges shift from population control to informed choice, equity
 
-## Geopolitical risks see institutional investors rush to stockpile cash, survey finds
-Global institutional investors and wealth managers are stockpiling cash at the fastest pace on record while quietly retreating from US and UK equities as persistent inflation and mounting geopolitical risks dominate portfolio decisions, according to a report by Marsh Investments. The institutional i
+## ‘Learn from satire’ vs ‘become comedian’: BJP-Cong showdown over mimicry of PM Modi continues
+The exchange followed a ‘Chhatron ki Gunj’ event, where video of Gandhi laughing after a speaker mentioned Modi’s interaction with an elderly woman went viral.
 
-## China’s collection of stock stamp duty jumps more than 80% as AI frenzy boosts trading
-China’s revenue from stamp duty on stock sales jumped more than 80 per cent in the first eight months this year as improved sentiment bolstered trading activities. China collected 216 billion yuan (US$32.3 billion) from the tax between January and August, up 82 per cent year on year, data released b
+## 3 Bihar men arrested under Pocso after horrifying video of assault on Jamui teens
+The assault took place on the evening of September 19 in Jamui district, 150km from Patna, when the two teenagers were returning from a local scenic spot
 
-## As Chinese consumption of gold jewellery slumps 34%, sellers look to markets abroad: WGC
-Chinese gold jewellers are seeking opportunities in the Middle East and India with their advanced crafting technologies, as the industry struggles amid gold price volatility, the World Gold Council (WGC) says. At the most recent Jewellery & Gem World Hong Kong fair, buyers from the two regions accou
+## Hong Kong stock exchange moves to ease spin-offs and shareholder approval rules
+The Hong Kong stock exchange has proposed easing requirements for listed companies to disclose corporate transactions and seek shareholder approval, while also making it easier for issuers to spin off businesses, according to a consultation paper released on Monday. The 10-week consultation, which r
 
-## Mainland China’s stock exchanges mount charm offensive amid Hong Kong IPO boom
-Mainland China’s stock exchanges have stepped up lobbying of companies and regulators to prioritise their boards for listings after Hong Kong stole their thunder in fundraising activities in recent years, according to two sources familiar with the matter. Figures from the exchanges recently met repr
+## How Hong Kong is positioning for a bigger role in Asia’s family wealth transition
+Hong Kong is strengthening its position as Asia’s hub for family business succession and cross-border capital allocation as wealthy families navigate economic uncertainty and a generational transfer of wealth, financial regulators and industrial executives said on Monday. Speaking at the South China
 
-## Chinese AI chipmaker Hygon plots expansion from data centres to robotics
-Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications including robotics, expanding from its current focus on data centres, according to Chinese media reports and company information. The product launch, slated for Tuesday, marks Hygon’s mo
+## Expect ‘high tide’ of Chinese biotech deals as threat of US curbs fades: analysts
+US-China biotech deals are expected to thrive because Washington is reportedly leaning away from sweeping restrictions, according to analysts, giving Chinese healthcare firms a major boost following Beijing’s ambitious five-year plan for the sector. Out-licensing deals between China and the US would
 
-## For China’s hi-tech IPOs, it’s Hong Kong vs the mainland – but how much does it matter?
-Competition between mainland China and Hong Kong for hi-tech initial public offerings presents emerging technology firms with a dual-track strategic choice rather than a zero-sum battle, according to an executive at a national cross-border innovation platform. “There is naturally a degree of competi
+## Asia investors demand AI revenue proof as focus shifts from exposure to earnings: BofA
+Investors in Asia are demanding clearer evidence that artificial intelligence can translate into revenue and earnings, rather than simply seeking exposure to the technology, as the sector moves into a more mature phase, according to Chris Oberoi, head of Asia-Pacific research at Bank of America (Bof
 
-## Betting on People-First Banking
-China CITIC Bank International’s Wendy Yuen says the future of finance will not be won by technology alone, but by banks that combine digital speed with human trust, cross-border insight and lifelong learning. As head of the Personal and Business Banking Group at China CITIC Bank International, Wend
+## Why a hawkish US Fed won’t derail Hong Kong’s property recovery
+The Hong Kong Monetary Authority, the city’s de facto central bank, probably anticipated the rise in US interest rates last week. However, it is unlikely it foresaw the extent to which the Federal Reserve shifted in a hawkish direction. Even Fed watchers were surprised by the unanimous vote to incre
 
-## China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’
-Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes. CXMT’s fifth-generation technology pla
+## Despite stock stress, CATL likely to retain EV battery dominance in China, analysts say
+Contemporary Amperex Technology Limited’s (CATL) dominance in the Chinese electric vehicle (EV) market is unlikely to slump over the coming year given its brand recognition and edge in technology, analysts said, though its shares have already tumbled amid the battle with profit-squeezed EV makers. C
+
+## Once the world’s most-visited city, Hong Kong now converts hotels into student dorms
+Late last month, an open tender for Hotel Cozi Harbour View in Kwun Tong was announced, with interested parties given until October 15 to submit bids. The 598-room hotel, located in Hong Kong’s eastern Kowloon Peninsula, a former industrial area, was taken over by Nanyang Commercial Bank for HK$1.87
+
+## 4 mainland Chinese firms jump into cooling Hong Kong IPO market
+Four Chinese companies launched initial public offerings (IPOs) in Hong Kong on Monday, aiming to raise as much as HK$14 billion (US$1.8 billion) in total, with strong backing from cornerstone investors countering apparent weakness in the market so far this month. Automated equipment manufacturer Ro
+
+## How Flávio Bolsonaro Sees the World
+Brazil’s far-right presidential hopeful wants to step up ties with Washington. But like his father, he would struggle to spurn Beijing.
+
+## To Win the Peace, Ukraine Must Cope With Vast Numbers of Veterans
+Ukraine must “build the engine while it’s driving the car,” said Vitalii Kim, the country’s new veterans’ affairs minister.
+
+## Why Iran’s Lego Clips Are Anything but ‘Stupid’
+Marco Rubio should not dismiss this new and highly effective form of propaganda.
 
 ## Barack Obama and the ‘Most Electable’ Myth
 The candidate perceived as the riskiest choice can sometimes offer the clearest path to power.
@@ -141,14 +153,11 @@ Test yourself on the week of Sept. 12: Modi and Xi meet, the Houthis fire on Sau
 ## In War, Trump and Putin Are Much Alike
 Washington is emulating Moscow’s ways of fighting wars—and helping it in the process.
 
-## Chinese Literature Is Undergoing a Vibe Shift
-Beijing long promoted novels about working-class travails. What happens when authors point fingers at the state?
+## What Can Bangladesh PM Tarique Rahman Gain From His Upcoming US Visit?
+In Beijing, he met President Xi. Without a meeting with Trump or clear economic gains, the U.S. visit could fall short of Dhaka's expectations.
 
-## Emily Wilson Chooses Her Words Carefully
-The Homeric scholar’s new book on translation is bitingly smart.
-
-## How Americanness Overcomes Islamophobia
-In Rozina Ali’s new book, four families grapple with the post-9/11 shift.
+## Malaysian King Approves Imprisoned Former PM Najib’s House Arrest Bid
+The royal pardon is likely to empower the United Malays National Organization (UMNO) and widen the rifts within Prime Minister Anwar Ibrahim's reformist coalition.
 
 ## India’s New Eye in the Sky: EOS-05 Satellite and What It Means for South Asia
 EOS-05 is a single satellite that is part of a broader imitative of India to strengthen its ISR capabilities.
@@ -168,11 +177,11 @@ Even as investment tops 327 billion rupees, firms at Allama Iqbal Industrial Cit
 ## The Nexperia Case Was Actually a Success. Does Europe Know That?
 A combination of media misunderstandings, Chinese distortions, and Dutch mistakes raise the risk that Europeans draw the wrong conclusions about economic security.
 
-## Making the Most Out of Growing US-Uzbekistan Trade and Investment
-Uzbekistan aims to attract greater U.S. investment, and is making its own investments in the United States. But it can’t forget the people.
+## Washington’s Foreign Equity Bets Need Better Governance
+What do a rare earth mine in Brazil and a graphite mine in Mozambique have in common? Both have received significant United States government funding. The rub? Neither was subject, when the financing was committed, to the corporate governance standards that American listed companies are: an independ
 
-## 4 Fault Lines that Could Shape the Trump-Xi Summit
-The tangible outcomes will be modest, but the stakes are high.
+## Only America Could Have Designed the Field Jacket
+When the M-1943 field jacket was introduced at the height of World War II, it was a revolutionary garment. The jacket was the result of rigorous testing, input from an astonishingly diverse group of experts, and was produced by the most advanced textile and garment industry in the world at the time.
 
 ## Pressure Points
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranSenior officials from Iran, Oman, and neighboring Gulf states were scheduled to meet in Salalah on Monday to
@@ -191,12 +200,6 @@ This exclusive Cogs of War interview is with Brig. Gen. Steven P. Carpenter, the
 
 ## The Real U.S.-Saudi Nuclear Deal Is Better Than We Thought
 On Aug. 24, 2026, the Trump administration transmitted the text of the U.S.-Saudi nuclear cooperation agreement to Congress. By doing so, the administration triggered the 90-day congressional review process described in the Atomic Energy Act and relaunched a debate about the right approach to intern
-
-## Would NATO Membership for Ukraine Undermine Article 5 Itself?
-In 2025, Jennifer Kavanaugh and Christopher McCallion wrote, “Armed Neutrality for Ukraine Is NATO’s Least Poor Option,” where they made the case for armed neutrality over full NATO membership as the wiser course for both Ukraine and NATO. A year later, we asked them to revisit their arguments. Imag
-
-## Strategic Stability and the Rebuilding of Xi’s Military
-For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People’s Liberation Army’s senior command through purges and is now trying to rebuild it wh
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -222,32 +225,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran’s military says US preparing to resume strikes
-Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.
+## NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila
+Al-Shaair wears eye black with Akila's name despite being fined for displaying messages about Israel's genocide in Gaza.
 
-## Massive explosions at Syrian army weapons depot near Aleppo
-Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.
+## Why do Sudan’s humanitarian truces keep failing and who is to blame?
+Efforts to bring about humanitarian truces in Sudan hit a dead end as warring factions prioritise battlefield victories.
 
-## Imran Khan’s family says three sisters detained ahead of Islamabad march
-Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.
+## Why is the US trying ‘regime change’ again?
+The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway
 
-## Powerful explosions at Syrian army site near Aleppo injure at least four
-Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.
+## How oil, gas losses have shrunk Iran’s GDP by 10 percent during war
+The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.
 
-## Trump administration readies sweeping sanctions against ICC, reports say
-Measures targeting the court itself could disrupt payments, IT services and investigations.
+## Mystery object spotted hovering over Tehran
+A mysterious object filmed hovering over Tehran has sparked online speculation.
 
-## The Sahel and the UN: a smaller footprint, a different role
-As UNGA 81 begins, the UN faces a changing Sahel demanding greater sovereignty.
+## A simple guide to the Yemen conflict
+Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.
 
-## Ethiopian armed groups forge alliance against government
-Former adversaries say they will settle differences as fears grow of expanding war in Ethiopia.
+## Do Israelis feel any safer now than they did on October 6, 2023?
+Despite having rarely been more secure, public concerns about security continue to dominate the election.
 
-## Iran war live: Tehran warns US against new strikes; fighting rages in Yemen
-Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation 'without limitations'.
+## Can the US win the AI cold war with China?
+US attempts to slow down Chinese progress on AI through economic restrictions could backfire.
+
+## UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors
+UPI MDR charges will attract 18% GST, with the tax generally available as input tax credit for businesses making taxable supplies. However, exempt sectors such as hospitals and schools may have to bear the GST as a cost, while thin-margin businesses could see a more visible impact on profitability a
 
 ## ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms
 Proposals likely to include measured deregulation of non assurance services, wider professional networks, recognition of aggregation structures and capital infusion.
+
+## Why Do India’s Best Boards Fail? The Structural Flaws that Corporate Law Ignores
+Tata Sons and ICICI Bank represent two contrasting governance models, yet both have faced boardroom crises. Dr. Ashok Haldia, former Secretary, ICAI, examines whether such episodes expose deeper weaknesses in India’s corporate governance framework, questioning the limits of board independence, promo
 
 ## ICAI rolls out SSA 5000 to align India’s sustainability assurance with global norms from April 2027
 New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; applicable to financial years beginning on or after April 1, 2027.
@@ -263,12 +272,6 @@ India has been in talks with the US over the past few months, conveying the poss
 
 ## Tata Sons vs Trusts may shift from boardroom to courtroom
 Tata Trusts, led by Noel Tata, is preparing to challenge Tata Sons’ decision to reappoint N Chandrasekaran as chairman, potentially taking the escalating dispute to the NCLT or Bombay High Court. The Trusts has called the reappointment resolution “null and void ab initio” and is awaiting Tata Sons’ 
-
-## Tata Sons: One boardroom, two battles
-Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
-
-## The Tata Sons boardroom battle and what happens next
-The Tata Sons board’s decision to give N Chandrasekaran another five-year term and move ahead with a potential listing has reopened a deeper question at the heart of India’s most closely watched business group: who ultimately decides the direction of Tata Sons when its board and its largest sharehol
 
 ## RBI should 'hike early to hike less' to anchor expectations, support currency: Report
 India's central bank should consider acting early on rates to strengthen credibility, support the currency and reduce the need for larger tightening later, a report said on Friday.
