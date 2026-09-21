@@ -48,29 +48,29 @@ Wall Street finds new way to turn tech giants’ credit strength into cheaper fu
 ## Billionaire Tata scion faces battle of his life to avert listing
 Noel Tata is up against the 150-year-old business empire’s chair and his well-connected New Delhi allies
 
+## Auto battle shifts into high gear ahead of festive season
+From CNG cars to electric motorcycles and heavy trucks, manufacturers are rolling out fresh products to win buyers
+
 ## IPO pipeline stays strong with 72 firms seeking to raise ₹1.70 lakh crore
 Retail demand remains robust even as experts caution against excessive exuberance and rich valuations
+
+## BonV Aero develops heavy-lift UAV for high-altitude regions
+BonV Aero’s high-altitude drone can lift more than 100 kg to altitudes beyond 10,000 ft
 
 ## UP affirms its top position in tax collection, followed by Karnataka, Tamil Nadu
 Kerala posts fastest growth of about 22%; Gujarat tops capex
 
+## The iron-air storage solution for solar
+How local minerals can help solve India’s solar curtailment problem at a lower cost vis-a-vis Li-ion batteries
+
 ## Editorial. Stick it out
 US tariff threat on Russian crude shouldn’t rattle India
 
-## India’s biotech start-ups need patient capital to drive novel drug innovation, industry leaders say
-Industry leaders call for bigger investments, policy predictability, risk capital pool, and more, at CII Pharma and Life Sciences Summit
+## Below the Line
 
-## Keralam weather update: IMD predicts heavy rains from Sep 20-24
-IMD says there is possibility of thunderstorms at isolated places in Keralam from September 20 to 21
 
-## Devastated by Taliban, ignored by all
-A heartbreaking account of the fresh wave of cruelty and violence against Afghan women
-
-## A portrait of a storied building
-The history of the Parliament from within its walls
-
-## Grahaa Space accelerates launch plans for Earth-observation satellites
-With increasing customer interest, the company aims to monetise its Earth-observation data across various sectors
+## What should India’s long term energy priorities be?
+A shift away from LPG for cooking, focus on RE storage and promotion of energy efficiency are vital, going ahead
 
 ## Tata dipute: Lawyers Singhvi, Salve now on opposing sides
 
@@ -120,6 +120,12 @@ The action follows the FDA’s August 18 raid on an unlicensed facility in Kurub
 ## Fair skin, curly hair, tall height no basis to determine caste, religion: Madras HC
 The court made the observation while setting aside an order, which held that a community certificate held by a man was not genuine citing physical attibutes.
 
+## Chinese AI chipmaker Hygon plots expansion from data centres to robotics
+Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications including robotics, expanding from its current focus on data centres, according to Chinese media reports and company information. The product launch, slated for Tuesday, marks Hygon’s mo
+
+## For China’s hi-tech IPOs, it’s Hong Kong vs the mainland – but how much does it matter?
+Competition between mainland China and Hong Kong for hi-tech initial public offerings presents emerging technology firms with a dual-track strategic choice rather than a zero-sum battle, according to an executive at a national cross-border innovation platform. “There is naturally a degree of competi
+
 ## Betting on People-First Banking
 China CITIC Bank International’s Wendy Yuen says the future of finance will not be won by technology alone, but by banks that combine digital speed with human trust, cross-border insight and lifelong learning. As head of the Personal and Business Banking Group at China CITIC Bank International, Wend
 
@@ -137,12 +143,6 @@ Precisely targeted sound waves could mark a major advance in treating pancreatic
 
 ## Perfect Diary owner Yatsen doubles down on skincare, R&D after business overhaul
 Yatsen Group, the Chinese beauty company behind Perfect Diary cosmetics, plans to deepen its push into skincare and new product research to sustain its growth, after a years-long overhaul of its business that has seen the firm acquire a string of overseas brands. The Guangzhou-based company will slo
-
-## China’s crude imports are rising again. What will that mean for oil prices?
-China is showing early signs of stepping up imports of crude oil after months of subdued buying amid the US-Israel war on Iran, threatening to erode a buffer that has helped prevent a larger surge in global oil prices. But analysts do not expect China to quickly return to its pre-war import levels, 
-
-## Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources
-Tesla officials and engineers have begun auditing part of the firm’s Chinese supply chain, as Elon Musk’s company aims to quickly ramp up production of its Optimus humanoid robot after it hits the global market later this year, according to sources with knowledge of the matter. Chinese companies set
 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
@@ -240,6 +240,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Tehran warns US against new strikes; fighting rages in Yemen
+Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation 'without limitations'.
+
+## ICE officer shoots and wounds man in Austin, Texas, officials say
+The unnamed man is in serious but stable condition at a hospital after being shot once in the torso, police say.
+
+## Polls close in Russian wartime election with ruling party set to dominate
+Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.
+
 ## France to summon Iran envoy after language centre closure in Tehran
 Iran accuses the French language centre of conducting 'illegal acts that violated diplomatic conventions'.
 
@@ -254,15 +263,6 @@ Federal court in Florida to try men accused of orchestrating the transnational p
 
 ## Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’
 Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy.
-
-## US, China open high-level talks ahead of Trump-Xi summit
-Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.
-
-## Qatar says it is working to revive Iran-US talks
-Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.
-
-## France’s Macron and Canada’s Carney announce plans to build stronger ties
-Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.
 
 ## Tata Sons: One boardroom, two battles
 Tata Trusts has called Chandrasekaran's reappointment illegal and a legal nullity, arguing that the Articles of Association require the requisite support from Trust-nominated directors. Noel Tata, chairman of Tata Trusts and a Tata Sons director, voted against the reappointment. Whether the resoluti
