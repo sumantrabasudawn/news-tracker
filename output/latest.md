@@ -1,61 +1,88 @@
 # AION Intelligence
 
-## Saudi wealth fund presses LIV Golf’s saviour to prove its commitment to tour
-BC Partners to provide LIV with $10mn bankruptcy loan in effort to alleviate concern about its motivations for rescue deal
+## Merz’s last chance to reform Germany
+After regional election disaster, the chancellor is living on borrowed time
 
-## Meta gives union access to recruit UK staff for first time
-Greater worker representation expected in tech sector when new employment rights come into force next month
+## OpenAI joins call for US-led global AI standards
+Chief executive Sam Altman will brief the UN Security Council this week following outcry over safety concerns
 
-## Trump’s crusade against tariff cheats may tangle up trade in red tape
-Yet another US customs initiative will strain an overburdened bureaucracy
+## UK flights disrupted by latest air traffic control problem
+National Air Traffic Services says it has fixed a fault at its Prestwick control centre in Scotland that led to dozens of cancellations and delays
 
-## Slide in oil prices drives rebound in battered government bonds
-Brent crude falls to just above $100 amid speculation that Donald Trump could meet Iranian president this week, lifting French and Italian debt
+## Can Democrats seize Congress from Trump?
+The races, the money and the issues that will determine the final half of Trump’s second term
 
-## US news outlets to sue Trump administration over White House ban
-CNN, MS Now and Politico vow to protect First Amendment rights after reporters’ access was withdrawn
+## Paramount reaches settlement to clear path for $110bn Warner Bros deal
+Studio will not divest assets and will keep operations in California under terms that could be announced today
 
-## Trump presses Zelenskyy to stop hitting Russian refineries
-US president tells Ukrainian leader in phone call it is all about ‘diesel, diesel, diesel’, according to officials
+## London Fashion Week’s emerging stars are all grown up — almost
+This season, designers such as Paolo Carzana, Talia Byre and Steve O Smith offered more approachable styles — without sacrificing their creative vision
 
-## FirstFT: Bank exposure to trading firms scrutinised
-Also in today’s newsletter: oil prices fall and the US and China set up AI dialogue
+## Changing leader is not the panacea many Lib Dems think it is
+The party faces serious structural problems in an era of growing political polarisation
 
-## How a murder trial became a booming business for online creators
-Lindsay Clancy was accused of killing her children. Social media’s zeal to monetise her trial turbocharged conspiracy theories
+## Fed will need to be ‘aggressive’ on inflation, says top official
+Austan Goolsbee voices concern that price growth is being fuelled by ‘overheating demand’ on top of Iran supply shock
 
-## Novo sheds 13,000 jobs in a year
-Danish maker of weight-loss drugs targets new ‘multi-blockbusters’ to revive its fortunes
+## Novo’s prospects beyond weight-loss drugs look surprisingly lean
+Despite plans to broaden its business beyond obesity treatments, the Danish group’s guidance is unambitious
 
-## Digital euro makes debut in wholesale financial markets
-European Central Bank hopes to launch a retail equivalent by 2029
+## US data centres ‘are short six NYCs of electricity’
+With great power comes great implausibility
+
+## Ferrexpo investors back fundraising to rescue stricken miner
+Shares in the group were suspended from May until this month after it was caught up in tensions between Kyiv and oligarch shareholder
+
+## Ingestible battery offers potential relief for stomach conditions
+Paper-based power source worked for three days in pigs and could help improve drug treatments for humans
 
 ## SoftBank launches one of biggest junk bond deals to fund OpenAI bet
 Japanese group seeks to raise more than $11bn in dollar and euro bonds as it invests in the AI boom
 
-## China’s SDLG invests ₹300 crore in Gujarat plant
-Aims to expand local production, increase sourcing from Indian suppliers in the construction equipment market
+## Stop asking AI CEOs what society needs
+Imagine inviting oil companies to design climate policies or car companies to make traffic rules
 
-## Colombo Port City woos Indian companies with ‘India-plus-one’ pitch
-Designed to attract high-value FDI, Port City Colombo facilitates sectors including financial services, IT and digital services, global trading, maritime and logistics, professional services, and regional headquarters operations
+## KAS Group eyes ₹2,500 crore order book in 3 years as semicon equipment demand rises
+Bengaluru group plans ₹250-crore Dholera push for quartz parts as revenue mix shifts from solar to semiconductors
 
-## Broker’s Call: Indo-MIM (Buy)
-HDFC Securities
+## India must emerge as AI innovator, not just consumer: Google’s Harsh Dhand
+‘Google has a long-standing presence in India. When we first thought about expanding to APAC, we thought about setting up a lab in India'
 
-## Devastated by Taliban, ignored by all
-A heartbreaking account of the fresh wave of cruelty and violence against Afghan women
+## IBM’s tier 2 expansion offers greater innovation opportunities and work-life balance: Sandip Patel, Managing Director, IBM India & South Asia
+As the tech landscape evolves, IBM’s focus on regional growth reflects a commitment to harnessing local talent and creating sustainable IT infrastructure.
 
-## Broker’s Call: Sun Pharma (Buy)
-Geojit Investments
+## Lava unveils Virat Curve 5G smartphone in ₹20,000 price segment
+The new smartphone comes with 6 GB system memory and 128 GB storage and will be offered in multiple colour options
 
-## Indian refiners may cut Russian crude oil imports amid US tariff threats
-Imports from Russia have already eased and may average about 1.9 million barrels a day in September — more than 35% of the total and the lowest since April, according to Kpler
+## Jayanti Prasad gets additional charge as IBBI Chairperson
+The additional charge follows Mital’s retirement earlier this month, with Prasad continuing his existing responsibilities as a Whole-Time Member
 
-## Railway works worth over ₹20,000 crore under way in Kerala, says Vaishnaw
-Mangaluru to stay in SWR zone; land acquisition lag holding up several sanctioned lines and doubling projects
+## Varmora Granito raises ₹212.4 crore from anchor investors ahead of IPO
+The Rajkot-based tiles and bathware maker has set its IPO price band at ₹140-148 per share for the September 22-24 issue
 
-## Today’s Gold Rate in India September 21: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
-22, 24 carat Gold prices down across other cities on September 21
+## ADIA sells 2.01% stake in Lenskart Solutions for ₹2,390 crore
+The stake sale reduces ADIA’s interest in the eyewear retailer, following SoftBank’s ₹2,873-crore divestment earlier this year.
+
+## India-New Zealand FTA to kick in on Oct 20 with zero tariffs on Indian goods
+The agreement assumes significance amid heightened geopolitical uncertainty and US President Donald Trump’s increasingly unpredictable tariff policy
+
+## ‘Resolve issues through dialogue’: Govt urges bank employees to call off Sept 28-30 stir
+The finance ministry urged bank employees to resolve demands through dialogue. A three-day nationwide strike is planned from September 28 to 30. Unions seek a five-day banking week and withdrawal of the PLI scheme. The government has addressed most concerns and is examining remaining issues. Banks a
+
+## Retired man deposits Rs 1.33 crore, files no ITR; taxman sends notice, here is what ITAT said
+The Income Tax Department also noted that the individuals had not filed an income tax return (ITR) for the relevant year. This meant the department did not have details of the income he had earned during the period under scrutiny.
+
+## Trump traded more securities than all Congress; backs stock-buying ban for all Congress lawmakers, but not president
+A majority of Americans support prohibiting lawmakers from trading stocks. President Donald Trump himself backed a ban that would restrict members of Congress but leave him outside its scope.
+
+## India plans its own 350 kmph bullet trains by 2030; first B28 trains from 2027
+The entire 508-km Mumbai-Ahmedabad High-Speed Rail corridor is scheduled to be completed by December 2030. But to begin with a small stretch will likely be thrown open in 2027 for which BEML is manufacturing the high-speed train sets that will have a design speed of 280 kmph.
+
+## NSE IPO subscribed 5.7 times as bidding ends, shares to list on September 24
+
+
+## Over $3bn and counting: What's fuelling India's export surge to China?
+
 
 ## No UPI above Rs 2,000? MP petrol pumps to stop accepting payments from October 16 over MDR
 
@@ -63,47 +90,32 @@ Mangaluru to stay in SWR zone; land acquisition lag holding up several sanctione
 ## India-NZ FTA kicks in from Oct 20 with duty-free access for all Indian exports
 
 
-## What is OneTag? Switch FASTag bank, retain same tag; fresh KYC, get refund
-Gadkari launched the facility at the Global Fintech Fest 2026 in Mumbai. The initiative is intended to give FASTag users more flexibility in choosing their issuer bank and make the process of switching banks simpler.
+## Starbucks to open first India global capability centre in Chennai, create 800 high-paying jobs
+CM Vijay said that the trust placed by Starbucks is proof of Tamil Nadu youth's capabilities.
 
-## India reacts to new US tariffs law as Russian oil remains key to energy sourcing
-India is studying proposed US tariffs targeting nations buying Russian oil. The US House of Representatives passed legislation to increase economic pressure on Russia. This move could impact broader trade agreement discussions between India and the US. India has stressed protecting its trade and eco
+## ‘Recall Bihar before 2005’, JD(U) state chief says on Jamui harassment row; RJD alleges ‘goonda raj’
+Kushwaha said the government and administration were looking into the matter and assured that those responsible would be arrested at the earliest.
 
-## Strike from Sep 28-30? Banks may shut for 5 days; SBI, Union Bank issue advisory
-The proposed strike comes immediately after the weekend. September 26 is the second Saturday of the month and is a bank holiday, while September 27, 2026, falls on a Sunday.
+## Gujarat: One killed, 11 injured as speeding Scorpio hits Ambaji-bound group in Sabarkantha
+The victims were walking as part of a padyatra to the shrine for the annual Bhadarvi Poonam fair, which attracts lakhs of devotees from across Gujarat.
 
-## Stock market today: Sensex gains 564 points; Nifty settles above 23,400
+## 57-year-old dairy operator killed after Thar hits scooter in Jaipur
+The deceased body was handed over to his family after a post-mortem examination at SMS Hospital on Sunday afternoon.
 
+## India-New Zealand FTA to come into force on October 20, Piyush Goyal says
+The pact, he said, also facilitates significant investments of USD 20 billion over the next 15 years from New Zealand to India.
 
-## Stocks to buy: What's the outlook for Nifty for September 21-September 25 week? Check list of top stock recommendations
-Stock market recommendations: Indian Hotels Company, and Sona BLW Precision Forgings Ltd are the top stocks to buy recommended by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for September 21, 2026.
+## Goa elderly sisters found dead at home, leave cash for last rites: Police
+It is unclear when and how the two elderly women died. Police said only an autopsy would indicate the cause of death.
 
-## Gold price prediction today: Where is gold headed? Check outlook for September 21, 2026 week
-For gold, the immediate support is placed at Rs 152,000, followed by Rs 149,000–148,200, while resistance is seen at Rs 155,000, Rs 158,300 and Rs 160,000–160,300.
+## Google to report child abuse content directly to Indian authorities: Spokesperson
+Google said on Monday it has agreed to report content flagged as child sexual abuse material (CSAM) to Indian authorities.
 
-## Mahanadi water dispute likely to be resolved soon: Chhattisgarh CM
-The dispute over sharing of Mahanadi waters has continued for more than a decade, with Odisha objecting to the construction of barrages by Chhattisgarh
+## Inter-state gang behind Sagar spurious liquor tragedy: MP Police
+Fake liquor was manufactured at Chandu Raja’s house in Tatarwara and distributed it in neighbouring villages
 
-## 15-yr-old boy shot dead by unknown armed individuals in Manipur’s Tamei: Cop
-Police said the motive behind the attack is still uncertain and those responsible for the incident are yet to be identified
-
-## Kasturirangan opposes Kasturirangan report, seeks ground level survey of Western ghats
-Kasturirangan opposes Kasturirangan report, seeks ground level survey of Western ghats
-
-## 3 arrested, SIT formed, Opposition fumes over Jamui harassment case | Top updates
-Three people have been arrested in connection with the incident and Jamui Police has formed an SIT to investigate the viral video.
-
-## IIT Bombay faculty forum backs professor accused of abetting student suicide
-The forum said Suryanarayan Doolla has not been suspended and continues to be a faculty member of the institute
-
-## Population Foundation urges shift from population control to informed choice, equity
-Population Foundation urges shift from population control to informed choice, equity
-
-## ‘Learn from satire’ vs ‘become comedian’: BJP-Cong showdown over mimicry of PM Modi continues
-The exchange followed a ‘Chhatron ki Gunj’ event, where video of Gandhi laughing after a speaker mentioned Modi’s interaction with an elderly woman went viral.
-
-## 3 Bihar men arrested under Pocso after horrifying video of assault on Jamui teens
-The assault took place on the evening of September 19 in Jamui district, 150km from Patna, when the two teenagers were returning from a local scenic spot
+## Hong Kong developer New World gets nod to spin off K11 Shanghai assets
+New World Development (NWD) received the green light from the Shanghai Stock Exchange to spin off and list a Reit (real estate investment trust) on the bourse, according to the distressed developer controlled by one of Hong Kong’s wealthiest families. The expected offering size for the NWD C-Reit wa
 
 ## Hong Kong stock exchange moves to ease spin-offs and shareholder approval rules
 The Hong Kong stock exchange has proposed easing requirements for listed companies to disclose corporate transactions and seek shareholder approval, while also making it easier for issuers to spin off businesses, according to a consultation paper released on Monday. The 10-week consultation, which r
@@ -126,8 +138,14 @@ Contemporary Amperex Technology Limited’s (CATL) dominance in the Chinese elec
 ## Once the world’s most-visited city, Hong Kong now converts hotels into student dorms
 Late last month, an open tender for Hotel Cozi Harbour View in Kwun Tong was announced, with interested parties given until October 15 to submit bids. The 598-room hotel, located in Hong Kong’s eastern Kowloon Peninsula, a former industrial area, was taken over by Nanyang Commercial Bank for HK$1.87
 
-## 4 mainland Chinese firms jump into cooling Hong Kong IPO market
-Four Chinese companies launched initial public offerings (IPOs) in Hong Kong on Monday, aiming to raise as much as HK$14 billion (US$1.8 billion) in total, with strong backing from cornerstone investors countering apparent weakness in the market so far this month. Automated equipment manufacturer Ro
+## Nuclear Energy Is the Kremlin’s Latest Leverage Over Washington
+The United States has done little to end its dependence on Russia for enriched uranium.
+
+## What Comes After the 1.5 Degree Era
+A single global number asked the world to do everything everywhere all at once—and delivered too little.
+
+## Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.
+It’s time for the U.S. to embrace strategic clarity.
 
 ## How Flávio Bolsonaro Sees the World
 Brazil’s far-right presidential hopeful wants to step up ties with Washington. But like his father, he would struggle to spurn Beijing.
@@ -144,38 +162,32 @@ The candidate perceived as the riskiest choice can sometimes offer the clearest 
 ## Russia’s Parliamentary Elections Offer Rituals, Not Results
 Polling shows that United Russia is all but certain to maintain its power.
 
-## Will Russia Ever Be ‘Normal’?
-Empires inevitably decline, and Putin’s project will be no exception.
+## Busting the Myths of the US Military’s Presence in Hawai‘i
+As land leases come up for renewal, a new report reveals the facts about the U.S. Armed Forces’ impacts in the Pacific Islands.
 
-## What in the World?
-Test yourself on the week of Sept. 12: Modi and Xi meet, the Houthis fire on Saudi Arabia, and EU leaders gather in Finland.
+## Why Egypt Is Looking Beyond Its Trade Deficit With China
+Trade access matters, but investment can also change what Africa produces, where it produces it, and which markets it can serve.
 
-## In War, Trump and Putin Are Much Alike
-Washington is emulating Moscow’s ways of fighting wars—and helping it in the process.
+## Ahead of Trump-Xi Summit, North Korea Launches More Missiles
+On September 20, North Korea fired two short-range ballistic missiles, its second launch in a little over a week.
 
-## What Can Bangladesh PM Tarique Rahman Gain From His Upcoming US Visit?
-In Beijing, he met President Xi. Without a meeting with Trump or clear economic gains, the U.S. visit could fall short of Dhaka's expectations.
+## Tajikistan Eyes ICC Exit
+The move comes a year after Tajikistan’s refusal to arrest Russian President Vladimir Putin brought a formal rebuke from The Hague.
 
-## Malaysian King Approves Imprisoned Former PM Najib’s House Arrest Bid
-The royal pardon is likely to empower the United Malays National Organization (UMNO) and widen the rifts within Prime Minister Anwar Ibrahim's reformist coalition.
+## Why Is Lee Jae-myung’s Approval Rating Dropping?
+Four developments, from the fading Yoon effect to failed nominations, help explain a slide to 37 percent that the South Korean president attributes to his own shortcomings.
 
-## India’s New Eye in the Sky: EOS-05 Satellite and What It Means for South Asia
-EOS-05 is a single satellite that is part of a broader imitative of India to strengthen its ISR capabilities.
+## Why Sri Lanka’s Ruling NPP Has Not Abolished the Executive Presidency Yet
+It is prioritizing economic recovery and establishing accountability of powerful people for past crimes to build the mass support needed to pursue constitutional reform.
 
-## Abroad, India’s RSS Speaks of ‘Love.’ At Home, Its Affiliates Attack Christians.
-From church vandalism to grave desecration, assaults against Christian minorities are increasing in the large state of West Bengal since the BJP, an RSS offshoot, came to power in May.
+## Chinese Data Centers Will Shape ASEAN’s AI Norms
+Southeast Asian governments' reliance on foreign capital, expertise, and capacity could leave them vulnerable over the longer term.
 
-## From Symbolism to Strategy: The Expanding Operational Role of Women in Baloch Militancy
-The motivations of individual women who join militant organizations cannot be reduced to a single explanation. The organizational incentives are easier to identify.
+## Civil Society Groups File Lawsuit Against Indonesian Government Over Kalimantan Wildfires
+The suit accuses President Prabowo Subianto and other senior officials of deliberate negligence for failing to prevent and properly handle the ongoing blazes.
 
-## Shipki La and the Battle Over the History of China-India Trade
-The Chinese narrative attempts to erase the independent agency Tibet exercised before 1951, framing Shipki La as a historical link between China and India (not Tibet and India).
-
-## Infrastructure Gaps Test Pakistan’s Flagship CPEC Industrial Zone, Field Survey Finds
-Even as investment tops 327 billion rupees, firms at Allama Iqbal Industrial City report inadequate wastewater infrastructure, unreliable utilities, and no public transport.
-
-## The Nexperia Case Was Actually a Success. Does Europe Know That?
-A combination of media misunderstandings, Chinese distortions, and Dutch mistakes raise the risk that Europeans draw the wrong conclusions about economic security.
+## Zelensky’s Perception Problem: Are New Partnerships a Solution?
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## Washington’s Foreign Equity Bets Need Better Governance
 What do a rare earth mine in Brazil and a graphite mine in Mozambique have in common? Both have received significant United States government funding. The rub? Neither was subject, when the financing was committed, to the corporate governance standards that American listed companies are: an independ
@@ -197,9 +209,6 @@ The war against Iran is putting new strains on U.S. military readiness by consum
 
 ## An Army General Talks Fusing Sensors and Shooters on the Eastern Flank
 This exclusive Cogs of War interview is with Brig. Gen. Steven P. Carpenter, the commanding general of Multi-Domain Command – Europe, the U.S. Army’s first multi-domain operations command, headquartered at Clay Kaserne in Mainz-Kastel, Germany. Multi-Domain Command – Europe serves as the premier mul
-
-## The Real U.S.-Saudi Nuclear Deal Is Better Than We Thought
-On Aug. 24, 2026, the Trump administration transmitted the text of the U.S.-Saudi nuclear cooperation agreement to Congress. By doing so, the administration triggered the 90-day congressional review process described in the Atomic Energy Act and relaunched a debate about the right approach to intern
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila
-Al-Shaair wears eye black with Akila's name despite being fined for displaying messages about Israel's genocide in Gaza.
+## Ceuta solidarity shirt row: How the crisis engulfed Spanish football
+Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta.
 
-## Why do Sudan’s humanitarian truces keep failing and who is to blame?
-Efforts to bring about humanitarian truces in Sudan hit a dead end as warring factions prioritise battlefield victories.
+## Paramount settles with US states in step towards merger with Warner Bros
+Ellison-led Paramount will avoid daily $7m fee if the $110bn Warner Bros merger closes by September 30.
 
-## Why is the US trying ‘regime change’ again?
-The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway
+## ‘Licence to kill:’ French protests decry police use-of-force bill
+Thousands of protesters across France rallied against a new law they say will give police a "licence to kill”.
 
-## How oil, gas losses have shrunk Iran’s GDP by 10 percent during war
-The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.
+## Airplane makes ‘miracle’ landing as Typhoon Dujuan hits Japan
+A plane landing in Tokyo that one passenger called 'a miracle' ended with applause as Typhoon Dujuan battered Japan.
 
-## Mystery object spotted hovering over Tehran
-A mysterious object filmed hovering over Tehran has sparked online speculation.
+## Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed
+Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed settler
 
-## A simple guide to the Yemen conflict
-Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.
+## How is Europe dealing with ‘hybrid war’?
+European leaders accuse Russia of hybrid warfare.
 
-## Do Israelis feel any safer now than they did on October 6, 2023?
-Despite having rarely been more secure, public concerns about security continue to dominate the election.
+## China expels two top ‘disloyal’ military leaders from Communist Party
+China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.
 
-## Can the US win the AI cold war with China?
-US attempts to slow down Chinese progress on AI through economic restrictions could backfire.
+## State of world getting worse as UN Security Council paralysed: Guterres
+The UN chief's mandate ends on December 31 this year, with a successor yet to be named.
 
 ## UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors
 UPI MDR charges will attract 18% GST, with the tax generally available as input tax credit for businesses making taxable supplies. However, exempt sectors such as hospitals and schools may have to bear the GST as a cost, while thin-margin businesses could see a more visible impact on profitability a
