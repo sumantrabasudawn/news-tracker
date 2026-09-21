@@ -1,46 +1,37 @@
 # AION Intelligence
 
-## Merz’s last chance to reform Germany
-After regional election disaster, the chancellor is living on borrowed time
+## FirstFT: Kremlin-backed forgery operation moved $6.9bn through global banks
+Also in today’s newsletter: China accuses ousted top generals of ‘disloyalty’ and SoftBank launches one of biggest junk bond deals
 
-## OpenAI joins call for US-led global AI standards
-Chief executive Sam Altman will brief the UN Security Council this week following outcry over safety concerns
+## Burnham to call for global effort to control threats posed by AI
+UK prime minister will meet Donald Trump in person for first time at New York UN meeting
 
-## UK flights disrupted by latest air traffic control problem
-National Air Traffic Services says it has fixed a fault at its Prestwick control centre in Scotland that led to dozens of cancellations and delays
+## France calls on EU to take immediate action to lower energy prices
+President Emmanuel Macron also urges European Commission to delay implementation of new methane rules by a year
 
-## Can Democrats seize Congress from Trump?
-The races, the money and the issues that will determine the final half of Trump’s second term
+## Gulf states urge reset with Iran as conflict drags on
+United Arab Emirates calls for ‘new mindset’ while Qatar advocates for regional ‘security framework’
+
+## Crackdown clouds $46bn IPO of world’s biggest derivatives exchange
+Long-delayed debut of the National Stock Exchange of India comes amid rising scrutiny of options trading
+
+## Meta leads tech rally as oil prices fall
+Brent crude sinks amid speculation Donald Trump could meet Iran’s president this week
+
+## UK flights disrupted by another air traffic control problem
+National Air Traffic Services says it fixed a fault at its Prestwick control centre in Scotland that led to service cancellations and delays
+
+## ‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports
+Fuel price crisis triggered by president’s Iran war rattles legislators from rural America’s heartlands
+
+## Kremlin-backed forgery scheme moved $6.9bn through global banks
+FT finds thousands of Russian payments received by Standard Chartered, Citigroup and other international groups in vast leak from inside fintech A7
+
+## Homeowners take £840-a-year mortgage hit from Iran war
+Rising borrowing costs triggered by conflict in Middle East start to impact consumers’ spending power
 
 ## Paramount reaches settlement to clear path for $110bn Warner Bros deal
-Studio will not divest assets and will keep operations in California under terms that could be announced today
-
-## London Fashion Week’s emerging stars are all grown up — almost
-This season, designers such as Paolo Carzana, Talia Byre and Steve O Smith offered more approachable styles — without sacrificing their creative vision
-
-## Changing leader is not the panacea many Lib Dems think it is
-The party faces serious structural problems in an era of growing political polarisation
-
-## Fed will need to be ‘aggressive’ on inflation, says top official
-Austan Goolsbee voices concern that price growth is being fuelled by ‘overheating demand’ on top of Iran supply shock
-
-## Novo’s prospects beyond weight-loss drugs look surprisingly lean
-Despite plans to broaden its business beyond obesity treatments, the Danish group’s guidance is unambitious
-
-## US data centres ‘are short six NYCs of electricity’
-With great power comes great implausibility
-
-## Ferrexpo investors back fundraising to rescue stricken miner
-Shares in the group were suspended from May until this month after it was caught up in tensions between Kyiv and oligarch shareholder
-
-## Ingestible battery offers potential relief for stomach conditions
-Paper-based power source worked for three days in pigs and could help improve drug treatments for humans
-
-## SoftBank launches one of biggest junk bond deals to fund OpenAI bet
-Japanese group seeks to raise more than $11bn in dollar and euro bonds as it invests in the AI boom
-
-## Stop asking AI CEOs what society needs
-Imagine inviting oil companies to design climate policies or car companies to make traffic rules
+Studio will not divest assets and will keep operations in California under agreement with 12 states
 
 ## KAS Group eyes ₹2,500 crore order book in 3 years as semicon equipment demand rises
 Bengaluru group plans ₹250-crore Dholera push for quartz parts as revenue mix shifts from solar to semiconductors
@@ -66,6 +57,18 @@ The stake sale reduces ADIA’s interest in the eyewear retailer, following Soft
 ## India-New Zealand FTA to kick in on Oct 20 with zero tariffs on Indian goods
 The agreement assumes significance amid heightened geopolitical uncertainty and US President Donald Trump’s increasingly unpredictable tariff policy
 
+## New Zealand trade pact to take effect on Oct 20, to give duty-free access
+
+
+## Govt winds up telecom commission
+
+
+## NSE IPO subscribed 5.7x, generates Rs 90.2k crore demand
+
+
+## Interests of charitable trust may differ from that of co: JP Morgan chairman & CEO Jamie Dimon
+
+
 ## ‘Resolve issues through dialogue’: Govt urges bank employees to call off Sept 28-30 stir
 The finance ministry urged bank employees to resolve demands through dialogue. A three-day nationwide strike is planned from September 28 to 30. Unions seek a five-day banking week and withdrawal of the PLI scheme. The government has addressed most concerns and is examining remaining issues. Banks a
 
@@ -78,17 +81,8 @@ A majority of Americans support prohibiting lawmakers from trading stocks. Presi
 ## India plans its own 350 kmph bullet trains by 2030; first B28 trains from 2027
 The entire 508-km Mumbai-Ahmedabad High-Speed Rail corridor is scheduled to be completed by December 2030. But to begin with a small stretch will likely be thrown open in 2027 for which BEML is manufacturing the high-speed train sets that will have a design speed of 280 kmph.
 
-## NSE IPO subscribed 5.7 times as bidding ends, shares to list on September 24
-
-
-## Over $3bn and counting: What's fuelling India's export surge to China?
-
-
-## No UPI above Rs 2,000? MP petrol pumps to stop accepting payments from October 16 over MDR
-
-
-## India-NZ FTA kicks in from Oct 20 with duty-free access for all Indian exports
-
+## Two workers killed in fire at tyre oil factory in UP
+Two workers killed in fire at tyre oil factory in UP
 
 ## Starbucks to open first India global capability centre in Chennai, create 800 high-paying jobs
 CM Vijay said that the trust placed by Starbucks is proof of Tamil Nadu youth's capabilities.
@@ -110,9 +104,6 @@ It is unclear when and how the two elderly women died. Police said only an autop
 
 ## Google to report child abuse content directly to Indian authorities: Spokesperson
 Google said on Monday it has agreed to report content flagged as child sexual abuse material (CSAM) to Indian authorities.
-
-## Inter-state gang behind Sagar spurious liquor tragedy: MP Police
-Fake liquor was manufactured at Chandu Raja’s house in Tatarwara and distributed it in neighbouring villages
 
 ## Hong Kong developer New World gets nod to spin off K11 Shanghai assets
 New World Development (NWD) received the green light from the Shanghai Stock Exchange to spin off and list a Reit (real estate investment trust) on the bourse, according to the distressed developer controlled by one of Hong Kong’s wealthiest families. The expected offering size for the NWD C-Reit wa
@@ -138,6 +129,18 @@ Contemporary Amperex Technology Limited’s (CATL) dominance in the Chinese elec
 ## Once the world’s most-visited city, Hong Kong now converts hotels into student dorms
 Late last month, an open tender for Hotel Cozi Harbour View in Kwun Tong was announced, with interested parties given until October 15 to submit bids. The 598-room hotel, located in Hong Kong’s eastern Kowloon Peninsula, a former industrial area, was taken over by Nanyang Commercial Bank for HK$1.87
 
+## How to Bring Peace to Sudan
+The president of the country’s Transitional Sovereignty Council argues that any solution must be homemade.
+
+## It’s Time to Update the U.N. Sustainable Development Goals
+Countries committed to end poverty. They never accounted for forever wars.
+
+## Trump’s Greenland Deal Is a Pyrrhic Victory at Best
+Washington can still repair some of the damage done.
+
+## The Real Reason Chinese AI Is Winning the Global South
+Beijing is happy to let others build using its tools.
+
 ## Nuclear Energy Is the Kremlin’s Latest Leverage Over Washington
 The United States has done little to end its dependence on Russia for enriched uranium.
 
@@ -149,18 +152,6 @@ It’s time for the U.S. to embrace strategic clarity.
 
 ## How Flávio Bolsonaro Sees the World
 Brazil’s far-right presidential hopeful wants to step up ties with Washington. But like his father, he would struggle to spurn Beijing.
-
-## To Win the Peace, Ukraine Must Cope With Vast Numbers of Veterans
-Ukraine must “build the engine while it’s driving the car,” said Vitalii Kim, the country’s new veterans’ affairs minister.
-
-## Why Iran’s Lego Clips Are Anything but ‘Stupid’
-Marco Rubio should not dismiss this new and highly effective form of propaganda.
-
-## Barack Obama and the ‘Most Electable’ Myth
-The candidate perceived as the riskiest choice can sometimes offer the clearest path to power.
-
-## Russia’s Parliamentary Elections Offer Rituals, Not Results
-Polling shows that United Russia is all but certain to maintain its power.
 
 ## Busting the Myths of the US Military’s Presence in Hawai‘i
 As land leases come up for renewal, a new report reveals the facts about the U.S. Armed Forces’ impacts in the Pacific Islands.
@@ -234,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ceuta solidarity shirt row: How the crisis engulfed Spanish football
-Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta.
+## How thousands of migrants stranded in Ceuta are surviving
+Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.
 
-## Paramount settles with US states in step towards merger with Warner Bros
-Ellison-led Paramount will avoid daily $7m fee if the $110bn Warner Bros merger closes by September 30.
+## Former ‘death squad’ leader appears in military trial in The Gambia
+Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule.
 
-## ‘Licence to kill:’ French protests decry police use-of-force bill
-Thousands of protesters across France rallied against a new law they say will give police a "licence to kill”.
+## Trump speech inaudible as US networks boycott White House event
+US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.
 
-## Airplane makes ‘miracle’ landing as Typhoon Dujuan hits Japan
-A plane landing in Tokyo that one passenger called 'a miracle' ended with applause as Typhoon Dujuan battered Japan.
+## Putin’s party wins supermajority in Russia’s parliamentary election
+Victory of United Russia party strengthens Putin's hand even as the war with Ukraine grows more unpopular.
 
-## Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed
-Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed settler
+## UN Chief Guterres calls for ban on ‘killer robots’
+In this episode of On the Record, UN Secretary-General António Guterres calls for ban on autonomous ‘killer robots’.
 
-## How is Europe dealing with ‘hybrid war’?
-European leaders accuse Russia of hybrid warfare.
+## US man convicted in 2023 shooting of three Palestinian students in Vermont
+Jason Eaton faces up to life in prison after a jury rejected his insanity defence.
 
-## China expels two top ‘disloyal’ military leaders from Communist Party
-China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.
+## FAA halts flights to major US East Coast airports amid outage
+FAA halts East Coast flights due to equipment outage, affecting major US airports like JFK, Newark, and Philadelphia.
 
-## State of world getting worse as UN Security Council paralysed: Guterres
-The UN chief's mandate ends on December 31 this year, with a successor yet to be named.
+## Embattled Gianni Infantino says he is open to talks over FIFA reform
+FIFA president proposes 'consultation' with members to reform world football governing body's decision-making process.
 
 ## UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors
 UPI MDR charges will attract 18% GST, with the tax generally available as input tax credit for businesses making taxable supplies. However, exempt sectors such as hospitals and schools may have to bear the GST as a cost, while thin-margin businesses could see a more visible impact on profitability a
