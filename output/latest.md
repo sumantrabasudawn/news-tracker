@@ -1,70 +1,79 @@
 # AION Intelligence
 
+## EU to lift sanctions on two Russian oligarchs
+Mikhail Fridman and Alisher Usmanov removed from bloc’s list under deal to extend curbs for three years
+
+## Saudi Arabia signals East-West pipeline reopening
+Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes
+
+## New ‘fire amoeba’ breaks heat survival record
+Organism found in California volcanic springs joins club of extremophiles that thrive in most severe environments
+
+## The UK Budget: what does it mean for growth and security?
+Join a webinar for FT subscribers on October 29 and send us your questions
+
+## Paramount wins over US states — but can it win over the bond market?
+The Hollywood studio will emerge from the WBD acquisition with net debt of about $80bn
+
+## Ed Davey promises £17bn tax cuts as he warns Lib Dems are in ‘fight of our lives’
+Party leader outlines plans to increase tax-free personal allowance threshold
+
+## Trump threatens to ‘annihilate’ Iran even as he predicts post-election peace deal
+US president touted administration’s foreign and domestic achievements in address to UNGA
+
+## Soaring diesel prices spur export ban calls from Republican lawmakers
+Also in today’s newsletter, US and China agree to set up ‘AI dialogue’ ahead of high-stakes summit
+
+## Mercedes-Benz aims to close AI gap with China rivals through Wayve deal
+German carmaker will integrate start-up’s autonomous driving system into at least one model to be deployed in next two years
+
+## Warburg Pincus and CD&R near deal to buy Canaccord’s UK wealth division
+Private equity groups are in advanced buyout talks at £1bn-plus valuation as deals wave sweeps sector
+
 ## AI staff complain of mental toll over fears of threat to society
 Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI
 
-## Trump is checking out of his presidency
-With no way out of his war with Iran, he is increasingly obsessed with monuments to himself
-
-## FirstFT: How a Kremlin-backed forgery scheme fooled global banks
-Also in today’s newsletter: North Korea tests new hypersonic weapon and the risks of the yen carry trade
-
-## Racism backlash turns obscure Texas race into Republican flashpoint
-Controversy surrounding campaign for state oil regulator could undermine support for Donald Trump’s party in the midterms
-
-## Audio Gold: the shop that really listens to London’s audiophiles
-The best kit for sound obsessives
-
-## The divide that defines the Lib Dems
-Members in seats where the party is not competitive feel poorly served by its leadership and strategy
-
-## Burnham to press EU chief to let UK participate in ‘Made in Europe’ policy
-British prime minister to hold meeting with European Commission president Ursula von der Leyen
-
-## China spends record amount importing over 1,000 tonnes of gold this year
-World’s second-largest economy shelled out almost $160bn on bullion in eight months to August
+## European fusion start-up pushes for local supply chain as US dominates funding
+Google-backed Proxima Fusion says it will invest in production of crucial material for future power plants in the German state of Lower Saxony
 
 ## Ineos idles three UK chemical plants as gas prices soar
-Sir Jim Ratcliffe-owned conglomerate suspends factories in Hull, which support 4,000 jobs, as oil and gas prices surge on Iran war
+Jim Ratcliffe-owned conglomerate suspends factories in Hull, which employ 300 people, as oil and gas prices surge on Iran war
 
-## US satellite maker Planet Labs opens Berlin factory as military demand booms
-Germany is leading European drive to reduce dependence on America for space-based intelligence, says US group’s CEO
+## Veranda Learning promoters pledge shares for ₹111 crore credit
+‘The agreement is for ₹111 crore loan availed by the promoters in their personal capacity from the lender, secured by a first-ranking and exclusive pledge over certain equity shares of Veranda Learning held by the promoters’
 
-## Banks and fintechs gear up for fight over funding of high street hubs
-Traditional banks want online-only operators to fund hubs required to mitigate branch closures
+## Capgemini expands presence in Coimbatore with a new office at ELCOT IT Park
+This will be the company’s 19th facility in India
 
-## North Korea tests new hypersonic weapon as Kim rebuffs talks
-Upgraded missile system will cause ‘incurable headache’ for regime’s adversaries, leader says
+## EU has found genetically modified organisms in 5 Chinese products this year
+Data show that China has rejected a record 146 shipments between January and June, nearly four times the 38 rejections in 2025
 
-## AI optimism lifts global stocks after Nasdaq nears record high
-Taiwan’s tech-heavy index hits highest level after rising more than 60% this year
+## Aashish Agarwal joins 360 ONE WAM Group as CEO
+360 ONE manages over ₹7.8 lakh crore in assets and serves more than 8,900 families, corporates and institutions
 
-## How France and Luxembourg fatally wounded the EU’s Russia sanctions regime
-Also in this newsletter: how development aid pays back in trade
+## With no resolution to its demand for 5-day banking, Banking unions to go ahead with 3-day strike
+IBA informed that as demanded by the UFBU, the productivity linked incentive scheme for scale IV officers and above has been kept in abeyance as per Government’s instructions
 
-## Samsung India profit falls 36% to 7,228 cr in FY26; mobile revenue declines
-Samsung India Electronics reported revenue from operations of ₹1,11,183.40 crore on a consolidated basis for FY25, and its profit stood at ₹11,287.50 crore
+## Hylenr’s Fusion Technology achieves phase 1 validation at Texas A&M
+Hylenr’s Lattice Confinement Fusion technology passed Phase 1 validation at Texas A&M, showcasing potential breakthroughs in clean energy solutions
 
-## SEBI intends to address concerns over settlement price for derivatives on expiry days: Pandey
-To address market participants' concerns, SEBI floated a consultation paper earlier this month seeking public comments on the proposed changes to the methodology for determining expiry-day settlement prices of index and single-stock derivatives.
+## TRAI mandates wider selection of voice-and-SMS-only plans
+Regulator has mandated shorter-duration voice-and-SMS-only mobile plans, aiming to give low-income and non-data users more affordable recharge options
 
-## Alibaba unveils AI chip to drive global data centre buildout
-The new Zhenwu V900 accelerator triples the performance of its predecessor; can be combined in clusters of up to 500,000 units to power frontier-model training, the CEO says
+## Kharif concerns
+Poor rain and acreage may impact rice, water availability
 
-## India stands out with strongest growth outlook globally: WEF survey
+## Rs 1.79 lakh ITR, Rs 11.22 crore tax addition; ITAT gives chance if he plants 500 trees
+The Assessing Officer examined the taxpayer's financial transactions and identified substantial cash deposits, unsecured loans running into crores and agricultural income of Rs 3 lakh that was not backed by supporting evidence.
+
+## Heavy LHB bogie corrosion worries Railways; toilet leaks, saline air blamed
+Recently senior railway engineers have raised concerns over heavy corrosion in the bogies of LHB passenger coaches, despite the use of materials that are designed to resist corrosion and efforts to strengthen cleaning and maintenance practices.
+
+## The China+1 question: Does India lose if Trump and Xi make peace?
 
 
-## Swan Defence plans to hire 550 people for white-collar and blue-collar roles by March 2027
-The shipyard is in the process of strengthening its teams across new build, repair, and refit operations
+## Diesel prices hit records as Iran, Ukraine wars disrupt fuel supplies
 
-## Aviation ministry puts SpiceJet under operational and financial watch
-Minister Ram Mohan Naidu says safety will not be compromised; carrier has received ₹150 crore under ECLGS as West Asia conflict adds to cash strain
-
-## JSW sets up financing arm for electric trucks, buses
-JSW Greentech CEO Sumit Mittal says company open to PE investment as business scales
-
-## Sajjan Jindal’s JSW eyes top-tier commercial vehicle spot with ₹2,000-crore bet
-Chairman Sajjan Jindal sees acquisitions and an electric-only strategy as key to building a top-three commercial vehicle business and scaling electric truck production towards 100,000 units by 2030
 
 ## Trump's double standards: Russian oil bad for India, Belarusian potash good for US?
 
@@ -75,44 +84,41 @@ Foreign Portfolio Investors (FPIs) are selling again even as Domestic Institutio
 ## Govt rules out festive airfare cap, urges airlines to keep prices reasonable
 
 
-## Heavy LHB bogie corrosion worries Railways; toilet leaks, saline air blamed
-Recently senior railway engineers have raised concerns over heavy corrosion in the bogies of LHB passenger coaches, despite the use of materials that are designed to resist corrosion and efforts to strengthen cleaning and maintenance practices.
-
 ## Mutual funds clock record Rs 87 lakh crore AUM; SIP flows peak at Rs 32,297 crore
 
 
-## Nasdaq hits record high as AI stocks rally; AMD crosses $1 trillion valuation
-Wall Street began the week strongly as technology and AI stocks propelled the Nasdaq higher. Chipmakers led the rally, with several companies seeing significant share price increases. Easing Treasury yields and falling crude oil prices also supported the positive market sentiment. Investors watched 
+## At UNGA, Trump reiterates he ended India-Pakistan war: ‘Shehbaz thanked me for saving 30 million lives’
+Trump, in his UNGA speech, reiterated that he helped end eight wars, including India-Pakistan in May 2025 following the Pahalgam terror attack.
 
-## Gold jumps 60% to Rs 1.57 lakh from Rs 98,000 a year ago; sales fall 15%, coins gain
-In Mumbai's spot market on Monday, gold was trading at Rs 1.57 lakh per 10 grams, including 3% goods and services tax. This was around 60% higher than the Rs 98,000 per 10 grams recorded on Ganesh Chaturthi last year, which fell on August 28.
+## Sikkimese rapper UNB attacked with rods in Arunachal; probe underway: Cops
+UNB rose to prominence through his distinctive hip-hop style and performances, which helped him build a following in Sikkim
 
-## Major milestone for energy exploration: ONGC strikes gas 43 km off Odisha coast
-For the Mahanadi Basin discovery, ONGC's next phase of work will involve additional reservoir appraisal, evaluation of recoverable resources and a commercial assessment. A decision on development will be taken only after these steps are completed.
+## Shift 30 foreign nationals to detention centre, orders Meghalaya HC to state
+A division bench comprising Chief Justice Revati Mohite Dere and justice W Diengdoh issued the direction on Monday
 
-## 53 IIT student deaths in 5 years, over 50% from SC, ST, OBC groups: Data
-The figures – which include 45 suicides and eight unnatural deaths – are in line with student intake from these marginalised groups in the government-owned institutions.
+## Pakistan must act on cross-border terror before world trusts its words: MEA
+During a visit to Peshawar, Army Chief Asim Munir reaffirmed the military's commitment to combating terrorism.
 
-## Can be done decently, says BJP Jamui MLA Shreyasi Singh on ‘moral policing’; slammed by Opposition
-Remarks by BJP's Shreyasi Singh on the alleged harassment of two minors in Bihar's Jamui triggered a political row on Tuesday.
+## Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast
+Cyclone ‘Arnab’ updates: A deep depression will cross the north Andhra Pradesh-south Odisha coasts between Visakhapatnam and Gopalpur.
 
-## Bittu Tabahi, famed for cleaning a trash-filled MP river, now tackles Gurugram roads
-One of the latest videos on the Instagram handle of Surendra Singh Choudhry, widely known as "Bittu Tabahi," documents his team tackling waste in Gurugram.
+## India strongly condemns Pakistani airstrikes on Afghanistan: 'Such aggression goes against regional peace'
+India also affirmed its support for Afghanistan, its sovereignty and territorial integrity.
 
-## CDSCO finds one spurious drug sample in Delhi, 220 NSQs in Aug surveillance
-The failed samples during routine regulatory surveillance included 29 tested by the Central Drugs Laboratories
+## Not liable for every DMK social media post: Stalin to HC on Aadhav Arjuna plea
+MK Stalin also denied instructing or approving a social media post in June this year by the DMK IT Wing that linked Arjuna to John Britto
 
-## Nandan Yadav, masked attacker in Jamui viral clip shot in leg, 3 more held for circulating video
-Jamui viral video: Police said Nandan Yadav was shot in the leg in an encounter when he attacked the police team and tried to flee
+## Shastri Bhawan, Krishi Bhawan asked to vacate by Sept end for new Kartavya Bhawan
+The two buildings were built in the post-Independence expansion phase of the Central Secretariat in the 1950s and 60s
 
-## India joins EU, Australia, Brazil, Canada to launch multilateralism platform
-Jaishankar emphasised the need for collaborative efforts to address issues such as international security, climate justice
+## China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI
+Chinese chipmaker Hygon Information Technology on Tuesday launched a suite of central processing units (CPUs) for robotics and industrial edge devices, expanding beyond cloud computing and into the fast-growing market for physical artificial intelligence. The firm unveiled its Hygon 1000 series proc
 
-## ‘Bring your mothers, sisters’: BJP MLA on Muslims coming for garba during Navratri, draws ire
-After the outrage, the MLA clarified his remarks and said that garba and the festival of Navratri is not “entertainment” but “worship of Maa Jagdamba”.
+## Some family offices eyeing Chinese investments as US-China tensions ease: report
+Ultra-wealthy families in Europe, the Middle East and Africa view China as their most favoured market for future investments, as concerns over tensions between Beijing and Washington ease, according to a survey by Citigroup. The latest edition of the Global Family Office Report, published on Tuesday
 
-## ‘Discrepancies’: Mamata faction seeks BJP candidate’s nomination cancellation
-BJP leader Sisir Bajoria said if there are any discrepancies, they should file a complaint with the Election Commission of India
+## China’s Huawei trims mobile chip gap with Apple as Tau Scaling Law pays off: Bernstein
+Huawei Technologies’ latest smartphone processor, the Kirin 9050 Pro, unveiled earlier this month, has narrowed its gap with Apple’s chips to about three years, from roughly four years in the previous generation, according to equity research firm Bernstein. The chip, which Bernstein estimated was pr
 
 ## Amazon and Shorea Capital deals underscore foreign interest in commercial property
 Foreign investors continue to pile into Hong Kong’s commercial real estate, with a unit of online retail giant Amazon and Singapore-headquartered Shorea Capital among the latest to snap up assets, according to agents. Shorea won the tender for The Pemberton, a mixed office and retail property in She
@@ -129,14 +135,14 @@ Television maker Hisense Group Holdings’ optical communications unit made a st
 ## Hong Kong stocks eye fresh inflows from mainland China’s insurers sitting on US$6 trillion
 Hong Kong’s stock market is getting a dose of optimism from mainland China’s 41 trillion yuan (US$6.1 trillion) insurance industry, as some insurers are widely speculated to have bought exchange-traded funds (ETFs) in the city one month after regulators approved such purchases. Market observers high
 
-## More than 8 in 10 people across Asia have delayed their medical care, report finds
-Many people across Asia are generally positive about their healthcare experiences, according to research by Economist Impact, commissioned by Prudential. However, the report also found that satisfaction levels vary widely across markets, with more than 80 per cent admitting they have delayed seeking
+## Washington Should Embrace Space Warfare
+Space is already becoming militarized. The U.S. shouldn’t let adversaries take the lead.
 
-## What Saudi Arabia’s exit means for China-led mBridge amid global de-dollarisation
-Saudi Arabia’s withdrawal from a China-led digital currency platform would carry greater symbolic than operational significance, analysts say, highlighting pressures facing countries caught between US influence and alternatives to dollar-based payments infrastructure. In a response to inquiries from
+## Japan’s New CIA Could Be Takaichi’s Trump Card
+After decades of reticence, Tokyo is expanding its intelligence gathering abroad.
 
-## Despite higher costs, Hong Kong’s student residences attract mainland Chinese renters
-Purpose-built student accommodation is drawing mainland Chinese university students away from Hong Kong’s traditional rental market, as professionally managed residences gain favour despite charging higher rents than many private flats. Some students said dedicated student housing offered greater co
+## Will Inuit in Canada Turn to China?
+Amid strained ties with Ottawa, some Indigenous leaders are suggesting that they may pursue new partnerships.
 
 ## Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China
 The sanctions could trigger a trade war between Washington and Beijing.
@@ -152,15 +158,6 @@ The race for the new U.N. secretary-general, a Trump-Xi side quest, and runaway 
 
 ## How to Bring Peace to Sudan
 The president of the country’s Transitional Sovereignty Council argues that any solution must be homemade.
-
-## It’s Time to Update the U.N. Sustainable Development Goals
-Countries committed to end poverty. They never accounted for forever wars.
-
-## Trump’s Greenland Deal Is a Pyrrhic Victory at Best
-Washington can still repair some of the damage done.
-
-## The Real Reason Chinese AI Is Winning the Global South
-Beijing is happy to let others build using its tools.
 
 ## Reciprocal Trade Deal With the US Close to Completion, Vietnamese Media Reports
 Hanoi's top leader To Lam met yesterday with U.S. Trade Representative Ambassador Jamieson Greer in New York, where he is set to attend the U.N. General Assembly.
@@ -234,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Man shot by ICE agent is in detention with bullet in his back
-Man shot by ICE agent is in detention with bullet in his back
+## What’s behind French protests against a new police bill?
+Critics say controversial law will give police officers a 'licence to kill'.
 
-## Why United Nations says US boat strikes may be ‘crimes against humanity’
-Washington justifies the attacks as necessary to halt the flow of lethal drugs into the US.
+## Why are the Houthis fighting for Yemen’s Kahboub Mountains?
+Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes.
 
-## What Syrians want from al-Sharaa’s proposal of a ‘new Syria’ at UNGA
-As President al-Sharaa is set to present a ‘new Syria’ at UNGA, Syrians at home demand safety and justice.
+## UN Chief condemns Gaza destruction, West Bank settlements
+In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza.
 
-## India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final
-Sri Lanka were bowled out for 69 runs, 10 less than Mandhana's belligerent match-winning innings as India retained gold.
+## Where is the US opening new military bases in Greenland?
+At least two new US bases will be established as part of a deal with Denmark and Greenland.
 
-## Attacker opens fire near high school in western Turkiye, wounding 11
-Police arrest suspect after shooting near high school; injured people rushed to local hospitals for treatment.
+## Jerusalem Daily: Israel besieges Palestinian town
+Israeli forces have effectively turned the Palestinian town of Biddu into military barracks.
 
-## ‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation
-Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.
+## Ex-Rwandan official appears at UK trial over 1994 genocide
+Prosecutors allege Vincent Brown incited and directed acts of violence during the early days of the Rwandan genocide.
 
-## Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit
-Overnight missile and drone attacks hit several Ukrainian regions as world leaders gather in New York, US.
+## Colombia eases gun restrictions despite fears of more violence
+Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.
 
-## Why young people are paying to get hired
-Why is the entry level job market so broken?
+## Iran delegation to present narrative of resilience, diplomacy at UNGA
+Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.
+
+## ICAI rolls out SSA 5000 to align India’s sustainability assurance with global norms from April 2027
+New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; applicable to financial years beginning on or after April 1, 2027.
 
 ## UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors
 UPI MDR charges will attract 18% GST, with the tax generally available as input tax credit for businesses making taxable supplies. However, exempt sectors such as hospitals and schools may have to bear the GST as a cost, while thin-margin businesses could see a more visible impact on profitability a
@@ -266,9 +266,6 @@ Proposals likely to include measured deregulation of non assurance services, wid
 
 ## Why Do India’s Best Boards Fail? The Structural Flaws that Corporate Law Ignores
 Tata Sons and ICICI Bank represent two contrasting governance models, yet both have faced boardroom crises. Dr. Ashok Haldia, former Secretary, ICAI, examines whether such episodes expose deeper weaknesses in India’s corporate governance framework, questioning the limits of board independence, promo
-
-## ICAI rolls out SSA 5000 to align India’s sustainability assurance with global norms from April 2027
-New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; applicable to financial years beginning on or after April 1, 2027.
 
 ## FMCG firms to hold prices despite rise in commodity costs; prioritise volume growth
 FMCG cos are likely to hold prices through the festive season despite rising commodity costs and geopolitical disruptions. After modest 2-5% price hikes, firms are prioritising consumer demand and volume growth over margins. Industry executives said cost management and operational efficiencies will 
@@ -281,6 +278,9 @@ India has been in talks with the US over the past few months, conveying the poss
 
 ## Tata Sons vs Trusts may shift from boardroom to courtroom
 Tata Trusts, led by Noel Tata, is preparing to challenge Tata Sons’ decision to reappoint N Chandrasekaran as chairman, potentially taking the escalating dispute to the NCLT or Bombay High Court. The Trusts has called the reappointment resolution “null and void ab initio” and is awaiting Tata Sons’ 
+
+## India co-sponsors inaugural partners for multilateralism summit at UN
+India co-sponsored a UN summit on multilateralism, stressing participative deliberations. Leaders met as the global order faces significant stress and geopolitical tensions. They discussed addressing crises like fuel, food, and finance through cooperation. Reformed multilateralism is essential for s
 
 ## Indian bonds steady as RBI rate hike expectations strengthen
 Bond yields for Indian government securities showed little fluctuation as markets brace for ongoing liquidity withdrawals. Specifically, the yield for the benchmark 2036 bond settled at about 7.05% during early trading on Tuesday. With retail inflation rising to 4.82% in August, expectations mount f
@@ -299,7 +299,4 @@ The Securities and Exchange Board of India's (SEBI) proposed changes to the sett
 
 ## NSE IPO: SEBI chief says no proposal from National Stock Exchange seeking approval for trading on its own platform
 Since the issue is an OFS, NSE itself will not get any of the funds raised. After deducting issue expenses, the proceeds will go to the shareholders selling their shares.
-
-## 295% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.95 lakh
-Sovereign Gold Bond: The Reserve Bank of India has revealed the early redemption price for a gold bond series known as SGB 2019-20 Series IV. Starting from September 17, 2026, investors are eligible to redeem this bond after five years. The redemption price will be determined based on the average go
 
