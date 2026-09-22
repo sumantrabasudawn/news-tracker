@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Trump presses Zelenskyy to stop hitting Russian refineries
+US president tells Ukrainian leader in phone call it is all about ‘diesel, diesel, diesel’, according to officials
+
+## ‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports
+Fuel price crisis triggered by president’s Iran war rattles legislators from rural America’s heartlands
+
+## UK to provide military support to Saudi Arabia in its fight with Houthi rebels
+Britain to deploy RAF aircraft offering ‘defensive air-to-air refuelling’ capability to the kingdom
+
+## UK workers to receive two weeks of unpaid leave for bereavement
+Change in definition of those eligible will bring law ‘into the 21st century’
+
+## US news outlets to sue Trump administration over White House ban
+Media groups vow to protect First Amendment rights after reporters’ access was withdrawn
+
 ## FirstFT: Kremlin-backed forgery operation moved $6.9bn through global banks
 Also in today’s newsletter: China accuses ousted top generals of ‘disloyalty’ and SoftBank launches one of biggest junk bond deals
 
@@ -8,9 +23,6 @@ UK prime minister will meet Donald Trump in person for first time at New York UN
 
 ## France calls on EU to take immediate action to lower energy prices
 President Emmanuel Macron also urges European Commission to delay implementation of new methane rules by a year
-
-## Gulf states urge reset with Iran as conflict drags on
-United Arab Emirates calls for ‘new mindset’ while Qatar advocates for regional ‘security framework’
 
 ## Crackdown clouds $46bn IPO of world’s biggest derivatives exchange
 Long-delayed debut of the National Stock Exchange of India comes amid rising scrutiny of options trading
@@ -21,17 +33,8 @@ Brent crude sinks amid speculation Donald Trump could meet Iran’s president th
 ## UK flights disrupted by another air traffic control problem
 National Air Traffic Services says it fixed a fault at its Prestwick control centre in Scotland that led to service cancellations and delays
 
-## ‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports
-Fuel price crisis triggered by president’s Iran war rattles legislators from rural America’s heartlands
-
 ## Kremlin-backed forgery scheme moved $6.9bn through global banks
 FT finds thousands of Russian payments received by Standard Chartered, Citigroup and other international groups in vast leak from inside fintech A7
-
-## Homeowners take £840-a-year mortgage hit from Iran war
-Rising borrowing costs triggered by conflict in Middle East start to impact consumers’ spending power
-
-## Paramount reaches settlement to clear path for $110bn Warner Bros deal
-Studio will not divest assets and will keep operations in California under agreement with 12 states
 
 ## KAS Group eyes ₹2,500 crore order book in 3 years as semicon equipment demand rises
 Bengaluru group plans ₹250-crore Dholera push for quartz parts as revenue mix shifts from solar to semiconductors
@@ -57,10 +60,22 @@ The stake sale reduces ADIA’s interest in the eyewear retailer, following Soft
 ## India-New Zealand FTA to kick in on Oct 20 with zero tariffs on Indian goods
 The agreement assumes significance amid heightened geopolitical uncertainty and US President Donald Trump’s increasingly unpredictable tariff policy
 
+## GST rate rejig helps consumers upgrade
+
+
+## MS expands India capacity for cloud and AI services
+
+
+## Small-city ecomm surges, order values trail big markets
+
+
 ## New Zealand trade pact to take effect on Oct 20, to give duty-free access
 
 
 ## Govt winds up telecom commission
+
+
+## Starbucks to set up GCC in Chennai
 
 
 ## NSE IPO subscribed 5.7x, generates Rs 90.2k crore demand
@@ -68,18 +83,6 @@ The agreement assumes significance amid heightened geopolitical uncertainty and 
 
 ## Interests of charitable trust may differ from that of co: JP Morgan chairman & CEO Jamie Dimon
 
-
-## ‘Resolve issues through dialogue’: Govt urges bank employees to call off Sept 28-30 stir
-The finance ministry urged bank employees to resolve demands through dialogue. A three-day nationwide strike is planned from September 28 to 30. Unions seek a five-day banking week and withdrawal of the PLI scheme. The government has addressed most concerns and is examining remaining issues. Banks a
-
-## Retired man deposits Rs 1.33 crore, files no ITR; taxman sends notice, here is what ITAT said
-The Income Tax Department also noted that the individuals had not filed an income tax return (ITR) for the relevant year. This meant the department did not have details of the income he had earned during the period under scrutiny.
-
-## Trump traded more securities than all Congress; backs stock-buying ban for all Congress lawmakers, but not president
-A majority of Americans support prohibiting lawmakers from trading stocks. President Donald Trump himself backed a ban that would restrict members of Congress but leave him outside its scope.
-
-## India plans its own 350 kmph bullet trains by 2030; first B28 trains from 2027
-The entire 508-km Mumbai-Ahmedabad High-Speed Rail corridor is scheduled to be completed by December 2030. But to begin with a small stretch will likely be thrown open in 2027 for which BEML is manufacturing the high-speed train sets that will have a design speed of 280 kmph.
 
 ## Two workers killed in fire at tyre oil factory in UP
 Two workers killed in fire at tyre oil factory in UP
@@ -105,6 +108,15 @@ It is unclear when and how the two elderly women died. Police said only an autop
 ## Google to report child abuse content directly to Indian authorities: Spokesperson
 Google said on Monday it has agreed to report content flagged as child sexual abuse material (CSAM) to Indian authorities.
 
+## Despite higher costs, Hong Kong’s student residences attract mainland Chinese renters
+Purpose-built student accommodation is drawing mainland Chinese university students away from Hong Kong’s traditional rental market, as professionally managed residences gain favour despite charging higher rents than many private flats. Some students said dedicated student housing offered greater co
+
+## China’s MLCC market splits in 2 as AI server demand outpaces consumer electronics
+In China’s hardware hub in Shenzhen, the speculative frenzy around consumer multilayer ceramic capacitors (MLCCs) has cooled into a sharp price correction, but prices for artificial intelligence server components remain elevated. Spot prices for consumer-grade MLCCs, often dubbed the “the rice of th
+
+## Swire Coca-Cola gets robots for heavy lifting in satisfying Chinese consumers’ thirst
+Chinese consumers are demanding more variety from the drinks sections in their local stores, and Swire Coca-Cola is employing robots to help quench this increasingly diversified thirst. The company began using a robotic system for order picking this month in a factory in Zhengzhou, capital of centra
+
 ## Hong Kong developer New World gets nod to spin off K11 Shanghai assets
 New World Development (NWD) received the green light from the Shanghai Stock Exchange to spin off and list a Reit (real estate investment trust) on the bourse, according to the distressed developer controlled by one of Hong Kong’s wealthiest families. The expected offering size for the NWD C-Reit wa
 
@@ -120,14 +132,14 @@ US-China biotech deals are expected to thrive because Washington is reportedly l
 ## Asia investors demand AI revenue proof as focus shifts from exposure to earnings: BofA
 Investors in Asia are demanding clearer evidence that artificial intelligence can translate into revenue and earnings, rather than simply seeking exposure to the technology, as the sector moves into a more mature phase, according to Chris Oberoi, head of Asia-Pacific research at Bank of America (Bof
 
-## Why a hawkish US Fed won’t derail Hong Kong’s property recovery
-The Hong Kong Monetary Authority, the city’s de facto central bank, probably anticipated the rise in US interest rates last week. However, it is unlikely it foresaw the extent to which the Federal Reserve shifted in a hawkish direction. Even Fed watchers were surprised by the unanimous vote to incre
+## UNGA Convenes With Uncertainty on the Horizon
+This year’s high-level gathering takes place as the Guterres era approaches its end.
 
-## Despite stock stress, CATL likely to retain EV battery dominance in China, analysts say
-Contemporary Amperex Technology Limited’s (CATL) dominance in the Chinese electric vehicle (EV) market is unlikely to slump over the coming year given its brand recognition and edge in technology, analysts said, though its shares have already tumbled amid the battle with profit-squeezed EV makers. C
+## Trump Announces Deal for ‘Permanent Control’ Over Greenland’s Security
+What will the agreement mean for NATO?
 
-## Once the world’s most-visited city, Hong Kong now converts hotels into student dorms
-Late last month, an open tender for Hotel Cozi Harbour View in Kwun Tong was announced, with interested parties given until October 15 to submit bids. The 598-room hotel, located in Hong Kong’s eastern Kowloon Peninsula, a former industrial area, was taken over by Nanyang Commercial Bank for HK$1.87
+## Your 2026 UNGA Primer
+The race for the new U.N. secretary-general, a Trump-Xi side quest, and runaway AI fears.
 
 ## How to Bring Peace to Sudan
 The president of the country’s Transitional Sovereignty Council argues that any solution must be homemade.
@@ -144,14 +156,14 @@ Beijing is happy to let others build using its tools.
 ## Nuclear Energy Is the Kremlin’s Latest Leverage Over Washington
 The United States has done little to end its dependence on Russia for enriched uranium.
 
-## What Comes After the 1.5 Degree Era
-A single global number asked the world to do everything everywhere all at once—and delivered too little.
+## When Xi Visits Washington, Trump Must Raise China’s ‘Ethnic Unity’ Law
+Trump should raise the ethnic unity law directly with Xi and make clear that attempts to enforce it against people in the United States will not be tolerated.
 
-## Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.
-It’s time for the U.S. to embrace strategic clarity.
+## Why Indonesians Feel Increasingly Bitter Today
+Indonesia’s rising public anger reflects deeper structural pressures – from elite impunity to digital manipulation – eroding trust in democratic institutions.
 
-## How Flávio Bolsonaro Sees the World
-Brazil’s far-right presidential hopeful wants to step up ties with Washington. But like his father, he would struggle to spurn Beijing.
+## Why Bangladesh Skipped the Delhi BRICS Summit
+What the decision means (and doesn't mean) for Bangladesh-India relations.
 
 ## Busting the Myths of the US Military’s Presence in Hawai‘i
 As land leases come up for renewal, a new report reveals the facts about the U.S. Armed Forces’ impacts in the Pacific Islands.
@@ -167,15 +179,6 @@ The move comes a year after Tajikistan’s refusal to arrest Russian President V
 
 ## Why Is Lee Jae-myung’s Approval Rating Dropping?
 Four developments, from the fading Yoon effect to failed nominations, help explain a slide to 37 percent that the South Korean president attributes to his own shortcomings.
-
-## Why Sri Lanka’s Ruling NPP Has Not Abolished the Executive Presidency Yet
-It is prioritizing economic recovery and establishing accountability of powerful people for past crimes to build the mass support needed to pursue constitutional reform.
-
-## Chinese Data Centers Will Shape ASEAN’s AI Norms
-Southeast Asian governments' reliance on foreign capital, expertise, and capacity could leave them vulnerable over the longer term.
-
-## Civil Society Groups File Lawsuit Against Indonesian Government Over Kalimantan Wildfires
-The suit accuses President Prabowo Subianto and other senior officials of deliberate negligence for failing to prevent and properly handle the ongoing blazes.
 
 ## Zelensky’s Perception Problem: Are New Partnerships a Solution?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -225,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Here’s what to pay attention to at the UNGA
+World leaders arrive for UNGA 81 as wars multiply and trust erodes in global institutions. Emma Withrow explains.
+
+## Trump returns to the UN, what will he say?
+Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.
+
+## UK to refuel Saudi jets to help counter Houthi attacks
+British Prime Minister Andy Burnham says he has agreed to a request for 'defensive' air-to-air refuelling of Saudi jets.
+
+## Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo
+Storm is moving northeast away from Japan's eastern coast into the Pacific, leaving a path of destruction behind.
+
+## Morocco’s youth take Gen Z protest demands to the polls
+Young candidates hope the election can turn youth frustration into political participation.
+
+## Mali marks independence amid a worsening security crisis
+The 66th anniversary comes as armed groups expand their reach and the government struggles to secure key supply routes.
+
+## Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region
+The IRGC says the US and Israel "must accept the region's freedom from their vile and criminal presence".
+
 ## How thousands of migrants stranded in Ceuta are surviving
 Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.
-
-## Former ‘death squad’ leader appears in military trial in The Gambia
-Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule.
-
-## Trump speech inaudible as US networks boycott White House event
-US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.
-
-## Putin’s party wins supermajority in Russia’s parliamentary election
-Victory of United Russia party strengthens Putin's hand even as the war with Ukraine grows more unpopular.
-
-## UN Chief Guterres calls for ban on ‘killer robots’
-In this episode of On the Record, UN Secretary-General António Guterres calls for ban on autonomous ‘killer robots’.
-
-## US man convicted in 2023 shooting of three Palestinian students in Vermont
-Jason Eaton faces up to life in prison after a jury rejected his insanity defence.
-
-## FAA halts flights to major US East Coast airports amid outage
-FAA halts East Coast flights due to equipment outage, affecting major US airports like JFK, Newark, and Philadelphia.
-
-## Embattled Gianni Infantino says he is open to talks over FIFA reform
-FIFA president proposes 'consultation' with members to reform world football governing body's decision-making process.
 
 ## UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors
 UPI MDR charges will attract 18% GST, with the tax generally available as input tax credit for businesses making taxable supplies. However, exempt sectors such as hospitals and schools may have to bear the GST as a cost, while thin-margin businesses could see a more visible impact on profitability a
