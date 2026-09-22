@@ -1,43 +1,37 @@
 # AION Intelligence
 
-## Macron calls on Russia and Ukraine to halt strikes on energy infrastructure
-French president says there must be ‘double moratorium’ on energy and civilian attacks as fuel prices soar
+## Labour MPs call for end to loophole that trimmed billionaire’s tax bill by £18mn
+Quadrature Capital’s Suneil Setiya would have been liable for higher rate of stamp duty had he not bought five flats together with London mansion
+
+## US and Iran hold first talks since June as Trump threatens ‘annihilation’
+President says Steve Witkoff and Jared Kushner had ‘good meeting’ with Iranian delegation on the sidelines of the UN gathering
 
 ## Trump says he would back US diesel export ban
 President’s support for suspending foreign sales comes as conflicts in Middle East and Ukraine send price of vital fuel soaring
 
-## Royal Caribbean nears deal for Sandals valuing resorts at more than $6bn
-Transaction would be largest in cruise operator’s history as it moves to cater to tourists on land as well as sea
-
 ## Trump rejects ‘globalist scheme’ to control AI in blow to Burnham
 President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’
 
-## Trump threatens to ‘annihilate’ Iran in UN speech as officials hold bilateral meeting
-US president says Americans held ‘very good meeting’ with delegation from Tehran
+## Nasdaq 100 rises to new high as ‘AI Fomo’ returns
+Tech-heavy index recovers from summer sell-off
+
+## Top UK graft prosecutors joined Trump’s Venezuela oil baron during Swiss probe
+Alejandro Betancourt was previously wanted by authorities in Switzerland as part of a money-laundering investigation
+
+## US government and Gulf billionaires back Todd Boehly bid for Lukoil assets
+Consortium aims to unseat Carlyle, which struck deal to buy Russian group’s international business in January
+
+## Turkish dismay
+The ‘Ponzi-like scheme’ making waves on the Bosphorus
+
+## Anthropic and OpenAI release cheaper models as price war intensifies
+New Claude and ChatGPT tools slash costs from earlier versions while promising better performance
+
+## Royal Caribbean nears deal for Sandals valuing resorts at more than $6bn
+Transaction would be largest in cruise operator’s history as it moves to cater to tourists on land as well as sea
 
 ## US proposes $10bn fund with Arab allies to bypass Hormuz
 Trump is in discussions about a fund that would build new energy infrastructure across the Middle East
-
-## Airtel Money poised to launch one of London’s biggest IPOs in recent years
-African mobile payments group to file paperwork as early as this week as it looks to raise $800mn at $8bn-$9bn valuation
-
-## EU to lift sanctions on two Russian oligarchs
-Mikhail Fridman and Alisher Usmanov removed from bloc’s list under deal to extend curbs for three years
-
-## Anthropic releases cheaper AI model ahead of IPO
-New Claude model sharpens Anthropic’s pitch to investors ahead of blockbuster listing
-
-## The next generation of American scientists is fading away
-While the Trump administration racks up ‘wins’ in its anti-woke crusade, the US is eroding its talent pipeline
-
-## US fighter jet crashes in Germany
-Pilot injured in latest incident involving military aircraft
-
-## Saudi Arabia signals East-West pipeline reopening
-Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes
-
-## Paramount wins over US states — but can it win over the bond market?
-The Hollywood studio will emerge from the WBD acquisition with net debt of about $80bn
 
 ## Trump signs Arctic security agreement with Denmark and Greenland, keeps island under Danish control
 
@@ -135,29 +129,29 @@ US asset manager BlackRock has obtained Qualified Domestic Institutional Investo
 ## Hisense unit gains in Hong Kong debut amid rush of mainland Chinese corporate spin-offs
 Television maker Hisense Group Holdings’ optical communications unit made a steady debut in Hong Kong after raising HK$5.6 billion (US$714 million), adding momentum to a fresh wave of mainland Chinese conglomerates spinning off business units to tap overseas capital and support technology expansion.
 
+## A Tale of Two UNGA Speeches
+U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General António Guterres called for peace and multilateralism.
+
+## Trump Threatens to ‘Annihilate’ Iran in U.N. Speech
+Such warnings—on the U.N. stage, no less—could be considered war crimes.
+
+## Xi Comes to Washington Armed With a Rare-Earth Card
+Trump still doesn’t have an answer to China’s leverage.
+
+## The West Is Sending Russia the Wrong Signals
+Europe’s fear of escalation is encouraging Putin.
+
+## Don’t Expect Fireworks From the Trump-Xi Summit
+Trade, minerals, and AI are on the agenda, but breakthroughs are unlikely.
+
+## How AI Fits Into Humanity’s Troubling History
+Like nuclear weapons, AI was born of human ingenuity. But its challenges are unique.
+
 ## How Canada Is Navigating Trump’s Threats
 A conversation with Foreign Minister Anita Anand.
 
 ## ‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety
 A conversation with the multilateral institution’s top tech envoy.
-
-## Washington Should Embrace Space Warfare
-Space is already becoming militarized. The U.S. shouldn’t let adversaries take the lead.
-
-## Japan’s New CIA Could Be Takaichi’s Trump Card
-After decades of reticence, Tokyo is expanding its intelligence gathering abroad.
-
-## Will Inuit in Canada Turn to China?
-Amid strained ties with Ottawa, some Indigenous leaders are suggesting that they may pursue new partnerships.
-
-## Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China
-The sanctions could trigger a trade war between Washington and Beijing.
-
-## UNGA Convenes With Uncertainty on the Horizon
-This year’s high-level gathering takes place as the Guterres era approaches its end.
-
-## Trump Announces Deal for ‘Permanent Control’ Over Greenland’s Security
-What will the agreement mean for NATO?
 
 ## America’s AI Safety Dilemma and at the Trump-Xi Summit
 Washington will not slow its own AI labs. Slowing China’s instead would look like safety policy, but it could cost the United States the one AI deal within reach this week.
@@ -183,6 +177,9 @@ The number of Hindu-Muslim clashes is growing as India’s brand of Hindu majori
 ## Cambodia’s Online Scamming Crackdown Stops at the Top
 This week's international anti-scam conference is an attempt to distract global attention from Phnom Penh's abetment of criminality on an industrial scale.
 
+## What the End of Operation Inherent Resolve Means for Iraq and Syria
+Operation Inherent Resolve is scheduled to end on Sept. 30, as remaining U.S. troops in northern Iraq complete their withdrawal. The United States formed Combined Joint Task Force – Operation Inherent Resolve in October 2014 to bring together partners to combat the Islamic State of Iraq and the Leva
+
 ## Missed the Marque: Cyber Privateers Wanted, Compensation to Be Determined
 Coverage of the new White House memorandum on combating cybercrime quickly reached the privateer label. CNN called the participants “cyber privateers,” invoking the image of government-sanctioned raiders working the high seas of cyberspace, hauling in digital booty. The reality is considerably less 
 
@@ -203,9 +200,6 @@ Washington is preparing for the right war, but in the wrong theater. For years, 
 
 ## Latin America’s Balancing Act: Washington, Beijing, and the Post-Maduro Environment
 The year 2026 has brought sweeping change to Latin America’s relationship with the United States. Following a major military buildup in the Caribbean and strikes against vessels suspected of drug trafficking, U.S. forces captured Venezuelan President Nicolás Maduro on Jan. 3 — unilaterally deposing 
-
-## A Body Blow? The War on Iran and U.S. Military Readiness
-The war against Iran is putting new strains on U.S. military readiness by consuming munitions and missile defense interceptors, as well as through extended deployments, sustained operational demands, and the diversion of forces and attention from other theaters. Mark Cancian (Center for Strategic an
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Qatar denounces Israeli aggression across the region
-Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries.
+## Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?
+Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.
 
-## What led to the 1994 Tutsi Genocide in Rwanda
-A British doctor accused of killing people during the 1994 genocide against the Tutsi in Rwanda has been charged.
+## US Republican calls for probe into Donald Trump Jr’s business dealings
+US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable.
 
-## Erdogan accuses Israel of ‘genocidal mindset’ at UNGA
-Turkish President Recep Tayyip Erdogan accused Israel of a “genocidal mindset” at the UN General Assembly.
+## Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel
+Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.
 
-## Is Ethiopia heading towards renewed civil war?
-Seven armed groups announce alliance to topple government.
+## US signs ‘tremendous’ security deal with Denmark and Greenland
+Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland.
 
-## UN Goodwill Ambassador: Millions of refugee children missing school
-Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees.
+## Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’
+Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator.
 
-## Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’
-Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran.
+## Macron: France won’t ‘yield an inch’ on Ukraine support
+French President Emmanuel Macron says the “coalition of the willing" will not back down in its support of Ukraine.
 
-## US signs ‘tremendous’ Arctic security deal with Denmark, Greenland
-NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland.
+## Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis
+Saudi monarch's rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.
 
-## Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’
-Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN.
+## Trump: US-Iran meeting at UN was ‘very good’
+US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN.
 
 ## ICAI rolls out SSA 5000 to align India’s sustainability assurance with global norms from April 2027
 New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; applicable to financial years beginning on or after April 1, 2027.
