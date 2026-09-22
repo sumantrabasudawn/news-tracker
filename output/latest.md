@@ -1,67 +1,70 @@
 # AION Intelligence
 
+## Macron calls on Russia and Ukraine to halt strikes on energy infrastructure
+French president says there must be ‘double moratorium’ on energy and civilian attacks as fuel prices soar
+
+## Trump says he would back US diesel export ban
+President’s support for suspending foreign sales comes as conflicts in Middle East and Ukraine send price of vital fuel soaring
+
+## Royal Caribbean nears deal for Sandals valuing resorts at more than $6bn
+Transaction would be largest in cruise operator’s history as it moves to cater to tourists on land as well as sea
+
+## Trump rejects ‘globalist scheme’ to control AI in blow to Burnham
+President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’
+
+## Trump threatens to ‘annihilate’ Iran in UN speech as officials hold bilateral meeting
+US president says Americans held ‘very good meeting’ with delegation from Tehran
+
+## US proposes $10bn fund with Arab allies to bypass Hormuz
+Trump is in discussions about a fund that would build new energy infrastructure across the Middle East
+
+## Airtel Money poised to launch one of London’s biggest IPOs in recent years
+African mobile payments group to file paperwork as early as this week as it looks to raise $800mn at $8bn-$9bn valuation
+
 ## EU to lift sanctions on two Russian oligarchs
 Mikhail Fridman and Alisher Usmanov removed from bloc’s list under deal to extend curbs for three years
+
+## Anthropic releases cheaper AI model ahead of IPO
+New Claude model sharpens Anthropic’s pitch to investors ahead of blockbuster listing
+
+## The next generation of American scientists is fading away
+While the Trump administration racks up ‘wins’ in its anti-woke crusade, the US is eroding its talent pipeline
+
+## US fighter jet crashes in Germany
+Pilot injured in latest incident involving military aircraft
 
 ## Saudi Arabia signals East-West pipeline reopening
 Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes
 
-## New ‘fire amoeba’ breaks heat survival record
-Organism found in California volcanic springs joins club of extremophiles that thrive in most severe environments
-
-## The UK Budget: what does it mean for growth and security?
-Join a webinar for FT subscribers on October 29 and send us your questions
-
 ## Paramount wins over US states — but can it win over the bond market?
 The Hollywood studio will emerge from the WBD acquisition with net debt of about $80bn
 
-## Ed Davey promises £17bn tax cuts as he warns Lib Dems are in ‘fight of our lives’
-Party leader outlines plans to increase tax-free personal allowance threshold
+## Trump signs Arctic security agreement with Denmark and Greenland, keeps island under Danish control
 
-## Trump threatens to ‘annihilate’ Iran even as he predicts post-election peace deal
-US president touted administration’s foreign and domestic achievements in address to UNGA
 
-## Soaring diesel prices spur export ban calls from Republican lawmakers
-Also in today’s newsletter, US and China agree to set up ‘AI dialogue’ ahead of high-stakes summit
+## Trump says Iran deal could come after midterm election, warns of ‘annihilation’
+Speaking at the UN, Trump discussed Iran’s nuclear programme, maritime security, military operations and the expansion of US munitions production
 
-## Mercedes-Benz aims to close AI gap with China rivals through Wayve deal
-German carmaker will integrate start-up’s autonomous driving system into at least one model to be deployed in next two years
+## US tariff threat poses challenge, but India’s interests come first: FM Sitharaman
+Says foreign investors are confident about India given the country’s macroeconomic stability, fiscal prudence, inflation management and the size of its domestic market
 
-## Warburg Pincus and CD&R near deal to buy Canaccord’s UK wealth division
-Private equity groups are in advanced buyout talks at £1bn-plus valuation as deals wave sweeps sector
+## Gourmet Popcornica wins businessline’s Changemaker Financial Transformation award
+Gourmet Popcornica’s innovative approach to transforming the popcorn supply chain not only boosts local farmers’ incomes but also significantly reduces India’s reliance on imported maize, establishing the company as a leader in the nation’s agricultural landscape.
 
-## AI staff complain of mental toll over fears of threat to society
-Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI
+## Stork Sister Purnima Devi wins businessline’s Changemaker of the Year award; BRO, MR Rajagopal crowned Iconic changemakers
+Finance Minister Nirmala Sitharaman gave away the awards at the 8th edition of the event that honours human catalysts
 
-## European fusion start-up pushes for local supply chain as US dominates funding
-Google-backed Proxima Fusion says it will invest in production of crucial material for future power plants in the German state of Lower Saxony
+## India’s AI opportunity is hiding beneath the index
+India has lagged major markets as weaker AI exposure coincided with lower correlation to the global AI theme, highlighting the benchmark’s limited participation in the technology-led rally in recent years. AI-related stocks account for only 16% of MSCI India, well below the exposure seen in Korea, T
 
-## Ineos idles three UK chemical plants as gas prices soar
-Jim Ratcliffe-owned conglomerate suspends factories in Hull, which employ 300 people, as oil and gas prices surge on Iran war
+## businessline Changemaker Awards 2026 - A wrap
+The 8th edition of the event saw awards being given in six categories – digital transformation, social transformation, financial transformation, young changemaker, iconic changemaker, and changemaker of the year
 
-## Veranda Learning promoters pledge shares for ₹111 crore credit
-‘The agreement is for ₹111 crore loan availed by the promoters in their personal capacity from the lender, secured by a first-ranking and exclusive pledge over certain equity shares of Veranda Learning held by the promoters’
+## businessline Changemaker Awards 2026 - Winners
+Stepping into its 8th successful year, businessline Changemaker Awards was conceptualised to recognise and reward the extraordinary thinkers and achievers of our times whose work has positively impacted the world.
 
-## Capgemini expands presence in Coimbatore with a new office at ELCOT IT Park
-This will be the company’s 19th facility in India
-
-## EU has found genetically modified organisms in 5 Chinese products this year
-Data show that China has rejected a record 146 shipments between January and June, nearly four times the 38 rejections in 2025
-
-## Aashish Agarwal joins 360 ONE WAM Group as CEO
-360 ONE manages over ₹7.8 lakh crore in assets and serves more than 8,900 families, corporates and institutions
-
-## With no resolution to its demand for 5-day banking, Banking unions to go ahead with 3-day strike
-IBA informed that as demanded by the UFBU, the productivity linked incentive scheme for scale IV officers and above has been kept in abeyance as per Government’s instructions
-
-## Hylenr’s Fusion Technology achieves phase 1 validation at Texas A&M
-Hylenr’s Lattice Confinement Fusion technology passed Phase 1 validation at Texas A&M, showcasing potential breakthroughs in clean energy solutions
-
-## TRAI mandates wider selection of voice-and-SMS-only plans
-Regulator has mandated shorter-duration voice-and-SMS-only mobile plans, aiming to give low-income and non-data users more affordable recharge options
-
-## Kharif concerns
-Poor rain and acreage may impact rice, water availability
+## Trump touts Venezuela oil deal, says it will drive down energy prices worldwide
+US President Donald Trump announced a major oil deal with Venezuela. This agreement covers sixty-five billion barrels of oil and aims to lower global energy costs. The deal is expected to boost Venezuela's oil production significantly over time. Experts, however, believe immediate price changes are 
 
 ## Rs 1.79 lakh ITR, Rs 11.22 crore tax addition; ITAT gives chance if he plants 500 trees
 The Assessing Officer examined the taxpayer's financial transactions and identified substantial cash deposits, unsecured loans running into crores and agricultural income of Rs 3 lakh that was not backed by supporting evidence.
@@ -84,32 +87,32 @@ Foreign Portfolio Investors (FPIs) are selling again even as Domestic Institutio
 ## Govt rules out festive airfare cap, urges airlines to keep prices reasonable
 
 
-## Mutual funds clock record Rs 87 lakh crore AUM; SIP flows peak at Rs 32,297 crore
+## 'US shouldn't punish India, global markets over Russian oil': JPMorgan chief Jamie Dimon
+JPMorgan Chase & Co. chief Jamie Dimon also reflected on the difficult refineries would face if they are forced to switch oil quickly.
 
+## Assam: Singer Simanta Shekhar quits BJP, won’t join any political party
+Simanta Shekhar, who quit the BJP, also resigned as Assam State Film (Finance and Development) Corporation chairperson
 
-## At UNGA, Trump reiterates he ended India-Pakistan war: ‘Shehbaz thanked me for saving 30 million lives’
-Trump, in his UNGA speech, reiterated that he helped end eight wars, including India-Pakistan in May 2025 following the Pahalgam terror attack.
+## ED files prosecution complaint against former chairman, 6 others in CGPSC case
+The 99-page prosecution complaint, along with documents running into around 3,700 pages, was filed before the Special PMLA Court in Raipur
 
-## Sikkimese rapper UNB attacked with rods in Arunachal; probe underway: Cops
-UNB rose to prominence through his distinctive hip-hop style and performances, which helped him build a following in Sikkim
+## Turkish President Erdogan raises Kashmir issue in UNGA speech: 'Should be addressed through dialogue'
+This is not the first time Erdogan has spoken about the Kashmir issue in his UNGA address.
 
-## Shift 30 foreign nationals to detention centre, orders Meghalaya HC to state
-A division bench comprising Chief Justice Revati Mohite Dere and justice W Diengdoh issued the direction on Monday
+## Govt overhauls airport transit system in hub-and-spoke model after lapse: Naidu
+Naidu said the September 4 incident helped the ministry identify weaknesses in the system and a stronger ecosystem has subsequently been created
 
-## Pakistan must act on cross-border terror before world trusts its words: MEA
-During a visit to Peshawar, Army Chief Asim Munir reaffirmed the military's commitment to combating terrorism.
+## Cyclone ‘Arnab’ next in line? Bay of Bengal system intensifies into deep depression, to cross Andhra-Odisha coast by…
+The deep depression has been moving west-northwestwards at a speed of around 7 kmph over the past six hours, said IMD
 
-## Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast
-Cyclone ‘Arnab’ updates: A deep depression will cross the north Andhra Pradesh-south Odisha coasts between Visakhapatnam and Gopalpur.
+## On cam: Class 2 student falls unconscious, dies in classroom in UP's Balrampur
+Police said they are examining CCTV footage and conducting a detailed investigation into various aspects of the incident.
 
-## India strongly condemns Pakistani airstrikes on Afghanistan: 'Such aggression goes against regional peace'
-India also affirmed its support for Afghanistan, its sovereignty and territorial integrity.
+## Rain alert in 19 states tomorrow; Odisha, Andhra, Telangana, Chhattisgarh to see heavy showers
+Heavy to very heavy rain is likely in Odisha, Andhra Pradesh, Telangana and Chhattisgarh, with very heavy rain possible at some places.
 
-## Not liable for every DMK social media post: Stalin to HC on Aadhav Arjuna plea
-MK Stalin also denied instructing or approving a social media post in June this year by the DMK IT Wing that linked Arjuna to John Britto
-
-## Shastri Bhawan, Krishi Bhawan asked to vacate by Sept end for new Kartavya Bhawan
-The two buildings were built in the post-Independence expansion phase of the Central Secretariat in the 1950s and 60s
+## 185 Years of Private Banking Heritage, A Legacy of Forward-thinking Stewardship
+[The content of this article has been produced by our advertising partner.] The J. Safra Group, “the Group”, approaches its landmark 185th anniversary uniquely positioned to meet the demands of a changing financial landscape. Through Bank J. Safra Sarasin, the Group seamlessly blends historical heri
 
 ## China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI
 Chinese chipmaker Hygon Information Technology on Tuesday launched a suite of central processing units (CPUs) for robotics and industrial edge devices, expanding beyond cloud computing and into the fast-growing market for physical artificial intelligence. The firm unveiled its Hygon 1000 series proc
@@ -132,8 +135,11 @@ US asset manager BlackRock has obtained Qualified Domestic Institutional Investo
 ## Hisense unit gains in Hong Kong debut amid rush of mainland Chinese corporate spin-offs
 Television maker Hisense Group Holdings’ optical communications unit made a steady debut in Hong Kong after raising HK$5.6 billion (US$714 million), adding momentum to a fresh wave of mainland Chinese conglomerates spinning off business units to tap overseas capital and support technology expansion.
 
-## Hong Kong stocks eye fresh inflows from mainland China’s insurers sitting on US$6 trillion
-Hong Kong’s stock market is getting a dose of optimism from mainland China’s 41 trillion yuan (US$6.1 trillion) insurance industry, as some insurers are widely speculated to have bought exchange-traded funds (ETFs) in the city one month after regulators approved such purchases. Market observers high
+## How Canada Is Navigating Trump’s Threats
+A conversation with Foreign Minister Anita Anand.
+
+## ‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety
+A conversation with the multilateral institution’s top tech envoy.
 
 ## Washington Should Embrace Space Warfare
 Space is already becoming militarized. The U.S. shouldn’t let adversaries take the lead.
@@ -153,35 +159,29 @@ This year’s high-level gathering takes place as the Guterres era approaches it
 ## Trump Announces Deal for ‘Permanent Control’ Over Greenland’s Security
 What will the agreement mean for NATO?
 
-## Your 2026 UNGA Primer
-The race for the new U.N. secretary-general, a Trump-Xi side quest, and runaway AI fears.
+## America’s AI Safety Dilemma and at the Trump-Xi Summit
+Washington will not slow its own AI labs. Slowing China’s instead would look like safety policy, but it could cost the United States the one AI deal within reach this week.
 
-## How to Bring Peace to Sudan
-The president of the country’s Transitional Sovereignty Council argues that any solution must be homemade.
+## SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?
+This year’s summit season reveals conflicting visions of global order (and India’s place in it).
 
-## Reciprocal Trade Deal With the US Close to Completion, Vietnamese Media Reports
-Hanoi's top leader To Lam met yesterday with U.S. Trade Representative Ambassador Jamieson Greer in New York, where he is set to attend the U.N. General Assembly.
+## The Transitions Shaping Australia’s Future
+In its latest Intergenerational Report, the Australian Treasury lays out five transitions shaping the coming decades.
 
-## Breaking Down the Philippines’ 2027 Budget
-The budget, which anticipates a return to strong growth next year, is based on some optimistic assumptions about the direction of the global economy.
+## Why South Korea Has Little Room to Send Troops to Hormuz
+Seoul has previously sent troops to support U.S. military operations in the Middle East. Today, both the external and domestic environments make that much harder to do.
 
-## Cambodian Government Grants Journalists Access to Giant Former Scamming Compound
-Despite touting its anti-scam credentials, it is unclear whether Phnom Penh will investigate prominent individuals who allegedly enabled and profited from the industry.
+## BRICS 2026 Reveals Ambition, Contradictions, and Uncertain Futures
+BRICS’ New Delhi Summit expanded the grouping’s ambitions, but geopolitical divisions and weak institutional clarity continue to challenge its future.
 
-## When Xi Visits Washington, Trump Must Raise China’s ‘Ethnic Unity’ Law
-Trump should raise the ethnic unity law directly with Xi and make clear that attempts to enforce it against people in the United States will not be tolerated.
+## The Battle for Taiwan’s East: Taipei’s Western Pacific Strategy
+The PLA has stepped up both the scale and intensity of its activities in the airspace and waters east of Taiwan. How can Taipei respond?
 
-## Why Indonesians Feel Increasingly Bitter Today
-Indonesia’s rising public anger reflects deeper structural pressures – from elite impunity to digital manipulation – eroding trust in democratic institutions.
+## Hindutva Is Slowly Seeping Into Nepal
+The number of Hindu-Muslim clashes is growing as India’s brand of Hindu majoritarianism gains ground in Nepal.
 
-## Why Bangladesh Skipped the Delhi BRICS Summit
-What the decision means (and doesn't mean) for Bangladesh-India relations.
-
-## Busting the Myths of the US Military’s Presence in Hawai‘i
-As land leases come up for renewal, a new report reveals the facts about the U.S. Armed Forces’ impacts in the Pacific Islands.
-
-## Why Egypt Is Looking Beyond Its Trade Deficit With China
-Trade access matters, but investment can also change what Africa produces, where it produces it, and which markets it can serve.
+## Cambodia’s Online Scamming Crackdown Stops at the Top
+This week's international anti-scam conference is an attempt to distract global attention from Phnom Penh's abetment of criminality on an industrial scale.
 
 ## Missed the Marque: Cyber Privateers Wanted, Compensation to Be Determined
 Coverage of the new White House memorandum on combating cybercrime quickly reached the privateer label. CNN called the participants “cyber privateers,” invoking the image of government-sanctioned raiders working the high seas of cyberspace, hauling in digital booty. The reality is considerably less 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What’s behind French protests against a new police bill?
-Critics say controversial law will give police officers a 'licence to kill'.
+## Qatar denounces Israeli aggression across the region
+Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries.
 
-## Why are the Houthis fighting for Yemen’s Kahboub Mountains?
-Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes.
+## What led to the 1994 Tutsi Genocide in Rwanda
+A British doctor accused of killing people during the 1994 genocide against the Tutsi in Rwanda has been charged.
 
-## UN Chief condemns Gaza destruction, West Bank settlements
-In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza.
+## Erdogan accuses Israel of ‘genocidal mindset’ at UNGA
+Turkish President Recep Tayyip Erdogan accused Israel of a “genocidal mindset” at the UN General Assembly.
 
-## Where is the US opening new military bases in Greenland?
-At least two new US bases will be established as part of a deal with Denmark and Greenland.
+## Is Ethiopia heading towards renewed civil war?
+Seven armed groups announce alliance to topple government.
 
-## Jerusalem Daily: Israel besieges Palestinian town
-Israeli forces have effectively turned the Palestinian town of Biddu into military barracks.
+## UN Goodwill Ambassador: Millions of refugee children missing school
+Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees.
 
-## Ex-Rwandan official appears at UK trial over 1994 genocide
-Prosecutors allege Vincent Brown incited and directed acts of violence during the early days of the Rwandan genocide.
+## Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’
+Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran.
 
-## Colombia eases gun restrictions despite fears of more violence
-Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.
+## US signs ‘tremendous’ Arctic security deal with Denmark, Greenland
+NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland.
 
-## Iran delegation to present narrative of resilience, diplomacy at UNGA
-Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.
+## Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’
+Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN.
 
 ## ICAI rolls out SSA 5000 to align India’s sustainability assurance with global norms from April 2027
 New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; applicable to financial years beginning on or after April 1, 2027.
