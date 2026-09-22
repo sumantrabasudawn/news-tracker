@@ -1,64 +1,79 @@
 # AION Intelligence
 
-## Trump presses Zelenskyy to stop hitting Russian refineries
-US president tells Ukrainian leader in phone call it is all about ‘diesel, diesel, diesel’, according to officials
+## Quiet please, the currencies are sleeping
+Plus, the end of stocks’ summer of ‘meh’?
 
-## ‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports
-Fuel price crisis triggered by president’s Iran war rattles legislators from rural America’s heartlands
+## How France and Luxembourg fatally wounded the EU’s Russia sanctions regime
+Also in this newsletter: how development aid pays back in trade
 
-## UK to provide military support to Saudi Arabia in its fight with Houthi rebels
-Britain to deploy RAF aircraft offering ‘defensive air-to-air refuelling’ capability to the kingdom
+## The USS lesson plan
+Why doesn’t the UK’s largest pension fund go all-in on stocks? Or maybe bonds?
 
-## UK workers to receive two weeks of unpaid leave for bereavement
-Change in definition of those eligible will bring law ‘into the 21st century’
+## China’s share of global container exports soars to 40%
+Rapid rise underscores economy’s reliance on trade and threat to trading partners, EU chamber says
 
-## US news outlets to sue Trump administration over White House ban
-Media groups vow to protect First Amendment rights after reporters’ access was withdrawn
+## FirstFT: Kremlin-backed forgery scheme fooled global banks
+Also in today’s newsletter: Polymarket’s European overture and Merz’s woes
 
-## FirstFT: Kremlin-backed forgery operation moved $6.9bn through global banks
-Also in today’s newsletter: China accuses ousted top generals of ‘disloyalty’ and SoftBank launches one of biggest junk bond deals
+## Bank of Japan set to maintain new quarterly pace of rate rises
+Read the BoJ’s September forecast from the FT’s Monetary Policy Radar team
 
-## Burnham to call for global effort to control threats posed by AI
-UK prime minister will meet Donald Trump in person for first time at New York UN meeting
+## David Ellison slays foes of his $110bn goliath
+Paramount Skydance has clinched a settlement with US states that sued to block its takeover of Warner Bros Discovery
 
-## France calls on EU to take immediate action to lower energy prices
-President Emmanuel Macron also urges European Commission to delay implementation of new methane rules by a year
+## Putin’s ‘war heroes’ form new political elite in Russian parliament
+Many of the men served in units that Kyiv has accused of war crimes
 
-## Crackdown clouds $46bn IPO of world’s biggest derivatives exchange
-Long-delayed debut of the National Stock Exchange of India comes amid rising scrutiny of options trading
+## Deutsche Bank’s asset manager explores curbs on German property funds
+DWS considers emergency measures as investors pull money from open-ended retail product
 
-## Meta leads tech rally as oil prices fall
-Brent crude sinks amid speculation Donald Trump could meet Iran’s president this week
+## Equal pay law cannot ignore the labour market
+A ruling that Next can pay store staff and warehouse workers differently for work of equal value upholds an important principle
 
-## UK flights disrupted by another air traffic control problem
-National Air Traffic Services says it fixed a fault at its Prestwick control centre in Scotland that led to service cancellations and delays
+## Germany’s economic recovery is under way if politics doesn’t spoil it
+Frugal Germany would appear to have the fiscal headroom to try and spend its way out of the impasse
 
-## Kremlin-backed forgery scheme moved $6.9bn through global banks
-FT finds thousands of Russian payments received by Standard Chartered, Citigroup and other international groups in vast leak from inside fintech A7
+## AI staff complain of mental toll over fears of threat to society
+Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI
 
-## KAS Group eyes ₹2,500 crore order book in 3 years as semicon equipment demand rises
-Bengaluru group plans ₹250-crore Dholera push for quartz parts as revenue mix shifts from solar to semiconductors
+## Polymarket presses Europe to treat its bets as financial products
+US prediction markets platform is seeking to be regulated as a financial services firm rather than under a patchwork of gambling legislation
 
-## India must emerge as AI innovator, not just consumer: Google’s Harsh Dhand
-‘Google has a long-standing presence in India. When we first thought about expanding to APAC, we thought about setting up a lab in India'
+## Paramount Skydance and Warner Bros Discovery merger: A timeline of the $110 billion deal
+The proposed transaction has undergone competing bids, regulatory scrutiny, legal challenges and negotiations since Warner Bros Discovery began considering strategic options
 
-## IBM’s tier 2 expansion offers greater innovation opportunities and work-life balance: Sandip Patel, Managing Director, IBM India & South Asia
-As the tech landscape evolves, IBM’s focus on regional growth reflects a commitment to harnessing local talent and creating sustainable IT infrastructure.
+## EU detects genetically modified organisms in 5 Chinese products exports this year
+Data show that China has rejected a record 146 shipments between January and June, nearly four times the 38 rejections in 2025
 
-## Lava unveils Virat Curve 5G smartphone in ₹20,000 price segment
-The new smartphone comes with 6 GB system memory and 128 GB storage and will be offered in multiple colour options
+## Sensex today | Stock Market Live Updates: Sensex, Nifty trade lower despite positive global cues, softer crude prices
+Sensex, Nifty, Stock Price Live: Indian equity markets turned weak after a steady opening on Tuesday as foreign selling and geopolitical concerns outweighed supportive global cues, softer crude prices and improving derivatives indicators.
 
-## Jayanti Prasad gets additional charge as IBBI Chairperson
-The additional charge follows Mital’s retirement earlier this month, with Prasad continuing his existing responsibilities as a Whole-Time Member
+## Rupee rises 13 paise to 95.65 against US dollar in early trade
+The rupee opened at 95.75 in the interbank forex market, reaching 95.65 against the dollar, gaining 13 paise from the previous close
 
-## Varmora Granito raises ₹212.4 crore from anchor investors ahead of IPO
-The Rajkot-based tiles and bathware maker has set its IPO price band at ₹140-148 per share for the September 22-24 issue
+## Orient Cables to launch ₹552-cr IPO on Sep 25
+The issue will open for public subscription on September 25 and close on September 29
 
-## ADIA sells 2.01% stake in Lenskart Solutions for ₹2,390 crore
-The stake sale reduces ADIA’s interest in the eyewear retailer, following SoftBank’s ₹2,873-crore divestment earlier this year.
+## India, Central Europe seek closer ties as US relations strain
+India’s diplomatic ties with Central Europe strengthen as the Visegrad Group backs its UN Security Council ambitions, marking a strategic shift in response to changing geopolitical dynamics
 
-## India-New Zealand FTA to kick in on Oct 20 with zero tariffs on Indian goods
-The agreement assumes significance amid heightened geopolitical uncertainty and US President Donald Trump’s increasingly unpredictable tariff policy
+## AceVector's ₹420-crore IPO to open on September 25; sets price band at ₹30-32/share
+The IPO will open for public subscription on September 25 and close on September 29, while bidding by anchor investors will take place on September 24, according to a public announcement
+
+## Scholastic India Announces Publishing and Distribution Partnership with Mattel
+Scholastic India Announces Publishing and Distribution Partnership with Mattel
+
+## Stock market today: BSE Sensex opens 100 points higher, Nifty 50 trades above 24,400
+
+
+## Top stocks to buy today: Stock market recommendations for September 22, 2026 - check list
+Stock market recommendations: LIC Housing Finance, Supreme Industries, Hitachi Energy India, and Dr Reddy's Laboratories - these are the top stocks to buy on September 22, 2026 as recommended by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan on September 8, 2026.
+
+## 'No burden for consumers': Sitharaman clarifies who will pay MDR on UPI transactions
+Finance Minister Nirmala Sitharaman addressed concerns over the Merchant Discount Rate charges, emphasizing that UPI users will face no additional financial burden. These charges apply solely to payment operators and do not treat consumers as taxpayers. The revised rule targets only high-value Perso
+
+## Oil remains above $100 per barrel as traders await potential US-Iran talks
+Oil prices climbed above one hundred dollars a barrel as Middle East tensions intensified. Traders weighed signs of possible US-Iran talks against continuing tensions in the Gulf. Yemen's Houthis conducted attacks on Riyadh and a Saudi Aramco facility. Traffic through the Strait of Hormuz has droppe
 
 ## GST rate rejig helps consumers upgrade
 
@@ -72,41 +87,38 @@ The agreement assumes significance amid heightened geopolitical uncertainty and 
 ## New Zealand trade pact to take effect on Oct 20, to give duty-free access
 
 
-## Govt winds up telecom commission
+## Fake cop behind Delhi teen's rape near Kalkaji Mandir arrested after encounter
+Asif is one of the three men who allegedly posed as cops, threatened the minor girl and her friend, and gang-raped her.
 
+## What you need to do after getting an SIR notice
+The Delhi CEO’s office has made it clear that receiving a notice is part of the verification process and does not amount to a deletion order.
 
-## Starbucks to set up GCC in Chennai
+## Odisha: Schools shut in four districts after heavy rainfall warning for two days
+IMD scientists warned that the heavy rainfall could lead to rising water levels in rivers and cause flooding in low-lying areas, particularly in places that have already received sustained rain
 
+## Unease in section of Congress over Modi mimicry at Rahul’s ‘Chhatron ki Goonj’
+The Congress publicly countered the BJP’s criticism over the mimicry but at least three leaders said it was avoidable
 
-## NSE IPO subscribed 5.7x, generates Rs 90.2k crore demand
+## BJP seeks to shore up Dalit support ahead of Uttar Pradesh assembly elections
+The party is now aggressively seeking to cement its ties with non-Jatav Dalits such as the Pasis, Khatiks, Dhobis, and Valmikis, among others.
 
+## Hyderabad auto driver beaten to death by customer over fare change dispute
+The deceased was identified as Mohammed Mukarram. Police identified two of the suspects as Mohd Azeem and Mohd Shoaib and their associates.
 
-## Interests of charitable trust may differ from that of co: JP Morgan chairman & CEO Jamie Dimon
+## Two arrested in separate rape cases in Tripura
+In the first incident, a 34-year-old man was arrested for allegedly raping his minor neighbour at a village in Khowai district
 
+## US man granted bail in arms training matter pays fine, to seek discharge in immigration case
+The judge, who granted him bail, said the NIA had invoked “piecemeal” charges rather than the more serious UAPA charge
 
-## Two workers killed in fire at tyre oil factory in UP
-Two workers killed in fire at tyre oil factory in UP
+## Hong Kong stocks eye fresh inflows from mainland China’s insurers sitting on US$6 trillion
+Hong Kong’s stock market is getting a dose of optimism from mainland China’s 41 trillion yuan (US$6.1 trillion) insurance industry, as some insurers are widely speculated to have bought exchange-traded funds (ETFs) in the city one month after regulators approved such purchases. Market observers high
 
-## Starbucks to open first India global capability centre in Chennai, create 800 high-paying jobs
-CM Vijay said that the trust placed by Starbucks is proof of Tamil Nadu youth's capabilities.
+## More than 8 in 10 people across Asia have delayed their medical care, report finds
+Many people across Asia are generally positive about their healthcare experiences, according to research by Economist Impact, commissioned by Prudential. However, the report also found that satisfaction levels vary widely across markets, with more than 80 per cent admitting they have delayed seeking
 
-## ‘Recall Bihar before 2005’, JD(U) state chief says on Jamui harassment row; RJD alleges ‘goonda raj’
-Kushwaha said the government and administration were looking into the matter and assured that those responsible would be arrested at the earliest.
-
-## Gujarat: One killed, 11 injured as speeding Scorpio hits Ambaji-bound group in Sabarkantha
-The victims were walking as part of a padyatra to the shrine for the annual Bhadarvi Poonam fair, which attracts lakhs of devotees from across Gujarat.
-
-## 57-year-old dairy operator killed after Thar hits scooter in Jaipur
-The deceased body was handed over to his family after a post-mortem examination at SMS Hospital on Sunday afternoon.
-
-## India-New Zealand FTA to come into force on October 20, Piyush Goyal says
-The pact, he said, also facilitates significant investments of USD 20 billion over the next 15 years from New Zealand to India.
-
-## Goa elderly sisters found dead at home, leave cash for last rites: Police
-It is unclear when and how the two elderly women died. Police said only an autopsy would indicate the cause of death.
-
-## Google to report child abuse content directly to Indian authorities: Spokesperson
-Google said on Monday it has agreed to report content flagged as child sexual abuse material (CSAM) to Indian authorities.
+## What Saudi Arabia’s exit means for China-led mBridge amid global de-dollarisation
+Saudi Arabia’s withdrawal from a China-led digital currency platform would carry greater symbolic than operational significance, analysts say, highlighting pressures facing countries caught between US influence and alternatives to dollar-based payments infrastructure. In a response to inquiries from
 
 ## Despite higher costs, Hong Kong’s student residences attract mainland Chinese renters
 Purpose-built student accommodation is drawing mainland Chinese university students away from Hong Kong’s traditional rental market, as professionally managed residences gain favour despite charging higher rents than many private flats. Some students said dedicated student housing offered greater co
@@ -122,15 +134,6 @@ New World Development (NWD) received the green light from the Shanghai Stock Exc
 
 ## Hong Kong stock exchange moves to ease spin-offs and shareholder approval rules
 The Hong Kong stock exchange has proposed easing requirements for listed companies to disclose corporate transactions and seek shareholder approval, while also making it easier for issuers to spin off businesses, according to a consultation paper released on Monday. The 10-week consultation, which r
-
-## How Hong Kong is positioning for a bigger role in Asia’s family wealth transition
-Hong Kong is strengthening its position as Asia’s hub for family business succession and cross-border capital allocation as wealthy families navigate economic uncertainty and a generational transfer of wealth, financial regulators and industrial executives said on Monday. Speaking at the South China
-
-## Expect ‘high tide’ of Chinese biotech deals as threat of US curbs fades: analysts
-US-China biotech deals are expected to thrive because Washington is reportedly leaning away from sweeping restrictions, according to analysts, giving Chinese healthcare firms a major boost following Beijing’s ambitious five-year plan for the sector. Out-licensing deals between China and the US would
-
-## Asia investors demand AI revenue proof as focus shifts from exposure to earnings: BofA
-Investors in Asia are demanding clearer evidence that artificial intelligence can translate into revenue and earnings, rather than simply seeking exposure to the technology, as the sector moves into a more mature phase, according to Chris Oberoi, head of Asia-Pacific research at Bank of America (Bof
 
 ## UNGA Convenes With Uncertainty on the Horizon
 This year’s high-level gathering takes place as the Guterres era approaches its end.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Here’s what to pay attention to at the UNGA
-World leaders arrive for UNGA 81 as wars multiply and trust erodes in global institutions. Emma Withrow explains.
+## G7 foreign ministers demand Houthis halt strikes on Saudi Arabia
+Ministers demand an end to maritime shipping attacks and urge Iran to stop arming the Yemeni group.
 
-## Trump returns to the UN, what will he say?
-Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.
+## UN General Assembly 2026: When is it, who is speaking and when?
+September 22 marks the start of the general debate, where all 193 UN member states are invited to address the UNGA.
 
-## UK to refuel Saudi jets to help counter Houthi attacks
-British Prime Minister Andy Burnham says he has agreed to a request for 'defensive' air-to-air refuelling of Saudi jets.
+## Why does the US want to send Israel 40,000 bombs?
+Is the planned $2.8bn US arms deal proportionate to Israel’s threat, or could it cause more civilian casualties in Gaza?
 
-## Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo
-Storm is moving northeast away from Japan's eastern coast into the Pacific, leaving a path of destruction behind.
+## Houthis battle for strategic heights in Yemen as thousands more flee homes
+Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.
 
-## Morocco’s youth take Gen Z protest demands to the polls
-Young candidates hope the election can turn youth frustration into political participation.
+## US strikes on alleged drug boats may be ‘crimes against humanity’, UN says
+UN expert says US forces have killed 223 people in 68 attacks in the Caribbean and the Pacific in the past year.
 
-## Mali marks independence amid a worsening security crisis
-The 66th anniversary comes as armed groups expand their reach and the government struggles to secure key supply routes.
+## 20 countries propose global oversight body to manage AI dangers
+Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.
 
-## Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region
-The IRGC says the US and Israel "must accept the region's freedom from their vile and criminal presence".
+## India vs Sri Lanka live: Asian Games – Women’s cricket final
+Follow our live score and text commentary stream from the gold medal match in Nisshin, Japan.
 
-## How thousands of migrants stranded in Ceuta are surviving
-Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.
+## Brazil election: Lula and Flavio Bolsonaro tied in latest polls
+Luiz Inacio Lula da Silva is running in October's election for a fourth non-consecutive term as Brazil's president.
 
 ## UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors
 UPI MDR charges will attract 18% GST, with the tax generally available as input tax credit for businesses making taxable supplies. However, exempt sectors such as hospitals and schools may have to bear the GST as a cost, while thin-margin businesses could see a more visible impact on profitability a
