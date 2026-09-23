@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## The west does not have a leadership problem
-If Friedrich Merz and almost everyone else is unpopular, perhaps governments aren’t the issue
+## Fixing Britain’s paralysed state means hard choices
+After 25 years as a civil servant, I see more clearly from outside that the centre of government needs re-engineering
+
+## McDonald’s bets on chicken to win back diners as beef prices soar
+Fast-food chain aims to grow share in booming chicken market in bid to kick-start sluggish US sales
+
+## Trump lays a new trap for Takaichi
+The threat of appearing as a vassal state is growing ever more real for middle powers
+
+## Trump’s diesel ban would hurt America and help China
+Suspending foreign sales of the vital fuel may look good in the short term but the US would soon suffer
+
+## US Treasury yields soar after strong data fuels bets on further rate rises
+Closely followed survey underscores worries parts of the world’s biggest economy are overheating
+
+## Italy clears path for nuclear power revival
+Senate approves law that will allow a new generation of reactors decades after previous plants were shut down
+
+## UK reviews Chagos deal after renewed opposition from Trump
+London had agreed to transfer sovereignty of the strategic Indian Ocean archipelago back to Mauritius
+
+## Turkey arrests founder of brokerage at centre of $18bn alleged Ponzi scheme
+Episode that torched savings of hundreds of thousands of investors has raised questions why regulators did not act sooner
+
+## Ryanair boss tells investors to ‘grow up’ over his €150mn share scheme
+Michael O’Leary warns that air fares could rise by a fifth as he defends latest airline contract
+
+## European diesel prices climb over prospect of US export ban
+Any move by Washington to suspend foreign sales would be ‘catastrophic’ for global supplies, analysts warn
 
 ## Swiss lawmakers back tougher bank capital rules in blow to UBS
 Parliament’s upper house rejects compromise proposal in battle between lender and Bern
 
-## FirstFT: Oil on track for sixth consecutive day of falls
-Also in today’s newsletter: financier Todd Boehly leads consortium to buy Lukoil’s international assets, and OECD warns on surging government bond yields
+## The argument for Kalshi taking bets on its own legality
+Predictor, predict thyself
 
-## Why Germany’s ‘chancellor-in-waiting’ is biding his time
-Hendrik Wüst, the popular premier of North Rhine-Westphalia, is seen as the most likely successor to Friedrich Merz
+## Waaree Energies board approves Indosolar merger; public shareholders to get 1 share for every 11
+The company also expects the merger to reduce administrative responsibilities, duplicate records, legal and regulatory compliance and other duplicate expenses, while enabling more efficient utilisation of capital
 
-## Azerbaijan pardons French national as part of secret prisoner release deal
-Paris blindsided allies when it pushed for Russian oligarch to be exempt from EU sanctions as part of its deal with Baku
+## BRO’s role goes beyond roads to transforming nation: DG Lt Gen Harpal Singh
+Border Roads Organisation (BRO) got businessline’s “Iconic Changemaker Award” on Tuesday.
 
-## Bank of England does not need to raise interest rates, says OECD
-Paris-based group says the UK is ‘starting from a different position’ on monetary policy compared with other countries
+## Rallis India’s Gyanendra Shukla to head CropLife India
+Rajvir Rathi, head of agricultural affairs and policy at Bayer Crop Science, and Giridhar Ranuva, business director of BASF Agricultural Solutions India, will be the new Vice-Chairmen
 
-## Pornhub’s age checks probed by UK watchdog
-Ofcom investigates whether porn site’s service provider met its duty to protect children online
+## Project Sambandh wins Changemaker award for supporting bereaved military families
+Colonel Vembu Shankar’s self-funded initiative helps families access welfare benefits, financial assistance and livelihood opportunities
 
-## The Lib Dems’ unserious tax cut pledge
-An unlikely plan to fund increased tax thresholds with extra growth from EU deals will turn away target voters
+## Marvell to double India R&D capabilities as AI shifts towards custom silicon, networking
+The company’s India expansion comes as the company sees a significant opportunity in AI infrastructure
 
-## Lidl owner among suitors circling Tesco’s European business
-Schwarz Group, Ahold Delhaize and Biedronka are expected to bid as UK retailer retreats from international operations
+## Greenr targets another $30 million for Indian climate startups
+The $30-million target will measure Greenr’s ability to unlock capital. The harder test is whether India’s climate ventures can turn pilots into repeat orders and sustainable revenues
 
-## The model making vegan shoes sexy
-Jessica Miller has designed a heel for Aera – and her Metallica husband approves
+## SEBI plans to review merchant banking and IPO rules
+Regulator to examine price bands, advertising costs and valuation requirements to simplify public issues
 
-## Drone specialist Tekever’s valuation soars fivefold to $6.4bn
-Portuguese group becomes one of Europe’s most valuable start-ups after latest $580mn fundraising deal
+## FSSAI proposes to implement front-of-the-pack labelling regulations in one phase
+It has also proposed to give a period of one year to packaged food companies for voluntary labeling
 
-## Enter slopfiling
-Some companies love ChatGPT and they don’t care who knows it
+## Gadkari urges sugar mills to make CBG; says Rs 22 lakh crore goes abroad for fuel imports
+Gadkari has called on sugar mills to expand into value-added by-products, particularly compressed bio-gas (CBG), ethanol, bio-manure and sustainable aviation fuel.
 
-## Diageo poaches WPP finance chief as CEO Lewis overhauls top team
-Drinks group’s chief Dave Lewis appoints former Tesco colleague Joanne Wilson
+## Your loan EMI has a Washington problem: How the Fed quietly influences RBI rate decisions
+The US Federal Reserve’s quarter-percentage-point rate hike has added to the challenges facing the RBI ahead of its monetary policy review in October.
 
-## Broker’s call: M&M Financial (Buy)
-ICICI Securities
-
-## Samsung Galaxy S26 FE Review: Premium economy gets pricier in 2026
-Premium design, gorgeous display and a whole suite of AI smarts are packed in the Samsung Galaxy S26
-
-## Broker’s call: IRCTC (Buy)
-We value IRCTC at 25x average of FY28E & FY29E EPS and initiating coverage with a ‘Buy’ recommendation with target price of ₹560
-
-## India’s shrimp exports up 1% in July, cross 80,000-tonne mark
-Exports during the first seven months of CY26 reached 4,55,489 tonnes, reversing the marginal decline in H1, says a InCred Research report
-
-## Navitas Solar plans ₹10,000-crore green energy blitz across Gujarat, Maharashtra
-The proposed expansion will create manufacturing facilities across the solar value chain, including ingots, wafers, high-efficiency solar cells and battery energy storage systems
-
-## Verified Packers and Movers Quotes in Minutes: Thepackersmovers.com Launches Festive Season Update
-Verified Packers and Movers Quotes in Minutes: Thepackersmovers.com Launches Festive Season Update
-
-## CIAL strengthen Far East connectivity with four weekly Bangkok services
-The winter schedule commencing from October 26 to March 28, 2027 features a total of 1,766 scheduled weekly flight movements, comprising 885 arrivals and 881 departures
-
-## Gujarat puts 63.35 lakh farmers on digital registry; links Aadhaar to land records
-This registry, part of the Centre’s Digital Agriculture Mission, aims to create a single digital identity for farmers and simplify access to government agricultural schemes and services
+## Petrol, diesel margins may jump in Q2FY27, but LPG losses to cap OMC gains: Report
+India's oil marketing companies are projected to experience improved petrol and diesel margins in Q2FY27. Although LPG sales are expected to incur significant losses, the recovery in oil margins remains promising. Refined product supply disruptions contribute to the strong margins in the near term. 
 
 ## India's GDP growth forecast: After Moody's, S&P, Fitch and OECD raise FY27 projections
 
@@ -78,41 +84,38 @@ As the NSE listing approaches, investors will be watching movements in the grey 
 ## He got 2 flats worth Rs 1.38 crore for tenancy rights; taxman sent notice, what ITAT said
 He was a tenant in Mumbai in a housing society that was slated to undergo redevelopment. He received two flats in the redeveloped building in return for surrendering his tenancy rights. The tribunal ruled that a tax demand under Section 56(2)(x) could not be imposed on the individual merely because 
 
-## Russian oligarch’s wedding gift to Trump Jr puts family dealings under scrutiny
-Senator John Curtis has called for a thorough Senate investigation into Donald Trump Jr's financial ties to a Russian oligarch amid mounting concerns of potential corruption linked to Umar Kremlev's extravagant wedding celebration. This move seeks to ensure that Trump Jr's foreign business dealings 
+## Madhya Pradesh to resume state govt bus services after 20 years on September 25
+The Madhya Pradesh transport department is resuming bus services in the state after 20 years, with both intercity and intracity services planned.
 
-## Gold price prediction today: Why are gold prices choppy? Check September 23, 2026 outlook
-Gold price prediction today: The Indian Gold market has been more cautious. Domestic prices are trading below import parity, with discounts widening sharply from $34/oz in July to $78/oz by mid-September.
+## Russia says ‘helping India weather Iran war’s energy shock’ after Zelensky's 'stop energy trade with Moscow' remark
+Russia-New Delhi ties helped ‘significantly mitigate’ Iran war’s impact and global energy trade disruptions, said Russian deputy FM Andrei Rudenko
 
-## Top stocks to buy today: Stock recommendations for September 23, 2026 - check list
-Stock market recommendations: Deepak Fertilisers & Petrochemicals Corp Ltd, Jubilant FoodWorks, and HDFC Life Insurance Company are the top buy calls from Mehul Kothari, DVP of Technical Research at Anand Rathi Shares for September 23, 2026.
+## Delhi court grants default bail to 6 Ukrainians in Myanmar arms training case
+A Delhi court granted default bail to six Ukrainians arrested by the NIA in March over allegations that they trained ethnic armed groups in Myanmar.
 
-## IIT Bombay’s 10-member committee begins probe into Btech student’s death
-The committee was appointed four days after the student’s death and has been asked to submit its report within a week
+## FSSAI cracks down on e-commerce platforms over food violations; Amazon, Swiggy, BigBasket under scanner
+The action was taken for misleading claims related to food product 'Happilo Premium Date Bites - Zesty Orange' and some dairy products of Milky Mist.
 
-## Manipur violence: Electric lineman shot dead, 24 houses set ablaze
-A private electric lineman was shot dead in Tamenglong while repairing a 33 KV line; hours later, 24 houses in two Kangpokpi villages were set ablaze.
+## TN crime branch raids R Veeramani’s properties in connection with Pocso case
+As of Wednesday, four people including R Veeramani, his close aides Shanthi, her husband Mahandra Simhan and Ganeshan, a former employee, have been arrested
 
-## 'Go counsel Pakistan': India hits back at OIC over Kashmir remarks
-India described the OIC's references to Jammu and Kashmir as “unwarranted and factually incorrect.”
+## Ex-ED official Niranjan Singh joins Akali Dal Waris Punjab De ahead of Punjab polls
+Asked about allegations of the misuse of central agencies including the ED, Niranjan said there is no government which does not misuse it a "little bit".
 
-## Gautam Adani dethrones Mukesh Ambani to become India's richest with ₹9.22 lakh crore wealth
-The industrialists were followed by Lakshmi Niwas Mittal and family with a net worth of ₹ 3.39 lakh crore.
+## Indian seafarer killed in torpedo attack on MV Cape Dao near Oman
+The carrier was en route from Mina Saqr to India via the Oman route when two torpedoes reportedly hit its port side.
 
-## No elections should be held under CEC Gyanesh Kumar, says Akhilesh Yadav
-He also alleged that the Commission failed to act on numerous complaints filed by his party, including during the Special Intensive Revision
+## Jaishankar meets Rubio on UNGA sidelines, raises concern over Russia sanctions act
+The meeting comes days after US President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act into law.
 
-## MP spurious liquor case: Prime suspect with ₹30,000 bounty held after encounter
-Manish Lodhi, carrying a ₹30,000 bounty, was arrested with associate Ashish Sahu after a brief encounter in Sagar’s Malthon area, police said.
+## Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta
+US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his views on the sector, especially as competition with China intensifies. Microsoft topped the list of sales
 
-## From SIR deletions to Form 6 and voter database: Election Commission's point-by-point rebuttal amid row
-EC said it remains fully committed to executing its constitutional duties with complete integrity, recognising its vital role in advancing Indian democracy.
+## Bad money decisions are coming home to roost for the US and Japan
+The US Treasury market is in trouble, oil prices have been surging and the yen might slide again. Whatever Treasury Secretary Scott Bessent might have said, the United States government isn’t big enough to be “the house” that always wins when it comes to fixing global markets. Last week, the 10-year
 
-## 4 die after being run over by speeding train in Andhra Pradesh; 1 injured: Cops
-Following the accident, railway officials and police personnel rushed to the scene and launched rescue and relief operations
-
-## Hong Kong sets yuan-trading timeline, backing Beijing’s push to boost currency’s use
-Hong Kong’s securities regulator aims to include a yuan-trading counter in a cross-border channel linked with mainland Chinese investors by July 1, marking the latest step in the city’s efforts to advance the internationalisation of the Chinese currency. The measure, announced on Wednesday, is part 
+## Hong Kong sets yuan trading timeline, backing Beijing’s push to boost currency’s use
+Hong Kong’s securities regulator aims to include a yuan trading counter in a cross-border channel linked with mainland Chinese investors by July 1, marking the latest step in the city’s efforts to advance the internationalisation of the Chinese currency. The measure, announced on Wednesday, is part 
 
 ## Hong Kong unveils gold, bond and liquidity plans to drive next phase of yuan adoption
 Bourse operator Hong Kong Exchanges and Clearing (HKEX) will launch yuan-denominated gold futures early next year, while the city’s de facto central bank plans to introduce more yuan products and platforms to support the diversification and digitalisation of the currency’s internationalisation, spea
@@ -129,11 +132,8 @@ The global artificial intelligence trade is staging a comeback, as a confluence 
 ## Chinese maker of robot-vacuum sensors launches Hong Kong IPO, undeterred by US ban
 Shenzhen Camsense Technologies, a maker of spatial sensors for robotic vacuum cleaners, launched a Hong Kong initial public offering (IPO) that aims to raise about HK$680 million (US$86.7 million), despite headwinds from Washington’s recent import ban on foreign-made vacuum robots. “The export and p
 
-## Hong Kong energised as global investment hub for green technology
-Record-breaking heat, devastating droughts, deadly wildfires and heavy rain and severe floods around the world over recent months have sparked a new urgency in the search for practical solutions to climate change. The challenge for governments is not only to generate cleaner sources of power, but al
-
-## China’s gig economy
-–
+## Trump Wants to Ban Diesel Exports. It Won’t Help.
+Government interference in the world’s largest oil-producing state would be counterproductive.
 
 ## What Machiavelli Would Say About Trump
 The U.S. president offers a guide on how to be a very bad prince.
@@ -155,9 +155,6 @@ Europe’s fear of escalation is encouraging Putin.
 
 ## Don’t Expect Fireworks From the Trump-Xi Summit
 Trade, minerals, and AI are on the agenda, but breakthroughs are unlikely.
-
-## How AI Fits Into Humanity’s Troubling History
-Like nuclear weapons, AI was born of human ingenuity. But its challenges are unique.
 
 ## Trump and Xi: Strongmen at the Temple of Thymos
 The ego-driven fragility of a world run by Xi Jinping and Donald Trump.
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Qatar on mediation efforts: ‘We can’t let diplomacy fail’
-Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.
+## UEFA Nations League 2026-27: Groups, teams, top players, format
+All to know about the fifth edition of the competition as its league phase begins on Thursday.
 
-## China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
-The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.
+## Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’
+Iranian President Masoud Pezeshkian told the UN General Assembly that ‘warfare knows no borders’.
 
-## Powerful El Nino could cause more than 450,000 deaths, scientists say
-Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.
+## Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks
+Ukraine's Zelenskyy met Trump on Tuesday and discussed a potential bilateral ceasefire on energy-related targets.
 
-## As AI leaders warn of catastrophe, US and China shun slowdown calls
-Presidents Donald Trump and Xi Jinping are expected to agree to only limited cooperation on AI safety at summit.
+## Trump pushes Russia-Ukraine ‘energy truce’: Can it work?
+Talks of a possible halt in attacks on energy facilities come as strikes on such targets continue unabated.
 
-## Yemen government forces claim control of Mount Qarfan in Taiz
-Major General Abdulaziz al-Majidi says five Houthi fighters killed and 20 wounded after 'fierce battles'.
+## Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?
+The alliance brings together movements with different enemies, claims and histories as tensions with Abiy rise.
 
-## World leaders say UN Security Council failing to function
-World leaders say UN Security Council failing to function
+## Al-Sharaa: Occupied Golan Heights to ‘remain Syrian territory’
+Syrian President Ahmed al-Sharaa demanded the withdrawal of Israeli forces from Syrian territory.
 
-## Europe’s centrists are finally paying the price of their extremism
-The centre’s blind adherence to austerity has devastated European societies.
+## Moroccans head to polls amid economic uncertainty to decide next parliament
+Millions of Moroccans vote today for a 395-seat parliament amid new digital proxy and anti-fraud measures.
 
-## Ethiopian Airlines suspends flights to three northern Tigray airports
-The suspension comes after Tigrayan forces took control of Mekelle airport.
+## How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?
+UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen's Houthi group.
 
 ## ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill
 A majority of the suggestions made by the ICAI on changes to NFRA have been accepted by the government, according to a senior ICAI official, as the Centre continues work on the revised legislation ahead of its expected introduction during the Winter Session.
