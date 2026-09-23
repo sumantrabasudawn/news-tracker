@@ -1,64 +1,70 @@
 # AION Intelligence
 
+## US Treasury yields soar most since ‘liberation day’ tariffs shook markets
+Traders crank up bets on Federal Reserve rate rises after new data fuels worries economy is overheating
+
+## Israeli election committee bars main Arab parties from next month’s poll
+Members of Prime Minister Benjamin Netanyahu’s far-right coalition lead campaign to exclude Ra’am and Joint List
+
+## How besieged billionaires are turning the tables on litigious shareholders
+Hollywood super-agent Ari Emanuel has accused funds of illegal anti-competitive conduct over his take-private of Endeavor
+
+## Britain’s union reforms are a risk to business dynamism
+Labour’s expansion of workers’ rights adds to pressures on the private sector
+
+## Countries cancel Iran flights after US threatens to ‘shut down’ airlines
+Iraq, Oman and Azerbaijan join growing list of nations suspending air travel after Scott Bessent warns of further sanctions
+
+## European diesel prices climb over prospect of US export ban
+Any move by Washington to suspend foreign sales would be ‘catastrophic’ for global supplies, analysts warn
+
 ## Fixing Britain’s paralysed state means hard choices
 After 25 years as a civil servant, I see more clearly from outside that the centre of government needs re-engineering
 
 ## McDonald’s bets on chicken to win back diners as beef prices soar
 Fast-food chain aims to grow share in booming chicken market in bid to kick-start sluggish US sales
 
-## Trump lays a new trap for Takaichi
-The threat of appearing as a vassal state is growing ever more real for middle powers
+## Bentley’s first EV set to be half the price of Ferrari’s Luce
+Launch of luxury carmaker’s Torcal SUV is aimed at younger and first-time customers
 
-## Trump’s diesel ban would hurt America and help China
+## Zuckerberg to unveil new AI products as Meta’s Muse app tops charts
+Social media group’s personal AI ‘agent’ that can shop and schedule has become most downloaded app in US
+
+## How Trump’s diesel export ban will backfire
 Suspending foreign sales of the vital fuel may look good in the short term but the US would soon suffer
-
-## US Treasury yields soar after strong data fuels bets on further rate rises
-Closely followed survey underscores worries parts of the world’s biggest economy are overheating
 
 ## Italy clears path for nuclear power revival
 Senate approves law that will allow a new generation of reactors decades after previous plants were shut down
 
-## UK reviews Chagos deal after renewed opposition from Trump
-London had agreed to transfer sovereignty of the strategic Indian Ocean archipelago back to Mauritius
+## India cuts import duty on palm, soybean oils to lower edible oil prices
+The move comes amid rising food inflation and industry concerns over global vegetable oil supplies, domestic availability and festive-season demand
 
-## Turkey arrests founder of brokerage at centre of $18bn alleged Ponzi scheme
-Episode that torched savings of hundreds of thousands of investors has raised questions why regulators did not act sooner
+## Birth tourism: US moves to restrict visas for facilitators and ‘fixers’
+The latest move expands US efforts to prevent what officials describe as exploitation of the immigration system for commercial gain
 
-## Ryanair boss tells investors to ‘grow up’ over his €150mn share scheme
-Michael O’Leary warns that air fares could rise by a fifth as he defends latest airline contract
+## As 5% US Treasury yields lose shock value, investors start worrying about 6%
+The latest yield move has revived questions about how much higher borrowing costs global equities and emerging markets can withstand.
 
-## European diesel prices climb over prospect of US export ban
-Any move by Washington to suspend foreign sales would be ‘catastrophic’ for global supplies, analysts warn
+## Central govt employees to get salary in advance on Sept 25 ahead of 3-day bank strike
+The move comes as authorities seek to prevent disruptions to government payments and banking transactions during the proposed strike period
 
-## Swiss lawmakers back tougher bank capital rules in blow to UBS
-Parliament’s upper house rejects compromise proposal in battle between lender and Bern
+## IRDAI moots major overhaul of insurance distribution norms
+This initiative seeks to lower insurance costs for consumers while enhancing the sustainability of insurers, ultimately promoting greater accountability and competition within the industry.
 
-## The argument for Kalshi taking bets on its own legality
-Predictor, predict thyself
+## Gold will likely be under pressure in Q4 on hawkish US Fed policy
+Analysts see a firm dollar and elevated US real rates could constrain near-term upside for the precious metal
 
-## Waaree Energies board approves Indosolar merger; public shareholders to get 1 share for every 11
-The company also expects the merger to reduce administrative responsibilities, duplicate records, legal and regulatory compliance and other duplicate expenses, while enabling more efficient utilisation of capital
+## IndiGo’s market share slips in August as Air India Group gains
+Domestic air traffic falls 6.3% year-on-year to 1.21 crore passengers; SpiceJet’s share drops to 1.2%
 
-## BRO’s role goes beyond roads to transforming nation: DG Lt Gen Harpal Singh
-Border Roads Organisation (BRO) got businessline’s “Iconic Changemaker Award” on Tuesday.
+## IRDAI moots major overhaul of insurance distribution norms
+The proposals also include cost audits and safeguards against indirect payments with the objective of ensuring greater accountability for the actual cost of distribution
 
-## Rallis India’s Gyanendra Shukla to head CropLife India
-Rajvir Rathi, head of agricultural affairs and policy at Bayer Crop Science, and Giridhar Ranuva, business director of BASF Agricultural Solutions India, will be the new Vice-Chairmen
+## Trump weighs 90-day diesel export ban as US fuel prices hit record high: Report
+The Trump administration is contemplating a 90-day ban on US diesel exports to combat rising energy prices. This initiative comes as diesel prices have surged significantly amid international conflicts and supply disruptions. While some officials oppose the ban, others argue it could create long-ter
 
-## Project Sambandh wins Changemaker award for supporting bereaved military families
-Colonel Vembu Shankar’s self-funded initiative helps families access welfare benefits, financial assistance and livelihood opportunities
-
-## Marvell to double India R&D capabilities as AI shifts towards custom silicon, networking
-The company’s India expansion comes as the company sees a significant opportunity in AI infrastructure
-
-## Greenr targets another $30 million for Indian climate startups
-The $30-million target will measure Greenr’s ability to unlock capital. The harder test is whether India’s climate ventures can turn pilots into repeat orders and sustainable revenues
-
-## SEBI plans to review merchant banking and IPO rules
-Regulator to examine price bands, advertising costs and valuation requirements to simplify public issues
-
-## FSSAI proposes to implement front-of-the-pack labelling regulations in one phase
-It has also proposed to give a period of one year to packaged food companies for voluntary labeling
+## Not an apartment, but an entire tower: Angel One founder buys it for Rs 711 crore
+Dinesh Thakkar, founder and CMD of financial services and stockbroking company Angel One, will acquire an entire luxury residential tower in Mumbai's Juhu area from Embassy Developments for more than Rs 711 crore.
 
 ## Gadkari urges sugar mills to make CBG; says Rs 22 lakh crore goes abroad for fuel imports
 Gadkari has called on sugar mills to expand into value-added by-products, particularly compressed bio-gas (CBG), ethanol, bio-manure and sustainable aviation fuel.
@@ -78,35 +84,29 @@ Aliko Dangote has hired Engineers India Ltd to oversee his $16 billion refinery 
 ## Railway tracks capable of 130 kmph speed rise 5x in 12 years, but punctuality is 77%
 According to recent Ministry of Railways data released, about 54,600 km of railway tracks were renewed between 2014 and February 2026, with track renewal and upgrading being carried out based on factors such as the age, traffic load and condition of the track.
 
-## NSE IPO listing: National Stock Exchange of India to debut on September 24; check GMP & other details
-As the NSE listing approaches, investors will be watching movements in the grey market premium, the broader market mood and participation from institutional investors. These factors will be closely followed as the exchange prepares for its debut on the BSE.
+## 2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha
+2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha
 
-## He got 2 flats worth Rs 1.38 crore for tenancy rights; taxman sent notice, what ITAT said
-He was a tenant in Mumbai in a housing society that was slated to undergo redevelopment. He received two flats in the redeveloped building in return for surrendering his tenancy rights. The tribunal ruled that a tax demand under Section 56(2)(x) could not be imposed on the individual merely because 
+## UNSC's inability to address ongoing conflicts highlights urgency of reform: India
+External Affairs Minister S Jaishankar made these remarks as he co-chaired the L.69 Consultative Ministerial Interaction on UNSC reform.
 
-## Madhya Pradesh to resume state govt bus services after 20 years on September 25
-The Madhya Pradesh transport department is resuming bus services in the state after 20 years, with both intercity and intracity services planned.
+## Aaditya Thackeray responds to Satish Salian's notice, refutes allegation of defamation
+Satish Salian sent the Sena (UBT) MLA a notice on September 17 alleging that Thackeray had defamed him in two posts.
 
-## Russia says ‘helping India weather Iran war’s energy shock’ after Zelensky's 'stop energy trade with Moscow' remark
-Russia-New Delhi ties helped ‘significantly mitigate’ Iran war’s impact and global energy trade disruptions, said Russian deputy FM Andrei Rudenko
+## Cooking likely to get cheaper as Centre cuts customs duty on edible oils
+Duty on crude soybean and palm oils has been cut from 10% to 5%, while that on refined varieties has been reduced from 32.5% to 27.5%.
 
-## Delhi court grants default bail to 6 Ukrainians in Myanmar arms training case
-A Delhi court granted default bail to six Ukrainians arrested by the NIA in March over allegations that they trained ethnic armed groups in Myanmar.
+## Ayushman Bharat turns eight: 600 million people covered under PM-JAY
+Ayushman Bharat PM-JAY has benefited 600 million people in eight years, with 485 million Ayushman Cards issued, health ministry data showed.
 
-## FSSAI cracks down on e-commerce platforms over food violations; Amazon, Swiggy, BigBasket under scanner
-The action was taken for misleading claims related to food product 'Happilo Premium Date Bites - Zesty Orange' and some dairy products of Milky Mist.
+## Germany says India can leverage Russia ties to help end Ukraine war
+Germany believes India can use its long-standing ties with Russia to help end the Ukraine war, German envoy Jasper Wieck said.
 
-## TN crime branch raids R Veeramani’s properties in connection with Pocso case
-As of Wednesday, four people including R Veeramani, his close aides Shanthi, her husband Mahandra Simhan and Ganeshan, a former employee, have been arrested
+## US State Secretary Marco Rubio says global system ‘broken’: ‘Can’t address potential conflicts like India-Pakistan’
+Marco Rubio also pointed to US President Donald Trump's remarks stating the United Nations was “not living up to its potential”.
 
-## Ex-ED official Niranjan Singh joins Akali Dal Waris Punjab De ahead of Punjab polls
-Asked about allegations of the misuse of central agencies including the ED, Niranjan said there is no government which does not misuse it a "little bit".
-
-## Indian seafarer killed in torpedo attack on MV Cape Dao near Oman
-The carrier was en route from Mina Saqr to India via the Oman route when two torpedoes reportedly hit its port side.
-
-## Jaishankar meets Rubio on UNGA sidelines, raises concern over Russia sanctions act
-The meeting comes days after US President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act into law.
+## Sanjana Sanghi at UNGA: Actor calls for investment in education, healthcare and greater role for youth
+Sanjana Sanghi addressed a UNGA engagement, calling for greater investment in education and healthcare and a bigger role for young people
 
 ## Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta
 US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his views on the sector, especially as competition with China intensifies. Microsoft topped the list of sales
@@ -132,6 +132,15 @@ The global artificial intelligence trade is staging a comeback, as a confluence 
 ## Chinese maker of robot-vacuum sensors launches Hong Kong IPO, undeterred by US ban
 Shenzhen Camsense Technologies, a maker of spatial sensors for robotic vacuum cleaners, launched a Hong Kong initial public offering (IPO) that aims to raise about HK$680 million (US$86.7 million), despite headwinds from Washington’s recent import ban on foreign-made vacuum robots. “The export and p
 
+## How to Create a Billion Jobs
+World Bank President Ajay Banga explains how he’s navigating a generational challenge.
+
+## The World Needs to Know When AI Goes Wrong
+Global reporting standards are a key step toward safety.
+
+## The Iran War Might Be Somaliland’s Chance for Recognition
+The unrecognized republic is pitching itself as a strategic ally for Washington.
+
 ## Trump Wants to Ban Diesel Exports. It Won’t Help.
 Government interference in the world’s largest oil-producing state would be counterproductive.
 
@@ -147,38 +156,32 @@ U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General 
 ## Trump Threatens to ‘Annihilate’ Iran in U.N. Speech
 Such warnings—on the U.N. stage, no less—could be considered war crimes.
 
-## Xi Comes to Washington Armed With a Rare-Earth Card
-Trump still doesn’t have an answer to China’s leverage.
+## Xi Jinping Is Coming to the US. Why Is He Skipping the UNGA?
+Xi’s coming to the U.S. East Coast while the United Nations’ biggest event is going on. That makes his absence all the more striking.
 
-## The West Is Sending Russia the Wrong Signals
-Europe’s fear of escalation is encouraging Putin.
+## On Taiwan, US ‘Strategic Ambiguity’ Is Not Dead Yet
+What look like indications of U.S. abandonment of Taiwan are relatively superficial, while substantive investment in capabilities that could deter China continues apace.
 
-## Don’t Expect Fireworks From the Trump-Xi Summit
-Trade, minerals, and AI are on the agenda, but breakthroughs are unlikely.
+## The Trump-Xi Summit: Stakes for Australia
+Trump wants more sales. Xi wants fewer constraints. What does Australia need from the Trump-Xi summit?
 
-## Trump and Xi: Strongmen at the Temple of Thymos
-The ego-driven fragility of a world run by Xi Jinping and Donald Trump.
+## At UNGA, Kyrgyz President Japarov Once Again Complains About Sanctions
+Japarov also thanked Donald Trump for ending funding of NGOs.
 
-## 3 Ts Will Dominate the Trump-Xi Summit
-Expect little movement on trade, less on Taiwan, and who knows on tech.
+## The China-Russia Factor in the Iran War
+Insights from Stephen J. Blank.
 
-## A Debate Is Raging in China Over English Education
-Rising youth unemployment, the advent of AI translation, and growing anger against everything foreign are fueling public anger against English education in China.
+## In Taiwan, a Disaster Exercise Prepares for Conflict, Too
+This year’s natural disaster drill sought to stress-test Taiwan against cascading, multisystem failures – with obvious implications for an invasion scenario as well as an earthquake.
 
-## America’s AI Safety Dilemma and the Trump-Xi Summit
-Washington will not slow its own AI labs. Slowing China’s instead would look like safety policy, but it could cost the United States the one AI deal within reach this week.
+## Warming Himalayas: Nepal’s Climate Justice Test
+Nepal’s devastating Himalayan floods have exposed the human and economic cost of a warming region, reviving demand for climate justice.
 
-## SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?
-This year’s summit season reveals conflicting visions of global order (and India’s place in it).
+## Why Is the US Eyeing Gwadar Port?
+Will Washington translate its interest in Gwadar and the region around it into a policy to establish its presence there?
 
-## The Transitions Shaping Australia’s Future
-In its latest Intergenerational Report, the Australian Treasury lays out five transitions shaping the coming decades.
-
-## Why South Korea Has Little Room to Send Troops to Hormuz
-Seoul has previously sent troops to support U.S. military operations in the Middle East. Today, both the external and domestic environments make that much harder to do.
-
-## BRICS 2026 Reveals Ambition, Contradictions, and Uncertain Futures
-BRICS’ New Delhi Summit expanded the grouping’s ambitions, but geopolitical divisions and weak institutional clarity continue to challenge its future.
+## South Korea’s Deliberate Strategic Ambiguity on Taiwan
+In 2021, Sungmin Cho wrote, “South Korea’s Taiwan Conundrum,” where he argued Seoul’s complex strategic position makes engagement on questions of involvement over a Taiwan contingency complicated. Five years later, we asked him to revisit his arguments.Image: U.S. Navy (Photo by Seaman Apprentice Ca
 
 ## Winning by the Rules: Optimizing Weapons Reviews in the Age of Technological Innovation
 We spare the reader another detailed story from Ukraine to establish the now-familiar point that battlefield technology changes faster than militaries can acquire, review, and field it. The villain in this story is easy to identify: bureaucracy. The fashionable remedies are equally familiar — cut th
@@ -200,9 +203,6 @@ What do a rare earth mine in Brazil and a graphite mine in Mozambique have in co
 
 ## Only America Could Have Designed the Field Jacket
 When the M-1943 field jacket was introduced at the height of World War II, it was a revolutionary garment. The jacket was the result of rigorous testing, input from an astonishingly diverse group of experts, and was produced by the most advanced textile and garment industry in the world at the time.
-
-## Pressure Points
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranSenior officials from Iran, Oman, and neighboring Gulf states were scheduled to meet in Salalah on Monday to
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UEFA Nations League 2026-27: Groups, teams, top players, format
-All to know about the fifth edition of the competition as its league phase begins on Thursday.
+## Man Utd losses jump almost a third despite record revenues
+Manchester United's debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.
 
-## Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’
-Iranian President Masoud Pezeshkian told the UN General Assembly that ‘warfare knows no borders’.
+## Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams
+A star-studded opening to AFCON 2027 qualifying sees Real Madrid's Yan Diomande lead Ivory Coast against depleted Ghana.
 
-## Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks
-Ukraine's Zelenskyy met Trump on Tuesday and discussed a potential bilateral ceasefire on energy-related targets.
+## Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’
+Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts.
 
-## Trump pushes Russia-Ukraine ‘energy truce’: Can it work?
-Talks of a possible halt in attacks on energy facilities come as strikes on such targets continue unabated.
+## Israeli soldier wounded in car-ramming attack in occupied West Bank
+Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon.
 
-## Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?
-The alliance brings together movements with different enemies, claims and histories as tensions with Abiy rise.
+## US lawmakers propose sweeping AI restrictions with superintelligence ban
+Legislation seeks to pause advanced AI systems until federal safety standards are established.
 
-## Al-Sharaa: Occupied Golan Heights to ‘remain Syrian territory’
-Syrian President Ahmed al-Sharaa demanded the withdrawal of Israeli forces from Syrian territory.
+## Iran threatens countries enforcing US airline sanctions
+Iran has threatened countries enforcing US sanctions on its airlines, warning that their airports could face disruptions
 
-## Moroccans head to polls amid economic uncertainty to decide next parliament
-Millions of Moroccans vote today for a 395-seat parliament amid new digital proxy and anti-fraud measures.
+## Trump administration to defend its ban of major news outlets in court
+The news organisations are scheduled to make their case to a US district judge on Wednesday afternoon.
 
-## How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?
-UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen's Houthi group.
+## Zelenskyy: Putin is making the world ‘more dangerous’
+Ukrainian President Volodymyr Zelenskyy is warning that Russia's “never-ending war" could spread throughout Europe.
 
 ## ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill
 A majority of the suggestions made by the ICAI on changes to NFRA have been accepted by the government, according to a senior ICAI official, as the Centre continues work on the revised legislation ahead of its expected introduction during the Winter Session.
