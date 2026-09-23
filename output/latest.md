@@ -1,67 +1,85 @@
 # AION Intelligence
 
-## Oil price on track for longest losing streak in more than 12 months
-Brent crude falls below $99 a barrel in Asian trading amid talks over Middle East conflict
+## The west does not have a leadership problem
+If Friedrich Merz and almost everyone else is unpopular, perhaps governments aren’t the issue
 
-## Meloni at spending crossroads after failing to get off EU’s fiscal naughty step
-Also in this newsletter: are Europe’s state aid rules hurting small companies?
+## Swiss lawmakers back tougher bank capital rules in blow to UBS
+Parliament’s upper house rejects compromise proposal in battle between lender and Bern
 
-## FirstFT: Boehly gets US and Gulf backing for Lukoil assets bid
-Also in today’s newsletter: Novo’s US listing and oil tanker costs
+## FirstFT: Oil on track for sixth consecutive day of falls
+Also in today’s newsletter: financier Todd Boehly leads consortium to buy Lukoil’s international assets, and OECD warns on surging government bond yields
 
-## A more hawkish ECB will respond to prolonged high energy prices
-Read the September forecast from the FT’s Monetary Policy Radar team
+## Why Germany’s ‘chancellor-in-waiting’ is biding his time
+Hendrik Wüst, the popular premier of North Rhine-Westphalia, is seen as the most likely successor to Friedrich Merz
 
-## South Korea bets on Texas gas plant to satisfy Trump
-Seoul to fund $22bn power plant as pressure mounts to deliver on $350bn investment deal
+## Azerbaijan pardons French national as part of secret prisoner release deal
+Paris blindsided allies when it pushed for Russian oligarch to be exempt from EU sanctions as part of its deal with Baku
 
-## Has Trump caged his China hawks?
-Xi Jinping will arrive in Washington this week to find a US president wary of jeopardising their détente
+## Bank of England does not need to raise interest rates, says OECD
+Paris-based group says the UK is ‘starting from a different position’ on monetary policy compared with other countries
 
-## Global banks warn UK windfall tax will trigger shift away from London
-Chancellor John Healey is looking for revenues in next month’s Budget to compensate for hit from higher borrowing costs due to Iran war
+## Pornhub’s age checks probed by UK watchdog
+Ofcom investigates whether porn site’s service provider met its duty to protect children online
 
-## Private equity has a new kind of SaaS: swimming as a service
-There are north of 10mn installed pools in the US and they all need regular cleaning and repair
+## The Lib Dems’ unserious tax cut pledge
+An unlikely plan to fund increased tax thresholds with extra growth from EU deals will turn away target voters
 
-## Biotech is one area where the US can afford to let China flourish
-Drugmakers are picking through the Chinese biotech sector to find treatments and technologies to bring to overseas markets
+## Lidl owner among suitors circling Tesco’s European business
+Schwarz Group, Ahold Delhaize and Biedronka are expected to bid as UK retailer retreats from international operations
 
-## Ozempic-maker Novo open to upgrading US listing
-Boss Mike Doustdar says he sees ‘advantages’ in giving US investors direct access to Danish group’s stock
+## The model making vegan shoes sexy
+Jessica Miller has designed a heel for Aera – and her Metallica husband approves
 
-## Diesel surge costs European drivers €203mn per day
-Motorists are spending 40% more each time they refill their tank, compared with the start of the year
+## Drone specialist Tekever’s valuation soars fivefold to $6.4bn
+Portuguese group becomes one of Europe’s most valuable start-ups after latest $580mn fundraising deal
 
-## Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping
-Shortage of biggest supertankers has more than doubled rates on key Middle East-China routes since late August
+## Enter slopfiling
+Some companies love ChatGPT and they don’t care who knows it
 
-## Todd Boehly’s oil deal from Russia with love
-The billionaire financier secures backing of the US and Gulf power brokers to bid for the international assets of Lukoil
+## Diageo poaches WPP finance chief as CEO Lewis overhauls top team
+Drinks group’s chief Dave Lewis appoints former Tesco colleague Joanne Wilson
 
-## Artha Venture Fund doubles down on InstaAstro as faith-tech attracts investors
-Artha Venture views astrology as an established consumer demand rather than a category that needed to be created
+## Broker’s call: M&M Financial (Buy)
+ICICI Securities
 
-## Stork Sisters and the wings of change
-How Purnima Devi Barman’s 20,000-woman-strong ‘Hargila Army’ saved an endangered stork and built an entrepreneurial empire
+## Samsung Galaxy S26 FE Review: Premium economy gets pricier in 2026
+Premium design, gorgeous display and a whole suite of AI smarts are packed in the Samsung Galaxy S26
 
-## Supra Pacific Financial Services eyes five-fold expansion; plans 500 branches nationwide
-The company is looking to expand its nationwide presence to 500 branches across 15 states over the next three years
+## Broker’s call: IRCTC (Buy)
+We value IRCTC at 25x average of FY28E & FY29E EPS and initiating coverage with a ‘Buy’ recommendation with target price of ₹560
 
-## Sensex today | Stock Market Live: Nifty holds above 23,400, Sensex gains 342 points amid cautious trade
-Sensex, Nifty, Stock Price Live: Indian equity benchmarks edged higher on Wednesday, but a cautious derivatives setup, continued foreign outflows and elevated bond yields limited the strength of the recovery.
+## India’s shrimp exports up 1% in July, cross 80,000-tonne mark
+Exports during the first seven months of CY26 reached 4,55,489 tonnes, reversing the marginal decline in H1, says a InCred Research report
 
-## BRO – Connecting the frontiers
-The organisation has evolved and is now a key infra creator for military and civilian use alike
+## Navitas Solar plans ₹10,000-crore green energy blitz across Gujarat, Maharashtra
+The proposed expansion will create manufacturing facilities across the solar value chain, including ingots, wafers, high-efficiency solar cells and battery energy storage systems
 
-## The ‘pain’ doctor
-MR Rajagopal recognised the importance of palliative care
+## Verified Packers and Movers Quotes in Minutes: Thepackersmovers.com Launches Festive Season Update
+Verified Packers and Movers Quotes in Minutes: Thepackersmovers.com Launches Festive Season Update
 
-## Informal Economy Index: Giving visibility to invisible gig workers
-Ariana Agarwal’s aim was to turn compassion into action and make India’s informal workers count
+## CIAL strengthen Far East connectivity with four weekly Bangkok services
+The winter schedule commencing from October 26 to March 28, 2027 features a total of 1,766 scheduled weekly flight movements, comprising 885 arrivals and 881 departures
 
-## ‘Popping’ an agri-revolution
-From 11 acres and 2 farmers in 2016, Gourmet Popcornica has expanded the area under popcorn maize to more than 40,000 acres and 17,800 farmers today
+## Gujarat puts 63.35 lakh farmers on digital registry; links Aadhaar to land records
+This registry, part of the Centre’s Digital Agriculture Mission, aims to create a single digital identity for farmers and simplify access to government agricultural schemes and services
+
+## India's GDP growth forecast: After Moody's, S&P, Fitch and OECD raise FY27 projections
+
+
+## Africa’s richest man picks Indian PSU for $450 million refinery contract in Kenya
+Aliko Dangote has hired Engineers India Ltd to oversee his $16 billion refinery construction in Kenya. The refinery in Lamu will have a capacity of 700,000 barrels per day when completed. Dangote plans to strengthen regional energy security by reducing reliance on imports through this project. Work 
+
+## Railway tracks capable of 130 kmph speed rise 5x in 12 years, but punctuality is 77%
+According to recent Ministry of Railways data released, about 54,600 km of railway tracks were renewed between 2014 and February 2026, with track renewal and upgrading being carried out based on factors such as the age, traffic load and condition of the track.
+
+## NSE IPO listing: National Stock Exchange of India to debut on September 24; check GMP & other details
+As the NSE listing approaches, investors will be watching movements in the grey market premium, the broader market mood and participation from institutional investors. These factors will be closely followed as the exchange prepares for its debut on the BSE.
+
+## He got 2 flats worth Rs 1.38 crore for tenancy rights; taxman sent notice, what ITAT said
+He was a tenant in Mumbai in a housing society that was slated to undergo redevelopment. He received two flats in the redeveloped building in return for surrendering his tenancy rights. The tribunal ruled that a tax demand under Section 56(2)(x) could not be imposed on the individual merely because 
+
+## Russian oligarch’s wedding gift to Trump Jr puts family dealings under scrutiny
+Senator John Curtis has called for a thorough Senate investigation into Donald Trump Jr's financial ties to a Russian oligarch amid mounting concerns of potential corruption linked to Umar Kremlev's extravagant wedding celebration. This move seeks to ensure that Trump Jr's foreign business dealings 
 
 ## Gold price prediction today: Why are gold prices choppy? Check September 23, 2026 outlook
 Gold price prediction today: The Indian Gold market has been more cautious. Domestic prices are trading below import parity, with discounts widening sharply from $34/oz in July to $78/oz by mid-September.
@@ -69,53 +87,44 @@ Gold price prediction today: The Indian Gold market has been more cautious. Dome
 ## Top stocks to buy today: Stock recommendations for September 23, 2026 - check list
 Stock market recommendations: Deepak Fertilisers & Petrochemicals Corp Ltd, Jubilant FoodWorks, and HDFC Life Insurance Company are the top buy calls from Mehul Kothari, DVP of Technical Research at Anand Rathi Shares for September 23, 2026.
 
-## Nationwide strike : Banks to remain shut for three days - what customers need to know
-Bank unions are gearing up for a three-day nationwide strike from September 28 to 30, potentially halting banking services and creating a five-day interruption for customers due to the preceding weekend holiday. Key banking activities, including half-yearly closings, will coincide with this period, 
+## IIT Bombay’s 10-member committee begins probe into Btech student’s death
+The committee was appointed four days after the student’s death and has been asked to submit its report within a week
 
-## Builder delayed Rs 44.36L flat by 18 months; RERA orders 10.7% interest for homebuyer
-The interest is to be calculated on the amounts already paid by the homebuyer and will apply from June 26, 2025 until the date on which lawful possession of the flat is actually handed over.
+## Manipur violence: Electric lineman shot dead, 24 houses set ablaze
+A private electric lineman was shot dead in Tamenglong while repairing a 33 KV line; hours later, 24 houses in two Kangpokpi villages were set ablaze.
 
-## Trump buys up to $50,000 of Musk’s SpaceX, sells some a week later
-In July, Donald Trump showcased his financial acumen with substantial investments, notably entering and exiting positions in Elon Musk's SpaceX. His trading spectrum also included major players like Microsoft and Amazon, totaling over 1,150 transactions, highlighting a well-rounded investment strate
+## 'Go counsel Pakistan': India hits back at OIC over Kashmir remarks
+India described the OIC's references to Jammu and Kashmir as “unwarranted and factually incorrect.”
 
-## Stock market today: BSE Sensex jumps over 200 points; NSE Nifty50 trades above 23,400
+## Gautam Adani dethrones Mukesh Ambani to become India's richest with ₹9.22 lakh crore wealth
+The industrialists were followed by Lakshmi Niwas Mittal and family with a net worth of ₹ 3.39 lakh crore.
 
+## No elections should be held under CEC Gyanesh Kumar, says Akhilesh Yadav
+He also alleged that the Commission failed to act on numerous complaints filed by his party, including during the Special Intensive Revision
 
-## Oil prices ease as Saudi restores key pipeline, traders optimistic on US-Iran talks
-Oil prices have dropped below $100 a barrel due to Saudi Arabia restarting crude supply operations. Diplomatic efforts to resolve the US-Iran conflict have also contributed to easing market pressure. US crude inventories increased by 1.8 million barrels in the past week, contrary to analysts' expect
+## MP spurious liquor case: Prime suspect with ₹30,000 bounty held after encounter
+Manish Lodhi, carrying a ₹30,000 bounty, was arrested with associate Ashish Sahu after a brief encounter in Sagar’s Malthon area, police said.
 
-## Trump touts Venezuela oil deal, says it will drive down energy prices worldwide
-US President Donald Trump announced a major oil deal with Venezuela. This agreement covers sixty-five billion barrels of oil and aims to lower global energy costs. The deal is expected to boost Venezuela's oil production significantly over time. Experts, however, believe immediate price changes are 
+## From SIR deletions to Form 6 and voter database: Election Commission's point-by-point rebuttal amid row
+EC said it remains fully committed to executing its constitutional duties with complete integrity, recognising its vital role in advancing Indian democracy.
 
-## India-Middle East Economic corridor gets Trump's support, but will Saudi join the club?
-Western think tanks see Syria as an alternative, but IMEC offers a more viable route linking Gulf oil suppliers with consumers in Europe and Indian subcontinent
+## 4 die after being run over by speeding train in Andhra Pradesh; 1 injured: Cops
+Following the accident, railway officials and police personnel rushed to the scene and launched rescue and relief operations
 
-## 'Ghost' influence, ritual for dead brother's soul: Shocking claims in UP triple murder
-The incident unfolded in Shambhupur village around 6 pm on Tuesday when Singh allegedly returned to find a ‘puja’ or prayer service being held inside his house.
+## Hong Kong sets yuan-trading timeline, backing Beijing’s push to boost currency’s use
+Hong Kong’s securities regulator aims to include a yuan-trading counter in a cross-border channel linked with mainland Chinese investors by July 1, marking the latest step in the city’s efforts to advance the internationalisation of the Chinese currency. The measure, announced on Wednesday, is part 
 
-## Delhi’s AQI begins to worsen as winter pollution cycle nears
-On Wednesday, Safdarjung recorded a minimum temperature of 24.8°C and the previous-day maximum of 36.1°C with rainfall likely throughout the day
+## Hong Kong unveils gold, bond and liquidity plans to drive next phase of yuan adoption
+Bourse operator Hong Kong Exchanges and Clearing (HKEX) will launch yuan-denominated gold futures early next year, while the city’s de facto central bank plans to introduce more yuan products and platforms to support the diversification and digitalisation of the currency’s internationalisation, spea
 
-## Gyanesh Kumar 'enemy of India', ‘scripting elections’: CJP's Abhijeet Dipke on report over EC internal rift
-CJP's Abhijeet Dipke also criticised the poll body chief, CEC Gyanesh Kumar, and alleged in a post on X that the he is “scripting elections”.
-
-## Storm alert: Are schools in Odisha, Andhra Pradesh open or closed today?
-Educational institutions in several districts of Odisha have been ordered to remain closed till September 24, Thursday.
-
-## ‘Invisible hand’: Opposition questions ECI after report on commissioners’ SIR concerns
-An Indian Express investigation showed Sukhbir Singh Sandhu and Vivek Joshi placed objections on record at least 14 times
-
-## Election Commission sources reject report of internal disquiet: ‘SIR, all other decisions unanimous’
-A report claimed that Election Commissioners recorded at least 14 objections over 10 months to decisions they said were issued without their approval.
-
-## 'Russia’s economy depends on India': Zelensky says ending oil trade could stop Ukraine war
-Zelensky's remarks came days after US President Donald Trump signed the Lindsey O Graham Sanctioning Russia and Iran Act into law.
+## Physical moves by online financial firms unlikely to pump up property market: analysts
+Digital financial service providers, including online brokerages and digital banks that used to trumpet their “zero-branch, fully online” models, have been opening physical stores across Hong Kong recently. Analysts described it as a strategic trend aimed at enhancing brand image and service quality
 
 ## Chinese EV battery giant CATL starts trial production at Hungarian factory
 Contemporary Amperex Technol­ogy Ltd (CATL) has cleared all regulatory hurdles for its mega factory in Hungary, a development that analysts expect will help the world’s largest producer of electric vehicle (EV) batteries extend its reach to international marques like BMW and Volkswagen. Production o
 
 ## AI trade outlook brightens on falling oil and Meta’s Muse agent ahead of Xi-Trump meeting
-The global AI trade is staging a comeback, as a confluence of falling oil prices, Meta Platforms’ launch of a new agentic tool, and anticipation surrounding the China-US leadership summit reignite interest in technology stocks. The Nasdaq-100 Index hit an all-time high on Tuesday, surpassing the pre
+The global artificial intelligence trade is staging a comeback, as a confluence of falling oil prices, Meta Platforms’ launch of a new agentic tool and anticipation surrounding the China-US leadership summit reignite investor interest in technology stocks. The Nasdaq-100 Index – where tech firms mak
 
 ## Chinese maker of robot-vacuum sensors launches Hong Kong IPO, undeterred by US ban
 Shenzhen Camsense Technologies, a maker of spatial sensors for robotic vacuum cleaners, launched a Hong Kong initial public offering (IPO) that aims to raise about HK$680 million (US$86.7 million), despite headwinds from Washington’s recent import ban on foreign-made vacuum robots. “The export and p
@@ -126,14 +135,8 @@ Record-breaking heat, devastating droughts, deadly wildfires and heavy rain and 
 ## China’s gig economy
 –
 
-## Rising US scrutiny on clinical trials could threaten China’s biotech advantage: analysts
-China’s edge in fast, cost-effective early clinical trials has propelled its emergence as a global biopharmaceutical powerhouse, but there is a risk that the United States could take steps to curb that advantage, according to analysts. US lawmakers and officials at the Food and Drug Administration (
-
-## China’s cancer breakthrough on CAR-T cell therapy shows progress
-In June, Chinese regulators approved the world’s first CAR-T cell therapy for solid tumour cancers, developed by a drug company based in Shanghai. One month later, at a hospital in the city, a New Zealander with advanced cancer of the stomach and small intestine became the first international patien
-
-## China’s AI self-reliance presents opportunities but valuations, geopolitics are risks: BofA
-China’s push for tech self-reliance is opening new investment opportunities in artificial intelligence stocks, but stretched valuations and geopolitical tensions make the sector an increasingly risky bet, according to Bank of America. The country’s tech firms are catching up with overseas rivals whi
+## What Machiavelli Would Say About Trump
+The U.S. president offers a guide on how to be a very bad prince.
 
 ## Malaysia’s Top Crook Gets Leniency
 Reformers who had pinned hope on Anwar to clean things up are enraged.
@@ -156,8 +159,8 @@ Trade, minerals, and AI are on the agenda, but breakthroughs are unlikely.
 ## How AI Fits Into Humanity’s Troubling History
 Like nuclear weapons, AI was born of human ingenuity. But its challenges are unique.
 
-## How Canada Is Navigating Trump’s Threats
-A conversation with Foreign Minister Anita Anand.
+## Trump and Xi: Strongmen at the Temple of Thymos
+The ego-driven fragility of a world run by Xi Jinping and Donald Trump.
 
 ## 3 Ts Will Dominate the Trump-Xi Summit
 Expect little movement on trade, less on Taiwan, and who knows on tech.
@@ -180,8 +183,11 @@ Seoul has previously sent troops to support U.S. military operations in the Midd
 ## BRICS 2026 Reveals Ambition, Contradictions, and Uncertain Futures
 BRICS’ New Delhi Summit expanded the grouping’s ambitions, but geopolitical divisions and weak institutional clarity continue to challenge its future.
 
-## The Battle for Taiwan’s East: Taipei’s Western Pacific Strategy
-The PLA has stepped up both the scale and intensity of its activities in the airspace and waters east of Taiwan. How can Taipei respond?
+## Winning by the Rules: Optimizing Weapons Reviews in the Age of Technological Innovation
+We spare the reader another detailed story from Ukraine to establish the now-familiar point that battlefield technology changes faster than militaries can acquire, review, and field it. The villain in this story is easy to identify: bureaucracy. The fashionable remedies are equally familiar — cut th
+
+## Seoul Needs a Playbook for Hormuz, Ukraine, and What Comes Next
+Earlier this month, President Donald Trump shared a Washington Post opinion piece on his social media, arguing that South Korea should send its Cheongung-II air-defense system to Ukraine. Additionally, the Trump administration continues to pressure Seoul to send troops to the Strait of Hormuz. Neith
 
 ## What the End of Operation Inherent Resolve Means for Iraq and Syria
 Operation Inherent Resolve is scheduled to end on Sept. 30, as remaining U.S. troops in northern Iraq complete their withdrawal. The United States formed Combined Joint Task Force – Operation Inherent Resolve in October 2014 to bring together partners to combat the Islamic State of Iraq and the Leva
@@ -200,12 +206,6 @@ When the M-1943 field jacket was introduced at the height of World War II, it wa
 
 ## Pressure Points
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranSenior officials from Iran, Oman, and neighboring Gulf states were scheduled to meet in Salalah on Monday to
-
-## Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence
-Washington is preparing for the right war, but in the wrong theater. For years, U.S. strategic thinking has centered on the Indo‑Pacific: the militarized atolls of the South China Sea, China’s churning naval shipyards, and the tense waters of the Taiwan Strait. Yet the next phase of competition will
-
-## Latin America’s Balancing Act: Washington, Beijing, and the Post-Maduro Environment
-The year 2026 has brought sweeping change to Latin America’s relationship with the United States. Following a major military buildup in the Caribbean and strikes against vessels suspected of drug trafficking, U.S. forces captured Venezuelan President Nicolás Maduro on Jan. 3 — unilaterally deposing 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump rallies Shield of the Americas coalition against drug cartels
-US-led anti-cartel alliance backs sanctions against crime groups after Trump urges stronger action.
+## Qatar on mediation efforts: ‘We can’t let diplomacy fail’
+Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.
 
-## Cooperation is the goal at the UNGA, but is it possible?
-Debate opened at the UN General Assembly and leaders from across the world made their arguments.
+## China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
+The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.
 
-## Six-year-old sets Rubik’s Cube world record twice in three days
-Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.
+## Powerful El Nino could cause more than 450,000 deaths, scientists say
+Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.
 
-## US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
-Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.
+## As AI leaders warn of catastrophe, US and China shun slowdown calls
+Presidents Donald Trump and Xi Jinping are expected to agree to only limited cooperation on AI safety at summit.
 
-## Sri Lanka convicts 15 people over 2019 Easter Day bombings
-Fifteen people have been convicted over Sri Lanka’s 2019 Easter Sunday bombings, which killed 279 people.
+## Yemen government forces claim control of Mount Qarfan in Taiz
+Major General Abdulaziz al-Majidi says five Houthi fighters killed and 20 wounded after 'fierce battles'.
 
-## Venezuelans protest interim leader Delcy Rodriguez at UN headquarters
-Venezuelans protested in New York against interim President Delcy Rodriguez's participation in the UN General Assembly.
+## World leaders say UN Security Council failing to function
+World leaders say UN Security Council failing to function
 
-## Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace
-Investors shrug off AI safety concerns and Iran war, sending market to a new peak.
+## Europe’s centrists are finally paying the price of their extremism
+The centre’s blind adherence to austerity has devastated European societies.
 
-## France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA
-France's Macron says suffering in Gaza should 'shame all of us' as Canada's Carney pledges $71m for two-state efforts.
+## Ethiopian Airlines suspends flights to three northern Tigray airports
+The suspension comes after Tigrayan forces took control of Mekelle airport.
 
 ## ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill
 A majority of the suggestions made by the ICAI on changes to NFRA have been accepted by the government, according to a senior ICAI official, as the Centre continues work on the revised legislation ahead of its expected introduction during the Winter Session.
@@ -279,6 +279,9 @@ India’s record FCNR(B) mobilisation has been an extraordinary funding success,
 ## US' nips at Moscow may sour India ties
 India has been in talks with the US over the past few months, conveying the possible adverse impact on ties if up to 100% tariffs are imposed under the legislation.
 
+## Expected rise in interest rates may hit NBFC profits; housing financiers could gain: Report
+Rising borrowing costs and a possible increase in the Reserve Bank of India's (RBI) policy repo rate could put pressure on the profitability of non-banking financial companies (NBFCs), particularly vehicle financiers and microfinance lenders, while housing finance companies could benefit from higher
+
 ## Govt set to consider auto PLI applications with Chinese investment after FDI nod
 The Indian government is likely to consider production-linked incentive applications from auto companies with Chinese investments. This decision comes after President Xi Jinping's recent visit to India and improving relations. Existing applications with foreign direct investment (FDI) approvals will
 
@@ -296,7 +299,4 @@ The finance ministry has sought feedback from regulators, banks and other stakeh
 
 ## SEBI to look into broker, AMC concerns over UPI MDR: Tuhin Kanta Pandey
 SEBI chairman Tuhin Kanta Pandey said the regulator will look into concerns raised by brokers and AMCs over UPI MDR and assess how they can be eased, following the government’s recent framework introducing charges on specified merchant transactions.
-
-## SEBI's F&O expiry settlement changes could address key CAS concerns; deeper cash market reforms needed: Kotak
-The Securities and Exchange Board of India's (SEBI) proposed changes to the settlement of futures and options (F&O) contracts could address a key concern over the reliance on the Closing Auction Session (CAS) to determine expiry prices, but deeper cash-market participation will be needed to make the
 
