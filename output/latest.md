@@ -1,40 +1,40 @@
 # AION Intelligence
 
+## OpenAI agent hacked an Australian health service website
+Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’
+
+## FirstFT: Xi Jinping and Donald Trump set for high-stakes summit
+Also in today’s newsletter: Geely’s new fast-charging EV battery and US Treasury yields soar most since ‘liberation day’
+
+## Apple’s ChatGPT tools ‘dramatically underperformed’, OpenAI claims
+Court documents reveal how companies’ ties unravelled while the iPhone maker has since turned to a Google-powered ‘Siri AI’
+
+## Treasury open to smaller fiscal headroom to reduce UK tax hikes
+Investors signal Budget buffer could fall from the £23.6bn forecast to around £14bn without spooking gilt market
+
+## Xi Jinping arrives for high-stakes summit with Donald Trump
+Gathering comes less than two months before expiry of US-China trade truce
+
 ## US Treasury yields soar most since ‘liberation day’ tariffs shook markets
-Traders crank up bets on Federal Reserve rate rises after new data fuels worries economy is overheating
+Traders crank up bets on Federal Reserve rate rises after data fuels worries economy is overheating
 
-## Israeli election committee bars main Arab parties from next month’s poll
-Members of Prime Minister Benjamin Netanyahu’s far-right coalition lead campaign to exclude Ra’am and Joint List
+## Rosneft billions fed Kremlin-backed money laundering network
+FT investigation shows the state oil group’s hard currency was at heart of Russia’s efforts to circumvent sanctions
 
-## How besieged billionaires are turning the tables on litigious shareholders
-Hollywood super-agent Ari Emanuel has accused funds of illegal anti-competitive conduct over his take-private of Endeavor
+## UN live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements
+Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents
 
-## Britain’s union reforms are a risk to business dynamism
-Labour’s expansion of workers’ rights adds to pressures on the private sector
-
-## Countries cancel Iran flights after US threatens to ‘shut down’ airlines
-Iraq, Oman and Azerbaijan join growing list of nations suspending air travel after Scott Bessent warns of further sanctions
-
-## European diesel prices climb over prospect of US export ban
-Any move by Washington to suspend foreign sales would be ‘catastrophic’ for global supplies, analysts warn
-
-## Fixing Britain’s paralysed state means hard choices
-After 25 years as a civil servant, I see more clearly from outside that the centre of government needs re-engineering
-
-## McDonald’s bets on chicken to win back diners as beef prices soar
-Fast-food chain aims to grow share in booming chicken market in bid to kick-start sluggish US sales
+## Arnault family moves to consolidate control of LVMH
+Plan aims to unify clan’s 49.76% shareholding and voting rights in world’s leading luxury group in a single holding company
 
 ## Bentley’s first EV set to be half the price of Ferrari’s Luce
 Launch of luxury carmaker’s Torcal SUV is aimed at younger and first-time customers
 
+## How besieged billionaires are turning the tables on litigious shareholders
+Hollywood super-agent Ari Emanuel has accused funds of illegal anti-competitive conduct over his take-private of Endeavor
+
 ## Zuckerberg to unveil new AI products as Meta’s Muse app tops charts
 Social media group’s personal AI ‘agent’ that can shop and schedule has become most downloaded app in US
-
-## How Trump’s diesel export ban will backfire
-Suspending foreign sales of the vital fuel may look good in the short term but the US would soon suffer
-
-## Italy clears path for nuclear power revival
-Senate approves law that will allow a new generation of reactors decades after previous plants were shut down
 
 ## India cuts import duty on palm, soybean oils to lower edible oil prices
 The move comes amid rising food inflation and industry concerns over global vegetable oil supplies, domestic availability and festive-season demand
@@ -60,6 +60,9 @@ Domestic air traffic falls 6.3% year-on-year to 1.21 crore passengers; SpiceJet�
 ## IRDAI moots major overhaul of insurance distribution norms
 The proposals also include cost audits and safeguards against indirect payments with the objective of ensuring greater accountability for the actual cost of distribution
 
+## Commissions capped as fees soar 4x faster than premium; regulator seeks to limit distribution costs & misselling
+
+
 ## Trump weighs 90-day diesel export ban as US fuel prices hit record high: Report
 The Trump administration is contemplating a 90-day ban on US diesel exports to combat rising energy prices. This initiative comes as diesel prices have surged significantly amid international conflicts and supply disruptions. While some officials oppose the ban, others argue it could create long-ter
 
@@ -80,9 +83,6 @@ India's oil marketing companies are projected to experience improved petrol and 
 
 ## Africa’s richest man picks Indian PSU for $450 million refinery contract in Kenya
 Aliko Dangote has hired Engineers India Ltd to oversee his $16 billion refinery construction in Kenya. The refinery in Lamu will have a capacity of 700,000 barrels per day when completed. Dangote plans to strengthen regional energy security by reducing reliance on imports through this project. Work 
-
-## Railway tracks capable of 130 kmph speed rise 5x in 12 years, but punctuality is 77%
-According to recent Ministry of Railways data released, about 54,600 km of railway tracks were renewed between 2014 and February 2026, with track renewal and upgrading being carried out based on factors such as the age, traffic load and condition of the track.
 
 ## 2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha
 2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha
@@ -132,6 +132,18 @@ The global artificial intelligence trade is staging a comeback, as a confluence 
 ## Chinese maker of robot-vacuum sensors launches Hong Kong IPO, undeterred by US ban
 Shenzhen Camsense Technologies, a maker of spatial sensors for robotic vacuum cleaners, launched a Hong Kong initial public offering (IPO) that aims to raise about HK$680 million (US$86.7 million), despite headwinds from Washington’s recent import ban on foreign-made vacuum robots. “The export and p
 
+## Iran’s UNGA Moment
+Iranian President Masoud Pezeshkian called the U.S. government “terrorists.”
+
+## Jaishankar Leads India’s UNGA Delegation
+New Delhi’s top diplomat aims to push back against new U.S. tariffs on countries buying Russian oil.
+
+## A $2.45 Billion Recovery Plan for Gaza
+Trump claims to have brought peace to the territory. Now, he is trying to deliver it.
+
+## What to Know About Djibouti’s Refugee Crisis
+The widening Houthi campaign along the Red Sea is further destabilizing the region.
+
 ## How to Create a Billion Jobs
 World Bank President Ajay Banga explains how he’s navigating a generational challenge.
 
@@ -143,18 +155,6 @@ The unrecognized republic is pitching itself as a strategic ally for Washington.
 
 ## Trump Wants to Ban Diesel Exports. It Won’t Help.
 Government interference in the world’s largest oil-producing state would be counterproductive.
-
-## What Machiavelli Would Say About Trump
-The U.S. president offers a guide on how to be a very bad prince.
-
-## Malaysia’s Top Crook Gets Leniency
-Reformers who had pinned hope on Anwar to clean things up are enraged.
-
-## A Tale of Two UNGA Speeches
-U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General António Guterres called for peace and multilateralism.
-
-## Trump Threatens to ‘Annihilate’ Iran in U.N. Speech
-Such warnings—on the U.N. stage, no less—could be considered war crimes.
 
 ## Xi Jinping Is Coming to the US. Why Is He Skipping the UNGA?
 Xi’s coming to the U.S. East Coast while the United Nations’ biggest event is going on. That makes his absence all the more striking.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Man Utd losses jump almost a third despite record revenues
+## FBI says investigating breach of ‘very sensitive’ data by hackers
+Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.
+
+## US aviation sanctions disrupt Iran flights, push travellers overland
+Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.
+
+## Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’
+Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.
+
+## Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive
+Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.
+
+## Trump administration invites Putin to attend G20 summit in Miami
+US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.
+
+## Harvey Weinstein sentenced to 15 years in New York sexual assault retrial
+The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.
+
+## As major powers act unilaterally, experts say UN faces crisis in New York
+Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.
+
+## Manchester United losses jump nearly a third to $57m despite record revenue
 Manchester United's debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.
-
-## Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams
-A star-studded opening to AFCON 2027 qualifying sees Real Madrid's Yan Diomande lead Ivory Coast against depleted Ghana.
-
-## Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’
-Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts.
-
-## Israeli soldier wounded in car-ramming attack in occupied West Bank
-Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon.
-
-## US lawmakers propose sweeping AI restrictions with superintelligence ban
-Legislation seeks to pause advanced AI systems until federal safety standards are established.
-
-## Iran threatens countries enforcing US airline sanctions
-Iran has threatened countries enforcing US sanctions on its airlines, warning that their airports could face disruptions
-
-## Trump administration to defend its ban of major news outlets in court
-The news organisations are scheduled to make their case to a US district judge on Wednesday afternoon.
-
-## Zelenskyy: Putin is making the world ‘more dangerous’
-Ukrainian President Volodymyr Zelenskyy is warning that Russia's “never-ending war" could spread throughout Europe.
 
 ## ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill
 A majority of the suggestions made by the ICAI on changes to NFRA have been accepted by the government, according to a senior ICAI official, as the Centre continues work on the revised legislation ahead of its expected introduction during the Winter Session.
