@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Trump rejects ‘globalist scheme’ to control AI in blow to Burnham
+President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’
+
+## Qantas pushes ahead with new ultra-long flights despite high fuel prices
+Chief executive Vanessa Hudson says Australian airline is confident demand for nonstop services is strong
+
+## Why EU companies are now helping Chinese ones expand into Europe
+Many multinationals seem to be adopting an approach of ‘if you can’t beat them, join them’
+
 ## Labour MPs call for end to loophole that trimmed billionaire’s tax bill by £18mn
 Quadrature Capital’s Suneil Setiya would have been liable for higher rate of stamp duty had he not bought five flats together with London mansion
 
@@ -9,14 +18,14 @@ President says Steve Witkoff and Jared Kushner had ‘good meeting’ with Irani
 ## Trump says he would back US diesel export ban
 President’s support for suspending foreign sales comes as conflicts in Middle East and Ukraine send price of vital fuel soaring
 
-## Trump rejects ‘globalist scheme’ to control AI in blow to Burnham
-President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’
-
 ## Nasdaq 100 rises to new high as ‘AI Fomo’ returns
 Tech-heavy index recovers from summer sell-off
 
 ## Top UK graft prosecutors joined Trump’s Venezuela oil baron during Swiss probe
 Alejandro Betancourt was previously wanted by authorities in Switzerland as part of a money-laundering investigation
+
+## Anthropic and OpenAI release cheaper models as price war intensifies
+New Claude and ChatGPT tools slash costs from earlier versions while promising better performance
 
 ## US government and Gulf billionaires back Todd Boehly bid for Lukoil assets
 Consortium aims to unseat Carlyle, which struck deal to buy Russian group’s international business in January
@@ -24,14 +33,20 @@ Consortium aims to unseat Carlyle, which struck deal to buy Russian group’s in
 ## Turkish dismay
 The ‘Ponzi-like scheme’ making waves on the Bosphorus
 
-## Anthropic and OpenAI release cheaper models as price war intensifies
-New Claude and ChatGPT tools slash costs from earlier versions while promising better performance
+## Sensex today | Stock Market Live: Stock to buy today: JSW Infrastructure
+Sensex, Nifty, Stock Price Live: The short-term outlook is bullish for JSW Infrastructure. The stock has surged over 5 per cent on Tuesday and has closed on a strong note. This rise has taken the share price well above a key resistance level of ₹355. It also marks the end of the three-month long con
 
-## Royal Caribbean nears deal for Sandals valuing resorts at more than $6bn
-Transaction would be largest in cruise operator’s history as it moves to cater to tourists on land as well as sea
+## TReDS platforms can now offer CGTMSE-backed guarantee cover for MSME receivables
+The mechanism allows financiers to seek guarantee cover for eligible receivables, potentially encouraging wider participation in invoice-based MSME financing
 
-## US proposes $10bn fund with Arab allies to bypass Hormuz
-Trump is in discussions about a fund that would build new energy infrastructure across the Middle East
+## Mastercard exits Pine Labs, sells entire 4.31% stake for ₹933 crore
+The stake changed hands through 13 separate transactions, with mutual funds, an insurer and foreign investors among the buyers
+
+## CCI clears Fairfax India’s proposal to acquire additional stake in IIFL Capital Services
+The proposed transaction involves a preferential equity issue and shares tendered by public shareholders under a mandatory open offer
+
+## India starts anti-dumping probe into Chinese Glycine imports
+The investigation will examine import data for 2022-25 and determine whether Chinese shipments have harmed Indian producers
 
 ## Trump signs Arctic security agreement with Denmark and Greenland, keeps island under Danish control
 
@@ -41,21 +56,6 @@ Speaking at the UN, Trump discussed Iran’s nuclear programme, maritime securit
 
 ## US tariff threat poses challenge, but India’s interests come first: FM Sitharaman
 Says foreign investors are confident about India given the country’s macroeconomic stability, fiscal prudence, inflation management and the size of its domestic market
-
-## Gourmet Popcornica wins businessline’s Changemaker Financial Transformation award
-Gourmet Popcornica’s innovative approach to transforming the popcorn supply chain not only boosts local farmers’ incomes but also significantly reduces India’s reliance on imported maize, establishing the company as a leader in the nation’s agricultural landscape.
-
-## Stork Sister Purnima Devi wins businessline’s Changemaker of the Year award; BRO, MR Rajagopal crowned Iconic changemakers
-Finance Minister Nirmala Sitharaman gave away the awards at the 8th edition of the event that honours human catalysts
-
-## India’s AI opportunity is hiding beneath the index
-India has lagged major markets as weaker AI exposure coincided with lower correlation to the global AI theme, highlighting the benchmark’s limited participation in the technology-led rally in recent years. AI-related stocks account for only 16% of MSCI India, well below the exposure seen in Korea, T
-
-## businessline Changemaker Awards 2026 - A wrap
-The 8th edition of the event saw awards being given in six categories – digital transformation, social transformation, financial transformation, young changemaker, iconic changemaker, and changemaker of the year
-
-## businessline Changemaker Awards 2026 - Winners
-Stepping into its 8th successful year, businessline Changemaker Awards was conceptualised to recognise and reward the extraordinary thinkers and achievers of our times whose work has positively impacted the world.
 
 ## Trump touts Venezuela oil deal, says it will drive down energy prices worldwide
 US President Donald Trump announced a major oil deal with Venezuela. This agreement covers sixty-five billion barrels of oil and aims to lower global energy costs. The deal is expected to boost Venezuela's oil production significantly over time. Experts, however, believe immediate price changes are 
@@ -81,6 +81,15 @@ Foreign Portfolio Investors (FPIs) are selling again even as Domestic Institutio
 ## Govt rules out festive airfare cap, urges airlines to keep prices reasonable
 
 
+## No guards, no lights: Delhi teen's gang-rape exposes Aastha Kunj Park’s glaring security gaps
+Aastha Kunj Park’s security lapses have come under scrutiny after three men posing as cops allegedly gang-raped a 17-year-old girl.
+
+## ‘Notices going almost mechanically’: CJI-led bench asks EC to address SIR concerns among voters
+The bench sought clarity on the “logical discrepancy” category and asked whether voters were being told what documents or information could resolve the issues.
+
+## BJP set to gain one seat in upcoming Rajya Sabha polls, BSP may draw blank
+The October 16 elections cover 10 Uttar Pradesh seats, one in Uttarakhand and a West Bengal bypoll, with the BSP facing a loss of representation.
+
 ## 'US shouldn't punish India, global markets over Russian oil': JPMorgan chief Jamie Dimon
 JPMorgan Chase & Co. chief Jamie Dimon also reflected on the difficult refineries would face if they are forced to switch oil quickly.
 
@@ -96,14 +105,17 @@ This is not the first time Erdogan has spoken about the Kashmir issue in his UNG
 ## Govt overhauls airport transit system in hub-and-spoke model after lapse: Naidu
 Naidu said the September 4 incident helped the ministry identify weaknesses in the system and a stronger ecosystem has subsequently been created
 
-## Cyclone ‘Arnab’ next in line? Bay of Bengal system intensifies into deep depression, to cross Andhra-Odisha coast by…
-The deep depression has been moving west-northwestwards at a speed of around 7 kmph over the past six hours, said IMD
+## China’s cancer breakthrough on CAR-T cell therapy shows progress
+In June, Chinese regulators approved the world’s first CAR-T cell therapy for solid tumour cancers, developed by a drug company based in Shanghai. One month later, at a hospital in the city, a New Zealander with advanced cancer of the stomach and small intestine became the first international patien
 
-## On cam: Class 2 student falls unconscious, dies in classroom in UP's Balrampur
-Police said they are examining CCTV footage and conducting a detailed investigation into various aspects of the incident.
+## China’s AI self-reliance presents opportunities but valuations, geopolitics are risks: BofA
+China’s push for tech self-reliance is opening new investment opportunities in artificial intelligence stocks, but stretched valuations and geopolitical tensions make the sector an increasingly risky bet, according to Bank of America. The country’s tech firms are catching up with overseas rivals whi
 
-## Rain alert in 19 states tomorrow; Odisha, Andhra, Telangana, Chhattisgarh to see heavy showers
-Heavy to very heavy rain is likely in Odisha, Andhra Pradesh, Telangana and Chhattisgarh, with very heavy rain possible at some places.
+## Power, not chips, will decide where Asia’s AI gets built
+[The content of this article has been produced by our advertising partner.] Hong Kong is asking for more computing power and for the electricity to stay clean and steady while it arrives. That was the bind put to regional utility executives on September 15 by Joseph Law, president of AESIEAP and man
+
+## As Buffett exits, can China win back Wall Street with own brand of his winning formula?
+China is betting that patient capital, rather than quick trades, will define its next phase of growth – a wager that has taken on new resonance since Warren Buffett stepped down last week after growing Berkshire Hathaway into a US$1 trillion empire over six decades. And as global investors watch thi
 
 ## 185 Years of Private Banking Heritage, A Legacy of Forward-thinking Stewardship
 [The content of this article has been produced by our advertising partner.] The J. Safra Group, “the Group”, approaches its landmark 185th anniversary uniquely positioned to meet the demands of a changing financial landscape. Through Bank J. Safra Sarasin, the Group seamlessly blends historical heri
@@ -116,18 +128,6 @@ Ultra-wealthy families in Europe, the Middle East and Africa view China as their
 
 ## China’s Huawei trims mobile chip gap with Apple as Tau Scaling Law pays off: Bernstein
 Huawei Technologies’ latest smartphone processor, the Kirin 9050 Pro, unveiled earlier this month, has narrowed its gap with Apple’s chips to about three years, from roughly four years in the previous generation, according to equity research firm Bernstein. The chip, which Bernstein estimated was pr
-
-## Amazon and Shorea Capital deals underscore foreign interest in commercial property
-Foreign investors continue to pile into Hong Kong’s commercial real estate, with a unit of online retail giant Amazon and Singapore-headquartered Shorea Capital among the latest to snap up assets, according to agents. Shorea won the tender for The Pemberton, a mixed office and retail property in She
-
-## Hong Kong regulators to flesh out new yuan strategy after Beijing meetings
-Beijing and Hong Kong are laying the groundwork for a new phase of offshore yuan development and other goals after the city unveiled its first five-year plan, with banking and securities regulators set to provide more details on Wednesday. The city’s market regulator, the Securities and Futures Comm
-
-## BlackRock gains QDII status in China’s US$149b market as Beijing leans into opening up
-US asset manager BlackRock has obtained Qualified Domestic Institutional Investor (QDII) status in China, making it the first wholly foreign-owned public fund manager to obtain the qualification, with more such developments likely as Beijing signals broader financial opening. This qualification allo
-
-## Hisense unit gains in Hong Kong debut amid rush of mainland Chinese corporate spin-offs
-Television maker Hisense Group Holdings’ optical communications unit made a steady debut in Hong Kong after raising HK$5.6 billion (US$714 million), adding momentum to a fresh wave of mainland Chinese conglomerates spinning off business units to tap overseas capital and support technology expansion.
 
 ## A Tale of Two UNGA Speeches
 U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General António Guterres called for peace and multilateralism.
@@ -153,7 +153,13 @@ A conversation with Foreign Minister Anita Anand.
 ## ‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety
 A conversation with the multilateral institution’s top tech envoy.
 
-## America’s AI Safety Dilemma and at the Trump-Xi Summit
+## 3 Ts Will Dominate the Trump-Xi Summit
+Expect little movement on trade, less on Taiwan, and who knows on tech.
+
+## A Debate Is Raging in China Over English Education
+Rising youth unemployment, the advent of AI translation, and growing anger against everything foreign are fueling public anger against English education in China.
+
+## America’s AI Safety Dilemma and the Trump-Xi Summit
 Washington will not slow its own AI labs. Slowing China’s instead would look like safety policy, but it could cost the United States the one AI deal within reach this week.
 
 ## SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?
@@ -170,12 +176,6 @@ BRICS’ New Delhi Summit expanded the grouping’s ambitions, but geopolitical 
 
 ## The Battle for Taiwan’s East: Taipei’s Western Pacific Strategy
 The PLA has stepped up both the scale and intensity of its activities in the airspace and waters east of Taiwan. How can Taipei respond?
-
-## Hindutva Is Slowly Seeping Into Nepal
-The number of Hindu-Muslim clashes is growing as India’s brand of Hindu majoritarianism gains ground in Nepal.
-
-## Cambodia’s Online Scamming Crackdown Stops at the Top
-This week's international anti-scam conference is an attempt to distract global attention from Phnom Penh's abetment of criminality on an industrial scale.
 
 ## What the End of Operation Inherent Resolve Means for Iraq and Syria
 Operation Inherent Resolve is scheduled to end on Sept. 30, as remaining U.S. troops in northern Iraq complete their withdrawal. The United States formed Combined Joint Task Force – Operation Inherent Resolve in October 2014 to bring together partners to combat the Islamic State of Iraq and the Leva
@@ -225,6 +225,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Trump confirms ‘very good’ meeting with Iran at UN
+President Trump says US officials held a 'very good' meeting on Tuesday with the Iranian delegation at UN.
+
+## Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions
+Iran's aviation officials negotiate with Oman and Iraq as US's Bessent targets carriers seven months into the conflict.
+
+## Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
+The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.
+
+## UNGA Day 1: US and Iran hold talks despite Trump’s threat
+The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.
+
 ## Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?
 Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.
 
@@ -236,18 +248,6 @@ Organisers say more than 300 constituents met with House and Senate members from
 
 ## US signs ‘tremendous’ security deal with Denmark and Greenland
 Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland.
-
-## Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’
-Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator.
-
-## Macron: France won’t ‘yield an inch’ on Ukraine support
-French President Emmanuel Macron says the “coalition of the willing" will not back down in its support of Ukraine.
-
-## Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis
-Saudi monarch's rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.
-
-## Trump: US-Iran meeting at UN was ‘very good’
-US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN.
 
 ## ICAI rolls out SSA 5000 to align India’s sustainability assurance with global norms from April 2027
 New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; applicable to financial years beginning on or after April 1, 2027.
