@@ -1,76 +1,76 @@
 # AION Intelligence
 
-## Live reader Q&A — Where are the biggest market risks?
-Join us for a live Ask an Expert Q&A with markets columnist Katie Martin and US financial commentator Robert Armstrong, now
+## White House says it has restored access to banned press outlets
+Journalists at CNN, MS Now and Politico say they were initially turned away
 
-## Global bond sell-off deepens as oil climbs back to $105
+## City of London wins approval for skyscraper plan
+Conservationists worry that views of the Tower of London will suffer if more blocks are built in the financial district
+
+## Is the UK electorate fragmenting? Not so fast
+The battle between Labour and the Conservatives for national dominance has given way to multiple local fights to be in the top two
+
+## US long-term borrowing costs touch highest level since 2004
 Rising yields strain public finances after brutal sell-off in US Treasuries market
 
-## Trump says he wants to leave AI ‘exactly where it is’ ahead of Xi meeting
-The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders
+## US mortgage rates breach 7% as affordability pressures mount
+Surging yields on government bonds and rising oil prices from the war in Iran drive inflation fears as national elections near
 
-## The risks of calling an early election for Burnham
-Speculation has grown that the new prime minister might roll the dice in a bid to secure a fresh mandate
+## Russia raises taxes to fund its war in Ukraine
+Moscow to increase dividend tax on foreign investors and introduce windfall taxes on gold and metals producers
 
-## You want honesty, Andy? Britain is out of easy options
-The prime minister must tell voters that Labour’s manifesto has been superseded by world events, both economic and military
+## Tax-free UK pension withdrawals have doubled since Labour came to power
+Fears of tax relief cut driving ‘damaging decisions’ by savers
 
-## Data centre boom emerges as wedge issue in Texas midterms
-Developers face uncertainty after state’s governor froze permits for projects weeks ahead of elections amid voter backlash
+## UAE halts Iranian flights over US sanctions
+Route is latest to pause operations after Washington imposed fresh curbs on Iranian airlines
 
-## Russia could attack Nato country within months, Denmark warns
-Intelligence service cites ‘low but growing risk’ of troop movement into neighbouring country or attack on infrastructure
+## Oracle feels the force
+Majeure problem?
 
-## UK bank tax receipts jump 20% following surge in profits
-Industry is bracing for a possible raid in next month’s Budget
+## Burnham under pressure to lobby Trump on US diesel export ban
+Reform’s Robert Jenrick contacts Trump administration as prices at UK pumps near record high
 
-## FirstFT: OpenAI ‘agent’ hacks Australian government website
-Also in today’s newsletter: Treasury yields surge above 5% and judge orders Trump administration to temporarily restore White House access for news outlets
+## Russia’s $6.9bn sanctions evasion scheme
+Western punitive measures have forced Moscow into costly workaround efforts
 
-## Private equity could revolutionise US lawyer pay, law firm bosses say
-Massumi + Consoli executives bet new ownership model will allow them to lure partners with equity incentive plans
+## GoDaddy receives takeover offer from maker of Norton antivirus software
+Talks between web domain provider and Gen Digital at early stage but could allow acquirer to broaden its business beyond cyber security
 
-## Tencent launches payments app for ‘China-maxxing’ foreign tourists
-Rival to Alipay will help overseas visitors navigate country’s largely cashless economy
+## HSBC axes $26,000 perk for Hong Kong bankers to join members’ clubs
+UK lender overhauls historic benefits for employees working in the territory as it seeks greater alignment with Hang Seng staff
 
-## Delivery Hero chief reverses exit plan after Uber secures takeover deal
-‘Teflon’ Niklas Östberg to guide German food delivery group through asset sales and a new future under its US rival
+## Bats likely began evolving in Europe 65 million years ago, study finds
+Researchers combined genomes from 103 species with 44 fossils to reconstruct the evolutionary history and family tree of bats
 
-## Oops! You added the wrong email attachment and leaked the bank’s deal list. What happens next?
-A six-point plan for putting toothpaste back in the tube
+## Google to test AI chips in space with first Project Suncatcher mission
+The mission will examine how AI hardware handles radiation, extreme temperatures and cooling challenges in the vacuum of space
 
-## SoftBank raises $11bn in record junk bond offering to fund OpenAI bet
-Yields of up to 9.75% seen as indicator of investors’ willingness to keep funding AI boom
+## Anthropic says Claude discovers novel enzyme system with CRISPR-like properties
+The discovery marks Anthropic’s first reported result from its biology research as the AI company expands into life sciences
 
-## Vistry vows to simplify business after £83mn first-half loss
-UK housebuilder’s shares slide as it cuts profit outlook and scales back growth plans
+## Tourism’s ₹24.9 lakh crore boost
+World Tourism Day, observed every year on September 27, highlights the economic and social importance of travel and tourism worldwide. As India’s tourism sector continues to expand, let’s look at its contribution to the economy, based on the World Travel & Tourism Council’s Economic Impact Research 
 
-## Judge orders White House to restore banned media’s access
-Donald Trump’s move to restrict CNN, Politico and MS Now marked a major escalation against media
+## IRDAI’s major reform agenda to force distributors to completely rethink business models, can impact earnings of banks
+The reforms, if implemented, seek to make insurance more affordable and transparent, but raise questions about distribution viability and near-term growth.
 
-## Keralam gears up for data driven governance: Chief Minister
-Satheesan opens Global Delivery Centre of CyberShelter at Lulu Twin Towers
+## US yield shock, oil surge hammer equities; Nifty hits lowest since April 7
+The BSE Sensex tumbled 1,248 points to close at 73,581, while the Nifty 50 shed 384 points to end at 23,063 on Thursday
 
-## Elitecon International plans venture into new markets
-The company said its subsidiaries in the UAE and Singapore completed a full year of operations during FY26
+## PB Fintech put option buyers laughing all the way to the bank
+From mere ₹0.3, the 1,500-put option premium jumps to ₹279.95
 
-## Income Tax Dept notifies changes in TDS Rules for non-resident immovable property transfers
-From October 1, buyers can use PAN and Form 141 instead of TAN; ₹50-lakh threshold and 1% rate will not apply
+## Consumer durables market seen at ₹3-3.25 lakh crore by 2030, says BCG-CII
+8-10% annual growth could add ₹40,000-50,000 crore in domestic value; opportunity for increasing localisation
 
-## Only 10% of UPI transaction value risks MDR charges; corporates to absorb most proposed fees: NPCI
-80% of the MDR collected would come from businesses with annual turnover of more than ₹1,000 crore, NPCI chief Dilip Asbe, said
+## Dubai-based Indian cancelled 2 flats, builder claims deductions; why MahaREAT ordered full refund
+On July 1, 2026, the homebuyer won the matter before the MahaREAT. In its ruling, the tribunal directed the builder to refund the homebuyer Rs 48.73 lakh and Rs 66.56 lakh, along with interest at the State Bank of India's Marginal Cost of Lending Rate (MCLR) plus 2%.
 
-## SEA terms edible oil duty reduction a timely, balanced intervention
-The basic customs duty (BCD) on crude soybean oil and palm oil has been slashed from 10% to 5%, and on refined soybean oil and palm oil from 32.5% to 27.5%
+## Just 1.85%, yet NSE has best debut among India's five biggest IPOs
+NSE made its debut as a listed company on the BSE, opening at ₹1,800 and closing at ₹1,818. The initial public offering was valued at ₹22,561.57 crore, making it the second-largest in Indian history. NSE's shares gained 1.85% on the first day despite a broader market decline. The company's IPO was s
 
-## Broker’s call: Sammaan Capital (Buy)
-Ventura Securities
-
-## Broker’s call: Dodla Dairy (Buy)
-Management reaffirmed revenue growth guidance of 15% over the medium term, expecting sales’ salience of value-added products (VAP) to go to 40% (from current 30%)
-
-## SRIT India to raise ₹218 crore via IPO on mainboard
-The issue, which opens on Monday, has been priced at ₹123-₹130 per equity share
+## From 33 to 12 hours, 14 to 6: Vande Bharat, roads cutting travel time drastically
+Across bridges, tunnels, expressways and railways, projects are replacing long detours, difficult terrain and slower routes with more direct connections.
 
 ## PF wage ceiling rises to Rs 25,000: Top FAQs answered for employees
 For employees, however, the immediate reaction may be simple: What does this mean for me? The answer depends on an employee’s wage structure, provident fund membership status and pension coverage.
@@ -87,38 +87,29 @@ Before the listing, NSE's valuation at the IPO price of Rs 1,785 per share stood
 ## MCX Gold And Silver Outlook: Nuvama sees sideways to bearish trend; check outlook
 MCX Gold looks set to stay on the back foot in the coming sessions, the weekly price structure continues to drift lower, reinforcing a sideways to bearish momentum.
 
-## Woman paid US tax but faced Rs 30 lakh tax demand in India; what ITAT said
-Under the applicable rules, taxpayers who have paid taxes in a foreign country with which India has a Double Taxation Avoidance Agreement (DTAA) are required to submit Form 67 along with their ITR to claim credit in India for the foreign taxes already paid.
+## SC reserves order on Centre plea against retrospective OBC creamy layer ruling
+The Supreme Court reserved its order on the Centre’s plea seeking to defer its March 11 OBC creamy layer ruling by two years and apply it prospectively.
 
-## Stock market today: BSE Sensex tumbles over 1200 points, Nifty50 slips below 23,070
+## ‘Resign within 48 hours or Jantar Mantar 2.0’: CJP's ultimatum to CEC Gyanesh Kumar
+CJP accused the Chief Election Commissioner of “undermining” voter rights and launched the “Election Commission Thik Karo” campaign.
 
+## ‘Spoke to him at 10pm’: Greater Noida bus fire victims’ son searches for father
+The bus, travelling from Delhi to Mahoba in Bihar and carrying more than 35 people, was engulfed in flames late Wednesday night.
 
-## Oil prices today: Brent crude edges lower as Iran keeps door open to diplomacy
+## SC commutes death sentence of man who raped, murdered 6-year-old stepdaughter
+The bench headed by Justice Vikram Nath observed that when the protector turns predator, it strikes not only at the child but at the security of a family relationship.
 
+## Rahul Gandhi says laws passed by MPs ‘illegal’: 'Vote chori is kanoon chori'
+Rahul Gandhi warned that compromising voter mandates undermines the legitimacy of Parliament and all laws passed within it.
 
-## Over 360 MP school students lock themselves in hostel, demand principal’s removal
-The principal, HK Meena, was accused of brutally beating a Class 10 student in Bajranggarh village, seven kilometres from Guna
+## SC orders safeguards against Pocso Act misuse in marital disputes
+Supreme Court directs police and courts to vet Pocso complaints in matrimonial disputes and seek a child psychiatrist’s assessment before arrest when evidence is not “palpable”
 
-## NDMC develops 1-acre ‘Bharat Van’ using Miyawaki method in Delhi’s Lodhi Colony
-Bharat Van will have around 10,000 indigenous plants, along with spaces for yoga, meditation and other recreational activities
+## Mahadev app: CBI arrests key accused Abhishek Kumar after he arrives from Dubai
+The CBI said it arrested Abhishek Kumar at Rajiv Gandhi International Airport in Hyderabad and produced him before a court in Raipur
 
-## Menstruation row over London trip: TN minister Keerthana breaks silence, says ‘health is private’
-Tamil Nadu industries minister S Keerthana clarified her absence from chief minister Vijay's London visit was due to a minor medical procedure.
-
-## Ladakh observes 'Martyrs' Day' with shutdown marking anniversary of 2025 violence
-Climate activist Sonam Wangchuk led a symbolic march, advocating for clarity on a delayed judicial report concerning the incident.
-
-## ‘EC owes apology to nation’: Shashi Tharoor over report of 97 eligible Goa voters left out of electoral roll
-Tharoor said the reported exclusion had consequences beyond voting rights, referring to people who could be dependent on access to government-linked services.
-
-## Bangladesh stops importing Hilsa from India; Dhaka may not export fish to India
-Bangladesh has stopped importing Hilsa from India and Myanmar, raising concerns that it may not allow Hilsa exports to India ahead of Durga Puja.
-
-## Husband's girlfriend can't be accused of cruelty to wife under BNS: Karnataka HC
-The court said this while quashing criminal proceedings against a man's girlfriend, who had been accused by his wife of cruelty under Section 85 of the BNS.
-
-## ‘Owner didn’t take precautions’: Delhi police tells HC on Satya Niketan collapse
-The report said that the owners also did not engage, hire or obtain advice from any unqualified structural engineer/architect in respect of the basement repair
+## Allow Congress candidate to contest the Nandigram by-election: Calcutta HC to state
+Milan Pradhan, the candidate, was arrested on September 18 in connection with a 2007 murder case and later shown arrested in five other cases, all registered in the same year
 
 ## US regulators back multi-cancer blood test – but Hong Kong doctors remain cautious
 Efforts to detect multiple cancers through a single blood draw are gathering momentum after US regulators endorsed the technology for the first time, although experts say wider adoption in Hong Kong still faces challenges as doctors remain cautious about its clinical value. In a landmark decision fo
@@ -144,6 +135,18 @@ With office vacancy rates in Kowloon East remaining high, the Planning Departmen
 ## Tencent rolls out payment app for foreign travellers ahead of Apec summit
 Tencent Holdings on Thursday launched TenPayGo, a mobile payment app targeting foreign visitors, as the tech giant seeks to capture China’s growing inbound tourism market ahead of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen. Developed by Tencent’s WeChat Pay team, TenPayGo allowe
 
+## China’s Human Rights Crisis Hasn’t Disappeared
+Trump should raise the fates of imprisoned dissidents with Xi.
+
+## Can AI Be Regulated?
+Frontier AI labs are calling for government oversight.
+
+## The Law of the Sea Is in Trouble
+The far right wants to abandon stranded seafarers.
+
+## Thank Goodness Europe Doesn’t Have a Phone Number
+U.S. policymakers like complaining about one of the sources of the European Union’s strength.
+
 ## Germany Is Officially Adrift
 The German chancellor’s power is ebbing at home—and the consequences will be global.
 
@@ -156,41 +159,29 @@ New Delhi’s top diplomat aims to push back against new U.S. tariffs on countri
 ## A $2.45 Billion Recovery Plan for Gaza
 Trump claims to have brought peace to the territory. Now, he is trying to deliver it.
 
-## What to Know About Djibouti’s Refugee Crisis
-The widening Houthi campaign along the Red Sea is further destabilizing the region.
+## India’s Semiconductor Journey: Old Designer, New Producer
+India already has the design talent; what it needs is to turn this talent into Indian-owned companies, and to build the supplier base its fabs lack.
 
-## How to Create a Billion Jobs
-World Bank President Ajay Banga explains how he’s navigating a generational challenge.
+## Constitutional Reform as the Lee Jae-myung Administration’s Political Watershed
+South Koreans have long discussed changing the way the presidency is set up. Should it – and can it – happen now?
 
-## The World Needs to Know When AI Goes Wrong
-Global reporting standards are a key step toward safety.
+## Takaichi’s Pre-emptive Diplomacy: What Japan Needs From the Trump-Xi Summit
+Prime Minister Takaichi made Tokyo’s concerns clear to Trump before Xi Jinping arrived in Washington. Will that actually impact the summit?
 
-## The Iran War Might Be Somaliland’s Chance for Recognition
-The unrecognized republic is pitching itself as a strategic ally for Washington.
+## Grand Strategic Compatibility: The Basis of The Japan-Vietnam Partnership
+The quick pace of reconciliation between Tokyo and Hanoi since the end of the Cold War has reflected the compatibility of their respective grand strategies.
 
-## Rare Earths at the Trump-Xi Summit: Relief Without a Resolution
-The Trump-Xi meeting may temporarily ease anxiety over rare earth supplies, but it is unlikely to lower the political and regulatory threshold for access.
+## In India, Death Sentences Are Mostly the Result of Arbitrary Exercise of Judicial Power
+Recently, a district judge awarded 23 death sentences in ten cases over a span of four months.
 
-## Will the World Ever Take Action on Myanmar?
-The evidence of atrocities is there. What are governments prepared to do with that knowledge?
+## Cambodian Beauty Pageant Acknowledges Mistaken Use of Thai Historical Photograph
+The unresolved border dispute between Cambodia and Thailand has given rise to a rash of online disputes over cultural "ownership."
 
-## Xi Jinping Is Coming to the US. Why Is He Skipping the UNGA?
-Xi’s coming to the U.S. East Coast while the United Nations’ biggest event is going on. That makes his absence all the more striking.
+## Delivered to the Wrong Address? F-35 Parts Re-routed to Hong Kong
+The F-35 is a supremely advanced fighter aircraft with many proprietary components that would be of immense value to several foreign intelligence services. It is also a consumer product.
 
-## On Taiwan, US ‘Strategic Ambiguity’ Is Not Dead Yet
-What look like indications of U.S. abandonment of Taiwan are relatively superficial, while substantive investment in capabilities that could deter China continues apace.
-
-## The Trump-Xi Summit: Stakes for Australia
-Trump wants more sales. Xi wants fewer constraints. What does Australia need from the Trump-Xi summit?
-
-## At UNGA, Kyrgyz President Japarov Once Again Complains About Sanctions
-Japarov also thanked Donald Trump for ending funding of NGOs.
-
-## The China-Russia Factor in the Iran War
-Insights from Stephen J. Blank.
-
-## In Taiwan, a Disaster Exercise Prepares for Conflict, Too
-This year’s natural disaster drill sought to stress-test Taiwan against cascading, multisystem failures – with obvious implications for an invasion scenario as well as an earthquake.
+## Burmese Refugees in Thailand Face Fresh Deportation Threat
+A recently-passed law increases the risk that people fleeing repression will be deported and forcibly recruited into the military’s units of "one-way troops."
 
 ## Power, Prudence, and Restraint in Fénelon’s Telemachus
 “If one is to judge by the fire and ardor with which this book is sought after, it is the most excellent of all books. Never were so many copies printed of any work; never were so many editions made of a single book; never has any writing been read by so many people.” -Pierre-Valentin Faydit in La T
@@ -240,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Who’s who in the race for the next UN Secretary-General?
-The race to become the next United Nations Secretary-General is heating up, with five women among eight candidates.
+## Ukrainian knifeman kills one, wounds four at abbey in Poland
+Ukraine's President Zelenskyy denounces 'horrific crime' after 31-year-old attacks clergy, worshippers in border town.
 
-## Deadly attack on Indian cargo ship off coast of Oman
-A crew member was killed in an attack on an Indian cargo vessel off the coast of Oman.
+## Jerusalem Daily: Ben-Gvir sets out bid to become defence minister
+In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister.
 
-## Belgium and Rwanda are talking again. Is DR Congo any closer to peace?
-Belgium and Rwanda have restored diplomatic relations after an 18-month rupture over the war in eastern DR Congo.
+## Collapsing currency and inflation leave families struggling in Sudan
+Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.
 
-## Russia attacks Ukraine while Zelenskyy speaks at UNGA
-Russia attacks Ukraine while Zelenskyy speaks at UNGA
+## Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN
+UN trade body report says consequences of Israeli occupation have 'skyrocketed' with 90% unemployed in Gaza.
 
-## India’s surfers look to make waves at the 2026 Asian Games
-Indian surfers overcame huge challenges to reach the Asian Games and now dream of competing at the 2028 Olympics.
+## Africa’s bid for a seat on the Security Council
+Africa has 54 countries at the United Nations, but not one has a permanent seat on the powerful UN Security Council.
 
-## Could the oil shock push fuel prices even higher?
-From Hormuz to the Black Sea, pressure on main supply routes is testing the resilience of the global energy market.
+## ‘Hostile, but hooked’: What’s behind the US-China trade truce extension?
+Some analysts say extending the truce is pure optics - others say it's a useful step towards a more durable deal.
 
-## Why is Iran threatening regional airports, and what could be the impact?
-Tehran hints retaliation as Georgia and Azerbaijan suspend Iranian flights amid mounting US sanctions on airlines.
+## Four civilians killed in Pakistani airstrikes in Afghanistan
+Four civilians have been killed in the latest Pakistani airstrikes in Afghanistan.
 
-## OpenAI agents hack Australian government health data
-Rogue OpenAI agents accessed an Australian government health data website, obtaining non-public information.
+## Media outlets access to White House restored after a chaotic few hours
+A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access.
 
 ## ICAI to certify independent directors, new course likely by October-end
 Institute plans dedicated programme to train board members on Companies Act duties, questioning management and promoters and consequences of failing to discharge responsibilities.
